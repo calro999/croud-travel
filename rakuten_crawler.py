@@ -75,12 +75,19 @@ def save_to_cache(content_id):
         f.write(f"{content_id}\n")
 
 def fetch_rakuten_item():
-    app_id = os.environ.get("RAKUTEN_APPLICATION_ID")
-    affiliate_id = os.environ.get("RAKUTEN_AFFILIATE_ID")
-    access_key = os.environ.get("RAKUTEN_ACCESS_KEY")
+    app_id_raw = os.environ.get("RAKUTEN_APPLICATION_ID")
+    app_id = app_id_raw.strip() if app_id_raw else None
+    
+    aff_id_raw = os.environ.get("RAKUTEN_AFFILIATE_ID")
+    affiliate_id = aff_id_raw.strip() if aff_id_raw else None
+    
+    ak_raw = os.environ.get("RAKUTEN_ACCESS_KEY")
+    access_key = ak_raw.strip() if ak_raw else None
     
     if not app_id:
         raise ValueError("RAKUTEN_APPLICATION_ID must be set in environment variables.")
+        
+    print(f"Debug: RAKUTEN_APPLICATION_ID length: {len(app_id)}")
 
     # ランダムに都道府県を選択
     pref = random.choice(PREFECTURES)
