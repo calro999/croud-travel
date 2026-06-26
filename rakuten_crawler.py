@@ -93,8 +93,8 @@ def fetch_rakuten_item():
     pref = random.choice(PREFECTURES)
     print(f"Selected Prefecture for search: {pref['name']} ({pref['code']})")
 
-    # 楽天トラベル施設検索API
-    url = "https://app.rakuten.co.jp/services/api/Travel/SimpleHotelSearch/20170426"
+    # 楽天トラベル施設検索API (OpenAPI版: UUIDとアクセスキーに対応)
+    url = "https://openapi.rakuten.co.jp/engine/api/Travel/SimpleHotelSearch/20170426"
     
     params = {
         "applicationId": app_id,
