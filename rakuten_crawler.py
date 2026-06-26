@@ -93,15 +93,23 @@ def fetch_rakuten_item():
     pref = random.choice(PREFECTURES)
     print(f"Selected Prefecture for search: {pref['name']} ({pref['code']})")
 
-    # 楽天トラベル施設検索API (OpenAPI版: UUIDとアクセスキーに対応)
-    url = "https://openapi.rakuten.co.jp/engine/api/Travel/SimpleHotelSearch/20170426"
+    # 楽天トラベルキーワード検索API (OpenAPI版)
+    url = "https://openapi.rakuten.co.jp/engine/api/Travel/KeywordHotelSearch/20170426"
+    
+    # 都道府県名とランダムな属性を組み合わせてキーワードを作成
+    search_keywords = [pref['name']]
+    if random.random() > 0.5:
+        search_keywords.append("温泉")
+    else:
+        search_keywords.append("ホテル")
+        
+    keyword_str = " ".join(search_keywords)
+    print(f"Searching with keyword: {keyword_str}")
     
     params = {
         "applicationId": app_id,
         "format": "json",
-        "largeClassCode": "japan",
-        "middleClassCode": pref["code"],
-        "genreCode": "onsen" if random.random() > 0.5 else "standard",
+        "keyword": keyword_str,
         "hits": 20
     }
     
