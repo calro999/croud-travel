@@ -49,3 +49,13 @@ next-env.d.ts
 !.dev.vars.example
 
 !.env.example
+
+# Python
+__pycache__/
+.venv/
+*.pyc
+
+# Old project files
+implementation_plan.md
+fanza_crawler.py
+posted_cache.txt
