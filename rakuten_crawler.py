@@ -39,7 +39,7 @@ PREFECTURES = [
     {"code": "osaka", "name": "大阪府", "area": "近畿"},
     {"code": "hyogo", "name": "兵庫県", "area": "近畿"},
     {"code": "nara", "name": "奈良県", "area": "近畿"},
-    {"code": "wakayama", "name": "動作確認中", "area": "近畿"},
+    {"code": "wakayama", "name": "和歌山県", "area": "近畿"},
     {"code": "tottori", "name": "鳥取県", "area": "中国"},
     {"code": "shimane", "name": "島根県", "area": "中国"},
     {"code": "okayama", "name": "岡山県", "area": "中国"},
@@ -59,10 +59,16 @@ PREFECTURES = [
     {"code": "okinawa", "name": "沖縄県", "area": "沖縄"}
 ]
 
-# 和歌山県の文字化け防止修正
-for p in PREFECTURES:
-    if p["code"] == "wakayama":
-        p["name"] = "和歌山県"
+THEMES = [
+    "絶景と大自然の癒やし",
+    "歴史とレトロな街並み散策",
+    "ご当地絶品グルメと地酒巡り",
+    "知る人ぞ知る秘境と穴場スポット",
+    "温泉街の湯めぐりと風情",
+    "女子旅に人気のパワースポットと写真映え",
+    "非日常を味わう極上の大人旅",
+    "カップルで過ごすロマンチックな週末"
+]
 
 def load_posted_cache():
     if os.path.exists(CACHE_FILE):
@@ -74,7 +80,7 @@ def save_to_cache(content_id):
     with open(CACHE_FILE, "a", encoding="utf-8") as f:
         f.write(f"{content_id}\n")
 
-def fetch_rakuten_item():
+def fetch_rakuten_items(target_count=1):
     app_id_raw = os.environ.get("RAKUTEN_APPLICATION_ID")
     app_id = app_id_raw.strip() if app_id_raw else None
     
@@ -86,17 +92,13 @@ def fetch_rakuten_item():
     
     if not app_id:
         raise ValueError("RAKUTEN_APPLICATION_ID must be set in environment variables.")
-        
-    print(f"Debug: RAKUTEN_APPLICATION_ID length: {len(app_id)}")
 
     # ランダムに都道府県を選択
     pref = random.choice(PREFECTURES)
     print(f"Selected Prefecture for search: {pref['name']} ({pref['code']})")
 
-    # 楽天トラベルキーワード検索API (OpenAPI版)
     url = "https://openapi.rakuten.co.jp/engine/api/Travel/KeywordHotelSearch/20170426"
     
-    # 都道府県名とランダムな属性を組み合わせてキーワードを作成
     search_keywords = [pref['name']]
     if random.random() > 0.5:
         search_keywords.append("温泉")
@@ -110,12 +112,10 @@ def fetch_rakuten_item():
         "applicationId": app_id,
         "format": "json",
         "keyword": keyword_str,
-        "hits": 20
+        "hits": 30
     }
-    
     if affiliate_id:
         params["affiliateId"] = affiliate_id
-        
     if access_key:
         params["accessKey"] = access_key
 
@@ -129,6 +129,7 @@ def fetch_rakuten_item():
         raise RuntimeError(f"No hotels found in prefecture: {pref['name']}")
 
     posted_cache = load_posted_cache()
+    selected_items = []
     
     for h in hotels:
         hotel_container = h.get("hotel", [])
@@ -141,81 +142,101 @@ def fetch_rakuten_item():
         if not hotel_no:
             continue
 
-        hotel_no_str = str(hotel_no)
-        if hotel_no_str not in posted_cache:
+        if str(hotel_no) not in posted_cache:
             basic_info["_prefecture"] = pref["name"]
             basic_info["_area"] = pref["area"]
-            return basic_info
+            
+            # APIがアフィリエイトURLを返さない場合へのフォールバック
+            affiliate_url = basic_info.get("affiliateUrl")
+            if not affiliate_url:
+                basic_info["affiliateUrl"] = basic_info.get("hotelInformationUrl")
+                
+            selected_items.append(basic_info)
+            if len(selected_items) >= target_count:
+                break
 
-    if hotels:
-        first_hotel = hotels[0].get("hotel", [])[0].get("hotelBasicInfo", {})
-        first_hotel["_prefecture"] = pref["name"]
-        first_hotel["_area"] = pref["area"]
-        return first_hotel
+    # 未投稿が足りない場合は既存のものを再利用（フェールセーフ）
+    if len(selected_items) < target_count:
+        for h in hotels:
+            hotel_container = h.get("hotel", [])
+            if not hotel_container: continue
+            basic_info = hotel_container[0].get("hotelBasicInfo", {})
+            if basic_info not in selected_items:
+                basic_info["_prefecture"] = pref["name"]
+                basic_info["_area"] = pref["area"]
+                if not basic_info.get("affiliateUrl"):
+                    basic_info["affiliateUrl"] = basic_info.get("hotelInformationUrl")
+                selected_items.append(basic_info)
+            if len(selected_items) >= target_count:
+                break
 
-    return None
+    return selected_items
 
-def generate_article_with_llm(item):
-    hotel_name = item.get("hotelName", "")
-    special = item.get("hotelSpecial", "")
-    min_price = item.get("hotelMinPrice", "未定")
-    pref_name = item.get("_prefecture", "")
-    
-    # 時間帯（偶数・奇数）でモードを切り替えて1日12回ずつになるようにする
-    current_hour = int(time.strftime("%H"))
-    mode = "hotel" if current_hour % 2 == 0 else "prefecture"
+def generate_article_with_llm(items, mode):
+    system_message = "あなたは一流の旅行雑誌の編集長であり、SEO（検索エンジン最適化）とAI-Search（Perplexity等）の両方に極めて強い、表現力豊かなプロの旅行ライターです。"
     
     if mode == "hotel":
-        print("Generating article in 'Hotel Focus' mode...")
-        prompt = f"""以下の宿泊施設の情報を基にして、読者の「旅行に行きたい欲」を最大化するような旅行雑誌風の紹介記事をHTML本文として執筆してください。
+        item = items[0]
+        hotel_name = item.get("hotelName", "")
+        special = item.get("hotelSpecial", "")
+        min_price = item.get("hotelMinPrice", "未定")
+        print(f"Generating article in 'Hotel Focus' mode for {hotel_name}...")
+        
+        prompt = f"""以下の宿泊施設の情報を基にして、読者の「旅行に行きたい欲」を最大化する旅行雑誌風の紹介記事をHTML本文として執筆してください。
 
 【施設名】: {hotel_name}
 【キャッチコピー・特徴】: {special}
 【最安価格目安】: {min_price}円〜
 
-【執筆ルール】
-1. ペルソナ: 旅を愛し、全国の隠れた名宿や絶品グルメ宿を紹介する人気プロ旅行ライター。情緒あふれる、かつ情景が目に浮かぶような熱量ある紀行文で執筆してください。
-2. 構成・タグ指定:
-   - 検索エンジン（SEO）と読者の読みやすさを意識し、必ず見出しタグ <h2>, <h3>, <h4> を適切に使い分けて階層構造を作ってください。
-   - 例: <h2>客室と館内の魅力</h2>, <h3>プライベート温泉の贅沢</h3>, <h4>アメニティへのこだわり</h4> のように構造化。
-   - 単なる紹介ではなく、宿の持つ歴史、ロケーション、料理、温泉の魅力を各セクションに分けて網羅的に書いてください。
-3. 文字数: 情報量を増やしSEO評価を高めるため、HTMLタグを含めて 1000文字〜1500文字程度 のボリュームで詳細に執筆してください。
-4. SEOキーワード: 「旅行」「観光」「温泉」「露天風呂」「贅沢」「女子旅」「家族旅行」「アクセス」「アメニティ」「地元の味覚」などの関連語句を自然かつ豊富に散りばめてください。
-5. 出力形式: 
-   - 1行目に、この宿泊記事専用のSEOメタディスクリプション（120文字程度、タグなしプレーンテキスト）を書いてください。
-   - 2行目以降に、記事のHTML本文（<h2>, <h3>, <h4>, <p>, <strong>, <ul>, <li>のみ）を記述してください。
-   - マークダウンのコードブロック（```html や ```）は一切出力しないでください。
+【SEO・AI-SEO 超特化ルール】
+1. 構造化と結論ファースト: AI検索エンジン（SGE等）が要約しやすいよう、記事の冒頭（最初のH2の直下）に「この宿をおすすめする3つの理由」を箇条書き（<ul><li>）で簡潔に提示してください。
+2. LSIキーワードの網羅: 「アクセス」「アメニティ」「周辺観光」「口コミ」「カップル」「子連れ」「極上の癒やし」といった関連検索キーワードを自然に、かつ網羅的に本文へ組み込んでください。
+3. タグ指定: 検索エンジンのクローラーが理解しやすいよう <h2>, <h3>, <h4> を用いて階層構造を美しく作ってください。
+4. ペルソナとトーン: 旅を愛し、全国の隠れた名宿を紹介するプロ旅行ライター。情緒あふれる熱量のある文章。
+5. 文字数: 情報量を増やしSEO評価を高めるため、HTMLタグを含めて 1200文字〜1500文字程度 で詳細に執筆してください。
+
+【出力形式】
+- 1行目に、この記事専用のSEOメタディスクリプション（120文字程度、タグなしプレーンテキスト）を書いてください。
+- 2行目以降に、記事のHTML本文（<h2>, <h3>, <h4>, <p>, <strong>, <ul>, <li>のみ）を記述してください。
+- マークダウンのコードブロック（```html や ```）は一切出力しないでください。
 """
     else:
-        print(f"Generating article in 'Prefecture Focus' mode for {pref_name}...")
-        prompt = f"""以下の都道府県の観光の魅力と、その拠点となる宿泊施設の情報を基にして、読者が「今すぐそこへ行きたい！」と思うような旅行雑誌風の紹介記事をHTML本文として執筆してください。
+        pref_name = items[0].get("_prefecture", "")
+        theme = random.choice(THEMES)
+        
+        hotels_info = ""
+        for i, item in enumerate(items):
+            hotels_info += f"■宿{i+1}: {item.get('hotelName', '')}\n  特徴: {item.get('hotelSpecial', '')}\n  価格目安: {item.get('hotelMinPrice', '未定')}円〜\n\n"
+            
+        print(f"Generating article in 'Prefecture Focus' mode for {pref_name} (Theme: {theme}) with {len(items)} hotels...")
+        
+        prompt = f"""以下の都道府県と「フォーカステーマ」、そして拠点となる【3つの厳選宿泊施設】の情報を基に、読者が「今すぐここへ旅行したい！」と思うような旅行雑誌の特集記事をHTML本文として執筆してください。
 
 【対象の都道府県】: {pref_name}
-【紹介する宿泊施設】: {hotel_name}
-【宿のキャッチコピー・特徴】: {special}
-【最安価格目安】: {min_price}円〜
+【今回の特集テーマ】: {theme}
+【紹介する厳選宿（3件）】:
+{hotels_info}
 
-【執筆ルール】
-1. 構成の流れ: まずは前半で「{pref_name}」という土地が持つ観光地としての魅力（美しい絶景スポット、ご当地グルメ、歴史ある街並み、豊かな自然など）を熱量高く語り、後半で「そんな{pref_name}を満喫するための最高の拠点」として宿泊施設「{hotel_name}」をシームレスに紹介してください。
-2. ペルソナ: その土地の魅力を知り尽くしたプロの旅行ライター。
-3. 構成・タグ指定:
-   - 検索エンジン（SEO）と読者の読みやすさを意識し、必ず見出しタグ <h2>, <h3>, <h4> を適切に使い分けて階層構造を作ってください。
-   - 例: <h2>{pref_name}が誇る絶景と美食の誘惑</h2>, <h3>必ず訪れたい観光スポット</h3>, <h2>旅の拠点に選びたい極上宿「{hotel_name}」</h2>, <h3>至福の温泉と客室</h3> のように構造化。
-4. 文字数: 情報量を増やしSEO評価を高めるため、HTMLタグを含めて 1200文字〜1800文字程度 のボリュームで詳細に執筆してください。
-5. SEOキーワード: 「{pref_name} 観光」「名物グルメ」「絶景スポット」「おすすめホテル」「温泉宿」「アクセス」「旅行プラン」などの関連語句を自然に散りばめてください。
-6. 出力形式: 
-   - 1行目に、この記事専用のSEOメタディスクリプション（120文字程度、タグなしプレーンテキスト）を書いてください。
-   - 2行目以降に、記事のHTML本文（<h2>, <h3>, <h4>, <p>, <strong>, <ul>, <li>のみ）を記述してください。
-   - マークダウンのコードブロック（```html や ```）は一切出力しないでください。
+【SEO・AI-SEO 超特化ルール】
+1. 記事の構成:
+   - 前半: 「{pref_name}」の観光の魅力について、【特集テーマ: {theme}】に沿って深く掘り下げて語ってください。ありきたりな紹介ではなく、特定のスポットやグルメ、歴史などを具体的に描写してください。
+   - 中盤: AI検索エンジン向けに、「{pref_name}旅行を最大限に楽しむための3つのポイント」を箇条書きでまとめてください。
+   - 後半: 旅の拠点として、上記で指定された【3つの厳選宿】を順番に見出し（<h3>）をつけて魅力的に紹介してください。
+2. LSIキーワードの網羅: 「{pref_name} 観光」「モデルコース」「穴場」「アクセス」「おすすめホテル」「周辺ランチ」「絶景スポット」などを自然に散りばめてください。
+3. タグ指定: <h2>, <h3>, <h4> を用いて階層構造を作り、読みやすくしてください。
+4. 文字数: SEOの評価を最大化するため、HTMLタグを含めて 1500文字〜2000文字程度 の特大ボリュームで執筆してください。
+
+【出力形式】
+- 1行目に、この記事専用のSEOメタディスクリプション（120文字程度、タグなしプレーンテキスト）を書いてください。
+- 2行目以降に、記事のHTML本文（<h2>, <h3>, <h4>, <p>, <strong>, <ul>, <li>のみ）を記述してください。
+- マークダウンのコードブロック（```html や ```）は一切出力しないでください。
 """
-
-    system_message = "あなたは一流の旅行雑誌の編集長であり、SEOに強い豊かな表現で宿泊ルポを執筆するプロライターです。"
 
     pollinations_models = ["openai", "openai-fast", "llama", "mistral", "qwen"]
     for attempt in range(2):
         for model in pollinations_models:
             try:
-                print(f"Attempting to generate travel article with Pollinations AI (model: {model}, attempt: {attempt+1})...")
+                print(f"Attempting with Pollinations AI (model: {model}, attempt: {attempt+1})...")
                 response = requests.post(
                     "https://text.pollinations.ai/",
                     json={
@@ -225,33 +246,26 @@ def generate_article_with_llm(item):
                         ],
                         "model": model
                     },
-                    timeout=40
+                    timeout=50
                 )
                 if response.status_code == 200 and len(response.text.strip()) > 100:
                     return response.text.strip()
                 elif response.status_code == 429:
-                    print(f"Pollinations AI ({model}) returned 429. Waiting...")
                     time.sleep(3)
             except Exception as e:
                 print(f"Pollinations AI ({model}) failed: {e}")
                 time.sleep(2)
 
-    # 失敗時の高品質な旅行雑誌風フォールバック
-    fallback_text = f"""楽天トラベルでおすすめの温泉宿「{hotel_name}」の魅力、お部屋や露天風呂、豪華な夕食グルメ情報を旅行ライターが徹底的にレポートします。
-<h2>時を忘れる極上の癒やし空間。{hotel_name}で過ごす至福のひととき</h2>
-<p>{special}</p>
-<p>日常の喧騒から離れ、美しい四季の移ろいを感じながら過ごす時間は、まさに旅の醍醐味。温泉に身を委ね、地元の旬の美味を味わう、そんな贅沢な体験があなたを待っています。女子旅や大切な人との記念日旅行にも最適です。</p>
-<h2>宿の魅力を紐解く3つのポイント</h2>
-<h3>1. 非日常を味わえる洗練された客室空間</h3>
-<p>和の温もりとモダンな快適さが融合した客室。窓の外には見渡す限りの絶景が広がり、日常の疲れを優しく癒やしてくれます。細部まで行き届いたアメニティも旅の楽しみを高めます。</p>
-<h3>2. 美肌効果抜群の温泉とプライベート露天風呂</h3>
-<p>滾々と湧き出る源泉。贅沢な貸切風呂や露天風呂では、心地よい風を感じながら極上のリラックスタイムを満喫できます。温泉通も太鼓判を押す湯ざわりをご堪能ください。</p>
-<h3>3. 地域ブランド食材を堪能する極上グルメ</h3>
-<p>地元の新鮮な海の幸、山の幸をふんだんに取り入れた創作会席。料理人が腕によりをかけて仕上げる一品一品は、見た目も美しく、口いっぱいに幸せが広がります。</p>
-<h2>まとめ</h2>
-<p>今度の週末は、少し贅沢をして心安らぐ旅に出かけてみませんか？楽天トラベルからのご予約でお得なプランがご利用いただけます。</p>
-"""
-    return fallback_text.strip()
+    return fallback_generation(items, mode)
+
+def fallback_generation(items, mode):
+    if mode == "hotel":
+        hotel_name = items[0].get("hotelName", "")
+        special = items[0].get("hotelSpecial", "")
+        return f"""楽天トラベルでおすすめの温泉宿「{hotel_name}」の魅力と絶景を旅行ライターが徹底レポート。\n<h2>時を忘れる極上の癒やし空間。{hotel_name}で過ごす至福のひととき</h2><p>{special}</p>"""
+    else:
+        pref = items[0].get("_prefecture", "")
+        return f"""{pref}の絶景観光スポットとおすすめ厳選宿特集。心を満たす極上の旅行プランをご提案。\n<h2>{pref}の魅力と巡るべき名所</h2><p>{pref}には素晴らしい景色と美食が溢れています。</p>"""
 
 def decide_category(item):
     special = item.get("hotelSpecial", "").lower()
@@ -263,9 +277,9 @@ def decide_category(item):
         categories.append("温泉旅行")
     if "贅沢" in text or "露天風呂付" in text or "リゾート" in text or "高級" in text or "記念日" in text:
         categories.append("高級宿・リゾート")
-    if "料理" in text or "食事" in text or "グルメ" in text or "バイキング" in text or "会席" in text or "創作" in text:
+    if "料理" in text or "食事" in text or "グルメ" in text or "バイキング" in text or "会席" in text:
         categories.append("グルメ・美食")
-    if "自然" in text or "アクティビティ" in text or "体験" in text or "スキー" in text or "ゴルフ" in text or "海" in text:
+    if "自然" in text or "アクティビティ" in text or "海" in text:
         categories.append("アクティビティ・自然")
     
     if not categories:
@@ -284,58 +298,82 @@ def save_individual_post(post_data):
 
 def main():
     try:
-        item = fetch_rakuten_item()
-        if not item:
+        current_hour = int(time.strftime("%H"))
+        mode = "hotel" if current_hour % 2 == 0 else "prefecture"
+        
+        target_count = 1 if mode == "hotel" else 3
+        items = fetch_rakuten_items(target_count)
+        
+        if not items:
             print("No hotels fetched. Exiting.")
             return
 
-        hotel_no = str(item.get("hotelNo"))
-        hotel_name = item.get("hotelName")
-        affiliate_url = item.get("affiliateUrl") or item.get("hotelInformationUrl")
+        main_item = items[0]
+        hotel_no = str(main_item.get("hotelNo"))
+        hotel_name = main_item.get("hotelName")
+        affiliate_url = main_item.get("affiliateUrl")
         
-        print(f"Selected Hotel: {hotel_name} ({hotel_no})")
+        print(f"Main Hotel: {hotel_name} ({hotel_no})")
 
-        image_url = item.get("largeImageUrl") or item.get("hotelImageUrl") or ""
+        image_url = main_item.get("largeImageUrl") or main_item.get("hotelImageUrl") or ""
         
         other_images = []
         for img_key in ["roomImageUrl", "publicBathImageUrl", "facilityImageUrl"]:
-            val = item.get(img_key)
+            val = main_item.get(img_key)
             if val and val != image_url:
                 other_images.append(val)
 
-        raw_output = generate_article_with_llm(item)
+        raw_output = generate_article_with_llm(items, mode)
         
-        # 1行目をメタディスクリプション、2行目以降を本文HTMLとして分割
         lines = raw_output.split("\n", 1)
         description = lines[0].strip()
         review_html = lines[1].strip() if len(lines) > 1 else raw_output
         
-        # もし分割がうまく機能せずHTMLが含まれてしまった場合のクリーンアップ
         description = re.sub(r"<[^>]*>", "", description).strip()
         if len(description) > 160:
             description = description[:157] + "..."
 
-        categories = decide_category(item)
+        # もし都道府県モード（3件の宿）の場合、2件目・3件目のアフィリエイトリンクをHTMLの末尾に注入する
+        if mode == "prefecture" and len(items) > 1:
+            review_html += "\n<hr style='margin: 40px 0; border-top: 2px dashed #134e4a; opacity: 0.2;' />\n"
+            review_html += "<h3 style='color: #134e4a; font-weight: bold;'>🌟 ご紹介したおすすめ厳選宿の空室・詳細はこちら</h3>\n"
+            review_html += "<ul style='list-style-type: none; padding: 0;'>\n"
+            for item in items:
+                h_name = item.get("hotelName", "")
+                h_url = item.get("affiliateUrl", "")
+                if h_url:
+                    review_html += f"<li style='margin-bottom: 15px;'><a href='{h_url}' target='_blank' style='display: inline-block; padding: 12px 20px; background: linear-gradient(to right, #d97706, #b45309); color: white; text-decoration: none; font-weight: bold; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); width: 100%; text-align: center;'>✈️ {h_name} の詳細プランを見る</a></li>\n"
+            review_html += "</ul>\n"
+
+        categories = decide_category(main_item)
+        
+        title = f"【旅ライター厳選】{hotel_name} — 心を解きほぐす極上のリフレッシュ紀行"
+        if mode == "prefecture":
+            title = f"【{main_item.get('_prefecture')}観光特集】絶景と美食を巡る旅＆おすすめ厳選宿"
 
         post_data = {
             "id": hotel_no,
-            "title": f"【旅ライター厳選】{hotel_name} — 心を解きほぐす極上のリフレッシュ紀行",
+            "title": title,
             "hotel_name": hotel_name,
             "description": description,
             "review": review_html,
             "image": image_url,
             "other_images": other_images,
             "affiliate_url": affiliate_url,
-            "prefecture": item.get("_prefecture"),
-            "area": item.get("_area"),
+            "prefecture": main_item.get("_prefecture"),
+            "area": main_item.get("_area"),
             "categories": categories,
-            "price": item.get("hotelMinPrice"),
-            "rating": item.get("reviewAverage"),
+            "price": main_item.get("hotelMinPrice"),
+            "rating": main_item.get("reviewAverage"),
             "date": time.strftime("%Y-%m-%d %H:%M:%S")
         }
 
         save_individual_post(post_data)
-        save_to_cache(hotel_no)
+        
+        # 投稿済みに登録
+        for item in items:
+            save_to_cache(str(item.get("hotelNo")))
+            
         print("Rakuten Crawler run completed successfully.")
 
     except Exception as e:
