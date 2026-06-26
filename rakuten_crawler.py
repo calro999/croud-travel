@@ -298,8 +298,9 @@ def save_individual_post(post_data):
 
 def main():
     try:
-        current_hour = int(time.strftime("%H"))
-        mode = "hotel" if current_hour % 2 == 0 else "prefecture"
+        posted_cache = load_posted_cache()
+        # キャッシュの数（これまでの総投稿宿数）に基づいてモードを完全に交互にする
+        mode = "hotel" if len(posted_cache) % 2 == 0 else "prefecture"
         
         target_count = 1 if mode == "hotel" else 3
         items = fetch_rakuten_items(target_count)

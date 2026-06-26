@@ -42,7 +42,7 @@ export default function RootLayout({
             <nav className="flex items-center gap-5 text-xs font-bold text-teal-900/60">
               <a href="/" className="hover:text-teal-800 transition">ホーム</a>
               <span className="text-emerald-950/20">/</span>
-              <a href="https://travel.rakuten.co.jp/" target="_blank" rel="noopener noreferrer" className="text-amber-700 hover:text-amber-600 transition flex items-center gap-1">
+              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2F" target="_blank" rel="noopener noreferrer" className="text-amber-700 hover:text-amber-600 transition flex items-center gap-1">
                 楽天トラベル公式 ✈️
               </a>
             </nav>
@@ -66,9 +66,7 @@ export default function RootLayout({
             <div className="flex flex-wrap justify-center gap-6 text-[10px] font-bold text-teal-900/60">
               <a href="/" className="hover:text-teal-800">ホーム</a>
               <span>•</span>
-              <a href="https://travel.rakuten.co.jp/" target="_blank" rel="noopener noreferrer" className="hover:text-teal-800">楽天トラベル</a>
-              <span>•</span>
-              <a href="https://webservice.rakuten.co.jp/" target="_blank" rel="noopener noreferrer" className="hover:text-teal-800">Rakuten Web Service</a>
+              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2F" target="_blank" rel="noopener noreferrer" className="hover:text-teal-800">楽天トラベル公式</a>
             </div>
           </div>
         </footer>
