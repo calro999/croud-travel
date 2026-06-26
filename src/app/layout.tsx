@@ -2,12 +2,66 @@ import type { Metadata } from "next";
 import Script from "next/script";
 import "./globals.css";
 
+const siteName = "日本全国・旅びより｜楽天トラベルでめぐる厳選宿・観光マガジン";
+const description = "日本全国の魅力的な温泉宿、リゾート、高級ホテル、美食宿を旅ライターの極上ルポでお届け。楽天トラベルの最新情報とアフィリエイトリンク付で、今すぐ行きたい憧れの旅プランを見つけましょう。";
+const url = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.vercel.app';
+
 export const metadata: Metadata = {
-  title: "日本全国・旅びより｜楽天トラベルでめぐる厳選宿・観光マガジン",
-  description: "日本全国の魅力的な温泉宿、リゾート、高級ホテル、美食宿を旅ライターの極上ルポでお届け。楽天トラベルの最新情報とアフィリエイトリンク付で、今すぐ行きたい憧れの旅プランを見つけましょう。",
+  metadataBase: new URL(url),
+  title: {
+    default: siteName,
+    template: `%s | ${siteName}`,
+  },
+  description: description,
   keywords: [
     "旅行", "観光", "温泉", "露天風呂", "高級宿", "リゾート", "ホテル", "グルメ", "女子旅", "ファミリー旅行", "楽天トラベル"
   ],
+  authors: [{ name: "旅びより編集部" }],
+  creator: "旅びより編集部",
+  publisher: "旅びより",
+  formatDetection: {
+    email: false,
+    address: false,
+    telephone: false,
+  },
+  openGraph: {
+    title: siteName,
+    description: description,
+    url: url,
+    siteName: siteName,
+    images: [
+      {
+        url: '/icon.png',
+        width: 1024,
+        height: 1024,
+        alt: '旅びより',
+      },
+    ],
+    locale: 'ja_JP',
+    type: 'website',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: siteName,
+    description: description,
+    images: ['/icon.png'],
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      'max-video-preview': -1,
+      'max-image-preview': 'large',
+      'max-snippet': -1,
+    },
+  },
+  icons: {
+    icon: '/icon.png',
+    shortcut: '/icon.png',
+    apple: '/apple-icon.png',
+  },
 };
 
 export default function RootLayout({
