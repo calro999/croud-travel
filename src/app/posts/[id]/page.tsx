@@ -8,6 +8,7 @@ interface Post {
   id: string;
   title: string;
   hotel_name: string;
+  description?: string;
   review: string;
   image: string;
   other_images: string[];
@@ -51,9 +52,9 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
   try {
     const fileContent = fs.readFileSync(postPath, "utf-8");
     const post: Post = JSON.parse(fileContent);
-    const descriptionText = post.review
+    const descriptionText = post.description || (post.review
       ? post.review.replace(/<[^>]*>/g, "").slice(0, 120) + "..."
-      : `${post.hotel_name}の旅行マガジン紹介記事です。`;
+      : `${post.hotel_name}の旅行マガジン紹介記事です。`);
 
     return {
       title: `${post.hotel_name} ｜ 特集ルポ - 日本全国・旅びより`,

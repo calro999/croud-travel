@@ -6,6 +6,7 @@ interface Post {
   id: string;
   title: string;
   hotel_name: string;
+  description?: string;
   review: string;
   image: string;
   other_images: string[];

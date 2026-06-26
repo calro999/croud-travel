@@ -148,17 +148,20 @@ def generate_article_with_llm(item):
 【最安価格目安】: {min_price}円〜
 
 【執筆ルール】
-1. ペルソナ: 旅を愛し、全国の隠れた名宿や絶品グルメ宿を紹介する人気女性旅行ライター。情緒あふれる、かつ情景が目に浮かぶような熱量ある紀行文で執筆してください。
-2. 構成: 
-   - 冒頭に読者を引きつけるキャッチコピー的な大見出し（<h3>）
-   - 宿の持つストーリーや空間の魅力を深掘りした情緒的な紹介文（<p>）
-   - マニアならでの「ここに泊まるべき3つの理由 / おすすめポイント」（<strong>を用いた箇条書き、または見出しと段落）
-3. SEOキーワードの埋め込み: 記事内に自然な形で「旅行」「観光」「温泉」「露天風呂」「贅沢」「女子旅」などの旅好きが検索しそうなワードを上品に散りばめてください。
-4. アフィリエイト誘導: 文末に楽天アフィリエイトリンクを設置するためのCTA紹介文を自然に入れてください。
-5. 出力フォーマット: HTMLタグ（<h3>, <p>, <strong>, <ul>, <li>）のみをプレーンに出力してください。マークダウンのコードブロック（```html や ```）は一切出力しないでください。トークン制限に配慮し、400文字〜600文字程度で濃密に執筆してください。
+1. ペルソナ: 旅を愛し、全国の隠れた名宿や絶品グルメ宿を紹介する人気プロ旅行ライター。情緒あふれる、かつ情景が目に浮かぶような熱量ある紀行文で執筆してください。
+2. 構成・タグ指定:
+   - 検索エンジン（SEO）と読者の読みやすさを意識し、必ず見出しタグ <h2>, <h3>, <h4> を適切に使い分けて階層構造を作ってください。
+   - 例: <h2>客室と館内の魅力</h2>, <h3>プライベート温泉の贅沢</h3>, <h4>アメニティへのこだわり</h4> のように構造化。
+   - 単なる紹介ではなく、宿の持つ歴史、ロケーション、料理、温泉の魅力を各セクションに分けて網羅的に書いてください。
+3. 文字数: 情報量を増やしSEO評価を高めるため、HTMLタグを含めて 1000文字〜1500文字程度 のボリュームで詳細に執筆してください。
+4. SEOキーワード: 「旅行」「観光」「温泉」「露天風呂」「贅沢」「女子旅」「家族旅行」「アクセス」「アメニティ」「地元の味覚」などの関連語句を自然かつ豊富に散りばめてください。
+5. 出力形式: 
+   - 1行目に、この宿泊記事専用のSEOメタディスクリプション（120文字程度、タグなしプレーンテキスト）を書いてください。
+   - 2行目以降に、記事のHTML本文（<h2>, <h3>, <h4>, <p>, <strong>, <ul>, <li>のみ）を記述してください。
+   - マークダウンのコードブロック（```html や ```）は一切出力しないでください。
 """
 
-    system_message = "あなたは一流の旅行雑誌の編集長であり、宿の良さを伝える文章のプロフェッショナルです。"
+    system_message = "あなたは一流の旅行雑誌の編集長であり、SEOに強い豊かな表現で宿泊ルポを執筆するプロライターです。"
 
     pollinations_models = ["openai", "openai-fast", "llama", "mistral", "qwen"]
     for attempt in range(2):
@@ -177,12 +180,7 @@ def generate_article_with_llm(item):
                     timeout=40
                 )
                 if response.status_code == 200 and len(response.text.strip()) > 100:
-                    result_text = response.text.strip()
-                    if "```html" in result_text:
-                        result_text = result_text.split("```html", 1)[1]
-                    if "```" in result_text:
-                        result_text = result_text.split("```")[0]
-                    return result_text.strip()
+                    return response.text.strip()
                 elif response.status_code == 429:
                     print(f"Pollinations AI ({model}) returned 429. Waiting...")
                     time.sleep(3)
@@ -190,19 +188,22 @@ def generate_article_with_llm(item):
                 print(f"Pollinations AI ({model}) failed: {e}")
                 time.sleep(2)
 
-    fallback_html = f"""
-    <h3>時を忘れる極上の癒やし空間。{hotel_name}で過ごす至福のひととき</h3>
-    <p>{special}</p>
-    <p>日常の喧騒から離れ、美しい四季の移ろいを感じながら過ごす時間は、まさに旅の醍醐味。温泉に身を委ね、地元の旬の美味を味わう、そんな贅沢な体験があなたを待っています。女子旅や大切な人との記念日旅行にも最適です。</p>
-    <strong>【おすすめポイント】</strong>
-    <ul>
-      <li>非日常を味わえる洗練された客室と温かいおもてなし</li>
-      <li>旅の疲れを心から解きほぐす、極上の温泉体験</li>
-      <li>地域の食材をふんだんに取り入れた極上のグルメ</li>
-    </ul>
-    <p>今度の週末は、少し贅沢をして心安らぐ旅に出かけてみませんか？</p>
-    """
-    return fallback_html.strip()
+    # 失敗時の高品質な旅行雑誌風フォールバック
+    fallback_text = f"""楽天トラベルでおすすめの温泉宿「{hotel_name}」の魅力、お部屋や露天風呂、豪華な夕食グルメ情報を旅行ライターが徹底的にレポートします。
+<h2>時を忘れる極上の癒やし空間。{hotel_name}で過ごす至福のひととき</h2>
+<p>{special}</p>
+<p>日常の喧騒から離れ、美しい四季の移ろいを感じながら過ごす時間は、まさに旅の醍醐味。温泉に身を委ね、地元の旬の美味を味わう、そんな贅沢な体験があなたを待っています。女子旅や大切な人との記念日旅行にも最適です。</p>
+<h2>宿の魅力を紐解く3つのポイント</h2>
+<h3>1. 非日常を味わえる洗練された客室空間</h3>
+<p>和の温もりとモダンな快適さが融合した客室。窓の外には見渡す限りの絶景が広がり、日常の疲れを優しく癒やしてくれます。細部まで行き届いたアメニティも旅の楽しみを高めます。</p>
+<h3>2. 美肌効果抜群の温泉とプライベート露天風呂</h3>
+<p>滾々と湧き出る源泉。贅沢な貸切風呂や露天風呂では、心地よい風を感じながら極上のリラックスタイムを満喫できます。温泉通も太鼓判を押す湯ざわりをご堪能ください。</p>
+<h3>3. 地域ブランド食材を堪能する極上グルメ</h3>
+<p>地元の新鮮な海の幸、山の幸をふんだんに取り入れた創作会席。料理人が腕によりをかけて仕上げる一品一品は、見た目も美しく、口いっぱいに幸せが広がります。</p>
+<h2>まとめ</h2>
+<p>今度の週末は、少し贅沢をして心安らぐ旅に出かけてみませんか？楽天トラベルからのご予約でお得なプランがご利用いただけます。</p>
+"""
+    return fallback_text.strip()
 
 def decide_category(item):
     special = item.get("hotelSpecial", "").lower()
@@ -254,13 +255,25 @@ def main():
             if val and val != image_url:
                 other_images.append(val)
 
-        review_html = generate_article_with_llm(item)
+        raw_output = generate_article_with_llm(item)
+        
+        # 1行目をメタディスクリプション、2行目以降を本文HTMLとして分割
+        lines = raw_output.split("\n", 1)
+        description = lines[0].strip()
+        review_html = lines[1].strip() if len(lines) > 1 else raw_output
+        
+        # もし分割がうまく機能せずHTMLが含まれてしまった場合のクリーンアップ
+        description = re.sub(r"<[^>]*>", "", description).strip()
+        if len(description) > 160:
+            description = description[:157] + "..."
+
         categories = decide_category(item)
 
         post_data = {
             "id": hotel_no,
             "title": f"【旅ライター厳選】{hotel_name} — 心を解きほぐす極上のリフレッシュ紀行",
             "hotel_name": hotel_name,
+            "description": description,
             "review": review_html,
             "image": image_url,
             "other_images": other_images,
