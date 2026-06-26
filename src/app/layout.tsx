@@ -1,0 +1,78 @@
+import type { Metadata } from "next";
+import "./globals.css";
+
+export const metadata: Metadata = {
+  title: "日本全国・旅びより｜楽天トラベルでめぐる厳選宿・観光マガジン",
+  description: "日本全国の魅力的な温泉宿、リゾート、高級ホテル、美食宿を旅ライターの極上ルポでお届け。楽天トラベルの最新情報とアフィリエイトリンク付で、今すぐ行きたい憧れの旅プランを見つけましょう。",
+  keywords: [
+    "旅行", "観光", "温泉", "露天風呂", "高級宿", "リゾート", "ホテル", "グルメ", "女子旅", "ファミリー旅行", "楽天トラベル"
+  ],
+};
+
+export default function RootLayout({
+  children,
+}: Readonly<{
+  children: React.ReactNode;
+}>) {
+  return (
+    <html lang="ja" className="h-full">
+      <head>
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+        <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800;900&family=Noto+Sans+JP:wght@400;500;700;900&family=Noto+Serif+JP:wght@400;700;900&display=swap" rel="stylesheet" />
+      </head>
+      <body className="min-h-full flex flex-col selection:bg-teal-700 selection:text-white antialiased">
+        
+        {/* 日本旅行情緒を高めるインフォバー */}
+        <div className="w-full text-center py-2.5 bg-gradient-to-r from-teal-800 via-emerald-700 to-amber-700 text-[10px] font-bold tracking-widest text-white uppercase">
+          日本全国の隠れた名宿・憧れリゾートを毎日発信中 🧭 旅にでかけよう
+        </div>
+
+        {/* プレミアム和モダン風ヘッダー */}
+        <header className="border-b border-emerald-950/10 glass-header sticky top-0 z-50 py-4 px-6 shadow-sm">
+          <div className="max-w-6xl mx-auto flex items-center justify-between">
+            <a href="/" className="flex items-center gap-2.5 group">
+              <span className="text-2xl font-black tracking-tight font-journal-serif bg-gradient-to-r from-teal-800 via-emerald-900 to-amber-700 bg-clip-text text-transparent group-hover:opacity-90 transition">
+                旅びより
+              </span>
+              <span className="text-[9px] font-extrabold tracking-widest text-teal-800 border border-teal-800/20 px-2.5 py-0.5 rounded-full bg-teal-50">
+                TRAVEL MAGAZINE
+              </span>
+            </a>
+            <nav className="flex items-center gap-5 text-xs font-bold text-teal-900/60">
+              <a href="/" className="hover:text-teal-800 transition">ホーム</a>
+              <span className="text-emerald-950/20">/</span>
+              <a href="https://travel.rakuten.co.jp/" target="_blank" rel="noopener noreferrer" className="text-amber-700 hover:text-amber-600 transition flex items-center gap-1">
+                楽天トラベル公式 ✈️
+              </a>
+            </nav>
+          </div>
+        </header>
+
+        {/* メインコンテンツ */}
+        <main className="flex-grow max-w-6xl w-full mx-auto px-4 py-8 md:py-12">
+          {children}
+        </main>
+
+        {/* 旅行雑誌の奥付をイメージしたフッター */}
+        <footer className="border-t border-emerald-950/10 bg-white py-12 text-xs text-emerald-950/70 shadow-inner">
+          <div className="max-w-6xl mx-auto px-4 flex flex-col md:flex-row items-center justify-between gap-8">
+            <div className="space-y-2 text-center md:text-left">
+              <p className="font-bold text-emerald-950 text-sm font-journal-serif">日本全国・旅びより ｜ 楽天トラベル厳選宿・観光マガジン</p>
+              <p className="text-[10px] max-w-lg leading-relaxed text-emerald-950/50">
+                当サイトでご紹介する宿泊施設情報、クチコミ、写真、プラン詳細等は楽天トラベルAPIより取得しています。宿泊状況やプラン内容については必ず遷移先の楽天トラベル詳細ページにて最終情報をご確認ください。
+              </p>
+            </div>
+            <div className="flex flex-wrap justify-center gap-6 text-[10px] font-bold text-teal-900/60">
+              <a href="/" className="hover:text-teal-800">ホーム</a>
+              <span>•</span>
+              <a href="https://travel.rakuten.co.jp/" target="_blank" rel="noopener noreferrer" className="hover:text-teal-800">楽天トラベル</a>
+              <span>•</span>
+              <a href="https://webservice.rakuten.co.jp/" target="_blank" rel="noopener noreferrer" className="hover:text-teal-800">Rakuten Web Service</a>
+            </div>
+          </div>
+        </footer>
+      </body>
+    </html>
+  );
+}
