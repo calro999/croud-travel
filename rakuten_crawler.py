@@ -77,6 +77,7 @@ def save_to_cache(content_id):
 def fetch_rakuten_item():
     app_id = os.environ.get("RAKUTEN_APPLICATION_ID")
     affiliate_id = os.environ.get("RAKUTEN_AFFILIATE_ID")
+    access_key = os.environ.get("RAKUTEN_ACCESS_KEY")
     
     if not app_id:
         raise ValueError("RAKUTEN_APPLICATION_ID must be set in environment variables.")
@@ -99,6 +100,9 @@ def fetch_rakuten_item():
     
     if affiliate_id:
         params["affiliateId"] = affiliate_id
+        
+    if access_key:
+        params["accessKey"] = access_key
 
     response = requests.get(url, params=params)
     if response.status_code != 200:
