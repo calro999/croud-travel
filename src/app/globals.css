@@ -73,3 +73,88 @@ body {
 .font-journal-serif {
   font-family: var(--font-serif);
 }
+
+/* ─── 記事本文コンテンツ内のリッチタイポグラフィ ─── */
+.review-content-html h2 {
+  font-family: var(--font-serif);
+  font-size: 1.5rem;
+  font-weight: 900;
+  color: var(--foreground);
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.6rem;
+  border-bottom: 3px solid var(--accent-teal);
+  position: relative;
+  letter-spacing: 0.02em;
+}
+
+.review-content-html h2::before {
+  content: '';
+  position: absolute;
+  bottom: -3px;
+  left: 0;
+  width: 60px;
+  height: 3px;
+  background-color: var(--accent-orange);
+}
+
+.review-content-html h3 {
+  font-family: var(--font-serif);
+  font-size: 1.2rem;
+  font-weight: 800;
+  color: var(--accent-teal);
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+  padding-left: 0.9rem;
+  border-left: 4px solid var(--accent-orange);
+}
+
+.review-content-html h4 {
+  font-size: 1rem;
+  font-weight: 700;
+  color: #374151;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+  padding: 0.5rem 0.8rem;
+  background: linear-gradient(135deg, rgba(15,118,110,0.04), rgba(217,119,6,0.04));
+  border-radius: 6px;
+  border-left: 3px solid var(--accent-teal);
+}
+
+.review-content-html p {
+  margin-top: 0.6rem;
+  margin-bottom: 0.6rem;
+  line-height: 1.9;
+  color: #374151;
+}
+
+.review-content-html strong {
+  color: var(--foreground);
+  font-weight: 800;
+}
+
+.review-content-html ul {
+  margin: 1rem 0;
+  padding-left: 0;
+  list-style: none;
+}
+
+.review-content-html ul li {
+  position: relative;
+  padding: 0.65rem 0.8rem 0.65rem 1.8rem;
+  margin-bottom: 0.4rem;
+  background: rgba(15, 118, 110, 0.03);
+  border-radius: 8px;
+  border: 1px solid rgba(15, 118, 110, 0.06);
+  line-height: 1.7;
+  font-size: 0.9rem;
+}
+
+.review-content-html ul li::before {
+  content: '✦';
+  position: absolute;
+  left: 0.6rem;
+  top: 0.65rem;
+  color: var(--accent-orange);
+  font-size: 0.7rem;
+}
