@@ -2,7 +2,7 @@ name: Fetch Rakuten Travel and Build Next.js Site
 
 on:
   schedule:
-    - cron: '0 */2 * * *' # 2時間おきに実行して自動投稿を維持
+    - cron: '0 * * * *' # 1時間おきに実行して自動投稿を維持（1日24回）
   workflow_dispatch:
 
 permissions:
