@@ -1,5 +1,125 @@
 [
   {
+    "id": "tour-okinawa-3",
+    "title": "【石垣島・八重山諸島】竹富島の水牛車と幻の島めぐり、大自然に癒やされる離島トリップ",
+    "hotel_name": "石垣島・八重山諸島の絶景リゾート",
+    "description": "本島からさらに南西へ飛んだ先にある「石垣島」と個性豊かな八重山諸島。赤瓦の集落を水牛車で巡る竹富島や、干潮時にだけ姿を現す幻の島など、手付かずの大自然とスローな島時間に心身をリセットする離島旅行の魅力をご案内します。",
+    "review": "<h2>本島とは違う魅力！大自然とスローライフの八重山諸島</h2>\n<p>沖縄本島から飛行機で約1時間。石垣島を中心とする「八重山（やえやま）諸島」は、手付かずの豊かな大自然と、昔ながらの琉球の原風景が色濃く残る特別なエリアです。石垣島を拠点にフェリーで周辺の島々へ渡る「アイランドホッピング」で、島ごとに異なる魅力に触れる旅に出かけましょう。</p>\n<h3>八重山離島トリップの3大ハイライト</h3>\n<ul>\n<li><strong>「竹富島」で水牛車に揺られながら赤瓦の集落を巡る：</strong> 石垣島から高速船でわずか10〜15分。サンゴの白砂の道、琉球石灰岩の石垣、赤瓦の屋根。三線の音色を聴きながらのんびりと進む水牛車観光は、時が止まったかのような癒やしです。</li>\n<li><strong>干潮時にだけ現れる「幻の島（浜島）」へ上陸：</strong> 360度エメラルドブルーの海に囲まれた真っ白な砂浜だけの無人島。シュノーケリングツアーで訪れることができ、まさに天国のような絶景が広がります。</li>\n<li><strong>川平湾（かびらわん）のミシュラン三ツ星の絶景：</strong> 石垣島内にある絶対外せない景勝地。光の加減で七色に変わる海面と緑の小島のコントラストを、グラスボートからサンゴと共に楽しみましょう。</li>\n</ul>\n<h3>満天の「星空保護区」で宇宙を感じる</h3>\n<p>石垣島や西表島を含む八重山諸島は、日本初の「星空保護区」に認定された世界トップクラスの星空観賞スポットです。街灯の少ない夜のビーチに寝転がれば、天の川や南十字星（時期による）など、無数の星が降り注ぐ圧倒的な夜空に出会えます。</p>\n<h3>石垣牛と八重山そば、離島ならではの美食</h3>\n<p>離島の大自然で育まれたグルメも見逃せません。とろけるような甘みが特徴の高級和牛「石垣牛」の焼肉や、丸い麺が特徴の「八重山そば」は必食。夜は石垣島の市街地にある民謡居酒屋で、島唄ライブを聴きながらオリオンビールで乾杯するのが最高の過ごし方です。</p>\n<hr style='margin: 40px 0; border-top: 2px dashed #134e4a; opacity: 0.2;' />\n<h3 style='color: #134e4a; font-weight: bold;'>🌟 石垣島・離島トリップの拠点となるリゾートを探す</h3>\n<ul style='list-style-type: none; padding: 0;'>\n<li style='margin-bottom: 15px;'><a href='https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fokinawa%2Fishigaki.html' target='_blank' style='display: inline-block; padding: 12px 20px; background: linear-gradient(to right, #d97706, #b45309); color: white; text-decoration: none; font-weight: bold; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); width: 100%; text-align: center;'>✈️ 楽天トラベルで石垣島・八重山諸島のホテルを見る</a></li>\n</ul>",
+    "image": "/images/ishigaki_taketomi.png",
+    "other_images": [],
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fokinawa%2Fishigaki.html",
+    "prefecture": "沖縄県",
+    "area": "離島・石垣島",
+    "categories": [
+      "離島",
+      "絶景",
+      "アクティビティ"
+    ],
+    "price": null,
+    "rating": null,
+    "date": "2026-06-27 09:30:06"
+  },
+  {
+    "id": "tour-okinawa-2",
+    "title": "【那覇・国際通り周辺】やちむん通り散策と絶品ソーキそば！沖縄の文化とグルメを満喫",
+    "hotel_name": "那覇・国際通り周辺のシティリゾート",
+    "description": "沖縄の玄関口「那覇」。活気あふれる国際通りでのショッピングから、伝統的な焼き物が並ぶ「壺屋やちむん通り」での器巡り、そして地元民も愛する絶品沖縄そばまで、車なしでも120%楽しめる那覇市内の観光モデルコースです。",
+    "review": "<h2>レンタカーなしでも大満足！那覇シティ観光ガイド</h2>\n<p>沖縄旅行の最終日や、運転免許がない方でも存分に楽しめるのが那覇エリアの魅力。モノレール（ゆいレール）が走り、主要な観光スポットがコンパクトにまとまっているため、歩きと公共交通機関だけで沖縄のディープな文化とグルメを味わい尽くすことができます。</p>\n<h3>那覇観光を満喫する3つのポイント</h3>\n<ul>\n<li><strong>「壺屋やちむん通り」で沖縄の器に一目惚れ：</strong> 琉球石灰岩の石畳が続く風情ある通りに、沖縄の伝統的な焼き物（やちむん）の工房やセレクトショップがずらり。お気に入りの器探しは時間が経つのを忘れます。</li>\n<li><strong>「第一牧志公設市場」でカラフルな魚たちと出会う：</strong> 那覇の台所。色鮮やかな熱帯魚や豚の顔（チラガー）など、沖縄ならではの食材が並びます。2階の食堂で新鮮な海鮮をいただくのも定番です。</li>\n<li><strong>「国際通り」で沖縄土産のショッピング：</strong> 全長約1.6kmのメインストリート。ちんすこうや紅芋タルトなどの定番土産から、最新の沖縄スイーツまで何でも揃います。</li>\n</ul>\n<h3>本場の「沖縄そば」を食べ歩き</h3>\n<p>那覇市内には、数え切れないほどの沖縄そばの名店が存在します。カツオや豚骨の出汁が効いた透き通るスープに、トロトロに煮込まれた豚のあばら肉（ソーキ）が乗った「ソーキそば」は絶品。お店によって麺の太さやスープの味が全く異なるため、お腹を空かせて数軒食べ歩くのもおすすめです。</p>\n<h3>夜はディープな「栄町市場」の飲み屋街へ</h3>\n<p>少し大人な那覇の夜を楽しむなら、ゆいレール「安里駅」近くの栄町市場へ。昼間はローカルな市場ですが、夜になると迷路のような細い路地に赤提灯が灯り、レトロで活気ある飲み屋街に変身します。地元の人たちに混ざって、泡盛とチャンプルーで乾杯しましょう。</p>\n<hr style='margin: 40px 0; border-top: 2px dashed #134e4a; opacity: 0.2;' />\n<h3 style='color: #134e4a; font-weight: bold;'>🌟 那覇観光・ショッピングに便利なホテルを探す</h3>\n<ul style='list-style-type: none; padding: 0;'>\n<li style='margin-bottom: 15px;'><a href='https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fokinawa%2Fnaha.html' target='_blank' style='display: inline-block; padding: 12px 20px; background: linear-gradient(to right, #d97706, #b45309); color: white; text-decoration: none; font-weight: bold; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); width: 100%; text-align: center;'>✈️ 楽天トラベルで那覇・国際通り周辺のホテルを見る</a></li>\n</ul>",
+    "image": "/images/naha_yachimun.png",
+    "other_images": [],
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fokinawa%2Fnaha.html",
+    "prefecture": "沖縄県",
+    "area": "本島・那覇",
+    "categories": [
+      "観光",
+      "街歩き",
+      "グルメ"
+    ],
+    "price": null,
+    "rating": null,
+    "date": "2026-06-27 09:30:05"
+  },
+  {
+    "id": "tour-okinawa-1",
+    "title": "【沖縄本島ドライブ】古宇利島から美ら海水族館へ！エメラルドの絶景を巡る王道ルート",
+    "hotel_name": "沖縄本島北部（恩納・名護・本部）の絶景ホテル",
+    "description": "初めての沖縄旅行にも、何度目かの沖縄にも絶対おすすめな北部ドライブコース。絶景の「古宇利大橋」を渡り、圧倒的なスケールの「沖縄美ら海水族館」を満喫する、青い海と空に包まれる王道の観光モデルルートをご紹介します。",
+    "review": "<h2>沖縄の「青」を満喫する！北部ドライブの決定版</h2>\n<p>沖縄本島を旅行するなら、レンタカーを借りてのドライブは必須アクティビティ。中でも、リゾートホテルが集中する西海岸を抜け、美しい海と大自然が広がる北部（やんばるエリア）を目指すルートは、沖縄の魅力を最も感じられる黄金コースです。潮風を感じながら、エメラルドグリーンの絶景を巡りましょう。</p>\n<h3>北部ドライブの絶対外せない3大スポット</h3>\n<ul>\n<li><strong>海の上を走る絶景「古宇利大橋（こうりおおはし）」：</strong> 本島と古宇利島を結ぶ約2kmの橋。両サイドに広がる透明度抜群のターコイズブルーの海は、息を呑むほどの美しさです。</li>\n<li><strong>ジンベエザメに出会える「沖縄美ら海水族館」：</strong> 巨大水槽「黒潮の海」を悠然と泳ぐジンベエザメやナンヨウマンタは圧巻。沖縄の海の豊かさを実感できます。</li>\n<li><strong>大自然の神秘「備瀬のフクギ並木」：</strong> 美ら海水族館のすぐ近く。数千本ものフクギが立ち並ぶ静かな並木道は、差し込む木漏れ日が美しく、最高の癒やしスポットです。</li>\n</ul>\n<h3>古宇利島で絶品ガーリックシュリンプを</h3>\n<p>古宇利大橋を渡った先にある古宇利島（別名：恋の島）には、おしゃれなカフェやキッチンカーが点在しています。中でも人気なのが、ハワイアンな「ガーリックシュリンプ」。青い海を眺めながら食べるスパイシーなエビは、ドライブの最高のランチになります。</p>\n<h3>夕暮れは西海岸のリゾートホテルで</h3>\n<p>北部の観光を満喫した後は、恩納村や名護、本部町エリアにあるリゾートホテルへ。西海岸に位置するため、水平線に沈む美しいサンセットを客室やプールから楽しむことができます。美しい夕焼けと共に、沖縄の長い一日を締めくくりましょう。</p>\n<hr style='margin: 40px 0; border-top: 2px dashed #134e4a; opacity: 0.2;' />\n<h3 style='color: #134e4a; font-weight: bold;'>🌟 沖縄本島北部のリゾートホテルを探す</h3>\n<ul style='list-style-type: none; padding: 0;'>\n<li style='margin-bottom: 15px;'><a href='https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fokinawa%2Fhokubu.html' target='_blank' style='display: inline-block; padding: 12px 20px; background: linear-gradient(to right, #d97706, #b45309); color: white; text-decoration: none; font-weight: bold; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); width: 100%; text-align: center;'>✈️ 楽天トラベルで恩納・名護・本部周辺のホテルを見る</a></li>\n</ul>",
+    "image": "/images/kouri_churaumi.png",
+    "other_images": [],
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fyado%2Fokinawa%2Fhokubu.html",
+    "prefecture": "沖縄県",
+    "area": "本島・北部",
+    "categories": [
+      "観光",
+      "ドライブ",
+      "絶景"
+    ],
+    "price": null,
+    "rating": null,
+    "date": "2026-06-27 09:30:04"
+  },
+  {
+    "id": "hotel-okinawa-3",
+    "title": "【ハイアット リージェンシー 瀬良垣アイランド 沖縄】島全体がリゾート！360度海に囲まれた楽園",
+    "hotel_name": "ハイアット リージェンシー 瀬良垣アイランド 沖縄",
+    "description": "恩納村の美しい海に浮かぶ「瀬良垣島」を丸ごとリゾートにした稀有なホテル。海と繋がるラグーンプールや多彩なマリンアクティビティなど、圧倒的な非日常感とアクティブな滞在を楽しめる魅力をレポート。",
+    "review": "<h2>360度ブルーの海に囲まれた「一つの島、一つのリゾート」</h2>\n<p>沖縄本島屈指のビーチリゾートエリア、恩納村。そこから橋で繋がる小さな島「瀬良垣島（せらがきじま）」全体が、ハイアット リージェンシーのリゾートとして生まれ変わりました。ホテルに向かって橋を渡る瞬間から、日常から完全に切り離されたアイランドリゾートの魔法にかかります。</p>\n<h3>瀬良垣アイランドをおすすめする3つの理由</h3>\n<ul>\n<li><strong>海と一体化する「グスクプール」と「ラグーン」：</strong> 海水を循環させたラグーンや、美しい曲線を描くプールは開放感抜群。サンセットの美しさは言葉を失うほどです。</li>\n<li><strong>島全体が遊び場！充実のアクティビティ：</strong> シュノーケリングやSUP、ヨガ、シーカヤックなど、美しいサンゴ礁の海を存分に楽しめるプログラムが満載。</li>\n<li><strong>全室にオープンエアのバルコニー付き：</strong> ザ・アイランド（島側）とザ・ビーチハウス（本島側）の異なる魅力を持つ客室から、沖縄の風と海の香りをダイレクトに感じられます。</li>\n</ul>\n<h3>五感を刺激する6つのレストラン＆バー</h3>\n<p>リゾートステイの大きな楽しみである「食」。館内には、本格的なイタリアン「クッチーナ セラーレ」や、地元食材を活かした炉端焼き、寿司、鉄板焼が楽しめる「シラカチ」など、多彩なダイニングが揃っています。連泊しても毎日の食事が楽しみになる充実ぶりです。</p>\n<h3>元気とインスピレーションをもらえる滞在</h3>\n<p>ハイアット リージェンシー 瀬良垣アイランド 沖縄のコンセプトは「元気になるホテル」。ただ静かに過ごすだけでなく、豊かな自然の中で体を動かし、美味しい食事を楽しみ、笑顔あふれるスタッフとの会話を楽しむことで、心からのエネルギーチャージができる特別なリゾートです。</p>\n<hr style='margin: 40px 0; border-top: 2px dashed #134e4a; opacity: 0.2;' />\n<h3 style='color: #134e4a; font-weight: bold;'>🌟 瀬良垣アイランド 沖縄の空室・詳細プランを確認する</h3>\n<ul style='list-style-type: none; padding: 0;'>\n<li style='margin-bottom: 15px;'><a href='https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F167666%2F167666.html' target='_blank' style='display: inline-block; padding: 12px 20px; background: linear-gradient(to right, #d97706, #b45309); color: white; text-decoration: none; font-weight: bold; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); width: 100%; text-align: center;'>✈️ 楽天トラベルでハイアット リージェンシー 瀬良垣の詳細を見る</a></li>\n</ul>",
+    "image": "/images/hyatt_seragaki.png",
+    "other_images": [],
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F167666%2F167666.html",
+    "prefecture": "沖縄県",
+    "area": "本島・恩納村",
+    "categories": [
+      "アイランドリゾート",
+      "アクティビティ",
+      "プール"
+    ],
+    "price": null,
+    "rating": null,
+    "date": "2026-06-27 09:30:03"
+  },
+  {
+    "id": "hotel-okinawa-2",
+    "title": "【星のや沖縄】グスクの壁に囲まれた海辺の集落。読谷村で体験する新しい琉球リゾート",
+    "hotel_name": "星のや沖縄",
+    "description": "沖縄県読谷村の自然豊かな海岸線に誕生した「星のや沖縄」。伝統的なグスク（城）から着想を得た壁に囲まれた敷地内に広がる、暮らすように滞在する新しいスタイルのリゾート体験をご紹介します。",
+    "review": "<h2>グスクの壁が守る、海辺のサンクチュアリ「星のや沖縄」</h2>\n<p>沖縄本島中部の読谷村。自然の海岸線がそのまま残る美しい海沿いに、巨大な「グスク（沖縄の城）」の壁に囲まれた集落のようなリゾートが現れます。「星のや沖縄」は、ただ海を眺めるだけでなく、沖縄の歴史や文化、自然と一体になれる特別な滞在を提供してくれます。</p>\n<h3>星のや沖縄をおすすめする3つの理由</h3>\n<ul>\n<li><strong>全室オーシャンフロントの客室「土間ダイニング」：</strong> 波音をBGMに食事ができる広々とした土間ダイニングを備えた客室。暮らすようなリラックスした滞在が叶います。</li>\n<li><strong>海と空に溶け込むインフィニティプール：</strong> 時間とともに表情を変える空と海を、プールの中で浮遊しながら眺めることができます。夕暮れ時の美しさは格別です。</li>\n<li><strong>琉球文化に触れる多彩なアクティビティ：</strong> 琉球空手や三線の演奏、朝の鍛錬など、沖縄の伝統文化を肌で感じられるプログラムが充実しています。</li>\n</ul>\n<h3>自然と調和したランドスケープデザイン</h3>\n<p>敷地内には沖縄らしい植栽が豊かに配置されており、南国の花々や木々の間を散策するだけでも心が癒やされます。グスクの壁の内側は外界の喧騒から完全に遮断されており、鳥の声と波の音だけが響く静寂の空間が広がっています。</p>\n<h3>「ギャザリングサービス」でお部屋食を楽しむ</h3>\n<p>星のや沖縄の夕食は、メインダイニングでの食事のほか、お部屋の土間ダイニングで本格的な料理を仕上げる「ギャザリングサービス」も人気です。下ごしらえされた状態の料理が届き、好きなタイミングで最後の仕上げ（温めなど）を行うため、レストランの味を完全なプライベート空間で楽しむことができます。</p>\n<hr style='margin: 40px 0; border-top: 2px dashed #134e4a; opacity: 0.2;' />\n<h3 style='color: #134e4a; font-weight: bold;'>🌟 星のや沖縄の空室・詳細プランを確認する</h3>\n<ul style='list-style-type: none; padding: 0;'>\n<li style='margin-bottom: 15px;'><a href='https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F180155%2F180155.html' target='_blank' style='display: inline-block; padding: 12px 20px; background: linear-gradient(to right, #d97706, #b45309); color: white; text-decoration: none; font-weight: bold; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); width: 100%; text-align: center;'>✈️ 楽天トラベルで星のや沖縄の詳細を見る</a></li>\n</ul>",
+    "image": "/images/hoshinoya.png",
+    "other_images": [],
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F180155%2F180155.html",
+    "prefecture": "沖縄県",
+    "area": "本島・読谷村",
+    "categories": [
+      "ラグジュアリー",
+      "絶景リゾート",
+      "文化体験"
+    ],
+    "price": null,
+    "rating": null,
+    "date": "2026-06-27 09:30:02"
+  },
+  {
+    "id": "hotel-okinawa-1",
+    "title": "【ハレクラニ沖縄】ハワイの至福を恩納村で。全室オーシャンビューの「天国にふさわしい館」",
+    "hotel_name": "ハレクラニ沖縄",
+    "description": "ハワイ・ワイキキの名門ホテル「ハレクラニ」が、ハワイ以外で初めて開業したのが「ハレクラニ沖縄」。エメラルドグリーンの海を望む全室オーシャンビューの客室、象徴的なオーキッドプールなど、至極のラグジュアリーステイを徹底解剖します。",
+    "review": "<h2>ハワイの名門が贈る、沖縄の「天国にふさわしい館」</h2>\n<p>ハワイ語で「天国にふさわしい館」を意味するハレクラニ。100年以上の歴史を持つワイキキの名門ホテルが、世界で2つ目の地として選んだのが沖縄・恩納村です。海岸線沿いに広がる広大な敷地に足を踏み入れた瞬間から、日常を忘れる極上のリゾート体験が始まります。</p>\n<h3>ハレクラニ沖縄をおすすめする3つの理由</h3>\n<ul>\n<li><strong>全室50平米以上＆オーシャンビューの客室：</strong> 窓の向こうにはエメラルドグリーンの東シナ海が一望できます。テラスで波の音を聞きながら過ごす時間はまさにプライベートな天国。</li>\n<li><strong>シンボリックな「オーキッドプール」と5つのプール：</strong> 約150万枚のモザイクタイルで描かれたオーキッド（蘭）のプールは圧巻。インフィニティプールから海へ続くような青のグラデーションは必見です。</li>\n<li><strong>ミシュラン二つ星シェフ監修のイノベーティブ料理：</strong> レストラン「シルー」をはじめとする4つのシグネチャーレストランで、沖縄の食材を活かした極上の美食体験が味わえます。</li>\n</ul>\n<h3>ハレクラニならではの洗練されたホスピタリティ</h3>\n<p>ハレクラニの最大の魅力は、洗練されつつも温かみのあるサービスにあります。スタッフ一人ひとりがゲストの心に寄り添い、心地よい距離感で最高のおもてなしを提供してくれます。記念日のサプライズや、コンシェルジュによるきめ細やかなサポートなど、滞在のすべてが特別な思い出になるはずです。</p>\n<h3>贅を尽くしたスパで究極のリラクゼーションを</h3>\n<p>「スパハレクラニ」では、沖縄に古くから伝わる癒やしの知恵を取り入れたトリートメントを提供しています。天然温泉の温浴施設も併設されており、南国の海風を感じながら心身を深く解きほぐすことができます。日常の喧騒から完全に切り離された、まさに天国のような時間をお過ごしください。</p>\n<hr style='margin: 40px 0; border-top: 2px dashed #134e4a; opacity: 0.2;' />\n<h3 style='color: #134e4a; font-weight: bold;'>🌟 ハレクラニ沖縄の空室・詳細プランを確認する</h3>\n<ul style='list-style-type: none; padding: 0;'>\n<li style='margin-bottom: 15px;'><a href='https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172810%2F172810.html' target='_blank' style='display: inline-block; padding: 12px 20px; background: linear-gradient(to right, #d97706, #b45309); color: white; text-decoration: none; font-weight: bold; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); width: 100%; text-align: center;'>✈️ 楽天トラベルでハレクラニ沖縄の詳細を見る</a></li>\n</ul>",
+    "image": "/images/halekulani.png",
+    "other_images": [],
+    "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172810%2F172810.html",
+    "prefecture": "沖縄県",
+    "area": "本島・恩納村",
+    "categories": [
+      "ラグジュアリー",
+      "オーシャンビュー",
+      "リゾート"
+    ],
+    "price": null,
+    "rating": null,
+    "date": "2026-06-27 09:30:01"
+  },
+  {
     "id": "tour-ishikawa-3",
     "title": "【能登半島ドライブ】なぎさドライブウェイと絶景海岸線、日本海の美食を満喫する旅",
     "hotel_name": "和倉温泉・能登半島の絶景リゾート",
