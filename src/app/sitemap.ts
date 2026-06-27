@@ -5,7 +5,7 @@ import path from 'path';
 export const dynamic = 'force-static';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.vercel.app';
+  const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
   
   // Load posts dynamically
   let posts: any[] = [];
