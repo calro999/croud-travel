@@ -173,7 +173,7 @@ def fetch_rakuten_items(target_count=1):
     return selected_items
 
 def generate_article_with_llm(items, mode):
-    system_message = "あなたは一流の旅行雑誌の編集長であり、SEO（検索エンジン最適化）とAI-Search（Perplexity等）の両方に極めて強い、表現力豊かなプロの旅行ライターです。"
+    system_message = "あなたは親しみやすく読みやすい個人旅行ブログの運営者であり、実際に現地を旅したかのようなリアルで温かみのある日本語で記事を書くブロガーです。"
     
     if mode == "hotel":
         item = items[0]
@@ -192,7 +192,7 @@ def generate_article_with_llm(items, mode):
 1. 構造化と結論ファースト: AI検索エンジン（SGE等）が要約しやすいよう、記事の冒頭（最初のH2の直下）に「この宿をおすすめする3つの理由」を箇条書き（<ul><li>）で簡潔に提示してください。
 2. LSIキーワードの網羅: 「アクセス」「アメニティ」「周辺観光」「口コミ」「カップル」「子連れ」「極上の癒やし」といった関連検索キーワードを自然に、かつ網羅的に本文へ組み込んでください。
 3. タグ指定: 検索エンジンのクローラーが理解しやすいよう <h2>, <h3>, <h4> を用いて階層構造を美しく作ってください。
-4. ペルソナとトーン: 旅を愛し、全国の隠れた名宿を紹介するプロ旅行ライター。情緒あふれる熱量のある文章。
+4. ペルソナとトーン: 旅好きで、全国の素敵なお宿を紹介するブログ運営者。親しみやすく、宣伝くさい誇張表現（「極上の癒やし」「プロが徹底ナビゲート」など）を避けた、自然で読みやすい文章。
 5. 文字数: 情報量を増やしSEO評価を高めるため、HTMLタグを含めて 1200文字〜1500文字程度 で詳細に執筆してください。
 
 【出力形式】
@@ -267,6 +267,47 @@ def fallback_generation(items, mode):
         pref = items[0].get("_prefecture", "")
         return f"""{pref}の絶景観光スポットとおすすめ厳選宿特集。心を満たす極上の旅行プランをご提案。\n<h2>{pref}の魅力と巡るべき名所</h2><p>{pref}には素晴らしい景色と美食が溢れています。</p>"""
 
+def clean_llm_output(raw_output):
+    """
+    LLMの出力から余分なJSON構造や思考プロセス、コードブロックを除去して、
+    (description, review_html) を安全に返す。
+    """
+    text = raw_output.strip()
+    
+    # 1. もしMarkdownのコードブロックで囲まれている場合は中身を取り出す
+    code_block_match = re.search(r"```(?:html|json)?\s*(.*?)\s*```", text, re.DOTALL | re.IGNORECASE)
+    if code_block_match:
+        text = code_block_match.group(1).strip()
+
+    # 2. JSON形式のレスポンスだった場合のパース試行
+    if text.startswith("{") and text.endswith("}"):
+        try:
+            js = json.loads(text)
+            if "description" in js and "review" in js:
+                return js["description"].strip(), js["review"].strip()
+            elif "description" in js and "review_html" in js:
+                return js["description"].strip(), js["review_html"].strip()
+            elif "content" in js:
+                text = js["content"].strip()
+            elif "choices" in js:
+                text = js["choices"][0]["message"]["content"].strip()
+            elif "role" in js and "reasoning" in js:
+                if "review" in js:
+                    desc = js.get("description", "")
+                    return desc.strip(), js["review"].strip()
+        except Exception:
+            pass
+
+    # 3. 思考プロセスのタグ <thought> や <reasoning> があれば除去
+    text = re.sub(r"<(?:thought|reasoning)>.*?</(?:thought|reasoning)>", "", text, flags=re.DOTALL | re.IGNORECASE).strip()
+
+    # 4. 通常テキストの場合、1行目を description、2行目以降を review_html とする
+    lines = text.split("\n", 1)
+    description = lines[0].strip()
+    review_html = lines[1].strip() if len(lines) > 1 else text
+    
+    return description, review_html
+
 def decide_category(item):
     special = item.get("hotelSpecial", "").lower()
     hotel_name = item.get("hotelName", "").lower()
@@ -326,9 +367,7 @@ def main():
 
         raw_output = generate_article_with_llm(items, mode)
         
-        lines = raw_output.split("\n", 1)
-        description = lines[0].strip()
-        review_html = lines[1].strip() if len(lines) > 1 else raw_output
+        description, review_html = clean_llm_output(raw_output)
         
         description = re.sub(r"<[^>]*>", "", description).strip()
         if len(description) > 160:
@@ -348,9 +387,9 @@ def main():
 
         categories = decide_category(main_item)
         
-        title = f"【旅ライター厳選】{hotel_name} — 心を解きほぐす極上のリフレッシュ紀行"
+        title = f"【おすすめ宿】{hotel_name}の魅力と見どころをご紹介"
         if mode == "prefecture":
-            title = f"【{main_item.get('_prefecture')}観光特集】絶景と美食を巡る旅＆おすすめ厳選宿"
+            title = f"【{main_item.get('_prefecture')}観光】絶景とグルメを巡るおすすめモデルコース"
 
         post_data = {
             "id": hotel_no,
