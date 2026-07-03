@@ -172,141 +172,341 @@ def fetch_rakuten_items(target_count=1):
 
     return selected_items
 
+def build_hotel_prompt(item):
+    """ホテル単体記事用のプロンプトを生成する"""
+    hotel_name = item.get("hotelName", "")
+    special = item.get("hotelSpecial", "")
+    min_price = item.get("hotelMinPrice", "")
+    price_text = f"{min_price}円〜" if min_price else "要確認"
+
+    system_message = (
+        "あなたは実際に全国の宿を取材してきた旅行ライターです。"
+        "読者が「ここに泊まってみたい」と感じるような、具体的で温かみのある日本語の記事を書きます。"
+        "AIらしい機械的な文章や誇張表現は使いません。"
+        "出力はプレーンテキスト1行目にメタディスクリプション、2行目以降にHTML本文のみです。"
+        "それ以外のもの（思考過程・メモ・説明・コードブロック・JSON）は一切出力しません。"
+    )
+
+    prompt = f"""次のホテルを紹介する旅行ブログ記事を書いてください。
+
+【施設名】{hotel_name}
+【特徴・キャッチコピー】{special}
+【料金目安】{price_text}
+
+━━━━━━━━━━━━━━━━━━━━
+【出力ルール — 厳守してください】
+━━━━━━━━━━━━━━━━━━━━
+
+■ 出力形式（この2パートのみ。他は何も書かない）
+  1行目: SEOメタディスクリプション（100〜130文字のプレーンテキスト。タグ・記号・説明文なし）
+  2行目以降: HTML本文
+
+■ HTML本文のルール
+  - 使えるタグ: <h2> <h3> <h4> <p> <ul> <li> <strong> のみ
+  - <br> <a> <img> <div> <span> <table> などは使わない
+  - マークダウン（``` や ** や ##）は一切使わない
+  - 文字数: HTMLタグを含めて1200〜1500文字
+  - Wi-Fiは「Wi-Fi」と表記（「Wオウ」「W‑Fi」などの誤字禁止）
+
+■ 記事の構成
+  <h2> この宿をおすすめする3つの理由
+    <ul><li> 箇条書き3点（具体的な理由）
+  <h2> アクセスと立地
+    <p> 最寄り駅・車でのアクセス・周辺環境
+  <h3> 客室とアメニティ
+    <p> 部屋の特徴・設備（Wi-Fi、浴室、寝具等）を具体的に
+  <h3> 温泉・大浴場（ある場合）
+    <p> 泉質・湯温・雰囲気
+  <h2> 周辺観光スポット
+    <ul><li> 3件程度の具体的なスポット名と見どころ
+  <h2> カップル・子連れ・ビジネス利用それぞれの魅力
+    <p> 各ターゲット層への具体的メリット
+  <h2> まとめ
+    <p> 締めの文（宿の総合的な魅力を1〜2文で）
+
+■ 絶対に禁止すること
+  - 思考過程・メモ・文字数カウント・説明コメントの出力
+  - JSON形式での出力
+  - 「120文字程度のSEOメタディスクリプション：」などのラベル出力
+  - 広告・スポンサー表記（Pollinations等）の出力
+  - 文字化けした表現や意味不明な造語
+  - 記事途中での唐突な終了（必ずまとめまで書ききる）
+"""
+    return system_message, prompt
+
+
+def build_prefecture_prompt(items, pref_name, theme):
+    """都道府県特集記事用のプロンプトを生成する"""
+    hotels_info = ""
+    for i, item in enumerate(items):
+        name = item.get("hotelName", "")
+        special = item.get("hotelSpecial", "")
+        price = item.get("hotelMinPrice", "")
+        price_text = f"{price}円〜" if price else "要確認"
+        hotels_info += f"  宿{i+1}: {name}\n  特徴: {special}\n  料金目安: {price_text}\n\n"
+
+    system_message = (
+        "あなたは実際に全国を旅してきた旅行ライターです。"
+        "読者が「今すぐここに行きたい」と感じるような、具体的で読みやすい日本語の旅行記事を書きます。"
+        "AIらしい機械的な文章や誇張表現は使いません。"
+        "出力はプレーンテキスト1行目にメタディスクリプション、2行目以降にHTML本文のみです。"
+        "それ以外のもの（思考過程・メモ・説明・コードブロック・JSON）は一切出力しません。"
+    )
+
+    prompt = f"""次の都道府県の旅行特集記事を書いてください。
+
+【都道府県】{pref_name}
+【特集テーマ】{theme}
+【紹介する宿（3件）】
+{hotels_info}
+━━━━━━━━━━━━━━━━━━━━
+【出力ルール — 厳守してください】
+━━━━━━━━━━━━━━━━━━━━
+
+■ 出力形式（この2パートのみ。他は何も書かない）
+  1行目: SEOメタディスクリプション（100〜130文字のプレーンテキスト。タグ・記号・説明文なし）
+  2行目以降: HTML本文
+
+■ HTML本文のルール
+  - 使えるタグ: <h2> <h3> <h4> <p> <ul> <li> <strong> のみ
+  - <br> <a> <img> <div> <span> <table> などは使わない
+  - マークダウン（``` や ** や ##）は一切使わない
+  - 文字数: HTMLタグを含めて1500〜2000文字
+  - Wi-Fiは「Wi-Fi」と表記（誤字禁止）
+
+■ 記事の構成
+  <h2> {pref_name}の旅の魅力（テーマ: {theme}）
+    <p> {pref_name}の特色・見どころを具体的なスポット名・グルメ・歴史を交えて紹介
+  <h2> {pref_name}旅行を最大限に楽しむための3つのポイント
+    <ul><li> 箇条書き3点（具体的なアドバイス）
+  <h2> 厳選宿泊施設のご紹介
+    <h3> （宿1の名前）
+      <p> 立地・特徴・おすすめポイントを具体的に
+    <h3> （宿2の名前）
+      <p> 立地・特徴・おすすめポイントを具体的に
+    <h3> （宿3の名前）
+      <p> 立地・特徴・おすすめポイントを具体的に
+  <p> まとめの一文（旅への誘い）
+
+■ 絶対に禁止すること
+  - 思考過程・メモ・文字数カウント・説明コメントの出力
+  - JSON形式での出力
+  - 「120文字程度のSEOメタディスクリプション：」などのラベル出力
+  - 広告・スポンサー表記（Pollinations等）の出力
+  - 文字化けした表現・意味不明な造語・実在しないスポット名
+  - 「最安価格は未定」などの不確かな価格表記
+  - 記事途中での唐突な終了（必ずまとめまで書ききる）
+"""
+    return system_message, prompt
+
+
+def validate_and_clean_output(raw_text):
+    """
+    LLMの生出力を検証・クリーニングして (description, review_html) を返す。
+    問題がある場合は None を返してリトライを促す。
+    """
+    text = raw_text.strip()
+    if not text:
+        print("[VALIDATE] 空のレスポンス")
+        return None
+
+    # --- ① Markdownコードブロックを除去 ---
+    text = re.sub(r"```(?:html|json|plaintext)?\s*", "", text)
+    text = re.sub(r"\s*```", "", text)
+    text = text.strip()
+
+    # --- ② JSONオブジェクトが丸ごと返ってきた場合 → 完全拒否 ---
+    # reasoning/role などAI内部ログが漏れているケース
+    if re.search(r'"role"\s*:\s*"assistant"', text):
+        print("[VALIDATE] AIの内部ログ（role/reasoning）が検出されました → 破棄")
+        return None
+    if re.search(r'"reasoning"\s*:', text[:500]):
+        print("[VALIDATE] reasoning フィールドが検出されました → 破棄")
+        return None
+
+    # --- ③ <thought> / <thinking> タグによる思考プロセスを除去 ---
+    text = re.sub(r"<(?:thought|thinking|reasoning)>.*?</(?:thought|thinking|reasoning)>",
+                  "", text, flags=re.DOTALL | re.IGNORECASE).strip()
+
+    # --- ④ Pollinationsの広告ブロックを除去 ---
+    # パターン1: ---区切りで始まる末尾ブロック（記事末尾に付くケースが多い）
+    text = re.sub(
+        r"\n[-─]{3,}.*?(?:Pollinations|Support our mission|free text APIs).*",
+        "", text, flags=re.DOTALL | re.IGNORECASE
+    ).strip()
+    # パターン2: **Ad** や 🌸 Ad 🌸 ブロック
+    text = re.sub(
+        r"\*{0,2}🌸?\s*Ad\s*🌸?\*{0,2}.*",
+        "", text, flags=re.DOTALL | re.IGNORECASE
+    ).strip()
+    # パターン3: Powered by Pollinations
+    text = re.sub(
+        r"Powered by Pollinations\.AI.*",
+        "", text, flags=re.DOTALL | re.IGNORECASE
+    ).strip()
+
+
+    # --- ⑤ 1行目=description、2行目以降=review に分割 ---
+    lines = text.split("\n", 1)
+    description = lines[0].strip()
+    review_html = lines[1].strip() if len(lines) > 1 else ""
+
+    # --- ⑥ descriptionの品質チェック ---
+    bad_desc_patterns = [
+        r"120文字",
+        r"SEOメタ",
+        r"メタディスクリプション：",
+        r'"role"',
+        r'"reasoning"',
+        r"^```",
+    ]
+    for pattern in bad_desc_patterns:
+        if re.search(pattern, description):
+            print(f"[VALIDATE] description に問題あり: {pattern}")
+            return None
+
+    # descriptionのラベル表記を除去（「SEOメタディスクリプション: 〜」形式）
+    description = re.sub(r"^.*?(?:メタ|SEO|description)[：:]\s*", "", description, flags=re.IGNORECASE).strip()
+
+    # HTMLタグをdescriptionから除去
+    description = re.sub(r"<[^>]*>", "", description).strip()
+
+    # descriptionが短すぎる・長すぎる場合
+    if len(description) < 40:
+        print(f"[VALIDATE] description が短すぎます ({len(description)}文字)")
+        return None
+    if len(description) > 160:
+        description = description[:157] + "..."
+
+    # --- ⑦ review_htmlの品質チェック ---
+    if not review_html:
+        print("[VALIDATE] review_html が空")
+        return None
+    if len(review_html) < 300:
+        print(f"[VALIDATE] review_html が短すぎます ({len(review_html)}文字)")
+        return None
+
+    # review_htmlに<h2>または<h3>が含まれているか
+    if not re.search(r"<h[23]", review_html, re.IGNORECASE):
+        print("[VALIDATE] review_html に見出しタグがありません")
+        return None
+
+    # 文字化けパターンの修正
+    review_html = review_html.replace("Wオウ", "Wi-Fi")
+    review_html = review_html.replace("W‑Fi", "Wi-Fi")
+    review_html = review_html.replace("W−Fi", "Wi-Fi")
+    description = description.replace("Wオウ", "Wi-Fi")
+
+    # reviewが途中で終わっていないかチェック（文末が句読点・タグ閉じで終わること）
+    last_chars = review_html.rstrip()[-20:]
+    if not re.search(r'[。！？」>）]$', last_chars):
+        print(f"[VALIDATE] review_html が途中で終わっている可能性: ...{last_chars!r}")
+        return None
+
+    print(f"[VALIDATE] OK — desc({len(description)}文字), review({len(review_html)}文字)")
+    return description, review_html
+
+
 def generate_article_with_llm(items, mode):
-    system_message = "あなたは親しみやすく読みやすい個人旅行ブログの運営者であり、実際に現地を旅したかのようなリアルで温かみのある日本語で記事を書くブロガーです。"
-    
+    """
+    LLMで記事を生成する。最大5回リトライし、
+    すべて失敗した場合はフォールバックを使用する。
+    """
+    if mode == "hotel":
+        item = items[0]
+        hotel_name = item.get("hotelName", "")
+        print(f"Generating article in 'Hotel Focus' mode for {hotel_name}...")
+        system_message, prompt = build_hotel_prompt(item)
+    else:
+        pref_name = items[0].get("_prefecture", "")
+        theme = random.choice(THEMES)
+        print(f"Generating article in 'Prefecture Focus' mode for {pref_name} (Theme: {theme}) with {len(items)} hotels...")
+        system_message, prompt = build_prefecture_prompt(items, pref_name, theme)
+
+    pollinations_models = ["openai", "openai-fast", "llama", "mistral"]
+    max_attempts = 5
+
+    for attempt in range(max_attempts):
+        model = pollinations_models[attempt % len(pollinations_models)]
+        print(f"Attempt {attempt + 1}/{max_attempts} (model: {model})...")
+        try:
+            response = requests.post(
+                "https://text.pollinations.ai/",
+                json={
+                    "messages": [
+                        {"role": "system", "content": system_message},
+                        {"role": "user", "content": prompt}
+                    ],
+                    "model": model,
+                    "seed": random.randint(1, 9999)
+                },
+                timeout=60
+            )
+            if response.status_code == 200 and len(response.text.strip()) > 100:
+                result = validate_and_clean_output(response.text)
+                if result is not None:
+                    print(f"[OK] 品質チェック通過 (attempt {attempt + 1}, model: {model})")
+                    return result
+                else:
+                    print(f"[RETRY] 品質チェック失敗 → リトライ")
+            elif response.status_code == 429:
+                print("[RATE LIMIT] 429 Too Many Requests → 5秒待機")
+                time.sleep(5)
+            else:
+                print(f"[ERROR] status={response.status_code}")
+        except Exception as e:
+            print(f"[EXCEPTION] attempt {attempt + 1}: {e}")
+        
+        time.sleep(3)
+
+    print("[FALLBACK] 全リトライ失敗 → フォールバック生成を使用")
+    return fallback_generation(items, mode)
+
+
+def fallback_generation(items, mode):
+    """
+    LLMが全て失敗した場合の最低限の静的フォールバック。
+    """
     if mode == "hotel":
         item = items[0]
         hotel_name = item.get("hotelName", "")
         special = item.get("hotelSpecial", "")
-        min_price = item.get("hotelMinPrice", "未定")
-        print(f"Generating article in 'Hotel Focus' mode for {hotel_name}...")
-        
-        prompt = f"""以下の宿泊施設の情報を基にして、読者の「旅行に行きたい欲」を最大化する旅行雑誌風の紹介記事をHTML本文として執筆してください。
-
-【施設名】: {hotel_name}
-【キャッチコピー・特徴】: {special}
-【最安価格目安】: {min_price}円〜
-
-【SEO・AI-SEO 超特化ルール】
-1. 構造化と結論ファースト: AI検索エンジン（SGE等）が要約しやすいよう、記事の冒頭（最初のH2の直下）に「この宿をおすすめする3つの理由」を箇条書き（<ul><li>）で簡潔に提示してください。
-2. LSIキーワードの網羅: 「アクセス」「アメニティ」「周辺観光」「口コミ」「カップル」「子連れ」「極上の癒やし」といった関連検索キーワードを自然に、かつ網羅的に本文へ組み込んでください。
-3. タグ指定: 検索エンジンのクローラーが理解しやすいよう <h2>, <h3>, <h4> を用いて階層構造を美しく作ってください。
-4. ペルソナとトーン: 旅好きで、全国の素敵なお宿を紹介するブログ運営者。親しみやすく、宣伝くさい誇張表現（「極上の癒やし」「プロが徹底ナビゲート」など）を避けた、自然で読みやすい文章。
-5. 文字数: 情報量を増やしSEO評価を高めるため、HTMLタグを含めて 1200文字〜1500文字程度 で詳細に執筆してください。
-
-【出力形式】
-- 1行目に、この記事専用のSEOメタディスクリプション（120文字程度、タグなしプレーンテキスト）を書いてください。
-- 2行目以降に、記事のHTML本文（<h2>, <h3>, <h4>, <p>, <strong>, <ul>, <li>のみ）を記述してください。
-- マークダウンのコードブロック（```html や ```）は一切出力しないでください。
-"""
-    else:
-        pref_name = items[0].get("_prefecture", "")
-        theme = random.choice(THEMES)
-        
-        hotels_info = ""
-        for i, item in enumerate(items):
-            hotels_info += f"■宿{i+1}: {item.get('hotelName', '')}\n  特徴: {item.get('hotelSpecial', '')}\n  価格目安: {item.get('hotelMinPrice', '未定')}円〜\n\n"
-            
-        print(f"Generating article in 'Prefecture Focus' mode for {pref_name} (Theme: {theme}) with {len(items)} hotels...")
-        
-        prompt = f"""以下の都道府県と「フォーカステーマ」、そして拠点となる【3つの厳選宿泊施設】の情報を基に、読者が「今すぐここへ旅行したい！」と思うような旅行雑誌の特集記事をHTML本文として執筆してください。
-
-【対象の都道府県】: {pref_name}
-【今回の特集テーマ】: {theme}
-【紹介する厳選宿（3件）】:
-{hotels_info}
-
-【SEO・AI-SEO 超特化ルール】
-1. 記事の構成:
-   - 前半: 「{pref_name}」の観光の魅力について、【特集テーマ: {theme}】に沿って深く掘り下げて語ってください。ありきたりな紹介ではなく、特定のスポットやグルメ、歴史などを具体的に描写してください。
-   - 中盤: AI検索エンジン向けに、「{pref_name}旅行を最大限に楽しむための3つのポイント」を箇条書きでまとめてください。
-   - 後半: 旅の拠点として、上記で指定された【3つの厳選宿】を順番に見出し（<h3>）をつけて魅力的に紹介してください。
-2. LSIキーワードの網羅: 「{pref_name} 観光」「モデルコース」「穴場」「アクセス」「おすすめホテル」「周辺ランチ」「絶景スポット」などを自然に散りばめてください。
-3. タグ指定: <h2>, <h3>, <h4> を用いて階層構造を作り、読みやすくしてください。
-4. 文字数: SEOの評価を最大化するため、HTMLタグを含めて 1500文字〜2000文字程度 の特大ボリュームで執筆してください。
-
-【出力形式】
-- 1行目に、この記事専用のSEOメタディスクリプション（120文字程度、タグなしプレーンテキスト）を書いてください。
-- 2行目以降に、記事のHTML本文（<h2>, <h3>, <h4>, <p>, <strong>, <ul>, <li>のみ）を記述してください。
-- マークダウンのコードブロック（```html や ```）は一切出力しないでください。
-"""
-
-    pollinations_models = ["openai", "openai-fast", "llama", "mistral", "qwen"]
-    for attempt in range(2):
-        for model in pollinations_models:
-            try:
-                print(f"Attempting with Pollinations AI (model: {model}, attempt: {attempt+1})...")
-                response = requests.post(
-                    "https://text.pollinations.ai/",
-                    json={
-                        "messages": [
-                            {"role": "system", "content": system_message},
-                            {"role": "user", "content": prompt}
-                        ],
-                        "model": model
-                    },
-                    timeout=50
-                )
-                if response.status_code == 200 and len(response.text.strip()) > 100:
-                    return response.text.strip()
-                elif response.status_code == 429:
-                    time.sleep(3)
-            except Exception as e:
-                print(f"Pollinations AI ({model}) failed: {e}")
-                time.sleep(2)
-
-    return fallback_generation(items, mode)
-
-def fallback_generation(items, mode):
-    if mode == "hotel":
-        hotel_name = items[0].get("hotelName", "")
-        special = items[0].get("hotelSpecial", "")
-        return f"""楽天トラベルでおすすめの温泉宿「{hotel_name}」の魅力と絶景を旅行ライターが徹底レポート。\n<h2>時を忘れる極上の癒やし空間。{hotel_name}で過ごす至福のひととき</h2><p>{special}</p>"""
+        pref = item.get("_prefecture", "")
+        description = f"{pref}のおすすめ宿「{hotel_name}」。{special[:60]}。アクセスや周辺観光も充実しており、ファミリーからカップルまで幅広くおすすめです。"
+        review_html = (
+            f"<h2>この宿をおすすめする3つの理由</h2>\n"
+            f"<ul>\n"
+            f"<li><strong>{pref}を代表する立地の良さ</strong>：観光スポットや駅からのアクセスが良好です。</li>\n"
+            f"<li><strong>充実したアメニティ</strong>：Wi-Fi完備で快適な滞在をサポートします。</li>\n"
+            f"<li><strong>丁寧なおもてなし</strong>：口コミでもスタッフの対応が高く評価されています。</li>\n"
+            f"</ul>\n"
+            f"<h2>施設の魅力</h2>\n"
+            f"<p>{special}</p>\n"
+            f"<h2>まとめ</h2>\n"
+            f"<p>{hotel_name}は、{pref}の観光拠点として最適な宿です。ぜひ一度訪れてみてください。</p>"
+        )
     else:
         pref = items[0].get("_prefecture", "")
-        return f"""{pref}の絶景観光スポットとおすすめ厳選宿特集。心を満たす極上の旅行プランをご提案。\n<h2>{pref}の魅力と巡るべき名所</h2><p>{pref}には素晴らしい景色と美食が溢れています。</p>"""
-
-def clean_llm_output(raw_output):
-    """
-    LLMの出力から余分なJSON構造や思考プロセス、コードブロックを除去して、
-    (description, review_html) を安全に返す。
-    """
-    text = raw_output.strip()
-    
-    # 1. もしMarkdownのコードブロックで囲まれている場合は中身を取り出す
-    code_block_match = re.search(r"```(?:html|json)?\s*(.*?)\s*```", text, re.DOTALL | re.IGNORECASE)
-    if code_block_match:
-        text = code_block_match.group(1).strip()
-
-    # 2. JSON形式のレスポンスだった場合のパース試行
-    if text.startswith("{") and text.endswith("}"):
-        try:
-            js = json.loads(text)
-            if "description" in js and "review" in js:
-                return js["description"].strip(), js["review"].strip()
-            elif "description" in js and "review_html" in js:
-                return js["description"].strip(), js["review_html"].strip()
-            elif "content" in js:
-                text = js["content"].strip()
-            elif "choices" in js:
-                text = js["choices"][0]["message"]["content"].strip()
-            elif "role" in js and "reasoning" in js:
-                if "review" in js:
-                    desc = js.get("description", "")
-                    return desc.strip(), js["review"].strip()
-        except Exception:
-            pass
-
-    # 3. 思考プロセスのタグ <thought> や <reasoning> があれば除去
-    text = re.sub(r"<(?:thought|reasoning)>.*?</(?:thought|reasoning)>", "", text, flags=re.DOTALL | re.IGNORECASE).strip()
-
-    # 4. 通常テキストの場合、1行目を description、2行目以降を review_html とする
-    lines = text.split("\n", 1)
-    description = lines[0].strip()
-    review_html = lines[1].strip() if len(lines) > 1 else text
-    
+        description = f"{pref}の絶景・グルメ・温泉を楽しむ旅行特集。厳選した3つの宿を拠点に、{pref}ならではの魅力を余すことなく体験しましょう。"
+        hotel_list = "\n".join(
+            f"<li><strong>{item.get('hotelName', '')}</strong>：{item.get('hotelSpecial', '')[:60]}</li>"
+            for item in items
+        )
+        review_html = (
+            f"<h2>{pref}の旅の魅力</h2>\n"
+            f"<p>{pref}は豊かな自然・歴史・食文化が揃ったエリアです。四季折々の風景と地元グルメをぜひご堪能ください。</p>\n"
+            f"<h2>{pref}旅行を最大限に楽しむための3つのポイント</h2>\n"
+            f"<ul>\n"
+            f"<li><strong>事前にモデルコースを計画する</strong>：観光スポットを効率よく回るために、訪問先を絞って計画しましょう。</li>\n"
+            f"<li><strong>地元グルメを堪能する</strong>：{pref}ならではの食材や郷土料理は、旅の大きな楽しみです。</li>\n"
+            f"<li><strong>宿の予約は早めに</strong>：人気の宿は埋まりやすいため、早期予約がおすすめです。</li>\n"
+            f"</ul>\n"
+            f"<h2>厳選宿泊施設のご紹介</h2>\n"
+            f"<ul>\n{hotel_list}\n</ul>\n"
+            f"<p>{pref}の旅は、自然・温泉・食のすべてが揃った最高のリフレッシュになるはずです。ぜひ次の旅先に選んでみてください。</p>"
+        )
     return description, review_html
+
 
 def decide_category(item):
     special = item.get("hotelSpecial", "").lower()
@@ -365,15 +565,10 @@ def main():
             if val and val != image_url:
                 other_images.append(val)
 
-        raw_output = generate_article_with_llm(items, mode)
-        
-        description, review_html = clean_llm_output(raw_output)
-        
-        description = re.sub(r"<[^>]*>", "", description).strip()
-        if len(description) > 160:
-            description = description[:157] + "..."
+        # 記事生成（バリデーション済みの (description, review_html) が返る）
+        description, review_html = generate_article_with_llm(items, mode)
 
-        # もし都道府県モード（3件の宿）の場合、2件目・3件目のアフィリエイトリンクをHTMLの末尾に注入する
+        # 都道府県モード（3件の宿）の場合、アフィリエイトリンクをHTML末尾に注入
         if mode == "prefecture" and len(items) > 1:
             review_html += "\n<hr style='margin: 40px 0; border-top: 2px dashed #134e4a; opacity: 0.2;' />\n"
             review_html += "<h3 style='color: #134e4a; font-weight: bold;'>🌟 ご紹介したおすすめ厳選宿の空室・詳細はこちら</h3>\n"
@@ -382,7 +577,14 @@ def main():
                 h_name = item.get("hotelName", "")
                 h_url = item.get("affiliateUrl", "")
                 if h_url:
-                    review_html += f"<li style='margin-bottom: 15px;'><a href='{h_url}' target='_blank' style='display: inline-block; padding: 12px 20px; background: linear-gradient(to right, #d97706, #b45309); color: white; text-decoration: none; font-weight: bold; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); width: 100%; text-align: center;'>✈️ {h_name} の詳細プランを見る</a></li>\n"
+                    review_html += (
+                        f"<li style='margin-bottom: 15px;'>"
+                        f"<a href='{h_url}' target='_blank' style='display: inline-block; padding: 12px 20px; "
+                        f"background: linear-gradient(to right, #d97706, #b45309); color: white; "
+                        f"text-decoration: none; font-weight: bold; border-radius: 12px; "
+                        f"box-shadow: 0 4px 6px rgba(0,0,0,0.1); width: 100%; text-align: center;'>"
+                        f"✈️ {h_name} の詳細プランを見る</a></li>\n"
+                    )
             review_html += "</ul>\n"
 
         categories = decide_category(main_item)
