@@ -5,8 +5,7 @@ import requests
 
 def main():
     host = "croud-travel.pages.dev"
-    # IndexNow用の適当な32桁の16進数キー
-    key = "f1a2b3c4d5e64f7a8b9c0d1e2f3a4b5c"
+    key = "b1c2d3e4f5a67b8c9d0e1f2a3b4c5d6e"
     
     # 1. キーファイルの作成 (public/配下)
     public_dir = "public"
