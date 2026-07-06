@@ -76,7 +76,7 @@ export default function RootLayout({
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800;900&family=Noto+Sans+JP:wght@400;500;700;900&family=Noto+Serif+JP:wght@400;700;900&display=swap" rel="stylesheet" />
-        
+
         {/* Google Analytics */}
         <Script
           src="https://www.googletagmanager.com/gtag/js?id=G-EPZG8ZHQ7T"
@@ -92,7 +92,7 @@ export default function RootLayout({
         </Script>
       </head>
       <body className="min-h-full flex flex-col selection:bg-teal-700 selection:text-white antialiased">
-        
+
         {/* 日本旅行情緒を高めるインフォバー */}
         <div className="w-full text-center py-2.5 bg-gradient-to-r from-teal-800 via-emerald-700 to-amber-700 text-[10px] font-bold tracking-widest text-white uppercase">
           日本全国の隠れた名宿・憧れリゾートを毎日発信中 🧭 旅にでかけよう
@@ -122,7 +122,7 @@ export default function RootLayout({
         {/* メインコンテンツ */}
         <div className="flex-grow w-full relative flex justify-center items-start">
           {/* 左サイド追従バナー */}
-          <aside className="hidden xl:flex flex-col fixed left-2 xl:left-[calc((100vw-1152px)/4-150px)] top-24 w-[270px] z-30 space-y-6 items-center">
+          <aside className="hidden xl:flex flex-col fixed left-2 xl:left-[calc((100vw-1152px)/4-140px)] top-24 w-[270px] z-30 space-y-6 items-center">
             <TravelBanner
               imageSrc="/images/rakuten_furusato_travel.png"
               linkUrl="/posts/rakuten-furusato-travel"
