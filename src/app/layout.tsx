@@ -122,7 +122,7 @@ export default function RootLayout({
         {/* メインコンテンツ */}
         <div className="flex-grow w-full relative flex justify-center items-start">
           {/* 左サイド追従バナー */}
-          <aside className="hidden xl:flex flex-col fixed left-1 xl:left-[calc((100vw-1152px)/4-125px)] top-24 w-[270px] z-30 space-y-6 items-center">
+          <aside className="hidden xl:flex flex-col fixed left-1 xl:left-[calc((100vw-1152px)/4-127px)] top-24 w-[270px] z-30 space-y-6 items-center">
             <TravelBanner
               imageSrc="/images/rakuten_furusato_travel.png"
               linkUrl="/posts/rakuten-furusato-travel"
@@ -135,7 +135,7 @@ export default function RootLayout({
             />
             <TravelBanner
               imageSrc="/images/rakuten_service_debut.png"
-              linkUrl="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fcamp%2Fstart%2F"
+              linkUrl="/posts/rakuten-service-debut"
               altText="サービス初めて利用キャンペーン"
             />
           </aside>
@@ -153,7 +153,7 @@ export default function RootLayout({
             />
             <TravelBanner
               imageSrc="/images/noto_offers.png"
-              linkUrl="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Fhokuriku%2F"
+              linkUrl="/posts/noto-offers-coupon"
               altText="能登応援キャンペーン"
             />
             <TravelBanner
