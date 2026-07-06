@@ -122,7 +122,7 @@ export default function RootLayout({
         {/* メインコンテンツ */}
         <div className="flex-grow w-full relative flex justify-center items-start">
           {/* 左サイド追従バナー */}
-          <aside className="hidden xl:flex flex-col fixed left-1 xl:left-[calc((100vw-1152px)/4-120px)] top-24 w-[270px] z-30 space-y-6 items-center">
+          <aside className="hidden xl:flex flex-col fixed left-1 xl:left-[calc((100vw-1152px)/4-123px)] top-24 w-[270px] z-30 space-y-6 items-center">
             <TravelBanner
               imageSrc="/images/rakuten_furusato_travel.png"
               linkUrl="/posts/rakuten-furusato-travel"
