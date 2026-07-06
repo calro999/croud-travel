@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Script from "next/script";
+import TravelBanner from "./components/TravelBanner";
 import "./globals.css";
 
 const siteName = "日本全国・旅びより｜楽天トラベルでめぐる厳選宿・観光マガジン";
@@ -119,9 +120,49 @@ export default function RootLayout({
         </header>
 
         {/* メインコンテンツ */}
-        <main className="flex-grow max-w-6xl w-full mx-auto px-4 py-8 md:py-12">
-          {children}
-        </main>
+        <div className="flex-grow w-full relative flex justify-center items-start">
+          {/* 左サイド追従バナー */}
+          <aside className="hidden xl:flex flex-col fixed left-4 top-24 w-[270px] z-30 space-y-6 items-center">
+            <TravelBanner
+              imageSrc="/images/rakuten_furusato_travel.png"
+              linkUrl="/posts/rakuten-furusato-travel"
+              altText="楽天トラベル ふるさと納税クーポン"
+            />
+            <TravelBanner
+              imageSrc="/images/rakuten_5and0_luxury.png"
+              linkUrl="/posts/rakuten-5and0-luxury"
+              altText="5と0のつく日 高級宿セール"
+            />
+            <TravelBanner
+              imageSrc="/images/rakuten_service_debut.png"
+              linkUrl="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fcamp%2Fstart%2F"
+              altText="サービス初めて利用キャンペーン"
+            />
+          </aside>
+
+          <main className="flex-grow max-w-6xl w-full mx-auto px-4 py-8 md:py-12">
+            {children}
+          </main>
+
+          {/* 右サイド追従バナー */}
+          <aside className="hidden xl:flex flex-col fixed right-4 xl:right-[calc((100vw-1152px)/4-135px)] top-24 w-[270px] z-30 space-y-6 items-center">
+            <TravelBanner
+              imageSrc="/images/rakuten_summer_sale_banner.png"
+              linkUrl="/posts/summer-sale-2026"
+              altText="楽天トラベル サマーセール"
+            />
+            <TravelBanner
+              imageSrc="/images/noto_offers.png"
+              linkUrl="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Fhokuriku%2F"
+              altText="能登応援キャンペーン"
+            />
+            <TravelBanner
+              imageSrc="/images/rakuten_cars_coupon.png"
+              linkUrl="/posts/rakuten-cars-coupon"
+              altText="楽天レンタカー割引クーポン"
+            />
+          </aside>
+        </div>
 
         {/* 旅行雑誌の奥付をイメージしたフッター */}
         <footer className="border-t border-emerald-950/10 bg-white py-12 text-xs text-emerald-950/70 shadow-inner">
