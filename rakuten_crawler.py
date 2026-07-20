@@ -93,8 +93,16 @@ def fetch_rakuten_items(target_count=1):
     if not app_id:
         raise ValueError("RAKUTEN_APPLICATION_ID must be set in environment variables.")
 
-    # ランダムに都道府県を選択
-    pref = random.choice(PREFECTURES)
+    target_pref_code = os.environ.get("TARGET_PREFECTURE")
+    if target_pref_code:
+        pref = next((p for p in PREFECTURES if p["code"] == target_pref_code.lower()), None)
+        if not pref:
+            print(f"Target prefecture '{target_pref_code}' not found. Falling back to random.")
+            pref = random.choice(PREFECTURES)
+    else:
+        # ランダムに都道府県を選択
+        pref = random.choice(PREFECTURES)
+    
     print(f"Selected Prefecture for search: {pref['name']} ({pref['code']})")
 
     url = "https://openapi.rakuten.co.jp/engine/api/Travel/KeywordHotelSearch/20170426"

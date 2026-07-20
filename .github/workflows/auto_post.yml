@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: '0 * * * *' # 1時間おきに実行して自動投稿を維持（1日24回）
   workflow_dispatch:
+    inputs:
+      target_prefecture:
+        description: 'Target prefecture code (e.g. hokkaido, aomori). Leave empty for random.'
+        required: false
+        default: ''
 
 permissions:
   contents: write
@@ -36,6 +41,7 @@ jobs:
           RAKUTEN_APPLICATION_ID: ${{ secrets.RAKUTEN_APPLICATION_ID }}
           RAKUTEN_AFFILIATE_ID: ${{ secrets.RAKUTEN_AFFILIATE_ID }}
           RAKUTEN_ACCESS_KEY: ${{ secrets.RAKUTEN_ACCESS_KEY }}
+          TARGET_PREFECTURE: ${{ github.event.inputs.target_prefecture }}
         run: python rakuten_crawler.py
 
       - name: Bundle Posts
