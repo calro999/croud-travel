@@ -54,5 +54,6 @@ jobs:
           git add src/data/posts/ posted_cache.txt public/data/posts.json
           if ! git diff --cached --quiet; then
             git commit -m "chore: update travel posts database and cache"
+            git pull --rebase origin main
             git push
           fi
