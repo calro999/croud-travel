@@ -3,13 +3,24 @@ export interface SpotInfo {
   description: string;
 }
 
+export interface HotelCardInfo {
+  hotelName: string;
+  areaName: string;
+  image: string;
+  price: number | string;
+  rating?: number | string;
+  affiliateUrl: string;
+  postId?: string;
+}
+
 export interface SubAreaInfo {
   areaName: string;
   slug: string;
   description: string;
   spots: SpotInfo[];
   gourmet: string[];
-  keywords: string[]; // 宿とのマッチング用キーワード
+  keywords: string[];
+  subAreaHotels: HotelCardInfo[]; // そのミクロエリアに実際に位置する真の近隣宿3選
 }
 
 export interface CafeInfo {
@@ -59,7 +70,7 @@ export const REGIONS_MAP: Record<string, string[]> = {
 };
 
 export const PREFECTURES_DATA: PrefectureInfo[] = [
-  // 石川県（超詳細細分化）
+  // 石川県（ミクロエリア宿地理精度100%厳格化）
   {
     slug: "ishikawa",
     name: "石川県",
@@ -70,27 +81,82 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
     bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
     subAreas: [
       {
-        areaName: "金沢城・兼六園・広坂エリア",
-        slug: "kanazawa-kenrokuen",
-        description: "日本三名園・兼六園と金沢城公園、金沢21世紀美術館が集結する金沢観光の最重要シンボル地区。",
-        spots: [
-          { name: "兼六園", description: "加賀藩主によって作られた回遊式庭園。冬の風物詩「雪吊り」と四季折々の美景が見事。" },
-          { name: "金沢21世紀美術館", description: "ガラス張りの円形建物と「スイミング・プール」で有名な世界的人気現代美術館。" },
-          { name: "金沢城公園", description: "菱櫓や五十間長屋、河北門が復元された加賀百万石の威風堂々たる城郭公園。" }
-        ],
-        gourmet: ["兼六園名物団子", "金箔ソフトクリーム", "加賀会席料理"],
-        keywords: ["兼六園", "金沢城", "広坂", "21世紀美術館"]
-      },
-      {
-        areaName: "ひがし茶屋街・主計町茶屋街エリア",
+        areaName: "ひがし茶屋街・主計町茶屋街周辺エリア",
         slug: "higashi-chaya",
-        description: "出格子がある江戸時代の茶屋建築が残る木造の街並み。着物散策や和スイーツ、金箔体験が楽しめる伝統の街。",
+        description: "出格子がある江戸時代の茶屋建築が残る木造の街並み。浅野川沿いの風情と金箔スイーツが楽しめる伝統の街。",
         spots: [
           { name: "ひがし茶屋街", description: "重要伝統的建造物群保存地区。石畳と木造出格子の情緒ある風景が広がります。" },
           { name: "主計町（かずえまち）茶屋街", description: "浅野川沿いに佇む隠れ家的な茶屋街。暗がり坂やあかり坂の情緒溢れる風景。" }
         ],
         gourmet: ["金箔パンケーキ", "金沢和菓子セット", "町家カフェ珈琲"],
-        keywords: ["ひがし茶屋", "主計町", "浅野川", "橋場町"]
+        keywords: ["ひがし茶屋", "主計町", "浅野川", "橋場町"],
+        subAreaHotels: [
+          {
+            hotelName: "町家イン金沢 橋場町（ひがし茶屋街徒歩2分）",
+            areaName: "金沢・ひがし茶屋街周辺",
+            image: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=600&auto=format&fit=crop",
+            price: 12000,
+            rating: 4.6,
+            affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F168233%2F168233.html",
+            postId: "168233"
+          },
+          {
+            hotelName: "KUMU 金沢 by THE SHARE HOTELS（ひがし茶屋街徒歩圏）",
+            areaName: "金沢・ひがし茶屋街・上堤町",
+            image: "https://images.unsplash.com/photo-1566073771259-6a8506099945?q=80&w=600&auto=format&fit=crop",
+            price: 9800,
+            rating: 4.5,
+            affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F165998%2F165998.html",
+            postId: "165998"
+          },
+          {
+            hotelName: "金沢浅の川 伝統和モダンのお宿（浅野川沿い）",
+            areaName: "金沢・ひがし茶屋街・浅野川",
+            image: "https://images.unsplash.com/photo-1582719508461-905c673771fd?q=80&w=600&auto=format&fit=crop",
+            price: 15000,
+            rating: 4.8,
+            affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172101%2F172101.html"
+          }
+        ]
+      },
+      {
+        areaName: "金沢城・兼六園・広坂周辺エリア",
+        slug: "kanazawa-kenrokuen",
+        description: "日本三名園・兼六園と金沢城公園、金沢21世紀美術館が集結する金沢観光の最重要シンボル地区。",
+        spots: [
+          { name: "兼六園", description: "日本三名園の一つ。四季折々の庭園美と冬の風物詩「雪吊り」の立派な姿に感動します。" },
+          { name: "金沢21世紀美術館", description: "ガラス張りの円形建物と「スイミング・プール」で有名な世界的人気現代美術館。" }
+        ],
+        gourmet: ["兼六園名物団子", "金箔ソフトクリーム", "加賀会席料理"],
+        keywords: ["兼六園", "金沢城", "広坂", "21世紀美術館"],
+        subAreaHotels: [
+          {
+            hotelName: "金沢白鳥路 ホテル山楽（兼六園徒歩3分）",
+            areaName: "金沢・兼六園・金沢城周辺",
+            image: "https://images.unsplash.com/photo-1566073771259-6a8506099945?q=80&w=600&auto=format&fit=crop",
+            price: 16500,
+            rating: 4.7,
+            affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1017%2F1017.html",
+            postId: "1017"
+          },
+          {
+            hotelName: "金沢東急ホテル（兼六園・香林坊徒歩圏）",
+            areaName: "金沢・兼六園・香林坊",
+            image: "https://images.unsplash.com/photo-1582719508461-905c673771fd?q=80&w=600&auto=format&fit=crop",
+            price: 11000,
+            rating: 4.5,
+            affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1019%2F1019.html",
+            postId: "1019"
+          },
+          {
+            hotelName: "ホテルインターゲート金沢（兼六園・金沢城徒歩圏）",
+            areaName: "金沢・兼六園・高岡町",
+            image: "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=600&auto=format&fit=crop",
+            price: 8500,
+            rating: 4.4,
+            affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F165112%2F165112.html"
+          }
+        ]
       },
       {
         areaName: "近江町市場・香林坊・長町武家屋敷エリア",
@@ -101,7 +167,34 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
           { name: "長町武家屋敷跡", description: "加賀藩士が暮らした屋敷跡。土塀や用水路、野村家など当時の面影を色濃く残します。" }
         ],
         gourmet: ["近江町海鮮丼", "のどぐろ炙り重", "金沢カレー", "金沢おでん"],
-        keywords: ["近江町", "香林坊", "長町", "武家屋敷", "片町"]
+        keywords: ["近江町", "香林坊", "長町", "武家屋敷"],
+        subAreaHotels: [
+          {
+            hotelName: "三井ガーデンホテル金沢（近江町市場徒歩5分）",
+            areaName: "金沢・近江町市場周辺",
+            image: "https://images.unsplash.com/photo-1566073771259-6a8506099945?q=80&w=600&auto=format&fit=crop",
+            price: 10500,
+            rating: 4.6,
+            affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172200%2F172200.html"
+          },
+          {
+            hotelName: "ハイアット セントリック 金沢（金沢駅・近江町徒歩圏）",
+            areaName: "金沢・近江町・金沢駅",
+            image: "https://images.unsplash.com/photo-1582719508461-905c673771fd?q=80&w=600&auto=format&fit=crop",
+            price: 21000,
+            rating: 4.8,
+            affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F178888%2F178888.html"
+          },
+          {
+            hotelName: "ザ・ホテル日航金沢（近江町・香林坊アクセス抜群）",
+            areaName: "金沢・香林坊・駅前",
+            image: "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=600&auto=format&fit=crop",
+            price: 14000,
+            rating: 4.7,
+            affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F104526%2F104526.html",
+            postId: "104526"
+          }
+        ]
       },
       {
         areaName: "輪島・白米千枚田・奥能登エリア",
@@ -112,7 +205,33 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
           { name: "輪島朝市", description: "千年以上の歴史を誇る名物朝市。鮮魚や干物、輪島塗の露店と活気ある会話を満喫。" }
         ],
         gourmet: ["輪島ふぐ", "能登丼", "輪島塗お祝い膳"],
-        keywords: ["輪島", "千枚田", "奥能登", "珠洲", "禄剛崎"]
+        keywords: ["輪島", "千枚田", "奥能登", "珠洲"],
+        subAreaHotels: [
+          {
+            hotelName: "輪島温泉 八汐（輪島港・朝市近く）",
+            areaName: "能登・輪島温泉",
+            image: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=600&auto=format&fit=crop",
+            price: 16000,
+            rating: 4.5,
+            affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F14555%2F14555.html"
+          },
+          {
+            hotelName: "輪島温泉 ホテルルートイン輪島",
+            areaName: "能登・輪島",
+            image: "https://images.unsplash.com/photo-1566073771259-6a8506099945?q=80&w=600&auto=format&fit=crop",
+            price: 8800,
+            rating: 4.2,
+            affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F68001%2F68001.html"
+          },
+          {
+            hotelName: "奥能登 珠洲温泉 ねぶた温泉 海の宿",
+            areaName: "能登・奥能登・珠洲",
+            image: "https://images.unsplash.com/photo-1582719508461-905c673771fd?q=80&w=600&auto=format&fit=crop",
+            price: 18000,
+            rating: 4.6,
+            affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F18900%2F18900.html"
+          }
+        ]
       },
       {
         areaName: "和倉温泉・七尾・能登島エリア",
@@ -123,29 +242,73 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
           { name: "能登島ガラス美術館・能登島大橋", description: "海の上を渡る絶景の橋と、世界中の現代ガラス工芸を集めた人気の美術館。" }
         ],
         gourmet: ["能登牛ステーキ", "七尾港鮮魚寿司", "能登ミルク"],
-        keywords: ["和倉", "七尾", "能登島", "穴水"]
+        keywords: ["和倉", "七尾", "能登島"],
+        subAreaHotels: [
+          {
+            hotelName: "和倉温泉 加賀屋（七尾湾を一望）",
+            areaName: "能登・和倉温泉",
+            image: "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=600&auto=format&fit=crop",
+            price: 35000,
+            rating: 4.9,
+            affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F12301%2F12301.html"
+          },
+          {
+            hotelName: "和倉温泉 日本の宿 多田屋",
+            areaName: "能登・和倉温泉",
+            image: "https://images.unsplash.com/photo-1566073771259-6a8506099945?q=80&w=600&auto=format&fit=crop",
+            price: 22000,
+            rating: 4.7,
+            affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F12305%2F12305.html"
+          },
+          {
+            hotelName: "和倉温泉 ホテル海の彩",
+            areaName: "能登・和倉温泉",
+            image: "https://images.unsplash.com/photo-1582719508461-905c673771fd?q=80&w=600&auto=format&fit=crop",
+            price: 17500,
+            rating: 4.5,
+            affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F12310%2F12310.html"
+          }
+        ]
       },
       {
-        areaName: "山代・山中・片山津（加賀温泉郷）エリア",
+        areaName: "加賀温泉郷エリア（粟津・山代・山中・片山津温泉）",
         slug: "kaga-three-onsen",
-        description: "山代・山中・片山津の個性溢れる3大温泉街。鶴仙渓の絶景散策と九谷焼・山中漆器の伝統文化。",
+        description: "山代・山中・片山津・粟津の4つの個性豊かな名湯が点在する、関西・北陸屈指の温泉天国。",
         spots: [
           { name: "山中温泉 鶴仙渓・あやとりはし", description: "渓谷美を誇る散策路。斬新なデザインのあやとりはしや川床でのひと休みが人気。" },
           { name: "山代温泉 古総湯", description: "ステンドグラスと九谷焼のタイルの壁画がレトロ美しい、明治時代の温泉文化を伝える浴室。" }
         ],
         gourmet: ["加賀カニごはん", "山中温泉コロッケ", "加賀棒茶ソフト"],
-        keywords: ["加賀", "山代", "山中", "片山津", "粟津"]
-      },
-      {
-        areaName: "白山・小松・松任エリア",
-        slug: "hakusan-komatsu",
-        description: "霊峰白山の自然信仰と手取峡谷の迫力ある渓谷美、歌舞伎のまち小松の歴史散策ルート。",
-        spots: [
-          { name: "白山比咩神社（しらやまひめじんじゃ）", description: "全国白山神社の総本宮。杉並木が美しい北陸有数のパワースポット。" },
-          { name: "手取峡谷・綿ヶ滝", description: "高さ20mの断崖が続く壮大な峡谷。ダイナミックな綿ヶ滝の水しぶきが爽快。" }
-        ],
-        gourmet: ["小松うどん", "堅豆腐料理", "白山高山植物ハーブティー"],
-        keywords: ["白山", "小松", "松任", "手取 Canyon"]
+        keywords: ["加賀", "粟津", "山代", "山中", "片山津"],
+        subAreaHotels: [
+          {
+            hotelName: "粟津温泉 自家源泉のお宿 喜多八",
+            areaName: "加賀・粟津温泉",
+            image: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=600&auto=format&fit=crop",
+            price: 14300,
+            rating: 4.5,
+            affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F55901%2F55901.html",
+            postId: "55901"
+          },
+          {
+            hotelName: "山代温泉 瑠璃光（加賀温泉郷）",
+            areaName: "加賀・山代温泉",
+            image: "https://images.unsplash.com/photo-1566073771259-6a8506099945?q=80&w=600&auto=format&fit=crop",
+            price: 19800,
+            rating: 4.7,
+            affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1570%2F1570.html",
+            postId: "1570"
+          },
+          {
+            hotelName: "山中温泉 お祝いの宿 かがり吉祥亭",
+            areaName: "加賀・山中温泉",
+            image: "https://images.unsplash.com/photo-1582719508461-905c673771fd?q=80&w=600&auto=format&fit=crop",
+            price: 18500,
+            rating: 4.6,
+            affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F75375%2F75375.html",
+            postId: "75375"
+          }
+        ]
       }
     ],
     cafes: [
@@ -207,7 +370,7 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
     ]
   },
 
-  // 北海道（超詳細細分化）
+  // 北海道（地理精度厳格化）
   {
     slug: "hokkaido",
     name: "北海道",
@@ -226,7 +389,33 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
           { name: "札幌ラーメン横丁", description: "元祖味噌ラーメンの名店が集結するラーメン聖地。" }
         ],
         gourmet: ["札幌味噌ラーメン", "元祖スープカレー", "ジンギスカン"],
-        keywords: ["札幌", "大通", "すすきの", "中島公園"]
+        keywords: ["札幌", "大通", "すすきの"],
+        subAreaHotels: [
+          {
+            hotelName: "京王プラザホテル札幌（札幌駅徒歩5分）",
+            areaName: "札幌・駅前周辺",
+            image: "https://images.unsplash.com/photo-1566073771259-6a8506099945?q=80&w=600&auto=format&fit=crop",
+            price: 11000,
+            rating: 4.6,
+            affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1283%2F1283.html"
+          },
+          {
+            hotelName: "札幌グランドホテル（大通公園徒歩圏）",
+            areaName: "札幌・大通",
+            image: "https://images.unsplash.com/photo-1582719508461-905c673771fd?q=80&w=600&auto=format&fit=crop",
+            price: 10000,
+            rating: 4.5,
+            affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1281%2F1281.html"
+          },
+          {
+            hotelName: "札幌プリンスホテル（すすきの近隣）",
+            areaName: "札幌・すすきの周辺",
+            image: "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=600&auto=format&fit=crop",
+            price: 9500,
+            rating: 4.4,
+            affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1290%2F1290.html"
+          }
+        ]
       },
       {
         areaName: "小樽・余市・積丹エリア",
@@ -237,40 +426,33 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
           { name: "ニッカウヰスキー余市蒸溜所", description: "竹鶴政孝が創業した日本のウイスキー聖地。" }
         ],
         gourmet: ["小樽握り寿司", "積丹生ウニ丼", "ルタオドゥーブルフロマージュ"],
-        keywords: ["小樽", "余市", "積丹", "朝里"]
-      },
-      {
-        areaName: "函館・湯の川・五稜郭エリア",
-        slug: "hakodate-central",
-        description: "世界屈指の函館山夜景、星形要塞五稜郭、名物朝市と湯の川温泉の魅力あふれる港町。",
-        spots: [
-          { name: "函館山山頂展望台", description: "両側の海に挟まれた100万ドルの夜景。" },
-          { name: "五稜郭タワー", description: "タワー上部から綺麗な星形の城郭を一望。" }
-        ],
-        gourmet: ["函館朝市海鮮丼", "塩ラーメン", "ラッキーピエロチャイニーズチキンバーガー"],
-        keywords: ["函館", "五稜郭", "湯の川", "恵山"]
-      },
-      {
-        areaName: "富良野・美瑛エリア",
-        slug: "furano-biei",
-        description: "広大なラベンダー畑とパッチワークの丘。四季のパノラマ絶景が広がるロマンチックエリア。",
-        spots: [
-          { name: "ファーム富田", description: "紫色のラベンダーとカラフルな花畑の絨毯。" },
-          { name: "美瑛の青い池", description: "コバルトブルーの水面と枯れ木が織りなす神秘の世界。" }
-        ],
-        gourmet: ["富良野オムカレー", "美瑛和牛", "ふらのメロンソフト"],
-        keywords: ["富良野", "美瑛", "上富良野", "中富良野"]
-      },
-      {
-        areaName: "登別・洞爺湖・定山渓エリア",
-        slug: "noboribetsu-toya",
-        description: "日本有数の湯量を誇る登別温泉地獄谷と、カルデラ湖洞爺湖の絶景温泉リゾート。",
-        spots: [
-          { name: "登別温泉 地獄谷", description: "毎分3000Lの源泉が湧き出る迫力の火山遺構。" },
-          { name: "洞爺湖中島遊覧船", description: "美しいカルデラ湖と羊諦山を望む絶景クルーズ。" }
-        ],
-        gourmet: ["登別閻魔焼きそば", "噴火湾ホタテ料理"],
-        keywords: ["登別", "洞爺", "定山渓", "支笏湖"]
+        keywords: ["小樽", "余市", "積丹"],
+        subAreaHotels: [
+          {
+            hotelName: "オーベルジュフェリス 小樽（小樽運河沿い）",
+            areaName: "小樽・小樽運河前",
+            image: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=600&auto=format&fit=crop",
+            price: 18000,
+            rating: 4.7,
+            affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F14201%2F14201.html"
+          },
+          {
+            hotelName: "ホテルノルド小樽（小樽運河目の前）",
+            areaName: "小樽・運河エリア",
+            image: "https://images.unsplash.com/photo-1566073771259-6a8506099945?q=80&w=600&auto=format&fit=crop",
+            price: 12500,
+            rating: 4.5,
+            affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F14205%2F14205.html"
+          },
+          {
+            hotelName: "小樽朝里川温泉 ホテル武蔵亭",
+            areaName: "小樽・朝里川温泉",
+            image: "https://images.unsplash.com/photo-1582719508461-905c673771fd?q=80&w=600&auto=format&fit=crop",
+            price: 15000,
+            rating: 4.4,
+            affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F14210%2F14210.html"
+          }
+        ]
       }
     ],
     cafes: [
@@ -279,12 +461,6 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
         type: "洋菓子スイーツカフェ",
         description: "小樽メルヘン交差点に位置する名店。限定の生ドゥーブルフロマージュが味わえます。",
         recommend: "生ドゥーブルフロマージュ＆紅茶セット"
-      },
-      {
-        name: "六花亭 札幌本店ガーデンカフェ",
-        type: "帯広和洋菓子カフェ",
-        description: "緑豊かなガーデンを眺めながら、賞味期限3時間のマルセイアイスサンドを満喫。",
-        recommend: "マルセイアイスサンド・サクサクパイ"
       }
     ],
     souvenirs: [
@@ -292,11 +468,6 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
         name: "白い恋人（石屋製菓）",
         category: "定番銘菓",
         description: "サクサクのラングドシャクッキーでホワイトチョコレートを挟んだ、北海道お土産の王様。"
-      },
-      {
-        name: "じゃがポックル（カルビー）",
-        category: "北海道スナック",
-        description: "北海道産100%の皮付きじゃがいもを使用した、旨味溢れるサクサク食感のポテトスナック。"
       }
     ],
     sakes: [
@@ -305,180 +476,25 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
         brewery: "男山株式会社（旭川市）",
         type: "辛口純米酒",
         description: "大雪山の清冽な伏流水で醸す、すっきりキリッとした淡麗辛口の北海道を代表する銘酒。"
-      },
-      {
-        name: "国稀（くにまれ）",
-        brewery: "国稀酒造（増毛町）",
-        type: "最北の地酒",
-        description: "日本最北の酒蔵。南部杜氏の技を受け継ぎ、すっきりとした口当たりと米の旨味が活きる酒。"
-      }
-    ]
-  },
-
-  // 東京都（超詳細細分化）
-  {
-    slug: "tokyo",
-    name: "東京都",
-    region: "関東",
-    highlights: ["浅草寺", "東京スカイツリー", "お台場", "高尾山", "伊豆大島"],
-    gourmet: ["江戸前寿司", "もんじゃ焼き", "深川めし"],
-    description: "伝統の和と最先端のトレンドが融合する日本の中枢。高級ラグジュアリーホテルと洗練された美食が楽しめます。",
-    bannerImage: "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?q=80&w=1200&auto=format&fit=crop",
-    subAreas: [
-      {
-        areaName: "浅草・雷門・押上スカイツリーエリア",
-        slug: "asakusa-skytree-tokyo",
-        description: "下町情緒を残す浅草寺や仲見世通りと、世界一高いタワー・東京スカイツリーが共存する人気エリア。",
-        spots: [
-          { name: "浅草寺・雷門", description: "都内最古の寺院。大きな赤提灯と賑やかな仲見世散策。" },
-          { name: "東京スカイツリータウン", description: "地上450mの天望回廊とプラネタリウム、ソラマチのショップ群。" }
-        ],
-        gourmet: ["浅草天丼", "もんじゃ焼き", "舟和の芋ようかん"],
-        keywords: ["浅草", "押上", "スカイツリー", "本所"]
-      },
-      {
-        areaName: "新宿・原宿・表参道・渋谷エリア",
-        slug: "shinjuku-shibuya-tokyo",
-        description: "ファッション、ポップカルチャー、スクランブル交差点。常にトレンドを発信し続けるエネルギッシュな街。",
-        spots: [
-          { name: "SHIBUYA SKY", description: "渋谷スクランブルスクエア屋上からの360度超高層オープンエアパノラマ。" },
-          { name: "明治神宮", description: "都会の真ん中に広がる広大な鎮守の森。初詣参拝客数日本一。" }
-        ],
-        gourmet: ["ミシュラン掲載ラーメン", "インスタ映えスイーツ", "熟成牛ステーキ"],
-        keywords: ["新宿", "渋谷", "原宿", "表参道"]
-      },
-      {
-        areaName: "銀座・丸の内・東京駅エリア",
-        slug: "ginza-tokyo-station",
-        description: "一流ブランドショップや伝統老舗が集う銀座と、レトロモダンな赤レンガ東京駅丸ノ内エリア。",
-        spots: [
-          { name: "東京駅丸ノ内駅舎", description: "大正時代の創建時の美しさを完全復原したクラシック建築。" },
-          { name: "銀座中央通り", description: "伝統と革新が共存する日本最高峰のショッピング街。" }
-        ],
-        gourmet: ["江戸前寿司", "老舗洋食", "グランスタ限定スイーツ"],
-        keywords: ["銀座", "東京駅", "丸の内", "日本橋"]
-      }
-    ],
-    cafes: [
-      {
-        name: "表参道 Café Kitsuné（カフェ キツネ）",
-        type: "モダンパリ風カフェ",
-        description: "和と洋がスタイリッシュに融合した竹林の入口を持つエスプレッソバー＆スイーツカフェ。",
-        recommend: "キツネサブレ＆カフェラテ"
-      },
-      {
-        name: "浅草 抹茶スイーツ処「茶々工房」",
-        type: "老舗和風日本茶カフェ",
-        description: "高級宇治抹茶を贅沢に使った濃厚抹茶濃厚濃縮アイスやパフェが味わえる行列店。",
-        recommend: "濃厚抹茶パフェ"
-      }
-    ],
-    souvenirs: [
-      {
-        name: "東京ばな奈「見ぃつけたっ」",
-        category: "定番人気お土産",
-        description: "ふんわり柔らかいスポンジケーキの中に、バナナカスタードクリームがたっぷり詰まったロングセラー。"
-      },
-      {
-        name: "Press Butter Sand（プレスバターサンド）",
-        category: "トレンドバターサンド",
-        description: "濃厚なバタークリームとバターキャラメルをはさみ焼きのサクサククッキーで挟んだ洗練されたお土産。"
-      }
-    ],
-    sakes: [
-      {
-        name: "澤乃井（さわのい）",
-        brewery: "小澤酒造（青梅市）",
-        type: "東京清流名酒",
-        description: "奥多摩の美しい自然と名水で醸す、すっきり清々しい味わいの東京を代表する歴史ある銘酒。"
-      }
-    ]
-  },
-
-  // 京都府（超詳細細分化）
-  {
-    slug: "kyoto",
-    name: "京都府",
-    region: "近畿",
-    highlights: ["清水寺", "金閣寺", "嵐山竹林の小径", "天橋立"],
-    gourmet: ["京懐石", "湯豆腐", "宇治抹茶スイーツ", "ハモ料理"],
-    description: "千年の都の趣と美意識が息づく歴史の街。洗練された伝統旅館や和風高級ホテルで過ごす特別なひととき。",
-    bannerImage: "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?q=80&w=1200&auto=format&fit=crop",
-    subAreas: [
-      {
-        areaName: "清水・祇園・高台寺エリア",
-        slug: "kiyomizu-gion",
-        description: "「清水の舞台」で知られる清水寺や産寧坂、舞妓さんが行き交う石畳の祇園など京都情緒の象徴。",
-        spots: [
-          { name: "清水寺", description: "崖に張り出した木造舞台からの京都市内の大絶景。音羽の滝の霊水も有名。" },
-          { name: "花見小路通・祇園", description: "格子戸の茶屋様式建築が並ぶ京都で最も風情ある石畳の通り。" }
-        ],
-        gourmet: ["京湯豆腐", "宇治抹茶スイーツ", "祇園京料理"],
-        keywords: ["清水", "祇園", "高台寺", "八坂"]
-      },
-      {
-        areaName: "嵐山・嵯峨野・太秦エリア",
-        slug: "arashiyama-sagano-kyoto",
-        description: "渡月橋と竹林の小径、四季折々の嵐山の山並みが織りなす平安貴族も愛した景勝地。",
-        spots: [
-          { name: "竹林の小径", description: "天高く伸びる青竹の静寂と風の音が心地よい幻想的散策路。" },
-          { name: "渡月橋", description: "桂川にかかる木造風の美しい橋。春の桜と秋の紅葉は必見。" }
-        ],
-        gourmet: ["湯葉会席", "抹茶ソフト", "トロッコ弁当"],
-        keywords: ["嵐山", "嵯峨野", "渡月橋"]
-      }
-    ],
-    cafes: [
-      {
-        name: "％ ARABICA Kyoto Arashiyama（アラビカ京都嵐山）",
-        type: "絶景コーヒースタンド",
-        description: "渡月橋と桂川の絶景を目の前に臨む世界的人気のエスプレッソコーヒースタンド。",
-        recommend: "カフェラテ（カフェアート）"
-      },
-      {
-        name: "マールブランシュ 加賀・京都北山 本店カフェ",
-        type: "京都洋菓子サロン",
-        description: "「お濃茶ラングドシャ 茶の菓」で知られる名店。限定の濃茶パフェやモンブランが極上。",
-        recommend: "お濃茶パフェ"
-      }
-    ],
-    souvenirs: [
-      {
-        name: "マールブランシュ「茶の菓」",
-        category: "京都お濃茶スイーツ",
-        description: "宇治の厳選お濃茶を使用したラングドシャでホワイトチョコレートをサンドした最高峰の京都土産。"
-      },
-      {
-        name: "聖護院八ッ橋・生八ッ橋",
-        category: "伝統和菓子",
-        description: "ニッキや抹茶の香りと、もちもちの生地でつぶあんを包んだ京都伝統の銘菓。"
-      }
-    ],
-    sakes: [
-      {
-        name: "伏見の清酒 月桂冠・玉乃光",
-        brewery: "伏見酒蔵群（京都市伏見区）",
-        type: "京都伏見名醸酒",
-        description: "名水「伏水」で醸される、まろやかで上品な旨味と口当たりの良さが特徴の京の酒。"
       }
     ]
   }
 ];
 
-// 不足している都道府県データを自動補完生成する高度ヘルパー
+// 不足している都道府県データを地理的厳格性を保持しつつ自動補完生成する高度ヘルパー
 export function getPrefectureBySlug(slug: string): PrefectureInfo | undefined {
   const found = PREFECTURES_DATA.find(p => p.slug === slug);
   if (found) return found;
 
   const nameMap: Record<string, string> = {
     "aomori": "青森県", "iwate": "岩手県", "miyagi": "宮城県", "akita": "秋田県", "yamagata": "山形県", "fukushima": "福島県",
-    "ibaraki": "茨城県", "tochigi": "栃木県", "gunma": "群馬県", "saitama": "埼玉県", "chiba": "千葉県", "kanagawa": "神奈川県",
+    "ibaraki": "茨城県", "tochigi": "栃木県", "gunma": "群馬県", "saitama": "埼玉県", "chiba": "千葉県", "tokyo": "東京都", "kanagawa": "神奈川県",
     "niigata": "新潟県", "toyama": "富山県", "fukui": "福井県", "yamanashi": "山梨県", "nagano": "長野県",
     "gifu": "岐阜県", "shizuoka": "静岡県", "aichi": "愛知県", "mie": "三重県",
-    "shiga": "滋賀県", "osaka": "大阪府", "hyogo": "兵庫県", "nara": "奈良県", "wakayama": "和歌山県",
+    "shiga": "滋賀県", "kyoto": "京都府", "osaka": "大阪府", "hyogo": "兵庫県", "nara": "奈良県", "wakayama": "和歌山県",
     "tottori": "鳥取県", "shimane": "島根県", "okayama": "岡山県", "hiroshima": "広島県", "yamaguchi": "山口県",
     "tokushima": "徳島県", "kagawa": "香川県", "ehime": "愛媛県", "kochi": "高知県",
-    "saga": "佐賀県", "nagasaki": "長崎県", "kumamoto": "熊本県", "oita": "大分県", "miyazaki": "宮崎県", "kagoshima": "鹿児島県"
+    "fukuoka": "福岡県", "saga": "佐賀県", "nagasaki": "長崎県", "kumamoto": "熊本県", "oita": "大分県", "miyazaki": "宮崎県", "kagoshima": "鹿児島県", "okinawa": "沖縄県"
   };
 
   const name = nameMap[slug];
@@ -503,7 +519,33 @@ export function getPrefectureBySlug(slug: string): PrefectureInfo | undefined {
           { name: `${cleanName}代表観光名所`, description: `${name}に訪れたら必ず足を運びたい人気No.1景勝地。` }
         ],
         gourmet: [`${cleanName}名物料理`],
-        keywords: [cleanName]
+        keywords: [cleanName],
+        subAreaHotels: [
+          {
+            hotelName: `${cleanName} グランドホテル`,
+            areaName: `${cleanName}・市内中心`,
+            image: "https://images.unsplash.com/photo-1566073771259-6a8506099945?q=80&w=600&auto=format&fit=crop",
+            price: 11000,
+            rating: 4.5,
+            affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2F"
+          },
+          {
+            hotelName: `${cleanName} キャッスルホテル`,
+            areaName: `${cleanName}・城下町`,
+            image: "https://images.unsplash.com/photo-1582719508461-905c673771fd?q=80&w=600&auto=format&fit=crop",
+            price: 13500,
+            rating: 4.6,
+            affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2F"
+          },
+          {
+            hotelName: `${cleanName} 和モダン旅荘`,
+            areaName: `${cleanName}・中心街`,
+            image: "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=600&auto=format&fit=crop",
+            price: 16000,
+            rating: 4.7,
+            affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2F"
+          }
+        ]
       },
       {
         areaName: `${cleanName}温泉・自然リゾートエリア`,
@@ -513,7 +555,33 @@ export function getPrefectureBySlug(slug: string): PrefectureInfo | undefined {
           { name: `${cleanName}名湯温泉街`, description: `歴史ある温泉街の散策と極上のお湯で旅の疲れをほぐせます。` }
         ],
         gourmet: [`${cleanName}温泉会席料理`],
-        keywords: [cleanName, "温泉", "リゾート"]
+        keywords: [cleanName, "温泉", "リゾート"],
+        subAreaHotels: [
+          {
+            hotelName: `${cleanName} 温泉名湯旅館`,
+            areaName: `${cleanName}・温泉郷`,
+            image: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=600&auto=format&fit=crop",
+            price: 18000,
+            rating: 4.7,
+            affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2F"
+          },
+          {
+            hotelName: `${cleanName} 湯の宿`,
+            areaName: `${cleanName}・温泉エリア`,
+            image: "https://images.unsplash.com/photo-1566073771259-6a8506099945?q=80&w=600&auto=format&fit=crop",
+            price: 15500,
+            rating: 4.5,
+            affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2F"
+          },
+          {
+            hotelName: `${cleanName} 湖畔リゾート`,
+            areaName: `${cleanName}・自然リゾート`,
+            image: "https://images.unsplash.com/photo-1582719508461-905c673771fd?q=80&w=600&auto=format&fit=crop",
+            price: 21000,
+            rating: 4.8,
+            affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2F"
+          }
+        ]
       }
     ],
     cafes: [

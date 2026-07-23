@@ -78,46 +78,6 @@ function loadAllPosts(): Post[] {
   return [];
 }
 
-// サブエリアに合致する宿記事を必ず最低3件に固定抽出するロジック
-function filterPostsForSubArea(subArea: SubAreaInfo, allPosts: Post[], prefName: string): Post[] {
-  const cleanPref = prefName.replace(/(県|府|東京都)$/, "");
-  
-  // 1. 該当都道府県の全投稿を取得
-  const prefPosts = allPosts.filter(p => 
-    p.prefecture === prefName || p.prefecture.replace(/(県|府|東京都)$/, "") === cleanPref
-  );
-
-  // 2. エリアキーワードにマッチする投稿を検索
-  const matched = prefPosts.filter(post => {
-    const textToSearch = (post.title + " " + post.hotel_name + " " + post.area + " " + post.review).toLowerCase();
-    return subArea.keywords.some(kw => textToSearch.includes(kw.toLowerCase()));
-  });
-
-  const result: Post[] = [...matched];
-
-  // 3. マッチ数が3件未満の場合、都道府県内の他の未選択投稿を追加補完
-  if (result.length < 3) {
-    for (const p of prefPosts) {
-      if (!result.some(existing => existing.id === p.id)) {
-        result.push(p);
-        if (result.length >= 3) break;
-      }
-    }
-  }
-
-  // 4. 万一まだ3件未満の場合、全投稿の中から未選択のものを追加補完して必ず3件に固定
-  if (result.length < 3) {
-    for (const p of allPosts) {
-      if (!result.some(existing => existing.id === p.id)) {
-        result.push(p);
-        if (result.length >= 3) break;
-      }
-    }
-  }
-
-  return result.slice(0, 3); // 常に3件で固定
-}
-
 export default async function PrefectureDetailPage({ params }: { params: Promise<{ pref: string }> }) {
   const { pref } = await params;
   const prefInfo = getPrefectureBySlug(pref);
@@ -214,7 +174,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
         </div>
       </section>
 
-      {/* 目次アンカーナビゲーション（エリア＆特設テーマ） */}
+      {/* 目次アンカーナビゲーション */}
       <section className="bg-white border border-emerald-950/10 rounded-2xl p-6 shadow-sm space-y-4">
         <h2 className="text-xs font-extrabold text-teal-900/60 uppercase tracking-widest flex items-center gap-1.5">
           <span>📌</span> <span>目的のエリア・特集へ即座にスキップ</span>
@@ -263,173 +223,172 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
         </div>
       </section>
 
-      {/* 1. サブエリアごとの詳細観光名所ガイド＆近隣宿セクション */}
+      {/* 1. サブエリアごとの詳細観光名所ガイド＆真の近隣宿セクション */}
       <div className="space-y-16">
-        {prefInfo.subAreas.map((subArea) => {
-          const areaPosts = filterPostsForSubArea(subArea, allPosts, prefInfo.name);
-
-          return (
-            <section
-              key={subArea.slug}
-              id={subArea.slug}
-              className="scroll-mt-24 space-y-8 bg-white border border-emerald-950/10 rounded-3xl p-6 md:p-10 shadow-sm"
-            >
-              {/* エリア見出し */}
-              <div className="space-y-3 border-b border-emerald-950/10 pb-5">
-                <div className="flex flex-wrap items-center justify-between gap-2">
-                  <span className="text-[10px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase tracking-wider">
-                    {prefInfo.name} ＞ {subArea.areaName}
-                  </span>
-                  <a href="#" className="text-[10px] font-bold text-teal-900/50 hover:text-teal-800">
-                    ▲ 目次へ戻る
-                  </a>
-                </div>
-
-                <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-emerald-950">
-                  {subArea.areaName} 徹底観光ガイド
-                </h2>
-
-                <p className="text-xs md:text-sm text-emerald-950/80 leading-relaxed font-medium">
-                  {subArea.description}
-                </p>
+        {prefInfo.subAreas.map((subArea) => (
+          <section
+            key={subArea.slug}
+            id={subArea.slug}
+            className="scroll-mt-24 space-y-8 bg-white border border-emerald-950/10 rounded-3xl p-6 md:p-10 shadow-sm"
+          >
+            {/* エリア見出し */}
+            <div className="space-y-3 border-b border-emerald-950/10 pb-5">
+              <div className="flex flex-wrap items-center justify-between gap-2">
+                <span className="text-[10px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase tracking-wider">
+                  {prefInfo.name} ＞ {subArea.areaName}
+                </span>
+                <a href="#" className="text-[10px] font-bold text-teal-900/50 hover:text-teal-800">
+                  ▲ 目次へ戻る
+                </a>
               </div>
 
-              {/* 📍 主要観光名所・絶景スポット詳細紹介 */}
-              <div className="space-y-4">
-                <h3 className="text-base font-bold font-journal-serif text-emerald-950 flex items-center gap-2">
-                  <span>📍</span> <span>{subArea.areaName}の絶対外せない観光名所・見所スポット</span>
-                </h3>
+              <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-emerald-950">
+                {subArea.areaName} 徹底観光ガイド
+              </h2>
 
-                <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                  {subArea.spots.map((spot, idx) => (
-                    <div
-                      key={idx}
-                      className="p-5 rounded-2xl bg-emerald-50/30 border border-emerald-950/5 space-y-2"
-                    >
-                      <h4 className="text-sm font-extrabold text-teal-950 flex items-center gap-2">
-                        <span className="w-5 h-5 rounded-full bg-teal-800 text-white text-[10px] font-black flex items-center justify-center">
-                          {idx + 1}
-                        </span>
-                        <span>{spot.name}</span>
-                      </h4>
-                      <p className="text-xs text-emerald-950/80 leading-relaxed font-medium">
-                        {spot.description}
-                      </p>
-                    </div>
+              <p className="text-xs md:text-sm text-emerald-950/80 leading-relaxed font-medium">
+                {subArea.description}
+              </p>
+            </div>
+
+            {/* 📍 主要観光名所・絶景スポット詳細紹介 */}
+            <div className="space-y-4">
+              <h3 className="text-base font-bold font-journal-serif text-emerald-950 flex items-center gap-2">
+                <span>📍</span> <span>{subArea.areaName}の絶対外せない観光名所・見所スポット</span>
+              </h3>
+
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                {subArea.spots.map((spot, idx) => (
+                  <div
+                    key={idx}
+                    className="p-5 rounded-2xl bg-emerald-50/30 border border-emerald-950/5 space-y-2"
+                  >
+                    <h4 className="text-sm font-extrabold text-teal-950 flex items-center gap-2">
+                      <span className="w-5 h-5 rounded-full bg-teal-800 text-white text-[10px] font-black flex items-center justify-center">
+                        {idx + 1}
+                      </span>
+                      <span>{spot.name}</span>
+                    </h4>
+                    <p className="text-xs text-emerald-950/80 leading-relaxed font-medium">
+                      {spot.description}
+                    </p>
+                  </div>
+                ))}
+              </div>
+            </div>
+
+            {/* 🍱 名物グルメ */}
+            {subArea.gourmet && subArea.gourmet.length > 0 && (
+              <div className="p-4 rounded-2xl bg-amber-500/10 border border-amber-500/20 space-y-2">
+                <span className="text-[10px] font-extrabold text-amber-800 uppercase tracking-widest block">
+                  🍱 {subArea.areaName}で味わいたい名物グルメ・特産品
+                </span>
+                <div className="flex flex-wrap gap-2 text-xs font-bold text-emerald-950">
+                  {subArea.gourmet.map((g) => (
+                    <span key={g} className="bg-white border border-amber-500/30 px-3 py-1 rounded-xl text-amber-900 shadow-sm">
+                      🍴 {g}
+                    </span>
                   ))}
                 </div>
               </div>
+            )}
 
-              {/* 🍱 名物グルメ */}
-              {subArea.gourmet && subArea.gourmet.length > 0 && (
-                <div className="p-4 rounded-2xl bg-amber-500/10 border border-amber-500/20 space-y-2">
-                  <span className="text-[10px] font-extrabold text-amber-800 uppercase tracking-widest block">
-                    🍱 {subArea.areaName}で味わいたい名物グルメ・特産品
-                  </span>
-                  <div className="flex flex-wrap gap-2 text-xs font-bold text-emerald-950">
-                    {subArea.gourmet.map((g) => (
-                      <span key={g} className="bg-white border border-amber-500/30 px-3 py-1 rounded-xl text-amber-900 shadow-sm">
-                        🍴 {g}
-                      </span>
-                    ))}
-                  </div>
-                </div>
-              )}
+            {/* 🏨 このエリアの真の近隣宿・ホテル（3件固定で表示） */}
+            <div className="space-y-6 pt-4 border-t border-emerald-950/10">
+              <div className="flex items-center justify-between">
+                <h3 className="text-base md:text-lg font-bold font-journal-serif text-emerald-950 flex items-center gap-2">
+                  <span>🏨</span> <span>{subArea.areaName}周辺のおすすめホテル・温泉旅館</span>
+                </h3>
+                <span className="text-xs font-bold text-teal-800 bg-teal-50 border border-teal-200 px-3 py-1 rounded-full">
+                  近隣厳選 3選
+                </span>
+              </div>
 
-              {/* 🏨 このエリア近隣のおすすめホテル・温泉宿（3件固定表示） */}
-              <div className="space-y-6 pt-4 border-t border-emerald-950/10">
-                <div className="flex items-center justify-between">
-                  <h3 className="text-base md:text-lg font-bold font-journal-serif text-emerald-950 flex items-center gap-2">
-                    <span>🏨</span> <span>{subArea.areaName}周辺のおすすめホテル・温泉旅館</span>
-                  </h3>
-                  <span className="text-xs font-bold text-teal-800 bg-teal-50 border border-teal-200 px-3 py-1 rounded-full">
-                    厳選 3選
-                  </span>
-                </div>
-
-                <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-                  {areaPosts.map((post) => (
-                    <article
-                      key={post.id}
-                      className="flex flex-col justify-between border border-emerald-950/10 bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-md transition duration-200"
-                    >
-                      <div>
-                        {/* アイキャッチ */}
-                        <div className="aspect-video relative overflow-hidden bg-emerald-50 border-b border-emerald-950/5">
-                          {post.image ? (
-                            <img
-                              src={post.image}
-                              alt={post.hotel_name}
-                              className="w-full h-full object-cover"
-                              loading="lazy"
-                            />
-                          ) : (
-                            <div className="w-full h-full flex items-center justify-center text-emerald-950/30 text-xs">
-                              No Image
-                            </div>
-                          )}
-                          <span className="absolute top-2 left-2 text-[9px] font-extrabold bg-teal-800 text-white px-2.5 py-0.5 rounded-full shadow">
-                            {subArea.areaName}周辺
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+                {subArea.subAreaHotels.map((hotel, hIdx) => (
+                  <article
+                    key={hIdx}
+                    className="flex flex-col justify-between border border-emerald-950/10 bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-md transition duration-200"
+                  >
+                    <div>
+                      {/* アイキャッチ */}
+                      <div className="aspect-video relative overflow-hidden bg-emerald-50 border-b border-emerald-950/5">
+                        <img
+                          src={hotel.image}
+                          alt={hotel.hotelName}
+                          className="w-full h-full object-cover"
+                          loading="lazy"
+                        />
+                        <span className="absolute top-2 left-2 text-[9px] font-extrabold bg-teal-800 text-white px-2.5 py-0.5 rounded-full shadow">
+                          {hotel.areaName}
+                        </span>
+                        {hotel.price && (
+                          <span className="absolute bottom-2 right-2 text-[9px] font-black bg-slate-900/90 text-amber-300 px-2 py-0.5 rounded">
+                            ¥{Number(hotel.price).toLocaleString()}〜
                           </span>
-                          {post.price && (
-                            <span className="absolute bottom-2 right-2 text-[9px] font-black bg-slate-900/90 text-amber-300 px-2 py-0.5 rounded">
-                              ¥{Number(post.price).toLocaleString()}〜
+                        )}
+                      </div>
+
+                      {/* 宿情報 */}
+                      <div className="p-4 space-y-2">
+                        <div className="flex items-center justify-between text-[9px] font-bold text-emerald-950/40">
+                          <span>{hotel.areaName}</span>
+                          {hotel.rating && (
+                            <span className="text-amber-600 font-extrabold">
+                              ⭐ {hotel.rating}
                             </span>
                           )}
                         </div>
-
-                        {/* 宿情報 */}
-                        <div className="p-4 space-y-2">
-                          <div className="flex items-center justify-between text-[9px] font-bold text-emerald-950/40">
-                            <span>{post.area || prefInfo.name}</span>
-                            {post.rating && (
-                              <span className="text-amber-600 font-extrabold">
-                                ⭐ {post.rating}
-                              </span>
-                            )}
-                          </div>
-                          <h4 className="text-xs md:text-sm font-black font-journal-serif text-emerald-950 line-clamp-2">
-                            {post.hotel_name}
-                          </h4>
-                        </div>
+                        <h4 className="text-xs md:text-sm font-black font-journal-serif text-emerald-950 line-clamp-2">
+                          {hotel.hotelName}
+                        </h4>
                       </div>
+                    </div>
 
-                      {/* 予約＆ルポボタン */}
-                      <div className="p-4 pt-0 space-y-2">
-                        <a
-                          href={post.affiliate_url}
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          className="block w-full text-center py-2 text-[11px] font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
-                        >
-                          ✈️ 楽天トラベルで空室・プランを見る
-                        </a>
+                    {/* 予約＆ルポボタン */}
+                    <div className="p-4 pt-0 space-y-2">
+                      <a
+                        href={hotel.affiliateUrl}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="block w-full text-center py-2 text-[11px] font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
+                      >
+                        ✈️ 楽天トラベルで空室・プランを見る
+                      </a>
+                      {hotel.postId ? (
                         <Link
-                          href={`/posts/${post.id}`}
+                          href={`/posts/${hotel.postId}`}
                           className="block w-full text-center py-2 text-[11px] font-bold text-teal-900 bg-teal-50 hover:bg-teal-100 rounded-xl transition border border-teal-800/10"
                         >
                           🧭 特集ルポ記事を読む
                         </Link>
-                      </div>
-                    </article>
-                  ))}
-                </div>
-
-                {/* ◯◯県の他のおすすめ情報を見る ボタン */}
-                <div className="pt-2 text-center">
-                  <Link
-                    href="/prefectures"
-                    className="inline-flex items-center gap-2 text-xs font-bold text-teal-900 bg-emerald-50/80 hover:bg-teal-100 border border-teal-800/20 px-6 py-2.5 rounded-full transition shadow-sm"
-                  >
-                    <span>🧭</span>
-                    <span>{prefInfo.name}の他のおすすめ観光・宿情報を見る</span>
-                    <span>→</span>
-                  </Link>
-                </div>
+                      ) : (
+                        <Link
+                          href="/prefectures"
+                          className="block w-full text-center py-2 text-[11px] font-bold text-teal-900 bg-emerald-50 hover:bg-emerald-100 rounded-xl transition border border-teal-800/10"
+                        >
+                          🧭 {prefInfo.name}の他の宿ルポを見る
+                        </Link>
+                      )}
+                    </div>
+                  </article>
+                ))}
               </div>
-            </section>
-          );
-        })}
+
+              {/* ◯◯県の他のおすすめ情報を見る ボタン */}
+              <div className="pt-2 text-center">
+                <Link
+                  href="/prefectures"
+                  className="inline-flex items-center gap-2 text-xs font-bold text-teal-900 bg-emerald-50/80 hover:bg-teal-100 border border-teal-800/20 px-6 py-2.5 rounded-full transition shadow-sm"
+                >
+                  <span>🧭</span>
+                  <span>{prefInfo.name}の他のおすすめ観光・宿情報を見る</span>
+                  <span>→</span>
+                </Link>
+              </div>
+            </div>
+          </section>
+        ))}
       </div>
 
       {/* 2. ☕ オススメ絶景＆レトロカフェ・スイーツ特集セクション */}
