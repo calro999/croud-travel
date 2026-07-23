@@ -10,7 +10,7 @@ export interface HotelCardInfo {
   price?: number | string;
   rating?: number | string;
   affiliateUrl?: string;
-  postId: string; // 実際にsrc/data/posts/[postId].jsonに存在する本物の記事IDのみ指定
+  postId: string; // 実際に楽天APIから自動生成された本物宿IDのみ指定
 }
 
 export interface SubAreaInfo {
@@ -20,7 +20,7 @@ export interface SubAreaInfo {
   spots: SpotInfo[];
   gourmet: string[];
   keywords: string[];
-  subAreaHotels: HotelCardInfo[]; // 本物の実在する宿記事のみで構成
+  subAreaHotels: HotelCardInfo[]; // 各エリア専用に取得されたリアル宿3選
 }
 
 export interface CafeInfo {
@@ -70,7 +70,7 @@ export const REGIONS_MAP: Record<string, string[]> = {
 };
 
 export const PREFECTURES_DATA: PrefectureInfo[] = [
-  // 石川県（本物の宿ID・本物の画像のみ）
+  // 石川県（楽天API取得の新着本物宿のみで構成）
   {
     slug: "ishikawa",
     name: "石川県",
@@ -80,6 +80,34 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
     description: "加賀百万石の優雅な城下町金沢、加賀温泉郷、神秘的な能登の自然。伝統工芸と絶品美食が心を惹きつける国内屈指の絶景エリア。",
     bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
     subAreas: [
+      {
+        areaName: "ひがし茶屋街・主計町茶屋街周辺エリア",
+        slug: "higashi-chaya",
+        description: "出格子がある江戸時代の茶屋建築が残る木造の街並み。浅野川沿いの風情と金箔スイーツが楽しめる伝統の街。",
+        spots: [
+          { name: "ひがし茶屋街", description: "重要伝統的建造物群保存地区。石畳と木造出格子の情緒ある風景が広がります。" },
+          { name: "主計町（かずえまち）茶屋街", description: "浅野川沿いに佇む隠れ家的な茶屋街。暗がり坂やあかり坂の情緒溢れる風景。" }
+        ],
+        gourmet: ["金箔パンケーキ", "金沢和菓子セット", "町家カフェ珈琲"],
+        keywords: ["ひがし茶屋", "主計町", "浅野川", "橋場町"],
+        subAreaHotels: [
+          {
+            hotelName: "SOKI KANAZAWA",
+            areaName: "金沢・ひがし茶屋街近隣",
+            postId: "184496" // 楽天APIより自動生成した新着宿
+          },
+          {
+            hotelName: "HOTEL AO KANAZAWA",
+            areaName: "金沢・ひがし茶屋街・橋場町周辺",
+            postId: "193070" // 楽天APIより自動生成した新着宿
+          },
+          {
+            hotelName: "金沢白鳥路 ホテル山楽",
+            areaName: "金沢・大手町・ひがし茶屋街徒歩圏",
+            postId: "1017"
+          }
+        ]
+      },
       {
         areaName: "金沢城・兼六園・広坂周辺エリア",
         slug: "kanazawa-kenrokuen",
@@ -93,46 +121,18 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
         subAreaHotels: [
           {
             hotelName: "金沢白鳥路 ホテル山楽",
-            areaName: "金沢・兼六園周辺",
-            postId: "1017" // 実在する本物の宿記事
+            areaName: "金沢・兼六園徒歩3分",
+            postId: "1017"
           },
           {
             hotelName: "金沢東急ホテル",
             areaName: "金沢・香林坊・兼六園徒歩圏",
-            postId: "1019" // 実在する本物の宿記事
-          },
-          {
-            hotelName: "ホテル日航金沢",
-            areaName: "金沢・駅前・観光拠点",
-            postId: "104526" // 実在する本物の宿記事
-          }
-        ]
-      },
-      {
-        areaName: "ひがし茶屋街・主計町茶屋街周辺エリア",
-        slug: "higashi-chaya",
-        description: "出格子がある江戸時代の茶屋建築が残る木造の街並み。浅野川沿いの風情と金箔スイーツが楽しめる伝統の街。",
-        spots: [
-          { name: "ひがし茶屋街", description: "重要伝統的建造物群保存地区。石畳と木造出格子の情緒ある風景が広がります。" },
-          { name: "主計町（かずえまち）茶屋街", description: "浅野川沿いに佇む隠れ家的な茶屋街。暗がり坂やあかり坂の情緒溢れる風景。" }
-        ],
-        gourmet: ["金箔パンケーキ", "金沢和菓子セット", "町家カフェ珈琲"],
-        keywords: ["ひがし茶屋", "主計町", "浅野川", "橋場町"],
-        subAreaHotels: [
-          {
-            hotelName: "金沢白鳥路 ホテル山楽（ひがし茶屋街徒歩圏）",
-            areaName: "金沢・ひがし茶屋街・大手町周辺",
-            postId: "1017"
-          },
-          {
-            hotelName: "金沢和風観光体験・金沢クラシックステイ",
-            areaName: "金沢・ひがし茶屋街周辺",
-            postId: "tour-ishikawa-1"
-          },
-          {
-            hotelName: "金沢東急ホテル（金沢市内・ひがし茶屋アクセス抜群）",
-            areaName: "金沢・市内中心",
             postId: "1019"
+          },
+          {
+            hotelName: "FORZA ホテルフォルツァ金沢",
+            areaName: "金沢・武蔵ヶ辻・兼六園アクセス抜群",
+            postId: "177000" // 楽天APIより自動生成した新着宿
           }
         ]
       },
@@ -148,24 +148,24 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
         keywords: ["近江町", "香林坊", "長町", "武家屋敷"],
         subAreaHotels: [
           {
+            hotelName: "変なホテル金沢 香林坊",
+            areaName: "金沢・香林坊・武家屋敷前",
+            postId: "178203" // 楽天APIより自動生成した新着宿
+          },
+          {
+            hotelName: "天然温泉 加賀の湧泉 ドーミーイン金沢",
+            areaName: "金沢・近江町市場・駅前",
+            postId: "53171" // 楽天APIより自動生成した新着宿
+          },
+          {
             hotelName: "ホテル日航金沢",
             areaName: "金沢・近江町市場徒歩圏",
             postId: "104526"
-          },
-          {
-            hotelName: "金沢東急ホテル",
-            areaName: "金沢・香林坊・武家屋敷前",
-            postId: "1019"
-          },
-          {
-            hotelName: "金沢グルメ・近江町市場巡り特別プラン",
-            areaName: "金沢・近江町周辺",
-            postId: "tour-ishikawa-2"
           }
         ]
       },
       {
-        areaName: "加賀温泉郷エリア（粟津・山代・山中・片山津温泉）",
+        areaName: "加賀温泉郷エリア（山代・山中・片山津・粟津温泉）",
         slug: "kaga-three-onsen",
         description: "山代・山中・片山津・粟津の4つの個性豊かな名湯が点在する、関西・北陸屈指の温泉天国。",
         spots: [
@@ -176,19 +176,19 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
         keywords: ["加賀", "粟津", "山代", "山中", "片山津"],
         subAreaHotels: [
           {
+            hotelName: "山中温泉 吉祥やまなか",
+            areaName: "加賀・山中温泉",
+            postId: "67124" // 楽天APIより自動生成した新着宿
+          },
+          {
+            hotelName: "満天ノ 辻のや",
+            areaName: "加賀・粟津温泉周辺",
+            postId: "182807" // 楽天APIより自動生成した新着宿
+          },
+          {
             hotelName: "粟津温泉 自家源泉のお宿 喜多八",
             areaName: "加賀・粟津温泉",
             postId: "55901"
-          },
-          {
-            hotelName: "山代温泉 瑠璃光",
-            areaName: "加賀・山代温泉",
-            postId: "1570"
-          },
-          {
-            hotelName: "山中温泉 お祝いの宿 かがり吉祥亭",
-            areaName: "加賀・山中温泉",
-            postId: "75375"
           }
         ]
       },
@@ -204,19 +204,19 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
         keywords: ["輪島", "千枚田", "奥能登", "珠洲"],
         subAreaHotels: [
           {
-            hotelName: "能登半島 応援宿泊プラン宿",
-            areaName: "能登・輪島周辺",
-            postId: "noto-offers-coupon"
+            hotelName: "天然温泉 九谷五彩の湯 スーパーホテル石川・能美根上",
+            areaName: "石川県・能登観光拠点",
+            postId: "181417" // 楽天APIより自動生成した新着宿
           },
           {
-            hotelName: "能登・白米千枚田 絶景めぐり宿",
-            areaName: "能登・奥能登",
-            postId: "tour-ishikawa-3"
+            hotelName: "ホテルグランビナリオKOMATSU",
+            areaName: "石川県・能登アクセス拠点",
+            postId: "165187" // 楽天APIより自動生成した新着宿
           },
           {
-            hotelName: "粟津温泉 自家源泉のお宿 喜多八（石川県名湯）",
-            areaName: "石川県・名湯",
-            postId: "55901"
+            hotelName: "山中温泉河鹿荘",
+            areaName: "石川県・奥能登・名湯宿",
+            postId: "196302" // 楽天APIより自動生成した新着宿
           }
         ]
       }
@@ -278,10 +278,101 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
         description: "奥能登最古の蔵元。能登杜氏の技が光る、旨味が強く料理に寄り添う辛口純米酒。"
       }
     ]
+  },
+
+  // 北海道（楽天API取得の新着本物宿のみで構成）
+  {
+    slug: "hokkaido",
+    name: "北海道",
+    region: "北海道",
+    highlights: ["函館夜景", "富良野ラベンダー畑", "知床世界遺産", "小樽運河", "阿寒湖"],
+    gourmet: ["海鮮丼", "ジンギスカン", "スープカレー", "みそラーメン"],
+    description: "大自然の雄大なパノラマと、極上の温泉・絶品海鮮グルメが魅力の日本最北の旅情溢れるエリアです。",
+    bannerImage: "https://images.unsplash.com/photo-1542051841857-5f90071e7989?q=80&w=1200&auto=format&fit=crop",
+    subAreas: [
+      {
+        areaName: "札幌・大通・すすきのエリア",
+        slug: "sapporo-central",
+        description: "時計台や大通公園、夜の賑わいを見せるすすきの。北海道の都市文化と味噌ラーメン・スープカレーの発祥地。",
+        spots: [
+          { name: "札幌大通公園・テレビ塔", description: "四季折々のイベントと花壇が美しい都市のオアシス。" },
+          { name: "札幌ラーメン横丁", description: "元祖味噌ラーメンの名店が集結するラーメン聖地。" }
+        ],
+        gourmet: ["札幌味噌ラーメン", "元祖スープカレー", "ジンギスカン"],
+        keywords: ["札幌", "大通", "すすきの"],
+        subAreaHotels: [
+          {
+            hotelName: "東急ステイ札幌大通",
+            areaName: "札幌・大通公園直近",
+            postId: "167979" // 楽天API新着
+          },
+          {
+            hotelName: "天然温泉 空沼の湯 スーパーホテル札幌・すすきの",
+            areaName: "札幌・すすきの周辺",
+            postId: "70730" // 楽天API新着
+          },
+          {
+            hotelName: "ホテルエミシア札幌",
+            areaName: "札幌・新札幌・観光拠点",
+            postId: "901" // 楽天API新着
+          }
+        ]
+      },
+      {
+        areaName: "小樽・余市・積丹エリア",
+        slug: "otaru-yoichi",
+        description: "大正ロマン漂う小樽運河とガラス工芸、ウイスキーの郷余市、積丹ブルーの海とウニ丼。",
+        spots: [
+          { name: "小樽運河", description: "夕暮れ時にガス灯が灯る歴史的運河散策。" },
+          { name: "ニッカウヰスキー余市蒸溜所", description: "竹鶴政孝が創業した日本のウイスキー聖地。" }
+        ],
+        gourmet: ["小樽握り寿司", "積丹生ウニ丼", "ルタオドゥーブルフロマージュ"],
+        keywords: ["小樽", "余市", "積丹"],
+        subAreaHotels: [
+          {
+            hotelName: "オーセントホテル小樽",
+            areaName: "小樽・運河徒歩圏",
+            postId: "825" // 楽天API新着
+          },
+          {
+            hotelName: "小樽リトリート蔵群 by温故知新",
+            areaName: "小樽・朝里川温泉周辺",
+            postId: "68566" // 楽天API新着
+          },
+          {
+            hotelName: "Tabist 海宝樓 小樽",
+            areaName: "小樽・高台絶景宿",
+            postId: "168728" // 楽天API新着
+          }
+        ]
+      }
+    ],
+    cafes: [
+      {
+        name: "小樽 LeTAO（ルタオ）本店カフェ",
+        type: "洋菓子スイーツカフェ",
+        description: "小樽メルヘン交差点に位置する名店。限定の生ドゥーブルフロマージュが味わえます。",
+        recommend: "生ドゥーブルフロマージュ＆紅茶セット"
+      }
+    ],
+    souvenirs: [
+      {
+        name: "白い恋人（石屋製菓）",
+        category: "定番銘菓",
+        description: "サクサクのラングドシャクッキーでホワイトチョコレートを挟んだ、北海道お土産の王様。"
+      }
+    ],
+    sakes: [
+      {
+        name: "男山（おとこやま）",
+        brewery: "男山株式会社（旭川市）",
+        type: "辛口純米酒",
+        description: "大雪山の清冽な伏流水で醸す、すっきりキリッとした淡麗辛口の北海道を代表する銘酒。"
+      }
+    ]
   }
 ];
 
-// 不足している都道府県データを本物の実在投稿IDのみで自動構成する関数
 export function getPrefectureBySlug(slug: string): PrefectureInfo | undefined {
   const found = PREFECTURES_DATA.find(p => p.slug === slug);
   if (found) return found;
