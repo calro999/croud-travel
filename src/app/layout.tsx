@@ -1,10 +1,12 @@
 import type { Metadata } from "next";
 import Script from "next/script";
+import Link from "next/link";
 import TravelBanner from "./components/TravelBanner";
+import { REGIONS_MAP, PREFECTURES_DATA } from "@/data/prefecturesData";
 import "./globals.css";
 
 const siteName = "日本全国・旅びより｜楽天トラベルでめぐる厳選宿・観光マガジン";
-const description = "日本全国の魅力的な温泉宿、リゾート、高級ホテル、美食宿を旅ライターの極上ルポでお届け。楽天トラベルの最新情報とアフィリエイトリンク付で、今すぐ行きたい憧れの旅プランを見つけましょう。";
+const description = "日本全国47都道府県の魅力的な温泉宿、リゾート、高級ホテル、観光の見所を旅ライターの極上ルポでお届け。楽天トラベルの最新キャンペーン情報とアフィリエイト連携で、今すぐ行きたい憧れの旅プランを見つけましょう。";
 const url = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {
@@ -15,7 +17,7 @@ export const metadata: Metadata = {
   },
   description: description,
   keywords: [
-    "旅行", "観光", "温泉", "露天風呂", "高級宿", "リゾート", "ホテル", "グルメ", "女子旅", "ファミリー旅行", "楽天トラベル"
+    "旅行", "観光", "温泉", "露天風呂", "高級宿", "リゾート", "ホテル", "グルメ", "女子旅", "ファミリー旅行", "楽天トラベル", "47都道府県", "キャンペーン", "5と0のつく日", "ふるさと納税"
   ],
   authors: [{ name: "旅びより編集部" }],
   creator: "旅びより編集部",
@@ -100,19 +102,27 @@ export default function RootLayout({
 
         {/* プレミアム和モダン風ヘッダー */}
         <header className="border-b border-emerald-950/10 glass-header sticky top-0 z-50 py-4 px-6 shadow-sm">
-          <div className="max-w-6xl mx-auto flex items-center justify-between">
-            <a href="/" className="flex items-center gap-2.5 group">
+          <div className="max-w-6xl mx-auto flex flex-col sm:flex-row items-center justify-between gap-4">
+            <Link href="/" className="flex items-center gap-2.5 group">
               <span className="text-2xl font-black tracking-tight font-journal-serif bg-gradient-to-r from-teal-800 via-emerald-900 to-amber-700 bg-clip-text text-transparent group-hover:opacity-90 transition">
                 旅びより
               </span>
               <span className="text-[9px] font-extrabold tracking-widest text-teal-800 border border-teal-800/20 px-2.5 py-0.5 rounded-full bg-teal-50">
                 TRAVEL MAGAZINE
               </span>
-            </a>
-            <nav className="flex items-center gap-5 text-xs font-bold text-teal-900/60">
-              <a href="/" className="hover:text-teal-800 transition">ホーム</a>
+            </Link>
+            <nav className="flex items-center flex-wrap justify-center gap-4 md:gap-6 text-xs font-bold text-teal-900/80">
+              <Link href="/" className="hover:text-amber-700 transition">ホーム</Link>
               <span className="text-emerald-950/20">/</span>
-              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2F" target="_blank" rel="noopener noreferrer" className="text-amber-700 hover:text-amber-600 transition flex items-center gap-1">
+              <Link href="/prefectures" className="hover:text-amber-700 transition flex items-center gap-1">
+                <span>🗾 47都道府県の見所</span>
+              </Link>
+              <span className="text-emerald-950/20">/</span>
+              <Link href="/campaigns" className="text-amber-700 hover:text-amber-600 transition flex items-center gap-1 font-black">
+                <span>🎁 お得キャンペーン</span>
+              </Link>
+              <span className="text-emerald-950/20">/</span>
+              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2F" target="_blank" rel="noopener noreferrer" className="hover:text-teal-700 transition flex items-center gap-1 text-teal-900/60">
                 楽天トラベル公式 ✈️
               </a>
             </nav>
@@ -125,17 +135,17 @@ export default function RootLayout({
           <aside className="hidden xl:flex flex-col fixed left-1 xl:left-[calc((100vw-1152px)/4-127px)] top-24 w-[270px] z-30 space-y-6 items-center">
             <TravelBanner
               imageSrc="/images/rakuten_furusato_travel.png"
-              linkUrl="/posts/rakuten-furusato-travel"
+              linkUrl="/campaigns"
               altText="楽天トラベル ふるさと納税クーポン"
             />
             <TravelBanner
               imageSrc="/images/rakuten_5and0_luxury.png"
-              linkUrl="/posts/rakuten-5and0-luxury"
+              linkUrl="/campaigns"
               altText="5と0のつく日 高級宿セール"
             />
             <TravelBanner
               imageSrc="/images/rakuten_service_debut.png"
-              linkUrl="/posts/rakuten-service-debut"
+              linkUrl="/campaigns"
               altText="サービス初めて利用キャンペーン"
             />
           </aside>
@@ -148,35 +158,79 @@ export default function RootLayout({
           <aside className="hidden xl:flex flex-col fixed right-4 xl:right-[calc((100vw-1152px)/4-135px)] top-24 w-[270px] z-30 space-y-6 items-center">
             <TravelBanner
               imageSrc="/images/rakuten_summer_sale_banner.png"
-              linkUrl="/posts/summer-sale-2026"
+              linkUrl="/campaigns"
               altText="楽天トラベル サマーセール"
             />
             <TravelBanner
               imageSrc="/images/noto_offers.png"
-              linkUrl="/posts/noto-offers-coupon"
+              linkUrl="/campaigns"
               altText="能登応援キャンペーン"
             />
             <TravelBanner
               imageSrc="/images/rakuten_cars_coupon.png"
-              linkUrl="/posts/rakuten-cars-coupon"
+              linkUrl="/campaigns"
               altText="楽天レンタカー割引クーポン"
             />
           </aside>
         </div>
 
-        {/* 旅行雑誌の奥付をイメージしたフッター */}
+        {/* 旅行雑誌の奥付をイメージしたフッター（47都道府県リンク＆キャンペーン導線網） */}
         <footer className="border-t border-emerald-950/10 bg-white py-12 text-xs text-emerald-950/70 shadow-inner">
-          <div className="max-w-6xl mx-auto px-4 flex flex-col md:flex-row items-center justify-between gap-8">
-            <div className="space-y-2 text-center md:text-left">
-              <p className="font-bold text-emerald-950 text-sm font-journal-serif">日本全国・旅びより ｜ 楽天トラベル厳選宿・観光マガジン</p>
-              <p className="text-[10px] max-w-lg leading-relaxed text-emerald-950/50">
-                当サイトでご紹介する宿泊施設情報、クチコミ、写真、プラン詳細等は楽天トラベルAPIより取得しています。宿泊状況やプラン内容については必ず遷移先の楽天トラベル詳細ページにて最終情報をご確認ください。
-              </p>
+          <div className="max-w-6xl mx-auto px-4 space-y-10">
+            {/* 47都道府県リンクグリッド */}
+            <div className="space-y-4 pt-4 border-b border-emerald-950/5 pb-8">
+              <div className="flex items-center justify-between">
+                <h3 className="font-bold text-emerald-950 text-sm font-journal-serif flex items-center gap-1.5">
+                  <span>🗾</span> <span>全国47都道府県の見所ガイド＆宿特集から探す</span>
+                </h3>
+                <Link href="/prefectures" className="text-[11px] font-bold text-teal-800 hover:underline">
+                  一覧ページを見る →
+                </Link>
+              </div>
+
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-[11px]">
+                {Object.entries(REGIONS_MAP).map(([regionName, prefNames]) => (
+                  <div key={regionName} className="space-y-1.5">
+                    <span className="font-bold text-amber-700 block text-[10px] uppercase tracking-wider">
+                      【{regionName}】
+                    </span>
+                    <div className="flex flex-wrap gap-x-2 gap-y-1">
+                      {prefNames.map((pName) => {
+                        const pInfo = PREFECTURES_DATA.find((p) => p.name === pName);
+                        if (!pInfo) return null;
+                        return (
+                          <Link
+                            key={pInfo.slug}
+                            href={`/prefectures/${pInfo.slug}`}
+                            className="hover:text-teal-800 hover:underline text-emerald-950/80 font-medium"
+                          >
+                            {pInfo.name}
+                          </Link>
+                        );
+                      })}
+                    </div>
+                  </div>
+                ))}
+              </div>
             </div>
-            <div className="flex flex-wrap justify-center gap-6 text-[10px] font-bold text-teal-900/60">
-              <a href="/" className="hover:text-teal-800">ホーム</a>
-              <span>•</span>
-              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2F" target="_blank" rel="noopener noreferrer" className="hover:text-teal-800">楽天トラベル公式</a>
+
+            {/* フッターボトム */}
+            <div className="flex flex-col md:flex-row items-center justify-between gap-6">
+              <div className="space-y-2 text-center md:text-left">
+                <p className="font-bold text-emerald-950 text-sm font-journal-serif">日本全国・旅びより ｜ 楽天トラベル厳選宿・観光マガジン</p>
+                <p className="text-[10px] max-w-lg leading-relaxed text-emerald-950/50">
+                  当サイトでご紹介する宿泊施設情報、クチコミ、写真、プラン詳細等は楽天トラベルAPIより取得しています。宿泊状況やプラン内容については必ず遷移先の楽天トラベル詳細ページにて最終情報をご確認ください。
+                </p>
+              </div>
+              <div className="flex flex-wrap justify-center gap-4 text-[11px] font-bold text-teal-900/80">
+                <Link href="/" className="hover:text-teal-800">ホーム</Link>
+                <span>•</span>
+                <Link href="/prefectures" className="hover:text-teal-800">都道府県一覧</Link>
+                <span>•</span>
+                <Link href="/campaigns" className="hover:text-teal-800 text-amber-700">お得キャンペーン</Link>
+                <span>•</span>
+                <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2F" target="_blank" rel="noopener noreferrer" className="hover:text-teal-800">楽天トラベル公式</a>
+              </div>
             </div>
           </div>
         </footer>
