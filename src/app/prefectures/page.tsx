@@ -3,9 +3,9 @@ import Link from "next/link";
 import { REGIONS_MAP, PREFECTURES_DATA, getPrefectureByName } from "@/data/prefecturesData";
 
 export const metadata: Metadata = {
-  title: "【全国47都道府県】エリア別観光見所ガイド＆厳選宿ハブ ｜ 日本全国・旅びより",
-  description: "北海道から沖縄まで全47都道府県を細分化エリア（例: 金沢・能登・加賀温泉郷、浅草・新宿・銀座など）に分け、観光名所・ご当地グルメ・おすすめ近隣ホテルルポをご案内。",
-  keywords: ["47都道府県", "観光ガイド", "エリア別見所", "観光名所", "ご当地グルメ", "温泉宿", "ホテル予約"],
+  title: "【全国47都道府県】エリア別観光名所・絶景カフェ・お土産・地酒＆宿ハブ ｜ 日本全国・旅びより",
+  description: "国内最大級の旅行ポータル！北海道から沖縄まで全47都道府県を細分化エリア（例: 金沢城・兼六園、ひがし茶屋街、能登・千枚田、和倉温泉など）に分け、観光名所・絶景カフェ・トレンドお土産・地酒日本酒・厳選ホテルルポをご案内。",
+  keywords: ["47都道府県", "観光ガイド", "エリア別見所", "絶景カフェ", "トレンドお土産", "銘酒地酒", "温泉宿", "ホテル予約"],
 };
 
 export default function PrefecturesIndexPage() {
@@ -21,13 +21,13 @@ export default function PrefecturesIndexPage() {
       {/* ヒーロー */}
       <section className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-teal-900 via-emerald-900 to-amber-950 p-8 md:p-12 text-white shadow-lg space-y-4">
         <span className="inline-block text-[10px] font-extrabold tracking-widest bg-amber-400 text-teal-950 px-3.5 py-1 rounded-full uppercase shadow">
-          日本全国 エリア別完全攻略 🗾
+          国内最大級ポータル 🗾
         </span>
         <h1 className="text-2xl md:text-4xl font-black font-journal-serif leading-snug">
-          47都道府県 エリア別観光名所ガイド＆近隣宿ハブ
+          47都道府県 エリア別観光名所・カフェ・お土産・地酒＆宿ポータル
         </h1>
         <p className="text-emerald-100/90 text-xs md:text-sm max-w-3xl leading-relaxed font-medium">
-          各都道府県を地域エリア（例：石川県なら金沢・能登・加賀・白山など）ごとに詳しく細分化。観光名所や絶景スポット、ご当地グルメの紹介とともに、近隣のおすすめホテル・温泉宿をご案内します。
+          各都道府県を地域ミクロエリアごとに網羅ガイド。観光名所や絶景スポット、ご当地グルメ、さらに「オススメカフェ」「トレンドお土産」「地酒・日本酒」の特設ガイドと近隣のおすすめホテル・温泉宿を一挙にご紹介。
         </p>
       </section>
 
@@ -62,7 +62,7 @@ export default function PrefecturesIndexPage() {
                           {prefInfo.name}
                         </span>
                         <span className="text-xs text-amber-700 font-bold group-hover:translate-x-1 transition">
-                          エリア名所を見る →
+                          徹底ガイドを見る →
                         </span>
                       </div>
                       <p className="text-xs text-emerald-950/70 line-clamp-2 leading-relaxed font-medium">
@@ -70,14 +70,23 @@ export default function PrefecturesIndexPage() {
                       </p>
                     </div>
 
-                    {/* 収録サブエリア一覧タグ */}
-                    <div className="pt-3 border-t border-emerald-950/5 space-y-1.5">
-                      <span className="text-[9px] font-extrabold text-teal-900/60 uppercase tracking-widest block">
-                        収録主要エリア:
-                      </span>
+                    {/* 特集カテゴリバッジ ＆ 収録主要エリア一覧 */}
+                    <div className="pt-3 border-t border-emerald-950/5 space-y-2">
+                      <div className="flex flex-wrap gap-1 text-[9px] font-bold">
+                        <span className="bg-amber-50 text-amber-900 border border-amber-200 px-2 py-0.5 rounded">
+                          ☕ カフェ
+                        </span>
+                        <span className="bg-emerald-50 text-emerald-900 border border-emerald-200 px-2 py-0.5 rounded">
+                          🛍️ お土産
+                        </span>
+                        <span className="bg-indigo-50 text-indigo-900 border border-indigo-200 px-2 py-0.5 rounded">
+                          🍶 地酒日本酒
+                        </span>
+                      </div>
+
                       <div className="flex flex-wrap gap-1">
                         {prefInfo.subAreas.map((sa) => (
-                          <span key={sa.slug} className="text-[9px] font-bold text-amber-900 bg-amber-50 border border-amber-200 px-2 py-0.5 rounded-md">
+                          <span key={sa.slug} className="text-[9px] font-bold text-teal-900 bg-teal-50 border border-teal-800/10 px-2 py-0.5 rounded-md">
                             🧭 {sa.areaName}
                           </span>
                         ))}

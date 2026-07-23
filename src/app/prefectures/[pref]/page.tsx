@@ -49,14 +49,14 @@ export async function generateMetadata({ params }: { params: Promise<{ pref: str
   const subAreaNames = prefInfo.subAreas.map(s => s.areaName).join("・");
 
   return {
-    title: `【${prefInfo.name}観光ハブ】${subAreaNames}のおすすめ観光名所ガイド＆近隣人気宿一覧 ｜ 日本全国・旅びより`,
-    description: `${prefInfo.name}の主要エリア（${subAreaNames}）ごとの観光名所・絶景スポット・名物グルメ徹底解説！エリア近隣の最新おすすめホテル・温泉旅館アフィリエイト＆ルポ一覧。`,
-    keywords: [prefInfo.name, subAreaNames, "観光ガイド", "見所スポット", "名物グルメ", "温泉宿", "ホテル予約", "楽天トラベル"],
+    title: `【${prefInfo.name}観光ハブ】${subAreaNames}の観光ガイド＆おすすめカフェ・お土産・地酒・近隣宿徹底比較 ｜ 日本全国・旅びより`,
+    description: `${prefInfo.name}のエリア別観光ガイド（${subAreaNames}）、おすすめのおしゃれカフェ・スイーツ、トレンドお土産・銘菓、銘酒・地酒・日本酒、近隣の厳選ホテル・温泉旅館を網羅。`,
+    keywords: [prefInfo.name, subAreaNames, "観光ガイド", "絶景カフェ", "トレンドお土産", "地酒日本酒", "温泉宿", "ホテル予約", "楽天トラベル"],
     alternates: {
       canonical: `${baseUrl}/prefectures/${prefInfo.slug}`,
     },
     openGraph: {
-      title: `${prefInfo.name} 観光エリアガイド＆近隣厳選宿ハブ`,
+      title: `${prefInfo.name} 国内最高峰 観光ポータルガイド`,
       description: prefInfo.description,
       url: `${baseUrl}/prefectures/${prefInfo.slug}`,
       siteName: "日本全国・旅びより",
@@ -82,7 +82,7 @@ function loadAllPosts(): Post[] {
 function filterPostsForSubArea(subArea: SubAreaInfo, allPosts: Post[], prefName: string): Post[] {
   const cleanPref = prefName.replace(/(県|府|東京都)$/, "");
   
-  // まず該当都道府県の投稿に絞り込む
+  // 該当都道府県の投稿に絞り込む
   const prefPosts = allPosts.filter(p => 
     p.prefecture === prefName || p.prefecture.replace(/(県|府|東京都)$/, "") === cleanPref
   );
@@ -95,7 +95,6 @@ function filterPostsForSubArea(subArea: SubAreaInfo, allPosts: Post[], prefName:
     return subArea.keywords.some(kw => textToSearch.includes(kw.toLowerCase()));
   });
 
-  // マッチが少なければ全件から一部補完
   if (matched.length > 0) return matched;
   return prefPosts.slice(0, 3);
 }
@@ -116,27 +115,15 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
 
   const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
-  // JSON-LD Breadcrumb & TouristDestination スキーマ
+  // JSON-LD Breadcrumb & TouristDestination
   const jsonLdBreadcrumb = {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": baseUrl },
       { "@type": "ListItem", "position": 2, "name": "47都道府県一覧", "item": `${baseUrl}/prefectures` },
-      { "@type": "ListItem", "position": 3, "name": `${prefInfo.name}観光ハブ`, "item": `${baseUrl}/prefectures/${prefInfo.slug}` }
+      { "@type": "ListItem", "position": 3, "name": `${prefInfo.name}観光ポータル`, "item": `${baseUrl}/prefectures/${prefInfo.slug}` }
     ]
-  };
-
-  const jsonLdDestination = {
-    "@context": "https://schema.org",
-    "@type": "TouristDestination",
-    "name": prefInfo.name,
-    "description": prefInfo.description,
-    "includesAttraction": prefInfo.subAreas.flatMap(sa => sa.spots.map(spot => ({
-      "@type": "TouristAttraction",
-      "name": spot.name,
-      "description": spot.description
-    })))
   };
 
   return (
@@ -146,10 +133,6 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }}
       />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdDestination) }}
-      />
 
       {/* パンくずナビ */}
       <nav aria-label="Breadcrumb" className="text-xs font-bold text-teal-900/60 flex items-center gap-2">
@@ -157,7 +140,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
         <span>/</span>
         <Link href="/prefectures" className="hover:text-teal-800 transition">都道府県一覧</Link>
         <span>/</span>
-        <span className="text-emerald-950 font-bold">{prefInfo.name} 観光ハブガイド</span>
+        <span className="text-emerald-950 font-bold">{prefInfo.name} 観光ポータルガイド</span>
       </nav>
 
       {/* 都道府県 ヒーローパネル */}
@@ -167,7 +150,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
             {prefInfo.region}エリア 🗺️
           </span>
           <span className="text-xs font-bold text-amber-200 bg-white/10 px-3 py-1 rounded-full border border-white/20">
-            全 {prefInfo.subAreas.length} 主要観光エリア完全網羅
+            全 {prefInfo.subAreas.length} エリア細分化攻略
           </span>
           <span className="text-xs font-bold text-emerald-200 bg-white/10 px-3 py-1 rounded-full border border-white/20">
             厳選宿数: {allPrefPosts.length}件
@@ -175,7 +158,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
         </div>
 
         <h1 className="text-3xl md:text-5xl font-black font-journal-serif leading-tight text-white">
-          【{prefInfo.name}】エリア別観光名所ガイド＆近隣おすすめ宿特集
+          【{prefInfo.name}】エリア別観光名所・絶景カフェ・銘菓お土産・地酒＆近隣宿 徹底完全ガイド
         </h1>
 
         <p className="text-emerald-100/90 text-xs md:text-sm max-w-3xl leading-relaxed font-medium">
@@ -186,7 +169,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4 pt-4 border-t border-white/10 text-xs">
           <div className="space-y-1.5">
             <span className="text-[10px] font-extrabold text-amber-300 uppercase tracking-widest block">
-              📍 全県の代表的ハイライト
+              📍 代表的観光名所・絶景ハイライト
             </span>
             <div className="flex flex-wrap gap-1.5">
               {prefInfo.highlights.map((h) => (
@@ -199,7 +182,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
 
           <div className="space-y-1.5">
             <span className="text-[10px] font-extrabold text-amber-300 uppercase tracking-widest block">
-              🍱 全県のご当地名物グルメ
+              🍱 名物ご当地グルメ・絶品食文化
             </span>
             <div className="flex flex-wrap gap-1.5">
               {prefInfo.gourmet.map((g) => (
@@ -212,27 +195,56 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
         </div>
       </section>
 
-      {/* ワンタップで飛べる エリア目次アンカーナビゲーション */}
-      <section className="bg-white border border-emerald-950/10 rounded-2xl p-6 shadow-sm space-y-3">
+      {/* 目次アンカーナビゲーション（エリア＆特設テーマ） */}
+      <section className="bg-white border border-emerald-950/10 rounded-2xl p-6 shadow-sm space-y-4">
         <h2 className="text-xs font-extrabold text-teal-900/60 uppercase tracking-widest flex items-center gap-1.5">
-          <span>📌</span> <span>読みたいエリアへ即座にジャンプ（全{prefInfo.subAreas.length}エリア）</span>
+          <span>📌</span> <span>目的のエリア・特集へ即座にスキップ</span>
         </h2>
-        <div className="flex flex-wrap gap-2.5">
-          {prefInfo.subAreas.map((subArea) => (
-            <a
-              key={subArea.slug}
-              href={`#${subArea.slug}`}
-              className="text-xs font-bold text-teal-900 bg-teal-50 hover:bg-teal-800 hover:text-white border border-teal-800/20 px-4 py-2 rounded-xl transition shadow-sm flex items-center gap-1"
-            >
-              <span>🧭</span>
-              <span>{subArea.areaName} 観光ガイド</span>
-              <span className="text-[10px] opacity-70">↓</span>
-            </a>
-          ))}
+        
+        {/* エリアボタン */}
+        <div className="space-y-2">
+          <span className="text-[10px] font-bold text-emerald-950/50 block">【地域別エリアガイド】</span>
+          <div className="flex flex-wrap gap-2">
+            {prefInfo.subAreas.map((subArea) => (
+              <a
+                key={subArea.slug}
+                href={`#${subArea.slug}`}
+                className="text-xs font-bold text-teal-900 bg-teal-50 hover:bg-teal-800 hover:text-white border border-teal-800/20 px-3.5 py-1.5 rounded-xl transition flex items-center gap-1"
+              >
+                <span>🧭</span>
+                <span>{subArea.areaName}</span>
+              </a>
+            ))}
+          </div>
+        </div>
+
+        {/* 特設テーマボタン */}
+        <div className="pt-2 border-t border-emerald-950/5 flex flex-wrap gap-2">
+          <a
+            href="#cafes"
+            className="text-xs font-bold text-amber-900 bg-amber-50 hover:bg-amber-600 hover:text-white border border-amber-400/30 px-4 py-2 rounded-xl transition flex items-center gap-1.5"
+          >
+            <span>☕</span>
+            <span>オススメ絶景・レトロカフェ特集</span>
+          </a>
+          <a
+            href="#souvenirs"
+            className="text-xs font-bold text-emerald-900 bg-emerald-50 hover:bg-emerald-700 hover:text-white border border-emerald-400/30 px-4 py-2 rounded-xl transition flex items-center gap-1.5"
+          >
+            <span>🛍️</span>
+            <span>トレンドお土産・銘菓特集</span>
+          </a>
+          <a
+            href="#sakes"
+            className="text-xs font-bold text-indigo-950 bg-indigo-50 hover:bg-indigo-800 hover:text-white border border-indigo-300/40 px-4 py-2 rounded-xl transition flex items-center gap-1.5"
+          >
+            <span>🍶</span>
+            <span>銘酒・地酒・日本酒特集</span>
+          </a>
         </div>
       </section>
 
-      {/* サブエリアごとの詳細観光名所ガイド＆近隣宿セクション */}
+      {/* 1. サブエリアごとの詳細観光名所ガイド＆近隣宿セクション */}
       <div className="space-y-16">
         {prefInfo.subAreas.map((subArea) => {
           const areaPosts = filterPostsForSubArea(subArea, allPosts, prefInfo.name);
@@ -250,7 +262,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
                     {prefInfo.name} ＞ {subArea.areaName}
                   </span>
                   <a href="#" className="text-[10px] font-bold text-teal-900/50 hover:text-teal-800">
-                    ▲ ページ上部へ戻る
+                    ▲ 目次へ戻る
                   </a>
                 </div>
 
@@ -289,7 +301,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
                 </div>
               </div>
 
-              {/* 🍱 名物グルメ・食文化 */}
+              {/* 🍱 名物グルメ */}
               {subArea.gourmet && subArea.gourmet.length > 0 && (
                 <div className="p-4 rounded-2xl bg-amber-500/10 border border-amber-500/20 space-y-2">
                   <span className="text-[10px] font-extrabold text-amber-800 uppercase tracking-widest block">
@@ -395,13 +407,123 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
         })}
       </div>
 
+      {/* 2. ☕ オススメ絶景＆レトロカフェ・スイーツ特集セクション */}
+      {prefInfo.cafes && prefInfo.cafes.length > 0 && (
+        <section id="cafes" className="scroll-mt-24 bg-gradient-to-br from-amber-50/60 via-amber-100/30 to-orange-50/40 border border-amber-300/40 rounded-3xl p-6 md:p-10 space-y-6 shadow-sm">
+          <div className="space-y-2 border-b border-amber-300/40 pb-4">
+            <span className="text-[10px] font-extrabold text-amber-800 bg-amber-200/60 px-3 py-0.5 rounded-full uppercase tracking-widest inline-block">
+              SPECIAL CAFE SELECTION
+            </span>
+            <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-amber-950 flex items-center gap-2">
+              <span>☕</span> <span>【{prefInfo.name}】絶景＆レトロ！旅先で絶対訪れたいおすすめカフェ・スイーツ特集</span>
+            </h2>
+            <p className="text-xs text-amber-900/80 leading-relaxed font-medium">
+              町家をリノベーションした風情ある和カフェから、絶景のロケーションを臨むテラスカフェまで、旅行の途中でほっと一息つける名店をご紹介。
+            </p>
+          </div>
+
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+            {prefInfo.cafes.map((cafe, i) => (
+              <div key={i} className="bg-white p-6 rounded-2xl border border-amber-300/30 shadow-sm space-y-3 flex flex-col justify-between">
+                <div className="space-y-2">
+                  <span className="text-[9px] font-extrabold text-amber-800 bg-amber-50 border border-amber-200 px-2.5 py-0.5 rounded-full">
+                    {cafe.type}
+                  </span>
+                  <h3 className="text-base font-bold font-journal-serif text-amber-950">
+                    {cafe.name}
+                  </h3>
+                  <p className="text-xs text-emerald-950/80 leading-relaxed font-medium">
+                    {cafe.description}
+                  </p>
+                </div>
+                <div className="pt-3 border-t border-amber-100 text-xs font-bold text-amber-900 flex items-center justify-between">
+                  <span className="text-[10px] text-amber-700 font-extrabold">おすすめ看板メニュー:</span>
+                  <span className="text-amber-950 font-black">{cafe.recommend}</span>
+                </div>
+              </div>
+            ))}
+          </div>
+        </section>
+      )}
+
+      {/* 3. 🛍️ トレンドお土産＆銘菓・工芸品特集セクション */}
+      {prefInfo.souvenirs && prefInfo.souvenirs.length > 0 && (
+        <section id="souvenirs" className="scroll-mt-24 bg-gradient-to-br from-emerald-50/60 via-teal-100/30 to-emerald-50/40 border border-emerald-300/40 rounded-3xl p-6 md:p-10 space-y-6 shadow-sm">
+          <div className="space-y-2 border-b border-emerald-300/40 pb-4">
+            <span className="text-[10px] font-extrabold text-emerald-800 bg-emerald-200/60 px-3 py-0.5 rounded-full uppercase tracking-widest inline-block">
+              SOUVENIR & GIFTS
+            </span>
+            <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-emerald-950 flex items-center gap-2">
+              <span>🛍️</span> <span>【{prefInfo.name}】旅の思い出に買いたい！人気お土産・トレンド銘菓＆特産品</span>
+            </h2>
+            <p className="text-xs text-emerald-900/80 leading-relaxed font-medium">
+              定番の伝統銘菓から話題の最新おしゃれ手土産、一生モノの工芸品まで、旅の思い出に選ぶべきおすすめ商品をピックアップ。
+            </p>
+          </div>
+
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+            {prefInfo.souvenirs.map((item, i) => (
+              <div key={i} className="bg-white p-6 rounded-2xl border border-emerald-300/30 shadow-sm space-y-3">
+                <span className="text-[9px] font-extrabold text-emerald-800 bg-emerald-50 border border-emerald-200 px-2.5 py-0.5 rounded-full">
+                  {item.category}
+                </span>
+                <h3 className="text-base font-bold font-journal-serif text-emerald-950">
+                  {item.name}
+                </h3>
+                <p className="text-xs text-emerald-950/80 leading-relaxed font-medium">
+                  {item.description}
+                </p>
+              </div>
+            ))}
+          </div>
+        </section>
+      )}
+
+      {/* 4. 🍶 銘酒・地酒＆地ビール・日本酒特集セクション */}
+      {prefInfo.sakes && prefInfo.sakes.length > 0 && (
+        <section id="sakes" className="scroll-mt-24 bg-gradient-to-br from-indigo-950/90 via-slate-900 to-teal-950 text-white border border-indigo-800/40 rounded-3xl p-6 md:p-10 space-y-6 shadow-xl">
+          <div className="space-y-2 border-b border-white/10 pb-4">
+            <span className="text-[10px] font-extrabold text-amber-300 bg-amber-500/20 border border-amber-500/30 px-3 py-0.5 rounded-full uppercase tracking-widest inline-block">
+              SAKE & BREWERY
+            </span>
+            <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-white flex items-center gap-2">
+              <span>🍶</span> <span>【{prefInfo.name}】蔵元直伝！今宵味わいたい地酒・日本酒＆名醸蔵特集</span>
+            </h2>
+            <p className="text-xs text-slate-300 leading-relaxed font-medium">
+              名水と伝統の技が生み出す各蔵元至高の日本酒。温泉宿の夕食や旅先の晩酌でぜひ味わいたい銘柄をご紹介。
+            </p>
+          </div>
+
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+            {prefInfo.sakes.map((sake, i) => (
+              <div key={i} className="bg-white/5 border border-white/10 p-6 rounded-2xl backdrop-blur-md space-y-3 flex flex-col justify-between">
+                <div className="space-y-2">
+                  <div className="flex items-center justify-between">
+                    <span className="text-[9px] font-bold text-amber-300 bg-amber-500/20 px-2.5 py-0.5 rounded-full">
+                      {sake.type}
+                    </span>
+                    <span className="text-[10px] text-slate-400 font-bold">{sake.brewery}</span>
+                  </div>
+                  <h3 className="text-lg font-black font-journal-serif text-white">
+                    {sake.name}
+                  </h3>
+                  <p className="text-xs text-slate-300 leading-relaxed font-medium">
+                    {sake.description}
+                  </p>
+                </div>
+              </div>
+            ))}
+          </div>
+        </section>
+      )}
+
       {/* 他都道府県への簡単アクセス */}
       <section className="p-8 rounded-3xl bg-teal-50/50 border border-teal-900/10 text-center space-y-4">
         <h3 className="text-lg font-bold font-journal-serif text-emerald-950">
-          全国他の都道府県の見所・近隣宿を探す
+          全国他の都道府県の見所・絶景カフェ・地酒・近隣宿を探す
         </h3>
         <p className="text-xs text-emerald-950/70 max-w-xl mx-auto leading-relaxed">
-          日本全国47都道府県の厳選観光ガイドと近隣のおすすめホテル・温泉宿を展開中。あなただけの極上旅行プランを見つけましょう。
+          日本全国47都道府県の網羅的観光ガイドを展開中。次に出かけたい憧れの旅行先を簡単検索。
         </p>
         <div className="flex flex-wrap justify-center gap-4 pt-2">
           <Link
