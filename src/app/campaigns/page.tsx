@@ -33,7 +33,7 @@ const CAMPAIGNS: CampaignItem[] = [
     description: "毎月「5」と「0」のつく日は、楽天トラベルの高級宿・温泉宿予約が一年で最もお得になるスペシャルデー！対象の宿で使える最大20%OFFクーポンが配布されます。",
     targetDays: "毎月 5日・10日・15日・20日・25日・30日",
     highlights: ["高級宿・露天風呂付き客室が大幅割引", "早期予約と組み合わせ可能", "エントリー＆楽天カード決済でポイント付与率アップ"],
-    affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fcamp%2F50day%2F",
+    affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fcamp%2F50luxday%2Ftop%2F",
     imageUrl: "/images/rakuten_5and0_luxury.png",
     category: "定期開催"
   },
@@ -45,7 +45,7 @@ const CAMPAIGNS: CampaignItem[] = [
     description: "実質2,000円の自己負担で、憧れの高級温泉旅館やリゾートホテルに宿泊できる大人気制度！寄付後すぐに予約で使えるデジタルクーポンが発券されます。",
     targetDays: "通年開催中（控除上限額の確認はお早めに）",
     highlights: ["あとから予約にクーポンを適用することも可能", "有効期限が最長3年間と長くて安心", "ポイント還元とダブルでお得"],
-    affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Ffurusato%2F",
+    affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F",
     imageUrl: "/images/rakuten_furusato_travel.png",
     category: "地域応援・クーポン"
   },
@@ -57,7 +57,7 @@ const CAMPAIGNS: CampaignItem[] = [
     description: "夏休み・秋の行楽シーズンに向けた楽天トラベル最大級の半額＆割引大セール！家族旅行やカップル旅行、国内リゾートの目玉プランが満載です。",
     targetDays: "数量限定・期間限定開催中",
     highlights: ["全国の人気ホテルが直前＆先々予約で半額", "レンタカー・高速バスも併せて大幅値引き", "タイムセール限定特別クーポン多数"],
-    affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Fsale%2F",
+    affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fcoupon%2F",
     imageUrl: "/images/rakuten_summer_sale_banner.png",
     category: "大型セール"
   },
@@ -69,7 +69,7 @@ const CAMPAIGNS: CampaignItem[] = [
     description: "楽天トラベルを初めてご利用の方、または久しぶりにご利用の方限定の特大ポイント還元キャンペーン！アプリからの予約でさらに付与率アップ。",
     targetDays: "常時エントリー受付中",
     highlights: ["国内宿泊・高速バス・レンタカーなど対象多数", "エントリーするだけでポイント対象に", "他のクーポンと併用OK"],
-    affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fcamp%2Fdebut%2F",
+    affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fcamp%2Fservice_debut%2F",
     imageUrl: "/images/rakuten_service_debut.png",
     category: "定期開催"
   },
@@ -81,7 +81,7 @@ const CAMPAIGNS: CampaignItem[] = [
     description: "石川県・能登半島をはじめとする北陸応援キャンペーン！対象の宿泊施設で使える応援クーポンでお得に旅して、地元の観光・復興を強力サポート。",
     targetDays: "対象期間内実施",
     highlights: ["金沢・加賀温泉郷・能登の名宿が対象", "地物の蟹や能登牛などの絶品グルメを堪能", "旅することがそのまま現地への応援に"],
-    affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fmovement%2Fhokuriku%2F",
+    affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Fprj%2F202003%2F",
     imageUrl: "/images/noto_offers.png",
     category: "地域応援・クーポン"
   },
