@@ -26,6 +26,6 @@ export default function robots(): MetadataRoute.Robots {
         allow: '/',
       }
     ],
-    sitemap: `${baseUrl}/sitemap.xml`,
+    sitemap: 'https://croud-travel.pages.dev/sitemap.xml',
   };
 }

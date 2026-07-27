@@ -229,6 +229,8 @@ export default function RootLayout({
                 <span>•</span>
                 <Link href="/campaigns" className="hover:text-teal-800 text-amber-700">お得キャンペーン</Link>
                 <span>•</span>
+                <Link href="/sitemap" className="hover:text-teal-800">サイトマップ</Link>
+                <span>•</span>
                 <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2F" target="_blank" rel="noopener noreferrer" className="hover:text-teal-800">楽天トラベル公式</a>
               </div>
             </div>
