@@ -205,9 +205,11 @@ def build_hotel_prompt(item):
 【出力ルール — 厳守してください】
 ━━━━━━━━━━━━━━━━━━━━
 
-■ 出力形式（この2パートのみ。他は何も書かない）
+■ 出力形式（この3パートのみ。他は何も書かない）
   1行目: SEOメタディスクリプション（100〜130文字のプレーンテキスト。タグ・記号・説明文なし）
-  2行目以降: HTML本文
+  2パート目: 以下のキーを含むSEO詳細データのJSON（必ず <seo_json> と </seo_json> で囲む）
+    {{"recommended_for": ["層1", "層2"], "nearby_tourist_spots": ["観光地1", "観光地2"], "parking_info": "駐車場情報", "family_friendly": "子連れ向け情報", "hot_spring_info": "温泉情報", "nearby_gourmet": ["グルメ1", "グルメ2"], "meal_availability": "朝食や夕食の有無"}}
+  3パート目以降: HTML本文
 
 ■ HTML本文のルール
   - 使えるタグ: <h2> <h3> <h4> <p> <ul> <li> <strong> のみ
@@ -271,9 +273,11 @@ def build_prefecture_prompt(items, pref_name, theme):
 【出力ルール — 厳守してください】
 ━━━━━━━━━━━━━━━━━━━━
 
-■ 出力形式（この2パートのみ。他は何も書かない）
+■ 出力形式（この3パートのみ。他は何も書かない）
   1行目: SEOメタディスクリプション（100〜130文字のプレーンテキスト。タグ・記号・説明文なし）
-  2行目以降: HTML本文
+  2パート目: 以下のキーを含むSEO詳細データのJSON（必ず <seo_json> と </seo_json> で囲む）
+    {{"recommended_for": ["層1", "層2"], "nearby_tourist_spots": ["観光地1", "観光地2"], "parking_info": "駐車場情報", "family_friendly": "子連れ向け情報", "hot_spring_info": "温泉情報", "nearby_gourmet": ["グルメ1", "グルメ2"], "meal_availability": "朝食や夕食の有無"}}
+  3パート目以降: HTML本文
 
 ■ HTML本文のルール
   - 使えるタグ: <h2> <h3> <h4> <p> <ul> <li> <strong> のみ
@@ -316,6 +320,21 @@ def validate_and_clean_output(raw_text):
     text = raw_text.strip()
     if not text:
         print("[VALIDATE] 空のレスポンス")
+        return None
+
+    # --- ⓪ SEOデータのJSONブロックを抽出 ---
+    seo_data = {}
+    seo_match = re.search(r"<seo_json>(.*?)</seo_json>", text, flags=re.DOTALL | re.IGNORECASE)
+    if seo_match:
+        try:
+            seo_data = json.loads(seo_match.group(1).strip())
+            # HTML本文などから除外
+            text = text.replace(seo_match.group(0), "").strip()
+        except json.JSONDecodeError:
+            print("[VALIDATE] <seo_json> の中のJSONがパースできませんでした")
+            return None
+    else:
+        print("[VALIDATE] <seo_json> タグが見つかりません")
         return None
 
     # --- ① Markdownコードブロックを除去 ---
@@ -411,8 +430,8 @@ def validate_and_clean_output(raw_text):
         print(f"[VALIDATE] review_html が途中で終わっている可能性: ...{last_chars!r}")
         return None
 
-    print(f"[VALIDATE] OK — desc({len(description)}文字), review({len(review_html)}文字)")
-    return description, review_html
+    print(f"[VALIDATE] OK — desc({len(description)}文字), review({len(review_html)}文字), seo_data({len(seo_data)} keys)")
+    return description, review_html, seo_data
 
 
 def generate_article_with_llm(items, mode):
@@ -513,7 +532,7 @@ def fallback_generation(items, mode):
             f"<ul>\n{hotel_list}\n</ul>\n"
             f"<p>{pref}の旅は、自然・温泉・食のすべてが揃った最高のリフレッシュになるはずです。ぜひ次の旅先に選んでみてください。</p>"
         )
-    return description, review_html
+    return description, review_html, {}
 
 
 def decide_category(item):
@@ -573,8 +592,8 @@ def main():
             if val and val != image_url:
                 other_images.append(val)
 
-        # 記事生成（バリデーション済みの (description, review_html) が返る）
-        description, review_html = generate_article_with_llm(items, mode)
+        # 記事生成（バリデーション済みの (description, review_html, seo_data) が返る）
+        description, review_html, seo_data = generate_article_with_llm(items, mode)
 
         # 都道府県モード（3件の宿）の場合、アフィリエイトリンクをHTML末尾に注入
         if mode == "prefecture" and len(items) > 1:
@@ -615,7 +634,14 @@ def main():
             "categories": categories,
             "price": main_item.get("hotelMinPrice"),
             "rating": main_item.get("reviewAverage"),
-            "date": time.strftime("%Y-%m-%d %H:%M:%S")
+            "date": time.strftime("%Y-%m-%d %H:%M:%S"),
+            "recommended_for": seo_data.get("recommended_for", []),
+            "nearby_tourist_spots": seo_data.get("nearby_tourist_spots", []),
+            "parking_info": seo_data.get("parking_info", ""),
+            "family_friendly": seo_data.get("family_friendly", ""),
+            "hot_spring_info": seo_data.get("hot_spring_info", ""),
+            "nearby_gourmet": seo_data.get("nearby_gourmet", []),
+            "meal_availability": seo_data.get("meal_availability", "")
         }
 
         save_individual_post(post_data)

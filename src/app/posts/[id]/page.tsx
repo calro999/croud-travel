@@ -20,6 +20,13 @@ interface Post {
   price: string | number;
   rating: string | number;
   date: string;
+  recommended_for?: string[];
+  nearby_tourist_spots?: string[];
+  parking_info?: string;
+  family_friendly?: string;
+  hot_spring_info?: string;
+  nearby_gourmet?: string[];
+  meal_availability?: string;
 }
 
 export const dynamicParams = false;
@@ -187,7 +194,9 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
     },
     {
       q: `${post.prefecture}で味わいたいご当地グルメや名産品は何ですか？`,
-      a: `${post.prefecture}ならではの新鮮な地場食材を使った料理や名物グルメが豊富です。記事内でご紹介している名物料理や特産品をぜひ現地でご堪能ください。`
+      a: post.nearby_gourmet && post.nearby_gourmet.length > 0
+        ? `${post.prefecture}ならではの新鮮な地場食材を使った料理や名物グルメが豊富です。特に宿周辺で楽しめる「${post.nearby_gourmet.join('」や「')}」などは旅行者から大人気で、ぜひ現地で味わっていただきたい逸品です。`
+        : `${post.prefecture}ならではの新鮮な地場食材を使った料理や名物グルメが豊富です。ホテル周辺や観光地近くの飲食店で、ぜひ地元の味覚をご堪能ください。`
     }
   ];
 
@@ -290,13 +299,53 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
           )}
         </div>
 
-        {/* 旅ライターによる極上ルポ */}
-        <div className="prose prose-emerald max-w-none text-emerald-950/80 space-y-6 leading-relaxed text-sm md:text-base font-medium">
-          <div
-            className="review-content-html"
-            dangerouslySetInnerHTML={{ __html: post.review }}
-          />
-        </div>
+        {/* 宿泊施設 詳細情報（SEO対策・よくある検索） */}
+        { (post.recommended_for || post.nearby_tourist_spots || post.parking_info || post.family_friendly || post.hot_spring_info || post.nearby_gourmet || post.meal_availability) && (
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4 p-6 rounded-2xl bg-teal-50/30 border border-teal-900/10 text-sm mt-4">
+            {post.recommended_for && post.recommended_for.length > 0 && (
+              <div className="space-y-1">
+                <span className="text-teal-900/60 font-extrabold uppercase text-[10px]">この宿がおすすめな人</span>
+                <p className="font-bold text-teal-950">{post.recommended_for.join(" / ")}</p>
+              </div>
+            )}
+            {post.nearby_tourist_spots && post.nearby_tourist_spots.length > 0 && (
+              <div className="space-y-1">
+                <span className="text-teal-900/60 font-extrabold uppercase text-[10px]">徒歩で行ける観光地</span>
+                <p className="font-bold text-teal-950">{post.nearby_tourist_spots.join(" / ")}</p>
+              </div>
+            )}
+            {post.parking_info && (
+              <div className="space-y-1">
+                <span className="text-teal-900/60 font-extrabold uppercase text-[10px]">駐車場事情</span>
+                <p className="font-bold text-teal-950">{post.parking_info}</p>
+              </div>
+            )}
+            {post.family_friendly && (
+              <div className="space-y-1">
+                <span className="text-teal-900/60 font-extrabold uppercase text-[10px]">子連れ向けか</span>
+                <p className="font-bold text-teal-950">{post.family_friendly}</p>
+              </div>
+            )}
+            {post.hot_spring_info && (
+              <div className="space-y-1">
+                <span className="text-teal-900/60 font-extrabold uppercase text-[10px]">温泉情報</span>
+                <p className="font-bold text-teal-950">{post.hot_spring_info}</p>
+              </div>
+            )}
+            {post.nearby_gourmet && post.nearby_gourmet.length > 0 && (
+              <div className="space-y-1">
+                <span className="text-teal-900/60 font-extrabold uppercase text-[10px]">周辺グルメ</span>
+                <p className="font-bold text-teal-950">{post.nearby_gourmet.join(" / ")}</p>
+              </div>
+            )}
+            {post.meal_availability && (
+              <div className="space-y-1">
+                <span className="text-teal-900/60 font-extrabold uppercase text-[10px]">朝食や夕食の有無</span>
+                <p className="font-bold text-teal-950">{post.meal_availability}</p>
+              </div>
+            )}
+          </div>
+        )}
 
         {/* 宿のギャラリー画像 */}
         {post.other_images && post.other_images.length > 0 && (
@@ -321,6 +370,14 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
             </div>
           </div>
         )}
+
+        {/* 旅ライターによる極上ルポ */}
+        <div className="prose prose-emerald max-w-none text-emerald-950/80 space-y-6 leading-relaxed text-sm md:text-base font-medium pt-8 border-t border-emerald-950/5">
+          <div
+            className="review-content-html"
+            dangerouslySetInnerHTML={{ __html: post.review }}
+          />
+        </div>
 
         {/* 楽天アフィリエイト連携 CTAボタン */}
         <div className="pt-8 border-t border-emerald-950/5 text-center space-y-4">
