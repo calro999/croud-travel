@@ -77,43 +77,37 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
     name: "北海道",
     region: "北海道",
     highlights: ["函館・湯の川温泉名所", "北海道名物", "絶景温泉"],
-    gourmet: ["北海道名物料理", "地場グルメ"],
-    description: "北海道の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
+    gourmet: ["北海道の獲れたて海鮮・ご当地名物", "地場グルメ"],
+    description: "北海道ならではの四季折々の自然美と豊かな歴史・食文化を心ゆくまで堪能する特別な旅のガイド。",
     bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
     subAreas: [
       {
         areaName: "函館・湯の川温泉",
         slug: "hakodate",
-        description: "北海道を代表する観光名所・絶景スポット・名湯が凝縮された一番人気エリア。",
+        description: "函館・湯の川温泉エリアを代表する観光名所や絶景、名物グルメが凝縮された大人気散策コース。",
         spots: [
-          { name: "函館・湯の川温泉 代表名所", description: "北海道観光で絶対に訪れたい人気景勝地。" },
-          { name: "函館・湯の川温泉 絶景スポット", description: "四季折々の風情と感動が広がる美しいロケーション。" }
+          { name: "函館・湯の川温泉の歴史・伝統名所散策", description: "函館・湯の川温泉で絶対に訪れたい歴史ある名所と風情あふれる街並み。" },
+          { name: "函館・湯の川温泉の絶景・ビュースポット", description: "函館・湯の川温泉ならではの四季折々の絶景と感動が広がる美しいロケーション。" },
         ],
-        gourmet: ["北海道名物料理", "ご当地グルメ"],
+        gourmet: ["北海道の獲れたて海鮮・ご当地名物", "老舗の味・名物グルメ"],
         keywords: ["北海道", "函館・湯の川温泉"],
         subAreaHotels: [
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "函館・湯の川温泉",
-                        "postId": "56773",
+                        "hotelName": "ＨＡＫＯＤＡＴＥ　男爵倶楽部　ＨＯＴＥＬ＆ＲＥＳＯＲＴＳ",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/56773/56773.jpg",
                         "price": 13500,
                         "rating": 4.6,
                         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/56773/56773.html"
             },
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "函館・湯の川温泉",
-                        "postId": "192816",
+                        "hotelName": "ホテルエノエ函館",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/192816/192816.jpg",
                         "price": 13500,
                         "rating": 4.6,
                         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/192816/192816.html"
             },
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "函館・湯の川温泉",
-                        "postId": "67479",
+                        "hotelName": "Ｔａｂｉｓｔ　竹葉新葉亭　函館　湯の川温泉",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/67479/67479.jpg",
                         "price": 13500,
                         "rating": 4.6,
@@ -185,43 +179,37 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
     name: "青森県",
     region: "東北",
     highlights: ["青森・弘前周辺名所", "青森県名物", "絶景温泉"],
-    gourmet: ["青森県名物料理", "地場グルメ"],
-    description: "青森県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
+    gourmet: ["青森県の獲れたて海鮮・ご当地名物", "地場グルメ"],
+    description: "青森県ならではの四季折々の自然美と豊かな歴史・食文化を心ゆくまで堪能する特別な旅のガイド。",
     bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
     subAreas: [
       {
         areaName: "青森・弘前周辺",
         slug: "aomori-hirosaki",
-        description: "青森県を代表する観光名所・絶景スポット・名湯が凝縮された一番人気エリア。",
+        description: "青森・弘前周辺エリアを代表する観光名所や絶景、名物グルメが凝縮された大人気散策コース。",
         spots: [
-          { name: "青森・弘前周辺 代表名所", description: "青森県観光で絶対に訪れたい人気景勝地。" },
-          { name: "青森・弘前周辺 絶景スポット", description: "四季折々の風情と感動が広がる美しいロケーション。" }
+          { name: "青森・弘前周辺の歴史・伝統名所散策", description: "青森・弘前周辺で絶対に訪れたい歴史ある名所と風情あふれる街並み。" },
+          { name: "青森・弘前周辺の絶景・ビュースポット", description: "青森・弘前周辺ならではの四季折々の絶景と感動が広がる美しいロケーション。" },
         ],
-        gourmet: ["青森県名物料理", "ご当地グルメ"],
+        gourmet: ["青森県の獲れたて海鮮・ご当地名物", "老舗の味・名物グルメ"],
         keywords: ["青森県", "青森・弘前周辺"],
         subAreaHotels: [
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "青森・弘前周辺",
-                        "postId": "70291",
+                        "hotelName": "天然温泉　岩木桜の湯　ドーミーイン弘前（ドーミーイン・御宿野乃　ホテルズグループ）",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/70291/70291.jpg",
                         "price": 13500,
                         "rating": 4.6,
                         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/70291/70291.html"
             },
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "青森・弘前周辺",
-                        "postId": "50632",
+                        "hotelName": "スーパーホテル弘前",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/50632/50632.jpg",
                         "price": 13500,
                         "rating": 4.6,
                         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/50632/50632.html"
             },
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "青森・弘前周辺",
-                        "postId": "70297",
+                        "hotelName": "ホテルルートイン　弘前駅前",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/70297/70297.jpg",
                         "price": 13500,
                         "rating": 4.6,
@@ -293,19 +281,19 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
     name: "岩手県",
     region: "東北",
     highlights: ["盛岡・花巻温泉周辺名所", "岩手県名物", "絶景温泉"],
-    gourmet: ["岩手県名物料理", "地場グルメ"],
-    description: "岩手県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
+    gourmet: ["岩手県の獲れたて海鮮・ご当地名物", "地場グルメ"],
+    description: "岩手県ならではの四季折々の自然美と豊かな歴史・食文化を心ゆくまで堪能する特別な旅のガイド。",
     bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
     subAreas: [
       {
         areaName: "盛岡・花巻温泉周辺",
         slug: "morioka-hanamaki",
-        description: "岩手県を代表する観光名所・絶景スポット・名湯が凝縮された一番人気エリア。",
+        description: "盛岡・花巻温泉周辺エリアを代表する観光名所や絶景、名物グルメが凝縮された大人気散策コース。",
         spots: [
-          { name: "盛岡・花巻温泉周辺 代表名所", description: "岩手県観光で絶対に訪れたい人気景勝地。" },
-          { name: "盛岡・花巻温泉周辺 絶景スポット", description: "四季折々の風情と感動が広がる美しいロケーション。" }
+          { name: "盛岡・花巻温泉周辺の歴史・伝統名所散策", description: "盛岡・花巻温泉周辺で絶対に訪れたい歴史ある名所と風情あふれる街並み。" },
+          { name: "盛岡・花巻温泉周辺の絶景・ビュースポット", description: "盛岡・花巻温泉周辺ならではの四季折々の絶景と感動が広がる美しいロケーション。" },
         ],
-        gourmet: ["岩手県名物料理", "ご当地グルメ"],
+        gourmet: ["岩手県の獲れたて海鮮・ご当地名物", "老舗の味・名物グルメ"],
         keywords: ["岩手県", "盛岡・花巻温泉周辺"],
         subAreaHotels: [
             {
@@ -389,43 +377,37 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
     name: "宮城県",
     region: "東北",
     highlights: ["仙台・松島・秋保温泉名所", "宮城県名物", "絶景温泉"],
-    gourmet: ["宮城県名物料理", "地場グルメ"],
-    description: "宮城県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
+    gourmet: ["宮城県の獲れたて海鮮・ご当地名物", "地場グルメ"],
+    description: "宮城県ならではの四季折々の自然美と豊かな歴史・食文化を心ゆくまで堪能する特別な旅のガイド。",
     bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
     subAreas: [
       {
         areaName: "仙台・松島・秋保温泉",
         slug: "sendai-matsushima",
-        description: "宮城県を代表する観光名所・絶景スポット・名湯が凝縮された一番人気エリア。",
+        description: "仙台・松島・秋保温泉エリアを代表する観光名所や絶景、名物グルメが凝縮された大人気散策コース。",
         spots: [
-          { name: "仙台・松島・秋保温泉 代表名所", description: "宮城県観光で絶対に訪れたい人気景勝地。" },
-          { name: "仙台・松島・秋保温泉 絶景スポット", description: "四季折々の風情と感動が広がる美しいロケーション。" }
+          { name: "仙台・松島・秋保温泉の歴史・伝統名所散策", description: "仙台・松島・秋保温泉で絶対に訪れたい歴史ある名所と風情あふれる街並み。" },
+          { name: "仙台・松島・秋保温泉の絶景・ビュースポット", description: "仙台・松島・秋保温泉ならではの四季折々の絶景と感動が広がる美しいロケーション。" },
         ],
-        gourmet: ["宮城県名物料理", "ご当地グルメ"],
+        gourmet: ["宮城県の獲れたて海鮮・ご当地名物", "老舗の味・名物グルメ"],
         keywords: ["宮城県", "仙台・松島・秋保温泉"],
         subAreaHotels: [
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "仙台・松島・秋保温泉",
-                        "postId": "182463",
+                        "hotelName": "変なホテルプレミア仙台　国分町",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/182463/182463.jpg",
                         "price": 13500,
                         "rating": 4.6,
                         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/182463/182463.html"
             },
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "仙台・松島・秋保温泉",
-                        "postId": "177046",
+                        "hotelName": "ホテル京阪　仙台",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/177046/177046.jpg",
                         "price": 13500,
                         "rating": 4.6,
                         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/177046/177046.html"
             },
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "仙台・松島・秋保温泉",
-                        "postId": "4934",
+                        "hotelName": "リッチモンドホテル仙台",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/4934/4934.jpg",
                         "price": 13500,
                         "rating": 4.6,
@@ -497,19 +479,19 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
     name: "秋田県",
     region: "東北",
     highlights: ["秋田・角館・乳頭温泉名所", "秋田県名物", "絶景温泉"],
-    gourmet: ["秋田県名物料理", "地場グルメ"],
-    description: "秋田県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
+    gourmet: ["秋田県の獲れたて海鮮・ご当地名物", "地場グルメ"],
+    description: "秋田県ならではの四季折々の自然美と豊かな歴史・食文化を心ゆくまで堪能する特別な旅のガイド。",
     bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
     subAreas: [
       {
         areaName: "秋田・角館・乳頭温泉",
         slug: "akita-kakunodate",
-        description: "秋田県を代表する観光名所・絶景スポット・名湯が凝縮された一番人気エリア。",
+        description: "秋田・角館・乳頭温泉エリアを代表する観光名所や絶景、名物グルメが凝縮された大人気散策コース。",
         spots: [
-          { name: "秋田・角館・乳頭温泉 代表名所", description: "秋田県観光で絶対に訪れたい人気景勝地。" },
-          { name: "秋田・角館・乳頭温泉 絶景スポット", description: "四季折々の風情と感動が広がる美しいロケーション。" }
+          { name: "秋田・角館・乳頭温泉の歴史・伝統名所散策", description: "秋田・角館・乳頭温泉で絶対に訪れたい歴史ある名所と風情あふれる街並み。" },
+          { name: "秋田・角館・乳頭温泉の絶景・ビュースポット", description: "秋田・角館・乳頭温泉ならではの四季折々の絶景と感動が広がる美しいロケーション。" },
         ],
-        gourmet: ["秋田県名物料理", "ご当地グルメ"],
+        gourmet: ["秋田県の獲れたて海鮮・ご当地名物", "老舗の味・名物グルメ"],
         keywords: ["秋田県", "秋田・角館・乳頭温泉"],
         subAreaHotels: [
             {
@@ -593,19 +575,19 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
     name: "山形県",
     region: "東北",
     highlights: ["山形・蔵王温泉・銀山温泉名所", "山形県名物", "絶景温泉"],
-    gourmet: ["山形県名物料理", "地場グルメ"],
-    description: "山形県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
+    gourmet: ["山形県の獲れたて海鮮・ご当地名物", "地場グルメ"],
+    description: "山形県ならではの四季折々の自然美と豊かな歴史・食文化を心ゆくまで堪能する特別な旅のガイド。",
     bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
     subAreas: [
       {
         areaName: "山形・蔵王温泉・銀山温泉",
         slug: "yamagata-zao",
-        description: "山形県を代表する観光名所・絶景スポット・名湯が凝縮された一番人気エリア。",
+        description: "山形・蔵王温泉・銀山温泉エリアを代表する観光名所や絶景、名物グルメが凝縮された大人気散策コース。",
         spots: [
-          { name: "山形・蔵王温泉・銀山温泉 代表名所", description: "山形県観光で絶対に訪れたい人気景勝地。" },
-          { name: "山形・蔵王温泉・銀山温泉 絶景スポット", description: "四季折々の風情と感動が広がる美しいロケーション。" }
+          { name: "山形・蔵王温泉・銀山温泉の歴史・伝統名所散策", description: "山形・蔵王温泉・銀山温泉で絶対に訪れたい歴史ある名所と風情あふれる街並み。" },
+          { name: "山形・蔵王温泉・銀山温泉の絶景・ビュースポット", description: "山形・蔵王温泉・銀山温泉ならではの四季折々の絶景と感動が広がる美しいロケーション。" },
         ],
-        gourmet: ["山形県名物料理", "ご当地グルメ"],
+        gourmet: ["山形県の獲れたて海鮮・ご当地名物", "老舗の味・名物グルメ"],
         keywords: ["山形県", "山形・蔵王温泉・銀山温泉"],
         subAreaHotels: [
             {
@@ -689,43 +671,37 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
     name: "福島県",
     region: "東北",
     highlights: ["会津若松・裏磐梯・東山温泉名所", "福島県名物", "絶景温泉"],
-    gourmet: ["福島県名物料理", "地場グルメ"],
-    description: "福島県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
+    gourmet: ["福島県の獲れたて海鮮・ご当地名物", "地場グルメ"],
+    description: "福島県ならではの四季折々の自然美と豊かな歴史・食文化を心ゆくまで堪能する特別な旅のガイド。",
     bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
     subAreas: [
       {
         areaName: "会津若松・裏磐梯・東山温泉",
         slug: "aizu-bandai",
-        description: "福島県を代表する観光名所・絶景スポット・名湯が凝縮された一番人気エリア。",
+        description: "会津若松・裏磐梯・東山温泉エリアを代表する観光名所や絶景、名物グルメが凝縮された大人気散策コース。",
         spots: [
-          { name: "会津若松・裏磐梯・東山温泉 代表名所", description: "福島県観光で絶対に訪れたい人気景勝地。" },
-          { name: "会津若松・裏磐梯・東山温泉 絶景スポット", description: "四季折々の風情と感動が広がる美しいロケーション。" }
+          { name: "会津若松・裏磐梯・東山温泉の歴史・伝統名所散策", description: "会津若松・裏磐梯・東山温泉で絶対に訪れたい歴史ある名所と風情あふれる街並み。" },
+          { name: "会津若松・裏磐梯・東山温泉の絶景・ビュースポット", description: "会津若松・裏磐梯・東山温泉ならではの四季折々の絶景と感動が広がる美しいロケーション。" },
         ],
-        gourmet: ["福島県名物料理", "ご当地グルメ"],
+        gourmet: ["福島県の獲れたて海鮮・ご当地名物", "老舗の味・名物グルメ"],
         keywords: ["福島県", "会津若松・裏磐梯・東山温泉"],
         subAreaHotels: [
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "会津若松・裏磐梯・東山温泉",
-                        "postId": "28624",
+                        "hotelName": "創作料理が自慢の宿　会津　喜多方　熱塩温泉　山形屋",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/28624/28624.jpg",
                         "price": 13500,
                         "rating": 4.6,
                         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/28624/28624.html"
             },
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "会津若松・裏磐梯・東山温泉",
-                        "postId": "12682",
+                        "hotelName": "会津芦ノ牧温泉　大川荘",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/12682/12682.jpg",
                         "price": 13500,
                         "rating": 4.6,
                         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/12682/12682.html"
             },
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "会津若松・裏磐梯・東山温泉",
-                        "postId": "4781",
+                        "hotelName": "ホテルニューパレス",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/4781/4781.jpg",
                         "price": 13500,
                         "rating": 4.6,
@@ -797,43 +773,37 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
     name: "茨城県",
     region: "関東",
     highlights: ["水戸・大洗・ひたちなか名所", "茨城県名物", "絶景温泉"],
-    gourmet: ["茨城県名物料理", "地場グルメ"],
-    description: "茨城県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
+    gourmet: ["茨城県の獲れたて海鮮・ご当地名物", "地場グルメ"],
+    description: "茨城県ならではの四季折々の自然美と豊かな歴史・食文化を心ゆくまで堪能する特別な旅のガイド。",
     bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
     subAreas: [
       {
         areaName: "水戸・大洗・ひたちなか",
         slug: "mito-oarai",
-        description: "茨城県を代表する観光名所・絶景スポット・名湯が凝縮された一番人気エリア。",
+        description: "水戸・大洗・ひたちなかエリアを代表する観光名所や絶景、名物グルメが凝縮された大人気散策コース。",
         spots: [
-          { name: "水戸・大洗・ひたちなか 代表名所", description: "茨城県観光で絶対に訪れたい人気景勝地。" },
-          { name: "水戸・大洗・ひたちなか 絶景スポット", description: "四季折々の風情と感動が広がる美しいロケーション。" }
+          { name: "水戸・大洗・ひたちなかの歴史・伝統名所散策", description: "水戸・大洗・ひたちなかで絶対に訪れたい歴史ある名所と風情あふれる街並み。" },
+          { name: "水戸・大洗・ひたちなかの絶景・ビュースポット", description: "水戸・大洗・ひたちなかならではの四季折々の絶景と感動が広がる美しいロケーション。" },
         ],
-        gourmet: ["茨城県名物料理", "ご当地グルメ"],
+        gourmet: ["茨城県の獲れたて海鮮・ご当地名物", "老舗の味・名物グルメ"],
         keywords: ["茨城県", "水戸・大洗・ひたちなか"],
         subAreaHotels: [
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "水戸・大洗・ひたちなか",
-                        "postId": "44177",
+                        "hotelName": "ダイワロイネットホテル水戸",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/44177/44177.jpg",
                         "price": 13500,
                         "rating": 4.6,
                         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/44177/44177.html"
             },
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "水戸・大洗・ひたちなか",
-                        "postId": "2099",
+                        "hotelName": "ホテルシーズン",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/2099/2099.jpg",
                         "price": 13500,
                         "rating": 4.6,
                         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/2099/2099.html"
             },
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "水戸・大洗・ひたちなか",
-                        "postId": "80617",
+                        "hotelName": "天然温泉　梅里の湯　スーパーホテル水戸",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/80617/80617.jpg",
                         "price": 13500,
                         "rating": 4.6,
@@ -905,43 +875,37 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
     name: "栃木県",
     region: "関東",
     highlights: ["日光・鬼怒川温泉名所", "栃木県名物", "絶景温泉"],
-    gourmet: ["栃木県名物料理", "地場グルメ"],
-    description: "栃木県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
+    gourmet: ["栃木県の獲れたて海鮮・ご当地名物", "地場グルメ"],
+    description: "栃木県ならではの四季折々の自然美と豊かな歴史・食文化を心ゆくまで堪能する特別な旅のガイド。",
     bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
     subAreas: [
       {
         areaName: "日光・鬼怒川温泉",
         slug: "nikko-kinugawa",
-        description: "栃木県を代表する観光名所・絶景スポット・名湯が凝縮された一番人気エリア。",
+        description: "日光・鬼怒川温泉エリアを代表する観光名所や絶景、名物グルメが凝縮された大人気散策コース。",
         spots: [
-          { name: "日光・鬼怒川温泉 代表名所", description: "栃木県観光で絶対に訪れたい人気景勝地。" },
-          { name: "日光・鬼怒川温泉 絶景スポット", description: "四季折々の風情と感動が広がる美しいロケーション。" }
+          { name: "日光・鬼怒川温泉の歴史・伝統名所散策", description: "日光・鬼怒川温泉で絶対に訪れたい歴史ある名所と風情あふれる街並み。" },
+          { name: "日光・鬼怒川温泉の絶景・ビュースポット", description: "日光・鬼怒川温泉ならではの四季折々の絶景と感動が広がる美しいロケーション。" },
         ],
-        gourmet: ["栃木県名物料理", "ご当地グルメ"],
+        gourmet: ["栃木県の獲れたて海鮮・ご当地名物", "老舗の味・名物グルメ"],
         keywords: ["栃木県", "日光・鬼怒川温泉"],
         subAreaHotels: [
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "日光・鬼怒川温泉",
-                        "postId": "189179",
+                        "hotelName": "グランピングリゾート　ブリリアントヴィレッジ日光",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/189179/189179.jpg",
                         "price": 13500,
                         "rating": 4.6,
                         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/189179/189179.html"
             },
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "日光・鬼怒川温泉",
-                        "postId": "198852",
+                        "hotelName": "アンワインドホテル＆バー奥日光　※２０２６年８月開業",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/198852/198852.jpg",
                         "price": 13500,
                         "rating": 4.6,
                         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/198852/198852.html"
             },
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "日光・鬼怒川温泉",
-                        "postId": "108140",
+                        "hotelName": "奥日光湯元温泉　湯元板屋",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/108140/108140.jpg",
                         "price": 13500,
                         "rating": 4.6,
@@ -1013,43 +977,37 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
     name: "群馬県",
     region: "関東",
     highlights: ["草津温泉・伊香保温泉名所", "群馬県名物", "絶景温泉"],
-    gourmet: ["群馬県名物料理", "地場グルメ"],
-    description: "群馬県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
+    gourmet: ["群馬県の獲れたて海鮮・ご当地名物", "地場グルメ"],
+    description: "群馬県ならではの四季折々の自然美と豊かな歴史・食文化を心ゆくまで堪能する特別な旅のガイド。",
     bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
     subAreas: [
       {
         areaName: "草津温泉・伊香保温泉",
         slug: "kusatsu-ikaho",
-        description: "群馬県を代表する観光名所・絶景スポット・名湯が凝縮された一番人気エリア。",
+        description: "草津温泉・伊香保温泉エリアを代表する観光名所や絶景、名物グルメが凝縮された大人気散策コース。",
         spots: [
-          { name: "草津温泉・伊香保温泉 代表名所", description: "群馬県観光で絶対に訪れたい人気景勝地。" },
-          { name: "草津温泉・伊香保温泉 絶景スポット", description: "四季折々の風情と感動が広がる美しいロケーション。" }
+          { name: "草津温泉・伊香保温泉の歴史・伝統名所散策", description: "草津温泉・伊香保温泉で絶対に訪れたい歴史ある名所と風情あふれる街並み。" },
+          { name: "草津温泉・伊香保温泉の絶景・ビュースポット", description: "草津温泉・伊香保温泉ならではの四季折々の絶景と感動が広がる美しいロケーション。" },
         ],
-        gourmet: ["群馬県名物料理", "ご当地グルメ"],
+        gourmet: ["群馬県の獲れたて海鮮・ご当地名物", "老舗の味・名物グルメ"],
         keywords: ["群馬県", "草津温泉・伊香保温泉"],
         subAreaHotels: [
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "草津温泉・伊香保温泉",
-                        "postId": "2398",
+                        "hotelName": "草津温泉　ホテルスパックス草津",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/2398/2398.jpg",
                         "price": 13500,
                         "rating": 4.6,
                         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/2398/2398.html"
             },
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "草津温泉・伊香保温泉",
-                        "postId": "56137",
+                        "hotelName": "草津温泉　ホテル櫻井",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/56137/56137.jpg",
                         "price": 13500,
                         "rating": 4.6,
                         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/56137/56137.html"
             },
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "草津温泉・伊香保温泉",
-                        "postId": "176541",
+                        "hotelName": "草津温泉　源泉一乃湯",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/176541/176541.jpg",
                         "price": 13500,
                         "rating": 4.6,
@@ -1121,43 +1079,37 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
     name: "埼玉県",
     region: "関東",
     highlights: ["川越・秩父・長瀞名所", "埼玉県名物", "絶景温泉"],
-    gourmet: ["埼玉県名物料理", "地場グルメ"],
-    description: "埼玉県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
+    gourmet: ["埼玉県の獲れたて海鮮・ご当地名物", "地場グルメ"],
+    description: "埼玉県ならではの四季折々の自然美と豊かな歴史・食文化を心ゆくまで堪能する特別な旅のガイド。",
     bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
     subAreas: [
       {
         areaName: "川越・秩父・長瀞",
         slug: "kawagoe-chichibu",
-        description: "埼玉県を代表する観光名所・絶景スポット・名湯が凝縮された一番人気エリア。",
+        description: "川越・秩父・長瀞エリアを代表する観光名所や絶景、名物グルメが凝縮された大人気散策コース。",
         spots: [
-          { name: "川越・秩父・長瀞 代表名所", description: "埼玉県観光で絶対に訪れたい人気景勝地。" },
-          { name: "川越・秩父・長瀞 絶景スポット", description: "四季折々の風情と感動が広がる美しいロケーション。" }
+          { name: "川越・秩父・長瀞の歴史・伝統名所散策", description: "川越・秩父・長瀞で絶対に訪れたい歴史ある名所と風情あふれる街並み。" },
+          { name: "川越・秩父・長瀞の絶景・ビュースポット", description: "川越・秩父・長瀞ならではの四季折々の絶景と感動が広がる美しいロケーション。" },
         ],
-        gourmet: ["埼玉県名物料理", "ご当地グルメ"],
+        gourmet: ["埼玉県の獲れたて海鮮・ご当地名物", "老舗の味・名物グルメ"],
         keywords: ["埼玉県", "川越・秩父・長瀞"],
         subAreaHotels: [
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "川越・秩父・長瀞",
-                        "postId": "6100",
+                        "hotelName": "和銅鉱泉　薬師の湯　ゆの宿　和どう",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/6100/6100.jpg",
                         "price": 13500,
                         "rating": 4.6,
                         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/6100/6100.html"
             },
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "川越・秩父・長瀞",
-                        "postId": "9485",
+                        "hotelName": "長瀞温泉　花のおもてなし　長生館",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/9485/9485.jpg",
                         "price": 13500,
                         "rating": 4.6,
                         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/9485/9485.html"
             },
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "川越・秩父・長瀞",
-                        "postId": "68504",
+                        "hotelName": "小さなホテル　セラヴィ",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/68504/68504.jpg",
                         "price": 13500,
                         "rating": 4.6,
@@ -1229,19 +1181,19 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
     name: "千葉県",
     region: "関東",
     highlights: ["浦安・舞浜・南房総名所", "千葉県名物", "絶景温泉"],
-    gourmet: ["千葉県名物料理", "地場グルメ"],
-    description: "千葉県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
+    gourmet: ["千葉県の獲れたて海鮮・ご当地名物", "地場グルメ"],
+    description: "千葉県ならではの四季折々の自然美と豊かな歴史・食文化を心ゆくまで堪能する特別な旅のガイド。",
     bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
     subAreas: [
       {
         areaName: "浦安・舞浜・南房総",
         slug: "urayasu-boso",
-        description: "千葉県を代表する観光名所・絶景スポット・名湯が凝縮された一番人気エリア。",
+        description: "浦安・舞浜・南房総エリアを代表する観光名所や絶景、名物グルメが凝縮された大人気散策コース。",
         spots: [
-          { name: "浦安・舞浜・南房総 代表名所", description: "千葉県観光で絶対に訪れたい人気景勝地。" },
-          { name: "浦安・舞浜・南房総 絶景スポット", description: "四季折々の風情と感動が広がる美しいロケーション。" }
+          { name: "浦安・舞浜・南房総の歴史・伝統名所散策", description: "浦安・舞浜・南房総で絶対に訪れたい歴史ある名所と風情あふれる街並み。" },
+          { name: "浦安・舞浜・南房総の絶景・ビュースポット", description: "浦安・舞浜・南房総ならではの四季折々の絶景と感動が広がる美しいロケーション。" },
         ],
-        gourmet: ["千葉県名物料理", "ご当地グルメ"],
+        gourmet: ["千葉県の獲れたて海鮮・ご当地名物", "老舗の味・名物グルメ"],
         keywords: ["千葉県", "浦安・舞浜・南房総"],
         subAreaHotels: [
             {
@@ -1325,43 +1277,37 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
     name: "東京都",
     region: "関東",
     highlights: ["新宿・銀座・東京駅名所", "東京都名物", "絶景温泉"],
-    gourmet: ["東京都名物料理", "地場グルメ"],
-    description: "東京都の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
+    gourmet: ["東京都の獲れたて海鮮・ご当地名物", "地場グルメ"],
+    description: "東京都ならではの四季折々の自然美と豊かな歴史・食文化を心ゆくまで堪能する特別な旅のガイド。",
     bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
     subAreas: [
       {
         areaName: "新宿・銀座・東京駅",
         slug: "shinjuku-ginza",
-        description: "東京都を代表する観光名所・絶景スポット・名湯が凝縮された一番人気エリア。",
+        description: "新宿・銀座・東京駅エリアを代表する観光名所や絶景、名物グルメが凝縮された大人気散策コース。",
         spots: [
-          { name: "新宿・銀座・東京駅 代表名所", description: "東京都観光で絶対に訪れたい人気景勝地。" },
-          { name: "新宿・銀座・東京駅 絶景スポット", description: "四季折々の風情と感動が広がる美しいロケーション。" }
+          { name: "新宿・銀座・東京駅の歴史・伝統名所散策", description: "新宿・銀座・東京駅で絶対に訪れたい歴史ある名所と風情あふれる街並み。" },
+          { name: "新宿・銀座・東京駅の絶景・ビュースポット", description: "新宿・銀座・東京駅ならではの四季折々の絶景と感動が広がる美しいロケーション。" },
         ],
-        gourmet: ["東京都名物料理", "ご当地グルメ"],
+        gourmet: ["東京都の獲れたて海鮮・ご当地名物", "老舗の味・名物グルメ"],
         keywords: ["東京都", "新宿・銀座・東京駅"],
         subAreaHotels: [
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "新宿・銀座・東京駅",
-                        "postId": "128577",
+                        "hotelName": "アワーズイン阪急",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/128577/128577.jpg",
                         "price": 13500,
                         "rating": 4.6,
                         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/128577/128577.html"
             },
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "新宿・銀座・東京駅",
-                        "postId": "179145",
+                        "hotelName": "京急ＥＸイン　羽田イノベーションシティ",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/179145/179145.jpg",
                         "price": 13500,
                         "rating": 4.6,
                         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/179145/179145.html"
             },
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "新宿・銀座・東京駅",
-                        "postId": "51870",
+                        "hotelName": "ハートンホテル東品川（品川シーサイド）",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/51870/51870.jpg",
                         "price": 13500,
                         "rating": 4.6,
@@ -1433,43 +1379,37 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
     name: "神奈川県",
     region: "関東",
     highlights: ["箱根温泉・鎌倉・横浜名所", "神奈川県名物", "絶景温泉"],
-    gourmet: ["神奈川県名物料理", "地場グルメ"],
-    description: "神奈川県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
+    gourmet: ["神奈川県の獲れたて海鮮・ご当地名物", "地場グルメ"],
+    description: "神奈川県ならではの四季折々の自然美と豊かな歴史・食文化を心ゆくまで堪能する特別な旅のガイド。",
     bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
     subAreas: [
       {
         areaName: "箱根温泉・鎌倉・横浜",
         slug: "hakone-kamakura",
-        description: "神奈川県を代表する観光名所・絶景スポット・名湯が凝縮された一番人気エリア。",
+        description: "箱根温泉・鎌倉・横浜エリアを代表する観光名所や絶景、名物グルメが凝縮された大人気散策コース。",
         spots: [
-          { name: "箱根温泉・鎌倉・横浜 代表名所", description: "神奈川県観光で絶対に訪れたい人気景勝地。" },
-          { name: "箱根温泉・鎌倉・横浜 絶景スポット", description: "四季折々の風情と感動が広がる美しいロケーション。" }
+          { name: "箱根温泉・鎌倉・横浜の歴史・伝統名所散策", description: "箱根温泉・鎌倉・横浜で絶対に訪れたい歴史ある名所と風情あふれる街並み。" },
+          { name: "箱根温泉・鎌倉・横浜の絶景・ビュースポット", description: "箱根温泉・鎌倉・横浜ならではの四季折々の絶景と感動が広がる美しいロケーション。" },
         ],
-        gourmet: ["神奈川県名物料理", "ご当地グルメ"],
+        gourmet: ["神奈川県の獲れたて海鮮・ご当地名物", "老舗の味・名物グルメ"],
         keywords: ["神奈川県", "箱根温泉・鎌倉・横浜"],
         subAreaHotels: [
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "箱根温泉・鎌倉・横浜",
-                        "postId": "142874",
+                        "hotelName": "箱根強羅グアムドッグ本店",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/142874/142874.jpg",
                         "price": 13500,
                         "rating": 4.6,
                         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/142874/142874.html"
             },
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "箱根温泉・鎌倉・横浜",
-                        "postId": "10956",
+                        "hotelName": "箱根芦ノ湖温泉　源泉100％の宿　ＨＯＴＥＬ　Ｒａ　Ｋｕｕｎ　(ホテルラクーン）",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/10956/10956.jpg",
                         "price": 13500,
                         "rating": 4.6,
                         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/10956/10956.html"
             },
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "箱根温泉・鎌倉・横浜",
-                        "postId": "9669",
+                        "hotelName": "箱根湯本温泉　箱根パークス吉野",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/9669/9669.jpg",
                         "price": 13500,
                         "rating": 4.6,
@@ -1541,43 +1481,37 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
     name: "新潟県",
     region: "甲信越・北陸",
     highlights: ["越後湯沢・苗場・佐渡名所", "新潟県名物", "絶景温泉"],
-    gourmet: ["新潟県名物料理", "地場グルメ"],
-    description: "新潟県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
+    gourmet: ["新潟県の獲れたて海鮮・ご当地名物", "地場グルメ"],
+    description: "新潟県ならではの四季折々の自然美と豊かな歴史・食文化を心ゆくまで堪能する特別な旅のガイド。",
     bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
     subAreas: [
       {
         areaName: "越後湯沢・苗場・佐渡",
         slug: "echigo-yuzawa",
-        description: "新潟県を代表する観光名所・絶景スポット・名湯が凝縮された一番人気エリア。",
+        description: "越後湯沢・苗場・佐渡エリアを代表する観光名所や絶景、名物グルメが凝縮された大人気散策コース。",
         spots: [
-          { name: "越後湯沢・苗場・佐渡 代表名所", description: "新潟県観光で絶対に訪れたい人気景勝地。" },
-          { name: "越後湯沢・苗場・佐渡 絶景スポット", description: "四季折々の風情と感動が広がる美しいロケーション。" }
+          { name: "越後湯沢・苗場・佐渡の歴史・伝統名所散策", description: "越後湯沢・苗場・佐渡で絶対に訪れたい歴史ある名所と風情あふれる街並み。" },
+          { name: "越後湯沢・苗場・佐渡の絶景・ビュースポット", description: "越後湯沢・苗場・佐渡ならではの四季折々の絶景と感動が広がる美しいロケーション。" },
         ],
-        gourmet: ["新潟県名物料理", "ご当地グルメ"],
+        gourmet: ["新潟県の獲れたて海鮮・ご当地名物", "老舗の味・名物グルメ"],
         keywords: ["新潟県", "越後湯沢・苗場・佐渡"],
         subAreaHotels: [
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "越後湯沢・苗場・佐渡",
-                        "postId": "7518",
+                        "hotelName": "湯沢温泉（自家源泉）　ＨＯＴＥＬシャーレゆざわ銀水",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/7518/7518.jpg",
                         "price": 13500,
                         "rating": 4.6,
                         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/7518/7518.html"
             },
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "越後湯沢・苗場・佐渡",
-                        "postId": "30694",
+                        "hotelName": "苗場プリンスホテル",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/30694/30694.jpg",
                         "price": 13500,
                         "rating": 4.6,
                         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/30694/30694.html"
             },
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "越後湯沢・苗場・佐渡",
-                        "postId": "197415",
+                        "hotelName": "リブマックスリゾート越後湯沢",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/197415/197415.jpg",
                         "price": 13500,
                         "rating": 4.6,
@@ -1649,19 +1583,19 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
     name: "富山県",
     region: "甲信越・北陸",
     highlights: ["富山・立山黒部・宇奈月温泉名所", "富山県名物", "絶景温泉"],
-    gourmet: ["富山県名物料理", "地場グルメ"],
-    description: "富山県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
+    gourmet: ["富山県の獲れたて海鮮・ご当地名物", "地場グルメ"],
+    description: "富山県ならではの四季折々の自然美と豊かな歴史・食文化を心ゆくまで堪能する特別な旅のガイド。",
     bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
     subAreas: [
       {
         areaName: "富山・立山黒部・宇奈月温泉",
         slug: "toyama-unazuki",
-        description: "富山県を代表する観光名所・絶景スポット・名湯が凝縮された一番人気エリア。",
+        description: "富山・立山黒部・宇奈月温泉エリアを代表する観光名所や絶景、名物グルメが凝縮された大人気散策コース。",
         spots: [
-          { name: "富山・立山黒部・宇奈月温泉 代表名所", description: "富山県観光で絶対に訪れたい人気景勝地。" },
-          { name: "富山・立山黒部・宇奈月温泉 絶景スポット", description: "四季折々の風情と感動が広がる美しいロケーション。" }
+          { name: "富山・立山黒部・宇奈月温泉の歴史・伝統名所散策", description: "富山・立山黒部・宇奈月温泉で絶対に訪れたい歴史ある名所と風情あふれる街並み。" },
+          { name: "富山・立山黒部・宇奈月温泉の絶景・ビュースポット", description: "富山・立山黒部・宇奈月温泉ならではの四季折々の絶景と感動が広がる美しいロケーション。" },
         ],
-        gourmet: ["富山県名物料理", "ご当地グルメ"],
+        gourmet: ["富山県の獲れたて海鮮・ご当地名物", "老舗の味・名物グルメ"],
         keywords: ["富山県", "富山・立山黒部・宇奈月温泉"],
         subAreaHotels: [
             {
@@ -1855,43 +1789,37 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
     name: "福井県",
     region: "甲信越・北陸",
     highlights: ["あわら温泉・敦賀・若狭名所", "福井県名物", "絶景温泉"],
-    gourmet: ["福井県名物料理", "地場グルメ"],
-    description: "福井県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
+    gourmet: ["福井県の獲れたて海鮮・ご当地名物", "地場グルメ"],
+    description: "福井県ならではの四季折々の自然美と豊かな歴史・食文化を心ゆくまで堪能する特別な旅のガイド。",
     bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
     subAreas: [
       {
         areaName: "あわら温泉・敦賀・若狭",
         slug: "awara-tsuruga",
-        description: "福井県を代表する観光名所・絶景スポット・名湯が凝縮された一番人気エリア。",
+        description: "あわら温泉・敦賀・若狭エリアを代表する観光名所や絶景、名物グルメが凝縮された大人気散策コース。",
         spots: [
-          { name: "あわら温泉・敦賀・若狭 代表名所", description: "福井県観光で絶対に訪れたい人気景勝地。" },
-          { name: "あわら温泉・敦賀・若狭 絶景スポット", description: "四季折々の風情と感動が広がる美しいロケーション。" }
+          { name: "あわら温泉・敦賀・若狭の歴史・伝統名所散策", description: "あわら温泉・敦賀・若狭で絶対に訪れたい歴史ある名所と風情あふれる街並み。" },
+          { name: "あわら温泉・敦賀・若狭の絶景・ビュースポット", description: "あわら温泉・敦賀・若狭ならではの四季折々の絶景と感動が広がる美しいロケーション。" },
         ],
-        gourmet: ["福井県名物料理", "ご当地グルメ"],
+        gourmet: ["福井県の獲れたて海鮮・ご当地名物", "老舗の味・名物グルメ"],
         keywords: ["福井県", "あわら温泉・敦賀・若狭"],
         subAreaHotels: [
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "あわら温泉・敦賀・若狭",
-                        "postId": "50242",
+                        "hotelName": "あわらの隠れ宿　ゆ楽　ＹＵＲＡＫＵ",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/50242/50242.jpg",
                         "price": 13500,
                         "rating": 4.6,
                         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/50242/50242.html"
             },
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "あわら温泉・敦賀・若狭",
-                        "postId": "27722",
+                        "hotelName": "あわら温泉　政竜閣",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/27722/27722.jpg",
                         "price": 13500,
                         "rating": 4.6,
                         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/27722/27722.html"
             },
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "あわら温泉・敦賀・若狭",
-                        "postId": "50247",
+                        "hotelName": "あわら温泉　ぐらばあ亭　お月見露天の宿",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/50247/50247.jpg",
                         "price": 13500,
                         "rating": 4.6,
@@ -1963,43 +1891,37 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
     name: "山梨県",
     region: "甲信越・北陸",
     highlights: ["富士五湖・河口湖・石和温泉名所", "山梨県名物", "絶景温泉"],
-    gourmet: ["山梨県名物料理", "地場グルメ"],
-    description: "山梨県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
+    gourmet: ["山梨県の獲れたて海鮮・ご当地名物", "地場グルメ"],
+    description: "山梨県ならではの四季折々の自然美と豊かな歴史・食文化を心ゆくまで堪能する特別な旅のガイド。",
     bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
     subAreas: [
       {
         areaName: "富士五湖・河口湖・石和温泉",
         slug: "fujigoko-isawa",
-        description: "山梨県を代表する観光名所・絶景スポット・名湯が凝縮された一番人気エリア。",
+        description: "富士五湖・河口湖・石和温泉エリアを代表する観光名所や絶景、名物グルメが凝縮された大人気散策コース。",
         spots: [
-          { name: "富士五湖・河口湖・石和温泉 代表名所", description: "山梨県観光で絶対に訪れたい人気景勝地。" },
-          { name: "富士五湖・河口湖・石和温泉 絶景スポット", description: "四季折々の風情と感動が広がる美しいロケーション。" }
+          { name: "富士五湖・河口湖・石和温泉の歴史・伝統名所散策", description: "富士五湖・河口湖・石和温泉で絶対に訪れたい歴史ある名所と風情あふれる街並み。" },
+          { name: "富士五湖・河口湖・石和温泉の絶景・ビュースポット", description: "富士五湖・河口湖・石和温泉ならではの四季折々の絶景と感動が広がる美しいロケーション。" },
         ],
-        gourmet: ["山梨県名物料理", "ご当地グルメ"],
+        gourmet: ["山梨県の獲れたて海鮮・ご当地名物", "老舗の味・名物グルメ"],
         keywords: ["山梨県", "富士五湖・河口湖・石和温泉"],
         subAreaHotels: [
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "富士五湖・河口湖・石和温泉",
-                        "postId": "4862",
+                        "hotelName": "貸別荘　プライベートリゾートパインツリー",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/4862/4862.jpg",
                         "price": 13500,
                         "rating": 4.6,
                         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/4862/4862.html"
             },
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "富士五湖・河口湖・石和温泉",
-                        "postId": "130481",
+                        "hotelName": "フジプレミアムリゾート",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/130481/130481.jpg",
                         "price": 13500,
                         "rating": 4.6,
                         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/130481/130481.html"
             },
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "富士五湖・河口湖・石和温泉",
-                        "postId": "180416",
+                        "hotelName": "Ｄｏｔ　Ｇｌａｍｐｉｎｇ　富士山",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/180416/180416.jpg",
                         "price": 13500,
                         "rating": 4.6,
@@ -2071,19 +1993,19 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
     name: "長野県",
     region: "甲信越・北陸",
     highlights: ["軽井沢・上高地・白馬名所", "長野県名物", "絶景温泉"],
-    gourmet: ["長野県名物料理", "地場グルメ"],
-    description: "長野県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
+    gourmet: ["長野県の獲れたて海鮮・ご当地名物", "地場グルメ"],
+    description: "長野県ならではの四季折々の自然美と豊かな歴史・食文化を心ゆくまで堪能する特別な旅のガイド。",
     bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
     subAreas: [
       {
         areaName: "軽井沢・上高地・白馬",
         slug: "karuizawa-kamikochi",
-        description: "長野県を代表する観光名所・絶景スポット・名湯が凝縮された一番人気エリア。",
+        description: "軽井沢・上高地・白馬エリアを代表する観光名所や絶景、名物グルメが凝縮された大人気散策コース。",
         spots: [
-          { name: "軽井沢・上高地・白馬 代表名所", description: "長野県観光で絶対に訪れたい人気景勝地。" },
-          { name: "軽井沢・上高地・白馬 絶景スポット", description: "四季折々の風情と感動が広がる美しいロケーション。" }
+          { name: "軽井沢・上高地・白馬の歴史・伝統名所散策", description: "軽井沢・上高地・白馬で絶対に訪れたい歴史ある名所と風情あふれる街並み。" },
+          { name: "軽井沢・上高地・白馬の絶景・ビュースポット", description: "軽井沢・上高地・白馬ならではの四季折々の絶景と感動が広がる美しいロケーション。" },
         ],
-        gourmet: ["長野県名物料理", "ご当地グルメ"],
+        gourmet: ["長野県の獲れたて海鮮・ご当地名物", "老舗の味・名物グルメ"],
         keywords: ["長野県", "軽井沢・上高地・白馬"],
         subAreaHotels: [
             {
@@ -2167,43 +2089,37 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
     name: "岐阜県",
     region: "東海",
     highlights: ["飛騨高山・白川郷・下呂温泉名所", "岐阜県名物", "絶景温泉"],
-    gourmet: ["岐阜県名物料理", "地場グルメ"],
-    description: "岐阜県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
+    gourmet: ["岐阜県の獲れたて海鮮・ご当地名物", "地場グルメ"],
+    description: "岐阜県ならではの四季折々の自然美と豊かな歴史・食文化を心ゆくまで堪能する特別な旅のガイド。",
     bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
     subAreas: [
       {
         areaName: "飛騨高山・白川郷・下呂温泉",
         slug: "takayama-shirakawa",
-        description: "岐阜県を代表する観光名所・絶景スポット・名湯が凝縮された一番人気エリア。",
+        description: "飛騨高山・白川郷・下呂温泉エリアを代表する観光名所や絶景、名物グルメが凝縮された大人気散策コース。",
         spots: [
-          { name: "飛騨高山・白川郷・下呂温泉 代表名所", description: "岐阜県観光で絶対に訪れたい人気景勝地。" },
-          { name: "飛騨高山・白川郷・下呂温泉 絶景スポット", description: "四季折々の風情と感動が広がる美しいロケーション。" }
+          { name: "飛騨高山・白川郷・下呂温泉の歴史・伝統名所散策", description: "飛騨高山・白川郷・下呂温泉で絶対に訪れたい歴史ある名所と風情あふれる街並み。" },
+          { name: "飛騨高山・白川郷・下呂温泉の絶景・ビュースポット", description: "飛騨高山・白川郷・下呂温泉ならではの四季折々の絶景と感動が広がる美しいロケーション。" },
         ],
-        gourmet: ["岐阜県名物料理", "ご当地グルメ"],
+        gourmet: ["岐阜県の獲れたて海鮮・ご当地名物", "老舗の味・名物グルメ"],
         keywords: ["岐阜県", "飛騨高山・白川郷・下呂温泉"],
         subAreaHotels: [
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "飛騨高山・白川郷・下呂温泉",
-                        "postId": "199118",
+                        "hotelName": "たびのホテルＢａｓｅ高山駅前",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/199118/199118.jpg",
                         "price": 13500,
                         "rating": 4.6,
                         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/199118/199118.html"
             },
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "飛騨高山・白川郷・下呂温泉",
-                        "postId": "166277",
+                        "hotelName": "ワットホテル＆スパ飛騨高山",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/166277/166277.jpg",
                         "price": 13500,
                         "rating": 4.6,
                         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/166277/166277.html"
             },
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "飛騨高山・白川郷・下呂温泉",
-                        "postId": "8326",
+                        "hotelName": "飛騨高山　本陣平野屋　光風館（旧：飛騨高山　本陣平野屋　別館）",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/8326/8326.jpg",
                         "price": 13500,
                         "rating": 4.6,
@@ -2275,43 +2191,37 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
     name: "静岡県",
     region: "東海",
     highlights: ["熱海・伊東・伊豆高原名所", "静岡県名物", "絶景温泉"],
-    gourmet: ["静岡県名物料理", "地場グルメ"],
-    description: "静岡県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
+    gourmet: ["静岡県の獲れたて海鮮・ご当地名物", "地場グルメ"],
+    description: "静岡県ならではの四季折々の自然美と豊かな歴史・食文化を心ゆくまで堪能する特別な旅のガイド。",
     bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
     subAreas: [
       {
         areaName: "熱海・伊東・伊豆高原",
         slug: "atami-ito",
-        description: "静岡県を代表する観光名所・絶景スポット・名湯が凝縮された一番人気エリア。",
+        description: "熱海・伊東・伊豆高原エリアを代表する観光名所や絶景、名物グルメが凝縮された大人気散策コース。",
         spots: [
-          { name: "熱海・伊東・伊豆高原 代表名所", description: "静岡県観光で絶対に訪れたい人気景勝地。" },
-          { name: "熱海・伊東・伊豆高原 絶景スポット", description: "四季折々の風情と感動が広がる美しいロケーション。" }
+          { name: "熱海・伊東・伊豆高原の歴史・伝統名所散策", description: "熱海・伊東・伊豆高原で絶対に訪れたい歴史ある名所と風情あふれる街並み。" },
+          { name: "熱海・伊東・伊豆高原の絶景・ビュースポット", description: "熱海・伊東・伊豆高原ならではの四季折々の絶景と感動が広がる美しいロケーション。" },
         ],
-        gourmet: ["静岡県名物料理", "ご当地グルメ"],
+        gourmet: ["静岡県の獲れたて海鮮・ご当地名物", "老舗の味・名物グルメ"],
         keywords: ["静岡県", "熱海・伊東・伊豆高原"],
         subAreaHotels: [
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "熱海・伊東・伊豆高原",
-                        "postId": "29878",
+                        "hotelName": "熱海温泉ホテル　夢いろは",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/29878/29878.jpg",
                         "price": 13500,
                         "rating": 4.6,
                         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/29878/29878.html"
             },
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "熱海・伊東・伊豆高原",
-                        "postId": "7616",
+                        "hotelName": "熱海温泉　味と湯の宿　ニューとみよし",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/7616/7616.jpg",
                         "price": 13500,
                         "rating": 4.6,
                         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/7616/7616.html"
             },
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "熱海・伊東・伊豆高原",
-                        "postId": "3044",
+                        "hotelName": "熱海温泉　山木旅館",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/3044/3044.jpg",
                         "price": 13500,
                         "rating": 4.6,
@@ -2383,19 +2293,19 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
     name: "愛知県",
     region: "東海",
     highlights: ["名古屋・知多半島名所", "愛知県名物", "絶景温泉"],
-    gourmet: ["愛知県名物料理", "地場グルメ"],
-    description: "愛知県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
+    gourmet: ["愛知県の獲れたて海鮮・ご当地名物", "地場グルメ"],
+    description: "愛知県ならではの四季折々の自然美と豊かな歴史・食文化を心ゆくまで堪能する特別な旅のガイド。",
     bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
     subAreas: [
       {
         areaName: "名古屋・知多半島",
         slug: "nagoya-chita",
-        description: "愛知県を代表する観光名所・絶景スポット・名湯が凝縮された一番人気エリア。",
+        description: "名古屋・知多半島エリアを代表する観光名所や絶景、名物グルメが凝縮された大人気散策コース。",
         spots: [
-          { name: "名古屋・知多半島 代表名所", description: "愛知県観光で絶対に訪れたい人気景勝地。" },
-          { name: "名古屋・知多半島 絶景スポット", description: "四季折々の風情と感動が広がる美しいロケーション。" }
+          { name: "名古屋・知多半島の歴史・伝統名所散策", description: "名古屋・知多半島で絶対に訪れたい歴史ある名所と風情あふれる街並み。" },
+          { name: "名古屋・知多半島の絶景・ビュースポット", description: "名古屋・知多半島ならではの四季折々の絶景と感動が広がる美しいロケーション。" },
         ],
-        gourmet: ["愛知県名物料理", "ご当地グルメ"],
+        gourmet: ["愛知県の獲れたて海鮮・ご当地名物", "老舗の味・名物グルメ"],
         keywords: ["愛知県", "名古屋・知多半島"],
         subAreaHotels: [
             {
@@ -2479,43 +2389,37 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
     name: "三重県",
     region: "東海",
     highlights: ["伊勢神宮・志摩・鳥羽名所", "三重県名物", "絶景温泉"],
-    gourmet: ["三重県名物料理", "地場グルメ"],
-    description: "三重県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
+    gourmet: ["三重県の獲れたて海鮮・ご当地名物", "地場グルメ"],
+    description: "三重県ならではの四季折々の自然美と豊かな歴史・食文化を心ゆくまで堪能する特別な旅のガイド。",
     bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
     subAreas: [
       {
         areaName: "伊勢神宮・志摩・鳥羽",
         slug: "ise-shima",
-        description: "三重県を代表する観光名所・絶景スポット・名湯が凝縮された一番人気エリア。",
+        description: "伊勢神宮・志摩・鳥羽エリアを代表する観光名所や絶景、名物グルメが凝縮された大人気散策コース。",
         spots: [
-          { name: "伊勢神宮・志摩・鳥羽 代表名所", description: "三重県観光で絶対に訪れたい人気景勝地。" },
-          { name: "伊勢神宮・志摩・鳥羽 絶景スポット", description: "四季折々の風情と感動が広がる美しいロケーション。" }
+          { name: "伊勢神宮・志摩・鳥羽の歴史・伝統名所散策", description: "伊勢神宮・志摩・鳥羽で絶対に訪れたい歴史ある名所と風情あふれる街並み。" },
+          { name: "伊勢神宮・志摩・鳥羽の絶景・ビュースポット", description: "伊勢神宮・志摩・鳥羽ならではの四季折々の絶景と感動が広がる美しいロケーション。" },
         ],
-        gourmet: ["三重県名物料理", "ご当地グルメ"],
+        gourmet: ["三重県の獲れたて海鮮・ご当地名物", "老舗の味・名物グルメ"],
         keywords: ["三重県", "伊勢神宮・志摩・鳥羽"],
         subAreaHotels: [
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "伊勢神宮・志摩・鳥羽",
-                        "postId": "5545",
+                        "hotelName": "味の宿　みち潮",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/5545/5545.jpg",
                         "price": 13500,
                         "rating": 4.6,
                         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/5545/5545.html"
             },
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "伊勢神宮・志摩・鳥羽",
-                        "postId": "12598",
+                        "hotelName": "はなしんすい　&#65293;芭新萃&#65293;",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/12598/12598.jpg",
                         "price": 13500,
                         "rating": 4.6,
                         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/12598/12598.html"
             },
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "伊勢神宮・志摩・鳥羽",
-                        "postId": "188466",
+                        "hotelName": "お宿行灯鳥羽（ＤＬＩＧＨＴ　ＬＩＦＥ　＆　ＨＯＴＥＬＳ）",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/188466/188466.jpg",
                         "price": 13500,
                         "rating": 4.6,
@@ -2587,19 +2491,19 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
     name: "滋賀県",
     region: "近畿",
     highlights: ["琵琶湖・彦根・長浜名所", "滋賀県名物", "絶景温泉"],
-    gourmet: ["滋賀県名物料理", "地場グルメ"],
-    description: "滋賀県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
+    gourmet: ["滋賀県の獲れたて海鮮・ご当地名物", "地場グルメ"],
+    description: "滋賀県ならではの四季折々の自然美と豊かな歴史・食文化を心ゆくまで堪能する特別な旅のガイド。",
     bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
     subAreas: [
       {
         areaName: "琵琶湖・彦根・長浜",
         slug: "biwako-hikone",
-        description: "滋賀県を代表する観光名所・絶景スポット・名湯が凝縮された一番人気エリア。",
+        description: "琵琶湖・彦根・長浜エリアを代表する観光名所や絶景、名物グルメが凝縮された大人気散策コース。",
         spots: [
-          { name: "琵琶湖・彦根・長浜 代表名所", description: "滋賀県観光で絶対に訪れたい人気景勝地。" },
-          { name: "琵琶湖・彦根・長浜 絶景スポット", description: "四季折々の風情と感動が広がる美しいロケーション。" }
+          { name: "琵琶湖・彦根・長浜の歴史・伝統名所散策", description: "琵琶湖・彦根・長浜で絶対に訪れたい歴史ある名所と風情あふれる街並み。" },
+          { name: "琵琶湖・彦根・長浜の絶景・ビュースポット", description: "琵琶湖・彦根・長浜ならではの四季折々の絶景と感動が広がる美しいロケーション。" },
         ],
-        gourmet: ["滋賀県名物料理", "ご当地グルメ"],
+        gourmet: ["滋賀県の獲れたて海鮮・ご当地名物", "老舗の味・名物グルメ"],
         keywords: ["滋賀県", "琵琶湖・彦根・長浜"],
         subAreaHotels: [
             {
@@ -2683,19 +2587,19 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
     name: "京都府",
     region: "近畿",
     highlights: ["嵐山・宇治・天橋立名所", "京都府名物", "絶景温泉"],
-    gourmet: ["京都府名物料理", "地場グルメ"],
-    description: "京都府の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
+    gourmet: ["京都府の獲れたて海鮮・ご当地名物", "地場グルメ"],
+    description: "京都府ならではの四季折々の自然美と豊かな歴史・食文化を心ゆくまで堪能する特別な旅のガイド。",
     bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
     subAreas: [
       {
         areaName: "嵐山・宇治・天橋立",
         slug: "arashiyama-uji",
-        description: "京都府を代表する観光名所・絶景スポット・名湯が凝縮された一番人気エリア。",
+        description: "嵐山・宇治・天橋立エリアを代表する観光名所や絶景、名物グルメが凝縮された大人気散策コース。",
         spots: [
-          { name: "嵐山・宇治・天橋立 代表名所", description: "京都府観光で絶対に訪れたい人気景勝地。" },
-          { name: "嵐山・宇治・天橋立 絶景スポット", description: "四季折々の風情と感動が広がる美しいロケーション。" }
+          { name: "嵐山・宇治・天橋立の歴史・伝統名所散策", description: "嵐山・宇治・天橋立で絶対に訪れたい歴史ある名所と風情あふれる街並み。" },
+          { name: "嵐山・宇治・天橋立の絶景・ビュースポット", description: "嵐山・宇治・天橋立ならではの四季折々の絶景と感動が広がる美しいロケーション。" },
         ],
-        gourmet: ["京都府名物料理", "ご当地グルメ"],
+        gourmet: ["京都府の獲れたて海鮮・ご当地名物", "老舗の味・名物グルメ"],
         keywords: ["京都府", "嵐山・宇治・天橋立"],
         subAreaHotels: [
             {
@@ -2779,19 +2683,19 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
     name: "大阪府",
     region: "近畿",
     highlights: ["難波・梅田・ベイエリア名所", "大阪府名物", "絶景温泉"],
-    gourmet: ["大阪府名物料理", "地場グルメ"],
-    description: "大阪府の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
+    gourmet: ["大阪府の獲れたて海鮮・ご当地名物", "地場グルメ"],
+    description: "大阪府ならではの四季折々の自然美と豊かな歴史・食文化を心ゆくまで堪能する特別な旅のガイド。",
     bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
     subAreas: [
       {
         areaName: "難波・梅田・ベイエリア",
         slug: "namba-umeda",
-        description: "大阪府を代表する観光名所・絶景スポット・名湯が凝縮された一番人気エリア。",
+        description: "難波・梅田・ベイエリアエリアを代表する観光名所や絶景、名物グルメが凝縮された大人気散策コース。",
         spots: [
-          { name: "難波・梅田・ベイエリア 代表名所", description: "大阪府観光で絶対に訪れたい人気景勝地。" },
-          { name: "難波・梅田・ベイエリア 絶景スポット", description: "四季折々の風情と感動が広がる美しいロケーション。" }
+          { name: "難波・梅田・ベイエリアの歴史・伝統名所散策", description: "難波・梅田・ベイエリアで絶対に訪れたい歴史ある名所と風情あふれる街並み。" },
+          { name: "難波・梅田・ベイエリアの絶景・ビュースポット", description: "難波・梅田・ベイエリアならではの四季折々の絶景と感動が広がる美しいロケーション。" },
         ],
-        gourmet: ["大阪府名物料理", "ご当地グルメ"],
+        gourmet: ["大阪府の獲れたて海鮮・ご当地名物", "老舗の味・名物グルメ"],
         keywords: ["大阪府", "難波・梅田・ベイエリア"],
         subAreaHotels: [
             {
@@ -2875,19 +2779,19 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
     name: "兵庫県",
     region: "近畿",
     highlights: ["有馬温泉・城崎温泉・神戸名所", "兵庫県名物", "絶景温泉"],
-    gourmet: ["兵庫県名物料理", "地場グルメ"],
-    description: "兵庫県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
+    gourmet: ["兵庫県の獲れたて海鮮・ご当地名物", "地場グルメ"],
+    description: "兵庫県ならではの四季折々の自然美と豊かな歴史・食文化を心ゆくまで堪能する特別な旅のガイド。",
     bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
     subAreas: [
       {
         areaName: "有馬温泉・城崎温泉・神戸",
         slug: "arima-kinosaki",
-        description: "兵庫県を代表する観光名所・絶景スポット・名湯が凝縮された一番人気エリア。",
+        description: "有馬温泉・城崎温泉・神戸エリアを代表する観光名所や絶景、名物グルメが凝縮された大人気散策コース。",
         spots: [
-          { name: "有馬温泉・城崎温泉・神戸 代表名所", description: "兵庫県観光で絶対に訪れたい人気景勝地。" },
-          { name: "有馬温泉・城崎温泉・神戸 絶景スポット", description: "四季折々の風情と感動が広がる美しいロケーション。" }
+          { name: "有馬温泉・城崎温泉・神戸の歴史・伝統名所散策", description: "有馬温泉・城崎温泉・神戸で絶対に訪れたい歴史ある名所と風情あふれる街並み。" },
+          { name: "有馬温泉・城崎温泉・神戸の絶景・ビュースポット", description: "有馬温泉・城崎温泉・神戸ならではの四季折々の絶景と感動が広がる美しいロケーション。" },
         ],
-        gourmet: ["兵庫県名物料理", "ご当地グルメ"],
+        gourmet: ["兵庫県の獲れたて海鮮・ご当地名物", "老舗の味・名物グルメ"],
         keywords: ["兵庫県", "有馬温泉・城崎温泉・神戸"],
         subAreaHotels: [
             {
@@ -2971,43 +2875,37 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
     name: "奈良県",
     region: "近畿",
     highlights: ["奈良公園・吉野山名所", "奈良県名物", "絶景温泉"],
-    gourmet: ["奈良県名物料理", "地場グルメ"],
-    description: "奈良県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
+    gourmet: ["奈良県の獲れたて海鮮・ご当地名物", "地場グルメ"],
+    description: "奈良県ならではの四季折々の自然美と豊かな歴史・食文化を心ゆくまで堪能する特別な旅のガイド。",
     bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
     subAreas: [
       {
         areaName: "奈良公園・吉野山",
         slug: "nara-yoshino",
-        description: "奈良県を代表する観光名所・絶景スポット・名湯が凝縮された一番人気エリア。",
+        description: "奈良公園・吉野山エリアを代表する観光名所や絶景、名物グルメが凝縮された大人気散策コース。",
         spots: [
-          { name: "奈良公園・吉野山 代表名所", description: "奈良県観光で絶対に訪れたい人気景勝地。" },
-          { name: "奈良公園・吉野山 絶景スポット", description: "四季折々の風情と感動が広がる美しいロケーション。" }
+          { name: "奈良公園・吉野山の歴史・伝統名所散策", description: "奈良公園・吉野山で絶対に訪れたい歴史ある名所と風情あふれる街並み。" },
+          { name: "奈良公園・吉野山の絶景・ビュースポット", description: "奈良公園・吉野山ならではの四季折々の絶景と感動が広がる美しいロケーション。" },
         ],
-        gourmet: ["奈良県名物料理", "ご当地グルメ"],
+        gourmet: ["奈良県の獲れたて海鮮・ご当地名物", "老舗の味・名物グルメ"],
         keywords: ["奈良県", "奈良公園・吉野山"],
         subAreaHotels: [
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "奈良公園・吉野山",
-                        "postId": "8045",
+                        "hotelName": "ＡＮＤＯ　ＨＯＴＥＬ　奈良若草山（ＤＬＩＧＨＴ　ＬＩＦＥ　＆　ＨＯＴＥＬＳ）",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/8045/8045.jpg",
                         "price": 13500,
                         "rating": 4.6,
                         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/8045/8045.html"
             },
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "奈良公園・吉野山",
-                        "postId": "188878",
+                        "hotelName": "翠門亭",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/188878/188878.jpg",
                         "price": 13500,
                         "rating": 4.6,
                         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/188878/188878.html"
             },
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "奈良公園・吉野山",
-                        "postId": "76939",
+                        "hotelName": "天然温泉　飛鳥の湯　スーパーホテルＰｒｅｍｉｅｒＪＲ奈良駅",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/76939/76939.jpg",
                         "price": 13500,
                         "rating": 4.6,
@@ -3079,43 +2977,37 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
     name: "和歌山県",
     region: "近畿",
     highlights: ["白浜温泉・勝浦・高野山名所", "和歌山県名物", "絶景温泉"],
-    gourmet: ["和歌山県名物料理", "地場グルメ"],
-    description: "和歌山県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
+    gourmet: ["和歌山県の獲れたて海鮮・ご当地名物", "地場グルメ"],
+    description: "和歌山県ならではの四季折々の自然美と豊かな歴史・食文化を心ゆくまで堪能する特別な旅のガイド。",
     bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
     subAreas: [
       {
         areaName: "白浜温泉・勝浦・高野山",
         slug: "shirahama-katsuura",
-        description: "和歌山県を代表する観光名所・絶景スポット・名湯が凝縮された一番人気エリア。",
+        description: "白浜温泉・勝浦・高野山エリアを代表する観光名所や絶景、名物グルメが凝縮された大人気散策コース。",
         spots: [
-          { name: "白浜温泉・勝浦・高野山 代表名所", description: "和歌山県観光で絶対に訪れたい人気景勝地。" },
-          { name: "白浜温泉・勝浦・高野山 絶景スポット", description: "四季折々の風情と感動が広がる美しいロケーション。" }
+          { name: "白浜温泉・勝浦・高野山の歴史・伝統名所散策", description: "白浜温泉・勝浦・高野山で絶対に訪れたい歴史ある名所と風情あふれる街並み。" },
+          { name: "白浜温泉・勝浦・高野山の絶景・ビュースポット", description: "白浜温泉・勝浦・高野山ならではの四季折々の絶景と感動が広がる美しいロケーション。" },
         ],
-        gourmet: ["和歌山県名物料理", "ご当地グルメ"],
+        gourmet: ["和歌山県の獲れたて海鮮・ご当地名物", "老舗の味・名物グルメ"],
         keywords: ["和歌山県", "白浜温泉・勝浦・高野山"],
         subAreaHotels: [
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "白浜温泉・勝浦・高野山",
-                        "postId": "8226",
+                        "hotelName": "白浜温泉　ホテル三楽荘",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/8226/8226.jpg",
                         "price": 13500,
                         "rating": 4.6,
                         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/8226/8226.html"
             },
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "白浜温泉・勝浦・高野山",
-                        "postId": "9133",
+                        "hotelName": "白浜温泉　家族とすごす白浜の宿　柳屋",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/9133/9133.jpg",
                         "price": 13500,
                         "rating": 4.6,
                         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/9133/9133.html"
             },
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "白浜温泉・勝浦・高野山",
-                        "postId": "8113",
+                        "hotelName": "白浜温泉　民宿Ａコース",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/8113/8113.jpg",
                         "price": 13500,
                         "rating": 4.6,
@@ -3187,19 +3079,19 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
     name: "鳥取県",
     region: "中国",
     highlights: ["鳥取砂丘・皆生温泉・三朝温泉名所", "鳥取県名物", "絶景温泉"],
-    gourmet: ["鳥取県名物料理", "地場グルメ"],
-    description: "鳥取県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
+    gourmet: ["鳥取県の獲れたて海鮮・ご当地名物", "地場グルメ"],
+    description: "鳥取県ならではの四季折々の自然美と豊かな歴史・食文化を心ゆくまで堪能する特別な旅のガイド。",
     bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
     subAreas: [
       {
         areaName: "鳥取砂丘・皆生温泉・三朝温泉",
         slug: "sakaiminato-misasa",
-        description: "鳥取県を代表する観光名所・絶景スポット・名湯が凝縮された一番人気エリア。",
+        description: "鳥取砂丘・皆生温泉・三朝温泉エリアを代表する観光名所や絶景、名物グルメが凝縮された大人気散策コース。",
         spots: [
-          { name: "鳥取砂丘・皆生温泉・三朝温泉 代表名所", description: "鳥取県観光で絶対に訪れたい人気景勝地。" },
-          { name: "鳥取砂丘・皆生温泉・三朝温泉 絶景スポット", description: "四季折々の風情と感動が広がる美しいロケーション。" }
+          { name: "鳥取砂丘・皆生温泉・三朝温泉の歴史・伝統名所散策", description: "鳥取砂丘・皆生温泉・三朝温泉で絶対に訪れたい歴史ある名所と風情あふれる街並み。" },
+          { name: "鳥取砂丘・皆生温泉・三朝温泉の絶景・ビュースポット", description: "鳥取砂丘・皆生温泉・三朝温泉ならではの四季折々の絶景と感動が広がる美しいロケーション。" },
         ],
-        gourmet: ["鳥取県名物料理", "ご当地グルメ"],
+        gourmet: ["鳥取県の獲れたて海鮮・ご当地名物", "老舗の味・名物グルメ"],
         keywords: ["鳥取県", "鳥取砂丘・皆生温泉・三朝温泉"],
         subAreaHotels: [
             {
@@ -3283,19 +3175,19 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
     name: "島根県",
     region: "中国",
     highlights: ["出雲大社・松江・玉造温泉名所", "島根県名物", "絶景温泉"],
-    gourmet: ["島根県名物料理", "地場グルメ"],
-    description: "島根県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
+    gourmet: ["島根県の獲れたて海鮮・ご当地名物", "地場グルメ"],
+    description: "島根県ならではの四季折々の自然美と豊かな歴史・食文化を心ゆくまで堪能する特別な旅のガイド。",
     bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
     subAreas: [
       {
         areaName: "出雲大社・松江・玉造温泉",
         slug: "izumo-matsue",
-        description: "島根県を代表する観光名所・絶景スポット・名湯が凝縮された一番人気エリア。",
+        description: "出雲大社・松江・玉造温泉エリアを代表する観光名所や絶景、名物グルメが凝縮された大人気散策コース。",
         spots: [
-          { name: "出雲大社・松江・玉造温泉 代表名所", description: "島根県観光で絶対に訪れたい人気景勝地。" },
-          { name: "出雲大社・松江・玉造温泉 絶景スポット", description: "四季折々の風情と感動が広がる美しいロケーション。" }
+          { name: "出雲大社・松江・玉造温泉の歴史・伝統名所散策", description: "出雲大社・松江・玉造温泉で絶対に訪れたい歴史ある名所と風情あふれる街並み。" },
+          { name: "出雲大社・松江・玉造温泉の絶景・ビュースポット", description: "出雲大社・松江・玉造温泉ならではの四季折々の絶景と感動が広がる美しいロケーション。" },
         ],
-        gourmet: ["島根県名物料理", "ご当地グルメ"],
+        gourmet: ["島根県の獲れたて海鮮・ご当地名物", "老舗の味・名物グルメ"],
         keywords: ["島根県", "出雲大社・松江・玉造温泉"],
         subAreaHotels: [
             {
@@ -3379,43 +3271,37 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
     name: "岡山県",
     region: "中国",
     highlights: ["倉敷美観地区・後楽園名所", "岡山県名物", "絶景温泉"],
-    gourmet: ["岡山県名物料理", "地場グルメ"],
-    description: "岡山県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
+    gourmet: ["岡山県の獲れたて海鮮・ご当地名物", "地場グルメ"],
+    description: "岡山県ならではの四季折々の自然美と豊かな歴史・食文化を心ゆくまで堪能する特別な旅のガイド。",
     bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
     subAreas: [
       {
         areaName: "倉敷美観地区・後楽園",
         slug: "kurashiki-korakuen",
-        description: "岡山県を代表する観光名所・絶景スポット・名湯が凝縮された一番人気エリア。",
+        description: "倉敷美観地区・後楽園エリアを代表する観光名所や絶景、名物グルメが凝縮された大人気散策コース。",
         spots: [
-          { name: "倉敷美観地区・後楽園 代表名所", description: "岡山県観光で絶対に訪れたい人気景勝地。" },
-          { name: "倉敷美観地区・後楽園 絶景スポット", description: "四季折々の風情と感動が広がる美しいロケーション。" }
+          { name: "倉敷美観地区・後楽園の歴史・伝統名所散策", description: "倉敷美観地区・後楽園で絶対に訪れたい歴史ある名所と風情あふれる街並み。" },
+          { name: "倉敷美観地区・後楽園の絶景・ビュースポット", description: "倉敷美観地区・後楽園ならではの四季折々の絶景と感動が広がる美しいロケーション。" },
         ],
-        gourmet: ["岡山県名物料理", "ご当地グルメ"],
+        gourmet: ["岡山県の獲れたて海鮮・ご当地名物", "老舗の味・名物グルメ"],
         keywords: ["岡山県", "倉敷美観地区・後楽園"],
         subAreaHotels: [
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "倉敷美観地区・後楽園",
-                        "postId": "147499",
+                        "hotelName": "倉敷ロイヤルアートホテル",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/147499/147499.jpg",
                         "price": 13500,
                         "rating": 4.6,
                         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/147499/147499.html"
             },
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "倉敷美観地区・後楽園",
-                        "postId": "182714",
+                        "hotelName": "ホテル　グラン・ココエ倉敷",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/182714/182714.jpg",
                         "price": 13500,
                         "rating": 4.6,
                         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/182714/182714.html"
             },
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "倉敷美観地区・後楽園",
-                        "postId": "799",
+                        "hotelName": "倉敷シーサイドホテル",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/799/799.jpg",
                         "price": 13500,
                         "rating": 4.6,
@@ -3487,43 +3373,37 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
     name: "広島県",
     region: "中国",
     highlights: ["宮島・厳島神社・尾道名所", "広島県名物", "絶景温泉"],
-    gourmet: ["広島県名物料理", "地場グルメ"],
-    description: "広島県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
+    gourmet: ["広島県の獲れたて海鮮・ご当地名物", "地場グルメ"],
+    description: "広島県ならではの四季折々の自然美と豊かな歴史・食文化を心ゆくまで堪能する特別な旅のガイド。",
     bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
     subAreas: [
       {
         areaName: "宮島・厳島神社・尾道",
         slug: "miyajima-onomichi",
-        description: "広島県を代表する観光名所・絶景スポット・名湯が凝縮された一番人気エリア。",
+        description: "宮島・厳島神社・尾道エリアを代表する観光名所や絶景、名物グルメが凝縮された大人気散策コース。",
         spots: [
-          { name: "宮島・厳島神社・尾道 代表名所", description: "広島県観光で絶対に訪れたい人気景勝地。" },
-          { name: "宮島・厳島神社・尾道 絶景スポット", description: "四季折々の風情と感動が広がる美しいロケーション。" }
+          { name: "宮島・厳島神社・尾道の歴史・伝統名所散策", description: "宮島・厳島神社・尾道で絶対に訪れたい歴史ある名所と風情あふれる街並み。" },
+          { name: "宮島・厳島神社・尾道の絶景・ビュースポット", description: "宮島・厳島神社・尾道ならではの四季折々の絶景と感動が広がる美しいロケーション。" },
         ],
-        gourmet: ["広島県名物料理", "ご当地グルメ"],
+        gourmet: ["広島県の獲れたて海鮮・ご当地名物", "老舗の味・名物グルメ"],
         keywords: ["広島県", "宮島・厳島神社・尾道"],
         subAreaHotels: [
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "宮島・厳島神社・尾道",
-                        "postId": "7754",
+                        "hotelName": "安芸グランドホテル",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/7754/7754.jpg",
                         "price": 13500,
                         "rating": 4.6,
                         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/7754/7754.html"
             },
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "宮島・厳島神社・尾道",
-                        "postId": "188903",
+                        "hotelName": "サンホテル大竹",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/188903/188903.jpg",
                         "price": 13500,
                         "rating": 4.6,
                         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/188903/188903.html"
             },
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "宮島・厳島神社・尾道",
-                        "postId": "180527",
+                        "hotelName": "グランヴィリオホテル宮島　和蔵　&#65293;ルートインホテルズ&#65293;",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/180527/180527.jpg",
                         "price": 13500,
                         "rating": 4.6,
@@ -3595,43 +3475,37 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
     name: "山口県",
     region: "中国",
     highlights: ["角島・萩・長門湯本温泉名所", "山口県名物", "絶景温泉"],
-    gourmet: ["山口県名物料理", "地場グルメ"],
-    description: "山口県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
+    gourmet: ["山口県の獲れたて海鮮・ご当地名物", "地場グルメ"],
+    description: "山口県ならではの四季折々の自然美と豊かな歴史・食文化を心ゆくまで堪能する特別な旅のガイド。",
     bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
     subAreas: [
       {
         areaName: "角島・萩・長門湯本温泉",
         slug: "tsunoshima-hagi",
-        description: "山口県を代表する観光名所・絶景スポット・名湯が凝縮された一番人気エリア。",
+        description: "角島・萩・長門湯本温泉エリアを代表する観光名所や絶景、名物グルメが凝縮された大人気散策コース。",
         spots: [
-          { name: "角島・萩・長門湯本温泉 代表名所", description: "山口県観光で絶対に訪れたい人気景勝地。" },
-          { name: "角島・萩・長門湯本温泉 絶景スポット", description: "四季折々の風情と感動が広がる美しいロケーション。" }
+          { name: "角島・萩・長門湯本温泉の歴史・伝統名所散策", description: "角島・萩・長門湯本温泉で絶対に訪れたい歴史ある名所と風情あふれる街並み。" },
+          { name: "角島・萩・長門湯本温泉の絶景・ビュースポット", description: "角島・萩・長門湯本温泉ならではの四季折々の絶景と感動が広がる美しいロケーション。" },
         ],
-        gourmet: ["山口県名物料理", "ご当地グルメ"],
+        gourmet: ["山口県の獲れたて海鮮・ご当地名物", "老舗の味・名物グルメ"],
         keywords: ["山口県", "角島・萩・長門湯本温泉"],
         subAreaHotels: [
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "角島・萩・長門湯本温泉",
-                        "postId": "147160",
+                        "hotelName": "萩温泉郷　海が奏でる癒しの宿　リゾートホテル美萩",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/147160/147160.jpg",
                         "price": 13500,
                         "rating": 4.6,
                         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/147160/147160.html"
             },
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "角島・萩・長門湯本温泉",
-                        "postId": "7243",
+                        "hotelName": "長門湯本温泉　湯本観光ホテル　西京",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/7243/7243.jpg",
                         "price": 13500,
                         "rating": 4.6,
                         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/7243/7243.html"
             },
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "角島・萩・長門湯本温泉",
-                        "postId": "54096",
+                        "hotelName": "萩温泉郷　夕景の宿　海のゆりかご　萩小町",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/54096/54096.jpg",
                         "price": 13500,
                         "rating": 4.6,
@@ -3703,19 +3577,19 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
     name: "徳島県",
     region: "四国",
     highlights: ["鳴門・祖谷渓温泉名所", "徳島県名物", "絶景温泉"],
-    gourmet: ["徳島県名物料理", "地場グルメ"],
-    description: "徳島県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
+    gourmet: ["徳島県の獲れたて海鮮・ご当地名物", "地場グルメ"],
+    description: "徳島県ならではの四季折々の自然美と豊かな歴史・食文化を心ゆくまで堪能する特別な旅のガイド。",
     bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
     subAreas: [
       {
         areaName: "鳴門・祖谷渓温泉",
         slug: "naruto-iya",
-        description: "徳島県を代表する観光名所・絶景スポット・名湯が凝縮された一番人気エリア。",
+        description: "鳴門・祖谷渓温泉エリアを代表する観光名所や絶景、名物グルメが凝縮された大人気散策コース。",
         spots: [
-          { name: "鳴門・祖谷渓温泉 代表名所", description: "徳島県観光で絶対に訪れたい人気景勝地。" },
-          { name: "鳴門・祖谷渓温泉 絶景スポット", description: "四季折々の風情と感動が広がる美しいロケーション。" }
+          { name: "鳴門・祖谷渓温泉の歴史・伝統名所散策", description: "鳴門・祖谷渓温泉で絶対に訪れたい歴史ある名所と風情あふれる街並み。" },
+          { name: "鳴門・祖谷渓温泉の絶景・ビュースポット", description: "鳴門・祖谷渓温泉ならではの四季折々の絶景と感動が広がる美しいロケーション。" },
         ],
-        gourmet: ["徳島県名物料理", "ご当地グルメ"],
+        gourmet: ["徳島県の獲れたて海鮮・ご当地名物", "老舗の味・名物グルメ"],
         keywords: ["徳島県", "鳴門・祖谷渓温泉"],
         subAreaHotels: [
             {
@@ -3799,43 +3673,37 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
     name: "香川県",
     region: "四国",
     highlights: ["琴平・金刀比羅宮・小豆島名所", "香川県名物", "絶景温泉"],
-    gourmet: ["香川県名物料理", "地場グルメ"],
-    description: "香川県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
+    gourmet: ["香川県の獲れたて海鮮・ご当地名物", "地場グルメ"],
+    description: "香川県ならではの四季折々の自然美と豊かな歴史・食文化を心ゆくまで堪能する特別な旅のガイド。",
     bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
     subAreas: [
       {
         areaName: "琴平・金刀比羅宮・小豆島",
         slug: "kotohira-shodoshima",
-        description: "香川県を代表する観光名所・絶景スポット・名湯が凝縮された一番人気エリア。",
+        description: "琴平・金刀比羅宮・小豆島エリアを代表する観光名所や絶景、名物グルメが凝縮された大人気散策コース。",
         spots: [
-          { name: "琴平・金刀比羅宮・小豆島 代表名所", description: "香川県観光で絶対に訪れたい人気景勝地。" },
-          { name: "琴平・金刀比羅宮・小豆島 絶景スポット", description: "四季折々の風情と感動が広がる美しいロケーション。" }
+          { name: "琴平・金刀比羅宮・小豆島の歴史・伝統名所散策", description: "琴平・金刀比羅宮・小豆島で絶対に訪れたい歴史ある名所と風情あふれる街並み。" },
+          { name: "琴平・金刀比羅宮・小豆島の絶景・ビュースポット", description: "琴平・金刀比羅宮・小豆島ならではの四季折々の絶景と感動が広がる美しいロケーション。" },
         ],
-        gourmet: ["香川県名物料理", "ご当地グルメ"],
+        gourmet: ["香川県の獲れたて海鮮・ご当地名物", "老舗の味・名物グルメ"],
         keywords: ["香川県", "琴平・金刀比羅宮・小豆島"],
         subAreaHotels: [
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "琴平・金刀比羅宮・小豆島",
-                        "postId": "176626",
+                        "hotelName": "御宿　敷島館（共立リゾート）",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/176626/176626.jpg",
                         "price": 13500,
                         "rating": 4.6,
                         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/176626/176626.html"
             },
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "琴平・金刀比羅宮・小豆島",
-                        "postId": "5901",
+                        "hotelName": "湯元こんぴら温泉華の湯　紅梅亭",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/5901/5901.jpg",
                         "price": 13500,
                         "rating": 4.6,
                         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/5901/5901.html"
             },
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "琴平・金刀比羅宮・小豆島",
-                        "postId": "5900",
+                        "hotelName": "こんぴら温泉　琴平グランドホテル　桜の抄",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/5900/5900.jpg",
                         "price": 13500,
                         "rating": 4.6,
@@ -3907,19 +3775,19 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
     name: "愛媛県",
     region: "四国",
     highlights: ["道後温泉・しまなみ海道名所", "愛媛県名物", "絶景温泉"],
-    gourmet: ["愛媛県名物料理", "地場グルメ"],
-    description: "愛媛県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
+    gourmet: ["愛媛県の獲れたて海鮮・ご当地名物", "地場グルメ"],
+    description: "愛媛県ならではの四季折々の自然美と豊かな歴史・食文化を心ゆくまで堪能する特別な旅のガイド。",
     bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
     subAreas: [
       {
         areaName: "道後温泉・しまなみ海道",
         slug: "dogo-shimanami",
-        description: "愛媛県を代表する観光名所・絶景スポット・名湯が凝縮された一番人気エリア。",
+        description: "道後温泉・しまなみ海道エリアを代表する観光名所や絶景、名物グルメが凝縮された大人気散策コース。",
         spots: [
-          { name: "道後温泉・しまなみ海道 代表名所", description: "愛媛県観光で絶対に訪れたい人気景勝地。" },
-          { name: "道後温泉・しまなみ海道 絶景スポット", description: "四季折々の風情と感動が広がる美しいロケーション。" }
+          { name: "道後温泉・しまなみ海道の歴史・伝統名所散策", description: "道後温泉・しまなみ海道で絶対に訪れたい歴史ある名所と風情あふれる街並み。" },
+          { name: "道後温泉・しまなみ海道の絶景・ビュースポット", description: "道後温泉・しまなみ海道ならではの四季折々の絶景と感動が広がる美しいロケーション。" },
         ],
-        gourmet: ["愛媛県名物料理", "ご当地グルメ"],
+        gourmet: ["愛媛県の獲れたて海鮮・ご当地名物", "老舗の味・名物グルメ"],
         keywords: ["愛媛県", "道後温泉・しまなみ海道"],
         subAreaHotels: [
             {
@@ -4003,43 +3871,37 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
     name: "高知県",
     region: "四国",
     highlights: ["桂浜・四万十川名所", "高知県名物", "絶景温泉"],
-    gourmet: ["高知県名物料理", "地場グルメ"],
-    description: "高知県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
+    gourmet: ["高知県の獲れたて海鮮・ご当地名物", "地場グルメ"],
+    description: "高知県ならではの四季折々の自然美と豊かな歴史・食文化を心ゆくまで堪能する特別な旅のガイド。",
     bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
     subAreas: [
       {
         areaName: "桂浜・四万十川",
         slug: "katsurahama-shimanto",
-        description: "高知県を代表する観光名所・絶景スポット・名湯が凝縮された一番人気エリア。",
+        description: "桂浜・四万十川エリアを代表する観光名所や絶景、名物グルメが凝縮された大人気散策コース。",
         spots: [
-          { name: "桂浜・四万十川 代表名所", description: "高知県観光で絶対に訪れたい人気景勝地。" },
-          { name: "桂浜・四万十川 絶景スポット", description: "四季折々の風情と感動が広がる美しいロケーション。" }
+          { name: "桂浜・四万十川の歴史・伝統名所散策", description: "桂浜・四万十川で絶対に訪れたい歴史ある名所と風情あふれる街並み。" },
+          { name: "桂浜・四万十川の絶景・ビュースポット", description: "桂浜・四万十川ならではの四季折々の絶景と感動が広がる美しいロケーション。" },
         ],
-        gourmet: ["高知県名物料理", "ご当地グルメ"],
+        gourmet: ["高知県の獲れたて海鮮・ご当地名物", "老舗の味・名物グルメ"],
         keywords: ["高知県", "桂浜・四万十川"],
         subAreaHotels: [
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "桂浜・四万十川",
-                        "postId": "1553",
+                        "hotelName": "ホテルアベスト高知",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/1553/1553.jpg",
                         "price": 13500,
                         "rating": 4.6,
                         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/1553/1553.html"
             },
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "桂浜・四万十川",
-                        "postId": "54659",
+                        "hotelName": "セブンデイズホテルプラス",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/54659/54659.jpg",
                         "price": 13500,
                         "rating": 4.6,
                         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/54659/54659.html"
             },
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "桂浜・四万十川",
-                        "postId": "8724",
+                        "hotelName": "メルキュール高知土佐リゾート＆スパ",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/8724/8724.jpg",
                         "price": 13500,
                         "rating": 4.6,
@@ -4111,43 +3973,37 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
     name: "福岡県",
     region: "九州・沖縄",
     highlights: ["太宰府・糸島・柳川名所", "福岡県名物", "絶景温泉"],
-    gourmet: ["福岡県名物料理", "地場グルメ"],
-    description: "福岡県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
+    gourmet: ["福岡県の獲れたて海鮮・ご当地名物", "地場グルメ"],
+    description: "福岡県ならではの四季折々の自然美と豊かな歴史・食文化を心ゆくまで堪能する特別な旅のガイド。",
     bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
     subAreas: [
       {
         areaName: "太宰府・糸島・柳川",
         slug: "dazaifu-itoishima",
-        description: "福岡県を代表する観光名所・絶景スポット・名湯が凝縮された一番人気エリア。",
+        description: "太宰府・糸島・柳川エリアを代表する観光名所や絶景、名物グルメが凝縮された大人気散策コース。",
         spots: [
-          { name: "太宰府・糸島・柳川 代表名所", description: "福岡県観光で絶対に訪れたい人気景勝地。" },
-          { name: "太宰府・糸島・柳川 絶景スポット", description: "四季折々の風情と感動が広がる美しいロケーション。" }
+          { name: "太宰府・糸島・柳川の歴史・伝統名所散策", description: "太宰府・糸島・柳川で絶対に訪れたい歴史ある名所と風情あふれる街並み。" },
+          { name: "太宰府・糸島・柳川の絶景・ビュースポット", description: "太宰府・糸島・柳川ならではの四季折々の絶景と感動が広がる美しいロケーション。" },
         ],
-        gourmet: ["福岡県名物料理", "ご当地グルメ"],
+        gourmet: ["福岡県の獲れたて海鮮・ご当地名物", "老舗の味・名物グルメ"],
         keywords: ["福岡県", "太宰府・糸島・柳川"],
         subAreaHotels: [
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "太宰府・糸島・柳川",
-                        "postId": "108259",
+                        "hotelName": "ホテルアクティブ！博多",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/108259/108259.jpg",
                         "price": 13500,
                         "rating": 4.6,
                         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/108259/108259.html"
             },
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "太宰府・糸島・柳川",
-                        "postId": "5012",
+                        "hotelName": "天然温泉　八百治の湯　八百治博多ホテル",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/5012/5012.jpg",
                         "price": 13500,
                         "rating": 4.6,
                         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/5012/5012.html"
             },
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "太宰府・糸島・柳川",
-                        "postId": "165238",
+                        "hotelName": "ネストホテル博多駅前",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/165238/165238.jpg",
                         "price": 13500,
                         "rating": 4.6,
@@ -4219,43 +4075,37 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
     name: "佐賀県",
     region: "九州・沖縄",
     highlights: ["嬉野温泉・武雄・唐津名所", "佐賀県名物", "絶景温泉"],
-    gourmet: ["佐賀県名物料理", "地場グルメ"],
-    description: "佐賀県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
+    gourmet: ["佐賀県の獲れたて海鮮・ご当地名物", "地場グルメ"],
+    description: "佐賀県ならではの四季折々の自然美と豊かな歴史・食文化を心ゆくまで堪能する特別な旅のガイド。",
     bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
     subAreas: [
       {
         areaName: "嬉野温泉・武雄・唐津",
         slug: "ureseno-karatsu",
-        description: "佐賀県を代表する観光名所・絶景スポット・名湯が凝縮された一番人気エリア。",
+        description: "嬉野温泉・武雄・唐津エリアを代表する観光名所や絶景、名物グルメが凝縮された大人気散策コース。",
         spots: [
-          { name: "嬉野温泉・武雄・唐津 代表名所", description: "佐賀県観光で絶対に訪れたい人気景勝地。" },
-          { name: "嬉野温泉・武雄・唐津 絶景スポット", description: "四季折々の風情と感動が広がる美しいロケーション。" }
+          { name: "嬉野温泉・武雄・唐津の歴史・伝統名所散策", description: "嬉野温泉・武雄・唐津で絶対に訪れたい歴史ある名所と風情あふれる街並み。" },
+          { name: "嬉野温泉・武雄・唐津の絶景・ビュースポット", description: "嬉野温泉・武雄・唐津ならではの四季折々の絶景と感動が広がる美しいロケーション。" },
         ],
-        gourmet: ["佐賀県名物料理", "ご当地グルメ"],
+        gourmet: ["佐賀県の獲れたて海鮮・ご当地名物", "老舗の味・名物グルメ"],
         keywords: ["佐賀県", "嬉野温泉・武雄・唐津"],
         subAreaHotels: [
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "嬉野温泉・武雄・唐津",
-                        "postId": "68081",
+                        "hotelName": "セントラルホテル伊万里",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/68081/68081.jpg",
                         "price": 13500,
                         "rating": 4.6,
                         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/68081/68081.html"
             },
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "嬉野温泉・武雄・唐津",
-                        "postId": "40786",
+                        "hotelName": "嬉野温泉　旅館　吉田屋",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/40786/40786.jpg",
                         "price": 13500,
                         "rating": 4.6,
                         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/40786/40786.html"
             },
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "嬉野温泉・武雄・唐津",
-                        "postId": "40527",
+                        "hotelName": "嬉野温泉　和多屋別荘",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/40527/40527.jpg",
                         "price": 13500,
                         "rating": 4.6,
@@ -4327,43 +4177,37 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
     name: "長崎県",
     region: "九州・沖縄",
     highlights: ["ハウステンボス・雲仙温泉名所", "長崎県名物", "絶景温泉"],
-    gourmet: ["長崎県名物料理", "地場グルメ"],
-    description: "長崎県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
+    gourmet: ["長崎県の獲れたて海鮮・ご当地名物", "地場グルメ"],
+    description: "長崎県ならではの四季折々の自然美と豊かな歴史・食文化を心ゆくまで堪能する特別な旅のガイド。",
     bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
     subAreas: [
       {
         areaName: "ハウステンボス・雲仙温泉",
         slug: "huistenbosch-unzen",
-        description: "長崎県を代表する観光名所・絶景スポット・名湯が凝縮された一番人気エリア。",
+        description: "ハウステンボス・雲仙温泉エリアを代表する観光名所や絶景、名物グルメが凝縮された大人気散策コース。",
         spots: [
-          { name: "ハウステンボス・雲仙温泉 代表名所", description: "長崎県観光で絶対に訪れたい人気景勝地。" },
-          { name: "ハウステンボス・雲仙温泉 絶景スポット", description: "四季折々の風情と感動が広がる美しいロケーション。" }
+          { name: "ハウステンボス・雲仙温泉の歴史・伝統名所散策", description: "ハウステンボス・雲仙温泉で絶対に訪れたい歴史ある名所と風情あふれる街並み。" },
+          { name: "ハウステンボス・雲仙温泉の絶景・ビュースポット", description: "ハウステンボス・雲仙温泉ならではの四季折々の絶景と感動が広がる美しいロケーション。" },
         ],
-        gourmet: ["長崎県名物料理", "ご当地グルメ"],
+        gourmet: ["長崎県の獲れたて海鮮・ご当地名物", "老舗の味・名物グルメ"],
         keywords: ["長崎県", "ハウステンボス・雲仙温泉"],
         subAreaHotels: [
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "ハウステンボス・雲仙温泉",
-                        "postId": "7808",
+                        "hotelName": "弓張の丘ホテル",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/7808/7808.jpg",
                         "price": 13500,
                         "rating": 4.6,
                         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/7808/7808.html"
             },
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "ハウステンボス・雲仙温泉",
-                        "postId": "9157",
+                        "hotelName": "ホテルアムステルダム　ハウステンボス",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/9157/9157.jpg",
                         "price": 13500,
                         "rating": 4.6,
                         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/9157/9157.html"
             },
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "ハウステンボス・雲仙温泉",
-                        "postId": "53172",
+                        "hotelName": "クインテッサホテル佐世保",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/53172/53172.jpg",
                         "price": 13500,
                         "rating": 4.6,
@@ -4435,43 +4279,37 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
     name: "熊本県",
     region: "九州・沖縄",
     highlights: ["黒川温泉・阿蘇山名所", "熊本県名物", "絶景温泉"],
-    gourmet: ["熊本県名物料理", "地場グルメ"],
-    description: "熊本県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
+    gourmet: ["熊本県の獲れたて海鮮・ご当地名物", "地場グルメ"],
+    description: "熊本県ならではの四季折々の自然美と豊かな歴史・食文化を心ゆくまで堪能する特別な旅のガイド。",
     bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
     subAreas: [
       {
         areaName: "黒川温泉・阿蘇山",
         slug: "kurokawa-aso",
-        description: "熊本県を代表する観光名所・絶景スポット・名湯が凝縮された一番人気エリア。",
+        description: "黒川温泉・阿蘇山エリアを代表する観光名所や絶景、名物グルメが凝縮された大人気散策コース。",
         spots: [
-          { name: "黒川温泉・阿蘇山 代表名所", description: "熊本県観光で絶対に訪れたい人気景勝地。" },
-          { name: "黒川温泉・阿蘇山 絶景スポット", description: "四季折々の風情と感動が広がる美しいロケーション。" }
+          { name: "黒川温泉・阿蘇山の歴史・伝統名所散策", description: "黒川温泉・阿蘇山で絶対に訪れたい歴史ある名所と風情あふれる街並み。" },
+          { name: "黒川温泉・阿蘇山の絶景・ビュースポット", description: "黒川温泉・阿蘇山ならではの四季折々の絶景と感動が広がる美しいロケーション。" },
         ],
-        gourmet: ["熊本県名物料理", "ご当地グルメ"],
+        gourmet: ["熊本県の獲れたて海鮮・ご当地名物", "老舗の味・名物グルメ"],
         keywords: ["熊本県", "黒川温泉・阿蘇山"],
         subAreaHotels: [
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "黒川温泉・阿蘇山",
-                        "postId": "27949",
+                        "hotelName": "杖立渓流の宿大自然",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/27949/27949.jpg",
                         "price": 13500,
                         "rating": 4.6,
                         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/27949/27949.html"
             },
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "黒川温泉・阿蘇山",
-                        "postId": "31796",
+                        "hotelName": "黒川温泉　湯峡の響き　優彩",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/31796/31796.jpg",
                         "price": 13500,
                         "rating": 4.6,
                         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/31796/31796.html"
             },
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "黒川温泉・阿蘇山",
-                        "postId": "147706",
+                        "hotelName": "黒川温泉　山みず木別邸　深山山荘",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/147706/147706.jpg",
                         "price": 13500,
                         "rating": 4.6,
@@ -4543,43 +4381,37 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
     name: "大分県",
     region: "九州・沖縄",
     highlights: ["別府温泉・由布院温泉名所", "大分県名物", "絶景温泉"],
-    gourmet: ["大分県名物料理", "地場グルメ"],
-    description: "大分県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
+    gourmet: ["大分県の獲れたて海鮮・ご当地名物", "地場グルメ"],
+    description: "大分県ならではの四季折々の自然美と豊かな歴史・食文化を心ゆくまで堪能する特別な旅のガイド。",
     bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
     subAreas: [
       {
         areaName: "別府温泉・由布院温泉",
         slug: "beppu-yufuin",
-        description: "大分県を代表する観光名所・絶景スポット・名湯が凝縮された一番人気エリア。",
+        description: "別府温泉・由布院温泉エリアを代表する観光名所や絶景、名物グルメが凝縮された大人気散策コース。",
         spots: [
-          { name: "別府温泉・由布院温泉 代表名所", description: "大分県観光で絶対に訪れたい人気景勝地。" },
-          { name: "別府温泉・由布院温泉 絶景スポット", description: "四季折々の風情と感動が広がる美しいロケーション。" }
+          { name: "別府温泉・由布院温泉の歴史・伝統名所散策", description: "別府温泉・由布院温泉で絶対に訪れたい歴史ある名所と風情あふれる街並み。" },
+          { name: "別府温泉・由布院温泉の絶景・ビュースポット", description: "別府温泉・由布院温泉ならではの四季折々の絶景と感動が広がる美しいロケーション。" },
         ],
-        gourmet: ["大分県名物料理", "ご当地グルメ"],
+        gourmet: ["大分県の獲れたて海鮮・ご当地名物", "老舗の味・名物グルメ"],
         keywords: ["大分県", "別府温泉・由布院温泉"],
         subAreaHotels: [
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "別府温泉・由布院温泉",
-                        "postId": "198983",
+                        "hotelName": "エンゼルグランヴィラ由布院（旧ときリゾート由布院別邸）",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/198983/198983.jpg",
                         "price": 13500,
                         "rating": 4.6,
                         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/198983/198983.html"
             },
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "別府温泉・由布院温泉",
-                        "postId": "139452",
+                        "hotelName": "由布院温泉　草庵秋桜",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/139452/139452.jpg",
                         "price": 13500,
                         "rating": 4.6,
                         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/139452/139452.html"
             },
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "別府温泉・由布院温泉",
-                        "postId": "106080",
+                        "hotelName": "湯布院温泉　御宿　由布乃庄",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/106080/106080.jpg",
                         "price": 13500,
                         "rating": 4.6,
@@ -4651,43 +4483,37 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
     name: "宮崎県",
     region: "九州・沖縄",
     highlights: ["高千穂・青島・日南名所", "宮崎県名物", "絶景温泉"],
-    gourmet: ["宮崎県名物料理", "地場グルメ"],
-    description: "宮崎県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
+    gourmet: ["宮崎県の獲れたて海鮮・ご当地名物", "地場グルメ"],
+    description: "宮崎県ならではの四季折々の自然美と豊かな歴史・食文化を心ゆくまで堪能する特別な旅のガイド。",
     bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
     subAreas: [
       {
         areaName: "高千穂・青島・日南",
         slug: "takachiho-aoshima",
-        description: "宮崎県を代表する観光名所・絶景スポット・名湯が凝縮された一番人気エリア。",
+        description: "高千穂・青島・日南エリアを代表する観光名所や絶景、名物グルメが凝縮された大人気散策コース。",
         spots: [
-          { name: "高千穂・青島・日南 代表名所", description: "宮崎県観光で絶対に訪れたい人気景勝地。" },
-          { name: "高千穂・青島・日南 絶景スポット", description: "四季折々の風情と感動が広がる美しいロケーション。" }
+          { name: "高千穂・青島・日南の歴史・伝統名所散策", description: "高千穂・青島・日南で絶対に訪れたい歴史ある名所と風情あふれる街並み。" },
+          { name: "高千穂・青島・日南の絶景・ビュースポット", description: "高千穂・青島・日南ならではの四季折々の絶景と感動が広がる美しいロケーション。" },
         ],
-        gourmet: ["宮崎県名物料理", "ご当地グルメ"],
+        gourmet: ["宮崎県の獲れたて海鮮・ご当地名物", "老舗の味・名物グルメ"],
         keywords: ["宮崎県", "高千穂・青島・日南"],
         subAreaHotels: [
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "高千穂・青島・日南",
-                        "postId": "199224",
+                        "hotelName": "ＦＡＶ　ＬＵＸ　宮崎",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/199224/199224.jpg",
                         "price": 13500,
                         "rating": 4.6,
                         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/199224/199224.html"
             },
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "高千穂・青島・日南",
-                        "postId": "8782",
+                        "hotelName": "ＡＮＡホリデイ・インリゾート宮崎　ｂｙ　ＩＨＧ",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/8782/8782.jpg",
                         "price": 13500,
                         "rating": 4.6,
                         "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/8782/8782.html"
             },
             {
-                        "hotelName": "ãã£ã¨è¦ã",
-                        "areaName": "高千穂・青島・日南",
-                        "postId": "162643",
+                        "hotelName": "天然温泉　日向の湯　ドーミーイン宮崎（ドーミーイン・御宿野乃　ホテルズグループ）",
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/162643/162643.jpg",
                         "price": 13500,
                         "rating": 4.6,
@@ -4759,19 +4585,19 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
     name: "鹿児島県",
     region: "九州・沖縄",
     highlights: ["指宿温泉・霧島温泉・屋久島名所", "鹿児島県名物", "絶景温泉"],
-    gourmet: ["鹿児島県名物料理", "地場グルメ"],
-    description: "鹿児島県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
+    gourmet: ["鹿児島県の獲れたて海鮮・ご当地名物", "地場グルメ"],
+    description: "鹿児島県ならではの四季折々の自然美と豊かな歴史・食文化を心ゆくまで堪能する特別な旅のガイド。",
     bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
     subAreas: [
       {
         areaName: "指宿温泉・霧島温泉・屋久島",
         slug: "ibusuki-kirishima",
-        description: "鹿児島県を代表する観光名所・絶景スポット・名湯が凝縮された一番人気エリア。",
+        description: "指宿温泉・霧島温泉・屋久島エリアを代表する観光名所や絶景、名物グルメが凝縮された大人気散策コース。",
         spots: [
-          { name: "指宿温泉・霧島温泉・屋久島 代表名所", description: "鹿児島県観光で絶対に訪れたい人気景勝地。" },
-          { name: "指宿温泉・霧島温泉・屋久島 絶景スポット", description: "四季折々の風情と感動が広がる美しいロケーション。" }
+          { name: "指宿温泉・霧島温泉・屋久島の歴史・伝統名所散策", description: "指宿温泉・霧島温泉・屋久島で絶対に訪れたい歴史ある名所と風情あふれる街並み。" },
+          { name: "指宿温泉・霧島温泉・屋久島の絶景・ビュースポット", description: "指宿温泉・霧島温泉・屋久島ならではの四季折々の絶景と感動が広がる美しいロケーション。" },
         ],
-        gourmet: ["鹿児島県名物料理", "ご当地グルメ"],
+        gourmet: ["鹿児島県の獲れたて海鮮・ご当地名物", "老舗の味・名物グルメ"],
         keywords: ["鹿児島県", "指宿温泉・霧島温泉・屋久島"],
         subAreaHotels: [
             {
@@ -4855,19 +4681,19 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
     name: "沖縄県",
     region: "九州・沖縄",
     highlights: ["石垣島・宮古島・恩納村名所", "沖縄県名物", "絶景温泉"],
-    gourmet: ["沖縄県名物料理", "地場グルメ"],
-    description: "沖縄県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
+    gourmet: ["沖縄県の獲れたて海鮮・ご当地名物", "地場グルメ"],
+    description: "沖縄県ならではの四季折々の自然美と豊かな歴史・食文化を心ゆくまで堪能する特別な旅のガイド。",
     bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
     subAreas: [
       {
         areaName: "石垣島・宮古島・恩納村",
         slug: "ishigaki-miyako",
-        description: "沖縄県を代表する観光名所・絶景スポット・名湯が凝縮された一番人気エリア。",
+        description: "石垣島・宮古島・恩納村エリアを代表する観光名所や絶景、名物グルメが凝縮された大人気散策コース。",
         spots: [
-          { name: "石垣島・宮古島・恩納村 代表名所", description: "沖縄県観光で絶対に訪れたい人気景勝地。" },
-          { name: "石垣島・宮古島・恩納村 絶景スポット", description: "四季折々の風情と感動が広がる美しいロケーション。" }
+          { name: "石垣島・宮古島・恩納村の歴史・伝統名所散策", description: "石垣島・宮古島・恩納村で絶対に訪れたい歴史ある名所と風情あふれる街並み。" },
+          { name: "石垣島・宮古島・恩納村の絶景・ビュースポット", description: "石垣島・宮古島・恩納村ならではの四季折々の絶景と感動が広がる美しいロケーション。" },
         ],
-        gourmet: ["沖縄県名物料理", "ご当地グルメ"],
+        gourmet: ["沖縄県の獲れたて海鮮・ご当地名物", "老舗の味・名物グルメ"],
         keywords: ["沖縄県", "石垣島・宮古島・恩納村"],
         subAreaHotels: [
             {
