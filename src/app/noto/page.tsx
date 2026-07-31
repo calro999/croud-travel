@@ -334,6 +334,29 @@ export default function NotoGuidePage() {
             </div>
           </div>
 
+          <div className="p-6 rounded-2xl bg-gradient-to-br from-amber-500/10 via-teal-500/10 to-emerald-500/10 border border-amber-400/40 space-y-4">
+            <div className="flex flex-wrap items-center justify-between gap-2 border-b border-amber-300/40 pb-3">
+              <h3 className="text-base font-black text-amber-950 flex items-center gap-2">
+                <span>⚡</span> <span>【超目玉】2026年最新「能登×ポケモンコラボ」聖地巡礼モデルコース</span>
+              </h3>
+              <span className="text-[10px] font-black bg-gradient-to-r from-amber-400 to-amber-300 text-teal-950 px-3 py-1 rounded-full shadow">
+                必見！ご当地ポケモンスポット
+              </span>
+            </div>
+            <p className="text-emerald-950/90 leading-relaxed font-medium">
+              輪島・七尾・穴水の「ポケふた」マンホール巡り、和倉温泉「わくらポケモン足湯」、世界初の「のと里山ポケモン・ウィズ・ユー空港」を効率よく網羅するスペシャルモデルコース！
+            </p>
+            <div className="pt-2">
+              <Link
+                href="/posts/noto-pokemon-travel-guide/"
+                className="inline-flex items-center gap-2 px-6 py-3 bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 text-white font-black rounded-xl shadow transition"
+              >
+                <span>⚡</span>
+                <span>能登×ポケモンコラボ（ポケふた・わくら足湯・空港）完全攻略記事を読む</span>
+              </Link>
+            </div>
+          </div>
+
           <div className="p-6 rounded-2xl bg-teal-50/40 border border-teal-200 space-y-3">
             <h3 className="text-sm font-bold text-teal-950 flex items-center gap-2">
               <span>🧭</span> <span>奥能登完全制覇！能登2泊3日 モデルコース（見附島・九十九湾めぐり）</span>
