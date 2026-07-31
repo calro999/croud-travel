@@ -1709,19 +1709,19 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
             hotelName: "金沢白鳥路 ホテル山楽",
             areaName: "兼六園・金沢城前",
             postId: "8279",
-            image: "https://img.travel.rakuten.co.jp/share/HOTEL/8279/8279.jpg",
+            image: "https://img.travel.rakuten.co.jp/share/HOTEL/9004/9004.jpg",
             price: 12000,
             rating: 4.7,
-            affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/8279/8279.html"
+            affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/9004/9004.html"
           },
           {
             hotelName: "天然温泉 加賀の宝泉 御宿 野乃金沢",
             areaName: "近江町市場徒歩1分",
             postId: "181519",
-            image: "https://img.travel.rakuten.co.jp/share/HOTEL/181519/181519.jpg",
+            image: "https://img.travel.rakuten.co.jp/share/HOTEL/182423/182423.jpg",
             price: 9800,
             rating: 4.6,
-            affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/181519/181519.html"
+            affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/182423/182423.html"
           }
         ]
       }
