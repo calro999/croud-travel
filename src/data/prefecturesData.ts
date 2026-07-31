@@ -1767,7 +1767,7 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
       {
         name: "黒帯（くろおび）堂々 純米",
         brewery: "株式会社福光屋（金沢市）",
-        type": "金沢老舗蔵・伝統純米",
+        type: "金沢老舗蔵・伝統純米",
         description: "金沢で最も古い歴史をもつ蔵元。しっかりとした米の旨味とキレがあり、金沢の海の幸やのどぐろと相性抜群。"
       },
       {

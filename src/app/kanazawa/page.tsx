@@ -75,8 +75,8 @@ export default function KanazawaGuidePage() {
     "@type": "BreadcrumbList",
     itemListElement: [
       { "@type": "ListItem", position: 1, name: "ホーム", item: baseUrl },
-      { "@type": "ListItem", position: 2, name: "石川県 観光ガイド", item:  },
-      { "@type": "ListItem", position: 3, name: "金沢旅行 完全計画ガイド", item:  },
+      { "@type": "ListItem", position: 2, name: "石川県 観光ガイド", item: `${baseUrl}/prefectures/ishikawa/` },
+      { "@type": "ListItem", position: 3, name: "金沢旅行 完全計画ガイド", item: `${baseUrl}/kanazawa/` },
     ],
   };
 
