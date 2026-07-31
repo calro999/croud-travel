@@ -7,12 +7,12 @@ export interface SpotInfo {
 
 export interface HotelCardInfo {
   hotelName: string;
-  areaName: string;
+  areaName?: string;
   image?: string;
   price?: number | string;
   rating?: number | string;
   affiliateUrl?: string;
-  postId: string;
+  postId?: string;
 }
 
 export interface SubAreaInfo {
