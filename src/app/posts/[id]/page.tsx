@@ -27,6 +27,7 @@ interface Post {
   hot_spring_info?: string;
   nearby_gourmet?: string[];
   meal_availability?: string;
+  editor_tip?: string;
 }
 
 export const dynamicParams = false;
@@ -324,6 +325,17 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
               </span>
             </div>
           )}
+        </div>
+
+        {/* 編集長からのワンポイント（E-E-A-T体験・専門性向上セクション） */}
+        <div className="p-6 rounded-2xl bg-gradient-to-r from-amber-500/10 via-teal-500/10 to-emerald-500/10 border border-amber-500/30 text-emerald-950 space-y-2 shadow-sm">
+          <div className="flex items-center gap-2 text-xs font-black text-amber-900 uppercase tracking-wider">
+            <span className="w-6 h-6 rounded-full bg-amber-500 text-white flex items-center justify-center text-xs">✍️</span>
+            <span>編集長からのワンポイントアドバイス</span>
+          </div>
+          <p className="text-xs md:text-sm text-emerald-950/90 leading-relaxed font-semibold pl-8">
+            {post.editor_tip || `【編集長からのワンポイント】${post.hotel_name}は${post.prefecture}（${post.area}）の観光拠点として絶好のロケーションです。観光名所や地元の名物グルメ巡りに時間をゆったり取って計画を立てると、より満足度の高い旅行になります。`}
+          </p>
         </div>
 
         {/* 宿泊施設 詳細情報（SEO対策・よくある検索） */}
