@@ -314,10 +314,10 @@ export default function NotoGuidePage() {
                 <span className="font-extrabold text-amber-800 block">【DAY 1】千里浜となぎさドライブ＆和倉温泉</span>
                 <ul className="space-y-1.5 text-emerald-950/80 leading-relaxed pl-2">
                   <li>• 10:00 金沢からレンタカー出発（のと里山海道）</li>
-                  <li>• 10:45 **千里浜なぎさドライブウェイ**（砂浜ドライブ）</li>
-                  <li>• 12:30 **能登島**（のとじま水族館＆能登島大橋絶景）</li>
-                  <li>• 15:30 **和倉温泉**チェックイン（海を望む露天風呂）</li>
-                  <li>• 18:00 旅館で**能登の海鮮・能登牛の豪華夕食**</li>
+                  <li>• 10:45 <strong className="font-bold text-amber-950">千里浜なぎさドライブウェイ</strong>（砂浜ドライブ）</li>
+                  <li>• 12:30 <strong className="font-bold text-amber-950">能登島</strong>（のとじま水族館＆能登島大橋絶景）</li>
+                  <li>• 15:30 <strong className="font-bold text-amber-950">和倉温泉</strong>チェックイン（海を望む露天風呂）</li>
+                  <li>• 18:00 旅館で<strong className="font-bold text-amber-950">能登の海鮮・能登牛の豪華夕食</strong></li>
                 </ul>
               </div>
 
@@ -325,9 +325,9 @@ export default function NotoGuidePage() {
                 <span className="font-extrabold text-amber-800 block">【DAY 2】輪島朝市と白米千枚田・奥能登絶景</span>
                 <ul className="space-y-1.5 text-emerald-950/80 leading-relaxed pl-2">
                   <li>• 08:30 和倉温泉出発→輪島へ</li>
-                  <li>• 09:30 **輪島朝市**（海鮮干物・漆器の買い物＆食べ歩き）</li>
-                  <li>• 11:30 **白米千枚田**（日本海と棚田の絶景散策/所要時間1時間）</li>
-                  <li>• 13:00 輪島市内で**名物「能登丼」ランチ**</li>
+                  <li>• 09:30 <strong className="font-bold text-amber-950">輪島朝市</strong>（海鮮干物・漆器の買い物＆食べ歩き）</li>
+                  <li>• 11:30 <strong className="font-bold text-amber-950">白米千枚田</strong>（日本海と棚田の絶景散策/所要時間1時間）</li>
+                  <li>• 13:00 輪島市内で<strong className="font-bold text-amber-950">名物「能登丼」ランチ</strong></li>
                   <li>• 15:00 帰路（のと里山空港または金沢へ）</li>
                 </ul>
               </div>
@@ -365,7 +365,7 @@ export default function NotoGuidePage() {
               <span>白米千枚田（しろよねせんまいだ）</span>
             </h3>
             <p className="text-emerald-950/80 leading-relaxed font-medium">
-              **所要時間：約45分〜1時間**<br />
+              <strong className="font-bold text-amber-950">所要時間：約45分〜1時間</strong><br />
               国の名勝。急斜面に1,004枚もの小さな田んぼが重なる世界農業遺産のシンボル。道の駅「千枚田ポケットパーク」からの見下ろしが絶景。
             </p>
           </div>
@@ -376,7 +376,7 @@ export default function NotoGuidePage() {
               <span>のとじま水族館（能登島）</span>
             </h3>
             <p className="text-emerald-950/80 leading-relaxed font-medium">
-              **所要時間：約1.5時間〜2時間**<br />
+              <strong className="font-bold text-amber-950">所要時間：約1.5時間〜2時間</strong><br />
               日本海側で唯一ジンベエザメを飼育する大水族館。プロジェクションマッピングによる幻想的なクラゲ回廊やイルカショーが大人気。
             </p>
           </div>
@@ -387,7 +387,7 @@ export default function NotoGuidePage() {
               <span>輪島朝市（わじまあさいち）</span>
             </h3>
             <p className="text-emerald-950/80 leading-relaxed font-medium">
-              **所要時間：約1時間〜1.5時間**<br />
+              <strong className="font-bold text-amber-950">所要時間：約1時間〜1.5時間</strong><br />
               千年の歴史をもつ日本三大朝市の一つ。おばあちゃん達の威勢の良い掛け声とともに、海鮮干物、柚子餅、伝統の輪島塗が並びます。
             </p>
           </div>
@@ -398,7 +398,7 @@ export default function NotoGuidePage() {
               <span>見附島（軍艦島 / 珠洲市）</span>
             </h3>
             <p className="text-emerald-950/80 leading-relaxed font-medium">
-              **所要時間：約30分〜45分**<br />
+              <strong className="font-bold text-amber-950">所要時間：約30分〜45分</strong><br />
               高さ28mの島が軍艦のようにそびえ立つ珠洲のシンボル。引き潮時には踏み石を渡って島の近くまで歩くことができ、えんむすびーちとしても有名。
             </p>
           </div>
