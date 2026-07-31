@@ -478,7 +478,7 @@ export default function KanazawaGuidePage() {
                   {post.image ? (
                     <img
                       src={post.image}
-                      alt={}
+                      alt={post.hotel_name || "金沢おすすめホテル・宿"}
                       className="w-full h-full object-cover"
                       loading="lazy"
                     />

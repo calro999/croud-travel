@@ -473,7 +473,7 @@ export default function NotoGuidePage() {
                   {post.image ? (
                     <img
                       src={post.image}
-                      alt={}
+                      alt={post.hotel_name || "能登おすすめホテル・温泉宿"}
                       className="w-full h-full object-cover"
                       loading="lazy"
                     />

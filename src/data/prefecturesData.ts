@@ -1773,7 +1773,7 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
       {
         name: "手取川（てどりがわ）ishikawa mon 純米吟醸",
         brewery: "吉田酒造店（白山市）",
-        type": "フレッシュ吟醸",
+        type: "フレッシュ吟醸",
         description: "石川県産酒米「石川門」を使用。フルーティーな香りと爽やかな酸味が女性や日本酒初心者にも大人気。"
       },
       {
