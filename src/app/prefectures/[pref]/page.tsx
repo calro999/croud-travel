@@ -176,6 +176,8 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": baseUrl },
       { "@type": "ListItem", "position": 2, "name": "47都道府県一覧", "item": `${baseUrl}/prefectures` },
       { "@type": "ListItem", "position": 3, "name": `${prefInfo.name}観光ハブ`, "item": `${baseUrl}/prefectures/${prefInfo.slug}` }
+    ]
+  };
   // 固有FAQの読み込み
   const faqPath = path.join(process.cwd(), 'src', 'data', 'faqs', `${prefInfo.slug}.json`);
   let faqList: any[] = [];
