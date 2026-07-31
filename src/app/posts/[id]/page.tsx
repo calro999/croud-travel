@@ -28,6 +28,7 @@ interface Post {
   nearby_gourmet?: string[];
   meal_availability?: string;
   editor_tip?: string;
+  is_special_feature?: boolean;
 }
 
 export const dynamicParams = false;
@@ -292,122 +293,127 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
           </div>
         </div>
 
-        {/* 施設アイキャッチ大画像 */}
-        <div className="relative aspect-[16/9] w-full rounded-2xl overflow-hidden border border-emerald-950/5 shadow-md">
-          {post.image ? (
-            <img
-              src={post.image}
-              alt={`${post.hotel_name} - ${post.prefecture}観光ガイド`}
-              className="w-full h-full object-cover"
-              loading="eager"
-              fetchPriority="high"
-            />
-          ) : (
-            <div className="w-full h-full bg-emerald-50 flex items-center justify-center text-emerald-950/30 text-xs font-semibold">
-              No Image
-            </div>
-          )}
-        </div>
-
-        {/* 宿情報サマリー */}
-        <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 p-6 rounded-2xl bg-emerald-50/20 border border-emerald-950/5 text-xs text-emerald-950">
-          <div className="space-y-1">
-            <span className="text-teal-900/50 font-extrabold uppercase tracking-wider block text-[9px]">正式宿泊施設名</span>
-            <span className="font-bold text-sm text-teal-950">
-              {post.hotel_name}
-            </span>
-          </div>
-          {post.price && (
-            <div className="space-y-1">
-              <span className="text-teal-900/50 font-extrabold uppercase tracking-wider block text-[9px]">参考最安価格</span>
-              <span className="font-black text-amber-700 text-sm">
-                消費税込 ¥{Number(post.price).toLocaleString()}〜 / 人
-              </span>
-            </div>
-          )}
-        </div>
-
-        {/* 編集長からのワンポイント（E-E-A-T体験・専門性向上セクション） */}
-        <div className="p-6 rounded-2xl bg-gradient-to-r from-amber-500/10 via-teal-500/10 to-emerald-500/10 border border-amber-500/30 text-emerald-950 space-y-2 shadow-sm">
-          <div className="flex items-center gap-2 text-xs font-black text-amber-900 uppercase tracking-wider">
-            <span className="w-6 h-6 rounded-full bg-amber-500 text-white flex items-center justify-center text-xs">✍️</span>
-            <span>編集長からのワンポイントアドバイス</span>
-          </div>
-          <p className="text-xs md:text-sm text-emerald-950/90 leading-relaxed font-semibold pl-8">
-            {post.editor_tip || `【編集長からのワンポイント】${post.hotel_name}は${post.prefecture}（${post.area}）の観光拠点として絶好のロケーションです。観光名所や地元の名物グルメ巡りに時間をゆったり取って計画を立てると、より満足度の高い旅行になります。`}
-          </p>
-        </div>
-
-        {/* 宿泊施設 詳細情報（SEO対策・よくある検索） */}
-        { (post.recommended_for || post.nearby_tourist_spots || post.parking_info || post.family_friendly || post.hot_spring_info || post.nearby_gourmet || post.meal_availability) && (
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-4 p-6 rounded-2xl bg-teal-50/30 border border-teal-900/10 text-sm mt-4">
-            {post.recommended_for && post.recommended_for.length > 0 && (
-              <div className="space-y-1">
-                <span className="text-teal-900/60 font-extrabold uppercase text-[10px]">この宿がおすすめな人</span>
-                <p className="font-bold text-teal-950">{post.recommended_for.join(" / ")}</p>
-              </div>
-            )}
-            {post.nearby_tourist_spots && post.nearby_tourist_spots.length > 0 && (
-              <div className="space-y-1">
-                <span className="text-teal-900/60 font-extrabold uppercase text-[10px]">徒歩で行ける観光地</span>
-                <p className="font-bold text-teal-950">{post.nearby_tourist_spots.join(" / ")}</p>
-              </div>
-            )}
-            {post.parking_info && (
-              <div className="space-y-1">
-                <span className="text-teal-900/60 font-extrabold uppercase text-[10px]">駐車場事情</span>
-                <p className="font-bold text-teal-950">{post.parking_info}</p>
-              </div>
-            )}
-            {post.family_friendly && (
-              <div className="space-y-1">
-                <span className="text-teal-900/60 font-extrabold uppercase text-[10px]">子連れ向けか</span>
-                <p className="font-bold text-teal-950">{post.family_friendly}</p>
-              </div>
-            )}
-            {post.hot_spring_info && (
-              <div className="space-y-1">
-                <span className="text-teal-900/60 font-extrabold uppercase text-[10px]">温泉情報</span>
-                <p className="font-bold text-teal-950">{post.hot_spring_info}</p>
-              </div>
-            )}
-            {post.nearby_gourmet && post.nearby_gourmet.length > 0 && (
-              <div className="space-y-1">
-                <span className="text-teal-900/60 font-extrabold uppercase text-[10px]">周辺グルメ</span>
-                <p className="font-bold text-teal-950">{post.nearby_gourmet.join(" / ")}</p>
-              </div>
-            )}
-            {post.meal_availability && (
-              <div className="space-y-1">
-                <span className="text-teal-900/60 font-extrabold uppercase text-[10px]">朝食や夕食の有無</span>
-                <p className="font-bold text-teal-950">{post.meal_availability}</p>
-              </div>
-            )}
-          </div>
-        )}
-
-        {/* 宿のギャラリー画像 */}
-        {post.other_images && post.other_images.length > 0 && (
-          <div className="space-y-4 pt-8 border-t border-emerald-950/5">
-            <h3 className="text-xs font-extrabold text-teal-900/60 uppercase tracking-widest">
-              ▼ 施設ギャラリー（客室・お風呂・館内）
-            </h3>
-            <div className="grid grid-cols-2 sm:grid-cols-3 gap-4">
-              {post.other_images.map((imgUrl, idx) => (
-                <div
-                  key={idx}
-                  className="aspect-video relative overflow-hidden rounded-xl border border-emerald-950/5 bg-emerald-50 shadow-sm"
-                >
-                  <img
-                    src={imgUrl}
-                    alt={`${post.hotel_name} ギャラリー写真 ${idx + 1}`}
-                    className="w-full h-full object-cover"
-                    loading="lazy"
-                  />
+        {/* 特集記事でない場合のみ、標準宿テンプレート（アイキャッチ大画像・価格サマリー・宿詳細・冒頭ギャラリー）を表示 */}
+        {!post.is_special_feature && (
+          <>
+            {/* 施設アイキャッチ大画像 */}
+            <div className="relative aspect-[16/9] w-full rounded-2xl overflow-hidden border border-emerald-950/5 shadow-md">
+              {post.image ? (
+                <img
+                  src={post.image}
+                  alt={`${post.hotel_name} - ${post.prefecture}観光ガイド`}
+                  className="w-full h-full object-cover"
+                  loading="eager"
+                  fetchPriority="high"
+                />
+              ) : (
+                <div className="w-full h-full bg-emerald-50 flex items-center justify-center text-emerald-950/30 text-xs font-semibold">
+                  No Image
                 </div>
-              ))}
+              )}
             </div>
-          </div>
+
+            {/* 宿情報サマリー */}
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 p-6 rounded-2xl bg-emerald-50/20 border border-emerald-950/5 text-xs text-emerald-950">
+              <div className="space-y-1">
+                <span className="text-teal-900/50 font-extrabold uppercase tracking-wider block text-[9px]">正式宿泊施設名</span>
+                <span className="font-bold text-sm text-teal-950">
+                  {post.hotel_name}
+                </span>
+              </div>
+              {post.price && (
+                <div className="space-y-1">
+                  <span className="text-teal-900/50 font-extrabold uppercase tracking-wider block text-[9px]">参考最安価格</span>
+                  <span className="font-black text-amber-700 text-sm">
+                    消費税込 ¥{Number(post.price).toLocaleString()}〜 / 人
+                  </span>
+                </div>
+              )}
+            </div>
+
+            {/* 編集長からのワンポイント（E-E-A-T体験・専門性向上セクション） */}
+            <div className="p-6 rounded-2xl bg-gradient-to-r from-amber-500/10 via-teal-500/10 to-emerald-500/10 border border-amber-500/30 text-emerald-950 space-y-2 shadow-sm">
+              <div className="flex items-center gap-2 text-xs font-black text-amber-900 uppercase tracking-wider">
+                <span className="w-6 h-6 rounded-full bg-amber-500 text-white flex items-center justify-center text-xs">✍️</span>
+                <span>編集長からのワンポイントアドバイス</span>
+              </div>
+              <p className="text-xs md:text-sm text-emerald-950/90 leading-relaxed font-semibold pl-8">
+                {post.editor_tip || `【編集長からのワンポイント】${post.hotel_name}は${post.prefecture}（${post.area}）の観光拠点として絶好のロケーションです。観光名所や地元の名物グルメ巡りに時間をゆったり取って計画を立てると、より満足度の高い旅行になります。`}
+              </p>
+            </div>
+
+            {/* 宿泊施設 詳細情報（SEO対策・よくある検索） */}
+            { (post.recommended_for || post.nearby_tourist_spots || post.parking_info || post.family_friendly || post.hot_spring_info || post.nearby_gourmet || post.meal_availability) && (
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-4 p-6 rounded-2xl bg-teal-50/30 border border-teal-900/10 text-sm mt-4">
+                {post.recommended_for && post.recommended_for.length > 0 && (
+                  <div className="space-y-1">
+                    <span className="text-teal-900/60 font-extrabold uppercase text-[10px]">この宿がおすすめな人</span>
+                    <p className="font-bold text-teal-950">{post.recommended_for.join(" / ")}</p>
+                  </div>
+                )}
+                {post.nearby_tourist_spots && post.nearby_tourist_spots.length > 0 && (
+                  <div className="space-y-1">
+                    <span className="text-teal-900/60 font-extrabold uppercase text-[10px]">徒歩で行ける観光地</span>
+                    <p className="font-bold text-teal-950">{post.nearby_tourist_spots.join(" / ")}</p>
+                  </div>
+                )}
+                {post.parking_info && (
+                  <div className="space-y-1">
+                    <span className="text-teal-900/60 font-extrabold uppercase text-[10px]">駐車場事情</span>
+                    <p className="font-bold text-teal-950">{post.parking_info}</p>
+                  </div>
+                )}
+                {post.family_friendly && (
+                  <div className="space-y-1">
+                    <span className="text-teal-900/60 font-extrabold uppercase text-[10px]">子連れ向けか</span>
+                    <p className="font-bold text-teal-950">{post.family_friendly}</p>
+                  </div>
+                )}
+                {post.hot_spring_info && (
+                  <div className="space-y-1">
+                    <span className="text-teal-900/60 font-extrabold uppercase text-[10px]">温泉情報</span>
+                    <p className="font-bold text-teal-950">{post.hot_spring_info}</p>
+                  </div>
+                )}
+                {post.nearby_gourmet && post.nearby_gourmet.length > 0 && (
+                  <div className="space-y-1">
+                    <span className="text-teal-900/60 font-extrabold uppercase text-[10px]">周辺グルメ</span>
+                    <p className="font-bold text-teal-950">{post.nearby_gourmet.join(" / ")}</p>
+                  </div>
+                )}
+                {post.meal_availability && (
+                  <div className="space-y-1">
+                    <span className="text-teal-900/60 font-extrabold uppercase text-[10px]">朝食や夕食の有無</span>
+                    <p className="font-bold text-teal-950">{post.meal_availability}</p>
+                  </div>
+                )}
+              </div>
+            )}
+
+            {/* 宿のギャラリー画像 */}
+            {post.other_images && post.other_images.length > 0 && (
+              <div className="space-y-4 pt-8 border-t border-emerald-950/5">
+                <h3 className="text-xs font-extrabold text-teal-900/60 uppercase tracking-widest">
+                  ▼ 施設ギャラリー（客室・お風呂・館内）
+                </h3>
+                <div className="grid grid-cols-2 sm:grid-cols-3 gap-4">
+                  {post.other_images.map((imgUrl, idx) => (
+                    <div
+                      key={idx}
+                      className="aspect-video relative overflow-hidden rounded-xl border border-emerald-950/5 bg-emerald-50 shadow-sm"
+                    >
+                      <img
+                        src={imgUrl}
+                        alt={`${post.hotel_name} ギャラリー写真 ${idx + 1}`}
+                        className="w-full h-full object-cover"
+                        loading="lazy"
+                      />
+                    </div>
+                  ))}
+                </div>
+              </div>
+            )}
+          </>
         )}
 
         {/* 旅ライターによる極上ルポ */}
@@ -426,7 +432,7 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
             rel="noopener noreferrer"
             className="inline-block px-10 py-5 text-sm md:text-base font-black text-white bg-gradient-to-r from-amber-600 via-amber-700 to-amber-800 hover:from-amber-500 hover:to-amber-700 rounded-2xl shadow-md transition duration-200 cursor-pointer"
           >
-            ✈️ {post.hotel_name} の詳細プラン・空室状況を楽天トラベルで見る
+            ✈️ {post.is_special_feature ? "能登エリアの人気温泉宿・空室状況を楽天トラベルで探す" : `${post.hotel_name} の詳細プラン・空室状況を楽天トラベルで見る`}
           </a>
           <p className="text-[10px] text-emerald-950/40 font-bold">
             ※クリックすると楽天トラベルの宿泊予約詳細ページへ遷移します
