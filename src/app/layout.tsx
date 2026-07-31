@@ -177,7 +177,33 @@ export default function RootLayout({
         {/* 旅行雑誌の奥付をイメージしたフッター（47都道府県リンク＆キャンペーン導線網） */}
         <footer className="border-t border-emerald-950/10 bg-white py-12 text-xs text-emerald-950/70 shadow-inner">
           <div className="max-w-6xl mx-auto px-4 space-y-10">
+            {/* カテゴリ別ナビ（SEO内部リンク強化） */}
+            <div className="space-y-3 pb-6 border-b border-emerald-950/5">
+              <h3 className="font-bold text-emerald-950 text-sm font-journal-serif flex items-center gap-1.5">
+                <span>🏷️</span> <span>旅のテーマ・カテゴリから探す</span>
+              </h3>
+              <div className="flex flex-wrap gap-2">
+                {[
+                  { label: "🌡️ 温泉旅行", href: "/?category=温泉旅行" },
+                  { label: "👑 高級宿・リゾート", href: "/?category=高級宿・リゾート" },
+                  { label: "🍜 グルメ・美食", href: "/?category=グルメ・美食" },
+                  { label: "🏔️ アクティビティ・自然", href: "/?category=アクティビティ・自然" },
+                  { label: "👨‍👩‍👧 ファミリー・女子旅", href: "/?category=ファミリー・女子旅" },
+                  { label: "🎁 お得キャンペーン", href: "/campaigns" },
+                ].map(item => (
+                  <Link
+                    key={item.href}
+                    href={item.href}
+                    className="text-[11px] font-bold px-3 py-1.5 rounded-full bg-teal-50 border border-teal-800/10 text-teal-900/80 hover:bg-teal-100 hover:text-teal-800 transition"
+                  >
+                    {item.label}
+                  </Link>
+                ))}
+              </div>
+            </div>
+
             {/* 47都道府県リンクグリッド */}
+
             <div className="space-y-4 pt-4 border-b border-emerald-950/5 pb-8">
               <div className="flex items-center justify-between">
                 <h3 className="font-bold text-emerald-950 text-sm font-journal-serif flex items-center gap-1.5">

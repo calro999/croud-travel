@@ -1,8 +1,9 @@
-"use client";
-
-import { useState, useEffect } from "react";
+import fs from "fs";
+import path from "path";
 import Link from "next/link";
-import { REGIONS_MAP, PREFECTURES_DATA } from "@/data/prefecturesData";
+import { Metadata } from "next";
+import { PREFECTURES_DATA } from "@/data/prefecturesData";
+import PostListClient from "./components/PostListClient";
 
 interface Post {
   id: string;
@@ -21,62 +22,78 @@ interface Post {
   date: string;
 }
 
-const AREAS = ["すべて", "北海道", "東北", "関東", "甲信越・北陸", "東海", "近畿", "中国", "四国", "九州・沖縄"];
-const CATEGORIES = ["すべて", "温泉旅行", "高級宿・リゾート", "グルメ・美食", "アクティビティ・自然", "ファミリー・女子旅"];
+const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || "https://croud-travel.pages.dev";
 
-const PREFECTURES = [
-  "すべて", "北海道", "青森県", "岩手県", "宮城県", "秋田県", "山形県", "福島県",
-  "茨城県", "栃木県", "群馬県", "埼玉県", "千葉県", "東京都", "神奈川県",
-  "新潟県", "富山県", "石川県", "福井県", "山梨県", "長野県", "岐阜県", "静岡県",
-  "愛知県", "三重県", "滋賀県", "京都府", "大阪府", "兵庫県", "奈良県", "和歌山県",
-  "鳥取県", "島根県", "岡山県", "広島県", "山口県", "徳島県", "香川県", "愛媛県",
-  "高知県", "福岡県", "佐賀県", "長崎県", "熊本県", "大分県", "宮崎県", "鹿児島県", "沖縄県"
-];
+export const metadata: Metadata = {
+  title: "日本全国の厳選宿・温泉旅館・ホテル一覧 ｜ 楽天トラベルで予約 ｜ 旅びより",
+  description:
+    "北海道から沖縄まで47都道府県の温泉宿・高級ホテル・リゾートを旅ライターが厳選紹介。楽天トラベルで今すぐ空室確認・予約可能。子連れ・カップル・女子旅など旅のテーマ別に検索できます。",
+  keywords: [
+    "温泉宿", "おすすめホテル", "旅行", "楽天トラベル", "47都道府県", "子連れ旅行",
+    "カップル旅行", "女子旅", "高級旅館", "露天風呂", "旅館予約", "国内旅行",
+  ],
+  alternates: { canonical: baseUrl },
+  openGraph: {
+    title: "日本全国の厳選宿・温泉旅館・ホテル一覧 ｜ 旅びより",
+    description: "北海道から沖縄まで47都道府県の温泉宿・高級ホテルを厳選紹介。楽天トラベルで空室確認・予約。",
+    url: baseUrl,
+    siteName: "旅びより",
+    type: "website",
+  },
+};
+
+function loadPosts(): Post[] {
+  try {
+    const dataPath = path.join(process.cwd(), "public", "data", "posts.json");
+    if (fs.existsSync(dataPath)) {
+      return JSON.parse(fs.readFileSync(dataPath, "utf8"));
+    }
+  } catch (e) {
+    console.error("Failed to load posts:", e);
+  }
+  return [];
+}
 
 export default function Home() {
-  const [posts, setPosts] = useState<Post[]>([]);
-  const [searchQuery, setSearchQuery] = useState<string>("");
-  const [selectedArea, setSelectedArea] = useState<string>("すべて");
-  const [selectedCategory, setSelectedCategory] = useState<string>("すべて");
-  const [selectedPref, setSelectedPref] = useState<string>("すべて");
-  const [loading, setLoading] = useState<boolean>(true);
-  const [isFilterOpen, setIsFilterOpen] = useState<boolean>(false);
+  const posts = loadPosts();
 
-  useEffect(() => {
-    fetch("/data/posts.json")
-      .then((res) => res.json())
-      .then((data) => {
-        setPosts(data);
-        setLoading(false);
-      })
-      .catch((err) => {
-        console.error("Error loading posts:", err);
-        setLoading(false);
-      });
-  }, []);
+  // JSON-LD: WebSite + ItemList（記事一覧）
+  const jsonLdWebsite = {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    name: "旅びより",
+    url: baseUrl,
+    description: "日本全国47都道府県の厳選宿・温泉旅館・ホテルを紹介する旅行マガジン",
+    potentialAction: {
+      "@type": "SearchAction",
+      target: `${baseUrl}/?q={search_term_string}`,
+      "query-input": "required name=search_term_string",
+    },
+  };
 
-  // フィルタリング処理
-  const filteredPosts = posts.filter((post) => {
-    const matchesSearch =
-      post.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
-      post.hotel_name.toLowerCase().includes(searchQuery.toLowerCase()) ||
-      post.review.toLowerCase().includes(searchQuery.toLowerCase());
-    
-    const matchesArea = selectedArea === "すべて" || post.area === selectedArea;
-    const matchesCategory = selectedCategory === "すべて" || post.categories?.includes(selectedCategory);
-    const matchesPref = selectedPref === "すべて" || post.prefecture === selectedPref;
-
-    return matchesSearch && matchesArea && matchesCategory && matchesPref;
-  });
-
-  const hasActiveFilters = searchQuery || selectedArea !== "すべて" || selectedCategory !== "すべて" || selectedPref !== "すべて";
+  const jsonLdItemList = {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    name: "日本全国 厳選宿・ホテル 特集一覧",
+    numberOfItems: posts.length,
+    itemListElement: posts.slice(0, 50).map((post, idx) => ({
+      "@type": "ListItem",
+      position: idx + 1,
+      name: post.hotel_name,
+      url: `${baseUrl}/posts/${post.id}`,
+    })),
+  };
 
   return (
     <div className="space-y-12 md:space-y-16">
+      {/* 構造化データ */}
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdWebsite) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdItemList) }} />
+
       {/* 旅行雑誌風 ヒーロービジュアル */}
       <section className="relative rounded-3xl overflow-hidden bg-gradient-to-br from-teal-900 via-emerald-950 to-amber-950 p-8 md:p-14 border border-emerald-950/20 shadow-lg flex flex-col md:flex-row items-start md:items-center justify-between gap-8">
         <div className="absolute top-0 right-0 w-[450px] h-[450px] bg-amber-500/[0.04] rounded-full filter blur-3xl pointer-events-none" />
-        
+
         <div className="relative max-w-2xl space-y-5">
           <span className="inline-flex text-[10px] font-extrabold tracking-widest text-amber-400 bg-amber-400/10 border border-amber-400/20 px-3.5 py-1 rounded-full uppercase">
             厳選宿のデジタル旅行誌 📜
@@ -129,58 +146,28 @@ export default function Home() {
               <span>🎁</span> <span>開催中のおすすめお得キャンペーン＆限定クーポン</span>
             </h2>
           </div>
-          <Link
-            href="/campaigns"
-            className="text-xs font-bold text-amber-700 hover:text-amber-800 flex items-center gap-1"
-          >
+          <Link href="/campaigns" className="text-xs font-bold text-amber-700 hover:text-amber-800 flex items-center gap-1">
             <span>すべて見る</span> <span>→</span>
           </Link>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-          <Link
-            href="/campaigns"
-            className="group bg-white p-5 rounded-2xl border border-amber-500/20 shadow-sm hover:shadow-md transition space-y-2"
-          >
-            <span className="text-[9px] font-extrabold text-amber-800 bg-amber-100 px-2.5 py-0.5 rounded-full inline-block">
-              毎月 5, 10, 15, 20, 25, 30日
-            </span>
-            <h3 className="text-sm font-bold text-emerald-950 group-hover:text-amber-700 transition">
-              5と0のつく日 高級宿・温泉宿セール
-            </h3>
-            <p className="text-xs text-emerald-950/70 line-clamp-2">
-              最大20%OFFクーポン＋ポイント還元！高級温泉旅館や憧れホテルが最安値級。
-            </p>
+          <Link href="/campaigns" className="group bg-white p-5 rounded-2xl border border-amber-500/20 shadow-sm hover:shadow-md transition space-y-2">
+            <span className="text-[9px] font-extrabold text-amber-800 bg-amber-100 px-2.5 py-0.5 rounded-full inline-block">毎月 5, 10, 15, 20, 25, 30日</span>
+            <h3 className="text-sm font-bold text-emerald-950 group-hover:text-amber-700 transition">5と0のつく日 高級宿・温泉宿セール</h3>
+            <p className="text-xs text-emerald-950/70 line-clamp-2">最大20%OFFクーポン＋ポイント還元！高級温泉旅館や憧れホテルが最安値級。</p>
           </Link>
 
-          <Link
-            href="/campaigns"
-            className="group bg-white p-5 rounded-2xl border border-amber-500/20 shadow-sm hover:shadow-md transition space-y-2"
-          >
-            <span className="text-[9px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full inline-block">
-              実質2,000円で憧れ宿泊
-            </span>
-            <h3 className="text-sm font-bold text-emerald-950 group-hover:text-teal-800 transition">
-              楽天トラベル ふるさと納税クーポン
-            </h3>
-            <p className="text-xs text-emerald-950/70 line-clamp-2">
-              寄付額の最大30%クーポン進呈。あとから予約への適用も可能な大人気制度。
-            </p>
+          <Link href="/campaigns" className="group bg-white p-5 rounded-2xl border border-amber-500/20 shadow-sm hover:shadow-md transition space-y-2">
+            <span className="text-[9px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full inline-block">実質2,000円で憧れ宿泊</span>
+            <h3 className="text-sm font-bold text-emerald-950 group-hover:text-teal-800 transition">楽天トラベル ふるさと納税クーポン</h3>
+            <p className="text-xs text-emerald-950/70 line-clamp-2">寄付額の最大30%クーポン進呈。あとから予約への適用も可能な大人気制度。</p>
           </Link>
 
-          <Link
-            href="/campaigns"
-            className="group bg-white p-5 rounded-2xl border border-amber-500/20 shadow-sm hover:shadow-md transition space-y-2"
-          >
-            <span className="text-[9px] font-extrabold text-emerald-800 bg-emerald-100 px-2.5 py-0.5 rounded-full inline-block">
-              期間限定セール
-            </span>
-            <h3 className="text-sm font-bold text-emerald-950 group-hover:text-emerald-800 transition">
-              サマーセール＆季節の半額感謝祭
-            </h3>
-            <p className="text-xs text-emerald-950/70 line-clamp-2">
-              半額プラン多数＆限定1万円クーポン配布中。季節の旅がお得に。
-            </p>
+          <Link href="/campaigns" className="group bg-white p-5 rounded-2xl border border-amber-500/20 shadow-sm hover:shadow-md transition space-y-2">
+            <span className="text-[9px] font-extrabold text-emerald-800 bg-emerald-100 px-2.5 py-0.5 rounded-full inline-block">期間限定セール</span>
+            <h3 className="text-sm font-bold text-emerald-950 group-hover:text-emerald-800 transition">サマーセール＆季節の半額感謝祭</h3>
+            <p className="text-xs text-emerald-950/70 line-clamp-2">半額プラン多数＆限定1万円クーポン配布中。季節の旅がお得に。</p>
           </Link>
         </div>
       </section>
@@ -194,10 +181,7 @@ export default function Home() {
               <span>🗾</span> <span>都道府県別の観光見所＆厳選宿ガイド</span>
             </h2>
           </div>
-          <Link
-            href="/prefectures"
-            className="text-xs font-bold text-teal-800 hover:text-teal-700 flex items-center gap-1"
-          >
+          <Link href="/prefectures" className="text-xs font-bold text-teal-800 hover:text-teal-700 flex items-center gap-1">
             <span>全国一覧を見る</span> <span>→</span>
           </Link>
         </div>
@@ -209,12 +193,8 @@ export default function Home() {
               href={`/prefectures/${pref.slug}`}
               className="p-3.5 rounded-xl border border-emerald-950/5 bg-emerald-50/30 hover:bg-teal-50 hover:border-teal-800/30 transition text-center space-y-1 group"
             >
-              <span className="block text-xs font-bold text-emerald-950 group-hover:text-teal-800 font-journal-serif">
-                {pref.name}
-              </span>
-              <span className="block text-[9px] text-teal-900/50 font-medium line-clamp-1">
-                {pref.highlights[0]}など
-              </span>
+              <span className="block text-xs font-bold text-emerald-950 group-hover:text-teal-800 font-journal-serif">{pref.name}</span>
+              <span className="block text-[9px] text-teal-900/50 font-medium line-clamp-1">{pref.highlights[0]}など</span>
             </Link>
           ))}
         </div>
@@ -229,183 +209,8 @@ export default function Home() {
         </div>
       </section>
 
-      {/* 検索・絞り込みコントロールパネル */}
-      <section className="bg-white border border-emerald-900/5 rounded-2xl p-5 md:p-6 shadow-sm space-y-5">
-        <div className="flex items-center justify-between md:hidden">
-          <span className="text-xs font-bold text-emerald-950/80 flex items-center gap-1">🔍 旅を探す</span>
-          <button
-            onClick={() => setIsFilterOpen(!isFilterOpen)}
-            className="text-xs font-bold text-teal-800 bg-teal-50 px-4 py-2 rounded-xl border border-teal-800/10 cursor-pointer"
-          >
-            {isFilterOpen ? "閉じる" : "フィルターを表示"}
-          </button>
-        </div>
-
-        <div className={`grid grid-cols-1 md:grid-cols-4 gap-4 ${isFilterOpen ? "block" : "hidden md:grid"}`}>
-          {/* キーワード */}
-          <div className="space-y-1.5">
-            <label className="text-[10px] font-extrabold text-teal-900/60 uppercase tracking-wider block">キーワード検索</label>
-            <input
-              type="text"
-              placeholder="宿名・エリア・温泉など..."
-              value={searchQuery}
-              onChange={(e) => setSearchQuery(e.target.value)}
-              className="w-full text-xs bg-emerald-50/30 border border-emerald-950/10 rounded-xl px-4 py-3 text-emerald-950 placeholder-emerald-950/30 focus:outline-none focus:border-teal-700 transition"
-            />
-          </div>
-
-          {/* エリア/地方 */}
-          <div className="space-y-1.5">
-            <label className="text-[10px] font-extrabold text-teal-900/60 uppercase tracking-wider block">地方・エリア</label>
-            <select
-              value={selectedArea}
-              onChange={(e) => {
-                setSelectedArea(e.target.value);
-                setSelectedPref("すべて"); // エリア変更時に都道府県をリセット
-              }}
-              className="w-full text-xs bg-emerald-50/30 border border-emerald-950/10 rounded-xl px-4 py-3 text-emerald-950 focus:outline-none focus:border-teal-700 transition cursor-pointer"
-            >
-              {AREAS.map((a) => (
-                <option key={a} value={a}>{a}</option>
-              ))}
-            </select>
-          </div>
-
-          {/* 都道府県 */}
-          <div className="space-y-1.5">
-            <label className="text-[10px] font-extrabold text-teal-900/60 uppercase tracking-wider block">都道府県</label>
-            <select
-              value={selectedPref}
-              onChange={(e) => setSelectedPref(e.target.value)}
-              className="w-full text-xs bg-emerald-50/30 border border-emerald-950/10 rounded-xl px-4 py-3 text-emerald-950 focus:outline-none focus:border-teal-700 transition cursor-pointer"
-            >
-              {PREFECTURES.map((p) => (
-                <option key={p} value={p}>{p}</option>
-              ))}
-            </select>
-          </div>
-
-          {/* 旅行テーマ/カテゴリ */}
-          <div className="space-y-1.5">
-            <label className="text-[10px] font-extrabold text-teal-900/60 uppercase tracking-wider block">旅のテーマ</label>
-            <select
-              value={selectedCategory}
-              onChange={(e) => setSelectedCategory(e.target.value)}
-              className="w-full text-xs bg-emerald-50/30 border border-emerald-950/10 rounded-xl px-4 py-3 text-emerald-950 focus:outline-none focus:border-teal-700 transition cursor-pointer"
-            >
-              {CATEGORIES.map((c) => (
-                <option key={c} value={c}>{c}</option>
-              ))}
-            </select>
-          </div>
-        </div>
-
-        {hasActiveFilters && (
-          <div className="flex items-center justify-between text-xs pt-4 border-t border-emerald-950/5">
-            <span className="text-emerald-950/60 font-medium">
-              該当の旅行特集: <strong className="text-teal-800 font-bold">{filteredPosts.length}</strong> 件
-            </span>
-            <button
-              onClick={() => {
-                setSearchQuery("");
-                setSelectedArea("すべて");
-                setSelectedCategory("すべて");
-                setSelectedPref("すべて");
-              }}
-              className="text-teal-800 font-bold hover:text-teal-700 cursor-pointer"
-            >
-              条件をリセット ×
-            </button>
-          </div>
-        )}
-      </section>
-
-      {/* 特集カードグリッド */}
-      {loading ? (
-        <div className="text-center py-24">
-          <div className="inline-block animate-spin rounded-full h-8 w-8 border-t-2 border-teal-700 border-r-2" />
-          <p className="mt-4 text-xs text-emerald-950/40 font-semibold">最新記事を編集中...</p>
-        </div>
-      ) : filteredPosts.length === 0 ? (
-        <div className="text-center py-24 border border-dashed border-emerald-950/10 rounded-2xl bg-white shadow-sm">
-          <p className="text-emerald-950/40 text-xs font-semibold">ご指定のエリア・テーマにマッチする特集記事は現在準備中です。</p>
-        </div>
-      ) : (
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
-          {filteredPosts.map((post) => (
-            <article
-              key={post.id}
-              className="flex flex-col rounded-2xl overflow-hidden bg-white border border-emerald-950/5 card-hover-effect shadow-sm"
-            >
-              {/* 大画像アイキャッチ */}
-              <div className="aspect-[16/10] relative overflow-hidden bg-emerald-50 flex items-center justify-center border-b border-emerald-950/5">
-                {post.image ? (
-                  <img
-                    src={post.image}
-                    alt={post.hotel_name}
-                    className="w-full h-full object-cover transition-transform duration-700 ease-out hover:scale-105"
-                    loading="lazy"
-                  />
-                ) : (
-                  <span className="text-emerald-950/30 text-xs font-semibold">No Image</span>
-                )}
-                {/* 地方/都道府県タグ */}
-                <div className="absolute top-4 left-4 flex gap-1.5">
-                  <span className="text-[9px] font-extrabold bg-teal-800 text-white px-3 py-1 rounded-full shadow-sm">
-                    {post.area}
-                  </span>
-                  <span className="text-[9px] font-extrabold bg-amber-600 text-white px-3 py-1 rounded-full shadow-sm">
-                    {post.prefecture}
-                  </span>
-                </div>
-                {post.price && (
-                  <span className="absolute bottom-4 right-4 text-[10px] font-black bg-slate-900/90 text-amber-300 px-3 py-1 rounded-lg">
-                    目安: ¥{Number(post.price).toLocaleString()}〜
-                  </span>
-                )}
-              </div>
-
-              {/* メモリアルな情報レイアウト */}
-              <div className="p-6 flex-grow flex flex-col justify-between space-y-4">
-                <div className="space-y-3">
-                  <div className="flex items-center justify-between text-[9px] font-bold text-emerald-950/40">
-                    <span>{post.date}</span>
-                    {post.rating && (
-                      <span className="text-amber-600 font-extrabold flex items-center gap-0.5">
-                        ⭐ {post.rating}
-                      </span>
-                    )}
-                  </div>
-                  <h2 className="text-base md:text-lg font-black font-journal-serif leading-snug text-emerald-950 line-clamp-2 hover:text-teal-800 transition">
-                    {post.hotel_name}
-                  </h2>
-                  <div
-                    className="text-xs text-emerald-950/60 leading-relaxed line-clamp-3 font-medium"
-                    dangerouslySetInnerHTML={{ __html: post.review }}
-                  />
-                </div>
-
-                <div className="pt-4 flex flex-col gap-3 border-t border-emerald-950/5">
-                  {/* カテゴリ表示 */}
-                  <div className="flex flex-wrap gap-1">
-                    {post.categories?.map((cat) => (
-                      <span key={cat} className="text-[9px] font-bold text-teal-800 bg-teal-50 border border-teal-800/10 px-2.5 py-0.5 rounded-full">
-                        #{cat}
-                      </span>
-                    ))}
-                  </div>
-                  <Link
-                    href={`/posts/${post.id}`}
-                    className="w-full text-center text-xs font-extrabold text-white bg-gradient-to-r from-teal-800 to-emerald-900 hover:from-teal-700 hover:to-emerald-800 py-3 rounded-xl shadow transition duration-200 cursor-pointer"
-                  >
-                    この宿の特集ルポを読む 🧭
-                  </Link>
-                </div>
-              </div>
-            </article>
-          ))}
-        </div>
-      )}
+      {/* 記事一覧（フィルター付きClient Component） */}
+      <PostListClient initialPosts={posts} />
     </div>
   );
 }

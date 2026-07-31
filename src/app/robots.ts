@@ -12,6 +12,7 @@ export default function robots(): MetadataRoute.Robots {
         allow: '/',
         disallow: ['/private/'],
       },
+      // AIクローラーは許可（GEO対策: AIの回答にサイトが引用されるよう）
       {
         userAgent: [
           'GPTBot',
@@ -26,6 +27,7 @@ export default function robots(): MetadataRoute.Robots {
         allow: '/',
       }
     ],
-    sitemap: 'https://croud-travel.pages.dev/sitemap.xml',
+    // 環境変数から動的に生成（ハードコード解消）
+    sitemap: `${baseUrl}/sitemap.xml`,
   };
 }

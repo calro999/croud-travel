@@ -5,11 +5,17 @@ import { PREFECTURES_DATA } from '@/data/prefecturesData';
 
 export const dynamic = 'force-static';
 
+interface Post {
+  id: string;
+  date?: string;
+  prefecture?: string;
+}
+
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
   
   // 1. 投稿記事ページのURL生成
-  let posts: any[] = [];
+  let posts: Post[] = [];
   try {
     const dataPath = path.join(process.cwd(), 'public', 'data', 'posts.json');
     if (fs.existsSync(dataPath)) {
@@ -22,9 +28,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   const postEntries: MetadataRoute.Sitemap = posts.map((post) => ({
     url: `${baseUrl}/posts/${post.id}`,
-    lastModified: new Date(post.date || Date.now()),
+    lastModified: post.date ? new Date(post.date) : new Date(),
     changeFrequency: 'weekly',
-    priority: 0.8,
+    priority: 0.9,  // 0.8 → 0.9 に引き上げ（宿記事を重要視）
   }));
 
   // 2. 47都道府県ページのURL生成
@@ -53,13 +59,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
       url: `${baseUrl}/campaigns`,
       lastModified: new Date(),
       changeFrequency: 'daily',
-      priority: 0.9,
+      priority: 0.8,
     },
     {
       url: `${baseUrl}/sitemap`,
       lastModified: new Date(),
       changeFrequency: 'weekly',
-      priority: 0.8,
+      priority: 0.5,
     },
   ];
 

@@ -65,10 +65,23 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
       ? post.review.replace(/<[^>]*>/g, "").slice(0, 120) + "..."
       : `${post.prefecture}の観光魅力と厳選宿「${post.hotel_name}」を紹介する旅行マガジンルポ記事です。`);
 
+    const keywordExtras = [
+      ...(post.nearby_tourist_spots || []),
+      ...(post.nearby_gourmet || []),
+      post.hot_spring_info ? "温泉" : "",
+      post.family_friendly ? "子連れ" : "",
+    ].filter(Boolean);
+
     return {
       title: `${post.hotel_name}（${post.prefecture}）おすすめ観光＆宿泊ガイド ｜ 日本全国・旅びより`,
       description: descriptionText,
-      keywords: [post.hotel_name, post.prefecture, post.area, "観光名所", "ご当地グルメ", "楽天トラベル", "宿泊予約"].concat(post.categories || []).join(","),
+      keywords: [
+        post.hotel_name, post.prefecture, post.area,
+        "観光名所", "ご当地グルメ", "楽天トラベル", "宿泊予約",
+        "温泉", "徒歩", "駐車場", "子連れ", "周辺ホテル",
+        ...keywordExtras,
+        ...(post.categories || [])
+      ].filter(Boolean).join(","),
       alternates: {
         canonical: `${baseUrl}/posts/${id}`,
       },
@@ -77,7 +90,7 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
         description: descriptionText,
         url: `${baseUrl}/posts/${id}`,
         siteName: "日本全国・旅びより",
-        images: post.image ? [{ url: post.image, alt: post.hotel_name }] : [],
+        images: post.image ? [{ url: post.image, alt: post.hotel_name, width: 1200, height: 630 }] : [],
         type: "article",
         publishedTime: post.date,
       },
@@ -132,7 +145,7 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
 
   const allPosts = loadAllPosts();
 
-  // Structured Data (JSON-LD) definition for Article, Hotel, Breadcrumbs & FAQPage (GEO Optimized)
+  // Structured Data (JSON-LD): Article + LodgingBusiness + Breadcrumb + FAQPage
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
@@ -140,21 +153,39 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
     "description": post.description || post.title,
     "image": post.image ? [post.image] : [],
     "datePublished": post.date || "2026-01-01",
-    "author": {
-      "@type": "Organization",
-      "name": "日本全国・旅びより編集部"
-    },
+    "dateModified": post.date || "2026-01-01",
+    "author": { "@type": "Organization", "name": "日本全国・旅びより編集部" },
     "publisher": {
       "@type": "Organization",
       "name": "日本全国・旅びより",
-      "logo": {
-        "@type": "ImageObject",
-        "url": `${baseUrl}/icon.png`
-      }
+      "logo": { "@type": "ImageObject", "url": `${baseUrl}/icon.png` }
     },
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": `${baseUrl}/posts/${post.id}`
+    "mainEntityOfPage": { "@type": "WebPage", "@id": `${baseUrl}/posts/${post.id}` }
+  };
+
+  // LodgingBusiness スキーマ（ホテル検索クエリを拾うための重要スキーマ）
+  const jsonLdLodging = {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": post.hotel_name,
+    "description": post.description || post.title,
+    "image": post.image || undefined,
+    "url": `${baseUrl}/posts/${post.id}`,
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": post.prefecture,
+      "addressLocality": post.area,
+      "addressCountry": "JP"
+    },
+    ...(post.rating ? { "aggregateRating": { "@type": "AggregateRating", "ratingValue": post.rating, "bestRating": "5", "worstRating": "1", "reviewCount": "1" } } : {}),
+    ...(post.price ? { "priceRange": `¥${Number(post.price).toLocaleString()}〜` } : {}),
+    ...(post.nearby_tourist_spots && post.nearby_tourist_spots.length > 0 ? {
+      "amenityFeature": post.nearby_tourist_spots.map(spot => ({ "@type": "LocationFeatureSpecification", "name": spot, "value": true }))
+    } : {}),
+    "potentialAction": {
+      "@type": "ReserveAction",
+      "target": post.affiliate_url,
+      "name": `${post.hotel_name}を楽天トラベルで予約`
     }
   };
 
@@ -162,35 +193,40 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "ホーム",
-        "item": baseUrl
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": `${post.prefecture}の観光・宿泊情報`,
-        "item": baseUrl
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": post.hotel_name,
-        "item": `${baseUrl}/posts/${post.id}`
-      }
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": baseUrl },
+      { "@type": "ListItem", "position": 2, "name": `${post.prefecture}の観光・宿泊情報`, "item": `${baseUrl}/prefectures/${post.prefecture.replace(/[都道府県]$/, "").toLowerCase()}` },
+      { "@type": "ListItem", "position": 3, "name": post.hotel_name, "item": `${baseUrl}/posts/${post.id}` }
     ]
   };
 
   const faqList = [
     {
-      q: `${post.prefecture}旅行のおすすめシーズンやベストシーズンはいつですか？`,
-      a: `${post.prefecture}は四季折々の魅力があり、春の桜や新緑、夏のレジャー、秋の紅葉、冬のご当地味覚や温泉など、年間を通じて楽しめます。観光名所の巡りやすさからは春（4〜5月）と秋（9〜11月）が特に人気のベストシーズンです。`
+      q: `${post.hotel_name}は${post.prefecture}のどのエリアにありますか？`,
+      a: `${post.hotel_name}は${post.prefecture}の${post.area}エリアに位置しています。${
+        post.nearby_tourist_spots && post.nearby_tourist_spots.length > 0
+          ? `周辺には「${post.nearby_tourist_spots.slice(0, 2).join('」「')}」などの観光スポットが徒歩圏内にあり、観光拠点として最適です。`
+          : "周辺観光地へのアクセスも良好で、旅の拠点に最適な立地です。"
+      }`
     },
     {
-      q: `${post.hotel_name}のおすすめポイントや魅力を教えてください。`,
-      a: `${post.hotel_name}は${post.prefecture}（${post.area}）エリアの観光拠点に最適なロケーションを誇ります。旅の疲れを癒やす快適な客室や季節の味覚を楽しめるプランが好評で、楽天トラベルから空室状況や限定クーポンを利用して予約が可能です。`
+      q: `${post.hotel_name}に駐車場はありますか？`,
+      a: post.parking_info || `${post.hotel_name}の駐車場については、宿泊予約ページ（楽天トラベル）にて最新の収容台数・料金・予約方法をご確認ください。事前にお問い合わせいただくと安心です。`
+    },
+    {
+      q: `${post.hotel_name}は子連れ・ファミリーで利用できますか？`,
+      a: post.family_friendly || `${post.hotel_name}はお子様連れのご家族にも対応しております。ベビーベッドや子供向けアメニティの貸出については、楽天トラベルの詳細ページもしくは宿へ直接お問い合わせください。`
+    },
+    {
+      q: `${post.hotel_name}に温泉・大浴場はありますか？`,
+      a: post.hot_spring_info || `${post.hotel_name}の温泉・大浴場の有無については、楽天トラベルの施設詳細ページにてご確認ください。${post.prefecture}は温泉が豊富な地域で、周辺に日帰り温泉施設がある場合もあります。`
+    },
+    {
+      q: `${post.hotel_name}では朝食・夕食は食べられますか？`,
+      a: post.meal_availability || `${post.hotel_name}では宿泊プランによって朝食・夕食の有無が異なります。地元食材を活かした料理が人気で、プランの詳細は楽天トラベルの予約ページでご確認いただけます。`
+    },
+    {
+      q: `${post.prefecture}旅行のおすすめシーズンやベストシーズンはいつですか？`,
+      a: `${post.prefecture}は四季折々の魅力があり、春の桜や新緑、夏のレジャー、秋の紅葉、冬のご当地味覚や温泉など、年間を通じて楽しめます。観光名所の巡りやすさからは春（4〜5月）と秋（9〜11月）が特に人気のベストシーズンです。`
     },
     {
       q: `${post.prefecture}で味わいたいご当地グルメや名産品は何ですか？`,
@@ -206,34 +242,23 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
     "mainEntity": faqList.map(item => ({
       "@type": "Question",
       "name": item.q,
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": item.a
-      }
+      "acceptedAnswer": { "@type": "Answer", "text": item.a }
     }))
   };
 
   return (
     <div className="space-y-6 max-w-4xl mx-auto">
       {/* 構造化データ JSON-LD */}
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdFaq) }}
-      />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdLodging) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdFaq) }} />
 
       {/* Breadcrumb パンくずリスト */}
       <nav aria-label="Breadcrumb" className="text-xs font-bold text-teal-900/60 flex items-center flex-wrap gap-2">
         <Link href="/" className="hover:text-teal-800 transition">ホーム</Link>
         <span>/</span>
-        <span className="text-teal-950 font-bold">{post.prefecture}（{post.area}）</span>
+        <Link href={`/prefectures/${post.prefecture.replace(/[都道府県]$/, '').toLowerCase()}`} className="text-teal-950 font-bold hover:text-teal-700 transition">{post.prefecture}（{post.area}）</Link>
         <span>/</span>
         <span className="text-emerald-950/40 line-clamp-1">{post.hotel_name}</span>
       </nav>
@@ -273,6 +298,8 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
               src={post.image}
               alt={`${post.hotel_name} - ${post.prefecture}観光ガイド`}
               className="w-full h-full object-cover"
+              loading="eager"
+              fetchPriority="high"
             />
           ) : (
             <div className="w-full h-full bg-emerald-50 flex items-center justify-center text-emerald-950/30 text-xs font-semibold">
