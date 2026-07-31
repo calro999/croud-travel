@@ -37,11 +37,11 @@ export const metadata: Metadata = {
     "金沢 寿司 ランチ", "金沢 海鮮丼", "金沢 のどぐろ", "金沢 居酒屋", "金沢 カフェ", "金沢 夜ご飯", "金沢 お土産",
     "金沢 駐車場", "金沢 夜景", "金沢 温泉 日帰り", "楽天トラベル"
   ],
-  alternates: { canonical:  },
+  alternates: { canonical: `${baseUrl}/kanazawa/` },
   openGraph: {
     title: "金沢旅行 完全計画サポートガイド ｜ 旅びより",
     description: "金沢旅行を思い立った瞬間から宿泊予約まで。モデルコース・車なし散策・海鮮グルメ・おすすめホテル徹底比較。",
-    url: ,
+    url: `${baseUrl}/kanazawa/`,
     siteName: "旅びより",
     type: "article",
   },
