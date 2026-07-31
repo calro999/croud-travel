@@ -108,27 +108,29 @@ export default function Home() {
             旅ライターが厳選した、楽天トラベルでおもわず予約したくなる「一生に一度は泊まりたい宿」と全国47都道府県の見所を特集。あなただけの至福の旅がここから始まります。
           </p>
 
-          <div className="flex flex-wrap gap-3 pt-2">
-            <Link
-              href="/kanazawa"
-              className="px-5 py-2.5 text-xs font-extrabold text-teal-950 bg-amber-400 hover:bg-amber-300 rounded-xl shadow transition flex items-center gap-1.5"
-            >
-              <span>🌸</span>
-              <span>金沢旅行 完全計画ガイド</span>
-            </Link>
-            <Link
-              href="/prefectures"
-              className="px-5 py-2.5 text-xs font-extrabold text-white bg-white/10 hover:bg-white/20 border border-white/20 rounded-xl shadow transition"
-            >
-              🗾 47都道府県の見所一覧
-            </Link>
-            <Link
-              href="/campaigns"
-              className="px-5 py-2.5 text-xs font-extrabold text-white bg-white/10 hover:bg-white/20 border border-white/20 rounded-xl shadow transition"
-            >
-              🎁 お得キャンペーン一覧
-            </Link>
-          </div>
+          <div className="flex flex-wrap justify-center gap-4 pt-4">
+          <Link
+            href="/kanazawa"
+            className="px-8 py-4 text-sm font-black text-teal-950 bg-gradient-to-r from-amber-300 via-amber-200 to-amber-400 hover:from-amber-200 hover:to-amber-300 rounded-2xl shadow-xl transition transform hover:-translate-y-0.5 border border-amber-200 flex items-center gap-2"
+          >
+            <span>🌸</span>
+            <span>金沢旅行 完全計画ガイド</span>
+          </Link>
+          <Link
+            href="/noto"
+            className="px-8 py-4 text-sm font-black text-white bg-gradient-to-r from-teal-700 via-emerald-800 to-teal-900 hover:from-teal-600 hover:to-emerald-700 rounded-2xl shadow-xl transition transform hover:-translate-y-0.5 border border-teal-500/30 flex items-center gap-2"
+          >
+            <span>🌊</span>
+            <span>能登旅行 完全計画ガイド</span>
+          </Link>
+          <Link
+            href="/prefectures"
+            className="px-8 py-4 text-sm font-bold text-white bg-white/10 hover:bg-white/20 backdrop-blur-md rounded-2xl shadow-lg transition border border-white/20 flex items-center gap-2"
+          >
+            <span>🗾</span>
+            <span>全国47都道府県から探す</span>
+          </Link>
+        </div>
         </div>
 
         {/* 雑誌スタッツカウンター風UI */}

@@ -44,13 +44,19 @@ export default function sitemap(): MetadataRoute.Sitemap {
   // 3. 基本ページのURL定義
   const staticEntries: MetadataRoute.Sitemap = [
     {
-      url: `${baseUrl}`,
+      url: `${baseUrl}/`,
       lastModified: new Date(),
       changeFrequency: 'daily',
       priority: 1.0,
     },
     {
       url: `${baseUrl}/kanazawa`,
+      lastModified: new Date(),
+      changeFrequency: 'daily',
+      priority: 1.0,
+    },
+    {
+      url: `${baseUrl}/noto`,
       lastModified: new Date(),
       changeFrequency: 'daily',
       priority: 1.0,
