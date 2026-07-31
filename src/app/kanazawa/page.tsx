@@ -525,7 +525,7 @@ export default function KanazawaGuidePage() {
                   ✈️ 楽天トラベルで最安値・空室を見る
                 </a>
                 <Link
-                  href={}
+                  href={`/posts/${post.id}`}
                   className="block w-full text-center py-2 text-[11px] font-bold text-white bg-white/10 hover:bg-white/20 rounded-xl transition border border-white/20"
                 >
                   📖 宿泊ルポ記事を読む

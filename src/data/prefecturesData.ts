@@ -1779,7 +1779,7 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
       {
         name: "菊姫（きくひめ）山廃仕込 純米酒",
         brewery: "菊姫合資会社（白山市）",
-        type": "濃醇旨口・山廃仕込",
+        type: "濃醇旨口・山廃仕込",
         description: "山廃仕込みのパイオニア。酸味とコクが調和した芳醇な味わいで、お燗にするとさらに旨味が引き立ちます。"
       }
     ]
