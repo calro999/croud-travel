@@ -63,6 +63,7 @@ function main() {
   // 静的基本ページ
   const staticPages = [
     { url: `${BASE_URL}/`, priority: '1.0', changefreq: 'daily' },
+    { url: `${BASE_URL}/kanazawa`, priority: '1.0', changefreq: 'daily' },
     { url: `${BASE_URL}/prefectures`, priority: '0.9', changefreq: 'daily' },
     { url: `${BASE_URL}/campaigns`, priority: '0.9', changefreq: 'daily' },
     { url: `${BASE_URL}/sitemap`, priority: '0.8', changefreq: 'weekly' }

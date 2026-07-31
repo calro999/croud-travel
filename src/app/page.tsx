@@ -110,8 +110,15 @@ export default function Home() {
 
           <div className="flex flex-wrap gap-3 pt-2">
             <Link
+              href="/kanazawa"
+              className="px-5 py-2.5 text-xs font-extrabold text-teal-950 bg-amber-400 hover:bg-amber-300 rounded-xl shadow transition flex items-center gap-1.5"
+            >
+              <span>🌸</span>
+              <span>金沢旅行 完全計画ガイド</span>
+            </Link>
+            <Link
               href="/prefectures"
-              className="px-5 py-2.5 text-xs font-extrabold text-teal-950 bg-amber-400 hover:bg-amber-300 rounded-xl shadow transition"
+              className="px-5 py-2.5 text-xs font-extrabold text-white bg-white/10 hover:bg-white/20 border border-white/20 rounded-xl shadow transition"
             >
               🗾 47都道府県の見所一覧
             </Link>
