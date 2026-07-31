@@ -176,8 +176,30 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": baseUrl },
       { "@type": "ListItem", "position": 2, "name": "47都道府県一覧", "item": `${baseUrl}/prefectures` },
       { "@type": "ListItem", "position": 3, "name": `${prefInfo.name}観光ハブ`, "item": `${baseUrl}/prefectures/${prefInfo.slug}` }
-    ]
-  };
+  // 固有FAQの読み込み
+  const faqPath = path.join(process.cwd(), 'src', 'data', 'faqs', `${prefInfo.slug}.json`);
+  let faqList: any[] = [];
+  try {
+    if (fs.existsSync(faqPath)) {
+      faqList = JSON.parse(fs.readFileSync(faqPath, 'utf8'));
+    }
+  } catch (err) {
+    console.error('Error reading FAQ for', prefInfo.slug, err);
+  }
+
+  // JSON-LD FAQ
+  const jsonLdFaq = faqList.length > 0 ? {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": faqList.map((item: any) => ({
+      "@type": "Question",
+      "name": item.q,
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": item.a
+      }
+    }))
+  } : null;
 
   return (
     <div className="space-y-12 max-w-5xl mx-auto">
@@ -186,6 +208,12 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }}
       />
+      {jsonLdFaq && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdFaq) }}
+        />
+      )}
 
       {/* パンくずナビ */}
       <nav aria-label="Breadcrumb" className="text-xs font-bold text-teal-900/60 flex items-center gap-2">
@@ -605,6 +633,33 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
               <span>{prefInfo.name}の他のおすすめ地酒・宿情報を見る</span>
               <span>→</span>
             </Link>
+          </div>
+        </section>
+      )}
+
+      {/* 5. 旅のプロが厳選！よくある質問 (FAQ) */}
+      {faqList.length > 0 && (
+        <section className="bg-white border border-emerald-950/10 rounded-3xl p-6 md:p-10 shadow-sm space-y-6">
+          <div className="space-y-2 border-b border-emerald-950/10 pb-4">
+            <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2">
+              <span>❓</span> <span>{prefInfo.name}旅行のプロに聞く！よくある質問（FAQ）</span>
+            </h2>
+            <p className="text-xs text-emerald-950/60 leading-relaxed font-medium">
+              これから{prefInfo.name}への旅行を計画されている方から多く寄せられる質問に、旅行雑誌の編集部がお答えします。
+            </p>
+          </div>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+            {faqList.map((faq: any, idx: number) => (
+              <div key={idx} className="p-4 rounded-xl bg-teal-50/40 border border-teal-900/10 space-y-2">
+                <h4 className="text-sm font-bold text-teal-950 flex items-start gap-2">
+                  <span className="text-teal-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span>
+                </h4>
+                <p className="text-xs text-emerald-950/80 leading-relaxed pl-6">
+                  {faq.a}
+                </p>
+              </div>
+            ))}
           </div>
         </section>
       )}
