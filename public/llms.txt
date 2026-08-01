@@ -58,6 +58,14 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【ととのう極上ステイ】話題のサウナ付きホテル・絶景サウナ宿厳選ガイド](https://croud-travel.pages.dev/posts/sauna-hotel-guide): 全国 サウナ付き極上ホテル（全国）
+- [【2026年お盆休み】一人旅歓迎！今から間に合うおひとりさま向けおすすめホテル・温泉宿](https://croud-travel.pages.dev/posts/obon-solo-travel-guide): 全国 お盆休みの一人旅におすすめの宿（全国）
+- [【2026年お盆休み】今からでも間に合う！夏休みの家族旅行・カップルにおすすめの温泉宿](https://croud-travel.pages.dev/posts/obon-travel-guide): 全国 お盆休みにおすすめの宿（全国）
+- [【自分へのご褒美】一人旅歓迎！極上のリトリートステイができる高級ホテル・温泉宿](https://croud-travel.pages.dev/posts/solo-travel-luxury-guide): 全国 一人旅歓迎の高級宿（全国）
+- [【大自然×贅沢】手ぶらで極上体験！おすすめグランピング施設・ホテル大特集](https://croud-travel.pages.dev/posts/glamping-guide): 全国 グランピング・アウトドアリゾート（全国）
+- [【家族旅行】子連れ・赤ちゃん歓迎！パパママ安心のおすすめホテル・温泉宿](https://croud-travel.pages.dev/posts/family-welcome-baby-guide): 全国 子連れ歓迎・ウェルカムベビーのお宿（全国）
+- [【京都】一度は泊まりたい高級旅館・和風ホテル厳選ガイド](https://croud-travel.pages.dev/posts/kyoto-ryokan-guide): 京都府 京都市内・嵐山（京都府）
+- [【箱根】客室露天風呂がある極上の高級温泉宿・カップル向けおすすめ旅館](https://croud-travel.pages.dev/posts/hakone-open-air-bath-guide): 神奈川県 箱根温泉郷（神奈川県）
 - [【避暑地】夏の北海道・大自然を満喫できる絶景リゾートホテル大特集](https://croud-travel.pages.dev/posts/hokkaido-summer-resorts-guide): 北海道 リゾートエリア（北海道）
 - [【2026年最新】沖縄の絶景・高級リゾートホテル厳選ガイド](https://croud-travel.pages.dev/posts/okinawa-luxury-resorts-guide): 沖縄県 西海岸・恩納村周辺リゾート（沖縄県）
 - [【2026年最新】東京ディズニーリゾートおすすめホテルランキング！](https://croud-travel.pages.dev/posts/disney-hotels-api-guide): 東京ディズニーリゾート周辺ホテル（千葉県）
@@ -100,11 +108,3 @@
 - [【おすすめ宿】ＡＢホテル行橋の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/172605): ＡＢホテル行橋（福井県）
 - [【富山県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/10934): 富山地鉄ホテル（富山県）
 - [【おすすめ宿】ガーデンホテル静岡の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/161182): ガーデンホテル静岡（静岡県）
-- [【大阪府観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/19666): ビジネスホテル太洋＜大阪府＞（大阪府）
-- [【おすすめ宿】感動鹿角パークホテルの魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/10789): 感動鹿角パークホテル（秋田県）
-- [【静岡県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/40559): ロイヤルイン掛川（ステーションホテル２）（静岡県）
-- [【おすすめ宿】磐梯熱海温泉　ＡＳＡＫＡＳＯ　～五の香を感じる宿　浅香荘～の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/176762): 磐梯熱海温泉　ＡＳＡＫＡＳＯ　～五の香を感じる宿　浅香荘～（東京都）
-- [【群馬県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/30696): 水上温泉郷　水上高原ホテル２００（群馬県）
-- [【おすすめ宿】ホテルサザンヴィレッジ沖縄の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/129499): ホテルサザンヴィレッジ沖縄（沖縄県）
-- [【大阪府観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/217): 湯元「花乃井」スーパーホテル大阪天然温泉（大阪府）
-- [【高千穂・青島・日南宿】天然温泉　日向の湯　ドーミーイン宮崎（ドーミーイン・御宿野乃　ホテルズグループ）の魅力と見どころガイド](https://croud-travel.pages.dev/posts/162643): 天然温泉　日向の湯　ドーミーイン宮崎（ドーミーイン・御宿野乃　ホテルズグループ）（宮崎県）
