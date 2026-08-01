@@ -4,6 +4,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { Metadata } from "next";
 import RelatedPosts, { PostSummary } from "@/app/components/RelatedPosts";
+import { PREFECTURES_DATA } from "@/data/prefecturesData";
 
 interface Post {
   id: string;
@@ -191,12 +192,15 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
     }
   };
 
+  const prefInfo = PREFECTURES_DATA.find((p) => p.name === post.prefecture || p.name.startsWith(post.prefecture));
+  const prefSlug = prefInfo ? prefInfo.slug : post.prefecture.toLowerCase();
+
   const jsonLdBreadcrumb = {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": baseUrl },
-      { "@type": "ListItem", "position": 2, "name": `${post.prefecture}の観光・宿泊情報`, "item": `${baseUrl}/prefectures/${post.prefecture.replace(/[都道府県]$/, "").toLowerCase()}` },
+      { "@type": "ListItem", "position": 2, "name": `${post.prefecture}の観光・宿泊情報`, "item": `${baseUrl}/prefectures/${prefSlug}` },
       { "@type": "ListItem", "position": 3, "name": post.hotel_name, "item": `${baseUrl}/posts/${post.id}` }
     ]
   };
