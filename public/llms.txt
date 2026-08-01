@@ -58,7 +58,9 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
-- [【能登ポケモンコラボ完全ガイド】車なしでも安心！移動手段とポケふた巡りまとめ｜旅びより](https://croud-travel.pages.dev/posts/noto-pokemon-travel-guide): 能登ポケモンコラボ巡礼＆おすすめ温泉宿特集（石川県）
+- [【2026年最新】東京ディズニーリゾートおすすめホテルランキング！](https://croud-travel.pages.dev/posts/disney-hotels-api-guide): 東京ディズニーリゾート周辺ホテル（千葉県）
+- [【2026年最新】USJオフィシャルホテルおすすめランキング！マリオ＆ドンキーコング入場確約・安く泊まる裏ワザ徹底解説](https://croud-travel.pages.dev/posts/usj-official-hotels-guide): USJ（ユニバ）オフィシャルホテル特集（大阪府）
+- [【2026年最新】能登ポケモンコラボ完全ガイド！ポケふた全7枚マップ・車なしルート・グッズ・足湯を徹底解説](https://croud-travel.pages.dev/posts/noto-pokemon-travel-guide): 能登ポケモンコラボ巡礼＆おすすめ温泉宿特集（石川県）
 - [【おすすめ宿】五箇山　旅館　よしのや＜富山県＞の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/31820): 五箇山　旅館　よしのや＜富山県＞（富山県）
 - [【富山県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/196259): 天然温泉スーパーホテルＰｒｅｍｉｅｒ富山・城址公園前（富山県）
 - [【おすすめ宿】Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＶＩＬＬＡ　草津温泉の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/195645): Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＶＩＬＬＡ　草津温泉（群馬県）
@@ -106,5 +108,3 @@
 - [【高千穂・青島・日南宿】天然温泉　日向の湯　ドーミーイン宮崎（ドーミーイン・御宿野乃　ホテルズグループ）の魅力と見どころガイド](https://croud-travel.pages.dev/posts/162643): 天然温泉　日向の湯　ドーミーイン宮崎（ドーミーイン・御宿野乃　ホテルズグループ）（宮崎県）
 - [【高千穂・青島・日南宿】ＦＡＶ　ＬＵＸ　宮崎の魅力と見どころガイド](https://croud-travel.pages.dev/posts/199224): ＦＡＶ　ＬＵＸ　宮崎（宮崎県）
 - [【高千穂・青島・日南宿】ＡＮＡホリデイ・インリゾート宮崎　ｂｙ　ＩＨＧの魅力と見どころガイド](https://croud-travel.pages.dev/posts/8782): ＡＮＡホリデイ・インリゾート宮崎　ｂｙ　ＩＨＧ（宮崎県）
-- [【別府温泉・由布院温泉宿】湯布院温泉　御宿　由布乃庄の魅力と見どころガイド](https://croud-travel.pages.dev/posts/106080): 湯布院温泉　御宿　由布乃庄（大分県）
-- [【別府温泉・由布院温泉宿】由布院温泉　草庵秋桜の魅力と見どころガイド](https://croud-travel.pages.dev/posts/139452): 由布院温泉　草庵秋桜（大分県）

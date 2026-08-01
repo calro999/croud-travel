@@ -1709,19 +1709,19 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
             hotelName: "金沢白鳥路 ホテル山楽",
             areaName: "兼六園・金沢城前",
             postId: "8279",
-            image: "https://img.travel.rakuten.co.jp/share/HOTEL/9004/9004.jpg",
+            image: "https://img.travel.rakuten.co.jp/share/HOTEL/8279/8279.jpg",
             price: 12000,
             rating: 4.7,
-            affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/9004/9004.html"
+            affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/8279/8279.html"
           },
           {
             hotelName: "天然温泉 加賀の宝泉 御宿 野乃金沢",
             areaName: "近江町市場徒歩1分",
             postId: "181519",
-            image: "https://img.travel.rakuten.co.jp/share/HOTEL/182423/182423.jpg",
+            image: "https://img.travel.rakuten.co.jp/share/HOTEL/181519/181519.jpg",
             price: 9800,
             rating: 4.6,
-            affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/182423/182423.html"
+            affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/181519/181519.html"
           }
         ]
       }
@@ -1767,19 +1767,19 @@ export const PREFECTURES_DATA: PrefectureInfo[] = [
       {
         name: "黒帯（くろおび）堂々 純米",
         brewery: "株式会社福光屋（金沢市）",
-        type: "金沢老舗蔵・伝統純米",
+        "type": "金沢老舗蔵・伝統純米",
         description: "金沢で最も古い歴史をもつ蔵元。しっかりとした米の旨味とキレがあり、金沢の海の幸やのどぐろと相性抜群。"
       },
       {
         name: "手取川（てどりがわ）ishikawa mon 純米吟醸",
         brewery: "吉田酒造店（白山市）",
-        type: "フレッシュ吟醸",
+        "type": "フレッシュ吟醸",
         description: "石川県産酒米「石川門」を使用。フルーティーな香りと爽やかな酸味が女性や日本酒初心者にも大人気。"
       },
       {
         name: "菊姫（きくひめ）山廃仕込 純米酒",
         brewery: "菊姫合資会社（白山市）",
-        type: "濃醇旨口・山廃仕込",
+        "type": "濃醇旨口・山廃仕込",
         description: "山廃仕込みのパイオニア。酸味とコクが調和した芳醇な味わいで、お燗にするとさらに旨味が引き立ちます。"
       }
     ]

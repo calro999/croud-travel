@@ -37,11 +37,11 @@ export const metadata: Metadata = {
     "金沢 寿司 ランチ", "金沢 海鮮丼", "金沢 のどぐろ", "金沢 居酒屋", "金沢 カフェ", "金沢 夜ご飯", "金沢 お土産",
     "金沢 駐車場", "金沢 夜景", "金沢 温泉 日帰り", "楽天トラベル"
   ],
-  alternates: { canonical: `${baseUrl}/kanazawa/` },
+  alternates: { canonical: "https://croud-travel.pages.dev/kanazawa" },
   openGraph: {
     title: "金沢旅行 完全計画サポートガイド ｜ 旅びより",
     description: "金沢旅行を思い立った瞬間から宿泊予約まで。モデルコース・車なし散策・海鮮グルメ・おすすめホテル徹底比較。",
-    url: `${baseUrl}/kanazawa/`,
+    url: "https://croud-travel.pages.dev/kanazawa",
     siteName: "旅びより",
     type: "article",
   },
@@ -75,8 +75,8 @@ export default function KanazawaGuidePage() {
     "@type": "BreadcrumbList",
     itemListElement: [
       { "@type": "ListItem", position: 1, name: "ホーム", item: baseUrl },
-      { "@type": "ListItem", position: 2, name: "石川県 観光ガイド", item: `${baseUrl}/prefectures/ishikawa/` },
-      { "@type": "ListItem", position: 3, name: "金沢旅行 完全計画ガイド", item: `${baseUrl}/kanazawa/` },
+      { "@type": "ListItem", position: 2, name: "石川県 観光ガイド", item: `${baseUrl}/prefectures/ishikawa` },
+      { "@type": "ListItem", position: 3, name: "金沢旅行 完全計画ガイド", item: `${baseUrl}/kanazawa` },
     ],
   };
 
@@ -318,10 +318,10 @@ export default function KanazawaGuidePage() {
                 <span className="font-extrabold text-amber-800 block">【DAY 1】城下町の風情と海鮮グルメ</span>
                 <ul className="space-y-1.5 text-emerald-950/80 leading-relaxed pl-2">
                   <li>• 11:00 金沢駅到着（鼓門・もてなしドームで記念撮影）</li>
-                  <li>• 11:30 <strong className="font-bold text-amber-950">近江町市場</strong>（絶品海鮮丼・のどぐろランチ＆食べ歩き）</li>
-                  <li>• 13:30 <strong className="font-bold text-amber-950">ひがし茶屋街</strong>（出格子の街並み徒歩散策＆金箔ソフトクリーム・町家カフェ）</li>
-                  <li>• 16:00 <strong className="font-bold text-amber-950">兼六園</strong>（所要時間1.5時間・霞ヶ池＆徽軫灯籠）</li>
-                  <li>• 18:00 金沢駅・片町で<strong className="font-bold text-amber-950">居酒屋・のどぐろ・金沢料理ディナー</strong></li>
+                  <li>• 11:30 **近江町市場**（絶品海鮮丼・のどぐろランチ＆食べ歩き）</li>
+                  <li>• 13:30 **ひがし茶屋街**（出格子の街並み徒歩散策＆金箔ソフトクリーム・町家カフェ）</li>
+                  <li>• 16:00 **兼六園**（所要時間1.5時間・霞ヶ池＆徽軫灯籠）</li>
+                  <li>• 18:00 金沢駅・片町で**居酒屋・のどぐろ・金沢料理ディナー**</li>
                   <li>• 20:00 金沢市内のホテル・温泉宿チェックイン</li>
                 </ul>
               </div>
@@ -329,10 +329,10 @@ export default function KanazawaGuidePage() {
               <div className="p-4 bg-white rounded-xl border border-amber-200 space-y-2">
                 <span className="font-extrabold text-amber-800 block">【DAY 2】現代アートと武家屋敷散策</span>
                 <ul className="space-y-1.5 text-emerald-950/80 leading-relaxed pl-2">
-                  <li>• 09:00 <strong className="font-bold text-amber-950">金沢21世紀美術館</strong>（スイミング・プール＆アート鑑賞/所要時間1.5時間）</li>
-                  <li>• 11:30 <strong className="font-bold text-amber-950">長町武家屋敷跡</strong>（土塀の広がる情緒ある街並みを徒歩散策）</li>
-                  <li>• 13:00 <strong className="font-bold text-amber-950">金沢寿司ランチ</strong>（金沢港直送の廻る寿司・職人握り）</li>
-                  <li>• 14:30 金沢駅百番街「あんと」で<strong className="font-bold text-amber-950">銘菓・加賀棒茶お土産買い出し</strong></li>
+                  <li>• 09:00 **金沢21世紀美術館**（スイミング・プール＆アート鑑賞/所要時間1.5時間）</li>
+                  <li>• 11:30 **長町武家屋敷跡**（土塀の広がる情緒ある街並みを徒歩散策）</li>
+                  <li>• 13:00 **金沢寿司ランチ**（金沢港直送の廻る寿司・職人握り）</li>
+                  <li>• 14:30 金沢駅百番街「あんと」で**銘菓・加賀棒茶お土産買い出し**</li>
                   <li>• 16:00 新幹線で帰路へ</li>
                 </ul>
               </div>
@@ -370,7 +370,7 @@ export default function KanazawaGuidePage() {
               <span>兼六園（けんろくえん）</span>
             </h3>
             <p className="text-emerald-950/80 leading-relaxed font-medium">
-              <strong className="font-bold text-amber-950">所要時間：約1時間〜1.5時間</strong><br />
+              **所要時間：約1時間〜1.5時間**<br />
               加賀藩主によって造営された日本三名園の一つ。徽軫灯籠、唐崎の松、霞ヶ池など見どころ多数。春の桜や秋の紅葉ライトアップ、冬の雪吊りは感動的です。
             </p>
           </div>
@@ -381,7 +381,7 @@ export default function KanazawaGuidePage() {
               <span>近江町市場（おうみちょういちば）</span>
             </h3>
             <p className="text-emerald-950/80 leading-relaxed font-medium">
-              <strong className="font-bold text-amber-950">所要時間：約1時間〜2時間</strong><br />
+              **所要時間：約1時間〜2時間**<br />
               「金沢の市民の台所」として約300年続く市場。新鮮な魚介類の食べ歩き（生牡蠣・うに・のどぐろ串）や海鮮丼・寿司ランチの名店が軒を連ねます。
             </p>
           </div>
@@ -392,7 +392,7 @@ export default function KanazawaGuidePage() {
               <span>ひがし茶屋街（ひがしちゃやがい）</span>
             </h3>
             <p className="text-emerald-950/80 leading-relaxed font-medium">
-              <strong className="font-bold text-amber-950">所要時間：約1時間〜1.5時間</strong><br />
+              **所要時間：約1時間〜1.5時間**<br />
               美しい出格子の町家が並ぶ金沢を代表する茶屋街。着物での徒歩散策に大人気。箔一の「金箔ソフト」や伝統工芸ショップ、町家カフェが充実。
             </p>
           </div>
@@ -403,7 +403,7 @@ export default function KanazawaGuidePage() {
               <span>金沢21世紀美術館</span>
             </h3>
             <p className="text-emerald-950/80 leading-relaxed font-medium">
-              <strong className="font-bold text-amber-950">所要時間：約1.5時間〜2時間</strong><br />
+              **所要時間：約1.5時間〜2時間**<br />
               レアンドロ・エルリッヒの「スイミング・プール」で有名な現代美術館。円形の開放的な建物と体感型アートでカップルや若者に大人気。
             </p>
           </div>
@@ -478,7 +478,7 @@ export default function KanazawaGuidePage() {
                   {post.image ? (
                     <img
                       src={post.image}
-                      alt={post.hotel_name || "金沢おすすめホテル・宿"}
+                      alt={post.title || "image"}
                       className="w-full h-full object-cover"
                       loading="lazy"
                     />

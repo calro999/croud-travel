@@ -34,13 +34,13 @@ export const metadata: Metadata = {
     "あぜの万灯", "のとじま水族館", "能登島 観光", "見附島", "軍艦島", "九十九湾", "能登金剛 巌門",
     "のと里山空港", "金沢 能登 アクセス", "のと鉄道", "能登 フリーきっぷ", "能登丼", "能登牛",
     "能登 牡蠣 食べ歩き", "能登 海鮮丼", "能登 寿司", "能登 カフェ", "能登 お土産", "揚浜式塩田",
-    "能登 温泉宿", "能登 露天風呂付き客室", "能登 オーシャンビュー ホテル", "能登 コスパ 宿", "能登 高級旅館", "楽天トラベル"
+    "能登 温泉宿", "能登 露天風呂付き客室", "能登 オーシャンビュー ホテル", "能登 コスパ ホテル", "楽天トラベル"
   ],
-  alternates: { canonical: `${baseUrl}/noto/` },
+  alternates: { canonical: "https://croud-travel.pages.dev/noto" },
   openGraph: {
     title: "能登旅行 完全計画サポートガイド ｜ 旅びより",
     description: "能登旅行を思い立った瞬間から宿泊予約まで。和倉温泉・白米千枚田・モデルコース・能登丼・絶景温泉宿徹底比較。",
-    url: `${baseUrl}/noto/`,
+    url: "https://croud-travel.pages.dev/noto",
     siteName: "旅びより",
     type: "article",
   },
@@ -79,8 +79,8 @@ export default function NotoGuidePage() {
     "@type": "BreadcrumbList",
     itemListElement: [
       { "@type": "ListItem", position: 1, name: "ホーム", item: baseUrl },
-      { "@type": "ListItem", position: 2, name: "石川県 観光ガイド", item: `${baseUrl}/prefectures/ishikawa/` },
-      { "@type": "ListItem", position: 3, name: "能登旅行 完全計画ガイド", item: `${baseUrl}/noto/` },
+      { "@type": "ListItem", position: 2, name: "石川県 観光ガイド", item: `${baseUrl}/prefectures/ishikawa` },
+      { "@type": "ListItem", position: 3, name: "能登旅行 完全計画ガイド", item: `${baseUrl}/noto` },
     ],
   };
 
@@ -314,10 +314,10 @@ export default function NotoGuidePage() {
                 <span className="font-extrabold text-amber-800 block">【DAY 1】千里浜となぎさドライブ＆和倉温泉</span>
                 <ul className="space-y-1.5 text-emerald-950/80 leading-relaxed pl-2">
                   <li>• 10:00 金沢からレンタカー出発（のと里山海道）</li>
-                  <li>• 10:45 <strong className="font-bold text-amber-950">千里浜なぎさドライブウェイ</strong>（砂浜ドライブ）</li>
-                  <li>• 12:30 <strong className="font-bold text-amber-950">能登島</strong>（のとじま水族館＆能登島大橋絶景）</li>
-                  <li>• 15:30 <strong className="font-bold text-amber-950">和倉温泉</strong>チェックイン（海を望む露天風呂）</li>
-                  <li>• 18:00 旅館で<strong className="font-bold text-amber-950">能登の海鮮・能登牛の豪華夕食</strong></li>
+                  <li>• 10:45 **千里浜なぎさドライブウェイ**（砂浜ドライブ）</li>
+                  <li>• 12:30 **能登島**（のとじま水族館＆能登島大橋絶景）</li>
+                  <li>• 15:30 **和倉温泉**チェックイン（海を望む露天風呂）</li>
+                  <li>• 18:00 旅館で**能登の海鮮・能登牛の豪華夕食**</li>
                 </ul>
               </div>
 
@@ -325,35 +325,12 @@ export default function NotoGuidePage() {
                 <span className="font-extrabold text-amber-800 block">【DAY 2】輪島朝市と白米千枚田・奥能登絶景</span>
                 <ul className="space-y-1.5 text-emerald-950/80 leading-relaxed pl-2">
                   <li>• 08:30 和倉温泉出発→輪島へ</li>
-                  <li>• 09:30 <strong className="font-bold text-amber-950">輪島朝市</strong>（海鮮干物・漆器の買い物＆食べ歩き）</li>
-                  <li>• 11:30 <strong className="font-bold text-amber-950">白米千枚田</strong>（日本海と棚田の絶景散策/所要時間1時間）</li>
-                  <li>• 13:00 輪島市内で<strong className="font-bold text-amber-950">名物「能登丼」ランチ</strong></li>
+                  <li>• 09:30 **輪島朝市**（海鮮干物・漆器の買い物＆食べ歩き）</li>
+                  <li>• 11:30 **白米千枚田**（日本海と棚田の絶景散策/所要時間1時間）</li>
+                  <li>• 13:00 輪島市内で**名物「能登丼」ランチ**</li>
                   <li>• 15:00 帰路（のと里山空港または金沢へ）</li>
                 </ul>
               </div>
-            </div>
-          </div>
-
-          <div className="p-6 rounded-2xl bg-gradient-to-br from-amber-500/10 via-teal-500/10 to-emerald-500/10 border border-amber-400/40 space-y-4">
-            <div className="flex flex-wrap items-center justify-between gap-2 border-b border-amber-300/40 pb-3">
-              <h3 className="text-base font-black text-amber-950 flex items-center gap-2">
-                <span>⚡</span> <span>【超目玉】2026年最新「能登×ポケモンコラボ」聖地巡礼モデルコース</span>
-              </h3>
-              <span className="text-[10px] font-black bg-gradient-to-r from-amber-400 to-amber-300 text-teal-950 px-3 py-1 rounded-full shadow">
-                必見！ご当地ポケモンスポット
-              </span>
-            </div>
-            <p className="text-emerald-950/90 leading-relaxed font-medium">
-              輪島・七尾・穴水の「ポケふた」マンホール巡り、和倉温泉「わくらポケモン足湯」、世界初の「のと里山ポケモン・ウィズ・ユー空港」を効率よく網羅するスペシャルモデルコース！
-            </p>
-            <div className="pt-2">
-              <Link
-                href="/posts/noto-pokemon-travel-guide/"
-                className="inline-flex items-center gap-2 px-6 py-3 bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 text-white font-black rounded-xl shadow transition"
-              >
-                <span>⚡</span>
-                <span>能登×ポケモンコラボ（ポケふた・わくら足湯・空港）完全攻略記事を読む</span>
-              </Link>
             </div>
           </div>
 
@@ -388,7 +365,7 @@ export default function NotoGuidePage() {
               <span>白米千枚田（しろよねせんまいだ）</span>
             </h3>
             <p className="text-emerald-950/80 leading-relaxed font-medium">
-              <strong className="font-bold text-amber-950">所要時間：約45分〜1時間</strong><br />
+              **所要時間：約45分〜1時間**<br />
               国の名勝。急斜面に1,004枚もの小さな田んぼが重なる世界農業遺産のシンボル。道の駅「千枚田ポケットパーク」からの見下ろしが絶景。
             </p>
           </div>
@@ -399,7 +376,7 @@ export default function NotoGuidePage() {
               <span>のとじま水族館（能登島）</span>
             </h3>
             <p className="text-emerald-950/80 leading-relaxed font-medium">
-              <strong className="font-bold text-amber-950">所要時間：約1.5時間〜2時間</strong><br />
+              **所要時間：約1.5時間〜2時間**<br />
               日本海側で唯一ジンベエザメを飼育する大水族館。プロジェクションマッピングによる幻想的なクラゲ回廊やイルカショーが大人気。
             </p>
           </div>
@@ -410,7 +387,7 @@ export default function NotoGuidePage() {
               <span>輪島朝市（わじまあさいち）</span>
             </h3>
             <p className="text-emerald-950/80 leading-relaxed font-medium">
-              <strong className="font-bold text-amber-950">所要時間：約1時間〜1.5時間</strong><br />
+              **所要時間：約1時間〜1.5時間**<br />
               千年の歴史をもつ日本三大朝市の一つ。おばあちゃん達の威勢の良い掛け声とともに、海鮮干物、柚子餅、伝統の輪島塗が並びます。
             </p>
           </div>
@@ -421,7 +398,7 @@ export default function NotoGuidePage() {
               <span>見附島（軍艦島 / 珠洲市）</span>
             </h3>
             <p className="text-emerald-950/80 leading-relaxed font-medium">
-              <strong className="font-bold text-amber-950">所要時間：約30分〜45分</strong><br />
+              **所要時間：約30分〜45分**<br />
               高さ28mの島が軍艦のようにそびえ立つ珠洲のシンボル。引き潮時には踏み石を渡って島の近くまで歩くことができ、えんむすびーちとしても有名。
             </p>
           </div>
@@ -496,7 +473,7 @@ export default function NotoGuidePage() {
                   {post.image ? (
                     <img
                       src={post.image}
-                      alt={post.hotel_name || "能登おすすめホテル・温泉宿"}
+                      alt={post.title || "image"}
                       className="w-full h-full object-cover"
                       loading="lazy"
                     />

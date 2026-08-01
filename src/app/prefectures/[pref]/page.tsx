@@ -241,47 +241,12 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
         </div>
 
         <h1 className="text-3xl md:text-5xl font-black font-journal-serif leading-tight text-white">
-          【{prefInfo.name} 完全旅行計画ガイド】<br />
-          <span className="bg-gradient-to-r from-amber-200 via-amber-300 to-teal-100 bg-clip-text text-transparent">
-            モデルコース・観光名所・ご当地グルメ・絶景宿＆宿泊予約サポート
-          </span>
+          【{prefInfo.name}】エリア別観光名所・絶景カフェ・銘菓お土産・地酒＆おすすめ宿 ガイド
         </h1>
 
         <p className="text-emerald-100/90 text-xs md:text-sm max-w-3xl leading-relaxed font-medium">
-          {prefInfo.description} 「{prefInfo.name}には何がある？」「1泊2日モデルコースは？」「車なし徒歩で回れる？」「おすすめの温泉宿は？」といった疑問をすべて解決。{prefInfo.name}旅行の計画を7つのステップでスムーズにサポートします。
+          {prefInfo.description}
         </p>
-
-        {/* 黄金7ステップ ナビゲーションバー */}
-        <div className="grid grid-cols-2 sm:grid-cols-4 md:grid-cols-7 gap-2 pt-4 border-t border-white/10 text-center">
-          <a href="#plan-step1" className="p-2 bg-white/10 hover:bg-amber-500/30 rounded-xl transition space-y-1 border border-white/10">
-            <span className="block text-[10px] font-extrabold text-amber-300">STEP 1</span>
-            <span className="block text-xs font-bold">アクセス・交通</span>
-          </a>
-          <a href="#plan-step2" className="p-2 bg-white/10 hover:bg-amber-500/30 rounded-xl transition space-y-1 border border-white/10">
-            <span className="block text-[10px] font-extrabold text-amber-300">STEP 2</span>
-            <span className="block text-xs font-bold">{prefInfo.name}の魅力</span>
-          </a>
-          <a href="#plan-step3" className="p-2 bg-white/10 hover:bg-amber-500/30 rounded-xl transition space-y-1 border border-white/10">
-            <span className="block text-[10px] font-extrabold text-amber-300">STEP 3</span>
-            <span className="block text-xs font-bold">モデルコース</span>
-          </a>
-          <a href="#subareas" className="p-2 bg-white/10 hover:bg-amber-500/30 rounded-xl transition space-y-1 border border-white/10">
-            <span className="block text-[10px] font-extrabold text-amber-300">STEP 4</span>
-            <span className="block text-xs font-bold">エリア・名所</span>
-          </a>
-          <a href="#cafes" className="p-2 bg-white/10 hover:bg-amber-500/30 rounded-xl transition space-y-1 border border-white/10">
-            <span className="block text-[10px] font-extrabold text-amber-300">STEP 5</span>
-            <span className="block text-xs font-bold">グルメ・お土産</span>
-          </a>
-          <a href="#subareas" className="p-2 bg-white/10 hover:bg-amber-500/30 rounded-xl transition space-y-1 border border-white/10">
-            <span className="block text-[10px] font-extrabold text-amber-300">STEP 6</span>
-            <span className="block text-xs font-bold">ホテル選び</span>
-          </a>
-          <a href="#subareas" className="p-2 bg-amber-500/40 hover:bg-amber-500/60 rounded-xl transition space-y-1 border border-amber-400/40">
-            <span className="block text-[10px] font-black text-amber-200">STEP 7</span>
-            <span className="block text-xs font-black">宿泊予約</span>
-          </a>
-        </div>
 
         {/* 著名なハイライト＆ご当地グルメ */}
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4 pt-4 border-t border-white/10 text-xs">
