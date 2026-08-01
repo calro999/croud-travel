@@ -58,6 +58,7 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【避暑地】夏の北海道・大自然を満喫できる絶景リゾートホテル大特集](https://croud-travel.pages.dev/posts/hokkaido-summer-resorts-guide): 北海道 リゾートエリア（北海道）
 - [【2026年最新】沖縄の絶景・高級リゾートホテル厳選ガイド](https://croud-travel.pages.dev/posts/okinawa-luxury-resorts-guide): 沖縄県 西海岸・恩納村周辺リゾート（沖縄県）
 - [【2026年最新】東京ディズニーリゾートおすすめホテルランキング！](https://croud-travel.pages.dev/posts/disney-hotels-api-guide): 東京ディズニーリゾート周辺ホテル（千葉県）
 - [【2026年最新】USJオフィシャルホテルおすすめランキング！マリオ＆ドンキーコング入場確約・安く泊まる裏ワザ徹底解説](https://croud-travel.pages.dev/posts/usj-official-hotels-guide): USJ（ユニバ）オフィシャルホテル特集（大阪府）
@@ -107,4 +108,3 @@
 - [【おすすめ宿】ホテルサザンヴィレッジ沖縄の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/129499): ホテルサザンヴィレッジ沖縄（沖縄県）
 - [【大阪府観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/217): 湯元「花乃井」スーパーホテル大阪天然温泉（大阪府）
 - [【高千穂・青島・日南宿】天然温泉　日向の湯　ドーミーイン宮崎（ドーミーイン・御宿野乃　ホテルズグループ）の魅力と見どころガイド](https://croud-travel.pages.dev/posts/162643): 天然温泉　日向の湯　ドーミーイン宮崎（ドーミーイン・御宿野乃　ホテルズグループ）（宮崎県）
-- [【高千穂・青島・日南宿】ＦＡＶ　ＬＵＸ　宮崎の魅力と見どころガイド](https://croud-travel.pages.dev/posts/199224): ＦＡＶ　ＬＵＸ　宮崎（宮崎県）
