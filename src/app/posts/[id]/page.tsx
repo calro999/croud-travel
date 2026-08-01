@@ -27,6 +27,7 @@ interface Post {
   hot_spring_info?: string;
   nearby_gourmet?: string[];
   meal_availability?: string;
+  is_special_feature?: boolean;
 }
 
 export const dynamicParams = false;
@@ -250,9 +251,9 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
     <div className="space-y-6 max-w-4xl mx-auto">
       {/* 構造化データ JSON-LD */}
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdLodging) }} />
+      {!post.is_special_feature && <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdLodging) }} />}
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdFaq) }} />
+      {!post.is_special_feature && <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdFaq) }} />}
 
       {/* Breadcrumb パンくずリスト */}
       <nav aria-label="Breadcrumb" className="text-xs font-bold text-teal-900/60 flex items-center flex-wrap gap-2">
@@ -308,94 +309,99 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
           )}
         </div>
 
-        {/* 宿情報サマリー */}
-        <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 p-6 rounded-2xl bg-emerald-50/20 border border-emerald-950/5 text-xs text-emerald-950">
-          <div className="space-y-1">
-            <span className="text-teal-900/50 font-extrabold uppercase tracking-wider block text-[9px]">正式宿泊施設名</span>
-            <span className="font-bold text-sm text-teal-950">
-              {post.hotel_name}
-            </span>
-          </div>
-          {post.price && (
-            <div className="space-y-1">
-              <span className="text-teal-900/50 font-extrabold uppercase tracking-wider block text-[9px]">参考最安価格</span>
-              <span className="font-black text-amber-700 text-sm">
-                消費税込 ¥{Number(post.price).toLocaleString()}〜 / 人
-              </span>
-            </div>
-          )}
-        </div>
-
-        {/* 宿泊施設 詳細情報（SEO対策・よくある検索） */}
-        { (post.recommended_for || post.nearby_tourist_spots || post.parking_info || post.family_friendly || post.hot_spring_info || post.nearby_gourmet || post.meal_availability) && (
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-4 p-6 rounded-2xl bg-teal-50/30 border border-teal-900/10 text-sm mt-4">
-            {post.recommended_for && post.recommended_for.length > 0 && (
+        {/* 宿情報サマリーからギャラリーまでは通常記事のみ表示 */}
+        {!post.is_special_feature && (
+          <>
+            {/* 宿情報サマリー */}
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 p-6 rounded-2xl bg-emerald-50/20 border border-emerald-950/5 text-xs text-emerald-950">
               <div className="space-y-1">
-                <span className="text-teal-900/60 font-extrabold uppercase text-[10px]">この宿がおすすめな人</span>
-                <p className="font-bold text-teal-950">{post.recommended_for.join(" / ")}</p>
+                <span className="text-teal-900/50 font-extrabold uppercase tracking-wider block text-[9px]">正式宿泊施設名</span>
+                <span className="font-bold text-sm text-teal-950">
+                  {post.hotel_name}
+                </span>
               </div>
-            )}
-            {post.nearby_tourist_spots && post.nearby_tourist_spots.length > 0 && (
-              <div className="space-y-1">
-                <span className="text-teal-900/60 font-extrabold uppercase text-[10px]">徒歩で行ける観光地</span>
-                <p className="font-bold text-teal-950">{post.nearby_tourist_spots.join(" / ")}</p>
-              </div>
-            )}
-            {post.parking_info && (
-              <div className="space-y-1">
-                <span className="text-teal-900/60 font-extrabold uppercase text-[10px]">駐車場事情</span>
-                <p className="font-bold text-teal-950">{post.parking_info}</p>
-              </div>
-            )}
-            {post.family_friendly && (
-              <div className="space-y-1">
-                <span className="text-teal-900/60 font-extrabold uppercase text-[10px]">子連れ向けか</span>
-                <p className="font-bold text-teal-950">{post.family_friendly}</p>
-              </div>
-            )}
-            {post.hot_spring_info && (
-              <div className="space-y-1">
-                <span className="text-teal-900/60 font-extrabold uppercase text-[10px]">温泉情報</span>
-                <p className="font-bold text-teal-950">{post.hot_spring_info}</p>
-              </div>
-            )}
-            {post.nearby_gourmet && post.nearby_gourmet.length > 0 && (
-              <div className="space-y-1">
-                <span className="text-teal-900/60 font-extrabold uppercase text-[10px]">周辺グルメ</span>
-                <p className="font-bold text-teal-950">{post.nearby_gourmet.join(" / ")}</p>
-              </div>
-            )}
-            {post.meal_availability && (
-              <div className="space-y-1">
-                <span className="text-teal-900/60 font-extrabold uppercase text-[10px]">朝食や夕食の有無</span>
-                <p className="font-bold text-teal-950">{post.meal_availability}</p>
-              </div>
-            )}
-          </div>
-        )}
-
-        {/* 宿のギャラリー画像 */}
-        {post.other_images && post.other_images.length > 0 && (
-          <div className="space-y-4 pt-8 border-t border-emerald-950/5">
-            <h3 className="text-xs font-extrabold text-teal-900/60 uppercase tracking-widest">
-              ▼ 施設ギャラリー（客室・お風呂・館内）
-            </h3>
-            <div className="grid grid-cols-2 sm:grid-cols-3 gap-4">
-              {post.other_images.map((imgUrl, idx) => (
-                <div
-                  key={idx}
-                  className="aspect-video relative overflow-hidden rounded-xl border border-emerald-950/5 bg-emerald-50 shadow-sm"
-                >
-                  <img
-                    src={imgUrl}
-                    alt={`${post.hotel_name} ギャラリー写真 ${idx + 1}`}
-                    className="w-full h-full object-cover"
-                    loading="lazy"
-                  />
+              {post.price && (
+                <div className="space-y-1">
+                  <span className="text-teal-900/50 font-extrabold uppercase tracking-wider block text-[9px]">参考最安価格</span>
+                  <span className="font-black text-amber-700 text-sm">
+                    消費税込 ¥{Number(post.price).toLocaleString()}〜 / 人
+                  </span>
                 </div>
-              ))}
+              )}
             </div>
-          </div>
+
+            {/* 宿泊施設 詳細情報（SEO対策・よくある検索） */}
+            { (post.recommended_for || post.nearby_tourist_spots || post.parking_info || post.family_friendly || post.hot_spring_info || post.nearby_gourmet || post.meal_availability) && (
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-4 p-6 rounded-2xl bg-teal-50/30 border border-teal-900/10 text-sm mt-4">
+                {post.recommended_for && post.recommended_for.length > 0 && (
+                  <div className="space-y-1">
+                    <span className="text-teal-900/60 font-extrabold uppercase text-[10px]">この宿がおすすめな人</span>
+                    <p className="font-bold text-teal-950">{post.recommended_for.join(" / ")}</p>
+                  </div>
+                )}
+                {post.nearby_tourist_spots && post.nearby_tourist_spots.length > 0 && (
+                  <div className="space-y-1">
+                    <span className="text-teal-900/60 font-extrabold uppercase text-[10px]">徒歩で行ける観光地</span>
+                    <p className="font-bold text-teal-950">{post.nearby_tourist_spots.join(" / ")}</p>
+                  </div>
+                )}
+                {post.parking_info && (
+                  <div className="space-y-1">
+                    <span className="text-teal-900/60 font-extrabold uppercase text-[10px]">駐車場事情</span>
+                    <p className="font-bold text-teal-950">{post.parking_info}</p>
+                  </div>
+                )}
+                {post.family_friendly && (
+                  <div className="space-y-1">
+                    <span className="text-teal-900/60 font-extrabold uppercase text-[10px]">子連れ向けか</span>
+                    <p className="font-bold text-teal-950">{post.family_friendly}</p>
+                  </div>
+                )}
+                {post.hot_spring_info && (
+                  <div className="space-y-1">
+                    <span className="text-teal-900/60 font-extrabold uppercase text-[10px]">温泉情報</span>
+                    <p className="font-bold text-teal-950">{post.hot_spring_info}</p>
+                  </div>
+                )}
+                {post.nearby_gourmet && post.nearby_gourmet.length > 0 && (
+                  <div className="space-y-1">
+                    <span className="text-teal-900/60 font-extrabold uppercase text-[10px]">周辺グルメ</span>
+                    <p className="font-bold text-teal-950">{post.nearby_gourmet.join(" / ")}</p>
+                  </div>
+                )}
+                {post.meal_availability && (
+                  <div className="space-y-1">
+                    <span className="text-teal-900/60 font-extrabold uppercase text-[10px]">朝食や夕食の有無</span>
+                    <p className="font-bold text-teal-950">{post.meal_availability}</p>
+                  </div>
+                )}
+              </div>
+            )}
+
+            {/* 宿のギャラリー画像 */}
+            {post.other_images && post.other_images.length > 0 && (
+              <div className="space-y-4 pt-8 border-t border-emerald-950/5">
+                <h3 className="text-xs font-extrabold text-teal-900/60 uppercase tracking-widest">
+                  ▼ 施設ギャラリー（客室・お風呂・館内）
+                </h3>
+                <div className="grid grid-cols-2 sm:grid-cols-3 gap-4">
+                  {post.other_images.map((imgUrl, idx) => (
+                    <div
+                      key={idx}
+                      className="aspect-video relative overflow-hidden rounded-xl border border-emerald-950/5 bg-emerald-50 shadow-sm"
+                    >
+                      <img
+                        src={imgUrl}
+                        alt={`${post.hotel_name} ギャラリー写真 ${idx + 1}`}
+                        className="w-full h-full object-cover"
+                        loading="lazy"
+                      />
+                    </div>
+                  ))}
+                </div>
+              </div>
+            )}
+          </>
         )}
 
         {/* 旅ライターによる極上ルポ */}
@@ -406,40 +412,45 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
           />
         </div>
 
-        {/* 楽天アフィリエイト連携 CTAボタン */}
-        <div className="pt-8 border-t border-emerald-950/5 text-center space-y-4">
-          <a
-            href={post.affiliate_url}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="inline-block px-10 py-5 text-sm md:text-base font-black text-white bg-gradient-to-r from-amber-600 via-amber-700 to-amber-800 hover:from-amber-500 hover:to-amber-700 rounded-2xl shadow-md transition duration-200 cursor-pointer"
-          >
-            ✈️ {post.hotel_name} の詳細プラン・空室状況を楽天トラベルで見る
-          </a>
-          <p className="text-[10px] text-emerald-950/40 font-bold">
-            ※クリックすると楽天トラベルの宿泊予約詳細ページへ遷移します
-          </p>
-        </div>
+        {/* 楽天アフィリエイトボタン・FAQは通常記事のみ表示 */}
+        {!post.is_special_feature && (
+          <>
+            {/* 楽天アフィリエイト連携 CTAボタン */}
+            <div className="pt-8 border-t border-emerald-950/5 text-center space-y-4">
+              <a
+                href={post.affiliate_url}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-block px-10 py-5 text-sm md:text-base font-black text-white bg-gradient-to-r from-amber-600 via-amber-700 to-amber-800 hover:from-amber-500 hover:to-amber-700 rounded-2xl shadow-md transition duration-200 cursor-pointer"
+              >
+                ✈️ {post.hotel_name} の詳細プラン・空室状況を楽天トラベルで見る
+              </a>
+              <p className="text-[10px] text-emerald-950/40 font-bold">
+                ※クリックすると楽天トラベルの宿泊予約詳細ページへ遷移します
+              </p>
+            </div>
 
-        {/* AI-SEO (GEO) ＆ ユーザー満足度向上の FAQ (よくある質問) */}
-        <div className="pt-10 border-t border-emerald-950/10 space-y-6">
-          <h3 className="text-lg md:text-xl font-bold font-journal-serif text-emerald-950 flex items-center gap-2">
-            <span>❓</span> <span>{post.prefecture}旅行・{post.hotel_name}に関するよくある質問（FAQ）</span>
-          </h3>
-          <div className="space-y-4">
-            {faqList.map((faq, idx) => (
-              <div key={idx} className="p-4 rounded-xl bg-teal-50/40 border border-teal-900/10 space-y-2">
-                <h4 className="text-sm font-bold text-teal-950 flex items-start gap-2">
-                  <span className="text-teal-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h4>
-                <p className="text-xs text-emerald-950/80 leading-relaxed pl-6">
-                  {faq.a}
-                </p>
+            {/* AI-SEO (GEO) ＆ ユーザー満足度向上の FAQ (よくある質問) */}
+            <div className="pt-10 border-t border-emerald-950/10 space-y-6">
+              <h3 className="text-lg md:text-xl font-bold font-journal-serif text-emerald-950 flex items-center gap-2">
+                <span>❓</span> <span>{post.prefecture}旅行・{post.hotel_name}に関するよくある質問（FAQ）</span>
+              </h3>
+              <div className="space-y-4">
+                {faqList.map((faq, idx) => (
+                  <div key={idx} className="p-4 rounded-xl bg-teal-50/40 border border-teal-900/10 space-y-2">
+                    <h4 className="text-sm font-bold text-teal-950 flex items-start gap-2">
+                      <span className="text-teal-800 font-extrabold">Q.</span>
+                      <span>{faq.q}</span>
+                    </h4>
+                    <p className="text-xs text-emerald-950/80 leading-relaxed pl-6">
+                      {faq.a}
+                    </p>
+                  </div>
+                ))}
               </div>
-            ))}
-          </div>
-        </div>
+            </div>
+          </>
+        )}
 
         {/* 関連記事 (内部リンク強化コンポーネント) */}
         <RelatedPosts
