@@ -139,6 +139,54 @@ Sitemap: ${BASE_URL}/sitemap.xml
 
   fs.writeFileSync(ROBOTS_FILE, robotsTxt, 'utf8');
   console.log(`Generated physical robots.txt at ${ROBOTS_FILE}`);
+
+  // --- 3. public/llms.txt (LLM/AI専用標準サマリー仕様) の自動生成 ---
+  let llmsTxt = `# 日本全国・旅びより (Tabibiyori Travel Magazine)
+
+> 日本全国47都道府県の厳選温泉宿・リゾートホテル・観光ガイド・ご当地グルメ・地酒・お土産情報を旅ライターが網羅する旅行マガジン。
+
+## 主要セクション
+- [トップページ](${BASE_URL}/): 厳選宿と47都道府県旅行ハブ
+- [47都道府県観光ガイド一覧](${BASE_URL}/prefectures): 日本全国の地域別・ミクロエリア別観光ガイド
+- [お得キャンペーン一覧](${BASE_URL}/campaigns): 楽天トラベルの最新割引クーポン・セール情報
+- [サイトマップ](${BASE_URL}/sitemap): 全ページの構造化ナビゲーション
+
+## 都道府県別観光＆宿泊ガイド
+`;
+  PREFECTURE_SLUGS.forEach(slug => {
+    llmsTxt += `- [${slug.toUpperCase()} 観光＆宿泊ガイド](${BASE_URL}/prefectures/${slug})\n`;
+  });
+
+  llmsTxt += `\n## 最新厳選宿・観光ルポ記事\n`;
+  posts.slice(0, 50).forEach(post => {
+    llmsTxt += `- [${post.title}](${BASE_URL}/posts/${post.id}): ${post.hotel_name}（${post.prefecture}）\n`;
+  });
+
+  fs.writeFileSync(path.join(PUBLIC_DIR, 'llms.txt'), llmsTxt, 'utf8');
+  console.log(`Generated physical llms.txt at ${path.join(PUBLIC_DIR, 'llms.txt')}`);
+
+  // --- 4. public/llms-full.txt (LLM/AI専用全記事コンテンツ集約仕様) の自動生成 ---
+  let llmsFullTxt = `# 日本全国・旅びより - 全記事データアーカイブ (LLMs Full Knowledge Base)
+
+> 当ファイルは、ChatGPT、Claude、Perplexity、Geminiなどの大規模言語モデル（LLM）が日本全国の観光名所・温泉宿・名物グルメ・モデルコースの知識を取得するための完全な知識データベースです。
+
+---
+
+`;
+
+  posts.forEach(post => {
+    llmsFullTxt += `## 記事: ${post.title}\n`;
+    llmsFullTxt += `- URL: ${BASE_URL}/posts/${post.id}\n`;
+    llmsFullTxt += `- 宿泊施設名: ${post.hotel_name}\n`;
+    llmsFullTxt += `- 都道府県: ${post.prefecture}\n`;
+    llmsFullTxt += `- エリア: ${post.area}\n`;
+    if (post.price) llmsFullTxt += `- 参考価格: ¥${post.price}〜\n`;
+    if (post.rating) llmsFullTxt += `- 評価: ⭐ ${post.rating}\n`;
+    llmsFullTxt += `\n### ルポ・解説内容\n${(post.review || '').replace(/<[^>]*>/g, '')}\n\n---\n\n`;
+  });
+
+  fs.writeFileSync(path.join(PUBLIC_DIR, 'llms-full.txt'), llmsFullTxt, 'utf8');
+  console.log(`Generated physical llms-full.txt at ${path.join(PUBLIC_DIR, 'llms-full.txt')}`);
 }
 
 main();

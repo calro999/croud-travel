@@ -71,6 +71,17 @@ export default function Home() {
     },
   };
 
+  const jsonLdOrganization = {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    name: "旅びより",
+    url: baseUrl,
+    logo: `${baseUrl}/icon.png`,
+    sameAs: [
+      `${baseUrl}/sitemap`
+    ]
+  };
+
   const jsonLdItemList = {
     "@context": "https://schema.org",
     "@type": "ItemList",
@@ -88,6 +99,7 @@ export default function Home() {
     <div className="space-y-12 md:space-y-16">
       {/* 構造化データ */}
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdWebsite) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdOrganization) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdItemList) }} />
 
       {/* 旅行雑誌風 ヒーロービジュアル */}
