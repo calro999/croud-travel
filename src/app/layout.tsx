@@ -118,6 +118,10 @@ export default function RootLayout({
                 <span>🗾 47都道府県の見所</span>
               </Link>
               <span className="text-emerald-950/20">/</span>
+              <Link href="/features" className="text-teal-800 hover:text-teal-600 transition flex items-center gap-1 font-black">
+                <span>✨ 特集・まとめ</span>
+              </Link>
+              <span className="text-emerald-950/20">/</span>
               <Link href="/campaigns" className="text-amber-700 hover:text-amber-600 transition flex items-center gap-1 font-black">
                 <span>🎁 お得キャンペーン</span>
               </Link>
@@ -189,6 +193,7 @@ export default function RootLayout({
                   { label: "🍜 グルメ・美食", href: "/?category=グルメ・美食" },
                   { label: "🏔️ アクティビティ・自然", href: "/?category=アクティビティ・自然" },
                   { label: "👨‍👩‍👧 ファミリー・女子旅", href: "/?category=ファミリー・女子旅" },
+                  { label: "✨ 特集・まとめ", href: "/features" },
                   { label: "🎁 お得キャンペーン", href: "/campaigns" },
                 ].map(item => (
                   <Link
@@ -252,6 +257,8 @@ export default function RootLayout({
                 <Link href="/" className="hover:text-teal-800">ホーム</Link>
                 <span>•</span>
                 <Link href="/prefectures" className="hover:text-teal-800">都道府県一覧</Link>
+                <span>•</span>
+                <Link href="/features" className="hover:text-teal-800 text-teal-800">特集一覧</Link>
                 <span>•</span>
                 <Link href="/campaigns" className="hover:text-teal-800 text-amber-700">お得キャンペーン</Link>
                 <span>•</span>
