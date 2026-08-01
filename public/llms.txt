@@ -69,6 +69,7 @@
 - [【避暑地】夏の北海道・大自然を満喫できる絶景リゾートホテル大特集](https://croud-travel.pages.dev/posts/hokkaido-summer-resorts-guide): 北海道 リゾートエリア（北海道）
 - [【2026年最新】沖縄の絶景・高級リゾートホテル厳選ガイド](https://croud-travel.pages.dev/posts/okinawa-luxury-resorts-guide): 沖縄県 西海岸・恩納村周辺リゾート（沖縄県）
 - [【2026年最新】東京ディズニーリゾートおすすめホテルランキング！](https://croud-travel.pages.dev/posts/disney-hotels-api-guide): 東京ディズニーリゾート周辺ホテル（千葉県）
+- [【埼玉県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/172568): スーパーホテル埼玉・川越　天然温泉　赤城の湯（埼玉県）
 - [【2026年最新】USJオフィシャルホテルおすすめランキング！マリオ＆ドンキーコング入場確約・安く泊まる裏ワザ徹底解説](https://croud-travel.pages.dev/posts/usj-official-hotels-guide): USJ（ユニバ）オフィシャルホテル特集（大阪府）
 - [【2026年最新】能登ポケモンコラボ完全ガイド！ポケふた全7枚マップ・車なしルート・グッズ・足湯を徹底解説](https://croud-travel.pages.dev/posts/noto-pokemon-travel-guide): 能登ポケモンコラボ巡礼＆おすすめ温泉宿特集（石川県）
 - [【おすすめ宿】五箇山　旅館　よしのや＜富山県＞の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/31820): 五箇山　旅館　よしのや＜富山県＞（富山県）
@@ -107,4 +108,3 @@
 - [【山形県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/184763): アパホテル〈浅草　蔵前北〉（山形県）
 - [【おすすめ宿】ＡＢホテル行橋の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/172605): ＡＢホテル行橋（福井県）
 - [【富山県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/10934): 富山地鉄ホテル（富山県）
-- [【おすすめ宿】ガーデンホテル静岡の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/161182): ガーデンホテル静岡（静岡県）

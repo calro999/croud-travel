@@ -4,6 +4,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { Metadata } from "next";
 import RelatedPosts, { PostSummary } from "@/app/components/RelatedPosts";
+import { PREFECTURES_DATA } from "@/data/prefecturesData";
 
 interface Post {
   id: string;
@@ -190,12 +191,22 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
     }
   };
 
+  const prefNameToSlug = PREFECTURES_DATA.reduce((acc, pref) => {
+    acc[pref.name] = pref.slug;
+    acc[pref.name.replace(/[都道府県]$/, '')] = pref.slug;
+    return acc;
+  }, {} as Record<string, string>);
+
+  const prefSlug = prefNameToSlug[post.prefecture] || prefNameToSlug[post.prefecture.replace(/[都道府県]$/, '')] || "";
+  const prefUrl = prefSlug ? `${baseUrl}/prefectures/${prefSlug}` : `${baseUrl}/prefectures`;
+  const prefPath = prefSlug ? `/prefectures/${prefSlug}` : `/prefectures`;
+
   const jsonLdBreadcrumb = {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": baseUrl },
-      { "@type": "ListItem", "position": 2, "name": `${post.prefecture}の観光・宿泊情報`, "item": `${baseUrl}/prefectures/${post.prefecture.replace(/[都道府県]$/, "").toLowerCase()}` },
+      { "@type": "ListItem", "position": 2, "name": `${post.prefecture}の観光・宿泊情報`, "item": prefUrl },
       { "@type": "ListItem", "position": 3, "name": post.hotel_name, "item": `${baseUrl}/posts/${post.id}` }
     ]
   };
@@ -259,7 +270,7 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
       <nav aria-label="Breadcrumb" className="text-xs font-bold text-teal-900/60 flex items-center flex-wrap gap-2">
         <Link href="/" className="hover:text-teal-800 transition">ホーム</Link>
         <span>/</span>
-        <Link href={`/prefectures/${post.prefecture.replace(/[都道府県]$/, '').toLowerCase()}`} className="text-teal-950 font-bold hover:text-teal-700 transition">{post.prefecture}（{post.area}）</Link>
+        <Link href={prefPath} className="text-teal-950 font-bold hover:text-teal-700 transition">{post.prefecture}（{post.area}）</Link>
         <span>/</span>
         <span className="text-emerald-950/40 line-clamp-1">{post.hotel_name}</span>
       </nav>
