@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import Link from "next/link";
 
 interface Post {
@@ -37,6 +37,27 @@ export default function PostListClient({ initialPosts }: { initialPosts: Post[] 
   const [selectedCategory, setSelectedCategory] = useState<string>("すべて");
   const [selectedPref, setSelectedPref] = useState<string>("すべて");
   const [isFilterOpen, setIsFilterOpen] = useState<boolean>(false);
+
+  useEffect(() => {
+    if (typeof window !== "undefined") {
+      const params = new URLSearchParams(window.location.search);
+      const cat = params.get("category");
+      if (cat) {
+        const catMap: Record<string, string> = {
+          "onsen": "温泉旅行",
+          "luxury": "高級宿・リゾート",
+          "gourmet": "グルメ・美食",
+          "activity": "アクティビティ・自然",
+          "family": "ファミリー・女子旅",
+        };
+        if (catMap[cat]) {
+          setSelectedCategory(catMap[cat]);
+          // If a category was in the URL, optionally open the filter panel to show it's active
+          setIsFilterOpen(true);
+        }
+      }
+    }
+  }, []);
 
   const filteredPosts = initialPosts.filter((post) => {
     const matchesSearch =

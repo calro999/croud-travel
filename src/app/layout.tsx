@@ -188,11 +188,11 @@ export default function RootLayout({
               </h3>
               <div className="flex flex-wrap gap-2">
                 {[
-                  { label: "🌡️ 温泉旅行", href: "/?category=温泉旅行" },
-                  { label: "👑 高級宿・リゾート", href: "/?category=高級宿・リゾート" },
-                  { label: "🍜 グルメ・美食", href: "/?category=グルメ・美食" },
-                  { label: "🏔️ アクティビティ・自然", href: "/?category=アクティビティ・自然" },
-                  { label: "👨‍👩‍👧 ファミリー・女子旅", href: "/?category=ファミリー・女子旅" },
+                  { label: "🌡️ 温泉旅行", href: "/?category=onsen" },
+                  { label: "👑 高級宿・リゾート", href: "/?category=luxury" },
+                  { label: "🍜 グルメ・美食", href: "/?category=gourmet" },
+                  { label: "🏔️ アクティビティ・自然", href: "/?category=activity" },
+                  { label: "👨‍👩‍👧 ファミリー・女子旅", href: "/?category=family" },
                   { label: "✨ 特集・まとめ", href: "/features" },
                   { label: "🎁 お得キャンペーン", href: "/campaigns" },
                 ].map(item => (
