@@ -1,7 +1,8 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState, useEffect, Suspense } from "react";
 import Link from "next/link";
+import { useSearchParams } from "next/navigation";
 
 interface Post {
   id: string;
@@ -31,7 +32,8 @@ const PREFECTURES = [
   "高知県", "福岡県", "佐賀県", "長崎県", "熊本県", "大分県", "宮崎県", "鹿児島県", "沖縄県"
 ];
 
-export default function PostListClient({ initialPosts }: { initialPosts: Post[] }) {
+function PostListInner({ initialPosts }: { initialPosts: Post[] }) {
+  const searchParams = useSearchParams();
   const [searchQuery, setSearchQuery] = useState<string>("");
   const [selectedArea, setSelectedArea] = useState<string>("すべて");
   const [selectedCategory, setSelectedCategory] = useState<string>("すべて");
@@ -39,25 +41,21 @@ export default function PostListClient({ initialPosts }: { initialPosts: Post[] 
   const [isFilterOpen, setIsFilterOpen] = useState<boolean>(false);
 
   useEffect(() => {
-    if (typeof window !== "undefined") {
-      const params = new URLSearchParams(window.location.search);
-      const cat = params.get("category");
-      if (cat) {
-        const catMap: Record<string, string> = {
-          "onsen": "温泉旅行",
-          "luxury": "高級宿・リゾート",
-          "gourmet": "グルメ・美食",
-          "activity": "アクティビティ・自然",
-          "family": "ファミリー・女子旅",
-        };
-        if (catMap[cat]) {
-          setSelectedCategory(catMap[cat]);
-          // If a category was in the URL, optionally open the filter panel to show it's active
-          setIsFilterOpen(true);
-        }
+    const cat = searchParams.get("category");
+    if (cat) {
+      const catMap: Record<string, string> = {
+        "onsen": "温泉旅行",
+        "luxury": "高級宿・リゾート",
+        "gourmet": "グルメ・美食",
+        "activity": "アクティビティ・自然",
+        "family": "ファミリー・女子旅",
+      };
+      if (catMap[cat]) {
+        setSelectedCategory(catMap[cat]);
+        setIsFilterOpen(true);
       }
     }
-  }, []);
+  }, [searchParams]);
 
   const filteredPosts = initialPosts.filter((post) => {
     const matchesSearch =
@@ -216,5 +214,13 @@ export default function PostListClient({ initialPosts }: { initialPosts: Post[] 
         </div>
       )}
     </>
+  );
+}
+
+export default function PostListClient({ initialPosts }: { initialPosts: Post[] }) {
+  return (
+    <Suspense fallback={<div className="py-10 text-center text-teal-900/60 font-bold text-sm">読み込み中...</div>}>
+      <PostListInner initialPosts={initialPosts} />
+    </Suspense>
   );
 }
