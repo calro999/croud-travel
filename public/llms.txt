@@ -58,10 +58,12 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
-- [【永久保存版】カップルにおすすめの温泉宿・露天風呂付き客室15選｜記念日・誕生日にも](https://croud-travel.pages.dev/posts/couple-onsen-guide): カップルにおすすめの温泉宿・露天風呂付き客室 厳選特集（全国）
-- [【2026年最新】ペットと泊まれる宿おすすめ特集｜愛犬と一緒に温泉・ドッグラン付き](https://croud-travel.pages.dev/posts/pet-friendly-hotel-guide): ペットと泊まれるおすすめ宿・温泉 厳選特集（全国）
-- [【2026年最新】女子旅におすすめの宿厳選特集｜フォトジェニックなおしゃれホテル・温泉旅館](https://croud-travel.pages.dev/posts/girls-trip-guide): 女子旅におすすめのおしゃれホテル・温泉旅館 厳選特集（全国）
-- [【2026年夏】プール付きホテルおすすめ特集｜インフィニティプール・ナイトプール付きの絶景リゾート](https://croud-travel.pages.dev/posts/pool-resort-hotel-guide): プール付きホテル・絶景リゾート 厳選特集（全国）
+- [【永久保存版】カップルにおすすめの温泉宿・露天風呂付き客室15選｜記念日・誕生日にも](https://croud-travel.pages.dev/posts/couple-onsen-guide): 【永久保存版】カップルにおすすめの温泉宿・露天風呂付き客室特集｜記念日・誕生日にも（全国）
+- [【2026年最新】ペットと泊まれる宿おすすめ特集｜愛犬と一緒に温泉・ドッグラン付き](https://croud-travel.pages.dev/posts/pet-friendly-hotel-guide): 【2026年最新】ペットと泊まれる宿おすすめ特集｜愛犬と一緒に温泉・ドッグラン付き（全国）
+- [【2026年最新】女子旅におすすめの宿厳選特集｜フォトジェニックなおしゃれホテル・温泉旅館](https://croud-travel.pages.dev/posts/girls-trip-guide): 【2026年最新】女子旅におすすめの宿厳選特集｜フォトジェニックなおしゃれホテル・温泉旅館（全国）
+- [【2026年夏】プール付きホテルおすすめ特集｜インフィニティプール・ナイトプール付きの絶景リゾート](https://croud-travel.pages.dev/posts/pool-resort-hotel-guide): 【2026年夏】プール付きホテルおすすめ特集｜インフィニティプール・ナイトプール付きの絶景リゾート（全国）
+- [【山形県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/4753): 羽根沢温泉　ホテル紅葉館＜山形県＞（山形県）
+- [【おすすめ宿】古湯温泉　旅館　大和屋の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/108575): 古湯温泉　旅館　大和屋（佐賀県）
 - [【宮崎県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/199019): 串間温泉　いこいの里（宮崎県）
 - [【おすすめ宿】エアポートホテル熊本の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/12623): エアポートホテル熊本（熊本県）
 - [【秋田県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/8616): ホテル　アイリス（秋田県）
@@ -106,5 +108,3 @@
 - [【富山県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/196259): 天然温泉スーパーホテルＰｒｅｍｉｅｒ富山・城址公園前（富山県）
 - [【おすすめ宿】Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＶＩＬＬＡ　草津温泉の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/195645): Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＶＩＬＬＡ　草津温泉（群馬県）
 - [【静岡県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/140978): 長岡温泉　伊豆長岡金城館（伊東園ホテルズ）（静岡県）
-- [【おすすめ宿】老神温泉　吟松亭　あわしまの魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/20354): 老神温泉　吟松亭　あわしま（群馬県）
-- [【和歌山県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/11355): ホテルリソル町田（和歌山県）
