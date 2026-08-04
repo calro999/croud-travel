@@ -58,6 +58,9 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【2026お盆直前】石川県・金沢・能登の直前予約できる温泉宿＆直前割引プラン特集｜車なしアクセス・穴場スポットも](https://croud-travel.pages.dev/posts/obon-ishikawa-lastminute-guide): 【2026お盆直前】石川県・金沢・能登の直前予約できる温泉宿＆直前割引プラン特集｜車なしアクセス・穴場スポットも（石川県）
+- [【2026お盆直前】京都の直前予約おすすめホテル・町家旅館特集｜混雑を避ける穴場・五山送り火・お盆限定プラン](https://croud-travel.pages.dev/posts/obon-kyoto-lastminute-guide): 【2026お盆直前】京都の直前予約おすすめホテル・町家旅館特集｜混雑を避ける穴場・五山送り火・お盆限定プラン（京都府）
+- [【2026お盆直前】沖縄本島・離島の直前予約できるビーチリゾート＆プール付きホテル特集｜直前航空券・レンタカー対策も](https://croud-travel.pages.dev/posts/obon-okinawa-lastminute-guide): 【2026お盆直前】沖縄本島・離島の直前予約できるビーチリゾート＆プール付きホテル特集｜直前航空券・レンタカー対策も（沖縄県）
 - [【永久保存版】カップルにおすすめの温泉宿・露天風呂付き客室15選｜記念日・誕生日にも](https://croud-travel.pages.dev/posts/couple-onsen-guide): 【永久保存版】カップルにおすすめの温泉宿・露天風呂付き客室特集｜記念日・誕生日にも（全国）
 - [【2026年最新】ペットと泊まれる宿おすすめ特集｜愛犬と一緒に温泉・ドッグラン付き](https://croud-travel.pages.dev/posts/pet-friendly-hotel-guide): 【2026年最新】ペットと泊まれる宿おすすめ特集｜愛犬と一緒に温泉・ドッグラン付き（全国）
 - [【2026年最新】女子旅におすすめの宿厳選特集｜フォトジェニックなおしゃれホテル・温泉旅館](https://croud-travel.pages.dev/posts/girls-trip-guide): 【2026年最新】女子旅におすすめの宿厳選特集｜フォトジェニックなおしゃれホテル・温泉旅館（全国）
@@ -105,6 +108,3 @@
 - [【埼玉県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/172568): スーパーホテル埼玉・川越　天然温泉　赤城の湯（埼玉県）
 - [【2026年最新】USJオフィシャルホテルおすすめランキング！マリオ＆ドンキーコング入場確約・安く泊まる裏ワザ徹底解説](https://croud-travel.pages.dev/posts/usj-official-hotels-guide): USJ（ユニバ）オフィシャルホテル特集（大阪府）
 - [【2026年最新】能登ポケモンコラボ完全ガイド！ポケふた全7枚マップ・車なしルート・グッズ・足湯を徹底解説](https://croud-travel.pages.dev/posts/noto-pokemon-travel-guide): 能登ポケモンコラボ巡礼＆おすすめ温泉宿特集（石川県）
-- [【おすすめ宿】五箇山　旅館　よしのや＜富山県＞の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/31820): 五箇山　旅館　よしのや＜富山県＞（富山県）
-- [【富山県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/196259): 天然温泉スーパーホテルＰｒｅｍｉｅｒ富山・城址公園前（富山県）
-- [【おすすめ宿】Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＶＩＬＬＡ　草津温泉の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/195645): Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＶＩＬＬＡ　草津温泉（群馬県）
