@@ -58,12 +58,12 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
-- [【2026お盆直前】北海道の直前予約できる絶景リゾート＆温泉宿特集｜札幌・小樽・富良野・函館の駆け込みプラン](https://croud-travel.pages.dev/posts/obon-hokkaido-lastminute-guide): 【2026お盆直前】北海道の直前予約できる絶景リゾート＆温泉宿特集｜札幌・小樽・富良野・函館の駆け込みプラン（北海道）
-- [【2026お盆直前】長野・軽井沢・上高地の直前予約できる高原リゾート＆温泉宿特集｜避暑地のおすすめ・車混雑回避](https://croud-travel.pages.dev/posts/obon-nagano-lastminute-guide): 【2026お盆直前】長野・軽井沢・上高地の直前予約できる高原リゾート＆温泉宿特集｜避暑地のおすすめ・車混雑回避（長野県）
-- [【2026お盆直前】静岡・伊豆・熱海の直前予約できる温泉旅館＆海が見えるホテル特集｜東名渋滞回避・家族＆カップルプラン](https://croud-travel.pages.dev/posts/obon-shizuoka-lastminute-guide): 【2026お盆直前】静岡・伊豆・熱海の直前予約できる温泉旅館＆海が見えるホテル特集｜東名渋滞回避・家族＆カップルプラン（静岡県）
-- [【2026お盆直前】石川県・金沢・能登の直前予約できる温泉宿＆直前割引プラン特集｜車なしアクセス・穴場スポットも](https://croud-travel.pages.dev/posts/obon-ishikawa-lastminute-guide): 【2026お盆直前】石川県・金沢・能登の直前予約できる温泉宿＆直前割引プラン特集｜車なしアクセス・穴場スポットも（石川県）
-- [【2026お盆直前】京都の直前予約おすすめホテル・町家旅館特集｜混雑を避ける穴場・五山送り火・お盆限定プラン](https://croud-travel.pages.dev/posts/obon-kyoto-lastminute-guide): 【2026お盆直前】京都の直前予約おすすめホテル・町家旅館特集｜混雑を避ける穴場・五山送り火・お盆限定プラン（京都府）
-- [【2026お盆直前】沖縄本島・離島の直前予約できるビーチリゾート＆プール付きホテル特集｜直前航空券・レンタカー対策も](https://croud-travel.pages.dev/posts/obon-okinawa-lastminute-guide): 【2026お盆直前】沖縄本島・離島の直前予約できるビーチリゾート＆プール付きホテル特集｜直前航空券・レンタカー対策も（沖縄県）
+- [【2026お盆直前】北海道の直前予約できる絶景リゾート＆温泉宿特集｜札幌・富良野・函館の駆け込みプラン](https://croud-travel.pages.dev/posts/obon-hokkaido-lastminute-guide): 【2026お盆直前】北海道の直前予約できる絶景リゾート＆温泉宿特集｜札幌・富良野・函館の駆け込みプラン（北海道）
+- [【2026お盆直前】石川県・金沢・能登の直前予約できる温泉宿特集｜穴場スポット・直前割引プラン](https://croud-travel.pages.dev/posts/obon-ishikawa-lastminute-guide): 【2026お盆直前】石川県・金沢・能登の直前予約できる温泉宿特集｜穴場スポット・直前割引プラン（石川県）
+- [【2026お盆直前】京都の直前予約おすすめホテル・町家旅館特集｜五山送り火・お盆限定プラン](https://croud-travel.pages.dev/posts/obon-kyoto-lastminute-guide): 【2026お盆直前】京都の直前予約おすすめホテル・町家旅館特集｜五山送り火・お盆限定プラン（京都府）
+- [【2026お盆直前】長野・軽井沢の直前予約できる高原リゾート＆温泉宿特集｜避暑地・混雑回避](https://croud-travel.pages.dev/posts/obon-nagano-lastminute-guide): 【2026お盆直前】長野・軽井沢の直前予約できる高原リゾート＆温泉宿特集｜避暑地・混雑回避（長野県）
+- [【2026お盆直前】沖縄本島・離島の直前予約できるビーチリゾート＆プール付きホテル特集](https://croud-travel.pages.dev/posts/obon-okinawa-lastminute-guide): 【2026お盆直前】沖縄本島・離島の直前予約できるビーチリゾート＆プール付きホテル特集（沖縄県）
+- [【2026お盆直前】静岡・伊豆・熱海の直前予約できる温泉旅館＆海が見えるホテル特集｜東名渋滞回避](https://croud-travel.pages.dev/posts/obon-shizuoka-lastminute-guide): 【2026お盆直前】静岡・伊豆・熱海の直前予約できる温泉旅館＆海が見えるホテル特集｜東名渋滞回避（静岡県）
 - [【永久保存版】カップルにおすすめの温泉宿・露天風呂付き客室15選｜記念日・誕生日にも](https://croud-travel.pages.dev/posts/couple-onsen-guide): 【永久保存版】カップルにおすすめの温泉宿・露天風呂付き客室特集｜記念日・誕生日にも（全国）
 - [【2026年最新】ペットと泊まれる宿おすすめ特集｜愛犬と一緒に温泉・ドッグラン付き](https://croud-travel.pages.dev/posts/pet-friendly-hotel-guide): 【2026年最新】ペットと泊まれる宿おすすめ特集｜愛犬と一緒に温泉・ドッグラン付き（全国）
 - [【2026年最新】女子旅におすすめの宿厳選特集｜フォトジェニックなおしゃれホテル・温泉旅館](https://croud-travel.pages.dev/posts/girls-trip-guide): 【2026年最新】女子旅におすすめの宿厳選特集｜フォトジェニックなおしゃれホテル・温泉旅館（全国）
