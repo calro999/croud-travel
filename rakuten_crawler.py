@@ -450,43 +450,35 @@ def generate_article_with_llm(items, mode):
         print(f"Generating article in 'Prefecture Focus' mode for {pref_name} (Theme: {theme}) with {len(items)} hotels...")
         system_message, prompt = build_prefecture_prompt(items, pref_name, theme)
 
-    pollinations_models = ["openai", "openai-fast", "llama", "mistral"]
-    max_attempts = 5
-
-    for attempt in range(max_attempts):
-        model = pollinations_models[attempt % len(pollinations_models)]
-        print(f"Attempt {attempt + 1}/{max_attempts} (model: {model})...")
+    github_token = os.environ.get("GITHUB_TOKEN") or os.environ.get("GH_TOKEN")
+    if github_token:
         try:
-            response = requests.post(
-                "https://text.pollinations.ai/",
+            print("Attempting to generate article with GitHub Models (gpt-4o-mini)...")
+            res = requests.post(
+                "https://models.inference.ai.azure.com/chat/completions",
+                headers={
+                    "Content-Type": "application/json",
+                    "Authorization": f"Bearer {github_token}"
+                },
                 json={
                     "messages": [
                         {"role": "system", "content": system_message},
                         {"role": "user", "content": prompt}
                     ],
-                    "model": model,
-                    "seed": random.randint(1, 9999)
+                    "model": "gpt-4o-mini"
                 },
-                timeout=60
+                timeout=45
             )
-            if response.status_code == 200 and len(response.text.strip()) > 100:
-                result = validate_and_clean_output(response.text)
-                if result is not None:
-                    print(f"[OK] 品質チェック通過 (attempt {attempt + 1}, model: {model})")
+            if res.status_code == 200:
+                text = res.json()["choices"][0]["message"]["content"]
+                result = validate_and_clean_output(text)
+                if result:
+                    print("[OK] GitHub Models API 品質チェック通過")
                     return result
-                else:
-                    print(f"[RETRY] 品質チェック失敗 → リトライ")
-            elif response.status_code == 429:
-                print("[RATE LIMIT] 429 Too Many Requests → 5秒待機")
-                time.sleep(5)
-            else:
-                print(f"[ERROR] status={response.status_code}")
         except Exception as e:
-            print(f"[EXCEPTION] attempt {attempt + 1}: {e}")
-        
-        time.sleep(3)
+            print(f"[EXCEPTION] GitHub Models failed: {e}")
 
-    print("[FALLBACK] 全リトライ失敗 → フォールバック生成を使用")
+    print("[FALLBACK] オンラインLLM未設定またはエラー → 高品質テンプレート生成を使用")
     return fallback_generation(items, mode)
 
 
