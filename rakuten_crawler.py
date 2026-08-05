@@ -180,10 +180,39 @@ def fetch_rakuten_items(target_count=1):
             basic_info["_prefecture"] = pref["name"]
             basic_info["_area"] = pref["area"]
             
+def sanitize_llm_output(content, valid_affiliate_url=""):
+    if not content:
+        return ""
+    import re
+    url_pattern = r'https?://[^\s"<>\'\)]+'
+    def replace_url(match):
+        found_url = match.group(0)
+        if "room.rakuten.co.jp" in found_url or "hb.afl.rakuten.co.jp" in found_url or ("rakuten.co.jp" in found_url and "affiliateId" in found_url):
+            return found_url
+        return valid_affiliate_url if valid_affiliate_url else "https://room.rakuten.co.jp/jack555/items"
+    
+    sanitized = re.sub(url_pattern, replace_url, content)
+    sanitized = sanitized.replace("Amazon", "楽天市場").replace("アマゾン", "楽天市場").replace("ヤフー", "楽天市場").replace("Yahoo!", "楽天市場")
+    return sanitized
+
+def get_rakuten_travel_affiliate_url(basic_info, affiliate_id):
+    aff_url = basic_info.get("affiliateUrl")
+    if aff_url and "hb.afl.rakuten.co.jp" in aff_url:
+        return aff_url
+    
+    hotel_url = basic_info.get("hotelInformationUrl") or basic_info.get("hotelPlanListUrl") or ""
+    if not hotel_url:
+        return ""
+    
+    if affiliate_id:
+        import urllib.parse
+        encoded_hotel_url = urllib.parse.quote(hotel_url, safe='')
+        return f"https://hb.afl.rakuten.co.jp/hgc/{affiliate_id}/?pc={encoded_hotel_url}&m={encoded_hotel_url}"
+    
+    return hotel_url
+
             # APIがアフィリエイトURLを返さない場合へのフォールバック
-            affiliate_url = basic_info.get("affiliateUrl")
-            if not affiliate_url:
-                basic_info["affiliateUrl"] = basic_info.get("hotelInformationUrl")
+            basic_info["affiliateUrl"] = get_rakuten_travel_affiliate_url(basic_info, affiliate_id)
                 
             selected_items.append(basic_info)
             if len(selected_items) >= target_count:
@@ -457,7 +486,7 @@ def validate_and_clean_output(raw_text):
         return None
 
     print(f"[VALIDATE] OK — desc({len(description)}文字), review({len(review_html)}文字), seo_data({len(seo_data)} keys)")
-    return description, review_html, seo_data
+    return description, sanitize_llm_output(review_html), seo_data
 
 
 def generate_article_with_llm(items, mode):
