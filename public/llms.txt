@@ -58,6 +58,11 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【2026お盆直前】愛知・名古屋・犬山・知多半島の直前予約できるホテル＆温泉宿特集｜名古屋めし・ファミリー旅行](https://croud-travel.pages.dev/posts/obon-aichi-lastminute-guide): 【2026お盆直前】愛知・名古屋・犬山・知多半島の直前予約できるホテル＆温泉宿特集｜名古屋めし・ファミリー旅行（愛知県）
+- [【2026お盆直前】福岡・博多＆原鶴温泉の直前予約できる旅館・ホテル特集｜九州玄関口・屋台・太宰府・温泉ステイ](https://croud-travel.pages.dev/posts/obon-fukuoka-lastminute-guide): 【2026お盆直前】福岡・博多＆原鶴温泉の直前予約できる旅館・ホテル特集｜九州玄関口・屋台・太宰府・温泉ステイ（福岡県）
+- [【2026お盆直前】群馬・草津温泉＆伊香保温泉の直前予約できる温泉旅館特集｜名湯めぐり・関越道渋滞回避](https://croud-travel.pages.dev/posts/obon-gunma-lastminute-guide): 【2026お盆直前】群馬・草津温泉＆伊香保温泉の直前予約できる温泉旅館特集｜名湯めぐり・関越道渋滞回避（群馬県）
+- [【2026お盆直前】宮城・秋保温泉＆松島の直前予約できる旅館・ホテル特集｜仙台から20分・日本三景・ずんだ餅](https://croud-travel.pages.dev/posts/obon-miyagi-lastminute-guide): 【2026お盆直前】宮城・秋保温泉＆松島の直前予約できる旅館・ホテル特集｜仙台から20分・日本三景・ずんだ餅（宮城県）
+- [【2026お盆直前】山梨・富士五湖・河口湖の直前予約できる温泉宿＆絶景ホテル特集｜中央道渋滞回避・絶景ドライブ](https://croud-travel.pages.dev/posts/obon-yamanashi-lastminute-guide): 【2026お盆直前】山梨・富士五湖・河口湖の直前予約できる温泉宿＆絶景ホテル特集｜中央道渋滞回避・絶景ドライブ（山梨県）
 - [【2026お盆直前】兵庫・有馬温泉＆城崎温泉の直前予約できる旅館特集｜日本三名泉・外湯めぐり・神戸牛も](https://croud-travel.pages.dev/posts/obon-hyogo-lastminute-guide): 【2026お盆直前】兵庫・有馬温泉＆城崎温泉の直前予約できる旅館特集｜日本三名泉・外湯めぐり・神戸牛も（兵庫県）
 - [【2026お盆直前】神奈川・箱根の直前予約できる温泉旅館＆露天風呂付き宿特集｜東京から1時間・東名渋滞回避のコツも](https://croud-travel.pages.dev/posts/obon-kanagawa-lastminute-guide): 【2026お盆直前】神奈川・箱根の直前予約できる温泉旅館＆露天風呂付き宿特集｜東京から1時間・東名渋滞回避のコツも（神奈川県）
 - [【2026お盆直前】大分・別府温泉＆湯布院の直前予約できる温泉旅館特集｜地獄めぐり・足湯・名物グルメも](https://croud-travel.pages.dev/posts/obon-oita-lastminute-guide): 【2026お盆直前】大分・別府温泉＆湯布院の直前予約できる温泉旅館特集｜地獄めぐり・足湯・名物グルメも（大分県）
@@ -103,8 +108,3 @@
 - [【おすすめ宿】黒川温泉　瀬の本高原ホテルの魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/37963): 黒川温泉　瀬の本高原ホテル（熊本県）
 - [【山梨県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/111192): 石和温泉　みなもと旅館（山梨県）
 - [【おすすめ宿】グリーンリッチホテル米子駅前　人工温泉・二股湯の華の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/177821): グリーンリッチホテル米子駅前　人工温泉・二股湯の華（鳥取県）
-- [【佐賀県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/5552): 武雄温泉　大正浪漫の宿　京都屋（佐賀県）
-- [【おすすめ宿】リバーサイドホテル松栄の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/4866): リバーサイドホテル松栄（高知県）
-- [【宮城県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/147870): ホテルルートイン石巻中央（宮城県）
-- [【ととのう極上ステイ】話題のサウナ付きホテル・絶景サウナ宿厳選ガイド](https://croud-travel.pages.dev/posts/sauna-hotel-guide): 【ととのう極上ステイ】話題のサウナ付きホテル・絶景サウナ宿厳選ガイド（全国）
-- [【お盆の一人旅】喧騒を離れて静かに過ごす！穴場温泉宿・リフレッシュホテル特集](https://croud-travel.pages.dev/posts/obon-solo-travel-guide): 【お盆の一人旅】喧騒を離れて静かに過ごす！穴場温泉宿・リフレッシュホテル特集（全国）
