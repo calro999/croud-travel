@@ -319,6 +319,12 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://croud-travel.pages.dev/posts/usj-official-hotels-guide</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://croud-travel.pages.dev/posts/obon-hokkaido-lastminute-guide</loc>
     <lastmod>2026-08-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -668,12 +674,6 @@
   </url>
   <url>
     <loc>https://croud-travel.pages.dev/posts/172568</loc>
-    <lastmod>2026-08-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://croud-travel.pages.dev/posts/usj-official-hotels-guide</loc>
     <lastmod>2026-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>

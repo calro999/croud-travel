@@ -58,6 +58,7 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【2026年最新】USJオフィシャルホテル全8棟おすすめ比較！マリオ＆ドンキーコング入場確約・安く泊まる裏ワザ徹底解説](https://croud-travel.pages.dev/posts/usj-official-hotels-guide): USJ（ユニバ）オフィシャルホテル全8棟特集（大阪府）
 - [【2026お盆直前】北海道の直前予約できる絶景リゾート＆温泉宿特集｜札幌・富良野・函館の駆け込みプラン](https://croud-travel.pages.dev/posts/obon-hokkaido-lastminute-guide): 【2026お盆直前】北海道の直前予約できる絶景リゾート＆温泉宿特集｜札幌・富良野・函館の駆け込みプラン（北海道）
 - [【2026お盆直前】石川県・金沢・能登の直前予約できる温泉宿特集｜穴場スポット・直前割引プラン](https://croud-travel.pages.dev/posts/obon-ishikawa-lastminute-guide): 【2026お盆直前】石川県・金沢・能登の直前予約できる温泉宿特集｜穴場スポット・直前割引プラン（石川県）
 - [【2026お盆直前】京都の直前予約おすすめホテル・町家旅館特集｜五山送り火・お盆限定プラン](https://croud-travel.pages.dev/posts/obon-kyoto-lastminute-guide): 【2026お盆直前】京都の直前予約おすすめホテル・町家旅館特集｜五山送り火・お盆限定プラン（京都府）
@@ -107,4 +108,3 @@
 - [【2026年お盆休み】今からでも間に合う！夏休みの家族旅行・カップルにおすすめの温泉宿](https://croud-travel.pages.dev/posts/obon-travel-guide): 【2026年お盆休み】今からでも間に合う！夏休みの家族旅行・カップルにおすすめの温泉宿（全国）
 - [【自分へのご褒美】一人旅歓迎！極上のリトリートステイができる高級ホテル・温泉宿](https://croud-travel.pages.dev/posts/solo-travel-luxury-guide): 【自分へのご褒美】一人旅歓迎！極上のリトリートステイができる高級ホテル・温泉宿（全国）
 - [【大自然×贅沢】手ぶらで極上体験！おすすめグランピング施設・ホテル大特集](https://croud-travel.pages.dev/posts/glamping-guide): 【大自然×贅沢】手ぶらで極上体験！おすすめグランピング施設・ホテル大特集（全国）
-- [【家族旅行】子連れ・赤ちゃん歓迎！パパママ安心のおすすめホテル・温泉宿](https://croud-travel.pages.dev/posts/family-welcome-baby-guide): 【家族旅行】子連れ・赤ちゃん歓迎！パパママ安心のおすすめホテル・温泉宿（全国）
