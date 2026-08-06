@@ -58,6 +58,9 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【2026お盆直前】兵庫・有馬温泉＆城崎温泉の直前予約できる旅館特集｜日本三名泉・外湯めぐり・神戸牛も](https://croud-travel.pages.dev/posts/obon-hyogo-lastminute-guide): 【2026お盆直前】兵庫・有馬温泉＆城崎温泉の直前予約できる旅館特集｜日本三名泉・外湯めぐり・神戸牛も（兵庫県）
+- [【2026お盆直前】神奈川・箱根の直前予約できる温泉旅館＆露天風呂付き宿特集｜東京から1時間・東名渋滞回避のコツも](https://croud-travel.pages.dev/posts/obon-kanagawa-lastminute-guide): 【2026お盆直前】神奈川・箱根の直前予約できる温泉旅館＆露天風呂付き宿特集｜東京から1時間・東名渋滞回避のコツも（神奈川県）
+- [【2026お盆直前】大分・別府温泉＆湯布院の直前予約できる温泉旅館特集｜地獄めぐり・足湯・名物グルメも](https://croud-travel.pages.dev/posts/obon-oita-lastminute-guide): 【2026お盆直前】大分・別府温泉＆湯布院の直前予約できる温泉旅館特集｜地獄めぐり・足湯・名物グルメも（大分県）
 - [【2026年最新】USJオフィシャルホテル全8棟おすすめ比較！マリオ＆ドンキーコング入場確約・安く泊まる裏ワザ徹底解説](https://croud-travel.pages.dev/posts/usj-official-hotels-guide): USJ（ユニバ）オフィシャルホテル全8棟特集（大阪府）
 - [【2026お盆直前】北海道の直前予約できる絶景リゾート＆温泉宿特集｜札幌・富良野・函館の駆け込みプラン](https://croud-travel.pages.dev/posts/obon-hokkaido-lastminute-guide): 【2026お盆直前】北海道の直前予約できる絶景リゾート＆温泉宿特集｜札幌・富良野・函館の駆け込みプラン（北海道）
 - [【2026お盆直前】石川県・金沢・能登の直前予約できる温泉宿特集｜穴場スポット・直前割引プラン](https://croud-travel.pages.dev/posts/obon-ishikawa-lastminute-guide): 【2026お盆直前】石川県・金沢・能登の直前予約できる温泉宿特集｜穴場スポット・直前割引プラン（石川県）
@@ -105,6 +108,3 @@
 - [【宮城県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/147870): ホテルルートイン石巻中央（宮城県）
 - [【ととのう極上ステイ】話題のサウナ付きホテル・絶景サウナ宿厳選ガイド](https://croud-travel.pages.dev/posts/sauna-hotel-guide): 【ととのう極上ステイ】話題のサウナ付きホテル・絶景サウナ宿厳選ガイド（全国）
 - [【お盆の一人旅】喧騒を離れて静かに過ごす！穴場温泉宿・リフレッシュホテル特集](https://croud-travel.pages.dev/posts/obon-solo-travel-guide): 【お盆の一人旅】喧騒を離れて静かに過ごす！穴場温泉宿・リフレッシュホテル特集（全国）
-- [【2026年お盆休み】今からでも間に合う！夏休みの家族旅行・カップルにおすすめの温泉宿](https://croud-travel.pages.dev/posts/obon-travel-guide): 【2026年お盆休み】今からでも間に合う！夏休みの家族旅行・カップルにおすすめの温泉宿（全国）
-- [【自分へのご褒美】一人旅歓迎！極上のリトリートステイができる高級ホテル・温泉宿](https://croud-travel.pages.dev/posts/solo-travel-luxury-guide): 【自分へのご褒美】一人旅歓迎！極上のリトリートステイができる高級ホテル・温泉宿（全国）
-- [【大自然×贅沢】手ぶらで極上体験！おすすめグランピング施設・ホテル大特集](https://croud-travel.pages.dev/posts/glamping-guide): 【大自然×贅沢】手ぶらで極上体験！おすすめグランピング施設・ホテル大特集（全国）
