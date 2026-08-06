@@ -58,6 +58,11 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【2026年SW】シルバーウィークのホテルが高すぎる！直前でも安く泊まる裏ワザ＆コスパ宿6選](https://croud-travel.pages.dev/posts/silverweek-hotel-takai-workaround-guide): 【2026年SW】シルバーウィークのホテルが高すぎる！直前でも安く泊まる裏ワザ＆コスパ宿6選（全国）
+- [【2026シルバーウィーク】子連れファミリー向けおすすめ温泉宿6選｜キッズパーク・ウェルカムベビー・部屋食の宿](https://croud-travel.pages.dev/posts/silverweek-kodomozure-travel-guide): 【2026シルバーウィーク】子連れファミリー向けおすすめ温泉宿6選｜キッズパーク・ウェルカムベビー・部屋食の宿（全国）
+- [【2026最新】シルバーウィーク人気旅行先＆満足度トップの話題の宿6選](https://croud-travel.pages.dev/posts/silverweek-popular-destinations-ranking-guide): 【2026最新】シルバーウィーク人気旅行先＆満足度トップの話題の宿6選（全国）
+- [【2026年9月5連休】国内旅行おすすめ決定版！秋の絶景・温泉・王道観光地を巡る特別ガイド](https://croud-travel.pages.dev/posts/silverweek-september-holiday-japan-travel-guide): 【2026年9月5連休】国内旅行おすすめ決定版！秋の絶景・温泉・王道観光地を巡る特別ガイド（全国）
+- [【2026年最新】シルバーウィークに旅行へ行くならどこ？目的別おすすめ旅行先＆名宿ガイド](https://croud-travel.pages.dev/posts/silverweek-where-to-go-recommendation-guide): 【2026年最新】シルバーウィークに旅行へ行くならどこ？目的別おすすめ旅行先＆名宿ガイド（全国）
 - [【2026シルバーウィーク】コスパ最強！格安で泊まれる温泉宿6選｜1泊1万円以下も？賢く安く秋旅行](https://croud-travel.pages.dev/posts/silverweek-budget-travel-guide): 【2026シルバーウィーク】コスパ最強！格安で泊まれる温泉宿6選｜1泊1万円以下も？賢く安く秋旅行（全国）
 - [【2026シルバーウィーク】女子旅におすすめ！おしゃれホテル＆温泉リゾート6選｜スパ・エステ・フォトジェニック](https://croud-travel.pages.dev/posts/silverweek-girls-trip-guide): 【2026シルバーウィーク】女子旅におすすめ！おしゃれホテル＆温泉リゾート6選｜スパ・エステ・フォトジェニック（全国）
 - [【2026シルバーウィーク】食欲の秋！グルメ旅行におすすめの料理自慢の宿6選｜松茸・地酒・会席料理・秋の味覚](https://croud-travel.pages.dev/posts/silverweek-gourmet-travel-guide): 【2026シルバーウィーク】食欲の秋！グルメ旅行におすすめの料理自慢の宿6選｜松茸・地酒・会席料理・秋の味覚（全国）
@@ -103,8 +108,3 @@
 - [【おすすめ宿】犬鳴山温泉　不動口館の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/104779): 犬鳴山温泉　不動口館（大阪府）
 - [【2026年夏】プール付きホテルおすすめ特集｜インフィニティプール・ナイトプール付きの絶景リゾート](https://croud-travel.pages.dev/posts/pool-resort-hotel-guide): 【2026年夏】プール付きホテルおすすめ特集｜インフィニティプール・ナイトプール付きの絶景リゾート（全国）
 - [【山形県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/4753): 羽根沢温泉　ホテル紅葉館＜山形県＞（山形県）
-- [【おすすめ宿】古湯温泉　旅館　大和屋の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/108575): 古湯温泉　旅館　大和屋（佐賀県）
-- [【宮崎県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/199019): 串間温泉　いこいの里（宮崎県）
-- [【おすすめ宿】エアポートホテル熊本の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/12623): エアポートホテル熊本（熊本県）
-- [【秋田県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/8616): ホテル　アイリス（秋田県）
-- [【おすすめ宿】大島温泉　大島温泉ホテル　＜大島＞の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/4784): 大島温泉　大島温泉ホテル　＜大島＞（東京都）
