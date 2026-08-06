@@ -34,12 +34,32 @@ export default function sitemap(): MetadataRoute.Sitemap {
   }));
 
   // 2. 47都道府県ページのURL生成
-  const prefectureEntries: MetadataRoute.Sitemap = PREFECTURES_DATA.map((pref) => ({
-    url: `${baseUrl}/prefectures/${pref.slug}`,
-    lastModified: new Date(),
-    changeFrequency: 'daily',
-    priority: 0.9,
-  }));
+  const prefectureEntries: MetadataRoute.Sitemap = PREFECTURES_DATA.flatMap((pref) => [
+    {
+      url: `${baseUrl}/prefectures/${pref.slug}`,
+      lastModified: new Date(),
+      changeFrequency: 'daily',
+      priority: 0.9,
+    },
+    {
+      url: `${baseUrl}/prefectures/${pref.slug}/cafes`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly',
+      priority: 0.8,
+    },
+    {
+      url: `${baseUrl}/prefectures/${pref.slug}/souvenirs`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly',
+      priority: 0.8,
+    },
+    {
+      url: `${baseUrl}/prefectures/${pref.slug}/sakes`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly',
+      priority: 0.8,
+    },
+  ]);
 
   // 3. 基本ページのURL定義
   const staticEntries: MetadataRoute.Sitemap = [

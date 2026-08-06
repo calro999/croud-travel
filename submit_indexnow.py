@@ -39,6 +39,9 @@ def main():
 
     for slug in PREFECTURE_SLUGS:
         urls.append(f"https://{host}/prefectures/{slug}")
+        urls.append(f"https://{host}/prefectures/{slug}/cafes")
+        urls.append(f"https://{host}/prefectures/{slug}/souvenirs")
+        urls.append(f"https://{host}/prefectures/{slug}/sakes")
 
     posts_dir = "src/data/posts"
     post_files = glob.glob(os.path.join(posts_dir, "*.json"))

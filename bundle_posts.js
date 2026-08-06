@@ -79,13 +79,31 @@ function main() {
     xml += `  </url>\n`;
   });
 
-  // 都道府県ページ (47)
+  // 都道府県ページ (47) ＆ 各サブテーマ詳細ページ (47 x 3 = 141)
   PREFECTURE_SLUGS.forEach(slug => {
     xml += `  <url>\n`;
     xml += `    <loc>${BASE_URL}/prefectures/${slug}</loc>\n`;
     xml += `    <lastmod>${todayStr}</lastmod>\n`;
     xml += `    <changefreq>daily</changefreq>\n`;
     xml += `    <priority>0.9</priority>\n`;
+    xml += `  </url>\n`;
+    xml += `  <url>\n`;
+    xml += `    <loc>${BASE_URL}/prefectures/${slug}/cafes</loc>\n`;
+    xml += `    <lastmod>${todayStr}</lastmod>\n`;
+    xml += `    <changefreq>weekly</changefreq>\n`;
+    xml += `    <priority>0.8</priority>\n`;
+    xml += `  </url>\n`;
+    xml += `  <url>\n`;
+    xml += `    <loc>${BASE_URL}/prefectures/${slug}/souvenirs</loc>\n`;
+    xml += `    <lastmod>${todayStr}</lastmod>\n`;
+    xml += `    <changefreq>weekly</changefreq>\n`;
+    xml += `    <priority>0.8</priority>\n`;
+    xml += `  </url>\n`;
+    xml += `  <url>\n`;
+    xml += `    <loc>${BASE_URL}/prefectures/${slug}/sakes</loc>\n`;
+    xml += `    <lastmod>${todayStr}</lastmod>\n`;
+    xml += `    <changefreq>weekly</changefreq>\n`;
+    xml += `    <priority>0.8</priority>\n`;
     xml += `  </url>\n`;
   });
 

@@ -535,11 +535,11 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
 
           <div className="pt-2 text-center">
             <Link
-              href="/prefectures"
-              className="inline-flex items-center gap-2 text-xs font-bold text-amber-950 bg-white hover:bg-amber-100 border border-amber-400/40 px-6 py-2.5 rounded-full transition shadow-sm"
+              href={`/prefectures/${prefInfo.slug}/cafes`}
+              className="inline-flex items-center gap-2 text-xs font-bold text-amber-950 bg-white hover:bg-amber-100 border border-amber-400/40 px-6 py-2.5 rounded-full transition shadow-sm cursor-pointer"
             >
               <span>☕</span>
-              <span>{prefInfo.name}の他のおすすめカフェ・観光情報を見る</span>
+              <span>【2026年最新】{prefInfo.name}のおすすめカフェ・スイーツ比較ランキングを見る</span>
               <span>→</span>
             </Link>
           </div>
@@ -579,11 +579,11 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
 
           <div className="pt-2 text-center">
             <Link
-              href="/prefectures"
-              className="inline-flex items-center gap-2 text-xs font-bold text-emerald-950 bg-white hover:bg-emerald-100 border border-emerald-400/40 px-6 py-2.5 rounded-full transition shadow-sm"
+              href={`/prefectures/${prefInfo.slug}/souvenirs`}
+              className="inline-flex items-center gap-2 text-xs font-bold text-emerald-950 bg-white hover:bg-emerald-100 border border-emerald-400/40 px-6 py-2.5 rounded-full transition shadow-sm cursor-pointer"
             >
               <span>🛍️</span>
-              <span>{prefInfo.name}の他のおすすめお土産・グルメ情報を見る</span>
+              <span>【2026年最新】{prefInfo.name}の人気お土産・銘菓比較ランキングを見る</span>
               <span>→</span>
             </Link>
           </div>
@@ -628,11 +628,11 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
 
           <div className="pt-2 text-center">
             <Link
-              href="/prefectures"
-              className="inline-flex items-center gap-2 text-xs font-bold text-white bg-white/10 hover:bg-white/20 border border-white/30 px-6 py-2.5 rounded-full transition shadow-sm"
+              href={`/prefectures/${prefInfo.slug}/sakes`}
+              className="inline-flex items-center gap-2 text-xs font-bold text-white bg-white/10 hover:bg-white/20 border border-white/30 px-6 py-2.5 rounded-full transition shadow-sm cursor-pointer"
             >
               <span>🍶</span>
-              <span>{prefInfo.name}の他のおすすめ地酒・宿情報を見る</span>
+              <span>【2026年最新】{prefInfo.name}の銘酒・地酒・日本酒比較ランキングを見る</span>
               <span>→</span>
             </Link>
           </div>
