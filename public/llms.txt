@@ -58,6 +58,11 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【2026シルバーウィーク】コスパ最強！格安で泊まれる温泉宿6選｜1泊1万円以下も？賢く安く秋旅行](https://croud-travel.pages.dev/posts/silverweek-budget-travel-guide): 【2026シルバーウィーク】コスパ最強！格安で泊まれる温泉宿6選｜1泊1万円以下も？賢く安く秋旅行（全国）
+- [【2026シルバーウィーク】女子旅におすすめ！おしゃれホテル＆温泉リゾート6選｜スパ・エステ・フォトジェニック](https://croud-travel.pages.dev/posts/silverweek-girls-trip-guide): 【2026シルバーウィーク】女子旅におすすめ！おしゃれホテル＆温泉リゾート6選｜スパ・エステ・フォトジェニック（全国）
+- [【2026シルバーウィーク】食欲の秋！グルメ旅行におすすめの料理自慢の宿6選｜松茸・地酒・会席料理・秋の味覚](https://croud-travel.pages.dev/posts/silverweek-gourmet-travel-guide): 【2026シルバーウィーク】食欲の秋！グルメ旅行におすすめの料理自慢の宿6選｜松茸・地酒・会席料理・秋の味覚（全国）
+- [【2026シルバーウィーク】愛犬と泊まれる温泉宿おすすめ6選｜ドッグラン・ペット同伴OK・秋の旅行](https://croud-travel.pages.dev/posts/silverweek-pet-travel-guide): 【2026シルバーウィーク】愛犬と泊まれる温泉宿おすすめ6選｜ドッグラン・ペット同伴OK・秋の旅行（全国）
+- [【2026シルバーウィーク】息をのむ絶景露天風呂の宿6選｜秋の渓谷・海・山を望む感動の温泉旅館](https://croud-travel.pages.dev/posts/silverweek-zekkei-travel-guide): 【2026シルバーウィーク】息をのむ絶景露天風呂の宿6選｜秋の渓谷・海・山を望む感動の温泉旅館（全国）
 - [【2026シルバーウィーク】混雑を避けたい人へ！穴場の温泉宿＆隠れ家リゾート6選｜秘湯・一棟貸し・離れの宿](https://croud-travel.pages.dev/posts/silverweek-anaba-travel-guide): 【2026シルバーウィーク】混雑を避けたい人へ！穴場の温泉宿＆隠れ家リゾート6選｜秘湯・一棟貸し・離れの宿（全国）
 - [【2026シルバーウィーク】カップルにおすすめ！露天風呂付き客室＆記念日プランのある温泉宿6選｜秋のデート旅行](https://croud-travel.pages.dev/posts/silverweek-couple-travel-guide): 【2026シルバーウィーク】カップルにおすすめ！露天風呂付き客室＆記念日プランのある温泉宿6選｜秋のデート旅行（全国）
 - [【2026シルバーウィーク】11年ぶり5連休！家族旅行おすすめ宿＆観光地6選｜子連れ・3世代でも安心の厳選プラン](https://croud-travel.pages.dev/posts/silverweek-family-travel-guide): 【2026シルバーウィーク】11年ぶり5連休！家族旅行おすすめ宿＆観光地6選｜子連れ・3世代でも安心の厳選プラン（全国）
@@ -103,8 +108,3 @@
 - [【おすすめ宿】エアポートホテル熊本の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/12623): エアポートホテル熊本（熊本県）
 - [【秋田県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/8616): ホテル　アイリス（秋田県）
 - [【おすすめ宿】大島温泉　大島温泉ホテル　＜大島＞の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/4784): 大島温泉　大島温泉ホテル　＜大島＞（東京都）
-- [【秋田県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/187477): いやし処ほてる寛楽　秋田川反（秋田県）
-- [【おすすめ宿】下呂温泉　睦館の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/19422): 下呂温泉　睦館（岐阜県）
-- [【宮崎県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/68633): ベッセルホテル都城（宮崎県）
-- [【おすすめ宿】温泉めい想倶楽部　富士屋旅館の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/5174): 温泉めい想倶楽部　富士屋旅館（石川県）
-- [【和歌山県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/69377): 大江戸温泉物語Ｐｒｅｍｉｕｍ　白浜御苑（和歌山県）
