@@ -23,7 +23,7 @@ interface Post {
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || "https://croud-travel.pages.dev";
 
 export const metadata: Metadata = {
-  title: "【金沢旅行 完全計画ガイド】1泊2日・2泊3日モデルコース＆観光・海鮮グルメ・車なし徒歩案内・おすすめホテル ｜ 旅びより",
+  title: "【金沢旅行 完全計画ガイド】1泊2日・2泊3日モデルコース＆観光・海鮮グルメ・車なし徒歩案内・おすすめホテル ｜ 旅宿クラウド",
   description:
     "金沢旅行の計画をステップバイステップで完全サポート！金沢の魅力、1泊2日/2泊3日モデルコース、車なし徒歩観光、兼六園（所要時間）・近江町市場（食べ歩き）・ひがし茶屋街・21世紀美術館、のどぐろ＆寿司ランチ、雨の日・雪の観光法から楽天トラベルで予約できるおすすめホテル・温泉宿まで網羅。",
   keywords: [
@@ -39,10 +39,10 @@ export const metadata: Metadata = {
   ],
   alternates: { canonical: "https://croud-travel.pages.dev/kanazawa" },
   openGraph: {
-    title: "金沢旅行 完全計画サポートガイド ｜ 旅びより",
+    title: "金沢旅行 完全計画サポートガイド ｜ 旅宿クラウド",
     description: "金沢旅行を思い立った瞬間から宿泊予約まで。モデルコース・車なし散策・海鮮グルメ・おすすめホテル徹底比較。",
     url: "https://croud-travel.pages.dev/kanazawa",
-    siteName: "旅びより",
+    siteName: "旅宿クラウド",
     type: "article",
   },
 };

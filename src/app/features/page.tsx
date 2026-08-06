@@ -5,7 +5,7 @@ import Link from "next/link";
 import FeaturesGrid, { FeaturePost } from "./FeaturesGrid";
 
 export const metadata: Metadata = {
-  title: "厳選！特集・まとめ記事一覧 ｜ 日本全国・旅びより",
+  title: "厳選！特集・まとめ記事一覧 ｜ 日本全国・旅宿クラウド",
   description: "楽天トラベルで人気の高級宿、絶景リゾート、温泉旅館、カップル旅行、ファミリー向けホテルなどを旅の目的別にまとめた特設ページです。",
   keywords: ["特集", "まとめ", "楽天トラベル", "おすすめ宿", "リゾート", "温泉", "高級ホテル"],
   openGraph: {

@@ -25,7 +25,7 @@ interface Post {
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || "https://croud-travel.pages.dev";
 
 export const metadata: Metadata = {
-  title: "日本全国の厳選宿・温泉旅館・ホテル一覧 ｜ 楽天トラベルで予約 ｜ 旅びより",
+  title: "日本全国の厳選宿・温泉旅館・ホテル一覧 ｜ 楽天トラベルで予約 ｜ 旅宿クラウド",
   description:
     "北海道から沖縄まで47都道府県の温泉宿・高級ホテル・リゾートを旅ライターが厳選紹介。楽天トラベルで今すぐ空室確認・予約可能。子連れ・カップル・女子旅など旅のテーマ別に検索できます。",
   keywords: [
@@ -34,10 +34,10 @@ export const metadata: Metadata = {
   ],
   alternates: { canonical: baseUrl },
   openGraph: {
-    title: "日本全国の厳選宿・温泉旅館・ホテル一覧 ｜ 旅びより",
+    title: "日本全国の厳選宿・温泉旅館・ホテル一覧 ｜ 旅宿クラウド",
     description: "北海道から沖縄まで47都道府県の温泉宿・高級ホテルを厳選紹介。楽天トラベルで空室確認・予約。",
     url: baseUrl,
-    siteName: "旅びより",
+    siteName: "旅宿クラウド",
     type: "website",
   },
 };
@@ -61,7 +61,7 @@ export default function Home() {
   const jsonLdWebsite = {
     "@context": "https://schema.org",
     "@type": "WebSite",
-    name: "旅びより",
+    name: "旅宿クラウド",
     url: baseUrl,
     description: "日本全国47都道府県の厳選宿・温泉旅館・ホテルを紹介する旅行マガジン",
     potentialAction: {
@@ -74,7 +74,7 @@ export default function Home() {
   const jsonLdOrganization = {
     "@context": "https://schema.org",
     "@type": "Organization",
-    name: "旅びより",
+    name: "旅宿クラウド",
     url: baseUrl,
     logo: `${baseUrl}/icon.png`,
     sameAs: [

@@ -75,7 +75,7 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
     ].filter(Boolean);
 
     return {
-      title: `${post.hotel_name}（${post.prefecture}）おすすめ観光＆宿泊ガイド ｜ 日本全国・旅びより`,
+      title: `${post.hotel_name}（${post.prefecture}）おすすめ観光＆宿泊ガイド ｜ 日本全国・旅宿クラウド`,
       description: descriptionText,
       keywords: [
         post.hotel_name, post.prefecture, post.area,
@@ -88,17 +88,17 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
         canonical: `${baseUrl}/posts/${id}`,
       },
       openGraph: {
-        title: `${post.title} ｜ 日本全国・旅びより`,
+        title: `${post.title} ｜ 日本全国・旅宿クラウド`,
         description: descriptionText,
         url: `${baseUrl}/posts/${id}`,
-        siteName: "日本全国・旅びより",
+        siteName: "日本全国・旅宿クラウド",
         images: post.image ? [{ url: post.image, alt: post.hotel_name, width: 1200, height: 630 }] : [],
         type: "article",
         publishedTime: post.date,
       },
       twitter: {
         card: "summary_large_image",
-        title: `${post.title} ｜ 日本全国・旅びより`,
+        title: `${post.title} ｜ 日本全国・旅宿クラウド`,
         description: descriptionText,
         images: post.image ? [post.image] : [],
       },
@@ -106,7 +106,7 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
   } catch (e) {
     console.error(`Failed to generate metadata for post ${id}:`, e);
     return {
-      title: "日本全国・旅びより",
+      title: "日本全国・旅宿クラウド",
     };
   }
 }
@@ -156,10 +156,10 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
     "image": post.image ? [post.image] : [],
     "datePublished": post.date || "2026-01-01",
     "dateModified": post.date || "2026-01-01",
-    "author": { "@type": "Organization", "name": "日本全国・旅びより編集部" },
+    "author": { "@type": "Organization", "name": "日本全国・旅宿クラウド編集部" },
     "publisher": {
       "@type": "Organization",
-      "name": "日本全国・旅びより",
+      "name": "日本全国・旅宿クラウド",
       "logo": { "@type": "ImageObject", "url": `${baseUrl}/icon.png` }
     },
     "mainEntityOfPage": { "@type": "WebPage", "@id": `${baseUrl}/posts/${post.id}` }

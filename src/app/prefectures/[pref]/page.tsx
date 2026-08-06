@@ -49,7 +49,7 @@ export async function generateMetadata({ params }: { params: Promise<{ pref: str
   const subAreaNames = prefInfo.subAreas.map(s => s.areaName).join("・");
 
   return {
-    title: `【${prefInfo.name}観光ハブ】${subAreaNames}の観光ガイド＆おすすめカフェ・お土産・地酒・近隣宿徹底比較 ｜ 日本全国・旅びより`,
+    title: `【${prefInfo.name}観光ハブ】${subAreaNames}の観光ガイド＆おすすめカフェ・お土産・地酒・近隣宿徹底比較 ｜ 日本全国・旅宿クラウド`,
     description: `${prefInfo.name}のエリア別観光ガイド（${subAreaNames}）、おすすめのおしゃれカフェ・スイーツ、トレンドお土産・銘菓、銘酒・地酒・日本酒、近隣の厳選ホテル・温泉旅館を網羅。`,
     keywords: [prefInfo.name, subAreaNames, "観光ガイド", "絶景カフェ", "トレンドお土産", "地酒日本酒", "温泉宿", "ホテル予約", "楽天トラベル"],
     alternates: {
@@ -59,7 +59,7 @@ export async function generateMetadata({ params }: { params: Promise<{ pref: str
       title: `${prefInfo.name} 国内最高峰 観光ポータルガイド`,
       description: prefInfo.description,
       url: `${baseUrl}/prefectures/${prefInfo.slug}`,
-      siteName: "日本全国・旅びより",
+      siteName: "日本全国・旅宿クラウド",
       images: prefInfo.bannerImage ? [{ url: prefInfo.bannerImage, alt: prefInfo.name }] : [],
     },
   };

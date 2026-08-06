@@ -141,7 +141,7 @@ Sitemap: ${BASE_URL}/sitemap.xml
   console.log(`Generated physical robots.txt at ${ROBOTS_FILE}`);
 
   // --- 3. public/llms.txt (LLM/AI専用標準サマリー仕様) の自動生成 ---
-  let llmsTxt = `# 日本全国・旅びより (Tabibiyori Travel Magazine)
+  let llmsTxt = `# 日本全国・旅宿クラウド (Tabiyado Croud Travel Magazine)
 
 > 日本全国47都道府県の厳選温泉宿・リゾートホテル・観光ガイド・ご当地グルメ・地酒・お土産情報を旅ライターが網羅する旅行マガジン。
 
@@ -166,7 +166,7 @@ Sitemap: ${BASE_URL}/sitemap.xml
   console.log(`Generated physical llms.txt at ${path.join(PUBLIC_DIR, 'llms.txt')}`);
 
   // --- 4. public/llms-full.txt (LLM/AI専用全記事コンテンツ集約仕様) の自動生成 ---
-  let llmsFullTxt = `# 日本全国・旅びより - 全記事データアーカイブ (LLMs Full Knowledge Base)
+  let llmsFullTxt = `# 日本全国・旅宿クラウド - 全記事データアーカイブ (LLMs Full Knowledge Base)
 
 > 当ファイルは、ChatGPT、Claude、Perplexity、Geminiなどの大規模言語モデル（LLM）が日本全国の観光名所・温泉宿・名物グルメ・モデルコースの知識を取得するための完全な知識データベースです。
 

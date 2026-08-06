@@ -5,7 +5,7 @@ import TravelBanner from "./components/TravelBanner";
 import { REGIONS_MAP, PREFECTURES_DATA } from "@/data/prefecturesData";
 import "./globals.css";
 
-const siteName = "日本全国・旅びより｜楽天トラベルでめぐる厳選宿・観光マガジン";
+const siteName = "日本全国・旅宿クラウド｜楽天トラベルでめぐる厳選宿・観光マガジン";
 const description = "日本全国47都道府県の魅力的な温泉宿、リゾート、高級ホテル、観光の見所を旅ライターの極上ルポでお届け。楽天トラベルの最新キャンペーン情報とアフィリエイト連携で、今すぐ行きたい憧れの旅プランを見つけましょう。";
 const url = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
@@ -19,9 +19,9 @@ export const metadata: Metadata = {
   keywords: [
     "旅行", "観光", "温泉", "露天風呂", "高級宿", "リゾート", "ホテル", "グルメ", "女子旅", "ファミリー旅行", "楽天トラベル", "47都道府県", "キャンペーン", "5と0のつく日", "ふるさと納税"
   ],
-  authors: [{ name: "旅びより編集部" }],
-  creator: "旅びより編集部",
-  publisher: "旅びより",
+  authors: [{ name: "旅宿クラウド編集部" }],
+  creator: "旅宿クラウド編集部",
+  publisher: "旅宿クラウド",
   formatDetection: {
     email: false,
     address: false,
@@ -37,7 +37,7 @@ export const metadata: Metadata = {
         url: '/icon.png',
         width: 1024,
         height: 1024,
-        alt: '旅びより',
+        alt: '旅宿クラウド',
       },
     ],
     locale: 'ja_JP',
@@ -105,7 +105,7 @@ export default function RootLayout({
           <div className="max-w-6xl mx-auto flex flex-col sm:flex-row items-center justify-between gap-4">
             <Link href="/" className="flex items-center gap-2.5 group">
               <span className="text-2xl font-black tracking-tight font-journal-serif bg-gradient-to-r from-teal-800 via-emerald-900 to-amber-700 bg-clip-text text-transparent group-hover:opacity-90 transition">
-                旅びより
+                旅宿クラウド
               </span>
               <span className="text-[9px] font-extrabold tracking-widest text-teal-800 border border-teal-800/20 px-2.5 py-0.5 rounded-full bg-teal-50">
                 TRAVEL MAGAZINE
@@ -248,7 +248,7 @@ export default function RootLayout({
             {/* フッターボトム */}
             <div className="flex flex-col md:flex-row items-center justify-between gap-6">
               <div className="space-y-2 text-center md:text-left">
-                <p className="font-bold text-emerald-950 text-sm font-journal-serif">日本全国・旅びより ｜ 楽天トラベル厳選宿・観光マガジン</p>
+                <p className="font-bold text-emerald-950 text-sm font-journal-serif">日本全国・旅宿クラウド ｜ 楽天トラベル厳選宿・観光マガジン</p>
                 <p className="text-[10px] max-w-lg leading-relaxed text-emerald-950/50">
                   当サイトでご紹介する宿泊施設情報、クチコミ、写真、プラン詳細等は楽天トラベルAPIより取得しています。宿泊状況やプラン内容については必ず遷移先の楽天トラベル詳細ページにて最終情報をご確認ください。
                 </p>
