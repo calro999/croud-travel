@@ -303,6 +303,15 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
 
         {/* 特設テーマボタン */}
         <div className="pt-2 border-t border-emerald-950/5 flex flex-wrap gap-2">
+          {prefInfo.famousSpots && prefInfo.famousSpots.length > 0 && (
+            <a
+              href="#famous-spots"
+              className="text-xs font-bold text-rose-950 bg-rose-50 hover:bg-rose-700 hover:text-white border border-rose-300/40 px-4 py-2 rounded-xl transition flex items-center gap-1.5"
+            >
+              <span>🏰</span>
+              <span>絶景・王道！有名な場所・名所特集</span>
+            </a>
+          )}
           <a
             href="#cafes"
             className="text-xs font-bold text-amber-900 bg-amber-50 hover:bg-amber-600 hover:text-white border border-amber-400/30 px-4 py-2 rounded-xl transition flex items-center gap-1.5"
@@ -326,6 +335,49 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
           </a>
         </div>
       </section>
+
+      {/* 0. 🏰 【都道府県】一度は訪れたい有名な場所・王道名所ガイド */}
+      {prefInfo.famousSpots && prefInfo.famousSpots.length > 0 && (
+        <section id="famous-spots" className="scroll-mt-24 bg-gradient-to-br from-rose-50/60 via-amber-50/40 to-orange-50/30 border border-rose-300/40 rounded-3xl p-6 md:p-10 space-y-6 shadow-sm">
+          <div className="space-y-2 border-b border-rose-300/40 pb-4">
+            <span className="text-[10px] font-extrabold text-rose-800 bg-rose-200/60 px-3 py-0.5 rounded-full uppercase tracking-widest inline-block">
+              MUST-VISIT FAMOUS SPOTS
+            </span>
+            <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-rose-950 flex items-center gap-2">
+              <span>🏰</span> <span>【{prefInfo.name}】一度は訪れたい有名な場所・王道観光名所まとめ</span>
+            </h2>
+            <p className="text-xs text-rose-900/80 leading-relaxed font-medium">
+              {prefInfo.name}を象徴する世界遺産・国宝・歴史名所から絶景景勝地まで、「{prefInfo.name}旅行で絶対に外せない有名な場所」を厳選ガイド。
+            </p>
+          </div>
+
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            {prefInfo.famousSpots.map((spot, i) => (
+              <div key={i} className="bg-white p-6 rounded-2xl border border-rose-200/60 shadow-sm space-y-3 flex flex-col justify-between hover:shadow-md transition">
+                <div className="space-y-2">
+                  <div className="flex items-center gap-2">
+                    <span className="w-6 h-6 rounded-full bg-rose-700 text-white text-xs font-black flex items-center justify-center">
+                      {i + 1}
+                    </span>
+                    <h3 className="text-lg font-black font-journal-serif text-rose-950">
+                      {spot.name}
+                    </h3>
+                  </div>
+                  <p className="text-xs text-stone-700 leading-relaxed font-medium">
+                    {spot.description}
+                  </p>
+                </div>
+                <div className="pt-3 border-t border-rose-100 flex items-center justify-between text-[11px] font-bold text-rose-900">
+                  <span className="bg-rose-50 border border-rose-200 px-2.5 py-0.5 rounded-md text-rose-800 font-bold">
+                    📍 {prefInfo.name}の有名スポット
+                  </span>
+                  <span className="text-rose-700">★ 王道おすすめ名所</span>
+                </div>
+              </div>
+            ))}
+          </div>
+        </section>
+      )}
 
       {/* 1. サブエリアごとの詳細観光名所ガイド＆実在の確実な近隣宿セクション */}
       <div className="space-y-16">
