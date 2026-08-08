@@ -62,6 +62,18 @@ const CAMPAIGNS: CampaignItem[] = [
     category: "大型セール"
   },
   {
+    id: "obon-summer-vacation-pool-hotspring",
+    title: "お盆旅行・夏休み プール付きホテル＆夏休み温泉大特集（楽天トラベルセール）",
+    badge: "お盆・夏休み直前＆先々セール",
+    discountInfo: "最大30%OFF＋プール付き・温泉大浴場宿特集",
+    description: "2026年のお盆旅行・夏休みに絶対行きたい！屋外ナイトプールやウォータースライダー完備のファミリーホテル、絶景露天風呂のある夏休み温泉宿の楽天トラベルセール・特別クーポンをまとめ公開。",
+    targetDays: "お盆・夏休みシーズン限定（楽天 セール トラベル）",
+    highlights: ["子連れファミリーに大人気のプール完備ホテル", "夏休みのナイトプール・ビーチ直結リゾート", "絶景露天風呂・家族風呂のある夏休み温泉宿"],
+    affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Fsummer%2F",
+    imageUrl: "/images/rakuten_summer_sale_banner.png",
+    category: "大型セール"
+  },
+  {
     id: "rakuten-service-debut",
     title: "楽天トラベル 初めて利用キャンペーン",
     badge: "初回利用限定",

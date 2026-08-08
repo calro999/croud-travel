@@ -68,6 +68,7 @@
 - [【2026シルバーウィーク】グランピング＆アウトドア特集｜秋空の下で贅沢焚き火＆温泉を満喫する宿6選](https://croud-travel.pages.dev/posts/silverweek-glamping-outdoor-guide): 【2026シルバーウィーク】グランピング＆アウトドア特集｜秋空の下で贅沢焚き火＆温泉を満喫する宿6選（全国）
 - [【2026シルバーウィーク】極上の「ととのい」体験！本格サウナ＆スパ完備の温泉ホテル6選](https://croud-travel.pages.dev/posts/silverweek-sauna-spa-refresh-guide): 【2026シルバーウィーク】極上の「ととのい」体験！本格サウナ＆スパ完備の温泉ホテル6選（全国）
 - [【2026シルバーウィーク】テーマパーク・オフィシャルホテル特集｜パーク直結＆オフィシャル特典付き宿6選](https://croud-travel.pages.dev/posts/silverweek-themepark-resort-guide): 【2026シルバーウィーク】テーマパーク・オフィシャルホテル特集｜パーク直結＆オフィシャル特典付き宿6選（全国）
+- [【北海道・キロロ】Yu Kiroro (yukiroro) の魅力・天然温泉・ラグジュアリー滞在・予約前に知りたいポイント完全解説](https://croud-travel.pages.dev/posts/yukiroro): Yu Kiroro (yukiroro / ユーキロロ)（北海道）
 - [【2026年SW】シルバーウィークのホテルが高すぎる！直前でも安く泊まる裏ワザ＆コスパ宿6選](https://croud-travel.pages.dev/posts/silverweek-hotel-takai-workaround-guide): 【2026年SW】シルバーウィークのホテルが高すぎる！直前でも安く泊まる裏ワザ＆コスパ宿6選（全国）
 - [【2026シルバーウィーク】子連れファミリー向けおすすめ温泉宿6選｜キッズパーク・ウェルカムベビー・部屋食の宿](https://croud-travel.pages.dev/posts/silverweek-kodomozure-travel-guide): 【2026シルバーウィーク】子連れファミリー向けおすすめ温泉宿6選｜キッズパーク・ウェルカムベビー・部屋食の宿（全国）
 - [【2026最新】シルバーウィーク人気旅行先＆満足度トップの話題の宿6選](https://croud-travel.pages.dev/posts/silverweek-popular-destinations-ranking-guide): 【2026最新】シルバーウィーク人気旅行先＆満足度トップの話題の宿6選（全国）
@@ -107,4 +108,3 @@
 - [【岡山県・中国】ホテルトレンド岡山駅前の魅力・口コミ・予約前に知りたいポイント完全解説](https://croud-travel.pages.dev/posts/172806): ホテルトレンド岡山駅前（岡山県）
 - [【山口県・中国】スマイルホテル下関の魅力・口コミ・予約前に知りたいポイント完全解説](https://croud-travel.pages.dev/posts/151341): スマイルホテル下関（山口県）
 - [【和歌山県・近畿】奥白浜椿温泉　湯治のできる宿　しらさぎの魅力・口コミ・予約前に知りたいポイント完全解説](https://croud-travel.pages.dev/posts/19741): 奥白浜椿温泉　湯治のできる宿　しらさぎ（和歌山県）
-- [【栃木県・関東】奥日光　ホテル四季彩の魅力・口コミ・予約前に知りたいポイント完全解説](https://croud-travel.pages.dev/posts/13462): 奥日光　ホテル四季彩（栃木県）

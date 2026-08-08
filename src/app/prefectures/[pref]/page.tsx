@@ -241,7 +241,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
         </div>
 
         <h1 className="text-3xl md:text-5xl font-black font-journal-serif leading-tight text-white">
-          【{prefInfo.name}】エリア別観光名所・絶景カフェ・銘菓お土産・地酒＆おすすめ宿 ガイド
+          【{prefInfo.name}】有名な場所・名物ご当地グルメ（有名なもの）・おすすめ絶景宿 完全ガイド
         </h1>
 
         <p className="text-emerald-100/90 text-xs md:text-sm max-w-3xl leading-relaxed font-medium">
@@ -252,7 +252,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4 pt-4 border-t border-white/10 text-xs">
           <div className="space-y-1.5">
             <span className="text-[10px] font-extrabold text-amber-300 uppercase tracking-widest block">
-              📍 代表的観光名所・絶景ハイライト
+              📍 【{prefInfo.name}】有名な場所・代表的絶景観光スポット
             </span>
             <div className="flex flex-wrap gap-1.5">
               {prefInfo.highlights.map((h) => (
@@ -265,7 +265,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
 
           <div className="space-y-1.5">
             <span className="text-[10px] font-extrabold text-amber-300 uppercase tracking-widest block">
-              🍱 名物ご当地グルメ・絶品食文化
+              🍱 【{prefInfo.name}】有名なもの・名物ご当地グルメ＆特産品
             </span>
             <div className="flex flex-wrap gap-1.5">
               {prefInfo.gourmet.map((g) => (
