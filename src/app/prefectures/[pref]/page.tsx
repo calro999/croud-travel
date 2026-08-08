@@ -379,6 +379,59 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
         </section>
       )}
 
+      {/* 0.5 🎯 【都道府県】旅の目的・こだわり条件・同行者から探す */}
+      <section id="style-search" className="scroll-mt-24 bg-white border border-teal-900/10 rounded-3xl p-6 md:p-10 space-y-6 shadow-sm">
+        <div className="space-y-2 border-b border-teal-900/10 pb-4">
+          <span className="text-[10px] font-extrabold text-teal-800 bg-teal-50 border border-teal-200 px-3 py-0.5 rounded-full uppercase tracking-widest inline-block">
+            SEARCH BY TRAVEL STYLE
+          </span>
+          <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-teal-950 flex items-center gap-2">
+            <span>🎯</span> <span>【{prefInfo.name}】旅の目的・こだわり条件・同行者別おすすめスタイル</span>
+          </h2>
+          <p className="text-xs text-teal-900/80 leading-relaxed font-medium">
+            子連れファミリー、カップル露天風呂、一人旅サウナ、両親プレゼントなど、ご希望の滞在スタイルに最適な{prefInfo.name}の旅をご提案。
+          </p>
+        </div>
+
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+          <div className="p-5 rounded-2xl bg-amber-50/60 border border-amber-200 space-y-2">
+            <h3 className="text-sm font-bold text-amber-950 flex items-center gap-1.5">
+              <span>👨‍👩‍👧‍👦</span> <span>子連れ・ファミリー旅行</span>
+            </h3>
+            <p className="text-xs text-stone-700 leading-relaxed">
+              キッズアメニティや和洋室完備、プールや大浴場があるファミリー歓迎の安心ホテル。
+            </p>
+            <span className="inline-block text-[10px] font-extrabold text-amber-800 bg-white border border-amber-300 px-2.5 py-0.5 rounded-md">
+              #子連れ #ウェルカムベビー #プール
+            </span>
+          </div>
+
+          <div className="p-5 rounded-2xl bg-rose-50/60 border border-rose-200 space-y-2">
+            <h3 className="text-sm font-bold text-rose-950 flex items-center gap-1.5">
+              <span>👩‍❤️‍👨</span> <span>カップル・露天風呂付き客室</span>
+            </h3>
+            <p className="text-xs text-stone-700 leading-relaxed">
+              プライベートな時間を愉しめる露天風呂付き客室や、部屋食で味わう美味しい会席料理が人気。
+            </p>
+            <span className="inline-block text-[10px] font-extrabold text-rose-800 bg-white border border-rose-300 px-2.5 py-0.5 rounded-md">
+              #客室露天風呂 #記念日 #部屋食
+            </span>
+          </div>
+
+          <div className="p-5 rounded-2xl bg-indigo-50/60 border border-indigo-200 space-y-2">
+            <h3 className="text-sm font-bold text-indigo-950 flex items-center gap-1.5">
+              <span>👤</span> <span>一人旅・ビジネス・サウナ宿</span>
+            </h3>
+            <p className="text-xs text-stone-700 leading-relaxed">
+              駅チカ好立地、本格サウナ・水風呂付き大浴場完備、静かな住空間でリフレッシュ。
+            </p>
+            <span className="inline-block text-[10px] font-extrabold text-indigo-800 bg-white border border-indigo-300 px-2.5 py-0.5 rounded-md">
+              #一人旅 #サウナ #格安コスパ
+            </span>
+          </div>
+        </div>
+      </section>
+
       {/* 1. サブエリアごとの詳細観光名所ガイド＆実在の確実な近隣宿セクション */}
       <div className="space-y-16">
         {prefInfo.subAreas.map((subArea) => {

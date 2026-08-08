@@ -232,6 +232,54 @@ export default function Home() {
 
       {/* 記事一覧（フィルター付きClient Component） */}
       <PostListClient initialPosts={posts} />
+
+      {/* 🔍 人気検索テーマ・こだわり条件別タグクラウド（SEO全クエリハブ） */}
+      <section className="bg-gradient-to-br from-slate-900 via-emerald-950 to-teal-950 text-white rounded-3xl p-6 md:p-10 space-y-6 shadow-xl border border-white/10">
+        <div className="space-y-2 border-b border-white/10 pb-4">
+          <span className="text-[10px] font-extrabold text-amber-300 bg-amber-500/20 border border-amber-500/30 px-3 py-0.5 rounded-full uppercase tracking-widest inline-block">
+            SEARCH KEYWORDS HUB
+          </span>
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-white flex items-center gap-2">
+            <span>🔍</span> <span>目的・テーマ・こだわり条件から探す全国の旅宿</span>
+          </h2>
+          <p className="text-xs text-slate-300 leading-relaxed font-medium">
+            お盆・夏休み旅行、プール付きホテル、露天風呂付き客室、子連れファミリー宿、サウナ付きビジネス、楽天トラベルセールクーポンなど気になるテーマをダイレクト検索。
+          </p>
+        </div>
+
+        <div className="flex flex-wrap gap-2 text-xs">
+          <Link href="/campaigns" className="bg-amber-500/20 hover:bg-amber-500/30 text-amber-200 border border-amber-500/30 px-3 py-1.5 rounded-xl font-bold transition">
+            🏷️ 楽天トラベル セール クーポン
+          </Link>
+          <Link href="/campaigns" className="bg-rose-500/20 hover:bg-rose-500/30 text-rose-200 border border-rose-500/30 px-3 py-1.5 rounded-xl font-bold transition">
+            🎆 お盆 旅行 穴場
+          </Link>
+          <Link href="/campaigns" className="bg-teal-500/20 hover:bg-teal-500/30 text-teal-200 border border-teal-500/30 px-3 py-1.5 rounded-xl font-bold transition">
+            🏊 夏休み プール ホテル
+          </Link>
+          <Link href="/campaigns" className="bg-emerald-500/20 hover:bg-emerald-500/30 text-emerald-200 border border-emerald-500/30 px-3 py-1.5 rounded-xl font-bold transition">
+            ♨️ 夏休み 温泉 涼しい高原
+          </Link>
+          <Link href="/prefectures/shimane" className="bg-white/10 hover:bg-white/20 text-white border border-white/20 px-3 py-1.5 rounded-xl font-bold transition">
+            🏰 島根県 有名な場所
+          </Link>
+          <Link href="/prefectures/aichi" className="bg-white/10 hover:bg-white/20 text-white border border-white/20 px-3 py-1.5 rounded-xl font-bold transition">
+            🍱 愛知県 有名なもの
+          </Link>
+          <Link href="/prefectures/hokkaido" className="bg-white/10 hover:bg-white/20 text-white border border-white/20 px-3 py-1.5 rounded-xl font-bold transition">
+            🏔️ 北海道 リゾート (yukiroro)
+          </Link>
+          <Link href="/posts/158566" className="bg-white/10 hover:bg-white/20 text-white border border-white/20 px-3 py-1.5 rounded-xl font-bold transition">
+            ♨️ 天然温泉「千両の湯」スーパーホテル鹿嶋 夕食
+          </Link>
+          <Link href="/posts/8175" className="bg-white/10 hover:bg-white/20 text-white border border-white/20 px-3 py-1.5 rounded-xl font-bold transition">
+            🌊 湯元さぬき瀬戸大橋温泉 せとうちそう
+          </Link>
+          <Link href="/posts/18909" className="bg-white/10 hover:bg-white/20 text-white border border-white/20 px-3 py-1.5 rounded-xl font-bold transition">
+            🦌 ホテル リガーレ春日野 奈良
+          </Link>
+        </div>
+      </section>
     </div>
   );
 }
