@@ -58,6 +58,11 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【2026シルバーウィーク】大人の隠れ家リトリート！客室露天風呂＆極上離れで静かに過ごす高級温泉宿6選](https://croud-travel.pages.dev/posts/silverweek-adult-luxury-retreat-guide): 【2026シルバーウィーク】大人の隠れ家リトリート！客室露天風呂＆極上離れで静かに過ごす高級温泉宿6選（全国）
+- [【2026シルバーウィーク】秋の味覚狩り＆花畑散策！ぶどう・梨・シャインマスカットを満喫できる温泉宿6選](https://croud-travel.pages.dev/posts/silverweek-flower-fruit-harvest-guide): 【2026シルバーウィーク】秋の味覚狩り＆花畑散策！ぶどう・梨・シャインマスカットを満喫できる温泉宿6選（全国）
+- [【2026シルバーウィーク】歴史ロマン＆パワースポット巡り！城下町・名刹周辺の情緒溢れる温泉宿6選](https://croud-travel.pages.dev/posts/silverweek-history-powerspot-guide): 【2026シルバーウィーク】歴史ロマン＆パワースポット巡り！城下町・名刹周辺の情緒溢れる温泉宿6選（全国）
+- [【2026シルバーウィーク】連泊・湯治で身も心もほぐれる！長期滞在におすすめの本格温泉宿6選](https://croud-travel.pages.dev/posts/silverweek-longstay-toji-guide): 【2026シルバーウィーク】連泊・湯治で身も心もほぐれる！長期滞在におすすめの本格温泉宿6選（全国）
+- [【2026シルバーウィーク】車なし・ノーカー旅行！新幹線＆特急で行ける駅近温泉宿6選](https://croud-travel.pages.dev/posts/silverweek-train-access-nocar-guide): 【2026シルバーウィーク】車なし・ノーカー旅行！新幹線＆特急で行ける駅近温泉宿6選（全国）
 - [【2026年敬老の日】3世代ファミリー＆シニア旅行おすすめ温泉宿6選｜バリアフリー・個室会席・バリアフリー露天風呂](https://croud-travel.pages.dev/posts/silverweek-3generations-senior-guide): 【2026年敬老の日】3世代ファミリー＆シニア旅行おすすめ温泉宿6選｜バリアフリー・個室会席・バリアフリー露天風呂（全国）
 - [【2026シルバーウィーク】絶景ドライブ＆温泉ロードトリップおすすめ宿6选｜駐車場無料・シーサイド＆山岳ルート](https://croud-travel.pages.dev/posts/silverweek-drive-roadtrip-guide): 【2026シルバーウィーク】絶景ドライブ＆温泉ロードトリップおすすめ宿6选｜駐車場無料・シーサイド＆山岳ルート（全国）
 - [【2026シルバーウィーク】グランピング＆アウトドア特集｜秋空の下で贅沢焚き火＆温泉を満喫する宿6選](https://croud-travel.pages.dev/posts/silverweek-glamping-outdoor-guide): 【2026シルバーウィーク】グランピング＆アウトドア特集｜秋空の下で贅沢焚き火＆温泉を満喫する宿6選（全国）
@@ -103,8 +108,3 @@
 - [【山口県・中国】スマイルホテル下関の魅力・口コミ・予約前に知りたいポイント完全解説](https://croud-travel.pages.dev/posts/151341): スマイルホテル下関（山口県）
 - [【和歌山県・近畿】奥白浜椿温泉　湯治のできる宿　しらさぎの魅力・口コミ・予約前に知りたいポイント完全解説](https://croud-travel.pages.dev/posts/19741): 奥白浜椿温泉　湯治のできる宿　しらさぎ（和歌山県）
 - [【栃木県・関東】奥日光　ホテル四季彩の魅力・口コミ・予約前に知りたいポイント完全解説](https://croud-travel.pages.dev/posts/13462): 奥日光　ホテル四季彩（栃木県）
-- [【栃木県・関東】ホテルルートイン上尾の魅力・口コミ・予約前に知りたいポイント完全解説](https://croud-travel.pages.dev/posts/13453): ホテルルートイン上尾（栃木県）
-- [【長崎県・九州】五島列島リゾートホテル　マルゲリータ奈良尾＜五島・中通島＞の魅力・口コミ・予約前に知りたいポイント完全解説](https://croud-travel.pages.dev/posts/177048): 五島列島リゾートホテル　マルゲリータ奈良尾＜五島・中通島＞（長崎県）
-- [【永久保存版】カップルにおすすめの温泉宿・露天風呂付き客室15選｜記念日・誕生日にも](https://croud-travel.pages.dev/posts/couple-onsen-guide): 【永久保存版】カップルにおすすめの温泉宿・露天風呂付き客室特集｜記念日・誕生日にも（全国）
-- [【兵庫県・近畿】ホテルプラザ神戸の魅力・口コミ・予約前に知りたいポイント完全解説](https://croud-travel.pages.dev/posts/15432): ホテルプラザ神戸（兵庫県）
-- [【2026年最新】ペットと泊まれる宿おすすめ特集｜愛犬と一緒に温泉・ドッグラン付き](https://croud-travel.pages.dev/posts/pet-friendly-hotel-guide): 【2026年最新】ペットと泊まれる宿おすすめ特集｜愛犬と一緒に温泉・ドッグラン付き（全国）
