@@ -60,11 +60,11 @@ function main() {
   // 1-1. sitemap-main.xml (主要静的ページ)
   const staticPages = [
     { url: `${BASE_URL}/`, priority: '1.0', changefreq: 'daily' },
-    { url: `${BASE_URL}/kanazawa`, priority: '1.0', changefreq: 'daily' },
-    { url: `${BASE_URL}/noto`, priority: '1.0', changefreq: 'daily' },
-    { url: `${BASE_URL}/prefectures`, priority: '0.9', changefreq: 'daily' },
-    { url: `${BASE_URL}/campaigns`, priority: '0.9', changefreq: 'daily' },
-    { url: `${BASE_URL}/sitemap`, priority: '0.8', changefreq: 'weekly' }
+    { url: `${BASE_URL}/kanazawa/`, priority: '1.0', changefreq: 'daily' },
+    { url: `${BASE_URL}/noto/`, priority: '1.0', changefreq: 'daily' },
+    { url: `${BASE_URL}/prefectures/`, priority: '0.9', changefreq: 'daily' },
+    { url: `${BASE_URL}/campaigns/`, priority: '0.9', changefreq: 'daily' },
+    { url: `${BASE_URL}/sitemap/`, priority: '0.8', changefreq: 'weekly' }
   ];
 
   let xmlMain = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n`;
@@ -77,10 +77,10 @@ function main() {
   // 1-2. sitemap-prefectures.xml (47都道府県 ＆ カテゴリー詳細)
   let xmlPref = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n`;
   PREFECTURE_SLUGS.forEach(slug => {
-    xmlPref += `  <url>\n    <loc>${BASE_URL}/prefectures/${slug}</loc>\n    <lastmod>${todayStr}</lastmod>\n    <changefreq>daily</changefreq>\n    <priority>0.9</priority>\n  </url>\n`;
-    xmlPref += `  <url>\n    <loc>${BASE_URL}/prefectures/${slug}/cafes</loc>\n    <lastmod>${todayStr}</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.8</priority>\n  </url>\n`;
-    xmlPref += `  <url>\n    <loc>${BASE_URL}/prefectures/${slug}/souvenirs</loc>\n    <lastmod>${todayStr}</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.8</priority>\n  </url>\n`;
-    xmlPref += `  <url>\n    <loc>${BASE_URL}/prefectures/${slug}/sakes</loc>\n    <lastmod>${todayStr}</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.8</priority>\n  </url>\n`;
+    xmlPref += `  <url>\n    <loc>${BASE_URL}/prefectures/${slug}/</loc>\n    <lastmod>${todayStr}</lastmod>\n    <changefreq>daily</changefreq>\n    <priority>0.9</priority>\n  </url>\n`;
+    xmlPref += `  <url>\n    <loc>${BASE_URL}/prefectures/${slug}/cafes/</loc>\n    <lastmod>${todayStr}</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.8</priority>\n  </url>\n`;
+    xmlPref += `  <url>\n    <loc>${BASE_URL}/prefectures/${slug}/souvenirs/</loc>\n    <lastmod>${todayStr}</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.8</priority>\n  </url>\n`;
+    xmlPref += `  <url>\n    <loc>${BASE_URL}/prefectures/${slug}/sakes/</loc>\n    <lastmod>${todayStr}</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.8</priority>\n  </url>\n`;
   });
   xmlPref += `</urlset>\n`;
   fs.writeFileSync(path.join(PUBLIC_DIR, 'sitemap-prefectures.xml'), xmlPref, 'utf8');
@@ -89,7 +89,7 @@ function main() {
   let xmlPosts = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n`;
   posts.forEach(post => {
     const postDate = post.date ? new Date(post.date).toISOString().split('T')[0] : todayStr;
-    xmlPosts += `  <url>\n    <loc>${BASE_URL}/posts/${post.id}</loc>\n    <lastmod>${postDate}</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.8</priority>\n  </url>\n`;
+    xmlPosts += `  <url>\n    <loc>${BASE_URL}/posts/${post.id}/</loc>\n    <lastmod>${postDate}</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.8</priority>\n  </url>\n`;
   });
   xmlPosts += `</urlset>\n`;
   fs.writeFileSync(path.join(PUBLIC_DIR, 'sitemap-posts.xml'), xmlPosts, 'utf8');
@@ -134,6 +134,9 @@ User-agent: Meta-ExternalAgent
 Allow: /
 
 Sitemap: ${BASE_URL}/sitemap.xml
+Sitemap: ${BASE_URL}/sitemap-main.xml
+Sitemap: ${BASE_URL}/sitemap-prefectures.xml
+Sitemap: ${BASE_URL}/sitemap-posts.xml
 `;
 
   fs.writeFileSync(ROBOTS_FILE, robotsTxt, 'utf8');

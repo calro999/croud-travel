@@ -27,3 +27,6 @@ User-agent: Meta-ExternalAgent
 Allow: /
 
 Sitemap: https://croud-travel.pages.dev/sitemap.xml
+Sitemap: https://croud-travel.pages.dev/sitemap-main.xml
+Sitemap: https://croud-travel.pages.dev/sitemap-prefectures.xml
+Sitemap: https://croud-travel.pages.dev/sitemap-posts.xml
