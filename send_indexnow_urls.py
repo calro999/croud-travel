@@ -21,6 +21,16 @@ for jf in json_files:
     post_id = jf.replace(".json", "")
     url_list.append(f"https://{host}/posts/{post_id}")
 
+spot_slugs = [
+    "kanazawa-21st-century-museum", "kenrokuen", "higashi-chaya",
+    "izumo-taisha", "inasa-no-hama", "kashima-jingu",
+    "ponshukan-yuzawa", "nagoya-castle", "kiyomizu-dera",
+    "wakita-yunos eko", "yu-kiroro-resort"
+]
+
+for s in spot_slugs:
+    url_list.append(f"https://{host}/spots/{s}")
+
 print(f"=== INDEXNOW API BROADCAST FOR {len(url_list)} URLS ===")
 
 indexnow_endpoints = [

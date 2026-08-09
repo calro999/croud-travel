@@ -58,6 +58,11 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【福岡の奥座敷】脇田温泉 楠水閣の湯巡り完全ガイド！10種の露天風呂「湯のせこ」と創作懐石の魅力](https://croud-travel.pages.dev/posts/14607): 脇田温泉 楠水閣（福岡県）
+- [【夕食＆天然温泉無料】スーパーホテル鹿嶋の口コミ体験談！千両の湯と日替わり夕食サービスを徹底解説](https://croud-travel.pages.dev/posts/158566): 天然温泉「千両の湯」スーパーホテル鹿嶋（茨城県）
+- [【古都・奈良の隠れ宿】ホテル リガーレ春日野の魅力を完全ガイド！和室・無料駐車場・会席料理の評判](https://croud-travel.pages.dev/posts/18909): ホテル リガーレ春日野（奈良県）
+- [【2026年最新】リブマックスリゾート越後湯沢のリアルなブログ評判！天然温泉・プール・バイキング徹底紹介](https://croud-travel.pages.dev/posts/197415): 天然温泉 リブマックスリゾート越後湯沢（新潟県）
+- [【自家源泉天然温泉】湯元さぬき瀬戸大橋温泉 せとうちそうの絶景＆瀬戸内海鮮会席ガイド](https://croud-travel.pages.dev/posts/8175): 湯元さぬき瀬戸大橋温泉 せとうちそう（香川県）
 - [【神奈川県・箱根】箱根小涌園 天悠の魅力・全室客室露天風呂付き・インフィニティ温泉・カップル記念日完全解説](https://croud-travel.pages.dev/posts/hakone_kowakien_tenyu): 箱根小涌園　天悠（藤田観光リゾート）（神奈川県）
 - [【島根県・出雲】いにしえの宿 佳雲の魅力・出雲大社徒歩圏内・無料貸切風呂・和モダン優雅滞在完全解説](https://croud-travel.pages.dev/posts/inishie_no_yado_kei): いにしえの宿　佳雲（共立リゾート）（島根県）
 - [【千葉県・房総】鴨川シーワールドホテルの魅力・全室オーシャンビュー・夏休みプール・子連れ完全対応ガイド](https://croud-travel.pages.dev/posts/kamogawa_seaworld_hotel): 鴨川シーワールドホテル（千葉県）
@@ -103,8 +108,3 @@
 - [【2026お盆直前】山梨・富士五湖・河口湖の直前予約できる温泉宿＆絶景ホテル特集｜中央道渋滞回避・絶景ドライブ](https://croud-travel.pages.dev/posts/obon-yamanashi-lastminute-guide): 【2026お盆直前】山梨・富士五湖・河口湖の直前予約できる温泉宿＆絶景ホテル特集｜中央道渋滞回避・絶景ドライブ（山梨県）
 - [【2026お盆直前】兵庫・有馬温泉＆城崎温泉の直前予約できる旅館特集｜日本三名泉・外湯めぐり・神戸牛も](https://croud-travel.pages.dev/posts/obon-hyogo-lastminute-guide): 【2026お盆直前】兵庫・有馬温泉＆城崎温泉の直前予約できる旅館特集｜日本三名泉・外湯めぐり・神戸牛も（兵庫県）
 - [【2026お盆直前】神奈川・箱根の直前予約できる温泉旅館＆露天風呂付き宿特集｜東京から1時間・東名渋滞回避のコツも](https://croud-travel.pages.dev/posts/obon-kanagawa-lastminute-guide): 【2026お盆直前】神奈川・箱根の直前予約できる温泉旅館＆露天風呂付き宿特集｜東京から1時間・東名渋滞回避のコツも（神奈川県）
-- [【2026お盆直前】大分・別府温泉＆湯布院の直前予約できる温泉旅館特集｜地獄めぐり・足湯・名物グルメも](https://croud-travel.pages.dev/posts/obon-oita-lastminute-guide): 【2026お盆直前】大分・別府温泉＆湯布院の直前予約できる温泉旅館特集｜地獄めぐり・足湯・名物グルメも（大分県）
-- [【2026年最新】USJオフィシャルホテル全8棟おすすめ比較！マリオ＆ドンキーコング入場確約・安く泊まる裏ワザ徹底解説](https://croud-travel.pages.dev/posts/usj-official-hotels-guide): USJ（ユニバ）オフィシャルホテル全8棟特集（大阪府）
-- [【2026お盆直前】北海道の直前予約できる絶景リゾート＆温泉宿特集｜札幌・富良野・函館の駆け込みプラン](https://croud-travel.pages.dev/posts/obon-hokkaido-lastminute-guide): 【2026お盆直前】北海道の直前予約できる絶景リゾート＆温泉宿特集｜札幌・富良野・函館の駆け込みプラン（北海道）
-- [【2026お盆直前】石川県・金沢・能登の直前予約できる温泉宿特集｜穴場スポット・直前割引プラン](https://croud-travel.pages.dev/posts/obon-ishikawa-lastminute-guide): 【2026お盆直前】石川県・金沢・能登の直前予約できる温泉宿特集｜穴場スポット・直前割引プラン（石川県）
-- [【2026お盆直前】京都の直前予約おすすめホテル・町家旅館特集｜五山送り火・お盆限定プラン](https://croud-travel.pages.dev/posts/obon-kyoto-lastminute-guide): 【2026お盆直前】京都の直前予約おすすめホテル・町家旅館特集｜五山送り火・お盆限定プラン（京都府）

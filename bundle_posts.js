@@ -80,6 +80,32 @@ function main() {
     xmlAll += `  <url>\n    <loc>${BASE_URL}/prefectures/${slug}/sakes</loc>\n    <lastmod>${todayStr}</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.8</priority>\n  </url>\n`;
   });
 
+  // 市町村サブハブURLの自動追加
+  const citySubHubs = [
+    "hokkaido/sapporo", "hokkaido/hakodate", "hokkaido/otaru",
+    "aomori/aomori-city", "miyagi/sendai", "ibaraki/kashima",
+    "kanagawa/hakone", "niigata/yuzawa", "aichi/nagoya",
+    "kyoto/kyoto-city", "nara/nara-city", "tottori/tottori-city",
+    "shimane/izumo", "shimane/matsue", "kagawa/sakaide",
+    "fukuoka/fukuoka-city", "fukuoka/miyawaka", "okinawa/naha"
+  ];
+
+  citySubHubs.forEach(cPath => {
+    xmlAll += `  <url>\n    <loc>${BASE_URL}/prefectures/${cPath}</loc>\n    <lastmod>${todayStr}</lastmod>\n    <changefreq>daily</changefreq>\n    <priority>0.85</priority>\n  </url>\n`;
+  });
+
+  // フェーズ2.5 観光名所解説URLの自動追加
+  const spotSlugs = [
+    "kanazawa-21st-century-museum", "kenrokuen", "higashi-chaya",
+    "izumo-taisha", "inasa-no-hama", "kashima-jingu",
+    "ponshukan-yuzawa", "nagoya-castle", "kiyomizu-dera",
+    "wakita-yunos eko", "yu-kiroro-resort"
+  ];
+
+  spotSlugs.forEach(sSlug => {
+    xmlAll += `  <url>\n    <loc>${BASE_URL}/spots/${sSlug}</loc>\n    <lastmod>${todayStr}</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.85</priority>\n  </url>\n`;
+  });
+
   posts.forEach(post => {
     const postDate = post.date ? new Date(post.date).toISOString().split('T')[0] : todayStr;
     xmlAll += `  <url>\n    <loc>${BASE_URL}/posts/${post.id}</loc>\n    <lastmod>${postDate}</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.8</priority>\n  </url>\n`;

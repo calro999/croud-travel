@@ -5,6 +5,7 @@ import { notFound } from "next/navigation";
 import { Metadata } from "next";
 import RelatedPosts, { PostSummary } from "@/app/components/RelatedPosts";
 import { PREFECTURES_DATA } from "@/data/prefecturesData";
+import { SPOTS_DATA } from "@/data/spotsData";
 
 interface Post {
   id: string;
@@ -197,7 +198,8 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
     return acc;
   }, {} as Record<string, string>);
 
-  const prefSlug = prefNameToSlug[post.prefecture] || prefNameToSlug[post.prefecture.replace(/[都道府県]$/, '')] || "";
+  const safePref = post.prefecture || "";
+  const prefSlug = prefNameToSlug[safePref] || prefNameToSlug[safePref.replace(/[都道府県]$/, '')] || "";
   const prefUrl = prefSlug ? `${baseUrl}/prefectures/${prefSlug}` : `${baseUrl}/prefectures`;
   const prefPath = prefSlug ? `/prefectures/${prefSlug}` : `/prefectures`;
 
@@ -388,6 +390,41 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
                 )}
               </div>
             )}
+
+            {/* 宿の近くにあるフェーズ2.5観光名所解説リンク（回遊動線） */}
+            {(() => {
+              const safePref = post.prefecture || "";
+              const cleanPref = safePref.replace(/(県|府|東京都)$/, "");
+              const matchedSpots = SPOTS_DATA.filter(s => {
+                const textToSearch = `${post.title || ""} ${post.hotel_name || ""} ${post.area || ""} ${post.review || ""}`.toLowerCase();
+                const isPrefMatch = s.prefName === safePref || s.prefName.replace(/(県|府|東京都)$/, "") === cleanPref;
+                const isKwMatch = s.hotelKeywords.some(kw => textToSearch.includes(kw.toLowerCase()));
+                return isPrefMatch && isKwMatch;
+              });
+
+              if (matchedSpots.length === 0) return null;
+
+              return (
+                <div className="p-6 rounded-2xl bg-amber-50/60 border border-amber-300/60 space-y-3 mt-4">
+                  <span className="text-[10px] font-extrabold text-amber-900 uppercase tracking-widest block">
+                    🗺️ {post.hotel_name}からすぐ行ける周辺の絶景観光名所解説ガイド
+                  </span>
+                  <div className="flex flex-wrap gap-2">
+                    {matchedSpots.map(spot => (
+                      <Link
+                        key={spot.slug}
+                        href={`/spots/${spot.slug}`}
+                        className="text-xs font-bold text-amber-950 bg-white hover:bg-amber-600 hover:text-white border border-amber-300/80 px-4 py-2 rounded-xl transition shadow-sm flex items-center gap-1.5"
+                      >
+                        <span>📍</span>
+                        <span>{spot.name} 徹底解説を見る</span>
+                        <span>→</span>
+                      </Link>
+                    ))}
+                  </div>
+                </div>
+              );
+            })()}
 
             {/* 宿のギャラリー画像 */}
             {post.other_images && post.other_images.length > 0 && (

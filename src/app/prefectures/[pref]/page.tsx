@@ -4,6 +4,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { Metadata } from "next";
 import { PREFECTURES_DATA, getPrefectureBySlug, SubAreaInfo } from "@/data/prefecturesData";
+import { getCitiesByPrefectures } from "@/data/citiesData";
 
 interface Post {
   id: string;
@@ -96,7 +97,8 @@ function loadSinglePost(postId: string): Post | undefined {
 // ミクロエリアに対して、絶対に100%実在するPostオブジェクトを最低3件抽出する関数
 function getRealPostsForSubArea(subArea: SubAreaInfo, allPosts: Post[], prefName: string): Post[] {
   const result: Post[] = [];
-  const cleanPref = prefName.replace(/(県|府|東京都)$/, "");
+  const safePrefName = prefName || "";
+  const cleanPref = safePrefName.replace(/(県|府|東京都)$/, "");
 
   // 1. subAreaHotelsのpostIdから実在ポストを取得
   if (subArea.subAreaHotels) {
@@ -112,9 +114,10 @@ function getRealPostsForSubArea(subArea: SubAreaInfo, allPosts: Post[], prefName
 
   // 2. 3件に満たない場合、該当都道府県内の実在ポストからキーワードマッチ
   if (result.length < 3) {
-    const prefPosts = allPosts.filter(p => 
-      p.prefecture === prefName || p.prefecture.replace(/(県|府|東京都)$/, "") === cleanPref
-    );
+    const prefPosts = allPosts.filter(p => {
+      if (!p.prefecture) return false;
+      return p.prefecture === safePrefName || p.prefecture.replace(/(県|府|東京都)$/, "") === cleanPref;
+    });
 
     const matched = prefPosts.filter(post => {
       const textToSearch = (post.title + " " + post.hotel_name + " " + post.area + " " + post.review).toLowerCase();
@@ -161,9 +164,10 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
   }
 
   const allPosts = loadAllPosts();
-  const cleanPref = prefInfo.name.replace(/(県|府|東京都)$/, "");
+  const safePrefName = prefInfo.name || "";
+  const cleanPref = safePrefName.replace(/(県|府|東京都)$/, "");
   const allPrefPosts = allPosts.filter(
-    (p) => p.prefecture === prefInfo.name || p.prefecture.replace(/(県|府|東京都)$/, "") === cleanPref
+    (p) => p.prefecture && (p.prefecture === safePrefName || p.prefecture.replace(/(県|府|東京都)$/, "") === cleanPref)
   );
 
   const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
@@ -284,9 +288,28 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
           <span>📌</span> <span>目的のエリア・特集へ即座にスキップ</span>
         </h2>
         
+        {/* 市町村別サブハブリンク */}
+        {getCitiesByPrefectures(prefInfo.slug).length > 0 && (
+          <div className="space-y-2 pt-2 border-t border-emerald-950/5">
+            <span className="text-[10px] font-bold text-amber-900 block">【市町村別 おすすめ・観光・名物料理特化ガイド】</span>
+            <div className="flex flex-wrap gap-2">
+              {getCitiesByPrefectures(prefInfo.slug).map((city) => (
+                <Link
+                  key={city.citySlug}
+                  href={`/prefectures/${city.prefSlug}/${city.citySlug}`}
+                  className="text-xs font-bold text-amber-950 bg-amber-50 hover:bg-amber-600 hover:text-white border border-amber-300/60 px-3.5 py-1.5 rounded-xl transition flex items-center gap-1.5 shadow-sm"
+                >
+                  <span>📍</span>
+                  <span>{city.cityName} 観光・料理</span>
+                </Link>
+              ))}
+            </div>
+          </div>
+        )}
+
         {/* エリアボタン */}
         <div className="space-y-2">
-          <span className="text-[10px] font-bold text-emerald-950/50 block">【地域別エリアガイド】</span>
+          <span className="text-[10px] font-bold text-emerald-950/50 block">【広域エリア別ガイド】</span>
           <div className="flex flex-wrap gap-2">
             {prefInfo.subAreas.map((subArea) => (
               <a
