@@ -306,15 +306,25 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
         </div>
 
         {/* 施設アイキャッチ大画像 */}
-        <div className="relative aspect-[16/9] w-full rounded-2xl overflow-hidden border border-emerald-950/5 shadow-md">
+        <div className="relative aspect-[1004/670] w-full rounded-2xl overflow-hidden border border-emerald-950/5 shadow-md bg-emerald-950/5 flex items-center justify-center">
           {post.image ? (
-            <img
-              src={post.image}
-              alt={`${post.hotel_name} - ${post.prefecture}観光ガイド`}
-              className="w-full h-full object-cover"
-              loading="eager"
-              fetchPriority="high"
-            />
+            <>
+              {/* 背景の雰囲気を満たすブラーバックグラウンド */}
+              <img
+                src={post.image}
+                alt=""
+                className="absolute inset-0 w-full h-full object-cover blur-md opacity-30 scale-105 pointer-events-none"
+                aria-hidden="true"
+              />
+              {/* 全体が見切れないメイン画像 */}
+              <img
+                src={post.image}
+                alt={`${post.hotel_name} - ${post.prefecture}観光ガイド`}
+                className="relative z-10 max-w-full max-h-full w-auto h-auto object-contain"
+                loading="eager"
+                fetchPriority="high"
+              />
+            </>
           ) : (
             <div className="w-full h-full bg-emerald-50 flex items-center justify-center text-emerald-950/30 text-xs font-semibold">
               No Image
