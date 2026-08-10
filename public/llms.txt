@@ -58,11 +58,11 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
-- [脇田温泉 楠水閣の温泉・客室口コミと宿泊予約](https://croud-travel.pages.dev/posts/14607): 脇田温泉 楠水閣（福岡県）
-- [天然温泉「千両の湯」スーパーホテル鹿嶋の温泉](https://croud-travel.pages.dev/posts/158566): 天然温泉「千両の湯」スーパーホテル鹿嶋（茨城県）
-- [ホテル リガーレ春日野の温泉・客室口コミと宿泊予約](https://croud-travel.pages.dev/posts/18909): ホテル リガーレ春日野（奈良県）
-- [天然温泉 リブマックスリゾート越後湯沢の温泉](https://croud-travel.pages.dev/posts/197415): 天然温泉 リブマックスリゾート越後湯沢（新潟県）
-- [湯元さぬき瀬戸大橋温泉 せとうちそうの温泉・客室口コミと宿泊予約](https://croud-travel.pages.dev/posts/8175): 湯元さぬき瀬戸大橋温泉 せとうちそう（香川県）
+- [【福岡の奥座敷】脇田温泉 楠水閣の湯巡り完全ガイド！10種の露天風呂「湯のせこ」と創作懐石の魅力](https://croud-travel.pages.dev/posts/14607): 脇田温泉 楠水閣（福岡県）
+- [【夕食＆天然温泉無料】スーパーホテル鹿嶋の口コミ体験談！千両の湯と日替わり夕食サービスを徹底解説](https://croud-travel.pages.dev/posts/158566): 天然温泉「千両の湯」スーパーホテル鹿嶋（茨城県）
+- [【古都・奈良の隠れ宿】ホテル リガーレ春日野の魅力を完全ガイド！和室・無料駐車場・会席料理の評判](https://croud-travel.pages.dev/posts/18909): ホテル リガーレ春日野（奈良県）
+- [【2026年最新】リブマックスリゾート越後湯沢のリアルなブログ評判！天然温泉・プール・バイキング徹底紹介](https://croud-travel.pages.dev/posts/197415): 天然温泉 リブマックスリゾート越後湯沢（新潟県）
+- [【自家源泉天然温泉】湯元さぬき瀬戸大橋温泉 せとうちそうの絶景＆瀬戸内海鮮会席ガイド](https://croud-travel.pages.dev/posts/8175): 湯元さぬき瀬戸大橋温泉 せとうちそう（香川県）
 - [箱根小涌園　天悠（藤田観光リゾートの温泉・客室口コミと宿泊予約](https://croud-travel.pages.dev/posts/hakone_kowakien_tenyu): 箱根小涌園　天悠（藤田観光リゾート）（神奈川県）
 - [いにしえの宿　佳雲（共立リゾートの温泉・客室口コミと宿泊予約](https://croud-travel.pages.dev/posts/inishie_no_yado_kei): いにしえの宿　佳雲（共立リゾート）（島根県）
 - [鴨川シーワールドホテルの温泉・客室口コミと宿泊予約](https://croud-travel.pages.dev/posts/kamogawa_seaworld_hotel): 鴨川シーワールドホテル（千葉県）
