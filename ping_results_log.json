@@ -1,22 +1,22 @@
 [
   {
     "target": "Google Sitemap Ping",
-    "status": 404,
-    "response": "<HTML>\n<HEAD>\n<TITLE>Sitemaps ping is deprecated. See https://developers.google.com/search/blog/2023/06/sitemaps-lastmod-ping.</TITLE>\n</HEAD>\n<BODY B"
+    "status": 403,
+    "response": "Request to GET /ping on www.google.com not allowed by policy\n"
   },
   {
     "target": "Bing / Yahoo / IndexNow Sitemap Ping",
-    "status": 410,
-    "response": ""
+    "status": 403,
+    "response": "Request to GET /ping on www.bing.com not allowed by policy\n"
   },
   {
     "target": "Yandex Blogs Ping",
-    "status": 200,
-    "response": "<!doctype html><html lang=\"en\"><head><meta charset=\"UTF-8\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><title>ÐÐµÑÐ¸ÑÐ¸ÐºÐ°Ñ"
+    "status": 403,
+    "response": "Request to GET /pings on blogs.yandex.ru not allowed by policy\n"
   },
   {
     "target": "Ping-O-Matic Hub",
-    "status": 200,
-    "response": "\n\n\n\t<h2>Slow down cowboy!</h2>\n\t<p>Your last ping was less than a few minutes ago. Please only ping us when you update your blog/website!</p>\n\t<h4>If "
+    "status": 403,
+    "response": "Request to GET /ping on pingomatic.com not allowed by policy\n"
   }
 ]
