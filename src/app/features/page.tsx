@@ -75,6 +75,27 @@ export default async function FeaturesPage() {
         </p>
       </section>
 
+      {/* 🍁 秋の行楽・美食温泉宿35選 特設まとめバナー */}
+      <section className="bg-gradient-to-r from-amber-600 via-orange-600 to-amber-700 rounded-3xl p-6 md:p-8 text-white shadow-lg flex flex-col md:flex-row items-center justify-between gap-6">
+        <div className="space-y-2">
+          <span className="inline-block text-[10px] font-black tracking-wider bg-white/20 px-3 py-0.5 rounded-full uppercase">
+            季節の超特別企画 🍁
+          </span>
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif">
+            【2026年最新】全国の秋の味覚＆紅葉を満喫する絶品温泉宿35選 まとめ
+          </h2>
+          <p className="text-amber-100 text-xs md:text-sm max-w-2xl leading-relaxed">
+            北海道のカニ食べ放題から、丹波松茸、シャインマスカット狩り、伊勢海老・車海老、ブランド和牛まで！全国エリア別の秋限定グルメ＆名湯旅館を一挙公開。
+          </p>
+        </div>
+        <Link
+          href="/campaigns/autumn-gourmet-travel"
+          className="w-full md:w-auto px-8 py-4 bg-white text-amber-900 hover:bg-amber-50 font-black text-xs md:text-sm rounded-2xl shadow-md transition text-center whitespace-nowrap"
+        >
+          秋の味覚 35選まとめを見る →
+        </Link>
+      </section>
+
       {/* 特集記事グリッド（クライアントコンポーネント） */}
       <FeaturesGrid initialPosts={posts} />
     </div>
