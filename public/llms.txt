@@ -78,6 +78,11 @@
 - [【2026年最新】山形 米沢牛絶品すき焼き＆秋の本格芋煮・絶景露天風呂の温泉宿特集](https://croud-travel.pages.dev/posts/autumn-tohoku-yonezawagyu-sukiyaki-guide): 湯の沢温泉　時の宿すみれ（山形県）
 - [【2026年最新】静岡 熱海温泉 相模湾の極上金目鯛姿煮＆インフィニティ大露天風呂温泉リゾート特集](https://croud-travel.pages.dev/posts/autumn-tokai-shizuoka-atami-ocean-guide): 熱海温泉　熱海後楽園ホテル（静岡県）
 - [【2026年最新】伊豆修善寺 桂川の紅葉散策＆駿河湾金目鯛・伊勢海老風情あふれる文化財旅館特集](https://croud-travel.pages.dev/posts/autumn-tokai-shuzenji-bamboo-autumn-guide): 修善寺温泉　国の登録文化財の宿　新井旅館（静岡県）
+- [【2026年最新】愛犬と泊まれる！部屋食確約＆客室露天風呂付きペット歓迎温泉旅館特集](https://croud-travel.pages.dev/posts/theme-pet-friendly-dog-onsen-guide): 別邸　石の家　伊豆高原　ペットと泊まれる全室露天付き客室の宿（静岡県）
+- [【2026年最新】極上の「整い」体験！本格セルフロウリュ＆水風呂完備の絶景サウナ温泉ホテル特集](https://croud-travel.pages.dev/posts/theme-sauna-totonou-hotspring-guide): 洞爺湖万世閣ホテルレイクサイドテラス（北海道）
+- [【2026年最新】冬解禁！本場越前ガニ・松葉ガニフルコース＆庭園露天風呂の極上温泉旅館特集](https://croud-travel.pages.dev/posts/winter-brand-crab-matsuba-echizen-guide): 北陸　福井　あわら温泉　清風荘（北陸最大級の庭園露天風呂の宿　清風荘）（福井県）
+- [【2026年最新】年末年始・お正月旅行におすすめ！豪華初夢バイキング＆名湯温泉旅館特集](https://croud-travel.pages.dev/posts/winter-newyear-onsen-reservation-guide): 登別温泉　第一滝本館（北海道）
+- [【2026年最新】銀世界を望む雪見風呂＆絶景雪見露天風呂の最高峰温泉宿特集](https://croud-travel.pages.dev/posts/winter-yukimi-onsen-guide): 深山荘　高見屋（山形県）
 - [【2026年最新】有馬温泉のおすすめ高級・贅沢温泉宿特集｜金泉・銀泉と神戸牛会席](https://croud-travel.pages.dev/posts/arima-onsen-luxury-guide): 有馬温泉　有馬グランドホテル（兵庫県）
 - [【2026年最新】熱海オーシャンビューホテルおすすめ特集｜相模湾の絶景＆花火大会ビュー](https://croud-travel.pages.dev/posts/atami-oceanview-hotel-guide): 熱海温泉　熱海後楽園ホテル（静岡県）
 - [【2026年最新】中国地方 ベニズワイガニ解禁＆鳥取和牛堪能おすすめ温泉旅館特集](https://croud-travel.pages.dev/posts/autumn-chugoku-crab-gourmet-guide): 皆生温泉　湯喜望　白扇（鳥取県）
@@ -103,8 +108,3 @@
 - [【2026年最新】関東 松茸・和栗・秋の味覚豪華ビュッフェ＆絶景露天風呂の温泉宿特集](https://croud-travel.pages.dev/posts/autumn-kanto-matsutake-gourmet-guide): 鬼怒川温泉　あさや（栃木県）
 - [【2026年最新】信州りんご・秋フルーツ狩り＆絶景客室露天風呂の温泉宿特集](https://croud-travel.pages.dev/posts/autumn-koshinetsu-apple-sweets-guide): 湯田中温泉　燈火、旬遊の宿　あぶらや燈千（長野県）
 - [【2026年最新】甲信越 フルーツ狩り＆シャインマスカットが楽しめる秋の温泉宿特集](https://croud-travel.pages.dev/posts/autumn-koshinetsu-grape-gourmet-guide): 石和温泉　華やぎの章　慶山（山梨県）
-- [【2026年最新】軽井沢 信州りんご・ブドウ狩り＆露天風呂付き客室ラグジュアリーホテル特集](https://croud-travel.pages.dev/posts/autumn-koshinetsu-karuizawa-apple-guide): 軽井沢マリオットホテル（長野県）
-- [【2026年最新】長野 諏訪湖 松茸フルコース＆信州プレミアム牛会席の温泉リゾート特集](https://croud-travel.pages.dev/posts/autumn-koshinetsu-matsutake-shinsu-guide): 上諏訪温泉　しんゆ（親湯）（長野県）
-- [【2026年最新】信州小布施 完熟小布施栗スイーツ＆秋のフルーツ狩り・温泉リゾート特集](https://croud-travel.pages.dev/posts/autumn-koshinetsu-yamagata-chestnut-guide): 天然温泉　旅人の湯（源泉名：延徳温泉）ホテルルートインＧｒａｎｄ中野小布施－信州中野駅前－（長野県）
-- [【2026年最新】九州 天草の名物踊り車海老・伊勢海老・あか牛会席の温泉リゾート特集](https://croud-travel.pages.dev/posts/autumn-kyushu-amakuza-kurumaebi-guide): 松島温泉　海のやすらぎ　ホテル竜宮（熊本県）
-- [【2026年最新】別府温泉 関アジ・関サバ＆豊後牛・地獄蒸しバイキング温泉リゾート特集](https://croud-travel.pages.dev/posts/autumn-kyushu-beppu-seafood-guide): 別府温泉　杉乃井ホテル（オリックスホテルズ＆リゾーツ）（大分県）
