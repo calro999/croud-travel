@@ -17,6 +17,6 @@
   {
     "target": "Ping-O-Matic Hub",
     "status": 200,
-    "response": "\n\n\n\t<h2>Slow down cowboy!</h2>\n\t<p>Your last ping was less than a few minutes ago. Please only ping us when you update your blog/website!</p>\n\t<h4>If "
+    "response": "\n\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<html xmlns=\"http://www.w3"
   }
 ]
