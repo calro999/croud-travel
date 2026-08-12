@@ -1345,7 +1345,19 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://croud-travel.pages.dev/posts/autumn-hokuriku-toyama-himi-buri-guide</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://croud-travel.pages.dev/posts/autumn-hokuriku-wajima-nodoguro-guide</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://croud-travel.pages.dev/posts/autumn-kansai-shiga-lake-biwa-matsutake-guide</loc>
     <lastmod>2026-08-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -1363,6 +1375,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://croud-travel.pages.dev/posts/autumn-kanto-gunma-ikaho-momiji-guide</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://croud-travel.pages.dev/posts/autumn-kanto-nasu-cheese-sweets-guide</loc>
     <lastmod>2026-08-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -1375,6 +1393,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://croud-travel.pages.dev/posts/autumn-kyushu-kagoshima-kirishima-beef-guide</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://croud-travel.pages.dev/posts/autumn-kyushu-unzen-maple-beef-guide</loc>
     <lastmod>2026-08-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -1382,6 +1406,12 @@
   </url>
   <url>
     <loc>https://croud-travel.pages.dev/posts/autumn-kyushu-yufuin-bungogyu-hanare-guide</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://croud-travel.pages.dev/posts/autumn-tohoku-iwate-salmon-gourmet-guide</loc>
     <lastmod>2026-08-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
