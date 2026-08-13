@@ -58,6 +58,11 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【2026年最新】千葉 鴨川温泉 太平洋を一望する空中温泉スパ＆房州伊勢海老・あわび舞踊り絶景リゾート特集](https://croud-travel.pages.dev/posts/resort-chiba-kamogawa-ocean-spa-luxury-guide): 鴨川館（千葉県）
+- [【2026年最新】函館の絶景夜景＆海鮮いくら盛り放題朝食バイキング・天空絶景温泉ホテル特集](https://croud-travel.pages.dev/posts/resort-hokkaido-hakodate-morning-buffet-guide): センチュリーマリーナ函館（北海道）
+- [【2026年最新】京都 嵐山・渡月橋散策と竹林の小径＆5つの貸切風呂・本格京懐石温泉旅館特集](https://croud-travel.pages.dev/posts/resort-kyoto-arashiyama-togetsukyo-onsen-guide): 京都　嵐山温泉　花伝抄（共立リゾート）（２０２６年５月１日リニューアルオープン）（京都府）
+- [【2026年最新】長野 白馬・北アルプスの絶景パノラマ＆掛け流し大露天風呂マウンテンリゾート特集](https://croud-travel.pages.dev/posts/resort-nagano-hakuba-mountain-view-onsen-guide): 白馬みずばしょう温泉　ホテル　シェラリゾート白馬（長野県）
+- [【2026年最新】由布院温泉 朝霧を望む全室露天風呂付き離れ＆最高級豊後牛ステーキ名宿特集](https://croud-travel.pages.dev/posts/resort-oita-yufuin-bungogyu-asagiri-guide): 由布院温泉　朝霧のみえる宿　ゆふいん花由（大分県）
 - [【2026年最新】北海道 登別温泉・地獄谷の秋紅葉絶景＆自家製生いくらビュッフェ・7泉質大浴場名宿特集](https://croud-travel.pages.dev/posts/autumn-hokkaido-noboribetsu-jigokudani-guide): 登別温泉　第一滝本館（北海道）
 - [【2026年最新】北海道 小樽運河名物・旬の八角＆秋鮭いくらビュッフェ・運河絶景温泉ホテル特集](https://croud-travel.pages.dev/posts/autumn-hokkaido-otaru-herring-guide): 運河の宿　おたる　ふる川（北海道）
 - [【2026年最新】北陸 富山・氷見名物 ひみ寒ブリ三昧＆富山湾オーシャンビュー温泉旅館特集](https://croud-travel.pages.dev/posts/autumn-hokuriku-toyama-himi-buri-guide): 氷見温泉郷　くつろぎの宿　うみあかり（富山県）
@@ -103,8 +108,3 @@
 - [【2026年最新】中国地方 ベニズワイガニ解禁＆鳥取和牛堪能おすすめ温泉旅館特集](https://croud-travel.pages.dev/posts/autumn-chugoku-crab-gourmet-guide): 皆生温泉　湯喜望　白扇（鳥取県）
 - [【2026年最新】広島・宮島 ぷりぷり秋牡蠣・穴子めし＆瀬戸内絶景温泉旅館特集](https://croud-travel.pages.dev/posts/autumn-chugoku-hiroshima-oyster-guide): 宮島温泉　滝乃荘（広島県）
 - [【2026年最新】出雲・玉造温泉 松茸＆のどぐろ塩焼き・高級和牛懐石の温泉旅館特集](https://croud-travel.pages.dev/posts/autumn-chugoku-matsutake-shimane-guide): 玉造温泉　佳翠苑　皆美（島根県）
-- [【2026年最新】北海道 カニ食べ放題＆秋の味覚バイキングの温泉宿おすすめ特集](https://croud-travel.pages.dev/posts/autumn-hokkaido-crab-gourmet-guide): 定山渓万世閣ホテルミリオーネ（北海道）
-- [【2026年最新】北海道 富良野・美瑛 完熟赤肉メロンスイーツ＆秋の味覚ビュッフェ温泉リゾート特集](https://croud-travel.pages.dev/posts/autumn-hokkaido-furano-melon-sweets-guide): 新富良野プリンスホテル（北海道）
-- [【2026年最新】北海道 函館名物こぼれいくら＆秋イカ絶品朝市バイキング・天空露天風呂の宿特集](https://croud-travel.pages.dev/posts/autumn-hokkaido-hakodate-seafood-guide): センチュリーマリーナ函館（北海道）
-- [【2026年最新】北海道 秋の生鮭＆こぼれいくら掛け放題名物ビュッフェの温泉宿特集](https://croud-travel.pages.dev/posts/autumn-hokkaido-salmon-ikura-guide): 登別温泉　第一滝本館（北海道）
-- [【2026年最新】北海道 支笏湖の旬ヒメマス・秋鮭いろり会席と足元湧出秘湯の宿特集](https://croud-travel.pages.dev/posts/autumn-hokkaido-shikotsuko-gourmet-guide): 奥札幌の秘湯　湖畔の宿支笏湖　丸駒温泉旅館（北海道）
