@@ -1423,7 +1423,19 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://croud-travel.pages.dev/posts/ise-lobster-abalone-seafood-gourmet-hotels-guide</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://croud-travel.pages.dev/posts/jigokumushi-steam-onsen-gourmet-hotels-guide</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://croud-travel.pages.dev/posts/kusatsu-all-hotspring-sources-ryokan-hotels-guide</loc>
     <lastmod>2026-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -1526,6 +1538,12 @@
   </url>
   <url>
     <loc>https://croud-travel.pages.dev/posts/sea-of-clouds-mountain-panoramic-resort-hotels-guide</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://croud-travel.pages.dev/posts/sea-of-clouds-sky-terrace-resort-hotels-guide</loc>
     <lastmod>2026-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
