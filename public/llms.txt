@@ -62,6 +62,7 @@
 - [【2026年最新】朝食バイキングが美味しいおすすめホテル10選！海鮮丼＆いくら盛り放題徹底比較](https://croud-travel.pages.dev/posts/best-breakfast-buffet-seafood-ikura-hotels-guide): 日本一の朝食バイキングホテルおすすめ10選（全国）
 - [【2026年最新】天然炭酸泉が自慢のおすすめ温泉宿10選！しゅわしゅわ泡風呂徹底比較](https://croud-travel.pages.dev/posts/carbonated-spring-effervescent-bubble-onsen-hotels-guide): 天然炭酸泉・しゅわしゅわ泡風呂温泉宿おすすめ10選（全国）
 - [【2026年最新】洞窟風呂が凄いおすすめ温泉宿10選！天然岩窟温泉徹底比較](https://croud-travel.pages.dev/posts/cave-bath-geothermal-secret-onsen-hotels-guide): 天然洞窟風呂・神秘の岩窟温泉宿おすすめ10選（全国）
+- [【2026年最新】囲炉裏炭火料理が美味しいおすすめ温泉宿10選！徹底比較](https://croud-travel.pages.dev/posts/charcoal-hearth-gibier-mountain-cuisine-onsen-hotels-guide): 囲炉裏炭火料理・ジビエ会席温泉宿おすすめ10選（全国）
 - [【2026年最新】クラフトビールが飲めるおすすめ温泉宿10選！醸造所ホテル徹底比較](https://croud-travel.pages.dev/posts/craft-beer-distillery-onsen-resort-hotels-guide): クラフトビール・ブルワリー温泉宿おすすめ10選（全国）
 - [【2026年最新】花火が見える部屋・宿おすすめホテル10選！特等席徹底比較](https://croud-travel.pages.dev/posts/fireworks-view-room-lake-bay-hotels-guide): 花火が見える部屋・絶景ホテルおすすめ10選（全国）
 - [【2026年最新】足湯カフェ＆足湯テラス付きおすすめ温泉宿10選！絶景徹底比較](https://croud-travel.pages.dev/posts/footbath-terrace-cafe-scenic-onsen-hotels-guide): 足湯カフェ・足湯テラス温泉宿おすすめ10選（全国）
@@ -75,6 +76,7 @@
 - [【2026年最新】高原の避暑地おすすめ高級リゾートホテル10選！マウンテンリゾート徹底比較](https://croud-travel.pages.dev/posts/luxury-highland-mountain-summer-resort-hotels-guide): 高原避暑地・マウンテンリゾートホテルおすすめ10選（全国）
 - [【2026年最新】インフィニティプール付きおすすめ高級ホテル10選！ナイトプール徹底比較](https://croud-travel.pages.dev/posts/luxury-infinity-pool-night-pool-hotels-guide): インフィニティプール・ナイトプールホテルおすすめ10選（全国）
 - [【2026年最新】絶景夜景＆クラブラウンジが自慢の高級ホテル10選！カクテルタイム徹底比較](https://croud-travel.pages.dev/posts/luxury-night-view-club-lounge-hotels-guide): 絶景夜景・クラブラウンジホテルおすすめ10選（全国）
+- [【2026年最新】乳白色・エメラルドにごり湯温泉宿おすすめ10選！硫黄泉徹底比較](https://croud-travel.pages.dev/posts/milky-emerald-sulfur-hotspring-hotels-guide): 乳白色・エメラルドにごり湯硫黄泉宿おすすめ10選（全国）
 - [【2026年最新】泥湯・泥パックが人気のおすすめ温泉宿10選！美肌徹底比較](https://croud-travel.pages.dev/posts/mineral-mud-pack-beauty-skin-onsen-hotels-guide): 泥湯・泥パック美肌温泉宿おすすめ10選（全国）
 - [【2026年最新】混浴露天風呂が自慢の秘湯温泉宿10選！湯浴み着OK＆名湯徹底比較](https://croud-travel.pages.dev/posts/mixed-bath-secret-hotspring-pure-nature-hotels-guide): 混浴露天風呂・本物の秘湯温泉宿おすすめ10選（全国）
 - [【2026年最新】トレッキング・登山におすすめのホテル宿10選！山岳リゾート徹底比較](https://croud-travel.pages.dev/posts/mountain-trekking-hiking-activity-hotels-guide): トレッキング・登山拠点おすすめホテル宿10選（全国）
@@ -97,6 +99,7 @@
 - [【2026年最新】登録有形文化財に泊まるおすすめ名旅館10選！数寄屋造り徹底比較](https://croud-travel.pages.dev/posts/tangible-cultural-property-heritage-ryokan-hotels-guide): 有形文化財・数寄屋造り名旅館おすすめ10選（全国）
 - [【2026年最新】お茶・茶道体験が人気のおすすめ温泉宿10選！日本茶リゾート徹底比較](https://croud-travel.pages.dev/posts/tea-ceremony-experience-japanese-tea-resort-hotels-guide): お茶・茶道体験ティーリゾートおすすめ10選（全国）
 - [【2026年最新】一度は泊まりたい宿坊・寺社体験おすすめ宿10選！精進料理＆朝のお勤め](https://croud-travel.pages.dev/posts/temple-shukubo-zen-meditation-shojin-hotels-guide): 宿坊・寺社仏閣体験宿おすすめ10選（全国）
+- [【2026年最新】棚湯・段々畑露天風呂が凄いおすすめ宿10選！絶景徹底比較](https://croud-travel.pages.dev/posts/terraced-infinity-tanayu-onsen-hotels-guide): 棚湯・段々畑露天風呂おすすめ温泉宿10選（全国）
 - [【2026年最新】棚田・里山風景に癒されるおすすめ温泉宿10選！徹底比較](https://croud-travel.pages.dev/posts/terraced-rice-fields-satoyama-resort-hotels-guide): 棚田・里山風景おすすめ温泉宿10選（全国）
 - [【2026年最新】茅葺き屋根の古民家温泉宿おすすめ10選！日本の原風景徹底比較](https://croud-travel.pages.dev/posts/thatched-roof-heritage-kominka-ryokan-hotels-guide): 茅葺き屋根・日本の原風景古民家宿おすすめ10選（全国）
 - [【2026年最新】日本三大名湯おすすめ温泉宿10選！草津・有馬・下呂の名旅館徹底比較](https://croud-travel.pages.dev/posts/three-famous-onsen-kusatsu-arima-gero-hotels-guide): 日本三大名湯（草津・有馬・下呂）名宿おすすめ10選（全国）
@@ -105,6 +108,3 @@
 - [【2026年最新】子連れ・赤ちゃん連れ歓迎おすすめホテル10選！ウェルカムベビー徹底比較](https://croud-travel.pages.dev/posts/welcome-baby-kids-family-resort-hotels-guide): 子連れ・赤ちゃん連れウェルカムベビー宿おすすめ10選（全国）
 - [【2026年最新】日本三大美肌の湯おすすめ温泉宿10選！とろとろ化粧水のような美容名湯](https://croud-travel.pages.dev/posts/beauty-skin-smooth-hotspring-onsen-hotels-guide): 美肌の湯・とろとろ美容温泉宿おすすめ10選（全国）
 - [【2026年最新】子連れ・三世代旅行におすすめの温泉宿・ホテル10選！ウェルカムベビーのお宿＆室内温水プール・豪華ビュッフェ徹底比較](https://croud-travel.pages.dev/posts/family-kids-indoor-pool-buffet-hotels-guide): 子連れ・ファミリーおすすめホテル10選（全国）
-- [【2026年最新】女子旅・ご褒美ステイにおすすめのホテル10選！無料ラウンジサービス＆ReFa・ビューバス付き徹底比較](https://croud-travel.pages.dev/posts/girls-trip-afternoon-tea-cosmetics-hotels-guide): 女子旅・ご褒美ホテルおすすめ10選（全国）
-- [【2026年最新】料理が美味しい極上オーベルジュ10選！ミシュラン星付きシェフ＆地産地消フレンチ](https://croud-travel.pages.dev/posts/gourmet-auberge-michelin-french-wine-hotels-guide): 美食オーベルジュ・フレンチおすすめ10選（全国）
-- [【2026年最新】歴史あるクラシックホテルおすすめ10選！国登録有形文化財＆100年の名建築](https://croud-travel.pages.dev/posts/historic-classic-cultural-heritage-hotels-guide): クラシックホテル＆文化財宿おすすめ10選（全国）
