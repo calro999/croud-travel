@@ -72,6 +72,7 @@
 - [【2026年最新】インフィニティプール付きおすすめ高級ホテル10選！ナイトプール徹底比較](https://croud-travel.pages.dev/posts/luxury-infinity-pool-night-pool-hotels-guide): インフィニティプール・ナイトプールホテルおすすめ10選（全国）
 - [【2026年最新】絶景夜景＆クラブラウンジが自慢の高級ホテル10選！カクテルタイム徹底比較](https://croud-travel.pages.dev/posts/luxury-night-view-club-lounge-hotels-guide): 絶景夜景・クラブラウンジホテルおすすめ10選（全国）
 - [【2026年最新】混浴露天風呂が自慢の秘湯温泉宿10選！湯浴み着OK＆名湯徹底比較](https://croud-travel.pages.dev/posts/mixed-bath-secret-hotspring-pure-nature-hotels-guide): 混浴露天風呂・本物の秘湯温泉宿おすすめ10選（全国）
+- [【2026年最新】トレッキング・登山におすすめのホテル宿10選！山岳リゾート徹底比較](https://croud-travel.pages.dev/posts/mountain-trekking-hiking-activity-hotels-guide): トレッキング・登山拠点おすすめホテル宿10選（全国）
 - [【2026年最新】富士山が見える絶景ホテル・湖畔宿おすすめ10選！河口湖＆芦ノ湖徹底比較](https://croud-travel.pages.dev/posts/mt-fuji-view-lake-side-luxury-resort-hotels-guide): 富士山ビュー・湖畔絶景ホテルおすすめ10選（全国）
 - [【2026年最新】泥パック＆美肌コスメが人気のおすすめ温泉宿10選！美容スパ徹底比較](https://croud-travel.pages.dev/posts/mud-pack-beauty-skin-cosmetic-onsen-hotels-guide): 泥パック・美肌コスメ温泉宿おすすめ10選（全国）
 - [【2026年最新】新オープンの高級ラグジュアリーホテルおすすめ10選！最新注目宿徹底比較](https://croud-travel.pages.dev/posts/new-opening-luxury-suite-trendy-hotels-guide): 最新オープン・高級ラグジュアリーホテルおすすめ10選（全国）
@@ -84,7 +85,9 @@
 - [【2026年最新】一人旅におすすめの高級温泉宿10選！客室露天風呂＆お部屋食徹底比較](https://croud-travel.pages.dev/posts/solo-luxury-room-dining-private-onsen-hotels-guide): 一人旅歓迎・客室露天お部屋食高級宿おすすめ10選（全国）
 - [【2026年最新】一人旅におすすめの高級温泉宿10選！お部屋食＆客室露天風呂徹底比較](https://croud-travel.pages.dev/posts/solo-traveler-luxury-room-dining-retreat-hotels-guide): 一人旅歓迎・お部屋食＆客室露天風呂温泉宿おすすめ10選（全国）
 - [【2026年最新】泊まれる本屋・ブックホテルおすすめ10選！読書リゾート徹底比較](https://croud-travel.pages.dev/posts/stayable-book-hotel-library-resort-hotels-guide): 泊まれる本屋・ブックホテルおすすめ10選（全国）
+- [【2026年最新】夕日が見える海辺の温泉宿おすすめ10選！絶景サンセット徹底比較](https://croud-travel.pages.dev/posts/sunset-ocean-view-coastal-onsen-hotels-guide): 夕日が見える海辺の絶景温泉宿おすすめ10選（全国）
 - [【2026年最新】登録有形文化財に泊まるおすすめ名旅館10選！数寄屋造り徹底比較](https://croud-travel.pages.dev/posts/tangible-cultural-property-heritage-ryokan-hotels-guide): 有形文化財・数寄屋造り名旅館おすすめ10選（全国）
+- [【2026年最新】お茶・茶道体験が人気のおすすめ温泉宿10選！日本茶リゾート徹底比較](https://croud-travel.pages.dev/posts/tea-ceremony-experience-japanese-tea-resort-hotels-guide): お茶・茶道体験ティーリゾートおすすめ10選（全国）
 - [【2026年最新】一度は泊まりたい宿坊・寺社体験おすすめ宿10選！精進料理＆朝のお勤め](https://croud-travel.pages.dev/posts/temple-shukubo-zen-meditation-shojin-hotels-guide): 宿坊・寺社仏閣体験宿おすすめ10選（全国）
 - [【2026年最新】茅葺き屋根の古民家温泉宿おすすめ10選！日本の原風景徹底比較](https://croud-travel.pages.dev/posts/thatched-roof-heritage-kominka-ryokan-hotels-guide): 茅葺き屋根・日本の原風景古民家宿おすすめ10選（全国）
 - [【2026年最新】日本三大名湯おすすめ温泉宿10選！草津・有馬・下呂の名旅館徹底比較](https://croud-travel.pages.dev/posts/three-famous-onsen-kusatsu-arima-gero-hotels-guide): 日本三大名湯（草津・有馬・下呂）名宿おすすめ10選（全国）
@@ -105,6 +108,3 @@
 - [【2026年最新】愛犬と泊まれるおすすめ高級温泉宿・ホテル10選！ドッグラン＆部屋食・プライベートドッグプール付き徹底比較](https://croud-travel.pages.dev/posts/pet-friendly-dog-run-luxury-resort-hotels-guide): 愛犬同伴・ペットリゾートおすすめ10選（全国）
 - [【2026年最新】川床・渓流露天風呂が自慢の温泉宿10選！せせらぎと滝見の絶景名湯](https://croud-travel.pages.dev/posts/river-stream-valley-waterfall-onsen-hotels-guide): 渓流露天風呂・川床温泉宿おすすめ10選（全国）
 - [【2026年最新】サウナ旅・ととのいにおすすめの極上サウナ宿10選！サウナシュラン殿堂入り＆薪サウナ・富士山絶景外気浴徹底比較](https://croud-travel.pages.dev/posts/sauna-totonoi-mizuburo-best-hotels-guide): サウナ旅・ととのいおすすめ宿10選（全国）
-- [【2026年最新】本物の秘湯・源泉かけ流しおすすめ宿10選！日本秘湯を守る会＆足元湧出・混浴露天](https://croud-travel.pages.dev/posts/secret-hotspring-pure-nature-mixed-bath-hotels-guide): 秘湯・源泉かけ流し温泉宿おすすめ10選（全国）
-- [【2026年最新】シニア・三世代旅行におすすめの温泉宿10選！バリアフリー＆部屋食・名門旅館](https://croud-travel.pages.dev/posts/senior-barrier-free-room-dining-onsen-hotels-guide): シニア・バリアフリー温泉旅館おすすめ10選（全国）
-- [【2026年最新】新幹線・主要駅直結のおすすめ高級ホテル10選！雨に濡れない車なし観光](https://croud-travel.pages.dev/posts/shinkansen-station-direct-luxury-hotels-guide): 駅直結・新幹線駅前ホテルおすすめ10選（全国）
