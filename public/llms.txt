@@ -61,11 +61,14 @@
 - [【2026年最新】紅葉が見える絶景露天風呂おすすめ温泉宿10選！秋の味覚会席徹底比較](https://croud-travel.pages.dev/posts/autumn-foliage-leaves-open-air-bath-hotels-guide): 紅葉露天風呂・秋の味覚温泉宿おすすめ10選（全国）
 - [【2026年最新】朝食バイキングが美味しいおすすめホテル10選！海鮮丼＆いくら盛り放題徹底比較](https://croud-travel.pages.dev/posts/best-breakfast-buffet-seafood-ikura-hotels-guide): 日本一の朝食バイキングホテルおすすめ10選（全国）
 - [【2026年最新】天然炭酸泉が自慢のおすすめ温泉宿10選！しゅわしゅわ泡風呂徹底比較](https://croud-travel.pages.dev/posts/carbonated-spring-effervescent-bubble-onsen-hotels-guide): 天然炭酸泉・しゅわしゅわ泡風呂温泉宿おすすめ10選（全国）
+- [【2026年最新】クラフトビールが飲めるおすすめ温泉宿10選！醸造所ホテル徹底比較](https://croud-travel.pages.dev/posts/craft-beer-distillery-onsen-resort-hotels-guide): クラフトビール・ブルワリー温泉宿おすすめ10選（全国）
 - [【2026年最新】花火が見える部屋・宿おすすめホテル10選！特等席徹底比較](https://croud-travel.pages.dev/posts/fireworks-view-room-lake-bay-hotels-guide): 花火が見える部屋・絶景ホテルおすすめ10選（全国）
 - [【2026年最新】足湯カフェ＆足湯テラス付きおすすめ温泉宿10選！絶景徹底比較](https://croud-travel.pages.dev/posts/footbath-terrace-cafe-scenic-onsen-hotels-guide): 足湯カフェ・足湯テラス温泉宿おすすめ10選（全国）
 - [【2026年最新】森林浴・大自然に癒されるおすすめネイチャーリゾート10選！徹底比較](https://croud-travel.pages.dev/posts/forest-bathing-nature-eco-resort-hotels-guide): 森林浴・ネイチャーリゾートホテルおすすめ10選（全国）
 - [【2026年最新】料理が美味しい美食オーベルジュおすすめ10選！極上フレンチ徹底比較](https://croud-travel.pages.dev/posts/gourmet-french-wine-auberge-retreat-hotels-guide): 美食オーベルジュ・フレンチリゾートおすすめ10選（全国）
 - [【2026年最新】温泉プール付きおすすめホテル10選！年中泳げる温水スパ徹底比較](https://croud-travel.pages.dev/posts/heated-infinity-onsen-pool-spa-resort-hotels-guide): 温泉プール・温水スパリゾートホテルおすすめ10選（全国）
+- [【2026年最新】足湯テラス・足湯バーが人気のおすすめホテル10選！絶景徹底比較](https://croud-travel.pages.dev/posts/infinity-footbath-terrace-cafe-bar-hotels-guide): 足湯テラス・足湯バー付き絶景ホテルおすすめ10選（全国）
+- [【2026年最新】地獄蒸し・温泉蒸し料理が美味しいおすすめ宿10選！徹底比較](https://croud-travel.pages.dev/posts/jigokumushi-steam-onsen-gourmet-hotels-guide): 地獄蒸し・温泉せいろ蒸し料理名宿おすすめ10選（全国）
 - [【2026年最新】全室離れのおすすめ高級温泉宿10選！客室露天風呂付き隠れ家徹底比較](https://croud-travel.pages.dev/posts/luxury-detached-private-villa-retreat-hotels-guide): 全室離れ・大人の隠れ家温泉宿おすすめ10選（全国）
 - [【2026年最新】グランピング＆サウナ付きおすすめヴィラ10選！BBQリゾート徹底比較](https://croud-travel.pages.dev/posts/luxury-glamping-sauna-bbq-villa-hotels-guide): グランピング・サウナヴィラおすすめ10選（全国）
 - [【2026年最新】高原の避暑地おすすめ高級リゾートホテル10選！マウンテンリゾート徹底比較](https://croud-travel.pages.dev/posts/luxury-highland-mountain-summer-resort-hotels-guide): 高原避暑地・マウンテンリゾートホテルおすすめ10選（全国）
@@ -105,6 +108,3 @@
 - [【2026年最新】古民家一棟貸し＆分散型ホテルおすすめ10選！歴史町家ステイ徹底比較](https://croud-travel.pages.dev/posts/kominka-machiya-nipponia-heritage-hotels-guide): 古民家一棟貸し・町家ホテルおすすめ10選（全国）
 - [【2026年最新】記念日・プロポーズにおすすめの最高峰高級宿10選！客室露天風呂＆インフィニティプール付きラグジュアリーリゾート徹底比較](https://croud-travel.pages.dev/posts/luxury-anniversary-infinity-pool-hotels-guide): 記念日・高級リゾートおすすめ10選（全国）
 - [【2026年最新】絶景グランピング＆サウナ付きヴィラおすすめ10選！富士山・海・星空の非日常体験](https://croud-travel.pages.dev/posts/luxury-glamping-private-sauna-villa-hotels-guide): グランピング＆サウナヴィラおすすめ10選（全国）
-- [【2026年最新】富士山が見える絶景温泉宿おすすめ10選！河口湖畔＆客室露天・逆さ富士](https://croud-travel.pages.dev/posts/mt-fuji-view-lake-kawaguchi-onsen-hotels-guide): 富士山ビュー・河口湖温泉宿おすすめ10選（全国）
-- [【2026年最新】絶景インフィニティ温泉おすすめ10選！海・湖・夕日と一体化する奇跡の露天風呂](https://croud-travel.pages.dev/posts/ocean-view-infinity-onsen-open-air-bath-hotels-guide): 絶景インフィニティ温泉おすすめ10選（全国）
-- [【2026年最新】宮古島・石垣島・奄美大島のおすすめ高級リゾート10選！極上ビーチ徹底比較](https://croud-travel.pages.dev/posts/okinawa-isolated-island-blue-beach-resort-hotels-guide): 離島ビーチリゾートおすすめ10選（全国）
