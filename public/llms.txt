@@ -58,6 +58,9 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【2026年最新】紅葉が見える絶景露天風呂おすすめ温泉宿10選！秋の味覚会席徹底比較](https://croud-travel.pages.dev/posts/autumn-foliage-leaves-open-air-bath-hotels-guide): 紅葉露天風呂・秋の味覚温泉宿おすすめ10選（全国）
+- [【2026年最新】新オープンの高級ラグジュアリーホテルおすすめ10選！最新注目宿徹底比較](https://croud-travel.pages.dev/posts/new-opening-luxury-suite-trendy-hotels-guide): 最新オープン・高級ラグジュアリーホテルおすすめ10選（全国）
+- [【2026年最新】雲海が見える絶景ホテル・マウンテンリゾート10選！天空テラス徹底比較](https://croud-travel.pages.dev/posts/sea-of-clouds-mountain-panoramic-resort-hotels-guide): 雲海パノラマ・天空リゾートおすすめ10選（全国）
 - [【2026年最新】日本三大美肌の湯おすすめ温泉宿10選！とろとろ化粧水のような美容名湯](https://croud-travel.pages.dev/posts/beauty-skin-smooth-hotspring-onsen-hotels-guide): 美肌の湯・とろとろ美容温泉宿おすすめ10選（全国）
 - [【2026年最新】子連れ・三世代旅行におすすめの温泉宿・ホテル10選！ウェルカムベビーのお宿＆室内温水プール・豪華ビュッフェ徹底比較](https://croud-travel.pages.dev/posts/family-kids-indoor-pool-buffet-hotels-guide): 子連れ・ファミリーおすすめホテル10選（全国）
 - [【2026年最新】女子旅・ご褒美ステイにおすすめのホテル10選！無料ラウンジサービス＆ReFa・ビューバス付き徹底比較](https://croud-travel.pages.dev/posts/girls-trip-afternoon-tea-cosmetics-hotels-guide): 女子旅・ご褒美ホテルおすすめ10選（全国）
@@ -105,6 +108,3 @@
 - [【2026年最新】太宰府・二日市温泉・筑後おすすめ宿10選！歴史名湯と古民家ステイ](https://croud-travel.pages.dev/posts/dazaifu-futsukaichi-chikugo-hotels-guide): 太宰府・二日市・筑後おすすめ宿10選（福岡県）
 - [【2026年最新】道後温泉・松山おすすめ高級旅館10選！本館徒歩圏＆客室露天風呂ガイド](https://croud-travel.pages.dev/posts/dogo-onsen-matsuyama-hotels-guide): 道後温泉・松山おすすめ宿10選（愛媛県）
 - [【2026年最新】越後湯沢・南魚沼おすすめホテル・旅館10選！新幹線70分のスキー＆里山温泉](https://croud-travel.pages.dev/posts/echigo-yuzawa-uonuma-hotels-guide): 越後湯沢・南魚沼おすすめホテル・旅館10選（新潟県）
-- [【2026年最新】愛媛おすすめホテル・名湯温泉旅館10選！道後・しまなみ今治・大洲宇和島の距離感＆後悔しない宿選び徹底ガイド](https://croud-travel.pages.dev/posts/ehime-hotels-selection-guide): 愛媛おすすめホテル・名湯温泉旅館10選（愛媛県）
-- [【2026年最新】富士山・御殿場・静岡市・浜名湖おすすめ宿10選！富士山絶景露天＆うなぎグルメ](https://croud-travel.pages.dev/posts/fuji-gotemba-shizuoka-hamanako-hotels-guide): 富士山・御殿場・浜名湖おすすめ宿10選（静岡県）
-- [【2026年最新】河口湖・富士五湖おすすめ高級宿10選！逆さ富士絶景露天風呂＆記念日の宿](https://croud-travel.pages.dev/posts/fujigoko-kawaguchiko-yamanakako-hotels-guide): 河口湖・富士五湖おすすめ宿10選（山梨県）
