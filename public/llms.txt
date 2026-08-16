@@ -69,7 +69,10 @@
 - [【2026年最新】サウナ旅・ととのいにおすすめの極上サウナ宿10選！サウナシュラン殿堂入り＆薪サウナ・富士山絶景外気浴徹底比較](https://croud-travel.pages.dev/posts/sauna-totonoi-mizuburo-best-hotels-guide): サウナ旅・ととのいおすすめ宿10選（全国）
 - [【2026年最新】本物の秘湯・源泉かけ流しおすすめ宿10選！日本秘湯を守る会＆足元湧出・混浴露天](https://croud-travel.pages.dev/posts/secret-hotspring-pure-nature-mixed-bath-hotels-guide): 秘湯・源泉かけ流し温泉宿おすすめ10選（全国）
 - [【2026年最新】シニア・三世代旅行におすすめの温泉宿10選！バリアフリー＆部屋食・名門旅館](https://croud-travel.pages.dev/posts/senior-barrier-free-room-dining-onsen-hotels-guide): シニア・バリアフリー温泉旅館おすすめ10選（全国）
+- [【2026年最新】新幹線・主要駅直結のおすすめ高級ホテル10選！雨に濡れない車なし観光](https://croud-travel.pages.dev/posts/shinkansen-station-direct-luxury-hotels-guide): 駅直結・新幹線駅前ホテルおすすめ10選（全国）
+- [【2026年最新】絶景雪見露天風呂が自慢の温泉宿10選！白銀リゾート＆スキー直結ホテル](https://croud-travel.pages.dev/posts/snow-viewing-open-air-bath-ski-resort-hotels-guide): 絶景雪見露天風呂・雪宿おすすめ10選（全国）
 - [【2026年最新】一人旅・おこもりワーケーションにおすすめの極上宿10選！オールインクルーシブ＆絶景サウナ・静寂の湯治リトリート徹底比較](https://croud-travel.pages.dev/posts/solo-travel-all-inclusive-sauna-retreat-hotels-guide): 一人旅・リトリートおすすめ宿10選（全国）
+- [【2026年最新】カニ料理が美味しいおすすめ温泉宿10選！タグ付き越前がに＆間人ガニ徹底比較](https://croud-travel.pages.dev/posts/winter-crab-gourmet-echizen-taiza-hotels-guide): カニ料理・越前がに温泉宿おすすめ10選（全国）
 - [【2026年最新】愛知おすすめホテル・温泉旅館10選！名古屋・知多・蒲郡・犬山の距離感＆後悔しない宿選び徹底ガイド](https://croud-travel.pages.dev/posts/aichi-hotels-selection-guide): 愛知おすすめホテル・温泉旅館10選（愛知県）
 - [【2026年最新】会津若松・東山・芦ノ牧温泉おすすめ旅館10選！鶴ヶ城＆渓谷絶景露天風呂](https://croud-travel.pages.dev/posts/aizu-wakamatsu-higashiyama-ashinomaki-hotels-guide): 会津若松・東山・芦ノ牧おすすめ宿10選（福島県）
 - [【2026年最新】秋田市街おすすめ宿10選！秋田竿燈＆比内地鶏きりたんぽ・稲庭うどん](https://croud-travel.pages.dev/posts/akita-city-kanto-kiritanpo-hotels-guide): 秋田市街おすすめ宿10選（秋田県）
@@ -105,6 +108,3 @@
 - [【2026年最新】福島おすすめホテル・名湯温泉旅館10選！会津・裏磐梯・ハワイアンズ・高湯の距離感＆後悔しない宿選び徹底ガイド](https://croud-travel.pages.dev/posts/fukushima-hotels-selection-guide): 福島おすすめホテル・名湯温泉旅館10選（福島県）
 - [【2026年最新】富良野・美瑛・旭川おすすめホテル10選！パッチワークの丘と旭山動物園](https://croud-travel.pages.dev/posts/furano-biei-asahikawa-hotels-guide): 富良野・美瑛・旭川おすすめホテル10選（北海道）
 - [【2026年最新】蒲郡・三谷・西浦温泉おすすめ宿10選！三河湾パノラマ＆竹島クラシック](https://croud-travel.pages.dev/posts/gamagori-miya-nishiura-hotels-guide): 蒲郡・三谷・西浦温泉おすすめ宿10選（愛知県）
-- [【2026年最新】下呂温泉おすすめ高級旅館10選！日本三名泉・美肌の湯＆飛騨牛会席](https://croud-travel.pages.dev/posts/gero-onsen-hotspring-hotels-guide): 下呂温泉おすすめ宿10選（岐阜県）
-- [【2026年最新】岐阜市・長良川温泉・大垣おすすめ宿10選！岐阜城・鵜飼＆川原町散策](https://croud-travel.pages.dev/posts/gifu-city-nagaragawa-oogaki-hotels-guide): 岐阜市・長良川温泉おすすめ宿10選（岐阜県）
-- [【2026年最新】岐阜おすすめ温泉旅館・ホテル10選！下呂温泉・飛騨高山・白川郷・長良川の距離感＆後悔しない宿選び徹底ガイド](https://croud-travel.pages.dev/posts/gifu-hotels-selection-guide): 岐阜おすすめ温泉旅館・ホテル10選（岐阜県）
