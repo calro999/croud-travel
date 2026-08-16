@@ -59,8 +59,11 @@
 
 ## 最新厳選宿・観光ルポ記事
 - [【2026年最新】紅葉が見える絶景露天風呂おすすめ温泉宿10選！秋の味覚会席徹底比較](https://croud-travel.pages.dev/posts/autumn-foliage-leaves-open-air-bath-hotels-guide): 紅葉露天風呂・秋の味覚温泉宿おすすめ10選（全国）
+- [【2026年最新】インフィニティプール付きおすすめ高級ホテル10選！ナイトプール徹底比較](https://croud-travel.pages.dev/posts/luxury-infinity-pool-night-pool-hotels-guide): インフィニティプール・ナイトプールホテルおすすめ10選（全国）
 - [【2026年最新】新オープンの高級ラグジュアリーホテルおすすめ10選！最新注目宿徹底比較](https://croud-travel.pages.dev/posts/new-opening-luxury-suite-trendy-hotels-guide): 最新オープン・高級ラグジュアリーホテルおすすめ10選（全国）
 - [【2026年最新】雲海が見える絶景ホテル・マウンテンリゾート10選！天空テラス徹底比較](https://croud-travel.pages.dev/posts/sea-of-clouds-mountain-panoramic-resort-hotels-guide): 雲海パノラマ・天空リゾートおすすめ10選（全国）
+- [【2026年最新】一人旅におすすめの高級温泉宿10選！客室露天風呂＆お部屋食徹底比較](https://croud-travel.pages.dev/posts/solo-luxury-room-dining-private-onsen-hotels-guide): 一人旅歓迎・客室露天お部屋食高級宿おすすめ10選（全国）
+- [【2026年最新】一度は泊まりたい宿坊・寺社体験おすすめ宿10選！精進料理＆朝のお勤め](https://croud-travel.pages.dev/posts/temple-shukubo-zen-meditation-shojin-hotels-guide): 宿坊・寺社仏閣体験宿おすすめ10選（全国）
 - [【2026年最新】日本三大美肌の湯おすすめ温泉宿10選！とろとろ化粧水のような美容名湯](https://croud-travel.pages.dev/posts/beauty-skin-smooth-hotspring-onsen-hotels-guide): 美肌の湯・とろとろ美容温泉宿おすすめ10選（全国）
 - [【2026年最新】子連れ・三世代旅行におすすめの温泉宿・ホテル10選！ウェルカムベビーのお宿＆室内温水プール・豪華ビュッフェ徹底比較](https://croud-travel.pages.dev/posts/family-kids-indoor-pool-buffet-hotels-guide): 子連れ・ファミリーおすすめホテル10選（全国）
 - [【2026年最新】女子旅・ご褒美ステイにおすすめのホテル10選！無料ラウンジサービス＆ReFa・ビューバス付き徹底比較](https://croud-travel.pages.dev/posts/girls-trip-afternoon-tea-cosmetics-hotels-guide): 女子旅・ご褒美ホテルおすすめ10選（全国）
@@ -105,6 +108,3 @@
 - [【2026年最新】知多半島・日間賀島おすすめ宿10選！伊勢湾夕日絶景＆名物タコ・とらふぐ](https://croud-travel.pages.dev/posts/chita-peninsula-himakajima-hotels-guide): 知多半島・日間賀島おすすめ宿10選（愛知県）
 - [【2026年最新】銚子・成田・九十九里おすすめ宿10選！犬吠埼日本一早い日の出＆成田山門前](https://croud-travel.pages.dev/posts/choshi-kujukuri-narita-hotels-guide): 銚子・成田・九十九里おすすめ宿10選（千葉県）
 - [【2026年最新】大山・伯耆富士おすすめ宿10選！天空の星空フレンチ＆名峰大山ビュー](https://croud-travel.pages.dev/posts/daisen-hokki-fuji-hotels-guide): 大山・伯耆富士おすすめ宿10選（鳥取県）
-- [【2026年最新】太宰府・二日市温泉・筑後おすすめ宿10選！歴史名湯と古民家ステイ](https://croud-travel.pages.dev/posts/dazaifu-futsukaichi-chikugo-hotels-guide): 太宰府・二日市・筑後おすすめ宿10選（福岡県）
-- [【2026年最新】道後温泉・松山おすすめ高級旅館10選！本館徒歩圏＆客室露天風呂ガイド](https://croud-travel.pages.dev/posts/dogo-onsen-matsuyama-hotels-guide): 道後温泉・松山おすすめ宿10選（愛媛県）
-- [【2026年最新】越後湯沢・南魚沼おすすめホテル・旅館10選！新幹線70分のスキー＆里山温泉](https://croud-travel.pages.dev/posts/echigo-yuzawa-uonuma-hotels-guide): 越後湯沢・南魚沼おすすめホテル・旅館10選（新潟県）
