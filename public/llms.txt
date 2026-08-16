@@ -61,11 +61,14 @@
 - [【2026年最新】子連れ・三世代旅行におすすめの温泉宿・ホテル10選！ウェルカムベビーのお宿＆室内温水プール・豪華ビュッフェ徹底比較](https://croud-travel.pages.dev/posts/family-kids-indoor-pool-buffet-hotels-guide): 子連れ・ファミリーおすすめホテル10選（全国）
 - [【2026年最新】女子旅・ご褒美ステイにおすすめのホテル10選！無料ラウンジサービス＆ReFa・ビューバス付き徹底比較](https://croud-travel.pages.dev/posts/girls-trip-afternoon-tea-cosmetics-hotels-guide): 女子旅・ご褒美ホテルおすすめ10選（全国）
 - [【2026年最新】料理が美味しい極上オーベルジュ10選！ミシュラン星付きシェフ＆地産地消フレンチ](https://croud-travel.pages.dev/posts/gourmet-auberge-michelin-french-wine-hotels-guide): 美食オーベルジュ・フレンチおすすめ10選（全国）
+- [【2026年最新】歴史あるクラシックホテルおすすめ10選！国登録有形文化財＆100年の名建築](https://croud-travel.pages.dev/posts/historic-classic-cultural-heritage-hotels-guide): クラシックホテル＆文化財宿おすすめ10選（全国）
 - [【2026年最新】記念日・プロポーズにおすすめの最高峰高級宿10選！客室露天風呂＆インフィニティプール付きラグジュアリーリゾート徹底比較](https://croud-travel.pages.dev/posts/luxury-anniversary-infinity-pool-hotels-guide): 記念日・高級リゾートおすすめ10選（全国）
 - [【2026年最新】絶景グランピング＆サウナ付きヴィラおすすめ10選！富士山・海・星空の非日常体験](https://croud-travel.pages.dev/posts/luxury-glamping-private-sauna-villa-hotels-guide): グランピング＆サウナヴィラおすすめ10選（全国）
+- [【2026年最新】絶景インフィニティ温泉おすすめ10選！海・湖・夕日と一体化する奇跡の露天風呂](https://croud-travel.pages.dev/posts/ocean-view-infinity-onsen-open-air-bath-hotels-guide): 絶景インフィニティ温泉おすすめ10選（全国）
 - [【2026年最新】愛犬と泊まれるおすすめ高級温泉宿・ホテル10選！ドッグラン＆部屋食・プライベートドッグプール付き徹底比較](https://croud-travel.pages.dev/posts/pet-friendly-dog-run-luxury-resort-hotels-guide): 愛犬同伴・ペットリゾートおすすめ10選（全国）
 - [【2026年最新】サウナ旅・ととのいにおすすめの極上サウナ宿10選！サウナシュラン殿堂入り＆薪サウナ・富士山絶景外気浴徹底比較](https://croud-travel.pages.dev/posts/sauna-totonoi-mizuburo-best-hotels-guide): サウナ旅・ととのいおすすめ宿10選（全国）
 - [【2026年最新】本物の秘湯・源泉かけ流しおすすめ宿10選！日本秘湯を守る会＆足元湧出・混浴露天](https://croud-travel.pages.dev/posts/secret-hotspring-pure-nature-mixed-bath-hotels-guide): 秘湯・源泉かけ流し温泉宿おすすめ10選（全国）
+- [【2026年最新】シニア・三世代旅行におすすめの温泉宿10選！バリアフリー＆部屋食・名門旅館](https://croud-travel.pages.dev/posts/senior-barrier-free-room-dining-onsen-hotels-guide): シニア・バリアフリー温泉旅館おすすめ10選（全国）
 - [【2026年最新】一人旅・おこもりワーケーションにおすすめの極上宿10選！オールインクルーシブ＆絶景サウナ・静寂の湯治リトリート徹底比較](https://croud-travel.pages.dev/posts/solo-travel-all-inclusive-sauna-retreat-hotels-guide): 一人旅・リトリートおすすめ宿10選（全国）
 - [【2026年最新】愛知おすすめホテル・温泉旅館10選！名古屋・知多・蒲郡・犬山の距離感＆後悔しない宿選び徹底ガイド](https://croud-travel.pages.dev/posts/aichi-hotels-selection-guide): 愛知おすすめホテル・温泉旅館10選（愛知県）
 - [【2026年最新】会津若松・東山・芦ノ牧温泉おすすめ旅館10選！鶴ヶ城＆渓谷絶景露天風呂](https://croud-travel.pages.dev/posts/aizu-wakamatsu-higashiyama-ashinomaki-hotels-guide): 会津若松・東山・芦ノ牧おすすめ宿10選（福島県）
@@ -105,6 +108,3 @@
 - [【2026年最新】下呂温泉おすすめ高級旅館10選！日本三名泉・美肌の湯＆飛騨牛会席](https://croud-travel.pages.dev/posts/gero-onsen-hotspring-hotels-guide): 下呂温泉おすすめ宿10選（岐阜県）
 - [【2026年最新】岐阜市・長良川温泉・大垣おすすめ宿10選！岐阜城・鵜飼＆川原町散策](https://croud-travel.pages.dev/posts/gifu-city-nagaragawa-oogaki-hotels-guide): 岐阜市・長良川温泉おすすめ宿10選（岐阜県）
 - [【2026年最新】岐阜おすすめ温泉旅館・ホテル10選！下呂温泉・飛騨高山・白川郷・長良川の距離感＆後悔しない宿選び徹底ガイド](https://croud-travel.pages.dev/posts/gifu-hotels-selection-guide): 岐阜おすすめ温泉旅館・ホテル10選（岐阜県）
-- [【2026年最新】銀山温泉おすすめ旅館10選！大正ロマンのガス灯夜景＆予約攻略ガイド](https://croud-travel.pages.dev/posts/ginzan-onsen-obanazawa-hotels-guide): 銀山温泉おすすめ旅館10選（山形県）
-- [【2026年最新】祇園・東山・清水寺おすすめホテル・旅館10選！八坂の塔と路地情緒ガイド](https://croud-travel.pages.dev/posts/gion-higashiyama-kiyomizu-hotels-guide): 祇園・東山おすすめホテル・旅館10選（京都府）
-- [【2026年最新】五島列島・壱岐・対馬おすすめ宿10選！世界遺産潜伏キリシタン＆極上離島リゾート](https://croud-travel.pages.dev/posts/goto-islands-iki-tsushima-hotels-guide): 五島列島・壱岐・対馬おすすめ宿10選（長崎県）
