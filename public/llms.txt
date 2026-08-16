@@ -58,6 +58,9 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【2026年最新】子連れ・三世代旅行におすすめの温泉宿・ホテル10選！ウェルカムベビーのお宿＆室内温水プール・豪華ビュッフェ徹底比較](https://croud-travel.pages.dev/posts/family-kids-indoor-pool-buffet-hotels-guide): 子連れ・ファミリーおすすめホテル10選（全国）
+- [【2026年最新】記念日・プロポーズにおすすめの最高峰高級宿10選！客室露天風呂＆インフィニティプール付きラグジュアリーリゾート徹底比較](https://croud-travel.pages.dev/posts/luxury-anniversary-infinity-pool-hotels-guide): 記念日・高級リゾートおすすめ10選（全国）
+- [【2026年最新】一人旅・おこもりワーケーションにおすすめの極上宿10選！オールインクルーシブ＆絶景サウナ・静寂の湯治リトリート徹底比較](https://croud-travel.pages.dev/posts/solo-travel-all-inclusive-sauna-retreat-hotels-guide): 一人旅・リトリートおすすめ宿10選（全国）
 - [【2026年最新】愛知おすすめホテル・温泉旅館10選！名古屋・知多・蒲郡・犬山の距離感＆後悔しない宿選び徹底ガイド](https://croud-travel.pages.dev/posts/aichi-hotels-selection-guide): 愛知おすすめホテル・温泉旅館10選（愛知県）
 - [【2026年最新】会津若松・東山・芦ノ牧温泉おすすめ旅館10選！鶴ヶ城＆渓谷絶景露天風呂](https://croud-travel.pages.dev/posts/aizu-wakamatsu-higashiyama-ashinomaki-hotels-guide): 会津若松・東山・芦ノ牧おすすめ宿10選（福島県）
 - [【2026年最新】秋田市街おすすめ宿10選！秋田竿燈＆比内地鶏きりたんぽ・稲庭うどん](https://croud-travel.pages.dev/posts/akita-city-kanto-kiritanpo-hotels-guide): 秋田市街おすすめ宿10選（秋田県）
@@ -105,6 +108,3 @@
 - [【2026年最新】萩おすすめ高級旅館10選！世界遺産城下町＆菊ヶ浜オーシャンビュー](https://croud-travel.pages.dev/posts/hagi-castle-town-shokasonjuku-hotels-guide): 萩・城下町おすすめ宿10選（山口県）
 - [【2026年最新】博多駅・中洲・天神おすすめホテル10選！駅直結＆屋台街グルメガイド](https://croud-travel.pages.dev/posts/hakata-nakasu-tenjin-hotels-guide): 博多駅・中洲・天神おすすめホテル10選（福岡県）
 - [【2026年最新】函館・湯の川温泉おすすめホテル・旅館10選！日本一の朝食バイキングと夜景露天](https://croud-travel.pages.dev/posts/hakodate-yunokawa-hotels-guide): 函館・湯の川温泉おすすめホテル・旅館10選（北海道）
-- [【2026年最新】箱根おすすめ温泉旅館・ホテル10選！強羅・湯本・芦ノ湖の選び方ガイド](https://croud-travel.pages.dev/posts/hakone-gora-ashinoko-hotels-guide): 箱根おすすめ温泉旅館10選（神奈川県）
-- [【2026年最新】白馬・諏訪湖・八ヶ岳おすすめ宿10選！北アルプスアクティビティ＆湖畔温泉](https://croud-travel.pages.dev/posts/hakuba-suwa-yatsugatake-hotels-guide): 白馬・諏訪湖・八ヶ岳おすすめ宿10選（長野県）
-- [【2026年最新】白山・小松おすすめ宿・ホテル10選！小松空港アクセス＆大自然の秘湯ガイド](https://croud-travel.pages.dev/posts/hakusan-komatsu-hotels-selection-guide): 白山・小松おすすめ宿・ホテル10選（石川県）
