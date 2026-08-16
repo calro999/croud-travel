@@ -59,11 +59,14 @@
 
 ## 最新厳選宿・観光ルポ記事
 - [【2026年最新】紅葉が見える絶景露天風呂おすすめ温泉宿10選！秋の味覚会席徹底比較](https://croud-travel.pages.dev/posts/autumn-foliage-leaves-open-air-bath-hotels-guide): 紅葉露天風呂・秋の味覚温泉宿おすすめ10選（全国）
+- [【2026年最新】朝食バイキングが美味しいおすすめホテル10選！海鮮丼＆いくら盛り放題徹底比較](https://croud-travel.pages.dev/posts/best-breakfast-buffet-seafood-ikura-hotels-guide): 日本一の朝食バイキングホテルおすすめ10選（全国）
 - [【2026年最新】インフィニティプール付きおすすめ高級ホテル10選！ナイトプール徹底比較](https://croud-travel.pages.dev/posts/luxury-infinity-pool-night-pool-hotels-guide): インフィニティプール・ナイトプールホテルおすすめ10選（全国）
 - [【2026年最新】絶景夜景＆クラブラウンジが自慢の高級ホテル10選！カクテルタイム徹底比較](https://croud-travel.pages.dev/posts/luxury-night-view-club-lounge-hotels-guide): 絶景夜景・クラブラウンジホテルおすすめ10選（全国）
+- [【2026年最新】富士山が見える絶景ホテル・湖畔宿おすすめ10選！河口湖＆芦ノ湖徹底比較](https://croud-travel.pages.dev/posts/mt-fuji-view-lake-side-luxury-resort-hotels-guide): 富士山ビュー・湖畔絶景ホテルおすすめ10選（全国）
 - [【2026年最新】新オープンの高級ラグジュアリーホテルおすすめ10選！最新注目宿徹底比較](https://croud-travel.pages.dev/posts/new-opening-luxury-suite-trendy-hotels-guide): 最新オープン・高級ラグジュアリーホテルおすすめ10選（全国）
 - [【2026年最新】日本酒・地酒ペアリングが美味しいおすすめ温泉宿10選！酒の宿徹底比較](https://croud-travel.pages.dev/posts/sake-pairing-local-brewery-onsen-hotels-guide): 日本酒・地酒ペアリング温泉宿おすすめ10選（全国）
 - [【2026年最新】雲海が見える絶景ホテル・マウンテンリゾート10選！天空テラス徹底比較](https://croud-travel.pages.dev/posts/sea-of-clouds-mountain-panoramic-resort-hotels-guide): 雲海パノラマ・天空リゾートおすすめ10選（全国）
+- [【2026年最新】新幹線・駅直結おすすめ高級ホテル10選！雨に濡れない極上宿徹底比較](https://croud-travel.pages.dev/posts/shinkansen-terminal-station-direct-luxury-hotels-guide): 新幹線・ターミナル駅直結高級ホテルおすすめ10選（全国）
 - [【2026年最新】一人旅におすすめの高級温泉宿10選！客室露天風呂＆お部屋食徹底比較](https://croud-travel.pages.dev/posts/solo-luxury-room-dining-private-onsen-hotels-guide): 一人旅歓迎・客室露天お部屋食高級宿おすすめ10選（全国）
 - [【2026年最新】一度は泊まりたい宿坊・寺社体験おすすめ宿10選！精進料理＆朝のお勤め](https://croud-travel.pages.dev/posts/temple-shukubo-zen-meditation-shojin-hotels-guide): 宿坊・寺社仏閣体験宿おすすめ10選（全国）
 - [【2026年最新】日本三大名湯おすすめ温泉宿10選！草津・有馬・下呂の名旅館徹底比較](https://croud-travel.pages.dev/posts/three-famous-onsen-kusatsu-arima-gero-hotels-guide): 日本三大名湯（草津・有馬・下呂）名宿おすすめ10選（全国）
@@ -105,6 +108,3 @@
 - [【2026年最新】熱海・伊豆山おすすめホテル10選！海上花火の特等席＆海一望露天風呂](https://croud-travel.pages.dev/posts/atami-izusan-ajiro-hotels-guide): 熱海・伊豆山おすすめホテル10選（静岡県）
 - [【2026年最新】淡路島・洲本温泉おすすめ宿10選！海一望インフィニティ露天＆淡路牛](https://croud-travel.pages.dev/posts/awajishima-sumoto-naruto-hotels-guide): 淡路島・洲本温泉おすすめ宿10選（兵庫県）
 - [【2026年最新】あわら温泉・三国おすすめ旅館・ホテル10選！名湯と越前ガニを味わう後悔回避ガイド](https://croud-travel.pages.dev/posts/awara-onsen-mikuni-hotels-guide): あわら温泉・三国おすすめ温泉旅館10選（福井県）
-- [【2026年最新】別府八湯おすすめホテル・旅館10選！地獄めぐり＆棚湯絶景スパ](https://croud-travel.pages.dev/posts/beppu-onsen-kannawa-kankaiji-hotels-guide): 別府温泉おすすめホテル10選（大分県）
-- [【2026年最新】千葉おすすめホテル・温泉リゾート10選！舞浜TDR・南房総・銚子・木更津の距離感＆後悔しない宿選び徹底ガイド](https://croud-travel.pages.dev/posts/chiba-hotels-selection-guide): 千葉おすすめホテル・温泉リゾート10選（千葉県）
-- [【2026年最新】秩父・長瀞おすすめ高級宿10選！全室露天はなのや＆長生館岩畳ビュー](https://croud-travel.pages.dev/posts/chichibu-nagatoro-mitsumine-hotels-guide): 秩父・長瀞おすすめ宿10選（埼玉県）
