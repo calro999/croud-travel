@@ -60,11 +60,11 @@ function main() {
   
   const staticPages = [
     { url: `${BASE_URL}/`, priority: '1.0', changefreq: 'daily' },
-    { url: `${BASE_URL}/kanazawa`, priority: '1.0', changefreq: 'daily' },
-    { url: `${BASE_URL}/noto`, priority: '1.0', changefreq: 'daily' },
-    { url: `${BASE_URL}/prefectures`, priority: '0.9', changefreq: 'daily' },
-    { url: `${BASE_URL}/campaigns`, priority: '0.9', changefreq: 'daily' },
-    { url: `${BASE_URL}/sitemap`, priority: '0.8', changefreq: 'weekly' }
+    { url: `${BASE_URL}/kanazawa/`, priority: '1.0', changefreq: 'daily' },
+    { url: `${BASE_URL}/noto/`, priority: '1.0', changefreq: 'daily' },
+    { url: `${BASE_URL}/prefectures/`, priority: '0.9', changefreq: 'daily' },
+    { url: `${BASE_URL}/campaigns/`, priority: '0.9', changefreq: 'daily' },
+    { url: `${BASE_URL}/sitemap/`, priority: '0.8', changefreq: 'weekly' }
   ];
 
   // 1-1. 全URLを含む完全統合 sitemap.xml
@@ -74,10 +74,10 @@ function main() {
   });
 
   PREFECTURE_SLUGS.forEach(slug => {
-    xmlAll += `  <url>\n    <loc>${BASE_URL}/prefectures/${slug}</loc>\n    <lastmod>${todayStr}</lastmod>\n    <changefreq>daily</changefreq>\n    <priority>0.9</priority>\n  </url>\n`;
-    xmlAll += `  <url>\n    <loc>${BASE_URL}/prefectures/${slug}/cafes</loc>\n    <lastmod>${todayStr}</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.8</priority>\n  </url>\n`;
-    xmlAll += `  <url>\n    <loc>${BASE_URL}/prefectures/${slug}/souvenirs</loc>\n    <lastmod>${todayStr}</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.8</priority>\n  </url>\n`;
-    xmlAll += `  <url>\n    <loc>${BASE_URL}/prefectures/${slug}/sakes</loc>\n    <lastmod>${todayStr}</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.8</priority>\n  </url>\n`;
+    xmlAll += `  <url>\n    <loc>${BASE_URL}/prefectures/${slug}/</loc>\n    <lastmod>${todayStr}</lastmod>\n    <changefreq>daily</changefreq>\n    <priority>0.9</priority>\n  </url>\n`;
+    xmlAll += `  <url>\n    <loc>${BASE_URL}/prefectures/${slug}/cafes/</loc>\n    <lastmod>${todayStr}</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.8</priority>\n  </url>\n`;
+    xmlAll += `  <url>\n    <loc>${BASE_URL}/prefectures/${slug}/souvenirs/</loc>\n    <lastmod>${todayStr}</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.8</priority>\n  </url>\n`;
+    xmlAll += `  <url>\n    <loc>${BASE_URL}/prefectures/${slug}/sakes/</loc>\n    <lastmod>${todayStr}</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.8</priority>\n  </url>\n`;
   });
 
   // 市町村サブハブURLの自動追加
@@ -91,7 +91,7 @@ function main() {
   ];
 
   citySubHubs.forEach(cPath => {
-    xmlAll += `  <url>\n    <loc>${BASE_URL}/prefectures/${cPath}</loc>\n    <lastmod>${todayStr}</lastmod>\n    <changefreq>daily</changefreq>\n    <priority>0.85</priority>\n  </url>\n`;
+    xmlAll += `  <url>\n    <loc>${BASE_URL}/prefectures/${cPath}/</loc>\n    <lastmod>${todayStr}</lastmod>\n    <changefreq>daily</changefreq>\n    <priority>0.85</priority>\n  </url>\n`;
   });
 
   // フェーズ2.5 観光名所解説URLの自動追加
@@ -103,12 +103,12 @@ function main() {
   ];
 
   spotSlugs.forEach(sSlug => {
-    xmlAll += `  <url>\n    <loc>${BASE_URL}/spots/${sSlug}</loc>\n    <lastmod>${todayStr}</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.85</priority>\n  </url>\n`;
+    xmlAll += `  <url>\n    <loc>${BASE_URL}/spots/${sSlug}/</loc>\n    <lastmod>${todayStr}</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.85</priority>\n  </url>\n`;
   });
 
   posts.forEach(post => {
     const postDate = post.date ? new Date(post.date).toISOString().split('T')[0] : todayStr;
-    xmlAll += `  <url>\n    <loc>${BASE_URL}/posts/${post.id}</loc>\n    <lastmod>${postDate}</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.8</priority>\n  </url>\n`;
+    xmlAll += `  <url>\n    <loc>${BASE_URL}/posts/${post.id}/</loc>\n    <lastmod>${postDate}</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.8</priority>\n  </url>\n`;
   });
   xmlAll += `</urlset>\n`;
   fs.writeFileSync(SITEMAP_FILE, xmlAll, 'utf8');
@@ -117,12 +117,37 @@ function main() {
   let xmlPosts = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n`;
   posts.forEach(post => {
     const postDate = post.date ? new Date(post.date).toISOString().split('T')[0] : todayStr;
-    xmlPosts += `  <url>\n    <loc>${BASE_URL}/posts/${post.id}</loc>\n    <lastmod>${postDate}</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.8</priority>\n  </url>\n`;
+    xmlPosts += `  <url>\n    <loc>${BASE_URL}/posts/${post.id}/</loc>\n    <lastmod>${postDate}</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.8</priority>\n  </url>\n`;
   });
   xmlPosts += `</urlset>\n`;
   fs.writeFileSync(path.join(PUBLIC_DIR, 'sitemap-posts.xml'), xmlPosts, 'utf8');
 
-  console.log(`Generated complete physical sitemap.xml with ${staticPages.length + (PREFECTURE_SLUGS.length * 4) + posts.length} URLs`);
+  // 1-3. sitemap-main.xml (静的メインページ)
+  let xmlMain = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n`;
+  staticPages.forEach(p => {
+    xmlMain += `  <url>\n    <loc>${p.url}</loc>\n    <lastmod>${todayStr}</lastmod>\n    <changefreq>${p.changefreq}</changefreq>\n    <priority>${p.priority}</priority>\n  </url>\n`;
+  });
+  xmlMain += `</urlset>\n`;
+  fs.writeFileSync(path.join(PUBLIC_DIR, 'sitemap-main.xml'), xmlMain, 'utf8');
+
+  // 1-4. sitemap-prefectures.xml (都道府県・市区町村・スポット)
+  let xmlPref = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n`;
+  PREFECTURE_SLUGS.forEach(slug => {
+    xmlPref += `  <url>\n    <loc>${BASE_URL}/prefectures/${slug}/</loc>\n    <lastmod>${todayStr}</lastmod>\n    <changefreq>daily</changefreq>\n    <priority>0.9</priority>\n  </url>\n`;
+    xmlPref += `  <url>\n    <loc>${BASE_URL}/prefectures/${slug}/cafes/</loc>\n    <lastmod>${todayStr}</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.8</priority>\n  </url>\n`;
+    xmlPref += `  <url>\n    <loc>${BASE_URL}/prefectures/${slug}/souvenirs/</loc>\n    <lastmod>${todayStr}</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.8</priority>\n  </url>\n`;
+    xmlPref += `  <url>\n    <loc>${BASE_URL}/prefectures/${slug}/sakes/</loc>\n    <lastmod>${todayStr}</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.8</priority>\n  </url>\n`;
+  });
+  citySubHubs.forEach(cPath => {
+    xmlPref += `  <url>\n    <loc>${BASE_URL}/prefectures/${cPath}/</loc>\n    <lastmod>${todayStr}</lastmod>\n    <changefreq>daily</changefreq>\n    <priority>0.85</priority>\n  </url>\n`;
+  });
+  spotSlugs.forEach(sSlug => {
+    xmlPref += `  <url>\n    <loc>${BASE_URL}/spots/${sSlug}/</loc>\n    <lastmod>${todayStr}</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.85</priority>\n  </url>\n`;
+  });
+  xmlPref += `</urlset>\n`;
+  fs.writeFileSync(path.join(PUBLIC_DIR, 'sitemap-prefectures.xml'), xmlPref, 'utf8');
+
+  console.log(`Generated complete physical sitemap.xml, sitemap-posts.xml, sitemap-main.xml, sitemap-prefectures.xml with ${staticPages.length + (PREFECTURE_SLUGS.length * 4) + citySubHubs.length + spotSlugs.length + posts.length} URLs`);
 
   // --- 2. public/robots.txt 物理ファイルの自動生成 ---
   const robotsTxt = `User-agent: *
