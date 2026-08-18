@@ -1435,6 +1435,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://croud-travel.pages.dev/posts/atami-izu-ocean-pool-hot-spring-hotels-guide/</loc>
+    <lastmod>2026-08-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://croud-travel.pages.dev/posts/beppu-onsen-pool-aquagarden-family-hotels-guide/</loc>
     <lastmod>2026-08-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -1526,6 +1532,12 @@
   </url>
   <url>
     <loc>https://croud-travel.pages.dev/posts/harazuru-chikugogawa-double-beauty-onsen-hotels-guide/</loc>
+    <lastmod>2026-08-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://croud-travel.pages.dev/posts/hikimikyo-mito-onsen-nature-hotels-guide/</loc>
     <lastmod>2026-08-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -1627,6 +1639,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://croud-travel.pages.dev/posts/kouri-island-heart-rock-luxury-villa-hotels-guide/</loc>
+    <lastmod>2026-08-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://croud-travel.pages.dev/posts/kuji-amachan-short-horn-beef-hotels-guide/</loc>
     <lastmod>2026-08-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -1646,6 +1664,18 @@
   </url>
   <url>
     <loc>https://croud-travel.pages.dev/posts/matsue-shinjiko-onsen-sunset-seven-delicacies-hotels-guide.json/</loc>
+    <lastmod>2026-08-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://croud-travel.pages.dev/posts/matsukawa-onsen-hachimantai-milky-sulfur-hotels-guide/</loc>
+    <lastmod>2026-08-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://croud-travel.pages.dev/posts/minobusan-kuonji-shimobe-onsen-hotels-guide/</loc>
     <lastmod>2026-08-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -1681,7 +1711,19 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://croud-travel.pages.dev/posts/munakata-taisha-fukutsu-hikari-no-michi-hotels-guide/</loc>
+    <lastmod>2026-08-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://croud-travel.pages.dev/posts/myoko-akakura-onsen-flowing-spring-hotels-guide/</loc>
+    <lastmod>2026-08-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://croud-travel.pages.dev/posts/myoko-akakura-onsen-resort-hotels-guide/</loc>
     <lastmod>2026-08-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
