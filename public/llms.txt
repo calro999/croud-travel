@@ -73,6 +73,7 @@
 - [【2026】愛媛県といえばコレ！日本最古の道後温泉・宇和島鯛めし・愛媛みかん・銘酒「石鎚」＆道後温泉茶玻瑠・花ゆづき比較](https://croud-travel.pages.dev/posts/ehime-famous-mikan-taimeshi-sake-hotels-guide): 愛媛県 おすすめ名門ホテル・温泉旅館セレクション（愛媛県）
 - [【完全保存版】子連れ・家族旅行で旅館・宿に必要な持ち物リスト！手ぶらOKなファミリー歓迎名宿比較](https://croud-travel.pages.dev/posts/family-ryokan-packing-essential-checklist-guide): 子連れファミリー歓迎 充実設備のおすすめ名宿セレクション（全国）
 - [【2026】無料送迎バス付きで駅・空港から直行！車なしでも行ける人気温泉宿・リゾート比較](https://croud-travel.pages.dev/posts/free-shuttle-bus-access-no-car-onsen-hotels-guide): 無料送迎バス完備 車なしで行ける人気温泉宿セレクション（全国）
+- [【2026年最新】富士山が見えるサウナ付きおすすめホテル宿10選！徹底比較](https://croud-travel.pages.dev/posts/fuji-view-sauna-cold-plunge-hotels-guide): 富士山が見える絶景サウナ宿おすすめ10選（全国）
 - [【2026】福井県といえばコレ！越前ガニ・越前おろしそば・ソースカツ丼・最高峰銘酒「黒龍」＆あわら温泉おすすめ宿比較](https://croud-travel.pages.dev/posts/fukui-famous-echizen-crab-sauce-sake-hotels-guide): 福井県 おすすめ名門ホテル・温泉旅館セレクション（福井県）
 - [【2026】福岡県といえばコレ！博多もつ鍋・明太子・水炊き・銘酒「田中六五」＆博多駅直結都ホテル・糸島リゾート比較](https://croud-travel.pages.dev/posts/fukuoka-famous-tonkotsu-motsunabe-sake-hotels-guide): 福岡県 おすすめ名門ホテル・温泉旅館セレクション（福岡県）
 - [【2026】福島県といえばコレ！喜多方ラーメン・会津馬刺し・銘酒「飛露喜」＆会津東山温泉・裏磐梯おすすめ宿比較](https://croud-travel.pages.dev/posts/fukushima-famous-kitakata-aizu-sake-hotels-guide): 福島県 おすすめ名門ホテル・温泉旅館セレクション（福島県）
@@ -107,4 +108,3 @@
 - [【2026】兵庫県といえばコレ！世界最高峰「神戸牛」・有馬温泉金泉・灘五郷銘酒「福寿」＆有馬・神戸港名宿比較](https://croud-travel.pages.dev/posts/hyogo-famous-kobe-beef-nada-sake-hotels-guide): 兵庫県 おすすめ名門ホテル・温泉旅館セレクション（兵庫県）
 - [【2026】茨城県といえばコレ！水戸納豆・大洗アンコウ鍋・銘酒「来福」＆大洗海岸・袋田の滝おすすめ宿比較](https://croud-travel.pages.dev/posts/ibaraki-famous-natta-angko-sake-hotels-guide): 茨城県 おすすめ名門ホテル・温泉旅館セレクション（茨城県）
 - [【2026】指宿といえばコレ！日本唯一の天然砂むし温泉・薩摩富士開聞岳・黒豚＆指宿おすすめ名宿比較](https://croud-travel.pages.dev/posts/ibusuki-famous-things-gourmet-hotels-guide): 指宿温泉 砂むし風呂＆オーシャンビューおすすめ名宿セレクション（鹿児島県）
-- [【2026】伊香保温泉といえばコレ！365段の石段街・黄金の湯白銀の湯・温泉まんじゅう発祥宿比較](https://croud-travel.pages.dev/posts/ikaho-famous-things-gourmet-hotels-guide): 伊香保温泉 黄金の湯・白銀の湯おすすめ名旅館セレクション（群馬県）
