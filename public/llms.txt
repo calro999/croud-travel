@@ -58,8 +58,11 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【2026年最新】阿波牛・あか牛が美味しいおすすめ温泉宿10選！西日本囲炉裏徹底比較](https://croud-travel.pages.dev/posts/charcoal-hearth-olive-beef-setouchi-hotels-guide): 阿波牛・あか牛・薩摩黒牛囲炉裏炭火会席おすすめ宿10選（全国）
 - [【2026年最新】仙台牛・とちぎ和牛が美味しいおすすめ温泉宿10選！東日本囲炉裏徹底比較](https://croud-travel.pages.dev/posts/charcoal-hearth-sendai-tochigi-wagyu-hotels-guide): 仙台牛・とちぎ和牛・山形牛囲炉裏炭火温泉宿おすすめ10選（全国）
 - [【2026年最新】暖炉・薪ストーブがあるおすすめ高級ホテル宿10選！徹底比較](https://croud-travel.pages.dev/posts/fireplace-woodstove-luxury-resort-hotels-guide): 暖炉・薪ストーブ・バイオエタノール暖炉おすすめ宿10選（全国）
+- [【2026年最新】インフィニティ温泉プールがあるおすすめホテル宿10選！徹底比較](https://croud-travel.pages.dev/posts/heated-infinity-pool-spa-resort-hotels-guide): インフィニティ温泉プール・温水SPAおすすめ宿10選（全国）
+- [【2026年最新】ラジウム・ラドン温泉が自慢のおすすめ宿10選！徹底比較](https://croud-travel.pages.dev/posts/radium-radon-hormesis-metabolism-hotels-guide): ラジウム・ラドン天然ホルミシス温泉宿おすすめ10選（全国）
 - [【2026年最新】弱酸性泉が自慢のおすすめ美肌温泉宿10選！素肌引き締め徹底比較](https://croud-travel.pages.dev/posts/weakly-acidic-gentle-astringent-beauty-hotels-guide): 弱酸性泉・肌引き締め美肌温泉宿おすすめ10選（全国）
 - [【2026】愛知県といえばコレ！名古屋ひつまぶし・味噌カツ・手羽先・銘酒「醸し人九平次」＆名古屋駅直結・知多温泉おすすめ宿比較](https://croud-travel.pages.dev/posts/aichi-famous-hitsumabushi-miso-sake-hotels-guide): 愛知県 おすすめ名門ホテル・温泉旅館セレクション（愛知県）
 - [【2026】空港から無料送迎バス直行！飛行機＋車なしで行ける人気温泉宿＆リゾート比較！千歳・那覇・鹿児島](https://croud-travel.pages.dev/posts/airport-free-shuttle-bus-resorts-guide): 空港送迎・アクセス抜群 人気温泉リゾートセレクション（全国）
@@ -105,6 +108,3 @@
 - [【快眠】幅180cm以上のキングベッド＆ハリウッドツイン完備！添い寝無料・広々ベッドのおすすめ宿比較！京都・東京](https://croud-travel.pages.dev/posts/hotel-king-bed-hollywood-twin-guide): 幅広キングベッド＆ハリウッドツイン 快眠ホテルセレクション（全国）
 - [【解説】レイトチェックアウト（12時アウト）プランで翌朝もゆったり！朝寝坊OKなおすすめ快適宿比較！京都・東京](https://croud-travel.pages.dev/posts/hotel-late-checkout-relax-guide): 12時レイトチェックアウト 快適ステイホテルセレクション（全国）
 - [【安心】深夜24時以降のチェックインOK！仕事後出発・遅い到着でも安心な天然温泉ホテル比較！京都・富士山](https://croud-travel.pages.dev/posts/hotel-late-night-checkin-24h-guide): 24時以降深夜チェックイン対応 天然温泉ホテルセレクション（全国）
-- [【解説】ホテルのチェックイン前・チェックアウト後の荷物預かり無料サービス＆手ぶら観光おすすめ宿比較！京都・博多](https://croud-travel.pages.dev/posts/hotel-luggage-storage-before-checkin-guide): 荷物預かり無料＆駅直結 手ぶら観光ホテルセレクション（全国）
-- [【快適】全館完全禁煙・タバコ臭ゼロ！クリーンで清潔な空気のおすすめホテル・温泉旅館比較！甲府・秩父](https://croud-travel.pages.dev/posts/hotel-non-smoking-clean-room-guide): 全館完全禁煙・空気清浄 クリーンホテルセレクション（全国）
-- [【2026】ホテルのパジャマ・ナイトウェア事情！セパレートパジャマ・浴衣・バスローブ完備のおすすめ快適宿比較](https://croud-travel.pages.dev/posts/hotel-pajamas-nightwear-types-guide): 快眠セパレートパジャマ・作務衣完備 おすすめホテルセレクション（全国）
