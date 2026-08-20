@@ -58,8 +58,11 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【2026年最新】炭酸水素塩泉が自慢のおすすめ美肌温泉宿10選！重曹泉徹底比較](https://croud-travel.pages.dev/posts/bicarbonate-cleansing-smooth-skin-beauty-hotels-guide): 炭酸水素塩泉・重曹クレンジング美肌温泉宿おすすめ10選（全国）
+- [【2026年最新】地鶏炭火焼きが美味しいおすすめ温泉宿10選！囲炉裏徹底比較](https://croud-travel.pages.dev/posts/charcoal-hearth-brand-free-range-chicken-hotels-guide): 薩摩地鶏・阿波尾鶏・奥美濃古地鶏囲炉裏炭火宿おすすめ10選（全国）
 - [【2026年最新】ブランド豚が美味しいおすすめ温泉宿10選！極上炭火徹底比較](https://croud-travel.pages.dev/posts/charcoal-hearth-brand-pork-kagoshima-hotels-guide): かごしま黒豚・上州麦豚・飛騨銘柄豚囲炉裏炭火宿おすすめ10選（全国）
 - [【2026年最新】塩化物泉が自慢のおすすめ美肌温泉宿10選！温まり徹底比較](https://croud-travel.pages.dev/posts/chloride-hot-spring-warming-moisturizing-hotels-guide): 塩化物泉・ポカポカ保温美肌温泉宿おすすめ10選（全国）
+- [【2026年最新】展望ビューバス・ジャグジー付きおすすめ高級ホテル10選！徹底比較](https://croud-travel.pages.dev/posts/luxury-panoramic-view-bath-jacuzzi-hotels-guide): 展望ビューバス・ジャグジー付き高級ホテルおすすめ10選（全国）
 - [【2026年最新】お部屋食が嬉しいおすすめ高級温泉旅館10選！徹底比較](https://croud-travel.pages.dev/posts/private-in-room-dining-luxury-onsen-hotels-guide): お部屋食確約・個室ダイニング高級温泉旅館おすすめ10選（全国）
 - [【2026年最新】阿波牛・あか牛が美味しいおすすめ温泉宿10選！西日本囲炉裏徹底比較](https://croud-travel.pages.dev/posts/charcoal-hearth-olive-beef-setouchi-hotels-guide): 阿波牛・あか牛・薩摩黒牛囲炉裏炭火会席おすすめ宿10選（全国）
 - [【2026年最新】仙台牛・とちぎ和牛が美味しいおすすめ温泉宿10選！東日本囲炉裏徹底比較](https://croud-travel.pages.dev/posts/charcoal-hearth-sendai-tochigi-wagyu-hotels-guide): 仙台牛・とちぎ和牛・山形牛囲炉裏炭火温泉宿おすすめ10選（全国）
@@ -105,6 +108,3 @@
 - [【2026】千葉県といえばコレ！房総伊勢海老・勝浦タンタンメン・銘酒「甲子」＆鴨川館・木更津ホテル三日月比較](https://croud-travel.pages.dev/posts/chiba-famous-boso-seafood-sake-hotels-guide): 千葉県 房総海の幸＆名湯おすすめ名宿セレクション（千葉県）
 - [【2026年最新】塩化物泉が自慢のおすすめ美肌温泉宿10選！温まり徹底比較](https://croud-travel.pages.dev/posts/chloride-spring-salt-pack-warming-hotels-guide): 塩化物泉・天然塩パック温まり温泉宿おすすめ10選（全国）
 - [【2026】道後温泉といえばコレ！日本最古の道後温泉本館・坊っちゃん時計・鯛めし＆道後おすすめ名宿比較](https://croud-travel.pages.dev/posts/dogo-famous-things-gourmet-hotels-guide): 日本最古の名湯 道後温泉おすすめ名宿セレクション（愛媛県）
-- [【2026】越後湯沢といえばコレ！ぽんしゅ館利き酒・南魚沼コシヒカリ・へぎそば＆新幹線駅近名宿比較](https://croud-travel.pages.dev/posts/echigoyuzawa-famous-things-gourmet-hotels-guide): 越後湯沢駅近＆魚沼コシヒカリ地酒名宿セレクション（新潟県）
-- [【2026】愛媛県といえばコレ！日本最古の道後温泉・宇和島鯛めし・愛媛みかん・銘酒「石鎚」＆道後温泉茶玻瑠・花ゆづき比較](https://croud-travel.pages.dev/posts/ehime-famous-mikan-taimeshi-sake-hotels-guide): 愛媛県 おすすめ名門ホテル・温泉旅館セレクション（愛媛県）
-- [【完全保存版】子連れ・家族旅行で旅館・宿に必要な持ち物リスト！手ぶらOKなファミリー歓迎名宿比較](https://croud-travel.pages.dev/posts/family-ryokan-packing-essential-checklist-guide): 子連れファミリー歓迎 充実設備のおすすめ名宿セレクション（全国）
