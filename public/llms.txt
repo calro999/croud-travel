@@ -58,6 +58,9 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【2026年最新】ブランド豚が美味しいおすすめ温泉宿10選！極上炭火徹底比較](https://croud-travel.pages.dev/posts/charcoal-hearth-brand-pork-kagoshima-hotels-guide): かごしま黒豚・上州麦豚・飛騨銘柄豚囲炉裏炭火宿おすすめ10選（全国）
+- [【2026年最新】塩化物泉が自慢のおすすめ美肌温泉宿10選！温まり徹底比較](https://croud-travel.pages.dev/posts/chloride-hot-spring-warming-moisturizing-hotels-guide): 塩化物泉・ポカポカ保温美肌温泉宿おすすめ10選（全国）
+- [【2026年最新】お部屋食が嬉しいおすすめ高級温泉旅館10選！徹底比較](https://croud-travel.pages.dev/posts/private-in-room-dining-luxury-onsen-hotels-guide): お部屋食確約・個室ダイニング高級温泉旅館おすすめ10選（全国）
 - [【2026年最新】阿波牛・あか牛が美味しいおすすめ温泉宿10選！西日本囲炉裏徹底比較](https://croud-travel.pages.dev/posts/charcoal-hearth-olive-beef-setouchi-hotels-guide): 阿波牛・あか牛・薩摩黒牛囲炉裏炭火会席おすすめ宿10選（全国）
 - [【2026年最新】仙台牛・とちぎ和牛が美味しいおすすめ温泉宿10選！東日本囲炉裏徹底比較](https://croud-travel.pages.dev/posts/charcoal-hearth-sendai-tochigi-wagyu-hotels-guide): 仙台牛・とちぎ和牛・山形牛囲炉裏炭火温泉宿おすすめ10選（全国）
 - [【2026年最新】すき焼き・牛鍋が美味しいおすすめ温泉宿10選！極上和牛徹底比較](https://croud-travel.pages.dev/posts/charcoal-hearth-sukiyaki-hotpot-wagyu-hotels-guide): 極上すき焼き・牛鍋・ブランド和牛会席おすすめ宿10選（全国）
@@ -105,6 +108,3 @@
 - [【2026】越後湯沢といえばコレ！ぽんしゅ館利き酒・南魚沼コシヒカリ・へぎそば＆新幹線駅近名宿比較](https://croud-travel.pages.dev/posts/echigoyuzawa-famous-things-gourmet-hotels-guide): 越後湯沢駅近＆魚沼コシヒカリ地酒名宿セレクション（新潟県）
 - [【2026】愛媛県といえばコレ！日本最古の道後温泉・宇和島鯛めし・愛媛みかん・銘酒「石鎚」＆道後温泉茶玻瑠・花ゆづき比較](https://croud-travel.pages.dev/posts/ehime-famous-mikan-taimeshi-sake-hotels-guide): 愛媛県 おすすめ名門ホテル・温泉旅館セレクション（愛媛県）
 - [【完全保存版】子連れ・家族旅行で旅館・宿に必要な持ち物リスト！手ぶらOKなファミリー歓迎名宿比較](https://croud-travel.pages.dev/posts/family-ryokan-packing-essential-checklist-guide): 子連れファミリー歓迎 充実設備のおすすめ名宿セレクション（全国）
-- [【2026】無料送迎バス付きで駅・空港から直行！車なしでも行ける人気温泉宿・リゾート比較](https://croud-travel.pages.dev/posts/free-shuttle-bus-access-no-car-onsen-hotels-guide): 無料送迎バス完備 車なしで行ける人気温泉宿セレクション（全国）
-- [【2026年最新】富士山が見えるサウナ付きおすすめホテル宿10選！徹底比較](https://croud-travel.pages.dev/posts/fuji-view-sauna-cold-plunge-hotels-guide): 富士山が見える絶景サウナ宿おすすめ10選（全国）
-- [【2026】福井県といえばコレ！越前ガニ・越前おろしそば・ソースカツ丼・最高峰銘酒「黒龍」＆あわら温泉おすすめ宿比較](https://croud-travel.pages.dev/posts/fukui-famous-echizen-crab-sauce-sake-hotels-guide): 福井県 おすすめ名門ホテル・温泉旅館セレクション（福井県）
