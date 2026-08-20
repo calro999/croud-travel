@@ -58,12 +58,15 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【2026年最新】pH8.5以上アルカリ性単純温泉のおすすめ宿10選！徹底比較](https://croud-travel.pages.dev/posts/alkaline-simple-beauty-hot-spring-hotels-guide): アルカリ性単純温泉・pH8.5以上美肌宿おすすめ10選（全国）
 - [【2026年最新】炭酸水素塩泉が自慢のおすすめ美肌温泉宿10選！重曹泉徹底比較](https://croud-travel.pages.dev/posts/bicarbonate-cleansing-smooth-skin-beauty-hotels-guide): 炭酸水素塩泉・重曹クレンジング美肌温泉宿おすすめ10選（全国）
+- [【2026年最新】鴨料理・鴨鍋が美味しいおすすめ温泉宿10選！極上囲炉裏徹底比較](https://croud-travel.pages.dev/posts/charcoal-hearth-brand-duck-cuisine-hotels-guide): 京鴨・上州合鴨・日光鴨囲炉裏炭火料理おすすめ宿10選（全国）
 - [【2026年最新】地鶏炭火焼きが美味しいおすすめ温泉宿10選！囲炉裏徹底比較](https://croud-travel.pages.dev/posts/charcoal-hearth-brand-free-range-chicken-hotels-guide): 薩摩地鶏・阿波尾鶏・奥美濃古地鶏囲炉裏炭火宿おすすめ10選（全国）
 - [【2026年最新】ブランド豚が美味しいおすすめ温泉宿10選！極上炭火徹底比較](https://croud-travel.pages.dev/posts/charcoal-hearth-brand-pork-kagoshima-hotels-guide): かごしま黒豚・上州麦豚・飛騨銘柄豚囲炉裏炭火宿おすすめ10選（全国）
 - [【2026年最新】塩化物泉が自慢のおすすめ美肌温泉宿10選！温まり徹底比較](https://croud-travel.pages.dev/posts/chloride-hot-spring-warming-moisturizing-hotels-guide): 塩化物泉・ポカポカ保温美肌温泉宿おすすめ10選（全国）
 - [【2026年最新】展望ビューバス・ジャグジー付きおすすめ高級ホテル10選！徹底比較](https://croud-travel.pages.dev/posts/luxury-panoramic-view-bath-jacuzzi-hotels-guide): 展望ビューバス・ジャグジー付き高級ホテルおすすめ10選（全国）
 - [【2026年最新】お部屋食が嬉しいおすすめ高級温泉旅館10選！徹底比較](https://croud-travel.pages.dev/posts/private-in-room-dining-luxury-onsen-hotels-guide): お部屋食確約・個室ダイニング高級温泉旅館おすすめ10選（全国）
+- [【2026年最新】客室専用サウナ・水風呂付きおすすめホテル宿10選！徹底比較](https://croud-travel.pages.dev/posts/private-sauna-cold-bath-luxury-hotels-guide): 客室専用サウナ・水風呂付き高級ホテル宿おすすめ10選（全国）
 - [【2026年最新】阿波牛・あか牛が美味しいおすすめ温泉宿10選！西日本囲炉裏徹底比較](https://croud-travel.pages.dev/posts/charcoal-hearth-olive-beef-setouchi-hotels-guide): 阿波牛・あか牛・薩摩黒牛囲炉裏炭火会席おすすめ宿10選（全国）
 - [【2026年最新】仙台牛・とちぎ和牛が美味しいおすすめ温泉宿10選！東日本囲炉裏徹底比較](https://croud-travel.pages.dev/posts/charcoal-hearth-sendai-tochigi-wagyu-hotels-guide): 仙台牛・とちぎ和牛・山形牛囲炉裏炭火温泉宿おすすめ10選（全国）
 - [【2026年最新】すき焼き・牛鍋が美味しいおすすめ温泉宿10選！極上和牛徹底比較](https://croud-travel.pages.dev/posts/charcoal-hearth-sukiyaki-hotpot-wagyu-hotels-guide): 極上すき焼き・牛鍋・ブランド和牛会席おすすめ宿10選（全国）
@@ -105,6 +108,3 @@
 - [【2026年最新】焼き蟹・炭火甲羅焼きが美味しいおすすめ温泉宿10選！徹底比較](https://croud-travel.pages.dev/posts/charcoal-hearth-matsuba-crab-onsen-hotels-guide): 炭火焼き蟹・特選松葉ガニ・越前ガニおすすめ温泉宿10選（全国）
 - [【2026年最新】のどぐろ塩焼きが美味しいおすすめ温泉宿10選！日本海徹底比較](https://croud-travel.pages.dev/posts/charcoal-hearth-nodoguro-blackthroat-seimei-hotels-guide): のどぐろ炭火塩焼き・日本海鮮魚会席おすすめ温泉宿10選（全国）
 - [【2026年最新】囲炉裏でブランド牛が味わえるおすすめ温泉宿10選！徹底比較](https://croud-travel.pages.dev/posts/charcoal-hearth-wagyu-beef-hotels-guide): 囲炉裏炭火焼き・特選ブランド牛おすすめ温泉宿10選（全国）
-- [【2026】千葉県といえばコレ！房総伊勢海老・勝浦タンタンメン・銘酒「甲子」＆鴨川館・木更津ホテル三日月比較](https://croud-travel.pages.dev/posts/chiba-famous-boso-seafood-sake-hotels-guide): 千葉県 房総海の幸＆名湯おすすめ名宿セレクション（千葉県）
-- [【2026年最新】塩化物泉が自慢のおすすめ美肌温泉宿10選！温まり徹底比較](https://croud-travel.pages.dev/posts/chloride-spring-salt-pack-warming-hotels-guide): 塩化物泉・天然塩パック温まり温泉宿おすすめ10選（全国）
-- [【2026】道後温泉といえばコレ！日本最古の道後温泉本館・坊っちゃん時計・鯛めし＆道後おすすめ名宿比較](https://croud-travel.pages.dev/posts/dogo-famous-things-gourmet-hotels-guide): 日本最古の名湯 道後温泉おすすめ名宿セレクション（愛媛県）
