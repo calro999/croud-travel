@@ -9,7 +9,7 @@ interface Post {
   title: string;
   hotel_name: string;
   description?: string;
-  review: string;
+  review?: string;
   image: string;
   other_images: string[];
   affiliate_url: string;
@@ -61,7 +61,8 @@ function PostListInner({ initialPosts }: { initialPosts: Post[] }) {
     const matchesSearch =
       post.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
       post.hotel_name.toLowerCase().includes(searchQuery.toLowerCase()) ||
-      post.review.toLowerCase().includes(searchQuery.toLowerCase());
+      (post.description || "").toLowerCase().includes(searchQuery.toLowerCase()) ||
+      (post.area || "").toLowerCase().includes(searchQuery.toLowerCase());
     const matchesArea = selectedArea === "すべて" || post.area === selectedArea;
     const matchesCategory = selectedCategory === "すべて" || post.categories?.includes(selectedCategory);
     const matchesPref = selectedPref === "すべて" || post.prefecture === selectedPref;

@@ -49,12 +49,28 @@ function main() {
       const dateB = new Date(b.date || 0);
       return dateB.getTime() - dateA.getTime();
     });
+
+    const postSummaries = posts.map(p => ({
+      id: p.id,
+      title: p.title,
+      hotel_name: p.hotel_name,
+      description: p.description || '',
+      image: p.image || '',
+      other_images: p.other_images || [],
+      affiliate_url: p.affiliate_url || '',
+      prefecture: p.prefecture || '',
+      area: p.area || '',
+      categories: p.categories || [],
+      price: p.price || '',
+      rating: p.rating || '',
+      date: p.date || '',
+      keywords: p.keywords || []
+    }));
+
+    fs.writeFileSync(OUTPUT_FILE, JSON.stringify(postSummaries), 'utf8');
+    console.log(`Bundled ${postSummaries.length} post summaries into ${OUTPUT_FILE}`);
   }
 
-  fs.writeFileSync(OUTPUT_FILE, JSON.stringify(posts, null, 2), 'utf8');
-  console.log(`Bundled ${posts.length} posts into ${OUTPUT_FILE}`);
-
-  
   // --- 1. public/sitemap.xml (全URL包含) ＆ カテゴリー別分割サイトマップの自動生成 ---
   const todayStr = new Date().toISOString().split('T')[0];
   

@@ -10,7 +10,7 @@ interface Post {
   title: string;
   hotel_name: string;
   description?: string;
-  review: string;
+  review?: string;
   image: string;
   other_images: string[];
   affiliate_url: string;
