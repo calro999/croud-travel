@@ -1,0 +1,241 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 106080,
+    "hotelName": "湯布院温泉　御宿　由布乃庄",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D106080",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D106080%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D106080",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D106080",
+    "hotelKanaName": "おやど　ゆふのしょう",
+    "hotelSpecial": "夜空の星と二人だけの時間に包まれる高原の離れ宿。露天からの星空は絶景です",
+    "hotelMinCharge": 23700,
+    "latitude": 119896.19,
+    "longitude": 473029.04,
+    "postalCode": "879-5101",
+    "address1": "大分県",
+    "address2": "由布市湯布院町塚原1009",
+    "telephoneNo": "0977-84-5755",
+    "faxNo": "0977-85-5010",
+    "access": "大分自動車道（由布岳スマートＩＣの場合）５分※ＥＴＣ搭載車のみ（湯布院ＩＣの場合）湯布院交差点から塚原高原方面へ約１５分",
+    "parkingInformation": "◆駐車場有、予約不要◆ 送迎【要予約】（由布院駅お迎え16時もしくは17時）",
+    "nearestStation": "由布院",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/106080/106080.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/106080.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/106080/106080_iro.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/106080.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/106080/106080map.gif",
+    "reviewCount": 623,
+    "reviewAverage": 4.83,
+    "userReview": "丁寧な接客と美味しい料理で最高の思い出に宿の皆様の対応がとても丁寧で、最初から最後まで気持ちよく過ごすことができました。お料理も一つひとつがとても美味しく、大変満足いたしました!私自身が少食の…　2026-08-15 19:14:22投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=106080\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.9,
+    "locationAverage": 4.59,
+    "roomAverage": 4.67,
+    "equipmentAverage": 4.65,
+    "bathAverage": 4.81,
+    "breakfastAverage": 4.88,
+    "dinnerAverage": 4.88,
+    "cleanlinessAverage": 4.75
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "ooita",
+    "smallClassCode": "yufuin",
+    "areaName": "湯布院・湯平",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:30",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "18:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 8,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "電気スタンド"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "洗顔ソープ"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "くつろぎ着・たび"
+      },
+      {
+        "item": "湯沸かしポット(貸出)"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "＜部屋＞電話（内線のみ）"
+      },
+      {
+        "item": "ＪＲ等、公共の交通機関をご利用の場合は由布院駅までご送迎が御座います。"
+      },
+      {
+        "item": "要予約/駅まで片道20分程かかる為、16時もしくは17時由布院駅出発。必ずご予約をお願いします。"
+      },
+      {
+        "item": "バー"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "個室"
+      },
+      {
+        "breakfastPlace": "食事処"
+      },
+      {
+        "dinnerPlace": "個室"
+      },
+      {
+        "dinnerPlace": "食事処"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "単純温泉"
+      },
+      {
+        "bathBenefits": "肩凝り"
+      },
+      {
+        "bathBenefits": "筋肉痛"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      }
+    ],
+    "aboutLeisure": "パラグライダー,スケート,乗馬,トレッキング,登山,遊園地,動物園,博物館,水族館,テーマパーク,美術館,栗拾い,山菜取り",
+    "handicappedFacilities": [
+      {
+        "item": "施設スタッフによる介助・補助対応が可能"
+      }
+    ],
+    "linguisticLevel": "中国語：少し分かるスタッフが数人いる。<BR>英語：少し分かるスタッフが数人いる。<BR>韓国語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "・お子様のご宿泊受け入れは不可となります。(０歳～１２歳まで),・夕食は18時～・18時半～のご用意です、ご到着を１８：００までにお願い致しております。,・連泊は対応致しておりません。（全プラン共通）,・ペットの連れのご宿泊はできません。,・各種クーポン券、割引券の利用はできません。,・入湯税が別途必要です。（お一人様２５０円）,・現地でのカード払いは出来ません。オンラインカード決済をご利用ください。,・１２月～３月はタイヤチェーンなど滑り止めのご用意をお願いいたします。,※BARは休業中でございます。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>5日前から           ：宿泊料金の30％    <BR>10日前から          ：宿泊料金の10％    <BR>予約成立後から      ：宿泊料金の0％     ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "楽天カード"
+      },
+      {
+        "card": "ANA"
+      },
+      {
+        "card": "JAL"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "ウェルカムドリンクサービス,着替え浴衣サービス",
+    "otherInformation": "■wi-fiがご利用頂けます。"
+  }
+}

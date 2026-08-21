@@ -1,0 +1,223 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 814,
+    "hotelName": "ホテルハーベストイン米子",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D814",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D814%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D814",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D814",
+    "hotelKanaName": "はーべすといん　よなご",
+    "hotelSpecial": "ＪＲ米子駅の隣に建つヨーロッパ調の外観。ＪＲ米子駅・バスターミナルから徒歩１分とアクセス環境も抜群。",
+    "hotelMinCharge": 3300,
+    "latitude": 127509.14,
+    "longitude": 480014.96,
+    "postalCode": "683-0036",
+    "address1": "鳥取県",
+    "address2": "米子市弥生町8-27",
+    "telephoneNo": "0859-31-1111",
+    "faxNo": "0859-33-2222",
+    "access": "米子駅/バスターミナルより徒歩1分。米子空港よりシャトルバスにて２５分。　米子道米子ＩＣより車で１０分。　",
+    "parkingInformation": "契約40台【有料1台800円/泊】隣接：弥生町有料駐車場・日本交通立体駐車場　満車時近隣案内",
+    "nearestStation": "米子",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/814/814.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/814.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/814/814_sgl.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/814.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/814/814map.gif",
+    "reviewCount": 3156,
+    "reviewAverage": 4.06,
+    "userReview": "バイクを屋根下に駐車でき、館内も綺麗今回バイクで利用したのですが、屋根下に駐車させてもらって大変ありがたかったです。ホテルも立地もよく、綺麗でスタッフの方も大変丁寧な接客をしてくださいました。…　2026-08-15 13:24:32投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=814\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.06,
+    "locationAverage": 4.14,
+    "roomAverage": 3.99,
+    "equipmentAverage": 3.91,
+    "bathAverage": 3.9,
+    "breakfastAverage": 4.16,
+    "cleanlinessAverage": 4.05
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "tottori",
+    "smallClassCode": "seibu",
+    "areaName": "米子・皆生温泉・大山",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "24:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 132,
+    "roomFacilities": [
+      {
+        "item": "有料テレビ"
+      },
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送"
+      },
+      {
+        "item": "衛星放送（無料）"
+      },
+      {
+        "item": "ビデオデッキ(貸出)"
+      },
+      {
+        "item": "インターネット接続(LAN形式)"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー"
+      },
+      {
+        "item": "電気スタンド"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "入浴剤"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "ナイトウェア"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      }
+    ],
+    "aboutBath": [],
+    "aboutLeisure": "海水浴,釣り,海釣り,ウィンドサーフィン,テニス,ゴルフ,サッカー,ハイキング,スキー,乗馬,登山,陸上競技,フラワーパーク,テーマパーク,農業公園,美術館",
+    "handicappedFacilities": [],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "■　客室への持込は他のお客様のご迷惑になりますのでご遠慮下さいませ。（動物・鳥類・火薬・揮発油・その他発火性の物・悪臭を発する物・法により所持を許可されていない鉄砲、刀剣、覚醒剤の類）,■　館内及び客室では火災の原因となるような行為はなさらないで下さい。また、暖房用、炊事用などの熱を発する器具及びアイロン等、ホテルでご用意していない物のご利用はご遠慮願います。,■　ご訪問客との客室内でのご面会はご遠慮願います。客室は宿泊以外での目的にご使用にならないで下さい。,■　ご滞在中の現金、貴重品の保管にはフロント会計にて備え付けの金庫を御利用いただくようお願いいたします。万一紛失、盗難事故等が発生した場合、ホテルでは一切の責任を負いません。,■　客室やロビーを事務所や営業所がわりとしてご使用することはお断りさせていただきます。,■　客室内よりお電話をご利用の際は施設利用料が加算されますのでご了承ください。,■　賭博、その他風紀を乱し、他人に迷惑をかけるような行為をなさらないで下さい。,■　御滞在中、フロント会計からの勘定書の提示がございましたら、その都度、ご精算をお願い申し上げます。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の80％    <BR>前日                ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "JTB"
+      },
+      {
+        "card": "ANA"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": "ＡＮＡマイレージクラブ会員の方に、宿泊御一泊につき３００マイル御提供。(割引プランは除外）"
+  },
+  "hotelOtherInfo": {
+    "privilege": "(朝刊はフロントにありますのでご自由にお持ち下さい）,朝刊サービス",
+    "otherInformation": null
+  }
+}

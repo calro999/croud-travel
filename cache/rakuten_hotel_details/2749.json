@@ -1,0 +1,220 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 2749,
+    "hotelName": "ホテルパールシティ秋田　川反（旧　ホテルパールシティ秋田）",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D2749",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D2749%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D2749",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D2749",
+    "hotelKanaName": "ほてるぱーるしてぃあきた　かわばた",
+    "hotelSpecial": "竿燈大通り（竿灯）も、川反通り（かわばた）もすぐ近く。赤れんが郷土館・ねぶり流し館は徒歩圏内。",
+    "hotelMinCharge": 4300,
+    "latitude": 142971.22,
+    "longitude": 504424.85,
+    "postalCode": "010-0921",
+    "address1": "秋田県",
+    "address2": "秋田市大町3-4-18",
+    "telephoneNo": "018-865-2111",
+    "faxNo": "018-863-5776",
+    "access": "ＪＲ秋田駅西口より車５分。バス（県庁・市役所行き５分）川反入口下車徒歩５分。秋田空港よりバス、川反入口下車徒歩５分。",
+    "parkingInformation": "要予約(予約順30台)1泊1台770円（税込）･満車時徒歩７分契約駐車場・大型車両、二輪車不可",
+    "nearestStation": "秋田",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2749/2749.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/2749.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2749/2749_ds.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/2749.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2749/2749map.gif",
+    "reviewCount": 1612,
+    "reviewAverage": 3.78,
+    "userReview": "川反の繁華街が近くてかなり便利なロケーション。コンビニも近いです。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/274…　2026-07-28 12:09:40投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=2749\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 3.82,
+    "locationAverage": 3.73,
+    "roomAverage": 3.69,
+    "equipmentAverage": 3.65,
+    "bathAverage": 3.53,
+    "breakfastAverage": 3.78,
+    "cleanlinessAverage": 3.72
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "akita",
+    "smallClassCode": "akita",
+    "areaName": "秋田",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "24:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 113,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "ナイトガウン"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [],
+    "aboutLeisure": "山王の秋田県庁・秋田市役所まで車で約５分,海水浴,陸上競技,動物園,美術館",
+    "handicappedFacilities": [],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "お車で来られるお客様は、備考欄にお車のご利用がわかるようにご記入ください。当日の急な乗り入れの場合御用意できないことがあります。,ホテル駐車場満車時は徒歩約７分の契約駐車場へご案内いたします。契約駐車場満車の場合お客様ご自身で御用意いただくことになります。,ホテル駐車場（30台まで）・契約駐車場利用のお客様は宿泊とは別に770円（税込／普通車・ワゴン車サイズ）頂きます。,注１：契約駐車場をご利用の場合には高さ制限（２．１メートル）がございます。それを超える場合御用意できません。,注２：大型車輌（料金別途）の場合は必ず御予約前にお問い合わせください。,注１：通常シングルルームのみの対応となります。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の80％    <BR>前日                ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "JACCS"
+      },
+      {
+        "card": "JTB"
+      },
+      {
+        "card": "JAL"
+      },
+      {
+        "card": "デビットカード"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": null
+  }
+}

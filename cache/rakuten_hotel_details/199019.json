@@ -1,0 +1,147 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 199019,
+    "hotelName": "串間温泉　いこいの里",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D199019",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D199019%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D199019",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D199019",
+    "hotelKanaName": "くしまおんせん　いこいのさと",
+    "hotelSpecial": "炭酸水素イオンを含む泉質で疲れた身体をやさしく癒す至福のひとときをお過ごしください。",
+    "hotelMinCharge": 2600,
+    "latitude": 113156.71,
+    "longitude": 472607.48,
+    "postalCode": "888-0008",
+    "address1": "宮崎県",
+    "address2": "串間市本城987",
+    "telephoneNo": "0987-75-2000",
+    "faxNo": "--",
+    "access": "JR日南線「串間」駅下車後タクシーで約10分",
+    "parkingInformation": "あり　150台　無料　予約不要",
+    "nearestStation": "串間",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/199019/199019.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/199019.jpg",
+    "roomImageUrl": null,
+    "roomThumbnailUrl": null,
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/199019/199019map.gif",
+    "reviewCount": 2,
+    "reviewAverage": null,
+    "userReview": null
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": null,
+    "locationAverage": null,
+    "roomAverage": null,
+    "equipmentAverage": null,
+    "bathAverage": null
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "miyazaki",
+    "smallClassCode": "nanbu",
+    "areaName": "都城・えびの・日南・綾",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "21:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 13,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "石鹸（液体）"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "水風呂"
+      },
+      {
+        "bathQuality": "低張性弱アルカリ性泉"
+      },
+      {
+        "bathQuality": "ナトリウム炭酸水素塩泉"
+      },
+      {
+        "bathBenefits": "五十肩"
+      },
+      {
+        "bathBenefits": "美肌効果"
+      },
+      {
+        "bathBenefits": "火傷"
+      }
+    ],
+    "aboutLeisure": "海水浴,水族館",
+    "handicappedFacilities": [],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "・チェックイン時間が予定時刻を過ぎる場合は必ずご連絡ください。,・和室宿泊のお客様は22時から7時まで門限となりますので、ご注意ください。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の70％    <BR>3日前から           ：宿泊料金の50％    <BR>7日前から           ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "Master Card"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": null
+  }
+}

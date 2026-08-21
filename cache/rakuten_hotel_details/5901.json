@@ -1,0 +1,424 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 5901,
+    "hotelName": "湯元こんぴら温泉華の湯　紅梅亭",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D5901",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D5901%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D5901",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D5901",
+    "hotelKanaName": "もとゆこんぴらおんせん　はなのゆ　こうばいてい",
+    "hotelSpecial": "露天風呂付スイートOPEN◆2種の源泉を楽しむ＜3箇所15種類の湯処＞でのんびり湯巡り",
+    "hotelMinCharge": 12100,
+    "latitude": 123076.19,
+    "longitude": 481751,
+    "postalCode": "766-0001",
+    "address1": "香川県",
+    "address2": "仲多度郡琴平町556-1",
+    "telephoneNo": "0877-75-1111",
+    "faxNo": "0877-75-5188",
+    "access": "ＪＲ琴平駅下車、徒歩5分（無料送迎有・要予約）。車：道善通寺ＩＣ下車約15分。高松空港より約40分",
+    "parkingInformation": "有り：70台（無料）／EV充電器設置",
+    "nearestStation": "琴平",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5901/5901.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/5901.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5901/5901_k1.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/5901.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5901/5901map.gif",
+    "reviewCount": 1717,
+    "reviewAverage": 4.62,
+    "userReview": "和モダンな部屋と絶品料理、家族で大満足!和モダンな部屋が、お洒落で清潔で気持ち良く過ごせました。熱めの露天風呂で疲れを癒し、鰹の解体ショーで捌いたばかりの刺身を地元産の藻塩で頂き、最高でした!海産…　2026-08-14 18:31:55投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=5901\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.67,
+    "locationAverage": 4.53,
+    "roomAverage": 4.59,
+    "equipmentAverage": 4.53,
+    "bathAverage": 4.67,
+    "breakfastAverage": 4.66,
+    "dinnerAverage": 4.6,
+    "cleanlinessAverage": 4.58
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "kagawa",
+    "smallClassCode": "kotohira",
+    "areaName": "琴平・観音寺",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "18:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 66,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送"
+      },
+      {
+        "item": "衛星放送（無料）"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "インターネット接続(一部、LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ミニバー"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（固形）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "リンスインシャンプー"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "洗顔ソープ"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "おふろセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "くつろぎ着・たび"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "●全室：加湿機能付空気清浄機完備"
+      },
+      {
+        "item": "●全室：Wi-Fi利用OK（利用無料）"
+      },
+      {
+        "item": "●1Fロビー：フリースポット（Wi-Fi）環境あり（利用無料）"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "コーヒーハウス"
+      },
+      {
+        "item": "喫茶"
+      },
+      {
+        "item": "ティーラウンジ"
+      },
+      {
+        "item": "ラウンジ"
+      },
+      {
+        "item": "バーラウンジ"
+      },
+      {
+        "item": "バー"
+      },
+      {
+        "item": "ナイトクラブ"
+      },
+      {
+        "item": "夜食コーナー"
+      },
+      {
+        "item": "多目的室"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "結婚式場"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "湯上がりサロン"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "コーヒーショップ"
+      },
+      {
+        "item": "プール(夏期のみ)"
+      },
+      {
+        "item": "屋外プール"
+      },
+      {
+        "item": "茶室"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "ペット同宿可"
+      },
+      {
+        "item": "パソコン利用可"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "ルームサービス"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "個室"
+      },
+      {
+        "breakfastPlace": "レストラン"
+      },
+      {
+        "dinnerPlace": "レストラン(バイキング)"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathType": "ジャグジー"
+      },
+      {
+        "bathQuality": "ナトリウム塩化物泉"
+      },
+      {
+        "bathBenefits": "筋肉痛"
+      },
+      {
+        "bathBenefits": "神経痛"
+      },
+      {
+        "bathBenefits": "動脈硬化"
+      }
+    ],
+    "aboutLeisure": "海水浴,釣り,海釣り,カヌー,クルージング,ウィンドサーフィン,ウォータースポーツ,渓流下り,川上り,テニス,ゲートボール,ゴルフ,パラグライダー,サイクリング,ハイキング,スキー,乗馬,トレッキング,登山,陸上競技,遊園地,水族館,フラワーパーク,テーマパーク,農業公園,美術館",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "バリアフリールーム"
+      },
+      {
+        "item": "車椅子利用者用客室あり"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "客室内トイレに手すりあり"
+      },
+      {
+        "item": "大浴場浴槽に手すりあり"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      },
+      {
+        "item": "高齢者用料理への対応可能"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": "中国語：少し分かるスタッフが数人いる。<BR>英語：少し分かるスタッフが数人いる。<BR>韓国語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "■ご夕食の最終開始時間は19時30分で��ざいます。それまでのチェックインをお願いいたします。,■当館は全室禁煙となります。,■お子様夕食【大人が会席の場合】お子様70％：大人に準ずる料理（小人会席）／お子様50％：お子様ランチ,■お子様夕食【大人がバイキングの場合】お食事ありを選んだ場合、大人と同様にバイキングのご用意,■プランのご案内の通りはアレルギー対応は事前にお知らせください。ご宿泊当日のアレルギー対応食への変更はご対応いたしかねます。また対応は主要8品目のみになります。,【貸切露天風呂のご利用について】無料記載のあるプラン以外で貸切風呂利用時は費用が必要です。【料金】1箇所45分（有料）。予めご了承くださいませ。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>3日前から           ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "OMC"
+      },
+      {
+        "card": "Bank Card"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "AEON"
+      },
+      {
+        "card": "APLUS"
+      },
+      {
+        "card": "CF"
+      },
+      {
+        "card": "TOP"
+      },
+      {
+        "card": "JTB"
+      },
+      {
+        "card": "Takashimaya"
+      },
+      {
+        "card": "楽天カード"
+      },
+      {
+        "card": "デビットカード"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "ウェルカムドリンクサービス",
+    "otherInformation": "銀聯カード，Edy(電子マネー)が利用可。,ホテルより徒歩2分（コンビニ・セブンイレブン）があります。,紅梅亭の別邸として愛犬と泊まれる宿「別邸とら梅」令和6年6月1日 OPEN！"
+  }
+}

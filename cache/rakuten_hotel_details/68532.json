@@ -1,0 +1,262 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 68532,
+    "hotelName": "白馬姫川温泉　白馬ハイランドホテル",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D68532",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D68532%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D68532",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D68532",
+    "hotelKanaName": "はくばひめかわおんせん　はくばはいらんど",
+    "hotelSpecial": "地消地産！ こだわり料理＆白馬唯一、白馬三山を一望できる２つの露天風呂で心も体もポカポカに。",
+    "hotelMinCharge": 8500,
+    "latitude": 132075.61,
+    "longitude": 496331.27,
+    "postalCode": "399-9301",
+    "address1": "長野県",
+    "address2": "北安曇郡白馬村北城21582",
+    "telephoneNo": "0261-72-3450",
+    "faxNo": "0261-72-3067",
+    "access": "ＪＲ白馬駅より徒歩２０分（無料送迎あり）／長野自動車道安曇野ＩＣより６０分／上信越自動車道長野ＩＣより６０分",
+    "parkingInformation": "有100台（無料）※全面舗装ですが、屋根日影はありません",
+    "nearestStation": "白馬",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/68532/68532.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/68532.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/68532/68532_t.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/68532.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/68532/68532map.gif",
+    "reviewCount": 1303,
+    "reviewAverage": 4.33,
+    "userReview": "ロケーションと食事は良いが部屋の古さが残念ロケーションはとても良かったです。お風呂はのんびり景色をみながらリラックスできました。食事は美味しかったです。部屋の古さと匂いが気になり落ち着かな…　2026-08-15 09:11:12投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=68532\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.33,
+    "locationAverage": 4.43,
+    "roomAverage": 4.04,
+    "equipmentAverage": 4.07,
+    "bathAverage": 4.43,
+    "breakfastAverage": 4.45,
+    "dinnerAverage": 4.4,
+    "cleanlinessAverage": 4.28
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "nagano",
+    "smallClassCode": "hakuba",
+    "areaName": "白馬・八方尾根・栂池高原・小谷",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "19:30"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 65,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "電気スタンド"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "マッサージサービス（有料）"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "貸自転車"
+      },
+      {
+        "item": "卓球"
+      },
+      {
+        "item": "スキー乾燥室"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "ペット同宿可"
+      },
+      {
+        "item": "パソコン利用可"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "breakfastPlace": "ダイニングルーム"
+      },
+      {
+        "dinnerPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "ダイニングルーム"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "ナトリウム塩化物泉"
+      },
+      {
+        "bathBenefits": "冷え性"
+      },
+      {
+        "bathBenefits": "美肌効果"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      }
+    ],
+    "aboutLeisure": "春から秋は山麓でのんびりウォーキングそしてトレッキング、冬はスキースノーボードを楽しめます,渓流釣り,カヌー,渓流下り,テニス,ゴルフ,パラグライダー,ハンググライダー,熱気球,サイクリング,ハイキング,スキー,クロスカントリー,ロッククライミング,トレッキング,登山,陸上競技,美術館,栗拾い,山菜取り",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "バリアフリールーム"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "大浴場浴槽に手すりあり"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "ご利用予定の交通機関をお教え下さい（JR・車・バスなど）,到着予定時刻より一時間以上遅くなりそうな場合はホテルへご連絡をお願いいたします。,JR・バスなどの公共の交通機関でお越しの際は白馬駅までの送迎を致します。駅到着時にホテルまでご連絡をお願いします。(９：００～１７：００),「天神の湯」のご案内：楽天トラベルからご予約のお客様は、チェックアウト後、その日に限り「天神の湯」を無料でご利用いただけます。,全館禁煙のご案内：2018年4月より、お部屋は全室禁煙となりました。お部屋内ユニットバスでもおタバコはご遠慮ください。なおアイコス等の喫煙具の使用もご遠慮いただいております。,入湯税のご案内：お一人様一泊につき入湯税150円が別途かかります（中学生以上）,6室以上のキャンセルの場合規定が異なります。,コテージご宿泊のお客様は事前にメールアドレスをお知らせください,ペット連れのお客様は送迎バスをご利用いただけません,令和8年6月より白馬村宿泊税導入に伴い、宿泊料金とは別に宿泊税を頂戴いたします。ご協力をお願いします���",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>2日前から           ：宿泊料金の50％    <BR>5日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "モーニングコーヒーサービスはレストランにてご提供しております。,モーニングコーヒーサービス,将棋無料貸出",
+    "otherInformation": null
+  }
+}

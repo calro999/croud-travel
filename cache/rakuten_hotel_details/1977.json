@@ -1,0 +1,279 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 1977,
+    "hotelName": "天然温泉　多宝の湯　ドーミーイン新潟",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D1977",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D1977%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D1977",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D1977",
+    "hotelKanaName": "てんねんおんせんたほうのゆ　どーみーいんにんがた",
+    "hotelSpecial": "■サウナ付天然温泉大浴場完備■時間限定で乳酸菌飲料＆アイス無料提供♪◆Wi-Fi全室完備",
+    "hotelMinCharge": 5610,
+    "latitude": 136488.15,
+    "longitude": 500644.54,
+    "postalCode": "950-0084",
+    "address1": "新潟県",
+    "address2": "新潟市中央区明石1-7-14",
+    "telephoneNo": "025-247-7755",
+    "faxNo": "025-247-7789",
+    "access": "ＪＲ新潟駅万代口から徒歩約8分",
+    "parkingInformation": "1200円（15時-翌朝11時）先着順連泊時、途中出庫時の取り置き不可満車時は別提携駐車場をご案内。",
+    "nearestStation": "新潟",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1977/1977.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/1977.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1977/1977_sr.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/1977.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1977/1977map.gif",
+    "reviewCount": 7652,
+    "reviewAverage": 4.27,
+    "userReview": "駐車場のトラブルも対応が良く満足駐車場のオーバーブッキングがあった。しかし、その時の対応は非常に良かった。全体的にいつものドーミインで満足した。クチコミの詳細はこちらから　https:…　2026-08-15 14:54:56投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=1977\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.29,
+    "locationAverage": 4.14,
+    "roomAverage": 4.2,
+    "equipmentAverage": 4.21,
+    "bathAverage": 4.37,
+    "breakfastAverage": 4.4,
+    "cleanlinessAverage": 4.28
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "niigata",
+    "smallClassCode": "niigata",
+    "areaName": "新潟",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "29:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 229,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送"
+      },
+      {
+        "item": "有料ビデオ"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "洗顔ソープ"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "ナイトウェア"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "◆ランドリーコーナー完備（洗濯機無料/乾燥機20分100円）"
+      },
+      {
+        "item": "◆喫煙ブース一部フロア完備（1・2・10階）"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathType": "水風呂"
+      },
+      {
+        "bathQuality": "低張性弱アルカリ性泉"
+      },
+      {
+        "bathBenefits": "神経痛"
+      },
+      {
+        "bathBenefits": "冷え性"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      }
+    ],
+    "aboutLeisure": "コンサート会場各施設へのアクセスも抜群！　旅の疲れも広々大浴場で癒せるからとっても便利！,海水浴,釣り,海釣り,ゴルフ,サッカー,陸上競技,水族館,水上バス",
+    "handicappedFacilities": [
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "ホテルの駐車場が満車の場合には近隣の駐車場をご案内いたします。館内及び提携先駐車場料金1泊1台1200円,エコノミー(A)及びエコノミー(B)はお部屋にお風呂がございませんので大浴場をご利用ください。お風呂付ご希望のお客様は、ダブルルームをご利用ください。,◆当ホテルの送迎は運休中でございます◆,当ホテル大浴場は入墨・タトゥーを入れられた方のご入浴はお断りさせていただいております。,◆お子様の添寝料金　0歳～2歳：無料　3歳～小学生：3000円　◆お子様の朝食料金　2歳以下無料：3歳以上小学生以下：1,000円,当ホテルは一部喫煙室もございます。おタバコをお吸いになられる方は喫煙所にてお願いいたします。喫煙所近くを希望のお客様はお電話にてお問い合わせください。,当ホテルはご宿泊者の方以外の入室をお断りさせていただいております。ご面会の際はフロントロビーにてお願いいたします。,天然温泉大浴場の時間は、15時～翌朝10時までとさせて頂きます。◆サウナ営業時間 深夜1時～5時の間を休止とさせて頂きます。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>2日前から           ：宿泊料金の0％     ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "OMC"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "JACCS"
+      },
+      {
+        "card": "View"
+      },
+      {
+        "card": "楽天カード"
+      },
+      {
+        "card": "ANA"
+      },
+      {
+        "card": "JAS"
+      },
+      {
+        "card": "JAL"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": "一部ご利用出来ないプランがあります。",
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "ウェルカムドリンクサービス",
+    "otherInformation": "ＪＲ新潟駅万代口より徒歩8分　男女別天然温泉大浴場完備　全室禁煙　Wi-Fi完備,ビッグスワンまで車で約１５分！佐渡汽船のりば車で約10分！新潟産業振興センターまで車で１２分！,マンションタイプ（外廊下）　長期の宿泊もとっても便利！ランドリーコーナー増設"
+  }
+}

@@ -1,0 +1,367 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 18363,
+    "hotelName": "天童温泉　松伯亭　あづま荘",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D18363",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D18363%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D18363",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D18363",
+    "hotelKanaName": "てんどうおんせん　しょうはくてい　あづまそう",
+    "hotelSpecial": "2024年5月西館リニューアル!!天童温泉で唯一の屋根のない開放感ある露天風呂。『山形牛』に舌鼓♪",
+    "hotelMinCharge": 11440,
+    "latitude": 138077.35,
+    "longitude": 505407.57,
+    "postalCode": "994-0024",
+    "address1": "山形県",
+    "address2": "天童市鎌田2-2-1",
+    "telephoneNo": "023-654-4141",
+    "faxNo": "023-654-4146",
+    "access": "ＪＲ天童駅下車（東京～天童間　山形新幹線で約２時間４０分）／山形自動車道　山形北ＩＣより２０分",
+    "parkingInformation": "有り　80台　無料　先着順",
+    "nearestStation": "天童",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/18363/18363.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/18363.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/18363/18363_heya.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/18363.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/18363/18363map.gif",
+    "reviewCount": 616,
+    "reviewAverage": 4.6,
+    "userReview": "接客と居心地は最高、設備面は改善を期待プラン名:お盆は松伯亭 あづま荘へ!涼やかに味わうお盆特別会席部屋タイプ:西館モダン和室70台夫婦(ともに足の関節痛のため杖を使用)と車いすの子供の3…　2026-08-14 02:32:33投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=18363\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.7,
+    "locationAverage": 4.47,
+    "roomAverage": 4.55,
+    "equipmentAverage": 4.45,
+    "bathAverage": 4.28,
+    "breakfastAverage": 4.61,
+    "dinnerAverage": 4.7,
+    "cleanlinessAverage": 4.58
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "yamagata",
+    "smallClassCode": "yamagata",
+    "areaName": "山形・蔵王・天童・上山",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "20:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 34,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送"
+      },
+      {
+        "item": "衛星放送（無料）"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "電気スタンド"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "ＣＤプレイヤ－(貸出)"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "パジャマ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "結婚式場"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "湯上がりサロン"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "広間"
+      },
+      {
+        "breakfastPlace": "食事処"
+      },
+      {
+        "dinnerPlace": "広間"
+      },
+      {
+        "dinnerPlace": "食事処"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "硫酸塩泉"
+      },
+      {
+        "bathQuality": "カルシウム・ナトリウム硫酸塩泉"
+      },
+      {
+        "bathQuality": "含石膏芒硝泉"
+      },
+      {
+        "bathBenefits": "神経痛"
+      },
+      {
+        "bathBenefits": "美肌効果"
+      },
+      {
+        "bathBenefits": "リウマチ・神経病"
+      }
+    ],
+    "aboutLeisure": "さくらんぼ狩り　山寺　,渓流釣り,ゴルフ,スキー,トレッキング,登山,陸上競技,遊園地,美術館,山菜取り",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "バリアフリールーム"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      },
+      {
+        "item": "高齢者用料理への対応可能"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": "中国語：少し分かるスタッフが数人いる。<BR>英語：少し分かるスタッフが数人いる。<BR>韓国語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "売店にてお酒、ビール、カクテル販売しております。（営業時間：8:00～21:00）",
+    "cancelPolicy": "キャンセル料���以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の70％    <BR>2日前から           ：宿泊料金の50％    <BR>3日前から           ：宿泊料金の30％    <BR>5日前から           ：宿泊料金の20％    <BR>7日前から           ：宿泊料金の10％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "OMC"
+      },
+      {
+        "card": "Bank Card"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Discover"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "AEON"
+      },
+      {
+        "card": "JACCS"
+      },
+      {
+        "card": "APLUS"
+      },
+      {
+        "card": "CF"
+      },
+      {
+        "card": "LIFE"
+      },
+      {
+        "card": "ORICO"
+      },
+      {
+        "card": "TOP"
+      },
+      {
+        "card": "View"
+      },
+      {
+        "card": "West"
+      },
+      {
+        "card": "JTB"
+      },
+      {
+        "card": "Daimaru"
+      },
+      {
+        "card": "Takashimaya"
+      },
+      {
+        "card": "楽天カード"
+      },
+      {
+        "card": "ANA"
+      },
+      {
+        "card": "JAS"
+      },
+      {
+        "card": "JAL"
+      },
+      {
+        "card": "MEDIA"
+      },
+      {
+        "card": "デビットカード"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "着替え浴衣サービス,将棋無料貸出",
+    "otherInformation": null
+  }
+}

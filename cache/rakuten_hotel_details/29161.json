@@ -1,0 +1,313 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 29161,
+    "hotelName": "伊豆大島を正面に臨む　眺望絶佳の宿　熱川館",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D29161",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D29161%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D29161",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D29161",
+    "hotelKanaName": "あたがわかん",
+    "hotelSpecial": "【蜜を避けた完全部屋食の宿】眺望絶佳の温泉宿で波音と共にお過ごし下さい。！",
+    "hotelMinCharge": 9800,
+    "latitude": 125318.67,
+    "longitude": 500666.34,
+    "postalCode": "413-0302",
+    "address1": "静岡県",
+    "address2": "賀茂郡東伊豆町奈良本981-3",
+    "telephoneNo": "0557-23-2111",
+    "faxNo": "0557-23-3525",
+    "access": "伊豆急行線・伊豆熱川駅／小田原厚木道路・西湖バイパス・石橋ＩＣ～熱海経由～Ｒ１３５号線を６５ｋｍ",
+    "parkingInformation": "有り　３０台　無料 　当館入口前にお車をお付け下さい。係りがご移動致します。",
+    "nearestStation": "伊豆熱川",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29161/29161.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/29161.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29161/29161_k.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/29161.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29161/29161map.gif",
+    "reviewCount": 961,
+    "reviewAverage": 4.31,
+    "userReview": "ビーチの目の前で最高、清潔感は改善希望場所はビーチの真ん前でホテルの敷地内にシャワーもあり海で遊ぶには最高です。ホテル自体や部屋はもう少し清潔にしてもらえると嬉しいです。スタッフさん達は皆…　2026-08-10 19:50:59投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=29161\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.33,
+    "locationAverage": 4.63,
+    "roomAverage": 4.33,
+    "equipmentAverage": 3.98,
+    "bathAverage": 4.37,
+    "breakfastAverage": 4.36,
+    "dinnerAverage": 4.44,
+    "cleanlinessAverage": 4.13
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "shizuoka",
+    "smallClassCode": "higashi",
+    "areaName": "東伊豆・河津",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "18:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 35,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "加湿器(一部)"
+      },
+      {
+        "item": "変圧器（貸出）"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（固形）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "禁煙室以外で禁煙希望の方は消臭対応いたします。"
+      },
+      {
+        "item": "お子様用椅子、離乳食温め等お気軽にお申し付け下さい。"
+      },
+      {
+        "item": "コーヒーハウス"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "ゲームコーナー"
+      },
+      {
+        "item": "卓球"
+      },
+      {
+        "item": "茶室"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "パソコン利用可"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "部屋"
+      },
+      {
+        "dinnerPlace": "部屋"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "硫酸塩泉"
+      },
+      {
+        "bathQuality": "ナトリウム塩化物泉"
+      },
+      {
+        "bathBenefits": "肩凝り"
+      },
+      {
+        "bathBenefits": "美肌効果"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      }
+    ],
+    "aboutLeisure": "いちご狩り（１２月〜５月）みかん狩り,海水浴,釣り,海釣り,渓流釣り,ダイビング,テニス,ゴルフ,パラグライダー,ハイキング,遊園地,動物園,博物館,水族館,フラワーパーク,テーマパーク,美術館,山菜取り",
+    "handicappedFacilities": [
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "大浴場浴槽に手すりあり"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": "英語：日常的な内容は問題のないスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "チェックイン時刻が、午後５時30分以降になる場合は必ずご連絡下さい。,ご連絡がなく、午後８時をすぎました場合は、ご予約のお取り消しとさせていただきます。,１才～５才までの《お食事、寝具無し》のお子様は、館内施設使用料として２２００円頂戴しております。,乳幼児（０歳児）のお子様がご一緒の場合は備考欄にご記入下さいませ。,アレルギー食材がございましたら事前に詳細ご人数様をご連絡くださいませ。,１４：００以降になりますが、熱川駅ご到着時刻を事前にご連絡いただければそのお時間に合わせて、熱川駅ご到着時にご連絡いただければ３～４分にてお迎えにあがります。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の70％    <BR>2日前から           ：宿泊料金の50％    <BR>5日前から           ：宿泊料金の30％    <BR>7日前から           ：宿泊料金の20％    <BR>10日前から          ：宿泊料金の10％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "AEON"
+      },
+      {
+        "card": "JACCS"
+      },
+      {
+        "card": "ORICO"
+      },
+      {
+        "card": "JTB"
+      },
+      {
+        "card": "Daimaru"
+      },
+      {
+        "card": "Takashimaya"
+      },
+      {
+        "card": "楽天カード"
+      },
+      {
+        "card": "ANA"
+      },
+      {
+        "card": "JAL"
+      },
+      {
+        "card": "デビットカード"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": "paypay  Alipay  Wechatpay Rakuten Pay メルカリPay D払い",
+    "aboutPointAdd": null,
+    "aboutMileageAdd": "JALマイル特約店・Jalカード使うとマイルが2倍"
+  },
+  "hotelOtherInfo": {
+    "privilege": "ウェルカムドリンクサービス,湯上がりサロンでのお茶サービス",
+    "otherInformation": "東伊豆町宿泊補助券利用できます。,宴会場はコロナにより閉鎖しております。５名様以下でのご利用をお願いします。"
+  }
+}

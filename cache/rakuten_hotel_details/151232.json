@@ -1,0 +1,156 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 151232,
+    "hotelName": "ビジネスホテル　寿　＜岩手県＞",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D151232",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D151232%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D151232",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D151232",
+    "hotelKanaName": "ことぶき",
+    "hotelSpecial": "被災地にできたドミトリーです。カーテン四分割の２段ベッド。仲間同士の６人部屋もございます。",
+    "hotelMinCharge": null,
+    "latitude": 141687.74,
+    "longitude": 510880.38,
+    "postalCode": "028-1111",
+    "address1": "岩手県",
+    "address2": "上閉伊郡大槌町新町60-1",
+    "telephoneNo": "0193-42-5692",
+    "faxNo": "0193-42-4433",
+    "access": "三陸道大槌ICより車で３分・三陸鉄道大槌駅より徒歩10分",
+    "parkingInformation": "有り　１１台　無料　予約不要",
+    "nearestStation": "釜石",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/151232/151232.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/151232.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/151232/151232_kan1.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/151232.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/151232/151232map.gif",
+    "reviewCount": 4,
+    "reviewAverage": null,
+    "userReview": null
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": null,
+    "locationAverage": null,
+    "roomAverage": null,
+    "equipmentAverage": null,
+    "bathAverage": null
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "iwate",
+    "smallClassCode": "ofunato",
+    "areaName": "釜石・大船渡・陸前高田",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "22:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 14,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "インターネット接続(LAN形式)"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "食堂"
+      }
+    ],
+    "aboutBath": [],
+    "aboutLeisure": "ジビエ体験ツアーがございます（要予約）,海水浴,海釣り,渓流釣り,サイクリング,ハイキング,山菜取り",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "チェックインが１７：００以降の場合は必ずご連絡ください。,門限は２１：００です。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の50％    <BR>当日                ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "時間外チェックイン（２０：００）／時間外チェックアウト（６：００）,朝刊サービス",
+    "otherInformation": null
+  }
+}

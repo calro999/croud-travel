@@ -1,0 +1,150 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 31792,
+    "hotelName": "あたらしや旅館＜福井県＞",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D31792",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D31792%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D31792",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D31792",
+    "hotelKanaName": "あたらしや　りょかん＜ふくいけん＞",
+    "hotelSpecial": "海のすぐ近く！朝獲れの新鮮な魚が食べられる漁師宿。洞窟風呂を満喫した後は、お部屋で食す海の幸に舌鼓。",
+    "hotelMinCharge": 7150,
+    "latitude": 129542.92,
+    "longitude": 489479.26,
+    "postalCode": "916-0302",
+    "address1": "福井県",
+    "address2": "丹生郡越前町左右4-14",
+    "telephoneNo": "0778-37-0261",
+    "faxNo": "0778-37-0773",
+    "access": "ハピラインふくい 福井駅よりバスで１時間１０分・車で５０分／ハピラインふくい 武生駅よりバス１時間２０分・車で４０分",
+    "parkingInformation": "有　１０台　無料　先着順",
+    "nearestStation": "福井（福井）",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31792/31792.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/31792.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31792/31792_room.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/31792.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31792/31792map.gif",
+    "reviewCount": 27,
+    "reviewAverage": 3.67,
+    "userReview": null
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 0,
+    "locationAverage": 0,
+    "roomAverage": 0,
+    "equipmentAverage": 0,
+    "bathAverage": 0,
+    "breakfastAverage": 3.67,
+    "dinnerAverage": 3.67,
+    "cleanlinessAverage": 3.33
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "hukui",
+    "smallClassCode": "echizen",
+    "areaName": "越前・鯖江・武生",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "19:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 9,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー(貸出)"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "釣り船手配"
+      },
+      {
+        "item": "ドライヤー・バスタオル・シェーバー・綿棒をご利用の場合はフロントまでお申し付け下さい。"
+      },
+      {
+        "item": "カラオケルーム"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "部屋"
+      },
+      {
+        "dinnerPlace": "部屋"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "大浴場"
+      }
+    ],
+    "aboutLeisure": "海水浴,釣り,海釣り,ダイビング,ハイキング",
+    "handicappedFacilities": [],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "門限は夜１１時となります。,到着予定時間が１９時より遅れる場合は必ず当館までご連絡くださいませ。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>2日前から           ：宿泊料金の50％    ",
+    "availableCreditCard": [
+      {
+        "card": "利用不可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "将棋・囲碁無料貸し出し,着替え浴衣サービス,時間外チェックイン可,時間外チェックアウト可",
+    "otherInformation": null
+  }
+}

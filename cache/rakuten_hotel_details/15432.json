@@ -1,0 +1,252 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 15432,
+    "hotelName": "ホテルプラザ神戸",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D15432",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D15432%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D15432",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D15432",
+    "hotelKanaName": "ぷらざ　こうべ",
+    "hotelSpecial": "車アクセス良好★ユニバーサルシティまで20分圏内！ご家族やグループで楽しい思い出を♪",
+    "hotelMinCharge": 3191,
+    "latitude": 124865.41,
+    "longitude": 486985.62,
+    "postalCode": "658-0032",
+    "address1": "兵庫県",
+    "address2": "神戸市東灘区向洋町中2-9-1",
+    "telephoneNo": "078-846-5400",
+    "faxNo": "078-846-5411",
+    "access": "六甲ライナー「アイランドセンター駅」徒歩3分／阪神高速5号湾岸線「六甲アイランド北」3分★「ユニバーサルシティ」18分",
+    "parkingInformation": "地下駐車場24時間最大1500円(車高2.1M)※宿泊者の途中出庫無料(出庫前フロントで割引処理)",
+    "nearestStation": "住吉（兵庫）",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15432/15432.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/15432.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15432/15432_heya2.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/15432.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15432/15432map.gif",
+    "reviewCount": 4498,
+    "reviewAverage": 4.27,
+    "userReview": "朝食とサービスに満足エキストラベッドに家族が横になると、大きな音がしてベッドの頭の側が傾いて低く落ちてしました。手で引き上げてみると戻ったのですが、再び横になると同じことが起こり、フロントに問…　2026-08-15 14:08:06投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=15432\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.29,
+    "locationAverage": 4.25,
+    "roomAverage": 4.19,
+    "equipmentAverage": 4.07,
+    "bathAverage": 3.94,
+    "breakfastAverage": 4.47,
+    "dinnerAverage": 4.28,
+    "cleanlinessAverage": 4.27
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "hyogo",
+    "smallClassCode": "kobe",
+    "areaName": "神戸・有馬温泉・六甲山",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "29:30"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 139,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "モジュラージャック"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ベビーベッド"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "洗顔ソープ"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "パジャマ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "・一部のアメニティはアメニティバーでございます。"
+      },
+      {
+        "item": "・デラックスツイン、コーナーツイン、ファミリースイートのバスルームはシャワーブースがございます。"
+      },
+      {
+        "item": "・コーナーツイン、ファミリースイートはバス・トイレがセパレートです。"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "喫茶"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "結婚式場"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コネクティングルーム（一部・要予約）"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "パソコン利用可"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      },
+      {
+        "dinnerPlace": "レストラン(バイキング)"
+      }
+    ],
+    "aboutBath": [],
+    "aboutLeisure": "【甲子園】車で20分、電車で20分,ハイキング,登山,動物園,博物館,水族館,テーマパーク,美術館",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      }
+    ],
+    "linguisticLevel": "中国語：日常的な内容は問題のないスタッフが数人いる。<BR>英語：日常的な内容は問題のないスタッフが大半である。<BR>韓国語：日常的な内容は問題のないスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "・楽天スーパーポイントご利用の際の領収証発行に関しまして、ご予約頂く際の案内にはポイント利用の内訳は記載なしと表示されますが、印刷をした明細書にはシステムの都合上ポイント利用の旨が記載されます。,・地下駐車場は宿泊者の場合、24時間料金最大1,500円※ご宿泊者様はお車の途中出庫は何度でも無料で行って頂けます。途中出庫の際は、駐車券をお持ちの上フロントまでお越しください。※車高2.1Mまで,・二輪の駐車はホテルまでお問い合わせください。,・全館禁煙となります。,・2023年6月1日より連泊のお客様にはＳＤＧｓの観点からエコ清掃を行っております。 通常清掃をご希望の方は、朝11時までにフロントへお申し付けください。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の80％    <BR>前日                ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": "航空���社のマイレージは加算されませんのでご了承くださいませ。"
+  },
+  "hotelOtherInfo": {
+    "privilege": "お部屋はすべて12階以上の高層階となります。",
+    "otherInformation": "・加湿空気清浄機プラズマクラスター、Wi-Fi(無料)、全室完備。"
+  }
+}

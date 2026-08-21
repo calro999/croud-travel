@@ -1,0 +1,261 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 147618,
+    "hotelName": "永源寺温泉　八風の湯　宿「八風別館」",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D147618",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D147618%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D147618",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D147618",
+    "hotelKanaName": "えいげんじおんせん　はっぷうのゆ　やど「はっぷうべっかん」",
+    "hotelSpecial": "愛知川の自然が一望できる露天風呂とお部屋は温泉露天風呂付き客室◎館内のリフレッシュサービス多数◎",
+    "hotelMinCharge": 11000,
+    "latitude": 126265.21,
+    "longitude": 490737.73,
+    "postalCode": "527-0212",
+    "address1": "滋賀県",
+    "address2": "東近江市永源寺高野町352",
+    "telephoneNo": "0748-27-1126",
+    "faxNo": "0748-27-2226",
+    "access": "【車】名神・八日市ICより約12分　【電車】JR近江八幡駅より無料シャトルバス有り（時間限定）",
+    "parkingInformation": "有り　１００台　無料",
+    "nearestStation": "近江八幡",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147618/147618.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/147618.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147618/147618_room.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/147618.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147618/147618map.gif",
+    "reviewCount": 977,
+    "reviewAverage": 4.32,
+    "userReview": "清潔感ある部屋と温泉、接客も大満足神崎川でキャニオニングをするために近くの宿ということで選びました。全体的に清潔感があり、併設の温泉施設の大浴場や岩盤浴(無料)が利用できたり、特にお部屋は新しく綺…　2026-08-13 21:27:56投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=147618\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.3,
+    "locationAverage": 4.25,
+    "roomAverage": 4.47,
+    "equipmentAverage": 4.31,
+    "bathAverage": 4.43,
+    "breakfastAverage": 4.26,
+    "dinnerAverage": 4.38,
+    "cleanlinessAverage": 4.43
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "shiga",
+    "smallClassCode": "kotou",
+    "areaName": "彦根・近江八幡・守山・東近江",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "19:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 16,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送（無料）"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（固形）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "おふろセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "くつろぎ着の作務衣"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "※お部屋の露天風呂にはシャワーも併設しております。"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "喫茶"
+      },
+      {
+        "item": "カラオケルーム"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン"
+      },
+      {
+        "breakfastPlace": "食事処"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      },
+      {
+        "dinnerPlace": "食事処"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathType": "ジャグジー"
+      },
+      {
+        "bathType": "水風呂"
+      },
+      {
+        "bathType": "岩盤浴"
+      },
+      {
+        "bathQuality": "単純温泉"
+      },
+      {
+        "bathQuality": "低張性弱アルカリ性泉"
+      },
+      {
+        "bathBenefits": "関節痛"
+      },
+      {
+        "bathBenefits": "神経痛"
+      },
+      {
+        "bathBenefits": "冷え性"
+      }
+    ],
+    "aboutLeisure": "渓流釣り,渓流下り,登山,農業公園",
+    "handicappedFacilities": [],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "チェックインが予定時間を過ぎる場合必ずご連絡ください。,＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝,※お子様のご夕食について・・・,　　●小学生（大人料金の70％）　　大人に準じた会席料理　をご用意いたします。,　　●幼児（各設定の料金）　　お子様メニュー　をご用意いたします。,＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝,※原則お部屋の指定はできませんが、階段の上り下りが困難なお客様の場合はご連絡下さい（当館は2階建てとなります）,※日帰り利用のお客様により駐車場が一時的に満車となり、しばらくお待ちいただく場合がございます",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の70％    <BR>2日前から           ：宿泊料金の50％    <BR>3日前から           ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "OMC"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "楽天カード"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "★無料シャトルバス有"
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 30970,
+    "hotelName": "奥札幌の秘湯　湖畔の宿支笏湖　丸駒温泉旅館",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D30970",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D30970%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D30970",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D30970",
+    "hotelKanaName": "おくさっぽろのひとう　こはんのやどしこつこ　まるこまおんせんりょかん",
+    "hotelSpecial": "【2024,2025年連続アワード受賞宿】2024年リニューアル、国立公園の絶景温泉とサウナが自慢",
+    "hotelMinCharge": 10000,
+    "latitude": 154000.25,
+    "longitude": 508729.76,
+    "postalCode": "066-0287",
+    "address1": "北海道",
+    "address2": "千歳市幌美内7番地",
+    "telephoneNo": "0123-25-2341",
+    "faxNo": "0123-25-2715",
+    "access": "ＪＲ千歳駅／新千歳空港より車で５０分、札幌市内、エスコンフィールド、苫小牧港から車で６０分",
+    "parkingInformation": "駐車場は50台分ございます。料金は無料です。",
+    "nearestStation": "千歳（北海道）",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/30970/30970.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/30970.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/30970/30970_ro.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/30970.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/30970/30970map.gif",
+    "reviewCount": 896,
+    "reviewAverage": 4.4,
+    "userReview": "温泉と旅館の雰囲気が最高、朝食も満足親子3人で和室に泊まりました。部屋は狭めてでしたが、料金を考えれば仕方ないかな。風呂、館内サービスはバッチリ。朝御飯も満足のバイキングです。何より旅館の雰囲気、…　2026-08-11 17:05:07投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=30970\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.4,
+    "locationAverage": 4.58,
+    "roomAverage": 4.19,
+    "equipmentAverage": 4.18,
+    "bathAverage": 4.59,
+    "breakfastAverage": 4.36,
+    "dinnerAverage": 4.17,
+    "cleanlinessAverage": 4.34
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "hokkaido",
+    "smallClassCode": "chitose",
+    "areaName": "千歳・支笏・苫小牧・滝川・夕張・空知",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "19:30"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 55,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー(貸出)"
+      },
+      {
+        "item": "電気スタンド"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "ラウンジ"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "ルームサービス"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "炉端処"
+      },
+      {
+        "dinnerPlace": "食事処"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "炭酸水素塩泉"
+      },
+      {
+        "bathQuality": "硫酸塩泉"
+      },
+      {
+        "bathQuality": "ナトリウム・カルシウム塩化物泉"
+      },
+      {
+        "bathBenefits": "関節痛"
+      },
+      {
+        "bathBenefits": "筋肉痛"
+      },
+      {
+        "bathBenefits": "神経痛"
+      }
+    ],
+    "aboutLeisure": "年間通して楽しめるボールパーク「エスコンフィールド」まで車で60分、２月⇒支笏湖氷濤まつり,釣り,クルージング,ハイキング,トレッキング,登山,山菜取り",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "大浴場浴槽に手すりあり"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "チェックインが18:00以降の場合、必ずご連絡下さい。（夕食なしプランのお客様は20:00以降）,※2022年2月1日より全客室禁煙となります※",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の80％    <BR>3日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "デビットカード"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "大人の方１名に入湯税（１５０円）がかかります。,詳しくは丸駒温泉旅館までお問い合わせ下さい。"
+  }
+}

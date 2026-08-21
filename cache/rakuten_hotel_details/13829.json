@@ -1,0 +1,183 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 13829,
+    "hotelName": "平潟港温泉　民宿　暁園",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D13829",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D13829%26f_flg%3DPLAN",
+    "dpPlanListUrl": null,
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D13829",
+    "hotelKanaName": "あかつきえん",
+    "hotelSpecial": "お客様の声【お料理★★★★★】新鮮な魚貝類とあんこう料理が自慢！海一望のお部屋と平潟港温泉♪",
+    "hotelMinCharge": 5600,
+    "latitude": 132648.86,
+    "longitude": 506876.78,
+    "postalCode": "319-1701",
+    "address1": "茨城県",
+    "address2": "北茨城市平潟町1519-23",
+    "telephoneNo": "0293-46-5891",
+    "faxNo": "0293-46-5891",
+    "access": "北茨城ICより、六号を北に向かい、左手ローソンの交差点右折。天心の湯手前を左折。約1kmで当店/大津港駅より送迎あり",
+    "parkingInformation": "有り　２０台　無料　",
+    "nearestStation": "大津港",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13829/13829.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/13829.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13829/13829_heya.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/13829.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13829/13829map.gif",
+    "reviewCount": 611,
+    "reviewAverage": 4.38,
+    "userReview": "舟盛りが豪華で清潔、お風呂の予約制は改善希望 夕食の舟盛りは感動的な豪華さ。部屋も設備も清潔に保たれています。お風呂は大風呂と小風呂の2つで、部屋ごとに予約のマグネット札が1枚あり希望の時間帯(5…　2026-08-12 05:19:13投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=13829\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.51,
+    "locationAverage": 4.34,
+    "roomAverage": 4.28,
+    "equipmentAverage": 4.24,
+    "bathAverage": 4.27,
+    "breakfastAverage": 4.46,
+    "dinnerAverage": 4.58,
+    "cleanlinessAverage": 4.49
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "ibaragi",
+    "smallClassCode": "hitachi",
+    "areaName": "日立・北茨城・奥久慈",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "18:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 7,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "ファックス"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "ドライヤー(一部)"
+      },
+      {
+        "item": "電気スタンド"
+      },
+      {
+        "item": "ヘルスメーター"
+      },
+      {
+        "item": "石鹸（固形）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "洗顔ソープ"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "広間"
+      },
+      {
+        "dinnerPlace": "広間"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathQuality": "弱アルカリ泉"
+      },
+      {
+        "bathQuality": "食塩泉"
+      },
+      {
+        "bathQuality": "ナトリウム・カルシウム塩化物泉"
+      },
+      {
+        "bathBenefits": "関節痛"
+      },
+      {
+        "bathBenefits": "冷え性"
+      },
+      {
+        "bathBenefits": "皮膚病"
+      }
+    ],
+    "aboutLeisure": "海水浴,釣り,海釣り,ウィンドサーフィン,テニス,ゴルフ,ハイキング,遊園地,動物園,水族館,美術館,水上バス,山菜取り",
+    "handicappedFacilities": [],
+    "linguisticLevel": "中国語：少し分かるスタッフが数人いる。<BR>英語：少し分かるスタッフが数人いる。<BR>韓国語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": null,
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日10時から        ：宿泊料金の100％   <BR>3日前12時から       ：宿泊料金の50％    <BR>7日前12時から       ：宿泊料金の40％    <BR>15日前12時から      ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "利用不可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "モーニングコーヒーサービス,お部屋で緑茶サービス,将棋無料貸出",
+    "otherInformation": null
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 10789,
+    "hotelName": "感動鹿角パークホテル",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D10789",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D10789%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D10789",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D10789",
+    "hotelKanaName": "かんどうかづのぱーくほてる",
+    "hotelSpecial": "秋田県鹿角市の中心に位置し、鹿角花輪駅より徒歩5分の好立地。駐車場を無料でご利用いただけます。",
+    "hotelMinCharge": 8000,
+    "latitude": 144673.89,
+    "longitude": 506852.96,
+    "postalCode": "018-5201",
+    "address1": "秋田県",
+    "address2": "鹿角市花輪字堰向30番1",
+    "telephoneNo": "0186-22-1189",
+    "faxNo": "0186-22-1192",
+    "access": "鹿角花輪駅から徒歩5分　鹿角八幡平ICより車で7分",
+    "parkingInformation": "駐車場料金「無料」 ご宿泊のお客様はホテル正面の広々とした駐車場をご利用いただけます",
+    "nearestStation": "鹿角花輪",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/10789/10789.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/10789.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/10789/10789_room.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/10789.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/10789/10789map.gif",
+    "reviewCount": 454,
+    "reviewAverage": 4.25,
+    "userReview": "部屋のグレードアップと山々の絶景に感動お部屋をグレードアップして頂いて、広々とした落ちつきのある部屋でとてもリラックスできました。夜遅くに到着しましたが、温かみのある接客に癒されました。朝にはコー…　2026-08-08 20:10:09投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=10789\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.25,
+    "locationAverage": 4.28,
+    "roomAverage": 4.16,
+    "equipmentAverage": 4.1,
+    "bathAverage": 3.95,
+    "breakfastAverage": 4.65,
+    "cleanlinessAverage": 4.18
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "akita",
+    "smallClassCode": "odate",
+    "areaName": "大館・鹿角・十和田大湯・八幡平",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "20:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 31,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ベビーベッド"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "ナイトウェア"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "��車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [],
+    "aboutLeisure": "釣り,スキー,トレッキング,登山",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "門限は２4時となっております。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>2日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "Bank Card"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "AEON"
+      },
+      {
+        "card": "View"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": "電子マネー利用可",
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": null
+  }
+}

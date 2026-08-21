@@ -1,0 +1,262 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 69250,
+    "hotelName": "伊豆長岡温泉　湯治場　弘法の湯　本店",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D69250",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D69250%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D69250",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D69250",
+    "hotelKanaName": "いずながおかおんせん　とうじば　こうぼうのゆ　ほんてん",
+    "hotelSpecial": "四季折々に心和ます大庭園を持った和風旅館。北投石の効能あふれ、ゆっくり湯治に専念されたい方にお勧め。",
+    "hotelMinCharge": 7106,
+    "latitude": 126125.05,
+    "longitude": 500180.64,
+    "postalCode": "410-2201",
+    "address1": "静岡県",
+    "address2": "伊豆の国市古奈１１７９",
+    "telephoneNo": "055-948-2617",
+    "faxNo": "055-948-2304",
+    "access": "お車で伊豆縦貫道→伊豆中央道（長岡北ＩＣで下車）→一般道を５分位",
+    "parkingInformation": "有り　８０台　無料　予約不要",
+    "nearestStation": "伊豆長岡",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/69250/69250.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/69250.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/69250/69250_wa.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/69250.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/69250/69250map.gif",
+    "reviewCount": 684,
+    "reviewAverage": 4,
+    "userReview": "アーリーチェックインで湯治を満喫、食事も満足アーリーチェックインができ、ゆっくり湯治ができました。夕食もボリューム感があり美味しかったです。クチコミの詳細はこちらから　https://revi…　2026-08-12 04:39:38投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=69250\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 3.99,
+    "locationAverage": 3.88,
+    "roomAverage": 4.05,
+    "equipmentAverage": 3.93,
+    "bathAverage": 4.28,
+    "breakfastAverage": 3.67,
+    "dinnerAverage": 3.56,
+    "cleanlinessAverage": 4.1
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "shizuoka",
+    "smallClassCode": "naka",
+    "areaName": "伊豆長岡・修善寺・天城湯ヶ島",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "23:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 34,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー(一部)"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "ヘルスメーター"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "洗顔ソープ"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "おふろセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "岩盤浴・ミストサウナ・ラドンの湯全ての浴室に玉川温泉北投石を使用。天然ラジウムの効果が期待できます。"
+      },
+      {
+        "item": "岩盤浴・ミストサウナ・ラドンの湯全ての浴室に伊豆長岡温泉を全く循環させずにかけ流しで使用しています。"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "エステサロン"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "食事処"
+      },
+      {
+        "dinnerPlace": "食事処"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathType": "岩盤浴"
+      },
+      {
+        "bathQuality": "弱アルカリ単純泉"
+      },
+      {
+        "bathBenefits": "アトピー・湿疹"
+      },
+      {
+        "bathBenefits": "美容"
+      },
+      {
+        "bathBenefits": "腰痛"
+      }
+    ],
+    "aboutLeisure": "果物狩り,海水浴,釣り,海釣り,クルージング,ダイビング,テニス,ゴルフ,サイクリング,ハイキング,水族館,フラワーパーク,農業公園",
+    "handicappedFacilities": [
+      {
+        "item": "貸出用車椅子"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "チェックインの予定時刻が変更になる場合、お手数ですが必ずご連絡をお願い致します。,フロント営業時間：朝6時30分～夜11時迄 、セキュリーティーの為、23時には施錠致します。,緊急な場合はフロント迄ご相談下さい（受付23時迄）,館内は犬・猫・小鳥その他の動物の持ち込みはご遠慮ください。,各浴室のご利用は夜は２４時まで、翌朝は５時からとなります。（露天風呂は１０時～２２時）,ご来館時の交通手段をお知らせ下さいますようお願いいたします。,カラオケは予約制です。営業時間は10時～20時ですが、隣接する客室の利用状況によっては営業時間の変更或いは終了する事が御座います。,フロントの最終チェックイン受付は22時迄とさせて戴きます。,館内・客室は全て禁煙となっております。,0時が消灯のお時間となります。体調不良の方もおりますので、ご協力をお願い致します。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の100％   <BR>2日前から           ：宿泊料金の100％   ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "お部屋で緑茶サービス",
+    "otherInformation": "・館内は、犬、猫、小鳥、その他の動物のお持込みはご遠慮下さい。"
+  }
+}

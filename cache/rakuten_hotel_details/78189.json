@@ -1,0 +1,171 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 78189,
+    "hotelName": "黒川温泉　ふじ屋",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D78189",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D78189%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D78189",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D78189",
+    "hotelKanaName": "くろかわおんせん　ふじや",
+    "hotelSpecial": "熊本・阿蘇の旬を盛り込んだ美食を満喫。黒川温泉の中央に位置する、和の風情漂う旅館。",
+    "hotelMinCharge": 24200,
+    "latitude": 119065.89,
+    "longitude": 472119.35,
+    "postalCode": "869-2402",
+    "address1": "熊本県",
+    "address2": "阿蘇郡南小国町満願寺6541",
+    "telephoneNo": "0967-48-8117",
+    "faxNo": "0967-48-8116",
+    "access": "阿蘇駅より産交九州横断定期観光バス（要予約）に乗車、別府行きで５０分。黒川温泉下車で徒歩５分",
+    "parkingInformation": "有り　８台　無料　予約不要",
+    "nearestStation": "阿蘇",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/78189/78189.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/78189.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/78189/78189_kya.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/78189.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/78189/78189map.gif",
+    "reviewCount": 478,
+    "reviewAverage": 4.87,
+    "userReview": "家族風呂のシャワーの水圧が、、、以外は満足です。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/78189?review…　2026-08-15 18:48:05投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=78189\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.87,
+    "locationAverage": 4.9,
+    "roomAverage": 4.79,
+    "equipmentAverage": 4.78,
+    "bathAverage": 4.75,
+    "breakfastAverage": 4.82,
+    "dinnerAverage": 4.9,
+    "cleanlinessAverage": 4.82
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "kumamoto",
+    "smallClassCode": "kurokawa",
+    "areaName": "黒川温泉・杖立",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "18:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 8,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "エステ・マッサージサービス（外注・有料）"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "食事処"
+      },
+      {
+        "dinnerPlace": "食事処"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "硫酸塩泉"
+      },
+      {
+        "bathQuality": "ナトリウム塩化物泉"
+      },
+      {
+        "bathBenefits": "神経痛"
+      },
+      {
+        "bathBenefits": "皮膚病"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      }
+    ],
+    "aboutLeisure": "渓流釣り,ゴルフ,ハイキング,乗馬,登山",
+    "handicappedFacilities": [],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "■　チェックインが予定時間を過ぎる場合必ずご連絡下さい。,■　門限は２３時となります。,■　入湯税が別途必要となります（大人お１人様１５０円）。,■　宿への道は狭くわかりづらくなっております。お気軽にお尋ねください。,■　夕食開始時間は１８：００と１８：３０となります。,■　連泊は不可となります。,当施設では、ヴィーガンおよび各種ベジタリアン（ラクト・オボ・ラクトオボ）への個別対応は行っておりません。あらかじめご了承ください。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>7日前から           ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "モーニングコーヒーサービス,ウェルカムドリンクサービス",
+    "otherInformation": null
+  }
+}

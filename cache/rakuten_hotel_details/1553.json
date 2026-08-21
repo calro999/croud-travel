@@ -1,0 +1,247 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 1553,
+    "hotelName": "ホテルアベスト高知",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D1553",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D1553%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D1553",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D1553",
+    "hotelKanaName": "ほてるあべすとこうち",
+    "hotelSpecial": "≪龍馬ゆかりの地≫繁華街まで徒歩5分♪全館無線ＬＡＮ完備☆温かみあるおもてなしと最高の立地が魅力。",
+    "hotelMinCharge": 3500,
+    "latitude": 120797.02,
+    "longitude": 480764.7,
+    "postalCode": "780-0833",
+    "address1": "高知県",
+    "address2": "高知市南はりまや町1-7-14",
+    "telephoneNo": "088-885-0077",
+    "faxNo": "088-883-6585",
+    "access": "高知の中心はりまや橋電停まで徒歩3分。高速バス、はりまや橋バス乗り場徒歩3分、JR高知駅まで徒歩15分",
+    "parkingInformation": "車‥駐車料金普通車１台　800円税込/1泊。近隣契約駐車場有り　バイク１台300円　　",
+    "nearestStation": "高知",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1553/1553.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/1553.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1553/1553_sil.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/1553.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1553/1553map.gif",
+    "reviewCount": 1299,
+    "reviewAverage": 3.66,
+    "userReview": "清掃が行き届いておらず残念な室内最悪でした清掃してるのかな?部屋の隅々ホコリだらけで、冷蔵庫周りもキレイじゃないし。手洗いには最初から髪の毛ついてるし、湯沸かしポットの蓋にもホコリと髪の毛…　2026-08-10 14:13:10投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=1553\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 3.91,
+    "locationAverage": 3.79,
+    "roomAverage": 3.61,
+    "equipmentAverage": 3.53,
+    "bathAverage": 3.39,
+    "breakfastAverage": 3.63,
+    "cleanlinessAverage": 3.61
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "kouchi",
+    "smallClassCode": "kouchi",
+    "areaName": "高知・南国・香南・伊野",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "25:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 40,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "有料ビデオ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "モジュラージャック"
+      },
+      {
+        "item": "ファックス(貸出)"
+      },
+      {
+        "item": "ファックス(一部)"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "インターネット接続(一部、LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ドライヤー(貸出)"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド(一部)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "洗浄機付トイレ(一部)"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "ナイトウェア"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "■全館無料ＷＩＦＩ対応。"
+      },
+      {
+        "item": "■全館無線LANにて無料ＷＩＦＩ接続できます。"
+      },
+      {
+        "item": "■5〜7Ｆはご持参のパソコンにて有線ＬＡＮ接続も対応しております。"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [],
+    "aboutBath": [],
+    "aboutLeisure": "ビジネス＆観光に。はりまや橋に徒歩5分。交通・アクセスに最適◎,海釣り,陸上競技,遊園地,動物園,水族館,美術館",
+    "handicappedFacilities": [
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "施設スタッフによる介助・補助対応が可能"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "門限はございません、ご安心下さいませ。,商用目的と発覚した１０名以上の団体予約においてはキャンセルは１４日以前より１００％の料金が発生いたします。,2月27日のお昼12時から1時間程度で年次点検（停電）が御座いますのでご迷惑をお掛けしますが宜しくお願い致します。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "AEON"
+      },
+      {
+        "card": "JACCS"
+      },
+      {
+        "card": "LIFE"
+      },
+      {
+        "card": "ORICO"
+      },
+      {
+        "card": "楽天カード"
+      },
+      {
+        "card": "ANA"
+      },
+      {
+        "card": "JAL"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "ウェルカムドリンクサービス,着替え浴衣サービス,時間外チェックイン可",
+    "otherInformation": "従業員一同、心のこもった温かいおもてなしを心掛けております。ささやかですが長旅の疲れを癒す,お手伝いをさせて頂きます。全室120センチ幅のセミダブルベット、空気清浄機、加湿器等の,無料貸出も行なっております。繁華街、はりまや橋迄徒歩5分、24時間フロント対応、門限はございません。"
+  }
+}

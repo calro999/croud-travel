@@ -1,0 +1,289 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 11010,
+    "hotelName": "奥白馬温泉　ホテルグリーンプラザ白馬",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D11010",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D11010%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D11010",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D11010",
+    "hotelKanaName": "ぐりーんぷらざ　はくば",
+    "hotelSpecial": "白馬の大自然＆温泉＆バイキングを満喫！夏レジャー、紅葉、スキー♪オールシーズン楽しめる高原リゾート",
+    "hotelMinCharge": 11252,
+    "latitude": 132380.21,
+    "longitude": 496407.8,
+    "postalCode": "399-9422",
+    "address1": "長野県",
+    "address2": "北安曇郡小谷村千国乙12860-1",
+    "telephoneNo": "0570-097-489",
+    "faxNo": " 03-3669-2354",
+    "access": "上信越道 長野IC オリンピック道路 R148号経由90分/『南小谷駅』より無料送迎バス有り 約20分（予約制）",
+    "parkingInformation": "有り　1100台　無料！",
+    "nearestStation": "南小谷",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/11010/11010.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/11010.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/11010/11010_kan.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/11010.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/11010/11010map.gif",
+    "reviewCount": 1662,
+    "reviewAverage": 4.26,
+    "userReview": "朝晩どちらも食事が美味しくて最高!食事が朝晩どちらも美味しくて最高でしたクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voic…　2026-08-15 23:41:29投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=11010\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.24,
+    "locationAverage": 4.36,
+    "roomAverage": 4.11,
+    "equipmentAverage": 4.09,
+    "bathAverage": 4.36,
+    "breakfastAverage": 4.28,
+    "dinnerAverage": 4.3,
+    "cleanlinessAverage": 4.16
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "nagano",
+    "smallClassCode": "hakuba",
+    "areaName": "白馬・八方尾根・栂池高原・小谷",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "24:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 258,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "電気スタンド"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "リンスインシャンプー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "ビリヤード（グリーンシーズンのみ）、卓球（グリーンシーズンのみ）、マッサージ"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "ティーラウンジ"
+      },
+      {
+        "item": "多目的室"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "貸スキー"
+      },
+      {
+        "item": "貸スキーウェア"
+      },
+      {
+        "item": "貸スノーボード"
+      },
+      {
+        "item": "ゲームコーナー"
+      },
+      {
+        "item": "卓球"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "breakfastPlace": "食事処"
+      },
+      {
+        "dinnerPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "食事処"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathType": "ジャグジー"
+      },
+      {
+        "bathType": "水風呂"
+      },
+      {
+        "bathQuality": "ナトリウム炭酸水素塩泉"
+      },
+      {
+        "bathQuality": "硫酸塩泉"
+      },
+      {
+        "bathQuality": "塩化物泉"
+      },
+      {
+        "bathBenefits": "神経痛"
+      },
+      {
+        "bathBenefits": "美肌効果"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      }
+    ],
+    "aboutLeisure": "海水浴,釣り,海釣り,渓流釣り,カヌー,渓流下り,川上り,テニス,ゴルフ,パラグライダー,熱気球,サイクリング,ハイキング,スキー,乗馬,ロッククライミング,トレッキング,登山,博物館,美術館",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "大人の方のみ別途入湯税がかかります（大人1人1泊に付100円）。,幼児（食事・布団付、食事のみ、布団のみ）／3歳以上小学生未満のお子様が対象となります。※人数にカウントされます,幼児（食事・布団不要）／3歳未満のお子様が対象となります。※人数にはカウントされません,2026年6月1日以降　宿泊税　宿泊料金6000円以上対象（素���り・税別）／ 1名1泊あたり200円",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の50％    <BR>3日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "OMC"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "AEON"
+      },
+      {
+        "card": "JACCS"
+      },
+      {
+        "card": "View"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "※カラオケは当面の間、営業休止しております。"
+  }
+}

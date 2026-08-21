@@ -1,0 +1,213 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 7083,
+    "hotelName": "セントラルホテル取手",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D7083",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D7083%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D7083",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D7083",
+    "hotelKanaName": "せんとらるほてる　とりで",
+    "hotelSpecial": "駅前に立地し、繁華街にも近い都市型ビジネスホテルです。フロントは24時間対応。",
+    "hotelMinCharge": 4350,
+    "latitude": 129205.86,
+    "longitude": 504237.44,
+    "postalCode": "302-0004",
+    "address1": "茨城県",
+    "address2": "取手市取手2-4-3",
+    "telephoneNo": "0297-72-1123",
+    "faxNo": "0297-72-7788",
+    "access": "JR常磐線取手駅東口下車徒歩3分／常磐自動車道谷和原ICより25分",
+    "parkingInformation": "35台(無料、先着順)",
+    "nearestStation": "取手",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7083/7083.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/7083.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7083/7083_sig.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/7083.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7083/7083map.gif",
+    "reviewCount": 1006,
+    "reviewAverage": 3.82,
+    "userReview": "バスタブの排水が悪く、部屋の清掃も不十分バスタブの排水がスムーズに排水しない。たぶん排水の清掃ができていないのだと思います。ゴミが詰まっていて湯船のお湯が全然流れ出ていかない。部屋の中も小さいゴミ…　2026-08-11 21:15:48投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=7083\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 3.95,
+    "locationAverage": 3.86,
+    "roomAverage": 3.86,
+    "equipmentAverage": 3.79,
+    "bathAverage": 3.71,
+    "breakfastAverage": 3.72,
+    "cleanlinessAverage": 3.84
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "ibaragi",
+    "smallClassCode": "tsukuba",
+    "areaName": "つくば・土浦・取手",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "29:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 120,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "有料ビデオ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "ティーサーバー"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "ロビーに無料ＰＣあり"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "パソコン利用可"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [],
+    "aboutBath": [],
+    "aboutLeisure": "釣り,テニス,ゴルフ,サッカー,サイクリング,ハイキング,乗馬,博物館,テーマパーク,農業公園",
+    "handicappedFacilities": [],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": null,
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日15時から        ：宿泊料金の80％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": "各種優待との併用はできません。尚、海外発行のカードはご利用になれない場合がございます。",
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "フロントは２階（チェックイン・チェックアウト）です。１階、地下よりエレベーターがご利用いただけます。,※１階エレベーターをご利用の際は、階段（５段程）があります。足元にお気をつけください。,※地下エレベーターは駐車場内、一番奥になります。(１階・地下は、０時〜５時３０分は利用できません）"
+  }
+}

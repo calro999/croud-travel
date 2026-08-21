@@ -1,0 +1,202 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 10956,
+    "hotelName": "箱根芦ノ湖温泉　源泉100％の宿　ＨＯＴＥＬ　Ｒａ　Ｋｕｕｎ　(ホテルラクーン）",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D10956",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D10956%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D10956",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D10956",
+    "hotelKanaName": "ほてるらくーん",
+    "hotelSpecial": "芦ノ湖の高台にたたずむ「HOTEL RaKuun」 自分らしいステイスタイルで、芦ノ湖を遊びつくす",
+    "hotelMinCharge": 10800,
+    "latitude": 126735.86,
+    "longitude": 500547.01,
+    "postalCode": "250-0522",
+    "address1": "神奈川県",
+    "address2": "足柄下郡箱根町元箱根103-227",
+    "telephoneNo": "0460-83-6244",
+    "faxNo": "0460-83-6990",
+    "access": "箱根湯本駅→箱根町元箱根行バス３０分「双子茶屋」下車(送迎不可）／小田原厚木道路小田原西IC→国道１号で約１５km",
+    "parkingInformation": "あり　２０台(1グループ1台まで）　先着順　無料（マイクロバス等の駐車はできません）",
+    "nearestStation": "箱根湯本",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/10956/10956.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/10956.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/10956/10956_kan.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/10956.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/10956/10956map.gif",
+    "reviewCount": 586,
+    "reviewAverage": 4.03,
+    "userReview": "食事と接客は最高こちらの宿はとにかくごはんが美味しかったです。種類は多くはないけれど、それでも大満足でした。また、接客に関してもとても丁寧で心地が良かったです。こぢんまりしていて、娯楽施設など…　2026-08-15 10:04:32投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=10956\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.25,
+    "locationAverage": 3.75,
+    "roomAverage": 3.75,
+    "equipmentAverage": 3.75,
+    "bathAverage": 3.97,
+    "breakfastAverage": 4.31,
+    "dinnerAverage": 4.33,
+    "cleanlinessAverage": 3.95
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "kanagawa",
+    "smallClassCode": "hakone",
+    "areaName": "箱根",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "21:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 25,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "ビデオデッキ(貸出)"
+      },
+      {
+        "item": "インターネット接続(一部、無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "リンスインシャンプー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "食事処"
+      },
+      {
+        "dinnerPlace": "食事処"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "単純硫黄泉"
+      },
+      {
+        "bathQuality": "硫黄泉"
+      },
+      {
+        "bathBenefits": "関節痛"
+      },
+      {
+        "bathBenefits": "神経痛"
+      },
+      {
+        "bathBenefits": "リウマチ・神経病"
+      }
+    ],
+    "aboutLeisure": "釣り,渓流釣り,テニス,ゴルフ,ハイキング,登山,水族館,フラワーパーク,美術館",
+    "handicappedFacilities": [
+      {
+        "item": "客室内に洋式トイレあり"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "ご夕食付プランの場合は１８：００までにチェックインをお願いいたします。,※１８：００以降ご到着の場合、ご夕食の提供ができない場合があります。,最終チェックイン受け付けは２１：００です。,２１：００を過ぎる場合はいかなる場合もキャンセル扱いとなりご入館できかねますのでご了承ください。,お越しの際の交通手段（お車、電車）をご記入ください。※バス等の大型車不可　※電車バス公共機関利用者専用プランでは駐車場は利用できません,当日お客様と連絡がとれる電話番号（携帯電話）をお教えください。,別途お一人様１５０円の入湯税のお支払が必要です。オンライン決済ご利用のお客様は入湯税のみ現地でお支払下さい。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>2日前から           ：宿泊料金の30％    <BR>3日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "当館ではすべてのお客様に安心してご利用いただけるよう以下のバリアフリー対応を行っております。,・館内段差の移動はスタッフがサポートいたします。・車いすでのご利用の際はお気軽にお声がけください。,・筆談および代筆対応が可能です。・医療機器ご利用のお客様向けに電源タップの貸し出しがございます。"
+  }
+}

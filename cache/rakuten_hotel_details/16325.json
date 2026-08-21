@@ -1,0 +1,247 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 16325,
+    "hotelName": "貝掛温泉",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D16325",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D16325%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D16325",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D16325",
+    "hotelKanaName": "かいかけおんせん",
+    "hotelSpecial": "開湯７００年。奥湯沢の秘湯を守りつづける全国でも希少な“目”の温泉宿。",
+    "hotelMinCharge": 21800,
+    "latitude": 132728.81,
+    "longitude": 499583.01,
+    "postalCode": "949-6211",
+    "address1": "新潟県",
+    "address2": "南魚沼郡湯沢町三俣686",
+    "telephoneNo": "025-788-9911",
+    "faxNo": "025-788-9912",
+    "access": "越後湯沢駅よりバスにて25分。関越自動車道の湯沢ＩＣよりお車にて15分。",
+    "parkingInformation": "有り　５０台　無料　",
+    "nearestStation": "越後湯沢",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/16325/16325.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/16325.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/16325/16325_rm.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/16325.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/16325/16325map.gif",
+    "reviewCount": 311,
+    "reviewAverage": 4.68,
+    "userReview": "スタッフの笑顔と美味しいお食事に大満足まず、スタッフの笑顔がとても好印象でした!お宿はお風呂もお食事処も清潔感があり、落ち着いた雰囲気。帳場の調度品も懐かしい物もありました。…　2026-08-14 21:40:17投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=16325\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.68,
+    "locationAverage": 4.71,
+    "roomAverage": 4.65,
+    "equipmentAverage": 4.53,
+    "bathAverage": 4.74,
+    "breakfastAverage": 4.59,
+    "dinnerAverage": 4.45,
+    "cleanlinessAverage": 4.58
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "niigata",
+    "smallClassCode": "yuzawa",
+    "areaName": "越後湯沢・苗場",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "14:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "18:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 21,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "ファックス(貸出)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "電気スタンド"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "エクステンションベッド"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "おふろセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "ラウンジ"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "個室"
+      },
+      {
+        "breakfastPlace": "食事処"
+      },
+      {
+        "dinnerPlace": "個室"
+      },
+      {
+        "dinnerPlace": "食事処"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "ナトリウム・カルシウム塩化物泉"
+      },
+      {
+        "bathBenefits": "アトピー・湿疹"
+      },
+      {
+        "bathBenefits": "神経痛"
+      },
+      {
+        "bathBenefits": "火傷"
+      }
+    ],
+    "aboutLeisure": "渓流釣り,ゴルフ,ハイキング,スキー,トレッキング,登山,フラワーパーク,山菜取り",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "客室内トイレに手すりあり"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "大人のみ別途入湯税150円かかります。,2016年4月1日より全客室禁煙となります。,楽天トラベルからのご予約に関しましては、日本秘湯を守る会スタンプ帳の押印は対象外となります。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の50％    <BR>前日                ：宿泊料金の40％    <BR>2日前から           ：宿泊料金の30％    <BR>3日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "将棋無料貸出,囲碁無料貸出",
+    "otherInformation": null
+  }
+}

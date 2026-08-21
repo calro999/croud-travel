@@ -1,0 +1,248 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 172611,
+    "hotelName": "ハレクラニ沖縄",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D172611",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D172611%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D172611",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D172611",
+    "hotelKanaName": "はれくらに　おきなわ",
+    "hotelSpecial": "ハワイで育まれたラグジュアリーリゾート「ハレクラニ」が沖縄に誕生",
+    "hotelMinCharge": 36021,
+    "latitude": 95480.43,
+    "longitude": 460529.26,
+    "postalCode": "904-0401",
+    "address1": "沖縄県",
+    "address2": "国頭郡恩納村名嘉真1967-1",
+    "telephoneNo": "098-953-8600",
+    "faxNo": "098-953-8601",
+    "access": "那覇空港よりお車にて約７５分",
+    "parkingInformation": "1泊1台につき3,000円　",
+    "nearestStation": "那覇空港",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/172611/172611.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/172611.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/172611/172611_kan1.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/172611.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/172611/172611map.gif",
+    "reviewCount": 699,
+    "reviewAverage": 4.81,
+    "userReview": "落とし物が見つからず気がかりなまま帰宅落とし物が見つからなかった事だけが気がかりです...クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/h…　2026-08-15 16:53:31投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=172611\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.86,
+    "locationAverage": 4.79,
+    "roomAverage": 4.84,
+    "equipmentAverage": 4.84,
+    "bathAverage": 4.74,
+    "breakfastAverage": 4.79,
+    "cleanlinessAverage": 4.87
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "okinawa",
+    "smallClassCode": "hokubu",
+    "areaName": "恩納・名護・本部・今帰仁",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "12:00",
+    "lastCheckinTime": "24:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 360,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送"
+      },
+      {
+        "item": "衛星放送（無料）"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（固形）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "入浴剤"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "バスローブ"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "パジャマ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "全室Bluetoothスピーカー・コーヒーマシン・ビーチパーカー・ビーチサンダル・"
+      },
+      {
+        "item": "パーソナルスリッパ完備"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "バーラウンジ"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "エステサロン"
+      },
+      {
+        "item": "スポーツジム"
+      },
+      {
+        "item": "プール(夏期のみ)"
+      },
+      {
+        "item": "プール(通年)"
+      },
+      {
+        "item": "屋外プール"
+      },
+      {
+        "item": "テニスコート"
+      },
+      {
+        "item": "バーベキューガーデン"
+      },
+      {
+        "item": "コネクティングルーム（一部・要予約）"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "ルームサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン"
+      },
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [],
+    "aboutLeisure": "海水浴,釣り,海釣り,クルージング,ダイビング,ウォータースポーツ,ゴルフ,乗馬,水族館",
+    "handicappedFacilities": [
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "車椅子利用者用客室あり"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "　",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>3日前から           ：宿泊料金の50％    <BR>7日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": null
+  }
+}

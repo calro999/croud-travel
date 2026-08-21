@@ -1,0 +1,244 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 108140,
+    "hotelName": "奥日光湯元温泉　湯元板屋",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D108140",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D108140%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D108140",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D108140",
+    "hotelKanaName": "おくにっこうゆもとおんせん　ゆもと　いたや",
+    "hotelSpecial": "温泉クチコミ★4.8！日本で4番目に濃いといわれてる源泉かけ流しの乳白色のにごり湯が自慢の温泉宿",
+    "hotelMinCharge": 20600,
+    "latitude": 132492.72,
+    "longitude": 501944.26,
+    "postalCode": "321-1662",
+    "address1": "栃木県",
+    "address2": "日光市湯元2530",
+    "telephoneNo": "0288-62-2131",
+    "faxNo": "0288-62-2575",
+    "access": "東武日光駅／ＪＲ　日光駅より湯元行き東武バスに乗車８０分。終点湯元バス停で下車し徒歩３分",
+    "parkingInformation": "有り　２０台　無料　予約不要",
+    "nearestStation": "東武日光",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108140/108140.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/108140.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108140/108140_kya.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/108140.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108140/108140map.gif",
+    "reviewCount": 169,
+    "reviewAverage": 4.51,
+    "userReview": "食事と温泉が最高、鹿にも会えて大満足昨年に引き続き7月31日に1泊しました。食事、温泉言う事なしです。風呂の外に鹿がいました。今回は誕生日なのでステーキを別注しました。最高でした。また来年伺い…　2026-08-08 18:33:25投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=108140\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.59,
+    "locationAverage": 4.4,
+    "roomAverage": 4.31,
+    "equipmentAverage": 4.23,
+    "bathAverage": 4.63,
+    "breakfastAverage": 4.4,
+    "dinnerAverage": 4.55,
+    "cleanlinessAverage": 4.44
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "tochigi",
+    "smallClassCode": "nikko",
+    "areaName": "日光・中禅寺湖・奥日光・今市",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "18:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 24,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（固形）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "喫茶"
+      },
+      {
+        "item": "バー"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン"
+      },
+      {
+        "breakfastPlace": "広間"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      },
+      {
+        "dinnerPlace": "広間"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "硫黄泉"
+      },
+      {
+        "bathBenefits": "アトピー・湿疹"
+      },
+      {
+        "bathBenefits": "美肌効果"
+      },
+      {
+        "bathBenefits": "リウマチ・神経病"
+      }
+    ],
+    "aboutLeisure": "釣り,ハイキング,スキー,クロスカントリー,登山",
+    "handicappedFacilities": [
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      },
+      {
+        "item": "施設スタッフによる介助・補助対応が可能"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "チェックインが予定時刻より遅れる場合必ずご連絡下さい。,入湯税が別途必要です。（お一人様１５０円）",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の80％    <BR>2日前から           ：宿泊料金の50％    <BR>5日前から           ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "楽天カード"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "将棋無料貸出,麻雀無料貸出,囲碁無料貸出",
+    "otherInformation": null
+  }
+}

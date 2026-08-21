@@ -1,0 +1,162 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 7719,
+    "hotelName": "南紀勝浦　湯川温泉　恵比須屋＜和歌山県＞",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D7719",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D7719%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D7719",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D7719",
+    "hotelKanaName": "なんきかつうら　ゆかわおんせん　えびすや＜わかやま＞",
+    "hotelSpecial": "無色透明なめらかなイオウ泉　家族でもてなし新鮮魚料理",
+    "hotelMinCharge": 4250,
+    "latitude": 121009,
+    "longitude": 489348.01,
+    "postalCode": "649-5336",
+    "address1": "和歌山県",
+    "address2": "東牟婁郡那智勝浦町湯川1065",
+    "telephoneNo": "0735-52-0318",
+    "faxNo": "0735-52-6671",
+    "access": "車で国道４２号線より５０ｍ中に入った所",
+    "parkingInformation": "有り　１０台　無料",
+    "nearestStation": "湯川",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7719/7719.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/7719.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7719/7719_heya.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/7719.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7719/7719map.gif",
+    "reviewCount": 81,
+    "reviewAverage": 3.56,
+    "userReview": "温泉良いロケーションは元々窓側が駐車場側だったので。とても古くからの旅館という印象なので設備や環境、清潔さなどは評価しません(^^)温泉が人肌程度の温度夏でも入れる温泉なんですと、…　2026-07-28 11:49:23投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=7719\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 3.38,
+    "locationAverage": 3.5,
+    "roomAverage": 3.44,
+    "equipmentAverage": 3.25,
+    "bathAverage": 4.33,
+    "breakfastAverage": 3.88,
+    "dinnerAverage": 4.38,
+    "cleanlinessAverage": 2.93
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "wakayama",
+    "smallClassCode": "Katsuura",
+    "areaName": "勝浦・串本・すさみ",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "09:00",
+    "lastCheckinTime": "20:30"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 11,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "Wi-Fi"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "個室"
+      },
+      {
+        "breakfastPlace": "広間"
+      },
+      {
+        "dinnerPlace": "個室"
+      },
+      {
+        "dinnerPlace": "広間"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "単純温泉"
+      },
+      {
+        "bathQuality": "硫黄泉"
+      },
+      {
+        "bathBenefits": "美肌効果"
+      },
+      {
+        "bathBenefits": "腰痛"
+      },
+      {
+        "bathBenefits": "リウマチ・神経病"
+      }
+    ],
+    "aboutLeisure": "近くにゆかし潟（入り江）があり熊野古道を散歩する事が出来ます。約３０〜４０分位,海水浴,釣り,海釣り,ゴルフ",
+    "handicappedFacilities": [],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "（注）日本語で意思疎通が出来ない外国の方は宿泊拒否しています。翻訳アプリ等の使用は不可ですので日本語で口頭応対���来ない場合は宿泊出来ません。,（注）外国の方へ、翻訳アプリでの対応はしておりません。,（注）翻訳アプリで使用で会話が出来てもそれは会話とは認めません。,（注）外国の方へ、日本語で口頭対応にて意思疎通が出来ない人は受け付けておりませんので気を付けてください。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の70％    <BR>5日前から           ：宿泊料金の50％    ",
+    "availableCreditCard": [
+      {
+        "card": "利用不可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "将棋無料貸出,囲碁無料貸出",
+    "otherInformation": "お料理は、季節・料金によって異なってまいります。"
+  }
+}

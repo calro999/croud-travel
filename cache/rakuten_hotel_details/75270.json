@@ -1,0 +1,262 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 75270,
+    "hotelName": "ホテル　ナトゥールヴァルト富良野",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D75270",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D75270%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D75270",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D75270",
+    "hotelKanaName": "なとぅーるヴぁるとふらの",
+    "hotelSpecial": "富良野の女性と子どもに優しい宿♪心が温かくなる接客・富良野スキー場目の前",
+    "hotelMinCharge": 8250,
+    "latitude": 156024.22,
+    "longitude": 512512.26,
+    "postalCode": "076-0034",
+    "address1": "北海道",
+    "address2": "富良野市北の峰町14-46",
+    "telephoneNo": "0167-22-1211",
+    "faxNo": "0167-22-1212",
+    "access": "車札幌から約3時間、旭川・旭山動物園から約1時間/旭川空港 富良野バス（旭川-富良野駅）で1時間",
+    "parkingInformation": "有り（もちろんハイルーフ車もOK）　無料　予約不要",
+    "nearestStation": "富良野",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/75270/75270.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/75270.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/75270/75270_room.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/75270.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/75270/75270map.gif",
+    "reviewCount": 1376,
+    "reviewAverage": 4.16,
+    "userReview": "子どもの急な発熱に献身的な対応で感謝1歳の子どもが夜中に急な発熱をした際、スタッフの皆さまには献身的にご対応いただき、病院の手配から細やかなケアまでしていただきました。おかげさまで安心して宿泊でき…　2026-08-11 19:50:43投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=75270\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.18,
+    "locationAverage": 4.06,
+    "roomAverage": 3.95,
+    "equipmentAverage": 4.04,
+    "bathAverage": 3.83,
+    "breakfastAverage": 4.41,
+    "dinnerAverage": 4.43,
+    "cleanlinessAverage": 3.93
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "hokkaido",
+    "smallClassCode": "furano",
+    "areaName": "富良野・美瑛・トマム",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "22:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 81,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送"
+      },
+      {
+        "item": "ファックス(貸出)"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "変圧器（貸出）"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ベビーベッド"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "リンスインシャンプー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "くつろぎ着の作務衣"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "富良野・美瑛・旭川・中富良野・上富良野・ウェルカムベビー・ファミリー・キッズコーナー・ゲレ近"
+      },
+      {
+        "item": "誕生日、ウェルカムベビー、赤ちゃん歓迎、家族旅行、アンパンマン、マタニティ、北の国から・いくら"
+      },
+      {
+        "item": "各車　富良野駅10分・旭川空港60分・旭山動物園90分・美瑛青い池45分・富良野スキー場徒歩3分"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "貸スキー"
+      },
+      {
+        "item": "貸スキーウェア"
+      },
+      {
+        "item": "貸スノーボード"
+      },
+      {
+        "item": "貸自転車"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン"
+      },
+      {
+        "breakfastPlace": "広間"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      },
+      {
+        "dinnerPlace": "食事処"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "人工温泉"
+      },
+      {
+        "bathQuality": "光明石温泉"
+      },
+      {
+        "bathBenefits": "肩凝り"
+      },
+      {
+        "bathBenefits": "冷え性"
+      },
+      {
+        "bathBenefits": "リウマチ・神経病"
+      }
+    ],
+    "aboutLeisure": "富良野スキー場、富良野ゴルフコース、アンパンマン、旭山動物園、旭川空港、札幌、新千歳空港・北の国から,テニス,ゴルフ,熱気球,サイクリング,ハイキング,スキー,乗馬,動物園,フラワーパーク,テーマパーク,美術館",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      }
+    ],
+    "linguisticLevel": "中国語：少し分かるスタッフが数人いる。<BR>英語：少し分かるスタッフが数人いる。<BR>韓国語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "ご宿泊料金によりお一人様1泊300円又は500円の宿泊税をホテルにてご精算頂きます。,ご登録いただいたチェックイン時間は目安でございます。当日多少時間が前後されても問題はございません。,　　",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>2日前から           ：宿泊料金の50％    <BR>7日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "楽天カード"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": "■アパ パートナーホテルズ加盟店■〜アパポイントがどんどん貯まる〜 還元率は1％です。",
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "女性用スキンローション、スキンミルク、クレンジングオイル・赤ちゃん用ボディソープ貸出,ウェルカムドリンクサービス,時間外チェックイン可,時間外��ェックアウト可",
+    "otherInformation": "旭川市博物館、吹き上げ温泉、芦別、雲海・ウェルカムベビー・赤ちゃん歓迎・四季彩の丘・青い池・卒業旅行,ファーム富田、麓郷（北の国から）、フラノマルシェ、十勝岳温泉、大雪山、旭岳・旭川空港・紅葉・家族旅行,旭川ラーメン村、ラベンダー、北海へそ祭り、ラフティング、ニングルテラス、富良野スキー場、旭山動物園"
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 69244,
+    "hotelName": "磐梯熱海温泉　あたたかい記憶が宿る　守田屋",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D69244",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D69244%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D69244",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D69244",
+    "hotelKanaName": "ばんだいあたみおんせん　あたたかいきおくがやどる　もりたや",
+    "hotelSpecial": "源泉掛け流し100％の露天風呂付客室★料理評価は抜群★リピーターが足繁く通う大人の隠れ宿！",
+    "hotelMinCharge": 20700,
+    "latitude": 134943.93,
+    "longitude": 504955.56,
+    "postalCode": "963-1309",
+    "address1": "福島県",
+    "address2": "郡山市熱海町5-271",
+    "telephoneNo": "024-984-2620",
+    "faxNo": "024-984-2384",
+    "access": "磐越西線　磐梯熱海駅よりタクシー３分「送迎なし」／磐越自動車道　磐梯熱海ＩＣより車で１０分",
+    "parkingInformation": "有り　１５台　無料　予約不要",
+    "nearestStation": "磐梯熱海",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/69244/69244.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/69244.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/69244/69244_kan.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/69244.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/69244/69244map.gif",
+    "reviewCount": 283,
+    "reviewAverage": 4.53,
+    "userReview": "食事は楽しめたが、すだれの交換を希望楽しい食事をさせてもらいました。すだれは交換した方がいいとおもいます。クチコミの詳細はこちらから　https://review.travel.rakut…　2026-08-10 12:41:13投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=69244\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.56,
+    "locationAverage": 4.34,
+    "roomAverage": 4.41,
+    "equipmentAverage": 4.39,
+    "bathAverage": 4.58,
+    "breakfastAverage": 4.57,
+    "dinnerAverage": 4.58,
+    "cleanlinessAverage": 4.52
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "hukushima",
+    "smallClassCode": "koriyama",
+    "areaName": "郡山・磐梯熱海",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "18:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 10,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送"
+      },
+      {
+        "item": "衛星放送（無料）"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー(一部)"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "ルームサービス"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "個室"
+      },
+      {
+        "breakfastPlace": "食事処"
+      },
+      {
+        "dinnerPlace": "個室"
+      },
+      {
+        "dinnerPlace": "食事処"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "アルカリ単純泉"
+      },
+      {
+        "bathBenefits": "冷え性"
+      },
+      {
+        "bathBenefits": "慢性消化器病"
+      },
+      {
+        "bathBenefits": "リウマチ・神経病"
+      }
+    ],
+    "aboutLeisure": "釣り,渓流釣り,テニス,ゴルフ,サイクリング,ハイキング,スキー,スケート,登山,美術館",
+    "handicappedFacilities": [
+      {
+        "item": "客室内に洋式トイレあり"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "入湯税が別途必要です。（お一人様１５０円）,クレジットカードは、VISA、MasterCard、JCB、 Amex、Diners決済可能です。※現地決済のみになります。事前カード決済は行っておりません,最寄り駅への送迎サービス等は、コロナウイルスの影響で廃止させて頂きました。地元タクシー会社を是非ご利用いただければ幸いです。,当館では、大浴場はございません。貸切露天風呂・貸切風呂のみになります。※２０２４年６月１日より全室禁煙になります。ご了承くださいませ,■一部のアレルギー対応・一部の食材変更は、宿泊日４日前までにご相談下さい。,原材料「一例、小麦・卵・調味料・魚介類全般・出汁等」や複数の食材・大幅な献立変更、調理法等は、対応出来ません。また誠に申し訳ございませんが、アレルギー専用のお食事はご用意しておりません。,■当館は、大人の方がゆったりとお寛ぎいただける宿を目指しております。誠に申し訳ございませんが、ご利用は12歳以上のお客様とさせていただいております。,■当館は、バリアフリー対応ではございません。川沿いの傾斜地に立っている為、誠に申し訳ございませんがエレベーター施設は設置できません,館内は、階段・段差が多くございます。客室・食事処・貸切風呂の移動はすべて階段移動になります。ご理解のほどよろしくお願いいたします,誠に恐れ入りますが、館内準備の都合により、午前10時から午後3時までの間のご入館は固くご遠慮いただいております。何卒ご理解とご協力を賜りますよう、お願い申し上げます。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の70％    <BR>前日                ：宿泊料金の50％    <BR>14日前から          ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "Master Card"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": null
+  }
+}

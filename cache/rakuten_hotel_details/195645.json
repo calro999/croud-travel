@@ -1,0 +1,178 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 195645,
+    "hotelName": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＶＩＬＬＡ　草津温泉",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D195645",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D195645%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D195645",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D195645",
+    "hotelKanaName": null,
+    "hotelSpecial": "日本の名湯 草津温泉 万代鉱源泉をゆったりとしたヴィラで贅沢に満喫。",
+    "hotelMinCharge": 8000,
+    "latitude": 131856.23,
+    "longitude": 498952.06,
+    "postalCode": "377-1711",
+    "address1": "群馬県",
+    "address2": "吾妻郡草津町草津745　Rakuten STAY VILLA 草津温泉",
+    "telephoneNo": "050-1750-9719",
+    "faxNo": "00-0000-0000",
+    "access": "草津温泉バスターミナルより車で6分／湯畑から車で5分",
+    "parkingInformation": "あり（無料24台／うち2台はEV充電用 ※別途充電代有料）",
+    "nearestStation": "長野原草津口",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/195645/195645.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/195645.jpg",
+    "roomImageUrl": null,
+    "roomThumbnailUrl": null,
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/195645/195645map.gif",
+    "reviewCount": 27,
+    "reviewAverage": 4.3,
+    "userReview": "清潔感があり、有意義な時間を過ごせた清潔感があり、とっても有意義な時間が過ごせました。また利用したいです。クチコミの詳細はこちらから　https://review.travel.rakuten…　2026-07-29 17:30:58投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=195645\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.19,
+    "locationAverage": 4,
+    "roomAverage": 4.52,
+    "equipmentAverage": 4.42,
+    "bathAverage": 4.42,
+    "breakfastAverage": 3.57,
+    "dinnerAverage": 4.4,
+    "cleanlinessAverage": 4.56
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "gunma",
+    "smallClassCode": "kusatsu",
+    "areaName": "草津温泉・白根",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "22:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 17,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "ナイトウェア"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "※部屋によって設備が変わる場合がございます。あらかじめ宿泊施設へご確認ください。"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "ペット同宿可"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "部屋"
+      },
+      {
+        "dinnerPlace": "部屋"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "酸性"
+      },
+      {
+        "bathQuality": "塩化物硫酸塩泉"
+      },
+      {
+        "bathBenefits": "アトピー・湿疹"
+      },
+      {
+        "bathBenefits": "神経痛"
+      },
+      {
+        "bathBenefits": "冷え性"
+      }
+    ],
+    "aboutLeisure": "ハイキング,スキー,トレッキング,登山",
+    "handicappedFacilities": [
+      {
+        "item": "客室内に洋式トイレあり"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "【入室】玄関の解錠番号は、ご宿泊の前日までにメールにてご案内いたします。前日の正午までにご滞在時の案内メールが届かない場合、カスタマーセンターへご連絡をお願いいたします。,【チェックイン】無人チェックインのため、備考欄へ【当日連絡のつく電話番号とメールアドレス、チェックイン時間】を必ずご記入ください。備考欄へのご記載のない場合、セルフチェックイン手続きができません。,【チェックイン】お部屋内にある「タブレット端末」でチェックイン手続きを行っていただきます。,【チェックイン】ご到着予定時刻を過ぎる場合でも、必ずタブレットでのチェックイン作業をお願いします。,【ご注意】敷地内は火気厳禁です。※手持ちを含め花火は固くお断りいたします。,【ご注意】21時以降は音量をお控えいただくようご協力お願いいたします。,【ご注意】連泊時は客室清掃が入りませんので、予めご了承ください。,【未成年者の宿泊】18歳未満の未成年者のみでのご宿泊は承ることができません。予めご了承ください。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>4日前から           ：宿泊料金の100％   ",
+    "availableCreditCard": [
+      {
+        "card": "利用不可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "ウェルカムドリンクサービス",
+    "otherInformation": "楽天ステイ"
+  }
+}

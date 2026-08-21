@@ -1,0 +1,236 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 5552,
+    "hotelName": "武雄温泉　大正浪漫の宿　京都屋",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D5552",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D5552%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D5552",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D5552",
+    "hotelKanaName": "たけおおんせん　たいしょうろまんのやど　きょうとや",
+    "hotelSpecial": "古き良き大正時代を思わせる宿。無料モーニングサービスあり。25年6月男女大浴場にドライサウナ新設",
+    "hotelMinCharge": 6480,
+    "latitude": 119486.8,
+    "longitude": 468067.28,
+    "postalCode": "843-0022",
+    "address1": "佐賀県",
+    "address2": "武雄市武雄町大字武雄7266-7 ",
+    "telephoneNo": "050-3528-0933",
+    "faxNo": "0977-76-8070",
+    "access": "JR佐世保線武雄温泉駅下車徒歩8分",
+    "parkingInformation": "有り　60台　無料",
+    "nearestStation": "武雄温泉",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5552/5552.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/5552.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5552/5552_heya.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/5552.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5552/5552map.gif",
+    "reviewCount": 471,
+    "reviewAverage": 4.29,
+    "userReview": "妙に落ち着く空間と最高の温泉に大満足妙に落ち着く素晴らしい宿。温泉も最高でした。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/…　2026-08-05 08:11:56投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=5552\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.36,
+    "locationAverage": 4.28,
+    "roomAverage": 4.21,
+    "equipmentAverage": 4.09,
+    "bathAverage": 4.35,
+    "cleanlinessAverage": 4.31
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "saga",
+    "smallClassCode": "ureshino",
+    "areaName": "嬉野・武雄・伊万里・有田・太良",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "22:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 30,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "洗浄機付トイレ(一部)"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "ダイニングルーム"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "水風呂"
+      },
+      {
+        "bathQuality": "アルカリ単純泉"
+      },
+      {
+        "bathBenefits": "筋肉痛"
+      },
+      {
+        "bathBenefits": "美肌効果"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      }
+    ],
+    "aboutLeisure": "ハウステンボス,テニス,ゴルフ,スキー,乗馬,登山,陸上競技,テーマパーク",
+    "handicappedFacilities": [
+      {
+        "item": "貸出用車椅子"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "当日のキャンセルは宿泊料の100％をいただきます。,入湯税１５０円（大人のみ）が別途かかります。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "Bank Card"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "JTB"
+      },
+      {
+        "card": "デビットカード"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": null
+  }
+}

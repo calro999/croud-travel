@@ -1,0 +1,250 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 108257,
+    "hotelName": "稲佐山温泉　ホテルアマンディ　〜長崎の日本三大夜景を一望〜",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D108257",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D108257%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D108257",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D108257",
+    "hotelKanaName": "いなさやまおんせん　ほてるあまんでぃ",
+    "hotelSpecial": "日本三大夜景を一望！100％源泉の露天風呂や岩盤浴が人気のリゾートホテル。駐車場無料・Wi-Fi完備",
+    "hotelMinCharge": 4000,
+    "latitude": 117896.13,
+    "longitude": 467494.23,
+    "postalCode": "852-8008",
+    "address1": "長崎県",
+    "address2": "長崎市曙町39-38",
+    "telephoneNo": "095-862-5555",
+    "faxNo": "095-862-4687",
+    "access": "JR長崎駅からお車で7分。長崎バス5番系統「稲佐山」または「稲佐山中腹」行きバス乗車　無料送迎バス有",
+    "parkingInformation": "有り　１２０台　無料　予約不要",
+    "nearestStation": "長崎（長崎）",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108257/108257.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/108257.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108257/108257_ky1.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/108257.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108257/108257map.gif",
+    "reviewCount": 701,
+    "reviewAverage": 4,
+    "userReview": "クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/108257?reviewId=33123478877536　2026-08-15 23:03:04投稿"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.03,
+    "locationAverage": 4.19,
+    "roomAverage": 3.91,
+    "equipmentAverage": 3.78,
+    "bathAverage": 4.06,
+    "breakfastAverage": 3.93,
+    "dinnerAverage": 3.97,
+    "cleanlinessAverage": 3.94
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "nagasaki",
+    "smallClassCode": "nagasaki",
+    "areaName": "長崎",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "23:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 19,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "インターネット接続(LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "石鹸（固形）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "パジャマ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "電話（内線のみ）"
+      },
+      {
+        "item": "ビリヤード、卓球、コミック"
+      },
+      {
+        "item": "全客室禁煙"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "エステサロン"
+      },
+      {
+        "item": "ゲームコーナー"
+      },
+      {
+        "item": "卓球"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "パソコン利用可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathType": "ジャグジー"
+      },
+      {
+        "bathType": "水風呂"
+      },
+      {
+        "bathType": "岩盤浴"
+      },
+      {
+        "bathQuality": "ラジウム温泉"
+      },
+      {
+        "bathBenefits": "痔"
+      },
+      {
+        "bathBenefits": "冷え性"
+      },
+      {
+        "bathBenefits": "腰痛"
+      }
+    ],
+    "aboutLeisure": "ハイキング,登山",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "入湯税が別途必要です。（お一人様１５０円）,長崎市条例により2023年4月1日から1人1泊当り宿泊税（10000円未満：100円、10000円以上20000円未満：200円、20000円以上500円）別途頂きます。,全客室禁煙,■最終チェックイン時刻 23：00 ※23:00を過ぎてご連絡がない場合はキャンセル扱いとさせて頂きます。,【改修工事のお知らせ】館内の安全性・快適性向上のため、2026年6月～2027年3月（予定）に外壁および館内の改修工事を実施いたします。,期間中は足場設置に伴い、一部客室・浴室・レストランにおいて景観が見えにくい場合がございます。ご不便をおかけいたしますが、何卒ご理解賜りますようお願い申し上げます。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>2日前から           ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "JR長崎駅から車5分。電車でお越しのお客様も長崎駅発の無料送迎バスあり。,極上スパリゾートバリ島をイメージした露天風呂などをご用意。人気のサウナもございます。,※バリアフリー対応ではないため、お部屋のユニットバス登り口には、段差がございます。"
+  }
+}

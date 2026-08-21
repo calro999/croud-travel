@@ -1,0 +1,198 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 28629,
+    "hotelName": "菊池温泉　旅館　宝来館＜熊本県＞",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D28629",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D28629%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D28629",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D28629",
+    "hotelKanaName": "ほうらいかん",
+    "hotelSpecial": "ペット可♪菊池温泉の中心部。天然温泉掛流しお湯には自信有。アットホームなおもてなしを心掛けております",
+    "hotelMinCharge": 7000,
+    "latitude": 118729.79,
+    "longitude": 470946.04,
+    "postalCode": "861-1331",
+    "address1": "熊本県",
+    "address2": "菊池市隈府1124",
+    "telephoneNo": "0968-25-2703",
+    "faxNo": "0968-24-5679",
+    "access": "ＪＲ熊本駅～熊本電鉄バスで１時間、終点「菊池温泉」より１００ｍ",
+    "parkingInformation": "有り　１２台　無料",
+    "nearestStation": "熊本",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28629/28629.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/28629.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28629/28629_r.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/28629.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28629/28629map.gif",
+    "reviewCount": 68,
+    "reviewAverage": 4.28,
+    "userReview": "他の画像やクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/28629?reviewId=33123478874584　2026-08-15 20:47:01投稿"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.39,
+    "locationAverage": 3.94,
+    "roomAverage": 4.06,
+    "equipmentAverage": 3.94,
+    "bathAverage": 4.44,
+    "breakfastAverage": 4.29,
+    "dinnerAverage": 4.29,
+    "cleanlinessAverage": 4
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "kumamoto",
+    "smallClassCode": "kikuchi",
+    "areaName": "大津・玉名・山鹿・荒尾・菊池",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "16:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "20:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 10,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫(一部)"
+      },
+      {
+        "item": "ドライヤー(貸出)"
+      },
+      {
+        "item": "カセットデッキ(貸出)"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "湯沸かしポット(貸出)"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "ペット同宿可"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "ルームサービス"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "部屋"
+      },
+      {
+        "breakfastPlace": "個室"
+      },
+      {
+        "dinnerPlace": "部屋"
+      },
+      {
+        "dinnerPlace": "個室"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "弱アルカリ単純泉"
+      },
+      {
+        "bathBenefits": "関節痛"
+      },
+      {
+        "bathBenefits": "冷え性"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      }
+    ],
+    "aboutLeisure": "渓流釣り,テニス,ゲートボール,ゴルフ,サッカー,ハイキング,トレッキング,登山,陸上競技,フラワーパーク,農業公園,栗拾い,山菜取り",
+    "handicappedFacilities": [],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "入湯税が別途必要です。（お一人様１５０円）,チェックインが１８：００以降の場合は、必ずご連絡下さい。,ご到着が21：30以降になった場合はキャンセル扱いとなりますのでご注意下さい。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "JTB"
+      },
+      {
+        "card": "デビットカード"
+      }
+    ],
+    "aboutCreditCardNote": "Paypayご利用になれます。",
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "モーニングコーヒーサービス",
+    "otherInformation": null
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 130169,
+    "hotelName": "ホテルリソルトリニティ博多",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D130169",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D130169%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D130169",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D130169",
+    "hotelKanaName": "ほてるりそるとりにてぃはかた",
+    "hotelSpecial": "中洲川端駅徒歩1分、展望大浴場のある“くつろぎ”のホテル誕生。",
+    "hotelMinCharge": 7000,
+    "latitude": 120922.52,
+    "longitude": 469470.19,
+    "postalCode": "810-0801",
+    "address1": "福岡県",
+    "address2": "福岡市博多区中洲4-4-10",
+    "telephoneNo": "092-282-9269",
+    "faxNo": "092-282-9279",
+    "access": "地下鉄　中洲川端駅から徒歩で１分■①番出口（階段のみ）■④番出口（エスカレータ・EVあり）",
+    "parkingInformation": "有り　機械式駐車場２２台／青空駐車場６台　１，６００円（税込／泊）※ご予約制ではなく先着順となります",
+    "nearestStation": "中洲川端",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/130169/130169.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/130169.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/130169/130169_kan.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/130169.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/130169/130169map.gif",
+    "reviewCount": 2723,
+    "reviewAverage": 4.41,
+    "userReview": "タオルの汚れと冷蔵庫の水浸しが残念フロントスタッフの対応、部屋の見かけはよかったのですが、部屋に置いてあるバスタオル、フェイスタオルのほとんどに髪の毛や汚れが付着していました。バスタオルはベッ…　2026-08-15 23:11:31投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=130169\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.4,
+    "locationAverage": 4.38,
+    "roomAverage": 4.41,
+    "equipmentAverage": 4.36,
+    "bathAverage": 4.37,
+    "breakfastAverage": 4.28,
+    "cleanlinessAverage": 4.45
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "hukuoka",
+    "smallClassCode": "seibu",
+    "areaName": "天神・中洲・薬院・福岡ドーム・糸島",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "24:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 287,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(LAN形式)"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "電気スタンド(一部)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "パジャマ"
+      },
+      {
+        "item": "電子レンジ（一部・要予約）"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "電話（内線のみ）"
+      },
+      {
+        "item": "客室・ロビーでのＷｉ-Ｆｉ利用可能（無料）"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "バー"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "コンビニエンスストア"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathQuality": "ミネラル湯（人工温泉）"
+      }
+    ],
+    "aboutLeisure": "博物館,美術館,水上バス",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "バリアフリールーム"
+      },
+      {
+        "item": "車椅子利用者用客室あり"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      }
+    ],
+    "linguisticLevel": "中国語：少し分かるスタッフが数人いる。<BR>英語：少し分かるスタッフが数人いる。<BR>韓国語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "チェックインが予定時間を過ぎる場合必ずご連絡下さい。,門限は２５時です。※２５時以降はインターホンでフロントをお呼び出し下さい。,福岡県並びに福岡市条例により2020年4月1日から1人1泊当り宿泊税（20000円未満：200円、20000円以上：500円）別途頂きます。,2026年9月23日～30日の間レストラン空調工事の為、朝食営業を休止致します(9月22日～29日のご宿泊が対象となります)。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Discover"
+      },
+      {
+        "card": "デビットカード"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": null
+  }
+}

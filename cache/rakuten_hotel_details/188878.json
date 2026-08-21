@@ -1,0 +1,89 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 188878,
+    "hotelName": "翠門亭",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D188878",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D188878%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D188878",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D188878",
+    "hotelKanaName": "すいもんてい",
+    "hotelSpecial": "一日一組様限定の宿。築１００年を誇る数寄屋の名邸で過ごす、特別な時間。",
+    "hotelMinCharge": 38500,
+    "latitude": 124827.06,
+    "longitude": 489033.71,
+    "postalCode": "630-8301",
+    "address1": "奈良県",
+    "address2": "奈良市高畑町775",
+    "telephoneNo": "0742-25-2775",
+    "faxNo": "000-000-0000",
+    "access": "近鉄奈良駅より車で約７分",
+    "parkingInformation": "有り　１台　無料　予約不要",
+    "nearestStation": "奈良",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/188878/188878.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/188878.jpg",
+    "roomImageUrl": null,
+    "roomThumbnailUrl": null,
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/188878/188878map.gif",
+    "reviewCount": null,
+    "reviewAverage": null,
+    "userReview": null
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": null,
+    "locationAverage": null,
+    "roomAverage": null,
+    "equipmentAverage": null,
+    "bathAverage": null
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "nara",
+    "smallClassCode": "nara",
+    "areaName": "奈良・大和高原",
+    "hotelClassCode": "PENSION",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "19:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 1,
+    "roomFacilities": [],
+    "hotelFacilities": [],
+    "aboutMealPlace": [],
+    "aboutBath": [],
+    "aboutLeisure": null,
+    "handicappedFacilities": [],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "チェックインが予定時刻を過ぎる場合は必ずご連絡ください。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の100％   <BR>7日前から           ：宿泊料金の100％   <BR>14日前から          ：宿泊料金の50％    <BR>29日前から          ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Discover"
+      },
+      {
+        "card": "楽天カード"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": null
+  }
+}

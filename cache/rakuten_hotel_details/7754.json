@@ -1,0 +1,346 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 7754,
+    "hotelName": "安芸グランドホテル",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D7754",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D7754%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D7754",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D7754",
+    "hotelKanaName": "あき　ぐらんどほてる",
+    "hotelSpecial": "世界遺産「厳島神社」を対岸に望む天然温泉のリゾートホテル。ゆとりあるお部屋とパブリックスペースが人気",
+    "hotelMinCharge": 10750,
+    "latitude": 123482.1,
+    "longitude": 476276.34,
+    "postalCode": "739-0412",
+    "address1": "広島県",
+    "address2": "廿日市市宮島口西1-1-17",
+    "telephoneNo": "0829-56-0111",
+    "faxNo": "0829-56-3348",
+    "access": "宮島口駅(JR・広電)からタクシーで約3分。JR宮島口駅から無料送迎バス有り《30分間隔／8時～14時 15時～19時》",
+    "parkingInformation": "◆無料駐車場　150台◆　高さ制限はありません。ご予約は不要ですが中型バス以上はご連絡下さい。",
+    "nearestStation": "宮島口",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7754/7754.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/7754.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7754/7754_twn.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/7754.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7754/7754map.gif",
+    "reviewCount": 2017,
+    "reviewAverage": 3.97,
+    "userReview": "夕食は美味しかったが、大浴場の景観が残念お風呂には、気持ちよく入らせてもらいましたが、剥き出しのコンクリートが見えていたり、大浴場からの景色はどうかと思いました。夕食はとても美味しくいただ…　2026-08-14 23:38:23投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=7754\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.03,
+    "locationAverage": 4.17,
+    "roomAverage": 4.03,
+    "equipmentAverage": 3.85,
+    "bathAverage": 3.87,
+    "breakfastAverage": 3.94,
+    "dinnerAverage": 3.83,
+    "cleanlinessAverage": 4
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "hiroshima",
+    "smallClassCode": "miyajima",
+    "areaName": "宮島・宮浜温泉・廿日市",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "24:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 194,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "有線"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ドライヤー(貸出)"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（固形）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "ボトルウォーター1本無料（部屋内設置）、氷無料サービス（セルフ）"
+      },
+      {
+        "item": "車椅子貸出（数限りあり）"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "喫茶"
+      },
+      {
+        "item": "ティーラウンジ"
+      },
+      {
+        "item": "バー"
+      },
+      {
+        "item": "居酒屋コーナー"
+      },
+      {
+        "item": "カラオケサロン"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "結婚式場"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "スポーツジム"
+      },
+      {
+        "item": "プール(夏期のみ)"
+      },
+      {
+        "item": "屋外プール"
+      },
+      {
+        "item": "バーベキューガーデン"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathQuality": "単純温泉"
+      },
+      {
+        "bathQuality": "単純弱放射能泉（=単純弱ラドン泉）"
+      },
+      {
+        "bathBenefits": "神経痛"
+      },
+      {
+        "bathBenefits": "動脈硬化"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      }
+    ],
+    "aboutLeisure": "ホテル桟橋から直接宮島へシーバス片道大人500円（ホテル発8：20、宮島発17：55）要予約,海水浴,釣り,クルージング,ゴルフ,ハイキング,スキー,乗馬,トレッキング,動物園,水族館,フラワーパーク",
+    "handicappedFacilities": [
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "大浴場浴槽に手すりあり"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "入湯税　大人150円　別途いただきます。,館内全客室禁煙　ホテル3F・4Fの3箇所に喫煙スペースがございます。,【世界遺産宮島を望む貸切露天風呂】　3,800円/45分間 要予約（Telまたはメールにてご予約下さい） 〇ご利用時間：16：00～22：30（最終スタート）　　6：00～8：30（最終スタート） ※,当日のお食事内容の変更(アレルギー等)のお申し出につきましては、1名様につき1,100円（税込）の追加料金を頂戴いたします。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の50％    <BR>3日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "OMC"
+      },
+      {
+        "card": "Bank Card"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "AEON"
+      },
+      {
+        "card": "JACCS"
+      },
+      {
+        "card": "LIFE"
+      },
+      {
+        "card": "ORICO"
+      },
+      {
+        "card": "JTB"
+      },
+      {
+        "card": "楽���カード"
+      },
+      {
+        "card": "ANA"
+      },
+      {
+        "card": "JAL"
+      },
+      {
+        "card": "デビットカード"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "ご夕食は　和食レストラン、イタリアン、瀬戸内処がございます。（予約不要）"
+  }
+}

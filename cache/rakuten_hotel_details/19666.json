@@ -1,0 +1,150 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 19666,
+    "hotelName": "ビジネスホテル太洋＜大阪府＞",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D19666",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D19666%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D19666",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D19666",
+    "hotelKanaName": "たいよう＜おおさかふ＞",
+    "hotelSpecial": "レディース専用フロアもあり、女性も安心安全。宿は最低限、余った予算で観光を満喫したい方にオススメ。",
+    "hotelMinCharge": 1488,
+    "latitude": 124722.48,
+    "longitude": 487827.35,
+    "postalCode": "557-0002",
+    "address1": "大阪府",
+    "address2": "大阪市西成区太子1-2-23",
+    "telephoneNo": "06-6631-0802",
+    "faxNo": "06-6649-5909",
+    "access": "JR新今宮駅より徒歩約5分",
+    "parkingInformation": "なし　※近隣のコインパーキングをご利用ください",
+    "nearestStation": "動物園前",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19666/19666.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/19666.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19666/19666_s.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/19666.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19666/19666map.gif",
+    "reviewCount": 878,
+    "reviewAverage": 3.55,
+    "userReview": "静かな環境で大浴場も空いていて快適5畳の洋室のお部屋に連泊泊まりました。以外と広く感じて周りが静かでお部屋に冷房と小型冷蔵庫があって良かったです。大浴場も空いていてのんびりと入浴出来て良かった…　2026-08-07 13:22:19投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=19666\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 3.55,
+    "locationAverage": 3.79,
+    "roomAverage": 3.38,
+    "equipmentAverage": 3.31,
+    "bathAverage": 3.31,
+    "cleanlinessAverage": 3.35
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "osaka",
+    "smallClassCode": "shi",
+    "areaName": "大阪",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "14:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "24:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 76,
+    "roomFacilities": [
+      {
+        "item": "インターネット接続(LAN形式)"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "ヘルスメーター"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "バスタオル"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "☆★☆　お部屋でも無線LAN対応 !!　もちろん無料 !!　☆★☆"
+      },
+      {
+        "item": "●インターネット無料利用OK！"
+      },
+      {
+        "item": "●レンジ・ポット（湯）もご自由にご利用可能！自炊キッチンもあります。"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "貸自転車"
+      }
+    ],
+    "aboutMealPlace": [],
+    "aboutBath": [
+      {
+        "bathType": "大浴場"
+      }
+    ],
+    "aboutLeisure": "スパワールド（徒歩約7分）通天閣（徒歩約12分）新世界（徒歩約15分）難波（電車約14分）,陸上競技,遊園地,動物園,博物館,水族館,テーマパーク,美術館",
+    "handicappedFacilities": [],
+    "linguisticLevel": "英語：日常的な内容は問題のないスタッフが大半である。<BR>韓国語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "●＜門限＞ございません,●チェックインは23時までになります。遅くなる場合は、ご連絡ください。,●10歳未満のお子様は宿泊不可。なお、10歳以上は大人料金です。,●＜大浴場（1F,男女入替制）の利用時間＞,男性入浴時間　　　18:00～20:50,女性入浴時間　　　21:00～23:00,●シャワー室（2F, 3F）は24時間利用可能です。,●キャンセル料は連泊分を含みます。,●チェックイン時に身分証のご提示を頂く場合が御座いますのでご用意下さい。,●ご訪問客との、客室および客室階での面会はご遠慮ください。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の100％   ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "チェックインが23時を超えるお客様は、ご予約の際にご連絡下さい。,大浴場（男女時間入れ替え制） 男性：18〜20時50分 女性：21〜23時"
+  }
+}

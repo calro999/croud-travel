@@ -1,0 +1,283 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 15989,
+    "hotelName": "秋保温泉　篝火の湯　緑水亭",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D15989",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D15989%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D15989",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D15989",
+    "hotelKanaName": "あきうおんせん　かがりびのゆ　りょくすいてい",
+    "hotelSpecial": "仙台駅から車で約30分。秋保温泉の高台に佇む一軒宿！篝火を灯す幻想的な露天風呂が人気です。",
+    "hotelMinCharge": 11000,
+    "latitude": 137584.58,
+    "longitude": 506632.22,
+    "postalCode": "982-0241",
+    "address1": "宮城県",
+    "address2": "仙台市太白区秋保町湯元上原27-2",
+    "telephoneNo": "022-397-3333",
+    "faxNo": "022-397-3331",
+    "access": "東北自動車道仙台南ICから約15分。仙台中心部まで車で約30分。JR仙台駅東口より無料シャトルバス毎日運行（※要予約）",
+    "parkingInformation": "無料駐車場完備（予約不要、３００台駐車可能です）",
+    "nearestStation": "仙台",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15989/15989.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/15989.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15989/15989_war.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/15989.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15989/15989map.gif",
+    "reviewCount": 1415,
+    "reviewAverage": 4.3,
+    "userReview": "食事は絶品、送迎と露天風呂も大満足食事がものすごく良かったバス停からロビーまでかなりの坂だが送迎もあって良かった雨が振っていたので篝火が灯らなかったが露天風呂も雰囲気良かったクチコ…　2026-08-13 15:42:53投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=15989\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.25,
+    "locationAverage": 4.22,
+    "roomAverage": 4.31,
+    "equipmentAverage": 4.18,
+    "bathAverage": 4.26,
+    "breakfastAverage": 4.26,
+    "dinnerAverage": 4.28,
+    "cleanlinessAverage": 4.3
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "miyagi",
+    "smallClassCode": "akiu",
+    "areaName": "秋保・作並",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "18:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 97,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送"
+      },
+      {
+        "item": "衛星放送（無料）"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "洗顔ソープ"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "客室内の冷蔵庫には飲物等は入っておりません。"
+      },
+      {
+        "item": "全客室、ロビーにてWi-Fiをご利用いただけます"
+      },
+      {
+        "item": "ティーラウンジ"
+      },
+      {
+        "item": "夜食コーナー"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "ルームサービス"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "コンベンションホール"
+      },
+      {
+        "dinnerPlace": "部屋"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathQuality": "塩化物硫酸塩泉"
+      },
+      {
+        "bathBenefits": "神経痛"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      },
+      {
+        "bathBenefits": "婦人病"
+      }
+    ],
+    "aboutLeisure": "釣り,テニス,ゴルフ,スキー,遊園地,動物園,博物館",
+    "handicappedFacilities": [
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "大浴場浴槽に手すりあり"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": "中国語：ネイティブに近く流暢なスタッフが数人いる。<BR>英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "大人の方のみ入湯税150円を別途頂戴いたします。,宮城県条例により2026年1月13日から1人1泊当り(6000円～：300円）の宿泊税を別途いただきます。,添寝幼児の注意事項①「幼児：食事・布団不要2,200円」の対象年齢は1～2歳までとなります。,添寝幼児の注意事項②「食事・布団不要」で0歳のお子様は無料となります。幼児（食事・布団不要）では入力せずに、備考欄に「他に0歳の幼児（　）名」とご記入くださいませ。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>2日前から           ：宿泊料金の20％    <BR>3日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "JACCS"
+      },
+      {
+        "card": "楽天カード"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": null
+  }
+}

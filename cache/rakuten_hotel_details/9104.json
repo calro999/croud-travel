@@ -1,0 +1,232 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 9104,
+    "hotelName": "洲本温泉　淡路インターナショナルホテル　ザ・サンプラザ　＜淡路島＞",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D9104",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D9104%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D9104",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D9104",
+    "hotelKanaName": "すもとおんせん　あわじいんたーなしょなるほてる　ざ・さんぷらざ",
+    "hotelSpecial": "海を一望するオーシャンビューに包まれ、四季の移ろいを五感で味わう、特別な旅を。洲本温泉うるおいの湯。",
+    "hotelMinCharge": 14850,
+    "latitude": 123570.35,
+    "longitude": 485707.48,
+    "postalCode": "656-0023",
+    "address1": "兵庫県",
+    "address2": "洲本市小路谷1279-13",
+    "telephoneNo": "0799-23-1212",
+    "faxNo": "0799-22-5823",
+    "access": "大阪駅より高速バス120分/三宮駅より高速バス80分/神戸淡路鳴門道洲本ICより15分",
+    "parkingInformation": "有り/無料　　　客室内ネット接続：Wi-Fi/無料　ホテル・旅館100選37年連続受賞",
+    "nearestStation": "洲本",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9104/9104.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/9104.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9104/9104_w.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/9104.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9104/9104map.gif",
+    "reviewCount": 2888,
+    "reviewAverage": 4.35,
+    "userReview": "夕食が絶品でスタッフの対応も丁寧夕食がとてもおいしかったです!スタッフの皆さんの対応も丁寧にありがとうございました。また機会があれば来たいです。クチコミの詳細はこちらから　http…　2026-08-15 20:45:09投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=9104\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.5,
+    "locationAverage": 4.52,
+    "roomAverage": 4.25,
+    "equipmentAverage": 4.12,
+    "bathAverage": 4.32,
+    "breakfastAverage": 4.42,
+    "dinnerAverage": 4.48,
+    "cleanlinessAverage": 4.24
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "hyogo",
+    "smallClassCode": "awaji",
+    "areaName": "淡路島",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "19:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 54,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー(貸出)"
+      },
+      {
+        "item": "ドライヤー(一部)"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（固形）"
+      },
+      {
+        "item": "リンスインシャンプー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "ティーラウンジ"
+      },
+      {
+        "item": "ナイトクラブ"
+      },
+      {
+        "item": "夜食コーナー"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "プール(夏期のみ)"
+      },
+      {
+        "item": "屋外プール"
+      },
+      {
+        "item": "貸自転車"
+      },
+      {
+        "item": "ゲームコーナー"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン"
+      },
+      {
+        "dinnerPlace": "部屋"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "アルカリ単純泉"
+      },
+      {
+        "bathBenefits": "関節痛"
+      },
+      {
+        "bathBenefits": "神経痛"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      }
+    ],
+    "aboutLeisure": "淡路島牧場／観潮遊覧／あわじ花さじき／北淡震災記念公園／水仙郷／ONOKORO　等,海水浴,海釣り,テニス,ゴルフ,サイクリング,ハイキング,遊園地,フラワーパーク,テーマパーク,農業公園",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "●大人お1人様に付き別途150円の入湯税がかかります。,●予約金（以下の期間のみ）ゴールデンウィーク(4/29～5/5) 夏休み(8/11～8/16) 年末年始(12/31～1/3) (その他)　 人員が１０名様以上の場合,●振込期日：ご予約いただいた日から20日以内 　金額：10,000円（お１人様につき）,●振込先：���陽信用組合　本店営業部　普通預金　口座番号：0216168、口座名：カ)カンコウホテルダンシュウ,記,●サイト上でカード決済をされているお客様は、予約金は不要です。,●差額分はチェックアウト時にフロントでのご精算をお願いいたします。,●洲本市ふるさと納税・洲本温泉利用券もご利用頂けます。,●お食事会場及び客室への飲料の持ち込みはお断り致しております。お持ち込みを希望される場合は、持込料がかかりますので事前にご相談くださいませ。,●マイカーでお越しの方はお申し出ください。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>2日前から           ：宿泊料金の30％    <BR>3日前から           ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "Master Card"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": null
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 104793,
+    "hotelName": "塩の沢温泉　やまびこ荘＜群馬県＞",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D104793",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D104793%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D104793",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D104793",
+    "hotelKanaName": "しおのさわおんせん　やまびこそう",
+    "hotelSpecial": "雄大な山々に囲まれ、温泉の温もりに包まれ野鳥の囀りで夜が明ける都心から２時間の神秘の里",
+    "hotelMinCharge": null,
+    "latitude": 130001.43,
+    "longitude": 499414.54,
+    "postalCode": "370-1617",
+    "address1": "群馬県",
+    "address2": "多野郡上野村楢原888",
+    "telephoneNo": "0274-59-2027",
+    "faxNo": "0274-59-2641",
+    "access": "上信電鉄　下仁田駅よりお車にて２０分（送迎可）",
+    "parkingInformation": "有り　４０台　無料",
+    "nearestStation": "下仁田",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/104793/104793.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/104793.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/104793/104793_kya.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/104793.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/104793/104793map.gif",
+    "reviewCount": 104,
+    "reviewAverage": 0,
+    "userReview": null
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 0,
+    "locationAverage": 0,
+    "roomAverage": 0,
+    "equipmentAverage": 0,
+    "bathAverage": 0
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "gunma",
+    "smallClassCode": "fujioka",
+    "areaName": "富岡・藤岡・安中・磯部温泉",
+    "hotelClassCode": "PENSION",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "18:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 27,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "カラオケルーム"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "湯上がりサロン"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "卓球"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン"
+      },
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "広間"
+      },
+      {
+        "dinnerPlace": "食事処"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "ナトリウム炭酸水素塩泉"
+      },
+      {
+        "bathBenefits": "関節痛"
+      },
+      {
+        "bathBenefits": "神経痛"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      }
+    ],
+    "aboutLeisure": "群馬サファリパーク,釣り,渓流釣り,ゴルフ,サイクリング,ハイキング,トレッキング,登山,洞窟探検,動物園,博物館,テーマパーク,美術館",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      },
+      {
+        "item": "高齢者用料理への対応可能"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": "英語：ネイティブに近く流暢なスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "入湯税が別途必要です。（お一人様１５０円）,チェックインが予定時間を過ぎる場合必ずご連絡下さい。,１５名様以上で無料送迎を承ります。（近隣、要予約）,全室禁煙となっております。喫煙は所定の場所になります",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の80％    <BR>前日                ：宿泊料金の50％    <BR>2日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "AEON"
+      },
+      {
+        "card": "View"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "お部屋で緑茶サービス",
+    "otherInformation": null
+  }
+}

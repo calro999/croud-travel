@@ -1,0 +1,132 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 8881,
+    "hotelName": "リポーズハウス上野館",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D8881",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D8881%26f_flg%3DPLAN",
+    "dpPlanListUrl": null,
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D8881",
+    "hotelKanaName": "りぽーずはうすうえのかん",
+    "hotelSpecial": "家庭的なあたたかさを大切に、土地の味わいでおもてなしをいたします。",
+    "hotelMinCharge": null,
+    "latitude": 132908.79,
+    "longitude": 498426.32,
+    "postalCode": "389-2502",
+    "address1": "長野県",
+    "address2": "下高井郡野沢温泉村9466",
+    "telephoneNo": "0269-85-2721",
+    "faxNo": "0269-85-3013",
+    "access": "上信越自動車道 豊田飯山インター下車、R117経由で20分。",
+    "parkingInformation": "有り：20台（無料）",
+    "nearestStation": "戸狩野沢温泉",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8881/8881.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/8881.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8881/8881_ja.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/8881.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8881/8881map.gif",
+    "reviewCount": 10,
+    "reviewAverage": 0,
+    "userReview": null
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 0,
+    "locationAverage": 0,
+    "roomAverage": 0,
+    "equipmentAverage": 0,
+    "bathAverage": 0
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "nagano",
+    "smallClassCode": "nozawa",
+    "areaName": "野沢温泉・木島平・秋山郷",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "17:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 11,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "ドライヤー(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "石鹸（固形）"
+      },
+      {
+        "item": "リンスインシャンプー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "カミソリ（有料）"
+      },
+      {
+        "item": "タオル・バスタオル（共に冬は希望者のみ）"
+      },
+      {
+        "item": "連泊の方にモーニングコーヒーサービス　Wi-Fi無料完備"
+      },
+      {
+        "item": "ラウンジ"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "食堂"
+      },
+      {
+        "dinnerPlace": "食堂"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "人工温泉"
+      }
+    ],
+    "aboutLeisure": "テニス,ゴルフ,スキー,博物館,山菜取り",
+    "handicappedFacilities": [],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "・早朝着の場合、ラウンジ利用が可能です（冬季）,【宿泊税（野沢温泉村）】2026/6/1～2029/5/31は3.5％、2029/6/1～は5.0%の宿泊税を徴収いたします。食事代を除く宿泊代金が、6000円以上場合が対象です。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の50％    <BR>3日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "利用不可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "時間外チェックアウト可,麻雀無料貸出",
+    "otherInformation": null
+  }
+}

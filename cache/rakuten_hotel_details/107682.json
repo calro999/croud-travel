@@ -1,0 +1,307 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 107682,
+    "hotelName": "ホテル琵琶レイクオーツカ",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D107682",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D107682%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D107682",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D107682",
+    "hotelKanaName": "ほてるびわれいくおーつか",
+    "hotelSpecial": "2024年7月リニューアルOPEN！雄大な比良連峰を背に、琵琶湖の雄大な眺望が広がる静かなリトリート",
+    "hotelMinCharge": 12650,
+    "latitude": 126841.86,
+    "longitude": 489469.13,
+    "postalCode": "520-0502",
+    "address1": "滋賀県",
+    "address2": "大津市南小松1054-3",
+    "telephoneNo": "077-596-1711",
+    "faxNo": "077-596-1702",
+    "access": "JR近江舞子駅より徒歩５分  京都東ＩC経由、志賀バイパス近江舞子ランプ5分",
+    "parkingInformation": "有り　３５台　無料　予約不要",
+    "nearestStation": "近江舞子",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/107682/107682.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/107682.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/107682/107682_w.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/107682.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/107682/107682map.gif",
+    "reviewCount": 204,
+    "reviewAverage": 4.56,
+    "userReview": "6年ぶりの再訪も大満足、至れり尽くせりの快適さ6年ぶりに訪れましたが、相変わらずキレイでしたウェルカムドリンクに麦茶とノンカフェイン系のお茶が用意されていたり、琵琶湖へすぐ泳ぎに行ける所にある…　2026-08-08 18:40:43投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=107682\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.55,
+    "locationAverage": 4.61,
+    "roomAverage": 4.65,
+    "equipmentAverage": 4.43,
+    "bathAverage": 4.14,
+    "breakfastAverage": 4.63,
+    "dinnerAverage": 4.57,
+    "cleanlinessAverage": 4.54
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "shiga",
+    "smallClassCode": "ootsu",
+    "areaName": "大津・雄琴・草津・栗東",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "20:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 28,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（固形）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "くつろぎ着の作務衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "電子レンジ（一部・要予約）"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "個室食をご希望の場合は前日までにご連絡ください（別途料金）"
+      },
+      {
+        "item": "本館全室マッサージチェア・空気清浄機完備。"
+      },
+      {
+        "item": "プールは、お子様用の水遊びの場とお考えください。"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "カラオケルーム"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "プール(夏期のみ)"
+      },
+      {
+        "item": "貸自転車"
+      },
+      {
+        "item": "麻雀室"
+      },
+      {
+        "item": "卓球"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "個室"
+      },
+      {
+        "breakfastPlace": "レストラン"
+      },
+      {
+        "dinnerPlace": "個室"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathType": "人工温泉"
+      },
+      {
+        "bathType": "水風呂"
+      },
+      {
+        "bathQuality": "ラジウム温泉"
+      },
+      {
+        "bathBenefits": "高血圧"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      },
+      {
+        "bathBenefits": "リウマチ・神経病"
+      }
+    ],
+    "aboutLeisure": "屋外プールあり。琵琶湖が目の前(徒歩10秒)なので、湖水浴も楽しめます♪,釣り,ウィンドサーフィン,ウォータースポーツ,サイクリング,ハイキング,スキー,トレッキング,登山,博物館",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "大浴場浴槽に手すりあり"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "■チェックインが予定時間より遅れる場合は必ずご連絡ください。,■特定の食物にアレルギーをお持ちの方はお申し出ください。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>2日前から           ：宿泊料金の40％    <BR>3日前から           ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "チェックイン前・アウト後の荷物預かり可能,ウェルカムドリンクサービス,将棋無料貸出,囲碁無料貸出",
+    "otherInformation": "コインランドリーは24時間いつでもご利用いただけます（洗濯300円/回・乾燥機100円/30分）"
+  }
+}

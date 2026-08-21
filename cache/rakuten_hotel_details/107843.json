@@ -1,0 +1,295 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 107843,
+    "hotelName": "越生温泉美白の湯　温泉宿ニューサンピア埼玉おごせ",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D107843",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D107843%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D107843",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D107843",
+    "hotelKanaName": "おごせおんせんびはくのゆ　おんせんやどにゅーさんぴあさいたまおごせ",
+    "hotelSpecial": "東京から約1時間！露天風呂、温泉、大浴場、テニス、体育館、キャンプ場、 プールが揃った充実したホテル",
+    "hotelMinCharge": 7950,
+    "latitude": 129516.67,
+    "longitude": 501402.33,
+    "postalCode": "350-0401",
+    "address1": "埼玉県",
+    "address2": "入間郡越生町古池700",
+    "telephoneNo": "049-292-6111",
+    "faxNo": "049-292-6113",
+    "access": "【お車の場合】関越自動車道又は圏央道鶴ヶ島I.Cから約20分【電車の場合】東武越生線又はＪＲ越生駅から路線バスで約１５分",
+    "parkingInformation": "有り　★無料駐車場 完備(ホテル敷地内)４３０台※大型バス、トラックの駐車可能",
+    "nearestStation": "越生",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/107843/107843.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/107843.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/107843/107843_twn.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/107843.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/107843/107843map.gif",
+    "reviewCount": 703,
+    "reviewAverage": 3.72,
+    "userReview": "クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/107843?reviewId=33123476788585　2026-08-12 06:40:51投稿"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 3.69,
+    "locationAverage": 3.65,
+    "roomAverage": 3.56,
+    "equipmentAverage": 3.46,
+    "bathAverage": 3.77,
+    "breakfastAverage": 3.73,
+    "dinnerAverage": 3.68,
+    "cleanlinessAverage": 3.41
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "saitama",
+    "smallClassCode": "kawagoe",
+    "areaName": "川越・東松山・志木・和光",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "22:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 50,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー(一部)"
+      },
+      {
+        "item": "電気スタンド(一部)"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（固形）"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "※送迎バスは、１０名様以上片道６０分以内（要予約）"
+      },
+      {
+        "item": "※客室にてWi-Fiフリースポット利用可（パソコン・スマートフォン・タブレット・ゲーム機）"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "喫茶"
+      },
+      {
+        "item": "ラウンジ"
+      },
+      {
+        "item": "カラオケルーム"
+      },
+      {
+        "item": "多目的室"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "児童遊園施設"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "プール(夏期のみ)"
+      },
+      {
+        "item": "屋外プール"
+      },
+      {
+        "item": "テニスコート"
+      },
+      {
+        "item": "貸自転車"
+      },
+      {
+        "item": "卓球"
+      },
+      {
+        "item": "体育館"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン"
+      },
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathBenefits": "美肌効果"
+      },
+      {
+        "bathBenefits": "美容"
+      }
+    ],
+    "aboutLeisure": "果物狩り,釣り,渓流釣り,カヌー,渓流下り,バンジージャンプ,テニス,ゲートボール,ゴルフ,サッカー,パラグライダー,サイクリング,ハイキング,スケート,乗馬,トレッキング,登山,動物園,しいたけ狩り,山菜取り",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "チェックインが予定時間を過ぎる場合必ずご連絡下さい。門限24時となります。,▼△▼△▼お子様のご宿泊料金および条件のご案内▼△▼△▼,①小学生,高学年・低学年共通：4歳～小学生が適用されます。,②幼児,3歳以下が適応されます。,※幼児(3歳以下)の料金は希望するサービス(食事や布団の有無)に応じて異なります。,楽天トラベルでは「高学年」「低学年」「幼児」といった区分が表示されますが、詳細な年齢や料金体系は上記をご確認ください。,※予約内容の変更により差額が生じた場合は、現地にて直接宿泊施設にお支払いください。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の20％    <BR>9日前から           ：宿泊料金の10％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "お部屋で緑茶サービス,着替え浴衣サービス,将棋無料貸出",
+    "otherInformation": null
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 28929,
+    "hotelName": "雲仙温泉　旅亭　半水盧",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D28929",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D28929%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D28929",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D28929",
+    "hotelKanaName": "うんぜんおんせん　りょてい　はんずいりょ",
+    "hotelSpecial": "雲仙の自然に囲まれた五千坪の敷地に数奇屋造りの離れ１４棟。その１棟毎に趣のある庭園をもつ安らぎの場所",
+    "hotelMinCharge": 80150,
+    "latitude": 117833.55,
+    "longitude": 468939.89,
+    "postalCode": "854-0621",
+    "address1": "長崎県",
+    "address2": "雲仙市小浜町雲仙380-1",
+    "telephoneNo": "0957-73-2111",
+    "faxNo": "0957-73-3031",
+    "access": "ＪＲ長崎本線「諫早駅」よりバス９０分又は、タクシー５５分",
+    "parkingInformation": "【無料｜先着順】全１４台",
+    "nearestStation": "諫早",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28929/28929.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/28929.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28929/28929_h1.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/28929.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28929/28929map.gif",
+    "reviewCount": 30,
+    "reviewAverage": 5,
+    "userReview": null
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 0,
+    "locationAverage": 0,
+    "roomAverage": 0,
+    "equipmentAverage": 0,
+    "bathAverage": 0,
+    "breakfastAverage": 5,
+    "dinnerAverage": 5,
+    "cleanlinessAverage": 5
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "nagasaki",
+    "smallClassCode": "unzen",
+    "areaName": "雲仙・島原・小浜",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "19:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 14,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（固形）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "ルームサービス"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "部屋"
+      },
+      {
+        "breakfastPlace": "レストラン"
+      },
+      {
+        "dinnerPlace": "部屋"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathQuality": "硫黄泉"
+      },
+      {
+        "bathQuality": "酸性硫化水素泉"
+      },
+      {
+        "bathBenefits": "皮膚病"
+      },
+      {
+        "bathBenefits": "婦人病"
+      },
+      {
+        "bathBenefits": "リウマチ・神経病"
+      }
+    ],
+    "aboutLeisure": "海水浴,海釣り,テニス,ゲートボール,ゴルフ,ハイキング,乗馬,トレッキング,登山",
+    "handicappedFacilities": [
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "大浴場浴槽に手すりあり"
+      },
+      {
+        "item": "高齢者用料理への対応可能"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "入湯税が別途必要です。（お一人様１５０円）,チェックインが１８：００以降になる場合、必ずご連絡下さい。,幼児料金、０才から施設使用料として３３００円頂戴致します。（食事・寝具なし）,お食事の好き嫌い、アレルギー等がございましたら、事前にお知らせ下さい。,宿泊の目的がお祝いや記念日でしたら、夕食の一部を相応しい内容に変えてお出し致します。,詳しくは施設までお問合せ下さい。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>2日前から           ：宿泊料金の100％   <BR>3日前から           ：宿泊料金の50％    <BR>7日前から           ：宿泊料金の30％    <BR>14日前から          ：宿泊料金の10％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "Master Card"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "ウェルカムドリンクサービス,朝刊サービス",
+    "otherInformation": null
+  }
+}

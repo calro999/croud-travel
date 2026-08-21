@@ -1,0 +1,316 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 30696,
+    "hotelName": "水上温泉郷　水上高原ホテル２００",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D30696",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D30696%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D30696",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D30696",
+    "hotelKanaName": "みなかみこうげん　つーはんどれっど　",
+    "hotelSpecial": "夕食バイキング飲み放題無料★本当に涼しい高原がここにある。高原リゾートで日々の喧騒から離れるひととき",
+    "hotelMinCharge": 11550,
+    "latitude": 132668.43,
+    "longitude": 500684.94,
+    "postalCode": "379-1721",
+    "address1": "群馬県",
+    "address2": "利根郡みなかみ町藤原6152-1",
+    "telephoneNo": "0278-75-2222",
+    "faxNo": "0278-75-2312",
+    "access": "関越自動車道「水上ＩＣ」から19ｋｍ（30分）／上越新幹線「上毛高原駅」から送迎シャトルバス有(3日前までの要事前予約)",
+    "parkingInformation": "有　７００台　無料",
+    "nearestStation": "上毛高原",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/30696/30696.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/30696.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/30696/30696_ctw.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/30696.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/30696/30696map.gif",
+    "reviewCount": 2289,
+    "reviewAverage": 4.14,
+    "userReview": "佐々木さんのサービスが非常に素晴らしかった佐々木さんが非常に素晴らしいサービス展開していました。クチコミの詳細はこちらから　https://review.travel.rakuten.co.j…　2026-08-15 10:32:55投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=30696\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.15,
+    "locationAverage": 4.26,
+    "roomAverage": 3.99,
+    "equipmentAverage": 3.92,
+    "bathAverage": 4.11,
+    "breakfastAverage": 4.09,
+    "dinnerAverage": 4.11,
+    "cleanlinessAverage": 4.1
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "gunma",
+    "smallClassCode": "numata",
+    "areaName": "水上・猿ヶ京・沼田",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "18:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 200,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "電気スタンド"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ベビーベッド"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "リンスインシャンプー"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "お子様連れ家族大歓迎♪赤ちゃんや小さなお子様向けの無料貸出備品がいっぱい！"
+      },
+      {
+        "item": "ホテル敷地には全２コース３６ホールのゴルフ場が隣接。冬はゲレンデ徒歩０分、スキーリゾートに♪"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "バー"
+      },
+      {
+        "item": "夜食コーナー"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "プール(夏期のみ)"
+      },
+      {
+        "item": "屋外プール"
+      },
+      {
+        "item": "テニスコート"
+      },
+      {
+        "item": "貸スキー"
+      },
+      {
+        "item": "貸スキーウェア"
+      },
+      {
+        "item": "貸スノーボード"
+      },
+      {
+        "item": "ゲームコーナー"
+      },
+      {
+        "item": "麻雀室"
+      },
+      {
+        "item": "卓球"
+      },
+      {
+        "item": "コネクティングルーム（一部・要予約）"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "パソコン利用可"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン"
+      },
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      },
+      {
+        "dinnerPlace": "レストラン(バイキング)"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathQuality": "アルカリ単純泉"
+      },
+      {
+        "bathQuality": "アルカリ単純硫黄泉"
+      },
+      {
+        "bathBenefits": "関節痛"
+      },
+      {
+        "bathBenefits": "筋肉痛"
+      },
+      {
+        "bathBenefits": "美肌効果"
+      }
+    ],
+    "aboutLeisure": "憧れの「尾瀬」までは車で１時間　春から秋にかけては高原ゴルフが楽しめます！,釣り,渓流釣り,カヌー,ウォータースポーツ,渓流下り,川上り,バンジージャンプ,テニス,ゴルフ,パラグライダー,ハイキング,スキー,クロスカントリー,トレッキング,登山,美術館,山菜取り",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": "英語：日常的な内容は問題のないスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "・幼児の登録について　3才～小学生未満⇒「幼児(食事布団付)」・「幼児（布団のみ）」・「幼児（食事のみ）」、0才～2才⇒「幼児(食事布団不要)」にてご登録ください。,・３歳未満のお子様はお食事は無料となります。,・大人(中学生以上)のみ、別途入湯税150円が発生いたします。,・リゾートツイン【4名2室プラン】でご予約の場合、予約通知は「1部屋」と表記されますが、「2部屋」でのご用意となります。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>3日前から           ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Discover"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "楽天カード"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "朝刊サービス",
+    "otherInformation": null
+  }
+}

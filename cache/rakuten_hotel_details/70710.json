@@ -1,0 +1,367 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 70710,
+    "hotelName": "奥伊根温泉　油屋本館",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D70710",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D70710%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D70710",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D70710",
+    "hotelKanaName": "おくいねおんせん　あぶらやほんかん",
+    "hotelSpecial": "新鮮な海の幸と新鮮な海の幸とお肌に優しい弱アルカリ性（PH8.80）の自家掘天然温泉の宿",
+    "hotelMinCharge": 19800,
+    "latitude": 128565.07,
+    "longitude": 487043.35,
+    "postalCode": "626-0412",
+    "address1": "京都府",
+    "address2": "与謝郡伊根町津母570",
+    "telephoneNo": "0772-32-0972",
+    "faxNo": "0772-32-1018",
+    "access": "■電車:天橋立駅より車で約45分　■自動車:京都縦貫自動車道　与謝天橋立ICより国道178号線で約45分。目標物：伊根",
+    "parkingInformation": "有り　50台　無料　予約不要",
+    "nearestStation": "天橋立",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/70710/70710.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/70710.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/70710/70710_kya.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/70710.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/70710/70710map.gif",
+    "reviewCount": 629,
+    "reviewAverage": 4.6,
+    "userReview": "露天風呂と絶品料理、心温まる接客に感激前から泊まりたかった油屋さん、まさかのお盆中にラスト1部屋空いていて即予約。海の見える露天風呂付きの広い部屋はゆったり過ごせて最高でした。何度も露天風呂に…　2026-08-13 21:35:27投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=70710\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.61,
+    "locationAverage": 4.52,
+    "roomAverage": 4.54,
+    "equipmentAverage": 4.46,
+    "bathAverage": 4.48,
+    "breakfastAverage": 4.56,
+    "dinnerAverage": 4.64,
+    "cleanlinessAverage": 4.57
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "kyoto",
+    "smallClassCode": "miyazu",
+    "areaName": "天橋立・宮津・舞鶴",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "18:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 14,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送"
+      },
+      {
+        "item": "衛星放送（無料）"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "インターネット接続(一部、無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "くつろぎ着の作務衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "保温ポット、体重計"
+      },
+      {
+        "item": "フロントロビー＆客室フロアにフリーWifi"
+      },
+      {
+        "item": "全室禁煙となっております。尚、喫煙所は玄関を出られて右側に設置しております。"
+      },
+      {
+        "item": "ティーラウンジ"
+      },
+      {
+        "item": "バー"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "湯上がりサロン"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "E-Mail送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン"
+      },
+      {
+        "breakfastPlace": "広間"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      },
+      {
+        "dinnerPlace": "広間"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathType": "ジャグジー"
+      },
+      {
+        "bathQuality": "ナトリウム炭酸水素塩泉"
+      },
+      {
+        "bathBenefits": "関節痛"
+      },
+      {
+        "bathBenefits": "神経痛"
+      },
+      {
+        "bathBenefits": "冷え性"
+      }
+    ],
+    "aboutLeisure": "海水浴,釣り,海釣り,カヌー,クルージング,テニス,ゴルフ,サイクリング,スキー,登山",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "大浴場浴槽に手すりあり"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      },
+      {
+        "item": "高齢者用料理への対応可能"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      },
+      {
+        "item": "施設スタッフによる介助・補助対応が可能"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "チェックインが到着予定時間より遅れる場合はご連絡下さい。,入湯税が別途必要です（お一人様１５０円）　,【幼児（食事・布団不要）】の料金は３歳以上から発生いたします。（２歳以下は無料です。）,ご夕食のお時間は、18：00もしくは18：30にてスタートにて承っております",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の100％   <BR>2日前から           ：宿泊料金の80％    <BR>3日前から           ：宿泊料金の50％    <BR>10日前から          ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "OMC"
+      },
+      {
+        "card": "Bank Card"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Discover"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "AEON"
+      },
+      {
+        "card": "JACCS"
+      },
+      {
+        "card": "APLUS"
+      },
+      {
+        "card": "CF"
+      },
+      {
+        "card": "LIFE"
+      },
+      {
+        "card": "ORICO"
+      },
+      {
+        "card": "TOP"
+      },
+      {
+        "card": "View"
+      },
+      {
+        "card": "West"
+      },
+      {
+        "card": "Daimaru"
+      },
+      {
+        "card": "Takashimaya"
+      },
+      {
+        "card": "楽天カード"
+      },
+      {
+        "card": "ANA"
+      },
+      {
+        "card": "JAL"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "将棋無料貸出,囲碁無料貸出",
+    "otherInformation": null
+  }
+}

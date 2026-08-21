@@ -1,0 +1,259 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 54677,
+    "hotelName": "大歩危温泉　サンリバー大歩危",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D54677",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D54677%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D54677",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D54677",
+    "hotelKanaName": "おおぼけおんせん　さんりばーおおぼけ",
+    "hotelSpecial": "大歩危・小歩危を眼下に温泉を楽しめるホテル。山と川の幸にこだわった会席料理が自慢です！",
+    "hotelMinCharge": 5500,
+    "latitude": 122072.08,
+    "longitude": 481539.14,
+    "postalCode": "779-5451",
+    "address1": "徳島県",
+    "address2": "三好市山城町西宇1259-1",
+    "telephoneNo": "050-3066-2111",
+    "faxNo": "0883-84-2567",
+    "access": "お車は井川池田インターより国道32号線沿いに３０分。列車はＪＲ大歩危駅または小歩危駅から送迎有。（要連絡）",
+    "parkingInformation": "有り　５０台　無料　予約不要",
+    "nearestStation": "大歩危",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/54677/54677.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/54677.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/54677/54677_kan.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/54677.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/54677/54677map.gif",
+    "reviewCount": 1186,
+    "reviewAverage": 4.21,
+    "userReview": "清潔な部屋と美味しい食事、温泉に大満足建物自体は新しくないですが、お掃除が行き届いた清潔なお部屋で気持ちよかったです。また食事も美味しくて孫も喜んでいました。温泉の露天風呂も凄く気持ちよかったです…　2026-08-14 11:05:56投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=54677\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.25,
+    "locationAverage": 4.21,
+    "roomAverage": 4.11,
+    "equipmentAverage": 3.99,
+    "bathAverage": 4.33,
+    "breakfastAverage": 4.14,
+    "dinnerAverage": 4.12,
+    "cleanlinessAverage": 4.17
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "tokushima",
+    "smallClassCode": "hokubu",
+    "areaName": "大歩危・祖谷・剣山・吉野川",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "19:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 21,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫(一部)"
+      },
+      {
+        "item": "ドライヤー(一部)"
+      },
+      {
+        "item": "電気スタンド(一部)"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ(一部)"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "リンスインシャンプー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "おふろセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "大歩危駅または小歩危駅より送迎あり（8:30〜20:00）"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "カラオケルーム"
+      },
+      {
+        "item": "多目的室"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "貸自転車"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン"
+      },
+      {
+        "breakfastPlace": "コンベンションホール"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      },
+      {
+        "dinnerPlace": "コンベンションホール"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathType": "水風呂"
+      },
+      {
+        "bathQuality": "アルカリ単純泉"
+      },
+      {
+        "bathBenefits": "皮膚病"
+      },
+      {
+        "bathBenefits": "美肌効果"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      }
+    ],
+    "aboutLeisure": "渓流下り,川上り,パラグライダー,サイクリング,ハイキング,トレッキング,博物館",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "チェックインの時間を過ぎる場合は必ずご連絡下さい。,入湯税が別途必要です（お一人様１５０円）,門限は２２時です。,【アレルギーをお持ちの方へ】事前にお申し付けください。当日のご変更は出来ない場合がございます。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>3日前から           ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": null
+  }
+}

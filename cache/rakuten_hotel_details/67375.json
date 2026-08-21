@@ -1,0 +1,224 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 67375,
+    "hotelName": "東横ＩＮＮ高崎駅西口１",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D67375",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D67375%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D67375",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D67375",
+    "hotelKanaName": "とうよこいんたかさきえきにしぐちいち",
+    "hotelSpecial": "高崎駅から徒歩5分で朝食・小学生以下添い寝無料のホテル！高崎芸術劇場まで車で10分",
+    "hotelMinCharge": 5029,
+    "latitude": 130739.93,
+    "longitude": 500448.22,
+    "postalCode": "370-0848",
+    "address1": "群馬県",
+    "address2": "高崎市鶴見町2-2",
+    "telephoneNo": "027-324-1045",
+    "faxNo": "027-324-1046",
+    "access": "ＪＲ　高崎駅から徒歩5分",
+    "parkingInformation": "有料：立体駐車場1泊￥500",
+    "nearestStation": "高崎",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/67375/67375.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/67375.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/67375/67375_s.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/67375.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/67375/67375map.gif",
+    "reviewCount": 915,
+    "reviewAverage": 4.03,
+    "userReview": "喫煙室のため空気清浄機があればよかった今回は、喫煙室しか空いてなかったルームサービスで空気清浄機があればよかった。クチコミの詳細はこちらから　https://review.travel.r…　2026-08-07 10:23:28投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=67375\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.09,
+    "locationAverage": 3.97,
+    "roomAverage": 4.03,
+    "equipmentAverage": 3.93,
+    "bathAverage": 3.93,
+    "breakfastAverage": 4.03,
+    "cleanlinessAverage": 4.04
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "gunma",
+    "smallClassCode": "takasaki",
+    "areaName": "高崎",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "29:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 219,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "有料ビデオ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "ナイトウェア"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "電子レンジ"
+      },
+      {
+        "item": "セルフロッカー（26台_宿泊者専用無料）"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "コンベンションホール"
+      }
+    ],
+    "aboutBath": [],
+    "aboutLeisure": "ゴルフ,スケート,乗馬,陸上競技,博物館,美術館",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "バリアフリールーム"
+      },
+      {
+        "item": "館内の点字案内"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "到着予定時刻をすぎるような場合には、必ず事前にホテルまで連絡お願いいたします。連絡が無い場合にはキャンセル扱いになる場合もございます。,連絡なくキャンセルされた場合、または当日キャンセルされた場合には宿泊代金の100％を請求させていただきます。,東横インクラブカードの優待は適応できません（ポイント付与、２０％５％会員割引、アーリーチェックインetc）,売掛・東横イン無料券・割引券・金券サービスでの利用はできません。,10名様以上のご予約については、別途団体契約が必要となる場合があります。,１回の予約は最大４室までです。５室以上ご予約される場合はお手数をおかけしますが予約を分けてお願いいたします。,旅行代理店・エージェントによる本サイトからの予約は固くお断りいたします。予約は無効とし違約金を申し受けます。,添寝のお子様（小学生以下）は無料ですが、アメニティグッズや枕等が必要な場合は１，０８０円となります。,駐車場はご到着順です。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "Master Card"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "モーニングコーヒーサービス",
+    "otherInformation": null
+  }
+}

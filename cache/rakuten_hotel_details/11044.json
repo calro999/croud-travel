@@ -1,0 +1,293 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 11044,
+    "hotelName": "ロイヤルパインズホテル浦和",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D11044",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D11044%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D11044",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D11044",
+    "hotelKanaName": "ろいやるぱいんずほてるうらわ",
+    "hotelSpecial": "JR浦和駅から東京駅へ約24分、羽田空港へ直通リムジンバス運行！さいたまスーパーアリーナまで最短1駅",
+    "hotelMinCharge": 7000,
+    "latitude": 129087.18,
+    "longitude": 502759,
+    "postalCode": "330-0062",
+    "address1": "埼玉県",
+    "address2": "さいたま市浦和区仲町2-5-1",
+    "telephoneNo": "048-827-1111",
+    "faxNo": "048-827-1112",
+    "access": "JR京浜東北線・上野東京ライン・湘南新宿ライン・高崎線・宇都宮線「浦和駅」西口より徒歩約７分、アトレ北口より徒歩約5分",
+    "parkingInformation": "有り（286台）、\\1800/泊（税込）　高さ2.1ｍ×幅2.0ｍ×長さ5.5ｍまでの車輌（先着順）",
+    "nearestStation": "浦和",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/11044/11044.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/11044.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/11044/11044_tw.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/11044.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/11044/11044map.gif",
+    "reviewCount": 3583,
+    "reviewAverage": 4.42,
+    "userReview": "急な予約でもベビーベッドの貸出に感謝急な宿泊予約でしたが、ベビーベッドも貸していただけたのがありがたかったです。クチコミの詳細はこちらから　https://review.travel.raku…　2026-08-15 18:59:10投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=11044\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.45,
+    "locationAverage": 4.41,
+    "roomAverage": 4.42,
+    "equipmentAverage": 4.29,
+    "bathAverage": 4.26,
+    "breakfastAverage": 4.53,
+    "cleanlinessAverage": 4.41
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "saitama",
+    "smallClassCode": "saitama",
+    "areaName": "大宮・浦和・川口・上尾",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "14:00",
+    "checkoutTime": "12:00",
+    "lastCheckinTime": "24:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 196,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送"
+      },
+      {
+        "item": "衛星放送（無料）"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "モジュラージャック"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "ＣＤプレイヤ－(貸出)"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "変圧器（貸出）"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "入浴剤"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "ナイトウェア"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "お子様用貸出品：ベビーベッド・ベッドガード・ナイトウェア・スリッパ・補助便座・おむつ用ごみ箱・踏み台"
+      },
+      {
+        "item": "加湿機能付き空気清浄器 （全室完備）、DVDプレイヤー（貸出）"
+      },
+      {
+        "item": "製氷機・電子レンジ（館内設備）"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "喫茶"
+      },
+      {
+        "item": "ティーラウンジ"
+      },
+      {
+        "item": "ラウンジ"
+      },
+      {
+        "item": "スカイラウンジ"
+      },
+      {
+        "item": "バーラウンジ"
+      },
+      {
+        "item": "居酒屋コーナー"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "結婚式場"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "ベーカーショップ"
+      },
+      {
+        "item": "ショッピングアベニュー"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "美容院"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      },
+      {
+        "dinnerPlace": "食事処"
+      }
+    ],
+    "aboutBath": [],
+    "aboutLeisure": "埼玉スタジアム/さいたまスーパーアリーナ/鉄道博物館/盆栽美術館/造幣さいたま博物館,サッカー,博物館,美術館",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "バリアフリールーム"
+      },
+      {
+        "item": "車椅子利用者用客室あり"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "館内の点字案内"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": "英語：ネイティブに近く流暢なスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "■2022年4月に施行が予定されているプラスチック資源循環促進法に関連して対象客室アメニティを各客室に設置しないことといたします。,アメニティ設置廃止の代わり、チェックイン時にフロント横に設置された「アメニティバー」より、お客様が必要なアメニティをご自身でお選びいただける方式に変更させていただきます。,■宿泊登録者以外の客室のご使用はなさらないでください。,■駐車場 　地下2階　地下3階　１泊　￥1,800　高さ2.1ｍ、幅2.0ｍ、長さ5.5ｍ、までの車輌となります。,地上高が低い車両もご駐車できないこともございます。,■ホテル内に他のお客様の迷惑になるようなものをお持込にならないでください。,■2019年1月1日ホテル名称変更 【旧名称】　浦和ロイヤルパインズホテル　→　【新名称】　ロイヤルパインズホテル浦和",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の80％    <BR>前日                ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "羽田空港-ホテル直通リムジンバス（所要時間：約75〜110分）,建物名：浦和センチュリーシティ　ホテル名：ロイヤルパインズホテル浦和"
+  }
+}

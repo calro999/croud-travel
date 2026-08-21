@@ -1,0 +1,238 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 31573,
+    "hotelName": "野沢温泉　朝日屋旅館",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D31573",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D31573%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D31573",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D31573",
+    "hotelKanaName": "のざわおんせん　あさひや",
+    "hotelSpecial": "【野沢温泉スキー場へ徒歩7分】【外湯の多くも徒歩5分以内】24時間源泉かけ流し温泉♪",
+    "hotelMinCharge": 8085,
+    "latitude": 132912.31,
+    "longitude": 498419.46,
+    "postalCode": "389-2502",
+    "address1": "長野県",
+    "address2": "下高井郡野沢温泉村9501",
+    "telephoneNo": "0269-85-3131",
+    "faxNo": "0269-85-3133",
+    "access": "飯山駅より野沢温泉まで直通バス「野沢温泉ライナー」で25分",
+    "parkingInformation": "無料　25台",
+    "nearestStation": "戸狩野沢温泉",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31573/31573.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/31573.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31573/31573_r1.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/31573.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31573/31573map.gif",
+    "reviewCount": 377,
+    "reviewAverage": 4.04,
+    "userReview": "バルコニーからの雲海と朝市に近い好立地お風呂は男女、時間帯で交互になり翌朝は暖簾の確認が必要です。露天風呂はありませんがお風呂にバルコニーがあり外で涼むことが出来ます。朝は雲海?がバルコニーから見…　2026-08-15 16:13:34投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=31573\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4,
+    "locationAverage": 4.02,
+    "roomAverage": 4.05,
+    "equipmentAverage": 3.87,
+    "bathAverage": 3.94,
+    "breakfastAverage": 4.07,
+    "dinnerAverage": 4.19,
+    "cleanlinessAverage": 4
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "nagano",
+    "smallClassCode": "nozawa",
+    "areaName": "野沢温泉・木島平・秋山郷",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "18:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 26,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ドライヤー(貸出)"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "リンスインシャンプー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "スキー乾燥室"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "食事処"
+      },
+      {
+        "breakfastPlace": "食堂"
+      },
+      {
+        "dinnerPlace": "広間"
+      },
+      {
+        "dinnerPlace": "食堂"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "単純硫黄泉"
+      },
+      {
+        "bathBenefits": "胃腸病"
+      },
+      {
+        "bathBenefits": "神経痛"
+      },
+      {
+        "bathBenefits": "リウマチ・神経病"
+      }
+    ],
+    "aboutLeisure": "カヌー,テニス,ゲートボール,ゴルフ,サッカー,ハイキング,スキー,トレッキング,博物館",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "入湯税が別途必要です。（お一人様１５０円）,お食事準備の関係上チェックインが１８：００以降になる場合必ずご連絡下さい。,車の駐車は前泊のお客様が帰られてから駐車できます。宿に確認して下さい。,申し訳ございませんが、新型コロナウイルス感染防止対策のため、当面の間、鍋料理を休止させていただいております。,【宿泊税（野沢温泉村）】2026/6/1～2029/5/31は3.5％、2029/6/1～は5.0%の宿泊税を徴収いたします。食事代を除く宿泊代金が、6000円以上場合が対象です。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の50％    <BR>前日                ：宿泊料金の30％    <BR>2日前から           ：宿泊料金の20％    <BR>3日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "OMC"
+      },
+      {
+        "card": "Bank Card"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "JACCS"
+      },
+      {
+        "card": "CF"
+      },
+      {
+        "card": "ORICO"
+      },
+      {
+        "card": "JTB"
+      },
+      {
+        "card": "デビットカード"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "将棋無料貸出,囲碁無料貸出",
+    "otherInformation": null
+  }
+}

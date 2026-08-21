@@ -1,0 +1,292 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 130095,
+    "hotelName": "上諏訪温泉　しんゆ（親湯）",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D130095",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D130095%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D130095",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D130095",
+    "hotelKanaName": "かみすわおんせん　しんゆ",
+    "hotelSpecial": "諏訪湖畔に佇む【癒し】とおもてなしの宿◯自家源泉の湯と【個室料亭】での美食【衛生消毒プログラム導入】",
+    "hotelMinCharge": 9000,
+    "latitude": 129776.49,
+    "longitude": 497218.03,
+    "postalCode": "392-0027",
+    "address1": "長野県",
+    "address2": "諏訪市湖岸通り2-6-30",
+    "telephoneNo": "0266-54-2020",
+    "faxNo": "0266-58-9494",
+    "access": "JR上諏訪駅より徒歩10分(送迎バス有。最終17時)、中央道諏訪ICより車10分。諏訪湖目の前。",
+    "parkingInformation": "無料50台。バイク利用は屋根下確定。当館敷地内。",
+    "nearestStation": "上諏訪",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/130095/130095.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/130095.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/130095/130095_war.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/130095.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/130095/130095map.gif",
+    "reviewCount": 2129,
+    "reviewAverage": 4.56,
+    "userReview": "ゴキブリが出た際の対応について館内着に着替えようと思いクローゼットを開けたら館内着の中からゴキブリが出てきました。フロントに電話したところ「本当ですか!?」のみで謝罪の言葉はなし、そのまま過ご…　2026-07-11 10:21:33投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=130095\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.66,
+    "locationAverage": 4.53,
+    "roomAverage": 4.41,
+    "equipmentAverage": 4.5,
+    "bathAverage": 4.42,
+    "breakfastAverage": 4.59,
+    "dinnerAverage": 4.58,
+    "cleanlinessAverage": 4.55
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "nagano",
+    "smallClassCode": "suwa",
+    "areaName": "諏訪湖",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "22:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 38,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "加湿器(一部)"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗顔ソープ"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "パジャマ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "DVDプレイヤー（各部屋）"
+      },
+      {
+        "item": "上質の浴衣、パジャマのご用意"
+      },
+      {
+        "item": "ティーラウンジ"
+      },
+      {
+        "item": "ラウンジ"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "湯上がりサロン"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "貸自転車"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "ルームサービス"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "料亭"
+      },
+      {
+        "dinnerPlace": "料亭"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "単純温泉"
+      },
+      {
+        "bathBenefits": "関節痛"
+      },
+      {
+        "bathBenefits": "神経痛"
+      },
+      {
+        "bathBenefits": "美肌効果"
+      }
+    ],
+    "aboutLeisure": "果物狩り、諏訪湖,釣り,渓流釣り,ヨット,クルージング,ウィンドサーフィン,テニス,ゴルフ,サイクリング,ハイキング,スキー,スケート,登山,遊園地,博物館,フラワーパーク,テーマパーク,美術館,水上バス,栗拾い,山菜取り",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "バリアフリールーム"
+      },
+      {
+        "item": "車椅子利用者用客室あり"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "大浴場浴槽に手すりあり"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "宿泊税200円（2026年6月1日～）、入湯税150円を別途頂戴いたします。,※車椅子ご利用の場合、事前に宿までご連絡ください。,※基本の2食付プランのお子様のご夕食は、小学生高学年のお子様には大人料理、小学生低学年のお子様にはお子様ランチ、,食事付き幼児のお子様にはお子様ランチ（小学生低学年様より２～３品少ないお料理）、食事なし幼児のお子様にはお席のみのご用意となります。,※チェックインが予定時刻より遅れる場合、必ずご連絡下さい。ご夕食付の場合、20時を過ぎるとお食事の用意をしかねますのでご注意下さい。,アレルギー等の対応について 【上諏訪温泉しんゆ】ではアレルギー等をお持ちのお客様に安全にお食事を愉しんでいただけるよう、下記３つの取り決めを行っております。,①【対応可能アレルゲン６品目】 当館では特定原材料７品目の内、小麦以外の６品目【卵、乳、えび、かに、落花生、そば】に限り対応させて頂きます。ご希望の場合はご予約の際にお申し付けください。 ※小麦は信州,②【保証とお持ち込みについて】 調理の際、アレルゲンの含まれる料理と同一の厨房を使用している為、アレルゲン除去を完全に保証するものではございません。完全な除去をご希望のお客様は安全を第一に考え、当館で,③【宿泊日1週間前までの受付】 アレルゲン除去をご希望の場合は、宿泊日１週間前までにご連絡をお願い致します。 ※直前のお申し出については対応できかねますのでご了承ください。 ※ご不明な点は直接お電話",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の70％    <BR>3日前から           ：宿泊料金の50％    <BR>7日前から           ：宿泊料金の30％    <BR>10日前から          ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "楽天カード"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "諏訪大社四社を巡る無料参拝バス毎日運行中"
+  }
+}

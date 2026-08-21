@@ -1,0 +1,283 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 20354,
+    "hotelName": "老神温泉　吟松亭　あわしま",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D20354",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D20354%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D20354",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D20354",
+    "hotelKanaName": "おいがみおんせん　ぎんしょうてい　あわしま",
+    "hotelSpecial": "国立公園尾瀬に近く、尾瀬散策の拠点に最適　創業以来変らぬ山賊鍋と天然温泉かけ流しの温泉を楽しむ",
+    "hotelMinCharge": 6600,
+    "latitude": 132006.46,
+    "longitude": 501164.17,
+    "postalCode": "378-0322",
+    "address1": "群馬県",
+    "address2": "沼田市利根町老神温泉603",
+    "telephoneNo": "0278-56-2311",
+    "faxNo": "0278-56-2315",
+    "access": "ＪＲ上越線沼田駅からバスで約45分又は新幹線(上越）上毛高原駅からバスで約60分／関越自動車沼田ＩＣより約２０分",
+    "parkingInformation": "有り　５０台　無料",
+    "nearestStation": "沼田",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/20354/20354.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/20354.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/20354/20354_kage.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/20354.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/20354/20354map.gif",
+    "reviewCount": 880,
+    "reviewAverage": 4.03,
+    "userReview": "雰囲気の良い落ち着いた温泉宿いい具合に鄙びた温泉郷の中で一番かな?の規模。時を経ているもののその時代の豪華さを感じる宿です。お盆時期でハイシーズン料金だったのだと思いますが良心的な域。通常期で…　2026-08-12 09:16:14投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=20354\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 3.95,
+    "locationAverage": 3.84,
+    "roomAverage": 3.9,
+    "equipmentAverage": 3.69,
+    "bathAverage": 3.9,
+    "breakfastAverage": 4.09,
+    "dinnerAverage": 4.02,
+    "cleanlinessAverage": 3.81
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "gunma",
+    "smallClassCode": "numata",
+    "areaName": "水上・猿ヶ京・沼田",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "18:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 49,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "リンスインシャンプー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "全室FreeSpot（無線インターネット接続）サービスが利用可能"
+      },
+      {
+        "item": "多目的室"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "湯上がりサロン"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "卓球"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "個室"
+      },
+      {
+        "breakfastPlace": "広間"
+      },
+      {
+        "dinnerPlace": "個室"
+      },
+      {
+        "dinnerPlace": "広間"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "アルカリ単純泉"
+      },
+      {
+        "bathQuality": "単純硫化水素泉"
+      },
+      {
+        "bathQuality": "重炭酸ソーダ泉"
+      },
+      {
+        "bathBenefits": "美肌効果"
+      },
+      {
+        "bathBenefits": "腰痛"
+      },
+      {
+        "bathBenefits": "リウマチ・神経病"
+      }
+    ],
+    "aboutLeisure": "渓流釣り,渓流下り,ゴルフ,パラグライダー,ハイキング,スキー,トレッキング,登山,フラワーパーク,テーマパーク,農業公園,美術館,山菜取り",
+    "handicappedFacilities": [
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "大浴場浴槽に手すりあり"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "入湯税が大人お一人につき、１５０円必要です。,チェックインが１７時以降を過ぎる場合は、必ずご連絡下さい。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>2日前から           ：宿泊料金の30％    <BR>5日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "ORICO"
+      },
+      {
+        "card": "ANA"
+      },
+      {
+        "card": "JAS"
+      },
+      {
+        "card": "JAL"
+      },
+      {
+        "card": "MEDIA"
+      },
+      {
+        "card": "デビットカード"
+      }
+    ],
+    "aboutCreditCardNote": "プランによってはクレジットカードでの御精算の出来ないプランもございます。",
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "大浴場・露天風呂は９：３０〜１５：００の間は清掃の為、ご入浴いただけません。"
+  }
+}

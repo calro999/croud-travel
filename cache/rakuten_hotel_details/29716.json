@@ -1,0 +1,241 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 29716,
+    "hotelName": "層雲峡温泉　朝陽リゾートホテル",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D29716",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D29716%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D29716",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D29716",
+    "hotelKanaName": "そううんきょうおんせん　ちょうよう　りぞーとほてる",
+    "hotelSpecial": "２種の源泉「白濁の湯」と「赤茶の湯」は層雲峡エリアで当館だけ！貸切風呂と岩盤浴も利用できます。",
+    "hotelMinCharge": 11550,
+    "latitude": 157419.51,
+    "longitude": 514606.2,
+    "postalCode": "078-1701",
+    "address1": "北海道",
+    "address2": "上川郡上川町層雲峡温泉",
+    "telephoneNo": "0570-026572",
+    "faxNo": "01658-5-3922",
+    "access": "JR上川駅下車　道北バスで約３０分/札幌・旭川発の送迎バス運行（2026/3/31迄）",
+    "parkingInformation": "有　１００台　無料　先着順",
+    "nearestStation": "上川",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29716/29716.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/29716.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29716/29716_k.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/29716.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29716/29716map.gif",
+    "reviewCount": 2296,
+    "reviewAverage": 4.06,
+    "userReview": "Great Service and Lovely Anniversary SurprisesAlthough we initially encountered a smoke odor in ou…　2026-08-15 22:50:58投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=29716\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.15,
+    "locationAverage": 4.07,
+    "roomAverage": 3.93,
+    "equipmentAverage": 3.91,
+    "bathAverage": 4.31,
+    "breakfastAverage": 3.98,
+    "dinnerAverage": 4.01,
+    "cleanlinessAverage": 4.02
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "hokkaido",
+    "smallClassCode": "asahikawa",
+    "areaName": "旭川・層雲峡・旭岳",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "18:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 200,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー(貸出)"
+      },
+      {
+        "item": "電気スタンド(一部)"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "ティーラウンジ"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "ゲームコーナー"
+      },
+      {
+        "item": "卓球"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "レストラン(バイキング)"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathQuality": "単純温泉"
+      },
+      {
+        "bathBenefits": "リウマチ・神経病"
+      }
+    ],
+    "aboutLeisure": "旭山動物園まで車で１時間、-４０度が体験できるアイスパビリオンまで車で３０分,サイクリング,ハイキング,スキー,登山,水族館,山菜取り",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "・入湯税、宿泊税は料金に含まれておりません。1泊につき大人お1人様入湯税250円を別途頂戴致します。／1名様1泊あたり宿泊税を別途頂戴致します。,・お子様料金の適用は大人２名様以上でのお申し込みとなりますので、大人１名・子供１名のご利用は、２名様とも大人料金となります。,・夕食のご利用時間は18：00～20：30（最終オーダー20：00）までですので、　お時間に間に合うようにご到着ください。,・（2026/3/31まで）送迎バスをご利用の際には事前に電話予約が必要です。ホテル（0570-026572）要問合せ,・ゆるるご利用のお客様へご希望の時間にご利用いただけない場合もございます。予めご了承くださいませ。,・チェックイン予定時刻より遅れる場合は必ず宿泊施設へご連絡下さい。,・当ホテルでは、お客様にお気兼ねなくおくつろぎいただくため、客室へのご案内・ご挨拶にお伺いしないノンサービス制を採用させていただいております。ご滞在のお時間をどうぞごゆっくりとおくつろぎくださいませ。,・同一日にご予約可能なお部屋数は「お一人様３部屋まで」とさせていただきます。３部屋以上をご希望される場合は直接ホテルへお電話にてご相談くださいませ。,・ご予約に関してのご連絡を差し上げる場合がございます。１週間以上ご連絡がつかなかった場合は、キャンセルさせていただく場合がございますので予めご了承くださいませ。,・各種保養所契約利用券・互助会のご使用については、現地でのお支払いのみご利用いただけます。詳しくは、ホテルへお問合せをお願い致します。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の80％    <BR>3日前から           ：宿泊料金の50％    <BR>6日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "OMC"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "AEON"
+      },
+      {
+        "card": "JACCS"
+      },
+      {
+        "card": "APLUS"
+      },
+      {
+        "card": "ORICO"
+      },
+      {
+        "card": "JTB"
+      },
+      {
+        "card": "デビットカード"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "層雲峡朝陽亭の大浴場もご利用可能（宿泊客は無料/２館シャトルバス運行中）",
+    "otherInformation": null
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 11228,
+    "hotelName": "洞窟風呂の宿　百楽荘",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D11228",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D11228%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D11228",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D11228",
+    "hotelKanaName": "どうくつぶろのやど　ひゃくらくそう",
+    "hotelSpecial": "静けさと、どこか懐かしい風景に心休まる。緑と海に囲まれた岬の一軒宿。",
+    "hotelMinCharge": 19470,
+    "latitude": 134306.03,
+    "longitude": 494047.8,
+    "postalCode": "927-0552",
+    "address1": "石川県",
+    "address2": "鳳珠郡能登町越坂11-34",
+    "telephoneNo": "0768-74-1115",
+    "faxNo": "0768-74-1118",
+    "access": "金沢駅から車で2時間半　金沢駅バスで3時間半　能登空港からタクシーで30分／バス停「九十九湾」送迎有り（要予約）",
+    "parkingInformation": "有り　２５台　無料",
+    "nearestStation": "九十九湾小木",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/11228/11228.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/11228.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/11228/11228_s.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/11228.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/11228/11228map.gif",
+    "reviewCount": 2653,
+    "reviewAverage": 4.72,
+    "userReview": "リニューアルで魅力アップ、変わらぬ心地よさ約10年ぶりに宿泊させていただきましたが、いろいろリニューアルされていてより魅力的なお宿になっていました。震災の影響で釣りの桟橋が縮小されていたり魚が見え…　2026-08-14 12:20:28投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=11228\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.77,
+    "locationAverage": 4.73,
+    "roomAverage": 4.62,
+    "equipmentAverage": 4.64,
+    "bathAverage": 4.7,
+    "breakfastAverage": 4.7,
+    "dinnerAverage": 4.75,
+    "cleanlinessAverage": 4.75
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "ishikawa",
+    "smallClassCode": "noto",
+    "areaName": "能登・輪島・珠洲",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "20:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 26,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(一部、LAN形式)"
+      },
+      {
+        "item": "インターネット接続(一部、無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ミニバー"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "ラウンジ"
+      },
+      {
+        "item": "バーラウンジ"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "エステサロン"
+      },
+      {
+        "item": "ゲームコーナー"
+      },
+      {
+        "item": "卓球"
+      },
+      {
+        "item": "釣り堀"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "個室"
+      },
+      {
+        "breakfastPlace": "食事処"
+      },
+      {
+        "dinnerPlace": "個室"
+      },
+      {
+        "dinnerPlace": "食事処"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathBenefits": "アトピー・湿疹"
+      },
+      {
+        "bathBenefits": "美肌効果"
+      }
+    ],
+    "aboutLeisure": "海水浴,釣り,海釣り,ウォータースポーツ,テニス,ゴルフ,博物館,水族館,フラワーパーク,農業公園,栗拾い,山菜取り",
+    "handicappedFacilities": [
+      {
+        "item": "貸出用車椅子"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "■地震被害を大きく受けた【海辺のお食事処 乙姫荘】【CAVE Bar】につきましては、立地の問題から具体的な復旧の見通しが立っておりません。何卒ご理解を賜りますようお願い申し上げます。,■『海遊・翡翠・連理・水滸・琥珀』※木造の建物特性上、防音設備を設けてはいますが一部上階の足音等が聞こえることがあります。予めご理解いただきますようお願い申し上げます。,■レンタカー及びのと里山空港への航空便をご利用の方には、宿泊助成金がございます。詳しくはスタッフまでお申し付けください。,■姉妹店に「金沢湯涌温泉　百楽荘」がございます。お間違えのないようご注意ください。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の70％    <BR>前日                ：宿泊料金の50％    <BR>3日前から           ：宿泊料金の30％    <BR>10日前から          ：宿泊料金の10％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "JTB"
+      },
+      {
+        "card": "デビットカード"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "女性のお客様に限りまして150種類以上の浴衣の中からお好きなものをお選び頂けます。,ウェルカムドリンクサービス,着替え浴衣サービス",
+    "otherInformation": null
+  }
+}

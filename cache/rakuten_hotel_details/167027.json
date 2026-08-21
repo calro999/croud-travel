@@ -1,0 +1,265 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 167027,
+    "hotelName": "旧軽井沢ＫＩＫＹＯキュリオ・コレクションｂｙヒルトン",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D167027",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D167027%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D167027",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D167027",
+    "hotelKanaName": "きゅうかるいざわききょうきゅりおこれくしょんばいひるとん",
+    "hotelSpecial": "ヒルトン日本初進出のキュリオ。伝統と格式高い旧軽井沢という地にあるプライベートラグジュアリーホテル。",
+    "hotelMinCharge": 28160,
+    "latitude": 130860.19,
+    "longitude": 499091.9,
+    "postalCode": "389-0102",
+    "address1": "長野県",
+    "address2": "北佐久郡軽井沢町軽井沢491-5",
+    "telephoneNo": "0267-41-6990",
+    "faxNo": "0267-41-6330",
+    "access": "軽井沢駅より送迎車で約５分（無料送迎サービスはご宿泊者限定）／徒歩にて約１５分",
+    "parkingInformation": "有り　３０台　無料　予約不要",
+    "nearestStation": "軽井沢",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/167027/167027.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/167027.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/167027/167027_kan1.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/167027.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/167027/167027map.gif",
+    "reviewCount": 200,
+    "reviewAverage": 4.69,
+    "userReview": "クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/167027?reviewId=33123478067126　2026-07-09 17:21:29投稿"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.78,
+    "locationAverage": 4.65,
+    "roomAverage": 4.67,
+    "equipmentAverage": 4.57,
+    "bathAverage": 4.34,
+    "breakfastAverage": 4.81,
+    "dinnerAverage": 4.61,
+    "cleanlinessAverage": 4.61
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "nagano",
+    "smallClassCode": "karui",
+    "areaName": "軽井沢・佐久･小諸",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "29:30"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 50,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "ティーサーバー"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "アイロン"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "ヘルスメーター"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（固形）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "ナイトウェア"
+      },
+      {
+        "item": "バスローブ"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "ラウンジ"
+      },
+      {
+        "item": "多目的室"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "結婚式場"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "エステサロン"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "E-Mail送信可"
+      },
+      {
+        "item": "ルームサービス"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "サウナ"
+      }
+    ],
+    "aboutLeisure": "テニス,ゴルフ,サイクリング,ハイキング,スキー,スケート,乗馬,登山",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "車椅子利用者用客室あり"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "■チェックインが予定時間を過ぎる場合は必ずご連絡ください。,■レストラン「ソノリテ」は10歳以上よりご注文を承ります。,■長野県・軽井沢町条例により宿泊税が別途かかる場合がございます。,【お子様についてのお知らせ】,幼児（食事・布団付）、幼児（食事のみ）、幼児（布団のみ）項目が受入不可と表示されておりますが、乳幼児のお子様のご宿泊をお断りしている訳ではございません。,0歳～12歳のお子様は、寝具・食事なしであれば無料で添い寝にてご利用いただけます。 小学生以上のお子様の添い寝にあたっては、備考欄にお子様の人数と年齢をご記入ください。,寝具ありの場合、ご予約時の人数に含めてご入力ください。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>3日前から           ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "Master Card"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "ウェルカムアミューズ／無料送迎,トレーニングルーム御利用無料",
+    "otherInformation": "■地下1階の大浴場・更衣室・着付室は昇降口に段差があり、介助者なしでの車椅子移動と入場ができません。,■該当食材とアレルギーの程度によりお料理の提供ができませんことご了承ください。,■アレルギー情報については事前に施設へお知らせください。"
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 179989,
+    "hotelName": "白鷺の湯　能登　海舟（共立リゾート）（２０２６年７月１６日営業再開）",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D179989",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D179989%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D179989",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D179989",
+    "hotelKanaName": "しらさぎのゆ　のと　かいしゅう",
+    "hotelSpecial": "波穏やかな七尾湾を望む湯宿〜上質な寛ぎと湯贅を愉しむひとときを〜",
+    "hotelMinCharge": 22700,
+    "latitude": 133514.07,
+    "longitude": 492912.01,
+    "postalCode": "926-0175",
+    "address1": "石川県",
+    "address2": "七尾市和倉町ワ部31番地",
+    "telephoneNo": "0767-62-0085",
+    "faxNo": "0767-62-0086",
+    "access": "ＪＲ　のと鉄道　和倉温泉駅より車で約5分",
+    "parkingInformation": "立体駐車場と平地駐車場（事前予約不要）をご用意しております。",
+    "nearestStation": "和倉温泉",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/179989/179989.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/179989.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/179989/179989_kan1.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/179989.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/179989/179989map.gif",
+    "reviewCount": 447,
+    "reviewAverage": 4.55,
+    "userReview": "部屋からの絶景と感動するのどぐろ、清掃面は少し残念良かった点・部屋の窓から見える風景は絶景でした!・料理が美味しく、特にのどぐろは絶品!!改善してほしい点・部屋のゴミ箱にティッシュ…　2026-08-14 13:25:26投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=179989\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.71,
+    "locationAverage": 4.55,
+    "roomAverage": 4.63,
+    "equipmentAverage": 4.64,
+    "bathAverage": 4.7,
+    "breakfastAverage": 4.68,
+    "dinnerAverage": 4.77,
+    "cleanlinessAverage": 4.67
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "ishikawa",
+    "smallClassCode": "nanao",
+    "areaName": "七尾・和倉・羽咋",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "20:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 100,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "くつろぎ着の作務衣"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "SDGsに向けた取り組みとして、アメニティの提供方法を変更しております。"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "ラウンジ"
+      },
+      {
+        "item": "夜食コーナー"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "湯上がりサロン"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "食事処"
+      },
+      {
+        "dinnerPlace": "食事処"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathType": "水風呂"
+      },
+      {
+        "bathQuality": "ナトリウム・カルシウム塩化物泉"
+      },
+      {
+        "bathBenefits": "神経痛"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      },
+      {
+        "bathBenefits": "リウマチ・神経病"
+      }
+    ],
+    "aboutLeisure": "釣り",
+    "handicappedFacilities": [
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "大浴場浴槽に手すりあり"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "★入湯税大人150円を別途頂きます。,★ご宿泊は小学生以上のお子様のみとなり、大人と同料金となります。未就学児のお受入はできませんので、何卒ご理解・ご了承賜りますようお願い申し上げます。,★特定原材料29品目のアレルギーをお持ちのお客様は「低アレルゲンメニュー」のご用意が可能です。ご希望のお客様は備考にご記載ください。「低アレルゲンメニュー」のお申込みは2日前までとなります。,★特定原材料29品目以外のアレルギー、投薬やご懐妊中の食材変更、苦手食材等のご対��は出来かねます。,★入れ墨（刺青）・タトゥーのあるお客様の大浴場のご利用はご遠慮いただいております。,★能登半島地震からの復興途上にあるため、館内からの眺望に制限がございますので、何卒ご理解賜りますようお願い申し上げます。,★掲載しております写真は震災前のものとなります。何卒ご理解・ご了承の程お願い申し上げます。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の80％    <BR>2日前から           ：宿泊料金の50％    <BR>4日前から           ：宿泊料金の20％    <BR>7日前から           ：宿泊料金の10％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Discover"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "AEON"
+      },
+      {
+        "card": "JACCS"
+      },
+      {
+        "card": "ORICO"
+      },
+      {
+        "card": "楽天カード"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "ウェルカムドリンクサービス",
+    "otherInformation": "※タトゥー、刺青がある方の 大湯処のご利用は お断りさせていただいております。,※SDGsに向けた取り組みとして、2022年4月上旬よりアメニティの提供方法を変更いたします。"
+  }
+}

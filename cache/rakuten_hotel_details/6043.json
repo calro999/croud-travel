@@ -1,0 +1,232 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 6043,
+    "hotelName": "マイホテル　竜宮",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D6043",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D6043%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D6043",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D6043",
+    "hotelKanaName": "まいほてる　りゅうぐう",
+    "hotelSpecial": "〈新静岡駅１分・静岡駅５分〉カフェやコンビニも徒歩圏内の好立地！ビジネス・観光に最適なビジネスホテル",
+    "hotelMinCharge": 2079,
+    "latitude": 125897.63,
+    "longitude": 498210.35,
+    "postalCode": "420-0858",
+    "address1": "静岡県",
+    "address2": "静岡市葵区伝馬町10-5",
+    "telephoneNo": "054-251-1315",
+    "faxNo": "054-251-1316",
+    "access": "JR静岡駅北口より徒歩５分。新静岡セノバから徒歩２分！東名静岡ICより車で10分。",
+    "parkingInformation": "有料提携駐車場あり",
+    "nearestStation": "静岡",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/6043/6043.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/6043.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/6043/6043_img.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/6043.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/6043/6043map.gif",
+    "reviewCount": 934,
+    "reviewAverage": 3.25,
+    "userReview": "設備が古いので仕方ないのかもしれませんがとにかく清潔感がありませんでした。2階和室大部屋は畳を後から乗せただけ、ずれて隙間から見える床は埃だらけ。トイレは部屋の中ではなく廊下にあり、廊下中に排…　2026-08-13 16:55:00投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=6043\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 3.47,
+    "locationAverage": 3.64,
+    "roomAverage": 3.11,
+    "equipmentAverage": 3.07,
+    "bathAverage": 2.94,
+    "breakfastAverage": 3,
+    "cleanlinessAverage": 3.11
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "shizuoka",
+    "smallClassCode": "shizuoka",
+    "areaName": "静岡・清水",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "29:30"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 64,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送"
+      },
+      {
+        "item": "有料ビデオ"
+      },
+      {
+        "item": "衛星放送（無料）"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(LAN形式)"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "パジャマ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "ファックスはフロントにて送信できます。（有料）１枚５０円　受信は無料"
+      },
+      {
+        "item": "コピー機はカラー印刷対応。（有料）"
+      },
+      {
+        "item": "フロントにあるパソコンは回覧のみ。各種印刷無料"
+      },
+      {
+        "item": "多目的室"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "パソコン利用可"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      }
+    ],
+    "aboutMealPlace": [],
+    "aboutBath": [],
+    "aboutLeisure": "当館すぐそばにハンバーグで有名な『さわやか』が入っているセノバがあります。その他おススメ多数☆,釣り,サッカー,動物園,美術館",
+    "handicappedFacilities": [
+      {
+        "item": "客室内に洋式トイレあり"
+      }
+    ],
+    "linguisticLevel": "中国語：ネイティブに近く流暢なスタッフが数人いる。<BR>英語：日常的な内容は問題のないスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "当日のキャンセルは宿泊料の100％をいただきます。,当館では提携駐車場があり、一晩1500円（１５時～翌日１１時）でご用意させていただいております。,無断での不泊は宿泊料の全額をいただきます。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Discover"
+      },
+      {
+        "card": "楽天カード"
+      },
+      {
+        "card": "ANA"
+      },
+      {
+        "card": "JAL"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": "分割払い不可",
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "全室無線LAN（有線可）＆ウォシュレット完備！近くにコンビニ・繁華街あり！,ミィーティングやセミナー利用に好評の小会議室あり。　Wi-Fi無料接続OK！,朝食は近所のサンドウィッチが人気のカフェがオススメ"
+  }
+}

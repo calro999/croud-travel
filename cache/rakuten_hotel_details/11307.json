@@ -1,0 +1,298 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 11307,
+    "hotelName": "アパホテル＆リゾート〈上越妙高〉",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D11307",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D11307%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D11307",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D11307",
+    "hotelKanaName": "あぱほてるあんどりぞーと　じょうえつみょうこう",
+    "hotelSpecial": "妙高山を一望する高原リゾート！ゴルフや温泉、北信越グルメに星空まで楽しめる充実のオールインワン。",
+    "hotelMinCharge": 4200,
+    "latitude": 132836.5,
+    "longitude": 497717.4,
+    "postalCode": "949-2224",
+    "address1": "新潟県",
+    "address2": "妙高市桶海1090",
+    "telephoneNo": "0255-82-4111",
+    "faxNo": "0255-82-4011",
+    "access": "上信越道中郷ICから20分　北陸新幹線「上越妙高駅」（関山駅経由）～無料送迎バスで約45分（電話予約制）　",
+    "parkingInformation": "有り　1200台　無料　先着順　大型バスも無料駐車可",
+    "nearestStation": "関山",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/11307/11307.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/11307.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/11307/11307_room.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/11307.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/11307/11307map.gif",
+    "reviewCount": 1617,
+    "reviewAverage": 4.11,
+    "userReview": "最高!夕食に朝食も美味しく、ついつい食べ過ぎてしまいました。それからベッドの寝心地も良く、お風呂も最高でした!また泊まりに行きたいです!クチコミの詳細はこちらから　https://re…　2026-08-15 16:38:06投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=11307\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.1,
+    "locationAverage": 4.15,
+    "roomAverage": 4.14,
+    "equipmentAverage": 4.05,
+    "bathAverage": 4.07,
+    "breakfastAverage": 4.19,
+    "dinnerAverage": 4.1,
+    "cleanlinessAverage": 4.16
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "niigata",
+    "smallClassCode": "joetsu",
+    "areaName": "上越・糸魚川・妙高",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "29:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 230,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送（無料）"
+      },
+      {
+        "item": "インターネット接続(LAN形式)"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "洗顔ソープ"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "◆全室（有線LAN※貸出＆Wi-Fi）接続無料　★全客室映画・アニメ無料見放題★"
+      },
+      {
+        "item": "◆無料送迎バスを上越新幹線「上越妙高駅」からご用意しております（ご予約制）"
+      },
+      {
+        "item": "◆無料送迎バスをえちごトキめき鉄道「関山駅」からご用意しております（ご予約制）"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "バーラウンジ"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "プール(夏期のみ)"
+      },
+      {
+        "item": "卓球"
+      },
+      {
+        "item": "コネクティングルーム（一部・要予約）"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "ペット同宿可"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      },
+      {
+        "dinnerPlace": "レストラン(バイキング)"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathType": "人工温泉"
+      },
+      {
+        "bathType": "水風呂"
+      },
+      {
+        "bathQuality": "低張性弱アルカリ性泉"
+      },
+      {
+        "bathQuality": "単純硫黄泉"
+      },
+      {
+        "bathQuality": "光明石温泉"
+      },
+      {
+        "bathBenefits": "五十肩"
+      },
+      {
+        "bathBenefits": "冷え性"
+      },
+      {
+        "bathBenefits": "慢性消化器病"
+      }
+    ],
+    "aboutLeisure": "ゴルフ場、上越妙高の森ゴルフコース,海水浴,ゴルフ,サッカー,ハイキング,スキー,トレッキング,登山,遊園地,水族館",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      }
+    ],
+    "linguisticLevel": "英語：日常的な内容は問題のないスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "大浴場はホテル本館のみの設置となります。,ご夕食付プランで到着が19時以降になる場合は、予めご連絡ください。（最終入場20時推奨の為）,アパホテルでは、未就学のお子様は1ベッドにつき1名様まで添い寝無料でご利用いただけます。,小人料金の食事は、子供メニューとなります。（ビュッフェは大人と同メニュー）,小人宿泊時は、低学年の小人も高学年を選択してください。（料金は同料金、大人の70％※特別プランは除く）,ご到着時刻の2時間を過ぎてもご連絡がない場合は、キャンセルとさせて頂く事もございます。ご了承下さいませ。,当日キャンセルにつきましては、キャンセル料を頂戴する事もございますのでご注意下さい。,ご連絡なく不泊の場合、ご成立料金の100％をご請求させて頂きます。,食事付プランでのお申し込み際に、食事のみのキャンセルされた場合でもご返金はいたしません。,大浴場や食事会場はホテル本館のみの設置となります。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "楽天カード"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "インターネットＷｉ-Ｆｉ・有線ＬＡＮ接続無料★全客室映画・アニメ無料見放題★",
+    "otherInformation": "【現地で利用可能なコード決済・電子マネー】,コード決済（PayPay,ｄ払い,au PAY,楽天ペイ,メルペイ,ゆうちょPay）,電子マネー（iD,QUICPay,楽天Edy,nanaco,WAON,交通系電子マネー）"
+  }
+}

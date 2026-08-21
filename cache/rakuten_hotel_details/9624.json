@@ -1,0 +1,313 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 9624,
+    "hotelName": "秋田温泉さとみ",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D9624",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D9624%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D9624",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D9624",
+    "hotelKanaName": "あきたおんせん　さとみ",
+    "hotelSpecial": "秋田駅から車で1０分、とろりとした「秋田温泉」源泉を持つ温泉旅館です。全館でWi-Fiが利用可能！",
+    "hotelMinCharge": 7000,
+    "latitude": 143090.56,
+    "longitude": 504491.25,
+    "postalCode": "010-0822",
+    "address1": "秋田県",
+    "address2": "秋田市添川境内川原142-1",
+    "telephoneNo": "018-833-7171",
+    "faxNo": "018-833-3718",
+    "access": "秋田自動車道秋田中央ＩＣより車で約１５分、秋田新幹線秋田駅よりタクシーで１０分、路線バスで１５分ほどです。",
+    "parkingInformation": "旅館前に大きな無料駐車場があります。バイクは事前連絡で屋根のついた駐車スペースを案内できます。",
+    "nearestStation": "秋田",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9624/9624.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/9624.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9624/9624_room.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/9624.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9624/9624map.gif",
+    "reviewCount": 990,
+    "reviewAverage": 4.38,
+    "userReview": "泉質が最高で、お風呂に3回も入った素泊まり朝食付きで利用しました。泉質がトロリとして非常にいいお湯です。3回入りました。内風呂も露天風呂も大きく人が多くても気になりません。クチコミ…　2026-08-15 12:35:57投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=9624\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.38,
+    "locationAverage": 4.15,
+    "roomAverage": 4.27,
+    "equipmentAverage": 4.12,
+    "bathAverage": 4.47,
+    "breakfastAverage": 4.37,
+    "dinnerAverage": 4.53,
+    "cleanlinessAverage": 4.26
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "akita",
+    "smallClassCode": "akita",
+    "areaName": "秋田",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "23:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 49,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送"
+      },
+      {
+        "item": "ビデオデッキ(貸出)"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー(一部)"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "カセットデッキ(貸出)"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "全客室に空気清浄機（加湿機能付き）を導入しました。"
+      },
+      {
+        "item": "ティーラウンジ"
+      },
+      {
+        "item": "カラオケサロン"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "結婚式場"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "パソコン利用可"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "breakfastPlace": "コンベンションホール"
+      },
+      {
+        "dinnerPlace": "広間"
+      },
+      {
+        "dinnerPlace": "料亭"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "ナトリウム塩化物泉"
+      },
+      {
+        "bathBenefits": "アトピー・湿疹"
+      },
+      {
+        "bathBenefits": "皮膚病"
+      },
+      {
+        "bathBenefits": "美肌効果"
+      }
+    ],
+    "aboutLeisure": "海水浴,海釣り,ゴルフ,スキー,スケート,トレッキング,登山,陸上競技,動物園,博物館,水族館,美術館",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "大浴場浴槽に手すりあり"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      },
+      {
+        "item": "高齢者用料理への対応可能"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      },
+      {
+        "item": "施設スタッフによる介助・補助対応が可能"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "●大人の方のみ入湯税（宿泊150円）を別途頂戴いたします。,●門限は連絡がない場合、0時となっております。お帰りが遅くなる場合は旅館へご連絡ください。,●夕食は食事会場または個室会食場及び宴会場となります。(竿燈まつり期間は大広間会場になります）,●画像はイメージです。季節によりお料理内容、器などが変わる場合がございます。,●お部屋の階数や眺望のご希望や、料理内容の変更、食事場所のご希望にはお応えできない場合がございます。あらかじめご了承ください。,●幼児（食事なし・布団なし）で１歳未満のお子様は無料となります。ご予約の際、予約人数には加えずにご予約頂き、備考欄に年齢と性別、人数をお書き添えください。,●22:00～7:00の間にチェックイン/チェックアウトされるお客様に関して、22:00～7:00の間は精算対応を行っておりませんので、事前にご相談ください",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>3日前から           ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "将棋無料貸出,囲碁無料貸出",
+    "otherInformation": "さとみ全館でWi-Fiが利用可能になりました！,PayPay（ペイペイ）が使えるようになりました。"
+  }
+}

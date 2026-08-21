@@ -1,0 +1,315 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 1017,
+    "hotelName": "ホテルニューオータニ博多",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D1017",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D1017%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D1017",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D1017",
+    "hotelKanaName": "にゅーおーたに　はかた",
+    "hotelSpecial": "地下鉄「渡辺通駅」より徒歩1分！地下鉄七隈線延伸で空港・博多駅からのアクセスがますます便利に！",
+    "hotelMinCharge": 8500,
+    "latitude": 120888.12,
+    "longitude": 469471.72,
+    "postalCode": "810-0004",
+    "address1": "福岡県",
+    "address2": "福岡市中央区渡辺通1-1-2  　　　　  ",
+    "telephoneNo": "092-714-1111",
+    "faxNo": "092-715-5658",
+    "access": "地下鉄七隈線「渡辺通駅」2番出口より徒歩約1分。ＪＲ博多駅より車で約5分。福岡空港より車で約20分。",
+    "parkingInformation": "有り／370台／１泊(入庫時間より24時間）／1500円（税込み）",
+    "nearestStation": "博多",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1017/1017.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/1017.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1017/1017_room.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/1017.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1017/1017map.gif",
+    "reviewCount": 3610,
+    "reviewAverage": 4.42,
+    "userReview": "全体的に満足この度は2泊で利用させて頂きました。部屋もゆったりして立地もくるまでしたので、良かったです。ホテルの方の対応も一流でした。ただトイレの便座が冷たかったのが残念でした。クチコ…　2026-08-15 18:38:38投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=1017\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.48,
+    "locationAverage": 4.35,
+    "roomAverage": 4.38,
+    "equipmentAverage": 4.29,
+    "bathAverage": 4.22,
+    "breakfastAverage": 4.4,
+    "dinnerAverage": 3,
+    "cleanlinessAverage": 4.41
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "hukuoka",
+    "smallClassCode": "seibu",
+    "areaName": "天神・中洲・薬院・福岡ドーム・糸島",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "14:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "26:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 372,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送（無料）"
+      },
+      {
+        "item": "ビデオデッキ(貸出)"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "モジュラージャック"
+      },
+      {
+        "item": "ファックス(貸出)"
+      },
+      {
+        "item": "インターネット接続(LAN形式)"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "ヘルスメーター"
+      },
+      {
+        "item": "変圧器（貸出）"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ベビーベッド"
+      },
+      {
+        "item": "石鹸（固形）"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "入浴剤"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "■ロビー(1階)、全客室にてWi-Fi無料サービス完備"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "ティーラウンジ"
+      },
+      {
+        "item": "バー"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "結婚式場"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "ベーカーショップ"
+      },
+      {
+        "item": "コーヒーショップ"
+      },
+      {
+        "item": "フラワーショップ"
+      },
+      {
+        "item": "ショッピングアベニュー"
+      },
+      {
+        "item": "美容院"
+      },
+      {
+        "item": "茶室"
+      },
+      {
+        "item": "コネクティングルーム（一部・要予約）"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "パソコン利用可"
+      },
+      {
+        "item": "ワープロ利用可"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "E-Mail送信可"
+      },
+      {
+        "item": "ルームサービス"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [],
+    "aboutLeisure": "ゴルフ,遊園地,動物園,博物館,美術館",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "チェックインの際、お預かり金もしくはクレジットカードのカードチェックをさせていただいております。※事前カード決済は除く,【宿泊税について】,福岡県並びに福岡市条例により、2020年4月1日よりお1人様ご1泊あたり宿泊税を以下の通り別途頂戴いたします。※楽パック（航空券＋宿泊）は除く,宿泊料金20,000円未満　200円（県税含む）／宿泊料金20,000円以上　500円（県税含む）※事前カード決済にてお支払済の場合も、事前精算金額の中に上記宿泊税は含まれておりません。,【レストラン営業のご案内】,状況により、予告なく朝食のご提供方法を変更する場合がございます。また営業時間変更及び営業休止を実施する場合もございます。最新情報は、ホテル公式HPをご確認願います。,【旅行会社様の代理予約について】,本システムを通じて、ツアーの開催、他者への転売、その他商用目的で「楽天トラベル」を利用する行為は禁止されています。万が一発覚した場合はご予約を解除させていただきますので予めご了承ください。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の80％    <BR>前日                ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "Bank Card"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "CF"
+      },
+      {
+        "card": "ORICO"
+      },
+      {
+        "card": "Daimaru"
+      },
+      {
+        "card": "楽天カード"
+      },
+      {
+        "card": "JAL"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": null
+  }
+}

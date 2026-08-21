@@ -1,0 +1,261 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 178705,
+    "hotelName": "ホテルルートイン新富士駅南‐国道１号バイパス沿‐",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D178705",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D178705%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D178705",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D178705",
+    "hotelKanaName": "るーといんしんふじえきまえこくどういちごうばいぱすぞい",
+    "hotelSpecial": "★2020年開業★客室は富士山側がお勧め！人工温泉大浴場・ランドリー完備■朝食バイキング・駐車場無料",
+    "hotelMinCharge": 5625,
+    "latitude": 126482.99,
+    "longitude": 499187.96,
+    "postalCode": "416-0945",
+    "address1": "静岡県",
+    "address2": "富士市宮島602-1",
+    "telephoneNo": "050-5576-7881",
+    "faxNo": "0545-66-5778",
+    "access": "ＪＲ東海道新幹線『新富士駅』徒歩10分（車で3分）／JR東海道本線『富士駅』車で9分／東名高速『富士インター』車で15分",
+    "parkingInformation": "平面無料駐車場164台（先着順）",
+    "nearestStation": "新富士（静岡）",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/178705/178705.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/178705.jpg",
+    "roomImageUrl": null,
+    "roomThumbnailUrl": null,
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/178705/178705map.gif",
+    "reviewCount": 1376,
+    "reviewAverage": 4.27,
+    "userReview": "部屋は広くて快適だがロビーの空調がすこしたかいビジネスホテルにしては部屋も広く圧迫感も無いです新富士駅からの送迎の運転手さんもとても親切で本当に利用して良かったと思えました星を一つ減らして…　2026-08-12 23:43:01投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=178705\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.28,
+    "locationAverage": 4.17,
+    "roomAverage": 4.3,
+    "equipmentAverage": 4.23,
+    "bathAverage": 4.24,
+    "breakfastAverage": 4.26,
+    "cleanlinessAverage": 4.3
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "shizuoka",
+    "smallClassCode": "fuji",
+    "areaName": "富士・富士宮",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "29:30"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 230,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "有料ビデオ"
+      },
+      {
+        "item": "衛星放送（無料）"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "洗顔ソープ"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "くつろぎ着の作務衣"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "Wi-Fi館内全域利用可能（無料）"
+      },
+      {
+        "item": "エアウィーヴ寝具導入：コンフォートルーム特典"
+      },
+      {
+        "item": "VODルームシアター無料視聴可能（一般映画のみ）：コンフォートルーム特典"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "貸自転車"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "人工温泉"
+      },
+      {
+        "bathQuality": "ラジウム温泉"
+      },
+      {
+        "bathBenefits": "関節痛"
+      },
+      {
+        "bathBenefits": "冷え性"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      }
+    ],
+    "aboutLeisure": "陸上競技,遊園地,動物園,テーマパーク",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "チェックインが予定時間を過ぎる場合は必ずご連絡ください。,団体ご予約（１５名以上）の場合、別途規定によるキャンセル料を請求させていただきます。,当ホテルとの宿泊契約には、当ホテルが定める宿泊約款が適用されます。宿泊約款の内容については各ホテルにお問合せください。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の80％    <BR>前日                ：宿泊料金の50％    <BR>3日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Discover"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": "銀聯カード/QRコード決済(PayPay等）、電子マネー(iD等)、交通系電子マネー(Suica等)",
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "モーニングコーヒーサービス,ウェルカムドリンクサービス,朝刊サービス",
+    "otherInformation": "レンタサイクルサービス：利用可能時間　6：00〜23：00(最終受付21：00)　2時間無料"
+  }
+}

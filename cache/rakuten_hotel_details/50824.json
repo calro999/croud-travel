@@ -1,0 +1,210 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 50824,
+    "hotelName": "敦賀トンネル温泉　北国グランドホテル＜福井県＞",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D50824",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D50824%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D50824",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D50824",
+    "hotelKanaName": "つるがとんねるおんせん　きたぐにぐらんどほてる",
+    "hotelSpecial": "大浴場から敦賀市街地を一望★★自慢の温泉はサラサラ系＆無臭♪♪　お肌つるつるに！",
+    "hotelMinCharge": 4800,
+    "latitude": 128288.56,
+    "longitude": 489924,
+    "postalCode": "914-0028",
+    "address1": "福井県",
+    "address2": "敦賀市中80-1-3",
+    "telephoneNo": "0770-22-4551",
+    "faxNo": "0770-22-4550",
+    "access": "ＪＲ　敦賀駅より車で１５分（１４：３０～１７：００送迎可・要予約）",
+    "parkingInformation": "有り　８０台　無料　予約不要",
+    "nearestStation": "敦賀",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/50824/50824.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/50824.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/50824/50824_on.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/50824.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/50824/50824map.gif",
+    "reviewCount": 514,
+    "reviewAverage": 3.58,
+    "userReview": "海水浴後の温泉と美味しい食事に大満足古さは感じますが、過ごしやすかったです!今回、海水浴の際に利用しました。温泉があるので、海水浴後にチェックインしてすぐにお風呂に入れたのがよかったです!お食…　2026-08-15 07:36:52投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=50824\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 3.65,
+    "locationAverage": 3.7,
+    "roomAverage": 3.36,
+    "equipmentAverage": 3.3,
+    "bathAverage": 3.9,
+    "breakfastAverage": 3.49,
+    "dinnerAverage": 3.59,
+    "cleanlinessAverage": 3.47
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "hukui",
+    "smallClassCode": "tsuruga",
+    "areaName": "敦賀・美浜",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "14:30",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "22:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 48,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー(貸出)"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "石鹸（固形）"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "喫茶"
+      },
+      {
+        "item": "バー"
+      },
+      {
+        "item": "夜食コーナー"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "ゲームコーナー"
+      },
+      {
+        "item": "卓球"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "部屋"
+      },
+      {
+        "dinnerPlace": "部屋"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathQuality": "単純硫黄泉"
+      },
+      {
+        "bathBenefits": "神経痛"
+      },
+      {
+        "bathBenefits": "婦人病"
+      },
+      {
+        "bathBenefits": "リウマチ・神経病"
+      }
+    ],
+    "aboutLeisure": "海水浴,釣り,海釣り,テニス,ゲートボール,ゴルフ,サッカー,スキー,スケート",
+    "handicappedFacilities": [],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "入湯税が別途必要です。（お１人様１５０円）,１泊２食付でチェックインが２０：００以降の場合、料理は作り置きになります。,チェックインが１８：００以降の場合はご連絡下さい。,送迎バスは１４：３０～１7：0０で必ず事前にご予約下さい。,幼児のお子様の夕食はお子様ランチ対応になります。,5名様以上になりますと、お食事を小宴会場又は別部屋対応となる場合がございます。,ミールプランご利用のお客様へ、お食事は季節により内容が異なることがございます。予めご了承くださいませ。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>2日前から           ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "デビットカード"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": null
+  }
+}

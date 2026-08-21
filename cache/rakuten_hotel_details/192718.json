@@ -1,0 +1,201 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 192718,
+    "hotelName": "ｈｏｔｅｌ　ｎａｎｓｕｉ",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D192718",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D192718%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D192718",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D192718",
+    "hotelKanaName": "ほてる　なんすい",
+    "hotelSpecial": "１１月１５日坂本龍馬の生誕跡地にグランドオープン　ホテルコンセプトは－自分を”洗濯”できるホテル－　",
+    "hotelMinCharge": 16200,
+    "latitude": 120792.55,
+    "longitude": 480703.01,
+    "postalCode": "780-0901",
+    "address1": "高知県",
+    "address2": "高知市上町1-7-12",
+    "telephoneNo": "088-821-8895",
+    "faxNo": "088-821-8896",
+    "access": "とさでん交通「上町一丁目」駅より徒歩約3分、JR高知駅より車で約8分",
+    "parkingInformation": "有り　18台　無料　先着順",
+    "nearestStation": "高知",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/192718/192718.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/192718.jpg",
+    "roomImageUrl": null,
+    "roomThumbnailUrl": null,
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/192718/192718map.gif",
+    "reviewCount": 35,
+    "reviewAverage": 4.88,
+    "userReview": "いつも快適で素晴らしい接客と朝食いつも快適に過ごさせていただいています!落ち着いた雰囲気で、素晴らしい接客でした。朝食も美味しくいただきました!クチコミの詳細はこちらから　https://re…　2026-06-14 11:08:01投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=192718\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.85,
+    "locationAverage": 4.52,
+    "roomAverage": 4.77,
+    "equipmentAverage": 4.8,
+    "bathAverage": 4.25,
+    "breakfastAverage": 4.83,
+    "dinnerAverage": 4.8,
+    "cleanlinessAverage": 4.9
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "kouchi",
+    "smallClassCode": "kouchi",
+    "areaName": "高知・南国・香南・伊野",
+    "hotelClassCode": "PENSION",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "23:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 33,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "ＣＳ放送"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "洗顔ソープ"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "くつろぎ着の作務衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "※冷蔵庫はミネラルウォーター付きです。"
+      },
+      {
+        "item": "※スイートルームのみ、バスローブがございます。"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "バーラウンジ"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "水風呂"
+      }
+    ],
+    "aboutLeisure": "釣り,渓流下り,ゴルフ,洞窟探検,博物館,水族館",
+    "handicappedFacilities": [],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "【ご案内】,・食物アレルギーをお持ちの方は、3日前までにお伝えくださいますようお願いいたします。当日の急なお申し出には対応出来かねますので予めご了承ください。,・ホテル館内は禁煙です。喫煙の際は1F喫煙室をご利用ください。,・小学生以下のお子様はご宿泊いただけません。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の80％    <BR>3日前から           ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "Master Card"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": null
+  }
+}

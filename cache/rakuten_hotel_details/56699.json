@@ -1,0 +1,196 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 56699,
+    "hotelName": "湯原温泉　我無らん　－ＧＡＭＥＬＡＮ－",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D56699",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D56699%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D56699",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D56699",
+    "hotelKanaName": "ゆばらおんせん　がむらん",
+    "hotelSpecial": "【全客室で24時間天然温泉】「源泉100％掛け流し」全室異なるバリステイストのプライベート空間",
+    "hotelMinCharge": 11000,
+    "latitude": 126710.17,
+    "longitude": 481444.05,
+    "postalCode": "717-0402",
+    "address1": "岡山県",
+    "address2": "真庭市湯原温泉114",
+    "telephoneNo": "0867-62-2292",
+    "faxNo": "0867-62-2510",
+    "access": "米子自動車道≪湯原ＩＣ≫を出て、国道３１３号線を湯原温泉方面へ約５分",
+    "parkingInformation": "【無料・予約不要】すぐ横に平面駐車場。24時間出し入れ自由。屋根はございませんのでご了承下さい。",
+    "nearestStation": "中国勝山",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/56699/56699.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/56699.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/56699/56699_ky.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/56699.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/56699/56699map.gif",
+    "reviewCount": 334,
+    "reviewAverage": 4.74,
+    "userReview": "食事も美味しくスタッフの心遣いに感謝夕食、朝食はとても美味しく、ほぼ完食でした。苦手な食材がありましたが、変更して頂きましてありがとうございます。スタッフの皆さまの心遣いに感謝致します。機…　2026-07-23 23:00:24投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=56699\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.69,
+    "locationAverage": 4.44,
+    "roomAverage": 4.46,
+    "equipmentAverage": 4.48,
+    "bathAverage": 4.79,
+    "breakfastAverage": 4.67,
+    "dinnerAverage": 4.85,
+    "cleanlinessAverage": 4.46
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "okayama",
+    "smallClassCode": "niimi",
+    "areaName": "湯原・蒜山・新見・高梁",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "16:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "21:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 5,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "洗顔ソープ"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "バスローブ"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "【アメニティ】クレンジング・化粧水・洗顔・コットン・ヘアゴム etc."
+      },
+      {
+        "item": "【客室設備】空気清浄機"
+      },
+      {
+        "item": "本館湯の蔵つるや大浴場無料利用可能（休館日除く）【利用時間】夜：15時〜22時、翌朝：7時〜8時半"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "ティーラウンジ"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "弱アルカリ単純泉"
+      },
+      {
+        "bathBenefits": "神経痛"
+      },
+      {
+        "bathBenefits": "美肌効果"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      }
+    ],
+    "aboutLeisure": "24時間無料でご利用いただける、湯原温泉の名勝「砂湯」まで徒歩7分,釣り,渓流釣り,テニス,ゴルフ,スキー,乗馬,ロッククライミング,登山",
+    "handicappedFacilities": [
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "＊現地にて大人お1人様あたり【入湯税150円・入湯料100円】を別途頂戴いたします。,＊全室分煙対応（電子タバコのみ喫煙可）となっております。紙タバコやお部屋内での喫煙はできませんのでご遠慮ください。,＊館内にエレベーターはございません。2階、3階への移動は階段となります。,＊21時以降ご到着の場合は夜警担当者の対応となります。簡単なご案内となりますので、質問等あれば21時までにお電話下さい。,*** おしらせ ***********,　当館では現地でのクレジットカード決済はご利用いただけません。,　クレジットカード決済は予約時の「事前カード決済」となります。,**********************",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の60％    <BR>2日前から           ：宿泊料金の50％    <BR>5日前から           ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "利用不可"
+      }
+    ],
+    "aboutCreditCardNote": "現地でのクレジットカードはご利用いただけません。予めご了承ください。",
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "電車でお越しのお客様は中国勝山駅から真庭コミュニティバス（片道200円）をご利用ください。"
+  }
+}

@@ -1,0 +1,309 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 18683,
+    "hotelName": "羽生天然温泉ルートイングランティア羽生ＳＰＡ　ＲＥＳＯＲＴ",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D18683",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D18683%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D18683",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D18683",
+    "hotelKanaName": "はにゅうてんねんおんせん　るーといん　ぐらんてぃあ　はにゅう　すぱ　りぞーと",
+    "hotelSpecial": "◆源泉かけ流しの天然温泉・3種類のサウナと岩盤浴◆風呂上がりの一杯と食事が楽しめるはなの夢 まぐろや",
+    "hotelMinCharge": 7300,
+    "latitude": 130196.88,
+    "longitude": 502318.35,
+    "postalCode": "348-0054",
+    "address1": "埼玉県",
+    "address2": "羽生市西3-19-3",
+    "telephoneNo": "048-560-3555",
+    "faxNo": "048-560-3553",
+    "access": "羽生駅西口より徒歩3分/加須より電車で10分/久喜、行田より電車で20分/熊谷より電車で30分/大宮より電車で45分/",
+    "parkingInformation": "完備　普通車250台：無料　大型車：有料　￥2,000（1日）",
+    "nearestStation": "羽生",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/18683/18683.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/18683.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/18683/18683_h.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/18683.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/18683/18683map.gif",
+    "reviewCount": 1371,
+    "reviewAverage": 4.28,
+    "userReview": "畳の部屋で快適だが寝具の匂いが気になった4回目の宿泊です。子供連れなので畳の部屋はありがたいです。宿泊棟、温浴施設共に満足ですが、今回寝具の匂いが苦痛でした。枕が特に臭く使用できなかったです。…　2026-08-02 06:23:51投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=18683\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.25,
+    "locationAverage": 4.12,
+    "roomAverage": 4.19,
+    "equipmentAverage": 4.13,
+    "bathAverage": 4.41,
+    "breakfastAverage": 4.23,
+    "cleanlinessAverage": 4.25
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "saitama",
+    "smallClassCode": "kasukabe",
+    "areaName": "草加・越谷・春日部・羽生",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "26:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 259,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送"
+      },
+      {
+        "item": "有料ビデオ"
+      },
+      {
+        "item": "モジュラージャック"
+      },
+      {
+        "item": "インターネット接続(LAN形式)"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "2食付対応"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "居酒屋コーナー"
+      },
+      {
+        "item": "カラオケルーム"
+      },
+      {
+        "item": "多目的室"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "エステサロン"
+      },
+      {
+        "item": "麻雀室"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "E-Mail送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      },
+      {
+        "dinnerPlace": "食事処"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathType": "人工温泉"
+      },
+      {
+        "bathType": "水風呂"
+      },
+      {
+        "bathType": "岩盤浴"
+      },
+      {
+        "bathQuality": "ナトリウム・塩化物炭酸水素塩泉"
+      },
+      {
+        "bathBenefits": "神経痛"
+      },
+      {
+        "bathBenefits": "美肌効果"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      }
+    ],
+    "aboutLeisure": "テニス,ゲートボール,サッカー,サイクリング,遊園地,動物園,水族館,フラワーパーク,テーマパーク",
+    "handicappedFacilities": [
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "【客室空調（冷暖房）の設定につきまして】当ホテルの空調システムは、全館一括で冷房・暖房の切り替えを行っており、客室ごとに冷房と暖房の切り替えが出来ません。,お客様にはご不便をお掛けいたしますが 設備の都合上、ご希望に添えない場合がございますこと 何卒ご理解とご協力を賜りますようお願い申し上げます。,【消防設備点検実施のお知らせ】日時→2026年8月21日（金）9：00 ～ 17：00 予定　詳しくはルートインホテルズ公式サイトをご確認ください。,ご宿泊のお客様は天然温泉『華のゆ』を無料でご利用頂けます。華のゆ営業時間10:00～24:00（最終受付23:30）でございます。ご宿泊のお客様は朝6:00～10:00まで『華のゆ』をご利用頂けます。,【団体（15名以上）のお客様】不泊：100％/当日キャンセル：80％/前日キャンセル：50％/2日前～3日前キャンセル：20％　4日前～9日前キャンセル：10％,※他者への再販、転売を目的としたご予約は、固くお断りいたします。,当ホテルとの宿泊契約には、当ホテルが定める宿泊約款が適用されます。宿泊約款の内容については各ホテルにお問合せください。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の80％    <BR>前日                ：宿泊料金の50％    <BR>3日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Discover"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": "銀聯カード/QRコード決済(PayPay等）、電子マネー(iD等)、交通系電子マネー(Suica等)",
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "ウェルカムドリンクサービス,時間外チェックイン可,時間外チェックアウト可",
+    "otherInformation": "素泊まり（☆天然温泉☆無料！！）で宿探しの方にもピッタリです!!☆,館林駅まで車で約15分、足利駅まで45分、太田駅まで45分,さいたま市(大宮)、熊谷駅まで車で約45分"
+  }
+}

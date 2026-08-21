@@ -1,0 +1,304 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 2909,
+    "hotelName": "白浜温泉　白良荘グランドホテル",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D2909",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D2909%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D2909",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D2909",
+    "hotelKanaName": "しらはまおんせん　しららそう　ぐらんどほてる",
+    "hotelSpecial": "白良浜まで直通徒歩30秒！海を一望する温泉と海の幸を中心とした会席料理で贅沢な時間を。",
+    "hotelMinCharge": 8910,
+    "latitude": 121252.07,
+    "longitude": 487246.64,
+    "postalCode": "649-2211",
+    "address1": "和歌山県",
+    "address2": "西牟婁郡白浜町868",
+    "telephoneNo": "0739-43-0100",
+    "faxNo": "0739-42-2438",
+    "access": "JR白浜駅よりタクシー・路線バス・車で約10分 南紀白浜空港より車で約10分  アドベンチャーワールドより車で約10分",
+    "parkingInformation": "屋外無料駐車場（約70台）13時&#12316;翌11時。時間外は有料につき公式HPを御確認下さい",
+    "nearestStation": "白浜",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2909/2909.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/2909.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2909/2909_view.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/2909.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2909/2909map.gif",
+    "reviewCount": 2461,
+    "reviewAverage": 4.48,
+    "userReview": "海辺の立地で海水浴を満喫、食事も温泉も満足部屋からの眺めは海がとても綺麗でした!目の前が海なので小さな子ども連れの海水浴にはぴったりの立地です。外に更衣室があってチェックイン前に海水浴も楽しめます…　2026-08-15 03:02:44投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=2909\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.51,
+    "locationAverage": 4.67,
+    "roomAverage": 4.44,
+    "equipmentAverage": 4.36,
+    "bathAverage": 4.52,
+    "breakfastAverage": 4.47,
+    "dinnerAverage": 4.5,
+    "cleanlinessAverage": 4.47
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "wakayama",
+    "smallClassCode": "shirahama",
+    "areaName": "南紀白浜・紀伊田辺・龍神",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "19:30"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 110,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送（無料）"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "洗顔ソープ"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "客室および食事会場、宴会場、公共スペースは禁煙です。館内に喫煙ブースが二���所ございます。"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "喫茶"
+      },
+      {
+        "item": "ラウンジ"
+      },
+      {
+        "item": "バーラウンジ"
+      },
+      {
+        "item": "カラオケルーム"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "プール(夏期のみ)"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン"
+      },
+      {
+        "breakfastPlace": "食事処"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      },
+      {
+        "dinnerPlace": "食事処"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "ナトリウム・塩化物強塩泉"
+      },
+      {
+        "bathBenefits": "動脈硬化"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      },
+      {
+        "bathBenefits": "婦人病"
+      }
+    ],
+    "aboutLeisure": "海水浴,釣り,海釣り,ウィンドサーフィン,ダイビング,ゴルフ,サイクリング,遊園地,動物園,博物館,水族館,テーマパーク",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "車椅子利用者用客室あり"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": "英語：日常的な内容は問題のないスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "入湯税（中学生以上、大人1泊につき１５０円）が別途必要です。（日帰りはかかりません）,小学生のお子様のお食事は会席料理仕立てとなります。,1歳～未就学の（お食事・お布団あり）幼児様のご食事は「お子様ランチ」をご用意します。,1歳以上の幼児様（お食事・お布団なし）より施設利用が3,300円掛かります。,0歳のお子様は人数に含めずご予約に進み「備考欄」にて乳児様のご人数をお知らせください。,上記お子様のお食事情報は宿泊プランにより異なる場合がございます。,ご到着が１８時を過ぎる場合はご連絡下さい。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の80％    <BR>3日前から           ：宿泊料金の50％    <BR>7日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "Bank Card"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "JACCS"
+      },
+      {
+        "card": "CF"
+      },
+      {
+        "card": "JTB"
+      },
+      {
+        "card": "デビットカード"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "ウェルカムドリンクサービス",
+    "otherInformation": "フロント対応電子決済：楽天ペイ  PayPay ｄ払い メルペイ auPAY"
+  }
+}

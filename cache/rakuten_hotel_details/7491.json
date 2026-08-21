@@ -1,0 +1,271 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 7491,
+    "hotelName": "湯回廊　菊屋（共立リゾート）",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D7491",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D7491%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D7491",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D7491",
+    "hotelKanaName": "ゆかいろう　きくや",
+    "hotelSpecial": "文豪も愛した本館、源泉かけ流し風呂付の離れ、2021年〜水の語り部(温泉風呂付）、風の語り部が誕生",
+    "hotelMinCharge": 20350,
+    "latitude": 125885.32,
+    "longitude": 500158.84,
+    "postalCode": "410-2416",
+    "address1": "静岡県",
+    "address2": "伊豆市修善寺874-1",
+    "telephoneNo": "0558-72-2000",
+    "faxNo": "0558-72-2002",
+    "access": "伊豆箱根鉄道 修善寺駅よりバス約８分※送迎無し／東名高速 沼津ICから国道１号線、国道１３６号線 伊豆中央道経由約３５分",
+    "parkingInformation": "有り　65台　無料(移動はお客様自身でお願い致します。徒歩2〜3分の距離にございます。※送迎無し",
+    "nearestStation": "修善寺",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7491/7491.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/7491.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7491/7491_heya1.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/7491.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7491/7491map.gif",
+    "reviewCount": 1693,
+    "reviewAverage": 4.48,
+    "userReview": "お部屋からの川の眺めとスタッフの対応に感動旅館も、お部屋も、お料理もとても、良かったです。お部屋の内風呂からも川が見えて、素敵でした。大浴場も、露天風呂もとても良い良かったです。スタッフの…　2026-08-15 00:51:46投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=7491\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.53,
+    "locationAverage": 4.55,
+    "roomAverage": 4.47,
+    "equipmentAverage": 4.49,
+    "bathAverage": 4.5,
+    "breakfastAverage": 4.54,
+    "dinnerAverage": 4.48,
+    "cleanlinessAverage": 4.55
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "shizuoka",
+    "smallClassCode": "naka",
+    "areaName": "伊豆長岡・修善寺・天城湯ヶ島",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "22:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 71,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "電気スタンド"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "おふろセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "くつろぎ着・たび"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "ベビーバス・ベビーソープ有※数に限りあり"
+      },
+      {
+        "item": "ティーラウンジ"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "湯上がりサロン"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "食事処"
+      },
+      {
+        "dinnerPlace": "食事処"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathQuality": "弱アルカリ単純泉"
+      },
+      {
+        "bathBenefits": "関節痛"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      },
+      {
+        "bathBenefits": "慢性消化器病"
+      }
+    ],
+    "aboutLeisure": "渓流釣り,テニス,ゴルフ,ハイキング,遊園地,水族館,フラワーパーク,テーマパーク,美術館,しいたけ狩り",
+    "handicappedFacilities": [
+      {
+        "item": "貸出用車椅子"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "ご到着時刻が１7時を超える場合には、必ずご連絡いただきますようお願いいたします。,お食事のお時間はお日にちにより2部制になります（1部17：45/2部20：00）チェックイン時の先着順にて承っております。ご希望のお時間でお取り出来ない場合もございますので予めご了承下さい。,「食事あり・布団なし」または「食事なし・布団なし」からお申込みの場合、3歳以上のお子様は施設使用料2,200円（税込）を別途頂戴いたします。予めご了承下さい。,入湯税（１２才以上＠１５０円）は別途料金に加算させていただきます。,キャンセル料は当館規定に準じます。,当館は昔ながらの建築様式を活かした造りになっておりますので、誠に申し訳ございませんがバリアフリー対応はございません。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の80％    <BR>前日                ：宿泊料金の50％    <BR>2日前から           ：宿泊料金の50％    <BR>3日前から           ：宿泊料金の20％    <BR>4日前から           ：宿泊料金の20％    <BR>5日前から           ：宿泊料金の10％    <BR>6日前から           ：宿泊料金の10％    <BR>7日前から           ：宿泊料金の10％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "OMC"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "AEON"
+      },
+      {
+        "card": "JACCS"
+      },
+      {
+        "card": "APLUS"
+      },
+      {
+        "card": "LIFE"
+      },
+      {
+        "card": "ORICO"
+      },
+      {
+        "card": "楽天カード"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "ウェルカムドリンクサービス,湯上がりサロンでのお茶サービス",
+    "otherInformation": "4種無料貸切風呂を予約不要にてご利用いただけます。"
+  }
+}

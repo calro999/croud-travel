@@ -1,0 +1,322 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 145419,
+    "hotelName": "オリオンホテル　モトブリゾート＆スパ",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D145419",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D145419%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D145419",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D145419",
+    "hotelKanaName": "おりおんほてるもとぶりぞーとあんどすぱ",
+    "hotelSpecial": "【楽天トラベル ブロンズアワード2024受賞】「しぜんとしぜんに」を体現する洗練された南国リゾート",
+    "hotelMinCharge": 14030,
+    "latitude": 96102.37,
+    "longitude": 460372.19,
+    "postalCode": "905-0207",
+    "address1": "沖縄県",
+    "address2": "国頭郡本部町備瀬148-1",
+    "telephoneNo": "0980-51-7300",
+    "faxNo": "0980-51-7307",
+    "access": "那覇空港からお車で高速利用約100分。空港バス利用約150分ホテル前停車。美ら海水族館へ徒歩7分、海洋博公園隣接",
+    "parkingInformation": "駐車場無料",
+    "nearestStation": "那覇空港",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/145419/145419.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/145419.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/145419/145419_room.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/145419.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/145419/145419map.gif",
+    "reviewCount": 913,
+    "reviewAverage": 4.57,
+    "userReview": "部屋から花火を満喫、大浴場は少し暗め写真のように景色、部屋、設備が綺麗で大満足の旅行になりました!花火大会の日にかけて利用したのですが、部屋からゆったり見れて良かったです。また利用したいで…　2026-08-02 15:24:24投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=145419\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.53,
+    "locationAverage": 4.77,
+    "roomAverage": 4.74,
+    "equipmentAverage": 4.57,
+    "bathAverage": 4.43,
+    "breakfastAverage": 4.49,
+    "dinnerAverage": 4.35,
+    "cleanlinessAverage": 4.7
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "okinawa",
+    "smallClassCode": "hokubu",
+    "areaName": "恩納・名護・本部・今帰仁",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "23:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 238,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送（無料）"
+      },
+      {
+        "item": "ＣＳ放送"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ベビーベッド"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "パジャマ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "【レンタル無料】※ベビーカー（A型・B型）生後1ヵ月〜36ヶ月未満、ベビーベッド24ヶ月未満、"
+      },
+      {
+        "item": "ベッドガード18〜60ヶ月未満（要予約、数に限りがございます。）"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "ラウンジ"
+      },
+      {
+        "item": "バー"
+      },
+      {
+        "item": "居酒屋コーナー"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "結婚式場"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "児童遊園施設"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "コンビニエンスストア"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "スポーツジム"
+      },
+      {
+        "item": "プール(夏期のみ)"
+      },
+      {
+        "item": "屋外プール"
+      },
+      {
+        "item": "コネクティングルーム（一部・要予約）"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      },
+      {
+        "dinnerPlace": "食事処"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "ナトリウム・塩化物炭酸水素塩泉"
+      },
+      {
+        "bathBenefits": "筋肉痛"
+      },
+      {
+        "bathBenefits": "神経痛"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      }
+    ],
+    "aboutLeisure": "海水浴,釣り,カヌー,クルージング,ダイビング,テニス,ゴルフ,サイクリング,水族館,テーマパーク",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "バリアフリールーム"
+      },
+      {
+        "item": "車椅子利用者用客室あり"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "クラブウイングご宿泊のお客様専用のインフィニティプールは温水ではございません。営業時間や詳細は公式サイトよりご確認ください。,オーシャンウイング宿泊のお客様は同じグループのご予約でもクラブウイングとは往来できませんので、予めご了承願います。,バーベキューレストラン 「カペラ」は席数に限りがございますのご利用希望の際は事前のご予約をお願いします。,【レストラン予約・お問い合わせ】0980-51-7302（10:00～18:00）",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>3日前から           ：宿泊料金の50％    <BR>7日前から           ：宿泊料金の20％    <BR>20日前から          ：宿泊料金の10％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Discover"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": "銀聯カード、（電子マネー）JR各社、Edy、QUICPayが、お使いいただけます。",
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "ウェルカムドリンクサービス,将棋無料貸出,囲碁無料貸出",
+    "otherInformation": null
+  }
+}

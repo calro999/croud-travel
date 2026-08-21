@@ -1,0 +1,235 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 40425,
+    "hotelName": "青森屋　ｂｙ　星野リゾート",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D40425",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D40425%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D40425",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D40425",
+    "hotelKanaName": "あおもりや　ばい　ほしのりぞーと",
+    "hotelSpecial": "祭り文化や湯治、郷土芸能など青森が誇る素晴らしい文化をまるごと体感できる温泉宿",
+    "hotelMinCharge": 17000,
+    "latitude": 146371.34,
+    "longitude": 508893.11,
+    "postalCode": "033-0044",
+    "address1": "青森県",
+    "address2": "三沢市字古間木山56",
+    "telephoneNo": "050-3134-8094",
+    "faxNo": "0176-51-1118",
+    "access": "三沢駅と三沢空港から無料送迎バスあり（3日前まで要予約）カーナビ用案内番号：0176-51-1111",
+    "parkingInformation": "有り　２００台　無料　先着順",
+    "nearestStation": "三沢（青森）",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40425/40425.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/40425.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40425/40425_kan.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/40425.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40425/40425map.gif",
+    "reviewCount": 2501,
+    "reviewAverage": 4.47,
+    "userReview": "両親へのプレゼント、全てに感動して大満足私自身は冬に一度宿泊させていただいており、とても良かったので、今回は両親へのプレゼントとしてねぶた祭の時期に予約させていただきました。宿の雰囲気、温泉、…　2026-08-08 16:58:47投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=40425\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.51,
+    "locationAverage": 4.4,
+    "roomAverage": 4.49,
+    "equipmentAverage": 4.42,
+    "bathAverage": 4.55,
+    "breakfastAverage": 4.55,
+    "dinnerAverage": 4.51,
+    "cleanlinessAverage": 4.51
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "aomori",
+    "smallClassCode": "hachinohe",
+    "areaName": "八戸・三沢・七戸十和田",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "12:00",
+    "lastCheckinTime": null
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 236,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "くつろぎ着の作務衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "愛犬と泊まれるお部屋をご用意しております。（詳細は公式HPにてご確認ください。）"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "ティーラウンジ"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "ゲームコーナー"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "ペット同宿可"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "レストラン(バイキング)"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "水風呂"
+      },
+      {
+        "bathQuality": "アルカリ単純泉"
+      },
+      {
+        "bathBenefits": "関節痛"
+      },
+      {
+        "bathBenefits": "神経痛"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      }
+    ],
+    "aboutLeisure": "海水浴,釣り,海釣り,カヌー,ウィンドサーフィン,テニス,ゲートボール,ゴルフ,サッカー,スケート,陸上競技,美術館",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      }
+    ],
+    "linguisticLevel": "英語：ネイティブに近く流暢なスタッフが数人いる。<BR>韓国語：ネイティブに近く流暢なスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "別途入湯税150円が必要です。（中学生以上のみ）,チェックインが１８：００以降の場合必ずご連絡下さい。,送迎バスをご希望のお客様は、３日前迄にお問い合わせください。,【食物アレルギーへの対応をご希望のお客様へ】,食物アレルギー症状のある方はご予約時にお知らせください。その場合、できる限りアレルゲンの除去に務めた料理を提供させていただきますが、アレルゲン除去を保証するものではございませんのでご了承ください。,また、ビュッフェレストランにおきましては、料理の前に特定原材料7品目（卵、乳、小麦、えび、かに、そば、落花生）の使用について表示しております。これらは表示している特定原材料がその料理に,使用されていることを明記したものであり、記載のない特定原材料がその料理に含まれていないことを保証するものではありません。,以上を踏まえ、レストラン等の御利用に際しては、お客様にて最終的は判断を頂きますようお願い致します。,なお、上記にかかわらず、重篤な食物アレルギー症状をお持ちのお客様に関しましては、お客様の安全を第一に考え、やむを得ず食事の提供をお断りすることがございます。,その場合、御自身での食事の持ち込みをお受けいたしますので、事前にお申し出ください。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>3日前から           ：宿泊料金の100％   <BR>21日前から          ：宿泊料金の10％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "JTB"
+      },
+      {
+        "card": "デビットカード"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": null
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 199224,
+    "hotelName": "ＦＡＶ　ＬＵＸ　宮崎",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D199224",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D199224%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D199224",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D199224",
+    "hotelKanaName": "ふぁぶらっくすみやざき",
+    "hotelSpecial": "2026年7月1日グランドオープン。全室バス・トイレ別、宿泊者専用スパ・サウナ完備の新拠点。",
+    "hotelMinCharge": 3920,
+    "latitude": 114854.25,
+    "longitude": 473126.44,
+    "postalCode": "880-0805",
+    "address1": "宮崎県",
+    "address2": "宮崎市橘通東1-2-24",
+    "telephoneNo": "050-1724-9826",
+    "faxNo": null,
+    "access": "JR宮崎駅西口より車で約10分",
+    "parkingInformation": "ホテル内、無し：提携駐車場（有料：1,000円／11:00〜翌14:00）※予約不可、先着順。",
+    "nearestStation": "宮崎",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/199224/199224.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/199224.jpg",
+    "roomImageUrl": null,
+    "roomThumbnailUrl": null,
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/199224/199224map.gif",
+    "reviewCount": 25,
+    "reviewAverage": 4.72,
+    "userReview": "2泊したので、部屋に洗濯機があるのはとても助かりました。子どももきれいで広い部屋に喜んでいました。お世話になりました。クチコミの詳細はこちらから　https://review.travel.rak…　2026-08-12 13:32:05投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=199224\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.65,
+    "locationAverage": 4.56,
+    "roomAverage": 4.83,
+    "equipmentAverage": 4.73,
+    "bathAverage": 4.63,
+    "breakfastAverage": 4.58,
+    "cleanlinessAverage": 4.88
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "miyazaki",
+    "smallClassCode": "miyazaki",
+    "areaName": "宮崎",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "22:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 41,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "変圧器（貸出）"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "ナイトウェア"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "電子レンジ（一部・要予約）"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "喫茶"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "フィットネスクラブ"
+      },
+      {
+        "item": "スポーツジム"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "ジャグジー"
+      },
+      {
+        "bathType": "水風呂"
+      }
+    ],
+    "aboutLeisure": null,
+    "handicappedFacilities": [
+      {
+        "item": "バリアフリールーム"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "■22時以降はフロントが無人となります。チェックインが遅くなる方は事前にご連絡ください。,■3泊以内の場合、連泊中の清掃・リネン交換はございません。（タオル・バスタオルはご宿泊人数分をご用意しております）,■4泊以上の場合、3日毎に清掃に入らせていただきます。（無料／初回は4日目の朝）,■追加清掃をご希望の場合は有料にて承ります。（1回1,500円※スイート3,000円／前日までの予約必須）,■客室及び建物内は禁煙です。客室内へは靴を脱いでお入りください。,■貸出品(数量限定)のご利用は、フロントスタッフへお声掛けください。事前の予約は受け付けておりません。,■チェックイン前までに届くメールをご確認の上ご来館ください。,■緊急時連絡先 (tel)050-1724-9826,■宮崎市の条例により別途宿泊税（おひとり様1泊あたり200円）を頂いております。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>3日前から           ：宿泊料金の50％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Discover"
+      },
+      {
+        "card": "楽天カード"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "■宮崎市の条例により別途宿泊税（おひとり様1泊あたり200円）を頂いております。"
+  }
+}

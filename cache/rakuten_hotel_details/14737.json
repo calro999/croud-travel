@@ -1,0 +1,237 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 14737,
+    "hotelName": "別邸　石の家　伊豆高原　ペットと泊まれる全室露天付き客室の宿",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D14737",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D14737%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D14737",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D14737",
+    "hotelKanaName": "べってい　いしのいえ　いずこうげん　ぺっとととまれるぜんしつろてんつききゃくしつのやど",
+    "hotelSpecial": "全室お部屋食対応のペットと泊まれるホテル。全室露天風呂付客室。ペット料1頭目無料。犬以外も幅広く歓迎",
+    "hotelMinCharge": 15600,
+    "latitude": 125609.68,
+    "longitude": 500778.74,
+    "postalCode": "413-0235",
+    "address1": "静岡県",
+    "address2": "伊東市大室高原6-650",
+    "telephoneNo": "0557-51-8716",
+    "faxNo": "0557-51-8877",
+    "access": "小田原厚木道路石橋ＩＣ・東名沼津ＩＣより約９０分／伊豆急・伊豆高原駅よりタクシーで５分",
+    "parkingInformation": "部屋数分、全て無料となっております。",
+    "nearestStation": "伊豆高原",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14737/14737.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/14737.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14737/14737_room.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/14737.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14737/14737map.gif",
+    "reviewCount": 1052,
+    "reviewAverage": 4.76,
+    "userReview": "スタッフの心遣いと美味しい食事に大感激!今回、初めてのアリエルとの旅行で、最初は、どうなる事かと心配していましたが、石の家スタッフの、池田さん、脇坂さん、スタッフのみなさんのワンコへの接し…　2026-08-11 21:22:05投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=14737\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.87,
+    "locationAverage": 4.37,
+    "roomAverage": 4.66,
+    "equipmentAverage": 4.68,
+    "bathAverage": 4.76,
+    "breakfastAverage": 4.85,
+    "dinnerAverage": 4.85,
+    "cleanlinessAverage": 4.69
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "shizuoka",
+    "smallClassCode": "izukogen",
+    "areaName": "伊豆高原",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "17:30"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 7,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "モジュラージャック"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "石鹸（固形）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "ナイトウェア"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "ペット同宿可"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "ルームサービス"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "部屋"
+      },
+      {
+        "dinnerPlace": "部屋"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "アルカリ単純泉"
+      },
+      {
+        "bathBenefits": "関節痛"
+      },
+      {
+        "bathBenefits": "筋肉痛"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      }
+    ],
+    "aboutLeisure": "海水浴,釣り,海釣り,渓流釣り,ダイビング,テニス,ゴルフ,パラグライダー,ハイキング,登山,博物館,フラワーパーク,テーマパーク,美術館",
+    "handicappedFacilities": [],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "ご夕食は６時からです。ご到着が、５時を過ぎる場合には、ご連絡下さい。,ご同伴のペットについて、種類や頭数を事前にお教え下さい。,お食事でお召し上がりになれないものがございましたらお知らせ下さい。（例・刺身がダメ・お肉が苦手）",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>2日前から           ：宿泊料金の50％    <BR>7日前から           ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "JACCS"
+      },
+      {
+        "card": "CF"
+      },
+      {
+        "card": "ORICO"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": null
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 13895,
+    "hotelName": "皆生温泉　湯喜望　白扇",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D13895",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D13895%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D13895",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D13895",
+    "hotelKanaName": "かいけおんせん　ゆきぼう　はくせん",
+    "hotelSpecial": "【絶景オーシャンビュー】皆生の老舗旅館で心安らぐひとときをお過ごしください",
+    "hotelMinCharge": 7670,
+    "latitude": 127638.91,
+    "longitude": 480121.21,
+    "postalCode": "683-0001",
+    "address1": "鳥取県",
+    "address2": "米子市皆生温泉3-12-33",
+    "telephoneNo": "0570-050-148",
+    "faxNo": " ",
+    "access": "米子自動車道『米子IC』より15分／岡山駅より特急やくもで約2時間『米子駅』からバスで15分／バス停より約500ｍ",
+    "parkingInformation": "平面駐車場：60台／無料（大型車可、バイク屋根付き有り）",
+    "nearestStation": "米子",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13895/13895.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/13895.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13895/13895_w.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/13895.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13895/13895map.gif",
+    "reviewCount": 1929,
+    "reviewAverage": 4.34,
+    "userReview": "畳敷きの館内でリラックス、露天風呂も最高館内が畳敷で靴を脱いで歩くため、部屋の出入りに靴の脱ぎ履きがないことがこんなにもリラックスできることなのだと知りました。足腰の悪い親はスリッパなしで踏ん…　2026-08-13 20:52:38投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=13895\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.42,
+    "locationAverage": 4.45,
+    "roomAverage": 4.45,
+    "equipmentAverage": 4.2,
+    "bathAverage": 4.15,
+    "breakfastAverage": 4.21,
+    "dinnerAverage": 4.28,
+    "cleanlinessAverage": 4.29
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "tottori",
+    "smallClassCode": "seibu",
+    "areaName": "米子・皆生温泉・大山",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "22:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 33,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "おふろセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "ラウンジ"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "広間"
+      },
+      {
+        "dinnerPlace": "広間"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathType": "ジャグジー"
+      },
+      {
+        "bathQuality": "弱塩泉"
+      },
+      {
+        "bathQuality": "ナトリウム・カルシウム塩化物泉"
+      },
+      {
+        "bathBenefits": "神経痛"
+      },
+      {
+        "bathBenefits": "冷え性"
+      },
+      {
+        "bathBenefits": "腰痛"
+      }
+    ],
+    "aboutLeisure": "海水浴,釣り,海釣り,カヌー,クルージング,ウィンドサーフィン,ウォータースポーツ,テニス,ゲートボール,ゴルフ,パラグライダー,サイクリング,ハイキング,スキー,乗馬,トレッキング,登山,フラワーパーク,テーマパーク,美術館",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "客室内トイレに手すりあり"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "＜ご宿泊代について＞中学生から大人料金が適用となり、別途1泊につき入湯税150円が必要となります。,アレルギーポリシーに関しては当館公式ホームページにてご確認ください。,＜入墨・タトゥーについて＞入墨・タトゥーのあるお客様は、大浴場や露天風呂棟のご利用は固くお断りしております。,GW、お盆、年末年始の取消料につきましては下記の通りになります 。7日前：50％／3日前：80％／前日：100％／不泊：100％（ご連絡を頂かなかった場合）",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の80％    <BR>前日                ：宿泊料金の50％    <BR>3日前から           ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "JTB"
+      },
+      {
+        "card": "楽天カード"
+      },
+      {
+        "card": "ANA"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": "現地施設利用及び予約後の料金変更による楽天ポイントの移行は承れない場合がございます。",
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "テラス・バルコニー含め全館禁煙となります（電子タバコ含む）,金券はご使用いただけません。,ご連泊のお客様には、従来の毎日清掃に代わり、以下の「エコ清掃」を基本とさせていただきます。"
+  }
+}

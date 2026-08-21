@@ -1,0 +1,262 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 13971,
+    "hotelName": "グランドメルキュール伊勢志摩リゾート＆スパ",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D13971",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D13971%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D13971",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D13971",
+    "hotelKanaName": "ぐらんどめるきゅーるいせしまりぞーとあんどすぱ",
+    "hotelSpecial": "心と身体が満たされる、海と森に抱かれる贅沢なひととき",
+    "hotelMinCharge": 4640,
+    "latitude": 123730.93,
+    "longitude": 492674.91,
+    "postalCode": "517-0204",
+    "address1": "三重県",
+    "address2": "志摩市磯部町的矢笠取939-6",
+    "telephoneNo": "0599-55-2111",
+    "faxNo": "0599-55-2688",
+    "access": "近鉄 鵜方駅より定時シャトルバス約15分(予約不要　定時運行　公式HP参照)／伊勢西ＩＣよりお車約45分",
+    "parkingInformation": "220台あり（無料・予約不可）",
+    "nearestStation": "志摩磯部",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13971/13971.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/13971.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13971/13971_room.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/13971.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13971/13971map.gif",
+    "reviewCount": 4020,
+    "reviewAverage": 3.95,
+    "userReview": "ラウンジのサービスと朝食バイキングが充実すごく驚いたのはラウンジです。無料で食べられるお菓子やドリンク、アルコールがあったり入浴後にアイスが自由に食べられたり、しっかり調べてから行ったらもっと満足…　2026-08-15 22:33:37投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=13971\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 3.95,
+    "locationAverage": 4.14,
+    "roomAverage": 4.08,
+    "equipmentAverage": 3.8,
+    "bathAverage": 3.99,
+    "breakfastAverage": 3.96,
+    "dinnerAverage": 3.91,
+    "cleanlinessAverage": 4.02
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "mie",
+    "smallClassCode": "shima",
+    "areaName": "志摩・賢島",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "24:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 372,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "ラウンジ"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "湯上がりサロン"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "プール(夏期のみ)"
+      },
+      {
+        "item": "卓球"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "レストラン(バイキング)"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "水風呂"
+      },
+      {
+        "bathQuality": "アルカリ単純泉"
+      }
+    ],
+    "aboutLeisure": "海水浴,海釣り,カヌー,クルージング,ウォータースポーツ,テニス,ゴルフ,サイクリング,遊園地,水族館,テーマパーク",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "バリアフリールーム"
+      },
+      {
+        "item": "車椅子利用者用客室あり"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "大浴場浴槽に手すりあり"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      }
+    ],
+    "linguisticLevel": "中国語：少し分かるスタッフが数人いる。<BR>英語：少し分かるスタッフが数人いる。<BR>韓国語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "当ホテルのエレベーターは3基となっており、お時間によってはかなり混雑する場合がございます。ご迷惑お掛けいたしますが何卒ご了承くださいませ。,添寝幼児(寝具利用無しのお子様）には、歯ブラシ・タオル類のアメニティのご用意はございません。,2025年1月5日ご宿泊分以降の入湯税は、ご宿泊代金に含まれておりますので、ホテルでの入湯��のお支払いは不要でございます。（大人（12歳以上）の方／入湯税150円）",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>3日前から           ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "AEON"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "入れ墨、タトゥーを入れている方の大浴場・プールのご利用は原則お断りしております。,ただし、8cm×10cmのカバーシール2枚を貼って隠せる場合のみご入浴いただけます。,カバーシールは館内にて販売しております。"
+  }
+}

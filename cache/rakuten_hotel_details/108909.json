@@ -1,0 +1,210 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 108909,
+    "hotelName": "大江戸温泉物語Ｐｒｅｍｉｕｍ　下呂本館",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D108909",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D108909%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D108909",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D108909",
+    "hotelKanaName": "おおえどおんせんものがたりぷれみあむ　げろほんかん",
+    "hotelSpecial": "下呂の高台から絶景を一望！美肌の湯とプレミアムラウンジでリラックスできるひと時をお過ごしください。",
+    "hotelMinCharge": 10700,
+    "latitude": 128891.96,
+    "longitude": 494062.83,
+    "postalCode": "509-2206",
+    "address1": "岐阜県",
+    "address2": "下呂市幸田1605",
+    "telephoneNo": "050-3615-3456",
+    "faxNo": null,
+    "access": "下呂駅よりお車で１分、徒歩で１０分",
+    "parkingInformation": "１００台　予約不要　無料",
+    "nearestStation": "下呂",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108909/108909.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/108909.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108909/108909_war.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/108909.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108909/108909map.gif",
+    "reviewCount": 864,
+    "reviewAverage": 3.98,
+    "userReview": "湯質は最高片山津温泉に続き二回目のPremiumの宿泊です。ラウンジでのアルコール飲み放題があるのでPremiumを選びましたが、座席数がちょっと少なくタイミングが悪いと席の確保が出来ないです…　2026-08-15 21:28:47投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=108909\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.08,
+    "locationAverage": 3.87,
+    "roomAverage": 3.89,
+    "equipmentAverage": 3.79,
+    "bathAverage": 3.98,
+    "breakfastAverage": 4.07,
+    "dinnerAverage": 4.02,
+    "cleanlinessAverage": 3.96
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "gihu",
+    "smallClassCode": "gero",
+    "areaName": "下呂温泉・濁河温泉",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "19:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 67,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー(一部)"
+      },
+      {
+        "item": "電気スタンド(一部)"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "※全館Wi-fi利用可"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "喫茶"
+      },
+      {
+        "item": "カラオケルーム"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "卓球"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "パソコン利用可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "レストラン(バイキング)"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathQuality": "アルカリ単純泉"
+      },
+      {
+        "bathBenefits": "筋肉痛"
+      },
+      {
+        "bathBenefits": "五十肩"
+      },
+      {
+        "bathBenefits": "神経痛"
+      }
+    ],
+    "aboutLeisure": "渓流釣り",
+    "handicappedFacilities": [],
+    "linguisticLevel": "中国語：少し分かるスタッフが数人いる。<BR>英語：少し分かるスタッフが数人いる。<BR>韓国語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "別途、入湯税が発生いたします。また自治体で定められた入浴料・宿泊税が追加発生する場合があります。,2025年10月1日より、宿泊料金により宿泊税100～200円を頂戴いたします。詳しくは下呂市のホームページをご確認ください。,3歳以上の幼児のお子様は有料です。（食事・布団付）をご選択ください。3歳未満のお子様でお布団追加の場合は、追加料金2,200円でご用意いたします。事前にお知らせください。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の50％    <BR>前日                ：宿泊料金の50％    <BR>7日前から           ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "Master Card"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "将棋無料貸出,麻雀無料貸出,囲碁無料貸出",
+    "otherInformation": null
+  }
+}

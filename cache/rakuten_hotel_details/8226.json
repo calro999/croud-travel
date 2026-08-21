@@ -1,0 +1,253 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 8226,
+    "hotelName": "白浜温泉　ホテル三楽荘",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D8226",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D8226%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D8226",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D8226",
+    "hotelKanaName": "しらはまおんせん　さんらくそう",
+    "hotelSpecial": "得旅ポイント最大15倍■全室オーシャンビュー&白良浜徒歩1分■露天風呂付き客室はすべて源泉掛け流し",
+    "hotelMinCharge": 12100,
+    "latitude": 121235.32,
+    "longitude": 487251.27,
+    "postalCode": "649-2211",
+    "address1": "和歌山県",
+    "address2": "西牟婁郡白浜町3078",
+    "telephoneNo": "0570-012-358",
+    "faxNo": "0739-42-4798",
+    "access": "車：紀勢自動車道南紀白浜ICより県道34号線を白浜温泉方面へ約20分 電車：JR白浜駅よりバスで15分",
+    "parkingInformation": "有り　100台　無料　",
+    "nearestStation": "白浜",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8226/8226.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/8226.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8226/8226_room.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/8226.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8226/8226map.gif",
+    "reviewCount": 2584,
+    "reviewAverage": 4.55,
+    "userReview": "白良浜が目の前で海水浴に最適、食事も充実家族での海水浴で利用しました。白良浜が目の前でシャワーや更衣室も充実してて大変便利でした。ご飯はバイキングで種類が豊富でおいしかったです。夏休みの利用にはも…　2026-08-15 23:43:45投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=8226\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.64,
+    "locationAverage": 4.76,
+    "roomAverage": 4.59,
+    "equipmentAverage": 4.42,
+    "bathAverage": 4.51,
+    "breakfastAverage": 4.36,
+    "dinnerAverage": 4.41,
+    "cleanlinessAverage": 4.59
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "wakayama",
+    "smallClassCode": "shirahama",
+    "areaName": "南紀白浜・紀伊田辺・龍神",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "19:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 85,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送（無料）"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "リンスインシャンプー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "電子レンジ（一部・要予約）"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "※カラオケルーム（20時〜23時） 料金：2時間（税込2000円）追加：1時間につき税込1000円"
+      },
+      {
+        "item": "喫茶"
+      },
+      {
+        "item": "カラオケルーム"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "セルフコインランドリーコーナー(無料)"
+      },
+      {
+        "item": "卓球"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "個室"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "ナトリウム・塩化物強塩泉"
+      },
+      {
+        "bathQuality": "ナトリウム塩化物炭酸水素泉"
+      },
+      {
+        "bathBenefits": "関節痛"
+      },
+      {
+        "bathBenefits": "神経痛"
+      },
+      {
+        "bathBenefits": "リウマチ・神経病"
+      }
+    ],
+    "aboutLeisure": "海水浴,海釣り,ダイビング,ゴルフ,動物園,水族館",
+    "handicappedFacilities": [
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      }
+    ],
+    "linguisticLevel": "中国語：少し分かるスタッフが数人いる。<BR>英語：少し分かるスタッフが数人いる。<BR>韓国語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "●アレルギー対応希望の方は要事前連絡。（当日不可） ※完全にご要望にお応えすることが難しい場合、お客様の安全のためにも重篤な症状をお持ちの場合は食事のご提供をお断りすることがございます。,●お越しの際の交通手段（車・電車・その他）をお教えください。,●チェックイン時間は15時～18時となります（夕食なしプランは最終20時）,●チェックアウト時間は翌朝10時までとなります,●お子様は1歳から宿泊料が発生します。ご予約人数に含めてご予約ください。0歳は無料の為、ご予約時に宿泊人数には含めないでください。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>3日前から           ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": null
+  }
+}

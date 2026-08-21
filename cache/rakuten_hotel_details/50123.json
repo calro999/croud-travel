@@ -1,0 +1,292 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 50123,
+    "hotelName": "網走湖畔温泉　ホテル網走湖荘",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D50123",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D50123%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D50123",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D50123",
+    "hotelKanaName": "あばしりこそう",
+    "hotelSpecial": "網走湖畔沿いの老舗旅館。オホーツクブルーの青空と湖。　爽やかな網走へいらしてください。",
+    "hotelMinCharge": 12100,
+    "latitude": 158329.12,
+    "longitude": 519199.57,
+    "postalCode": "099-2421",
+    "address1": "北海道",
+    "address2": "網走市呼人78",
+    "telephoneNo": "0152-48-2311",
+    "faxNo": "0152-48-2828",
+    "access": "当館は国道３９号線沿いなので冬も安心。女満別空港から車で20分、網走駅から車で10分。駐車場無料（先着順・予約不可）",
+    "parkingInformation": "１００台無料（先着順・予約不可）　／　バイク用の車庫あり（収容台数に限りあり・先着順・予約不可）",
+    "nearestStation": "網走",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/50123/50123.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/50123.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/50123/50123_wa.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/50123.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/50123/50123map.gif",
+    "reviewCount": 1016,
+    "reviewAverage": 4.31,
+    "userReview": "網走湖の景色が最高、時間ごとの表情に感動部屋からの網走湖の景色が最高でした!昼、夜、朝、違った表情を見せてくれるのが面白かったクチコミの詳細はこちらから　https://revie…　2026-08-15 08:37:44投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=50123\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.38,
+    "locationAverage": 4.45,
+    "roomAverage": 4.38,
+    "equipmentAverage": 4.09,
+    "bathAverage": 4.33,
+    "breakfastAverage": 4.18,
+    "dinnerAverage": 4.21,
+    "cleanlinessAverage": 4.16
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "hokkaido",
+    "smallClassCode": "abashiri",
+    "areaName": "網走・紋別・北見・知床",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "20:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 153,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（固形）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "リンスインシャンプー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "ティーラウンジ"
+      },
+      {
+        "item": "ラウンジ"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "貸自転車"
+      },
+      {
+        "item": "ゲームコーナー"
+      },
+      {
+        "item": "卓球"
+      },
+      {
+        "item": "茶室"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "breakfastPlace": "食事処"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      },
+      {
+        "dinnerPlace": "食事処"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathType": "水風呂"
+      },
+      {
+        "bathQuality": "ナトリウム塩化物泉"
+      },
+      {
+        "bathBenefits": "アトピー・湿疹"
+      },
+      {
+        "bathBenefits": "婦人病"
+      },
+      {
+        "bathBenefits": "リウマチ・神経病"
+      }
+    ],
+    "aboutLeisure": "網走刑務所、監獄博物館、流氷館、北方民族博物館など多数の観光名所あり,釣り,海釣り,渓流釣り,カヌー,ヨット,ダイビング,テニス,ゲートボール,ゴルフ,サイクリング,ハイキング,スキー,クロスカントリー,スケート,トレッキング,登山,陸上競技,博物館,フラワーパーク,農業公園,美術館",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "大浴場浴槽に手すりあり"
+      },
+      {
+        "item": "大浴場での介助入浴可能"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      },
+      {
+        "item": "高齢者用料理への対応可能"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": "中国語：ネイティブに近く流暢なスタッフが数人いる。<BR>英語：日常的な内容は問題のないスタッフが数人いる。<BR>韓国語：ネイティブに近く流暢なスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "大人のみ1泊につき入湯税150円別途頂戴いたします。（中学生以上） Bath tax 150 JPY is required.,2026年4月1日ご宿泊分から、網走市の条例により1人１泊あたり宿泊税（税別2万円未満 300円、2万円以上5万円未満 400円、5万円以上 700円）を頂戴いたします。※北海道宿泊税分含む,当館は全客室禁煙となっております。愛煙家の皆様は館内喫煙所をご利用ください。,お夕食の最終スタートは19時30分。食事会場は20時30分閉店です。,持参された飲食物の食事会場内へお持ち込みはご遠慮ください。,館内はご予約無しのフリーでご利用いただけるお食事処はございません。,当館から徒歩圏内にはお食事処やレストラン、コンビニなどはございません。,楽天トラベルで販売している商品は、個人利用のお客様を対象としたプランです。,旅行���理店様、ランドオペレーター様等、再販、転売を目的としたご予約はお受けできません。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>3日前から           ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "「人に優しい地域の宿作り賞」において、ホテル網走湖荘は、厚生大臣賞を受賞しております。"
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 7026,
+    "hotelName": "浅虫温泉　津軽藩本陣の宿　旅館柳の湯",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D7026",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D7026%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D7026",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D7026",
+    "hotelKanaName": "あさむしおんせん　つがるはんほんじんのやど　りょかん　やなぎのゆ",
+    "hotelSpecial": "浅虫温泉湯本｜源泉かけ流し×津軽藩本陣の宿 柳の湯 静かに過ごす温泉旅",
+    "hotelMinCharge": 11350,
+    "latitude": 147187.06,
+    "longitude": 507119.23,
+    "postalCode": "039-3501",
+    "address1": "青森県",
+    "address2": "青森市大字浅虫字山下236",
+    "telephoneNo": "017-752-2023",
+    "faxNo": "017-752-4018",
+    "access": "ＪＲ浅虫温泉駅から徒歩6分/東北自動車道青森東出口より10分【浅虫温泉駅⇔当館まで無料送迎OK(要予約）】",
+    "parkingInformation": "有り：15台(無料）",
+    "nearestStation": "浅虫温泉",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7026/7026.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/7026.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7026/7026_room.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/7026.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7026/7026map.gif",
+    "reviewCount": 506,
+    "reviewAverage": 4.31,
+    "userReview": "オーシャンビューからの絶景オーシャンヒューの部屋からは湯の島が臨めいやされます。窓を全開にした大浴場からの眺めも最高です!クチコミの詳細はこちらから　https://review.travel…　2026-08-15 12:35:02投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=7026\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.46,
+    "locationAverage": 4.11,
+    "roomAverage": 4,
+    "equipmentAverage": 3.97,
+    "bathAverage": 4.49,
+    "breakfastAverage": 4.34,
+    "dinnerAverage": 4.4,
+    "cleanlinessAverage": 4.15
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "aomori",
+    "smallClassCode": "aomori",
+    "areaName": "青森・浅虫温泉",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "20:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 23,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー(貸出)"
+      },
+      {
+        "item": "電気スタンド"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "リンスインシャンプー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "広間"
+      },
+      {
+        "dinnerPlace": "部屋"
+      },
+      {
+        "dinnerPlace": "広間"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "弱アルカリ単純泉"
+      },
+      {
+        "bathQuality": "カルシウム・ナトリウム硫酸塩泉"
+      },
+      {
+        "bathQuality": "ナトリウム・カルシウム塩化物泉"
+      },
+      {
+        "bathBenefits": "関節痛"
+      },
+      {
+        "bathBenefits": "冷え性"
+      },
+      {
+        "bathBenefits": "婦人病"
+      }
+    ],
+    "aboutLeisure": "海水浴,海釣り,ウォータースポーツ,テニス,ゴルフ,ハイキング,スキー,水族館,フラワーパーク",
+    "handicappedFacilities": [
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリールーム"
+      },
+      {
+        "item": "車椅子利用者用客室あり"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "客室内トイレに手すりあり"
+      },
+      {
+        "item": "大浴場浴槽に手すりあり"
+      },
+      {
+        "item": "大浴場での介助入浴可能"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      },
+      {
+        "item": "高齢者用料理への対応可能"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      },
+      {
+        "item": "施設スタッフによる介助・補助対応が可能"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "入湯税は別途150円必要です,チェックインは15時～、チェックアウトは10時となっております。,ペットと同宿は不可です",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の80％    <BR>5日前から           ：宿泊料金の50％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": "支払い方法はプランにより異なりますのでご注意ください。",
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "着替え浴衣サービス,将棋無料貸出,囲碁無料貸出",
+    "otherInformation": "JR浅虫温泉駅よりお電話いただければ送迎しております,館内のアルコール消毒や、会食場の席間隔など,新型コロナウイルス感染対策を行っております。"
+  }
+}

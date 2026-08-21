@@ -1,0 +1,265 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 10743,
+    "hotelName": "玉造温泉　玉造グランドホテル長生閣",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D10743",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D10743%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D10743",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D10743",
+    "hotelKanaName": "たまづくりおんせん　たまづくりぐらんどほてる　ちょうせいかく",
+    "hotelSpecial": "神湯・玉造温泉を美しい“めのう風呂”で堪能出来る宿",
+    "hotelMinCharge": 11000,
+    "latitude": 127483.22,
+    "longitude": 478847.83,
+    "postalCode": "699-0201",
+    "address1": "島根県",
+    "address2": "松江市玉湯町玉造331",
+    "telephoneNo": "0852-62-0711",
+    "faxNo": "0852-62-0772",
+    "access": "山陰道玉造ICより車で10分/出雲空港より車で30分/玉造温泉駅",
+    "parkingInformation": "無料駐車場有り　100台　　先着順",
+    "nearestStation": "玉造温泉",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/10743/10743.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/10743.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/10743/10743_room.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/10743.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/10743/10743map.gif",
+    "reviewCount": 2204,
+    "reviewAverage": 4.41,
+    "userReview": "夕食の美味しさとスタッフの丁寧な対応に満足3泊の滞在でしたが、全ての夕食に満足しました。ホテルスタッフの対応はとてもよく、気持ちよく過ごすことができました。特にフロント、夕食時ではとても丁寧な対応…　2026-08-15 13:08:32投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=10743\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.45,
+    "locationAverage": 4.27,
+    "roomAverage": 4.41,
+    "equipmentAverage": 4.24,
+    "bathAverage": 4.47,
+    "breakfastAverage": 4.41,
+    "dinnerAverage": 4.42,
+    "cleanlinessAverage": 4.38
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "simane",
+    "smallClassCode": "matsue",
+    "areaName": "松江・玉造・安来・奥出雲",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "18:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 84,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "リンスインシャンプー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "ファックス送信・マッサージ・宅急便等は有料になります。"
+      },
+      {
+        "item": "玉造温泉駅・玉造高速バス停まで無料送迎（１４〜１９時までお迎え可能。ご宿泊日2日前までの予約制）"
+      },
+      {
+        "item": "露天風呂付客室あり（計2室）"
+      },
+      {
+        "item": "ティーラウンジ"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      },
+      {
+        "dinnerPlace": "広間"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathQuality": "単純温泉"
+      },
+      {
+        "bathQuality": "低張性弱アルカリ性泉"
+      },
+      {
+        "bathQuality": "カルシウム・ナトリウム硫酸塩泉"
+      },
+      {
+        "bathBenefits": "関節痛"
+      },
+      {
+        "bathBenefits": "神経痛"
+      },
+      {
+        "bathBenefits": "婦人病"
+      }
+    ],
+    "aboutLeisure": "周辺観光：出雲大社/松江城/足立美術館/石見銀山/アクアス/由志園/水木しげるロード,海水浴,海釣り,ゴルフ,スキー,登山,博物館,水族館,フラワーパーク,美術館",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "大浴場浴槽に手すりあり"
+      },
+      {
+        "item": "大浴場での介助入浴可能"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "大人(中学生以上)のお客様は入湯税￥150が別途必要です。,［オンライン決済のお客様］当日はご利用分と入湯税をご精算ください。,当日のキャンセルは宿泊料の１００％をいただきます。,前日のキャンセルは宿泊料の５０％をいただきます。,３日前からのキャンセルは宿泊料の２０％をいただきます。,２歳未満のお子様で「食事なし／添寝」の場合はご人数に含めずにご予約頂き、宿へのメッセージに年齢と人数をご記入下さい,ご人数やご宿泊日、プランによって別規定の場合もございます,一泊二食プランでお申込みのお子様のご夕食ですが、小学生高学年は大人に準ずる内容、小学校低学年はお子様向けの洋食プレート、幼児はお子様ランチ風のプレートです,2025年12月1日より宿泊税￥200が別途必要です",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>3日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "Bank Card"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "【松江方面(車で)】足立美術館40分　由志園40分　松江城20分,【出雲方面(車で)】出雲大社60分　石見銀山100分　アクアス150分,【鳥取方面(車で)】水木しげるロード50分　大山60分　鳥取砂丘180分　"
+  }
+}

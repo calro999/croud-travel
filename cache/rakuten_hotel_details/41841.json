@@ -1,0 +1,219 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 41841,
+    "hotelName": "ＴＨＥ　ＦＯＲＥＳＴ阿寒　ＴＳＵＲＵＧＡＲＥＳＯＲＴ（旧：阿寒の森鶴雅リゾート花ゆう香）",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D41841",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D41841%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D41841",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D41841",
+    "hotelKanaName": "ざ　ふぉれすとあかん　つるがりぞーと　きゅう　あかんのもりつるがりぞーとはなゆうか",
+    "hotelSpecial": "フォレスト阿寒は源泉かけ流し！阿寒の森と湖に佇むカジュアルリゾート【トゥラノのご予約もこちらから】",
+    "hotelMinCharge": 14399,
+    "latitude": 156351.97,
+    "longitude": 518769.55,
+    "postalCode": "085-0467",
+    "address1": "北海道",
+    "address2": "釧路市阿寒町阿寒湖温泉1-6-1",
+    "telephoneNo": "0154-67-2311",
+    "faxNo": "0154-67-2330",
+    "access": "釧路空港より車で約６０分／女満別空港より車で約９０分。　※アクセスの詳細は公式サイトの「アクセスページ」をご覧ください。",
+    "parkingInformation": "※駐車場は当館から離れた場所にあります（無料）正面玄関車寄せにて係が駐車場までの行き方をご案内します",
+    "nearestStation": "釧路",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/41841/41841.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/41841.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/41841/41841_kan.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/41841.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/41841/41841map.gif",
+    "reviewCount": 521,
+    "reviewAverage": 4.33,
+    "userReview": "水風呂はなかったが系列店の温泉を満喫露天風呂、水風呂がなかったのが残念でしたが系列店の温泉に入れて露天風呂を楽しめて良かった。クチコミの詳細はこちらから　https://review.trav…　2026-08-14 06:43:41投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=41841\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.42,
+    "locationAverage": 4.42,
+    "roomAverage": 4.26,
+    "equipmentAverage": 4.18,
+    "bathAverage": 4.09,
+    "breakfastAverage": 4.47,
+    "dinnerAverage": 4.45,
+    "cleanlinessAverage": 4.31
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "hokkaido",
+    "smallClassCode": "kushiro",
+    "areaName": "釧路・阿寒・川湯・根室",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "19:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 95,
+    "roomFacilities": [
+      {
+        "item": "有料テレビ"
+      },
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(一部、無線LAN形式)"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "リンスインシャンプー"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "◆加湿器やアロマポットなどの無料貸出品もございます"
+      },
+      {
+        "item": "◆浴衣をご用意しておりますが、有料の館内着もご用意がございます"
+      },
+      {
+        "item": "◆別棟「トゥラノ館」は、ワンちゃん同伴ＯＫ（※有料）！詳しくはお問合せください。"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "カラオケルーム"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "ベーカーショップ"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "ペット同宿可"
+      },
+      {
+        "item": "パソコン利用可"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "単純泉"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      },
+      {
+        "bathBenefits": "腰痛"
+      },
+      {
+        "bathBenefits": "リウマチ・神経病"
+      }
+    ],
+    "aboutLeisure": "釣り,スキー,トレッキング",
+    "handicappedFacilities": [],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "■入湯税が別途かかります。（大人1名様1泊につき300円）,■2026年4月1日宿泊分より、宿泊税（1名あたり300円～700円※宿泊代によって異なる）を別途現地にて頂戴いたします。,■駐車場は当館から離れた場所にあります（無料）正面玄関車寄せにて係が駐車場までの行き方をご案内します。駐車場までお客様ご自身で移動をお願いしております。お帰りの際は、お客様を駐車場までお送りいたします,■全客室禁煙です。喫煙される場合は喫煙所にてお願いいたします。,■大人1名＋子供1名の場合、子供は大人と同料金頂きます（システム上表示されなくても現地精算となります）,■チェックインが19時を過ぎる場合は、ホテルまでご連絡をお願いいたします。ご連絡が無い場合、キャンセルとさせて頂く場合がございます。,■アメニティ提供変更のお知らせ／SDGs推進と「プラスチックに係る資源循環の促進等に関する法律」に基づく特定プラスチック使用製品の使用合理化にあたり対象製品の持参にご協力賜りますようお願い申し上げます,＜対象製品＞歯ブラシ・かみそり・ヘアブラシ・くし・シャワーキャップ　※花ゆう香：アメニティバーにてご提供します。※トゥラノ（トゥラノ館）：フロントにてご提供します。　※大浴場にご用意はございません。,■有料送迎バス運行（週3往復／5日前までの完全予約制）【輪厚・千歳・音更方面】1月27日往路～3月29日復路まで※料金・時間・発着場所など詳細は、公式サイトをご覧ください",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>7日前から           ：宿泊料金の30％    <BR>14日前から          ：宿泊料金の10％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "Master Card"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "■■有料送迎バス運行（週3往復／5日前までの完全予約制）■■,【輪厚・千歳・音更方面】〜2026年9月30日復路まで,※料金・時間・発着場所など詳細は、公式サイトのアクセス をご覧ください。"
+  }
+}

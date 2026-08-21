@@ -1,0 +1,259 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 8427,
+    "hotelName": "群馬県・老神温泉　仙郷",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D8427",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D8427%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D8427",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D8427",
+    "hotelKanaName": "せんきょう",
+    "hotelSpecial": "心づくしのおもてなし。奥利根の大自然に抱かれた癒しと静寂の宿。尾瀬の拠点に最適。",
+    "hotelMinCharge": 15246,
+    "latitude": 132027.96,
+    "longitude": 501175.53,
+    "postalCode": "378-0304",
+    "address1": "群馬県",
+    "address2": "沼田市利根町大楊2-1",
+    "telephoneNo": "0278-56-2601",
+    "faxNo": "0278-56-2605",
+    "access": "関越道沼田ICより約18Km車で約20分。上毛高原駅14:00～沼田駅経由14:20の無料送迎バス有（※要問い合わせ）",
+    "parkingInformation": "有り：20台（無料）",
+    "nearestStation": "上毛高原",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8427/8427.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/8427.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8427/8427_room.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/8427.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8427/8427map.gif",
+    "reviewCount": 449,
+    "reviewAverage": 4.47,
+    "userReview": "温泉と食事、接客に大満足の贅沢な時間お風呂がついてる部屋に宿泊しました。温泉や食事、接客も素晴らしくラグジュアリーな滞在ができました!クチコミの詳細はこちらから　https://rev…　2026-08-13 12:58:57投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=8427\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.37,
+    "locationAverage": 4.31,
+    "roomAverage": 4.53,
+    "equipmentAverage": 4.41,
+    "bathAverage": 4.52,
+    "breakfastAverage": 4.24,
+    "dinnerAverage": 4.48,
+    "cleanlinessAverage": 4.43
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "gunma",
+    "smallClassCode": "numata",
+    "areaName": "水上・猿ヶ京・沼田",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "14:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "17:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 20,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "冷蔵庫(一部)"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ドライヤー(一部)"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "電気スタンド(一部)"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "加湿器(一部)"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "洗浄機付トイレ(一部)"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "湯沸かしポット(貸出)"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "個室"
+      },
+      {
+        "breakfastPlace": "広間"
+      },
+      {
+        "dinnerPlace": "個室"
+      },
+      {
+        "dinnerPlace": "広間"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathQuality": "単純温泉"
+      },
+      {
+        "bathQuality": "アルカリ単純泉"
+      },
+      {
+        "bathBenefits": "神経痛"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      },
+      {
+        "bathBenefits": "慢性消化器病"
+      }
+    ],
+    "aboutLeisure": "釣り,渓流釣り,ゴルフ,パラグライダー,スキー,登山,山菜取り",
+    "handicappedFacilities": [
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "■入湯税（150円/大人）は別途頂戴致します。,■館内は全て禁煙となります。駐車場内に喫煙スペースを設けております。,■ご到着が１７時を過ぎる場合は、途中ご一報ください。,■当館のお子様料理（小学生以下のお料理）は大人料理とは異なります。宿泊プランの料理メニューをお子様が召し上がりたい場合、「大人料金」でお申込みくださいませ。,■複数部屋でのご予約の場合でも、同一グループの場合はプランを統一していただきますようお願いします。,■表示のキャンセルポリシーは【通常】のものです。【特定日】GW、お盆、年末年始、３日以上の連休日のキャンセルポリシー,不泊及び当日 : 100％、1日～2日前 : 80％、3日前 : 60％、4日～7日前 : 50％、14日前～ : 30％",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の70％    <BR>2日前から           ：宿泊料金の50％    <BR>3日前から           ：宿泊料金の50％    <BR>4日前から           ：宿泊料金の30％    <BR>5日前から           ：宿泊料金の30％    <BR>6日前から           ：宿泊料金の30％    <BR>7日前から           ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "お夜食おにぎりサービス,お部屋で緑茶サービス",
+    "otherInformation": null
+  }
+}

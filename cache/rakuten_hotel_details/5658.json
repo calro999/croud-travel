@@ -1,0 +1,177 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 5658,
+    "hotelName": "湯の山温泉　渓流の宿　観光旅館　蔵之助",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D5658",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D5658%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D5658",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D5658",
+    "hotelKanaName": "ゆのやまおんせん　けいりゅうのやど　かんこうりょかん　くらのすけ",
+    "hotelSpecial": "3つの露天風呂、御在所岳を仰ぎ、川のせせらぎをBGMに寝湯でひととき。四季の料理でおもてなし!",
+    "hotelMinCharge": null,
+    "latitude": 126041.1,
+    "longitude": 491200.59,
+    "postalCode": "510-1233",
+    "address1": "三重県",
+    "address2": "三重郡菰野町湯の山温泉8625",
+    "telephoneNo": "0593-92-2509",
+    "faxNo": "0593-92-3109",
+    "access": "近鉄　湯の山温泉駅より車で１０分",
+    "parkingInformation": "有り　２０台　 無料　",
+    "nearestStation": "湯の山温泉",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5658/5658.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/5658.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5658/5658_heya.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/5658.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5658/5658map.gif",
+    "reviewCount": 40,
+    "reviewAverage": 3.5,
+    "userReview": null
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 0,
+    "locationAverage": 0,
+    "roomAverage": 0,
+    "equipmentAverage": 0,
+    "bathAverage": 0
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "mie",
+    "smallClassCode": "yunoyama",
+    "areaName": "四日市・桑名・湯の山・長島温泉",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "19:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 10,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "ファックス(一部)"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー(一部)"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "ヘルスメーター"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "リンスインシャンプー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "E-Mail送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "広間"
+      },
+      {
+        "dinnerPlace": "広間"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathQuality": "アルカリ単純泉"
+      },
+      {
+        "bathQuality": "ナトリウム・塩化物炭酸水素塩泉"
+      },
+      {
+        "bathBenefits": "胃腸病"
+      },
+      {
+        "bathBenefits": "外傷"
+      },
+      {
+        "bathBenefits": "美容"
+      }
+    ],
+    "aboutLeisure": "釣り,海釣り,テニス,ゴルフ,ハイキング,スキー,乗馬,登山,遊園地,フラワーパーク,テーマパーク,美術館",
+    "handicappedFacilities": [],
+    "linguisticLevel": "英語：日常的な内容は問題のないスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "※チェックイン予定時刻を過ぎる場合は、必ずご連絡をお願い致します。,※当日ご連絡の取れる携帯電話番号等をお知らせ下さい。,※貸切風呂50分1000円（先着順）,※入湯税大人150円",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の100％   <BR>2日前から           ：宿泊料金の80％    <BR>3日前から           ：宿泊料金の60％    <BR>4日前から           ：宿泊料金の40％    ",
+    "availableCreditCard": [
+      {
+        "card": "利用不可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": null
+  }
+}

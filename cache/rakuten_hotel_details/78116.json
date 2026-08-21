@@ -1,0 +1,210 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 78116,
+    "hotelName": "三朝温泉　木造りの宿　橋津屋",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D78116",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D78116%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D78116",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D78116",
+    "hotelKanaName": "みささおんせん　きづくりのやど　はしづや",
+    "hotelSpecial": "源泉掛け流し天然温泉を大浴場や露天風呂で、冬の旬　松葉蟹など四季の食材による美食もご堪能ください。",
+    "hotelMinCharge": 6600,
+    "latitude": 127464.78,
+    "longitude": 482030.77,
+    "postalCode": "682-0123",
+    "address1": "鳥取県",
+    "address2": "東伯郡三朝町三朝886",
+    "telephoneNo": "0858-43-0719",
+    "faxNo": "0858-43-1278",
+    "access": "ＪＲ　倉吉駅より日ノ丸バス乗車後三朝温泉にて下車徒歩３分(倉吉駅への送迎は行っておりません）",
+    "parkingInformation": "有り　２０台　無料　予約不要",
+    "nearestStation": "倉吉",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/78116/78116.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/78116.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/78116/78116_ru.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/78116.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/78116/78116map.gif",
+    "reviewCount": 548,
+    "reviewAverage": 4.45,
+    "userReview": "接客と朝食は最高スタッフの皆様の接客対応は素晴らしいです。特に食事担当の若い女性の気配りに感動した!朝食の干しカレイは最高に美味しかったです。味噌汁は年寄りには塩分控えめか、しじみ汁をお願いし…　2026-08-14 16:35:38投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=78116\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.63,
+    "locationAverage": 4.32,
+    "roomAverage": 4.27,
+    "equipmentAverage": 4.26,
+    "bathAverage": 4.49,
+    "breakfastAverage": 4.66,
+    "dinnerAverage": 4.7,
+    "cleanlinessAverage": 4.49
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "tottori",
+    "smallClassCode": "chubu",
+    "areaName": "倉吉・三朝温泉",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "18:30"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 10,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（固形）"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "個室"
+      },
+      {
+        "dinnerPlace": "個室"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "単純温泉"
+      },
+      {
+        "bathQuality": "ナトリウム塩化物泉"
+      },
+      {
+        "bathQuality": "ラジウム温泉"
+      },
+      {
+        "bathBenefits": "アトピー・湿疹"
+      },
+      {
+        "bathBenefits": "美肌効果"
+      },
+      {
+        "bathBenefits": "リウマチ・神経病"
+      }
+    ],
+    "aboutLeisure": "果物狩り,海水浴,スキー,登山,フラワーパーク",
+    "handicappedFacilities": [],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "チェックインが18：00をすぎる場合はご連絡下さい。,入湯税が別途必要です。（お一人様１５０円）",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>3日前から           ：宿泊料金の50％    <BR>10日前から          ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "夕食は18：00〜19：00、朝食は7：30〜8：30にてご用意しております。,夕朝食のお時間はチェックイン時に受けたまわります。,（ご希望のお時間に副えない場合は前後させて頂く場合もございます）"
+  }
+}

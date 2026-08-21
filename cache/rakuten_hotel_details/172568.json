@@ -1,0 +1,234 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 172568,
+    "hotelName": "スーパーホテル埼玉・川越　天然温泉　赤城の湯",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D172568",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D172568%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D172568",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D172568",
+    "hotelKanaName": "すーぱーほてる　さいたま　かわごえ　てんねんおんせん　あかぎのゆ",
+    "hotelSpecial": "男女別天然温泉「赤城の湯」とご当地メニュー盛りだくさんの焼き立てパン健康朝食♪♪",
+    "hotelMinCharge": 5190,
+    "latitude": 129272.19,
+    "longitude": 502143.39,
+    "postalCode": "350-0043",
+    "address1": "埼玉県",
+    "address2": "川越市新富町2-31-5",
+    "telephoneNo": "049-290-9000",
+    "faxNo": "049-290-9010",
+    "access": "本川越駅より徒歩にて約5分　川越駅より徒歩にて約10分",
+    "parkingInformation": "当館駐車場は先着順です。敷地内15台、敷地外提携駐車場2か所計95台フロントまでご確認ください。",
+    "nearestStation": "川越",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/172568/172568.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/172568.jpg",
+    "roomImageUrl": null,
+    "roomThumbnailUrl": null,
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/172568/172568map.gif",
+    "reviewCount": 731,
+    "reviewAverage": 4.31,
+    "userReview": "ハンガー不足と物干しバーの設置を希望ハンガーが少ない。ハンガー掛けが少ない。ユニットバス物干しバーが欲しい暗証番号の鍵は良かった。職員の対応が丁寧でした。クチコミの詳細はこちら…　2026-08-14 09:38:51投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=172568\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.36,
+    "locationAverage": 4.21,
+    "roomAverage": 4.27,
+    "equipmentAverage": 4.26,
+    "bathAverage": 4.34,
+    "breakfastAverage": 4.29,
+    "cleanlinessAverage": 4.34
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "saitama",
+    "smallClassCode": "kawagoe",
+    "areaName": "川越・東松山・志木・和光",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "24:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 104,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "有料ビデオ"
+      },
+      {
+        "item": "ケーブルＴＶ"
+      },
+      {
+        "item": "衛星放送（無料）"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "パジャマ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "コンベンションホール"
+      },
+      {
+        "breakfastPlace": "食堂"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "低張性弱アルカリ性泉"
+      },
+      {
+        "bathBenefits": "冷え性"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      },
+      {
+        "bathBenefits": "腰痛"
+      }
+    ],
+    "aboutLeisure": "ゴルフ",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "車椅子利用者用客室あり"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "大浴場浴槽に手すりあり"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "最終チェックインは24時となります。,当日のキャンセルとチェックインが24時を過ぎた場合キャンセル料が100％かかります。,客室内に電話はございません。外線・内線・モーニングコールは出来かねますのでご了承下さいませ。,無料駐車場のご予約は受け付けておりません。,その他ご質問は全てお電話にて受け付けております。,2024年2/18以降全室禁煙に変更となります。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "楽天カード"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "ウェルカムドリンクサービス,お部屋で緑茶サービス",
+    "otherInformation": "当館駐車場は先着順です。敷地内15台、敷地外提携駐車場2か所計95台フロントまでご確認ください。,パブリックスペースは感染対策として抗菌・抗ウイルス・防カビ・防臭効果のある,シリカ・ナノコロイド・シールドを採用しており安心してご利用いただけます。"
+  }
+}

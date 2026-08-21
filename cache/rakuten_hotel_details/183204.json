@@ -1,0 +1,92 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 183204,
+    "hotelName": "銀山温泉　能登屋旅館",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D183204",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D183204%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D183204",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D183204",
+    "hotelKanaName": "ぎんざんおんせん　のとやりょかん",
+    "hotelSpecial": "明治25年創業、木造三階建ての宿。昔の面影をそのままに、古き良き時代の懐かしさを伝える佇まい。",
+    "hotelMinCharge": null,
+    "latitude": 138838.18,
+    "longitude": 505925.65,
+    "postalCode": "999-4333",
+    "address1": "山形県",
+    "address2": "尾花沢市大字銀山新畑446",
+    "telephoneNo": "0237-28-2327",
+    "faxNo": "0237-28-2177",
+    "access": "JR大石田駅よりバス40分、東北中央道東根IC尾花沢方面へ50分、尾花沢バス停より市営バスで35分",
+    "parkingInformation": "有り　20台　無料　予約不要",
+    "nearestStation": "大石田",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/183204/183204.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/183204.jpg",
+    "roomImageUrl": null,
+    "roomThumbnailUrl": null,
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/183204/183204map.gif",
+    "reviewCount": 1,
+    "reviewAverage": null,
+    "userReview": null
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": null,
+    "locationAverage": null,
+    "roomAverage": null,
+    "equipmentAverage": null,
+    "bathAverage": null
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "yamagata",
+    "smallClassCode": "mogami",
+    "areaName": "尾花沢・新庄・村山",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "14:00",
+    "checkoutTime": "10:30",
+    "lastCheckinTime": "18:30"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 15,
+    "roomFacilities": [],
+    "hotelFacilities": [],
+    "aboutMealPlace": [],
+    "aboutBath": [],
+    "aboutLeisure": null,
+    "handicappedFacilities": [],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "チェックインが予定時間を過ぎる場合必ずご連絡下さい。,入湯税が別途必要です。（お一人様１５０円）",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の70％    <BR>前日                ：宿泊料金の50％    <BR>2日前から           ：宿泊料金の30％    <BR>3日前から           ：宿泊料金の30％    <BR>4日前から           ：宿泊料金の20％    <BR>5日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "Master Card"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": null
+  }
+}

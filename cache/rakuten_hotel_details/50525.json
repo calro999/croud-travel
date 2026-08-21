@@ -1,0 +1,249 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 50525,
+    "hotelName": "ＨＯＴＥＬ　ＫＩＮＧ（ホテル　キング）＜鹿児島県＞",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D50525",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D50525%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D50525",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D50525",
+    "hotelKanaName": "ほてる　きんぐ",
+    "hotelSpecial": "新型コロナウィルス感染拡大防止のため天然温泉大浴場は臨時休業中です。ご迷惑をおかけしております",
+    "hotelMinCharge": 2762,
+    "latitude": 115468.21,
+    "longitude": 469286.36,
+    "postalCode": "899-0206",
+    "address1": "鹿児島県",
+    "address2": "出水市向江町5-18",
+    "telephoneNo": "0996-62-1511",
+    "faxNo": "0996-63-3295",
+    "access": "出水駅から車で約5分／鹿児島空港より空港連絡バス、出水本町下車、徒歩約5分／九州西回り自動車道・水俣ICから車で約35分",
+    "parkingInformation": "有：100台無料/予約不要　",
+    "nearestStation": "出水",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/50525/50525.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/50525.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/50525/50525_room.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/50525.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/50525/50525map.gif",
+    "reviewCount": 338,
+    "reviewAverage": 3.62,
+    "userReview": "宿泊者用の駐車場を確保してほしい週末あるあるというか、やっぱり立地も良いので、駐車場が一杯になります宴会やビアガーデン利用の人もいると思うけど、宿泊者用の駐車場をあけといて貰えるとたすかる…　2026-08-12 18:48:15投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=50525\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 3.6,
+    "locationAverage": 3.68,
+    "roomAverage": 3.57,
+    "equipmentAverage": 3.4,
+    "bathAverage": 3.38,
+    "breakfastAverage": 3.8,
+    "dinnerAverage": 4,
+    "cleanlinessAverage": 3.4
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "kagoshima",
+    "smallClassCode": "hokusatsu",
+    "areaName": "川内・出水",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "24:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 57,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(一部)"
+      },
+      {
+        "item": "電気スタンド"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "リンスインシャンプー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "※大浴場（温泉）につきましてはコロナウイルス予防対策の為休業中"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "スカイラウンジ"
+      },
+      {
+        "item": "多目的室"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "結婚式場"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "貸自転車"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン"
+      },
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [],
+    "aboutLeisure": "海水浴,釣り,海釣り,渓流釣り,ゴルフ,サイクリング,ハイキング,トレッキング,登山,陸上競技",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      },
+      {
+        "item": "高齢者用料理への対応可能"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "連絡なしの不泊：宿泊料金の100％,出水駅からの送迎をご希望の場合は前日までのご予約をお願いいたします（0996-62-1511）,出水駅発15時～20時／ホテル発10時～12時　※状況によりお断りさせていただく場合がございます。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の80％    <BR>前日                ：宿泊料金の50％    <BR>3日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": "Paypay、ID、NFCpay、楽天Edy、nanaco、WAON、Quickpay、他交通系",
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "ウェルカムドリンクサービス,時間外チェックイン可",
+    "otherInformation": null
+  }
+}

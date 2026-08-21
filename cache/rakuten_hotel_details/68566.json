@@ -1,0 +1,262 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 68566,
+    "hotelName": "小樽リトリート蔵群　ｂｙ温故知新",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D68566",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D68566%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D68566",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D68566",
+    "hotelKanaName": "おたるりとりーとくらむれ　ばいおんこちしん",
+    "hotelSpecial": "【5と0のつく日】毎月5・10・15・20・25・30日はクーポン利用で最大20％OFF",
+    "hotelMinCharge": 53400,
+    "latitude": 155319.69,
+    "longitude": 507755.84,
+    "postalCode": "047-0154",
+    "address1": "北海道",
+    "address2": "小樽市朝里川温泉2-685",
+    "telephoneNo": "0134-51-5151",
+    "faxNo": "0134-51-5000",
+    "access": "小樽築港駅よりバスにて２０分",
+    "parkingInformation": "有り　１９台　無料　予約不要",
+    "nearestStation": "小樽築港",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/68566/68566.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/68566.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/68566/68566_w.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/68566.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/68566/68566map.gif",
+    "reviewCount": 109,
+    "reviewAverage": 4.57,
+    "userReview": null
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 0,
+    "locationAverage": 0,
+    "roomAverage": 0,
+    "equipmentAverage": 0,
+    "bathAverage": 0,
+    "breakfastAverage": 4.29,
+    "dinnerAverage": 4.83,
+    "cleanlinessAverage": 4.5
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "hokkaido",
+    "smallClassCode": "otaru",
+    "areaName": "小樽・キロロ・積丹・余市",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "19:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 19,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "洗顔ソープ"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "バスローブ"
+      },
+      {
+        "item": "くつろぎ着の作務衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "パジャマ"
+      },
+      {
+        "item": "湯沸かしポット(貸出)"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "保温ポット（客室内）、ＤＶＤプレイヤー（貸出）"
+      },
+      {
+        "item": "JR小樽築港駅、南広場より、予約制"
+      },
+      {
+        "item": "館内全て禁煙となっております。"
+      },
+      {
+        "item": "ラウンジ"
+      },
+      {
+        "item": "バー"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "茶室"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "パソコン利用可"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "ルームサービス"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "個室"
+      },
+      {
+        "dinnerPlace": "個室"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "低張性弱アルカリ性泉"
+      },
+      {
+        "bathQuality": "ナトリウム・カルシウム塩化物泉"
+      },
+      {
+        "bathBenefits": "肩凝り"
+      },
+      {
+        "bathBenefits": "筋肉痛"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      }
+    ],
+    "aboutLeisure": "海水浴,ゴルフ,スキー,トレッキング,登山,博物館,水族館,美術館",
+    "handicappedFacilities": [
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "チェックインが予定時刻を過ぎる場合は必ずご連絡ください。,夕食は１８：００開始と１９：００開始にて承っております。,※小学生は、大人料理に順ずるお品を絞り、ピックアップしてご用意,※幼児は、お子様向けのお料理をプレート膳としてご用意,（幼児料金について）３才以上＝食事のみ、または寝具のみでのご宿泊はお受けしておりません。２才以下＝食事及び寝具なしとし、無料とさせていただきます。,※入湯税150円は別途、頂戴致します。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>前日                ：宿泊料金の100％   <BR>3日前から           ：宿泊料金の50％    <BR>7日前から           ：宿泊料金の10％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "APLUS"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "館内での飲食及びルームサービスは無料（オールインクルーシブ）",
+    "otherInformation": "北海道・小樽市では、2026年（令和8年）4月1日より「宿泊税」が導入されます。,宿泊料金2万円未満300円｜宿泊料金2万円以上〜5万円未満400円｜宿泊料金5万円以上700円,※上記金額は「北海道」と「小樽市」の宿泊税を合算したものです。"
+  }
+}

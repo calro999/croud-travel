@@ -1,0 +1,226 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 106082,
+    "hotelName": "天然温泉　はるのの湯",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D106082",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D106082%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D106082",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D106082",
+    "hotelKanaName": "てんねんおんせん　はるののゆ",
+    "hotelSpecial": "大浴場や露天風呂などで湯めぐり満喫＆新館【星の森】で寛ぎのひととき",
+    "hotelMinCharge": 6650,
+    "latitude": 120617.36,
+    "longitude": 480590.94,
+    "postalCode": "781-0304",
+    "address1": "高知県",
+    "address2": "高知市春野町西分3546",
+    "telephoneNo": "088-894-5400",
+    "faxNo": "088-894-5722",
+    "access": "ＪＲ　高知駅よりお車で約３０分",
+    "parkingInformation": "有り　70台　無料　予約不要",
+    "nearestStation": "高知",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/106082/106082.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/106082.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/106082/106082_spa.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/106082.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/106082/106082map.gif",
+    "reviewCount": 572,
+    "reviewAverage": 4.05,
+    "userReview": "温泉の種類が豊富で、次回もまた利用したい温浴施設に宿泊施設が付属している感じです。温泉は色んな種類の温泉があって、楽しめます。温泉好きにとっては、素敵な宿だと思います。玄関で、はいてきた靴を下駄箱…　2026-08-13 17:15:13投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=106082\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 3.99,
+    "locationAverage": 3.89,
+    "roomAverage": 4.02,
+    "equipmentAverage": 3.9,
+    "bathAverage": 4.24,
+    "breakfastAverage": 3.87,
+    "dinnerAverage": 3.98,
+    "cleanlinessAverage": 4.03
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "kouchi",
+    "smallClassCode": "kouchi",
+    "areaName": "高知・南国・香南・伊野",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "21:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 49,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "ドライヤー(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "電話（内線のみ）"
+      },
+      {
+        "item": "宅配便は着払いでの発送のみ可能"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "エステサロン"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathType": "ジャグジー"
+      },
+      {
+        "bathType": "水風呂"
+      },
+      {
+        "bathQuality": "ナトリウム・カルシウム塩化物泉"
+      },
+      {
+        "bathBenefits": "筋肉痛"
+      },
+      {
+        "bathBenefits": "慢性消化器病"
+      },
+      {
+        "bathBenefits": "リウマチ・神経病"
+      }
+    ],
+    "aboutLeisure": "ホエールウォッチング,海水浴,釣り,ウィンドサーフィン,テニス,ゲートボール,サッカー,サイクリング",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "バリアフリールーム"
+      },
+      {
+        "item": "車椅子利用者用客室あり"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "大浴場での介助入浴可能"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": "英語：日常的な内容は問題のないスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "チェックインが予定時刻より遅れる場合必ずご連絡下さい。,入湯税150円は含まれております。,【お子様について】添い寝（布団なし）でご予約を頂いた幼児のお子様に関して、お子様のアメニティはご用意しておりません。必用な方は【寝具あり】で御予約ください。,【お子様について】4歳以上のお子様は有料（大人料金×75%）となります。,【お子様について】1つのベットにお子さま一人までとさせていただきます。,【お子様について】エキストラ（補助ベット）はございません。,詳細お問合せ→当館TEL：088-894-5400,改装準備の為、レストランではお食事付きプラン以外のお食事の提供はおやすみさせていただいております。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>2日前から           ：宿泊料金の30％    <BR>3日前から           ：宿泊料金の10％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Discover"
+      },
+      {
+        "card": "デビットカード"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": "銀聯(UnionPay)も利用可能",
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "甲殻類、卵、そばなどの食物アレルギーがある場合は事前にご相談ください。,お子様にはアメニティがついておりませんので、ご利用希望の際はご購入いただけます。,早めのチェックアウトをご希望の際は事前にお知らせください。"
+  }
+}

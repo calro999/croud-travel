@@ -1,0 +1,276 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 5012,
+    "hotelName": "天然温泉　八百治の湯　八百治博多ホテル",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D5012",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D5012%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D5012",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D5012",
+    "hotelKanaName": "てんねんおんせん　やおじのゆ　やおじはかたほてる",
+    "hotelSpecial": "博多駅徒歩5分!!天然温泉大浴場完備!!Wi-Fi無料＆加湿機能付空気清浄機完備♪",
+    "hotelMinCharge": 6450,
+    "latitude": 120897.28,
+    "longitude": 469511.51,
+    "postalCode": "812-0011",
+    "address1": "福岡県",
+    "address2": "福岡市博多区博多駅前4-9-2",
+    "telephoneNo": "092-483-5111",
+    "faxNo": "092-483-5123",
+    "access": "博多駅博多口より徒歩５分（福岡空港から博多駅まで地下鉄で５分。）",
+    "parkingInformation": "契約駐車場　1,500円（税込）/14時〜翌日14時",
+    "nearestStation": "博多",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5012/5012.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/5012.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5012/5012_sgl.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/5012.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5012/5012map.gif",
+    "reviewCount": 4544,
+    "reviewAverage": 4.2,
+    "userReview": "朝食が豪華に!お盆の混雑も良い思い出まず以前と比べて朝食バイキングがグレードアップしてたことに感謝願わくば連泊者にも飽きさせない工夫が...それからお盆時期で大浴場が入場規制されてたのにもびっくり…　2026-08-15 23:22:07投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=5012\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.21,
+    "locationAverage": 4.15,
+    "roomAverage": 4.2,
+    "equipmentAverage": 4.09,
+    "bathAverage": 4.3,
+    "breakfastAverage": 4.03,
+    "cleanlinessAverage": 4.22
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "hukuoka",
+    "smallClassCode": "fukuoka",
+    "areaName": "博多・キャナルシティ・海の中道・太宰府・二日市",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "25:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 207,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "ナイトウェア"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "全客室加湿機能付空気清浄機完備◎Wi-Fi無料◎"
+      },
+      {
+        "item": "コインランドリー(８階、10階、12階)／電子レンジ（8階、13階）"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "宅配便"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathType": "水風呂"
+      },
+      {
+        "bathQuality": "ナトリウム・カルシウム塩化物泉"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      },
+      {
+        "bathBenefits": "慢性消化器病"
+      },
+      {
+        "bathBenefits": "リウマチ・神経病"
+      }
+    ],
+    "aboutLeisure": "博多駅まで徒歩5分｡観光･ビジネスの拠点として最適の立地です｡",
+    "handicappedFacilities": [
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "バリアフリールーム"
+      },
+      {
+        "item": "車椅子利用者用客室あり"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "ご予約時のご到着予定時刻を２２：００以降に変更される際には、ご一報をお願いいたします。,ご連絡なく不泊とされた場合には、室料の１００％を違約金としてご請求させていただくことがございます。,【宿泊税徴収のお知らせ】,福岡市宿泊税条例により、チェックイン時に、ご宿泊料金に応じた以下の宿泊税をご負担いただいております。,宿泊税は右記の通りでございます。お一人様、一泊あたり￥２０，０００未満→￥２００　￥２０，０００以上→￥５００,【入湯税徴収のお知らせ】,チェックイン時に、お1人様1泊50円の入湯税をご負担いただいております。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の80％    <BR>前日                ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "Bank Card"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "AEON"
+      },
+      {
+        "card": "CF"
+      },
+      {
+        "card": "楽天カード"
+      },
+      {
+        "card": "デビットカード"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "【天然温泉 八百治の湯  営業時間 】,06:30〜09:30(最終受付 09:00)  12:00〜24:00(最終受付23:30)"
+  }
+}

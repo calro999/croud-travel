@@ -1,0 +1,147 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 79458,
+    "hotelName": "赤倉温泉　旅館　いづみ荘＜山形県＞",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D79458",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D79458%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D79458",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D79458",
+    "hotelKanaName": "いづみそう　やまがたけん",
+    "hotelSpecial": "隠れ家的な家庭的な宿です。旬のお料理に、お風呂は源泉掛け流し！釣りの拠点やビジネスや長期滞在に◎！",
+    "hotelMinCharge": 5500,
+    "latitude": 139351,
+    "longitude": 506005.95,
+    "postalCode": "999-6105",
+    "address1": "山形県",
+    "address2": "最上郡最上町富澤1005-7",
+    "telephoneNo": "0233-45-2403",
+    "faxNo": "0233-45-2403",
+    "access": "赤倉温泉駅から車で１０分",
+    "parkingInformation": "有り　4台　無料　予約不要  ",
+    "nearestStation": "赤倉温泉",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/79458/79458.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/79458.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/79458/79458_w.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/79458.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/79458/79458map.gif",
+    "reviewCount": 152,
+    "reviewAverage": 4.64,
+    "userReview": "温泉と食事は最高、山と川の景色に癒やされる一人旅の湯治目的で3泊しました。温泉、食事は最高でした。部屋は8畳に、二畳分の板の間付で十分の広さ、部屋から周囲の山々と川の流れが見え、この料金なので…　2026-08-12 08:07:30投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=79458\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.59,
+    "locationAverage": 4.33,
+    "roomAverage": 4.25,
+    "equipmentAverage": 3.92,
+    "bathAverage": 4.86,
+    "breakfastAverage": 4.74,
+    "dinnerAverage": 4.86,
+    "cleanlinessAverage": 4.32
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "yamagata",
+    "smallClassCode": "mogami",
+    "areaName": "尾花沢・新庄・村山",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "18:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 4,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "貸切風呂＝１組30分￥1500(税別）チェックイン時要相談。"
+      },
+      {
+        "item": "送迎＝事前連絡で赤倉温泉駅まで。"
+      },
+      {
+        "item": "アメニティはプランによって有料。"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "広間"
+      },
+      {
+        "dinnerPlace": "広間"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "カルシウム・ナトリウム硫酸塩泉"
+      },
+      {
+        "bathBenefits": "打ち身"
+      },
+      {
+        "bathBenefits": "筋肉痛"
+      },
+      {
+        "bathBenefits": "五十肩"
+      }
+    ],
+    "aboutLeisure": "渓流釣り,スキー,乗馬,登山",
+    "handicappedFacilities": [],
+    "linguisticLevel": "中国語：少し分かるスタッフが数人いる。<BR>英語：少し分かるスタッフが数人いる。<BR>韓国語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "チェックインが18時を過ぎる場合は必ずご連絡下さい。,入湯税が別途必要です（中学生以上150円、小学生75円）",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の70％    <BR>3日前から           ：宿泊料金の50％    <BR>14日前から          ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "利用不可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": null
+  }
+}

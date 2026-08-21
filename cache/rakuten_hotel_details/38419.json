@@ -1,0 +1,228 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 38419,
+    "hotelName": "軽井沢つるや旅館",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D38419",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D38419%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D38419",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D38419",
+    "hotelKanaName": "かるいざわつるやりょかん",
+    "hotelSpecial": "旧軽銀座と高級別荘地に面し、ショッピングに散歩に最適。軽井沢らしい洋風感覚の旅館。",
+    "hotelMinCharge": 14520,
+    "latitude": 130885.96,
+    "longitude": 499107.8,
+    "postalCode": "389-0102",
+    "address1": "長野県",
+    "address2": "北佐久郡軽井沢町旧軽井沢678",
+    "telephoneNo": "0267-42-5555",
+    "faxNo": "0267-42-7555",
+    "access": "ＪＲ軽井沢駅より車で５分",
+    "parkingInformation": "有り　無料　２０台",
+    "nearestStation": "軽井沢",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38419/38419.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/38419.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38419/38419_ky.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/38419.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38419/38419map.gif",
+    "reviewCount": 139,
+    "reviewAverage": 4.67,
+    "userReview": "クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/38419?reviewId=33123478567174　2026-08-08 06:16:44投稿"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.47,
+    "locationAverage": 4.93,
+    "roomAverage": 4.53,
+    "equipmentAverage": 4.6,
+    "bathAverage": 4.47,
+    "breakfastAverage": 4.75,
+    "dinnerAverage": 4,
+    "cleanlinessAverage": 4.92
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "nagano",
+    "smallClassCode": "karui",
+    "areaName": "軽井沢・佐久･小諸",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "17:30"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 25,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "ビデオデッキ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "電気スタンド"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（固形）"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "薄型テレビ、BDプレイヤー、ビデオプレイヤー、空気洗浄機・加湿器、冷蔵庫、セーフティーボックス"
+      },
+      {
+        "item": "ドライヤー、ポット、エアコン、バスタオル、タオル、浴衣、シャンプー、固形石鹸、カミソリ、歯ブラシ"
+      },
+      {
+        "item": "コットン、ボディータオル、シャワーキャップ、他"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "E-Mail送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "広間"
+      },
+      {
+        "dinnerPlace": "食堂"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "人工温泉"
+      }
+    ],
+    "aboutLeisure": "テニス,ゴルフ,サイクリング,ハイキング,スキー,スケート,登山,美術館",
+    "handicappedFacilities": [],
+    "linguisticLevel": "英語：ネイティブに近く流暢なスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "【宿泊税】2026年6月1日より軽井沢町条例に基づき宿泊税（1名1泊250円～）を別途現地にて申し受けます。,日程及び人数の変更はその都度お早めにお知らせ下さいませ。,ご夕食を召し上がる場合は、到着時刻が午後５時を過ぎます場合は恐れ入りますがご連絡を下さいませ。,キャンセル料金は以下の通り頂戴いたします。,１０日前～２日前：宿泊料金の２０％前日キャンセル：宿泊料金の５０％,当日キャンセル：宿泊料金の８０％連絡なしの不泊：宿泊料金の１００％",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の80％    <BR>前日                ：宿泊料金の50％    <BR>10日前から          ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "Master Card"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": null
+  }
+}

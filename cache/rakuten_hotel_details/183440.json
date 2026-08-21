@@ -1,0 +1,221 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 183440,
+    "hotelName": "ダイワロイネットホテル熊本銀座通り　ＰＲＥＭＩＥＲ",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D183440",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D183440%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D183440",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D183440",
+    "hotelKanaName": "だいわろいねっとほてるくまもとぎんざどおり",
+    "hotelSpecial": "熊本市電「花畑町駅」より徒歩約2分、繁華街まで徒歩約2分。全室バス・トイレ別。1階コンビニ有で便利",
+    "hotelMinCharge": 7250,
+    "latitude": 118070.59,
+    "longitude": 470553.96,
+    "postalCode": "860-0807",
+    "address1": "熊本県",
+    "address2": "熊本市中央区下通1-9-1",
+    "telephoneNo": "096-312-0655",
+    "faxNo": "096-312-0656",
+    "access": "花畑町電停徒歩約2分、熊本駅より市電約15分、阿蘇くまもと空港より空港バスで（約50分）桜町バスターミナル下車徒歩約6分",
+    "parkingInformation": "敷地内立体提携30台（内ハイルーフ18台）1泊2,000円税込（14時〜翌12時）先着順・予約不可",
+    "nearestStation": "熊本",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/183440/183440.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/183440.jpg",
+    "roomImageUrl": null,
+    "roomThumbnailUrl": null,
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/183440/183440map.gif",
+    "reviewCount": 904,
+    "reviewAverage": 4.49,
+    "userReview": "繁華街のど真ん中で、朝食も美味しい朝食がおいしかったです。繁華街のど真ん中にあります。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hot…　2026-08-09 08:39:27投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=183440\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.49,
+    "locationAverage": 4.46,
+    "roomAverage": 4.54,
+    "equipmentAverage": 4.47,
+    "bathAverage": 4.45,
+    "breakfastAverage": 4.33,
+    "cleanlinessAverage": 4.52
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "kumamoto",
+    "smallClassCode": "kumamoto",
+    "areaName": "熊本",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "14:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "29:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 180,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "パジャマ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "◆2階ロビーにアメニティバーをご用意しておりますので、必要な分だけお取りください。"
+      },
+      {
+        "item": "・コットン ・化粧水 ・乳液 ・クレンジング ・洗顔料 ・ヘアリング・ヘアオイル・カミソリ"
+      },
+      {
+        "item": "・シェービングフォーム ・マウスウォッシュ ・入浴剤"
+      },
+      {
+        "item": "コンビニエンスストア"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [],
+    "aboutLeisure": null,
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "バリアフリールーム"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "◆チェックインが予定時間を過ぎる場合は必ずご連絡下さい。,※予定時間から2時間を過ぎますと、予約をキャンセル扱いとさせていただきます。またその際の責任は負いかねますので、正しい到着時間をお知らせ下さい。,◆楽天スーパーポイントご利用時、自動精算機より発行されるレシート（領収書）にはご利用ポイントの明細が記載されます。,◆宿泊料金のお支払いは前払い制となります（チェックイン時）,◆事前カード決済（クレジットカードでご予約時にご精算）がお済みの場合、ホテルでは領収書の発行は致しかねます。楽天トラベルのお客様画面「個人ページ」にて発行をお願い致します。,◆予約確認のため、宿泊日前日に電話にて「予約確認のご連絡」をさせていただく場合がございます。,◆本サイトで販売している商品は、個人利用のお客様を対象とした「インターネット販売限定」のプランとなっております。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の80％    <BR>前日                ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      }
+    ],
+    "aboutCreditCardNote": "銀聯（ぎんれん）カードもご利用頂けます。",
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "駐車場：ご宿泊者価格は1泊（14時〜翌12時）2,000円（税込）※営業時間7時〜23時,※先着順・予約不可　※高さ制限（普通1.55m、ハイルーフ2.0m以下）　,駐車場の営業時間外（23時〜7時）の入出庫は受け付けておりませんので、予めご了承ください。"
+  }
+}

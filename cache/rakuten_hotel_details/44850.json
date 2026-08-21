@@ -1,0 +1,185 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 44850,
+    "hotelName": "ビジネスホテル　はやし＜山口県＞",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D44850",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D44850%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D44850",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D44850",
+    "hotelKanaName": "はやし＜やまぐちけん＞",
+    "hotelSpecial": "＜JR新下関駅前・朝食の美味しいホテル＞ビジネス・観光の拠点に最適！各種部屋タイプ完備！",
+    "hotelMinCharge": 4500,
+    "latitude": 122412.42,
+    "longitude": 471429.79,
+    "postalCode": "751-0872",
+    "address1": "山口県",
+    "address2": "下関市秋根南町1-8-13",
+    "telephoneNo": "083-256-3888",
+    "faxNo": "083-256-3892",
+    "access": "JR山陽新幹線　新下関駅東口から徒歩約1分　中国自動車道下関ICより県道34号を豊浦方面へ約10分",
+    "parkingInformation": "ホテル1階部分に10台有(先着順・無料）満車時近隣有料駐車場へご案内※トラック・駐車場の予約一切不可",
+    "nearestStation": "新下関",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/44850/44850.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/44850.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/44850/44850_ww.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/44850.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/44850/44850map.gif",
+    "reviewCount": 662,
+    "reviewAverage": 3.87,
+    "userReview": "駐車場が満車でフロントの対応も不親切駐車場の数が少なくまた狭い。見えるあたり全て満車であったため、土地勘がないのでホテルフロントに聞きにいったら今日は特に客が多いので泊まる場所はないです。お客…　2026-08-13 16:40:26投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=44850\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 3.92,
+    "locationAverage": 4,
+    "roomAverage": 3.77,
+    "equipmentAverage": 3.69,
+    "bathAverage": 3.75,
+    "breakfastAverage": 4.18,
+    "dinnerAverage": 4.44,
+    "cleanlinessAverage": 3.82
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "yamaguchi",
+    "smallClassCode": "shimonoseki",
+    "areaName": "下関・宇部",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "16:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "23:30"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 62,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送（無料）"
+      },
+      {
+        "item": "インターネット接続(LAN形式)"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫(一部)"
+      },
+      {
+        "item": "ドライヤー(貸出)"
+      },
+      {
+        "item": "ドライヤー(一部)"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "リンスインシャンプー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "食事処"
+      },
+      {
+        "dinnerPlace": "食事処"
+      }
+    ],
+    "aboutBath": [],
+    "aboutLeisure": "海水浴,釣り,海釣り,ゴルフ,サッカー,乗馬,陸上競技,博物館,水族館,美術館",
+    "handicappedFacilities": [],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "ご精算は現金/クレジットカ－ドにて対応させて頂きます。また前金制でございます。,駐車場の御利用は先着順でございます。満車時は近隣の有料駐車場（お客様負担）にお願い致します。,備考欄に駐車場希望を記入されてもご予約・取り置きは一切受け付けておりませんのでご了承下さい。,駐車場御利用のお客様で、車高が２００ｃｍ以上又はマイクロバス等の大型車の駐車はできません。,到着予定時間より３０分以上遅れる場合は必ずホテルまでご連絡下さい。,ダイニング囃子は日曜定休日となります,楽天トラベルからの予約のキャンセルは必ず楽天トラベルからキャンセル処理をお願いします。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "Master Card"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": null
+  }
+}

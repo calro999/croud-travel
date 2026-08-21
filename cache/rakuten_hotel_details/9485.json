@@ -1,0 +1,289 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 9485,
+    "hotelName": "長瀞温泉　花のおもてなし　長生館",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D9485",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D9485%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D9485",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D9485",
+    "hotelKanaName": "ながとろおんせん　はなのおもてなし　ちょうせいかん",
+    "hotelSpecial": "長瀞温泉 創業大正元年 長瀞観光の歴史と共に歩む日本旅館 長瀞渓谷岩畳を望む百年変わらぬ癒やしの眺め",
+    "hotelMinCharge": 11500,
+    "latitude": 129932.52,
+    "longitude": 500823.89,
+    "postalCode": "369-1305",
+    "address1": "埼玉県",
+    "address2": "秩父郡長瀞町長瀞449",
+    "telephoneNo": "0494-66-1113",
+    "faxNo": "0494-66-1115",
+    "access": "秩父鉄道：長瀞駅から徒歩3分／関越自動車道：花園ＩＣより車で30分",
+    "parkingInformation": "有り 50台 無料 先着順　徒歩圏に第3駐車場までございます",
+    "nearestStation": "長瀞",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9485/9485.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/9485.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9485/9485_ss.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/9485.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9485/9485map.gif",
+    "reviewCount": 1300,
+    "reviewAverage": 4.42,
+    "userReview": "朝食のお豆腐と個室での食事が最高!朝食のお豆腐が本当に美味しい。夕飯ももちろん満足!!個室でゆっくり食べられます。子供用の食事量多かったので今回は食事なしにしましたがちょうどよかったです。…　2026-08-13 23:31:17投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=9485\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.49,
+    "locationAverage": 4.64,
+    "roomAverage": 4.49,
+    "equipmentAverage": 4.27,
+    "bathAverage": 4.22,
+    "breakfastAverage": 4.31,
+    "dinnerAverage": 4.27,
+    "cleanlinessAverage": 4.5
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "saitama",
+    "smallClassCode": "chichibu",
+    "areaName": "秩父・長瀞",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "19:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 22,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "ＣＤプレイヤ－(貸出)"
+      },
+      {
+        "item": "カセットデッキ(貸出)"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "エクステンションベッド"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "※マッサージ（指圧）は外部からの手配となりますので、ご希望に沿えない場合もございます。"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "喫茶"
+      },
+      {
+        "item": "ティーラウンジ"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "湯上がりサロン"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン"
+      },
+      {
+        "breakfastPlace": "広間"
+      },
+      {
+        "dinnerPlace": "部屋"
+      },
+      {
+        "dinnerPlace": "個室"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathBenefits": "外傷"
+      },
+      {
+        "bathBenefits": "ストレス"
+      },
+      {
+        "bathBenefits": "美肌効果"
+      }
+    ],
+    "aboutLeisure": "ラフティング、いちご狩り、ぶどう狩り、陶芸、ガラス工芸、うどん打ち,釣り,渓流釣り,カヌー,ウォータースポーツ,渓流下り,バンジージャンプ,テニス,ゴルフ,パラグライダー,サイクリング,ハイキング,トレッキング,登山,射撃,動物園,博物館,フラワーパーク,農業公園,しいたけ狩り,栗拾い,山菜取り",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "大浴場浴槽に手すりあり"
+      },
+      {
+        "item": "大浴場での介助入浴可能"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      }
+    ],
+    "linguisticLevel": "中国語：少し分かるスタッフが数人いる。<BR>英語：日常的な内容は問題のないスタッフが数人いる。<BR>韓国語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "※アレルギー対応に関して当館ではアレルギー対応のお料理はご用意しておりません。食事は通常通り提供させていただき、お客様ご自身でより分けていただきますようお願いいたします。,※料理の変更をご希望の場合は、別注メニューまたは別料金で対応させていただきます。,※2025年4月1日より宿泊利用の大人1名様/1泊につき入湯税150円を頂戴いたします。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日7時から         ：宿泊料金の100％   <BR>前日7時から         ：宿泊料金の50％    <BR>5日前7時から        ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "楽天カード"
+      },
+      {
+        "card": "デビットカード"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "モーニングコーヒーサービス,将棋無料貸出,囲碁無料貸出",
+    "otherInformation": "Free Wi-Fiがございます。接続方法などはフロントまでお申し付けください。"
+  }
+}

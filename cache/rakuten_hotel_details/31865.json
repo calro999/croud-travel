@@ -1,0 +1,325 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 31865,
+    "hotelName": "修善寺温泉　国の登録文化財の宿　新井旅館",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D31865",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D31865%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D31865",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D31865",
+    "hotelKanaName": "しゅぜんじおんせん　くにのとうろくぶんかざいのやど　あらいりょかん",
+    "hotelSpecial": "ミシュランで二つ星の竹林の小径まで徒歩2分、修善寺温泉の中心で観光に便利です",
+    "hotelMinCharge": 17490,
+    "latitude": 125881.37,
+    "longitude": 500146.73,
+    "postalCode": "410-2416",
+    "address1": "静岡県",
+    "address2": "伊豆市修善寺970",
+    "telephoneNo": "0558-72-2007",
+    "faxNo": "0558-72-5119",
+    "access": "伊豆箱根鉄道線 修善寺駅よりバスまたはタクシーで10分／東名・新東名高速 沼津ICより伊豆縦貫道経由45分",
+    "parkingInformation": "あり　40台　無料",
+    "nearestStation": "修善寺",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31865/31865.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/31865.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31865/31865_he.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/31865.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31865/31865map.gif",
+    "reviewCount": 265,
+    "reviewAverage": 4.67,
+    "userReview": "情緒ある景観と「おもてなし」が圧巻!日本の重要文化財に泊まるのは初めてで、ものすごく古い建物じゃないかと予想してましたが、とても情緒ある建造物で、建物内はもちろん庭園や池、特にロビー棟と宿泊棟を結…　2026-08-12 15:04:39投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=31865\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.67,
+    "locationAverage": 4.72,
+    "roomAverage": 4.83,
+    "equipmentAverage": 4.61,
+    "bathAverage": 4.72,
+    "breakfastAverage": 4.67,
+    "dinnerAverage": 4.61,
+    "cleanlinessAverage": 4.63
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "shizuoka",
+    "smallClassCode": "naka",
+    "areaName": "伊豆長岡・修善寺・天城湯ヶ島",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "18:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 31,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "ビデオデッキ(貸出)"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（固形）"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "湯沸かしポット(貸出)"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "・近代日本画の巨匠、横山大観などの作品を展示している書画展示室（作品は月毎に入替）"
+      },
+      {
+        "item": "・現代女流書家、金澤翔子さんの作品を展示した「銀座 金澤翔子美術館 修善寺」（有料／割引有）を併設"
+      },
+      {
+        "item": "・2022年OPEN！　文学作品や郷土資料など、約2,000冊の蔵書を自由に閲覧できる古書庵「東裡」"
+      },
+      {
+        "item": "喫茶"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "貸自転車"
+      },
+      {
+        "item": "コネクティングルーム（一部・要予約）"
+      },
+      {
+        "item": "パソコン利用可"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "部屋"
+      },
+      {
+        "breakfastPlace": "食事処"
+      },
+      {
+        "dinnerPlace": "部屋"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "アルカリ単純泉"
+      },
+      {
+        "bathBenefits": "冷え性"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      },
+      {
+        "bathBenefits": "リウマチ・神経病"
+      }
+    ],
+    "aboutLeisure": "海水浴,釣り,海釣り,渓流釣り,ダイビング,テニス,ゴルフ,サイクリング,ハイキング,乗馬,トレッキング,登山,遊園地,動物園,水族館,フラワーパーク,テーマパーク,美術館,しいたけ狩り",
+    "handicappedFacilities": [
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": "英語：ネイティブに近く流暢なスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "・入湯税が別途必要です。（大人お一人様150円）,・チェックインが18時以降の場合必ずご連絡下さい。,・食事開始時刻は18時・18時30分から選択。 交通渋滞等でご到着が遅くなる場合はお早めにご連絡下さい。 19時以降にご到着の場合は衛生の関係上食夕食提供不可。お布団は21時には敷かせて頂きます。,・3歳以上の幼児は、施設使用料＋幼児用夕食＆朝食付で(8,250円）を頂戴しております。,・年末年始のご予約は、2週間前よりキャンセル料を頂戴いたします。また、ご宿泊代の30%をご予約金として事前にお振込み頂きます。,・携帯電話番号に当館よりSMSによる通知が届く場合があります。あらかじめご了承くださいますようお願い申し上げます。,・【お客様への新型コロナ対策のお願い】,・ご来館当日の朝、検温と健康観察をおこない、熱、のどの痛み、咳、強いだるさ、息苦しさ、味覚・嗅覚異常などの症状がみられた場合は、無理せずご旅行を中止しご連絡下さい。,・ご旅行中は社会的距離を保ち、マスク着用、手洗い・手指消毒をお願いします。,【伊豆市の体験予約について】「いずタビPickUp！」で旅の思い出づくり♪体験・アクティビティのオンライン予約を受け付けております。是非ご利用ください。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>2日前から           ：宿泊料金の30％    <BR>3日前から           ：宿泊料金の30％    <BR>6日前から           ：宿泊料金の20％    <BR>7日前から           ：宿泊料金の10％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "Bank Card"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "AEON"
+      },
+      {
+        "card": "JACCS"
+      },
+      {
+        "card": "APLUS"
+      },
+      {
+        "card": "ORICO"
+      },
+      {
+        "card": "View"
+      },
+      {
+        "card": "JTB"
+      },
+      {
+        "card": "楽天カード"
+      },
+      {
+        "card": "ANA"
+      },
+      {
+        "card": "JAL"
+      },
+      {
+        "card": "デビットカード"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": "・一部スマートフォン決済に対応",
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "お部屋で緑茶サービス",
+    "otherInformation": null
+  }
+}

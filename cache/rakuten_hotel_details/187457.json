@@ -1,0 +1,245 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 187457,
+    "hotelName": "天然温泉　旅人の湯（源泉名：延徳温泉）ホテルルートインＧｒａｎｄ中野小布施－信州中野駅前－",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D187457",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D187457%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D187457",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D187457",
+    "hotelKanaName": "ほてるるーといんぐらんどなかのおぶせ　しんしゅうなかのえきまえ",
+    "hotelSpecial": "長野電鉄信州中野駅より徒歩3分！無料駐車場・天然温泉大浴場完備！小布施町・志賀高原へ良アクセス！",
+    "hotelMinCharge": 7200,
+    "latitude": 132269.22,
+    "longitude": 498130.32,
+    "postalCode": "383-0021",
+    "address1": "長野県",
+    "address2": "中野市西1-3-27",
+    "telephoneNo": "050-5211-5821",
+    "faxNo": "0269-24-5081",
+    "access": "信州中野駅より徒歩で約3分",
+    "parkingInformation": "有り　109台　無料　先着順",
+    "nearestStation": "信州中野",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/187457/187457.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/187457.jpg",
+    "roomImageUrl": null,
+    "roomThumbnailUrl": null,
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/187457/187457map.gif",
+    "reviewCount": 204,
+    "reviewAverage": 4.41,
+    "userReview": "綺麗な館内と豊富な朝食、充電器完備で快適すごく綺麗なホテルでした朝食いただきましたが、種類も豊富で美味しくとても良かったです。お部屋に各種充電コードもあって助かりました。子供達と宿泊し…　2026-08-15 22:02:00投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=187457\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.4,
+    "locationAverage": 4.27,
+    "roomAverage": 4.47,
+    "equipmentAverage": 4.44,
+    "bathAverage": 4.45,
+    "breakfastAverage": 4.3,
+    "cleanlinessAverage": 4.45
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "nagano",
+    "smallClassCode": "shiga",
+    "areaName": "志賀高原･湯田中･渋",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": null
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 166,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "有料ビデオ"
+      },
+      {
+        "item": "衛星放送（無料）"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "洗顔ソープ"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "くつろぎ着の作務衣"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "セルフカフェコーナー、靴磨きコーナー、電子レンジ・製氷機あり"
+      },
+      {
+        "item": "全客室：Wi-Fi利用可能(ホテル館内全域・無料)、WOWOW無料視聴"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "パソコン利用可"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "E-Mail送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "低張性弱アルカリ性泉"
+      },
+      {
+        "bathQuality": "塩化物泉"
+      },
+      {
+        "bathBenefits": "関節痛"
+      },
+      {
+        "bathBenefits": "筋肉痛"
+      },
+      {
+        "bathBenefits": "神経痛"
+      }
+    ],
+    "aboutLeisure": null,
+    "handicappedFacilities": [],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "【重要：長野県宿泊税導入について】長野県条例の改定により、2026年6月1日（月）以降のご宿泊分から宿泊料金とは別にチェックイン時に1人1泊につき宿泊税をお支払いただきます。,■令和8年6月1日～令和11年5月31日：1人1泊6000円以上（税抜料金）200円　■令和11年6月1日以降：1人1泊6000円以上（税抜料金）300円,画面上に表示される宿泊料金には消費税は含まれておりますが、宿泊税は含まれておりませんのでご注意ください。2026年5月31日より前に予約された場合でも、6月1日以降の宿泊分には宿泊税が適用されます。,詳細は長野県のホームページをご確認下さい。,観光バス及び特定車両（医療特別車両・緊急車両など）を除き、駐車スペース１区画を超える車輌の駐車はご遠慮頂いております。,チェックインが予定時刻を過ぎる場合は必ずご連絡ください。,団体ご予約（１５名様以上）の場合、別途規定によるキャンセル料を請求させていただきます。,当ホテルとの宿泊契約には、当ホテルが定める宿泊約款が適用されます。宿泊約款の内容については各ホテルにお問合せください。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の80％    <BR>前日                ：宿泊料金の50％    <BR>3日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Discover"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": "銀聯カード/QRコード決済(PayPay等）、電子マネー(iD等)、交通系電子マネー(Suica等)",
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": null
+  }
+}

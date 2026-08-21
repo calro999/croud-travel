@@ -1,0 +1,385 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 9546,
+    "hotelName": "花巻温泉郷　新鉛温泉　結びの宿　愛隣館",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D9546",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D9546%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D9546",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D9546",
+    "hotelKanaName": "しんなまりおんせん　むすびのやど　あいりんかん",
+    "hotelSpecial": "楽天トラベル ゴールドアワード・日本の宿TOP47受賞！新お食事処「里山ダイニング」誕生！",
+    "hotelMinCharge": 11385,
+    "latitude": 142080.37,
+    "longitude": 507571.25,
+    "postalCode": "025-0252",
+    "address1": "岩手県",
+    "address2": "花巻市鉛字西鉛23番地",
+    "telephoneNo": "0198-25-2619",
+    "faxNo": "0198-25-2938",
+    "access": "送迎バス（要予約）でＪＲ新花巻駅よりで約40～60分・ＪＲ花巻駅より約25～40分、東北道花巻南ＩＣより車で約20分",
+    "parkingInformation": "200台収容できる無料駐車場をご用意しております(セルフ移動をお願いしております)",
+    "nearestStation": "花巻",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9546/9546.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/9546.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9546/9546_kan.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/9546.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9546/9546map.gif",
+    "reviewCount": 6160,
+    "reviewAverage": 4.27,
+    "userReview": "食事内容の格差が大きく残念な体験かまどダイニングと里山ダイニングの夕食の内容が違いすぎてビックリしました当日、かまどダイニングで食事で旅の楽しみは夕食です。ライブキッチンの揚げたての天ぷら…　2026-08-15 18:05:30投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=9546\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.4,
+    "locationAverage": 4.32,
+    "roomAverage": 4.3,
+    "equipmentAverage": 4.19,
+    "bathAverage": 4.44,
+    "breakfastAverage": 4.29,
+    "dinnerAverage": 4.25,
+    "cleanlinessAverage": 4.32
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "iwate",
+    "smallClassCode": "kitakami",
+    "areaName": "北上・花巻・遠野",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "19:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 100,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "ファックス"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ドライヤー(貸出)"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "カセットデッキ(貸出)"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "湯沸かしポット(貸出)"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "全室 洗浄器付きトイレ（花かんむり6畳のみ便座暖房なし）"
+      },
+      {
+        "item": "釣り竿、虫かご、ゴザなどのレンタルあり（売店にて受付）。"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "喫茶"
+      },
+      {
+        "item": "ティーラウンジ"
+      },
+      {
+        "item": "ラウンジ"
+      },
+      {
+        "item": "バーラウンジ"
+      },
+      {
+        "item": "ナイトクラブ"
+      },
+      {
+        "item": "夜食コーナー"
+      },
+      {
+        "item": "居酒屋コーナー"
+      },
+      {
+        "item": "カラオケルーム"
+      },
+      {
+        "item": "カラオケサロン"
+      },
+      {
+        "item": "多目的室"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "コーヒーショップ"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "エステサロン"
+      },
+      {
+        "item": "貸自転車"
+      },
+      {
+        "item": "ゲームコーナー"
+      },
+      {
+        "item": "卓球"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "E-Mail送信可"
+      },
+      {
+        "item": "ルームサービス"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "部屋"
+      },
+      {
+        "dinnerPlace": "レストラン(バイキング)"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathType": "水風呂"
+      },
+      {
+        "bathType": "岩盤浴"
+      },
+      {
+        "bathQuality": "硫酸塩泉"
+      },
+      {
+        "bathQuality": "カルシウム・ナトリウム硫酸塩泉"
+      },
+      {
+        "bathBenefits": "関節痛"
+      },
+      {
+        "bathBenefits": "筋肉痛"
+      },
+      {
+        "bathBenefits": "神経痛"
+      }
+    ],
+    "aboutLeisure": "釣り,渓流釣り,渓流下り,テニス,ゲートボール,ゴルフ,サッカー,サイクリング,ハイキング,スキー,クロスカントリー,スケート,トレッキング,登山,射撃,陸上競技,農業公園,美術館,山菜取り",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "大浴場浴槽に手すりあり"
+      },
+      {
+        "item": "大浴場での介助入浴可能"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "◎ 入湯税大人150円（子供無料（0～12歳））別途頂きます。,◎ 子供料金の適用年齢補足[通常プランに適用目安]　小学生(6才～12才)：お子様膳＋布団、幼児(2～6才)：お子様ランチ ＋布団、幼児(2～6才)：お子様ランチ、幼児(1～2才)：布団、幼児(1～2,※（お子様定額料金プラン以外）0才の赤ちゃんは無料となりますので、人数に含めずに備考欄へ赤ちゃんの人数をご記入ください。　※離乳食が必要な場合は別途料金がかかります。　,◎ 15名以上、居住地が海外のお客様はキャンセル規定が異なります。,　,◎ 当館ではご予約のお客様へ確認のためにお電話をする場合がございます。ご都合が悪い方は、その旨を電話またはメールにてご連絡ください。,　愛隣館予約センター　電話：0198-25-2619 (受付時間9:00～17:30)　メール：yoyaku@airinkan.com,◎送迎バスご希望の方は3日前までの要予約となります（9/1より3歳以上100円）。公式HP掲載のWebフォーム、またはお電話にて承ります。,【お迎え】新花巻駅 西口発：14:00,★15:10,15:50,★16:10,★17:10　花巻駅 東口発：14:15,★15:25,★16:25,★17:25　（★印は「花巻南温泉峡シャトルバス」,【お送り】愛隣館 発：9:00,★9:45,11:00,13:10　（★印は「花巻南温泉峡シャトルバス」(定刻発車)）",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>3日前から           ：宿泊料金の30％    <BR>7日前から           ：宿泊料金の20％    <BR>14日前から          ：宿泊料金の10％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "AEON"
+      },
+      {
+        "card": "CF"
+      },
+      {
+        "card": "ORICO"
+      },
+      {
+        "card": "JTB"
+      },
+      {
+        "card": "楽天カード"
+      },
+      {
+        "card": "デビットカード"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": "カードでのお支払いも歓迎です。",
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "ウェルカムドリンクサービス",
+    "otherInformation": "源泉は「新鉛温泉(新黄金の湯)」※ナトリウム・カルシウム一硫酸塩泉(低張性中性高温泉)と、「新鉛温泉,(第一黄金の湯)」※ナトリウム一硫酸塩泉(低張性弱アルカリ性高温泉)の2種です。,「新鉛温泉（新黄金の湯）」は、2つの自家源泉「第一黄金の湯」と「第二黄金の湯」の混合泉です。"
+  }
+}

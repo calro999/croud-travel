@@ -1,0 +1,272 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 684,
+    "hotelName": "岡山ビューホテル",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D684",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D684%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D684",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D684",
+    "hotelKanaName": "おかやまびゅーほてる",
+    "hotelSpecial": "マイホームのような「靴を脱ぐ、床に座る」コンセプトルーム★お布団敷のファミリールームも有",
+    "hotelMinCharge": 3200,
+    "latitude": 124776.27,
+    "longitude": 482151.5,
+    "postalCode": "700-0821",
+    "address1": "岡山県",
+    "address2": "岡山市北区中山下1-11-17",
+    "telephoneNo": "086-224-2000",
+    "faxNo": "086-223-2750",
+    "access": "バス「天満屋」下車徒歩約2分◆JR岡山駅東口より車で約5分◆路面電車「清輝橋行」「郵便局前」下車徒歩約3分",
+    "parkingInformation": "ホテル１Ｆ(フロントは2F)　約20台収容　一泊800~1000円　高さ2.5m迄2t車も可　先着順",
+    "nearestStation": "岡山",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/684/684.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/684.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/684/684_sing.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/684.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/684/684map.gif",
+    "reviewCount": 2490,
+    "reviewAverage": 4.14,
+    "userReview": "畳でくつろげて清掃も行き届き快適靴を脱いで、畳に上がれるので、くつろげました。築年数は経っているようですが、清掃がゆきとどいていましたし、快適に過ごせました。クチコミの詳細はこちらから　h…　2026-08-11 06:23:44投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=684\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.2,
+    "locationAverage": 3.96,
+    "roomAverage": 4.16,
+    "equipmentAverage": 3.95,
+    "bathAverage": 3.86,
+    "breakfastAverage": 4.19,
+    "cleanlinessAverage": 4.13
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "okayama",
+    "smallClassCode": "okayama",
+    "areaName": "岡山",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "29:30"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 97,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送"
+      },
+      {
+        "item": "衛星放送（無料）"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(LAN形式)"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "洗顔ソープ"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "パジャマ"
+      },
+      {
+        "item": "湯沸かしポット(貸出)"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "10階にコインランドリー（有料）、電子レンジ＆製氷機（無料）あります"
+      },
+      {
+        "item": "お子様用アメニティ（有料）、おもちゃ・絵本、ナノイー美顔器＆ヘアドライヤ―など貸出（無料）あります"
+      },
+      {
+        "item": "かみそりセットまたはコットンセットをフロントで無料進呈（どちらもヘアブラシ、ボディタオル付）"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "ルームサービス"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [],
+    "aboutLeisure": "天満屋、NTTクレド、表町商店街、岡山県庁、後楽園、岡山城、シンフォニーホール、岡山大学,サイクリング,遊園地,動物園,博物館,美術館",
+    "handicappedFacilities": [
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "高齢者用料理への対応可能"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "当日ご宿泊者ご本人様と連絡が取れる番号（携帯など）をお教えください,門限は特にありませんが、到着予定時間より遅くなるようでしたら直接ホテルまでご連絡ください（086-224-2000),ホテル１階に有料駐車場がございます（約20台収容）　先着順となりますのでご了承くださいませ,満車の場合は、近隣の駐車場をご案内することがございます（料金も駐車場によって異なります）,小学生以下の添い寝（寝具、タオル、アメニティなし）は無料です",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の80％    <BR>2日前から           ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "Bank Card"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "LIFE"
+      },
+      {
+        "card": "ORICO"
+      },
+      {
+        "card": "JTB"
+      },
+      {
+        "card": "Daimaru"
+      },
+      {
+        "card": "Takashimaya"
+      },
+      {
+        "card": "楽天カード"
+      },
+      {
+        "card": "JAL"
+      },
+      {
+        "card": "デビットカード"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": "PayPayもご利用いただけます",
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "お荷物のお預かり、スタッフおすすめグルメマップ無料,時間外チェックイン可,時間外チェックアウト���",
+    "otherInformation": "その日仕入れたお魚をシェフが目の前で切り分けるアツアツ鉄板焼朝ごはん,深夜も警備員が定期的に全フロアを巡回チェックしています。女性の方でも安心してお休みください。,食事に外に出て行くのが面倒な人にはお弁当もおつくりします♪（900円〜　日月曜の夜は除く）"
+  }
+}

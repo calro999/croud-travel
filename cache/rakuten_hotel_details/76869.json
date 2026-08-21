@@ -1,0 +1,216 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 76869,
+    "hotelName": "ホテルたいよう農園　徳島県庁前",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D76869",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D76869%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D76869",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D76869",
+    "hotelKanaName": "ほてるたいようのうえん　とくしまけんちょうまえ",
+    "hotelSpecial": "【農家が営む宿】徳島県庁目の前の好立地！自家製フレッシュ野菜バー、出来立てのフレンチトーストが人気",
+    "hotelMinCharge": 4600,
+    "latitude": 122622.32,
+    "longitude": 484418.67,
+    "postalCode": "770-0942",
+    "address1": "徳島県",
+    "address2": "徳島市昭和町1-15",
+    "telephoneNo": "088-655-5151",
+    "faxNo": "088-653-1155",
+    "access": "徳島県庁が目印です。お車でJR徳島駅より７分、徳島ICより１５分、徳島港より１５分",
+    "parkingInformation": "平面駐車場９０台（乗用車５００円/泊）※全長６ｍ超（トラック等）や二輪は要予約",
+    "nearestStation": "阿波富田",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/76869/76869.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/76869.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/76869/76869_sin.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/76869.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/76869/76869map.gif",
+    "reviewCount": 1932,
+    "reviewAverage": 4.1,
+    "userReview": "朝食バイキングは満足、洗面台は狭め朝食がバイキングが美味しくて、料金も満足です。しいて言うならば、洗面台が狭すぎるのが難点かな?クチコミの詳細はこちらから　https://review.t…　2026-08-14 20:49:23投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=76869\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.17,
+    "locationAverage": 3.93,
+    "roomAverage": 4,
+    "equipmentAverage": 4,
+    "bathAverage": 3.93,
+    "breakfastAverage": 4.3,
+    "dinnerAverage": 4.33,
+    "cleanlinessAverage": 4.11
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "tokushima",
+    "smallClassCode": "tokushima",
+    "areaName": "徳島・鳴門",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "29:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 128,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送"
+      },
+      {
+        "item": "ファックス(一部)"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "リンスインシャンプー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "湯沸かしポット(貸出)"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "貸自転車"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "レストラン(バイキング)"
+      }
+    ],
+    "aboutBath": [],
+    "aboutLeisure": "海水浴,釣り,海釣り,動物園,博物館",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "バリアフリールーム"
+      },
+      {
+        "item": "車椅子利用者用客室あり"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "客室内トイレに手すりあり"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      }
+    ],
+    "linguisticLevel": "中国語：日常的な内容は問題のないスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "「支払いについて」宿泊料金は前払い制です。クレジットカード各種ご利用いただけます。,「領収書について」チェックアウト時にお渡しいたします。オンライン決済の場合、お客様の方で発行していただくようになります。,「門限について」門限はありませんが、夜間帯（２３時～翌７時）は正面玄関よりお入りください。防犯のため、１階よりエレベーターを呼び出せないようになっております。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日12時から        ：宿泊料金の100％   <BR>当日                ：宿泊料金の50％    <BR>前日                ：宿泊料金の0％     ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "楽天カード"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": null
+  }
+}

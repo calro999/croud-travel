@@ -1,0 +1,191 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 65974,
+    "hotelName": "ビジネスホテル新ばし＜宮城県＞",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D65974",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D65974%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D65974",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D65974",
+    "hotelKanaName": "しんばし",
+    "hotelSpecial": "大衡村唯一のホテル 仙台北部中核工業団地より車で10分。 朝食は和食バイキング食べ放題",
+    "hotelMinCharge": 4565,
+    "latitude": 138418.04,
+    "longitude": 507185.55,
+    "postalCode": "981-3602",
+    "address1": "宮城県",
+    "address2": "黒川郡大衡村大衡石神沢20",
+    "telephoneNo": "022-345-7887",
+    "faxNo": "022-345-2963",
+    "access": "国道4号線沿い　東北自動車道大和IC　大衡ICより車で8分　仙台泉中央駅より車で約20分　大崎市より車で25分",
+    "parkingInformation": "有り　８０台　普通車無料　　大型車１台につき５５０円/ご１泊（車高制限なし）　要予約",
+    "nearestStation": "古川",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/65974/65974.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/65974.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/65974/65974_si.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/65974.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/65974/65974map.gif",
+    "reviewCount": 259,
+    "reviewAverage": 3.69,
+    "userReview": "室内は清潔、浴室の老朽化は気になる出張利用。施設は古めだが室内はキレイ。浴室の老朽化が少し目立ったのが残念だか、湯量が多いのは良かった。冷蔵庫のスイッチがこんなトコにあるのは珍しい。…　2026-08-02 18:59:31投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=65974\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 3.71,
+    "locationAverage": 3.58,
+    "roomAverage": 3.68,
+    "equipmentAverage": 3.59,
+    "bathAverage": 3.62,
+    "breakfastAverage": 3.77,
+    "dinnerAverage": 4.17,
+    "cleanlinessAverage": 3.54
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "miyagi",
+    "smallClassCode": "naruko",
+    "areaName": "鳴子・古川・くりこま高原",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "23:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 58,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送"
+      },
+      {
+        "item": "衛星放送（無料）"
+      },
+      {
+        "item": "インターネット接続(LAN形式)"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ(一部)"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "リンスインシャンプー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "ナイトウェア"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "湯沸かしポット(貸出)"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "電気ケトル貸出し"
+      },
+      {
+        "item": "フロント脇(アメニティバイキング)"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "部屋"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [],
+    "aboutLeisure": "ゴルフ,ハイキング,陸上競技,農業公園,山菜取り",
+    "handicappedFacilities": [],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "ご精算は前金制でございます。,正面玄関入口は防犯の為２４時に施錠します。２４時以降はインターホンをご利用下さい。,2020年4月1日より喫煙ルーム以外（１Fレストラン含）は館内全面禁煙となります。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の70％    <BR>2日前から           ：宿泊料金の50％    <BR>3日前から           ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "JTB"
+      },
+      {
+        "card": "楽天カード"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "チェックインが夜間になる場合は前もってご連絡を頂けるよう宜しくお願い致します。,１Ｆレストランは毎週日曜日が定休日となります。,2020年4月1日より喫煙ルーム以外は全館（レストラン含む）全面禁煙とさせていただきます。"
+  }
+}

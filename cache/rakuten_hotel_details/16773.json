@@ -1,0 +1,298 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 16773,
+    "hotelName": "白馬みずばしょう温泉　ホテル　シェラリゾート白馬",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D16773",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D16773%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D16773",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D16773",
+    "hotelKanaName": "しぇらりぞーと　はくば",
+    "hotelSpecial": "温泉リゾートホテル、フレンチが人気！楽天トラベルアワード２０２５ゴールド／日本の宿ＴＯＰ４７受賞★",
+    "hotelMinCharge": 17167,
+    "latitude": 132232.68,
+    "longitude": 496314.17,
+    "postalCode": "399-9301",
+    "address1": "長野県",
+    "address2": "北安曇郡白馬村北城14863-6",
+    "telephoneNo": "0261-72-3250",
+    "faxNo": "0261-72-4250",
+    "access": "JR白馬駅よりホテルバス（要予約）にて10分／長野道安曇野I.Cより60分／糸魚川I.Cより60分",
+    "parkingInformation": "乗用車約100台駐車可能。無料",
+    "nearestStation": "白馬",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/16773/16773.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/16773.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/16773/16773_bath.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/16773.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/16773/16773map.gif",
+    "reviewCount": 985,
+    "reviewAverage": 4.64,
+    "userReview": "五右衛門風呂は良かったです森の中に佇むリゾートタイプのホテルで、静かにくつろぐには良いホテルでした。中庭も非常に開放感があり、遠くに栂池も見え、気持ち良かったです。外にある現代風にアレンジ…　2026-08-14 09:48:44投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=16773\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.62,
+    "locationAverage": 4.68,
+    "roomAverage": 4.62,
+    "equipmentAverage": 4.56,
+    "bathAverage": 4.62,
+    "breakfastAverage": 4.61,
+    "dinnerAverage": 4.57,
+    "cleanlinessAverage": 4.63
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "nagano",
+    "smallClassCode": "hakuba",
+    "areaName": "白馬・八方尾根・栂池高原・小谷",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "24:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 74,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ベビーベッド"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "ラウンジ"
+      },
+      {
+        "item": "カラオケルーム"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "プール(夏期のみ)"
+      },
+      {
+        "item": "貸スキー"
+      },
+      {
+        "item": "貸スキーウェア"
+      },
+      {
+        "item": "貸スノーボード"
+      },
+      {
+        "item": "卓球"
+      },
+      {
+        "item": "スキー乾燥室"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "パソコン利用可"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "ナトリウム炭酸水素塩泉"
+      },
+      {
+        "bathBenefits": "関節痛"
+      },
+      {
+        "bathBenefits": "冷え性"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      }
+    ],
+    "aboutLeisure": "釣り,渓流釣り,カヌー,ウォータースポーツ,渓流下り,川上り,テニス,ゴルフ,サッカー,パラグライダー,熱気球,サイクリング,ハイキング,スキー,クロスカントリー,乗馬,トレッキング,登山,フラワーパーク,美術館,栗拾い,山菜取り",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "バリアフリールーム"
+      },
+      {
+        "item": "車椅子利用者用客室あり"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": "中国語：ネイティブに近く流暢なスタ���フが数人いる。<BR>英語：ネイティブに近く流暢なスタッフが数人いる。<BR>韓国語：ネイティブに近く流暢なスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "チェックイン時間が予定時刻より遅くなる場合は、必ずご連絡ください。,お子様料金の場合(小学生低学年)は子供料理となります。,小学生でも大人料金と同額の場合(小学生高学年)は大人料理となります。,館内はお部屋内含め、全面禁煙でございます。喫煙のお客様は指定の喫煙所をお使いください。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "Master Card"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": null
+  }
+}

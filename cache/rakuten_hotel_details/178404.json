@@ -1,0 +1,210 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 178404,
+    "hotelName": "ルーシーキキ　伊豆高原　ウェルカムベビー　ファミリー　全室露天風呂付き客室の宿",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D178404",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D178404%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D178404",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D178404",
+    "hotelKanaName": "るーしーきき　いずこうげん　うぇるかむべびー　ふぁみりー　ぜんしつろてんぶろつききゃくしつのやど",
+    "hotelSpecial": "露天風呂付き客室＆お部屋食で伊豆懐石を食す贅沢ステイ◇プチグランピングも！ウェルカムベビー認定宿",
+    "hotelMinCharge": 40500,
+    "latitude": 125611.18,
+    "longitude": 500781.1,
+    "postalCode": "413-0232",
+    "address1": "静岡県",
+    "address2": "伊東市八幡野1258-17",
+    "telephoneNo": "0557-33-1111",
+    "faxNo": "0557-33-1112",
+    "access": "伊豆急　伊豆高原駅よりお車にて約５分",
+    "parkingInformation": "有り　８台　無料　予約不要",
+    "nearestStation": "伊豆高原",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/178404/178404.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/178404.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/178404/178404_kan1.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/178404.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/178404/178404map.gif",
+    "reviewCount": 86,
+    "reviewAverage": 4.88,
+    "userReview": "子連れに最適、家族みんなで大満足!とっても素敵なお部屋、サービスでした。もっと早く知りたかったー子ども連れにとてもオススメの宿です。上は12歳、下は1歳の6人家族で利用しました。…　2026-08-15 17:26:10投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=178404\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.88,
+    "locationAverage": 4.76,
+    "roomAverage": 4.71,
+    "equipmentAverage": 4.94,
+    "bathAverage": 4.94,
+    "breakfastAverage": 4.76,
+    "dinnerAverage": 5,
+    "cleanlinessAverage": 5
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "shizuoka",
+    "smallClassCode": "izukogen",
+    "areaName": "伊豆高原",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "18:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 5,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ミニバー"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "洗顔ソープ"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "ナイトウェア"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "電子レンジ（一部・要予約）"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "ネスプレッソ"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "部屋"
+      },
+      {
+        "dinnerPlace": "部屋"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathQuality": "単純泉"
+      },
+      {
+        "bathBenefits": "関節痛"
+      },
+      {
+        "bathBenefits": "筋肉痛"
+      },
+      {
+        "bathBenefits": "神経痛"
+      }
+    ],
+    "aboutLeisure": "海水浴,釣り,海釣り,渓流釣り,ダイビング,ウォータースポーツ,テニス,ゴルフ,パラグライダー,サイクリング,ハイキング,乗馬,ロッククライミング,トレッキング,登山,遊園地,動物園,博物館,水族館,フラワーパーク,テーマパーク,美術館,しいたけ狩り",
+    "handicappedFacilities": [],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "チェックインが予定時刻を過ぎる場合は必ずご連絡ください。,入湯税が別途必要です。（お一人様１５０円）,◆火器厳禁◆火器を使用した調理に類する行為は行えません。（例：BBQセット・カセットコンロ・ホットプレートなど）万が一使用が使用が発覚した場合ご使用を中断させていただきます。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>2日前から           ：宿泊料金の50％    <BR>7日前から           ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "OMC"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": null
+  }
+}

@@ -1,0 +1,322 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 901,
+    "hotelName": "ホテルエミシア札幌",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D901",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D901%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D901",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D901",
+    "hotelKanaName": "ほてるえみしあ　さっぽろ",
+    "hotelSpecial": "ＪＲ「新札幌駅」より徒歩３分！駐車場完備！地上１１５mの高さを誇る朝食会場からの絶景がお勧め",
+    "hotelMinCharge": 5400,
+    "latitude": 154936.75,
+    "longitude": 509317.16,
+    "postalCode": "004-0052",
+    "address1": "北海道",
+    "address2": "札幌市厚別区厚別中央2条5丁目5-25",
+    "telephoneNo": "011-895-8811",
+    "faxNo": "011-895-8820",
+    "access": "《ＪＲ》新札幌駅：徒歩３分　《地下鉄》新さっぽろ駅：徒歩１分　《車》札幌南ＩＣ・大谷地ＩＣ：約１０分",
+    "parkingInformation": "１泊につき１，０００円　予約不要　先着順　満車時駐車不可",
+    "nearestStation": "新札幌",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/901/901.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/901.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/901/901_room.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/901.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/901/901map.gif",
+    "reviewCount": 3734,
+    "reviewAverage": 4.37,
+    "userReview": "Great location, but the parking is terrible.Location is good. Close to a huge mall and science mus…　2026-08-15 23:48:53投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=901\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.38,
+    "locationAverage": 4.44,
+    "roomAverage": 4.38,
+    "equipmentAverage": 4.27,
+    "bathAverage": 4.29,
+    "breakfastAverage": 4.53,
+    "dinnerAverage": 4.2,
+    "cleanlinessAverage": 4.38
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "hokkaido",
+    "smallClassCode": "sapporo",
+    "areaName": "札幌",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "25:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 512,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送（無料）"
+      },
+      {
+        "item": "ＣＳ放送"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ベビーベッド"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "洗顔ソープ"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "全室インターネット接続(WIFI) 無料"
+      },
+      {
+        "item": "★2000平米大浴場「スパ・アルパ」は有料です。スパ入浴付きプランがお勧めです。"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "結婚式場"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "湯上がりサロン"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "コネクティングルーム（一部・要予約）"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "ジャグジー"
+      }
+    ],
+    "aboutLeisure": "野幌森林公園　北海道博物館　北海道開拓の村　青少年科学館　サンピアザ水族館　北海道ボールパーク,テニス,ゲートボール,ゴルフ,サッカー,サイクリング,ハイキング,スキー,乗馬,トレッキング,陸上競技,博物館,水族館",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "バリアフリールーム"
+      },
+      {
+        "item": "車椅子利用者用客室あり"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": "英語：日常的な内容は問題のないスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "・スパ・アルパ【タトゥーのあるお客様について】タトゥーカバー１枚（８ｃｍ×１２ｃｍ）でカバーできる場合に限りご入浴いただけます。,・クレジットカード事前決済でご予約の場合、ホテルでの領収証発行はできません。お客様個人ページからの発行をお願い致します。,・15名様以上のグループ、または当ホテルが団体とみなした場合、ご予約者様にご連絡をさせて頂きます。連絡が取れない場合は予約をキャンセルする場合もございますのでご了承下さい。,・15名様以上のグループ、または当ホテルが団体とみなした場合、通常と異なるキャンセルポリシーが適用されます。また宿泊代相当の前受金を頂戴することがあります。,・現地払いでご予約のお客様は、チェックイン時に宿泊代金全額をお預かりさせて頂きます。,【連泊時の客室清掃についてご案内】お部屋の清掃を３連泊までは行わず、４泊目から３泊毎に１回とさせていただきます。,《客室清掃日以外の日》タオル類（バスタオル、フェイスタオル）、バスマットの交換、歯ブラシなどのアメニティの補充、ごみ箱に入っているゴミの回収を行います。,※清掃をご希望が無い場合でも３泊に���回はお部屋の清掃をさせていただきます。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>前日18時から        ：宿泊料金の100％   <BR>前日                ：宿泊料金の80％    <BR>3日前から           ：宿泊料金の50％    <BR>7日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "OMC"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "AEON"
+      },
+      {
+        "card": "JACCS"
+      },
+      {
+        "card": "APLUS"
+      },
+      {
+        "card": "LIFE"
+      },
+      {
+        "card": "ORICO"
+      },
+      {
+        "card": "JTB"
+      },
+      {
+        "card": "楽天カード"
+      },
+      {
+        "card": "ANA"
+      },
+      {
+        "card": "JAL"
+      },
+      {
+        "card": "デビットカード"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "時間外チェックイン可",
+    "otherInformation": "☆現地払いの場合、宿泊代金の精算はチェックイン時にお願いいたします。,☆電子決済：Paypay,R Pay, Line Pay,メルペイｄ払い,Quick pay, id,☆全室　Ｗi-Fi無料、加湿機能付空気清浄機完備"
+  }
+}

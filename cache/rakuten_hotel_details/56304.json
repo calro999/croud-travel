@@ -1,0 +1,202 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 56304,
+    "hotelName": "シルクホテル＜愛知県＞",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D56304",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D56304%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D56304",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D56304",
+    "hotelKanaName": "しるくほてる",
+    "hotelSpecial": "尾張一宮駅から徒歩3分・名古屋駅まで乗り換えなし・コンビニまで徒歩2分・喫煙/禁煙ルームもご用意◎",
+    "hotelMinCharge": 2750,
+    "latitude": 127071.06,
+    "longitude": 492472.26,
+    "postalCode": "491-0912",
+    "address1": "愛知県",
+    "address2": "一宮市新生2-5-32",
+    "telephoneNo": "0586-43-6611",
+    "faxNo": "0586-43-6614",
+    "access": "名鉄・ＪＲ　一宮駅より徒歩３分／名神一宮ＩＣより車で１５分／東海北陸自動車道　一宮西ＩＣより車で１０分",
+    "parkingInformation": "有り7台　￥７００円（税込／泊）　要予約　駐車場は指定場所になります ",
+    "nearestStation": "一宮",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/56304/56304.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/56304.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/56304/56304_si.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/56304.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/56304/56304map.gif",
+    "reviewCount": 303,
+    "reviewAverage": 3.45,
+    "userReview": "駅近で安価、寝るだけなら十分な環境駅から近く、宿泊代も比較的安価。寝るだけに徹するなら問題ないが、トイレにウオシュレットがあればよかった。クチコミの詳細はこちらから　https://revie…　2026-08-02 20:48:03投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=56304\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 3.48,
+    "locationAverage": 3.69,
+    "roomAverage": 3.4,
+    "equipmentAverage": 3.36,
+    "bathAverage": 3.31,
+    "breakfastAverage": 3,
+    "cleanlinessAverage": 3.44
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "aichi",
+    "smallClassCode": "owari",
+    "areaName": "一宮・犬山・小牧・瀬戸・春日井",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "24:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 66,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "ティーサーバー"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "リンスインシャンプー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "全室　ＷｉＦｉが御利用出来ます。"
+      },
+      {
+        "item": "全室に冷蔵庫完備（中は、空です）/ロビーに電子レンジ・ポット常時設置！"
+      },
+      {
+        "item": "消臭スプレー貸し出しあり。"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "ルームサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "ダイニングルーム"
+      }
+    ],
+    "aboutBath": [],
+    "aboutLeisure": "博物館,テーマパーク",
+    "handicappedFacilities": [],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "チェックイン時間が遅れる場合は必ずご連絡下さい。,お車でお越しの方の場合、駐車場の場所は、指定させて頂いておりますフロントにてご確認下さい,尚、ホテル前の駐車場は台数に限りがございます, ご予約で駐車場が満車の場合がございます,その場合は近くの有料駐車場をご案内させて頂く場合がございますので（お客様負担になります）,ご了承下さいますようお願いいたします。,禁止事項：ペット持ち込み（動物・鳥類等）,※　シングルル－ムは、基本大人1人のご利用となります。,お部屋には、宿泊者様以外の方の入室はできませんので、予めご了承頂きます様お願い致します。,また、悪質な場合は以降の宿泊はお断りさせて頂きます.,※　お子様の添い寝希望の方は、ご注意下さい、（添い寝不可です)",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "楽天カード"
+      },
+      {
+        "card": "デビットカード"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "朝食（家庭的な和定食）￥７００　にてご用意しております。,駐車場・１台　￥７００　/　日　２０１９年１０月より　,交通系ＩＣ・ＰＡＹＰＡＹなどご利用可能です"
+  }
+}

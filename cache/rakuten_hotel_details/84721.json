@@ -1,0 +1,268 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 84721,
+    "hotelName": "箱根湯本温泉　天成園",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D84721",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D84721%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D84721",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D84721",
+    "hotelKanaName": "はこねゆもとおんせん　てんせいえん",
+    "hotelSpecial": "瀧の流れる庭園と、大自然に抱かれた天空大露天風呂が魅力な箱根湯本温泉の人気宿。",
+    "hotelMinCharge": 10769,
+    "latitude": 126811.28,
+    "longitude": 500752.05,
+    "postalCode": "250-0311",
+    "address1": "神奈川県",
+    "address2": "足柄下郡箱根町湯本682",
+    "telephoneNo": "0460-83-8511",
+    "faxNo": "0460-83-8512",
+    "access": "箱根湯本駅から徒歩で15分。または旅館協同組合の送迎バス（有料200円）Aコース『滝通り行き』にて5分。",
+    "parkingInformation": "有り（170台/予約不要）",
+    "nearestStation": "箱根湯本",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/84721/84721.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/84721.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/84721/84721_k.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/84721.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/84721/84721map.gif",
+    "reviewCount": 4241,
+    "reviewAverage": 4.17,
+    "userReview": "館内は裸足でも清潔、食事の品数も豊富で大満足とにかく清掃が行き届いていて感動しました。正面入り口で靴を脱いで館内に入り部屋の中まで全て裸足(靴下)で、足裏が汚れるのが心配でしたが館内をたくさん歩き…　2026-08-16 01:14:18投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=84721\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.06,
+    "locationAverage": 4.24,
+    "roomAverage": 4.17,
+    "equipmentAverage": 4.17,
+    "bathAverage": 4.45,
+    "breakfastAverage": 4.22,
+    "dinnerAverage": 4.18,
+    "cleanlinessAverage": 4.22
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "kanagawa",
+    "smallClassCode": "hakone",
+    "areaName": "箱根",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "20:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 198,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送（無料）"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(一部、LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（固形）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "ティーラウンジ"
+      },
+      {
+        "item": "バーラウンジ"
+      },
+      {
+        "item": "夜食コーナー"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "コンビニエンスストア"
+      },
+      {
+        "item": "エステサロン"
+      },
+      {
+        "item": "ゲームコーナー"
+      },
+      {
+        "item": "パソコン利用可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "レストラン(バイキング)"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathType": "水風呂"
+      },
+      {
+        "bathQuality": "アルカリ単純泉"
+      },
+      {
+        "bathQuality": "弱アルカリ泉"
+      },
+      {
+        "bathBenefits": "打ち身"
+      },
+      {
+        "bathBenefits": "筋肉痛"
+      },
+      {
+        "bathBenefits": "五十肩"
+      }
+    ],
+    "aboutLeisure": "渓流釣り,ゴルフ,ハイキング,登山,博物館,テーマパーク",
+    "handicappedFacilities": [
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      }
+    ],
+    "linguisticLevel": "中国語：少し分かるスタッフが数人いる。<BR>英語：少し分かるスタッフが数人いる。<BR>韓国語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "■大人（13歳以上）の方は、入湯税を別途頂戴いたします。（宿泊者1泊150円/人、日帰り50円/人）,■当館内は素足（靴下は可）でのご利用となります。（スリッパ等のご利用はご遠慮頂いております）,■入れ墨あるいは入れ墨類似シールをされている方、暴力団関係者、泥酔されている方のご来館は固くお断りしております。,■添い寝は、ベッド1台につき未就学のお子様1名までとさせていただきます。なお、３才以上のお子様は添い寝の場合も、宿泊・日帰りともに有料となります。,■おむつの取れていないお子様は、大浴場のご利用をご遠慮頂いております。また、小学生以上もしくは身長120㎝以上の大浴場のご利用は男の子は男性・女の子は女性の各大浴場のご利用となります。,■未成年者(18歳未満)が親権者様 (身元引受人)以外の方とご利用される場合、事前に同意書のご提出をお願いしております。（同意書は公式ホームページよりダウンロードをお願いします）,★ご予約完了後のご人数変更が生じる場合、空室状況をご確認のうえ、ご予約のお取り直しをお願いいたします。（お電話等で変更をお受けすることができません。）,■食物アレルギーをお持ちのお客様は、公式ホームページにて「食物アレルギーをお持ちのお客様へ」のご案内をご確認ください。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>3日前から           ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": null
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 31820,
+    "hotelName": "五箇山　旅館　よしのや＜富山県＞",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D31820",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D31820%26f_flg%3DPLAN",
+    "dpPlanListUrl": null,
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D31820",
+    "hotelKanaName": "ごかやまりょかん　よしのや＜とやまけん＞",
+    "hotelSpecial": "五箇山の豊富に採れる旬の山菜やきのこなどを生かした美味しい料理が自慢♪ 五箇山観光の拠点にも◎",
+    "hotelMinCharge": 9000,
+    "latitude": 131037.78,
+    "longitude": 492929.1,
+    "postalCode": "939-1961",
+    "address1": "富山県",
+    "address2": "南砺市五箇山皆葎366",
+    "telephoneNo": "0763-67-3227",
+    "faxNo": "0763-67-3230",
+    "access": "JR城端駅から車にて２５分・JR高岡駅からバスで130分／東海北陸自動車道　五箇山ICから10分",
+    "parkingInformation": "有　１０台　無料　先着順",
+    "nearestStation": "城端",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31820/31820.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/31820.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31820/31820_h.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/31820.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31820/31820map.gif",
+    "reviewCount": 77,
+    "reviewAverage": 4.57,
+    "userReview": null
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 0,
+    "locationAverage": 0,
+    "roomAverage": 0,
+    "equipmentAverage": 0,
+    "bathAverage": 0,
+    "breakfastAverage": 4.4,
+    "dinnerAverage": 4.57,
+    "cleanlinessAverage": 4.67
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "toyama",
+    "smallClassCode": "gosei",
+    "areaName": "高岡・氷見・砺波",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "21:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 6,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸��しポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "・男性浴室脱衣所に髭剃り（カミソリ）有"
+      },
+      {
+        "item": "・選べる色浴衣あり"
+      },
+      {
+        "item": "・洗濯機、乾燥機あり(無料)"
+      },
+      {
+        "item": "ラウンジ"
+      },
+      {
+        "item": "セルフコインランドリーコーナー(無料)"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "炉端処"
+      },
+      {
+        "breakfastPlace": "食事処"
+      },
+      {
+        "dinnerPlace": "炉端処"
+      },
+      {
+        "dinnerPlace": "食事処"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathQuality": "カルシウム・ナトリウム硫酸塩泉"
+      },
+      {
+        "bathBenefits": "肩凝り"
+      },
+      {
+        "bathBenefits": "関節痛"
+      },
+      {
+        "bathBenefits": "婦人病"
+      }
+    ],
+    "aboutLeisure": "渓流釣り,カヌー,テニス,ゲートボール,サイクリング,ハイキング,スキー,クロスカントリー,トレッキング,登山,山菜取り",
+    "handicappedFacilities": [],
+    "linguisticLevel": "英語：日常的な内容は問題のないスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "チェックインが１８：００以降の場合は必ず電話を下さい。,浴室利用は２１：３０まで、朝は６：３０からになります。,食事は部屋出しはしません。作りたてを召し上がって頂くため厨房のそばの広間又はラウンジでお願いします,マイカーご利用でない方は原則五箇山池内（概ね１０ｋｍ内外）で送迎させて頂きます。,客室はすべて2階になります。エレベーターはございませんのでご承知おきください。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の80％    <BR>3日前から           ：宿泊料金の50％    <BR>7日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "将棋無料貸出,囲碁無料貸出",
+    "otherInformation": "ペット連れでのご宿泊はお受けできません。あしからずご了承ください。,地酒や朱塗り精進懐石膳プランのご予約も承っております。 詳細はお電話にてお問合せ下さい。"
+  }
+}

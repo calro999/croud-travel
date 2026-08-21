@@ -1,0 +1,338 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 1609,
+    "hotelName": "ホテルニューオータニ幕張",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D1609",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D1609%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D1609",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D1609",
+    "hotelKanaName": "にゅーおーたに　まくはり",
+    "hotelSpecial": "美しい海と幕張の市街地を望む絶好のロケーションでリゾート気分を満喫♪\t",
+    "hotelMinCharge": 4000,
+    "latitude": 128312.86,
+    "longitude": 504149.83,
+    "postalCode": "261-0021",
+    "address1": "千葉県",
+    "address2": "千葉市美浜区ひび野2-120-3",
+    "telephoneNo": "043-297-7777",
+    "faxNo": "043-297-7788",
+    "access": "JR京葉線海浜幕張駅徒歩5分 蘇我駅約12分 幕張メッセ直結 東京ディズニーリゾート（R）グッドネイバーホテル",
+    "parkingInformation": "有り/ 屋外平面300台（宿泊者無料）",
+    "nearestStation": "海浜幕張",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1609/1609.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/1609.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1609/1609_kan.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/1609.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1609/1609map.gif",
+    "reviewCount": 4186,
+    "reviewAverage": 4.38,
+    "userReview": "ありがとうございました設備は古いですが、部屋は清掃が行き届いていて綺麗でした。残念なのは、挨拶が行き届かない方(フロント横の小カウンターにいた方)がいたのは残念でした。ベルボーイの方は笑顔と挨…　2026-08-15 16:26:16投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=1609\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.48,
+    "locationAverage": 4.38,
+    "roomAverage": 4.37,
+    "equipmentAverage": 4.28,
+    "bathAverage": 4.16,
+    "breakfastAverage": 4.57,
+    "cleanlinessAverage": 4.38
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "tiba",
+    "smallClassCode": "keiyo",
+    "areaName": "舞浜・浦安・船橋・幕張",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "12:00",
+    "lastCheckinTime": "24:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 418,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送"
+      },
+      {
+        "item": "衛星放送（無料）"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "ファックス(貸出)"
+      },
+      {
+        "item": "インターネット接続(LAN形式)"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "ＣＤプレイヤ－(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "変圧器（貸出）"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ベビーベッド"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "入浴剤"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "ナイトウェア"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "インターネット接続：全客室にて有線・無線とも無料で利用可能（パブリックエリアでは無線LANのみ）"
+      },
+      {
+        "item": "フィットネス施設：有料　宿泊者及び１８歳以上　月曜日休館※月曜日が祝日の場合は翌火曜日"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "喫茶"
+      },
+      {
+        "item": "ティーラウンジ"
+      },
+      {
+        "item": "ラウンジ"
+      },
+      {
+        "item": "スカイラウンジ"
+      },
+      {
+        "item": "バーラウンジ"
+      },
+      {
+        "item": "バー"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "結婚式場"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "ベーカーショップ"
+      },
+      {
+        "item": "フラワーショップ"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "美容院"
+      },
+      {
+        "item": "エステサロン"
+      },
+      {
+        "item": "フィットネスクラブ"
+      },
+      {
+        "item": "スポーツジム"
+      },
+      {
+        "item": "プール(夏期のみ)"
+      },
+      {
+        "item": "プール(通年)"
+      },
+      {
+        "item": "屋外プール"
+      },
+      {
+        "item": "テニスコート"
+      },
+      {
+        "item": "茶室"
+      },
+      {
+        "item": "バーベキューガーデン"
+      },
+      {
+        "item": "コネクティングルーム（一部・要予約）"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "パソコン利用可"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "ルームサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン"
+      },
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [],
+    "aboutLeisure": "ユナイテッドシネマ幕張、三井アウトレットパーク幕張、ZOZOマリンスタジアム、イオンモール幕張新都心,海水浴,テニス,ゴルフ,サッカー,遊園地,動物園,水族館,フラワーパーク,テーマパーク",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "バリアフリールーム"
+      },
+      {
+        "item": "車椅子利用者用客室あり"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      },
+      {
+        "item": "高齢者用料理への対応可能"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": "英語：日常的な内容は問題のないスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "チェックインの際、お預かり金もしくはクレジットカードのプリントをいただいております。,■館内施設・サービスの営業時間・内容変更のお知らせ,当面の間、一部館内施設の営業時間やサービス内容を変更させていただいております。,最新情報につきましては、弊社公式ホームページにてご確認ください。,■お子さまのご利用について,ご予約時に「小学校低学年」の欄へ人数を入力いただいた場合、料金は大人料金の100％頂戴いたします。,尚、添い寝（布団および食事などのプラン特典不要）にてご利用の場合は、大人1名さまにつき1名さま、1部屋あたり最大添い寝2名さままで、無料でご宿泊いただけます。,小学校低学年のお子さまで、添い寝にてご利用の場合は「幼児（食事・布団不要）」へ人数を入力ください。,※大人1名さまと添い寝2名さまでのご利用や、1室あたり添い寝3名さま以上、あるいは小学4年生以上の添い寝でのご利用等はご遠慮いただいておりますので、あらかじめご了承ください。,つかまり立ちを始める前の0歳児のお子さまに限り、ベビーベッドを無料にてご用意いたします。ご希望のお客さまはホテルまでご連絡ください。※数に限りがございます。部屋タイプによってはご用意いたしかねます。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の80％    <BR>前日                ：宿泊料金の20％    <BR>2日前から           ：宿泊料金の10％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "Master Card"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": "楽天トラベルを通してのご予約には航空会社のマイレージはお付けできません。あらかじめご了承ください。"
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "下記貸出品がございますのでご利用の際は当日客室係までお申し付けくださいませ。,各種充電器・ヘアアイロン・基礎化粧品(クレンジング/化粧水/乳液)・DVDプレーヤー,栓抜き・ワインオープナー・加湿器/空気清浄機・ズボンプレッサー・ベッドガード・衣類アイロンなど"
+  }
+}

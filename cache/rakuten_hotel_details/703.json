@@ -1,0 +1,230 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 703,
+    "hotelName": "グリーンリッチホテル水前寺(市立体育館前・水前寺公園入口前)",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D703",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D703%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D703",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D703",
+    "hotelKanaName": "ぐりーんりっち　すいぜんじ",
+    "hotelSpecial": "SHARPプラズマクラスター全室完備■Wi-Fi無料■空港・高速バス停徒歩１分！路面電車電停目の前！",
+    "hotelMinCharge": 5850,
+    "latitude": 118025.15,
+    "longitude": 470653.61,
+    "postalCode": "862-0941",
+    "address1": "熊本県",
+    "address2": "熊本市中央区出水1-8-5",
+    "telephoneNo": "096-382-4444",
+    "faxNo": "096-385-1019",
+    "access": "■熊本市電「市立体育館前」は目の前■空港リムジンバス停車！「水前寺公園前」バス停より徒歩１分■水前寺公園までは徒歩２分■",
+    "parkingInformation": "普通車１泊１０００円（税込）■完全予約制■満車の際は有料駐車場をご利用ください　バイク１泊２００円",
+    "nearestStation": "熊本",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/703/703.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/703.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/703/703_sgl.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/703.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/703/703map.gif",
+    "reviewCount": 2094,
+    "reviewAverage": 3.2,
+    "userReview": "地震の影響で辿り着けず不泊となり無念地震のため電話も繋がらす、信号等停電及び渋滞で、なかなかホテルにも近づけず、不泊まりでした。申し訳ありませんでした。クチコミの詳細はこちらから　ht…　2026-08-06 17:52:04投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=703\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 3.39,
+    "locationAverage": 3.44,
+    "roomAverage": 3.15,
+    "equipmentAverage": 3.03,
+    "bathAverage": 3.06,
+    "breakfastAverage": 3.49,
+    "cleanlinessAverage": 3.25
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "kumamoto",
+    "smallClassCode": "kumamoto",
+    "areaName": "熊本",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "29:30"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 110,
+    "roomFacilities": [
+      {
+        "item": "有料テレビ"
+      },
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送"
+      },
+      {
+        "item": "有料ビデオ"
+      },
+      {
+        "item": "衛星放送（無料）"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "ティーサーバー"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "●客室階へ貸出棚設置：ガウン、浴衣、低反発・クッション枕、ズボンプレッサー（※数量限定）"
+      },
+      {
+        "item": "●歯磨きセット・カミソリ・綿棒・ヘアブラシはフロントにてご準備しております"
+      },
+      {
+        "item": "●コインランドリーあり　（有料）"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "パソコン利用可"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [],
+    "aboutLeisure": "◆水前寺公園・熊本市総合体育館まで徒歩２分◆動植物園まで車で10分◆市街地まで路面電車で１０分◆,テニス,ゲートボール,サイクリング,陸上競技,動物園",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "館内の点字案内"
+      },
+      {
+        "item": "施設スタッフによる介助・補助対応が可能"
+      }
+    ],
+    "linguisticLevel": "中国語：少し分かるスタッフが数人いる。<BR>英語：少し分かるスタッフが数人いる。<BR>韓国語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "■現地精算の場合、領収書は「ご宿泊代」と記載いたします。オンラインカード精算の場合は、楽天マイページからのみ領収書が発行出来ます。,■禁煙タイプの空室が無い場合は、オゾン脱臭処理をしてご準備いたしますので、「オゾン希望」とご入力下さい。,■IQOS（アイコス）等の加熱式及び電子タバコにつきましては、禁煙室ではご使用頂けません。ご使用の際は喫煙室もしくは喫煙コーナーでお願い致します。,■駐車料は普通車１台１泊１０００円です。『要予約制』（満車の場合は有料駐車場をご利用ください）バイク１泊２００円　ホテル裏手側（屋根なし）,■和室にお泊りのお客様の布団はお客様ご自身で敷いて頂いております。ご了承ください。,■「ダブルユース」は、１台のダブルベッドまたはセミダブルベッドを２名様でご利用頂く形になります。,■ツインＡタイプは、３人利用時は簡易ベッドをご準備致します。４人以上で利用時は、ベッド３台でダブルユースする形になります。,■トリプルタイプは、４人利用時は簡易ベッドをご準備致します。５人以上で利用時は、ベッド４台でダブルユースする形になります。,■割引券等の併用は出来ませんのでご注意下さい。,■当ホテルでは、自治体の宿泊���例施行に伴い、宿泊料金とは別に宿泊税を頂戴しております。 ご了承のほどよろしくお願いいたします。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の80％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "■１０名以上のご予約は、団体様としてお取り扱いさせて頂きます,■その際は、ご予約者様へご連絡させて頂く場合がございますので、予めご了承ください,■団体様はキャンセル規定が異なります（不泊100％当日100％前日50％7日前〜10％）"
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 176762,
+    "hotelName": "磐梯熱海温泉　ＡＳＡＫＡＳＯ　〜五の香を感じる宿　浅香荘〜",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D176762",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D176762%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D176762",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D176762",
+    "hotelKanaName": "ばんだいあたみおんせん　ごのかをかんじるやど　あさかそう",
+    "hotelSpecial": "磐梯熱海温泉に本格料理宿、誕生。新たなスタイルでASAKASOがスタート〜オールインクルーシブ〜",
+    "hotelMinCharge": 20900,
+    "latitude": 134957.83,
+    "longitude": 504935.94,
+    "postalCode": "963-1309",
+    "address1": "福島県",
+    "address2": "郡山市熱海町熱海5-40",
+    "telephoneNo": "024-984-3157",
+    "faxNo": "024-984-0258",
+    "access": "磐梯熱海駅よりお車にて約５分",
+    "parkingInformation": "有り　３０台　無料　予約不要",
+    "nearestStation": "磐梯熱海",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/176762/176762.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/176762.jpg",
+    "roomImageUrl": null,
+    "roomThumbnailUrl": null,
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/176762/176762map.gif",
+    "reviewCount": 307,
+    "reviewAverage": 4.76,
+    "userReview": "言うことなし。何もかも最高。特に接客クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/176762?reviewId=33…　2026-08-01 08:58:40投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=176762\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.72,
+    "locationAverage": 4.39,
+    "roomAverage": 4.7,
+    "equipmentAverage": 4.61,
+    "bathAverage": 4.59,
+    "breakfastAverage": 4.76,
+    "dinnerAverage": 4.76,
+    "cleanlinessAverage": 4.71
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "hukushima",
+    "smallClassCode": "koriyama",
+    "areaName": "郡山・磐梯熱海",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "18:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 18,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送（無料）"
+      },
+      {
+        "item": "ビデオデッキ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(LAN形式)"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "湯上がりサロン"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "プール(夏期のみ)"
+      },
+      {
+        "item": "屋外プール"
+      },
+      {
+        "item": "卓球"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "パソコン利用可"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "単純泉"
+      },
+      {
+        "bathBenefits": "神経痛"
+      },
+      {
+        "bathBenefits": "ストレス"
+      },
+      {
+        "bathBenefits": "美肌効果"
+      }
+    ],
+    "aboutLeisure": "テニス,ゴルフ,サッカー,サイクリング,ハイキング,スキー,スケート,トレッキング,登山,陸上競技,遊園地,水族館,美術館",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "大浴場浴槽に手すりあり"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "※食物アレルギーをお持ちのお客様は、事前にお申し出くださいませ。,※小学生のお子様は大人と同料金となります。,※小学生のお子様のご夕食は大人と同じお食事になりますが、「お子様膳」をご希望の方は、事前に当館までご連絡下さいませ。,※0～1才のお子さまは無料です。2才以上のお子さまは入館料2,750円（税込）がかかります。,※「お部屋おまかせ」でご予約の場合、ご予約人数によりエキストラベッドをご用意する場合もございます。,■チェックインが予定時間を過ぎる場合は必ずご連絡ください。,■入湯税が別途必要です。（お一人様１５０円）",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>2日前から           ：宿泊料金の30％    <BR>3日前から           ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "滞在中､ロビーにてフリードリンクあり（アルコール含む）",
+    "otherInformation": null
+  }
+}

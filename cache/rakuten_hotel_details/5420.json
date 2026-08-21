@@ -1,0 +1,193 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 5420,
+    "hotelName": "セントラルホテル＜三重県桑名市＞",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D5420",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D5420%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D5420",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D5420",
+    "hotelKanaName": "せんとらるほてる＜みえけんくわなし＞",
+    "hotelSpecial": "長島スパーランド、なばなの里等のレジャー施設にもアクセス良好なホテルです。",
+    "hotelMinCharge": 6600,
+    "latitude": 126214.96,
+    "longitude": 492073.37,
+    "postalCode": "511-0068",
+    "address1": "三重県",
+    "address2": "桑名市中央町2-35",
+    "telephoneNo": "0594-23-5115",
+    "faxNo": "0594-24-6090",
+    "access": "ＪＲ・近鉄桑名駅徒歩8分",
+    "parkingInformation": "４０台分無料駐車場有り（先着順）事前予約は不可。満車の場合はご了承下さい（大型車有料、事前予約必要）",
+    "nearestStation": "桑名",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5420/5420.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/5420.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5420/5420_yor.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/5420.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5420/5420map.gif",
+    "reviewCount": 452,
+    "reviewAverage": 4.03,
+    "userReview": "冷房完備で清潔だがお風呂の段差には注意暑い日だったので、部屋に入った瞬間からしっかり冷房が効いているところが良かったです。部屋も綺麗でした。お風呂の床と浴槽の段差が高くて足が悪い方には厳し…　2026-07-26 19:27:58投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=5420\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.06,
+    "locationAverage": 3.88,
+    "roomAverage": 3.97,
+    "equipmentAverage": 3.94,
+    "bathAverage": 3.97,
+    "breakfastAverage": 3.9,
+    "cleanlinessAverage": 4.03
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "mie",
+    "smallClassCode": "yunoyama",
+    "areaName": "四日市・桑名・湯の山・長島温泉",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "24:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 66,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送"
+      },
+      {
+        "item": "有線"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "ファックス"
+      },
+      {
+        "item": "インターネット接続(LAN形式)"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "リンスインシャンプー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "シングルのみインターネット接続（無線LAN接続　有線LAN接続、無料)出来ます。"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [],
+    "aboutLeisure": "テニス,ゴルフ,遊園地,フラワーパーク",
+    "handicappedFacilities": [],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": null,
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "UFJ Card"
+      }
+    ],
+    "aboutCreditCardNote": "シングル　得得キャンペーンにつきましては、カードのお取り扱いはできません",
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "朝食無料バイキング、ポイントカードサービス、姉妹店ステーションホテルの浴場無料で利用可能,時間外チェックイン可",
+    "otherInformation": null
+  }
+}

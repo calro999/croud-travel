@@ -1,0 +1,307 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 56662,
+    "hotelName": "シギラベイサイドスイート　アラマンダ　＜宮古島＞",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D56662",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D56662%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D56662",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D56662",
+    "hotelKanaName": "しぎらべいさいどすいーと　あらまんだ",
+    "hotelSpecial": "洗練された大人にふさわしい全室スイートのプレミアム・プライベートホテル。",
+    "hotelMinCharge": 28980,
+    "latitude": 88991,
+    "longitude": 451219.09,
+    "postalCode": "906-0202",
+    "address1": "沖縄県",
+    "address2": "宮古島市上野新里926-25",
+    "telephoneNo": "0980-74-7100",
+    "faxNo": "0980-76-3871",
+    "access": "宮古空港ーホテル：シャトルバス空港カウンター受付（１０時ー１７時３０分）、下地島空港ーホテル：公式サイトをご確認ください",
+    "parkingInformation": "４０台　無料",
+    "nearestStation": "宮古空港",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/56662/56662.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/56662.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/56662/56662_kya.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/56662.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/56662/56662map.gif",
+    "reviewCount": 487,
+    "reviewAverage": 4.59,
+    "userReview": "水回りに築年数を感じるが快適よかったが、水回り等が築年数を感じるクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/56…　2026-08-14 18:21:28投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=56662\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.55,
+    "locationAverage": 4.59,
+    "roomAverage": 4.56,
+    "equipmentAverage": 4.46,
+    "bathAverage": 4.52,
+    "breakfastAverage": 4.64,
+    "dinnerAverage": 4,
+    "cleanlinessAverage": 4.62
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "okinawa",
+    "smallClassCode": "Miyako",
+    "areaName": "宮古島・伊良部島",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "23:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 174,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送"
+      },
+      {
+        "item": "ケーブルＴＶ"
+      },
+      {
+        "item": "衛星放送（無料）"
+      },
+      {
+        "item": "ＣＳ放送"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ミニバー"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（固形）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "洗顔ソープ"
+      },
+      {
+        "item": "入浴剤"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "ナイトウェア"
+      },
+      {
+        "item": "バスローブ"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "パジャマ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "ジャグジー棟客室内にキッチン、電子レンジ、洗濯機完備。"
+      },
+      {
+        "item": "※全てホテルの室内設備・備品。温浴施設個室備品は、別途異なる。"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "ラウンジ"
+      },
+      {
+        "item": "バーラウンジ"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "屋外プール"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "ペット同宿可"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "ルームサービス"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "部屋"
+      },
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "低張性弱アルカリ性泉"
+      },
+      {
+        "bathQuality": "ナトリウム塩化物泉"
+      },
+      {
+        "bathBenefits": "健康"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      },
+      {
+        "bathBenefits": "リウマチ・神経病"
+      }
+    ],
+    "aboutLeisure": "海水浴,クルージング,ダイビング,ゴルフ,サイクリング",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリールーム"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "客室内トイレに手すりあり"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": "英語：ネイティブに近く流暢なスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "＜お子様の添い寝＞・宿泊単品の場合小学生以下（12歳まで、中学生除く）は大人のお客様1名につき1名まで添い寝可。（例：大人2名1室の場合、添い寝2名まで）※※大人の人数を超えるお子様の添い寝は不可※※,添い寝利用の場合は別途、施設使用料、リゾートフィーを現地にていただいております。別途6～12歳お1人1泊 6,000円・4～5歳：お1人1泊 3,300円頂戴いたします。※3歳未満は無料※,・航空券付パッケージの場合小学生添い寝不可、※※大人の人数を超えるお子様の添い寝は不可※※となります。予めご了承くださいまとなります。予めご了承くださいませ。,＜特典について＞プラン特典は、添い寝のお子様は対象外となります。,＜プールヴィララグーンスイート4階（最上階）について＞13歳以上のご利用となります。中学生未満のお客様がいらっしゃる場合は別のお部屋タイプへ変更いたします。予めご了承ください。,＜ゲストラウンジについて＞特定の客室タイプに滞在されるお客様は、無料でご利用いただけます。【営業時間】ティータイム ：10:00～16:00（ラストオーダー15：30）、 カクテルタイム：17:00～,＜ご宿泊について＞・3名1室以上にてご利用の場合、1名様はデイベッドのご利用となります。・ご宿泊料金を現地にて精算いただく場合、ホテルチェックイン時にお支払いをお願いしております。,＜温泉について＞シギセブンマイルズリゾート内にあるシギラ黄金温泉になり、ホテル内にはございません",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>7日前から           ：宿泊料金の30％    <BR>14日前から          ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "ウェルカムドリンクサービス",
+    "otherInformation": "うえのドイツ文化村/シギラビーチ/シギラ黄金温泉/シースカイ博愛/シギラベイカントリークラブ,まいぱり宮古島熱帯果樹園/宮古島市総合博物館/宮古島市体験工芸村/宮古島市伝統工芸品センター,宮古島海中公園/島の駅みやこ/宮古島市熱帯植物園/宮古島市 公設市場/雪塩ミュージアム"
+  }
+}

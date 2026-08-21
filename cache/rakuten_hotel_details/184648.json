@@ -1,0 +1,256 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 184648,
+    "hotelName": "全室富士山ビュー　ビジョングランピングリゾート山中湖",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D184648",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D184648%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D184648",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D184648",
+    "hotelKanaName": "ぜんしつふじさんびゅー　びじょんぐらんぴんぐりぞーとやまなかこ",
+    "hotelSpecial": "山中湖｜全室富士山ビューでBBQ｜各客室内に専用の露天風呂・サウナ付き完全プライベートグランピング",
+    "hotelMinCharge": 22520,
+    "latitude": 127558.37,
+    "longitude": 499868.37,
+    "postalCode": "401-0501",
+    "address1": "山梨県",
+    "address2": "南都留郡山中湖村山中字栗木林１３８５－４３",
+    "telephoneNo": "0120-522-085",
+    "faxNo": " ",
+    "access": "富士山駅からバスで30分／山中湖ICより車で5分／河口湖ICより車で15分／御殿場ICより車で30分",
+    "parkingInformation": "無料（20台、予約不要）　無料送迎あり（富士山駅・富士山山中湖バス停付近）",
+    "nearestStation": "富士吉田",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/184648/184648.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/184648.jpg",
+    "roomImageUrl": null,
+    "roomThumbnailUrl": null,
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/184648/184648map.gif",
+    "reviewCount": 276,
+    "reviewAverage": 4.84,
+    "userReview": "サウナ、温泉、焚き火スペースを満喫するのに、時間が足らないです。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/18…　2026-08-15 17:04:56投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=184648\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.81,
+    "locationAverage": 4.82,
+    "roomAverage": 4.88,
+    "equipmentAverage": 4.77,
+    "bathAverage": 4.82,
+    "breakfastAverage": 4.68,
+    "dinnerAverage": 4.73,
+    "cleanlinessAverage": 4.84
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "yamanasi",
+    "smallClassCode": "yamanakako",
+    "areaName": "山中湖・忍野",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "17:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "22:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 15,
+    "roomFacilities": [
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "電気スタンド"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ベビーベッド"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "洗顔ソープ"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "ナイトウェア"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "パジャマ"
+      },
+      {
+        "item": "電子レンジ（一部・要予約）"
+      },
+      {
+        "item": "ミニキッチン（一部・要予約）"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "グランピングドームテント"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "��自転車"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "ペット同宿可"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "部屋"
+      },
+      {
+        "breakfastPlace": "ダイニングルーム"
+      },
+      {
+        "dinnerPlace": "部屋"
+      },
+      {
+        "dinnerPlace": "ダイニングルーム"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathType": "人工温泉"
+      },
+      {
+        "bathType": "水風呂"
+      },
+      {
+        "bathQuality": "アルカリ単純泉"
+      },
+      {
+        "bathBenefits": "肩凝り"
+      },
+      {
+        "bathBenefits": "痔"
+      },
+      {
+        "bathBenefits": "リウマチ・神経病"
+      }
+    ],
+    "aboutLeisure": "カヌー,ウォータースポーツ,ゴルフ,熱気球,サイクリング,スキー,トレッキング,洞窟探検,遊園地,水族館,フラワーパーク,水上バス",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "車椅子利用者用客室あり"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "チェックインが予定時間を過ぎる場合は必ずご連絡下さい。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>3日前から           ：宿泊料金の100％   <BR>7日前から           ：宿泊料金の50％    <BR>14日前から          ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Discover"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "富士山山中湖バス停付近・富士山駅駐車場より無料で送迎いたします。詳しくはお問い合わせください。"
+  }
+}

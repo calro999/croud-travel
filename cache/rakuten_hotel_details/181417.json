@@ -1,0 +1,259 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 181417,
+    "hotelName": "天然温泉　九谷五彩の湯　スーパーホテル石川・能美根上スマートインター",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D181417",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D181417%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D181417",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D181417",
+    "hotelKanaName": "すーぱーほてるいしかわ・のみねあがりすまーといんたー",
+    "hotelSpecial": "能美根上スマートIC隣接！無料平面駐車場完備！天然温泉完備！朝食ビュッフェ・ウェルカムバーも無料！",
+    "hotelMinCharge": 3860,
+    "latitude": 131279.3,
+    "longitude": 491292.87,
+    "postalCode": "929-0121",
+    "address1": "石川県",
+    "address2": "能美市吉原釜屋町ハ61-1",
+    "telephoneNo": "0761-69-9001",
+    "faxNo": "0761-69-9010",
+    "access": "金沢駅より車にて約30分/小松空港より車にて約15分/JR「小舞子駅」より徒歩15分",
+    "parkingInformation": "敷地内平面無料駐車場１０７台（先着順）",
+    "nearestStation": "美川",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/181417/181417.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/181417.jpg",
+    "roomImageUrl": null,
+    "roomThumbnailUrl": null,
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/181417/181417map.gif",
+    "reviewCount": 955,
+    "reviewAverage": 4.48,
+    "userReview": "ハイシーンズンには不向きかもチェックイン時に「館内大変混雑しているのでご不便を」と丁寧に案内いただきました。わかっていましたが、エレベーター1機ではキャパに対して不十分。朝食会場も狭くて、利用…　2026-08-15 21:23:29投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=181417\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.54,
+    "locationAverage": 4.35,
+    "roomAverage": 4.42,
+    "equipmentAverage": 4.43,
+    "bathAverage": 4.42,
+    "breakfastAverage": 4.4,
+    "dinnerAverage": 4.16,
+    "cleanlinessAverage": 4.51
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "ishikawa",
+    "smallClassCode": "kaga",
+    "areaName": "加賀・小松・辰口",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "24:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 126,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送（無料）"
+      },
+      {
+        "item": "インターネット接続(LAN形式)"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "パジャマ・髭剃り・シャワーキャップ・綿棒・ブラシ・緑茶はフロントにて無料配布しております。"
+      },
+      {
+        "item": "ウェルカムバーは17:00〜20:00で実施しております。"
+      },
+      {
+        "item": "ラウンジ"
+      },
+      {
+        "item": "バー"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "コネクティングルーム（一部・要予約）"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "breakfastPlace": "食堂"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      },
+      {
+        "dinnerPlace": "食事処"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "単純温泉"
+      },
+      {
+        "bathQuality": "低張性弱アルカリ性泉"
+      },
+      {
+        "bathBenefits": "関節痛"
+      },
+      {
+        "bathBenefits": "筋肉痛"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      }
+    ],
+    "aboutLeisure": "海水浴,釣り,海釣り,ゴルフ,スキー,トレッキング,遊園地,動物園,博物館",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "バリアフリールーム"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "お泊りになるお客様のお名前をカタカナでお知らせください。,当日ご連絡のつく携帯番号をお知らせください。,24時以降のチェックインは、一切お受けすることができません。 　お越しにならない場合、ご予約はキャンセルとなり、100％のキャンセル料金が発生致しますので ご注意ください。,ご到着予定時刻より2時間以上遅れる際は、必ずお電話にてご連絡をお願い致します。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "AEON"
+      },
+      {
+        "card": "楽天カード"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "サービスにより提供時間は異なります。,モーニングコーヒーサービス,ウェルカムドリンクサービス,グラスワインサービス",
+    "otherInformation": null
+  }
+}

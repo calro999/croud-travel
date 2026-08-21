@@ -1,0 +1,226 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 8352,
+    "hotelName": "ホテルニューグリーン＜秋田県＞",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D8352",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D8352%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D8352",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D8352",
+    "hotelKanaName": "にゅーぐりーん＜あきたけん＞",
+    "hotelSpecial": "市の中心部に近い国道101号線沿。高速バス秋田線「青葉園停留所」前。",
+    "hotelMinCharge": 4625,
+    "latitude": 144707.66,
+    "longitude": 504092.41,
+    "postalCode": "016-0865",
+    "address1": "秋田県",
+    "address2": "能代市青葉町3-5",
+    "telephoneNo": "0185-54-3511",
+    "faxNo": "0185-54-3515",
+    "access": "能代駅より車で4分。秋田自動車道能代南I.C.より8分。高速バス能代⇔秋田線青葉園バス停下車（ホテル前がバス停です）。",
+    "parkingInformation": "有り：無料平面駐車場 60台",
+    "nearestStation": "東能代",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8352/8352.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/8352.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8352/8352_room.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/8352.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8352/8352map.gif",
+    "reviewCount": 601,
+    "reviewAverage": 3.87,
+    "userReview": "地図の印象より遠く、交通手段も不便駅から歩くと、地図から見るイメージとは異なり、結構遠い。バス便はほとんどなく、タクシーもいなかったので、暑い中大変だった。クチコミの詳細はこちらから　ht…　2026-08-13 14:32:25投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=8352\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 3.92,
+    "locationAverage": 3.76,
+    "roomAverage": 3.76,
+    "equipmentAverage": 3.76,
+    "bathAverage": 3.63,
+    "breakfastAverage": 3.62,
+    "cleanlinessAverage": 3.84
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "akita",
+    "smallClassCode": "noshiro",
+    "areaName": "能代・男鹿・白神",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "12:00",
+    "lastCheckinTime": "24:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 40,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "ＣＳ放送（有料）"
+      },
+      {
+        "item": "衛星放送（無料）"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "インターネット接続(一部、LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "バスローブ"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "★無料コインランドリー/全館個別空調"
+      },
+      {
+        "item": "★全館Ｗｉｆｉ完備（一部有線LAN/ご利用料無料）"
+      },
+      {
+        "item": "★チェックアウトタイムが余裕のPM１２：００になりました♪♪"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "セルフコインランドリーコーナー(無料)"
+      },
+      {
+        "item": "パソコン利用可"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン"
+      },
+      {
+        "dinnerPlace": "部屋"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [],
+    "aboutLeisure": "海水浴,釣り,海釣り,渓流釣り,テニス,ゲートボール,ゴルフ,ハイキング,登山,水族館",
+    "handicappedFacilities": [],
+    "linguisticLevel": "中国語：少し分かるスタッフが数人いる。<BR>英語：少し分かるスタッフが数人いる。<BR>韓国語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "門限は原則として午前12時となっておりますが、この限りではございません。,ご朝食はチェックインの時にご注文を承ります。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "AEON"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": null
+  }
+}

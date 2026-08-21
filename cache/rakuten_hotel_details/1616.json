@@ -1,0 +1,334 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 1616,
+    "hotelName": "山代温泉　ゆのくに天祥",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D1616",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D1616%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D1616",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D1616",
+    "hotelKanaName": "やましろおんせん　ゆのくにてんしょう",
+    "hotelSpecial": "プロが選ぶホテル・旅館100選(全国総合4位)　楽天・日本の宿アワード2025　W受賞！風呂自慢の宿",
+    "hotelMinCharge": 9900,
+    "latitude": 130646.62,
+    "longitude": 490922.11,
+    "postalCode": "922-0298",
+    "address1": "石川県",
+    "address2": "加賀市山代温泉19-49-1",
+    "telephoneNo": "0761-77-1234",
+    "faxNo": "0761-77-1260",
+    "access": "【車】北陸自動車道加賀IC、片山津ICより約15分【電車】JR・IRいしかわ鉄道加賀温泉駅より無料送迎 予約制",
+    "parkingInformation": "[台数]約250台（屋外） [料金]無料 ※正面玄関へお越しください。車両係が誘導いたします。",
+    "nearestStation": "加賀温泉",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1616/1616.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/1616.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1616/1616_r.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/1616.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1616/1616map.gif",
+    "reviewCount": 3697,
+    "reviewAverage": 4.47,
+    "userReview": "二度目の宿泊一昨年のお盆に泊まってとても良かったので二度目の宿泊です。今回は部屋担当の方が初心者マークつけた方で、とても可愛らしく丁寧で、接客が良かったです。食事は、旅館の食事というと食べ…　2026-08-15 16:39:29投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=1616\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.5,
+    "locationAverage": 4.27,
+    "roomAverage": 4.5,
+    "equipmentAverage": 4.46,
+    "bathAverage": 4.62,
+    "breakfastAverage": 4.47,
+    "dinnerAverage": 4.48,
+    "cleanlinessAverage": 4.54
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "ishikawa",
+    "smallClassCode": "kaga",
+    "areaName": "加賀・小松・辰口",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "18:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 146,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ミニバー"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "ＣＤプレイヤ－(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "電子レンジ（一部・要予約）"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "■カミソリやクシ、綿棒は大浴場にてご用意いたしております。ご自由にご利用いただけます。"
+      },
+      {
+        "item": "■女性のお客様は大浴場にて乳液や化粧水などもご利用いただけます。"
+      },
+      {
+        "item": "■ウォータースライダー付きプールは夏季のみの営業となります。"
+      },
+      {
+        "item": "喫茶"
+      },
+      {
+        "item": "カラオケルーム"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "コーヒーショップ"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "エステサロン"
+      },
+      {
+        "item": "プール(夏期のみ)"
+      },
+      {
+        "item": "屋外プール"
+      },
+      {
+        "item": "ゲームコーナー"
+      },
+      {
+        "item": "ダンスホール"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "広間"
+      },
+      {
+        "breakfastPlace": "食事処"
+      },
+      {
+        "dinnerPlace": "広間"
+      },
+      {
+        "dinnerPlace": "食事処"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "水風呂"
+      },
+      {
+        "bathQuality": "カルシウム・ナトリウム硫酸塩泉"
+      },
+      {
+        "bathQuality": "塩化物温泉"
+      },
+      {
+        "bathBenefits": "肩凝り"
+      },
+      {
+        "bathBenefits": "関節痛"
+      },
+      {
+        "bathBenefits": "筋肉痛"
+      }
+    ],
+    "aboutLeisure": "■11の館で100種類以上の体験が楽しめる 加賀伝統工芸村「ゆのくにの森」（当館より車で約15分）,海水浴,釣り,海釣り,ゲートボール,ゴルフ,パラグライダー,サイクリング,ハイキング,スキー,登山,遊園地,動物園,博物館,水族館,テーマパーク,美術館,山菜取り",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "バリアフリールーム"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "客室内トイレに手すりあり"
+      },
+      {
+        "item": "大浴場浴槽に手すりあり"
+      },
+      {
+        "item": "大浴場での介助入浴可能"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "■大人のみ入湯税（宿泊：150円、日帰り：50円）は現地にて別途いただきます。,■お部屋のご希望や、お食事内容の変更、お食事場所のご希望には対応および回答は致しておりませんので、あらかじめご了承ください。,■幼児（食事・布団なし）で2歳未満のお子様は無料。予約の際、予約人数には加えずにご予約いただき、備考に年齢と性別、人数をご記入下さい。ただし洋室プランの添寝は申込不可,■食物アレルギーの方は、ご宿泊日の5日前までにゆのくに天祥公式ページ「アレルギー対応について」を必ずご確認のうえ、【事前お伺いフォーム】よりお申込ください。お申込みの無い場合、対応致しておりません。,■「苦手食材」や「疾病による食事制限」につきましては、メッセージをいただきましても対応および回答は致しておりませんのでご了承ください。,■同一グループ（同一席）では、異なる宿泊館または料理コースでのお申込みはできません。同一プランのみとなります。,■加賀温泉駅のお迎え（定刻出発／事前予約制）【14：30～17：30まで45分毎】※予約のない場合、お迎えはございません。時間未定の場合、ゆのくに天祥公式ページよりお申込みください。,■年末年始、GW、お盆など、一部キャンセルポリシーが異なる期間がございます。ご了承ください。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>3日前から           ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "楽天カード"
+      },
+      {
+        "card": "デビットカード"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "■加賀伝統工芸村「ゆのくにの森」入村券付（通常：550円）",
+    "otherInformation": "■第51回「プロが選ぶ日本のホテル・旅館100選」総合4位（旅行新聞新社）,■2025年度「人気温泉ホテル250選」・「5つ星の宿」認定（観光経済新聞社）,■「自家源泉」開湯！豊富な湯量と鮮度を誇る温泉で「一泊三湯十八ゆめぐり」"
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 145482,
+    "hotelName": "ホテルニューパレス　＜和歌山県＞",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D145482",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D145482%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D145482",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D145482",
+    "hotelKanaName": "にゅーぱれす",
+    "hotelSpecial": "全室BS放送視聴、無線・有線ＬＡＮ接続可能！！EV充電機設置店",
+    "hotelMinCharge": 5500,
+    "latitude": 121408.59,
+    "longitude": 489579.31,
+    "postalCode": "647-0010",
+    "address1": "和歌山県",
+    "address2": "新宮市丹鶴二丁目2番22号",
+    "telephoneNo": "0735-28-1500",
+    "faxNo": "0735-28-1510",
+    "access": "JR新宮駅より徒歩5分！",
+    "parkingInformation": "約80台【予約不可！先着順】基本無料※全長6m以上で駐車スペースを2台有する車輌は有料(要相談)",
+    "nearestStation": "新宮",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/145482/145482.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/145482.jpg",
+    "roomImageUrl": null,
+    "roomThumbnailUrl": null,
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/145482/145482map.gif",
+    "reviewCount": 583,
+    "reviewAverage": 4.14,
+    "userReview": "部屋の湿気がひどく、夜も寝苦しかった部屋に入った瞬間からジトっとした湿気を感じました。エアコンを回しても、除湿機、換気扇をつけてもあまり変わらない感じでした。なぜ?寝苦しかった。クチコミの…　2026-07-21 19:35:23投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=145482\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.02,
+    "locationAverage": 4.06,
+    "roomAverage": 4.23,
+    "equipmentAverage": 4.12,
+    "bathAverage": 4.15,
+    "breakfastAverage": 4.15,
+    "cleanlinessAverage": 4.18
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "wakayama",
+    "smallClassCode": "hongu",
+    "areaName": "熊野古道・新宮・本宮・中辺路",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "24:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 93,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送"
+      },
+      {
+        "item": "有線"
+      },
+      {
+        "item": "衛星放送（無料）"
+      },
+      {
+        "item": "ビデオデッキ(貸出)"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "モジュラージャック"
+      },
+      {
+        "item": "インターネット接続(LAN形式)"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "洗顔ソープ"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "貸自転車"
+      },
+      {
+        "item": "パソコン利用可"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "大浴場"
+      }
+    ],
+    "aboutLeisure": "宇久井海水浴場まで車で約20分、那智海水浴場まで車で約22分,海水浴,釣り,海釣り",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "バリアフリールーム"
+      },
+      {
+        "item": "車椅子利用者用客室あり"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "客室内トイレに手すりあり"
+      },
+      {
+        "item": "館内の点字案内"
+      },
+      {
+        "item": "大浴場浴槽に手すりあり"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "＜　チェックアウト時間　臨時変更のご案内　＞　電気設備の大規模な改修工事のため、,2026年5月7日(木)ご宿泊のお客様の,チェックアウトは　午前９時　となります。,大変ご不便をおかけ致しますが、何卒ご了承のほど宜しくお願い申し上げます。,　－　　　　－,当日24時迄に御到着出来ない場合は事前にご連絡下さい。,当日チェックインの際に軽食バイキング付きに変更されると通常予約料金より割高になります。,キャンセル料について、年末年始、ＧＷ、お盆、熊野大花火については、３日前から100％となります。,※会員（LINE会員・カード会員）の方は、前日までキャンセル料は発生しません。,　キャンセルの場合はホテルまでご連絡ください。※ネット会員登録とは異なります",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日9時から         ：宿泊料金の70％    <BR>3日前9時から        ：宿泊料金の50％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Discover"
+      },
+      {
+        "card": "AEON"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "浴衣、アメニティーを充実させました！３Ｆロビーにございます。"
+  }
+}

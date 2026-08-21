@@ -1,0 +1,179 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 149238,
+    "hotelName": "大館ぽかぽか温泉ホテル",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D149238",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D149238%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D149238",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D149238",
+    "hotelKanaName": "おおだてぽかぽかおんせんほてる",
+    "hotelSpecial": "★ＪＲ大館駅、国道７号線から１Ｋｍ以内★人気の温泉施設がリーズナブルな料金で広々とご利用頂けます♪",
+    "hotelMinCharge": 5190,
+    "latitude": 145014.48,
+    "longitude": 505984.45,
+    "postalCode": "017-0046",
+    "address1": "秋田県",
+    "address2": "大館市清水4-4-34",
+    "telephoneNo": "0186-49-0003",
+    "faxNo": "0186-49-4001",
+    "access": "JR大館駅より徒歩12分/秋田道大館北ICより車で10分/大館能代空港よりリムジンバス約40分「清水四丁目」下車目の前",
+    "parkingInformation": "無料平面駐車場１００台完備",
+    "nearestStation": "大館",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/149238/149238.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/149238.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/149238/149238_kan1.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/149238.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/149238/149238map.gif",
+    "reviewCount": 487,
+    "reviewAverage": 4.15,
+    "userReview": "次回帰省時も利用したい、温泉が最高でしたお盆の帰省で利用しました。新館、素泊まりです。到着時すでにお布団が敷いてありました。部屋広さは二人に対して十分広く、テーブル、椅子一脚ありました。テレビ…　2026-08-12 10:29:55投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=149238\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.1,
+    "locationAverage": 4.1,
+    "roomAverage": 4.13,
+    "equipmentAverage": 4.02,
+    "bathAverage": 4.24,
+    "breakfastAverage": 3.53,
+    "cleanlinessAverage": 4.17
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "akita",
+    "smallClassCode": "odate",
+    "areaName": "大館・鹿角・十和田大湯・八幡平",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "16:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "22:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 100,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "インターネット接続(LAN形式)"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "ボディーソープ、リンスインシャンプー"
+      },
+      {
+        "item": "WiFi接続無料。（※お部屋によっては繋がりにくい場合がございます。予めご了承ください。）"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "広間"
+      },
+      {
+        "dinnerPlace": "広間"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathType": "ジャグジー"
+      },
+      {
+        "bathType": "水風呂"
+      },
+      {
+        "bathQuality": "カルシウム・ナトリウム硫酸塩泉"
+      },
+      {
+        "bathBenefits": "外傷"
+      },
+      {
+        "bathBenefits": "動脈硬化"
+      },
+      {
+        "bathBenefits": "火傷"
+      }
+    ],
+    "aboutLeisure": null,
+    "handicappedFacilities": [],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "チェックインが予定時間を過ぎる場合必ずご連絡ください。,門限は２３：００です。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の70％    <BR>前日                ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "利用不可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": null
+  }
+}

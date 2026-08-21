@@ -1,0 +1,223 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 9474,
+    "hotelName": "センティア・ホテル内藤",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D9474",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D9474%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D9474",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D9474",
+    "hotelKanaName": "せんてぃあ・ほてるないとう",
+    "hotelSpecial": "コンビニ徒歩1分！甲府の中心地にも大変近く、イベント会場の県民文化ホールにも至近です！",
+    "hotelMinCharge": 5500,
+    "latitude": 128356.35,
+    "longitude": 498857.25,
+    "postalCode": "400-0858",
+    "address1": "山梨県",
+    "address2": "甲府市相生2-3-16",
+    "telephoneNo": "055-233-3011",
+    "faxNo": "055-233-3099",
+    "access": "中央道甲府昭和ICより15分/JR甲府駅より徒歩約15分",
+    "parkingInformation": "１台/１泊1000円〜（普通車50台まで可）※大型車両につきましては事前にご連絡ください（別途料金）",
+    "nearestStation": "甲府",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9474/9474.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/9474.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9474/9474_sgl.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/9474.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9474/9474map.gif",
+    "reviewCount": 1859,
+    "reviewAverage": 3.94,
+    "userReview": "スタッフの対応が素晴らしく朝食も絶品従業員の方々の対応がとても良く、気持ちよく滞在できました。朝ごはんが美味しかったです。クチコミの詳細はこちらから　https://review.travel…　2026-08-15 06:17:58投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=9474\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.05,
+    "locationAverage": 3.81,
+    "roomAverage": 3.78,
+    "equipmentAverage": 3.73,
+    "bathAverage": 3.6,
+    "breakfastAverage": 4.22,
+    "cleanlinessAverage": 3.83
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "yamanasi",
+    "smallClassCode": "kofu",
+    "areaName": "甲府・湯村・昇仙峡",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "16:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "25:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 95,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "有料ビデオ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(LAN形式)"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "ティーサーバー"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "ナイトガウン"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "湯沸かしポット(貸出)"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "スタンド型ズボンプレッサー（各フロア）"
+      },
+      {
+        "item": "電子レンジ（2Ｆ）・コインランドリー（３Ｆ）"
+      },
+      {
+        "item": "自販機（2Ｆ）"
+      },
+      {
+        "item": "居酒屋コーナー"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "パソコン利用可"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "食事処"
+      }
+    ],
+    "aboutBath": [],
+    "aboutLeisure": "山梨県立美術館へお出でのお客様は割引サービスあり☆フロントへお声をお掛け下さい。,ゴルフ,サイクリング,登山,陸上競技,博物館,美術館",
+    "handicappedFacilities": [],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "★ご注意★お車でお越しの方は事前に駐車場のご案内ページをご確認いただき駐車場の位置をご承知おきいただきますようご協力をお願い致します。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日16時から        ：宿泊料金の80％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "AEON"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": "ホテル内藤グループ共通ポイントカード（Ｎカード）をお持ちのお客様はチェックイン時にご提示ください。",
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "Ｎカード会員募集中！特典：8回の宿泊で現金5000円のキャッシュバック。詳しくはフロントまで。,ウェルカムドリンクサービス",
+    "otherInformation": "【駐車場について】ご宿泊にかかる時間（16:00〜翌10:00）以外のご利用は別途,日中料金が発生します（1000円）またホテル駐車場が満車の場合は有料駐車場への,ご案内となります。駐車場は当日先着順のご案内とし、事前の確保は承れません。"
+  }
+}

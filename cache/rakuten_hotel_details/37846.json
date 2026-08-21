@@ -1,0 +1,153 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 37846,
+    "hotelName": "長湯温泉　紅葉館＜大分県＞",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D37846",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D37846%26f_flg%3DPLAN",
+    "dpPlanListUrl": null,
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D37846",
+    "hotelKanaName": "ながゆおんせん　こうようかん＜おおいたけん＞",
+    "hotelSpecial": "長湯名物カニ湯は目の前！温泉情緒あふれる老舗で心落ち着く静かな時間を♪自慢のチャンコ鍋はボリューム◎",
+    "hotelMinCharge": 7150,
+    "latitude": 119036.66,
+    "longitude": 472986.05,
+    "postalCode": "878-0402",
+    "address1": "大分県",
+    "address2": "竹田市直入町長湯7996",
+    "telephoneNo": "0974-75-2003",
+    "faxNo": "0974-75-2031",
+    "access": "ＪＲ豊肥本線　豊後竹田駅より車で２０分",
+    "parkingInformation": "有り　２０台　無料　先着順",
+    "nearestStation": "豊後竹田",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/37846/37846.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/37846.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/37846/37846_spa.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/37846.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/37846/37846map.gif",
+    "reviewCount": 145,
+    "reviewAverage": 3.91,
+    "userReview": "昭和レトロな雰囲気と��音に癒やされる朝ご飯つきで宿泊。昭和なレトロな感じで大満足。平日だったこともあり、風呂も混むことなくゆっくりできました。川音ききながら、布団で寝ました。クチコミの詳細はこ…　2026-07-16 19:57:53投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=37846\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.02,
+    "locationAverage": 4.07,
+    "roomAverage": 3.73,
+    "equipmentAverage": 3.82,
+    "bathAverage": 3.84,
+    "breakfastAverage": 3.82,
+    "dinnerAverage": 3.96,
+    "cleanlinessAverage": 3.89
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "ooita",
+    "smallClassCode": "taketa",
+    "areaName": "久住・竹田",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "14:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "21:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 18,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "湯沸かしポット(貸出)"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "個室"
+      },
+      {
+        "breakfastPlace": "広間"
+      },
+      {
+        "dinnerPlace": "個室"
+      },
+      {
+        "dinnerPlace": "広間"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "炭酸水素塩泉"
+      },
+      {
+        "bathBenefits": "胃腸病"
+      },
+      {
+        "bathBenefits": "糖尿病"
+      },
+      {
+        "bathBenefits": "動脈硬化"
+      }
+    ],
+    "aboutLeisure": "釣り",
+    "handicappedFacilities": [],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "入湯税が別途必要です。（お一人様１５０円）,チェックインが予定時刻を過ぎる場合は必ずご連絡下さい。,キャンセルされる場合は１６：００までにご連絡ください。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   ",
+    "availableCreditCard": [
+      {
+        "card": "利用不可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "入湯税　別途150円頂きます。"
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 13738,
+    "hotelName": "下呂温泉　温泉ビジネスホテル富喜屋",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D13738",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D13738%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D13738",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D13738",
+    "hotelKanaName": "げろおんせん　おんせんびじねすほてる　ふきや",
+    "hotelSpecial": "『客室で天然温泉を独り占めできる宿』 全国でも珍しい、全室天然温泉シャワー完備。",
+    "hotelMinCharge": 9000,
+    "latitude": 128894.42,
+    "longitude": 494075.06,
+    "postalCode": "509-2206",
+    "address1": "岐阜県",
+    "address2": "下呂市幸田1185",
+    "telephoneNo": "0576-25-2263",
+    "faxNo": "0576-24-1806",
+    "access": "中央道・中津川ＩＣ／Ｒ２５７～５０分。名神・小牧ＩＣ／Ｒ４１～１０５分。ＪＲ高山線・下呂駅～北方向100ｍ・徒歩２分。",
+    "parkingInformation": "当館無料Ｐ満車の際は、隣接の「下呂温泉栄パーキング」をご利用ください。当館にて半額補助いたします",
+    "nearestStation": "下呂",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13738/13738.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/13738.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13738/13738_you.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/13738.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13738/13738map.gif",
+    "reviewCount": 112,
+    "reviewAverage": 3.85,
+    "userReview": "立地は最高だが設備に難あり駅から近くで部屋からは川が望め、コンビニもすぐ隣にあり立地は最高です。内装も綺麗にしておりいい感じなのですが、壁が薄くて音が響きやすい、洗面にハンドソープがない、冷蔵…　2026-04-19 08:44:29投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=13738\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 3.75,
+    "locationAverage": 4.08,
+    "roomAverage": 3.67,
+    "equipmentAverage": 3.69,
+    "bathAverage": 3.63,
+    "breakfastAverage": 4,
+    "cleanlinessAverage": 3.68
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "gihu",
+    "smallClassCode": "gero",
+    "areaName": "下呂温泉・濁河温泉",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "21:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 14,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "ファックス"
+      },
+      {
+        "item": "インターネット接続(LAN形式)"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "インターネット接続(一部、LAN形式)"
+      },
+      {
+        "item": "インターネット接続(一部、無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "リンスインシャンプー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "ＬＡＮ（インテリジェンススイッチ施工でセキュリティ確保）ケーブルでＰＣ利用可（無料）"
+      },
+      {
+        "item": "無料公衆無線ＬＡＮ（ＷＩ－Ｆｉ）設置の施設。ログインパスワードはフロントでお尋ねください。"
+      },
+      {
+        "item": "客室はお客様の健康増進を標榜し全室禁煙にしました。喫煙は各階の喫煙コーナーでお願いいたします。"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "コーヒーハウス"
+      },
+      {
+        "item": "喫茶"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "コンビニエンスストア"
+      },
+      {
+        "item": "コーヒーショップ"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "パソコン利用可"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン"
+      },
+      {
+        "breakfastPlace": "食事処"
+      },
+      {
+        "dinnerPlace": "食事処"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "アルカリ単純泉"
+      },
+      {
+        "bathBenefits": "運動機能障害"
+      },
+      {
+        "bathBenefits": "美肌効果"
+      },
+      {
+        "bathBenefits": "リウマチ・神経病"
+      }
+    ],
+    "aboutLeisure": "春・桜と高山まつり　夏・長良川鵜飼、郡上盆踊　秋・紅葉と高山まつり　冬・下呂温泉花火ミュージカル,釣り,渓流釣り,カヌー,渓流下り,川上り,テニス,ゲートボール,ゴルフ,サッカー,パラグライダー,ハンググライダー,サイクリング,ハイキング,スキー,クロスカントリー,トレッキング,登山,陸上競技,博物館,テーマパーク,農業公園,美術館,しいたけ狩り,栗拾い,山菜取り",
+    "handicappedFacilities": [],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "チェックインは15時～21時までにお願いいたします。(時間厳守),最終チェックインは21時です。無連絡で遅れた場合は、無断キャンセル扱いになる場合があります。,館内に食事処（営業・朝１１時半～昼２時／夕方５時～夜７時）、喫茶店（営業・朝８時～昼１時）が有りますのでご利用ください。,日曜日は食事処が定休日のため朝食付でご予約の方以外に朝食のご用意はできかねます。,温泉風呂(共同)は24時間ご利用いただけます。,チェックイン後の門限はありません。,コンビニ・銀行ATMが隣接しています。,※2025年10月より、下呂市条例により1人1泊あたり宿泊税（宿泊料税抜5000円未満：100円、5000円以上：200円）別途いただきます。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の80％    <BR>2日前から           ：宿泊料金の50％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Discover"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "『湯巡り手形』(1300円・3ヶ所入浴可・6ヶ月有効)購入で下呂温泉の一部加盟旅館30宿に入浴可能。",
+    "otherInformation": "ＪＲ下呂駅下車、北東方向直線１００メートル・徒歩2分の好立地です。,コンビニが隣接しているので大変便利です。,当館前の飛騨川沿い温泉噴泉池には２４時間・無料で利用できる足湯があります。アウトバス・アウトトイレ。"
+  }
+}

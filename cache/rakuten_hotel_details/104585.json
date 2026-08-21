@@ -1,0 +1,148 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 104585,
+    "hotelName": "角間温泉　高島屋旅館＜長野県＞",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D104585",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D104585%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D104585",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D104585",
+    "hotelKanaName": "たかしまや",
+    "hotelSpecial": "源泉掛け流しの天然温泉。アトピー・皮膚病などお肌にいい成分。３つの外湯めぐりが楽しめる湯治場の温泉宿",
+    "hotelMinCharge": 6500,
+    "latitude": 132205.15,
+    "longitude": 498354.47,
+    "postalCode": "381-0402",
+    "address1": "長野県",
+    "address2": "下高井郡山ノ内町佐野2349",
+    "telephoneNo": "0269-33-3061",
+    "faxNo": "0269-33-2032",
+    "access": "湯田中駅よりお車にて５分",
+    "parkingInformation": "無料１０台　予約不要",
+    "nearestStation": "湯田中",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/104585/104585.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/104585.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/104585/104585_ru.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/104585.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/104585/104585map.gif",
+    "reviewCount": 189,
+    "reviewAverage": 4.59,
+    "userReview": "1人で宿泊しましたが、大変親切にしていただきました。食事も大変美味しかったです。他の画像やクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hot…　2026-07-11 14:23:19投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=104585\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.69,
+    "locationAverage": 4.59,
+    "roomAverage": 4.5,
+    "equipmentAverage": 4.18,
+    "bathAverage": 4.81,
+    "breakfastAverage": 4.73,
+    "dinnerAverage": 4.67,
+    "cleanlinessAverage": 4.5
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "nagano",
+    "smallClassCode": "shiga",
+    "areaName": "志賀高原･湯田中･渋",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "14:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "18:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 7,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー(貸出)"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "保温ポット"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "個室"
+      },
+      {
+        "dinnerPlace": "部屋"
+      },
+      {
+        "dinnerPlace": "個室"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "ナトリウム塩化物泉"
+      },
+      {
+        "bathBenefits": "アトピー・湿疹"
+      },
+      {
+        "bathBenefits": "外傷"
+      },
+      {
+        "bathBenefits": "皮膚病"
+      }
+    ],
+    "aboutLeisure": "渓流釣り,スキー",
+    "handicappedFacilities": [
+      {
+        "item": "大浴場浴槽に手すりあり"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "チェックインが予定時間を過ぎる場合必ずご連絡下さい。,宿泊金額に入湯税が含まれています。,現地ではクレジットカードは使えません。現金のみのご精算になりますので、予めご了承ください。,令和8年6月1日より長野県宿泊税として、お一人一泊200円がかかります。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>3日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "利用不可"
+      }
+    ],
+    "aboutCreditCardNote": "楽天トラベル上でオンラインカード決済の利用は可能です。",
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": null
+  }
+}

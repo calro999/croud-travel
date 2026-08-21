@@ -1,0 +1,223 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 69377,
+    "hotelName": "大江戸温泉物語Ｐｒｅｍｉｕｍ　白浜御苑",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D69377",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D69377%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D69377",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D69377",
+    "hotelKanaName": "おおえどおんせんものがたりぷれみあむしらはまぎょえん",
+    "hotelSpecial": "露天風呂とくつろげる2つのラウンジ、多彩な客室をご用意。心身ともになごめる温泉旅をお楽しみください。",
+    "hotelMinCharge": 8000,
+    "latitude": 121265.54,
+    "longitude": 487285.32,
+    "postalCode": "649-2211",
+    "address1": "和歌山県",
+    "address2": "西牟婁郡白浜町1011",
+    "telephoneNo": "050-3615-3456",
+    "faxNo": null,
+    "access": "ＪＲ白浜駅よりお車にて約10分、 阪和自動車道南紀田辺インターよりお車にて約30分",
+    "parkingInformation": "１００台　予約不要　無料",
+    "nearestStation": "白浜",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/69377/69377.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/69377.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/69377/69377_wa.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/69377.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/69377/69377map.gif",
+    "reviewCount": 2594,
+    "reviewAverage": 4.14,
+    "userReview": "証明書忘れへの対応が厳しく旅行が台無しにペットと泊まれる部屋を予約してチェクインしたところ妻がワクチンと狂犬病の注射の証明書を忘れフロントの方に説明したところ家迄取りに言って下さいと言われ結局家迄…　2026-08-13 17:31:39投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=69377\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.19,
+    "locationAverage": 4.06,
+    "roomAverage": 4.01,
+    "equipmentAverage": 4.13,
+    "bathAverage": 4.23,
+    "breakfastAverage": 4.25,
+    "dinnerAverage": 4.21,
+    "cleanlinessAverage": 4.15
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "wakayama",
+    "smallClassCode": "shirahama",
+    "areaName": "南紀白浜・紀伊田辺・龍神",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "19:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 115,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "全館無料Wi-Fi"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "カラオケルーム"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "卓球"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "レストラン(バイキング)"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "岩盤浴"
+      },
+      {
+        "bathQuality": "ナトリウム塩化物泉"
+      },
+      {
+        "bathBenefits": "外傷"
+      },
+      {
+        "bathBenefits": "冷え性"
+      }
+    ],
+    "aboutLeisure": "海水浴,海釣り,ウィンドサーフィン,ダイビング,テニス,ハイキング,洞窟探検,遊園地,動物園,博物館,水族館,テーマパーク,美術館",
+    "handicappedFacilities": [
+      {
+        "item": "貸出用車椅子"
+      }
+    ],
+    "linguisticLevel": "中国語：少し分かるスタッフが数人いる。<BR>英語：少し分かるスタッフが数人いる。<BR>韓国語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "チェックインが予定時間を過ぎる場合必ずご連絡下さい。,入湯税が別途必要です。（お一人様１５０円）,お食事はレストランにて、ご用意させていただきます。,カーナビにてルート検索される場合は、ご面倒ですが住所検索にてお願いいたします。（電話番号は予約センターとなっております）,【グランピングエリアについて】,お食事・大浴場はホテル館内をご利用ください。ホテル館内のトイレ、洗面もご利用いただけます。（グランピングエリアからご移動が必要です）,トイレ、洗面はグランピングエリア共用となります。グランピングエリアのトイレは洗浄機付ではございません。,グランピングエリアに快適にご宿泊いただけない悪天候の場合、キャンセル料は発生しません。事前にホテルよりご連絡させていただきます。,グランピングエリアではバーベキュー等、火の出る調理器具の持ち込み、わんちゃん連れでのご宿泊などはお断りしております。,※3歳以上の幼児のお子様は有料です。（食事・布団付）をご選択ください。3歳未満のお子様でお布団追加の場合は、追加料金2,200円でご用意いたします。事前にお知らせください。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の50％    <BR>前日                ：宿泊料金の50％    <BR>7日前から           ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "Master Card"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "将棋無料貸出,麻雀無料貸出,囲碁無���貸出",
+    "otherInformation": null
+  }
+}

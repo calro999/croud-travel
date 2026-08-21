@@ -1,0 +1,174 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 18669,
+    "hotelName": "佐津温泉　渚に続く海辺の宿　源六＜兵庫県＞",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D18669",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D18669%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D18669",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D18669",
+    "hotelKanaName": "さづおんせん　なぎさにつづくうみべのやど　げんろく＜ひょうごけん＞",
+    "hotelSpecial": "佐津海岸の浜辺が真正面です。やさしく香る潮風に心なごむご宿泊を満喫して頂けます。",
+    "hotelMinCharge": 9380,
+    "latitude": 128342.6,
+    "longitude": 484911.76,
+    "postalCode": "669-6402",
+    "address1": "兵庫県",
+    "address2": "美方郡香美町香住区訓谷21",
+    "telephoneNo": "0796-38-0902",
+    "faxNo": "0796-38-0026",
+    "access": "JR山陰本線 佐津駅より徒歩7～8分",
+    "parkingInformation": "有り　10台　無料　先着順",
+    "nearestStation": "佐津",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/18669/18669.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/18669.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/18669/18669_w.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/18669.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/18669/18669map.gif",
+    "reviewCount": 42,
+    "reviewAverage": 4.64,
+    "userReview": null
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 0,
+    "locationAverage": 0,
+    "roomAverage": 0,
+    "equipmentAverage": 0,
+    "bathAverage": 0,
+    "breakfastAverage": 4.55,
+    "dinnerAverage": 4.6,
+    "cleanlinessAverage": 4.45
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "hyogo",
+    "smallClassCode": "kasumi",
+    "areaName": "香住・浜坂・湯村",
+    "hotelClassCode": "PENSION",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "18:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 6,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "天然温泉でのお風呂を満喫して頂けます。貸切風呂につきましては、ご相談くださいませ。"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "バーベキューガーデン"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "個室"
+      },
+      {
+        "breakfastPlace": "食事処"
+      },
+      {
+        "dinnerPlace": "個室"
+      },
+      {
+        "dinnerPlace": "食事処"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathBenefits": "ストレス"
+      },
+      {
+        "bathBenefits": "美容"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      }
+    ],
+    "aboutLeisure": "竹野シュノーケルセンター　大乗寺,海水浴,釣り,海釣り,テニス,水族館",
+    "handicappedFacilities": [],
+    "linguisticLevel": "中国語：少し分かるスタッフが数人いる。<BR>英語：少し分かるスタッフが数人いる。<BR>韓国語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "ご到着が１８時を過ぎるようでしたらご連絡下さい。,ご連絡頂きましたら、JR佐津駅までバスにて送迎させて頂きます。,道中お車にてお越しの場合、迷われましたらご連絡下さい。,その他、お料理、お飲物につきましてご相談を承っております。お気軽にお尋ね下さいませ。,入湯税が、150円（大人お一人当たり）　別途必要です。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>2日前から           ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "デビットカード"
+      }
+    ],
+    "aboutCreditCardNote": "クレジットカードにつきましては、上記以外にも取り扱っております。ご相談ください。",
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "温泉の泉質はラドン温泉です。,入湯税は別途１５０円頂戴いたします。"
+  }
+}

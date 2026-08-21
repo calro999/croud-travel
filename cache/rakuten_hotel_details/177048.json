@@ -1,0 +1,229 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 177048,
+    "hotelName": "五島列島リゾートホテル　マルゲリータ奈良尾＜五島・中通島＞",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D177048",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D177048%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D177048",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D177048",
+    "hotelKanaName": "ごとうれっとうりぞーとほてる　まるげりーたならお",
+    "hotelSpecial": "奈良尾港の高台に建つ五島食材を和食で堪能する小さなホテル〜29の教会が点在する祈りの島〜",
+    "hotelMinCharge": 14500,
+    "latitude": 118223.04,
+    "longitude": 464624.67,
+    "postalCode": "853-3101",
+    "address1": "長崎県",
+    "address2": "南松浦郡新上五島町奈良尾郷712-3",
+    "telephoneNo": "0959-44-1701",
+    "faxNo": "0959-44-1702",
+    "access": "奈良尾港高台に建つ五島灘の眺望と食を堪能できるリゾートホテル（送迎あり）長崎港・福江港発ジェットフォイル、フェリー直通",
+    "parkingInformation": "無料駐車場20台。近隣レンタカー会社あり。電気自動車充電器あり。",
+    "nearestStation": null,
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/177048/177048.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/177048.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/177048/177048_kan1.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/177048.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/177048/177048map.gif",
+    "reviewCount": 64,
+    "reviewAverage": 4.64,
+    "userReview": "他の画像やクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/177048?reviewId=33123478871452　2026-08-15 18:20:53投稿"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.56,
+    "locationAverage": 4.64,
+    "roomAverage": 4.72,
+    "equipmentAverage": 4.48,
+    "bathAverage": 4.13,
+    "breakfastAverage": 4.52,
+    "dinnerAverage": 4.82,
+    "cleanlinessAverage": 4.6
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "nagasaki",
+    "smallClassCode": "ritou",
+    "areaName": "五島列島",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "21:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 29,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "パジャマ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "ティーラウンジ"
+      },
+      {
+        "item": "バーラウンジ"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "セルフコインランドリーコーナー(無料)"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathQuality": "カルシウム・ナトリウム塩化物泉"
+      },
+      {
+        "bathBenefits": "関節痛"
+      },
+      {
+        "bathBenefits": "筋肉痛"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      }
+    ],
+    "aboutLeisure": "温泉大浴場の営業時間は13時より23時までとなっております,海水浴,釣り,海釣り,クルージング,ウィンドサーフィン,ダイビング,ゲートボール",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "チェックインが予定時刻を過ぎる場合は必ずご連絡ください。,大人（中学生以上）おひとり様あたり1泊につき150円を入湯税として別途現地にて頂戴します。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>3日前から           ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "OMC"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "楽天カード"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "大人���中学生以上）おひとり様あたり1泊につき150円を入湯税として別途現地にて頂戴します。"
+  }
+}

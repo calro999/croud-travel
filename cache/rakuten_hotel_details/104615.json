@@ -1,0 +1,247 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 104615,
+    "hotelName": "蒲井温泉　いっぺん庵",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D104615",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D104615%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D104615",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D104615",
+    "hotelKanaName": "かまいおんせん　いっぺんあん",
+    "hotelSpecial": "楽天ゴールドプレミアム認定。1日7組限定100％源泉掛け流し【にごり湯】贅沢を叶える大人の隠れ宿",
+    "hotelMinCharge": 37400,
+    "latitude": 128335.92,
+    "longitude": 485588.42,
+    "postalCode": "629-3424",
+    "address1": "京都府",
+    "address2": "京丹後市久美浜町蒲井522-1",
+    "telephoneNo": "0772-83-9050",
+    "faxNo": "0772-83-9060",
+    "access": "車/京阪神より3時間【山陰近畿自動車道京丹後大宮IC～Ｒ312～府道49～122】電車/久美浜駅【送迎あり】",
+    "parkingInformation": "有り　７台　無料　予約不要",
+    "nearestStation": "久美浜",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/104615/104615.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/104615.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/104615/104615_spa.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/104615.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/104615/104615map.gif",
+    "reviewCount": 189,
+    "reviewAverage": 4.55,
+    "userReview": "何度でも来たい、女将さんの接客が最高何度も利用していますがまた来たいと思う旅館です。女将さんの接客が素晴らしいです!また蟹のシーズンに来ようと思います。クチコミの詳細はこちらから　http…　2026-07-20 15:05:48投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=104615\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.5,
+    "locationAverage": 4.5,
+    "roomAverage": 4.6,
+    "equipmentAverage": 4.45,
+    "bathAverage": 4.6,
+    "breakfastAverage": 4.55,
+    "dinnerAverage": 4.55,
+    "cleanlinessAverage": 4.58
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "kyoto",
+    "smallClassCode": "hokubu",
+    "areaName": "丹後・久美浜",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "18:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 7,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送（無料）"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "洗顔ソープ"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "バスローブ"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "パジャマ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "部屋"
+      },
+      {
+        "breakfastPlace": "個室"
+      },
+      {
+        "dinnerPlace": "部屋"
+      },
+      {
+        "dinnerPlace": "個室"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "ナトリウム・カルシウム塩化物泉"
+      },
+      {
+        "bathBenefits": "筋肉痛"
+      },
+      {
+        "bathBenefits": "冷え性"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      }
+    ],
+    "aboutLeisure": "果物狩り,海水浴,海釣り,ゴルフ",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "チェックインが予定時間を過ぎる場合必ずご連絡下さい。,アレルギー等、食べられないものをお教えください。,幼児様は2歳～6歳迄が対象となります。2歳未満の添い寝（食事・布団なし）は3,000円（税別）,じぞう、ふどう、みろくの部屋は、お子様（乳児・幼児・小学生）の受け入れはございません。ご了承ください。,あみだ、もんじゅ部屋は、お子様の受け入れがございます,布団の数は最大3組。お部屋の最大定員は6名となります（幼児様含む）,12歳以上のみ入湯税別途150円必要です（京丹後市税条例）。,人数変更・日程変更もキャンセル規定に該当します。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>3日前から           ：宿泊料金の100％   <BR>7日前から           ：宿泊料金の30％    <BR>21日前から          ：宿泊料金の15％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": null
+  }
+}

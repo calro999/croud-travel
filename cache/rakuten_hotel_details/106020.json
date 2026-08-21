@@ -1,0 +1,259 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 106020,
+    "hotelName": "ガーデンホテルオリーブ",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D106020",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D106020%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D106020",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D106020",
+    "hotelKanaName": "がーでんほてるおりーぶ",
+    "hotelSpecial": "季節を彩る花々と素敵な笑顔が集う緑豊かなホテル。爽やかなおもてなしでリゾートタイムを演出致します。",
+    "hotelMinCharge": 18700,
+    "latitude": 126088.32,
+    "longitude": 492247.87,
+    "postalCode": "511-1192",
+    "address1": "三重県",
+    "address2": "桑名市長島町浦安333",
+    "telephoneNo": "0594-45-1111",
+    "faxNo": "0594-45-1118",
+    "access": "近鉄　桑名駅より三重交通バス利用で２０分",
+    "parkingInformation": "有り　１００台　無料　予約不要",
+    "nearestStation": "桑名",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/106020/106020.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/106020.jpg",
+    "roomImageUrl": null,
+    "roomThumbnailUrl": null,
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/106020/106020map.gif",
+    "reviewCount": 721,
+    "reviewAverage": 4.49,
+    "userReview": "ナガシマ至近で便利、手厚い看病に感謝ナガシマスパーランドの隣で、チケットもホテルで紙発行できて楽でした。疲れた子どもへ頭痛薬をいただき、服用するため部屋へおにぎりやフルーツ等を子の好みを確認し…　2026-08-15 12:15:30投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=106020\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.51,
+    "locationAverage": 4.41,
+    "roomAverage": 4.16,
+    "equipmentAverage": 4.29,
+    "bathAverage": 4.59,
+    "breakfastAverage": 4.5,
+    "dinnerAverage": 4.53,
+    "cleanlinessAverage": 4.46
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "mie",
+    "smallClassCode": "yunoyama",
+    "areaName": "四日市・桑名・湯の山・長島温泉",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "14:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "19:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 127,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送（無料）"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "お子様用の踏み台・補助便座・おむつペール無料貸し出しあり（数量限定）"
+      },
+      {
+        "item": "おねしょシート有料貸出あり（＠300円）"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "喫茶"
+      },
+      {
+        "item": "ラウンジ"
+      },
+      {
+        "item": "居酒屋コーナー"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "プール(夏期のみ)"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "レストラン(バイキング)"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathType": "ジャグジー"
+      },
+      {
+        "bathType": "水風呂"
+      },
+      {
+        "bathQuality": "アルカリ性低張性鉱泉"
+      },
+      {
+        "bathBenefits": "運動機能障害"
+      },
+      {
+        "bathBenefits": "筋肉痛"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      }
+    ],
+    "aboutLeisure": "遊園地",
+    "handicappedFacilities": [
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "◎　入湯税が別途必要です。（お一人様２１０円）,◎　大人2名様以上でお申込み下さい。,◎　幼児様は、2歳から施設使用料等の料金がかかります。,◎　遅い時間のご到着ですと、夕食をご用意致しかねる場合もございます。１９：３０までのチェックインをお願い致します（それ以降のご到着で夕食をご用意できない場合も、１泊２食分の料金が発生致します）,◎　ご予約をいただくにあたり、住所登録の無いお客様につきましては、折り返しお電話にて確認させていただきます。ご了承くださいませ。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>3日前から           ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "楽天カード"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": null
+  }
+}

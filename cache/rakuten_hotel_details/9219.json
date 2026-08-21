@@ -1,0 +1,295 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 9219,
+    "hotelName": "メルキュール鳥取大山リゾート＆スパ",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D9219",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D9219%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D9219",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D9219",
+    "hotelKanaName": "めるきゅーるとっとりだいせんりぞーとあんどすぱ",
+    "hotelSpecial": "紅葉彩る秋の大山へ！ビュッフェ・温泉・ラウンジ付オールインクルーシブ",
+    "hotelMinCharge": 4500,
+    "latitude": 127390.95,
+    "longitude": 480529.11,
+    "postalCode": "689-4108",
+    "address1": "鳥取県",
+    "address2": "西伯郡伯耆町丸山1647-13",
+    "telephoneNo": "0859-68-2333",
+    "faxNo": "0859-68-3233",
+    "access": "米子道『溝口IC』より車で約15分/JR山陰本線・伯備線『米子駅』より無料送迎シャトルバス・車で約30分",
+    "parkingInformation": "●有 乗用車306台(うちハートフルスペース3台)、大型バス10台　無料",
+    "nearestStation": "米子",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9219/9219.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/9219.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9219/9219_bath1.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/9219.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9219/9219map.gif",
+    "reviewCount": 2509,
+    "reviewAverage": 4.15,
+    "userReview": "バイキングの種類が豊富で飲み放題も最高バイキングが種類が多くよかったです!飲み放題もいいですね〜クチコミの詳細はこちらから　https://review.travel.rakuten.co…　2026-08-15 18:29:20投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=9219\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.09,
+    "locationAverage": 4.29,
+    "roomAverage": 4.05,
+    "equipmentAverage": 3.98,
+    "bathAverage": 4.15,
+    "breakfastAverage": 4.23,
+    "dinnerAverage": 4.21,
+    "cleanlinessAverage": 4.05
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "tottori",
+    "smallClassCode": "seibu",
+    "areaName": "米子・皆生温泉・大山",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "29:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 219,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "喫茶"
+      },
+      {
+        "item": "ティーラウンジ"
+      },
+      {
+        "item": "バーラウンジ"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "レストラン(バイキング)"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "水風呂"
+      },
+      {
+        "bathQuality": "炭酸水素塩泉"
+      },
+      {
+        "bathQuality": "ナトリウム・カルシウム塩化物泉"
+      },
+      {
+        "bathBenefits": "関節痛"
+      },
+      {
+        "bathBenefits": "高血圧"
+      },
+      {
+        "bathBenefits": "リウマチ・神経病"
+      }
+    ],
+    "aboutLeisure": "海水浴,海釣り,渓流釣り,カヌー,クルージング,渓流下り,川上り,テニス,ゲートボール,ゴルフ,サッカー,サイクリング,ハイキング,スキー,乗馬,トレッキング,登山,フラワーパーク,美術館,山菜取り",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "＊大人お一人様につき入湯税１５０円は宿泊料金に含まれております。,＊チェックインが18時を過ぎる場合、ご連絡いただけると幸いです。,＊幼児のお子様の浴衣は、ご用意がございませんのでご持参ください。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の30％    <BR>2日前から           ：宿泊料金の30％    <BR>3日前から           ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "AEON"
+      },
+      {
+        "card": "JACCS"
+      },
+      {
+        "card": "CF"
+      },
+      {
+        "card": "JTB"
+      },
+      {
+        "card": "Takashimaya"
+      },
+      {
+        "card": "楽天カード"
+      },
+      {
+        "card": "デビットカード"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "ウェルカムドリンクサービス,湯上がりサロンでのお茶サービス",
+    "otherInformation": "ファミリー　家族　登山　高原　リゾート　鳥取　大山　日本海　こども　添い寝　山陰　鳥取砂丘,バイキング　ビュッフェ　鬼太郎　コナン　絶景　大山Gビール　地ビール　花回廊　足立美術館　出雲大社,ご当地　クーポン　さき楽　ポイント　だいせん　蟹　カニ　かに　体験　アクティビティ"
+  }
+}

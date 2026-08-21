@@ -1,0 +1,199 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 5964,
+    "hotelName": "鎌先温泉　最上屋旅館＜宮城県＞",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D5964",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D5964%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D5964",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D5964",
+    "hotelKanaName": "かまさきおんせん　もがみやりょかん＜みやぎけん＞",
+    "hotelSpecial": "奥羽の薬湯、自炊もできる木造の純和風旅館。キツネ村まで車で15分。",
+    "hotelMinCharge": 4950,
+    "latitude": 136880.14,
+    "longitude": 506083.99,
+    "postalCode": "989-0231",
+    "address1": "宮城県",
+    "address2": "白石市福岡蔵本字鎌先1-35",
+    "telephoneNo": "0224-26-2131",
+    "faxNo": "0224-25-7081",
+    "access": "仙台宮城ICより白石IC経由にて車で45分。新幹線白石蔵王駅下車タクシーで15分。",
+    "parkingInformation": "有り　３０台　無料（先着順）",
+    "nearestStation": "白石蔵王",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5964/5964.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/5964.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5964/5964_heya.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/5964.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5964/5964map.gif",
+    "reviewCount": 185,
+    "reviewAverage": 4.09,
+    "userReview": null
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 0,
+    "locationAverage": 0,
+    "roomAverage": 0,
+    "equipmentAverage": 0,
+    "bathAverage": 0,
+    "breakfastAverage": 4.43,
+    "dinnerAverage": 4,
+    "cleanlinessAverage": 4
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "miyagi",
+    "smallClassCode": "shiroishi",
+    "areaName": "白石・宮城蔵王",
+    "hotelClassCode": "PENSION",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "18:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 48,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(一部、無線LAN形式)"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "ドライヤー(貸出)"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ(一部)"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "喫茶"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "ルームサービス"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "部屋"
+      },
+      {
+        "breakfastPlace": "広間"
+      },
+      {
+        "dinnerPlace": "部屋"
+      },
+      {
+        "dinnerPlace": "広間"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "含芒硝食塩水"
+      },
+      {
+        "bathBenefits": "外傷"
+      },
+      {
+        "bathBenefits": "冷え性"
+      },
+      {
+        "bathBenefits": "火傷"
+      }
+    ],
+    "aboutLeisure": "釣り・フライフィッシング・白石スキー場まで車で１５分,渓流釣り,ハイキング,スキー,登山,山菜取り",
+    "handicappedFacilities": [
+      {
+        "item": "大浴場浴槽に手すりあり"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "表示料金は「サービス料」「消費税」を含みます。,別途「入湯税(１名１泊150円)」「宿泊税(1名1泊300円)」を現地にて申し受けます。,夕食付きの最終チェックインは18時となります。,食事なしの場合でも19時を過ぎると時間外料金が発生します。またはお泊り頂けない場合(不泊キャンセル料が発生) があります。,時間外遅延料は1名1分超過から60分まで毎に￥1100となります。(例:最終時間から1時間10分遅れた場合は1人につき￥2200追加),来館方法をお知らせください(マイカー、電車、タクシー等),インバウンドサイト(日本国内サイト以外)の予約は、予約内容の変更ができません。内容変更等はご自身でお願い致します。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日12時から        ：宿泊料金の100％   <BR>当日                ：宿泊料金の80％    <BR>前日                ：宿泊料金の50％    <BR>2日前から           ：宿泊料金の30％    <BR>3日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "利用不可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "囲碁無料貸出,麻雀無料貸出",
+    "otherInformation": "※宿泊料以外に別途入湯税を申し受けます。入湯税は1泊に付き150円となります。,※2026年1月13日宿泊分から宿泊税を申し受け��す。1名1泊につき300円。宿泊者全員課税対象。"
+  }
+}

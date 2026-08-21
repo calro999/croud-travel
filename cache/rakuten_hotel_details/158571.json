@@ -1,0 +1,177 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 158571,
+    "hotelName": "山形県職員会館あこや会館",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D158571",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D158571%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D158571",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D158571",
+    "hotelKanaName": "やまがたけんしょくいんかいかんあこやかいかん",
+    "hotelSpecial": "山形の豊かな自然に囲まれ、山形県庁に隣接し大学も近くにある観光等の拠点ともなる宿泊施設。",
+    "hotelMinCharge": 6047,
+    "latitude": 137657.53,
+    "longitude": 505311.45,
+    "postalCode": "990-0023",
+    "address1": "山形県",
+    "address2": "山形市松波2-8-1",
+    "telephoneNo": "023-642-1358",
+    "faxNo": "023-642-1360",
+    "access": "山形駅よりお車にて約１０分。山形自動車道山形蔵王インターからも約5分と観光にもビジネスにも好立地",
+    "parkingInformation": "有り（無料）",
+    "nearestStation": "山形",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/158571/158571.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/158571.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/158571/158571_kan1.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/158571.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/158571/158571map.gif",
+    "reviewCount": 188,
+    "reviewAverage": 3.77,
+    "userReview": "設備は古いが清潔。接客は良好。素泊まりしか予約出来なかったので、部屋のみのコメントです。たぶんお役所出張用の施設を一般にも開放されている施設かと思います。設備面は古いですが、水回りとか必要…　2026-08-11 21:19:23投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=158571\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 3.94,
+    "locationAverage": 3.6,
+    "roomAverage": 3.74,
+    "equipmentAverage": 3.64,
+    "bathAverage": 3.55,
+    "breakfastAverage": 3.72,
+    "dinnerAverage": 4,
+    "cleanlinessAverage": 3.75
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "yamagata",
+    "smallClassCode": "yamagata",
+    "areaName": "山形・蔵王・天童・上山",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "22:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 19,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "多目的室"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [],
+    "aboutLeisure": "スキー,遊園地",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "チェックインが２１：００以降の場合は必ずご連絡ください。,門限は２４：００です。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>6日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "館内禁煙　屋外喫煙所有り"
+  }
+}

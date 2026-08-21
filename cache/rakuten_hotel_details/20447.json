@@ -1,0 +1,210 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 20447,
+    "hotelName": "箱根湯本温泉　静観荘＜神奈川県＞",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D20447",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D20447%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D20447",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D20447",
+    "hotelKanaName": "はこねゆもとおんせん　せいかんそう＜かながわけん＞",
+    "hotelSpecial": "秋は紅葉、春は若緑。湯坂山の四季を愛でる露天風呂のくつろぎを。旧東海道沿いにひっそりと佇む全9室の宿",
+    "hotelMinCharge": 21000,
+    "latitude": 126810.19,
+    "longitude": 500760.07,
+    "postalCode": "250-0312",
+    "address1": "神奈川県",
+    "address2": "足柄下郡箱根町湯本茶屋19",
+    "telephoneNo": "0460-85-5795",
+    "faxNo": "0460-85-7458",
+    "access": "箱根湯本駅から旅館組合の送迎バスあり（Bコース　片道200円）／徒歩（上り坂）約20分／小田原西ICより車で約15分",
+    "parkingInformation": "無料駐車場10台分（予約不要）　",
+    "nearestStation": "箱根湯本",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/20447/20447.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/20447.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/20447/20447_ume.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/20447.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/20447/20447map.gif",
+    "reviewCount": 156,
+    "reviewAverage": 4.47,
+    "userReview": "丁寧なおもてなしと部屋食、露天風呂に大満足チェックインが遅れそうだったので30分前に電話しましたが、快く対応していただき、玄関を入るところから丁寧にもてなしてくれました。朝夕とも部屋食で、ベテ…　2026-08-05 22:50:33投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=20447\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.47,
+    "locationAverage": 4.18,
+    "roomAverage": 4.44,
+    "equipmentAverage": 4.18,
+    "bathAverage": 4.47,
+    "breakfastAverage": 4.55,
+    "dinnerAverage": 4.58,
+    "cleanlinessAverage": 4.44
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "kanagawa",
+    "smallClassCode": "hakone",
+    "areaName": "箱根",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "18:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 9,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(一部、無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ＣＤプレイヤ－(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "くつろぎ着・たび"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "ロビー、カウンターバー（休業中）、インターネットコンシェルジュ（PC無料でご利用可）あり"
+      },
+      {
+        "item": "送迎：箱根湯本温泉旅館組合シャトルバスお一人様200円、毎時約15分、45分"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "部屋"
+      },
+      {
+        "dinnerPlace": "部屋"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "アルカリ単純泉"
+      },
+      {
+        "bathBenefits": "関節痛"
+      },
+      {
+        "bathBenefits": "神経痛"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      }
+    ],
+    "aboutLeisure": "ゴルフ,ハイキング,登山,美術館",
+    "handicappedFacilities": [],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "ご夕食を伴うお客様は、チェックインは18：00までにお願いします。夕食は18：00～18：30開始となります。,入湯税が別途必要です（お一人様150円）,0～2歳の乳幼児は食事・布団のご希望がなくてもお席料として、3,300円を徴収いたします。,3～4歳の幼児は「食事あり」「布団あり」「食事・布団なし」のいずれかをお選びください。※3～4歳で且つ食事も布団もご希望の場合は「食事・布団あり」になります。,乳幼児食事はお子様ランチとなります。,5歳以上の幼児は食事・布団の希望に関わらず「食事・布団あり」（大人料金の50％）となります,※お子様連れのお客様は「琥珀」「瑠璃」のみご利用可能となっております。ご了承くださいませ。,※なお、乳幼児とご一緒の方、「瑠璃」の露天風呂は館外にあり階段を利用しての移動がある為あまりおすすめはしておりません。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>2日前から           ：宿泊料金の50％    <BR>6日前から           ：宿泊料金の10％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "Master Card"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "チェックアウト時にコーヒーサービス,お部屋での抹茶サービス",
+    "otherInformation": null
+  }
+}

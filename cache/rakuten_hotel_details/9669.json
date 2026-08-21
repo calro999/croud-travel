@@ -1,0 +1,283 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 9669,
+    "hotelName": "箱根湯本温泉　箱根パークス吉野",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D9669",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D9669%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D9669",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D9669",
+    "hotelKanaName": "はこねゆもとおんせん　はこねぱーくすよしの",
+    "hotelSpecial": "楽天アワード2025　地上２０ｍ展望露天風呂からの眺望はリフレッシュに最適　三箇所ある貸切風呂も好評",
+    "hotelMinCharge": 7510,
+    "latitude": 126814.03,
+    "longitude": 500758.69,
+    "postalCode": "250-0312",
+    "address1": "神奈川県",
+    "address2": "足柄下郡箱根町湯本茶屋139-5",
+    "telephoneNo": "0460-85-8111",
+    "faxNo": "0460-85-5736",
+    "access": "箱根湯本駅より徒歩12分。お車では小田原厚木道路小田原西ICから国道1号線経由約12分。無料駐車場併設。",
+    "parkingInformation": "有り　４０台　無料",
+    "nearestStation": "箱根湯本",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9669/9669.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/9669.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9669/9669_war.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/9669.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9669/9669map.gif",
+    "reviewCount": 1474,
+    "reviewAverage": 4.27,
+    "userReview": "夕食のスイカ以外は完璧なリラックス空間夕食のスイカだけ甘みがよわくしょーもない味だったのが不満所直近で長野のスイカを食って比較できたので贅沢言い過ぎかもそれ以外ケチのつけようもないリラック…　2026-08-15 18:57:05投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=9669\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.27,
+    "locationAverage": 4.14,
+    "roomAverage": 4.2,
+    "equipmentAverage": 4.15,
+    "bathAverage": 4.31,
+    "breakfastAverage": 4.31,
+    "dinnerAverage": 4.35,
+    "cleanlinessAverage": 4.21
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "kanagawa",
+    "smallClassCode": "hakone",
+    "areaName": "箱根",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "19:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 76,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "全客室及び1階ロビー及び5階休憩所、２箇所の会議室にてインターネット接続(無線LAN形式) 可能"
+      },
+      {
+        "item": "キッズスペースが５階休憩所、２階ダイニング内（食事時間のみ）にございます。"
+      },
+      {
+        "item": "マッサージ・ナイトクラブ・喫茶・エステは当面の間休業しております。"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "児童遊園施設"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "卓球"
+      },
+      {
+        "item": "パソコン利用可"
+      },
+      {
+        "item": "E-Mail送信可"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "個室"
+      },
+      {
+        "dinnerPlace": "食事処"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathQuality": "単純温泉"
+      },
+      {
+        "bathQuality": "アルカリ単純泉"
+      },
+      {
+        "bathQuality": "低張性弱アルカリ性泉"
+      },
+      {
+        "bathBenefits": "関節痛"
+      },
+      {
+        "bathBenefits": "神経痛"
+      },
+      {
+        "bathBenefits": "慢性消化器病"
+      }
+    ],
+    "aboutLeisure": "渓流釣り,テニス,ゴルフ,サイクリング,ハイキング,トレッキング,博物館,水族館,フラワーパーク,美術館",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "バリアフリールーム"
+      },
+      {
+        "item": "車椅子利用者用客室あり"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "大浴場浴槽に手すりあり"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      }
+    ],
+    "linguisticLevel": "英語：日常的な内容は問題のないスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "●提携販売機能以外での旅行会社等他、商用利用によるご予約は第１８条（禁止事項）1の（5）により禁止されております。,●ご住所・お名前・ご連絡先等に不備や虚偽がある場合、予約無効とみなし当館側からキャンセル手続きをする場合がございます。これに関して当館は責任を負いません。,●入湯税が別途必要です（大人のみお一人様一泊あたり150円）,●ご同伴の場合、子供Aは小学生、子供Bは3～5歳、幼児2～0歳の方のご年齢を教えて下さい。2-0歳添寝の方無料ゆえ人数含めず備考欄に年齢と人数(例:2歳×1名)をお願いします。,●ご到着が18：00を過ぎる場合、必ず事前にご連絡をお願い致します。夕食付プランのご夕食の最終の開始時間は19：00となります。,●お食事のアレルギー対応等や内容変更等のリクエストは承りかねます。,●箱根湯本駅から旅館共同送迎バスAコース滝通り線約5分（有料片道12歳以上200円小学生100円）平日最終16：45。金・土・祝日最終17：45※21年1月26日改定情報,●喫煙可の部屋の禁煙室振替はできません。換気換気・灰皿撤去・消臭剤対応ご希望承りますが元々喫煙部屋ゆえ完全除去は確約できかねます。,●宿泊プランの通常チェックアウト時間は午前10時です。２時間延長の12時チェックアウトは5500円税込で承ります(休業日を除く)。日帰りはプランにより異なります。,●【貸切風呂】（有料）、【卓球台】（有料）の事前予約は承りかねます。当日フロントにて先着順でご予約承ります。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>2日前から           ：宿泊料金の30％    <BR>3日前から           ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "JTB"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "同伴されるお子様（小学生・幼稚園児）と幼児（未就学児）の方のご人数とご年齢を教えてください。,お車でお越しの場合予約フォームで「車」を選択してくださいご到着18時を過ぎる場合必ず当日ご連絡下さい,チェックアウト12:00ご希望希望の場合は5500円/室/税込にて承ります(休業日を除く)"
+  }
+}

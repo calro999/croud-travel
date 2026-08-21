@@ -1,0 +1,189 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 38542,
+    "hotelName": "阿蘇内牧温泉　御料理旅館　親和苑",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D38542",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D38542%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D38542",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D38542",
+    "hotelKanaName": "あそ　うちまきおんせん　おりょうりりょかん　しんわえん",
+    "hotelSpecial": "料理長が贈る美味しい芸術！【源泉掛け流し】露天風呂（男女別）／貸切家族風呂／離れ露天風呂付客室あり",
+    "hotelMinCharge": 11900,
+    "latitude": 118692.39,
+    "longitude": 471770.68,
+    "postalCode": "869-2301",
+    "address1": "熊本県",
+    "address2": "阿蘇市内牧1354",
+    "telephoneNo": "0967-32-0330",
+    "faxNo": "0967-32-4708",
+    "access": "肥後豊肥線　阿蘇駅より車で１５分程／肥後豊肥線　内牧駅より車で１５分程",
+    "parkingInformation": "有り　２０台　無料　先着順",
+    "nearestStation": "阿蘇",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38542/38542.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/38542.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38542/38542_kya.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/38542.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38542/38542map.gif",
+    "reviewCount": 192,
+    "reviewAverage": 4.48,
+    "userReview": "料理はクチコミ通りとても美味しいです。露天風呂は、一旦外に出て、隣の建物に。4箇所蚊に刺されながら、移動し、脱衣場は扇風機もなく汗だくで、シャワーも一つだけで、回りの人に気兼ねしながら洗うので、全くリ…　2026-07-30 10:57:12投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=38542\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.61,
+    "locationAverage": 4.39,
+    "roomAverage": 4.61,
+    "equipmentAverage": 4.45,
+    "bathAverage": 4.09,
+    "breakfastAverage": 4.68,
+    "dinnerAverage": 4.73,
+    "cleanlinessAverage": 4.52
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "kumamoto",
+    "smallClassCode": "aso",
+    "areaName": "阿蘇",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "16:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "18:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 12,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（固形）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "リンスインシャンプー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "部屋"
+      },
+      {
+        "breakfastPlace": "個室"
+      },
+      {
+        "dinnerPlace": "部屋"
+      },
+      {
+        "dinnerPlace": "個室"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "硫酸塩泉"
+      },
+      {
+        "bathBenefits": "打ち身"
+      },
+      {
+        "bathBenefits": "外傷"
+      },
+      {
+        "bathBenefits": "皮膚病"
+      }
+    ],
+    "aboutLeisure": "ゴルフ,パラグライダー,ハンググライダー,熱気球,サイクリング,乗馬,トレッキング,登山,動物園,博物館,フラワーパーク,テーマパーク",
+    "handicappedFacilities": [],
+    "linguisticLevel": "中国語：少し分かるスタッフが数人いる。<BR>英語：少し分かるスタッフが数人いる。<BR>韓国語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "・入湯税が別途必要です。（お一人様１５０円）,・チェックインが１８：００以降の場合必ずご連絡下さい,・本館和室にはお部屋にお風呂はついておりません,・貸切風呂（内風呂）は予約制ではありません（無料）,・サウナ付きプランをご予約の場合は、１６時～１７時、２０時～２０時半のご利用開始時間からご希望をご記入ください",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の60％    <BR>3日前から           ：宿泊料金の30％    <BR>7日前から           ：宿泊料金の20％    <BR>14日前から          ：宿泊料金の10％    ",
+    "availableCreditCard": [
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": null
+  }
+}

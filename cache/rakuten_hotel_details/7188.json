@@ -1,0 +1,265 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 7188,
+    "hotelName": "四季彩り　秋田づくし　湯瀬ホテル",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D7188",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D7188%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D7188",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D7188",
+    "hotelKanaName": "ゆぜおんせん　ゆぜ",
+    "hotelSpecial": "源泉かけ流しの「美人の湯」と創作秋田郷土料理を堪能できる「四季彩り、秋田づくし」の宿",
+    "hotelMinCharge": 12800,
+    "latitude": 144432.96,
+    "longitude": 507022.46,
+    "postalCode": "018-5141",
+    "address1": "秋田県",
+    "address2": "鹿角市八幡平字湯瀬湯端43",
+    "telephoneNo": "0186-33-2311",
+    "faxNo": "0186-33-2118",
+    "access": "東北道【鹿角八幡平IC】から車で10分JR盛岡駅から高速バスで73分（湯瀬パーキング下車）【大館能代空港】から車で1時間",
+    "parkingInformation": "１００台（無料）",
+    "nearestStation": "湯瀬温泉",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7188/7188.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/7188.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7188/7188_bath.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/7188.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7188/7188map.gif",
+    "reviewCount": 2228,
+    "reviewAverage": 4.61,
+    "userReview": "地元の食材を使ったビュッフェが絶品!地元の食材を使ったビュッフェで大変美味しかったです!また近いうちにリピートさせて頂きます!クチコミの詳細はこちらから　https://review.trav…　2026-08-15 13:19:12投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=7188\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.52,
+    "locationAverage": 4.48,
+    "roomAverage": 4.6,
+    "equipmentAverage": 4.47,
+    "bathAverage": 4.69,
+    "breakfastAverage": 4.6,
+    "dinnerAverage": 4.59,
+    "cleanlinessAverage": 4.54
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "akita",
+    "smallClassCode": "odate",
+    "areaName": "大館・鹿角・十和田大湯・八幡平",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "19:30"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 122,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送"
+      },
+      {
+        "item": "衛星放送（無料）"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "洗顔ソープ"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "ラウンジ"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "卓球"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "ダイニングルーム"
+      },
+      {
+        "dinnerPlace": "ダイニングルーム"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathQuality": "アルカリ単純泉"
+      },
+      {
+        "bathBenefits": "筋肉痛"
+      },
+      {
+        "bathBenefits": "美肌効果"
+      },
+      {
+        "bathBenefits": "リウマチ・神経病"
+      }
+    ],
+    "aboutLeisure": "釣り,渓流釣り,ゴルフ,ハイキング,スキー,山菜取り",
+    "handicappedFacilities": [
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "大浴場浴槽に手すりあり"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "予約直後に自動で確認メールを送ります。モバイルからの予約は通信環境や通信制限、迷惑メールフィルタ等の理由により届かない場合があります。必ずお客様ご自身で予約完了の可否および最終確認をお願いします。,大人（中学生以上）は、入湯税150円／人がかかります。宿泊施設で直接お支払いください。,3才以上のお子様はお食事なし／布団なしでのご予約はお受けできません。,夕食付のプランの場合、19：30（休前日等繁忙日は19：45）までに夕食会場にお入りください。,夕食の開始時間は到着時に伺いします。開始時間に希望ある場合、17：30～または19：30前後でしたら事前に電話で承ります。（0186-33-2311）,夕食付きのプランでご宿泊の場合は、宿泊当日18：00までに宿にお入りください。またはご連絡ください。それまでに連絡が無い場合は、無連絡キャンセルとみなします。,夕食無しのプランの宿泊予約であっても、宿泊当日20：00を過ぎても何も連絡が無い場合は、無連絡キャンセルとみなします。尚、門限は24：00です。,お車のナビゲーションシステムをご利用の場合、「湯瀬ホテル」で検索・設定して下さい。適切な場所を示さないアプリケーションがあります。,本予約（利用の申し込み）は、当館が定める宿泊約款に基づきます。必ず「当館公式ホームページ」記載の宿泊約款及び各種ご案内を確認ください。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日18時から        ：宿泊料金の100％   <BR>前日20時から        ：宿泊料金の80％    <BR>2日前20時から       ：宿���料金の50％    <BR>6日前20時から       ：宿泊料金の30％    <BR>8日前20時から       ：宿泊料金の10％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "ウェルカムドリンクサービス",
+    "otherInformation": null
+  }
+}

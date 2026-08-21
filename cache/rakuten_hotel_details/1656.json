@@ -1,0 +1,301 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 1656,
+    "hotelName": "熱海温泉　熱海後楽園ホテル",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D1656",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D1656%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D1656",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D1656",
+    "hotelKanaName": "あたみおんせん　あたみこうらくえんほてる",
+    "hotelSpecial": "熱海の夜景と相模灘を眼前に望める絶好のロケーション！源泉を使用した大展望風呂で、ゆっくりと温泉三昧。",
+    "hotelMinCharge": 9790,
+    "latitude": 126306.49,
+    "longitude": 500696.36,
+    "postalCode": "413-0023",
+    "address1": "静岡県",
+    "address2": "熱海市和田浜南町10-1",
+    "telephoneNo": "0557-81-0041",
+    "faxNo": "0557-83-6040",
+    "access": "東京から新幹線で50分！熱海駅よりタクシーで約10分。送迎バス　9:40～19:00まで40分毎",
+    "parkingInformation": "有り／120台　※2025年5月8日(木)より1泊につき500円/台(チェックアウト日の12時まで)",
+    "nearestStation": "熱海",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1656/1656.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/1656.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1656/1656_taki.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/1656.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1656/1656map.gif",
+    "reviewCount": 3071,
+    "reviewAverage": 4.4,
+    "userReview": "バイキングが美味しかったリピートです。お部屋もバイキングも大満足で、子ども達もまた行きたいと言っていました。残念だったのはチェックインの男性従業員の方の接客態度です。笑顔も見せず見下し…　2026-08-15 19:04:22投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=1656\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.42,
+    "locationAverage": 4.57,
+    "roomAverage": 4.56,
+    "equipmentAverage": 4.41,
+    "bathAverage": 4.52,
+    "breakfastAverage": 4.24,
+    "dinnerAverage": 4.24,
+    "cleanlinessAverage": 4.55
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "shizuoka",
+    "smallClassCode": "atami",
+    "areaName": "熱海",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "19:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 189,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "※熱海後楽園ホテルでは客室でご使用いただくアメニティ類の一部をアメニティバーにご用意しております。"
+      },
+      {
+        "item": "【アメニティバー設置備品】カミソリ、ブラシ、コットンセット(コットン・綿棒)・クレンジングオイル"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "バーラウンジ"
+      },
+      {
+        "item": "カラオケルーム"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "湯上がりサロン"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "セルフコインランドリーコーナー(無料)"
+      },
+      {
+        "item": "エステサロン"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "ルームサービス"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "料亭"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathType": "水風呂"
+      },
+      {
+        "bathQuality": "塩化物泉"
+      },
+      {
+        "bathQuality": "カルシウム泉"
+      },
+      {
+        "bathQuality": "ナトリウム泉"
+      },
+      {
+        "bathBenefits": "痛風"
+      },
+      {
+        "bathBenefits": "皮膚病"
+      },
+      {
+        "bathBenefits": "リウマチ・神経病"
+      }
+    ],
+    "aboutLeisure": "海水浴,釣り,海釣り,ヨット,クルージング,ダイビング,テニス,ゴルフ,パラグライダー,登山,博物館,美術館",
+    "handicappedFacilities": [
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "バリアフリールーム"
+      },
+      {
+        "item": "車椅子利用者用客室あり"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "・4歳～小学生未満のお子様は幼児(食事・布団付)を選択してください。但し食事無のプランでは食事が適用されません。素泊まりプランでは幼児(布団のみ)を選択してください。,・2～3歳のお子様は幼児(食事・布団不要)を選択してください。寝具を別途ご希望の場合には2,200円となります。,・0～1歳のお子様は人数欄には入力せず、備考欄に年齢と人数をご入力ください。,・お客様ご本人からのご予約のみとさせていただきます。（旅行会社からのご予約不可）,・全室禁煙となります。,・宿泊優待券等の割引券やカード会社などの割引サービスはご利用いただけません。,・大人お一人様150円の入湯税が別途加算されます。,・2025年4月1日のご宿泊より、大人1名様につき宿泊税200円を別途頂戴します。,・到着が19時半を過ぎますと、ご夕食の提供が出来ない事があります。予めご了承ください。,・館内の定期メンテナンスによる全館休業日がございます。詳しくは宿泊者情報入力の際の備考欄をご確認ください。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>2日前から           ：宿泊料金の50％    <BR>5日前から           ：宿泊料金の30％    <BR>7日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": null
+  }
+}

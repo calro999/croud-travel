@@ -1,0 +1,258 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 8529,
+    "hotelName": "鳥羽国際ホテル",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D8529",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D8529%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D8529",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D8529",
+    "hotelKanaName": "とばこくさいほてる",
+    "hotelSpecial": "鳥羽駅からシャトルバスで5分。神宮から車で約20分。",
+    "hotelMinCharge": 12100,
+    "latitude": 124157.79,
+    "longitude": 492640.57,
+    "postalCode": "517-0011",
+    "address1": "三重県",
+    "address2": "鳥羽市鳥羽1-23-1",
+    "telephoneNo": "0599-25-3121",
+    "faxNo": "0599-21-0054",
+    "access": "ＪＲ及び近鉄「鳥羽駅」より車で3分。近鉄鳥羽駅から無料シャトルバス有。（12:30～18:00の間毎時0分・30分）",
+    "parkingInformation": "有り 100台 （無料 ・ご予約不要）",
+    "nearestStation": "鳥羽",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8529/8529.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/8529.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8529/8529_ysw.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/8529.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8529/8529map.gif",
+    "reviewCount": 1081,
+    "reviewAverage": 4.42,
+    "userReview": "アクセスもサービスも最高、花火も楽しめた30分に1回程度駅までのシャトルバスを出して下さっていたり、潮路亭まで送迎して下さったりと、特にアクセスに関してはとてもホスピタリティが行き届いており、炎天…　2026-07-27 22:11:24投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=8529\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.6,
+    "locationAverage": 4.49,
+    "roomAverage": 4.5,
+    "equipmentAverage": 4.44,
+    "bathAverage": 4.36,
+    "breakfastAverage": 4.55,
+    "dinnerAverage": 4.63,
+    "cleanlinessAverage": 4.54
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "mie",
+    "smallClassCode": "toba",
+    "areaName": "鳥羽",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "14:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "24:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 84,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ベビーベッド"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "ナイトウェア"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "パジャマ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "ティーラウンジ"
+      },
+      {
+        "item": "バー"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "結婚式場"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "ベーカーショップ"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "ルームサービス"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [],
+    "aboutLeisure": "海水浴,ゴルフ,水族館,テーマパーク",
+    "handicappedFacilities": [
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      }
+    ],
+    "linguisticLevel": "中国語：少し分かるスタッフが数人いる。<BR>英語：日常的な内容は問題のないスタッフが数人いる。<BR>韓国語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "■「幼児（添い寝）」がいらっしゃる場合、ご年齢を備考欄にご記入下さい。「幼児(布団・食事不要）」「幼児（添い寝）」が3歳以上の場合、施設使用料2,200円を別途現地にて頂戴いたします。,■同じ敷地内の旅館潮路亭にある大浴場をご利用いただけます。（外に出てのご移動が必要です。）※入湯税150円を頂戴します。,■洋食レストランと和食レストランは別会場です。,■ご夕食は二部制となっております。ご希望の開始時間をお選びください。①17:30 ②20：00前後,■※食材・飲料に関してアレルギー等による制限がある方は、ご予約時にお知らせください。,■ツインルームを3名以上でご利用の場合、備え付けの２台のベッド以外にエキストラベッドをご用意します。,■和洋室を３名以上でご利用の場合、備え付けの２台のベッド以外に布団をご用意します。,■ハーバーウィングはフロント・レストランがあるオーシャンウィングから連絡通路（途中階段あり）を通ってのご移動が必要です。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の80％    <BR>3日前から           ：宿泊料金の50％    <BR>7日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "AEON"
+      },
+      {
+        "card": "JTB"
+      },
+      {
+        "card": "Takashimaya"
+      },
+      {
+        "card": "楽天カード"
+      },
+      {
+        "card": "JAL"
+      },
+      {
+        "card": "デビットカード"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "大浴場は、別館潮路亭にございます。※入湯税　大人１名様あたり150円,※0歳〜2歳までのお子様は無料(添い寝・お食事なし)となります。　,（※3歳〜未就学の添い寝・お食事なしのお子様の場合2,200円の施設利用料を頂戴いたします。)"
+  }
+}

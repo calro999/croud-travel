@@ -1,0 +1,325 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 4922,
+    "hotelName": "京都温泉　京湯元　ハトヤ瑞鳳閣",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D4922",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D4922%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D4922",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D4922",
+    "hotelKanaName": "きょうとおんせん　きょうゆもとはとやずいほうかく",
+    "hotelSpecial": "ミシュランガイド 京都ホテル部門　3つ星獲得（2020年）天然温泉を兼ね備えた「和」のホテル",
+    "hotelMinCharge": 7000,
+    "latitude": 125941.29,
+    "longitude": 488728.31,
+    "postalCode": "600-8234",
+    "address1": "京都府",
+    "address2": "京都市下京区西洞院通塩小路下ル南不動堂町802番地",
+    "telephoneNo": "075-361-1231",
+    "faxNo": "075-343-3193",
+    "access": "JR京都駅より西へ徒歩5分",
+    "parkingInformation": "※ホテル駐車場無し/提携駐車場有り（事前予約不可）",
+    "nearestStation": "京都",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/4922/4922.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/4922.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/4922/4922_kan.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/4922.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/4922/4922map.gif",
+    "reviewCount": 910,
+    "reviewAverage": 4.49,
+    "userReview": "スタッフの温かい対応と心遣いに感謝10年ぶりくらいに訪れました。今回は娘と祖母の女子旅最後の宿で2泊しました。初日の夜はこれまでの旅の疲れからか、夕飯時に娘が体調を崩してしまいましたがスタッフさん…　2026-08-15 22:18:33投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=4922\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.46,
+    "locationAverage": 4.49,
+    "roomAverage": 4.44,
+    "equipmentAverage": 4.43,
+    "bathAverage": 4.49,
+    "breakfastAverage": 4.56,
+    "dinnerAverage": 4.53,
+    "cleanlinessAverage": 4.49
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "kyoto",
+    "smallClassCode": "shi",
+    "areaName": "京都",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "24:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 102,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送（無料）"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "ファックス"
+      },
+      {
+        "item": "インターネット接続(LAN形式)"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（固形）"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "喫茶"
+      },
+      {
+        "item": "多目的室"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "茶室"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "広間"
+      },
+      {
+        "dinnerPlace": "広間"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "ナトリウム・塩化物炭酸水素塩泉"
+      },
+      {
+        "bathQuality": "塩化物泉"
+      },
+      {
+        "bathBenefits": "関節痛"
+      },
+      {
+        "bathBenefits": "神経痛"
+      },
+      {
+        "bathBenefits": "慢性消化器病"
+      }
+    ],
+    "aboutLeisure": "寺院,博物館,水族館",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "バリアフリールーム"
+      },
+      {
+        "item": "車椅子利用者用客室あり"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "館内の点字案内"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "【プラン以外の料金について】,お一人様あたり入湯税(150円)、宿泊税(200円から1000円)を別途頂きます。※入湯税は小学生以下(または相当する年齢)は免除されます。,【お子様のお食事について】,小学生低学年以下のお子様をご選択の場合、お食事はお子様用になります。(お子様食事がないプランの場合、プラン内容に表記しております),【ご到着に関するお願い】,ご到着予定時刻を過ぎるとキャンセルとしてお取り扱いさせて頂く場合もございます。お時間過ぎる場合は必ず施設までご連絡お願いいたいます。,本館はセルフチェックインを導入しており、予約時にSMSまたはメールで事前登録案内とチェックインコードをお送りします。,【お荷物について】,チェックイン日からチェックアウト日までお荷物をお預かりいたします。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の80％    <BR>前日                ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Discover"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "JACCS"
+      },
+      {
+        "card": "CF"
+      },
+      {
+        "card": "LIFE"
+      },
+      {
+        "card": "JTB"
+      },
+      {
+        "card": "楽天カード"
+      },
+      {
+        "card": "JAL"
+      },
+      {
+        "card": "デビットカード"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "ホテル駐車場無し,提携駐車場有り※事前予約不可　料金￥2500-（15：00〜翌10：00/途中出入庫不可）,時間外別途料金が出入庫毎に必要になります。予めご了承くださいませ。"
+  }
+}

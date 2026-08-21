@@ -1,0 +1,274 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 28606,
+    "hotelName": "伊香保温泉　福一",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D28606",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D28606%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D28606",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D28606",
+    "hotelKanaName": "いかほおんせん　ふくいち",
+    "hotelSpecial": "創業440年。石段街最上段「黄金の湯」「白銀の湯」二湯を有す数少ない宿。",
+    "hotelMinCharge": 9240,
+    "latitude": 131375.85,
+    "longitude": 500104.53,
+    "postalCode": "377-0102",
+    "address1": "群馬県",
+    "address2": "渋川市伊香保町伊香保香湯5-4",
+    "telephoneNo": "0279-20-3000",
+    "faxNo": "0279-72-5252",
+    "access": "渋川駅より伊香保温泉行きバス30分、終点伊香保温泉下車。新宿駅新南口発着の高速バス有※バス停から徒歩数分バス停まで送迎有",
+    "parkingInformation": "建物地下駐車場約50台 ※満車の場合は近隣駐車場を使う場合がございます",
+    "nearestStation": "渋川",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28606/28606.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/28606.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28606/28606_heya.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/28606.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28606/28606map.gif",
+    "reviewCount": 1684,
+    "reviewAverage": 4.3,
+    "userReview": "他の画像やクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/28606?reviewId=33123478705749　2026-08-10 23:03:36投稿"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.3,
+    "locationAverage": 4.39,
+    "roomAverage": 4.24,
+    "equipmentAverage": 4.22,
+    "bathAverage": 4.44,
+    "breakfastAverage": 4.35,
+    "dinnerAverage": 4.3,
+    "cleanlinessAverage": 4.33
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "gunma",
+    "smallClassCode": "ikaho",
+    "areaName": "伊香保温泉・渋川",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "19:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 83,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送"
+      },
+      {
+        "item": "衛星放送（無料）"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "全館無線LAN　無料にてご利用可能"
+      },
+      {
+        "item": "室内冷蔵庫にはドリンクを各種揃えております。（有料・別途）"
+      },
+      {
+        "item": "客室には給湯ポット、紅茶・緑茶・ほうじ茶をご用意。ロビーではコーヒー他無料のラウンジサービス有"
+      },
+      {
+        "item": "ティーラウンジ"
+      },
+      {
+        "item": "ナイトクラブ"
+      },
+      {
+        "item": "カラオケルーム"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "エステサロン"
+      },
+      {
+        "item": "茶室"
+      },
+      {
+        "item": "パソコン利用可"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "E-Mail送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "部屋"
+      },
+      {
+        "breakfastPlace": "個室"
+      },
+      {
+        "dinnerPlace": "部屋"
+      },
+      {
+        "dinnerPlace": "個室"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathQuality": "硫酸塩泉"
+      },
+      {
+        "bathQuality": "中性低張性冷鉱泉"
+      },
+      {
+        "bathBenefits": "胃腸病"
+      },
+      {
+        "bathBenefits": "神経痛"
+      },
+      {
+        "bathBenefits": "婦人病"
+      }
+    ],
+    "aboutLeisure": "伊香保グリーン牧場・榛名湖・榛名神社・伊香保スケートリンク・伊香保石段街・伊香保おもちゃ博物館他,ゴルフ,ハイキング,スキー,スケート,乗馬,登山,遊園地,博物館,美術館",
+    "handicappedFacilities": [
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "高齢者用料理への対応可能"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "入湯税　別途150円いただきます。,大人1名様・子供1名様でのご予約の場合はお子様も大人料金となります。,予約システム上はお子様料金での計算が表示されますが、ご予約を頂きました後、改めて当館より詳細をご案内させて頂きます。,※カーナビ設定の際は、マップコード「94 875 154*84」をご設定下さい。,※グー��ルナビでは「福一　駐車場」を入れて検索してください。,※当宿ではお客様の安全を考慮し、アレルギーや食べられない食材等に関するお食事内容の変更についてはお断りしております 。ご了承ください。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>3日前から           ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "OMC"
+      },
+      {
+        "card": "Bank Card"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      }
+    ],
+    "aboutCreditCardNote": "PayPay アリペイもご利用頂けます。",
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "赤ちゃんグッズ（オムツバケツ・ベビーバス他）、お子様のおもちゃ無料貸出有,ウェルカムドリンクサービス,着替え浴衣サービス,朝刊サービス",
+    "otherInformation": "カーナビには渋川市伊香保町伊香保香湯5-4　をご指定下さい。JR新宿駅新南口発着の高速バスあり,3タイプの貸切風呂はいづれも要予約。当日空きがあればその場でのご予約もOK　1回45分2000円〜,公式HPからのご予約なら、お得なご予約特典付き！公式HPもご覧ください。"
+  }
+}

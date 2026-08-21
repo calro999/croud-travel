@@ -1,0 +1,197 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 143323,
+    "hotelName": "草津温泉　湯畑の宿　佳乃や",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D143323",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D143323%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D143323",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D143323",
+    "hotelKanaName": "くさつおんせん　ゆばたけのやど　よしのや",
+    "hotelSpecial": "【PT10倍キャンペーン参加中】湯畑から徒歩２分！カジュアル旅籠（はたご）という新たなスタイルの宿。",
+    "hotelMinCharge": 8250,
+    "latitude": 131828.18,
+    "longitude": 498961.08,
+    "postalCode": "377-1711",
+    "address1": "群馬県",
+    "address2": "吾妻郡草津町草津95",
+    "telephoneNo": "0279-88-2422",
+    "faxNo": "0279-88-2423",
+    "access": "長野原草津口駅よりバス（ＪＲバス関東）乗車",
+    "parkingInformation": "2025年2月1日以降は駐車場の提供はございません。近隣駐車場をご利用ください。",
+    "nearestStation": "長野原草津口",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/143323/143323.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/143323.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/143323/143323_kan1.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/143323.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/143323/143323map.gif",
+    "reviewCount": 411,
+    "reviewAverage": 4.23,
+    "userReview": "全て良かったです。ただ一つWi-Fiが弱かったかな?クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/14…　2026-08-15 21:13:54投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=143323\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.24,
+    "locationAverage": 4.3,
+    "roomAverage": 4.17,
+    "equipmentAverage": 4.07,
+    "bathAverage": 4.12,
+    "cleanlinessAverage": 4.16
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "gunma",
+    "smallClassCode": "kusatsu",
+    "areaName": "草津温泉・白根",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "22:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 14,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "くつろぎ着・たび"
+      },
+      {
+        "item": "くつろぎ着の作務衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "ラウンジ"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "貸自転車"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "宅配便"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "食堂"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "酸性"
+      },
+      {
+        "bathQuality": "硫黄泉"
+      },
+      {
+        "bathQuality": "硫酸塩泉"
+      },
+      {
+        "bathBenefits": "五十肩"
+      },
+      {
+        "bathBenefits": "神経痛"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      }
+    ],
+    "aboutLeisure": "ゴルフ,サイクリング,スキー,登山,フラワーパーク,美術館",
+    "handicappedFacilities": [
+      {
+        "item": "客室内に洋式トイレあり"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "○入湯税: 中学生以上のお客様はご宿泊料金の他に入湯税をお支払いください。,金額はご宿泊本体料金が消費税別6,000円未満の場合100円、6,000円以上は150円となります。,○公共交通機関をご利用のお客様: お荷物のお預かりにはお時間の制限を設けておりません。チェックイン前、チェックアウト後も承りますので、ご入用の際はフロントへお申し出ください。,○お車にてお越しのお客様: 2025年2月1日以降は駐車場の提供はございません。,・「湯畑観光駐車場」等、近隣駐車場をご利用ください。,・冬期間にノーマルタイヤにてお越しの場合は発進、走行が行えない可能性がございます。装備の不備によるご予約の取り消しはキャンセル料の減免事由には該当いたしません。,・11月下旬から4月中旬頃までにお越しの場合は、スタッドレスタイヤやチェーン等をご用意いただくか、バス、電車への変更もご検討下さい。,◎ご予約お申し込みの完了に伴い、諸注意事項や各規約をご理解いただいているものと見做します。ご不明な点等は施設へ直接お問い合わせください。,　Tel. 0279-88-2422 / E-mail. info@yoshinoya932.com",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>2日前から           ：宿泊料金の30％    <BR>3日前から           ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Discover"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": "「現金特価」プランにてご予約の場合はクレジットカードでのお支払いはできません。",
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "男性用浴室: ドライヤー, 綿棒, くし, かみそり がございます。,女性用浴室: ドライヤー, 綿棒, くし, シャワーキャップ, 髪ゴム, 化粧品類 がございます。"
+  }
+}

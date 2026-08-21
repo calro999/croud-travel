@@ -1,0 +1,253 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 15408,
+    "hotelName": "日本の山岳温泉リゾート　新玉川温泉",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D15408",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D15408%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D15408",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D15408",
+    "hotelKanaName": "にほんの山岳おんせんりぞーと　しんたまがわおんせん",
+    "hotelSpecial": "強酸性日本一と言われる玉川温泉の源泉をそのまま掛け流し！",
+    "hotelMinCharge": 14850,
+    "latitude": 143854.53,
+    "longitude": 506597.74,
+    "postalCode": "014-1205",
+    "address1": "秋田県",
+    "address2": "仙北市田沢湖玉川",
+    "telephoneNo": "0187-58-3100",
+    "faxNo": "0187-58-3011",
+    "access": "カーナビを設定の場合、電話0187-58-3100でお願いします。",
+    "parkingInformation": "有り（無料）。　冬期間は田沢湖駅近くに無料駐車場有り。ご利用の際は、お問い合せ下さい。",
+    "nearestStation": "田沢湖",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15408/15408.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/15408.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15408/15408_wa.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/15408.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15408/15408map.gif",
+    "reviewCount": 1688,
+    "reviewAverage": 4.42,
+    "userReview": "強酸性泉を堪能できる湯治宿日本一の強酸性泉を堪能できる湯治宿なので、評価するのは難しいですが・・・新玉川温泉ホテルに泊まりますと、玉川温泉にも無料で入れます。ただし、無料バスの本数が少ないので事前…　2026-08-16 00:24:21投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=15408\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.35,
+    "locationAverage": 4.32,
+    "roomAverage": 4.32,
+    "equipmentAverage": 4.28,
+    "bathAverage": 4.7,
+    "breakfastAverage": 4.26,
+    "dinnerAverage": 4.26,
+    "cleanlinessAverage": 4.43
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "akita",
+    "smallClassCode": "tazawa",
+    "areaName": "角館・大曲・田沢湖",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "19:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 185,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送（無料）"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー(貸出)"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "館内には、バスタオルのご用意がございません。"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "カラオケルーム"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "レストラン(バイキング)"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathType": "岩盤浴"
+      },
+      {
+        "bathQuality": "酸性"
+      },
+      {
+        "bathQuality": "塩化物泉"
+      },
+      {
+        "bathQuality": "鉄泉"
+      },
+      {
+        "bathBenefits": "胃腸病"
+      },
+      {
+        "bathBenefits": "皮膚病"
+      },
+      {
+        "bathBenefits": "リウマチ・神経病"
+      }
+    ],
+    "aboutLeisure": null,
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリールーム"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "※当館は、湯治の宿になります。観光旅館ではありません。大人1日入湯税150円頂戴いたします。小学生以下は無料です。,※電車でお越しのお客様は、秋田新幹線で田沢湖駅下車、駅前から路線バスで約1時間片道1,700円をご利用下さい。,※当館に通ずる国道341号線は、例年11月上旬から夜間通行止め、12月1日からは一般車両通行止めになっております。開通は4月下旬の予定でございます。,※12月1日より路線バスの田沢湖駅出発の最終は、12：30になります。乗り遅れた場合はお越しいただけませんのでご注意下さい。,※冬期間、お車でお越しのお客様は、田沢湖町内に駐車場がございます���詳細に関しましては、駅の観光案内所（フォレイク）でお聞き下さい,※玉川温泉での岩盤浴には、ゴザ、古毛布等が必要になります。(冬期間はご利用になれません）",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の50％    <BR>前日                ：宿泊料金の40％    <BR>3日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "デビットカード"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": null
+  }
+}

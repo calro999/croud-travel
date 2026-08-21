@@ -1,0 +1,223 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 2477,
+    "hotelName": "大江戸温泉物語Ｐｒｅｍｉｕｍ　ホテルニュー塩原",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D2477",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D2477%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D2477",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D2477",
+    "hotelKanaName": "おおえどおんせんものがたりぷれみあ　ほてるにゅーしおばら",
+    "hotelSpecial": "ラウンジと館内湯めぐり、マルシェ風のレストラン。家族みんなでくつろぐひと時をお過ごしください。",
+    "hotelMinCharge": 8400,
+    "latitude": 133079.41,
+    "longitude": 503362.6,
+    "postalCode": "329-2921",
+    "address1": "栃木県",
+    "address2": "那須塩原市塩原705",
+    "telephoneNo": "050-3615-3456",
+    "faxNo": " ",
+    "access": "JR那須塩原駅下車　送迎バス運行　迎え13：50　送り10：30（予約制　※電話予約要・定員あり）",
+    "parkingInformation": "有り　２００台　無料",
+    "nearestStation": "那須塩原",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2477/2477.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/2477.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2477/2477_bi.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/2477.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2477/2477map.gif",
+    "reviewCount": 6017,
+    "reviewAverage": 4.05,
+    "userReview": "カニ食べ放題に満足夜はフリードリンクでアルコールがついているのですごくお得でした!カニ食べ放題のプランにしました!すごい量のカニがついてきてビックリお腹いっぱいになりました。お風呂は2カ所にあ…　2026-08-13 16:48:02投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=2477\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.04,
+    "locationAverage": 3.96,
+    "roomAverage": 3.95,
+    "equipmentAverage": 3.96,
+    "bathAverage": 4.14,
+    "breakfastAverage": 4.13,
+    "dinnerAverage": 4.09,
+    "cleanlinessAverage": 3.95
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "tochigi",
+    "smallClassCode": "shiobara",
+    "areaName": "塩原・矢板・大田原・西那須野",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "19:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 271,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "洗浄機付トイレ(一部)"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "カラオケルーム"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "美容院"
+      },
+      {
+        "item": "ゲームコーナー"
+      },
+      {
+        "item": "卓球"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "食事処"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "水風呂"
+      },
+      {
+        "bathQuality": "ナトリウム・塩化物炭酸水素塩泉"
+      },
+      {
+        "bathBenefits": "運動機能障害"
+      },
+      {
+        "bathBenefits": "リウマチ・神経病"
+      }
+    ],
+    "aboutLeisure": "渓流釣り,ゲートボール,ゴルフ,ハイキング,スキー,乗馬,トレッキング,陸上競技,遊園地,テーマパーク",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子利用者用客室あり"
+      }
+    ],
+    "linguisticLevel": "中国語：少し分かるスタッフが数人いる。<BR>英語：少し分かるスタッフが数人いる。<BR>韓国語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "大人の方（中学生以上）は入湯税150円が別途かかります。,※3歳以上の幼児のお子様は有料です。（食事・布団付）をご選択ください。3歳未満のお子様でお布団追加の場合は、追加料金2,200円でご用意いたします。事前にお知らせください。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の50％    <BR>前日                ：宿泊料金の50％    <BR>2日前から           ：宿泊料金の30％    <BR>7日前から           ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "大江戸温泉物語発行「いいふろ手形（割引クーポン券）はこちらのサイトからのご予約ではご使用出来ません"
+  }
+}

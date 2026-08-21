@@ -1,0 +1,232 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 68073,
+    "hotelName": "武雄温泉　なかます旅館",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D68073",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D68073%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D68073",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D68073",
+    "hotelKanaName": "なかますりょかん",
+    "hotelSpecial": "おもてなしひとすじ日本のこころ。できる限りのおもてなしをいたしたいと存じております。",
+    "hotelMinCharge": 10890,
+    "latitude": 119492.91,
+    "longitude": 468064.14,
+    "postalCode": "843-0022",
+    "address1": "佐賀県",
+    "address2": "武雄市武雄町武雄7377",
+    "telephoneNo": "0954-22-3118",
+    "faxNo": "0954-22-4917",
+    "access": "武雄温泉駅から徒歩１０分、車で３分",
+    "parkingInformation": "有り　１５台　無料　予約不要",
+    "nearestStation": "武雄温泉",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/68073/68073.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/68073.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/68073/68073_w.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/68073.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/68073/68073map.gif",
+    "reviewCount": 217,
+    "reviewAverage": 4.03,
+    "userReview": "夕食の配膳ミスと部屋の設備に不満事前に夕食の選べるメイン料理をお伝えしていたのに間違え、安い肉料理が並んでいました。謝罪されましたが、これからどう本当のメイン料理を出してもらえるのか女将から具体的…　2026-08-02 11:16:46投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=68073\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.1,
+    "locationAverage": 4.03,
+    "roomAverage": 4,
+    "equipmentAverage": 3.86,
+    "bathAverage": 4.34,
+    "breakfastAverage": 4.24,
+    "dinnerAverage": 3.91,
+    "cleanlinessAverage": 4.04
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "saga",
+    "smallClassCode": "ureshino",
+    "areaName": "嬉野・武雄・伊万里・有田・太良",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "24:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 35,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "ファックス"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫(一部)"
+      },
+      {
+        "item": "ドライヤー(貸出)"
+      },
+      {
+        "item": "電気スタンド"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "空気清浄機完備"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "部屋"
+      },
+      {
+        "breakfastPlace": "広間"
+      },
+      {
+        "dinnerPlace": "部屋"
+      },
+      {
+        "dinnerPlace": "広間"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "単純温泉"
+      },
+      {
+        "bathBenefits": "ストレス"
+      },
+      {
+        "bathBenefits": "美肌効果"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      }
+    ],
+    "aboutLeisure": "陶芸体験、窯元めぐり、有田やきものショッピング,テニス,ゴルフ,テーマパーク",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "(1)チェックイン予定時刻を過ぎる場合は、必ずご連絡をお願い致します。,(2)最終チェックイン及び門限は23時です。,(3)入湯税が別途必要です。(お一人様150円),(4)『幼児：食事・布団なし』のお子様は3歳未満に限らせていただきます。,(5)『幼児：食事・布団なし』（乳幼児・赤ちゃん除く）のお子様は施設利用料を￥1100(税込)いただいております。宿・施設内における怪我等への保険適応の為ですのでご理解ください。,(6)お子様料理は、お子様ランチ風です。,(7)大人料理を希望の場合は大人料金の80％にて承ります。※事前連絡必須,(8)中学生以上は大人料金になります。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>5日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "Master Card"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": null
+  }
+}

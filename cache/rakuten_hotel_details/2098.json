@@ -1,0 +1,252 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 2098,
+    "hotelName": "ホテルエクセル岡山＜後楽園・岡山城前＞",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D2098",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D2098%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D2098",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D2098",
+    "hotelKanaName": "えくせる　おかやま",
+    "hotelSpecial": "日本三名園の岡山後楽園、岡山城が散策圏内のホテルです♪岡山駅前→路面電車「城下」電停より徒歩約1分！",
+    "hotelMinCharge": 4100,
+    "latitude": 124785.86,
+    "longitude": 482160.9,
+    "postalCode": "700-0813",
+    "address1": "岡山県",
+    "address2": "岡山市北区石関町5-1",
+    "telephoneNo": "086-224-0505",
+    "faxNo": "086-224-2625",
+    "access": "岡山駅 後楽園口から路面電車（東山行き）に乗車、「しろした電停」下車徒歩1分／[E2]山陽道 岡山ICより約25分",
+    "parkingInformation": "専用駐車場1泊1000円（先着予約制）満車の場合は各提携駐車場へご案内致します。",
+    "nearestStation": "岡山",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2098/2098.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/2098.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2098/2098_kya.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/2098.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2098/2098map.gif",
+    "reviewCount": 3139,
+    "reviewAverage": 4.27,
+    "userReview": "喫茶店のホットドッグは食べ応え抜群フロント隣にある喫茶店のホットドッグは値段も手頃でポテトも外がサクッと揚がっていて中はホクホクでした。見た目より食べ応えがありました。お茶のほうじ茶パックがあ…　2026-08-15 22:45:05投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=2098\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.26,
+    "locationAverage": 4.3,
+    "roomAverage": 4.23,
+    "equipmentAverage": 4.13,
+    "bathAverage": 4.01,
+    "breakfastAverage": 4.45,
+    "dinnerAverage": 4.45,
+    "cleanlinessAverage": 4.18
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "okayama",
+    "smallClassCode": "okayama",
+    "areaName": "岡山",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "14:00",
+    "checkoutTime": "12:00",
+    "lastCheckinTime": "24:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 89,
+    "roomFacilities": [
+      {
+        "item": "有料テレビ"
+      },
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送"
+      },
+      {
+        "item": "有料ビデオ"
+      },
+      {
+        "item": "衛星放送（無料）"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(LAN形式)"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "ティーサーバー"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "湯沸かしポット(貸出)"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "★1Fアメニティコーナーあり。無料貸出品はフロントヘご用命ください。"
+      },
+      {
+        "item": "★客室テレビでYouTube、Hulu、AbemaやVODがご利用いただけます。"
+      },
+      {
+        "item": "★地下1F キッズスペース完備（餃子屋台前）"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "喫茶"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "ルームサービス"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [],
+    "aboutLeisure": "岡山後楽園まで徒歩約10分・岡山城まで徒歩約10分,テニス,ゴルフ,サッカー,サイクリング,ハイキング,博物館,美術館",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      }
+    ],
+    "linguisticLevel": "中国語：少し分かるスタッフが数人いる。<BR>英語：少し分かるスタッフが数人いる。<BR>韓国語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "車でお越しの方は事前にご連絡いただければ幸いです。状況に応じ下記の駐車場いずれかをメールにてご案内させていただきます。,ホテル専用駐車場1泊1000円（先着予約制 6台迄）【徒歩1分】　,提携駐車場 1泊1000円【徒歩2～3分】※駐車時間によっては追加料金が発生いたします。　",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の80％    <BR>前日                ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "AEON"
+      },
+      {
+        "card": "デビットカード"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": "Aカードのポイント 1％付与出来ます。",
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "館内レストラン10％割引券プレゼント",
+    "otherInformation": null
+  }
+}

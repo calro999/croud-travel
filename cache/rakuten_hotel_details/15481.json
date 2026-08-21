@@ -1,0 +1,238 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 15481,
+    "hotelName": "こんぴら温泉　つるや旅館＜香川県＞",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D15481",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D15481%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D15481",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D15481",
+    "hotelKanaName": "こんぴらおんせん　つるやりょかん＜かがわけん＞",
+    "hotelSpecial": "こんぴらさん表参道入口で創業１８０年！老舗温泉旅館の料理が一押し！全室Wi-Fi利用可能♪",
+    "hotelMinCharge": 8300,
+    "latitude": 123064.61,
+    "longitude": 481758.91,
+    "postalCode": "766-0001",
+    "address1": "香川県",
+    "address2": "仲多度郡琴平町620",
+    "telephoneNo": "0877-75-3154",
+    "faxNo": "0877-75-3039",
+    "access": "ＪＲ・琴電「琴平駅」下車 / 高松道 善通寺ＩＣより１５分　高松空港より直通バス有（約６０分）",
+    "parkingInformation": "有り　４０台　無料　＊土産売店がありますので「本日宿泊の○○」と名前を一言お申し出下さい。",
+    "nearestStation": "琴電琴平",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15481/15481.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/15481.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15481/15481_room.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/15481.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15481/15481map.gif",
+    "reviewCount": 863,
+    "reviewAverage": 3.76,
+    "userReview": "大浴場の排水詰まり、早急な対処が必要大浴場で体を洗っていると、いくら待っても、排水溝へ下水が流れず、シャワーの水圧でどうにかなるかトライしても、詰まった状態。我が家だけのほぼ独り占め状態でした…　2026-08-15 21:13:31投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=15481\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 3.92,
+    "locationAverage": 3.94,
+    "roomAverage": 3.44,
+    "equipmentAverage": 3.43,
+    "bathAverage": 3.39,
+    "breakfastAverage": 4.01,
+    "dinnerAverage": 3.93,
+    "cleanlinessAverage": 3.47
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "kagawa",
+    "smallClassCode": "kotohira",
+    "areaName": "琴平・観音寺",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "21:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 21,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー(一部)"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "リンスインシャンプー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "個室"
+      },
+      {
+        "dinnerPlace": "個室"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "ラドン温泉（銀泉）"
+      },
+      {
+        "bathQuality": "単純弱放射能泉（=単純弱ラドン泉）"
+      },
+      {
+        "bathBenefits": "肩凝り"
+      },
+      {
+        "bathBenefits": "痛風"
+      },
+      {
+        "bathBenefits": "冷え性"
+      }
+    ],
+    "aboutLeisure": "海水浴場・ゴルフ場・ブラックバス釣りと盛りだくさん。四国最大の遊園地ニューレオマワールド,海水浴,釣り,海釣り,テニス,ゴルフ,サッカー,サイクリング,ハイキング,登山,陸上競技,遊園地,博物館,水族館,テーマパーク",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "大浴場浴槽に手すりあり"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "・チェックインがPM18：00を越える際は必ず当日御連絡をお願いします。,・お子様連れの方はお子様の年齢と性別をお教えください。,キャンセル料は基本内容以外に別途規定がございます。詳しくは各プラン詳細をご確認ください。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>2日前から           ：宿泊料金の50％    <BR>4日前から           ：宿泊料金の30％    <BR>7日前から           ：宿泊料金の10％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "AEON"
+      },
+      {
+        "card": "JACCS"
+      },
+      {
+        "card": "APLUS"
+      },
+      {
+        "card": "JTB"
+      },
+      {
+        "card": "デビットカード"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "★素泊でも、当日２食付に変更可能なプラン他、各種プランあり,着替え浴衣サービス",
+    "otherInformation": null
+  }
+}

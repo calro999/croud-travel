@@ -1,0 +1,156 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 31675,
+    "hotelName": "草津温泉　中村屋旅館＜群馬県＞",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D31675",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D31675%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D31675",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D31675",
+    "hotelKanaName": "くさつおんせん　なかむらやりょかん＜ぐんまけん＞",
+    "hotelSpecial": "2024シルバーアワード受賞☆看板猫のなかにゃんずがお出迎え！/湯畑まで30秒♪",
+    "hotelMinCharge": 11900,
+    "latitude": 131829.23,
+    "longitude": 498958.01,
+    "postalCode": "377-1711",
+    "address1": "群馬県",
+    "address2": "吾妻郡草津町草津98",
+    "telephoneNo": "0279-88-2209",
+    "faxNo": "0279-88-3017",
+    "access": "■JR吾妻線■長野原草津口駅下車→草津温泉行きバスで20分→草津温泉バスターミナルより徒歩2分",
+    "parkingInformation": "湯畑観光駐車場1階　ご来館時に当日15時〜翌日10時までの駐車サービス券をお渡ししております。",
+    "nearestStation": null,
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31675/31675.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/31675.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31675/31675_room.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/31675.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31675/31675map.gif",
+    "reviewCount": 574,
+    "reviewAverage": 4.8,
+    "userReview": "個室温泉と猫が魅力、中心地へのアクセスも良好地下に個室温泉が5つあり、空いてるところへ自由に入れます。家族風呂のような感じですが2人位が限界かなと思いますお湯はかなり熱かったです飲み水…　2026-07-27 20:18:15投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=31675\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.83,
+    "locationAverage": 4.82,
+    "roomAverage": 4.51,
+    "equipmentAverage": 4.54,
+    "bathAverage": 4.76,
+    "breakfastAverage": 4.75,
+    "dinnerAverage": 4.83,
+    "cleanlinessAverage": 4.55
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "gunma",
+    "smallClassCode": "kusatsu",
+    "areaName": "草津温泉・白根",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "21:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 10,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "浴衣"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "モーニングコール"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "個室"
+      },
+      {
+        "breakfastPlace": "広間"
+      },
+      {
+        "dinnerPlace": "個室"
+      },
+      {
+        "dinnerPlace": "広間"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathQuality": "酸性"
+      },
+      {
+        "bathBenefits": "外傷"
+      },
+      {
+        "bathBenefits": "皮膚病"
+      }
+    ],
+    "aboutLeisure": "テニス,サッカー,ハイキング,スキー",
+    "handicappedFacilities": [],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "入湯税：別途150円,専用駐車場：なし,草津温泉バスターミナル横【湯畑観光駐車場1階】に駐車,駐車サービス券配布：当日15時～翌日10時,冷房：なし,ペットのご宿泊は不可となります",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の100％   <BR>3日前から           ：宿泊料金の50％    <BR>7日前から           ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Discover"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": null
+  }
+}

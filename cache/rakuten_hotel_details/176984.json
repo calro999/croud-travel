@@ -1,0 +1,204 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 176984,
+    "hotelName": "ＧＬＡＭＰＩＮＧ　藤乃煌　富士御殿場",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D176984",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D176984%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D176984",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D176984",
+    "hotelKanaName": "ぐらんぴんぐ　ふじのきらめき　ふじごてんば",
+    "hotelSpecial": "目の前は雄大な富士山！ ホテルのような快適空間にキャンプの楽しみをプラスしたグランピングリゾート",
+    "hotelMinCharge": 14000,
+    "latitude": 127020.75,
+    "longitude": 500244.64,
+    "postalCode": "412-0026",
+    "address1": "静岡県",
+    "address2": "御殿場市東田中3373-25",
+    "telephoneNo": "050-3504-9933",
+    "faxNo": "0465-43-8698",
+    "access": "最寄り駅　ＪＲ　御殿場駅／東名　御殿場ＩＣ",
+    "parkingInformation": "施設内に無料駐車場あり",
+    "nearestStation": "御殿場",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/176984/176984.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/176984.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/176984/176984_kan1.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/176984.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/176984/176984map.gif",
+    "reviewCount": 167,
+    "reviewAverage": 4.29,
+    "userReview": "富士山を望む最高の朝と充実の設備で大満足1日目は曇ってましたが、翌日の朝にはしっかりと部屋の目の前に富士山が見えて、最高の朝でした!遊べる場所もあり、バーベキューは持ち込みも自由で、お…　2026-08-14 09:09:57投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=176984\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.28,
+    "locationAverage": 4.46,
+    "roomAverage": 4.26,
+    "equipmentAverage": 4.14,
+    "bathAverage": 4.2,
+    "breakfastAverage": 4.34,
+    "dinnerAverage": 4.44,
+    "cleanlinessAverage": 4.23
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "shizuoka",
+    "smallClassCode": "numazu",
+    "areaName": "御殿場・沼津・三島",
+    "hotelClassCode": "PENSION",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "17:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 24,
+    "roomFacilities": [
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ベビーベッド"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "ナイトウェア"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "パジャマ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "ミニキッチン"
+      },
+      {
+        "item": "ペット同宿可"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "部屋"
+      },
+      {
+        "dinnerPlace": "部屋"
+      }
+    ],
+    "aboutBath": [],
+    "aboutLeisure": "釣り,ゴルフ,乗馬,登山,美術館",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "バリアフリールーム"
+      },
+      {
+        "item": "車椅子利用者用客室あり"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "チェックインが予定時間を過ぎる場合は必ずご連絡ください。フロントデスクは18時で閉まります。,食事のアレルギー対応はいたしかねます。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>3日前から           ：宿泊料金の30％    <BR>7日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "Master Card"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "ウェルカムドリンクサービス",
+    "otherInformation": null
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 30766,
+    "hotelName": "仙台　秋保温泉　ホテル瑞鳳",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D30766",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D30766%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D30766",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D30766",
+    "hotelKanaName": "あきうおんせん　ずいほう",
+    "hotelSpecial": "仙台中心街からお車で約30分。温泉とともに楽しむ、“食”の贅沢ビュッフェ♪",
+    "hotelMinCharge": 14000,
+    "latitude": 137588.81,
+    "longitude": 506657.47,
+    "postalCode": "982-0241",
+    "address1": "宮城県",
+    "address2": "仙台市太白区秋保町湯元除26-1",
+    "telephoneNo": "0570-550-397",
+    "faxNo": "022-397-1122",
+    "access": "東北自動車道仙台南ICより15分。仙台市街地まで車で約40分。JR仙台駅東口無料シャトルバス運行（※定員制のため要予約）",
+    "parkingInformation": "約３００台駐車可能な無料駐車場完備。少し離れた当館駐車場へは送迎あり。",
+    "nearestStation": "仙台",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/30766/30766.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/30766.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/30766/30766_kan.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/30766.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/30766/30766map.gif",
+    "reviewCount": 6828,
+    "reviewAverage": 4.46,
+    "userReview": "また行きたい温泉旅館でしたお誕生日のプレゼント第一弾として、蟹が食べたいとリクエストしたら、こちらの温泉を予約してもらいました。夕食ビッフェ、朝食ビュッフェどちらも品数豊富で、とても楽しい食事…　2026-08-15 12:52:01投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=30766\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.47,
+    "locationAverage": 4.38,
+    "roomAverage": 4.4,
+    "equipmentAverage": 4.31,
+    "bathAverage": 4.43,
+    "breakfastAverage": 4.55,
+    "dinnerAverage": 4.6,
+    "cleanlinessAverage": 4.39
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "miyagi",
+    "smallClassCode": "akiu",
+    "areaName": "秋保・作並",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "18:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 117,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "ＣＳ放送（有料）"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(一部、無線LAN形式)"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（固形）"
+      },
+      {
+        "item": "リンスインシャンプー"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "ティーラウンジ"
+      },
+      {
+        "item": "バー"
+      },
+      {
+        "item": "居酒屋コーナー"
+      },
+      {
+        "item": "カラオケルーム"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "プール(通年)"
+      },
+      {
+        "item": "ゲームコーナー"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "レストラン(バイキング)"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "水風呂"
+      },
+      {
+        "bathQuality": "ナトリウム・カルシウム塩化物泉"
+      },
+      {
+        "bathBenefits": "関節痛"
+      },
+      {
+        "bathBenefits": "筋肉痛"
+      },
+      {
+        "bathBenefits": "神経痛"
+      }
+    ],
+    "aboutLeisure": "渓流釣り,ゴルフ,遊園地,美術館",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "入湯税として大人お一人様別途１５０円頂戴しております。令和8年1月13日（火）より宿泊税が課税となります,チェックイン１５：００～。チェックアウト翌朝10：00,大浴場メンテナンス 2025年12月9日・12月10日、2026年7月14日・7月15日、12月15日・12月16日 左記日程の10～15時の時間内は大浴場がご利用いただけません。,お子様料金は、３歳～１２歳（小学６年生／幼児食事・布団あり）は、大人料金の７０％。,１歳・２歳のお子様は、幼児入館料として、２，２００円（幼児食事・布団なしで設定ください）,プール休止日 2025年12月1日～12月4日、 2026年3月2日～3月5日、6月8日～6月12日、9月7日～9月10日、12月7日～12月10日、 2027年3月8日～3月11日,ご到着のお時間が18：00を過ぎる場合は、事前にご連絡をください(ＴＥＬ0570-550-397）,★日本の法律により外国籍の方はパスポートまたは永住許可証の提示を求めています。（宿泊者・予約者ともに含む）,★宿泊者氏名、連絡先、予約者氏名、連絡先に虚偽がある場合は、予約をキャンセル致しますのでご注意ください。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>7日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "楽天カード"
+      },
+      {
+        "card": "ANA"
+      },
+      {
+        "card": "JAL"
+      },
+      {
+        "card": "デビットカード"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "刺青、タトゥー、タトゥーシール、ボディペイント等をされている方、,過度の飲酒をされている方、伝染する疾患をお持ちの方のご入浴はお断りしております。"
+  }
+}

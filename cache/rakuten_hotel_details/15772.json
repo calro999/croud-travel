@@ -1,0 +1,358 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 15772,
+    "hotelName": "原鶴温泉　ホテルパーレンス小野屋",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D15772",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D15772%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D15772",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D15772",
+    "hotelKanaName": "はらつるおんせん　ばーれんす　おのや",
+    "hotelSpecial": "【楽天トラベルアワード9年連続受賞】創業145年。優しさが詰った畳風呂と、心尽しの美食が人気の老舗宿",
+    "hotelMinCharge": 9350,
+    "latitude": 120054.71,
+    "longitude": 470821.42,
+    "postalCode": "838-1514",
+    "address1": "福岡県",
+    "address2": "朝倉市杷木久喜宮1841-1 ",
+    "telephoneNo": "0946-62-1120",
+    "faxNo": "0946-62-2738",
+    "access": "福岡市内から約60分！大分自動車道・杷木ＩＣより約5分！名跡『秋月城址』まで車で30分、太宰府まで車で50分",
+    "parkingInformation": "無料100台有り■玄関前以外はバレーサービス■ハイルーフ・マイクロでも安心のアスファルト敷平面",
+    "nearestStation": "筑後吉井",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15772/15772.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/15772.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15772/15772_wyo.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/15772.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15772/15772map.gif",
+    "reviewCount": 1947,
+    "reviewAverage": 4.34,
+    "userReview": "お風呂と食事が最高、また泊まりたい宿離れに泊まりました。お部屋のお風呂最高でした。夕食も翌日の朝食も洗練されていて上品でおいしかったです。最初車で到着した時に出迎えて待っておられた方の対応が微…　2026-08-11 08:10:29投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=15772\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.41,
+    "locationAverage": 4.23,
+    "roomAverage": 4.35,
+    "equipmentAverage": 4.28,
+    "bathAverage": 4.44,
+    "breakfastAverage": 4.45,
+    "dinnerAverage": 4.26,
+    "cleanlinessAverage": 4.36
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "hukuoka",
+    "smallClassCode": "kurume",
+    "areaName": "久留米・甘木・原鶴温泉・筑後川温泉",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "21:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 55,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "有線"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "電気スタンド"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "ＣＤプレイヤ－(貸出)"
+      },
+      {
+        "item": "カセットデッキ(貸出)"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（固形）"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "リンスインシャンプー"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "洗顔ソープ"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "全客室Wi-Fi接続可能"
+      },
+      {
+        "item": "最寄駅・バス停まで無料送迎【お迎えは18時迄】"
+      },
+      {
+        "item": "加湿空気清浄器完備※シングルルームは貸出"
+      },
+      {
+        "item": "ラウンジ"
+      },
+      {
+        "item": "多目的室"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "結婚式場"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "湯上がりサロン"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "卓球"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      },
+      {
+        "dinnerPlace": "食事処"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathType": "水風呂"
+      },
+      {
+        "bathQuality": "弱アルカリ単純泉"
+      },
+      {
+        "bathQuality": "硫黄泉"
+      },
+      {
+        "bathBenefits": "健康"
+      },
+      {
+        "bathBenefits": "美容"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      }
+    ],
+    "aboutLeisure": "フルーツ狩り（梨・葡萄・柿・いちご）が盛んです。,テニス,ゴルフ,サイクリング,ハイキング,登山,博物館,フラワーパーク,テーマパーク",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "バリアフリールーム"
+      },
+      {
+        "item": "車椅子利用者用客室あり"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "大浴場浴槽に手すりあり"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "入湯税（大人150円）、宿泊税（1人200円）が別途必要です。,幼児対象は3歳～5歳（2歳以下で食事・布団無しは無料。人数は入力せずに備考欄にご記入下さい。）2歳以下で食事・布団有りは幼児に準ずる。,小学生のお子様は大人の方と同じ料理をお出しします。（※ただしファミリープランは除く）お子様用の食事をご希望の場合はご連絡くださいませ。,2026年4月以降、大人と同じお料理をご希望の小学生のお子様は大人の区分で人数を入力してください。小学生でご入力の場合はお子様ランチのご提供となります。,離れ待月庵、北欧風コンセプト和洋室及び離れレストラン『寿泉～Jusen～』で食事するプランは小学生以下のお子様はご遠慮いただいております。ご了承の上お申し込みくださいませ。,20:00以降のお食事は作り置きになりますので、ご了承くださいませ。,選べる特典・選べるアクティビティプランのお客様は特典またはアクティビティをご選択ください。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>3日前から           ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "Bank Card"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "LIFE"
+      },
+      {
+        "card": "楽天カード"
+      },
+      {
+        "card": "JAL"
+      },
+      {
+        "card": "デビットカード"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "ロビーラウンジでは宿泊者様限定でコーヒーやジュースの無料サービスをご用意,将棋無料貸出,囲碁無料貸出",
+    "otherInformation": null
+  }
+}

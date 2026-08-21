@@ -1,0 +1,232 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 68139,
+    "hotelName": "水上温泉郷　ゆびそ温泉　ホテル湯の陣（伊東園ホテルズ）",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D68139",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D68139%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D68139",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D68139",
+    "hotelKanaName": "みなかみおんせんきょう　ゆびそおんせん　ほてるゆのじん",
+    "hotelSpecial": "大浴場・露天風呂を備えた天然温泉にてお待ちしております。",
+    "hotelMinCharge": 6248,
+    "latitude": 132509.67,
+    "longitude": 500356.12,
+    "postalCode": "379-1728",
+    "address1": "群馬県",
+    "address2": "利根郡みなかみ町湯桧曽208",
+    "telephoneNo": "0570-059-780",
+    "faxNo": "0278-72-4114",
+    "access": "ＪＲ　湯桧曽駅から徒歩15分",
+    "parkingInformation": "有り　110台　無料　予約不要",
+    "nearestStation": "湯檜曽",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/68139/68139.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/68139.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/68139/68139_k.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/68139.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/68139/68139map.gif",
+    "reviewCount": 1028,
+    "reviewAverage": 3.91,
+    "userReview": "部屋は広くて綺麗だが温泉の塩素臭が気になる温泉宿なのに塩素臭が強い伊東園ホテルの大箱施設は、どこも同じようなものなので普通とも言える露天風呂は、虻だか蜂だか羽虫が飛び回るのでゆっくり入って…　2026-08-15 23:27:48投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=68139\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 3.86,
+    "locationAverage": 3.88,
+    "roomAverage": 3.86,
+    "equipmentAverage": 3.79,
+    "bathAverage": 4.03,
+    "breakfastAverage": 3.78,
+    "dinnerAverage": 3.71,
+    "cleanlinessAverage": 3.85
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "gunma",
+    "smallClassCode": "numata",
+    "areaName": "水上・猿ヶ京・沼田",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "24:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 108,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー(貸出)"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "クシ・ブラシ・歯ブラシ・カミソリ・シャワーキャップ・コットンセットは"
+      },
+      {
+        "item": "プラスチック資源循環促進法により各部屋には設置しておりません。"
+      },
+      {
+        "item": "1F浴衣コーナー隣にご準備しております。"
+      },
+      {
+        "item": "ラウンジ"
+      },
+      {
+        "item": "カラオケルーム"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "プール(夏期のみ)"
+      },
+      {
+        "item": "ゲームコーナー"
+      },
+      {
+        "item": "卓球"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "レストラン(バイキング)"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "単純温泉"
+      },
+      {
+        "bathQuality": "低張性弱アルカリ性泉"
+      },
+      {
+        "bathBenefits": "打ち身"
+      },
+      {
+        "bathBenefits": "筋肉痛"
+      },
+      {
+        "bathBenefits": "五十肩"
+      }
+    ],
+    "aboutLeisure": "ラフティング,釣り,渓流釣り,カヌー,ウォータースポーツ,渓流下り,川上り,バンジージャンプ,テニス,ゴルフ,ハイキング,スキー,ロッククライミング,トレッキング,登山,フラワーパーク,美術館",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "入湯税が別途必要です。（大人お一人様１５０円）,幼児料金の入力は、3歳～6歳は【幼児（食事・布団付）】に入力、【幼児（食事無し・布団無し】への入力は0歳～2歳のお子様のみです。,3歳未満のお子さま（添い寝幼児）は無料です。,幼児（3歳以上）の食事・布団はご用意させていただきます。,お客様と現状に差異が認められた場合、現地にて差額を徴収させていただきます。,当日連絡のつきやすい携帯番号をご入力ください。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の50％    <BR>前日                ：宿泊料金の40％    <BR>7日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "将棋無料貸出,麻雀無料貸出,囲碁無料貸出",
+    "otherInformation": null
+  }
+}

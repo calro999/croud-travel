@@ -1,0 +1,178 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 69268,
+    "hotelName": "弥彦温泉　旅館　清水屋＜新潟県西蒲原郡＞",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D69268",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D69268%26f_flg%3DPLAN",
+    "dpPlanListUrl": null,
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D69268",
+    "hotelKanaName": "しみずや",
+    "hotelSpecial": "越後一ノ宮弥彦神社から一番近く、手づくりの味わいと落ち着いた雰囲気が特徴の宿です。",
+    "hotelMinCharge": 12100,
+    "latitude": 135725.37,
+    "longitude": 499790.68,
+    "postalCode": "959-0323",
+    "address1": "新潟県",
+    "address2": "西蒲原郡弥彦村弥彦2921-1",
+    "telephoneNo": "0256-94-2015",
+    "faxNo": "0256-94-5130",
+    "access": "弥彦線　弥彦駅から徒歩11分",
+    "parkingInformation": "有り　8台　無料　",
+    "nearestStation": "弥彦",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/69268/69268.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/69268.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/69268/69268_k.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/69268.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/69268/69268map.gif",
+    "reviewCount": 74,
+    "reviewAverage": 4.15,
+    "userReview": "長岡花火大会で利用しました長岡花火大会の後に利用しました。花火後チェックインのプランだったのですが、事前に何度かご相談して14時半ぐらいの早めの時間帯にチェックインさせていただき感謝しています…　2026-08-14 22:58:02投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=69268\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.24,
+    "locationAverage": 4.33,
+    "roomAverage": 4.16,
+    "equipmentAverage": 4,
+    "bathAverage": 4.08,
+    "breakfastAverage": 4.1,
+    "dinnerAverage": 4,
+    "cleanlinessAverage": 4.25
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "niigata",
+    "smallClassCode": "kita",
+    "areaName": "長岡・燕三条・柏崎・弥彦・岩室・寺泊",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "19:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 10,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "インターネット接続(一部、無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "食事処"
+      },
+      {
+        "dinnerPlace": "広間"
+      },
+      {
+        "dinnerPlace": "食事処"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "アルカリ単純泉"
+      },
+      {
+        "bathBenefits": "打ち身"
+      },
+      {
+        "bathBenefits": "筋肉痛"
+      },
+      {
+        "bathBenefits": "五十肩"
+      }
+    ],
+    "aboutLeisure": "海水浴,釣り,海釣り,テニス,ゴルフ,ハンググライダー,サイクリング,トレッキング,登山,水族館,美術館,山菜取り",
+    "handicappedFacilities": [
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "大浴場浴槽に手すりあり"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "チェックインが到着予定時間より遅れる場合はご連絡下さい。,入湯税が別途必要です（お１人様１５０円）",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    ",
+    "availableCreditCard": [
+      {
+        "card": "利用不可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": null
+  }
+}

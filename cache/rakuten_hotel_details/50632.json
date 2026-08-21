@@ -1,0 +1,277 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 50632,
+    "hotelName": "スーパーホテル弘前",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D50632",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D50632%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D50632",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D50632",
+    "hotelKanaName": "すーぱーほてるひろさき",
+    "hotelSpecial": "◆弘前市内の土手町で唯一の天然温泉＆日替わりバイキング朝食無料◆52台駐車場（先着順／500円）◆",
+    "hotelMinCharge": 5450,
+    "latitude": 146141.32,
+    "longitude": 505726.63,
+    "postalCode": "036-8182",
+    "address1": "青森県",
+    "address2": "弘前市土手町148",
+    "telephoneNo": "0172-35-9000",
+    "faxNo": "0172-39-4150",
+    "access": "弘前駅より徒歩約１2分　100円バスで6分　東北自動車道路「大鰐弘前ＩＣ」より20分　駐車場は先着順（1台500円/泊）",
+    "parkingInformation": "有　徒歩３分　５２台　１区画５００円／先着順(１５時〜翌朝１０時）。満車の場合は周辺駐車場をご案内。",
+    "nearestStation": "弘前",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/50632/50632.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/50632.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/50632/50632_kya.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/50632.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/50632/50632map.gif",
+    "reviewCount": 2725,
+    "reviewAverage": 4.06,
+    "userReview": "充実した設備と朝食 清潔な部屋、栄養素を考えた朝食、男女入替えですが温泉大浴場と、低価格ですが、充実した施設設備と対応でした。ただ一つだけ残念なのは、駐車場がいっぱいで5分程歩いていく場所しか空い…　2026-08-15 21:58:38投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=50632\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.1,
+    "locationAverage": 3.98,
+    "roomAverage": 4.08,
+    "equipmentAverage": 4.07,
+    "bathAverage": 3.96,
+    "breakfastAverage": 4.03,
+    "dinnerAverage": 3.91,
+    "cleanlinessAverage": 4.11
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "aomori",
+    "smallClassCode": "hirosaki",
+    "areaName": "弘前・黒石",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "24:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 100,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送"
+      },
+      {
+        "item": "有線"
+      },
+      {
+        "item": "インターネット接続(LAN形式)"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "パジャマ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "全館で無料wifi対応完備です！"
+      },
+      {
+        "item": "全室に加湿器付きの空気清浄機（プラズマクラスター）完備。"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "breakfastPlace": "食堂"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      },
+      {
+        "dinnerPlace": "食事処"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "ナトリウム塩化物泉"
+      },
+      {
+        "bathBenefits": "関節痛"
+      },
+      {
+        "bathBenefits": "冷え性"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      }
+    ],
+    "aboutLeisure": "テニス,ゴルフ,サッカー,サイクリング,ハイキング,スキー,クロスカントリー,トレッキング,登山,美術館,山菜取り",
+    "handicappedFacilities": [
+      {
+        "item": "バリアフリー用トイレ"
+      }
+    ],
+    "linguisticLevel": "中国語：少し分かるスタッフが数人いる。<BR>英語：日常的な内容は問題のないスタッフが数人いる。<BR>韓国語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "ご精算は現金及びクレジットカードでの前精算となります。,チェックインは15～24時です。24時以降のチェックインはお受けできません。フロント営業時間は7時～24時です。,お部屋には電話機がございませんので、外線のお取次ぎや内線でのやりとりはできません。,連泊中の客室清掃は「清掃なし」を基本としております。清掃希望のお客様は10時～一斉清掃の為、10時～15時の間お部屋にご滞在頂けません。,チェックイン予定時刻を大幅に過ぎる場合は必ずご連絡をお願いいたします。ご連絡なき場合はキャンセルとみなします。その場合１００％のキャンセル料を頂戴します。,宿泊者以外の方の客室への立ち入りは固くお断りいたします。,チェックイン時間等の確認の為、当ホテルよりお電話を差し上げる場合がございますので、ご連絡先は当日確実にご連絡が取れる携帯電話番号をお知らせください。,チェックイン後の門限はございません。チェックインした方のみ（暗証番号が発行されるので）24時間出入りはご自由です。お早目のチェックインをお願いいたします。,団体様（5室以上）でご予約の場合、キャンセル規約が異なります。別途お電話にて必ずお問い合わせください。,スタンダードルームのご予約は予約状況によりスーパールームへご案内となることがあります。予めご了承ください。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "OMC"
+      },
+      {
+        "card": "Bank Card"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "AEON"
+      },
+      {
+        "card": "JACCS"
+      },
+      {
+        "card": "ORICO"
+      },
+      {
+        "card": "Daimaru"
+      },
+      {
+        "card": "Takashimaya"
+      },
+      {
+        "card": "楽天カード"
+      },
+      {
+        "card": "ANA"
+      },
+      {
+        "card": "JAL"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": "事前カード決済の場合、領収書の発行は現地でできません。ご自身のマイページよりお願いします。",
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "朝食時ドリンク無料サービス♪　コーヒー、緑茶、ジュースもあります！",
+    "otherInformation": "弘前城へ徒歩２０分圏内、ねぷた祭りはメインコースが建物すぐ横の通りと好立地！,津軽三味線の演奏を聴きながら〜という居酒屋さんも近隣になんと3店舗の好立地！,天然温泉と無料の日替わり朝食メニューも大好評です！！"
+  }
+}

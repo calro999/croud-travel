@@ -1,0 +1,271 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 153452,
+    "hotelName": "金沢湯涌温泉　百楽荘",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D153452",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D153452%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D153452",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D153452",
+    "hotelKanaName": "かなざわゆわくおんせん　ひゃくらくそう",
+    "hotelSpecial": "2022楽天ゴールドアワード＆日本の宿47☆ダブル受賞",
+    "hotelMinCharge": 18172,
+    "latitude": 131351.26,
+    "longitude": 492330.57,
+    "postalCode": "920-1122",
+    "address1": "石川県",
+    "address2": "金沢市湯涌荒屋町92-3",
+    "telephoneNo": "076-235-1110",
+    "faxNo": "076-235-1119",
+    "access": "★金沢中心街より車で20分★「金沢駅・兼六園」より“無料送迎”！お帰りは金沢駅近くへ荷物お届けサービス◎手ぶら観光もOK",
+    "parkingInformation": "屋外駐車場有",
+    "nearestStation": "金沢",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/153452/153452.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/153452.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/153452/153452_kan1.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/153452.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/153452/153452map.gif",
+    "reviewCount": 766,
+    "reviewAverage": 4.66,
+    "userReview": "評判通りのお宿でした到着後のアフタヌーンティー、ラウンジでのおつまみなどもどれもおしゃれで素敵でした。夕食も朝食もとても美味しかったです。夕食後はお夜食のおむすびも行きのお迎えバス…　2026-08-14 07:26:17投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=153452\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.71,
+    "locationAverage": 4.43,
+    "roomAverage": 4.67,
+    "equipmentAverage": 4.63,
+    "bathAverage": 4.6,
+    "breakfastAverage": 4.74,
+    "dinnerAverage": 4.72,
+    "cleanlinessAverage": 4.71
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "ishikawa",
+    "smallClassCode": "kanazawa",
+    "areaName": "金沢",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "19:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 24,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "洗顔ソープ"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "おふろセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "湯沸かしポット(貸出)"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "バーラウンジ"
+      },
+      {
+        "item": "夜食コーナー"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "エステサロン"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "ルームサービス"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "部屋"
+      },
+      {
+        "breakfastPlace": "個室"
+      },
+      {
+        "dinnerPlace": "部屋"
+      },
+      {
+        "dinnerPlace": "個室"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "低張性弱アルカリ性泉"
+      },
+      {
+        "bathBenefits": "外傷"
+      },
+      {
+        "bathBenefits": "火傷"
+      }
+    ],
+    "aboutLeisure": "ゴルフ,ハイキング,登山,美術館",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "★彩心ご予約のお客様★「別邸神楽」の施設はご利用頂けません。「神楽Premiumラウンジ」及び「神楽の貸切風呂」をご希望の場合は“神楽”のお部屋をご予約下さい。,■神楽ご予約のお客様■隣接する彩心の施設をご利用頂けます。,◆送迎バスご利用のお客様◆前日までにご予約をお願い致します。※満席によりご予約頂けない場合や補助席をご利用頂く場合がございます。,◇全てのお客様◇彩心と神楽２部屋をご予約いただいた場合、お食事の際、隣接する館へご移動いただく場合がございます。,◇全てのお客様◇10名様以上のグループ、または当旅館が団体とみなした場合はご予約者様に問合せ、及び予め宿泊代相当の前受金を頂戴することがございます。,◇すべてのお客様◇団体予約のキャンセルポリシーが適用され、プラン規定のキャンセルポリシーは適用されません。,◇すべてのお客様◇チェックインが１８：００以降の場合は必ずご連絡ください。,◇すべてのお客様◇入湯税が別途必要です。（お一人様１５０円）,◇姉妹店に「能登九十九湾　百楽荘」がございます。お間違えのないようご注意ください。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の70％    <BR>前日                ：宿泊料金の50％    <BR>3日前から           ：宿泊料金の30％    <BR>10日前から          ：宿泊料金の10％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "Discover"
+      },
+      {
+        "card": "楽天カード"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "モーニングコーヒーサービス,ウェルカムドリンクサービス,湯上がりサロンでのお茶サービス",
+    "otherInformation": null
+  }
+}

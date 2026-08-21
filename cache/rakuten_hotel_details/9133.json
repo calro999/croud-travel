@@ -1,0 +1,259 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 9133,
+    "hotelName": "白浜温泉　家族とすごす白浜の宿　柳屋",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D9133",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D9133%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D9133",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D9133",
+    "hotelKanaName": "しらはまおんせん　かぞくとすごすしらはまのやど　やなぎや",
+    "hotelSpecial": "【ファミリーにおすすめ】源泉かけ流しで寛ぎの一日を。露天風呂付き客室や貸切風呂が自慢の家族とすごす宿",
+    "hotelMinCharge": 6050,
+    "latitude": 121222.13,
+    "longitude": 487234.03,
+    "postalCode": "649-2211",
+    "address1": "和歌山県",
+    "address2": "西牟婁郡白浜町1870",
+    "telephoneNo": "0739-42-3360",
+    "faxNo": "0739-43-0947",
+    "access": "ＪＲ白浜駅：車で約１１分／南紀白浜空港：車で約７分／南紀白浜ＩＣ：車で約１5分／アドベンチャーワールド：車で約１０分",
+    "parkingInformation": "有り　40台　無料　先着順",
+    "nearestStation": "白浜",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9133/9133.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/9133.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9133/9133_war.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/9133.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9133/9133map.gif",
+    "reviewCount": 1282,
+    "reviewAverage": 4.51,
+    "userReview": "プロの接客と最高の湯質に大満足到着前の問い合わせ時や滞在中も皆さんとても感じがよく、久しぶりにキチンとしたプロのお仕事をされる方が揃う温泉旅館に泊まったと感じました。到着時、海で遊べるよう…　2026-08-15 14:54:46投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=9133\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.59,
+    "locationAverage": 4.59,
+    "roomAverage": 4.42,
+    "equipmentAverage": 4.31,
+    "bathAverage": 4.53,
+    "breakfastAverage": 4.51,
+    "dinnerAverage": 4.52,
+    "cleanlinessAverage": 4.48
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "wakayama",
+    "smallClassCode": "shirahama",
+    "areaName": "南紀白浜・紀伊田辺・龍神",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "19:30"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 49,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "電気スタンド(一部)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（固形）"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "ティーラウンジ"
+      },
+      {
+        "item": "カラオケルーム"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "ゲームコーナー"
+      },
+      {
+        "item": "ルームサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "部屋"
+      },
+      {
+        "breakfastPlace": "レストラン"
+      },
+      {
+        "dinnerPlace": "部屋"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "ナトリウム・塩化物炭酸水素塩泉"
+      },
+      {
+        "bathBenefits": "五十肩"
+      },
+      {
+        "bathBenefits": "婦人病"
+      },
+      {
+        "bathBenefits": "慢性消化器病"
+      }
+    ],
+    "aboutLeisure": "海水浴,海釣り,ウィンドサーフィン,ダイビング,テニス,ゴルフ,遊園地,動物園,博物館,水族館,フラワーパーク,テーマパーク,美術館",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "大浴場浴槽に手すりあり"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "・入湯税（＠150円）が別途必要です。,・一泊二食付でお申し込みされない幼児の方は、２歳～施設使用料3300円が別途必要です。,・チェックインは18:00までにお願いします。それ以降のご予定の場合はご連絡をお願いします。,・最終のお食事スタートは19:30となります。,・19：30の時点で無連絡だった場合は、キャンセルされたとみなさせていただきます。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>2日前から           ：宿泊料金の20％    <BR>3日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "Bank Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "デビットカード"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "将棋無料貸出,囲碁無料貸出",
+    "otherInformation": null
+  }
+}

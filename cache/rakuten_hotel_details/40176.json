@@ -1,0 +1,226 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 40176,
+    "hotelName": "ホテルキャッスルイン伊勢夫婦岩（旧：ホテルリゾートイン二見）",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D40176",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D40176%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D40176",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D40176",
+    "hotelKanaName": "ほてるきゃっするいんいせふうふいわ　ほてるりぞーとふたみ",
+    "hotelSpecial": "貸切風呂を無料で楽しめるリーズナブルなホテル。伊勢神宮（内宮・外宮）・おかげ横丁まで約15分",
+    "hotelMinCharge": 3410,
+    "latitude": 124216.31,
+    "longitude": 492423.82,
+    "postalCode": "519-0609",
+    "address1": "三重県",
+    "address2": "伊勢市二見町茶屋537-20",
+    "telephoneNo": "0596-43-1818",
+    "faxNo": "0596-43-0018",
+    "access": "ＪＲ参宮線 二見浦駅より徒歩10分／伊勢市駅より無料送迎あり(要予約)／伊勢神宮(内宮)よりお車で15分",
+    "parkingInformation": "有り　無料の自走式平面駐車場80台",
+    "nearestStation": "二見浦",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40176/40176.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/40176.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40176/40176_be1.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/40176.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40176/40176map.gif",
+    "reviewCount": 2233,
+    "reviewAverage": 3.96,
+    "userReview": "二見浦まで徒歩圏内、貸切風呂も満喫お伊勢参りのために伊勢市にきました。作法としては二見浦、外宮、内宮、猿田彦神社の順にお参りするのが良いと聞き、足を伸ばしてこちらのホテルにおせわになりました。…　2026-08-15 19:53:45投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=40176\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 3.91,
+    "locationAverage": 4.13,
+    "roomAverage": 3.9,
+    "equipmentAverage": 3.83,
+    "bathAverage": 3.85,
+    "breakfastAverage": 4.02,
+    "dinnerAverage": 3.96,
+    "cleanlinessAverage": 3.9
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "mie",
+    "smallClassCode": "ise",
+    "areaName": "伊勢・二見",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "24:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 92,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "洗顔ソープ"
+      },
+      {
+        "item": "入浴剤"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "貸切風呂、大浴場ごはチェックイン時から翌朝の9時30分までご利用できます。"
+      },
+      {
+        "item": "※浴衣や一部アメニティはアメニティBARにてご準備しております。"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathType": "人工温泉"
+      }
+    ],
+    "aboutLeisure": "徒歩で・・夫婦岩7分、二見浦海水浴場10分　お車で・・伊勢神宮（内宮・外宮）おかげ横丁15分,海水浴,海釣り,テニス,ゴルフ,水族館,テーマパーク",
+    "handicappedFacilities": [
+      {
+        "item": "バリアフリー用トイレ"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "【無料送迎バスのご案内(要予約)】 伊勢市駅～ホテル間の送迎バスが運行しております。 ご予約は前日までにホテル自社サイト（送迎バス事前ネット予約）または、お電話(0596-29-2111）にて承ってお,３月１日より貸切風呂の利用につきましては、１６：１５～深夜００：００までは４５分間ご利用の当日予約制となります。,家族風呂は半露天風呂です。完全な露天風呂はございません。,チェックイン予定時間を２時間超えるようであれば必ずご連絡下さい。,満室時、エレベーターの待時間が長くなることがあります。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日12時から        ：宿泊料金の100％   <BR>当日                ：宿泊料金の80％    <BR>前日                ：宿泊料金の30％    <BR>3日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "モーニングコーヒーサービス,ウェルカムドリンクサービス,朝刊サービス",
+    "otherInformation": "会員優待も含めその他の優待もご利用いただけません。"
+  }
+}

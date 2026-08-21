@@ -1,0 +1,153 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 180388,
+    "hotelName": "Ｃｏｒｕｓｃａｎｔ　Ｈｏｔｅｌ　長崎駅１（コルサントホテル）",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D180388",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D180388%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D180388",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D180388",
+    "hotelKanaName": "こるさんとほてる　ながさきえき　いち",
+    "hotelSpecial": "◆◇長崎駅より徒歩６分の好立地◇◆お仕事・観光に最適【全室Wi-Fi完備／全室トイレ風呂別】",
+    "hotelMinCharge": 2200,
+    "latitude": 117895.99,
+    "longitude": 467548.73,
+    "postalCode": "850-0057",
+    "address1": "長崎県",
+    "address2": "長崎市大黒町7-15",
+    "telephoneNo": "095-818-2919",
+    "faxNo": "095-820-2919",
+    "access": "長崎駅から徒歩約6分",
+    "parkingInformation": "無し",
+    "nearestStation": null,
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/180388/180388.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/180388.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/180388/180388_kan1.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/180388.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/180388/180388map.gif",
+    "reviewCount": 147,
+    "reviewAverage": 4.05,
+    "userReview": "駅近で便利、洗濯乾燥が完璧で大満足駅前で移動が便利。飲食やコンビニ極近に多数あり。 チェックインが他所なのが少々不便だが、洗濯機が設置されていて、しかも洗剤付き。浴室乾燥がガス式で一晩あれば完璧に…　2026-07-20 12:11:49投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=180388\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4,
+    "locationAverage": 4.15,
+    "roomAverage": 3.98,
+    "equipmentAverage": 3.98,
+    "bathAverage": 3.8,
+    "breakfastAverage": 2.25,
+    "cleanlinessAverage": 3.86
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "nagasaki",
+    "smallClassCode": "nagasaki",
+    "areaName": "長崎",
+    "hotelClassCode": "PENSION",
+    "checkinTime": "16:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "24:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 20,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "ナイトウェア"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "電子レンジ（一部・要予約）"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "洗濯用洗剤1回分（客室設置）"
+      },
+      {
+        "item": "綿棒＆コットン（アメニティバー設置）"
+      },
+      {
+        "item": "チェックインセンターにカミソリやくし、化粧水などをご自由におとりいただけるアメニティバーを設置"
+      },
+      {
+        "item": "禁煙ルーム"
+      }
+    ],
+    "aboutMealPlace": [],
+    "aboutBath": [],
+    "aboutLeisure": "映画館",
+    "handicappedFacilities": [],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "【チェックインのお手続きに関するお知らせ】,チェックインは、長崎チェックインセンターにて承っております。宿泊施設とは異なりますご注意ください,チェックインセンターには、２４時間スタッフが常駐が常駐しております。,チェックイン時間が予定時間を大幅に過ぎる場合は、下記にご連絡をお願いいたします。,【長崎チェックインセンター】〒８５０ー００５７　長崎市大黒町４－２６　０９５－８１８－２９１９,【駐車場につきまして】,駐車場はございません。空いている周辺のコインパーキングに駐車をお願いいたします,※2023年4月1日ご宿泊分より「宿泊税」が適用されます（1名様1泊あたりの宿泊料金 1万円未満：100円／2万円未満：200円／2万円以上：500円）,※宿泊税はチェックイン時に別途お支払いいただきま",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>3日前から           ：宿泊料金の100％   <BR>7日前から           ：宿泊料金の50％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Master Card"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "現地決済でPAYPAY・IDが使えるようになりました。,大型ショッピングセンターAMUPLAZAで映画やお買い物が楽しめます【徒歩５分】"
+  }
+}

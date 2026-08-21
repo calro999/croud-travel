@@ -1,0 +1,292 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 130702,
+    "hotelName": "京都　嵐山温泉　花伝抄（共立リゾート）（２０２６年５月１日リニューアルオープン）",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D130702",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D130702%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D130702",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D130702",
+    "hotelKanaName": "きょうと あらしやまおんせん　かでんしょう",
+    "hotelSpecial": "渡月橋まで徒歩約5分！目の前の阪急嵐山駅より京都の中心街まですぐ！天然温泉と5つの貸切風呂が無料！",
+    "hotelMinCharge": 8800,
+    "latitude": 126026.31,
+    "longitude": 488461,
+    "postalCode": "616-0003",
+    "address1": "京都府",
+    "address2": "京都市西京区嵐山西一川町5-4",
+    "telephoneNo": "075-863-0489",
+    "faxNo": "075-863-5780",
+    "access": "阪急嵐山線「嵐山駅」より徒歩１分。JR「京都駅」より約30分、阪急「梅田駅」より約50分。",
+    "parkingInformation": "全27台  予約不要 / 先着順  有料※満車の場合、周辺コインパーキングをご利用下さい。",
+    "nearestStation": "嵐山（阪急）",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/130702/130702.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/130702.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/130702/130702_ru1.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/130702.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/130702/130702map.gif",
+    "reviewCount": 1920,
+    "reviewAverage": 4.29,
+    "userReview": "清潔な部屋と接客は最高、お風呂のマナーが残念お部屋はリニューアルされていて清潔で気持ち良く過ごせました。ただ...外国人の方の貸切風呂でのマナーが悪くてタオルそのまま放置で気分悪かったです。仕方な…　2026-08-13 18:40:57投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=130702\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.21,
+    "locationAverage": 4.36,
+    "roomAverage": 4.39,
+    "equipmentAverage": 4.3,
+    "bathAverage": 4.26,
+    "breakfastAverage": 4.32,
+    "dinnerAverage": 4.31,
+    "cleanlinessAverage": 4.28
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "kyoto",
+    "smallClassCode": "shi",
+    "areaName": "京都",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "25:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 101,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "モジュラージャック"
+      },
+      {
+        "item": "インターネット接続(LAN形式)"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "バスローブ"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "くつろぎ着の作務衣"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "お手荷物はいつでもお預かりします。"
+      },
+      {
+        "item": "チェックアウト後、当日引き取りに限り手荷物の預かり可能です。"
+      },
+      {
+        "item": "アメニティバー(１F)：ブラシ、綿棒、カミソリ、ボディタオル"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "パソコン利用可"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "食事処"
+      },
+      {
+        "dinnerPlace": "食事処"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathType": "水風呂"
+      },
+      {
+        "bathQuality": "単純温泉"
+      },
+      {
+        "bathQuality": "低張性弱アルカリ性泉"
+      },
+      {
+        "bathBenefits": "関節痛"
+      },
+      {
+        "bathBenefits": "冷え性"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      }
+    ],
+    "aboutLeisure": "渓流下り,登山",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "大浴場浴槽に手すりあり"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": "中国語：少し分かるスタッフが数人いる。<BR>英語：少し分かるスタッフが大半である。<BR>韓国語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "・入湯税が別途必要です。（大人１名様につき150円、中学生未満不要）,・京都市条例により令和8年3月1日から1人1泊当り宿泊税（200円～10,000円）別途頂きます。,・２歳以下のお子様（食事・布団なし）は無料でご利用いただけます。ご予約の際は、お子様人数に含まず、次の予約画面内（備考欄）にてご人数をお教え頂きますようお願い致します。,■食物アレルギーについて　特定原材料等29品目のアレルギーをお持ちのお客様への食事提供方法を変更することとなりました,特定原材料29品目のアレルギーをお持ちのお客様は「低アレルゲンメニュー」のご用意が可能です。,※「低アレルゲンメニュー」のお申込みは2日前までとなります,※特定原材料29品目以外のアレルギー、投薬やご懐妊中の食材変更、苦手食材等、宗教・ベジタリアン等の食事制約のある方のご対応は出来かねます",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>2日前から           ：宿泊料金の50％    <BR>4日前から           ：宿泊料金の20％    <BR>7日前から           ：宿泊料金の10％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "AEON"
+      },
+      {
+        "card": "LIFE"
+      },
+      {
+        "card": "ORICO"
+      },
+      {
+        "card": "楽天カード"
+      },
+      {
+        "card": "ANA"
+      },
+      {
+        "card": "JAL"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": "一括払いのみとなります。",
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "ウェルカムドリンクサービス",
+    "otherInformation": null
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 165829,
+    "hotelName": "東急ステイ札幌",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D165829",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D165829%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D165829",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D165829",
+    "hotelKanaName": "とうきゅうすていさっぽろ",
+    "hotelSpecial": "全客室に洗濯乾燥機・電子レンジ完備のホテル♪大通公園・テレビ塔も近く観光にもビジネスにも便利♪",
+    "hotelMinCharge": 6030,
+    "latitude": 155004.03,
+    "longitude": 508897.56,
+    "postalCode": "060-0061",
+    "address1": "北海道",
+    "address2": "札幌市中央区南一条西1-13-4",
+    "telephoneNo": "011-222-0109",
+    "faxNo": "011-222-6109",
+    "access": "札幌市営地下鉄　東豊線・南北線・東西線　『大通』 駅 ３４番出口より徒歩１分",
+    "parkingInformation": "有　1泊 2,000 円 予約不可、先着順でのご案内",
+    "nearestStation": "大通",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/165829/165829.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/165829.jpg",
+    "roomImageUrl": null,
+    "roomThumbnailUrl": null,
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/165829/165829map.gif",
+    "reviewCount": 794,
+    "reviewAverage": 4.52,
+    "userReview": "清潔で文句なしの部屋、シャワーは少し難解とてもいい部屋でした。清潔ですし文句なしです。ただシャワーの使い方が少しわかりづらかったです。クチコミの詳細はこちらから　https://review.…　2026-08-12 10:40:52投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=165829\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.5,
+    "locationAverage": 4.41,
+    "roomAverage": 4.54,
+    "equipmentAverage": 4.54,
+    "bathAverage": 4.3,
+    "breakfastAverage": 4.41,
+    "cleanlinessAverage": 4.55
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "hokkaido",
+    "smallClassCode": "sapporo",
+    "areaName": "札幌",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "27:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 185,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "インターネット接続(LAN形式)"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "ナイトウェア"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [],
+    "aboutBath": [],
+    "aboutLeisure": null,
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "バリアフリールーム"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "チェックインが予定時間を大幅に過ぎる場合ご連絡下さい。,全室洗濯乾燥機（洗濯洗剤あり）、電子レンジ付きのお部屋です。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の80％    <BR>2日前から           ：宿泊料金の50％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "Master Card"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "ルーム清掃について　,東急ステイでは、環境に配慮した清掃システムを採用しており毎日清掃は入りません。必ずご確認下さい。,6泊以下のお客様は簡易清掃。7泊以上のお客様は週一回の清掃となります。"
+  }
+}

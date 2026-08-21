@@ -1,0 +1,241 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 2099,
+    "hotelName": "ホテルシーズン",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D2099",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D2099%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D2099",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D2099",
+    "hotelKanaName": "しーずん",
+    "hotelSpecial": "まんが(10,000冊)にかこまれたホテル　コンビニ目の前",
+    "hotelMinCharge": 3100,
+    "latitude": 130917.51,
+    "longitude": 505708.5,
+    "postalCode": "310-0801",
+    "address1": "茨城県",
+    "address2": "水戸市桜川1-9-6",
+    "telephoneNo": "029-227-0008",
+    "faxNo": "029-227-0188",
+    "access": "JR水戸駅南口より徒歩約7分／常磐道・水戸IC約20分／北関東道・水戸南IC約15分／駐車場有料（先着順・30台）",
+    "parkingInformation": "有料駐車場有（1泊500円）先着30台◆高さ2.1ｍ制限あり◆",
+    "nearestStation": "水戸",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2099/2099.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/2099.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2099/2099_sb.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/2099.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2099/2099map.gif",
+    "reviewCount": 2409,
+    "reviewAverage": 4.12,
+    "userReview": "部屋が綺麗でアメニティも充実、ビールも最高部屋はとても綺麗です。アメニティバーにフェイスマスクまであり感動です。5時からウェルカムドリンクが飲めるのでビールをいただきました。また水戸に来た時には利…　2026-08-11 18:39:24投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=2099\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.19,
+    "locationAverage": 4.17,
+    "roomAverage": 4.11,
+    "equipmentAverage": 4.03,
+    "bathAverage": 3.91,
+    "breakfastAverage": 3.97,
+    "cleanlinessAverage": 4.13
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "ibaragi",
+    "smallClassCode": "mito",
+    "areaName": "水戸・笠間",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "26:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 96,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "リンスインシャンプー"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "館内の自販機は一般小売価格でご提供しております。"
+      },
+      {
+        "item": "1Fロビー・9F朝食会場・宴会場及び会議室は無料インターネット無線LAN接続可能です。"
+      },
+      {
+        "item": "ラウンジ"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "フラワーショップ"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [],
+    "aboutLeisure": "海水浴,釣り,海釣り,ウィンドサーフィン,テニス,ゲートボール,ゴルフ,サッカー,サイクリング,乗馬,陸上競技,博物館,水族館,フラワーパーク,美術館",
+    "handicappedFacilities": [],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。<BR>韓国語：ネイティブに近く流暢なスタッフが大半である。"
+  },
+  "hotelPolicyInfo": {
+    "note": "◆フロント・オペレーションは24時間対応です。門限はございません。,◆館内ベンダーは、全て一般小売価格。,◆全客室無料インターネットLAN接続可能。（ロビー・レストランでは無線LAN利用可能）,◆ランドリーコーナー（洗濯機、乾燥機）は有料となっております。,◆宿泊者情報等に不備があり、ご宿泊者に対して連絡等が行えず、ご宿泊の確認ができない場合は、当方よりキャンセル処理を行うことがございます。,　",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の80％    <BR>2日前から           ：宿泊料金の50％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "OMC"
+      },
+      {
+        "card": "Bank Card"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "AEON"
+      },
+      {
+        "card": "JACCS"
+      },
+      {
+        "card": "APLUS"
+      },
+      {
+        "card": "CF"
+      },
+      {
+        "card": "LIFE"
+      },
+      {
+        "card": "ORICO"
+      },
+      {
+        "card": "JTB"
+      },
+      {
+        "card": "Daimaru"
+      },
+      {
+        "card": "Takashimaya"
+      },
+      {
+        "card": "楽天カード"
+      },
+      {
+        "card": "ANA"
+      },
+      {
+        "card": "JAL"
+      },
+      {
+        "card": "デビットカード"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "チェックイン時、宿泊料金・駐車場代金を前金でいただいております。予めご了承ください。"
+  }
+}

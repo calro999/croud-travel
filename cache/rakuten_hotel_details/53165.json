@@ -1,0 +1,152 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 53165,
+    "hotelName": "箱根仙石原温泉　万寿屋旅館",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D53165",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D53165%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D53165",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D53165",
+    "hotelKanaName": "ますやりょかん",
+    "hotelSpecial": "大涌谷の源泉１００％掛け流しの白濁天然温泉がございます。２４時間入浴可です。",
+    "hotelMinCharge": 6175,
+    "latitude": 126962.71,
+    "longitude": 500450.02,
+    "postalCode": "250-0631",
+    "address1": "神奈川県",
+    "address2": "足柄下郡箱根町仙石原160",
+    "telephoneNo": "0460-84-8057",
+    "faxNo": "0460-84-5760",
+    "access": "小田原駅よりバスで４０分／箱根湯本よりバスで３０分　仙石案内所前バス停下車、徒歩３分で当館に到着します",
+    "parkingInformation": "有り　１０台　無料　予約不要",
+    "nearestStation": "小田原",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/53165/53165.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/53165.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/53165/53165_k.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/53165.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/53165/53165map.gif",
+    "reviewCount": 163,
+    "reviewAverage": 3.64,
+    "userReview": null
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 0,
+    "locationAverage": 0,
+    "roomAverage": 0,
+    "equipmentAverage": 0,
+    "bathAverage": 0,
+    "breakfastAverage": 4,
+    "cleanlinessAverage": 3.22
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "kanagawa",
+    "smallClassCode": "hakone",
+    "areaName": "箱根",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "22:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 8,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー(一部)"
+      },
+      {
+        "item": "石鹸（固形）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "ドライヤーはお部屋ではなくてお風呂場の脱衣所にあります"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "広間"
+      },
+      {
+        "dinnerPlace": "広間"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "硫黄泉"
+      },
+      {
+        "bathQuality": "石膏泉"
+      },
+      {
+        "bathBenefits": "胃腸病"
+      },
+      {
+        "bathBenefits": "美肌効果"
+      },
+      {
+        "bathBenefits": "婦人病"
+      }
+    ],
+    "aboutLeisure": "釣り,テニス,ゲートボール,ゴルフ,サイクリング,ハイキング,トレッキング,登山,ハンティング,博物館,水族館,フラワーパーク,テーマパーク,美術館",
+    "handicappedFacilities": [],
+    "linguisticLevel": "中国語：少し分かるスタッフが数人いる。<BR>英語：少し分かるスタッフが数人いる。<BR>韓国語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "入湯税が別途必要です。（お１人様１５０円）,門限は22時となります。（22時以降のチェックインは承ることができません）,お越しの際の交通手段（車・電車・その他）をお教えください。,当日お客様と連絡が取れる電話番号(携帯電話など)をお教えください。,ご到着予定時刻をお教えください。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>7日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "利用不可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "時間外チェックイン可",
+    "otherInformation": "【プラスチック資源循環促進法】2022年4月施行に伴いまして、,歯ブラシセットは、お客様自身でご持参下さい（必要な場合は、お声がけ下さい）,サステナビリティアクションを推進してまいります"
+  }
+}

@@ -1,0 +1,322 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 13539,
+    "hotelName": "川棚グランドホテル　お多福",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D13539",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D13539%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D13539",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D13539",
+    "hotelKanaName": "かわだなぐらんどほてる　おたふく",
+    "hotelSpecial": "下関観光に便利な立地。今話題の「元乃隅稲成神社」に行くのも便利",
+    "hotelMinCharge": 8250,
+    "latitude": 122890.84,
+    "longitude": 471392.57,
+    "postalCode": "759-6301",
+    "address1": "山口県",
+    "address2": "下関市豊浦町川棚4912-1",
+    "telephoneNo": "083-774-1111",
+    "faxNo": "083-772-0001",
+    "access": "中国道下関ICより30分/小月ICより20分/JR山陰本線『川棚温泉駅』タクシー3分/無料シャトルバス有（要問い合わせ）",
+    "parkingInformation": "有り　250台　無料　先着順　ワゴン・RV車もOK",
+    "nearestStation": "川棚温泉",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13539/13539.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/13539.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13539/13539_roten.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/13539.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13539/13539map.gif",
+    "reviewCount": 1271,
+    "reviewAverage": 4.26,
+    "userReview": "貸切風呂でリラックス、居心地の良い空間貸切のお風呂も借りてみましたがリラックスできて楽しく過ごせました。とても居心地の良い旅館でした。クチコミの詳細はこちらから　https://revie…　2026-08-14 08:59:49投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=13539\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.29,
+    "locationAverage": 4.06,
+    "roomAverage": 4.12,
+    "equipmentAverage": 4.05,
+    "bathAverage": 4.29,
+    "breakfastAverage": 4.42,
+    "dinnerAverage": 4.37,
+    "cleanlinessAverage": 4.21
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "yamaguchi",
+    "smallClassCode": "shimonoseki",
+    "areaName": "下関・宇部",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "18:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 51,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "ファックス"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ベビーベッド"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "テニスコート"
+      },
+      {
+        "item": "茶室"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "ペット同宿可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "ダイニングルーム"
+      },
+      {
+        "dinnerPlace": "部屋"
+      },
+      {
+        "dinnerPlace": "ダイニングルーム"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathType": "水風呂"
+      },
+      {
+        "bathQuality": "ナトリウム・カルシウム塩化物泉"
+      },
+      {
+        "bathBenefits": "高血圧"
+      },
+      {
+        "bathBenefits": "動脈硬化"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      }
+    ],
+    "aboutLeisure": "海水浴,釣り,海釣り,テニス,ゴルフ,乗馬,洞窟探検,動物園,水族館,フラワーパーク,テーマパーク,農業公園,美術館",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "バリアフリールーム"
+      },
+      {
+        "item": "車椅子利用者用客室あり"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "館内の点字案内"
+      },
+      {
+        "item": "大浴場浴槽に手すりあり"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      },
+      {
+        "item": "高齢者用料理への対応可能"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "お子様の食事はお子様会席となります。,お子様料金は定額ですが、GW、お盆、年末年始の期間は１泊２食のお子様料金のみ2200円アップとなります。,誠に恐れ入りますが、『楽天トラベル』でご予約を承った後、当館よりご予約確認のお電話をさせていただく場合がございます。☆当日お客様と連絡が取れる電話番号（携帯電話など）を是非お教えください。☆,入湯税大人＠150円別途必要です。,年末年始（12/31～1/2）のご宿泊ご予約については予約金が必要です。（総額に対して30％）,予約日より7日以内にお振り込みをお願いいたします。,予約金の入金後、確認が取れ次第ご連絡をさせていただきます。,予約金の振込先／山口銀行　本店営業部　普通６４５４３１２　口座名　㈱川棚グランドホテルお多福,★お振込後にキャンセルされた場合は、ご予約金を全額キャンセル料として充当させていただきます。★",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>2日前から           ：宿泊料金の30％    <BR>3日前から           ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "JTB"
+      },
+      {
+        "card": "楽天カード"
+      },
+      {
+        "card": "デビットカード"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": "電子マネーは対応しておりません　PayPayとLINEPayに対応",
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "年末年始のご宿泊ご予約については予約金が必要です。,振込後のキャンセルの場合は、全額キャンセル料として充当させていただきます。,予約金の振込先／山口銀行　本店営業部　普通６４５４３１２　口座名　㈱川棚グランドホテルお多福"
+  }
+}

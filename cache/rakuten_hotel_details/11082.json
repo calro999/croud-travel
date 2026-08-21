@@ -1,0 +1,263 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 11082,
+    "hotelName": "ツインリーブスホテル出雲　(一畑グループ)",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D11082",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D11082%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D11082",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D11082",
+    "hotelKanaName": "ついんりーぶすほてる　いずも",
+    "hotelSpecial": "出雲市駅徒歩0分／全室17平米以上／シングルルームは140cmのダブルベッド採用／全室VOD設置",
+    "hotelMinCharge": 5260,
+    "latitude": 127289.41,
+    "longitude": 477936,
+    "postalCode": "693-0007",
+    "address1": "島根県",
+    "address2": "出雲市駅北町4-1",
+    "telephoneNo": "0853-30-8000",
+    "faxNo": "0853-30-8100",
+    "access": "JR出雲市駅北口から徒歩30秒／出雲縁結び空港から車で30分／山陰自動車道斐川ＩＣから15分",
+    "parkingInformation": "ホテル敷地内／1泊500円（税込）／何度でも入出庫可能※先着順、予約不可",
+    "nearestStation": "出雲市",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/11082/11082.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/11082.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/11082/11082_tw.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/11082.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/11082/11082map.gif",
+    "reviewCount": 3693,
+    "reviewAverage": 4.3,
+    "userReview": "部屋もベッドも広々としていて快適一人で泊まりましたが、ベッドも部屋も広かったです。ユニットバスもスペースに余裕があり、快適に過ごせました。クチコミの詳細はこちらから　https://revie…　2026-08-15 17:34:54投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=11082\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.27,
+    "locationAverage": 4.35,
+    "roomAverage": 4.27,
+    "equipmentAverage": 4.17,
+    "bathAverage": 4.1,
+    "breakfastAverage": 4.28,
+    "cleanlinessAverage": 4.29
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "simane",
+    "smallClassCode": "toubu",
+    "areaName": "出雲・大田・石見銀山",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "26:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 150,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送"
+      },
+      {
+        "item": "衛星放送（無料）"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(LAN形式)"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "洗顔ソープ"
+      },
+      {
+        "item": "入浴剤"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "ナイトガウン"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "テナント：出雲そば【一福】"
+      },
+      {
+        "item": "テナント：旅行代理店【一畑トラベルサービス】"
+      },
+      {
+        "item": "テナント：レンタカー【NIPPONレンタカー】"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "E-Mail送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [],
+    "aboutLeisure": "出雲大社（大国主神を祀る神社。本殿は日本で最も古い神社建築として国宝に指定されています）,海水浴,釣り,海釣り,ダイビング,テニス,ゴルフ,サッカー,サイクリング,スケート,登山,陸上競技,博物館,水族館,フラワーパーク,美術館",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "バリアフリールーム"
+      },
+      {
+        "item": "車椅子利用者用客室あり"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "館内の点字案内"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      }
+    ],
+    "linguisticLevel": "英語：日常的な内容は問題のないスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": null,
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "Bank Card"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": "楽天トラベルよりご予約の場合、割引料金でのご提供につきマイレージの加算は致しかねます。"
+  },
+  "hotelOtherInfo": {
+    "privilege": "朝刊サービス",
+    "otherInformation": null
+  }
+}

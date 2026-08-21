@@ -1,0 +1,228 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 147870,
+    "hotelName": "ホテルルートイン石巻中央",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D147870",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D147870%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D147870",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D147870",
+    "hotelKanaName": "るーといんいしのまきちゅうおう",
+    "hotelSpecial": "ＷＯＷＯＷ全室で無料視聴可■VODルームシアター無料視聴可能（一般映画のみ）(コンフォート特典)",
+    "hotelMinCharge": 5900,
+    "latitude": 138338.14,
+    "longitude": 508622.25,
+    "postalCode": "986-0854",
+    "address1": "宮城県",
+    "address2": "石巻市大街道北3-3-3",
+    "telephoneNo": "050-5847-7551",
+    "faxNo": "0225-21-5809",
+    "access": "ＪＲ　陸前山下駅より徒歩にて約２０分",
+    "parkingInformation": "有り　120台　無料　予約不要　（第1駐車場：62台　第2駐車場：58台）",
+    "nearestStation": "陸前山下",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147870/147870.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/147870.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147870/147870_kan1.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/147870.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147870/147870map.gif",
+    "reviewCount": 663,
+    "reviewAverage": 4.14,
+    "userReview": "駐車場案内が親切で部屋も朝食も大満足石巻川開き祭りがあったのもあり駐車場がいっぱいでしたが、第二、第三駐車場を案内していだき無事停める事ができましたお部屋もお風呂もキレイでした朝食も満足。…　2026-08-03 20:59:59投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=147870\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.16,
+    "locationAverage": 3.98,
+    "roomAverage": 4.18,
+    "equipmentAverage": 4.1,
+    "bathAverage": 4.16,
+    "breakfastAverage": 4.06,
+    "cleanlinessAverage": 4.2
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "miyagi",
+    "smallClassCode": "matsushima",
+    "areaName": "松島・塩釜・石巻・南三陸・気仙沼",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "24:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 198,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送"
+      },
+      {
+        "item": "衛星放送（無料）"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "リンスインシャンプー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "くつろぎ着の作務衣"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "人工温泉"
+      }
+    ],
+    "aboutLeisure": null,
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "バリアフリールーム"
+      },
+      {
+        "item": "車椅子利用者用客室あり"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "【重要】宮城県条例の改定により、2026年1月13日（火）以降のご宿泊分から、宿泊料金とは別に宿泊税をお支払いただきます。,1人1泊6000円未満 →課税されません。1人1泊6000円以上（税抜）→【全県】1人1泊当たり300円【仙台市内】県分100円・仙台市分200円,※2026年1月13日より前に予約された場合でも、1月13日以降の宿泊分には宿泊税が適用されます。詳しくは宮城県サイト、あるいはルートインホテルズ公式サイトをご確認ください。,チェックインが予定時間を過ぎる場合必ずご連絡ください。,当ホテルとの宿泊契約には、当ホテルが定める宿泊約款が適用されます。宿泊約款の内容については各ホテルにお問合せください。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の80％    <BR>前日                ：宿泊料金の50％    <BR>2日前から           ：宿泊料金の20％    <BR>3日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Discover"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": "銀聯カード/QRコード決済(PayPay等）、電子マネー(iD等)、交通系電子マネー(Suica等)",
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "ウェルカムドリンクサービス,時間外チェックイン可,時間外チェックアウト可",
+    "otherInformation": null
+  }
+}

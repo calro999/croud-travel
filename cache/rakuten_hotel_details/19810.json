@@ -1,0 +1,295 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 19810,
+    "hotelName": "飲める温泉、自家源泉の宿　ホテルサンバレー富士見",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D19810",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D19810%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D19810",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D19810",
+    "hotelKanaName": "のめるおんせん、じかげんせんのやど　ほてるさんばれーふじみ",
+    "hotelSpecial": "PH9の高濃度源泉に浸かり源泉使用の朝食で体の中からも元気に。",
+    "hotelMinCharge": 9200,
+    "latitude": 126112.08,
+    "longitude": 500201.37,
+    "postalCode": "410-2201",
+    "address1": "静岡県",
+    "address2": "伊豆の国市古奈185-1",
+    "telephoneNo": "055-947-3100",
+    "faxNo": "055-947-0564",
+    "access": "伊豆箱根鉄道　伊豆長岡駅より徒歩10分～15分／東名沼津ＩＣ又は新東名長泉沼津ICから伊豆縦貫道→伊豆中央道(有料）",
+    "parkingInformation": "有り　60台　無料　先着順",
+    "nearestStation": "伊豆長岡",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19810/19810.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/19810.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19810/19810_heya.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/19810.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19810/19810map.gif",
+    "reviewCount": 1452,
+    "reviewAverage": 4.4,
+    "userReview": "リフォームされた清潔な部屋と美味しい朝食に大満足古き良き中に新しさと清潔感あるホテルです。1泊朝食プランでしたのでプールで子供が飽きるまで遊んで夕食を食べてからホテルへ行く計画でしたが思った以上に…　2026-08-15 15:18:25投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=19810\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.38,
+    "locationAverage": 4.31,
+    "roomAverage": 4.4,
+    "equipmentAverage": 4.29,
+    "bathAverage": 4.5,
+    "breakfastAverage": 4.39,
+    "dinnerAverage": 4.61,
+    "cleanlinessAverage": 4.4
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "shizuoka",
+    "smallClassCode": "naka",
+    "areaName": "伊豆長岡・修善寺・天城湯ヶ島",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "24:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 46,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド(一部)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "ＣＤプレイヤ－(貸出)"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "12月〜3月まで足袋をお部屋へご用意致します。"
+      },
+      {
+        "item": "御部屋にはクレンジング・化粧水・乳液をご用意致しております。"
+      },
+      {
+        "item": "毛布の貸出しを致しております（数量限定）"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "バーラウンジ"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "卓球"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "ルームサービス"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      },
+      {
+        "dinnerPlace": "食事処"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathType": "水風呂"
+      },
+      {
+        "bathQuality": "アルカリ単純泉"
+      },
+      {
+        "bathBenefits": "関節痛"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      },
+      {
+        "bathBenefits": "慢性消化器病"
+      }
+    ],
+    "aboutLeisure": "海水浴,海釣り,渓流釣り,ウィンドサーフィン,ダイビング,テニス,ゲートボール,ゴルフ,サッカー,サイクリング,ハイキング,登山,陸上競技,水族館,フラワーパーク,しいたけ狩り",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "上記、子供料金に関わらず 0歳、1歳のお子様は無料となります。その旨を備考欄にご記載下さいます様お願い致します。,門限は２４時です。その後の対応はインターフォンにて行います。,ご朝食はレストランにて和風バイキングとなります。,ご朝食は都合により個人盛りに成る事もございます。,事前カード決済のお客様へ　入湯税は別加算に付き現地清算になります。ご了承下さいませ。,※価格表示には留意しておりますが、人為的ミス等によりサイト上の価格が実際と異なる場合、民法95条「錯誤に基づく契約無効」に基づき当社判断にてご予約取消をさせて頂く場合がございます。予めご了承ください。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の50％    <BR>前日                ：宿泊料金の50％    <BR>2日前から           ：宿泊料金の30％    <BR>3日前から           ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "Master Card"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "当館は住宅街の中にございます。立地は望めませんが源泉と料理でゆったりお過ごし下さい。"
+  }
+}

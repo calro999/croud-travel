@@ -1,0 +1,283 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 15858,
+    "hotelName": "かわだ温泉　ラポーゼ　かわだ",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D15858",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D15858%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D15858",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D15858",
+    "hotelKanaName": "らぽーぜ　かわだ",
+    "hotelSpecial": "全国でも珍しい混合温泉を備え、周りを自然に囲まれた当館でゆっくりとお寛ぎください。",
+    "hotelMinCharge": 5500,
+    "latitude": 129403.23,
+    "longitude": 490697.86,
+    "postalCode": "916-1235",
+    "address1": "福井県",
+    "address2": "鯖江市上河内町19-37-2  ",
+    "telephoneNo": "0778-65-0012",
+    "faxNo": "0778-65-2761",
+    "access": "北陸自動車道・鯖江ICより10km（15分）／ハピラインふくい鯖江駅よりコミュニティバス河和田線「ラポーゼかわだ」下車",
+    "parkingInformation": "駐車場無料　150台収容可　",
+    "nearestStation": "鯖江",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15858/15858.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/15858.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15858/15858_room.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/15858.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15858/15858map.gif",
+    "reviewCount": 319,
+    "reviewAverage": 4.18,
+    "userReview": "夕食はボリューム満点、部屋も広くて快適夕食の料理はボリュームがあってとても美味しかったです。子供も喜んで食べていました。お部屋も和室を4名で利用しましたが充分な広さで寛ぐことができました。施設…　2026-08-15 03:53:42投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=15858\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.29,
+    "locationAverage": 3.92,
+    "roomAverage": 4.27,
+    "equipmentAverage": 4.12,
+    "bathAverage": 4.23,
+    "breakfastAverage": 4.35,
+    "dinnerAverage": 4.18,
+    "cleanlinessAverage": 4.27
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "hukui",
+    "smallClassCode": "echizen",
+    "areaName": "越前・鯖江・武生",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "21:30"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 15,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "電気スタンド(一部)"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "ヘルスメーター"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "エクステンションベッド"
+      },
+      {
+        "item": "石鹸（固形）"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "パン焼き90分1000円、そば打ち50分3000円などその他体験メニューいっぱい！"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "多目的室"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "湯上がりサロン"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "卓球"
+      },
+      {
+        "item": "バーベキューガーデン"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン"
+      },
+      {
+        "breakfastPlace": "広間"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      },
+      {
+        "dinnerPlace": "広間"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathType": "ジャグジー"
+      },
+      {
+        "bathType": "水風呂"
+      },
+      {
+        "bathQuality": "ナトリウム炭酸水素塩泉"
+      },
+      {
+        "bathQuality": "芒硝泉"
+      },
+      {
+        "bathBenefits": "アトピー・湿疹"
+      },
+      {
+        "bathBenefits": "動脈硬化"
+      },
+      {
+        "bathBenefits": "美肌効果"
+      }
+    ],
+    "aboutLeisure": "動物園,博物館,山菜取り",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "バリアフリールーム"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      },
+      {
+        "item": "高齢者用料理への対応可能"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": "英語：ネイティブに近く流暢なスタッフが数人いる。<BR>韓国語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "チェックインは15時～21時30分、チェックアウトは10時です。プランによって時間は変わります。,夕食時間は18時・19時の２回、朝食時間は7時、7時30分、8時の３回にわけて提供させていただきます。,素泊り・１泊朝食付のお客様はチェックイン時、その他のお客様はチェックアウト時にご精算となります。,中学生以上の方は入湯税150円別途いただきます。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>3日前から           ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": "カード御利用可能",
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": null
+  }
+}

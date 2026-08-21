@@ -1,0 +1,87 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 173563,
+    "hotelName": "新潟県ホテル仕様の民泊施設ドリーム／民泊",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D173563",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D173563%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D173563",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D173563",
+    "hotelKanaName": null,
+    "hotelSpecial": "ホテル仕様ですべてのお部屋は独立個室です。バス・トイレ・洗面各お部屋に備わっており、各々が独立しております。【民泊】",
+    "hotelMinCharge": 5800,
+    "latitude": 134332.44,
+    "longitude": 500478.42,
+    "postalCode": "946-0216",
+    "address1": "新潟県",
+    "address2": "魚沼市須原1290-1",
+    "telephoneNo": "0257-93-7442",
+    "faxNo": "000-000-0000",
+    "access": "越後須原駅より徒歩にて約２分",
+    "parkingInformation": "有り",
+    "nearestStation": "越後須原",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/173563/173563.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/173563.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/173563/173563_kan1.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/173563.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/173563/173563map.gif",
+    "reviewCount": 7,
+    "reviewAverage": 3,
+    "userReview": null
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 0,
+    "locationAverage": 0,
+    "roomAverage": 0,
+    "equipmentAverage": 0,
+    "bathAverage": 0
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "niigata",
+    "smallClassCode": "minami",
+    "areaName": "魚沼・十日町・津南・六日町・大湯",
+    "hotelClassCode": "PENSION",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "18:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 1,
+    "roomFacilities": [],
+    "hotelFacilities": [
+      {
+        "item": "食器／調理器具／洗濯機／電子レンジ／エアコン／キッチン"
+      },
+      {
+        "item": "※部屋によって設備が変わる場合がございます。あらかじめ宿泊施設へご確認ください。"
+      },
+      {
+        "item": "バーベキューガーデン"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [],
+    "aboutBath": [],
+    "aboutLeisure": null,
+    "handicappedFacilities": [],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": null,
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>4日前から           ：宿泊料金の100％   ",
+    "availableCreditCard": [
+      {
+        "card": "利用不可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": null
+  }
+}

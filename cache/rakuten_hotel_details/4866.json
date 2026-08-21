@@ -1,0 +1,228 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 4866,
+    "hotelName": "リバーサイドホテル松栄",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D4866",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D4866%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D4866",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D4866",
+    "hotelKanaName": "りばーさいどほてる　しょうえい",
+    "hotelSpecial": "高知市の中心に位置し、観光・レジャー・ビジネスの拠点として便利。全客室Wi-Fi完備。",
+    "hotelMinCharge": 4000,
+    "latitude": 120785.31,
+    "longitude": 480752.91,
+    "postalCode": "780-8012",
+    "address1": "高知県",
+    "address2": "高知市天神町8-1",
+    "telephoneNo": "088-832-3211",
+    "faxNo": "0888326575",
+    "access": "ＪＲ土讃線高知駅より車で５分",
+    "parkingInformation": "有り/30台。有料/普通車：700円、バイク：500円、自転車：無料",
+    "nearestStation": "高知",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/4866/4866.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/4866.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/4866/4866_jpn.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/4866.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/4866/4866map.gif",
+    "reviewCount": 487,
+    "reviewAverage": 3.79,
+    "userReview": "駐車場案内の配慮が足りず階段移動が大変裏側にいたスタッフに駐車場が遠くなるとりあえず玄関に回れと言われたが、玄関側はかなり階段になっていてスーツケースを運ぶのも一苦労だった。駐車場が遠くなるの…　2026-08-14 17:03:55投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=4866\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 3.88,
+    "locationAverage": 3.75,
+    "roomAverage": 3.77,
+    "equipmentAverage": 3.69,
+    "bathAverage": 3.8,
+    "breakfastAverage": 4.08,
+    "dinnerAverage": 4.27,
+    "cleanlinessAverage": 3.77
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "kouchi",
+    "smallClassCode": "kouchi",
+    "areaName": "高知・南国・香南・伊野",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "16:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "24:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 64,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "ファックス(貸出)"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "電気スタンド"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "石鹸（固形）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "湯沸かしポット(貸出)"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "コーヒーハウス"
+      },
+      {
+        "item": "喫茶"
+      },
+      {
+        "item": "バーラウンジ"
+      },
+      {
+        "item": "多目的室"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "結婚式場"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "貸自転車"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "ルームサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン"
+      },
+      {
+        "breakfastPlace": "広間"
+      },
+      {
+        "dinnerPlace": "個室"
+      },
+      {
+        "dinnerPlace": "広間"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "大浴場"
+      }
+    ],
+    "aboutLeisure": "テニス,ゲートボール,ゴルフ,乗馬,射撃,陸上競技",
+    "handicappedFacilities": [],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": null,
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>3日前から           ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "Bank Card"
+      },
+      {
+        "card": "JTB"
+      },
+      {
+        "card": "デビットカード"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "時間外チェックイン可",
+    "otherInformation": null
+  }
+}

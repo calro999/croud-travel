@@ -1,0 +1,235 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 4784,
+    "hotelName": "大島温泉　大島温泉ホテル　＜大島＞",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D4784",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D4784%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D4784",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D4784",
+    "hotelKanaName": "おおしまおんせん　おおしまおんせんほてる",
+    "hotelSpecial": "三原山山頂の閑静な露天風呂と名物椿料理が自慢です。豊富な湯量を誇るかけ流し式温泉。",
+    "hotelMinCharge": 13200,
+    "latitude": 125103.22,
+    "longitude": 501857.68,
+    "postalCode": "100-0103",
+    "address1": "東京都",
+    "address2": "大島大島町泉津字木積場3-5",
+    "telephoneNo": "04992-2-1673",
+    "faxNo": "04992-2-2759",
+    "access": "入港地より三原山登山道路を車で20分(送迎バスあり要予約：入港地とホテル間のみ　午後便のみ）",
+    "parkingInformation": "50台　無料",
+    "nearestStation": "大島（東京）",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/4784/4784.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/4784.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/4784/4784_room.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/4784.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/4784/4784map.gif",
+    "reviewCount": 88,
+    "reviewAverage": 3.85,
+    "userReview": "絶景の露天風呂と子供と楽しむ花火体験お部屋からの眺めが素晴らしく、露天風呂も絶景でした!売店で花火を売っていて、フロントでライター、ロウソク、バケツまで貸してくださって、子ども達と花火を楽しむこと…　2026-08-12 22:05:18投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=4784\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 3.7,
+    "locationAverage": 4.24,
+    "roomAverage": 3.76,
+    "equipmentAverage": 3.59,
+    "bathAverage": 4.05,
+    "breakfastAverage": 3.46,
+    "dinnerAverage": 3.8,
+    "cleanlinessAverage": 3.55
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "tokyo",
+    "smallClassCode": "oshima",
+    "areaName": "大島",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "24:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 22,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "ファックス(貸出)"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫(一部)"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "石鹸（固形）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "リンスインシャンプー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "冷蔵庫内は空となっております。"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "卓球"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "宅配便"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン"
+      },
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      },
+      {
+        "dinnerPlace": "広間"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathQuality": "単純温泉"
+      },
+      {
+        "bathQuality": "単純泉"
+      },
+      {
+        "bathQuality": "緩和低張性泉"
+      },
+      {
+        "bathBenefits": "打ち身"
+      },
+      {
+        "bathBenefits": "関節痛"
+      },
+      {
+        "bathBenefits": "五十肩"
+      }
+    ],
+    "aboutLeisure": "釣り,海釣り,テニス,ゴルフ,サイクリング,ハイキング,トレッキング,登山",
+    "handicappedFacilities": [
+      {
+        "item": "貸出用車椅子"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "当日のキャンセルは.宿泊料の100%をいただきます,チェックインは１７時までにお済ませ下さい,１７時以降になる方は電話連絡を下さい,大人の方は.入湯税(150円)が別途かかります,小学生高学年80%大人食に準じた料理,小学生低学年50%お子様料理",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の80％    <BR>3日前から           ：宿泊料金の50％    <BR>7日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "小物プレゼント",
+    "otherInformation": "冷蔵庫内空となっております．各フロアーの自動販売機をご利用下さい。,レストラン全席【禁煙】となっております。,お部屋のお風呂も温泉を使用いたしております。＊バストイレ付（ユニットバス含む）"
+  }
+}

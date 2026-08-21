@@ -1,0 +1,144 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 197409,
+    "hotelName": "ツリーフルツリーハウス",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D197409",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D197409%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D197409",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D197409",
+    "hotelKanaName": "つりーふるつりーはうす",
+    "hotelSpecial": "自然との一体感を感じられるサステイナブルなツリーハウスで、くつろぎの時間を是非お過ごしください。",
+    "hotelMinCharge": 89000,
+    "latitude": 95752.21,
+    "longitude": 461083.55,
+    "postalCode": "905-1141",
+    "address1": "沖縄県",
+    "address2": "名護市源河2578",
+    "telephoneNo": "080-9852-3476",
+    "faxNo": "--",
+    "access": "那覇空港よりお車にて約２時間２０分",
+    "parkingInformation": "有り　7台",
+    "nearestStation": "那覇空港",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/197409/197409.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/197409.jpg",
+    "roomImageUrl": null,
+    "roomThumbnailUrl": null,
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/197409/197409map.gif",
+    "reviewCount": 1,
+    "reviewAverage": null,
+    "userReview": null
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": null,
+    "locationAverage": null,
+    "roomAverage": null,
+    "equipmentAverage": null,
+    "bathAverage": null
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "okinawa",
+    "smallClassCode": "hokubu",
+    "areaName": "恩納・名護・本部・今帰仁",
+    "hotelClassCode": "PENSION",
+    "checkinTime": "14:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "19:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 4,
+    "roomFacilities": [
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "リンスインシャンプー"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "バスローブ"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "部屋"
+      }
+    ],
+    "aboutBath": [],
+    "aboutLeisure": "カヌー",
+    "handicappedFacilities": [
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "チェックインが予定時刻を過ぎる場合は必ずご連絡ください。,滞在中に出会った虫や野生動物は自然界の一部として受け入れられる方のみご予約下さい。,新しいツリーハウスの建設に伴い、一時的に騒音が発生する可能性がございます。あらかじめご了承ください。,ご予約完了後に、お食事やアクテビティのご希望を質問フォームにてお伺いしております。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の100％   <BR>2日前から           ：宿泊料金の50％    <BR>3日前から           ：宿泊料金の50％    <BR>4日前から           ：宿泊料金の50％    <BR>5日前から           ：宿泊料金の50％    <BR>6日前から           ：宿泊料金の50％    <BR>7日前から           ：宿泊料金の50％    <BR>8日前から           ：宿泊料金の0％     ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Discover"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "ウェルカムドリンクサービス,時間外チェックイン可,時間外チェックアウト可",
+    "otherInformation": "当リゾートは高所の客室のため、10歳未満のお子様は宿泊できません。"
+  }
+}

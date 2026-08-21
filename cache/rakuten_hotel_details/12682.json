@@ -1,0 +1,268 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 12682,
+    "hotelName": "会津芦ノ牧温泉　大川荘",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D12682",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D12682%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D12682",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D12682",
+    "hotelKanaName": "あいづあしのまきおんせん　おおかわそう",
+    "hotelSpecial": "★渓流を望む源泉掛け流しの絶景露天風呂と会津ならではのお食事★",
+    "hotelMinCharge": 9900,
+    "latitude": 134507.37,
+    "longitude": 503704.54,
+    "postalCode": "969-5147",
+    "address1": "福島県",
+    "address2": "会津若松市大戸町大字芦ノ牧字下夕平984",
+    "telephoneNo": "0242-92-2111",
+    "faxNo": "0242-92-2555",
+    "access": "会津若松ＩＣより約40分／芦ノ牧温泉駅より送迎有り（要予約）／大内宿まで約20分／鶴ヶ城まで約25分／飯盛山まで約30分",
+    "parkingInformation": "有　１００台　無料",
+    "nearestStation": "芦ノ牧温泉",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/12682/12682.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/12682.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/12682/12682_bath.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/12682.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/12682/12682map.gif",
+    "reviewCount": 2259,
+    "reviewAverage": 4.52,
+    "userReview": "食事も接客も最高で大満足!お食事も接客も最高でしたクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/12682?rev…　2026-08-15 13:56:52投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=12682\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.58,
+    "locationAverage": 4.54,
+    "roomAverage": 4.54,
+    "equipmentAverage": 4.44,
+    "bathAverage": 4.57,
+    "breakfastAverage": 4.52,
+    "dinnerAverage": 4.5,
+    "cleanlinessAverage": 4.58
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "hukushima",
+    "smallClassCode": "aizu",
+    "areaName": "会津若松・喜多方",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "18:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 97,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送（無料）"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー(一部)"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド(一部)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "リンスインシャンプー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "ティーラウンジ"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "エステサロン"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "個室"
+      },
+      {
+        "breakfastPlace": "レストラン"
+      },
+      {
+        "dinnerPlace": "個室"
+      },
+      {
+        "dinnerPlace": "食事処"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathQuality": "硫酸塩泉"
+      },
+      {
+        "bathBenefits": "筋肉痛"
+      },
+      {
+        "bathBenefits": "皮膚病"
+      },
+      {
+        "bathBenefits": "リウマチ・神経病"
+      }
+    ],
+    "aboutLeisure": "ゴルフ,スキー,博物館",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "手話可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "バリアフリールーム"
+      },
+      {
+        "item": "車椅子利用者用客室あり"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "◆大人のみ（中学生以上）別途入湯税350円かかりますので、現地にてお支払い下さい。【2025年10月1日宿泊より入湯税は350円となります】,◆1室に付き、大人1名様と子供1名様以上の場合、子供1名様は大人料金となります。大人2名様でご予約ください。[お一人様対応プランは除く/大人専用客室は除く],◆幼児のお客様は3歳から有料でございますので、幼児欄に人数をご記入下さい。,◆食事の不要な添い寝のお子様（２歳以下）は、無料で承っております。,◆中学生以上は大人料金となります。,◆ご利用の男女各人数をお知らせ下さい。,◆当日不泊の場合（連絡がなく来荘されなかった場合、キャンセル料は100％申し受けます。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>2日前から           ：宿泊料金の30％    <BR>3日前から           ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "AEON"
+      },
+      {
+        "card": "デビットカード"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "◆窓一面の渓谷美と、館内に心地よい瀬音が響くロビーで寛ぎのひとときをお過ごし下さい｡,◆16時から18時はロビーの浮き舞台にてお出迎えの三味線生演奏を。"
+  }
+}

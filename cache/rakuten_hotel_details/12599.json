@@ -1,0 +1,220 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 12599,
+    "hotelName": "湯の山温泉　旅館寿亭",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D12599",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D12599%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D12599",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D12599",
+    "hotelKanaName": "ゆのやまおんせん　りょかんことぶきてい",
+    "hotelSpecial": "楽天トラベルゴールドアワード受賞｜御在所で涼む夏休み。お部屋・個室の夕食と6種の貸切風呂",
+    "hotelMinCharge": 12650,
+    "latitude": 126044.77,
+    "longitude": 491213.25,
+    "postalCode": "510-1233",
+    "address1": "三重県",
+    "address2": "三重郡菰野町菰野8585",
+    "telephoneNo": "059-392-2131",
+    "faxNo": "059-392-2918",
+    "access": "【車】新名神：菰野ＩＣ（※ＥＴＣ専用）約１０分　東名阪：四日市ＩＣ約２５分【電車】湯の山温泉駅から無料送迎（約１０分）",
+    "parkingInformation": "有り　４０台　無料　係員が駐車場までご案内させて頂きます。",
+    "nearestStation": "湯の山温泉",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/12599/12599.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/12599.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/12599/12599_war.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/12599.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/12599/12599map.gif",
+    "reviewCount": 1427,
+    "reviewAverage": 4.63,
+    "userReview": "スタッフの連携と細やかな気配りに感心お掃除で気になるところがあったのでお伝えしたところ、すぐに対応頂けました。また、その連絡を他のスタッフの方とも共有がきちんとされていた点を見て、コミュニケーショ…　2026-08-12 18:24:28投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=12599\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.69,
+    "locationAverage": 4.41,
+    "roomAverage": 4.44,
+    "equipmentAverage": 4.29,
+    "bathAverage": 4.5,
+    "breakfastAverage": 4.54,
+    "dinnerAverage": 4.67,
+    "cleanlinessAverage": 4.58
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "mie",
+    "smallClassCode": "yunoyama",
+    "areaName": "四日市・桑名・湯の山・長島温泉",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "20:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 35,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ドライヤー(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "エステサロン"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "食事処"
+      },
+      {
+        "dinnerPlace": "部屋"
+      },
+      {
+        "dinnerPlace": "個室"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "単純温泉"
+      },
+      {
+        "bathBenefits": "神経痛"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      },
+      {
+        "bathBenefits": "リウマチ・神経病"
+      }
+    ],
+    "aboutLeisure": "ゴルフ,ハイキング,スキー,乗馬,ロッククライミング,トレッキング,登山,フラワーパーク,テーマパーク,美術館,山菜取り",
+    "handicappedFacilities": [
+      {
+        "item": "大浴場浴槽に手すりあり"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": "中国語：少し分かるスタッフが数人いる。<BR>英語：少し分かるスタッフが数人いる。<BR>韓国語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "①当日お越しの交通手段（車・電車・他）をお教えください。また、当日に連絡がとれる携帯番号などお教えください。,②Google mapを使用してお越しの際は「寿亭専用駐車場」と検索してください。,③小学生（低学年・高学年）のお子様料理は、大人に準じた会席料理となります。お子様ランチがご希望の際はご連絡ください（※宿泊料金の変更はございません）,④ご夕食のラストオーダーは、２０時でございます。２０時を超えますと、お食事の提供ができかねますので、ご注意ください。,⑤食物アレルギーの食材がございましたら食材名と人数をご記入ください。※重度のアレルギーの対応と苦手食材の変更はお受けいたしておりません。,アレルギー食材を使用した出汁・つなぎ・調味料等の使用を控える必要がある場合は、施設までご連絡お願いいたします。,⑥大人の方は入湯税が別途必要です。（ご宿泊の方：１５０円、日帰りの方：１５０円）,⑦なばなの里・ナガシマスパーランド・鈴鹿サーキットへは、車では高速を利用して、約３０～４０分程の距離でございます。,⑧※０歳以上の幼児のお子様は、施設利用料(朝食バイキング代含む)として２，２００円頂戴しております。（「幼児 食事・布団不要」で入力してください）,⑨※２０２０年５月より全客室が「禁煙」でございます。喫煙の方は３階の喫煙所をご利用下さいませ。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>2日前から           ：宿泊料���の40％    <BR>3日前から           ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "AEON"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "お部屋内のお風呂については温泉ではございません。,当館はバリアフリーが行き届いておりませんので、予めご了承下さいませ。"
+  }
+}

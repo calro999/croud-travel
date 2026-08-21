@@ -1,0 +1,202 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 160921,
+    "hotelName": "ＴＡＯＹＡ熱海（旧：大江戸温泉物語　ホテル水葉亭）（２０２６年７月１８日リブランドオープン）",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D160921",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D160921%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D160921",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D160921",
+    "hotelKanaName": "たおや　あたみ",
+    "hotelSpecial": "相模灘を望む露天風呂とオールインクルーシブを楽しむ温泉リゾートホテル",
+    "hotelMinCharge": 20900,
+    "latitude": 126382.56,
+    "longitude": 500721.13,
+    "postalCode": "413-0002",
+    "address1": "静岡県",
+    "address2": "熱海市伊豆山190-1",
+    "telephoneNo": "050-3615-3456",
+    "faxNo": " ",
+    "access": "熱海駅よりシャトルバスあり",
+    "parkingInformation": "有り　70台　有料",
+    "nearestStation": "熱海",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/160921/160921.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/160921.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/160921/160921_kan1.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/160921.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/160921/160921map.gif",
+    "reviewCount": 1212,
+    "reviewAverage": 3.98,
+    "userReview": "オールインクルーシブと食事に大満足!オールインクルーシブ最高ですね胃袋がもう一つ欲しいくらいです。夜のバイキングのパイ包みのスープと、朝のきのこソースのオムレツがとても美味しかったです!…　2026-08-15 10:32:18投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=160921\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 3.97,
+    "locationAverage": 4.05,
+    "roomAverage": 4.07,
+    "equipmentAverage": 3.77,
+    "bathAverage": 3.96,
+    "breakfastAverage": 3.97,
+    "dinnerAverage": 3.97,
+    "cleanlinessAverage": 4.05
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "shizuoka",
+    "smallClassCode": "atami",
+    "areaName": "熱海",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "19:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 125,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "※一部アメニティ類は「ロビー」または「大浴場（脱衣所）」にご用意しております。"
+      },
+      {
+        "item": "ラウンジ"
+      },
+      {
+        "item": "カラオケルーム"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "レストラン(バイキング)"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathQuality": "カルシウム・ナトリウム硫酸塩泉"
+      },
+      {
+        "bathQuality": "塩化物温泉"
+      },
+      {
+        "bathBenefits": "冷え性"
+      }
+    ],
+    "aboutLeisure": "海水浴,農業公園,美術館",
+    "handicappedFacilities": [
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "チェックインが予定時間を過ぎる場合必ずご連絡下さい。,宿泊者全員が未成年の場合　保護者の宿泊同意書が必要となります。詳しくは施設に連絡下さい。全員が15歳以下の場合は宿泊できません。,※3歳以上の幼児のお子様は有料です。（食事・布団付）をご選択ください。3歳未満のお子様でお布団追加の場合は、追加料金2,200円でご用意いたします。事前にお知らせください。,※別途、入湯税が発生いたします。また自治体で定められた入浴料・宿泊税が追加発生する場合があります。,※12歳以上（小学生を除く）の方は1人1泊につき宿泊税200円を頂戴いたします。 　詳しくは熱海市のホームページをご確認ください。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の50％    <BR>前日                ：宿泊料金の50％    <BR>2日前から           ：宿泊料金の30％    <BR>7日前から           ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Master Card"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": null
+  }
+}

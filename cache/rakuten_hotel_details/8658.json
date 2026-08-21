@@ -1,0 +1,223 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 8658,
+    "hotelName": "万座温泉　万座亭",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D8658",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D8658%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D8658",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D8658",
+    "hotelKanaName": "まんざおんせん　まんざてい",
+    "hotelSpecial": "大人気★ログ風の露天風呂＆乳白色の効能豊かな名湯で心と体の保養！貸切風呂も人気♪",
+    "hotelMinCharge": 5500,
+    "latitude": 131893.48,
+    "longitude": 498638.06,
+    "postalCode": "377-1528",
+    "address1": "群馬県",
+    "address2": "吾妻郡嬬恋村万座温泉内",
+    "telephoneNo": "0279-97-3133",
+    "faxNo": "0279-97-3777",
+    "access": "関越自動車道渋川伊香保ICより120分。国道292号線・県道牧干俣線は冬期通行止。",
+    "parkingInformation": "有り　50台　先着順　無料",
+    "nearestStation": "長野原草津口",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8658/8658.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/8658.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8658/8658_ha.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/8658.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8658/8658map.gif",
+    "reviewCount": 854,
+    "reviewAverage": 4.43,
+    "userReview": "夏でも温泉が心地よく、料理も美味しい美味しい料理と温泉が素敵でした。夏なので温泉熱すぎるかなと思ったのですが寒くて温泉がとても気持ちよく入れました。硫黄の香りもしてこれぞ温泉という感じでよかっ…　2026-08-14 18:14:22投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=8658\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.34,
+    "locationAverage": 4.37,
+    "roomAverage": 4.22,
+    "equipmentAverage": 4.29,
+    "bathAverage": 4.66,
+    "breakfastAverage": 4.33,
+    "dinnerAverage": 4.39,
+    "cleanlinessAverage": 4.38
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "gunma",
+    "smallClassCode": "manza",
+    "areaName": "万座･嬬恋･北軽井沢",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "18:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 49,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "洗浄機付トイレ(一部)"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "喫茶"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "貸スキー"
+      },
+      {
+        "item": "貸スキーウェア"
+      },
+      {
+        "item": "貸スノーボード"
+      },
+      {
+        "item": "卓球"
+      },
+      {
+        "item": "スキー乾燥室"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathType": "水風呂"
+      },
+      {
+        "bathQuality": "硫黄泉"
+      },
+      {
+        "bathBenefits": "胃腸病"
+      },
+      {
+        "bathBenefits": "糖尿病"
+      },
+      {
+        "bathBenefits": "リウマチ・神経病"
+      }
+    ],
+    "aboutLeisure": "ゴルフ,スキー,トレッキング,登山",
+    "handicappedFacilities": [
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "★入湯税150円(大人様）がかかります。,★2022年現在、国道292号線の草津温泉～万座温泉は通行可能となっております。（冬季は通行止めです）,★ご到着時間が17時を過ぎる場合はご連絡を下さい。2食付の場合、夕食時間は18時～・18時半～となり、19時以降のご到着だと夕食をお出しできない場合がございます。,★当日お客様と直接ご連絡が取れる電話番号をお教え下さいませ。（携帯番号等）,★ご登録いただきましたお電話番号に、ご予約の確認電話をさせて頂く場合がございますのでご了承下さいませ。,★11月中旬～５月上旬、お車でお越しの際には降雪の可能性に備え、チェーンもしくはスタッドレスタイヤでお越しくださいませ。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>7日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Master Card"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "将棋無料貸出,囲碁無料貸出",
+    "otherInformation": null
+  }
+}

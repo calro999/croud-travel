@@ -1,0 +1,250 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 183689,
+    "hotelName": "亀の井ホテル　奥日光湯元",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D183689",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D183689%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D183689",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D183689",
+    "hotelKanaName": "かめのいほてる　おくにっこうゆもと",
+    "hotelSpecial": "★高原の奥に広がる湖畔に佇む秘湯！綺麗な星空で有名な戦場ヶ原まで車で6分♪",
+    "hotelMinCharge": 9950,
+    "latitude": 132489.17,
+    "longitude": 501940.03,
+    "postalCode": "321-1662",
+    "address1": "栃木県",
+    "address2": "日光市湯元2519",
+    "telephoneNo": "0288-62-2700",
+    "faxNo": "0288-62-2710",
+    "access": "東武・JR日光駅より東武バスで80分（18時すぎ最終）「湖畔前」下車徒歩1分／日光宇都宮有料道路 清滝ICより車で60分",
+    "parkingInformation": "有り（無料）※屋根付き駐車場ではございません。ご理解のうえご予約ください。",
+    "nearestStation": "東武日光",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/183689/183689.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/183689.jpg",
+    "roomImageUrl": null,
+    "roomThumbnailUrl": null,
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/183689/183689map.gif",
+    "reviewCount": 1229,
+    "reviewAverage": 4.16,
+    "userReview": "納得の価格でバイキングと白濁の温泉を満喫宿泊日の10 日前、家族の予定があい、お盆真っ只中であるけれど、旅行にでもいこうということになり、こちらに、運良く空きがあり予約しました。日程的にお高いお値…　2026-08-15 20:08:43投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=183689\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.12,
+    "locationAverage": 4.36,
+    "roomAverage": 3.98,
+    "equipmentAverage": 3.89,
+    "bathAverage": 4.39,
+    "breakfastAverage": 4.11,
+    "dinnerAverage": 4.13,
+    "cleanlinessAverage": 4.12
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "tochigi",
+    "smallClassCode": "nikko",
+    "areaName": "日光・中禅寺湖・奥日光・今市",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "22:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 78,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "【アメニティについて】シャワーキャップ・くし・カミソリは大浴場に設置しています。"
+      },
+      {
+        "item": "【卓球スペース】営業時間：17時〜22時、料金：30分 550円 (税込)"
+      },
+      {
+        "item": "【電子レンジ】自動販売機コーナーに共用の電子レンジを設置しています。"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "貸自転車"
+      },
+      {
+        "item": "卓球"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "レストラン(バイキング)"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "単純硫黄泉"
+      },
+      {
+        "bathQuality": "カルシウム・ナトリウム硫酸塩泉"
+      },
+      {
+        "bathQuality": "塩化物温泉"
+      },
+      {
+        "bathBenefits": "糖尿病"
+      },
+      {
+        "bathBenefits": "冷え性"
+      },
+      {
+        "bathBenefits": "皮膚病"
+      }
+    ],
+    "aboutLeisure": "釣り,サイクリング,ハイキング,スキー,トレッキング",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "大浴場浴槽に手すりあり"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "12歳以上の方は別途入湯税が必要です(150円/1泊),3歳未満のお子様は1泊あたり1，650円（税込）の料金がかかります。（幼児:食事・布団不要）を選択し人数を追加してください。,お車でお越しのお客様 12月～4月上旬頃まで、スタッドレスタイヤまたはチェーン携行が必要です。,お布団はプライベート空間保持のため、事前に敷かさせていただいております。,インボイス制度への対応のため、領収書の発行は1回の支払い・取引（会計）につき1枚の発行となります。1室1泊の宿泊料金を分割した領収書や宿泊料金の一部金額のみの領収書の発行はいたしかねます。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の80％    <BR>3日前から           ：宿泊料金の50％    <BR>10日前から          ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      }
+    ],
+    "aboutCreditCardNote": "銀聯カード",
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "3歳未満のお子様は1泊あたり1650円（税込）の料金がかかります。ご予約時に【幼児:食事・布団不要】,をご選択ください。3歳&#12316;小学生未満のお子様は【幼児：食事布団付】【幼児：食事のみ】,【幼児：布団のみ】の何れかでご予約ください。"
+  }
+}

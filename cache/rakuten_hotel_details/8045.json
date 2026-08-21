@@ -1,0 +1,280 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 8045,
+    "hotelName": "ＡＮＤＯ　ＨＯＴＥＬ　奈良若草山（ＤＬＩＧＨＴ　ＬＩＦＥ　＆　ＨＯＴＥＬＳ）",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D8045",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D8045%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D8045",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D8045",
+    "hotelKanaName": "あんど　ほてる　なら　わかくさやま",
+    "hotelSpecial": "【日本の宿アワード4年連続受賞】　 星空観測、薪割り＆焚き火等の無料アクティビティ人気",
+    "hotelMinCharge": 11000,
+    "latitude": 124892.73,
+    "longitude": 489053.35,
+    "postalCode": "630-8202",
+    "address1": "奈良県",
+    "address2": "奈良市川上町728",
+    "telephoneNo": "0742-23-5255",
+    "faxNo": "0742-24-5255",
+    "access": "近鉄奈良駅・ＪＲ奈良駅より車で10～20分※無料送迎有り（事前連絡要）/西名阪自動車道　天理ICより車で約25分",
+    "parkingInformation": "有り　30台　駐車料金無料",
+    "nearestStation": "近鉄奈良",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8045/8045.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/8045.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8045/8045_heya.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/8045.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8045/8045map.gif",
+    "reviewCount": 389,
+    "reviewAverage": 4.37,
+    "userReview": "写真とのギャップが大きく、騒がしく落ち着かないこの宿、写真とのギャップが大きすぎます。「リノベーション」と記載されていますが、実際には部屋の内装の一部だけを改修したという印象でした。建物自体はかな…　2026-08-12 09:23:10投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=8045\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.38,
+    "locationAverage": 4.51,
+    "roomAverage": 4.38,
+    "equipmentAverage": 4.31,
+    "bathAverage": 4.38,
+    "breakfastAverage": 4.31,
+    "dinnerAverage": 4.3,
+    "cleanlinessAverage": 4.34
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "nara",
+    "smallClassCode": "nara",
+    "areaName": "奈良・大和高原",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "18:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 24,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "リンスインシャンプー"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "洗顔ソープ"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "パジャマ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "喫茶"
+      },
+      {
+        "item": "ティーラウンジ"
+      },
+      {
+        "item": "ラウンジ"
+      },
+      {
+        "item": "バー"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "結婚式場"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "湯上がりサロン"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "屋外プール"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "ペット同宿可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン"
+      },
+      {
+        "breakfastPlace": "広間"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      },
+      {
+        "dinnerPlace": "広間"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      }
+    ],
+    "aboutLeisure": "ゴルフ,登山,陸上競技,博物館,美術館",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "客室内トイレに手すりあり"
+      },
+      {
+        "item": "大浴場浴槽に手すりあり"
+      },
+      {
+        "item": "大浴場での介助入浴可能"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "【※ご注意※】当館は、ドライヴウェイ（有料道路）の中にある為、入口に料金所がございます。,→係員に「アンドホテルに行く」とお伝えいただき、料金の支払いなくお進み下さい。ご到着後、通行券をフロントにてお買い求め下さい。,　当日お客様と連絡が取れる電話番号（携帯等）を教えてください。,　チェックインが18時をすぎる場合は必ずお電話下さい。,　お布団をご希望される場合はあらかじめご相談くださいませ。,夕食のご希望時間を下記の3枠となります。夕食時間の指定がございましたら事前にお知らせください。（先着順）,①17：30　②19：30　となります。先着順となります。予めご了承ください。,無料アクティビティ「星空ウォッチングツアー」への参加をご希望の方は、 ご予約の夕食時間によってツアーへの参加時間が異なりますので予めご了承ください。,17：30～夕食のお客様は20：00からのツアー、 19：30～夕食のお客様は21：30からのツアーのご案内になります。,※混み合い状況によりご希望に沿えない場合がございます。予めご了承くださいませ。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の80％    <BR>5日前から           ：宿泊料金の30％    <BR>7日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "デビ���トカード"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": null
+  }
+}

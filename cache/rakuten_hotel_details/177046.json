@@ -1,0 +1,224 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 177046,
+    "hotelName": "ホテル京阪　仙台",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D177046",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D177046%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D177046",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D177046",
+    "hotelKanaName": "けいはん　せんだい",
+    "hotelSpecial": "【全室禁煙】徒歩：ＪＲ・地下鉄仙台駅約８分！ＪＲ青葉通り駅２番出口約２分！",
+    "hotelMinCharge": 5450,
+    "latitude": 137725.3,
+    "longitude": 507168.22,
+    "postalCode": "980-0021",
+    "address1": "宮城県",
+    "address2": "仙台市青葉区中央3-3-5　七十七銀行本店となり",
+    "telephoneNo": "022-263-0321",
+    "faxNo": "022-265-6411",
+    "access": "◆ＪＲ／地下鉄「仙台駅」より徒歩にて約8分　◆ＪＲ「青葉通り駅」２番出口から徒歩約２分",
+    "parkingInformation": "ホテル建物地下に、契約駐車場有。先着順。（駐車場情報は施設紹介ページ【近隣駐車場のご案内】にて）",
+    "nearestStation": "仙台",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/177046/177046.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/177046.jpg",
+    "roomImageUrl": null,
+    "roomThumbnailUrl": null,
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/177046/177046map.gif",
+    "reviewCount": 670,
+    "reviewAverage": 4.34,
+    "userReview": "立地が良くスタッフの対応も親切で大満足街歩きに最適な立地。わたしは洗剤の合成香料のアレルギーがあり、前のゲストの残香がベッドに染みついていて不快なことが多々ありますが、こちらのスタッフさんはとても…　2026-08-15 13:31:57投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=177046\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.28,
+    "locationAverage": 4.3,
+    "roomAverage": 4.41,
+    "equipmentAverage": 4.3,
+    "bathAverage": 4.22,
+    "breakfastAverage": 4.2,
+    "cleanlinessAverage": 4.36
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "miyagi",
+    "smallClassCode": "sendai",
+    "areaName": "仙台・多賀城・名取",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "23:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 201,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "洗顔ソープ"
+      },
+      {
+        "item": "入浴剤"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "ナイトウェア"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "アメニティ関係は、全て１階ロビーアメニティバーにてご用意しております"
+      },
+      {
+        "item": "２階にランドリーコーナーをご用意しております（有料。キャッシュレス決済のみ対応）"
+      },
+      {
+        "item": "２階にウォーターサーバー、自動販売機、製氷機、電子レンジをご用意しております"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "宅配便"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      }
+    ],
+    "aboutBath": [],
+    "aboutLeisure": null,
+    "handicappedFacilities": [
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "車椅子利用者用客室あり"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "チェックインが予定時間を過ぎる場合は必ずご連絡ください。,当ホテルとの宿泊契約には、当ホテルが定める宿泊約款その他利用規則等が適用されます。,宿泊約款について、公式サイトをご確認ください。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の80％    <BR>前日                ：宿泊料金の50％    <BR>3日前から           ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "楽天カード"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "２階レストランにて、無料セルフコーヒーサービス有（利用可能時間：１４時〜２１時）",
+    "otherInformation": null
+  }
+}

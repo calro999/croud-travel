@@ -1,0 +1,250 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 10934,
+    "hotelName": "富山地鉄ホテル",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D10934",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D10934%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D10934",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D10934",
+    "hotelKanaName": "とやまちてつほてる",
+    "hotelSpecial": "◆立地評価１位！◆朝食高評価！◆富山駅直結◆コーヒー＆漫画24H無料◆Wi-Fi◆貸出備品充実",
+    "hotelMinCharge": 4600,
+    "latitude": 132111.22,
+    "longitude": 493982.94,
+    "postalCode": "930-0003",
+    "address1": "富山県",
+    "address2": "富山市桜町1-1-1",
+    "telephoneNo": "076-442-6611",
+    "faxNo": "076-442-8153",
+    "access": "・ＪＲ富山駅横 　・富山空港よりバス・タクシーで約25分　・富山ＩＣより約20分",
+    "parkingInformation": "「地鉄ビル立体駐車場」1,000円/泊(税込)",
+    "nearestStation": "富山",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/10934/10934.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/10934.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/10934/10934_sgl.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/10934.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/10934/10934map.gif",
+    "reviewCount": 3838,
+    "reviewAverage": 4.18,
+    "userReview": "部屋は綺麗で自転車も便利、空調音だけが残念部屋は綺麗に清掃されていて気持ちよく過ごせました。ただ、空調のカラカラという音が気になり、寝づらかったです。その他はとても良かったです。自転車も借りる…　2026-08-13 20:36:05投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=10934\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.16,
+    "locationAverage": 4.36,
+    "roomAverage": 4.16,
+    "equipmentAverage": 4.06,
+    "bathAverage": 4,
+    "breakfastAverage": 4.13,
+    "cleanlinessAverage": 4.19
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "toyama",
+    "smallClassCode": "toyama",
+    "areaName": "富山・八尾・立山",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "26:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 164,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "有料ビデオ"
+      },
+      {
+        "item": "衛星放送（無料）"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(LAN形式)"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "入浴剤"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "ナイトガウン"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "全客室インターネット接続無料《無線ＬＡＮ（Ｗｉ－Ｆｉ）・有線ＬＡＮ（ＶＰＮ方式）》"
+      },
+      {
+        "item": "ＶＯＤ放送有料（１泊１，０００円）、地上波放送・ＢＳ放送無料"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "ラウンジ"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "貸自転車"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "パソコン利用可"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      }
+    ],
+    "aboutBath": [],
+    "aboutLeisure": null,
+    "handicappedFacilities": [],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "●ご宿泊料金は前会計にてお願いいたしております。チェックイン時に現金もしくはクレジットカード等にて頂戴いたしております。（電子マネーも一部ご利用いただけます、詳しくはフロントスタッフにお尋ねください）,●１ベッドにつき小学生までお子様の添い寝は１名無料です。添い寝のお子様分のアメニティはございません、予めご了承ください。尚、ベッドをお子様のみで利用する場合は、小学生以下でも大人と同じ料金,を頂戴します。※朝食代金は別途頂戴いたします。（０～３才までは無料）,●ツインルーム等の複数のベッドがある場合、小学生のお子様が添い寝される場合は「幼児」として入力してください。上記にも記載してますがお子様のみでベッドを使用する場合は大人扱いとなります。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の80％    <BR>前日                ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "OMC"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "JACCS"
+      },
+      {
+        "card": "APLUS"
+      },
+      {
+        "card": "CF"
+      },
+      {
+        "card": "LIFE"
+      },
+      {
+        "card": "ORICO"
+      },
+      {
+        "card": "JTB"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "ウェルカムドリンクサービス",
+    "otherInformation": null
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 16668,
+    "hotelName": "熱海温泉　古屋旅館",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D16668",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D16668%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D16668",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D16668",
+    "hotelKanaName": "あたみおんせん　ふるやりょかん",
+    "hotelSpecial": "【創業220周年】安心の全室部屋食！2026年7月新タイプの露天付き客室OPEN！源泉かけ流し温泉",
+    "hotelMinCharge": 37180,
+    "latitude": 126340.52,
+    "longitude": 500679.66,
+    "postalCode": "413-0012",
+    "address1": "静岡県",
+    "address2": "熱海市東海岸町5-24",
+    "telephoneNo": "0557-81-0001",
+    "faxNo": "0557-83-6635",
+    "access": "ＪＲ熱海駅からタクシーで５分。徒歩１３分。熱海サンビーチまでは徒歩３分♪",
+    "parkingInformation": "有り　３５台　無料",
+    "nearestStation": "熱海",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/16668/16668.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/16668.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/16668/16668_heya.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/16668.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/16668/16668map.gif",
+    "reviewCount": 563,
+    "reviewAverage": 4.89,
+    "userReview": " 以前宿泊した際の素晴らしい接客とお料理が忘れられず、出産前最後の旅行として再度夫と利用いたしました。妊娠中ということで料理等の変更について事前にご提案いただき、安心して利用することができました。…　2026-08-03 07:39:43投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=16668\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.88,
+    "locationAverage": 4.47,
+    "roomAverage": 4.88,
+    "equipmentAverage": 4.82,
+    "bathAverage": 4.87,
+    "breakfastAverage": 4.85,
+    "dinnerAverage": 4.85,
+    "cleanlinessAverage": 4.88
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "shizuoka",
+    "smallClassCode": "atami",
+    "areaName": "熱海",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "18:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 26,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "ビデオデッキ(貸出)"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "ＣＤプレイヤ－(貸出)"
+      },
+      {
+        "item": "カセットデッキ(貸出)"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "洗顔ソープ"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "おふろセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "喫茶"
+      },
+      {
+        "item": "バー"
+      },
+      {
+        "item": "ナイトクラブ"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "ペット同宿可"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "ルームサービス"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "部屋"
+      },
+      {
+        "breakfastPlace": "広間"
+      },
+      {
+        "dinnerPlace": "部屋"
+      },
+      {
+        "dinnerPlace": "広間"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "ナトリウム塩化物泉"
+      },
+      {
+        "bathBenefits": "肩凝り"
+      },
+      {
+        "bathBenefits": "健康"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      }
+    ],
+    "aboutLeisure": "海水浴,海釣り,クルージング,ダイビング,ウォータースポーツ,テニス,ゴルフ,サッカー,パラグライダー,サイクリング,ハイキング,遊園地,博物館,水族館,テーマパーク",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "ペット様ご宿泊の場合は以下3点をお守りください。※規定体重（1匹の場合8kg迄、2匹の場合合計12kg迄）以上のペット様はご宿泊できません。,必ずお電話にてペット部屋が空いているかご確認いただき、ご予約の意思をお伝えください。,楽天トラベルでのご予約時、備考欄にペットがいる旨と「犬種・体重」をご記載ください。,ご予約後に当館よりお送りするペット宿泊規定を必ずお読みいただき、ご同意ください。,ペット様が泊まれるお部屋は限定されております。どのお部屋でも泊まれるわけではありませんので、ご注意よろしくお願いいたします。,上記をお守りいただける方のみ、ペット様とご宿泊が可能です。,ご予定時刻を大幅に遅れる場合は、お電話にてご連絡下さい。,お御足のお悪い方は、事前にお申し伝え下さいませ。,安全管理上の問題から、おむつの取れていない小さな赤ちゃんについては、原則入浴をご遠慮頂いております。,【アレルギー対応について】ご対応できない食材も多くございます。必ず古屋旅館ウェブサイトの『よくあるご質問→アレルギー対応について』を事前にご確認の上お申込みくださいませ。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>4日前から           ：宿泊料金の80％    <BR>7日前から           ：宿泊料金の50％    <BR>14日前から          ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "デビットカード"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "着替え浴衣サービス,夕刊・朝刊サービス,囲碁無料貸出",
+    "otherInformation": "別途、1人1泊につき「入湯税150円」「宿泊税200円」をお支払いください,※年齢12歳未満は非課税,※宿泊税は2025年4月1日以降のご宿泊が対象となります"
+  }
+}

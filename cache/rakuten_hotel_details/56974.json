@@ -1,0 +1,261 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 56974,
+    "hotelName": "ホテルルートイン那覇泊港",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D56974",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D56974%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D56974",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D56974",
+    "hotelKanaName": "ほてるるーといん　なはとまりこう　るーといんなはまえじま",
+    "hotelSpecial": "&#9830;14階展望大浴場完備&#9830;朝食無料サービス&#9830;WOWOW無料視聴可能",
+    "hotelMinCharge": 5200,
+    "latitude": 94384.67,
+    "longitude": 459667.7,
+    "postalCode": "900-0016",
+    "address1": "沖縄県",
+    "address2": "那覇市前島2-12-5",
+    "telephoneNo": "050-1725-9716",
+    "faxNo": "098-866-0710",
+    "access": "那覇空港より車で約１０分（４．５ｋｍ）/モノレール美栄橋駅より徒歩５分。",
+    "parkingInformation": "有：72台駐車可能、有料：1000円/泊、先着順、制限有：高さ1.55mまで",
+    "nearestStation": "那覇空港",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/56974/56974.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/56974.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/56974/56974_da.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/56974.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/56974/56974map.gif",
+    "reviewCount": 1612,
+    "reviewAverage": 4.07,
+    "userReview": "部屋も綺麗でくつろげました。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/56974?reviewId=3312347…　2026-08-15 19:04:24投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=56974\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.12,
+    "locationAverage": 4.09,
+    "roomAverage": 4.04,
+    "equipmentAverage": 4.02,
+    "bathAverage": 4.12,
+    "breakfastAverage": 4.17,
+    "cleanlinessAverage": 4.05
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "okinawa",
+    "smallClassCode": "nahashi",
+    "areaName": "那覇",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "26:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 208,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "有料ビデオ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "洗顔ソープ"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "くつろぎ着の作務衣"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "クリーニングサービス（有料）、ファックス送信可（有料）、ボディマッサージ手配（有料）、宅配便（有料）"
+      },
+      {
+        "item": "コピー可（有料）、コインランドリー・乾燥機（有料）、マッサージチェア（有料）"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "人工温泉"
+      },
+      {
+        "bathQuality": "ラジウム温泉"
+      },
+      {
+        "bathBenefits": "筋肉痛"
+      },
+      {
+        "bathBenefits": "冷え性"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      }
+    ],
+    "aboutLeisure": "国際通り徒歩10分/壺屋・やちむん通り徒歩15分/首里城 車15分/沖縄県立博物館・美術館 車5分,海水浴,釣り,海釣り,カヌー,クルージング,ウィンドサーフィン,ダイビング,ウォータースポーツ,ゴルフ,パラグライダー,洞窟探検,遊園地,博物館,水族館,フラワーパーク,テーマパーク,美術館,水上バス",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "バリアフリールーム"
+      },
+      {
+        "item": "車椅子利用者用客室あり"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "客室内トイレに手すりあり"
+      },
+      {
+        "item": "館内の点字案内"
+      },
+      {
+        "item": "大浴場浴槽に手すりあり"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      }
+    ],
+    "linguisticLevel": "中国語：少し分かるスタッフが数人いる。<BR>英語：日常的な内容は問題のないスタッフが数人いる。<BR>韓国語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "【重要：沖縄県宿泊税導入についてお知らせ】2027年2月1日（月）以降のご宿泊分より、 熊本市において宿泊税が導入されます。,宿泊料金とは別にチェックイン時に「おひとり様1泊あたりの宿泊料金（税抜）の2％」の宿泊税をお支払いただきます。,画面上に表示される宿泊料金には消費税は含まれておりますが、宿泊税は含まれておりませんのでご注意ください。2027年1月31日より前に予約された場合でも、2月1日以降の宿泊分には宿泊税が適用されます。,駐車場のご利用は、先着順（有料1,000円・１泊１台）です。立体駐車場の為、高さの制限が有りますので、大型車の駐車は出来かねます。ご了承下さい。,２１時を過ぎるご到着の場合は必ずご一報ください。,お問い合わせ時にお電話のかけ間違いが多数ございます、ご注意をお願い致します。,【Pontaポイント3％付与】は、ルートインホテルズ公式ホームページのみの予約特典です。当サイトからのご予約は、一部プラン（Pontaポイン��付プラン）を除き付与対象外です。,当ホテルとの宿泊契約には、当ホテルが定める宿泊約款が適用されます。宿泊約款の内容については各ホテルにお問合せください。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の80％    <BR>前日                ：宿泊料金の50％    <BR>2日前から           ：宿泊料金の20％    <BR>3日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Discover"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": "銀聯カード/QRコード決済(PayPay等）、電子マネー(iD等)、交通系電子マネー(Suica等)",
+    "aboutPointAdd": "Pontaポイント加算は致しかねます。(現地クレジットによるお買い上げポイントは除く。)",
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "ウェルカムドリンクサービス(15時〜22時・6時30分〜10時),ウェルカムドリンクサービス,時間外チェックイン可,時間外チェ���クアウト可",
+    "otherInformation": "お問い合わせの際には、お電話のおかけ間違いない様、お願い致します（０９８－８６６－０７００）"
+  }
+}

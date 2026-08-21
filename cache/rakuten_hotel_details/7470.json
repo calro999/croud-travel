@@ -1,0 +1,207 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 7470,
+    "hotelName": "呉阪急ホテル",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D7470",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D7470%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D7470",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D7470",
+    "hotelKanaName": "くれ　はんきゅうほてる",
+    "hotelSpecial": "阪急阪神第一ホテルグループ★歴史と浪漫の街に南欧風快適空間",
+    "hotelMinCharge": 8200,
+    "latitude": 123269.86,
+    "longitude": 477221.4,
+    "postalCode": "737-0051",
+    "address1": "広島県",
+    "address2": "呉市中央1-1-1",
+    "telephoneNo": "0823-20-1111",
+    "faxNo": "0823-20-1120",
+    "access": "ＪＲ呉線呉駅下車徒歩１分。呉港から徒歩約７分。「大和ミュージアム」＆「てつのくじら館（実物潜水艦展示）」まで徒歩約６分。",
+    "parkingInformation": "先着順（1,100円／泊） ※トラック等普通車以外は不可。地下駐車場からはエレベーターはありません。",
+    "nearestStation": "呉",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7470/7470.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/7470.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7470/7470_sgl.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/7470.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7470/7470map.gif",
+    "reviewCount": 2185,
+    "reviewAverage": 4.51,
+    "userReview": "清潔で落ち着く部屋とスパでリラックスできたとても快適に過ごすことができました。お部屋は清潔で落ち着いており、夜もゆっくり休むことができました。スパも利用しましたが、とてもリラックスでき、滞在中の良…　2026-08-13 17:01:48投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=7470\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.51,
+    "locationAverage": 4.56,
+    "roomAverage": 4.54,
+    "equipmentAverage": 4.43,
+    "bathAverage": 4.29,
+    "breakfastAverage": 4.29,
+    "dinnerAverage": 4.67,
+    "cleanlinessAverage": 4.49
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "hiroshima",
+    "smallClassCode": "kure",
+    "areaName": "呉・江田島",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "24:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 70,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ベビーベッド"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "ナイトウェア"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "【全室禁煙】喫煙スペースは１階ロビーにございます。"
+      },
+      {
+        "item": "【客室空調】全館一括空調です。個別に冷房・暖房の切り替えはできません。"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "ティーラウンジ"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "結婚式場"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "フィットネスクラブ"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [],
+    "aboutLeisure": "海水浴,釣り",
+    "handicappedFacilities": [
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "キャンセルポリシーはプランにより異なる場合がございます。詳細は各プランをご確認ください。,誠に勝手ながら、2026年4月1日ご宿泊より、チェックイン時間を15：00に、チェックアウト時間を11：00に変更させていただきます。,　　　　　　　　　　　　　　　　　　　　　　　　　　　　,　　　　　　　　　",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の80％    <BR>前日                ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "JACCS"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": null
+  }
+}

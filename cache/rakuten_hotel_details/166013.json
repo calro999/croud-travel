@@ -1,0 +1,236 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 166013,
+    "hotelName": "ＤＥＬ　ｓｔｙｌｅ　大阪東天満　ｂｙ　Ｄａｉｗａ　Ｒｏｙｎｅｔ　Ｈｏｔｅｌ",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D166013",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D166013%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D166013",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D166013",
+    "hotelKanaName": "でるすたいるおおさかひがしてんま　ばい　だいわろいねっとほてる",
+    "hotelSpecial": "エアウィーブ完備！大浴場・女性専用EV＆フロア！ラウンジでドリンク無料＆アメニティバイキング設置！",
+    "hotelMinCharge": 4400,
+    "latitude": 124899.3,
+    "longitude": 487864.09,
+    "postalCode": "530-0044",
+    "address1": "大阪府",
+    "address2": "大阪市北区東天満2-6-3                             ",
+    "telephoneNo": "06-6351-6186",
+    "faxNo": "06-6351-6187",
+    "access": "Osaka Metro（地下鉄）谷町線・堺筋線「南森町」・JR東西線「大阪天満宮」9番出口すぐ",
+    "parkingInformation": "無し（近隣にコインパーキング多数あり )",
+    "nearestStation": "大阪天満宮",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/166013/166013.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/166013.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/166013/166013_kan1.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/166013.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/166013/166013map.gif",
+    "reviewCount": 1629,
+    "reviewAverage": 4.31,
+    "userReview": "商店街が近く便利、レディースフロアも快適2回目の滞在です。天神橋筋商店街が近く、とても便利です。ホテルの方もとても爽やかで丁寧。レディースフロアだったので大浴場に行くのも気楽に行けてとても快適…　2026-08-15 16:57:30投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=166013\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.29,
+    "locationAverage": 4.27,
+    "roomAverage": 4.31,
+    "equipmentAverage": 4.3,
+    "bathAverage": 4.3,
+    "breakfastAverage": 3.93,
+    "cleanlinessAverage": 4.36
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "osaka",
+    "smallClassCode": "shi",
+    "areaName": "大阪",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "14:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "29:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 216,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "有料ビデオ"
+      },
+      {
+        "item": "衛星放送（無料）"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "洗顔ソープ"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "ナイトウェア"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "全館無料　無線LAN（Wi-Fi規格）"
+      },
+      {
+        "item": "加湿機能付空気清浄機"
+      },
+      {
+        "item": "ワイヤレス充電器（腕時計型端末用）の貸し出しもあり"
+      },
+      {
+        "item": "ラウンジ"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      }
+    ],
+    "aboutMealPlace": [],
+    "aboutBath": [
+      {
+        "bathType": "大浴場"
+      }
+    ],
+    "aboutLeisure": null,
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "バリアフリールーム"
+      },
+      {
+        "item": "車椅子利用者用客室あり"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "◆チェックインが予定時間を過ぎる場合は必ずご連絡ください。ご連絡がない場合、キャンセル扱いとさせていただく場合がございます。,◆ご宿泊代は、チェックイン時の前受精算でお願いいたします。,◆オンラインカード決済のご予約につきましても宿泊税は別途ホテルにて頂いております。,◆添い寝は12歳以下のお子様に限り、ベッド1台に付き1名様まで無料でご利用頂けます。,◆保護者に同伴する男児の女湯利用、または女児の男湯利用は、 未就学児までとさせていただきます。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の80％    <BR>前日                ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      }
+    ],
+    "aboutCreditCardNote": "銀聯（ぎんれい）カードもご利用頂けます。",
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "ウェルカムドリンクサービス",
+    "otherInformation": "大阪駅    梅田駅　南森町    北区　大阪天満宮　造幣局　天神橋筋商店街　お初天神　東梅田駅,大浴場　梅田　女性専用エレベーター　レディースフロア　女性専用　ラウンジ,ダイワシティ　ダイワロイヤルホテル　ダイワシティ東天満　ダイワロイヤル　ダイワロイネット"
+  }
+}

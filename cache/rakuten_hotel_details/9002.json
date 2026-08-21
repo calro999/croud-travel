@@ -1,0 +1,226 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 9002,
+    "hotelName": "新潟シティホテル古町通り（ＢＢＨホテルグループ）",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D9002",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D9002%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D9002",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D9002",
+    "hotelKanaName": "にいがたしてぃほてるふるまちどおり　びーびーえっちほてるぐるーぷ",
+    "hotelSpecial": "「古町」の中心に位置しビジネス・観光の拠点に最適♪落ち着いた部屋　充実した貸出品♪無料朝食も大人気♪",
+    "hotelMinCharge": 3000,
+    "latitude": 136514.41,
+    "longitude": 500575.46,
+    "postalCode": "951-8063",
+    "address1": "新潟県",
+    "address2": "新潟市中央区古町通8番町1430番地",
+    "telephoneNo": "050-1807-3191",
+    "faxNo": "025-223-2969",
+    "access": "JR新潟駅（万代口）から車で10分。新潟空港より車で20分。高速道・新潟西/新潟中央ICより車で15分",
+    "parkingInformation": "①東堀パーク600駐車場￥1100／②タイムズNEXT21￥500",
+    "nearestStation": "新潟",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9002/9002.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/9002.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9002/9002_sig.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/9002.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9002/9002map.gif",
+    "reviewCount": 2091,
+    "reviewAverage": 3.86,
+    "userReview": "荷物の預かりサービスと観光情報が充実時間外の荷物を提携のホテルで預かって下さり、たいへん助かりました。観光用の無料のパンフレットも充実していました。クチコミの詳細はこちらから　https://…　2026-07-28 12:14:47投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=9002\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 3.84,
+    "locationAverage": 3.95,
+    "roomAverage": 3.77,
+    "equipmentAverage": 3.75,
+    "bathAverage": 3.69,
+    "breakfastAverage": 3.85,
+    "cleanlinessAverage": 3.81
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "niigata",
+    "smallClassCode": "niigata",
+    "areaName": "新潟",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "16:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "24:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 64,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "ファックス(貸出)"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "リンスインシャンプー"
+      },
+      {
+        "item": "洗顔ソープ"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "充実の無料貸出し品♪（充電器・限定シャンプー＆リンス、加湿器、ズボンプレッサー、消臭スプレーなど）"
+      },
+      {
+        "item": "全室無線LAN（Wi‐Fi）にてインターネット利用可♪"
+      },
+      {
+        "item": "加湿機能付き空気清浄機 全室完備♪"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "ナイトクラブ"
+      },
+      {
+        "item": "居酒屋コーナー"
+      },
+      {
+        "item": "カラオケルーム"
+      },
+      {
+        "item": "多目的室"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "コンビニエンスストア"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "パソコン利用可"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "宅配便"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      }
+    ],
+    "aboutBath": [],
+    "aboutLeisure": "海岸沿いを走るシーサイドライン、夕日が綺麗な日本海夕日ラインなどおススメのドライブスポット多数。,海水浴,釣り,海釣り,ゴルフ,サッカー,サイクリング,博物館,水族館,美術館,水上バス",
+    "handicappedFacilities": [],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "【夜間閉鎖時間のご案内】深夜0時～６時はフロントは閉鎖となり、緊急時のみの対応となります。（受付・お問い合わせ等はお受けできませんので予めご了承くださいませ）,24時までに必ずご来館をお願いいたします。※館内外の出入りは24時間可能です(ご安心ください),15時～19時ごろまでは、フロントが大変交混雑いたしております。この時間帯の電話お問い合わせはお控えくださいませ。　　,ご到着予定時刻を大幅に過ぎる場合は、必ずご一報下さい。（ご連絡がない場合は、キャンセル扱いとさせて頂く場合がございます。）,提携駐車場は、大きさ制限＆台数制限がございます（先着順）価格も異なります。,①東堀パーク600駐車場 1泊1,100円(出し入れ可)徒ホテル斜め向い　②タイムズNEXT21駐車場 1泊500円(1回券)徒歩5分,全室無線ＬＡＮ対応、インターネットのご利用はワイヤレス対応ＰＣでなければご利用頂けません。,添い寝（食事・布団なし）のお子様のご利用につきましても、「施設利用料」としてご料金を頂戴致しております。,特典（朝食／クオカード／ＴＶカード等）現金への換金につきましては、いかなる場合も致しかねますのでご了承下さいませ。,万が一減泊になった場合につきましても、キャンセル規定を適用させて頂きますのでご了承下さい。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の80％    <BR>前日                ：宿泊料金の50％    <BR>2日前から           ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": "お支払い方法は「一括払い」のみとなります。",
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "無料サービス大充実♪（コーヒー、ＤＶＤレンタル、マンガ本コーナー、マッサージチェア、お茶漬けなど）,ウェルカムドリンクサービス,将棋無料貸出,囲碁無料貸出",
+    "otherInformation": "お部屋でのインターネットは全室無線LAN（Wi‐Fi）となっております。,深夜0時〜朝6時まではフロントは閉鎖時間となります。※館内外出入は24時間可能です。"
+  }
+}

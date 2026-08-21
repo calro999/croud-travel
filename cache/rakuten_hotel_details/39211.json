@@ -1,0 +1,183 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 39211,
+    "hotelName": "法師温泉　長寿館",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D39211",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D39211%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D39211",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D39211",
+    "hotelKanaName": "ほうしおんせん　ちょうじゅかん",
+    "hotelSpecial": "≪国登録有形文化財≫敷き詰められた玉石の間から湧き上がる純度100％の源泉かけ流し温泉",
+    "hotelMinCharge": 18700,
+    "latitude": 132269.15,
+    "longitude": 499801.24,
+    "postalCode": "379-1401",
+    "address1": "群馬県",
+    "address2": "利根郡みなかみ町永井650",
+    "telephoneNo": "0278-66-0005",
+    "faxNo": "0278-66-0003",
+    "access": "上越新幹線　上毛高原駅より猿ヶ京乗り換え法師温泉行きバスで５０分／関越自動車道　月夜野ＩＣより２５ｋｍ（約４０分）",
+    "parkingInformation": "有り　５０台　無料　先着順",
+    "nearestStation": "上毛高原",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/39211/39211.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/39211.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/39211/39211_kya.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/39211.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/39211/39211map.gif",
+    "reviewCount": 495,
+    "reviewAverage": 4.36,
+    "userReview": "三国山の麓で温泉と山の幸に癒される旅三国山の麓、静かな一軒宿。肌にやさしい温泉、山の幸に恵まれた料理。一泊の旅行でしたが、心も身体も癒されました。また、再び訪れたい宿です。(ま)他…　2026-08-15 18:02:38投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=39211\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.27,
+    "locationAverage": 4.55,
+    "roomAverage": 4.33,
+    "equipmentAverage": 4.16,
+    "bathAverage": 4.68,
+    "breakfastAverage": 4.15,
+    "dinnerAverage": 4.15,
+    "cleanlinessAverage": 4.31
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "gunma",
+    "smallClassCode": "numata",
+    "areaName": "水上・猿ヶ京・沼田",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:30",
+    "lastCheckinTime": "20:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 37,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー(一部)"
+      },
+      {
+        "item": "ズボンプレッサー(一部)"
+      },
+      {
+        "item": "洗浄機付トイレ(一部)"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "部屋"
+      },
+      {
+        "breakfastPlace": "広間"
+      },
+      {
+        "dinnerPlace": "部屋"
+      },
+      {
+        "dinnerPlace": "広間"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "単純温泉"
+      },
+      {
+        "bathQuality": "カルシウム・ナトリウム硫酸塩泉"
+      },
+      {
+        "bathBenefits": "五十肩"
+      },
+      {
+        "bathBenefits": "冷え性"
+      },
+      {
+        "bathBenefits": "リウマチ・神経病"
+      }
+    ],
+    "aboutLeisure": "渓流釣り,テニス,ハイキング",
+    "handicappedFacilities": [],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "入湯税は一泊に付きお一人様１５０円が別途かかります。,チェックインが１８時を過ぎる場合は、必ずご連絡下さい。,当館は、エレベーターやエスカレーターはございません。建物によっては、大変階段が多い所がございます。お足もとに不安がある方は、ご予約の際、ご連絡ください。,PM７時３０分以降、到着の場合食品管理及び衛生上夕食はお出しできません。,現地では、クレジットカードのお支払はできません。,予約内容の変更は、宿泊日の午前中までにご連絡ください。当日の午後又、ご到着後の変更はお受けできません。,お子さまがいらっしゃいましたら直接宿に連絡ください。お願い致します,年末年始は立寄り入浴・昼食休憩はお受けしておりません。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の80％    <BR>2日前から           ：宿泊料金の50％    <BR>5日前から           ：宿泊料金の30％    <BR>7日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "利用不可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": null
+  }
+}

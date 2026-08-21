@@ -1,0 +1,204 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 19880,
+    "hotelName": "ホテル大山　しろがね",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D19880",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D19880%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D19880",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D19880",
+    "hotelKanaName": "ほてるだいせん　しろがね",
+    "hotelSpecial": "四季の移ろいを肌で感じながら自然と対話する。そんなひとときをお過ごし下さい。",
+    "hotelMinCharge": 8690,
+    "latitude": 127403.89,
+    "longitude": 480727.91,
+    "postalCode": "689-3318",
+    "address1": "鳥取県",
+    "address2": "西伯郡大山町大山136-2",
+    "telephoneNo": "0859-52-2211",
+    "faxNo": "0859-52-2260",
+    "access": "ＪＲ米子駅／米子自動車道溝口ＩＣ又は米子ＩＣより車で２０分",
+    "parkingInformation": "30台収容の駐車場がございます。 夏季期間は無料。冬季期間は有料となり県営駐車場をご利用下さい。",
+    "nearestStation": "米子",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19880/19880.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/19880.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19880/19880_heya.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/19880.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19880/19880map.gif",
+    "reviewCount": 341,
+    "reviewAverage": 4.62,
+    "userReview": "料理が美味しく親切な対応でリラックスできたサイトで出ているお料理より品数も多く、こんな山のなかでお魚が食べられるとは思ってなかったのですが、味も良く凝った感じがあり、大変満足出来る物でした。食…　2026-08-12 22:44:30投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=19880\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.58,
+    "locationAverage": 4.53,
+    "roomAverage": 4.36,
+    "equipmentAverage": 4.29,
+    "bathAverage": 4.34,
+    "breakfastAverage": 4.59,
+    "dinnerAverage": 4.54,
+    "cleanlinessAverage": 4.56
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "tottori",
+    "smallClassCode": "seibu",
+    "areaName": "米子・皆生温泉・大山",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "24:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 24,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー(一部)"
+      },
+      {
+        "item": "加湿器(一部)"
+      },
+      {
+        "item": "洗浄機付トイレ(一部)"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "歯ブラシ、カミソリ、シャワーキャップはフロントにてお渡しいたします。"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "スキー乾燥室"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathQuality": "麦飯石温泉"
+      }
+    ],
+    "aboutLeisure": "海水浴,テニス,ゴルフ,サイクリング,ハイキング,スキー,乗馬,登山,フラワーパーク,美術館,山菜取り",
+    "handicappedFacilities": [],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "冬季間は通行止めのため大山寺の有料駐車場又は、槙原駐車場よりのシャトルバス利用となります。,到着予定時間に遅れる場合は、必ずご連絡をお願い致します。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>2日前から           ：宿泊料金の30％    <BR>3日前から           ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "JTB"
+      },
+      {
+        "card": "デビットカード"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": null
+  }
+}

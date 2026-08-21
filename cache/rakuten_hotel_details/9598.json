@@ -1,0 +1,292 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 9598,
+    "hotelName": "草津温泉　草津ナウリゾートホテル",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D9598",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D9598%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D9598",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D9598",
+    "hotelKanaName": "くさつおんせん　くさつなうりぞーとほてる",
+    "hotelSpecial": "自然豊かな森に囲まれたリゾートホテル。草津の名湯と高原ならではのアクティビティが一度に満喫できる。",
+    "hotelMinCharge": 15800,
+    "latitude": 131849.66,
+    "longitude": 498950.3,
+    "postalCode": "377-1711",
+    "address1": "群馬県",
+    "address2": "吾妻郡草津町草津白根750",
+    "telephoneNo": "0279-88-5111",
+    "faxNo": "0279-88-5110",
+    "access": "関越道　練馬ＩＣ～渋川伊香保ＩＣ又は信越道碓井・軽井沢ICから草津温泉／ＪＲ吾妻線　長野原草津口駅よりバスで２５分",
+    "parkingInformation": "有り(１２０台)　無料",
+    "nearestStation": "長野原草津口",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9598/9598.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/9598.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9598/9598_kan.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/9598.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9598/9598map.gif",
+    "reviewCount": 3124,
+    "reviewAverage": 4.42,
+    "userReview": "お風呂が充実、施設全体が綺麗で居心地抜群お風呂の種類が多くて非常に良かった。夕飯レストラン入口で待たされましたがキャンプ用リクライニングチェアや、ハンモックなどがあったで夫婦にもファミリーにも利用…　2026-08-14 17:49:51投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=9598\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.47,
+    "locationAverage": 4.34,
+    "roomAverage": 4.39,
+    "equipmentAverage": 4.33,
+    "bathAverage": 4.48,
+    "breakfastAverage": 4.43,
+    "dinnerAverage": 4.47,
+    "cleanlinessAverage": 4.46
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "gunma",
+    "smallClassCode": "kusatsu",
+    "areaName": "草津温泉・白根",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "19:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 138,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "当面休業：クラブ「グッピー」"
+      },
+      {
+        "item": "室内プール　通年営業"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "ティーラウンジ"
+      },
+      {
+        "item": "ラウンジ"
+      },
+      {
+        "item": "ナイトクラブ"
+      },
+      {
+        "item": "カラオケルーム"
+      },
+      {
+        "item": "多目的室"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "エステサロン"
+      },
+      {
+        "item": "フィットネスクラブ"
+      },
+      {
+        "item": "スポーツジム"
+      },
+      {
+        "item": "プール(通年)"
+      },
+      {
+        "item": "テニスコート"
+      },
+      {
+        "item": "貸スキー"
+      },
+      {
+        "item": "貸スキーウェア"
+      },
+      {
+        "item": "貸スノーボード"
+      },
+      {
+        "item": "卓球"
+      },
+      {
+        "item": "スキー乾燥室"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "ルームサービス"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      },
+      {
+        "dinnerPlace": "レストラン(バイキング)"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathType": "ジャグジー"
+      },
+      {
+        "bathQuality": "酸性"
+      },
+      {
+        "bathQuality": "塩化物硫酸塩泉"
+      },
+      {
+        "bathBenefits": "アトピー・湿疹"
+      },
+      {
+        "bathBenefits": "冷え性"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      }
+    ],
+    "aboutLeisure": "草津温泉スキー場まで送迎バス1分、草津高原ゴルフ場まで車で5分,釣り,テニス,ゴルフ,サッカー,サイクリング,ハイキング,スキー,登山,美術館",
+    "handicappedFacilities": [
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "大浴場浴槽に手すりあり"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "ご宿泊の場合、大人1名1泊につき150円の入湯税は宿泊料金に含まれております。,全室禁煙です。喫煙は各階の「喫煙ブース」でお願いいたします。（最上階は禁煙フロアです。）,0歳～3歳のお子様に限り「幼児　食事・布団不要」でご予約いただけます。,日程変更やプラン変更もキャンセル扱いとなります。,1グループ15名以上のご予約の場合はキャンセル料が異なります。（詳細はお問い合わせ下さい）,刺青がある方の大浴場利用とプール利用はお断りいたします。貸切風呂（有料）のご利用は可能です。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>3日前から           ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "Master Card"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "・5つの源泉掛け流しお座敷付き貸切露天風呂45分1回3,520円〜"
+  }
+}

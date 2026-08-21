@@ -1,0 +1,224 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 177000,
+    "hotelName": "ＦＯＲＺＡ　ホテルフォルツァ金沢",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D177000",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D177000%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D177000",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D177000",
+    "hotelKanaName": "ふぉるつぁ　ほてるふぉるつぁかなざわ",
+    "hotelSpecial": "近江町市場すぐそば！武蔵が辻バス停目の前で主要観光地へのアクセス抜群！ウェルカムドリンク有り♪",
+    "hotelMinCharge": 3187,
+    "latitude": 131651.77,
+    "longitude": 491970.68,
+    "postalCode": "920-0854",
+    "address1": "石川県",
+    "address2": "金沢市安江町2-10",
+    "telephoneNo": "076-222-7411",
+    "faxNo": "076-224-3611",
+    "access": "金沢駅より徒歩約10分。近江町市場・兼六園・金沢城・21世紀美術館など観光地へのアクセス抜群！",
+    "parkingInformation": "ホテルには駐車場がございません/周辺コインパーキングをご利用くださいませ（ホテル裏手に複数有）",
+    "nearestStation": "金沢",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/177000/177000.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/177000.jpg",
+    "roomImageUrl": null,
+    "roomThumbnailUrl": null,
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/177000/177000map.gif",
+    "reviewCount": 975,
+    "reviewAverage": 4.5,
+    "userReview": "清潔感と接客が良く、また泊まりたい清潔感、アメニティ、接客、とても良かったです。また泊まりたいと思うホテルでした。クチコミの詳細はこちらから　https://review.travel.rak…　2026-08-14 13:14:59投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=177000\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.41,
+    "locationAverage": 4.39,
+    "roomAverage": 4.55,
+    "equipmentAverage": 4.45,
+    "bathAverage": 4.46,
+    "breakfastAverage": 4.51,
+    "cleanlinessAverage": 4.5
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "ishikawa",
+    "smallClassCode": "kanazawa",
+    "areaName": "金沢",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "14:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "29:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 193,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送（無料）"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(LAN形式)"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド(一部)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "洗顔ソープ"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "ナイトガウン"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "電子レンジ（一部・要予約）"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "基礎化粧品や入浴剤など、各種アメニティをチェックインの際フロントにて自由にお選びいただけます"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "自動��売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "宅配便"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      }
+    ],
+    "aboutBath": [],
+    "aboutLeisure": "美術館",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "バリアフリールーム"
+      },
+      {
+        "item": "車椅子利用者用客室あり"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "当日、ご到着が予定時刻を過ぎる場合は、,お手数ではございますが必ずホテルまでご連絡くださいませ。,*********************************************************************************,◆駐車場ご利用のお客様へ◆,当ホテルは敷地内に駐車場がございません。,周辺コインパーキングをご利用くださいませ。,*********************************************************************************,未成年者 （18 歳に満たない者またはお住まいの居住地の法律により 未成年である者 ）は予約できません。保護者の方がご予約ください。」",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日14時から        ：宿泊料金の100％   <BR>当日                ：宿泊料金の80％    <BR>前日                ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "ワインサーバーサービス,ウェルカムドリンクサービス,グラスワインサービス,大人お一人様につきお酒またはジュース１本付",
+    "otherInformation": "チェックアウト時間の延長は1時間ごとに1,000円を頂戴いたします(最長14時まで),金沢市宿泊税条例により、1人1泊あたりの宿泊税を別途頂戴いたします。,5000円未満:課税なし 5000円以上20000円未満:200円 20000円以上:500円"
+  }
+}

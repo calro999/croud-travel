@@ -1,0 +1,279 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 5573,
+    "hotelName": "ホテルニューオータニ高岡",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D5573",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D5573%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D5573",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D5573",
+    "hotelKanaName": "にゅーおーたにたかおか",
+    "hotelSpecial": "高岡市唯一の都市型ホテル。駅より徒歩5分。ホテル周辺は飲食店も充実。コンビニも近くに有り。",
+    "hotelMinCharge": 4600,
+    "latitude": 132269.5,
+    "longitude": 493270.74,
+    "postalCode": "933-0035",
+    "address1": "富山県",
+    "address2": "高岡市新横町1　",
+    "telephoneNo": "0766-26-1111",
+    "faxNo": "0766-25-1710",
+    "access": "■徒歩５分（JR高岡駅から）※富山空港からJR高岡駅まで車で４０分■車-小杉ICから20分　高岡ICから15分",
+    "parkingInformation": "800円（税込）/泊■地下２階に50台収容可（正面向って右側）屋外もあります",
+    "nearestStation": "高岡",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5573/5573.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/5573.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5573/5573_twn2.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/5573.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5573/5573map.gif",
+    "reviewCount": 1962,
+    "reviewAverage": 4.28,
+    "userReview": "朝食ビュッフェは割引もあり大満足!朝食ビュッフェを当日食べることにしました。宿泊者は割引がありお値打ちで、名産を食べれて今回の旅行のご飯の中で一番良かったです!クチコミの詳細はこちらから　…　2026-08-14 17:04:48投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=5573\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.37,
+    "locationAverage": 4.31,
+    "roomAverage": 4.23,
+    "equipmentAverage": 4.2,
+    "bathAverage": 4.1,
+    "breakfastAverage": 4.44,
+    "dinnerAverage": 4.5,
+    "cleanlinessAverage": 4.36
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "toyama",
+    "smallClassCode": "gosei",
+    "areaName": "高岡・氷見・砺波",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "29:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 80,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送"
+      },
+      {
+        "item": "有料ビデオ"
+      },
+      {
+        "item": "衛星放送（無料）"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(LAN形式)"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ベビーベッド"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "洗顔ソープ"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "○高速光回線インターネット設備（無料）　○空気清浄機  ○ズボンプレッサー"
+      },
+      {
+        "item": "○ウォシュレット　○消臭スプレー"
+      },
+      {
+        "item": "□ベビーベッド別途 1,265円（税込）"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "喫茶"
+      },
+      {
+        "item": "ラウンジ"
+      },
+      {
+        "item": "バー"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "結婚式場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "パソコン利用可"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [],
+    "aboutLeisure": "◆国定公園雨晴海岸　◆国宝瑞龍寺　◆高岡大仏（日本三大仏）　◆高岡古城公園",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      }
+    ],
+    "linguisticLevel": "中国語：少し分かるスタッフが数人いる。<BR>英語：少し分かるスタッフが数人いる。<BR>韓国語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "当日ご予約の場合チェックインの際　お預かり金もしくはクレジットカードでの事前清算をいただいております,ホテルの駐車場が満車の場合や駐車場規格外のお車の場合は　同価格帯にて屋外駐車場をご案内しておりますので　宿泊日当日一度フロントまでお越し下さいませ,深夜１２時以降は、防犯の為ホテル入り口は正面のみとなっております。,　　　　　　　",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の30％    <BR>3日前から           ：宿泊料金の10％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "AEON"
+      },
+      {
+        "card": "JACCS"
+      },
+      {
+        "card": "楽天カード"
+      },
+      {
+        "card": "ANA"
+      },
+      {
+        "card": "JAL"
+      },
+      {
+        "card": "デビットカード"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "朝刊サービス",
+    "otherInformation": "ホテルニューオータニ高岡のホームページは情報が満載！ お得な限定プランがホテルホームページにて発売中"
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 10847,
+    "hotelName": "天城湯ヶ島温泉　白壁　和とモダンが織りなす里山の古民家",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D10847",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D10847%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D10847",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D10847",
+    "hotelKanaName": "あまぎゆがしまおんせん　しらかべ　わともだんがおりなすさとやまのこみんか",
+    "hotelSpecial": "源泉掛け流しの温泉旅館。湯浴みテラス付露天風呂付客室で贅沢なひと時を。",
+    "hotelMinCharge": 24750,
+    "latitude": 125592.61,
+    "longitude": 500142.23,
+    "postalCode": "410-3206",
+    "address1": "静岡県",
+    "address2": "伊豆市湯ヶ島1594",
+    "telephoneNo": "0558-85-0100",
+    "faxNo": "0558-85-0726",
+    "access": "東名高速E1沼津ＩＣ新東名E1A長泉沼津IC伊豆縦貫道E70月ヶ瀬ICより５分　電車修善寺駅バス5番　湯ヶ島約30分",
+    "parkingInformation": "有り　３５台　無料",
+    "nearestStation": "修善寺",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/10847/10847.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/10847.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/10847/10847_heya.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/10847.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/10847/10847map.gif",
+    "reviewCount": 559,
+    "reviewAverage": 4.77,
+    "userReview": "4回目の利用、変わらぬおもてなしに感動4回目のリピートです。今回は息子夫婦と利用させていただきました。2歳の孫がいたのですが、相変わらずのホスピタリティに感動しました。お料理もこのご時世なので…　2026-08-05 17:06:22投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=10847\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.86,
+    "locationAverage": 4.57,
+    "roomAverage": 4.69,
+    "equipmentAverage": 4.51,
+    "bathAverage": 4.74,
+    "breakfastAverage": 4.76,
+    "dinnerAverage": 4.77,
+    "cleanlinessAverage": 4.76
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "shizuoka",
+    "smallClassCode": "naka",
+    "areaName": "伊豆長岡・修善寺・天城湯ヶ島",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "19:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 20,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー(貸出)"
+      },
+      {
+        "item": "ドライヤー(一部)"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ(一部)"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "ラウンジ"
+      },
+      {
+        "item": "ライブラリー"
+      },
+      {
+        "item": "ラウンジ"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "貸自転車"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "ダイニングルーム"
+      },
+      {
+        "dinnerPlace": "ダイニングルーム"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "カルシウム・ナトリウム硫酸塩泉"
+      },
+      {
+        "bathBenefits": "神経痛"
+      },
+      {
+        "bathBenefits": "糖尿病"
+      },
+      {
+        "bathBenefits": "リウマチ・神経病"
+      }
+    ],
+    "aboutLeisure": "旧天城トンネル、滑沢渓谷がお勧め,海水浴,釣り,海釣り,渓流釣り,クルージング,ダイビング,テニス,ゲートボール,ゴルフ,サッカー,パラグライダー,ハンググライダー,サイクリング,ハイキング,クロスカントリー,乗馬,トレッキング,登山,水族館,フラワーパーク,テーマパーク,しいたけ狩り",
+    "handicappedFacilities": [
+      {
+        "item": "貸出用車椅子"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "■ご注意■3歳～未就学児のお子様は「幼児(食事/布団)」（50%）となりますので何卒ご容赦くださいませ。,入湯税大人150円別途頂きます。,※当日のキャンセルは宿泊料の１００％をいただきます。,※門限は１２時です,【全国旅行支援】福利厚生サービスは、ベネフィット・ワン、イーウェル、リロクラブの3社で 実施しておりますが、3社ともに対象外になります。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>2日前から           ：宿泊料金の30％    <BR>3日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "JTB"
+      },
+      {
+        "card": "楽天カード"
+      },
+      {
+        "card": "ANA"
+      },
+      {
+        "card": "JAL"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "将棋無料貸出,囲碁無料貸出",
+    "otherInformation": "3才〜6才未就学児50％（お食事お子様ランチ・お布団付） １才〜2才児3.300円 　０才児無料,お子様ご宿泊、3才以上のお子様はお布団・お食事ご用意となり、お食事のみ等お選び頂く事は出来ません"
+  }
+}

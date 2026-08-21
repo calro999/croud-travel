@@ -1,0 +1,298 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 75375,
+    "hotelName": "富士急ハイランド公式ホテル　ハイランドリゾート　ホテル＆スパ",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D75375",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D75375%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D75375",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D75375",
+    "hotelKanaName": "ふじきゅうはいらんどこうしきほてる　はいらんどりぞーと　ほてるあんどすぱ",
+    "hotelSpecial": "富士急ハイランド優先入園特典付き｜ふじやま温泉入館無料｜河口湖まで車で10分",
+    "hotelMinCharge": 15500,
+    "latitude": 127733.41,
+    "longitude": 499612.08,
+    "postalCode": "403-0017",
+    "address1": "山梨県",
+    "address2": "富士吉田市新西原5-6-1",
+    "telephoneNo": "0555-22-1000",
+    "faxNo": "0555-22-3115",
+    "access": "【車】河口湖IC・富士吉田ICより1分【電車】富士山駅・富士急ハイランド駅より送迎あり（要連絡）【バス】ホテル目の前下車",
+    "parkingInformation": "有り　１８０台　無料　予約不要",
+    "nearestStation": "富士吉田",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/75375/75375.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/75375.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/75375/75375_you.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/75375.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/75375/75375map.gif",
+    "reviewCount": 1235,
+    "reviewAverage": 4.47,
+    "userReview": "大浴場は残念だが食事と部屋は満足大浴場が営業していないのが残念でした。代わりの温泉の紹介が、ありましたが遠いしで。何か他でサービスか割引があれば良かったと思いました。お部屋は綺麗でアメニティ類も完…　2026-08-15 19:19:55投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=75375\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.47,
+    "locationAverage": 4.67,
+    "roomAverage": 4.52,
+    "equipmentAverage": 4.49,
+    "bathAverage": 4.37,
+    "breakfastAverage": 4.44,
+    "dinnerAverage": 4.43,
+    "cleanlinessAverage": 4.59
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "yamanasi",
+    "smallClassCode": "kawaguchiko",
+    "areaName": "河口湖・富士吉田・本栖湖・西湖・精進湖",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": null
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 163,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送（無料）"
+      },
+      {
+        "item": "ＣＳ放送"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（固形）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "バスローブ"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "パジャマ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "ベビーベッド（貸出）"
+      },
+      {
+        "item": "Wi-Fi接続サービスを全客室無料でご利用頂けます。"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "ティーラウンジ"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "結婚式場"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "エステサロン"
+      },
+      {
+        "item": "貸自転車"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathType": "ジャグジー"
+      },
+      {
+        "bathType": "水風呂"
+      },
+      {
+        "bathType": "岩盤浴"
+      },
+      {
+        "bathQuality": "炭酸水素塩泉"
+      },
+      {
+        "bathBenefits": "関節痛"
+      },
+      {
+        "bathBenefits": "冷え性"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      }
+    ],
+    "aboutLeisure": "果物狩り,釣り,カヌー,ゴルフ,ハンググライダー,サイクリング,ハイキング,スキー,乗馬,登山,洞窟探検,遊園地,水族館,テーマパーク,美術館",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": "中国語：少し分かるスタッフが数人いる。<BR>英語：少し分かるスタッフが数人いる。<BR>韓国語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "【ふじやま温泉休館のお知らせ】,ホテル隣接のふじやま温泉にて、6月26日に発生した 地震の後、施設の一部に損傷が確認されました。,損傷箇所の復旧および施設全体の安全確認を最優先とし、当面の間、休館を継続させていただきます。,営業再開の見通しが立ち次第、あらためてお知らせいたします。,またホテルは通常通り営業しております。,なお、ふじやま温泉は無料特典のため、本件に伴う宿泊料金の減額対応はいたしかねます。,お客様にはご不便とご迷惑をおかけしますが、皆様がご安心してご利用できるように最善を尽くします ので、,何卒ご理解をいただけますよう、よろしくお願いいたします。,ご不明点等ございましたらお手数ですがホテルまでお問い合わせ下さい。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の80％    <BR>7日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "電話受付時間9：00から20：00まで"
+  }
+}

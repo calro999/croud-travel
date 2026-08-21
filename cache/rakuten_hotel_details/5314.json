@@ -1,0 +1,240 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 5314,
+    "hotelName": "ホテルルートイン岐阜県庁南",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D5314",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D5314%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D5314",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D5314",
+    "hotelKanaName": "るーといん　ぎふけんちょうみなみ",
+    "hotelSpecial": "無料駐車場・大浴場も完備！ 瑞穂市・北方町・本巣市に行かれる方にもご利用して頂いております。",
+    "hotelMinCharge": 6900,
+    "latitude": 127386.34,
+    "longitude": 492210.87,
+    "postalCode": "500-8289",
+    "address1": "岐阜県",
+    "address2": "岐阜市須賀2-1-8",
+    "telephoneNo": "050-1726-3477",
+    "faxNo": "058-277-7478",
+    "access": "岐阜羽島I.Cからお車で１５分、各務原I.Cからお車で１５分。ＪＲ東海道本線・西岐阜駅からお車で５分。",
+    "parkingInformation": "無料駐車場105台（普通車）完備。高さ制限もございません。",
+    "nearestStation": "西岐阜",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5314/5314.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/5314.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5314/5314_sgl.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/5314.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5314/5314map.gif",
+    "reviewCount": 697,
+    "reviewAverage": 4.02,
+    "userReview": "風呂は満足だが接客と立地には不満あり以前にルートインの長岡に泊まった事はあるので気に入っていたが、チェックインの時の愛想がない対応にガッカリした。私も接客業にいたので評価が厳しいと思うがもう少…　2026-07-29 04:56:00投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=5314\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.06,
+    "locationAverage": 3.89,
+    "roomAverage": 4.02,
+    "equipmentAverage": 3.97,
+    "bathAverage": 3.9,
+    "breakfastAverage": 4.1,
+    "cleanlinessAverage": 4.04
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "gihu",
+    "smallClassCode": "gifu",
+    "areaName": "岐阜・各務原",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "24:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 139,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "有料ビデオ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "ファックス"
+      },
+      {
+        "item": "インターネット接続(LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "リンスインシャンプー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "貸自転車"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "パソコン利用可"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathQuality": "人工温泉ヘルストン"
+      },
+      {
+        "bathBenefits": "肩凝り"
+      },
+      {
+        "bathBenefits": "ストレス"
+      },
+      {
+        "bathBenefits": "リウマチ・神経病"
+      }
+    ],
+    "aboutLeisure": "渓流下り,ゴルフ,サイクリング,陸上競技,遊園地,動物園,博物館,水族館,美術館",
+    "handicappedFacilities": [
+      {
+        "item": "バリアフリー用トイレ"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "【重要】2026年4月1日（水）以降のご宿泊分より、岐阜市において宿泊税が導入されます。宿泊料金とは別に1人1泊につき下記の宿泊税をお支払いただきます。,大人（中学生以上）1人1泊あたり200円、小学生以下は対象外　チェックインの際に別途宿泊税のご精算が必要です。（事前決済予約の場合も同様です）,インターネット予約の場合、画面上に表示される宿泊料金に消費税は含まれておりますが、宿泊税は含まれておりませんのでご注意ください。,2026年4月1日より前に予約された場合でも、4月1日以降の宿泊分には宿泊税が適用されます。,【団体（15名以上）のお客様】不泊：100％／当日キャンセル：80％／前日キャンセル：50％／2日前～3日前キャンセル：20％／4日前～9日前キャンセル：10％,当ホテルとの宿泊契約には、当ホテルが定める宿泊約款が適用されます。宿泊約款の内容については各ホテルにお問合せください。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の80％    <BR>前日                ：宿泊料金の50％    <BR>3日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Discover"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": "銀聯カード/QRコード決済(PayPay等）、電子マネー(iD等)、交通系電子マネー(Suica等)",
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": null
+  }
+}

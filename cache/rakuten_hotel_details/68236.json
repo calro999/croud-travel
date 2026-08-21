@@ -1,0 +1,143 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 68236,
+    "hotelName": "北海道の輝き☆ティンクナ",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D68236",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D68236%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D68236",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D68236",
+    "hotelKanaName": "ほっかいどうのかがやき☆てぃんくな",
+    "hotelSpecial": "阿蘇×北海道の創作フレンチが自慢。北海道から移住した夫婦が営む宿",
+    "hotelMinCharge": 5940,
+    "latitude": 118208.44,
+    "longitude": 471872.92,
+    "postalCode": "869-1504",
+    "address1": "熊本県",
+    "address2": "阿蘇郡南阿蘇村大字一関1471-2",
+    "telephoneNo": "0967-62-8044",
+    "faxNo": "0967-62-8166",
+    "access": "阿蘇くまもと空港より車で約50分　※ナビはGoogleマップをご利用ください。",
+    "parkingInformation": "有り　８台　無料　予約不要",
+    "nearestStation": "立野（熊本）",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/68236/68236.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/68236.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/68236/68236_h.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/68236.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/68236/68236map.gif",
+    "reviewCount": 289,
+    "reviewAverage": 4.8,
+    "userReview": "美味しい食事!!夕食も朝食もホテル以上に美味しい!コーヒーも!お部屋も綺麗に掃除されていて、ぐっすり眠れました地震の後だったので行くのは良くないかなって悩みましたが、熊本のみなさんは優…　2026-08-15 18:55:48投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=68236\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 0,
+    "locationAverage": 4.73,
+    "roomAverage": 4.47,
+    "equipmentAverage": 0,
+    "bathAverage": 0,
+    "breakfastAverage": 4.93,
+    "dinnerAverage": 5,
+    "cleanlinessAverage": 4.64
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "kumamoto",
+    "smallClassCode": "aso",
+    "areaName": "阿蘇",
+    "hotelClassCode": "PENSION",
+    "checkinTime": "15:30",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "18:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 8,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "ファックス(貸出)"
+      },
+      {
+        "item": "冷蔵庫(一部)"
+      },
+      {
+        "item": "ドライヤー(貸出)"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（固形）"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "リンスインシャンプー"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "ダイニングルーム"
+      },
+      {
+        "dinnerPlace": "ダイニングルーム"
+      }
+    ],
+    "aboutBath": [],
+    "aboutLeisure": "果物狩り,テニス,ゴルフ,パラグライダー,ハイキング,乗馬,トレッキング,登山,動物園,テーマパーク,美術館",
+    "handicappedFacilities": [],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "★ご到着予定時間が遅い場合、１８：３０を過ぎてか��の夕食は別途サービス料（宿泊料金の１０％）を頂戴いたします。必ず予約時にご相談ください。,★お子様連れの場合は　お子様のお年を記載してください。,☆幼児（１歳～６歳）は『お布団＆お食事なし』の場合でも『お部屋使用料』として、２，１６０円（プランによっては1,000円～）を頂きますことをご了承ください。,【幼児（布団あり、無し）ともに添い寝となります】,☆乳幼児（0歳児）は無料（乳児の場合は予約時に人数に入れないでください、備考欄に何か月かを記載ください）",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の80％    <BR>7日前から           ：宿泊料金の50％    ",
+    "availableCreditCard": [
+      {
+        "card": "利用不可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": null
+  }
+}

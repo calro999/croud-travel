@@ -1,0 +1,247 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 65439,
+    "hotelName": "博多天然温泉「旅人の湯」ホテルルートイン博多駅前　－博多口－",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D65439",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D65439%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D65439",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D65439",
+    "hotelKanaName": "はかたてんねんおんせん  たびびとのゆ　ほてるるーといんはかたえきまえ　はかたぐち",
+    "hotelSpecial": "☆博多駅が目の前でアクセス抜群！雨の日でもほぼ濡れずに直行！天然温泉大浴場、バイキング朝食無料♪",
+    "hotelMinCharge": 8300,
+    "latitude": 120917.65,
+    "longitude": 469516.19,
+    "postalCode": "812-0011",
+    "address1": "福岡県",
+    "address2": "福岡市博多区博多駅前1-1-20",
+    "telephoneNo": "092-477-8885",
+    "faxNo": "092-477-8989",
+    "access": "JR博多駅より徒歩3分(博多口右のバスターミナル前)／福岡空港より地下鉄約10分／福岡都市高速呉服町ランプより車で約５分",
+    "parkingInformation": "《先着順でのご案内》　1500円（税込）／泊　　26台（普通車6台、ハイルーフ対応20台）　　",
+    "nearestStation": "博多",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/65439/65439.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/65439.jpg",
+    "roomImageUrl": null,
+    "roomThumbnailUrl": null,
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/65439/65439map.gif",
+    "reviewCount": 3244,
+    "reviewAverage": 3.96,
+    "userReview": "博多駅直結で立地抜群、快適な滞在博多駅2Fから近隣のビルへ繋がる屋根付きの通路があり、ホテルへも濡れずに行くことができます。立地は言うこと無しですね!チェックアウトが10時でちょっと早いで…　2026-08-12 18:56:10投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=65439\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 3.93,
+    "locationAverage": 4.14,
+    "roomAverage": 3.86,
+    "equipmentAverage": 3.82,
+    "bathAverage": 3.97,
+    "breakfastAverage": 3.95,
+    "dinnerAverage": 4,
+    "cleanlinessAverage": 3.93
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "hukuoka",
+    "smallClassCode": "fukuoka",
+    "areaName": "博多・キャナルシティ・海の中道・太宰府・二日市",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "27:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 253,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "有料ビデオ"
+      },
+      {
+        "item": "衛星放送（無料）"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "くつろぎ着の作務衣"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "居酒屋コーナー"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      },
+      {
+        "dinnerPlace": "食事処"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "中性低張性冷鉱泉"
+      },
+      {
+        "bathBenefits": "関節痛"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      },
+      {
+        "bathBenefits": "リウマチ・神経病"
+      }
+    ],
+    "aboutLeisure": null,
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "バリアフリールーム"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "【宿泊税のお知らせ】福岡県宿泊税条例及び福岡市宿泊税条例の施行に伴い、2020年4月1日(水)よりお1人様1泊につき下記の税額を宿泊料金の精算方法に準じてチェックイン時に徴収させていただきます。,当ホテルの宿泊料金は消費税が含まれた金額です。ご注意ください。,宿泊料金 20,000円（消費税別）未満：200円（県税50円・市税150円)宿泊料金 20,000円（消費税別）以上：500円（県税50円・市税450円）,宿泊料は原則として前払いで申し受けております。,【団体（15名以上）のお客様】不泊：100% / 当日キャンセル：80% / 前日キャンセル：50% / 2～3日前キャンセル：20%/４～９日前：10％,駐車場は先着順でのご案内となります。（一台一泊１５００円）駐車場は、満車になり次第近隣駐車場をご案内いたします。近隣駐車場の駐車料金はお客様負担となりますのでご了承ください。,※他者への再販・転売を目的としたご予約は、固くお断り致します。,当ホテルとの宿泊契約には、当ホテルが定める宿泊約款が適用されます。宿泊約款の内容については各ホテルにお問合せください。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の80％    <BR>前日                ：宿泊料金の50％    <BR>2日前から           ：宿泊料金の20％    <BR>3日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Discover"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": "銀聯カード/QRコード決済(PayPay等）、電子マネー(iD等)、交通系電子マネー(Suica等)",
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": null
+  }
+}

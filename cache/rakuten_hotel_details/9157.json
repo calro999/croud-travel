@@ -1,0 +1,252 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 9157,
+    "hotelName": "ホテルアムステルダム　ハウステンボス",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D9157",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D9157%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D9157",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D9157",
+    "hotelKanaName": "ほてるあむすてるだむ　はうすてんぼす",
+    "hotelSpecial": "ハウステンボス直営／ハウステンボステーマパーク内に位置する唯一のホテルで、抜群の立地と癒しの滞在を。",
+    "hotelMinCharge": 10800,
+    "latitude": 119088,
+    "longitude": 467242.09,
+    "postalCode": "859-3293",
+    "address1": "長崎県",
+    "address2": "佐世保市ハウステンボス町7-7",
+    "telephoneNo": "0570-064-300",
+    "faxNo": "0956-27-0912",
+    "access": "博多駅→特急約100分／長崎駅→快速約90分／長崎空港→高速船約45分・バス約60分",
+    "parkingInformation": "フロントにて無料券を発行しますので「宿泊者専用駐車場」をご利用ください。必ず出庫前にご精算ください。",
+    "nearestStation": "ハウステンボス",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9157/9157.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/9157.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9157/9157_twn.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/9157.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9157/9157map.gif",
+    "reviewCount": 2406,
+    "reviewAverage": 4.58,
+    "userReview": "立地と雰囲気は最高、朝食は混雑気味ホテルはちょうど中心部辺りにあり立地が良かったです!ただ、朝食つきにしてたんですが早い時間が席が埋まりやすく結構待ちました。ラインで順番の確認ができるのでその…　2026-08-15 19:08:08投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=9157\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.58,
+    "locationAverage": 4.68,
+    "roomAverage": 4.58,
+    "equipmentAverage": 4.4,
+    "bathAverage": 4.27,
+    "breakfastAverage": 4.52,
+    "dinnerAverage": 4.51,
+    "cleanlinessAverage": 4.53
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "nagasaki",
+    "smallClassCode": "sasebo",
+    "areaName": "ハウステンボス・佐世保・平戸",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "23:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 203,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送"
+      },
+      {
+        "item": "ケーブルＴＶ"
+      },
+      {
+        "item": "ＣＳ放送"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "ＣＤプレイヤ－(貸出)"
+      },
+      {
+        "item": "カセットデッキ(貸出)"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ベビーベッド"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "入浴剤"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "パジャマ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "全室禁"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "喫茶"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "レストラン(バイキング)"
+      }
+    ],
+    "aboutBath": [],
+    "aboutLeisure": "ハウステンボス,釣り,カヌー,ゴルフ,ハイキング,動物園,水族館,テーマパーク,美術館",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      }
+    ],
+    "linguisticLevel": "英語：日常的な内容は問題のないスタッフが数人いる。<BR>韓国語：日常的な内容は問題のないスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "【国内宿泊添い寝のご案内】,大人1人につき小学6年生までのお子様1人、無料添い寝でのご利用が可能です。（※交通+宿を除く）,添い寝のお子様は、1室あたり最大2人までとなります（例：大人3名1室利用の場合も添い寝は2名まで）。,国内ツアー『楽パック商品』の場合、6歳以上のお子様添い寝不可。,【駐車場のご案内】,オフィシャルホテル宿泊者専用駐車場（滞在期間中無料）にお車をお停めください。,満車の場合は、お近くの駐車場をご案内させていただくこともございます。,ホテルフロントにて「無料券」を発行いたします。出庫前にウェルカムゲート横の精算機にてご精算ください。,誤って駐車場料金をご精算された際はタイムズコンタクトセンター（0120728924）までご連絡ください。後日返金させていただきます。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の80％    <BR>前日                ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Discover"
+      },
+      {
+        "card": "AEON"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "将棋無料貸出,囲碁無料貸出",
+    "otherInformation": "大型イベント開催日、多客期は安全確保の為、交通規制が行わ���ます。,宿泊特典の送迎バス等一部ご利用いただけない時間帯がございます。予めご了承ください。"
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 72089,
+    "hotelName": "鶴居どさんこ牧場",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D72089",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D72089%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D72089",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D72089",
+    "hotelKanaName": "つるいどさんこぼくじょう",
+    "hotelSpecial": "北海道の馬「どさんこ」がいる牧場です。18時以降のチェックインは出来ません。20時に施錠します。",
+    "hotelMinCharge": 7000,
+    "latitude": 155502.71,
+    "longitude": 519811.78,
+    "postalCode": "085-1362",
+    "address1": "北海道",
+    "address2": "阿寒郡鶴居村久著呂71-1",
+    "telephoneNo": "0154-64-2931",
+    "faxNo": "0154-64-7468",
+    "access": "ＪＲ　釧路駅より車で５０分。　釧路空港より車で４０分。",
+    "parkingInformation": "有り　１５台　無料　予約不要",
+    "nearestStation": "釧路",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/72089/72089.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/72089.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/72089/72089_yo.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/72089.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/72089/72089map.gif",
+    "reviewCount": 90,
+    "reviewAverage": 4.6,
+    "userReview": null
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 0,
+    "locationAverage": 0,
+    "roomAverage": 0,
+    "equipmentAverage": 0,
+    "bathAverage": 0,
+    "breakfastAverage": 4.5,
+    "dinnerAverage": 4.33,
+    "cleanlinessAverage": 4.8
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "hokkaido",
+    "smallClassCode": "kushiro",
+    "areaName": "釧路・阿寒・川湯・根室",
+    "hotelClassCode": "PENSION",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "18:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 4,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "電気スタンド"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "リンスインシャンプー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "食堂"
+      },
+      {
+        "dinnerPlace": "食堂"
+      }
+    ],
+    "aboutBath": [],
+    "aboutLeisure": "乗馬,カヌー,ゴルフ,乗馬",
+    "handicappedFacilities": [],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "チェックインが予定時間を過ぎる場合ご連絡下さい。18時以降のチェックインは出来ません。,夕食は18:00、朝食は7:30です。時間以外の食事提供は致しかねます。,3名様ご利用時には、1名様は簡易（折畳み）ベッドのご利用となります。,添い寝幼児は大人の人数以下でお泊り可能です。,施設周辺には食事場所、買い物をするところはございません。,施設の施錠時間は20時となります。20時以降の出入りはできません。,全室禁煙となっておりますので、喫煙ご希望の方は喫煙スペースでお願いいたします。,宿泊とホーストレッキングをご希望の場合は、必ず、当施設に電話でご予約ください。利用料金が割引になります。  ※電話でご予約がない場合は割引の対象になりませんのでご了承ください。,割引の対象になるのは事前予約の1日コースと半日コースです。当日予約やその他のコースには適用されませんのでご注意ください。,1人1泊あたり、100円の宿泊税が別途かかります。チェックイン時、現金でお支払いください。（北海道条令による　2026年4月1日より）",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>3日前から           ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "利用不可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": null
+  }
+}

@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Script from "next/script";
 import Link from "next/link";
 import TravelBanner from "./components/TravelBanner";
+import SpecialCouponBanner from "./components/SpecialCouponBanner";
 import { REGIONS_MAP, PREFECTURES_DATA } from "@/data/prefecturesData";
 import "./globals.css";
 
@@ -160,11 +161,7 @@ export default function RootLayout({
 
           {/* 右サイド追従バナー */}
           <aside className="hidden xl:flex flex-col fixed right-4 xl:right-[calc((100vw-1152px)/4-135px)] top-24 w-[270px] z-30 space-y-6 items-center">
-            <TravelBanner
-              imageSrc="/images/rakuten_summer_sale_banner.png"
-              linkUrl="/campaigns"
-              altText="楽天トラベル サマーセール"
-            />
+            <SpecialCouponBanner variant="sidebar" />
             <TravelBanner
               imageSrc="/images/noto_offers.png"
               linkUrl="/campaigns"

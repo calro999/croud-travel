@@ -1,0 +1,220 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 52812,
+    "hotelName": "天童温泉　湯の香　松の湯",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D52812",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D52812%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D52812",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D52812",
+    "hotelKanaName": "ゆのか　まつのゆ",
+    "hotelSpecial": "天童唯一二種類の源泉100%を掛流し☆山形牛付お部屋食",
+    "hotelMinCharge": 18700,
+    "latitude": 138081.26,
+    "longitude": 505392.84,
+    "postalCode": "994-0025",
+    "address1": "山形県",
+    "address2": "天童市鎌田本町2-2-54",
+    "telephoneNo": "023-653-2265",
+    "faxNo": "023-653-2207",
+    "access": "山形新幹線東京駅から天童駅まで約2時間45分。天童駅から車で約5分",
+    "parkingInformation": "有り　４０台　無料　予約不要",
+    "nearestStation": "天童",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/52812/52812.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/52812.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/52812/52812_i.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/52812.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/52812/52812map.gif",
+    "reviewCount": 182,
+    "reviewAverage": 4.75,
+    "userReview": "源泉かけ流しの温泉と部屋食に大満足天童の街の中にある12室の温泉宿で、お部屋はとても素敵な贅沢空間でした。私自身、大型ホテルよりも松の湯さんの様なお宿が好きですので、ゆっくり過ごせました。温泉も天…　2026-08-01 14:37:03投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=52812\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.84,
+    "locationAverage": 4.58,
+    "roomAverage": 4.58,
+    "equipmentAverage": 4.38,
+    "bathAverage": 4.71,
+    "breakfastAverage": 4.71,
+    "dinnerAverage": 4.74,
+    "cleanlinessAverage": 4.83
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "yamagata",
+    "smallClassCode": "yamagata",
+    "areaName": "山形・蔵王・天童・上山",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "18:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 9,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "電気スタンド(一部)"
+      },
+      {
+        "item": "ＣＤプレイヤ(一部)"
+      },
+      {
+        "item": "カセットデッキ(一部)"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "全客室Wi-Fi完備（宴会場・大浴場ではご利用いただけません。）"
+      },
+      {
+        "item": "一部アメニティ(カミソリ・ブラシ・くし・シャワーキャップ)は、ご希望の方にお配りしております。"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "部屋"
+      },
+      {
+        "breakfastPlace": "個室"
+      },
+      {
+        "dinnerPlace": "部屋"
+      },
+      {
+        "dinnerPlace": "個室"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "単純温泉"
+      },
+      {
+        "bathQuality": "硫酸温泉"
+      },
+      {
+        "bathBenefits": "打ち身"
+      },
+      {
+        "bathBenefits": "五十肩"
+      },
+      {
+        "bathBenefits": "冷え性"
+      }
+    ],
+    "aboutLeisure": null,
+    "handicappedFacilities": [
+      {
+        "item": "貸出用車椅子"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "■表示料金には、サービス料・消費税・入湯税が含まれます。,＜ご予約時の備考欄にご入力ください＞,・男女の内訳をお知らせ下さい。,・アレルギーのある方は事前にお知らせ下さい。,・ご到着の予定時刻をお知らせ下さい。,＜お子様について＞,※3歳～6歳（未就学）のお子様は「幼児」に含めて下さい。,※0歳～2歳のお子様は、「備考欄」にて人数・年齢をお知らせください。,※0歳～2歳のお子様で、別途食事・寝具が必要な場合は旅館まで直接ご連絡ください。,　",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>3日前から           ：宿泊料金の100％   <BR>5日前から           ：宿泊料金の80％    <BR>7日前から           ：宿泊料金の60％    <BR>14日前から          ：宿泊料金の20％    <BR>30日前から          ：宿泊料金の10％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "モーニングコーヒーサービス",
+    "otherInformation": null
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 109086,
+    "hotelName": "阿蘇内牧温泉　湯の宿　入船",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D109086",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D109086%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D109086",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D109086",
+    "hotelKanaName": "ゆのやど　いりふね",
+    "hotelSpecial": "自家農園の野菜を使った創作料理が人気｡２つの異なる温泉が大浴場､５つの貸切湯に溢れ､全て源泉掛け流し",
+    "hotelMinCharge": 18200,
+    "latitude": 118708.65,
+    "longitude": 471762.78,
+    "postalCode": "869-2307",
+    "address1": "熊本県",
+    "address2": "阿蘇市小里834-2",
+    "telephoneNo": "0967-32-0781",
+    "faxNo": "0967-32-4590",
+    "access": "阿蘇駅よりバス・車で約１０分・熊本ICより車で約５０分・熊本空港より車で約５０分・福岡空港より車で約２時間",
+    "parkingInformation": "有り　２５台　無料　予約不要",
+    "nearestStation": "阿蘇",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/109086/109086.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/109086.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/109086/109086_hy1.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/109086.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/109086/109086map.gif",
+    "reviewCount": 299,
+    "reviewAverage": 4.64,
+    "userReview": "食事と家族風呂に大満足、また伺いたい夕食、朝食どちらもいただきましたが、とても美味しかったです。気になったのはお米が少し硬めかな?と思ったくらいで、あとは見栄えも味もボリュームも大満足でした。…　2026-08-15 21:00:44投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=109086\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.7,
+    "locationAverage": 4.44,
+    "roomAverage": 4.7,
+    "equipmentAverage": 4.58,
+    "bathAverage": 4.66,
+    "breakfastAverage": 4.66,
+    "dinnerAverage": 4.67,
+    "cleanlinessAverage": 4.68
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "kumamoto",
+    "smallClassCode": "aso",
+    "areaName": "阿蘇",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:30",
+    "checkoutTime": "10:30",
+    "lastCheckinTime": "17:30"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 7,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "インターネット接続(LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ＣＤプレイヤ－"
+      },
+      {
+        "item": "ＣＤプレイヤ－(貸出)"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "リンスインシャンプー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "おふろセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "電話（内線のみ）"
+      },
+      {
+        "item": "コーヒーハウス"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "貸自転車"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "食事処"
+      },
+      {
+        "dinnerPlace": "食事処"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "単純温泉"
+      },
+      {
+        "bathQuality": "カルシウム・ナトリウム硫酸塩泉"
+      },
+      {
+        "bathQuality": "芒硝泉"
+      },
+      {
+        "bathBenefits": "アトピー・湿疹"
+      },
+      {
+        "bathBenefits": "外傷"
+      },
+      {
+        "bathBenefits": "皮膚病"
+      }
+    ],
+    "aboutLeisure": "ゴルフ,ハンググライダー,サイクリング,ハイキング,乗馬,登山,フラワーパーク,テーマパーク",
+    "handicappedFacilities": [
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "入湯税が別途必要です。（お一人様１５０円）,宿泊当日に連絡が取れる携帯電話の番号をお知らせ下さい。,チェックイン 15：30～（最終チェックイン17：30）   チェックアウト 10：30,チェックインが予定時間を過ぎる場合必ずご連絡下さい。,ダブルベッドの和洋室に関して、２名１室でのご利用の場合、お布団を別に敷くと、 　別途2,200円頂きます。予めご了承ください。,夕食の開始時間：18時15分となります。,朝食の開始時間：8時または8時30分となります。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>3日前から           ：宿泊料金の30％    <BR>6日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Discover"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "ウェルカムドリンクサービス",
+    "otherInformation": null
+  }
+}

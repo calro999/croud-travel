@@ -1,0 +1,218 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 184763,
+    "hotelName": "アパホテル〈浅草　蔵前北〉",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D184763",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D184763%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D184763",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D184763",
+    "hotelKanaName": "あぱほてる〈あさくさ くらまえきた〉",
+    "hotelSpecial": "【全室禁煙】羽田空港、成田空港から乗り換えなし！浅草寺などの浅草観光に最適！",
+    "hotelMinCharge": 3960,
+    "latitude": 128530.78,
+    "longitude": 503271.88,
+    "postalCode": "111-0043",
+    "address1": "東京都",
+    "address2": "台東区駒形2-4-10",
+    "telephoneNo": "0570-025-011",
+    "faxNo": "03-5827-1812",
+    "access": "都営大江戸線「蔵前駅」（A6出口）徒歩3分、都営浅草線「浅草駅」（A2b出口）徒歩3分",
+    "parkingInformation": "無し",
+    "nearestStation": "蔵前",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/184763/184763.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/184763.jpg",
+    "roomImageUrl": null,
+    "roomThumbnailUrl": null,
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/184763/184763map.gif",
+    "reviewCount": 206,
+    "reviewAverage": 4.44,
+    "userReview": "部屋が広く快適、喫煙スペースがあり助かる部屋が広く綺麗で快適に過ごせました。1番良いポイントは喫煙スペースがあることです。喫煙者には大変助かります。クチコミの詳細はこちらから　https:…　2026-08-06 07:18:42投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=184763\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.4,
+    "locationAverage": 4.37,
+    "roomAverage": 4.49,
+    "equipmentAverage": 4.4,
+    "bathAverage": 4.22,
+    "breakfastAverage": 4.18,
+    "dinnerAverage": 3,
+    "cleanlinessAverage": 4.39
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "tokyo",
+    "smallClassCode": "tokyo",
+    "areaName": "東京２３区内",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "29:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 218,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "有料ビデオ"
+      },
+      {
+        "item": "有線"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(LAN形式)"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "喫煙所"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "コンビニエンスストア"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "宅配便"
+      }
+    ],
+    "aboutMealPlace": [],
+    "aboutBath": [],
+    "aboutLeisure": null,
+    "handicappedFacilities": [
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "バリアフリールーム"
+      },
+      {
+        "item": "車椅子利用者用客室あり"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "館内の点字案内"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "【当館からのお願い】,到着時間をホテルまで必ずお伝え下さい。また、お伝え頂きました到着予定時間より、2時間以上遅れる場合につきましても必ずご連絡をお願い致します。,ご連絡を頂けず、到着予定時刻より大幅に遅れている場合、宿泊約款に基づき予約を取り消しさせて頂く場合がございます。予めご了承下さいませ。,※基本のキャンセルポリシーにおきましては、個人利用のお客様（1名~14名までの宿泊）のみ適用となります。団体利用のお客様（15名~の宿泊）においては別途、団体利用のキャンセルポリシーが適用となります。,※個人（1名~14名まで）のお申込みであっても、宿泊予約の総日数が15日間を超えた場合、団体利用とみなすことがあります。,※団体利用の一部について宿泊予約のキャンセルがあった場合であって、次の各号全てに該当する場合は、違約金は発生しないものとします。,（1）宿泊日の14日前までの宿泊予約　（2）宿泊予約人数の10%にあたる人数（端数は切上げ）のキャンセル　以上。,アパホテルでは、未就学のお子様は1ベッドにつき1名様まで添い寝無料でご利用いただけます。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "ORICO"
+      },
+      {
+        "card": "楽天カード"
+      }
+    ],
+    "aboutCreditCardNote": "銀聯カード可、コード決済・電子マネー利用可",
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "朝刊サービス",
+    "otherInformation": "【現地で利用可能】コード決済（PayPay,ｄ払い,au PAY,楽天ペイ,メルペイ,ゆうちょPay,J-Coin Pay),電子マネー（iD,QUICPay,楽天Edy,nanaco,WAON,交通系電子マネー）"
+  }
+}

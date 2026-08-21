@@ -1,0 +1,229 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 130481,
+    "hotelName": "フジプレミアムリゾート",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D130481",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D130481%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D130481",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D130481",
+    "hotelKanaName": "ふじぷれみあむりぞーと",
+    "hotelSpecial": "河口湖　富士山麓５万坪の広大な敷地にあるリゾート。ペットと泊まれる部屋も部屋あります。",
+    "hotelMinCharge": 12127,
+    "latitude": 127678.75,
+    "longitude": 499502.87,
+    "postalCode": "401-0302",
+    "address1": "山梨県",
+    "address2": "南都留郡富士河口湖町小立7139-1",
+    "telephoneNo": "0555-73-1168",
+    "faxNo": "0555-72-1884",
+    "access": "河口湖駅からお車で１０分／無料送迎",
+    "parkingInformation": "有り　２００台　無料　予約不要",
+    "nearestStation": "河口湖",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/130481/130481.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/130481.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/130481/130481_rm1.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/130481.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/130481/130481map.gif",
+    "reviewCount": 616,
+    "reviewAverage": 4.02,
+    "userReview": "建物は年季が入っていましたがお部屋はとても広く綺麗で、サービスのドリンクも素晴らしかったです。ホテル内に大浴場はありませんがお部屋に備わっていたお風呂で十分でした。また、利用はしませんでしたがスパ…　2026-08-15 16:46:25投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=130481\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.11,
+    "locationAverage": 4,
+    "roomAverage": 4.12,
+    "equipmentAverage": 3.83,
+    "bathAverage": 3.57,
+    "breakfastAverage": 4.1,
+    "dinnerAverage": 4.14,
+    "cleanlinessAverage": 3.96
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "yamanasi",
+    "smallClassCode": "kawaguchiko",
+    "areaName": "河口湖・富士吉田・本栖湖・西湖・精進湖",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "22:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 94,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "石鹸（固形）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "パジャマ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "ＤＶＤプレイヤー（貸出・一部）、加湿器（貸出・一部）、ペット同宿可のお部屋あり。"
+      },
+      {
+        "item": "ホテルスポルシオン客室・フォレストヴィレッジ客室はWi-Fi完備"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "バー"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "プール(夏期のみ)"
+      },
+      {
+        "item": "テニスコート"
+      },
+      {
+        "item": "卓球"
+      },
+      {
+        "item": "バーベキューガーデン"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "ペット同宿可"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン"
+      },
+      {
+        "breakfastPlace": "食事処"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      },
+      {
+        "dinnerPlace": "食事処"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      }
+    ],
+    "aboutLeisure": "果物狩り,釣り,テニス,ゴルフ,サイクリング,スキー,スケート,乗馬,登山,洞窟探検,遊園地,博物館,フラワーパーク,テーマパーク,美術館",
+    "handicappedFacilities": [
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "施設スタッフによる介助・補助対応が可能"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "●フォレストスパ（温泉）は現在入場制限を行っており、フォレストヴィレッジおよびホテルスポルシオンわん部屋、DXルームにご宿泊のお客様のみご利用いただけます（有料）※小学生未満利用不可,●チェックイン予定時間を過ぎる場合は必ずご連絡ください。,●幼児(食事・布団不要)のご予約につきまして、4歳以上は添い寝では承れません。通常のお子様料金となります。,●幼児(食事・布団不要)のご予約につきましては、0～1歳は無料、2～3歳は1650円（税込）を別途頂戴します。予めご了承下さい。※鉄板焼きプランは小学生未満のお子様はご利用いただけません。,●基本のチェックイン時間は、【2食付プラン…15：00～17：00】／【朝食付、素泊りプラン…15：00～21：00】となります。,●基本のチェックアウト時間は、10時までとなります。 ※プランにより異なります。異なる場合は、プラン本文内に特典として記載しております。,●ホテルスポルシオンツイン・4ベッドルームには冷房設備がございません。 ※ウインドウエアコンあり",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の80％    <BR>前日                ：宿泊料金の80％    <BR>3日前から           ：宿泊料金の50％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "時間外チェックイン・チェックアウト（プランにより可）",
+    "otherInformation": "※ホテルスポルシオンツイン、4ベッドの部屋に冷房設備はございません���,　富士の麓、高原を渡る涼しい風（天然のエアコン）を感じてください。"
+  }
+}

@@ -1,0 +1,301 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 27722,
+    "hotelName": "あわら温泉　政竜閣",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D27722",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D27722%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D27722",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D27722",
+    "hotelKanaName": "あわらおんせん　せいりゅうかく",
+    "hotelSpecial": "楽天トラベルアワード15年連続受賞＆4年連続W受賞！朝夕お部屋食。卓球カラオケ露天付客室、貸切風呂",
+    "hotelMinCharge": 7550,
+    "latitude": 130384.43,
+    "longitude": 490281.52,
+    "postalCode": "910-4127",
+    "address1": "福井県",
+    "address2": "あわら市西温泉1-102",
+    "telephoneNo": "0776-77-3100",
+    "faxNo": "0776-78-7542",
+    "access": "えちぜん鉄道芦原湯の町駅随時送迎／JR芦原温泉駅よりバス13分芦原湯の町駅下車／北陸道 金津ICより約13分／芝政約8分",
+    "parkingInformation": "有り　１５０台　ちなみに当然無料　十分な広さがありますのでご安心下さい。",
+    "nearestStation": "芦原湯町",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/27722/27722.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/27722.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/27722/27722_furo.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/27722.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/27722/27722map.gif",
+    "reviewCount": 2318,
+    "reviewAverage": 4.19,
+    "userReview": "夕食の提供が遅く、スタッフの対応も残念夕食お水を頼むも10分後ご飯のおかわり頼むも10分後挙げ句の果てはお吸い物はみんな食べ終わってずっと待つありさま、忙しい時期とは思いますが遅すぎます。係の…　2026-08-15 17:44:37投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=27722\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.3,
+    "locationAverage": 3.89,
+    "roomAverage": 4.26,
+    "equipmentAverage": 4.1,
+    "bathAverage": 4.12,
+    "breakfastAverage": 4.25,
+    "dinnerAverage": 4.35,
+    "cleanlinessAverage": 4.16
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "hukui",
+    "smallClassCode": "awara",
+    "areaName": "あわら・三国",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "22:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 38,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "モジュラージャック"
+      },
+      {
+        "item": "インターネット接続(LAN形式)"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "★全客室インターネット無料接続。全客室Wi-Fi使えます。"
+      },
+      {
+        "item": "会議室も同じくインターネット環境になっておりますのでネット接続しながら会議することもできます。"
+      },
+      {
+        "item": "★2020年4月より全室禁煙となりました。喫煙者の方は屋内・屋外喫煙所をご利用ください。"
+      },
+      {
+        "item": "カラオケルーム"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "コーヒーショップ"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "ゲームコーナー"
+      },
+      {
+        "item": "卓球"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "ルームサービス"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "部屋"
+      },
+      {
+        "breakfastPlace": "広間"
+      },
+      {
+        "dinnerPlace": "部屋"
+      },
+      {
+        "dinnerPlace": "広間"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathType": "岩盤浴"
+      },
+      {
+        "bathQuality": "ナトリウム塩化物泉"
+      },
+      {
+        "bathQuality": "アルカリ性低張性鉱泉"
+      },
+      {
+        "bathBenefits": "温熱効果"
+      },
+      {
+        "bathBenefits": "冷え性"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      }
+    ],
+    "aboutLeisure": "近くにジャンボプールや遊園地の芝政ワールド、越前松島水族館、勝山市の福井県立恐竜博物館,海水浴,釣り,海釣り,テニス,ゲートボール,ゴルフ,サッカー,サイクリング,スキー,乗馬,遊園地,博物館,水族館",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      }
+    ],
+    "linguisticLevel": "英語：日常的な内容は問題のないスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "チェックイン予定時刻を過ぎるとキャンセル扱いになることもありますので遅くなる旨ご連絡下さい。,ＪＲ芦原温泉駅バス乗換えちぜん鉄道あわら湯の町駅まで１３分そこで電話いただければ即お迎え,12歳以上の方は入湯税150円/名様が別途かかります。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>2日前から           ：宿泊料金の30％    <BR>5日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "Bank Card"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "楽天カード"
+      },
+      {
+        "card": "デビットカード"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "記念品進呈中",
+    "otherInformation": "★2024年��設♪　卓球もカラオケもできる露天風呂付き客室　【温泉宿を1室に凝縮】,◆檜の香り漂う本格庭園露天風呂　大浴場大巨石風呂「呼鳥門」併設の新しい温泉庭園露天風呂,◆露天風呂付き客室　総檜造りのおとぎ亭客室に檜の東屋風建物の温泉露天風呂"
+  }
+}

@@ -1,0 +1,310 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 6100,
+    "hotelName": "和銅鉱泉　薬師の湯　ゆの宿　和どう",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D6100",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D6100%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D6100",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D6100",
+    "hotelKanaName": "わどうおんせん　ゆのやど　わどう",
+    "hotelSpecial": "３年連続「楽天トラベルアワード」受賞。自家源泉「和銅鉱泉」は、身体がポカポカになると評判です♪",
+    "hotelMinCharge": 5445,
+    "latitude": 129733.69,
+    "longitude": 500797.92,
+    "postalCode": "368-0001",
+    "address1": "埼玉県",
+    "address2": "秩父市黒谷813",
+    "telephoneNo": "0494-23-3611",
+    "faxNo": "0494-23-3610",
+    "access": "●お車の場合⇒練馬ICより約70分（関越道「花園ＩＣ」より約３０分）●電車の場合⇒秩父鉄道「和銅黒谷駅」より無料送迎あり",
+    "parkingInformation": "無料７０台／玄関より一段下がった場所が駐車場となります。玄関前でお荷物やお連れ様をおろしてください。",
+    "nearestStation": "黒谷",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/6100/6100.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/6100.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/6100/6100_ky.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/6100.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/6100/6100map.gif",
+    "reviewCount": 2927,
+    "reviewAverage": 4.54,
+    "userReview": "食事は満足、夜景ツアーも良かった朝夕共にご飯はお腹一杯になる量です。部屋は清潔に掃除されていましてが、エアコンが古いのか音がうるさかったです。全室禁煙のはずが廊下はタバコの匂いがして残念で…　2026-08-15 18:29:59投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=6100\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.62,
+    "locationAverage": 4.32,
+    "roomAverage": 4.47,
+    "equipmentAverage": 4.43,
+    "bathAverage": 4.53,
+    "breakfastAverage": 4.47,
+    "dinnerAverage": 4.54,
+    "cleanlinessAverage": 4.55
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "saitama",
+    "smallClassCode": "chichibu",
+    "areaName": "秩父・長瀞",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "19:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 38,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "ビデオデッキ(貸出)"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー(貸出)"
+      },
+      {
+        "item": "ドライヤー(一部)"
+      },
+      {
+        "item": "電気スタンド"
+      },
+      {
+        "item": "ＣＤプレイヤ－(貸出)"
+      },
+      {
+        "item": "カセットデッキ(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "洗顔ソープ"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "ティーラウンジ"
+      },
+      {
+        "item": "カラオケルーム"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コネクティングルーム（一部・要予約）"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "広間"
+      },
+      {
+        "dinnerPlace": "部屋"
+      },
+      {
+        "dinnerPlace": "個室"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathType": "岩盤浴"
+      },
+      {
+        "bathQuality": "単純硫黄泉"
+      },
+      {
+        "bathQuality": "アルカリ性低張性鉱泉"
+      },
+      {
+        "bathBenefits": "神経痛"
+      },
+      {
+        "bathBenefits": "冷え性"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      }
+    ],
+    "aboutLeisure": "・ラフティング　・プール　・各種フルーツ狩り　・うどん/そば打ち体験　・陶芸体験,釣り,渓流釣り,カヌー,渓流下り,川上り,テニス,ゲートボール,ゴルフ,サイクリング,ハイキング,スケート,登山,動物園,しいたけ狩り",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "バリアフリールーム"
+      },
+      {
+        "item": "車椅子利用者用客室あり"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "客室内トイレに手すりあり"
+      },
+      {
+        "item": "大浴場浴槽に手すりあり"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      },
+      {
+        "item": "高齢者用料理への対応可能"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "①チェックインは全部屋タイプ共通で１５時ですが、チェックアウトは異なり、和室通常客室は１０時、露天風呂付客室は１１時となります。,②当館最寄り駅の秩父鉄道「和銅黒谷駅」までは、１名様よりご送迎可能です。お時間も何時でも大丈夫ですので、駅到着後、当館までご連絡下さい。,③ご夕食は、人数様に関わらず、他のお客様と一緒になることはございません。どうぞ、ご安心してお越し下さいませ。,④ご朝食は、他のお客様と広間にてご一緒となります。お席はお客様ごとにご用意しております。,⑤誠に勝手ではございますが、お食事場所につきましてのご指定はご遠慮頂いております。身体的事情等ございます場合はお申し出くださいませ。,⑥１歳未満の添い寝のお子様は無料となりますが、正確な人数を把握させて頂きたく思いますので「備考欄」にご記入ください。,※なお１歳以上の添い寝のお子様は、別途施���使用料を頂戴しております。予めご了承くださいますようお願い申し上げます。,⑦【キャンセル料】は当館宿泊約款に基づいて記入しております。当日のキャンセルは宿泊料の50％、無連絡の場合は100％をご請求させて頂きます。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の50％    <BR>前日                ：宿泊料金の20％    <BR>5日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "楽天カード"
+      },
+      {
+        "card": "デビットカード"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "ウェルカムドリンクサービス",
+    "otherInformation": null
+  }
+}

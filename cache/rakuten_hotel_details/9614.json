@@ -1,0 +1,286 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 9614,
+    "hotelName": "吸う温泉　湯治の宿　竜王ラドン温泉ホテル　湯ーとぴあ",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D9614",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D9614%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D9614",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D9614",
+    "hotelKanaName": "すうおんせん　とうじのやど　りゅうおうらどんおんせんほてる　ゆーとぴあ",
+    "hotelSpecial": "温泉宿・ホテル総選挙2025湯治ウェルネス部門全国第二位／建物・お部屋は古いですが湯治の宿として人気",
+    "hotelMinCharge": 7920,
+    "latitude": 128369.4,
+    "longitude": 498684.4,
+    "postalCode": "400-0113",
+    "address1": "山梨県",
+    "address2": "甲斐市富竹新田1300-1",
+    "telephoneNo": "055-276-9111",
+    "faxNo": "055-276-9999",
+    "access": "新宿から車で約90分！中央高速道『甲府昭和IC』より2km(3分)／電車で新宿駅から2時間。JR竜王駅より徒歩12分",
+    "parkingInformation": "有り・普通車無料、大型車駐車可能。",
+    "nearestStation": "竜王",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9614/9614.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/9614.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9614/9614_war.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/9614.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9614/9614map.gif",
+    "reviewCount": 798,
+    "reviewAverage": 4.25,
+    "userReview": "昭和レトロな雰囲気と美味しい食事に大満足施設は年季が入っていて、外観もラドン発生装置のあるフロントもかなり歴史を感じます。昭和の感じで私は好きです。お部屋も古かったけれど、ダブルのお部屋でスーツケ…　2026-08-14 17:46:37投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=9614\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.07,
+    "locationAverage": 3.9,
+    "roomAverage": 3.9,
+    "equipmentAverage": 3.88,
+    "bathAverage": 4.53,
+    "breakfastAverage": 3.85,
+    "dinnerAverage": 3.63,
+    "cleanlinessAverage": 3.94
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "yamanasi",
+    "smallClassCode": "kofu",
+    "areaName": "甲府・湯村・昇仙峡",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "24:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 35,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "モジュラージャック"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "ティーサーバー"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー(貸出)"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "石鹸（固形）"
+      },
+      {
+        "item": "リンスインシャンプー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "医学のラドン温泉（宿泊者利用無料）"
+      },
+      {
+        "item": "無料Wi-Fi"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "広間"
+      },
+      {
+        "breakfastPlace": "食堂"
+      },
+      {
+        "dinnerPlace": "広間"
+      },
+      {
+        "dinnerPlace": "食堂"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathType": "水風呂"
+      },
+      {
+        "bathQuality": "硫黄泉"
+      },
+      {
+        "bathQuality": "ナトリウム炭酸水素塩泉"
+      },
+      {
+        "bathQuality": "ラドン温泉（銀泉）"
+      },
+      {
+        "bathBenefits": "神経痛"
+      },
+      {
+        "bathBenefits": "糖尿病"
+      },
+      {
+        "bathBenefits": "美容"
+      }
+    ],
+    "aboutLeisure": "昇仙峡・信玄堤・ワイナリー・県立美術館・科学館・富士山,渓流釣り,ゲートボール,ゴルフ,サッカー,パラグライダー,ハンググライダー,サイクリング,ハイキング,スキー,登山,博物館,フラワーパーク,美術館",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "大浴場浴槽に手すりあり"
+      },
+      {
+        "item": "大浴場での介助入浴可能"
+      },
+      {
+        "item": "高齢者用料理への対応可能"
+      }
+    ],
+    "linguisticLevel": "中国語：ネイティブに近く流暢なスタッフが数人いる。<BR>英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "当ホテルは温泉療養施設です。,夕食（１８～２０時迄）の希望時間を別途メール等にてお知らせ下さい。連絡無い場合は１８時に用意させていただきます。,★ご夕食の提供は予約のみの対応となります。,入湯税１５０円別途お預かりいたします。,洋間利用の場合、未就学舎未満の方は利用出来ません。,和室利用の場合、3歳未満及び未就学時のお子様は、添い寝施設利用料3,300円がかかります。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の80％    <BR>9日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "OMC"
+      },
+      {
+        "card": "Bank Card"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Discover"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "AEON"
+      },
+      {
+        "card": "JACCS"
+      },
+      {
+        "card": "APLUS"
+      },
+      {
+        "card": "CF"
+      },
+      {
+        "card": "LIFE"
+      },
+      {
+        "card": "ORICO"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": "割引コース・追加料金等はご利用出来かねます。",
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "心のバリアフリー認定・シルバースター旅館・おもてなし規格金認証・ＢＣＰ事業継続計画策定旅館",
+    "otherInformation": "ネット予約後の変更：人員の変更、泊数等の変更も出来ない場合もあります。,一度キャンセルされてから正しい予約をしてください。その場合当初の割引条件等は引き継ぎされません。"
+  }
+}

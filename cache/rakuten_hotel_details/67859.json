@@ -1,0 +1,256 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 67859,
+    "hotelName": "温泉山荘だいこんの花",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D67859",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D67859%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D67859",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D67859",
+    "hotelKanaName": "おんせんさんそうだいこんのはな",
+    "hotelSpecial": "野生のリスや小鳥が訪れる一万坪の森の中に、全室離れの客室と４つの貸切露天風呂が点在する温泉宿。",
+    "hotelMinCharge": 62445,
+    "latitude": 137242.2,
+    "longitude": 506055.03,
+    "postalCode": "989-0916",
+    "address1": "宮城県",
+    "address2": "刈田郡蔵王町遠刈田温泉北山21-7",
+    "telephoneNo": "0570-04-1155",
+    "faxNo": "0224-34-1114",
+    "access": "ＪＲ東北新幹線　白石蔵王駅より宮交仙南バス遠刈田温泉行き乗車（約４０分）",
+    "parkingInformation": "有り　１８台　無料　予約不要",
+    "nearestStation": "白石蔵王",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/67859/67859.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/67859.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/67859/67859_kn.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/67859.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/67859/67859map.gif",
+    "reviewCount": 183,
+    "reviewAverage": 4.85,
+    "userReview": "いつ来ても変わらぬ素晴らしいサービスいつ宿泊しても同じようにサービスが提供されているのが大変素晴らしいく思います。料理長さんのが提供する食事も地元の食材を使って美味しく料理されています。お…　2026-05-24 13:51:01投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=67859\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.9,
+    "locationAverage": 4.85,
+    "roomAverage": 4.85,
+    "equipmentAverage": 4.85,
+    "bathAverage": 4.85,
+    "breakfastAverage": 4.9,
+    "dinnerAverage": 4.9,
+    "cleanlinessAverage": 4.89
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "miyagi",
+    "smallClassCode": "shiroishi",
+    "areaName": "白石・宮城蔵王",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "22:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 18,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送（無料）"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(一部、無線LAN形式)"
+      },
+      {
+        "item": "ティーサーバー"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "ＣＤプレイヤ－(貸出)"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "洗顔ソープ"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "くつろぎ着の作務衣"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "湯上がりサロン"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "エステサロン"
+      },
+      {
+        "item": "ルームサービス"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "ダイニングルーム"
+      },
+      {
+        "dinnerPlace": "ダイニングルーム"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathType": "岩盤浴"
+      },
+      {
+        "bathQuality": "ナトリウム塩化物炭酸水素泉"
+      },
+      {
+        "bathBenefits": "健康"
+      },
+      {
+        "bathBenefits": "皮膚病"
+      },
+      {
+        "bathBenefits": "婦人病"
+      }
+    ],
+    "aboutLeisure": "釣り,ゴルフ,ハイキング,スキー,トレッキング,登山,美術館",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "大浴場浴槽に手すりあり"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "①12歳未満のお子様のご宿泊はご遠慮いただいております。,②当館では様々な食材を同一厨房で調理しているため、特定のお客様のアレルゲンを完全に取り除く保証をすることが出来ないことから、食物アレルギーや苦手食の対応は行っておりません。,③ご夕食の最終スタート時間は18:30となります。,④ご朝食は一番早くて8:30のご用意となります。,⑤不明な点があった場合はお電話でご連絡させていただきます。,⑥インターネット、電話やその他でも予約受付をしている為、万一ご希望のお部屋が満室となった場合はご予約を承ることができません。その際は24時間以内にご連絡させていただきます。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>3日前から           ：宿泊料金の30％    <BR>10日前から          ：宿泊料金の10％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "Master Card"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "※客室内及び館内は禁煙です。喫煙は客室屋外テラス及び当館が定める所定場所のみとなります。"
+  }
+}

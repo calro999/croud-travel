@@ -1,0 +1,271 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 179785,
+    "hotelName": "伊豆ホテル　リゾート＆スパ",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D179785",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D179785%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D179785",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D179785",
+    "hotelKanaName": "いずほてるりぞーとあんどすぱ",
+    "hotelSpecial": "全室オーシャンビュー＆露天風呂付きのスモールプレミアリゾート",
+    "hotelMinCharge": 40500,
+    "latitude": 125377.35,
+    "longitude": 500635.62,
+    "postalCode": "413-0302",
+    "address1": "静岡県",
+    "address2": "賀茂郡東伊豆町奈良本1457-30　リゾートパーク伊豆あたがわ別荘地内",
+    "telephoneNo": "0557-22-5151",
+    "faxNo": "0557-35-9835",
+    "access": "【電車】伊豆熱川駅より送迎車（予約制）にて約15分　【お車】国道135号からの道は公式HPのアクセス情報をご確認ください",
+    "parkingInformation": "有り　無料　予約不要",
+    "nearestStation": "伊豆熱川",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/179785/179785.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/179785.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/179785/179785_kan1.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/179785.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/179785/179785map.gif",
+    "reviewCount": 77,
+    "reviewAverage": 4.61,
+    "userReview": "スタッフの対応と朝食は最高、夕食は改善の余地あり台風が近づいていてお天気が心配でしたが、晴れ間があり景色を楽しむことができました。スタッフの方々は皆さま大変丁寧で感じがよかったです。ウェルカム…　2026-08-13 16:47:28投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=179785\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.89,
+    "locationAverage": 4.72,
+    "roomAverage": 4.89,
+    "equipmentAverage": 4.94,
+    "bathAverage": 4.94,
+    "breakfastAverage": 4.69,
+    "dinnerAverage": 4.53,
+    "cleanlinessAverage": 4.94
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "shizuoka",
+    "smallClassCode": "higashi",
+    "areaName": "東伊豆・河津",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "19:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 26,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "ＣＳ放送"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ミニバー"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "洗顔ソープ"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "ナイトウェア"
+      },
+      {
+        "item": "バスローブ"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "パジャマ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "スポーツジム　営業時間7:00〜21:00　レンタルシューズをご用意しております。"
+      },
+      {
+        "item": "エステサロン【エトワールスパ】営業時間14:30〜21:30(最終受付)"
+      },
+      {
+        "item": "バー【WAVE】営業時間17:30〜22:30(L.O.)"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "喫茶"
+      },
+      {
+        "item": "ラウンジ"
+      },
+      {
+        "item": "バー"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "湯上がりサロン"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "コーヒーショップ"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "セルフコインランドリーコーナー(無料)"
+      },
+      {
+        "item": "エステサロン"
+      },
+      {
+        "item": "スポーツジム"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathQuality": "硫酸塩泉"
+      },
+      {
+        "bathQuality": "ナトリウム塩化物泉"
+      },
+      {
+        "bathBenefits": "胃腸病"
+      },
+      {
+        "bathBenefits": "肩凝り"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      }
+    ],
+    "aboutLeisure": "海水浴,ダイビング,ゴルフ,パラグライダー,ハイキング,クロスカントリー,動物園",
+    "handicappedFacilities": [
+      {
+        "item": "貸出用車椅子"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "チェックインが予定時間を過ぎる場合は必ずご連絡ください。,入湯税が別途必要です（お一人様300円）。,伊豆熱川駅とホテル間はシャトルバスを運行しております。ご利用の場合や運行時間の確認は、直接ホテルまでお問い合わせください（代表番号：0557-22-5151）,紙・加熱式・電子タバコとも館内・室内・テラスでは禁煙となります。喫煙所は別途設けておりますので、ホテルまでお問合せ下さい。,お車でお越しの場合のアクセスについては公式HP（izu-hotel.com）をご確認ください。,※未就学児同伴でのご宿泊について、インターネットからのご予約は承っておりません。お手数ですが、お電話にてお問合せください。,※未就学のお子様は大浴場のご利用はできません。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の80％    <BR>前日                ：宿泊料金の50％    <BR>3日前から           ：宿泊料金の30％    <BR>7日前から           ：宿泊料金の10％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "Master Card"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "ウェルカムドリンクサービス,湯上がりサロンでのお茶サービス,トレーニングルーム御利用無料",
+    "otherInformation": "カフェテラス　営業時間ショップ9:00〜･カフェ10:00〜17:30"
+  }
+}

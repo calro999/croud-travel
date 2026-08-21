@@ -1,0 +1,120 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 37397,
+    "hotelName": "山口県長門市俵山温泉「明治屋旅館」",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D37397",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D37397%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D37397",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D37397",
+    "hotelKanaName": "やまぐちけん　ながとし　たわらやまおんせん「めいじやりょかん」",
+    "hotelSpecial": "町の湯まで徒歩2分。白猿の湯も徒歩圏内ですので街並みをのんびりと歩きながら湯巡りを楽しんで頂けます。",
+    "hotelMinCharge": 5500,
+    "latitude": 123435.73,
+    "longitude": 471971.01,
+    "postalCode": "759-4211",
+    "address1": "山口県",
+    "address2": "長門市俵山5127",
+    "telephoneNo": "0837-29-0055",
+    "faxNo": null,
+    "access": "お車…小月I.C.もしくは美祢I.C.（中国自動車道）から約40分 / 電車…ＪＲ美祢線・長門湯本駅よりバスで20分",
+    "parkingInformation": "専用駐車場あり　無料　予約不要",
+    "nearestStation": "長門湯本",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/37397/37397.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/37397.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/37397/37397_ky.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/37397.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/37397/37397map.gif",
+    "reviewCount": 59,
+    "reviewAverage": 4.67,
+    "userReview": null
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 0,
+    "locationAverage": 0,
+    "roomAverage": 0,
+    "equipmentAverage": 0,
+    "bathAverage": 0,
+    "cleanlinessAverage": 4.67
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "yamaguchi",
+    "smallClassCode": "hagi",
+    "areaName": "萩・長門・秋吉台",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "19:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 4,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "ケーブルＴＶ"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "冷蔵庫（共同）"
+      },
+      {
+        "item": "全館禁煙"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [],
+    "aboutBath": [
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "アルカリ単純泉"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      },
+      {
+        "bathBenefits": "腰痛"
+      },
+      {
+        "bathBenefits": "リウマチ・神経病"
+      }
+    ],
+    "aboutLeisure": "ゴルフ,ハイキング",
+    "handicappedFacilities": [],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "館内に温泉はないため、外湯のご利用には別途料金がかかります。,客室は２階のみとなっており、階段でのご案内となります。,チェックインが１９時以降になる場合は、必ずご連絡ください。,全館禁煙となっております。ご協力をお願いいたします。,衛生管理のため、館内での自炊はお断りしております。,小学生以下のお子様のご宿泊は承っておりません。あらかじめご了承下さい。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   ",
+    "availableCreditCard": [
+      {
+        "card": "利用不可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": null
+  }
+}

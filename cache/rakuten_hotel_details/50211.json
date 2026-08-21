@@ -1,0 +1,119 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 50211,
+    "hotelName": "ホテル東洋＜大阪府＞",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D50211",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D50211%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D50211",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D50211",
+    "hotelKanaName": "とうよう＜おおさかふ＞",
+    "hotelSpecial": "なんばから2駅♪　アットホームな大阪のバックパッカーズホステル。",
+    "hotelMinCharge": 2900,
+    "latitude": 124722.17,
+    "longitude": 487825.36,
+    "postalCode": "557-0002",
+    "address1": "大阪府",
+    "address2": "大阪市西成区太子1-3-5",
+    "telephoneNo": "06-6649-6348",
+    "faxNo": "06-6649-6348",
+    "access": "☆大阪メトロ御堂筋線　動物園前駅、２番出口より徒歩２分 ☆ＪＲ新今宮駅　東出口より徒歩３分☆",
+    "parkingInformation": "ホテルの駐車場はございませんが、近くにコインパーキングがたくさんございますのでご利用ください。",
+    "nearestStation": "動物園前",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/50211/50211.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/50211.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/50211/50211_ka.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/50211.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/50211/50211map.gif",
+    "reviewCount": 306,
+    "reviewAverage": 4,
+    "userReview": null
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 0,
+    "locationAverage": 0,
+    "roomAverage": 0,
+    "equipmentAverage": 0,
+    "bathAverage": 0,
+    "cleanlinessAverage": 4.17
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "osaka",
+    "smallClassCode": "shi",
+    "areaName": "大阪",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "14:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "23:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 50,
+    "roomFacilities": [
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "貸自転車"
+      },
+      {
+        "item": "卓球"
+      }
+    ],
+    "aboutMealPlace": [],
+    "aboutBath": [],
+    "aboutLeisure": "動物園,テーマパーク",
+    "handicappedFacilities": [],
+    "linguisticLevel": "英語：ネイティブに近く流暢なスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "当館門限はございません。,お部屋に、タオル、洗面用具はございません。ご希望により、フロントにてレンタル又は販売しております。,チェックイン時間は２３時迄となっております。２３時を過ぎるチェックインは出来ませんのでご注意ください。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の100％   <BR>2日前から           ：宿泊料金の50％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "楽天カード"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "モーニングコーヒーサービス",
+    "otherInformation": null
+  }
+}

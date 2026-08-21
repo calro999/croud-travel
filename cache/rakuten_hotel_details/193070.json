@@ -1,0 +1,213 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 193070,
+    "hotelName": "ＨＯＴＥＬ　ＡＯ　ＫＡＮＡＺＡＷＡ",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D193070",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D193070%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D193070",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D193070",
+    "hotelKanaName": "ほてる　あお　かなざわ",
+    "hotelSpecial": "北陸の恵みの食材を楽しむ、全15室のスモールリノベーションホテル",
+    "hotelMinCharge": 7530,
+    "latitude": 131625.99,
+    "longitude": 491999.45,
+    "postalCode": "920-0931",
+    "address1": "石川県",
+    "address2": "金沢市兼六元町1-1",
+    "telephoneNo": "076-223-4630",
+    "faxNo": "076-223-4631",
+    "access": "金沢駅兼六園口バスターミナル6番・7番のりば→バスで約15分→「兼六園下・金沢城」から徒歩で約1分",
+    "parkingInformation": "ご来館は近隣コインPをご利用ください（三井リパーク兼六園下・兼六園下・兼六）。※料金一部サービス",
+    "nearestStation": "金沢",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/193070/193070.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/193070.jpg",
+    "roomImageUrl": null,
+    "roomThumbnailUrl": null,
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/193070/193070map.gif",
+    "reviewCount": 44,
+    "reviewAverage": 4.72,
+    "userReview": "兼六園の目の前で快適、アメニティ充実を希望お部屋のおまかせタイプでスタンダードのお部屋に泊まりました。1人で申し分ない広さと清潔感で大満足です。冷蔵庫内の飲み物も全て無料、ワンドリンクサー…　2026-07-26 12:38:21投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=193070\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.72,
+    "locationAverage": 4.56,
+    "roomAverage": 4.59,
+    "equipmentAverage": 4.46,
+    "bathAverage": 4.47,
+    "breakfastAverage": 4.78,
+    "dinnerAverage": 5,
+    "cleanlinessAverage": 4.67
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "ishikawa",
+    "smallClassCode": "kanazawa",
+    "areaName": "金沢",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "21:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 15,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ミニバー"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（固形）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "入浴剤"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "バスローブ"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "パジャマ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "※客室備品について、一部の客室のみの備品がございます。(バスローブ、入浴剤)"
+      },
+      {
+        "item": "※当施設ではベビーベッドやベッドガード、おむつ用ごみ箱の手配が可能でございます。"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "ルームサービス"
+      },
+      {
+        "item": "宅配便"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [],
+    "aboutLeisure": null,
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "【宿泊税】,金沢市条例により、お一人様ご一泊につき以下の宿泊税を別途頂戴いたします。 （お食事代を除く別税　5,000円未満：0円、5,000円以上-20,000円未満：200円、20,000以上：500円）,【ギャランティーポリシー】,宿泊日当日の20:00を過ぎてもご来館がなく、かつご連絡もつかない場合は不泊とみなし、ご予約を取消させていただく場合がございます。 その場合はキャンセルポリシーに基づき、取消料を請求させていただきます,【ご到着時刻について】,チェックインが予定時刻を過ぎる場合は必ずご連絡ください。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の100％   <BR>2日前から           ：宿泊料金の50％    <BR>3日前から           ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Master Card"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": null
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 9671,
+    "hotelName": "ビジネスホテルセントラル＜和歌山県＞",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D9671",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D9671%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D9671",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D9671",
+    "hotelKanaName": "せんとらる＜わかやまけん＞",
+    "hotelSpecial": "市の中心に位置し、ビジネス・レジャーの拠点としてご利用頂けます。",
+    "hotelMinCharge": 6000,
+    "latitude": 122015.77,
+    "longitude": 486562.2,
+    "postalCode": "644-0011",
+    "address1": "和歌山県",
+    "address2": "御坊市湯川町財部722-5",
+    "telephoneNo": "0738-23-1701",
+    "faxNo": "0738-22-8607",
+    "access": "阪和道を経て湯浅御坊道『御坊IC』より約10分/『JR御坊駅』より車で約7分/紀州鉄道『紀伊御坊駅』より徒歩5分",
+    "parkingInformation": "有り　28台　無料　先着順",
+    "nearestStation": "御坊",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9671/9671.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/9671.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9671/9671_fro.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/9671.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9671/9671map.gif",
+    "reviewCount": 121,
+    "reviewAverage": 3.47,
+    "userReview": "決して新しくはないけど。綺麗でした。優しいフロントの方でした。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/967…　2026-03-05 05:56:02投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=9671\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 3.53,
+    "locationAverage": 3.4,
+    "roomAverage": 3.4,
+    "equipmentAverage": 3.33,
+    "bathAverage": 0,
+    "breakfastAverage": 4,
+    "cleanlinessAverage": 3.55
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "wakayama",
+    "smallClassCode": "gobo",
+    "areaName": "御坊・有田・海南・日高",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "16:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "23:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 25,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "リンスインシャンプー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "喫茶"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "貸自転車"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "ルームサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [],
+    "aboutLeisure": "煙樹ヶ浜、EEパーク、白崎海洋公園、西山ハイキング、産湯海水浴場、川辺天文公園など。,海水浴,釣り,海釣り,ダイビング,テニス,ゴルフ,ハイキング,テーマパーク,農業公園",
+    "handicappedFacilities": [
+      {
+        "item": "客室内に洋式トイレあり"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "「プラスチックに係る資源循環の促進等に関する法律」の施行に伴い、カミソリ及び歯ブラシはフロントでの申告制（無料）となります。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の0％     ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "申し訳ありませんが、エレベーターはございませんのでご了承下さいませ。"
+  }
+}

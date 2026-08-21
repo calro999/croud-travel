@@ -1,0 +1,366 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 8492,
+    "hotelName": "ヒルトン東京お台場",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D8492",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D8492%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D8492",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D8492",
+    "hotelKanaName": "ヒルトンとうきょうおだいば",
+    "hotelSpecial": "絶景を望むバルコニーｘ記念日★",
+    "hotelMinCharge": 13951,
+    "latitude": 128242.02,
+    "longitude": 503184.8,
+    "postalCode": "135-8625",
+    "address1": "東京都",
+    "address2": "港区台場1-9-1",
+    "telephoneNo": "03-5500-5500",
+    "faxNo": "03-5500-2525",
+    "access": "「台場駅」直結／羽田空港からリムジンバス約20分／品川駅からお台場レインボーバス約20分／ディズニーシャトルバス運行中",
+    "parkingInformation": "有り　３００台（有料）　ご宿泊のお客様は1泊2000円(税込)　※最大6000円",
+    "nearestStation": "台場",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8492/8492.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/8492.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8492/8492_room.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/8492.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8492/8492map.gif",
+    "reviewCount": 4739,
+    "reviewAverage": 4.37,
+    "userReview": "リニューアル客室と朝食に満足、お台場の眺望も満喫リニューアルされた客室で快適に過ごせました。朝食もおいしかったです。プールも別料金ですが楽しめました。眺望は下のフロアの屋根が見える場所でしたが、端…　2026-08-15 22:29:52投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=8492\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.3,
+    "locationAverage": 4.53,
+    "roomAverage": 4.39,
+    "equipmentAverage": 4.23,
+    "bathAverage": 4.36,
+    "breakfastAverage": 4.22,
+    "dinnerAverage": 5,
+    "cleanlinessAverage": 4.36
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "tokyo",
+    "smallClassCode": "tokyo",
+    "areaName": "東京２３区内",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "12:00",
+    "lastCheckinTime": "25:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 453,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送"
+      },
+      {
+        "item": "衛星放送（無料）"
+      },
+      {
+        "item": "ＣＳ放送"
+      },
+      {
+        "item": "ビデオデッキ(貸出)"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "モジュラージャック"
+      },
+      {
+        "item": "ファックス(貸出)"
+      },
+      {
+        "item": "インターネット接続(LAN形式)"
+      },
+      {
+        "item": "インターネット接続(一部、無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ミニバー"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "ＣＤプレイヤ－(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "変圧器（貸出）"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "エクステンションベッド"
+      },
+      {
+        "item": "ベビーベッド"
+      },
+      {
+        "item": "石鹸（固形）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "ナイトウェア"
+      },
+      {
+        "item": "バスローブ"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "パジャマ"
+      },
+      {
+        "item": "湯沸かしポット(貸出)"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "＜客室インターネット（有線/無線）接続サービスのご案内＞"
+      },
+      {
+        "item": "■スタンダードプラン（1,080円税込／24時間）：通信速度 3MB speed　"
+      },
+      {
+        "item": "※ベビーベッドのお貸出は1歳未満に限らせていただきます。"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "コーヒーハウス"
+      },
+      {
+        "item": "喫茶"
+      },
+      {
+        "item": "ティーラウンジ"
+      },
+      {
+        "item": "ラウンジ"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "結婚式場"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "ベーカーショップ"
+      },
+      {
+        "item": "コーヒーショップ"
+      },
+      {
+        "item": "エステサロン"
+      },
+      {
+        "item": "フィットネスクラブ"
+      },
+      {
+        "item": "スポーツジム"
+      },
+      {
+        "item": "プール(通年)"
+      },
+      {
+        "item": "コネクティングルーム（一部・要予約）"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "パソコン利用可"
+      },
+      {
+        "item": "ワープロ利用可"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "E-Mail送信可"
+      },
+      {
+        "item": "ルームサービス"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      },
+      {
+        "dinnerPlace": "レストラン(バイキング)"
+      }
+    ],
+    "aboutBath": [],
+    "aboutLeisure": "ディズニーリゾート(R)まで直通無料シャトルバスで約30分,海釣り,ウィンドサーフィン,テニス,サイクリング,陸上競技,遊園地,博物館,テーマパーク,水上バス",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "バリアフリールーム"
+      },
+      {
+        "item": "車椅子利用者用客室あり"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": "中国語：少し分かるスタッフが数人いる。<BR>英語：日常的な内容は問題のないスタッフが大半である。<BR>韓国語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "■お子様料金につきまして、小学生（高・低学年とも）以上のお子様はご予約時大人と同料金を頂戴いたします。,■エグゼクティブルーム、スイートルームをご予約のお客様,ワンランク上のホテルステイが叶うスペシャル特典「Benefit Plus（ベネフィットプラス）」のご案内,通常のエグゼクティブラウンジ特典に加えて、2連泊以上のお客様はご滞在中1回タクシー（15km圏内）をご利用いただけます。,スイートルームのお客様は更に「庵スパTOKYO」（プール、サウナ、ジェットバス）やWiFiも無料でご用意いたします。,■当ホテルでは、現在大規模改装工事期間中につき、特別営業を行っております。詳しくは公式サイトをご覧ください。,■エグゼクティブラウンジでのチェックイン・チェックアウト業務一時休止のお知らせ,館内メンテナンスのため、2026年8月24日（月）13:00～8月26日（水）14:30の間、エグゼクティブラウンジでのチェックイン・チェックアウトのお手続きを一時休止いたします。,期間中にご到着・ご出発のお客様は、2階フロントにてお手続きをお願いいたします。,なお、エグゼクティブラウンジでの朝食、アフタヌーンティー、カクテルサービスなどの営業は通常通りご利用いただけます。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の100％   ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "ORICO"
+      },
+      {
+        "card": "JAL"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "エグゼクティブルーム、スイートルームにご宿泊のお客様にスペシャル特典「ベネフィットプラス」,トレーニングルーム御利用無料",
+    "otherInformation": null
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 184496,
+    "hotelName": "ＳＯＫＩ　ＫＡＮＡＺＡＷＡ",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D184496",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D184496%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D184496",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D184496",
+    "hotelKanaName": "そき　かなざわ",
+    "hotelSpecial": "2022年秋開業！近江町市場徒歩2分の好立地。無為自然に過ごす時間をお楽しみください。",
+    "hotelMinCharge": 4000,
+    "latitude": 131648.32,
+    "longitude": 491976.74,
+    "postalCode": "920-0909",
+    "address1": "石川県",
+    "address2": "金沢市袋町2-1",
+    "telephoneNo": "076-210-0270",
+    "faxNo": "076-210-0290",
+    "access": "金沢駅兼六園口バスターミナル6番乗り場から乗車し、「武蔵ヶ辻・近江町市場前」で下車、その後徒歩1分。",
+    "parkingInformation": "駐車場のご用意がございません。近隣駐車場をご利用くださいませ（ホテル付近に複数あり）。",
+    "nearestStation": "金沢",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/184496/184496.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/184496.jpg",
+    "roomImageUrl": null,
+    "roomThumbnailUrl": null,
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/184496/184496map.gif",
+    "reviewCount": 198,
+    "reviewAverage": 4.63,
+    "userReview": "お洒落で快適だが接客に改善の余地あり今どきのとてもお洒落なホテルでした。部屋はコンパクトですが過ごしやすくアメニティも充実していて嬉しかったです。全体的にスタッフの方がもう少し笑顔があ…　2026-08-10 17:27:11投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=184496\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.69,
+    "locationAverage": 4.51,
+    "roomAverage": 4.69,
+    "equipmentAverage": 4.61,
+    "bathAverage": 4.4,
+    "breakfastAverage": 4.47,
+    "dinnerAverage": 5,
+    "cleanlinessAverage": 4.72
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "ishikawa",
+    "smallClassCode": "kanazawa",
+    "areaName": "金沢",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "24:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 130,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送"
+      },
+      {
+        "item": "衛星放送（無料）"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ベビーベッド"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "ナイトウェア"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "宅配便"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "大浴場"
+      }
+    ],
+    "aboutLeisure": "近江町市場が目の前,美術館",
+    "handicappedFacilities": [
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "バリアフリールーム"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "大浴場浴槽に手すりあり"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "■　ご予約時のご注意事項　■,・チェックイン時刻が23:00を過ぎる場合は、ご連絡ください。,・決済は「クレジットカード」のお取り扱いとなります。現金のお取り扱いはございませんので、予めご了承ください。,・二次元バーコード決済もご利用いただけます。（PayPay、Alipay、J-Coin Pay、WeChat Pay、メルペイ、楽天ペイ、銀行ペイ、d払い、au PAY）,■　お子様をお連れのお客様へ　■,・お子様の添い寝について、12歳以下の場合ベッド1台につき1名無料です。　　　　　　　　　　　　　　　　　　※エキストラベッドのご用意はございませんので、予めご了承ください。,※ご予約の際は就学・未就学に関わらず、「幼児」にてご予約ください。　　　　　　　　　　　　　　　　　　　　※ベッド1台ご必要な場合は「大人1名」としてご予約ください。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の80％    <BR>前日                ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Discover"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "■　朝食料金改定のご案内　■,2023年3月1日より朝食料金を改定します。改定前：1980円（税込）→改定後：2530円（税込）,※既にご予約済の場合、改定前の料金でご用意します。今後ご予約される場合、2530円が適用されます。"
+  }
+}

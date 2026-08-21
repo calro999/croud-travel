@@ -1,0 +1,253 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 54007,
+    "hotelName": "奥飛騨　平湯温泉　岡田旅館",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D54007",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D54007%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D54007",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D54007",
+    "hotelKanaName": "おかだりょかん",
+    "hotelSpecial": "全て掛け流しの温泉旅館。貸切＆露天風呂付客室の温もり感じるおもてなしの湯宿。",
+    "hotelMinCharge": 18150,
+    "latitude": 130283.28,
+    "longitude": 495195.75,
+    "postalCode": "506-1433",
+    "address1": "岐阜県",
+    "address2": "高山市奥飛騨温泉郷平湯",
+    "telephoneNo": "0578-89-2336",
+    "faxNo": "0578-89-2241",
+    "access": "平湯温泉方面行きバス乗車、「平湯温泉駅」下車／松本ＩＣより６０分／富山ＩＣより９０分／清見ＩＣより８０分",
+    "parkingInformation": "有り　８０台　無料　予約不要",
+    "nearestStation": "松本",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/54007/54007.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/54007.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/54007/54007_w8.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/54007.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/54007/54007map.gif",
+    "reviewCount": 611,
+    "reviewAverage": 3.95,
+    "userReview": "スタッフの気配りと温泉に癒やされる時間フロントにみえた女性スタッフさん、丁寧な話し方、また翌日クマ牧場へ行くと話すとすぐ割引券をくださるなど気配りも好感がもてました。部屋に露天風呂がついていま…　2026-08-02 21:08:41投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=54007\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 3.98,
+    "locationAverage": 3.87,
+    "roomAverage": 4,
+    "equipmentAverage": 3.78,
+    "bathAverage": 4.15,
+    "breakfastAverage": 3.88,
+    "dinnerAverage": 4.03,
+    "cleanlinessAverage": 4.05
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "gihu",
+    "smallClassCode": "kamitakara",
+    "areaName": "奥飛騨・新穂高",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "20:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 64,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー(貸出)"
+      },
+      {
+        "item": "ドライヤー(一部)"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "おふろセット"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "マッサージサービス（有料）"
+      },
+      {
+        "item": "ルームサービス（有料）"
+      },
+      {
+        "item": "FREE SPOT（ロビー）"
+      },
+      {
+        "item": "喫茶"
+      },
+      {
+        "item": "ラウンジ"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "スキー乾燥室"
+      },
+      {
+        "item": "ルームサービス"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "個室"
+      },
+      {
+        "breakfastPlace": "広間"
+      },
+      {
+        "dinnerPlace": "個室"
+      },
+      {
+        "dinnerPlace": "広間"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathType": "ジャグジー"
+      },
+      {
+        "bathQuality": "硫黄泉"
+      },
+      {
+        "bathQuality": "炭酸水素塩泉"
+      },
+      {
+        "bathQuality": "ナトリウム・塩化物炭酸水素塩泉"
+      },
+      {
+        "bathBenefits": "痛風"
+      },
+      {
+        "bathBenefits": "糖尿病"
+      },
+      {
+        "bathBenefits": "慢性消化器病"
+      }
+    ],
+    "aboutLeisure": "釣り,渓流釣り,ハイキング,スキー,トレッキング,登山,博物館",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "バリアフリールーム"
+      },
+      {
+        "item": "車椅子利用者用客室あり"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "客室内トイレに手すりあり"
+      },
+      {
+        "item": "大浴場浴槽に手すりあり"
+      },
+      {
+        "item": "大浴場での介助入浴可能"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      },
+      {
+        "item": "高齢者用料理への対応可能"
+      },
+      {
+        "item": "施設スタッフによる介助・補助対応が可能"
+      }
+    ],
+    "linguisticLevel": "中国語：少し分かるスタッフが数人いる。<BR>英語：ネイティブに近く流暢なスタッフが数人いる。<BR>韓国語：ネイティブに近く流暢なスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "お車でお越しの場合、冬期はスタッドレスタイヤ又は、チェーンを装着して御越し下さい。,入湯税が別途必要です（お１人様１５０円）,中学生は、大人と同料金となります。６歳以上（小学生）の「食事なし」設定は御座いません。（食事付プランをご選択の場合）,３～５歳は、幼児料金設定をお選びください。０～２歳（食事なし・布団無し）の添い寝のお子様は０円となります。,当館は午後8時より午前７時までフロント、予約業務を行っておりません。出入りは２４時間可能です。,ご夕食の最終案内は１８時でございます。,時間外チェックアウトをご希望のお客様は、チェックイン時にご精算をお願いいたします。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>2日前から           ：宿泊料金の50％    <BR>3日前から           ：宿泊料金の20％    <BR>4日前から           ：宿泊料金の20％    <BR>5日前から           ：宿泊料金の10％    <BR>6日前から           ：宿泊料金の10％    <BR>7日前から           ：宿泊料金の10％    ",
+    "availableCreditCard": [
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "時間外チェックアウト可",
+    "otherInformation": "バリアフリー対応客室は和楽亭のみです。,食べ物アレルギー、苦手な食材へは出来る限りのご対応とさせて頂きます。当日対応不可。"
+  }
+}

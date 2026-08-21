@@ -1,0 +1,316 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 19228,
+    "hotelName": "南三陸　ホテル観洋",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D19228",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D19228%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D19228",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D19228",
+    "hotelKanaName": "みなみさんりく　ほてる　かんよう",
+    "hotelSpecial": "海と一つになる絶景インフィニティ温泉と三陸海鮮を味わう宮城の宿",
+    "hotelMinCharge": 9350,
+    "latitude": 139160.34,
+    "longitude": 509227.2,
+    "postalCode": "986-0766",
+    "address1": "宮城県",
+    "address2": "本吉郡南三陸町志津川字黒崎99-17",
+    "telephoneNo": "0226-46-2442",
+    "faxNo": "0226-46-6200",
+    "access": "三陸自動車道：桃生津山Ｉ.Ｃ→R45で25分。/仙台空港より90分/仙台駅東口より送迎あり（要予約）",
+    "parkingInformation": "有り　２００台　無料　",
+    "nearestStation": "志津川",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19228/19228.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/19228.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19228/19228_b1.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/19228.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19228/19228map.gif",
+    "reviewCount": 5373,
+    "reviewAverage": 4.5,
+    "userReview": "海が見える絶景と南三陸の食事に大満足海が広く見える窓が多くあってどのフロアでも海が広がる景色を見ることができました。お風呂から見る景色も絶景で、温度も熱く適温でした。食事も南三陸のもの…　2026-08-15 16:35:56投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=19228\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.47,
+    "locationAverage": 4.63,
+    "roomAverage": 4.38,
+    "equipmentAverage": 4.33,
+    "bathAverage": 4.57,
+    "breakfastAverage": 4.44,
+    "dinnerAverage": 4.48,
+    "cleanlinessAverage": 4.43
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "miyagi",
+    "smallClassCode": "matsushima",
+    "areaName": "松島・塩釜・石巻・南三陸・気仙沼",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "23:30"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 212,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(LAN形式)"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "WiFiは全室完備しておりますが、混雑時繋がりにくい場合がございます。"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "喫茶"
+      },
+      {
+        "item": "ティーラウンジ"
+      },
+      {
+        "item": "ナイトクラブ"
+      },
+      {
+        "item": "夜食コーナー"
+      },
+      {
+        "item": "カラオケルーム"
+      },
+      {
+        "item": "多目的室"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "結婚式場"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "プール(夏期のみ)"
+      },
+      {
+        "item": "ゲームコーナー"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "コンベンションホール"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      },
+      {
+        "dinnerPlace": "コンベンションホール"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "ナトリウム・カルシウム塩化物泉"
+      },
+      {
+        "bathBenefits": "神経痛"
+      },
+      {
+        "bathBenefits": "冷え性"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      }
+    ],
+    "aboutLeisure": "震災の記憶を伝える「語り部バス」を毎日運行,海水浴,釣り,海釣り,カヌー,クルージング,ダイビング,ウォータースポーツ,サイクリング,トレッキング,山菜取り",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": "中国語：ネイティブに近く流暢なスタッフが大半である。<BR>英語：日常的な内容は問題のないスタッフが数人いる。<BR>韓国語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "無料シャトルバス運行中。仙台駅東口(観光送迎バスのりば）13：30発、翌ホテル発10：15（要予約・毎日運行）,当館では連泊の場合は、次泊のお料理メニューは内容を変更しております。,夕食は18時から、30分刻みで最終スタート19時でご案内しております。お部屋食は承っておりませんので、ご了承くださいませ。（※一部のプランを除き、広間またはレストラン会場にて）,朝食は、コンベンションホールでバイキング形式でございます。時間は、基本的に朝の7時から9時までとなっておりますが、集客状況などにより、時間が前後する可能性がございますので、その点はご了承くださいませ。,15名様以上の御予約の場合は、別途当館宿泊約款による所定のキャンセル規定を適用することがあります。,インターネット予約の場合、当ホテルの宿泊契約の成立とは、当館に予約通知が来た時点を示します。,7日～3日前の最終確認が取れない場合、宿泊契約の成立はその効力を失うものとします。ただし、当ホテルは最終確認の取れない場合も宿泊契約の効力を失わないものとする特約に応じることがあります。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>2日前から           ：宿泊料金の30％    <BR>3日前から           ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "AEON"
+      },
+      {
+        "card": "JACCS"
+      },
+      {
+        "card": "APLUS"
+      },
+      {
+        "card": "JTB"
+      },
+      {
+        "card": "楽天カード"
+      },
+      {
+        "card": "JAL"
+      },
+      {
+        "card": "デビットカード"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": "電子マネー（交通系各種・WAON・Edy・NANACO・iD・楽天pay・PayPay）利用可",
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "時間外チェックアウト可（有料・ＰＭ12:00まで）,お部屋で緑茶サービス",
+    "otherInformation": "夕食は18時から、30分刻みで最終スタート19時でご案内しております。お部屋食は承っておりません。,朝食は、朝の７時から９時までの、コンペンションホールでのバイキング形式となっております。,全館全室禁煙となりました。（喫煙所は館内4か所にございます）"
+  }
+}

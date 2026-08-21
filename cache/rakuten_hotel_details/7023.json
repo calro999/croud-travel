@@ -1,0 +1,289 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 7023,
+    "hotelName": "伊豆熱川温泉　ホテルカターラ　RESORT＆SPA",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D7023",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D7023%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D7023",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D7023",
+    "hotelKanaName": "いずあたがわおんせん　ほてるかたーら　りぞーとあんどすぱ",
+    "hotelSpecial": "一年中遊べる屋内プールに夏は徒歩５分でビーチ。秋冬はほっこり温泉で伊豆一の泉質を味わえます。",
+    "hotelMinCharge": 16300,
+    "latitude": 125330.42,
+    "longitude": 500670.33,
+    "postalCode": "413-0302",
+    "address1": "静岡県",
+    "address2": "賀茂郡東伊豆町奈良本992-1",
+    "telephoneNo": "0557-23-2222",
+    "faxNo": "0557-23-2003",
+    "access": "伊豆熱川駅より無料送迎あり（13:00～16:30随時運行、予約不要）",
+    "parkingInformation": "あり：約40台（無料）　※予約不要",
+    "nearestStation": "伊豆熱川",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7023/7023.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/7023.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7023/7023_room.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/7023.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7023/7023map.gif",
+    "reviewCount": 1562,
+    "reviewAverage": 4.12,
+    "userReview": "子連れに最適、離乳食完備で大満足!乳児から小学校低学年くらいのお子様にはオススメ!プールはもちろん、キッズルームが充実してて飽きなく利用できました。ご飯も大人はもちろん、離乳食(キューピー…　2026-08-13 18:39:01投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=7023\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.04,
+    "locationAverage": 4.16,
+    "roomAverage": 4.01,
+    "equipmentAverage": 3.99,
+    "bathAverage": 4.12,
+    "breakfastAverage": 4.12,
+    "dinnerAverage": 4.15,
+    "cleanlinessAverage": 3.88
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "shizuoka",
+    "smallClassCode": "higashi",
+    "areaName": "東伊豆・河津",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "17:30"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 73,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "リンスインシャンプー"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "おふろセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "キッズルーム"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "カラオケルーム"
+      },
+      {
+        "item": "多目的室"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "エステサロン"
+      },
+      {
+        "item": "スポーツジム"
+      },
+      {
+        "item": "プール(通年)"
+      },
+      {
+        "item": "卓球"
+      },
+      {
+        "item": "バーベキューガーデン"
+      },
+      {
+        "item": "コネクティングルーム（一部・要予約）"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "パソコン利用可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "レストラン(バイキング)"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "硫酸塩泉"
+      },
+      {
+        "bathQuality": "ナトリウム塩化物泉"
+      },
+      {
+        "bathBenefits": "神経痛"
+      },
+      {
+        "bathBenefits": "婦人病"
+      },
+      {
+        "bathBenefits": "リウマチ・神経病"
+      }
+    ],
+    "aboutLeisure": "海水浴,釣り,海釣り,ダイビング,テニス,ゴルフ,パラグライダー,ハイキング,クロスカントリー,動物園,博物館,水族館,フラワーパーク,テーマパーク",
+    "handicappedFacilities": [
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      }
+    ],
+    "linguisticLevel": "中国語：ネイティブに近く流暢なスタッフが数人いる。<BR>英語：日常的な内容は問題のないスタッフが数人いる。<BR>韓国語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "入湯税300円を別途頂戴いたします。,刺青、タトゥー（ファッションタトゥー含む）を、されている方のご宿泊はお断りさせて頂いております。,３歳未満のお子様は、施設利用料2200円（税込み）頂戴いたします。,【料金】0～2歳：2200円・3歳～未就学：大人50％、小学生：大人70％,■ ■ ■ ■ こども料金の選択 ■ ■ ■ ■,★小学生(低学年、高学年)→小学生(6～12歳)大人の70％,★幼児(食事寝具付)未就学児(3～6歳)大人の50％,★幼児(食事のみ)→未就学児(3～6歳)大人の50％,★幼児(食事・寝具不要)→乳幼児(0～2歳)2,200円,※0～2歳は、食事不要と記載しておりますが、バイキングなのでお取り分けてお召し上がりいただいて大丈夫です。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>3日前から           ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "OMC"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "楽天カード"
+      },
+      {
+        "card": "デビットカード"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "着替え浴衣サービス,時間外チェックイン可",
+    "otherInformation": null
+  }
+}

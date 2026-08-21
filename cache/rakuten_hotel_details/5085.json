@@ -1,0 +1,247 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 5085,
+    "hotelName": "湯河原温泉　大滝ホテル",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D5085",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D5085%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D5085",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D5085",
+    "hotelKanaName": "ゆがわらおんせん　おおたき",
+    "hotelSpecial": "敷地内から湧く良質で豊富な源泉が自慢の宿。客室のお風呂には全室源泉100％を給湯しております。",
+    "hotelMinCharge": 7700,
+    "latitude": 126537.5,
+    "longitude": 500657.2,
+    "postalCode": "259-0314",
+    "address1": "神奈川県",
+    "address2": "足柄下郡湯河原町宮上750-1",
+    "telephoneNo": "0465-62-7111",
+    "faxNo": "0465-62-7115",
+    "access": "ＪＲ湯河原駅より②番バス停より約15分（260円）不動滝バス停下車。東名厚木ICより小田原厚木道路経由６０分",
+    "parkingInformation": "無料。乗用車　３０台　大型バス５台　",
+    "nearestStation": "湯河原",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5085/5085.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/5085.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5085/5085_war.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/5085.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5085/5085map.gif",
+    "reviewCount": 798,
+    "reviewAverage": 3.73,
+    "userReview": "温泉は最高だが、設備や臭いが気になる古き良き昭和のホテルという感じのホテルでした。温泉は大変よく、身体の芯まで染み入りました。お部屋のお風呂も温泉なのはいいですね!きれいにお掃除はされてい…　2026-08-08 09:22:37投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=5085\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 3.8,
+    "locationAverage": 3.69,
+    "roomAverage": 3.54,
+    "equipmentAverage": 3.36,
+    "bathAverage": 4.06,
+    "breakfastAverage": 3.87,
+    "dinnerAverage": 3.98,
+    "cleanlinessAverage": 3.68
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "kanagawa",
+    "smallClassCode": "yugawara",
+    "areaName": "湯河原・真鶴",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "18:30"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 34,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "カセットデッキ(貸出)"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "リンスインシャンプー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "喫茶"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "テニスコート"
+      },
+      {
+        "item": "ゲームコーナー"
+      },
+      {
+        "item": "卓球"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "広間"
+      },
+      {
+        "breakfastPlace": "食事処"
+      },
+      {
+        "dinnerPlace": "広間"
+      },
+      {
+        "dinnerPlace": "食事処"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "ナトリウム・カルシウム塩化物泉"
+      },
+      {
+        "bathBenefits": "外傷"
+      },
+      {
+        "bathBenefits": "動脈硬化"
+      },
+      {
+        "bathBenefits": "火傷"
+      }
+    ],
+    "aboutLeisure": "不動滝、町立湯河原美術館、独歩の湯（足湯施設）,海水浴,釣り,海釣り,テニス,ゴルフ,ハイキング,美術館",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "車椅子利用者用客室あり"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "大浴場浴槽に手すりあり"
+      },
+      {
+        "item": "大浴場での介助入浴可能"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "宿泊料金には大人の方（中学生以上）別途入湯税が掛かります,布団・食事不要の０～２歳のお子様は施設使用料は無料です,ご到着時間が１８時を過ぎる場合にはお電話ください,最終の夕食時間は１９時となります。それ以降はご用意ができません,・宿泊税徴収のお知らせ,湯河原町の条例により、2026年4月1日ご宿泊分より宿泊税が導入されます。,お一人様人様5万円未満の宿泊に対してお一人様御一泊泊あたり300円、お一人様5万円以上の場合はお一人様御一泊あたり500円,※12歳未満は非課税となります。,現地にて現金にてお支払いとなります",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>6日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "CF"
+      },
+      {
+        "card": "ORICO"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "お部屋はバストイレ付の和室と致しますが眺望の指定はできません,のでご了承くださいませ（洋室プランは除きます）"
+  }
+}

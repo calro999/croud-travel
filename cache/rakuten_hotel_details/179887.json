@@ -1,0 +1,212 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 179887,
+    "hotelName": "月のホテル",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D179887",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D179887%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D179887",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D179887",
+    "hotelKanaName": "つきのほてる",
+    "hotelSpecial": "酒田駅前を新たに照らし出す。ヒト・モノ・コトを繋ぐ、「酒田らしさ」があふれるコミュニティ・ホテル。",
+    "hotelMinCharge": 5800,
+    "latitude": 140106.36,
+    "longitude": 503456.11,
+    "postalCode": "998-0023",
+    "address1": "山形県",
+    "address2": "酒田市幸町1-10-20",
+    "telephoneNo": "0234-26-8800",
+    "faxNo": "0234-21-0885",
+    "access": "酒田駅正面（徒歩約１分）・酒田ICより10分・庄内空港より車で30分",
+    "parkingInformation": "無料駐車場徒歩2分（酒田駅前郵便局となり）",
+    "nearestStation": "酒田",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/179887/179887.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/179887.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/179887/179887_kan1.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/179887.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/179887/179887map.gif",
+    "reviewCount": 1182,
+    "reviewAverage": 4.42,
+    "userReview": "朝食バイキングが豪華、庄内メロンに大満足朝ごはんバイキングは驚くほど豪華でした。今の時期、庄内メロンだけでも元が取れてしまいました。野菜も豊富、地元料理も盛りだくさんで満足です。クチコミの…　2026-08-14 11:18:13投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=179887\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.44,
+    "locationAverage": 4.45,
+    "roomAverage": 4.48,
+    "equipmentAverage": 4.39,
+    "bathAverage": 4.33,
+    "breakfastAverage": 4.46,
+    "dinnerAverage": 4.26,
+    "cleanlinessAverage": 4.49
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "yamagata",
+    "smallClassCode": "shonai",
+    "areaName": "酒田・鶴岡・湯野浜・温海",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "24:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 145,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "入浴剤"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "ナイトウェア"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "部屋設備詳細　：　シモンズ社製ベッド・ロフテー社製枕・スマートテレビ"
+      },
+      {
+        "item": "館内施設　：　日本酒Ｂａｒ"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "バー"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [],
+    "aboutLeisure": "海水浴,釣り,海釣り,美術館",
+    "handicappedFacilities": [],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "チェックインが予定時間を過ぎる場合は必ずご連絡ください。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "楽天カード"
+      },
+      {
+        "card": "デビットカード"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "当館は全室禁煙です。,館内３階に喫煙ブース「スモークポイント」を設置致しております。,共有空間への煙の排出が大幅に減少でき、受動喫煙防止対策として効果があります。"
+  }
+}

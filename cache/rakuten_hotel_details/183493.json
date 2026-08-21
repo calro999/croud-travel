@@ -1,0 +1,197 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 183493,
+    "hotelName": "東京ディズニーリゾート・トイ・ストーリー（Ｒ）ホテル",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D183493",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D183493%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D183493",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D183493",
+    "hotelKanaName": "とうきょうでぃずにーりぞーと・とい・すとーりーほてる",
+    "hotelSpecial": "【ディズニーホテル（モデレートタイプ）】『トイ・ストーリー』シリーズの世界を楽しめるホテル",
+    "hotelMinCharge": 12150,
+    "latitude": 128245.34,
+    "longitude": 503562.55,
+    "postalCode": "279-8506",
+    "address1": "千葉県",
+    "address2": "浦安市舞浜1-47",
+    "telephoneNo": "047-305-5555",
+    "faxNo": "047-305-2995",
+    "access": "JR京葉線・武蔵野線「舞浜駅」にて乗換、ディズニーリゾートライン「ベイサイド・ステーション」下車、徒歩3分",
+    "parkingInformation": "1泊目3千円(4千円※)2泊目以降1泊ごと1千円(2千円※)　※2026年10月1日チェックインより",
+    "nearestStation": "舞浜",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/183493/183493.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/183493.jpg",
+    "roomImageUrl": null,
+    "roomThumbnailUrl": null,
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/183493/183493map.gif",
+    "reviewCount": 463,
+    "reviewAverage": 4.7,
+    "userReview": "ホテル内で一日中楽しめる工夫が満載お昼前に到着すると、ロビーではキャストさん達のお出迎えイベント?が行われていました。ハイタッチしてまわる様子を動画と写真で撮ってくださり、いい記念になりました。…　2026-07-31 00:07:21投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=183493\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.72,
+    "locationAverage": 4.76,
+    "roomAverage": 4.73,
+    "equipmentAverage": 4.68,
+    "bathAverage": 4.52,
+    "dinnerAverage": 4.66,
+    "cleanlinessAverage": 4.7
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "tiba",
+    "smallClassCode": "keiyo",
+    "areaName": "舞浜・浦安・船橋・幕張",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "12:00",
+    "lastCheckinTime": "24:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 595,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "パジャマ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "【駐車場】チェックイン当日0時〜チェックアウト日24時"
+      },
+      {
+        "item": "　※駐車場券売機にて精算、精算後は出入庫可能、パークの駐車場は別料金"
+      },
+      {
+        "item": "【Wi-Fi】無料（客室）"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [],
+    "aboutLeisure": "テーマパーク",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "バリアフリールーム"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "■運営内容の変更やメンテナンス作業等が発生する場合があります。最新情報は、東京ディズニーリゾート・オフィシャルウェブサイトをご確認ください,■宿泊者特典として「ハッピーエントリー」をご利用いただけます。対象パークの専用エントランスから一般ゲストより早く入園を開始する特典です。,対象パーク、対象外の日程、利用方法等は東京ディズニーリゾート・オフィシャルウェブサイトにてご確認ください,※入園には別途パークチケットが必要,※チェックイン日の入園には利用不可,■宿泊ゲストは、チェックイン日からチェックアウト日までの1デーパスポートを宿泊ゲスト1名様につき1日1枚ご購入いただけます。（添い寝のお子様も含む）,■客室へのご案内やルームサービスのご用意はありません。　,■未成年のみの宿泊の場合、東京ディズニーリゾート・オフィシャルウェブサイトより同意書をダウンロードのうえ郵送かFAXにてご送付ください。■ルームアメニティーは予告なく変更になる場合がございます。,■ご精算はオンラインカード決済にて承ります。キャンセルの場合は規定に基づきキャンセル料を申し受けます。,■当ホテルは宿泊約款に基づき宿泊契約のお申込みを受け付けます。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の80％    <BR>7日前から           ：宿泊料金の50％    <BR>14日前から          ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "ORICO"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "1デーパスポートを1名様につき1日1枚購入可能、客室にてディズニーチャンネル視聴可能",
+    "otherInformation": "(C)Disney　(C)Disney/Pixar"
+  }
+}

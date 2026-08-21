@@ -1,0 +1,207 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 19741,
+    "hotelName": "奥白浜椿温泉　湯治のできる宿　しらさぎ",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D19741",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D19741%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D19741",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D19741",
+    "hotelKanaName": "おくしらはまつばきおんせん　とうじのできるやど　しらさぎ",
+    "hotelSpecial": "歴史ある静かな温泉町。免疫力を高める温泉で効果を実感。新鮮な海の幸と温泉を使った健康会席をどうぞ。",
+    "hotelMinCharge": 8800,
+    "latitude": 120965.77,
+    "longitude": 487416.84,
+    "postalCode": "649-2326",
+    "address1": "和歌山県",
+    "address2": "西牟婁郡白浜町椿1056-22",
+    "telephoneNo": "0739-46-0321",
+    "faxNo": "0739-46-0925",
+    "access": "ＪＲ白浜駅よりバスまたはタクシーにて２０分",
+    "parkingInformation": "有り　２２台　無料",
+    "nearestStation": "椿",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19741/19741.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/19741.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19741/19741_w.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/19741.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19741/19741map.gif",
+    "reviewCount": 99,
+    "reviewAverage": 4.41,
+    "userReview": "温泉も料理も大変満足しました。5点から4点になったのは、本当に小さい事ですが、入浴施設ですが男女を日替りにして欲しいです。家内に聞くと女子風呂は天然かけ流しが4カ所有るが男は2つしか無かったので。…　2026-07-19 12:55:05投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=19741\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.44,
+    "locationAverage": 4.41,
+    "roomAverage": 4.25,
+    "equipmentAverage": 4.06,
+    "bathAverage": 4.63,
+    "breakfastAverage": 4.4,
+    "dinnerAverage": 4.42,
+    "cleanlinessAverage": 4.24
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "wakayama",
+    "smallClassCode": "shirahama",
+    "areaName": "南紀白浜・紀伊田辺・龍神",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "18:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 20,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "洗顔ソープ"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "展望浴場の脱衣所にドライヤーあり。お部屋にございません。"
+      },
+      {
+        "item": "喫茶"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "児童遊園施設"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "部屋"
+      },
+      {
+        "breakfastPlace": "広間"
+      },
+      {
+        "dinnerPlace": "部屋"
+      },
+      {
+        "dinnerPlace": "広間"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "単純硫黄泉"
+      },
+      {
+        "bathBenefits": "アトピー・湿疹"
+      },
+      {
+        "bathBenefits": "神経痛"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      }
+    ],
+    "aboutLeisure": "海水浴,海釣り,テニス,テーマパーク",
+    "handicappedFacilities": [],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "到着が１８時を過ぎる場合は、必ずご連絡下さい。,ＪＲ椿駅まで無料送迎あり。（車で約５分）ご希望の方はお電話下さい。,※ 入湯税大人150円（子供無料）別途頂きます。,お部屋により眺望が異なりますのであらかじめご了承ください。,※ 2022年10月より全館禁煙になりました。玄関に喫煙所あります。,※別館の５階のお部屋は、お部屋までに10段程度の階段利用箇所がございます。ご了承の上ご予約下さい。,※夢の間は少し窓の右側に建物が視覚に入り若干海が見えにくいです。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の100％   <BR>2日前から           ：宿泊料金の50％    <BR>5日前から           ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Master Card"
+      }
+    ],
+    "aboutCreditCardNote": "その他PayPayで現地決済可能です。",
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "※ 2022年10月より全館禁煙になりました。玄関に喫煙所あります。"
+  }
+}

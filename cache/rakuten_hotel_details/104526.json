@@ -1,0 +1,251 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 104526,
+    "hotelName": "ダイワロイネットホテル沖縄県庁前",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D104526",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D104526%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D104526",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D104526",
+    "hotelKanaName": "だいわろいねっとほてるおきなわけんちょうまえ",
+    "hotelSpecial": "ゆいレール「旭橋駅」より徒歩約3分。国際通りへは徒歩約5分。別館1階にコンビニ有。ビジネスや観光に。",
+    "hotelMinCharge": 4600,
+    "latitude": 94353.12,
+    "longitude": 459642.44,
+    "postalCode": "900-0021",
+    "address1": "沖縄県",
+    "address2": "那覇市泉崎1-11-2",
+    "telephoneNo": "098-860-1855",
+    "faxNo": "098-860-1856",
+    "access": "「那覇空港」よりゆいレールで（約15分）「旭橋駅」下車、 徒歩約3分。那覇空港より車で約15分。国際通りへは徒歩約5分",
+    "parkingInformation": "立体駐車場36台（内ハイルーフ8台）／1,500円税込（1泊：14時〜翌11時）／先着順（予約不可）",
+    "nearestStation": null,
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/104526/104526.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/104526.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/104526/104526_ro.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/104526.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/104526/104526map.gif",
+    "reviewCount": 1547,
+    "reviewAverage": 4.24,
+    "userReview": "駅近で清潔、部屋も広く快適な空間ゆいレール駅から違い清潔な宿でした。QRコードで非対面でチェックインできるのも便利でしたが、タッチパネルでの入力は少しやりづらく手間に感じました(荷物を預けた際のス…　2026-08-15 14:07:25投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=104526\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.26,
+    "locationAverage": 4.24,
+    "roomAverage": 4.28,
+    "equipmentAverage": 4.18,
+    "bathAverage": 4.13,
+    "breakfastAverage": 4.08,
+    "cleanlinessAverage": 4.27
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "okinawa",
+    "smallClassCode": "nahashi",
+    "areaName": "那覇",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "14:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "29:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 240,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "有料ビデオ"
+      },
+      {
+        "item": "衛星放送（無料）"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(LAN形式)"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "加湿器(一部)"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ベビーベッド"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "洗顔ソープ"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "ナイトウェア"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "消臭スプレー"
+      },
+      {
+        "item": "※一部のアメニティはフロント階のアメニティバーに設置しております。"
+      },
+      {
+        "item": "※連泊時清掃のご希望はマグネットをドアに貼ってお知らせください。詳しくはフロントにてご確認ください。"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      }
+    ],
+    "aboutBath": [],
+    "aboutLeisure": "海水浴,ダイビング,博物館,水族館,美術館",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "バリアフリールーム"
+      },
+      {
+        "item": "車椅子利用者用客室あり"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "客室内トイレに手すりあり"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      },
+      {
+        "item": "施設スタッフによる介助・補助対応が可能"
+      }
+    ],
+    "linguisticLevel": "中国語：少し分かるスタッフが数人いる。<BR>英語：少し分かるスタッフが大半である。<BR>韓国語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "◇楽天スーパーポイントをご利用の際、自動清算機より発行されるレシート（領収書）には利用ポイントの明細が記載されます。,◇楽天スーパーポイントご利用の明細が記載されていない領収書をご希望の方は、フロントにて私製領収書を発行いたします。（ポイント利用分を差し引いた金額が記載されます）,◇事前カード決済ご利用の際は、ホテルでは領収書の発行は致しかねます。楽天トラベルのお客様画面「個人ページ」にて発行をお願い致します。,◇到着予定時刻を２時間以上遅れる場合には、電話連絡をお願い致します。,◇24時以降は入口自動ドアが施錠されます。入館は、自動ドア横のインターホンでお呼び出し下さい。,◇宿泊料金のお支払いはチェックイン時の前金制でございます。,◇現金、または記載の各種クレジットカードがご利用頂けます。,◇客室清掃時間について：10時から14時に行います。,◇本サイトで販売している商品は、個人利用のお客様を対象とした「インターネット販売限定」のプランとなっております。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の80％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      }
+    ],
+    "aboutCreditCardNote": "銀聯（ぎんれん）カードもご利用頂けます。",
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": null
+  }
+}

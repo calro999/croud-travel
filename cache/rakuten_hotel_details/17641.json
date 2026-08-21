@@ -1,0 +1,256 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 17641,
+    "hotelName": "湯田温泉　ＫＫＲ山口あさくら（国家公務員共済組合連合会湯田保養所）",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D17641",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D17641%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D17641",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D17641",
+    "hotelKanaName": "けーけーあーる　やまぐち　あさくら",
+    "hotelSpecial": "温泉街から少し離れた静かな環境にある隠れ家的温泉宿。自家源泉から湧き出るトロトロな温泉と料理が自慢。",
+    "hotelMinCharge": 9000,
+    "latitude": 123003.88,
+    "longitude": 473249.36,
+    "postalCode": "753-0064",
+    "address1": "山口県",
+    "address2": "山口市神田町2-18",
+    "telephoneNo": "083-922-3268",
+    "faxNo": "083-922-3262",
+    "access": "ＪＲ山口線 湯田温泉駅下車タクシー約７分。中国自動車道小郡ＩＣ山口県庁方面７.5km（約20分）",
+    "parkingInformation": "有　65台（無料）",
+    "nearestStation": "湯田温泉",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/17641/17641.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/17641.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/17641/17641_w.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/17641.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/17641/17641map.gif",
+    "reviewCount": 829,
+    "reviewAverage": 4.66,
+    "userReview": "お料理が大変おいしかったですスタッフのみなさんがとてもあたたかく迎えてくれて良い方ばかりで過ごしやすかったです。お料理が創作料理っぽくて大変美味しく満足しました。唯一の問題点は部屋が狭すぎたことで…　2026-08-15 23:14:10投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=17641\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.69,
+    "locationAverage": 4.38,
+    "roomAverage": 4.47,
+    "equipmentAverage": 4.62,
+    "bathAverage": 4.76,
+    "breakfastAverage": 4.73,
+    "dinnerAverage": 4.63,
+    "cleanlinessAverage": 4.63
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "yamaguchi",
+    "smallClassCode": "yamaguchi",
+    "areaName": "山口・湯田温泉・防府",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "21:30"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 24,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド(一部)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器(一部)"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "ロビー・客室ではWi-Fi (無線LAN)を完備。インターネットが無料で楽しめます。"
+      },
+      {
+        "item": "湯田温泉駅からお迎えを行っております。利用時間は14時〜17時。湯田温泉駅にご到着後、要連絡。"
+      },
+      {
+        "item": "★2025年6/1から館内にコインランドリーサービスを開始したします。（有料）"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "貸自転車"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "食事処"
+      },
+      {
+        "dinnerPlace": "部屋"
+      },
+      {
+        "dinnerPlace": "食事処"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathQuality": "アルカリ単純泉"
+      },
+      {
+        "bathBenefits": "筋肉痛"
+      },
+      {
+        "bathBenefits": "慢性消化器病"
+      },
+      {
+        "bathBenefits": "リウマチ・神経病"
+      }
+    ],
+    "aboutLeisure": "海水浴,テニス,ゴルフ,サイクリング,登山,洞窟探検,遊園地,動物園,博物館,美術館",
+    "handicappedFacilities": [
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "大浴場浴槽に手すりあり"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "チェックインが18時以降の場合は、恐れ入りますがご連絡下さい。,2食付プラン（夕食付・朝食付）のご予約で、20時以降のご夕食スタートは食事提供ができません。,また、夕食代金の返金は致しかねます。予め、ご了承くださいませ。,ご夕食時のオーダーストップは20時00分となっております。,【インターネット接続について】,※ＰＣの機種、ＯＳ、ソフト等により当無線ＬＡＮを利用できない場合や、回線利用中のコンピュータウィルス感染等につきまして、当ホテルは一切責任を負わないものとします。,【お子様宿泊料金について】幼児のお子様については、食事・寝具の不要な場合は料金は頂きません。,KKR組合員とそのOB、利用契約のある団体の方は、現地決済を選択し、チェックイン時に身分証明書をご提示ください。福利厚生の割引券・助成券等をお持ちの方は同時にご提出下さい。,なお、【クレジットカードで支払う】（オンライン事前決済）の場合は割引特典や福利厚生の割引券等の適用はできません。【現地で支払う】（現地決済）をお選びください。,※デイユースプラン（日帰り）は組合員割引等は対象外となっております。予めご了承くださいませ。",
+    "cancelPolicy": "キャンセル料は以下の通り���戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>2日前から           ：宿泊料金の40％    <BR>3日前から           ：宿泊料金の30％    <BR>4日前から           ：宿泊料金の20％    <BR>5日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      }
+    ],
+    "aboutCreditCardNote": "電子マネー（交通系、楽天Edy、WAONなど）Pay Pay、ｄ払いなどのコード決済対応可",
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "モーニングコーヒーサービス",
+    "otherInformation": "KKRは国家公務員共済組合連合会が組合員等の利用を目的として運営する宿泊施設です。,組合員等の方は、チェックインの際に組合員証等をご提示下さい。,◆ 予約お問合せ受付時間 ◆ ９：００〜 １８：００"
+  }
+}

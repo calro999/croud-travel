@@ -4,6 +4,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { Metadata } from "next";
 import RelatedPosts, { PostSummary } from "@/app/components/RelatedPosts";
+import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 import { PREFECTURES_DATA } from "@/data/prefecturesData";
 import { SPOTS_DATA } from "@/data/spotsData";
 
@@ -332,6 +333,9 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
           )}
         </div>
 
+        {/* 期間限定：スペシャルクーポンWEEK特大バナー（アイキャッチ直下の特等席） */}
+        <SpecialCouponBanner />
+
         {/* 宿情報サマリーからギャラリーまでは通常記事のみ表示 */}
         {!post.is_special_feature && (
           <>
@@ -473,8 +477,13 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
         {/* 楽天アフィリエイトボタン・FAQは通常記事のみ表示 */}
         {!post.is_special_feature && (
           <>
+            {/* 予約前の割引クーポン獲得プッシュ（読了後の一番ホットなタイミング） */}
+            <div className="pt-8 border-t border-emerald-950/5">
+              <SpecialCouponBanner />
+            </div>
+
             {/* 楽天アフィリエイト連携 CTAボタン */}
-            <div className="pt-8 border-t border-emerald-950/5 text-center space-y-4">
+            <div className="pt-6 text-center space-y-4">
               <a
                 href={post.affiliate_url}
                 target="_blank"

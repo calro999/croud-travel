@@ -1,0 +1,307 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 5818,
+    "hotelName": "十勝川温泉　第一ホテル",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D5818",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D5818%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D5818",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D5818",
+    "hotelKanaName": "とかちがわおんせん　だいいちほてる",
+    "hotelSpecial": "北海道遺産に選定されたモール温泉。美人の湯を心ゆくまでご堪能下さい",
+    "hotelMinCharge": 17700,
+    "latitude": 154550.21,
+    "longitude": 515882.81,
+    "postalCode": "080-0263",
+    "address1": "北海道",
+    "address2": "河東郡音更町十勝川温泉南12-1",
+    "telephoneNo": "0155-46-2231",
+    "faxNo": "0155-46-2238",
+    "access": "JR帯広駅より車で２０分。札幌より車で約3時間／札幌⇔[札幌北ＩＣ～音更帯広ＩＣ]⇔十勝川温泉",
+    "parkingInformation": "有り　200台　無料",
+    "nearestStation": "帯広",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5818/5818.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/5818.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5818/5818_ky.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/5818.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5818/5818map.gif",
+    "reviewCount": 1378,
+    "reviewAverage": 4.58,
+    "userReview": "バイキングが美味しく飲み放題も大満足バイキングが美味しく、飲み放題というのもすごくありがたかった。クチコミの詳細はこちらから　https://review.travel.rakuten.c…　2026-08-13 07:11:39投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=5818\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.58,
+    "locationAverage": 4.5,
+    "roomAverage": 4.47,
+    "equipmentAverage": 4.47,
+    "bathAverage": 4.68,
+    "breakfastAverage": 4.56,
+    "dinnerAverage": 4.62,
+    "cleanlinessAverage": 4.57
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "hokkaido",
+    "smallClassCode": "obihiro",
+    "areaName": "帯広・十勝",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "18:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 108,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "電気スタンド"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "豆陽亭／歯ブラシ・シェーバー・浴衣等、ロビー設置のアメニティーコーナーより必要数をお持ち下さい。"
+      },
+      {
+        "item": "豊洲亭／歯ブラシ・シェーバー・作務衣等、は部屋に用意がございます。"
+      },
+      {
+        "item": "全ての客室・ロビーにてWi-Fi によるインターネットサービスを無料でご利用頂けます。"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "ティーラウンジ"
+      },
+      {
+        "item": "ラウンジ"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "湯上がりサロン"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "エステサロン"
+      },
+      {
+        "item": "貸自転車"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "breakfastPlace": "食事処"
+      },
+      {
+        "dinnerPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "食事処"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "炭酸水素塩泉"
+      },
+      {
+        "bathQuality": "ナトリウム塩化物泉"
+      },
+      {
+        "bathQuality": "植物性モール温泉"
+      },
+      {
+        "bathBenefits": "神経痛"
+      },
+      {
+        "bathBenefits": "美肌効果"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      }
+    ],
+    "aboutLeisure": "釣り,渓流釣り,カヌー,ゴルフ,熱気球,サイクリング,ハイキング,スキー,スケート,乗馬,動物園,フラワーパーク,テーマパーク,美術館",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "客室内トイレに手すりあり"
+      },
+      {
+        "item": "大浴場浴槽に手すりあり"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "■宿泊引受けの拒絶、宿泊約款第２条に該当するとき。,■大人の方は別途入湯税（１５０円）をご宿泊料金に加算させていただきます。,■大人１名様の場合、同伴の小学生1名は大人料金と同額となります。（システム上表示されなくても現地精算となります）,■0歳で食事なし・添い寝のお子様は無料となります。,■１歳の食事なし・添い寝のお子様は施設使用料2700円（税込）が必要となります。現地フロントにてご精算願います。詳細はホテルまでお問い合せ下さい,■ホテルご到着予定時刻が18:00を過ぎる場合は、必ずご連絡を頂きますようお願い致します。,■宿泊税は北海道100～500円、音更町200円を宿泊料金に応じて別途ご精算をお願い致します。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の80％    <BR>3日前から           ：宿泊料金の50％    <BR>7日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "Bank Card"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "JACCS"
+      },
+      {
+        "card": "デビットカード"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "湯上がりサロンでのお茶サービス",
+    "otherInformation": "全室禁煙※喫煙所あり"
+  }
+}

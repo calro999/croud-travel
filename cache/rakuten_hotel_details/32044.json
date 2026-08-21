@@ -1,0 +1,159 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 32044,
+    "hotelName": "渋温泉　歴史の宿　金具屋",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D32044",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D32044%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D32044",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D32044",
+    "hotelKanaName": "しぶおんせん　れきしのやど　かなぐや",
+    "hotelSpecial": "国登録文化財の建築や豊富な源泉からなるかけ流しの風呂など、昔ながらの温泉旅情をお楽しみ下さい。",
+    "hotelMinCharge": 18700,
+    "latitude": 132233.85,
+    "longitude": 498370.29,
+    "postalCode": "381-0401",
+    "address1": "長野県",
+    "address2": "下高井郡山ノ内町平穏2202",
+    "telephoneNo": "0269-33-3131",
+    "faxNo": "0269-33-3135",
+    "access": "長野電鉄線　湯田中駅／上信越自動車道　信州中野ＩＣより国道２９２号線を志賀高原方面へ約１５分",
+    "parkingInformation": "有　３０台　無料　屋外のみ　マイクロバス以上は有料",
+    "nearestStation": "湯田中",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/32044/32044.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/32044.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/32044/32044_r1.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/32044.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/32044/32044map.gif",
+    "reviewCount": 962,
+    "reviewAverage": 4.54,
+    "userReview": "歴史ある建物と温泉、看板猫に癒やされる90年の歴史を誇る多くの宮大工が手掛けた旅館はとても趣のある素晴らしい建造物です。温泉街は歴史を感じる温かい風景で昔にタイムスリップしたかのような素晴らしい体…　2026-08-13 19:33:34投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=32044\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.58,
+    "locationAverage": 4.61,
+    "roomAverage": 4.43,
+    "equipmentAverage": 4.36,
+    "bathAverage": 4.67,
+    "breakfastAverage": 4.52,
+    "dinnerAverage": 4.54,
+    "cleanlinessAverage": 4.43
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "nagano",
+    "smallClassCode": "shiga",
+    "areaName": "志賀高原･湯田中･渋",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "18:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 28,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー(貸出)"
+      },
+      {
+        "item": "石鹸（固形）"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "広間"
+      },
+      {
+        "dinnerPlace": "広間"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "カルシウム・ナトリウム硫酸塩泉"
+      },
+      {
+        "bathQuality": "ナトリウム・カルシウム塩化物泉"
+      },
+      {
+        "bathQuality": "含イオウナトリウム塩化物泉"
+      },
+      {
+        "bathBenefits": "関節痛"
+      },
+      {
+        "bathBenefits": "皮膚病"
+      },
+      {
+        "bathBenefits": "婦人病"
+      }
+    ],
+    "aboutLeisure": "スキー,トレッキング",
+    "handicappedFacilities": [],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "■重要■クレジットカード決済ご希望の方は必ず予約時の支払方法にてご選択ください。現地フロントでのカード利用はできませんので、あらかじめご了承ください。,館内（施設内）は全面禁煙です。,館内は昔の建物をそのまま残している為、階段・段差等が多数あります。車イスはご利用になれません。,お子様料金の適用は大人２名様以上でのお申込みとなります。大１子１での利用時子供は大人と同料金頂きます,寝具・食事なしのお子様の場合、０～５歳は３３００円を施設利用料として頂戴致します。,ご到着が１８時を過ぎる場合はご連絡下さい。なお２０時を過ぎますと食事の用意ができなくなります。,表示金額に別途、入湯税150円（大人のみ）がかかります。,表示金額に別途、長野県宿泊税として利用料金6,000円以上の人数×300円がかかります（2026年6月宿泊から）,■■11月中旬から4月下旬までは国道292号志賀草津高原ルートが通行止めとなります。,Japanese-style room with restroom.",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の80％    <BR>2日前から           ：宿泊料金の50％    <BR>5日前から           ：宿泊料金の30％    <BR>7日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "利用不可"
+      }
+    ],
+    "aboutCreditCardNote": "カード決済ご希望の方は必ず予約時の支払方法にてご選択ください。現地でのカード利用はできません",
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "表示金額におとなおひとりさまあたり150円の入湯税が別途かかります。,長野県宿泊税として利用料金6,000円以上の人数×300円が別途かかります（2026年6月宿泊から）"
+  }
+}

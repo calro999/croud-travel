@@ -1,0 +1,216 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 932,
+    "hotelName": "備長炭の湯　ホテルクラウンヒルズ松山（ＢＢＨホテルグループ）",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D932",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D932%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D932",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D932",
+    "hotelKanaName": "びんちょうたんのゆ　ほてるくらうんひるずまつやま（びーびーえっちほてるぐるーぷ）",
+    "hotelSpecial": "大浴場完備！ウェルカムドリンク！平日限定夕食カレー！JR松山駅：徒歩5分空港・港：バス約20分 ！",
+    "hotelMinCharge": 3100,
+    "latitude": 121829.95,
+    "longitude": 477916.51,
+    "postalCode": "7900065",
+    "address1": "愛媛県",
+    "address2": "松山市宮西1-3-40",
+    "telephoneNo": "050-1807-3051",
+    "faxNo": "089-925-2440",
+    "access": "ＪＲ松山駅近く徒歩5分！空港・港：バス約20分 ！",
+    "parkingInformation": "平面駐車場30台　1泊800円（普通車）※満車時は近隣コインパーキングのご案内(支払いはお客様負担)",
+    "nearestStation": "松山（愛媛）",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/932/932.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/932.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/932/932_sgl.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/932.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/932/932map.gif",
+    "reviewCount": 3169,
+    "reviewAverage": 3.81,
+    "userReview": "駐車場が狭く手続きも手間、設備も不便駐車場は十分あるのかと思いきや、何故か駐車禁止とポールがあったり無駄なスペースが多く、狭くて皆さんが避けたと思われる狭い駐車スペースがあったのでギリギリ停められ…　2026-08-09 08:47:34投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=932\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 3.88,
+    "locationAverage": 3.79,
+    "roomAverage": 3.71,
+    "equipmentAverage": 3.68,
+    "bathAverage": 3.84,
+    "breakfastAverage": 3.79,
+    "dinnerAverage": 3.3,
+    "cleanlinessAverage": 3.71
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "ehime",
+    "smallClassCode": "chuuyo",
+    "areaName": "松山・道後",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "24:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 154,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "ティーサーバー"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "リンスインシャンプー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "ナイトウェア"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "���インランドリー(有料)"
+      },
+      {
+        "item": "貸自転車"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "大浴場"
+      }
+    ],
+    "aboutLeisure": null,
+    "handicappedFacilities": [],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "【夜間閉鎖時間のご案内】深夜24:00～早朝6:30はフロント閉鎖となり、緊急時のみの対応となります。（受付・お問い合わせ等はお受けできませんので予めご了承下さいませ）,【最終チェックインのご案内】最終チェックインは24時となります。24時以降はチェックインが出来なく、キャンセル扱いとなります。*到着時間に遅れが生じる時は必ずご連絡をお願い致します。,当館の駐車場は先着順のため予約はお受けできかねます。満車の場合は近隣の駐車場をご案内させて頂きます。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の80％    <BR>前日                ：宿泊料金の50％    <BR>2日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "10000ポイント貯まると現金10,000円キャッシュバック！BBHグループアプリ会員募集中！,ウェルカムドリンクサービス",
+    "otherInformation": null
+  }
+}

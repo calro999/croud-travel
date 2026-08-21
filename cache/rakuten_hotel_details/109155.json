@@ -1,0 +1,286 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 109155,
+    "hotelName": "湯坊いちらく　ＴＥＮＤＯ　ＳＰＡ　＆　ＢＲＥＷＥＲＹ",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D109155",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D109155%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D109155",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D109155",
+    "hotelKanaName": "ゆぼういちらく　てんどう　すぱ　＆　ぶるわりー",
+    "hotelSpecial": "館内醸造所のクラフトビールが飲み放題。天童温泉×オールインクルーシブの宿。",
+    "hotelMinCharge": 18690,
+    "latitude": 138082.61,
+    "longitude": 505397.83,
+    "postalCode": "994-0025",
+    "address1": "山形県",
+    "address2": "天童市鎌田本町2-2-21",
+    "telephoneNo": "023-654-3311",
+    "faxNo": "023-654-3310",
+    "access": "天童駅からお車で５分、山形空港から15分",
+    "parkingInformation": "150台　無料　予約不要",
+    "nearestStation": "天童",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/109155/109155.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/109155.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/109155/109155_was.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/109155.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/109155/109155map.gif",
+    "reviewCount": 729,
+    "reviewAverage": 4.63,
+    "userReview": "連泊の料理配慮と貸切露天風呂に満足連泊しましたが2日目は料理など配慮頂けて大変良かったです。お風呂や貸切露天風呂のアメニティをもう少し充実するとさらに良かったです。クチコミの詳細はこちらから　…　2026-08-13 16:48:18投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=109155\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.63,
+    "locationAverage": 4.4,
+    "roomAverage": 4.41,
+    "equipmentAverage": 4.5,
+    "bathAverage": 4.51,
+    "breakfastAverage": 4.66,
+    "dinnerAverage": 4.65,
+    "cleanlinessAverage": 4.61
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "yamagata",
+    "smallClassCode": "yamagata",
+    "areaName": "山形・蔵王・天童・上山",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "19:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 44,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー(貸出)"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "全館禁煙です。喫煙場所につきましては、1階大浴場手前通路の喫煙所をご利用下さい。"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "喫茶"
+      },
+      {
+        "item": "ティーラウンジ"
+      },
+      {
+        "item": "ラウンジ"
+      },
+      {
+        "item": "バーラウンジ"
+      },
+      {
+        "item": "バー"
+      },
+      {
+        "item": "夜食コーナー"
+      },
+      {
+        "item": "居酒屋コーナー"
+      },
+      {
+        "item": "多目的室"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "湯上がりサロン"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "パソコン利用可"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン"
+      },
+      {
+        "breakfastPlace": "食事処"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      },
+      {
+        "dinnerPlace": "食事処"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathType": "水風呂"
+      },
+      {
+        "bathQuality": "カルシウム・ナトリウム硫酸塩泉"
+      },
+      {
+        "bathBenefits": "関節痛"
+      },
+      {
+        "bathBenefits": "動脈硬化"
+      },
+      {
+        "bathBenefits": "美肌効果"
+      }
+    ],
+    "aboutLeisure": "果物狩り,テニス,ゴルフ,サイクリング,ハイキング,スキー,登山,陸上競技,美術館",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "大浴場浴槽に手すりあり"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "■チェックインが予定時間を過ぎる場合は、必ずご連絡下さい。,■チェックイン時に、お一人様200円（入湯税150円＋入湯料50円）を頂戴いたします。※お子様（0～12歳）無料。,■お子様料金について：乳児（0歳以上）のお子様も、入館料として2,200円（税込）をいただいております,■【アレルギー詳細】人数・食材と、完全除去（出汁調味料もNG）か本体のみ除去（出汁調味料はOK）かを詳しくご記入下さい。※当日のご申告は対応いたしかねます。,■【記念日】内容と人数を教えて下さい。チェックイン時のお声がけが不要の場合はその旨もご記入下さい。,■【団体予約について】すべてのお客様に快適にお過ごしいただくため、10名様以上の団体でのご予約はお受けしておりません。,※お子様のお食事について　食事内容…小学生：大人に準じたお食事／幼児（食事・布団付）：お子様用のお食事,小学生でお子様用食事をご希望の方は小学生でお子様用食事をご希望の方は、事前に当館までご連絡ください。（当日対応不可/料金割引なし）、事前に当館までご連絡ください。（当日対応不可/料金割引なし）,■プライベートサウナ：ご予約は「プライベートサウナ月灯り 公式サイト」にて承ります",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>2日前から           ：宿泊料金の30％    <BR>10日前から          ：宿泊料金の10％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "将棋無料貸出",
+    "otherInformation": null
+  }
+}

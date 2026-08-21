@@ -1,0 +1,226 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 70730,
+    "hotelName": "天然温泉　空沼の湯　スーパーホテル札幌・すすきの",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D70730",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D70730%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D70730",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D70730",
+    "hotelKanaName": "てんねんおんせん　そらぬまのゆ　すーぱーほてるさっぽろ・すすきの",
+    "hotelSpecial": "顧客満足度11年連続Ｎｏ，１★「豊水すすきの」駅７番出口から徒歩約１分！天然温泉「空沼の湯」完備！",
+    "hotelMinCharge": 4400,
+    "latitude": 154985.35,
+    "longitude": 508894.4,
+    "postalCode": "064-0806",
+    "address1": "北海道",
+    "address2": "札幌市中央区南6条西2丁目8-1",
+    "telephoneNo": "011-521-9000",
+    "faxNo": "011-521-9100",
+    "access": "地下鉄東豊線豊水すすきの駅７番出口から徒歩30秒！／地下鉄南北線すすきの駅３番出口から徒歩３分、南６西２。",
+    "parkingInformation": "１８００円／泊 完全電話の予約制 （注）立体駐車場のため車高制限有　",
+    "nearestStation": "豊水すすきの",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/70730/70730.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/70730.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/70730/70730_sin.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/70730.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/70730/70730map.gif",
+    "reviewCount": 3212,
+    "reviewAverage": 4.16,
+    "userReview": "アクセスが良く、無難で使いやすい場所無難なビジネスホテルです。アクセスよしですクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel…　2026-08-13 17:07:40投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=70730\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.2,
+    "locationAverage": 4.14,
+    "roomAverage": 4.15,
+    "equipmentAverage": 4.1,
+    "bathAverage": 4.13,
+    "breakfastAverage": 4.07,
+    "dinnerAverage": 4.8,
+    "cleanlinessAverage": 4.18
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "hokkaido",
+    "smallClassCode": "sapporo",
+    "areaName": "札幌",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "24:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 164,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送"
+      },
+      {
+        "item": "有料ビデオ"
+      },
+      {
+        "item": "インターネット接続(LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "リンスインシャンプー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "ナイトウェア"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "パジャマ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "全室、空気清浄機完備・加湿器・高速有線ＬＡＮ・地デジ対応液晶ＴＶ・静音冷蔵庫完備。"
+      },
+      {
+        "item": "１階にてジュース自動販売機."
+      },
+      {
+        "item": "話題のＶＯＤが￥1000有料（各階販売）でごご覧になれます。"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "breakfastPlace": "食堂"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "ナトリウム・塩化物炭酸水素塩泉"
+      },
+      {
+        "bathBenefits": "神経痛"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      },
+      {
+        "bathBenefits": "慢性消化器病"
+      }
+    ],
+    "aboutLeisure": "スキー,動物園",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "バリアフリールーム"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "ご予約頂いた時点で、規約の全てにご了承したものとさせて頂きます。,当日お繋ぎできます電話番号（携帯番号）を必ずお知らせ下さい。また、チェックインが予定時刻より遅れる場合は必ずご連絡下さい。,【注】ご指定頂いたチェックイン時刻を過ぎてもお時間変更のご連絡がない場合、キャンセル扱いとなりお部屋の確保が出来かねますのでご注意下さいませ。（キャンセル料金発生）,最終チェックイン時刻は24時となります。24時以降のフロント対応はございません。,代理の方がご予約をおとりになられた場合には、必ずチェックイン時間の制限等、ご予約内容をお伝え下さいませ。,5部屋以上のご予約はキャンセル規定が変わります。詳細は直接ホテルへお問い合わせください。,客室には電話（外線・内線）を設置しておりません。外部からのお取次ぎはできませんので、ご了承下さい。,連泊中の客室清掃は「清掃なし」を基本としております。清掃希望のお客様は10時～一斉清掃の為、10時～15時の間お部屋にご滞在頂けません。,駐車場ご利用は1800円/泊（15時～翌10時）完全別途電話予約制、高さに制限あります。必ずお電話でご予約くださいませ。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": "注意：ご宿泊のプランにより、カードがご利用頂けないプランもございます。",
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "女性のお客様へレディースアメニティー プレゼント",
+    "otherInformation": "髭剃り、くしはフロントに御座います。,24時以降のチェックイン及び24時〜翌朝7時までのフロント対応は出来かねます。"
+  }
+}

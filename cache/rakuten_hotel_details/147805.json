@@ -1,0 +1,261 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 147805,
+    "hotelName": "ザ　パーク　フロント　ホテル　アット　ユニバーサル・スタジオ・ジャパン",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D147805",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D147805%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D147805",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D147805",
+    "hotelKanaName": "ざぱーくふろんとほてるあっとゆにばーさるすたじおじゃぱん",
+    "hotelSpecial": "パークに1番近いオフィシャルホテル☆ユニバーサルシティ駅から徒歩1分の好立地！",
+    "hotelMinCharge": 5000,
+    "latitude": 124792.13,
+    "longitude": 487583.8,
+    "postalCode": "554-0024",
+    "address1": "大阪府",
+    "address2": "大阪市此花区島屋6-2-52",
+    "telephoneNo": "06-6460-0109",
+    "faxNo": "06-6460-0113",
+    "access": "ユニバーサルシティ駅より徒歩約１分",
+    "parkingInformation": "109台3500円（13:00〜翌13:00）予約不可※満車の場合は他の駐車場をご案内致します。",
+    "nearestStation": "ユニバーサルシティ",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147805/147805.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/147805.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147805/147805_room.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/147805.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147805/147805map.gif",
+    "reviewCount": 3979,
+    "reviewAverage": 4.57,
+    "userReview": "パークに一番近く、清潔で快適な客室USJに行く際に利用しました。ユニバーサルシティウォークの目の前、パークからも一番近いホテルで利便性は文句なし。客室も充分な広さがあり、清潔で快適に過ごせ…　2026-08-13 19:35:20投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=147805\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.61,
+    "locationAverage": 4.66,
+    "roomAverage": 4.57,
+    "equipmentAverage": 4.51,
+    "bathAverage": 4.52,
+    "breakfastAverage": 4.58,
+    "dinnerAverage": 4.47,
+    "cleanlinessAverage": 4.57
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "osaka",
+    "smallClassCode": "shi",
+    "areaName": "大阪",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "12:00",
+    "lastCheckinTime": "24:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 598,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "モジュラージャック"
+      },
+      {
+        "item": "インターネット接続(LAN形式)"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ベビーベッド"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "洗顔ソープ"
+      },
+      {
+        "item": "入浴剤"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "ナイトウェア"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "【設備】全館ＷｉＦｉ無料　　【無料貸し出し品】Nintendo Switchドック等3点セット"
+      },
+      {
+        "item": "3Fチケットカウンターでユニバーサル・スタジオ・ジャパンのスタジオ・パス取扱有（7〜21時）"
+      },
+      {
+        "item": "お子様用アメニティ（パジャマ・スリッパ）、備品（ベビーベッド・ベッドガード等）の貸出有。※要予約"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "コンビニエンスストア"
+      },
+      {
+        "item": "コーヒーショップ"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "スポーツジム"
+      },
+      {
+        "item": "コネクティングルーム（一部・要予約）"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "レストラン(バイキング)"
+      }
+    ],
+    "aboutBath": [],
+    "aboutLeisure": "ユニバーサル・スタジオ・ジャパン／ユニバーサルシティウォーク大阪,水族館,テーマパーク",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリールーム"
+      },
+      {
+        "item": "車椅子利用者用客室あり"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "宿泊時の駐車料金は13:00～翌13:00が3500円、時間外は30分につき500円頂きます。（先着順、予約不可）,ホテル駐車場が満車の場合は、近隣の有料駐車場をご案内いたします。ご了承ください。,有料人員1名につき添い寝は1名まで承ります。添い寝可能人員を超える未就学のお子様は、小学生以上のお子様同様ベッドをご利用くださいますようお願いいたします。添い寝は未就学のお子様に限らせていただきます。,全室禁煙でございます。,現地払いの場合チェックイン時にお支払いください。,別途表示料金に大阪府宿泊税が加算される場合がございます。（2025年8月31日までは1人100円～300円、2025年9月1日以降は1人200円～500円）",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の80％    <BR>前日                ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "View"
+      },
+      {
+        "card": "楽天カード"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "ザ パーク フロント ホテル アット　ユニバーサル・スタジオ・ジャパンは,ユニバーサル・スタジオ・ジャパンのオフィシャルホテルです。"
+  }
+}

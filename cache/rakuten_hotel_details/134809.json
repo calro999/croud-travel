@@ -1,0 +1,171 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 134809,
+    "hotelName": "柴原温泉　手打ちそばの宿　柳屋",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D134809",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D134809%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D134809",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D134809",
+    "hotelKanaName": "てうちそばのやど　やなぎや",
+    "hotelSpecial": "創業江戸末期。秩父七湯の一つ「柴原温泉」の露天風呂と内湯、主人が毎日手打ちする香り高い秩父そばを堪能",
+    "hotelMinCharge": 8900,
+    "latitude": 129486.88,
+    "longitude": 500436.3,
+    "postalCode": "369-1911",
+    "address1": "埼玉県",
+    "address2": "秩父市荒川贄川2048",
+    "telephoneNo": "0494-54-0250",
+    "faxNo": "0494-54-1191",
+    "access": "武州日野駅からお車で約７分",
+    "parkingInformation": "有り　１０台　無料　予約不要",
+    "nearestStation": "武州日野",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/134809/134809.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/134809.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/134809/134809_kan.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/134809.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/134809/134809map.gif",
+    "reviewCount": 183,
+    "reviewAverage": 4.19,
+    "userReview": "三峰神社参拝に最適、料理と温泉が絶品2026.6.7宿泊三峰神社参拝の折に利用。まさに穴場の素晴らしい宿。リーズナブルな上に、料理は朝夕共に絶品で、静かな立地なのでゆっくりと温泉を楽しめる。ス…　2026-07-05 14:13:51投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=134809\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.21,
+    "locationAverage": 4.07,
+    "roomAverage": 4.18,
+    "equipmentAverage": 3.96,
+    "bathAverage": 4.26,
+    "breakfastAverage": 4.42,
+    "dinnerAverage": 4.46,
+    "cleanlinessAverage": 4.27
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "saitama",
+    "smallClassCode": "chichibu",
+    "areaName": "秩父・長瀞",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "18:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 10,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（固形）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "広間"
+      },
+      {
+        "breakfastPlace": "食事処"
+      },
+      {
+        "dinnerPlace": "部屋"
+      },
+      {
+        "dinnerPlace": "個室"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "単純硫黄泉"
+      },
+      {
+        "bathBenefits": "胃腸病"
+      },
+      {
+        "bathBenefits": "神経痛"
+      },
+      {
+        "bathBenefits": "リウマチ・神経病"
+      }
+    ],
+    "aboutLeisure": "渓流釣り,ゴルフ",
+    "handicappedFacilities": [],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "・当日のご連絡先（携帯番号等）をお知らせ下さい。,・お起こしの際の交通手段（車・電車・その他）をお教えください。,・ご到着が１８：００を過ぎる場合は連絡をお願いします。,・秩父鉄道・武州日野駅までお迎え(15：00～17：00)いたします。当日の午前中にご連絡ください。,・ペットは入館不可となっております。,・新型コロナウィルス感染の場合のキャンセルも、キャンセル料が発生いたしますのでご了承ください。,・お客様の嗜好、アレルギー対応など献立の変更はできかねます。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>2日前から           ：宿泊料金の30％    <BR>7日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "Master Card"
+      }
+    ],
+    "aboutCreditCardNote": "paypayもご利用いただけます",
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": null
+  }
+}

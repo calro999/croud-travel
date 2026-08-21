@@ -1,0 +1,239 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 12623,
+    "hotelName": "エアポートホテル熊本",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D12623",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D12623%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D12623",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D12623",
+    "hotelKanaName": "えあぽーとほてる　くまもと",
+    "hotelSpecial": "■2018年3月グランドオープン■全室禁煙■全館Wi-Fi無料■駐車場無料■シングルベッド160cm",
+    "hotelMinCharge": 6400,
+    "latitude": 118398.52,
+    "longitude": 471083.64,
+    "postalCode": "869-1235",
+    "address1": "熊本県",
+    "address2": "菊池郡大津町室1484",
+    "telephoneNo": "096-294-1111",
+    "faxNo": "096-294-0010",
+    "access": "JR「肥後大津駅」より車で約5分 / 熊本空港より車で約13分/ 熊本ICより車で約18分",
+    "parkingInformation": "駐車場無料（大型車除く）　出入り自由　115台",
+    "nearestStation": "肥後大津",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/12623/12623.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/12623.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/12623/12623_sgl.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/12623.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/12623/12623map.gif",
+    "reviewCount": 1746,
+    "reviewAverage": 4.56,
+    "userReview": "スタッフの対応が良く、手持ち花火も楽しめたスタッフの方々が、とてもよくしていただきました。今回は、急遽決めて行ったのですが、持ち込みはできませんが、21時までか、手持ち花火可能でした。(時間は確認…　2026-08-09 18:44:46投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=12623\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.57,
+    "locationAverage": 4.34,
+    "roomAverage": 4.64,
+    "equipmentAverage": 4.53,
+    "bathAverage": 4.48,
+    "breakfastAverage": 4.69,
+    "cleanlinessAverage": 4.59
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "kumamoto",
+    "smallClassCode": "kikuchi",
+    "areaName": "大津・玉名・山鹿・荒尾・菊池",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "24:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 106,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "パジャマ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "乾燥機付洗濯機４台有"
+      },
+      {
+        "item": "全館内フリーWi-Fi"
+      },
+      {
+        "item": "多目的室"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      }
+    ],
+    "aboutBath": [],
+    "aboutLeisure": "ゴルフ,サッカー,サイクリング,陸上競技,フラワーパーク,テーマパーク,農業公園",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "バリアフリールーム"
+      },
+      {
+        "item": "車椅子利用者用客室あり"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "24：00～6：00の間は、ホテル入口が施錠されます。チェックイン済みの方は部屋のカードキーで解錠できます。,全館禁煙でございます。館内に喫煙スペースは１階の館外と2階の館内に喫煙室がございます。,昼食・夕食のレストランは営業しておりません。,ホテル敷地内のガーデン・駐車場を日中、随時整備しております。ご迷惑をおかけ致しますが、ご協力お願い致します。,朝食バイキングは、当日のご宿泊人数または団体のお客様の状況により、お膳またはテイクアウト形式とさせて頂く場合がございます。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日12時から        ：宿泊料金の100％   ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "楽天カード"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": null
+  }
+}

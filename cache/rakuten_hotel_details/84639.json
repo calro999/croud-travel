@@ -1,0 +1,208 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 84639,
+    "hotelName": "阿蘇内牧温泉　旅の宿　阿蘇乃湯",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D84639",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D84639%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D84639",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D84639",
+    "hotelKanaName": "たびのやど　あそのゆ",
+    "hotelSpecial": "天然温泉★貸切風呂無料★阿蘇&熊本の郷土料理湧水で炊くお米は絶品",
+    "hotelMinCharge": null,
+    "latitude": 118696.71,
+    "longitude": 471727.6,
+    "postalCode": "869-2307",
+    "address1": "熊本県",
+    "address2": "阿蘇市小里6",
+    "telephoneNo": "0967-32-1521",
+    "faxNo": "0967-32-4776",
+    "access": "国道57号の北側復旧ルートが開通しました！ミルクロード経由よりも時間が短縮されましたのでお気軽にお越しくださいませ。",
+    "parkingInformation": "有り　２０台　無料　予約不要",
+    "nearestStation": "内牧",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/84639/84639.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/84639.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/84639/84639_kan1.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/84639.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/84639/84639map.gif",
+    "reviewCount": 34,
+    "reviewAverage": 0,
+    "userReview": null
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 0,
+    "locationAverage": 0,
+    "roomAverage": 0,
+    "equipmentAverage": 0,
+    "bathAverage": 0
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "kumamoto",
+    "smallClassCode": "aso",
+    "areaName": "阿蘇",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "16:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "21:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 10,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "リンスインシャンプー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "アロママッサージルーム　※事前要予約　"
+      },
+      {
+        "item": "大広間/日帰り温泉の際、ご休憩も可能です。　※事前にお問合せ下さい。"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "パソコン利用可"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "食事処"
+      },
+      {
+        "dinnerPlace": "食事処"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathType": "水風呂"
+      },
+      {
+        "bathQuality": "単純温泉"
+      },
+      {
+        "bathBenefits": "関節痛"
+      },
+      {
+        "bathBenefits": "筋肉痛"
+      },
+      {
+        "bathBenefits": "神経痛"
+      }
+    ],
+    "aboutLeisure": "渓流釣り,ゴルフ,パラグライダー,熱気球,サイクリング,ハイキング,乗馬,トレッキング,登山,遊園地,動物園,博物館,テーマパーク,美術館,山菜取り",
+    "handicappedFacilities": [
+      {
+        "item": "大浴場浴槽に手すりあり"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "●ご到着が18：00を過ぎる場合はご連絡下さい。,（※素泊り・一泊朝食付きプランの場合は、21：00を過ぎる場合はご連絡下さい）,●入湯税が別途必要です。（お一人様150円）,●食べ物に関するアレルギーが御座いましたら、必ず事前にお知らせ下さい。,●お子様連れの方は、お子様のご年齢をお教え下さい。,尚、3歳以下のお子様に限り、【食事・布団不要】をお選びいただけます。予めご了承下さい。,●通常、お出かけの際の門限は24：00までとさせていただきます。,●ご不明な点につきましては、お気軽にお電話またはメールにてお問合せ下さい。,●ペットの受け入れはお断りさせていただいております。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の70％    <BR>3日前から           ：宿泊料金の50％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Discover"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": "UnionPay、各種QR決済　※詳細はお問い合わせください",
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": null
+  }
+}

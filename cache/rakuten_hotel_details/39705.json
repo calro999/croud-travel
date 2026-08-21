@@ -1,0 +1,274 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 39705,
+    "hotelName": "草津温泉　ホテル一井",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D39705",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D39705%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D39705",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D39705",
+    "hotelKanaName": "くさつおんせん　いちい",
+    "hotelSpecial": "20室のみの湯畑眺望客室は希少！すき焼きやライブキッチンでのお寿司などを楽しめるビュッフェが話題",
+    "hotelMinCharge": 17600,
+    "latitude": 131831.26,
+    "longitude": 498957.39,
+    "postalCode": "377-1711",
+    "address1": "群馬県",
+    "address2": "吾妻郡草津町草津411",
+    "telephoneNo": "0279-88-0011",
+    "faxNo": "0279-88-0111",
+    "access": "ＪＲ吾妻線　長野原草津口駅より路線バス２５分",
+    "parkingInformation": "有り　駐車は正午12時〜翌正午12時まで　駐車料金：1律1泊1台あたり500円　バレーパーキング",
+    "nearestStation": "長野原草津口",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/39705/39705.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/39705.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/39705/39705_ro.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/39705.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/39705/39705map.gif",
+    "reviewCount": 3227,
+    "reviewAverage": 4.6,
+    "userReview": "湯畑の夜景と美味しい料理に大満足大人4人の家族旅行で宿泊しました。夕食お料理は、お皿、盛り付けも素敵で、とても美味しく大満足でした。朝食バイキングも和洋豊富でした。湯畑が一望できるお部…　2026-08-12 20:07:40投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=39705\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.58,
+    "locationAverage": 4.7,
+    "roomAverage": 4.38,
+    "equipmentAverage": 4.35,
+    "bathAverage": 4.66,
+    "breakfastAverage": 4.65,
+    "dinnerAverage": 4.68,
+    "cleanlinessAverage": 4.55
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "gunma",
+    "smallClassCode": "kusatsu",
+    "areaName": "草津温泉・白根",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "17:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 101,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "加湿器(一部)"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "おふろセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "カミソリ、シャワーキャップ、クシ、化粧水等は大浴場に備え付でございます。"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "ラウンジ"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モー���ングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "食事処"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "酸性"
+      },
+      {
+        "bathQuality": "硫黄泉"
+      },
+      {
+        "bathQuality": "硫酸塩泉"
+      },
+      {
+        "bathBenefits": "糖尿病"
+      },
+      {
+        "bathBenefits": "冷え性"
+      },
+      {
+        "bathBenefits": "皮膚病"
+      }
+    ],
+    "aboutLeisure": "ジップライン　スカイスウィング,釣り,ゲートボール,ゴルフ,ハイキング,スキー,クロスカントリー,トレッキング,動物園,美術館",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "大浴場浴槽に手すりあり"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": "中国語：少し分かるスタッフが数人いる。<BR>英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "大人1泊1名様に付き別途150円の入湯税がかかります。,駐車場は1台1泊あたり一律で500円かかります。ご利用可能時間は12時～翌12時までです。,大浴場（露天風呂）の利用時間は【15:00-26:00　5：00-10：00】までとなります。（男女入れ替え制）,入れ墨・タトゥーのある方の大浴場・露天風呂へのご入浴はご遠慮いただいております。何卒ご理解いただきますようお願い申し上げます。,本館（フロントのある建物）から別館（大浴場のある建物）まで、館内移動に3～4分ほどかかります。,---------------------------------------------------------------,【お子様料金について】,■ビュッフェ以外のお食事つきのプランの場合、【 幼児(食事・布団付）】のお子様料理はお子様プレートのご用意でございます。,■乳幼児（１歳未満）の人数は入力不要です。（備考欄へ乳幼児の人数を記載ください。）※乳幼児（１歳未満）は施設使用料が無料です。,食事・布団なしのお子様も既定の入館料がかかります(プランにより料金が異なります）消費税率の変動があった場合税率変更分の差額を現地にて頂戴する場合がございます。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の50％    <BR>3日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "AEON"
+      },
+      {
+        "card": "APLUS"
+      },
+      {
+        "card": "CF"
+      },
+      {
+        "card": "ORICO"
+      },
+      {
+        "card": "JTB"
+      }
+    ],
+    "aboutCreditCardNote": "使用可能なギフトカード：JCB・DC・UFJ ※JTBなど旅行会社発行の旅行券は使えません",
+    "aboutPointAdd": null,
+    "aboutMileageAdd": "※楽天トラベルなどからのインターネット予約の場合はマイルは加算できません。（当館公式サイト除く）"
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "すべての客室および宴会場含むお食事会場・パブリックスペースは禁煙です。館内の喫煙所をご利用ください。,チェックインが17：00以降の場合はご連絡下さい。,入れ墨・タトゥーのある方の大浴場・露天風呂へのご入浴はご遠慮いただいております。"
+  }
+}

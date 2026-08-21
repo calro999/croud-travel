@@ -1,0 +1,286 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 4890,
+    "hotelName": "小野川温泉　鈴の宿　登府屋旅館",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D4890",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D4890%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D4890",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D4890",
+    "hotelKanaName": "おのがわおんせん　すずのやど　とふやりょかん",
+    "hotelSpecial": "■ご家族で”親孝行たび”をお考えの方へ♪バリアフリーで車イスもラクラク安心♪掛け流し温泉&サウナ有り",
+    "hotelMinCharge": 9300,
+    "latitude": 136360.12,
+    "longitude": 504206.93,
+    "postalCode": "992-0076",
+    "address1": "山形県",
+    "address2": "米沢市小野川温泉2493",
+    "telephoneNo": "0238-32-2611",
+    "faxNo": "0238-32-2613",
+    "access": "山形新幹線 米沢駅より路線バスで26分。東北自動車道 飯坂ICより60分　小野川温泉の中心に位置する宿です。",
+    "parkingInformation": "■玄関前無料駐車場あり。（30台分）10名様以上の場合、米沢市内の送迎サービス【全館Wi-Fi完備】",
+    "nearestStation": "米沢",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/4890/4890.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/4890.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/4890/4890_room.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/4890.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/4890/4890map.gif",
+    "reviewCount": 239,
+    "reviewAverage": 4.53,
+    "userReview": "クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/4890?reviewId=33123478723049　2026-08-11 09:52:18投稿"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.37,
+    "locationAverage": 4.13,
+    "roomAverage": 4.4,
+    "equipmentAverage": 4.4,
+    "bathAverage": 4.52,
+    "breakfastAverage": 4.45,
+    "dinnerAverage": 4.4,
+    "cleanlinessAverage": 4.38
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "yamagata",
+    "smallClassCode": "yonezawa",
+    "areaName": "米沢・赤湯・高畠・長井",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "19:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 14,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(一部、無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ミニバー"
+      },
+      {
+        "item": "ドライヤー(貸出)"
+      },
+      {
+        "item": "電気スタンド"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "ＣＤプレイヤ－(貸出)"
+      },
+      {
+        "item": "カセットデッキ(貸出)"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "マイクロバスは１０名様以上で要予約となります。"
+      },
+      {
+        "item": "バリアフリーに近いつくりで、車椅子、お座敷用椅子、お風呂用椅子もございます。"
+      },
+      {
+        "item": "玄関脇、浴槽内にスロープと手すりがあり、客室まではエレベーターがございます。"
+      },
+      {
+        "item": "喫茶"
+      },
+      {
+        "item": "ラウンジ"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "コンビニエンスストア"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "貸自転車"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "部屋"
+      },
+      {
+        "breakfastPlace": "個室"
+      },
+      {
+        "dinnerPlace": "部屋"
+      },
+      {
+        "dinnerPlace": "個室"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "硫黄泉"
+      },
+      {
+        "bathQuality": "ナトリウム・カルシウム塩化物泉"
+      },
+      {
+        "bathQuality": "ラジウム温泉"
+      },
+      {
+        "bathBenefits": "五十肩"
+      },
+      {
+        "bathBenefits": "美肌効果"
+      },
+      {
+        "bathBenefits": "リウマチ・神経病"
+      }
+    ],
+    "aboutLeisure": "他の宿や施設でも楽しめる「夢ぐり（湯めぐり）」や好きな体験を選べる「ときめぐり」は、おすすめです。,渓流釣り,テニス,ゲートボール,ゴルフ,サッカー,パラグライダー,サイクリング,ハイキング,スキー,乗馬,トレッキング,登山,射撃,陸上競技,遊園地,博物館,フラワーパーク,栗拾い,山菜取り",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "車椅子利用者用客室あり"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "客室内トイレに手すりあり"
+      },
+      {
+        "item": "大浴場浴槽に手すりあり"
+      },
+      {
+        "item": "大浴場での介助入浴可能"
+      },
+      {
+        "item": "高齢者用料理への対応可能"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": "中国語：少し分かるスタッフが数人いる。<BR>英語：日常的な内容は問題のないスタッフが数人いる。<BR>韓国語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "夕食は１８時～１９時に開始とさせていただきます。,朝食は７時３０分～８時３０分に開始とさせていただきます。,門限は０時とさせていただきます。,鈴の絵付け体験（１０００円）もございます。,温泉街には足湯５箇所、飲泉所２箇所、無料露天風呂がございます。,車椅子やお座敷用の椅子、お風呂用の椅子がございます。（数に限りがございます）,他の旅館のお風呂を３箇所巡れる夢ぐり（湯めぐり）手形（１０００円）を販売しております。,小野川温泉の体験をめぐれる「ときめぐり」がオススメです。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>2日前から           ：宿泊料金の50％    <BR>3日前から           ：宿泊料金の40％    <BR>4日前から           ：宿泊料金の30％    <BR>7日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "Master Card"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "将棋無料貸出,囲碁無料貸出",
+    "otherInformation": "お子様のお料理に関しまして、大人と同様のメニューをご希望の場合は、大人としてお申し込みください。,お足もとの不自由な場合、無線ＬＡＮを使う場合など、事前にお電話くださればお部屋を配慮いたします。,ウォシュレットトイレ（温水洗浄器付便座）は、全室についています。サウナもご利用いただけます（有料）"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 169001,
+    "hotelName": "ＩＮＯＳＨＯＷ　亥翔／民泊",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D169001",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D169001%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D169001",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D169001",
+    "hotelKanaName": null,
+    "hotelSpecial": "【九十九里ビーチすぐ。無料駐車場有！都心から車で１時間！【民泊】",
+    "hotelMinCharge": null,
+    "latitude": 127918.77,
+    "longitude": 505643.98,
+    "postalCode": "283-0103",
+    "address1": "千葉県",
+    "address2": "山武郡九十九里町田中荒生1589－47　ＩＮＯＳＨＯＷ",
+    "telephoneNo": "050-5444-6620",
+    "faxNo": "000-000-0000",
+    "access": "求名駅から車で約１８分",
+    "parkingInformation": "有り",
+    "nearestStation": "求名",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/169001/169001.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/169001.jpg",
+    "roomImageUrl": null,
+    "roomThumbnailUrl": null,
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/169001/169001map.gif",
+    "reviewCount": null,
+    "reviewAverage": null,
+    "userReview": null
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": null,
+    "locationAverage": null,
+    "roomAverage": null,
+    "equipmentAverage": null,
+    "bathAverage": null
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "tiba",
+    "smallClassCode": "choshi",
+    "areaName": "銚子・旭・九十九里・東金・茂原",
+    "hotelClassCode": "PENSION",
+    "checkinTime": "16:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "23:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 1,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "インターネット接続(LAN形式)"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "石鹸（固形）"
+      },
+      {
+        "item": "シャンプー"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "キッチン/調理器具/食器/洗濯機/電子レンジ/エアコン"
+      },
+      {
+        "item": "※部屋によって設備が変わる場合がございます。あらかじめ宿泊施設へご確認ください。"
+      },
+      {
+        "item": "バーベキューガーデン"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [],
+    "aboutBath": [],
+    "aboutLeisure": null,
+    "handicappedFacilities": [],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": null,
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>6日前から           ：宿泊料金の100％   <BR>28日前から          ：宿泊料金の50％    ",
+    "availableCreditCard": [
+      {
+        "card": "利用不可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": null
+  }
+}

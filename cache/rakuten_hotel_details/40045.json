@@ -1,0 +1,328 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 40045,
+    "hotelName": "あかん遊久の里鶴雅",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D40045",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D40045%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D40045",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D40045",
+    "hotelKanaName": "あかんゆくのさとつるが",
+    "hotelSpecial": "和のこころ、阿寒のおもてなしをさらに深めて。日本の旅館文化を継承するおもてなしをご堪能ください。",
+    "hotelMinCharge": 19541,
+    "latitude": 156355.53,
+    "longitude": 518741.27,
+    "postalCode": "085-0467",
+    "address1": "北海道",
+    "address2": "釧路市阿寒町阿寒湖温泉4-6-10",
+    "telephoneNo": "0154-67-2531",
+    "faxNo": "0154-67-4123",
+    "access": "釧路空港より車で約６０分／女満別空港より車で約９０分。　※アクセスの詳細は公式サイトの「アクセスページ」をご覧ください。",
+    "parkingInformation": "有り（無料）150台※駐車場は当館から離れた場所にあります（駐車場とホテル間はシャトルバス運行あり）",
+    "nearestStation": "釧路",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40045/40045.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/40045.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40045/40045_kan.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/40045.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40045/40045map.gif",
+    "reviewCount": 1802,
+    "reviewAverage": 4.54,
+    "userReview": "バイキングと温泉が最高、無料のいもも美味バイキングは和洋中と豊富。アレルゲン表記もしっかり。部屋や温泉、ロケーションは最高。蒸したじゃがいもを無料で食べられて良かったです。とても美味しかった。…　2026-08-14 16:52:52投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=40045\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.52,
+    "locationAverage": 4.49,
+    "roomAverage": 4.51,
+    "equipmentAverage": 4.48,
+    "bathAverage": 4.61,
+    "breakfastAverage": 4.57,
+    "dinnerAverage": 4.57,
+    "cleanlinessAverage": 4.52
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "hokkaido",
+    "smallClassCode": "kushiro",
+    "areaName": "釧路・阿寒・川湯・根室",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "19:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 269,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "・ネット接続／すべての客室にて無線LANをご利用頂けます。※状況によりご利用できない場合もございます"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "ティーラウンジ"
+      },
+      {
+        "item": "ラウンジ"
+      },
+      {
+        "item": "バー"
+      },
+      {
+        "item": "ナイトクラブ"
+      },
+      {
+        "item": "夜食コーナー"
+      },
+      {
+        "item": "居酒屋コーナー"
+      },
+      {
+        "item": "カラオケルーム"
+      },
+      {
+        "item": "多目的室"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "ショッピングアベニュー"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "フィットネスクラブ"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "パソコン利用可"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "breakfastPlace": "料亭"
+      },
+      {
+        "dinnerPlace": "部屋"
+      },
+      {
+        "dinnerPlace": "レストラン(バイキング)"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathType": "ジャグジー"
+      },
+      {
+        "bathType": "水風呂"
+      },
+      {
+        "bathType": "岩盤浴"
+      },
+      {
+        "bathQuality": "単純温泉"
+      },
+      {
+        "bathQuality": "炭酸水素塩泉"
+      },
+      {
+        "bathQuality": "塩化物泉"
+      },
+      {
+        "bathBenefits": "関節痛"
+      },
+      {
+        "bathBenefits": "筋肉痛"
+      },
+      {
+        "bathBenefits": "ストレス"
+      }
+    ],
+    "aboutLeisure": "釣り,渓流釣り,カヌー,熱気球,サイクリング,ハイキング,スキー,スケート,トレッキング,登山",
+    "handicappedFacilities": [
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "車椅子利用者用客室あり"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "大浴場浴槽に手すりあり"
+      },
+      {
+        "item": "大浴場での介助入浴可能"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      },
+      {
+        "item": "高齢者用料理への対応可能"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": "中国語：少し分かるスタッフが数人いる。<BR>英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "■入湯税が別途かかります。2025年4月1日より、釧路市税条例の改正に伴い入湯税が改定となります（大人1名様1泊につき250円⇒300円へ改定）,■2026年4月1日宿泊分より、宿泊税（1名あたり300円～700円※宿泊代によって異なる）を別途現地にて頂戴いたします。,■全客室禁煙です。喫煙される場合は喫煙所をご利用ください。,■和食（雲水、紫翆、雄峰、鉄板焼き）プランご予約のお客様で、食物アレルギーをお持ちの方は事前にご連絡ください。,■大人１名＋子供１名の場合、子供は大人と同料金頂きます（システム上表示されなくても現地精算となります）,■チェックインが19時を過ぎる場合は、ホテルまでご連絡をお願���いたします。ご連絡が無い場合、キャンセルとさせて頂く場合がございます。,■駐車場はホテルから離れた場所にございます。（無料）お車はお客様ご自身で駐車場へご移動をお願いしております。（駐車場とホテル間はシャトルバスを運行）,■有料送迎バス運行（週3往復／5日前迄の完全予約制）■【輪厚・千歳・音更方面】～2026年9月30日復路まで　※料金・時間・場所など詳細は公式サイトの交通アクセスを確認下さい,■アメニティ提供変更のお知らせ／SDGs推進と「プラスチックに係る資源循環の促進等に関する法律」に基づく特定プラスチック使用製品の使用合理化にあたり対象製品の提供方法を変更させていただきます。,＜対象製品＞歯ブラシ・かみそり・ヘアブラシ・くし・シャワーキャップ　／　【本館】【ウイングス館】：アメニティバーにてご提供いたします。【別館】：お部屋にご用意いたします。　※大浴場にはございません",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>7日前から           ：宿泊料金の30％    <BR>14日前から          ：宿泊料金の10％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "JTB"
+      },
+      {
+        "card": "デビットカード"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "ウェルカムドリンクサービス",
+    "otherInformation": "●【輪厚・千歳・音更方面】有料送迎バス運行（週3往復／有料／5日前までの完全予約制）,※〜2026年9月30日復路まで,※料金・時間・発着場所など詳細は、公式サイトの交通アクセスページをご覧ください"
+  }
+}

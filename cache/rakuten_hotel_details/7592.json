@@ -1,0 +1,325 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 7592,
+    "hotelName": "小豆島温泉　オリビアン小豆島　夕陽ヶ丘ホテル　＜小豆島＞",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D7592",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D7592%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D7592",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D7592",
+    "hotelKanaName": "しょうどしまおんせん　おりびあんしょうどしま　ゆうひがおかほてる",
+    "hotelSpecial": "瀬戸内海を望む23万㎡の高台リゾートホテル。絶景の夕陽と天然温泉、小豆島の味覚を満喫。",
+    "hotelMinCharge": 6700,
+    "latitude": 124257.96,
+    "longitude": 483206.28,
+    "postalCode": "761-4142",
+    "address1": "香川県",
+    "address2": "小豆郡土庄町屋形崎甲63-1",
+    "telephoneNo": "0879-65-2311",
+    "faxNo": "0879-65-2170",
+    "access": "★土庄港より車で約15分★土庄港より無料定期送迎あり（予約要）",
+    "parkingInformation": "有り　１５０台　無料",
+    "nearestStation": "日生",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7592/7592.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/7592.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7592/7592_ss.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/7592.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7592/7592map.gif",
+    "reviewCount": 2306,
+    "reviewAverage": 4.5,
+    "userReview": "部屋から眺める、夕映えの海が綺麗部屋の窓からの眺望が素晴らしく、特に、日没の頃の夕陽と海が美しかったです。星空ウォッチイングのイベントも楽しい内容でした。温泉は快適でしたし、朝食バイキングは、種類…　2026-08-15 10:15:51投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=7592\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.51,
+    "locationAverage": 4.59,
+    "roomAverage": 4.39,
+    "equipmentAverage": 4.25,
+    "bathAverage": 4.37,
+    "breakfastAverage": 4.43,
+    "dinnerAverage": 4.52,
+    "cleanlinessAverage": 4.37
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "kagawa",
+    "smallClassCode": "ritou",
+    "areaName": "小豆島・直島",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "14:30",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "19:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 109,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ベビーベッド"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "多目的グラウンド、ドックランございます。"
+      },
+      {
+        "item": "パブリックスペース、客室でのWiFiOK※利用時パスワードが必要です"
+      },
+      {
+        "item": "お部屋タイプにより夕陽・山・瀬戸内海がご覧いただけます。"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "カラオケルーム"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "結婚式場"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "プール(夏期のみ)"
+      },
+      {
+        "item": "屋外プール"
+      },
+      {
+        "item": "テニスコート"
+      },
+      {
+        "item": "ゲームコーナー"
+      },
+      {
+        "item": "卓球"
+      },
+      {
+        "item": "バーベキューガーデン"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "ペット同宿可"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      },
+      {
+        "dinnerPlace": "レストラン(バイキング)"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "アルカリ単純泉"
+      },
+      {
+        "bathBenefits": "関節痛"
+      },
+      {
+        "bathBenefits": "神経痛"
+      },
+      {
+        "bathBenefits": "慢性消化器病"
+      }
+    ],
+    "aboutLeisure": "パットゴルフ１８H　全面芝グランド、ドッグランあり,海水浴,釣り,海釣り,ヨット,クルージング,ウィンドサーフィン,ウォータースポーツ,テニス,ゲートボール,ゴルフ,サッカー,サイクリング,ハイキング,トレッキング,登山",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "車椅子利用者用客室あり"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "大浴場浴槽に手すりあり"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      },
+      {
+        "item": "高齢者用料理への対応可能"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      },
+      {
+        "item": "施設スタッフによる介助・補助対応が可能"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "・入湯税大人1泊につき、別途150円かかります。（子供は不要）,・キャンセル料はご宿泊日の3日前よりかかります。※但しプランにより異なる場合がございます。ご注意ください。,・大人2名以上でのお申し込みとなります。大人1名でお申込の場合には料金訂正のご連絡をさせていただきます。何卒ご了承くださいませ。,・0歳～2歳のお子様は人数に含めずに、備考欄に記入してください。（施設利用料は不要です。誤って人数を含めて予約した場合は返金できません）,・3～5歳のお子様で添寝の場合、2,000円（税込2,200円）施設料としてかかります。ただしプランによって異なる場合がご���います。,・館内浴衣スリッパでのご利用OKです。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>3日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "デビットカード"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "0〜2歳無料※食事布団なしとさせていただきます。3歳までをご入力ください"
+  }
+}

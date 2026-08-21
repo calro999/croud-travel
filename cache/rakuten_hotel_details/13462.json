@@ -1,0 +1,256 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 13462,
+    "hotelName": "奥日光　ホテル四季彩",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D13462",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D13462%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D13462",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D13462",
+    "hotelKanaName": "おくにっこう　ほてるしきさい",
+    "hotelSpecial": "四季折々で愉しめる天然硫黄泉と会席料理が自慢の温泉宿",
+    "hotelMinCharge": 9900,
+    "latitude": 132281.64,
+    "longitude": 502106.25,
+    "postalCode": "321-1661",
+    "address1": "栃木県",
+    "address2": "日光市中宮祠2485",
+    "telephoneNo": "0570-022-251",
+    "faxNo": "0465-23-2732",
+    "access": "【車】日光道清滝IC～120号25分【電車】東武：北千住～日光1時間半JR：宇都宮～日光50分【バス】日光駅～当館45分",
+    "parkingInformation": "あり（無料｜予約不要｜屋外40台）",
+    "nearestStation": "東武日光",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13462/13462.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/13462.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13462/13462_bath1.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/13462.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13462/13462map.gif",
+    "reviewCount": 2364,
+    "reviewAverage": 4.34,
+    "userReview": "ウェルカムドリンクの種類が豊富で大満足ウェルカムドリンクの種類の多さがとても良かったです。スパークリングワインがあったり普通のワインやソフトドリンクも豊富でした!!クチコミの詳細はこち…　2026-08-15 20:31:08投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=13462\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.32,
+    "locationAverage": 4.38,
+    "roomAverage": 4.31,
+    "equipmentAverage": 4.19,
+    "bathAverage": 4.52,
+    "breakfastAverage": 4.26,
+    "dinnerAverage": 4.35,
+    "cleanlinessAverage": 4.36
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "tochigi",
+    "smallClassCode": "nikko",
+    "areaName": "日光・中禅寺湖・奥日光・今市",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "18:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 36,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "洗顔ソープ"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "くつろぎ着の作務衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "ケーキ（有料）のご注文は、公式HP専用フォームよりお申し込みください。"
+      },
+      {
+        "item": "エレベーターがございません。大浴場・レストランへの移動は階段のみとなります。"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "ラウンジ"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "硫黄泉"
+      },
+      {
+        "bathBenefits": "美肌効果"
+      },
+      {
+        "bathBenefits": "リウマチ・神経病"
+      }
+    ],
+    "aboutLeisure": "テニス,ゴルフ,ハイキング,スキー,クロスカントリー,スケート,登山,博物館,水族館,山菜取り",
+    "handicappedFacilities": [
+      {
+        "item": "貸出用車椅子"
+      }
+    ],
+    "linguisticLevel": "中国語：少し分かるスタッフが数人いる。<BR>英語：日常的な内容は問題のないスタッフが数人いる。<BR>韓国語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "12歳以上の方は、別途「入湯税」150円を徴収いたします。,お子様の料金は下記に基づいております。,■6～12歳(小学生) ：大人の70％（朝食のみ・素泊り：100％）,■3～5歳(未就学児)：大人の50％（朝食のみ・素泊り：100％）,■0～2歳：添い寝  ：無料,当館にはエレベーターはございません。大浴場・レストランへの移動は階段のみでございます。,12月～3月まで積雪が予想されます。お車はスタッドレスタイヤまたはチェーンをご装備ください。,当館から届くSMSよりチェックイン用QRコードの取得をお願いします,2泊以上の方で、清掃をご希望の場合は1回あたり4,000円(税別)別途ご料金が発生いたします。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の80％    <BR>前日                ：宿泊料金の50％    <BR>3日前から           ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "CF"
+      },
+      {
+        "card": "LIFE"
+      },
+      {
+        "card": "ORICO"
+      },
+      {
+        "card": "JTB"
+      },
+      {
+        "card": "デビットカード"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "ウェルカムドリンクサービス",
+    "otherInformation": null
+  }
+}

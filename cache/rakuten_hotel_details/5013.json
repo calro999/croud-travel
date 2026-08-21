@@ -1,0 +1,214 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 5013,
+    "hotelName": "渋沢栄一翁命名の宿　養浩亭",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D5013",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D5013%26f_flg%3DPLAN",
+    "dpPlanListUrl": null,
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D5013",
+    "hotelKanaName": "しぶさわえいいちおうめいめいのやど　ようこうてい",
+    "hotelSpecial": "上長瀞駅徒歩5分！荒川沿いで観光にもビジネスにも便利♪創業103年目のレトロな旅館です",
+    "hotelMinCharge": 7000,
+    "latitude": 129901.95,
+    "longitude": 500833.33,
+    "postalCode": "369-1305",
+    "address1": "埼玉県",
+    "address2": "秩父郡長瀞町長瀞1446",
+    "telephoneNo": "0494-66-3131",
+    "faxNo": "0494-66-1245",
+    "access": "電車：秩父鉄道・上長瀞駅より徒歩５分　車：関越自動車道・花園ＩＣより、国道１４０号長瀞方面へ約２０ｋｍ、約２５分",
+    "parkingInformation": "有り　１３台　無料",
+    "nearestStation": "上長瀞",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5013/5013.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/5013.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5013/5013_war.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/5013.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5013/5013map.gif",
+    "reviewCount": 187,
+    "reviewAverage": 4.21,
+    "userReview": "親切な対応と美味しい食事で良い思い出に建物は歴史を感じますが、お掃除は行き届いていました。お宿の方も親切丁寧でした。お食事はアユの塩焼きとても美味しかったです。炊きものも、丁寧な味つけで美味しかっ…　2026-08-12 20:25:35投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=5013\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.24,
+    "locationAverage": 4.13,
+    "roomAverage": 3.96,
+    "equipmentAverage": 3.72,
+    "bathAverage": 3.9,
+    "breakfastAverage": 4.22,
+    "dinnerAverage": 4.21,
+    "cleanlinessAverage": 3.98
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "saitama",
+    "smallClassCode": "chichibu",
+    "areaName": "秩父・長瀞",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "22:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 22,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ(一部)"
+      },
+      {
+        "item": "石鹸（固形）"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "郵パック"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "ティーラウンジ"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン"
+      },
+      {
+        "breakfastPlace": "広間"
+      },
+      {
+        "dinnerPlace": "部屋"
+      },
+      {
+        "dinnerPlace": "広間"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathQuality": "活性ミネラルの湯"
+      },
+      {
+        "bathBenefits": "関節痛"
+      },
+      {
+        "bathBenefits": "美肌���果"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      }
+    ],
+    "aboutLeisure": "ラフティング,いちご狩り、ぶどう狩り,渓流釣り,カヌー,ウォータースポーツ,渓流下り,テニス,ゴルフ,パラグライダー,サイクリング,ハイキング,トレッキング,登山,射撃,博物館",
+    "handicappedFacilities": [
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      }
+    ],
+    "linguisticLevel": "中国語：少し分かるスタッフが数人いる。<BR>英語：少し分かるスタッフが数人いる。<BR>韓国語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "※お支払いは現金もしくはクレジットカードでお願いいたします。,（プラン内に現金限定など別指定がある場合はそちらを優先）,・到着予定時間をお知らせください。,・お越しの交通手段をお知らせください。（車・電車・バイク・自転車等）,・お子様連れの場合、年齢をおしらせください。,※キャンセル料は宿泊約款に基づいてかかります。,例えば１４名様以内ですと、宿泊日の３日前から２日前までは２０％、前日は５０％、,当日またはご連絡がない場合は１００％になります。,人数が多い場合はお問い合わせください。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>2日前から           ：宿泊料金の20％    <BR>3日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "将棋無料貸出,囲碁無料貸出",
+    "otherInformation": null
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 172806,
+    "hotelName": "ホテルトレンド岡山駅前",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D172806",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D172806%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D172806",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D172806",
+    "hotelKanaName": "とれんどおかやまえきまえ",
+    "hotelSpecial": "岡山駅から徒歩約3分★【提携駐車場あり】15時-翌10時まで1200円★広島・香川へ好アクセス！",
+    "hotelMinCharge": 5400,
+    "latitude": 124777.5,
+    "longitude": 482115.52,
+    "postalCode": "700-0907",
+    "address1": "岡山県",
+    "address2": "岡山市北区下石井1-1-17 アクロスキューブ岡山駅前4F",
+    "telephoneNo": "086-225-7700",
+    "faxNo": "086-225-7710",
+    "access": "JR岡山駅 後楽園口(東口)より徒歩約3分/岡山電気軌道：東山本線 岡山駅前より徒歩約3分",
+    "parkingInformation": "【提携駐車場】Qパーキング 15時-翌10時迄1200円※徒歩約5分！1台1日1枚サービス券をご購入",
+    "nearestStation": "岡山",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/172806/172806.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/172806.jpg",
+    "roomImageUrl": null,
+    "roomThumbnailUrl": null,
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/172806/172806map.gif",
+    "reviewCount": 650,
+    "reviewAverage": 4.03,
+    "userReview": "駅近で部屋も綺麗、次は朝食付きで!駅からも近いし、お部屋も綺麗で良かったです!早朝出発したので朝食はつけてませんが次回は朝食付きで宿泊したいです!クチコミの詳細はこちらから　https:/…　2026-07-21 23:27:20投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=172806\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 3.99,
+    "locationAverage": 4.16,
+    "roomAverage": 4,
+    "equipmentAverage": 3.95,
+    "bathAverage": 3.88,
+    "breakfastAverage": 3.99,
+    "cleanlinessAverage": 4.05
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "okayama",
+    "smallClassCode": "okayama",
+    "areaName": "岡山",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "26:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 77,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "インターネット接続(LAN形式)"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー"
+      },
+      {
+        "item": "電気スタンド"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "ナイトウェア"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "電子レンジ（一部・要予約）"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "フロントにて綿棒、ヘアブラシ、メイク落とし、洗顔料（女性用）"
+      },
+      {
+        "item": "シャワーキャップ、簡易スリッパをご用意しています。"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "宅配便"
+      }
+    ],
+    "aboutMealPlace": [],
+    "aboutBath": [],
+    "aboutLeisure": "岡山城、岡山市立オリエント美術館、後楽園、吉後楽園備津神社、倉敷美観地区、池田動物園",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "バリアフリールーム"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "■チェックイン時間に変更があり、深夜12時を過ぎる場合は予めご連絡ください。,■【フロント対応時間】午前5時～深夜2時　深夜2時～5時の間はフロントを閉めております。※緊急時は別途対応いたします。,■当館は完全前払い制になっております。,■※エキストラベッドのご用意は致しかねます。予めご了承下さい。,■来客の際、お部屋へのご訪問はお断りしております。ロビーをご利用下さいませ。,■小学生未満のお子様は添い寝のみ可能です(無料)。※1ベッドにつき、1名様までとなります。,■ペットの同宿は不可です。,■10名以上（団体様）のご予約の場合、ご予約前にホテルまでお電話にてお問い合わせください。,■団体でのご予約(10名以上)はキャンセルポリシーが異なります。 14日前～8日前まで:20％　7日前～4日前まで:30％,■3日前:50％　2日前～当日のキャンセル:100％　不泊の場合:100％",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の80％    <BR>前日                ：宿泊料金の50％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": "銀聯カード　　PayPay",
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "JR岡山駅後楽園口(東口)より徒歩約3分・岡山電気軌道：東山本線 岡山駅前より徒歩約3分"
+  }
+}

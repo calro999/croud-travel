@@ -1,0 +1,174 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 67265,
+    "hotelName": "京都“元祖川床”発祥の老舗料理旅館　貴船ふじや",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D67265",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D67265%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D67265",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D67265",
+    "hotelKanaName": "きぶねふじや",
+    "hotelSpecial": "貴船・川床の元祖【創業天保年間】貴船神社門前に佇み、洛北の四季を盛り込んだ川魚生簀料理が自慢。",
+    "hotelMinCharge": 37100,
+    "latitude": 126425.35,
+    "longitude": 488756.36,
+    "postalCode": "601-1112",
+    "address1": "京都府",
+    "address2": "京都市左京区鞍馬貴船町４０",
+    "telephoneNo": "075-741-2501",
+    "faxNo": "075-741-1389",
+    "access": "叡山電車鞍馬線　貴船口駅より徒歩２０分（送迎有り・事前予約不要。当日お電話いただければお迎えに参ります。）",
+    "parkingInformation": "無料・事前予約必須。道が非常に狭く渋滞が多々発生するため、公共交通機関のご利用をお勧めしております。",
+    "nearestStation": "貴船口",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/67265/67265.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/67265.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/67265/67265_ky.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/67265.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/67265/67265map.gif",
+    "reviewCount": 145,
+    "reviewAverage": 4.46,
+    "userReview": null
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 0,
+    "locationAverage": 0,
+    "roomAverage": 0,
+    "equipmentAverage": 0,
+    "bathAverage": 0,
+    "breakfastAverage": 4.77,
+    "dinnerAverage": 4.77,
+    "cleanlinessAverage": 4.45
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "kyoto",
+    "smallClassCode": "shi",
+    "areaName": "京都",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:30",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "17:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 8,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "ドライヤー(貸出)"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ(一部)"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "シャワーキャップの代わりにヘアゴムを用意しております。"
+      },
+      {
+        "item": "叡山電鉄「貴船口」より送迎あり（事前予約不要。当日お電話をいただければお迎えに参ります）"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "食事処"
+      },
+      {
+        "dinnerPlace": "食事処"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "大浴場"
+      }
+    ],
+    "aboutLeisure": null,
+    "handicappedFacilities": [],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "チェックインが予定時刻を過ぎる場合は必ずご連絡ください。,夕食の最終開始時刻18時を過ぎてのご到着は、お食事のご用意をいたしかねる場合がございます。,門限は２３時です。,貴船口駅より送迎有り（事前予約不要。当日お電話をいただければお迎えに参ります）,川床期間中、雨天（もしくは貴船川増水等で川床が使えない）の場合はお食事処でのお食事になります。,小学生のお料理は、お子様用に一部アレンジした内容となります。 お子様プレート等の対応はいたしかねますのであらかじめご了承ください。,京都市条例により2026年3月1日から1人1泊当り宿泊税を別途頂きます。（2万円未満：400円、2万円以上5万円未満：1000円、5万円以上10万円未満：4000円）,京都市条例により2026年3月1日から1人1泊当り宿泊税を別途頂きます。（2万円未満：400円、2万円以上5万円未満：1000円、5万円以上10万円未満：4000円）,当館では、小学生未満（未就学児）のお子様のご宿泊をご遠慮いただいております。環境の維持と安全面への配慮のため、何卒ご理解のほどよろしくお願い申し上げます。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の80％    <BR>2日前から           ：宿泊料金の50％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "囲碁無料貸出",
+    "otherInformation": "当館では、小学生未満（未就学児）のお子様のご宿泊をご遠慮いただいております。"
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 108575,
+    "hotelName": "古湯温泉　旅館　大和屋",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D108575",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D108575%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D108575",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D108575",
+    "hotelKanaName": "ふるゆおんせん　りょかん　やまとや",
+    "hotelSpecial": "深い緑の中どこか懐かしい宿。酒樽を用いた貸切露天、懐かしいレコードが流れる焼酎バーで心和む一時を。",
+    "hotelMinCharge": 11510,
+    "latitude": 120128.03,
+    "longitude": 468755.65,
+    "postalCode": "840-0501",
+    "address1": "佐賀県",
+    "address2": "佐賀市富士町古湯860",
+    "telephoneNo": "0952-58-2101",
+    "faxNo": "0952-58-2103",
+    "access": "佐賀大和ICよりお車にて15分、JR長崎本線佐賀駅→昭和バス乗車→古湯温泉前下車→徒歩2分",
+    "parkingInformation": "有り　１５台　無料　予約不要",
+    "nearestStation": null,
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108575/108575.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/108575.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108575/108575_ru.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/108575.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108575/108575map.gif",
+    "reviewCount": 311,
+    "reviewAverage": 4.67,
+    "userReview": "アットホームな雰囲気と絶品の棚田米に感動3泊4日で利用させていただきました。アットホームな感じで過ごしやすく、旅館の方もとても親しみやすい人たちばかりでした。建物は老舗感がものすごくあり、…　2026-08-15 18:58:25投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=108575\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.73,
+    "locationAverage": 4.48,
+    "roomAverage": 4.4,
+    "equipmentAverage": 4.36,
+    "bathAverage": 4.52,
+    "breakfastAverage": 4.81,
+    "dinnerAverage": 4.79,
+    "cleanlinessAverage": 4.61
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "saga",
+    "smallClassCode": "saga",
+    "areaName": "佐賀・古湯温泉",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "19:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 11,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "電話（内線のみ）、保温ポット"
+      },
+      {
+        "item": "送迎サービスはございません。"
+      },
+      {
+        "item": "喫茶"
+      },
+      {
+        "item": "ティーラウンジ"
+      },
+      {
+        "item": "バー"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "食事処"
+      },
+      {
+        "dinnerPlace": "食事処"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "アルカリ単純泉"
+      },
+      {
+        "bathBenefits": "美肌効果"
+      },
+      {
+        "bathBenefits": "リウマチ・神経病"
+      }
+    ],
+    "aboutLeisure": "ゴルフ,ハイキング,登山",
+    "handicappedFacilities": [],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "■入湯税150円（大人のお客様のみ）が、別途かかります。,■『幼児：食事・布団なし』のお子様は3歳未満に限らせていただきます。,■『幼児：食事・布団なし』のお子様の施設利用料￥1100（税込）※福寿の間は￥2200（税込）をいただいております。これは、宿にて怪我した場合の保険代の対応を考えてのことですのでご理解ください。,■中学生以上は大人料金になります。,■チェックインが予定時間を過ぎる場合必ずご連絡下さい。,■門限は24時（深夜12時）です。,■ご夕食の最終開始時間は18：30～となります。※19：00以降のチェックインにつきましてはご夕食の対応を致しかねます。ご了解の上、予約ください。,■客室まではエレベーターは無くすべて階段になりますが、この点をご理解の上でご予約下さい。,■質問や問い合わせがある場合には、宿へ直接お電話ください。0952‐58‐2101",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>2日��から           ：宿泊料金の30％    <BR>3日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "デビットカード"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": null
+  }
+}

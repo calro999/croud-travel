@@ -1,0 +1,180 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 39395,
+    "hotelName": "雲見温泉　松原荘＜静岡県＞",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D39395",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D39395%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D39395",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D39395",
+    "hotelKanaName": "くもみおんせん　まつばらそう＜しずおかけん＞",
+    "hotelSpecial": "あおり烏賊と磯料理、天然温泉かけ流し、海まで徒歩１分。漁師だからできるこだわりの料理をご提供！",
+    "hotelMinCharge": null,
+    "latitude": 124999.72,
+    "longitude": 499487.09,
+    "postalCode": "410-3615",
+    "address1": "静岡県",
+    "address2": "賀茂郡松崎町雲見366",
+    "telephoneNo": "0558-45-0232",
+    "faxNo": "0558-45-0232",
+    "access": "お車、東京東名-沼津I.C-修善寺・土肥経由１３６号線-雲見駐車場から徒歩２分　　電車、伊豆急下田駅バス-雲見バス停",
+    "parkingInformation": "車１０台無料先着順　駐車場から徒歩２分　　バイク要予約　屋根つき無料　徒歩１分",
+    "nearestStation": "伊豆急下田",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/39395/39395.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/39395.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/39395/39395_r3.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/39395.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/39395/39395map.gif",
+    "reviewCount": 75,
+    "reviewAverage": 0,
+    "userReview": null
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 0,
+    "locationAverage": 0,
+    "roomAverage": 0,
+    "equipmentAverage": 0,
+    "bathAverage": 0
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "shizuoka",
+    "smallClassCode": "nishi",
+    "areaName": "西伊豆・戸田・土肥・堂ヶ島",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "24:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 10,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "ファックス(貸出)"
+      },
+      {
+        "item": "インターネット接続(一部、無線LAN形式)"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫(一部)"
+      },
+      {
+        "item": "ドライヤー(貸出)"
+      },
+      {
+        "item": "電気スタンド"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "ＣＤプレイヤ－(貸出)"
+      },
+      {
+        "item": "洗浄機付トイレ(一部)"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "リンスインシャンプー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "湯沸かしポット(貸出)"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "部屋"
+      },
+      {
+        "breakfastPlace": "広間"
+      },
+      {
+        "dinnerPlace": "部屋"
+      },
+      {
+        "dinnerPlace": "広間"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "カルシウム泉"
+      },
+      {
+        "bathQuality": "ナトリウム泉"
+      },
+      {
+        "bathQuality": "塩風呂"
+      },
+      {
+        "bathBenefits": "打ち身"
+      },
+      {
+        "bathBenefits": "関節痛"
+      },
+      {
+        "bathBenefits": "五十肩"
+      }
+    ],
+    "aboutLeisure": "海水浴,釣り,海釣り,渓流釣り,カヌー,クルージング,ダイビング,テニス,ゲートボール,ゴルフ,ハイキング,乗馬,登山,水族館,美術館,山菜取り",
+    "handicappedFacilities": [],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "入湯税料お一人様150円は含まれておりません。（税金は大人料金から発生致します。）,乳幼児料金0歳-2歳以下は宿泊料無料となっております。2歳以上のお子様は幼児料金となります。,カーナビ設定して御越しになる方へ　雲見まで来ましたら、詳細マップを参照ください。松原荘駐車場はカーナビでは表示されません。,コース料金のお子様（小学生）は通常コースの料金となっております。大人と同じコースをご希望のお子様は大人でお申し込みください。,12月31日-1月3日は宿泊料金が1,080円上がります。,民家を改築して民宿を経営している為、防音において行き届かない点がございますが、ご理解、ご協力をお願い致します。,お風呂はシャワーが2頭、浴槽は2～3人程度で入浴できます。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>3日前から           ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "利用不可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "各お部屋には雲見歴史アルバムがございます。お部屋でのお楽しみに。,モーニングコーヒーサービス,お部屋で緑茶サービス,着替え浴衣サービス",
+    "otherInformation": "★ご注意★　松原荘はカーナビでは表示されません。詳細マップをご参照し御越し下さい。"
+  }
+}

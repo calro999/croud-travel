@@ -1,0 +1,116 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 193894,
+    "hotelName": "琴ノ宿Ｃｈｉｚｕ　１棟貸しのスイート　準天然温泉とサウナで贅沢なひとときを。　＾",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D193894",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D193894%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D193894",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D193894",
+    "hotelKanaName": null,
+    "hotelSpecial": "観光で大人気の琴平に佇む癒しの宿！",
+    "hotelMinCharge": 7540,
+    "latitude": 123070.27,
+    "longitude": 481778.9,
+    "postalCode": "766-0004",
+    "address1": "香川県",
+    "address2": "仲多度郡琴平町榎井753-2　琴ノ宿Ｃｈｉｚｕ",
+    "telephoneNo": "0875-89-1774",
+    "faxNo": "000-000-0000",
+    "access": "琴平駅から徒歩で約３分",
+    "parkingInformation": "有り",
+    "nearestStation": "琴平",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/193894/193894.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/193894.jpg",
+    "roomImageUrl": null,
+    "roomThumbnailUrl": null,
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/193894/193894map.gif",
+    "reviewCount": 1,
+    "reviewAverage": null,
+    "userReview": null
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": null,
+    "locationAverage": null,
+    "roomAverage": null,
+    "equipmentAverage": null,
+    "bathAverage": null
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "kagawa",
+    "smallClassCode": "kotohira",
+    "areaName": "琴平・観音寺",
+    "hotelClassCode": "PENSION",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "18:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 1,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "インターネット接続(LAN形式)"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "石鹸（固形）"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "ハミガキセット"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "キッチン/調理器具/食器/洗濯機/乾燥機/電子レンジ/エアコン"
+      },
+      {
+        "item": "※部屋によって設備が変わる場合がございます。あらかじめ宿泊施設へご確認ください。"
+      },
+      {
+        "item": "バーベキューガーデン"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      }
+    ],
+    "aboutLeisure": null,
+    "handicappedFacilities": [],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": null,
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>4日前から           ：宿泊料金の100％   ",
+    "availableCreditCard": [
+      {
+        "card": "利用不可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": null
+  }
+}

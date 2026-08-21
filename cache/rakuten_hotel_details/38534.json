@@ -1,0 +1,286 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 38534,
+    "hotelName": "深山荘　高見屋",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D38534",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D38534%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D38534",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D38534",
+    "hotelKanaName": "みやまそう　たかみや",
+    "hotelSpecial": "〜名湯一門　高見屋〜創業300年の歴史を誇る老舗旅館。純和風建築に滞在する非日常の時間。",
+    "hotelMinCharge": 22000,
+    "latitude": 137397.58,
+    "longitude": 505443.98,
+    "postalCode": "990-2301",
+    "address1": "山形県",
+    "address2": "山形市蔵王温泉54",
+    "telephoneNo": "023-610-9602",
+    "faxNo": "023-694-2166",
+    "access": "ＪＲ　山形駅よりバスで４０分／山形自動車道　山形蔵王ＩＣから車で約１３ＫＭ、東北中央自動車道　山形上山ＩＣから１１ｋｍ　",
+    "parkingInformation": "２０台無料、蔵王温泉にお着きの際に案内いたします、当館へお電話をいただきますようにお願いします。",
+    "nearestStation": "山形",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38534/38534.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/38534.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38534/38534_room.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/38534.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38534/38534map.gif",
+    "reviewCount": 691,
+    "reviewAverage": 4.57,
+    "userReview": "細やかな気遣いとアレルギー対応に感謝些細な気遣いがとても良かったです!人も少なく食事や温泉もとてものんびりできてよかったです。急なアレルギー対応もありがとうございました。クチコミの詳細…　2026-08-15 19:59:32投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=38534\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.65,
+    "locationAverage": 4.43,
+    "roomAverage": 4.42,
+    "equipmentAverage": 4.38,
+    "bathAverage": 4.65,
+    "breakfastAverage": 4.6,
+    "dinnerAverage": 4.68,
+    "cleanlinessAverage": 4.53
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "yamagata",
+    "smallClassCode": "yamagata",
+    "areaName": "山形・蔵王・天童・上山",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "24:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 19,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "変圧器（貸出）"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "おふろセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "湯沸かしポット(貸出)"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "エステサロン"
+      },
+      {
+        "item": "コネクティングルーム（一部・要予約）"
+      },
+      {
+        "item": "スキー乾燥室"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "食事処"
+      },
+      {
+        "breakfastPlace": "ダイニングルーム"
+      },
+      {
+        "dinnerPlace": "食事処"
+      },
+      {
+        "dinnerPlace": "ダイニングルーム"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "硫黄泉"
+      },
+      {
+        "bathQuality": "カルシウム・マグネシウム硫酸塩泉"
+      },
+      {
+        "bathQuality": "酸性明ばん泉"
+      },
+      {
+        "bathBenefits": "胃腸病"
+      },
+      {
+        "bathBenefits": "皮膚病"
+      },
+      {
+        "bathBenefits": "リウマチ・神経病"
+      }
+    ],
+    "aboutLeisure": "歴史と文化の美術館（わらべの里）,釣り,カヌー,テニス,サッカー,ハンググライダー,サイクリング,ハイキング,スキー,クロスカントリー,乗馬,トレッキング,登山",
+    "handicappedFacilities": [
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "高齢者用料理への対応可能"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      },
+      {
+        "item": "施設スタッフによる介助・補助対応が可能"
+      }
+    ],
+    "linguisticLevel": "中国語：少し分かるスタッフが数人いる。<BR>英語：少し分かるスタッフが数人いる。<BR>韓国語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "入湯税が別途必要です（お一人様１５０円）,チェックインが１８：００以降の場合は必ずご連絡下さい。,料理の中で召し上がることのできないものがあれば、ご連絡下さい。,１２歳以下のお子様はお受入れしておりません。,事前に確認の上、ご予約をお願い致します。,せせらぎの湯　改装工事のご案内  お客様　各位 いつも深山荘　高見屋をご愛顧賜り、厚く御礼を申し上げます。 下記の期間、当館の離庵山水棟、1階の温泉浴場の「せせらぎの湯」の改装工事を行います。,工事期間　2026年6月1日（月）から　2026年6月26日（金）26日間  温泉浴場内部の脱衣室および洗い場の改装工事を行う為 通常男性と女性の2か所をご利用いただいておりますが、 工事に伴い、,1か所のみ利用可能とさせていただき、時間帯により男性と女性を入れ替えてご利用いただきます。  なお、本館1階の「長寿の湯」は通常通り、2か所を男性・女性ともに終日（毎晩23：30に男女入れ替え）,対象期間中にご宿泊のお客様におかれまして、ご不便をお掛けする事と思われますが、お客様のお寛ぎの時間を大切に考え、今まで以上におもてなしをさせていただきますので、ご了承をいただけますよう何卒宜しくお願い,何卒宜しくお願い申し上げます。 また、工事に関しましては安全・安心にご利用頂けるよう、細心の注意を払いながら作業を進めてまいります。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の80％    <BR>3日前から           ：宿泊料金の50％    <BR>7日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "JTB"
+      },
+      {
+        "card": "ANA"
+      },
+      {
+        "card": "JAL"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "ウェルカムドリンクサービス,お部屋で緑茶サービス,着替え浴衣サービス",
+    "otherInformation": "お風呂は貸切風呂もあります。泉質は強酸性の硫黄泉のため、貴金属��黒くなる場合があります。,館内にはカラオケ設備　自動販売機等は、ございません。ごゆっくりお過ごしくださいませ。,全館　禁煙です。"
+  }
+}

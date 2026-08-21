@@ -1,0 +1,246 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 1516,
+    "hotelName": "ホテル　港屋＜高知県＞",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D1516",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D1516%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D1516",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D1516",
+    "hotelKanaName": "みなとや　　",
+    "hotelSpecial": "高知駅徒歩3分の好立地で『上質なベッド』・『大浴場』・『平面駐車場』が唯一揃う親切なホテルです♪",
+    "hotelMinCharge": 3220,
+    "latitude": 120822.55,
+    "longitude": 480774.3,
+    "postalCode": "780-0054",
+    "address1": "高知県",
+    "address2": "高知市相生町2-12",
+    "telephoneNo": "088-883-6000",
+    "faxNo": "088-883-6229",
+    "access": "◎ＪＲ高知駅より徒歩3分◎高知ICより車で約10分◎高知空港より車で30分◎はりまや橋まで徒歩10分◎",
+    "parkingInformation": "平面駐車場 37台／先着順／1泊700円（バイク・大型車は別料金）／車高制限なし／大型は事前連絡必須",
+    "nearestStation": "高知",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1516/1516.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/1516.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1516/1516_en.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/1516.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1516/1516map.gif",
+    "reviewCount": 2407,
+    "reviewAverage": 4,
+    "userReview": "サウナがあるからお気に入りサウナあるから好きクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/1516?reviewI…　2026-08-13 18:06:06投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=1516\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.09,
+    "locationAverage": 3.97,
+    "roomAverage": 3.82,
+    "equipmentAverage": 3.8,
+    "bathAverage": 4.05,
+    "breakfastAverage": 3.94,
+    "cleanlinessAverage": 3.89
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "kouchi",
+    "smallClassCode": "kouchi",
+    "areaName": "高知・南国・香南・伊野",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "24:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 94,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(LAN形式)"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "リンスインシャンプー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "★スキンケアセットパウチタイプ（クレンジング・洗顔・化粧水・乳液）をご準備しております。"
+      },
+      {
+        "item": "★無料でインターネット接続（LAN、無線LAN）を利用いただけます。"
+      },
+      {
+        "item": "★自転車・電気スタンド・アイロン・ズ���ンプレッサー・加湿器貸し出し出来ます。"
+      },
+      {
+        "item": "多目的室"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "貸自転車"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "パソコン利用可"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "食事処"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "水風呂"
+      }
+    ],
+    "aboutLeisure": "★当ホテルは土佐山田ゴルフ倶楽部のアドバイザリーホテルであり、又県内ゴルフ場の手配出来ます。,海水浴,海釣り,ウィンドサーフィン,テニス,ゴルフ,乗馬,陸上競技,遊園地,動物園,水族館,フラワーパーク,美術館",
+    "handicappedFacilities": [
+      {
+        "item": "館内の点字案内"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "当日お客様とご連絡できる電話番号をお知らせ下さい,駐車場をご利用のお客様は宿泊氏名（名の欄）の後に　くるま　とご記入願います,禁煙ルーム希望のお客様は宿泊氏名（名の欄）の後に　きんえん　とご記入願います",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "Bank Card"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "JTB"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "お部屋で緑茶サービス,着替え浴衣サービス",
+    "otherInformation": null
+  }
+}

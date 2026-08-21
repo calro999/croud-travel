@@ -1,0 +1,304 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 19786,
+    "hotelName": "箱根湯本温泉　女性に優しい癒しの宿　ホテルマイユクール祥月",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D19786",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D19786%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D19786",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D19786",
+    "hotelKanaName": "はこねゆもとおんせん　じょせいにやさしいいやしのやど　ほてるまいゆくーるしょうげつ",
+    "hotelSpecial": "◆全室禁煙、女性に優しい美肌の湯が自慢の縁結びの宿",
+    "hotelMinCharge": 8500,
+    "latitude": 126815.62,
+    "longitude": 500778.43,
+    "postalCode": "250-0311",
+    "address1": "神奈川県",
+    "address2": "足柄下郡箱根町湯本468-1",
+    "telephoneNo": "0460-85-5748",
+    "faxNo": "0460-85-8245",
+    "access": "箱根湯本駅下車徒歩１２分／小田原厚木道路箱根口ＩＣから2ｋｍ　箱根神社約40分／箱根ターンパイク約10分",
+    "parkingInformation": "有り　２０台　先着順",
+    "nearestStation": "箱根湯本",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19786/19786.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/19786.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19786/19786_ky.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/19786.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19786/19786map.gif",
+    "reviewCount": 6588,
+    "reviewAverage": 4.55,
+    "userReview": "期待を超えるおもてなしと料理に感動今回も心から満足できる滞在でした。何度か利用させていただいていますが、毎回こちらの期待を超えるおもてなしに感動します。特に素晴らしいと感じるのはス…　2026-08-14 11:32:30投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=19786\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.59,
+    "locationAverage": 4.24,
+    "roomAverage": 4.46,
+    "equipmentAverage": 4.41,
+    "bathAverage": 4.5,
+    "breakfastAverage": 4.6,
+    "dinnerAverage": 4.63,
+    "cleanlinessAverage": 4.55
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "kanagawa",
+    "smallClassCode": "hakone",
+    "areaName": "箱根",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "24:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 40,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "電気スタンド"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "ＣＤプレイヤ－(貸出)"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "湯沸かしポット(貸出)"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "もみほぐし整体　「エレガンスマイユ」　1階　１４：００〜23：00（水・木定休　完全予約制）"
+      },
+      {
+        "item": "心とからだのリラクゼーションで「癒」のひとときをお過ごし下さい。"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "ラウンジ"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "エステサロン"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathType": "ジャグジー"
+      },
+      {
+        "bathQuality": "弱アルカリ単純泉"
+      },
+      {
+        "bathBenefits": "美肌効果"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      },
+      {
+        "bathBenefits": "婦人病"
+      }
+    ],
+    "aboutLeisure": "海釣り,渓流釣り,ゴルフ,ハイキング,トレッキング,登山,博物館,水族館,フラワーパーク,テーマパーク,美術館",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "大浴場浴槽に手すりあり"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      }
+    ],
+    "linguisticLevel": "英語：日常的な内容は問題のないスタッフが大半である。"
+  },
+  "hotelPolicyInfo": {
+    "note": "1.　宿泊料金は、サービス料、消費税込みの金額です。 また表示料金の他、大人様のみ入湯税が別途150円発生いたします。,2.   ご朝食はバイキングでのご用意です。7:00～8:50の間でお時間を5部制に分けてご案内しております。,3.　御夕食の最終時間は午後８時30分となります。ご到着が午後８時３０分を越えた場合はご夕食をお断りする場合もございますのでご了承ください。,4.　50％のご料金のお子様のお食事はお子様ランチでのご用意となります。,5.　お電話ではキャンセルをお受けしておりませんので、ご宿泊をキャンセルされる場合はネット上でのキャンセル処理をお願い致します。,6.  館内は全室、禁煙となります。お部屋で喫煙された場合はクリーニング代を請求させていただきます。,7.　年末年始（12／29～1／3）、お盆期間（8／9～16）、GW（4／27～5／5）につきましては１０日前よりキャンセル料が発生いたします。,8.　温泉は大浴場のみとなります。タトゥー、刺青のお客様、おむつの取れていないお子様の大浴場のご利用はご遠慮いただいております。,9.　 お食事の好き嫌いやアレルギーのご対応につきましては、ご対応内容により別途費用が発生する場合がございます。,10.　台風などの天候不良時については公共交通機関が動いている場合や道路が通行可能な場合は通常のキャンセル料が発生致します。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の70％    <BR>3日前から           ：宿泊料金の50％    <BR>5日前から           ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "OMC"
+      },
+      {
+        "card": "Bank Card"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "CF"
+      },
+      {
+        "card": "楽天カード"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "ウェルカムドリンクサービス,将棋無料貸出",
+    "otherInformation": "温泉は大浴場のみとなります。大浴場はタトゥー、刺青の方、オムツ使用のお子様はお断りをしております。,宿泊料金の他に大人様のみ別途入湯税が150円発生いたします。,ご夕食時間は17：30or19：45の二部制でのご用意となります。"
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 8265,
+    "hotelName": "下田温泉　下田大和館",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D8265",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D8265%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D8265",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D8265",
+    "hotelKanaName": "しもだおんせん　しもだやまとかん",
+    "hotelSpecial": "すべての客室を全面禁煙とさせていただきます。館内の喫煙所をご利用くださいませ。",
+    "hotelMinCharge": 11000,
+    "latitude": 124771.54,
+    "longitude": 500171.76,
+    "postalCode": "415-0028",
+    "address1": "静岡県",
+    "address2": "下田市吉佐美2048",
+    "telephoneNo": "0558-22-1000",
+    "faxNo": "0558-22-2940",
+    "access": "車：新東名長泉沼津IC～伊豆縦貫道～R414～下田駅通過後R136を南下約2.6ｋm　電車：伊豆急下田駅(送迎有)",
+    "parkingInformation": "有り　80台　無料",
+    "nearestStation": "伊豆急下田",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8265/8265.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/8265.jpg",
+    "roomImageUrl": null,
+    "roomThumbnailUrl": null,
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8265/8265map.gif",
+    "reviewCount": 1783,
+    "reviewAverage": 4.51,
+    "userReview": "金額の割に高級感が足りず少し残念急遽の空きで予約したので、仕方ないのかもしれないですが、金額的には、もう少し高級感があって欲しかったです。クチコミの詳細はこちらから　https://revie…　2026-08-16 00:04:58投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=8265\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.63,
+    "locationAverage": 4.68,
+    "roomAverage": 4.4,
+    "equipmentAverage": 4.2,
+    "bathAverage": 4.5,
+    "breakfastAverage": 4.47,
+    "dinnerAverage": 4.51,
+    "cleanlinessAverage": 4.44
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "shizuoka",
+    "smallClassCode": "shimoda",
+    "areaName": "下田・南伊豆",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "18:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 60,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "洗顔ソープ"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "貸切露天風呂「スパヴィラ｣は、事前・当日予約を承ります。"
+      },
+      {
+        "item": "ラウンジ"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "湯上がりサロン"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "プール(夏期のみ)"
+      },
+      {
+        "item": "ゲームコーナー"
+      },
+      {
+        "item": "卓球"
+      },
+      {
+        "item": "コネクティングルーム（一部・要予約）"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "部屋"
+      },
+      {
+        "breakfastPlace": "ダイニングルーム"
+      },
+      {
+        "dinnerPlace": "部屋"
+      },
+      {
+        "dinnerPlace": "ダイニングルーム"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathQuality": "単純温泉"
+      },
+      {
+        "bathBenefits": "運動機能障害"
+      },
+      {
+        "bathBenefits": "美肌効果"
+      },
+      {
+        "bathBenefits": "腰痛"
+      }
+    ],
+    "aboutLeisure": "海水浴,海釣り,カヌー,クルージング,ダイビング,ゴルフ,ハイキング,乗馬,水族館,フラワーパーク,美術館,しいたけ狩り",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "バリアフリールーム"
+      },
+      {
+        "item": "車椅子利用者用客室あり"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      }
+    ],
+    "linguisticLevel": "英語：日常的な内容は問題のないスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "すべての客室(テラス含)を禁煙とさせていただきます。館内の喫煙所をご利用くださいませ。,大浴場・露天風呂および貸切風呂のご利用は、階段を１階分昇降しなくてはなりません。(客室階まではエレベーターがございます),夕食の最終スタート時間は18：30でございます。1泊2食のお客様は18：00迄にチェックインして下さい。,ご到着が遅れ夕食のご提供が出来ない場合も、宿泊料金の減額及び返金は出来ません。,刺青(ファッションタトゥー含む)をされた方の、大浴場・露天風呂および夏季営業プールのご利用はご遠慮いただいております。,宿泊料金以外に、大人のみ別途入湯税１５０円を現地にてお支払いいただきます。(事前カード決済含む),当館エレベーターは１台のみになっておりお部屋の場所によりエレベーターから遠い場合がございます。,キャンセル料の設定は4/27～5/6・7/13～9/8・12/29～1/3が14日前から、その他の日付は5日前からキャンセル料がかかります。,マイクロバスは14：30～17：00の間　毎時00分と30分で下田駅より出ております。17：00以降のご到着はタクシーをご利用いただいております。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>3日前から           ：宿泊料金の30％    <BR>5日前か���           ：宿泊料金の10％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "Master Card"
+      }
+    ],
+    "aboutCreditCardNote": "１回払いのみとなります。また旅行会社・カード会社発行のギフト券は当館ではお使い頂けません。",
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "当館スタッフによる介助は行っておりません。必ず介助者とご宿泊くださいますようお願い申し上げます。,湯上がりサロンでのお茶サービス",
+    "otherInformation": "夕食の最終スタート時間は18:30です。以降の到着は保健所の指導によりご夕食の提供は致しかねます。,大浴場・貸切露天風呂は階段を１階分昇降していただかなくてはなりません。,すべての客室を全面禁煙とさせていただきます。館内の喫煙所をご利用くださいませ。"
+  }
+}

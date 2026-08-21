@@ -1,0 +1,183 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 68615,
+    "hotelName": "ホテルつかさ舞鶴",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D68615",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D68615%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D68615",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D68615",
+    "hotelKanaName": "つかさまいづる",
+    "hotelSpecial": "２０２２年１２月全室リニューアル！　隣接するふじつ温泉で様々な特典有り。",
+    "hotelMinCharge": 5500,
+    "latitude": 127603.89,
+    "longitude": 487017.78,
+    "postalCode": "624-0951",
+    "address1": "京都府",
+    "address2": "舞鶴市上福井1576",
+    "telephoneNo": "0773-76-8686",
+    "faxNo": "0773-75-7371",
+    "access": "京都丹後鉄道（ＫＴＲ）　四所駅より徒歩にて２０分",
+    "parkingInformation": "８５台可　普通車無料（大型トラック、バス除く）　予約不要　ジェットスキーなど牽引車両も別途料金必要。",
+    "nearestStation": "四所",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/68615/68615.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/68615.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/68615/68615_si.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/68615.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/68615/68615map.gif",
+    "reviewCount": 241,
+    "reviewAverage": 3.85,
+    "userReview": "安くて温泉もあり、また利用したい素泊まりで、目的地近く、安さで選びました。古さや安さなりのサービスではありましたが、フロントの方の接客もよく、温泉にも入れたし、コンビニも近くにあり、何の不自由もな…　2026-08-11 23:06:53投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=68615\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 3.71,
+    "locationAverage": 3.46,
+    "roomAverage": 3.75,
+    "equipmentAverage": 3.59,
+    "bathAverage": 3.93,
+    "breakfastAverage": 3.8,
+    "dinnerAverage": 4,
+    "cleanlinessAverage": 3.75
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "kyoto",
+    "smallClassCode": "miyazu",
+    "areaName": "天橋立・宮津・舞鶴",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "16:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "24:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 82,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "ＣＳ放送"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー(貸出)"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（固形）"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "湯沸かしポット(貸出)"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "ファックス送信には手数料と別途通信料がかかります。"
+      },
+      {
+        "item": "全館フリーWi-Fi利用可。各室ボックスティッシュあり。"
+      },
+      {
+        "item": "1Fロビーは完全禁煙、フロアごとの分煙制となっております。"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "貸自転車"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "食事処"
+      },
+      {
+        "dinnerPlace": "食事処"
+      }
+    ],
+    "aboutBath": [],
+    "aboutLeisure": "海水浴,釣り",
+    "handicappedFacilities": [
+      {
+        "item": "客室内トイレに手すりあり"
+      },
+      {
+        "item": "施設スタッフによる介助・補助対応が可能"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "チェックインの予定時刻を過ぎる場合は、必ずご連絡をお願い致します。,門限は２４時です。,楽天トラベルサイトを通しての宿泊日数追加延長に付きましては、出来る限りそのお客様に同じルームをしようして頂くため、その処理をされました後、フロント係にもその旨、ご連絡頂きます様宜しくお願い致します。,連泊のお客様につきましてのデイユースは原則対応しておりません。,ふじつ温泉の入浴に関しましては閉館21：00になっておりますのでご了承下さい。,※毎週月曜日はふじつ温泉定休日のため、大浴場での入浴は出来ません。,（各部屋にユニットバスが完備されております）,事前カード決済の予約をキャンセルされる場合は、お客様ご自身で行っていただきますようお願いします。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>3日前から           ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": "※オンラインカード決済で利用可能なクレジットカードとは異なる場合がございます",
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "禁煙室で喫煙された場合は、いかなる理由におきましても、「退出」して頂き、,特別清掃料と販売停止費用として「15万円」をお支払い頂きます。,予約者と宿泊者が異なる場合は必ず宿泊者にお伝え下さい。"
+  }
+}

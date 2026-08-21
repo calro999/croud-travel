@@ -1,0 +1,252 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 38870,
+    "hotelName": "湯の川温泉　源泉掛け流しの宿　ホテルかもめ館",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D38870",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D38870%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D38870",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D38870",
+    "hotelKanaName": "ゆのかわおんせん　げんせんかけながしのやど　ほてるかもめかん",
+    "hotelSpecial": "泉質自慢の宿。源泉掛け流し100％でお肌すべすべ♪駐車場無料。ビジネス、ひとり旅も歓迎します♪",
+    "hotelMinCharge": 4700,
+    "latitude": 150383.1,
+    "longitude": 506839.12,
+    "postalCode": "042-0932",
+    "address1": "北海道",
+    "address2": "函館市湯川町1-5-18",
+    "telephoneNo": "0138-59-2020",
+    "faxNo": "0138-59-1234",
+    "access": "ＪＲ　函館駅より湯の川行き市電で３０分、車で約１５分、函館空港より車で１０分圏内。",
+    "parkingInformation": "有り（40台まで）２ｔトラックと小型バス1000円＊ 大型バス駐車不可",
+    "nearestStation": "函館",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38870/38870.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/38870.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38870/38870_tw.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/38870.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38870/38870map.gif",
+    "reviewCount": 596,
+    "reviewAverage": 4.21,
+    "userReview": "当日予約でも親切な対応、温泉も最高でした当日予約の素泊まりですが大変対応が良く、温泉も中々熱いが慣れるととっても気持ちよかったです。バス停からも近くて便利でした。クチコミの詳細はこちらから…　2026-08-12 18:35:48投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=38870\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.21,
+    "locationAverage": 4.13,
+    "roomAverage": 3.88,
+    "equipmentAverage": 3.89,
+    "bathAverage": 4.3,
+    "breakfastAverage": 4.17,
+    "dinnerAverage": 4.1,
+    "cleanlinessAverage": 4.13
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "hokkaido",
+    "smallClassCode": "hakodate",
+    "areaName": "函館・湯の川・大沼・奥尻",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "23:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 56,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(LAN形式)"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "洗浄機付トイレ(一部)"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "リンスインシャンプー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "館内１階にコインランドリー1台あります。"
+      },
+      {
+        "item": "１階男女トイレにウォシュレットが付きました。※客室（和室）は水洗式となります（一部洋室も）"
+      },
+      {
+        "item": "岩盤浴　宿泊者は８００円でご利用できます（日帰りのお客様は１３００円となります）"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathType": "岩盤浴"
+      },
+      {
+        "bathQuality": "塩化物泉"
+      },
+      {
+        "bathQuality": "ナトリウム・カルシウム塩化物泉"
+      },
+      {
+        "bathQuality": "ナトリウム泉"
+      },
+      {
+        "bathBenefits": "神経痛"
+      },
+      {
+        "bathBenefits": "美肌効果"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      }
+    ],
+    "aboutLeisure": "海水浴,釣り,海釣り,ゴルフ,登山,美術館",
+    "handicappedFacilities": [],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "入湯税１泊に付きお１人様１0０円、その他宿泊税も別途頂戴しております。,駐車場有り。小型トラック、小型バス1000円。、,ご精算は前金制でございます。,０歳～小学校就学前のお子様はお１人に付き添い寝料金１１００円を頂戴致しております。,夕食付きの場合は、チェックイン時間��20時迄となっております。,温泉入浴時間は午前5：30～9：30、午後13：00～23：00迄となっております。,禁煙、喫煙希望のお客様は要望欄へご記入下さい。対応出来かねる場合は連絡致します。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の80％    <BR>3日前から           ：宿泊料金の50％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "宿泊のお客様岩盤浴通常１，３００円が会員様価格特価８００円で入浴できます。,モーニングコーヒーサービス",
+    "otherInformation": "朝食7：00〜9：00まで（8：30迄にお入り下さい）,夕食17：00〜21：00まで（20：00迄にお入り下さい）,温泉利用時間変更有　午前5：30〜9：30　午後13：00〜23：00"
+  }
+}

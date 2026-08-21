@@ -1,0 +1,159 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 55901,
+    "hotelName": "平山温泉　旅館　かどや＜熊本県＞",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D55901",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D55901%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D55901",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D55901",
+    "hotelKanaName": "かどや　くまもとけん",
+    "hotelSpecial": "「泉質が素晴らしい」と評判のお湯は24時間100％源泉掛け流し！半露天風呂付き客室もある家族経営の宿",
+    "hotelMinCharge": 9850,
+    "latitude": 118965.28,
+    "longitude": 470358.21,
+    "postalCode": "8610556",
+    "address1": "熊本県",
+    "address2": "山鹿市平山282-1",
+    "telephoneNo": "0968-43-3203",
+    "faxNo": "0968-43-5941",
+    "access": "ＪＲ鹿児島本線　玉名駅より車で４０分／九州道南関ＩＣ又は菊水ＩＣより２０分",
+    "parkingInformation": "有り　20台　無料　予約不要",
+    "nearestStation": "玉名",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/55901/55901.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/55901.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/55901/55901_k.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/55901.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/55901/55901map.gif",
+    "reviewCount": 177,
+    "reviewAverage": 3.93,
+    "userReview": "建物が古く空調が弱く虫も多め全体的に古い建物だったのと、屋内のエアコンが効いていないため、建物移動中はとても暑かった。山の中でやむを得ないが虫が多い。夕食と朝食は特別なものはないが、それな…　2026-07-12 12:31:30投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=55901\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 3.7,
+    "locationAverage": 3.7,
+    "roomAverage": 3.73,
+    "equipmentAverage": 3.53,
+    "bathAverage": 4.43,
+    "breakfastAverage": 3.61,
+    "dinnerAverage": 3.88,
+    "cleanlinessAverage": 3.93
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "kumamoto",
+    "smallClassCode": "kikuchi",
+    "areaName": "大津・玉名・山鹿・荒尾・菊池",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "18:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 13,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー(貸出)"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "広間"
+      },
+      {
+        "dinnerPlace": "個室"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "単純硫黄泉"
+      },
+      {
+        "bathBenefits": "冷え性"
+      },
+      {
+        "bathBenefits": "美肌効果"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      }
+    ],
+    "aboutLeisure": "テニス,ゴルフ,博物館,山菜取り",
+    "handicappedFacilities": [],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "※別途入湯税150円をいただいております。,※外国語対応不可（We have no staff who speak English.),※24時間掛け流しですが、22時頃～2時間ほど清掃のお時間を頂戴する場合���ございます。予めご了承ください。,※3歳未満で添い寝・食事なしのお子様は【無料】となります。予約時に【＜食事・寝具なし＞を選択せずに】備考欄にて、人数をお知らせいただけますようお願い申し上げます。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>2日前から           ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "将棋無料貸出,囲碁無料貸出",
+    "otherInformation": null
+  }
+}

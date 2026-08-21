@@ -1,0 +1,391 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 1173,
+    "hotelName": "白馬東急ホテル",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D1173",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D1173%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D1173",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D1173",
+    "hotelKanaName": "はくば　とうきゅうほてる",
+    "hotelSpecial": "広い客室と2つのレストラン、バー、エステ、温泉浴場完備の正統派山岳リゾート。駅やゲレンデ無料送迎あり",
+    "hotelMinCharge": 13590,
+    "latitude": 132133.25,
+    "longitude": 496232.37,
+    "postalCode": "399-9301",
+    "address1": "長野県",
+    "address2": "北安曇郡白馬村北城4688",
+    "telephoneNo": "0261-72-3001",
+    "faxNo": "0261-72-5349",
+    "access": "白馬駅からお車で約8分。白馬八方バスターミナルからお車で約3分。送迎はご到着の1時間前までにご依頼ください。",
+    "parkingInformation": "有り 約70台無料。EV充電器2台分ございます。",
+    "nearestStation": "白馬",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1173/1173.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/1173.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1173/1173_twn.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/1173.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1173/1173map.gif",
+    "reviewCount": 436,
+    "reviewAverage": 4.76,
+    "userReview": "スタッフの丁寧な対応と綺麗な山間の環境スタッフの方は非常に丁寧で、ホテルも綺麗で、山に囲まれ癒されました。何といっても温泉のお湯が良かったです。クチコミの詳細はこちらから　https://…　2026-08-15 20:58:40投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=1173\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.64,
+    "locationAverage": 4.74,
+    "roomAverage": 4.68,
+    "equipmentAverage": 4.59,
+    "bathAverage": 4.49,
+    "breakfastAverage": 4.68,
+    "dinnerAverage": 4.61,
+    "cleanlinessAverage": 4.74
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "nagano",
+    "smallClassCode": "hakuba",
+    "areaName": "白馬・八方尾根・栂池高原・小谷",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "24:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 101,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送"
+      },
+      {
+        "item": "衛星放送（無料）"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "エクステンションベッド"
+      },
+      {
+        "item": "ベビーベッド"
+      },
+      {
+        "item": "石鹸（固形）"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "パジャマ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "※サウナは男性のみ。大浴場にタオルはございません、お部屋から持参ください。ドライヤーは設置あり。"
+      },
+      {
+        "item": "※冬季は積雪状況により露天風呂を閉鎖する場合もございます、ご了承ください。"
+      },
+      {
+        "item": "※テニスコートは概ねGW頃から11月中旬の休館前まで。※期間中でも積雪があればご利用になれません。"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "バーラウンジ"
+      },
+      {
+        "item": "バー"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "エステサロン"
+      },
+      {
+        "item": "フィットネスクラブ"
+      },
+      {
+        "item": "テニスコート"
+      },
+      {
+        "item": "貸スキー"
+      },
+      {
+        "item": "貸スキーウェア"
+      },
+      {
+        "item": "貸スノーボード"
+      },
+      {
+        "item": "貸自転車"
+      },
+      {
+        "item": "コネクティングルーム（一部・要予約）"
+      },
+      {
+        "item": "スキー乾燥室"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン"
+      },
+      {
+        "breakfastPlace": "食堂"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      },
+      {
+        "dinnerPlace": "食堂"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "弱アルカリ単純泉"
+      },
+      {
+        "bathBenefits": "筋肉痛"
+      },
+      {
+        "bathBenefits": "美肌効果"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      }
+    ],
+    "aboutLeisure": "八方尾根、岩岳、五竜、栂池高原など高山植物やダイナミックな山並み、紅葉を楽しめます。冬はスキー三昧！,渓流釣り,カヌー,渓流下り,テニス,パラグライダー,熱気球,サイクリング,ハイキング,スキー,クロスカントリー,トレッキング,登山,フラワーパーク,美術館,山菜取り",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "大浴場浴槽に手すりあり"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": "英語：日常的な内容は問題のないスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "■お部屋や階層の指定は受けかねます。予めご了承下さい。,■白馬東急ホテルの客室は全室禁煙となります。お煙草は指定の喫煙スペースで願いします。,■食物アレルギーをお持ちの方は、必ず事前にご連絡ください。直前申告の場合、対応しかねる場合がございます。,■館内施設の営業内容を一部変更しております。最新情報は公式HPをご確認ください。,※※※冬季営業前の定期メンテナンス休館について（毎年実施）※※※,2025年11月10日（月）～12月12日（金）迄、全館休館となります（※ご宿泊は12月13日から可能）。,2026年6月16日（火）～6月26日（金）、2026年11月16日（月）～12月11日（金）迄、全館休館となります。（※ご宿泊は6月27日・12月12日から可能）。,休館期間中も電話受付はいたします（9：00～17：00）。,2026年6月1日（月）から長野県宿泊税が導入されます。,大人の方は1泊おひとり様あたり150円の入湯税が発生いたします。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>2日前から           ：宿泊料金の30％    <BR>3日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "OMC"
+      },
+      {
+        "card": "Bank Card"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "AEON"
+      },
+      {
+        "card": "CF"
+      },
+      {
+        "card": "LIFE"
+      },
+      {
+        "card": "ORICO"
+      },
+      {
+        "card": "TOP"
+      },
+      {
+        "card": "View"
+      },
+      {
+        "card": "JTB"
+      },
+      {
+        "card": "Daimaru"
+      },
+      {
+        "card": "Takashimaya"
+      },
+      {
+        "card": "ANA"
+      },
+      {
+        "card": "JAS"
+      },
+      {
+        "card": "JAL"
+      },
+      {
+        "card": "MEDIA"
+      },
+      {
+        "card": "デビットカード"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "掲載料金以外に別途入湯税（大人おひとり様150円）がかかります,掲載料金以外に別途宿泊税が発生します（2026年6月1日宿泊から）"
+  }
+}

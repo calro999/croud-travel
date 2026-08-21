@@ -1,0 +1,265 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 13871,
+    "hotelName": "美又温泉　かめや旅館＜島根県＞",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D13871",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D13871%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D13871",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D13871",
+    "hotelKanaName": "みまたおんせん　かめやりょかん＜しまねけん＞",
+    "hotelSpecial": "ｐＨ9.3、メタケイ酸豊富な肌再生に優れた湯♪♪",
+    "hotelMinCharge": 7350,
+    "latitude": 125612.15,
+    "longitude": 476066.75,
+    "postalCode": "697-0301",
+    "address1": "島根県",
+    "address2": "浜田市金城町追原7-2",
+    "telephoneNo": "0855-42-0405",
+    "faxNo": "0855-42-1011",
+    "access": "Ｊ浜田道「旭IC」より車で約10分／「JR浜田駅」より車で約25分／「しまね海洋館アクアス」より車で約40分",
+    "parkingInformation": "無料駐車場　９台完備／予約不要",
+    "nearestStation": "浜田",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13871/13871.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/13871.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13871/13871_room.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/13871.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13871/13871map.gif",
+    "reviewCount": 131,
+    "reviewAverage": 4.36,
+    "userReview": "泉質が良く食事も美味しく、満足のいく内容温泉の泉質が良かったです。夜10時以降お風呂に入られなかったのが残念でしたが、朝は6時からだったので、朝もう一度入りました。エレベーターはありません。食事も…　2026-08-02 18:10:46投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=13871\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.32,
+    "locationAverage": 4.18,
+    "roomAverage": 4.09,
+    "equipmentAverage": 4.05,
+    "bathAverage": 4.59,
+    "breakfastAverage": 4.43,
+    "dinnerAverage": 4.52,
+    "cleanlinessAverage": 4.11
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "simane",
+    "smallClassCode": "masuda",
+    "areaName": "津和野・益田・浜田・江津",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "16:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "24:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 8,
+    "roomFacilities": [
+      {
+        "item": "ケーブルＴＶ"
+      },
+      {
+        "item": "ＣＳ放送"
+      },
+      {
+        "item": "ファックス(一部)"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "電気スタンド(一部)"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "ヘルスメーター"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（固形）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "リンスインシャンプー"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "送迎バス：直接お電話にて、ご相談を承っております"
+      },
+      {
+        "item": "エレベーター無し、客室２・３Ｆまで階段利用 / 男風呂２Ｆ・女風呂３Ｆ / 館内禁煙"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "ルームサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "広間"
+      },
+      {
+        "dinnerPlace": "広間"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathType": "ジャグジー"
+      },
+      {
+        "bathQuality": "単純温泉"
+      },
+      {
+        "bathQuality": "アルカリ単純泉"
+      },
+      {
+        "bathBenefits": "健康"
+      },
+      {
+        "bathBenefits": "冷え性"
+      },
+      {
+        "bathBenefits": "美肌効果"
+      }
+    ],
+    "aboutLeisure": "海水浴,釣り,海釣り,渓流釣り,テニス,ゲートボール,ゴルフ,スケート,乗馬,射撃,陸上競技,洞窟探検,水族館,美術館,栗拾い,山菜取り",
+    "handicappedFacilities": [
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "大浴場浴槽に手すりあり"
+      },
+      {
+        "item": "大浴場での介助入浴可能"
+      },
+      {
+        "item": "高齢者用料理への対応可能"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "幼児料金は2歳からとなります。小学生以下、夕食はランチ・和朝食少な目。不足の場合はお問合せ下さい,当日お客様と連絡の取れる電話番号をお知らせください。,19時以降にチェックインの場合は、ご連絡ください。,入湯税１５０円は別途いただきます。,全館禁煙のため館内での喫煙はお断りしております。,無料駐車場　９台完備!!",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の70％    <BR>2日前から           ：宿泊料金の30％    <BR>3日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "JTB"
+      },
+      {
+        "card": "楽天カード"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": "※クレジットカードにてご精算の場合、ご予約時にお申し出ください。",
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "お部屋で緑茶サービス,時間外チェックイン可,時間外チェックアウト可",
+    "otherInformation": "プランによってはクレジットカードでのご精算できないものもございます"
+  }
+}

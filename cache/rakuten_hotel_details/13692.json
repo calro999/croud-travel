@@ -1,0 +1,247 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 13692,
+    "hotelName": "温泉津温泉　のがわや旅館",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D13692",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D13692%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D13692",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D13692",
+    "hotelKanaName": "ゆのつおんせん　のがわやりょかん",
+    "hotelSpecial": "世界遺産の一角、温泉津 情緒豊かなおもてなしの宿",
+    "hotelMinCharge": 8400,
+    "latitude": 126332.81,
+    "longitude": 476459.25,
+    "postalCode": "699-2501",
+    "address1": "島根県",
+    "address2": "大田市温泉津町温泉津ロ30",
+    "telephoneNo": "0855-65-2811",
+    "faxNo": "0855-65-3550",
+    "access": "JR山陰本線 温泉津駅よりバス5分 / 浜田自動車道 浜田ICより東へ45分 / 米子自動車道 宍道ICより西へ80分",
+    "parkingInformation": "有り　１５台　無料　先着順",
+    "nearestStation": "温泉津",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13692/13692.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/13692.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13692/13692_war.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/13692.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13692/13692map.gif",
+    "reviewCount": 297,
+    "reviewAverage": 4.51,
+    "userReview": "といれとおふろのないへやてすか夕食は部屋食で食べたかった夏の風物詩「鱧」が食べられるとは思ってもみませんでした。関西で祇園祭の頃に食べるので、良かったです。他の画像やクチコミの詳細はこちらから…　2026-08-02 21:42:58投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=13692\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.56,
+    "locationAverage": 4.47,
+    "roomAverage": 4.39,
+    "equipmentAverage": 4.33,
+    "bathAverage": 4.54,
+    "breakfastAverage": 4.57,
+    "dinnerAverage": 4.58,
+    "cleanlinessAverage": 4.58
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "simane",
+    "smallClassCode": "toubu",
+    "areaName": "出雲・大田・石見銀山",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "21:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 10,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "ファックス"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "電気スタンド"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ(一部)"
+      },
+      {
+        "item": "石鹸（固形）"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "リンスインシャンプー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "部屋"
+      },
+      {
+        "breakfastPlace": "個室"
+      },
+      {
+        "dinnerPlace": "部屋"
+      },
+      {
+        "dinnerPlace": "広間"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "塩類泉"
+      },
+      {
+        "bathQuality": "食塩泉"
+      },
+      {
+        "bathQuality": "含石膏芒硝泉"
+      },
+      {
+        "bathBenefits": "胃腸病"
+      },
+      {
+        "bathBenefits": "高血圧"
+      },
+      {
+        "bathBenefits": "婦人病"
+      }
+    ],
+    "aboutLeisure": "海水浴,海釣り,ダイビング,テニス,ゴルフ,スキー,水族館,山菜取り",
+    "handicappedFacilities": [
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": "中国語：少し分かるスタッフが数人いる。<BR>英語：少し分かるスタッフが大半である。<BR>韓国語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "別途、おとな１２歳以上は入湯税150円必要です。門限は２３：３０です。,のがわや旅館では全館禁煙・全室禁煙室対応でおもてなしを変更させていただきました。喫煙場所は玄関にございます,20日前からキャンセル料がかかるプランがあります。人員変更、プラン変更も７日前からキャンセル料がかかります。,★食材のアレルギー有無を宿泊の５日前までにご連絡をください。食材によりご対応できないことがありお申込をお断りすることもあります,★★★★　料理長厳選の別料金の追加料理でお愉しみください　★★★★,ご要望欄にて５日前までにお知らせください,★当館へ下記内容をお知らせください。,★携帯電話電話番号　★無料送迎の有無、JR温泉津駅のご到着時間　★駐車場利用有無をお知らせください",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>4日前から           ：宿泊料金の30％    <BR>7日前から           ：宿泊料金の20％    <BR>20日前から          ：宿泊料金の10％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      }
+    ],
+    "aboutCreditCardNote": "現金払いのみのプランは現金特価・謝恩価格の設定で現金支払いのみとなります",
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "モーニングコーヒーサービス,将棋無料貸出,囲碁無料貸出",
+    "otherInformation": "のがわや旅館では２０２０年１０月より全館禁煙・全室禁煙室対応となります。喫煙場所は玄関にござ���ます,アレルギーの有無を必ずお教えください。対応できない場合はお申込をお断りすることもございます,新たに特別室（スイートとして） ■12畳＋2ベッド＋広縁付二間続きの寛ぎの特別和洋室にリニューアル"
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 70658,
+    "hotelName": "ビジネスホテル北斗荘＜北海道＞",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D70658",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D70658%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D70658",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D70658",
+    "hotelKanaName": "ほくとそう＜ほっかいどう＞",
+    "hotelSpecial": "幌延駅から徒歩5分！幌富バイパス・幌延ICより車で3分！宗谷エリアの観光、ビジネス、長期滞在に最適。",
+    "hotelMinCharge": null,
+    "latitude": 162053.52,
+    "longitude": 510660.29,
+    "postalCode": "098-3201",
+    "address1": "北海道",
+    "address2": "天塩郡幌延町1条北2丁目47番地",
+    "telephoneNo": "01632-5-2026",
+    "faxNo": "01632-5-1055",
+    "access": "JR幌延駅より徒歩5分、幌富バイパス・幌延ICより車で3分、稚内空港より車で約１時間",
+    "parkingInformation": "有り　１５台　無料　",
+    "nearestStation": "幌延",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/70658/70658.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/70658.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/70658/70658_a.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/70658.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/70658/70658map.gif",
+    "reviewCount": 71,
+    "reviewAverage": 4,
+    "userReview": null
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 0,
+    "locationAverage": 0,
+    "roomAverage": 0,
+    "equipmentAverage": 0,
+    "bathAverage": 0,
+    "breakfastAverage": 4.5,
+    "cleanlinessAverage": 4.08
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "hokkaido",
+    "smallClassCode": "wakkanai",
+    "areaName": "稚内・留萌・利尻・礼文",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "22:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 43,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "リンスインシャンプー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "食堂"
+      },
+      {
+        "dinnerPlace": "食堂"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "人工温泉"
+      }
+    ],
+    "aboutLeisure": "サロベツ原野、幌延町トナカイ観光牧場、ゆめ地創館、金田心象書道美術館、オトンルイ風車,釣り,ゴルフ,スキー,美術館,山菜取り",
+    "handicappedFacilities": [],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "チェックインが22:00以降の場合必ずご連絡下さい。,食事制限、アレルギーのあるお客様は事前にお申し出下さいませ。,◆　重要　◆　2026年4月1日ご宿泊分より、北海道の条例に基づき宿泊税が課税されます。,表示される料金には、宿泊税は含まれておりません。,事前決済プランをご利用の場合でも、宿泊税のみチェックイン時に別途お支払いいただきます。,宿泊税は現地現金にて別途徴収いたします。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日15時から        ：宿泊料金の100％   <BR>当日                ：宿泊料金の50％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "時間外チェックイン可",
+    "otherInformation": "コンビニまで徒歩10分,全室無線ＬＡＮ接続が可能"
+  }
+}

@@ -26,6 +26,18 @@ interface CampaignItem {
 
 const CAMPAIGNS: CampaignItem[] = [
   {
+    id: "rakuten-special-coupon-week",
+    title: "楽天トラベル スペシャルクーポンWEEK",
+    badge: "9/1 9:59まで期間限定！",
+    discountInfo: "旅行予約が最大30%OFFクーポン配布",
+    description: "期間限定で開催されるスペシャルクーポンWEEK！全国の対象ホテル・温泉旅館で使える最大30%OFFクーポンをはじめ、お得な割引特典が多数登場。数量限定のため早めの獲得がおすすめです。",
+    targetDays: "〜2026年9月1日(火) 09:59まで開催中",
+    highlights: ["国内旅行・宿泊予約が最大30%OFF", "対象の高級ホテル・温泉宿で使える限定クーポン", "秋の行楽・シルバーウィーク旅行にも活用可能"],
+    affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Fcoupon-week%2F",
+    imageUrl: "/images/travel_special.png",
+    category: "大型セール"
+  },
+  {
     id: "rakuten-5and0-luxury",
     title: "5と0のつく日 高級宿・温泉宿セール",
     badge: "毎月5,10,15,20,25,30日開催",

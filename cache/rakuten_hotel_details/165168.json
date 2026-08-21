@@ -1,0 +1,186 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 165168,
+    "hotelName": "ビジネスホテル　清風荘　＜大分県＞",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D165168",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D165168%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D165168",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D165168",
+    "hotelKanaName": "せいふうそう",
+    "hotelSpecial": "駅からも港からもアクセス抜群！昭和の雰囲気が随所に残るアットホームで料理が自慢の宿",
+    "hotelMinCharge": 4900,
+    "latitude": 118695.22,
+    "longitude": 474860.84,
+    "postalCode": "876-0802",
+    "address1": "大分県",
+    "address2": "佐伯市日の出町2-1",
+    "telephoneNo": "0972-22-1452",
+    "faxNo": "0972-22-1622",
+    "access": "佐伯駅より徒歩にて約５分",
+    "parkingInformation": "有り　無料　予約不要",
+    "nearestStation": "佐伯",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/165168/165168.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/165168.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/165168/165168_kan1.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/165168.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/165168/165168map.gif",
+    "reviewCount": 109,
+    "reviewAverage": 3.37,
+    "userReview": "愛犬も喜ぶ大歓迎と絶品夕食に大満足ビビリーなワンコがビビるのを忘れてしまうほどの大歓迎を受け(好意はわかるんだな)、他の方のコメントを見て夕食をお願いしたのですが、お刺身、煮付け、椀物、小鉢そして…　2026-06-08 05:26:57投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=165168\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 3.27,
+    "locationAverage": 3.5,
+    "roomAverage": 3.27,
+    "equipmentAverage": 3.04,
+    "bathAverage": 3.08,
+    "breakfastAverage": 5,
+    "dinnerAverage": 5,
+    "cleanlinessAverage": 3.19
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "ooita",
+    "smallClassCode": "usuki",
+    "areaName": "佐伯・臼杵・豊後大野",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "16:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "24:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 21,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "石鹸（固形）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "湯沸かしポット(貸出)"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "【アメニティー】 歯ブラシはBT付きのお部屋は部屋の浴室に、BT共用のお部屋は廊下の水場にあり"
+      },
+      {
+        "item": "【ペット】 ペット同伴の場合は専用プランよりご予約下さい（事前に注意事項をご確認下さい）"
+      },
+      {
+        "item": "【お風呂】入浴時間／17:00〜23:00 ※ボイラー手動スイッチで上記の時間に限りお湯が出ます"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "ペット同宿可"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "広間"
+      },
+      {
+        "breakfastPlace": "食堂"
+      },
+      {
+        "dinnerPlace": "広間"
+      },
+      {
+        "dinnerPlace": "食堂"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "大浴場"
+      }
+    ],
+    "aboutLeisure": "海水浴,釣り,海釣り,ゴルフ",
+    "handicappedFacilities": [],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "チェックインが予定時間を過ぎる場合は必ずご連絡ください。,ご到着が18:00を過ぎる場合は連絡をお願いします,当日連絡が取れる携帯電話番号をお教え下さい,ペットプランの方はペットの種類を教えてください （予防接種が終わっている事等、事前に宿泊時の確認事項をお確かめください）,小学生以下のお子様連れの方は＜お子様の年齢をご記入頂き下さい＞,時間外(24時以降)の入浴を希望される方はお知らせください。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>7日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Discover"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "宿泊者全員にチャンス！！ 　エアガン射的に挑戦して、ドリンク１本ゲット♪",
+    "otherInformation": null
+  }
+}

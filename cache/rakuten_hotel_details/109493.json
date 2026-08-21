@@ -1,0 +1,230 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 109493,
+    "hotelName": "リッチモンドホテル福山駅前",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D109493",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D109493%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D109493",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D109493",
+    "hotelKanaName": "りっちもんどほてるふくやまえきまえ",
+    "hotelSpecial": "ご宿泊者様無料ドリンクバーあり◆フロント8階、客室は9階以上◆ＪＲ福山駅近で飲食店、コンビニ徒歩圏内",
+    "hotelMinCharge": 3450,
+    "latitude": 124142.65,
+    "longitude": 480115.26,
+    "postalCode": "720-0065",
+    "address1": "広島県",
+    "address2": "福山市東桜町1-1",
+    "telephoneNo": "084-973-8030",
+    "faxNo": "084-973-8028",
+    "access": "福山駅南口（ばら公園口）より徒歩約3分◆福山東ＩＣより車で約20分",
+    "parkingInformation": "専用、提携駐車場なし（提携ではございませんが最寄有料Pは【NPC24H福山駅前第２パーキング】です）",
+    "nearestStation": "福山",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/109493/109493.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/109493.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/109493/109493_ru.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/109493.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/109493/109493map.gif",
+    "reviewCount": 3248,
+    "reviewAverage": 4.34,
+    "userReview": "裏切りません...さすがリッチモンドホテルです。8Fがフロントと言うことを除けば最高です。フロントの方の対応も心優しいですし、お風呂とトイレが別々でした。ビジネスのくくりではないですね。部屋も清潔…　2026-08-11 13:27:39投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=109493\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.33,
+    "locationAverage": 4.4,
+    "roomAverage": 4.36,
+    "equipmentAverage": 4.29,
+    "bathAverage": 4.21,
+    "breakfastAverage": 4.43,
+    "cleanlinessAverage": 4.33
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "hiroshima",
+    "smallClassCode": "fukuyama",
+    "areaName": "福山・尾道・しまなみ海道",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "14:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "29:30"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 200,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "有料ビデオ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(LAN形式)"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ベビーベッド"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "パジャマ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "◆全室有線LAN・WiFi接続無料◆全室液晶ＴＶ◆PCレンタル◆加湿器付空気清浄機完備◆会議室◆"
+      },
+      {
+        "item": "フロント階にアメニティバー設置（歯ブラシ、シェーバー、くし、ボディタオルなど）"
+      },
+      {
+        "item": "ティーラウンジ"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [],
+    "aboutLeisure": null,
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "バリアフリー用トイレ"
+      },
+      {
+        "item": "バリアフリールーム"
+      },
+      {
+        "item": "車椅子利用者用客室あり"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      }
+    ],
+    "linguisticLevel": "中国語：少し分かるスタッフが数人いる。<BR>英語：少し分かるスタッフが数人いる。<BR>韓国語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "（2026年4月1日以降）宿泊料金とは別に、広島県宿泊税を現地にて頂戴しております。オンラインカード決済の場合も、宿泊税は現地払いとなりますことご了承くださいませ。,到着予定時刻から2時間以上遅れると、キャンセル扱いとなる場合があります。遅くなる場合は、恐れ入りますがホテルまでご一報くださいませ。,門限はございませんが、24時以降は防犯のため出入口を施錠いたします。24��以降にご到着の場合は、正面入口横のインターフォンにてお呼び出しくださいますようお願いいたします。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日22時から        ：宿泊料金の100％   <BR>当日18時から        ：宿泊料金の50％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "ORICO"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": null
+  }
+}

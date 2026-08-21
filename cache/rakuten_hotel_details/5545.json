@@ -1,0 +1,271 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 5545,
+    "hotelName": "味の宿　みち潮",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D5545",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D5545%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D5545",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D5545",
+    "hotelKanaName": "あじのやど　みちしお",
+    "hotelSpecial": "10年連続アワード受賞★新鮮な海幸と貸切風呂が人気！プール、露天風呂付客室あり！伊勢志摩観光に最適",
+    "hotelMinCharge": 10000,
+    "latitude": 123815.82,
+    "longitude": 492877.22,
+    "postalCode": "517-0032",
+    "address1": "三重県",
+    "address2": "鳥羽市相差町1522-12",
+    "telephoneNo": "0599-33-6518",
+    "faxNo": "0599-33-7107",
+    "access": "鳥羽南白木IC→15分！鳥羽駅無料送迎有要予約◆石神さんのある町◆スペイン村15分◆鳥羽水族館25分◆伊勢神宮40分",
+    "parkingInformation": "30台無料！夏休みはイン前13時〜、アウト後12時まで利用OK！カーナビ→0599-33-6518",
+    "nearestStation": "鳥羽",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5545/5545.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/5545.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5545/5545_war.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/5545.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5545/5545map.gif",
+    "reviewCount": 4832,
+    "reviewAverage": 4.39,
+    "userReview": "料理も接客も素晴らしく最高の思い出にお料理がどれもとても美味しく、大満足でした。スタッフの皆さんが笑顔で対応してくださり、気持ちよく過ごせました。プールの掃除など丁寧にされていました。また…　2026-08-15 09:17:16投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=5545\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.46,
+    "locationAverage": 4.33,
+    "roomAverage": 4.31,
+    "equipmentAverage": 4.17,
+    "bathAverage": 4.18,
+    "breakfastAverage": 4.41,
+    "dinnerAverage": 4.54,
+    "cleanlinessAverage": 4.4
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "mie",
+    "smallClassCode": "toba",
+    "areaName": "鳥羽",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "18:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 26,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "ファックス(貸出)"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "ＣＤプレイヤ－(貸出)"
+      },
+      {
+        "item": "カセットデッキ(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "リンスインシャンプー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "湯沸かしポット(貸出)"
+      },
+      {
+        "item": "電子レンジ（一部・要予約）"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "全館無料Wi-Fi対応。浴衣はロビーにございますのでサイズを合わせて頂��、お持ちくださいませ。"
+      },
+      {
+        "item": "部屋食や個室食事処プランあり、大浴場には露天風呂、2つの貸切風呂有！全室温水洗浄トイレ完備"
+      },
+      {
+        "item": "くし、ドライヤー、化粧水、乳液、カミソリは大浴場にご用意しています。"
+      },
+      {
+        "item": "カラオケルーム"
+      },
+      {
+        "item": "多目的室"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "プール(夏期のみ)"
+      },
+      {
+        "item": "屋外プール"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "ルームサービス"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "個室"
+      },
+      {
+        "breakfastPlace": "広間"
+      },
+      {
+        "dinnerPlace": "部屋"
+      },
+      {
+        "dinnerPlace": "個室"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathQuality": "アルカリ単純泉"
+      },
+      {
+        "bathBenefits": "関節痛"
+      },
+      {
+        "bathBenefits": "神経痛"
+      },
+      {
+        "bathBenefits": "美肌効果"
+      }
+    ],
+    "aboutLeisure": "伊勢神宮、おかげ横丁迄約40分！石神さん迄徒歩15分！鳥羽水族館迄約25分！スペイン村迄約20分！,海水浴,釣り,海釣り,カヌー,クルージング,ウォータースポーツ,ゴルフ,遊園地,博物館,水族館,テーマパーク,美術館",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "大浴場浴槽に手すりあり"
+      }
+    ],
+    "linguisticLevel": "中国語：少し分かるスタッフが数人いる。<BR>英語：少し分かるスタッフが数人いる。<BR>韓国語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "鳥羽駅無料送迎(2日前までに予約要) 鳥羽駅発15:00、16:30 翌日宿発 9:30 ※夏休み期間中は特別時間,プランによって大人2名様以上の受付となります。鳥羽市条例により入湯税150円を別途お預かりいたします。,貸切風呂は1回40分2,200円※限定数があるため事前予約をお願いします。（利用時間はチェックイン順にフロントにて受付）,※「食事・布団不要」のお子さまについて  3歳～未就学児のお子様は施設使用料2，200円(歯ブラシ、タオル付)を現地で徴収いたしますのでご了承下さい。,連絡なしで20時を過ぎた場合はキャンセル扱いとさせていただきます。部屋食は最終19時開始となっております。それ以降のご到着は個室食事処をご用意させていただきます。,夏休み、海水浴をされる方へ…清掃のため、お部屋は15:00からのご利用です。お荷物はお車で保管下さい。,伊勢志摩には「みち潮」という宿が２件あります。当館は鳥羽市相差町（とばしおうさつちょう）のみち潮ですのでお間違えのないようにお願いします。カーナビ設定→TEL0599-33-6518,宿周辺（相差町内）にはコンビニや薬局がございません。チェックイン前にお寄り頂く事をおすすめします。宿からいちばん近くのコンビニ→ファミリーマート鳥羽松尾町店,同グループ一緒にお食事希望の場合、同プランでのご予約が必須となります。,当館はアレルギー対応不可となります。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>4日前から           ：宿泊料金の30％    <BR>7日前から           ：宿泊料金の20％    <BR>10日前から          ：宿泊料金の10％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": "取扱いはVISAかMasterのみで他のカードは取扱い不可です。",
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "夏期：屋外プール、宿泊者様無料（７月中旬から８月末迄、利用時間8：30〜16：30）",
+    "otherInformation": "交通手段（車、電車）を前日迄にご連絡下さい。TEL0599-33-6518,近鉄鳥羽駅１番出口に無料送迎有（※事前予約制15：00又は16：30発）※夏休みは14：40発"
+  }
+}

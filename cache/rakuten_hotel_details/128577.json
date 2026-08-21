@@ -1,0 +1,228 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 128577,
+    "hotelName": "アワーズイン阪急",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D128577",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D128577%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D128577",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D128577",
+    "hotelKanaName": "あわーずいんはんきゅう",
+    "hotelSpecial": "都心に居ながらほっと安心。あなたの「欲しい」がつまったワンストップ型ホテル",
+    "hotelMinCharge": 3275,
+    "latitude": 128168.55,
+    "longitude": 503055.3,
+    "postalCode": "140-0014",
+    "address1": "東京都",
+    "address2": "品川区大井1-50-5",
+    "telephoneNo": "0570-011-806",
+    "faxNo": "03-3778-3861",
+    "access": "◆JR京浜東北線大井町駅中央改札口を出て右へ徒歩１分◆東京駅よりJRで15分・品川駅まで1駅・羽田空港まで30分◆",
+    "parkingInformation": "1台1600円/24時間、300円/30分　",
+    "nearestStation": "大井町",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/128577/128577.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/128577.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/128577/128577_sin.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/128577.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/128577/128577map.gif",
+    "reviewCount": 8585,
+    "reviewAverage": 4.36,
+    "userReview": "駅前で立地は良いが設備や清掃に難あり立地)駐車場有(宿泊者割なし、自走式駐車場。宿泊中出し入れ不可)、JR大井町駅前なので、山手線・京浜東北線、りんかい線で移動を考えている人には立地よし。チェ…　2026-08-15 21:23:38投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=128577\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.32,
+    "locationAverage": 4.46,
+    "roomAverage": 4.35,
+    "equipmentAverage": 4.29,
+    "bathAverage": 4.34,
+    "breakfastAverage": 4.15,
+    "cleanlinessAverage": 4.37
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "tokyo",
+    "smallClassCode": "tokyo",
+    "areaName": "東京２３区内",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "24:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 1388,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "有料ビデオ"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "パジャマ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "全客室Wi-Fi無料接続・加湿空気清浄機・温度設定がコントロール自在の個別空調。"
+      },
+      {
+        "item": "Ｓ館の客室は洗面・トイレと独立したシャワーブースをご用意。"
+      },
+      {
+        "item": "Ｔ館の客室はゆったりユニットバスです。"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "喫茶"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "コンビニエンスストア"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン"
+      },
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "人工温泉"
+      },
+      {
+        "bathType": "岩盤浴"
+      }
+    ],
+    "aboutLeisure": "東京ディズニーリゾート・大井競馬場・お台場・東京ビッグサイト・銀座・横浜　　,水族館,美術館",
+    "handicappedFacilities": [
+      {
+        "item": "貸出用車椅子"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "■チェックインのお手続きはS館フロント3Fへお越しくださいませ。予約時に発券されるQRコードで自動チェックインをご利用いただけます。,■「ホテル代表電話はナビダイヤル【0570-011-806】でございます。案内に従ってお進みくださいませ。,■お電話でのご予約変更、お取り消しは承れません。本サイトよりお手続をお願いいたします。,■添い寝は小学生未満のお子様に限ります【最大客室定員数（シングル：2名）（ツイン：4名）※添い寝含む、1部屋に5名様以上のご宿泊はできかねます】,■温浴券付のプラン以外、温浴施設は有料です。ご宿泊者様はS館フロントにて、1回500円(2026年8月1日より800円)でチケットをお買い求めください。チェックインからチェックアウトまで有効です。,■駐車場料金　30分300円／最大料金24時間まで1,600円（税込）＜車輌制限＞高さ2.1m・幅1.9m・長さ5.0m  深夜2：00～早朝6：00の時間は閉鎖しております。,■ご連泊時の客室清掃は原則的に入室せず、タオル交換・ゴミ回収のみ（エコ清掃）を行います。（衛生上、3日に1回は入室しての清掃を実施）,■チェックアウトは午前11：00でございます。ご延長を希望の場合はフロントまでお申し出ください。【S館】 12時：1,000円【T館】 12時：2,000円,■2026年3月25日（水）より、全室禁煙となります。お煙草は指定の喫煙所をご利用くださいませ。,■おふろの王様はリニューアル工事の為、2027年1月12日（火）～2027年2月28日（日）終日休業いたします。2027年3月1日（月）～2027年3月31日（水）はご宿泊者様専用となります。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の80％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "アワーズイン阪急は安心の「免震構造」です。（Ｓ館）,温浴施設「おふろの王様」では人工温泉・露天風呂など、癒しのスパをご用意。,ご滞在中のお客様はホテルフロントにて1回券をご購入いただけます。"
+  }
+}

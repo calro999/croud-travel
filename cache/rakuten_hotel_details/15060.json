@@ -1,0 +1,247 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 15060,
+    "hotelName": "湯原温泉　湯の蔵　つるや",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D15060",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D15060%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D15060",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D15060",
+    "hotelKanaName": "ゆばらおんせん　ゆのくら　つるや",
+    "hotelSpecial": "創業110年の元酒蔵のお宿。美味しいお酒と料理をきどらないおもてなしで、源泉掛け流しの温泉宿",
+    "hotelMinCharge": 8800,
+    "latitude": 126707.67,
+    "longitude": 481452.29,
+    "postalCode": "717-0402",
+    "address1": "岡山県",
+    "address2": "真庭市湯原温泉144",
+    "telephoneNo": "0867-62-2016",
+    "faxNo": "0867-62-2298",
+    "access": "米子道「湯原IC」より湯原温泉方面へ5分。中国銀行手前右折50ｍ。お車は向かいの市営駐車場へ無料完備",
+    "parkingInformation": "有り 約７０台 市営駐車場を無料で完備 ",
+    "nearestStation": "中国勝山",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15060/15060.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/15060.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15060/15060_war.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/15060.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15060/15060map.gif",
+    "reviewCount": 548,
+    "reviewAverage": 4.51,
+    "userReview": "夕食は、大人にとってはメニューの構成も良く、美味しくいただきました。小学生の子供にとっては、苦手な物が多く、ステーキ、お鍋、さしみとご飯とお汁しか食べませんでした。小学生には、メイン料理以外は、お子さ…　2026-08-15 18:21:26投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=15060\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.57,
+    "locationAverage": 4.11,
+    "roomAverage": 4.28,
+    "equipmentAverage": 4.21,
+    "bathAverage": 4.6,
+    "breakfastAverage": 4.39,
+    "dinnerAverage": 4.5,
+    "cleanlinessAverage": 4.46
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "okayama",
+    "smallClassCode": "niimi",
+    "areaName": "湯原・蒜山・新見・高梁",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "17:30"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 15,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "インターネット接続(一部、無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ドライヤー(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "冷蔵庫は空で電源を入れてお使いくださいますようお願いします"
+      },
+      {
+        "item": "大浴場にシャンプー、コンディショナー、ボディソープ、洗顔、化粧水、乳液、綿棒、ドライヤーあり"
+      },
+      {
+        "item": "檜露天風呂付客室にはシャンプー、コンディショナー、ボディソープ、洗顔、化粧水、乳液、ドライヤーあり"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "個室"
+      },
+      {
+        "breakfastPlace": "食事処"
+      },
+      {
+        "dinnerPlace": "個室"
+      },
+      {
+        "dinnerPlace": "食事処"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "アルカリ単純泉"
+      },
+      {
+        "bathBenefits": "神経痛"
+      },
+      {
+        "bathBenefits": "美肌効果"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      }
+    ],
+    "aboutLeisure": "◆砂湯まで徒歩10分 ◆蒜山高原まで車で30分 ◆勝山まで車で20分 ◆出雲大社まで車で90分,釣り,サイクリング,スキー,乗馬,ロッククライミング,トレッキング,登山,フラワーパーク",
+    "handicappedFacilities": [
+      {
+        "item": "客室内に洋式トイレあり"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "夕食・朝食は個室食事処にてご用意。（部屋食ではありません）,ご夕食の最終開始時間は18：00になります。時間以降のご到着はご用意できませんのでご注意ください。,食事場所への飲食物のお持込はご遠慮ください（持ち込み料を徴収します）。離乳食は構いません。,大人のみ【入湯税150円・入湯料100円】を別途頂戴いたします。,客室は全室禁煙です。館内の所定の場所のみ喫煙可としております。,お子様のご年齢に関わらず施設使用料を頂戴しております。,お車は宿の向かい少し坂をあがった「有料市営駐車場」へどうぞ無料です。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>2日前から           ：宿泊料金の30％    <BR>3日前から           ：宿泊料金の30％    <BR>4日前から           ：宿泊料金の20％    <BR>5日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "ORICO"
+      },
+      {
+        "card": "楽天カード"
+      },
+      {
+        "card": "ANA"
+      },
+      {
+        "card": "JAL"
+      },
+      {
+        "card": "デビットカード"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": null
+  }
+}

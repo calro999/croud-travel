@@ -1,0 +1,328 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 10714,
+    "hotelName": "山陰湯村温泉　朝野家",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D10714",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D10714%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D10714",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D10714",
+    "hotelKanaName": "さんいんゆむらおんせん　あさのや",
+    "hotelSpecial": "98℃の湯量豊富な美肌の湯と、但馬牛や松葉蟹など旬の味覚を彩る創作会席が自慢のおもてなしの宿",
+    "hotelMinCharge": 6600,
+    "latitude": 127987.54,
+    "longitude": 484171.38,
+    "postalCode": "669-6821",
+    "address1": "兵庫県",
+    "address2": "美方郡新温泉町湯1269",
+    "telephoneNo": "0796-92-1000",
+    "faxNo": "0796-92-2010",
+    "access": "北近畿豊岡道八鹿氷ノ山ＩＣより車で約50分／阪急大阪三番街より全但特急バスで約3時間",
+    "parkingInformation": "有り（お車は当館スタッフがお預かり致します）８０台　無料　EV充電設備２台設置（要事前予約）",
+    "nearestStation": "浜坂",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/10714/10714.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/10714.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/10714/10714_heya.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/10714.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/10714/10714map.gif",
+    "reviewCount": 1142,
+    "reviewAverage": 4.55,
+    "userReview": "料理と接客は最高、お風呂の移動は注意が必要料理と接客は文句なしです。温泉へはバリアフリーではなかったので足腰がしっかりしている方でないとしんどいかなと思いました。お風呂上がりのお抹茶やビー…　2026-08-13 10:27:39投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=10714\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.57,
+    "locationAverage": 4.38,
+    "roomAverage": 4.52,
+    "equipmentAverage": 4.33,
+    "bathAverage": 4.58,
+    "breakfastAverage": 4.6,
+    "dinnerAverage": 4.62,
+    "cleanlinessAverage": 4.49
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "hyogo",
+    "smallClassCode": "kasumi",
+    "areaName": "香住・浜坂・湯村",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "18:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 41,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "ビデオデッキ(貸出)"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "ＣＤプレイヤ－(貸出)"
+      },
+      {
+        "item": "カセットデッキ(貸出)"
+      },
+      {
+        "item": "加湿器(一部)"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "スナック「月下美人」、ヒーリングルーム「プラナ」は閉店いたしました"
+      },
+      {
+        "item": "喫茶"
+      },
+      {
+        "item": "ラウンジ"
+      },
+      {
+        "item": "夜食コーナー"
+      },
+      {
+        "item": "カラオケルーム"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "個室"
+      },
+      {
+        "breakfastPlace": "広間"
+      },
+      {
+        "dinnerPlace": "個室"
+      },
+      {
+        "dinnerPlace": "広間"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathType": "岩盤浴"
+      },
+      {
+        "bathQuality": "ナトリウム炭酸水素塩泉"
+      },
+      {
+        "bathQuality": "ナトリウム塩化物炭酸水素泉"
+      },
+      {
+        "bathQuality": "単純炭酸泉"
+      },
+      {
+        "bathBenefits": "温熱効果"
+      },
+      {
+        "bathBenefits": "美肌効果"
+      },
+      {
+        "bathBenefits": "慢性消化器病"
+      }
+    ],
+    "aboutLeisure": "海水浴,ウォータースポーツ,テニス,ゴルフ,スキー,水族館",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "車椅子利用者用客室あり"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "客室内トイレに手すりあり"
+      },
+      {
+        "item": "大浴場浴槽に手すりあり"
+      },
+      {
+        "item": "高齢者用料理への対応可能"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      },
+      {
+        "item": "施設スタッフによる介助・補助対応が可能"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "お越しの際の交通手段をお知らせください。お車の場合、駐車場の関係上お車の台数、到着予定時間をお知らせください。,EVチャージご利用のお客様は、台数に限りがございますので事前にお知らせください。,当館ではすべてのお客様のお車をお預かりし、駐車場へ当館スタッフが回送いたします。冬季は積雪や路面凍結の恐れがございますので、冬用タイヤの装着やタイヤチェーンのご持参をお願いいたします。,料理アレルギーで鰹、鯖、鰯、大豆等の場合、出汁に多用しておりますので、食事の提供ができません。,12歳以上のご宿泊のお客様には入湯税が別途必要です。（お１人1泊につき１５０円）,３歳以上の食事・布団無しのお子様は「施設使用料」としてお１人様　１，１００円が必要です。,大浴場・露天風呂の時間は夜１２時まで、朝5時半からです。サウナは地熱を利用した低温サウナとなります。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>3日��から           ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "Bank Card"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "AEON"
+      },
+      {
+        "card": "CF"
+      },
+      {
+        "card": "ORICO"
+      },
+      {
+        "card": "JTB"
+      },
+      {
+        "card": "楽天カード"
+      },
+      {
+        "card": "デビットカード"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "ウェルカムドリンクサービス,湯上がりサロンでのお茶サービス,朝刊サービス",
+    "otherInformation": "当館駐車場は離れております（500〜1.2km）　スタッフがすべてのお客様のお車をお預かりします,ご到着時は玄関前へお越しください　ご出発時はお時間を多少頂きますが、スタッフが玄関前へ配車致します"
+  }
+}

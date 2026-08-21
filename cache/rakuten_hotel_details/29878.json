@@ -1,0 +1,237 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 29878,
+    "hotelName": "熱海温泉ホテル　夢いろは",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D29878",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D29878%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D29878",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D29878",
+    "hotelKanaName": "あたみおんせんほてる　ゆめいろは",
+    "hotelSpecial": "青山湯の源泉蒸し体験がおすすめ！炊きたてを味わう釜飯御膳が自慢！源泉掛け流し貸切露天風呂で癒される",
+    "hotelMinCharge": 6850,
+    "latitude": 126342.91,
+    "longitude": 500672.96,
+    "postalCode": "413-0019",
+    "address1": "静岡県",
+    "address2": "熱海市咲見町4-6",
+    "telephoneNo": "0557-82-1151",
+    "faxNo": "0557-82-5689",
+    "access": "ＪＲ熱海駅より徒歩１０分ほど　タクシーならたった5分",
+    "parkingInformation": "駐車場は一律1000円予約不可・先着順限定7台でのご案内となります。",
+    "nearestStation": "熱海",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29878/29878.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/29878.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29878/29878_t.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/29878.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29878/29878map.gif",
+    "reviewCount": 2776,
+    "reviewAverage": 4.12,
+    "userReview": "食事は美味しくアメニティも充実口コミを見て行きましたがロケーションが入り組んでいてやや苦労しました。お風呂は二箇所ありますが熱めお湯でキッズには熱くて入れなかったようです。また一箇所は小さくお手洗…　2026-08-12 18:18:49投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=29878\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.21,
+    "locationAverage": 3.74,
+    "roomAverage": 4.08,
+    "equipmentAverage": 3.8,
+    "bathAverage": 4.11,
+    "breakfastAverage": 4.22,
+    "dinnerAverage": 4.33,
+    "cleanlinessAverage": 4.04
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "shizuoka",
+    "smallClassCode": "atami",
+    "areaName": "熱海",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "24:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 32,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "洗浄機付トイレ(一部)"
+      },
+      {
+        "item": "石鹸（固形）"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "リンスインシャンプー"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "熱海内でも随一！敷地内テラスに源泉噴出し湯気があります！マイナスイオンを体感して下さい"
+      },
+      {
+        "item": "源泉の湯気で温泉蒸したまごがつくれます！"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン"
+      },
+      {
+        "dinnerPlace": "食事処"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "低張性弱アルカリ性泉"
+      },
+      {
+        "bathQuality": "ナトリウム・カルシウム塩化物泉"
+      },
+      {
+        "bathBenefits": "皮膚病"
+      },
+      {
+        "bathBenefits": "美肌効果"
+      },
+      {
+        "bathBenefits": "婦人病"
+      }
+    ],
+    "aboutLeisure": "海水浴,釣り,海釣り,クルージング,ウィンドサーフィン,ダイビング,ウォータースポーツ,テニス,ゴルフ,サイクリング,ハイキング,美術館",
+    "handicappedFacilities": [],
+    "linguisticLevel": "中国語：少し分かるスタッフが数人いる。<BR>英語：少し分かるスタッフが数人いる。<BR>韓国語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "入湯税150円別途申し受けます（小学生以下なし）,３歳以上小学生未満のお子様はお食事、お布団なしでも施設使用料としてご宿泊になる大人お一人様料金の半額を頂戴させていただきます。,２歳以下のお子様でご朝食をご希望の方は別途８００円にてご用意させていただきますのでお申し付け下さい。チェックインは２３時までにお済ませくださいますよう、お願い致します。,マッサージ御希望の方はご予約後すぐに、必ずホテルスタッフまでお電話ください。マッサージ師の手配が必要です。,ご連絡をいただけないまま、午前０時を過ぎた場合はキャンセルとし、キャンセル料１００％がかかってくる場合がございます。ご注意くださいませ。,御食事の苦手な食材、アレルギー対応は致しかねます。ご了承下さいませ。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>2日前から           ：宿泊料金の20％    <BR>3日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      }
+    ],
+    "aboutCreditCardNote": "【QR決済】楽天Pay／PayPay／LINEpay／Alipay／WechatPay／d払い",
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "幼児は小学生以下となります。,３歳以上のお子様は布団なし朝食なしの場合でも施設使用料として大��の半額をいただいております。,２歳以下もお子様は宿泊料が無料となります。ご予約の際、ご宿泊人数に入れないでご予約下さいませ。"
+  }
+}

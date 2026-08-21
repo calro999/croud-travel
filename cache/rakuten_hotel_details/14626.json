@@ -1,0 +1,220 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 14626,
+    "hotelName": "ホテル多治見ヒルズ　リバーサイド店（ＢＢＨホテルグループ）",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D14626",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D14626%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D14626",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D14626",
+    "hotelKanaName": "たじみひるず　りばーさいどてん",
+    "hotelSpecial": "ビジネスに観光に便利な立地で駐車場無料。館内にランドリーもあり長期ビジネス客にも最適。",
+    "hotelMinCharge": 4000,
+    "latitude": 127220.81,
+    "longitude": 493615.51,
+    "postalCode": "507-0054",
+    "address1": "岐阜県",
+    "address2": "多治見市宝町7-49",
+    "telephoneNo": "0572-23-5406",
+    "faxNo": "0572-23-3936",
+    "access": "中央道多治見ＩＣより車で３分／ＪＲ多治見駅",
+    "parkingInformation": "有り　４０台　無料　先着順",
+    "nearestStation": "多治見",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14626/14626.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/14626.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14626/14626_sig.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/14626.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14626/14626map.gif",
+    "reviewCount": 552,
+    "reviewAverage": 3.68,
+    "userReview": "EV充電器が完備され、快適に過ごせたモニタリングプランで宿泊させてただきました。この価格で宿泊出来てとても満足しています。駐車場にEV ENECHANGEの充電器が2台あり、PHEVの私は朝ま…　2026-08-01 08:00:37投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=14626\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 3.84,
+    "locationAverage": 3.58,
+    "roomAverage": 3.57,
+    "equipmentAverage": 3.51,
+    "bathAverage": 3.64,
+    "breakfastAverage": 3.66,
+    "cleanlinessAverage": 3.68
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "gihu",
+    "smallClassCode": "tajimi",
+    "areaName": "中津川・多治見・恵那・美濃加茂",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "16:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "25:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 32,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "有料ビデオ"
+      },
+      {
+        "item": "有線"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "ファックス(貸出)"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "パジャマ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "全室Ｗｉ-Ｆｉ無料インターネット回線使用可・シャワートイレ全室完備"
+      },
+      {
+        "item": "20型液晶テレビ（地上波デジタル（無料）・DVDプレーヤー貸出"
+      },
+      {
+        "item": "朝食（バイキング）サービス・使い捨てスリッパ導入・ガスファンヒーター貸し出しで室内ポッカポカ"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "広間"
+      },
+      {
+        "dinnerPlace": "個室"
+      },
+      {
+        "dinnerPlace": "広間"
+      }
+    ],
+    "aboutBath": [],
+    "aboutLeisure": "ゴルフ,ハイキング,フラワーパーク",
+    "handicappedFacilities": [],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": null,
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の80％    <BR>前日                ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "モーニングコーヒーサービス,時間外チェックイン可",
+    "otherInformation": "近隣までの送迎（要予約）もさせて頂きます。　〜大型バス完備〜,冬期はガスストーブもご用意しております。(貸し出し）"
+  }
+}

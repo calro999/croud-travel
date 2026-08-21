@@ -1,0 +1,146 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 7369,
+    "hotelName": "観光ホテル　やまや＜愛知県＞",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D7369",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D7369%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D7369",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D7369",
+    "hotelKanaName": "かんこうほてる　やまや＜あいちけん＞",
+    "hotelSpecial": "魚市場の前に面し、漁師町の「のどかな旅館」です。新鮮な魚料理を堪能・残酷焼も好評。",
+    "hotelMinCharge": 5500,
+    "latitude": 124940.32,
+    "longitude": 493099.86,
+    "postalCode": "470-3502",
+    "address1": "愛知県",
+    "address2": "知多郡南知多町大字片名字新師崎22-3",
+    "telephoneNo": "0569-63-1090",
+    "faxNo": "0569-47-8182",
+    "access": "名鉄河和線 河和駅より知多バス師崎港行新師崎下車３分",
+    "parkingInformation": "無料駐車場あり（20台）",
+    "nearestStation": "河和",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7369/7369.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/7369.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7369/7369_room.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/7369.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7369/7369map.gif",
+    "reviewCount": 75,
+    "reviewAverage": 3.67,
+    "userReview": null
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 0,
+    "locationAverage": 0,
+    "roomAverage": 0,
+    "equipmentAverage": 0,
+    "bathAverage": 0,
+    "breakfastAverage": 4,
+    "dinnerAverage": 4.5,
+    "cleanlinessAverage": 3.5
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "aichi",
+    "smallClassCode": "minamichita",
+    "areaName": "南知多・日間賀島・篠島",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "20:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 19,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫(一部)"
+      },
+      {
+        "item": "ドライヤー(貸出)"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "リンスインシャンプー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "お風呂は(男湯１０名・女湯４名）入浴可能です。"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "広間"
+      },
+      {
+        "dinnerPlace": "広間"
+      }
+    ],
+    "aboutBath": [],
+    "aboutLeisure": "潮干狩（４月〜６月）・海水浴（７月〜８月）・みかん狩（１０月〜１１月）・いちご狩（１２月〜５月）,海水浴,釣り,海釣り,バンジージャンプ,ゴルフ,遊園地,水族館,美術館",
+    "handicappedFacilities": [],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "当日のキャンセルは宿泊料金を頂きます",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日9時から         ：宿泊料金の100％   <BR>前日9時から         ：宿泊料金の50％    <BR>2日前9時から        ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "利用不可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "時間外チェックイン可",
+    "otherInformation": "お部屋は２階、３階となります。エレベーターがありませんので車いすでのご利用はご遠慮下さい。"
+  }
+}

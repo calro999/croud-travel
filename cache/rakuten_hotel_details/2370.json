@@ -1,0 +1,219 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 2370,
+    "hotelName": "水上温泉郷　湯檜曽温泉　天空の湯　なかや旅館",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D2370",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D2370%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D2370",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D2370",
+    "hotelKanaName": "みなかみおんせんごう　ゆびそおんせん　てんくうのゆ　なかやりょかん",
+    "hotelSpecial": "4万組以上のママパパに選ばれた赤ちゃんファーストの温泉宿★安心の設備でママもほっと一息できる癒し時間",
+    "hotelMinCharge": 6600,
+    "latitude": 132488.47,
+    "longitude": 500366.1,
+    "postalCode": "379-1728",
+    "address1": "群馬県",
+    "address2": "利根郡みなかみ町湯桧曽93",
+    "telephoneNo": "0278-72-3516",
+    "faxNo": "0278-72-2955",
+    "access": "車：水上ICから約15分　車以外：上越線ゆびそ駅より徒歩5分、又は水上駅よりバス・タクシーで約10分　",
+    "parkingInformation": "有り　16台　無料",
+    "nearestStation": "上毛高原",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2370/2370.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/2370.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2370/2370_heya.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/2370.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2370/2370map.gif",
+    "reviewCount": 509,
+    "reviewAverage": 4.63,
+    "userReview": "子連れに優しい落ち着く宿おむつ用のゴミ箱があったり赤ちゃん用のお風呂があったり子連れにとても優しい宿でした。特に赤ちゃん用のお風呂は2歳の子がとても喜んで入っていました!水道水とは別に飲み水が出る…　2026-08-15 22:47:55投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=2370\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.85,
+    "locationAverage": 4.53,
+    "roomAverage": 4.66,
+    "equipmentAverage": 4.6,
+    "bathAverage": 4.77,
+    "breakfastAverage": 4.7,
+    "dinnerAverage": 4.73,
+    "cleanlinessAverage": 4.71
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "gunma",
+    "smallClassCode": "numata",
+    "areaName": "水上・猿ヶ京・沼田",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "17:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 16,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "児童遊園施設"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "ゲームコーナー"
+      },
+      {
+        "item": "スキー乾燥室"
+      },
+      {
+        "item": "パソコン利用可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "食堂"
+      },
+      {
+        "dinnerPlace": "部屋"
+      },
+      {
+        "dinnerPlace": "広間"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "弱アルカリ単純泉"
+      },
+      {
+        "bathBenefits": "関節痛"
+      },
+      {
+        "bathBenefits": "ストレス"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      }
+    ],
+    "aboutLeisure": "渓流釣り,渓流下り,バンジージャンプ,テニス,ゴルフ,パラグライダー,ハイキング,スキー,トレッキング,登山",
+    "handicappedFacilities": [],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "・17：00を過ぎてご到着の方は必ずお電話ください。,・入湯税大人150円はプラン料金に含まれております。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日9時から         ：宿泊料金の100％   <BR>前日9時から         ：宿泊料金の50％    <BR>3日前9時から        ：宿泊料金の50％    <BR>10日前9時から       ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "APLUS"
+      },
+      {
+        "card": "CF"
+      },
+      {
+        "card": "JTB"
+      },
+      {
+        "card": "JAL"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": "プランによっては、現金払いのみでお願いしております（＝カード払い対応不可）",
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "※最寄り駅のJR湯檜曽駅とJR水上駅にはエレベーターがありません。,　詳しくはJR東日本のWEBサイトをご確認ください。"
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 2910,
+    "hotelName": "鴨川シーワールドホテル",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D2910",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D2910%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D2910",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D2910",
+    "hotelKanaName": "かもがわしーわーるど　ほてる",
+    "hotelSpecial": "人気の鴨川シーワールドに隣接！入館無料！全ての客室がオーシャンビューのリゾートホテル。子供用品も充実",
+    "hotelMinCharge": 16700,
+    "latitude": 126398.59,
+    "longitude": 504439.31,
+    "postalCode": "296-0041",
+    "address1": "千葉県",
+    "address2": "鴨川市東町1464-18",
+    "telephoneNo": "04-7092-2121",
+    "faxNo": "04-7092-2464",
+    "access": "電車）安房鴨川駅から無料バスで5分。2015年4月～安房鴨川駅（西口）から鴨川シーワールド無料送迎バスでホテル前下車。",
+    "parkingInformation": "有り　70台　無料",
+    "nearestStation": "安房鴨川",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2910/2910.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/2910.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2910/2910_heya1.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/2910.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2910/2910map.gif",
+    "reviewCount": 3580,
+    "reviewAverage": 4.27,
+    "userReview": "水族館直結で便利、バイキングの質も高い水族館直結で、部屋で休んでまた見に行ったりしました。ご飯もバイキングで、クオリティも高く良かったです。クチコミの詳細はこちらから　https://re…　2026-08-14 20:20:14投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=2910\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.41,
+    "locationAverage": 4.62,
+    "roomAverage": 3.9,
+    "equipmentAverage": 3.79,
+    "bathAverage": 3.8,
+    "breakfastAverage": 4.18,
+    "dinnerAverage": 4.13,
+    "cleanlinessAverage": 4.08
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "tiba",
+    "smallClassCode": "sotobo",
+    "areaName": "鴨川・勝浦・御宿・養老渓谷",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "18:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 71,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "ファックス(一部)"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "洗顔ソープ"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "くつろぎ着の作務衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "アメニティーコーナー（1Fロビー）"
+      },
+      {
+        "item": "※ハブラシ・櫛・カミソリ・シャワーキャップ・乳液・洗顔・化粧水・綿棒をご用意"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "プール(夏期のみ)"
+      },
+      {
+        "item": "ゲームコーナー"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathQuality": "単純硫黄泉"
+      },
+      {
+        "bathQuality": "ナトリウムイオン泉"
+      },
+      {
+        "bathQuality": "炭酸水素塩泉"
+      },
+      {
+        "bathBenefits": "肩凝り"
+      },
+      {
+        "bathBenefits": "神経痛"
+      },
+      {
+        "bathBenefits": "冷え性"
+      }
+    ],
+    "aboutLeisure": "海水浴,釣り,海釣り,ウィンドサーフィン,テニス,ゴルフ,サッカー,サイクリング,ハイキング,水族館,フラワーパーク,しいたけ狩り",
+    "handicappedFacilities": [
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      },
+      {
+        "item": "館内に車椅子利用可能なトイレあり"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "※大人（中学生以上）のみ別途入湯税150円を頂戴いたします。,※ご予約は1室大人2名様より承ります。大人1名、お子様１名でのご利用時、お子様は大人料金となります。,※2才・3才のお子様は施設使用料（食事/館内着付・布団なし）3,600円、0才・1才のお子様は無料。,※3才以下のお子様は利用人数には入力せず、予約時の【備考欄】に年齢と人数入力してください。,※0才から3才のお子様で布団をご利用になる場合は、1組1,100円にてご用意が可能です。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の80％    <BR>3日前から           ：宿泊料金の50％    <BR>7日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Discover"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "AEON"
+      },
+      {
+        "card": "JACCS"
+      },
+      {
+        "card": "CF"
+      },
+      {
+        "card": "楽天カード"
+      },
+      {
+        "card": "デビットカード"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "宿泊のお客様は鴨川シーワールド入館無料（フロントにて手続き後、ホテルより徒歩０分で入館）",
+    "otherInformation": null
+  }
+}

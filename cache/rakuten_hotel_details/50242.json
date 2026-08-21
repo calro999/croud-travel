@@ -1,0 +1,262 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 50242,
+    "hotelName": "あわらの隠れ宿　ゆ楽　ＹＵＲＡＫＵ",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D50242",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D50242%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D50242",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D50242",
+    "hotelKanaName": "あわらのかくれやど　ゆらく　ＹＵＲＡＫＵ",
+    "hotelSpecial": "天然お風呂が自慢！露天風呂付客室は2室限定★貸切露天風呂50分1,500円★",
+    "hotelMinCharge": 7680,
+    "latitude": 130405.23,
+    "longitude": 490295.45,
+    "postalCode": "910-4105",
+    "address1": "福井県",
+    "address2": "あわら市舟津2-15",
+    "telephoneNo": "0776-77-7700",
+    "faxNo": "0776-77-1881",
+    "access": "JR芦原温泉駅より10分(送迎無料:要予約) 車で北陸道金津ICより15分。金沢より60分。小松空港より45分。",
+    "parkingInformation": "有り　無料100台（正面玄関までお越しください。係が駐車場へご案内させていただきます。",
+    "nearestStation": "芦原温泉",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/50242/50242.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/50242.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/50242/50242_kya.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/50242.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/50242/50242map.gif",
+    "reviewCount": 1967,
+    "reviewAverage": 4.11,
+    "userReview": "日本海の幸を満喫「量より質会席」をいただきましたが、日本海の幸を堪能しました。量も十分ありました。岩盤浴や卓球が無料で体験できます。残念だったのは、自販機の場所がわかりにくく、アルコールの販売…　2026-08-13 07:25:23投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=50242\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.23,
+    "locationAverage": 4.09,
+    "roomAverage": 4.02,
+    "equipmentAverage": 3.97,
+    "bathAverage": 4.23,
+    "breakfastAverage": 4.04,
+    "dinnerAverage": 4.13,
+    "cleanlinessAverage": 3.99
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "hukui",
+    "smallClassCode": "awara",
+    "areaName": "あわら・三国",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "18:30"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 45,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送（無料）"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー(貸出)"
+      },
+      {
+        "item": "カセットデッキ(貸出)"
+      },
+      {
+        "item": "加湿器(貸出)"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "Wi-Fiは全館利用可能(無料)です。"
+      },
+      {
+        "item": "貸切風呂(要予約制)事前にお電話にてお問い合わせください。"
+      },
+      {
+        "item": "送迎バスは事前予約制ですので旅館へ予めお電話にてご予約をお願いいたします。"
+      },
+      {
+        "item": "ラウンジ"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "ゲームコーナー"
+      },
+      {
+        "item": "卓球"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "広間"
+      },
+      {
+        "breakfastPlace": "食事処"
+      },
+      {
+        "dinnerPlace": "広間"
+      },
+      {
+        "dinnerPlace": "食事処"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathType": "岩盤浴"
+      },
+      {
+        "bathQuality": "低張性弱アルカリ性泉"
+      },
+      {
+        "bathQuality": "ナトリウム塩化物泉"
+      },
+      {
+        "bathBenefits": "関節痛"
+      },
+      {
+        "bathBenefits": "神経痛"
+      },
+      {
+        "bathBenefits": "婦人病"
+      }
+    ],
+    "aboutLeisure": "海水浴,釣り,海釣り,遊園地,水族館",
+    "handicappedFacilities": [
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "大浴場浴槽に手すりあり"
+      },
+      {
+        "item": "アレルギーに配慮した料理への対応可能"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "■喫煙出来る和室でのご用意となります。(ベットのご用意はございません。),■入湯税大人150円別途頂きます。,■最終チェックインは18時30分となります。,■ご夕食のお時間：18時～最終19時スタートのご案内となります。,【お子様のお食事】,■小学生：お子様膳■幼児(食事あり)：お子様ランチ,※大人と同じ料理内容をご希望の際は大人に含めてご予約ください。,★ペットの受け入れ不可★",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>3日前から           ：宿泊料金の50％    <BR>7日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "OMC"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "AEON"
+      },
+      {
+        "card": "JACCS"
+      },
+      {
+        "card": "ORICO"
+      },
+      {
+        "card": "JTB"
+      },
+      {
+        "card": "楽天カード"
+      },
+      {
+        "card": "ANA"
+      },
+      {
+        "card": "JAL"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": "☆大浴場のご利用時間☆チェックイン〜24：00まで　25：00〜チェックアウトまでとなります,☆庭園露天風呂「光仁の湯」のご利用時間☆チェックイン〜24：00まで女性,　　　　　　　　　　　　　　　　　　　　　　　　　　　　　25：00〜10：00まで男性"
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 192332,
+    "hotelName": "余市ヴィンヤードグランピング",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D192332",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D192332%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D192332",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D192332",
+    "hotelKanaName": "よいちヴぃんやーどぐらんぴんぐ",
+    "hotelSpecial": "最高の外飲み体験をあなたに。",
+    "hotelMinCharge": 13420,
+    "latitude": 155381.18,
+    "longitude": 506967.19,
+    "postalCode": "046-0002",
+    "address1": "北海道",
+    "address2": "余市郡余市町登町1399-1",
+    "telephoneNo": "011-839-8740",
+    "faxNo": "000-000-0000",
+    "access": "JR余市駅より車で約15分、中央バス・余市駅前十字路バス停より車で約13分、余市ICより車で約5分",
+    "parkingInformation": "有り　２４台　無料　予約不要",
+    "nearestStation": "余市",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/192332/192332.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/192332.jpg",
+    "roomImageUrl": null,
+    "roomThumbnailUrl": null,
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/192332/192332map.gif",
+    "reviewCount": 26,
+    "reviewAverage": 4.5,
+    "userReview": "お酒の種類が豊富で食事も美味しいグランピング日常とは離れてお酒を楽しむグランピング。お酒は飲み放題で「余市」まで飲めて種類も豊富。近所のドメーヌのワインも楽しめる。食事も地域の物を提供して…　2026-08-09 09:55:41投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=192332\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.65,
+    "locationAverage": 4.35,
+    "roomAverage": 4.5,
+    "equipmentAverage": 4.35,
+    "bathAverage": 4.25,
+    "breakfastAverage": 4.58,
+    "dinnerAverage": 4.67,
+    "cleanlinessAverage": 4.44
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "hokkaido",
+    "smallClassCode": "otaru",
+    "areaName": "小樽・キロロ・積丹・余市",
+    "hotelClassCode": "PENSION",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "19:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 12,
+    "roomFacilities": [
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "リンス"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "E-Mail送信可"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "部屋"
+      },
+      {
+        "breakfastPlace": "個室"
+      }
+    ],
+    "aboutBath": [],
+    "aboutLeisure": null,
+    "handicappedFacilities": [],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "チェックインが予定時刻を過ぎる場合は必ずご連絡ください。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>6日前から           ：宿泊料金の50％    <BR>14日前から          ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": null
+  }
+}

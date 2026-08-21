@@ -1,0 +1,271 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 180527,
+    "hotelName": "グランヴィリオホテル宮島　和蔵　－ルートインホテルズ－",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D180527",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D180527%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D180527",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D180527",
+    "hotelKanaName": "ぐらんヴぃりおほてる　みやじま　わくら　るーといんほてるず",
+    "hotelSpecial": "世界遺産「宮島」を対岸に望める贅沢な佇まい。こだわりのおもてなしで、お客様をお迎えします。",
+    "hotelMinCharge": 6750,
+    "latitude": 123488.61,
+    "longitude": 476281.95,
+    "postalCode": "739-0412",
+    "address1": "広島県",
+    "address2": "廿日市市宮島口西1丁目1ｰ37",
+    "telephoneNo": "050-5576-8002",
+    "faxNo": "0829-50-2502",
+    "access": "JR山陽本線　宮島口駅よりホテルまで約１Ｋｍ　所要時間：徒歩約１２分　※JR宮島口駅～ホテル間　無料送迎バス運行有り",
+    "parkingInformation": "有り　駐車料金無料　先着順　普通車１７１台　大型バス４台（大型バス駐車場は要予約）",
+    "nearestStation": "宮島口",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/180527/180527.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/180527.jpg",
+    "roomImageUrl": null,
+    "roomThumbnailUrl": null,
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/180527/180527map.gif",
+    "reviewCount": 1519,
+    "reviewAverage": 4.59,
+    "userReview": "無料サービスが充実、食事も温泉も大満足 無料のおもてなしサービスがすごいです。ウエルカムソフトクリームから始まって,フリードリンクや選べる浴衣などとても充実しています。お盆の時期だったので館内も混…　2026-08-15 20:14:01投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=180527\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.58,
+    "locationAverage": 4.6,
+    "roomAverage": 4.55,
+    "equipmentAverage": 4.57,
+    "bathAverage": 4.55,
+    "breakfastAverage": 4.62,
+    "dinnerAverage": 4.63,
+    "cleanlinessAverage": 4.63
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "hiroshima",
+    "smallClassCode": "miyajima",
+    "areaName": "宮島・宮浜温泉・廿日市",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "24:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 210,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "衛星放送"
+      },
+      {
+        "item": "有料ビデオ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "くつろぎ着の作務衣"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "���ーラウンジ"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "サウナ"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン(バイキング)"
+      },
+      {
+        "dinnerPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "サウナ"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "ナトリウム・塩化物強塩泉"
+      },
+      {
+        "bathBenefits": "外傷"
+      },
+      {
+        "bathBenefits": "ストレス"
+      },
+      {
+        "bathBenefits": "冷え性"
+      }
+    ],
+    "aboutLeisure": "水族館",
+    "handicappedFacilities": [
+      {
+        "item": "車椅子可"
+      },
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "車椅子利用者用客室あり"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      }
+    ],
+    "linguisticLevel": "英語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "【重要：広島県宿泊税導入についてお知らせ】2026年4月1日（水）以降のご宿泊分より、広島県において宿泊税が導入されます。,宿泊料金とは別にチェックイン時に1人1泊につき宿泊税をお支払いただきます。1人1泊6000円以上（税抜）→200円,画面上に表示される宿泊料金には消費税は含まれておりますが、宿泊税は含まれておりませんのでご注意ください。2026年4月1日より前に予約された場合でも、4月1日以降の宿泊分には宿泊税が適用されます。,詳細は広島県のホームページをご覧ください。,【お知らせ：バーラウンジ「瀬戸」休業曜日】バーラウンジ「瀬戸」の休業日を当面の期間、月曜日と火曜日とさせていただきます。,チェックインが予定時間を過ぎる場合は必ずご連絡下さい。団体ご予約（１５名様以上）の場合、別途規定によるキャンセル料を請求させていただきます。,当ホテルとの宿泊契約には、当ホテルが定める宿泊約款が適用されます。宿泊約款の内容については各ホテルにお問合せください。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の80％    <BR>前日                ：宿泊料金の50％    <BR>3日前から           ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "楽天カード"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "湯上がりサロンでのお茶サービス",
+    "otherInformation": "無料送迎バス時刻　※予約不可・先着順　※宮島口駅発8：05〜10：05の間　土・日・祝日のみ運行なし,ホテル発→JR宮島口駅　7:50〜10:50　14:50〜18:20　30分間隔で運行,JR宮島口駅発→ホテル　8:05〜11:05　14:35〜18:35　30分間隔で運行"
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 5690,
+    "hotelName": "甲府駅北口　徒歩１分　ホテルニューステーション＜山梨県＞",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D5690",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D5690%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D5690",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D5690",
+    "hotelKanaName": "こうふえききたぐち　とほいっぷん　ほてるにゅーすてーしょん＜やまなしけん＞",
+    "hotelSpecial": "JR甲府駅最寄りのホテル★徒歩1分★有料駐車場※事前予約制 【無料日替わり朝食】",
+    "hotelMinCharge": 6490,
+    "latitude": 128395.17,
+    "longitude": 498858.99,
+    "postalCode": "400-0024",
+    "address1": "山梨県",
+    "address2": "甲府市北口1-4-15",
+    "telephoneNo": "055-253-8181",
+    "faxNo": "055-253-8288",
+    "access": "JR甲府駅北口より徒歩１分　甲府南ＩＣ及び甲府昭和ＩＣより車で約15分　　　　　",
+    "parkingInformation": "有料駐車場9台600円・バイク500円（ご予約がない場合は先着順　満車の場合は近隣有料駐車場へ）",
+    "nearestStation": "甲府",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5690/5690.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/5690.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5690/5690_sig.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/5690.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5690/5690map.gif",
+    "reviewCount": 1756,
+    "reviewAverage": 3.49,
+    "userReview": "立地と対応は最高だが空調調整が難しく不眠場所やフロントの対応は最高でしたが部屋が狭いせいか空調が上手くいかず点ければ寒く停めれば暑く眠れませんでした。クチコミの詳細はこちらから　https:/…　2026-08-10 07:52:44投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=5690\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 3.67,
+    "locationAverage": 3.96,
+    "roomAverage": 3.34,
+    "equipmentAverage": 3.28,
+    "bathAverage": 3.28,
+    "breakfastAverage": 3.58,
+    "cleanlinessAverage": 3.43
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "yamanasi",
+    "smallClassCode": "kofu",
+    "areaName": "甲府・湯村・昇仙峡",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "16:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "24:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 80,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "モジュラージャック"
+      },
+      {
+        "item": "ファックス(貸出)"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "インターネット接続(一部、LAN形式)"
+      },
+      {
+        "item": "インターネット接続(一部、無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド(貸出)"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ(一部)"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "リンスインシャンプー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "マイナスイオンドライヤー(フロントにて貸し出し致しますが、数に限りがございます)"
+      },
+      {
+        "item": "クシはフロントにて御渡し致します。"
+      },
+      {
+        "item": "会議室"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "パソコン利用可"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "マッサージサービス"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "食堂"
+      }
+    ],
+    "aboutBath": [],
+    "aboutLeisure": "釣り,ゴルフ,サッカー,ハイキング,登山,陸上競技,博物館,美術館",
+    "handicappedFacilities": [],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "キャンセル料は当日100%、前日50%、２日前30%,但し、団体(10人以上)の場合は、当日100%、前日～２日前まで80%、３日前50%,有料駐車場・9台・600円　・バイク500円（ご予約がない場合は、先着順となります。満車の場合は近隣の有料駐車場をご利用ください。,※●徒歩限定プランはお車の駐車は出来ませんので近隣の有料駐車場にお停め下さい。●※,バス及び大型車両駐車不可",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の50％    <BR>2日前から           ：宿泊料金の30％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "CF"
+      },
+      {
+        "card": "楽天カード"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "時間外チェックイン可,時間外チェックアウト可",
+    "otherInformation": null
+  }
+}

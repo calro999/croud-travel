@@ -1,0 +1,238 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 139924,
+    "hotelName": "塩原温泉　眺望露天自家源泉の宿　ますだや（文豪の宿会）",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D139924",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D139924%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D139924",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D139924",
+    "hotelKanaName": "しおばらおんせん　ちょうぼうろてんじかげんせんのやど　ますだや（ぶんごうのやどかい）",
+    "hotelSpecial": "黄金色の湯の華が自慢の桝田屋源泉は塩原温泉郷でも当館だけ！展望風呂で湯っくりリラックス",
+    "hotelMinCharge": 11500,
+    "latitude": 133084.23,
+    "longitude": 503363.38,
+    "postalCode": "329-2921",
+    "address1": "栃木県",
+    "address2": "那須塩原市塩原729 ",
+    "telephoneNo": "0287-32-2211",
+    "faxNo": null,
+    "access": "車：東北道 西那須野塩原ICより約25分　電車：東北新幹線 那須塩原駅よりバス約60分終点下車 徒歩3分",
+    "parkingInformation": "有り　無料　普通車８台+第2Ｐ／2台 （１部屋１台まで）",
+    "nearestStation": "西那須野",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/139924/139924.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/139924.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/139924/139924_kya.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/139924.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/139924/139924map.gif",
+    "reviewCount": 129,
+    "reviewAverage": 4.36,
+    "userReview": null
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 0,
+    "locationAverage": 0,
+    "roomAverage": 0,
+    "equipmentAverage": 0,
+    "bathAverage": 0,
+    "breakfastAverage": 4.25,
+    "dinnerAverage": 4.2,
+    "cleanlinessAverage": 4.08
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "tochigi",
+    "smallClassCode": "shiobara",
+    "areaName": "塩原・矢板・大田原・西那須野",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "22:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 10,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "石鹸（液体）"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "洗顔ソープ"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "くし"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "電子レンジ（一部・要予約）"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "全室【禁煙】角部屋 の洗面台・ウォシュレットトイレ・風呂は便利な独立型で冷暖暖房完備"
+      },
+      {
+        "item": "7F展望風呂（無料：23時から6時は内鍵制で貸切、予約不要）貸切露天（有料）の予約はチェックイン時"
+      },
+      {
+        "item": "館内にエレベーター、館内玄関スロープ、お部屋玄関に手すり有り"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "ルームサービス"
+      },
+      {
+        "item": "��車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "食事処"
+      },
+      {
+        "breakfastPlace": "ダイニングルーム"
+      },
+      {
+        "dinnerPlace": "食事処"
+      },
+      {
+        "dinnerPlace": "ダイニングルーム"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathType": "天然温泉"
+      },
+      {
+        "bathQuality": "炭酸水素塩泉"
+      },
+      {
+        "bathQuality": "ナトリウム・カルシウム塩化物泉"
+      },
+      {
+        "bathBenefits": "打ち身"
+      },
+      {
+        "bathBenefits": "筋肉痛"
+      },
+      {
+        "bathBenefits": "疲労回復"
+      }
+    ],
+    "aboutLeisure": "果物狩り,釣り,渓流釣り,カヌー,ウォータースポーツ,渓流下り,テニス,ゴルフ,サッカー,パラグライダー,サイクリング,ハイキング,スキー,クロスカントリー,乗馬,ロッククライミング,登山,洞窟探検,遊園地,動物園,博物館,フラワーパーク,テーマパーク,美術館,山菜取り",
+    "handicappedFacilities": [
+      {
+        "item": "貸出用車椅子"
+      },
+      {
+        "item": "客室内に洋式トイレあり"
+      }
+    ],
+    "linguisticLevel": "中国語：少し分かるスタッフが数人いる。<BR>英語：少し分かるスタッフが数人いる。<BR>韓国語：少し分かるスタッフが数人いる。"
+  },
+  "hotelPolicyInfo": {
+    "note": "入湯税を別途頂きます。12歳以上大人　150円 （日帰り利用の場合はお一人様50円）,1室大人2名以下の場合、小学生幼児も大人料金となります。ご予約後に修正させて頂きます。,21時以降は最終22時までレイトチェックインオプションでチェックイン可能です（2,200円)！最終チェックインは22時まで！,食物アレルギーにはご対応いたしかねます。,2泊連泊でご予約の場合、お食事内容は同じです。,駐車可能なお車は1部屋のご予約につき1台とさせていただいております。,お知らせ：日本クレジット協会セキュリティガイドラインにより2025年3月以降クレジットカードPINバイパス機能（暗証番号スキップ機能）が廃止されます。,ご予約プランごとにチェックイン開始時刻やチェックアウト時刻が異なりますのでご注意ください",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>前日15時から        ：宿泊料金の100％   <BR>2日前15時から       ：宿泊料金の80％    <BR>3日前15時から       ：宿泊料金の70％    <BR>4日前15時から       ：宿泊料金の60％    <BR>5日前15時から       ：宿泊料金の50％    <BR>6日前15時から       ：宿泊料金の40％    <BR>7日前15時から       ：宿泊料金の30％    <BR>8日前15時から       ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Discover"
+      }
+    ],
+    "aboutCreditCardNote": "カード決済（JCB・VISA・マスター・AMEX・ダイナース・Discover）の他、ペイペイも可能",
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": null,
+    "otherInformation": null
+  }
+}

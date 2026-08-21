@@ -1,0 +1,232 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 29814,
+    "hotelName": "千倉温泉　千倉館",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D29814",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D29814%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D29814",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D29814",
+    "hotelKanaName": "ちくらおんせん　ちくらかん",
+    "hotelSpecial": "千葉県最古の温泉ここにあり！都内の数々の名店で料理長を歴任した板前が手掛ける手作り料理が自慢の宿★",
+    "hotelMinCharge": 8800,
+    "latitude": 125853.53,
+    "longitude": 503861.28,
+    "postalCode": "295-0012",
+    "address1": "千葉県",
+    "address2": "南房総市千倉町南朝夷1045",
+    "telephoneNo": "0470-44-3211",
+    "faxNo": "0470-44-3213",
+    "access": "ＪＲ内房線千倉駅.　館山自動車道富浦インターより30分",
+    "parkingInformation": "無料駐車場あり　（16台）予約不要",
+    "nearestStation": "千倉",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29814/29814.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/29814.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29814/29814_on.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/29814.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29814/29814map.gif",
+    "reviewCount": 162,
+    "reviewAverage": 4.09,
+    "userReview": "海鮮料理は絶品だが部屋と設備の不便さが残念食事が大変美味しく頂きました。特に海鮮料理はさすがでした。部屋はスタンダードに泊まりかなり古かったので、少し残念でした。老舗旅館なので仕方がないとは思いま…　2026-08-12 17:19:23投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=29814\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 4.19,
+    "locationAverage": 3.99,
+    "roomAverage": 4,
+    "equipmentAverage": 3.95,
+    "bathAverage": 4.05,
+    "breakfastAverage": 4.2,
+    "dinnerAverage": 4.24,
+    "cleanlinessAverage": 4.16
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "tiba",
+    "smallClassCode": "tateyama",
+    "areaName": "南房総・館山・白浜・千倉",
+    "hotelClassCode": "RYOKAN",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "lastCheckinTime": "18:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 16,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(一部、無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "加湿器"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "リンスインシャンプー"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "シャワーキャップ"
+      },
+      {
+        "item": "ブラシ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      },
+      {
+        "item": "金庫"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "大浴場"
+      },
+      {
+        "item": "露天風呂"
+      },
+      {
+        "item": "禁煙ルーム"
+      },
+      {
+        "item": "売店"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "卓球"
+      },
+      {
+        "item": "送迎バス"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "炉端処"
+      },
+      {
+        "breakfastPlace": "食事処"
+      },
+      {
+        "dinnerPlace": "炉端処"
+      },
+      {
+        "dinnerPlace": "食事処"
+      }
+    ],
+    "aboutBath": [
+      {
+        "bathType": "温泉"
+      },
+      {
+        "bathType": "大浴場"
+      },
+      {
+        "bathType": "露天風呂"
+      },
+      {
+        "bathType": "家族風呂"
+      },
+      {
+        "bathQuality": "硫黄泉"
+      },
+      {
+        "bathQuality": "ナトリウム塩化物泉"
+      },
+      {
+        "bathBenefits": "婦人病"
+      },
+      {
+        "bathBenefits": "慢性消化器病"
+      },
+      {
+        "bathBenefits": "リウマチ・神経病"
+      }
+    ],
+    "aboutLeisure": "花摘み、フルーツ狩り（いちご、メロン、みかん）,海水浴,海釣り,ウィンドサーフィン,ウォータースポーツ,ゴルフ,サッカー,ハイキング,陸上競技,博物館,水族館,テーマパーク,美術館",
+    "handicappedFacilities": [
+      {
+        "item": "客室内に洋式トイレあり"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": "当館は４階建でエレベーターがございません。すべて階段での移動となります。,事前の部屋指定はご遠慮くださいますようお願いいたします。,ご夕食は18時15分が最終の開始時間となりますので、18時までのチェックインをお願い致します。,チェックイン予定時刻より遅れる場合は必ずご連絡下さい。,当日の交通手段をお知らせ下さいませ。,別途入湯税がお一人様150円かかります。,ベランダ含め全室禁煙となります。（大浴場前に指定の喫煙所がございます）,人数の減少であっても、キャンセル料を頂戴いたします。",
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>2日前から           ：宿泊料金の50％    <BR>6日前から           ：宿泊料金の40％    <BR>7日前から           ：宿泊料金の20％    <BR>10日前から          ：宿泊料金の20％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "JCB"
+      },
+      {
+        "card": "American Express"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "Saison"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "モーニングコーヒーサービス,ウェルカムドリンクサービス,お部屋で緑茶サービス",
+    "otherInformation": "※平成２９年１月９日より全客室禁煙となりますのでご理解、お願いします。"
+  }
+}

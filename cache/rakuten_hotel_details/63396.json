@@ -1,0 +1,215 @@
+{
+  "hotelBasicInfo": {
+    "hotelNo": 63396,
+    "hotelName": "パーソナルホテル　ＹＯＵ",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FuPw0Q%2F%3Ff_no%3D63396",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FZwI4Q%2F%3Ff_no%3D63396%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2FG02wZ%2F%3FnoTomariHotel%3D63396",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fif%2F50xNk%2F%3Ff_hotel_no%3D63396",
+    "hotelKanaName": "ぱーそなるほてる　ゆう",
+    "hotelSpecial": "リーズナブルで清潔なお部屋☆チェックアウト11時☆無線ＬＡＮ接続無料。武雄温泉へ徒歩4分！全館禁煙",
+    "hotelMinCharge": 6000,
+    "latitude": 119489.13,
+    "longitude": 468069.64,
+    "postalCode": "843-0022",
+    "address1": "佐賀県",
+    "address2": "武雄市武雄町武雄7283",
+    "telephoneNo": "0954-23-2007",
+    "faxNo": "0954-22-3830",
+    "access": "ＪＲ佐世保線　武雄温泉駅より徒歩８分 長崎自動車道　武雄北方インターチェンジから車で８分",
+    "parkingInformation": "有り　先着22台無料（有料6台/1泊500円）",
+    "nearestStation": "武雄温泉",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/63396/63396.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/63396.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/63396/63396_kya.jpg",
+    "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/63396.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/63396/63396map.gif",
+    "reviewCount": 331,
+    "reviewAverage": 3.76,
+    "userReview": "コンセントが多く朝食も手作りで満足出張で利用しました。武雄温泉駅からは少し歩きますが、徒歩圏内にあります。選択肢は多くはないものの、飲食店やコンビニもあり、コインランドリーなどもあります。…　2026-07-25 18:59:42投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/if/50xNk/?f_hotel_no=63396\" class=\"3click\">つづきはこちら</a>"
+  },
+  "hotelRatingInfo": {
+    "serviceAverage": 3.84,
+    "locationAverage": 3.85,
+    "roomAverage": 3.87,
+    "equipmentAverage": 3.73,
+    "bathAverage": 3.77,
+    "breakfastAverage": 3.88,
+    "cleanlinessAverage": 3.84
+  },
+  "hotelDetailInfo": {
+    "reserveTelephoneNo": "050-2017-8989",
+    "middleClassCode": "saga",
+    "smallClassCode": "ureshino",
+    "areaName": "嬉野・武雄・伊万里・有田・太良",
+    "hotelClassCode": "HOTEL",
+    "checkinTime": "15:00",
+    "checkoutTime": "11:00",
+    "lastCheckinTime": "24:00"
+  },
+  "hotelFacilitiesInfo": {
+    "hotelRoomNum": 38,
+    "roomFacilities": [
+      {
+        "item": "テレビ"
+      },
+      {
+        "item": "ケーブルＴＶ"
+      },
+      {
+        "item": "電話"
+      },
+      {
+        "item": "インターネット接続(無線LAN形式)"
+      },
+      {
+        "item": "湯沸かしポット"
+      },
+      {
+        "item": "お茶セット"
+      },
+      {
+        "item": "冷蔵庫"
+      },
+      {
+        "item": "ドライヤー"
+      },
+      {
+        "item": "ズボンプレッサー(貸出)"
+      },
+      {
+        "item": "電気スタンド"
+      },
+      {
+        "item": "アイロン(貸出)"
+      },
+      {
+        "item": "個別空調"
+      },
+      {
+        "item": "洗浄機付トイレ"
+      },
+      {
+        "item": "ボディーソープ"
+      },
+      {
+        "item": "シャンプー"
+      },
+      {
+        "item": "コンディショナー"
+      },
+      {
+        "item": "ハミガキセット"
+      },
+      {
+        "item": "カミソリ"
+      },
+      {
+        "item": "タオル"
+      },
+      {
+        "item": "バスタオル"
+      },
+      {
+        "item": "浴衣"
+      },
+      {
+        "item": "スリッパ"
+      }
+    ],
+    "hotelFacilities": [
+      {
+        "item": "各部屋のベットに高級安眠マットを使用しております"
+      },
+      {
+        "item": "マンガコーナー新設(在庫１０００冊)☆オリジナル周辺地図あり"
+      },
+      {
+        "item": "全館禁煙"
+      },
+      {
+        "item": "レストラン"
+      },
+      {
+        "item": "喫茶"
+      },
+      {
+        "item": "宴会場"
+      },
+      {
+        "item": "自動販売機"
+      },
+      {
+        "item": "コインランドリー(有料)"
+      },
+      {
+        "item": "クリーニングサービス"
+      },
+      {
+        "item": "ファックス送信可"
+      },
+      {
+        "item": "モーニングコール"
+      },
+      {
+        "item": "宅配便"
+      },
+      {
+        "item": "駐車場あり"
+      }
+    ],
+    "aboutMealPlace": [
+      {
+        "breakfastPlace": "レストラン"
+      }
+    ],
+    "aboutBath": [],
+    "aboutLeisure": "宇宙科学館　　武雄温泉　ゴルフ場　,テニス,ゴルフ",
+    "handicappedFacilities": [
+      {
+        "item": "客室内に洋式トイレあり"
+      }
+    ],
+    "linguisticLevel": null
+  },
+  "hotelPolicyInfo": {
+    "note": null,
+    "cancelPolicy": "キャンセル料は以下の通り頂戴いたします。<BR>連絡なしの不泊/不着 ：宿泊料金の100％   <BR>当日                ：宿泊料金の100％   <BR>前日                ：宿泊料金の80％    <BR>3日前から           ：宿泊料金の50％    ",
+    "availableCreditCard": [
+      {
+        "card": "VISA"
+      },
+      {
+        "card": "Diner's Club"
+      },
+      {
+        "card": "UC"
+      },
+      {
+        "card": "DC"
+      },
+      {
+        "card": "NICOS"
+      },
+      {
+        "card": "UFJ Card"
+      },
+      {
+        "card": "Master Card"
+      },
+      {
+        "card": "デビットカード"
+      },
+      {
+        "card": "利用可"
+      }
+    ],
+    "aboutCreditCardNote": null,
+    "aboutPointAdd": null,
+    "aboutMileageAdd": null
+  },
+  "hotelOtherInfo": {
+    "privilege": "お部屋で緑茶サービス,着替え浴衣サービス",
+    "otherInformation": "ハウステンボスから約40分！「宿泊費は安く抑えたい」&「温泉地も楽しんで帰りたい！」なら、当ホテル！"
+  }
+}
