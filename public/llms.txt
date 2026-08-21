@@ -78,9 +78,12 @@
 - [【2026年最新】うなぎ料理が美味しい温泉宿10選！名宿徹底比較](https://croud-travel.pages.dev/posts/eel-unagi-kaiseki-grilled-hot-spring-hotels-guide): 名物うなぎ料理・極上鰻重＆白焼き会席が絶品の温泉宿10選（全国）
 - [【2026年最新】源泉かけ流し100%のおすすめ温泉宿10選！完全非加水比較](https://croud-travel.pages.dev/posts/genuine-free-flow-pure-natural-spring-hotels-guide): 源泉かけ流し100%加水加温なしの究極温泉宿おすすめ10選（全国）
 - [【2026年最新】芒硝泉おすすめ温泉宿10選！高血圧予防・美肌比較](https://croud-travel.pages.dev/posts/glauber-salt-sodium-sulfate-hot-spring-hotels-guide): 芒硝泉（ナトリウム-硫酸塩泉）高血圧予防・動脈硬化改善の美肌名湯宿10選（全国）
+- [【2026年最新】石膏泉おすすめ温泉宿10選！傷の湯・鎮静美肌比較](https://croud-travel.pages.dev/posts/gypsum-calcium-sulfate-hot-spring-hotels-guide): 石膏泉（カルシウム-硫酸塩泉）切り傷・火傷・肌再生の鎮静美肌名湯宿10選（全国）
 - [【2026年最新】馬肉料理・桜鍋が美味しい温泉宿10選！名宿比較](https://croud-travel.pages.dev/posts/horse-meat-sakura-nabe-sashimi-hot-spring-hotels-guide): 名物馬肉料理・桜鍋・極上馬刺し会席が絶品の温泉宿10選（全国）
+- [【2026年最新】インフィニティ温泉宿おすすめ10選！絶景露天比較](https://croud-travel.pages.dev/posts/infinity-hot-spring-ocean-view-baths-hotels-guide): 海や湖と一体化するインフィニティ温泉露天風呂おすすめ宿10選（全国）
 - [【2026年最新】含鉄泉が自慢のおすすめ金泉にごり湯宿10選！徹底比較](https://croud-travel.pages.dev/posts/iron-rich-golden-warmth-hot-spring-hotels-guide): 含鉄泉・黄金の湯赤茶色にごり湯温泉宿おすすめ10選（全国）
 - [【2026年最新】展望ビューバス・ジャグジー付きおすすめ高級ホテル10選！徹底比較](https://croud-travel.pages.dev/posts/luxury-panoramic-view-bath-jacuzzi-hotels-guide): 展望ビューバス・ジャグジー付き高級ホテルおすすめ10選（全国）
+- [【2026年最新】松阪牛が美味しいおすすめ温泉宿10選！和牛比較](https://croud-travel.pages.dev/posts/matsusaka-wagyu-beef-charcoal-steak-hotels-guide): 松阪牛・ブランド黒毛和牛の炭火ステーキが絶品の温泉宿10選（全国）
 - [【2026年最新】モール温泉おすすめ宿10選！植物性美肌湯比較](https://croud-travel.pages.dev/posts/moor-hot-spring-plant-derived-humic-hotels-guide): モール温泉・植物性フミン酸美肌温泉おすすめ宿10選（全国）
 - [【2026年最新】天然炭酸泉・泡付きラムネ温泉宿おすすめ10選！徹底比較](https://croud-travel.pages.dev/posts/natural-carbonated-spring-sparkling-hotels-guide): 天然炭酸泉・高濃度ラムネ温泉（泡付きぬる湯）おすすめ宿10選（全国）
 - [【2026年最新】全室オーシャンフロントのおすすめ高級ホテル10選！徹底比較](https://croud-travel.pages.dev/posts/oceanfront-horizon-panoramic-resort-hotels-guide): 全室オーシャンフロント高級リゾートホテルおすすめ10選（全国）
@@ -105,6 +108,3 @@
 - [【2026名湯】古湯温泉 旅館大和屋宿泊記！佐賀のぬる湯美肌温泉と酒風呂・佐賀牛会席完全ガイド](https://croud-travel.pages.dev/posts/furuyu-onsen-yamatoya-saga-guide): 古湯温泉 旅館 大和屋（やまとや）（佐賀県）
 - [【2026最新】下呂温泉おすすめ旅館ランキング10選！日本三名泉の美肌湯と飛騨牛会席比較](https://croud-travel.pages.dev/posts/gero-onsen-ranking-gourmet-hotels-guide): 下呂温泉おすすめ厳選旅館ランキング10選（岐阜県）
 - [【2026秘湯】会津芦ノ牧温泉 竹林の湯宿 はやし屋本館宿泊記！渓谷絶景露天風呂と会津郷土料理](https://croud-travel.pages.dev/posts/hayashiya-honkan-aizu-onsen-guide): 竹林の湯宿 はやし屋 本館（福島県）
-- [【2026年最新】インフィニティ温泉プールがあるおすすめホテル宿10選！徹底比較](https://croud-travel.pages.dev/posts/heated-infinity-pool-spa-resort-hotels-guide): インフィニティ温泉プール・温水SPAおすすめ宿10選（全国）
-- [【2026秘湯】老舗名湯 巳喜屋旅館・百八治温泉宿泊ガイド！源泉かけ流しと歴史情緒の宿](https://croud-travel.pages.dev/posts/historic-mikiya-hyakuhachiji-ryokan-guide): 歴史ある老舗名湯 巳喜屋・百八治温泉おすすめ宿特集（全国）
-- [【2026決定版】北海道のスパホテル・温泉リゾートおすすめ10選！極上サウナ＆美肌湯徹底比較](https://croud-travel.pages.dev/posts/hokkaido-spa-resort-hotels-guide): 北海道スパホテル＆温泉リゾート厳選10選（北海道）
