@@ -75,6 +75,7 @@
 - [【2026年最新】岩魚・鮎の塩焼きが美味しいおすすめ温泉宿10選！徹底比較](https://croud-travel.pages.dev/posts/charcoal-hearth-river-fish-sweetfish-trout-hotels-guide): 岩魚・鮎・山女魚囲炉裏炭火塩焼きおすすめ温泉宿10選（全国）
 - [【2026年最新】ぼたん鍋・猪料理が美味しいおすすめ温泉宿10選！徹底比較](https://croud-travel.pages.dev/posts/charcoal-hearth-wild-boar-botan-nabe-hotels-guide): ぼたん鍋・イノシシ囲炉裏炭火料理おすすめ温泉宿10選（全国）
 - [【2026年最新】塩化物泉が自慢のおすすめ美肌温泉宿10選！温まり徹底比較](https://croud-travel.pages.dev/posts/chloride-hot-spring-warming-moisturizing-hotels-guide): 塩化物泉・ポカポカ保温美肌温泉宿おすすめ10選（全国）
+- [【2026年最新】断崖絶壁露天風呂おすすめ宿10選！絶景海比較](https://croud-travel.pages.dev/posts/cliffside-ocean-view-open-air-baths-hotels-guide): 断崖絶壁・オーシャンクリフ絶景露天風呂が自慢のおすすめ宿10選（全国）
 - [【2026年最新】うなぎ料理が美味しい温泉宿10選！名宿徹底比較](https://croud-travel.pages.dev/posts/eel-unagi-kaiseki-grilled-hot-spring-hotels-guide): 名物うなぎ料理・極上鰻重＆白焼き会席が絶品の温泉宿10選（全国）
 - [【2026年最新】源泉かけ流し100%のおすすめ温泉宿10選！完全非加水比較](https://croud-travel.pages.dev/posts/genuine-free-flow-pure-natural-spring-hotels-guide): 源泉かけ流し100%加水加温なしの究極温泉宿おすすめ10選（全国）
 - [【2026年最新】芒硝泉おすすめ温泉宿10選！高血圧予防・美肌比較](https://croud-travel.pages.dev/posts/glauber-salt-sodium-sulfate-hot-spring-hotels-guide): 芒硝泉（ナトリウム-硫酸塩泉）高血圧予防・動脈硬化改善の美肌名湯宿10選（全国）
@@ -105,6 +106,5 @@
 - [【2026年最新】星空が絶景のおすすめ温泉宿10選！天体観測比較](https://croud-travel.pages.dev/posts/stargazing-celestial-night-sky-hot-spring-hotels-guide): 星空観賞・満天の星が見える絶景温泉宿10選（全国）
 - [【2026年最新】硫酸塩泉が自慢のおすすめ美肌温泉宿10選！ハリ徹底比較](https://croud-travel.pages.dev/posts/sulfate-elasticity-firmness-beauty-hot-spring-hotels-guide): 硫酸塩泉・肌のハリ弾力アップ美肌温泉宿おすすめ10選（全国）
 - [【2026年最新】すっぽん料理が美味しい温泉宿10選！名宿徹底比較](https://croud-travel.pages.dev/posts/suppon-turtle-cuisine-hot-spring-hotels-guide): 名物すっぽん料理・極上すっぽん鍋が絶品の温泉宿10選（全国）
-- [【2026年最新】天然クエ鍋・クエ料理おすすめ温泉宿10選！名宿比較](https://croud-travel.pages.dev/posts/wild-kue-grouper-hot-spring-hotels-guide): 天然クエ鍋・クエ尽くし会席が絶品の温泉宿10選（全国）
-- [【2026年最新】阿波牛・あか牛が美味しいおすすめ温泉宿10選！西日本囲炉裏徹底比較](https://croud-travel.pages.dev/posts/charcoal-hearth-olive-beef-setouchi-hotels-guide): 阿波牛・あか牛・薩摩黒牛囲炉裏炭火会席おすすめ宿10選（全国）
-- [【2026年最新】仙台牛・とちぎ和牛が美味しいおすすめ温泉宿10選！東日本囲炉裏徹底比較](https://croud-travel.pages.dev/posts/charcoal-hearth-sendai-tochigi-wagyu-hotels-guide): 仙台牛・とちぎ和牛・山形牛囲炉裏炭火温泉宿おすすめ10選（全国）
+- [【2026年最新】ぬる湯温泉おすすめ宿10選！37℃不感温度比較](https://croud-travel.pages.dev/posts/tepid-bath-nuruyu-fukan-onsen-hotels-guide): 35℃〜38℃のぬる湯・不感温度温泉が自慢のおすすめ宿10選（全国）
+- [【2026年最新】とらふぐフルコース温泉宿おすすめ10選！本場比較](https://croud-travel.pages.dev/posts/torafugu-blowfish-kaiseki-gourmet-hotels-guide): 本場天然とらふぐフルコースが絶品のおすすめ温泉宿10選（全国）
