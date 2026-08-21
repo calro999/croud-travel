@@ -58,12 +58,15 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【2026年最新】収穫体験アグリツーリズモ宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/agriturismo-farm-stay-harvest-experience-hotels-guide): アグリツーリズモ＆収穫ファームステイ！牧場・農園リゾートホテルおすすめ10選（全国）
 - [【2026年最新】バーホテルおすすめ10選！ウイスキー宿比較](https://croud-travel.pages.dev/posts/bar-hotel-whisky-cocktail-retreat-hotels-guide): バーホテル＆ウイスキー・クラフトカクテルが主役の大人の隠れ家宿おすすめ10選（全国）
 - [【2026最新】ケーブルカーで行く秘境温泉宿おすすめ10選！比較＆予約ガイド](https://croud-travel.pages.dev/posts/cable-car-incline-secret-hot-spring-hotels-guide): 専用ケーブルカー・スロープカーで行く天空＆秘境温泉宿おすすめ10選（全国）
 - [【2026最新】フローティング朝食が楽しめるプールヴィラ10選！比較＆予約ガイド](https://croud-travel.pages.dev/posts/floating-breakfast-private-pool-villa-hotels-guide): フローティングブレックファスト＆プライベートプールヴィラおすすめ10選（全国）
+- [【2026年最新】乗馬体験ホテルおすすめ10選！牧場宿比較](https://croud-travel.pages.dev/posts/horse-riding-trekking-country-resort-hotels-guide): 乗馬・ホーストレッキング体験！馬と泊まるカントリーリゾートホテルおすすめ10選（全国）
 - [【2026最新】川床料理が旨い温泉宿おすすめ10選！比較＆予約ガイド](https://croud-travel.pages.dev/posts/kawadoko-riverbed-dining-onsen-hotels-guide): 川床・納涼床料理が自慢の京都＆全国の清流温泉旅館おすすめ10選（全国）
 - [【2026年最新】京都町家一棟貸しおすすめ10選！坪庭露天比較](https://croud-travel.pages.dev/posts/kyoto-machiya-private-rental-townhouse-hotels-guide): 京都町家一棟貸し＆坪庭・檜風呂付きプライベート町家旅館おすすめ10選（京都府）
 - [【2026年最新】海一望テラスジャグジー付き宿10選！比較ガイド](https://croud-travel.pages.dev/posts/ocean-view-private-terrace-jacuzzi-hotels-guide): 海一望！絶景プライベートジャグジー・ジェットバス付きテラス宿おすすめ10選（全国）
+- [【2026年最新】陶芸体験ができる温泉宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/pottery-craft-woodwork-artisan-retreat-hotels-guide): 本格陶芸・木工・ガラス工芸！ものづくりクラフト体験リゾートホテルおすすめ10選（全国）
 - [【2026年最新】酒蔵に泊まるホテルおすすめ10選！体験宿比較](https://croud-travel.pages.dev/posts/sake-brewery-kuramoto-pairing-retreat-hotels-guide): 酒蔵に泊まる！老舗酒蔵ホテル＆日本酒ペアリング酒造体験宿おすすめ10選（全国）
 - [【2026年最新】ウイスキー蒸溜所ホテルおすすめ10選！比較](https://croud-travel.pages.dev/posts/whisky-gin-distillery-tour-hotels-guide): クラフトジン＆ウイスキー蒸溜所ツアー直結！ディスティラリーホテルおすすめ10選（全国）
 - [【2026年最新】ワイナリー併設ホテルおすすめ10選！ワイン宿比較](https://croud-travel.pages.dev/posts/winery-stay-vineyard-resort-hotels-guide): ぶどう畑に泊まる！自社ワイナリー併設＆ヴィンヤードリゾートおすすめ10選（全国）
@@ -105,6 +108,3 @@
 - [【2026最新】うなぎ料理が美味しい温泉宿10選！比較＆予約ガイド](https://croud-travel.pages.dev/posts/eel-unagi-kaiseki-grilled-hot-spring-hotels-guide): 名物うなぎ料理・極上鰻重＆白焼き会席が絶品の温泉宿10選（全国）
 - [【2026最新】愛媛県の有名なもの・名物グルメ・特産品お土産ランキング！観光名所＆おすすめホテル完全攻略！人気宿比較](https://croud-travel.pages.dev/posts/ehime-famous-things-gourmet-spots-guide): 愛媛県の有名なもの・観光名所＆厳選おすすめ宿特集（愛媛県）
 - [【2026最新】愛媛県の温泉おすすめ旅館＆ホテルランキング10選！比較＆予約ガイド](https://croud-travel.pages.dev/posts/ehime-onsen-ranking-hotels-guide): 愛媛県のおすすめ温泉旅館＆ホテルランキング（愛媛県）
-- [【2026最新】福井県の有名なもの・名物グルメ・特産品お土産ランキング！観光名所＆おすすめホテル完全攻略！人気宿比較](https://croud-travel.pages.dev/posts/fukui-famous-things-gourmet-spots-guide): 福井県の有名なもの・観光名所＆厳選おすすめ宿特集（福井県）
-- [【2026最新】福井県の温泉おすすめ旅館＆ホテルランキング10選！比較＆予約ガイド](https://croud-travel.pages.dev/posts/fukui-onsen-ranking-hotels-guide): 福井県のおすすめ温泉旅館＆ホテルランキング（福井県）
-- [【2026最新】福岡県の有名なもの・名物グルメ・特産品お土産ランキング！観光名所＆おすすめホテル完全攻略！人気宿比較](https://croud-travel.pages.dev/posts/fukuoka-famous-things-gourmet-spots-guide): 福岡県の有名なもの・観光名所＆厳選おすすめ宿特集（福岡県）
