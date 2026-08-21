@@ -59,7 +59,9 @@
 
 ## 最新厳選宿・観光ルポ記事
 - [【2026年最新】収穫体験アグリツーリズモ宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/agriturismo-farm-stay-harvest-experience-hotels-guide): アグリツーリズモ＆収穫ファームステイ！牧場・農園リゾートホテルおすすめ10選（全国）
+- [【2026年最新】天文台・天体望遠鏡完備ホテルおすすめ10選！比較](https://croud-travel.pages.dev/posts/astronomy-observatory-telescope-starry-sky-hotels-guide): 本格大型天体望遠鏡・天文台完備！星空観測体験リゾートホテルおすすめ10選（全国）
 - [【2026年最新】バーホテルおすすめ10選！ウイスキー宿比較](https://croud-travel.pages.dev/posts/bar-hotel-whisky-cocktail-retreat-hotels-guide): バーホテル＆ウイスキー・クラフトカクテルが主役の大人の隠れ家宿おすすめ10選（全国）
+- [【2026年最新】薪割り＆焚き火ができる宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/bonfire-wood-chopping-nature-resort-hotels-guide): 薪割り＆焚き火BAR体験！炎のリトリートネイチャーホテルおすすめ10選（全国）
 - [【2026最新】ケーブルカーで行く秘境温泉宿おすすめ10選！比較＆予約ガイド](https://croud-travel.pages.dev/posts/cable-car-incline-secret-hot-spring-hotels-guide): 専用ケーブルカー・スロープカーで行く天空＆秘境温泉宿おすすめ10選（全国）
 - [【2026年最新】カヌー＆SUP体験湖畔ホテルおすすめ10選！比較](https://croud-travel.pages.dev/posts/canoe-kayak-sup-lakeside-resort-hotels-guide): 湖畔・清流カヌー＆SUPクルーズ体験！リバーサイド・レイクサイドリゾートホテルおすすめ10選（全国）
 - [【2026年最新】釣りができる宿おすすめ10選！海釣り温泉比較](https://croud-travel.pages.dev/posts/fishing-sea-boat-anglers-hot-spring-hotels-guide): 部屋や桟橋から釣りができる！海釣り・船釣り体験フィッシング宿おすすめ10選（全国）
@@ -70,6 +72,7 @@
 - [【2026年最新】海一望テラスジャグジー付き宿10選！比較ガイド](https://croud-travel.pages.dev/posts/ocean-view-private-terrace-jacuzzi-hotels-guide): 海一望！絶景プライベートジャグジー・ジェットバス付きテラス宿おすすめ10選（全国）
 - [【2026年最新】陶芸体験ができる温泉宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/pottery-craft-woodwork-artisan-retreat-hotels-guide): 本格陶芸・木工・ガラス工芸！ものづくりクラフト体験リゾートホテルおすすめ10選（全国）
 - [【2026年最新】酒蔵に泊まるホテルおすすめ10選！体験宿比較](https://croud-travel.pages.dev/posts/sake-brewery-kuramoto-pairing-retreat-hotels-guide): 酒蔵に泊まる！老舗酒蔵ホテル＆日本酒ペアリング酒造体験宿おすすめ10選（全国）
+- [【2026年最新】トレインビューホテルおすすめ10選！新幹線SL比較](https://croud-travel.pages.dev/posts/train-view-shinkansen-locomotive-hotels-guide): 部屋から新幹線・SL・列車が見える！鉄道トレインビューホテルおすすめ10選（全国）
 - [【2026年最新】ウイスキー蒸溜所ホテルおすすめ10選！比較](https://croud-travel.pages.dev/posts/whisky-gin-distillery-tour-hotels-guide): クラフトジン＆ウイスキー蒸溜所ツアー直結！ディスティラリーホテルおすすめ10選（全国）
 - [【2026年最新】ワイナリー併設ホテルおすすめ10選！ワイン宿比較](https://croud-travel.pages.dev/posts/winery-stay-vineyard-resort-hotels-guide): ぶどう畑に泊まる！自社ワイナリー併設＆ヴィンヤードリゾートおすすめ10選（全国）
 - [【2026年最新】座禅・写経ができる宿坊おすすめ10選！比較](https://croud-travel.pages.dev/posts/zen-meditation-shukubo-temple-retreat-hotels-guide): 本格座禅・写経・朝のお勤め体験！禅リトリート＆美の宿坊ホテルおすすめ10選（全国）
@@ -105,6 +108,3 @@
 - [【2026最新】千葉県の温泉おすすめ旅館＆ホテルランキング10選！比較＆予約ガイド](https://croud-travel.pages.dev/posts/chiba-onsen-ranking-hotels-guide): 千葉県のおすすめ温泉旅館＆ホテルランキング（千葉県）
 - [【2026最新】塩化物泉が自慢のおすすめ美肌温泉宿10選！比較＆予約ガイド](https://croud-travel.pages.dev/posts/chloride-hot-spring-warming-moisturizing-hotels-guide): 塩化物泉・ポカポカ保温美肌温泉宿おすすめ10選（全国）
 - [【2026最新】断崖絶壁露天風呂おすすめ宿10選！比較＆予約ガイド](https://croud-travel.pages.dev/posts/cliffside-ocean-view-open-air-baths-hotels-guide): 断崖絶壁・オーシャンクリフ絶景露天風呂が自慢のおすすめ宿10選（全国）
-- [【2026最新】【2026保存版】太宰府天満宮は？見どころ・混雑回避・名物梅ヶ枝餅＆博多・二日市温泉おすすめ宿](https://croud-travel.pages.dev/posts/dazaifu-fukuoka-tenmangu-guide): 太宰府天満宮＆二日市温泉おすすめホテル・旅館特集（福岡県）
-- [【2026最新】出湯温泉 大石屋旅館の温泉・客室口コミ＆宿泊予約｜新潟](https://croud-travel.pages.dev/posts/deyu-onsen-oishiya-ryokan-guide): 出湯温泉 大石屋旅館（新潟県）（新潟県）
-- [【2026最新】dot glamping 富士山の温泉・客室口コミ＆宿泊予約ガイド](https://croud-travel.pages.dev/posts/dot-glamping-fuji-guide): dot glamping 富士山（山梨県河口湖）（山梨県）
