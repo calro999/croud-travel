@@ -58,9 +58,12 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【2026年最新】バーホテルおすすめ10選！ウイスキー宿比較](https://croud-travel.pages.dev/posts/bar-hotel-whisky-cocktail-retreat-hotels-guide): バーホテル＆ウイスキー・クラフトカクテルが主役の大人の隠れ家宿おすすめ10選（全国）
 - [【2026最新】ケーブルカーで行く秘境温泉宿おすすめ10選！比較＆予約ガイド](https://croud-travel.pages.dev/posts/cable-car-incline-secret-hot-spring-hotels-guide): 専用ケーブルカー・スロープカーで行く天空＆秘境温泉宿おすすめ10選（全国）
 - [【2026最新】フローティング朝食が楽しめるプールヴィラ10選！比較＆予約ガイド](https://croud-travel.pages.dev/posts/floating-breakfast-private-pool-villa-hotels-guide): フローティングブレックファスト＆プライベートプールヴィラおすすめ10選（全国）
 - [【2026最新】川床料理が旨い温泉宿おすすめ10選！比較＆予約ガイド](https://croud-travel.pages.dev/posts/kawadoko-riverbed-dining-onsen-hotels-guide): 川床・納涼床料理が自慢の京都＆全国の清流温泉旅館おすすめ10選（全国）
+- [【2026年最新】京都町家一棟貸しおすすめ10選！坪庭露天比較](https://croud-travel.pages.dev/posts/kyoto-machiya-private-rental-townhouse-hotels-guide): 京都町家一棟貸し＆坪庭・檜風呂付きプライベート町家旅館おすすめ10選（京都府）
+- [【2026年最新】海一望テラスジャグジー付き宿10選！比較ガイド](https://croud-travel.pages.dev/posts/ocean-view-private-terrace-jacuzzi-hotels-guide): 海一望！絶景プライベートジャグジー・ジェットバス付きテラス宿おすすめ10選（全国）
 - [【2026最新】pH2〜3強酸性泉が自慢のおすすめ温泉宿10選！比較＆予約ガイド](https://croud-travel.pages.dev/posts/acidic-antiseptic-tightening-hot-spring-hotels-guide): 強酸性温泉・pH2〜3殺菌引き締め美肌宿おすすめ10選（全国）
 - [【2026最新】大人の隠れ家おすすめ高級温泉旅館10選！比較＆予約ガイド](https://croud-travel.pages.dev/posts/adults-only-luxury-quiet-retreat-hotels-guide): 大人の隠れ家・静寂を極めた高級温泉旅館おすすめ10選（全国）
 - [【2026最新】愛知県の有名なもの・名物グルメ・特産品お土産ランキング！観光名所＆おすすめホテル完全攻略！人気宿比較](https://croud-travel.pages.dev/posts/aichi-famous-things-gourmet-spots-guide): 愛知県の有名なもの・観光名所＆厳選おすすめ宿特集（愛知県）
@@ -105,6 +108,3 @@
 - [【2026最新】福岡県の温泉おすすめ旅館＆ホテルランキング10選！比較＆予約ガイド](https://croud-travel.pages.dev/posts/fukuoka-onsen-ranking-hotels-guide): 福岡県のおすすめ温泉旅館＆ホテルランキング（福岡県）
 - [【2026最新】福島県の有名なもの・名物グルメ・特産品お土産ランキング！観光名所＆おすすめホテル完全攻略！人気宿比較](https://croud-travel.pages.dev/posts/fukushima-famous-things-gourmet-spots-guide): 福島県の有名なもの・観光名所＆厳選おすすめ宿特集（福島県）
 - [【2026最新】福島県の温泉おすすめ旅館＆ホテルランキング10選！比較＆予約ガイド](https://croud-travel.pages.dev/posts/fukushima-onsen-ranking-hotels-guide): 福島県のおすすめ温泉旅館＆ホテルランキング（福島県）
-- [【2026最新】古湯温泉 旅館 大和屋の温泉・客室口コミ＆宿泊予約｜佐賀](https://croud-travel.pages.dev/posts/furuyu-onsen-yamatoya-saga-guide): 古湯温泉 旅館 大和屋（佐賀県）（佐賀県）
-- [【2026最新】源泉かけ流し100%のおすすめ温泉宿10選！比較＆予約ガイド](https://croud-travel.pages.dev/posts/genuine-free-flow-pure-natural-spring-hotels-guide): 源泉かけ流し100%加水加温なしの究極温泉宿おすすめ10選（全国）
-- [【2026最新】岐阜県の有名なもの・名物グルメ・特産品お土産ランキング！観光名所＆おすすめホテル完全攻略！人気宿比較](https://croud-travel.pages.dev/posts/gifu-famous-things-gourmet-spots-guide): 岐阜県の有名なもの・観光名所＆厳選おすすめ宿特集（岐阜県）
