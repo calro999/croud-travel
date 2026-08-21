@@ -66,8 +66,10 @@
 - [【2026最新】秋田県の有名なもの・名物グルメ・特産品お土産ランキング！観光名所＆おすすめホテル完全攻略](https://croud-travel.pages.dev/posts/akita-famous-things-gourmet-spots-guide): 秋田県の有名なもの・観光名所＆厳選おすすめ宿特集（秋田県）
 - [【2026最新】秋田県の温泉おすすめ旅館＆ホテルランキング10選！絶景露天風呂＆美肌の湯](https://croud-travel.pages.dev/posts/akita-onsen-ranking-hotels-guide): 秋田県のおすすめ温泉旅館＆ホテルランキング（秋田県）
 - [【2026年最新】pH8.5以上アルカリ性単純温泉のおすすめ宿10選！徹底比較](https://croud-travel.pages.dev/posts/alkaline-simple-beauty-hot-spring-hotels-guide): アルカリ性単純温泉・pH8.5以上美肌宿おすすめ10選（全国）
+- [【2026年最新】オールインクルーシブ温泉宿10選！酒飲み放題比較](https://croud-travel.pages.dev/posts/all-inclusive-free-flow-alcohol-onsen-hotels-guide): オールインクルーシブ＆クラブラウンジでアルコール飲み放題のおすすめ宿10選（全国）
 - [【2026最新】青森県の有名なもの・名物グルメ・特産品お土産ランキング！観光名所＆おすすめホテル完全攻略](https://croud-travel.pages.dev/posts/aomori-famous-things-gourmet-spots-guide): 青森県の有名なもの・観光名所＆厳選おすすめ宿特集（青森県）
 - [【2026最新】青森県の温泉おすすめ旅館＆ホテルランキング10選！絶景露天風呂＆美肌の湯](https://croud-travel.pages.dev/posts/aomori-onsen-ranking-hotels-guide): 青森県のおすすめ温泉旅館＆ホテルランキング（青森県）
+- [【2026年最新】バレルサウナ付き温泉宿おすすめ10選！絶景比較](https://croud-travel.pages.dev/posts/barrel-sauna-private-onsen-villa-hotels-guide): バレルサウナ付きプライベート温泉宿・ヴィラおすすめ10選（全国）
 - [【2026年最新】バリアフリー対応おすすめ高級温泉旅館10選！三世代安心比較](https://croud-travel.pages.dev/posts/barrier-free-universal-design-luxury-hotels-guide): バリアフリー・ユニバーサルデザイン高級温泉旅館おすすめ10選（全国）
 - [【2026年最新】炭酸水素塩泉が自慢のおすすめ美肌温泉宿10選！重曹泉徹底比較](https://croud-travel.pages.dev/posts/bicarbonate-cleansing-smooth-skin-beauty-hotels-guide): 炭酸水素塩泉・重曹クレンジング美肌温泉宿おすすめ10選（全国）
 - [【2026年最新】重曹泉が自慢のおすすめ美肌温泉宿10選！肌荒れ改善徹底比較](https://croud-travel.pages.dev/posts/bicarbonate-skin-trouble-remedy-beauty-hotels-guide): 重曹泉・肌荒れ改善角質クレンジング温泉宿おすすめ10選（全国）
@@ -106,5 +108,3 @@
 - [【2026最新】群馬県の有名なもの・名物グルメ・特産品お土産ランキング！観光名所＆おすすめホテル完全攻略](https://croud-travel.pages.dev/posts/gunma-famous-things-gourmet-spots-guide): 群馬県の有名なもの・観光名所＆厳選おすすめ宿特集（群馬県）
 - [【2026最新】群馬県の温泉おすすめ旅館＆ホテルランキング10選！絶景露天風呂＆美肌の湯](https://croud-travel.pages.dev/posts/gunma-onsen-ranking-hotels-guide): 群馬県のおすすめ温泉旅館＆ホテルランキング（群馬県）
 - [【2026年最新】石膏泉おすすめ温泉宿10選！傷の湯・鎮静美肌比較](https://croud-travel.pages.dev/posts/gypsum-calcium-sulfate-hot-spring-hotels-guide): 石膏泉（カルシウム-硫酸塩泉）切り傷・火傷・肌再生の鎮静美肌名湯宿10選（全国）
-- [【2026最新】弘前温泉・岩木山おすすめ旅館＆ホテルランキング！弘前城桜・レトロ建築と津軽の美肌湯](https://croud-travel.pages.dev/posts/hirosaki-onsen-aomori-guide): 弘前温泉・岩木山おすすめ旅館＆ホテルランキング（青森県）
-- [【2026最新】広島県の有名なもの・名物グルメ・特産品お土産ランキング！観光名所＆おすすめホテル完全攻略](https://croud-travel.pages.dev/posts/hiroshima-famous-things-gourmet-spots-guide): 広島県の有名なもの・観光名所＆厳選おすすめ宿特集（広島県）
