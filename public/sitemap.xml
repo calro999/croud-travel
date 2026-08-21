@@ -1405,6 +1405,18 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://croud-travel.pages.dev/posts/art-museum-design-concept-hotels-guide/</loc>
+    <lastmod>2026-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://croud-travel.pages.dev/posts/artisan-sushi-counter-itamae-onsen-hotels-guide/</loc>
+    <lastmod>2026-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://croud-travel.pages.dev/posts/barrel-sauna-private-onsen-villa-hotels-guide/</loc>
     <lastmod>2026-08-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -2162,6 +2174,12 @@
   </url>
   <url>
     <loc>https://croud-travel.pages.dev/posts/sea-of-clouds-terrace-panoramic-view-hotels-guide/</loc>
+    <lastmod>2026-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://croud-travel.pages.dev/posts/sea-of-clouds-unkai-terrace-mountain-resort-hotels-guide/</loc>
     <lastmod>2026-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
