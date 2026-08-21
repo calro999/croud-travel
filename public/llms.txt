@@ -71,10 +71,13 @@
 - [【2026年最新】熱気球パラグライダー宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/hot-air-balloon-paragliding-sky-resort-hotels-guide): 気球＆パラグライダー体験ができる！大空スカイアクティビティ宿おすすめ10選（全国）
 - [【2026年最新】お茶摘み茶香服ができる日本茶宿おすすめ10選](https://croud-travel.pages.dev/posts/japanese-tea-harvest-chakabuki-retreat-hotels-guide): お茶摘み＆茶香服・茶室体験！日本茶オーベルジュ・茶邸ホテルおすすめ10選（全国）
 - [【2026最新】川床料理が旨い温泉宿おすすめ10選！比較＆予約ガイド](https://croud-travel.pages.dev/posts/kawadoko-riverbed-dining-onsen-hotels-guide): 川床・納涼床料理が自慢の京都＆全国の清流温泉旅館おすすめ10選（全国）
+- [【2026年最新】着物・浴衣で街歩きができる宿おすすめ10選](https://croud-travel.pages.dev/posts/kimono-yukata-town-stroll-onsen-hotels-guide): 本格着物・浴衣着付け＆街歩き体験！情緒あふれる和装ステイ宿おすすめ10選（全国）
 - [【2026年最新】京都町家一棟貸しおすすめ10選！坪庭露天比較](https://croud-travel.pages.dev/posts/kyoto-machiya-private-rental-townhouse-hotels-guide): 京都町家一棟貸し＆坪庭・檜風呂付きプライベート町家旅館おすすめ10選（京都府）
 - [【2026年最新】海一望テラスジャグジー付き宿10選！比較ガイド](https://croud-travel.pages.dev/posts/ocean-view-private-terrace-jacuzzi-hotels-guide): 海一望！絶景プライベートジャグジー・ジェットバス付きテラス宿おすすめ10選（全国）
 - [【2026年最新】陶芸体験ができる温泉宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/pottery-craft-woodwork-artisan-retreat-hotels-guide): 本格陶芸・木工・ガラス工芸！ものづくりクラフト体験リゾートホテルおすすめ10選（全国）
 - [【2026年最新】酒蔵に泊まるホテルおすすめ10選！体験宿比較](https://croud-travel.pages.dev/posts/sake-brewery-kuramoto-pairing-retreat-hotels-guide): 酒蔵に泊まる！老舗酒蔵ホテル＆日本酒ペアリング酒造体験宿おすすめ10選（全国）
+- [【2026年最新】そば打ち体験ができる宿おすすめ10選！温泉比較](https://croud-travel.pages.dev/posts/soba-making-experience-handcrafted-noodle-onsen-hotels-guide): そば打ち体験ができる！名水＆手打ち蕎麦自慢の温泉宿おすすめ10選（全国）
+- [【2026年最新】滝行体験ができる宿坊おすすめ10選！温泉比較](https://croud-travel.pages.dev/posts/takigyo-waterfall-meditation-retreat-hotels-guide): 心身を極限まで浄化！滝行体験＆修験霊場リトリート宿おすすめ10選（全国）
 - [【2026年最新】トレインビューホテルおすすめ10選！新幹線SL比較](https://croud-travel.pages.dev/posts/train-view-shinkansen-locomotive-hotels-guide): 部屋から新幹線・SL・列車が見える！鉄道トレインビューホテルおすすめ10選（全国）
 - [【2026年最新】ウイスキー蒸溜所ホテルおすすめ10選！比較](https://croud-travel.pages.dev/posts/whisky-gin-distillery-tour-hotels-guide): クラフトジン＆ウイスキー蒸溜所ツアー直結！ディスティラリーホテルおすすめ10選（全国）
 - [【2026年最新】ワイナリー併設ホテルおすすめ10選！ワイン宿比較](https://croud-travel.pages.dev/posts/winery-stay-vineyard-resort-hotels-guide): ぶどう畑に泊まる！自社ワイナリー併設＆ヴィンヤードリゾートおすすめ10選（全国）
@@ -105,6 +108,3 @@
 - [【2026最新】活あわびの踊り焼きが美味しいおすすめ温泉宿10選！比較＆予約ガイド](https://croud-travel.pages.dev/posts/charcoal-hearth-live-abalone-grilled-hotels-guide): 活あわび踊り焼き・炭火焼き極上鮑会席おすすめ宿10選（全国）
 - [【2026最新】伊勢海老・車海老が美味しいおすすめ温泉宿10選！比較＆予約ガイド](https://croud-travel.pages.dev/posts/charcoal-hearth-lobster-prawn-gourmet-hotels-guide): 伊勢海老・車海老・ボタンエビ極上海老会席おすすめ宿10選（全国）
 - [【2026最新】焼き蟹・蟹会席が美味しいおすすめ温泉宿10選！比較＆予約ガイド](https://croud-travel.pages.dev/posts/charcoal-hearth-matsuba-echizen-crab-hotels-guide): 松葉蟹・越前蟹・間人蟹炭火焼き蟹会席おすすめ宿10選（全国）
-- [【2026最新】岩魚・鮎の塩焼きが美味しいおすすめ温泉宿10選！比較＆予約ガイド](https://croud-travel.pages.dev/posts/charcoal-hearth-river-fish-sweetfish-trout-hotels-guide): 岩魚・鮎・山女魚囲炉裏炭火塩焼きおすすめ温泉宿10選（全国）
-- [【2026最新】ぼたん鍋・猪料理が美味しいおすすめ温泉宿10選！比較＆予約ガイド](https://croud-travel.pages.dev/posts/charcoal-hearth-wild-boar-botan-nabe-hotels-guide): ぼたん鍋・イノシシ囲炉裏炭火料理おすすめ温泉宿10選（全国）
-- [【2026最新】千葉県の有名なもの・名物グルメ・特産品お土産ランキング！観光名所＆おすすめホテル完全攻略！人気宿比較](https://croud-travel.pages.dev/posts/chiba-famous-things-gourmet-spots-guide): 千葉県の有名なもの・観光名所＆厳選おすすめ宿特集（千葉県）
