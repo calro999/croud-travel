@@ -47,12 +47,24 @@ export async function generateMetadata({ params }: { params: Promise<{ pref: str
     return { title: "都道府県が見つかりません" };
   }
 
-  const subAreaNames = prefInfo.subAreas.map(s => s.areaName).join("・");
+  const subAreaNames = (prefInfo.subAreas || []).map(s => s.areaName).join("・");
+  const cleanName = prefInfo.name.replace(/(県|府|東京都)$/, "").replace("東京都", "東京");
 
   return {
-    title: `【${prefInfo.name}観光ハブ】${subAreaNames}の観光ガイド＆おすすめカフェ・お土産・地酒・近隣宿徹底比較 ｜ 日本全国・旅宿クラウド`,
-    description: `${prefInfo.name}のエリア別観光ガイド（${subAreaNames}）、おすすめのおしゃれカフェ・スイーツ、トレンドお土産・銘菓、銘酒・地酒・日本酒、近隣の厳選ホテル・温泉旅館を網羅。`,
-    keywords: [prefInfo.name, subAreaNames, "観光ガイド", "絶景カフェ", "トレンドお土産", "地酒日本酒", "温泉宿", "ホテル予約", "楽天トラベル"],
+    title: `【2026】${prefInfo.name}の有名なもの・観光名所＆おすすめ温泉ホテル・お土産・地酒ガイド ｜ 日本全国・旅宿クラウド`,
+    description: `「${prefInfo.name}で有名なものは何？」「おすすめ観光名所やお土産・名湯は？」${prefInfo.name}（${subAreaNames}）の見どころ、ご当地グルメ、人気お土産、日本酒酒蔵、露天風呂付き温泉宿を完全網羅。`,
+    keywords: [
+      prefInfo.name,
+      `${prefInfo.name} 有名なもの`,
+      `${cleanName} 有名なもの`,
+      `${prefInfo.name} 観光`,
+      `${cleanName} 観光`,
+      `${prefInfo.name} 温泉 おすすめ`,
+      `${prefInfo.name} お土産 定番 日持ち`,
+      `${prefInfo.name} 日本酒 おすすめ`,
+      subAreaNames,
+      "観光ガイド", "絶景カフェ", "トレンドお土産", "地酒日本酒", "温泉宿", "ホテル予約", "楽天トラベル"
+    ].join(", "),
     alternates: {
       canonical: `${baseUrl}/prefectures/${prefInfo.slug}`,
     },
