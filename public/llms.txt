@@ -85,6 +85,7 @@
 - [【2026年最新】展望ビューバス・ジャグジー付きおすすめ高級ホテル10選！徹底比較](https://croud-travel.pages.dev/posts/luxury-panoramic-view-bath-jacuzzi-hotels-guide): 展望ビューバス・ジャグジー付き高級ホテルおすすめ10選（全国）
 - [【2026年最新】マタニティ旅行におすすめの温泉宿10選！妊婦に安心](https://croud-travel.pages.dev/posts/maternity-prenatal-safe-onsen-hotels-guide): マタニティ旅行におすすめの妊婦にやさしい温泉宿10選（全国）
 - [【2026年最新】松阪牛が美味しいおすすめ温泉宿10選！和牛比較](https://croud-travel.pages.dev/posts/matsusaka-wagyu-beef-charcoal-steak-hotels-guide): 松阪牛・ブランド黒毛和牛の炭火ステーキが絶品の温泉宿10選（全国）
+- [【2026年最新】薬湯・生薬温泉おすすめ宿10選！湯治名湯比較](https://croud-travel.pages.dev/posts/medicinal-herb-hot-spring-toji-hotels-guide): 薬効豊かな薬湯・生薬温泉が自慢のおすすめ湯治宿10選（全国）
 - [【2026年最新】モール温泉おすすめ宿10選！植物性美肌湯比較](https://croud-travel.pages.dev/posts/moor-hot-spring-plant-derived-humic-hotels-guide): モール温泉・植物性フミン酸美肌温泉おすすめ宿10選（全国）
 - [【2026年最新】天然炭酸泉・泡付きラムネ温泉宿おすすめ10選！徹底比較](https://croud-travel.pages.dev/posts/natural-carbonated-spring-sparkling-hotels-guide): 天然炭酸泉・高濃度ラムネ温泉（泡付きぬる湯）おすすめ宿10選（全国）
 - [【2026年最新】全室オーシャンフロントのおすすめ高級ホテル10選！徹底比較](https://croud-travel.pages.dev/posts/oceanfront-horizon-panoramic-resort-hotels-guide): 全室オーシャンフロント高級リゾートホテルおすすめ10選（全国）
@@ -96,15 +97,14 @@
 - [【2026年最新】砂風呂・砂蒸し温泉おすすめ宿10選！指宿＆別府比較](https://croud-travel.pages.dev/posts/sand-bath-sunamushi-onsen-ibusuki-beppu-hotels-guide): 砂風呂・砂蒸し温泉が体験できるおすすめ宿10選（全国）
 - [【2026年最新】絶景観光列車で行く温泉宿おすすめ10選！列車旅比較](https://croud-travel.pages.dev/posts/scenic-sightseeing-train-railway-onsen-hotels-guide): 絶景観光列車で行くおすすめ温泉宿10選（全国）
 - [【2026年最新】雲海が見える絶景温泉宿おすすめ10選！徹底比較](https://croud-travel.pages.dev/posts/sea-of-clouds-terrace-panoramic-view-hotels-guide): 雲海テラス・天空の雲海が見える絶景温泉宿10選（全国）
+- [【2026年最新】極上生ウニが美味しい温泉宿おすすめ10選！ウニ比較](https://croud-travel.pages.dev/posts/sea-urchin-uni-kaiseki-gourmet-onsen-hotels-guide): 極上生ウニ・ウニ尽くし会席が絶品のおすすめ温泉宿10選（全国）
 - [【2026年最新】秘境の一軒宿おすすめ温泉旅館10選！徹底比較](https://croud-travel.pages.dev/posts/secluded-remote-unspoiled-hot-spring-inns-guide): 秘境の一軒宿・大自然の隠れ家温泉旅館10選（全国）
 - [【2026年最新】ゲレンデ直結温泉宿おすすめ10選！スキーイン比較](https://croud-travel.pages.dev/posts/ski-in-ski-out-slopeside-hot-spring-resorts-guide): ゲレンデ直結・スキーインスキーアウトができる温泉宿10選（全国）
 - [【2026年最新】雪見露天風呂が絶景のおすすめ温泉宿10選！冬旅徹底比較](https://croud-travel.pages.dev/posts/snow-view-outdoor-bath-winter-hotels-guide): 雪見露天風呂が絶景のおすすめ冬温泉宿10選（全国）
+- [【2026年最新】立ち湯・深湯温泉おすすめ宿10選！水深1m比較](https://croud-travel.pages.dev/posts/standing-deep-bath-tachiyu-hot-spring-hotels-guide): 水深100cm以上の立ち湯・深湯温泉が自慢のおすすめ宿10選（全国）
 - [【2026年最新】星空が絶景のおすすめ温泉宿10選！天体観測比較](https://croud-travel.pages.dev/posts/stargazing-celestial-night-sky-hot-spring-hotels-guide): 星空観賞・満天の星が見える絶景温泉宿10選（全国）
 - [【2026年最新】硫酸塩泉が自慢のおすすめ美肌温泉宿10選！ハリ徹底比較](https://croud-travel.pages.dev/posts/sulfate-elasticity-firmness-beauty-hot-spring-hotels-guide): 硫酸塩泉・肌のハリ弾力アップ美肌温泉宿おすすめ10選（全国）
 - [【2026年最新】すっぽん料理が美味しい温泉宿10選！名宿徹底比較](https://croud-travel.pages.dev/posts/suppon-turtle-cuisine-hot-spring-hotels-guide): 名物すっぽん料理・極上すっぽん鍋が絶品の温泉宿10選（全国）
 - [【2026年最新】天然クエ鍋・クエ料理おすすめ温泉宿10選！名宿比較](https://croud-travel.pages.dev/posts/wild-kue-grouper-hot-spring-hotels-guide): 天然クエ鍋・クエ尽くし会席が絶品の温泉宿10選（全国）
 - [【2026年最新】阿波牛・あか牛が美味しいおすすめ温泉宿10選！西日本囲炉裏徹底比較](https://croud-travel.pages.dev/posts/charcoal-hearth-olive-beef-setouchi-hotels-guide): 阿波牛・あか牛・薩摩黒牛囲炉裏炭火会席おすすめ宿10選（全国）
 - [【2026年最新】仙台牛・とちぎ和牛が美味しいおすすめ温泉宿10選！東日本囲炉裏徹底比較](https://croud-travel.pages.dev/posts/charcoal-hearth-sendai-tochigi-wagyu-hotels-guide): 仙台牛・とちぎ和牛・山形牛囲炉裏炭火温泉宿おすすめ10選（全国）
-- [【2026年最新】すき焼き・牛鍋が美味しいおすすめ温泉宿10選！極上和牛徹底比較](https://croud-travel.pages.dev/posts/charcoal-hearth-sukiyaki-hotpot-wagyu-hotels-guide): 極上すき焼き・牛鍋・ブランド和牛会席おすすめ宿10選（全国）
-- [【2026最新】太宰府天満宮観光＆参拝完全ガイド！太宰府は？見どころ・梅ヶ枝餅・おすすめ宿比較](https://croud-travel.pages.dev/posts/dazaifu-tenmangu-sightseeing-hotels-guide): 太宰府天満宮・二日市温泉おすすめ宿特集（福岡県）
-- [【2026年最新】暖炉・薪ストーブがあるおすすめ高級ホテル宿10選！徹底比較](https://croud-travel.pages.dev/posts/fireplace-woodstove-luxury-resort-hotels-guide): 暖炉・薪ストーブ・バイオエタノール暖炉おすすめ宿10選（全国）
