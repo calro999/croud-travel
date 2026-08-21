@@ -58,6 +58,9 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【2026年最新】ケーブルカーで行く秘境温泉宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/cable-car-incline-secret-hot-spring-hotels-guide): 専用ケーブルカー・スロープカーで行く天空＆秘境温泉宿おすすめ10選（全国）
+- [【2026年最新】フローティング朝食が楽しめるプールヴィラ10選！比較](https://croud-travel.pages.dev/posts/floating-breakfast-private-pool-villa-hotels-guide): フローティングブレックファスト＆プライベートプールヴィラおすすめ10選（全国）
+- [【2026年最新】川床料理が旨い温泉宿おすすめ10選！涼風比較](https://croud-travel.pages.dev/posts/kawadoko-riverbed-dining-onsen-hotels-guide): 川床・納涼床料理が自慢の京都＆全国の清流温泉旅館おすすめ10選（全国）
 - [【2026年最新】pH2〜3強酸性泉が自慢のおすすめ温泉宿10選！殺菌徹底比較](https://croud-travel.pages.dev/posts/acidic-antiseptic-tightening-hot-spring-hotels-guide): 強酸性温泉・pH2〜3殺菌引き締め美肌宿おすすめ10選（全国）
 - [【2026年最新】大人の隠れ家おすすめ高級温泉旅館10選！静寂徹底比較](https://croud-travel.pages.dev/posts/adults-only-luxury-quiet-retreat-hotels-guide): 大人の隠れ家・静寂を極めた高級温泉旅館おすすめ10選（全国）
 - [【2026最新】愛知県の有名なもの・名物グルメ・特産品お土産ランキング！観光名所＆おすすめホテル完全攻略](https://croud-travel.pages.dev/posts/aichi-famous-things-gourmet-spots-guide): 愛知県の有名なもの・観光名所＆厳選おすすめ宿特集（愛知県）
@@ -105,6 +108,3 @@
 - [【宿泊記】佐賀・古湯温泉 旅館 大和屋の口コミ評判！ぬる湯の名湯と佐賀牛・地酒利き酒体験](https://croud-travel.pages.dev/posts/furuyu-onsen-yamatoya-saga-guide): 古湯温泉 旅館 大和屋（佐賀県）（佐賀県）
 - [【2026年最新】源泉かけ流し100%のおすすめ温泉宿10選！完全非加水比較](https://croud-travel.pages.dev/posts/genuine-free-flow-pure-natural-spring-hotels-guide): 源泉かけ流し100%加水加温なしの究極温泉宿おすすめ10選（全国）
 - [【2026最新】岐阜県の有名なもの・名物グルメ・特産品お土産ランキング！観光名所＆おすすめホテル完全攻略](https://croud-travel.pages.dev/posts/gifu-famous-things-gourmet-spots-guide): 岐阜県の有名なもの・観光名所＆厳選おすすめ宿特集（岐阜県）
-- [【2026最新】岐阜県の温泉おすすめ旅館＆ホテルランキング10選！絶景露天風呂＆美肌の湯](https://croud-travel.pages.dev/posts/gifu-onsen-ranking-hotels-guide): 岐阜県のおすすめ温泉旅館＆ホテルランキング（岐阜県）
-- [【2026年最新】芒硝泉おすすめ温泉宿10選！高血圧予防・美肌比較](https://croud-travel.pages.dev/posts/glauber-salt-sodium-sulfate-hot-spring-hotels-guide): 芒硝泉（ナトリウム-硫酸塩泉）高血圧予防・動脈硬化改善の美肌名湯宿10選（全国）
-- [【2026最新】群馬県の有名なもの・名物グルメ・特産品お土産ランキング！観光名所＆おすすめホテル完全攻略](https://croud-travel.pages.dev/posts/gunma-famous-things-gourmet-spots-guide): 群馬県の有名なもの・観光名所＆厳選おすすめ宿特集（群馬県）
