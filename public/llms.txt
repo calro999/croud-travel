@@ -63,9 +63,11 @@
 - [【2026年最新】バーホテルおすすめ10選！ウイスキー宿比較](https://croud-travel.pages.dev/posts/bar-hotel-whisky-cocktail-retreat-hotels-guide): バーホテル＆ウイスキー・クラフトカクテルが主役の大人の隠れ家宿おすすめ10選（全国）
 - [【2026年最新】ボードゲーム遊び放題ホテルおすすめ10選](https://croud-travel.pages.dev/posts/board-game-entertainment-play-hotels-guide): 数百種のゲーム遊び放題！ボードゲーム＆エンタメホテルおすすめ10選（全国）
 - [【2026年最新】薪割り＆焚き火ができる宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/bonfire-wood-chopping-nature-resort-hotels-guide): 薪割り＆焚き火BAR体験！炎のリトリートネイチャーホテルおすすめ10選（全国）
+- [【2026年最新】ボルダリングができる宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/bouldering-climbing-wall-sports-resort-hotels-guide): 館内ボルダリング＆本格クライミングウォール完備ホテルおすすめ10選（全国）
 - [【2026最新】ケーブルカーで行く秘境温泉宿おすすめ10選！比較＆予約ガイド](https://croud-travel.pages.dev/posts/cable-car-incline-secret-hot-spring-hotels-guide): 専用ケーブルカー・スロープカーで行く天空＆秘境温泉宿おすすめ10選（全国）
 - [【2026年最新】カヌー＆SUP体験湖畔ホテルおすすめ10選！比較](https://croud-travel.pages.dev/posts/canoe-kayak-sup-lakeside-resort-hotels-guide): 湖畔・清流カヌー＆SUPクルーズ体験！リバーサイド・レイクサイドリゾートホテルおすすめ10選（全国）
 - [【2026年最新】サイクリング宿おすすめ10選！E-Bike比較](https://croud-travel.pages.dev/posts/cycling-ebike-shimanami-biwaichi-hotels-guide): 絶景サイクリング＆E-Bikeポタリング！サイクリスト歓迎ホテルおすすめ10選（全国）
+- [【2026年最新】発酵食腸活ができる温泉宿おすすめ10選](https://croud-travel.pages.dev/posts/fermentation-gut-health-cuisine-onsen-hotels-guide): 自家製味噌・麹・ぬか床！発酵食＆美腸腸活ホテルおすすめ10選（全国）
 - [【2026年最新】釣りができる宿おすすめ10選！海釣り温泉比較](https://croud-travel.pages.dev/posts/fishing-sea-boat-anglers-hot-spring-hotels-guide): 部屋や桟橋から釣りができる！海釣り・船釣り体験フィッシング宿おすすめ10選（全国）
 - [【2026最新】フローティング朝食が楽しめるプールヴィラ10選！比較＆予約ガイド](https://croud-travel.pages.dev/posts/floating-breakfast-private-pool-villa-hotels-guide): フローティングブレックファスト＆プライベートプールヴィラおすすめ10選（全国）
 - [【2026年最新】ゴルフリゾート宿おすすめ10選！名門温泉比較](https://croud-travel.pages.dev/posts/golf-resort-onsen-championship-course-hotels-guide): 名門コース直結＆温泉付き！ゴルフリゾートホテルおすすめ10選（全国）
@@ -75,6 +77,7 @@
 - [【2026最新】川床料理が旨い温泉宿おすすめ10選！比較＆予約ガイド](https://croud-travel.pages.dev/posts/kawadoko-riverbed-dining-onsen-hotels-guide): 川床・納涼床料理が自慢の京都＆全国の清流温泉旅館おすすめ10選（全国）
 - [【2026年最新】着物・浴衣で街歩きができる宿おすすめ10選](https://croud-travel.pages.dev/posts/kimono-yukata-town-stroll-onsen-hotels-guide): 本格着物・浴衣着付け＆街歩き体験！情緒あふれる和装ステイ宿おすすめ10選（全国）
 - [【2026年最新】京都町家一棟貸しおすすめ10選！坪庭露天比較](https://croud-travel.pages.dev/posts/kyoto-machiya-private-rental-townhouse-hotels-guide): 京都町家一棟貸し＆坪庭・檜風呂付きプライベート町家旅館おすすめ10選（京都府）
+- [【2026年最新】手裏剣甲冑体験ができる忍者宿おすすめ10選](https://croud-travel.pages.dev/posts/ninja-samurai-experience-armor-onsen-hotels-guide): 手裏剣・吹き矢・甲冑体験！本格忍者＆サムライ宿おすすめ10選（全国）
 - [【2026年最新】海一望テラスジャグジー付き宿10選！比較ガイド](https://croud-travel.pages.dev/posts/ocean-view-private-terrace-jacuzzi-hotels-guide): 海一望！絶景プライベートジャグジー・ジェットバス付きテラス宿おすすめ10選（全国）
 - [【2026年最新】陶芸体験ができる温泉宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/pottery-craft-woodwork-artisan-retreat-hotels-guide): 本格陶芸・木工・ガラス工芸！ものづくりクラフト体験リゾートホテルおすすめ10選（全国）
 - [【2026年最新】大画面シアターホテルおすすめ10選！比較](https://croud-travel.pages.dev/posts/projector-cinema-theater-room-hotels-guide): 映画館のような超巨大スクリーン！シアタールーム完備ホテルおすすめ10選（全国）
@@ -105,6 +108,3 @@
 - [【2026最新】重曹泉おすすめ温泉宿10選！比較＆予約ガイド](https://croud-travel.pages.dev/posts/bicarbonate-soda-spring-cleansing-beauty-hotels-guide): 重曹泉（ナトリウム-炭酸水素塩泉）角質軟化・乳化クレンジング美肌名湯宿10選（全国）
 - [【2026最新】炭酸泉おすすめ温泉宿10選！比較＆予約ガイド](https://croud-travel.pages.dev/posts/carbonated-spring-effervescent-beauty-onsen-hotels-guide): 炭酸泉・泡付き美肌温泉が自慢のおすすめ宿10選（全国）
 - [【2026最新】鴨料理・鴨鍋が美味しいおすすめ温泉宿10選！比較＆予約ガイド](https://croud-travel.pages.dev/posts/charcoal-hearth-brand-duck-cuisine-hotels-guide): 京鴨・上州合鴨・日光鴨囲炉裏炭火料理おすすめ宿10選（全国）
-- [【2026最新】地鶏炭火焼きが美味しいおすすめ温泉宿10選！比較＆予約ガイド](https://croud-travel.pages.dev/posts/charcoal-hearth-brand-free-range-chicken-hotels-guide): 薩摩地鶏・阿波尾鶏・奥美濃古地鶏囲炉裏炭火宿おすすめ10選（全国）
-- [【2026最新】ブランド豚が美味しいおすすめ温泉宿10選！比較＆予約ガイド](https://croud-travel.pages.dev/posts/charcoal-hearth-brand-pork-kagoshima-hotels-guide): かごしま黒豚・上州麦豚・飛騨銘柄豚囲炉裏炭火宿おすすめ10選（全国）
-- [【2026最新】焼き牡蠣・牡蠣会席が美味しいおすすめ温泉宿10選！比較＆予約ガイド](https://croud-travel.pages.dev/posts/charcoal-hearth-fresh-oyster-coastal-hotels-guide): 広島牡蠣・松島牡蠣・的矢牡蠣炭火焼きおすすめ宿10選（全国）
