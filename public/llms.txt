@@ -58,9 +58,11 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【2026年最新】滑走路が見える宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/airport-runway-plane-view-flight-simulator-hotels-guide): 滑走路ビュー＆離着陸パノラマ・空港直結フライトシミュレーター体験ができる名門エアポートホテルおすすめ10選（全国）
 - [【2026年最新】寿司握り体験ができる宿おすすめ10選](https://croud-travel.pages.dev/posts/artisan-sushi-making-master-seafood-onsen-hotels-guide): 板前直伝！本格握り寿司握り体験＆魚さばき教室が楽しめる名門海鮮温泉宿おすすめ10選（全国）
 - [【2026年最新】パンが美味しい宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/bakery-artisan-bread-classic-resort-hotels-guide): 焼きたて薪窯パン作り＆名門ベーカリーステイが楽しめる極上ブレッドリゾートホテル温泉宿おすすめ10選（全国）
 - [【2026年最新】ビーチヨガができる宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/beach-yoga-sup-meditation-wellness-retreat-hotels-guide): 朝日ビーチヨガ＆森のSUPヨガ・極上瞑想リトリートが体験できる名門温泉ウェルネスホテルおすすめ10選（全国）
+- [【2026年最新】岩盤浴ができる宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/bedrock-bath-stone-spa-detox-hot-spring-hotels-guide): 本格岩盤浴・ストーンスパ＆薬石デトックスロウリュが体験できる名門温泉ホテルおすすめ10選（全国）
 - [【2026年最新】プロポーズができる宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/chapel-propose-anniversary-luxury-night-view-hotels-guide): 専任コンシェルジュ常駐＆チャペル貸切プロポーズ・花束シャンパン演出ができる最高峰記念日ホテルおすすめ10選（全国）
 - [【2026年最新】色浴衣散策ができる宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/colorful-yukata-stroll-onsen-town-soto-yu-hotels-guide): 色浴衣レンタル＆下駄で歩く温泉街そぞろ歩き・外湯めぐり体験ができる名門風情温泉宿おすすめ10選（全国）
 - [【2026年最新】ジム・プール完備の宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/fitness-gym-indoor-pool-luxury-wellness-hotels-guide): 24時間本格フィットネスジム＆温水インドアプール完備の極上ウェルネスホテルおすすめ10選（全国）
@@ -68,6 +70,7 @@
 - [【2026年最新】犬ぞり体験ができる宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/husky-dog-sledding-snowmobile-snow-resort-hotels-guide): ハスキー犬ぞり＆スノーモービル・雪原アドベンチャーが体験できる北海道・東北名門スノーホテルおすすめ10選（全国）
 - [【2026年最新】弓道体験ができる宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/japanese-archery-kyudo-zen-focus-onsen-hotels-guide): 本格弓道・和弓体験＆凛とした静寂の射場が楽しめる名門リゾートホテル温泉宿おすすめ10選（全国）
 - [【2026年最新】日本刀体験ができる宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/katana-sword-smithing-forge-craft-onsen-hotels-guide): 日本刀鍛錬見学＆ペーパーナイフ・小刀古式鍛造体験ができる名門温泉宿おすすめ10選（全国）
+- [【2026年最新】マンガ読み放題の宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/manga-comic-reading-stay-hot-spring-hotels-guide): 1万冊以上のマンガ読み放題ラウンジ＆おこもりコミックステイができる極上温泉ホテルおすすめ10選（全国）
 - [【2026年最新】シーカヤック体験ができる宿おすすめ10選](https://croud-travel.pages.dev/posts/sea-kayak-mangrove-cave-adventure-resort-hotels-guide): マングローブ＆青の洞窟！シーカヤック・ナイトカヤック体験ができる絶景リゾートホテル温泉宿おすすめ10選（全国）
 - [【2026年最新】サーフィンができる宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/surfing-school-beachfront-ocean-onsen-hotels-guide): サーフィンレッスン＆ビーチ直結サーフスクール体験ができる名門オーシャンホテル温泉宿おすすめ10選（全国）
 - [【2026年最新】収穫体験アグリツーリズモ宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/agriturismo-farm-stay-harvest-experience-hotels-guide): アグリツーリズモ＆収穫ファームステイ！牧場・農園リゾートホテルおすすめ10選（全国）
@@ -105,6 +108,3 @@
 - [【2026年最新】ハーブアロマ体験ができる宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/herb-harvest-lavender-aroma-distillation-resort-hotels-guide): 富良野ラベンダー・伊豆ハーブ・蓼科！自家製ハーブ収穫＆天然アロマ蒸留体験ができるリゾートホテルおすすめ10選（全国）
 - [【2026年最新】乗馬体験ホテルおすすめ10選！牧場宿比較](https://croud-travel.pages.dev/posts/horse-riding-trekking-country-resort-hotels-guide): 乗馬・ホーストレッキング体験！馬と泊まるカントリーリゾートホテルおすすめ10選（全国）
 - [【2026年最新】熱気球パラグライダー宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/hot-air-balloon-paragliding-sky-resort-hotels-guide): 気球＆パラグライダー体験ができる！大空スカイアクティビティ宿おすすめ10選（全国）
-- [【2026年最新】屋形船舟遊びができる宿おすすめ10選](https://croud-travel.pages.dev/posts/houseboat-river-cruise-dining-onsen-hotels-guide): 貸切屋形船・川下り舟遊び！風流な水上ディナー＆舟巡り温泉旅館おすすめ10選（全国）
-- [【2026年最新】お香調香体験ができる宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/incense-making-kodo-aroma-healing-onsen-hotels-guide): お香調香・香道体験！雅な香りに包まれる極上ヒーリング温泉旅館おすすめ10選（全国）
-- [【2026年最新】お茶摘み茶香服ができる日本茶宿おすすめ10選](https://croud-travel.pages.dev/posts/japanese-tea-harvest-chakabuki-retreat-hotels-guide): お茶摘み＆茶香服・茶室体験！日本茶オーベルジュ・茶邸ホテルおすすめ10選（全国）
