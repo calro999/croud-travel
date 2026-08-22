@@ -70,6 +70,7 @@
 - [【2026最新】ケーブルカーで行く秘境温泉宿おすすめ10選！比較＆予約ガイド](https://croud-travel.pages.dev/posts/cable-car-incline-secret-hot-spring-hotels-guide): 専用ケーブルカー・スロープカーで行く天空＆秘境温泉宿おすすめ10選（全国）
 - [【2026年最新】カヌー＆SUP体験湖畔ホテルおすすめ10選！比較](https://croud-travel.pages.dev/posts/canoe-kayak-sup-lakeside-resort-hotels-guide): 湖畔・清流カヌー＆SUPクルーズ体験！リバーサイド・レイクサイドリゾートホテルおすすめ10選（全国）
 - [【2026年最新】チーズ作りができる宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/cheese-making-dairy-farm-experience-onsen-hotels-guide): チーズ作り・牧場搾乳体験！搾りたてミルクと濃厚乳製品を味わうファームリゾート宿おすすめ10選（全国）
+- [【2026年最新】自家焙煎珈琲が楽しめる宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/coffee-roasting-hand-drip-morning-resort-hotels-guide): 自家焙煎コーヒー手回しロースト体験＆絶景モーニングが味わえる温泉リゾートおすすめ10選（全国）
 - [【2026年最新】サイクリング宿おすすめ10選！E-Bike比較](https://croud-travel.pages.dev/posts/cycling-ebike-shimanami-biwaichi-hotels-guide): 絶景サイクリング＆E-Bikeポタリング！サイクリスト歓迎ホテルおすすめ10選（全国）
 - [【2026年最新】流氷ウォーク体験ができる宿おすすめ10選](https://croud-travel.pages.dev/posts/drift-ice-walk-icebreaker-cruise-okhotsk-hotels-guide): 流氷ウォーク・砕氷船クルーズ！オホーツクの極寒絶景アクティビティホテルおすすめ10選（北海道）
 - [【2026年最新】発酵食腸活ができる温泉宿おすすめ10選](https://croud-travel.pages.dev/posts/fermentation-gut-health-cuisine-onsen-hotels-guide): 自家製味噌・麹・ぬか床！発酵食＆美腸腸活ホテルおすすめ10選（全国）
@@ -84,6 +85,7 @@
 - [【2026年最新】砂金採り体験ができる宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/gold-panning-mine-adventure-world-heritage-hotels-guide): 砂金採り・鉱山探検・世界遺産！金山ゴールドラッシュ体験ができる温泉宿おすすめ10選（全国）
 - [【2026年最新】ゴルフリゾート宿おすすめ10選！名門温泉比較](https://croud-travel.pages.dev/posts/golf-resort-onsen-championship-course-hotels-guide): 名門コース直結＆温泉付き！ゴルフリゾートホテルおすすめ10選（全国）
 - [【2026年最新】手漉き和紙体験ができる宿おすすめ10選](https://croud-travel.pages.dev/posts/handcrafted-washi-papermaking-artisan-onsen-hotels-guide): 手漉き和紙・美濃和紙・越前和紙！伝統和紙作り体験ができる温泉宿おすすめ10選（全国）
+- [【2026年最新】ハーブアロマ体験ができる宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/herb-harvest-lavender-aroma-distillation-resort-hotels-guide): 富良野ラベンダー・伊豆ハーブ・蓼科！自家製ハーブ収穫＆天然アロマ蒸留体験ができるリゾートホテルおすすめ10選（全国）
 - [【2026年最新】乗馬体験ホテルおすすめ10選！牧場宿比較](https://croud-travel.pages.dev/posts/horse-riding-trekking-country-resort-hotels-guide): 乗馬・ホーストレッキング体験！馬と泊まるカントリーリゾートホテルおすすめ10選（全国）
 - [【2026年最新】熱気球パラグライダー宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/hot-air-balloon-paragliding-sky-resort-hotels-guide): 気球＆パラグライダー体験ができる！大空スカイアクティビティ宿おすすめ10選（全国）
 - [【2026年最新】屋形船舟遊びができる宿おすすめ10選](https://croud-travel.pages.dev/posts/houseboat-river-cruise-dining-onsen-hotels-guide): 貸切屋形船・川下り舟遊び！風流な水上ディナー＆舟巡り温泉旅館おすすめ10選（全国）
@@ -106,5 +108,3 @@
 - [【2026年最新】大画面シアターホテルおすすめ10選！比較](https://croud-travel.pages.dev/posts/projector-cinema-theater-room-hotels-guide): 映画館のような超巨大スクリーン！シアタールーム完備ホテルおすすめ10選（全国）
 - [【2026年最新】酒蔵に泊まるホテルおすすめ10選！体験宿比較](https://croud-travel.pages.dev/posts/sake-brewery-kuramoto-pairing-retreat-hotels-guide): 酒蔵に泊まる！老舗酒蔵ホテル＆日本酒ペアリング酒造体験宿おすすめ10選（全国）
 - [【2026年最新】塩作り体験ができる宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/salt-making-traditional-salt-farm-experience-hotels-guide): 伝統揚げ浜式塩田・天然塩作り！海の結晶を生み出す製塩体験ホテルおすすめ10選（全国）
-- [【2026年最新】讃岐うどん作りができる宿おすすめ10選](https://croud-travel.pages.dev/posts/sanuki-udon-making-handcrafted-noodle-onsen-hotels-guide): 本格手打ち讃岐うどん作り！麺打ち体験ができる名門温泉宿おすすめ10選（香川県）
-- [【2026年最新】ダイビング宿おすすめ10選！ウミガメ比較](https://croud-travel.pages.dev/posts/scuba-diving-snorkeling-sea-turtle-beach-hotels-guide): ウミガメ＆マンタと泳ぐ！ダイビング・シュノーケリング直結リゾートホテルおすすめ10選（全国）
