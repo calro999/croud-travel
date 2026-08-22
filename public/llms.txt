@@ -73,7 +73,9 @@
 - [【2026年最新】ホタルが見える温泉宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/firefly-viewing-stream-onsen-hotels-guide): 蛍が舞う清流露天風呂！初夏の幻想ホタル観賞ができる温泉旅館おすすめ10選（全国）
 - [【2026年最新】釣りができる宿おすすめ10選！海釣り温泉比較](https://croud-travel.pages.dev/posts/fishing-sea-boat-anglers-hot-spring-hotels-guide): 部屋や桟橋から釣りができる！海釣り・船釣り体験フィッシング宿おすすめ10選（全国）
 - [【2026最新】フローティング朝食が楽しめるプールヴィラ10選！比較＆予約ガイド](https://croud-travel.pages.dev/posts/floating-breakfast-private-pool-villa-hotels-guide): フローティングブレックファスト＆プライベートプールヴィラおすすめ10選（全国）
+- [【2026年最新】化石発掘体験ができる宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/fossil-dinosaur-amber-excavation-onsen-hotels-guide): 琥珀・化石発掘・恐竜探検！地球のロマンを掘り起こす温泉宿おすすめ10選（全国）
 - [【2026年最新】ガラス工芸体験ができる宿おすすめ10選](https://croud-travel.pages.dev/posts/glass-blowing-craft-artisan-onsen-hotels-guide): 吹きガラス・切子・ステンドグラス！ガラス工芸体験ができる温泉宿おすすめ10選（全国）
+- [【2026年最新】砂金採り体験ができる宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/gold-panning-mine-adventure-world-heritage-hotels-guide): 砂金採り・鉱山探検・世界遺産！金山ゴールドラッシュ体験ができる温泉宿おすすめ10選（全国）
 - [【2026年最新】ゴルフリゾート宿おすすめ10選！名門温泉比較](https://croud-travel.pages.dev/posts/golf-resort-onsen-championship-course-hotels-guide): 名門コース直結＆温泉付き！ゴルフリゾートホテルおすすめ10選（全国）
 - [【2026年最新】手漉き和紙体験ができる宿おすすめ10選](https://croud-travel.pages.dev/posts/handcrafted-washi-papermaking-artisan-onsen-hotels-guide): 手漉き和紙・美濃和紙・越前和紙！伝統和紙作り体験ができる温泉宿おすすめ10選（全国）
 - [【2026年最新】乗馬体験ホテルおすすめ10選！牧場宿比較](https://croud-travel.pages.dev/posts/horse-riding-trekking-country-resort-hotels-guide): 乗馬・ホーストレッキング体験！馬と泊まるカントリーリゾートホテルおすすめ10選（全国）
@@ -95,6 +97,7 @@
 - [【2026年最新】和太鼓生演奏が響く温泉宿おすすめ10選](https://croud-travel.pages.dev/posts/taiko-drum-traditional-performance-onsen-hotels-guide): 大迫力の和太鼓・伝統芸能生演奏！響きに酔いしれる温泉旅館おすすめ10選（全国）
 - [【2026年最新】滝行体験ができる宿坊おすすめ10選！温泉比較](https://croud-travel.pages.dev/posts/takigyo-waterfall-meditation-retreat-hotels-guide): 心身を極限まで浄化！滝行体験＆修験霊場リトリート宿おすすめ10選（全国）
 - [【2026年最新】和蝋燭キャンドル体験ができる宿おすすめ10選](https://croud-travel.pages.dev/posts/traditional-candle-warosoku-artisan-onsen-hotels-guide): 絵付け・手作り・キャンドルナイト！伝統和蝋燭・キャンドル体験温泉宿おすすめ10選（全国）
+- [【2026年最新】伝統織物機織り体験ができる宿おすすめ10選](https://croud-travel.pages.dev/posts/traditional-weaving-textile-artisan-onsen-hotels-guide): 機織り・紬・絹織物！伝統織物手織り体験ができる名門温泉宿おすすめ10選（全国）
 - [【2026年最新】トレインビューホテルおすすめ10選！新幹線SL比較](https://croud-travel.pages.dev/posts/train-view-shinkansen-locomotive-hotels-guide): 部屋から新幹線・SL・列車が見える！鉄道トレインビューホテルおすすめ10選（全国）
 - [【2026年最新】和菓子作り体験ができる宿おすすめ10選](https://croud-travel.pages.dev/posts/wagashi-making-traditional-sweet-onsen-hotels-guide): 練り切り・上生菓子・落雁作り！老舗和菓子体験ができる名門温泉宿おすすめ10選（全国）
 - [【2026年最新】ウイスキー蒸溜所ホテルおすすめ10選！比較](https://croud-travel.pages.dev/posts/whisky-gin-distillery-tour-hotels-guide): クラフトジン＆ウイスキー蒸溜所ツアー直結！ディスティラリーホテルおすすめ10選（全国）
@@ -105,6 +108,3 @@
 - [【2026最新】愛知県の有名なもの・名物グルメ・特産品お土産ランキング！観光名所＆おすすめホテル完全攻略！人気宿比較](https://croud-travel.pages.dev/posts/aichi-famous-things-gourmet-spots-guide): 愛知県の有名なもの・観光名所＆厳選おすすめ宿特集（愛知県）
 - [【2026最新】愛知県の有名なもの・ご当地名物グルメ＆酒蔵ランキング！名古屋観光・人気ホテル10選！比較＆予約ガイド](https://croud-travel.pages.dev/posts/aichi-nagoya-famous-gourmet-hotels-guide): 愛知県有名なもの・名物グルメ＆酒蔵おすすめホテル特集（愛知県）
 - [【2026最新】愛知県の温泉おすすめ旅館＆ホテルランキング10選！比較＆予約ガイド](https://croud-travel.pages.dev/posts/aichi-onsen-ranking-hotels-guide): 愛知県のおすすめ温泉旅館＆ホテルランキング（愛知県）
-- [【2026最新】秋田県の有名なもの・名物グルメ・特産品お土産ランキング！観光名所＆おすすめホテル完全攻略！人気宿比較](https://croud-travel.pages.dev/posts/akita-famous-things-gourmet-spots-guide): 秋田県の有名なもの・観光名所＆厳選おすすめ宿特集（秋田県）
-- [【2026最新】秋田県の温泉おすすめ旅館＆ホテルランキング10選！比較＆予約ガイド](https://croud-travel.pages.dev/posts/akita-onsen-ranking-hotels-guide): 秋田県のおすすめ温泉旅館＆ホテルランキング（秋田県）
-- [【2026最新】pH8.5以上アルカリ性単純温泉のおすすめ宿10選！比較＆予約ガイド](https://croud-travel.pages.dev/posts/alkaline-simple-beauty-hot-spring-hotels-guide): アルカリ性単純温泉・pH8.5以上美肌宿おすすめ10選（全国）
