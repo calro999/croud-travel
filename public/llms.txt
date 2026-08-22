@@ -58,6 +58,9 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【2026年最新】寿司握り体験ができる宿おすすめ10選](https://croud-travel.pages.dev/posts/artisan-sushi-making-master-seafood-onsen-hotels-guide): 板前直伝！本格握り寿司握り体験＆魚さばき教室が楽しめる名門海鮮温泉宿おすすめ10選（全国）
+- [【2026年最新】犬ぞり体験ができる宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/husky-dog-sledding-snowmobile-snow-resort-hotels-guide): ハスキー犬ぞり＆スノーモービル・雪原アドベンチャーが体験できる北海道・東北名門スノーホテルおすすめ10選（全国）
+- [【2026年最新】シーカヤック体験ができる宿おすすめ10選](https://croud-travel.pages.dev/posts/sea-kayak-mangrove-cave-adventure-resort-hotels-guide): マングローブ＆青の洞窟！シーカヤック・ナイトカヤック体験ができる絶景リゾートホテル温泉宿おすすめ10選（全国）
 - [【2026年最新】収穫体験アグリツーリズモ宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/agriturismo-farm-stay-harvest-experience-hotels-guide): アグリツーリズモ＆収穫ファームステイ！牧場・農園リゾートホテルおすすめ10選（全国）
 - [【2026年最新】天文台・天体望遠鏡完備ホテルおすすめ10選！比較](https://croud-travel.pages.dev/posts/astronomy-observatory-telescope-starry-sky-hotels-guide): 本格大型天体望遠鏡・天文台完備！星空観測体験リゾートホテルおすすめ10選（全国）
 - [【2026年最新】竹細工組子細工ができる宿おすすめ10選](https://croud-travel.pages.dev/posts/bamboo-craft-kumiko-woodwork-artisan-onsen-hotels-guide): 別府竹細工・組子細工！日本の伝統木竹工芸体験ができる名門温泉宿おすすめ10選（全国）
@@ -105,6 +108,3 @@
 - [【2026年最新】九谷焼体験ができる宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/kutani-pottery-painting-kiln-tour-onsen-hotels-guide): 九谷焼絵付け＆ろくろ・窯元めぐり体験ができる加賀名門温泉宿おすすめ10選（全国）
 - [【2026年最新】京都町家一棟貸しおすすめ10選！坪庭露天比較](https://croud-travel.pages.dev/posts/kyoto-machiya-private-rental-townhouse-hotels-guide): 京都町家一棟貸し＆坪庭・檜風呂付きプライベート町家旅館おすすめ10選（京都府）
 - [【2026年最新】漆器蒔絵体験ができる宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/lacquerware-urushi-chinkin-makie-artisan-onsen-hotels-guide): 輪島塗・山中塗・会津塗・沈金蒔絵体験！日本の伝統漆芸に触れる名門温泉宿おすすめ10選（全国）
-- [【2026年最新】革細工藍染め体験ができる宿おすすめ10選](https://croud-travel.pages.dev/posts/leather-craft-indigo-dyeing-artisan-hotels-guide): 伝統革細工・レザークラフト・藍染め！手仕事体験ができる温泉宿おすすめ10選（全国）
-- [【2026年最新】鍾乳洞探検ができる宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/limestone-cave-caving-adventure-onsen-hotels-guide): 鍾乳洞ケイビング・地底洞窟探検！地球の神秘を体感する温泉宿おすすめ10選（全国）
-- [【2026年最新】味噌醤油蔵見学ができる宿おすすめ10選](https://croud-travel.pages.dev/posts/miso-shoyu-fermentation-brewery-experience-onsen-hotels-guide): 伝統手作り味噌仕込み・老舗醤油蔵見学！日本の発酵文化を体感する温泉宿おすすめ10選（全国）
