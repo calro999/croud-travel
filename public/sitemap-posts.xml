@@ -121,7 +121,19 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://croud-travel.pages.dev/posts/kintsugi-lacquerware-urushi-craft-onsen-hotels-guide/</loc>
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://croud-travel.pages.dev/posts/kyoto-machiya-private-rental-townhouse-hotels-guide/</loc>
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://croud-travel.pages.dev/posts/leather-craft-indigo-dyeing-artisan-hotels-guide/</loc>
     <lastmod>2026-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -158,6 +170,12 @@
   </url>
   <url>
     <loc>https://croud-travel.pages.dev/posts/scuba-diving-snorkeling-sea-turtle-beach-hotels-guide/</loc>
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://croud-travel.pages.dev/posts/sea-of-clouds-terrace-sky-resort-hotels-guide/</loc>
     <lastmod>2026-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
