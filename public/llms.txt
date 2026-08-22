@@ -59,7 +59,10 @@
 
 ## 最新厳選宿・観光ルポ記事
 - [【2026年最新】寿司握り体験ができる宿おすすめ10選](https://croud-travel.pages.dev/posts/artisan-sushi-making-master-seafood-onsen-hotels-guide): 板前直伝！本格握り寿司握り体験＆魚さばき教室が楽しめる名門海鮮温泉宿おすすめ10選（全国）
+- [【2026年最新】色浴衣散策ができる宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/colorful-yukata-stroll-onsen-town-soto-yu-hotels-guide): 色浴衣レンタル＆下駄で歩く温泉街そぞろ歩き・外湯めぐり体験ができる名門風情温泉宿おすすめ10選（全国）
 - [【2026年最新】犬ぞり体験ができる宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/husky-dog-sledding-snowmobile-snow-resort-hotels-guide): ハスキー犬ぞり＆スノーモービル・雪原アドベンチャーが体験できる北海道・東北名門スノーホテルおすすめ10選（全国）
+- [【2026年最新】弓道体験ができる宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/japanese-archery-kyudo-zen-focus-onsen-hotels-guide): 本格弓道・和弓体験＆凛とした静寂の射場が楽しめる名門リゾートホテル温泉宿おすすめ10選（全国）
+- [【2026年最新】日本刀体験ができる宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/katana-sword-smithing-forge-craft-onsen-hotels-guide): 日本刀鍛錬見学＆ペーパーナイフ・小刀古式鍛造体験ができる名門温泉宿おすすめ10選（全国）
 - [【2026年最新】シーカヤック体験ができる宿おすすめ10選](https://croud-travel.pages.dev/posts/sea-kayak-mangrove-cave-adventure-resort-hotels-guide): マングローブ＆青の洞窟！シーカヤック・ナイトカヤック体験ができる絶景リゾートホテル温泉宿おすすめ10選（全国）
 - [【2026年最新】収穫体験アグリツーリズモ宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/agriturismo-farm-stay-harvest-experience-hotels-guide): アグリツーリズモ＆収穫ファームステイ！牧場・農園リゾートホテルおすすめ10選（全国）
 - [【2026年最新】天文台・天体望遠鏡完備ホテルおすすめ10選！比較](https://croud-travel.pages.dev/posts/astronomy-observatory-telescope-starry-sky-hotels-guide): 本格大型天体望遠鏡・天文台完備！星空観測体験リゾートホテルおすすめ10選（全国）
@@ -105,6 +108,3 @@
 - [【2026最新】川床料理が旨い温泉宿おすすめ10選！比較＆予約ガイド](https://croud-travel.pages.dev/posts/kawadoko-riverbed-dining-onsen-hotels-guide): 川床・納涼床料理が自慢の京都＆全国の清流温泉旅館おすすめ10選（全国）
 - [【2026年最新】着物・浴衣で街歩きができる宿おすすめ10選](https://croud-travel.pages.dev/posts/kimono-yukata-town-stroll-onsen-hotels-guide): 本格着物・浴衣着付け＆街歩き体験！情緒あふれる和装ステイ宿おすすめ10選（全国）
 - [【2026年最新】金継ぎ漆芸体験ができる宿おすすめ10選](https://croud-travel.pages.dev/posts/kintsugi-lacquerware-urushi-craft-onsen-hotels-guide): 金継ぎ・蒔絵・沈金！漆芸工芸体験ができる名湯温泉旅館おすすめ10選（全国）
-- [【2026年最新】九谷焼体験ができる宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/kutani-pottery-painting-kiln-tour-onsen-hotels-guide): 九谷焼絵付け＆ろくろ・窯元めぐり体験ができる加賀名門温泉宿おすすめ10選（全国）
-- [【2026年最新】京都町家一棟貸しおすすめ10選！坪庭露天比較](https://croud-travel.pages.dev/posts/kyoto-machiya-private-rental-townhouse-hotels-guide): 京都町家一棟貸し＆坪庭・檜風呂付きプライベート町家旅館おすすめ10選（京都府）
-- [【2026年最新】漆器蒔絵体験ができる宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/lacquerware-urushi-chinkin-makie-artisan-onsen-hotels-guide): 輪島塗・山中塗・会津塗・沈金蒔絵体験！日本の伝統漆芸に触れる名門温泉宿おすすめ10選（全国）
