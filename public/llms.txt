@@ -89,6 +89,7 @@
 - [【2026年最新】ゴルフリゾート宿おすすめ10選！名門温泉比較](https://croud-travel.pages.dev/posts/golf-resort-onsen-championship-course-hotels-guide): 名門コース直結＆温泉付き！ゴルフリゾートホテルおすすめ10選（全国）
 - [【2026年最新】手漉き和紙体験ができる宿おすすめ10選](https://croud-travel.pages.dev/posts/handcrafted-washi-papermaking-artisan-onsen-hotels-guide): 手漉き和紙・美濃和紙・越前和紙！伝統和紙作り体験ができる温泉宿おすすめ10選（全国）
 - [【2026年最新】こんにゃく作り体験ができる宿おすすめ10選](https://croud-travel.pages.dev/posts/handmade-konjac-making-experience-onsen-hotels-guide): 手作り生こんにゃく作り体験＆下仁田蒟蒻・もぎたてぷるぷる刺身こんにゃくが味わえる名門温泉宿おすすめ10選（全国）
+- [【2026年最新】ソーセージ作り体験宿おすすめ10選](https://croud-travel.pages.dev/posts/handmade-sausage-smoked-bacon-craft-onsen-hotels-guide): 富士桜ポーク・信州豚！手作りソーセージ＆スモークベーコン作り体験ができる高原温泉宿おすすめ10選（全国）
 - [【2026年最新】ハーブアロマ体験ができる宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/herb-harvest-lavender-aroma-distillation-resort-hotels-guide): 富良野ラベンダー・伊豆ハーブ・蓼科！自家製ハーブ収穫＆天然アロマ蒸留体験ができるリゾートホテルおすすめ10選（全国）
 - [【2026年最新】乗馬体験ホテルおすすめ10選！牧場宿比較](https://croud-travel.pages.dev/posts/horse-riding-trekking-country-resort-hotels-guide): 乗馬・ホーストレッキング体験！馬と泊まるカントリーリゾートホテルおすすめ10選（全国）
 - [【2026年最新】熱気球パラグライダー宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/hot-air-balloon-paragliding-sky-resort-hotels-guide): 気球＆パラグライダー体験ができる！大空スカイアクティビティ宿おすすめ10選（全国）
@@ -107,4 +108,3 @@
 - [【2026年最新】革細工藍染め体験ができる宿おすすめ10選](https://croud-travel.pages.dev/posts/leather-craft-indigo-dyeing-artisan-hotels-guide): 伝統革細工・レザークラフト・藍染め！手仕事体験ができる温泉宿おすすめ10選（全国）
 - [【2026年最新】鍾乳洞探検ができる宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/limestone-cave-caving-adventure-onsen-hotels-guide): 鍾乳洞ケイビング・地底洞窟探検！地球の神秘を体感する温泉宿おすすめ10選（全国）
 - [【2026年最新】味噌醤油蔵見学ができる宿おすすめ10選](https://croud-travel.pages.dev/posts/miso-shoyu-fermentation-brewery-experience-onsen-hotels-guide): 伝統手作り味噌仕込み・老舗醤油蔵見学！日本の発酵文化を体感する温泉宿おすすめ10選（全国）
-- [【2026年最新】餅つき体験ができる宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/mochi-pounding-rice-cake-traditional-onsen-hotels-guide): つきたて餅つき体験＆岩手一関もち食文化・つきたてお雑煮が味わえる温泉宿おすすめ10選（全国）
