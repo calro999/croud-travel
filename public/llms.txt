@@ -89,6 +89,7 @@
 - [【2026年最新】屋形船舟遊びができる宿おすすめ10選](https://croud-travel.pages.dev/posts/houseboat-river-cruise-dining-onsen-hotels-guide): 貸切屋形船・川下り舟遊び！風流な水上ディナー＆舟巡り温泉旅館おすすめ10選（全国）
 - [【2026年最新】お香調香体験ができる宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/incense-making-kodo-aroma-healing-onsen-hotels-guide): お香調香・香道体験！雅な香りに包まれる極上ヒーリング温泉旅館おすすめ10選（全国）
 - [【2026年最新】お茶摘み茶香服ができる日本茶宿おすすめ10選](https://croud-travel.pages.dev/posts/japanese-tea-harvest-chakabuki-retreat-hotels-guide): お茶摘み＆茶香服・茶室体験！日本茶オーベルジュ・茶邸ホテルおすすめ10選（全国）
+- [【2026年最新】かまぼこ作り体験ができる宿おすすめ10選](https://croud-travel.pages.dev/posts/kamaboko-chikuwa-fish-cake-experience-onsen-hotels-guide): 小田原・焼津・長崎・萩の伝統手作りかまぼこ・ちくわ焼き体験ができる名門温泉宿おすすめ10選（全国）
 - [【2026最新】川床料理が旨い温泉宿おすすめ10選！比較＆予約ガイド](https://croud-travel.pages.dev/posts/kawadoko-riverbed-dining-onsen-hotels-guide): 川床・納涼床料理が自慢の京都＆全国の清流温泉旅館おすすめ10選（全国）
 - [【2026年最新】着物・浴衣で街歩きができる宿おすすめ10選](https://croud-travel.pages.dev/posts/kimono-yukata-town-stroll-onsen-hotels-guide): 本格着物・浴衣着付け＆街歩き体験！情緒あふれる和装ステイ宿おすすめ10選（全国）
 - [【2026年最新】金継ぎ漆芸体験ができる宿おすすめ10選](https://croud-travel.pages.dev/posts/kintsugi-lacquerware-urushi-craft-onsen-hotels-guide): 金継ぎ・蒔絵・沈金！漆芸工芸体験ができる名湯温泉旅館おすすめ10選（全国）
@@ -99,6 +100,7 @@
 - [【2026年最新】味噌醤油蔵見学ができる宿おすすめ10選](https://croud-travel.pages.dev/posts/miso-shoyu-fermentation-brewery-experience-onsen-hotels-guide): 伝統手作り味噌仕込み・老舗醤油蔵見学！日本の発酵文化を体感する温泉宿おすすめ10選（全国）
 - [【2026年最新】手裏剣甲冑体験ができる忍者宿おすすめ10選](https://croud-travel.pages.dev/posts/ninja-samurai-experience-armor-onsen-hotels-guide): 手裏剣・吹き矢・甲冑体験！本格忍者＆サムライ宿おすすめ10選（全国）
 - [【2026年最新】海一望テラスジャグジー付き宿10選！比較ガイド](https://croud-travel.pages.dev/posts/ocean-view-private-terrace-jacuzzi-hotels-guide): 海一望！絶景プライベートジャグジー・ジェットバス付きテラス宿おすすめ10選（全国）
+- [【2026年最新】本真珠体験ができる宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/pearl-harvest-akoya-jewelry-experience-onsen-hotels-guide): 伊勢志摩・宇和島・長崎アコヤ真珠！本真珠取り出し体験＆真珠アクセサリー作りができる温泉宿おすすめ10選（三重県）
 - [【2026年最新】陶芸体験ができる温泉宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/pottery-craft-woodwork-artisan-retreat-hotels-guide): 本格陶芸・木工・ガラス工芸！ものづくりクラフト体験リゾートホテルおすすめ10選（全国）
 - [【2026年最新】ろくろ陶芸体験ができる宿おすすめ10選](https://croud-travel.pages.dev/posts/pottery-making-rokuro-six-ancient-kilns-onsen-hotels-guide): 日本六古窯・ろくろ陶芸体験！備前・信楽・益子・丹波・常滑の土と炎に触れる温泉宿おすすめ10選（全国）
 - [【2026年最新】大画面シアターホテルおすすめ10選！比較](https://croud-travel.pages.dev/posts/projector-cinema-theater-room-hotels-guide): 映画館のような超巨大スクリーン！シアタールーム完備ホテルおすすめ10選（全国）
@@ -106,5 +108,3 @@
 - [【2026年最新】塩作り体験ができる宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/salt-making-traditional-salt-farm-experience-hotels-guide): 伝統揚げ浜式塩田・天然塩作り！海の結晶を生み出す製塩体験ホテルおすすめ10選（全国）
 - [【2026年最新】讃岐うどん作りができる宿おすすめ10選](https://croud-travel.pages.dev/posts/sanuki-udon-making-handcrafted-noodle-onsen-hotels-guide): 本格手打ち讃岐うどん作り！麺打ち体験ができる名門温泉宿おすすめ10選（香川県）
 - [【2026年最新】ダイビング宿おすすめ10選！ウミガメ比較](https://croud-travel.pages.dev/posts/scuba-diving-snorkeling-sea-turtle-beach-hotels-guide): ウミガメ＆マンタと泳ぐ！ダイビング・シュノーケリング直結リゾートホテルおすすめ10選（全国）
-- [【2026年最新】雲海テラスが見える宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/sea-of-clouds-terrace-sky-resort-hotels-guide): 雲海テラス＆朝霧パノラマ！天空の絶景が広がる雲海ホテルおすすめ10選（全国）
-- [【2026年最新】そば打ち体験ができる宿おすすめ10選！温泉比較](https://croud-travel.pages.dev/posts/soba-making-experience-handcrafted-noodle-onsen-hotels-guide): そば打ち体験ができる！名水＆手打ち蕎麦自慢の温泉宿おすすめ10選（全国）
