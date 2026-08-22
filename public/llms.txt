@@ -59,6 +59,7 @@
 
 ## 最新厳選宿・観光ルポ記事
 - [【2026年最新】滑走路が見える宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/airport-runway-plane-view-flight-simulator-hotels-guide): 滑走路ビュー＆離着陸パノラマ・空港直結フライトシミュレーター体験ができる名門エアポートホテルおすすめ10選（全国）
+- [【2026年最新】水族館が近い宿おすすめ10選！人気ホテル比較](https://croud-travel.pages.dev/posts/aquarium-dolphin-seaworld-marine-resort-hotels-guide): 水族館が近い宿・アクアリウム＆イルカふれあいリゾートおすすめ10選（全国）
 - [【2026年最新】寿司握り体験ができる宿おすすめ10選](https://croud-travel.pages.dev/posts/artisan-sushi-making-master-seafood-onsen-hotels-guide): 板前直伝！本格握り寿司握り体験＆魚さばき教室が楽しめる名門海鮮温泉宿おすすめ10選（全国）
 - [【2026年最新】パンが美味しい宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/bakery-artisan-bread-classic-resort-hotels-guide): 焼きたて薪窯パン作り＆名門ベーカリーステイが楽しめる極上ブレッドリゾートホテル温泉宿おすすめ10選（全国）
 - [【2026年最新】ビーチヨガができる宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/beach-yoga-sup-meditation-wellness-retreat-hotels-guide): 朝日ビーチヨガ＆森のSUPヨガ・極上瞑想リトリートが体験できる名門温泉ウェルネスホテルおすすめ10選（全国）
@@ -107,4 +108,3 @@
 - [【2026年最新】ソーセージ作り体験宿おすすめ10選](https://croud-travel.pages.dev/posts/handmade-sausage-smoked-bacon-craft-onsen-hotels-guide): 富士桜ポーク・信州豚！手作りソーセージ＆スモークベーコン作り体験ができる高原温泉宿おすすめ10選（全国）
 - [【2026年最新】ハーブアロマ体験ができる宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/herb-harvest-lavender-aroma-distillation-resort-hotels-guide): 富良野ラベンダー・伊豆ハーブ・蓼科！自家製ハーブ収穫＆天然アロマ蒸留体験ができるリゾートホテルおすすめ10選（全国）
 - [【2026年最新】乗馬体験ホテルおすすめ10選！牧場宿比較](https://croud-travel.pages.dev/posts/horse-riding-trekking-country-resort-hotels-guide): 乗馬・ホーストレッキング体験！馬と泊まるカントリーリゾートホテルおすすめ10選（全国）
-- [【2026年最新】熱気球パラグライダー宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/hot-air-balloon-paragliding-sky-resort-hotels-guide): 気球＆パラグライダー体験ができる！大空スカイアクティビティ宿おすすめ10選（全国）
