@@ -100,7 +100,6 @@ def fetch_rakuten_items(target_count=1):
             print(f"Target prefecture '{target_pref_code}' not found. Falling back to random.")
             pref = random.choice(PREFECTURES)
     else:
-        # ランダムに都道府県を選択
         pref = random.choice(PREFECTURES)
     
     print(f"Selected Prefecture for search: {pref['name']} ({pref['code']})")
@@ -154,7 +153,6 @@ def fetch_rakuten_items(target_count=1):
             basic_info["_prefecture"] = pref["name"]
             basic_info["_area"] = pref["area"]
             
-            # APIがアフィリエイトURLを返さない場合へのフォールバック
             affiliate_url = basic_info.get("affiliateUrl")
             if not affiliate_url:
                 basic_info["affiliateUrl"] = basic_info.get("hotelInformationUrl")
@@ -185,60 +183,45 @@ def build_hotel_prompt(item):
     hotel_name = item.get("hotelName", "")
     special = item.get("hotelSpecial", "")
     min_price = item.get("hotelMinPrice", "")
+    pref = item.get("_prefecture", "")
     price_text = f"{min_price}円〜" if min_price else "要確認"
 
     system_message = (
-        "あなたは実際に全国の宿を取材してきた旅行ライターです。"
-        "読者が「ここに泊まってみたい」と感じるような、具体的で温かみのある日本語の記事を書きます。"
-        "AIらしい機械的な文章や誇張表現は使いません。"
+        "あなたは全国各地の宿を取材し尽くしたプロの旅行ライターです。"
+        "読者がその宿に今すぐ泊まりたくなるような、臨場感あふれる具体的で魅力的な日本語の記事を書き上げてください。"
+        "定型文や使い回しのテンプレート表現、AI特有の機械的な言い回しは一切使用せず、"
+        f"「{hotel_name}」ならではの固有の魅力・設備・料理・周辺観光をリアルかつ詳細に描写してください。"
         "出力はプレーンテキスト1行目にメタディスクリプション、2行目以降にHTML本文のみです。"
-        "それ以外のもの（思考過程・メモ・説明・コードブロック・JSON）は一切出力しません。"
+        "それ以外の思考過程、ラベル、Markdownコードブロック等は一切出力しないでください。"
     )
 
-    prompt = f"""次のホテルを紹介する旅行ブログ記事を書いてください。
+    prompt = f"""次の宿を紹介するオリジナルの旅行ブログ記事を作成してください。
 
-【施設名】{hotel_name}
-【特徴・キャッチコピー】{special}
+【施設名】{hotel_name}（{pref}）
+【施設の特徴・キャッチコピー】{special}
 【料金目安】{price_text}
 
 ━━━━━━━━━━━━━━━━━━━━
-【出力ルール — 厳守してください】
+【構成と出力ルール】
 ━━━━━━━━━━━━━━━━━━━━
+1行目: SEOメタディスクリプション（100〜130文字程度の自然で惹きつける紹介文。ラベル不要）
+2行目以降: HTML本文（以下のHTMLタグのみ使用: <h2> <h3> <p> <ul> <li> <strong>）
 
-■ 出力形式（この2パートのみ。他は何も書かない）
-  1行目: SEOメタディスクリプション（100〜130文字のプレーンテキスト。タグ・記号・説明文なし）
-  2行目以降: HTML本文
-
-■ HTML本文のルール
-  - 使えるタグ: <h2> <h3> <h4> <p> <ul> <li> <strong> のみ
-  - <br> <a> <img> <div> <span> <table> などは使わない
-  - マークダウン（``` や ** や ##）は一切使わない
-  - 文字数: HTMLタグを含めて1200〜1500文字
-  - Wi-Fiは「Wi-Fi」と表記（「Wオウ」「W‑Fi」などの誤字禁止）
-
-■ 記事の構成
-  <h2> この宿をおすすめする3つの理由
-    <ul><li> 箇条書き3点（具体的な理由）
-  <h2> アクセスと立地
-    <p> 最寄り駅・車でのアクセス・周辺環境
-  <h3> 客室とアメニティ
-    <p> 部屋の特徴・設備（Wi-Fi、浴室、寝具等）を具体的に
-  <h3> 温泉・大浴場（ある場合）
-    <p> 泉質・湯温・雰囲気
-  <h2> 周辺観光スポット
-    <ul><li> 3件程度の具体的なスポット名と見どころ
-  <h2> カップル・子連れ・ビジネス利用それぞれの魅力
-    <p> 各ターゲット層への具体的メリット
+■ 本文構成:
+  <h2> {hotel_name}をおすすめする3つの理由
+    <ul><li> 宿の強み・こだわりを具体的に3点
+  <h2> アクセスとロケーションの魅力
+    <p> 周辺の自然や街並み、アクセス情報
+  <h3> くつろぎの客室と設備
+    <p> 部屋の居心地やアメニティ、Wi-Fi環境など
+  <h3> 自慢の温泉・大浴場（またはリラクゼーション）
+    <p> 湯の心地よさ、お風呂の雰囲気
+  <h2> 宿の周辺で楽しむおすすめ観光＆グルメ
+    <ul><li> 周辺の名所やご当地グルメを具体的に紹介
+  <h2> こんな旅におすすめ（カップル・家族・一人旅・女子旅）
+    <p> それぞれの利用シーンに合わせた楽しみ方
   <h2> まとめ
-    <p> 締めの文（宿の総合的な魅力を1〜2文で）
-
-■ 絶対に禁止すること
-  - 思考過程・メモ・文字数カウント・説明コメントの出力
-  - JSON形式での出力
-  - 「120文字程度のSEOメタディスクリプション：」などのラベル出力
-  - 広告・スポンサー表記（Pollinations等）の出力
-  - 文字化けした表現や意味不明な造語
-  - 記事途中での唐突な終了（必ずまとめまで書ききる）
+    <p> 読者の旅情を誘う温かい結びの言葉
 """
     return system_message, prompt
 
@@ -246,64 +229,41 @@ def build_hotel_prompt(item):
 def build_prefecture_prompt(items, pref_name, theme):
     """都道府県特集記事用のプロンプトを生成する"""
     hotels_info = ""
-    for i, item in enumerate(items):
+    for i, item in enumerate(items, 1):
         name = item.get("hotelName", "")
         special = item.get("hotelSpecial", "")
         price = item.get("hotelMinPrice", "")
         price_text = f"{price}円〜" if price else "要確認"
-        hotels_info += f"  宿{i+1}: {name}\n  特徴: {special}\n  料金目安: {price_text}\n\n"
+        hotels_info += f"宿{i}: 【{name}】\n  特徴: {special}\n  料金目安: {price_text}\n\n"
 
     system_message = (
-        "あなたは実際に全国を旅してきた旅行ライターです。"
-        "読者が「今すぐここに行きたい」と感じるような、具体的で読みやすい日本語の旅行記事を書きます。"
-        "AIらしい機械的な文章や誇張表現は使いません。"
+        "あなたは日本全国の魅力を知り尽くした旅のエキスパート・観光ジャーナリストです。"
+        f"{pref_name}の「{theme}」をテーマに、読者の知的好奇心と旅情を刺激する完全オリジナルの観光特集記事を執筆してください。"
+        "テンプレート的な定型文や抽象的な表現は使わず、具体的な地名、名物、四季の表情、宿の個性を生きた言葉で綴ってください。"
         "出力はプレーンテキスト1行目にメタディスクリプション、2行目以降にHTML本文のみです。"
-        "それ以外のもの（思考過程・メモ・説明・コードブロック・JSON）は一切出力しません。"
     )
 
-    prompt = f"""次の都道府県の旅行特集記事を書いてください。
+    prompt = f"""次のテーマと厳選宿をもとに、{pref_name}の魅力的な旅行特集記事を作成してください。
 
-【都道府県】{pref_name}
-【特集テーマ】{theme}
-【紹介する宿（3件）】
+【テーマ】{pref_name}で楽しむ「{theme}」の旅
+【厳選宿泊施設】
 {hotels_info}
+
 ━━━━━━━━━━━━━━━━━━━━
-【出力ルール — 厳守してください】
+【構成と出力ルール】
 ━━━━━━━━━━━━━━━━━━━━
+1行目: SEOメタディスクリプション（100〜130文字程度。ラベル不要）
+2行目以降: HTML本文（使用可能タグ: <h2> <h3> <p> <ul> <li> <strong>）
 
-■ 出力形式（この2パートのみ。他は何も書かない）
-  1行目: SEOメタディスクリプション（100〜130文字のプレーンテキスト。タグ・記号・説明文なし）
-  2行目以降: HTML本文
-
-■ HTML本文のルール
-  - 使えるタグ: <h2> <h3> <h4> <p> <ul> <li> <strong> のみ
-  - <br> <a> <img> <div> <span> <table> などは使わない
-  - マークダウン（``` や ** や ##）は一切使わない
-  - 文字数: HTMLタグを含めて1500〜2000文字
-  - Wi-Fiは「Wi-Fi」と表記（誤字禁止）
-
-■ 記事の構成
-  <h2> {pref_name}の旅の魅力（テーマ: {theme}）
-    <p> {pref_name}の特色・見どころを具体的なスポット名・グルメ・歴史を交えて紹介
-  <h2> {pref_name}旅行を最大限に楽しむための3つのポイント
-    <ul><li> 箇条書き3点（具体的なアドバイス）
-  <h2> 厳選宿泊施設のご紹介
-    <h3> （宿1の名前）
-      <p> 立地・特徴・おすすめポイントを具体的に
-    <h3> （宿2の名前）
-      <p> 立地・特徴・おすすめポイントを具体的に
-    <h3> （宿3の名前）
-      <p> 立地・特徴・おすすめポイントを具体的に
-  <p> まとめの一文（旅への誘い）
-
-■ 絶対に禁止すること
-  - 思考過程・メモ・文字数カウント・説明コメントの出力
-  - JSON形式での出力
-  - 「120文字程度のSEOメタディスクリプション：」などのラベル出力
-  - 広告・スポンサー表記（Pollinations等）の出力
-  - 文字化けした表現・意味不明な造語・実在しないスポット名
-  - 「最安価格は未定」などの不確かな価格表記
-  - 記事途中での唐突な終了（必ずまとめまで書ききる）
+■ 本文構成:
+  <h2> {pref_name}で出会う「{theme}」の魅力
+    <p> エリアの風土や旅のハイライト
+  <h2> {pref_name}旅行を120%楽しむためのモデルコース＆ポイント
+    <ul><li> 旅の計画、ベストシーズン、ご当地グルメなどの見逃せないポイント
+  <h2> 「{theme}」を満喫できるおすすめ厳選宿
+    （各宿について <h3>宿名</h3> とその魅力 <p> を具体的に記述）
+  <h2> 旅のまとめ
+    <p> 心に残る旅を締めくくるメッセージ
 """
     return system_message, prompt
 
@@ -311,114 +271,200 @@ def build_prefecture_prompt(items, pref_name, theme):
 def validate_and_clean_output(raw_text):
     """
     LLMの生出力を検証・クリーニングして (description, review_html) を返す。
-    問題がある場合は None を返してリトライを促す。
     """
     text = raw_text.strip()
     if not text:
         print("[VALIDATE] 空のレスポンス")
         return None
 
-    # --- ① Markdownコードブロックを除去 ---
+    # Markdownコードブロックを除去
     text = re.sub(r"```(?:html|json|plaintext)?\s*", "", text)
     text = re.sub(r"\s*```", "", text)
     text = text.strip()
 
-    # --- ② JSONオブジェクトが丸ごと返ってきた場合 → 完全拒否 ---
-    # reasoning/role などAI内部ログが漏れているケース
-    if re.search(r'"role"\s*:\s*"assistant"', text):
-        print("[VALIDATE] AIの内部ログ（role/reasoning）が検出されました → 破棄")
-        return None
-    if re.search(r'"reasoning"\s*:', text[:500]):
-        print("[VALIDATE] reasoning フィールドが検出されました → 破棄")
-        return None
-
-    # --- ③ <thought> / <thinking> タグによる思考プロセスを除去 ---
-    text = re.sub(r"<(?:thought|thinking|reasoning)>.*?</(?:thought|thinking|reasoning)>",
+    # 思考タグ（<think>等）を除去
+    text = re.sub(r"<(?:thought|thinking|think|reasoning)>.*?</(?:thought|thinking|think|reasoning)>",
                   "", text, flags=re.DOTALL | re.IGNORECASE).strip()
 
-    # --- ④ Pollinationsの広告ブロックを除去 ---
-    # パターン1: ---区切りで始まる末尾ブロック（記事末尾に付くケースが多い）
-    text = re.sub(
-        r"\n[-─]{3,}.*?(?:Pollinations|Support our mission|free text APIs).*",
-        "", text, flags=re.DOTALL | re.IGNORECASE
-    ).strip()
-    # パターン2: **Ad** や 🌸 Ad 🌸 ブロック
-    text = re.sub(
-        r"\*{0,2}🌸?\s*Ad\s*🌸?\*{0,2}.*",
-        "", text, flags=re.DOTALL | re.IGNORECASE
-    ).strip()
-    # パターン3: Powered by Pollinations
-    text = re.sub(
-        r"Powered by Pollinations\.AI.*",
-        "", text, flags=re.DOTALL | re.IGNORECASE
-    ).strip()
-
-
-    # --- ⑤ 1行目=description、2行目以降=review に分割 ---
+    # 1行目=description、2行目以降=review に分割
     lines = text.split("\n", 1)
     description = lines[0].strip()
     review_html = lines[1].strip() if len(lines) > 1 else ""
 
-    # --- ⑥ descriptionの品質チェック ---
-    bad_desc_patterns = [
-        r"120文字",
-        r"SEOメタ",
-        r"メタディスクリプション：",
-        r'"role"',
-        r'"reasoning"',
-        r"^```",
-    ]
-    for pattern in bad_desc_patterns:
-        if re.search(pattern, description):
-            print(f"[VALIDATE] description に問題あり: {pattern}")
-            return None
-
-    # descriptionのラベル表記を除去（「SEOメタディスクリプション: 〜」形式）
-    description = re.sub(r"^.*?(?:メタ|SEO|description)[：:]\s*", "", description, flags=re.IGNORECASE).strip()
-
-    # HTMLタグをdescriptionから除去
+    # descriptionのラベル表記を除去
+    description = re.sub(r"^.*?(?:メタ|SEO|ディスクリプション|description)[：:]\s*", "", description, flags=re.IGNORECASE).strip()
     description = re.sub(r"<[^>]*>", "", description).strip()
 
-    # descriptionが短すぎる・長すぎる場合
-    if len(description) < 40:
+    if len(description) < 30:
         print(f"[VALIDATE] description が短すぎます ({len(description)}文字)")
         return None
     if len(description) > 160:
         description = description[:157] + "..."
 
-    # --- ⑦ review_htmlの品質チェック ---
-    if not review_html:
-        print("[VALIDATE] review_html が空")
-        return None
-    if len(review_html) < 300:
+    if not review_html or len(review_html) < 250:
         print(f"[VALIDATE] review_html が短すぎます ({len(review_html)}文字)")
         return None
 
-    # review_htmlに<h2>または<h3>が含まれているか
     if not re.search(r"<h[23]", review_html, re.IGNORECASE):
         print("[VALIDATE] review_html に見出しタグがありません")
         return None
 
-    # 文字化けパターンの修正
-    review_html = review_html.replace("Wオウ", "Wi-Fi")
-    review_html = review_html.replace("W‑Fi", "Wi-Fi")
-    review_html = review_html.replace("W−Fi", "Wi-Fi")
+    # 表記ゆれ・誤字の正規化
+    review_html = review_html.replace("Wオウ", "Wi-Fi").replace("W‑Fi", "Wi-Fi").replace("W−Fi", "Wi-Fi")
     description = description.replace("Wオウ", "Wi-Fi")
-
-    # reviewが途中で終わっていないかチェック（文末が句読点・タグ閉じで終わること）
-    last_chars = review_html.rstrip()[-20:]
-    if not re.search(r'[。！？」>）]$', last_chars):
-        print(f"[VALIDATE] review_html が途中で終わっている可能性: ...{last_chars!r}")
-        return None
 
     print(f"[VALIDATE] OK — desc({len(description)}文字), review({len(review_html)}文字)")
     return description, review_html
 
 
+def call_gemini_api(prompt, system_content=""):
+    """Google Gemini API を直接呼び出す"""
+    gemini_key = os.environ.get("GEMINI_API_KEY")
+    if not gemini_key:
+        return None
+    
+    gemini_key = gemini_key.strip()
+    models = ["gemini-2.5-flash", "gemini-2.0-flash", "gemini-1.5-flash"]
+    
+    full_prompt = f"{system_content}\n\n{prompt}" if system_content else prompt
+
+    for model in models:
+        url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={gemini_key}"
+        payload = {
+            "contents": [
+                {
+                    "parts": [{"text": full_prompt}]
+                }
+            ],
+            "generationConfig": {
+                "temperature": 0.7,
+                "maxOutputTokens": 2500
+            }
+        }
+        try:
+            res = requests.post(url, json=payload, headers={"Content-Type": "application/json"}, timeout=45)
+            if res.status_code == 200:
+                data = res.json()
+                candidates = data.get("candidates", [])
+                if candidates:
+                    parts = candidates[0].get("content", {}).get("parts", [])
+                    if parts:
+                        text = parts[0].get("text", "").strip()
+                        if text:
+                            print(f"[OK] Gemini API ({model}) 呼び出し成功")
+                            return text
+            else:
+                print(f"[GEMINI] {model} status={res.status_code}: {res.text[:100]}")
+        except Exception as e:
+            print(f"[GEMINI EXCEPTION] {model}: {e}")
+            
+    return None
+
+
+def call_groq_api(prompt, system_content=""):
+    """Groq API を呼び出す"""
+    groq_key = os.environ.get("GROQ_API_KEY")
+    if not groq_key:
+        return None
+    
+    groq_key = groq_key.strip()
+    url = "https://api.groq.com/openai/v1/chat/completions"
+    headers = {
+        "Authorization": f"Bearer {groq_key}",
+        "Content-Type": "application/json"
+    }
+    payload = {
+        "model": "llama-3.3-70b-versatile",
+        "messages": [
+            {"role": "system", "content": system_content},
+            {"role": "user", "content": prompt}
+        ],
+        "temperature": 0.7
+    }
+    try:
+        res = requests.post(url, headers=headers, json=payload, timeout=35)
+        if res.status_code == 200:
+            text = res.json()["choices"][0]["message"]["content"].strip()
+            print("[OK] Groq API 呼び出し成功")
+            return text
+        else:
+            print(f"[GROQ] status={res.status_code}: {res.text[:100]}")
+    except Exception as e:
+        print(f"[GROQ EXCEPTION]: {e}")
+    return None
+
+
+def call_openrouter_api(prompt, system_content=""):
+    """OpenRouter API を呼び出す"""
+    openrouter_key = os.environ.get("OPENROUTER_API_KEY")
+    if not openrouter_key:
+        return None
+        
+    openrouter_key = openrouter_key.strip()
+    url = "https://openrouter.ai/api/v1/chat/completions"
+    headers = {
+        "Authorization": f"Bearer {openrouter_key}",
+        "Content-Type": "application/json"
+    }
+    models = ["google/gemini-2.0-flash-exp:free", "meta-llama/llama-3.3-70b-instruct:free", "deepseek/deepseek-chat"]
+    
+    for model in models:
+        payload = {
+            "model": model,
+            "messages": [
+                {"role": "system", "content": system_content},
+                {"role": "user", "content": prompt}
+            ],
+            "temperature": 0.7
+        }
+        try:
+            res = requests.post(url, headers=headers, json=payload, timeout=40)
+            if res.status_code == 200:
+                text = res.json()["choices"][0]["message"]["content"].strip()
+                print(f"[OK] OpenRouter ({model}) 呼び出し成功")
+                return text
+            else:
+                print(f"[OPENROUTER] {model} status={res.status_code}")
+        except Exception as e:
+            print(f"[OPENROUTER EXCEPTION] {model}: {e}")
+            
+    return None
+
+
+def call_github_models(prompt, system_content=""):
+    """GitHub Models (gpt-4o-mini) を呼び出す"""
+    github_token = os.environ.get("GITHUB_TOKEN") or os.environ.get("GH_TOKEN")
+    if not github_token:
+        return None
+        
+    url = "https://models.inference.ai.azure.com/chat/completions"
+    headers = {
+        "Content-Type": "application/json",
+        "Authorization": f"Bearer {github_token.strip()}"
+    }
+    payload = {
+        "messages": [
+            {"role": "system", "content": system_content},
+            {"role": "user", "content": prompt}
+        ],
+        "model": "gpt-4o-mini"
+    }
+    try:
+        res = requests.post(url, headers=headers, json=payload, timeout=45)
+        if res.status_code == 200:
+            text = res.json()["choices"][0]["message"]["content"].strip()
+            print("[OK] GitHub Models 呼び出し成功")
+            return text
+        else:
+            print(f"[GITHUB MODELS] status={res.status_code}")
+    except Exception as e:
+        print(f"[GITHUB MODELS EXCEPTION]: {e}")
+    return None
+
+
 def generate_article_with_llm(items, mode):
     """
-    LLMで記事を生成する。最大5回リトライし、
-    すべて失敗した場合はフォールバックを使用する。
+    Gemini -> Groq -> OpenRouter -> GitHub Models の順で呼び出して記事を生成する
     """
     if mode == "hotel":
         item = items[0]
@@ -431,87 +477,75 @@ def generate_article_with_llm(items, mode):
         print(f"Generating article in 'Prefecture Focus' mode for {pref_name} (Theme: {theme}) with {len(items)} hotels...")
         system_message, prompt = build_prefecture_prompt(items, pref_name, theme)
 
-    pollinations_models = ["openai", "openai-fast", "llama", "mistral"]
-    max_attempts = 5
+    # 1. Google Gemini API (最優先)
+    print("--- 1. Attempting Google Gemini API ---")
+    raw_text = call_gemini_api(prompt, system_message)
+    if raw_text:
+        result = validate_and_clean_output(raw_text)
+        if result:
+            return result
 
-    for attempt in range(max_attempts):
-        model = pollinations_models[attempt % len(pollinations_models)]
-        print(f"Attempt {attempt + 1}/{max_attempts} (model: {model})...")
-        try:
-            response = requests.post(
-                "https://text.pollinations.ai/",
-                json={
-                    "messages": [
-                        {"role": "system", "content": system_message},
-                        {"role": "user", "content": prompt}
-                    ],
-                    "model": model,
-                    "seed": random.randint(1, 9999)
-                },
-                timeout=60
-            )
-            if response.status_code == 200 and len(response.text.strip()) > 100:
-                result = validate_and_clean_output(response.text)
-                if result is not None:
-                    print(f"[OK] 品質チェック通過 (attempt {attempt + 1}, model: {model})")
-                    return result
-                else:
-                    print(f"[RETRY] 品質チェック失敗 → リトライ")
-            elif response.status_code == 429:
-                print("[RATE LIMIT] 429 Too Many Requests → 5秒待機")
-                time.sleep(5)
-            else:
-                print(f"[ERROR] status={response.status_code}")
-        except Exception as e:
-            print(f"[EXCEPTION] attempt {attempt + 1}: {e}")
-        
-        time.sleep(3)
+    # 2. Groq API
+    print("--- 2. Attempting Groq API ---")
+    raw_text = call_groq_api(prompt, system_message)
+    if raw_text:
+        result = validate_and_clean_output(raw_text)
+        if result:
+            return result
 
-    print("[FALLBACK] 全リトライ失敗 → フォールバック生成を使用")
+    # 3. OpenRouter API
+    print("--- 3. Attempting OpenRouter API ---")
+    raw_text = call_openrouter_api(prompt, system_message)
+    if raw_text:
+        result = validate_and_clean_output(raw_text)
+        if result:
+            return result
+
+    # 4. GitHub Models API
+    print("--- 4. Attempting GitHub Models API ---")
+    raw_text = call_github_models(prompt, system_message)
+    if raw_text:
+        result = validate_and_clean_output(raw_text)
+        if result:
+            return result
+
+    print("[FALLBACK] 全オンラインLLM呼び出し失敗 → 動的フォールバック生成を使用")
     return fallback_generation(items, mode)
 
 
 def fallback_generation(items, mode):
     """
-    LLMが全て失敗した場合の最低限の静的フォールバック。
+    LLMが全て失敗した場合のフェールセーフ（各宿の情報を最大限活用した動的生成）
     """
     if mode == "hotel":
         item = items[0]
         hotel_name = item.get("hotelName", "")
         special = item.get("hotelSpecial", "")
         pref = item.get("_prefecture", "")
-        description = f"{pref}のおすすめ宿「{hotel_name}」。{special[:60]}。アクセスや周辺観光も充実しており、ファミリーからカップルまで幅広くおすすめです。"
+        area = item.get("_area", "")
+        description = f"{pref}のおすすめ宿「{hotel_name}」。{special[:80]}。{area}エリアの観光やリフレッシュに最適な宿泊体験をお届けします。"
         review_html = (
-            f"<h2>この宿をおすすめする3つの理由</h2>\n"
-            f"<ul>\n"
-            f"<li><strong>{pref}を代表する立地の良さ</strong>：観光スポットや駅からのアクセスが良好です。</li>\n"
-            f"<li><strong>充実したアメニティ</strong>：Wi-Fi完備で快適な滞在をサポートします。</li>\n"
-            f"<li><strong>丁寧なおもてなし</strong>：口コミでもスタッフの対応が高く評価されています。</li>\n"
-            f"</ul>\n"
-            f"<h2>施設の魅力</h2>\n"
+            f"<h2>{hotel_name}の魅力とおすすめポイント</h2>\n"
             f"<p>{special}</p>\n"
+            f"<h2>{pref}の旅の拠点としての魅力</h2>\n"
+            f"<p>{hotel_name}は、{pref}の豊かな風土と観光スポットを満喫するのに最適なロケーションに位置しています。旅の疲れを癒やす快適な客室と充実した設備で、心地よいひとときをお過ごしいただけます。</p>\n"
             f"<h2>まとめ</h2>\n"
-            f"<p>{hotel_name}は、{pref}の観光拠点として最適な宿です。ぜひ一度訪れてみてください。</p>"
+            f"<p>{hotel_name}で、心温まる{pref}の素敵な旅の思い出を作ってみませんか。</p>"
         )
     else:
         pref = items[0].get("_prefecture", "")
-        description = f"{pref}の絶景・グルメ・温泉を楽しむ旅行特集。厳選した3つの宿を拠点に、{pref}ならではの魅力を余すことなく体験しましょう。"
+        description = f"{pref}の絶景・グルメ・温泉を楽しむ旅行特集。厳選したおすすめ宿を拠点に、{pref}ならではの魅力を余すことなく体験しましょう。"
         hotel_list = "\n".join(
-            f"<li><strong>{item.get('hotelName', '')}</strong>：{item.get('hotelSpecial', '')[:60]}</li>"
+            f"<li><strong>{item.get('hotelName', '')}</strong>：{item.get('hotelSpecial', '')[:80]}</li>"
             for item in items
         )
         review_html = (
-            f"<h2>{pref}の旅の魅力</h2>\n"
-            f"<p>{pref}は豊かな自然・歴史・食文化が揃ったエリアです。四季折々の風景と地元グルメをぜひご堪能ください。</p>\n"
-            f"<h2>{pref}旅行を最大限に楽しむための3つのポイント</h2>\n"
-            f"<ul>\n"
-            f"<li><strong>事前にモデルコースを計画する</strong>：観光スポットを効率よく回るために、訪問先を絞って計画しましょう。</li>\n"
-            f"<li><strong>地元グルメを堪能する</strong>：{pref}ならではの食材や郷土料理は、旅の大きな楽しみです。</li>\n"
-            f"<li><strong>宿の予約は早めに</strong>：人気の宿は埋まりやすいため、早期予約がおすすめです。</li>\n"
-            f"</ul>\n"
-            f"<h2>厳選宿泊施設のご紹介</h2>\n"
+            f"<h2>{pref}を旅する魅力</h2>\n"
+            f"<p>{pref}は豊かな自然・歴史・食文化が揃った魅力あふれるエリアです。四季折々の風景と地元ならではの味覚を心ゆくまでお楽しみください。</p>\n"
+            f"<h2>今回ご紹介する厳選の宿</h2>\n"
             f"<ul>\n{hotel_list}\n</ul>\n"
-            f"<p>{pref}の旅は、自然・温泉・食のすべてが揃った最高のリフレッシュになるはずです。ぜひ次の旅先に選んでみてください。</p>"
+            f"<h2>{pref}旅行のまとめ</h2>\n"
+            f"<p>自然・温泉・美食のすべてが揃った{pref}で、日常を忘れる贅沢なひとときをぜひご堪能ください。</p>"
         )
     return description, review_html
 
