@@ -59,6 +59,10 @@
 
 ## 最新厳選宿・観光ルポ記事
 - [【2026年最新】グラスボートの宿人気おすすめ10選！比較](https://croud-travel.pages.dev/posts/glass-bottom-boat-underwater-marine-resort-hotels-guide): グラスボートの宿・海中展望塔＆海中公園ホテルおすすめ10選（全国）
+- [【2026年最新】路面電車の宿おすすめ10選！人気ホテル比較](https://croud-travel.pages.dev/posts/tram-streetcar-nostalgic-city-onsen-hotels-guide): 路面電車の宿・レトロ市電＆トラムビュー温泉ホテルおすすめ10選（全国）
+- [【富山県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/109045): 生地温泉　たなかや（富山県）
+- [【おすすめ宿】ホテルルートイン鴻巣の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/151046): ホテルルートイン鴻巣（埼玉県）
+- [【山梨県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/38754): 八ヶ岳グレイスホテル（山梨県）
 - [【おすすめ宿】ホテルクラウンパレス北九州の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/1940): ホテルクラウンパレス北九州（福岡県）
 - [【佐賀県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/187311): ホテル桜嬉野（佐賀県）
 - [【おすすめ宿】ＡＢホテル彦根の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/181296): ＡＢホテル彦根（福井県）
@@ -104,7 +108,3 @@
 - [【2026年最新】収穫体験アグリツーリズモ宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/agriturismo-farm-stay-harvest-experience-hotels-guide): アグリツーリズモ＆収穫ファームステイ！牧場・農園リゾートホテルおすすめ10選（全国）
 - [【2026年最新】天文台・天体望遠鏡完備ホテルおすすめ10選！比較](https://croud-travel.pages.dev/posts/astronomy-observatory-telescope-starry-sky-hotels-guide): 本格大型天体望遠鏡・天文台完備！星空観測体験リゾートホテルおすすめ10選（全国）
 - [【2026年最新】竹細工組子細工ができる宿おすすめ10選](https://croud-travel.pages.dev/posts/bamboo-craft-kumiko-woodwork-artisan-onsen-hotels-guide): 別府竹細工・組子細工！日本の伝統木竹工芸体験ができる名門温泉宿おすすめ10選（全国）
-- [【2026年最新】バーホテルおすすめ10選！ウイスキー宿比較](https://croud-travel.pages.dev/posts/bar-hotel-whisky-cocktail-retreat-hotels-guide): バーホテル＆ウイスキー・クラフトカクテルが主役の大人の隠れ家宿おすすめ10選（全国）
-- [【2026年最新】鍛冶屋包丁作り体験ができる宿おすすめ10選](https://croud-travel.pages.dev/posts/blacksmith-blade-forging-artisan-onsen-hotels-guide): 鍛冶屋・包丁研ぎ・燕三条金物！本格鍛冶鍛造体験ができる温泉宿おすすめ10選（全国）
-- [【2026年最新】ボードゲーム遊び放題ホテルおすすめ10選](https://croud-travel.pages.dev/posts/board-game-entertainment-play-hotels-guide): 数百種のゲーム遊び放題！ボードゲーム＆エンタメホテルおすすめ10選（全国）
-- [【2026年最新】薪割り＆焚き火ができる宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/bonfire-wood-chopping-nature-resort-hotels-guide): 薪割り＆焚き火BAR体験！炎のリトリートネイチャーホテルおすすめ10選（全国）
