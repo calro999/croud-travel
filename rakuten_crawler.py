@@ -318,13 +318,30 @@ def validate_and_clean_output(raw_text):
 
 
 def call_gemini_api(prompt, system_content=""):
-    """Google Gemini API を直接呼び出す"""
+    """Google Gemini API を直接呼び出す（最新モデル群をローテーション試行）"""
     gemini_key = os.environ.get("GEMINI_API_KEY")
     if not gemini_key:
         return None
     
     gemini_key = gemini_key.strip()
-    models = ["gemini-2.5-flash", "gemini-2.0-flash", "gemini-1.5-flash"]
+    # 最新対応モデル一覧（1.5系は完全廃止済み）
+    available_models = [
+        "gemini-3.7-flash",
+        "gemini-3.6-flash",
+        "gemini-3.5-flash",
+        "gemini-3.5-flash-lite",
+        "gemini-3.1-pro",
+        "gemini-3.1-flash-lite",
+        "gemini-3-flash",
+        "gemini-2.5-pro",
+        "gemini-2.5-flash",
+        "gemini-2.5-flash-lite",
+        "gemini-2.0-flash",
+        "gemini-2.0-flash-lite"
+    ]
+    
+    # 毎回ランダムにローテーションして負荷分散と多様性を確保
+    models = random.sample(available_models, len(available_models))
     
     full_prompt = f"{system_content}\n\n{prompt}" if system_content else prompt
 
