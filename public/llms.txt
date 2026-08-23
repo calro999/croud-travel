@@ -70,6 +70,7 @@
 - [【2026年最新】シードルが美味しい宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/cider-apple-orchard-craft-cider-onsen-hotels-guide): シードルが美味しい宿・りんご風呂＆クラフトサイダー温泉リゾートおすすめ10選（全国）
 - [【2026年最新】色浴衣散策ができる宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/colorful-yukata-stroll-onsen-town-soto-yu-hotels-guide): 色浴衣レンタル＆下駄で歩く温泉街そぞろ歩き・外湯めぐり体験ができる名門風情温泉宿おすすめ10選（全国）
 - [【2026年最新】ジム・プール完備の宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/fitness-gym-indoor-pool-luxury-wellness-hotels-guide): 24時間本格フィットネスジム＆温水インドアプール完備の極上ウェルネスホテルおすすめ10選（全国）
+- [【2026年最新】ガレージ付き宿おすすめ10選！人気ホテル比較](https://croud-travel.pages.dev/posts/garage-supercar-circuit-drive-resort-hotels-guide): ガレージ付き宿・愛車やバイクと泊まれるサーキット＆ドライブ温泉ホテルおすすめ10選（全国）
 - [【2026年最新】ワーケーションができる宿おすすめ10選](https://croud-travel.pages.dev/posts/hot-spring-workation-resort-coworking-hotels-guide): 高速Wi-Fi＆大型モニター・コワーキングラウンジ完備の温泉リゾートワーケーションホテルおすすめ10選（全国）
 - [【2026年最新】犬ぞり体験ができる宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/husky-dog-sledding-snowmobile-snow-resort-hotels-guide): ハスキー犬ぞり＆スノーモービル・雪原アドベンチャーが体験できる北海道・東北名門スノーホテルおすすめ10選（全国）
 - [【2026年最新】弓道体験ができる宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/japanese-archery-kyudo-zen-focus-onsen-hotels-guide): 本格弓道・和弓体験＆凛とした静寂の射場が楽しめる名門リゾートホテル温泉宿おすすめ10選（全国）
@@ -107,4 +108,3 @@
 - [【2026年最新】流氷ウォーク体験ができる宿おすすめ10選](https://croud-travel.pages.dev/posts/drift-ice-walk-icebreaker-cruise-okhotsk-hotels-guide): 流氷ウォーク・砕氷船クルーズ！オホーツクの極寒絶景アクティビティホテルおすすめ10選（北海道）
 - [【2026年最新】切子体験ができる宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/edo-kiriko-satsuma-kiriko-cut-glass-craft-hotels-guide): 江戸切子・薩摩切子カット体験＆伝統工芸ガラス細工が学べる名門ホテル温泉宿おすすめ10選（全国）
 - [【2026年最新】発酵食腸活ができる温泉宿おすすめ10選](https://croud-travel.pages.dev/posts/fermentation-gut-health-cuisine-onsen-hotels-guide): 自家製味噌・麹・ぬか床！発酵食＆美腸腸活ホテルおすすめ10選（全国）
-- [【2026年最新】ホタルが見える温泉宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/firefly-viewing-stream-onsen-hotels-guide): 蛍が舞う清流露天風呂！初夏の幻想ホタル観賞ができる温泉旅館おすすめ10選（全国）
