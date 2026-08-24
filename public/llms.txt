@@ -59,10 +59,12 @@
 
 ## 最新厳選宿・観光ルポ記事
 - [【2026年最新】グラスボートの宿人気おすすめ10選！比較](https://croud-travel.pages.dev/posts/glass-bottom-boat-underwater-marine-resort-hotels-guide): グラスボートの宿・海中展望塔＆海中公園ホテルおすすめ10選（全国）
+- [【2026年最新】一枚岩風呂の宿人気おすすめ10選！比較](https://croud-travel.pages.dev/posts/monolith-giant-rock-onsen-hotels-guide): 一枚岩風呂の宿・天然巨石露天風呂名門秘湯温泉おすすめ10選（全国）
 - [【2026年最新】足湯付き客室の宿人気おすすめ10選！比較](https://croud-travel.pages.dev/posts/private-footbath-terrace-room-onsen-hotels-guide): 足湯付き客室の宿・プライベート足湯テラス温泉ホテルおすすめ10選（全国）
 - [【2026年最新】人力車の宿おすすめ10選！人気ホテル比較](https://croud-travel.pages.dev/posts/rickshaw-taisho-roman-kimono-onsen-hotels-guide): 人力車の宿・大正ロマン着物街歩き温泉旅館おすすめ10選（全国）
 - [【2026年最新】川下りの宿人気おすすめ10選！名舟比較](https://croud-travel.pages.dev/posts/river-boat-cruising-rapids-onsen-hotels-guide): 川下りの宿・名物舟下り＆渓谷ライン下り温泉ホテルおすすめ10選（全国）
 - [【2026年最新】路面電車の宿おすすめ10選！人気ホテル比較](https://croud-travel.pages.dev/posts/tram-streetcar-nostalgic-city-onsen-hotels-guide): 路面電車の宿・レトロ市電＆トラムビュー温泉ホテルおすすめ10選（全国）
+- [【富山県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/520): 富山エクセルホテル東急（富山県）
 - [【おすすめ宿】甲州牛の宿　石和温泉　石和常磐ホテルの魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/56159): 甲州牛の宿　石和温泉　石和常磐ホテル（山梨県）
 - [【広島県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/56807): チサンホテル広島（広島県）
 - [【おすすめ宿】ホテル金沢の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/1371): ホテル金沢（石川県）
@@ -106,5 +108,3 @@
 - [【2026年最新】マンガ読み放題の宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/manga-comic-reading-stay-hot-spring-hotels-guide): 1万冊以上のマンガ読み放題ラウンジ＆おこもりコミックステイができる極上温泉ホテルおすすめ10選（全国）
 - [【2026年最新】朝市が近い宿おすすめ10選！人気ホテル比較](https://croud-travel.pages.dev/posts/morning-market-asaichi-gourmet-onsen-hotels-guide): 朝市が近い宿・日本三大朝市＆名物温泉街朝市ホテルおすすめ10選（全国）
 - [【2026年最新】牧場体験ができる人気宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/ranch-farm-animal-experience-onsen-hotels-guide): 牧場体験・ファームステイ＆動物ふれあい温泉リゾートおすすめ10選（全国）
-- [【2026年最新】レトロゲームの宿人気おすすめ10選！比較](https://croud-travel.pages.dev/posts/retro-arcade-game-amusement-onsen-hotels-guide): レトロゲームの宿・昭和アーケードゲーム＆アミューズメント温泉ホテルおすすめ10選（全国）
-- [【2026年最新】シーカヤック体験ができる宿おすすめ10選](https://croud-travel.pages.dev/posts/sea-kayak-mangrove-cave-adventure-resort-hotels-guide): マングローブ＆青の洞窟！シーカヤック・ナイトカヤック体験ができる絶景リゾートホテル温泉宿おすすめ10選（全国）
