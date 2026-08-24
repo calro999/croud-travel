@@ -60,6 +60,7 @@
 ## 最新厳選宿・観光ルポ記事
 - [【2026最新】舟盛りが凄いおすすめ温泉宿10選！大漁海鮮比較](https://croud-travel.pages.dev/posts/funamori-sashimi-boat-seafood-onsen-hotels-guide): 舟盛りが美味しい温泉宿おすすめ10選（全国）
 - [【2026最新】阿智村・昼神温泉おすすめ宿10選！星空ツアー比較](https://croud-travel.pages.dev/posts/hirugami-onsen-achi-starry-sky-hotels-guide): 阿智村・昼神温泉おすすめ宿10選（長野県）
+- [【2026最新】薪サウナが凄いおすすめ温泉宿10選！極上ロウリュ](https://croud-travel.pages.dev/posts/wood-burning-sauna-maki-stove-hotels-guide): 薪サウナが凄い温泉宿・ホテルおすすめ10選（全国）
 - [【おすすめ宿】ホテルシルク温泉やまびこの魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/128351): ホテルシルク温泉やまびこ（兵庫県）
 - [【大阪府観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/183414): 天然温泉　花波の湯　御宿　野乃大阪淀屋橋（ドーミーイン・御宿野乃　ホテルズグループ）（大阪府）
 - [【おすすめ宿】ＡＮＡクラウンプラザホテル富山　ｂｙ　ＩＨＧの魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/5293): ＡＮＡクラウンプラザホテル富山　ｂｙ　ＩＨＧ（富山県）
@@ -107,4 +108,3 @@
 - [【2026年最新】岩盤浴ができる宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/bedrock-bath-stone-spa-detox-hot-spring-hotels-guide): 本格岩盤浴・ストーンスパ＆薬石デトックスロウリュが体験できる名門温泉ホテルおすすめ10選（全国）
 - [【2026年最新】天守閣が見える宿おすすめ10選！人気ホテル比較](https://croud-travel.pages.dev/posts/castle-view-tenshukaku-historic-onsen-hotels-guide): 天守閣が見える宿・国宝名城ビュー＆キャッスルステイ温泉ホテルおすすめ10選（全国）
 - [【2026年最新】プロポーズができる宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/chapel-propose-anniversary-luxury-night-view-hotels-guide): 専任コンシェルジュ常駐＆チャペル貸切プロポーズ・花束シャンパン演出ができる最高峰記念日ホテルおすすめ10選（全国）
-- [【2026年最新】茶室がある人気名門宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/chashitsu-tea-ceremony-sukiya-onsen-ryokan-hotels-guide): 茶室がある名門宿・数寄屋建築＆本格お抹茶体験の温泉旅館おすすめ10選（全国）
