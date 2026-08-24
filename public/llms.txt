@@ -64,6 +64,7 @@
 - [【2026年最新】人力車の宿おすすめ10選！人気ホテル比較](https://croud-travel.pages.dev/posts/rickshaw-taisho-roman-kimono-onsen-hotels-guide): 人力車の宿・大正ロマン着物街歩き温泉旅館おすすめ10選（全国）
 - [【2026年最新】川下りの宿人気おすすめ10選！名舟比較](https://croud-travel.pages.dev/posts/river-boat-cruising-rapids-onsen-hotels-guide): 川下りの宿・名物舟下り＆渓谷ライン下り温泉ホテルおすすめ10選（全国）
 - [【2026年最新】川サウナの宿人気おすすめ10選！名湯比較](https://croud-travel.pages.dev/posts/river-sauna-stream-dive-nature-onsen-hotels-guide): 川サウナの宿・清流天然水風呂ダイブ大自然温泉リゾートおすすめ10選（全国）
+- [【2026最新】朝日・日の出が見える絶景温泉宿10選！水平線露天比較](https://croud-travel.pages.dev/posts/sunrise-ocean-view-horizon-onsen-hotels-guide): 朝日・日の出が見える絶景温泉宿おすすめ10選（全国）
 - [【2026年最新】路面電車の宿おすすめ10選！人気ホテル比較](https://croud-travel.pages.dev/posts/tram-streetcar-nostalgic-city-onsen-hotels-guide): 路面電車の宿・レトロ市電＆トラムビュー温泉ホテルおすすめ10選（全国）
 - [【富山県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/520): 富山エクセルホテル東急（富山県）
 - [【おすすめ宿】甲州牛の宿　石和温泉　石和常磐ホテルの魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/56159): 甲州牛の宿　石和温泉　石和常磐ホテル（山梨県）
@@ -107,4 +108,3 @@
 - [【2026年最新】日本刀体験ができる宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/katana-sword-smithing-forge-craft-onsen-hotels-guide): 日本刀鍛錬見学＆ペーパーナイフ・小刀古式鍛造体験ができる名門温泉宿おすすめ10選（全国）
 - [【2026年最新】鍾乳洞探検ができる宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/limestone-cave-caving-geopark-onsen-hotels-guide): 鍾乳洞探検・地底湖ケイビング＆ジオパーク温泉ホテルおすすめ10選（全国）
 - [【2026年最新】マンガ読み放題の宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/manga-comic-reading-stay-hot-spring-hotels-guide): 1万冊以上のマンガ読み放題ラウンジ＆おこもりコミックステイができる極上温泉ホテルおすすめ10選（全国）
-- [【2026年最新】朝市が近い宿おすすめ10選！人気ホテル比較](https://croud-travel.pages.dev/posts/morning-market-asaichi-gourmet-onsen-hotels-guide): 朝市が近い宿・日本三大朝市＆名物温泉街朝市ホテルおすすめ10選（全国）
