@@ -60,7 +60,19 @@
 ## 最新厳選宿・観光ルポ記事
 - [【2026年最新】グラスボートの宿人気おすすめ10選！比較](https://croud-travel.pages.dev/posts/glass-bottom-boat-underwater-marine-resort-hotels-guide): グラスボートの宿・海中展望塔＆海中公園ホテルおすすめ10選（全国）
 - [【2026年最新】人力車の宿おすすめ10選！人気ホテル比較](https://croud-travel.pages.dev/posts/rickshaw-taisho-roman-kimono-onsen-hotels-guide): 人力車の宿・大正ロマン着物街歩き温泉旅館おすすめ10選（全国）
+- [【2026年最新】川下りの宿人気おすすめ10選！名舟比較](https://croud-travel.pages.dev/posts/river-boat-cruising-rapids-onsen-hotels-guide): 川下りの宿・名物舟下り＆渓谷ライン下り温泉ホテルおすすめ10選（全国）
 - [【2026年最新】路面電車の宿おすすめ10選！人気ホテル比較](https://croud-travel.pages.dev/posts/tram-streetcar-nostalgic-city-onsen-hotels-guide): 路面電車の宿・レトロ市電＆トラムビュー温泉ホテルおすすめ10選（全国）
+- [【おすすめ宿】甲州牛の宿　石和温泉　石和常磐ホテルの魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/56159): 甲州牛の宿　石和温泉　石和常磐ホテル（山梨県）
+- [【広島県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/56807): チサンホテル広島（広島県）
+- [【おすすめ宿】ホテル金沢の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/1371): ホテル金沢（石川県）
+- [【神奈川県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/179775): ＧＥＮ　ＨＯＴＥＬ　ＫＡＭＡＫＵＲＡ（神奈川県）
+- [【おすすめ宿】かみのやま温泉　彩花亭時代屋の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/7354): かみのやま温泉　彩花亭時代屋（山形県）
+- [【鳥取県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/130086): 三朝温泉　自家源泉かけ流し露天風呂　清流荘（鳥取県）
+- [【おすすめ宿】甲斐のホテルの魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/991): 甲斐のホテル（山梨県）
+- [【岐阜県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/187432): ＡＢホテル関（岐阜県）
+- [【おすすめ宿】巣郷温泉　静山荘の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/80608): 巣郷温泉　静山荘（秋田県）
+- [【愛知県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/69257): ＡＢホテル　豊田元町（愛知県）
+- [【おすすめ宿】大仁温泉　大仁ホテル（伊東園ホテルズ）の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/39515): 大仁温泉　大仁ホテル（伊東園ホテルズ）（静岡県）
 - [【富山県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/109045): 生地温泉　たなかや（富山県）
 - [【おすすめ宿】ホテルルートイン鴻巣の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/151046): ホテルルートイン鴻巣（埼玉県）
 - [【山梨県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/38754): 八ヶ岳グレイスホテル（山梨県）
@@ -96,15 +108,3 @@
 - [【2026年最新】レトロゲームの宿人気おすすめ10選！比較](https://croud-travel.pages.dev/posts/retro-arcade-game-amusement-onsen-hotels-guide): レトロゲームの宿・昭和アーケードゲーム＆アミューズメント温泉ホテルおすすめ10選（全国）
 - [【2026年最新】シーカヤック体験ができる宿おすすめ10選](https://croud-travel.pages.dev/posts/sea-kayak-mangrove-cave-adventure-resort-hotels-guide): マングローブ＆青の洞窟！シーカヤック・ナイトカヤック体験ができる絶景リゾートホテル温泉宿おすすめ10選（全国）
 - [【2026年最新】SLが見える人気温泉宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/sl-steam-locomotive-train-view-onsen-hotels-guide): SLが見える宿・蒸気機関車トレインビュー＆乗車拠点温泉ホテルおすすめ10選（全国）
-- [【2026年最新】サーフィンができる宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/surfing-school-beachfront-ocean-onsen-hotels-guide): サーフィンレッスン＆ビーチ直結サーフスクール体験ができる名門オーシャンホテル温泉宿おすすめ10選（全国）
-- [【福井県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/84545): 北陸　あわら温泉　まつや千千（福井県）
-- [【おすすめ宿】ホテルシーズン日南の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/30939): ホテルシーズン日南（宮崎県）
-- [【福島県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/136952): 湯岐温泉　和泉屋旅館＜福島県塙町＞（福島県）
-- [【おすすめ宿】指宿温泉　指宿ロイヤルホテル　～すべての女性へ美と健康を楽しむホテル～の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/10832): 指宿温泉　指宿ロイヤルホテル　～すべての女性へ美と健康を楽しむホテル～（鹿児島県）
-- [【鳥取県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/8778): 神鍋温泉　自然に癒される高原ホテル　ブルーリッジホテル（鳥取県）
-- [【おすすめ宿】ＣＡＮＤＥＯ　ＨＯＴＥＬＳ（カンデオホテルズ）大宮の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/176758): ＣＡＮＤＥＯ　ＨＯＴＥＬＳ（カンデオホテルズ）大宮（埼玉県）
-- [【宮城県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/5113): 石巻グランドホテル（宮城県）
-- [【おすすめ宿】蔵王温泉　吉田屋の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/196554): 蔵王温泉　吉田屋（山形県）
-- [【大阪府観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/167091): 天然温泉　浪華の湯　ドーミーイン大阪谷町（ドーミーイン・御宿野乃　ホテルズグループ）（大阪府）
-- [【2026年最新】収穫体験アグリツーリズモ宿おすすめ10選！比較](https://croud-travel.pages.dev/posts/agriturismo-farm-stay-harvest-experience-hotels-guide): アグリツーリズモ＆収穫ファームステイ！牧場・農園リゾートホテルおすすめ10選（全国）
-- [【2026年最新】天文台・天体望遠鏡完備ホテルおすすめ10選！比較](https://croud-travel.pages.dev/posts/astronomy-observatory-telescope-starry-sky-hotels-guide): 本格大型天体望遠鏡・天文台完備！星空観測体験リゾートホテルおすすめ10選（全国）
