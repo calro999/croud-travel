@@ -59,6 +59,7 @@
 
 ## 最新厳選宿・観光ルポ記事
 - [【2026最新】海鮮浜焼き食べ放題が凄い温泉宿10選！比較](https://croud-travel.pages.dev/posts/hamayaki-seafood-scallop-oyster-buffet-hotels-guide): 海鮮浜焼き食べ放題が凄い温泉宿おすすめ10選（全国）
+- [【2026最新】松茸尽くし会席が旨い温泉宿10選！比較](https://croud-travel.pages.dev/posts/matsutake-autumn-mushroom-kaiseki-onsen-hotels-guide): 松茸尽くし会席が旨い温泉宿おすすめ10選（全国）
 - [【おすすめ宿】ターミナルホテル東予の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/1618): ターミナルホテル東予（愛媛県）
 - [【鹿児島県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/1642): 天然温泉サウナ　ニューニシノ（鹿児島県）
 - [【おすすめ宿】家族の笑顔に会える宿　山代温泉　宝生亭の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/69349): 家族の笑顔に会える宿　山代温泉　宝生亭（石川県）
@@ -107,4 +108,3 @@
 - [【山梨県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/67105): 川浦温泉　山県館（山梨県）
 - [【おすすめ宿】ホテル新居浜ヒルズプリンス館（ＢＢＨホテルグループ）の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/153427): ホテル新居浜ヒルズプリンス館（ＢＢＨホテルグループ）（愛媛県）
 - [【石川県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/54103): 加賀山代温泉　みどりの宿　萬松閣（石川県）
-- [【おすすめ宿】長良川温泉　岐阜グランドホテルの魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/8385): 長良川温泉　岐阜グランドホテル（岐阜県）
