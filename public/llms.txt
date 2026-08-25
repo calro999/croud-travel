@@ -58,7 +58,11 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【和歌山県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/151092): 白浜温泉　紀州半島（和歌山県）
+- [【おすすめ宿】天然温泉　縮景の湯　スーパーホテル広島天然温泉・薬研堀通りの魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/181958): 天然温泉　縮景の湯　スーパーホテル広島天然温泉・薬研堀通り（広島県）
+- [【宮崎県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/147117): 妙見温泉　天けい荘（宮崎県）
 - [【おすすめ宿】お茶の水ホテルジュラクの魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/8290): お茶の水ホテルジュラク（新潟県）
+- [【2026最新】A5ブランド和牛が凄い温泉宿10選！極上肉比較](https://croud-travel.pages.dev/posts/a5-brand-wagyu-beef-kaiseki-onsen-hotels-guide): A5ブランド和牛が凄いおすすめ温泉宿10選（全国）
 - [【2026最新】地酒飲み放題の温泉宿10選！インクルーシブ比較](https://croud-travel.pages.dev/posts/all-inclusive-local-sake-free-drink-onsen-hotels-guide): 地酒飲み放題・オールインクルーシブ温泉宿おすすめ10選（全国）
 - [【ボルダリング＆本格サウナ付きホテル2026】アクティビティ充実の体験型リゾート宿特集！](https://croud-travel.pages.dev/posts/bouldering-sauna-activity-hotel-guide): ボルダリング＆アクティビティホテル特集（長野県）
 - [【全国・洞窟温泉＆洞窟風呂ランキング】天然洞窟の秘湯と大迫力の露天風呂！おすすめ名宿10選](https://croud-travel.pages.dev/posts/cave-onsen-dokutsu-furo-japan-ranking-guide): 全国洞窟温泉・秘湯名宿特集（和歌山県）
@@ -104,7 +108,3 @@
 - [【栃木県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/135482): 日光湯元温泉　日光グランドホテル　ほのかな宿樹林（栃木県）
 - [【おすすめ宿】ホテルシルク温泉やまびこの魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/128351): ホテルシルク温泉やまびこ（兵庫県）
 - [【大阪府観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/183414): 天然温泉　花波の湯　御宿　野乃大阪淀屋橋（ドーミーイン・御宿野乃　ホテルズグループ）（大阪府）
-- [【おすすめ宿】ＡＮＡクラウンプラザホテル富山　ｂｙ　ＩＨＧの魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/5293): ＡＮＡクラウンプラザホテル富山　ｂｙ　ＩＨＧ（富山県）
-- [【福島県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/5371): ビジネスホテル東洋＜福島県＞（福島県）
-- [【おすすめ宿】ＡＢホテル木更津の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/181782): ＡＢホテル木更津（福井県）
-- [【岡山県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/39979): ＡＮＡクラウンプラザホテル岡山　ｂｙ　ＩＨＧ（岡山県）
