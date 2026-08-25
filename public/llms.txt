@@ -58,6 +58,8 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【鹿児島県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/1642): 天然温泉サウナ　ニューニシノ（鹿児島県）
+- [【おすすめ宿】家族の笑顔に会える宿　山代温泉　宝生亭の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/69349): 家族の笑顔に会える宿　山代温泉　宝生亭（石川県）
 - [【和歌山県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/151092): 白浜温泉　紀州半島（和歌山県）
 - [【おすすめ宿】天然温泉　縮景の湯　スーパーホテル広島天然温泉・薬研堀通りの魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/181958): 天然温泉　縮景の湯　スーパーホテル広島天然温泉・薬研堀通り（広島県）
 - [【宮崎県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/147117): 妙見温泉　天けい荘（宮崎県）
@@ -68,6 +70,7 @@
 - [【全国・洞窟温泉＆洞窟風呂ランキング】天然洞窟の秘湯と大迫力の露天風呂！おすすめ名宿10選](https://croud-travel.pages.dev/posts/cave-onsen-dokutsu-furo-japan-ranking-guide): 全国洞窟温泉・秘湯名宿特集（和歌山県）
 - [【センティアホテル内藤 宿泊レポ2026】甲府駅周辺ビジネス＆観光のコスパ最強ホテル！大浴場・朝食・アクセス徹底解説](https://croud-travel.pages.dev/posts/centia-hotel-naito-kofu-stay-guide): センティアホテル内藤（山梨県）
 - [【全国都道府県の有名なもの・名物グルメ・特産品お土産一覧2026】旅行で絶対行くべきスポット＆ご当地名物](https://croud-travel.pages.dev/posts/famous-spots-and-souvenirs-japan-prefecture-guide): 日本全国ご当地名物＆有名スポット特集（全国）
+- [【2026最新】フレンチトーストが旨い朝食ホテル10選！比較](https://croud-travel.pages.dev/posts/french-toast-hotel-bakery-breakfast-hotels-guide): フレンチトーストが旨い朝食ホテルおすすめ10選（全国）
 - [【2026最新】舟盛りが凄いおすすめ温泉宿10選！大漁海鮮比較](https://croud-travel.pages.dev/posts/funamori-sashimi-boat-seafood-onsen-hotels-guide): 舟盛りが美味しい温泉宿おすすめ10選（全国）
 - [【弘前パークホテル 宿泊口コミ2026】大浴場・展望レストラン朝食・弘前観光の拠点ガイド！](https://croud-travel.pages.dev/posts/hirosaki-park-hotel-aomori-stay-guide): 弘前パークホテル（青森県）
 - [【2026最新】阿智村・昼神温泉おすすめ宿10選！星空ツアー比較](https://croud-travel.pages.dev/posts/hirugami-onsen-achi-starry-sky-hotels-guide): 阿智村・昼神温泉おすすめ宿10選（長野県）
@@ -105,6 +108,3 @@
 - [【おすすめ宿】長良川温泉　岐阜グランドホテルの魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/8385): 長良川温泉　岐阜グランドホテル（岐阜県）
 - [【愛媛県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/176808): 道後温泉　ホテル古湧園　遥（愛媛県）
 - [【おすすめ宿】ホテルコンチェルト長崎の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/163054): ホテルコンチェルト長崎（長崎県）
-- [【栃木県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/135482): 日光湯元温泉　日光グランドホテル　ほのかな宿樹林（栃木県）
-- [【おすすめ宿】ホテルシルク温泉やまびこの魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/128351): ホテルシルク温泉やまびこ（兵庫県）
-- [【大阪府観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/183414): 天然温泉　花波の湯　御宿　野乃大阪淀屋橋（ドーミーイン・御宿野乃　ホテルズグループ）（大阪府）
