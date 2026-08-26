@@ -58,6 +58,7 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【山梨県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/29274): 石和温泉　ホテル花いさわ（山梨県）
 - [【おすすめ宿】はわい温泉　ゆの宿　彩香の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/54518): はわい温泉　ゆの宿　彩香（鳥取県）
 - [【北海道観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/147735): 北海道青少年会館コンパス（北海道）
 - [【おすすめ宿】松乃温泉　水香園の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/147614): 松乃温泉　水香園（東京都）
@@ -72,6 +73,7 @@
 - [【2026最新】金目鯛の姿煮・しゃぶが旨い温泉宿10選！比較](https://croud-travel.pages.dev/posts/kinmedai-boiled-shabu-winter-onsen-hotels-guide): 金目鯛の姿煮・しゃぶしゃぶが旨い温泉宿おすすめ10選（全国）
 - [【2026最新】松茸尽くし会席が旨い温泉宿10選！比較](https://croud-travel.pages.dev/posts/matsutake-autumn-mushroom-kaiseki-onsen-hotels-guide): 松茸尽くし会席が旨い温泉宿おすすめ10選（全国）
 - [【2026最新】樹氷が見える絶景温泉ホテル10選！比較](https://croud-travel.pages.dev/posts/snow-monster-juhyo-winter-panoramic-resort-hotels-guide): 樹氷が見える絶景温泉ホテルおすすめ10選（全国）
+- [【2026最新】黄金のすすき草原が見える宿10選！比較](https://croud-travel.pages.dev/posts/susuki-grassland-autumn-view-hotels-guide): 黄金のすすき草原が見える名門温泉宿おすすめ10選（全国）
 - [【2026最新】寒ブリ・ぶりしゃぶが旨い温泉宿10選！比較](https://croud-travel.pages.dev/posts/winter-kanburi-yellowtail-shabu-onsen-hotels-guide): 寒ブリ・ぶりしゃぶが旨い温泉宿おすすめ10選（全国）
 - [【北海道観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/184089): フェアフィールド・バイ・マリオット・北海道えにわ（北海道）
 - [【おすすめ宿】愛犬と泊まる湖畔の温泉リゾート　びわ湖松の浦別邸の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/179199): 愛犬と泊まる湖畔の温泉リゾート　びわ湖松の浦別邸（滋賀県）
@@ -106,5 +108,3 @@
 - [【弘前パークホテル 宿泊口コミ2026】大浴場・展望レストラン朝食・弘前観光の拠点ガイド！](https://croud-travel.pages.dev/posts/hirosaki-park-hotel-aomori-stay-guide): 弘前パークホテル（青森県）
 - [【2026最新】阿智村・昼神温泉おすすめ宿10選！星空ツアー比較](https://croud-travel.pages.dev/posts/hirugami-onsen-achi-starry-sky-hotels-guide): 阿智村・昼神温泉おすすめ宿10選（長野県）
 - [【2026最新】圧倒的湯量の源泉かけ流し温泉宿10選！名湯比較](https://croud-travel.pages.dev/posts/huge-volume-abundant-gushing-onsen-hotels-guide): 圧倒的湯量の源泉かけ流し温泉宿おすすめ10選（全国）
-- [【指宿と霧島どっちがおすすめ？】鹿児島2大温泉地を徹底比較！砂むし温泉vs高原の硫黄泉](https://croud-travel.pages.dev/posts/ibusuki-vs-kirishima-kagoshima-onsen-guide): 指宿温泉・霧島温泉 厳選比較特集（鹿児島県）
-- [【2026最新】いくら盛り放題の朝食ホテル10選！海鮮丼比較](https://croud-travel.pages.dev/posts/ikura-kakehodai-kaisendon-hokkaido-hotels-guide): いくら盛り放題・海鮮丼朝食バイキングおすすめホテル10選（北海道）
