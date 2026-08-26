@@ -63,6 +63,7 @@
 - [【おすすめ宿】松乃温泉　水香園の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/147614): 松乃温泉　水香園（東京都）
 - [【沖縄県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/108996): アダ・ガーデンホテル沖縄（沖縄県）
 - [【おすすめ宿】熱海温泉　ホテル大野屋（伊東園ホテルズ）の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/54209): 熱海温泉　ホテル大野屋（伊東園ホテルズ）（静岡県）
+- [【2026最新】きりたんぽ鍋・比内地鶏が旨い宿10選！比較](https://croud-travel.pages.dev/posts/akita-kiritanpo-hinai-chicken-winter-onsen-hotels-guide): きりたんぽ鍋・比内地鶏が旨い温泉宿おすすめ10選（全国）
 - [【2026最新】あんこう鍋・どぶ汁が旨い温泉宿10選！比較](https://croud-travel.pages.dev/posts/ankou-dobujiru-hotpot-winter-gourmet-hotels-guide): あんこう鍋・どぶ汁が旨い温泉宿おすすめ10選（全国）
 - [【2026最新】栗尽くし・モンブランが旨い宿10選！比較](https://croud-travel.pages.dev/posts/chestnut-montblanc-autumn-sweets-hotels-guide): 栗尽くし・モンブランが旨い宿おすすめ10選（全国）
 - [【2026最新】海鮮浜焼き食べ放題が凄い温泉宿10選！比較](https://croud-travel.pages.dev/posts/hamayaki-seafood-scallop-oyster-buffet-hotels-guide): 海鮮浜焼き食べ放題が凄い温泉宿おすすめ10選（全国）
@@ -107,4 +108,3 @@
 - [【2026最新】圧倒的湯量の源泉かけ流し温泉宿10選！名湯比較](https://croud-travel.pages.dev/posts/huge-volume-abundant-gushing-onsen-hotels-guide): 圧倒的湯量の源泉かけ流し温泉宿おすすめ10選（全国）
 - [【指宿と霧島どっちがおすすめ？】鹿児島2大温泉地を徹底比較！砂むし温泉vs高原の硫黄泉](https://croud-travel.pages.dev/posts/ibusuki-vs-kirishima-kagoshima-onsen-guide): 指宿温泉・霧島温泉 厳選比較特集（鹿児島県）
 - [【2026最新】いくら盛り放題の朝食ホテル10選！海鮮丼比較](https://croud-travel.pages.dev/posts/ikura-kakehodai-kaisendon-hokkaido-hotels-guide): いくら盛り放題・海鮮丼朝食バイキングおすすめホテル10選（北海道）
-- [【高知 三翠園＆リバーサイドホテル松栄 宿泊ガイド2026】高知城下の天然温泉と名物カツオのタタキ](https://croud-travel.pages.dev/posts/kochi-sansuien-riverside-hotel-guide): 高知城下の天然温泉 三翠園（高知県）
