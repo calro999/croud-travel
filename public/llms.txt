@@ -63,6 +63,7 @@
 - [【沖縄県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/108996): アダ・ガーデンホテル沖縄（沖縄県）
 - [【おすすめ宿】熱海温泉　ホテル大野屋（伊東園ホテルズ）の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/54209): 熱海温泉　ホテル大野屋（伊東園ホテルズ）（静岡県）
 - [【2026最新】あんこう鍋・どぶ汁が旨い温泉宿10選！比較](https://croud-travel.pages.dev/posts/ankou-dobujiru-hotpot-winter-gourmet-hotels-guide): あんこう鍋・どぶ汁が旨い温泉宿おすすめ10選（全国）
+- [【2026最新】栗尽くし・モンブランが旨い宿10選！比較](https://croud-travel.pages.dev/posts/chestnut-montblanc-autumn-sweets-hotels-guide): 栗尽くし・モンブランが旨い宿おすすめ10選（全国）
 - [【2026最新】海鮮浜焼き食べ放題が凄い温泉宿10選！比較](https://croud-travel.pages.dev/posts/hamayaki-seafood-scallop-oyster-buffet-hotels-guide): 海鮮浜焼き食べ放題が凄い温泉宿おすすめ10選（全国）
 - [【2026最新】ヒカルのホテルHOTEL 385宮古島口コミ＆宿泊予約ガイド](https://croud-travel.pages.dev/posts/hotel-385-miyakojima-hikaru-rezard-guide): Ｈｏｔｅｌ　３８５＜宮古島＞（沖縄県）
 - [【2026最新】東海オンエアてつやのホテル小柳津＆岡崎聖地巡礼の宿ガイド](https://croud-travel.pages.dev/posts/hotel-oyaizu-tokai-on-air-tetsuya-okazaki-guide): ほてる小栁津＆岡崎聖地巡礼おすすめホテル（愛知県）
@@ -107,4 +108,3 @@
 - [【高知 三翠園＆リバーサイドホテル松栄 宿泊ガイド2026】高知城下の天然温泉と名物カツオのタタキ](https://croud-travel.pages.dev/posts/kochi-sansuien-riverside-hotel-guide): 高知城下の天然温泉 三翠園（高知県）
 - [【2026最新】ランプの宿・秘湯一軒宿おすすめ10選！名湯比較](https://croud-travel.pages.dev/posts/lamp-light-secret-onsen-isolated-inns-guide): ランプの宿・秘湯の一軒宿おすすめ10選（全国）
 - [【日本の泥温泉・泥パック名湯ランキング】天然泥湯で全身美肌エステ！おすすめ温泉旅館](https://croud-travel.pages.dev/posts/mud-onsen-doroyu-pack-japan-guide): 全国泥温泉・泥パック美肌名湯特集（鹿児島県）
-- [【2026最新】日本三大名泉おすすめ宿10選！有馬草津下呂比較](https://croud-travel.pages.dev/posts/nihon-sandai-meisen-arima-kusatsu-gero-hotels-guide): 日本三大名泉（有馬温泉・草津温泉・下呂温泉）おすすめ名門宿10選（全国）
