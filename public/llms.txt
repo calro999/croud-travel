@@ -58,6 +58,7 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【おすすめ宿】はわい温泉　ゆの宿　彩香の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/54518): はわい温泉　ゆの宿　彩香（鳥取県）
 - [【北海道観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/147735): 北海道青少年会館コンパス（北海道）
 - [【おすすめ宿】松乃温泉　水香園の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/147614): 松乃温泉　水香園（東京都）
 - [【沖縄県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/108996): アダ・ガーデンホテル沖縄（沖縄県）
@@ -67,6 +68,7 @@
 - [【2026最新】海鮮浜焼き食べ放題が凄い温泉宿10選！比較](https://croud-travel.pages.dev/posts/hamayaki-seafood-scallop-oyster-buffet-hotels-guide): 海鮮浜焼き食べ放題が凄い温泉宿おすすめ10選（全国）
 - [【2026最新】ヒカルのホテルHOTEL 385宮古島口コミ＆宿泊予約ガイド](https://croud-travel.pages.dev/posts/hotel-385-miyakojima-hikaru-rezard-guide): Ｈｏｔｅｌ　３８５＜宮古島＞（沖縄県）
 - [【2026最新】東海オンエアてつやのホテル小柳津＆岡崎聖地巡礼の宿ガイド](https://croud-travel.pages.dev/posts/hotel-oyaizu-tokai-on-air-tetsuya-okazaki-guide): ほてる小栁津＆岡崎聖地巡礼おすすめホテル（愛知県）
+- [【2026最新】金目鯛の姿煮・しゃぶが旨い温泉宿10選！比較](https://croud-travel.pages.dev/posts/kinmedai-boiled-shabu-winter-onsen-hotels-guide): 金目鯛の姿煮・しゃぶしゃぶが旨い温泉宿おすすめ10選（全国）
 - [【2026最新】松茸尽くし会席が旨い温泉宿10選！比較](https://croud-travel.pages.dev/posts/matsutake-autumn-mushroom-kaiseki-onsen-hotels-guide): 松茸尽くし会席が旨い温泉宿おすすめ10選（全国）
 - [【2026最新】樹氷が見える絶景温泉ホテル10選！比較](https://croud-travel.pages.dev/posts/snow-monster-juhyo-winter-panoramic-resort-hotels-guide): 樹氷が見える絶景温泉ホテルおすすめ10選（全国）
 - [【2026最新】寒ブリ・ぶりしゃぶが旨い温泉宿10選！比較](https://croud-travel.pages.dev/posts/winter-kanburi-yellowtail-shabu-onsen-hotels-guide): 寒ブリ・ぶりしゃぶが旨い温泉宿おすすめ10選（全国）
@@ -106,5 +108,3 @@
 - [【指宿と霧島どっちがおすすめ？】鹿児島2大温泉地を徹底比較！砂むし温泉vs高原の硫黄泉](https://croud-travel.pages.dev/posts/ibusuki-vs-kirishima-kagoshima-onsen-guide): 指宿温泉・霧島温泉 厳選比較特集（鹿児島県）
 - [【2026最新】いくら盛り放題の朝食ホテル10選！海鮮丼比較](https://croud-travel.pages.dev/posts/ikura-kakehodai-kaisendon-hokkaido-hotels-guide): いくら盛り放題・海鮮丼朝食バイキングおすすめホテル10選（北海道）
 - [【高知 三翠園＆リバーサイドホテル松栄 宿泊ガイド2026】高知城下の天然温泉と名物カツオのタタキ](https://croud-travel.pages.dev/posts/kochi-sansuien-riverside-hotel-guide): 高知城下の天然温泉 三翠園（高知県）
-- [【2026最新】ランプの宿・秘湯一軒宿おすすめ10選！名湯比較](https://croud-travel.pages.dev/posts/lamp-light-secret-onsen-isolated-inns-guide): ランプの宿・秘湯の一軒宿おすすめ10選（全国）
-- [【日本の泥温泉・泥パック名湯ランキング】天然泥湯で全身美肌エステ！おすすめ温泉旅館](https://croud-travel.pages.dev/posts/mud-onsen-doroyu-pack-japan-guide): 全国泥温泉・泥パック美肌名湯特集（鹿児島県）
