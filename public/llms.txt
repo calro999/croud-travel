@@ -58,6 +58,7 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【2026最新】氷瀑・雪見の滝露天風呂宿10選！比較](https://croud-travel.pages.dev/posts/frozen-waterfall-hyobaku-snow-onsen-hotels-guide): 氷瀑・雪見の滝露天風呂宿おすすめ10選（全国）
 - [【山梨県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/29274): 石和温泉　ホテル花いさわ（山梨県）
 - [【おすすめ宿】はわい温泉　ゆの宿　彩香の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/54518): はわい温泉　ゆの宿　彩香（鳥取県）
 - [【北海道観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/147735): 北海道青少年会館コンパス（北海道）
@@ -107,4 +108,3 @@
 - [【2026最新】舟盛りが凄いおすすめ温泉宿10選！大漁海鮮比較](https://croud-travel.pages.dev/posts/funamori-sashimi-boat-seafood-onsen-hotels-guide): 舟盛りが美味しい温泉宿おすすめ10選（全国）
 - [【弘前パークホテル 宿泊口コミ2026】大浴場・展望レストラン朝食・弘前観光の拠点ガイド！](https://croud-travel.pages.dev/posts/hirosaki-park-hotel-aomori-stay-guide): 弘前パークホテル（青森県）
 - [【2026最新】阿智村・昼神温泉おすすめ宿10選！星空ツアー比較](https://croud-travel.pages.dev/posts/hirugami-onsen-achi-starry-sky-hotels-guide): 阿智村・昼神温泉おすすめ宿10選（長野県）
-- [【2026最新】圧倒的湯量の源泉かけ流し温泉宿10選！名湯比較](https://croud-travel.pages.dev/posts/huge-volume-abundant-gushing-onsen-hotels-guide): 圧倒的湯量の源泉かけ流し温泉宿おすすめ10選（全国）
