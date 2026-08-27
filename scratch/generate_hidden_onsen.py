@@ -1,0 +1,341 @@
+import json
+import urllib.parse
+
+with open('scratch/hidden_onsen_10_hotels.json', 'r', encoding='utf-8') as f:
+    hotels = json.load(f)
+
+aff_id = '54d2a438.4bc4abc2.54d2a439.aa1be583'
+
+def make_aff_url(no):
+    target = f'https://travel.rakuten.co.jp/HOTEL/{no}/{no}.html'
+    return f'https://hb.afl.rakuten.co.jp/hgc/{aff_id}/?pc={urllib.parse.quote(target, safe="")}'
+
+review_parts = [
+    '<h2 class="text-2xl font-bold text-stone-900 border-b-2 border-amber-700 pb-2 mb-4">【2026年最新SW特集】混雑回避！大自然の秘境にごり湯＆源泉かけ流し名湯宿10選！比較</h2>',
+    '<p class="text-sm text-stone-700 leading-relaxed my-3 font-medium">9月のシルバーウィーク（秋の大型連休）は、有名観光地の人混みやテーマパークの喧騒を離れ、深い森や渓谷の奥深くにひっそりと佇む「本物の源泉かけ流しにごり湯・秘境の一軒宿」で、マイナスイオンと極上の天然温泉に癒やされる旅が温泉ファンから絶大な支持を集めています。北アルプス槍ヶ岳を望む清流露天風呂と古民家囲炉裏料理の岐阜（新穂高温泉 槍見舘）、西暦705年創業・ギネス世界最古の宿で全館源泉かけ流しの山梨（西山温泉 慶雲館）、毎分1,000L超の自噴乳白色大露天風呂の長野（白骨の名湯 泡の湯）、青白いミルキー硫黄泉と元祖地獄蒸しプリンの大分（別府明礬温泉 岡本屋旅館）、安達太良山の酸性泉ミルキー温泉の福島（岳温泉 お宿 花かんざし）、創業300年の強酸性白濁硫黄泉と山形牛の山形（蔵王温泉 深山荘 高見屋）、全室離れ露天風呂付きの熊本（小田温泉 旅館 花心）、総ヒバ造り160畳の千人風呂を誇る青森（酸ヶ湯温泉旅館）、足元湧出の国登録有形文化財風呂の群馬（法師温泉 長寿館）、標高1,800mの絶景露天極楽湯の群馬（万座温泉 日進舘）まで、秋の味覚である山の幸や極上泉質を満喫できる名湯宿10選を本音で比較レビューします。全施設、楽天トラベル公式最新空室リンク付き。</p>',
+    '<div class="my-6 p-6 rounded-3xl bg-gradient-to-br from-amber-950 via-stone-900 to-stone-950 text-white border border-amber-500/30 shadow-xl p-6 md:p-8">',
+    '<h3 class="text-lg font-bold text-amber-300 mb-3">♨️ なぜ「シルバーウィークの秘境にごり湯旅」は混雑回避に最強なのか？</h3>',
+    '<p class="text-xs text-stone-200 leading-relaxed mb-3">人気観光地の大型ホテルやテーマパークは連休中大変な混雑になりますが、<strong>「国立公園の深山や渓谷に佇む秘湯の一軒宿」なら、客室数が少なく、静けさと大自然だけが広がる贅沢な非日常</strong>を味わえます。</p>',
+    '<p class="text-xs text-stone-200 leading-relaxed mb-3">白濁・青白色・緑褐色など地球のエネルギーをそのまま感じる<strong>「100%源泉かけ流しのにごり湯」</strong>、秋風にそよぐブナの原生林、川のせせらぎ、そして<strong>「松茸や秋のきのこ、岩魚、ジビエ、信州牛・山形牛など地の恵みをふんだんに使った山里会席」</strong>は、日頃の疲れを芯から癒やしてくれます。</p>',
+    '<p class="text-xs text-stone-200 leading-relaxed">渋滞や混雑のストレスから完全に解放される、本物の温泉旅行をお楽しみください。</p>',
+    '</div>',
+    '<h2 class="text-xl font-bold text-stone-900 border-b border-amber-300 pb-2 my-8">🧭 失敗しない「秘境にごり湯・秘湯宿」選び4大チェックポイント</h2>',
+    '<div class="grid grid-cols-1 md:grid-cols-2 gap-4 my-6">',
+    '<div class="p-5 rounded-2xl bg-white border-2 border-stone-200/80 shadow-sm space-y-2"><h4 class="text-sm font-extrabold text-amber-950 flex items-center gap-2"><span class="px-2 py-0.5 bg-amber-600 text-white text-xs font-black rounded-md">POINT</span>基準1：加水・加温・循環なしの「本物の100%源泉かけ流し」</h4><p class="text-xs text-stone-600 leading-relaxed">足元湧出や自噴源泉など、圧倒的な湯量と鮮度を誇るにごり湯・硫黄泉かを検証。</p></div>',
+    '<div class="p-5 rounded-2xl bg-white border-2 border-stone-200/80 shadow-sm space-y-2"><h4 class="text-sm font-extrabold text-amber-950 flex items-center gap-2"><span class="px-2 py-0.5 bg-amber-600 text-white text-xs font-black rounded-md">POINT</span>基準2：大自然と一体化する「渓流露天・野天風呂・歴史ある木造湯屋」</h4><p class="text-xs text-stone-600 leading-relaxed">北アルプスや原生林、清流を望む絶景露天や、歴史ある総ヒバ造りの湯船を重視。</p></div>',
+    '<div class="p-5 rounded-2xl bg-white border-2 border-stone-200/80 shadow-sm space-y-2"><h4 class="text-sm font-extrabold text-amber-950 flex items-center gap-2"><span class="px-2 py-0.5 bg-amber-600 text-white text-xs font-black rounded-md">POINT</span>基準3：秋の山の幸（きのこ・松茸・岩魚・ブランド牛・囲炉裏料理）</h4><p class="text-xs text-stone-600 leading-relaxed">その土地ならではの郷土料理や炭火焼き、山里会席の美味しさをセレクト。</p></div>',
+    '<div class="p-5 rounded-2xl bg-white border-2 border-stone-200/80 shadow-sm space-y-2"><h4 class="text-sm font-extrabold text-amber-950 flex items-center gap-2"><span class="px-2 py-0.5 bg-amber-600 text-white text-xs font-black rounded-md">POINT</span>基準4：楽天トラベルクチコミ・温泉満足度の圧倒的高さ</h4><p class="text-xs text-stone-600 leading-relaxed">実際に宿泊した温泉ファンから「泉質が桁違い」「静かで本当に癒やされた」と絶賛される宿を厳選。</p></div>',
+    '</div>',
+    '<h2 class="text-xl font-bold text-stone-900 border-b border-amber-300 pb-2 my-8">📊 秘境にごり湯・名湯宿おすすめ10選のスペック比較一覧表</h2>',
+    '<div class="my-6 overflow-x-auto rounded-2xl border border-stone-300 shadow-sm"><table class="w-full text-left text-xs text-stone-700 bg-white"><thead class="bg-stone-900 text-amber-300 font-bold border-b border-stone-300"><tr><th class="p-3">順位・宿名</th><th class="p-3">所在地</th><th class="p-3">泉質・にごり湯・温泉タイプ</th><th class="p-3">秋の郷土会席スタイル</th><th class="p-3">秘境ロケーション</th><th class="p-3">クチコミ</th></tr></thead><tbody class="divide-y divide-stone-200">',
+    '<tr class="hover:bg-amber-50/50"><td class="p-3 font-bold text-stone-900">第1位 槍見の湯 槍見館</td><td class="p-3">岐阜 新穂高温泉</td><td class="p-3 font-bold text-amber-800">槍ヶ岳望む蒲田川渓流露天（混浴・女性・貸切4つ）</td><td class="p-3 font-bold text-stone-800">古民家囲炉裏 A5飛騨牛炭火焼き会席</td><td class="p-3">北アルプス山懐の一軒宿</td><td class="p-3 font-bold text-amber-800">⭐ 4.74</td></tr>',
+    '<tr class="hover:bg-amber-50/50"><td class="p-3 font-bold text-stone-900">第2位 西山温泉 慶雲館</td><td class="p-3">山梨 西山温泉</td><td class="p-3 font-bold text-amber-800">毎分1,600L超！全館源泉100%かけ流し</td><td class="p-3 font-bold text-stone-800">名物 深山会席＆甲州牛ステーキ</td><td class="p-3">南アルプス早川渓谷・ギネス世界最古宿</td><td class="p-3 font-bold text-amber-800">⭐ 4.73</td></tr>',
+    '<tr class="hover:bg-amber-50/50"><td class="p-3 font-bold text-stone-900">第3位 白骨の名湯 泡の湯</td><td class="p-3">長野 白骨温泉</td><td class="p-3 font-bold text-amber-800">毎分1,000L自噴！乳白色大混浴大露天風呂</td><td class="p-3 font-bold text-stone-800">信州黒毛和牛＆温泉粥朝食</td><td class="p-3">乗鞍山麓の山懐に佇む秘湯</td><td class="p-3 font-bold text-amber-800">⭐ 4.67</td></tr>',
+    '<tr class="hover:bg-amber-50/50"><td class="p-3 font-bold text-stone-900">第4位 別府明礬温泉 岡本屋旅館</td><td class="p-3">大分 明礬温泉</td><td class="p-3 font-bold text-amber-800">青白いミルキー硫黄泉・庭園露天風呂</td><td class="p-3 font-bold text-stone-800">豊後牛＆元祖地獄蒸しプリン会席</td><td class="p-3">湯けむり立ち上る明礬温泉高台</td><td class="p-3 font-bold text-amber-800">⭐ 4.62</td></tr>',
+    '<tr class="hover:bg-amber-50/50"><td class="p-3 font-bold text-stone-900">第5位 岳温泉 お宿 花かんざし</td><td class="p-3">福島 岳温泉</td><td class="p-3 font-bold text-amber-800">安達太良山引き湯・酸性泉ミルキー温泉</td><td class="p-3 font-bold text-stone-800">個室食事処 福島牛＆旬彩創作会席</td><td class="p-3">全8室の大人の隠れ宿</td><td class="p-3 font-bold text-amber-800">⭐ 4.58</td></tr>',
+    '<tr class="hover:bg-amber-50/50"><td class="p-3 font-bold text-stone-900">第6位 深山荘 高見屋</td><td class="p-3">山形 蔵王温泉</td><td class="p-3 font-bold text-amber-800">創業300年！強酸性白濁硫黄泉のかけ流し風呂</td><td class="p-3 font-bold text-stone-800">山形牛ステーキ＆山里郷土懐石</td><td class="p-3">蔵王温泉街の最奥高台</td><td class="p-3 font-bold text-amber-800">⭐ 4.57</td></tr>',
+    '<tr class="hover:bg-amber-50/50"><td class="p-3 font-bold text-stone-900">第7位 小田温泉 旅館 花心</td><td class="p-3">熊本 小田温泉</td><td class="p-3 font-bold text-amber-800">全室離れ専用露天風呂付き・源泉温泉</td><td class="p-3 font-bold text-stone-800">個室 肥後牛炭火焼き＆季節の会席</td><td class="p-3">黒川温泉近くの静かな隠れ里</td><td class="p-3 font-bold text-amber-800">⭐ 4.53</td></tr>',
+    '<tr class="hover:bg-amber-50/50"><td class="p-3 font-bold text-stone-900">第8位 酸ヶ湯温泉旅館</td><td class="p-3">青森 八甲田</td><td class="p-3 font-bold text-amber-800">総ヒバ造り160畳「ヒバ千人風呂」白濁酸性泉</td><td class="p-3 font-bold text-stone-800">青森郷土料理＆山菜・きのこ御膳</td><td class="p-3">八甲田山麓ブナ原生林の秘湯</td><td class="p-3 font-bold text-amber-800">⭐ 4.41</td></tr>',
+    '<tr class="hover:bg-amber-50/50"><td class="p-3 font-bold text-stone-900">第9位 法師温泉 長寿館</td><td class="p-3">群馬 法師温泉</td><td class="p-3 font-bold text-amber-800">国登録有形文化財「法師乃湯」足元自然湧出泉</td><td class="p-3 font-bold text-stone-800">上州麦豚＆川魚山里会席</td><td class="p-3">三国峠の麓・一軒宿の秘境</td><td class="p-3 font-bold text-amber-800">⭐ 4.36</td></tr>',
+    '<tr class="hover:bg-amber-50/50"><td class="p-3 font-bold text-stone-900">第10位 万座温泉 日進舘</td><td class="p-3">群馬 万座温泉</td><td class="p-3 font-bold text-amber-800">標高1,800m！日本一の高濃度硫黄泉「極楽湯」</td><td class="p-3 font-bold text-stone-800">健康バイキング（1泊6,000円台〜）</td><td class="p-3">上信越高原国立公園の雲上秘湯</td><td class="p-3 font-bold text-amber-800">⭐ 4.21</td></tr>',
+    '</tbody></table></div>',
+    '<h2 class="text-xl font-bold text-stone-900 border-b-2 border-amber-700 pb-2 my-8">🏆 【徹底検証】秘境にごり湯＆源泉かけ流し名湯宿おすすめ10選の本音レビュー</h2>'
+]
+
+# 宿1: 槍見館
+review_parts.append(f'''<div class="my-12 p-6 md:p-8 rounded-3xl bg-white border-2 border-amber-200 shadow-xl hover:shadow-2xl transition duration-300">
+<div class="flex flex-wrap items-center justify-between border-b border-amber-100 pb-4 mb-4 gap-2"><div class="flex items-center gap-3"><span class="px-3.5 py-1.5 bg-gradient-to-r from-amber-700 to-yellow-600 text-white font-black text-xs rounded-xl shadow-sm">第1位</span><h3 class="text-lg md:text-xl font-extrabold text-stone-900">岐阜 新穂高温泉 槍見の湯 槍見館（やりみかん）</h3></div><div class="flex items-center gap-2"><span class="text-xs text-stone-500 font-bold">📍 岐阜県高山市奥飛騨温泉郷神坂587</span><span class="px-3 py-1 bg-amber-50 text-amber-800 border border-amber-300 font-black text-xs rounded-full shadow-sm">⭐ 4.74</span></div></div>
+<div class="mb-5 p-4 rounded-2xl bg-gradient-to-r from-amber-50 to-orange-50 border border-amber-200"><h4 class="font-black text-amber-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-amber-600">♨️</span> 秘湯＆美食体験：北アルプス槍ヶ岳を望む蒲田川渓流露天風呂＆古民家囲炉裏で味わうA5飛騨牛炭火焼き</h4><p class="text-xs text-stone-700 leading-relaxed">「北アルプスの大自然に抱かれた渓流沿いの一軒宿で、名峰・槍ヶ岳を望む大露天風呂や4つの無料貸切露天風呂に浸かり、古民家の囲炉裏端で香ばしい飛騨牛炭火焼きを味わいたい」という静寂の旅に第1位です。</p></div>
+<div class="mb-6 relative rounded-2xl overflow-hidden shadow-md group"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/109100/109100.jpg" alt="槍見の湯 槍見館" class="w-full h-72 md:h-96 object-cover group-hover:scale-105 transition duration-500" loading="lazy" /><div class="absolute bottom-3 right-3 bg-stone-900/80 backdrop-blur text-white text-[11px] font-bold px-3 py-1 rounded-lg">公式提供写真</div></div>
+<div class="mb-6 p-4 rounded-2xl bg-stone-900 text-amber-300 text-xs font-mono grid grid-cols-1 md:grid-cols-2 gap-2.5 shadow-inner"><div><span class="text-stone-400">■ 槍ヶ岳を望む「槍見の湯」:</span> 蒲田川の清流と山並みを見晴らす混浴露天</div><div><span class="text-stone-400">■ 4つの無料貸切露天風呂:</span> 渓流沿いに点在する野趣あふれる湯船</div><div><span class="text-stone-400">■ 古民家囲炉裏料理:</span> A5飛騨牛・岩魚塩焼き・朴葉味噌</div><div><span class="text-stone-400">■ 築200年の庄屋屋敷移築:</span> 太い梁と囲炉裏の風情</div><div class="md:col-span-2"><span class="text-stone-400">■ 特徴:</span> 新穂高ロープウェイ至近＋日本秘湯を守る会会員宿＋楽天4.74</div></div>
+<div class="space-y-4 text-xs text-stone-700 leading-relaxed">
+<div class="p-4 rounded-xl bg-emerald-50/70 border border-emerald-200"><h4 class="font-black text-emerald-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-emerald-600">✅</span> この宿を選ぶべき人</h4><p class="text-emerald-900">「北アルプスの圧倒的な大自然の中で、清流露天風呂と無料貸切露天、囲炉裏の飛騨牛炭火焼きに癒やされたい方」に完璧です。</p></div>
+<div class="p-4 rounded-xl bg-amber-50/60 border border-amber-200"><h4 class="font-black text-amber-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-amber-600">🛁</span> この宿でしか得られない特別な宿泊体験（本音レビュー）</h4><p class="text-stone-800 leading-relaxed">奥飛騨温泉郷の最奥・新穂高に佇む古民家秘湯宿。蒲田川沿いに広がる名物露天風呂「槍見の湯」からは、晴れた日には遠く槍ヶ岳の穂先を望めます。4つの貸切露天風呂は空いていれば何度でも無料で利用可能。夕食は囲炉裏を囲んで炭火でじっくり焼き上げるA5ランク飛騨牛や岩魚の塩焼きが絶品で、本物の秘湯情緒に浸れます。</p></div>
+<div class="grid grid-cols-1 md:grid-cols-2 gap-3"><div class="p-3.5 rounded-xl bg-stone-50 border border-stone-200"><h5 class="font-bold text-stone-900 text-xs mb-1">🛏️ おすすめ客室タイプ</h5><p class="text-stone-600">「清流側和室 / 蔵の客室」（蒲田川のせせらぎを望む客室）</p></div><div class="p-3.5 rounded-xl bg-stone-50 border border-stone-200"><h5 class="font-bold text-stone-900 text-xs mb-1">🍽️ おすすめ夕食プラン</h5><p class="text-stone-600">「囲炉裏炭火焼き！A5ランク飛騨牛＆奥飛騨味覚会席プラン」</p></div></div>
+<div class="p-4 rounded-xl bg-sky-50/70 border border-sky-200"><h4 class="font-black text-sky-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-sky-600">🗺️</span> 交通アクセス＆おすすめ1泊2日タイムスケジュール</h4><p class="text-stone-700 mb-2"><strong>【アクセス】</strong>JR「高山駅」より濃飛バス新穂高行き約85分「槍見温泉」下車徒歩約1分。長野道「松本IC」より車約80分。</p><p class="text-stone-700"><strong>【滞在プラン】</strong>【1日目】15:00チェックイン → 15:30槍見の湯＆貸切露天巡り → 18:30囲炉裏で飛騨牛炭火焼きディナー【2日目】07:00朝の渓流風呂 → 08:00囲炉裏朝食 → 09:30新穂高ロープウェイへ出発</p></div>
+<div class="p-3.5 rounded-xl bg-rose-50/70 border border-rose-200"><h4 class="font-black text-rose-950 text-xs mb-1 flex items-center gap-1.5"><span class="text-rose-600">⚠️</span> 逆に向いていない人</h4><p class="text-rose-900">近代的なシティホテル設備のみを求める方。</p></div>
+<div class="p-4 rounded-xl bg-gradient-to-r from-amber-700/10 via-orange-600/10 to-amber-700/10 border-2 border-amber-300"><h4 class="font-black text-amber-950 text-xs mb-1 flex items-center gap-1.5"><span class="text-amber-600">💡</span> 編集部の結論：「だから、この旅行ならここ」</h4><p class="text-amber-950 font-bold">槍ヶ岳渓流露天×4つの無料貸切風呂×古民家囲炉裏飛騨牛×楽天4.74。奥飛騨で最も秘湯風情に満ちた名旅館です。</p></div>
+</div>
+<div class="mt-6 pt-5 border-t border-amber-100 flex flex-col md:flex-row items-center justify-between gap-3"><div class="text-center md:text-left"><span class="text-[11px] text-stone-500 block">※槍見温泉バス停徒歩1分</span><span class="text-xs font-black text-amber-800">槍ヶ岳を望む清流露天風呂宿</span></div><a href="{make_aff_url(109100)}" target="_blank" rel="noopener noreferrer" class="w-full md:w-auto px-8 py-4 bg-gradient-to-r from-amber-700 via-yellow-600 to-amber-800 hover:from-amber-800 hover:to-yellow-700 text-white font-extrabold text-xs md:text-sm rounded-2xl shadow-lg hover:shadow-xl hover:scale-105 transition transform text-center inline-flex items-center justify-center gap-2"><span>✈️ 【公式】槍見の湯 槍見館の空室・最安プランを見る</span></a></div>
+</div>''')
+
+# 宿2: 慶雲館
+review_parts.append(f'''<div class="my-12 p-6 md:p-8 rounded-3xl bg-white border-2 border-amber-200 shadow-xl hover:shadow-2xl transition duration-300">
+<div class="flex flex-wrap items-center justify-between border-b border-amber-100 pb-4 mb-4 gap-2"><div class="flex items-center gap-3"><span class="px-3.5 py-1.5 bg-gradient-to-r from-amber-700 to-yellow-600 text-white font-black text-xs rounded-xl shadow-sm">第2位</span><h3 class="text-lg md:text-xl font-extrabold text-stone-900">山梨 西山温泉 西山温泉 慶雲館（けいうんかん）</h3></div><div class="flex items-center gap-2"><span class="text-xs text-stone-500 font-bold">📍 山梨県南巨摩郡早川町湯島白沢83</span><span class="px-3 py-1 bg-amber-50 text-amber-800 border border-amber-300 font-black text-xs rounded-full shadow-sm">⭐ 4.73</span></div></div>
+<div class="mb-5 p-4 rounded-2xl bg-gradient-to-r from-amber-50 to-orange-50 border border-amber-200"><h4 class="font-black text-amber-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-amber-600">♨️</span> 秘湯＆美食体験：ギネス世界最古の宿（西暦705年創業）＆毎分1,600L超の全館源泉かけ流し深山会席</h4><p class="text-xs text-stone-700 leading-relaxed">「南アルプスの深い山懐で、ギネス認定の世界最古の歴史を誇る名湯に浸かり、給湯・シャワー・全客室風呂まで源泉100%かけ流しの贅沢と名物深山会席を味わいたい」という温泉ファンに最適です。</p></div>
+<div class="mb-6 relative rounded-2xl overflow-hidden shadow-md group"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/67121/67121.jpg" alt="西山温泉 慶雲館" class="w-full h-72 md:h-96 object-cover group-hover:scale-105 transition duration-500" loading="lazy" /><div class="absolute bottom-3 right-3 bg-stone-900/80 backdrop-blur text-white text-[11px] font-bold px-3 py-1 rounded-lg">公式提供写真</div></div>
+<div class="mb-6 p-4 rounded-2xl bg-stone-900 text-amber-300 text-xs font-mono grid grid-cols-1 md:grid-cols-2 gap-2.5 shadow-inner"><div><span class="text-stone-400">■ 毎分1,630L自噴湧出:</span> 日本屈指の湯量を誇るナトリウム硫酸塩泉</div><div><span class="text-stone-400">■ 全館源泉100%かけ流し:</span> 客室風呂・シャワーまで本物の温泉</div><div><span class="text-stone-400">■ 名物 深山会席:</span> A5甲州牛・ヤマメ・早川の山菜</div><div><span class="text-stone-400">■ 6つの多彩な湯殿:</span> 展望野天風呂「望渓の湯」ほか</div><div class="md:col-span-2"><span class="text-stone-400">■ 特徴:</span> 身延駅無料送迎あり＋2026年3月リニューアル＋楽天4.73</div></div>
+<div class="space-y-4 text-xs text-stone-700 leading-relaxed">
+<div class="p-4 rounded-xl bg-emerald-50/70 border border-emerald-200"><h4 class="font-black text-emerald-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-emerald-600">✅</span> この宿を選ぶべき人</h4><p class="text-emerald-900">「世界最古の宿で、蛇口から出るお湯まで全て源泉という究極のかけ流し温泉と甲州牛会席を満喫したい方」に完璧です。</p></div>
+<div class="p-4 rounded-xl bg-amber-50/60 border border-amber-200"><h4 class="font-black text-amber-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-amber-600">🛁</span> この宿でしか得られない特別な宿泊体験（本音レビュー）</h4><p class="text-stone-800 leading-relaxed">南アルプス・早川渓谷の奥深くに建つ名旅館。西暦705年の開湯以来1300年以上湧き続ける自家源泉は毎分1,630リットルと日本トップクラス。館内のすべてのお風呂はもちろん、シャワーや客室のお湯まで100%源泉かけ流しという贅沢さ。夕食は山梨の味覚を凝縮した深山会席で、甲州牛や岩魚の塩焼きを堪能できます。</p></div>
+<div class="grid grid-cols-1 md:grid-cols-2 gap-3"><div class="p-3.5 rounded-xl bg-stone-50 border border-stone-200"><h5 class="font-bold text-stone-900 text-xs mb-1">🛏️ おすすめ客室タイプ</h5><p class="text-stone-600">「源泉掛け流し露天風呂付客室 / 渓谷側和室」</p></div><div class="p-3.5 rounded-xl bg-stone-50 border border-stone-200"><h5 class="font-bold text-stone-900 text-xs mb-1">🍽️ おすすめ夕食プラン</h5><p class="text-stone-600">「名物！甲州牛溶岩焼き＆旬彩深山会席プラン」</p></div></div>
+<div class="p-4 rounded-xl bg-sky-50/70 border border-sky-200"><h4 class="font-black text-sky-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-sky-600">🗺️</span> 交通アクセス＆おすすめ1泊2日タイムスケジュール</h4><p class="text-stone-700 mb-2"><strong>【アクセス】</strong>JR身延線「身延駅」より無料送迎バス約60分（要予約）。中部横断道「下部温泉早川IC」より車約40分。</p><p class="text-stone-700"><strong>【滞在プラン】</strong>【1日目】15:00チェックイン → 15:30展望野天風呂「望渓の湯」 → 18:30深山会席ディナー → 20:30貸切野天風呂【2日目】07:30朝風呂 → 08:30朝食 → 10:00身延山久遠寺へ出発</p></div>
+<div class="p-3.5 rounded-xl bg-rose-50/70 border border-rose-200"><h4 class="font-black text-rose-950 text-xs mb-1 flex items-center gap-1.5"><span class="text-rose-600">⚠️</span> 逆に向いていない人</h4><p class="text-rose-900">車やバスでの山道移動が極端に苦手な方。</p></div>
+<div class="p-4 rounded-xl bg-gradient-to-r from-amber-700/10 via-orange-600/10 to-amber-700/10 border-2 border-amber-300"><h4 class="font-black text-amber-950 text-xs mb-1 flex items-center gap-1.5"><span class="text-amber-600">💡</span> 編集部の結論：「だから、この旅行ならここ」</h4><p class="text-amber-950 font-bold">ギネス世界最古×全館源泉100%かけ流し×甲州牛深山会席×楽天4.73。日本が世界に誇る本物の温泉宿です。</p></div>
+</div>
+<div class="mt-6 pt-5 border-t border-amber-100 flex flex-col md:flex-row items-center justify-between gap-3"><div class="text-center md:text-left"><span class="text-[11px] text-stone-500 block">※身延駅より無料送迎あり</span><span class="text-xs font-black text-amber-800">ギネス世界最古の源泉宿</span></div><a href="{make_aff_url(67121)}" target="_blank" rel="noopener noreferrer" class="w-full md:w-auto px-8 py-4 bg-gradient-to-r from-amber-700 via-yellow-600 to-amber-800 hover:from-amber-800 hover:to-yellow-700 text-white font-extrabold text-xs md:text-sm rounded-2xl shadow-lg hover:shadow-xl hover:scale-105 transition transform text-center inline-flex items-center justify-center gap-2"><span>✈️ 【公式】西山温泉 慶雲館の空室・最安プランを見る</span></a></div>
+</div>''')
+
+# 宿3: 泡の湯
+review_parts.append(f'''<div class="my-12 p-6 md:p-8 rounded-3xl bg-white border-2 border-amber-200 shadow-xl hover:shadow-2xl transition duration-300">
+<div class="flex flex-wrap items-center justify-between border-b border-amber-100 pb-4 mb-4 gap-2"><div class="flex items-center gap-3"><span class="px-3.5 py-1.5 bg-gradient-to-r from-amber-700 to-yellow-600 text-white font-black text-xs rounded-xl shadow-sm">第3位</span><h3 class="text-lg md:text-xl font-extrabold text-stone-900">長野 白骨温泉 白骨の名湯 泡の湯</h3></div><div class="flex items-center gap-2"><span class="text-xs text-stone-500 font-bold">📍 長野県松本市安曇白骨温泉</span><span class="px-3 py-1 bg-amber-50 text-amber-800 border border-amber-300 font-black text-xs rounded-full shadow-sm">⭐ 4.67</span></div></div>
+<div class="mb-5 p-4 rounded-2xl bg-gradient-to-r from-amber-50 to-orange-50 border border-amber-200"><h4 class="font-black text-amber-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-amber-600">♨️</span> 秘湯＆美食体験：毎分1,000L自噴湧出！乳白色の大混浴大露天風呂＆信州牛・温泉粥の美食</h4><p class="text-xs text-stone-700 leading-relaxed">「乗鞍岳の山懐・白骨温泉のシンボルである巨大な乳白色大露天風呂に浸かり、炭酸ガスと硫黄の泡に包まれる感動体験と信州黒毛和牛会席を味わいたい」という連休旅行に最適です。</p></div>
+<div class="mb-6 relative rounded-2xl overflow-hidden shadow-md group"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/56929/56929.jpg" alt="白骨の名湯 泡の湯" class="w-full h-72 md:h-96 object-cover group-hover:scale-105 transition duration-500" loading="lazy" /><div class="absolute bottom-3 right-3 bg-stone-900/80 backdrop-blur text-white text-[11px] font-bold px-3 py-1 rounded-lg">公式提供写真</div></div>
+<div class="mb-6 p-4 rounded-2xl bg-stone-900 text-amber-300 text-xs font-mono grid grid-cols-1 md:grid-cols-2 gap-2.5 shadow-inner"><div><span class="text-stone-400">■ 名物 乳白色大露天風呂:</span> 季節や天候でエメラルドグリーンに変化</div><div><span class="text-stone-400">■ 毎分1,000L超の自噴源泉:</span> 細かな気泡が肌を包む炭酸硫黄泉</div><div><span class="text-stone-400">■ 信州黒毛和牛会席:</span> 信州サーモン・岩魚・季節の山菜</div><div><span class="text-stone-400">■ 名物 温泉粥の朝食:</span> 飲泉可能な白骨温泉で炊き上げた逸品</div><div class="md:col-span-2"><span class="text-stone-400">■ 特徴:</span> 松本駅より路線バス運行＋楽天日本の宿アワード＋楽天4.67</div></div>
+<div class="space-y-4 text-xs text-stone-700 leading-relaxed">
+<div class="p-4 rounded-xl bg-emerald-50/70 border border-emerald-200"><h4 class="font-black text-emerald-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-emerald-600">✅</span> この宿を選ぶべき人</h4><p class="text-emerald-900">「日本を代表する乳白色の巨大露天風呂に入り、炭酸泡の極上泉質と信州の山の幸に癒やされたい方」に完璧です。</p></div>
+<div class="p-4 rounded-xl bg-amber-50/60 border border-amber-200"><h4 class="font-black text-amber-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-amber-600">🛁</span> この宿でしか得られない特別な宿泊体験（本音レビュー）</h4><p class="text-stone-800 leading-relaxed">白骨温泉を代表する名門秘湯旅館。広大な乳白色の大混浴露天風呂（女性専用の脱衣所・バスタオル巻きOK）は、秋の澄んだ空と木々の緑に映えて息を呑む美しさ。38度前後の源泉はいつまでも入っていられる心地よさで、細かな炭酸の泡が全身を包みます。夕食は信州黒毛和牛や川魚、朝食の名物「温泉粥」まで絶品です。</p></div>
+<div class="grid grid-cols-1 md:grid-cols-2 gap-3"><div class="p-3.5 rounded-xl bg-stone-50 border border-stone-200"><h5 class="font-bold text-stone-900 text-xs mb-1">🛏️ おすすめ客室タイプ</h5><p class="text-stone-600">「本館 スタンダード和室 / 新館 特別室」</p></div><div class="p-3.5 rounded-xl bg-stone-50 border border-stone-200"><h5 class="font-bold text-stone-900 text-xs mb-1">🍽️ おすすめ夕食プラン</h5><p class="text-stone-600">「信州プレミアム牛ステーキ＆名物温泉粥付き季節会席プラン」</p></div></div>
+<div class="p-4 rounded-xl bg-sky-50/70 border border-sky-200"><h4 class="font-black text-sky-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-sky-600">🗺️</span> 交通アクセス＆おすすめ1泊2日タイムスケジュール</h4><p class="text-stone-700 mb-2"><strong>【アクセス】</strong>松本電鉄「新島々駅」より路線バス白骨温泉行き約65分。長野道「松本IC」より車約60分。</p><p class="text-stone-700"><strong>【滞在プラン】</strong>【1日目】15:00チェックイン → 15:30名物乳白色大露天風呂 → 18:30信州牛会席ディナー【2日目】07:00朝の露天風呂 → 08:00名物温泉粥朝食 → 09:30上高地・乗鞍高原へ出発</p></div>
+<div class="p-3.5 rounded-xl bg-rose-50/70 border border-rose-200"><h4 class="font-black text-rose-950 text-xs mb-1 flex items-center gap-1.5"><span class="text-rose-600">⚠️</span> 逆に向いていない人</h4><p class="text-rose-900">混浴風呂を一切利用したくない方（男女別内湯・女性専用露天もあり）。</p></div>
+<div class="p-4 rounded-xl bg-gradient-to-r from-amber-700/10 via-orange-600/10 to-amber-700/10 border-2 border-amber-300"><h4 class="font-black text-amber-950 text-xs mb-1 flex items-center gap-1.5"><span class="text-amber-600">💡</span> 編集部の結論：「だから、この旅行ならここ」</h4><p class="text-amber-950 font-bold">乳白色大混浴露天×自噴炭酸硫黄泉×信州牛会席×楽天4.67。長野で最も憧れを集めるにごり湯の名湯です。</p></div>
+</div>
+<div class="mt-6 pt-5 border-t border-amber-100 flex flex-col md:flex-row items-center justify-between gap-3"><div class="text-center md:text-left"><span class="text-[11px] text-stone-500 block">※松本ICより車約60分</span><span class="text-xs font-black text-amber-800">乳白色大露天風呂の宿</span></div><a href="{make_aff_url(56929)}" target="_blank" rel="noopener noreferrer" class="w-full md:w-auto px-8 py-4 bg-gradient-to-r from-amber-700 via-yellow-600 to-amber-800 hover:from-amber-800 hover:to-yellow-700 text-white font-extrabold text-xs md:text-sm rounded-2xl shadow-lg hover:shadow-xl hover:scale-105 transition transform text-center inline-flex items-center justify-center gap-2"><span>✈️ 【公式】白骨の名湯 泡の湯の空室・最安プランを見る</span></a></div>
+</div>''')
+
+# 宿4: 岡本屋旅館
+review_parts.append(f'''<div class="my-12 p-6 md:p-8 rounded-3xl bg-white border-2 border-amber-200 shadow-xl hover:shadow-2xl transition duration-300">
+<div class="flex flex-wrap items-center justify-between border-b border-amber-100 pb-4 mb-4 gap-2"><div class="flex items-center gap-3"><span class="px-3.5 py-1.5 bg-gradient-to-r from-amber-700 to-yellow-600 text-white font-black text-xs rounded-xl shadow-sm">第4位</span><h3 class="text-lg md:text-xl font-extrabold text-stone-900">大分 別府明礬温泉 別府明礬温泉 岡本屋旅館</h3></div><div class="flex items-center gap-2"><span class="text-xs text-stone-500 font-bold">📍 大分県別府市明礬4組</span><span class="px-3 py-1 bg-amber-50 text-amber-800 border border-amber-300 font-black text-xs rounded-full shadow-sm">⭐ 4.62</span></div></div>
+<div class="mb-5 p-4 rounded-2xl bg-gradient-to-r from-amber-50 to-orange-50 border border-amber-200"><h4 class="font-black text-amber-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-amber-600">♨️</span> 秘湯＆美食体験：創業明治8年！青白いミルキー硫黄泉＆元祖地獄蒸しプリン・豊後牛会席</h4><p class="text-xs text-stone-700 leading-relaxed">「別府温泉の高台・明礬温泉で、湯けむりと明礬橋を望む青白い神秘のにごり湯に浸かり、大分のブランド豊後牛と元祖地獄蒸しプリンを味わいたい」という九州温泉旅に大人気です。</p></div>
+<div class="mb-6 relative rounded-2xl overflow-hidden shadow-md group"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/78167/78167.jpg" alt="別府明礬温泉 岡本屋旅館" class="w-full h-72 md:h-96 object-cover group-hover:scale-105 transition duration-500" loading="lazy" /><div class="absolute bottom-3 right-3 bg-stone-900/80 backdrop-blur text-white text-[11px] font-bold px-3 py-1 rounded-lg">公式提供写真</div></div>
+<div class="mb-6 p-4 rounded-2xl bg-stone-900 text-amber-300 text-xs font-mono grid grid-cols-1 md:grid-cols-2 gap-2.5 shadow-inner"><div><span class="text-stone-400">■ 青白いミルキー硫黄泉:</span> 硫黄の香り漂う濃厚な美肌名湯</div><div><span class="text-stone-400">■ 明礬橋を望む庭園露天風呂:</span> 高台から見下ろす別府の湯けむり</div><div><span class="text-stone-400">■ 豊後牛ステーキ会席:</span> 関アジ・地獄蒸し料理・郷土の味</div><div><span class="text-stone-400">■ 元祖地獄蒸しプリン:</span> 宿泊者限定のデザートサービス</div><div class="md:col-span-2"><span class="text-stone-400">■ 特徴:</span> 別府駅よりバス約30分＋創業明治8年の老舗＋楽天4.62</div></div>
+<div class="space-y-4 text-xs text-stone-700 leading-relaxed">
+<div class="p-4 rounded-xl bg-emerald-50/70 border border-emerald-200"><h4 class="font-black text-emerald-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-emerald-600">✅</span> この宿を選ぶべき人</h4><p class="text-emerald-900">「別府で最も泉質が良いと言われる明礬のにごり湯と、地獄蒸しプリン・豊後牛を落ち着いた老舗で味わいたい方」に完璧です。</p></div>
+<div class="p-4 rounded-xl bg-amber-50/60 border border-amber-200"><h4 class="font-black text-amber-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-amber-600">🛁</span> この宿でしか得られない特別な宿泊体験（本音レビュー）</h4><p class="text-stone-800 leading-relaxed">別府の奥座敷・明礬温泉に佇む歴史ある名旅館。庭園露天風呂に注ぐ温泉は、天候や光の加減で神秘的なコバルトブルーや乳白色に変化する極上の酸性硫黄泉。湯上がりはお肌が驚くほどつるつるになります。夕食は豊後牛や関アジ、地獄蒸し料理が美しく並び、全国的に有名な元祖地獄蒸しプリンも味わえます。</p></div>
+<div class="grid grid-cols-1 md:grid-cols-2 gap-3"><div class="p-3.5 rounded-xl bg-stone-50 border border-stone-200"><h5 class="font-bold text-stone-900 text-xs mb-1">🛏️ おすすめ客室タイプ</h5><p class="text-stone-600">「明礬橋ビュー和室 / 展望風呂付客室」</p></div><div class="p-3.5 rounded-xl bg-stone-50 border border-stone-200"><h5 class="font-bold text-stone-900 text-xs mb-1">🍽️ おすすめ夕食プラン</h5><p class="text-stone-600">「特選豊後牛ステーキ＆地獄蒸し料理・地獄蒸しプリン会席プラン」</p></div></div>
+<div class="p-4 rounded-xl bg-sky-50/70 border border-sky-200"><h4 class="font-black text-sky-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-sky-600">🗺️</span> 交通アクセス＆おすすめ1泊2日タイムスケジュール</h4><p class="text-stone-700 mb-2"><strong>【アクセス】</strong>JR「別府駅」西口より亀の井バス約30分「地蔵湯前」下車徒歩約1分。大分道「別府IC」より車約6分。</p><p class="text-stone-700"><strong>【滞在プラン】</strong>【1日目】15:00チェックイン → 15:30青白いミルキー硫黄泉露天風呂 → 18:30豊後牛会席ディナー【2日目】07:30朝風呂 → 08:30朝食 → 09:30明礬湯の里・別府地獄めぐりへ出発</p></div>
+<div class="p-3.5 rounded-xl bg-rose-50/70 border border-rose-200"><h4 class="font-black text-rose-950 text-xs mb-1 flex items-center gap-1.5"><span class="text-rose-600">⚠️</span> 逆に向いていない人</h4><p class="text-rose-900">繁華街近くの大型ホテルを好む方。</p></div>
+<div class="p-4 rounded-xl bg-gradient-to-r from-amber-700/10 via-orange-600/10 to-amber-700/10 border-2 border-amber-300"><h4 class="font-black text-amber-950 text-xs mb-1 flex items-center gap-1.5"><span class="text-amber-600">💡</span> 編集部の結論：「だから、この旅行ならここ」</h4><p class="text-amber-950 font-bold">青白いミルキー硫黄泉×地獄蒸しプリン×豊後牛×楽天4.62。別府で最も泉質に感動できる名門宿です。</p></div>
+</div>
+<div class="mt-6 pt-5 border-t border-amber-100 flex flex-col md:flex-row items-center justify-between gap-3"><div class="text-center md:text-left"><span class="text-[11px] text-stone-500 block">※別府ICより車約6分</span><span class="text-xs font-black text-amber-800">青白いミルキー硫黄泉の宿</span></div><a href="{make_aff_url(78167)}" target="_blank" rel="noopener noreferrer" class="w-full md:w-auto px-8 py-4 bg-gradient-to-r from-amber-700 via-yellow-600 to-amber-800 hover:from-amber-800 hover:to-yellow-700 text-white font-extrabold text-xs md:text-sm rounded-2xl shadow-lg hover:shadow-xl hover:scale-105 transition transform text-center inline-flex items-center justify-center gap-2"><span>✈️ 【公式】別府明礬温泉 岡本屋旅館の空室・最安プランを見る</span></a></div>
+</div>''')
+
+# 宿5: 花かんざし
+review_parts.append(f'''<div class="my-12 p-6 md:p-8 rounded-3xl bg-white border-2 border-amber-200 shadow-xl hover:shadow-2xl transition duration-300">
+<div class="flex flex-wrap items-center justify-between border-b border-amber-100 pb-4 mb-4 gap-2"><div class="flex items-center gap-3"><span class="px-3.5 py-1.5 bg-gradient-to-r from-amber-700 to-yellow-600 text-white font-black text-xs rounded-xl shadow-sm">第5位</span><h3 class="text-lg md:text-xl font-extrabold text-stone-900">福島 岳温泉 岳温泉 お宿 花かんざし</h3></div><div class="flex items-center gap-2"><span class="text-xs text-stone-500 font-bold">📍 福島県二本松市岳温泉1-104</span><span class="px-3 py-1 bg-amber-50 text-amber-800 border border-amber-300 font-black text-xs rounded-full shadow-sm">⭐ 4.58</span></div></div>
+<div class="mb-5 p-4 rounded-2xl bg-gradient-to-r from-amber-50 to-orange-50 border border-amber-200"><h4 class="font-black text-amber-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-amber-600">♨️</span> 秘湯＆美食体験：安達太良山引き湯・酸性泉ミルキーにごり湯＆全8室の大人の隠れ家・福島牛会席</h4><p class="text-xs text-stone-700 leading-relaxed">「安達太良山から約8kmの木管を伝って届く柔らかな酸性泉ミルキー温泉に浸かり、全8室のレトロモダンな大人の空間で福島牛と地酒を味わいたい」という東北の静寂旅に最適です。</p></div>
+<div class="mb-6 relative rounded-2xl overflow-hidden shadow-md group"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/49349/49349.jpg" alt="岳温泉 お宿 花かんざし" class="w-full h-72 md:h-96 object-cover group-hover:scale-105 transition duration-500" loading="lazy" /><div class="absolute bottom-3 right-3 bg-stone-900/80 backdrop-blur text-white text-[11px] font-bold px-3 py-1 rounded-lg">公式提供写真</div></div>
+<div class="mb-6 p-4 rounded-2xl bg-stone-900 text-amber-300 text-xs font-mono grid grid-cols-1 md:grid-cols-2 gap-2.5 shadow-inner"><div><span class="text-stone-400">■ 全国でも希少な酸性泉:</span> 安達太良山引き湯のミルキー温泉</div><div><span class="text-stone-400">■ 全8室の小さな隠れ宿:</span> 大正ロマン漂う上質な和モダン空間</div><div><span class="text-stone-400">■ 個室食事処 福島牛会席:</span> 厳選福島牛と旬の山の幸</div><div><span class="text-stone-400">■ 無料の地酒試飲ラウンジ:</span> 福島の銘酒を味わう時間</div><div class="md:col-span-2"><span class="text-stone-400">■ 特徴:</span> 二本松駅より路線バス約25分＋大人の宿＋楽天4.58</div></div>
+<div class="space-y-4 text-xs text-stone-700 leading-relaxed">
+<div class="p-4 rounded-xl bg-emerald-50/70 border border-emerald-200"><h4 class="font-black text-emerald-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-emerald-600">✅</span> この宿を選ぶべき人</h4><p class="text-emerald-900">「肌に優しい酸性泉ミルキー温泉と、全8室の静寂な空間で福島牛会席と地酒を楽しみたい大人ペア」に完璧です。</p></div>
+<div class="p-4 rounded-xl bg-amber-50/60 border border-amber-200"><h4 class="font-black text-amber-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-amber-600">🛁</span> この宿でしか得られない特別な宿泊体験（本音レビュー）</h4><p class="text-stone-800 leading-relaxed">岳温泉のヒマラヤ通りに佇む全8室の隠れ家。安達太良山から引湯される温泉は、管を通る間に角が取れてまろやかになった全国的にも希少な酸性泉。湯の花が舞うミルキーなお湯は美肌効果抜群です。夕食は個室食事処で福島牛ステーキやすき焼き、地元のきのこや野菜を使った創作会席が供され、静かに過ごせます。</p></div>
+<div class="grid grid-cols-1 md:grid-cols-2 gap-3"><div class="p-3.5 rounded-xl bg-stone-50 border border-stone-200"><h5 class="font-bold text-stone-900 text-xs mb-1">🛏️ おすすめ客室タイプ</h5><p class="text-stone-600">「温泉半露天風呂付客室 / 和モダンツイン」</p></div><div class="p-3.5 rounded-xl bg-stone-50 border border-stone-200"><h5 class="font-bold text-stone-900 text-xs mb-1">🍽️ おすすめ夕食プラン</h5><p class="text-stone-600">「個室で味わう！特選福島牛ステーキ＆季節の創作会席プラン」</p></div></div>
+<div class="p-4 rounded-xl bg-sky-50/70 border border-sky-200"><h4 class="font-black text-sky-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-sky-600">🗺️</span> 交通アクセス＆おすすめ1泊2日タイムスケジュール</h4><p class="text-stone-700 mb-2"><strong>【アクセス】</strong>JR東北本線「二本松駅」より福島交通バス約25分「岳温泉」下車徒歩約1分。東北道「二本松IC」より車約15分。</p><p class="text-stone-700"><strong>【滞在プラン】</strong>【1日目】15:00チェックイン → 15:30酸性泉ミルキー温泉 → 18:30個室で福島牛ディナー → 20:30地酒ラウンジ【2日目】07:30朝風呂 → 08:30朝食 → 10:00安達太良山ロープウェイへ出発</p></div>
+<div class="p-3.5 rounded-xl bg-rose-50/70 border border-rose-200"><h4 class="font-black text-rose-950 text-xs mb-1 flex items-center gap-1.5"><span class="text-rose-600">⚠️</span> 逆に向いていない人</h4><p class="text-rose-900">大規模なバイキング施設を好む方。</p></div>
+<div class="p-4 rounded-xl bg-gradient-to-r from-amber-700/10 via-orange-600/10 to-amber-700/10 border-2 border-amber-300"><h4 class="font-black text-amber-950 text-xs mb-1 flex items-center gap-1.5"><span class="text-amber-600">💡</span> 編集部の結論：「だから、この旅行ならここ」</h4><p class="text-amber-950 font-bold">酸性泉ミルキー温泉×全8室の大人の宿×福島牛個室会席×楽天4.58。岳温泉で最も上質で静かな隠れ宿です。</p></div>
+</div>
+<div class="mt-6 pt-5 border-t border-amber-100 flex flex-col md:flex-row items-center justify-between gap-3"><div class="text-center md:text-left"><span class="text-[11px] text-stone-500 block">※岳温泉バス停徒歩1分</span><span class="text-xs font-black text-amber-800">酸性泉ミルキー温泉の隠れ宿</span></div><a href="{make_aff_url(49349)}" target="_blank" rel="noopener noreferrer" class="w-full md:w-auto px-8 py-4 bg-gradient-to-r from-amber-700 via-yellow-600 to-amber-800 hover:from-amber-800 hover:to-yellow-700 text-white font-extrabold text-xs md:text-sm rounded-2xl shadow-lg hover:shadow-xl hover:scale-105 transition transform text-center inline-flex items-center justify-center gap-2"><span>✈️ 【公式】岳温泉 お宿 花かんざしの空室・最安プランを見る</span></a></div>
+</div>''')
+
+# 宿6: 高見屋
+review_parts.append(f'''<div class="my-12 p-6 md:p-8 rounded-3xl bg-white border-2 border-amber-200 shadow-xl hover:shadow-2xl transition duration-300">
+<div class="flex flex-wrap items-center justify-between border-b border-amber-100 pb-4 mb-4 gap-2"><div class="flex items-center gap-3"><span class="px-3.5 py-1.5 bg-gradient-to-r from-amber-700 to-yellow-600 text-white font-black text-xs rounded-xl shadow-sm">第6位</span><h3 class="text-lg md:text-xl font-extrabold text-stone-900">山形 蔵王温泉 深山荘 高見屋（みやまそうたかみや）</h3></div><div class="flex items-center gap-2"><span class="text-xs text-stone-500 font-bold">📍 山形県山形市蔵王温泉54</span><span class="px-3 py-1 bg-amber-50 text-amber-800 border border-amber-300 font-black text-xs rounded-full shadow-sm">⭐ 4.57</span></div></div>
+<div class="mb-5 p-4 rounded-2xl bg-gradient-to-r from-amber-50 to-orange-50 border border-amber-200"><h4 class="font-black text-amber-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-amber-600">♨️</span> 秘湯＆美食体験：創業300年！強酸性白濁硫黄泉のかけ流し木造風呂＆山形牛ステーキ会席</h4><p class="text-xs text-stone-700 leading-relaxed">「蔵王温泉の最奥・高台に佇む創業享保元年の老舗で、強酸性の乳白色硫黄泉が注ぐ風情ある木造風呂に浸かり、A5山形牛ステーキと山里会席を味わいたい」という東北の歴史旅に最適です。</p></div>
+<div class="mb-6 relative rounded-2xl overflow-hidden shadow-md group"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/38534/38534.jpg" alt="深山荘 高見屋" class="w-full h-72 md:h-96 object-cover group-hover:scale-105 transition duration-500" loading="lazy" /><div class="absolute bottom-3 right-3 bg-stone-900/80 backdrop-blur text-white text-[11px] font-bold px-3 py-1 rounded-lg">公式提供写真</div></div>
+<div class="mb-6 p-4 rounded-2xl bg-stone-900 text-amber-300 text-xs font-mono grid grid-cols-1 md:grid-cols-2 gap-2.5 shadow-inner"><div><span class="text-stone-400">■ 創業300年の純和風木造建築:</span> 伝統と格式を受け継ぐ老舗宿</div><div><span class="text-stone-400">■ 強酸性白濁硫黄泉:</span> 自家源泉から湧くピュアな美肌の湯</div><div><span class="text-stone-400">■ A5山形牛ステーキ懐石:</span> 山形の旬野菜と山里の恵み</div><div><span class="text-stone-400">■ 離れ露天風呂付客室:</span> プライベートな白濁湯を満喫</div><div class="md:col-span-2"><span class="text-stone-400">■ 特徴:</span> 蔵王バスターミナル無料送迎あり＋楽天日本の宿アワード＋楽天4.57</div></div>
+<div class="space-y-4 text-xs text-stone-700 leading-relaxed">
+<div class="p-4 rounded-xl bg-emerald-50/70 border border-emerald-200"><h4 class="font-black text-emerald-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-emerald-600">✅</span> この宿を選ぶべき人</h4><p class="text-emerald-900">「蔵王温泉で最も歴史ある老舗で、本物の強酸性白濁硫黄泉と山形牛懐石をじっくり味わいたい方」に完璧です。</p></div>
+<div class="p-4 rounded-xl bg-amber-50/60 border border-amber-200"><h4 class="font-black text-amber-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-amber-600">🛁</span> この宿でしか得られない特別な宿泊体験（本音レビュー）</h4><p class="text-stone-800 leading-relaxed">蔵王温泉街の最も高い場所に佇む名門老舗旅館。木造の風格ある湯屋「長寿の湯」には、強酸性の白濁硫黄泉が滾々と掛け流され、硫黄の香りと木の温もりに包まれます。夕食は個室食事処でいただくA5山形牛ステーキやすき焼きが絶品で、歴史ある空間で至福のひとときを過ごせます。</p></div>
+<div class="grid grid-cols-1 md:grid-cols-2 gap-3"><div class="p-3.5 rounded-xl bg-stone-50 border border-stone-200"><h5 class="font-bold text-stone-900 text-xs mb-1">🛏️ おすすめ客室タイプ</h5><p class="text-stone-600">「離れ 露天風呂付客室 雛蔵 / 観山荘和室」</p></div><div class="p-3.5 rounded-xl bg-stone-50 border border-stone-200"><h5 class="font-bold text-stone-900 text-xs mb-1">🍽️ おすすめ夕食プラン</h5><p class="text-stone-600">「A5山形牛ステーキ＆山里郷土懐石ディナープラン」</p></div></div>
+<div class="p-4 rounded-xl bg-sky-50/70 border border-sky-200"><h4 class="font-black text-sky-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-sky-600">🗺️</span> 交通アクセス＆おすすめ1泊2日タイムスケジュール</h4><p class="text-stone-700 mb-2"><strong>【アクセス】</strong>JR「山形駅」より山交バス蔵王温泉行き約45分終点下車（無料送迎あり）。山形道「山形蔵王IC」より車約30分。</p><p class="text-stone-700"><strong>【滞在プラン】</strong>【1日目】15:00チェックイン → 15:30強酸性白濁硫黄泉木造風呂 → 18:30個室で山形牛会席ディナー【2日目】07:30朝風呂 → 08:30朝食 → 09:30蔵王中央ロープウェイ・蔵王御釜へ出発</p></div>
+<div class="p-3.5 rounded-xl bg-rose-50/70 border border-rose-200"><h4 class="font-black text-rose-950 text-xs mb-1 flex items-center gap-1.5"><span class="text-rose-600">⚠️</span> 逆に向いていない人</h4><p class="text-rose-900">硫黄の香りや酸性泉が肌に合わない方。</p></div>
+<div class="p-4 rounded-xl bg-gradient-to-r from-amber-700/10 via-orange-600/10 to-amber-700/10 border-2 border-amber-300"><h4 class="font-black text-amber-950 text-xs mb-1 flex items-center gap-1.5"><span class="text-amber-600">💡</span> 編集部の結論：「だから、この旅行ならここ」</h4><p class="text-amber-950 font-bold">創業300年老舗建築×強酸性白濁硫黄泉×山形牛ステーキ×楽天4.57。蔵王温泉で最高峰の品格を誇る名湯宿です。</p></div>
+</div>
+<div class="mt-6 pt-5 border-t border-amber-100 flex flex-col md:flex-row items-center justify-between gap-3"><div class="text-center md:text-left"><span class="text-[11px] text-stone-500 block">※蔵王バスターミナルより無料送迎あり</span><span class="text-xs font-black text-amber-800">創業300年の白濁硫黄泉宿</span></div><a href="{make_aff_url(38534)}" target="_blank" rel="noopener noreferrer" class="w-full md:w-auto px-8 py-4 bg-gradient-to-r from-amber-700 via-yellow-600 to-amber-800 hover:from-amber-800 hover:to-yellow-700 text-white font-extrabold text-xs md:text-sm rounded-2xl shadow-lg hover:shadow-xl hover:scale-105 transition transform text-center inline-flex items-center justify-center gap-2"><span>✈️ 【公式】深山荘 高見屋の空室・最安プランを見る</span></a></div>
+</div>''')
+
+# 宿7: 花心
+review_parts.append(f'''<div class="my-12 p-6 md:p-8 rounded-3xl bg-white border-2 border-amber-200 shadow-xl hover:shadow-2xl transition duration-300">
+<div class="flex flex-wrap items-center justify-between border-b border-amber-100 pb-4 mb-4 gap-2"><div class="flex items-center gap-3"><span class="px-3.5 py-1.5 bg-gradient-to-r from-amber-700 to-yellow-600 text-white font-black text-xs rounded-xl shadow-sm">第7位</span><h3 class="text-lg md:text-xl font-extrabold text-stone-900">熊本 小田温泉 小田温泉 旅館 花心（はなごころ）</h3></div><div class="flex items-center gap-2"><span class="text-xs text-stone-500 font-bold">📍 熊本県阿蘇郡南小国町満願寺東長田5349</span><span class="px-3 py-1 bg-amber-50 text-amber-800 border border-amber-300 font-black text-xs rounded-full shadow-sm">⭐ 4.53</span></div></div>
+<div class="mb-5 p-4 rounded-2xl bg-gradient-to-r from-amber-50 to-orange-50 border border-amber-200"><h4 class="font-black text-amber-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-amber-600">♨️</span> 秘湯＆美食体験：黒川温泉近くの隠れ里！全室離れ専用露天風呂付き＆個室で味わう肥後牛会席（1万円台〜）</h4><p class="text-xs text-stone-700 leading-relaxed">「黒川温泉から車で約5分の静寂な小田温泉で、全室離れの専用露天風呂に浸かり、個室食事処で肥後牛炭火焼き会席を1泊1万円台〜の抜群コスパで楽しみたい」というカップル・ご夫婦に大人気です。</p></div>
+<div class="mb-6 relative rounded-2xl overflow-hidden shadow-md group"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/28641/28641.jpg" alt="小田温泉 旅館 花心" class="w-full h-72 md:h-96 object-cover group-hover:scale-105 transition duration-500" loading="lazy" /><div class="absolute bottom-3 right-3 bg-stone-900/80 backdrop-blur text-white text-[11px] font-bold px-3 py-1 rounded-lg">公式提供写真</div></div>
+<div class="mb-6 p-4 rounded-2xl bg-stone-900 text-amber-300 text-xs font-mono grid grid-cols-1 md:grid-cols-2 gap-2.5 shadow-inner"><div><span class="text-stone-400">■ 全室戸建て離れ客室:</span> プライベートな専用露天風呂付き</div><div><span class="text-stone-400">■ 源泉かけ流し温泉:</span> 湯の花舞う弱アルカリ性の美肌名湯</div><div><span class="text-stone-400">■ 個室 肥後牛炭火焼き会席:</span> 熊本名物馬刺しと阿蘇の野菜</div><div><span class="text-stone-400">■ 黒川温泉街車約5分:</span> 観光と静寂を両立する穴場立地</div><div class="md:col-span-2"><span class="text-stone-400">■ 特徴:</span> 1泊1万円台〜の抜群コスパ＋全室離れ＋楽天4.53</div></div>
+<div class="space-y-4 text-xs text-stone-700 leading-relaxed">
+<div class="p-4 rounded-xl bg-emerald-50/70 border border-emerald-200"><h4 class="font-black text-emerald-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-emerald-600">✅</span> この宿を選ぶべき人</h4><p class="text-emerald-900">「黒川温泉エリアで混雑を避け、全室離れの専用露天風呂と肥後牛会席をお得な価格で満喫したい方」に完璧です。</p></div>
+<div class="p-4 rounded-xl bg-amber-50/60 border border-amber-200"><h4 class="font-black text-amber-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-amber-600">🛁</span> この宿でしか得られない特別な宿泊体験（本音レビュー）</h4><p class="text-stone-800 leading-relaxed">黒川温泉の隣、小田温泉ののどかな田園に佇む全室離れ宿。すべての客室に岩造りや檜の専用露天風呂が備えられ、秋の阿蘇の澄んだ星空を仰ぎながら24時間好きな時に温泉を楽しめます。夕食は個室食事処で肥後牛ステーキや熊本直送の馬刺しが供され、プライベート感とコスパの高さが際立ちます。</p></div>
+<div class="grid grid-cols-1 md:grid-cols-2 gap-3"><div class="p-3.5 rounded-xl bg-stone-50 border border-stone-200"><h5 class="font-bold text-stone-900 text-xs mb-1">🛏️ おすすめ客室タイプ</h5><p class="text-stone-600">「離れ 露天風呂付和洋室 / 特別離れ」</p></div><div class="p-3.5 rounded-xl bg-stone-50 border border-stone-200"><h5 class="font-bold text-stone-900 text-xs mb-1">🍽️ おすすめ夕食プラン</h5><p class="text-stone-600">「個室で味わう！肥後牛ステーキ＆熊本馬刺し旬会席プラン」</p></div></div>
+<div class="p-4 rounded-xl bg-sky-50/70 border border-sky-200"><h4 class="font-black text-sky-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-sky-600">🗺️</span> 交通アクセス＆おすすめ1泊2日タイムスケジュール</h4><p class="text-stone-700 mb-2"><strong>【アクセス】</strong>九州産交バス「黒川温泉」バス停より車約5分（送迎あり）。大分道「日田IC」より車約50分。</p><p class="text-stone-700"><strong>【滞在プラン】</strong>【1日目】15:00チェックイン → 15:30離れ専用露天風呂 → 18:30個室で肥後牛ディナー → 21:00星空露天【2日目】07:30朝風呂 → 08:30和朝食 → 10:00大観峰・阿蘇パノラマラインへ出発</p></div>
+<div class="p-3.5 rounded-xl bg-rose-50/70 border border-rose-200"><h4 class="font-black text-rose-950 text-xs mb-1 flex items-center gap-1.5"><span class="text-rose-600">⚠️</span> 逆に向いていない人</h4><p class="text-rose-900">大浴場のサウナや広大なプールを求める方。</p></div>
+<div class="p-4 rounded-xl bg-gradient-to-r from-amber-700/10 via-orange-600/10 to-amber-700/10 border-2 border-amber-300"><h4 class="font-black text-amber-950 text-xs mb-1 flex items-center gap-1.5"><span class="text-amber-600">💡</span> 編集部の結論：「だから、この旅行ならここ」</h4><p class="text-amber-950 font-bold">全室離れ露天風呂付×個室肥後牛会席×1泊1万円台〜のコスパ×楽天4.53。小田温泉で最もプライベート感あふれる宿です。</p></div>
+</div>
+<div class="mt-6 pt-5 border-t border-amber-100 flex flex-col md:flex-row items-center justify-between gap-3"><div class="text-center md:text-left"><span class="text-[11px] text-stone-500 block">※黒川温泉より車約5分</span><span class="text-xs font-black text-amber-800">全室離れ露天風呂の穴場宿</span></div><a href="{make_aff_url(28641)}" target="_blank" rel="noopener noreferrer" class="w-full md:w-auto px-8 py-4 bg-gradient-to-r from-amber-700 via-yellow-600 to-amber-800 hover:from-amber-800 hover:to-yellow-700 text-white font-extrabold text-xs md:text-sm rounded-2xl shadow-lg hover:shadow-xl hover:scale-105 transition transform text-center inline-flex items-center justify-center gap-2"><span>✈️ 【公式】小田温泉 旅館 花心の空室・最安プランを見る</span></a></div>
+</div>''')
+
+# 宿8: 酸ヶ湯温泉旅館
+review_parts.append(f'''<div class="my-12 p-6 md:p-8 rounded-3xl bg-white border-2 border-amber-200 shadow-xl hover:shadow-2xl transition duration-300">
+<div class="flex flex-wrap items-center justify-between border-b border-amber-100 pb-4 mb-4 gap-2"><div class="flex items-center gap-3"><span class="px-3.5 py-1.5 bg-gradient-to-r from-amber-700 to-yellow-600 text-white font-black text-xs rounded-xl shadow-sm">第8位</span><h3 class="text-lg md:text-xl font-extrabold text-stone-900">青森 八甲田 酸ヶ湯温泉旅館（すかゆおんせん）</h3></div><div class="flex items-center gap-2"><span class="text-xs text-stone-500 font-bold">📍 青森県青森市荒川字南荒川山国有林小字酸湯沢50</span><span class="px-3 py-1 bg-amber-50 text-amber-800 border border-amber-300 font-black text-xs rounded-full shadow-sm">⭐ 4.41</span></div></div>
+<div class="mb-5 p-4 rounded-2xl bg-gradient-to-r from-amber-50 to-orange-50 border border-amber-200"><h4 class="font-black text-amber-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-amber-600">♨️</span> 秘湯＆美食体験：国民保養温泉地第1号！総ヒバ造り160畳の「ヒバ千人風呂」白濁酸性硫黄泉</h4><p class="text-xs text-stone-700 leading-relaxed">「八甲田山麓のブナ原生林に囲まれた名湯で、柱が一本もない総ヒバ造り160畳の巨大大浴場『ヒバ千人風呂』に浸かり、青森の郷土料理と山菜を味わいたい」という全国の秘湯ファンに最適です。</p></div>
+<div class="mb-6 relative rounded-2xl overflow-hidden shadow-md group"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/41009/41009.jpg" alt="酸ヶ湯温泉旅館" class="w-full h-72 md:h-96 object-cover group-hover:scale-105 transition duration-500" loading="lazy" /><div class="absolute bottom-3 right-3 bg-stone-900/80 backdrop-blur text-white text-[11px] font-bold px-3 py-1 rounded-lg">公式提供写真</div></div>
+<div class="mb-6 p-4 rounded-2xl bg-stone-900 text-amber-300 text-xs font-mono grid grid-cols-1 md:grid-cols-2 gap-2.5 shadow-inner"><div><span class="text-stone-400">■ 総ヒバ造り「ヒバ千人風呂」:</span> 160畳の巨大空間に湧く白濁酸性泉</div><div><span class="text-stone-400">■ 4つの源泉浴槽:</span> 熱湯・四分六分の湯・鹿の湯・冷え湯</div><div><span class="text-stone-400">■ 青森郷土料理御膳:</span> 八甲田の山菜・川魚・せんべい汁</div><div><span class="text-stone-400">■ 国民保養温泉地第1号:</span> 昭和29年指定の歴史的秘湯</div><div class="md:col-span-2"><span class="text-stone-400">■ 特徴:</span> 青森駅よりJRバス約70分＋1泊1万円台〜＋楽天4.41</div></div>
+<div class="space-y-4 text-xs text-stone-700 leading-relaxed">
+<div class="p-4 rounded-xl bg-emerald-50/70 border border-emerald-200"><h4 class="font-black text-emerald-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-emerald-600">✅</span> この宿を選ぶべき人</h4><p class="text-emerald-900">「日本最高峰の湯治場風情と総ヒバ造り千人風呂の白濁酸性泉を一度は体験したい温泉好き」に完璧です。</p></div>
+<div class="p-4 rounded-xl bg-amber-50/60 border border-amber-200"><h4 class="font-black text-amber-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-amber-600">🛁</span> この宿でしか得られない特別な宿泊体験（本音レビュー）</h4><p class="text-stone-800 leading-relaxed">八甲田連峰の標高約900mに位置する日本を代表する秘湯。名物「ヒバ千人風呂」は圧巻の木造空間で、熱湯・四分六分の湯など異なる源泉浴槽が並び、白濁した濃厚な酸性硫黄泉が五感を刺激します（女性専用時間帯や男女別小浴場「玉の湯」あり）。夕食は素朴ながら味わい深い青森の山海の幸が楽しめます。</p></div>
+<div class="grid grid-cols-1 md:grid-cols-2 gap-3"><div class="p-3.5 rounded-xl bg-stone-50 border border-stone-200"><h5 class="font-bold text-stone-900 text-xs mb-1">🛏️ おすすめ客室タイプ</h5><p class="text-stone-600">「旅館棟 和室 / 湯治棟客室」</p></div><div class="p-3.5 rounded-xl bg-stone-50 border border-stone-200"><h5 class="font-bold text-stone-900 text-xs mb-1">🍽️ おすすめ夕食プラン</h5><p class="text-stone-600">「青森郷土の味覚！八甲田山菜＆特選膳プラン」</p></div></div>
+<div class="p-4 rounded-xl bg-sky-50/70 border border-sky-200"><h4 class="font-black text-sky-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-sky-600">🗺️</span> 交通アクセス＆おすすめ1泊2日タイムスケジュール</h4><p class="text-stone-700 mb-2"><strong>【アクセス】</strong>JR「青森駅」よりJRみずうみ号バス約70分「酸ヶ湯温泉」下車すぐ。青森道「青森中央IC」より車約40分。</p><p class="text-stone-700"><strong>【滞在プラン】</strong>【1日目】15:00チェックイン → 15:30ヒバ千人風呂で白濁名湯堪能 → 18:00郷土料理ディナー【2日目】07:00朝風呂 → 08:00朝食 → 09:30八甲田ロープウェー・奥入瀬渓流へ出発</p></div>
+<div class="p-3.5 rounded-xl bg-rose-50/70 border border-rose-200"><h4 class="font-black text-rose-950 text-xs mb-1 flex items-center gap-1.5"><span class="text-rose-600">⚠️</span> 逆に向いていない人</h4><p class="text-rose-900">豪華なリゾートホテル設備のみを好む方。</p></div>
+<div class="p-4 rounded-xl bg-gradient-to-r from-amber-700/10 via-orange-600/10 to-amber-700/10 border-2 border-amber-300"><h4 class="font-black text-amber-950 text-xs mb-1 flex items-center gap-1.5"><span class="text-amber-600">💡</span> 編集部の結論：「だから、この旅行ならここ」</h4><p class="text-amber-950 font-bold">総ヒバ千人風呂×白濁酸性硫黄泉×国民保養温泉地第1号×楽天4.41。日本一の湯治場文化を体感できる聖地です。</p></div>
+</div>
+<div class="mt-6 pt-5 border-t border-amber-100 flex flex-col md:flex-row items-center justify-between gap-3"><div class="text-center md:text-left"><span class="text-[11px] text-stone-500 block">※酸ヶ湯温泉バス停下車すぐ</span><span class="text-xs font-black text-amber-800">総ヒバ造り千人風呂の名湯</span></div><a href="{make_aff_url(41009)}" target="_blank" rel="noopener noreferrer" class="w-full md:w-auto px-8 py-4 bg-gradient-to-r from-amber-700 via-yellow-600 to-amber-800 hover:from-amber-800 hover:to-yellow-700 text-white font-extrabold text-xs md:text-sm rounded-2xl shadow-lg hover:shadow-xl hover:scale-105 transition transform text-center inline-flex items-center justify-center gap-2"><span>✈️ 【公式】酸ヶ湯温泉旅館の空室・最安プランを見る</span></a></div>
+</div>''')
+
+# 宿9: 長寿館
+review_parts.append(f'''<div class="my-12 p-6 md:p-8 rounded-3xl bg-white border-2 border-amber-200 shadow-xl hover:shadow-2xl transition duration-300">
+<div class="flex flex-wrap items-center justify-between border-b border-amber-100 pb-4 mb-4 gap-2"><div class="flex items-center gap-3"><span class="px-3.5 py-1.5 bg-gradient-to-r from-amber-700 to-yellow-600 text-white font-black text-xs rounded-xl shadow-sm">第9位</span><h3 class="text-lg md:text-xl font-extrabold text-stone-900">群馬 法師温泉 法師温泉 長寿館（ちょうじゅかん）</h3></div><div class="flex items-center gap-2"><span class="text-xs text-stone-500 font-bold">📍 群馬県利根郡みなかみ町永井650</span><span class="px-3 py-1 bg-amber-50 text-amber-800 border border-amber-300 font-black text-xs rounded-full shadow-sm">⭐ 4.36</span></div></div>
+<div class="mb-5 p-4 rounded-2xl bg-gradient-to-r from-amber-50 to-orange-50 border border-amber-200"><h4 class="font-black text-amber-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-amber-600">♨️</span> 秘湯＆美食体験：国登録有形文化財！浴槽の底から源泉が自然湧出する「法師乃湯」＆上州山里会席</h4><p class="text-xs text-stone-700 leading-relaxed">「三国峠の山奥に佇む創業140年の秘湯一軒宿で、明治の面影を残す鹿鳴館風の大浴場『法師乃湯』の足元湧出温泉に浸かり、上州牛や川魚の山里料理を味わいたい」という歴史浪漫の旅に最適です。</p></div>
+<div class="mb-6 relative rounded-2xl overflow-hidden shadow-md group"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/39211/39211.jpg" alt="法師温泉 長寿館" class="w-full h-72 md:h-96 object-cover group-hover:scale-105 transition duration-500" loading="lazy" /><div class="absolute bottom-3 right-3 bg-stone-900/80 backdrop-blur text-white text-[11px] font-bold px-3 py-1 rounded-lg">公式提供写真</div></div>
+<div class="mb-6 p-4 rounded-2xl bg-stone-900 text-amber-300 text-xs font-mono grid grid-cols-1 md:grid-cols-2 gap-2.5 shadow-inner"><div><span class="text-stone-400">■ 国登録有形文化財「法師乃湯」:</span> 敷き詰められた玉石の下から湧く奇跡の湯</div><div><span class="text-stone-400">■ 足元自然湧出泉:</span> 空気に触れず湧き立てのピュア温泉</div><div><span class="text-stone-400">■ 上州山里会席:</span> 上州麦豚・岩魚塩焼き・手打ち蕎麦</div><div><span class="text-stone-400">■ 明治・大正の木造建築:</span> 文豪が愛した静寂の空間</div><div class="md:col-span-2"><span class="text-stone-400">■ 特徴:</span> 上毛高原駅よりバス運行＋日本秘湯を守る会発祥宿＋楽天4.36</div></div>
+<div class="space-y-4 text-xs text-stone-700 leading-relaxed">
+<div class="p-4 rounded-xl bg-emerald-50/70 border border-emerald-200"><h4 class="font-black text-emerald-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-emerald-600">✅</span> この宿を選ぶべき人</h4><p class="text-emerald-900">「足元からぷくぷくと湧き出す本物の自然湧出泉と、有形文化財の木造建築に心奪われる旅がしたい方」に完璧です。</p></div>
+<div class="p-4 rounded-xl bg-amber-50/60 border border-amber-200"><h4 class="font-black text-amber-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-amber-600">🛁</span> この宿でしか得られない特別な宿泊体験（本音レビュー）</h4><p class="text-stone-800 leading-relaxed">群馬と新潟の県境・三国峠の山奥に佇む一軒宿。名物「法師乃湯」は明治時代に建てられた鹿鳴館風のアーチ窓が美しい大浴場で、浴槽の底に敷かれた玉石の間からぷくぷくと生まれたての源泉が湧き出します（女性専用時間帯あり）。夕食は上州の山里料理や岩魚が供され、時が止まったような風情に浸れます。</p></div>
+<div class="grid grid-cols-1 md:grid-cols-2 gap-3"><div class="p-3.5 rounded-xl bg-stone-50 border border-stone-200"><h5 class="font-bold text-stone-900 text-xs mb-1">🛏️ おすすめ客室タイプ</h5><p class="text-stone-600">「本館 和室 / 薫山荘（国登録有形文化財）」</p></div><div class="p-3.5 rounded-xl bg-stone-50 border border-stone-200"><h5 class="font-bold text-stone-900 text-xs mb-1">🍽️ おすすめ夕食プラン</h5><p class="text-stone-600">「上州名物！上州麦豚しゃぶしゃぶ＆季節の山里会席プラン」</p></div></div>
+<div class="p-4 rounded-xl bg-sky-50/70 border border-sky-200"><h4 class="font-black text-sky-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-sky-600">🗺️</span> 交通アクセス＆おすすめ1泊2日タイムスケジュール</h4><p class="text-stone-700 mb-2"><strong>【アクセス】</strong>上越新幹線「上毛高原駅」より関越交通バス約40分「猿ヶ京」乗換町営バス約20分「法師温泉」下車すぐ。関越道「月夜野IC」より車約40分。</p><p class="text-stone-700"><strong>【滞在プラン】</strong>【1日目】15:00チェックイン → 15:30法師乃湯で足元湧出泉堪能 → 18:30山里会席ディナー【2日目】07:00朝の法師乃湯 → 08:00朝食 → 09:30猿ヶ京温泉・たくみの里へ出発</p></div>
+<div class="p-3.5 rounded-xl bg-rose-50/70 border border-rose-200"><h4 class="font-black text-rose-950 text-xs mb-1 flex items-center gap-1.5"><span class="text-rose-600">⚠️</span> 逆に向いていない人</h4><p class="text-rose-900">バリアフリー完備の最新施設を求める方。</p></div>
+<div class="p-4 rounded-xl bg-gradient-to-r from-amber-700/10 via-orange-600/10 to-amber-700/10 border-2 border-amber-300"><h4 class="font-black text-amber-950 text-xs mb-1 flex items-center gap-1.5"><span class="text-amber-600">💡</span> 編集部の結論：「だから、この旅行ならここ」</h4><p class="text-amber-950 font-bold">法師乃湯足元湧出×国登録有形文化財×日本秘湯を守る会発祥×楽天4.36。日本の温泉文化の至宝といえる宿です。</p></div>
+</div>
+<div class="mt-6 pt-5 border-t border-amber-100 flex flex-col md:flex-row items-center justify-between gap-3"><div class="text-center md:text-left"><span class="text-[11px] text-stone-500 block">※法師温泉バス停下車すぐ</span><span class="text-xs font-black text-amber-800">国登録有形文化財の足元湧出宿</span></div><a href="{make_aff_url(39211)}" target="_blank" rel="noopener noreferrer" class="w-full md:w-auto px-8 py-4 bg-gradient-to-r from-amber-700 via-yellow-600 to-amber-800 hover:from-amber-800 hover:to-yellow-700 text-white font-extrabold text-xs md:text-sm rounded-2xl shadow-lg hover:shadow-xl hover:scale-105 transition transform text-center inline-flex items-center justify-center gap-2"><span>✈️ 【公式】法師温泉 長寿館の空室・最安プランを見る</span></a></div>
+</div>''')
+
+# 宿10: 日進舘
+review_parts.append(f'''<div class="my-12 p-6 md:p-8 rounded-3xl bg-white border-2 border-amber-200 shadow-xl hover:shadow-2xl transition duration-300">
+<div class="flex flex-wrap items-center justify-between border-b border-amber-100 pb-4 mb-4 gap-2"><div class="flex items-center gap-3"><span class="px-3.5 py-1.5 bg-gradient-to-r from-amber-700 to-yellow-600 text-white font-black text-xs rounded-xl shadow-sm">第10位</span><h3 class="text-lg md:text-xl font-extrabold text-stone-900">群馬 万座温泉 万座温泉 日進舘（にっしんかん）</h3></div><div class="flex items-center gap-2"><span class="text-xs text-stone-500 font-bold">📍 群馬県吾妻郡嬬恋村大字干俣万座温泉2401</span><span class="px-3 py-1 bg-amber-50 text-amber-800 border border-amber-300 font-black text-xs rounded-full shadow-sm">⭐ 4.21</span></div></div>
+<div class="mb-5 p-4 rounded-2xl bg-gradient-to-r from-amber-50 to-orange-50 border border-amber-200"><h4 class="font-black text-amber-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-amber-600">♨️</span> 秘湯＆美食体験：標高1,800m！日本一の高濃度硫黄泉・展望露天風呂「極楽湯」と9つの湯巡り（1泊6,000円台〜）</h4><p class="text-xs text-stone-700 leading-relaxed">「上信越高原国立公園の標高1,800mに位置し、日本一の硫黄含有量を誇る濃厚な白濁湯と大自然を見下ろす展望露天風呂極楽湯を1泊6,000円台〜の破格コスパで楽しみたい」という連休ドライブに大人気です。</p></div>
+<div class="mb-6 relative rounded-2xl overflow-hidden shadow-md group"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/3033/3033.jpg" alt="万座温泉 日進舘" class="w-full h-72 md:h-96 object-cover group-hover:scale-105 transition duration-500" loading="lazy" /><div class="absolute bottom-3 right-3 bg-stone-900/80 backdrop-blur text-white text-[11px] font-bold px-3 py-1 rounded-lg">公式提供写真</div></div>
+<div class="mb-6 p-4 rounded-2xl bg-stone-900 text-amber-300 text-xs font-mono grid grid-cols-1 md:grid-cols-2 gap-2.5 shadow-inner"><div><span class="text-stone-400">■ 日本一の高濃度硫黄泉:</span> 乳白色の濃厚な強酸性硫黄泉</div><div><span class="text-stone-400">■ 絶景展望露天風呂「極楽湯」:</span> 万座の山並みと星空を望む特等席</div><div><span class="text-stone-400">■ 9つの多彩な湯船:</span> 総木造り「長寿の湯」ほか館内湯巡り</div><div><span class="text-stone-400">■ まごころ健康バイキング:</span> 約40種類の和洋中料理</div><div class="md:col-span-2"><span class="text-stone-400">■ 特徴:</span> 万座・鹿沢口駅より路線バス運行＋1泊6,000円台〜＋楽天4.21</div></div>
+<div class="space-y-4 text-xs text-stone-700 leading-relaxed">
+<div class="p-4 rounded-xl bg-emerald-50/70 border border-emerald-200"><h4 class="font-black text-emerald-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-emerald-600">✅</span> この宿を選ぶべき人</h4><p class="text-emerald-900">「標高1,800mの雲上で、日本一濃い白濁硫黄泉と満天の星空を圧倒的なコスパで満喫したい方」に完璧です。</p></div>
+<div class="p-4 rounded-xl bg-amber-50/60 border border-amber-200"><h4 class="font-black text-amber-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-amber-600">🛁</span> この宿でしか得られない特別な宿泊体験（本音レビュー）</h4><p class="text-stone-800 leading-relaxed">標高1,800mの雲上に建つ万座温泉の名物旅館。日本一の硫黄濃度を誇る白濁の温泉は、浸かった瞬間に体が芯から温まる圧倒的なパワー。名物の展望露天風呂「極楽湯」からは万座の山々と夜には降るような星空が広がり、まさに極楽。夕食バイキングは身体に優しい健康料理が並び、連泊湯治にも人気です。</p></div>
+<div class="grid grid-cols-1 md:grid-cols-2 gap-3"><div class="p-3.5 rounded-xl bg-stone-50 border border-stone-200"><h5 class="font-bold text-stone-900 text-xs mb-1">🛏️ おすすめ客室タイプ</h5><p class="text-stone-600">「本館 和室 / ゆけむり館」</p></div><div class="p-3.5 rounded-xl bg-stone-50 border border-stone-200"><h5 class="font-bold text-stone-900 text-xs mb-1">🍽️ おすすめ夕食プラン</h5><p class="text-stone-600">「まごころ健康バイキングプラン（1泊2食付）」</p></div></div>
+<div class="p-4 rounded-xl bg-sky-50/70 border border-sky-200"><h4 class="font-black text-sky-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-sky-600">🗺️</span> 交通アクセス＆おすすめ1泊2日タイムスケジュール</h4><p class="text-stone-700 mb-2"><strong>【アクセス】</strong>JR吾妻線「万座・鹿沢口駅」より西武観光バス約45分「万座バスターミナル」下車送迎あり。上信越道「碓氷軽井沢IC」より車約80分。</p><p class="text-stone-700"><strong>【滞在プラン】</strong>【1日目】15:00チェックイン → 15:30絶景展望露天極楽湯 → 18:00健康バイキングディナー → 20:00星空極楽湯【2日目】06:00雲海朝風呂 → 07:30朝食 → 09:30志賀草津高原ルート・草津温泉へ出発</p></div>
+<div class="p-3.5 rounded-xl bg-rose-50/70 border border-rose-200"><h4 class="font-black text-rose-950 text-xs mb-1 flex items-center gap-1.5"><span class="text-rose-600">⚠️</span> 逆に向いていない人</h4><p class="text-rose-900">高級料亭のような個室会席のみを好む方。</p></div>
+<div class="p-4 rounded-xl bg-gradient-to-r from-amber-700/10 via-orange-600/10 to-amber-700/10 border-2 border-amber-300"><h4 class="font-black text-amber-950 text-xs mb-1 flex items-center gap-1.5"><span class="text-amber-600">💡</span> 編集部の結論：「だから、この旅行ならここ」</h4><p class="text-amber-950 font-bold">標高1800m展望極楽湯×日本一の高濃度硫黄泉×1泊6,000円台〜の衝撃コスパ。万座温泉で最も愛される名湯宿です。</p></div>
+</div>
+<div class="mt-6 pt-5 border-t border-amber-100 flex flex-col md:flex-row items-center justify-between gap-3"><div class="text-center md:text-left"><span class="text-[11px] text-stone-500 block">※万座バスターミナルより送迎あり</span><span class="text-xs font-black text-amber-800">標高1,800mの極楽湯の宿</span></div><a href="{make_aff_url(3033)}" target="_blank" rel="noopener noreferrer" class="w-full md:w-auto px-8 py-4 bg-gradient-to-r from-amber-700 via-yellow-600 to-amber-800 hover:from-amber-800 hover:to-yellow-700 text-white font-extrabold text-xs md:text-sm rounded-2xl shadow-lg hover:shadow-xl hover:scale-105 transition transform text-center inline-flex items-center justify-center gap-2"><span>✈️ 【公式】万座温泉 日進舘の空室・最安プランを見る</span></a></div>
+</div>''')
+
+# FAQ・関連記事ナビ
+review_parts.append('''<h2 class="text-xl font-bold text-stone-900 border-b-2 border-amber-700 pb-2 my-8">💡 秘境にごり湯＆秘湯宿に関するよくある質問（FAQ）</h2>
+<div class="space-y-4 my-6">
+  <div class="p-5 rounded-2xl bg-white border border-stone-200 shadow-sm space-y-2">
+    <h4 class="text-sm font-bold text-stone-900 flex items-center gap-2">
+      <span class="px-2 py-0.5 bg-amber-600 text-white text-xs font-black rounded-md">Q</span>
+      「にごり湯」や「秘湯」はなぜシルバーウィークの混雑回避に向いている？
+    </h4>
+    <p class="text-xs text-stone-700 leading-relaxed pl-6 border-l-2 border-amber-200">
+      <span class="font-bold text-amber-700">A.</span> 秘境にごり湯宿は、国立公園の山奥や渓谷にひっそりと佇む一軒宿が多く、<strong>「周囲に大型商業施設や観光渋滞スポットがないため、連休中も喧騒から隔絶された静寂な時間」</strong>が過ごせます。また総客室数が少ないため、大浴場や食事処でもゆったり寛げます。
+    </p>
+  </div>
+
+  <div class="p-5 rounded-2xl bg-white border border-stone-200 shadow-sm space-y-2">
+    <h4 class="text-sm font-bold text-stone-900 flex items-center gap-2">
+      <span class="px-2 py-0.5 bg-amber-600 text-white text-xs font-black rounded-md">Q</span>
+      硫黄泉や強酸性のにごり湯に入る際の注意点は？
+    </h4>
+    <p class="text-xs text-stone-700 leading-relaxed pl-6 border-l-2 border-amber-200">
+      <span class="font-bold text-amber-700">A.</span> 硫黄泉は<strong>「貴金属（シルバーアクセサリー等）を変色させる」</strong>ため、入浴前に必ず外してください。また酸性度が強い温泉（蔵王・酸ヶ湯・万座など）は目に入るとしみるため、顔を洗う際は真水を使用し、入浴後は上がり湯で軽く流すのがおすすめです。
+    </p>
+  </div>
+
+  <div class="p-5 rounded-2xl bg-white border border-stone-200 shadow-sm space-y-2">
+    <h4 class="text-sm font-bold text-stone-900 flex items-center gap-2">
+      <span class="px-2 py-0.5 bg-amber-600 text-white text-xs font-black rounded-md">Q</span>
+      混浴大露天風呂（泡の湯・酸ヶ湯・槍見館等）の女性の利用しやすさは？
+    </h4>
+    <p class="text-xs text-stone-700 leading-relaxed pl-6 border-l-2 border-amber-200">
+      <span class="font-bold text-amber-700">A.</span> 泡の湯は<strong>「専用の巻きバスタオル着用OK＆にごり湯で湯中が見えない構造」</strong>、酸ヶ湯は<strong>「女性専用時間帯（朝夕）や湯浴み着の販売」</strong>、槍見館は<strong>「女性専用露天や無料貸切露天風呂」</strong>が充実しており、女性やご夫婦でも安心して快適に楽しめます。
+    </p>
+  </div>
+</div>
+
+<div class="my-10 p-6 rounded-3xl bg-stone-50 border border-stone-200/90 shadow-sm">
+  <div class="flex items-center gap-2 mb-3 border-b border-stone-200 pb-2">
+    <span class="px-2.5 py-0.5 bg-stone-800 text-white font-black text-xs rounded-md">旅行ナレッジ</span>
+    <h3 class="text-sm font-bold text-stone-900">📍 秘境にごり湯・名湯宿 宿泊エリアガイド＆旅行情報</h3>
+  </div>
+  <p class="text-xs text-stone-600 leading-relaxed">
+    当ガイドでは、<strong>日本全国の混雑回避・大自然の秘境にごり湯＆100%源泉かけ流し名門温泉宿（岐阜新穂高、山梨西山、長野白骨、大分別府明礬、福島岳温泉、山形蔵王、熊本小田、青森八甲田、群馬法師、群馬万座）</strong>を厳選してご紹介しています。
+    楽天トラベルの最新空室状況・限定宿泊プラン・リアルタイムクチコミ評価と直結しており、失敗しないホテル選びをサポートします。
+  </p>
+  <div class="mt-4 pt-3 border-t border-stone-200 flex flex-wrap gap-2 text-2xs text-stone-500">
+    <span class="px-2 py-1 bg-white border border-stone-200 rounded-md">エリア: 全国（岐阜・山梨・長野・大分・福島・山形・熊本・青森・群馬）</span>
+    <span class="px-2 py-1 bg-white border border-stone-200 rounded-md">テーマ: シルバーウィーク・混雑回避・秘湯・にごり湯・源泉かけ流し・硫黄泉・大自然一軒宿</span>
+    <span class="px-2 py-1 bg-white border border-stone-200 rounded-md">更新日: 2026年最新版</span>
+    <span class="px-2 py-1 bg-white border border-stone-200 rounded-md">即時予約・公式連携</span>
+  </div>
+</div>
+
+<div class="my-12 p-6 md:p-8 rounded-3xl bg-gradient-to-br from-stone-50 via-amber-50/40 to-orange-50/30 border border-amber-200/80 shadow-md">
+  <div class="flex items-center gap-2 mb-4 border-b border-amber-200 pb-3">
+    <span class="px-3 py-1 bg-amber-700 text-white font-black text-xs rounded-lg">関連記事ナビ</span>
+    <h3 class="text-base md:text-lg font-bold text-stone-900">🗺️ あわせて読みたい！秋の連休＆温泉特集</h3>
+  </div>
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-4 my-4">
+    <div class="p-4 rounded-2xl bg-white border border-stone-200/90 shadow-sm space-y-2">
+      <h4 class="text-xs font-black text-amber-900">💎 人気の秋連休特集</h4>
+      <a href="/posts/silver-week-luxury-private-villa-retreat-hotels-guide" class="block p-2.5 rounded-xl bg-white hover:bg-amber-50 border border-stone-200 text-xs font-bold text-stone-800 hover:text-amber-700 transition">
+        👉 【2026SW】全室離れ・客室露天の隠れ宿10選！比較
+      </a>
+      <a href="/posts/silver-week-all-inclusive-free-drinks-resort-hotels-guide" class="block p-2.5 rounded-xl bg-white hover:bg-amber-50 border border-stone-200 text-xs font-bold text-stone-800 hover:text-amber-700 transition">
+        👉 【2026SW】お酒飲み放題！オールインクル宿10選
+      </a>
+      <a href="/posts/silver-week-ocean-view-infinity-onsen-hotels-guide" class="block p-2.5 rounded-xl bg-white hover:bg-amber-50 border border-stone-200 text-xs font-bold text-stone-800 hover:text-amber-700 transition">
+        👉 【2026SW】海一望インフィニティ露天宿10選！比較
+      </a>
+      <a href="/posts/silver-week-autumn-highland-panoramic-resort-hotels-guide" class="block p-2.5 rounded-xl bg-white hover:bg-amber-50 border border-stone-200 text-xs font-bold text-stone-800 hover:text-amber-700 transition">
+        👉 【2026SW】秋風爽やかな高原リゾート宿10選！比較
+      </a>
+    </div>
+    <div class="p-4 rounded-2xl bg-white border border-stone-200/90 shadow-sm space-y-2">
+      <h4 class="text-xs font-black text-stone-900">🎌 エリア別特集</h4>
+      <a href="/posts/gifu-hotels-selection-guide" class="block text-xs font-bold text-stone-800 hover:text-amber-700">🏨 【岐阜・奥飛騨高山】厳選10選ガイド</a>
+      <a href="/posts/nagano-hotels-selection-guide" class="block text-xs font-bold text-stone-800 hover:text-amber-700">🏨 【長野・白骨上高地】厳選10選ガイド</a>
+      <a href="/posts/gunma-hotels-selection-guide" class="block text-xs font-bold text-stone-800 hover:text-amber-700">🏨 【群馬・万座法師】厳選10選ガイド</a>
+      <a href="/posts/aomori-hotels-selection-guide" class="block text-xs font-bold text-stone-800 hover:text-amber-700">🏨 【青森・八甲田酸ヶ湯】厳選10選ガイド</a>
+    </div>
+  </div>
+</div>''')
+
+slug = 'silver-week-quiet-hidden-hot-springs-hotels-guide'
+title = '【2026SW】混雑回避！秘境にごり湯の名宿10選'
+desc = 'シルバーウィークは人混みを避けて秘境温泉へ！白骨泡の湯・奥飛騨槍見館・西山慶雲館から酸ヶ湯、法師温泉、別府明礬まで徹底比較。源泉かけ流しにごり湯と秋の山の幸会席で静かに寛げる名湯宿10選を本音レビュー。全施設楽天公式最新空室リンク付き。'
+
+post_data = {
+    'id': slug,
+    'slug': slug,
+    'title': title,
+    'description': desc,
+    'prefecture': '全国',
+    'area': '全国（岐阜・山梨・長野・大分・福島・山形・熊本・青森・群馬）',
+    'hotel_name': '秘境にごり湯・名湯宿おすすめ10選',
+    'image': 'https://img.travel.rakuten.co.jp/share/HOTEL/109100/109100.jpg',
+    'other_images': [],
+    'affiliate_url': make_aff_url(109100),
+    'price': 19800,
+    'rating': 4.74,
+    'date': '2026-08-27',
+    'categories': [
+        '特集10選',
+        'キラーコンテンツ',
+        '後悔回避',
+        'ホテル厳選',
+        'シルバーウィーク',
+        '秘湯',
+        'にごり湯',
+        '混雑回避'
+    ],
+    'keywords': [
+        'シルバーウィーク 秘湯 宿 おすすめ 10選',
+        '9月連休 穴場 温泉宿 比較',
+        'シルバーウィーク 混まない 温泉 宿泊 予約',
+        '秋の連休 にごり湯 かけ流し 秘境宿 比較',
+        'シルバーウィーク 静かな温泉宿',
+        'にごり湯 楽天トラベル'
+    ],
+    'is_special_feature': True,
+    'review': ''.join(review_parts)
+}
+
+target_file = f'src/data/posts/{slug}.json'
+with open(target_file, 'w', encoding='utf-8') as f:
+    json.dump(post_data, f, ensure_ascii=False, indent=2)
+
+print('Generated post file successfully:', target_file)
