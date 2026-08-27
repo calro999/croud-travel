@@ -60,6 +60,7 @@
 ## 最新厳選宿・観光ルポ記事
 - [【2026最新】氷瀑・雪見の滝露天風呂宿10選！比較](https://croud-travel.pages.dev/posts/frozen-waterfall-hyobaku-snow-onsen-hotels-guide): 氷瀑・雪見の滝露天風呂宿おすすめ10選（全国）
 - [【2026SW】秋風爽やかな高原リゾート宿10選！比較](https://croud-travel.pages.dev/posts/silver-week-autumn-highland-panoramic-resort-hotels-guide): 秋風爽やかな高原リゾート宿おすすめ10選（全国）
+- [【2026SW】三世代・敬老祝い名門温泉宿10選！比較](https://croud-travel.pages.dev/posts/silver-week-three-generation-keirou-onsen-hotels-guide): 三世代・敬老祝い名門温泉宿おすすめ10選（全国）
 - [【2026最新】タグ付き活蟹が旨い名門温泉宿10選！比較](https://croud-travel.pages.dev/posts/winter-brand-tagged-crab-echizen-matsuba-onsen-hotels-guide): タグ付き活蟹が旨い名門温泉宿おすすめ10選（全国）
 - [【2026最新】濃厚白子・痛風鍋が旨い温泉宿10選！比較](https://croud-travel.pages.dev/posts/winter-shirako-milt-tsufunabe-onsen-hotels-guide): 濃厚白子・痛風鍋が旨い温泉宿おすすめ10選（全国）
 - [【おすすめ宿】下呂温泉　水明館の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/8886): 下呂温泉　水明館（岐阜県）
@@ -107,4 +108,3 @@
 - [【2026最新】家族の笑顔に会える宿　山代温泉　宝生亭の温泉・客室口コミ＆宿泊予約ガイド｜石川県](https://croud-travel.pages.dev/posts/69349): 家族の笑顔に会える宿　山代温泉　宝生亭（石川県）
 - [【和歌山県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/151092): 白浜温泉　紀州半島（和歌山県）
 - [【2026最新】天然温泉　縮景の湯　スーパーホテル広島天然温泉・薬研堀通りの温泉・客室口コミ＆宿泊予約ガイド｜広島県](https://croud-travel.pages.dev/posts/181958): 天然温泉　縮景の湯　スーパーホテル広島天然温泉・薬研堀通り（広島県）
-- [【宮崎県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/147117): 妙見温泉　天けい荘（宮崎県）
