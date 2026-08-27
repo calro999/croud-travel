@@ -1,0 +1,341 @@
+import json
+import urllib.parse
+
+with open('scratch/highland_10_hotels.json', 'r', encoding='utf-8') as f:
+    hotels = json.load(f)
+
+aff_id = '54d2a438.4bc4abc2.54d2a439.aa1be583'
+
+def make_aff_url(no):
+    target = f'https://travel.rakuten.co.jp/HOTEL/{no}/{no}.html'
+    return f'https://hb.afl.rakuten.co.jp/hgc/{aff_id}/?pc={urllib.parse.quote(target, safe="")}'
+
+review_parts = [
+    '<h2 class="text-2xl font-bold text-stone-900 border-b-2 border-emerald-600 pb-2 mb-4">【2026年最新SW特集】秋風爽やかな高原リゾート＆パノラマ絶景露天風呂ホテルおすすめ10選！比較</h2>',
+    '<p class="text-sm text-stone-700 leading-relaxed my-3 font-medium">9月のシルバーウィーク（秋の大型連休）は、夏の厳しい残暑を抜け出し、標高1,000m超の爽快な高原で澄み切った秋風を感じる最高のバカンスシーズンです。雄大な浅間山を望む標高1,000mの軽井沢（ルグラン軽井沢ホテル＆リゾート）、3万冊のライブラリーと清流露天風呂が美しい蓼科高原（蓼科 親湯温泉）、オールインクルーシブで八ヶ岳の絶景を愛でる小淵沢（八ヶ岳ホテル風か）、桧原湖畔に佇む黄金色のにごり湯リゾート・裏磐梯（猫魔離宮）、那須連山と秋の高原野菜フレンチを堪能する那須高原（ホテルエピナール那須・サンバレー那須）、標高1,470mの天文台で満天の星空を観察する清里高原（清里高原リゾート）、阿蘇五岳と黄金すすき大草原を一望する瀬の本高原（瀬の本高原ホテル）、標高1,200mの森林リゾート・草津（ホテルヴィレッジ）、羊蹄山パノラマが圧巻の北海道・ニセコ（ヒルトンニセコビレッジ）まで、爽やかな秋のドライブと絶景露天風呂、極上リゾートステイを満喫できる名門ホテル10選を本音で比較レビューします。全施設、楽天トラベル公式最新空室リンク付き。</p>',
+    '<div class="my-6 p-6 rounded-3xl bg-gradient-to-br from-emerald-950 via-slate-900 to-teal-950 text-white border border-emerald-500/30 shadow-xl p-6 md:p-8">',
+    '<h3 class="text-lg font-bold text-emerald-300 mb-3">🍃 なぜ「シルバーウィークの高原リゾートステイ」は最高の休暇になるのか？</h3>',
+    '<p class="text-xs text-stone-200 leading-relaxed mb-3">平地ではまだ日中の暑さが残る9月中旬〜下旬でも、標高1,000m前後の高原エリアは<strong>「日中20℃前後の極めて快適な気候と、朝晩のひんやり心地よい秋風」</strong>に包まれます。</p>',
+    '<p class="text-xs text-stone-200 leading-relaxed mb-3">青く澄み渡る秋空の下、すすきや色づき始めた紅葉のグラデーションを眺めながら入る「パノラマ展望露天風呂」、夜空に吸い込まれそうな「満天の星空観測」、そして<strong>「秋の収穫期を迎えた採れたて高原野菜や信州牛・とちぎ和牛・ジビエフレンチ」</strong>は、日常の疲れを完全にリセットしてくれます。</p>',
+    '<p class="text-xs text-stone-200 leading-relaxed">連休のドライブ旅行やカップルの記念日、三世代家族旅行にも最適な、秋の爽快感を120%味わえる贅沢なホテル選びをお届けします。</p>',
+    '</div>',
+    '<h2 class="text-xl font-bold text-stone-900 border-b border-emerald-300 pb-2 my-8">🧭 失敗しない「シルバーウィーク高原ホテル」選び4大チェックポイント</h2>',
+    '<div class="grid grid-cols-1 md:grid-cols-2 gap-4 my-6">',
+    '<div class="p-5 rounded-2xl bg-white border-2 border-stone-200/80 shadow-sm space-y-2"><h4 class="text-sm font-extrabold text-emerald-950 flex items-center gap-2"><span class="px-2 py-0.5 bg-emerald-600 text-white text-xs font-black rounded-md">POINT</span>基準1：標高800m〜1,500mの爽快な高原ロケーションと絶景パノラマ</h4><p class="text-xs text-stone-600 leading-relaxed">浅間山、八ヶ岳、南アルプス、那須連山、阿蘇五岳、羊蹄山など山並みや湖を一望できるかを検証。</p></div>',
+    '<div class="p-5 rounded-2xl bg-white border-2 border-stone-200/80 shadow-sm space-y-2"><h4 class="text-sm font-extrabold text-emerald-950 flex items-center gap-2"><span class="px-2 py-0.5 bg-emerald-600 text-white text-xs font-black rounded-md">POINT</span>基準2：秋風を感じる開放的な展望温泉露天風呂・星空観測</h4><p class="text-xs text-stone-600 leading-relaxed">涼やかな秋の風が通り抜ける露天風呂や、夜の満天の星空を眺められる温泉施設を備えているかを重視。</p></div>',
+    '<div class="p-5 rounded-2xl bg-white border-2 border-stone-200/80 shadow-sm space-y-2"><h4 class="text-sm font-extrabold text-emerald-950 flex items-center gap-2"><span class="px-2 py-0.5 bg-emerald-600 text-white text-xs font-black rounded-md">POINT</span>基準3：実りの秋を味わう高原フレンチ・プレミアムブッフェ</h4><p class="text-xs text-stone-600 leading-relaxed">採れたて高原野菜やブランド和牛、旬のきのこや果物を使った美食ディナーを提供しているかをセレクト。</p></div>',
+    '<div class="p-5 rounded-2xl bg-white border-2 border-stone-200/80 shadow-sm space-y-2"><h4 class="text-sm font-extrabold text-emerald-950 flex items-center gap-2"><span class="px-2 py-0.5 bg-emerald-600 text-white text-xs font-black rounded-md">POINT</span>基準4：楽天トラベルクチコミ・ロケーション評価の圧倒的高さ</h4><p class="text-xs text-stone-600 leading-relaxed">実際に宿泊した旅行者から「高原の風と温泉の絶景に癒やされた」「連休の最高の思い出になった」と絶賛される宿を厳選。</p></div>',
+    '</div>',
+    '<h2 class="text-xl font-bold text-stone-900 border-b border-emerald-300 pb-2 my-8">📊 高原リゾート温泉ホテルおすすめ10選のスペック比較一覧表</h2>',
+    '<div class="my-6 overflow-x-auto rounded-2xl border border-stone-300 shadow-sm"><table class="w-full text-left text-xs text-stone-700 bg-white"><thead class="bg-stone-900 text-emerald-300 font-bold border-b border-stone-300"><tr><th class="p-3">順位・宿名</th><th class="p-3">所在地</th><th class="p-3">標高＆ロケーション</th><th class="p-3">展望露天風呂・温泉</th><th class="p-3">秋の高原ディナー</th><th class="p-3">クチコミ</th></tr></thead><tbody class="divide-y divide-stone-200">',
+    '<tr class="hover:bg-emerald-50/50"><td class="p-3 font-bold text-stone-900">第1位 ルグラン軽井沢ホテル＆リゾート</td><td class="p-3">長野 軽井沢</td><td class="p-3 font-bold text-emerald-800">標高1,000m・7万坪の浅間山パノラマ</td><td class="p-3">天然温泉「八風温泉」展望露天風呂</td><td class="p-3 font-bold text-stone-800">ミシュランシェフの極上フレンチ</td><td class="p-3 font-bold text-emerald-800">⭐ 4.60</td></tr>',
+    '<tr class="hover:bg-emerald-50/50"><td class="p-3 font-bold text-stone-900">第2位 蓼科 親湯温泉</td><td class="p-3">長野 蓼科高原</td><td class="p-3 font-bold text-emerald-800">標高1,300m・3万冊の蔵書ライブラリー</td><td class="p-3">蓼科川の渓流を望む秋風露天風呂</td><td class="p-3 font-bold text-stone-800">蓼科フレンチ創作会席</td><td class="p-3 font-bold text-emerald-800">⭐ 4.58</td></tr>',
+    '<tr class="hover:bg-emerald-50/50"><td class="p-3 font-bold text-stone-900">第3位 八ヶ岳 ホテル風か</td><td class="p-3">山梨 小淵沢</td><td class="p-3 font-bold text-emerald-800">標高1,000m・オールインクルーシブ</td><td class="p-3">八ヶ岳パノラマ展望温泉露天風呂</td><td class="p-3 font-bold text-stone-800">フレンチ「風香」ディナー</td><td class="p-3 font-bold text-emerald-800">⭐ 4.55</td></tr>',
+    '<tr class="hover:bg-emerald-50/50"><td class="p-3 font-bold text-stone-900">第4位 裏磐梯レイクリゾート 迎賓館 猫魔離宮</td><td class="p-3">福島 裏磐梯</td><td class="p-3 font-bold text-emerald-800">標高800m・桧原湖畔の五色沼至近</td><td class="p-3">黄金色の源泉かけ流し「猫魔温泉」</td><td class="p-3 font-bold text-stone-800">極上フレンチ・和食会席</td><td class="p-3 font-bold text-emerald-800">⭐ 4.54</td></tr>',
+    '<tr class="hover:bg-emerald-50/50"><td class="p-3 font-bold text-stone-900">第5位 ホテルエピナール那須</td><td class="p-3">栃木 那須高原</td><td class="p-3 font-bold text-emerald-800">那須高原随一の大型総合リゾート</td><td class="p-3">エリア最大級の温泉大浴場露天風呂</td><td class="p-3 font-bold text-stone-800">高原野菜フレンチ・バイキング</td><td class="p-3 font-bold text-emerald-800">⭐ 4.44</td></tr>',
+    '<tr class="hover:bg-emerald-50/50"><td class="p-3 font-bold text-stone-900">第6位 瀬の本高原ホテル</td><td class="p-3">熊本 阿蘇瀬の本</td><td class="p-3 font-bold text-emerald-800">標高920m・阿蘇五岳と黄金すすき草原</td><td class="p-3">大草原パノラマ露天「絶景の湯」</td><td class="p-3 font-bold text-stone-800">阿蘇あか牛会席ディナー</td><td class="p-3 font-bold text-emerald-800">⭐ 4.40</td></tr>',
+    '<tr class="hover:bg-emerald-50/50"><td class="p-3 font-bold text-stone-900">第7位 草津温泉 ホテルヴィレッジ</td><td class="p-3">群馬 草津温泉</td><td class="p-3 font-bold text-emerald-800">標高1,200m・広大な森林リゾート</td><td class="p-3">草津名湯温泉・テルメテルメプール</td><td class="p-3 font-bold text-stone-800">秋の味覚プレミアムビュッフェ</td><td class="p-3 font-bold text-emerald-800">⭐ 4.36</td></tr>',
+    '<tr class="hover:bg-emerald-50/50"><td class="p-3 font-bold text-stone-900">第8位 清里高原リゾート</td><td class="p-3">山梨 清里高原</td><td class="p-3 font-bold text-emerald-800">標高1,470m・大型天体望遠鏡完備</td><td class="p-3">富士山と南アルプス望む展望露天風呂</td><td class="p-3 font-bold text-stone-800">高原フレンチ・和食会席</td><td class="p-3 font-bold text-emerald-800">⭐ 4.22</td></tr>',
+    '<tr class="hover:bg-emerald-50/50"><td class="p-3 font-bold text-stone-900">第9位 ヒルトンニセコビレッジ</td><td class="p-3">北海道 ニセコ</td><td class="p-3 font-bold text-emerald-800">羊蹄山パノラマを望む大自然リゾート</td><td class="p-3">巨大池と直結する源泉かけ流し露天風呂</td><td class="p-3 font-bold text-stone-800">北海道グリル・ビュッフェ</td><td class="p-3 font-bold text-emerald-800">⭐ 4.22</td></tr>',
+    '<tr class="hover:bg-emerald-50/50"><td class="p-3 font-bold text-stone-900">第10位 ホテルサンバレー那須</td><td class="p-3">栃木 那須高原</td><td class="p-3 font-bold text-emerald-800">那須の自然に囲まれた温泉リゾート</td><td class="p-3">3種の泉質湯巡り「湯遊天国」</td><td class="p-3 font-bold text-stone-800">和洋中プレミアムバイキング</td><td class="p-3 font-bold text-emerald-800">⭐ 4.20</td></tr>',
+    '</tbody></table></div>',
+    '<h2 class="text-xl font-bold text-stone-900 border-b-2 border-emerald-600 pb-2 my-8">🏆 【徹底検証】秋風爽やかな高原リゾート宿おすすめ10選の本音レビュー</h2>'
+]
+
+# 宿1: ルグラン軽井沢ホテル＆リゾート
+review_parts.append(f'''<div class="my-12 p-6 md:p-8 rounded-3xl bg-white border-2 border-emerald-200 shadow-xl hover:shadow-2xl transition duration-300">
+<div class="flex flex-wrap items-center justify-between border-b border-emerald-100 pb-4 mb-4 gap-2"><div class="flex items-center gap-3"><span class="px-3.5 py-1.5 bg-gradient-to-r from-emerald-600 to-teal-600 text-white font-black text-xs rounded-xl shadow-sm">第1位</span><h3 class="text-lg md:text-xl font-extrabold text-stone-900">長野 軽井沢 ルグラン軽井沢ホテル＆リゾート</h3></div><div class="flex items-center gap-2"><span class="text-xs text-stone-500 font-bold">📍 長野県北佐久郡軽井沢町発地864-4</span><span class="px-3 py-1 bg-emerald-50 text-emerald-800 border border-emerald-300 font-black text-xs rounded-full shadow-sm">⭐ 4.60</span></div></div>
+<div class="mb-5 p-4 rounded-2xl bg-gradient-to-r from-emerald-50 to-teal-50 border border-emerald-200"><h4 class="font-black text-emerald-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-emerald-600">⛰️</span> 高原リゾート体験：標高1,000m・7万坪の浅間山パノラマ！天然温泉「八風温泉」＆ミシュランシェフの極上フレンチ</h4><p class="text-xs text-stone-700 leading-relaxed">「軽井沢の雄大な浅間山を望む7万坪の広大な敷地で、秋風が心地よい天然温泉露天風呂に入り、ミシュラン星付きシェフ監修のフレンチを味わいたい」というシルバーウィークの王道バカンスに第1位です。</p></div>
+<div class="mb-6 relative rounded-2xl overflow-hidden shadow-md group"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/167023/167023.jpg" alt="ルグラン軽井沢ホテル＆リゾート" class="w-full h-72 md:h-96 object-cover group-hover:scale-105 transition duration-500" loading="lazy" /><div class="absolute bottom-3 right-3 bg-stone-900/80 backdrop-blur text-white text-[11px] font-bold px-3 py-1 rounded-lg">公式提供写真</div></div>
+<div class="mb-6 p-4 rounded-2xl bg-stone-900 text-emerald-300 text-xs font-mono grid grid-cols-1 md:grid-cols-2 gap-2.5 shadow-inner"><div><span class="text-stone-400">■ 標高1,000mの絶景山頂エリア:</span> 浅間山と軽井沢の大自然を360度一望</div><div><span class="text-stone-400">■ 天然温泉「八風温泉」:</span> 三大美肌泉質の炭酸水素塩泉露天風呂</div><div><span class="text-stone-400">■ ミシュランシェフ極上フレンチ:</span> 信州の秋野菜と信州プレミアム牛</div><div><span class="text-stone-400">■ クラシック調の優雅な客室:</span> バルコニーから森と風を感じる空間</div><div class="md:col-span-2"><span class="text-stone-400">■ 特徴:</span> 軽井沢駅無料シャトルバス運行＋楽天日本の宿アワード受賞＋楽天4.60</div></div>
+<div class="space-y-4 text-xs text-stone-700 leading-relaxed">
+<div class="p-4 rounded-xl bg-emerald-50/70 border border-emerald-200"><h4 class="font-black text-emerald-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-emerald-600">✅</span> この宿を選ぶべき人</h4><p class="text-emerald-900">「軽井沢の最高峰リゾートで、浅間山を望む展望温泉露天風呂と本格フレンチを優雅に満喫したいカップル・ご夫婦」に完璧です。</p></div>
+<div class="p-4 rounded-xl bg-teal-50/60 border border-teal-200"><h4 class="font-black text-teal-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-teal-600">🛁</span> この宿でしか得られない特別な宿泊体験（本音レビュー）</h4><p class="text-stone-800 leading-relaxed">南軽井沢の小高い丘の上に広がる7万坪のラグジュアリーリゾート。標高1,000mの山頂デッキ「山の上スイート」からは雄大な浅間山と色づき始めた軽井沢の森が一望。天然温泉「八風温泉」はとろりとした肌触りで、夜には満天の星空を仰げます。夕食のフレンチは信州の豊かな実りを美しく表現した芸術的なコースで、非日常の感動を味わえます。</p></div>
+<div class="grid grid-cols-1 md:grid-cols-2 gap-3"><div class="p-3.5 rounded-xl bg-stone-50 border border-stone-200"><h5 class="font-bold text-stone-900 text-xs mb-1">🛏️ おすすめ客室タイプ</h5><p class="text-stone-600">「本館 プレミアツイン / 山の上スイート」（バルコニー付優雅な客室）</p></div><div class="p-3.5 rounded-xl bg-stone-50 border border-stone-200"><h5 class="font-bold text-stone-900 text-xs mb-1">🍽️ おすすめ夕食プラン</h5><p class="text-stone-600">「ミシュランシェフ監修！信州秋の味覚フレンチフルコースプラン」</p></div></div>
+<div class="p-4 rounded-xl bg-sky-50/70 border border-sky-200"><h4 class="font-black text-sky-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-sky-600">🗺️</span> 交通アクセス＆おすすめ1泊2日タイムスケジュール</h4><p class="text-stone-700 mb-2"><strong>【アクセス】</strong>JR北陸新幹線「軽井沢駅」南口より無料送迎シャトルバス約15分。上信越道「碓氷軽井沢IC」より車約15分。</p><p class="text-stone-700"><strong>【滞在プラン】</strong>【1日目】15:00チェックイン → 16:00山頂デッキ散策＆カフェ → 17:30八風温泉パノラマ露天風呂 → 19:00信州フレンチディナー【2日目】07:30朝風呂 → 08:30ブレックファスト → 10:00旧軽井沢銀座・雲場池へ出発</p></div>
+<div class="p-3.5 rounded-xl bg-rose-50/70 border border-rose-200"><h4 class="font-black text-rose-950 text-xs mb-1 flex items-center gap-1.5"><span class="text-rose-600">⚠️</span> 逆に向いていない人</h4><p class="text-rose-900">駅前すぐの徒歩圏立地のみを希望する方。</p></div>
+<div class="p-4 rounded-xl bg-gradient-to-r from-emerald-600/10 via-teal-600/10 to-emerald-600/10 border-2 border-emerald-300"><h4 class="font-black text-emerald-950 text-xs mb-1 flex items-center gap-1.5"><span class="text-emerald-600">💡</span> 編集部の結論：「だから、この旅行ならここ」</h4><p class="text-emerald-950 font-bold">標高1000m浅間山パノラマ×八風温泉×ミシュランフレンチ×楽天4.60。シルバーウィークの軽井沢で最高の贅沢が叶う宿です。</p></div>
+</div>
+<div class="mt-6 pt-5 border-t border-emerald-100 flex flex-col md:flex-row items-center justify-between gap-3"><div class="text-center md:text-left"><span class="text-[11px] text-stone-500 block">※軽井沢駅より無料送迎シャトル運行</span><span class="text-xs font-black text-emerald-800">浅間山を一望する7万坪リゾート</span></div><a href="{make_aff_url(167023)}" target="_blank" rel="noopener noreferrer" class="w-full md:w-auto px-8 py-4 bg-gradient-to-r from-emerald-600 via-teal-600 to-emerald-700 hover:from-emerald-700 hover:to-teal-700 text-white font-extrabold text-xs md:text-sm rounded-2xl shadow-lg hover:shadow-xl hover:scale-105 transition transform text-center inline-flex items-center justify-center gap-2"><span>✈️ 【公式】ルグラン軽井沢ホテル＆リゾートの空室・最安プランを見る</span></a></div>
+</div>''')
+
+# 宿2: 蓼科 親湯温泉
+review_parts.append(f'''<div class="my-12 p-6 md:p-8 rounded-3xl bg-white border-2 border-emerald-200 shadow-xl hover:shadow-2xl transition duration-300">
+<div class="flex flex-wrap items-center justify-between border-b border-emerald-100 pb-4 mb-4 gap-2"><div class="flex items-center gap-3"><span class="px-3.5 py-1.5 bg-gradient-to-r from-emerald-600 to-teal-600 text-white font-black text-xs rounded-xl shadow-sm">第2位</span><h3 class="text-lg md:text-xl font-extrabold text-stone-900">長野 蓼科高原 創業大正十五年 蓼科 親湯温泉（しんゆおんせん）</h3></div><div class="flex items-center gap-2"><span class="text-xs text-stone-500 font-bold">📍 長野県茅野市北山蓼科高原4035</span><span class="px-3 py-1 bg-emerald-50 text-emerald-800 border border-emerald-300 font-black text-xs rounded-full shadow-sm">⭐ 4.58</span></div></div>
+<div class="mb-5 p-4 rounded-2xl bg-gradient-to-r from-emerald-50 to-teal-50 border border-emerald-200"><h4 class="font-black text-emerald-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-emerald-600">⛰️</span> 高原リゾート体験：標高1,300m・3万冊の蔵書ライブラリー＆清流蓼科川を望む秋風露天風呂</h4><p class="text-xs text-stone-700 leading-relaxed">「標高1,300mの蓼科高原の森に佇む大人の隠れ宿で、3万冊の蔵書に囲まれながら読書を楽しみ、蓼科川のせせらぎと秋風が心地よい渓流露天風呂に癒やされたい」という知的好奇心あふれる連休旅に最適です。</p></div>
+<div class="mb-6 relative rounded-2xl overflow-hidden shadow-md group"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2938/2938.jpg" alt="蓼科 親湯温泉" class="w-full h-72 md:h-96 object-cover group-hover:scale-105 transition duration-500" loading="lazy" /><div class="absolute bottom-3 right-3 bg-stone-900/80 backdrop-blur text-white text-[11px] font-bold px-3 py-1 rounded-lg">公式提供写真</div></div>
+<div class="mb-6 p-4 rounded-2xl bg-stone-900 text-emerald-300 text-xs font-mono grid grid-cols-1 md:grid-cols-2 gap-2.5 shadow-inner"><div><span class="text-stone-400">■ 3万冊の蔵書ラウンジ:</span> 壁一面の本に囲まれた贅沢な読書空間</div><div><span class="text-stone-400">■ 蓼科川渓流露天風呂:</span> 畳敷き大浴場と秋風が吹き抜ける露天風呂</div><div><span class="text-stone-400">■ 蓼科フレンチ会席:</span> 個室レストランで味わう信州サーモン・信州牛</div><div><span class="text-stone-400">■ 標高1,300mの冷涼気候:</span> 残暑ゼロの爽やかな高原ステイ</div><div class="md:col-span-2"><span class="text-stone-400">■ 特徴:</span> JR茅野駅無料送迎バス運行＋大正15年創業＋楽天4.58</div></div>
+<div class="space-y-4 text-xs text-stone-700 leading-relaxed">
+<div class="p-4 rounded-xl bg-emerald-50/70 border border-emerald-200"><h4 class="font-black text-emerald-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-emerald-600">✅</span> この宿を選ぶべき人</h4><p class="text-emerald-900">「静寂な高原の森で読書と温泉に浸り、個室でゆったりと蓼科フレンチ会席を味わいたい大人旅」に完璧です。</p></div>
+<div class="p-4 rounded-xl bg-teal-50/60 border border-teal-200"><h4 class="font-black text-teal-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-teal-600">🛁</span> この宿でしか得られない特別な宿泊体験（本音レビュー）</h4><p class="text-stone-800 leading-relaxed">大正15年創業の歴史を紡ぐ文化の宿。館内に入ると迎えてくれる3万冊の蔵書が圧巻で、好きな本を片手にコーヒーやワインを楽しめます。大浴場は全国的にも珍しい「畳敷き」で足元が温かく、露天風呂からは清流・蓼科川のせせらぎと秋風を肌で感じられます。夕食は全席個室で蓼科の食材を美しく仕立てたフレンチ会席が供されます。</p></div>
+<div class="grid grid-cols-1 md:grid-cols-2 gap-3"><div class="p-3.5 rounded-xl bg-stone-50 border border-stone-200"><h5 class="font-bold text-stone-900 text-xs mb-1">🛏️ おすすめ客室タイプ</h5><p class="text-stone-600">「清流亭 露天風呂付客室 / 深山亭 和モダン客室」（渓流を望む客室）</p></div><div class="p-3.5 rounded-xl bg-stone-50 border border-stone-200"><h5 class="font-bold text-stone-900 text-xs mb-1">🍽️ おすすめ夕食プラン</h5><p class="text-stone-600">「個室レストランで味わう蓼科フレンチ創作会席プラン」</p></div></div>
+<div class="p-4 rounded-xl bg-sky-50/70 border border-sky-200"><h4 class="font-black text-sky-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-sky-600">🗺️</span> 交通アクセス＆おすすめ1泊2日タイムスケジュール</h4><p class="text-stone-700 mb-2"><strong>【アクセス】</strong>JR中央本線「茅野駅」より無料送迎バス約30分（要予約）。中央道「諏訪IC」より車約30分。</p><p class="text-stone-700"><strong>【滞在プラン】</strong>【1日目】15:00チェックイン → 15:30蔵書ラウンジで読書 → 17:00渓流秋風露天風呂 → 18:30個室蓼科フレンチディナー【2日目】07:30朝風呂 → 08:30和朝食 → 10:00白樺湖・ビーナスラインドライブへ</p></div>
+<div class="p-3.5 rounded-xl bg-rose-50/70 border border-rose-200"><h4 class="font-black text-rose-950 text-xs mb-1 flex items-center gap-1.5"><span class="text-rose-600">⚠️</span> 逆に向いていない人</h4><p class="text-rose-900">賑やかな大型テーマパーク型ホテルを好む方。</p></div>
+<div class="p-4 rounded-xl bg-gradient-to-r from-emerald-600/10 via-teal-600/10 to-emerald-600/10 border-2 border-emerald-300"><h4 class="font-black text-emerald-950 text-xs mb-1 flex items-center gap-1.5"><span class="text-emerald-600">💡</span> 編集部の結論：「だから、この旅行ならここ」</h4><p class="text-emerald-950 font-bold">標高1300m蔵書ラウンジ×渓流露天風呂×個室蓼科フレンチ×楽天4.58。心豊かな大人の高原ステイが叶う名宿です。</p></div>
+</div>
+<div class="mt-6 pt-5 border-t border-emerald-100 flex flex-col md:flex-row items-center justify-between gap-3"><div class="text-center md:text-left"><span class="text-[11px] text-stone-500 block">※茅野駅より無料送迎バス運行</span><span class="text-xs font-black text-emerald-800">3万冊の蔵書と渓流の宿</span></div><a href="{make_aff_url(2938)}" target="_blank" rel="noopener noreferrer" class="w-full md:w-auto px-8 py-4 bg-gradient-to-r from-emerald-600 via-teal-600 to-emerald-700 hover:from-emerald-700 hover:to-teal-700 text-white font-extrabold text-xs md:text-sm rounded-2xl shadow-lg hover:shadow-xl hover:scale-105 transition transform text-center inline-flex items-center justify-center gap-2"><span>✈️ 【公式】蓼科 親湯温泉の空室・最安プランを見る</span></a></div>
+</div>''')
+
+# 宿3: 八ヶ岳 ホテル風か
+review_parts.append(f'''<div class="my-12 p-6 md:p-8 rounded-3xl bg-white border-2 border-emerald-200 shadow-xl hover:shadow-2xl transition duration-300">
+<div class="flex flex-wrap items-center justify-between border-b border-emerald-100 pb-4 mb-4 gap-2"><div class="flex items-center gap-3"><span class="px-3.5 py-1.5 bg-gradient-to-r from-emerald-600 to-teal-600 text-white font-black text-xs rounded-xl shadow-sm">第3位</span><h3 class="text-lg md:text-xl font-extrabold text-stone-900">山梨 小淵沢 1000Mのおもてなし 八ヶ岳 ホテル風か（ふうか）</h3></div><div class="flex items-center gap-2"><span class="text-xs text-stone-500 font-bold">📍 山梨県北杜市小淵沢町上の原3989-1</span><span class="px-3 py-1 bg-emerald-50 text-emerald-800 border border-emerald-300 font-black text-xs rounded-full shadow-sm">⭐ 4.55</span></div></div>
+<div class="mb-5 p-4 rounded-2xl bg-gradient-to-r from-emerald-50 to-teal-50 border border-emerald-200"><h4 class="font-black text-emerald-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-emerald-600">⛰️</span> 高原リゾート体験：標高1,000mのオールインクルーシブ宿！約50種のドリンク無料＆八ヶ岳パノラマ温泉</h4><p class="text-xs text-stone-700 leading-relaxed">「八ヶ岳南麓の爽やかな高原リゾートで、滞在中のドリンクやBAR、焼きマシュマロが全て無料のオールインクルーシブを楽しみ、八ヶ岳の風を感じる温泉露天風呂で寛ぎたい」というストレスフリーな連休旅行に大人気です。</p></div>
+<div class="mb-6 relative rounded-2xl overflow-hidden shadow-md group"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/53178/53178.jpg" alt="八ヶ岳 ホテル風か" class="w-full h-72 md:h-96 object-cover group-hover:scale-105 transition duration-500" loading="lazy" /><div class="absolute bottom-3 right-3 bg-stone-900/80 backdrop-blur text-white text-[11px] font-bold px-3 py-1 rounded-lg">公式提供写真</div></div>
+<div class="mb-6 p-4 rounded-2xl bg-stone-900 text-emerald-300 text-xs font-mono grid grid-cols-1 md:grid-cols-2 gap-2.5 shadow-inner"><div><span class="text-stone-400">■ オールインクルーシブ無料:</span> ビール・地酒・ワイン・BAR・お夜食</div><div><span class="text-stone-400">■ 標高1,000mの展望温泉露天:</span> 富士山と南アルプス・八ヶ岳の借景</div><div><span class="text-stone-400">■ フレンチ「風香」ディナー:</span> 甲州牛・高原野菜の特選コース</div><div><span class="text-stone-400">■ 焚き火＆星空テラス:</span> 焼きマシュマロ体験と満天の星空</div><div class="md:col-span-2"><span class="text-stone-400">■ 特徴:</span> JR小淵沢駅無料送迎あり＋楽天日本の宿アワード受賞＋楽天4.55</div></div>
+<div class="space-y-4 text-xs text-stone-700 leading-relaxed">
+<div class="p-4 rounded-xl bg-emerald-50/70 border border-emerald-200"><h4 class="font-black text-emerald-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-emerald-600">✅</span> この宿を選ぶべき人</h4><p class="text-emerald-900">「追加料金を気にせずお酒やカフェを楽しみながら、八ヶ岳の澄んだ空気と温泉露天風呂を満喫したい方」に完璧です。</p></div>
+<div class="p-4 rounded-xl bg-teal-50/60 border border-teal-200"><h4 class="font-black text-teal-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-teal-600">🛁</span> この宿でしか得られない特別な宿泊体験（本音レビュー）</h4><p class="text-stone-800 leading-relaxed">八ヶ岳南麓・小淵沢に位置する人気オールインクルーシブ宿。ウェルカムドリンクから夕食時の約50種類のペアリングドリンク、ナイトBARまで全て宿泊料金込み。夕食のカジュアルフレンチは高原野菜の甘みと甲州牛が絶妙。中庭のテラスでは焚き火を囲んで焼きマシュマロを体験でき、秋の澄んだ夜空を見上げながらロマンチックなひとときを過ごせます。</p></div>
+<div class="grid grid-cols-1 md:grid-cols-2 gap-3"><div class="p-3.5 rounded-xl bg-stone-50 border border-stone-200"><h5 class="font-bold text-stone-900 text-xs mb-1">🛏️ おすすめ客室タイプ</h5><p class="text-stone-600">「風の棟 和モダンツイン / 展望風呂付客室」（八ヶ岳の森を望む客室）</p></div><div class="p-3.5 rounded-xl bg-stone-50 border border-stone-200"><h5 class="font-bold text-stone-900 text-xs mb-1">🍽️ おすすめ夕食プラン</h5><p class="text-stone-600">「オールインクルーシブ！甲州牛＆秋の高原フレンチディナープラン」</p></div></div>
+<div class="p-4 rounded-xl bg-sky-50/70 border border-sky-200"><h4 class="font-black text-sky-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-sky-600">🗺️</span> 交通アクセス＆おすすめ1泊2日タイムスケジュール</h4><p class="text-stone-700 mb-2"><strong>【アクセス】</strong>JR中央本線「小淵沢駅」より車約5分（無料送迎あり）。中央道「小淵沢IC」より車約3分。</p><p class="text-stone-700"><strong>【滞在プラン】</strong>【1日目】15:00チェックイン → 15:30ラウンジで生ビール＆ピザ → 16:30展望露天風呂 → 18:30高原フレンチディナー → 20:30焚き火ナイトBAR【2日目】07:30朝風呂 → 08:30高原朝食 → 10:00清里テラスへ出発</p></div>
+<div class="p-3.5 rounded-xl bg-rose-50/70 border border-rose-200"><h4 class="font-black text-rose-950 text-xs mb-1 flex items-center gap-1.5"><span class="text-rose-600">⚠️</span> 逆に向いていない人</h4><p class="text-rose-900">お酒を全く飲まない方。</p></div>
+<div class="p-4 rounded-xl bg-gradient-to-r from-emerald-600/10 via-teal-600/10 to-emerald-600/10 border-2 border-emerald-300"><h4 class="font-black text-emerald-950 text-xs mb-1 flex items-center gap-1.5"><span class="text-emerald-600">💡</span> 編集部の結論：「だから、この旅行ならここ」</h4><p class="text-emerald-950 font-bold">標高1000m八ヶ岳×オールインクルーシブ×焚き火星空テラス×楽天4.55。コスパと満足度が極めて高い高原リゾートです。</p></div>
+</div>
+<div class="mt-6 pt-5 border-t border-emerald-100 flex flex-col md:flex-row items-center justify-between gap-3"><div class="text-center md:text-left"><span class="text-[11px] text-stone-500 block">※小淵沢駅より無料送迎あり</span><span class="text-xs font-black text-emerald-800">オールインクルーシブの高原宿</span></div><a href="{make_aff_url(53178)}" target="_blank" rel="noopener noreferrer" class="w-full md:w-auto px-8 py-4 bg-gradient-to-r from-emerald-600 via-teal-600 to-emerald-700 hover:from-emerald-700 hover:to-teal-700 text-white font-extrabold text-xs md:text-sm rounded-2xl shadow-lg hover:shadow-xl hover:scale-105 transition transform text-center inline-flex items-center justify-center gap-2"><span>✈️ 【公式】八ヶ岳 ホテル風かの空室・最安プランを見る</span></a></div>
+</div>''')
+
+# 宿4: 裏磐梯レイクリゾート 迎賓館 猫魔離宮
+review_parts.append(f'''<div class="my-12 p-6 md:p-8 rounded-3xl bg-white border-2 border-emerald-200 shadow-xl hover:shadow-2xl transition duration-300">
+<div class="flex flex-wrap items-center justify-between border-b border-emerald-100 pb-4 mb-4 gap-2"><div class="flex items-center gap-3"><span class="px-3.5 py-1.5 bg-gradient-to-r from-emerald-600 to-teal-600 text-white font-black text-xs rounded-xl shadow-sm">第4位</span><h3 class="text-lg md:text-xl font-extrabold text-stone-900">福島 裏磐梯 裏磐梯レイクリゾート 迎賓館 猫魔離宮</h3></div><div class="flex items-center gap-2"><span class="text-xs text-stone-500 font-bold">📍 福島県耶麻郡北塩原村大字桧原字湯平山1171-1</span><span class="px-3 py-1 bg-emerald-50 text-emerald-800 border border-emerald-300 font-black text-xs rounded-full shadow-sm">⭐ 4.54</span></div></div>
+<div class="mb-5 p-4 rounded-2xl bg-gradient-to-r from-emerald-50 to-teal-50 border border-emerald-200"><h4 class="font-black text-emerald-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-emerald-600">⛰️</span> 高原リゾート体験：標高800m・桧原湖畔の極上高原リゾート＆黄金色のにごり湯「猫魔温泉」</h4><p class="text-xs text-stone-700 leading-relaxed">「神秘の湖沼群・五色沼徒歩すぐの桧原湖畔に佇む上質な迎賓館で、黄金色に輝く自家源泉かけ流しパノラマ露天風呂に浸かり、本格フレンチや会席を味わいたい」という東北リゾート旅に最適です。</p></div>
+<div class="mb-6 relative rounded-2xl overflow-hidden shadow-md group"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/151377/151377.jpg" alt="裏磐梯レイクリゾート 猫魔離宮" class="w-full h-72 md:h-96 object-cover group-hover:scale-105 transition duration-500" loading="lazy" /><div class="absolute bottom-3 right-3 bg-stone-900/80 backdrop-blur text-white text-[11px] font-bold px-3 py-1 rounded-lg">公式提供写真</div></div>
+<div class="mb-6 p-4 rounded-2xl bg-stone-900 text-emerald-300 text-xs font-mono grid grid-cols-1 md:grid-cols-2 gap-2.5 shadow-inner"><div><span class="text-stone-400">■ 桧原湖を望むパノラマ絶景:</span> 窓から望む裏磐梯の大自然と湖</div><div><span class="text-stone-400">■ 自家源泉「猫魔温泉」:</span> 赤褐色の黄金色に濁る濃厚な硫酸塩泉</div><div><span class="text-stone-400">■ 五色沼散策路徒歩3分:</span> コバルトブルーの絶景散策拠点</div><div><span class="text-stone-400">■ 迎賓館専用フレンチ＆会席:</span> 福島黒毛和牛と秋の味覚コース</div><div class="md:col-span-2"><span class="text-stone-400">■ 特徴:</span> 猪苗代駅無料送迎バス運行＋1泊1万円前後〜＋楽天4.54</div></div>
+<div class="space-y-4 text-xs text-stone-700 leading-relaxed">
+<div class="p-4 rounded-xl bg-emerald-50/70 border border-emerald-200"><h4 class="font-black text-emerald-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-emerald-600">✅</span> この宿を選ぶべき人</h4><p class="text-emerald-900">「五色沼や桧原湖の美しい自然散策を楽しみ、黄金色のにごり湯露天風呂と上質なフレンチを満喫したい方」に完璧です。</p></div>
+<div class="p-4 rounded-xl bg-teal-50/60 border border-teal-200"><h4 class="font-black text-teal-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-teal-600">🛁</span> この宿でしか得られない特別な宿泊体験（本音レビュー）</h4><p class="text-stone-800 leading-relaxed">裏磐梯の大自然に抱かれた迎賓館ホテル。桧原湖を一望する絶景露天風呂「ひばらみの湯」には、天然の鉄分とメタケイ酸を豊富に含む黄金色の自家源泉が掛け流され、高原の秋風を浴びながらの湯浴みは至福。五色沼自然探勝路の入口まで徒歩3分という抜群の立地で、秋の高原トレッキングにも最適です。</p></div>
+<div class="grid grid-cols-1 md:grid-cols-2 gap-3"><div class="p-3.5 rounded-xl bg-stone-50 border border-stone-200"><h5 class="font-bold text-stone-900 text-xs mb-1">🛏️ おすすめ客室タイプ</h5><p class="text-stone-600">「迎賓館 猫魔離宮 スーペリアツイン / ジュニアスイート」</p></div><div class="p-3.5 rounded-xl bg-stone-50 border border-stone-200"><h5 class="font-bold text-stone-900 text-xs mb-1">🍽️ おすすめ夕食プラン</h5><p class="text-stone-600">「迎賓館専用フレンチ『メイプル』ディナーコースプラン」</p></div></div>
+<div class="p-4 rounded-xl bg-sky-50/70 border border-sky-200"><h4 class="font-black text-sky-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-sky-600">🗺️</span> 交通アクセス＆おすすめ1泊2日タイムスケジュール</h4><p class="text-stone-700 mb-2"><strong>【アクセス】</strong>JR磐越西線「猪苗代駅」より無料送迎バス約30分（要予約）。磐越道「猪苗代磐梯高原IC」より車約25分。</p><p class="text-stone-700"><strong>【滞在プラン】</strong>【1日目】15:00チェックイン → 15:30五色沼散策 → 17:30黄金の湯パノラマ露天風呂 → 19:00フレンチディナー【2日目】07:30朝風呂 → 08:30朝食ビュッフェ → 10:00桧原湖遊覧船へ出発</p></div>
+<div class="p-3.5 rounded-xl bg-rose-50/70 border border-rose-200"><h4 class="font-black text-rose-950 text-xs mb-1 flex items-center gap-1.5"><span class="text-rose-600">⚠️</span> 逆に向いていない人</h4><p class="text-rose-900">駅前すぐの温泉街を散策したい方。</p></div>
+<div class="p-4 rounded-xl bg-gradient-to-r from-emerald-600/10 via-teal-600/10 to-emerald-600/10 border-2 border-emerald-300"><h4 class="font-black text-emerald-950 text-xs mb-1 flex items-center gap-1.5"><span class="text-emerald-600">💡</span> 編集部の結論：「だから、この旅行ならここ」</h4><p class="text-emerald-950 font-bold">桧原湖パノラマ×黄金色猫魔温泉×五色沼徒歩3分×楽天4.54。裏磐梯を代表する高原ラグジュアリーホテルです。</p></div>
+</div>
+<div class="mt-6 pt-5 border-t border-emerald-100 flex flex-col md:flex-row items-center justify-between gap-3"><div class="text-center md:text-left"><span class="text-[11px] text-stone-500 block">※猪苗代駅より無料送迎バス運行</span><span class="text-xs font-black text-emerald-800">五色沼徒歩3分の迎賓館</span></div><a href="{make_aff_url(151377)}" target="_blank" rel="noopener noreferrer" class="w-full md:w-auto px-8 py-4 bg-gradient-to-r from-emerald-600 via-teal-600 to-emerald-700 hover:from-emerald-700 hover:to-teal-700 text-white font-extrabold text-xs md:text-sm rounded-2xl shadow-lg hover:shadow-xl hover:scale-105 transition transform text-center inline-flex items-center justify-center gap-2"><span>✈️ 【公式】裏磐梯レイクリゾート 迎賓館 猫魔離宮の空室・最安プランを見る</span></a></div>
+</div>''')
+
+# 宿5: ホテルエピナール那須
+review_parts.append(f'''<div class="my-12 p-6 md:p-8 rounded-3xl bg-white border-2 border-emerald-200 shadow-xl hover:shadow-2xl transition duration-300">
+<div class="flex flex-wrap items-center justify-between border-b border-emerald-100 pb-4 mb-4 gap-2"><div class="flex items-center gap-3"><span class="px-3.5 py-1.5 bg-gradient-to-r from-emerald-600 to-teal-600 text-white font-black text-xs rounded-xl shadow-sm">第5位</span><h3 class="text-lg md:text-xl font-extrabold text-stone-900">栃木 那須高原 那須温泉 ホテルエピナール那須</h3></div><div class="flex items-center gap-2"><span class="text-xs text-stone-500 font-bold">📍 栃木県那須郡那須町大字高久丙1番地</span><span class="px-3 py-1 bg-emerald-50 text-emerald-800 border border-emerald-300 font-black text-xs rounded-full shadow-sm">⭐ 4.44</span></div></div>
+<div class="mb-5 p-4 rounded-2xl bg-gradient-to-r from-emerald-50 to-teal-50 border border-emerald-200"><h4 class="font-black text-emerald-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-emerald-600">⛰️</span> 高原リゾート体験：那須随一の大型総合高原リゾート！秋の高原野菜フレンチ＆エリア最大級の温泉大浴場</h4><p class="text-xs text-stone-700 leading-relaxed">「那須高原の5万坪の広大な敷地で、エリア最大級の温泉大露天風呂や室内温水プール、秋の高原野菜フレンチや豪華バイキングを三世代・家族で満喫したい」というシルバーウィーク家族旅行に大人気です。</p></div>
+<div class="mb-6 relative rounded-2xl overflow-hidden shadow-md group"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7335/7335.jpg" alt="ホテルエピナール那須" class="w-full h-72 md:h-96 object-cover group-hover:scale-105 transition duration-500" loading="lazy" /><div class="absolute bottom-3 right-3 bg-stone-900/80 backdrop-blur text-white text-[11px] font-bold px-3 py-1 rounded-lg">公式提供写真</div></div>
+<div class="mb-6 p-4 rounded-2xl bg-stone-900 text-emerald-300 text-xs font-mono grid grid-cols-1 md:grid-cols-2 gap-2.5 shadow-inner"><div><span class="text-stone-400">■ エリア最大級温泉大浴場:</span> 大型露天風呂・サウナ・ジャグジー</div><div><span class="text-stone-400">■ 最上階フレンチ「メリメロ」:</span> 那須連山パノラマと秋の高原野菜</div><div><span class="text-stone-400">■ 豪華バイキング「エルバージュ」:</span> 90種以上の和洋中ライブキッチン</div><div><span class="text-stone-400">■ 室内温水プール・陶芸体験:</span> 雨天でも楽しめる充実アクティビティ</div><div class="md:col-span-2"><span class="text-stone-400">■ 特徴:</span> 那須塩原駅無料シャトル運行＋1泊7,000円台〜＋楽天4.44</div></div>
+<div class="space-y-4 text-xs text-stone-700 leading-relaxed">
+<div class="p-4 rounded-xl bg-emerald-50/70 border border-emerald-200"><h4 class="font-black text-emerald-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-emerald-600">✅</span> この宿を選ぶべき人</h4><p class="text-emerald-900">「子連れファミリーや三世代旅行で、多彩なアクティビティと温泉、那須の美味しい食事を全員で楽しみたい方」に完璧です。</p></div>
+<div class="p-4 rounded-xl bg-teal-50/60 border border-teal-200"><h4 class="font-black text-teal-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-teal-600">🛁</span> この宿でしか得られない特別な宿泊体験（本音レビュー）</h4><p class="text-stone-800 leading-relaxed">那須高原を代表する総合リゾートホテル。5万坪の森に囲まれ、緑あふれる大型露天風呂は開放感抜群。夕食は最上階展望レストランでの本格フレンチ、またはキッズバイキングコーナー完備の「エルバージュ」から選べ、契約農家から届く新鮮な高原野菜やステーキが大好評。雨でも遊べる温水プールやツリートレッキングも大人気です。</p></div>
+<div class="grid grid-cols-1 md:grid-cols-2 gap-3"><div class="p-3.5 rounded-xl bg-stone-50 border border-stone-200"><h5 class="font-bold text-stone-900 text-xs mb-1">🛏️ おすすめ客室タイプ</h5><p class="text-stone-600">「メインタワー ファミリールーム / アネックスタワー 和洋室」</p></div><div class="p-3.5 rounded-xl bg-stone-50 border border-stone-200"><h5 class="font-bold text-stone-900 text-xs mb-1">🍽️ おすすめ夕食プラン</h5><p class="text-stone-600">「那須高原野菜とステーキ！豪華ディナーバイキングプラン」</p></div></div>
+<div class="p-4 rounded-xl bg-sky-50/70 border border-sky-200"><h4 class="font-black text-sky-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-sky-600">🗺️</span> 交通アクセス＆おすすめ1泊2日タイムスケジュール</h4><p class="text-stone-700 mb-2"><strong>【アクセス】</strong>JR東北新幹線「那須塩原駅」より無料シャトルバス約30分。東北道「那須IC」より車約10分。</p><p class="text-stone-700"><strong>【滞在プラン】</strong>【1日目】15:00チェックイン → 15:30温水プール＆温泉露天風呂 → 18:00豪華バイキングディナー【2日目】07:30朝風呂 → 08:30朝食バイキング → 10:00那須ハイランドパーク・那須どうぶつ王国へ</p></div>
+<div class="p-3.5 rounded-xl bg-rose-50/70 border border-rose-200"><h4 class="font-black text-rose-950 text-xs mb-1 flex items-center gap-1.5"><span class="text-rose-600">⚠️</span> 逆に向いていない人</h4><p class="text-rose-900">静寂な小規模旅館のみを希望する方。</p></div>
+<div class="p-4 rounded-xl bg-gradient-to-r from-emerald-600/10 via-teal-600/10 to-emerald-600/10 border-2 border-emerald-300"><h4 class="font-black text-emerald-950 text-xs mb-1 flex items-center gap-1.5"><span class="text-emerald-600">💡</span> 編集部の結論：「だから、この旅行ならここ」</h4><p class="text-emerald-950 font-bold">5万坪那須高原×エリア最大級露天風呂×高原野菜バイキング×楽天4.44。那須で最も家族連れに愛されるリゾートです。</p></div>
+</div>
+<div class="mt-6 pt-5 border-t border-emerald-100 flex flex-col md:flex-row items-center justify-between gap-3"><div class="text-center md:text-left"><span class="text-[11px] text-stone-500 block">※那須塩原駅より無料シャトルバス運行</span><span class="text-xs font-black text-emerald-800">那須随一の大型総合リゾート</span></div><a href="{make_aff_url(7335)}" target="_blank" rel="noopener noreferrer" class="w-full md:w-auto px-8 py-4 bg-gradient-to-r from-emerald-600 via-teal-600 to-emerald-700 hover:from-emerald-700 hover:to-teal-700 text-white font-extrabold text-xs md:text-sm rounded-2xl shadow-lg hover:shadow-xl hover:scale-105 transition transform text-center inline-flex items-center justify-center gap-2"><span>✈️ 【公式】ホテルエピナール那須の空室・最安プランを見る</span></a></div>
+</div>''')
+
+# 宿6: 瀬の本高原ホテル
+review_parts.append(f'''<div class="my-12 p-6 md:p-8 rounded-3xl bg-white border-2 border-emerald-200 shadow-xl hover:shadow-2xl transition duration-300">
+<div class="flex flex-wrap items-center justify-between border-b border-emerald-100 pb-4 mb-4 gap-2"><div class="flex items-center gap-3"><span class="px-3.5 py-1.5 bg-gradient-to-r from-emerald-600 to-teal-600 text-white font-black text-xs rounded-xl shadow-sm">第6位</span><h3 class="text-lg md:text-xl font-extrabold text-stone-900">熊本 阿蘇瀬の本 黒川温泉 瀬の本高原ホテル</h3></div><div class="flex items-center gap-2"><span class="text-xs text-stone-500 font-bold">📍 熊本県阿蘇郡南小国町満願寺5644</span><span class="px-3 py-1 bg-emerald-50 text-emerald-800 border border-emerald-300 font-black text-xs rounded-full shadow-sm">⭐ 4.40</span></div></div>
+<div class="mb-5 p-4 rounded-2xl bg-gradient-to-r from-emerald-50 to-teal-50 border border-emerald-200"><h4 class="font-black text-emerald-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-emerald-600">⛰️</span> 高原リゾート体験：標高920m！阿蘇五岳と黄金すすき大草原を一望する絶景露天風呂「絶景の湯」</h4><p class="text-xs text-stone-700 leading-relaxed">「阿蘇くじゅう国立公園の大草原に建つ絶景ホテルで、黄金色のすすき草原と阿蘇五岳パノラマを見晴らす露天風呂に浸かり、熊本名物あか牛会席を味わいたい」という九州の連休ドライブ旅に大人気です。</p></div>
+<div class="mb-6 relative rounded-2xl overflow-hidden shadow-md group"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/37963/37963.jpg" alt="瀬の本高原ホテル" class="w-full h-72 md:h-96 object-cover group-hover:scale-105 transition duration-500" loading="lazy" /><div class="absolute bottom-3 right-3 bg-stone-900/80 backdrop-blur text-white text-[11px] font-bold px-3 py-1 rounded-lg">公式提供写真</div></div>
+<div class="mb-6 p-4 rounded-2xl bg-stone-900 text-emerald-300 text-xs font-mono grid grid-cols-1 md:grid-cols-2 gap-2.5 shadow-inner"><div><span class="text-stone-400">■ 標高920m「絶景の湯」:</span> 遮るもののない阿蘇五岳と大草原パノラマ</div><div><span class="text-stone-400">■ 黄金すすき草原の秋絶景:</span> 9月連休に見頃を迎える阿蘇の大自然</div><div><span class="text-stone-400">■ 肥後あか牛会席ディナー:</span> あか牛ステーキ・旬の阿蘇郷土料理</div><div><span class="text-stone-400">■ 満天の星空観測テラス:</span> 街灯のない大草原に輝く天の川</div><div class="md:col-span-2"><span class="text-stone-400">■ 特徴:</span> やまなみハイウェイ沿い＋1泊1万円前後〜＋楽天4.40</div></div>
+<div class="space-y-4 text-xs text-stone-700 leading-relaxed">
+<div class="p-4 rounded-xl bg-emerald-50/70 border border-emerald-200"><h4 class="font-black text-emerald-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-emerald-600">✅</span> この宿を選ぶべき人</h4><p class="text-emerald-900">「やまなみハイウェイのドライブを楽しみ、阿蘇の大草原パノラマ露天風呂と星空、あか牛会席を満喫したい方」に完璧です。</p></div>
+<div class="p-4 rounded-xl bg-teal-50/60 border border-teal-200"><h4 class="font-black text-teal-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-teal-600">🛁</span> この宿でしか得られない特別な宿泊体験（本音レビュー）</h4><p class="text-stone-800 leading-relaxed">阿蘇瀬の本高原の真ん中に建つ絶景リゾート。自慢の露天風呂「絶景の湯」は湯船の前に大草原が広がり、秋風に揺れる黄金色のすすきと阿蘇五岳の涅槃像パノラマを独占。夜には周囲に明かりがないため息を呑むような満天の星空が広がります。夕食は熊本ブランド肥後あか牛の溶岩焼きをメインとした会席で大満足できます。</p></div>
+<div class="grid grid-cols-1 md:grid-cols-2 gap-3"><div class="p-3.5 rounded-xl bg-stone-50 border border-stone-200"><h5 class="font-bold text-stone-900 text-xs mb-1">🛏️ おすすめ客室タイプ</h5><p class="text-stone-600">「阿蘇五岳側 和洋室 / 和室」（大草原と山並みを望む客室）</p></div><div class="p-3.5 rounded-xl bg-stone-50 border border-stone-200"><h5 class="font-bold text-stone-900 text-xs mb-1">🍽️ おすすめ夕食プラン</h5><p class="text-stone-600">「肥後あか牛溶岩焼き＆阿蘇旬彩会席ディナープラン」</p></div></div>
+<div class="p-4 rounded-xl bg-sky-50/70 border border-sky-200"><h4 class="font-black text-sky-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-sky-600">🗺️</span> 交通アクセス＆おすすめ1泊2日タイムスケジュール</h4><p class="text-stone-700 mb-2"><strong>【アクセス】</strong>JR「阿蘇駅」より車約35分。大分道「日田IC」または九州道「熊本IC」より車約70分。</p><p class="text-stone-700"><strong>【滞在プラン】</strong>【1日目】15:00チェックイン → 15:30絶景の湯パノラマ露天風呂 → 18:30あか牛会席ディナー → 20:30星空観測【2日目】06:30大草原の朝風呂 → 08:00和朝食 → 09:30黒川温泉湯巡りへ出発</p></div>
+<div class="p-3.5 rounded-xl bg-rose-50/70 border border-rose-200"><h4 class="font-black text-rose-950 text-xs mb-1 flex items-center gap-1.5"><span class="text-rose-600">⚠️</span> 逆に向いていない人</h4><p class="text-rose-900">公共交通機関の電車だけで行きたい方（車・バス推奨）。</p></div>
+<div class="p-4 rounded-xl bg-gradient-to-r from-emerald-600/10 via-teal-600/10 to-emerald-600/10 border-2 border-emerald-300"><h4 class="font-black text-emerald-950 text-xs mb-1 flex items-center gap-1.5"><span class="text-emerald-600">💡</span> 編集部の結論：「だから、この旅行ならここ」</h4><p class="text-emerald-950 font-bold">標高920m阿蘇五岳パノラマ×絶景の湯×肥後あか牛×楽天4.40。九州を代表する大草原パノラマホテルです。</p></div>
+</div>
+<div class="mt-6 pt-5 border-t border-emerald-100 flex flex-col md:flex-row items-center justify-between gap-3"><div class="text-center md:text-left"><span class="text-[11px] text-stone-500 block">※やまなみハイウェイ沿い・星空テラス</span><span class="text-xs font-black text-emerald-800">阿蘇五岳を望む絶景宿</span></div><a href="{make_aff_url(37963)}" target="_blank" rel="noopener noreferrer" class="w-full md:w-auto px-8 py-4 bg-gradient-to-r from-emerald-600 via-teal-600 to-emerald-700 hover:from-emerald-700 hover:to-teal-700 text-white font-extrabold text-xs md:text-sm rounded-2xl shadow-lg hover:shadow-xl hover:scale-105 transition transform text-center inline-flex items-center justify-center gap-2"><span>✈️ 【公式】黒川温泉 瀬の本高原ホテルの空室・最安プランを見る</span></a></div>
+</div>''')
+
+# 宿7: 草津温泉 ホテルヴィレッジ
+review_parts.append(f'''<div class="my-12 p-6 md:p-8 rounded-3xl bg-white border-2 border-emerald-200 shadow-xl hover:shadow-2xl transition duration-300">
+<div class="flex flex-wrap items-center justify-between border-b border-emerald-100 pb-4 mb-4 gap-2"><div class="flex items-center gap-3"><span class="px-3.5 py-1.5 bg-gradient-to-r from-emerald-600 to-teal-600 text-white font-black text-xs rounded-xl shadow-sm">第7位</span><h3 class="text-lg md:text-xl font-extrabold text-stone-900">群馬 草津温泉 草津温泉 ホテルヴィレッジ</h3></div><div class="flex items-center gap-2"><span class="text-xs text-stone-500 font-bold">📍 群馬県吾妻郡草津町大字草津618番地</span><span class="px-3 py-1 bg-emerald-50 text-emerald-800 border border-emerald-300 font-black text-xs rounded-full shadow-sm">⭐ 4.36</span></div></div>
+<div class="mb-5 p-4 rounded-2xl bg-gradient-to-r from-emerald-50 to-teal-50 border border-emerald-200"><h4 class="font-black text-emerald-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-emerald-600">⛰️</span> 高原リゾート体験：標高1,200mの広大な森林高原リゾート！草津名湯温泉＆テルメテルメ温泉プール</h4><p class="text-xs text-stone-700 leading-relaxed">「草津温泉の高台に広がる森林リゾートで、名湯草津の源泉かけ流し露天風呂や温泉プール『テルメテルメ』を楽しみ、秋の味覚満載のバイキングを満喫したい」というファミリー・三世代旅行に最適です。</p></div>
+<div class="mb-6 relative rounded-2xl overflow-hidden shadow-md group"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5270/5270.jpg" alt="ホテルヴィレッジ" class="w-full h-72 md:h-96 object-cover group-hover:scale-105 transition duration-500" loading="lazy" /><div class="absolute bottom-3 right-3 bg-stone-900/80 backdrop-blur text-white text-[11px] font-bold px-3 py-1 rounded-lg">公式提供写真</div></div>
+<div class="mb-6 p-4 rounded-2xl bg-stone-900 text-emerald-300 text-xs font-mono grid grid-cols-1 md:grid-cols-2 gap-2.5 shadow-inner"><div><span class="text-stone-400">■ 標高1,200mの森林リゾート:</span> 森林浴やフォレストアドベンチャー</div><div><span class="text-stone-400">■ 3つの源泉湯巡り:</span> 湯畑源泉・万代鉱源泉・わたの湯の草津名湯</div><div><span class="text-stone-400">■ 温泉リゾート「テルメテルメ」:</span> 温水プールや多彩なサウナ完備</div><div><span class="text-stone-400">■ 季節のバイキング:</span> 上州牛・地元高原野菜のライブキッチン</div><div class="md:col-span-2"><span class="text-stone-400">■ 特徴:</span> 草津温泉バスターミナル無料送迎あり＋1泊9,000円台〜＋楽天4.36</div></div>
+<div class="space-y-4 text-xs text-stone-700 leading-relaxed">
+<div class="p-4 rounded-xl bg-emerald-50/70 border border-emerald-200"><h4 class="font-black text-emerald-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-emerald-600">✅</span> この宿を選ぶべき人</h4><p class="text-emerald-900">「標高1,200mの冷涼な高原で森林アクティビティと温泉プールを楽しみ、草津の名湯温泉に浸かりたい家族連れ」に完璧です。</p></div>
+<div class="p-4 rounded-xl bg-teal-50/60 border border-teal-200"><h4 class="font-black text-teal-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-teal-600">🛁</span> この宿でしか得られない特別な宿泊体験（本音レビュー）</h4><p class="text-stone-800 leading-relaxed">草津温泉の豊かな森林に囲まれた滞在型リゾート。広大な敷地内にはテニスやボウリング、温泉プール「テルメテルメ」があり一日中遊び尽くせます。大浴場では湯畑源泉や万代鉱源泉の強酸性名湯を源泉かけ流しで堪能でき、高原の爽快な秋風に吹かれながらの露天風呂は格別の心地よさです。</p></div>
+<div class="grid grid-cols-1 md:grid-cols-2 gap-3"><div class="p-3.5 rounded-xl bg-stone-50 border border-stone-200"><h5 class="font-bold text-stone-900 text-xs mb-1">🛏️ おすすめ客室タイプ</h5><p class="text-stone-600">「タワー館 和洋室 / 森林ログコテージ」（木々に囲まれた客室）</p></div><div class="p-3.5 rounded-xl bg-stone-50 border border-stone-200"><h5 class="font-bold text-stone-900 text-xs mb-1">🍽️ おすすめ夕食プラン</h5><p class="text-stone-600">「秋の味覚！上州牛ステーキ＆高原バイキングディナープラン」</p></div></div>
+<div class="p-4 rounded-xl bg-sky-50/70 border border-sky-200"><h4 class="font-black text-sky-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-sky-600">🗺️</span> 交通アクセス＆おすすめ1泊2日タイムスケジュール</h4><p class="text-stone-700 mb-2"><strong>【アクセス】</strong>草津温泉バスターミナルより無料送迎バス約5分。関越道「渋川伊香保IC」より車約80分。</p><p class="text-stone-700"><strong>【滞在プラン】</strong>【1日目】15:00チェックイン → 15:30テルメテルメ温泉プール → 17:30草津名湯露天風呂 → 18:30バイキングディナー【2日目】07:30朝風呂 → 08:30朝食バイキング → 10:00草津湯畑散策へ出発</p></div>
+<div class="p-3.5 rounded-xl bg-rose-50/70 border border-rose-200"><h4 class="font-black text-rose-950 text-xs mb-1 flex items-center gap-1.5"><span class="text-rose-600">⚠️</span> 逆に向いていない人</h4><p class="text-rose-900">静かな大人の隠れ宿のみを好む方。</p></div>
+<div class="p-4 rounded-xl bg-gradient-to-r from-emerald-600/10 via-teal-600/10 to-emerald-600/10 border-2 border-emerald-300"><h4 class="font-black text-emerald-950 text-xs mb-1 flex items-center gap-1.5"><span class="text-emerald-600">💡</span> 編集部の結論：「だから、この旅行ならここ」</h4><p class="text-emerald-950 font-bold">標高1200m草津森林リゾート×テルメテルメ温泉プール×名湯湯巡り×楽天4.36。連休の家族旅行に間違いなしの宿です。</p></div>
+</div>
+<div class="mt-6 pt-5 border-t border-emerald-100 flex flex-col md:flex-row items-center justify-between gap-3"><div class="text-center md:text-left"><span class="text-[11px] text-stone-500 block">※草津バスターミナル無料送迎あり</span><span class="text-xs font-black text-emerald-800">テルメテルメ完備の森林宿</span></div><a href="{make_aff_url(5270)}" target="_blank" rel="noopener noreferrer" class="w-full md:w-auto px-8 py-4 bg-gradient-to-r from-emerald-600 via-teal-600 to-emerald-700 hover:from-emerald-700 hover:to-teal-700 text-white font-extrabold text-xs md:text-sm rounded-2xl shadow-lg hover:shadow-xl hover:scale-105 transition transform text-center inline-flex items-center justify-center gap-2"><span>✈️ 【公式】草津温泉 ホテルヴィレッジの空室・最安プランを見る</span></a></div>
+</div>''')
+
+# 宿8: 清里高原リゾート
+review_parts.append(f'''<div class="my-12 p-6 md:p-8 rounded-3xl bg-white border-2 border-emerald-200 shadow-xl hover:shadow-2xl transition duration-300">
+<div class="flex flex-wrap items-center justify-between border-b border-emerald-100 pb-4 mb-4 gap-2"><div class="flex items-center gap-3"><span class="px-3.5 py-1.5 bg-gradient-to-r from-emerald-600 to-teal-600 text-white font-black text-xs rounded-xl shadow-sm">第8位</span><h3 class="text-lg md:text-xl font-extrabold text-stone-900">山梨 清里高原 清里高原リゾート（旧：清里高原ホテル）</h3></div><div class="flex items-center gap-2"><span class="text-xs text-stone-500 font-bold">📍 山梨県北杜市高根町清里3545</span><span class="px-3 py-1 bg-emerald-50 text-emerald-800 border border-emerald-300 font-black text-xs rounded-full shadow-sm">⭐ 4.22</span></div></div>
+<div class="mb-5 p-4 rounded-2xl bg-gradient-to-r from-emerald-50 to-teal-50 border border-emerald-200"><h4 class="font-black text-emerald-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-emerald-600">⛰️</span> 高原リゾート体験：標高1,470m！大型天体望遠鏡で満天の星空観測＆富士山・南アルプス望む展望露天風呂</h4><p class="text-xs text-stone-700 leading-relaxed">「標高1,470mの圧倒的パノラマ絶景が広がる清里高原の頂で、富士山や南アルプスを望む露天風呂に入り、毎夜開催の天体ドーム星空観測会に参加したい」という星空ファンに大人気です。</p></div>
+<div class="mb-6 relative rounded-2xl overflow-hidden shadow-md group"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/28379/28379.jpg" alt="清里高原リゾート" class="w-full h-72 md:h-96 object-cover group-hover:scale-105 transition duration-500" loading="lazy" /><div class="absolute bottom-3 right-3 bg-stone-900/80 backdrop-blur text-white text-[11px] font-bold px-3 py-1 rounded-lg">公式提供写真</div></div>
+<div class="mb-6 p-4 rounded-2xl bg-stone-900 text-emerald-300 text-xs font-mono grid grid-cols-1 md:grid-cols-2 gap-2.5 shadow-inner"><div><span class="text-stone-400">■ 標高1,470mの最高峰立地:</span> 富士山・南アルプス・秩父連山を一望</div><div><span class="text-stone-400">■ 本格天体ドーム観測会:</span> 口径40cm大型望遠鏡で毎夜星空案内</div><div><span class="text-stone-400">■ 樹樹の湯 展望露天風呂:</span> 澄み切った秋風と森を望む温泉露天</div><div><span class="text-stone-400">■ 高原フレンチ＆和食会席:</span> 甲州ワインビーフと八ヶ岳高原野菜</div><div class="md:col-span-2"><span class="text-stone-400">■ 特徴:</span> JR清里駅無料送迎あり＋1泊8,000円台〜＋楽天4.22</div></div>
+<div class="space-y-4 text-xs text-stone-700 leading-relaxed">
+<div class="p-4 rounded-xl bg-emerald-50/70 border border-emerald-200"><h4 class="font-black text-emerald-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-emerald-600">✅</span> この宿を選ぶべき人</h4><p class="text-emerald-900">「標高1,470mの澄んだ夜空で満天の星空観測を体験し、富士山パノラマ露天風呂を満喫したい方」に完璧です。</p></div>
+<div class="p-4 rounded-xl bg-teal-50/60 border border-teal-200"><h4 class="font-black text-teal-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-teal-600">🛁</span> この宿でしか得られない特別な宿泊体験（本音レビュー）</h4><p class="text-stone-800 leading-relaxed">清里高原の最も高い場所に建つ絶景リゾートホテル。館内4階には本格的な天文台ドームがあり、専門スタッフの案内で土星の環や星雲を大型望遠鏡で観測できる体験は大感動。展望露天風呂「樹樹の湯」からは秋の紅葉と山並みが広がり、心洗われる高原ステイが叶います。</p></div>
+<div class="grid grid-cols-1 md:grid-cols-2 gap-3"><div class="p-3.5 rounded-xl bg-stone-50 border border-stone-200"><h5 class="font-bold text-stone-900 text-xs mb-1">🛏️ おすすめ客室タイプ</h5><p class="text-stone-600">「富士山ビュー ツイン / 和洋室」（窓から富士山を望む絶景客室）</p></div><div class="p-3.5 rounded-xl bg-stone-50 border border-stone-200"><h5 class="font-bold text-stone-900 text-xs mb-1">🍽️ おすすめ夕食プラン</h5><p class="text-stone-600">「八ヶ岳高原フレンチディナー＆星空観察会付プラン」</p></div></div>
+<div class="p-4 rounded-xl bg-sky-50/70 border border-sky-200"><h4 class="font-black text-sky-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-sky-600">🗺️</span> 交通アクセス＆おすすめ1泊2日タイムスケジュール</h4><p class="text-stone-700 mb-2"><strong>【アクセス】</strong>JR小海線「清里駅」より車約5分（無料送迎あり）。中央道「須玉IC」より車約30分。</p><p class="text-stone-700"><strong>【滞在プラン】</strong>【1日目】15:00チェックイン → 16:00富士山展望露天風呂 → 18:30高原フレンチディナー → 20:00天文台星空観察会【2日目】07:00朝風呂（富士山の朝焼け） → 08:00朝食 → 09:30清泉寮・萌木の村へ出発</p></div>
+<div class="p-3.5 rounded-xl bg-rose-50/70 border border-rose-200"><h4 class="font-black text-rose-950 text-xs mb-1 flex items-center gap-1.5"><span class="text-rose-600">⚠️</span> 逆に向いていない人</h4><p class="text-rose-900">雨天時の星空が見えない可能性を許容できない方。</p></div>
+<div class="p-4 rounded-xl bg-gradient-to-r from-emerald-600/10 via-teal-600/10 to-emerald-600/10 border-2 border-emerald-300"><h4 class="font-black text-emerald-950 text-xs mb-1 flex items-center gap-1.5"><span class="text-emerald-600">💡</span> 編集部の結論：「だから、この旅行ならここ」</h4><p class="text-emerald-950 font-bold">標高1470m星空天文台×富士山パノラマ露天×高原フレンチ×楽天4.22。清里で最も星空に近い絶景ホテルです。</p></div>
+</div>
+<div class="mt-6 pt-5 border-t border-emerald-100 flex flex-col md:flex-row items-center justify-between gap-3"><div class="text-center md:text-left"><span class="text-[11px] text-stone-500 block">※清里駅より無料送迎あり・天文台完備</span><span class="text-xs font-black text-emerald-800">標高1,470mの星空ホテル</span></div><a href="{make_aff_url(28379)}" target="_blank" rel="noopener noreferrer" class="w-full md:w-auto px-8 py-4 bg-gradient-to-r from-emerald-600 via-teal-600 to-emerald-700 hover:from-emerald-700 hover:to-teal-700 text-white font-extrabold text-xs md:text-sm rounded-2xl shadow-lg hover:shadow-xl hover:scale-105 transition transform text-center inline-flex items-center justify-center gap-2"><span>✈️ 【公式】清里高原リゾートの空室・最安プランを見る</span></a></div>
+</div>''')
+
+# 宿9: ヒルトンニセコビレッジ
+review_parts.append(f'''<div class="my-12 p-6 md:p-8 rounded-3xl bg-white border-2 border-emerald-200 shadow-xl hover:shadow-2xl transition duration-300">
+<div class="flex flex-wrap items-center justify-between border-b border-emerald-100 pb-4 mb-4 gap-2"><div class="flex items-center gap-3"><span class="px-3.5 py-1.5 bg-gradient-to-r from-emerald-600 to-teal-600 text-white font-black text-xs rounded-xl shadow-sm">第9位</span><h3 class="text-lg md:text-xl font-extrabold text-stone-900">北海道 ニセコ ヒルトンニセコビレッジ</h3></div><div class="flex items-center gap-2"><span class="text-xs text-stone-500 font-bold">📍 北海道虻田郡ニセコ町東山温泉</span><span class="px-3 py-1 bg-emerald-50 text-emerald-800 border border-emerald-300 font-black text-xs rounded-full shadow-sm">⭐ 4.22</span></div></div>
+<div class="mb-5 p-4 rounded-2xl bg-gradient-to-r from-emerald-50 to-teal-50 border border-emerald-200"><h4 class="font-black text-emerald-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-emerald-600">⛰️</span> 高原リゾート体験：羊蹄山パノラマを望む巨大池直結の絶景露天風呂＆北海道グリル（抜群コスパ）</h4><p class="text-xs text-stone-700 leading-relaxed">「北海道・ニセコの雄大な蝦夷富士・羊蹄山を目の前に望む巨大露天風呂に浸かり、広大なゴルフやアウトドアアクティビティ、北海道食材グリルを満喫したい」という大自然トリップに最適です。</p></div>
+<div class="mb-6 relative rounded-2xl overflow-hidden shadow-md group"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/20607/20607.jpg" alt="ヒルトンニセコビレッジ" class="w-full h-72 md:h-96 object-cover group-hover:scale-105 transition duration-500" loading="lazy" /><div class="absolute bottom-3 right-3 bg-stone-900/80 backdrop-blur text-white text-[11px] font-bold px-3 py-1 rounded-lg">公式提供写真</div></div>
+<div class="mb-6 p-4 rounded-2xl bg-stone-900 text-emerald-300 text-xs font-mono grid grid-cols-1 md:grid-cols-2 gap-2.5 shadow-inner"><div><span class="text-stone-400">■ 羊蹄山ビュー絶景露天:</span> 巨大な池と一体化した源泉かけ流し温泉</div><div><span class="text-stone-400">■ ニセコビレッジ直結:</span> ツリートレッキング・ジップライン・ゴルフ</div><div><span class="text-stone-400">■ 北海道グリルディナー:</span> 道産牛ステーキ・新鮮魚介ビュッフェ</div><div><span class="text-stone-400">■ ヒルトンブランドの快適性:</span> 広々とした客室と充実のスパ</div><div class="md:col-span-2"><span class="text-stone-400">■ 特徴:</span> 倶知安駅無料シャトルバス運行＋1泊4,000円台〜の抜群コスパ</div></div>
+<div class="space-y-4 text-xs text-stone-700 leading-relaxed">
+<div class="p-4 rounded-xl bg-emerald-50/70 border border-emerald-200"><h4 class="font-black text-emerald-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-emerald-600">✅</span> この宿を選ぶべき人</h4><p class="text-emerald-900">「北海道ニセコの羊蹄山を望む大露天風呂に入り、国際的リゾートの快適空間を抜群のコスパで楽しみたい方」に完璧です。</p></div>
+<div class="p-4 rounded-xl bg-teal-50/60 border border-teal-200"><h4 class="font-black text-teal-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-teal-600">🛁</span> この宿でしか得られない特別な宿泊体験（本音レビュー）</h4><p class="text-stone-800 leading-relaxed">ニセコアンヌプリの麓に広がる世界的プレミアムリゾート。自慢の露天風呂は大きな池のほとりに位置し、湯船に浸かると目の前に羊蹄山の雄大な稜線が広がる圧巻のスケール。秋のシルバーウィークは紅葉が始まり気候も爽快。ヒルトンならではの洗練されたホスピタリティと北海道グルメを心ゆくまで満喫できます。</p></div>
+<div class="grid grid-cols-1 md:grid-cols-2 gap-3"><div class="p-3.5 rounded-xl bg-stone-50 border border-stone-200"><h5 class="font-bold text-stone-900 text-xs mb-1">🛏️ おすすめ客室タイプ</h5><p class="text-stone-600">「羊蹄山ビュー デラックスルーム / パノラマツイン」</p></div><div class="p-3.5 rounded-xl bg-stone-50 border border-stone-200"><h5 class="font-bold text-stone-900 text-xs mb-1">🍽️ おすすめ夕食プラン</h5><p class="text-stone-600">「北海道冬の先取り！道産牛ステーキ＆海鮮ディナープラン」</p></div></div>
+<div class="p-4 rounded-xl bg-sky-50/70 border border-sky-200"><h4 class="font-black text-sky-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-sky-600">🗺️</span> 交通アクセス＆おすすめ1泊2日タイムスケジュール</h4><p class="text-stone-700 mb-2"><strong>【アクセス】</strong>JR「倶知安駅」より無料シャトルバス約25分。新千歳空港より車約120分。</p><p class="text-stone-700"><strong>【滞在プラン】</strong>【1日目】15:00チェックイン → 15:30羊蹄山ビュー絶景露天風呂 → 18:30北海道グリルディナー【2日目】07:30朝風呂 → 08:30朝食ビュッフェ → 10:00神仙沼・ニセコパノラマラインドライブへ</p></div>
+<div class="p-3.5 rounded-xl bg-rose-50/70 border border-rose-200"><h4 class="font-black text-rose-950 text-xs mb-1 flex items-center gap-1.5"><span class="text-rose-600">⚠️</span> 逆に向いていない人</h4><p class="text-rose-900">和風旅館の小上がりや畳の部屋のみを好む方。</p></div>
+<div class="p-4 rounded-xl bg-gradient-to-r from-emerald-600/10 via-teal-600/10 to-emerald-600/10 border-2 border-emerald-300"><h4 class="font-black text-emerald-950 text-xs mb-1 flex items-center gap-1.5"><span class="text-emerald-600">💡</span> 編集部の結論：「だから、この旅行ならここ」</h4><p class="text-emerald-950 font-bold">羊蹄山ビュー絶景露天×ニセコビレッジ直結×1泊4,000円台〜の抜群コスパ。北海道の雄大さを味わうリゾートです。</p></div>
+</div>
+<div class="mt-6 pt-5 border-t border-emerald-100 flex flex-col md:flex-row items-center justify-between gap-3"><div class="text-center md:text-left"><span class="text-[11px] text-stone-500 block">※倶知安駅より無料シャトルバス運行</span><span class="text-xs font-black text-emerald-800">羊蹄山を望む国際派リゾート</span></div><a href="{make_aff_url(20607)}" target="_blank" rel="noopener noreferrer" class="w-full md:w-auto px-8 py-4 bg-gradient-to-r from-emerald-600 via-teal-600 to-emerald-700 hover:from-emerald-700 hover:to-teal-700 text-white font-extrabold text-xs md:text-sm rounded-2xl shadow-lg hover:shadow-xl hover:scale-105 transition transform text-center inline-flex items-center justify-center gap-2"><span>✈️ 【公式】ヒルトンニセコビレッジの空室・最安プランを見る</span></a></div>
+</div>''')
+
+# 宿10: ホテルサンバレー那須
+review_parts.append(f'''<div class="my-12 p-6 md:p-8 rounded-3xl bg-white border-2 border-emerald-200 shadow-xl hover:shadow-2xl transition duration-300">
+<div class="flex flex-wrap items-center justify-between border-b border-emerald-100 pb-4 mb-4 gap-2"><div class="flex items-center gap-3"><span class="px-3.5 py-1.5 bg-gradient-to-r from-emerald-600 to-teal-600 text-white font-black text-xs rounded-xl shadow-sm">第10位</span><h3 class="text-lg md:text-xl font-extrabold text-stone-900">栃木 那須高原 那須温泉 ホテルサンバレー那須</h3></div><div class="flex items-center gap-2"><span class="text-xs text-stone-500 font-bold">📍 栃木県那須郡那須町湯本203</span><span class="px-3 py-1 bg-emerald-50 text-emerald-800 border border-emerald-300 font-black text-xs rounded-full shadow-sm">⭐ 4.20</span></div></div>
+<div class="mb-5 p-4 rounded-2xl bg-gradient-to-r from-emerald-50 to-teal-50 border border-emerald-200"><h4 class="font-black text-emerald-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-emerald-600">⛰️</span> 高原リゾート体験：3種の泉質湯巡り「湯遊天国」＆秋の味覚プレミアムバイキング</h4><p class="text-xs text-stone-700 leading-relaxed">「那須温泉街の豊かな森に点在するリゾートで、硫黄泉・弱アルカリ泉・マグネシウム泉の3種の泉質を誇る『湯遊天国』で湯巡りし、和洋中バイキングを満喫したい」という温泉好きファミリーに大人気です。</p></div>
+<div class="mb-6 relative rounded-2xl overflow-hidden shadow-md group"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/20574/20574.jpg" alt="ホテルサンバレー那須" class="w-full h-72 md:h-96 object-cover group-hover:scale-105 transition duration-500" loading="lazy" /><div class="absolute bottom-3 right-3 bg-stone-900/80 backdrop-blur text-white text-[11px] font-bold px-3 py-1 rounded-lg">公式提供写真</div></div>
+<div class="mb-6 p-4 rounded-2xl bg-stone-900 text-emerald-300 text-xs font-mono grid grid-cols-1 md:grid-cols-2 gap-2.5 shadow-inner"><div><span class="text-stone-400">■ 3種の泉質「湯遊天国」:</span> 硫黄泉・弱アルカリ泉・マグネシウム泉</div><div><span class="text-stone-400">■ 屋外温泉プール「アクアヴィーナス」:</span> 水着で楽しめる温泉スパ</div><div><span class="text-stone-400">■ 和洋中ライブバイキング:</span> 那須和牛ステーキ・握り寿司・中華</div><div><span class="text-stone-400">■ 多彩な宿泊館:</span> 本館・オリエンタルガーデン・フォレストヴィラ</div><div class="md:col-span-2"><span class="text-stone-400">■ 特徴:</span> 那須塩原駅無料送迎あり＋1泊1万円前後〜＋楽天4.20</div></div>
+<div class="space-y-4 text-xs text-stone-700 leading-relaxed">
+<div class="p-4 rounded-xl bg-emerald-50/70 border border-emerald-200"><h4 class="font-black text-emerald-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-emerald-600">✅</span> この宿を選ぶべき人</h4><p class="text-emerald-900">「異なる3つの泉質を徹底的に湯巡りし、種類豊富なバイキングを家族みんなで楽しみたい温泉ファン」に最適です。</p></div>
+<div class="p-4 rounded-xl bg-teal-50/60 border border-teal-200"><h4 class="font-black text-teal-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-teal-600">🛁</span> この宿でしか得られない特別な宿泊体験（本音レビュー）</h4><p class="text-stone-800 leading-relaxed">那須高原に広がる大型温泉リゾート。名物の「湯遊天国」は白濁の硫黄泉や美肌の弱アルカリ泉など3つの異なる泉質が一度に楽しめ、那須の秋風に吹かれながら露天風呂を巡る贅沢を味わえます。夕食バイキングは各館ごとに趣向を凝らした本格和洋中が揃い、連休のグループ旅行にも最適です。</p></div>
+<div class="grid grid-cols-1 md:grid-cols-2 gap-3"><div class="p-3.5 rounded-xl bg-stone-50 border border-stone-200"><h5 class="font-bold text-stone-900 text-xs mb-1">🛏️ おすすめ客室タイプ</h5><p class="text-stone-600">「オリエンタルガーデン 和洋室 / フォレストヴィラ 和室」</p></div><div class="p-3.5 rounded-xl bg-stone-50 border border-stone-200"><h5 class="font-bold text-stone-900 text-xs mb-1">🍽️ おすすめ夕食プラン</h5><p class="text-stone-600">「秋の味覚満載！和洋中プレミアムディナーバイキングプラン」</p></div></div>
+<div class="p-4 rounded-xl bg-sky-50/70 border border-sky-200"><h4 class="font-black text-sky-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-sky-600">🗺️</span> 交通アクセス＆おすすめ1泊2日タイムスケジュール</h4><p class="text-stone-700 mb-2"><strong>【アクセス】</strong>JR東北新幹線「那須塩原駅」より無料送迎シャトルバス約35分。東北道「那須IC」より車約15分。</p><p class="text-stone-700"><strong>【滞在プラン】</strong>【1日目】15:00チェックイン → 15:30湯遊天国で3種泉質湯巡り → 18:00バイキングディナー【2日目】07:30朝風呂 → 08:30朝食バイキング → 10:00殺生石・茶臼岳ロープウェイへ出発</p></div>
+<div class="p-3.5 rounded-xl bg-rose-50/70 border border-rose-200"><h4 class="font-black text-rose-950 text-xs mb-1 flex items-center gap-1.5"><span class="text-rose-600">⚠️</span> 逆に向いていない人</h4><p class="text-rose-900">静寂な個室会席のみを好む方。</p></div>
+<div class="p-4 rounded-xl bg-gradient-to-r from-emerald-600/10 via-teal-600/10 to-emerald-600/10 border-2 border-emerald-300"><h4 class="font-black text-emerald-950 text-xs mb-1 flex items-center gap-1.5"><span class="text-emerald-600">💡</span> 編集部の結論：「だから、この旅行ならここ」</h4><p class="text-emerald-950 font-bold">3種の泉質湯遊天国×和洋中バイキング×那須高原の中心立地×楽天4.20。那須温泉の王道リゾートホテルです。</p></div>
+</div>
+<div class="mt-6 pt-5 border-t border-emerald-100 flex flex-col md:flex-row items-center justify-between gap-3"><div class="text-center md:text-left"><span class="text-[11px] text-stone-500 block">※那須塩原駅より無料送迎あり</span><span class="text-xs font-black text-emerald-800">3種泉質湯巡りの宿</span></div><a href="{make_aff_url(20574)}" target="_blank" rel="noopener noreferrer" class="w-full md:w-auto px-8 py-4 bg-gradient-to-r from-emerald-600 via-teal-600 to-emerald-700 hover:from-emerald-700 hover:to-teal-700 text-white font-extrabold text-xs md:text-sm rounded-2xl shadow-lg hover:shadow-xl hover:scale-105 transition transform text-center inline-flex items-center justify-center gap-2"><span>✈️ 【公式】ホテルサンバレー那須の空室・最安プランを見る</span></a></div>
+</div>''')
+
+# FAQ・関連記事ナビ
+review_parts.append('''<h2 class="text-xl font-bold text-stone-900 border-b-2 border-emerald-500 pb-2 my-8">💡 シルバーウィーク高原リゾートに関するよくある質問（FAQ）</h2>
+<div class="space-y-4 my-6">
+  <div class="p-5 rounded-2xl bg-white border border-stone-200 shadow-sm space-y-2">
+    <h4 class="text-sm font-bold text-stone-900 flex items-center gap-2">
+      <span class="px-2 py-0.5 bg-emerald-600 text-white text-xs font-black rounded-md">Q</span>
+      シルバーウィーク（9月中旬〜下旬）の標高1000m高原の気温と服装は？
+    </h4>
+    <p class="text-xs text-stone-700 leading-relaxed pl-6 border-l-2 border-emerald-200">
+      <span class="font-bold text-emerald-700">A.</span> 標高1,000mの高原（軽井沢・蓼科・八ヶ岳・那須など）は日中20℃前後で爽やかですが、<strong>朝晩は10℃〜15℃前後まで気温が下がります</strong>。半袖だけでなく、<strong>「カーディガンやパーカー、薄手のウインドブレーカー」</strong>などの羽織りものを必ずご持参ください。
+    </p>
+  </div>
+
+  <div class="p-5 rounded-2xl bg-white border border-stone-200 shadow-sm space-y-2">
+    <h4 class="text-sm font-bold text-stone-900 flex items-center gap-2">
+      <span class="px-2 py-0.5 bg-emerald-600 text-white text-xs font-black rounded-md">Q</span>
+      シルバーウィークの予約はいつ頃から埋まりやすい？
+    </h4>
+    <p class="text-xs text-stone-700 leading-relaxed pl-6 border-l-2 border-emerald-200">
+      <span class="font-bold text-emerald-700">A.</span> 9月の連休は年間でも特に人気の旅行シーズンのため、<strong>「2〜3ヶ月前（6月〜7月）」</strong>から露天風呂付き客室やファミリー向け客室を中心に満室が出始めます。直前でもキャンセル等で空室が出る場合があるため、楽天トラベルの最新空室カレンダーをこまめにチェックするのがおすすめです。
+    </p>
+  </div>
+
+  <div class="p-5 rounded-2xl bg-white border border-stone-200 shadow-sm space-y-2">
+    <h4 class="text-sm font-bold text-stone-900 flex items-center gap-2">
+      <span class="px-2 py-0.5 bg-emerald-600 text-white text-xs font-black rounded-md">Q</span>
+      高原リゾートでの星空観測のベストな時間帯やコツは？
+    </h4>
+    <p class="text-xs text-stone-700 leading-relaxed pl-6 border-l-2 border-emerald-200">
+      <span class="font-bold text-emerald-700">A.</span> 日没から1〜2時間経過した<strong>「20時〜22時頃」</strong>が空が完全に暗くなり最も星が見えやすい時間帯です。月明かりが少ない新月前後の夜は天の川まで肉眼で確認できます。屋外テラスでの観測時は防寒着を着用してください。
+    </p>
+  </div>
+</div>
+
+<div class="my-10 p-6 rounded-3xl bg-stone-50 border border-stone-200/90 shadow-sm">
+  <div class="flex items-center gap-2 mb-3 border-b border-stone-200 pb-2">
+    <span class="px-2.5 py-0.5 bg-stone-800 text-white font-black text-xs rounded-md">旅行ナレッジ</span>
+    <h3 class="text-sm font-bold text-stone-900">📍 シルバーウィーク高原リゾート 宿泊エリアガイド＆旅行情報</h3>
+  </div>
+  <p class="text-xs text-stone-600 leading-relaxed">
+    当ガイドでは、<strong>日本全国の秋風爽やかな標高1,000m高原リゾート＆絶景パノラマ露天風呂ホテル（長野軽井沢・蓼科、山梨八ヶ岳・清里、福島裏磐梯、栃木那須、熊本阿蘇、群馬草津、北海道ニセコ）</strong>を厳選してご紹介しています。
+    楽天トラベルの最新空室状況・限定宿泊プラン・リアルタイムクチコミ評価と直結しており、失敗しないホテル選びをサポートします。
+  </p>
+  <div class="mt-4 pt-3 border-t border-stone-200 flex flex-wrap gap-2 text-2xs text-stone-500">
+    <span class="px-2 py-1 bg-white border border-stone-200 rounded-md">エリア: 全国（長野・山梨・福島・栃木・熊本・群馬・北海道）</span>
+    <span class="px-2 py-1 bg-white border border-stone-200 rounded-md">テーマ: シルバーウィーク・高原リゾート・パノラマ露天風呂・浅間山・八ヶ岳・那須高原・裏磐梯・星空観測</span>
+    <span class="px-2 py-1 bg-white border border-stone-200 rounded-md">更新日: 2026年最新版</span>
+    <span class="px-2 py-1 bg-white border border-stone-200 rounded-md">即時予約・公式連携</span>
+  </div>
+</div>
+
+<div class="my-12 p-6 md:p-8 rounded-3xl bg-gradient-to-br from-stone-50 via-emerald-50/40 to-teal-50/30 border border-emerald-200/80 shadow-md">
+  <div class="flex items-center gap-2 mb-4 border-b border-emerald-200 pb-3">
+    <span class="px-3 py-1 bg-emerald-600 text-white font-black text-xs rounded-lg">関連記事ナビ</span>
+    <h3 class="text-base md:text-lg font-bold text-stone-900">🗺️ あわせて読みたい！秋の特集＆名湯ガイド</h3>
+  </div>
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-4 my-4">
+    <div class="p-4 rounded-2xl bg-white border border-stone-200/90 shadow-sm space-y-2">
+      <h4 class="text-xs font-black text-emerald-900">💎 人気の秋絶景＆秋の味覚特集</h4>
+      <a href="/posts/susuki-grassland-autumn-view-hotels-guide" class="block p-2.5 rounded-xl bg-white hover:bg-emerald-50 border border-stone-200 text-xs font-bold text-stone-800 hover:text-emerald-700 transition">
+        👉 黄金のすすき草原が見える宿10選！比較
+      </a>
+      <a href="/posts/chestnut-montblanc-autumn-sweets-hotels-guide" class="block p-2.5 rounded-xl bg-white hover:bg-emerald-50 border border-stone-200 text-xs font-bold text-stone-800 hover:text-emerald-700 transition">
+        👉 栗尽くし・生搾りモンブランが旨い宿10選！比較
+      </a>
+      <a href="/posts/matsutake-all-you-can-eat-kaiseki-hotels-guide" class="block p-2.5 rounded-xl bg-white hover:bg-emerald-50 border border-stone-200 text-xs font-bold text-stone-800 hover:text-emerald-700 transition">
+        👉 松茸尽くし会席が旨い温泉宿10選！比較
+      </a>
+      <a href="/posts/winter-brand-tagged-crab-echizen-matsuba-onsen-hotels-guide" class="block p-2.5 rounded-xl bg-white hover:bg-emerald-50 border border-stone-200 text-xs font-bold text-stone-800 hover:text-emerald-700 transition">
+        👉 タグ付き活蟹が旨い名門温泉宿10選！比較
+      </a>
+    </div>
+    <div class="p-4 rounded-2xl bg-white border border-stone-200/90 shadow-sm space-y-2">
+      <h4 class="text-xs font-black text-teal-900">🎌 エリア別特集</h4>
+      <a href="/posts/nagano-hotels-selection-guide" class="block text-xs font-bold text-stone-800 hover:text-teal-700">🏨 【長野・軽井沢蓼科】厳選10選ガイド</a>
+      <a href="/posts/yamanashi-hotels-selection-guide" class="block text-xs font-bold text-stone-800 hover:text-teal-700">🏨 【山梨・八ヶ岳河口湖】厳選10選ガイド</a>
+      <a href="/posts/tochigi-hotels-selection-guide" class="block text-xs font-bold text-stone-800 hover:text-teal-700">🏨 【栃木・那須日光】厳選10選ガイド</a>
+      <a href="/posts/fukushima-hotels-selection-guide" class="block text-xs font-bold text-stone-800 hover:text-teal-700">🏨 【福島・裏磐梯会津】厳選10選ガイド</a>
+    </div>
+  </div>
+</div>''')
+
+slug = 'silver-week-autumn-highland-panoramic-resort-hotels-guide'
+title = '【2026SW】秋風爽やかな高原リゾート宿10選！比較'
+desc = 'シルバーウィークは標高1000mの高原へ！軽井沢・蓼科・八ヶ岳から那須、裏磐梯、阿蘇、ニセコまで徹底比較。秋風が心地よい絶景パノラマ露天風呂と秋の高原美食を満喫できる名門ホテル10選を本音レビュー。全施設楽天公式最新空室リンク付き。'
+
+post_data = {
+    'id': slug,
+    'slug': slug,
+    'title': title,
+    'description': desc,
+    'prefecture': '全国',
+    'area': '全国（長野・山梨・福島・栃木・熊本・群馬・北海道）',
+    'hotel_name': '秋風爽やかな高原リゾート宿おすすめ10選',
+    'image': 'https://img.travel.rakuten.co.jp/share/HOTEL/167023/167023.jpg',
+    'other_images': [],
+    'affiliate_url': make_aff_url(167023),
+    'price': 22550,
+    'rating': 4.60,
+    'date': '2026-08-27',
+    'categories': [
+        '特集10選',
+        'キラーコンテンツ',
+        '後悔回避',
+        'ホテル厳選',
+        'シルバーウィーク',
+        '高原リゾート',
+        '軽井沢',
+        '那須高原'
+    ],
+    'keywords': [
+        'シルバーウィーク 高原リゾート 10選',
+        '9月連休 高原ホテル 比較',
+        'シルバーウィーク 絶景露天風呂 リゾート 宿泊',
+        '秋 高原 温泉ホテル おすすめ 比較',
+        'シルバーウィーク 軽井沢 那須 八ヶ岳 比較',
+        '高原リゾート 楽天トラベル'
+    ],
+    'is_special_feature': True,
+    'review': ''.join(review_parts)
+}
+
+target_file = f'src/data/posts/{slug}.json'
+with open(target_file, 'w', encoding='utf-8') as f:
+    json.dump(post_data, f, ensure_ascii=False, indent=2)
+
+print('Generated post file successfully:', target_file)
