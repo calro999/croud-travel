@@ -1,0 +1,341 @@
+import json
+import urllib.parse
+
+with open('scratch/villa_10_hotels.json', 'r', encoding='utf-8') as f:
+    hotels = json.load(f)
+
+aff_id = '54d2a438.4bc4abc2.54d2a439.aa1be583'
+
+def make_aff_url(no):
+    target = f'https://travel.rakuten.co.jp/HOTEL/{no}/{no}.html'
+    return f'https://hb.afl.rakuten.co.jp/hgc/{aff_id}/?pc={urllib.parse.quote(target, safe="")}'
+
+review_parts = [
+    '<h2 class="text-2xl font-bold text-stone-900 border-b-2 border-emerald-700 pb-2 mb-4">【2026年最新SW特集】全室離れ・客室露天風呂付き隠れ家温泉宿おすすめ10選！比較</h2>',
+    '<p class="text-sm text-stone-700 leading-relaxed my-3 font-medium">9月のシルバーウィーク（秋の大型連休）は、観光地の喧騒や混雑から完全に切り離された「全室離れ・客室露天風呂付きの隠れ家温泉宿」で、大切な人と誰にも邪魔されないプライベートな時間を過ごす大人のご褒美旅行が絶大な人気を集めています。蔵王連峰を望む全室離れ風の名門・楽天★5.00満点の上山（かみのやま温泉 名月荘）、自然林の静寂に抱かれた離れ露天風呂の熊本（黒川温泉 お宿のし湯）、全室自家源泉露天風呂付きと飛騨牛会席の箱根（強羅花扇）、料理の鉄人が腕を振るう佐賀牛懐石の武雄（懐石宿 扇屋）、囲炉裏個室で飛騨牛と岩魚を焼き上げる奥飛騨（隠庵ひだ路）、日本海一望の客室露天風呂と丹後ぐじの京都（奥伊根温泉 油屋別館 和亭）、由布岳パノラマを望む離れ露天風呂の大分（由布院温泉 ゆふいん花由）、那須の森に佇む木造建築と那須牛の栃木（那須高原の宿 山水閣）、6,600坪の里山に点在する離れの静岡（杜の湯 きらの里）、四万川の清流沿いに佇む全8室の群馬（四万温泉 時わすれの宿 佳元）まで、秋の味覚である松茸やブランド和牛の個室会席を堪能できる名門宿10選を本音で比較レビューします。全施設、楽天トラベル公式最新空室リンク付き。</p>',
+    '<div class="my-6 p-6 rounded-3xl bg-gradient-to-br from-emerald-950 via-stone-900 to-teal-950 text-white border border-emerald-500/30 shadow-xl p-6 md:p-8">',
+    '<h3 class="text-lg font-bold text-emerald-300 mb-3">🏡 なぜ「シルバーウィークの全室離れ・客室露天ステイ」は究極の贅沢なのか？</h3>',
+    '<p class="text-xs text-stone-200 leading-relaxed mb-3">大型連休はどうしても観光地や大浴場、食事処が混み合いますが、<strong>「客室露天風呂付き離れ」ならチェックインからチェックアウトまで他の宿泊客とほとんど顔を合わせることなく</strong>、完全なプライベート空間を満喫できます。</p>',
+    '<p class="text-xs text-stone-200 leading-relaxed mb-3">好きな時に何度でも浸かれる専用の源泉露天風呂、秋の澄んだ風と虫の音に包まれる静寂、そして<strong>「秋の味覚である松茸の土瓶蒸し・焼き松茸や、とろける最高級ブランド和牛（山形牛・飛騨牛・佐賀牛・豊後牛・但馬牛・上州牛）の部屋食・個室会席」</strong>は、日常の喧騒を忘れさせる極上の癒やしを与えてくれます。</p>',
+    '<p class="text-xs text-stone-200 leading-relaxed">ご夫婦の記念日やカップルの秋デート、自分へのご褒美旅行に、最高のプライベートステイをお選びください。</p>',
+    '</div>',
+    '<h2 class="text-xl font-bold text-stone-900 border-b border-emerald-300 pb-2 my-8">🧭 失敗しない「離れ・客室露天の隠れ宿」選び4大チェックポイント</h2>',
+    '<div class="grid grid-cols-1 md:grid-cols-2 gap-4 my-6">',
+    '<div class="p-5 rounded-2xl bg-white border-2 border-stone-200/80 shadow-sm space-y-2"><h4 class="text-sm font-extrabold text-emerald-950 flex items-center gap-2"><span class="px-2 py-0.5 bg-emerald-600 text-white text-xs font-black rounded-md">POINT</span>基準1：完全プライベートな「全室離れ・客室露天風呂」のクオリティ</h4><p class="text-xs text-stone-600 leading-relaxed">客室専用の露天風呂から山並みや自然の借景を眺められ、源泉かけ流しの名湯を満喫できるかを検証。</p></div>',
+    '<div class="p-5 rounded-2xl bg-white border-2 border-stone-200/80 shadow-sm space-y-2"><h4 class="text-sm font-extrabold text-emerald-950 flex items-center gap-2"><span class="px-2 py-0.5 bg-emerald-600 text-white text-xs font-black rounded-md">POINT</span>基準2：周囲を気にせず味わう「部屋食または完全個室会席」</h4><p class="text-xs text-stone-600 leading-relaxed">秋の松茸やA5ブランド和牛、旬の海の幸を家族やパートナーと水入らずで味わえる食事処かを重視。</p></div>',
+    '<div class="p-5 rounded-2xl bg-white border-2 border-stone-200/80 shadow-sm space-y-2"><h4 class="text-sm font-extrabold text-emerald-950 flex items-center gap-2"><span class="px-2 py-0.5 bg-emerald-600 text-white text-xs font-black rounded-md">POINT</span>基準3：大自然に囲まれた静寂のロケーションと落ち着いた空間設計</h4><p class="text-xs text-stone-600 leading-relaxed">連休の混雑から隔絶された森や渓流、山懐に位置し、静かな時間を過ごせるかをセレクト。</p></div>',
+    '<div class="p-5 rounded-2xl bg-white border-2 border-stone-200/80 shadow-sm space-y-2"><h4 class="text-sm font-extrabold text-emerald-950 flex items-center gap-2"><span class="px-2 py-0.5 bg-emerald-600 text-white text-xs font-black rounded-md">POINT</span>基準4：楽天トラベルクチコミ評価の圧倒的高さ（4.5〜5.0）</h4><p class="text-xs text-stone-600 leading-relaxed">実際に宿泊した旅行者から「接客もお風呂も食事も完璧」「人生最高の宿」と絶賛される宿を厳選。</p></div>',
+    '</div>',
+    '<h2 class="text-xl font-bold text-stone-900 border-b border-emerald-300 pb-2 my-8">📊 全室離れ・客室露天の隠れ宿おすすめ10選のスペック比較一覧表</h2>',
+    '<div class="my-6 overflow-x-auto rounded-2xl border border-stone-300 shadow-sm"><table class="w-full text-left text-xs text-stone-700 bg-white"><thead class="bg-stone-900 text-emerald-300 font-bold border-b border-stone-300"><tr><th class="p-3">順位・宿名</th><th class="p-3">所在地</th><th class="p-3">離れ客室・露天風呂</th><th class="p-3">秋の美食会席スタイル</th><th class="p-3">プライベート感</th><th class="p-3">クチコミ</th></tr></thead><tbody class="divide-y divide-stone-200">',
+    '<tr class="hover:bg-emerald-50/50"><td class="p-3 font-bold text-stone-900">第1位 かみのやま温泉 名月荘</td><td class="p-3">山形 かみのやま</td><td class="p-3 font-bold text-emerald-800">全室離れ風客室・蔵王連峰パノラマ露天</td><td class="p-3 font-bold text-stone-800">お部屋食 山形牛ステーキ＆松茸懐石</td><td class="p-3">約4,000坪にわずか20室の贅沢</td><td class="p-3 font-bold text-emerald-800">⭐ 5.00</td></tr>',
+    '<tr class="hover:bg-emerald-50/50"><td class="p-3 font-bold text-stone-900">第2位 黒川温泉 お宿のし湯</td><td class="p-3">熊本 黒川温泉</td><td class="p-3 font-bold text-emerald-800">自然林に佇む離れ客室・専用露天</td><td class="p-3 font-bold text-stone-800">個室食事処 肥後あか牛炭火焼き会席</td><td class="p-3">雑木林に溶け込む大人の隠れ宿</td><td class="p-3 font-bold text-emerald-800">⭐ 4.83</td></tr>',
+    '<tr class="hover:bg-emerald-50/50"><td class="p-3 font-bold text-stone-900">第3位 強羅温泉 強羅花扇</td><td class="p-3">神奈川 箱根強羅</td><td class="p-3 font-bold text-emerald-800">全室自家源泉客室露天風呂付き</td><td class="p-3 font-bold text-stone-800">個室ダイニング A5最高級飛騨牛懐石</td><td class="p-3">神代欅薫る千本格子の木造回廊</td><td class="p-3 font-bold text-emerald-800">⭐ 4.78</td></tr>',
+    '<tr class="hover:bg-emerald-50/50"><td class="p-3 font-bold text-stone-900">第4位 武雄温泉 懐石宿 扇屋</td><td class="p-3">佐賀 武雄温泉</td><td class="p-3 font-bold text-emerald-800">露天風呂付き離れ客室「杉の間」</td><td class="p-3 font-bold text-stone-800">お部屋食 料理の鉄人特選佐賀牛懐石</td><td class="p-3">料理長が腕を振るう美食の隠れ宿</td><td class="p-3 font-bold text-emerald-800">⭐ 4.78</td></tr>',
+    '<tr class="hover:bg-emerald-50/50"><td class="p-3 font-bold text-stone-900">第5位 隠庵ひだ路</td><td class="p-3">岐阜 奥飛騨温泉郷</td><td class="p-3 font-bold text-emerald-800">全室露天風呂付き離れ（総檜・岩）</td><td class="p-3 font-bold text-stone-800">完全個室 囲炉裏飛騨牛＆岩魚炭火焼き</td><td class="p-3">奥飛騨の山懐に佇む全12室の宿</td><td class="p-3 font-bold text-emerald-800">⭐ 4.75</td></tr>',
+    '<tr class="hover:bg-emerald-50/50"><td class="p-3 font-bold text-stone-900">第6位 奥伊根温泉 油屋別館 和亭</td><td class="p-3">京都 奥伊根</td><td class="p-3 font-bold text-emerald-800">全室日本海一望の客室露天風呂</td><td class="p-3 font-bold text-stone-800">お部屋食 丹後ぐじ・但馬牛・舟盛り</td><td class="p-3">高台から海を見下ろす大人の宿</td><td class="p-3 font-bold text-emerald-800">⭐ 4.73</td></tr>',
+    '<tr class="hover:bg-emerald-50/50"><td class="p-3 font-bold text-stone-900">第7位 由布院温泉 ゆふいん花由</td><td class="p-3">大分 由布院温泉</td><td class="p-3 font-bold text-emerald-800">全室離れ 由布岳パノラマ客室露天風呂</td><td class="p-3 font-bold text-stone-800">個室ダイニング 豊後牛ステーキ会席</td><td class="p-3">朝霧と由布岳を見晴らす絶景高台</td><td class="p-3 font-bold text-emerald-800">⭐ 4.69</td></tr>',
+    '<tr class="hover:bg-emerald-50/50"><td class="p-3 font-bold text-stone-900">第8位 那須高原の宿 山水閣</td><td class="p-3">栃木 那須高原</td><td class="p-3 font-bold text-emerald-800">木造建築の離れ客室・貸切風呂</td><td class="p-3 font-bold text-stone-800">個室食事処 那須黒毛和牛豆乳しゃぶ</td><td class="p-3">那須の御用邸に隣接する深い森</td><td class="p-3 font-bold text-emerald-800">⭐ 4.61</td></tr>',
+    '<tr class="hover:bg-emerald-50/50"><td class="p-3 font-bold text-stone-900">第9位 杜の湯 きらの里</td><td class="p-3">静岡 伊豆高原</td><td class="p-3 font-bold text-emerald-800">離れ「竹ぶえ」客室露天風呂</td><td class="p-3 font-bold text-stone-800">選べる食事処 海鮮しゃぶ / 肉炭火焼き</td><td class="p-3">6,600坪の里山に広がる癒やしの村</td><td class="p-3 font-bold text-emerald-800">⭐ 4.57</td></tr>',
+    '<tr class="hover:bg-emerald-50/50"><td class="p-3 font-bold text-stone-900">第10位 四万温泉 時わすれの宿 佳元</td><td class="p-3">群馬 四万温泉</td><td class="p-3 font-bold text-emerald-800">四万川を望む客室露天風呂（全8室）</td><td class="p-3 font-bold text-stone-800">個室食事処 上州牛＆全国地酒ペアリング</td><td class="p-3">川のせせらぎに包まれる隠れ宿</td><td class="p-3 font-bold text-emerald-800">⭐ 4.31</td></tr>',
+    '</tbody></table></div>',
+    '<h2 class="text-xl font-bold text-stone-900 border-b-2 border-emerald-700 pb-2 my-8">🏆 【徹底検証】全室離れ・客室露天の隠れ宿おすすめ10選の本音レビュー</h2>'
+]
+
+# 宿1: 名月荘
+review_parts.append(f'''<div class="my-12 p-6 md:p-8 rounded-3xl bg-white border-2 border-emerald-200 shadow-xl hover:shadow-2xl transition duration-300">
+<div class="flex flex-wrap items-center justify-between border-b border-emerald-100 pb-4 mb-4 gap-2"><div class="flex items-center gap-3"><span class="px-3.5 py-1.5 bg-gradient-to-r from-emerald-700 to-teal-700 text-white font-black text-xs rounded-xl shadow-sm">第1位</span><h3 class="text-lg md:text-xl font-extrabold text-stone-900">山形 かみのやま かみのやま温泉 名月荘（めいげつそう）</h3></div><div class="flex items-center gap-2"><span class="text-xs text-stone-500 font-bold">📍 山形県上山市葉山5-50</span><span class="px-3 py-1 bg-emerald-50 text-emerald-800 border border-emerald-300 font-black text-xs rounded-full shadow-sm">⭐ 5.00</span></div></div>
+<div class="mb-5 p-4 rounded-2xl bg-gradient-to-r from-emerald-50 to-teal-50 border border-emerald-200"><h4 class="font-black text-emerald-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-emerald-600">🏡</span> 離れ＆美食体験：楽天★5.00満点！蔵王連峰を望む全室離れ風客室＆山形牛ステーキ・松茸懐石（お部屋食）</h4><p class="text-xs text-stone-700 leading-relaxed">「約4,000坪の敷地にわずか20室の離れ風客室が点在する東北最高峰の宿で、蔵王連峰の絶景を望む専用露天風呂に入り、部屋食でとろける山形牛と秋の松茸懐石を味わいたい」という究極の記念日旅行に第1位です。</p></div>
+<div class="mb-6 relative rounded-2xl overflow-hidden shadow-md group"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/67228/67228.jpg" alt="かみのやま温泉 名月荘" class="w-full h-72 md:h-96 object-cover group-hover:scale-105 transition duration-500" loading="lazy" /><div class="absolute bottom-3 right-3 bg-stone-900/80 backdrop-blur text-white text-[11px] font-bold px-3 py-1 rounded-lg">公式提供写真</div></div>
+<div class="mb-6 p-4 rounded-2xl bg-stone-900 text-emerald-300 text-xs font-mono grid grid-cols-1 md:grid-cols-2 gap-2.5 shadow-inner"><div><span class="text-stone-400">■ 約4,000坪に20室のみ:</span> 全室が異なる間取りの贅沢な離れ風</div><div><span class="text-stone-400">■ お部屋食 山形牛懐石:</span> A5山形牛ステーキと秋の松茸土瓶蒸し</div><div><span class="text-stone-400">■ 蔵王連峰一望の貸切露天風呂:</span> 巨石をくり抜いた野天風呂</div><div><span class="text-stone-400">■ 図書室・酒蔵サロン:</span> 山形ワインや地酒を愉しむ静寂空間</div><div class="md:col-span-2"><span class="text-stone-400">■ 特徴:</span> かみのやま温泉駅無料送迎あり＋楽天評価5.00満点＋日本の最高峰宿</div></div>
+<div class="space-y-4 text-xs text-stone-700 leading-relaxed">
+<div class="p-4 rounded-xl bg-emerald-50/70 border border-emerald-200"><h4 class="font-black text-emerald-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-emerald-600">✅</span> この宿を選ぶべき人</h4><p class="text-emerald-900">「人生で一度は泊まりたい最高峰の隠れ宿で、誰にも邪魔されず極上の山形牛懐石とおもてなしに浸りたい方」に完璧です。</p></div>
+<div class="p-4 rounded-xl bg-teal-50/60 border border-teal-200"><h4 class="font-black text-teal-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-teal-600">🛁</span> この宿でしか得られない特別な宿泊体験（本音レビュー）</h4><p class="text-stone-800 leading-relaxed">山形・かみのやま温泉の高台に佇む憧れの名旅館。広大な敷地に平屋の離れ客室がゆったり配置され、客室露天風呂からは蔵王連峰の雄大な稜線が一望。お部屋でいただく夕食懐石は、とろけるA5山形牛ステーキと秋の香り高い松茸料理が並び、スタッフの細やかな気配りを含め、楽天クチコミ5.00満点に誰もが納得する宿です。</p></div>
+<div class="grid grid-cols-1 md:grid-cols-2 gap-3"><div class="p-3.5 rounded-xl bg-stone-50 border border-stone-200"><h5 class="font-bold text-stone-900 text-xs mb-1">🛏️ おすすめ客室タイプ</h5><p class="text-stone-600">「半露天風呂付離れ客室 / 蔵王ビュー特別室」</p></div><div class="p-3.5 rounded-xl bg-stone-50 border border-stone-200"><h5 class="font-bold text-stone-900 text-xs mb-1">🍽️ おすすめ夕食プラン</h5><p class="text-stone-600">「お部屋食！山形牛ステーキ＆秋の松茸特選懐石プラン」</p></div></div>
+<div class="p-4 rounded-xl bg-sky-50/70 border border-sky-200"><h4 class="font-black text-sky-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-sky-600">🗺️</span> 交通アクセス＆おすすめ1泊2日タイムスケジュール</h4><p class="text-stone-700 mb-2"><strong>【アクセス】</strong>山形新幹線「かみのやま温泉駅」より車約5分（無料送迎あり）。東北中央道「山形上山IC」より車約15分。</p><p class="text-stone-700"><strong>【滞在プラン】</strong>【1日目】15:00チェックイン → 15:30酒蔵サロンで山形ワイン → 16:30巨石貸切露天風呂 → 18:30お部屋食で山形牛懐石【2日目】07:30朝風呂 → 08:30朝食 → 10:00蔵王御釜・上山城へ出発</p></div>
+<div class="p-3.5 rounded-xl bg-rose-50/70 border border-rose-200"><h4 class="font-black text-rose-950 text-xs mb-1 flex items-center gap-1.5"><span class="text-rose-600">⚠️</span> 逆に向いていない人</h4><p class="text-rose-900">大規模なバイキング施設を好む方。</p></div>
+<div class="p-4 rounded-xl bg-gradient-to-r from-emerald-700/10 via-teal-700/10 to-emerald-700/10 border-2 border-emerald-300"><h4 class="font-black text-emerald-950 text-xs mb-1 flex items-center gap-1.5"><span class="text-emerald-600">💡</span> 編集部の結論：「だから、この旅行ならここ」</h4><p class="text-emerald-950 font-bold">楽天評価5.00満点×全室離れ風×お部屋食山形牛懐石×蔵王絶景。日本屈指のホスピタリティを誇る名門宿です。</p></div>
+</div>
+<div class="mt-6 pt-5 border-t border-emerald-100 flex flex-col md:flex-row items-center justify-between gap-3"><div class="text-center md:text-left"><span class="text-[11px] text-stone-500 block">※かみのやま温泉駅より無料送迎あり</span><span class="text-xs font-black text-emerald-800">楽天★5.00満点の名旅館</span></div><a href="{make_aff_url(67228)}" target="_blank" rel="noopener noreferrer" class="w-full md:w-auto px-8 py-4 bg-gradient-to-r from-emerald-700 via-teal-700 to-emerald-800 hover:from-emerald-800 hover:to-teal-800 text-white font-extrabold text-xs md:text-sm rounded-2xl shadow-lg hover:shadow-xl hover:scale-105 transition transform text-center inline-flex items-center justify-center gap-2"><span>✈️ 【公式】かみのやま温泉 名月荘の空室・最安プランを見る</span></a></div>
+</div>''')
+
+# 宿2: 黒川温泉 お宿のし湯
+review_parts.append(f'''<div class="my-12 p-6 md:p-8 rounded-3xl bg-white border-2 border-emerald-200 shadow-xl hover:shadow-2xl transition duration-300">
+<div class="flex flex-wrap items-center justify-between border-b border-emerald-100 pb-4 mb-4 gap-2"><div class="flex items-center gap-3"><span class="px-3.5 py-1.5 bg-gradient-to-r from-emerald-700 to-teal-700 text-white font-black text-xs rounded-xl shadow-sm">第2位</span><h3 class="text-lg md:text-xl font-extrabold text-stone-900">熊本 黒川温泉 黒川温泉 お宿のし湯</h3></div><div class="flex items-center gap-2"><span class="text-xs text-stone-500 font-bold">📍 熊本県阿蘇郡南小国町満願寺6591-1</span><span class="px-3 py-1 bg-emerald-50 text-emerald-800 border border-emerald-300 font-black text-xs rounded-full shadow-sm">⭐ 4.83</span></div></div>
+<div class="mb-5 p-4 rounded-2xl bg-gradient-to-r from-emerald-50 to-teal-50 border border-emerald-200"><h4 class="font-black text-emerald-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-emerald-600">🏡</span> 離れ＆美食体験：自然林の静寂に抱かれた離れ宿＆専用露天風呂・肥後あか牛炭火焼き会席</h4><p class="text-xs text-stone-700 leading-relaxed">「黒川温泉の雑木林の中にひっそりと佇む離れ客室で、木漏れ日と秋風が心地よい専用露天風呂に浸かり、個室食事処で肥後あか牛の炭火焼き会席を味わいたい」という大人の九州旅に最適です。</p></div>
+<div class="mb-6 relative rounded-2xl overflow-hidden shadow-md group"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/78187/78187.jpg" alt="お宿のし湯" class="w-full h-72 md:h-96 object-cover group-hover:scale-105 transition duration-500" loading="lazy" /><div class="absolute bottom-3 right-3 bg-stone-900/80 backdrop-blur text-white text-[11px] font-bold px-3 py-1 rounded-lg">公式提供写真</div></div>
+<div class="mb-6 p-4 rounded-2xl bg-stone-900 text-emerald-300 text-xs font-mono grid grid-cols-1 md:grid-cols-2 gap-2.5 shadow-inner"><div><span class="text-stone-400">■ 雑木林に佇む離れ客室:</span> 木々の温もりに包まれた静寂の空間</div><div><span class="text-stone-400">■ 客室専用露天風呂:</span> 源泉かけ流しの柔らかな名湯</div><div><span class="text-stone-400">■ 肥後あか牛炭火焼き会席:</span> 阿蘇の旬野菜と熊本ブランド牛</div><div><span class="text-stone-400">■ カフェ＆BAR「わろく屋」:</span> 落ち着いた大人の隠れ家</div><div class="md:col-span-2"><span class="text-stone-400">■ 特徴:</span> 黒川温泉バス停無料送迎あり＋楽天評価4.83の高評価</div></div>
+<div class="space-y-4 text-xs text-stone-700 leading-relaxed">
+<div class="p-4 rounded-xl bg-emerald-50/70 border border-emerald-200"><h4 class="font-black text-emerald-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-emerald-600">✅</span> この宿を選ぶべき人</h4><p class="text-emerald-900">「黒川温泉の情緒ある森の中で、人目を気にせず離れの専用露天風呂とあか牛会席に癒やされたい大人カップル」に完璧です。</p></div>
+<div class="p-4 rounded-xl bg-teal-50/60 border border-teal-200"><h4 class="font-black text-teal-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-teal-600">🛁</span> この宿でしか得られない特別な宿泊体験（本音レビュー）</h4><p class="text-stone-800 leading-relaxed">黒川温泉街の喧騒から少し離れた自然林に包まれる隠れ宿。敷地内はまるで森の小道のような回廊で結ばれ、離れ客室の専用露天風呂では木々のざわめきと秋風を感じながら贅沢な湯浴みができます。夕食は個室食事処で肥後あか牛の炭火焼きや馬刺し、秋の味覚が供され、五感全てが癒やされます。</p></div>
+<div class="grid grid-cols-1 md:grid-cols-2 gap-3"><div class="p-3.5 rounded-xl bg-stone-50 border border-stone-200"><h5 class="font-bold text-stone-900 text-xs mb-1">🛏️ おすすめ客室タイプ</h5><p class="text-stone-600">「離れ 露天風呂付和洋室 / 特別離れ」（自然林を望む客室）</p></div><div class="p-3.5 rounded-xl bg-stone-50 border border-stone-200"><h5 class="font-bold text-stone-900 text-xs mb-1">🍽️ おすすめ夕食プラン</h5><p class="text-stone-600">「個室で味わう肥後あか牛炭火焼き＆旬彩創作会席プラン」</p></div></div>
+<div class="p-4 rounded-xl bg-sky-50/70 border border-sky-200"><h4 class="font-black text-sky-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-sky-600">🗺️</span> 交通アクセス＆おすすめ1泊2日タイムスケジュール</h4><p class="text-stone-700 mb-2"><strong>【アクセス】</strong>九州産交バス「黒川温泉」バス停より無料送迎あり（約3分）。大分道「日田IC」より車約60分。</p><p class="text-stone-700"><strong>【滞在プラン】</strong>【1日目】15:00チェックイン → 15:30客室露天風呂 → 17:00自然林の野天風呂 → 18:30あか牛炭火焼きディナー【2日目】07:30朝風呂 → 08:30和朝食 → 10:00黒川温泉街湯巡りへ出発</p></div>
+<div class="p-3.5 rounded-xl bg-rose-50/70 border border-rose-200"><h4 class="font-black text-rose-950 text-xs mb-1 flex items-center gap-1.5"><span class="text-rose-600">⚠️</span> 逆に向いていない人</h4><p class="text-rose-900">大浴場のサウナやプールなど大型施設を好む方。</p></div>
+<div class="p-4 rounded-xl bg-gradient-to-r from-emerald-700/10 via-teal-700/10 to-emerald-700/10 border-2 border-emerald-300"><h4 class="font-black text-emerald-950 text-xs mb-1 flex items-center gap-1.5"><span class="text-emerald-600">💡</span> 編集部の結論：「だから、この旅行ならここ」</h4><p class="text-emerald-950 font-bold">自然林の離れ客室×専用露天風呂×肥後あか牛会席×楽天4.83。黒川温泉で最も静けさに浸れる名宿です。</p></div>
+</div>
+<div class="mt-6 pt-5 border-t border-emerald-100 flex flex-col md:flex-row items-center justify-between gap-3"><div class="text-center md:text-left"><span class="text-[11px] text-stone-500 block">※黒川温泉バス停より無料送迎あり</span><span class="text-xs font-black text-emerald-800">自然林に包まれた離れ宿</span></div><a href="{make_aff_url(78187)}" target="_blank" rel="noopener noreferrer" class="w-full md:w-auto px-8 py-4 bg-gradient-to-r from-emerald-700 via-teal-700 to-emerald-800 hover:from-emerald-800 hover:to-teal-800 text-white font-extrabold text-xs md:text-sm rounded-2xl shadow-lg hover:shadow-xl hover:scale-105 transition transform text-center inline-flex items-center justify-center gap-2"><span>✈️ 【公式】黒川温泉 お宿のし湯の空室・最安プランを見る</span></a></div>
+</div>''')
+
+# 宿3: 強羅花扇
+review_parts.append(f'''<div class="my-12 p-6 md:p-8 rounded-3xl bg-white border-2 border-emerald-200 shadow-xl hover:shadow-2xl transition duration-300">
+<div class="flex flex-wrap items-center justify-between border-b border-emerald-100 pb-4 mb-4 gap-2"><div class="flex items-center gap-3"><span class="px-3.5 py-1.5 bg-gradient-to-r from-emerald-700 to-teal-700 text-white font-black text-xs rounded-xl shadow-sm">第3位</span><h3 class="text-lg md:text-xl font-extrabold text-stone-900">神奈川 箱根強羅 強羅温泉 強羅花扇（ごうらはなおうぎ）</h3></div><div class="flex items-center gap-2"><span class="text-xs text-stone-500 font-bold">📍 神奈川県足柄下郡箱根町強羅1300-681</span><span class="px-3 py-1 bg-emerald-50 text-emerald-800 border border-emerald-300 font-black text-xs rounded-full shadow-sm">⭐ 4.78</span></div></div>
+<div class="mb-5 p-4 rounded-2xl bg-gradient-to-r from-emerald-50 to-teal-50 border border-emerald-200"><h4 class="font-black text-emerald-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-emerald-600">🏡</span> 離れ＆美食体験：全室自家源泉客室露天風呂付き＆最高級A5飛騨牛懐石！神代欅薫る木造美建築</h4><p class="text-xs text-stone-700 leading-relaxed">「箱根強羅の高台で、自家源泉のとろりとした重曹泉が注ぐ客室露天風呂に浸かり、個室食事処でA5最高ランク飛騨牛と秋の本格懐石を味わいたい」という首都圏からの連休旅行に最適です。</p></div>
+<div class="mb-6 relative rounded-2xl overflow-hidden shadow-md group"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/79294/79294.jpg" alt="強羅花扇" class="w-full h-72 md:h-96 object-cover group-hover:scale-105 transition duration-500" loading="lazy" /><div class="absolute bottom-3 right-3 bg-stone-900/80 backdrop-blur text-white text-[11px] font-bold px-3 py-1 rounded-lg">公式提供写真</div></div>
+<div class="mb-6 p-4 rounded-2xl bg-stone-900 text-emerald-300 text-xs font-mono grid grid-cols-1 md:grid-cols-2 gap-2.5 shadow-inner"><div><span class="text-stone-400">■ 全室客室露天風呂付:</span> 自家源泉かけ流しの美肌重曹泉</div><div><span class="text-stone-400">■ 最高級A5飛騨牛懐石:</span> 飛騨高山直送の極上霜降り肉</div><div><span class="text-stone-400">■ 千本格子の回廊建築:</span> 畳敷きの館内と神代欅の木造美</div><div><span class="text-stone-400">■ 専用斜行エレベーター:</span> 強羅の森を登る非日常のエントランス</div><div class="md:col-span-2"><span class="text-stone-400">■ 特徴:</span> 強羅駅無料送迎あり＋楽天日本の宿アワード＋楽天4.78</div></div>
+<div class="space-y-4 text-xs text-stone-700 leading-relaxed">
+<div class="p-4 rounded-xl bg-emerald-50/70 border border-emerald-200"><h4 class="font-black text-emerald-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-emerald-600">✅</span> この宿を選ぶべき人</h4><p class="text-emerald-900">「箱根で最高の泉質を客室露天風呂で独占し、A5飛騨牛と本格京懐石を個室で贅沢に味わいたい方」に完璧です。</p></div>
+<div class="p-4 rounded-xl bg-teal-50/60 border border-teal-200"><h4 class="font-black text-teal-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-teal-600">🛁</span> この宿でしか得られない特別な宿泊体験（本音レビュー）</h4><p class="text-stone-800 leading-relaxed">箱根強羅の静かな高台に佇む高級旅館。館内はすべて畳敷きで素足のまま歩け、木の香りが心地よい空間。全室のテラスに備えられた客室露天風呂には自家源泉のとろとろ美肌温泉が注ぎます。夕食は個室ダイニングでA5ランク飛騨牛の陶板焼きや秋の旬彩が美しく供され、贅沢を極めた滞在が叶います。</p></div>
+<div class="grid grid-cols-1 md:grid-cols-2 gap-3"><div class="p-3.5 rounded-xl bg-stone-50 border border-stone-200"><h5 class="font-bold text-stone-900 text-xs mb-1">🛏️ おすすめ客室タイプ</h5><p class="text-stone-600">「露天風呂付和室 / 露天風呂付特別室」（強羅の森を望む客室）</p></div><div class="p-3.5 rounded-xl bg-stone-50 border border-stone-200"><h5 class="font-bold text-stone-900 text-xs mb-1">🍽️ おすすめ夕食プラン</h5><p class="text-stone-600">「個室で味わう！A5ランク最高級飛騨牛懐石プラン」</p></div></div>
+<div class="p-4 rounded-xl bg-sky-50/70 border border-sky-200"><h4 class="font-black text-sky-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-sky-600">🗺️</span> 交通アクセス＆おすすめ1泊2日タイムスケジュール</h4><p class="text-stone-700 mb-2"><strong>【アクセス】</strong>箱根登山鉄道「強羅駅」より無料送迎車約5分。箱根登山ケーブルカー「早雲山駅」より徒歩約3分。</p><p class="text-stone-700"><strong>【滞在プラン】</strong>【1日目】15:00チェックイン → 15:30客室露天風呂で自家源泉堪能 → 18:30個室でA5飛騨牛懐石ディナー【2日目】07:30朝風呂 → 08:30和朝食 → 10:00大涌谷・芦ノ湖へ出発</p></div>
+<div class="p-3.5 rounded-xl bg-rose-50/70 border border-rose-200"><h4 class="font-black text-rose-950 text-xs mb-1 flex items-center gap-1.5"><span class="text-rose-600">⚠️</span> 逆に向いていない人</h4><p class="text-rose-900">低予算での宿泊を求める方。</p></div>
+<div class="p-4 rounded-xl bg-gradient-to-r from-emerald-700/10 via-teal-700/10 to-emerald-700/10 border-2 border-emerald-300"><h4 class="font-black text-emerald-950 text-xs mb-1 flex items-center gap-1.5"><span class="text-emerald-600">💡</span> 編集部の結論：「だから、この旅行ならここ」</h4><p class="text-emerald-950 font-bold">自家源泉客室露天×A5飛騨牛懐石×畳敷き木造美建築×楽天4.78。箱根で最も贅沢なプライベート宿です。</p></div>
+</div>
+<div class="mt-6 pt-5 border-t border-emerald-100 flex flex-col md:flex-row items-center justify-between gap-3"><div class="text-center md:text-left"><span class="text-[11px] text-stone-500 block">※強羅駅・早雲山駅より無料送迎あり</span><span class="text-xs font-black text-emerald-800">全室自家源泉露天風呂の宿</span></div><a href="{make_aff_url(79294)}" target="_blank" rel="noopener noreferrer" class="w-full md:w-auto px-8 py-4 bg-gradient-to-r from-emerald-700 via-teal-700 to-emerald-800 hover:from-emerald-800 hover:to-teal-800 text-white font-extrabold text-xs md:text-sm rounded-2xl shadow-lg hover:shadow-xl hover:scale-105 transition transform text-center inline-flex items-center justify-center gap-2"><span>✈️ 【公式】強羅温泉 強羅花扇の空室・最安プランを見る</span></a></div>
+</div>''')
+
+# 宿4: 扇屋
+review_parts.append(f'''<div class="my-12 p-6 md:p-8 rounded-3xl bg-white border-2 border-emerald-200 shadow-xl hover:shadow-2xl transition duration-300">
+<div class="flex flex-wrap items-center justify-between border-b border-emerald-100 pb-4 mb-4 gap-2"><div class="flex items-center gap-3"><span class="px-3.5 py-1.5 bg-gradient-to-r from-emerald-700 to-teal-700 text-white font-black text-xs rounded-xl shadow-sm">第4位</span><h3 class="text-lg md:text-xl font-extrabold text-stone-900">佐賀 武雄温泉 武雄温泉 懐石宿 扇屋（おうぎや）</h3></div><div class="flex items-center gap-2"><span class="text-xs text-stone-500 font-bold">📍 佐賀県武雄市武雄町武雄7399</span><span class="px-3 py-1 bg-emerald-50 text-emerald-800 border border-emerald-300 font-black text-xs rounded-full shadow-sm">⭐ 4.78</span></div></div>
+<div class="mb-5 p-4 rounded-2xl bg-gradient-to-r from-emerald-50 to-teal-50 border border-emerald-200"><h4 class="font-black text-emerald-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-emerald-600">🏡</span> 離れ＆美食体験：料理の鉄人が腕を振るう最高峰佐賀牛懐石（お部屋食）＆露天風呂付き離れ客室</h4><p class="text-xs text-stone-700 leading-relaxed">「武雄温泉の名湯と、料理人・扇屋主人が手がける極上の佐賀牛懐石をお部屋食でゆったり味わい、専用露天風呂で心身を解きほぐしたい」という西九州の美食旅行に最適です。</p></div>
+<div class="mb-6 relative rounded-2xl overflow-hidden shadow-md group"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/68087/68087.jpg" alt="懐石宿 扇屋" class="w-full h-72 md:h-96 object-cover group-hover:scale-105 transition duration-500" loading="lazy" /><div class="absolute bottom-3 right-3 bg-stone-900/80 backdrop-blur text-white text-[11px] font-bold px-3 py-1 rounded-lg">公式提供写真</div></div>
+<div class="mb-6 p-4 rounded-2xl bg-stone-900 text-emerald-300 text-xs font-mono grid grid-cols-1 md:grid-cols-2 gap-2.5 shadow-inner"><div><span class="text-stone-400">■ お部屋食 特選佐賀牛懐石:</span> A5佐賀牛・有明海の海の幸</div><div><span class="text-stone-400">■ 露天風呂付き客室「杉の間」:</span> 庭園を望むプライベート温泉</div><div><span class="text-stone-400">■ 武雄温泉の美肌名湯:</span> 1,300年の歴史を誇る透明な弱アルカリ泉</div><div><span class="text-stone-400">■ 料理長自らのおもてなし:</span> 一品一品に心がこもる芸術料理</div><div class="md:col-span-2"><span class="text-stone-400">■ 特徴:</span> JR武雄温泉駅無料送迎あり＋西九州新幹線開通＋楽天4.78</div></div>
+<div class="space-y-4 text-xs text-stone-700 leading-relaxed">
+<div class="p-4 rounded-xl bg-emerald-50/70 border border-emerald-200"><h4 class="font-black text-emerald-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-emerald-600">✅</span> この宿を選ぶべき人</h4><p class="text-emerald-900">「西九州新幹線で武雄温泉へ行き、最高峰の佐賀牛懐石とお部屋食・露天風呂を満喫したい美食家」に完璧です。</p></div>
+<div class="p-4 rounded-xl bg-teal-50/60 border border-teal-200"><h4 class="font-black text-teal-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-teal-600">🛁</span> この宿でしか得られない特別な宿泊体験（本音レビュー）</h4><p class="text-stone-800 leading-relaxed">武雄温泉に佇む料理自慢の隠れ宿。料理の鉄人にも出演した料理長が作る料理は、一皿一皿が器から盛り付けまで息を呑む美しさ。とろけるA5佐賀牛のしゃぶしゃぶやステーキをお部屋でゆっくり味わえます。客室専用の露天風呂では武雄の名湯を独占でき、心づくしのおもてなしに癒やされます。</p></div>
+<div class="grid grid-cols-1 md:grid-cols-2 gap-3"><div class="p-3.5 rounded-xl bg-stone-50 border border-stone-200"><h5 class="font-bold text-stone-900 text-xs mb-1">🛏️ おすすめ客室タイプ</h5><p class="text-stone-600">「離れ 露天風呂付客室 杉の間 / 和洋室」</p></div><div class="p-3.5 rounded-xl bg-stone-50 border border-stone-200"><h5 class="font-bold text-stone-900 text-xs mb-1">🍽️ おすすめ夕食プラン</h5><p class="text-stone-600">「お部屋食！A5特選佐賀牛＆有明海旬魚懐石プラン」</p></div></div>
+<div class="p-4 rounded-xl bg-sky-50/70 border border-sky-200"><h4 class="font-black text-sky-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-sky-600">🗺️</span> 交通アクセス＆おすすめ1泊2日タイムスケジュール</h4><p class="text-stone-700 mb-2"><strong>【アクセス】</strong>JR西九州新幹線「武雄温泉駅」より車約5分（無料送迎あり）。長崎道「武雄北方IC」より車約10分。</p><p class="text-stone-700"><strong>【滞在プラン】</strong>【1日目】15:00チェックイン → 15:30客室露天風呂 → 18:30お部屋食で佐賀牛懐石ディナー【2日目】07:30朝風呂 → 08:30朝食 → 09:30武雄温泉楼門・御船山楽園へ出発</p></div>
+<div class="p-3.5 rounded-xl bg-rose-50/70 border border-rose-200"><h4 class="font-black text-rose-950 text-xs mb-1 flex items-center gap-1.5"><span class="text-rose-600">⚠️</span> 逆に向いていない人</h4><p class="text-rose-900">大規模なアミューズメント施設を求める方。</p></div>
+<div class="p-4 rounded-xl bg-gradient-to-r from-emerald-700/10 via-teal-700/10 to-emerald-700/10 border-2 border-emerald-300"><h4 class="font-black text-emerald-950 text-xs mb-1 flex items-center gap-1.5"><span class="text-emerald-600">💡</span> 編集部の結論：「だから、この旅行ならここ」</h4><p class="text-emerald-950 font-bold">お部屋食佐賀牛懐石×客室露天風呂×武雄温泉駅5分×楽天4.78。九州屈指の美食とおもてなしを誇る隠れ家宿です。</p></div>
+</div>
+<div class="mt-6 pt-5 border-t border-emerald-100 flex flex-col md:flex-row items-center justify-between gap-3"><div class="text-center md:text-left"><span class="text-[11px] text-stone-500 block">※武雄温泉駅より無料送迎あり</span><span class="text-xs font-black text-emerald-800">料理の鉄人の極上懐石宿</span></div><a href="{make_aff_url(68087)}" target="_blank" rel="noopener noreferrer" class="w-full md:w-auto px-8 py-4 bg-gradient-to-r from-emerald-700 via-teal-700 to-emerald-800 hover:from-emerald-800 hover:to-teal-800 text-white font-extrabold text-xs md:text-sm rounded-2xl shadow-lg hover:shadow-xl hover:scale-105 transition transform text-center inline-flex items-center justify-center gap-2"><span>✈️ 【公式】武雄温泉 懐石宿 扇屋の空室・最安プランを見る</span></a></div>
+</div>''')
+
+# 宿5: 隠庵ひだ路
+review_parts.append(f'''<div class="my-12 p-6 md:p-8 rounded-3xl bg-white border-2 border-emerald-200 shadow-xl hover:shadow-2xl transition duration-300">
+<div class="flex flex-wrap items-center justify-between border-b border-emerald-100 pb-4 mb-4 gap-2"><div class="flex items-center gap-3"><span class="px-3.5 py-1.5 bg-gradient-to-r from-emerald-700 to-teal-700 text-white font-black text-xs rounded-xl shadow-sm">第5位</span><h3 class="text-lg md:text-xl font-extrabold text-stone-900">岐阜 奥飛騨温泉郷 奥飛騨温泉郷 隠庵ひだ路（かくれあんひだじ）</h3></div><div class="flex items-center gap-2"><span class="text-xs text-stone-500 font-bold">📍 岐阜県高山市奥飛騨温泉郷福地687</span><span class="px-3 py-1 bg-emerald-50 text-emerald-800 border border-emerald-300 font-black text-xs rounded-full shadow-sm">⭐ 4.75</span></div></div>
+<div class="mb-5 p-4 rounded-2xl bg-gradient-to-r from-emerald-50 to-teal-50 border border-emerald-200"><h4 class="font-black text-emerald-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-emerald-600">🏡</span> 離れ＆美食体験：全12室すべて露天風呂付き離れ＆完全個室囲炉裏で味わう飛騨牛炭火焼き会席</h4><p class="text-xs text-stone-700 leading-relaxed">「北アルプスの麓・奥飛騨温泉郷の隠れ里で、全室に備えられた総檜・岩露天風呂に浸かり、完全個室の囲炉裏で飛騨牛や岩魚を香ばしく焼き上げる炭火焼き会席を味わいたい」という静寂の旅に最適です。</p></div>
+<div class="mb-6 relative rounded-2xl overflow-hidden shadow-md group"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/67386/67386.jpg" alt="隠庵ひだ路" class="w-full h-72 md:h-96 object-cover group-hover:scale-105 transition duration-500" loading="lazy" /><div class="absolute bottom-3 right-3 bg-stone-900/80 backdrop-blur text-white text-[11px] font-bold px-3 py-1 rounded-lg">公式提供写真</div></div>
+<div class="mb-6 p-4 rounded-2xl bg-stone-900 text-emerald-300 text-xs font-mono grid grid-cols-1 md:grid-cols-2 gap-2.5 shadow-inner"><div><span class="text-stone-400">■ 全室客室露天風呂完備:</span> 奥飛騨の清流と山を望む専用風呂</div><div><span class="text-stone-400">■ 完全個室囲炉裏料理:</span> 飛騨牛炭火焼き・五平餅・岩魚塩焼き</div><div><span class="text-stone-400">■ 自家源泉かけ流し:</span> 湯の花舞う福地温泉の名湯</div><div><span class="text-stone-400">■ 全12室の大人の隠れ家:</span> 静寂と木造りの温もり</div><div class="md:col-span-2"><span class="text-stone-400">■ 特徴:</span> 福地温泉バス停無料送迎あり＋楽天日本の宿アワード＋楽天4.75</div></div>
+<div class="space-y-4 text-xs text-stone-700 leading-relaxed">
+<div class="p-4 rounded-xl bg-emerald-50/70 border border-emerald-200"><h4 class="font-black text-emerald-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-emerald-600">✅</span> この宿を選ぶべき人</h4><p class="text-emerald-900">「奥飛騨の山懐で、客室露天風呂と囲炉裏炭火焼きの飛騨牛を完全個室でじっくり味わいたい方」に完璧です。</p></div>
+<div class="p-4 rounded-xl bg-teal-50/60 border border-teal-200"><h4 class="font-black text-teal-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-teal-600">🛁</span> この宿でしか得られない特別な宿泊体験（本音レビュー）</h4><p class="text-stone-800 leading-relaxed">奥飛騨・福地温泉の静かな森に建つ全12室の隠れ家。すべての客室に専用露天風呂が完備され、24時間いつでも源泉かけ流しの名湯を満喫。夕食は完全個室の囲炉裏端で、炭火でじっくり焼き上げるA5飛騨牛ステーキや川魚、秋のきのこ鍋が供され、日本の原風景のような温もりと贅沢を味わえます。</p></div>
+<div class="grid grid-cols-1 md:grid-cols-2 gap-3"><div class="p-3.5 rounded-xl bg-stone-50 border border-stone-200"><h5 class="font-bold text-stone-900 text-xs mb-1">🛏️ おすすめ客室タイプ</h5><p class="text-stone-600">「露天風呂付和室 / 檜露天風呂付和洋室」</p></div><div class="p-3.5 rounded-xl bg-stone-50 border border-stone-200"><h5 class="font-bold text-stone-900 text-xs mb-1">🍽️ おすすめ夕食プラン</h5><p class="text-stone-600">「囲炉裏端で味わう！A5飛騨牛炭火焼き＆奥飛騨味覚会席プラン」</p></div></div>
+<div class="p-4 rounded-xl bg-sky-50/70 border border-sky-200"><h4 class="font-black text-sky-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-sky-600">🗺️</span> 交通アクセス＆おすすめ1泊2日タイムスケジュール</h4><p class="text-stone-700 mb-2"><strong>【アクセス】</strong>JR「高山駅」より濃飛バス約70分「福地温泉口」下車（無料送迎あり）。長野道「松本IC」より車約75分。</p><p class="text-stone-700"><strong>【滞在プラン】</strong>【1日目】15:00チェックイン → 15:30客室露天風呂 → 18:30囲炉裏個室で飛騨牛ディナー → 20:30貸切露天風呂【2日目】07:30朝風呂 → 08:30囲炉裏朝食 → 09:30新穂高ロープウェイへ出発</p></div>
+<div class="p-3.5 rounded-xl bg-rose-50/70 border border-rose-200"><h4 class="font-black text-rose-950 text-xs mb-1 flex items-center gap-1.5"><span class="text-rose-600">⚠️</span> 逆に向いていない人</h4><p class="text-rose-900">駅前繁華街の立地を求める方。</p></div>
+<div class="p-4 rounded-xl bg-gradient-to-r from-emerald-700/10 via-teal-700/10 to-emerald-700/10 border-2 border-emerald-300"><h4 class="font-black text-emerald-950 text-xs mb-1 flex items-center gap-1.5"><span class="text-emerald-600">💡</span> 編集部の結論：「だから、この旅行ならここ」</h4><p class="text-emerald-950 font-bold">全12室露天風呂付×完全個室囲炉裏飛騨牛×福地温泉源泉×楽天4.75。奥飛騨で最も風情ある大人の隠れ宿です。</p></div>
+</div>
+<div class="mt-6 pt-5 border-t border-emerald-100 flex flex-col md:flex-row items-center justify-between gap-3"><div class="text-center md:text-left"><span class="text-[11px] text-stone-500 block">※福地温泉バス停より無料送迎あり</span><span class="text-xs font-black text-emerald-800">全室露天風呂付き囲炉裏の宿</span></div><a href="{make_aff_url(67386)}" target="_blank" rel="noopener noreferrer" class="w-full md:w-auto px-8 py-4 bg-gradient-to-r from-emerald-700 via-teal-700 to-emerald-800 hover:from-emerald-800 hover:to-teal-800 text-white font-extrabold text-xs md:text-sm rounded-2xl shadow-lg hover:shadow-xl hover:scale-105 transition transform text-center inline-flex items-center justify-center gap-2"><span>✈️ 【公式】奥飛騨温泉郷 隠庵ひだ路の空室・最安プランを見る</span></a></div>
+</div>''')
+
+# 宿6: 油屋別館 和亭
+review_parts.append(f'''<div class="my-12 p-6 md:p-8 rounded-3xl bg-white border-2 border-emerald-200 shadow-xl hover:shadow-2xl transition duration-300">
+<div class="flex flex-wrap items-center justify-between border-b border-emerald-100 pb-4 mb-4 gap-2"><div class="flex items-center gap-3"><span class="px-3.5 py-1.5 bg-gradient-to-r from-emerald-700 to-teal-700 text-white font-black text-xs rounded-xl shadow-sm">第6位</span><h3 class="text-lg md:text-xl font-extrabold text-stone-900">京都 奥伊根 客室露天風呂の宿 奥伊根温泉 油屋別館 和亭（なごみてい）</h3></div><div class="flex items-center gap-2"><span class="text-xs text-stone-500 font-bold">📍 京都府与謝郡伊根町津母570</span><span class="px-3 py-1 bg-emerald-50 text-emerald-800 border border-emerald-300 font-black text-xs rounded-full shadow-sm">⭐ 4.73</span></div></div>
+<div class="mb-5 p-4 rounded-2xl bg-gradient-to-r from-emerald-50 to-teal-50 border border-emerald-200"><h4 class="font-black text-emerald-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-emerald-600">🏡</span> 離れ＆美食体験：日本海一望の全室客室露天風呂＆お部屋食で味わう丹後ぐじ・但馬牛・豪華舟盛り</h4><p class="text-xs text-stone-700 leading-relaxed">「海の京都・伊根の舟屋近くの高台で、日本海の大パノラマを見下ろす客室露天風呂に入り、部屋食で丹後の高級魚ぐじや但馬牛を味わう大人の隠れ家旅行にしたい」というご夫婦に大人気です。</p></div>
+<div class="mb-6 relative rounded-2xl overflow-hidden shadow-md group"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/70670/70670.jpg" alt="油屋別館 和亭" class="w-full h-72 md:h-96 object-cover group-hover:scale-105 transition duration-500" loading="lazy" /><div class="absolute bottom-3 right-3 bg-stone-900/80 backdrop-blur text-white text-[11px] font-bold px-3 py-1 rounded-lg">公式提供写真</div></div>
+<div class="mb-6 p-4 rounded-2xl bg-stone-900 text-emerald-300 text-xs font-mono grid grid-cols-1 md:grid-cols-2 gap-2.5 shadow-inner"><div><span class="text-stone-400">■ 全室日本海露天風呂付:</span> 窓の外に広がる紺碧の海パノラマ</div><div><span class="text-stone-400">■ お部屋食 丹後美食会席:</span> 丹後ぐじ（甘鯛）・但馬牛・活鮑</div><div><span class="text-stone-400">■ 自家源泉 奥伊根温泉:</span> とろりとした美肌ナトリウム炭酸水素塩泉</div><div><span class="text-stone-400">■ 伊根の舟屋群車約10分:</span> 観光拠点にも最適なロケーション</div><div class="md:col-span-2"><span class="text-stone-400">■ 特徴:</span> 天橋立駅無料送迎バス運行＋楽天日本の宿アワード＋楽天4.73</div></div>
+<div class="space-y-4 text-xs text-stone-700 leading-relaxed">
+<div class="p-4 rounded-xl bg-emerald-50/70 border border-emerald-200"><h4 class="font-black text-emerald-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-emerald-600">✅</span> この宿を選ぶべき人</h4><p class="text-emerald-900">「海の京都で日本海を一望する客室露天風呂に入り、部屋食で丹後ぐじや但馬牛をゆっくり味わいたい方」に完璧です。</p></div>
+<div class="p-4 rounded-xl bg-teal-50/60 border border-teal-200"><h4 class="font-black text-teal-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-teal-600">🛁</span> この宿でしか得られない特別な宿泊体験（本音レビュー）</h4><p class="text-stone-800 leading-relaxed">伊根の海を見下ろす高台に建つ隠れ宿。全室に日本海を望む専用露天風呂が備えられ、秋の爽やかな海風を感じながらの湯浴みは至福。夕食はお部屋で丹後名物の甘鯛（ぐじ）や但馬牛、朝獲れ地魚のお造りが美しく並び、伊根の舟屋観光とあわせて最高の記念日ステイが叶います。</p></div>
+<div class="grid grid-cols-1 md:grid-cols-2 gap-3"><div class="p-3.5 rounded-xl bg-stone-50 border border-stone-200"><h5 class="font-bold text-stone-900 text-xs mb-1">🛏️ おすすめ客室タイプ</h5><p class="text-stone-600">「海側 露天風呂付和室 / 特別和洋室」</p></div><div class="p-3.5 rounded-xl bg-stone-50 border border-stone-200"><h5 class="font-bold text-stone-900 text-xs mb-1">🍽️ おすすめ夕食プラン</h5><p class="text-stone-600">「お部屋食！丹後ぐじ塩焼き＆但馬牛ステーキ特選会席プラン」</p></div></div>
+<div class="p-4 rounded-xl bg-sky-50/70 border border-sky-200"><h4 class="font-black text-sky-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-sky-600">🗺️</span> 交通アクセス＆おすすめ1泊2日タイムスケジュール</h4><p class="text-stone-700 mb-2"><strong>【アクセス】</strong>京都丹後鉄道「天橋立駅」より無料送迎バス約45分（要予約）。京都縦貫道「与謝天橋立IC」より車約35分。</p><p class="text-stone-700"><strong>【滞在プラン】</strong>【1日目】15:00チェックイン → 15:30日本海パノラマ客室露天風呂 → 18:30お部屋食で丹後ぐじ・但馬牛会席【2日目】06:00日本海日の出朝風呂 → 08:00朝食 → 09:30伊根の舟屋めぐり遊覧船へ</p></div>
+<div class="p-3.5 rounded-xl bg-rose-50/70 border border-rose-200"><h4 class="font-black text-rose-950 text-xs mb-1 flex items-center gap-1.5"><span class="text-rose-600">⚠️</span> 逆に向いていない人</h4><p class="text-rose-900">大型バイキング会場を好む方。</p></div>
+<div class="p-4 rounded-xl bg-gradient-to-r from-emerald-700/10 via-teal-700/10 to-emerald-700/10 border-2 border-emerald-300"><h4 class="font-black text-emerald-950 text-xs mb-1 flex items-center gap-1.5"><span class="text-emerald-600">💡</span> 編集部の結論：「だから、この旅行ならここ」</h4><p class="text-emerald-950 font-bold">全室日本海露天風呂×お部屋食丹後ぐじ但馬牛×伊根の舟屋至近×楽天4.73。海の京都で最高峰のプライベート宿です。</p></div>
+</div>
+<div class="mt-6 pt-5 border-t border-emerald-100 flex flex-col md:flex-row items-center justify-between gap-3"><div class="text-center md:text-left"><span class="text-[11px] text-stone-500 block">※天橋立駅より無料送迎バス運行</span><span class="text-xs font-black text-emerald-800">全室海一望露天風呂の宿</span></div><a href="{make_aff_url(70670)}" target="_blank" rel="noopener noreferrer" class="w-full md:w-auto px-8 py-4 bg-gradient-to-r from-emerald-700 via-teal-700 to-emerald-800 hover:from-emerald-800 hover:to-teal-800 text-white font-extrabold text-xs md:text-sm rounded-2xl shadow-lg hover:shadow-xl hover:scale-105 transition transform text-center inline-flex items-center justify-center gap-2"><span>✈️ 【公式】奥伊根温泉 油屋別館 和亭の空室・最安プランを見る</span></a></div>
+</div>''')
+
+# 宿7: ゆふいん花由
+review_parts.append(f'''<div class="my-12 p-6 md:p-8 rounded-3xl bg-white border-2 border-emerald-200 shadow-xl hover:shadow-2xl transition duration-300">
+<div class="flex flex-wrap items-center justify-between border-b border-emerald-100 pb-4 mb-4 gap-2"><div class="flex items-center gap-3"><span class="px-3.5 py-1.5 bg-gradient-to-r from-emerald-700 to-teal-700 text-white font-black text-xs rounded-xl shadow-sm">第7位</span><h3 class="text-lg md:text-xl font-extrabold text-stone-900">大分 由布院温泉 由布院温泉 朝霧のみえる宿 ゆふいん花由</h3></div><div class="flex items-center gap-2"><span class="text-xs text-stone-500 font-bold">📍 大分県由布市湯布院町川北913-11</span><span class="px-3 py-1 bg-emerald-50 text-emerald-800 border border-emerald-300 font-black text-xs rounded-full shadow-sm">⭐ 4.69</span></div></div>
+<div class="mb-5 p-4 rounded-2xl bg-gradient-to-r from-emerald-50 to-teal-50 border border-emerald-200"><h4 class="font-black text-emerald-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-emerald-600">🏡</span> 離れ＆美食体験：由布岳パノラマを望む全室離れ客室露天風呂＆個室で味わう特選豊後牛会席</h4><p class="text-xs text-stone-700 leading-relaxed">「由布院の高台から雄大な由布岳と朝霧を一望する全室離れの専用露天風呂に浸かり、個室ダイニングで豊後牛ステーキと旬彩会席を味わいたい」という九州の連休旅行に大人気です。</p></div>
+<div class="mb-6 relative rounded-2xl overflow-hidden shadow-md group"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/76377/76377.jpg" alt="ゆふいん花由" class="w-full h-72 md:h-96 object-cover group-hover:scale-105 transition duration-500" loading="lazy" /><div class="absolute bottom-3 right-3 bg-stone-900/80 backdrop-blur text-white text-[11px] font-bold px-3 py-1 rounded-lg">公式提供写真</div></div>
+<div class="mb-6 p-4 rounded-2xl bg-stone-900 text-emerald-300 text-xs font-mono grid grid-cols-1 md:grid-cols-2 gap-2.5 shadow-inner"><div><span class="text-stone-400">■ 由布岳一望の離れ客室露天:</span> 視界一面に広がる名峰のパノラマ</div><div><span class="text-stone-400">■ 朝霧の絶景テラス:</span> 秋の早朝に広がる幻想的な雲海・朝霧</div><div><span class="text-stone-400">■ 個室豊後牛会席:</span> 大分ブランド豊後牛ステーキと旬野菜</div><div><span class="text-stone-400">■ 足湯ラウンジ:</span> 由布岳を眺めながらフリードリンク</div><div class="md:col-span-2"><span class="text-stone-400">■ 特徴:</span> 由布院駅無料送迎あり＋楽天日本の宿アワード＋楽天4.69</div></div>
+<div class="space-y-4 text-xs text-stone-700 leading-relaxed">
+<div class="p-4 rounded-xl bg-emerald-50/70 border border-emerald-200"><h4 class="font-black text-emerald-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-emerald-600">✅</span> この宿を選ぶべき人</h4><p class="text-emerald-900">「由布院で最も由布岳が美しく見える離れ客室露天風呂と、豊後牛会席を優雅に楽しみたい方」に完璧です。</p></div>
+<div class="p-4 rounded-xl bg-teal-50/60 border border-teal-200"><h4 class="font-black text-teal-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-teal-600">🛁</span> この宿でしか得られない特別な宿泊体験（本音レビュー）</h4><p class="text-stone-800 leading-relaxed">由布院盆地を見下ろす高台に広がる離れリゾート。客室のテラスや露天風呂からは遮るもののない由布岳の全景が広がり、秋の早朝には盆地を覆う幻想的な朝霧を鑑賞。夕食は個室ダイニングで柔らかくジューシーな特選豊後牛や大分の旬の味覚を心ゆくまで堪能できます。</p></div>
+<div class="grid grid-cols-1 md:grid-cols-2 gap-3"><div class="p-3.5 rounded-xl bg-stone-50 border border-stone-200"><h5 class="font-bold text-stone-900 text-xs mb-1">🛏️ おすすめ客室タイプ</h5><p class="text-stone-600">「離れ 露天風呂付和洋室 花由エリア / プレミアム離れ」</p></div><div class="p-3.5 rounded-xl bg-stone-50 border border-stone-200"><h5 class="font-bold text-stone-900 text-xs mb-1">🍽️ おすすめ夕食プラン</h5><p class="text-stone-600">「個室で味わう！特選豊後牛ステーキ＆季節の創作会席プラン」</p></div></div>
+<div class="p-4 rounded-xl bg-sky-50/70 border border-sky-200"><h4 class="font-black text-sky-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-sky-600">🗺️</span> 交通アクセス＆おすすめ1泊2日タイムスケジュール</h4><p class="text-stone-700 mb-2"><strong>【アクセス】</strong>JR久大本線「由布院駅」より車約8分（無料送迎あり）。大分道「湯布院IC」より車約1分。</p><p class="text-stone-700"><strong>【滞在プラン】</strong>【1日目】15:00チェックイン → 15:30由布岳パノラマ客室露天風呂 → 18:30個室豊後牛ディナー【2日目】06:00朝霧と由布岳の朝風呂 → 08:00朝食 → 09:30金鱗湖・湯の坪街道へ出発</p></div>
+<div class="p-3.5 rounded-xl bg-rose-50/70 border border-rose-200"><h4 class="font-black text-rose-950 text-xs mb-1 flex items-center gap-1.5"><span class="text-rose-600">⚠️</span> 逆に向いていない人</h4><p class="text-rose-900">温泉街の中心部に歩いて行きたい方（車送迎推奨）。</p></div>
+<div class="p-4 rounded-xl bg-gradient-to-r from-emerald-700/10 via-teal-700/10 to-emerald-700/10 border-2 border-emerald-300"><h4 class="font-black text-emerald-950 text-xs mb-1 flex items-center gap-1.5"><span class="text-emerald-600">💡</span> 編集部の結論：「だから、この旅行ならここ」</h4><p class="text-emerald-950 font-bold">由布岳パノラマ離れ露天×朝霧絶景×個室豊後牛会席×楽天4.69。由布院で最も眺望が素晴らしい離れ宿です。</p></div>
+</div>
+<div class="mt-6 pt-5 border-t border-emerald-100 flex flex-col md:flex-row items-center justify-between gap-3"><div class="text-center md:text-left"><span class="text-[11px] text-stone-500 block">※由布院駅より無料送迎あり</span><span class="text-xs font-black text-emerald-800">由布岳を望む全室離れの宿</span></div><a href="{make_aff_url(76377)}" target="_blank" rel="noopener noreferrer" class="w-full md:w-auto px-8 py-4 bg-gradient-to-r from-emerald-700 via-teal-700 to-emerald-800 hover:from-emerald-800 hover:to-teal-800 text-white font-extrabold text-xs md:text-sm rounded-2xl shadow-lg hover:shadow-xl hover:scale-105 transition transform text-center inline-flex items-center justify-center gap-2"><span>✈️ 【公式】由布院温泉 朝霧のみえる宿 ゆふいん花由の空室・最安プランを見る</span></a></div>
+</div>''')
+
+# 宿8: 山水閣
+review_parts.append(f'''<div class="my-12 p-6 md:p-8 rounded-3xl bg-white border-2 border-emerald-200 shadow-xl hover:shadow-2xl transition duration-300">
+<div class="flex flex-wrap items-center justify-between border-b border-emerald-100 pb-4 mb-4 gap-2"><div class="flex items-center gap-3"><span class="px-3.5 py-1.5 bg-gradient-to-r from-emerald-700 to-teal-700 text-white font-black text-xs rounded-xl shadow-sm">第8位</span><h3 class="text-lg md:text-xl font-extrabold text-stone-900">栃木 那須高原 那須高原の宿 山水閣（さんすいかく）</h3></div><div class="flex items-center gap-2"><span class="text-xs text-stone-500 font-bold">📍 栃木県那須郡那須町湯本206</span><span class="px-3 py-1 bg-emerald-50 text-emerald-800 border border-emerald-300 font-black text-xs rounded-full shadow-sm">⭐ 4.61</span></div></div>
+<div class="mb-5 p-4 rounded-2xl bg-gradient-to-r from-emerald-50 to-teal-50 border border-emerald-200"><h4 class="font-black text-emerald-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-emerald-600">🏡</span> 離れ＆美食体験：那須の静かな森に佇む木造建築の隠れ宿＆那須黒毛和牛豆乳しゃぶしゃぶ</h4><p class="text-xs text-stone-700 leading-relaxed">「那須御用邸に隣接する深い森の中で、昭和初期の風情を残す木造建築に泊まり、名物・那須黒毛和牛の豆乳しゃぶしゃぶと那須名湯を味わいたい」という大人の静寂ステイに最適です。</p></div>
+<div class="mb-6 relative rounded-2xl overflow-hidden shadow-md group"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/109123/109123.jpg" alt="那須高原の宿 山水閣" class="w-full h-72 md:h-96 object-cover group-hover:scale-105 transition duration-500" loading="lazy" /><div class="absolute bottom-3 right-3 bg-stone-900/80 backdrop-blur text-white text-[11px] font-bold px-3 py-1 rounded-lg">公式提供写真</div></div>
+<div class="mb-6 p-4 rounded-2xl bg-stone-900 text-emerald-300 text-xs font-mono grid grid-cols-1 md:grid-cols-2 gap-2.5 shadow-inner"><div><span class="text-stone-400">■ 昭和初期の木造建築:</span> 磨き上げられた廊下と木の温もり</div><div><span class="text-stone-400">■ 名物 豆乳しゃぶしゃぶ:</span> 那須黒毛和牛A5ランクの絶品鍋</div><div><span class="text-stone-400">■ 那須温泉 自家源泉風呂:</span> 森林を望む貸切風呂と大浴場</div><div><span class="text-stone-400">■ 大人の隠れ宿:</span> 静けさを愛する旅人のための空間</div><div class="md:col-span-2"><span class="text-stone-400">■ 特徴:</span> 那須湯本温泉街至近＋楽天日本の宿アワード＋楽天4.61</div></div>
+<div class="space-y-4 text-xs text-stone-700 leading-relaxed">
+<div class="p-4 rounded-xl bg-emerald-50/70 border border-emerald-200"><h4 class="font-black text-emerald-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-emerald-600">✅</span> この宿を選ぶべき人</h4><p class="text-emerald-900">「那須の静寂な森に佇むクラシックな木造旅館で、名物豆乳しゃぶしゃぶと温泉に静かに浸かりたい方」に完璧です。</p></div>
+<div class="p-4 rounded-xl bg-teal-50/60 border border-teal-200"><h4 class="font-black text-teal-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-teal-600">🛁</span> この宿でしか得られない特別な宿泊体験（本音レビュー）</h4><p class="text-stone-800 leading-relaxed">那須の木々に囲まれた風情ある木造旅館。昭和の趣を残す館内はどこか懐かしく温かい空気が流れます。貸切風呂では那須の秋風を感じながら肌触りの良い温泉を満喫。夕食は名物の「那須黒毛和牛豆乳しゃぶしゃぶ」で、まろやかな豆乳出汁と極上和牛の甘みが口いっぱいに広がり感動します。</p></div>
+<div class="grid grid-cols-1 md:grid-cols-2 gap-3"><div class="p-3.5 rounded-xl bg-stone-50 border border-stone-200"><h5 class="font-bold text-stone-900 text-xs mb-1">🛏️ おすすめ客室タイプ</h5><p class="text-stone-600">「別邸 回 スイートルーム / 本館 特別室」</p></div><div class="p-3.5 rounded-xl bg-stone-50 border border-stone-200"><h5 class="font-bold text-stone-900 text-xs mb-1">🍽️ おすすめ夕食プラン</h5><p class="text-stone-600">「名物！那須黒毛和牛豆乳しゃぶしゃぶ＆季節の山里会席プラン」</p></div></div>
+<div class="p-4 rounded-xl bg-sky-50/70 border border-sky-200"><h4 class="font-black text-sky-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-sky-600">🗺️</span> 交通アクセス＆おすすめ1泊2日タイムスケジュール</h4><p class="text-stone-700 mb-2"><strong>【アクセス】</strong>JR「那須塩原駅」より路線バス約35分「一軒茶屋」下車徒歩約3分。東北道「那須IC」より車約15分。</p><p class="text-stone-700"><strong>【滞在プラン】</strong>【1日目】15:00チェックイン → 15:30森の貸切風呂 → 18:30個室で那須牛豆乳しゃぶしゃぶ会席【2日目】07:30朝風呂 → 08:30朝食 → 10:00殺生石・茶臼岳へ出発</p></div>
+<div class="p-3.5 rounded-xl bg-rose-50/70 border border-rose-200"><h4 class="font-black text-rose-950 text-xs mb-1 flex items-center gap-1.5"><span class="text-rose-600">⚠️</span> 逆に向いていない人</h4><p class="text-rose-900">近代的な高層ホテルを好む方。</p></div>
+<div class="p-4 rounded-xl bg-gradient-to-r from-emerald-700/10 via-teal-700/10 to-emerald-700/10 border-2 border-emerald-300"><h4 class="font-black text-emerald-950 text-xs mb-1 flex items-center gap-1.5"><span class="text-emerald-600">💡</span> 編集部の結論：「だから、この旅行ならここ」</h4><p class="text-emerald-950 font-bold">木造建築美×名物豆乳しゃぶしゃぶ×那須御用邸隣接の森×楽天4.61。那須で最も風情と静けさを味わえる隠れ家です。</p></div>
+</div>
+<div class="mt-6 pt-5 border-t border-emerald-100 flex flex-col md:flex-row items-center justify-between gap-3"><div class="text-center md:text-left"><span class="text-[11px] text-stone-500 block">※那須ICより車約15分</span><span class="text-xs font-black text-emerald-800">那須の森に佇む木造隠れ家</span></div><a href="{make_aff_url(109123)}" target="_blank" rel="noopener noreferrer" class="w-full md:w-auto px-8 py-4 bg-gradient-to-r from-emerald-700 via-teal-700 to-emerald-800 hover:from-emerald-800 hover:to-teal-800 text-white font-extrabold text-xs md:text-sm rounded-2xl shadow-lg hover:shadow-xl hover:scale-105 transition transform text-center inline-flex items-center justify-center gap-2"><span>✈️ 【公式】那須高原の宿 山水閣の空室・最安プランを見る</span></a></div>
+</div>''')
+
+# 宿9: きらの里
+review_parts.append(f'''<div class="my-12 p-6 md:p-8 rounded-3xl bg-white border-2 border-emerald-200 shadow-xl hover:shadow-2xl transition duration-300">
+<div class="flex flex-wrap items-center justify-between border-b border-emerald-100 pb-4 mb-4 gap-2"><div class="flex items-center gap-3"><span class="px-3.5 py-1.5 bg-gradient-to-r from-emerald-700 to-teal-700 text-white font-black text-xs rounded-xl shadow-sm">第9位</span><h3 class="text-lg md:text-xl font-extrabold text-stone-900">静岡 伊豆高原 杜の湯 きらの里（共立リゾート）</h3></div><div class="flex items-center gap-2"><span class="text-xs text-stone-500 font-bold">📍 静岡県伊東市八幡野1326-5</span><span class="px-3 py-1 bg-emerald-50 text-emerald-800 border border-emerald-300 font-black text-xs rounded-full shadow-sm">⭐ 4.57</span></div></div>
+<div class="mb-5 p-4 rounded-2xl bg-gradient-to-r from-emerald-50 to-teal-50 border border-emerald-200"><h4 class="font-black text-emerald-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-emerald-600">🏡</span> 離れ＆美食体験：6,600坪の里山に広がる離れ集落「竹ぶえ」＆源泉かけ流し露天風呂・選べる秋会席</h4><p class="text-xs text-stone-700 leading-relaxed">「伊豆高原の広大な里山に点在する離れの客室露天風呂で秋風を感じ、海鮮しゃぶしゃぶまたはお肉の炭火焼き会席と無料夜鳴きそばを楽しみたい」という連休旅行に最適です。</p></div>
+<div class="mb-6 relative rounded-2xl overflow-hidden shadow-md group"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/52638/52638.jpg" alt="きらの里" class="w-full h-72 md:h-96 object-cover group-hover:scale-105 transition duration-500" loading="lazy" /><div class="absolute bottom-3 right-3 bg-stone-900/80 backdrop-blur text-white text-[11px] font-bold px-3 py-1 rounded-lg">公式提供写真</div></div>
+<div class="mb-6 p-4 rounded-2xl bg-stone-900 text-emerald-300 text-xs font-mono grid grid-cols-1 md:grid-cols-2 gap-2.5 shadow-inner"><div><span class="text-stone-400">■ 離れ「竹ぶえ」:</span> 庭園露天風呂付きの平屋離れ客室</div><div><span class="text-stone-400">■ 源泉かけ流し「杜の湯」:</span> 8つの湯船と3つの無料貸切風呂</div><div><span class="text-stone-400">■ 選べる2つの夕食:</span> 海鮮しゃぶしゃぶ「海鮮処」または「山魁処」</div><div><span class="text-stone-400">■ 共立リゾート無料特典:</span> 夜鳴きそば・湯上がりアイス・乳酸菌</div><div class="md:col-span-2"><span class="text-stone-400">■ 特徴:</span> 伊豆高原駅無料送迎あり＋1泊1万円台半ば〜＋楽天4.57</div></div>
+<div class="space-y-4 text-xs text-stone-700 leading-relaxed">
+<div class="p-4 rounded-xl bg-emerald-50/70 border border-emerald-200"><h4 class="font-black text-emerald-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-emerald-600">✅</span> この宿を選ぶべき人</h4><p class="text-emerald-900">「里山の懐かしい原風景の中で、離れの露天風呂と無料貸切風呂、夜鳴きそばをコスパ良く楽しみたい方」に完璧です。</p></div>
+<div class="p-4 rounded-xl bg-teal-50/60 border border-teal-200"><h4 class="font-black text-teal-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-teal-600">🛁</span> この宿でしか得られない特別な宿泊体験（本音レビュー）</h4><p class="text-stone-800 leading-relaxed">伊豆高原の広大な敷地に田畑や小川が流れる里山リゾート。離れ「竹ぶえ」はプライベートな庭園露天風呂を備え、里山の秋風と虫の音に包まれます。3つの無料貸切風呂や大浴場露天風呂で湯巡りを満喫でき、夕食は伊豆の海の幸しゃぶしゃぶまたは炭火焼きが選べ、夜鳴きそばも大人気です。</p></div>
+<div class="grid grid-cols-1 md:grid-cols-2 gap-3"><div class="p-3.5 rounded-xl bg-stone-50 border border-stone-200"><h5 class="font-bold text-stone-900 text-xs mb-1">🛏️ おすすめ客室タイプ</h5><p class="text-stone-600">「離れ 竹ぶえ 露天風呂付客室 / うみとそら」</p></div><div class="p-3.5 rounded-xl bg-stone-50 border border-stone-200"><h5 class="font-bold text-stone-900 text-xs mb-1">🍽️ おすすめ夕食プラン</h5><p class="text-stone-600">「海鮮しゃぶしゃぶ又は国産牛炭火焼き会席プラン」</p></div></div>
+<div class="p-4 rounded-xl bg-sky-50/70 border border-sky-200"><h4 class="font-black text-sky-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-sky-600">🗺️</span> 交通アクセス＆おすすめ1泊2日タイムスケジュール</h4><p class="text-stone-700 mb-2"><strong>【アクセス】</strong>伊豆急行「伊豆高原駅」より無料送迎バス約7分。小田原厚木道路「小田原西IC」より車約75分。</p><p class="text-stone-700"><strong>【滞在プラン】</strong>【1日目】15:00チェックイン → 15:30里山散策＆無料貸切風呂 → 18:00選べる夕食会席 → 22:00夜鳴きそば【2日目】07:30朝風呂 → 08:30朝食 → 10:00城ヶ崎海岸・大室山へ出発</p></div>
+<div class="p-3.5 rounded-xl bg-rose-50/70 border border-rose-200"><h4 class="font-black text-rose-950 text-xs mb-1 flex items-center gap-1.5"><span class="text-rose-600">⚠️</span> 逆に向いていない人</h4><p class="text-rose-900">敷地内の移動（屋外歩行）が一切できない方。</p></div>
+<div class="p-4 rounded-xl bg-gradient-to-r from-emerald-700/10 via-teal-700/10 to-emerald-700/10 border-2 border-emerald-300"><h4 class="font-black text-emerald-950 text-xs mb-1 flex items-center gap-1.5"><span class="text-emerald-600">💡</span> 編集部の結論：「だから、この旅行ならここ」</h4><p class="text-emerald-950 font-bold">6600坪里山離れ×源泉かけ流し露天×無料夜鳴きそば×楽天4.57。伊豆高原で最も情緒ある里山リゾートです。</p></div>
+</div>
+<div class="mt-6 pt-5 border-t border-emerald-100 flex flex-col md:flex-row items-center justify-between gap-3"><div class="text-center md:text-left"><span class="text-[11px] text-stone-500 block">※伊豆高原駅より無料送迎あり</span><span class="text-xs font-black text-emerald-800">里山に佇む離れ露天風呂の宿</span></div><a href="{make_aff_url(52638)}" target="_blank" rel="noopener noreferrer" class="w-full md:w-auto px-8 py-4 bg-gradient-to-r from-emerald-700 via-teal-700 to-emerald-800 hover:from-emerald-800 hover:to-teal-800 text-white font-extrabold text-xs md:text-sm rounded-2xl shadow-lg hover:shadow-xl hover:scale-105 transition transform text-center inline-flex items-center justify-center gap-2"><span>✈️ 【公式】杜の湯 きらの里の空室・最安プランを見る</span></a></div>
+</div>''')
+
+# 宿10: 時わすれの宿 佳元
+review_parts.append(f'''<div class="my-12 p-6 md:p-8 rounded-3xl bg-white border-2 border-emerald-200 shadow-xl hover:shadow-2xl transition duration-300">
+<div class="flex flex-wrap items-center justify-between border-b border-emerald-100 pb-4 mb-4 gap-2"><div class="flex items-center gap-3"><span class="px-3.5 py-1.5 bg-gradient-to-r from-emerald-700 to-teal-700 text-white font-black text-xs rounded-xl shadow-sm">第10位</span><h3 class="text-lg md:text-xl font-extrabold text-stone-900">群馬 四万温泉 四万温泉 時わすれの宿 佳元（よしもと）</h3></div><div class="flex items-center gap-2"><span class="text-xs text-stone-500 font-bold">📍 群馬県吾妻郡中之条町四万4344-2</span><span class="px-3 py-1 bg-emerald-50 text-emerald-800 border border-emerald-300 font-black text-xs rounded-full shadow-sm">⭐ 4.31</span></div></div>
+<div class="mb-5 p-4 rounded-2xl bg-gradient-to-r from-emerald-50 to-teal-50 border border-emerald-200"><h4 class="font-black text-emerald-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-emerald-600">🏡</span> 離れ＆美食体験：四万川の清流を望む客室露天風呂（全8室）＆全国地酒BAR・上州牛会席</h4><p class="text-xs text-stone-700 leading-relaxed">「四万ブルーの清流沿いに佇む全8室の隠れ家で、川のせせらぎを聴く客室露天風呂に入り、地酒BARで全国の銘酒を味わいながら上州牛会席を堪能したい」という大人の連休旅に最適です。</p></div>
+<div class="mb-6 relative rounded-2xl overflow-hidden shadow-md group"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/76375/76375.jpg" alt="時わすれの宿 佳元" class="w-full h-72 md:h-96 object-cover group-hover:scale-105 transition duration-500" loading="lazy" /><div class="absolute bottom-3 right-3 bg-stone-900/80 backdrop-blur text-white text-[11px] font-bold px-3 py-1 rounded-lg">公式提供写真</div></div>
+<div class="mb-6 p-4 rounded-2xl bg-stone-900 text-emerald-300 text-xs font-mono grid grid-cols-1 md:grid-cols-2 gap-2.5 shadow-inner"><div><span class="text-stone-400">■ 全8室の小さな隠れ宿:</span> 四万川沿いの静寂に包まれた空間</div><div><span class="text-stone-400">■ 客室露天風呂付き客室:</span> 清流のせせらぎと秋風を満喫</div><div><span class="text-stone-400">■ 全国地酒BAR:</span> 利き酒師が厳選した地酒と焼酎</div><div><span class="text-stone-400">■ 上州牛炭火焼き会席:</span> 群馬の山里の恵みとブランド牛</div><div class="md:col-span-2"><span class="text-stone-400">■ 特徴:</span> 四万温泉バス停無料送迎あり＋四万川沿い＋楽天4.31</div></div>
+<div class="space-y-4 text-xs text-stone-700 leading-relaxed">
+<div class="p-4 rounded-xl bg-emerald-50/70 border border-emerald-200"><h4 class="font-black text-emerald-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-emerald-600">✅</span> この宿を選ぶべき人</h4><p class="text-emerald-900">「四万温泉の清流沿いで、全8室のプライベートな客室露天風呂と地酒BARを楽しみたい大人ペア」に最適です。</p></div>
+<div class="p-4 rounded-xl bg-teal-50/60 border border-teal-200"><h4 class="font-black text-teal-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-teal-600">🛁</span> この宿でしか得られない特別な宿泊体験（本音レビュー）</h4><p class="text-stone-800 leading-relaxed">四万温泉の清流・四万川のほとりに佇む全8室の隠れ宿。テラスに備えられた客室露天風呂からは川のせせらぎと木々の緑が望め、日々のストレスが溶けていきます。館内の地酒BARには全国から集められた希少な日本酒が並び、夕食の上州牛会席とともに贅沢なペアリングを堪能できます。</p></div>
+<div class="grid grid-cols-1 md:grid-cols-2 gap-3"><div class="p-3.5 rounded-xl bg-stone-50 border border-stone-200"><h5 class="font-bold text-stone-900 text-xs mb-1">🛏️ おすすめ客室タイプ</h5><p class="text-stone-600">「露天風呂付和室 / 展望風呂付客室」（四万川を望む客室）</p></div><div class="p-3.5 rounded-xl bg-stone-50 border border-stone-200"><h5 class="font-bold text-stone-900 text-xs mb-1">🍽️ おすすめ夕食プラン</h5><p class="text-stone-600">「個室食事処で味わう！上州牛ステーキ＆山里旬彩会席プラン」</p></div></div>
+<div class="p-4 rounded-xl bg-sky-50/70 border border-sky-200"><h4 class="font-black text-sky-950 text-xs mb-1.5 flex items-center gap-1.5"><span class="text-sky-600">🗺️</span> 交通アクセス＆おすすめ1泊2日タイムスケジュール</h4><p class="text-stone-700 mb-2"><strong>【アクセス】</strong>関越交通バス「四万温泉」終点より無料送迎あり（約3分）。関越道「渋川伊香保IC」より車約60分。</p><p class="text-stone-700"><strong>【滞在プラン】</strong>【1日目】15:00チェックイン → 15:30客室露天風呂 → 18:30個室で上州牛会席ディナー → 20:30地酒BAR【2日目】07:30朝風呂 → 08:30朝食 → 10:00四万湖・奥四万湖へ出発</p></div>
+<div class="p-3.5 rounded-xl bg-rose-50/70 border border-rose-200"><h4 class="font-black text-rose-950 text-xs mb-1 flex items-center gap-1.5"><span class="text-rose-600">⚠️</span> 逆に向いていない人</h4><p class="text-rose-900">大規模なリゾートホテルを好む方。</p></div>
+<div class="p-4 rounded-xl bg-gradient-to-r from-emerald-700/10 via-teal-700/10 to-emerald-700/10 border-2 border-emerald-300"><h4 class="font-black text-emerald-950 text-xs mb-1 flex items-center gap-1.5"><span class="text-emerald-600">💡</span> 編集部の結論：「だから、この旅行ならここ」</h4><p class="text-emerald-950 font-bold">全8室の清流隠れ宿×客室露天風呂×地酒BAR×楽天4.31。四万温泉で時間を忘れて寛げる大人の宿です。</p></div>
+</div>
+<div class="mt-6 pt-5 border-t border-emerald-100 flex flex-col md:flex-row items-center justify-between gap-3"><div class="text-center md:text-left"><span class="text-[11px] text-stone-500 block">※四万温泉バス停より無料送迎あり</span><span class="text-xs font-black text-emerald-800">全8室の清流隠れ宿</span></div><a href="{make_aff_url(76375)}" target="_blank" rel="noopener noreferrer" class="w-full md:w-auto px-8 py-4 bg-gradient-to-r from-emerald-700 via-teal-700 to-emerald-800 hover:from-emerald-800 hover:to-teal-800 text-white font-extrabold text-xs md:text-sm rounded-2xl shadow-lg hover:shadow-xl hover:scale-105 transition transform text-center inline-flex items-center justify-center gap-2"><span>✈️ 【公式】四万温泉 時わすれの宿 佳元の空室・最安プランを見る</span></a></div>
+</div>''')
+
+# FAQ・関連記事ナビ
+review_parts.append('''<h2 class="text-xl font-bold text-stone-900 border-b-2 border-emerald-700 pb-2 my-8">💡 離れ・客室露天の隠れ宿に関するよくある質問（FAQ）</h2>
+<div class="space-y-4 my-6">
+  <div class="p-5 rounded-2xl bg-white border border-stone-200 shadow-sm space-y-2">
+    <h4 class="text-sm font-bold text-stone-900 flex items-center gap-2">
+      <span class="px-2 py-0.5 bg-emerald-600 text-white text-xs font-black rounded-md">Q</span>
+      「離れ」と「一般客室」の具体的な違いやメリットは？
+    </h4>
+    <p class="text-xs text-stone-700 leading-relaxed pl-6 border-l-2 border-emerald-200">
+      <span class="font-bold text-emerald-700">A.</span> 離れ客室は、独立した一軒家や回廊で結ばれた平屋造りとなっており、<strong>「隣の部屋の足音や声が一切気にならず、完全なプライベート空間」</strong>が保たれます。大浴場に行かずに部屋の専用露天風呂だけで完結できるため、連休の混雑を完全に回避できます。
+    </p>
+  </div>
+
+  <div class="p-5 rounded-2xl bg-white border border-stone-200 shadow-sm space-y-2">
+    <h4 class="text-sm font-bold text-stone-900 flex items-center gap-2">
+      <span class="px-2 py-0.5 bg-emerald-600 text-white text-xs font-black rounded-md">Q</span>
+      シルバーウィークの離れ宿の予約競争率とおすすめの時期は？
+    </h4>
+    <p class="text-xs text-stone-700 leading-relaxed pl-6 border-l-2 border-emerald-200">
+      <span class="font-bold text-emerald-700">A.</span> 客室数が10〜20室前後の隠れ宿は部屋数が少ないため、<strong>「2〜3ヶ月前」</strong>には満室になるケースが多いです。しかし直前のキャンセル等で急に空室が出ることがあるため、楽天トラベルの最新空室カレンダーをこまめにチェックするのがおすすめです。
+    </p>
+  </div>
+
+  <div class="p-5 rounded-2xl bg-white border border-stone-200 shadow-sm space-y-2">
+    <h4 class="text-sm font-bold text-stone-900 flex items-center gap-2">
+      <span class="px-2 py-0.5 bg-emerald-600 text-white text-xs font-black rounded-md">Q</span>
+      客室露天風呂と大浴場はどちらも温泉？
+    </h4>
+    <p class="text-xs text-stone-700 leading-relaxed pl-6 border-l-2 border-emerald-200">
+      <span class="font-bold text-emerald-700">A.</span> 今回ご紹介した名門宿（名月荘・のし湯・強羅花扇・扇屋・ひだ路・和亭・ゆふいん花由等）は、<strong>「客室露天風呂にも本物の源泉温泉」</strong>が惜しみなく注がれており、24時間いつでも好きな時に極上の湯浴みが可能です。
+    </p>
+  </div>
+</div>
+
+<div class="my-10 p-6 rounded-3xl bg-stone-50 border border-stone-200/90 shadow-sm">
+  <div class="flex items-center gap-2 mb-3 border-b border-stone-200 pb-2">
+    <span class="px-2.5 py-0.5 bg-stone-800 text-white font-black text-xs rounded-md">旅行ナレッジ</span>
+    <h3 class="text-sm font-bold text-stone-900">📍 全室離れ・客室露天の隠れ宿 宿泊エリアガイド＆旅行情報</h3>
+  </div>
+  <p class="text-xs text-stone-600 leading-relaxed">
+    当ガイドでは、<strong>日本全国の全室離れ・客室露天風呂付き＆秋の松茸・ブランド牛会席自慢の名門温泉宿（山形かみのやま、熊本黒川、神奈川箱根強羅、佐賀武雄、岐阜奥飛騨、京都奥伊根、大分由布院、栃木那須、静岡伊豆高原、群馬四万）</strong>を厳選してご紹介しています。
+    楽天トラベルの最新空室状況・限定宿泊プラン・リアルタイムクチコミ評価と直結しており、失敗しないホテル選びをサポートします。
+  </p>
+  <div class="mt-4 pt-3 border-t border-stone-200 flex flex-wrap gap-2 text-2xs text-stone-500">
+    <span class="px-2 py-1 bg-white border border-stone-200 rounded-md">エリア: 全国（山形・熊本・神奈川・佐賀・岐阜・京都・大分・栃木・静岡・群馬）</span>
+    <span class="px-2 py-1 bg-white border border-stone-200 rounded-md">テーマ: シルバーウィーク・全室離れ・客室露天風呂・松茸・ブランド牛・お部屋食・隠れ家宿</span>
+    <span class="px-2 py-1 bg-white border border-stone-200 rounded-md">更新日: 2026年最新版</span>
+    <span class="px-2 py-1 bg-white border border-stone-200 rounded-md">即時予約・公式連携</span>
+  </div>
+</div>
+
+<div class="my-12 p-6 md:p-8 rounded-3xl bg-gradient-to-br from-stone-50 via-emerald-50/40 to-teal-50/30 border border-emerald-200/80 shadow-md">
+  <div class="flex items-center gap-2 mb-4 border-b border-emerald-200 pb-3">
+    <span class="px-3 py-1 bg-emerald-700 text-white font-black text-xs rounded-lg">関連記事ナビ</span>
+    <h3 class="text-base md:text-lg font-bold text-stone-900">🗺️ あわせて読みたい！秋の連休＆大人の贅沢特集</h3>
+  </div>
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-4 my-4">
+    <div class="p-4 rounded-2xl bg-white border border-stone-200/90 shadow-sm space-y-2">
+      <h4 class="text-xs font-black text-emerald-900">💎 人気の秋連休・贅沢特集</h4>
+      <a href="/posts/silver-week-all-inclusive-free-drinks-resort-hotels-guide" class="block p-2.5 rounded-xl bg-white hover:bg-emerald-50 border border-stone-200 text-xs font-bold text-stone-800 hover:text-emerald-700 transition">
+        👉 【2026SW】お酒飲み放題！オールインクル宿10選
+      </a>
+      <a href="/posts/silver-week-ocean-view-infinity-onsen-hotels-guide" class="block p-2.5 rounded-xl bg-white hover:bg-emerald-50 border border-stone-200 text-xs font-bold text-stone-800 hover:text-emerald-700 transition">
+        👉 【2026SW】海一望インフィニティ露天宿10選！比較
+      </a>
+      <a href="/posts/silver-week-three-generation-keirou-onsen-hotels-guide" class="block p-2.5 rounded-xl bg-white hover:bg-emerald-50 border border-stone-200 text-xs font-bold text-stone-800 hover:text-emerald-700 transition">
+        👉 【2026SW】三世代・敬老祝い名門温泉宿10選！比較
+      </a>
+      <a href="/posts/silver-week-autumn-highland-panoramic-resort-hotels-guide" class="block p-2.5 rounded-xl bg-white hover:bg-emerald-50 border border-stone-200 text-xs font-bold text-stone-800 hover:text-emerald-700 transition">
+        👉 【2026SW】秋風爽やかな高原リゾート宿10選！比較
+      </a>
+    </div>
+    <div class="p-4 rounded-2xl bg-white border border-stone-200/90 shadow-sm space-y-2">
+      <h4 class="text-xs font-black text-teal-900">🎌 エリア別特集</h4>
+      <a href="/posts/yamagata-hotels-selection-guide" class="block text-xs font-bold text-stone-800 hover:text-teal-700">🏨 【山形・かみのやま蔵王】厳選10選ガイド</a>
+      <a href="/posts/kanagawa-hotels-selection-guide" class="block text-xs font-bold text-stone-800 hover:text-teal-700">🏨 【神奈川・箱根強羅】厳選10選ガイド</a>
+      <a href="/posts/kyoto-hotels-selection-guide" class="block text-xs font-bold text-stone-800 hover:text-teal-700">🏨 【京都・伊根天橋立】厳選10選ガイド</a>
+      <a href="/posts/oita-hotels-selection-guide" class="block text-xs font-bold text-stone-800 hover:text-teal-700">🏨 【大分・由布院別府】厳選10選ガイド</a>
+    </div>
+  </div>
+</div>''')
+
+slug = 'silver-week-luxury-private-villa-retreat-hotels-guide'
+title = '【2026SW】全室離れ・客室露天の隠れ宿10選！比較'
+desc = 'シルバーウィークは大人の隠れ家へ！由布院・箱根強羅・黒川・奥飛騨・奥伊根から山形名月荘、那須まで徹底比較。全室離れや客室露天風呂、秋の松茸・ブランド和牛の個室会席で混雑を避けて寛げる名門宿10選を本音レビュー。全施設楽天公式最新空室リンク付き。'
+
+post_data = {
+    'id': slug,
+    'slug': slug,
+    'title': title,
+    'description': desc,
+    'prefecture': '全国',
+    'area': '全国（山形・熊本・神奈川・佐賀・岐阜・京都・大分・栃木・静岡・群馬）',
+    'hotel_name': '全室離れ・客室露天の隠れ宿おすすめ10選',
+    'image': 'https://img.travel.rakuten.co.jp/share/HOTEL/67228/67228.jpg',
+    'other_images': [],
+    'affiliate_url': make_aff_url(67228),
+    'price': 26400,
+    'rating': 5.00,
+    'date': '2026-08-27',
+    'categories': [
+        '特集10選',
+        'キラーコンテンツ',
+        '後悔回避',
+        'ホテル厳選',
+        'シルバーウィーク',
+        '全室離れ',
+        '客室露天風呂',
+        '隠れ家'
+    ],
+    'keywords': [
+        'シルバーウィーク 離れ 宿 おすすめ 10選',
+        'シルバーウィーク 客室露天風呂 比較',
+        '9月連休 高級旅館 宿泊 予約',
+        '秋の連休 プライベート温泉 比較',
+        'シルバーウィーク 松茸 ブランド牛 宿 比較',
+        '離れ 露天風呂 楽天トラベル'
+    ],
+    'is_special_feature': True,
+    'review': ''.join(review_parts)
+}
+
+target_file = f'src/data/posts/{slug}.json'
+with open(target_file, 'w', encoding='utf-8') as f:
+    json.dump(post_data, f, ensure_ascii=False, indent=2)
+
+print('Generated post file successfully:', target_file)
