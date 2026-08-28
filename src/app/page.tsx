@@ -120,29 +120,372 @@ export default function Home() {
             旅ライターが厳選した、楽天トラベルでおもわず予約したくなる「一生に一度は泊まりたい宿」と全国47都道府県の見所を特集。あなただけの至福の旅がここから始まります。
           </p>
 
-          <div className="flex flex-wrap justify-center gap-4 pt-4">
-          <Link
-            href="/kanazawa"
-            className="px-8 py-4 text-sm font-black text-teal-950 bg-gradient-to-r from-amber-300 via-amber-200 to-amber-400 hover:from-amber-200 hover:to-amber-300 rounded-2xl shadow-xl transition transform hover:-translate-y-0.5 border border-amber-200 flex items-center gap-2"
-          >
-            <span>🌸</span>
-            <span>金沢旅行 完全計画ガイド</span>
-          </Link>
-          <Link
-            href="/noto"
-            className="px-8 py-4 text-sm font-black text-white bg-gradient-to-r from-teal-700 via-emerald-800 to-teal-900 hover:from-teal-600 hover:to-emerald-700 rounded-2xl shadow-xl transition transform hover:-translate-y-0.5 border border-teal-500/30 flex items-center gap-2"
-          >
-            <span>🌊</span>
-            <span>能登旅行 完全計画ガイド</span>
-          </Link>
-          <Link
-            href="/prefectures"
-            className="px-8 py-4 text-sm font-bold text-white bg-white/10 hover:bg-white/20 backdrop-blur-md rounded-2xl shadow-lg transition border border-white/20 flex items-center gap-2"
-          >
-            <span>🗾</span>
-            <span>全国47都道府県から探す</span>
-          </Link>
-        </div>
+          <div className="flex flex-wrap justify-center gap-2.5 pt-4">
+            <Link
+              href="/autumn-leaves"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-red-600 via-rose-700 to-amber-700 hover:from-red-500 hover:to-amber-600 rounded-2xl shadow-lg transition border border-red-300/40 flex items-center gap-1.5 animate-pulse"
+            >
+              <span>🍁</span>
+              <span>全国 紅葉露天風呂</span>
+            </Link>
+            <Link
+              href="/silver-week"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-indigo-700 to-teal-800 hover:from-indigo-600 hover:to-teal-700 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>🎯</span>
+              <span>シルバーウィーク人気宿</span>
+            </Link>
+            <Link
+              href="/winter-crab-gourmet"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-orange-600 to-red-700 hover:from-orange-500 hover:to-red-600 rounded-2xl shadow-lg transition border border-orange-300/40 flex items-center gap-1.5"
+            >
+              <span>🦀</span>
+              <span>冬のカニ食べ尽くし宿</span>
+            </Link>
+            <Link
+              href="/winter-snow-onsen"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-slate-700 to-blue-800 hover:from-slate-600 hover:to-blue-700 rounded-2xl shadow-lg transition border border-blue-300/40 flex items-center gap-1.5"
+            >
+              <span>❄️</span>
+              <span>雪見露天風呂＆秘湯</span>
+            </Link>
+            <Link
+              href="/spring-cherry-blossoms"
+              className="px-5 py-3 text-xs md:text-sm font-black text-rose-950 bg-gradient-to-r from-pink-300 to-rose-300 hover:from-pink-200 hover:to-rose-200 rounded-2xl shadow-lg transition border border-pink-200 flex items-center gap-1.5"
+            >
+              <span>🌸</span>
+              <span>桜・お花見絶景宿</span>
+            </Link>
+            <Link
+              href="/summer-infinity-pool"
+              className="px-5 py-3 text-xs md:text-sm font-black text-cyan-950 bg-gradient-to-r from-cyan-300 to-blue-300 hover:from-cyan-200 hover:to-blue-200 rounded-2xl shadow-lg transition border border-cyan-200 flex items-center gap-1.5"
+            >
+              <span>🏊</span>
+              <span>インフィニティプール宿</span>
+            </Link>
+            <Link
+              href="/autumn-gourmet-matsutake-wagyu"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-700 to-rose-900 hover:from-amber-600 hover:to-rose-800 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🍄</span>
+              <span>松茸＆ブランド和牛宿</span>
+            </Link>
+            <Link
+              href="/winter-ski-snowboard-resort"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-cyan-700 to-blue-900 hover:from-cyan-600 hover:to-blue-800 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>⛷️</span>
+              <span>ゲレンデ直結スキー宿</span>
+            </Link>
+            <Link
+              href="/winter-illumination-hotels"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-indigo-800 via-purple-800 to-rose-900 hover:from-indigo-700 hover:to-rose-800 rounded-2xl shadow-lg transition border border-purple-300/40 flex items-center gap-1.5"
+            >
+              <span>✨</span>
+              <span>イルミネーション夜景宿</span>
+            </Link>
+            <Link
+              href="/new-year-hatsumode-onsen"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-red-700 via-amber-700 to-yellow-800 hover:from-red-600 hover:to-amber-700 rounded-2xl shadow-lg transition border border-yellow-300/40 flex items-center gap-1.5"
+            >
+              <span>🌅</span>
+              <span>初詣＆初日の出宿</span>
+            </Link>
+            <Link
+              href="/autumn-wine-fruit-hunting"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-purple-800 to-rose-800 hover:from-purple-700 hover:to-rose-700 rounded-2xl shadow-lg transition border border-purple-300/40 flex items-center gap-1.5"
+            >
+              <span>🍇</span>
+              <span>ワイナリー＆果実狩り宿</span>
+            </Link>
+            <Link
+              href="/winter-hot-pot-gourmet"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-red-700 via-orange-800 to-amber-850 hover:from-red-600 hover:to-orange-700 rounded-2xl shadow-lg transition border border-orange-300/40 flex items-center gap-1.5"
+            >
+              <span>🍲</span>
+              <span>ご当地あったか鍋宿</span>
+            </Link>
+            <Link
+              href="/autumn-winter-sea-of-clouds"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-sky-700 to-indigo-900 hover:from-sky-600 hover:to-indigo-800 rounded-2xl shadow-lg transition border border-sky-300/40 flex items-center gap-1.5"
+            >
+              <span>☁️</span>
+              <span>天空の雲海テラス宿</span>
+            </Link>
+            <Link
+              href="/winter-onsen-town-yukata-walk"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-800 to-stone-900 hover:from-amber-700 hover:to-stone-800 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>👘</span>
+              <span>温泉街・浴衣湯巡り宿</span>
+            </Link>
+            <Link
+              href="/autumn-winter-solo-travel-retreat"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-teal-800 to-slate-900 hover:from-teal-700 hover:to-slate-800 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>👤</span>
+              <span>気ままなおひとり様宿</span>
+            </Link>
+            <Link
+              href="/autumn-winter-sauna-retreat"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-700 to-cyan-900 hover:from-emerald-600 hover:to-cyan-800 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>🧖</span>
+              <span>絶景サウナ＆天然水風呂</span>
+            </Link>
+            <Link
+              href="/winter-starry-sky-astrophotography"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-900 via-indigo-950 to-slate-900 hover:from-blue-800 hover:to-indigo-900 rounded-2xl shadow-lg transition border border-indigo-300/40 flex items-center gap-1.5"
+            >
+              <span>🌌</span>
+              <span>満天の星空観賞宿</span>
+            </Link>
+            <Link
+              href="/autumn-winter-glamping-tent"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-700 via-orange-850 to-stone-900 hover:from-amber-600 hover:to-orange-750 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>⛺</span>
+              <span>焚き火グランピング宿</span>
+            </Link>
+            <Link
+              href="/autumn-winter-hot-spring-cure"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-800 to-teal-950 hover:from-emerald-700 hover:to-teal-900 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>♨️</span>
+              <span>本格源泉かけ流し秘湯</span>
+            </Link>
+            <Link
+              href="/autumn-art-museum-retreat"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-800 via-purple-900 to-slate-900 hover:from-rose-700 hover:to-purple-800 rounded-2xl shadow-lg transition border border-rose-300/40 flex items-center gap-1.5"
+            >
+              <span>🎨</span>
+              <span>名作アート＆美術館宿</span>
+            </Link>
+            <Link
+              href="/winter-bayside-factory-nightview"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-slate-800 via-cyan-950 to-blue-900 hover:from-slate-700 hover:to-cyan-900 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>🏭</span>
+              <span>工場夜景＆ベイサイド宿</span>
+            </Link>
+            <Link
+              href="/winter-snow-drift-ice-cruise"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-sky-800 via-blue-950 to-indigo-900 hover:from-sky-700 hover:to-indigo-800 rounded-2xl shadow-lg transition border border-sky-300/40 flex items-center gap-1.5"
+            >
+              <span>🧊</span>
+              <span>オホーツク流氷クルーズ宿</span>
+            </Link>
+            <Link
+              href="/autumn-winter-brewery-sake-tour"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-800 via-stone-850 to-rose-950 hover:from-amber-700 hover:to-stone-800 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🍶</span>
+              <span>日本酒酒蔵めぐり宿</span>
+            </Link>
+            <Link
+              href="/winter-warm-island-escape"
+              className="px-5 py-3 text-xs md:text-sm font-black text-cyan-950 bg-gradient-to-r from-teal-300 via-cyan-300 to-emerald-300 hover:from-teal-200 hover:to-emerald-200 rounded-2xl shadow-lg transition border border-teal-300 flex items-center gap-1.5"
+            >
+              <span>🌴</span>
+              <span>冬の南国ぽかぽか避寒旅</span>
+            </Link>
+            <Link
+              href="/autumn-temple-garden-lightup"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 via-red-800 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-lg transition border border-rose-300/40 flex items-center gap-1.5"
+            >
+              <span>🏮</span>
+              <span>紅葉庭園ライトアップ宿</span>
+            </Link>
+            <Link
+              href="/autumn-winter-onsen-with-pet"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-750 via-teal-850 to-stone-900 hover:from-emerald-650 hover:to-stone-800 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>🐾</span>
+              <span>愛犬と泊まる温泉宿</span>
+            </Link>
+            <Link
+              href="/winter-oyster-seafood-gourmet"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-700 via-indigo-850 to-teal-900 hover:from-blue-600 hover:to-indigo-750 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>🦪</span>
+              <span>冬の極上牡蠣＆海鮮宿</span>
+            </Link>
+            <Link
+              href="/autumn-winter-train-scenery-station"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-750 via-orange-850 to-rose-900 hover:from-amber-650 hover:to-orange-750 rounded-2xl shadow-lg transition border border-orange-300/40 flex items-center gap-1.5"
+            >
+              <span>🚂</span>
+              <span>絶景観光列車＆駅近宿</span>
+            </Link>
+            <Link
+              href="/autumn-winter-fireplace-cafe-resort"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-stone-800 via-amber-950 to-stone-900 hover:from-stone-700 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🪵</span>
+              <span>暖炉と読書クラシック宿</span>
+            </Link>
+            <Link
+              href="/winter-snow-festival-illumination"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-cyan-700 via-blue-900 to-indigo-950 hover:from-cyan-600 hover:to-blue-800 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>⛄</span>
+              <span>雪まつり＆かまくら宿</span>
+            </Link>
+            <Link
+              href="/autumn-winter-scenic-drive-pass"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-800 via-teal-900 to-sky-950 hover:from-emerald-700 hover:to-teal-800 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>🚗</span>
+              <span>パノラマ絶景ドライブ宿</span>
+            </Link>
+            <Link
+              href="/autumn-winter-private-bath-ryokan"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-900 via-pink-950 to-stone-900 hover:from-rose-800 hover:to-pink-900 rounded-2xl shadow-lg transition border border-rose-300/40 flex items-center gap-1.5"
+            >
+              <span>🛁</span>
+              <span>貸切露天風呂＆部屋食宿</span>
+            </Link>
+            <Link
+              href="/winter-clear-air-fuji-view-hotels"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-sky-850 via-blue-950 to-red-950 hover:from-sky-750 hover:to-red-900 rounded-2xl shadow-lg transition border border-sky-300/40 flex items-center gap-1.5"
+            >
+              <span>🗻</span>
+              <span>冠雪富士ビュー絶景宿</span>
+            </Link>
+            <Link
+              href="/autumn-winter-traditional-ryokan-retro"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-850 via-yellow-950 to-stone-900 hover:from-amber-750 hover:to-stone-800 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🏮</span>
+              <span>大正ロマン文化財老舗宿</span>
+            </Link>
+            <Link
+              href="/winter-snow-fireworks-festivals"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-indigo-850 via-purple-950 to-pink-950 hover:from-indigo-750 hover:to-pink-900 rounded-2xl shadow-lg transition border border-purple-300/40 flex items-center gap-1.5"
+            >
+              <span>🎆</span>
+              <span>冬花火＆雪上花火の宿</span>
+            </Link>
+            <Link
+              href="/autumn-winter-workation-hot-spring"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-teal-850 via-slate-900 to-emerald-950 hover:from-teal-750 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>💻</span>
+              <span>温泉ワーケーション宿</span>
+            </Link>
+            <Link
+              href="/winter-snowshoe-frozen-waterfall"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-sky-750 via-cyan-900 to-blue-950 hover:from-sky-650 hover:to-cyan-850 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>❄️</span>
+              <span>氷瀑＆スノーシュー探検宿</span>
+            </Link>
+            <Link
+              href="/autumn-winter-traditional-craft-pottery"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-800 via-stone-850 to-orange-950 hover:from-amber-700 hover:to-stone-800 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🏺</span>
+              <span>伝統工芸＆陶芸の里宿</span>
+            </Link>
+            <Link
+              href="/autumn-winter-all-inclusive-luxury"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-purple-850 via-indigo-950 to-rose-950 hover:from-purple-750 hover:to-indigo-900 rounded-2xl shadow-lg transition border border-purple-300/40 flex items-center gap-1.5"
+            >
+              <span>🍹</span>
+              <span>極上オールインクルーシブ</span>
+            </Link>
+            <Link
+              href="/autumn-winter-strawberry-picking-resort"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-red-650 via-rose-800 to-pink-900 hover:from-red-550 hover:to-rose-700 rounded-2xl shadow-lg transition border border-rose-300/40 flex items-center gap-1.5"
+            >
+              <span>🍓</span>
+              <span>いちご狩り＆温泉宿</span>
+            </Link>
+            <Link
+              href="/autumn-winter-sacred-power-spot"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-850 via-teal-950 to-stone-900 hover:from-emerald-750 hover:to-teal-900 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>⛩️</span>
+              <span>開運パワースポット＆宿坊</span>
+            </Link>
+            <Link
+              href="/anniversary-luxury-suite"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-950 bg-gradient-to-r from-amber-300 via-amber-200 to-yellow-400 hover:from-amber-200 hover:to-yellow-300 rounded-2xl shadow-lg transition border border-amber-300 flex items-center gap-1.5"
+            >
+              <span>👑</span>
+              <span>記念日・極上スイート</span>
+            </Link>
+            <Link
+              href="/kyoto"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
+            >
+              <span>🍁</span>
+              <span>京都旅行 完全ガイド</span>
+            </Link>
+            <Link
+              href="/okinawa"
+              className="px-5 py-3 text-xs md:text-sm font-black text-cyan-950 bg-gradient-to-r from-cyan-300 to-teal-300 hover:from-cyan-200 hover:to-teal-200 rounded-2xl shadow-md transition border border-cyan-200 flex items-center gap-1.5"
+            >
+              <span>🌺</span>
+              <span>沖縄旅行 完全ガイド</span>
+            </Link>
+            <Link
+              href="/hokkaido"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-700 to-teal-800 hover:from-blue-600 hover:to-teal-700 rounded-2xl shadow-md transition border border-blue-400/30 flex items-center gap-1.5"
+            >
+              <span>🏔️</span>
+              <span>北海道 完全ガイド</span>
+            </Link>
+            <Link
+              href="/tokyo"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-indigo-700 to-slate-800 hover:from-indigo-600 hover:to-slate-700 rounded-2xl shadow-md transition border border-indigo-400/30 flex items-center gap-1.5"
+            >
+              <span>🗼</span>
+              <span>東京観光 完全ガイド</span>
+            </Link>
+            <Link
+              href="/osaka"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-600 to-rose-700 hover:from-amber-500 hover:to-rose-600 rounded-2xl shadow-md transition border border-amber-300/30 flex items-center gap-1.5"
+            >
+              <span>🐙</span>
+              <span>大阪観光 完全ガイド</span>
+            </Link>
+            <Link
+              href="/fukuoka"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-red-700 to-amber-800 hover:from-red-600 hover:to-amber-700 rounded-2xl shadow-md transition border border-red-400/30 flex items-center gap-1.5"
+            >
+              <span>🍜</span>
+              <span>福岡博多 完全ガイド</span>
+            </Link>
+            <Link
+              href="/hakone"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-800 to-teal-900 hover:from-emerald-700 hover:to-teal-800 rounded-2xl shadow-md transition border border-emerald-400/30 flex items-center gap-1.5"
+            >
+              <span>♨️</span>
+              <span>箱根温泉 完全ガイド</span>
+            </Link>
+            <Link
+              href="/kanazawa"
+              className="px-5 py-3 text-xs md:text-sm font-black text-teal-950 bg-gradient-to-r from-amber-300 to-amber-400 hover:from-amber-200 hover:to-amber-300 rounded-2xl shadow-md transition border border-amber-200 flex items-center gap-1.5"
+            >
+              <span>🌸</span>
+              <span>金沢旅行 完全ガイド</span>
+            </Link>
+            <Link
+              href="/noto"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-teal-700 to-emerald-800 hover:from-teal-600 hover:to-emerald-700 rounded-2xl shadow-md transition border border-teal-500/30 flex items-center gap-1.5"
+            >
+              <span>🌊</span>
+              <span>能登旅行 完全ガイド</span>
+            </Link>
+            <Link
+              href="/prefectures"
+              className="px-5 py-3 text-xs md:text-sm font-bold text-white bg-white/10 hover:bg-white/20 backdrop-blur-md rounded-2xl shadow-md transition border border-white/20 flex items-center gap-1.5"
+            >
+              <span>🗾</span>
+              <span>47都道府県一覧</span>
+            </Link>
+          </div>
         </div>
 
         {/* 雑誌スタッツカウンター風UI */}
@@ -233,7 +576,7 @@ export default function Home() {
       {/* 記事一覧（フィルター付きClient Component） */}
       <PostListClient initialPosts={posts} />
 
-      {/* 🔍 人気検索テーマ・こだわり条件別タグクラウド（SEO全クエリハブ） */}
+      {/* 🔍 人気検索テーマ・こだわり条件別タグクラウド */}
       <section className="bg-gradient-to-br from-slate-900 via-emerald-950 to-teal-950 text-white rounded-3xl p-6 md:p-10 space-y-6 shadow-xl border border-white/10">
         <div className="space-y-2 border-b border-white/10 pb-4">
           <span className="text-[10px] font-extrabold text-amber-300 bg-amber-500/20 border border-amber-500/30 px-3 py-0.5 rounded-full uppercase tracking-widest inline-block">

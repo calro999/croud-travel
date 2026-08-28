@@ -357,7 +357,7 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
               )}
             </div>
 
-            {/* 宿泊施設 詳細情報（SEO対策・よくある検索） */}
+            {/* 宿泊施設 詳細情報 */}
             { (post.recommended_for || post.nearby_tourist_spots || post.parking_info || post.family_friendly || post.hot_spring_info || post.nearby_gourmet || post.meal_availability) && (
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4 p-6 rounded-2xl bg-teal-50/30 border border-teal-900/10 text-sm mt-4">
                 {post.recommended_for && post.recommended_for.length > 0 && (
@@ -405,7 +405,7 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
               </div>
             )}
 
-            {/* 宿の近くにあるフェーズ2.5観光名所解説リンク（回遊動線） */}
+            {/* 宿の近くにある周辺の観光名所ガイド */}
             {(() => {
               const safePref = post.prefecture || "";
               const cleanPref = safePref.replace(/(県|府|東京都)$/, "");

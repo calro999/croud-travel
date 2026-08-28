@@ -106,13 +106,47 @@ function loadSinglePost(postId: string): Post | undefined {
   return undefined;
 }
 
-// ミクロエリアに対して、絶対に100%実在するPostオブジェクトを最低3件抽出する関数
-function getRealPostsForSubArea(subArea: SubAreaInfo, allPosts: Post[], prefName: string): Post[] {
-  const result: Post[] = [];
+function loadSubAreaRakutenHotels(): Record<string, any[]> {
+  try {
+    const p1 = path.join(process.cwd(), "src", "data", "subareas_rakuten_hotels.json");
+    if (fs.existsSync(p1)) {
+      return JSON.parse(fs.readFileSync(p1, "utf8"));
+    }
+  } catch (e) {
+    console.error("Failed to load subarea rakuten hotels:", e);
+  }
+  return {};
+}
+
+const subAreaRakutenData = loadSubAreaRakutenHotels();
+
+// ミクロエリアに対して、楽天API直接取得データまたは実在Postオブジェクトを厳選抽出する関数
+function getRealPostsForSubArea(subArea: SubAreaInfo, allPosts: Post[], prefName: string, prefSlug: string): any[] {
+  const result: any[] = [];
   const safePrefName = prefName || "";
   const cleanPref = safePrefName.replace(/(県|府|東京都)$/, "");
 
-  // 1. subAreaHotelsのpostIdから実在ポストを取得
+  // 1. 楽天API直接取得データから最優先で取得（楽天API公式ホテルデータ）
+  const directKey = `${prefSlug}_${subArea.slug}`;
+  if (subAreaRakutenData[directKey] && subAreaRakutenData[directKey].length > 0) {
+    for (const h of subAreaRakutenData[directKey]) {
+      result.push({
+        id: `rakuten-${h.hotelNo}`,
+        hotel_name: h.hotelName,
+        image: h.hotelImageUrl,
+        price: h.hotelMinCharge,
+        rating: h.reviewAverage,
+        area: subArea.areaName,
+        prefecture: safePrefName,
+        affiliate_url: h.affiliateUrl,
+        hotelSpecial: h.hotelSpecial || h.access,
+        isDirectRakuten: true
+      });
+      if (result.length >= 3) return result;
+    }
+  }
+
+  // 2. subAreaHotelsのpostIdから実在ポストを取得
   if (subArea.subAreaHotels) {
     for (const item of subArea.subAreaHotels) {
       if (item.postId) {
@@ -124,7 +158,7 @@ function getRealPostsForSubArea(subArea: SubAreaInfo, allPosts: Post[], prefName
     }
   }
 
-  // 2. 3件に満たない場合、該当都道府県内の実在ポストからキーワードマッチ
+  // 3. 3件に満たない場合、該当都道府県内の実在ポストからキーワードマッチ
   if (result.length < 3) {
     const prefPosts = allPosts.filter(p => {
       if (!p.prefecture) return false;
@@ -137,26 +171,6 @@ function getRealPostsForSubArea(subArea: SubAreaInfo, allPosts: Post[], prefName
     });
 
     for (const p of matched) {
-      if (!result.some(r => r.id === p.id)) {
-        result.push(p);
-        if (result.length >= 3) break;
-      }
-    }
-
-    // 3. まだ足りなければ都道府県内の任意の実在ポストを追加
-    if (result.length < 3) {
-      for (const p of prefPosts) {
-        if (!result.some(r => r.id === p.id)) {
-          result.push(p);
-          if (result.length >= 3) break;
-        }
-      }
-    }
-  }
-
-  // 4. 万一それでも全県で足りなければ、全実在ポストから補完
-  if (result.length < 3) {
-    for (const p of allPosts) {
       if (!result.some(r => r.id === p.id)) {
         result.push(p);
         if (result.length >= 3) break;
@@ -300,6 +314,43 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
           <span>📌</span> <span>目的のエリア・特集へ即座にスキップ</span>
         </h2>
         
+        {/* 特設ハブページへのダイレクトリンク */}
+        {(() => {
+          const hubLinks: Record<string, { title: string; desc: string; href: string; badge: string }> = {
+            kyoto: { title: "【京都旅行 完全ガイド】1泊2日・2泊3日モデルコース＆おすすめホテル・温泉旅館", desc: "カップル・子連れ・女子旅・穴場・雨の日・夜観光・京都駅ホテル選びまで完全網羅", href: "/kyoto", badge: "特集 🍁" },
+            okinawa: { title: "【沖縄旅行 完全ガイド】2泊3日・3泊4日モデルコース＆ビーチリゾートホテル", desc: "那覇国際通り・恩納村・美ら海水族館・子連れプール付き宿・レンタカー情報完全網羅", href: "/okinawa", badge: "特集 🌺" },
+            hokkaido: { title: "【北海道旅行 完全ガイド】2泊3日・3泊4日モデルコース＆札幌・函館朝食・温泉宿", desc: "札幌・小樽・函館・富良野広域ルート・絶品海鮮バイキング・登別定山渓温泉完全網羅", href: "/hokkaido", badge: "特集 🏔️" },
+            tokyo: { title: "【東京観光 完全ガイド】1泊2日・2泊3日モデルコース＆夜景・朝食ビュッフェ宿", desc: "東京駅・新宿・渋谷・浅草・銀座・お台場・高層階夜景ホテル選び完全網羅", href: "/tokyo", badge: "特集 🗼" },
+            osaka: { title: "【大阪観光 完全ガイド】1泊2日・2泊3日モデルコース＆梅田・なんば・USJ宿", desc: "道頓堀グルメ食べ歩き・USJ周辺オフィシャルホテル・駅チカ人気宿完全網羅", href: "/osaka", badge: "特集 🐙" },
+            fukuoka: { title: "【福岡・博多旅行 完全ガイド】1泊2日・2泊3日モデルコース＆博多駅直結宿", desc: "中洲屋台・もつ鍋・太宰府糸島・明太子朝食バイキング・温泉旅館完全網羅", href: "/fukuoka", badge: "特集 🍜" },
+            kanagawa: { title: "【箱根温泉 完全ガイド】1泊2日王道モデルコース＆客室露天風呂・記念日宿", desc: "箱根湯本駅チカ・強羅・芦ノ湖絶景リゾート・カップル向け極上温泉宿完全網羅", href: "/hakone", badge: "特集 ♨️" },
+            ishikawa: { title: "【金沢・能登旅行 完全ガイド】モデルコース＆海鮮グルメ・おすすめ宿", desc: "兼六園・ひがし茶屋街・近江町市場・のどぐろ・和倉温泉・露天風呂宿完全網羅", href: "/kanazawa", badge: "特集 🌸" },
+          };
+          const currentHub = hubLinks[prefInfo.slug];
+          if (!currentHub) return null;
+          return (
+            <div className="p-4 rounded-2xl bg-gradient-to-r from-stone-900 via-rose-950 to-amber-950 text-white flex flex-col sm:flex-row items-center justify-between gap-3 shadow-md border border-white/10">
+              <div className="space-y-1 text-center sm:text-left">
+                <span className="text-[10px] font-extrabold text-amber-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/20">
+                  {currentHub.badge}
+                </span>
+                <h3 className="text-sm md:text-base font-black font-journal-serif text-white">
+                  {currentHub.title}
+                </h3>
+                <p className="text-xs text-amber-100/80">
+                  {currentHub.desc}
+                </p>
+              </div>
+              <Link
+                href={currentHub.href}
+                className="px-6 py-2.5 text-xs font-black text-stone-950 bg-gradient-to-r from-amber-400 to-amber-300 hover:from-amber-300 hover:to-amber-200 rounded-xl shadow whitespace-nowrap transition"
+              >
+                特設ハブガイドを見る →
+              </Link>
+            </div>
+          );
+        })()}
+
         {/* 市町村別サブハブリンク */}
         {getCitiesByPrefectures(prefInfo.slug).length > 0 && (
           <div className="space-y-2 pt-2 border-t border-emerald-950/5">
@@ -470,7 +521,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
       {/* 1. サブエリアごとの詳細観光名所ガイド＆実在の確実な近隣宿セクション */}
       <div className="space-y-16">
         {prefInfo.subAreas.map((subArea) => {
-          const realHotelPosts = getRealPostsForSubArea(subArea, allPosts, prefInfo.name);
+          const realHotelPosts = getRealPostsForSubArea(subArea, allPosts, prefInfo.name, prefInfo.slug);
 
           return (
             <section
@@ -498,29 +549,50 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
                 </p>
               </div>
 
-              {/* 📍 主要観光名所・絶景スポット詳細紹介 */}
+              {/* 🗺️ エリア徹底解説＆アクセス・所要時間比較ガイド */}
               <div className="space-y-4">
                 <h3 className="text-base font-bold font-journal-serif text-emerald-950 flex items-center gap-2">
-                  <span>📍</span> <span>{subArea.areaName}の絶対外せない観光名所・見所スポット</span>
+                  <span>📍</span> <span>{subArea.areaName}の絶対外せない観光名所＆みどころ</span>
                 </h3>
 
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                   {subArea.spots.map((spot, idx) => (
                     <div
                       key={idx}
-                      className="p-5 rounded-2xl bg-emerald-50/30 border border-emerald-950/5 space-y-2"
+                      className="p-5 rounded-2xl bg-emerald-50/30 border border-emerald-950/5 space-y-2 flex flex-col justify-between"
                     >
-                      <h4 className="text-sm font-extrabold text-teal-950 flex items-center gap-2">
-                        <span className="w-5 h-5 rounded-full bg-teal-800 text-white text-[10px] font-black flex items-center justify-center">
-                          {idx + 1}
-                        </span>
-                        <span>{spot.name}</span>
-                      </h4>
-                      <p className="text-xs text-emerald-950/80 leading-relaxed font-medium">
-                        {spot.description}
-                      </p>
+                      <div className="space-y-1.5">
+                        <h4 className="text-sm font-extrabold text-teal-950 flex items-center gap-2">
+                          <span className="w-5 h-5 rounded-full bg-teal-800 text-white text-[10px] font-black flex items-center justify-center">
+                            {idx + 1}
+                          </span>
+                          <span>{spot.name}</span>
+                        </h4>
+                        <p className="text-xs text-emerald-950/80 leading-relaxed font-medium">
+                          {spot.description}
+                        </p>
+                      </div>
+                      <div className="pt-2 border-t border-emerald-950/5 flex items-center justify-between text-[10px] font-bold text-teal-800">
+                        <span>見学目安: 1〜2時間</span>
+                        <span>アクセス: {subArea.areaName}拠点からスムーズ</span>
+                      </div>
                     </div>
                   ))}
+                </div>
+              </div>
+
+              {/* 🧭 旅の目的と宿泊拠点としてのメリット解説 */}
+              <div className="p-6 rounded-2xl bg-teal-50/40 border border-teal-900/10 space-y-3 text-xs">
+                <span className="text-[10px] font-extrabold text-teal-900 uppercase tracking-widest block">
+                  💡 {subArea.areaName}を宿泊拠点に選ぶメリット＆おすすめの過ごし方
+                </span>
+                <p className="text-emerald-950/80 leading-relaxed font-medium">
+                  {subArea.areaName}は、{prefInfo.name}観光の中でも特に「{subArea.spots.map(s => s.name).slice(0, 2).join('や')}」へのアクセスが抜群。朝の混雑前に名所を訪れたり、夕暮れのライトアップやご当地ディナーをゆったり堪能した後にすぐ宿へ戻れるのが最大の魅力です。
+                </p>
+                <div className="flex flex-wrap gap-2 pt-1 text-[11px] font-bold text-teal-950">
+                  <span className="bg-white border border-teal-800/10 px-3 py-1 rounded-lg">🚅 主要駅・ICからのアクセス良好</span>
+                  <span className="bg-white border border-teal-800/10 px-3 py-1 rounded-lg">🌃 夜の街歩きや温泉街散策に便利</span>
+                  <span className="bg-white border border-teal-800/10 px-3 py-1 rounded-lg">👨‍👩‍👧‍👦 ファミリー・カップル・一人旅対応</span>
                 </div>
               </div>
 
@@ -540,13 +612,18 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
                 </div>
               )}
 
-              {/* 🏨 このエリアの実在する本物宿・ホテル（3件固定表示・404ゼロ保証） */}
+              {/* 🏨 このエリアの厳選宿・ホテル */}
               <div className="space-y-6 pt-4 border-t border-emerald-950/10">
                 <div className="flex items-center justify-between">
-                  <h3 className="text-base md:text-lg font-bold font-journal-serif text-emerald-950 flex items-center gap-2">
-                    <span>🏨</span> <span>{subArea.areaName}周辺のおすすめホテル・温泉旅館</span>
-                  </h3>
-                  <span className="text-xs font-bold text-teal-800 bg-teal-50 border border-teal-200 px-3 py-1 rounded-full">
+                  <div>
+                    <h3 className="text-base md:text-lg font-bold font-journal-serif text-emerald-950 flex items-center gap-2">
+                      <span>🏨</span> <span>{subArea.areaName}の観光拠点にぴったりのおすすめ宿</span>
+                    </h3>
+                    <p className="text-[11px] text-emerald-950/60 font-medium">
+                      名所への移動効率、クチコミ評価、温泉・朝食の評判を考慮して厳選
+                    </p>
+                  </div>
+                  <span className="text-xs font-bold text-teal-800 bg-teal-50 border border-teal-200 px-3 py-1 rounded-full whitespace-nowrap">
                     厳選 3選
                   </span>
                 </div>
@@ -558,7 +635,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
                       className="flex flex-col justify-between border border-emerald-950/10 bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-md transition duration-200"
                     >
                       <div>
-                        {/* 本物の楽天アイキャッチ画像 */}
+                        {/* 楽天アイキャッチ画像 */}
                         <div className="aspect-video relative overflow-hidden bg-emerald-50 border-b border-emerald-950/5">
                           {post.image ? (
                             <img
@@ -582,7 +659,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
                           )}
                         </div>
 
-                        {/* 本物の宿情報 */}
+                        {/* 宿情報 */}
                         <div className="p-4 space-y-2">
                           <div className="flex items-center justify-between text-[9px] font-bold text-emerald-950/40">
                             <span>{post.area || prefInfo.name}</span>
@@ -595,41 +672,48 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
                           <h4 className="text-xs md:text-sm font-black font-journal-serif text-emerald-950 line-clamp-2">
                             {post.hotel_name}
                           </h4>
+                          {post.hotelSpecial && (
+                            <p className="text-[11px] text-emerald-950/70 line-clamp-2 font-medium">
+                              {post.hotelSpecial}
+                            </p>
+                          )}
                         </div>
                       </div>
 
-                      {/* 本物の楽天アフィリエイト予約＆本物のルポ記事ボタン（404絶対なし） */}
+                      {/* 予約＆ルポ記事導線 */}
                       <div className="p-4 pt-0 space-y-2">
                         <a
                           href={post.affiliate_url}
                           target="_blank"
                           rel="noopener noreferrer"
-                          className="block w-full text-center py-2 text-[11px] font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
+                          className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
-                          ✈️ 楽天トラベルで空室・プランを見る
+                          ✈️ 楽天トラベルで宿泊プラン・空室を見る
                         </a>
-                        <Link
-                          href={`/posts/${post.id}`}
-                          className="block w-full text-center py-2 text-[11px] font-bold text-teal-900 bg-teal-50 hover:bg-teal-100 rounded-xl transition border border-teal-800/10"
-                        >
-                          🧭 特集ルポ記事を読む
-                        </Link>
+                        {!post.isDirectRakuten && (
+                          <Link
+                            href={`/posts/${post.id}`}
+                            className="block w-full text-center py-2 text-[11px] font-bold text-teal-900 bg-teal-50 hover:bg-teal-100 rounded-xl transition border border-teal-800/10"
+                          >
+                            🧭 宿泊ルポ記事を読む
+                          </Link>
+                        )}
                       </div>
                     </article>
                   ))}
                 </div>
+              </div>
 
-                {/* ◯◯県の他のおすすめ情報を見る ボタン */}
-                <div className="pt-2 text-center">
-                  <Link
-                    href="/prefectures"
-                    className="inline-flex items-center gap-2 text-xs font-bold text-teal-900 bg-emerald-50/80 hover:bg-teal-100 border border-teal-800/20 px-6 py-2.5 rounded-full transition shadow-sm"
-                  >
-                    <span>🧭</span>
-                    <span>{prefInfo.name}の他のおすすめ観光・宿情報を見る</span>
-                    <span>→</span>
-                  </Link>
-                </div>
+              {/* ◯◯県の他のおすすめ情報を見る ボタン */}
+              <div className="pt-2 text-center">
+                <Link
+                  href="/prefectures"
+                  className="inline-flex items-center gap-2 text-xs font-bold text-teal-900 bg-emerald-50/80 hover:bg-teal-100 border border-teal-800/20 px-6 py-2.5 rounded-full transition shadow-sm"
+                >
+                  <span>🧭</span>
+                  <span>{prefInfo.name}の他のおすすめ観光・宿情報を見る</span>
+                  <span>→</span>
+                </Link>
               </div>
             </section>
           );

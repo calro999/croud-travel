@@ -449,7 +449,7 @@ export default function NotoGuidePage() {
               STEP 6 & STEP 7 ♨️
             </span>
             <span className="text-xs font-bold text-emerald-200">
-              ※楽天API公式画像＆アフィリエイトリンクのみを使用
+              
             </span>
           </div>
 
