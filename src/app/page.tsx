@@ -584,6 +584,41 @@ export default function Home() {
               <span>倉敷美観地区・白壁土蔵宿</span>
             </Link>
             <Link
+              href="/mie-shima-kashikojima-resort-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-850 via-yellow-950 to-stone-900 hover:from-amber-750 hover:to-stone-850 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🏝️</span>
+              <span>志摩賢島・英虞湾リゾート</span>
+            </Link>
+            <Link
+              href="/tochigi-nasu-highland-nature-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-850 via-teal-950 to-stone-900 hover:from-emerald-750 hover:to-teal-900 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>🌲</span>
+              <span>那須高原・鹿の湯＆森の宿</span>
+            </Link>
+            <Link
+              href="/kyoto-ujigawa-greentea-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-teal-850 via-emerald-950 to-amber-950 hover:from-teal-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>🍵</span>
+              <span>京都宇治・平等院＆茶宿</span>
+            </Link>
+            <Link
+              href="/oita-beppu-hell-hotspring-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-red-750 via-rose-950 to-orange-950 hover:from-red-650 hover:to-orange-900 rounded-2xl shadow-lg transition border border-red-300/40 flex items-center gap-1.5"
+            >
+              <span>♨️</span>
+              <span>別府地獄めぐり＆鉄輪蒸し宿</span>
+            </Link>
+            <Link
+              href="/kanagawa-yugawara-onsen-bangei-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-stone-850 via-slate-900 to-amber-950 hover:from-stone-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-stone-300/40 flex items-center gap-1.5"
+            >
+              <span>📚</span>
+              <span>湯河原温泉・文豪万葉宿</span>
+            </Link>
+            <Link
               href="/anniversary-luxury-suite"
               className="px-5 py-3 text-xs md:text-sm font-black text-amber-950 bg-gradient-to-r from-amber-300 via-amber-200 to-yellow-400 hover:from-amber-200 hover:to-yellow-300 rounded-2xl shadow-lg transition border border-amber-300 flex items-center gap-1.5"
             >
