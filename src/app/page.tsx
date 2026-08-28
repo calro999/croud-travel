@@ -654,6 +654,41 @@ export default function Home() {
               <span>加賀温泉郷・鶴仙渓＆カニ宿</span>
             </Link>
             <Link
+              href="/miyagi-matsushima-bay-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-850 via-cyan-950 to-teal-950 hover:from-blue-750 hover:to-cyan-900 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>🌊</span>
+              <span>日本三景松島・牡蠣＆湾宿</span>
+            </Link>
+            <Link
+              href="/yamagata-zao-onsen-frost-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-cyan-850 via-blue-950 to-slate-900 hover:from-cyan-750 hover:to-blue-900 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>❄️</span>
+              <span>蔵王温泉・樹氷＆強酸性硫黄宿</span>
+            </Link>
+            <Link
+              href="/hokkaido-shiretoko-utoro-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-teal-850 via-blue-950 to-stone-900 hover:from-teal-750 hover:to-blue-900 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>🐻</span>
+              <span>世界遺産知床・流氷＆鮭宿</span>
+            </Link>
+            <Link
+              href="/kagoshima-ibusuki-sand-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-850 via-amber-950 to-orange-950 hover:from-rose-750 hover:to-orange-900 rounded-2xl shadow-lg transition border border-orange-300/40 flex items-center gap-1.5"
+            >
+              <span>🏖️</span>
+              <span>指宿温泉・天然砂むし＆黒豚宿</span>
+            </Link>
+            <Link
+              href="/nagano-shigakogen-shibutoge-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-850 via-teal-950 to-slate-900 hover:from-emerald-750 hover:to-teal-900 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>☁️</span>
+              <span>志賀高原渋峠・雲海＆熊の湯宿</span>
+            </Link>
+            <Link
               href="/anniversary-luxury-suite"
               className="px-5 py-3 text-xs md:text-sm font-black text-amber-950 bg-gradient-to-r from-amber-300 via-amber-200 to-yellow-400 hover:from-amber-200 hover:to-yellow-300 rounded-2xl shadow-lg transition border border-amber-300 flex items-center gap-1.5"
             >
