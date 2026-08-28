@@ -549,6 +549,41 @@ export default function Home() {
               <span>宇奈月温泉・黒部トロッコ宿</span>
             </Link>
             <Link
+              href="/shizuoka-atami-bayside-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-750 via-cyan-900 to-rose-950 hover:from-blue-650 hover:to-rose-900 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>🎆</span>
+              <span>熱海温泉・海上花火＆海宿</span>
+            </Link>
+            <Link
+              href="/gunma-ikaho-stairs-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-850 via-stone-900 to-orange-950 hover:from-amber-750 hover:to-orange-900 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🪜</span>
+              <span>伊香保温泉・石段＆黄金湯宿</span>
+            </Link>
+            <Link
+              href="/mie-toba-iseshima-bay-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-teal-850 via-blue-950 to-indigo-950 hover:from-teal-750 hover:to-blue-900 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>🐬</span>
+              <span>鳥羽温泉郷・水族館＆伊勢海老宿</span>
+            </Link>
+            <Link
+              href="/nagasaki-unzen-onsen-hell-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-stone-850 via-rose-950 to-amber-950 hover:from-stone-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-rose-300/40 flex items-center gap-1.5"
+            >
+              <span>♨️</span>
+              <span>雲仙温泉・地獄＆洋館宿</span>
+            </Link>
+            <Link
+              href="/okayama-kurashiki-bikan-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-850 via-teal-950 to-slate-900 hover:from-emerald-750 hover:to-teal-900 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>🛶</span>
+              <span>倉敷美観地区・白壁土蔵宿</span>
+            </Link>
+            <Link
               href="/anniversary-luxury-suite"
               className="px-5 py-3 text-xs md:text-sm font-black text-amber-950 bg-gradient-to-r from-amber-300 via-amber-200 to-yellow-400 hover:from-amber-200 hover:to-yellow-300 rounded-2xl shadow-lg transition border border-amber-300 flex items-center gap-1.5"
             >
