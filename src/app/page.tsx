@@ -689,6 +689,41 @@ export default function Home() {
               <span>志賀高原渋峠・雲海＆熊の湯宿</span>
             </Link>
             <Link
+              href="/shimane-izumo-tamatsukuri-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-stone-850 via-rose-950 to-amber-950 hover:from-stone-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-rose-300/40 flex items-center gap-1.5"
+            >
+              <span>⛩️</span>
+              <span>出雲大社＆玉造美肌温泉宿</span>
+            </Link>
+            <Link
+              href="/miyazaki-takachiho-gorge-myth-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-850 via-teal-950 to-amber-950 hover:from-emerald-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>🛶</span>
+              <span>高千穂峡・神楽＆宮崎牛宿</span>
+            </Link>
+            <Link
+              href="/aomori-oirase-towada-nature-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-teal-850 via-emerald-950 to-blue-950 hover:from-teal-750 hover:to-blue-900 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>🌿</span>
+              <span>奥入瀬渓流＆十和田湖畔宿</span>
+            </Link>
+            <Link
+              href="/toyama-tateyama-kurobe-alpen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-sky-850 via-blue-950 to-slate-900 hover:from-sky-750 hover:to-slate-800 rounded-2xl shadow-lg transition border border-sky-300/40 flex items-center gap-1.5"
+            >
+              <span>🏔️</span>
+              <span>立山黒部・雪の大谷＆雲上宿</span>
+            </Link>
+            <Link
+              href="/hyogo-awaji-naruto-whirlpool-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-850 via-cyan-950 to-orange-950 hover:from-blue-750 hover:to-orange-900 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>🌀</span>
+              <span>淡路島・うずしお＆淡路牛宿</span>
+            </Link>
+            <Link
               href="/anniversary-luxury-suite"
               className="px-5 py-3 text-xs md:text-sm font-black text-amber-950 bg-gradient-to-r from-amber-300 via-amber-200 to-yellow-400 hover:from-amber-200 hover:to-yellow-300 rounded-2xl shadow-lg transition border border-amber-300 flex items-center gap-1.5"
             >
