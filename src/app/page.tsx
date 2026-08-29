@@ -724,6 +724,41 @@ export default function Home() {
               <span>淡路島・うずしお＆淡路牛宿</span>
             </Link>
             <Link
+              href="/kyoto-amanohashidate-ine-funaya-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-teal-850 via-cyan-950 to-blue-950 hover:from-teal-750 hover:to-blue-900 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>⛵</span>
+              <span>天橋立＆伊根の舟屋宿</span>
+            </Link>
+            <Link
+              href="/wakayama-shirahama-beach-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-750 via-teal-900 to-amber-950 hover:from-blue-650 hover:to-teal-850 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>🐼</span>
+              <span>南紀白浜・白良浜＆クエ宿</span>
+            </Link>
+            <Link
+              href="/iwate-hiraizumi-chusonji-heritage-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-850 via-yellow-950 to-stone-900 hover:from-amber-750 hover:to-yellow-900 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🏛️</span>
+              <span>平泉中尊寺＆前沢牛宿</span>
+            </Link>
+            <Link
+              href="/nagasaki-huistenbosch-sasebo-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-850 via-red-950 to-indigo-950 hover:from-rose-750 hover:to-red-900 rounded-2xl shadow-lg transition border border-rose-300/40 flex items-center gap-1.5"
+            >
+              <span>🏰</span>
+              <span>ハウステンボス＆佐世保宿</span>
+            </Link>
+            <Link
+              href="/kagawa-shodoshima-olive-beach-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-850 via-teal-950 to-amber-950 hover:from-emerald-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>🫒</span>
+              <span>小豆島・天使の道＆オリーブ宿</span>
+            </Link>
+            <Link
               href="/anniversary-luxury-suite"
               className="px-5 py-3 text-xs md:text-sm font-black text-amber-950 bg-gradient-to-r from-amber-300 via-amber-200 to-yellow-400 hover:from-amber-200 hover:to-yellow-300 rounded-2xl shadow-lg transition border border-amber-300 flex items-center gap-1.5"
             >
