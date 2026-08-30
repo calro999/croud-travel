@@ -1074,6 +1074,41 @@ export default function Home() {
               <span>静寂の長期滞在＆温泉ワーケーション</span>
             </Link>
             <Link
+              href="/shizuoka-hamanako-kanzanji-unagi-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-850 via-teal-950 to-amber-950 hover:from-blue-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>⛵</span>
+              <span>浜名湖・舘山寺温泉＆うなぎ宿</span>
+            </Link>
+            <Link
+              href="/aichi-chita-minamichita-himakajima-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-teal-850 via-cyan-950 to-orange-950 hover:from-teal-750 hover:to-orange-900 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>🐙</span>
+              <span>南知多・日間賀島タコ＆知多牛宿</span>
+            </Link>
+            <Link
+              href="/hyogo-awaji-north-sumoto-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-sky-850 via-blue-950 to-amber-950 hover:from-sky-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-sky-300/40 flex items-center gap-1.5"
+            >
+              <span>🧅</span>
+              <span>淡路島・花さじき洲本＆淡路牛宿</span>
+            </Link>
+            <Link
+              href="/saga-karatsu-yobuko-squid-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-indigo-850 via-blue-950 to-emerald-950 hover:from-indigo-750 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-blue-300/40 flex items-center gap-1.5"
+            >
+              <span>🦑</span>
+              <span>唐津・虹の松原＆呼子活イカ宿</span>
+            </Link>
+            <Link
+              href="/kagoshima-kirishima-jingu-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-red-850 via-amber-950 to-stone-900 hover:from-red-750 hover:to-stone-850 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>⛩️</span>
+              <span>霧島神宮・硫黄泉＆黒豚しゃぶ宿</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >
