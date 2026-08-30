@@ -934,6 +934,41 @@ export default function Home() {
               <span>高速バス直行・ターミナル宿</span>
             </Link>
             <Link
+              href="/kumamoto-aso-caldera-minamiaso-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-850 via-teal-950 to-amber-950 hover:from-emerald-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>🌋</span>
+              <span>阿蘇カルデラ＆あか牛宿</span>
+            </Link>
+            <Link
+              href="/tochigi-okunikko-yumoto-nature-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-teal-850 via-cyan-950 to-slate-900 hover:from-teal-750 hover:to-slate-800 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>♨️</span>
+              <span>奥日光湯元・硫黄泉＆湯波宿</span>
+            </Link>
+            <Link
+              href="/nagano-matsumoto-asama-utsukushigahara-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-stone-850 via-slate-900 to-amber-950 hover:from-stone-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🏯</span>
+              <span>松本城・美ヶ原雲海＆そば宿</span>
+            </Link>
+            <Link
+              href="/yamaguchi-hagi-nagato-yumoto-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-850 via-pink-950 to-stone-900 hover:from-rose-750 hover:to-stone-850 rounded-2xl shadow-lg transition border border-rose-300/40 flex items-center gap-1.5"
+            >
+              <span>🏮</span>
+              <span>萩・長門湯本川床＆瓦そば宿</span>
+            </Link>
+            <Link
+              href="/hokkaido-furano-biei-lavender-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-purple-850 via-indigo-950 to-blue-950 hover:from-purple-750 hover:to-blue-900 rounded-2xl shadow-lg transition border border-purple-300/40 flex items-center gap-1.5"
+            >
+              <span>🪻</span>
+              <span>富良野美瑛・青い池＆和牛宿</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >
