@@ -864,6 +864,41 @@ export default function Home() {
               <span>絶景インフィニティ露天風呂宿</span>
             </Link>
             <Link
+              href="/tottori-kaike-onsen-daisen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-850 via-teal-950 to-amber-950 hover:from-blue-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>🦀</span>
+              <span>皆生温泉＆伯耆大山カニ宿</span>
+            </Link>
+            <Link
+              href="/fukushima-aizu-ashinomaki-ouchijuku-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-red-850 via-amber-950 to-stone-900 hover:from-red-750 hover:to-stone-850 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🐱</span>
+              <span>会津芦ノ牧温泉＆大内宿</span>
+            </Link>
+            <Link
+              href="/gifu-gero-onsen-heritage-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-850 via-teal-950 to-amber-950 hover:from-emerald-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>♨️</span>
+              <span>下呂温泉・三名泉＆飛騨牛宿</span>
+            </Link>
+            <Link
+              href="/shizuoka-izu-ito-jogasaki-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-indigo-850 via-blue-950 to-teal-950 hover:from-indigo-750 hover:to-teal-900 rounded-2xl shadow-lg transition border border-blue-300/40 flex items-center gap-1.5"
+            >
+              <span>🌉</span>
+              <span>伊東温泉・城ヶ崎＆地魚宿</span>
+            </Link>
+            <Link
+              href="/niigata-echigo-yuzawa-snow-sake-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-cyan-850 via-blue-950 to-slate-900 hover:from-cyan-750 hover:to-slate-800 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>🍶</span>
+              <span>越後湯沢・ぽんしゅ館＆米宿</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >
