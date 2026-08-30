@@ -1004,6 +1004,41 @@ export default function Home() {
               <span>極上海鮮寿司＆大漁舟盛り名宿</span>
             </Link>
             <Link
+              href="/iwate-hanamaki-tono-ihatov-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-850 via-teal-950 to-slate-900 hover:from-emerald-750 hover:to-slate-800 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>🧚</span>
+              <span>花巻温泉郷・遠野民話＆白金豚宿</span>
+            </Link>
+            <Link
+              href="/miyagi-akiu-sakunami-sendai-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-teal-850 via-indigo-950 to-amber-950 hover:from-teal-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>🍁</span>
+              <span>秋保作並温泉・磊々峡＆仙台牛宿</span>
+            </Link>
+            <Link
+              href="/yamagata-tendo-yamadera-cherry-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-red-850 via-amber-950 to-stone-900 hover:from-red-750 hover:to-stone-850 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🍒</span>
+              <span>天童温泉・山寺立石寺＆山形牛宿</span>
+            </Link>
+            <Link
+              href="/wakayama-nachikatsuura-kumano-kodo-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-850 via-indigo-950 to-cyan-950 hover:from-blue-750 hover:to-cyan-900 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>🐟</span>
+              <span>那智勝浦・那智滝＆生マグロ洞窟宿</span>
+            </Link>
+            <Link
+              href="/tokushima-naruto-otsuka-museum-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-sky-850 via-blue-950 to-amber-950 hover:from-sky-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-sky-300/40 flex items-center gap-1.5"
+            >
+              <span>🎨</span>
+              <span>鳴門渦潮・大塚国際美術館＆鯛宿</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >
