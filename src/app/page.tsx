@@ -969,6 +969,41 @@ export default function Home() {
               <span>富良野美瑛・青い池＆和牛宿</span>
             </Link>
             <Link
+              href="/japan-top-brand-wagyu-beef-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-red-850 via-amber-950 to-stone-900 hover:from-red-750 hover:to-stone-850 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🥩</span>
+              <span>日本五大ブランド和牛極上宿</span>
+            </Link>
+            <Link
+              href="/japan-winter-crab-fugu-seafood-feast-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-orange-850 via-red-950 to-blue-950 hover:from-orange-750 hover:to-blue-900 rounded-2xl shadow-lg transition border border-orange-300/40 flex items-center gap-1.5"
+            >
+              <span>🦀</span>
+              <span>冬の四大味覚（カニ・ふぐ・寒ブリ）宿</span>
+            </Link>
+            <Link
+              href="/japan-best-breakfast-buffet-hotels-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-950 bg-gradient-to-r from-amber-300 via-yellow-200 to-amber-400 hover:from-amber-200 hover:to-yellow-300 rounded-2xl shadow-lg transition border border-amber-300 flex items-center gap-1.5"
+            >
+              <span>🥐</span>
+              <span>朝食の美味しいホテル日本一</span>
+            </Link>
+            <Link
+              href="/japan-top-brand-jidori-chicken-feast-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-850 via-stone-900 to-orange-950 hover:from-amber-750 hover:to-stone-850 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🐓</span>
+              <span>日本三大地鶏＆銘柄鶏の宿</span>
+            </Link>
+            <Link
+              href="/japan-seafood-sushi-kaiseki-luxury-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-cyan-850 via-blue-950 to-teal-950 hover:from-cyan-750 hover:to-blue-900 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>🍣</span>
+              <span>極上海鮮寿司＆大漁舟盛り名宿</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >
