@@ -794,11 +794,39 @@ export default function Home() {
               <span>嬉野・武雄美肌湯＆佐賀牛宿</span>
             </Link>
             <Link
-              href="/anniversary-luxury-suite"
+              href="/family-baby-welcome-onsen"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-600 via-orange-600 to-yellow-600 hover:from-amber-500 hover:to-yellow-500 rounded-2xl shadow-lg transition border border-yellow-300/40 flex items-center gap-1.5"
+            >
+              <span>🍼</span>
+              <span>赤ちゃん・子連れ歓迎温泉宿</span>
+            </Link>
+            <Link
+              href="/three-generation-family-celebration-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-red-700 via-rose-800 to-amber-900 hover:from-red-600 hover:to-amber-800 rounded-2xl shadow-lg transition border border-rose-300/40 flex items-center gap-1.5"
+            >
+              <span>👴👵</span>
+              <span>三世代・還暦長寿祝い宿</span>
+            </Link>
+            <Link
+              href="/girls-trip-spa-afternoontea-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-pink-700 via-rose-800 to-purple-900 hover:from-pink-600 hover:to-purple-800 rounded-2xl shadow-lg transition border border-pink-300/40 flex items-center gap-1.5"
+            >
+              <span>🫖</span>
+              <span>女子旅・スパ＆アフタヌーンティー宿</span>
+            </Link>
+            <Link
+              href="/solo-travel-retreat-private-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-teal-800 via-emerald-900 to-slate-900 hover:from-teal-700 hover:to-slate-800 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>📖</span>
+              <span>大人のひとり温泉旅・おこもり宿</span>
+            </Link>
+            <Link
+              href="/anniversary-propose-luxury-stay"
               className="px-5 py-3 text-xs md:text-sm font-black text-amber-950 bg-gradient-to-r from-amber-300 via-amber-200 to-yellow-400 hover:from-amber-200 hover:to-yellow-300 rounded-2xl shadow-lg transition border border-amber-300 flex items-center gap-1.5"
             >
-              <span>👑</span>
-              <span>記念日・極上スイート</span>
+              <span>💍</span>
+              <span>記念日・プロポーズ極上宿</span>
             </Link>
             <Link
               href="/kyoto"
