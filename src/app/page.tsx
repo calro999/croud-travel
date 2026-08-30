@@ -829,6 +829,41 @@ export default function Home() {
               <span>記念日・プロポーズ極上宿</span>
             </Link>
             <Link
+              href="/heritage-cultural-wooden-ryokan"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-900 via-stone-900 to-yellow-950 hover:from-amber-800 hover:to-stone-850 rounded-2xl shadow-lg transition border border-amber-400/40 flex items-center gap-1.5"
+            >
+              <span>🏛️</span>
+              <span>登録有形文化財・宮大工木造宿</span>
+            </Link>
+            <Link
+              href="/pure-100-percent-kakenagashi-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-teal-900 via-emerald-950 to-blue-950 hover:from-teal-800 hover:to-blue-900 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>♨️</span>
+              <span>自家源泉100%完全かけ流し宿</span>
+            </Link>
+            <Link
+              href="/michelin-auberge-gourmet-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-900 via-red-950 to-purple-950 hover:from-rose-800 hover:to-purple-900 rounded-2xl shadow-lg transition border border-rose-300/40 flex items-center gap-1.5"
+            >
+              <span>🍽️</span>
+              <span>極上美食オーベルジュ温泉宿</span>
+            </Link>
+            <Link
+              href="/kominka-villa-kura-sauna-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-stone-850 via-amber-950 to-emerald-950 hover:from-stone-750 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🛖</span>
+              <span>古民家一棟貸し＆蔵サウナ宿</span>
+            </Link>
+            <Link
+              href="/infinity-open-air-bath-ocean-view-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-cyan-850 via-blue-950 to-teal-950 hover:from-cyan-750 hover:to-blue-900 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>🌅</span>
+              <span>絶景インフィニティ露天風呂宿</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >
