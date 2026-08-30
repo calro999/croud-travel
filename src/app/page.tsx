@@ -759,6 +759,41 @@ export default function Home() {
               <span>小豆島・天使の道＆オリーブ宿</span>
             </Link>
             <Link
+              href="/nagano-achi-hirugami-starry-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-indigo-850 via-purple-950 to-pink-950 hover:from-indigo-750 hover:to-pink-900 rounded-2xl shadow-lg transition border border-purple-300/40 flex items-center gap-1.5"
+            >
+              <span>✨</span>
+              <span>阿智村星空＆昼神美肌湯宿</span>
+            </Link>
+            <Link
+              href="/shizuoka-izu-shimoda-beach-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-750 via-teal-900 to-rose-950 hover:from-blue-650 hover:to-rose-900 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>🌊</span>
+              <span>伊豆下田・白浜＆金目鯛宿</span>
+            </Link>
+            <Link
+              href="/yamanashi-yatsugatake-kiyosato-resort-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-850 via-teal-950 to-indigo-950 hover:from-emerald-750 hover:to-indigo-900 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>🌲</span>
+              <span>八ヶ岳清里テラス＆星空宿</span>
+            </Link>
+            <Link
+              href="/ehime-shimanami-kaido-imabari-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-cyan-850 via-blue-950 to-teal-950 hover:from-cyan-750 hover:to-blue-900 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>🚴</span>
+              <span>しまなみ海道＆来島鯛宿</span>
+            </Link>
+            <Link
+              href="/saga-ureshino-takeo-bihada-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-850 via-amber-950 to-emerald-950 hover:from-rose-750 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-rose-300/40 flex items-center gap-1.5"
+            >
+              <span>♨️</span>
+              <span>嬉野・武雄美肌湯＆佐賀牛宿</span>
+            </Link>
+            <Link
               href="/anniversary-luxury-suite"
               className="px-5 py-3 text-xs md:text-sm font-black text-amber-950 bg-gradient-to-r from-amber-300 via-amber-200 to-yellow-400 hover:from-amber-200 hover:to-yellow-300 rounded-2xl shadow-lg transition border border-amber-300 flex items-center gap-1.5"
             >
