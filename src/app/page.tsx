@@ -899,6 +899,41 @@ export default function Home() {
               <span>越後湯沢・ぽんしゅ館＆米宿</span>
             </Link>
             <Link
+              href="/shinkansen-direct-walk-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-800 via-indigo-900 to-slate-900 hover:from-blue-700 hover:to-slate-800 rounded-2xl shadow-lg transition border border-blue-300/40 flex items-center gap-1.5"
+            >
+              <span>🚅</span>
+              <span>新幹線直結・徒歩5分温泉宿</span>
+            </Link>
+            <Link
+              href="/scenic-tourist-train-onsen-trip-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-teal-850 via-emerald-950 to-amber-950 hover:from-teal-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>🚃</span>
+              <span>観光列車＆名門極上温泉宿</span>
+            </Link>
+            <Link
+              href="/airport-access-direct-resort-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-sky-850 via-blue-950 to-indigo-950 hover:from-sky-750 hover:to-indigo-900 rounded-2xl shadow-lg transition border border-sky-300/40 flex items-center gap-1.5"
+            >
+              <span>✈️</span>
+              <span>空港直行・展望天然温泉リゾート</span>
+            </Link>
+            <Link
+              href="/drive-touring-garage-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-850 via-orange-950 to-stone-900 hover:from-amber-750 hover:to-stone-850 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🏎️</span>
+              <span>愛車・絶景ドライブ＆ガレージ宿</span>
+            </Link>
+            <Link
+              href="/highway-express-bus-direct-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-850 via-red-950 to-amber-950 hover:from-rose-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-rose-300/40 flex items-center gap-1.5"
+            >
+              <span>🚌</span>
+              <span>高速バス直行・ターミナル宿</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >
