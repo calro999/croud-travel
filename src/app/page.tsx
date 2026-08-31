@@ -1179,6 +1179,41 @@ export default function Home() {
               <span>尾道千光寺坂の街＆しまなみ宿</span>
             </Link>
             <Link
+              href="/japan-national-treasure-castle-heritage-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-stone-850 via-amber-950 to-slate-900 hover:from-stone-750 hover:to-slate-800 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🏯</span>
+              <span>国宝五城＆現存十二天守を巡る宿</span>
+            </Link>
+            <Link
+              href="/japan-post-town-nakasendo-edo-highway-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-850 via-stone-900 to-orange-950 hover:from-amber-750 hover:to-orange-900 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🏮</span>
+              <span>中山道木曽路・宿場町＆旧街道宿</span>
+            </Link>
+            <Link
+              href="/japan-sacred-pilgrimage-koyasan-shukubo-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-teal-850 via-emerald-950 to-slate-900 hover:from-teal-750 hover:to-slate-800 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>📿</span>
+              <span>世界遺産霊場＆高野山宿坊体験宿</span>
+            </Link>
+            <Link
+              href="/japan-bakumatsu-ishin-samurai-history-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-850 via-red-950 to-stone-900 hover:from-blue-750 hover:to-stone-850 rounded-2xl shadow-lg transition border border-red-300/40 flex items-center gap-1.5"
+            >
+              <span>⚔️</span>
+              <span>幕末維新・萩会津高知龍馬の宿</span>
+            </Link>
+            <Link
+              href="/japan-traditional-townscape-preservation-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-850 via-amber-950 to-teal-950 hover:from-rose-750 hover:to-teal-900 rounded-2xl shadow-lg transition border border-rose-300/40 flex items-center gap-1.5"
+            >
+              <span>🏘️</span>
+              <span>重要伝統的町並み（重伝建）の宿</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >
