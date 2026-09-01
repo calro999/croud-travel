@@ -1249,6 +1249,41 @@ export default function Home() {
               <span>宮古ブルー・与那覇前浜＆宮古牛宿</span>
             </Link>
             <Link
+              href="/tokyo-disney-resort-partner-official-hotel-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-pink-850 via-purple-950 to-blue-950 hover:from-pink-750 hover:to-blue-900 rounded-2xl shadow-lg transition border border-pink-300/40 flex items-center gap-1.5"
+            >
+              <span>🏰</span>
+              <span>ディズニー®提携＆オフィシャルホテル</span>
+            </Link>
+            <Link
+              href="/usj-partner-official-hotel-osaka-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-850 via-indigo-950 to-amber-950 hover:from-blue-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-blue-300/40 flex items-center gap-1.5"
+            >
+              <span>🌎</span>
+              <span>USJ公認＆駅直結オフィシャル宿</span>
+            </Link>
+            <Link
+              href="/fuji-q-highland-fujigoko-activity-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-red-850 via-stone-900 to-teal-950 hover:from-red-750 hover:to-teal-900 rounded-2xl shadow-lg transition border border-red-300/40 flex items-center gap-1.5"
+            >
+              <span>🎢</span>
+              <span>富士急ハイランド＆富士五湖アクティビティ</span>
+            </Link>
+            <Link
+              href="/huistenbosch-official-hotel-nagasaki-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-850 via-emerald-950 to-indigo-950 hover:from-amber-750 hover:to-indigo-900 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🌷</span>
+              <span>ハウステンボス直営＆イルミネーション宿</span>
+            </Link>
+            <Link
+              href="/japan-alps-mountain-resort-trekking-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-teal-850 via-slate-900 to-sky-950 hover:from-teal-750 hover:to-slate-800 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>⛰️</span>
+              <span>日本アルプストレッキン＆山岳リゾート宿</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >
