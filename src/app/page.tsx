@@ -1214,6 +1214,41 @@ export default function Home() {
               <span>重要伝統的町並み（重伝建）の宿</span>
             </Link>
             <Link
+              href="/yamagata-sakata-tsuruoka-shonai-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-teal-850 via-cyan-950 to-amber-950 hover:from-teal-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>🌾</span>
+              <span>酒田山居倉庫・羽黒山＆庄内豚宿</span>
+            </Link>
+            <Link
+              href="/chiba-choshi-kujukuri-inubosaki-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-850 via-indigo-950 to-amber-950 hover:from-blue-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🌅</span>
+              <span>犬吠埼日の出・銚子電鉄＆金目鯛宿</span>
+            </Link>
+            <Link
+              href="/shizuoka-south-izu-shimoda-beach-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-cyan-850 via-teal-950 to-rose-950 hover:from-cyan-750 hover:to-rose-900 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>⚓</span>
+              <span>下田ペリーロード・ヒリゾ浜＆金目鯛宿</span>
+            </Link>
+            <Link
+              href="/shimane-tsuwano-masuda-sanin-kyoto-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-red-850 via-amber-950 to-stone-900 hover:from-red-750 hover:to-stone-850 rounded-2xl shadow-lg transition border border-red-300/40 flex items-center gap-1.5"
+            >
+              <span>🎏</span>
+              <span>津和野掘割の鯉・太皷谷稲成＆神楽宿</span>
+            </Link>
+            <Link
+              href="/okinawa-miyakojima-irabu-kurima-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-cyan-950 bg-gradient-to-r from-cyan-300 via-teal-300 to-sky-200 hover:from-cyan-200 hover:to-sky-100 rounded-2xl shadow-lg transition border border-cyan-200 flex items-center gap-1.5"
+            >
+              <span>🏝️</span>
+              <span>宮古ブルー・与那覇前浜＆宮古牛宿</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >
