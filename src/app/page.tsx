@@ -1529,6 +1529,41 @@ export default function Home() {
               <span>五島列島世界遺産教会・高浜＆うどん宿</span>
             </Link>
             <Link
+              href="/japan-steam-locomotive-sl-retro-train-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-stone-900 via-slate-900 to-red-950 hover:from-stone-850 hover:to-slate-850 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🚂💨</span>
+              <span>SL蒸気機関車＆レトロ列車温泉旅</span>
+            </Link>
+            <Link
+              href="/scenic-open-air-trolley-train-resort-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-850 via-teal-950 to-amber-950 hover:from-emerald-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>🚃💨</span>
+              <span>絶景観光トロッコ列車＆オープン客車宿</span>
+            </Link>
+            <Link
+              href="/panoramic-ropeway-mountain-terrace-resort-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-cyan-900 via-blue-950 to-indigo-950 hover:from-cyan-800 hover:to-indigo-900 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>🚡☕</span>
+              <span>絶景ロープウェイ＆山頂テラス宿</span>
+            </Link>
+            <Link
+              href="/japan-long-cruise-ferry-ocean-journey-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-900 via-indigo-950 to-cyan-950 hover:from-blue-800 hover:to-cyan-900 rounded-2xl shadow-lg transition border border-blue-300/40 flex items-center gap-1.5"
+            >
+              <span>🚢🌊</span>
+              <span>優雅な長距離フェリー＆離島航路宿</span>
+            </Link>
+            <Link
+              href="/glamping-outdoor-barrel-sauna-resort-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-900 via-stone-900 to-emerald-950 hover:from-amber-850 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-amber-300/50 flex items-center gap-1.5"
+            >
+              <span>⛺🧖</span>
+              <span>グランピング＆バレルサウナ体験宿</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >

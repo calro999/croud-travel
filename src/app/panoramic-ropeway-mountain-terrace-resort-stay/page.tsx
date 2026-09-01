@@ -1,0 +1,207 @@
+import { Metadata } from "next";
+import Link from "next/link";
+import fs from "fs";
+import path from "path";
+
+export const metadata: Metadata = {
+  title: "【絶景ロープウェイ＆山頂テラス宿】びわ湖バレイ・蔵王・富士山パノラマ 完全ガイド ｜ 日本全国・旅宿クラウド",
+  description: "空へと駆け上がる感動の空中散歩！絶景ロープウェイ＆山頂天空テラス宿完全特化！滋賀「びわ湖バレイ（びわ湖テラス）」、山形「蔵王ロープウェイ（樹氷原）」、長野「竜王ソラテラス（雲海）」、静岡「碧テラス（伊豆パノラマパーク）」を徹底解説。",
+  keywords: ["panoramic-ropeway-mountain-terrace-resort-stay", "鉄道旅行", "乗り物旅", "絶景体験", "温泉宿", "楽天トラベル"],
+};
+
+function loadSeasonalHotels() {
+  try {
+    const filePath = path.join(process.cwd(), "src", "data", "all_seasonal_rakuten_hotels.json");
+    if (fs.existsSync(filePath)) {
+      const data = JSON.parse(fs.readFileSync(filePath, "utf8"));
+      return data["panoramic-ropeway-mountain-terrace-resort-stay"] || {};
+    }
+  } catch (e) {
+    console.error("Failed to load hotels for panoramic-ropeway-mountain-terrace-resort-stay", e);
+  }
+  return {};
+}
+
+export default function RailwayActivityHubPage() {
+  const sections = loadSeasonalHotels();
+
+  const areaGuides = [
+  {
+    "key": "biwako_valley_terrace_resort_stay",
+    "title": "1. 滋賀・びわ湖バレイ〜びわ湖テラス（日本最速ロープウェイで行く天空の特等席）",
+    "timing": "グリーンシーズン：4月〜11月（澄み渡る秋の青空は格別）",
+    "desc": "秒速12m（日本最速）の最新鋭キャビンで標高1,100mの打見山山頂へ登る「びわ湖バレイロープウェイ」。三段構造のウッドデッキが広がる「びわ湖テラス（The Main）」。青い水盤の向こうに広がる雄大な琵琶湖のパノラマ。",
+    "spots": "びわ湖テラス（Grand Terrace・Cafe 360）、びわ湖バレイ（ジップライン）、おごと温泉（美肌のアルカリ性単純泉）",
+    "access": "JR湖西線「志賀駅」より路線バス約10分。名神高速「京都東IC」より西武道路経由約40分。",
+    "tip": "リフトでさらに登る「Cafe 360」からは、琵琶湖の南北360度だけでなく、天気が良ければ遠く北アルプスや御嶽山まで見渡せます。"
+  },
+  {
+    "key": "zao_ropeway_frost_terrace_stay",
+    "title": "2. 山形・蔵王ロープウェイ〜地蔵山頂テラス（世界が息を呑む樹氷原と高山植物）",
+    "timing": "通年（冬の樹氷ライトアップ：12月下旬〜2月・秋の三段紅葉：9月下旬〜10月中旬）",
+    "desc": "蔵王山麓駅から樹氷高原駅を経て地蔵山頂駅（標高1,661m）を結ぶ「蔵王ロープウェイ」。冬期に広がる世界的な奇観「スノーモンスター（樹氷原）」。山頂レストランの展望テラス。開湯1900年の強酸性・白濁の蔵王温泉。",
+    "spots": "蔵王ロープウェイ（山麓線・山頂線）、地蔵山頂駅（開運蔵王地蔵尊）、蔵王温泉大露天風呂、蔵王山頂テラス",
+    "access": "JR山形駅より山交バス「蔵王温泉行」で約45分。山形道「山形蔵王IC」より約30分。",
+    "tip": "冬の夜間に運行する「ナイトクルーザー号（暖房付き特殊雪上車）」で行く樹氷ライトアップツアーは、幻想的な色彩に照らされた樹氷群を間近で鑑賞できます。"
+  },
+  {
+    "key": "ryuo_sora_terrace_sea_of_clouds",
+    "title": "3. 長野・SORA terrace（竜王マウンテンリゾート）〜雲海サンセット（遭遇率60%超）",
+    "timing": "営業期間：4月下旬〜11月上旬（夕暮れの雲海サンセットタイムは絶景）",
+    "desc": "166人乗り世界最大級のロープウェイで登る標高1,770mの「SORA terrace（ソラテラス）」。眼下に広がる広大な雲海と北信五岳に沈む夕陽。雲の上に浮かぶようなSORA terrace cafeでの雲海スフレや雲海マシュマロコーヒー。",
+    "spots": "SORA terrace、SORA terrace cafe、竜王マウンテンリゾート、湯田中渋温泉郷（九湯巡り）",
+    "access": "長野電鉄「湯田中駅」より無料シャトルバス運行。上信越道「信州中野IC」より約30分。",
+    "tip": "雲海は「早朝」だけでなく「夕方」にも発生しやすく、夕陽が雲海を黄金色から茜色に染め上げるマジックアワーは感動的な美しさです。"
+  }
+];
+
+  return (
+    <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      {/* ヒーローセクション */}
+      <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-blue-950 via-indigo-950 to-stone-900 text-white p-8 md:p-14 shadow-xl border border-cyan-400/20">
+        <div className="max-w-3xl space-y-4">
+          <span className="text-[10px] md:text-xs font-black tracking-widest bg-gradient-to-r from-cyan-400 to-blue-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block shadow">
+            ROPEWAY & MOUNTAIN TERRACE GUIDE
+          </span>
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
+            【絶景ロープウェイ＆山頂テラス宿】びわ湖バレイ・蔵王・富士山パノラマ 完全ガイド
+          </h1>
+          <p className="text-xs md:text-sm text-cyan-100/90 leading-relaxed">
+            ゴンドラに乗り込み、一気に雲の上へ！「絶景ロープウェイ＆山頂天空テラス」。琵琶湖を眼下に望むインフィニティウッドデッキ、北アルプスの雲海を見下ろすサンセット、冬の巨大な樹氷モンスター。山頂カフェで贅沢なドリンクを片手に過ごす休日へ。
+          </p>
+        </div>
+      </div>
+
+      {/* テーマ別徹底ガイド＆厳選宿 */}
+      <div className="space-y-16">
+        {areaGuides.map((guide) => {
+          const sectionData = sections[guide.key];
+          const hotels = sectionData?.hotels || [];
+
+          return (
+            <section
+              key={guide.key}
+              id={guide.key}
+              className="bg-white border border-blue-950/10 rounded-3xl p-6 md:p-10 shadow-sm space-y-8"
+            >
+              {/* テーマ見出し */}
+              <div className="space-y-3 border-b border-blue-950/10 pb-5">
+                <div className="flex flex-wrap items-center justify-between gap-2">
+                  <span className="text-[10px] font-extrabold text-blue-800 bg-blue-50 border border-blue-200 px-3 py-0.5 rounded-full uppercase">
+                    🚂 {guide.timing}
+                  </span>
+                </div>
+                <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-blue-950">
+                  {guide.title}
+                </h2>
+                <p className="text-xs md:text-sm text-stone-700 leading-relaxed font-medium">
+                  {guide.desc}
+                </p>
+              </div>
+
+              {/* 特徴・アクセス・滞在ポイント */}
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-xs">
+                <div className="p-4 rounded-2xl bg-blue-50/60 border border-blue-200 space-y-1.5">
+                  <span className="font-bold text-blue-950 block text-[11px]">📍 おすすめスポット＆見どころ</span>
+                  <p className="text-stone-700 leading-relaxed">{guide.spots}</p>
+                </div>
+                <div className="p-4 rounded-2xl bg-cyan-50/60 border border-cyan-200 space-y-1.5">
+                  <span className="font-bold text-cyan-950 block text-[11px]">🚅 アクセス＆乗車ポイント</span>
+                  <p className="text-stone-700 leading-relaxed">{guide.access}</p>
+                </div>
+                <div className="p-4 rounded-2xl bg-amber-50/60 border border-amber-200 space-y-1.5">
+                  <span className="font-bold text-amber-950 block text-[11px]">💡 体験を満喫するコツ</span>
+                  <p className="text-stone-700 leading-relaxed">{guide.tip}</p>
+                </div>
+              </div>
+
+              {/* 🏨 厳選宿カード */}
+              <div className="space-y-4 pt-4 border-t border-blue-950/10">
+                <div className="flex items-center justify-between">
+                  <div>
+                    <h3 className="text-base font-bold font-journal-serif text-blue-950 flex items-center gap-2">
+                      <span>🏨</span> <span>{guide.title}におすすめの厳選宿</span>
+                    </h3>
+                  </div>
+                  <span className="text-xs font-bold text-blue-800 bg-blue-50 border border-blue-200 px-3 py-1 rounded-full">
+                    厳選ステイ
+                  </span>
+                </div>
+
+                <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
+                  {hotels.map((hotel: any) => (
+                    <article
+                      key={hotel.hotelNo}
+                      className="flex flex-col justify-between border border-blue-950/10 bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-md transition duration-200"
+                    >
+                      <div>
+                        <div className="aspect-video relative overflow-hidden bg-blue-50 border-b border-blue-100">
+                          {hotel.hotelImageUrl ? (
+                            <img
+                              src={hotel.hotelImageUrl}
+                              alt={hotel.hotelName}
+                              className="w-full h-full object-cover"
+                              loading="lazy"
+                            />
+                          ) : (
+                            <div className="w-full h-full flex items-center justify-center text-blue-300 text-xs font-bold">
+                              {hotel.hotelName}
+                            </div>
+                          )}
+                          {hotel.hotelMinCharge > 0 && (
+                            <span className="absolute bottom-2 right-2 text-[9px] font-black bg-slate-900/90 text-cyan-300 px-2 py-0.5 rounded border border-cyan-400/30">
+                              ¥{Number(hotel.hotelMinCharge).toLocaleString()}〜
+                            </span>
+                          )}
+                        </div>
+
+                        <div className="p-4 space-y-2">
+                          {hotel.reviewAverage > 0 && (
+                            <div className="flex items-center justify-between text-[9px] font-bold text-amber-600">
+                              <span>⭐ {hotel.reviewAverage}点（{hotel.reviewCount}件）</span>
+                            </div>
+                          )}
+                          <h4 className="text-xs md:text-sm font-black font-journal-serif text-blue-950 line-clamp-2">
+                            {hotel.hotelName}
+                          </h4>
+                          {hotel.hotelSpecial && (
+                            <p className="text-[11px] text-stone-600 line-clamp-2 font-medium">
+                              {hotel.hotelSpecial}
+                            </p>
+                          )}
+                        </div>
+                      </div>
+
+                      <div className="p-4 pt-0">
+                        <a
+                          href={hotel.affiliateUrl}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-500 hover:to-indigo-500 rounded-xl shadow transition"
+                        >
+                          ✈️ 楽天トラベルで宿泊プラン・空室を見る
+                        </a>
+                      </div>
+                    </article>
+                  ))}
+                </div>
+              </div>
+            </section>
+          );
+        })}
+      </div>
+
+      {/* 47都道府県トップへのリンク */}
+      <div className="text-center pt-8">
+        <Link
+          href="/prefectures"
+          className="inline-flex items-center gap-2 text-xs font-bold text-blue-950 bg-white hover:bg-blue-50 border border-blue-200 px-8 py-3.5 rounded-2xl transition shadow-sm"
+        >
+          <span>🗾</span>
+          <span>全国47都道府県の観光＆宿泊ガイド一覧へ</span>
+          <span>→</span>
+        </Link>
+      </div>
+    </div>
+  );
+}
