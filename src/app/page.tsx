@@ -1494,6 +1494,41 @@ export default function Home() {
               <span>海直結・愛犬とビーチグランピング宿</span>
             </Link>
             <Link
+              href="/yamagata-tsuruoka-hagurosan-dewasanzan-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-900 via-stone-900 to-amber-950 hover:from-emerald-800 hover:to-stone-850 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>🌲</span>
+              <span>羽黒山出羽三山・五重塔＆精進料理宿</span>
+            </Link>
+            <Link
+              href="/chiba-tateyama-shirahama-nojimazaki-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-850 via-teal-950 to-amber-950 hover:from-blue-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>🏮</span>
+              <span>南房総館山白浜・野島崎＆伊勢海老宿</span>
+            </Link>
+            <Link
+              href="/nagano-hakuba-tsugaike-alps-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-cyan-850 via-blue-950 to-emerald-950 hover:from-cyan-750 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>🏔️</span>
+              <span>白馬マウンテンテラス＆栂池信州そば宿</span>
+            </Link>
+            <Link
+              href="/hyogo-takeda-castle-asago-ikuno-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-850 via-stone-900 to-yellow-950 hover:from-amber-750 hover:to-stone-850 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>☁️</span>
+              <span>天空の城竹田城雲海・生野銀山＆但馬牛宿</span>
+            </Link>
+            <Link
+              href="/nagasaki-goto-islands-fukue-church-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-cyan-950 bg-gradient-to-r from-cyan-300 via-teal-300 to-amber-200 hover:from-cyan-200 hover:to-amber-100 rounded-2xl shadow-lg transition border border-cyan-200 flex items-center gap-1.5"
+            >
+              <span>⛪</span>
+              <span>五島列島世界遺産教会・高浜＆うどん宿</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >
