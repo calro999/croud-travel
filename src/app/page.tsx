@@ -1564,6 +1564,41 @@ export default function Home() {
               <span>グランピング＆バレルサウナ体験宿</span>
             </Link>
             <Link
+              href="/aomori-shimokita-osorezan-oma-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-stone-900 via-slate-950 to-blue-950 hover:from-stone-850 hover:to-blue-900 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>🐟</span>
+              <span>下北半島恐山霊場・大間マグロ＆下風呂宿</span>
+            </Link>
+            <Link
+              href="/miyagi-naruko-onsen-gorge-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-850 via-orange-950 to-red-950 hover:from-amber-750 hover:to-red-900 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🎎</span>
+              <span>鳴子温泉郷多彩泉質・鳴子峡＆栗だんご宿</span>
+            </Link>
+            <Link
+              href="/yamanashi-minobu-shimobe-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-950 via-amber-950 to-emerald-950 hover:from-rose-900 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-rose-300/40 flex items-center gap-1.5"
+            >
+              <span>🌸</span>
+              <span>身延山久遠寺しだれ桜・下部温泉ぬる湯宿</span>
+            </Link>
+            <Link
+              href="/tottori-misasa-onsen-mitokusan-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-teal-900 via-cyan-950 to-stone-900 hover:from-teal-800 hover:to-stone-850 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>♨️</span>
+              <span>三朝世界屈指ラジウム温泉・三徳山投入堂宿</span>
+            </Link>
+            <Link
+              href="/ehime-uwajima-ainan-nametoko-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-850 via-teal-950 to-amber-950 hover:from-blue-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🏯</span>
+              <span>現存宇和島城・滑床渓谷＆宇和島鯛めし宿</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >
