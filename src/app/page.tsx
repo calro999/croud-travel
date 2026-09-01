@@ -1354,6 +1354,41 @@ export default function Home() {
               <span>専用クルーズ＆離島最高峰リゾート</span>
             </Link>
             <Link
+              href="/iwate-sanriku-miyako-jodogahama-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-850 via-teal-950 to-amber-950 hover:from-blue-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>🌊</span>
+              <span>三陸宮古・浄土ヶ浜＆瓶ドン宿</span>
+            </Link>
+            <Link
+              href="/nagano-togakushi-shrine-soba-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-850 via-stone-900 to-amber-950 hover:from-emerald-750 hover:to-stone-850 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>🌲</span>
+              <span>戸隠神社奥社杉並木＆戸隠そば宿</span>
+            </Link>
+            <Link
+              href="/gifu-shirakawago-gokayama-gassho-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-850 via-stone-950 to-orange-950 hover:from-amber-750 hover:to-orange-900 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🛖</span>
+              <span>白川郷合掌造り＆飛騨牛すったて宿</span>
+            </Link>
+            <Link
+              href="/wakayama-kudoyama-sanada-koyasan-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-red-850 via-stone-900 to-amber-950 hover:from-red-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-red-300/40 flex items-center gap-1.5"
+            >
+              <span>🍁</span>
+              <span>九度山真田庵・慈尊院＆富有柿宿</span>
+            </Link>
+            <Link
+              href="/kumamoto-amakusa-islands-sakitsu-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-cyan-950 bg-gradient-to-r from-cyan-300 via-teal-300 to-amber-200 hover:from-cyan-200 hover:to-amber-100 rounded-2xl shadow-lg transition border border-cyan-200 flex items-center gap-1.5"
+            >
+              <span>🐬</span>
+              <span>天草﨑津集落・イルカ＆車海老宿</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >
