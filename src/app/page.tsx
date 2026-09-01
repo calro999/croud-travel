@@ -1284,6 +1284,41 @@ export default function Home() {
               <span>日本アルプストレッキン＆山岳リゾート宿</span>
             </Link>
             <Link
+              href="/nagano-azumino-wasabi-hotaka-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-850 via-teal-950 to-amber-950 hover:from-emerald-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>🥬</span>
+              <span>安曇野大王わさび＆穂高温泉郷宿</span>
+            </Link>
+            <Link
+              href="/mie-kumano-owase-onigajo-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-stone-850 via-blue-950 to-amber-950 hover:from-stone-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-blue-300/40 flex items-center gap-1.5"
+            >
+              <span>🌊</span>
+              <span>世界遺産鬼ヶ城・獅子岩＆ガスエビ宿</span>
+            </Link>
+            <Link
+              href="/tokushima-iya-valley-oboke-kazurabashi-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-teal-850 via-emerald-950 to-orange-950 hover:from-teal-750 hover:to-orange-900 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>🌉</span>
+              <span>秘境祖谷かずら橋・大歩危＆祖谷そば宿</span>
+            </Link>
+            <Link
+              href="/niigata-sado-island-gold-mine-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-850 via-yellow-950 to-slate-900 hover:from-amber-750 hover:to-slate-800 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🪙</span>
+              <span>世界遺産佐渡金山・たらい舟＆寒ブリ宿</span>
+            </Link>
+            <Link
+              href="/hokkaido-akan-mashu-kussharo-lake-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-cyan-850 via-blue-950 to-teal-950 hover:from-cyan-750 hover:to-teal-900 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>🦢</span>
+              <span>阿寒湖マリモ・摩周屈斜路＆川湯温泉宿</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >
