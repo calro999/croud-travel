@@ -1389,6 +1389,41 @@ export default function Home() {
               <span>天草﨑津集落・イルカ＆車海老宿</span>
             </Link>
             <Link
+              href="/women-solo-safe-amenity-onsen-retreat-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-rose-950 bg-gradient-to-r from-pink-200 via-rose-200 to-amber-100 hover:from-pink-150 hover:to-rose-150 rounded-2xl shadow-lg transition border border-rose-300/60 flex items-center gap-1.5"
+            >
+              <span>🌸</span>
+              <span>女性一人旅・安心セキュリティ＆ReFa宿</span>
+            </Link>
+            <Link
+              href="/book-hotel-library-stay-reading-retreat"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-900 via-stone-900 to-emerald-950 hover:from-amber-800 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>📖</span>
+              <span>読書＆ブックホテル・ライブラリー宿</span>
+            </Link>
+            <Link
+              href="/cosme-spa-facial-treatment-esthetic-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-900 via-pink-950 to-purple-950 hover:from-rose-800 hover:to-purple-900 rounded-2xl shadow-lg transition border border-pink-300/40 flex items-center gap-1.5"
+            >
+              <span>💄</span>
+              <span>ブランドスパ＆エステ付きご褒美ホテル</span>
+            </Link>
+            <Link
+              href="/art-museum-design-hotel-creative-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-slate-900 via-indigo-950 to-teal-950 hover:from-slate-800 hover:to-teal-900 rounded-2xl shadow-lg transition border border-indigo-300/40 flex items-center gap-1.5"
+            >
+              <span>🎨</span>
+              <span>アート・美術館巡り＆デザインホテル</span>
+            </Link>
+            <Link
+              href="/power-spot-shrine-temple-fortune-solo-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-red-900 via-amber-950 to-stone-900 hover:from-red-800 hover:to-stone-850 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>⛩️</span>
+              <span>寺社・パワースポット巡り＆開運ひとり旅宿</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >
