@@ -193,6 +193,30 @@
     <priority>0.85</priority>
   </url>
   <url>
+    <loc>https://croud-travel.pages.dev/dog-friendly-private-onsen-bath-resort-stay/</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://croud-travel.pages.dev/dog-oceanfront-beach-glamping-villa-stay/</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://croud-travel.pages.dev/dog-private-grass-run-villa-stay/</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://croud-travel.pages.dev/dog-room-dining-special-course-hotel-stay/</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
     <loc>https://croud-travel.pages.dev/drive-touring-garage-onsen-stay/</loc>
     <lastmod>2026-09-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -650,6 +674,12 @@
   </url>
   <url>
     <loc>https://croud-travel.pages.dev/kyoto-ujigawa-greentea-stay/</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://croud-travel.pages.dev/large-dog-multi-pet-friendly-resort-stay/</loc>
     <lastmod>2026-09-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>

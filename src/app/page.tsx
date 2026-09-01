@@ -1459,6 +1459,41 @@ export default function Home() {
               <span>有田伊万里波佐見焼＆伊万里牛宿</span>
             </Link>
             <Link
+              href="/dog-friendly-private-onsen-bath-resort-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-900 via-orange-950 to-stone-900 hover:from-amber-800 hover:to-orange-900 rounded-2xl shadow-lg transition border border-amber-300/50 flex items-center gap-1.5"
+            >
+              <span>♨️🐶</span>
+              <span>愛犬専用温泉付き客室＆露天風呂宿</span>
+            </Link>
+            <Link
+              href="/dog-private-grass-run-villa-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-900 via-teal-950 to-stone-900 hover:from-emerald-800 hover:to-teal-900 rounded-2xl shadow-lg transition border border-emerald-300/50 flex items-center gap-1.5"
+            >
+              <span>🌿🐕</span>
+              <span>天然芝専用ドッグラン付きヴィラ</span>
+            </Link>
+            <Link
+              href="/dog-room-dining-special-course-hotel-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-950 via-amber-950 to-orange-950 hover:from-rose-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-300/50 flex items-center gap-1.5"
+            >
+              <span>🥩🎂</span>
+              <span>愛犬同伴お部屋食＆特製フルコース宿</span>
+            </Link>
+            <Link
+              href="/large-dog-multi-pet-friendly-resort-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-yellow-950 via-stone-900 to-amber-950 hover:from-yellow-900 hover:to-stone-850 rounded-2xl shadow-lg transition border border-yellow-300/50 flex items-center gap-1.5"
+            >
+              <span>🦮🌲</span>
+              <span>大型犬・多頭飼い歓迎広々リゾート</span>
+            </Link>
+            <Link
+              href="/dog-oceanfront-beach-glamping-villa-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-cyan-950 bg-gradient-to-r from-cyan-300 via-teal-300 to-amber-200 hover:from-cyan-200 hover:to-amber-100 rounded-2xl shadow-lg transition border border-cyan-200 flex items-center gap-1.5"
+            >
+              <span>🏖️🌊</span>
+              <span>海直結・愛犬とビーチグランピング宿</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >
