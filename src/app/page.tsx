@@ -1319,6 +1319,41 @@ export default function Home() {
               <span>阿寒湖マリモ・摩周屈斜路＆川湯温泉宿</span>
             </Link>
             <Link
+              href="/japan-luxury-private-pool-suite-villa-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-900 via-cyan-950 to-indigo-950 hover:from-blue-800 hover:to-indigo-900 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>🏊</span>
+              <span>客室プライベート温水プール付きヴィラ</span>
+            </Link>
+            <Link
+              href="/japan-traditional-kominka-heritage-luxury-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-900 via-stone-950 to-red-950 hover:from-amber-800 hover:to-stone-900 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🏮</span>
+              <span>一棟貸し古民家・登録有形文化財の宿</span>
+            </Link>
+            <Link
+              href="/japan-michelin-star-auberge-winery-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-950 via-purple-950 to-amber-950 hover:from-rose-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-rose-300/40 flex items-center gap-1.5"
+            >
+              <span>🍷</span>
+              <span>ミシュラン星付き＆ワイナリーオーベルジュ</span>
+            </Link>
+            <Link
+              href="/japan-exclusive-detached-villa-private-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-950 via-teal-950 to-stone-950 hover:from-emerald-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>♨️</span>
+              <span>全室離れ・源泉かけ流し露天風呂付き隠れ家</span>
+            </Link>
+            <Link
+              href="/japan-luxury-island-resort-charter-cruise-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-cyan-900 via-blue-950 to-emerald-950 hover:from-cyan-800 hover:to-blue-900 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>🛥️</span>
+              <span>専用クルーズ＆離島最高峰リゾート</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >
