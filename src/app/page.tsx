@@ -1424,6 +1424,41 @@ export default function Home() {
               <span>寺社・パワースポット巡り＆開運ひとり旅宿</span>
             </Link>
             <Link
+              href="/aomori-towada-oirase-gorge-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-850 via-teal-950 to-cyan-950 hover:from-emerald-750 hover:to-cyan-900 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>🌿</span>
+              <span>奥入瀬渓流・十和田湖＆ヒメマス宿</span>
+            </Link>
+            <Link
+              href="/iwate-tono-folklore-kappa-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-stone-850 via-amber-950 to-emerald-950 hover:from-stone-750 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🥒</span>
+              <span>遠野物語カッパ淵・曲り家＆生ラム宿</span>
+            </Link>
+            <Link
+              href="/fukushima-urabandai-goshikinuma-lake-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-cyan-850 via-teal-950 to-blue-950 hover:from-cyan-750 hover:to-blue-900 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>💎</span>
+              <span>裏磐梯五色沼・桧原湖＆会津山塩宿</span>
+            </Link>
+            <Link
+              href="/fukui-mikatagoko-rainbow-line-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-850 via-indigo-950 to-amber-950 hover:from-blue-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-blue-300/40 flex items-center gap-1.5"
+            >
+              <span>🌈</span>
+              <span>三方五湖レインボーライン＆うなぎ宿</span>
+            </Link>
+            <Link
+              href="/saga-arita-imari-hasami-pottery-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-850 via-red-950 to-teal-950 hover:from-amber-750 hover:to-teal-900 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🏺</span>
+              <span>有田伊万里波佐見焼＆伊万里牛宿</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >
