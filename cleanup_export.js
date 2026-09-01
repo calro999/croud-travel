@@ -9,6 +9,7 @@ const PRESERVED_ROOT_TXT_FILES = new Set([
   'llms-full.txt',
   'robots.txt',
   'croudtravelindexnow2026.txt',
+  'c4d9e7284b9148d2bc079e2f9d658931.txt',
   'b1c2d3e4f5a67b8c9d0e1f2a3b4c5d6e.txt',
   '54d2a4384bc4abc254d2a439aa1be583.txt'
 ]);
