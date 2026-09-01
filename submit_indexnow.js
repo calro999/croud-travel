@@ -7,17 +7,26 @@ const KEY = '54d2a4384bc4abc254d2a439aa1be583';
 const KEY_LOCATION = `https://${HOST}/${KEY}.txt`;
 const SITEMAP_URL = `https://${HOST}/sitemap.xml`;
 
-// Extract URLs from sitemap.xml
+// Extract all URLs from all generated sitemaps
 function extractUrls() {
-  const sitemapXml = fs.readFileSync('public/sitemap.xml', 'utf8');
-  const matches = sitemapXml.match(/<loc>([^<]+)<\/loc>/g) || [];
-  let urls = matches.map(m => m.replace(/<\/?loc>/g, '').trim());
+  let urls = [];
+  const sitemapFiles = [
+    'public/sitemap-main.xml',
+    'public/sitemap-features.xml',
+    'public/sitemap-prefectures.xml',
+    'public/sitemap-posts.xml',
+    'public/sitemap.xml'
+  ];
 
-  // Also include posts sitemap
-  if (fs.existsSync('public/sitemap-posts.xml')) {
-    const postXml = fs.readFileSync('public/sitemap-posts.xml', 'utf8');
-    const postMatches = postXml.match(/<loc>([^<]+)<\/loc>/g) || [];
-    urls = urls.concat(postMatches.map(m => m.replace(/<\/?loc>/g, '').trim()));
+  for (const sFile of sitemapFiles) {
+    if (fs.existsSync(sFile)) {
+      const xml = fs.readFileSync(sFile, 'utf8');
+      const matches = xml.match(/<loc>([^<]+)<\/loc>/g) || [];
+      const extracted = matches.map(m => m.replace(/<\/?loc>/g, '').trim());
+      // sitemapindexのloc（.xml）は除外してページURLのみ対象にする
+      const pageUrls = extracted.filter(u => !u.endsWith('.xml'));
+      urls = urls.concat(pageUrls);
+    }
   }
 
   // Deduplicate
