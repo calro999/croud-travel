@@ -4,6 +4,7 @@ import Link from "next/link";
 import { Metadata } from "next";
 import { PREFECTURES_DATA } from "@/data/prefecturesData";
 import PostListClient from "./components/PostListClient";
+import TransitNavigationSection from "./components/TransitNavigationSection";
 
 interface Post {
   id: string;
@@ -1683,6 +1684,9 @@ export default function Home() {
           </div>
         </div>
       </section>
+
+      {/* 🚅 新幹線 vs 高速バス 安く行く方法＆1泊2日モデルコース特設ナビゲーション */}
+      <TransitNavigationSection />
 
       {/* 注目：お得キャンペーンピックアップセクション */}
       <section className="bg-gradient-to-r from-amber-500/10 via-amber-500/5 to-teal-500/10 border border-amber-500/20 rounded-3xl p-6 md:p-8 space-y-5">
