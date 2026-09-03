@@ -59,12 +59,20 @@
 
 ## 最新厳選宿・観光ルポ記事
 - [【秋保温泉】仙台奥座敷のおすすめ温泉旅館7選！豪華バイキング＆室内プール付きリゾート](https://croud-travel.pages.dev/posts/akyu-onsen-sendai-family-buffet-hotels-guide): 秋保温泉　心和む名湯の宿　曽良一（宮城県）
+- [【伊豆・修善寺】国の登録有形文化財「新井旅館」宿泊ガイド！名建築・天平大浴堂と竹林の小径](https://croud-travel.pages.dev/posts/arai-ryokan-shuzenji-cultural-heritage-guide): 修善寺温泉　国の登録文化財の宿　新井旅館（静岡県）
+- [【甲府】センティアホテル内藤宿泊レビュー！甲府駅周辺のおすすめホテル＆甲州ワイン美食](https://croud-travel.pages.dev/posts/centia-hotel-naito-kofu-stay-review-guide): センティア・ホテル内藤（山梨県）
 - [【定山渓温泉】札幌から1時間！渓谷美露天風呂＆本格サウナが自慢の人気宿7選](https://croud-travel.pages.dev/posts/jozankei-onsen-sapporo-gorge-sauna-guide): 定山渓温泉　章月グランドホテル（北海道）
+- [【千葉・房総】鴨川館宿泊ガイド！屋上温泉ぷーろHARUKA＆房総伊勢海老・鮑会席](https://croud-travel.pages.dev/posts/kamogawakan-boso-ocean-view-spa-guide): 鴨川館（千葉県）
 - [【高知】天然温泉 三翠園宿泊ガイド！高知城下・旧藩主山内家ゆかりの名門宿と皿鉢料理](https://croud-travel.pages.dev/posts/kochi-sansuien-castle-history-tataki-guide): 高知城下の天然温泉　三翠園（さんすいえん）（高知県）
 - [【黒川温泉】入湯手形で巡る露天風呂＆あか牛料理が旨い人気宿7選！阿蘇の秘湯ガイド](https://croud-travel.pages.dev/posts/kurokawa-onsen-nyuto-tegata-akagyu-guide): 黒川温泉　旅館　美里（熊本県）
+- [【奈良】ホテル リガーレ春日野宿泊ガイド！奈良公園・東大寺徒歩圏内の静寂ホテルと大和牛会席](https://croud-travel.pages.dev/posts/ligare-kasugano-nara-park-todaiji-guide): ホテル　リガーレ春日野（奈良県）
 - [【三朝温泉】世界有数の高濃度ラジウム泉！免疫力高まる湯治の宿＆冬の松葉ガニ会席7選](https://croud-travel.pages.dev/posts/misasa-onsen-radium-healing-crab-guide): 三朝温泉　旅館　大橋（鳥取県）
 - [【鳴子温泉郷】日本屈指の多彩な泉質を巡る名湯宿7選！鳴子峡の紅葉と伝統こけしの街](https://croud-travel.pages.dev/posts/naruko-onsen-kyuto-yumeguri-retro-ryokan-guide): 鳴子温泉郷　極上の貸切露天風呂　旅館大沼（宮城県）
+- [【新潟・出湯温泉】愛犬と泊まれる秘湯の宿 大石屋旅館！日本最古のラジウム温泉と越後美味会席](https://croud-travel.pages.dev/posts/ooishiya-ryokan-deyutonsen-pet-radium-guide): 五頭温泉郷　出湯温泉　郷愁の宿　大石屋旅館（新潟県）
+- [【小樽】運河の宿 おたる ふる川宿泊ガイド！小樽運河を一望する展望温泉とノスタルジー会席](https://croud-travel.pages.dev/posts/otaru-furukawa-canal-view-retro-guide): 運河の宿　おたる　ふる川（北海道）
+- [【香川・坂出】湯元さぬき瀬戸大橋温泉 せとうちそう！瀬戸大橋ライトアップと本場讃岐うどん巡り](https://croud-travel.pages.dev/posts/setouchiso-sakaide-seto-bridge-udon-guide): 坂出プラザホテル（香川県）
 - [【支笏湖温泉】日本屈指の透明度を誇る湖畔リゾート！美肌とろとろ湯とレイクビュー宿5選](https://croud-travel.pages.dev/posts/shikotsuko-onsen-lake-view-bihada-guide): 支笏湖第一寶亭留　翠山亭（北海道）
+- [【北海道・キロロ】YU KIRORO宿泊ガイド！全室キッチン付き高級コンドミニアムと天然温泉](https://croud-travel.pages.dev/posts/yu-kiroro-luxury-condo-hokkaido-stay-guide): エーヴランド　ホテル＆ゴルフクラブ（北海道）
 - [【由布院温泉】完全プライベート離れ＆客室露天風呂の極上宿6選！金鱗湖散策と豊後牛会席](https://croud-travel.pages.dev/posts/yufuin-onsen-hanare-private-bath-guide): 由布院温泉　全室露天付き離れ宿　御宿　さくら亭（大分県）
 - [【福井県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/50824): 敦賀トンネル温泉　北国グランドホテル＜福井県＞（福井県）
 - [【おすすめ宿】八幡平温泉郷　八幡平ハイツの魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/7734): 八幡平温泉郷　八幡平ハイツ（岩手県）
@@ -100,11 +108,3 @@
 - [【大阪府観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/164999): ライズホテル大阪北新地（大阪府）
 - [【おすすめ宿】そのぎ茶温泉　ヴィラそのぎの魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/187303): そのぎ茶温泉　ヴィラそのぎ（佐賀県）
 - [【広島県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/428): オリエンタルホテル広島（広島県）
-- [【おすすめ宿】ホテルＳＵＩ銀座京橋ｂｙＡＢＥＳＴの魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/162965): ホテルＳＵＩ銀座京橋ｂｙＡＢＥＳＴ（東京都）
-- [【和歌山県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/44251): 白浜温泉　ホテルサンリゾート白浜（和歌山県）
-- [【おすすめ宿】国際ホテル宇部の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/798): 国際ホテル宇部（山口県）
-- [【愛媛県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/11332): 道後温泉　ふなや（愛媛県）
-- [【おすすめ宿】亀の井ホテル　熊野田辺（旧　亀の井ホテル　紀伊田辺）の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/43912): 亀の井ホテル　熊野田辺（旧　亀の井ホテル　紀伊田辺）（和歌山県）
-- [【宮崎県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/413): ホテル　ベルフォート日向（宮崎県）
-- [【おすすめ宿】ホテルルートインＧｒａｎｄ太田駅前の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/173117): ホテルルートインＧｒａｎｄ太田駅前（群馬県）
-- [【大分県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/31206): スパ&amp;リゾート　ホテルソラージュ　大分・日出（大分県）
