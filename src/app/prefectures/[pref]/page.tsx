@@ -8,6 +8,7 @@ import { getCitiesByPrefectures } from "@/data/citiesData";
 import { SPOTS_DATA } from "@/data/spotsData";
 import NextSearchQuestions, { NextQuestionItem } from "@/app/components/NextSearchQuestions";
 import { getRecommendedFeatureHubs } from "@/data/featureHubsData";
+import { getTransitGuidesForPrefecture } from "@/data/transitGuidesData";
 
 interface Post {
   id: string;
@@ -954,6 +955,65 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
             subtitle={`${prefInfo.name}への旅行をより具体的にイメージできるよう、人気の市町村ガイド、有名観光地、おすすめホテル、旅行テーマ特集を先回り提示します。`}
             items={nextQuestions}
           />
+        );
+      })()}
+
+      {/* 🚌 交通アクセス・高速バス・新幹線 比較＆1泊2日モデルコース */}
+      {(() => {
+        const transitGuides = getTransitGuidesForPrefecture(prefInfo.slug, 4);
+        if (transitGuides.length === 0) return null;
+
+        return (
+          <section className="bg-gradient-to-br from-slate-900 via-sky-950 to-indigo-950 text-white rounded-3xl p-6 md:p-10 shadow-xl border border-white/10 space-y-6">
+            <div className="flex flex-wrap items-center justify-between gap-2 border-b border-white/10 pb-4">
+              <div>
+                <div className="flex items-center gap-2">
+                  <span className="text-[10px] md:text-xs font-black tracking-widest bg-cyan-400 text-slate-950 px-3 py-0.5 rounded-full uppercase">
+                    TRANSIT & SMART TRAVEL
+                  </span>
+                  <span className="text-xs text-cyan-200 font-bold">
+                    交通費を浮かせて贅沢旅
+                  </span>
+                </div>
+                <h3 className="text-xl md:text-2xl font-black font-journal-serif text-white mt-1">
+                  【{prefInfo.name}発着】安く行く方法・新幹線 vs 高速バス徹底比較ガイド
+                </h3>
+              </div>
+            </div>
+
+            <p className="text-xs md:text-sm text-cyan-100/90 leading-relaxed">
+              「新幹線と高速バス、どっちで行くのが正解？」「移動費を浮かせた分でいい宿に泊まりたい！」そんな旅行者のための交通比較＆1泊2日満喫モデルコース特集です。
+            </p>
+
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+              {transitGuides.map((guide) => (
+                <Link
+                  key={guide.slug}
+                  href={`/${guide.slug}`}
+                  className="group block p-5 rounded-2xl bg-white/5 hover:bg-white/10 border border-white/10 hover:border-cyan-400/50 transition duration-200 space-y-2.5"
+                >
+                  <div className="flex items-center justify-between text-[11px]">
+                    <span className="font-extrabold text-cyan-300 bg-cyan-950/80 px-2.5 py-0.5 rounded border border-cyan-800">
+                      📍 {guide.fromTo}
+                    </span>
+                    <span className="text-[10px] font-bold text-amber-300">
+                      {guide.priceNote}
+                    </span>
+                  </div>
+                  <h4 className="text-sm font-black text-white group-hover:text-cyan-200 transition font-journal-serif line-clamp-2">
+                    {guide.title}
+                  </h4>
+                  <p className="text-xs text-slate-300 line-clamp-2 leading-relaxed font-medium">
+                    {guide.description}
+                  </p>
+                  <div className="text-[11px] font-bold text-cyan-400 group-hover:translate-x-1 transition flex items-center gap-1 pt-1">
+                    <span>徹底比較＆モデルコースを見る</span>
+                    <span>→</span>
+                  </div>
+                </Link>
+              ))}
+            </div>
+          </section>
         );
       })()}
 

@@ -6,7 +6,7 @@ import path from "path";
 export const metadata: Metadata = {
   title: "【大阪・神戸〜鳥取・松江・出雲】高速バス vs 特急スーパーはくと徹底比較！料金半額＆縁結び出雲大社・鳥取砂丘1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
   description: "大阪・神戸から鳥取・松江・出雲へ行くなら高速バスと特急どっちがお得？JR特急スーパーはくと・特急やくもと直行高速バスの料金・所要時間比較！鳥取砂丘、国宝松江城、縁結び出雲大社を巡る1泊2日モデルコース。",
-  keywords: ["osaka-tottori-matsue-bus-vs-train-guide", "高速バス", "新幹線 比較", "安く行く方法", "1泊2日 モデルコース", "宿泊予約", "楽天トラベル"],
+  keywords: ["osaka-tottori-matsue-bus-vs-train-guide", "高速バス", "バスツアー", "新幹線 比較", "安く行く方法", "1泊2日 モデルコース", "宿泊予約", "楽天トラベル"],
 };
 
 function loadHotels() {
@@ -339,6 +339,83 @@ export default function HighwayBusArticlePage() {
             ホテル情報を読み込み中または該当ホテルを検索中です。
           </div>
         )}
+      </section>
+
+      {/* 🚌 楽天トラベル 観光バスツアー・フェリー・観光列車 クロスセルセクション */}
+      <section className="bg-gradient-to-br from-amber-950 via-stone-900 to-orange-950 text-white rounded-3xl p-6 md:p-10 shadow-xl border border-white/10 space-y-6">
+        <div className="space-y-2 border-b border-white/10 pb-4">
+          <div className="flex items-center gap-2">
+            <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3 py-0.5 rounded-full uppercase">
+              RAKUTEN TRAVEL SPECIAL TOUR
+            </span>
+            <span className="text-xs text-amber-200 font-bold">
+              手ぶらで名所めぐり＆絶景旅
+            </span>
+          </div>
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-white">
+            楽天トラベル 日帰りバスツアー＆観光特集でさらに旅を満喫！
+          </h2>
+          <p className="text-xs md:text-sm text-amber-100/80 leading-relaxed font-medium">
+            個人手配が難しい季節のフルーツ狩り・絶景ライトアップ・ご当地名物食べ放題など、添乗員付きで安心して楽しめる人気バスツアーやテーマ別特集も要チェック。
+          </p>
+        </div>
+
+        <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
+          <a
+            href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2Ftour%2F"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="p-4 rounded-2xl bg-white/10 hover:bg-white/15 border border-white/10 hover:border-amber-400 transition space-y-2 group"
+          >
+            <div className="text-2xl">🍓</div>
+            <h3 className="text-xs md:text-sm font-bold text-white group-hover:text-amber-300 transition">
+              季節の味覚＆日帰りバスツアー
+            </h3>
+            <p className="text-[11px] text-stone-300 leading-relaxed">
+              いちご・ぶどう・松茸など旬の味覚狩りや名所巡りがセットでお得。
+            </p>
+            <div className="text-[11px] font-bold text-amber-400 pt-1 flex items-center gap-1">
+              <span>バスツアーを見る</span>
+              <span>→</span>
+            </div>
+          </a>
+
+          <a
+            href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2F"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="p-4 rounded-2xl bg-white/10 hover:bg-white/15 border border-white/10 hover:border-amber-400 transition space-y-2 group"
+          >
+            <div className="text-2xl">🎫</div>
+            <h3 className="text-xs md:text-sm font-bold text-white group-hover:text-amber-300 transition">
+              高速バス タイムセール＆クーポン
+            </h3>
+            <p className="text-[11px] text-stone-300 leading-relaxed">
+              楽天トラベル限定の高速バス割引クーポン＆お得な夜行便セール。
+            </p>
+            <div className="text-[11px] font-bold text-amber-400 pt-1 flex items-center gap-1">
+              <span>クーポンを見る</span>
+              <span>→</span>
+            </div>
+          </a>
+
+          <Link
+            href="/scenic-tourist-train-onsen-trip-stay"
+            className="p-4 rounded-2xl bg-white/10 hover:bg-white/15 border border-white/10 hover:border-amber-400 transition space-y-2 group"
+          >
+            <div className="text-2xl">🚅</div>
+            <h3 className="text-xs md:text-sm font-bold text-white group-hover:text-amber-300 transition">
+              人気観光列車＆極上名旅館
+            </h3>
+            <p className="text-[11px] text-stone-300 leading-relaxed">
+              サフィール踊り子・しまかぜ・ゆふいんの森で行く贅沢列車ステイ。
+            </p>
+            <div className="text-[11px] font-bold text-amber-400 pt-1 flex items-center gap-1">
+              <span>観光列車ガイドを見る</span>
+              <span>→</span>
+            </div>
+          </Link>
+        </div>
       </section>
 
       {/* 47都道府県トップへのリンク */}
