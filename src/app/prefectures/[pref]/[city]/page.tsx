@@ -5,6 +5,9 @@ import { notFound } from "next/navigation";
 import { Metadata } from "next";
 import { CITIES_DATA, getCityBySlug, getCitiesByPrefectures } from "@/data/citiesData";
 import { getPrefectureBySlug } from "@/data/prefecturesData";
+import { SPOTS_DATA } from "@/data/spotsData";
+import NextSearchQuestions, { NextQuestionItem } from "@/app/components/NextSearchQuestions";
+import { getRecommendedFeatureHubs } from "@/data/featureHubsData";
 
 interface Post {
   id: string;
@@ -281,6 +284,66 @@ export default async function CityDetailPage({ params }: { params: Promise<{ pre
           ))}
         </div>
       </section>
+
+      {/* 🔍 次にユーザーが検索する疑問＆先回りガイド */}
+      {(() => {
+        const citySpots = SPOTS_DATA.filter(s => s.prefSlug === pref && (s.citySlug === city || s.cityName === cityInfo.cityName));
+        const topHotel = finalPosts[0];
+        const recommendedHubs = getRecommendedFeatureHubs({
+          prefSlug: pref,
+          keywords: [cityInfo.cityName, cityInfo.prefName, ...cityInfo.keywords, ...cityInfo.highlights],
+          limit: 2
+        });
+
+        const nextQuestions: NextQuestionItem[] = [];
+
+        if (citySpots.length > 0) {
+          const firstSpot = citySpots[0];
+          nextQuestions.push({
+            question: `【${cityInfo.cityName}】${firstSpot.name}の見どころやアクセス・所要時間は？`,
+            badge: "観光名所スポット解説",
+            answerSnippet: `${firstSpot.subtitle}。${firstSpot.highlights.slice(0, 2).join('／')}`,
+            linkText: `【${firstSpot.name}】見どころ＆近くの宿を見る`,
+            href: `/spots/${firstSpot.slug}`
+          });
+        }
+
+        if (topHotel) {
+          nextQuestions.push({
+            question: `【${cityInfo.cityName}】口コミ高評価の泊まるべきおすすめホテル・旅館は？`,
+            badge: "宿泊施設・ホテルルポ",
+            answerSnippet: `「${topHotel.hotel_name}」をはじめ、${cityInfo.cityName}の観光や温泉を満喫できる人気宿泊施設の詳細ルポを掲載中。`,
+            linkText: `【${topHotel.hotel_name}】宿泊ルポ記事を見る`,
+            href: `/posts/${topHotel.id}`
+          });
+        }
+
+        nextQuestions.push({
+          question: `【${cityInfo.prefName}全体】他の有名観光地やお土産・温泉・地酒は？`,
+          badge: "都道府県ポータル",
+          answerSnippet: `${cityInfo.prefName}全域の有名観光スポット、名湯、ご当地お土産、酒蔵ガイドを完全網羅。`,
+          linkText: `【${cityInfo.prefName}】観光・温泉・名物ガイドを見る`,
+          href: `/prefectures/${pref}`
+        });
+
+        for (const hub of recommendedHubs) {
+          nextQuestions.push({
+            question: `【${hub.theme}】${cityInfo.cityName}周辺のおすすめ旅行特集は？`,
+            badge: "目的・テーマ特集",
+            answerSnippet: hub.description,
+            linkText: `${hub.shortTitle}を見る`,
+            href: `/${hub.slug}`
+          });
+        }
+
+        return (
+          <NextSearchQuestions
+            title={`🔍 「${cityInfo.cityName}」の観光を調べた人が次に検索している疑問＆先回りガイド`}
+            subtitle={`${cityInfo.cityName}への旅行計画をさらに深めるため、具体的な観光名所の解説、おすすめホテル、県内他エリア、旅行テーマ特集を先回り提示します。`}
+            items={nextQuestions}
+          />
+        );
+      })()}
 
       {/* 🧭 隣接・同都道府県の他市町村サブハブ（網目構造リンク） */}
       {siblingCities.length > 0 && (

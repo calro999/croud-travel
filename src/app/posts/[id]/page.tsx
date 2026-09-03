@@ -5,8 +5,11 @@ import { notFound } from "next/navigation";
 import { Metadata } from "next";
 import RelatedPosts, { PostSummary } from "@/app/components/RelatedPosts";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
+import NextSearchQuestions, { NextQuestionItem } from "@/app/components/NextSearchQuestions";
 import { PREFECTURES_DATA } from "@/data/prefecturesData";
 import { SPOTS_DATA } from "@/data/spotsData";
+import { CITIES_DATA } from "@/data/citiesData";
+import { getRecommendedFeatureHubs } from "@/data/featureHubsData";
 
 interface Post {
   id: string;
@@ -516,6 +519,82 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
                 ))}
               </div>
             </div>
+
+            {/* 🔍 次にユーザーが検索する疑問＆先回りガイド（内部リンク網） */}
+            {(() => {
+              const matchedSpot = SPOTS_DATA.find(s => {
+                const textToSearch = `${post.title || ""} ${post.hotel_name || ""} ${post.area || ""} ${post.review || ""}`.toLowerCase();
+                const isPrefMatch = s.prefName === safePref || s.prefName.replace(/(県|府|東京都)$/, "") === safePref.replace(/(県|府|東京都)$/, "");
+                return isPrefMatch && s.hotelKeywords.some(kw => textToSearch.includes(kw.toLowerCase()));
+              });
+
+              const matchedCity = CITIES_DATA.find(c => {
+                const textToSearch = `${post.title || ""} ${post.hotel_name || ""} ${post.area || ""} ${post.prefecture || ""}`.toLowerCase();
+                const isPrefMatch = c.prefName === safePref || c.prefName.replace(/(県|府|東京都)$/, "") === safePref.replace(/(県|府|東京都)$/, "");
+                return isPrefMatch && (textToSearch.includes(c.cityName.toLowerCase()) || c.keywords.some(kw => textToSearch.includes(kw.toLowerCase())));
+              });
+
+              const recommendedHubs = getRecommendedFeatureHubs({
+                prefSlug,
+                categories: post.categories,
+                keywords: [post.area, post.prefecture, ...(post.recommended_for || [])],
+                limit: 2
+              });
+
+              const nextQuestions: NextQuestionItem[] = [];
+
+              if (matchedSpot) {
+                nextQuestions.push({
+                  question: `${matchedSpot.name}の見どころやアクセス、おすすめルートは？`,
+                  badge: "周辺観光名所ガイド",
+                  answerSnippet: `${matchedSpot.subtitle}。${post.hotel_name}からのアクセスも良好で、合わせて訪れたい定番スポットです。`,
+                  linkText: `【${matchedSpot.name}】詳細解説＆見どころを見る`,
+                  href: `/spots/${matchedSpot.slug}`
+                });
+              }
+
+              if (matchedCity) {
+                nextQuestions.push({
+                  question: `${matchedCity.cityName}で人気のおすすめ観光地や名物グルメは？`,
+                  badge: "市町村観光ガイド",
+                  answerSnippet: `${matchedCity.cityName}の主要観光スポット（${matchedCity.highlights.slice(0, 3).join('・')}）や、${matchedCity.gourmet.slice(0, 2).join('・')}などのご当地料理を徹底ガイド。`,
+                  linkText: `【${matchedCity.cityName}】観光＆名物料理ガイドを見る`,
+                  href: `/prefectures/${prefSlug}/${matchedCity.citySlug}`
+                });
+              }
+
+              if (prefSlug) {
+                nextQuestions.push({
+                  question: `${post.prefecture}で有名な名所・人気温泉旅館・定番お土産は？`,
+                  badge: "都道府県ポータル",
+                  answerSnippet: `「${post.prefecture}で有名なものは何？」を一挙解決。おすすめの温泉地、絶景カフェ、トレンドお土産、地酒・酒蔵まで網羅しています。`,
+                  linkText: `【${post.prefecture}】観光・温泉・名物ガイドを見る`,
+                  href: `/prefectures/${prefSlug}`
+                });
+              }
+
+              for (const hub of recommendedHubs) {
+                nextQuestions.push({
+                  question: `【${hub.theme}】この旅のスタイルにぴったりな人気特集は？`,
+                  badge: "旅の目的・テーマ特集",
+                  answerSnippet: hub.description,
+                  linkText: `${hub.shortTitle}を見る`,
+                  href: `/${hub.slug}`
+                });
+              }
+
+              if (nextQuestions.length === 0) return null;
+
+              return (
+                <div className="pt-8 border-t border-emerald-950/10">
+                  <NextSearchQuestions
+                    title={`🔍 ${post.hotel_name}（${post.area}）を調べた人が「次に検索している疑問」`}
+                    subtitle="旅行の検討や計画をスムーズに進めるために、周辺の観光スポット・名物グルメ・関連する旅の特集を先回りしてご紹介します。"
+                    items={nextQuestions}
+                  />
+                </div>
+              );
+            })()}
           </>
         )}
 

@@ -283,6 +283,24 @@
     <priority>0.85</priority>
   </url>
   <url>
+    <loc>https://croud-travel.pages.dev/fukuoka-beppu-yufuin-bus-vs-train-guide/</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://croud-travel.pages.dev/fukuoka-kagoshima-bus-vs-shinkansen-guide/</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://croud-travel.pages.dev/fukuoka-kumamoto-bus-vs-shinkansen-guide/</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
     <loc>https://croud-travel.pages.dev/fukushima-aizu-ashinomaki-ouchijuku-stay/</loc>
     <lastmod>2026-09-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -877,6 +895,18 @@
     <priority>0.85</priority>
   </url>
   <url>
+    <loc>https://croud-travel.pages.dev/nagoya-kanazawa-bus-vs-train-guide/</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://croud-travel.pages.dev/nagoya-kyoto-bus-vs-shinkansen-guide/</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
     <loc>https://croud-travel.pages.dev/new-year-hatsumode-onsen/</loc>
     <lastmod>2026-09-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -938,6 +968,36 @@
   </url>
   <url>
     <loc>https://croud-travel.pages.dev/osaka/</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://croud-travel.pages.dev/osaka-fukuoka-bus-vs-shinkansen-guide/</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://croud-travel.pages.dev/osaka-kanazawa-highway-bus-model-course/</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://croud-travel.pages.dev/osaka-kochi-bus-vs-train-guide/</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://croud-travel.pages.dev/osaka-tokushima-naruto-bus-vs-car-guide/</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://croud-travel.pages.dev/osaka-tottori-matsue-bus-vs-train-guide/</loc>
     <lastmod>2026-09-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
@@ -1117,7 +1177,127 @@
     <priority>0.85</priority>
   </url>
   <url>
+    <loc>https://croud-travel.pages.dev/tokyo-aomori-bus-vs-shinkansen-guide/</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
     <loc>https://croud-travel.pages.dev/tokyo-disney-resort-partner-official-hotel-stay/</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://croud-travel.pages.dev/tokyo-fujikawaguchiko-highway-bus-guide/</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://croud-travel.pages.dev/tokyo-hiroshima-bus-vs-shinkansen-guide/</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://croud-travel.pages.dev/tokyo-iwate-morioka-bus-vs-shinkansen-guide/</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://croud-travel.pages.dev/tokyo-izu-atami-bus-vs-train-guide/</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://croud-travel.pages.dev/tokyo-kanazawa-bus-vs-shinkansen-guide/</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://croud-travel.pages.dev/tokyo-kusatsu-onsen-highway-bus-guide/</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://croud-travel.pages.dev/tokyo-kyoto-bus-vs-shinkansen-guide/</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://croud-travel.pages.dev/tokyo-matsumoto-kamikochi-bus-vs-train-guide/</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://croud-travel.pages.dev/tokyo-mie-ise-shima-bus-vs-train-guide/</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://croud-travel.pages.dev/tokyo-nagano-karuizawa-bus-vs-shinkansen/</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://croud-travel.pages.dev/tokyo-nagoya-bus-vs-shinkansen-guide/</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://croud-travel.pages.dev/tokyo-niigata-bus-vs-shinkansen-guide/</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://croud-travel.pages.dev/tokyo-osaka-bus-vs-shinkansen-guide/</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://croud-travel.pages.dev/tokyo-sendai-bus-vs-shinkansen-guide/</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://croud-travel.pages.dev/tokyo-shikoku-takamatsu-bus-vs-shinkansen-guide/</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://croud-travel.pages.dev/tokyo-shirahama-kumano-bus-vs-train-guide/</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://croud-travel.pages.dev/tokyo-shizuoka-hamamatsu-bus-vs-shinkansen-guide/</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://croud-travel.pages.dev/tokyo-takayama-shirakawago-highway-bus-guide/</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://croud-travel.pages.dev/tokyo-yamagata-zao-bus-vs-shinkansen-guide/</loc>
     <lastmod>2026-09-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>

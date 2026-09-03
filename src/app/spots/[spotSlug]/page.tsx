@@ -4,6 +4,9 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { Metadata } from "next";
 import { SPOTS_DATA, getSpotBySlug } from "@/data/spotsData";
+import NextSearchQuestions, { NextQuestionItem } from "@/app/components/NextSearchQuestions";
+import { getRecommendedFeatureHubs } from "@/data/featureHubsData";
+import { getCityBySlug } from "@/data/citiesData";
 
 interface Post {
   id: string;
@@ -327,6 +330,65 @@ export default async function SpotDetailPage({ params }: { params: Promise<{ spo
           </div>
         </section>
       )}
+
+      {/* 🔍 次にユーザーが検索する疑問＆先回りガイド */}
+      {(() => {
+        const cityData = getCityBySlug(spot.prefSlug, spot.citySlug);
+        const topHotel = finalHotelPosts[0];
+        const recommendedHubs = getRecommendedFeatureHubs({
+          prefSlug: spot.prefSlug,
+          keywords: [spot.name, spot.cityName, spot.prefName, ...spot.hotelKeywords],
+          limit: 2
+        });
+
+        const nextQuestions: NextQuestionItem[] = [];
+
+        if (topHotel) {
+          nextQuestions.push({
+            question: `【${spot.name}周辺】一番近くで評価が高いおすすめホテル・温泉旅館は？`,
+            badge: "周辺宿泊施設ガイド",
+            answerSnippet: `「${topHotel.hotel_name}」をはじめ、${spot.name}からスムーズにアクセスできる厳選ホテル・旅館が充実。滞在スタイルに合わせた客室・露天風呂プランが人気です。`,
+            linkText: `【${topHotel.hotel_name}】宿泊ルポ記事を見る`,
+            href: `/posts/${topHotel.id}`
+          });
+        }
+
+        if (cityData) {
+          nextQuestions.push({
+            question: `【${spot.cityName}観光】周辺の見どころや絶対に食べたい名物グルメは？`,
+            badge: "市町村観光ガイド",
+            answerSnippet: `${spot.cityName}の必見スポット（${cityData.highlights.slice(0, 3).join('・')}）や、${cityData.gourmet.slice(0, 2).join('・')}など地元で愛される名物料理を網羅。`,
+            linkText: `【${spot.cityName}】観光＆名物料理ガイドを見る`,
+            href: `/prefectures/${spot.prefSlug}/${spot.citySlug}`
+          });
+        }
+
+        nextQuestions.push({
+          question: `【${spot.prefName}旅行】他の有名な観光名所や人気温泉地・お土産は？`,
+          badge: "都道府県ポータル",
+          answerSnippet: `${spot.prefName}全体の有名な観光スポット、名湯温泉旅館、地元で人気のトレンドお土産、地酒・酒蔵まで徹底解説しています。`,
+          linkText: `【${spot.prefName}】観光・温泉・名物ガイドを見る`,
+          href: `/prefectures/${spot.prefSlug}`
+        });
+
+        for (const hub of recommendedHubs) {
+          nextQuestions.push({
+            question: `【${hub.theme}】このエリアを巡るおすすめの旅特集は？`,
+            badge: "目的・テーマ特集",
+            answerSnippet: hub.description,
+            linkText: `${hub.shortTitle}を見る`,
+            href: `/${hub.slug}`
+          });
+        }
+
+        return (
+          <NextSearchQuestions
+            title={`🔍 「${spot.name}」を調べた人が次に検索している疑問＆周辺ガイド`}
+            subtitle="観光の計画をさらに充実させるため、周辺の宿泊施設・名物グルメ・関連する旅の特集を先回りしてご紹介します。"
+            items={nextQuestions}
+          />
+        );
+      })()}
 
       {/* 都道府県＆市町村ハブへのバックリンク */}
       <div className="flex flex-wrap justify-center gap-4 pt-4">

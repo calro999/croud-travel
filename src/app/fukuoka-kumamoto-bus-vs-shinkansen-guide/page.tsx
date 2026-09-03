@@ -1,0 +1,354 @@
+import { Metadata } from "next";
+import Link from "next/link";
+import fs from "fs";
+import path from "path";
+
+export const metadata: Metadata = {
+  title: "【福岡・博多〜熊本】新幹線 vs 高速バス「ひのくに号」徹底比較！料金半額＆熊本城・あか牛1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+  description: "博多・天神から熊本へ行くなら九州新幹線と高速バス「ひのくに号」どっちがお得？料金・時間・運行本数比較！片道2,500円以下で行ける高速バスを活用し、熊本城復興見学と名物あか牛丼、黒川温泉を満喫する1泊2日モデルコース。",
+  keywords: ["fukuoka-kumamoto-bus-vs-shinkansen-guide", "高速バス", "新幹線 比較", "安く行く方法", "1泊2日 モデルコース", "宿泊予約", "楽天トラベル"],
+};
+
+function loadHotels() {
+  try {
+    const filePath = path.join(process.cwd(), "src", "data", "all_seasonal_rakuten_hotels.json");
+    if (fs.existsSync(filePath)) {
+      const data = JSON.parse(fs.readFileSync(filePath, "utf8"));
+      return data["fukuoka-kumamoto-bus-vs-shinkansen-guide"]?.hotels || [];
+    }
+  } catch (e) {
+    console.error("Failed to load hotels for fukuoka-kumamoto-bus-vs-shinkansen-guide", e);
+  }
+  return [];
+}
+
+export default function HighwayBusArticlePage() {
+  const hotels = loadHotels();
+
+  const tableData = [
+  {
+    "mode": "高速バス「ひのくに号」（博多/天神〜熊本）",
+    "price": "片道 約2,500円（Web割/回数券なら約2,000円）",
+    "roundPrice": "往復 約4,500円",
+    "duration": "約2時間〜2時間15分",
+    "feature": "10分〜15分間隔の圧倒的高頻度！熊本城・上通・下通のすぐ目の前（桜町BT/通町筋）に直着。",
+    "recommendFor": "市街地直行希望・コスパ重視・本数を気にせず乗りたい方"
+  },
+  {
+    "mode": "九州新幹線（みずほ/さくら/つばめ）",
+    "price": "片道 約5,230円（指定席）/ 約4,700円（自由席）",
+    "roundPrice": "往復 約9,400円〜10,460円",
+    "duration": "最速32分〜45分",
+    "feature": "圧倒的スピード！博多〜熊本をわずか30分強で結ぶ快適新幹線。",
+    "recommendFor": "時短重視・日帰り弾丸旅行・ビジネス"
+  }
+];
+  const busDetails = {
+  "busUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2Flist%2F107_43_1.html",
+  "ctaText": "🚌 楽天トラベルで「福岡・博多 ⇄ 熊本」の高速バスを検索・予約する",
+  "points": [
+    "博多バスターミナル・西鉄天神高速バスターミナル・福岡空港から1日100便近く運行。",
+    "予約不要で乗れるスーパーノンストップ便も多数あり、ふらっと旅立てる気軽さ。",
+    "降車場所の「サクラマチ クマモト」は巨大商業施設直結で観光の拠点に最適！"
+  ]
+};
+  const itinerary = [
+  {
+    "day": "1日目（天神発ひのくに号〜熊本城復興天守閣〜名物あか牛）",
+    "steps": [
+      {
+        "time": "09:00",
+        "title": "西鉄天神高速バスターミナルから「ひのくに号」乗車",
+        "desc": "九州自動車道を南下。車内Wi-FiとUSB充電完備で快適移動。"
+      },
+      {
+        "time": "11:15",
+        "title": "熊本桜町バスターミナル到着＆「サクラマチクマモト」",
+        "desc": "バスターミナル直結の屋上日本庭園から熊本城の全景を鑑賞。"
+      },
+      {
+        "time": "12:00",
+        "title": "桜の馬場 城彩苑で名物「あか牛丼」＆からし蓮根",
+        "desc": "「いまきん食堂」系の柔らかく旨味の凝縮されたあか牛レアステーキ重。"
+      },
+      {
+        "time": "13:30",
+        "title": "特別公開中！日本三名城「熊本城」天守閣内部見学",
+        "desc": "震災から見事に復興を遂げた天守閣。最上階からのパノラマ展望と最新展示。"
+      },
+      {
+        "time": "16:30",
+        "title": "熊本市街・桜町周辺の温泉大浴場付きホテルチェックイン",
+        "desc": "熊本の天然地下水風呂や展望サウナでリフレッシュ。"
+      },
+      {
+        "time": "18:30",
+        "title": "下通・新市街で本場「極上馬刺し」＆熊本ラーメン",
+        "desc": "霜降り馬刺しや馬レバーと球磨焼酎、締めには焦がしニンニクが香る黒マー油ラーメン。"
+      }
+    ]
+  },
+  {
+    "day": "2日目（水前寺成趣園〜熊本現代美術館〜お買い物〜帰福）",
+    "steps": [
+      {
+        "time": "09:00",
+        "title": "レトロな熊本市電で「水前寺成趣園」へ",
+        "desc": "東海道五十三次を模した美しい回遊式庭園で、富士山に見立てた築山を鑑賞。"
+      },
+      {
+        "time": "11:30",
+        "title": "通町筋周辺のおしゃれカフェ巡り＆熊本現代美術館",
+        "desc": "アートスペースで寛ぎ、熊本県産デコポンを使ったスイーツ。"
+      },
+      {
+        "time": "14:00",
+        "title": "桜町バスターミナルでお土産ショッピング",
+        "desc": "「陣太鼓」「武者返し」「黒糖ドーナツ棒」を購入。"
+      },
+      {
+        "time": "15:30",
+        "title": "桜町BTからひのくに号乗車〜博多・天神へ",
+        "desc": "本数が多いので好きな時間の便に乗車。夕方17:30頃に福岡へ帰還。"
+      }
+    ]
+  }
+];
+
+  return (
+    <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      {/* ヒーローセクション */}
+      <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-sky-950 via-slate-900 to-indigo-950 text-white p-8 md:p-14 shadow-xl border border-white/10">
+        <div className="max-w-3xl space-y-4">
+          <div className="flex flex-wrap items-center gap-2">
+            <span className="text-[10px] md:text-xs font-black tracking-widest bg-cyan-400 text-slate-950 px-3.5 py-1 rounded-full uppercase inline-block">
+              九州内アクセス徹底比較
+            </span>
+            <span className="text-[10px] md:text-xs font-bold bg-white/10 text-white/90 px-3 py-1 rounded-full">
+              交通手段の徹底比較＆最適ルート
+            </span>
+          </div>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif tracking-tight leading-tight text-white">
+            【福岡・博多〜熊本】新幹線 vs 高速バス「ひのくに号」徹底比較！料金半額＆熊本城・あか牛1泊2日モデルコース
+          </h1>
+          <p className="text-xs md:text-sm text-cyan-100/90 leading-relaxed font-medium">
+            九州新幹線なら博多〜熊本最速32分・片道約5,230円（指定席）。一方、高速バス「ひのくに号」なら天神・博多から直行で片道約2,500円（往復割でさらにお得）！10〜15分間隔で頻発運行し、熊本市中心街（通町筋・桜町BT）へ直接アクセスできる抜群の利便性。
+          </p>
+        </div>
+      </div>
+
+      {/* 📊 交通手段・料金・所要時間の徹底比較テーブル */}
+      <section className="bg-white border border-slate-200 rounded-3xl p-6 md:p-10 shadow-sm space-y-6">
+        <div className="border-b border-slate-100 pb-4">
+          <div className="flex items-center gap-2 text-cyan-700 font-extrabold text-xs uppercase tracking-wider mb-1">
+            <span>⚡ COST & TIME COMPARISON</span>
+          </div>
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-slate-900">
+            交通手段の徹底比較（料金・所要時間・特徴）
+          </h2>
+          <p className="text-xs md:text-sm text-slate-600 mt-1">
+            それぞれの交通機関のメリット・デメリットを整理しました。旅の目的や予算に合わせて最適な移動手段を選びましょう。
+          </p>
+        </div>
+
+        {/* 比較テーブル */}
+        <div className="overflow-x-auto">
+          <table className="w-full text-left text-xs md:text-sm border-collapse">
+            <thead>
+              <tr className="bg-slate-50 border-b border-slate-200 text-slate-700">
+                <th className="py-3.5 px-4 font-black">移動手段</th>
+                <th className="py-3.5 px-4 font-black">片道・往復目安</th>
+                <th className="py-3.5 px-4 font-black">所要時間</th>
+                <th className="py-3.5 px-4 font-black">メリット・特徴</th>
+                <th className="py-3.5 px-4 font-black">こんな人におすすめ</th>
+              </tr>
+            </thead>
+            <tbody className="divide-y divide-slate-100">
+              {tableData.map((row: any, idx: number) => (
+                <tr key={idx} className={idx === 0 ? "bg-amber-50/50 hover:bg-amber-50" : "hover:bg-slate-50/60"}>
+                  <td className="py-4 px-4 font-black text-slate-900 whitespace-nowrap">
+                    {idx === 0 && <span className="mr-1 text-amber-600 font-black">★最安</span>}
+                    {row.mode}
+                  </td>
+                  <td className="py-4 px-4 font-bold text-amber-700 whitespace-nowrap">
+                    <div>{row.price}</div>
+                    <div className="text-[11px] text-slate-500 font-normal">{row.roundPrice}</div>
+                  </td>
+                  <td className="py-4 px-4 font-bold text-slate-800 whitespace-nowrap">
+                    {row.duration}
+                  </td>
+                  <td className="py-4 px-4 text-slate-600 text-xs leading-relaxed min-w-[200px]">
+                    {row.feature}
+                  </td>
+                  <td className="py-4 px-4 text-xs font-semibold text-sky-900 min-w-[180px]">
+                    {row.recommendFor}
+                  </td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+
+        {/* 高速バスのメリット・予約導線 */}
+        <div className="bg-gradient-to-br from-amber-50 via-orange-50 to-amber-100/60 border border-amber-200 rounded-2xl p-6 space-y-4">
+          <div className="flex items-center gap-2">
+            <span className="text-xl">🚌</span>
+            <h3 className="text-base font-black text-amber-950 font-journal-serif">
+              高速バスを選ぶ3つの大きなメリット
+            </h3>
+          </div>
+          <ul className="space-y-2 text-xs md:text-sm text-amber-950/90 font-medium list-disc list-inside">
+            {busDetails.points.map((pt: string, idx: number) => (
+              <li key={idx} className="leading-relaxed">{pt}</li>
+            ))}
+          </ul>
+          <div className="pt-2">
+            <a
+              href={busDetails.busUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center justify-center gap-2 w-full md:w-auto px-8 py-4 bg-gradient-to-r from-amber-600 via-orange-600 to-amber-700 text-white font-black text-sm rounded-xl shadow-lg hover:shadow-xl hover:brightness-110 transition duration-200"
+            >
+              <span>{busDetails.ctaText}</span>
+              <span>→</span>
+            </a>
+          </div>
+        </div>
+      </section>
+
+      {/* 🗺️ 1泊2日 満喫モデルコース */}
+      <section className="bg-white border border-slate-200 rounded-3xl p-6 md:p-10 shadow-sm space-y-8">
+        <div className="border-b border-slate-100 pb-4">
+          <div className="flex items-center gap-2 text-indigo-700 font-extrabold text-xs uppercase tracking-wider mb-1">
+            <span>🗺️ RECOMMENDED ITINERARY</span>
+          </div>
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-slate-900">
+            交通費を浮かせて贅沢に楽しむ！1泊2日おすすめモデルコース
+          </h2>
+          <p className="text-xs md:text-sm text-slate-600 mt-1">
+            移動スケジュールと見どころ、グルメスポットをスムーズに巡る時間配分プランです。
+          </p>
+        </div>
+
+        <div className="space-y-8">
+          {itinerary.map((dayPlan: any, dIdx: number) => (
+            <div key={dIdx} className="space-y-4">
+              <h3 className="text-base md:text-lg font-black text-slate-900 border-l-4 border-cyan-600 pl-3 py-0.5">
+                {dayPlan.day}
+              </h3>
+              <div className="relative pl-6 space-y-6 before:absolute before:left-2 before:top-3 before:bottom-3 before:w-0.5 before:bg-slate-200">
+                {dayPlan.steps.map((step: any, sIdx: number) => (
+                  <div key={sIdx} className="relative space-y-1">
+                    <div className="absolute -left-[27px] top-1 w-3 h-3 rounded-full bg-cyan-600 border-2 border-white shadow-sm" />
+                    <div className="flex flex-wrap items-baseline gap-2">
+                      <span className="text-xs font-black text-cyan-800 bg-cyan-50 px-2 py-0.5 rounded border border-cyan-200">
+                        {step.time}
+                      </span>
+                      <h4 className="text-sm font-bold text-slate-900">
+                        {step.title}
+                      </h4>
+                    </div>
+                    <p className="text-xs text-slate-600 leading-relaxed pt-0.5 pl-0.5">
+                      {step.desc}
+                    </p>
+                  </div>
+                ))}
+              </div>
+            </div>
+          ))}
+        </div>
+      </section>
+
+      {/* 🏨 厳選宿カードセクション */}
+      <section className="bg-white border border-slate-200 rounded-3xl p-6 md:p-10 shadow-sm space-y-8">
+        <div className="border-b border-slate-100 pb-4">
+          <div className="flex items-center gap-2 text-amber-700 font-extrabold text-xs uppercase tracking-wider mb-1">
+            <span>🏨 RECOMMENDED HOTELS & RYOKAN</span>
+          </div>
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-slate-900">
+            熊本城・桜町バスターミナル徒歩圏内！天然温泉大浴場付き人気宿
+          </h2>
+          <p className="text-xs md:text-sm text-slate-600 mt-1">
+            バス停や駅からのアクセスが抜群で、浮いた交通費でワンランク上の滞在が叶う人気宿泊施設です。
+          </p>
+        </div>
+
+        {hotels.length > 0 ? (
+          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
+            {hotels.map((hotel: any) => (
+              <article
+                key={hotel.hotelNo}
+                className="flex flex-col justify-between border border-slate-200 bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-md transition duration-200"
+              >
+                <div>
+                  <div className="aspect-video relative overflow-hidden bg-slate-100 border-b border-slate-100">
+                    {hotel.hotelImageUrl ? (
+                      <img
+                        src={hotel.hotelImageUrl}
+                        alt={hotel.hotelName}
+                        className="w-full h-full object-cover"
+                        loading="lazy"
+                      />
+                    ) : (
+                      <div className="w-full h-full flex items-center justify-center text-slate-400 text-xs font-bold">
+                        {hotel.hotelName}
+                      </div>
+                    )}
+                    {hotel.hotelMinCharge > 0 && (
+                      <span className="absolute bottom-2 right-2 text-[9px] font-black bg-slate-900/90 text-amber-300 px-2 py-0.5 rounded">
+                        ¥{Number(hotel.hotelMinCharge).toLocaleString()}〜
+                      </span>
+                    )}
+                  </div>
+
+                  <div className="p-4 space-y-2">
+                    {hotel.reviewAverage > 0 && (
+                      <div className="flex items-center justify-between text-[9px] font-bold text-amber-600">
+                        <span>⭐ {hotel.reviewAverage}点（{hotel.reviewCount}件）</span>
+                      </div>
+                    )}
+                    <h3 className="text-xs md:text-sm font-black font-journal-serif text-slate-900 line-clamp-2">
+                      {hotel.hotelName}
+                    </h3>
+                    {hotel.hotelSpecial && (
+                      <p className="text-[11px] text-slate-600 line-clamp-2 font-medium">
+                        {hotel.hotelSpecial}
+                      </p>
+                    )}
+                  </div>
+                </div>
+
+                <div className="p-4 pt-0">
+                  <a
+                    href={hotel.affiliateUrl}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
+                  >
+                    ✈️ 楽天トラベルで宿泊プラン・空室を見る
+                  </a>
+                </div>
+              </article>
+            ))}
+          </div>
+        ) : (
+          <div className="p-8 text-center text-slate-500 text-xs">
+            ホテル情報を読み込み中または該当ホテルを検索中です。
+          </div>
+        )}
+      </section>
+
+      {/* 47都道府県トップへのリンク */}
+      <div className="text-center pt-4">
+        <Link
+          href="/prefectures"
+          className="inline-flex items-center gap-2 text-xs font-bold text-slate-800 bg-white hover:bg-slate-50 border border-slate-300 px-8 py-3.5 rounded-2xl transition shadow-sm"
+        >
+          <span>🗾</span>
+          <span>全国47都道府県の観光＆宿泊ガイド一覧へ</span>
+          <span>→</span>
+        </Link>
+      </div>
+    </div>
+  );
+}

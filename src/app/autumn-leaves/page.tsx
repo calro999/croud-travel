@@ -29,6 +29,12 @@ export default function AutumnLeavesOnsenPage() {
     {
       key: "nikko_kinugawa",
       title: "1. 日光・鬼怒川温泉（栃木）",
+      prefSlug: "tochigi",
+      prefName: "栃木県",
+      citySlug: "nikko",
+      cityName: "日光市",
+      spotSlug: "nikko-toshogu",
+      spotName: "日光東照宮",
       timing: "例年の見頃：10月上旬〜11月中旬",
       desc: "いろは坂や中禅寺湖、華厳の滝から鬼怒川渓谷へと標高差に合わせて長く紅葉が楽しめる関東屈指の名所。渓谷沿いの露天風呂からは、赤や黄色に染まる断崖絶壁と清流のコントラストを堪能できます。",
       spots: "日光東照宮、いろは坂、中禅寺湖、竜頭の滝、鬼怒楯岩大吊橋",
@@ -38,6 +44,12 @@ export default function AutumnLeavesOnsenPage() {
     {
       key: "hakone_gora",
       title: "2. 箱根・強羅・芦ノ湖温泉（神奈川）",
+      prefSlug: "kanagawa",
+      prefName: "神奈川県",
+      citySlug: "hakone",
+      cityName: "箱根町",
+      spotSlug: "hakone-shrine-peace-torii",
+      spotName: "箱根神社 平和の鳥居",
       timing: "例年の見頃：10月下旬〜11月下旬",
       desc: "箱根登山鉄道の車窓から眺める紅葉のトンネルや、芦ノ湖に映る富士山と紅葉の絶景。強羅エリアには白濁湯や美肌の湯を引く客室露天風呂付き高級宿が点在し、秋の大人の贅沢ステイに最適です。",
       spots: "箱根美術館（苔庭の紅葉）、強羅公園、芦ノ湖遊覧船、大涌谷、仙石原すすき草原",
@@ -47,6 +59,12 @@ export default function AutumnLeavesOnsenPage() {
     {
       key: "kyoto_arashiyama",
       title: "3. 京都・嵐山・湯の花温泉（京都）",
+      prefSlug: "kyoto",
+      prefName: "京都府",
+      citySlug: "kyoto-city",
+      cityName: "京都市",
+      spotSlug: "fushimi-inari-taisha",
+      spotName: "伏見稲荷大社・嵐山",
       timing: "例年の見頃：11月中旬〜12月上旬",
       desc: "渡月橋の背後に広がる嵐山全山の錦秋グラデーションや、天龍寺・宝厳院の庭園ライトアップ。喧騒を離れた奥嵐山や亀岡・湯の花温泉に宿泊すれば、静寂の中で極上の秋の京都情緒に浸れます。",
       spots: "渡月橋、天龍寺曹源池庭園、嵐山竹林の小径、嵯峨野トロッコ列車、保津川下り",
@@ -56,6 +74,12 @@ export default function AutumnLeavesOnsenPage() {
     {
       key: "kurokawa_onsen",
       title: "4. 熊本・黒川温泉（熊本）",
+      prefSlug: "kumamoto",
+      prefName: "熊本県",
+      citySlug: "aso",
+      cityName: "阿蘇市・黒川温泉",
+      spotSlug: "aso-daikanbo",
+      spotName: "阿蘇大観峰・黒川温泉",
       timing: "例年の見頃：10月下旬〜11月中旬",
       desc: "阿蘇の山あいに佇む、日本屈指の風情を誇る温泉街。渓流沿いにモミジやカエデが生い茂り、「入湯手形」を使った露天風呂めぐりで湯けむりと紅葉の絶景を巡ることができます。",
       spots: "黒川温泉街（川端通り）、夫婦滝、阿蘇大観峰、瀬の本高原、鍋ヶ滝",
@@ -65,6 +89,10 @@ export default function AutumnLeavesOnsenPage() {
     {
       key: "nyuto_onsen",
       title: "5. 東北・乳頭温泉郷（秋田）",
+      prefSlug: "akita",
+      prefName: "秋田県",
+      citySlug: "akita-city",
+      cityName: "秋田・田沢湖",
       timing: "例年の見頃：10月上旬〜10月下旬",
       desc: "十和田八幡平国立公園のブナ原生林に囲まれた7つの秘湯。黄金色に染まるブナの木々と、乳白色の源泉かけ流し露天風呂が織りなす風景は、一生に一度は訪れたい日本の秋の原風景です。",
       spots: "乳頭温泉郷（鶴の湯・妙乃湯など）、田沢湖、角館武家屋敷（黒板塀と紅葉のコントラスト）",
@@ -202,6 +230,42 @@ export default function AutumnLeavesOnsenPage() {
                       </div>
                     </article>
                   ))}
+                </div>
+              </div>
+
+              {/* 🔍 次に知りたいこのエリアの観光・名物・スポット先回りリンク */}
+              <div className="pt-4 border-t border-emerald-950/10 flex flex-wrap items-center justify-between gap-3 bg-teal-50/50 p-4 rounded-2xl">
+                <div className="space-y-0.5">
+                  <span className="text-[10px] font-extrabold text-teal-900/60 uppercase tracking-wider block">NEXT DESTINATION GUIDE</span>
+                  <p className="text-xs font-bold text-teal-950">
+                    {guide.cityName || guide.title}の詳しい観光名所・名物グルメ・周辺スポット
+                  </p>
+                </div>
+                <div className="flex flex-wrap gap-2">
+                  {guide.spotSlug && (
+                    <Link
+                      href={`/spots/${guide.spotSlug}`}
+                      className="text-xs font-bold text-amber-950 bg-white hover:bg-amber-600 hover:text-white border border-amber-300 px-3.5 py-1.5 rounded-xl transition shadow-sm"
+                    >
+                      📍 {guide.spotName || "周辺スポット"}解説
+                    </Link>
+                  )}
+                  {guide.prefSlug && guide.citySlug && (
+                    <Link
+                      href={`/prefectures/${guide.prefSlug}/${guide.citySlug}`}
+                      className="text-xs font-bold text-teal-950 bg-white hover:bg-teal-800 hover:text-white border border-teal-800/20 px-3.5 py-1.5 rounded-xl transition shadow-sm"
+                    >
+                      🗺️ {guide.cityName} 観光＆名物料理
+                    </Link>
+                  )}
+                  {guide.prefSlug && (
+                    <Link
+                      href={`/prefectures/${guide.prefSlug}`}
+                      className="text-xs font-bold text-white bg-teal-800 hover:bg-teal-700 px-3.5 py-1.5 rounded-xl transition shadow-sm"
+                    >
+                      🗾 {guide.prefName}全体ガイド →
+                    </Link>
+                  )}
                 </div>
               </div>
             </section>
