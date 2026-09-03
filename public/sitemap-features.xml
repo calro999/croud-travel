@@ -679,6 +679,12 @@
     <priority>0.85</priority>
   </url>
   <url>
+    <loc>https://croud-travel.pages.dev/kamakura-vs-enoshima-day-trip/</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
     <loc>https://croud-travel.pages.dev/kanagawa-hakone-ashinoko-stay/</loc>
     <lastmod>2026-09-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -1562,6 +1568,12 @@
   </url>
   <url>
     <loc>https://croud-travel.pages.dev/yamanashi-yatsugatake-kiyosato-resort-stay/</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://croud-travel.pages.dev/yufuin-vs-beppu-which-stay/</loc>
     <lastmod>2026-09-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
