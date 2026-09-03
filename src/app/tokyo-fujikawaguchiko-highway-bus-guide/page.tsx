@@ -4,8 +4,8 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
-  title: "【東京・新宿〜富士急・河口湖】直行高速バスが超便利！電車との料金・時間比較＆富士絶景1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
-  description: "東京・新宿・渋谷から富士急ハイランド・河口湖へ行くなら直行高速バスが最強！JR特急富士回遊との料金・時間比較、乗り換えなし直行のメリット、河口湖畔の絶景富士山ビュー温泉旅館を徹底ガイド。",
+  title: "【新宿・東京から富士急・河口湖 直行バス】電車とどっちが安い？料金・時間比較＆絶景1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+  description: "東京・新宿から富士急ハイランド・河口湖へ行くなら直行高速バスが最強！JR特急富士回遊との料金比較（バスなら半額の約2,000円）。乗り換えなしで遊園地・河口湖駅直着、忍野八海や逆さ富士露天風呂旅館を満喫する1泊2日モデルコース。",
   keywords: ["tokyo-fujikawaguchiko-highway-bus-guide", "高速バス", "バスツアー", "新幹線 比較", "安く行く方法", "1泊2日 モデルコース", "宿泊予約", "楽天トラベル"],
 };
 
@@ -124,7 +124,7 @@ export default function HighwayBusArticlePage() {
             </span>
           </div>
           <h1 className="text-2xl md:text-4xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【東京・新宿〜富士急・河口湖】直行高速バスが超便利！電車との料金・時間比較＆富士絶景1泊2日モデルコース
+            【新宿・東京から富士急・河口湖 直行バス】電車とどっちが安い？料金・時間比較＆絶景1泊2日モデルコース
           </h1>
           <p className="text-xs md:text-sm text-cyan-100/90 leading-relaxed font-medium">
             新宿から富士急ハイランド・河口湖駅まで直行高速バスなら片道約2,000円〜2,200円・約1時間45分！JR特急「富士回遊」（片道約4,130円）の約半額。乗り換えなしで遊園地エントランスや河口湖駅前に直着する大人気ルート。

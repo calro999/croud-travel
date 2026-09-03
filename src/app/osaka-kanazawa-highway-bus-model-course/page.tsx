@@ -4,8 +4,8 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
-  title: "【大阪・京都〜金沢】高速バスで行く1泊2日モデルコース！新幹線・特急との料金比較＆コスパ旅 ｜ 日本全国・旅宿クラウド",
-  description: "大阪・京都から金沢へ高速バスで行く女子旅・ひとり旅1泊2日モデルコース！北陸新幹線・特急サンダーバード乗り継ぎとの料金・時間比較、昼行バス・夜行バスの上手な活用法、金沢駅チカおすすめホテルまで徹底網羅。",
+  title: "【大阪から金沢 高速バス 新幹線 どっち？】安く行く方法＆乗り換えなし1泊2日モデルコース【2026年最新】 ｜ 日本全国・旅宿クラウド",
+  description: "大阪・京都から金沢へ行くなら高速バスと新幹線・特急どっちがおすすめ？サンダーバード敦賀乗換（約9,410円）の手間解消！直行高速バス（約2,800円〜）の格安料金比較と、21世紀美術館・ひがし茶屋街を満喫する女子旅・ひとり旅1泊2日モデルコース。",
   keywords: ["osaka-kanazawa-highway-bus-model-course", "高速バス", "バスツアー", "新幹線 比較", "安く行く方法", "1泊2日 モデルコース", "宿泊予約", "楽天トラベル"],
 };
 
@@ -124,7 +124,7 @@ export default function HighwayBusArticlePage() {
             </span>
           </div>
           <h1 className="text-2xl md:text-4xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【大阪・京都〜金沢】高速バスで行く1泊2日モデルコース！新幹線・特急との料金比較＆コスパ旅
+            【大阪から金沢 高速バス 新幹線 どっち？】安く行く方法＆乗り換えなし1泊2日モデルコース【2026年最新】
           </h1>
           <p className="text-xs md:text-sm text-cyan-100/90 leading-relaxed font-medium">
             北陸新幹線敦賀延伸により特急サンダーバードは敦賀乗り換えが必要に（片道約9,400円）。一方、高速バスなら大阪・京都から直行で片道約2,800円〜！乗り換えの手間ゼロ＆圧倒的コスパで楽しむ金沢1泊2日週末トリップ。

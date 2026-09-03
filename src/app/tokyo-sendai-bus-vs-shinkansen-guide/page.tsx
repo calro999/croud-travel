@@ -4,8 +4,8 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
-  title: "【東京〜仙台】新幹線 vs 高速バスどっちがお得？料金・時間比較＆牛たん・松島1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
-  description: "東京から杜の都・仙台へ安く行くには？東北新幹線「はやぶさ・やまびこ」と高速バス（昼行・夜行）の料金・所要時間比較！浮いた1万円で極厚牛たんと松島遊覧船、秋保温泉を満喫する1泊2日モデルコースを徹底解説。",
+  title: "【東京から仙台 安く行く方法】新幹線 vs 高速バス徹底比較！牛たん・松島1泊2日モデルコース【2026最新】 ｜ 日本全国・旅宿クラウド",
+  description: "東京から杜の都・仙台へ安く行く方法を徹底比較！東北新幹線はやぶさ（約11,410円）と高速バス（約2,500円〜）の料金・時間差。往復1.5万円節約して本場極厚牛たん＆日本三景・松島遊覧船、秋保温泉を満喫する1泊2日モデルコース。",
   keywords: ["tokyo-sendai-bus-vs-shinkansen-guide", "高速バス", "バスツアー", "新幹線 比較", "安く行く方法", "1泊2日 モデルコース", "宿泊予約", "楽天トラベル"],
 };
 
@@ -129,7 +129,7 @@ export default function HighwayBusArticlePage() {
             </span>
           </div>
           <h1 className="text-2xl md:text-4xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【東京〜仙台】新幹線 vs 高速バスどっちがお得？料金・時間比較＆牛たん・松島1泊2日モデルコース
+            【東京から仙台 安く行く方法】新幹線 vs 高速バス徹底比較！牛たん・松島1泊2日モデルコース【2026最新】
           </h1>
           <p className="text-xs md:text-sm text-cyan-100/90 leading-relaxed font-medium">
             東北新幹線「はやぶさ」なら東京〜仙台最速1時間30分・片道約11,410円。高速バスなら片道約2,500円〜7,000円！往復で1万5,000円以上浮くため、本場の極厚牛たん定食を堪能し、松島湾の絶景や秋保・作並の名湯に泊まる大満足の週末旅。

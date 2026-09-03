@@ -4,8 +4,8 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
-  title: "【東京〜長野・軽井沢】新幹線 vs 高速バス徹底比較！料金半額以下のバス旅＆週末モデルコース ｜ 日本全国・旅宿クラウド",
-  description: "東京から軽井沢・長野へ安く行くには？北陸新幹線と高速バスの料金・時間比較！片道1,500円〜行ける軽井沢ショッピングや善光寺参拝・戸隠神社巡りの1泊2日モデルコース、駅前おすすめホテルを詳しく解説。",
+  title: "【東京から長野・軽井沢 安く行く方法】新幹線 vs 高速バス徹底比較！片道1,500円〜の1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+  description: "東京から軽井沢・長野へ安く行くには？北陸新幹線と高速バスの料金・所要時間を比較！新幹線の半額以下（軽井沢片道1,500円〜・長野片道2,500円〜）で行ける高速バスを活用し、善光寺お戒壇巡り・小布施スイーツ・アウトレットを満喫するモデルコース。",
   keywords: ["tokyo-nagano-karuizawa-bus-vs-shinkansen", "高速バス", "バスツアー", "新幹線 比較", "安く行く方法", "1泊2日 モデルコース", "宿泊予約", "楽天トラベル"],
 };
 
@@ -119,7 +119,7 @@ export default function HighwayBusArticlePage() {
             </span>
           </div>
           <h1 className="text-2xl md:text-4xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【東京〜長野・軽井沢】新幹線 vs 高速バス徹底比較！料金半額以下のバス旅＆週末モデルコース
+            【東京から長野・軽井沢 安く行く方法】新幹線 vs 高速バス徹底比較！片道1,500円〜の1泊2日モデルコース
           </h1>
           <p className="text-xs md:text-sm text-cyan-100/90 leading-relaxed font-medium">
             東京から長野・軽井沢へ。北陸新幹線なら軽井沢約60分（片道約6,000円）、長野約85分（片道約8,300円）。高速バスなら軽井沢片道約1,500円〜、長野片道約2,500円〜！浮いた交通費で軽井沢アウトレットの買い物や信州牛ディナーを満喫。

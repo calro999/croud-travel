@@ -4,8 +4,8 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
-  title: "【東京〜大阪】安く行く方法！新幹線 vs 夜行高速バスの料金・所要時間比較＆USJ・道頓堀1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
-  description: "東京から大阪へ安く行くには？東海道新幹線「のぞみ」と高速バス（昼行・夜行）の料金、所要時間、メリット・デメリットを徹底比較！早朝到着でUSJ開園待ち、浮いた2万円で難波・梅田のホテルをランクアップする1泊2日モデルコース。",
+  title: "【東京から大阪 安く行く方法】新幹線 vs 夜行バス徹底比較！差額2万円でUSJ・道頓堀1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+  description: "東京から大阪へ安く行く方法！東海道新幹線（約14,920円）と夜行高速バス（約2,500円〜）の料金・時間を徹底比較。往復2万円以上浮く夜行便で早朝USJ開園待ち、道頓堀たこ焼きはしご酒、なんば・梅田の人気ホテルに泊まる1泊2日モデルコース。",
   keywords: ["tokyo-osaka-bus-vs-shinkansen-guide", "高速バス", "バスツアー", "新幹線 比較", "安く行く方法", "1泊2日 モデルコース", "宿泊予約", "楽天トラベル"],
 };
 
@@ -124,7 +124,7 @@ export default function HighwayBusArticlePage() {
             </span>
           </div>
           <h1 className="text-2xl md:text-4xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【東京〜大阪】安く行く方法！新幹線 vs 夜行高速バスの料金・所要時間比較＆USJ・道頓堀1泊2日モデルコース
+            【東京から大阪 安く行く方法】新幹線 vs 夜行バス徹底比較！差額2万円でUSJ・道頓堀1泊2日モデルコース
           </h1>
           <p className="text-xs md:text-sm text-cyan-100/90 leading-relaxed font-medium">
             東海道新幹線なら東京〜新大阪約2時間30分・片道約14,920円（往復約29,840円）。高速バスなら片道約2,500円〜7,000円！往復で2万円以上浮くため、USJのワンデーパス購入や道頓堀でのたこ焼き・串カツ食べ歩き、難波・心斎橋のハイクラスホテルを満喫できます。

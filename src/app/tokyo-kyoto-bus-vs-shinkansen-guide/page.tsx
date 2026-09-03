@@ -4,8 +4,8 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
-  title: "【東京〜京都】安く行く方法！新幹線 vs 夜行高速バスの料金・時間比較＆古都1泊2日満喫モデルコース ｜ 日本全国・旅宿クラウド",
-  description: "東京から京都へ安く行くには？東海道新幹線「のぞみ」と高速バス（昼行・夜行）の料金・所要時間を徹底比較！早朝6時着の夜行バスで清水寺・嵐山の混雑回避、浮いた2万円で極上町家ホテルに泊まる1泊2日モデルコース。",
+  title: "【東京から京都 安く行く方法】新幹線 vs 夜行バス比較！早朝6時着で清水寺・嵐山1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+  description: "東京から京都へ安く行くには？新幹線のぞみ（約14,170円）と夜行高速バス（約3,000円〜）を比較！早朝6時台着で人混みゼロの清水寺・嵐山竹林を独占。浮いた2万円で極上和モダン宿に泊まる京都1泊2日満喫モデルコース。",
   keywords: ["tokyo-kyoto-bus-vs-shinkansen-guide", "高速バス", "バスツアー", "新幹線 比較", "安く行く方法", "1泊2日 モデルコース", "宿泊予約", "楽天トラベル"],
 };
 
@@ -129,7 +129,7 @@ export default function HighwayBusArticlePage() {
             </span>
           </div>
           <h1 className="text-2xl md:text-4xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【東京〜京都】安く行く方法！新幹線 vs 夜行高速バスの料金・時間比較＆古都1泊2日満喫モデルコース
+            【東京から京都 安く行く方法】新幹線 vs 夜行バス比較！早朝6時着で清水寺・嵐山1泊2日モデルコース
           </h1>
           <p className="text-xs md:text-sm text-cyan-100/90 leading-relaxed font-medium">
             東京〜京都の東海道新幹線は指定席片道約14,170円（往復約28,340円）。一方、高速バスなら片道約3,000円〜！往復で2万円以上節約でき、夜行バスなら早朝の静寂な清水寺や嵐山・伏見稲荷を人混みゼロで独占できる究極の京都旅。

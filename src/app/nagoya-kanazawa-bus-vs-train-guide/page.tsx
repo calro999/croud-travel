@@ -4,8 +4,8 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
-  title: "【名古屋〜金沢】安く行く方法！特急しらさぎ vs 高速バス徹底比較＆1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
-  description: "名古屋から金沢へ安く行くには？特急しらさぎ（敦賀乗り換え）と直行高速バス「北陸ドリーム名古屋号・名鉄バス」の料金・所要時間比較！乗り換えなしで片道3,000円〜行けるバス旅と金沢駅前おすすめ温泉宿。",
+  title: "【名古屋から金沢 安く行く方法】特急しらさぎ vs 直行高速バス徹底比較！乗り換えなし1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+  description: "名古屋から金沢へ安く行くには？特急しらさぎ敦賀乗換（約8,010円）と直行高速バス（約3,000円〜）の料金・時間比較！乗り換えゼロ＆半額以下で行ける名鉄直行バスを活用し、ひがし茶屋街・近江町市場・金沢城を満喫する1泊2日モデルコース。",
   keywords: ["nagoya-kanazawa-bus-vs-train-guide", "高速バス", "バスツアー", "新幹線 比較", "安く行く方法", "1泊2日 モデルコース", "宿泊予約", "楽天トラベル"],
 };
 
@@ -124,7 +124,7 @@ export default function HighwayBusArticlePage() {
             </span>
           </div>
           <h1 className="text-2xl md:text-4xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【名古屋〜金沢】安く行く方法！特急しらさぎ vs 高速バス徹底比較＆1泊2日モデルコース
+            【名古屋から金沢 安く行く方法】特急しらさぎ vs 直行高速バス徹底比較！乗り換えなし1泊2日モデルコース
           </h1>
           <p className="text-xs md:text-sm text-cyan-100/90 leading-relaxed font-medium">
             北陸新幹線敦賀延伸により、名古屋〜金沢の「特急しらさぎ」は敦賀駅での新幹線乗り換えが必要になり片道約8,000円。一方、直行高速バスなら名神・北陸道経由で乗り換えゼロ・片道約3,000円〜！圧倒的な手軽さとコスパで楽しむ金沢旅。
