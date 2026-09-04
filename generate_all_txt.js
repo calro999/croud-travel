@@ -1,240 +1,144 @@
 const fs = require('fs');
 const path = require('path');
-const { PREFECTURES_DATA } = require('./src/data/prefecturesData.js');
+const { JSDOM } = require('jsdom');
 
-// citiesData.ts からパース
-let citiesData = [];
-const citiesDataPath = path.join(__dirname, 'src', 'data', 'citiesData.ts');
-if (fs.existsSync(citiesDataPath)) {
-  const code = fs.readFileSync(citiesDataPath, 'utf8');
-  const match = code.match(/export const CITIES_DATA: CityInfo\[\] = (\[[\s\S]*?\]);/);
-  if (match) {
-    try {
-      // JSON形式に変換して評価
-      const jsonStr = match[1]
-        .replace(/\/\/.*$/gm, '')
-        .replace(/,\s*\]/g, ']')
-        .replace(/,\s*\}/g, '}');
-      citiesData = eval(jsonStr);
-    } catch (e) {
-      console.warn('Fallback regex parse for citiesData');
-      const cityMatches = code.matchAll(/prefSlug:\s*["']([^"']+)["'][\s\S]*?citySlug:\s*["']([^"']+)["'][\s\S]*?cityName:\s*["']([^"']+)["']/g);
-      for (const m of cityMatches) {
-        citiesData.push({ prefSlug: m[1], citySlug: m[2], cityName: m[3] });
-      }
+const OUT_DIR = path.join(__dirname, 'out');
+const POSTS_DIR = path.join(__dirname, 'src', 'data', 'posts');
+
+function cleanText(t) {
+  if (!t) return '';
+  return t.replace(/[\r\n\t]+/g, ' ').replace(/\s+/g, ' ').trim();
+}
+
+function cleanTitle(t) {
+  if (!t) return '';
+  let cleaned = t;
+  // サイト名の共通サフィックスを除去
+  cleaned = cleaned.replace(/ \| 日本全国・旅宿クラウド｜楽天トラベルでめぐる厳選宿・観光マガジン.*$/, '');
+  cleaned = cleaned.replace(/ ｜ 日本全国・旅宿クラウド.*$/, '');
+  cleaned = cleaned.replace(/ \| 日本全国・旅宿クラウド.*$/, '');
+  cleaned = cleaned.replace(/ \| 旅宿クラウド.*$/, '');
+  return cleanText(cleaned);
+}
+
+function extractMetaFromHtml(filePath) {
+  const content = fs.readFileSync(filePath, 'utf8');
+  // 高速正規表現抽出
+  const titleMatch = content.match(/<title[^>]*>([\s\S]*?)<\/title>/i);
+  let title = titleMatch ? cleanTitle(titleMatch[1]) : '';
+
+  const h1Match = content.match(/<h1[^>]*>([\s\S]*?)<\/h1>/i);
+  let h1 = h1Match ? cleanText(h1Match[1].replace(/<[^>]+>/g, '')) : '';
+
+  const descMatch = content.match(/<meta\s+name=["']description["']\s+content=["']([\s\S]*?)["']/i) ||
+                    content.match(/<meta\s+content=["']([\s\S]*?)["']\s+name=["']description["']/i);
+  let desc = descMatch ? cleanText(descMatch[1]) : '';
+
+  const kwMatch = content.match(/<meta\s+name=["']keywords["']\s+content=["']([\s\S]*?)["']/i) ||
+                  content.match(/<meta\s+content=["']([\s\S]*?)["']\s+name=["']keywords["']/i);
+  let keywords = kwMatch ? kwMatch[1].split(',').map(s => s.trim()).filter(Boolean) : [];
+
+  return { title, h1, desc, keywords };
+}
+
+function scanOutDir(dir, base = '') {
+  let results = [];
+  if (!fs.existsSync(dir)) return results;
+
+  const entries = fs.readdirSync(dir, { withFileTypes: true });
+  for (const entry of entries) {
+    const fullPath = path.join(dir, entry.name);
+    const urlPath = `${base}/${entry.name}`;
+
+    if (entry.isDirectory()) {
+      results = results.concat(scanOutDir(fullPath, urlPath));
+    } else if (entry.name === 'index.html' || (entry.name.endsWith('.html') && entry.name !== '404.html')) {
+      const cleanUrl = urlPath.replace(/\/index\.html$/, '').replace(/\.html$/, '') || '/';
+      results.push({
+        filePath: fullPath,
+        url: cleanUrl
+      });
     }
   }
+  return results;
 }
 
-// 英語スラッグから日本語正式名称（漢字）へのマッピング辞書
-const slugToPrefName = {};
-const slugToMajorCity = {
-  'aichi': '名古屋',
-  'miyagi': '仙台',
-  'ishikawa': '金沢',
-  'hokkaido': '札幌',
-  'fukuoka': '博多',
-  'hiroshima': '広島',
-  'kyoto': '京都',
-  'osaka': '大阪',
-  'hyogo': '神戸',
-  'kanagawa': '横浜'
-};
+function main() {
+  console.log('=== all.txt 実HTML/実記事タイトル完全同期生成開始 ===');
 
-PREFECTURES_DATA.forEach(p => {
-  slugToPrefName[p.slug] = p.name;
-});
-
-const slugToCityName = {};
-if (Array.isArray(citiesData)) {
-  citiesData.forEach(c => {
-    slugToCityName[`${c.prefSlug}/${c.citySlug}`] = c.cityName;
-    slugToCityName[c.citySlug] = c.cityName;
-  });
-}
-
-function getPrefJapanese(slug) {
-  return slugToPrefName[slug] || slug;
-}
-
-function getPrefWithCity(slug) {
-  const pref = slugToPrefName[slug];
-  if (!pref) return slug;
-  if (slugToMajorCity[slug]) {
-    return `${pref}（${slugToMajorCity[slug]}）`;
-  }
-  return pref;
-}
-
-function getCityJapanese(prefSlug, citySlug) {
-  return slugToCityName[`${prefSlug}/${citySlug}`] || slugToCityName[citySlug] || citySlug;
-}
-
-function generateAllTxt() {
-  console.log('=== all.txt 完全生成開始 ===');
+  const pages = scanOutDir(OUT_DIR);
+  console.log(`out/ 内の公開HTML総数: ${pages.length}`);
 
   let entries = [];
 
-  // 1. 静的ルート（src/app/*/page.tsx）
-  const appDir = path.join(__dirname, 'src', 'app');
-  const dirs = fs.readdirSync(appDir, { withFileTypes: true })
-    .filter(d => d.isDirectory() && !d.name.startsWith('[') && !d.name.startsWith('components'))
-    .map(d => d.name);
+  for (const p of pages) {
+    const meta = extractMetaFromHtml(p.filePath);
+    let type = '特集・特化ガイド記事（静的ページ）';
+    let title = meta.title;
+    let queries = meta.keywords;
 
-  for (const slug of dirs) {
-    const pagePath = path.join(appDir, slug, 'page.tsx');
-    if (!fs.existsSync(pagePath)) continue;
-
-    const content = fs.readFileSync(pagePath, 'utf8');
-
-    // title 抽出
-    let title = '';
-    const titleMatch = content.match(/title:\s*["`‘](.+?)["`’]/);
-    if (titleMatch) {
-      title = titleMatch[1].replace(/ ｜ 日本全国・旅宿クラウド| \| 日本全国・旅宿クラウド/, '').trim();
-    } else {
-      const h1Match = content.match(/<h1[^>]*>([\s\S]*?)<\/h1>/);
-      if (h1Match) {
-        title = h1Match[1].replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim();
+    // 個別宿ページ (/posts/[id])
+    if (p.url.startsWith('/posts/')) {
+      type = '個別ホテル・温泉宿詳細ガイド';
+      const id = p.url.replace('/posts/', '');
+      const jsonPath = path.join(POSTS_DIR, `${id}.json`);
+      if (fs.existsSync(jsonPath)) {
+        try {
+          const post = JSON.parse(fs.readFileSync(jsonPath, 'utf8'));
+          // 記事タイトルは post.title（例: 【2026最新】大江戸温泉物語 下呂別館の温泉・客室口コミ＆宿泊予約｜岐阜）を採用
+          title = post.title || meta.title;
+          
+          let qList = [];
+          if (post.hotel_name) qList.push(post.hotel_name);
+          if (post.area && post.hotel_name) qList.push(`${post.area} ${post.hotel_name}`);
+          if (post.prefecture && post.categories && post.categories[0]) {
+            qList.push(`${post.prefecture} ${post.categories[0]}`);
+          }
+          if (post.nearby_tourist_spots && post.nearby_tourist_spots[0]) {
+            qList.push(`${post.nearby_tourist_spots[0]} 宿泊 ホテル`);
+          }
+          if (qList.length > 0) queries = qList;
+        } catch (e) {}
       }
+    } else if (p.url.startsWith('/prefectures')) {
+      type = '都道府県・市区町村・地域特化ハブ';
+      // title は実際の HTML <title> または <h1> をそのまま採用（例: 【2026年最新】愛知県のおすすめ絶景＆レトロカフェ・スイーツ比較ランキング）
+      title = meta.title || meta.h1;
+    } else if (p.url.startsWith('/spots')) {
+      type = '観光スポット詳細ガイド';
+      title = meta.title || meta.h1;
+    } else if (p.url === '/') {
+      type = 'トップページ';
+      title = meta.title;
     }
 
-    // keywords または狙えるクエリの抽出
-    let queries = [];
-    const kwMatch = content.match(/keywords:\s*\[([\s\S]*?)\]/);
-    if (kwMatch) {
-      queries = kwMatch[1]
-        .split(',')
-        .map(s => s.replace(/["`’\n\r]/g, '').trim())
-        .filter(s => s && s !== slug && !s.includes('http') && s !== 'おすすめ' && s !== '楽天トラベル');
+    // 狙えるクエリが空の場合は、タイトルから単語抽出
+    if (!queries || queries.length === 0) {
+      const cleanWords = (title || '').replace(/【|】|！|？|｜|\||・|＆|\/|,/g, ' ');
+      queries = cleanWords.split(/\s+/).filter(w => w.length >= 2 && !['最新', '2026', 'おすすめ', '比較', 'ランキング', 'ガイド', '旅宿クラウド'].includes(w)).slice(0, 5);
     }
 
-    if (queries.length === 0) {
-      const cleanTitle = title.replace(/【|】|！|？|｜|\|/g, ' ');
-      queries = cleanTitle.split(/\s+/).filter(w => w.length >= 2).slice(0, 5);
-    }
+    // クエリのフィルタリング（ノイズ除外）
+    const safeQueries = queries.filter(q => q && !q.includes('http') && q.length >= 2).slice(0, 6);
 
     entries.push({
-      type: '特集・特化ガイド記事（静的ページ）',
-      url: `/${slug}`,
-      title: title || slug,
-      queries: queries.slice(0, 6).join(' / ')
+      type,
+      url: p.url,
+      title: title || p.url,
+      queries: safeQueries.join(' / ')
     });
   }
 
-  // 2. 都道府県・市区町村・カフェ・お土産・地酒ページ（out/prefectures/ 内の生成HTML）
-  function scanPrefectures(dir, base = '/prefectures') {
-    if (!fs.existsSync(dir)) return;
-    const items = fs.readdirSync(dir, { withFileTypes: true });
-    for (const item of items) {
-      const full = path.join(dir, item.name);
-      const urlPath = `${base}/${item.name}`;
-      if (item.isDirectory()) {
-        scanPrefectures(full, urlPath);
-      } else if (item.name === 'index.html' || (item.name.endsWith('.html') && item.name !== '404.html')) {
-        const cleanUrl = urlPath.replace(/\/index\.html$/, '').replace(/\.html$/, '');
-        const parts = cleanUrl.split('/').filter(Boolean); // ['prefectures', 'aichi', 'cafes'] など
-        let pageTitle = '';
-        let targetQueries = '';
+  // URL順にソート（一貫性のため）
+  entries.sort((a, b) => a.url.localeCompare(b.url));
 
-        if (parts.length === 2) {
-          const prefJp = getPrefJapanese(parts[1]);
-          const prefWithMajor = getPrefWithCity(parts[1]);
-          pageTitle = `【${prefJp}】観光・宿泊・温泉・グルメ完全総合ガイド`;
-          targetQueries = `${prefJp} 観光 / ${prefWithMajor} ホテル 宿泊 / ${prefJp} 温泉 旅館`;
-        } else if (parts.length === 3) {
-          const prefJp = getPrefJapanese(parts[1]);
-          const prefWithMajor = getPrefWithCity(parts[1]);
-          if (parts[2] === 'cafes') {
-            pageTitle = `【${prefWithMajor}のおしゃれカフェ特集】絶景カフェ・モーニング・スイーツ`;
-            targetQueries = `${prefJp} カフェ / ${prefWithMajor} カフェ / ${prefJp} おしゃれ カフェ / ${prefJp} スイーツ`;
-          } else if (parts[2] === 'souvenirs') {
-            pageTitle = `【${prefJp}の定番＆限定お土産】おすすめ銘菓・特産品ランキング`;
-            targetQueries = `${prefJp} お土産 / ${prefJp} 銘菓 / ${prefJp} 特産品 ギフト`;
-          } else if (parts[2] === 'sakes') {
-            pageTitle = `【${prefJp}の銘酒・地酒完全ガイド】酒蔵巡り・ご当地日本酒`;
-            targetQueries = `${prefJp} 地酒 / ${prefJp} 日本酒 銘柄 / ${prefJp} 酒蔵`;
-          } else {
-            const cityJp = getCityJapanese(parts[1], parts[2]);
-            pageTitle = `【${prefJp}・${cityJp}】観光名所・おすすめホテル・ご当地グルメ`;
-            targetQueries = `${cityJp} 観光 / ${cityJp} ホテル / ${cityJp} グルメ`;
-          }
-        } else {
-          pageTitle = `【都道府県別ガイド】${cleanUrl}`;
-          targetQueries = `${parts[parts.length - 1]} 旅行 観光`;
-        }
-
-        entries.push({
-          type: '都道府県・市区町村・地域特化ハブ',
-          url: cleanUrl,
-          title: pageTitle,
-          queries: targetQueries
-        });
-      }
-    }
-  }
-  scanPrefectures(path.join(__dirname, 'out', 'prefectures'));
-
-  // 3. スポット詳細ページ（out/spots/ 内の生成HTML）
-  function scanSpots(dir, base = '/spots') {
-    if (!fs.existsSync(dir)) return;
-    const items = fs.readdirSync(dir, { withFileTypes: true });
-    for (const item of items) {
-      const full = path.join(dir, item.name);
-      const urlPath = `${base}/${item.name}`;
-      if (item.isDirectory()) {
-        scanSpots(full, urlPath);
-      } else if (item.name === 'index.html' || (item.name.endsWith('.html') && item.name !== '404.html')) {
-        const cleanUrl = urlPath.replace(/\/index\.html$/, '').replace(/\.html$/, '');
-        const spotId = cleanUrl.replace('/spots/', '');
-        entries.push({
-          type: '観光スポット詳細ガイド',
-          url: cleanUrl,
-          title: `【観光スポット】${spotId} 周辺の宿・アクセス・見どころ`,
-          queries: `${spotId} 観光 / ${spotId} 周辺 ホテル / ${spotId} 見どころ アクセス`
-        });
-      }
-    }
-  }
-  scanSpots(path.join(__dirname, 'out', 'spots'));
-
-  // 4. 個別宿泊施設・ホテル詳細記事（src/data/posts/*.json）
-  const postsDir = path.join(__dirname, 'src', 'data', 'posts');
-  if (fs.existsSync(postsDir)) {
-    const postFiles = fs.readdirSync(postsDir).filter(f => f.endsWith('.json'));
-    for (const file of postFiles) {
-      try {
-        const post = JSON.parse(fs.readFileSync(path.join(postsDir, file), 'utf8'));
-        const id = file.replace('.json', '');
-        const title = post.title || post.hotel_name || id;
-        
-        let queries = [];
-        if (post.hotel_name) queries.push(post.hotel_name);
-        if (post.area && post.hotel_name) queries.push(`${post.area} ${post.hotel_name}`);
-        if (post.prefecture && post.categories && post.categories[0]) {
-          queries.push(`${post.prefecture} ${post.categories[0]}`);
-        }
-        if (post.nearby_tourist_spots && post.nearby_tourist_spots[0]) {
-          queries.push(`${post.nearby_tourist_spots[0]} 宿泊 ホテル`);
-        }
-
-        entries.push({
-          type: '個別ホテル・温泉宿詳細ガイド',
-          url: `/posts/${id}`,
-          title: title,
-          queries: queries.join(' / ')
-        });
-      } catch (e) {}
-    }
-  }
-
-  console.log(`全データ収集完了: 合計 ${entries.length} ページ`);
+  console.log(`全エントリー数: ${entries.length}`);
 
   // all.txt 出力
   let txt = `================================================================================\n`;
-  txt += `【日本全国・旅宿クラウド（croud-travel）】全公開ページ・記事タイトル＆想定SEOクエリ一覧\n`;
+  txt += `【日本全国・旅宿クラウド（croud-travel）】全公開ページ・実記事タイトル＆想定SEOクエリ一覧\n`;
   txt += `生成日時: ${new Date().toISOString()}\n`;
-  txt += `総公開ページ数: ${entries.length} ページ（Cloudflare Pages 実装全URL網羅）\n`;
+  txt += `総公開ページ数: ${entries.length} ページ（Cloudflare Pages 実装全URL完全同期）\n`;
   txt += `================================================================================\n\n`;
 
   txt += `【ページ構成の内訳】\n`;
@@ -254,7 +158,7 @@ function generateAllTxt() {
   });
 
   fs.writeFileSync(path.join(__dirname, 'all.txt'), txt, 'utf8');
-  console.log('all.txt 完全版出力完了！');
+  console.log('all.txt 実HTML/実記事タイトル完全同期版 出力完了！');
 }
 
-generateAllTxt();
+main();

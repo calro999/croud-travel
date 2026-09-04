@@ -258,7 +258,8 @@ Sitemap: ${BASE_URL}/sitemap-posts.xml
     llmsFullTxt += `- エリア: ${post.area}\n`;
     if (post.price) llmsFullTxt += `- 参考価格: ¥${post.price}〜\n`;
     if (post.rating) llmsFullTxt += `- 評価: ⭐ ${post.rating}\n`;
-    llmsFullTxt += `\n### ルポ・解説内容\n${(post.review || '').replace(/<[^>]*>/g, '')}\n\n---\n\n`;
+    const cleanReview = (post.review || '').replace(/<[^>]*>/g, '').replace(/\s+/g, ' ').trim().slice(0, 1200);
+    llmsFullTxt += `\n### ルポ・解説概要\n${cleanReview}\n\n---\n\n`;
   });
 
   fs.writeFileSync(path.join(PUBLIC_DIR, 'llms-full.txt'), llmsFullTxt, 'utf8');
