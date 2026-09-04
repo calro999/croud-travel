@@ -108,7 +108,7 @@ export default function SilverWeekGlampingTokaiShizuokaAichiPage() {
             海鮮浜焼きBBQ＆秋の味覚体験ステイ
           </h1>
           <p className="text-orange-100/90 text-base sm:text-lg max-w-3xl leading-relaxed mb-8">
-            名古屋・静岡市街から好アクセスの東海リゾート。相模湾を望む伊豆高原のラグジュアリードームから、手ぶらBBQと天然温泉が揃う極上アウトドアヴィラまで徹底取材。
+            名古屋・静岡市街から好アクセスの東海リゾート。相模湾を望む伊豆高原のラグジュアリードームから、手ぶらBBQと天然温泉が揃う極上アウトドアヴィラまで厳選してご紹介。
             伊豆の金目鯛やアワビの浜焼きグリル、みかん狩り農園や大室山散策と組み合わせた、秋連休に最適な滞在プランを提案します。
           </p>
 

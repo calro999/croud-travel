@@ -270,7 +270,7 @@ export default function KyotoRainyDayTempleCafeGuidePage() {
 
                     <div className="p-5 pt-0 border-t border-rose-100 mt-2 flex items-center justify-between">
                       <div>
-                        <span className="text-[10px] text-stone-500 block">参考最安（1名〜）</span>
+                        <span className="text-[10px] text-stone-500 block">参考最安（目安）</span>
                         <span className="text-base font-black text-rose-600">
                           {minCharge ? `¥${minCharge}〜` : "プラン確認"}
                         </span>

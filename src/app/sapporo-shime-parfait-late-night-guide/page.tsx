@@ -444,7 +444,7 @@ export default function SapporoShimeParfaitLateNightGuidePage() {
 
                     <div className="p-5 pt-0 border-t border-slate-800/80 mt-2 flex items-center justify-between">
                       <div>
-                        <span className="text-[10px] text-slate-400 block">参考最安料金（1名〜）</span>
+                        <span className="text-[10px] text-slate-400 block">参考最安料金（目安）</span>
                         <span className="text-base sm:text-lg font-black text-teal-400">
                           {minCharge ? `¥${minCharge}〜` : "プラン確認"}
                         </span>
