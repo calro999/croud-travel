@@ -1,5 +1,74 @@
 const fs = require('fs');
 const path = require('path');
+const { PREFECTURES_DATA } = require('./src/data/prefecturesData.js');
+
+// citiesData.ts からパース
+let citiesData = [];
+const citiesDataPath = path.join(__dirname, 'src', 'data', 'citiesData.ts');
+if (fs.existsSync(citiesDataPath)) {
+  const code = fs.readFileSync(citiesDataPath, 'utf8');
+  const match = code.match(/export const CITIES_DATA: CityInfo\[\] = (\[[\s\S]*?\]);/);
+  if (match) {
+    try {
+      // JSON形式に変換して評価
+      const jsonStr = match[1]
+        .replace(/\/\/.*$/gm, '')
+        .replace(/,\s*\]/g, ']')
+        .replace(/,\s*\}/g, '}');
+      citiesData = eval(jsonStr);
+    } catch (e) {
+      console.warn('Fallback regex parse for citiesData');
+      const cityMatches = code.matchAll(/prefSlug:\s*["']([^"']+)["'][\s\S]*?citySlug:\s*["']([^"']+)["'][\s\S]*?cityName:\s*["']([^"']+)["']/g);
+      for (const m of cityMatches) {
+        citiesData.push({ prefSlug: m[1], citySlug: m[2], cityName: m[3] });
+      }
+    }
+  }
+}
+
+// 英語スラッグから日本語正式名称（漢字）へのマッピング辞書
+const slugToPrefName = {};
+const slugToMajorCity = {
+  'aichi': '名古屋',
+  'miyagi': '仙台',
+  'ishikawa': '金沢',
+  'hokkaido': '札幌',
+  'fukuoka': '博多',
+  'hiroshima': '広島',
+  'kyoto': '京都',
+  'osaka': '大阪',
+  'hyogo': '神戸',
+  'kanagawa': '横浜'
+};
+
+PREFECTURES_DATA.forEach(p => {
+  slugToPrefName[p.slug] = p.name;
+});
+
+const slugToCityName = {};
+if (Array.isArray(citiesData)) {
+  citiesData.forEach(c => {
+    slugToCityName[`${c.prefSlug}/${c.citySlug}`] = c.cityName;
+    slugToCityName[c.citySlug] = c.cityName;
+  });
+}
+
+function getPrefJapanese(slug) {
+  return slugToPrefName[slug] || slug;
+}
+
+function getPrefWithCity(slug) {
+  const pref = slugToPrefName[slug];
+  if (!pref) return slug;
+  if (slugToMajorCity[slug]) {
+    return `${pref}（${slugToMajorCity[slug]}）`;
+  }
+  return pref;
+}
+
+function getCityJapanese(prefSlug, citySlug) {
+  return slugToCityName[`${prefSlug}/${citySlug}`] || slugToCityName[citySlug] || citySlug;
+}
 
 function generateAllTxt() {
   console.log('=== all.txt 完全生成開始 ===');
@@ -64,26 +133,31 @@ function generateAllTxt() {
         scanPrefectures(full, urlPath);
       } else if (item.name === 'index.html' || (item.name.endsWith('.html') && item.name !== '404.html')) {
         const cleanUrl = urlPath.replace(/\/index\.html$/, '').replace(/\.html$/, '');
-        const parts = cleanUrl.split('/').filter(Boolean); // ['prefectures', 'hokkaido', 'cafes'] など
+        const parts = cleanUrl.split('/').filter(Boolean); // ['prefectures', 'aichi', 'cafes'] など
         let pageTitle = '';
         let targetQueries = '';
 
         if (parts.length === 2) {
-          pageTitle = `【${parts[1]}】観光・宿泊・温泉・グルメ完全総合ガイド`;
-          targetQueries = `${parts[1]} 観光 / ${parts[1]} ホテル 宿泊 / ${parts[1]} 温泉 旅館`;
+          const prefJp = getPrefJapanese(parts[1]);
+          const prefWithMajor = getPrefWithCity(parts[1]);
+          pageTitle = `【${prefJp}】観光・宿泊・温泉・グルメ完全総合ガイド`;
+          targetQueries = `${prefJp} 観光 / ${prefWithMajor} ホテル 宿泊 / ${prefJp} 温泉 旅館`;
         } else if (parts.length === 3) {
+          const prefJp = getPrefJapanese(parts[1]);
+          const prefWithMajor = getPrefWithCity(parts[1]);
           if (parts[2] === 'cafes') {
-            pageTitle = `【${parts[1]}のおしゃれカフェ特集】絶景カフェ・モーニング・スイーツ`;
-            targetQueries = `${parts[1]} カフェ / ${parts[1]} おしゃれ カフェ / ${parts[1]} スイーツ`;
+            pageTitle = `【${prefWithMajor}のおしゃれカフェ特集】絶景カフェ・モーニング・スイーツ`;
+            targetQueries = `${prefJp} カフェ / ${prefWithMajor} カフェ / ${prefJp} おしゃれ カフェ / ${prefJp} スイーツ`;
           } else if (parts[2] === 'souvenirs') {
-            pageTitle = `【${parts[1]}の定番＆限定お土産】おすすめ銘菓・特産品ランキング`;
-            targetQueries = `${parts[1]} お土産 / ${parts[1]} 銘菓 / ${parts[1]} 特産品 ギフト`;
+            pageTitle = `【${prefJp}の定番＆限定お土産】おすすめ銘菓・特産品ランキング`;
+            targetQueries = `${prefJp} お土産 / ${prefJp} 銘菓 / ${prefJp} 特産品 ギフト`;
           } else if (parts[2] === 'sakes') {
-            pageTitle = `【${parts[1]}の銘酒・地酒完全ガイド】酒蔵巡り・ご当地日本酒`;
-            targetQueries = `${parts[1]} 地酒 / ${parts[1]} 日本酒 銘柄 / ${parts[1]} 酒蔵`;
+            pageTitle = `【${prefJp}の銘酒・地酒完全ガイド】酒蔵巡り・ご当地日本酒`;
+            targetQueries = `${prefJp} 地酒 / ${prefJp} 日本酒 銘柄 / ${prefJp} 酒蔵`;
           } else {
-            pageTitle = `【${parts[1]}・${parts[2]}】観光名所・おすすめホテル・ご当地グルメ`;
-            targetQueries = `${parts[2]} 観光 / ${parts[2]} ホテル / ${parts[2]} グルメ`;
+            const cityJp = getCityJapanese(parts[1], parts[2]);
+            pageTitle = `【${prefJp}・${cityJp}】観光名所・おすすめホテル・ご当地グルメ`;
+            targetQueries = `${cityJp} 観光 / ${cityJp} ホテル / ${cityJp} グルメ`;
           }
         } else {
           pageTitle = `【都道府県別ガイド】${cleanUrl}`;
@@ -169,7 +243,7 @@ function generateAllTxt() {
   for (const [k, v] of Object.entries(typeCounts)) {
     txt += `・${k}: ${v} ページ\n`;
   }
-  txt += `\n` + `='.repeat(80)\n\n`;
+  txt += `\n================================================================================\n\n`;
 
   entries.forEach((e, idx) => {
     txt += `[#${idx + 1}] 【${e.type}】\n`;
