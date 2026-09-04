@@ -253,7 +253,7 @@ export default function KyotoEarlyMorningGuidePage() {
             </span>
             <div>
               <h2 className="text-xl sm:text-2xl font-bold text-slate-800">
-                京都の朝は「名物朝粥・湯豆腐・老舗喫茶」で至福のひととき
+                京都の朝は「名物朝粥・湯豆腐・老舗喫茶」で至福の湯浴み体験
               </h2>
               <p className="text-xs text-rose-600 font-medium">混雑前に名店の味をいただく賢者のモーニング</p>
             </div>

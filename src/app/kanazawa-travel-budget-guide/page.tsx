@@ -172,7 +172,60 @@ export default function KanazawaBudgetGuide() {
           ビジネスホテル（5,000〜8,000円）、駅前温泉ホテル（9,000〜15,000円）、高級旅館（25,000円〜）。
         </p>
         
-        {hotels.length > 0 && (
+        
+      {/* 賢く浮かす！金沢旅行の節約テクニック */}
+      <section className="mb-14">
+        <h2 className="font-journal-serif text-2xl md:text-3xl font-bold text-emerald-800 mb-6 border-b-2 border-emerald-200 pb-2">
+          金沢旅行の費用を浮かす3大節約テクニック
+        </h2>
+        <div className="grid md:grid-cols-3 gap-6">
+          <div className="bg-white p-5 rounded-2xl border border-slate-100 shadow-sm">
+            <h3 className="font-bold text-emerald-900 mb-2">1. 兼六園の早朝無料入園を活用</h3>
+            <p className="text-xs text-slate-600 leading-relaxed">
+              通常大人320円の兼六園は、毎朝開門時間前の「早朝無料開放」を実施中。澄んだ朝の空気と人混みゼロの絶景を完全無料で独占できます。
+            </p>
+          </div>
+          <div className="bg-white p-5 rounded-2xl border border-slate-100 shadow-sm">
+            <h3 className="font-bold text-emerald-900 mb-2">2. まちのりシェアサイクル</h3>
+            <p className="text-xs text-slate-600 leading-relaxed">
+              市内数十カ所にあるポートで乗り降り自由。電動アシスト付きで坂道も楽々、1回165円でバス待ちのストレスから完全解放されます。
+            </p>
+          </div>
+          <div className="bg-white p-5 rounded-2xl border border-slate-100 shadow-sm">
+            <h3 className="font-bold text-emerald-900 mb-2">3. 夜は地元の回転寿司・金沢おでん</h3>
+            <p className="text-xs text-slate-600 leading-relaxed">
+              高級割烹でなくても、金沢駅前のもりもり寿しやすし食いねぇ！、黒百合の金沢おでんなら1人2,500円〜3,500円で感動級の美味しさを味わえます。
+            </p>
+          </div>
+        </div>
+      </section>
+
+      {/* よくある質問 FAQ */}
+      <section className="mb-14">
+        <h2 className="font-journal-serif text-2xl md:text-3xl font-bold text-emerald-800 mb-6 border-b-2 border-emerald-200 pb-2">
+          金沢旅行 費用・予算のよくある質問（FAQ）
+        </h2>
+        <div className="space-y-4">
+          <div className="bg-white rounded-2xl p-5 border border-slate-100 shadow-sm">
+            <h3 className="font-bold text-slate-800 mb-2">Q. 1泊2日の総額費用はいくら？</h3>
+            <p className="text-sm text-slate-600 leading-relaxed">
+              新幹線＋ホテル＋海鮮グルメ込みで1人約40,000円〜60,000円が目安。夜行バスや高速バスを利用すれば3万円台前半まで抑えることができます。
+            </p>
+          </div>
+          <div className="bg-white rounded-2xl p-5 border border-slate-100 shadow-sm">
+            <h3 className="font-bold text-slate-800 mb-2">Q. 市内の移動はバスとタクシーどっちが良い？</h3>
+            <p className="text-sm text-slate-600 leading-relaxed">
+              中心部2km圏内なので周遊バス（1日800円）またはシェアサイクル「まちのり」が圧倒的におすすめ。3〜4人のグループならワンメーター圏内でタクシー移動も割安です。
+            </p>
+          </div>
+        </div>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"金沢旅行1泊2日の総額はいくら必要ですか？","acceptedAnswer":{"@type":"Answer","text":"東京・大阪からの往復新幹線・特急代（約20,000円〜28,000円）、駅前ホテル宿泊（約8,000円〜15,000円）、近江町市場の海鮮丼や金沢おでんなどの食費（約10,000円〜15,000円）、兼六園等の入場料・交通費を含め、1人あたり約40,000円〜60,000円が標準的な目安です。高速バスを利用すれば3万円台前半まで抑えられます。"}},{"@type":"Question","name":"金沢市内の移動でおすすめの交通手段は？","acceptedAnswer":{"@type":"Answer","text":"主要名所が中心部にまとまっているため、「城下まち金沢周遊バス（1日フリー乗車券800円）」または公共シェアサイクル「まちのり（1回165円）」の利用が最も便利でコスパ抜群です。"}}]}) }}
+        />
+      </section>
+    
+      {hotels.length > 0 && (
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             {hotels.slice(0, 4).map((hotel: any, index: number) => (
               <a

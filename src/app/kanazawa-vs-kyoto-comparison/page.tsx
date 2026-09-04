@@ -152,7 +152,54 @@ export default function KanazawaVsKyotoPage() {
           </p>
         </div>
 
-        {hotels.length > 0 && (
+        
+      {/* 混雑度・回りやすさの徹底比較 */}
+      <section className="mb-14">
+        <h2 className="font-journal-serif text-2xl md:text-3xl font-bold text-indigo-900 mb-6 border-b-2 border-indigo-200 pb-2">
+          混雑度と移動のストレス度：どちらが快適に回れるか
+        </h2>
+        <div className="grid md:grid-cols-2 gap-6">
+          <div className="bg-indigo-50/50 p-6 rounded-3xl border border-indigo-100">
+            <h3 className="font-bold text-lg text-indigo-900 mb-2">🚲 金沢：徒歩＆シェアサイクルで完結</h3>
+            <p className="text-sm text-slate-700 leading-relaxed">
+              金沢の主要名所（兼六園、金沢城、21世紀美術館、近江町市場、ひがし茶屋街）は中心部2km圏内に集中。まちのり（シェアサイクル）や周遊バスで快適に移動できます。
+            </p>
+          </div>
+          <div className="bg-slate-50 p-6 rounded-3xl border border-slate-200">
+            <h3 className="font-bold text-lg text-slate-800 mb-2">🚃 京都：地下鉄を軸にした動線が必須</h3>
+            <p className="text-sm text-slate-700 leading-relaxed">
+              東山、嵐山、伏見稲荷、金閣寺とエリアが東西南北に大きく離れているため、市バスだけに頼ると大渋滞でタイムロス。地下鉄を活用した賢い移動計画が不可欠です。
+            </p>
+          </div>
+        </div>
+      </section>
+
+      {/* よくある質問 FAQ */}
+      <section className="mb-14">
+        <h2 className="font-journal-serif text-2xl md:text-3xl font-bold text-indigo-900 mb-6 border-b-2 border-indigo-200 pb-2">
+          金沢 vs 京都 よくある質問（FAQ）
+        </h2>
+        <div className="space-y-4">
+          <div className="bg-white rounded-2xl p-5 border border-slate-100 shadow-sm">
+            <h3 className="font-bold text-slate-800 mb-2">Q. 初めての古都旅行ならどっちがおすすめ？</h3>
+            <p className="text-sm text-slate-600 leading-relaxed">
+              千年の歴史と寺社仏閣の圧倒的スケールなら京都。1泊2日でコンパクトに名所・グルメ・アートをストレスフリーに回り尽くしたいなら金沢が最適です。
+            </p>
+          </div>
+          <div className="bg-white rounded-2xl p-5 border border-slate-100 shadow-sm">
+            <h3 className="font-bold text-slate-800 mb-2">Q. 混雑を避けてゆっくり過ごしたいなら？</h3>
+            <p className="text-sm text-slate-600 leading-relaxed">
+              混雑回避なら金沢が断然おすすめ。兼六園や茶屋街も早朝や夕暮れ時は驚くほど静かで、情緒あふれる大人の散歩が楽しめます。
+            </p>
+          </div>
+        </div>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"金沢と京都、初めての古都旅行ならどちらを選ぶべき？","acceptedAnswer":{"@type":"Answer","text":"圧倒的な寺社仏閣のスケールと千年の歴史を体感したいなら京都。一方、観光スポットが金沢駅周辺のコンパクトなエリアに集中しており、1泊2日で街歩き・現代アート・日本海の新鮮な海鮮丼をすべて制覇したいなら金沢が抜群に回りやすいです。"}},{"@type":"Question","name":"混雑を避けてゆったり観光したい場合は？","acceptedAnswer":{"@type":"Answer","text":"混雑回避なら金沢がおすすめ。京都は通年で国内外からの観光客が多く市バスも満員になりがちですが、金沢は兼六園や茶屋街も朝夕は非常に落ち着いており、ゆったりとした時間の流れを楽しめます。"}}]}) }}
+        />
+      </section>
+    
+      {hotels.length > 0 && (
           <section className="mb-16">
             <h2 className="font-journal-serif text-3xl font-bold text-[#8b5a2b] mb-8 text-center">
               おすすめの宿泊施設

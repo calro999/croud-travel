@@ -124,7 +124,7 @@ export default function OkinawaPackingMistakesGuidePage() {
           </h1>
 
           <p className="text-sm md:text-base text-cyan-100/90 max-w-2xl mx-auto leading-relaxed">
-            青い海と白い砂浜！最高の思い出になるはずが「日焼けで皮膚科送り」「レンタカー渋滞で那覇空港の飛行機に乗り遅れ」…沖縄旅行経験者が「これだけは知っておきたかった」と悔やむリアルな落とし穴と対策を総まとめ。
+            青い海と白い砂浜！忘れられない特別な時間になるはずが「日焼けで皮膚科送り」「レンタカー渋滞で那覇空港の飛行機に乗り遅れ」…沖縄旅行経験者が「これだけは知っておきたかった」と悔やむリアルな落とし穴と対策を総まとめ。
           </p>
 
           <div className="flex flex-wrap justify-center gap-3 pt-2 text-xs font-bold text-cyan-200">

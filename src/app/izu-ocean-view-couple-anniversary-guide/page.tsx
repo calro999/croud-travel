@@ -131,7 +131,7 @@ export default function IzuOceanViewCoupleAnniversaryGuidePage() {
           </h1>
 
           <p className="text-sm md:text-base text-cyan-100/90 leading-relaxed max-w-2xl font-medium">
-            誰の目も気にせず、目の前に広がる相模湾の水平線と波音を二人だけで独占する贅沢。客室露天風呂から眺める朝焼け、金目鯛や伊豆牛を堪能するお祝いディナー、夜のムーンロードまで、大切なパートナーの誕生日や記念日を最高の思い出にする大人のための隠れ家宿をご案内します。
+            誰の目も気にせず、目の前に広がる相模湾の水平線と波音を二人だけで独占する贅沢。客室露天風呂から眺める朝焼け、金目鯛や伊豆牛を堪能するお祝いディナー、夜のムーンロードまで、大切なパートナーの誕生日や記念日を忘れられない特別な時間にする大人のための隠れ家宿をご案内します。
           </p>
 
           <div className="pt-2 flex flex-wrap items-center gap-3 text-xs text-cyan-200/90">

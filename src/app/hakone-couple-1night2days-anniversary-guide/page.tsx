@@ -183,7 +183,7 @@ export default function HakoneCoupleAnniversaryGuidePage() {
               </div>
               <h3 className="font-bold text-stone-900 text-sm md:text-base">客室専用露天風呂でおこもり</h3>
               <p className="text-xs text-stone-600 leading-relaxed">
-                大浴場の混雑や時間を気にせず、好きな時に何度でも二人で温泉に浸かれるプライベートバス。湯上がりテラスで語り合う時間は最高の思い出に。
+                大浴場の混雑や時間を気にせず、好きな時に何度でも二人で温泉に浸かれるプライベートバス。湯上がりテラスで語り合う時間は忘れられない特別な時間に。
               </p>
             </div>
 

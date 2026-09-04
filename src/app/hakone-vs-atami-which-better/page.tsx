@@ -148,7 +148,66 @@ export default function HakoneVsAtamiPage() {
           </section>
         </div>
 
-        {hotels.length > 0 && (
+        
+      {/* 目的別おすすめ早見表 */}
+      <section className="mb-14">
+        <h2 className="font-journal-serif text-2xl md:text-3xl font-bold text-amber-800 mb-6 border-b-2 border-amber-200 pb-2">
+          旅の目的別：あなたにぴったりの決定チャート
+        </h2>
+        <div className="grid md:grid-cols-2 gap-6">
+          <div className="bg-amber-50/60 rounded-3xl p-6 border border-amber-200">
+            <h3 className="font-bold text-lg text-amber-900 mb-3">こんな人は「熱海」へGO！</h3>
+            <ul className="space-y-2 text-sm text-slate-700">
+              <li className="flex items-center gap-2">✔ 東京から片道2,000円以内・短時間で手軽に行きたい</li>
+              <li className="flex items-center gap-2">✔ 朝獲れの地魚海鮮丼や金目鯛をたらふく食べたい</li>
+              <li className="flex items-center gap-2">✔ 相模湾の海絶景や夜の海上花火を眺めたい</li>
+              <li className="flex items-center gap-2">✔ 昭和レトロな喫茶店や商店街の食べ歩きが好き</li>
+            </ul>
+          </div>
+          <div className="bg-emerald-50/60 rounded-3xl p-6 border border-emerald-200">
+            <h3 className="font-bold text-lg text-emerald-900 mb-3">こんな人は「箱根」へGO！</h3>
+            <ul className="space-y-2 text-sm text-slate-700">
+              <li className="flex items-center gap-2">✔ 登山電車やロープウェイで観光地を周遊したい</li>
+              <li className="flex items-center gap-2">✔ 白濁のにごり湯や硫黄泉など名湯に浸かりたい</li>
+              <li className="flex items-center gap-2">✔ 彫刻の森やポーラ美術館などアート鑑賞を楽しみたい</li>
+              <li className="flex items-center gap-2">✔ 富士山の絶景と芦ノ湖の静寂に包まれたい</li>
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      {/* よくある質問 FAQ */}
+      <section className="mb-14">
+        <h2 className="font-journal-serif text-2xl md:text-3xl font-bold text-amber-800 mb-6 border-b-2 border-amber-200 pb-2">
+          箱根 vs 熱海 よくある質問（FAQ）
+        </h2>
+        <div className="space-y-4">
+          <div className="bg-white rounded-2xl p-5 border border-slate-100 shadow-sm">
+            <h3 className="font-bold text-slate-800 mb-2">Q. 日帰りならどっちがおすすめ？</h3>
+            <p className="text-sm text-slate-600 leading-relaxed">
+              日帰りなら圧倒的に熱海がおすすめ。東京駅から東海道線普通列車で約1時間40分（1,980円）、新幹線なら約45分。駅から商店街や海まで徒歩圏内で移動ロスがありません。
+            </p>
+          </div>
+          <div className="bg-white rounded-2xl p-5 border border-slate-100 shadow-sm">
+            <h3 className="font-bold text-slate-800 mb-2">Q. 1泊2日で記念日旅行なら？</h3>
+            <p className="text-sm text-slate-600 leading-relaxed">
+              1泊2日なら箱根が優勢です。箱根フリーパスで山内を周遊し、強羅や仙石原の露天風呂付き客室で非日常ステイを満喫できます。
+            </p>
+          </div>
+          <div className="bg-white rounded-2xl p-5 border border-slate-100 shadow-sm">
+            <h3 className="font-bold text-slate-800 mb-2">Q. 海鮮料理が食べたいなら？</h3>
+            <p className="text-sm text-slate-600 leading-relaxed">
+              海鮮なら相模湾の地魚・金目鯛煮付けが名物の熱海が圧倒的です。箱根は湯葉・豆腐料理や大涌谷黒たまごなど山の幸が中心となります。
+            </p>
+          </div>
+        </div>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"箱根と熱海、日帰りで行くならどちらがおすすめですか？","acceptedAnswer":{"@type":"Answer","text":"日帰りなら圧倒的に熱海がおすすめ。東京駅から東海道線普通列車で約1時間40分（1,980円）、新幹線なら約45分で到着し、駅前から熱海銀座商店街やサンビーチまで徒歩圏内。移動に時間を取られずランチ・温泉・海散歩をコンパクトに満喫できます。"}},{"@type":"Question","name":"1泊2日で記念日や贅沢な温泉旅行をするなら？","acceptedAnswer":{"@type":"Answer","text":"1泊2日なら箱根が優勢です。箱根フリーパスを活用して登山電車、ケーブルカー、大涌谷ロープウェイ、芦ノ湖海賊船をぐるりと周遊でき、強羅や仙石原のにごり湯・隠れ家露天風呂旅館で非日常のステイを楽しめます。"}},{"@type":"Question","name":"海鮮グルメが目的ならどちらが満足度が高い？","acceptedAnswer":{"@type":"Answer","text":"海鮮料理なら相模湾の地魚・金目鯛煮付け・海鮮丼が充実している熱海の圧勝です。一方、箱根は名水仕込みの湯葉・豆腐料理、大涌谷の黒たまご、老舗ホテルのベーカリーなど山のリゾートグルメが充実しています。"}}]}) }}
+        />
+      </section>
+    
+      {hotels.length > 0 && (
           <section>
             <h2 className="font-journal-serif text-2xl font-bold text-slate-800 mb-8 text-center border-t border-slate-200 pt-12">
               箱根・熱海のおすすめ宿ピックアップ
