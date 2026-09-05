@@ -2125,6 +2125,41 @@ export default function Home() {
               <span>天然砂むし温泉・薩摩富士開聞岳＆知覧宿</span>
             </Link>
             <Link
+              href="/yamagata-sakata-haguro-dewasanzan-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-950 via-yellow-950 to-emerald-950 hover:from-amber-900 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🌾⛩️</span>
+              <span>山居倉庫ケヤキ並木・羽黒山五重塔＆庄内寿司宿</span>
+            </Link>
+            <Link
+              href="/toyama-takaoka-himi-amaharashi-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-cyan-950 via-blue-950 to-stone-900 hover:from-cyan-900 hover:to-blue-900 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>🏔️🐟</span>
+              <span>国宝瑞龍寺・雨晴海岸立山連峰＆氷見寒ブリ宿</span>
+            </Link>
+            <Link
+              href="/shiga-nagahama-omihachiman-chikubushima-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-950 via-teal-950 to-amber-950 hover:from-blue-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-blue-300/40 flex items-center gap-1.5"
+            >
+              <span>⛵🏯</span>
+              <span>長浜黒壁・神の棲む竹生島＆八幡堀近江牛宿</span>
+            </Link>
+            <Link
+              href="/tokushima-naruto-iya-oboke-gorge-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-teal-950 via-emerald-950 to-indigo-950 hover:from-teal-900 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>🌀🌉</span>
+              <span>鳴門の渦潮・大塚美術館＆祖谷かずら橋秘境宿</span>
+            </Link>
+            <Link
+              href="/saga-karatsu-yobuko-genkai-squid-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-sky-950 via-indigo-950 to-stone-900 hover:from-sky-900 hover:to-indigo-900 rounded-2xl shadow-lg transition border border-sky-300/40 flex items-center gap-1.5"
+            >
+              <span>🦑🏯</span>
+              <span>唐津城虹の松原・呼子朝市透明イカ活き造り宿</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >
