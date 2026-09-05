@@ -1670,6 +1670,41 @@ export default function Home() {
               <span>屋久島世界遺産・白谷雲水峡苔森＆縄文杉宿</span>
             </Link>
             <Link
+              href="/astronomical-observatory-stargazing-guide-resort-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-indigo-950 via-slate-900 to-blue-950 hover:from-indigo-900 hover:to-blue-900 rounded-2xl shadow-lg transition border border-indigo-300/40 flex items-center gap-1.5"
+            >
+              <span>🔭⭐</span>
+              <span>天体望遠鏡ドーム＆星ソムリエ常駐宿</span>
+            </Link>
+            <Link
+              href="/japan-top-three-night-view-luxury-panoramic-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-purple-950 via-slate-950 to-indigo-950 hover:from-purple-900 hover:to-indigo-900 rounded-2xl shadow-lg transition border border-purple-300/40 flex items-center gap-1.5"
+            >
+              <span>🌃✨</span>
+              <span>日本三大夜景＆全室パノラマ夜景ビュー宿</span>
+            </Link>
+            <Link
+              href="/planetarium-private-cinema-theater-room-hotel-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-slate-900 via-indigo-950 to-purple-900 hover:from-slate-850 hover:to-purple-850 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>🪐🎬</span>
+              <span>客室プラネタリウム＆大画面シアター宿</span>
+            </Link>
+            <Link
+              href="/infinity-open-air-bath-starry-sky-sleeping-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-950 via-teal-950 to-indigo-950 hover:from-blue-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>♨️🌌</span>
+              <span>満天の星空露天風呂＆寝湯インフィニティ宿</span>
+            </Link>
+            <Link
+              href="/dark-sky-reserve-nature-island-starry-resort-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-cyan-950 bg-gradient-to-r from-cyan-300 via-indigo-200 to-purple-200 hover:from-cyan-200 hover:to-purple-100 rounded-2xl shadow-lg transition border border-cyan-300 flex items-center gap-1.5"
+            >
+              <span>🏝️✨</span>
+              <span>国際星空保護区＆離島ネイチャーステイ</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >
