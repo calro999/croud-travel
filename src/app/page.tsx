@@ -1775,6 +1775,41 @@ export default function Home() {
               <span>巨匠建築・ヴォーリズ＆ライト様式宿</span>
             </Link>
             <Link
+              href="/hokkaido-otaru-yoichi-canal-distillery-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-900 via-stone-900 to-blue-950 hover:from-amber-800 hover:to-blue-900 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🥃🍣</span>
+              <span>小樽運河＆余市ニッカ蒸溜所宿</span>
+            </Link>
+            <Link
+              href="/miyagi-matsushima-shiogama-bay-seafood-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-950 via-teal-950 to-amber-950 hover:from-blue-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>🏝️🦪</span>
+              <span>日本三景松島・塩竈生マグロ＆牡蠣宿</span>
+            </Link>
+            <Link
+              href="/tochigi-shiobara-eleven-hotsprings-valley-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-950 via-teal-900 to-stone-900 hover:from-emerald-900 hover:to-stone-850 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>♨️🌉</span>
+              <span>那須塩原十一湯・もみじ谷大吊橋宿</span>
+            </Link>
+            <Link
+              href="/shizuoka-izu-kogen-jogasaki-coast-villa-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-cyan-950 via-teal-950 to-blue-950 hover:from-cyan-900 hover:to-blue-900 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>🌊🌲</span>
+              <span>城ヶ崎海岸門脇吊橋・大室山ヴィラ宿</span>
+            </Link>
+            <Link
+              href="/hyogo-kinosaki-onsen-seven-baths-crab-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-950 via-orange-950 to-stone-900 hover:from-amber-900 hover:to-orange-900 rounded-2xl shadow-lg transition border border-orange-300/40 flex items-center gap-1.5"
+            >
+              <span>♨️🦀</span>
+              <span>城崎温泉七つの外湯・本松葉ガニ宿</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >
