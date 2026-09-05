@@ -2195,6 +2195,34 @@ export default function Home() {
               <span>青島鬼の洗濯板・モアイ像＆飫肥城下町宿</span>
             </Link>
             <Link
+              href="/furusato-tax-luxury-hotspring-ryokan-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-amber-950 via-stone-900 to-amber-900 hover:from-amber-900 hover:to-stone-800 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>♨️💴</span>
+              <span>実質2,000円名湯高級温泉旅館＆ふるさと納税活用術</span>
+            </Link>
+            <Link
+              href="/furusato-tax-travel-after-booking-discount-guide"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-stone-900 via-amber-950 to-stone-900 hover:from-stone-800 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>💡🏨</span>
+              <span>予約済み宿に使える！ふるさと納税あとから割引ガイド</span>
+            </Link>
+            <Link
+              href="/furusato-tax-local-gourmet-inn-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-amber-950 via-red-950 to-stone-900 hover:from-amber-900 hover:to-red-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🥩🦞</span>
+              <span>高千穂牛・あなご・伊勢海老！ご当地グルメ宿特集</span>
+            </Link>
+            <Link
+              href="/furusato-tax-pet-sauna-private-hotspring-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-emerald-950 via-stone-900 to-amber-950 hover:from-emerald-900 hover:to-stone-800 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🐶🧖</span>
+              <span>愛犬同伴＆プライベートサウナご褒美ステイ特集</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >

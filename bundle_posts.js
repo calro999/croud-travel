@@ -227,6 +227,12 @@ Sitemap: ${BASE_URL}/sitemap-posts.xml
 - [お得キャンペーン一覧](${BASE_URL}/campaigns): 楽天トラベルの最新割引クーポン・セール情報
 - [サイトマップ](${BASE_URL}/sitemap): 全ページの構造化ナビゲーション
 
+## 楽天ふるさと納税×トラベル特集
+- [実質2,000円で泊まる名湯・高級温泉旅館完全ガイド](${BASE_URL}/furusato-tax-luxury-hotspring-ryokan-stay): 草津・伊豆・有馬の名宿と控除枠活用術
+- [楽天トラベル「あとから割引」完全攻略ガイド](${BASE_URL}/furusato-tax-travel-after-booking-discount-guide): 予約済み宿にも使えるふるさと納税クーポン活用法
+- [ご当地グルメ宿を堪能する美食旅特集](${BASE_URL}/furusato-tax-local-gourmet-inn-stay): 高千穂牛・天然あなご・伊勢海老を味わう返礼クーポン旅
+- [愛犬同伴＆プライベートサウナご褒美ステイ](${BASE_URL}/furusato-tax-pet-sauna-private-hotspring-stay): 裏磐梯・伊豆高原・白馬の特化宿ガイド
+
 ## 都道府県別観光＆宿泊ガイド
 `;
   PREFECTURE_SLUGS.forEach(slug => {
