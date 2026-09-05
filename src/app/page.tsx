@@ -1950,6 +1950,41 @@ export default function Home() {
               <span>金箔・和紙・有田焼伝統工芸宿</span>
             </Link>
             <Link
+              href="/hokkaido-toya-noboribetsu-jigokudani-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-cyan-950 via-blue-950 to-amber-950 hover:from-cyan-900 hover:to-blue-900 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>🌋🎆</span>
+              <span>登別地獄谷・洞爺湖花火＆名湯宿</span>
+            </Link>
+            <Link
+              href="/chiba-kamogawa-katsuura-boso-seafood-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-950 via-teal-950 to-rose-950 hover:from-blue-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-blue-300/40 flex items-center gap-1.5"
+            >
+              <span>🐬🐟</span>
+              <span>鴨川シャチ・勝浦朝市＆地金目鯛宿</span>
+            </Link>
+            <Link
+              href="/shizuoka-atagawa-inatori-kinmedai-hotspring-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-950 via-orange-950 to-stone-900 hover:from-amber-900 hover:to-orange-900 rounded-2xl shadow-lg transition border border-orange-300/40 flex items-center gap-1.5"
+            >
+              <span>♨️🐟</span>
+              <span>熱川温泉櫓・波打ち際＆稲取キンメ宿</span>
+            </Link>
+            <Link
+              href="/kagoshima-sakurajima-kinko-bay-kurobuta-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-stone-950 via-red-950 to-amber-950 hover:from-stone-900 hover:to-red-900 rounded-2xl shadow-lg transition border border-red-300/40 flex items-center gap-1.5"
+            >
+              <span>🌋🥩</span>
+              <span>桜島活火山・錦江湾＆かごしま黒豚宿</span>
+            </Link>
+            <Link
+              href="/miyazaki-takachiho-gorge-myth-power-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-950 via-teal-900 to-amber-950 hover:from-emerald-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>🛶⛩️</span>
+              <span>高千穂峡真名井の滝・天安河原神話宿</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >
