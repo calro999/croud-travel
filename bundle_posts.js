@@ -248,6 +248,10 @@ Sitemap: ${BASE_URL}/sitemap-posts.xml
 - [豪華グランピング×星空ドームテント完全ガイド](${BASE_URL}/furusato-tax-luxury-glamping-bbq-dome-stay): 河口湖・琵琶湖・淡路島の手ぶら焚き火BBQ
 - [絶景観光列車×途中下車の名湯温泉旅館ガイド](${BASE_URL}/furusato-tax-scenic-train-trolley-onsen-stay): 黒部トロッコ・わたらせ・只見線の鉄道旅
 - [お伊勢参り＆熊野古道×聖地巡礼・門前宿ガイド](${BASE_URL}/furusato-tax-ise-kumano-sacred-power-spot-stay): 伊勢神宮・熊野三山・出雲大社の祈願ステイ
+- [絶景インフィニティ温泉×海空一体パノラマ露天宿](${BASE_URL}/furusato-tax-infinity-onsen-sky-ocean-view-stay): 熱海・南紀白浜・指宿の海と空に溶け込む湯守宿
+- [全室離れの隠れ家おこもり宿×極上プライベートヴィラ](${BASE_URL}/furusato-tax-private-villa-hanare-hideaway-stay): 由布院・伊豆高原・定山渓の静寂と美食ステイ
+- [全国桜名所お花見温泉×春爛漫の桜花露天風呂ガイド](${BASE_URL}/furusato-tax-cherry-blossom-spring-hanami-onsen-stay): 弘前・伊豆河津・吉野山の桜と温泉巡り旅
+- [古民家再生・歴史的町家オーベルジュ×文化財ホテル滞在記](${BASE_URL}/furusato-tax-kominka-heritage-townhouse-auberge-stay): 篠山・飛騨高山・竹田城下の歴史情緒と地産馳走ステイ
 
 ## 都道府県別観光＆宿泊ガイド
 `;

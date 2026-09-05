@@ -2335,6 +2335,34 @@ export default function Home() {
               <span>お伊勢参り＆熊野古道！最強パワースポット老舗門前宿</span>
             </Link>
             <Link
+              href="/furusato-tax-infinity-onsen-sky-ocean-view-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-cyan-200 bg-gradient-to-r from-blue-950 via-sky-950 to-indigo-950 hover:from-blue-900 hover:to-sky-900 rounded-2xl shadow-lg transition border border-cyan-400/50 flex items-center gap-1.5"
+            >
+              <span>🌅♨️</span>
+              <span>絶景インフィニティ温泉！海と空に溶け込むパノラマ露天宿</span>
+            </Link>
+            <Link
+              href="/furusato-tax-private-villa-hanare-hideaway-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-emerald-950 via-teal-950 to-stone-900 hover:from-emerald-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🏡🌿</span>
+              <span>全室離れの隠れ家おこもり宿！客室露天付き極上プライベートヴィラ</span>
+            </Link>
+            <Link
+              href="/furusato-tax-cherry-blossom-spring-hanami-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-pink-200 bg-gradient-to-r from-pink-950 via-rose-950 to-amber-950 hover:from-pink-900 hover:to-rose-900 rounded-2xl shadow-lg transition border border-pink-400/50 flex items-center gap-1.5"
+            >
+              <span>🌸♨️</span>
+              <span>全国桜名所お花見温泉！桜花爛漫の客室露天＆名湯旅館</span>
+            </Link>
+            <Link
+              href="/furusato-tax-kominka-heritage-townhouse-auberge-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-amber-950 via-stone-900 to-yellow-950 hover:from-amber-900 hover:to-stone-850 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🛖🍱</span>
+              <span>古民家再生・町家オーベルジュ！歴史文化財ホテル滞在記</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >
