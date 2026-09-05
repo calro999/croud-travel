@@ -41,6 +41,10 @@
 - [登録有形文化財・宮大工名建築旅館×ふるさと納税完全ガイド](https://croud-travel.pages.dev/furusato-tax-tangible-cultural-property-architectural-ryokan-stay): 修善寺新井旅館・渋温泉金具屋・箱根環翠楼の歴史宿
 - [海鮮浜焼き・港町朝市めぐり直結宿×ふるさと納税完全ガイド](https://croud-travel.pages.dev/furusato-tax-morning-market-hamayaki-seafood-inn-stay): 八戸・沼津・高知の獲れたて市場グルメと浜焼き
 - [絶景オーシャンフロント×波音ヒーリングの海宿ふるさと納税完全ガイド](https://croud-travel.pages.dev/furusato-tax-oceanfront-wave-sound-healing-stay): 稲取・南房総・読谷村の全室オーシャンビューと潮騒露天
+- [絶景富士山ビュー露天風呂宿×ふるさと納税完全ガイド](https://croud-travel.pages.dev/furusato-tax-fuji-view-onsen-resort-stay): 河口湖・山中湖・日本平の霊峰一望リゾート
+- [高原リゾート＆美食フレンチオーベルジュ×ふるさと納税完全ガイド](https://croud-travel.pages.dev/furusato-tax-highland-resort-french-auberge-stay): 那須・清里・裏磐梯の森の休日
+- [日本三大美肌の湯×炭酸水素塩泉・美肌温泉ふるさと納税完全ガイド](https://croud-travel.pages.dev/furusato-tax-three-major-bihada-hotspring-stay): 嬉野・喜連川・玉造の名湯治宿
+- [歴史街道・宿場町めぐり名宿×ふるさと納税完全ガイド](https://croud-travel.pages.dev/furusato-tax-historical-kaido-post-town-ryokan-stay): 中山道木曽路（妻籠・馬籠）・日光街道の江戸情緒旅
 
 ## 都道府県別観光＆宿泊ガイド
 - [HOKKAIDO 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/hokkaido)
