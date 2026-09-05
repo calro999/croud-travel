@@ -42,6 +42,17 @@ export default function Page() {
             <span>✓ クーポンの有効期限はゆとりの3年間</span>
             <span>✓ 予約済みでも「あとから割引」対応</span>
           </div>
+          <div className="mt-8">
+            <a
+              href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-2 bg-gradient-to-r from-red-600 via-rose-600 to-amber-600 text-white font-black px-7 py-3.5 rounded-2xl shadow-xl hover:opacity-95 transition transform hover:-translate-y-0.5 text-sm md:text-base border border-amber-400/30"
+            >
+              <span>🎟️ 楽天ふるさと納税 宿泊クーポンを獲得する</span>
+              <span className="text-xs bg-black/20 px-2 py-0.5 rounded">公式</span>
+            </a>
+          </div>
         </header>
 
         {/* 制度解説・攻略ポイントセクション */}
@@ -468,6 +479,27 @@ export default function Page() {
               </p>
             </Link>
   
+          </div>
+        </section>
+
+        {/* クーポン獲得CTA */}
+        <section className="bg-gradient-to-br from-amber-500/20 via-stone-900 to-stone-900 border border-amber-500/30 rounded-3xl p-8 text-center space-y-6 shadow-2xl text-white">
+          <span className="text-3xl block">🎫</span>
+          <h2 className="text-xl md:text-3xl font-black text-white font-serif">
+            楽天トラベルふるさと納税クーポンで、一生の思い出に残るプレミアムステイへ
+          </h2>
+          <p className="text-stone-300 text-xs md:text-base max-w-2xl mx-auto leading-relaxed">
+            返礼品クーポンは寄付手続き完了後、数分で楽天トラベルのアカウントに即時付与されます。今年の寄付上限枠を賢く使って、贅沢な露天風呂付き客室や老舗宿の美食を実質2,000円で手に入れましょう。
+          </p>
+          <div>
+            <a
+              href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-2 bg-gradient-to-r from-red-600 via-rose-600 to-amber-600 text-white font-black px-8 py-4 rounded-2xl shadow-xl hover:opacity-95 transition transform hover:-translate-y-0.5 text-base border border-amber-400/40"
+            >
+              <span>🎟️ 楽天ふるさと納税 宿泊クーポンを獲得する</span>
+            </a>
           </div>
         </section>
       </div>
