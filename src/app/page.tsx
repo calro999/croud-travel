@@ -2307,6 +2307,34 @@ export default function Home() {
               <span>赤ちゃん連れ安心！ウェルカムベビー認定＆離乳食の宿</span>
             </Link>
             <Link
+              href="/furusato-tax-secret-hotspring-lamp-retreat-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-stone-950 via-amber-950 to-stone-900 hover:from-stone-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🏮♨️</span>
+              <span>秘湯・ランプの宿！渓谷野天風呂デジタルデトックス</span>
+            </Link>
+            <Link
+              href="/furusato-tax-luxury-glamping-bbq-dome-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-emerald-950 via-teal-950 to-amber-950 hover:from-emerald-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>⛺🔥</span>
+              <span>豪華グランピング！手ぶら炭火BBQ＆星空ドームテント</span>
+            </Link>
+            <Link
+              href="/furusato-tax-scenic-train-trolley-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-blue-950 via-cyan-950 to-amber-950 hover:from-blue-900 hover:to-cyan-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🚂🛤️</span>
+              <span>絶景観光列車！黒部トロッコ・わたらせ・只見線名湯旅</span>
+            </Link>
+            <Link
+              href="/furusato-tax-ise-kumano-sacred-power-spot-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-amber-950 via-yellow-950 to-stone-900 hover:from-amber-900 hover:to-yellow-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>⛩️✨</span>
+              <span>お伊勢参り＆熊野古道！最強パワースポット老舗門前宿</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >

@@ -244,6 +244,10 @@ Sitemap: ${BASE_URL}/sitemap-posts.xml
 - [大人の隠れ家・極上の離島リゾートステイ](${BASE_URL}/furusato-tax-remote-island-luxury-resort-stay): 屋久島・奄美大島・石垣島の自然遺産ヴィラ
 - [ワイン＆地ビール×醸造オーベルジュ旅ガイド](${BASE_URL}/furusato-tax-winery-craft-beer-auberge-stay): 勝沼・富良野・余市のワイナリーホテル
 - [赤ちゃん・未就学児連れ安心ウェルカムベビー宿](${BASE_URL}/furusato-tax-welcome-baby-family-kids-stay): 熱海・那須・南房総の離乳食＆貸切風呂完備宿
+- [秘湯・ランプの宿×デジタルデトックス温泉旅](${BASE_URL}/furusato-tax-secret-hotspring-lamp-retreat-stay): 法師・祖谷・酸ヶ湯の渓谷野天風呂
+- [豪華グランピング×星空ドームテント完全ガイド](${BASE_URL}/furusato-tax-luxury-glamping-bbq-dome-stay): 河口湖・琵琶湖・淡路島の手ぶら焚き火BBQ
+- [絶景観光列車×途中下車の名湯温泉旅館ガイド](${BASE_URL}/furusato-tax-scenic-train-trolley-onsen-stay): 黒部トロッコ・わたらせ・只見線の鉄道旅
+- [お伊勢参り＆熊野古道×聖地巡礼・門前宿ガイド](${BASE_URL}/furusato-tax-ise-kumano-sacred-power-spot-stay): 伊勢神宮・熊野三山・出雲大社の祈願ステイ
 
 ## 都道府県別観光＆宿泊ガイド
 `;
