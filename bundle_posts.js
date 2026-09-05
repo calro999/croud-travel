@@ -236,6 +236,10 @@ Sitemap: ${BASE_URL}/sitemap-posts.xml
 - [ゲレンデ直結×白銀スノーリゾート特集](${BASE_URL}/furusato-tax-ski-snowboard-slope-resort-stay): ニセコ・白馬・越後湯沢のスキー温泉ホテル
 - [憧れの最高峰宿・記念日スイート＆ヴィラ](${BASE_URL}/furusato-tax-anniversary-luxury-suite-villa-stay): 箱根・京都・沖縄の極上アニバーサリーステイ
 - [車なし・新幹線駅直結の名湯旅館ガイド](${BASE_URL}/furusato-tax-shinkansen-station-walk-hotspring-stay): 越後湯沢・熱海・加賀温泉の雪道運転不要旅
+- [名門ゴルフ×ふるさと納税宿泊パック完全ガイド](${BASE_URL}/furusato-tax-golf-resort-hotspring-stay): 川奈・軽井沢・宮古島の温泉ゴルフリゾート
+- [おひとり様贅沢ソロ温泉ワーケーション旅](${BASE_URL}/furusato-tax-solo-retreat-private-onsen-stay): 四万・別所・黒川の客室露天風呂宿
+- [国宝名城めぐり×城下町老舗名宿ガイド](${BASE_URL}/furusato-tax-castle-town-heritage-onsen-stay): 姫路・松本・彦根の天守展望露天風呂宿
+- [奇跡の名湯×強炭酸泉・泥湯・美肌温泉リトリート](${BASE_URL}/furusato-tax-bihada-medicinal-springs-retreat-stay): 長湯・霧島・嬉野の本格薬湯治ステイ
 
 ## 都道府県別観光＆宿泊ガイド
 `;

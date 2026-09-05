@@ -2251,6 +2251,34 @@ export default function Home() {
               <span>車なし・雪道運転不要！新幹線駅直結の名湯温泉旅館</span>
             </Link>
             <Link
+              href="/furusato-tax-golf-resort-hotspring-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-emerald-950 via-stone-900 to-amber-950 hover:from-emerald-900 hover:to-stone-800 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>⛳🏌️</span>
+              <span>名門ゴルフ×ふるさと納税！川奈・軽井沢・宮古島宿</span>
+            </Link>
+            <Link
+              href="/furusato-tax-solo-retreat-private-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-stone-900 via-amber-950 to-stone-900 hover:from-stone-800 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🧘♨️</span>
+              <span>おひとり様贅沢ステイ！客室露天風呂ソロワーケーション</span>
+            </Link>
+            <Link
+              href="/furusato-tax-castle-town-heritage-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-amber-950 via-stone-900 to-amber-900 hover:from-amber-900 hover:to-stone-800 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🏯🌸</span>
+              <span>国宝・名城めぐり！天守望む露天風呂＆歴史城下町宿</span>
+            </Link>
+            <Link
+              href="/furusato-tax-bihada-medicinal-springs-retreat-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-rose-950 via-red-950 to-amber-950 hover:from-rose-900 hover:to-red-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🫧🧖‍♀️</span>
+              <span>奇跡の名湯！強炭酸泉・泥湯・三大美肌の湯リトリート</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >
