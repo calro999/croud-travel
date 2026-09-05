@@ -58,6 +58,11 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【千葉県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/40498): 犬吠埼潮の湯温泉　犬吠埼観光ホテル（千葉県）
+- [【おすすめ宿】横浜平和プラザホテルの魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/11195): 横浜平和プラザホテル（富山県）
+- [【徳島県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/20228): 新祖谷温泉　ホテルかずら橋（徳島県）
+- [【おすすめ宿】鬼怒川温泉　日光きぬ川ホテル三日月の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/9086): 鬼怒川温泉　日光きぬ川ホテル三日月（茨城県）
+- [【島根県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/80700): ホテル上代（島根県）
 - [【おすすめ宿】ペンション　どんぐり　＜福島県＞の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/129557): ペンション　どんぐり　＜福島県＞（福島県）
 - [【山形県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/50620): 肘折温泉　優心の宿　観月（山形県）
 - [【おすすめ宿】三井ガーデンホテル福岡祇園の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/172316): 三井ガーデンホテル福岡祇園（福岡県）
@@ -103,8 +108,3 @@
 - [【運河の宿 おたる ふる川】カップル・夫婦記念日ステイ！客室露天風呂・贅沢会席・静かな滞在の口コミ](https://croud-travel.pages.dev/posts/otaru-furukawa-canal-view-retro-guide): 運河の宿　おたる　ふる川（北海道）
 - [【香川・坂出】湯元さぬき瀬戸大橋温泉 せとうちそう！瀬戸大橋ライトアップと本場讃岐うどん巡り](https://croud-travel.pages.dev/posts/setouchiso-sakaide-seto-bridge-udon-guide): 坂出プラザホテル（香川県）
 - [【支笏湖温泉】日本屈指の透明度を誇る湖畔リゾート！美肌とろとろ湯とレイクビュー宿5選](https://croud-travel.pages.dev/posts/shikotsuko-onsen-lake-view-bihada-guide): 支笏湖第一寶亭留　翠山亭（北海道）
-- [【白浜温泉 ホテル三楽荘】カップル・夫婦記念日ステイ！客室露天風呂・贅沢会席・静かな滞在の口コミ](https://croud-travel.pages.dev/posts/shirahama-onsen-ocean-view-kue-fish-guide): 白浜温泉　ホテル三楽荘（和歌山県）
-- [【長野・白骨温泉】乳白色の秘湯源泉かけ流し宿5選！「3日入れば3年風邪をひかない」名湯と信州牛](https://croud-travel.pages.dev/posts/shirahone-onsen-milky-secret-bath-guide): 白骨温泉　白船グランドホテル（長野県）
-- [【酸ヶ湯温泉旅館】カップル・夫婦記念日ステイ！客室露天風呂・贅沢会席・静かな滞在の口コミ](https://croud-travel.pages.dev/posts/sukayu-onsen-thousand-people-bath-aomori-guide): 酸ヶ湯温泉旅館（青森県）
-- [【武雄温泉 なかます旅館】カップル・夫婦記念日ステイ！客室露天風呂・贅沢会席・静かな滞在の口コミ](https://croud-travel.pages.dev/posts/takeo-onsen-romon-saga-beef-guide): 武雄温泉　なかます旅館（佐賀県）
-- [【島根・玉造温泉】神の湯・日本最古の美肌温泉おすすめ宿7選！出雲大社参拝としまね和牛](https://croud-travel.pages.dev/posts/tamatsukuri-onsen-bihada-magatama-guide): 玉造温泉　源泉かけ流しの宿　湯陣　千代の湯（島根県）

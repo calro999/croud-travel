@@ -1600,6 +1600,41 @@ export default function Home() {
               <span>現存宇和島城・滑床渓谷＆宇和島鯛めし宿</span>
             </Link>
             <Link
+              href="/japan-sake-brewery-auberge-pairing-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-900 via-yellow-950 to-stone-900 hover:from-amber-800 hover:to-stone-850 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🍶🥢</span>
+              <span>酒蔵オーベルジュ＆日本酒ペアリング宿</span>
+            </Link>
+            <Link
+              href="/all-inclusive-sake-free-flow-tasting-bar-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-850 via-orange-950 to-stone-900 hover:from-amber-750 hover:to-orange-900 rounded-2xl shadow-lg transition border border-yellow-300/40 flex items-center gap-1.5"
+            >
+              <span>🍶✨</span>
+              <span>日本酒飲み放題＆利き酒Bar完備温泉宿</span>
+            </Link>
+            <Link
+              href="/pure-spring-water-sake-brewing-source-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-cyan-900 via-teal-950 to-blue-950 hover:from-cyan-800 hover:to-blue-900 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>💧🍶</span>
+              <span>名水百選・酒の仕込み水が湧く秘湯宿</span>
+            </Link>
+            <Link
+              href="/sake-lees-bath-fermentation-beauty-detox-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-950 via-pink-950 to-amber-950 hover:from-rose-900 hover:to-pink-900 rounded-2xl shadow-lg transition border border-pink-300/40 flex items-center gap-1.5"
+            >
+              <span>🧖‍♀️🍶</span>
+              <span>酒粕風呂＆日本酒風呂・発酵美肌宿</span>
+            </Link>
+            <Link
+              href="/japan-historic-sake-highway-brewery-walk-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-stone-900 via-amber-950 to-emerald-950 hover:from-stone-850 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🏮🍶</span>
+              <span>日本銘酒街道・酒蔵の町並み巡り宿</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >
