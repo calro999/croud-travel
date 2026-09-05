@@ -1845,6 +1845,41 @@ export default function Home() {
               <span>客室専用サウナ＆貸切ヴィラ宿</span>
             </Link>
             <Link
+              href="/nagano-kamikochi-norikura-alps-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-teal-950 via-emerald-950 to-cyan-950 hover:from-teal-900 hover:to-cyan-900 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>🏔️♨️</span>
+              <span>上高地河童橋＆乗鞍白骨白濁湯宿</span>
+            </Link>
+            <Link
+              href="/gifu-gero-onsen-hida-river-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-950 via-orange-950 to-yellow-950 hover:from-amber-900 hover:to-orange-900 rounded-2xl shadow-lg transition border border-yellow-300/40 flex items-center gap-1.5"
+            >
+              <span>♨️🥩</span>
+              <span>下呂温泉三名泉美肌湯＆飛騨牛宿</span>
+            </Link>
+            <Link
+              href="/fukui-tojinbo-awara-onsen-crab-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-950 via-stone-900 to-amber-950 hover:from-blue-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-blue-300/40 flex items-center gap-1.5"
+            >
+              <span>🌊🦀</span>
+              <span>東尋坊断崖絶壁・あわら越前ガニ宿</span>
+            </Link>
+            <Link
+              href="/hiroshima-miyajima-itsukushima-shrine-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-950 via-red-950 to-amber-950 hover:from-rose-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-rose-300/40 flex items-center gap-1.5"
+            >
+              <span>⛩️🦪</span>
+              <span>宮島嚴島神社大鳥居＆あなごめし宿</span>
+            </Link>
+            <Link
+              href="/oita-yufuin-kinrin-lake-retreat-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-950 via-teal-900 to-stone-900 hover:from-emerald-900 hover:to-stone-850 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>🌫️♨️</span>
+              <span>由布院金鱗湖朝霧＆離れ客室露天宿</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >
