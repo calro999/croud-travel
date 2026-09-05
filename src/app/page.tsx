@@ -1740,6 +1740,41 @@ export default function Home() {
               <span>長門湯本恩湯リノベ＆元乃隅123鳥居宿</span>
             </Link>
             <Link
+              href="/japan-classic-hotel-association-heritage-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-100 bg-gradient-to-r from-stone-900 via-amber-950 to-stone-900 hover:from-stone-850 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-400/40 flex items-center gap-1.5"
+            >
+              <span>🏛️👑</span>
+              <span>日本クラシックホテルの会加盟名門宿</span>
+            </Link>
+            <Link
+              href="/taisho-roman-showa-modern-art-deco-hotel-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-900 via-rose-950 to-stone-900 hover:from-amber-800 hover:to-stone-850 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🎨✨</span>
+              <span>大正ロマン＆アールデコ近代建築宿</span>
+            </Link>
+            <Link
+              href="/tangible-cultural-property-sukiya-carpenter-ryokan-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-stone-850 via-emerald-950 to-amber-950 hover:from-stone-750 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-stone-300/40 flex items-center gap-1.5"
+            >
+              <span>🪵♨️</span>
+              <span>登録有形文化財・宮大工数寄屋旅館</span>
+            </Link>
+            <Link
+              href="/former-aristocrat-zaibatsu-imperial-villa-resort-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-yellow-950 via-amber-950 to-stone-950 hover:from-yellow-900 hover:to-stone-900 rounded-2xl shadow-lg transition border border-yellow-300/40 flex items-center gap-1.5"
+            >
+              <span>👑🌿</span>
+              <span>旧華族・旧財閥別邸＆皇室ゆかり宿</span>
+            </Link>
+            <Link
+              href="/vories-frank-lloyd-wright-architecture-resort-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-stone-900 via-teal-950 to-stone-850 hover:from-stone-850 hover:to-teal-900 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>📐🪵</span>
+              <span>巨匠建築・ヴォーリズ＆ライト様式宿</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >
