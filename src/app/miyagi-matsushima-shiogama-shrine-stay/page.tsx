@@ -3,10 +3,10 @@ import Link from 'next/link';
 import Image from 'next/image';
 
 export const metadata: Metadata = {
-  title: '【京都・天橋立＆伊根の舟屋】股のぞき・舟屋クルーズ＆冬の間人ガニ・名湯宿 完全ガイド ｜ 日本全国・旅宿クラウド',
-  description: '日本三景「天橋立」の砂嘴を股の間からのぞく飛龍観・傘松公園、海抜ゼロメートルに建ち並ぶ二百三十軒の伝統的建築群「伊根の舟屋」遊覧クルーズ、冬の日本海の幻の最高峰「丹後間人ガニ（たいざがに）」と天橋立温泉を徹底解説。',
+  title: '【宮城・松島＆塩竈】日本三景松島クルーズ・塩竈神社＆生マグロ・牡蠣宿 完全ガイド ｜ 日本全国・旅宿クラウド',
+  description: '松尾芭蕉も息を呑んだ日本三景「松島湾」の島巡りクルーズ、伊達政宗の美意識が宿る「国宝 瑞厳寺」と五大堂、陸奥国一之宮「鹽竈神社（塩竈神社）」、日本有数の生マグロ水揚げ港・塩竈の極上寿司と冬の松島焼き牡蠣を味わう宿を徹底解説。',
   keywords: [
-    '【京都・天橋立＆伊根・丹後半島】天橋立股のぞき・伊根の舟屋群＆幻の間人ガニ宿 完全ガイド',
+    '【宮城・松島＆塩竈・塩竈神社】日本三景松島湾・国宝瑞厳寺＆三陸生マグロ寿司宿 完全ガイド',
     '観光モデルコース',
     'おすすめ旅館',
     'おすすめホテル',
@@ -15,10 +15,10 @@ export const metadata: Metadata = {
     'ご当地グルメ'
   ],
   openGraph: {
-    title: '【京都・天橋立＆伊根の舟屋】股のぞき・舟屋クルーズ＆冬の間人ガニ・名湯宿 完全ガイド ｜ 日本全国・旅宿クラウド',
-    description: '日本三景「天橋立」の砂嘴を股の間からのぞく飛龍観・傘松公園、海抜ゼロメートルに建ち並ぶ二百三十軒の伝統的建築群「伊根の舟屋」遊覧クルーズ、冬の日本海の幻の最高峰「丹後間人ガニ（たいざがに）」と天橋立温泉を徹底解説。',
+    title: '【宮城・松島＆塩竈】日本三景松島クルーズ・塩竈神社＆生マグロ・牡蠣宿 完全ガイド ｜ 日本全国・旅宿クラウド',
+    description: '松尾芭蕉も息を呑んだ日本三景「松島湾」の島巡りクルーズ、伊達政宗の美意識が宿る「国宝 瑞厳寺」と五大堂、陸奥国一之宮「鹽竈神社（塩竈神社）」、日本有数の生マグロ水揚げ港・塩竈の極上寿司と冬の松島焼き牡蠣を味わう宿を徹底解説。',
     type: 'article',
-    url: 'https://croud-travel.com/kyoto-amanohashidate-ine-funaya-stay',
+    url: 'https://croud-travel.com/miyagi-matsushima-shiogama-shrine-stay',
   },
 };
 
@@ -30,13 +30,13 @@ export default function Page() {
         <div className="max-w-5xl mx-auto text-center">
           <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-amber-500/10 border border-amber-500/30 text-amber-300 text-xs sm:text-sm font-black mb-6">
             <span>🗺️</span>
-            <span>AMANOHASHIDATE & INE FUNAYA GUIDE</span>
+            <span>MATSUSHIMA & SHIOGAMA GUIDE</span>
           </div>
           <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white tracking-tight mb-6 leading-tight">
-            【京都・天橋立＆伊根・丹後半島】天橋立股のぞき・伊根の舟屋群＆幻の間人ガニ宿 完全ガイド
+            【宮城・松島＆塩竈・塩竈神社】日本三景松島湾・国宝瑞厳寺＆三陸生マグロ寿司宿 完全ガイド
           </h1>
           <p className="max-w-3xl mx-auto text-stone-300 text-sm sm:text-base md:text-lg leading-relaxed mb-8">
-            神話の時代、天と地を結ぶ梯子が倒れてできたと伝わる日本三景「天橋立」。約3.6kmにわたり約8,000本の黒松が白砂の州に連なる奇跡の造形。「股のぞき」をすれば、天地が逆転し龍が天に昇るような神秘のパノラマが広がります。さらに北へ進めば、海と家がひと続きになった日本唯一の景観「伊根の舟屋群」。波静かな伊根湾を進む遊覧船とウミネコの餌付け。冬には幻のズワイガニ「間人ガニ」が膳を彩る海の京都ステイへご案内します。
+            松尾芭蕉が『おくのほそ道』で絶賛した日本三景の筆頭「松島」。白砂青松の島々が海に浮かぶパノラマと、伊達政宗が桃山美術の粋を結集して再建した「国宝 瑞厳寺」。朱塗りの透かし橋を渡る「五大堂」。隣接する塩竈は、平安時代から続く奥州筆頭の大社「鹽竈神社」が鎮座し、日本有数の生マグロ水揚げ量を誇る美食の湊町。三陸の海風と宮城の歴史美に心酔する松島塩竈ステイへご案内します。
           </p>
 
           <div className="flex flex-wrap items-center justify-center gap-4 text-xs font-bold text-stone-400">
@@ -58,31 +58,31 @@ export default function Page() {
         <section className="bg-stone-900/40 rounded-3xl p-6 sm:p-8 md:p-10 border border-amber-500/20 backdrop-blur-md relative overflow-hidden shadow-2xl">
           <div className="absolute top-0 right-0 w-80 h-80 bg-amber-500/5 rounded-full blur-3xl pointer-events-none" />
           <div className="inline-block px-3 py-1 bg-amber-500/10 border border-amber-500/30 rounded-full text-xs font-bold text-amber-300 mb-4">
-            日本三景・天に架かる緑の橋と智恵の文殊
+            日本三景・二百六十余島の多島美と伊達文化
           </div>
           <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">
-            1. 天橋立「股のぞき」（天橋立ビューランド・傘松公園）＆智恩寺・松並木サイクリング
+            1. 松島湾島巡りクルーズ（仁王島・鐘島）＆国宝「瑞厳寺」・五大堂透かし橋
           </h2>
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed mb-6">
-            宮津湾と阿蘇海を隔てる全長約3.6kmの砂嘴に約8,000本の松が茂る日本三景「天橋立」。南側の「天橋立ビューランド」からの飛龍観、北側の「傘松公園」からの昇龍観と、展望台で腰を曲げて股の間から逆さに覗く「股のぞき」が有名。海が空に、松並木が天に昇る龍のように見えます。松並木の中はレンタサイクルや徒歩で通り抜けることができ、日本三文殊の一つ「智恩寺（文殊堂）」で智恵を授かる参拝も定番です。
+            約260の奇岩小島が穏やかな湾内に点在する日本三景「松島」。大型遊覧船で巡る「松島湾一周クルーズ」では、波の浸食でできた仁王像そっくりの仁王島や鐘島を間近に鑑賞できます。下船後は、伊達政宗の菩提寺として創建された「国宝 瑞厳寺」へ。本堂を彩る金箔の障壁画や彫刻は絢爛豪華そのもの。海上に突き出た「五大堂」は足元の海が透けて見える透かし橋を渡ることで邪心を祓い参拝します。
           </p>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-8 text-xs sm:text-sm">
             <div className="bg-stone-950/60 p-4 rounded-2xl border border-stone-800">
               <span className="text-amber-400 font-bold block mb-1">🗓️ ベストシーズン・見どころ</span>
-              <span className="text-stone-300">通年（春〜夏の青い宮津湾と松の緑、秋の心地よい海風、冬の雪景色「幻雪の天橋立」）</span>
+              <span className="text-stone-300">通年（春の桜、夏の青い松島湾、秋の瑞厳寺ライトアップ紅葉、冬の朝霧と雪景色）</span>
             </div>
             <div className="bg-stone-950/60 p-4 rounded-2xl border border-stone-800">
               <span className="text-amber-400 font-bold block mb-1">📍 主な見どころ・スポット</span>
-              <span className="text-stone-300">天橋立ビューランド（リフト・モノレール）、傘松公園（股のぞき発祥の地）、智恩寺（文殊堂）、元伊勢籠神社、天橋立神社</span>
+              <span className="text-stone-300">松島湾観光遊覧船、国宝瑞厳寺（本堂・庫裏）、五大堂、円通院（数珠作り体験・紅葉庭園）、福浦島（出会い橋）</span>
             </div>
             <div className="bg-stone-950/60 p-4 rounded-2xl border border-stone-800">
               <span className="text-amber-400 font-bold block mb-1">🚗 交通アクセス</span>
-              <span className="text-stone-300">京都丹後鉄道「天橋立駅」下車すぐ。京都駅より特急はしだてで直通約2時間。山陰近畿道「与謝天橋立IC」より約10分。</span>
+              <span className="text-stone-300">JR仙石線「松島海岸駅」下車徒歩約5〜10分。JR東北本線「松島駅」より徒歩約15分。三陸自動車道「松島海岸IC」より約5分。</span>
             </div>
             <div className="bg-stone-950/60 p-4 rounded-2xl border border-stone-800">
               <span className="text-amber-400 font-bold block mb-1">💡 旅のワンポイント・秘訣</span>
-              <span className="text-stone-300">天橋立の中間にある「磯清水」は、四方を海に囲まれていながら一口飲むと真水が湧き出る不思議な名水百選の井戸です。</span>
+              <span className="text-stone-300">秋の「円通院」夜間ライトアップは、心字池の水面に鮮やかな紅葉が鏡のように映り込む東北屈指の幻想的な夜間特別拝観です。</span>
             </div>
           </div>
 
@@ -94,39 +94,39 @@ export default function Page() {
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose mt-6">
               
-                <div key="13915" className="bg-stone-900/60 rounded-2xl overflow-hidden border border-amber-500/20 hover:border-amber-500/50 transition duration-300 flex flex-col justify-between group shadow-xl">
+                <div key="11378" className="bg-stone-900/60 rounded-2xl overflow-hidden border border-amber-500/20 hover:border-amber-500/50 transition duration-300 flex flex-col justify-between group shadow-xl">
                   <div>
                     
                       <div className="relative h-48 sm:h-52 w-full overflow-hidden">
                         <img
-                          src="https://img.travel.rakuten.co.jp/share/HOTEL/13915/13915.jpg"
-                          alt="天橋立温泉　料理旅館　鳥喜"
+                          src="https://img.travel.rakuten.co.jp/share/HOTEL/11378/11378.jpg"
+                          alt="旅館　松島"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
                         />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
-                          ★ 4.8 (455+件)
+                          ★ 4.3 (90+件)
                         </div>
                       </div>
                     
                     <div className="p-5">
                       <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        天橋立温泉　料理旅館　鳥喜
+                        旅館　松島
                       </h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
-                        「一度食べたら本物だとわかる」天然にこだわる四季折々の旨いもんを堪能する天橋立の料理旅館
+                        閑静な環境ですが、地下鉄一本で観光地・繁華街へ出られます☆畳と木のぬくもりの中で寛ぎのひとときを♪
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
-                        📍 京都府宮津市文珠463-5
+                        📍 神奈川県横浜市南区蒔田町863
                       </div>
                     </div>
                   </div>
                   <div className="p-5 pt-0">
                     <div className="pt-3 border-t border-stone-800 flex items-center justify-between">
                       <div className="text-xs text-stone-400">
-                        目安料金: <span className="text-amber-400 font-bold text-sm">¥17,600〜</span>/人
+                        目安料金: <span className="text-amber-400 font-bold text-sm">¥6,930〜</span>/人
                       </div>
                       <a
-                        href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D13915"
+                        href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D11378"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="inline-flex items-center gap-1 text-xs font-bold px-4 py-2 bg-gradient-to-r from-amber-600 to-amber-500 hover:from-amber-500 hover:to-amber-400 text-stone-950 rounded-xl transition shadow-md shadow-amber-900/30"
@@ -140,39 +140,39 @@ export default function Page() {
                   </div>
                 </div>
               
-                <div key="76500" className="bg-stone-900/60 rounded-2xl overflow-hidden border border-amber-500/20 hover:border-amber-500/50 transition duration-300 flex flex-col justify-between group shadow-xl">
+                <div key="2047" className="bg-stone-900/60 rounded-2xl overflow-hidden border border-amber-500/20 hover:border-amber-500/50 transition duration-300 flex flex-col justify-between group shadow-xl">
                   <div>
                     
                       <div className="relative h-48 sm:h-52 w-full overflow-hidden">
                         <img
-                          src="https://img.travel.rakuten.co.jp/share/HOTEL/76500/76500.jpg"
-                          alt="天橋立荘"
+                          src="https://img.travel.rakuten.co.jp/share/HOTEL/2047/2047.jpg"
+                          alt="松島温泉　ホテル大松荘"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
                         />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
-                          ★ 4.3 (247+件)
+                          ★ 4.0 (598+件)
                         </div>
                       </div>
                     
                     <div className="p-5">
                       <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        天橋立荘
+                        松島温泉　ホテル大松荘
                       </h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
-                        日本三景天橋立の奥座敷、あたたかいおもてなしと漁港直送の新鮮素材を使った海鮮料理自慢の宿
+                        松島海岸駅から徒歩１分、天然温泉とおいしいお料理でおもてなしいたします。
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
-                        📍 京都府宮津市文珠赤岩584
+                        📍 宮城県宮城郡松島町松島字町内25　　
                       </div>
                     </div>
                   </div>
                   <div className="p-5 pt-0">
                     <div className="pt-3 border-t border-stone-800 flex items-center justify-between">
                       <div className="text-xs text-stone-400">
-                        目安料金: <span className="text-amber-400 font-bold text-sm">¥5,200〜</span>/人
+                        目安料金: <span className="text-amber-400 font-bold text-sm">¥8,800〜</span>/人
                       </div>
                       <a
-                        href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D76500"
+                        href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D2047"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="inline-flex items-center gap-1 text-xs font-bold px-4 py-2 bg-gradient-to-r from-amber-600 to-amber-500 hover:from-amber-500 hover:to-amber-400 text-stone-950 rounded-xl transition shadow-md shadow-amber-900/30"
@@ -186,39 +186,39 @@ export default function Page() {
                   </div>
                 </div>
               
-                <div key="7027" className="bg-stone-900/60 rounded-2xl overflow-hidden border border-amber-500/20 hover:border-amber-500/50 transition duration-300 flex flex-col justify-between group shadow-xl">
+                <div key="5114" className="bg-stone-900/60 rounded-2xl overflow-hidden border border-amber-500/20 hover:border-amber-500/50 transition duration-300 flex flex-col justify-between group shadow-xl">
                   <div>
                     
                       <div className="relative h-48 sm:h-52 w-full overflow-hidden">
                         <img
-                          src="https://img.travel.rakuten.co.jp/share/HOTEL/7027/7027.jpg"
-                          alt="宮津温泉　料理旅館　茶六別館"
+                          src="https://img.travel.rakuten.co.jp/share/HOTEL/5114/5114.jpg"
+                          alt="飯坂温泉　松島屋　桃香"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
                         />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
-                          ★ 4.6 (202+件)
+                          ★ 4.5 (212+件)
                         </div>
                       </div>
                     
                     <div className="p-5">
                       <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        宮津温泉　料理旅館　茶六別館
+                        飯坂温泉　松島屋　桃香
                       </h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
-                        天橋立を望む数奇屋造りの料理宿。春夏には岩牡蠣など丹後の海の幸を生かした京風会席をご堪能下さい。
+                        おかげさまで全館リニューアル！！お子様、ペット大歓迎！夕朝食共お部屋でゆっくりお召し上がり下さい。
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
-                        📍 京都府宮津市島崎2039-4
+                        📍 福島県福島市飯坂町湯野字切湯ノ上14番地
                       </div>
                     </div>
                   </div>
                   <div className="p-5 pt-0">
                     <div className="pt-3 border-t border-stone-800 flex items-center justify-between">
                       <div className="text-xs text-stone-400">
-                        目安料金: <span className="text-amber-400 font-bold text-sm">¥17,600〜</span>/人
+                        目安料金: <span className="text-amber-400 font-bold text-sm">¥13,750〜</span>/人
                       </div>
                       <a
-                        href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D7027"
+                        href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D5114"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="inline-flex items-center gap-1 text-xs font-bold px-4 py-2 bg-gradient-to-r from-amber-600 to-amber-500 hover:from-amber-500 hover:to-amber-400 text-stone-950 rounded-xl transition shadow-md shadow-amber-900/30"
@@ -232,39 +232,39 @@ export default function Page() {
                   </div>
                 </div>
               
-                <div key="28588" className="bg-stone-900/60 rounded-2xl overflow-hidden border border-amber-500/20 hover:border-amber-500/50 transition duration-300 flex flex-col justify-between group shadow-xl">
+                <div key="68202" className="bg-stone-900/60 rounded-2xl overflow-hidden border border-amber-500/20 hover:border-amber-500/50 transition duration-300 flex flex-col justify-between group shadow-xl">
                   <div>
                     
                       <div className="relative h-48 sm:h-52 w-full overflow-hidden">
                         <img
-                          src="https://img.travel.rakuten.co.jp/share/HOTEL/28588/28588.jpg"
-                          alt="夕日ヶ浦温泉　丹後・食の宿　みのり旅館"
+                          src="https://img.travel.rakuten.co.jp/share/HOTEL/68202/68202.jpg"
+                          alt="松島温泉　天草渚亭"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
                         />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
-                          ★ 4.8 (79+件)
+                          ★ 4.7 (217+件)
                         </div>
                       </div>
                     
                     <div className="p-5">
                       <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        夕日ヶ浦温泉　丹後・食の宿　みのり旅館
+                        松島温泉　天草渚亭
                       </h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
-                        【カニの街・夕日ヶ浦】全12室の静寂な湯宿。夕日ヶ浦の天然温泉と極上の蟹料理を個室食で堪能
+                        天草でも珍しいオーシャンフロント旅館★鮮度バツグンの海鮮料理、魚釣り…いざ！渚亭
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
-                        📍 京都府京丹後市網野町浜詰46-13
+                        📍 熊本県上天草市松島町阿村5650-2
                       </div>
                     </div>
                   </div>
                   <div className="p-5 pt-0">
                     <div className="pt-3 border-t border-stone-800 flex items-center justify-between">
                       <div className="text-xs text-stone-400">
-                        目安料金: <span className="text-amber-400 font-bold text-sm">¥7,700〜</span>/人
+                        目安料金: <span className="text-amber-400 font-bold text-sm">¥33,000〜</span>/人
                       </div>
                       <a
-                        href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D28588"
+                        href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D68202"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="inline-flex items-center gap-1 text-xs font-bold px-4 py-2 bg-gradient-to-r from-amber-600 to-amber-500 hover:from-amber-500 hover:to-amber-400 text-stone-950 rounded-xl transition shadow-md shadow-amber-900/30"
@@ -289,31 +289,31 @@ export default function Page() {
         <section className="bg-stone-900/40 rounded-3xl p-6 sm:p-8 md:p-10 border border-amber-500/20 backdrop-blur-md relative overflow-hidden shadow-2xl">
           <div className="absolute top-0 right-0 w-80 h-80 bg-amber-500/5 rounded-full blur-3xl pointer-events-none" />
           <div className="inline-block px-3 py-1 bg-amber-500/10 border border-amber-500/30 rounded-full text-xs font-bold text-amber-300 mb-4">
-            国の重要伝統的建造物群・海の上に浮かぶ家
+            奥州一之宮の荘厳と日本一の寿司激戦区
           </div>
           <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">
-            2. 伊根の舟屋（二百三十軒の舟屋群）＆伊根湾めぐり遊覧船・舟屋の宿ステイ
+            2. 陸奥国一之宮「鹽竈神社」二百二段石段＆塩竈仲卸市場・三陸生マグロ寿司
           </h2>
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed mb-6">
-            1階が船のガレージ（船揚場）、2階が居室という独特の構造を持つ「舟屋」が伊根湾の周囲5kmにわたって約230軒立ち並ぶ「伊根の舟屋群」。まるで家が海の上に直接浮かんでいるかのような幻想的な漁村景観は国の重要伝統的建造物群保存地区に選定されています。伊根湾めぐり遊覧船に乗れば、海上から迫力ある舟屋の町並みを一望でき、飛び交うカモメへの餌付けも大人気。舟屋を改装した一日一組限定の宿での宿泊は一生の記憶に残ります。
+            千二百年以上の歴史を誇り、陸奥国一之宮として歴代藩主や庶民に篤く信仰されてきた「鹽竈神社（しおがまじんじゃ）」。表参道の202段の急峻な石段を登り切ると、朱塗りの豪華な社殿群が広がります。港町の塩竈は人口あたりの寿司屋の店舗数が日本一とも言われ、塩竈港に水揚げされる新鮮な「三陸東沖生マグロ（メバチマグロ「ひがしもの」）」は濃厚な旨味と上品な脂の乗りが絶品です。
           </p>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-8 text-xs sm:text-sm">
             <div className="bg-stone-950/60 p-4 rounded-2xl border border-stone-800">
               <span className="text-amber-400 font-bold block mb-1">🗓️ ベストシーズン・見どころ</span>
-              <span className="text-stone-300">通年（波静かな伊根湾のクルーズ、夕暮れのシルエット、冬の寒ブリ漁）</span>
+              <span className="text-stone-300">通年（4月下旬の国指定天然記念物「塩竈桜」、初夏の塩竈みなと祭、秋〜冬の生マグロの旬）</span>
             </div>
             <div className="bg-stone-950/60 p-4 rounded-2xl border border-stone-800">
               <span className="text-amber-400 font-bold block mb-1">📍 主な見どころ・スポット</span>
-              <span className="text-stone-300">伊根の舟屋群、伊根湾めぐり遊覧船、道の駅 舟屋の里伊根（高台からのパノラマ展望台）、向井酒造（女性杜氏の赤い地酒 伊根満開）</span>
+              <span className="text-stone-300">鹽竈神社（志波彦神社）、塩竈市仲卸市場（マイ海鮮丼作り）、マリンゲート塩釜、浦霞醸造元（佐浦酒造）</span>
             </div>
             <div className="bg-stone-950/60 p-4 rounded-2xl border border-stone-800">
               <span className="text-amber-400 font-bold block mb-1">🚗 交通アクセス</span>
-              <span className="text-stone-300">天橋立駅より丹海バス（伊根線）で約60分（伊根下車）。天橋立市街地より車で約35分。</span>
+              <span className="text-stone-300">JR仙石線「本塩釜駅」より徒歩約15分（表参道）。仙台駅よりJR仙石線快速で約16分。三陸道「利府中IC」より約10分。</span>
             </div>
             <div className="bg-stone-950/60 p-4 rounded-2xl border border-stone-800">
               <span className="text-amber-400 font-bold block mb-1">💡 旅のワンポイント・秘訣</span>
-              <span className="text-stone-300">向井酒造の「伊根満開」は古代米（赤米）を使って醸造されたロゼワインのような鮮やかな赤色の日本酒で、フルーティーな酸味が女性に大人気です。</span>
+              <span className="text-stone-300">塩竈市仲卸市場では、場内で買った好みの刺身を市場奥のご飯セット（ご飯・味噌汁）に乗せてオリジナルの「マイ海鮮丼」を作れます。</span>
             </div>
           </div>
 
@@ -325,39 +325,39 @@ export default function Page() {
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose mt-6">
               
-                <div key="137773" className="bg-stone-900/60 rounded-2xl overflow-hidden border border-amber-500/20 hover:border-amber-500/50 transition duration-300 flex flex-col justify-between group shadow-xl">
+                <div key="51699" className="bg-stone-900/60 rounded-2xl overflow-hidden border border-amber-500/20 hover:border-amber-500/50 transition duration-300 flex flex-col justify-between group shadow-xl">
                   <div>
                     
                       <div className="relative h-48 sm:h-52 w-full overflow-hidden">
                         <img
-                          src="https://img.travel.rakuten.co.jp/share/HOTEL/137773/137773.jpg"
-                          alt="旅館　浜乃屋"
+                          src="https://img.travel.rakuten.co.jp/share/HOTEL/51699/51699.jpg"
+                          alt="ホテルグランドパレス塩釜"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
                         />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
-                          ★ 4.0 (58+件)
+                          ★ 4.1 (967+件)
                         </div>
                       </div>
                     
                     <div className="p-5">
                       <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        旅館　浜乃屋
+                        ホテルグランドパレス塩釜
                       </h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
-                        京丹後・夕日ヶ浦の旅館です。別館のオーシャンビュー客室や露天風呂が自慢！波音を聴きながらゆっくりと。
+                        ＪＲ本塩釜駅より徒歩３分の便利さ！！ビジネス・観光に最適！宴会場・レストランも充実！
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
-                        📍 京都府京丹後市網野町浜詰765
+                        📍 宮城県塩釜市尾島町3-5
                       </div>
                     </div>
                   </div>
                   <div className="p-5 pt-0">
                     <div className="pt-3 border-t border-stone-800 flex items-center justify-between">
                       <div className="text-xs text-stone-400">
-                        目安料金: <span className="text-amber-400 font-bold text-sm">¥9,900〜</span>/人
+                        目安料金: <span className="text-amber-400 font-bold text-sm">¥4,225〜</span>/人
                       </div>
                       <a
-                        href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D137773"
+                        href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D51699"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="inline-flex items-center gap-1 text-xs font-bold px-4 py-2 bg-gradient-to-r from-amber-600 to-amber-500 hover:from-amber-500 hover:to-amber-400 text-stone-950 rounded-xl transition shadow-md shadow-amber-900/30"
@@ -371,131 +371,39 @@ export default function Page() {
                   </div>
                 </div>
               
-                <div key="9100" className="bg-stone-900/60 rounded-2xl overflow-hidden border border-amber-500/20 hover:border-amber-500/50 transition duration-300 flex flex-col justify-between group shadow-xl">
+                <div key="15104" className="bg-stone-900/60 rounded-2xl overflow-hidden border border-amber-500/20 hover:border-amber-500/50 transition duration-300 flex flex-col justify-between group shadow-xl">
                   <div>
                     
                       <div className="relative h-48 sm:h-52 w-full overflow-hidden">
                         <img
-                          src="https://img.travel.rakuten.co.jp/share/HOTEL/9100/9100.jpg"
-                          alt="海辺の料理旅館　浜の路　臨江庵"
+                          src="https://img.travel.rakuten.co.jp/share/HOTEL/15104/15104.jpg"
+                          alt="スマイルホテル塩釜"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
                         />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
-                          ★ 4.5 (151+件)
+                          ★ 4.0 (2514+件)
                         </div>
                       </div>
                     
                     <div className="p-5">
                       <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        海辺の料理旅館　浜の路　臨江庵
+                        スマイルホテル塩釜
                       </h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
-                        【1日5組限定◆3つの貸切温泉＆個室食事処】個室お食事処で食べる旬の味覚会席を堪能する料理旅館
+                        寿司の町塩釜に位置し、お車でなら松島、多賀城、利府にも便利。全館有線ＬＡＮ＆Ｗｉ－Ｆｉ使用可能！
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
-                        📍 京都府京丹後市久美浜町湊宮1795
+                        📍 宮城県塩竈市新富町18-31
                       </div>
                     </div>
                   </div>
                   <div className="p-5 pt-0">
                     <div className="pt-3 border-t border-stone-800 flex items-center justify-between">
                       <div className="text-xs text-stone-400">
-                        目安料金: <span className="text-amber-400 font-bold text-sm">¥13,200〜</span>/人
+                        目安料金: <span className="text-amber-400 font-bold text-sm">¥3,550〜</span>/人
                       </div>
                       <a
-                        href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D9100"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="inline-flex items-center gap-1 text-xs font-bold px-4 py-2 bg-gradient-to-r from-amber-600 to-amber-500 hover:from-amber-500 hover:to-amber-400 text-stone-950 rounded-xl transition shadow-md shadow-amber-900/30"
-                      >
-                        楽天トラベルで空室確認
-                        <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                        </svg>
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              
-                <div key="192952" className="bg-stone-900/60 rounded-2xl overflow-hidden border border-amber-500/20 hover:border-amber-500/50 transition duration-300 flex flex-col justify-between group shadow-xl">
-                  <div>
-                    
-                      <div className="relative h-48 sm:h-52 w-full overflow-hidden">
-                        <img
-                          src="https://img.travel.rakuten.co.jp/share/HOTEL/192952/192952.jpg"
-                          alt="喜久屋旅館"
-                          className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
-                        <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
-                          ★ 4.5 (100+件)
-                        </div>
-                      </div>
-                    
-                    <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        喜久屋旅館
-                      </h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
-                        創業明治３５年、丹後の奥座敷に佇む歴史ある旅館で安らぎのひとときをお過ごしください。
-                      </p>
-                      <div className="mt-3 text-xs text-stone-300">
-                        📍 京都府京丹後市丹後町成願寺1163
-                      </div>
-                    </div>
-                  </div>
-                  <div className="p-5 pt-0">
-                    <div className="pt-3 border-t border-stone-800 flex items-center justify-between">
-                      <div className="text-xs text-stone-400">
-                        目安料金: <span className="text-amber-400 font-bold text-sm">¥7,920〜</span>/人
-                      </div>
-                      <a
-                        href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D192952"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="inline-flex items-center gap-1 text-xs font-bold px-4 py-2 bg-gradient-to-r from-amber-600 to-amber-500 hover:from-amber-500 hover:to-amber-400 text-stone-950 rounded-xl transition shadow-md shadow-amber-900/30"
-                      >
-                        楽天トラベルで空室確認
-                        <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                        </svg>
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              
-                <div key="18687" className="bg-stone-900/60 rounded-2xl overflow-hidden border border-amber-500/20 hover:border-amber-500/50 transition duration-300 flex flex-col justify-between group shadow-xl">
-                  <div>
-                    
-                      <div className="relative h-48 sm:h-52 w-full overflow-hidden">
-                        <img
-                          src="https://img.travel.rakuten.co.jp/share/HOTEL/18687/18687.jpg"
-                          alt="��宿旅館　里のやど　川尻"
-                          className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
-                        <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
-                          ★ 3.8 (311+件)
-                        </div>
-                      </div>
-                    
-                    <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        ��宿旅館　里のやど　川尻
-                      </h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
-                        天橋立の海水浴場まで徒歩数分！家族で営む古くて小さな温泉民宿です！＜ペット宿泊OK＞
-                      </p>
-                      <div className="mt-3 text-xs text-stone-300">
-                        📍 京都府宮津市江尻115
-                      </div>
-                    </div>
-                  </div>
-                  <div className="p-5 pt-0">
-                    <div className="pt-3 border-t border-stone-800 flex items-center justify-between">
-                      <div className="text-xs text-stone-400">
-                        目安料金: <span className="text-amber-400 font-bold text-sm">¥4,950〜</span>/人
-                      </div>
-                      <a
-                        href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D18687"
+                        href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D15104"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="inline-flex items-center gap-1 text-xs font-bold px-4 py-2 bg-gradient-to-r from-amber-600 to-amber-500 hover:from-amber-500 hover:to-amber-400 text-stone-950 rounded-xl transition shadow-md shadow-amber-900/30"
@@ -520,31 +428,31 @@ export default function Page() {
         <section className="bg-stone-900/40 rounded-3xl p-6 sm:p-8 md:p-10 border border-amber-500/20 backdrop-blur-md relative overflow-hidden shadow-2xl">
           <div className="absolute top-0 right-0 w-80 h-80 bg-amber-500/5 rounded-full blur-3xl pointer-events-none" />
           <div className="inline-block px-3 py-1 bg-amber-500/10 border border-amber-500/30 rounded-full text-xs font-bold text-amber-300 mb-4">
-            冬の味覚の最高峰「幻の間人ガニ」と天然温泉
+            冬の松島カキ小屋と仙台牛タン
           </div>
           <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">
-            3. 幻のブランド蟹「間人ガニ」尽くし会席＆天橋立温泉・夕日ヶ浦温泉露天宿
+            3. 名物「松島焼き牡蠣」スコップ蒸し焼き＆仙台牛・厚切り牛タン会席宿
           </h2>
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed mb-6">
-            丹後半島の間人（たいざ）港に所属するわずか5隻の小型船が日帰り操業で水揚げする「間人ガニ」。競りまでの時間が極めて短いため抜群の鮮度を誇り、水揚げ量の少なさから「幻の蟹」と呼ばれます。緑色のタグが付けられた本物の間人ガニは、繊細な甘みのカニ刺し、香ばしい焼きガニ、濃厚なカニ味噌甲羅焼きと至高の味わい。丹後半島沿岸に湧く「天橋立温泉」や夕日の名所「夕日ヶ浦温泉」の美肌露天風呂で贅沢な美食の夜を過ごせます。
+            松島湾の豊かな栄養で育った「松島牡蠣」は、小粒ながらも旨味がギュッと凝縮されているのが特徴。冬季にオープンする「松島観光協会かき小屋」では、鉄板の上にスコップで豪快に盛られた殻付き牡蠣を蒸し焼きにし、食べ放題で心ゆくまで味わえます。夕暮れ時は松島湾を望む温泉露天風呂に浸かり、夕食には宮城名物の厚切り牛タン炭火焼きや仙台牛ステーキ、三陸鮮魚の舟盛り会席を堪能できます。
           </p>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-8 text-xs sm:text-sm">
             <div className="bg-stone-950/60 p-4 rounded-2xl border border-stone-800">
               <span className="text-amber-400 font-bold block mb-1">🗓️ ベストシーズン・見どころ</span>
-              <span className="text-stone-300">冬（11月6日〜3月下旬の松葉ガニ漁期、特に12〜2月が最盛期）</span>
+              <span className="text-stone-300">秋〜冬（10月下旬〜3月の松島牡蠣シーズン、特に身が締まる冬が最高峰）</span>
             </div>
             <div className="bg-stone-950/60 p-4 rounded-2xl border border-stone-800">
               <span className="text-amber-400 font-bold block mb-1">📍 主な見どころ・スポット</span>
-              <span className="text-stone-300">間人港、夕日ヶ浦海岸（浜詰ビーチ・ビーチブランコゆらり）、経ヶ岬灯台（近畿最北端）、屏風岩</span>
+              <span className="text-stone-300">松島かき小屋、松島さかな市場、松島海岸通り、西行戻しの松公園（松島湾桜パノラマ）</span>
             </div>
             <div className="bg-stone-950/60 p-4 rounded-2xl border border-stone-800">
               <span className="text-amber-400 font-bold block mb-1">🚗 交通アクセス</span>
-              <span className="text-stone-300">天橋立・宮津市街地および丹後半島各地に名旅館が点在。冬季はカニ特急列車の運行あり。</span>
+              <span className="text-stone-300">JR松島海岸駅より徒歩圏内に温泉旅館や海鮮処が集中。</span>
             </div>
             <div className="bg-stone-950/60 p-4 rounded-2xl border border-stone-800">
               <span className="text-amber-400 font-bold block mb-1">💡 旅のワンポイント・秘訣</span>
-              <span className="text-stone-300">夕日ヶ浦海岸は「日本の夕陽百選」に選ばれており、海辺の砂浜に設置された木製ブランコ「ゆらり」に揺られながら眺めるサンセットは息を呑む絶景です。</span>
+              <span className="text-stone-300">「西行戻しの松公園」の高台カフェ「ル・ロマン」からは、松島湾全景と島々をガラス越しに見渡す絶景ティータイムが楽しめます。</span>
             </div>
           </div>
 
@@ -556,121 +464,29 @@ export default function Page() {
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose mt-6">
               
-                <div key="31733" className="bg-stone-900/60 rounded-2xl overflow-hidden border border-amber-500/20 hover:border-amber-500/50 transition duration-300 flex flex-col justify-between group shadow-xl">
+                <div key="8017" className="bg-stone-900/60 rounded-2xl overflow-hidden border border-amber-500/20 hover:border-amber-500/50 transition duration-300 flex flex-col justify-between group shadow-xl">
                   <div>
                     
                       <div className="relative h-48 sm:h-52 w-full overflow-hidden">
                         <img
-                          src="https://img.travel.rakuten.co.jp/share/HOTEL/31733/31733.jpg"
-                          alt="丹後神の温泉　旅館　すずらん"
+                          src="https://img.travel.rakuten.co.jp/share/HOTEL/8017/8017.jpg"
+                          alt="気仙沼大島　旅館　椿荘花月"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
                         />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
-                          ★ 4.6 (457+件)
+                          ★ 4.2 (65+件)
                         </div>
                       </div>
                     
                     <div className="p-5">
                       <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        丹後神の温泉　旅館　すずらん
+                        気仙沼大島　旅館　椿荘花月
                       </h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
-                        【クチコミ★4.6】カニ料理が自慢♪丹後弁のおもてなしと温泉に大満足！！
+                        夏だ！海だ！気仙沼大島へ行こう♪小田の浜ビーチは当館すぐ！
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
-                        📍 京都府京丹後市久美浜町葛野369
-                      </div>
-                    </div>
-                  </div>
-                  <div className="p-5 pt-0">
-                    <div className="pt-3 border-t border-stone-800 flex items-center justify-between">
-                      <div className="text-xs text-stone-400">
-                        目安料金: <span className="text-amber-400 font-bold text-sm">¥11,000〜</span>/人
-                      </div>
-                      <a
-                        href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D31733"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="inline-flex items-center gap-1 text-xs font-bold px-4 py-2 bg-gradient-to-r from-amber-600 to-amber-500 hover:from-amber-500 hover:to-amber-400 text-stone-950 rounded-xl transition shadow-md shadow-amber-900/30"
-                      >
-                        楽天トラベルで空室確認
-                        <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                        </svg>
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              
-                <div key="28588" className="bg-stone-900/60 rounded-2xl overflow-hidden border border-amber-500/20 hover:border-amber-500/50 transition duration-300 flex flex-col justify-between group shadow-xl">
-                  <div>
-                    
-                      <div className="relative h-48 sm:h-52 w-full overflow-hidden">
-                        <img
-                          src="https://img.travel.rakuten.co.jp/share/HOTEL/28588/28588.jpg"
-                          alt="夕日ヶ浦温泉　丹後・食の宿　みのり旅館"
-                          className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
-                        <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
-                          ★ 4.8 (79+件)
-                        </div>
-                      </div>
-                    
-                    <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        夕日ヶ浦温泉　丹後・食の宿　みのり旅館
-                      </h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
-                        【カニの街・夕日ヶ浦】全12室の静寂な湯宿。夕日ヶ浦の天然温泉と極上の蟹料理を個室食で堪能
-                      </p>
-                      <div className="mt-3 text-xs text-stone-300">
-                        📍 京都府京丹後市網野町浜詰46-13
-                      </div>
-                    </div>
-                  </div>
-                  <div className="p-5 pt-0">
-                    <div className="pt-3 border-t border-stone-800 flex items-center justify-between">
-                      <div className="text-xs text-stone-400">
-                        目安料金: <span className="text-amber-400 font-bold text-sm">¥7,700〜</span>/人
-                      </div>
-                      <a
-                        href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D28588"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="inline-flex items-center gap-1 text-xs font-bold px-4 py-2 bg-gradient-to-r from-amber-600 to-amber-500 hover:from-amber-500 hover:to-amber-400 text-stone-950 rounded-xl transition shadow-md shadow-amber-900/30"
-                      >
-                        楽天トラベルで空室確認
-                        <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                        </svg>
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              
-                <div key="147534" className="bg-stone-900/60 rounded-2xl overflow-hidden border border-amber-500/20 hover:border-amber-500/50 transition duration-300 flex flex-col justify-between group shadow-xl">
-                  <div>
-                    
-                      <div className="relative h-48 sm:h-52 w-full overflow-hidden">
-                        <img
-                          src="https://img.travel.rakuten.co.jp/share/HOTEL/147534/147534.jpg"
-                          alt="城崎温泉　医食同源の宿　かに庵"
-                          className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
-                        <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
-                          ★ 4.3 (116+件)
-                        </div>
-                      </div>
-                    
-                    <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        城崎温泉　医食同源の宿　かに庵
-                      </h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
-                        但馬牛や松葉かになど、地産地消を基本にグルメと健康を両立した6室の宿でございます。
-                      </p>
-                      <div className="mt-3 text-xs text-stone-300">
-                        📍 兵庫県豊岡市城崎町湯島690
+                        📍 宮城県気仙沼市大島長崎81-1
                       </div>
                     </div>
                   </div>
@@ -680,7 +496,7 @@ export default function Page() {
                         目安料金: <span className="text-amber-400 font-bold text-sm">¥9,900〜</span>/人
                       </div>
                       <a
-                        href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D147534"
+                        href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D8017"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="inline-flex items-center gap-1 text-xs font-bold px-4 py-2 bg-gradient-to-r from-amber-600 to-amber-500 hover:from-amber-500 hover:to-amber-400 text-stone-950 rounded-xl transition shadow-md shadow-amber-900/30"
@@ -694,39 +510,131 @@ export default function Page() {
                   </div>
                 </div>
               
-                <div key="67854" className="bg-stone-900/60 rounded-2xl overflow-hidden border border-amber-500/20 hover:border-amber-500/50 transition duration-300 flex flex-col justify-between group shadow-xl">
+                <div key="14311" className="bg-stone-900/60 rounded-2xl overflow-hidden border border-amber-500/20 hover:border-amber-500/50 transition duration-300 flex flex-col justify-between group shadow-xl">
                   <div>
                     
                       <div className="relative h-48 sm:h-52 w-full overflow-hidden">
                         <img
-                          src="https://img.travel.rakuten.co.jp/share/HOTEL/67854/67854.jpg"
-                          alt="丹後旅の宿　万助楼（まんすけろう）"
+                          src="https://img.travel.rakuten.co.jp/share/HOTEL/14311/14311.jpg"
+                          alt="旅館　黒潮"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
                         />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
-                          ★ 4.5 (194+件)
+                          ★ 5.0 (14+件)
                         </div>
                       </div>
                     
                     <div className="p-5">
                       <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        丹後旅の宿　万助楼（まんすけろう）
+                        旅館　黒潮
                       </h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
-                        まるで竜宮城のようなロビー◆全７室がオーシャンビュー、温泉風呂付客室でごゆるりと。
+                        木のぬくもりあふれる旅館☆海の見えるウッドデッキでのバーベキューもおすすめ!
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
-                        📍 京都府京丹後市網野町浅茂川366
+                        📍 宮城県気仙沼市駒形111
                       </div>
                     </div>
                   </div>
                   <div className="p-5 pt-0">
                     <div className="pt-3 border-t border-stone-800 flex items-center justify-between">
                       <div className="text-xs text-stone-400">
-                        目安料金: <span className="text-amber-400 font-bold text-sm">¥24,200〜</span>/人
+                        目安料金: <span className="text-amber-400 font-bold text-sm">¥11,550〜</span>/人
                       </div>
                       <a
-                        href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D67854"
+                        href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D14311"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="inline-flex items-center gap-1 text-xs font-bold px-4 py-2 bg-gradient-to-r from-amber-600 to-amber-500 hover:from-amber-500 hover:to-amber-400 text-stone-950 rounded-xl transition shadow-md shadow-amber-900/30"
+                      >
+                        楽天トラベルで空室確認
+                        <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
+                        </svg>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              
+                <div key="31731" className="bg-stone-900/60 rounded-2xl overflow-hidden border border-amber-500/20 hover:border-amber-500/50 transition duration-300 flex flex-col justify-between group shadow-xl">
+                  <div>
+                    
+                      <div className="relative h-48 sm:h-52 w-full overflow-hidden">
+                        <img
+                          src="https://img.travel.rakuten.co.jp/share/HOTEL/31731/31731.jpg"
+                          alt="気仙沼大島　亀山荘"
+                          className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
+                        />
+                        <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
+                          ★ 4.6 (102+件)
+                        </div>
+                      </div>
+                    
+                    <div className="p-5">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
+                        気仙沼大島　亀山荘
+                      </h4>
+                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                        海鮮料理専門の漁師の宿。新鮮な海の幸。亀山や十八鳴浜もすぐそこに。
+                      </p>
+                      <div className="mt-3 text-xs text-stone-300">
+                        📍 宮城県気仙沼市大初平190-58
+                      </div>
+                    </div>
+                  </div>
+                  <div className="p-5 pt-0">
+                    <div className="pt-3 border-t border-stone-800 flex items-center justify-between">
+                      <div className="text-xs text-stone-400">
+                        目安料金: <span className="text-amber-400 font-bold text-sm">¥13,750〜</span>/人
+                      </div>
+                      <a
+                        href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D31731"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="inline-flex items-center gap-1 text-xs font-bold px-4 py-2 bg-gradient-to-r from-amber-600 to-amber-500 hover:from-amber-500 hover:to-amber-400 text-stone-950 rounded-xl transition shadow-md shadow-amber-900/30"
+                      >
+                        楽天トラベルで空室確認
+                        <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
+                        </svg>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              
+                <div key="13808" className="bg-stone-900/60 rounded-2xl overflow-hidden border border-amber-500/20 hover:border-amber-500/50 transition duration-300 flex flex-col justify-between group shadow-xl">
+                  <div>
+                    
+                      <div className="relative h-48 sm:h-52 w-full overflow-hidden">
+                        <img
+                          src="https://img.travel.rakuten.co.jp/share/HOTEL/13808/13808.jpg"
+                          alt="味覚のお宿　山田屋"
+                          className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
+                        />
+                        <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
+                          ★ 4.8 (195+件)
+                        </div>
+                      </div>
+                    
+                    <div className="p-5">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
+                        味覚のお宿　山田屋
+                      </h4>
+                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                        海の幸を食べに行こう♪“獲れたて”を！展望風呂からは日本海一望☆
+                      </p>
+                      <div className="mt-3 text-xs text-stone-300">
+                        📍 鳥取県鳥取市賀露町北1-5-36
+                      </div>
+                    </div>
+                  </div>
+                  <div className="p-5 pt-0">
+                    <div className="pt-3 border-t border-stone-800 flex items-center justify-between">
+                      <div className="text-xs text-stone-400">
+                        目安料金: <span className="text-amber-400 font-bold text-sm">¥7,700〜</span>/人
+                      </div>
+                      <a
+                        href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D13808"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="inline-flex items-center gap-1 text-xs font-bold px-4 py-2 bg-gradient-to-r from-amber-600 to-amber-500 hover:from-amber-500 hover:to-amber-400 text-stone-950 rounded-xl transition shadow-md shadow-amber-900/30"

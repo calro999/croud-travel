@@ -2160,6 +2160,41 @@ export default function Home() {
               <span>唐津城虹の松原・呼子朝市透明イカ活き造り宿</span>
             </Link>
             <Link
+              href="/miyagi-matsushima-shiogama-shrine-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-950 via-cyan-950 to-amber-950 hover:from-blue-900 hover:to-cyan-900 rounded-2xl shadow-lg transition border border-blue-300/40 flex items-center gap-1.5"
+            >
+              <span>⛵⛩️</span>
+              <span>日本三景松島・塩竈神社＆生マグロ・牡蠣宿</span>
+            </Link>
+            <Link
+              href="/nagano-hakuba-happo-tsugaike-alps-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-cyan-950 via-emerald-950 to-stone-900 hover:from-cyan-900 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>🏔️🧖</span>
+              <span>白馬八方池雲上パノラマ・栂池＆山岳サウナ宿</span>
+            </Link>
+            <Link
+              href="/gifu-gujo-hachiman-mino-udatsu-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-950 via-amber-950 to-stone-900 hover:from-emerald-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>🏮🏯</span>
+              <span>郡上おどり宗祇水・美濃うだつ町並み＆天然鮎宿</span>
+            </Link>
+            <Link
+              href="/kyoto-amanohashidate-ine-funaya-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-teal-950 via-blue-950 to-indigo-950 hover:from-teal-900 hover:to-blue-900 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>🦀🛶</span>
+              <span>天橋立股のぞき・伊根の舟屋＆幻の間人ガニ宿</span>
+            </Link>
+            <Link
+              href="/miyazaki-nichinan-obi-castle-aoshima-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-950 via-orange-950 to-rose-950 hover:from-amber-900 hover:to-orange-900 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🗿⛩️</span>
+              <span>青島鬼の洗濯板・モアイ像＆飫肥城下町宿</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >
