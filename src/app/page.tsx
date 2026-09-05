@@ -1985,6 +1985,41 @@ export default function Home() {
               <span>高千穂峡真名井の滝・天安河原神話宿</span>
             </Link>
             <Link
+              href="/nagano-suwa-lake-onbashira-shrine-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-sky-950 via-indigo-950 to-amber-950 hover:from-sky-900 hover:to-indigo-900 rounded-2xl shadow-lg transition border border-sky-300/40 flex items-center gap-1.5"
+            >
+              <span>⛵⛩️</span>
+              <span>諏訪湖・諏訪大社四社まいり＆酒蔵宿</span>
+            </Link>
+            <Link
+              href="/kochi-katsurahama-castle-hirome-market-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-950 via-cyan-950 to-amber-950 hover:from-blue-900 hover:to-cyan-900 rounded-2xl shadow-lg transition border border-blue-300/40 flex items-center gap-1.5"
+            >
+              <span>🌊🐟</span>
+              <span>高知桂浜・ひろめ市場カツオ藁焼き宿</span>
+            </Link>
+            <Link
+              href="/gunma-minakami-tanigawadake-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-950 via-stone-900 to-teal-950 hover:from-emerald-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>⛰️♨️</span>
+              <span>水上温泉郷・谷川岳一ノ倉沢＆巨石露天宿</span>
+            </Link>
+            <Link
+              href="/aomori-hirosaki-castle-cherry-apple-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-950 via-red-950 to-amber-950 hover:from-rose-900 hover:to-red-900 rounded-2xl shadow-lg transition border border-rose-300/40 flex items-center gap-1.5"
+            >
+              <span>🌸🍎</span>
+              <span>弘前城桜花筏・洋館＆津軽三味線宿</span>
+            </Link>
+            <Link
+              href="/nara-yoshino-cherry-mountain-temple-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-pink-950 via-purple-950 to-amber-950 hover:from-pink-900 hover:to-purple-900 rounded-2xl shadow-lg transition border border-pink-300/40 flex items-center gap-1.5"
+            >
+              <span>🌸🏯</span>
+              <span>吉野山一目千本桜・金峯山寺蔵王堂宿</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >
