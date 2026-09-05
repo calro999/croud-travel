@@ -2363,6 +2363,34 @@ export default function Home() {
               <span>古民家再生・町家オーベルジュ！歴史文化財ホテル滞在記</span>
             </Link>
             <Link
+              href="/furusato-tax-themepark-aquarium-family-hotel-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-blue-950 via-teal-950 to-amber-950 hover:from-blue-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🐬🎢</span>
+              <span>水族館・テーマパーク直結ホテル！鴨川・白浜・富士急パスポート付き宿</span>
+            </Link>
+            <Link
+              href="/furusato-tax-starry-sky-astronomy-retreat-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-indigo-200 bg-gradient-to-r from-indigo-950 via-blue-950 to-slate-900 hover:from-indigo-900 hover:to-blue-900 rounded-2xl shadow-lg transition border border-indigo-400/50 flex items-center gap-1.5"
+            >
+              <span>🌌🔭</span>
+              <span>日本三大星空・天体観測リゾート！阿智村・八ヶ岳・大山の満天星空宿</span>
+            </Link>
+            <Link
+              href="/furusato-tax-award-winning-breakfast-gourmet-hotel-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-yellow-200 bg-gradient-to-r from-amber-950 via-orange-950 to-yellow-950 hover:from-amber-900 hover:to-orange-900 rounded-2xl shadow-lg transition border border-yellow-400/50 flex items-center gap-1.5"
+            >
+              <span>🍳🍚</span>
+              <span>朝食日本一・究極の朝ごはんホテル！函館いくら盛り放題＆神戸ビュッフェ</span>
+            </Link>
+            <Link
+              href="/furusato-tax-waterfall-river-gorge-healing-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-emerald-200 bg-gradient-to-r from-emerald-950 via-teal-950 to-cyan-950 hover:from-emerald-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-emerald-400/50 flex items-center gap-1.5"
+            >
+              <span>🌊🌲</span>
+              <span>清流渓谷＆名瀑ヒーリング温泉宿！奥入瀬・天城・作並の滝見露天風呂</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >

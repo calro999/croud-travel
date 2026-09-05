@@ -33,6 +33,10 @@
 - [全室離れの隠れ家おこもり宿×極上プライベートヴィラ](https://croud-travel.pages.dev/furusato-tax-private-villa-hanare-hideaway-stay): 由布院・伊豆高原・定山渓の静寂と美食ステイ
 - [全国桜名所お花見温泉×春爛漫の桜花露天風呂ガイド](https://croud-travel.pages.dev/furusato-tax-cherry-blossom-spring-hanami-onsen-stay): 弘前・伊豆河津・吉野山の桜と温泉巡り旅
 - [古民家再生・歴史的町家オーベルジュ×文化財ホテル滞在記](https://croud-travel.pages.dev/furusato-tax-kominka-heritage-townhouse-auberge-stay): 篠山・飛騨高山・竹田城下の歴史情緒と地産馳走ステイ
+- [水族館・テーマパーク直結ホテル×ふるさと納税活用ガイド](https://croud-travel.pages.dev/furusato-tax-themepark-aquarium-family-hotel-stay): 鴨川シーワールド・白浜アドベンチャーワールド・富士急ハイランドのパスポート付き宿
+- [日本三大星空・天体観測リゾート×ふるさと納税完全ガイド](https://croud-travel.pages.dev/furusato-tax-starry-sky-astronomy-retreat-stay): 阿智村・八ヶ岳清里・鳥取大山の満天星空リゾート
+- [朝食日本一受賞・究極の朝ごはんホテル×ふるさと納税完全ガイド](https://croud-travel.pages.dev/furusato-tax-award-winning-breakfast-gourmet-hotel-stay): 函館・神戸・金沢のいくら盛り放題＆美食ビュッフェ
+- [清流渓谷＆名瀑ヒーリング温泉宿×ふるさと納税完全ガイド](https://croud-travel.pages.dev/furusato-tax-waterfall-river-gorge-healing-onsen-stay): 奥入瀬渓流・天城湯ヶ島・作並温泉の滝見露天宿
 
 ## 都道府県別観光＆宿泊ガイド
 - [HOKKAIDO 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/hokkaido)
