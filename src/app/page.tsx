@@ -1810,6 +1810,41 @@ export default function Home() {
               <span>城崎温泉七つの外湯・本松葉ガニ宿</span>
             </Link>
             <Link
+              href="/barrel-sauna-wood-stove-nature-totonoi-resort-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-950 via-teal-950 to-stone-900 hover:from-emerald-900 hover:to-stone-850 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>🪵🔥</span>
+              <span>本格バレルサウナ＆薪ストーブ宿</span>
+            </Link>
+            <Link
+              href="/panoramic-view-sauna-fuji-ocean-lake-resort-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-sky-950 via-indigo-950 to-purple-950 hover:from-sky-900 hover:to-purple-900 rounded-2xl shadow-lg transition border border-sky-300/40 flex items-center gap-1.5"
+            >
+              <span>🗻🌅</span>
+              <span>富士・海・夜景パノラマ絶景サウナ</span>
+            </Link>
+            <Link
+              href="/pure-natural-spring-water-bath-totonoi-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-teal-950 via-cyan-950 to-blue-950 hover:from-teal-900 hover:to-blue-900 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>💧🧖‍♂️</span>
+              <span>地下天然水・飲める名水水風呂宿</span>
+            </Link>
+            <Link
+              href="/herbal-steam-ayurveda-detox-wellness-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-950 via-pink-950 to-emerald-950 hover:from-rose-900 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-pink-300/40 flex items-center gap-1.5"
+            >
+              <span>🌿🧘‍♀️</span>
+              <span>薬草蒸し＆アーユルヴェーダ宿</span>
+            </Link>
+            <Link
+              href="/private-room-sauna-luxury-villa-retreat-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-100 bg-gradient-to-r from-stone-900 via-amber-950 to-emerald-950 hover:from-stone-850 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-amber-400/40 flex items-center gap-1.5"
+            >
+              <span>🚪✨</span>
+              <span>客室専用サウナ＆貸切ヴィラ宿</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >
