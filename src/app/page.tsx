@@ -2279,6 +2279,34 @@ export default function Home() {
               <span>奇跡の名湯！強炭酸泉・泥湯・三大美肌の湯リトリート</span>
             </Link>
             <Link
+              href="/furusato-tax-winter-crab-gourmet-luxury-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-red-950 via-stone-900 to-amber-950 hover:from-red-900 hover:to-stone-800 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🦀♨️</span>
+              <span>冬の味覚の王様！越前ガニ・松葉ガニタグ付き活蟹宿</span>
+            </Link>
+            <Link
+              href="/furusato-tax-remote-island-luxury-resort-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-cyan-950 via-teal-950 to-amber-950 hover:from-cyan-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🏝️🌊</span>
+              <span>大人の隠れ家・極上離島！屋久島・奄美・石垣ヴィラ</span>
+            </Link>
+            <Link
+              href="/furusato-tax-winery-craft-beer-auberge-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-purple-950 via-stone-900 to-amber-950 hover:from-purple-900 hover:to-stone-800 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🍷🍺</span>
+              <span>ワイン＆地ビール！ぶどう畑望む醸造オーベルジュ</span>
+            </Link>
+            <Link
+              href="/furusato-tax-welcome-baby-family-kids-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-pink-950 via-rose-950 to-amber-950 hover:from-pink-900 hover:to-rose-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>👶🍼</span>
+              <span>赤ちゃん連れ安心！ウェルカムベビー認定＆離乳食の宿</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >

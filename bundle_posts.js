@@ -240,6 +240,10 @@ Sitemap: ${BASE_URL}/sitemap-posts.xml
 - [おひとり様贅沢ソロ温泉ワーケーション旅](${BASE_URL}/furusato-tax-solo-retreat-private-onsen-stay): 四万・別所・黒川の客室露天風呂宿
 - [国宝名城めぐり×城下町老舗名宿ガイド](${BASE_URL}/furusato-tax-castle-town-heritage-onsen-stay): 姫路・松本・彦根の天守展望露天風呂宿
 - [奇跡の名湯×強炭酸泉・泥湯・美肌温泉リトリート](${BASE_URL}/furusato-tax-bihada-medicinal-springs-retreat-stay): 長湯・霧島・嬉野の本格薬湯治ステイ
+- [冬の味覚の王様×活蟹尽くし極上温泉宿ガイド](${BASE_URL}/furusato-tax-winter-crab-gourmet-luxury-stay): 城崎・三国・皆生のタグ付き松葉ガニ＆越前ガニ会席
+- [大人の隠れ家・極上の離島リゾートステイ](${BASE_URL}/furusato-tax-remote-island-luxury-resort-stay): 屋久島・奄美大島・石垣島の自然遺産ヴィラ
+- [ワイン＆地ビール×醸造オーベルジュ旅ガイド](${BASE_URL}/furusato-tax-winery-craft-beer-auberge-stay): 勝沼・富良野・余市のワイナリーホテル
+- [赤ちゃん・未就学児連れ安心ウェルカムベビー宿](${BASE_URL}/furusato-tax-welcome-baby-family-kids-stay): 熱海・那須・南房総の離乳食＆貸切風呂完備宿
 
 ## 都道府県別観光＆宿泊ガイド
 `;
