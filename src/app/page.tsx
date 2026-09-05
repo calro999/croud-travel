@@ -1915,6 +1915,41 @@ export default function Home() {
               <span>川平湾マンタ・八重山離島＆石垣牛宿</span>
             </Link>
             <Link
+              href="/zen-meditation-shojin-cuisine-temple-retreat-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-stone-900 via-stone-850 to-amber-950 hover:from-stone-800 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-400/40 flex items-center gap-1.5"
+            >
+              <span>🧘‍♂️🥢</span>
+              <span>禅寺坐禅体験＆精進料理宿坊</span>
+            </Link>
+            <Link
+              href="/tea-ceremony-authentic-chashitsu-matcha-ryokan-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-950 via-teal-950 to-stone-900 hover:from-emerald-900 hover:to-stone-850 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>🍵🍡</span>
+              <span>茶道本格茶室＆抹茶体験数寄屋宿</span>
+            </Link>
+            <Link
+              href="/shakyo-meditation-mindfulness-sacred-temple-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-stone-850 via-slate-900 to-amber-950 hover:from-stone-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>✍️🕉️</span>
+              <span>写経・写仏＆瞑想マインドフルネス宿</span>
+            </Link>
+            <Link
+              href="/samurai-katana-armor-buke-yashiki-heritage-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-red-950 via-stone-900 to-amber-950 hover:from-red-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-red-300/40 flex items-center gap-1.5"
+            >
+              <span>⚔️🏯</span>
+              <span>武家屋敷＆サムライ甲冑体験宿</span>
+            </Link>
+            <Link
+              href="/traditional-crafts-pottery-gold-leaf-washi-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-900 via-orange-950 to-yellow-950 hover:from-amber-800 hover:to-yellow-900 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🏺✨</span>
+              <span>金箔・和紙・有田焼伝統工芸宿</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >
