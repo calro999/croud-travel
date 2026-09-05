@@ -58,6 +58,7 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【おすすめ宿】ペンション　どんぐり　＜福島県＞の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/129557): ペンション　どんぐり　＜福島県＞（福島県）
 - [【山形県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/50620): 肘折温泉　優心の宿　観月（山形県）
 - [【おすすめ宿】三井ガーデンホテル福岡祇園の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/172316): 三井ガーデンホテル福岡祇園（福岡県）
 - [【長崎県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/41803): 雲仙温泉・源泉かけ流し＆おしどりの池を望む美食の宿　東園（長崎県）
@@ -107,4 +108,3 @@
 - [【酸ヶ湯温泉旅館】カップル・夫婦記念日ステイ！客室露天風呂・贅沢会席・静かな滞在の口コミ](https://croud-travel.pages.dev/posts/sukayu-onsen-thousand-people-bath-aomori-guide): 酸ヶ湯温泉旅館（青森県）
 - [【武雄温泉 なかます旅館】カップル・夫婦記念日ステイ！客室露天風呂・贅沢会席・静かな滞在の口コミ](https://croud-travel.pages.dev/posts/takeo-onsen-romon-saga-beef-guide): 武雄温泉　なかます旅館（佐賀県）
 - [【島根・玉造温泉】神の湯・日本最古の美肌温泉おすすめ宿7選！出雲大社参拝としまね和牛](https://croud-travel.pages.dev/posts/tamatsukuri-onsen-bihada-magatama-guide): 玉造温泉　源泉かけ流しの宿　湯陣　千代の湯（島根県）
-- [【長野・千曲】戸倉上山田温泉 梅むら旅館 うぐいす亭！ほのかな硫黄香る美肌湯と信州美味](https://croud-travel.pages.dev/posts/togurakamiyamada-uguisutei-onsen-guide): 戸倉上山田温泉　梅むら旅館　うぐいす亭〈長野県〉（長野県）

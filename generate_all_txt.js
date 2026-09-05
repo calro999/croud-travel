@@ -54,6 +54,17 @@ function scanOutDir(dir, base = '') {
       results = results.concat(scanOutDir(fullPath, urlPath));
     } else if (entry.name === 'index.html' || (entry.name.endsWith('.html') && entry.name !== '404.html')) {
       const cleanUrl = urlPath.replace(/\/index\.html$/, '').replace(/\.html$/, '') || '/';
+      
+      // システムファイル・404・Google認証ファイルを除外
+      if (
+        cleanUrl === '/404' ||
+        cleanUrl.includes('/_not-found') ||
+        cleanUrl.includes('google') ||
+        cleanUrl === '/_error'
+      ) {
+        continue;
+      }
+
       results.push({
         filePath: fullPath,
         url: cleanUrl
