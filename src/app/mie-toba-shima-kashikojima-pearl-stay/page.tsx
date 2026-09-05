@@ -3,10 +3,10 @@ import Link from 'next/link';
 import Image from 'next/image';
 
 export const metadata: Metadata = {
-  title: '【福島・裏磐梯＆五色沼】神秘の湖沼群・桧原湖カヌー＆磐梯高原リゾート宿 完全ガイド ｜ 日本全国・旅宿クラウド',
-  description: '磐梯山噴火が創り出した奇跡の景観「五色沼湖沼群」のエメラルド・コバルトブルーの水面、裏磐梯最大の「桧原湖」カヌー・遊覧船、紅葉ドライブの名所「磐梯山ゴールドライン」、満天の星空と源泉かけ流し高原温泉リゾートを徹底解説。',
+  title: '【三重・鳥羽＆志摩・賢島】英虞湾夕日・鳥羽水族館＆伊勢海老・海女小屋宿 完全ガイド ｜ 日本全国・旅宿クラウド',
+  description: '大小60余の島々が織りなすリアス式海岸「英虞湾」の夕景パノラマ、サミット開催地「賢島」、世界初の真珠養殖成功「ミキモト真珠島」、飼育種類数日本一「鳥羽水族館」、現役海女が炭火で焼く本場の伊勢海老・鮑を堪能する極上リゾート宿を徹底解説。',
   keywords: [
-    '【福島・磐梯高原＆裏磐梯・五色沼】五色沼神秘の湖沼群・桧原湖カヌー＆高原リゾート宿 完全ガイド',
+    '【三重・鳥羽＆志摩・賢島】英虞湾リアス式夕日・ミキモト真珠島＆伊勢海老海女小屋宿 完全ガイド',
     '観光モデルコース',
     'おすすめ旅館',
     'おすすめホテル',
@@ -15,10 +15,10 @@ export const metadata: Metadata = {
     'ご当地グルメ'
   ],
   openGraph: {
-    title: '【福島・裏磐梯＆五色沼】神秘の湖沼群・桧原湖カヌー＆磐梯高原リゾート宿 完全ガイド ｜ 日本全国・旅宿クラウド',
-    description: '磐梯山噴火が創り出した奇跡の景観「五色沼湖沼群」のエメラルド・コバルトブルーの水面、裏磐梯最大の「桧原湖」カヌー・遊覧船、紅葉ドライブの名所「磐梯山ゴールドライン」、満天の星空と源泉かけ流し高原温泉リゾートを徹底解説。',
+    title: '【三重・鳥羽＆志摩・賢島】英虞湾夕日・鳥羽水族館＆伊勢海老・海女小屋宿 完全ガイド ｜ 日本全国・旅宿クラウド',
+    description: '大小60余の島々が織りなすリアス式海岸「英虞湾」の夕景パノラマ、サミット開催地「賢島」、世界初の真珠養殖成功「ミキモト真珠島」、飼育種類数日本一「鳥羽水族館」、現役海女が炭火で焼く本場の伊勢海老・鮑を堪能する極上リゾート宿を徹底解説。',
     type: 'article',
-    url: 'https://croud-travel.com/fukushima-urabandai-goshikinuma-lake-stay',
+    url: 'https://croud-travel.com/mie-toba-shima-kashikojima-pearl-stay',
   },
 };
 
@@ -30,13 +30,13 @@ export default function Page() {
         <div className="max-w-5xl mx-auto text-center">
           <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-amber-500/10 border border-amber-500/30 text-amber-300 text-xs sm:text-sm font-black mb-6">
             <span>🗺️</span>
-            <span>URABANDAI & GOSHIKINUMA GUIDE</span>
+            <span>TOBA & SHIMA KASHIKOJIMA GUIDE</span>
           </div>
           <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-white tracking-tight mb-6 leading-tight">
-            【福島・磐梯高原＆裏磐梯・五色沼】五色沼神秘の湖沼群・桧原湖カヌー＆高原リゾート宿 完全ガイド
+            【三重・鳥羽＆志摩・賢島】英虞湾リアス式夕日・ミキモト真珠島＆伊勢海老海女小屋宿 完全ガイド
           </h1>
           <p className="max-w-3xl mx-auto text-stone-300 text-sm sm:text-base md:text-lg leading-relaxed mb-8">
-            明治21年の磐梯山大噴火によって川が堰き止められ、奇跡的に誕生した神秘の高原地帯「裏磐梯」。水酸化鉄などの鉱物成分と光の反射により沼ごとにエメラルドグリーン、コバルトブルー、ターコイズと色彩を変える「五色沼湖沼群」。手漕ぎボートやカヌーで島々を巡る「桧原湖」。秋には黄金色のブナ原生林が全山を染め上げます。日常を離れ、清らかな水と森に包まれる高原リゾートステイへご案内します。
+            波静かな伊勢志摩国立公園のリアス式海岸。夕暮れ時に真珠養殖の筏（いかだ）と小島が黄金色に染まる日本屈指の絶景「英虞湾」。世界の要人を魅了したサミットの舞台「賢島」。世界で初めて真珠の養殖に成功した御木本幸吉の情熱を伝える「ミキモト真珠島」と、ラッコやジュゴンに出逢える「鳥羽水族館」。そして現役の海女さんが目の前で焼き上げる本場の伊勢海老・あわび・サザエ。海と自然の恵みに満たされる伊勢志摩ステイへご案内します。
           </p>
 
           <div className="flex flex-wrap items-center justify-center gap-4 text-xs font-bold text-stone-400">
@@ -58,31 +58,31 @@ export default function Page() {
         <section className="bg-stone-900/40 rounded-3xl p-6 sm:p-8 md:p-10 border border-amber-500/20 backdrop-blur-md relative overflow-hidden shadow-2xl">
           <div className="absolute top-0 right-0 w-80 h-80 bg-amber-500/5 rounded-full blur-3xl pointer-events-none" />
           <div className="inline-block px-3 py-1 bg-amber-500/10 border border-amber-500/30 rounded-full text-xs font-bold text-amber-300 mb-4">
-            ミシュラン・グリーンガイド二つ星の神秘
+            夕暮れの英虞湾とサミットの舞台
           </div>
           <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">
-            1. 五色沼湖沼群「自然探勝路」〜青沼・毘沙門沼・弁天沼（色彩が変化する奇跡の沼）
+            1. 英虞湾パノラマ・賢島エスパーニャクルーズ＆横山展望台（真珠の海の黄昏）
           </h2>
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed mb-6">
-            毘沙門沼、赤沼、みどろ沼、竜沼、弁天沼、るり沼、青沼、柳沼など大小の湖沼が連なる「五色沼」。片道約3.6km（徒歩約70〜80分）の平坦な探勝路が整備され、木漏れ日の中を進むごとに鮮やかなコバルトブルーからミルキーな青緑色へとドラマチックに変化します。最大の「毘沙門沼」では手漕ぎボートに乗ることができ、水面に映る磐梯山の荒々しい火口壁の姿は圧巻です。
+            リアス式海岸の代表格として知られる英虞湾。標高140mの「横山展望台（天空カフェテラス）」から見下ろす複雑に入り組んだ海岸線と真珠筏のパノラマは息を呑む美しさ。湾内に浮かぶ最大の島「賢島」からは、スペイン帆船型遊覧船「エスペランサ」に乗って爽快なクルーズへ。真珠モデル工場への寄港などクルーズならではの体験も。湾を望む高台には世界的リゾートホテルが建ち並びます。
           </p>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-8 text-xs sm:text-sm">
             <div className="bg-stone-950/60 p-4 rounded-2xl border border-stone-800">
               <span className="text-amber-400 font-bold block mb-1">🗓️ ベストシーズン・見どころ</span>
-              <span className="text-stone-300">通年（春〜夏の新緑トレッキング、10月中旬〜11月上旬の錦秋紅葉、冬のスノーシュー）</span>
+              <span className="text-stone-300">通年（特に秋〜冬の澄み渡る夕日グラデーション、春の青い海原峡）</span>
             </div>
             <div className="bg-stone-950/60 p-4 rounded-2xl border border-stone-800">
               <span className="text-amber-400 font-bold block mb-1">📍 主な見どころ・スポット</span>
-              <span className="text-stone-300">五色沼自然探勝路（毘沙門沼・青沼・弁天沼）、裏磐梯ビジターセンター、裏磐梯物産館、中瀬沼展望台</span>
+              <span className="text-stone-300">横山展望台（ミラドール志摩）、賢島エスパーニャクルーズ、志摩地中海村、志摩スペイン村パルケエスパーニャ、ともやま展望台</span>
             </div>
             <div className="bg-stone-950/60 p-4 rounded-2xl border border-stone-800">
               <span className="text-amber-400 font-bold block mb-1">🚗 交通アクセス</span>
-              <span className="text-stone-300">JR磐越西線「猪苗代駅」より磐梯東都バスで約30分（五色沼入口下車）。磐越自動車道「猪苗代磐梯高原IC」より約25分。</span>
+              <span className="text-stone-300">近鉄特急で「賢島駅」下車（近鉄名古屋から約2時間、大阪難波から約2時間20分）。伊勢道「伊勢IC」より伊勢道路経由約45分。</span>
             </div>
             <div className="bg-stone-950/60 p-4 rounded-2xl border border-stone-800">
               <span className="text-amber-400 font-bold block mb-1">💡 旅のワンポイント・秘訣</span>
-              <span className="text-stone-300">毘沙門沼には「お腹にハートマークの模様がある白い錦鯉」が生息しており、見つけると幸せになれるという都市伝説があります。</span>
+              <span className="text-stone-300">「ともやま展望台」は英虞湾越しに夕日が沈む瞬間を真正面に捉えることができる、写真愛好家垂涎の夕景撮影スポットです。</span>
             </div>
           </div>
 
@@ -94,121 +94,29 @@ export default function Page() {
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose mt-6">
               
-                <div key="151377" className="bg-stone-900/60 rounded-2xl overflow-hidden border border-amber-500/20 hover:border-amber-500/50 transition duration-300 flex flex-col justify-between group shadow-xl">
+                <div key="67941" className="bg-stone-900/60 rounded-2xl overflow-hidden border border-amber-500/20 hover:border-amber-500/50 transition duration-300 flex flex-col justify-between group shadow-xl">
                   <div>
                     
                       <div className="relative h-48 sm:h-52 w-full overflow-hidden">
                         <img
-                          src="https://img.travel.rakuten.co.jp/share/HOTEL/151377/151377.jpg"
-                          alt="裏磐梯レイクリゾート　迎賓館　猫魔離宮（旧：裏磐梯猫魔ホテル）"
+                          src="https://img.travel.rakuten.co.jp/share/HOTEL/67941/67941.jpg"
+                          alt="都リゾート　奥志摩　アクアフォレスト"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
                         />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
-                          ★ 4.5 (827+件)
+                          ★ 4.3 (3043+件)
                         </div>
                       </div>
                     
                     <div className="p-5">
                       <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        裏磐梯レイクリゾート　迎賓館　猫魔離宮（旧：裏磐梯猫魔ホテル）
+                        都リゾート　奥志摩　アクアフォレスト
                       </h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
-                        気取らない贅沢、心やわらぐ宮殿リゾートで非日常体験を。宿泊者専用温泉を完備。
+                        豊かな大自然と美しい英虞湾に囲まれたシーサイドリゾート　天然温泉、天文館　わんちゃん宿泊可コテージ
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
-                        📍 福島県耶麻郡北塩原村大字桧原字湯平山1171-1　
-                      </div>
-                    </div>
-                  </div>
-                  <div className="p-5 pt-0">
-                    <div className="pt-3 border-t border-stone-800 flex items-center justify-between">
-                      <div className="text-xs text-stone-400">
-                        目安料金: <span className="text-amber-400 font-bold text-sm">¥10,300〜</span>/人
-                      </div>
-                      <a
-                        href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D151377"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="inline-flex items-center gap-1 text-xs font-bold px-4 py-2 bg-gradient-to-r from-amber-600 to-amber-500 hover:from-amber-500 hover:to-amber-400 text-stone-950 rounded-xl transition shadow-md shadow-amber-900/30"
-                      >
-                        楽天トラベルで空室確認
-                        <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                        </svg>
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              
-                <div key="149014" className="bg-stone-900/60 rounded-2xl overflow-hidden border border-amber-500/20 hover:border-amber-500/50 transition duration-300 flex flex-col justify-between group shadow-xl">
-                  <div>
-                    
-                      <div className="relative h-48 sm:h-52 w-full overflow-hidden">
-                        <img
-                          src="https://img.travel.rakuten.co.jp/share/HOTEL/149014/149014.jpg"
-                          alt="裏磐梯レイクリゾート　本館　五色の森（旧：裏磐梯猫魔ホテル）"
-                          className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
-                        <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
-                          ★ 4.3 (2146+件)
-                        </div>
-                      </div>
-                    
-                    <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        裏磐梯レイクリゾート　本館　五色の森（旧：裏磐梯猫魔ホテル）
-                      </h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
-                        五色沼まで徒歩3分。エリア唯一の自噴式源泉かけ流しとライブキッチン＆会津野菜の50種バイキングを満喫
-                      </p>
-                      <div className="mt-3 text-xs text-stone-300">
-                        📍 福島県耶麻郡北塩原村大字桧原字湯平山1171-1　
-                      </div>
-                    </div>
-                  </div>
-                  <div className="p-5 pt-0">
-                    <div className="pt-3 border-t border-stone-800 flex items-center justify-between">
-                      <div className="text-xs text-stone-400">
-                        目安料金: <span className="text-amber-400 font-bold text-sm">¥11,800〜</span>/人
-                      </div>
-                      <a
-                        href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D149014"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="inline-flex items-center gap-1 text-xs font-bold px-4 py-2 bg-gradient-to-r from-amber-600 to-amber-500 hover:from-amber-500 hover:to-amber-400 text-stone-950 rounded-xl transition shadow-md shadow-amber-900/30"
-                      >
-                        楽天トラベルで空室確認
-                        <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                        </svg>
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              
-                <div key="165779" className="bg-stone-900/60 rounded-2xl overflow-hidden border border-amber-500/20 hover:border-amber-500/50 transition duration-300 flex flex-col justify-between group shadow-xl">
-                  <div>
-                    
-                      <div className="relative h-48 sm:h-52 w-full overflow-hidden">
-                        <img
-                          src="https://img.travel.rakuten.co.jp/share/HOTEL/165779/165779.jpg"
-                          alt="サイズリゾートホテル裏磐梯"
-                          className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        />
-                        <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
-                          ★ 4.2 (415+件)
-                        </div>
-                      </div>
-                    
-                    <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        サイズリゾートホテル裏磐梯
-                      </h4>
-                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
-                        みずみずしい自然にあふれた裏磐梯。五色沼まで徒歩5分♪
-                      </p>
-                      <div className="mt-3 text-xs text-stone-300">
-                        📍 福島県耶麻郡北塩原村桧原剣ケ峰1093-255
+                        📍 三重県志摩市大王町船越3238-1
                       </div>
                     </div>
                   </div>
@@ -218,7 +126,7 @@ export default function Page() {
                         目安料金: <span className="text-amber-400 font-bold text-sm">¥6,600〜</span>/人
                       </div>
                       <a
-                        href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D165779"
+                        href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D67941"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="inline-flex items-center gap-1 text-xs font-bold px-4 py-2 bg-gradient-to-r from-amber-600 to-amber-500 hover:from-amber-500 hover:to-amber-400 text-stone-950 rounded-xl transition shadow-md shadow-amber-900/30"
@@ -232,39 +140,131 @@ export default function Page() {
                   </div>
                 </div>
               
-                <div key="16676" className="bg-stone-900/60 rounded-2xl overflow-hidden border border-amber-500/20 hover:border-amber-500/50 transition duration-300 flex flex-col justify-between group shadow-xl">
+                <div key="13971" className="bg-stone-900/60 rounded-2xl overflow-hidden border border-amber-500/20 hover:border-amber-500/50 transition duration-300 flex flex-col justify-between group shadow-xl">
                   <div>
                     
                       <div className="relative h-48 sm:h-52 w-full overflow-hidden">
                         <img
-                          src="https://img.travel.rakuten.co.jp/share/HOTEL/16676/16676.jpg"
-                          alt="メルキュール裏磐梯リゾート＆スパ"
+                          src="https://img.travel.rakuten.co.jp/share/HOTEL/13971/13971.jpg"
+                          alt="グランドメルキュール伊勢志摩リゾート＆スパ"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
                         />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
-                          ★ 4.1 (2463+件)
+                          ★ 4.0 (4134+件)
                         </div>
                       </div>
                     
                     <div className="p-5">
                       <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        メルキュール裏磐梯リゾート＆スパ
+                        グランドメルキュール伊勢志摩リゾート＆スパ
                       </h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
-                        4月1日よりディナービュッフェがリニューアル♪
+                        心と身体が満たされる、海と森に抱かれる贅沢なひととき
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
-                        📍 福島県耶麻郡北塩原村桧原剣ヶ峯1093－309
+                        📍 三重県志摩市磯部町的矢笠取939-6
                       </div>
                     </div>
                   </div>
                   <div className="p-5 pt-0">
                     <div className="pt-3 border-t border-stone-800 flex items-center justify-between">
                       <div className="text-xs text-stone-400">
-                        目安料金: <span className="text-amber-400 font-bold text-sm">¥5,184〜</span>/人
+                        目安料金: <span className="text-amber-400 font-bold text-sm">¥5,120〜</span>/人
                       </div>
                       <a
-                        href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D16676"
+                        href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D13971"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="inline-flex items-center gap-1 text-xs font-bold px-4 py-2 bg-gradient-to-r from-amber-600 to-amber-500 hover:from-amber-500 hover:to-amber-400 text-stone-950 rounded-xl transition shadow-md shadow-amber-900/30"
+                      >
+                        楽天トラベルで空室確認
+                        <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
+                        </svg>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              
+                <div key="7770" className="bg-stone-900/60 rounded-2xl overflow-hidden border border-amber-500/20 hover:border-amber-500/50 transition duration-300 flex flex-col justify-between group shadow-xl">
+                  <div>
+                    
+                      <div className="relative h-48 sm:h-52 w-full overflow-hidden">
+                        <img
+                          src="https://img.travel.rakuten.co.jp/share/HOTEL/7770/7770.jpg"
+                          alt="ホテル志摩スペイン村"
+                          className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
+                        />
+                        <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
+                          ★ 4.5 (2571+件)
+                        </div>
+                      </div>
+                    
+                    <div className="p-5">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
+                        ホテル志摩スペイン村
+                      </h4>
+                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                        南スペインの優雅な雰囲気が漂うリゾートホテル
+                      </p>
+                      <div className="mt-3 text-xs text-stone-300">
+                        📍 三重県志摩市磯部町坂崎
+                      </div>
+                    </div>
+                  </div>
+                  <div className="p-5 pt-0">
+                    <div className="pt-3 border-t border-stone-800 flex items-center justify-between">
+                      <div className="text-xs text-stone-400">
+                        目安料金: <span className="text-amber-400 font-bold text-sm">¥8,000〜</span>/人
+                      </div>
+                      <a
+                        href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D7770"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="inline-flex items-center gap-1 text-xs font-bold px-4 py-2 bg-gradient-to-r from-amber-600 to-amber-500 hover:from-amber-500 hover:to-amber-400 text-stone-950 rounded-xl transition shadow-md shadow-amber-900/30"
+                      >
+                        楽天トラベルで空室確認
+                        <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
+                        </svg>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              
+                <div key="191475" className="bg-stone-900/60 rounded-2xl overflow-hidden border border-amber-500/20 hover:border-amber-500/50 transition duration-300 flex flex-col justify-between group shadow-xl">
+                  <div>
+                    
+                      <div className="relative h-48 sm:h-52 w-full overflow-hidden">
+                        <img
+                          src="https://img.travel.rakuten.co.jp/share/HOTEL/191475/191475.jpg"
+                          alt="ＴＨＥ　ＨＩＲＡＭＡＴＳＵ　ＨＯＴＥＬＳ　＆　ＲＥＳＯＲＴＳ　賢島"
+                          className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
+                        />
+                        <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
+                          ★ 4.8 (20+件)
+                        </div>
+                      </div>
+                    
+                    <div className="p-5">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
+                        ＴＨＥ　ＨＩＲＡＭＡＴＳＵ　ＨＯＴＥＬＳ　＆　ＲＥＳＯＲＴＳ　賢島
+                      </h4>
+                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                        伊勢志摩の豊かな食材を愉しむ料理、温泉、スパが心と体を癒す究極のスモールラグジュアリー
+                      </p>
+                      <div className="mt-3 text-xs text-stone-300">
+                        📍 三重県志摩市阿児町鵜方3618-52
+                      </div>
+                    </div>
+                  </div>
+                  <div className="p-5 pt-0">
+                    <div className="pt-3 border-t border-stone-800 flex items-center justify-between">
+                      <div className="text-xs text-stone-400">
+                        目安料金: <span className="text-amber-400 font-bold text-sm">¥83,200〜</span>/人
+                      </div>
+                      <a
+                        href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D191475"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="inline-flex items-center gap-1 text-xs font-bold px-4 py-2 bg-gradient-to-r from-amber-600 to-amber-500 hover:from-amber-500 hover:to-amber-400 text-stone-950 rounded-xl transition shadow-md shadow-amber-900/30"
@@ -289,31 +289,31 @@ export default function Page() {
         <section className="bg-stone-900/40 rounded-3xl p-6 sm:p-8 md:p-10 border border-amber-500/20 backdrop-blur-md relative overflow-hidden shadow-2xl">
           <div className="absolute top-0 right-0 w-80 h-80 bg-amber-500/5 rounded-full blur-3xl pointer-events-none" />
           <div className="inline-block px-3 py-1 bg-amber-500/10 border border-amber-500/30 rounded-full text-xs font-bold text-amber-300 mb-4">
-            裏磐梯最大の湖とアウトドアアクティビティ
+            飼育種類日本一の水族館と真珠の聖地
           </div>
           <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">
-            2. 桧原湖カヌー体験・モーターボートクルーズ＆磐梯山ゴールドライン絶景ドライブ
+            2. 鳥羽水族館（ジュゴン・ラッコ）＆ミキモト真珠島・海女の潜水実演
           </h2>
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed mb-6">
-            周囲約31km、磐梯山噴火で生まれた裏磐梯最大のカルデラ湖「桧原湖」。湖上には無数の小島が浮かび、早朝の静寂の中でパドルを漕ぎ出すカヤック・カヌーツアーは感動の体験。湖底にはかつての集落の鳥居が眠り、歴史の神秘を漂わせます。磐梯山の雄大な山体を望みながらドライブできる「磐梯山ゴールドライン」や「磐梯吾妻レークライン」は日本有数の絶景スカイラインです。
+            約1,200種もの生きものを飼育する日本一のスケールを誇る「鳥羽水族館」。日本で唯一飼育展示されている人魚伝説のモデル「ジュゴン」のセレナや、大人気のラッコの食事タイムは見逃せません。隣接する「ミキモト真珠島」は、明治26年に御木本幸吉が世界で初めて真珠養殖に成功した島。島内では昔ながらの白い磯着を身にまとった海女による伝統の潜水実演や、豪華な真珠美術工芸品を鑑賞できます。
           </p>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-8 text-xs sm:text-sm">
             <div className="bg-stone-950/60 p-4 rounded-2xl border border-stone-800">
               <span className="text-amber-400 font-bold block mb-1">🗓️ ベストシーズン・見どころ</span>
-              <span className="text-stone-300">春〜秋（5〜10月のカヌー・SUP・遊覧船、10月の紅葉ドライブ、1〜3月の氷上ワカサギ釣り）</span>
+              <span className="text-stone-300">通年（全天候型屋内展示、雨天でも安心の海洋テーマパーク）</span>
             </div>
             <div className="bg-stone-950/60 p-4 rounded-2xl border border-stone-800">
               <span className="text-amber-400 font-bold block mb-1">📍 主な見どころ・スポット</span>
-              <span className="text-stone-300">桧原湖遊覧船、桧原湖カヌー・SUP体験、磐梯山ゴールドライン、中津川渓谷、磐梯山噴火記念館</span>
+              <span className="text-stone-300">鳥羽水族館、ミキモト真珠島、鳥羽湾めぐりとイルカ島、鳥羽城跡（九鬼水軍の拠点）、鳥羽展望台（食国蔵王）</span>
             </div>
             <div className="bg-stone-950/60 p-4 rounded-2xl border border-stone-800">
               <span className="text-amber-400 font-bold block mb-1">🚗 交通アクセス</span>
-              <span className="text-stone-300">猪苗代駅より車またはバスで約35分。猪苗代磐梯高原ICより約30分。</span>
+              <span className="text-stone-300">JR・近鉄「鳥羽駅」下車徒歩約5〜15分。伊勢二見鳥羽ライン終点より約5分。</span>
             </div>
             <div className="bg-stone-950/60 p-4 rounded-2xl border border-stone-800">
               <span className="text-amber-400 font-bold block mb-1">💡 旅のワンポイント・秘訣</span>
-              <span className="text-stone-300">冬の桧原湖は湖面が完全結氷し、氷の上に張られたビニールハウス（ドーム船）の中で暖まりながら楽しむ「氷上ワカサギ釣り」が名物です。</span>
+              <span className="text-stone-300">鳥羽水族館とミキモト真珠島は専用連絡通路や遊歩道で結ばれており、セット入場券を利用するとお得に両方を巡ることができます。</span>
             </div>
           </div>
 
@@ -325,39 +325,39 @@ export default function Page() {
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose mt-6">
               
-                <div key="4755" className="bg-stone-900/60 rounded-2xl overflow-hidden border border-amber-500/20 hover:border-amber-500/50 transition duration-300 flex flex-col justify-between group shadow-xl">
+                <div key="78101" className="bg-stone-900/60 rounded-2xl overflow-hidden border border-amber-500/20 hover:border-amber-500/50 transition duration-300 flex flex-col justify-between group shadow-xl">
                   <div>
                     
                       <div className="relative h-48 sm:h-52 w-full overflow-hidden">
                         <img
-                          src="https://img.travel.rakuten.co.jp/share/HOTEL/4755/4755.jpg"
-                          alt="磐梯熱海温泉　萩姫の湯　栄楽館"
+                          src="https://img.travel.rakuten.co.jp/share/HOTEL/78101/78101.jpg"
+                          alt="鳥羽の宿　錦屋旅館"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
                         />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
-                          ★ 4.1 (1051+件)
+                          ★ 4.5 (27+件)
                         </div>
                       </div>
                     
                     <div className="p-5">
                       <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        磐梯熱海温泉　萩姫の湯　栄楽館
+                        鳥羽の宿　錦屋旅館
                       </h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
-                        最上級の泉質　アルカリ性単純泉の自家源泉と市営泉の湯量豊富なブレンド天然温泉でお肌もつるつる
+                        駅徒歩1分×鳥羽水族館徒歩3分♪全室WiFi完備！ビジネス・観光に好立地！リーズナブル価格！
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
-                        📍 福島県郡山市熱海町熱海4-47
+                        📍 三重県鳥羽市鳥羽3-32-8
                       </div>
                     </div>
                   </div>
                   <div className="p-5 pt-0">
                     <div className="pt-3 border-t border-stone-800 flex items-center justify-between">
                       <div className="text-xs text-stone-400">
-                        目安料金: <span className="text-amber-400 font-bold text-sm">¥11,000〜</span>/人
+                        目安料金: <span className="text-amber-400 font-bold text-sm">¥8,000〜</span>/人
                       </div>
                       <a
-                        href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D4755"
+                        href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D78101"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="inline-flex items-center gap-1 text-xs font-bold px-4 py-2 bg-gradient-to-r from-amber-600 to-amber-500 hover:from-amber-500 hover:to-amber-400 text-stone-950 rounded-xl transition shadow-md shadow-amber-900/30"
@@ -371,39 +371,131 @@ export default function Page() {
                   </div>
                 </div>
               
-                <div key="146112" className="bg-stone-900/60 rounded-2xl overflow-hidden border border-amber-500/20 hover:border-amber-500/50 transition duration-300 flex flex-col justify-between group shadow-xl">
+                <div key="9272" className="bg-stone-900/60 rounded-2xl overflow-hidden border border-amber-500/20 hover:border-amber-500/50 transition duration-300 flex flex-col justify-between group shadow-xl">
                   <div>
                     
                       <div className="relative h-48 sm:h-52 w-full overflow-hidden">
                         <img
-                          src="https://img.travel.rakuten.co.jp/share/HOTEL/146112/146112.jpg"
-                          alt="白布温泉　東屋（ひがしや）"
+                          src="https://img.travel.rakuten.co.jp/share/HOTEL/9272/9272.jpg"
+                          alt="鳥羽　吉田屋　湯坊旅籠　和光"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
                         />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
-                          ★ 4.6 (137+件)
+                          ★ 3.6 (192+件)
                         </div>
                       </div>
                     
                     <div className="p-5">
                       <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        白布温泉　東屋（ひがしや）
+                        鳥羽　吉田屋　湯坊旅籠　和光
                       </h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
-                        開湯700年湧き続ける温泉の歴史を 変わらぬおもてなしの心で未来へ伝える宿
+                        鳥羽駅に近く観光拠点に便利なお宿。。リーズナブルに利用できる素泊まり専門のお宿です。
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
-                        📍 山形県米沢市関1537
+                        📍 三重県鳥羽市鳥羽1-13-1
                       </div>
                     </div>
                   </div>
                   <div className="p-5 pt-0">
                     <div className="pt-3 border-t border-stone-800 flex items-center justify-between">
                       <div className="text-xs text-stone-400">
-                        目安料金: <span className="text-amber-400 font-bold text-sm">¥6,600〜</span>/人
+                        目安料金: <span className="text-amber-400 font-bold text-sm">¥5,500〜</span>/人
                       </div>
                       <a
-                        href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D146112"
+                        href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D9272"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="inline-flex items-center gap-1 text-xs font-bold px-4 py-2 bg-gradient-to-r from-amber-600 to-amber-500 hover:from-amber-500 hover:to-amber-400 text-stone-950 rounded-xl transition shadow-md shadow-amber-900/30"
+                      >
+                        楽天トラベルで空室確認
+                        <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
+                        </svg>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              
+                <div key="15780" className="bg-stone-900/60 rounded-2xl overflow-hidden border border-amber-500/20 hover:border-amber-500/50 transition duration-300 flex flex-col justify-between group shadow-xl">
+                  <div>
+                    
+                      <div className="relative h-48 sm:h-52 w-full overflow-hidden">
+                        <img
+                          src="https://img.travel.rakuten.co.jp/share/HOTEL/15780/15780.jpg"
+                          alt="湯めぐり海百景　鳥羽シーサイドホテル"
+                          className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
+                        />
+                        <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
+                          ★ 4.4 (1556+件)
+                        </div>
+                      </div>
+                    
+                    <div className="p-5">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
+                        湯めぐり海百景　鳥羽シーサイドホテル
+                      </h4>
+                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                        伊勢神宮まで車で３０分　☆お客様が選ぶ４つ星以上の人気宿☆
+                      </p>
+                      <div className="mt-3 text-xs text-stone-300">
+                        📍 三重県鳥羽市安楽島町1084
+                      </div>
+                    </div>
+                  </div>
+                  <div className="p-5 pt-0">
+                    <div className="pt-3 border-t border-stone-800 flex items-center justify-between">
+                      <div className="text-xs text-stone-400">
+                        目安料金: <span className="text-amber-400 font-bold text-sm">¥5,500〜</span>/人
+                      </div>
+                      <a
+                        href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D15780"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="inline-flex items-center gap-1 text-xs font-bold px-4 py-2 bg-gradient-to-r from-amber-600 to-amber-500 hover:from-amber-500 hover:to-amber-400 text-stone-950 rounded-xl transition shadow-md shadow-amber-900/30"
+                      >
+                        楽天トラベルで空室確認
+                        <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
+                        </svg>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              
+                <div key="8529" className="bg-stone-900/60 rounded-2xl overflow-hidden border border-amber-500/20 hover:border-amber-500/50 transition duration-300 flex flex-col justify-between group shadow-xl">
+                  <div>
+                    
+                      <div className="relative h-48 sm:h-52 w-full overflow-hidden">
+                        <img
+                          src="https://img.travel.rakuten.co.jp/share/HOTEL/8529/8529.jpg"
+                          alt="鳥羽国際ホテル"
+                          className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
+                        />
+                        <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
+                          ★ 4.4 (1086+件)
+                        </div>
+                      </div>
+                    
+                    <div className="p-5">
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
+                        鳥羽国際ホテル
+                      </h4>
+                      <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
+                        鳥羽駅からシャトルバスで5分。神宮から車で約20分。
+                      </p>
+                      <div className="mt-3 text-xs text-stone-300">
+                        📍 三重県鳥羽市鳥羽1-23-1
+                      </div>
+                    </div>
+                  </div>
+                  <div className="p-5 pt-0">
+                    <div className="pt-3 border-t border-stone-800 flex items-center justify-between">
+                      <div className="text-xs text-stone-400">
+                        目安料金: <span className="text-amber-400 font-bold text-sm">¥12,100〜</span>/人
+                      </div>
+                      <a
+                        href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D8529"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="inline-flex items-center gap-1 text-xs font-bold px-4 py-2 bg-gradient-to-r from-amber-600 to-amber-500 hover:from-amber-500 hover:to-amber-400 text-stone-950 rounded-xl transition shadow-md shadow-amber-900/30"
@@ -428,31 +520,31 @@ export default function Page() {
         <section className="bg-stone-900/40 rounded-3xl p-6 sm:p-8 md:p-10 border border-amber-500/20 backdrop-blur-md relative overflow-hidden shadow-2xl">
           <div className="absolute top-0 right-0 w-80 h-80 bg-amber-500/5 rounded-full blur-3xl pointer-events-none" />
           <div className="inline-block px-3 py-1 bg-amber-500/10 border border-amber-500/30 rounded-full text-xs font-bold text-amber-300 mb-4">
-            標高800mの高原リゾートと極上の湯
+            海女のまち相差と極上の海の幸
           </div>
           <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">
-            3. 会津高原の旬菜フレンチ・星空観察＆源泉かけ流し高原温泉リゾート宿
+            3. 本場伊勢海老・あわび炭火焼き＆海女小屋体験（海女の語らいと獲れたて魚介）
           </h2>
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed mb-6">
-            標高約800mの冷涼な裏磐梯高原には、ヨーロッパの山岳リゾートを思わせるクラシックな本格ホテルや、露天風呂付きのラグジュアリーロッジが点在。会津の清らかな湧水と肥沃な土壌で育った採れたて高原野菜、福島牛、磐梯イワナを取り入れた創作フレンチや会席料理が自慢です。夜には街明かりが届かない高原ならではの満天の天の川が広がり、源泉かけ流しの露天風呂から星を仰ぐ非日常ステイが待っています。
+            日本で最も多くの現役海女が暮らす鳥羽市相差（おうさつ）や志摩地方。伝統の「海女小屋」では、海女さんが体を温め休む小屋の中で、炭火を囲みながら獲れたてのサザエ、大アサリ、ヒオウギ貝、そして伊勢海老やあわびを豪快に焼き上げてくれます。素朴で温かい海女さんとの会話とともに味わう海の幸は最高の旅の思い出。女性の願いを一つだけ叶えてくれる「石神さん（神明神社）」への参拝も定番です。
           </p>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-8 text-xs sm:text-sm">
             <div className="bg-stone-950/60 p-4 rounded-2xl border border-stone-800">
               <span className="text-amber-400 font-bold block mb-1">🗓️ ベストシーズン・見どころ</span>
-              <span className="text-stone-300">通年（澄んだ夏の夜空、冬の雪見露天風呂、秋のキノコ・新そば・福島牛会席）</span>
+              <span className="text-stone-300">秋〜冬（10〜4月の本場伊勢海老漁期）、春〜夏（5〜9月の天然あわび漁期）</span>
             </div>
             <div className="bg-stone-950/60 p-4 rounded-2xl border border-stone-800">
               <span className="text-amber-400 font-bold block mb-1">📍 主な見どころ・スポット</span>
-              <span className="text-stone-300">諸橋近代美術館（ダリの名作コレクション）、グランデコスノーリゾート、秋元湖、小野川湖</span>
+              <span className="text-stone-300">海女小屋相差かまど、海女小屋体験施設さとうみ庵、石神さん（神明神社）、相差海女文化資料館</span>
             </div>
             <div className="bg-stone-950/60 p-4 rounded-2xl border border-stone-800">
               <span className="text-amber-400 font-bold block mb-1">🚗 交通アクセス</span>
-              <span className="text-stone-300">猪苗代駅よりホテルの無料送迎バス運行多数（事前予約制・約30〜40分）。</span>
+              <span className="text-stone-300">鳥羽駅よりかもめバス（相差方面）で約40分。車で伊勢二見鳥羽ライン経由約30分。</span>
             </div>
             <div className="bg-stone-950/60 p-4 rounded-2xl border border-stone-800">
               <span className="text-amber-400 font-bold block mb-1">💡 旅のワンポイント・秘訣</span>
-              <span className="text-stone-300">「諸橋近代美術館」はアジア最大級のサルバドール・ダリのコレクションを所蔵しており、中世ヨーロッパの古城のような建物と水庭の景観も見事です。</span>
+              <span className="text-stone-300">石神さんの参拝時は、専用の祈願用紙に「お願い事を一つだけ」書き、願い箱に入れてお参りするのが古くからの習わしです。</span>
             </div>
           </div>
 
@@ -464,39 +556,39 @@ export default function Page() {
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose mt-6">
               
-                <div key="508" className="bg-stone-900/60 rounded-2xl overflow-hidden border border-amber-500/20 hover:border-amber-500/50 transition duration-300 flex flex-col justify-between group shadow-xl">
+                <div key="15548" className="bg-stone-900/60 rounded-2xl overflow-hidden border border-amber-500/20 hover:border-amber-500/50 transition duration-300 flex flex-col justify-between group shadow-xl">
                   <div>
                     
                       <div className="relative h-48 sm:h-52 w-full overflow-hidden">
                         <img
-                          src="https://img.travel.rakuten.co.jp/share/HOTEL/508/508.jpg"
-                          alt="ＥＮ　ＲＥＳＯＲＴ　Ｇｒａｎｄｅｃｏ　Ｈｏｔｅｌ（エンリゾート　グランデコ）"
+                          src="https://img.travel.rakuten.co.jp/share/HOTEL/15548/15548.jpg"
+                          alt="鳥羽ビューホテル　花真珠"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
                         />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
-                          ★ 4.4 (1642+件)
+                          ★ 4.3 (1652+件)
                         </div>
                       </div>
                     
                     <div className="p-5">
                       <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        ＥＮ　ＲＥＳＯＲＴ　Ｇｒａｎｄｅｃｏ　Ｈｏｔｅｌ（エンリゾート　グランデコ）
+                        鳥羽ビューホテル　花真珠
                       </h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
-                        標高１,０００ｍの高原リゾート！手が届きそうな星空とあふれる四季折々の大自然をお楽しみください！
+                        ★★ファミリー旅おすすめ！【キッズパーク】完備★★　鳥羽でココだけ！【絶景露天】×【バラ風呂】
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
-                        📍 福島県耶麻郡北塩原村桧原荒砂沢山1082〔会津裏磐梯〕
+                        📍 三重県鳥羽市安楽島町1075-98
                       </div>
                     </div>
                   </div>
                   <div className="p-5 pt-0">
                     <div className="pt-3 border-t border-stone-800 flex items-center justify-between">
                       <div className="text-xs text-stone-400">
-                        目安料金: <span className="text-amber-400 font-bold text-sm">¥7,400〜</span>/人
+                        目安料金: <span className="text-amber-400 font-bold text-sm">¥15,675〜</span>/人
                       </div>
                       <a
-                        href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D508"
+                        href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D15548"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="inline-flex items-center gap-1 text-xs font-bold px-4 py-2 bg-gradient-to-r from-amber-600 to-amber-500 hover:from-amber-500 hover:to-amber-400 text-stone-950 rounded-xl transition shadow-md shadow-amber-900/30"
@@ -510,39 +602,39 @@ export default function Page() {
                   </div>
                 </div>
               
-                <div key="44361" className="bg-stone-900/60 rounded-2xl overflow-hidden border border-amber-500/20 hover:border-amber-500/50 transition duration-300 flex flex-col justify-between group shadow-xl">
+                <div key="69276" className="bg-stone-900/60 rounded-2xl overflow-hidden border border-amber-500/20 hover:border-amber-500/50 transition duration-300 flex flex-col justify-between group shadow-xl">
                   <div>
                     
                       <div className="relative h-48 sm:h-52 w-full overflow-hidden">
                         <img
-                          src="https://img.travel.rakuten.co.jp/share/HOTEL/44361/44361.jpg"
-                          alt="裏磐梯五色沼ホテル"
+                          src="https://img.travel.rakuten.co.jp/share/HOTEL/69276/69276.jpg"
+                          alt="亀の井ホテル　鳥羽"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
                         />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
-                          ★ 4.5 (23+件)
+                          ★ 4.2 (1066+件)
                         </div>
                       </div>
                     
                     <div className="p-5">
                       <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        裏磐梯五色沼ホテル
+                        亀の井ホテル　鳥羽
                       </h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
-                        磐梯山の眺望が自慢。夏はテニスやサイクリング。冬はスキーにスノボ。アクティブな旅行にぴったり！
+                        伊勢神宮（お伊勢さん）と　美し国（うましくに）の拠点になる場所　亀の井ホテル 鳥羽
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
-                        📍 福島県耶麻郡北塩原村蛇平原山1074-232
+                        📍 三重県鳥羽市安楽島町1200-7
                       </div>
                     </div>
                   </div>
                   <div className="p-5 pt-0">
                     <div className="pt-3 border-t border-stone-800 flex items-center justify-between">
                       <div className="text-xs text-stone-400">
-                        目安料金: <span className="text-amber-400 font-bold text-sm">¥7,000〜</span>/人
+                        目安料金: <span className="text-amber-400 font-bold text-sm">¥7,980〜</span>/人
                       </div>
                       <a
-                        href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D44361"
+                        href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D69276"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="inline-flex items-center gap-1 text-xs font-bold px-4 py-2 bg-gradient-to-r from-amber-600 to-amber-500 hover:from-amber-500 hover:to-amber-400 text-stone-950 rounded-xl transition shadow-md shadow-amber-900/30"
@@ -556,39 +648,39 @@ export default function Page() {
                   </div>
                 </div>
               
-                <div key="13884" className="bg-stone-900/60 rounded-2xl overflow-hidden border border-amber-500/20 hover:border-amber-500/50 transition duration-300 flex flex-col justify-between group shadow-xl">
+                <div key="7848" className="bg-stone-900/60 rounded-2xl overflow-hidden border border-amber-500/20 hover:border-amber-500/50 transition duration-300 flex flex-col justify-between group shadow-xl">
                   <div>
                     
                       <div className="relative h-48 sm:h-52 w-full overflow-hidden">
                         <img
-                          src="https://img.travel.rakuten.co.jp/share/HOTEL/13884/13884.jpg"
-                          alt="猪苗代湖　ＬＡＫＥ　ＳＩＤＥ　ＨＯＴＥＬ　みなとや"
+                          src="https://img.travel.rakuten.co.jp/share/HOTEL/7848/7848.jpg"
+                          alt="伊勢志摩国立公園・二見浦　二見温泉　蘇民の湯　ホテル清海"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
                         />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
-                          ★ 4.0 (186+件)
+                          ★ 3.5 (658+件)
                         </div>
                       </div>
                     
                     <div className="p-5">
                       <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        猪苗代湖　ＬＡＫＥ　ＳＩＤＥ　ＨＯＴＥＬ　みなとや
+                        伊勢志摩国立公園・二見浦　二見温泉　蘇民の湯　ホテル清海
                       </h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
-                        猪苗代湖がすぐ目前！本格中国料理×麦飯石の湯を満喫できる
+                        ※【重要なご案内】2017年3月14日より、ご夕食のお品書きを季節に応じたお料理に変更いたします。
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
-                        📍 福島県耶麻郡猪苗代町翁沢長浜870
+                        📍 三重県伊勢市二見町松下1349－136
                       </div>
                     </div>
                   </div>
                   <div className="p-5 pt-0">
                     <div className="pt-3 border-t border-stone-800 flex items-center justify-between">
                       <div className="text-xs text-stone-400">
-                        目安料金: <span className="text-amber-400 font-bold text-sm">¥6,050〜</span>/人
+                        目安料金: <span className="text-amber-400 font-bold text-sm">¥7,700〜</span>/人
                       </div>
                       <a
-                        href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D13884"
+                        href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D7848"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="inline-flex items-center gap-1 text-xs font-bold px-4 py-2 bg-gradient-to-r from-amber-600 to-amber-500 hover:from-amber-500 hover:to-amber-400 text-stone-950 rounded-xl transition shadow-md shadow-amber-900/30"
@@ -602,39 +694,39 @@ export default function Page() {
                   </div>
                 </div>
               
-                <div key="76824" className="bg-stone-900/60 rounded-2xl overflow-hidden border border-amber-500/20 hover:border-amber-500/50 transition duration-300 flex flex-col justify-between group shadow-xl">
+                <div key="160965" className="bg-stone-900/60 rounded-2xl overflow-hidden border border-amber-500/20 hover:border-amber-500/50 transition duration-300 flex flex-col justify-between group shadow-xl">
                   <div>
                     
                       <div className="relative h-48 sm:h-52 w-full overflow-hidden">
                         <img
-                          src="https://img.travel.rakuten.co.jp/share/HOTEL/76824/76824.jpg"
-                          alt="休暇村　裏磐梯"
+                          src="https://img.travel.rakuten.co.jp/share/HOTEL/160965/160965.jpg"
+                          alt="伊勢志摩の波音　海楼"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
                         />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
-                          ★ 4.5 (345+件)
+                          ★ 4.6 (247+件)
                         </div>
                       </div>
                     
                     <div className="p-5">
                       <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        休暇村　裏磐梯
+                        伊勢志摩の波音　海楼
                       </h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
-                        森と湖が広がる雄大な高原で四季のアウトドアを楽しむ全室磐梯山ビューのホテル。お子様365日同一料金。
+                        鳥羽湾を一望する全８室オーシャンビューの小宿。豪快な「網焼き料理」で伊勢志摩の滋味を満喫！
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
-                        📍 福島県耶麻郡北塩原村桧原字小野川原1092-3
+                        📍 三重県鳥羽市安楽島町1075-40
                       </div>
                     </div>
                   </div>
                   <div className="p-5 pt-0">
                     <div className="pt-3 border-t border-stone-800 flex items-center justify-between">
                       <div className="text-xs text-stone-400">
-                        目安料金: <span className="text-amber-400 font-bold text-sm">¥11,500〜</span>/人
+                        目安料金: <span className="text-amber-400 font-bold text-sm">¥5,900〜</span>/人
                       </div>
                       <a
-                        href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D76824"
+                        href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D160965"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="inline-flex items-center gap-1 text-xs font-bold px-4 py-2 bg-gradient-to-r from-amber-600 to-amber-500 hover:from-amber-500 hover:to-amber-400 text-stone-950 rounded-xl transition shadow-md shadow-amber-900/30"

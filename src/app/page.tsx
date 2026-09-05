@@ -2055,6 +2055,41 @@ export default function Home() {
               <span>秋芳洞カルスト台地＆長門湯本温泉街宿</span>
             </Link>
             <Link
+              href="/shizuoka-mishima-shuzenji-numazu-port-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-sky-950 via-teal-950 to-amber-950 hover:from-sky-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-sky-300/40 flex items-center gap-1.5"
+            >
+              <span>🌉🎋</span>
+              <span>三島大吊橋・修善寺竹林＆沼津深海魚宿</span>
+            </Link>
+            <Link
+              href="/nagasaki-unzen-shimabara-castle-volcano-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-950 via-red-950 to-stone-900 hover:from-amber-900 hover:to-red-900 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>♨️🏯</span>
+              <span>雲仙地獄白濁湯・島原名水武家屋敷宿</span>
+            </Link>
+            <Link
+              href="/fukushima-urabandai-goshikinuma-lake-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-950 via-cyan-950 to-stone-900 hover:from-emerald-900 hover:to-cyan-900 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>🛶🍁</span>
+              <span>五色沼神秘の湖沼群・裏磐梯高原温泉宿</span>
+            </Link>
+            <Link
+              href="/mie-toba-shima-kashikojima-pearl-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-950 via-indigo-950 to-amber-950 hover:from-blue-900 hover:to-indigo-900 rounded-2xl shadow-lg transition border border-blue-300/40 flex items-center gap-1.5"
+            >
+              <span>🦪🦞</span>
+              <span>英虞湾夕日・鳥羽水族館＆伊勢海老海女宿</span>
+            </Link>
+            <Link
+              href="/kumamoto-amakusa-sakitsu-dolphin-islands-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-cyan-950 via-blue-950 to-teal-950 hover:from-cyan-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>🐬⛪</span>
+              <span>世界遺産崎津天主堂・天草五橋＆イルカ宿</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >
