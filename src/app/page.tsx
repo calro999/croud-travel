@@ -1880,6 +1880,41 @@ export default function Home() {
               <span>由布院金鱗湖朝霧＆離れ客室露天宿</span>
             </Link>
             <Link
+              href="/hokkaido-hakodate-motomachi-goryokaku-nightview-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-indigo-950 via-blue-950 to-amber-950 hover:from-indigo-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-blue-300/40 flex items-center gap-1.5"
+            >
+              <span>🌃🦑</span>
+              <span>函館山夜景・五稜郭＆朝市活イカ宿</span>
+            </Link>
+            <Link
+              href="/saitama-chichibu-nagatoro-line-kudari-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-950 via-teal-950 to-pink-950 hover:from-emerald-900 hover:to-pink-900 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>🚣🌸</span>
+              <span>長瀞ライン下り・三峯雲海＆芝桜宿</span>
+            </Link>
+            <Link
+              href="/shiga-biwako-hikone-castle-nagahama-kurokabe-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-950 via-teal-950 to-stone-900 hover:from-blue-900 hover:to-stone-850 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>🏯🌊</span>
+              <span>国宝彦根城・長浜黒壁＆びわ湖温泉宿</span>
+            </Link>
+            <Link
+              href="/kagawa-kotohira-konpira-shrine-sanuki-udon-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-950 via-yellow-950 to-stone-900 hover:from-amber-900 hover:to-yellow-900 rounded-2xl shadow-lg transition border border-yellow-300/40 flex items-center gap-1.5"
+            >
+              <span>⛩️🍜</span>
+              <span>こんぴら参り・讃岐うどん＆金丸座宿</span>
+            </Link>
+            <Link
+              href="/okinawa-ishigaki-yaeyama-kabira-bay-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-cyan-950 bg-gradient-to-r from-cyan-300 via-teal-200 to-amber-200 hover:from-cyan-200 hover:to-amber-100 rounded-2xl shadow-lg transition border border-cyan-300 flex items-center gap-1.5"
+            >
+              <span>🏝️🥩</span>
+              <span>川平湾マンタ・八重山離島＆石垣牛宿</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >
