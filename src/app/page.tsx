@@ -2090,6 +2090,41 @@ export default function Home() {
               <span>世界遺産崎津天主堂・天草五橋＆イルカ宿</span>
             </Link>
             <Link
+              href="/tochigi-nasu-shiobara-itamuro-kuroiso-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-950 via-lime-950 to-amber-950 hover:from-emerald-900 hover:to-lime-900 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>⛰️☕</span>
+              <span>那須茶臼岳・板室立ち湯＆黒磯カフェ宿</span>
+            </Link>
+            <Link
+              href="/nagano-azumino-wasabi-hotaka-art-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-teal-950 via-cyan-950 to-stone-900 hover:from-teal-900 hover:to-cyan-900 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>🚣🎨</span>
+              <span>安曇野わさび水車小屋・穂高温泉アート宿</span>
+            </Link>
+            <Link
+              href="/hyogo-ako-hinase-oyster-castle-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-950 via-sky-950 to-amber-950 hover:from-blue-900 hover:to-sky-900 rounded-2xl shadow-lg transition border border-blue-300/40 flex items-center gap-1.5"
+            >
+              <span>🏯🦪</span>
+              <span>赤穂城跡・播磨灘夕日露天＆坂越牡蠣宿</span>
+            </Link>
+            <Link
+              href="/kagawa-marugame-sakaide-seto-bridge-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-950 via-orange-950 to-stone-900 hover:from-amber-900 hover:to-orange-900 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🍗🌉</span>
+              <span>現存丸亀城・骨付鳥＆瀬戸大橋パノラマ宿</span>
+            </Link>
+            <Link
+              href="/kagoshima-ibusuki-sand-bath-kaimondake-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-950 via-amber-950 to-stone-900 hover:from-rose-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-rose-300/40 flex items-center gap-1.5"
+            >
+              <span>🌋🏖️</span>
+              <span>天然砂むし温泉・薩摩富士開聞岳＆知覧宿</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >
