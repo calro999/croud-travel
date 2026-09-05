@@ -4,9 +4,9 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
-  title: "【富山・氷見＆雨晴海岸・立山連峰】海越しに望む3000m立山連峰・氷見寒ブリ宿 完全ガイド ｜ 日本全国・旅宿クラウド",
-  description: "世界屈指の絶景・海越しにそびえる立山連峰と海の幸王国・富山氷見エリア完全特化！義経伝説の雨晴海岸（女岩）、氷見漁港直送「氷見寒ブリ・白えび」、ひみ番屋街、氷見温泉郷のオーシャンビュー美肌宿を徹底解説。",
-  keywords: ["toyama-himi-amaharashi-tateyama-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  title: "【鹿児島・屋久島＆白谷雲水峡・縄文杉】世界自然遺産・苔むす森トレッキング＆首折れ鯖宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  description: "洋上のアルプス・世界自然遺産屋久島エリア完全特化！太古の巨木「縄文杉トレッキング」、映画の舞台「白谷雲水峡（苔むす森）」、大川の滝、名物「首折れ鯖・トビウオ料理・屋久島温泉リゾート」を徹底解説。",
+  keywords: ["kagoshima-yakushima-shiratani-jomon-sugi-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
 };
 
 function loadSeasonalHotels() {
@@ -14,10 +14,10 @@ function loadSeasonalHotels() {
     const filePath = path.join(process.cwd(), "src", "data", "all_seasonal_rakuten_hotels.json");
     if (fs.existsSync(filePath)) {
       const data = JSON.parse(fs.readFileSync(filePath, "utf8"));
-      return data["toyama-himi-amaharashi-tateyama-stay"] || {};
+      return data["kagoshima-yakushima-shiratani-jomon-sugi-stay"] || {};
     }
   } catch (e) {
-    console.error("Failed to load hotels for toyama-himi-amaharashi-tateyama-stay", e);
+    console.error("Failed to load hotels for kagoshima-yakushima-shiratani-jomon-sugi-stay", e);
   }
   return {};
 }
@@ -27,31 +27,31 @@ export default function MicroTouristHubPage() {
 
   const areaGuides = [
   {
-    "key": "himi_winter_yellowtail_inn_stay",
-    "title": "1. 氷見漁港〜氷見寒ブリ・氷見うどん（富山湾の冬の王者を味わい尽くす）",
-    "timing": "冬期（11月下旬〜2月の「ひみ寒ぶり宣言」期間は極上）",
-    "desc": "日本屈指の好漁場・富山湾の定置網で水揚げされる「ひみ寒ぶり」。丸々と太り、脂が乗りに乗った大トロの刺身、熱々のブリしゃぶ、旨味が染み渡るブリ大根。手延べならではの強いコシと滑らかな喉越しが特徴の「氷見うどん」。",
-    "spots": "ひみ番屋街（氷見漁港場外市場）、氷見漁港魚市場食堂（朝獲れ海鮮丼）、氷見温泉郷総湯、氷見牛専門店",
-    "access": "JR氷見線「氷見駅」よりバス約5分。能越自動車道「氷見IC」より約8分。",
-    "tip": "「ひみ寒ぶり宣言」が出された期間の寒ブリは、重さや形、脂の乗りなど厳しい基準をクリアした証明書が付けられ、日本一と称される極上の旨味を誇ります。"
+    "key": "yakushima_luxury_resort_stay",
+    "title": "1. 世界自然遺産・屋久島ネイチャーステイ〜尾之間温泉・平内海中温泉",
+    "timing": "通年（春〜秋の登山シーズン・初夏のウミガメ産卵）",
+    "desc": "日本で初めて世界自然遺産に登録された屋久島。九州最高峰・宮之浦岳（1,936m）をはじめとする洋上のアルプス。海岸沿いに湧き出る源泉かけ流しの「尾之間温泉」や、干潮時のみ入浴できる波打ち際の「平内海中温泉」。大自然に抱かれたリゾートホテル。",
+    "spots": "大川（おおこ）の滝（日本の滝百選）、千尋（せんぴろ）の滝、平内海中温泉、尾之間温泉、屋久島環境文化村センター",
+    "access": "鹿児島空港より飛行機約40分（屋久島空港）、または鹿児島本港より高速船トッピーで約110〜150分。",
+    "tip": "平内海中温泉は1日2回の干潮前後の約2時間だけ海の中から現れる野趣あふれる天然混浴露天風呂で、満天の星空の下の入浴は格別です（水着不可・バスタオル巻き可）。"
   },
   {
-    "key": "amaharashi_tateyama_view_stay",
-    "title": "2. 雨晴海岸〜女岩・義経岩（海越しに3000m立山連峰を望む奇跡のパノラマ）",
-    "timing": "通年（特に空気が澄んで立山連峰が白銀に染まる12月〜2月の早朝は神々しい美しさ）",
-    "desc": "白い砂浜と松林が続く「日本の渚百選・雨晴（あまはらし）海岸」。富山湾に浮かぶ小島「女岩」の背後に、標高3,000m級の立山連峰が壁のようにそびえ立つ世界でも数ヶ所しかない絶景。源義経がにわか雨の晴れるのを待った「義経岩」。",
-    "spots": "道の駅雨晴（展望デッキ・カフェ）、雨晴海岸（女岩・義経岩）、JR氷見線（海沿いを走るローカル列車）",
-    "access": "JR氷見線「雨晴駅」下車徒歩約5分。能越道「高岡北IC」より車約15分。",
-    "tip": "道の駅雨晴の2階・3階展望デッキからは、JR氷見線のレトロな列車が海岸線と立山連峰をバックに駆け抜ける絶好の撮影スポットとなっています。"
+    "key": "shiratani_unsuikyo_trekking_stay",
+    "title": "2. 白谷雲水峡〜苔むす森・太鼓岩（スタジオジブリ映画の舞台となった原生林）",
+    "timing": "通年（雨上がりの霧に包まれた苔の森は息を呑む美しさ）",
+    "desc": "標高600〜1,050mに広がるヤクスギ原生林「白谷雲水峡」。花崗岩の巨石と清流、数百種類のコケが岩や倒木を覆い尽くす「苔むす森（もののけの森）」。巨岩の頂・太鼓岩から見下ろす宮之浦岳と広大な屋久杉の森の大パノラマ。",
+    "spots": "白谷雲水峡（苔むす森・太鼓岩・弥生杉・飛流おとし）、宮之浦港、屋久神社",
+    "access": "宮之浦港より路線バスで約30〜35分。",
+    "tip": "白谷雲水峡は半日コース（約3〜4時間）で気軽に太鼓岩まで往復でき、縄文杉トレッキングよりも体力的なハードルが低く初心者にもおすすめです。"
   },
   {
-    "key": "himi_banyagai_gourmet_stay",
-    "title": "3. 氷見温泉郷〜富山湾一望の塩湯＆白えび・氷見牛（潮風薫る美肌の湯）",
-    "timing": "通年（春のシロエビ漁解禁・夏の岩ガキ・秋ののどぐろ）",
-    "desc": "約1500万年前の化石海水分が湧き出る「氷見温泉郷」。富山湾の水平線と朝日を望む露天風呂。富山湾の宝石と呼ばれる「白えび」の刺身や天ぷら。中山間地で育まれた上質な肉質のブランド黒毛和牛「氷見牛」。",
-    "spots": "氷見温泉郷（海辺の露天風呂宿）、潮風通り（藤子不二雄Aまんがロード）、光禅寺",
-    "access": "氷見市内・海岸線沿い。",
-    "tip": "氷見温泉の源泉は塩分を多く含むため保温効果が非常に高く、湯冷めしにくいため「熱の湯」「子宝の湯」として親しまれています。"
+    "key": "yakushima_mackerel_flyingfish_stay",
+    "title": "3. 屋久島名物「首折れ鯖」＆トビウオひつまぶし（黒潮が育む驚きの鮮度）",
+    "timing": "通年（首折れ鯖：旬は春〜秋・トビウオ料理は通年）",
+    "desc": "屋久島近海の一本釣りで獲れたゴマサバを、船上で首を折って即座に血抜き・氷締めする「首折れ鯖（くびおれさば）」。生臭さが一切なく、ブリブリとした弾力と上品な脂の甘み。羽を広げた姿揚げが名物の「トビウオのから揚げ」。",
+    "spots": "潮騒（宮之浦の人気店）、いその香り（安房）、屋久島ヴィータキッチン、安房港周辺の居酒屋",
+    "access": "安房港・宮之浦港周辺。",
+    "tip": "首折れ鯖のお造りは、屋久島特有の甘口醤油とすりおろし生姜でいただくのが地元流で、刺身の概念が変わるほどの驚異的な歯ごたえが楽しめます。"
   }
 ];
 
@@ -61,13 +61,13 @@ export default function MicroTouristHubPage() {
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-stone-900 via-emerald-950 to-teal-950 text-white p-8 md:p-14 shadow-xl border border-white/10">
         <div className="max-w-3xl space-y-4">
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
-            HIMI & AMAHARASHI GUIDE
+            YAKUSHIMA & WORLD HERITAGE GUIDE
           </span>
           <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【富山・氷見＆雨晴海岸・立山連峰】海越しに望む3000m立山連峰・氷見寒ブリ宿 完全ガイド
+            【鹿児島・屋久島＆白谷雲水峡・縄文杉】世界自然遺産・苔むす森トレッキング＆首折れ鯖宿 完全ガイド
           </h1>
           <p className="text-xs md:text-sm text-emerald-100/90 leading-relaxed">
-            富山湾の青い海の向こうに、標高3,000m級の北アルプス立山連峰が白銀に輝く奇跡のパノラマ「雨晴海岸」。冬の日本海の王者「氷見寒ブリ」の極上刺身とブリしゃぶ。潮風を感じる氷見温泉郷のナトリウム塩化物泉。富山湾のキトキトな美味に酔いしれる旅。
+            樹齢数千年の巨木が呼吸する世界自然遺産の島「屋久島」。生命の神秘をたたえる「縄文杉」への巡礼。どこまでも深い緑の絨毯が広がる「白谷雲水峡・苔むす森」。屋久島近海で獲れる新鮮な「首折れ鯖」のお造りとトビウオのから揚げ。悠久の時を体感する大人の大自然旅。
           </p>
         </div>
       </div>

@@ -4,9 +4,9 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
-  title: "【富山・氷見＆雨晴海岸・立山連峰】海越しに望む3000m立山連峰・氷見寒ブリ宿 完全ガイド ｜ 日本全国・旅宿クラウド",
-  description: "世界屈指の絶景・海越しにそびえる立山連峰と海の幸王国・富山氷見エリア完全特化！義経伝説の雨晴海岸（女岩）、氷見漁港直送「氷見寒ブリ・白えび」、ひみ番屋街、氷見温泉郷のオーシャンビュー美肌宿を徹底解説。",
-  keywords: ["toyama-himi-amaharashi-tateyama-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  title: "【高知・四万十川＆沈下橋・足摺岬】日本最後の清流カヌー・天然うなぎ＆カツオ宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  description: "最後の清流と四国最南端・高知四万十＆足摺エリア完全特化！欄干のない「佐田の沈下橋・岩間沈下橋」、四万十川カヌー・屋形船遊覧、足摺岬灯台・金剛福寺、名物「天然鮎・四万十うなぎ・初鰹タタキ宿」を徹底解説。",
+  keywords: ["kochi-shimanto-river-chinkabashi-ashizuri-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
 };
 
 function loadSeasonalHotels() {
@@ -14,10 +14,10 @@ function loadSeasonalHotels() {
     const filePath = path.join(process.cwd(), "src", "data", "all_seasonal_rakuten_hotels.json");
     if (fs.existsSync(filePath)) {
       const data = JSON.parse(fs.readFileSync(filePath, "utf8"));
-      return data["toyama-himi-amaharashi-tateyama-stay"] || {};
+      return data["kochi-shimanto-river-chinkabashi-ashizuri-stay"] || {};
     }
   } catch (e) {
-    console.error("Failed to load hotels for toyama-himi-amaharashi-tateyama-stay", e);
+    console.error("Failed to load hotels for kochi-shimanto-river-chinkabashi-ashizuri-stay", e);
   }
   return {};
 }
@@ -27,31 +27,31 @@ export default function MicroTouristHubPage() {
 
   const areaGuides = [
   {
-    "key": "himi_winter_yellowtail_inn_stay",
-    "title": "1. 氷見漁港〜氷見寒ブリ・氷見うどん（富山湾の冬の王者を味わい尽くす）",
-    "timing": "冬期（11月下旬〜2月の「ひみ寒ぶり宣言」期間は極上）",
-    "desc": "日本屈指の好漁場・富山湾の定置網で水揚げされる「ひみ寒ぶり」。丸々と太り、脂が乗りに乗った大トロの刺身、熱々のブリしゃぶ、旨味が染み渡るブリ大根。手延べならではの強いコシと滑らかな喉越しが特徴の「氷見うどん」。",
-    "spots": "ひみ番屋街（氷見漁港場外市場）、氷見漁港魚市場食堂（朝獲れ海鮮丼）、氷見温泉郷総湯、氷見牛専門店",
-    "access": "JR氷見線「氷見駅」よりバス約5分。能越自動車道「氷見IC」より約8分。",
-    "tip": "「ひみ寒ぶり宣言」が出された期間の寒ブリは、重さや形、脂の乗りなど厳しい基準をクリアした証明書が付けられ、日本一と称される極上の旨味を誇ります。"
+    "key": "shimanto_river_chinkabashi_inn",
+    "title": "1. 四万十川沈下橋めぐり〜佐田沈下橋・屋形船（日本最後の清流と原風景）",
+    "timing": "通年（4月〜10月のカヌー・SUP・川遊び・新緑）",
+    "desc": "本流に大規模なダムがない「日本最後の清流 四万十川（全長196km）」。最下流に位置し最も長く親しまれている「佐田の沈下橋（今成橋）」。ポスターでおなじみの「岩間沈下橋」。エンジン付きの伝統屋形船や、風を受けて進む帆掛け舟での遊覧。",
+    "spots": "佐田沈下橋、三里沈下橋、岩間沈下橋、四万十の碧（屋形船遊覧）、四万十カヌーとキャンプの里 かわらっこ",
+    "access": "土佐くろしお鉄道「中村駅」より車約15分。高知道「四万十町中央IC」より約60分。",
+    "tip": "佐田の沈下橋はレンタサイクルで渡ることができ、欄干のない橋の上からエメラルドグリーンの川面を真下に見下ろすスリルと開放感が味わえます。"
   },
   {
-    "key": "amaharashi_tateyama_view_stay",
-    "title": "2. 雨晴海岸〜女岩・義経岩（海越しに3000m立山連峰を望む奇跡のパノラマ）",
-    "timing": "通年（特に空気が澄んで立山連峰が白銀に染まる12月〜2月の早朝は神々しい美しさ）",
-    "desc": "白い砂浜と松林が続く「日本の渚百選・雨晴（あまはらし）海岸」。富山湾に浮かぶ小島「女岩」の背後に、標高3,000m級の立山連峰が壁のようにそびえ立つ世界でも数ヶ所しかない絶景。源義経がにわか雨の晴れるのを待った「義経岩」。",
-    "spots": "道の駅雨晴（展望デッキ・カフェ）、雨晴海岸（女岩・義経岩）、JR氷見線（海沿いを走るローカル列車）",
-    "access": "JR氷見線「雨晴駅」下車徒歩約5分。能越道「高岡北IC」より車約15分。",
-    "tip": "道の駅雨晴の2階・3階展望デッキからは、JR氷見線のレトロな列車が海岸線と立山連峰をバックに駆け抜ける絶好の撮影スポットとなっています。"
+    "key": "ashizurimisaki_ocean_onsen_stay",
+    "title": "2. 足摺岬〜あしずり温泉郷（四国最南端の白亜の灯台と弘法大師の霊場）",
+    "timing": "通年（年間を通じて温暖・冬の椿まつり・満天の星空）",
+    "desc": "黒潮が直接打ち寄せる四国最南端の岬「足摺岬（あしずりみさき）」。高さ約80mの断崖絶壁に立つ白亜の「足摺岬灯台」。四国八十八ヶ所第38番札所「金剛福寺」。弘法大師ゆかりの足摺七不思議。雄大な太平洋の水平線アーチを望む温泉露天風呂。",
+    "spots": "足摺岬展望台・灯台、金剛福寺、白山洞門（日本最大級の花崗岩洞門）、あしずり温泉郷、足摺海底館",
+    "access": "中村駅より高知西南交通バス「足摺岬行」で約100分。",
+    "tip": "足摺岬展望台からは、視界270度に広がる水平線が丸くカーブして見え、地球が丸いことを肉眼で実感できる壮大なスケールが体験できます。"
   },
   {
-    "key": "himi_banyagai_gourmet_stay",
-    "title": "3. 氷見温泉郷〜富山湾一望の塩湯＆白えび・氷見牛（潮風薫る美肌の湯）",
-    "timing": "通年（春のシロエビ漁解禁・夏の岩ガキ・秋ののどぐろ）",
-    "desc": "約1500万年前の化石海水分が湧き出る「氷見温泉郷」。富山湾の水平線と朝日を望む露天風呂。富山湾の宝石と呼ばれる「白えび」の刺身や天ぷら。中山間地で育まれた上質な肉質のブランド黒毛和牛「氷見牛」。",
-    "spots": "氷見温泉郷（海辺の露天風呂宿）、潮風通り（藤子不二雄Aまんがロード）、光禅寺",
-    "access": "氷見市内・海岸線沿い。",
-    "tip": "氷見温泉の源泉は塩分を多く含むため保温効果が非常に高く、湯冷めしにくいため「熱の湯」「子宝の湯」として親しまれています。"
+    "key": "shimanto_unagi_katsuo_stay",
+    "title": "3. 四万十名物「天然うなぎ」＆カツオの藁焼きタタキ（大自然が育む至高の美味）",
+    "timing": "通年（うなぎ漁期：4月〜11月・初夏と秋の戻り鰹）",
+    "desc": "清流四万十川で獲れる希少な「四万十天然うなぎ」。身が引き締まり、天然ならではの爽やかな川魚の香りと上質な脂の旨味。四万十川の青のりや川エビの唐揚げ。土佐名物・豪快な火柱で一気に焼き上げるカツオの塩タタキ。",
+    "spots": "四万十屋（うなぎ専門店）、味劇場 ちか（郷土料理居酒屋）、中村駅周辺の老舗料理旅館",
+    "access": "四万十市中村エリア・四万十川沿い。",
+    "tip": "「四万十屋」では四万十川のせせらぎを眺めながら、炭火で香ばしく焼き上げた天然うな重を特製の秘伝タレで贅沢に堪能できます。"
   }
 ];
 
@@ -61,13 +61,13 @@ export default function MicroTouristHubPage() {
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-stone-900 via-emerald-950 to-teal-950 text-white p-8 md:p-14 shadow-xl border border-white/10">
         <div className="max-w-3xl space-y-4">
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
-            HIMI & AMAHARASHI GUIDE
+            SHIMANTO & ASHIZURI GUIDE
           </span>
           <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【富山・氷見＆雨晴海岸・立山連峰】海越しに望む3000m立山連峰・氷見寒ブリ宿 完全ガイド
+            【高知・四万十川＆沈下橋・足摺岬】日本最後の清流カヌー・天然うなぎ＆カツオ宿 完全ガイド
           </h1>
           <p className="text-xs md:text-sm text-emerald-100/90 leading-relaxed">
-            富山湾の青い海の向こうに、標高3,000m級の北アルプス立山連峰が白銀に輝く奇跡のパノラマ「雨晴海岸」。冬の日本海の王者「氷見寒ブリ」の極上刺身とブリしゃぶ。潮風を感じる氷見温泉郷のナトリウム塩化物泉。富山湾のキトキトな美味に酔いしれる旅。
+            大自然の原風景がそのまま息づく日本最後の清流「四万十川」。増水時に川底に沈むように設計された欄干のない「沈下橋」。清流を滑るように進むカヌーや帆掛け舟。四国最南端・足摺岬の断崖絶壁と太平洋の大海原。極上の天然うなぎとカツオの藁焼きを味わう旅。
           </p>
         </div>
       </div>

@@ -4,9 +4,9 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
-  title: "【富山・氷見＆雨晴海岸・立山連峰】海越しに望む3000m立山連峰・氷見寒ブリ宿 完全ガイド ｜ 日本全国・旅宿クラウド",
-  description: "世界屈指の絶景・海越しにそびえる立山連峰と海の幸王国・富山氷見エリア完全特化！義経伝説の雨晴海岸（女岩）、氷見漁港直送「氷見寒ブリ・白えび」、ひみ番屋街、氷見温泉郷のオーシャンビュー美肌宿を徹底解説。",
-  keywords: ["toyama-himi-amaharashi-tateyama-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  title: "【秋田・男鹿半島＆なまはげ・入道崎】北緯40度白黒灯台・名物石焼料理宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  description: "ユネスコ無形文化遺産なまはげの郷・秋田男鹿半島エリア完全特化！入道崎（北緯40度白黒モニュメント）、なまはげ館・男鹿真山伝承館、ゴジラ岩、男鹿温泉郷の伝統「豪快石焼料理宿」を徹底解説。",
+  keywords: ["akita-oga-peninsula-namahage-nyudozaki-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
 };
 
 function loadSeasonalHotels() {
@@ -14,10 +14,10 @@ function loadSeasonalHotels() {
     const filePath = path.join(process.cwd(), "src", "data", "all_seasonal_rakuten_hotels.json");
     if (fs.existsSync(filePath)) {
       const data = JSON.parse(fs.readFileSync(filePath, "utf8"));
-      return data["toyama-himi-amaharashi-tateyama-stay"] || {};
+      return data["akita-oga-peninsula-namahage-nyudozaki-stay"] || {};
     }
   } catch (e) {
-    console.error("Failed to load hotels for toyama-himi-amaharashi-tateyama-stay", e);
+    console.error("Failed to load hotels for akita-oga-peninsula-namahage-nyudozaki-stay", e);
   }
   return {};
 }
@@ -27,31 +27,31 @@ export default function MicroTouristHubPage() {
 
   const areaGuides = [
   {
-    "key": "himi_winter_yellowtail_inn_stay",
-    "title": "1. 氷見漁港〜氷見寒ブリ・氷見うどん（富山湾の冬の王者を味わい尽くす）",
-    "timing": "冬期（11月下旬〜2月の「ひみ寒ぶり宣言」期間は極上）",
-    "desc": "日本屈指の好漁場・富山湾の定置網で水揚げされる「ひみ寒ぶり」。丸々と太り、脂が乗りに乗った大トロの刺身、熱々のブリしゃぶ、旨味が染み渡るブリ大根。手延べならではの強いコシと滑らかな喉越しが特徴の「氷見うどん」。",
-    "spots": "ひみ番屋街（氷見漁港場外市場）、氷見漁港魚市場食堂（朝獲れ海鮮丼）、氷見温泉郷総湯、氷見牛専門店",
-    "access": "JR氷見線「氷見駅」よりバス約5分。能越自動車道「氷見IC」より約8分。",
-    "tip": "「ひみ寒ぶり宣言」が出された期間の寒ブリは、重さや形、脂の乗りなど厳しい基準をクリアした証明書が付けられ、日本一と称される極上の旨味を誇ります。"
+    "key": "oga_onsen_ishiyaki_stay",
+    "title": "1. 男鹿温泉郷〜名物「石焼料理」・潮瀬崎ゴジラ岩（真っ赤な溶岩が生む豪快漁師飯）",
+    "timing": "通年（冬のハタハタ・夏のウニ・夕暮れの日本海）",
+    "desc": "約千年の歴史を誇る「男鹿温泉郷（ナトリウム塩化物泉）」。木桶に味噌ベースの出汁と新鮮な魚介を入れ、炭火で約800℃に熱した男鹿特産の溶結凝灰岩を一気に放り込む豪快な「石焼料理」。潮瀬崎の奇岩「ゴジラ岩」の夕陽シルエット。",
+    "spots": "男鹿温泉郷、潮瀬崎（ゴジラ岩・ガメラ岩）、男鹿水族館GAO（ホッキョクグマ）、寒風山回転展望台",
+    "access": "JR男鹿線「男鹿駅」より路線バスまたは予約制乗り合いタクシーで約30〜40分。秋田市内より車約60分。",
+    "tip": "石焼料理は小石を入れた瞬間に激しい蒸気とグツグツという轟音が立ち上り、目の前で魚介が一瞬で煮上がる大迫力の演出が楽しめます。"
   },
   {
-    "key": "amaharashi_tateyama_view_stay",
-    "title": "2. 雨晴海岸〜女岩・義経岩（海越しに3000m立山連峰を望む奇跡のパノラマ）",
-    "timing": "通年（特に空気が澄んで立山連峰が白銀に染まる12月〜2月の早朝は神々しい美しさ）",
-    "desc": "白い砂浜と松林が続く「日本の渚百選・雨晴（あまはらし）海岸」。富山湾に浮かぶ小島「女岩」の背後に、標高3,000m級の立山連峰が壁のようにそびえ立つ世界でも数ヶ所しかない絶景。源義経がにわか雨の晴れるのを待った「義経岩」。",
-    "spots": "道の駅雨晴（展望デッキ・カフェ）、雨晴海岸（女岩・義経岩）、JR氷見線（海沿いを走るローカル列車）",
-    "access": "JR氷見線「雨晴駅」下車徒歩約5分。能越道「高岡北IC」より車約15分。",
-    "tip": "道の駅雨晴の2階・3階展望デッキからは、JR氷見線のレトロな列車が海岸線と立山連峰をバックに駆け抜ける絶好の撮影スポットとなっています。"
+    "key": "nyudozaki_cape_view_stay",
+    "title": "2. 入道崎〜北緯40度モニュメント・白黒灯台（日本海の荒波と夕陽の大パノラマ）",
+    "timing": "通年（日本の夕陽百選・初夏の緑の芝生台地）",
+    "desc": "男鹿半島の最北端に位置する「入道崎」。緑の芝生台地の向こうに広がる青い日本海。日本の灯台50選に選ばれた白黒縞模様の「入道崎灯台（登れる灯台）」。北緯40度線上に並ぶ安山岩のモニュメント。海鮮食堂で味わう獲れたてウニ・サザエ丼。",
+    "spots": "入道崎灯台（灯台資料展示室）、北緯40度モニュメント、入道崎海底透視船（グラスボート）、畠泉海岸",
+    "access": "男鹿温泉郷より車約15分。",
+    "tip": "入道崎灯台は全国に16基しかない「登れる灯台」のひとつで、上部デッキからは男鹿半島の海岸線と日本海水平線の360度パノラマが広がります。"
   },
   {
-    "key": "himi_banyagai_gourmet_stay",
-    "title": "3. 氷見温泉郷〜富山湾一望の塩湯＆白えび・氷見牛（潮風薫る美肌の湯）",
-    "timing": "通年（春のシロエビ漁解禁・夏の岩ガキ・秋ののどぐろ）",
-    "desc": "約1500万年前の化石海水分が湧き出る「氷見温泉郷」。富山湾の水平線と朝日を望む露天風呂。富山湾の宝石と呼ばれる「白えび」の刺身や天ぷら。中山間地で育まれた上質な肉質のブランド黒毛和牛「氷見牛」。",
-    "spots": "氷見温泉郷（海辺の露天風呂宿）、潮風通り（藤子不二雄Aまんがロード）、光禅寺",
-    "access": "氷見市内・海岸線沿い。",
-    "tip": "氷見温泉の源泉は塩分を多く含むため保温効果が非常に高く、湯冷めしにくいため「熱の湯」「子宝の湯」として親しまれています。"
+    "key": "namahage_shizan_heritage_stay",
+    "title": "3. なまはげ館＆男鹿真山伝承館〜真山神社（泣く子はいねが！ユネスコ無形文化遺産）",
+    "timing": "通年（大晦日のなまはげ行事・2月のなまはげ柴灯まつり）",
+    "desc": "神仏習合の霊山・真山（しんざん）の麓に佇む「なまはげ館」。男鹿市内各地で実際に使われた150枚以上の個性豊かななまはげ面が並ぶ圧巻の展示。隣接する「男鹿真山伝承館」での本物のなまはげの実演問答体験。古社・真山神社の杉木立。",
+    "spots": "なまはげ館、男鹿真山伝承館、真山神社、里暮らし体験塾",
+    "access": "男鹿駅より車約20分。",
+    "tip": "男鹿真山伝承館の実演では、曲がり家の囲炉裏端になまはげが荒々しく乱入し、家長との緊迫感あふれるユーモラスな問答を間近で体感できます。"
   }
 ];
 
@@ -61,13 +61,13 @@ export default function MicroTouristHubPage() {
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-stone-900 via-emerald-950 to-teal-950 text-white p-8 md:p-14 shadow-xl border border-white/10">
         <div className="max-w-3xl space-y-4">
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
-            HIMI & AMAHARASHI GUIDE
+            OGA & NAMAHAGE GUIDE
           </span>
           <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【富山・氷見＆雨晴海岸・立山連峰】海越しに望む3000m立山連峰・氷見寒ブリ宿 完全ガイド
+            【秋田・男鹿半島＆なまはげ・入道崎】北緯40度白黒灯台・名物石焼料理宿 完全ガイド
           </h1>
           <p className="text-xs md:text-sm text-emerald-100/90 leading-relaxed">
-            富山湾の青い海の向こうに、標高3,000m級の北アルプス立山連峰が白銀に輝く奇跡のパノラマ「雨晴海岸」。冬の日本海の王者「氷見寒ブリ」の極上刺身とブリしゃぶ。潮風を感じる氷見温泉郷のナトリウム塩化物泉。富山湾のキトキトな美味に酔いしれる旅。
+            荒波の日本海に突き出た信仰と伝説の半島「秋田・男鹿半島」。北緯40度線上にそびえる白黒縞模様の「入道崎灯台」。大晦日の夜に雄叫びを上げるユネスコ無形文化遺産「なまはげ」。真っ赤に熱した小石を桶の出汁に放り込む男鹿伝統の「石焼料理」を味わう旅。
           </p>
         </div>
       </div>

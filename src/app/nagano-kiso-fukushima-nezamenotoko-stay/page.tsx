@@ -4,9 +4,9 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
-  title: "【富山・氷見＆雨晴海岸・立山連峰】海越しに望む3000m立山連峰・氷見寒ブリ宿 完全ガイド ｜ 日本全国・旅宿クラウド",
-  description: "世界屈指の絶景・海越しにそびえる立山連峰と海の幸王国・富山氷見エリア完全特化！義経伝説の雨晴海岸（女岩）、氷見漁港直送「氷見寒ブリ・白えび」、ひみ番屋街、氷見温泉郷のオーシャンビュー美肌宿を徹底解説。",
-  keywords: ["toyama-himi-amaharashi-tateyama-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  title: "【長野・木曽福島＆寝覚の床・御嶽山】中山道関所宿場町・木曽そば＆五平餅宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+  description: "中山道木曽路の中心・木曽福島＆寝覚の床エリア完全特化！日本四大関所「木曽福島関所」、浦島太郎伝説の名勝「寝覚の床」、霊峰御嶽山、木曽川の清流と名物「木曽手打ちそば・五平餅・朴葉巻き宿」を徹底解説。",
+  keywords: ["nagano-kiso-fukushima-nezamenotoko-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
 };
 
 function loadSeasonalHotels() {
@@ -14,10 +14,10 @@ function loadSeasonalHotels() {
     const filePath = path.join(process.cwd(), "src", "data", "all_seasonal_rakuten_hotels.json");
     if (fs.existsSync(filePath)) {
       const data = JSON.parse(fs.readFileSync(filePath, "utf8"));
-      return data["toyama-himi-amaharashi-tateyama-stay"] || {};
+      return data["nagano-kiso-fukushima-nezamenotoko-stay"] || {};
     }
   } catch (e) {
-    console.error("Failed to load hotels for toyama-himi-amaharashi-tateyama-stay", e);
+    console.error("Failed to load hotels for nagano-kiso-fukushima-nezamenotoko-stay", e);
   }
   return {};
 }
@@ -27,31 +27,31 @@ export default function MicroTouristHubPage() {
 
   const areaGuides = [
   {
-    "key": "himi_winter_yellowtail_inn_stay",
-    "title": "1. 氷見漁港〜氷見寒ブリ・氷見うどん（富山湾の冬の王者を味わい尽くす）",
-    "timing": "冬期（11月下旬〜2月の「ひみ寒ぶり宣言」期間は極上）",
-    "desc": "日本屈指の好漁場・富山湾の定置網で水揚げされる「ひみ寒ぶり」。丸々と太り、脂が乗りに乗った大トロの刺身、熱々のブリしゃぶ、旨味が染み渡るブリ大根。手延べならではの強いコシと滑らかな喉越しが特徴の「氷見うどん」。",
-    "spots": "ひみ番屋街（氷見漁港場外市場）、氷見漁港魚市場食堂（朝獲れ海鮮丼）、氷見温泉郷総湯、氷見牛専門店",
-    "access": "JR氷見線「氷見駅」よりバス約5分。能越自動車道「氷見IC」より約8分。",
-    "tip": "「ひみ寒ぶり宣言」が出された期間の寒ブリは、重さや形、脂の乗りなど厳しい基準をクリアした証明書が付けられ、日本一と称される極上の旨味を誇ります。"
+    "key": "kiso_fukushima_post_town_stay",
+    "title": "1. 木曽福島宿場町〜福島関所・上の段通り（崖家造りと木曽川の清流）",
+    "timing": "通年（新緑の5〜6月・秋の紅葉・夏の避暑）",
+    "desc": "中山道六十九次のほぼ中間に位置する交通と政治の要衝「木曽福島」。箱根・碓氷・新居と並ぶ日本四大関所「木曽福島関所跡」。木曽川の断崖にせり出すように建てられた独特の「崖家造り（がけやつくり）」。上の段通りの水路と格子戸の町並み。",
+    "spots": "木曽福島関所資料館、上の段通り、山村代官屋敷、興禅寺（木曽義仲公の墓・東洋一の枯山水庭園）、木曽川親水公園足湯",
+    "access": "JR中央本線（特急しなの）「木曽福島駅」下車すぐ。中央道「伊那IC」より権兵衛トンネル経由約30分。",
+    "tip": "木曽福島駅前の観光案内所では、宿場町散策用の絵図（マップ）が手に入り、歴史解説を聞きながら上の段通りの名水巡りが楽しめます。"
   },
   {
-    "key": "amaharashi_tateyama_view_stay",
-    "title": "2. 雨晴海岸〜女岩・義経岩（海越しに3000m立山連峰を望む奇跡のパノラマ）",
-    "timing": "通年（特に空気が澄んで立山連峰が白銀に染まる12月〜2月の早朝は神々しい美しさ）",
-    "desc": "白い砂浜と松林が続く「日本の渚百選・雨晴（あまはらし）海岸」。富山湾に浮かぶ小島「女岩」の背後に、標高3,000m級の立山連峰が壁のようにそびえ立つ世界でも数ヶ所しかない絶景。源義経がにわか雨の晴れるのを待った「義経岩」。",
-    "spots": "道の駅雨晴（展望デッキ・カフェ）、雨晴海岸（女岩・義経岩）、JR氷見線（海沿いを走るローカル列車）",
-    "access": "JR氷見線「雨晴駅」下車徒歩約5分。能越道「高岡北IC」より車約15分。",
-    "tip": "道の駅雨晴の2階・3階展望デッキからは、JR氷見線のレトロな列車が海岸線と立山連峰をバックに駆け抜ける絶好の撮影スポットとなっています。"
+    "key": "nezamenotoko_agetsu_nature_stay",
+    "title": "2. 寝覚の床〜臨川寺（木曽川のエメラルド激流が削り出した国の名勝奇岩）",
+    "timing": "通年（秋の木曽谷紅葉・新緑の渓谷美）",
+    "desc": "竜宮城から戻った浦島太郎が玉手箱を開けた場所と伝わる国の名勝「寝覚の床（ねざめのとこ）」。木曽川の激流が巨大な白い花崗岩を square 状に削り出した自然の彫刻美。中央の岩礁に建つ「浦島堂」。崖の上に建つ臨川寺からの見下ろし絶景。",
+    "spots": "寝覚の床（浦島堂・奇岩群）、臨川寺（弁才天・宝物館）、ねざめ亭、赤沢自然休養林（森林鉄道）",
+    "access": "JR中央本線「上松駅」より車・バス約5分、または木曽福島駅より車約15分。",
+    "tip": "寝覚の床の巨岩群の上を歩いて浦島堂へ渡るルートは岩肌が滑りやすいため、スニーカーなど歩きやすい靴での散策が必須です。"
   },
   {
-    "key": "himi_banyagai_gourmet_stay",
-    "title": "3. 氷見温泉郷〜富山湾一望の塩湯＆白えび・氷見牛（潮風薫る美肌の湯）",
-    "timing": "通年（春のシロエビ漁解禁・夏の岩ガキ・秋ののどぐろ）",
-    "desc": "約1500万年前の化石海水分が湧き出る「氷見温泉郷」。富山湾の水平線と朝日を望む露天風呂。富山湾の宝石と呼ばれる「白えび」の刺身や天ぷら。中山間地で育まれた上質な肉質のブランド黒毛和牛「氷見牛」。",
-    "spots": "氷見温泉郷（海辺の露天風呂宿）、潮風通り（藤子不二雄Aまんがロード）、光禅寺",
-    "access": "氷見市内・海岸線沿い。",
-    "tip": "氷見温泉の源泉は塩分を多く含むため保温効果が非常に高く、湯冷めしにくいため「熱の湯」「子宝の湯」として親しまれています。"
+    "key": "ontake_kiso_soba_inn_stay",
+    "title": "3. 木曽名物「手打ちそば」＆五平餅・朴葉巻き（冷涼な木曽谷の郷土の味）",
+    "timing": "通年（秋の新そば・初夏の朴葉巻き・冬のすんきそば）",
+    "desc": "昼夜の寒暖差が大きい開田高原のそば粉と清らかな湧水で打つコシの強い「木曽そば」。クルミと胡麻の甘辛タレをたっぷり塗って香ばしく焼き上げたわらじ型の「五平餅」。塩を使わずに乳酸菌発酵させた冬限定の健康食「すんき漬け・すんきそば」。",
+    "spots": "くるまや本店（木曽そば名店）、道の駅木曽福島、開田高原アイスクリーム工房、木曽谷の老舗料理旅館",
+    "access": "木曽町・上松町・開田高原。",
+    "tip": "「すんきそば」は長野県木曽地方でしか作られない無塩乳酸発酵の赤かぶ菜が入った郷土そばで、独特の爽やかな酸味が温かい出汁と絶妙に調和します。"
   }
 ];
 
@@ -61,13 +61,13 @@ export default function MicroTouristHubPage() {
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-stone-900 via-emerald-950 to-teal-950 text-white p-8 md:p-14 shadow-xl border border-white/10">
         <div className="max-w-3xl space-y-4">
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
-            HIMI & AMAHARASHI GUIDE
+            KISO FUKUSHIMA & ONTAKE GUIDE
           </span>
           <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            【富山・氷見＆雨晴海岸・立山連峰】海越しに望む3000m立山連峰・氷見寒ブリ宿 完全ガイド
+            【長野・木曽福島＆寝覚の床・御嶽山】中山道関所宿場町・木曽そば＆五平餅宿 完全ガイド
           </h1>
           <p className="text-xs md:text-sm text-emerald-100/90 leading-relaxed">
-            富山湾の青い海の向こうに、標高3,000m級の北アルプス立山連峰が白銀に輝く奇跡のパノラマ「雨晴海岸」。冬の日本海の王者「氷見寒ブリ」の極上刺身とブリしゃぶ。潮風を感じる氷見温泉郷のナトリウム塩化物泉。富山湾のキトキトな美味に酔いしれる旅。
+            島崎藤村の『夜明け前』の舞台、深い木曽谷の歴史薫る宿場町「木曽福島」。中山道を取り締まった「福島関所」と崖家造りの町並み。木曽川のエメラルドグリーンの激流が花崗岩を削り出した奇勝「寝覚の床」。冷涼な木曽谷の天然温泉と信州手打ちそばの旅。
           </p>
         </div>
       </div>

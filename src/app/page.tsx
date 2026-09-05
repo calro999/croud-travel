@@ -1635,6 +1635,41 @@ export default function Home() {
               <span>日本銘酒街道・酒蔵の町並み巡り宿</span>
             </Link>
             <Link
+              href="/akita-oga-peninsula-namahage-nyudozaki-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-950 via-stone-900 to-red-950 hover:from-blue-900 hover:to-red-900 rounded-2xl shadow-lg transition border border-red-300/40 flex items-center gap-1.5"
+            >
+              <span>👹</span>
+              <span>男鹿半島なまはげ・入道崎＆石焼料理宿</span>
+            </Link>
+            <Link
+              href="/nagano-kiso-fukushima-nezamenotoko-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-900 via-stone-900 to-emerald-950 hover:from-amber-800 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🏮</span>
+              <span>木曽福島宿場町・寝覚の床＆木曽そば宿</span>
+            </Link>
+            <Link
+              href="/toyama-himi-amaharashi-tateyama-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-cyan-900 via-blue-950 to-teal-950 hover:from-cyan-800 hover:to-teal-900 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>🐟</span>
+              <span>氷見寒ブリ＆雨晴海岸立山連峰パノラマ宿</span>
+            </Link>
+            <Link
+              href="/kochi-shimanto-river-chinkabashi-ashizuri-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-teal-900 via-emerald-950 to-blue-950 hover:from-teal-800 hover:to-blue-900 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>🚣</span>
+              <span>四万十川沈下橋カヌー・足摺岬＆うなぎ宿</span>
+            </Link>
+            <Link
+              href="/kagoshima-yakushima-shiratani-jomon-sugi-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-emerald-950 bg-gradient-to-r from-emerald-300 via-teal-300 to-amber-200 hover:from-emerald-200 hover:to-amber-100 rounded-2xl shadow-lg transition border border-emerald-200 flex items-center gap-1.5"
+            >
+              <span>🌲</span>
+              <span>屋久島世界遺産・白谷雲水峡苔森＆縄文杉宿</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >
