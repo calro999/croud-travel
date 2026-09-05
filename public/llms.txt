@@ -13,6 +13,10 @@
 - [楽天トラベル「あとから割引」完全攻略ガイド](https://croud-travel.pages.dev/furusato-tax-travel-after-booking-discount-guide): 予約済み宿にも使えるふるさと納税クーポン活用法
 - [ご当地グルメ宿を堪能する美食旅特集](https://croud-travel.pages.dev/furusato-tax-local-gourmet-inn-stay): 高千穂牛・天然あなご・伊勢海老を味わう返礼クーポン旅
 - [愛犬同伴＆プライベートサウナご褒美ステイ](https://croud-travel.pages.dev/furusato-tax-pet-sauna-private-hotspring-stay): 裏磐梯・伊豆高原・白馬の特化宿ガイド
+- [3世代家族旅行×高額枠一括消化ガイド](https://croud-travel.pages.dev/furusato-tax-three-generation-family-luxury-stay): 熱海・白浜・那須の離れ＆客室露天風呂宿
+- [ゲレンデ直結×白銀スノーリゾート特集](https://croud-travel.pages.dev/furusato-tax-ski-snowboard-slope-resort-stay): ニセコ・白馬・越後湯沢のスキー温泉ホテル
+- [憧れの最高峰宿・記念日スイート＆ヴィラ](https://croud-travel.pages.dev/furusato-tax-anniversary-luxury-suite-villa-stay): 箱根・京都・沖縄の極上アニバーサリーステイ
+- [車なし・新幹線駅直結の名湯旅館ガイド](https://croud-travel.pages.dev/furusato-tax-shinkansen-station-walk-hotspring-stay): 越後湯沢・熱海・加賀温泉の雪道運転不要旅
 
 ## 都道府県別観光＆宿泊ガイド
 - [HOKKAIDO 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/hokkaido)

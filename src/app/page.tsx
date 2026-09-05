@@ -2223,6 +2223,34 @@ export default function Home() {
               <span>愛犬同伴＆プライベートサウナご褒美ステイ特集</span>
             </Link>
             <Link
+              href="/furusato-tax-three-generation-family-luxury-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-indigo-950 via-stone-900 to-amber-950 hover:from-indigo-900 hover:to-stone-800 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>👨‍👩‍👧‍👦♨️</span>
+              <span>3世代家族旅行・高額枠一括消化！離れ客室露天風呂宿</span>
+            </Link>
+            <Link
+              href="/furusato-tax-ski-snowboard-slope-resort-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-blue-950 via-slate-900 to-amber-950 hover:from-blue-900 hover:to-slate-800 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>⛷️🏔️</span>
+              <span>ゲレンデ直結×白銀リゾート！スキー＆雪見温泉ステイ</span>
+            </Link>
+            <Link
+              href="/furusato-tax-anniversary-luxury-suite-villa-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-rose-950 via-stone-900 to-amber-950 hover:from-rose-900 hover:to-stone-800 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>💍🥂</span>
+              <span>憧れの最高峰宿！記念日・プロポーズの極上スイート＆ヴィラ</span>
+            </Link>
+            <Link
+              href="/furusato-tax-shinkansen-station-walk-hotspring-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-teal-950 via-stone-900 to-amber-950 hover:from-teal-900 hover:to-stone-800 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🚅♨️</span>
+              <span>車なし・雪道運転不要！新幹線駅直結の名湯温泉旅館</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >
