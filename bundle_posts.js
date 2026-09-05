@@ -256,6 +256,10 @@ Sitemap: ${BASE_URL}/sitemap-posts.xml
 - [日本三大星空・天体観測リゾート×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-starry-sky-astronomy-retreat-stay): 阿智村・八ヶ岳清里・鳥取大山の満天星空リゾート
 - [朝食日本一受賞・究極の朝ごはんホテル×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-award-winning-breakfast-gourmet-hotel-stay): 函館・神戸・金沢のいくら盛り放題＆美食ビュッフェ
 - [清流渓谷＆名瀑ヒーリング温泉宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-waterfall-river-gorge-healing-onsen-stay): 奥入瀬渓流・天城湯ヶ島・作並温泉の滝見露天宿
+- [クラフトビール＆ご当地ブルワリーホテル×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-craft-beer-brewery-hotel-stay): 軽井沢・修善寺・小樽の出来立て生ビールと美食ステイ
+- [登録有形文化財・宮大工名建築旅館×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-tangible-cultural-property-architectural-ryokan-stay): 修善寺新井旅館・渋温泉金具屋・箱根環翠楼の歴史宿
+- [海鮮浜焼き・港町朝市めぐり直結宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-morning-market-hamayaki-seafood-inn-stay): 八戸・沼津・高知の獲れたて市場グルメと浜焼き
+- [絶景オーシャンフロント×波音ヒーリングの海宿ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-oceanfront-wave-sound-healing-stay): 稲取・南房総・読谷村の全室オーシャンビューと潮騒露天
 
 ## 都道府県別観光＆宿泊ガイド
 `;
