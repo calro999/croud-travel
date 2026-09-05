@@ -58,6 +58,7 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【おすすめ宿】舞子温泉　飯士の湯　舞子高原ホテルの魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/16403): 舞子温泉　飯士の湯　舞子高原ホテル（新潟県）
 - [【千葉県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/40498): 犬吠埼潮の湯温泉　犬吠埼観光ホテル（千葉県）
 - [【おすすめ宿】横浜平和プラザホテルの魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/11195): 横浜平和プラザホテル（富山県）
 - [【徳島県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/20228): 新祖谷温泉　ホテルかずら橋（徳島県）
@@ -107,4 +108,3 @@
 - [【新潟・出湯温泉】愛犬と泊まれる秘湯の宿 大石屋旅館！日本最古のラジウム温泉と越後美味会席](https://croud-travel.pages.dev/posts/ooishiya-ryokan-deyutonsen-pet-radium-guide): 五頭温泉郷　出湯温泉　郷愁の宿　大石屋旅館（新潟県）
 - [【運河の宿 おたる ふる川】カップル・夫婦記念日ステイ！客室露天風呂・贅沢会席・静かな滞在の口コミ](https://croud-travel.pages.dev/posts/otaru-furukawa-canal-view-retro-guide): 運河の宿　おたる　ふる川（北海道）
 - [【香川・坂出】湯元さぬき瀬戸大橋温泉 せとうちそう！瀬戸大橋ライトアップと本場讃岐うどん巡り](https://croud-travel.pages.dev/posts/setouchiso-sakaide-seto-bridge-udon-guide): 坂出プラザホテル（香川県）
-- [【支笏湖温泉】日本屈指の透明度を誇る湖畔リゾート！美肌とろとろ湯とレイクビュー宿5選](https://croud-travel.pages.dev/posts/shikotsuko-onsen-lake-view-bihada-guide): 支笏湖第一寶亭留　翠山亭（北海道）

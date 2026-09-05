@@ -2020,6 +2020,41 @@ export default function Home() {
               <span>吉野山一目千本桜・金峯山寺蔵王堂宿</span>
             </Link>
             <Link
+              href="/yamanashi-koshu-katsunuma-wine-isawa-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-purple-950 via-red-950 to-amber-950 hover:from-purple-900 hover:to-red-900 rounded-2xl shadow-lg transition border border-purple-300/40 flex items-center gap-1.5"
+            >
+              <span>🍇🍷</span>
+              <span>勝沼ワイナリー・桃源郷＆石和名湯美肌宿</span>
+            </Link>
+            <Link
+              href="/iwate-hiraizumi-ichinoseki-geibikei-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-950 via-yellow-950 to-stone-900 hover:from-amber-900 hover:to-yellow-900 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🏯🚣</span>
+              <span>平泉中尊寺金色堂・猊鼻渓舟下り＆前沢牛宿</span>
+            </Link>
+            <Link
+              href="/nagano-togakushi-zenkoji-monzen-obuse-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-950 via-stone-900 to-amber-950 hover:from-emerald-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>🌲⛩️</span>
+              <span>戸隠杉並木・善光寺お朝事＆小布施栗宿</span>
+            </Link>
+            <Link
+              href="/ehime-uwajima-uchiko-ozu-castle-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-cyan-950 via-blue-950 to-amber-950 hover:from-cyan-900 hover:to-blue-900 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>🐟🏯</span>
+              <span>現存宇和島城・鯛めし＆内子白壁・大洲宿</span>
+            </Link>
+            <Link
+              href="/yamaguchi-akiyoshidai-karst-cave-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-teal-950 via-emerald-950 to-stone-900 hover:from-teal-900 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>🪨♨️</span>
+              <span>秋芳洞カルスト台地＆長門湯本温泉街宿</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >
