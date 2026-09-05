@@ -1705,6 +1705,41 @@ export default function Home() {
               <span>国際星空保護区＆離島ネイチャーステイ</span>
             </Link>
             <Link
+              href="/yamagata-sakata-sankyo-warehouse-shonai-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-stone-900 via-amber-950 to-blue-950 hover:from-stone-850 hover:to-blue-900 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🌾</span>
+              <span>酒田山居倉庫ケヤキ並木・ラーメン＆夕陽宿</span>
+            </Link>
+            <Link
+              href="/gunma-shima-onsen-okushima-lake-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-teal-900 via-cyan-950 to-stone-900 hover:from-teal-800 hover:to-stone-850 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>♨️</span>
+              <span>四万温泉積善館レトロ木造＆四万ブルー宿</span>
+            </Link>
+            <Link
+              href="/nagano-bessho-onsen-ueda-castle-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-red-950 via-amber-950 to-stone-900 hover:from-red-900 hover:to-stone-850 rounded-2xl shadow-lg transition border border-red-300/40 flex items-center gap-1.5"
+            >
+              <span>🏯</span>
+              <span>別所温泉安楽寺八角三重塔＆上田城真田宿</span>
+            </Link>
+            <Link
+              href="/shizuoka-sumatakyo-okuoi-lake-bridge-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-900 via-teal-950 to-cyan-950 hover:from-emerald-800 hover:to-cyan-900 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>🌉</span>
+              <span>寸又峡夢の吊橋＆奥大井湖上アプト鉄道宿</span>
+            </Link>
+            <Link
+              href="/yamaguchi-nagato-yumoto-motonosumi-shrine-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-950 via-red-950 to-teal-950 hover:from-rose-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-rose-300/40 flex items-center gap-1.5"
+            >
+              <span>⛩️</span>
+              <span>長門湯本恩湯リノベ＆元乃隅123鳥居宿</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >
