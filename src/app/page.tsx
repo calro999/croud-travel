@@ -2447,6 +2447,34 @@ export default function Home() {
               <span>歴史街道・宿場町めぐり名宿！中山道妻籠・馬籠・日光街道の江戸情緒</span>
             </Link>
             <Link
+              href="/furusato-tax-sunset-ocean-magic-hour-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-amber-950 via-orange-950 to-red-950 hover:from-amber-900 hover:to-orange-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🌅🌇</span>
+              <span>絶景夕日・サンセット特等席の海宿！堂ヶ島・由良・白浜のマジックアワー</span>
+            </Link>
+            <Link
+              href="/furusato-tax-sake-brewery-pairing-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-100 bg-gradient-to-r from-stone-900 via-amber-950 to-stone-950 hover:from-stone-800 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🍶♨️</span>
+              <span>日本酒ペアリング＆酒蔵直結名宿！越後湯沢酒風呂・諏訪五蔵・会津地酒</span>
+            </Link>
+            <Link
+              href="/furusato-tax-sea-of-clouds-sky-terrace-hotel-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-sky-200 bg-gradient-to-r from-blue-950 via-sky-950 to-indigo-950 hover:from-blue-900 hover:to-sky-900 rounded-2xl shadow-lg transition border border-sky-400/50 flex items-center gap-1.5"
+            >
+              <span>☁️🏔️</span>
+              <span>雲海テラス＆天空パノラマリゾート！トマム・志賀高原・蔵王の雲上宿</span>
+            </Link>
+            <Link
+              href="/furusato-tax-temple-shukubo-shojin-mindfulness-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-emerald-200 bg-gradient-to-r from-stone-950 via-emerald-950 to-stone-900 hover:from-stone-900 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-emerald-400/50 flex items-center gap-1.5"
+            >
+              <span>⛩️🧘</span>
+              <span>古刹宿坊＆本格精進料理ステイ！高野山・善光寺・京都寺院の瞑想旅</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >

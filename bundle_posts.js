@@ -264,6 +264,10 @@ Sitemap: ${BASE_URL}/sitemap-posts.xml
 - [高原リゾート＆美食フレンチオーベルジュ×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-highland-resort-french-auberge-stay): 那須・清里・裏磐梯の森の休日
 - [日本三大美肌の湯×炭酸水素塩泉・美肌温泉ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-major-bihada-hotspring-stay): 嬉野・喜連川・玉造の名湯治宿
 - [歴史街道・宿場町めぐり名宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-historical-kaido-post-town-ryokan-stay): 中山道木曽路（妻籠・馬籠）・日光街道の江戸情緒旅
+- [絶景夕日・サンセット特等席の海宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-sunset-ocean-magic-hour-stay): 堂ヶ島・由良・白浜の茜色マジックアワー温泉
+- [日本酒ペアリング＆酒蔵直結名宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-sake-brewery-pairing-onsen-stay): 越後湯沢・諏訪・会津の名酒と温泉旅
+- [雲海テラス＆天空パノラマリゾート×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-sea-of-clouds-sky-terrace-hotel-stay): トマム・志賀高原・蔵王の雲上絶景ホテル
+- [古刹宿坊＆本格精進料理ステイ×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-temple-shukubo-shojin-mindfulness-stay): 高野山・善光寺・京都寺院のマインドフルネス旅
 
 ## 都道府県別観光＆宿泊ガイド
 `;
