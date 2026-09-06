@@ -3035,6 +3035,34 @@ export default function Home() {
               <span>日本三大夜桜＆桜回廊ライトアップ宿！弘前・高田城・高遠城址</span>
             </Link>
             <Link
+              href="/furusato-tax-three-great-beautiful-forests-wood-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-emerald-200 bg-gradient-to-r from-stone-950 via-emerald-950 to-teal-950 hover:from-stone-900 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-emerald-400/50 flex items-center gap-1.5"
+            >
+              <span>🌲🪵</span>
+              <span>日本三大美林＆天然木アロマ温泉宿！青森ヒバ・秋田スギ・木曽ヒノキ</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-curious-bridges-canyon-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-amber-950 via-stone-900 to-yellow-950 hover:from-amber-900 hover:to-stone-850 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🌉🏞️</span>
+              <span>日本三奇橋＆スリル名橋・渓谷宿！錦帯橋・甲斐猿橋・祖谷かずら橋</span>
+            </Link>
+            <Link
+              href="/furusato-tax-new-three-major-night-views-sky-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-cyan-200 bg-gradient-to-r from-slate-950 via-blue-950 to-indigo-950 hover:from-slate-900 hover:to-blue-900 rounded-2xl shadow-lg transition border border-cyan-400/50 flex items-center gap-1.5"
+            >
+              <span>🌃✨</span>
+              <span>新日本三大夜景＆天空スカイパノラマ宿！皿倉山・若草山・フルーツ公園</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-fire-festivals-passion-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-red-200 bg-gradient-to-r from-red-950 via-orange-950 to-amber-950 hover:from-red-900 hover:to-orange-900 rounded-2xl shadow-lg transition border border-red-400/50 flex items-center gap-1.5"
+            >
+              <span>🔥🏮</span>
+              <span>日本三大火祭り＆燃え盛る情熱伝統宿！那智・野沢温泉・鞍馬</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >
