@@ -2811,6 +2811,34 @@ export default function Home() {
               <span>日本のウイスキー聖地＆蒸溜所宿！余市・サントリー白州・富士御殿場</span>
             </Link>
             <Link
+              href="/furusato-tax-three-great-pottery-towns-gourmet-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-stone-950 via-amber-950 to-orange-950 hover:from-stone-900 hover:to-orange-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🏺🍶</span>
+              <span>日本三大陶磁器の里＆器と美食宿！有田・美濃・瀬戸焼と武雄嬉野温泉</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-hachiman-shrines-sacred-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-red-200 bg-gradient-to-r from-red-950 via-rose-950 to-stone-900 hover:from-red-900 hover:to-stone-850 rounded-2xl shadow-lg transition border border-red-400/50 flex items-center gap-1.5"
+            >
+              <span>⛩️🕊️</span>
+              <span>日本三大八幡宮＆厄除開運門前宿！宇佐神宮・石清水八幡宮・筥崎宮</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-master-brewers-toji-sake-inn-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-cyan-200 bg-gradient-to-r from-blue-950 via-indigo-950 to-slate-900 hover:from-blue-900 hover:to-slate-850 rounded-2xl shadow-lg transition border border-cyan-400/50 flex items-center gap-1.5"
+            >
+              <span>🍶♨️</span>
+              <span>日本三大杜氏の郷＆純米大吟醸仕込み水宿！南部・越後・丹波杜氏</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-karst-plateaus-mountain-resort-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-emerald-200 bg-gradient-to-r from-emerald-950 via-teal-950 to-sky-950 hover:from-emerald-900 hover:to-sky-900 rounded-2xl shadow-lg transition border border-emerald-400/50 flex items-center gap-1.5"
+            >
+              <span>⛰️🐑</span>
+              <span>日本三大カルスト台地＆高原絶景宿！秋吉台・四国カルスト・平尾台</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >

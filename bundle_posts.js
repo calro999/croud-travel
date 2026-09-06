@@ -316,6 +316,10 @@ Sitemap: ${BASE_URL}/sitemap-posts.xml
 - [日本三名鐘＆歴史の響き・古刹めぐり宿坊名門宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-sacred-temple-bells-retreat-stay): 三井寺・神護寺・観世音寺の静寂リトリート
 - [日本三大銘菓＆歴史茶の湯・老舗和菓子めぐり風雅宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-wagashi-tea-culture-stay): 金沢長生殿・長岡越乃雪・松江山川の城下町旅
 - [日本のウイスキー聖地＆蒸溜所ツアーと極上オーベルジュ×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-japanese-whisky-distillery-retreat-stay): 余市・白州・富士御殿場の至福ステイ
+- [日本三大陶磁器の里＆窯元めぐり・器と美食宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-pottery-towns-gourmet-stay): 有田・美濃・瀬戸の名陶と武雄嬉野温泉
+- [日本三大八幡宮＆厄除け開運祈願・門前町名宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-hachiman-shrines-sacred-stay): 宇佐神宮・石清水八幡宮・筥崎宮の聖地巡礼
+- [日本三大杜氏の郷＆極上純米大吟醸・仕込み水温泉宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-master-brewers-toji-sake-inn-stay): 南部杜氏・越後杜氏・丹波杜氏の美酒ステイ
+- [日本三大カルスト台地＆白亜の石灰岩パノラマ高原宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-karst-plateaus-mountain-resort-stay): 秋吉台・四国カルスト・平尾台の絶景リゾート
 
 ## 都道府県別観光＆宿泊ガイド
 `;
