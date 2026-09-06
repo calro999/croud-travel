@@ -57,6 +57,10 @@
 - [ブランド地鶏・水炊き・軍鶏料理の名湯宿×ふるさと納税完全ガイド](https://croud-travel.pages.dev/furusato-tax-brand-jidori-mizutaki-gourmet-stay): 比内地鶏・土佐ジロー・黒さつま鶏の美食宿
 - [日本三名園＆大名庭園を望む老舗旅館×ふるさと納税完全ガイド](https://croud-travel.pages.dev/furusato-tax-three-great-gardens-heritage-stay): 兼六園・後楽園・偕楽園の庭園美ステイ
 - [絶景サイクリング＆海沿いサイクリスト温泉宿×ふるさと納税完全ガイド](https://croud-travel.pages.dev/furusato-tax-cycling-shimanami-lake-resort-stay): しまなみ海道・尾道・琵琶湖ビワイチの絶景リゾート
+- [日本三景の絶景オーシャンビュー宿×ふるさと納税完全ガイド](https://croud-travel.pages.dev/furusato-tax-three-scenic-views-heritage-stay): 松島・天橋立・宮島の名門旅館
+- [海中展望＆ダイビング・シュノーケリング直結リゾート×ふるさと納税完全ガイド](https://croud-travel.pages.dev/furusato-tax-diving-ocean-resort-stay): 恩納村・串本・西伊豆のマリンホテル
+- [文豪の愛した名湯・文学ゆかりの老舗旅館×ふるさと納税完全ガイド](https://croud-travel.pages.dev/furusato-tax-literary-heritage-historic-onsen-stay): 城崎・伊豆湯ヶ島・道後の文芸宿
+- [天空の露天風呂付きグランピング＆星空ドーム×ふるさと納税完全ガイド](https://croud-travel.pages.dev/furusato-tax-sky-open-air-glamping-resort-stay): 富士山・阿蘇・那須の高級アウトドア宿
 
 ## 都道府県別観光＆宿泊ガイド
 - [HOKKAIDO 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/hokkaido)
@@ -108,6 +112,7 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【おすすめ宿】三ヶ日温泉　浜名湖レークサイドプラザの魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/9198): 三ヶ日温泉　浜名湖レークサイドプラザ（愛知県）
 - [【大阪府観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/184199): ホテル　Ｂ　Ｓｕｉｔｅｓ　なんば黒門（大阪府）
 - [【おすすめ宿】ホテルクラウンヒルズ富士宮　西富士宮駅前（ＢＢＨホテルグループ）の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/40039): ホテルクラウンヒルズ富士宮　西富士宮駅前（ＢＢＨホテルグループ）（静岡県）
 - [【青森県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/41009): 酸ヶ湯温泉旅館（青森県）
@@ -157,4 +162,3 @@
 - [【鳴子温泉郷】日本屈指の多彩な泉質を巡る名湯宿7選！鳴子峡の紅葉と伝統こけしの街](https://croud-travel.pages.dev/posts/naruko-onsen-kyuto-yumeguri-retro-ryokan-guide): 鳴子温泉郷　極上の貸切露天風呂　旅館大沼（宮城県）
 - [【登別温泉 登別グランドホテル】カップル・夫婦記念日ステイ！客室露天風呂・贅沢会席・静かな滞在の口コミ](https://croud-travel.pages.dev/posts/noboribetsu-onsen-jigokudani-nine-springs-guide): 登別温泉　登別グランドホテル（北海道）
 - [【秋田・乳頭温泉郷】憧れの秘湯「鶴の湯温泉」と七湯めぐり宿6選！白濁にごり湯ときりたんぽ鍋](https://croud-travel.pages.dev/posts/nyuto-onsen-tsurunoyu-secret-hotspring-guide): 田沢湖高原温泉　田沢高原ホテル（秋田県）
-- [【奥日光湯元温泉】乳白色のにごり湯源泉かけ流し宿6選！中禅寺湖・湯滝ハイキングととちぎ和牛](https://croud-travel.pages.dev/posts/okunikko-yumoto-onsen-sulfur-springs-guide): 奥日光湯元温泉　ゆの森（栃木県）

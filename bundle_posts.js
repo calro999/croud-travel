@@ -276,6 +276,10 @@ Sitemap: ${BASE_URL}/sitemap-posts.xml
 - [ブランド地鶏・水炊き・軍鶏料理の名湯宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-brand-jidori-mizutaki-gourmet-stay): 比内地鶏・土佐ジロー・黒さつま鶏の美食宿
 - [日本三名園＆大名庭園を望む老舗旅館×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-gardens-heritage-stay): 兼六園・後楽園・偕楽園の庭園美ステイ
 - [絶景サイクリング＆海沿いサイクリスト温泉宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-cycling-shimanami-lake-resort-stay): しまなみ海道・尾道・琵琶湖ビワイチの絶景リゾート
+- [日本三景の絶景オーシャンビュー宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-scenic-views-heritage-stay): 松島・天橋立・宮島の名門旅館
+- [海中展望＆ダイビング・シュノーケリング直結リゾート×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-diving-ocean-resort-stay): 恩納村・串本・西伊豆のマリンホテル
+- [文豪の愛した名湯・文学ゆかりの老舗旅館×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-literary-heritage-historic-onsen-stay): 城崎・伊豆湯ヶ島・道後の文芸宿
+- [天空の露天風呂付きグランピング＆星空ドーム×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-sky-open-air-glamping-resort-stay): 富士山・阿蘇・那須の高級アウトドア宿
 
 ## 都道府県別観光＆宿泊ガイド
 `;
