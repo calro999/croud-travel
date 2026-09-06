@@ -280,6 +280,10 @@ Sitemap: ${BASE_URL}/sitemap-posts.xml
 - [海中展望＆ダイビング・シュノーケリング直結リゾート×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-diving-ocean-resort-stay): 恩納村・串本・西伊豆のマリンホテル
 - [文豪の愛した名湯・文学ゆかりの老舗旅館×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-literary-heritage-historic-onsen-stay): 城崎・伊豆湯ヶ島・道後の文芸宿
 - [天空の露天風呂付きグランピング＆星空ドーム×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-sky-open-air-glamping-resort-stay): 富士山・阿蘇・那須の高級アウトドア宿
+- [天然炭酸泉＆シュワシュワ美肌の湯宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-carbonated-spring-effervescent-onsen-stay): 長湯・下呂・有馬の極上泡風呂
+- [清流アクティビティ＆リバービュー温泉宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-river-activity-canoe-fishing-resort-stay): 長良川・四万十川・保津川の舟旅
+- [銘菓・和カフェ＆老舗スイーツめぐり温泉宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-sweets-cafe-wagashi-retro-onsen-stay): 金沢・小布施・伊勢の甘味旅
+- [国宝天守・城下町キャッスルビュー名門宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-national-treasure-castle-view-luxury-stay): 姫路城・松本城・彦根城の歴史旅
 
 ## 都道府県別観光＆宿泊ガイド
 `;

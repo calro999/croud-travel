@@ -2559,6 +2559,34 @@ export default function Home() {
               <span>天空の露天風呂付きグランピング＆星空ドーム！富士山・阿蘇・那須</span>
             </Link>
             <Link
+              href="/furusato-tax-carbonated-spring-effervescent-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-cyan-200 bg-gradient-to-r from-cyan-950 via-blue-950 to-stone-900 hover:from-cyan-900 hover:to-blue-900 rounded-2xl shadow-lg transition border border-cyan-400/50 flex items-center gap-1.5"
+            >
+              <span>🫧♨️</span>
+              <span>天然炭酸泉＆シュワシュワ美肌の湯宿！長湯・下呂・有馬の極上泡風呂</span>
+            </Link>
+            <Link
+              href="/furusato-tax-river-activity-canoe-fishing-resort-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-teal-200 bg-gradient-to-r from-teal-950 via-emerald-950 to-stone-900 hover:from-teal-900 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-teal-400/50 flex items-center gap-1.5"
+            >
+              <span>🛶🐟</span>
+              <span>清流アクティビティ＆リバービュー宿！長良川鵜飼・四万十川・保津川</span>
+            </Link>
+            <Link
+              href="/furusato-tax-sweets-cafe-wagashi-retro-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-amber-950 via-orange-950 to-stone-900 hover:from-amber-900 hover:to-orange-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🍡🍵</span>
+              <span>銘菓・和カフェ＆老舗スイーツめぐり温泉宿！金沢・小布施・伊勢</span>
+            </Link>
+            <Link
+              href="/furusato-tax-national-treasure-castle-view-luxury-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-indigo-200 bg-gradient-to-r from-slate-950 via-indigo-950 to-stone-900 hover:from-slate-900 hover:to-indigo-900 rounded-2xl shadow-lg transition border border-indigo-400/50 flex items-center gap-1.5"
+            >
+              <span>🏯✨</span>
+              <span>国宝天守・城下町キャッスルビュー名門宿！姫路城・松本城・彦根城</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >
