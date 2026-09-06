@@ -296,6 +296,10 @@ Sitemap: ${BASE_URL}/sitemap-posts.xml
 - [銘柄豚・極上しゃぶしゃぶ料理の名湯宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-brand-pork-shabu-gourmet-stay): 鹿児島黒豚・平田牧場金華豚・那須高原豚の美食旅
 - [日本三大美林＆巨樹・森林セラピー癒やしの宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-major-forest-therapy-retreat-stay): 屋久島・木曽ヒノキ・青森ヒバの森
 - [国産ウイスキー蒸溜所＆銘酒ペアリング宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-distillery-whisky-pairing-stay): 余市・白州・秩父のモルト旅
+- [日本三大峡谷＆巨岩奇勝パノラマ露天風呂宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-gorges-canyon-onsen-stay): 清津峡・黒部峡谷・大杉谷の絶景名湯
+- [最高級黒毛和牛ステーキ＆鉄板焼きカウンター宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-kuroge-wagyu-teppanyaki-luxury-stay): 松阪牛・近江牛・米沢牛の美食ホテル
+- [日本最古のクラシックリゾートホテル×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-japan-oldest-classic-hotel-heritage-stay): 日光金谷・箱根富士屋・雲仙観光ホテルの洋館ステイ
+- [夕映えリアス式海岸＆伊勢海老・鮑料理の海宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-rias-coast-ise-ebi-abalone-ocean-stay): 志摩英虞湾・南三陸・伊根の舟屋の贅沢旅
 
 ## 都道府県別観光＆宿泊ガイド
 `;

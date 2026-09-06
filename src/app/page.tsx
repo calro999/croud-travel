@@ -2671,6 +2671,34 @@ export default function Home() {
               <span>国産ウイスキー蒸溜所＆銘酒ペアリング宿！余市・白州・秩父モルト</span>
             </Link>
             <Link
+              href="/furusato-tax-three-great-gorges-canyon-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-emerald-200 bg-gradient-to-r from-teal-950 via-emerald-950 to-slate-900 hover:from-teal-900 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-emerald-400/50 flex items-center gap-1.5"
+            >
+              <span>🏞️♨️</span>
+              <span>日本三大峡谷＆巨岩パノラマ露天風呂宿！清津峡・黒部峡谷・大杉谷</span>
+            </Link>
+            <Link
+              href="/furusato-tax-kuroge-wagyu-teppanyaki-luxury-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-100 bg-gradient-to-r from-red-950 via-stone-900 to-amber-950 hover:from-red-900 hover:to-stone-850 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🥩🔥</span>
+              <span>最高級黒毛和牛ステーキ＆鉄板焼き宿！松阪牛・近江牛・米沢牛</span>
+            </Link>
+            <Link
+              href="/furusato-tax-japan-oldest-classic-hotel-heritage-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-stone-950 via-amber-950 to-stone-900 hover:from-stone-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🏛️🗝️</span>
+              <span>日本最古のクラシックホテル！日光金谷・箱根富士屋・雲仙観光ホテル</span>
+            </Link>
+            <Link
+              href="/furusato-tax-rias-coast-ise-ebi-abalone-ocean-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-orange-200 bg-gradient-to-r from-blue-950 via-orange-950 to-amber-950 hover:from-blue-900 hover:to-orange-900 rounded-2xl shadow-lg transition border border-orange-400/50 flex items-center gap-1.5"
+            >
+              <span>🦐🦪</span>
+              <span>夕映えリアス式海岸＆伊勢海老・鮑宿！志摩英虞湾・南三陸・伊根舟屋</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >
