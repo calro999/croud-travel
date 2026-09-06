@@ -372,6 +372,11 @@ Sitemap: ${BASE_URL}/sitemap-posts.xml
 - [日本三大イルミネーション＆光の祭典宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-illuminations-stay): あしかが・ハウステンボス・さっぽろ白雪
 - [日本三大車窓＆鉄道浪漫パノラマ宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-train-window-views-stay): 姨捨・矢岳越え・狩勝峠の鉄道絶景
 - [日本三大水城＆名城パノラマ宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-water-castles-stay): 高松城・今治城・中津城の海水堀天守
+- [日本三大うどん＆極上麺道湯宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-udons-gourmet-stay): 讃岐・稲庭・五島の伝統手延べ麺
+- [日本三霊山＆霊峰パノラマ宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-sacred-mountains-stay): 富士山・立山・白山の神聖なる霊峰
+- [日本三大漆器＆伝統工芸名湯宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-lacquerwares-stay): 越前・山中・会津の漆芸器文化
+- [日本三大干潟＆海の満ち引き海鮮宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-tidal-flats-nature-stay): 有明海・諫早湾・曽根干潟の干満差パノラマ
+
 
 
 

@@ -3203,6 +3203,34 @@ export default function Home() {
               <span>日本三大水城＆名城パノラマ宿！高松城・今治城・中津城</span>
             </Link>
             <Link
+              href="/furusato-tax-three-great-udons-gourmet-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-orange-950 via-amber-950 to-yellow-950 hover:from-orange-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🍜🥢</span>
+              <span>日本三大うどん＆極上麺道湯宿！讃岐・稲庭・五島</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-sacred-mountains-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-blue-200 bg-gradient-to-r from-slate-950 via-blue-950 to-indigo-950 hover:from-slate-900 hover:to-indigo-900 rounded-2xl shadow-lg transition border border-blue-400/50 flex items-center gap-1.5"
+            >
+              <span>🗻✨</span>
+              <span>日本三霊山＆霊峰パノラマ宿！富士山・立山・白山</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-lacquerwares-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-rose-200 bg-gradient-to-r from-red-950 via-stone-900 to-amber-950 hover:from-red-900 hover:to-stone-850 rounded-2xl shadow-lg transition border border-rose-400/50 flex items-center gap-1.5"
+            >
+              <span>🥢🍱</span>
+              <span>日本三大漆器＆伝統工芸名湯宿！越前・山中・会津</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-tidal-flats-nature-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-teal-200 bg-gradient-to-r from-teal-950 via-emerald-950 to-slate-950 hover:from-teal-900 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-teal-400/50 flex items-center gap-1.5"
+            >
+              <span>🦀🌅</span>
+              <span>日本三大干潟＆海の満ち引き海鮮宿！有明海・諫早湾・曽根干潟</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >
