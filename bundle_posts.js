@@ -272,6 +272,10 @@ Sitemap: ${BASE_URL}/sitemap-posts.xml
 - [日本三大夜景＆天空スカイラウンジホテル×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-major-night-view-luxury-hotel-stay): 長崎・神戸・函館の1000万ドル夜景ステイ
 - [清流川床料理＆避暑せせらぎ名宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-riverside-kawadoko-cooling-inn-stay): 京都貴船・四万十川・越後岩室の涼風ステイ
 - [蔵サウナ＆一棟貸しプライベートヴィラ×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-kura-sauna-private-villa-charter-stay): 信濃町・八ヶ岳・丹波篠山の完全貸切ととのい旅
+- [紅葉渓谷＆錦秋の絶景露天風呂宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-autumn-foliage-gorge-onsen-stay): 定山渓・奥日光・嵐山の錦秋名湯ステイ
+- [ブランド地鶏・水炊き・軍鶏料理の名湯宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-brand-jidori-mizutaki-gourmet-stay): 比内地鶏・土佐ジロー・黒さつま鶏の美食宿
+- [日本三名園＆大名庭園を望む老舗旅館×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-gardens-heritage-stay): 兼六園・後楽園・偕楽園の庭園美ステイ
+- [絶景サイクリング＆海沿いサイクリスト温泉宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-cycling-shimanami-lake-resort-stay): しまなみ海道・尾道・琵琶湖ビワイチの絶景リゾート
 
 ## 都道府県別観光＆宿泊ガイド
 `;
