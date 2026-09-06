@@ -2867,6 +2867,34 @@ export default function Home() {
               <span>日本三大松原＆白砂青松オーシャン宿！三保松原・虹の松原・気比の松原</span>
             </Link>
             <Link
+              href="/furusato-tax-three-sacred-mountains-sky-resort-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-sky-200 bg-gradient-to-r from-blue-950 via-indigo-950 to-slate-900 hover:from-blue-900 hover:to-slate-850 rounded-2xl shadow-lg transition border border-sky-400/50 flex items-center gap-1.5"
+            >
+              <span>🗻✨</span>
+              <span>日本三霊山＆名峰パノラマ宿！富士山・白山・立山アルペンルート</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-famous-waters-culinary-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-cyan-200 bg-gradient-to-r from-cyan-950 via-teal-950 to-blue-950 hover:from-cyan-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-cyan-400/50 flex items-center gap-1.5"
+            >
+              <span>💧🍲</span>
+              <span>日本三大名水＆清冽湧水美食宿！南阿蘇白川水源・八ヶ岳白州・京都伏見</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-water-towns-riverside-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-emerald-200 bg-gradient-to-r from-teal-950 via-emerald-950 to-amber-950 hover:from-teal-900 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-emerald-400/50 flex items-center gap-1.5"
+            >
+              <span>🚣🛶</span>
+              <span>日本三大水郷＆川下り舟宿！柳川うなぎ・近江八幡和船・小江戸佐原</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-gorge-open-air-baths-retreat-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-amber-950 via-stone-900 to-emerald-950 hover:from-amber-900 hover:to-stone-850 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>♨️🏞️</span>
+              <span>日本三大渓谷野天風呂宿！天城湯ヶ島・群馬尻焼川風呂・秋田秋の宮</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >

@@ -324,6 +324,10 @@ Sitemap: ${BASE_URL}/sitemap-posts.xml
 - [日本三大古道＆歴史巡礼の山林トレッキング宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-ancient-trails-historic-stay): 熊野古道・木曽路・鯖街道の宿場町名宿
 - [激流ラフティング＆清流キャニオニング宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-whitewater-rafting-canyoning-adventure-stay): みなかみ利根川・吉野川小歩危・仁淀川ブルー
 - [日本三大松原＆白砂青松オーシャンビュー宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-pine-groves-ocean-stay): 三保松原・虹の松原・気比の松原のシーサイドステイ
+- [日本三霊山＆名峰を仰ぐ天空リゾート×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-sacred-mountains-sky-resort-stay): 富士山・白山・立山の絶景パノラマ宿
+- [日本三大名水＆清冽な湧水仕込み美食宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-famous-waters-culinary-stay): 南阿蘇白川水源・八ヶ岳白州・京都伏見の極上ステイ
+- [日本三大水郷＆川下り舟舟遊び・水上情景宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-water-towns-riverside-stay): 柳川・近江八幡・佐原の水郷情緒旅
+- [日本三大渓谷露天風呂＆野天温泉宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-gorge-open-air-baths-retreat-stay): 天城湯ヶ島・群馬尻焼・秋田秋の宮の清流秘湯
 
 ## 都道府県別観光＆宿泊ガイド
 `;
