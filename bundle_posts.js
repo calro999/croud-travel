@@ -300,6 +300,10 @@ Sitemap: ${BASE_URL}/sitemap-posts.xml
 - [最高級黒毛和牛ステーキ＆鉄板焼きカウンター宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-kuroge-wagyu-teppanyaki-luxury-stay): 松阪牛・近江牛・米沢牛の美食ホテル
 - [日本最古のクラシックリゾートホテル×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-japan-oldest-classic-hotel-heritage-stay): 日光金谷・箱根富士屋・雲仙観光ホテルの洋館ステイ
 - [夕映えリアス式海岸＆伊勢海老・鮑料理の海宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-rias-coast-ise-ebi-abalone-ocean-stay): 志摩英虞湾・南三陸・伊根の舟屋の贅沢旅
+- [日本三名瀑＆ダイナミック滝見露天風呂宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-waterfalls-onsen-stay): 那智の滝・華厳の滝・袋田の滝の豪快名湯
+- [地酒BAR＆日本酒利き酒し放題の名湯宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-sake-bar-unlimited-tasting-stay): 越後湯沢・山形赤湯・京都伏見の酒蔵ステイ
+- [日本三大砂丘＆雄大パノラマ・砂の絶景リゾート宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-sand-dunes-resort-stay): 鳥取砂丘・中田島砂丘・吹上浜の海宿
+- [古民家かまど炊きご飯＆囲炉裏郷土料理の宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-traditional-kamado-rice-irori-stay): 白川郷・遠野・丹波篠山のおばあちゃん家ステイ
 
 ## 都道府県別観光＆宿泊ガイド
 `;
