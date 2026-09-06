@@ -2951,6 +2951,34 @@ export default function Home() {
               <span>日本三大薬湯＆濃厚生薬湯治宿！松之山温泉・草津温泉・有馬温泉</span>
             </Link>
             <Link
+              href="/furusato-tax-three-great-bon-dances-heritage-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-red-950 via-orange-950 to-amber-950 hover:from-red-900 hover:to-orange-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🏮👘</span>
+              <span>日本三大盆踊り＆伝統文化宿！西馬音内・郡上おどり・阿波おどり</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-karsts-highland-drive-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-cyan-200 bg-gradient-to-r from-slate-950 via-teal-950 to-emerald-950 hover:from-slate-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-cyan-400/50 flex items-center gap-1.5"
+            >
+              <span>🚗⛰️</span>
+              <span>日本三大カルスト台地＆絶景スカイドライブ宿！秋吉台・四国カルスト・平尾台</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-cutlery-towns-craft-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-slate-200 bg-gradient-to-r from-zinc-950 via-slate-900 to-stone-950 hover:from-zinc-900 hover:to-slate-800 rounded-2xl shadow-lg transition border border-slate-400/50 flex items-center gap-1.5"
+            >
+              <span>🔪✨</span>
+              <span>日本三大刃物の里＆職人クラフト宿！関・越前・堺</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-gardens-heritage-luxury-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-emerald-200 bg-gradient-to-r from-emerald-950 via-teal-950 to-stone-950 hover:from-emerald-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-emerald-400/50 flex items-center gap-1.5"
+            >
+              <span>🏯🌸</span>
+              <span>日本三大名園＆大名庭園を愛でる名門宿！兼六園・後楽園・偕楽園</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >

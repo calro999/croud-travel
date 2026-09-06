@@ -336,6 +336,11 @@ Sitemap: ${BASE_URL}/sitemap-posts.xml
 - [日本三大松原・砂州＆白砂青松オーシャンビュー宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-pine-groves-sandbar-stay): 天橋立・気比の松原・三保の松原の海岸リゾート
 - [日本三大和紙の里＆工芸温泉宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-washi-craft-heritage-stay): 越前和紙・美濃和紙・小川和紙の手漉き体験
 - [日本三大薬湯＆濃厚生薬湯治宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-medicinal-springs-healing-stay): 松之山温泉・草津温泉・有馬温泉の圧倒的奇跡薬湯
+- [日本三大盆踊り＆伝統文化・城下町宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-bon-dances-heritage-stay): 西馬音内・郡上おどり・阿波おどりの伝統熱気
+- [日本三大カルスト台地＆絶景スカイドライブ宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-karsts-highland-drive-stay): 秋吉台・四国カルスト・平尾台の白銀高原
+- [日本三大刃物の里＆職人クラフト宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-cutlery-towns-craft-stay): 関・越前・堺の名刀と至高の和包丁
+- [日本三大名園＆大名庭園を愛でる名門宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-gardens-heritage-luxury-stay): 兼六園・後楽園・偕楽園の四季風雅ステイ
+
 
 
 ## 都道府県別観光＆宿泊ガイド
