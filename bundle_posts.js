@@ -292,6 +292,10 @@ Sitemap: ${BASE_URL}/sitemap-posts.xml
 - [名水百選・湧水めぐり＆名水蕎麦豆腐料理の宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-spring-water-soba-tofu-onsen-stay): 忍野八海・安曇野・郡上八幡の名湯
 - [日本三大薬湯＆奇跡の濃厚湯治宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-medicinal-baths-onsen-stay): 有馬・草津・松之山の名湯治体験
 - [クラフトシードル＆ご当地ホップ醸造宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-craft-cider-hop-brewery-stay): 弘前・遠野・南信州飯田の果実酒ステイ
+- [神秘のコバルトブルー・カルデラ湖畔ホテル×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-caldera-blue-lake-resort-stay): 支笏湖・屈斜路湖・田沢湖の美景
+- [銘柄豚・極上しゃぶしゃぶ料理の名湯宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-brand-pork-shabu-gourmet-stay): 鹿児島黒豚・平田牧場金華豚・那須高原豚の美食旅
+- [日本三大美林＆巨樹・森林セラピー癒やしの宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-major-forest-therapy-retreat-stay): 屋久島・木曽ヒノキ・青森ヒバの森
+- [国産ウイスキー蒸溜所＆銘酒ペアリング宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-distillery-whisky-pairing-stay): 余市・白州・秩父のモルト旅
 
 ## 都道府県別観光＆宿泊ガイド
 `;

@@ -2643,6 +2643,34 @@ export default function Home() {
               <span>クラフトシードル＆ご当地ホップ醸造宿！弘前・遠野・南信州飯田</span>
             </Link>
             <Link
+              href="/furusato-tax-caldera-blue-lake-resort-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-sky-200 bg-gradient-to-r from-blue-950 via-sky-950 to-teal-950 hover:from-blue-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-sky-400/50 flex items-center gap-1.5"
+            >
+              <span>🌊🛶</span>
+              <span>神秘の青・カルデラ湖畔ホテル！支笏湖ブルー・屈斜路湖・田沢湖</span>
+            </Link>
+            <Link
+              href="/furusato-tax-brand-pork-shabu-gourmet-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-rose-200 bg-gradient-to-r from-rose-950 via-red-950 to-amber-950 hover:from-rose-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-rose-400/50 flex items-center gap-1.5"
+            >
+              <span>🥩🍲</span>
+              <span>銘柄豚・極上しゃぶしゃぶ料理の名湯宿！鹿児島黒豚・金華豚・那須豚</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-major-forest-therapy-retreat-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-emerald-200 bg-gradient-to-r from-emerald-950 via-teal-950 to-stone-900 hover:from-emerald-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-emerald-400/50 flex items-center gap-1.5"
+            >
+              <span>🌲🪵</span>
+              <span>日本三大美林＆森林セラピー癒やしの宿！屋久杉・木曽ヒノキ・青森ヒバ</span>
+            </Link>
+            <Link
+              href="/furusato-tax-distillery-whisky-pairing-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-100 bg-gradient-to-r from-stone-950 via-amber-950 to-yellow-950 hover:from-stone-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🥃樽</span>
+              <span>国産ウイスキー蒸溜所＆銘酒ペアリング宿！余市・白州・秩父モルト</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >
