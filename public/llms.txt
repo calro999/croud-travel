@@ -109,6 +109,10 @@
 - [日本三大名水＆清冽な湧水仕込み美食宿×ふるさと納税完全ガイド](https://croud-travel.pages.dev/furusato-tax-three-famous-waters-culinary-stay): 南阿蘇白川水源・八ヶ岳白州・京都伏見の極上ステイ
 - [日本三大水郷＆川下り舟舟遊び・水上情景宿×ふるさと納税完全ガイド](https://croud-travel.pages.dev/furusato-tax-three-great-water-towns-riverside-stay): 柳川・近江八幡・佐原の水郷情緒旅
 - [日本三大渓谷露天風呂＆野天温泉宿×ふるさと納税完全ガイド](https://croud-travel.pages.dev/furusato-tax-three-gorge-open-air-baths-retreat-stay): 天城湯ヶ島・群馬尻焼・秋田秋の宮の清流秘湯
+- [日本三大美港＆ウォーターフロント名門ホテル×ふるさと納税完全ガイド](https://croud-travel.pages.dev/furusato-tax-three-great-ports-waterfront-luxury-stay): 神戸・横浜・長崎のエキゾチック港町ステイ
+- [日本三大銘茶の産地＆茶香炉ヒーリング宿×ふるさと納税完全ガイド](https://croud-travel.pages.dev/furusato-tax-three-great-green-tea-regions-healing-stay): 静岡茶・宇治茶・朝宮茶の大茶園リトリート
+- [日本三大水城＆海に浮かぶ名城展望宿×ふるさと納税完全ガイド](https://croud-travel.pages.dev/furusato-tax-three-great-water-castles-seaside-stay): 今治城・高松城・中津城の海水堀と海の幸
+- [日本三大奇勝＆巨岩奇峰パノラマ宿×ふるさと納税完全ガイド](https://croud-travel.pages.dev/furusato-tax-three-great-wonders-rock-scenery-stay): 妙義山・耶馬渓・寒霞渓のダイナミック絶景
 
 ## 都道府県別観光＆宿泊ガイド
 - [HOKKAIDO 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/hokkaido)
