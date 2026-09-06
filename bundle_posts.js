@@ -288,6 +288,10 @@ Sitemap: ${BASE_URL}/sitemap-posts.xml
 - [銘酒ワイナリー＆葡萄畑オーベルジュ×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-winery-vineyard-auberge-stay): 勝沼・余市・十勝のワインペアリング旅
 - [絶景ローカル線＆トロッコ列車めぐり温泉宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-scenic-train-torokko-railway-onsen-stay): わたらせ・大井川SL・只見線の鉄道旅
 - [白亜の灯台＆断崖絶景オーシャンビュー宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-lighthouse-cliff-ocean-panorama-stay): 日御碕・犬吠埼・室戸岬の岬リゾート
+- [絶景棚田＆日本の原風景里山温泉宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-terraced-rice-fields-satoyama-onsen-stay): 星峠・白米千枚田・大山千枚田の休日
+- [名水百選・湧水めぐり＆名水蕎麦豆腐料理の宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-spring-water-soba-tofu-onsen-stay): 忍野八海・安曇野・郡上八幡の名湯
+- [日本三大薬湯＆奇跡の濃厚湯治宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-medicinal-baths-onsen-stay): 有馬・草津・松之山の名湯治体験
+- [クラフトシードル＆ご当地ホップ醸造宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-craft-cider-hop-brewery-stay): 弘前・遠野・南信州飯田の果実酒ステイ
 
 ## 都道府県別観光＆宿泊ガイド
 `;
