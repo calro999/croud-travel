@@ -2475,6 +2475,34 @@ export default function Home() {
               <span>古刹宿坊＆本格精進料理ステイ！高野山・善光寺・京都寺院の瞑想旅</span>
             </Link>
             <Link
+              href="/furusato-tax-secluded-canyon-isolated-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-stone-900 via-stone-950 to-amber-950 hover:from-stone-800 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>⛰️🪵</span>
+              <span>秘境・渓谷の一軒宿！黒部峡谷トロッコ・祖谷かずら橋の完全遮断宿</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-major-night-view-luxury-hotel-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-indigo-200 bg-gradient-to-r from-indigo-950 via-purple-950 to-slate-900 hover:from-indigo-900 hover:to-purple-900 rounded-2xl shadow-lg transition border border-indigo-400/50 flex items-center gap-1.5"
+            >
+              <span>🌃✨</span>
+              <span>日本三大夜景＆スカイラウンジホテル！長崎・神戸・函館の1000万ドル夜景</span>
+            </Link>
+            <Link
+              href="/furusato-tax-riverside-kawadoko-cooling-inn-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-teal-200 bg-gradient-to-r from-teal-950 via-emerald-950 to-blue-950 hover:from-teal-900 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-teal-400/50 flex items-center gap-1.5"
+            >
+              <span>🍃🐟</span>
+              <span>清流川床料理＆避暑せせらぎ名宿！京都貴船・四万十川の涼風会席</span>
+            </Link>
+            <Link
+              href="/furusato-tax-kura-sauna-private-villa-charter-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-amber-950 via-stone-900 to-orange-950 hover:from-amber-900 hover:to-orange-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🛖🧖</span>
+              <span>蔵サウナ＆一棟貸しプライベートヴィラ！信濃町・八ヶ岳・丹波篠山</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >
