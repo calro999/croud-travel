@@ -2839,6 +2839,34 @@ export default function Home() {
               <span>日本三大カルスト台地＆高原絶景宿！秋吉台・四国カルスト・平尾台</span>
             </Link>
             <Link
+              href="/furusato-tax-japan-three-great-hot-springs-heritage-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-amber-950 via-red-950 to-stone-900 hover:from-amber-900 hover:to-red-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>♨️👑</span>
+              <span>日本三名泉＆格式ある老舗旅館！有馬金泉・草津湯畑・下呂美肌湯</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-ancient-trails-historic-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-stone-200 bg-gradient-to-r from-stone-950 via-emerald-950 to-amber-950 hover:from-stone-900 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-stone-400/50 flex items-center gap-1.5"
+            >
+              <span>🥾🌲</span>
+              <span>日本三大古道＆歴史巡礼宿！熊野古道・中山道木曽路・鯖街道熊川宿</span>
+            </Link>
+            <Link
+              href="/furusato-tax-whitewater-rafting-canyoning-adventure-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-cyan-200 bg-gradient-to-r from-blue-950 via-cyan-950 to-teal-950 hover:from-blue-900 hover:to-cyan-900 rounded-2xl shadow-lg transition border border-cyan-400/50 flex items-center gap-1.5"
+            >
+              <span>🛶🌊</span>
+              <span>激流ラフティング＆キャニオニング宿！みなかみ利根川・吉野川・仁淀川</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-pine-groves-ocean-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-teal-200 bg-gradient-to-r from-emerald-950 via-teal-950 to-blue-950 hover:from-emerald-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-teal-400/50 flex items-center gap-1.5"
+            >
+              <span>🌲🌊</span>
+              <span>日本三大松原＆白砂青松オーシャン宿！三保松原・虹の松原・気比の松原</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >

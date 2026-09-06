@@ -101,6 +101,10 @@
 - [日本三大八幡宮＆厄除け開運祈願・門前町名宿×ふるさと納税完全ガイド](https://croud-travel.pages.dev/furusato-tax-three-great-hachiman-shrines-sacred-stay): 宇佐神宮・石清水八幡宮・筥崎宮の聖地巡礼
 - [日本三大杜氏の郷＆極上純米大吟醸・仕込み水温泉宿×ふるさと納税完全ガイド](https://croud-travel.pages.dev/furusato-tax-three-master-brewers-toji-sake-inn-stay): 南部杜氏・越後杜氏・丹波杜氏の美酒ステイ
 - [日本三大カルスト台地＆白亜の石灰岩パノラマ高原宿×ふるさと納税完全ガイド](https://croud-travel.pages.dev/furusato-tax-three-karst-plateaus-mountain-resort-stay): 秋吉台・四国カルスト・平尾台の絶景リゾート
+- [日本三名泉＆格式ある老舗温泉旅館×ふるさと納税完全ガイド](https://croud-travel.pages.dev/furusato-tax-japan-three-great-hot-springs-heritage-stay): 有馬・草津・下呂の天下の名湯ステイ
+- [日本三大古道＆歴史巡礼の山林トレッキング宿×ふるさと納税完全ガイド](https://croud-travel.pages.dev/furusato-tax-three-great-ancient-trails-historic-stay): 熊野古道・木曽路・鯖街道の宿場町名宿
+- [激流ラフティング＆清流キャニオニング宿×ふるさと納税完全ガイド](https://croud-travel.pages.dev/furusato-tax-whitewater-rafting-canyoning-adventure-stay): みなかみ利根川・吉野川小歩危・仁淀川ブルー
+- [日本三大松原＆白砂青松オーシャンビュー宿×ふるさと納税完全ガイド](https://croud-travel.pages.dev/furusato-tax-three-great-pine-groves-ocean-stay): 三保松原・虹の松原・気比の松原のシーサイドステイ
 
 ## 都道府県別観光＆宿泊ガイド
 - [HOKKAIDO 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/hokkaido)
