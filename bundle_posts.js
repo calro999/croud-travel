@@ -344,6 +344,11 @@ Sitemap: ${BASE_URL}/sitemap-posts.xml
 - [日本三大急流＆舟下り・リバーサイド宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-rapids-river-boat-stay): 最上川・富士川・球磨川の豪快舟旅
 - [日本三大峡谷＆断崖絶壁・エメラルド渓谷宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-gorges-canyon-scenery-stay): 清津峡・黒部峡谷・瀞峡の圧倒的パノラマ
 - [日本三大酒どころ＆酒蔵ツーリズム宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-sake-capitals-brewery-stay): 灘五郷・伏見・西条の銘酒ペアリング
+- [日本三大原生林＆世界遺産ネイチャー宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-primeval-forests-nature-stay): 知床・屋久島・白神山地の手つかず大自然
+- [日本三大砂丘＆風紋パノラマ・海宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-sand-dunes-coastal-stay): 鳥取砂丘・吹上浜・中田島砂丘の砂漠リゾート
+- [日本三大仏＆古都クラシック宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-buddhas-heritage-stay): 奈良・鎌倉・高岡大仏の歴史ヒーリング旅
+- [日本三大夜桜＆お花見ライトアップ宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-night-cherry-blossoms-stay): 弘前・高田城・高遠城址の満開桜幻郷
+
 
 
 

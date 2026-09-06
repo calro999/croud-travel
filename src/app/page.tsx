@@ -3007,6 +3007,34 @@ export default function Home() {
               <span>日本三大酒どころ＆酒蔵ツーリズム宿！灘五郷・伏見・西条</span>
             </Link>
             <Link
+              href="/furusato-tax-three-great-primeval-forests-nature-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-emerald-200 bg-gradient-to-r from-emerald-950 via-teal-950 to-green-950 hover:from-emerald-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-emerald-400/50 flex items-center gap-1.5"
+            >
+              <span>🌲🦌</span>
+              <span>日本三大原生林＆世界自然遺産宿！知床・屋久島・白神山地</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-sand-dunes-coastal-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-amber-950 via-yellow-950 to-stone-900 hover:from-amber-900 hover:to-yellow-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🐪🏜️</span>
+              <span>日本三大砂丘＆風紋パノラマ宿！鳥取砂丘・吹上浜・中田島砂丘</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-buddhas-heritage-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-100 bg-gradient-to-r from-amber-950 via-stone-900 to-amber-950 hover:from-amber-900 hover:to-stone-850 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🪷🏛️</span>
+              <span>日本三大仏＆歴史ヒーリング名宿！東大寺大仏・鎌倉大仏・高岡大仏</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-night-cherry-blossoms-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-pink-200 bg-gradient-to-r from-pink-950 via-rose-950 to-purple-950 hover:from-pink-900 hover:to-rose-900 rounded-2xl shadow-lg transition border border-pink-400/50 flex items-center gap-1.5"
+            >
+              <span>🌸🏯</span>
+              <span>日本三大夜桜＆桜回廊ライトアップ宿！弘前・高田城・高遠城址</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >
