@@ -85,6 +85,10 @@
 - [地酒BAR＆日本酒利き酒し放題の名湯宿×ふるさと納税完全ガイド](https://croud-travel.pages.dev/furusato-tax-sake-bar-unlimited-tasting-stay): 越後湯沢・山形赤湯・京都伏見の酒蔵ステイ
 - [日本三大砂丘＆雄大パノラマ・砂の絶景リゾート宿×ふるさと納税完全ガイド](https://croud-travel.pages.dev/furusato-tax-three-great-sand-dunes-resort-stay): 鳥取砂丘・中田島砂丘・吹上浜の海宿
 - [古民家かまど炊きご飯＆囲炉裏郷土料理の宿×ふるさと納税完全ガイド](https://croud-travel.pages.dev/furusato-tax-traditional-kamado-rice-irori-stay): 白川郷・遠野・丹波篠山のおばあちゃん家ステイ
+- [日本三大イルミネーション直結リゾートホテル×ふるさと納税完全ガイド](https://croud-travel.pages.dev/furusato-tax-three-great-illuminations-resort-stay): あしかが・ハウステンボス・さっぽろ光のステイ
+- [天然クエ鍋＆幻の高級魚グルメ宿×ふるさと納税完全ガイド](https://croud-travel.pages.dev/furusato-tax-kue-gourmet-luxury-fish-stay): 南紀白浜・長崎五島・高知室戸の本クエ会席
+- [日本三名橋＆歴史遺産を望むリバーサイド名宿×ふるさと納税完全ガイド](https://croud-travel.pages.dev/furusato-tax-three-famous-bridges-heritage-stay): 岩国錦帯橋・長崎眼鏡橋・東京日本橋の風情旅
+- [富士山ビュー客室露天風呂宿×ふるさと納税完全ガイド](https://croud-travel.pages.dev/furusato-tax-open-air-bath-with-majestic-fuji-view-stay): 河口湖・日本平・箱根芦ノ湖の霊峰一望リゾート
 
 ## 都道府県別観光＆宿泊ガイド
 - [HOKKAIDO 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/hokkaido)
@@ -136,6 +140,7 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【山梨県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/8421): プチホテル＆レストラン　オールドエイジ（山梨県）
 - [【おすすめ宿】湯之尾温泉　お宿秀泉の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/193334): 湯之尾温泉　お宿秀泉（鹿児島県）
 - [【高知県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/15239): 高知黒潮ホテル（高知県）
 - [【おすすめ宿】三ヶ日温泉　浜名湖レークサイドプラザの魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/9198): 三ヶ日温泉　浜名湖レークサイドプラザ（愛知県）
@@ -185,4 +190,3 @@
 - [【奈良】ホテル リガーレ春日野宿泊ガイド！奈良公園・東大寺徒歩圏内の静寂ホテルと大和牛会席](https://croud-travel.pages.dev/posts/ligare-kasugano-nara-park-todaiji-guide): ホテル　リガーレ春日野（奈良県）
 - [【群馬・万座温泉】日本一の高濃度硫黄泉！標高1,800mの雲上絶景露天風呂おすすめ宿6選](https://croud-travel.pages.dev/posts/manza-onsen-highest-sulfur-springs-guide): 万座温泉　湯の花旅館（群馬県）
 - [【三朝温泉 旅館 大橋】カップル・夫婦記念日ステイ！客室露天風呂・贅沢会席・静かな滞在の口コミ](https://croud-travel.pages.dev/posts/misasa-onsen-radium-healing-crab-guide): 三朝温泉　旅館　大橋（鳥取県）
-- [【鳴子温泉郷】日本屈指の多彩な泉質を巡る名湯宿7選！鳴子峡の紅葉と伝統こけしの街](https://croud-travel.pages.dev/posts/naruko-onsen-kyuto-yumeguri-retro-ryokan-guide): 鳴子温泉郷　極上の貸切露天風呂　旅館大沼（宮城県）

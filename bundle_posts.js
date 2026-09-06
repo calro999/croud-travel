@@ -304,6 +304,10 @@ Sitemap: ${BASE_URL}/sitemap-posts.xml
 - [地酒BAR＆日本酒利き酒し放題の名湯宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-sake-bar-unlimited-tasting-stay): 越後湯沢・山形赤湯・京都伏見の酒蔵ステイ
 - [日本三大砂丘＆雄大パノラマ・砂の絶景リゾート宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-sand-dunes-resort-stay): 鳥取砂丘・中田島砂丘・吹上浜の海宿
 - [古民家かまど炊きご飯＆囲炉裏郷土料理の宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-traditional-kamado-rice-irori-stay): 白川郷・遠野・丹波篠山のおばあちゃん家ステイ
+- [日本三大イルミネーション直結リゾートホテル×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-illuminations-resort-stay): あしかが・ハウステンボス・さっぽろ光のステイ
+- [天然クエ鍋＆幻の高級魚グルメ宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-kue-gourmet-luxury-fish-stay): 南紀白浜・長崎五島・高知室戸の本クエ会席
+- [日本三名橋＆歴史遺産を望むリバーサイド名宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-famous-bridges-heritage-stay): 岩国錦帯橋・長崎眼鏡橋・東京日本橋の風情旅
+- [富士山ビュー客室露天風呂宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-open-air-bath-with-majestic-fuji-view-stay): 河口湖・日本平・箱根芦ノ湖の霊峰一望リゾート
 
 ## 都道府県別観光＆宿泊ガイド
 `;

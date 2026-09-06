@@ -2727,6 +2727,34 @@ export default function Home() {
               <span>古民家かまど炊きご飯＆囲炉裏宿！白川郷・遠野・丹波篠山黒豆ご飯</span>
             </Link>
             <Link
+              href="/furusato-tax-three-great-illuminations-resort-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-indigo-200 bg-gradient-to-r from-indigo-950 via-purple-950 to-blue-950 hover:from-indigo-900 hover:to-purple-900 rounded-2xl shadow-lg transition border border-indigo-400/50 flex items-center gap-1.5"
+            >
+              <span>✨🎄</span>
+              <span>日本三大イルミネーション直結宿！あしかが・ハウステンボス・札幌</span>
+            </Link>
+            <Link
+              href="/furusato-tax-kue-gourmet-luxury-fish-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-blue-950 via-amber-950 to-stone-900 hover:from-blue-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🐟🍲</span>
+              <span>天然本クエ鍋＆幻の高級魚グルメ宿！南紀白浜・長崎五島・高知室戸</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-famous-bridges-heritage-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-teal-200 bg-gradient-to-r from-teal-950 via-stone-900 to-slate-900 hover:from-teal-900 hover:to-stone-850 rounded-2xl shadow-lg transition border border-teal-400/50 flex items-center gap-1.5"
+            >
+              <span>🌉🏯</span>
+              <span>日本三名橋＆歴史リバーサイド名宿！岩国錦帯橋・長崎眼鏡橋・日本橋</span>
+            </Link>
+            <Link
+              href="/furusato-tax-open-air-bath-with-majestic-fuji-view-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-sky-200 bg-gradient-to-r from-slate-950 via-blue-950 to-sky-950 hover:from-slate-900 hover:to-sky-900 rounded-2xl shadow-lg transition border border-sky-400/50 flex items-center gap-1.5"
+            >
+              <span>🗻♨️</span>
+              <span>富士山ビュー客室露天風呂宿！河口湖逆さ富士・日本平・箱根芦ノ湖</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >
