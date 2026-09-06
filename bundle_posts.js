@@ -340,6 +340,11 @@ Sitemap: ${BASE_URL}/sitemap-posts.xml
 - [日本三大カルスト台地＆絶景スカイドライブ宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-karsts-highland-drive-stay): 秋吉台・四国カルスト・平尾台の白銀高原
 - [日本三大刃物の里＆職人クラフト宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-cutlery-towns-craft-stay): 関・越前・堺の名刀と至高の和包丁
 - [日本三大名園＆大名庭園を愛でる名門宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-gardens-heritage-luxury-stay): 兼六園・後楽園・偕楽園の四季風雅ステイ
+- [日本三大朝市＆獲れたて海鮮・朝ごはん宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-morning-markets-seafood-stay): 輪島・呼子・勝浦の活気あふれる朝市
+- [日本三大急流＆舟下り・リバーサイド宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-rapids-river-boat-stay): 最上川・富士川・球磨川の豪快舟旅
+- [日本三大峡谷＆断崖絶壁・エメラルド渓谷宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-gorges-canyon-scenery-stay): 清津峡・黒部峡谷・瀞峡の圧倒的パノラマ
+- [日本三大酒どころ＆酒蔵ツーリズム宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-sake-capitals-brewery-stay): 灘五郷・伏見・西条の銘酒ペアリング
+
 
 
 

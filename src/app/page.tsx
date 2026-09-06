@@ -2979,6 +2979,34 @@ export default function Home() {
               <span>日本三大名園＆大名庭園を愛でる名門宿！兼六園・後楽園・偕楽園</span>
             </Link>
             <Link
+              href="/furusato-tax-three-great-morning-markets-seafood-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-amber-950 via-orange-950 to-red-950 hover:from-amber-900 hover:to-orange-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🐟🌅</span>
+              <span>日本三大朝市＆獲れたて海鮮・朝ごはん宿！輪島・呼子・勝浦</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-rapids-river-boat-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-cyan-200 bg-gradient-to-r from-teal-950 via-cyan-950 to-blue-950 hover:from-teal-900 hover:to-cyan-900 rounded-2xl shadow-lg transition border border-cyan-400/50 flex items-center gap-1.5"
+            >
+              <span>🚣🏞️</span>
+              <span>日本三大急流＆舟下り・リバーサイド宿！最上川・富士川・球磨川</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-gorges-canyon-scenery-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-emerald-200 bg-gradient-to-r from-emerald-950 via-teal-950 to-cyan-950 hover:from-emerald-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-emerald-400/50 flex items-center gap-1.5"
+            >
+              <span>⛰️🌲</span>
+              <span>日本三大峡谷＆断崖絶壁・エメラルド渓谷宿！清津峡・黒部峡谷・瀞峡</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-sake-capitals-brewery-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-indigo-200 bg-gradient-to-r from-slate-950 via-indigo-950 to-blue-950 hover:from-slate-900 hover:to-indigo-900 rounded-2xl shadow-lg transition border border-indigo-400/50 flex items-center gap-1.5"
+            >
+              <span>🍶🍶</span>
+              <span>日本三大酒どころ＆酒蔵ツーリズム宿！灘五郷・伏見・西条</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >
