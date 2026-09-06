@@ -2783,6 +2783,34 @@ export default function Home() {
               <span>星空露天風呂＆天文台リゾート！阿智村・美星町・石垣島星空保護区</span>
             </Link>
             <Link
+              href="/furusato-tax-emerald-valley-gorge-hot-spring-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-emerald-200 bg-gradient-to-r from-emerald-950 via-teal-950 to-cyan-950 hover:from-emerald-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-emerald-400/50 flex items-center gap-1.5"
+            >
+              <span>🏞️💎</span>
+              <span>日本三大渓谷美＆エメラルド清流宿！大歩危・黒部峡谷・清津峡</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-sacred-temple-bells-retreat-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-amber-950 via-stone-900 to-slate-900 hover:from-amber-900 hover:to-stone-850 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🔔🧘</span>
+              <span>日本三名鐘＆古刹めぐり宿坊名門宿！三井寺・神護寺・太宰府観世音寺</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-wagashi-tea-culture-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-rose-200 bg-gradient-to-r from-rose-950 via-amber-950 to-emerald-950 hover:from-rose-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-rose-400/50 flex items-center gap-1.5"
+            >
+              <span>🍵🍡</span>
+              <span>日本三大銘菓＆歴史茶の湯名宿！金沢長生殿・長岡越乃雪・松江山川</span>
+            </Link>
+            <Link
+              href="/furusato-tax-japanese-whisky-distillery-retreat-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-100 bg-gradient-to-r from-yellow-950 via-amber-950 to-stone-950 hover:from-yellow-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-yellow-400/50 flex items-center gap-1.5"
+            >
+              <span>🥃🌲</span>
+              <span>日本のウイスキー聖地＆蒸溜所宿！余市・サントリー白州・富士御殿場</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >
