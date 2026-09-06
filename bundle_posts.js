@@ -284,6 +284,10 @@ Sitemap: ${BASE_URL}/sitemap-posts.xml
 - [清流アクティビティ＆リバービュー温泉宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-river-activity-canoe-fishing-resort-stay): 長良川・四万十川・保津川の舟旅
 - [銘菓・和カフェ＆老舗スイーツめぐり温泉宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-sweets-cafe-wagashi-retro-onsen-stay): 金沢・小布施・伊勢の甘味旅
 - [国宝天守・城下町キャッスルビュー名門宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-national-treasure-castle-view-luxury-stay): 姫路城・松本城・彦根城の歴史旅
+- [日本アルプス＆高山トレッキング山岳リゾート宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-alps-trekking-mountain-resort-stay): 上高地・白馬・立山の雲上ホテル
+- [銘酒ワイナリー＆葡萄畑オーベルジュ×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-winery-vineyard-auberge-stay): 勝沼・余市・十勝のワインペアリング旅
+- [絶景ローカル線＆トロッコ列車めぐり温泉宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-scenic-train-torokko-railway-onsen-stay): わたらせ・大井川SL・只見線の鉄道旅
+- [白亜の灯台＆断崖絶景オーシャンビュー宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-lighthouse-cliff-ocean-panorama-stay): 日御碕・犬吠埼・室戸岬の岬リゾート
 
 ## 都道府県別観光＆宿泊ガイド
 `;
