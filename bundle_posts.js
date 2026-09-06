@@ -352,6 +352,11 @@ Sitemap: ${BASE_URL}/sitemap-posts.xml
 - [日本三奇橋＆スリル満点の名橋・渓谷宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-curious-bridges-canyon-stay): 錦帯橋・甲斐の猿橋・祖谷のかずら橋
 - [新日本三大夜景＆天空スカイパノラマ宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-new-three-major-night-views-sky-stay): 皿倉山・若草山・フルーツ公園の100億ドル夜景
 - [日本三大火祭り＆燃え盛る情熱の伝統宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-fire-festivals-passion-stay): 那智の火祭・野沢温泉道祖神・鞍馬の火祭
+- [日本三大氷穴・洞窟探検宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-caves-ice-adventure-stay): 富岳風穴鳴沢氷穴・玉泉洞・昇竜洞の地底美
+- [日本三大奇祭＆天下の熱狂カルチャー宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-curious-festivals-heritage-stay): 諏訪御柱祭・国府宮はだか祭・男鹿ナマハゲ
+- [日本三大鳥居＆聖地パワースポット宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-torii-gates-sacred-stay): 厳島神社・大神神社・平安神宮の神聖鳥居
+- [日本三大花火大会＆リバーサイド展望宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-fireworks-riverside-stay): 長岡フェニックス・大曲芸術玉・土浦競技花火
+
 
 
 
