@@ -376,6 +376,11 @@ Sitemap: ${BASE_URL}/sitemap-posts.xml
 - [日本三霊山＆霊峰パノラマ宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-sacred-mountains-stay): 富士山・立山・白山の神聖なる霊峰
 - [日本三大漆器＆伝統工芸名湯宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-lacquerwares-stay): 越前・山中・会津の漆芸器文化
 - [日本三大干潟＆海の満ち引き海鮮宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-tidal-flats-nature-stay): 有明海・諫早湾・曽根干潟の干満差パノラマ
+- [日本三大和牛＆最高峰霜降り美食宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-wagyu-beef-gourmet-stay): 松阪牛・神戸牛・近江牛の本場すき焼き会席
+- [日本三大急潮＆激流うず潮パノラマ宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-rapid-currents-strait-stay): 鳴門・来島・関門海峡のダイナミック潮流
+- [日本三大和紙＆清流文化湯宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-washi-papers-stay): 越前・美濃・土佐和紙の手漉き職人体験
+- [日本三大高原＆マウンテンリゾート宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-highlands-resort-stay): 志賀高原・軽井沢・白樺湖霧ヶ峰の爽快ステイ
+
 
 
 
