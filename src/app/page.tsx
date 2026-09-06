@@ -3091,6 +3091,34 @@ export default function Home() {
               <span>日本三大花火大会＆リバーサイド展望宿！長岡・大曲・土浦</span>
             </Link>
             <Link
+              href="/furusato-tax-three-thatched-roof-villages-heritage-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-stone-950 via-amber-950 to-emerald-950 hover:from-stone-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🏡🌾</span>
+              <span>日本三大茅葺きの里＆原風景ノスタルジー宿！美山・大内宿・白川郷</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-subterranean-waterfalls-caves-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-cyan-200 bg-gradient-to-r from-cyan-950 via-teal-950 to-blue-950 hover:from-cyan-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-cyan-400/50 flex items-center gap-1.5"
+            >
+              <span>🌊🪨</span>
+              <span>日本三大地底滝鍾乳洞＆地下宮殿宿！井倉洞・あぶくま洞・日原鍾乳洞</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-harbor-cruises-luxury-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-sky-200 bg-gradient-to-r from-slate-950 via-blue-950 to-indigo-950 hover:from-slate-900 hover:to-blue-900 rounded-2xl shadow-lg transition border border-sky-400/50 flex items-center gap-1.5"
+            >
+              <span>🚢🥂</span>
+              <span>日本三大港クルーズ＆夜景ディナークルーズ宿！神戸・横浜・長崎</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-coastal-pine-glamping-resort-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-emerald-200 bg-gradient-to-r from-emerald-950 via-teal-950 to-slate-950 hover:from-emerald-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-emerald-400/50 flex items-center gap-1.5"
+            >
+              <span>🌲⛺</span>
+              <span>日本三大松原・白砂青松グランピング宿！虹の松原・気比松原・三保松原</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >
