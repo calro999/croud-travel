@@ -427,6 +427,10 @@ Sitemap: ${BASE_URL}/sitemap-posts.xml
 - [日本三大フルーツ王国＆もぎたて果実の恵み・果樹園パノラマと美食リゾート×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-fruit-kingdoms-auberge-stay): 山梨笛吹・山形天童・信州小布施の果樹園
 - [日本三大味噌の郷＆百花繚乱の郷土発酵美・老舗蔵と郷土鍋の名湯宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-miso-capitals-gastronomy-stay): 信州味噌・三河八丁味噌・仙台味噌の伝統
 - [日本三大柑橘王国＆黄金色の果樹園・海風薫る爽快リゾートと名湯宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-citrus-kingdoms-resort-stay): 愛媛温州・和歌山有田・静岡三ヶ日みかん
+- [日本三大名勝海岸＆奇岩断崖パノラマ・白砂青松の絶景オーシャンビュー宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-scenic-coasts-stay): 東尋坊・浄土ヶ浜・白良浜の海岸美
+- [日本三大名瀑ヒーリング＆マイナスイオンの清流・名水と豪快な滝見温泉宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-famous-waterfalls-healing-stay): 白糸の滝・吹割の滝・鮎帰りの滝の瀑布美
+- [日本三大名湯の別邸＆極上離れ・客室露天風呂とおこもり贅沢宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-hotsprings-luxury-villas-stay): 草津奈良屋・有馬瑞苑・下呂水明館の最高峰
+- [日本三大茶園＆天空の緑の絨毯・茶畑パノラマと最高峰の抹茶文化・茶香宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-tea-plantations-stay): 牧之原・宇治・八女中央大茶園の緑の丘陵
 
 
 

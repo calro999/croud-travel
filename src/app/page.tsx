@@ -3595,6 +3595,34 @@ export default function Home() {
               <span>日本三大柑橘王国＆爽快な果樹園パノラマ・美肌名湯宿！愛媛温州・和歌山有田・静岡三ヶ日</span>
             </Link>
             <Link
+              href="/furusato-tax-three-great-scenic-coasts-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-teal-200 bg-gradient-to-r from-blue-950 via-cyan-950 to-teal-950 hover:from-blue-900 hover:to-cyan-900 rounded-2xl shadow-lg transition border border-teal-400/50 flex items-center gap-1.5"
+            >
+              <span>🌊🏖️</span>
+              <span>日本三大名勝海岸＆白砂青松オーシャンビュー宿！東尋坊・浄土ヶ浜・白良浜</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-famous-waterfalls-healing-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-cyan-100 bg-gradient-to-r from-emerald-950 via-teal-950 to-sky-950 hover:from-emerald-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-cyan-300/50 flex items-center gap-1.5"
+            >
+              <span>💧🏞️</span>
+              <span>日本三大名瀑ヒーリング＆豪快な滝見温泉宿！白糸の滝・吹割の滝・鮎帰りの滝</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-hotsprings-luxury-villas-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-amber-950 via-stone-900 to-yellow-950 hover:from-amber-900 hover:to-stone-850 rounded-2xl shadow-lg transition border border-amber-300/50 flex items-center gap-1.5"
+            >
+              <span>♨️👑</span>
+              <span>日本三大名湯の別邸＆客室露天・極上おこもり宿！草津奈良屋・有馬瑞苑・下呂水明館</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-tea-plantations-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-emerald-200 bg-gradient-to-r from-emerald-950 via-green-950 to-teal-950 hover:from-emerald-900 hover:to-green-900 rounded-2xl shadow-lg transition border border-emerald-400/50 flex items-center gap-1.5"
+            >
+              <span>🍵🌿</span>
+              <span>日本三大茶園＆天空の茶畑パノラマ・茶香宿！牧之原・宇治・八女中央大茶園</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >
