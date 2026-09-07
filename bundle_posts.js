@@ -451,6 +451,11 @@ Sitemap: ${BASE_URL}/sitemap-posts.xml
 - [日本名水百選＆清冽な湧水地・名水仕込み地酒と美肌温泉宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-famous-spring-waters-healing-stay): 白川水源・安曇野わさび田・柿田川湧水群のリトリート
 - [日本六古窯＆千年の土と炎の陶芸美・作家の器で味わう名料亭旅館×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-six-ancient-kilns-pottery-stay): 備前焼・信楽焼・丹波立杭焼の登り窯情緒
 - [日本三大美林＆木漏れ日の森林セラピー・ウッドヴィラと芳醇木の湯宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-forests-wood-villa-stay): 青森ヒバ・秋田スギ・木曽ヒノキの癒やし空間
+- [日本三大急流＆豪快な舟下りと大自然・リバーサイド温泉宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-rapids-river-stay): 最上川・富士川・球磨川の清流ダイナミズム
+- [日本三大夜桜＆幻想的なぼんぼりと濠に映る夜桜・名門ホテル×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-night-cherry-blossoms-stay): 弘前公園・高田城址公園・上野恩賜公園のお花見
+- [日本三大花火大会＆夜空を焦がす大輪と感動の特等席・眺望ホテル×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-fireworks-resort-stay): 大曲・長岡・土浦全国花火の光の芸術
+- [日本百名城＆国宝天守と壮麗な石垣美・城下町クラシックホテル×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-famous-castles-stone-walls-stay): 松本城・姫路城・熊本城の歴史探訪紀行
+
 
 
 

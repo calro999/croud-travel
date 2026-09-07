@@ -3762,6 +3762,35 @@ export default function Home() {
               <span>🌲🪵</span>
               <span>日本三大美林＆森林セラピー・芳醇ウッドヴィラ温泉宿！青森ヒバ・秋田杉・木曽檜</span>
             </Link>
+            <Link
+              href="/furusato-tax-three-great-rapids-river-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-blue-200 bg-gradient-to-r from-blue-950 via-teal-950 to-cyan-950 hover:from-blue-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-blue-400/50 flex items-center gap-1.5"
+            >
+              <span>🌊🚣</span>
+              <span>日本三大急流＆豪快な舟下りと大自然・リバーサイド温泉宿！最上川・富士川・球磨川</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-night-cherry-blossoms-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-pink-200 bg-gradient-to-r from-rose-950 via-pink-950 to-purple-950 hover:from-rose-900 hover:to-pink-900 rounded-2xl shadow-lg transition border border-pink-400/50 flex items-center gap-1.5"
+            >
+              <span>🌸🏮</span>
+              <span>日本三大夜桜＆幻想的な春宵と濠を埋める花筏・名門ホテル！弘前・高田城・上野</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-fireworks-resort-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-yellow-950 via-amber-950 to-stone-950 hover:from-yellow-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🎆✨</span>
+              <span>日本三大花火大会＆夜空焦がす大輪と感動の特等席ホテル！大曲・長岡・土浦</span>
+            </Link>
+            <Link
+              href="/furusato-tax-famous-castles-stone-walls-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-slate-200 bg-gradient-to-r from-stone-950 via-slate-900 to-indigo-950 hover:from-stone-900 hover:to-slate-850 rounded-2xl shadow-lg transition border border-slate-400/50 flex items-center gap-1.5"
+            >
+              <span>🏯🛡️</span>
+              <span>日本百名城＆国宝天守と壮麗な石垣美・城下町ホテル！松本城・姫路城・熊本城</span>
+            </Link>
+
 
 
 

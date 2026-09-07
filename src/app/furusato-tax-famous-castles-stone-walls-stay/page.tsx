@@ -4,63 +4,63 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【日本三大夜桜】弘前公園・高田城址公園・上野恩賜公園の幻想的な春宵と贅沢ホテルステイ特集｜楽天ふるさと納税完全ガイド',
-  description: '春の夜空を桜色に染め上げる日本屈指の夜桜名所「日本三大夜桜」（青森・弘前城の花筏と夜桜、新潟・高田城の四千本ぼんぼり、東京・上野恩賜公園の風情）。幻想的なライトアップを散策した後は、上質なシティホテルや名門ホテルで寛ぐ旅。楽天ふるさと納税でお得に楽しむお花見ステイ。',
-  keywords: '日本三大夜桜, 弘前公園桜まつり, 高田城址公園, 上野恩賜公園, 弘前パークホテル, アートホテル上越, 三井ガーデンホテル上野, 楽天ふるさと納税, お花見旅行',
+  title: '【日本百名城・国宝名城】松本城・姫路城・熊本城の壮大な石垣美と天守を望む城下町名門ホテル特集｜楽天ふるさと納税完全活用',
+  description: '武士たちの誇りと築城技術の極致「日本屈指の名城」（長野・国宝松本城、兵庫・世界遺産姫路城、熊本・難攻不落の武者返し熊本城）。漆黒と白亜の対比、そびえ立つ天守閣を客室や展望ラウンジから望む優雅な滞在。楽天ふるさと納税の宿泊割引クーポンを活用した歴史探訪紀行。',
+  keywords: '日本百名城, 国宝天守, 松本城, 姫路城, 熊本城, 松本ホテル花月, ホテルモントレ姫路, 熊本ホテルキャッスル, 楽天ふるさと納税, 歴史名門ホテル',
   openGraph: {
-    title: '【日本三大夜桜】弘前公園・高田城址公園・上野恩賜公園の幻想的な春宵と贅沢ホテルステイ特集｜楽天ふるさと納税完全ガイド',
-    description: '春の夜空を桜色に染め上げる日本屈指の夜桜名所「日本三大夜桜」（青森・弘前城の花筏と夜桜、新潟・高田城の四千本ぼんぼり、東京・上野恩賜公園の風情）。幻想的なライトアップを散策した後は、上質なシティホテルや名門ホテルで寛ぐ旅。楽天ふるさと納税でお得に楽しむお花見ステイ。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-night-cherry-blossoms-stay',
+    title: '【日本百名城・国宝名城】松本城・姫路城・熊本城の壮大な石垣美と天守を望む城下町名門ホテル特集｜楽天ふるさと納税完全活用',
+    description: '武士たちの誇りと築城技術の極致「日本屈指の名城」（長野・国宝松本城、兵庫・世界遺産姫路城、熊本・難攻不落の武者返し熊本城）。漆黒と白亜の対比、そびえ立つ天守閣を客室や展望ラウンジから望む優雅な滞在。楽天ふるさと納税の宿泊割引クーポンを活用した歴史探訪紀行。',
+    url: 'https://croud-travel.pages.dev/furusato-tax-famous-castles-stone-walls-stay',
     siteName: '楽天ふるさと納税×高級トラベルガイド',
     type: 'article',
     locale: 'ja_JP',
   },
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-great-night-cherry-blossoms-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-famous-castles-stone-walls-stay',
   },
 };
 
 const hotels = [
   {
-    "key": "sakura_hirosaki",
-    "hotelNo": 14932,
-    "hotelName": "弘前パークホテル",
-    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14932/14932.jpg",
-    "hotelMinCharge": 3690,
-    "reviewAverage": 3.91,
-    "reviewCount": 2677,
-    "address": "青森県弘前市土手町126",
-    "access": "JR『弘前駅』より徒歩約12分。青森空港より車で約50分",
-    "userReview": "ホテルスタッフの方々に癒されました弘前駅から徒歩約15分、弘前城のある公園とJR弘前駅の中間地点にあり、ホテルの目の前が循環バスの停留所だった為、とても便利でした。ネット予約の時に和室を選んで…　2026-09-04 18:57:55投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=14932\" class=\"3click\">つづきはこちら</a>",
-    "label": "青森県弘前市ふるさと納税・二千六百本の夜桜と濠を埋め尽くす花筏パノラマ「弘前公園」アートホテル弘前シティ",
+    "key": "castle_matsumoto",
+    "hotelNo": 15154,
+    "hotelName": "松本ホテル花月",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15154/15154.jpg",
+    "hotelMinCharge": 10098,
+    "reviewAverage": 4.46,
+    "reviewCount": 3704,
+    "address": "長野県松本市大手4-8-9",
+    "access": "松本駅送迎あり◆要予約／松本ＢＴより「信州大学行バス」で約８分上土下車／ＪＲ松本駅より徒歩１５分／松本ＩＣより車で１０分",
+    "userReview": "アップグレードに感謝、食事とワインも最高一泊2食付ひとり旅で利用しました民藝の気を感じたくて、本当は別館の民藝感濃いお部屋をチョイスしたかったのですが、お財布と相談して本館シングルを選びました…　2026-09-05 09:13:06投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=15154\" class=\"3click\">つづきはこちら</a>",
+    "label": "長野県松本市ふるさと納税・国宝五重天守と北アルプスを望む城下町の名門クラシックホテル「松本ホテル花月」",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F"
   },
   {
-    "key": "sakura_takada",
-    "hotelNo": 1033,
-    "hotelName": "アートホテル上越",
-    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1033/1033.jpg",
-    "hotelMinCharge": 3500,
-    "reviewAverage": 4.24,
-    "reviewCount": 3745,
-    "address": "新潟県上越市本町5丁目1-11",
-    "access": "えちごトキめき鉄道「高田駅」より徒歩3分。北陸新幹線「上越妙高駅」より2駅。上信越自動車道「上越高田IC」より15分。",
-    "userReview": "新潟名物グルメが豊富で朝から大満足!朝食バイキング、新潟県の名物グルメがたくさんあって、新潟県人ですが楽しめました。おかげで朝からお腹いっぱいです~(笑)クチコミの詳細はこちらから　htt…　2026-09-05 08:41:03投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=1033\" class=\"3click\">つづきはこちら</a>",
-    "label": "新潟県上越市ふるさと納税・四千本のぼんぼりに照らされる高田城三重櫓と夜桜「日本三大夜桜・高田城址公園」アートホテル上越",
+    "key": "castle_himeji",
+    "hotelNo": 163181,
+    "hotelName": "ホテルモントレ姫路",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/163181/163181.jpg",
+    "hotelMinCharge": 5400,
+    "reviewAverage": 4.46,
+    "reviewCount": 2611,
+    "address": "兵庫県姫路市駅前町60",
+    "access": "ＪＲ姫路駅より直結",
+    "userReview": "トレインビューに子供が大喜びトレインビューのお部屋に宿泊しました。新幹線や在来線、貨物列車まで見られて子供がとても喜んで、朝も夜もずっと電車に夢中でした。ホテルもとても綺麗で、清掃も行き届いており…　2026-09-05 22:38:21投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=163181\" class=\"3click\">つづきはこちら</a>",
+    "label": "兵庫県姫路市ふるさと納税・世界遺産・白鷺が羽を広げたような美しき国宝天守「姫路城」ホテルモントレ姫路",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F"
   },
   {
-    "key": "sakura_ueno",
-    "hotelNo": 107870,
-    "hotelName": "三井ガーデンホテル上野",
-    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/107870/107870.jpg",
-    "hotelMinCharge": 9135,
-    "reviewAverage": 4.1,
-    "reviewCount": 1588,
-    "address": "東京都台東区　東上野3-19-7",
-    "access": "JR上野駅浅草口より徒歩2分／東京メトロ銀座線・日比谷線1番口より徒歩1分／京成上野駅より徒歩6分",
-    "userReview": "上野駅近で観光に便利、パンダフロアも可愛いJR上野駅から近く都内観光にとても便利でした。部屋は清潔でベッドサイドに物が置けるのも良かったです。シャワーの水圧が弱めだったけど、込み合う時間帯…　2026-09-04 21:34:22投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=107870\" class=\"3click\">つづきはこちら</a>",
-    "label": "東京都台東区ふるさと納税・寛永寺の昔から江戸庶民に愛され続ける桜の名所「上野恩賜公園」三井ガーデンホテル上野",
+    "key": "castle_kumamoto",
+    "hotelNo": 841,
+    "hotelName": "熊本ホテルキャッスル",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/841/841.jpg",
+    "hotelMinCharge": 4000,
+    "reviewAverage": 4.44,
+    "reviewCount": 1709,
+    "address": "熊本県熊本市中央区城東町4-2",
+    "access": "JR鹿児島本線『熊本駅』から車で約10分／市電『通町筋』下車徒歩約3分／九州自動車道『熊本IC』より車で約40分",
+    "userReview": "部屋から熊本城のライトアップと朝日を堪能部屋から熊本城が眺められ、夜はライトアップ、朝は朝日に照らされ、雄大なお城を間近で見ることができました。クチコミの詳細はこちらから　https://re…　2026-09-05 23:17:59投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=841\" class=\"3click\">つづきはこちら</a>",
+    "label": "熊本県熊本市ふるさと納税・武者返しの壮大な石垣と復興の天守閣を一望する迎賓館「熊本ホテルキャッスル」",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F"
   }
 ];
@@ -73,13 +73,13 @@ export default function FurusatoRound57Page() {
         <div className="max-w-5xl mx-auto text-center">
           <div className="inline-flex items-center gap-2 bg-rose-500/20 border border-rose-400/40 px-4 py-1.5 rounded-full text-rose-300 text-sm font-semibold mb-6">
             <span>✨</span>
-            <span>日本三大夜桜・幽玄の春宵ステイ特集</span>
+            <span>名城天守・城下町クラシックステイ特集</span>
           </div>
           <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight">
-            日本三大夜桜の名所と春の宵を彩る贅沢ホテルステイ
+            日本百名城の石垣美と天守を望む城下町名門ホテルステイ
           </h1>
           <p className="text-lg sm:text-xl text-slate-300 max-w-3xl mx-auto leading-relaxed mb-8">
-            闇夜に浮かび上がる幾千本もの桜と、水面に映り込む淡紅色の光のコントラスト。「日本三大夜桜」と称される弘前公園、高田城址公園、上野恩賜公園は、息をのむほど幽玄でドラマティックな春の絶景を誇ります。濠を埋め尽くす桜の花筏、ぼんぼりに照らされた三重櫓、そして江戸情緒漂う上野の桜並木。夜風に舞う花吹雪を堪能した後は、洗練されたホテルで美酒とともに余韻に浸る贅沢。楽天ふるさと納税の宿泊クーポンを活用して、一生の思い出に残る夜桜旅行へ出かけましょう。
+            威風堂々とそびえ立つ天守閣と、何段にも積み上げられた壮大な武者返しの石垣。戦国から泰平の世へと移り変わる歴史を見届けてきた名城たち。北アルプスを借景とする漆黒の国宝「松本城」、白鷺が羽を広げたような優美さを誇る世界遺産「姫路城」、そして見事な復興を遂げた不落の巨城「熊本城」。城下町の歴史ある町並みを散策し、格式高い名門ホテルで贅沢な美食を味わうひととき。楽天ふるさと納税を活用して、日本の城郭美を愛でる極上の旅へ出かけましょう。
           </p>
           <div className="flex flex-wrap justify-center gap-4">
             <a

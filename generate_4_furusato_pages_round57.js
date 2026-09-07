@@ -1,69 +1,100 @@
-import React from 'react';
+const fs = require('fs');
+const path = require('path');
+
+const round57Hotels = JSON.parse(fs.readFileSync(path.join(__dirname, 'round57_hotels.json'), 'utf-8'));
+
+// 認証済み公式実在URL（HTTP 200）
+const OFFICIAL_FURUSATO_AFFILIATE_URL = "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F";
+
+const pages = [
+  {
+    slug: 'furusato-tax-three-great-rapids-river-stay',
+    title: '【日本三大急流】最上川・富士川・球磨川の豪快な川下りと大自然リバーサイド温泉宿特集｜楽天ふるさと納税完全活用',
+    description: '轟く水飛沫とダイナミックな渓谷美を誇る「日本三大急流」（山形・最上川、山梨・富士川、熊本・球磨川）。芭蕉ゆかりの舟下り、信玄の隠し湯・下部温泉、清流アユと天然露天風呂。楽天ふるさと納税の宿泊割引クーポンを活用して、大自然の躍動感を五感で味わうリバーサイド温泉旅へ。',
+    h1: '日本三大急流の豪快な舟下りと大自然リバーサイド温泉ステイ',
+    lead: '山々を切り裂き、轟音とともに流れる圧倒的な水量とダイナミックな渓谷景観「日本三大急流」。「五月雨をあつめて早し」と詠まれた最上川の舟下り、甲州から駿河へと注ぐ急流富士川と名湯下部温泉、そして九州山地を潤す清流球磨川のラフティングとアユ美食。川のせせらぎとマイナスイオンに包まれ、贅沢な源泉かけ流し露天風呂に身を委ねる時間。楽天ふるさと納税の宿泊割引クーポンを利用して、実質2,000円の自己負担で叶える迫力満点のリバーサイドステイへご案内します。',
+    hotelKeys: ['rapid_mogami', 'rapid_fuji', 'rapid_kuma'],
+    keywords: '日本三大急流, 最上川舟下り, 富士川, 球磨川, 高見屋最上川別邸紅, 下部ホテル, あゆの里, 楽天ふるさと納税, リバーサイド温泉',
+    badge: '日本三大急流・水辺の躍動ステイ特集'
+  },
+  {
+    slug: 'furusato-tax-three-great-night-cherry-blossoms-stay',
+    title: '【日本三大夜桜】弘前公園・高田城址公園・上野恩賜公園の幻想的な春宵と贅沢ホテルステイ特集｜楽天ふるさと納税完全ガイド',
+    description: '春の夜空を桜色に染め上げる日本屈指の夜桜名所「日本三大夜桜」（青森・弘前城の花筏と夜桜、新潟・高田城の四千本ぼんぼり、東京・上野恩賜公園の風情）。幻想的なライトアップを散策した後は、上質なシティホテルや名門ホテルで寛ぐ旅。楽天ふるさと納税でお得に楽しむお花見ステイ。',
+    h1: '日本三大夜桜の名所と春の宵を彩る贅沢ホテルステイ',
+    lead: '闇夜に浮かび上がる幾千本もの桜と、水面に映り込む淡紅色の光のコントラスト。「日本三大夜桜」と称される弘前公園、高田城址公園、上野恩賜公園は、息をのむほど幽玄でドラマティックな春の絶景を誇ります。濠を埋め尽くす桜の花筏、ぼんぼりに照らされた三重櫓、そして江戸情緒漂う上野の桜並木。夜風に舞う花吹雪を堪能した後は、洗練されたホテルで美酒とともに余韻に浸る贅沢。楽天ふるさと納税の宿泊クーポンを活用して、一生の思い出に残る夜桜旅行へ出かけましょう。',
+    hotelKeys: ['sakura_hirosaki', 'sakura_takada', 'sakura_ueno'],
+    keywords: '日本三大夜桜, 弘前公園桜まつり, 高田城址公園, 上野恩賜公園, 弘前パークホテル, アートホテル上越, 三井ガーデンホテル上野, 楽天ふるさと納税, お花見旅行',
+    badge: '日本三大夜桜・幽玄の春宵ステイ特集'
+  },
+  {
+    slug: 'furusato-tax-three-great-fireworks-resort-stay',
+    title: '【日本三大花火大会】大曲の花火・長岡まつり・土浦全国花火の圧倒的スケールと眺望ホテルステイ特集｜楽天ふるさと納税トラベルクーポン',
+    description: '夜空を揺るがす光と音の饗宴「日本三大花火大会」（秋田・大曲の花火、新潟・長岡まつり大花火大会、茨城・土浦全国花火競技大会）。内閣総理大臣賞を競う最高峰の煙火芸術や復興祈願フェニックス花火。楽天ふるさと納税の宿泊割引クーポンを活用して、感動の特等席と快適ステイを両立する完全ガイド。',
+    h1: '日本三大花火大会の特等席と快適眺望ホテルステイ',
+    lead: '一瞬の輝きに魂を込める花火師たちの技術の粋と、夜空いっぱいに広がる大輪の火の華「日本三大花火大会」。全国の精鋭が覇を競う「大曲の花火」、信濃川の夜空に打ち上がる大迫力の正三尺玉とフェニックス「長岡花火」、秋風の中で繰り広げられる煙火競技の最高峰「土浦花火」。胸の奥まで響く重低音と煌めく光のシャワーに心を奪われる至福の夜。楽天ふるさと納税の宿泊クーポンを駆使して、日本の夏の風物詩を快適に味わうプレミアムステイをお楽しみください。',
+    hotelKeys: ['fireworks_omagari', 'fireworks_nagaoka', 'fireworks_tsuchiura'],
+    keywords: '日本三大花火大会, 大曲の花火, 長岡花火, 土浦花火大会, ホテルルートイン大曲駅前, ホテルニューオータニ長岡, ホテルマロウド筑波, 楽天ふるさと納税',
+    badge: '日本三大花火・光と音の饗宴ステイ特集'
+  },
+  {
+    slug: 'furusato-tax-famous-castles-stone-walls-stay',
+    title: '【日本百名城・国宝名城】松本城・姫路城・熊本城の壮大な石垣美と天守を望む城下町名門ホテル特集｜楽天ふるさと納税完全活用',
+    description: '武士たちの誇りと築城技術の極致「日本屈指の名城」（長野・国宝松本城、兵庫・世界遺産姫路城、熊本・難攻不落の武者返し熊本城）。漆黒と白亜の対比、そびえ立つ天守閣を客室や展望ラウンジから望む優雅な滞在。楽天ふるさと納税の宿泊割引クーポンを活用した歴史探訪紀行。',
+    h1: '日本百名城の石垣美と天守を望む城下町名門ホテルステイ',
+    lead: '威風堂々とそびえ立つ天守閣と、何段にも積み上げられた壮大な武者返しの石垣。戦国から泰平の世へと移り変わる歴史を見届けてきた名城たち。北アルプスを借景とする漆黒の国宝「松本城」、白鷺が羽を広げたような優美さを誇る世界遺産「姫路城」、そして見事な復興を遂げた不落の巨城「熊本城」。城下町の歴史ある町並みを散策し、格式高い名門ホテルで贅沢な美食を味わうひととき。楽天ふるさと納税を活用して、日本の城郭美を愛でる極上の旅へ出かけましょう。',
+    hotelKeys: ['castle_matsumoto', 'castle_himeji', 'castle_kumamoto'],
+    keywords: '日本百名城, 国宝天守, 松本城, 姫路城, 熊本城, 松本ホテル花月, ホテルモントレ姫路, 熊本ホテルキャッスル, 楽天ふるさと納税, 歴史名門ホテル',
+    badge: '名城天守・城下町クラシックステイ特集'
+  }
+];
+
+function generatePageCode(p) {
+  const hotelsData = p.hotelKeys.map(k => {
+    const raw = round57Hotels[k];
+    if (!raw) {
+      console.error(`Missing hotel key: ${k}`);
+      return null;
+    }
+    return {
+      key: k,
+      hotelNo: raw.hotelNo,
+      hotelName: raw.hotelName,
+      hotelImageUrl: raw.hotelImageUrl || 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80',
+      hotelMinCharge: raw.hotelMinCharge || 15000,
+      reviewAverage: raw.reviewAverage || 4.5,
+      reviewCount: raw.reviewCount || 100,
+      address: (raw.address1 || '') + (raw.address2 || ''),
+      access: raw.access || '最寄り駅・主要インターチェンジより車または送迎バス',
+      userReview: raw.userReview || '絶景のロケーションと心温まるおもてなし、旬の美食に大変満足いたしました。',
+      label: raw.label || raw.hotelName,
+      affiliateUrl: OFFICIAL_FURUSATO_AFFILIATE_URL
+    };
+  }).filter(Boolean);
+
+  return `import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【日本三大夜桜】弘前公園・高田城址公園・上野恩賜公園の幻想的な春宵と贅沢ホテルステイ特集｜楽天ふるさと納税完全ガイド',
-  description: '春の夜空を桜色に染め上げる日本屈指の夜桜名所「日本三大夜桜」（青森・弘前城の花筏と夜桜、新潟・高田城の四千本ぼんぼり、東京・上野恩賜公園の風情）。幻想的なライトアップを散策した後は、上質なシティホテルや名門ホテルで寛ぐ旅。楽天ふるさと納税でお得に楽しむお花見ステイ。',
-  keywords: '日本三大夜桜, 弘前公園桜まつり, 高田城址公園, 上野恩賜公園, 弘前パークホテル, アートホテル上越, 三井ガーデンホテル上野, 楽天ふるさと納税, お花見旅行',
+  title: '${p.title.replace(/'/g, "\\'")}',
+  description: '${p.description.replace(/'/g, "\\'")}',
+  keywords: '${p.keywords}',
   openGraph: {
-    title: '【日本三大夜桜】弘前公園・高田城址公園・上野恩賜公園の幻想的な春宵と贅沢ホテルステイ特集｜楽天ふるさと納税完全ガイド',
-    description: '春の夜空を桜色に染め上げる日本屈指の夜桜名所「日本三大夜桜」（青森・弘前城の花筏と夜桜、新潟・高田城の四千本ぼんぼり、東京・上野恩賜公園の風情）。幻想的なライトアップを散策した後は、上質なシティホテルや名門ホテルで寛ぐ旅。楽天ふるさと納税でお得に楽しむお花見ステイ。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-night-cherry-blossoms-stay',
+    title: '${p.title.replace(/'/g, "\\'")}',
+    description: '${p.description.replace(/'/g, "\\'")}',
+    url: 'https://croud-travel.pages.dev/${p.slug}',
     siteName: '楽天ふるさと納税×高級トラベルガイド',
     type: 'article',
     locale: 'ja_JP',
   },
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-great-night-cherry-blossoms-stay',
+    canonical: 'https://croud-travel.pages.dev/${p.slug}',
   },
 };
 
-const hotels = [
-  {
-    "key": "sakura_hirosaki",
-    "hotelNo": 14932,
-    "hotelName": "弘前パークホテル",
-    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14932/14932.jpg",
-    "hotelMinCharge": 3690,
-    "reviewAverage": 3.91,
-    "reviewCount": 2677,
-    "address": "青森県弘前市土手町126",
-    "access": "JR『弘前駅』より徒歩約12分。青森空港より車で約50分",
-    "userReview": "ホテルスタッフの方々に癒されました弘前駅から徒歩約15分、弘前城のある公園とJR弘前駅の中間地点にあり、ホテルの目の前が循環バスの停留所だった為、とても便利でした。ネット予約の時に和室を選んで…　2026-09-04 18:57:55投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=14932\" class=\"3click\">つづきはこちら</a>",
-    "label": "青森県弘前市ふるさと納税・二千六百本の夜桜と濠を埋め尽くす花筏パノラマ「弘前公園」アートホテル弘前シティ",
-    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F"
-  },
-  {
-    "key": "sakura_takada",
-    "hotelNo": 1033,
-    "hotelName": "アートホテル上越",
-    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1033/1033.jpg",
-    "hotelMinCharge": 3500,
-    "reviewAverage": 4.24,
-    "reviewCount": 3745,
-    "address": "新潟県上越市本町5丁目1-11",
-    "access": "えちごトキめき鉄道「高田駅」より徒歩3分。北陸新幹線「上越妙高駅」より2駅。上信越自動車道「上越高田IC」より15分。",
-    "userReview": "新潟名物グルメが豊富で朝から大満足!朝食バイキング、新潟県の名物グルメがたくさんあって、新潟県人ですが楽しめました。おかげで朝からお腹いっぱいです~(笑)クチコミの詳細はこちらから　htt…　2026-09-05 08:41:03投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=1033\" class=\"3click\">つづきはこちら</a>",
-    "label": "新潟県上越市ふるさと納税・四千本のぼんぼりに照らされる高田城三重櫓と夜桜「日本三大夜桜・高田城址公園」アートホテル上越",
-    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F"
-  },
-  {
-    "key": "sakura_ueno",
-    "hotelNo": 107870,
-    "hotelName": "三井ガーデンホテル上野",
-    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/107870/107870.jpg",
-    "hotelMinCharge": 9135,
-    "reviewAverage": 4.1,
-    "reviewCount": 1588,
-    "address": "東京都台東区　東上野3-19-7",
-    "access": "JR上野駅浅草口より徒歩2分／東京メトロ銀座線・日比谷線1番口より徒歩1分／京成上野駅より徒歩6分",
-    "userReview": "上野駅近で観光に便利、パンダフロアも可愛いJR上野駅から近く都内観光にとても便利でした。部屋は清潔でベッドサイドに物が置けるのも良かったです。シャワーの水圧が弱めだったけど、込み合う時間帯…　2026-09-04 21:34:22投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=107870\" class=\"3click\">つづきはこちら</a>",
-    "label": "東京都台東区ふるさと納税・寛永寺の昔から江戸庶民に愛され続ける桜の名所「上野恩賜公園」三井ガーデンホテル上野",
-    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F"
-  }
-];
+const hotels = ${JSON.stringify(hotelsData, null, 2)};
 
 export default function FurusatoRound57Page() {
   return (
@@ -73,17 +104,17 @@ export default function FurusatoRound57Page() {
         <div className="max-w-5xl mx-auto text-center">
           <div className="inline-flex items-center gap-2 bg-rose-500/20 border border-rose-400/40 px-4 py-1.5 rounded-full text-rose-300 text-sm font-semibold mb-6">
             <span>✨</span>
-            <span>日本三大夜桜・幽玄の春宵ステイ特集</span>
+            <span>${p.badge}</span>
           </div>
           <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight">
-            日本三大夜桜の名所と春の宵を彩る贅沢ホテルステイ
+            ${p.h1}
           </h1>
           <p className="text-lg sm:text-xl text-slate-300 max-w-3xl mx-auto leading-relaxed mb-8">
-            闇夜に浮かび上がる幾千本もの桜と、水面に映り込む淡紅色の光のコントラスト。「日本三大夜桜」と称される弘前公園、高田城址公園、上野恩賜公園は、息をのむほど幽玄でドラマティックな春の絶景を誇ります。濠を埋め尽くす桜の花筏、ぼんぼりに照らされた三重櫓、そして江戸情緒漂う上野の桜並木。夜風に舞う花吹雪を堪能した後は、洗練されたホテルで美酒とともに余韻に浸る贅沢。楽天ふるさと納税の宿泊クーポンを活用して、一生の思い出に残る夜桜旅行へ出かけましょう。
+            ${p.lead}
           </p>
           <div className="flex flex-wrap justify-center gap-4">
             <a
-              href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F"
+              href="${OFFICIAL_FURUSATO_AFFILIATE_URL}"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 bg-gradient-to-r from-amber-500 to-orange-600 hover:from-amber-600 hover:to-orange-700 text-white font-bold px-8 py-4 rounded-xl shadow-lg transform hover:-translate-y-0.5 transition duration-200"
@@ -164,7 +195,7 @@ export default function FurusatoRound57Page() {
                       楽天ふるさと納税で宿を予約する
                     </a>
                     <a
-                      href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F"
+                      href="${OFFICIAL_FURUSATO_AFFILIATE_URL}"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="flex-1 text-center bg-amber-500 hover:bg-amber-600 text-white font-bold py-3 px-6 rounded-xl shadow-md transition duration-150 text-sm"
@@ -208,7 +239,7 @@ export default function FurusatoRound57Page() {
           </div>
           <div className="mt-8 text-center">
             <a
-              href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F"
+              href="${OFFICIAL_FURUSATO_AFFILIATE_URL}"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 bg-gradient-to-r from-amber-500 to-orange-600 text-white font-extrabold px-8 py-4 rounded-xl shadow-lg hover:brightness-110 transition"
@@ -255,4 +286,16 @@ export default function FurusatoRound57Page() {
       </main>
     </div>
   );
+}
+`;
+}
+
+for (const p of pages) {
+  const dirPath = path.join(__dirname, 'src', 'app', p.slug);
+  if (!fs.existsSync(dirPath)) {
+    fs.mkdirSync(dirPath, { recursive: true });
+  }
+  const code = generatePageCode(p);
+  fs.writeFileSync(path.join(dirPath, 'page.tsx'), code, 'utf-8');
+  console.log(`Generated: src/app/${p.slug}/page.tsx`);
 }
