@@ -3567,6 +3567,34 @@ export default function Home() {
               <span>日本三大観音＆諸願成就の霊場・門前町名宿！浅草寺・石山寺・大須観音</span>
             </Link>
             <Link
+              href="/furusato-tax-three-great-shoyu-capitals-brewery-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-stone-950 via-amber-950 to-yellow-950 hover:from-stone-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🪵🏺</span>
+              <span>日本三大醤油醸造地＆木桶仕込みの芳香名宿！銚子・小豆島醤の郷・播州龍野</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-fruit-kingdoms-auberge-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-pink-200 bg-gradient-to-r from-rose-950 via-pink-950 to-purple-950 hover:from-rose-900 hover:to-pink-900 rounded-2xl shadow-lg transition border border-pink-400/50 flex items-center gap-1.5"
+            >
+              <span>🍑🍇</span>
+              <span>日本三大フルーツ王国＆もぎたて果実の美食リゾート！山梨笛吹・山形天童・信州小布施</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-miso-capitals-gastronomy-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-orange-100 bg-gradient-to-r from-amber-950 via-stone-900 to-orange-950 hover:from-amber-900 hover:to-stone-850 rounded-2xl shadow-lg transition border border-orange-300/50 flex items-center gap-1.5"
+            >
+              <span>🍲🍲</span>
+              <span>日本三大味噌の郷＆発酵郷土鍋・名湯美食宿！信州味噌・三河八丁味噌・仙台味噌</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-citrus-kingdoms-resort-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-yellow-200 bg-gradient-to-r from-orange-950 via-amber-900 to-yellow-950 hover:from-orange-900 hover:to-amber-800 rounded-2xl shadow-lg transition border border-yellow-400/50 flex items-center gap-1.5"
+            >
+              <span>🍊🌊</span>
+              <span>日本三大柑橘王国＆爽快な果樹園パノラマ・美肌名湯宿！愛媛温州・和歌山有田・静岡三ヶ日</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >
