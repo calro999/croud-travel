@@ -124372,28 +124372,363 @@
     "query": "兵庫 姫路 白鷺城 ホテルモントレ姫路"
   },
   "castle_kumamoto": {
-    "hotelNo": 841,
-    "hotelName": "熊本ホテルキャッスル",
-    "hotelKanaName": "くまもと　ほてるきゃっする",
-    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D841",
-    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D841%26f_flg%3DPLAN",
-    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FIWrzP%2F%3FnoTomariHotel%3D841",
-    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D841",
-    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/841/841.jpg",
-    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/841.jpg",
-    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/841/841_sglA.jpg",
-    "hotelMinCharge": 4000,
-    "address1": "熊本県",
-    "address2": "熊本市中央区城東町4-2",
-    "telephoneNo": "096-326-3311",
-    "access": "JR鹿児島本線『熊本駅』から車で約10分／市電『通町筋』下車徒歩約3分／九州自動車道『熊本IC』より車で約40分",
-    "parkingInformation": "1泊1500円で平面駐車場35台を設けております。満車の場合は近隣の提携駐車場をご案内いたします。",
-    "nearestStation": "熊本",
-    "hotelHeaderImageUrl": "",
-    "userReview": "部屋から熊本城のライトアップと朝日を堪能部屋から熊本城が眺められ、夜はライトアップ、朝は朝日に照らされ、雄大なお城を間近で見ることができました。クチコミの詳細はこちらから　https://re…　2026-09-05 23:17:59投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=841\" class=\"3click\">つづきはこちら</a>",
-    "reviewCount": 1709,
-    "reviewAverage": 4.44,
-    "label": "熊本県熊本市ふるさと納税・武者返しの壮大な石垣と復興の天守閣を一望する迎賓館「熊本ホテルキャッスル」",
-    "query": "熊本 熊本城 熊本ホテルキャッスル"
+    "label": "熊本県熊本市ふるさと納税・加藤清正が築いた不落の巨城「熊本城」を望むホテル日航熊本",
+    "hotels": [
+      {
+        "hotelNo": 15707,
+        "hotelName": "ホテル日航熊本",
+        "hotelKanaName": "にっこうくまもと",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D15707",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D15707%26f_flg%3DPLAN",
+        "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FIWrzP%2F%3FnoTomariHotel%3D15707",
+        "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D15707",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15707/15707.jpg",
+        "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/15707.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15707/15707_heya1.jpg",
+        "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15707/15707map.gif",
+        "reviewCount": 3019,
+        "reviewAverage": 4.61,
+        "userReview": "朝食が充実、熊本観光の拠点に良い部屋は少し狭い。ビジネスホテルと大差ないレベル。朝食のバイキングは満足度が高い。目の前で焼いてくれるオムレツがあったり、タイピーエンがあったり。…",
+        "hotelMinCharge": 6500,
+        "address1": "熊本県",
+        "address2": "熊本市中央区上通町2-1",
+        "telephoneNo": "096-211-1111",
+        "access": "ＪＲ鹿児島本線「熊本駅」から市電約１５分「通町筋」下車０分／九州自動車道　熊本ＩＣより約８ｋｍ／鶴屋百貨店向い側",
+        "parkingInformation": "3か所の外部駐車場と提携しております。地図、規定料金等はホテル公式HPを参照願います。",
+        "nearestStation": "熊本",
+        "hotelSpecial": "熊本城と市街を一望、贅沢な眺望と上質なサービスで心に残るホテルステイを。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D15707"
+      }
+    ]
+  },
+  "castle_nagoya": {
+    "label": "愛知県名古屋市ふるさと納税・金鯱輝く天下の名城「名古屋城」名古屋観光ホテル",
+    "hotels": [
+      {
+        "hotelNo": 2046,
+        "hotelName": "名古屋観光ホテル",
+        "hotelKanaName": "なごやかんこうほてる",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D2046",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D2046%26f_flg%3DPLAN",
+        "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FIWrzP%2F%3FnoTomariHotel%3D2046",
+        "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D2046",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2046/2046.jpg",
+        "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/2046.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2046/2046_room.jpg",
+        "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2046/2046map.gif",
+        "reviewCount": 4404,
+        "reviewAverage": 4.55,
+        "userReview": "4人一緒でも快適なお部屋4人1部屋で泊まらせていただきましたエキストラベッドを2台入れても充分な広さがあり、ゆったりと過ごすことができましたスタッフの方も丁寧な対応で、お部屋も綺麗で大…",
+        "hotelMinCharge": 9000,
+        "address1": "愛知県",
+        "address2": "名古屋市中区錦1-19-30",
+        "telephoneNo": "052-231-7711",
+        "access": "名古屋駅よりタクシーで５分、名古屋駅より地下鉄 東山線 １駅目「伏見」よりすぐの徒歩２分、宿泊の方は駐車場「無料」",
+        "parkingInformation": "250台分有り（車高制限2.1メートル・予約不要）チェックインからチェックアウトまで無料",
+        "nearestStation": "伏見（愛知）",
+        "hotelSpecial": "市内で最も長い歴史あるホテルで洗練されたおもてなしを体験。滞在中は駐車場を無料でご利用頂けます。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D2046"
+      }
+    ]
+  },
+  "castle_osaka": {
+    "label": "大阪府大阪市ふるさと納税・豊臣秀吉の栄華を今に伝える巨城「大阪城」ホテルニューオータニ大阪",
+    "hotels": [
+      {
+        "hotelNo": 91,
+        "hotelName": "ホテルニューオータニ大阪",
+        "hotelKanaName": "にゅーおーたに　おおさか",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D91",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D91%26f_flg%3DPLAN",
+        "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FIWrzP%2F%3FnoTomariHotel%3D91",
+        "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D91",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/91/91.jpg",
+        "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/91.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/91/91_st.jpg",
+        "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/91/91map.gif",
+        "reviewCount": 5034,
+        "reviewAverage": 4.63,
+        "userReview": "大阪城ホールまで徒歩圏内で快適な2泊3日大阪城ホールでのファンミの為に利用させてもらいました。会場へも徒歩で10分かからないくらい程で1日2本ある時は、空き時間に部屋に一旦戻って、涼めたし会場のト…",
+        "hotelMinCharge": 9180,
+        "address1": "大阪府",
+        "address2": "大阪市中央区城見1-4-1",
+        "telephoneNo": "06-6941-1111",
+        "access": "ＪＲ大阪環状線 大阪城公園駅より徒歩約３分。Osaka Metro 長堀鶴見緑地線 大阪ビジネスパーク駅より徒歩約３分。",
+        "parkingInformation": "有り(有料　1泊につき1台￥2,000）",
+        "nearestStation": "大阪城公園",
+        "hotelSpecial": "大阪のシンボル「大阪城天守閣」を間近に望むアーバンリゾート",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D91"
+      }
+    ]
+  },
+  "night_hakodate": {
+    "label": "北海道函館市ふるさと納税・津軽海峡と函館湾を望む100万ドルの夜景「函館山」望楼NOGUCHI函館",
+    "hotels": [
+      {
+        "hotelNo": 109498,
+        "hotelName": "望楼ＮＯＧＵＣＨＩ函館",
+        "hotelKanaName": "ぼうろうのぐちはこだて",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D109498",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D109498%26f_flg%3DPLAN",
+        "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FIWrzP%2F%3FnoTomariHotel%3D109498",
+        "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D109498",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/109498/109498.jpg",
+        "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/109498.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/109498/109498_hey.jpg",
+        "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/109498/109498map.gif",
+        "reviewCount": 473,
+        "reviewAverage": 4.45,
+        "userReview": "食事や部屋は良いが館内の香りが残念館内のフレグランスが、土地のイメージに合っておらず、非常に残念でした。それ以外の食事、部屋、風呂などはよかったのですが、?クチコミの詳細はこちらから　ht…",
+        "hotelMinCharge": 0,
+        "address1": "北海道",
+        "address2": "函館市湯の川1-17-22",
+        "telephoneNo": "0570-026-573",
+        "access": "函館空港より車で約10分／JR函館駅より車で約15分／市電湯の川温泉駅から徒歩約3分",
+        "parkingInformation": "有り。50台収容（無料）",
+        "nearestStation": "函館空港",
+        "hotelSpecial": "一人という“贅”と、三世代の“憩”がかなう場所",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D109498"
+      }
+    ]
+  },
+  "night_maya": {
+    "label": "兵庫県神戸市ふるさと納税・掬星台から望む煌めく大パノラマ「摩耶山・六甲山」有馬温泉欽山",
+    "hotels": [
+      {
+        "hotelNo": 53390,
+        "hotelName": "有馬温泉　欽山",
+        "hotelKanaName": "ありまおんせん　きんざん",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D53390",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D53390%26f_flg%3DPLAN",
+        "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FIWrzP%2F%3FnoTomariHotel%3D53390",
+        "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D53390",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/53390/53390.jpg",
+        "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/53390.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/53390/53390_ta.jpg",
+        "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/53390/53390map.gif",
+        "reviewCount": 497,
+        "reviewAverage": 4.6,
+        "userReview": "誕生日祝いに最適、食事と接客に感動母親の誕生日祝いに初めてお世話になりました。部屋はとても広く清潔で快適でした。但、段差があちこちあるので、高齢者には常に注意を払う必要がありました。夕食、朝食共に…",
+        "hotelMinCharge": 23650,
+        "address1": "兵庫県",
+        "address2": "神戸市北区有馬町1302-4",
+        "telephoneNo": "078-904-0701",
+        "access": "神戸電鉄「有馬温泉駅」より徒歩５分・山陽新幹線「新神戸駅」よりバスにて約30分・大阪（梅田）より高速バスにて約55分",
+        "parkingInformation": "有り 60台 無料 予約不要 【お車はお客様ご自身で地下駐車場へのご移動をお願いしております。】",
+        "nearestStation": "有馬温泉",
+        "hotelSpecial": "幾千年、伝えゆきたい日本の風雅。風情薫る欽山で雅な休日をお過ごしください。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D53390"
+      }
+    ]
+  },
+  "night_inasa": {
+    "label": "長崎県長崎市ふるさと納税・世界新三大夜景のすり鉢状パノラマ「稲佐山」ガーデンテラス長崎ホテル＆リゾート",
+    "hotels": [
+      {
+        "hotelNo": 74749,
+        "hotelName": "ガーデンテラス長崎ホテル＆リゾート",
+        "hotelKanaName": "がーでんてらすながさきほてるあんどりぞーと",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D74749",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D74749%26f_flg%3DPLAN",
+        "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FIWrzP%2F%3FnoTomariHotel%3D74749",
+        "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D74749",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/74749/74749.jpg",
+        "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/74749.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/74749/74749_ru.jpg",
+        "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/74749/74749map.gif",
+        "reviewCount": 328,
+        "reviewAverage": 4.57,
+        "userReview": "ロケーション、部屋からの眺めは最高です。長崎駅からの送迎もあって便利です。唯一残念だったのが部屋の掃除。ベットの隙間に前に宿泊していた方のヘアブラシが落ちてたり、バスタブに水アカが残ってい…",
+        "hotelMinCharge": 12250,
+        "address1": "長崎県",
+        "address2": "長崎市秋月町2-3",
+        "telephoneNo": "0570-014-173",
+        "access": "長崎駅より車で約10分。稲佐山中腹にある当ホテルまで毎日16：00～19：00長崎駅無料シャトルバス運行あり。",
+        "parkingInformation": "有り　１４０台　無料　先着順",
+        "nearestStation": "長崎（長崎）",
+        "hotelSpecial": "全室テラス付。46平米以上の客室から眺める世界新三大夜景と世界遺産の街。大人の夜景リゾートホテル。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D74749"
+      }
+    ]
+  },
+  "torii_miyajima": {
+    "label": "広島県廿日市市ふるさと納税・海上に浮かぶ朱塗りの大鳥居「世界遺産・厳島神社」蔵宿いろは",
+    "hotels": [
+      {
+        "hotelNo": 18848,
+        "hotelName": "宮島グランドホテル　有もと",
+        "hotelKanaName": "みやじま　ぐらんどほてる　ありもと",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D18848",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D18848%26f_flg%3DPLAN",
+        "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FIWrzP%2F%3FnoTomariHotel%3D18848",
+        "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D18848",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/18848/18848.jpg",
+        "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/18848.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/18848/18848_rm.jpg",
+        "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/18848/18848map.gif",
+        "reviewCount": 1281,
+        "reviewAverage": 4.58,
+        "userReview": "ケトルの沸騰が遅く電源も切れない部屋のケトル湧くのが遅い湧いて居るけど、電源が切れてなくずっと湧いたままになってます。よろしくお願い致しますクチコミの詳細はこちらから　https://…",
+        "hotelMinCharge": 14200,
+        "address1": "広島県",
+        "address2": "廿日市市宮島町南町364",
+        "telephoneNo": "0829-44-2411",
+        "access": "宮島口桟橋よりフェリーで１０分～宮島桟橋よりマイクロバスにて送迎",
+        "parkingInformation": "有り　５台　無料　先着順",
+        "nearestStation": "宮島口",
+        "hotelSpecial": "すべてはお客様の満足と笑顔のために。宮島の歴史とともに時を重ねる、世界遺産「厳島神社」に最も近い宿。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D18848"
+      }
+    ]
+  },
+  "torii_kasuga": {
+    "label": "奈良県奈良市ふるさと納税・原生林に抱かれた一之鳥居と古都の祈り「春日大社」ホテルニュー若草",
+    "hotels": [
+      {
+        "hotelNo": 1148,
+        "hotelName": "奈良ホテル",
+        "hotelKanaName": "ならほてる",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D1148",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D1148%26f_flg%3DPLAN",
+        "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FIWrzP%2F%3FnoTomariHotel%3D1148",
+        "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D1148",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1148/1148.jpg",
+        "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/1148.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1148/1148_twn.jpg",
+        "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1148/1148map.gif",
+        "reviewCount": 1721,
+        "reviewAverage": 4.63,
+        "userReview": "朝食スタッフの笑顔と心配りに感激!朝食時のスタッフの対応の美しさと心配りに感激しました!素晴らしい笑顔とスムーズな動きでした! クチコミの詳細はこちらから　https://review.tra…",
+        "hotelMinCharge": 14720,
+        "address1": "奈良県",
+        "address2": "奈良市高畑町1096",
+        "telephoneNo": "0570-66-6088",
+        "access": "近鉄奈良駅東改札口B出口より徒歩約15分。タクシーで5分。路線バス（天理方面行き3番のりば）約7分",
+        "parkingInformation": "有り　100台　１泊　無料",
+        "nearestStation": "近鉄奈良",
+        "hotelSpecial": "関西の迎賓館として1909年創業。伝統のおもてなしで心に残る旅を。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D1148"
+      }
+    ]
+  },
+  "torii_kehi": {
+    "label": "福井県敦賀市ふるさと納税・木造大鳥居がそびえる北陸道総鎮守「気比神宮」敦賀マンテンホテル駅前",
+    "hotels": [
+      {
+        "hotelNo": 128494,
+        "hotelName": "敦賀マンテンホテル駅前（マンテンホテルグループ）",
+        "hotelKanaName": "つるがまんてんほてるえきまえ（まんてんほてるぐるーぷ）",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D128494",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D128494%26f_flg%3DPLAN",
+        "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FIWrzP%2F%3FnoTomariHotel%3D128494",
+        "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D128494",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/128494/128494.jpg",
+        "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/128494.jpg",
+        "roomImageUrl": "",
+        "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/128494/128494map.gif",
+        "reviewCount": 1517,
+        "reviewAverage": 4.2,
+        "userReview": "駅近で便利、ビジネス利用には十分な環境旅の経由地として利用しました。当日までキャンセル無料ということで予約しました。駅から近くて良かったです。ビジネスで利用するには十分でしょうが、旅行者としては、…",
+        "hotelMinCharge": 4900,
+        "address1": "福井県",
+        "address2": "敦賀市国広町401-4",
+        "telephoneNo": "0770-25-0100",
+        "access": "ＪＲ敦賀駅西口より徒歩約１分　／　敦賀ＩＣより車で５分",
+        "parkingInformation": "無料駐車場４５台（先着順・予約不可・車椅子専用P有）／満車時は近隣駐車場へ案内いたします（有料）",
+        "nearestStation": "敦賀",
+        "hotelSpecial": "ＪＲ敦賀駅西口徒歩１分・男女別大浴場・シモンズベッド・個別エアコン・温便座シャワートイレ",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D128494"
+      }
+    ]
+  },
+  "bell_chionin": {
+    "label": "京都府京都市ふるさと納税・七十七人がかりで突く日本最大級の大鐘「知恩院・大鐘楼」知恩院和順会館",
+    "hotels": [
+      {
+        "hotelNo": 108920,
+        "hotelName": "知恩院　和順会館",
+        "hotelKanaName": "ちおんいん　わじゅんかいかん",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D108920",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D108920%26f_flg%3DPLAN",
+        "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FIWrzP%2F%3FnoTomariHotel%3D108920",
+        "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D108920",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108920/108920.jpg",
+        "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/108920.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108920/108920_kya.jpg",
+        "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108920/108920map.gif",
+        "reviewCount": 327,
+        "reviewAverage": 4.61,
+        "userReview": "駐車場無料と円山公園の景色、朝風呂も最高駐車場が無料なのと出し入れ自由なのは助かりました。ご飯もおいしかったです。部屋から円山公園が見えて景色も最高でした。大浴場も朝入れるので良かったです。…",
+        "hotelMinCharge": 8800,
+        "address1": "京都府",
+        "address2": "京都市東山区林下町400-2",
+        "telephoneNo": "075-205-5013",
+        "access": "市バス206系統　知恩院前下車、徒歩５分",
+        "parkingInformation": "タイムズ総本山知恩院光玄院跡(東山区林下町413)をご利用ください。宿泊者は駐車無料券をご用意します",
+        "nearestStation": "",
+        "hotelSpecial": "喧騒の日々から離れ、 ゆったりとした時を過ごし、お念仏で心を整える 知恩院らしいおもてなし",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D108920"
+      }
+    ]
+  },
+  "bell_byodoin": {
+    "label": "京都府宇治市ふるさと納税・美しい天人レリーフが刻まれた国宝名鐘「平等院の鐘」花やしき浮舟園",
+    "hotels": [
+      {
+        "hotelNo": 73944,
+        "hotelName": "花やしき浮舟園",
+        "hotelKanaName": "はなやしきうきふねえん",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D73944",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D73944%26f_flg%3DPLAN",
+        "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FIWrzP%2F%3FnoTomariHotel%3D73944",
+        "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D73944",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/73944/73944.jpg",
+        "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/73944.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/73944/73944_kya.jpg",
+        "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/73944/73944map.gif",
+        "reviewCount": 298,
+        "reviewAverage": 4.06,
+        "userReview": "宇治川沿いの好立地、価格維持がありがたい宇治川のすぐ側という立地が素晴らしいです。設備の古さは否めませんが、ほぼ問題ありませんでした。というか新しくなって高くなるよりも、このまま今の値段の方があり…",
+        "hotelMinCharge": 0,
+        "address1": "京都府",
+        "address2": "宇治市宇治塔川20",
+        "telephoneNo": "0774-21-2126",
+        "access": "ＪＲ・京阪　宇治駅よりお車で約5分",
+        "parkingInformation": "ホテル前にございます。無料です！（予約不要）",
+        "nearestStation": "宇治（京都）",
+        "hotelSpecial": "全室から宇治川を一望、四季折々京都宇治の絶景を楽しむ旅館。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D73944"
+      }
+    ]
+  },
+  "bell_miidera": {
+    "label": "滋賀県大津市ふるさと納税・弁慶の引き摺り鐘と近江八景の晩鐘「三井寺の鐘」びわ湖大津プリンスホテル",
+    "hotels": [
+      {
+        "hotelNo": 16068,
+        "hotelName": "びわ湖大津プリンスホテル",
+        "hotelKanaName": "びわこおおつぷりんすほてる",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D16068",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D16068%26f_flg%3DPLAN",
+        "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FIWrzP%2F%3FnoTomariHotel%3D16068",
+        "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D16068",
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/16068/16068.jpg",
+        "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/16068.jpg",
+        "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/16068/16068_w.jpg",
+        "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/16068/16068map.gif",
+        "reviewCount": 5029,
+        "reviewAverage": 4.42,
+        "userReview": "琵琶湖一望でコスパ最高、また利用したい 琵琶湖が一望できるロケーションで、琵琶湖周辺に泊まるならお薦めのホテルです。食事なし、17時以降チェックインのプランでしたが、クーポン使用で、一人5,600…",
+        "hotelMinCharge": 5000,
+        "address1": "滋賀県",
+        "address2": "大津市におの浜4-7-7",
+        "telephoneNo": "077-521-1111",
+        "access": "ＪＲ東海道本線（琵琶湖線）大津駅から無料シャトルバスで10分／名神高速道路・大津ＩＣより3.7ｋm（平常時10分）",
+        "parkingInformation": "約500台。（有料・1泊500円）満車でご利用いただけない場合がございます。",
+        "nearestStation": "大津",
+        "hotelSpecial": "ＪＲ京都駅から2駅10分のリゾート　38階建て、高層階のレストラン、全客室からレイクビューを満喫",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D16068"
+      }
+    ]
   }
 }
