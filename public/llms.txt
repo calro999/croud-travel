@@ -309,6 +309,7 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【山形県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/76918): 肘折温泉　松井旅館（山形県）
 - [【おすすめ宿】川湯温泉　山水館　川湯みどりやの魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/38558): 川湯温泉　山水館　川湯みどりや（大阪府）
 - [【福岡県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/7251): ホテルクリオコート博多（福岡県）
 - [【おすすめ宿】癒しの湯宿　龍河温泉の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/13810): 癒しの湯宿　龍河温泉（高知県）
@@ -358,4 +359,3 @@
 - [【鳥取・皆生温泉】日本海の白砂青松を一望する海辺の名湯宿7選！松葉ガニ＆大山地鶏会席](https://croud-travel.pages.dev/posts/kaike-onsen-ocean-front-crab-daisen-guide): 皆生温泉　皆生シーサイドホテル　海の四季（鳥取県）
 - [【鴨川館】カップル・夫婦記念日ステイ！客室露天風呂・贅沢会席・静かな滞在の口コミ](https://croud-travel.pages.dev/posts/kamogawakan-boso-ocean-view-spa-guide): 鴨川館（千葉県）
 - [【別府・鉄輪温泉】名物「地獄蒸し料理」と湯けむり展望露天風呂の宿7選！別府八湯巡り](https://croud-travel.pages.dev/posts/kannawa-onsen-beppu-jigokumushi-view-guide): 別府鉄輪温泉　旅館　喜楽＜大分県＞（大分県）
-- [【兵庫・城崎温泉】七つの外湯めぐり＆浴衣散策おすすめ宿7選！但馬牛＆冬の松葉ガニ会席](https://croud-travel.pages.dev/posts/kinosaki-onsen-seven-baths-yukata-guide): 城崎温泉　料理旅館　よしはる（兵庫県）
