@@ -406,8 +406,11 @@ Sitemap: ${BASE_URL}/sitemap-posts.xml
 - [日本三大美林＆森林浴・天然木アロマ温泉宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-beautiful-forests-stay): 青森ヒバ・秋田スギ・木曽ヒノキの癒やし
 - [日本三大名水＆湧水水源地・清流酒蔵美食宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-spring-waters-stay): 黒部湧水・白州尾白川・南阿蘇白川水源
 - [日本三大仏＆歴史古都・門前町の名宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-buddhas-heritage-stay): 奈良・鎌倉・高岡大仏の祈りと文化
-- [日本三大松原＆白砂青松オーシャンビュー宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-pine-groves-stay): 三保松原・虹の松原・気比松原の海岸景観
 - [日本三大美林清流渓谷＆エメラルドブルー絶景宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-clear-stream-valleys-stay): 奥入瀬・抱返り・阿寺渓谷の清流美
+- [日本三大急坂・天空峠道＆雲海パノラマ絶景宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-high-mountain-passes-stay): 渋峠・富士山スカイライン・温見峠の絶景ドライブ
+- [日本三大美田・棚田百選＆日本の原風景リトリート宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-terraced-rice-fields-stay): 星峠・白米千枚田・丸山千枚田の黄金パノラマ
+- [日本三大奇祭＆神話民俗・パワースポット名宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-strange-festivals-stay): 諏訪御柱祭・国府宮はだか祭・男鹿ナマハゲの神事
+- [日本三大瓦の町＆伝統美・いぶし瓦情趣の名宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-roof-tile-towns-stay): 淡路瓦・三州瓦・石州瓦の歴史的町並み
 
 
 

@@ -3455,6 +3455,34 @@ export default function Home() {
               <span>日本三大美林清流渓谷＆エメラルドブルー絶景宿！奥入瀬・抱返り・阿寺渓谷</span>
             </Link>
             <Link
+              href="/furusato-tax-three-great-high-mountain-passes-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-stone-950 via-amber-950 to-orange-950 hover:from-stone-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>⛰️☁️</span>
+              <span>日本三大急坂・天空峠道＆雲海パノラマ絶景宿！渋峠・富士山スカイライン・温見峠</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-terraced-rice-fields-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-lime-200 bg-gradient-to-r from-emerald-950 via-green-950 to-lime-950 hover:from-emerald-900 hover:to-green-900 rounded-2xl shadow-lg transition border border-lime-400/50 flex items-center gap-1.5"
+            >
+              <span>🌾🌅</span>
+              <span>日本三大美田・棚田百選＆日本の原風景リトリート宿！星峠・白米千枚田・丸山千枚田</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-strange-festivals-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-rose-200 bg-gradient-to-r from-red-950 via-purple-950 to-orange-950 hover:from-red-900 hover:to-purple-900 rounded-2xl shadow-lg transition border border-rose-400/50 flex items-center gap-1.5"
+            >
+              <span>👹🔥</span>
+              <span>日本三大奇祭＆神話民俗・パワースポット名宿！諏訪御柱祭・国府宮はだか祭・男鹿ナマハゲ</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-roof-tile-towns-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-slate-200 bg-gradient-to-r from-gray-950 via-slate-900 to-zinc-950 hover:from-gray-900 hover:to-slate-800 rounded-2xl shadow-lg transition border border-slate-400/50 flex items-center gap-1.5"
+            >
+              <span>🏯🏮</span>
+              <span>日本三大瓦の町＆伝統美・いぶし瓦情趣の名宿！淡路瓦・三州瓦・石州瓦</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >
