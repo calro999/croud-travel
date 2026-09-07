@@ -36,7 +36,7 @@ export default function Page() {
     "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/84545/84545_ky1.jpg",
     "reviewCount": 2004,
     "reviewAverage": 4.61,
-    "userReview": "スタッフの対応が素晴らしく、全てが最高!夕飯時間に遅れてしまいましたが、とても親切に対応していただきました。出迎え、フロント、案内、どのスタッフの方も対応が良く、気持ちよく過ごせました。お…　2026-09-01 22:54:04投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=84545\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "スタッフの対応が素晴らしく、全てが最高!夕飯時間に遅れてしまいましたが、とても親切に対応していただきました。出迎え、フロント、案内、どのスタッフの方も対応が良く、気持ちよく過ごせました。お…　 ",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D84545",
     "access": "■車：金津ＩＣより15分 ■ＪＲ：芦原温泉駅より送迎有（約10分）14時～18時（事前要予約）",
     "label": "福井県坂井市・あわら市ふるさと納税・日本海の荒波が削り出した柱状節理の奇勝「東尋坊」あわら温泉まつや千千",
@@ -62,7 +62,7 @@ export default function Page() {
     "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/64789/64789_si.jpg",
     "reviewCount": 1566,
     "reviewAverage": 4.43,
-    "userReview": "眺めと朝日が最高、食事は少し残念部屋からの眺めが素晴らしく、とても贅沢な時間を過ごすことが出来ました。朝日も美しく良い思い出になりました。お食事は期待したほどではなく少し残念でしたが、朝の…　2026-09-04 23:43:06投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=64789\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "眺めと朝日が最高、食事は少し残念部屋からの眺めが素晴らしく、とても贅沢な時間を過ごすことが出来ました。朝日も美しく良い思い出になりました。お食事は期待したほどではなく少し残念でしたが、朝の…　 ",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D64789",
     "access": "ＪＲ山田線　宮古駅から奥浄土ヶ浜行きバスにて１５分、浄土ヶ浜ビジターセンター下車後、徒歩５分。【ペットと宿泊可※小型犬】",
     "label": "岩手県宮古市ふるさと納税・極楽浄土の如き白き奇岩とエメラルドの海「三陸・浄土ヶ浜」浄土ヶ浜パークホテル",
@@ -88,7 +88,7 @@ export default function Page() {
     "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8226/8226_room.jpg",
     "reviewCount": 2605,
     "reviewAverage": 4.54,
-    "userReview": "リニューアル後の食事と水着移動が快適毎年のように白浜海水浴ではホテル三楽荘に泊まってました。今回3年振りにお世話になり、リニューアルされてから初めて利用したので、新鮮でした。くまの膳は、予想の倍以…　2026-09-03 15:09:03投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=8226\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "リニューアル後の食事と水着移動が快適毎年のように白浜海水浴ではホテル三楽荘に泊まってました。今回3年振りにお世話になり、リニューアルされてから初めて利用したので、新鮮でした。くまの膳は、予想の倍以…　 ",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D8226",
     "access": "車：紀勢自動車道南紀白浜ICより県道34号線を白浜温泉方面へ約20分 電車：JR白浜駅よりバスで15分",
     "label": "和歌山県白浜町ふるさと納税・白砂青松の白良浜を正面に望む全室オーシャンビュー「南紀白浜・白良浜」ホテル三楽荘",
@@ -247,7 +247,7 @@ export default function Page() {
                       </div>
 
                       <p className="text-xs md:text-sm text-slate-600 line-clamp-3 leading-relaxed">
-                        {h.hotelSpecial || '日本三大名勝海岸のダイナミックな景観美、日本三大名瀑ヒーリングの清冽なマイナスイオン、日本三大名湯の別邸極上離れの贅、日本三大茶園の天空の緑の絨毯を巡る特別な拠点。四季折々の美食と名湯でお寛ぎください。'}
+                        {h.hotelSpecial || '各地域屈指の絶景ロケーションと名湯温泉、地元の豊かなテロワールを活かした四季折々の会席料理でお寛ぎいただけます。'}
                       </p>
 
                       <div className="bg-slate-50 p-3 rounded-lg text-xs space-y-1 border border-slate-100">

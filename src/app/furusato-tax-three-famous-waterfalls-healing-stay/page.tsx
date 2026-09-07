@@ -36,7 +36,7 @@ export default function Page() {
     "roomImageUrl": "",
     "reviewCount": 499,
     "reviewAverage": 4.53,
-    "userReview": "ひとり旅には少し割高?いつも満足している。ただ、私はひとり旅なので、もう少し値段が安くなればと思う?コテージもしかりです。クチコミの詳細はこちらから　https://review.travel…　2026-09-05 09:17:02投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=76861\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "ひとり旅には少し割高?いつも満足している。ただ、私はひとり旅なので、もう少し値段が安くなればと思う?コテージもしかりです。クチコミの詳細はこちらから　https://review.travel…　 ",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D76861",
     "access": "ＪＲ身延線　富士宮駅より休暇村富士行き路線バスにて約４５分",
     "label": "静岡県富士宮市ふるさと納税・富士山の伏流水が幾筋もの絹糸となって流れ落ちる「白糸の滝」田貫湖畔休暇村富士",
@@ -62,7 +62,7 @@ export default function Page() {
     "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8427/8427_room.jpg",
     "reviewCount": 455,
     "reviewAverage": 4.43,
-    "userReview": "女将のこだわりが随所に感じられるおもてなしです。吹割の滝散策で疲れてしまいチェックイン30分前に到着しても快くロビーで待たせていただきました。お部屋も館内も食事処も清潔感溢れ気持ち良く過ごすことが…　2026-09-04 17:59:03投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=8427\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "女将のこだわりが随所に感じられるおもてなしです。吹割の滝散策で疲れてしまいチェックイン30分前に到着しても快くロビーで待たせていただきました。お部屋も館内も食事処も清潔感溢れ気持ち良く過ごすことが…　 ",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D8427",
     "access": "関越道沼田ICより約18Km車で約20分。上毛高原駅14:00～沼田駅経由14:20の無料送迎バス有（※要問い合わせ）",
     "label": "群馬県沼田市ふるさと納税・東洋のナイアガラと称される大迫力の瀑布「吹割の滝」老神温泉仙郷",
@@ -88,7 +88,7 @@ export default function Page() {
     "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/18245/18245_wa1.jpg",
     "reviewCount": 274,
     "reviewAverage": 4.55,
-    "userReview": "趣きある離れと美味しい料理に大満足2度目です趣きがあり、大変良い旅館です離れに宿泊しました、料理も程よい量でスタッフも気持ち良く、また、訪れたい宿です他の画像やクチコミの詳細は…　2026-08-23 12:20:03投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=18245\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "趣きある離れと美味しい料理に大満足2度目です趣きがあり、大変良い旅館です離れに宿泊しました、料理も程よい量でスタッフも気持ち良く、また、訪れたい宿です他の画像やクチコミの詳細は…　 ",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D18245",
     "access": "ＪＲ諫早駅より車で６０分　ＪＲ長崎駅・ＪＲ諫早駅より、口之津方面行き乗車。公立小浜病院前下車。",
     "label": "長崎県南島原市・雲仙市ふるさと納税・名水百選の清流と豪快な岩肌を穿つ「鮎帰りの滝」小浜温泉旅館國崎",
@@ -247,7 +247,7 @@ export default function Page() {
                       </div>
 
                       <p className="text-xs md:text-sm text-slate-600 line-clamp-3 leading-relaxed">
-                        {h.hotelSpecial || '日本三大名勝海岸のダイナミックな景観美、日本三大名瀑ヒーリングの清冽なマイナスイオン、日本三大名湯の別邸極上離れの贅、日本三大茶園の天空の緑の絨毯を巡る特別な拠点。四季折々の美食と名湯でお寛ぎください。'}
+                        {h.hotelSpecial || '各地域屈指の絶景ロケーションと名湯温泉、地元の豊かなテロワールを活かした四季折々の会席料理でお寛ぎいただけます。'}
                       </p>
 
                       <div className="bg-slate-50 p-3 rounded-lg text-xs space-y-1 border border-slate-100">

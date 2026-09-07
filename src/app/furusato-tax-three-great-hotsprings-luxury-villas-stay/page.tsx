@@ -36,7 +36,7 @@ export default function Page() {
     "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/70807/70807_h.jpg",
     "reviewCount": 910,
     "reviewAverage": 4.68,
-    "userReview": "食事はどの料理も美味しかったです目の前で握っていただけるお寿司も良いパフォーマンスですね部屋にある冷蔵庫に飲みかけの水(部屋に置いてあるペットボトルと同じもの)が入っていたので 前のお客さ…　2026-09-05 17:17:57投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=70807\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "食事はどの料理も美味しかったです目の前で握っていただけるお寿司も良いパフォーマンスですね部屋にある冷蔵庫に飲みかけの水(部屋に置いてあるペットボトルと同じもの)が入っていたので 前のお客さ…　 ",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D70807",
     "access": "ＪＲ長野原草津口駅よりＪＲバスで草温泉へ２５分、下車後送迎バスあり。（原則　8:30～18:00 ）",
     "label": "群馬県草津町ふるさと納税・明治創業の純和風名旅館・職人が湯守する極上の名湯「草津温泉 奈良屋」",
@@ -62,7 +62,7 @@ export default function Page() {
     "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/25288/25288_kan.jpg",
     "reviewCount": 787,
     "reviewAverage": 4.72,
-    "userReview": "息子の誕生日旅行今回で4回目でしたが、いつも完璧なおもてなしで大満足です。癒されましたまた泊まりに行こうと思いますクチコミの詳細はこちらから　https://review.travel.r…　2026-08-30 20:16:00投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=25288\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "息子の誕生日旅行今回で4回目でしたが、いつも完璧なおもてなしで大満足です。癒されましたまた泊まりに行こうと思いますクチコミの詳細はこちらから　https://review.travel.r…　 ",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D25288",
     "access": "神戸電鉄 有馬温泉駅より徒歩５分以内 ／ 大阪より１時間・神戸より３０分",
     "label": "兵庫県神戸市ふるさと納税・十三歳未満お断りの大人の隠れ家・金泉銀泉「有馬温泉 中の坊瑞苑」",
@@ -88,7 +88,7 @@ export default function Page() {
     "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8886/8886_ryu.jpg",
     "reviewCount": 6222,
     "reviewAverage": 4.35,
-    "userReview": "館内の素晴らしさと温泉三昧で大満足水明館は一人旅にはちょっと泊まりにくい宿のイメージがあり今回初の宿泊をさせてもらいました。さすがに館内素晴らしく驚嘆せざるを得ませんでした.三箇所ある温泉もどれも…　2026-09-05 19:47:53投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=8886\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "館内の素晴らしさと温泉三昧で大満足水明館は一人旅にはちょっと泊まりにくい宿のイメージがあり今回初の宿泊をさせてもらいました。さすがに館内素晴らしく驚嘆せざるを得ませんでした.三箇所ある温泉もどれも…　 ",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D8886",
     "access": "ＪＲ高山本線下呂駅より徒歩３分【下呂駅まで随時送迎バス有】／中央自動車道 中津川ＩＣよりＲ２５７で約６０分",
     "label": "岐阜県下呂市ふるさと納税・飛騨川のせせらぎと最高級の客室露天「下呂温泉 水明館（臨川閣）」",
@@ -247,7 +247,7 @@ export default function Page() {
                       </div>
 
                       <p className="text-xs md:text-sm text-slate-600 line-clamp-3 leading-relaxed">
-                        {h.hotelSpecial || '日本三大名勝海岸のダイナミックな景観美、日本三大名瀑ヒーリングの清冽なマイナスイオン、日本三大名湯の別邸極上離れの贅、日本三大茶園の天空の緑の絨毯を巡る特別な拠点。四季折々の美食と名湯でお寛ぎください。'}
+                        {h.hotelSpecial || '各地域屈指の絶景ロケーションと名湯温泉、地元の豊かなテロワールを活かした四季折々の会席料理でお寛ぎいただけます。'}
                       </p>
 
                       <div className="bg-slate-50 p-3 rounded-lg text-xs space-y-1 border border-slate-100">

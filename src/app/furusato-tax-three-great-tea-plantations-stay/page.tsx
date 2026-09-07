@@ -36,7 +36,7 @@ export default function Page() {
     "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13814/13814_room.jpg",
     "reviewCount": 1333,
     "reviewAverage": 4.49,
-    "userReview": "ブッフェの質が高く子供も大満足の夏休み夏休みの終わりに家族で近場でと思い隣の県からお邪魔しました。インスタやコメントを見て宿泊を決めました。楽しみにしていた夜ご飯は予想以上に良かったです。刺身…　2026-09-05 22:38:58投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=13814\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "ブッフェの質が高く子供も大満足の夏休み夏休みの終わりに家族で近場でと思い隣の県からお邪魔しました。インスタやコメントを見て宿泊を決めました。楽しみにしていた夜ご飯は予想以上に良かったです。刺身…　 ",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D13814",
     "access": "【東名】焼津ICより10分/JR焼津駅より無料シャトルバスあり！焼津は静岡駅から3駅約13分のアクセス",
     "label": "静岡県牧之原市・焼津市ふるさと納税・日本一の大茶園と富士山パノラマ「牧之原大茶園」ホテルアンビア松風閣",
@@ -62,7 +62,7 @@ export default function Page() {
     "roomImageUrl": "",
     "reviewCount": 335,
     "reviewAverage": 4.04,
-    "userReview": "駅近で便利、駐車場の手配もスムーズJR宇治駅から1番近いですが、今回は仕事で訪れました。車で向かう予定でしたので事前にその旨を伝えたところ、駐車場の手配もして頂きありがとうございます。公共…　2026-08-22 17:29:51投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=180370\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "駅近で便利、駐車場の手配もスムーズJR宇治駅から1番近いですが、今回は仕事で訪れました。車で向かう予定でしたので事前にその旨を伝えたところ、駐車場の手配もして頂きありがとうございます。公共…　 ",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D180370",
     "access": "JR宇治駅より徒歩にて約3分",
     "label": "京都府宇治市ふるさと納税・平等院鳳凰堂や宇治の有名茶商めぐり至近「宇治茶の里」ホテルトレンドＪＲ宇治駅前",
@@ -88,7 +88,7 @@ export default function Page() {
     "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/79358/79358_room.jpg",
     "reviewCount": 302,
     "reviewAverage": 3.94,
-    "userReview": "プールと食事に大満足、コスパ抜群でまた行きたい夏休みに2泊しました。プールの規模もほどよく、夜ご飯はお腹いっぱいすぎるくらい!施設は少々古くても、お部屋は快適に過ごせました。大浴場も十…　2026-08-27 01:01:02投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=79358\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "プールと食事に大満足、コスパ抜群でまた行きたい夏休みに2泊しました。プールの規模もほどよく、夜ご飯はお腹いっぱいすぎるくらい!施設は少々古くても、お部屋は快適に過ごせました。大浴場も十…　 ",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D79358",
     "access": "九州自動車道八女IC下車。国道442号線経由、黒木平公園線へ（県道802号）約22km、約40分",
     "label": "福岡県八女市ふるさと納税・奥八女の清流と玉露の日本一の里「八女中央大茶園」くつろぎの森グリーンピア八女",
@@ -247,7 +247,7 @@ export default function Page() {
                       </div>
 
                       <p className="text-xs md:text-sm text-slate-600 line-clamp-3 leading-relaxed">
-                        {h.hotelSpecial || '日本三大名勝海岸のダイナミックな景観美、日本三大名瀑ヒーリングの清冽なマイナスイオン、日本三大名湯の別邸極上離れの贅、日本三大茶園の天空の緑の絨毯を巡る特別な拠点。四季折々の美食と名湯でお寛ぎください。'}
+                        {h.hotelSpecial || '各地域屈指の絶景ロケーションと名湯温泉、地元の豊かなテロワールを活かした四季折々の会席料理でお寛ぎいただけます。'}
                       </p>
 
                       <div className="bg-slate-50 p-3 rounded-lg text-xs space-y-1 border border-slate-100">

@@ -65,7 +65,7 @@ export default function Page() {
     "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/4804/4804map.gif",
     "reviewCount": 1554,
     "reviewAverage": 4.31,
-    "userReview": "お部屋は綺麗で景観も最高、温泉も大満足お宿の外観は古そうに思いましたが、お部屋はリフォーム後だったのかとてもきれいで、峡谷側で景観もとてもよく大満足です。夕食は...カジュアルプランだったのも…　2026-09-05 21:29:58投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=4804\" class=\"3click\">つづきはこちら</a>",
+    "userReview": "お部屋は綺麗で景観も最高、温泉も大満足お宿の外観は古そうに思いましたが、お部屋はリフォーム後だったのかとてもきれいで、峡谷側で景観もとてもよく大満足です。夕食は...カジュアルプランだったのも…　 ",
     "hotelMinCharge": 13200,
     "address1": "富山県",
     "address2": "黒部市宇奈月温泉53",
