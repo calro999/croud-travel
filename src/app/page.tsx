@@ -3706,6 +3706,35 @@ export default function Home() {
               <span>🚂🌄</span>
               <span>日本三大車窓＆峠越え大パノラマ・絶景鉄道名湯宿！姨捨・肥薩線矢岳越え・狩勝峠</span>
             </Link>
+            <Link
+              href="/furusato-tax-scenic-drives-highland-resort-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-lime-200 bg-gradient-to-r from-emerald-950 via-teal-950 to-slate-950 hover:from-emerald-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-lime-400/50 flex items-center gap-1.5"
+            >
+              <span>🚗🏔️</span>
+              <span>日本百名道＆絶景ドライブルート・高原温泉宿！ビーナスライン・志賀草津・やまなみ</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-bridges-heritage-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-rose-200 bg-gradient-to-r from-stone-950 via-rose-950 to-slate-950 hover:from-stone-900 hover:to-rose-900 rounded-2xl shadow-lg transition border border-rose-400/50 flex items-center gap-1.5"
+            >
+              <span>🌉🏯</span>
+              <span>日本三大名橋＆歴史美と水辺の風情・城下町宿！日本橋・錦帯橋・長崎眼鏡橋</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-water-towns-canal-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-teal-200 bg-gradient-to-r from-cyan-950 via-teal-950 to-emerald-950 hover:from-cyan-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-teal-400/50 flex items-center gap-1.5"
+            >
+              <span>🚣🌿</span>
+              <span>日本三大水郷＆情緒あふれる舟運川下り・水辺の名湯宿！近江八幡・柳川・潮来</span>
+            </Link>
+            <Link
+              href="/furusato-tax-kumano-kodo-world-heritage-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-amber-950 via-stone-950 to-emerald-950 hover:from-amber-900 hover:to-stone-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>⛩️♨️</span>
+              <span>世界遺産・熊野古道＆祈りの巡礼路と名湯宿！湯の峰温泉・那智勝浦・白浜</span>
+            </Link>
+
 
 
 

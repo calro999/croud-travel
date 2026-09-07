@@ -443,6 +443,11 @@ Sitemap: ${BASE_URL}/sitemap-posts.xml
 - [日本三大松原＆白砂青松パノラマ・富士山と海を望むオーシャンビュー宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-pine-groves-oceanview-stay): 三保の松原・虹の松原・気比の松原の海岸景観
 - [日本三大山城＆雲海に浮かぶ天空の砦・城下町歴史浪漫宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-mountain-castles-history-stay): 竹田城・備中松山城・岩村城の雲海遺構
 - [日本三大車窓＆峠越えの大パノラマ・絶景鉄道旅と名湯リゾート宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-train-views-scenic-stay): 姨捨善光寺平・肥薩線矢岳越え・旧狩勝峠の車窓美
+- [日本百名道＆絶景ドライブルート・高原温泉リゾート宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-scenic-drives-highland-resort-stay): ビーナスライン・志賀草津・やまなみハイウェイのスカイライン
+- [日本三大名橋＆歴史美と水辺の風情・城下町名旅館×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-bridges-heritage-stay): 日本橋・錦帯橋・長崎眼鏡橋の土木美
+- [日本三大水郷＆情緒あふれる舟運川下り・水辺の名湯宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-water-towns-canal-stay): 近江八幡・柳川・潮来の掘割と伝統の味
+- [熊野古道＆世界遺産の祈り・日本最古の湯の峰温泉と勝浦洞窟露天宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-kumano-kodo-world-heritage-stay): 紀伊山地の聖地巡礼と名湯ステイ
+
 
 
 
