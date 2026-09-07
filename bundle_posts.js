@@ -392,6 +392,10 @@ Sitemap: ${BASE_URL}/sitemap-posts.xml
 - [日本三大山城＆天空の雲海要塞宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-mountain-castles-stay): 大和高取城・美濃岩村城・備中松山城の天空石垣
 - [日本三大そうめん＆手延べ麺道宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-somen-noodles-stay): 三輪・播州・小豆島の手延べ極細白糸麺
 - [日本三大鍾乳石洞窟＆地底宮殿宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-stalactite-caves-stay): あぶくま洞・玉泉洞・井倉洞の奇跡の石筍
+- [日本三大美肌の湯＆とろとろ美肌温泉宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-bihada-onsen-stay): 嬉野・斐乃上・喜連川の極上重曹泉
+- [日本三大秘湯＆秘境の大自然一軒宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-secret-hotsprings-stay): 谷地温泉・祖谷温泉・乳頭温泉郷の自噴霊泉
+- [日本三大渓谷美＆清流大自然絶景宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-gorges-scenery-stay): 清津峡・黒部峡谷・大杉谷の奇岩清流
+- [日本三大名瀑＆豪快な滝見温泉宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-waterfalls-resort-stay): 華厳の滝・那智の滝・袋田の滝の大迫力水煙
 
 
 
