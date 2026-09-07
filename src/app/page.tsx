@@ -3678,6 +3678,35 @@ export default function Home() {
               <span>🏜️🌅</span>
               <span>日本三大砂丘＆神秘の風紋パノラマ・夕日オーシャンビュー宿！鳥取砂丘・遠州砂丘・吹上浜</span>
             </Link>
+            <Link
+              href="/furusato-tax-three-great-caves-underground-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-cyan-200 bg-gradient-to-r from-slate-950 via-cyan-950 to-blue-950 hover:from-slate-900 hover:to-cyan-900 rounded-2xl shadow-lg transition border border-cyan-400/50 flex items-center gap-1.5"
+            >
+              <span>🕳️💎</span>
+              <span>日本三大鍾乳洞＆神秘のドラゴンブルー地底湖・名湯宿！龍泉洞・秋芳洞・龍河洞</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-pine-groves-oceanview-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-emerald-200 bg-gradient-to-r from-green-950 via-teal-950 to-blue-950 hover:from-green-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-emerald-400/50 flex items-center gap-1.5"
+            >
+              <span>🌲🌊</span>
+              <span>日本三大松原＆富士山と白砂青松オーシャンビュー宿！三保の松原・虹の松原・気比の松原</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-mountain-castles-history-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-stone-950 via-stone-900 to-amber-950 hover:from-stone-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🏯☁️</span>
+              <span>天空の山城＆雲海に浮かぶ砦・城下町歴史宿！竹田城・備中松山城・岩村城</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-train-views-scenic-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-sky-200 bg-gradient-to-r from-indigo-950 via-blue-950 to-slate-950 hover:from-indigo-900 hover:to-blue-900 rounded-2xl shadow-lg transition border border-sky-400/50 flex items-center gap-1.5"
+            >
+              <span>🚂🌄</span>
+              <span>日本三大車窓＆峠越え大パノラマ・絶景鉄道名湯宿！姨捨・肥薩線矢岳越え・狩勝峠</span>
+            </Link>
+
 
 
             <Link
