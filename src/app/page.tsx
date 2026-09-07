@@ -3427,6 +3427,34 @@ export default function Home() {
               <span>日本三大美林＆森林浴・天然木アロマ温泉宿！青森ヒバ・秋田スギ・木曽ヒノキ</span>
             </Link>
             <Link
+              href="/furusato-tax-three-great-spring-waters-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-cyan-200 bg-gradient-to-r from-teal-950 via-cyan-950 to-blue-950 hover:from-teal-900 hover:to-cyan-900 rounded-2xl shadow-lg transition border border-cyan-400/50 flex items-center gap-1.5"
+            >
+              <span>💧🍶</span>
+              <span>日本三大名水＆湧水水源地・清流酒蔵美食宿！黒部湧水・白州尾白川・南阿蘇白川水源</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-buddhas-heritage-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-yellow-950 via-amber-950 to-stone-950 hover:from-yellow-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>☸️🏯</span>
+              <span>日本三大仏＆歴史古都・門前町の名宿！奈良大仏・鎌倉大仏・高岡大仏</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-pine-groves-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-emerald-200 bg-gradient-to-r from-green-950 via-teal-950 to-blue-950 hover:from-green-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-emerald-400/50 flex items-center gap-1.5"
+            >
+              <span>🌲🌊</span>
+              <span>日本三大松原＆白砂青松オーシャンビュー宿！三保松原・虹の松原・気比松原</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-clear-stream-valleys-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-teal-200 bg-gradient-to-r from-cyan-950 via-emerald-950 to-sky-950 hover:from-cyan-900 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-teal-400/50 flex items-center gap-1.5"
+            >
+              <span>🏞️✨</span>
+              <span>日本三大美林清流渓谷＆エメラルドブルー絶景宿！奥入瀬・抱返り・阿寺渓谷</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >

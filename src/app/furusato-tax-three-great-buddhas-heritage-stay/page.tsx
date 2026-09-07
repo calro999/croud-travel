@@ -1,397 +1,409 @@
-'use client';
-
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
+import { Metadata } from 'next';
 
-const officialFurusatoAffUrl = "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F";
+export const metadata: Metadata = {
+  title: '日本三大仏＆歴史古都の門前町・国宝仏閣と伝統会席宿×ふるさと納税完全ガイド【2026年最新】奈良・鎌倉・高岡大仏',
+  description: '千年の祈りと威風堂々の尊顔！奈良「東大寺盧舎那仏」世界最大の木造建築と大仏殿・若草山麓ホテルニューわかさ、神奈川「鎌倉大仏」国宝・青空の下に鎮座する高徳院と湘南フレンチ鎌倉パークホテル、富山「高岡大仏」銅器の町が誇る日本一の美男仏とホテルクラウンヒルズ高岡駅前。日本三大仏の歴史ロマンと門前町文化を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
+  keywords: '日本三大仏・歴史古都特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
+  openGraph: {
+    title: '日本三大仏＆歴史古都の門前町・国宝仏閣と伝統会席宿×ふるさと納税完全ガイド【2026年最新】奈良・鎌倉・高岡大仏',
+    description: '千年の祈りと威風堂々の尊顔！奈良「東大寺盧舎那仏」世界最大の木造建築と大仏殿・若草山麓ホテルニューわかさ、神奈川「鎌倉大仏」国宝・青空の下に鎮座する高徳院と湘南フレンチ鎌倉パークホテル、富山「高岡大仏」銅器の町が誇る日本一の美男仏とホテルクラウンヒルズ高岡駅前。日本三大仏の歴史ロマンと門前町文化を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
+    type: 'article',
+    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-buddhas-heritage-stay',
+    siteName: 'トラベルポータル',
+  },
+};
 
 export default function Page() {
+  const officialAffUrl = 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F';
+
+  const hotels = [
+  {
+    "hotelNo": 8692,
+    "hotelName": "ホテルニューわかさ",
+    "hotelKanaName": "にゅーわかさ",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D8692",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D8692%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FIWrzP%2F%3FnoTomariHotel%3D8692",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D8692",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8692/8692.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/8692.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8692/8692_rm.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8692/8692map.gif",
+    "reviewCount": 681,
+    "reviewAverage": 4.56,
+    "userReview": "車椅子でも安心、親切な対応で良い思い出に親子三世代で宿泊させていただきました。高齢者車椅子利用でしたが、とても親切に対応していただき、良き思い出になりました。立地も良く迷う事なく東大寺や奈良公園ま…　2026-09-02 01:19:25投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=8692\" class=\"3click\">つづきはこちら</a>",
+    "hotelMinCharge": 11000,
+    "address1": "奈良県",
+    "address2": "奈良市北半田東町1",
+    "telephoneNo": "0742-23-5858",
+    "access": "車：名神高速道路京都南ICより60分　電車：近鉄奈良線近鉄奈良駅",
+    "parkingInformation": "有り　車40台バス6台　15時から１０時無料（時間外有料）",
+    "nearestStation": "近鉄奈良",
+    "hotelSpecial": "奈良公園・東大寺まで徒歩5分！世界遺産を見渡せる屋上庭園や華やかな懐石料理で奈良をたっぷり味わえる宿",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D8692",
+    "featureKey": "buddha_nara",
+    "featureLabel": "奈良県奈良市ふるさと納税・世界最大級の木造建築と鎮護国家の象徴「東大寺盧舎那仏（奈良の大仏）」若草山麓ホテルニューわかさ",
+    "themeTitle": "奈良県奈良市ふるさと納税：東大寺大仏殿まで徒歩5分・屋上テラスから若草山と大仏殿を望む「ホテルニューわかさ」",
+    "themeDesc": "東大寺の参道近くに位置し、奈良の大仏参拝に最高の立地を誇る老舗湯宿。屋上ラウンジからは大仏殿の屋根や若草山を一望でき、古代檜の浴槽や露天風呂で寛ぎながら、大和牛や奈良の旬の食材を贅沢に使った創作会席を堪能できます。",
+    "revAvg": "4.6",
+    "minCharge": "11,000"
+  },
+  {
+    "hotelNo": 31648,
+    "hotelName": "鎌倉パークホテル",
+    "hotelKanaName": "かまくら　ぱーくほてる",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D31648",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D31648%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FIWrzP%2F%3FnoTomariHotel%3D31648",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D31648",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31648/31648.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/31648.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31648/31648_t.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31648/31648map.gif",
+    "reviewCount": 1317,
+    "reviewAverage": 4.43,
+    "userReview": "2回目の利用だが今回は残念な点が多かった2回目の利用。夏休みに家族で利用。部屋に入った際、トイレなのか非常に匂った。洋食の夕食はイマイチだった。ここは恐らく和食の方が腕がいい。今回は残念な点が多か…　2026-09-05 17:36:40投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=31648\" class=\"3click\">つづきはこちら</a>",
+    "hotelMinCharge": 9350,
+    "address1": "神奈川県",
+    "address2": "鎌倉市坂ノ下33-6",
+    "telephoneNo": "0467-25-5121",
+    "access": "ＪＲ鎌倉駅よりタクシーにて１０～１５分(平常時）。江ノ電長谷駅より徒歩約１３分。",
+    "parkingInformation": "有 ６０台。チェックイン日は午前中から無料、チェックアウト後は１４時まで無料、それ以降は有料です。",
+    "nearestStation": "鎌倉",
+    "hotelSpecial": "ヨーロッパのインテリアが配された落ち着いた雰囲気のアーバンリゾートホテル。大仏などの観光にも便利。",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D31648",
+    "featureKey": "buddha_kamakura",
+    "featureLabel": "神奈川県鎌倉市ふるさと納税・国宝にして青空の下に佇む美しき尊顔「鎌倉大仏（高徳院）」湘南オーシャンビュー鎌倉パークホテル",
+    "themeTitle": "神奈川県鎌倉市ふるさと納税：鎌倉大仏（高徳院）と長谷寺へ好アクセス・湘南の海を望む「鎌倉パークホテル」",
+    "themeDesc": "由比ヶ浜海岸のすぐそばに佇み、鎌倉大仏のある長谷エリアへの散策に最適な上質リゾートホテル。全室相模湾を望むゆったりとした客室で寛ぎ、朝獲れの鎌倉野菜や相模湾の新鮮魚介、三浦牛を取り入れた本格フレンチディナーを楽しめます。",
+    "revAvg": "4.4",
+    "minCharge": "9,350"
+  },
+  {
+    "hotelNo": 146844,
+    "hotelName": "ホテルクラウンヒルズ高岡駅前（ＢＢＨホテルグループ）",
+    "hotelKanaName": "くらうんひるずたかおかえきまえ　びーびーえいちほてるぐるーぷ",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D146844",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D146844%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FIWrzP%2F%3FnoTomariHotel%3D146844",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D146844",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/146844/146844.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/146844.jpg",
+    "roomImageUrl": "",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/146844/146844map.gif",
+    "reviewCount": 798,
+    "reviewAverage": 3.95,
+    "userReview": "至れり尽くせりのサービスで最高でしたウェルカムドリンクやお茶漬けサービス等至れり尽くせりでサイコーのビジホでした。今回は車でしたが、駅近で列車旅にも良いかもしれません。他の画像やクチコミの詳細…　2026-08-31 22:20:17投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=146844\" class=\"3click\">つづきはこちら</a>",
+    "hotelMinCharge": 3600,
+    "address1": "富山県",
+    "address2": "高岡市駅南5-3-3",
+    "telephoneNo": "050-1807-0442",
+    "access": "高岡駅瑞龍寺口より徒歩１分/新高岡駅よりバス8分/富山空港より車タクシーで約40分/高岡インターチェンジより10分",
+    "parkingInformation": "ホテル駐車場１泊５００円（先着順）満車の際は近隣コインパーキング（３００円～）へのご案内となります。",
+    "nearestStation": "高岡",
+    "hotelSpecial": "高岡駅から徒歩１分！大浴場、夕食、アルコールサービス等無料サービス充実！観光・ビジネスにオススメ♪",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D146844",
+    "featureKey": "buddha_takaoka",
+    "featureLabel": "富山県高岡市ふるさと納税・銅器の町が誇る日本一の美男大仏「高岡大仏」鋳物文化と高岡マンテンホテル駅前",
+    "themeTitle": "富山県高岡市ふるさと納税：日本一の美男仏・高岡大仏観光の拠点「ホテルクラウンヒルズ高岡駅前」",
+    "themeDesc": "高岡駅北口から徒歩1分、高岡大仏や金屋町の鋳物小路への散策拠点として抜群のロケーション。最上階展望風呂やサウナで旅の疲れを癒やし、夜は高岡市街の名店で富山湾の新鮮な海の幸や富山ブラックラーメン、地酒巡りを満喫できます。",
+    "revAvg": "4.0",
+    "minCharge": "3,600"
+  }
+];
+
   return (
-    <div className="min-h-screen bg-slate-950 text-slate-100 antialiased selection:bg-rose-500 selection:text-white pb-24">
-      {/* Hero Section */}
-      <header className="relative py-20 md:py-28 overflow-hidden bg-gradient-to-b from-slate-900 via-slate-950 to-slate-950 border-b border-slate-800/80">
-        <div className="absolute inset-0 opacity-20 bg-[radial-gradient(#38bdf8_1px,transparent_1px)] [background-size:24px_24px] pointer-events-none" />
-        <div className="max-w-5xl mx-auto px-4 sm:px-6 relative z-10 text-center">
-          <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-rose-500/10 border border-rose-500/30 text-rose-300 text-xs sm:text-sm font-semibold mb-6 backdrop-blur-md">
-            <span className="inline-block w-2 h-2 rounded-full bg-rose-400 animate-pulse" />
-            日本三大仏・歴史探訪特集
+    <div className="min-h-screen bg-slate-50 text-slate-800">
+      {/* パンくずリスト */}
+      <nav className="bg-white border-b border-slate-200 py-3 px-4 text-xs text-slate-500">
+        <div className="max-w-5xl mx-auto flex items-center space-x-2">
+          <Link href="/" className="hover:text-emerald-600 transition">ホーム</Link>
+          <span>&gt;</span>
+          <span className="text-slate-700 font-medium">日本三大仏＆歴史古都・門前町の名宿×ふるさと納税ガイド</span>
+        </div>
+      </nav>
+
+      {/* ヒーローヘッダー */}
+      <header className="relative bg-gradient-to-br from-emerald-950 via-slate-900 to-teal-950 text-white py-16 px-4">
+        <div className="max-w-4xl mx-auto text-center space-y-4">
+          <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
+            日本三大仏・歴史古都特集
           </div>
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">
-            日本三大仏＆古都クラシック宿×ふるさと納税ガイド
+          <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
+            日本三大仏＆歴史古都・門前町の名宿×ふるさと納税ガイド
           </h1>
-          <p className="text-base sm:text-lg md:text-xl text-slate-300 max-w-3xl mx-auto leading-relaxed font-normal">
-            千年の祈りと威厳に満ちた巨像美！奈良「東大寺大仏」盧舎那仏と若草山の鹿・いろはグランホテル近鉄奈良駅前、神奈川「鎌倉大仏」高徳院の青空大仏と相模湾・鎌倉プリンスホテル、富山「高岡大仏」日本一の美男大仏と大仏旅館。日本三大仏の歴史散策と古都の情緒あふれるホテルステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。
+          <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
+            国家の安寧や人々の救済を願って建立され、日本の仏教美術・鋳造技術の頂点を極めた「日本三大仏」――聖武天皇の発願により国家事業として鋳造され世界遺産東大寺の大仏殿に鎮座する奈良の「奈良の大仏（盧舎那仏）」、津波で大仏殿が流失して以来六百年以上にわたり青空と潮風の中に端座する神奈川の「鎌倉大仏（高徳院 阿弥陀如来坐像）」、そして加賀前田家ゆかりの鋳物産業の粋を集め与謝野晶子をして「美男におわす」と詠ましめた富山の「高岡大仏」。見上げるほど巨大な仏身の前に立つと、時代を超えて人々が捧げてきた祈りの深さに胸が打たれます。古都の静かな小路を歩き、老舗宿で大和牛・相模湾の地魚・富山湾のキトキト鮮魚を味わう知的な旅を楽天ふるさと納税でお楽しみください。
           </p>
 
-          <div className="mt-8 flex flex-wrap justify-center gap-4">
+          <div className="pt-6">
             <a
-              href={officialFurusatoAffUrl}
+              href={officialAffUrl}
               target="_blank"
-              rel="noopener noreferrer"
-              className="px-8 py-4 bg-gradient-to-r from-rose-500 via-red-500 to-amber-500 hover:from-rose-600 hover:to-amber-600 text-white font-bold rounded-2xl shadow-xl shadow-rose-950/40 transition duration-300 transform hover:-translate-y-0.5 flex items-center gap-2 text-base md:text-lg"
+              rel="noopener noreferrer nofollow"
+              className="inline-flex items-center justify-center bg-gradient-to-r from-emerald-500 to-teal-500 hover:from-emerald-400 hover:to-teal-400 text-white font-bold py-3 px-8 rounded-full shadow-lg shadow-emerald-900/30 transform hover:-translate-y-0.5 transition duration-200 text-sm md:text-base"
             >
-              <span>🏮 楽天ふるさと納税トラベル特設ページを見る</span>
+              <span>楽天ふるさと納税トラベル公式特設ページを見る</span>
+              <svg className="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
+              </svg>
             </a>
           </div>
         </div>
       </header>
 
-      {/* Main Content Container */}
-      <main className="max-w-5xl mx-auto px-4 sm:px-6 mt-12 space-y-16">
-        {/* Intro Lead */}
-        <section className="bg-slate-900/90 border border-slate-800 rounded-3xl p-6 sm:p-8 backdrop-blur shadow-2xl">
-          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">
-            静かに佇む慈悲の眼差しと受け継がれる職人の技。心を洗い流す古都のヒーリングステイ
+      {/* メインコンテンツ */}
+      <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
+        
+        {/* 特集の魅力セクション */}
+        <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80">
+          <h2 className="text-xl md:text-2xl font-bold text-slate-900 border-l-4 border-emerald-500 pl-3 mb-6">
+            青空を背に佇む優しい眼差し、千年の歴史が刻む圧倒的な威厳。日本の美意識に触れる
           </h2>
-          <p className="text-slate-300 leading-relaxed text-sm sm:text-base">
-            人々の安寧や国の平和を願い、時代を代表する最高の技術と情熱を結集して建立された「日本三大仏」――聖武天皇の勅願により造立された世界最大の木造建築・大仏殿に鎮座する奈良の「東大寺大仏（盧舎那仏）」、台座を含め約13メートルの堂々たる青銅製坐像が青空の下に佇む神奈川の「鎌倉大仏（高徳院阿弥陀如来）」、そして四百年の歴史を誇る銅器・鋳物の町で市民の力によって完成した日本一の美男と名高い富山の「高岡大仏」。大仏様の優しい表情を見上げながら手を合わせれば、日々の喧騒を忘れ心が洗われるような静寂が広がります。古都の老舗旅館やクラシックホテルで精進料理や郷土会席を味わう優雅な休日を楽天ふるさと納税でお楽しみください。
-          </p>
+          <div className="grid md:grid-cols-3 gap-6">
+            
+            <div className="bg-slate-50 rounded-xl p-5 border border-slate-100 space-y-2">
+              <div className="font-bold text-emerald-800 text-sm md:text-base flex items-center space-x-1.5">
+                <svg className="w-4 h-4 text-emerald-600 shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                  <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
+                </svg>
+                <span>国宝・重文の圧倒的なスケール！悠久の歴史が息づく三大仏の尊顔を拝観</span>
+              </div>
+              <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
+                早朝の静寂に包まれた境内や夕暮れ時の古都散策など、混雑を避けた特別な参拝時間を満喫。
+              </p>
+            </div>
+            
+            <div className="bg-slate-50 rounded-xl p-5 border border-slate-100 space-y-2">
+              <div className="font-bold text-emerald-800 text-sm md:text-base flex items-center space-x-1.5">
+                <svg className="w-4 h-4 text-emerald-600 shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                  <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
+                </svg>
+                <span>大和牛＆大和野菜会席、鎌倉野菜＆湘南しらすフレンチ、富山湾寒ブリ＆白えび</span>
+              </div>
+              <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
+                古都と城下町が育んだ伝統の味覚と、海・山の幸が織りなす極上グルメを堪能。
+              </p>
+            </div>
+            
+            <div className="bg-slate-50 rounded-xl p-5 border border-slate-100 space-y-2">
+              <div className="font-bold text-emerald-800 text-sm md:text-base flex items-center space-x-1.5">
+                <svg className="w-4 h-4 text-emerald-600 shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                  <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
+                </svg>
+                <span>楽天ふるさと納税宿泊クーポンで古都の老舗旅館・上質シティホテルをお得に予約</span>
+              </div>
+              <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
+                一人旅や夫婦の文化財巡りでも、寄付金額に応じた最大30%オフの即時割引クーポンでスマートにお得ステイ。
+              </p>
+            </div>
+            
+          </div>
         </section>
 
-        {/* 3 Key Merits */}
-        <section className="space-y-6">
-          <div className="text-center">
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-white">
-              ふるさと納税トラベルで巡る3つの至高メリット
+        {/* 厳選ホテルリスト */}
+        <section className="space-y-10">
+          <div className="text-center space-y-2">
+            <h2 className="text-2xl md:text-3xl font-bold text-slate-900">
+              楽天ふるさと納税で泊まる名宿＆厳選ホテル
             </h2>
-            <p className="text-sm sm:text-base text-slate-400 mt-2">実質自己負担2,000円で憧れの名旅館＆特産グルメをアップグレード</p>
+            <p className="text-xs md:text-sm text-slate-500">
+              楽天トラベル公式APIより最新の宿情報・写真・最低参考価格を取得しています
+            </p>
           </div>
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-            
-            <div key="0" className="bg-slate-900/60 border border-slate-800/80 rounded-2xl p-6 hover:border-slate-700 transition">
-              <div className="w-10 h-10 rounded-xl bg-rose-500/10 border border-rose-500/20 text-rose-400 font-bold flex items-center justify-center mb-4">
-                01
+
+          <div className="space-y-8">
+            {hotels.map((h, idx) => (
+              <div key={h.hotelNo || idx} className="bg-white rounded-2xl overflow-hidden shadow-sm border border-slate-200/80 hover:shadow-md transition duration-300">
+                <div className="p-6 border-b border-slate-100 bg-slate-50/50">
+                  <span className="inline-block bg-emerald-100 text-emerald-800 text-xs font-bold px-2.5 py-1 rounded mb-2">
+                    厳選スポット #{idx + 1}
+                  </span>
+                  <h3 className="text-lg md:text-xl font-bold text-slate-900">
+                    {h.themeTitle}
+                  </h3>
+                  <p className="text-xs md:text-sm text-slate-600 mt-2 leading-relaxed">
+                    {h.themeDesc}
+                  </p>
+                </div>
+
+                <div className="grid md:grid-cols-12 gap-6 p-6">
+                  <div className="md:col-span-5 space-y-2">
+                    <div className="relative aspect-[4/3] rounded-xl overflow-hidden bg-slate-100 border border-slate-200">
+                      <img
+                        src={h.hotelImageUrl || h.roomImageUrl || '/images/no-image.jpg'}
+                        alt={h.hotelName}
+                        className="w-full h-full object-cover"
+                        loading="lazy"
+                      />
+                    </div>
+                    <div className="text-xs text-slate-400 text-center">
+                      写真提供: 楽天トラベル
+                    </div>
+                  </div>
+
+                  <div className="md:col-span-7 flex flex-col justify-between space-y-4">
+                    <div className="space-y-3">
+                      <div className="flex items-start justify-between">
+                        <div>
+                          <h4 className="font-bold text-base md:text-lg text-slate-900 leading-snug">
+                            {h.hotelName}
+                          </h4>
+                          <p className="text-xs text-slate-500 mt-0.5">
+                            {h.address1}{h.address2}
+                          </p>
+                        </div>
+                        <div className="bg-emerald-50 text-emerald-700 font-bold px-2.5 py-1 rounded text-xs shrink-0 flex items-center space-x-1">
+                          <span>★</span>
+                          <span>{h.revAvg}</span>
+                        </div>
+                      </div>
+
+                      <p className="text-xs md:text-sm text-slate-600 line-clamp-3 leading-relaxed">
+                        {h.hotelSpecial || '日本三大名水の清冽な雫、日本三大仏の荘厳な歴史美、日本三大松原の白砂青松パノラマ、日本三大美林清流渓谷のエメラルドブルーを巡る極上の拠点。四季折々の美食と名湯でお寛ぎください。'}
+                      </p>
+
+                      <div className="bg-slate-50 p-3 rounded-lg text-xs space-y-1 border border-slate-100">
+                        <div className="flex">
+                          <span className="text-slate-400 w-16 shrink-0">アクセス:</span>
+                          <span className="text-slate-700">{h.access || '最寄り駅・主要道路よりアクセス良好'}</span>
+                        </div>
+                        <div className="flex">
+                          <span className="text-slate-400 w-16 shrink-0">参考価格:</span>
+                          <span className="text-emerald-700 font-semibold">1名あたり目安 ¥{h.minCharge}〜</span>
+                        </div>
+                      </div>
+                    </div>
+
+                    <div className="pt-2 flex flex-col sm:flex-row gap-3">
+                      <a
+                        href={h.hotelInformationUrl || officialAffUrl}
+                        target="_blank"
+                        rel="noopener noreferrer nofollow"
+                        className="flex-1 text-center bg-slate-900 hover:bg-slate-800 text-white text-xs md:text-sm font-semibold py-2.5 px-4 rounded-xl transition duration-150"
+                      >
+                        宿の詳細・プランを見る
+                      </a>
+                      <a
+                        href={officialAffUrl}
+                        target="_blank"
+                        rel="noopener noreferrer nofollow"
+                        className="flex-1 text-center bg-gradient-to-r from-emerald-600 to-teal-600 hover:from-emerald-500 hover:to-teal-500 text-white text-xs md:text-sm font-bold py-2.5 px-4 rounded-xl shadow-sm transition duration-150"
+                      >
+                        ふるさと納税クーポンで予約
+                      </a>
+                    </div>
+                  </div>
+                </div>
               </div>
-              <h3 className="font-bold text-white text-lg mb-2">早朝の参拝で混雑を回避！大仏様と一対一で向き合える贅沢な静寂</h3>
-              <p className="text-slate-400 text-sm leading-relaxed">観光客で賑わう前の朝一番に参拝し、澄み切った空気の中で心洗われる祈りの時間を独占。</p>
-            </div>
-            <div key="1" className="bg-slate-900/60 border border-slate-800/80 rounded-2xl p-6 hover:border-slate-700 transition">
-              <div className="w-10 h-10 rounded-xl bg-rose-500/10 border border-rose-500/20 text-rose-400 font-bold flex items-center justify-center mb-4">
-                02
-              </div>
-              <h3 className="font-bold text-white text-lg mb-2">大和牛・三輪そうめん、湘南しらす・葉山牛、富山湾の白エビ名物ディナー</h3>
-              <p className="text-slate-400 text-sm leading-relaxed">歴史ある門前町や城下町が育んだ伝統の味覚を、名門ホテルのレストランで堪能。</p>
-            </div>
-            <div key="2" className="bg-slate-900/60 border border-slate-800/80 rounded-2xl p-6 hover:border-slate-700 transition">
-              <div className="w-10 h-10 rounded-xl bg-rose-500/10 border border-rose-500/20 text-rose-400 font-bold flex items-center justify-center mb-4">
-                03
-              </div>
-              <h3 className="font-bold text-white text-lg mb-2">楽天ふるさと納税宿泊クーポンで古都の人気ホテルを賢くお得に予約</h3>
-              <p className="text-slate-400 text-sm leading-relaxed">鎌倉プリンスホテルや奈良のホテルなど人気宿の宿泊代金を即時控除し、実質2,000円負担で宿泊。</p>
-            </div>
+            ))}
           </div>
         </section>
 
-        {/* Featured Hotels & Regions */}
-        <section className="space-y-12">
-          <div className="border-b border-slate-800 pb-4">
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-white">
-              厳選名所＆楽天トラベル提携おすすめ名宿
+        {/* 楽天ふるさと納税トラベル利用ステップ */}
+        <section className="bg-gradient-to-br from-slate-900 to-emerald-950 text-white rounded-2xl p-6 md:p-8 space-y-6">
+          <div className="text-center space-y-2">
+            <h2 className="text-xl md:text-2xl font-bold">
+              楽天ふるさと納税×楽天トラベル 簡単3ステップ
             </h2>
-            <p className="text-slate-400 text-sm sm:text-base mt-1">楽天ふるさと納税宿泊クーポンが利用可能な極上宿</p>
+            <p className="text-xs md:text-sm text-slate-300">
+              実質2,000円の自己負担で憧れの高級宿・温泉旅館をお得に予約できます
+            </p>
           </div>
 
-          <div className="space-y-12">
-            
-            {/* Spot Card 1 */}
-            <article key="0" className="bg-slate-900/80 border border-slate-800 rounded-3xl overflow-hidden hover:border-slate-700/80 transition duration-300 shadow-xl">
-              <div className="p-6 sm:p-8 border-b border-slate-800/80">
-                <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
-                  厳選スポット 01
-                </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  奈良県奈良市ふるさと納税：世界遺産・東大寺の盧舎那仏「奈良の大仏」と駅近快適ないろはグランホテル近鉄奈良駅前
-                </h3>
-                <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
-                  天平文化の最高峰・東大寺大仏。奈良公園の鹿と触れ合い、ならまちを散策した後は、近鉄奈良駅徒歩2分の「いろはグランホテル近鉄奈良駅前」を拠点に、大和野菜や大和牛の鉄板焼き、老舗の茶粥朝食を満喫します。
-                </p>
+          <div className="grid md:grid-cols-3 gap-4 text-slate-200">
+            <div className="bg-white/10 backdrop-blur-sm rounded-xl p-4 border border-white/10 space-y-2">
+              <div className="w-7 h-7 rounded-full bg-emerald-500 text-white font-bold flex items-center justify-center text-xs">
+                1
               </div>
+              <h3 className="font-bold text-sm text-white">自治体に寄付</h3>
+              <p className="text-xs leading-relaxed text-slate-300">
+                希望の自治体と寄付金額を選び、楽天ふるさと納税で寄付を行います。寄付額に応じたトラベルクーポンが即時付与されます。
+              </p>
+            </div>
 
-              <div className="grid grid-cols-1 lg:grid-cols-12 gap-6 p-6 sm:p-8 items-center bg-slate-950/40">
-                <div className="lg:col-span-5 relative h-64 sm:h-72 w-full rounded-2xl overflow-hidden border border-slate-800">
-                  <Image
-                    src="https://img.travel.rakuten.co.jp/share/HOTEL/183843/183843.jpg"
-                    alt="いろはグランホテル近鉄奈良駅前"
-                    fill
-                    className="object-cover hover:scale-105 transition duration-500"
-                    unoptimized
-                  />
-                  <div className="absolute top-3 left-3 px-3 py-1 bg-slate-950/80 backdrop-blur-md rounded-lg text-xs font-bold text-amber-400 border border-amber-400/30">
-                    ★ 4.5（1184件）
-                  </div>
-                </div>
-
-                <div className="lg:col-span-7 flex flex-col justify-between space-y-4">
-                  <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      いろはグランホテル近鉄奈良駅前
-                    </h4>
-                    <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
-                      <span>📍</span>
-                      <span>奈良県奈良市小西町30-1</span>
-                    </p>
-                    <p className="text-slate-300 text-xs sm:text-sm leading-relaxed mb-4 bg-slate-900/60 p-3.5 rounded-xl border border-slate-800/60">
-                      ★近鉄駅４番出口徒歩２分！2022年7月1日グランドオープン【全室禁煙☆館内完全バリアフリ-】
-                    </p>
-                  </div>
-
-                  <div className="pt-2 border-t border-slate-800/80 flex flex-wrap items-center justify-between gap-4">
-                    <div>
-                      <div className="text-xs text-slate-400">参考最安料金（1名あたり）</div>
-                      <div className="text-lg sm:text-xl font-black text-rose-400">
-                        4,800円〜
-                      </div>
-                    </div>
-                    <div className="flex items-center gap-3">
-                      <a
-                        href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D183843"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="px-5 py-2.5 bg-slate-800 hover:bg-slate-700 text-slate-200 text-xs sm:text-sm font-bold rounded-xl transition border border-slate-700"
-                      >
-                        宿泊詳細を見る
-                      </a>
-                      <a
-                        href={officialFurusatoAffUrl}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="px-5 py-2.5 bg-rose-600 hover:bg-rose-500 text-white text-xs sm:text-sm font-bold rounded-xl transition shadow-lg shadow-rose-950/40"
-                      >
-                        ふるさと納税で予約
-                      </a>
-                    </div>
-                  </div>
-                </div>
+            <div className="bg-white/10 backdrop-blur-sm rounded-xl p-4 border border-white/10 space-y-2">
+              <div className="w-7 h-7 rounded-full bg-emerald-500 text-white font-bold flex items-center justify-center text-xs">
+                2
               </div>
-            </article>
-            {/* Spot Card 2 */}
-            <article key="1" className="bg-slate-900/80 border border-slate-800 rounded-3xl overflow-hidden hover:border-slate-700/80 transition duration-300 shadow-xl">
-              <div className="p-6 sm:p-8 border-b border-slate-800/80">
-                <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
-                  厳選スポット 02
-                </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  神奈川県鎌倉市ふるさと納税：国宝・露座の青銅巨仏「鎌倉大仏」と七里ヶ浜海岸を望む鎌倉プリンスホテル
-                </h3>
-                <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
-                  青空を背景に佇む高徳院の大仏様。江ノ電に揺られて長谷寺や由比ヶ浜を巡った後は、全室オーシャンビューの「鎌倉プリンスホテル」で、相模湾の潮騒を聞きながら湘南フレンチと極上の夕景リゾートを満喫します。
-                </p>
+              <h3 className="font-bold text-sm text-white">対象宿・プランを予約</h3>
+              <p className="text-xs leading-relaxed text-slate-300">
+                楽天トラベルで対象地域の宿泊施設を検索。獲得したふるさと納税クーポンを予約ステップで適用します。
+              </p>
+            </div>
+
+            <div className="bg-white/10 backdrop-blur-sm rounded-xl p-4 border border-white/10 space-y-2">
+              <div className="w-7 h-7 rounded-full bg-emerald-500 text-white font-bold flex items-center justify-center text-xs">
+                3
               </div>
+              <h3 className="font-bold text-sm text-white">現地で贅沢ステイ</h3>
+              <p className="text-xs leading-relaxed text-slate-300">
+                宿泊当日は通常通りチェックイン。割引されたお得な価格で、名湯や美食、絶景体験を満喫できます。
+              </p>
+            </div>
+          </div>
 
-              <div className="grid grid-cols-1 lg:grid-cols-12 gap-6 p-6 sm:p-8 items-center bg-slate-950/40">
-                <div className="lg:col-span-5 relative h-64 sm:h-72 w-full rounded-2xl overflow-hidden border border-slate-800">
-                  <Image
-                    src="https://img.travel.rakuten.co.jp/share/HOTEL/1679/1679.jpg"
-                    alt="鎌倉プリンスホテル"
-                    fill
-                    className="object-cover hover:scale-105 transition duration-500"
-                    unoptimized
-                  />
-                  <div className="absolute top-3 left-3 px-3 py-1 bg-slate-950/80 backdrop-blur-md rounded-lg text-xs font-bold text-amber-400 border border-amber-400/30">
-                    ★ 4.4（1797件）
-                  </div>
-                </div>
-
-                <div className="lg:col-span-7 flex flex-col justify-between space-y-4">
-                  <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      鎌倉プリンスホテル
-                    </h4>
-                    <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
-                      <span>📍</span>
-                      <span>神奈川県鎌倉市七里ヶ浜東1-2-18</span>
-                    </p>
-                    <p className="text-slate-300 text-xs sm:text-sm leading-relaxed mb-4 bg-slate-900/60 p-3.5 rounded-xl border border-slate-800/60">
-                      相模湾を望む、七里ヶ浜の丘に建つホテル。すべてのお部屋から相模湾の風景が望めます。
-                    </p>
-                  </div>
-
-                  <div className="pt-2 border-t border-slate-800/80 flex flex-wrap items-center justify-between gap-4">
-                    <div>
-                      <div className="text-xs text-slate-400">参考最安料金（1名あたり）</div>
-                      <div className="text-lg sm:text-xl font-black text-rose-400">
-                        11,236円〜
-                      </div>
-                    </div>
-                    <div className="flex items-center gap-3">
-                      <a
-                        href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D1679"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="px-5 py-2.5 bg-slate-800 hover:bg-slate-700 text-slate-200 text-xs sm:text-sm font-bold rounded-xl transition border border-slate-700"
-                      >
-                        宿泊詳細を見る
-                      </a>
-                      <a
-                        href={officialFurusatoAffUrl}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="px-5 py-2.5 bg-rose-600 hover:bg-rose-500 text-white text-xs sm:text-sm font-bold rounded-xl transition shadow-lg shadow-rose-950/40"
-                      >
-                        ふるさと納税で予約
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </article>
-            {/* Spot Card 3 */}
-            <article key="2" className="bg-slate-900/80 border border-slate-800 rounded-3xl overflow-hidden hover:border-slate-700/80 transition duration-300 shadow-xl">
-              <div className="p-6 sm:p-8 border-b border-slate-800/80">
-                <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
-                  厳選スポット 03
-                </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  富山県高岡市ふるさと納税：鋳物の町が生んだ端正な美男仏「高岡大仏」とお膝元に佇む老舗・大仏旅館
-                </h3>
-                <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
-                  与謝野晶子が「美男」と称えた高岡大仏。金屋町の石畳通りで銅器制作体験を楽しんだ後は、大仏のすぐ目の前に位置する創業百年の「大仏旅館」で、富山湾の朝獲れ魚介やホタルイカ、氷見うどんの家庭的な美食に癒やされます。
-                </p>
-              </div>
-
-              <div className="grid grid-cols-1 lg:grid-cols-12 gap-6 p-6 sm:p-8 items-center bg-slate-950/40">
-                <div className="lg:col-span-5 relative h-64 sm:h-72 w-full rounded-2xl overflow-hidden border border-slate-800">
-                  <Image
-                    src="https://img.travel.rakuten.co.jp/share/HOTEL/4657/4657.jpg"
-                    alt="大仏旅館＜高岡＞"
-                    fill
-                    className="object-cover hover:scale-105 transition duration-500"
-                    unoptimized
-                  />
-                  <div className="absolute top-3 left-3 px-3 py-1 bg-slate-950/80 backdrop-blur-md rounded-lg text-xs font-bold text-amber-400 border border-amber-400/30">
-                    ★ 4.5（167件）
-                  </div>
-                </div>
-
-                <div className="lg:col-span-7 flex flex-col justify-between space-y-4">
-                  <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      大仏旅館＜高岡＞
-                    </h4>
-                    <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
-                      <span>📍</span>
-                      <span>富山県高岡市大仏町1276</span>
-                    </p>
-                    <p className="text-slate-300 text-xs sm:text-sm leading-relaxed mb-4 bg-slate-900/60 p-3.5 rounded-xl border border-slate-800/60">
-                      安らぐ富山の昔ながらの旅館。 高岡大仏まで徒歩約1分！朝夕食共に個室食またはお部屋食
-                    </p>
-                  </div>
-
-                  <div className="pt-2 border-t border-slate-800/80 flex flex-wrap items-center justify-between gap-4">
-                    <div>
-                      <div className="text-xs text-slate-400">参考最安料金（1名あたり）</div>
-                      <div className="text-lg sm:text-xl font-black text-rose-400">
-                        5,000円〜
-                      </div>
-                    </div>
-                    <div className="flex items-center gap-3">
-                      <a
-                        href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D4657"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="px-5 py-2.5 bg-slate-800 hover:bg-slate-700 text-slate-200 text-xs sm:text-sm font-bold rounded-xl transition border border-slate-700"
-                      >
-                        宿泊詳細を見る
-                      </a>
-                      <a
-                        href={officialFurusatoAffUrl}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="px-5 py-2.5 bg-rose-600 hover:bg-rose-500 text-white text-xs sm:text-sm font-bold rounded-xl transition shadow-lg shadow-rose-950/40"
-                      >
-                        ふるさと納税で予約
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </article>
+          <div className="text-center pt-2">
+            <a
+              href={officialAffUrl}
+              target="_blank"
+              rel="noopener noreferrer nofollow"
+              className="inline-flex items-center justify-center bg-white hover:bg-slate-100 text-emerald-950 font-bold py-3 px-8 rounded-full shadow-lg transition duration-200 text-sm md:text-base"
+            >
+              <span>楽天ふるさと納税宿泊クーポンを獲得する</span>
+              <svg className="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
+              </svg>
+            </a>
           </div>
         </section>
 
-        {/* Official Banner CTA */}
-        <section className="bg-gradient-to-r from-rose-950/60 via-red-900/40 to-amber-950/60 border border-rose-500/30 rounded-3xl p-8 text-center relative overflow-hidden shadow-2xl">
-          <h2 className="text-2xl sm:text-3xl font-black text-white mb-4">
-            楽天ふるさと納税トラベルで、今すぐ賢く旅に出よう
+        {/* 関連記事（相互内部リンク） */}
+        <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80 space-y-4">
+          <h2 className="text-lg md:text-xl font-bold text-slate-900 border-l-4 border-emerald-500 pl-3">
+            あわせて読みたい日本の名水・古都仏閣・名松原特集
           </h2>
-          <p className="text-slate-300 max-w-2xl mx-auto text-sm sm:text-base mb-8 leading-relaxed">
-            寄付翌日から最大3年間使える宿泊クーポンで、行きたかった憧れの名宿を今すぐお得にリザーブ。実質2,000円負担で極上の日本再発見の旅へ。
-          </p>
-          <a
-            href={officialFurusatoAffUrl}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="inline-flex items-center gap-3 px-8 py-4 bg-gradient-to-r from-rose-500 to-amber-500 hover:from-rose-600 hover:to-amber-600 text-white text-base sm:text-lg font-extrabold rounded-2xl shadow-xl transition duration-300 transform hover:-translate-y-0.5"
-          >
-            <span>🏮 楽天ふるさと納税トラベル公式特設ページへ</span>
-          </a>
-        </section>
-
-        {/* Cross Link Section */}
-        <section className="border-t border-slate-800/80 pt-12 space-y-6">
-          <h2 className="text-xl sm:text-2xl font-bold text-white">
-            あわせて読みたい関連特集ガイド
-          </h2>
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+          <div className="grid md:grid-cols-3 gap-4">
             
-            <Link
-              key="0"
-              href="/furusato-tax-three-great-gardens-heritage-luxury-stay"
-              className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
-            >
-              <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大名園＆大名庭園を愛でる名門宿×ふるさと納税完全ガイド
-                </h3>
-                <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
-                  兼六園・後楽園・偕楽園の四季。
-                </p>
+            <Link href="/furusato-tax-three-great-unusual-bridges-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+              <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
+                日本三大奇橋＆渓谷美・歴史ロマンの名宿×ふるさと納税完全ガイド
               </div>
-              <div className="mt-4 text-xs font-semibold text-rose-400 flex items-center gap-1">
-                <span>記事を読む</span>
-                <span>→</span>
-              </div>
+              <p className="text-xs text-slate-500 mt-2">
+                錦帯橋・猿橋・日光神橋。
+              </p>
             </Link>
-            <Link
-              key="1"
-              href="/furusato-tax-three-great-washi-craft-heritage-stay"
-              className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
-            >
-              <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大和紙の里＆工芸温泉宿×ふるさと納税完全ガイド
-                </h3>
-                <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
-                  越前和紙・美濃和紙・小川和紙。
-                </p>
+            
+            <Link href="/furusato-tax-three-great-inari-shrines-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+              <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
+                日本三大稲荷＆商売繁盛・開運祈願の名宿×ふるさと納税完全ガイド
               </div>
-              <div className="mt-4 text-xs font-semibold text-rose-400 flex items-center gap-1">
-                <span>記事を読む</span>
-                <span>→</span>
-              </div>
+              <p className="text-xs text-slate-500 mt-2">
+                伏見・豊川・祐徳稲荷。
+              </p>
             </Link>
-            <Link
-              key="2"
-              href="/furusato-tax-three-great-cutlery-towns-craft-stay"
-              className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
-            >
-              <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大刃物の里＆職人クラフト宿×ふるさと納税完全ガイド
-                </h3>
-                <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
-                  関・越前・堺の名刀と包丁。
-                </p>
+            
+            <Link href="/furusato-tax-three-great-daimyo-gardens-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+              <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
+                日本三大名園＆大名庭園風雅宿×ふるさと納税完全ガイド
               </div>
-              <div className="mt-4 text-xs font-semibold text-rose-400 flex items-center gap-1">
-                <span>記事を読む</span>
-                <span>→</span>
-              </div>
+              <p className="text-xs text-slate-500 mt-2">
+                偕楽園・兼六園・後楽園。
+              </p>
             </Link>
+            
           </div>
         </section>
+
       </main>
+
+      {/* フッター */}
+      <footer className="bg-slate-950 text-slate-400 py-8 px-4 text-center text-xs border-t border-slate-800">
+        <p>© 2026 トラベルポータル All Rights Reserved. 掲載情報は最新の楽天トラベル公式APIに基づきます。</p>
+      </footer>
     </div>
   );
 }
