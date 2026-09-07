@@ -411,6 +411,10 @@ Sitemap: ${BASE_URL}/sitemap-posts.xml
 - [日本三大美田・棚田百選＆日本の原風景リトリート宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-terraced-rice-fields-stay): 星峠・白米千枚田・丸山千枚田の黄金パノラマ
 - [日本三大奇祭＆神話民俗・パワースポット名宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-strange-festivals-stay): 諏訪御柱祭・国府宮はだか祭・男鹿ナマハゲの神事
 - [日本三大瓦の町＆伝統美・いぶし瓦情趣の名宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-roof-tile-towns-stay): 淡路瓦・三州瓦・石州瓦の歴史的町並み
+- [日本三大そば＆打ち立て蕎麦の芳香・名水と門前宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-soba-noodles-stay): 戸隠・出雲割子・盛岡わんこそばの味覚
+- [日本三大運河＆水郷レトロ・白壁の蔵屋敷と舟流し情趣の名宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-historic-canals-stay): 小樽運河・倉敷美観地区・近江八幡八幡堀
+- [日本三大ラーメン＆ご当地麺文化・名湯と屋台街の美食宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-ramen-capitals-stay): 喜多方・札幌味噌・博多豚骨ラーメン巡礼
+- [日本三大ガラス工芸の町＆光の芸術・切子の輝きと風雅名宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-glass-craft-towns-stay): 小樽切子・江戸切子・薩摩切子の伝統工芸
 
 
 

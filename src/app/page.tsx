@@ -3483,6 +3483,34 @@ export default function Home() {
               <span>日本三大瓦の町＆伝統美・いぶし瓦情趣の名宿！淡路瓦・三州瓦・石州瓦</span>
             </Link>
             <Link
+              href="/furusato-tax-three-great-soba-noodles-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-100 bg-gradient-to-r from-stone-950 via-amber-950 to-neutral-950 hover:from-stone-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-300/50 flex items-center gap-1.5"
+            >
+              <span>🥢🌾</span>
+              <span>日本三大そば＆名水宿坊・温泉郷の美食旅！戸隠そば・出雲割子そば・盛岡わんこそば</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-historic-canals-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-cyan-200 bg-gradient-to-r from-blue-950 via-cyan-950 to-slate-950 hover:from-blue-900 hover:to-cyan-900 rounded-2xl shadow-lg transition border border-cyan-400/50 flex items-center gap-1.5"
+            >
+              <span>🚣‍♂️🏮</span>
+              <span>日本三大運河＆水郷レトロ・舟流し情趣の名宿！小樽運河・倉敷川・近江八幡八幡堀</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-ramen-capitals-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-orange-200 bg-gradient-to-r from-red-950 via-orange-950 to-amber-950 hover:from-red-900 hover:to-orange-900 rounded-2xl shadow-lg transition border border-orange-400/50 flex items-center gap-1.5"
+            >
+              <span>🍜🍥</span>
+              <span>日本三大ラーメン＆名湯・屋台街めぐり美食宿！喜多方・札幌味噌・博多豚骨</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-glass-craft-towns-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-sky-200 bg-gradient-to-r from-indigo-950 via-sky-950 to-teal-950 hover:from-indigo-900 hover:to-sky-900 rounded-2xl shadow-lg transition border border-sky-400/50 flex items-center gap-1.5"
+            >
+              <span>💎✨</span>
+              <span>日本三大ガラス工芸の町＆切子の輝きと名宿！小樽切子・江戸切子・薩摩切子</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >
