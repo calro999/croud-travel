@@ -4,14 +4,14 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '日本三大夜桜＆幻想ライトアップと春爛漫ホテル宿×ふるさと納税完全ガイド【2026年最新】弘前公園・高田城址公園・上野恩賜公園',
-  description: '息をのむ桜のトンネルと水面に映る幽玄の灯り！青森弘前「弘前公園」2600本の桜とお濠の花筏ライトアップとアートホテル弘前シティ、新潟上越「高田城址公園」4000本の夜桜と三重櫓のぼんぼり点灯とアートホテル上越、東京台東区「上野恩賜公園」江戸時代からの名所とホテルクラウンヒルズ上野プレミア。日本三大夜桜の夢幻ステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
-  keywords: '日本三大夜桜・春爛漫特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
+  title: '日本三大砂丘＆雄大な風紋美と夕日オーシャンビュー宿×ふるさと納税完全ガイド【2026年最新】鳥取砂丘・中田島砂丘・吹上浜',
+  description: '海と風が描く奇跡の造形美！鳥取「鳥取砂丘」日本海の夕日と自家源泉の鳥取温泉観水庭こぜにや、静岡浜松「中田島砂丘」遠州灘の風紋と天然温泉スーパーホテル浜松出世の湯、鹿児島薩摩半島「吹上浜」47km続く日本最長の白砂青松と砂むし温泉指宿白水館。日本三大砂丘の絶景と温泉を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
+  keywords: '日本三大砂丘・風紋絶景特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大夜桜＆幻想ライトアップと春爛漫ホテル宿×ふるさと納税完全ガイド【2026年最新】弘前公園・高田城址公園・上野恩賜公園',
-    description: '息をのむ桜のトンネルと水面に映る幽玄の灯り！青森弘前「弘前公園」2600本の桜とお濠の花筏ライトアップとアートホテル弘前シティ、新潟上越「高田城址公園」4000本の夜桜と三重櫓のぼんぼり点灯とアートホテル上越、東京台東区「上野恩賜公園」江戸時代からの名所とホテルクラウンヒルズ上野プレミア。日本三大夜桜の夢幻ステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
+    title: '日本三大砂丘＆雄大な風紋美と夕日オーシャンビュー宿×ふるさと納税完全ガイド【2026年最新】鳥取砂丘・中田島砂丘・吹上浜',
+    description: '海と風が描く奇跡の造形美！鳥取「鳥取砂丘」日本海の夕日と自家源泉の鳥取温泉観水庭こぜにや、静岡浜松「中田島砂丘」遠州灘の風紋と天然温泉スーパーホテル浜松出世の湯、鹿児島薩摩半島「吹上浜」47km続く日本最長の白砂青松と砂むし温泉指宿白水館。日本三大砂丘の絶景と温泉を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-night-cherry-blossoms-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-sand-dunes-stay',
     siteName: 'トラベルポータル',
   },
 };
@@ -21,97 +21,97 @@ export default function Page() {
 
   const hotels = [
   {
-    "hotelNo": 504,
-    "hotelName": "アートホテル弘前シティ",
-    "hotelKanaName": "あーとほてるひろさきしてぃ",
-    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D504",
-    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D504%26f_flg%3DPLAN",
-    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FIWrzP%2F%3FnoTomariHotel%3D504",
-    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D504",
-    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/504/504.jpg",
-    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/504.jpg",
-    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/504/504_ky.jpg",
-    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/504/504map.gif",
-    "reviewCount": 2258,
-    "reviewAverage": 4.17,
-    "userReview": "駅前で移動に便利、朝食とアップルパイが絶品駅前で弘前を拠点にした移動には最適です。朝ごはんがとても美味しかったです。アップルパイも食べてみましたが、こちらも美味しかったです。建物全体が…　2026-09-05 22:22:22投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=504\" class=\"3click\">つづきはこちら</a>",
-    "hotelMinCharge": 3780,
-    "address1": "青森県",
-    "address2": "弘前市大町1-1-2",
-    "telephoneNo": "0172-37-0700",
-    "access": "ＪＲ弘前駅中央口より徒歩1分、青森空港より車で約６０分、東北自動車道（大鰐・弘前ＩＣ）より車で約１５分",
-    "parkingInformation": "先着順　ホテル駐車場・提携先駐車場は普通車1泊700円、満車の際は近隣有料駐車場をご案内。",
-    "nearestStation": "弘前",
-    "hotelSpecial": "JR弘前駅前、津軽の自然の彩を感じるホテル。旅の拠点として最適です。",
-    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D504",
-    "featureKey": "sakura_hirosaki",
-    "featureLabel": "青森県弘前市ふるさと納税・2600本の桜と濠を埋め尽くす花筏のライトアップ「弘前公園夜桜」弘前ステイ",
-    "themeTitle": "青森県弘前市ふるさと納税：弘前城・弘前公園の夜桜散策拠点・駅直結の上質シティホテル「アートホテル弘前シティ」",
-    "themeDesc": "弘前駅前に位置し、弘前さくらまつり会場の弘前公園へのシャトルバスやアクセスに最適なハイグレードホテル。スタイリッシュな客室で寛ぎ、朝食ビュッフェでは青森県産りんごジュースの飲み比べや郷土料理「けの汁」、津軽の旬の美味を存分に堪能できます。",
-    "revAvg": "4.2",
-    "minCharge": "3,780"
+    "hotelNo": 14072,
+    "hotelName": "鳥取温泉　観水庭こぜにや",
+    "hotelKanaName": "とっとりおんせん　かんすいていこぜにや",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D14072",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D14072%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FIWrzP%2F%3FnoTomariHotel%3D14072",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D14072",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14072/14072.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/14072.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14072/14072_room.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14072/14072map.gif",
+    "reviewCount": 1461,
+    "reviewAverage": 4.76,
+    "userReview": "住宅街の異空間、親切なスタッフと温泉ビジネス素泊まりで利用しました。鳥取市の住宅街に急に現れる異空間の温泉。お部屋は普通でやや年季を感じましたが、スタッフの方はとても親切で気持ちよく止まれました。…　2026-09-05 07:26:38投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=14072\" class=\"3click\">つづきはこちら</a>",
+    "hotelMinCharge": 6300,
+    "address1": "鳥取県",
+    "address2": "鳥取市永楽温泉町651",
+    "telephoneNo": "0857-23-3311",
+    "access": "鳥取駅より徒歩10分・無料送迎バス有 / 中国道佐用JCT経由鳥取ＩＣより車８分　鳥取砂丘へ車２０分　コンビニ徒歩2分",
+    "parkingInformation": "無料　　平面駐車場につき、容易に自由に何度でも出し入れでき、車両制限はありません。",
+    "nearestStation": "鳥取",
+    "hotelSpecial": "鳥取市街地にありながら天然温泉かけ流しの湯を満喫できる閑静な佇まいの小宿。◆WIFI全室対応◆",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D14072",
+    "featureKey": "dune_tottori",
+    "featureLabel": "鳥取県鳥取市ふるさと納税・風と光が織りなす風紋と日本海の夕日「鳥取砂丘」源泉かけ流し鳥取温泉観水庭こぜにや",
+    "themeTitle": "鳥取県鳥取市ふるさと納税：鳥取砂丘の観光拠点・二つの源泉かけ流しを誇る老舗湯宿「鳥取温泉 観水庭こぜにや」",
+    "themeDesc": "鳥取砂丘から車で約15分、鳥取市街地に湧く天然温泉の静かな隠れ宿。完全源泉かけ流しの貸切風呂や庭園露天風呂で砂丘歩きの疲れを芯から癒やし、日本海直送の白イカや冬の味覚の王様・松葉ガニ、鳥取和牛を贅沢に味わえます。",
+    "revAvg": "4.8",
+    "minCharge": "6,300"
   },
   {
-    "hotelNo": 1033,
-    "hotelName": "アートホテル上越",
-    "hotelKanaName": "れらんぐうっどじょうえつ",
-    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D1033",
-    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D1033%26f_flg%3DPLAN",
-    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FIWrzP%2F%3FnoTomariHotel%3D1033",
-    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D1033",
-    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1033/1033.jpg",
-    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/1033.jpg",
-    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1033/1033_ky.jpg",
-    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1033/1033map.gif",
-    "reviewCount": 3745,
-    "reviewAverage": 4.24,
-    "userReview": "新潟名物グルメが豊富で朝から大満足!朝食バイキング、新潟県の名物グルメがたくさんあって、新潟県人ですが楽しめました。おかげで朝からお腹いっぱいです~(笑)クチコミの詳細はこちらから　htt…　2026-09-05 08:41:03投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=1033\" class=\"3click\">つづきはこちら</a>",
-    "hotelMinCharge": 3500,
-    "address1": "新潟県",
-    "address2": "上越市本町5丁目1-11",
-    "telephoneNo": "025-524-0100",
-    "access": "えちごトキめき鉄道「高田駅」より徒歩3分。北陸新幹線「上越妙高駅」より2駅。上信越自動車道「上越高田IC」より15分。",
-    "parkingInformation": "約80台（1泊700円）第一・第二駐車場で検索。大型車は事前に連絡をください。",
-    "nearestStation": "高田（新潟）",
-    "hotelSpecial": "市内最大客室198室■全室無料ＬＡＮ接続・シモンズベッド・静音電子冷蔵庫導入■禁煙ルーム141室■",
-    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D1033",
-    "featureKey": "sakura_takada",
-    "featureLabel": "新潟県上越市ふるさと納税・四千本の桜と三重櫓が水面に映る東洋一の夜桜「高田城址公園夜桜」アートホテル上越",
-    "themeTitle": "新潟県上越市ふるさと納税：東洋一の夜桜・高田城址公園のお膝元「アートホテル上越」",
-    "themeDesc": "高田城百万人観桜会のメイン会場である高田城址公園へ車や直行アクセス至便なシティホテル。三重櫓と4000本の夜桜ライトアップを心ゆくまで鑑賞した後は、新潟自慢のコシヒカリと日本海の新鮮な魚介、越後の銘酒を取り揃えた和食・洋食ディナーを楽しめます。",
-    "revAvg": "4.2",
-    "minCharge": "3,500"
-  },
-  {
-    "hotelNo": 151069,
-    "hotelName": "ホテルクラウンヒルズ上野プレミア（ＢＢＨホテルグループ）",
-    "hotelKanaName": "ほてるくらうんひるずうえのぷれみあ",
-    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D151069",
-    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D151069%26f_flg%3DPLAN",
-    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FIWrzP%2F%3FnoTomariHotel%3D151069",
-    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D151069",
-    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/151069/151069.jpg",
-    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/151069.jpg",
+    "hotelNo": 167675,
+    "hotelName": "スーパーホテル浜松　天然温泉「浜松出世の湯」",
+    "hotelKanaName": "すーぱーほてるはままつ　てんねんおんせん　はままつしゅっせのゆ",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D167675",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D167675%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FIWrzP%2F%3FnoTomariHotel%3D167675",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D167675",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/167675/167675.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/167675.jpg",
     "roomImageUrl": "",
-    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/151069/151069map.gif",
-    "reviewCount": 1106,
-    "reviewAverage": 3.94,
-    "userReview": "エレベーターは待つが景色も良く快適エレベーターだけ少し待ちますが他は文句無し景色も良いですクチコミの詳細はこちらから　https://review.travel.rakuten.co.…　2026-09-05 16:26:07投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=151069\" class=\"3click\">つづきはこちら</a>",
-    "hotelMinCharge": 5818,
-    "address1": "東京都",
-    "address2": "台東区東上野2-16-1",
-    "telephoneNo": "050-1722-5618",
-    "access": "JR上野駅（広小路口）徒歩約5分、JR御徒町駅（北口）徒歩約4分、東京メトロ上野駅（3番出口）徒歩約3分",
-    "parkingInformation": "無し",
-    "nearestStation": "上野",
-    "hotelSpecial": "客室は20～24階、東京が見渡せる高層階ビュー！上野駅・御徒町駅から徒歩5分。1階にコンビニあり！",
-    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D151069",
-    "featureKey": "sakura_ueno",
-    "featureLabel": "東京都台東区ふるさと納税・江戸時代からの桜の名所・ボンボリが灯る下町の華やぎ「上野恩賜公園夜桜」三井ガーデンホテル上野",
-    "themeTitle": "東京都台東区ふるさと納税：上野恩賜公園・不忍池の夜桜至近・高層階からの東京パノラマ「ホテルクラウンヒルズ上野プレミア」",
-    "themeDesc": "上野恩賜公園のさくら通りや不忍池まで徒歩すぐの好立地ホテル。高層階に位置する客室からは上野の夜景を一望でき、大浴場も完備。江戸情緒あふれる夜桜見物を満喫した後は、上野アメ横や浅草の下町グルメ巡りをお得に楽しめます。",
-    "revAvg": "3.9",
-    "minCharge": "5,818"
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/167675/167675map.gif",
+    "reviewCount": 879,
+    "reviewAverage": 4.22,
+    "userReview": "焼き立てパンと天然温泉を満喫、ツインがないのは残念無料の朝食はありがたいです、特に、焼き立てのベーカリーはとても美味しく頂きました。そして、天然温泉があるのは最高の贅沢ですね。ただ、ツインの部…　2026-09-04 17:53:47投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=167675\" class=\"3click\">つづきはこちら</a>",
+    "hotelMinCharge": 2800,
+    "address1": "静岡県",
+    "address2": "浜松市中央区西伊場町58-7",
+    "telephoneNo": "053-451-9000",
+    "access": "浜松駅からタクシーで約10分、バスで約15分！浜松西インターよりお車で約20分！　",
+    "parkingInformation": "有り 無料※駐車場利用不可プランにご注意 ※駐車場は全長5m以下の普通車のみ トラック・バス駐車不可",
+    "nearestStation": "浜松",
+    "hotelSpecial": "【無料駐車場＆無料健康朝食＆男女別天然温泉】※駐車場利用不可プランにご注意。駐車は普通自動車のみ可能",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D167675",
+    "featureKey": "dune_nakatajima",
+    "featureLabel": "静岡県浜松市ふるさと納税・遠州灘の強い海風が描く風紋美「中田島砂丘」地上45階オークラアクトシティホテル浜松",
+    "themeTitle": "静岡県浜松市ふるさと納税：中田島砂丘の風紋巡り拠点・自家源泉の天然温泉「スーパーホテル浜松 出世の湯」",
+    "themeDesc": "遠州灘の海岸線に広がる中田島砂丘へのアクセス抜群な快適ホテル。敷地内に湧出する弱アルカリ性の天然温泉「出世の湯」で旅の疲れをリフレッシュ。夜は浜松市街で本場の浜名湖うなぎや名物浜松餃子を味わうグルメ旅の拠点に最適です。",
+    "revAvg": "4.2",
+    "minCharge": "2,800"
+  },
+  {
+    "hotelNo": 12529,
+    "hotelName": "鹿児島　砂むし温泉　指宿白水館",
+    "hotelKanaName": "かごしま　すなむしおんせん　いぶすきはくすいかん",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D12529",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D12529%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FIWrzP%2F%3FnoTomariHotel%3D12529",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D12529",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/12529/12529.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/12529.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/12529/12529_war.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/12529/12529map.gif",
+    "reviewCount": 2442,
+    "reviewAverage": 4.49,
+    "userReview": "・こんなにバイキング料理が充実してるのは初めて!1つ1つ美味しいし会場の席案内や 料理も スーツのスタッフさんがちゃんとみていて 食事の時間が楽しく過ごせる様に 気を利かせてらっしゃいました。…　2026-09-04 12:34:53投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=12529\" class=\"3click\">つづきはこちら</a>",
+    "hotelMinCharge": 14630,
+    "address1": "鹿児島県",
+    "address2": "指宿市東方12126-12",
+    "telephoneNo": "0993-22-3131",
+    "access": "ＪＲ指宿駅下車、タクシー７分、無料送迎バスあり。 空港直行バス（JR指宿駅下車）",
+    "parkingInformation": "有り　２００台　無料　予約不要",
+    "nearestStation": "指宿",
+    "hotelSpecial": "地元食材の郷土料理と指宿温泉美肌の湯、砂むし風呂と岩盤浴で贅沢にデトックス！指宿駅まで無料送迎あり♪",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D12529",
+    "featureKey": "dune_fukiagehama",
+    "featureLabel": "鹿児島県南さつま市・日置市ふるさと納税・白砂青松が47km続く日本最長の砂丘「吹上浜」薩摩半島の湯と美食ステイ",
+    "themeTitle": "鹿児島県日置市・指宿市ふるさと納税：日本最長の砂丘・吹上浜と名物砂むし温泉の最高峰「指宿白水館」",
+    "themeDesc": "47km続く吹上浜のドライブを満喫した後に訪れたい、錦江湾に面した元禄風呂と名物砂むし温泉を擁する名門旅館。砂丘と海がもたらす大地の温もりを砂むし温泉で全身に浴び、極上の鹿児島県産黒毛和牛や黒豚しゃぶしゃぶ、薩摩の地焼酎に酔いしれます。",
+    "revAvg": "4.5",
+    "minCharge": "14,630"
   }
 ];
 
@@ -122,7 +122,7 @@ export default function Page() {
         <div className="max-w-5xl mx-auto flex items-center space-x-2">
           <Link href="/" className="hover:text-emerald-600 transition">ホーム</Link>
           <span>&gt;</span>
-          <span className="text-slate-700 font-medium">日本三大夜桜＆幽玄のライトアップ宿×ふるさと納税ガイド</span>
+          <span className="text-slate-700 font-medium">日本三大砂丘＆絶景オーシャンビュー温泉宿×ふるさと納税ガイド</span>
         </div>
       </nav>
 
@@ -130,13 +130,13 @@ export default function Page() {
       <header className="relative bg-gradient-to-br from-emerald-950 via-slate-900 to-teal-950 text-white py-16 px-4">
         <div className="max-w-4xl mx-auto text-center space-y-4">
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
-            日本三大夜桜・春爛漫特集
+            日本三大砂丘・風紋絶景特集
           </div>
           <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大夜桜＆幽玄のライトアップ宿×ふるさと納税ガイド
+            日本三大砂丘＆絶景オーシャンビュー温泉宿×ふるさと納税ガイド
           </h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
-            日本全国数千のお花見スポットの中でも、夜間ライトアップの規模と美しさにおいて別格の評価を受ける「日本三大夜桜」――天守とお濠の水面を桜の花びらが埋め尽くす「花筏（はないかだ）」が世界的な絶景として称賛される青森の「弘前公園」、四千本もの桜が三千個以上のボンボリに照らし出され復元された三重櫓とともに東洋一の夜桜と讃えられる新潟上越の「高田城址公園」、そして寛永寺の境内として江戸庶民に愛され現代も不忍池の夜景とともに華やぐ東京の「上野恩賜公園」。闇夜に浮かび上がる満開の桜並木をそぞろ歩き、春の夜風を感じる時間は、一年にわずか数日しか許されない特別な贅沢です。名所近くのホテルを拠点に、青森りんご＆倉石牛、新潟雪室熟成肉＆地酒、東京下町グルメを味わうお花見旅を楽天ふるさと納税でお楽しみください。
+            海風と大地が何万年もの歳月をかけて織り成した「日本三大砂丘」――山陰の海岸線に広がり、日本海の碧と砂のコントラストが息をのむ美しさを誇る鳥取の「鳥取砂丘」、遠州灘の強風「遠州のからっ風」が美しい幾何学的な風紋を描きウミガメの産卵地としても知られる静岡浜松の「中田島砂丘」、そして薩摩半島の西岸を47kmにわたって白砂青松が続く日本最長の砂丘・鹿児島の「吹上浜」。砂丘の稜線に立ち、海へと沈む夕日と刻々と表情を変える風紋を眺める時間は、日常を完全に忘れさせてくれる贅沢なひとときです。砂丘散策を楽しんだ後は、名湯温泉で砂と旅の疲れを洗い流し、鳥取松葉ガニ・浜松うなぎ・薩摩黒豚と海の幸を堪能する特別な旅を楽天ふるさと納税でお楽しみください。
           </p>
 
           <div className="pt-6">
@@ -161,7 +161,7 @@ export default function Page() {
         {/* 特集の魅力セクション */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80">
           <h2 className="text-xl md:text-2xl font-bold text-slate-900 border-l-4 border-emerald-500 pl-3 mb-6">
-            夜空を染める薄紅色の雲海、お濠の水鏡に映る城郭と行灯の揺らめき。春の宵の夢心地
+            風が描く一期一会の風紋と、地平線に沈む黄金の夕日。雄大な砂の王国へ
           </h2>
           <div className="grid md:grid-cols-3 gap-6">
             
@@ -170,10 +170,10 @@ export default function Page() {
                 <svg className="w-4 h-4 text-emerald-600 shrink-0" fill="currentColor" viewBox="0 0 20 20">
                   <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
                 </svg>
-                <span>数千本の桜がライトアップされる圧巻のスケール！お濠の水鏡と三重櫓のコラボレーション</span>
+                <span>大地と風のアート「風紋」と日本海・太平洋・東シナ海の絶景サンセット</span>
               </div>
               <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
-                昼間の青空に映える桜とは一変、ぼんぼりや投光器に照らされて幽玄に輝く夜桜の絶景を満喫。
+                早朝の足跡のない清らかな風紋や、夕暮れ時に黄金色に染まる壮大な砂丘パノラマを体感。
               </p>
             </div>
             
@@ -182,10 +182,10 @@ export default function Page() {
                 <svg className="w-4 h-4 text-emerald-600 shrink-0" fill="currentColor" viewBox="0 0 20 20">
                   <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
                 </svg>
-                <span>青森倉石牛＆地酒、越後上越の日本酒飲み比べ＆海の幸、東京下町老舗の味</span>
+                <span>鳥取松葉ガニ＆白イカ、浜名湖うなぎ＆遠州灘鮮魚、薩摩黒豚＆本格芋焼酎</span>
               </div>
               <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
-                花見の宴を彩る地域色豊かな特産グルメと銘酒を、ホテルのレストランや周辺の名店で堪能。
+                砂丘の背後に広がる豊かな海と大地が育んだ、全国屈指のブランド美味を心ゆくまで堪能。
               </p>
             </div>
             
@@ -194,10 +194,10 @@ export default function Page() {
                 <svg className="w-4 h-4 text-emerald-600 shrink-0" fill="currentColor" viewBox="0 0 20 20">
                   <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
                 </svg>
-                <span>楽天ふるさと納税宿泊クーポンでお花見シーズンの人気ホテルをお得に予約</span>
+                <span>楽天ふるさと納税宿泊クーポンで憧れの温泉旅館・ホテルをお得に予約</span>
               </div>
               <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
-                予約が殺到する春の観光ピーク時でも、寄付金額に応じた最大30%オフの即時割引クーポンで賢くお得ステイ。
+                絶景ドライブや家族旅行でも、寄付金額に応じた最大30%オフの即時割引クーポンでスマートにお得ステイ。
               </p>
             </div>
             
@@ -368,12 +368,12 @@ export default function Page() {
           </h2>
           <div className="grid md:grid-cols-3 gap-4">
             
-            <Link href="/furusato-tax-three-great-daimyo-gardens-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-coastal-sceneries-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
-                日本三大名園＆大名庭園風雅宿×ふるさと納税完全ガイド
+                日本三大白砂青松＆海岸絶景パノラマ宿×ふるさと納税完全ガイド
               </div>
               <p className="text-xs text-slate-500 mt-2">
-                偕楽園・兼六園・後楽園。
+                天橋立・三保松原・気比の松原。
               </p>
             </Link>
             
@@ -386,12 +386,12 @@ export default function Page() {
               </p>
             </Link>
             
-            <Link href="/furusato-tax-three-great-sand-dunes-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-major-strange-sceneries-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
-                日本三大砂丘＆絶景オーシャンビュー温泉宿×ふるさと納税完全ガイド
+                日本三大奇景＆奇岩絶壁パノラマ宿×ふるさと納税完全ガイド
               </div>
               <p className="text-xs text-slate-500 mt-2">
-                鳥取砂丘・中田島砂丘・吹上浜。
+                妙義山・寒霞渓・耶馬渓。
               </p>
             </Link>
             

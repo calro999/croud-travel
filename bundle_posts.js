@@ -396,6 +396,10 @@ Sitemap: ${BASE_URL}/sitemap-posts.xml
 - [日本三大秘湯＆秘境の大自然一軒宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-secret-hotsprings-stay): 谷地温泉・祖谷温泉・乳頭温泉郷の自噴霊泉
 - [日本三大渓谷美＆清流大自然絶景宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-gorges-scenery-stay): 清津峡・黒部峡谷・大杉谷の奇岩清流
 - [日本三大名瀑＆豪快な滝見温泉宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-waterfalls-resort-stay): 華厳の滝・那智の滝・袋田の滝の大迫力水煙
+- [日本三大砂丘＆絶景オーシャンビュー温泉宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-sand-dunes-stay): 鳥取砂丘・中田島砂丘・吹上浜の風紋美
+- [日本三大奇橋＆渓谷美・歴史ロマンの名宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-unusual-bridges-stay): 錦帯橋・甲斐の猿橋・日光神橋の木造美
+- [日本三大急流＆川下り舟体験・清流鮎グルメ宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-rapid-rivers-stay): 最上川・富士川・球磨川の激流下り
+- [日本三大夜桜＆幽玄のライトアップ宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-night-cherry-blossoms-stay): 弘前公園・高田城址公園・上野恩賜公園の春宵
 
 
 
