@@ -200,6 +200,10 @@
 - [日本三大古代湖＆数十万年の歴史美・湖畔リゾートと温泉名宿×ふるさと納税完全ガイド](https://croud-travel.pages.dev/furusato-tax-three-great-ancient-lakes-resort-stay): 琵琶湖・諏訪湖・三方五湖の悠久レイクビュー
 - [日本三大竹林＆風にそよぐ緑の回廊・静寂の美林と風雅名宿×ふるさと納税完全ガイド](https://croud-travel.pages.dev/furusato-tax-three-great-bamboo-groves-stay): 嵯峨野・報国寺・さつま町竹林の静寂
 - [日本三大カルデラ＆地球の息吹・巨大火口原パノラマと名湯宿×ふるさと納税完全ガイド](https://croud-travel.pages.dev/furusato-tax-three-great-calderas-geopark-stay): 阿蘇・箱根・屈斜路の大地ジオパーク
+- [日本三大海食洞＆波濤が穿った奇跡の洞門・神秘の青の洞窟と絶景海宿×ふるさと納税完全ガイド](https://croud-travel.pages.dev/furusato-tax-three-great-sea-caves-mystery-stay): 堂ヶ島天窓洞・芥屋の大門・七ツ釜の海の宮殿
+- [日本三大五重塔＆天を衝く木造美・国宝の塔と古都・門前名宿×ふるさと納税完全ガイド](https://croud-travel.pages.dev/furusato-tax-three-great-pagodas-heritage-stay): 法隆寺・東寺・羽黒山の国宝木造建築美
+- [日本三大駅弁＆鉄道旅情・元祖の味と極上ブランド牛・名湯宿×ふるさと納税完全ガイド](https://croud-travel.pages.dev/furusato-tax-three-great-ekiben-gourmet-stay): 峠の釜めし・いかめし・松阪牛弁当の鉄道旅情
+- [日本三大観音＆諸願成就の霊場・下町風情と湖畔の祈り宿×ふるさと納税完全ガイド](https://croud-travel.pages.dev/furusato-tax-three-great-kannon-temples-stay): 浅草観音・石山観音・大須観音の諸願成就
 
 
 
@@ -267,6 +271,7 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【おすすめ宿】川湯温泉　山水館　川湯みどりやの魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/38558): 川湯温泉　山水館　川湯みどりや（大阪府）
 - [【福岡県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/7251): ホテルクリオコート博多（福岡県）
 - [【おすすめ宿】癒しの湯宿　龍河温泉の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/13810): 癒しの湯宿　龍河温泉（高知県）
 - [【愛知県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/18354): 西浦温泉　　和のリゾート　はづ（愛知県）
@@ -316,4 +321,3 @@
 - [【鴨川館】カップル・夫婦記念日ステイ！客室露天風呂・贅沢会席・静かな滞在の口コミ](https://croud-travel.pages.dev/posts/kamogawakan-boso-ocean-view-spa-guide): 鴨川館（千葉県）
 - [【別府・鉄輪温泉】名物「地獄蒸し料理」と湯けむり展望露天風呂の宿7選！別府八湯巡り](https://croud-travel.pages.dev/posts/kannawa-onsen-beppu-jigokumushi-view-guide): 別府鉄輪温泉　旅館　喜楽＜大分県＞（大分県）
 - [【兵庫・城崎温泉】七つの外湯めぐり＆浴衣散策おすすめ宿7選！但馬牛＆冬の松葉ガニ会席](https://croud-travel.pages.dev/posts/kinosaki-onsen-seven-baths-yukata-guide): 城崎温泉　料理旅館　よしはる（兵庫県）
-- [【栃木・鬼怒川温泉】渓谷美を望む絶景露天風呂＆豪華バイキング人気宿7選！あさやホテルと名湯](https://croud-travel.pages.dev/posts/kinugawa-onsen-gorge-view-buffet-guide): 鬼怒川温泉　ホテルサンシャイン鬼怒川（栃木県）

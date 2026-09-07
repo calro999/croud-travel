@@ -419,6 +419,10 @@ Sitemap: ${BASE_URL}/sitemap-posts.xml
 - [日本三大古代湖＆数十万年の歴史美・湖畔リゾートと温泉名宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-ancient-lakes-resort-stay): 琵琶湖・諏訪湖・三方五湖の悠久レイクビュー
 - [日本三大竹林＆風にそよぐ緑の回廊・静寂の美林と風雅名宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-bamboo-groves-stay): 嵯峨野・報国寺・さつま町竹林の静寂
 - [日本三大カルデラ＆地球の息吹・巨大火口原パノラマと名湯宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-calderas-geopark-stay): 阿蘇・箱根・屈斜路の大地ジオパーク
+- [日本三大海食洞＆波濤が穿った奇跡の洞門・神秘の青の洞窟と絶景海宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-sea-caves-mystery-stay): 堂ヶ島天窓洞・芥屋の大門・七ツ釜の海の宮殿
+- [日本三大五重塔＆天を衝く木造美・国宝の塔と古都・門前名宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-pagodas-heritage-stay): 法隆寺・東寺・羽黒山の国宝木造建築美
+- [日本三大駅弁＆鉄道旅情・元祖の味と極上ブランド牛・名湯宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-ekiben-gourmet-stay): 峠の釜めし・いかめし・松阪牛弁当の鉄道旅情
+- [日本三大観音＆諸願成就の霊場・下町風情と湖畔の祈り宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-kannon-temples-stay): 浅草観音・石山観音・大須観音の諸願成就
 
 
 
