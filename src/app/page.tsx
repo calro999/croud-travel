@@ -3734,6 +3734,35 @@ export default function Home() {
               <span>⛩️♨️</span>
               <span>世界遺産・熊野古道＆祈りの巡礼路と名湯宿！湯の峰温泉・那智勝浦・白浜</span>
             </Link>
+            <Link
+              href="/furusato-tax-preservation-districts-heritage-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-stone-200 bg-gradient-to-r from-stone-950 via-slate-900 to-amber-950 hover:from-stone-900 hover:to-slate-850 rounded-2xl shadow-lg transition border border-stone-400/50 flex items-center gap-1.5"
+            >
+              <span>🏮🏘️</span>
+              <span>重要伝統的建造物群保存地区＆白壁・歴史町家宿！倉敷美観地区・萩城下町・今井町</span>
+            </Link>
+            <Link
+              href="/furusato-tax-famous-spring-waters-healing-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-cyan-200 bg-gradient-to-r from-blue-950 via-teal-950 to-cyan-950 hover:from-blue-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-cyan-400/50 flex items-center gap-1.5"
+            >
+              <span>💧🍶</span>
+              <span>日本名水百選＆清冽な湧水地・名水仕込み美食と美肌温泉宿！白川水源・安曇野・柿田川</span>
+            </Link>
+            <Link
+              href="/furusato-tax-six-ancient-kilns-pottery-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-orange-950 via-amber-950 to-stone-950 hover:from-orange-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🏺🔥</span>
+              <span>日本六古窯＆千年の陶芸美・作家の器で味わう名料亭宿！備前・信楽・丹波立杭</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-forests-wood-villa-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-emerald-200 bg-gradient-to-r from-green-950 via-emerald-950 to-teal-950 hover:from-green-900 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-emerald-400/50 flex items-center gap-1.5"
+            >
+              <span>🌲🪵</span>
+              <span>日本三大美林＆森林セラピー・芳醇ウッドヴィラ温泉宿！青森ヒバ・秋田杉・木曽檜</span>
+            </Link>
+
 
 
 
