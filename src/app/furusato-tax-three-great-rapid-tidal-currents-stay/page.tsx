@@ -4,14 +4,14 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '日本三大車窓＆絶景スイッチバック・高原パノラマ温泉宿×ふるさと納税完全ガイド【2026年最新】姨捨・矢岳越え・狩勝峠',
-  description: '車窓を流れる息をのむ大パノラマ！長野千曲「姨捨駅」善光寺平を見下ろすスイッチバックの絶景と戸倉上山田温泉リバーサイド上田館、宮崎熊本鹿児島「肥薩線矢岳越え」霧島連峰と桜島を望む天空路線と霧島温泉ホテル霧島キャッスル、北海道十勝「旧狩勝峠」大雪山系と十勝平野を望む雄大な大地とサホロリゾートホテル。日本三大車窓の鉄旅ロマンを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
-  keywords: '日本三大車窓・天空鉄旅特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
+  title: '日本三大急潮＆激流うず潮パノラマ・鳴門鯛と関門ふぐ美食宿×ふるさと納税完全ガイド【2026年最新】鳴門・来島・関門海峡',
+  description: '白波が逆巻く海の難所と海の王者！徳島鳴門「鳴門海峡」世界最大級のうず潮とアオアヲナルトリゾート、愛媛今治「来島海峡」しまなみ海道の八艘飛び急流とホテル菊水今治、山口下関「関門海峡」本州と九州を分かつ早鞆ノ瀬戸と下関グランドホテル。日本三大急潮のダイナミックな海景と海の幸を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
+  keywords: '日本三大急潮・激流うず潮特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大車窓＆絶景スイッチバック・高原パノラマ温泉宿×ふるさと納税完全ガイド【2026年最新】姨捨・矢岳越え・狩勝峠',
-    description: '車窓を流れる息をのむ大パノラマ！長野千曲「姨捨駅」善光寺平を見下ろすスイッチバックの絶景と戸倉上山田温泉リバーサイド上田館、宮崎熊本鹿児島「肥薩線矢岳越え」霧島連峰と桜島を望む天空路線と霧島温泉ホテル霧島キャッスル、北海道十勝「旧狩勝峠」大雪山系と十勝平野を望む雄大な大地とサホロリゾートホテル。日本三大車窓の鉄旅ロマンを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
+    title: '日本三大急潮＆激流うず潮パノラマ・鳴門鯛と関門ふぐ美食宿×ふるさと納税完全ガイド【2026年最新】鳴門・来島・関門海峡',
+    description: '白波が逆巻く海の難所と海の王者！徳島鳴門「鳴門海峡」世界最大級のうず潮とアオアヲナルトリゾート、愛媛今治「来島海峡」しまなみ海道の八艘飛び急流とホテル菊水今治、山口下関「関門海峡」本州と九州を分かつ早鞆ノ瀬戸と下関グランドホテル。日本三大急潮のダイナミックな海景と海の幸を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-train-window-views-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-rapid-tidal-currents-stay',
     siteName: 'トラベルポータル',
   },
 };
@@ -21,97 +21,97 @@ export default function Page() {
 
   const hotels = [
   {
-    "hotelNo": 37465,
-    "hotelName": "戸倉上山田温泉　リバーサイド上田館（伊東園ホテルズ）",
-    "hotelKanaName": "とくらかみやまだおんせん　りばーさいどうえだかん",
-    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D37465",
-    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D37465%26f_flg%3DPLAN",
-    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FIWrzP%2F%3FnoTomariHotel%3D37465",
-    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D37465",
-    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/37465/37465.jpg",
-    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/37465.jpg",
-    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/37465/37465_kya.jpg",
-    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/37465/37465map.gif",
-    "reviewCount": 980,
-    "reviewAverage": 3.94,
-    "userReview": "ゆったり過ごせてバイキングも快適絶妙な希望で、想像以上にゆったりできました。バイキングも品数と通路等の距離が確保されており、ストレスを感じずにいただけました。クチコミの詳細はこちらから　htt…　2026-09-04 07:14:51投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=37465\" class=\"3click\">つづきはこちら</a>",
-    "hotelMinCharge": 6248,
-    "address1": "長野県",
-    "address2": "千曲市戸倉温泉3055",
-    "telephoneNo": "0570-081-780",
-    "access": "北陸新幹線上田駅乗換しなの鉄道　戸倉駅よりタクシーで５分、上信越自動車道坂城ＩＣよりＲ１８号線経由１５分",
-    "parkingInformation": "有り　８０台　無料　",
-    "nearestStation": "戸倉",
-    "hotelSpecial": "美人の湯に癒され、千曲川の自然に包まれる宿。",
-    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D37465",
-    "featureKey": "train_obasute",
-    "featureLabel": "長野県千曲市ふるさと納税・善光寺平を一望するスイッチバックの名駅「姨捨の車窓」美肌の名湯戸倉上山田温泉",
-    "themeTitle": "長野県千曲市ふるさと納税：姨捨の棚田と善光寺平夜景の拠点・千曲川沿いの名湯「戸倉上山田温泉 リバーサイド上田館」",
-    "themeDesc": "日本三大車窓・名月の里「姨捨」から車で約15分、開湯130年を超える名湯・戸倉上山田温泉に位置する温泉ホテル。肌触りの良い天然温泉の大浴場と露天風呂で寛ぎ、千曲川の清流を眺めながら信州の山菜や旬の味覚バイキングをお得に満喫できます。",
-    "revAvg": "3.9",
-    "minCharge": "6,248"
+    "hotelNo": 6123,
+    "hotelName": "アオアヲナルトリゾート",
+    "hotelKanaName": "あおあをなるとりぞーと",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D6123",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D6123%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FIWrzP%2F%3FnoTomariHotel%3D6123",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D6123",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/6123/6123.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/6123.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/6123/6123_meal1.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/6123/6123map.gif",
+    "reviewCount": 4254,
+    "reviewAverage": 4.46,
+    "userReview": "子供も大人も大満足、海辺の遊びと食事を満喫家族で伺いました。チェックインは15時でしたが.12時にホテルにつきチェックインまで海辺や、釣りぼり、職業体験などでとても楽しむことができました。…　2026-09-05 20:05:36投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=6123\" class=\"3click\">つづきはこちら</a>",
+    "hotelMinCharge": 16500,
+    "address1": "徳島県",
+    "address2": "鳴門市鳴門町土佐泊浦字大毛16-45",
+    "telephoneNo": "088-687-2580",
+    "access": "神戸淡路鳴門自動車道　鳴門北ＩＣより１分　ＪＲ鳴門駅より車で約１０分　大塚美術館まで車で3分",
+    "parkingInformation": "有り　２００台　無料　（ホテル地下駐車場は全高2.1ｍまで。第2、第3駐車場は屋外）",
+    "nearestStation": "鳴門",
+    "hotelSpecial": "温泉もお部屋もオーシャンビュー！瀬戸内海国立公園内に位置する南欧風リゾートホテルです。",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D6123",
+    "featureKey": "current_naruto",
+    "featureLabel": "徳島県鳴門市ふるさと納税・最大時速20km世界屈指の大渦「鳴門海峡」アオアヲナルトリゾート",
+    "themeTitle": "徳島県鳴門市ふるさと納税：鳴門海峡と大鳴門橋を一望する南欧風オーシャンリゾート「アオアヲ ナルト リゾート」",
+    "themeDesc": "鳴門海峡の渦潮に最も近い絶景リゾートホテル。全室オーシャンビューのバルコニーから鳴門の海景を望み、天然温泉露天風呂「気泡風呂」「展望風呂」で潮風を満喫。夕食は鳴門鯛や阿波尾鶏、徳島の旬の味覚を炭火焼バイキングや会席で堪能できます。",
+    "revAvg": "4.5",
+    "minCharge": "16,500"
   },
   {
-    "hotelNo": 20183,
-    "hotelName": "霧島温泉　ホテル霧島キャッスル",
-    "hotelKanaName": "きりしまおんせん　きしりま　きゃっする",
-    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D20183",
-    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D20183%26f_flg%3DPLAN",
-    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FIWrzP%2F%3FnoTomariHotel%3D20183",
-    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D20183",
-    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/20183/20183.jpg",
-    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/20183.jpg",
-    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/20183/20183_wa.jpg",
-    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/20183/20183map.gif",
-    "reviewCount": 1449,
-    "reviewAverage": 3.91,
-    "userReview": "露天風呂と美味しい食事、縁日で夏を満喫露天風呂は、利用客が少なくのんびりと自然を感じながらお風呂を楽しめました。初めてのビュッフェだったのですが、釜飯・焼肉・鍋、鶏飯、デザートもあり食べ過ぎて…　2026-08-31 20:22:52投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=20183\" class=\"3click\">つづきはこちら</a>",
-    "hotelMinCharge": 8100,
-    "address1": "鹿児島県",
-    "address2": "霧島市牧園町高千穂3878-49",
-    "telephoneNo": "0995-78-2211",
-    "access": "鹿児島空港～車で約30分／塩湯温泉バス停～徒歩2分／丸尾バス停～徒歩5分　☆霧島神宮までは車で約15分☆",
-    "parkingInformation": "150台　無料",
-    "nearestStation": "霧島神宮",
-    "hotelSpecial": "充実のバイキング、５４㎡の広々お部屋、掛け流し温泉と露天風呂が当館の自慢です！",
-    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D20183",
-    "featureKey": "train_yatake",
-    "featureLabel": "宮崎県えびの市・鹿児島県霧島市ふるさと納税・霧島連峰と桜島を望む矢岳越えパノラマ「肥薩線の車窓」霧島温泉ステイ",
-    "themeTitle": "鹿児島県霧島市・宮崎県えびの市ふるさと納税：肥薩線矢岳越えを望む霧島連峰の高原温泉リゾート「霧島温泉 ホテル霧島キャッスル」",
-    "themeDesc": "矢岳越えのパノラマが広がる霧島連峰の麓に位置し、全室54平米以上の広々とした客室を誇る温泉リゾート。湯量豊富な霧島温泉の源泉かけ流し露天風呂で癒やされ、鹿児島黒豚しゃぶしゃぶやさつま揚げ、鹿児島の本格芋焼酎を心ゆくまで堪能できます。",
-    "revAvg": "3.9",
-    "minCharge": "8,100"
+    "hotelNo": 10758,
+    "hotelName": "ホテル菊水今治（Ｈｏｔｅｌ　Ｋｉｋｕｓｕｉ　Ｉｍａｂａｒｉ）",
+    "hotelKanaName": "きくすい　いまばり",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D10758",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D10758%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FIWrzP%2F%3FnoTomariHotel%3D10758",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D10758",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/10758/10758.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/10758.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/10758/10758_room.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/10758/10758map.gif",
+    "reviewCount": 1778,
+    "reviewAverage": 4.28,
+    "userReview": "朝食が美味しく、ライブ会場へのアクセスも抜群時間の都合で朝食だけ頂きましたが美味しかったです。海のそばにあり、前にある施設でのライブに参加したので近くで良かったですクチコミの詳細はこちらから　…　2026-09-05 15:17:33投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=10758\" class=\"3click\">つづきはこちら</a>",
+    "hotelMinCharge": 3240,
+    "address1": "愛媛県",
+    "address2": "今治市中浜町1-2-5",
+    "telephoneNo": "0898-23-3330",
+    "access": "【平面駐車場無料】／JR今治駅徒歩15分・車5分／しまなみ海道【今治IC】車10分／しまなみライナー【今治桟橋】徒歩1分",
+    "parkingInformation": "無料平面駐車場59台（出入自由）／バイク屋根付／自転車客室持込可／大型車応相談",
+    "nearestStation": "今治",
+    "hotelSpecial": "Serta社製ベッド／今治タオル／貸切風呂／雪肌精アメニティ／真鯛の絶品夕食／Wi-Fi完備",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D10758",
+    "featureKey": "current_kurushima",
+    "featureLabel": "愛媛県今治市ふるさと納税・しまなみ海道と激流うず潮「来島海峡」今治国際ホテル",
+    "themeTitle": "愛媛県今治市ふるさと納税：来島海峡大橋としまなみ海道の玄関口に佇む「ホテル菊水今治」",
+    "themeDesc": "今治港の目の前に位置し、来島海峡の急潮クルーズやしまなみ海道サイクリングの拠点として至便なホテル。瀬戸内海の激流で育った新鮮な来島鯛の鯛めしや今治名物の鉄板焼き鳥を味わい、快適な客室でサイクリングや島巡りの疲れを癒やせます。",
+    "revAvg": "4.3",
+    "minCharge": "3,240"
   },
   {
-    "hotelNo": 10773,
-    "hotelName": "サホロリゾートホテル",
-    "hotelKanaName": "さほろ　りぞーとほてる",
-    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D10773",
-    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D10773%26f_flg%3DPLAN",
-    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FIWrzP%2F%3FnoTomariHotel%3D10773",
-    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D10773",
-    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/10773/10773.jpg",
-    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/10773.jpg",
-    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/10773/10773_heya.jpg",
-    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/10773/10773map.gif",
-    "reviewCount": 293,
-    "reviewAverage": 3.4,
-    "userReview": "",
-    "hotelMinCharge": 9900,
-    "address1": "北海道",
-    "address2": "上川郡新得町字新内西5線148番地5",
-    "telephoneNo": "0156-64-7111",
-    "access": "ＪＲ石勝線新得駅から車で約１５分",
-    "parkingInformation": "有　100台　先着順　無料",
-    "nearestStation": "新得",
-    "hotelSpecial": "ベアマウンテンでヒグマを観察！ホテル内のセルフロウリュできるサウナも人気です。",
-    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D10773",
-    "featureKey": "train_karikachi",
-    "featureLabel": "北海道新得町ふるさと納税・広大な十勝平野と大雪山系を見晴らす旧狩勝峠「日本三大車窓」十勝サホロリゾート",
-    "themeTitle": "北海道新得町ふるさと納税：旧狩勝峠の雄大な十勝平野を見晴らす北欧風高原リゾート「サホロリゾートホテル」",
-    "themeDesc": "日本三大車窓・旧狩勝峠のすぐそば、十勝サホロ岳の裾野に広がる高原リゾートホテル。マイナスイオンあふれる森に囲まれた露天風呂とサウナで寛ぎ、北海道十勝産牛肉のグリルや地元新得名物の手打ち蕎麦、新鮮な十勝産チーズ料理を堪能できます。",
-    "revAvg": "3.4",
-    "minCharge": "9,900"
+    "hotelNo": 7013,
+    "hotelName": "下関グランドホテル",
+    "hotelKanaName": "しものせき　ぐらんどほてる",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D7013",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D7013%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FIWrzP%2F%3FnoTomariHotel%3D7013",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D7013",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7013/7013.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/7013.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7013/7013_heya1.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7013/7013map.gif",
+    "reviewCount": 1556,
+    "reviewAverage": 4.28,
+    "userReview": "唐戸市場に近く、豪華で綺麗な空間綺麗で豪華なホテルでした。唐戸市場にも近くて満足です。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hot…　2026-09-05 18:36:56投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=7013\" class=\"3click\">つづきはこちら</a>",
+    "hotelMinCharge": 4500,
+    "address1": "山口県",
+    "address2": "下関市南部町31-2",
+    "telephoneNo": "083-231-5000",
+    "access": "ＪＲ下関から車で５分、ＪＲ門司港駅横から船で５分",
+    "parkingInformation": "有り　３０台　無料",
+    "nearestStation": "下関",
+    "hotelSpecial": "目の前は関門海峡☆徒歩圏内に唐戸市場、海響館と便利です♪",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D7013",
+    "featureKey": "current_kanmon",
+    "featureLabel": "山口県下関市ふるさと納税・本州と九州を分かつ急潮「関門海峡」下関グランドホテル",
+    "themeTitle": "山口県下関市ふるさと納税：関門海峡が目の前に広がる特等席・昭和天皇もご宿泊の名門「下関グランドホテル」",
+    "themeDesc": "唐戸市場やカモンワーフに隣接し、関門海峡を行き交う大型船を間近に望むウォーターフロントホテル。歴史の舞台・早鞆ノ瀬戸の潮流を眺めながら、下関伝統の本場とらふぐフルコースや長州黒かしわを贅沢に味わう極上のひとときを過ごせます。",
+    "revAvg": "4.3",
+    "minCharge": "4,500"
   }
 ];
 
@@ -122,7 +122,7 @@ export default function Page() {
         <div className="max-w-5xl mx-auto flex items-center space-x-2">
           <Link href="/" className="hover:text-emerald-600 transition">ホーム</Link>
           <span>&gt;</span>
-          <span className="text-slate-700 font-medium">日本三大車窓＆天空パノラマ・絶景温泉宿×ふるさと納税ガイド</span>
+          <span className="text-slate-700 font-medium">日本三大急潮＆うず潮絶景・海鮮グルメ宿×ふるさと納税ガイド</span>
         </div>
       </nav>
 
@@ -130,13 +130,13 @@ export default function Page() {
       <header className="relative bg-gradient-to-br from-emerald-950 via-slate-900 to-teal-950 text-white py-16 px-4">
         <div className="max-w-4xl mx-auto text-center space-y-4">
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
-            日本三大車窓・天空鉄旅特集
+            日本三大急潮・激流うず潮特集
           </div>
           <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大車窓＆天空パノラマ・絶景温泉宿×ふるさと納税ガイド
+            日本三大急潮＆うず潮絶景・海鮮グルメ宿×ふるさと納税ガイド
           </h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
-            鉄道の黄金時代から旅情あふれる名景として語り継がれてきた「日本三大車窓」――JR篠ノ井線の姨捨駅から見下ろす千曲川と棚田・善光寺平の夜景パノラマが美しい長野の「姨捨の車窓」、熊本から宮崎・鹿児島へと抜けるJR肥薩線の山岳区間で霧島連峰と遠く桜島を仰ぐ九州の「矢岳越え」、そして旧国鉄根室本線で大雪山系の山並みとどこまでも続く十勝平野の原生林を見晴らした北海道の「狩勝峠」。山を越えるために工夫されたスイッチバックやループ線、トンネルを抜けた瞬間に視界が開ける圧倒的な感動は、鉄道旅ならではの醍醐味です。名車窓の余韻に浸りながら名湯温泉に身を委ね、信州十割蕎麦・薩摩黒豚・十勝牛とチーズを堪能する特別な旅を楽天ふるさと納税でお楽しみください。
+            狭い海峡に満潮と干潮の潮位差が激しい海水が流れ込むことで生まれる「日本三大急潮」――最大時速20kmに達し直径20mもの大渦を生み出す世界最大級の渦潮・徳島兵庫の「鳴門海峡」、瀬戸内海の多島美を背景に複雑な潮流「八艘飛び」が船乗りたちを恐れさせた愛媛今治の「来島海峡」、そして壇ノ浦の源平合戦や宮本武蔵・佐々木小次郎の巌流島の舞台となり急潮が唸りをあげる山口福岡の「関門海峡」。激しい潮流にもまれた魚は身が引き締まり、日本一の旨味を凝縮しています。海峡を見晴らす絶景ホテルやオーシャンリゾートに滞在し、激流に鍛えられた鳴門鯛・来島海峡のアジ・サバ・下関のとらふぐ会席に舌鼓を打つ至高の旅を楽天ふるさと納税でお楽しみください。
           </p>
 
           <div className="pt-6">
@@ -161,7 +161,7 @@ export default function Page() {
         {/* 特集の魅力セクション */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80">
           <h2 className="text-xl md:text-2xl font-bold text-slate-900 border-l-4 border-emerald-500 pl-3 mb-6">
-            列車が山を登りきった瞬間に広がる大平原。旅人を魅了し続ける車窓の奇跡
+            轟く潮鳴り、海面が渦を巻き湧き上がる海の激流。海峡のダイナミズムを五感で味わう
           </h2>
           <div className="grid md:grid-cols-3 gap-6">
             
@@ -170,10 +170,10 @@ export default function Page() {
                 <svg className="w-4 h-4 text-emerald-600 shrink-0" fill="currentColor" viewBox="0 0 20 20">
                   <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
                 </svg>
-                <span>棚田の夜景・霧島連峰の雄姿・十勝平野の大平原！旅情あふれる天空パノラマ</span>
+                <span>世界最大級のうず潮や早鞆ノ瀬戸！激しく渦巻く海のスペクタクルを間近に鑑賞</span>
               </div>
               <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
-                鉄道ファンのみならずすべての旅人の心を奪う、標高差が生み出すダイナミックな大パノラマを体感。
+                観潮船からの大迫力クルーズや海峡を一望する客室テラスから、潮の満ち引きが描く大自然の営みを体感。
               </p>
             </div>
             
@@ -182,10 +182,10 @@ export default function Page() {
                 <svg className="w-4 h-4 text-emerald-600 shrink-0" fill="currentColor" viewBox="0 0 20 20">
                   <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
                 </svg>
-                <span>信州和牛＆千曲のアンズ、鹿児島黒豚＆地鶏炭火焼き、十勝和牛ステーキ＆新鮮乳製品</span>
+                <span>引き締まった鳴門鯛の舟盛り、来島海峡の真鯛釜飯、本場下関のとらふぐ刺し＆ちり鍋</span>
               </div>
               <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
-                高原と盆地、肥沃な大地の恵みがもたらす、日本各地の選りすぐりブランドグルメを満喫。
+                日本屈指の急流が生んだ最高峰の天然白身魚と海の幸を、料理人こだわりの海峡会席で堪能。
               </p>
             </div>
             
@@ -194,10 +194,10 @@ export default function Page() {
                 <svg className="w-4 h-4 text-emerald-600 shrink-0" fill="currentColor" viewBox="0 0 20 20">
                   <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
                 </svg>
-                <span>楽天ふるさと納税宿泊クーポンで高原リゾート・名湯旅館をお得に予約</span>
+                <span>楽天ふるさと納税宿泊クーポンで憧れのオーシャンフロント宿をお得に予約</span>
               </div>
               <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
-                鉄道旅やドライブ旅行でも、寄付金額に応じた最大30%オフの即時割引クーポンでスマートにお得ステイ。
+                記念日や家族の絶景クルーズ旅でも、寄付金額に応じた最大30%オフの即時割引クーポンでスマートにお得ステイ。
               </p>
             </div>
             
@@ -368,6 +368,15 @@ export default function Page() {
           </h2>
           <div className="grid md:grid-cols-3 gap-4">
             
+            <Link href="/furusato-tax-three-great-beautiful-ports-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+              <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
+                日本三大美港＆夜景オーシャンビュー宿×ふるさと納税完全ガイド
+              </div>
+              <p className="text-xs text-slate-500 mt-2">
+                清水港・長崎港・神戸港。
+              </p>
+            </Link>
+            
             <Link href="/furusato-tax-three-great-rapid-rivers-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大急流＆川下り舟体験・清流鮎グルメ宿×ふるさと納税完全ガイド
@@ -377,21 +386,12 @@ export default function Page() {
               </p>
             </Link>
             
-            <Link href="/furusato-tax-three-great-mountain-castles-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-coastal-sceneries-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
-                日本三大山城＆天空の雲海要塞宿×ふるさと納税完全ガイド
+                日本三大白砂青松＆海岸絶景パノラマ宿×ふるさと納税完全ガイド
               </div>
               <p className="text-xs text-slate-500 mt-2">
-                大和高取城・美濃岩村城・備中松山城。
-              </p>
-            </Link>
-            
-            <Link href="/furusato-tax-three-great-secret-hotsprings-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
-              <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
-                日本三大秘湯＆秘境の大自然一軒宿×ふるさと納税完全ガイド
-              </div>
-              <p className="text-xs text-slate-500 mt-2">
-                谷地温泉・祖谷温泉・乳頭温泉郷。
+                天橋立・三保松原・気比松原。
               </p>
             </Link>
             

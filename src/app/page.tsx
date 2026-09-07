@@ -3399,6 +3399,34 @@ export default function Home() {
               <span>日本三大夜桜＆幽玄のライトアップ宿！弘前公園・高田城址・上野恩賜公園</span>
             </Link>
             <Link
+              href="/furusato-tax-three-great-rapid-tidal-currents-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-cyan-200 bg-gradient-to-r from-blue-950 via-teal-950 to-indigo-950 hover:from-blue-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-cyan-400/50 flex items-center gap-1.5"
+            >
+              <span>🌀🌊</span>
+              <span>日本三大急潮＆うず潮絶景・海鮮グルメ宿！鳴門・来島・関門海峡</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-train-window-views-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-stone-950 via-amber-950 to-slate-950 hover:from-stone-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🚂⛰️</span>
+              <span>日本三大車窓＆天空パノラマ・絶景温泉宿！姨捨・矢岳越え・狩勝峠</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-inari-shrines-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-orange-200 bg-gradient-to-r from-red-950 via-orange-950 to-amber-950 hover:from-red-900 hover:to-orange-900 rounded-2xl shadow-lg transition border border-orange-400/50 flex items-center gap-1.5"
+            >
+              <span>⛩️🦊</span>
+              <span>日本三大稲荷＆商売繁盛・開運祈願の名宿！伏見・豊川・祐徳稲荷</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-beautiful-forests-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-emerald-200 bg-gradient-to-r from-green-950 via-emerald-950 to-teal-950 hover:from-green-900 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-emerald-400/50 flex items-center gap-1.5"
+            >
+              <span>🌲🍃</span>
+              <span>日本三大美林＆森林浴・天然木アロマ温泉宿！青森ヒバ・秋田スギ・木曽ヒノキ</span>
+            </Link>
+            <Link
               href="/kyoto"
               className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
             >

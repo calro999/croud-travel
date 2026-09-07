@@ -400,6 +400,10 @@ Sitemap: ${BASE_URL}/sitemap-posts.xml
 - [日本三大奇橋＆渓谷美・歴史ロマンの名宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-unusual-bridges-stay): 錦帯橋・甲斐の猿橋・日光神橋の木造美
 - [日本三大急流＆川下り舟体験・清流鮎グルメ宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-rapid-rivers-stay): 最上川・富士川・球磨川の激流下り
 - [日本三大夜桜＆幽玄のライトアップ宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-night-cherry-blossoms-stay): 弘前公園・高田城址公園・上野恩賜公園の春宵
+- [日本三大急潮＆うず潮絶景・海鮮グルメ宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-rapid-tidal-currents-stay): 鳴門海峡・来島海峡・関門海峡の激流鯛
+- [日本三大車窓＆天空パノラマ・絶景温泉宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-train-window-views-stay): 姨捨・肥薩線矢岳・狩勝峠の車窓ロマン
+- [日本三大稲荷＆商売繁盛・開運祈願の名宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-inari-shrines-stay): 伏見・豊川・祐徳の千本鳥居と門前町
+- [日本三大美林＆森林浴・天然木アロマ温泉宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-beautiful-forests-stay): 青森ヒバ・秋田スギ・木曽ヒノキの癒やし
 
 
 

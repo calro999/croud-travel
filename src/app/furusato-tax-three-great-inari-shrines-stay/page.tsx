@@ -4,14 +4,14 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '日本三大車窓＆絶景スイッチバック・高原パノラマ温泉宿×ふるさと納税完全ガイド【2026年最新】姨捨・矢岳越え・狩勝峠',
-  description: '車窓を流れる息をのむ大パノラマ！長野千曲「姨捨駅」善光寺平を見下ろすスイッチバックの絶景と戸倉上山田温泉リバーサイド上田館、宮崎熊本鹿児島「肥薩線矢岳越え」霧島連峰と桜島を望む天空路線と霧島温泉ホテル霧島キャッスル、北海道十勝「旧狩勝峠」大雪山系と十勝平野を望む雄大な大地とサホロリゾートホテル。日本三大車窓の鉄旅ロマンを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
-  keywords: '日本三大車窓・天空鉄旅特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
+  title: '日本三大稲荷＆千本鳥居・商売繁盛開運祈願と門前町グルメ宿×ふるさと納税完全ガイド【2026年最新】伏見・豊川・祐徳稲荷',
+  description: '朱塗りの鳥居が連なる神域と開運の杜！京都「伏見稲荷大社」千本鳥居の幻想美とアーバンホテル京都、愛知「豊川稲荷」妙厳寺の千体狐・霊狐塚と豊川グランドホテル、佐賀鹿島「祐徳稲荷神社」鎮西日光と称される極彩色の楼門と有明海鮮・嬉野温泉和多屋別荘。日本三大稲荷の商売繁盛祈願を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
+  keywords: '日本三大稲荷・開運商売繁盛特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',
   openGraph: {
-    title: '日本三大車窓＆絶景スイッチバック・高原パノラマ温泉宿×ふるさと納税完全ガイド【2026年最新】姨捨・矢岳越え・狩勝峠',
-    description: '車窓を流れる息をのむ大パノラマ！長野千曲「姨捨駅」善光寺平を見下ろすスイッチバックの絶景と戸倉上山田温泉リバーサイド上田館、宮崎熊本鹿児島「肥薩線矢岳越え」霧島連峰と桜島を望む天空路線と霧島温泉ホテル霧島キャッスル、北海道十勝「旧狩勝峠」大雪山系と十勝平野を望む雄大な大地とサホロリゾートホテル。日本三大車窓の鉄旅ロマンを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
+    title: '日本三大稲荷＆千本鳥居・商売繁盛開運祈願と門前町グルメ宿×ふるさと納税完全ガイド【2026年最新】伏見・豊川・祐徳稲荷',
+    description: '朱塗りの鳥居が連なる神域と開運の杜！京都「伏見稲荷大社」千本鳥居の幻想美とアーバンホテル京都、愛知「豊川稲荷」妙厳寺の千体狐・霊狐塚と豊川グランドホテル、佐賀鹿島「祐徳稲荷神社」鎮西日光と称される極彩色の楼門と有明海鮮・嬉野温泉和多屋別荘。日本三大稲荷の商売繁盛祈願を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-train-window-views-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-inari-shrines-stay',
     siteName: 'トラベルポータル',
   },
 };
@@ -21,96 +21,96 @@ export default function Page() {
 
   const hotels = [
   {
-    "hotelNo": 37465,
-    "hotelName": "戸倉上山田温泉　リバーサイド上田館（伊東園ホテルズ）",
-    "hotelKanaName": "とくらかみやまだおんせん　りばーさいどうえだかん",
-    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D37465",
-    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D37465%26f_flg%3DPLAN",
-    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FIWrzP%2F%3FnoTomariHotel%3D37465",
-    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D37465",
-    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/37465/37465.jpg",
-    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/37465.jpg",
-    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/37465/37465_kya.jpg",
-    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/37465/37465map.gif",
-    "reviewCount": 980,
-    "reviewAverage": 3.94,
-    "userReview": "ゆったり過ごせてバイキングも快適絶妙な希望で、想像以上にゆったりできました。バイキングも品数と通路等の距離が確保されており、ストレスを感じずにいただけました。クチコミの詳細はこちらから　htt…　2026-09-04 07:14:51投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=37465\" class=\"3click\">つづきはこちら</a>",
-    "hotelMinCharge": 6248,
-    "address1": "長野県",
-    "address2": "千曲市戸倉温泉3055",
-    "telephoneNo": "0570-081-780",
-    "access": "北陸新幹線上田駅乗換しなの鉄道　戸倉駅よりタクシーで５分、上信越自動車道坂城ＩＣよりＲ１８号線経由１５分",
-    "parkingInformation": "有り　８０台　無料　",
-    "nearestStation": "戸倉",
-    "hotelSpecial": "美人の湯に癒され、千曲川の自然に包まれる宿。",
-    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D37465",
-    "featureKey": "train_obasute",
-    "featureLabel": "長野県千曲市ふるさと納税・善光寺平を一望するスイッチバックの名駅「姨捨の車窓」美肌の名湯戸倉上山田温泉",
-    "themeTitle": "長野県千曲市ふるさと納税：姨捨の棚田と善光寺平夜景の拠点・千曲川沿いの名湯「戸倉上山田温泉 リバーサイド上田館」",
-    "themeDesc": "日本三大車窓・名月の里「姨捨」から車で約15分、開湯130年を超える名湯・戸倉上山田温泉に位置する温泉ホテル。肌触りの良い天然温泉の大浴場と露天風呂で寛ぎ、千曲川の清流を眺めながら信州の山菜や旬の味覚バイキングをお得に満喫できます。",
-    "revAvg": "3.9",
-    "minCharge": "6,248"
+    "hotelNo": 1445,
+    "hotelName": "アーバンホテル京都",
+    "hotelKanaName": "あーばんほてる　きょうと",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D1445",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D1445%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FIWrzP%2F%3FnoTomariHotel%3D1445",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D1445",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1445/1445.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/1445.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1445/1445_room.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1445/1445map.gif",
+    "reviewCount": 4469,
+    "reviewAverage": 4.01,
+    "userReview": "部屋は狭いけれど価格が安く大満足部屋は狭かったですが、何といっても安かったので、大満足です。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/…　2026-09-05 21:09:02投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=1445\" class=\"3click\">つづきはこちら</a>",
+    "hotelMinCharge": 3740,
+    "address1": "京都府",
+    "address2": "京都市伏見区深草西浦町4-59",
+    "telephoneNo": "075-647-0606",
+    "access": "車：京都南ＩＣ5分、京都駅10分　電車：JR稲荷10分、京阪龍谷大前深草5分、地下鉄くいな橋12分　バス龍谷大学前3分",
+    "parkingInformation": "【普通車100台収容】普通車￥1500／滞在　中型￥3000／泊　大型￥4000／泊",
+    "nearestStation": "京都",
+    "hotelSpecial": "伏見稲荷徒歩約10分／Wi-Fi完備／Ｐ有（先着順・大型要予約）／全室禁煙（1階喫煙スペースあり）",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D1445",
+    "featureKey": "inari_fushimi",
+    "featureLabel": "京都府京都市伏見区ふるさと納税・千本鳥居が連なる全国稲荷神社の総本宮「伏見稲荷大社」伏見の銘酒とアーバンホテル京都",
+    "themeTitle": "京都府京都市伏見区ふるさと納税：千本鳥居の伏見稲荷大社へ好アクセス「アーバンホテル京都」",
+    "themeDesc": "全国稲荷の総本宮・伏見稲荷大社まで電車や徒歩圏内に位置するスタイリッシュホテル。朝一番の混雑前の千本鳥居参拝の拠点として最適で、観光やビジネスの疲れを清潔な客室で癒やし、伏見十石舟や伏見酒蔵巡りのお得な旅を楽しめます。",
+    "revAvg": "4.0",
+    "minCharge": "3,740"
   },
   {
-    "hotelNo": 20183,
-    "hotelName": "霧島温泉　ホテル霧島キャッスル",
-    "hotelKanaName": "きりしまおんせん　きしりま　きゃっする",
-    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D20183",
-    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D20183%26f_flg%3DPLAN",
-    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FIWrzP%2F%3FnoTomariHotel%3D20183",
-    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D20183",
-    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/20183/20183.jpg",
-    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/20183.jpg",
-    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/20183/20183_wa.jpg",
-    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/20183/20183map.gif",
-    "reviewCount": 1449,
-    "reviewAverage": 3.91,
-    "userReview": "露天風呂と美味しい食事、縁日で夏を満喫露天風呂は、利用客が少なくのんびりと自然を感じながらお風呂を楽しめました。初めてのビュッフェだったのですが、釜飯・焼肉・鍋、鶏飯、デザートもあり食べ過ぎて…　2026-08-31 20:22:52投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=20183\" class=\"3click\">つづきはこちら</a>",
-    "hotelMinCharge": 8100,
-    "address1": "鹿児島県",
-    "address2": "霧島市牧園町高千穂3878-49",
-    "telephoneNo": "0995-78-2211",
-    "access": "鹿児島空港～車で約30分／塩湯温泉バス停～徒歩2分／丸尾バス停～徒歩5分　☆霧島神宮までは車で約15分☆",
-    "parkingInformation": "150台　無料",
-    "nearestStation": "霧島神宮",
-    "hotelSpecial": "充実のバイキング、５４㎡の広々お部屋、掛け流し温泉と露天風呂が当館の自慢です！",
-    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D20183",
-    "featureKey": "train_yatake",
-    "featureLabel": "宮崎県えびの市・鹿児島県霧島市ふるさと納税・霧島連峰と桜島を望む矢岳越えパノラマ「肥薩線の車窓」霧島温泉ステイ",
-    "themeTitle": "鹿児島県霧島市・宮崎県えびの市ふるさと納税：肥薩線矢岳越えを望む霧島連峰の高原温泉リゾート「霧島温泉 ホテル霧島キャッスル」",
-    "themeDesc": "矢岳越えのパノラマが広がる霧島連峰の麓に位置し、全室54平米以上の広々とした客室を誇る温泉リゾート。湯量豊富な霧島温泉の源泉かけ流し露天風呂で癒やされ、鹿児島黒豚しゃぶしゃぶやさつま揚げ、鹿児島の本格芋焼酎を心ゆくまで堪能できます。",
-    "revAvg": "3.9",
-    "minCharge": "8,100"
-  },
-  {
-    "hotelNo": 10773,
-    "hotelName": "サホロリゾートホテル",
-    "hotelKanaName": "さほろ　りぞーとほてる",
-    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D10773",
-    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D10773%26f_flg%3DPLAN",
-    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FIWrzP%2F%3FnoTomariHotel%3D10773",
-    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D10773",
-    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/10773/10773.jpg",
-    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/10773.jpg",
-    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/10773/10773_heya.jpg",
-    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/10773/10773map.gif",
-    "reviewCount": 293,
-    "reviewAverage": 3.4,
+    "hotelNo": 151304,
+    "hotelName": "豊川グランドホテル",
+    "hotelKanaName": "とよかわぐらんどほてる",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D151304",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D151304%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FIWrzP%2F%3FnoTomariHotel%3D151304",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D151304",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/151304/151304.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/151304.jpg",
+    "roomImageUrl": "",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/151304/151304map.gif",
+    "reviewCount": 25,
+    "reviewAverage": 3,
     "userReview": "",
+    "hotelMinCharge": 4180,
+    "address1": "愛知県",
+    "address2": "豊川市市田町東堤上1-66",
+    "telephoneNo": "0533-89-6161",
+    "access": "東名豊川ＩＣから約１５分・音羽蒲郡ＩＣから約２０分。　名鉄本線　国府駅よりお車。",
+    "parkingInformation": "有り　４０台　無料　予約不要",
+    "nearestStation": "国府（愛知）",
+    "hotelSpecial": "東名豊川ＩＣ・音羽蒲郡ＩＣから近く、豊橋・田原・蒲郡・新城への移動は短時間。無料駐車場完備。",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D151304",
+    "featureKey": "inari_toyokawa",
+    "featureLabel": "愛知県豊川市ふるさと納税・商売繁盛と霊狐塚の千体狐「豊川稲荷」門前町名物いなり寿司と快適ホテルステイ",
+    "themeTitle": "愛知県豊川市ふるさと納税：豊川稲荷参拝の玄関口・門前町いなり寿司巡りの拠点「豊川グランドホテル」",
+    "themeDesc": "商売繁盛の神仏として名高い豊川稲荷（妙厳寺）の表参道近くに位置する老舗ホテル。霊狐塚の圧倒的なパワーを体感した後は、門前町の多彩ないなり寿司食べ歩きや三河湾の海の幸、三河ポークの郷土グルメを堪能できます。",
+    "revAvg": "3.0",
+    "minCharge": "4,180"
+  },
+  {
+    "hotelNo": 40527,
+    "hotelName": "嬉野温泉　和多屋別荘",
+    "hotelKanaName": "うれしのおんせん　わたや　べっそう",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D40527",
+    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D40527%26f_flg%3DPLAN",
+    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FIWrzP%2F%3FnoTomariHotel%3D40527",
+    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D40527",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40527/40527.jpg",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/40527.jpg",
+    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40527/40527_fu.jpg",
+    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40527/40527map.gif",
+    "reviewCount": 1328,
+    "reviewAverage": 4.14,
+    "userReview": "部屋の臭いと空調の効きが悪く残念予約していた部屋の臭いが我慢出来ずにフロントに連絡し、同価格の部屋に移動させてもらいましたが、ランクダウンした気がします。廊下など空調が効いてなく、暑かったです。…　2026-09-05 19:32:01投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=40527\" class=\"3click\">つづきはこちら</a>",
     "hotelMinCharge": 9900,
-    "address1": "北海道",
-    "address2": "上川郡新得町字新内西5線148番地5",
-    "telephoneNo": "0156-64-7111",
-    "access": "ＪＲ石勝線新得駅から車で約１５分",
-    "parkingInformation": "有　100台　先着順　無料",
-    "nearestStation": "新得",
-    "hotelSpecial": "ベアマウンテンでヒグマを観察！ホテル内のセルフロウリュできるサウナも人気です。",
-    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D10773",
-    "featureKey": "train_karikachi",
-    "featureLabel": "北海道新得町ふるさと納税・広大な十勝平野と大雪山系を見晴らす旧狩勝峠「日本三大車窓」十勝サホロリゾート",
-    "themeTitle": "北海道新得町ふるさと納税：旧狩勝峠の雄大な十勝平野を見晴らす北欧風高原リゾート「サホロリゾートホテル」",
-    "themeDesc": "日本三大車窓・旧狩勝峠のすぐそば、十勝サホロ岳の裾野に広がる高原リゾートホテル。マイナスイオンあふれる森に囲まれた露天風呂とサウナで寛ぎ、北海道十勝産牛肉のグリルや地元新得名物の手打ち蕎麦、新鮮な十勝産チーズ料理を堪能できます。",
-    "revAvg": "3.4",
+    "address1": "佐賀県",
+    "address2": "嬉野市嬉野町下宿乙738",
+    "telephoneNo": "0954-42-0210",
+    "access": "JR嬉野温泉駅から車で5分/長崎自動車道 嬉野ICより約5分",
+    "parkingInformation": "ご宿泊者の方は無料でご利用頂けます。",
+    "nearestStation": "武雄温泉",
+    "hotelSpecial": "嬉野WELL-BEING「河畔サウナ」「色写経」「創香室」等館内で体験できるアクティビティが充実。",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D40527",
+    "featureKey": "bihada_ureshino",
+    "featureLabel": "佐賀県嬉野市ふるさと納税・日本三大美肌の湯の筆頭「嬉野温泉」重曹泉のぬめりと和多屋別荘",
+    "themeTitle": "佐賀県鹿島市・嬉野市ふるさと納税：祐徳稲荷神社参拝の拠点・美肌名湯の老舗「嬉野温泉 和多屋別荘」",
+    "themeDesc": "日本三大稲荷の一角・祐徳稲荷神社から車で約25分、日本三大美肌の湯・嬉野温泉を代表する名旅館。豪華絢爛な祐徳稲荷の本殿を参拝した後は、和多屋別荘の重曹泉露天風呂で心身を清め、佐賀牛や名物温泉湯豆腐会席に酔いしれる至福の時間を過ごせます。",
+    "revAvg": "4.1",
     "minCharge": "9,900"
   }
 ];
@@ -122,7 +122,7 @@ export default function Page() {
         <div className="max-w-5xl mx-auto flex items-center space-x-2">
           <Link href="/" className="hover:text-emerald-600 transition">ホーム</Link>
           <span>&gt;</span>
-          <span className="text-slate-700 font-medium">日本三大車窓＆天空パノラマ・絶景温泉宿×ふるさと納税ガイド</span>
+          <span className="text-slate-700 font-medium">日本三大稲荷＆商売繁盛・開運祈願の名宿×ふるさと納税ガイド</span>
         </div>
       </nav>
 
@@ -130,13 +130,13 @@ export default function Page() {
       <header className="relative bg-gradient-to-br from-emerald-950 via-slate-900 to-teal-950 text-white py-16 px-4">
         <div className="max-w-4xl mx-auto text-center space-y-4">
           <div className="inline-block bg-emerald-500/20 border border-emerald-400/40 text-emerald-300 text-xs font-semibold px-3 py-1 rounded-full mb-2">
-            日本三大車窓・天空鉄旅特集
+            日本三大稲荷・開運商売繁盛特集
           </div>
           <h1 className="text-2xl md:text-4xl font-bold leading-tight tracking-tight">
-            日本三大車窓＆天空パノラマ・絶景温泉宿×ふるさと納税ガイド
+            日本三大稲荷＆商売繁盛・開運祈願の名宿×ふるさと納税ガイド
           </h1>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto pt-2">
-            鉄道の黄金時代から旅情あふれる名景として語り継がれてきた「日本三大車窓」――JR篠ノ井線の姨捨駅から見下ろす千曲川と棚田・善光寺平の夜景パノラマが美しい長野の「姨捨の車窓」、熊本から宮崎・鹿児島へと抜けるJR肥薩線の山岳区間で霧島連峰と遠く桜島を仰ぐ九州の「矢岳越え」、そして旧国鉄根室本線で大雪山系の山並みとどこまでも続く十勝平野の原生林を見晴らした北海道の「狩勝峠」。山を越えるために工夫されたスイッチバックやループ線、トンネルを抜けた瞬間に視界が開ける圧倒的な感動は、鉄道旅ならではの醍醐味です。名車窓の余韻に浸りながら名湯温泉に身を委ね、信州十割蕎麦・薩摩黒豚・十勝牛とチーズを堪能する特別な旅を楽天ふるさと納税でお楽しみください。
+            五穀豊穣、商売繁盛、家内安全を祈る庶民の信仰のシンボルとして日本全国で愛されてきた「日本三大稲荷」――三万社を超える稲荷神社の総本宮として稲荷山の山頂まで朱色の千本鳥居がトンネルのように続く京都の「伏見稲荷大社」、室町時代開山のお寺（妙厳寺）であり奉納された無数の狐像が並ぶ「霊狐塚」が圧倒的なパワースポットとして知られる愛知の「豊川稲荷」、そして有明海に面する山腹に日光東照宮を思わせる極彩色の本殿が聳え立つ佐賀鹿島の「祐徳稲荷神社」。朱塗りの楼門をくぐり狐の神使に手を合わせれば、日々の迷いが晴れて力強い開運のパワーが湧き上がってきます。門前町名物のいなり寿司やきつねうどん、伏見の日本酒、三河一色産うなぎ、有明海の海の幸を堪能する旅を楽天ふるさと納税でお楽しみください。
           </p>
 
           <div className="pt-6">
@@ -161,7 +161,7 @@ export default function Page() {
         {/* 特集の魅力セクション */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80">
           <h2 className="text-xl md:text-2xl font-bold text-slate-900 border-l-4 border-emerald-500 pl-3 mb-6">
-            列車が山を登りきった瞬間に広がる大平原。旅人を魅了し続ける車窓の奇跡
+            幾重にも連なる鮮烈な朱の回廊、狐が守護する神聖な杜。心洗われる大願成就の旅
           </h2>
           <div className="grid md:grid-cols-3 gap-6">
             
@@ -170,10 +170,10 @@ export default function Page() {
                 <svg className="w-4 h-4 text-emerald-600 shrink-0" fill="currentColor" viewBox="0 0 20 20">
                   <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
                 </svg>
-                <span>棚田の夜景・霧島連峰の雄姿・十勝平野の大平原！旅情あふれる天空パノラマ</span>
+                <span>朱塗りの千本鳥居・霊狐塚・懸崖造りの本殿！圧倒的な霊気あふれるパワースポット</span>
               </div>
               <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
-                鉄道ファンのみならずすべての旅人の心を奪う、標高差が生み出すダイナミックな大パノラマを体感。
+                早朝の静謐な境内の散策や夕暮れ時の灯篭ライトアップなど、厳かな神域で大願成就を祈願。
               </p>
             </div>
             
@@ -182,10 +182,10 @@ export default function Page() {
                 <svg className="w-4 h-4 text-emerald-600 shrink-0" fill="currentColor" viewBox="0 0 20 20">
                   <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
                 </svg>
-                <span>信州和牛＆千曲のアンズ、鹿児島黒豚＆地鶏炭火焼き、十勝和牛ステーキ＆新鮮乳製品</span>
+                <span>伏見の銘酒＆京会席、豊川名物いなり寿司＆三河一色うなぎ、有明海竹崎カニ＆佐賀牛</span>
               </div>
               <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
-                高原と盆地、肥沃な大地の恵みがもたらす、日本各地の選りすぐりブランドグルメを満喫。
+                門前町の伝統の味覚から地域の最高峰ブランドグルメまで、ご利益旅を彩る美食の数々を満喫。
               </p>
             </div>
             
@@ -194,10 +194,10 @@ export default function Page() {
                 <svg className="w-4 h-4 text-emerald-600 shrink-0" fill="currentColor" viewBox="0 0 20 20">
                   <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
                 </svg>
-                <span>楽天ふるさと納税宿泊クーポンで高原リゾート・名湯旅館をお得に予約</span>
+                <span>楽天ふるさと納税宿泊クーポンで門前町近くのホテル・名旅館をお得に予約</span>
               </div>
               <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
-                鉄道旅やドライブ旅行でも、寄付金額に応じた最大30%オフの即時割引クーポンでスマートにお得ステイ。
+                初詣やビジネスの商売繁盛祈願でも、寄付金額に応じた最大30%オフの即時割引クーポンでスマートにお得ステイ。
               </p>
             </div>
             
@@ -368,30 +368,30 @@ export default function Page() {
           </h2>
           <div className="grid md:grid-cols-3 gap-4">
             
-            <Link href="/furusato-tax-three-great-rapid-rivers-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-sacred-hachiman-shrines-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
-                日本三大急流＆川下り舟体験・清流鮎グルメ宿×ふるさと納税完全ガイド
+                日本三大八幡宮＆開運厄除け宿×ふるさと納税完全ガイド
               </div>
               <p className="text-xs text-slate-500 mt-2">
-                最上川・富士川・球磨川。
+                宇佐神宮・石清水八幡宮・筥崎宮。
               </p>
             </Link>
             
-            <Link href="/furusato-tax-three-great-mountain-castles-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-bihada-onsen-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
-                日本三大山城＆天空の雲海要塞宿×ふるさと納税完全ガイド
+                日本三大美肌の湯＆とろとろ美肌温泉宿×ふるさと納税完全ガイド
               </div>
               <p className="text-xs text-slate-500 mt-2">
-                大和高取城・美濃岩村城・備中松山城。
+                嬉野・斐乃上・喜連川。
               </p>
             </Link>
             
-            <Link href="/furusato-tax-three-great-secret-hotsprings-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-unusual-bridges-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
-                日本三大秘湯＆秘境の大自然一軒宿×ふるさと納税完全ガイド
+                日本三大奇橋＆渓谷美・歴史ロマンの名宿×ふるさと納税完全ガイド
               </div>
               <p className="text-xs text-slate-500 mt-2">
-                谷地温泉・祖谷温泉・乳頭温泉郷。
+                錦帯橋・猿橋・日光神橋。
               </p>
             </Link>
             
