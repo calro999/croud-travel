@@ -384,6 +384,11 @@ Sitemap: ${BASE_URL}/sitemap-posts.xml
 - [日本三大巨樹＆神木パワースポット宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-giant-sacred-trees-stay): 蒲生の大楠・阿川の大杉・北金ヶ沢の大イチョウ
 - [日本三大八幡宮＆開運厄除け宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-sacred-hachiman-shrines-stay): 宇佐神宮・石清水八幡宮・筥崎宮の神域
 - [日本三大白砂青松＆海岸絶景パノラマ宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-coastal-sceneries-stay): 天橋立・三保松原・気比の松原の海岸美
+- [日本三大柱状節理峡谷＆絶景名湯宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-columnar-joints-gorges-stay): 清津峡・高千穂峡・層雲峡の幾何学断崖
+- [日本三大陶器まつり＆名窯工芸宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-pottery-festivals-stay): 有田・波佐見・信楽の器と美食巡礼
+- [日本三大薬湯＆極上湯治リトリート宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-medicinal-hotsprings-stay): 草津・有馬・松之山の万病平癒濃厚泉
+- [日本三大名園＆大名庭園風雅宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-daimyo-gardens-stay): 偕楽園・兼六園・後楽園の大名庭園文化
+
 
 
 
