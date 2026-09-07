@@ -415,6 +415,10 @@ Sitemap: ${BASE_URL}/sitemap-posts.xml
 - [日本三大運河＆水郷レトロ・白壁の蔵屋敷と舟流し情趣の名宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-historic-canals-stay): 小樽運河・倉敷美観地区・近江八幡八幡堀
 - [日本三大ラーメン＆ご当地麺文化・名湯と屋台街の美食宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-ramen-capitals-stay): 喜多方・札幌味噌・博多豚骨ラーメン巡礼
 - [日本三大ガラス工芸の町＆光の芸術・切子の輝きと風雅名宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-glass-craft-towns-stay): 小樽切子・江戸切子・薩摩切子の伝統工芸
+- [日本三大岬＆地球の丸みを感じる断崖・絶景パノラマ海宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-capes-ocean-panorama-stay): 知床岬・足摺岬・佐多岬の大海原景観
+- [日本三大古代湖＆数十万年の歴史美・湖畔リゾートと温泉名宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-ancient-lakes-resort-stay): 琵琶湖・諏訪湖・三方五湖の悠久レイクビュー
+- [日本三大竹林＆風にそよぐ緑の回廊・静寂の美林と風雅名宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-bamboo-groves-stay): 嵯峨野・報国寺・さつま町竹林の静寂
+- [日本三大カルデラ＆地球の息吹・巨大火口原パノラマと名湯宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-calderas-geopark-stay): 阿蘇・箱根・屈斜路の大地ジオパーク
 
 
 
