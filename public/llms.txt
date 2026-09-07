@@ -216,6 +216,11 @@
 - [日本三大奇勝＆大自然の造形美・岩壁パノラマと名湯宿×ふるさと納税完全ガイド](https://croud-travel.pages.dev/furusato-tax-three-great-scenic-wonders-stay): 妙義山・耶馬渓・小豆島寒霞渓の奇岩景観
 - [日本三大霊峰＆山岳信仰の聖地・雲海と高山温泉宿×ふるさと納税完全ガイド](https://croud-travel.pages.dev/furusato-tax-three-sacred-mountains-stay): 富士山・立山連峰・霊峰白山の神気ステイ
 - [秘境百選＆天空の隠れ宿・源泉秘湯オーベルジュ×ふるさと納税完全ガイド](https://croud-travel.pages.dev/furusato-tax-top100-hidden-paradise-stay): 祖谷渓谷・高千穂峡・信州秋山郷の桃源郷
+- [日本三大河川＆雄大な水流とせせらぎ・リバーサイド名湯宿×ふるさと納税完全ガイド](https://croud-travel.pages.dev/furusato-tax-three-great-rivers-riverside-stay): 利根川・筑後川・吉野川の大河温泉
+- [日本三大カルスト＆白銀の石灰岩パノラマ・高原リゾート宿×ふるさと納税完全ガイド](https://croud-travel.pages.dev/furusato-tax-three-great-karsts-highland-stay): 秋吉台・四国カルスト・平尾台の天空ステイ
+- [日本三大銘牛＆肉の芸術品・極上鉄板焼きとすき焼き名湯宿×ふるさと納税完全ガイド](https://croud-travel.pages.dev/furusato-tax-three-great-wagyu-beef-luxury-stay): 松阪牛・神戸牛・米沢牛のガストロノミー
+- [日本三大砂丘＆神秘の風紋パノラマ・夕日オーシャンビュー宿×ふるさと納税完全ガイド](https://croud-travel.pages.dev/furusato-tax-three-great-dunes-oceanview-stay): 鳥取砂丘・遠州大砂丘・吹上浜の海岸リゾート
+
 
 
 

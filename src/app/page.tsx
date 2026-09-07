@@ -3650,6 +3650,35 @@ export default function Home() {
               <span>🏡🌌</span>
               <span>秘境百選＆天空の隠れ家・源泉秘湯オーベルジュ！祖谷渓谷・高千穂峡・秋山郷</span>
             </Link>
+            <Link
+              href="/furusato-tax-three-great-rivers-riverside-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-blue-200 bg-gradient-to-r from-cyan-950 via-blue-950 to-indigo-950 hover:from-cyan-900 hover:to-blue-900 rounded-2xl shadow-lg transition border border-blue-400/50 flex items-center gap-1.5"
+            >
+              <span>🌊🏞️</span>
+              <span>日本三大河川＆雄大な流れを望むリバーサイド名湯宿！利根川・筑後川・吉野川</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-karsts-highland-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-emerald-200 bg-gradient-to-r from-lime-950 via-teal-950 to-emerald-950 hover:from-lime-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-emerald-400/50 flex items-center gap-1.5"
+            >
+              <span>⛰️🐑</span>
+              <span>日本三大カルスト＆白銀石灰岩パノラマ・高原リゾート宿！秋吉台・四国カルスト・平尾台</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-wagyu-beef-luxury-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-rose-950 via-amber-950 to-yellow-950 hover:from-rose-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🥩👑</span>
+              <span>日本三大銘牛＆肉の芸術品・極上鉄板焼きと名湯宿！松阪牛・神戸牛・米沢牛</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-dunes-oceanview-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-orange-200 bg-gradient-to-r from-amber-950 via-orange-950 to-stone-950 hover:from-amber-900 hover:to-orange-900 rounded-2xl shadow-lg transition border border-orange-400/50 flex items-center gap-1.5"
+            >
+              <span>🏜️🌅</span>
+              <span>日本三大砂丘＆神秘の風紋パノラマ・夕日オーシャンビュー宿！鳥取砂丘・遠州砂丘・吹上浜</span>
+            </Link>
+
 
             <Link
               href="/kyoto"
