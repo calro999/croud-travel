@@ -388,6 +388,11 @@ Sitemap: ${BASE_URL}/sitemap-posts.xml
 - [日本三大陶器まつり＆名窯工芸宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-pottery-festivals-stay): 有田・波佐見・信楽の器と美食巡礼
 - [日本三大薬湯＆極上湯治リトリート宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-medicinal-hotsprings-stay): 草津・有馬・松之山の万病平癒濃厚泉
 - [日本三大名園＆大名庭園風雅宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-daimyo-gardens-stay): 偕楽園・兼六園・後楽園の大名庭園文化
+- [日本三大美港＆夜景オーシャンビュー宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-beautiful-ports-stay): 清水港・長崎港・神戸港の海風ステイ
+- [日本三大山城＆天空の雲海要塞宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-mountain-castles-stay): 大和高取城・美濃岩村城・備中松山城の天空石垣
+- [日本三大そうめん＆手延べ麺道宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-somen-noodles-stay): 三輪・播州・小豆島の手延べ極細白糸麺
+- [日本三大鍾乳石洞窟＆地底宮殿宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-stalactite-caves-stay): あぶくま洞・玉泉洞・井倉洞の奇跡の石筍
+
 
 
 
