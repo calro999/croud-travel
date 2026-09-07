@@ -431,6 +431,11 @@ Sitemap: ${BASE_URL}/sitemap-posts.xml
 - [日本三大名瀑ヒーリング＆マイナスイオンの清流・名水と豪快な滝見温泉宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-famous-waterfalls-healing-stay): 白糸の滝・吹割の滝・鮎帰りの滝の瀑布美
 - [日本三大名湯の別邸＆極上離れ・客室露天風呂とおこもり贅沢宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-hotsprings-luxury-villas-stay): 草津奈良屋・有馬瑞苑・下呂水明館の最高峰
 - [日本三大茶園＆天空の緑の絨毯・茶畑パノラマと最高峰の抹茶文化・茶香宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-tea-plantations-stay): 牧之原・宇治・八女中央大茶園の緑の丘陵
+- [日本三大渓流＆清冽なせせらぎと奇岩・渓谷美露天風呂宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-valleys-riverside-stay): 奥入瀬渓流・三段峡・御岳渓谷の清流美
+- [日本三大奇勝＆大自然の造形美・岩壁パノラマと名湯宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-great-scenic-wonders-stay): 妙義山・耶馬渓・小豆島寒霞渓の奇岩景観
+- [日本三大霊峰＆山岳信仰の聖地・雲海と高山温泉宿×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-three-sacred-mountains-stay): 富士山・立山連峰・霊峰白山の神気ステイ
+- [秘境百選＆天空の隠れ宿・源泉秘湯オーベルジュ×ふるさと納税完全ガイド](${BASE_URL}/furusato-tax-top100-hidden-paradise-stay): 祖谷渓谷・高千穂峡・信州秋山郷の桃源郷
+
 
 
 

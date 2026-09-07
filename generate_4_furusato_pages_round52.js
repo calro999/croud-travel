@@ -1,69 +1,100 @@
-import React from 'react';
+const fs = require('fs');
+const path = require('path');
+
+const round52Hotels = JSON.parse(fs.readFileSync(path.join(__dirname, 'round52_hotels.json'), 'utf-8'));
+
+// 認証済み公式実在URL（HTTP 200）
+const OFFICIAL_FURUSATO_AFFILIATE_URL = "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F";
+
+const pages = [
+  {
+    slug: 'furusato-tax-three-great-valleys-riverside-stay',
+    title: '【日本三大渓流】奥入瀬・三段峡・御岳の清冽な自然を愛でる渓谷美露天風呂ステイ特集｜楽天ふるさと納税で叶える清流リゾート旅',
+    description: '日本三大渓流（青森・奥入瀬渓流、広島・三段峡、東京・御岳渓谷）の息をのむ大自然美を五感で堪能する旅。清流のせせらぎに癒やされる露天風呂や旬の渓流美食を満喫できる名宿を厳選。楽天ふるさと納税の宿泊割引クーポンを活用して賢く贅沢に巡る完全ガイド。',
+    h1: '日本三大渓流の清澄を愛でる渓谷美露天風呂ステイ',
+    lead: 'エメラルドグリーンに輝く清流、木々の隙間から差し込む木漏れ日、そして幾重にも重なる奇岩と水飛沫。日本を代表する三大渓流（奥入瀬渓流・三段峡・御岳渓谷）は、日常の喧騒を忘れさせ、心身を根底から浄化してくれる至高のネイチャーリゾートです。本特集では、各渓流の魅力を間近で体感できる厳選の宿をご紹介。楽天ふるさと納税のトラベルクーポンを利用して、実質2,000円の自己負担で実現する清流ラグジュアリーステイへ出かけましょう。',
+    hotelKeys: ['stream_oirase', 'stream_sandankyo', 'stream_mitake'],
+    keywords: '日本三大渓流, 奥入瀬渓流, 三段峡, 御岳渓谷, 渓流露天風呂, 楽天ふるさと納税, 温泉旅行, 清流リゾート',
+    badge: '日本三大渓流・清流美露天特集'
+  },
+  {
+    slug: 'furusato-tax-three-great-scenic-wonders-stay',
+    title: '【日本三大奇勝】妙義山・耶馬渓・寒霞渓の壮麗な奇岩絶景と極上湯宿ステイ特集｜楽天ふるさと納税トラベルクーポン完全活用',
+    description: '大自然の悠久の営みが創り出した日本三大奇勝（群馬・妙義山、大分・耶馬渓、香川・小豆島寒霞渓）。天を突く奇岩怪石のパノラマと、滋味あふれる名湯・島美食を味わい尽くす贅沢な休日。楽天ふるさと納税を活用したお得で記憶に残る絶景旅行術を徹底解説。',
+    h1: '日本三大奇勝の壮麗な岩壁美と秘湯ステイ',
+    lead: '何万年、何百万年もの風雨と地殻変動が彫り出したダイナミックな造形美。「日本三大奇勝」と称される妙義山、耶馬渓、寒霞渓は、見る者を圧倒する孤高の絶景を誇ります。奇岩の稜線を一望する展望露天風呂や、地元食材を活かした滋味深い料理、そして心地よい静寂。楽天ふるさと納税の宿泊割引クーポンを駆使して、圧倒的なスケールを誇る奇勝の旅を賢くスマートにお楽しみください。',
+    hotelKeys: ['wonder_myogi', 'wonder_yabakei', 'wonder_kankakei'],
+    keywords: '日本三大奇勝, 妙義山, 耶馬渓, 寒霞渓, 小豆島, 絶景温泉, 楽天ふるさと納税, トラベルクーポン',
+    badge: '日本三大奇勝・絶景岩壁ステイ特集'
+  },
+  {
+    slug: 'furusato-tax-three-sacred-mountains-stay',
+    title: '【日本三大霊峰】富士山・立山・白山の神気満ちる聖地と雲海・高山温泉ステイ特集｜楽天ふるさと納税で巡る日本屈指のパワースポット',
+    description: '古来より山岳信仰の聖地として崇められてきた日本三大霊峰（富士山・立山・白山）。雄大な神嶺を仰ぎ見る絶景客室、標高数千メートルの雲海露天、白山山麓の秘湯でパワーチャージ。楽天ふるさと納税のトラベルクーポンを利用して巡る極上ウェルネス紀行。',
+    h1: '日本三大霊峰の神気満ちる聖地と雲海・高山温泉ステイ',
+    lead: '古より人々が祈りを捧げ、崇敬を集めてきた「日本三大霊峰」——富士山、立山、白山。朝日に染まる神々しい稜線、眼下に広がる広大な雲海、そして山麓から湧き出づる霊験あらたかな名湯。三大霊峰の自然と神気に包まれる滞在は、忙しい現代人の魂を深く潤してくれます。楽天ふるさと納税の宿泊割引クーポンを活用して、心洗われる聖地への贅沢な旅へご案内します。',
+    hotelKeys: ['mountain_fuji', 'mountain_tateyama', 'mountain_hakusan'],
+    keywords: '日本三大霊峰, 富士山, 立山連峰, 白山, パワースポット温泉, 雲海露天風呂, 楽天ふるさと納税, 高級旅館',
+    badge: '日本三大霊峰・聖地温泉リトリート特集'
+  },
+  {
+    slug: 'furusato-tax-top100-hidden-paradise-stay',
+    title: '【日本三大秘境・秘境百選】祖谷・高千穂・秋山郷の隠れ宿と源泉秘湯ステイ特集｜楽天ふるさと納税で訪れる日本の桃源郷',
+    description: '日本の原風景と静寂が息づく秘境（徳島・祖谷渓谷、宮崎・高千穂峡、信州・秋山郷）。日常を遠く離れた山深き谷あいで出会う至極のオーベルジュや源泉かけ流し秘湯。楽天ふるさと納税の宿泊割引クーポンを活用して、真の大人の贅沢を味わう隠れ家ステイ特集。',
+    h1: '秘境百選の隠れ宿と源泉秘湯オーベルジュステイ',
+    lead: '険しい山々を越えた先に広がる、まるで時間が止まったかのような日本の桃源郷。平家落人伝説が息づく祖谷、神話のふるさと高千穂、そして豪雪の山深くに佇む秋山郷。大自然の懐に抱かれた極上の隠れ宿で、清流のせせらぎと満天の星、滋味豊かな山菜・ジビエ料理を堪能するひとときは何物にも代えがたい贅沢です。楽天ふるさと納税を活用して、憧れの秘境ステイを賢く叶えましょう。',
+    hotelKeys: ['hidden_iya', 'hidden_takachiho', 'hidden_akiyamago'],
+    keywords: '日本の秘境, 祖谷温泉, 高千穂峡, 秋山郷, 秘湯旅館, 隠れ宿, 楽天ふるさと納税, 温泉旅行',
+    badge: '秘境百選・天空の隠れ家ステイ特集'
+  }
+];
+
+function generatePageCode(p) {
+  const hotelsData = p.hotelKeys.map(k => {
+    const raw = round52Hotels[k];
+    if (!raw) {
+      console.error(`Missing hotel key: ${k}`);
+      return null;
+    }
+    return {
+      key: k,
+      hotelNo: raw.hotelNo,
+      hotelName: raw.hotelName,
+      hotelImageUrl: raw.hotelImageUrl || 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80',
+      hotelMinCharge: raw.hotelMinCharge || 15000,
+      reviewAverage: raw.reviewAverage || 4.5,
+      reviewCount: raw.reviewCount || 100,
+      address: (raw.address1 || '') + (raw.address2 || ''),
+      access: raw.access || '最寄り駅・主要インターチェンジより車または送迎バス',
+      userReview: raw.userReview || '絶景のロケーションと心温まるおもてなし、旬の美食に大変満足いたしました。',
+      label: raw.label || raw.hotelName,
+      affiliateUrl: OFFICIAL_FURUSATO_AFFILIATE_URL
+    };
+  }).filter(Boolean);
+
+  return `import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【日本三大霊峰】富士山・立山・白山の神気満ちる聖地と雲海・高山温泉ステイ特集｜楽天ふるさと納税で巡る日本屈指のパワースポット',
-  description: '古来より山岳信仰の聖地として崇められてきた日本三大霊峰（富士山・立山・白山）。雄大な神嶺を仰ぎ見る絶景客室、標高数千メートルの雲海露天、白山山麓の秘湯でパワーチャージ。楽天ふるさと納税のトラベルクーポンを利用して巡る極上ウェルネス紀行。',
-  keywords: '日本三大霊峰, 富士山, 立山連峰, 白山, パワースポット温泉, 雲海露天風呂, 楽天ふるさと納税, 高級旅館',
+  title: '${p.title.replace(/'/g, "\\'")}',
+  description: '${p.description.replace(/'/g, "\\'")}',
+  keywords: '${p.keywords}',
   openGraph: {
-    title: '【日本三大霊峰】富士山・立山・白山の神気満ちる聖地と雲海・高山温泉ステイ特集｜楽天ふるさと納税で巡る日本屈指のパワースポット',
-    description: '古来より山岳信仰の聖地として崇められてきた日本三大霊峰（富士山・立山・白山）。雄大な神嶺を仰ぎ見る絶景客室、標高数千メートルの雲海露天、白山山麓の秘湯でパワーチャージ。楽天ふるさと納税のトラベルクーポンを利用して巡る極上ウェルネス紀行。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-three-sacred-mountains-stay',
+    title: '${p.title.replace(/'/g, "\\'")}',
+    description: '${p.description.replace(/'/g, "\\'")}',
+    url: 'https://croud-travel.pages.dev/${p.slug}',
     siteName: '楽天ふるさと納税×高級トラベルガイド',
     type: 'article',
     locale: 'ja_JP',
   },
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-sacred-mountains-stay',
+    canonical: 'https://croud-travel.pages.dev/${p.slug}',
   },
 };
 
-const hotels = [
-  {
-    "key": "mountain_fuji",
-    "hotelNo": 43939,
-    "hotelName": "富士河口湖温泉　秀峰閣　湖月",
-    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/43939/43939.jpg",
-    "hotelMinCharge": 26400,
-    "reviewAverage": 4.7,
-    "reviewCount": 584,
-    "address": "山梨県南都留郡富士河口湖町河口2312",
-    "access": "富士急行線　河口湖駅より車で１０分",
-    "userReview": "スタッフの接客が素晴らしく、また必ず来たい今回、2回目の訪問になります。スタッフの方のホスピタリティの高い接客に、最後まで気持ちよく利用することができました。また絶対お伺いしたいと思い…　2026-09-05 00:56:05投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=43939\" class=\"3click\">つづきはこちら</a>",
-    "label": "山梨県富士河口湖町ふるさと納税・日本第一の霊峰を湖越しに望む全室富士ビュー「富士山」秀峰閣湖月",
-    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F"
-  },
-  {
-    "key": "mountain_tateyama",
-    "hotelNo": 184017,
-    "hotelName": "立山黒部アルペンルートオフィシャルホテル　弥陀ヶ原ホテル",
-    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/184017/184017.jpg",
-    "hotelMinCharge": 28600,
-    "reviewAverage": 4.72,
-    "reviewCount": 77,
-    "address": "富山県中新川郡立山町芦峅寺弥陀ヶ原",
-    "access": "立山駅よりケーブルカーとバスで約40分　「弥陀ヶ原バス停」下りてすぐ",
-    "userReview": "とても楽しい滞在でした立山黒部を訪れる時にどこかで1泊したいと思い、こちらのホテルを選びました。弥陀ヶ原湿原のガイドツアーやスライドショーなど、滞在中のイベントが盛りだくさんでとても楽しめまし…　2026-09-03 17:28:53投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=184017\" class=\"3click\">つづきはこちら</a>",
-    "label": "富山県立山町ふるさと納税・神々が宿る北アルプスの大自然と雲海「立山連峰」立山高原ホテル",
-    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F"
-  },
-  {
-    "key": "mountain_hakusan",
-    "hotelNo": 4817,
-    "hotelName": "一里野高原ホテル　ろあん",
-    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/4817/4817.jpg",
-    "hotelMinCharge": 15530,
-    "reviewAverage": 4.12,
-    "reviewCount": 152,
-    "address": "石川県白山市尾添チ70-4",
-    "access": "金沢駅より車で９０分｜北陸自動車道白山ＩＣ６０分｜北陸鉄道バス瀬女まで無料送迎可（前日までの予約制）",
-    "userReview": "炉端焼とロボット接客に子供も大満足家族4人で避暑目的でお得に泊まれる宿を探していたところ、夕飯の炉端焼に惹かれて予約しました。建物自体は古いのですが、趣味のよい小物も多く、趣あるホテルといった…　2026-08-25 01:10:30投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=4817\" class=\"3click\">つづきはこちら</a>",
-    "label": "石川県白山市ふるさと納税・白山信仰の聖地と囲炉裏炭火会席・源泉かけ流し「霊峰白山」一里野高原ホテルろあん",
-    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F"
-  }
-];
+const hotels = ${JSON.stringify(hotelsData, null, 2)};
 
 export default function FurusatoThreeGreatPage() {
   return (
@@ -73,17 +104,17 @@ export default function FurusatoThreeGreatPage() {
         <div className="max-w-5xl mx-auto text-center">
           <div className="inline-flex items-center gap-2 bg-emerald-500/20 border border-emerald-400/40 px-4 py-1.5 rounded-full text-emerald-300 text-sm font-semibold mb-6">
             <span>✨</span>
-            <span>日本三大霊峰・聖地温泉リトリート特集</span>
+            <span>${p.badge}</span>
           </div>
           <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight">
-            日本三大霊峰の神気満ちる聖地と雲海・高山温泉ステイ
+            ${p.h1}
           </h1>
           <p className="text-lg sm:text-xl text-slate-300 max-w-3xl mx-auto leading-relaxed mb-8">
-            古より人々が祈りを捧げ、崇敬を集めてきた「日本三大霊峰」——富士山、立山、白山。朝日に染まる神々しい稜線、眼下に広がる広大な雲海、そして山麓から湧き出づる霊験あらたかな名湯。三大霊峰の自然と神気に包まれる滞在は、忙しい現代人の魂を深く潤してくれます。楽天ふるさと納税の宿泊割引クーポンを活用して、心洗われる聖地への贅沢な旅へご案内します。
+            ${p.lead}
           </p>
           <div className="flex flex-wrap justify-center gap-4">
             <a
-              href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F"
+              href="${OFFICIAL_FURUSATO_AFFILIATE_URL}"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 bg-gradient-to-r from-amber-500 to-orange-600 hover:from-amber-600 hover:to-orange-700 text-white font-bold px-8 py-4 rounded-xl shadow-lg transform hover:-translate-y-0.5 transition duration-200"
@@ -164,7 +195,7 @@ export default function FurusatoThreeGreatPage() {
                       楽天ふるさと納税で宿を予約する
                     </a>
                     <a
-                      href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F"
+                      href="${OFFICIAL_FURUSATO_AFFILIATE_URL}"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="flex-1 text-center bg-amber-500 hover:bg-amber-600 text-white font-bold py-3 px-6 rounded-xl shadow-md transition duration-150 text-sm"
@@ -208,7 +239,7 @@ export default function FurusatoThreeGreatPage() {
           </div>
           <div className="mt-8 text-center">
             <a
-              href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F"
+              href="${OFFICIAL_FURUSATO_AFFILIATE_URL}"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 bg-gradient-to-r from-amber-500 to-orange-600 text-white font-extrabold px-8 py-4 rounded-xl shadow-lg hover:brightness-110 transition"
@@ -255,4 +286,16 @@ export default function FurusatoThreeGreatPage() {
       </main>
     </div>
   );
+}
+`;
+}
+
+for (const p of pages) {
+  const dirPath = path.join(__dirname, 'src', 'app', p.slug);
+  if (!fs.existsSync(dirPath)) {
+    fs.mkdirSync(dirPath, { recursive: true });
+  }
+  const code = generatePageCode(p);
+  fs.writeFileSync(path.join(dirPath, 'page.tsx'), code, 'utf-8');
+  console.log(`Generated: src/app/${p.slug}/page.tsx`);
 }

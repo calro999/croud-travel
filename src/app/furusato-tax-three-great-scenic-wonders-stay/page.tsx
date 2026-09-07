@@ -4,63 +4,63 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【日本三大霊峰】富士山・立山・白山の神気満ちる聖地と雲海・高山温泉ステイ特集｜楽天ふるさと納税で巡る日本屈指のパワースポット',
-  description: '古来より山岳信仰の聖地として崇められてきた日本三大霊峰（富士山・立山・白山）。雄大な神嶺を仰ぎ見る絶景客室、標高数千メートルの雲海露天、白山山麓の秘湯でパワーチャージ。楽天ふるさと納税のトラベルクーポンを利用して巡る極上ウェルネス紀行。',
-  keywords: '日本三大霊峰, 富士山, 立山連峰, 白山, パワースポット温泉, 雲海露天風呂, 楽天ふるさと納税, 高級旅館',
+  title: '【日本三大奇勝】妙義山・耶馬渓・寒霞渓の壮麗な奇岩絶景と極上湯宿ステイ特集｜楽天ふるさと納税トラベルクーポン完全活用',
+  description: '大自然の悠久の営みが創り出した日本三大奇勝（群馬・妙義山、大分・耶馬渓、香川・小豆島寒霞渓）。天を突く奇岩怪石のパノラマと、滋味あふれる名湯・島美食を味わい尽くす贅沢な休日。楽天ふるさと納税を活用したお得で記憶に残る絶景旅行術を徹底解説。',
+  keywords: '日本三大奇勝, 妙義山, 耶馬渓, 寒霞渓, 小豆島, 絶景温泉, 楽天ふるさと納税, トラベルクーポン',
   openGraph: {
-    title: '【日本三大霊峰】富士山・立山・白山の神気満ちる聖地と雲海・高山温泉ステイ特集｜楽天ふるさと納税で巡る日本屈指のパワースポット',
-    description: '古来より山岳信仰の聖地として崇められてきた日本三大霊峰（富士山・立山・白山）。雄大な神嶺を仰ぎ見る絶景客室、標高数千メートルの雲海露天、白山山麓の秘湯でパワーチャージ。楽天ふるさと納税のトラベルクーポンを利用して巡る極上ウェルネス紀行。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-three-sacred-mountains-stay',
+    title: '【日本三大奇勝】妙義山・耶馬渓・寒霞渓の壮麗な奇岩絶景と極上湯宿ステイ特集｜楽天ふるさと納税トラベルクーポン完全活用',
+    description: '大自然の悠久の営みが創り出した日本三大奇勝（群馬・妙義山、大分・耶馬渓、香川・小豆島寒霞渓）。天を突く奇岩怪石のパノラマと、滋味あふれる名湯・島美食を味わい尽くす贅沢な休日。楽天ふるさと納税を活用したお得で記憶に残る絶景旅行術を徹底解説。',
+    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-scenic-wonders-stay',
     siteName: '楽天ふるさと納税×高級トラベルガイド',
     type: 'article',
     locale: 'ja_JP',
   },
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-sacred-mountains-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-great-scenic-wonders-stay',
   },
 };
 
 const hotels = [
   {
-    "key": "mountain_fuji",
-    "hotelNo": 43939,
-    "hotelName": "富士河口湖温泉　秀峰閣　湖月",
-    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/43939/43939.jpg",
-    "hotelMinCharge": 26400,
-    "reviewAverage": 4.7,
-    "reviewCount": 584,
-    "address": "山梨県南都留郡富士河口湖町河口2312",
-    "access": "富士急行線　河口湖駅より車で１０分",
-    "userReview": "スタッフの接客が素晴らしく、また必ず来たい今回、2回目の訪問になります。スタッフの方のホスピタリティの高い接客に、最後まで気持ちよく利用することができました。また絶対お伺いしたいと思い…　2026-09-05 00:56:05投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=43939\" class=\"3click\">つづきはこちら</a>",
-    "label": "山梨県富士河口湖町ふるさと納税・日本第一の霊峰を湖越しに望む全室富士ビュー「富士山」秀峰閣湖月",
+    "key": "wonder_myogi",
+    "hotelNo": 29835,
+    "hotelName": "妙義温泉　妙義グリーンホテル＆テラス",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29835/29835.jpg",
+    "hotelMinCharge": 9070,
+    "reviewAverage": 4.28,
+    "reviewCount": 1894,
+    "address": "群馬県富岡市妙義町菅原2678",
+    "access": "JR松井田駅よりタクシー12分／磯部駅よりタクシー17分／松井田妙義IC（上信越自動車道）より１２分",
+    "userReview": "食事のクオリティが高く妙義山の絶景に満足炭酸水素塩泉の温泉と飲み放題を楽しみに予約しました。温泉は期待した程のとろみは無く、若干塩素が強く感じました。ゴルフ帰りの大勢の人たちが利用する日帰り温泉で…　2026-09-04 16:39:12投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=29835\" class=\"3click\">つづきはこちら</a>",
+    "label": "群馬県富岡市ふるさと納税・天を衝く奇岩怪石のパノラマと自家源泉「上毛三山・妙義山」妙義グリーンホテル＆テラス",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F"
   },
   {
-    "key": "mountain_tateyama",
-    "hotelNo": 184017,
-    "hotelName": "立山黒部アルペンルートオフィシャルホテル　弥陀ヶ原ホテル",
-    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/184017/184017.jpg",
-    "hotelMinCharge": 28600,
-    "reviewAverage": 4.72,
-    "reviewCount": 77,
-    "address": "富山県中新川郡立山町芦峅寺弥陀ヶ原",
-    "access": "立山駅よりケーブルカーとバスで約40分　「弥陀ヶ原バス停」下りてすぐ",
-    "userReview": "とても楽しい滞在でした立山黒部を訪れる時にどこかで1泊したいと思い、こちらのホテルを選びました。弥陀ヶ原湿原のガイドツアーやスライドショーなど、滞在中のイベントが盛りだくさんでとても楽しめまし…　2026-09-03 17:28:53投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=184017\" class=\"3click\">つづきはこちら</a>",
-    "label": "富山県立山町ふるさと納税・神々が宿る北アルプスの大自然と雲海「立山連峰」立山高原ホテル",
+    "key": "wonder_yabakei",
+    "hotelNo": 43951,
+    "hotelName": "耶馬渓山荘　えぼしや",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/43951/43951.jpg",
+    "hotelMinCharge": 2000,
+    "reviewAverage": 3.39,
+    "reviewCount": 108,
+    "address": "大分県中津市耶馬溪町深耶馬3155-16",
+    "access": "ＪＲ　豊後森駅から車で１５分（バスで３０分）／中津駅より５０分（バスで１時間３０分）",
+    "userReview": "貸切風呂は良かったが衛生面と臭いが気になるすみませんが衛生面がなんともいいがたし、部屋はかび臭いのできになりました。風呂は貸し切りで良かったですねクチコミの詳細はこちらから　https://r…　2026-07-25 06:04:30投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=43951\" class=\"3click\">つづきはこちら</a>",
+    "label": "大分県中津市ふるさと納税・日本新三景・奇岩と紅葉の渓谷美「耶馬渓」中津温泉ステイ",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F"
   },
   {
-    "key": "mountain_hakusan",
-    "hotelNo": 4817,
-    "hotelName": "一里野高原ホテル　ろあん",
-    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/4817/4817.jpg",
-    "hotelMinCharge": 15530,
-    "reviewAverage": 4.12,
-    "reviewCount": 152,
-    "address": "石川県白山市尾添チ70-4",
-    "access": "金沢駅より車で９０分｜北陸自動車道白山ＩＣ６０分｜北陸鉄道バス瀬女まで無料送迎可（前日までの予約制）",
-    "userReview": "炉端焼とロボット接客に子供も大満足家族4人で避暑目的でお得に泊まれる宿を探していたところ、夕飯の炉端焼に惹かれて予約しました。建物自体は古いのですが、趣味のよい小物も多く、趣あるホテルといった…　2026-08-25 01:10:30投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=4817\" class=\"3click\">つづきはこちら</a>",
-    "label": "石川県白山市ふるさと納税・白山信仰の聖地と囲炉裏炭火会席・源泉かけ流し「霊峰白山」一里野高原ホテルろあん",
+    "key": "wonder_kankakei",
+    "hotelNo": 17990,
+    "hotelName": "小豆島国際ホテル　＜小豆島＞",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/17990/17990.jpg",
+    "hotelMinCharge": 8800,
+    "reviewAverage": 4.38,
+    "reviewCount": 2087,
+    "address": "香川県小豆郡土庄町　甲　24-67",
+    "access": "土庄港よりお車にて約７分",
+    "userReview": "エンジェルロードを望む絶景と美味しいご飯エンジェルロード真横で部屋から状況が見れるのがとても良かったです!晩御飯のお魚もとっても美味しくて、醤油の名産地ということもあり3種類準備されていて色ん…　2026-09-02 19:35:56投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=17990\" class=\"3click\">つづきはこちら</a>",
+    "label": "香川県土庄町ふるさと納税・日本三大渓谷美・寒霞渓とエンジェルロード「小豆島国際ホテル」",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F"
   }
 ];
@@ -73,13 +73,13 @@ export default function FurusatoThreeGreatPage() {
         <div className="max-w-5xl mx-auto text-center">
           <div className="inline-flex items-center gap-2 bg-emerald-500/20 border border-emerald-400/40 px-4 py-1.5 rounded-full text-emerald-300 text-sm font-semibold mb-6">
             <span>✨</span>
-            <span>日本三大霊峰・聖地温泉リトリート特集</span>
+            <span>日本三大奇勝・絶景岩壁ステイ特集</span>
           </div>
           <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight">
-            日本三大霊峰の神気満ちる聖地と雲海・高山温泉ステイ
+            日本三大奇勝の壮麗な岩壁美と秘湯ステイ
           </h1>
           <p className="text-lg sm:text-xl text-slate-300 max-w-3xl mx-auto leading-relaxed mb-8">
-            古より人々が祈りを捧げ、崇敬を集めてきた「日本三大霊峰」——富士山、立山、白山。朝日に染まる神々しい稜線、眼下に広がる広大な雲海、そして山麓から湧き出づる霊験あらたかな名湯。三大霊峰の自然と神気に包まれる滞在は、忙しい現代人の魂を深く潤してくれます。楽天ふるさと納税の宿泊割引クーポンを活用して、心洗われる聖地への贅沢な旅へご案内します。
+            何万年、何百万年もの風雨と地殻変動が彫り出したダイナミックな造形美。「日本三大奇勝」と称される妙義山、耶馬渓、寒霞渓は、見る者を圧倒する孤高の絶景を誇ります。奇岩の稜線を一望する展望露天風呂や、地元食材を活かした滋味深い料理、そして心地よい静寂。楽天ふるさと納税の宿泊割引クーポンを駆使して、圧倒的なスケールを誇る奇勝の旅を賢くスマートにお楽しみください。
           </p>
           <div className="flex flex-wrap justify-center gap-4">
             <a

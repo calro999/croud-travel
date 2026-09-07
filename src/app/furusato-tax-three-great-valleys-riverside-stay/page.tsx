@@ -4,63 +4,63 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【日本三大霊峰】富士山・立山・白山の神気満ちる聖地と雲海・高山温泉ステイ特集｜楽天ふるさと納税で巡る日本屈指のパワースポット',
-  description: '古来より山岳信仰の聖地として崇められてきた日本三大霊峰（富士山・立山・白山）。雄大な神嶺を仰ぎ見る絶景客室、標高数千メートルの雲海露天、白山山麓の秘湯でパワーチャージ。楽天ふるさと納税のトラベルクーポンを利用して巡る極上ウェルネス紀行。',
-  keywords: '日本三大霊峰, 富士山, 立山連峰, 白山, パワースポット温泉, 雲海露天風呂, 楽天ふるさと納税, 高級旅館',
+  title: '【日本三大渓流】奥入瀬・三段峡・御岳の清冽な自然を愛でる渓谷美露天風呂ステイ特集｜楽天ふるさと納税で叶える清流リゾート旅',
+  description: '日本三大渓流（青森・奥入瀬渓流、広島・三段峡、東京・御岳渓谷）の息をのむ大自然美を五感で堪能する旅。清流のせせらぎに癒やされる露天風呂や旬の渓流美食を満喫できる名宿を厳選。楽天ふるさと納税の宿泊割引クーポンを活用して賢く贅沢に巡る完全ガイド。',
+  keywords: '日本三大渓流, 奥入瀬渓流, 三段峡, 御岳渓谷, 渓流露天風呂, 楽天ふるさと納税, 温泉旅行, 清流リゾート',
   openGraph: {
-    title: '【日本三大霊峰】富士山・立山・白山の神気満ちる聖地と雲海・高山温泉ステイ特集｜楽天ふるさと納税で巡る日本屈指のパワースポット',
-    description: '古来より山岳信仰の聖地として崇められてきた日本三大霊峰（富士山・立山・白山）。雄大な神嶺を仰ぎ見る絶景客室、標高数千メートルの雲海露天、白山山麓の秘湯でパワーチャージ。楽天ふるさと納税のトラベルクーポンを利用して巡る極上ウェルネス紀行。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-three-sacred-mountains-stay',
+    title: '【日本三大渓流】奥入瀬・三段峡・御岳の清冽な自然を愛でる渓谷美露天風呂ステイ特集｜楽天ふるさと納税で叶える清流リゾート旅',
+    description: '日本三大渓流（青森・奥入瀬渓流、広島・三段峡、東京・御岳渓谷）の息をのむ大自然美を五感で堪能する旅。清流のせせらぎに癒やされる露天風呂や旬の渓流美食を満喫できる名宿を厳選。楽天ふるさと納税の宿泊割引クーポンを活用して賢く贅沢に巡る完全ガイド。',
+    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-valleys-riverside-stay',
     siteName: '楽天ふるさと納税×高級トラベルガイド',
     type: 'article',
     locale: 'ja_JP',
   },
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-sacred-mountains-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-great-valleys-riverside-stay',
   },
 };
 
 const hotels = [
   {
-    "key": "mountain_fuji",
-    "hotelNo": 43939,
-    "hotelName": "富士河口湖温泉　秀峰閣　湖月",
-    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/43939/43939.jpg",
-    "hotelMinCharge": 26400,
-    "reviewAverage": 4.7,
-    "reviewCount": 584,
-    "address": "山梨県南都留郡富士河口湖町河口2312",
-    "access": "富士急行線　河口湖駅より車で１０分",
-    "userReview": "スタッフの接客が素晴らしく、また必ず来たい今回、2回目の訪問になります。スタッフの方のホスピタリティの高い接客に、最後まで気持ちよく利用することができました。また絶対お伺いしたいと思い…　2026-09-05 00:56:05投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=43939\" class=\"3click\">つづきはこちら</a>",
-    "label": "山梨県富士河口湖町ふるさと納税・日本第一の霊峰を湖越しに望む全室富士ビュー「富士山」秀峰閣湖月",
+    "key": "stream_oirase",
+    "hotelNo": 40434,
+    "hotelName": "奥入瀬渓流ホテル　ｂｙ　星野リゾート",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40434/40434.jpg",
+    "hotelMinCharge": 27500,
+    "reviewAverage": 4.36,
+    "reviewCount": 1267,
+    "address": "青森県十和田市奥瀬栃久保231",
+    "access": "東北新幹線　八戸駅／無料送迎バス（要予約）、青森駅／有料送迎バス（要予約）、ＪＲバス　十和田湖行き、焼山下車",
+    "userReview": "期待していた分、全体的に普通で残念な印象初めて星野リゾートのホテルを利用するので楽しみにしていましたが、案外普通だったなという印象です。大浴場も特にこれといった特色もなく、1日目は露天風呂に枯…　2026-08-26 08:10:07投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=40434\" class=\"3click\">つづきはこちら</a>",
+    "label": "青森県十和田市ふるさと納税・原生林と無数の滝が織りなす清冽な渓流美「奥入瀬渓流」星野リゾート奥入瀬渓流ホテル",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F"
   },
   {
-    "key": "mountain_tateyama",
-    "hotelNo": 184017,
-    "hotelName": "立山黒部アルペンルートオフィシャルホテル　弥陀ヶ原ホテル",
-    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/184017/184017.jpg",
-    "hotelMinCharge": 28600,
-    "reviewAverage": 4.72,
-    "reviewCount": 77,
-    "address": "富山県中新川郡立山町芦峅寺弥陀ヶ原",
-    "access": "立山駅よりケーブルカーとバスで約40分　「弥陀ヶ原バス停」下りてすぐ",
-    "userReview": "とても楽しい滞在でした立山黒部を訪れる時にどこかで1泊したいと思い、こちらのホテルを選びました。弥陀ヶ原湿原のガイドツアーやスライドショーなど、滞在中のイベントが盛りだくさんでとても楽しめまし…　2026-09-03 17:28:53投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=184017\" class=\"3click\">つづきはこちら</a>",
-    "label": "富山県立山町ふるさと納税・神々が宿る北アルプスの大自然と雲海「立山連峰」立山高原ホテル",
+    "key": "stream_sandankyo",
+    "hotelNo": 141106,
+    "hotelName": "筒賀温泉　グリーンスパつつが",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/141106/141106.jpg",
+    "hotelMinCharge": 5830,
+    "reviewAverage": 4.06,
+    "reviewCount": 80,
+    "address": "広島県山県郡安芸太田町中筒賀才之峠280",
+    "access": "中国自動車道戸河内ＩＣから約５分",
+    "userReview": "年季とノスタルジー、高台からの絶景少し年季が入っていますが、その分ノスタルジーを感じられました。掃除は行き届いていましたし、高台にあるので部屋や大浴場からの景色はとても良かったです。クチコミの…　2026-04-01 09:47:57投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=141106\" class=\"3click\">つづきはこちら</a>",
+    "label": "広島県安芸太田町ふるさと納税・国の特別名勝・三段峡の玄関口「温井温泉 温井スプリングス」",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F"
   },
   {
-    "key": "mountain_hakusan",
-    "hotelNo": 4817,
-    "hotelName": "一里野高原ホテル　ろあん",
-    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/4817/4817.jpg",
-    "hotelMinCharge": 15530,
-    "reviewAverage": 4.12,
-    "reviewCount": 152,
-    "address": "石川県白山市尾添チ70-4",
-    "access": "金沢駅より車で９０分｜北陸自動車道白山ＩＣ６０分｜北陸鉄道バス瀬女まで無料送迎可（前日までの予約制）",
-    "userReview": "炉端焼とロボット接客に子供も大満足家族4人で避暑目的でお得に泊まれる宿を探していたところ、夕飯の炉端焼に惹かれて予約しました。建物自体は古いのですが、趣味のよい小物も多く、趣あるホテルといった…　2026-08-25 01:10:30投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=4817\" class=\"3click\">つづきはこちら</a>",
-    "label": "石川県白山市ふるさと納税・白山信仰の聖地と囲炉裏炭火会席・源泉かけ流し「霊峰白山」一里野高原ホテルろあん",
+    "key": "stream_mitake",
+    "hotelNo": 134902,
+    "hotelName": "東京　奥多摩温泉　おくたま路　（２０２６年７月リニューアルオープン）",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/134902/134902.jpg",
+    "hotelMinCharge": 19950,
+    "reviewAverage": 4.42,
+    "reviewCount": 411,
+    "address": "東京都青梅市二俣尾2-371",
+    "access": "JR青梅線 石神前駅より徒歩にて10分（二俣尾駅下車 徒歩約15分）　送迎：送りのみ定期便運行（チェックイン時要予約）",
+    "userReview": "リニューアルで綺麗、オールインクルーシブを満喫リニューアルしたてで、とても綺麗でした。ロビー近くのお部屋でしたので、オールインクルーシブを満喫できました。朝食時、ご飯、お味噌汁の列に並んだ時間…　2026-09-05 05:48:57投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=134902\" class=\"3click\">つづきはこちら</a>",
+    "label": "東京都青梅市ふるさと納税・御岳渓谷の清流と奥多摩の山並みを望む「亀の井ホテル 青梅」",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F"
   }
 ];
@@ -73,13 +73,13 @@ export default function FurusatoThreeGreatPage() {
         <div className="max-w-5xl mx-auto text-center">
           <div className="inline-flex items-center gap-2 bg-emerald-500/20 border border-emerald-400/40 px-4 py-1.5 rounded-full text-emerald-300 text-sm font-semibold mb-6">
             <span>✨</span>
-            <span>日本三大霊峰・聖地温泉リトリート特集</span>
+            <span>日本三大渓流・清流美露天特集</span>
           </div>
           <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight">
-            日本三大霊峰の神気満ちる聖地と雲海・高山温泉ステイ
+            日本三大渓流の清澄を愛でる渓谷美露天風呂ステイ
           </h1>
           <p className="text-lg sm:text-xl text-slate-300 max-w-3xl mx-auto leading-relaxed mb-8">
-            古より人々が祈りを捧げ、崇敬を集めてきた「日本三大霊峰」——富士山、立山、白山。朝日に染まる神々しい稜線、眼下に広がる広大な雲海、そして山麓から湧き出づる霊験あらたかな名湯。三大霊峰の自然と神気に包まれる滞在は、忙しい現代人の魂を深く潤してくれます。楽天ふるさと納税の宿泊割引クーポンを活用して、心洗われる聖地への贅沢な旅へご案内します。
+            エメラルドグリーンに輝く清流、木々の隙間から差し込む木漏れ日、そして幾重にも重なる奇岩と水飛沫。日本を代表する三大渓流（奥入瀬渓流・三段峡・御岳渓谷）は、日常の喧騒を忘れさせ、心身を根底から浄化してくれる至高のネイチャーリゾートです。本特集では、各渓流の魅力を間近で体感できる厳選の宿をご紹介。楽天ふるさと納税のトラベルクーポンを利用して、実質2,000円の自己負担で実現する清流ラグジュアリーステイへ出かけましょう。
           </p>
           <div className="flex flex-wrap justify-center gap-4">
             <a
