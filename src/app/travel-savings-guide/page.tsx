@@ -414,6 +414,12 @@ export default function TravelSavingsGuide() {
                     <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">最高級黒毛和牛ステーキ＆鉄板焼きカウンター宿</span>
                   </Link>
                 </li>
+                                <li key="furusato-tax-fresh-sushi-kaiseki-gourmet-inn-stay">
+                  <Link href="/furusato-tax-fresh-sushi-kaiseki-gourmet-inn-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                    <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
+                    <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">【漁港直送・極上寿司会席×ふるさと納税】加賀・東伊豆・伊東の職人握りと名湯温泉宿</span>
+                  </Link>
+                </li>
                 <li key="furusato-tax-local-gourmet-inn-stay">
                   <Link href="/furusato-tax-local-gourmet-inn-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                     <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
@@ -1616,6 +1622,12 @@ export default function TravelSavingsGuide() {
                     <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">世界遺産・熊野古道の祈りの巡礼路と名湯宿</span>
                   </Link>
                 </li>
+                                <li key="furusato-tax-private-room-sauna-totonoi-villa-stay">
+                  <Link href="/furusato-tax-private-room-sauna-totonoi-villa-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                    <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
+                    <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">【客室専用サウナ＆ととのいヴィラ×ふるさと納税】熱海・河口湖・霧島のセルフロウリュ＆天然水風呂宿</span>
+                  </Link>
+                </li>
                 <li key="furusato-tax-kura-sauna-private-villa-charter-stay">
                   <Link href="/furusato-tax-kura-sauna-private-villa-charter-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                     <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
@@ -1638,6 +1650,12 @@ export default function TravelSavingsGuide() {
                   <Link href="/furusato-tax-preservation-districts-heritage-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                     <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
                     <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">重要伝統的建造物群保存地区（重伝建）の歴史町家宿</span>
+                  </Link>
+                </li>
+                                <li key="furusato-tax-private-pool-luxury-suite-villa-stay">
+                  <Link href="/furusato-tax-private-pool-luxury-suite-villa-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                    <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
+                    <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">【プライベートプール付きヴィラ×ふるさと納税】沖縄・宮古島・房総の完全独立型ラグジュアリーステイ</span>
                   </Link>
                 </li>
                 <li key="furusato-tax-private-villa-hanare-hideaway-stay">
@@ -1789,7 +1807,7 @@ export default function TravelSavingsGuide() {
                 <h3 className="text-lg font-bold text-stone-800 flex items-center gap-2">
                   <span className="text-xl">🎆</span>
                   祭り・花火・イベント
-                  <span className="text-xs font-normal text-stone-400 ml-1">(7件)</span>
+                  <span className="text-xs font-normal text-stone-400 ml-1">(8件)</span>
                 </h3>
                 <p className="text-xs text-stone-500 mt-1">三大祭り・花火大会・奇祭・七夕——熱狂と感動を共有する日本の夏と伝統行事</p>
               </div>
@@ -2084,6 +2102,12 @@ export default function TravelSavingsGuide() {
                   <Link href="/furusato-tax-themepark-aquarium-family-hotel-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                     <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
                     <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">水族館・テーマパーク直結ホテル×ふるさと納税活用ガイド【2026年最新】鴨川・白浜・富士急のパスポート付き宿泊パック</span>
+                  </Link>
+                </li>
+                                <li key="furusato-tax-kanreki-celebration-oyakoukou-onsen-stay">
+                  <Link href="/furusato-tax-kanreki-celebration-oyakoukou-onsen-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                    <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
+                    <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">【還暦・長寿祝い＆親孝行×ふるさと納税】有馬・金沢湯涌・淡路島のバリアフリー名門旅館ガイド</span>
                   </Link>
                 </li>
                 <li key="furusato-tax-three-generation-family-luxury-stay">
