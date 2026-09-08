@@ -94,6 +94,7 @@ export default function TravelSavingsGuide() {
           <ol className="space-y-2 text-sm text-stone-600">
             <li><a href="#methods" className="hover:text-amber-700 transition">1. 旅行費を安くする7つの方法</a></li>
             <li><a href="#furusato" className="hover:text-amber-700 transition">2. 最もインパクトの大きい節約法——ふるさと納税×旅行の仕組み</a></li>
+            <li><Link href="/furusato-tax-travel-beginners-complete-guide" className="text-amber-700 font-bold hover:underline transition flex items-center gap-1">👉 【完全初心者向け】確定申告不要・スマホ申請・失敗しない使い方はこちら</Link></li>
             <li><a href="#howto" className="hover:text-amber-700 transition">3. ふるさと納税トラベルクーポンの使い方3ステップ</a></li>
             <li><a href="#faq" className="hover:text-amber-700 transition">4. よくある質問</a></li>
             <li><a href="#guides" className="hover:text-amber-700 transition">5. テーマ別おすすめ宿ガイド一覧（238件）</a></li>
@@ -251,6 +252,27 @@ export default function TravelSavingsGuide() {
                 </div>
               </div>
               <p className="text-xs text-stone-400 mt-2">※金額はあくまで概算です。家族構成や他の控除により異なります。詳しくは各ふるさと納税サイトのシミュレーターをご利用ください。</p>
+            </div>
+
+            {/* 初心者向けマニュアルへの誘導カード */}
+            <div className="mt-6 bg-gradient-to-r from-amber-50 to-orange-50 rounded-2xl p-5 md:p-6 border border-amber-300 shadow-sm flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
+              <div>
+                <span className="inline-block bg-amber-600 text-white text-[10px] font-bold px-2 py-0.5 rounded-full mb-1">
+                  完全初心者でも安心！
+                </span>
+                <h4 className="text-base font-bold text-stone-900">
+                  「一度もやったことがない」「確定申告が不安」な方はこちら
+                </h4>
+                <p className="text-xs text-stone-600 mt-1">
+                  なぜ実質2,000円になるのかのお金の流れ図、スマホで5分で終わるワンストップ申請、初心者がやりがちな失敗例などを別記事で1から丁寧に図解しています。
+                </p>
+              </div>
+              <Link
+                href="/furusato-tax-travel-beginners-complete-guide"
+                className="shrink-0 inline-flex items-center gap-2 bg-stone-900 text-amber-300 hover:bg-stone-800 font-bold px-5 py-3 rounded-xl text-xs md:text-sm shadow-md transition"
+              >
+                初心者向け完全マニュアルを読む ➔
+              </Link>
             </div>
           </div>
         </section>
@@ -1966,11 +1988,17 @@ export default function TravelSavingsGuide() {
                 <h3 className="text-lg font-bold text-stone-800 flex items-center gap-2">
                   <span className="text-xl">📖</span>
                   ふるさと納税 使い方ガイド
-                  <span className="text-xs font-normal text-stone-400 ml-1">(1件)</span>
+                  <span className="text-xs font-normal text-stone-400 ml-1">(2件)</span>
                 </h3>
-                <p className="text-xs text-stone-500 mt-1">予約済みでも使えるあとから適用テクなど、実践ノウハウはこちら</p>
+                <p className="text-xs text-stone-500 mt-1">初心者向けマニュアルや予約済みでも使えるあとから適用テクなど、実践ノウハウはこちら</p>
               </div>
               <ul className="p-4 grid gap-0.5 sm:grid-cols-2">
+                <li key="furusato-tax-travel-beginners-complete-guide">
+                  <Link href="/furusato-tax-travel-beginners-complete-guide" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                    <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
+                    <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed font-bold">【超初心者向け】ふるさと納税で旅行・ホテルに安く泊まる完全マニュアル（仕組み・お金の流れ・失敗しない使い方）</span>
+                  </Link>
+                </li>
                 <li key="furusato-tax-travel-after-booking-discount-guide">
                   <Link href="/furusato-tax-travel-after-booking-discount-guide" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                     <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
