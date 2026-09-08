@@ -309,6 +309,9 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【おすすめ宿】全室源泉掛け流し温泉付離れの旅館　四季の杜　紫尾庵の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/143298): 全室源泉掛け流し温泉付離れの旅館　四季の杜　紫尾庵（鹿児島県）
+- [【埼玉県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/37459): ホテルルートイン本庄駅南（埼玉県）
+- [【おすすめ宿】関温泉　登美屋旅館の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/76909): 関温泉　登美屋旅館（新潟県）
 - [【山形県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/76918): 肘折温泉　松井旅館（山形県）
 - [【おすすめ宿】川湯温泉　山水館　川湯みどりやの魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/38558): 川湯温泉　山水館　川湯みどりや（大阪府）
 - [【福岡県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/7251): ホテルクリオコート博多（福岡県）
@@ -356,6 +359,3 @@
 - [【鹿児島・指宿温泉】名物「天然砂むし温泉」と絶景露天風呂の宿7選！薩摩富士・開聞岳と黒豚会席](https://croud-travel.pages.dev/posts/ibusuki-onsen-sand-bath-kaimondake-guide): 指宿温泉　いぶすき秀水園（鹿児島県）
 - [【群馬・伊香保温泉】365段の石段街散策＆黄金の湯・白銀の湯おすすめ宿7選！名物水沢うどん](https://croud-travel.pages.dev/posts/ikaho-onsen-stone-steps-golden-bath-guide): 伊香保温泉　森秋旅館（群馬県）
 - [【定山渓温泉】札幌から1時間！渓谷美露天風呂＆本格サウナが自慢の人気宿7選](https://croud-travel.pages.dev/posts/jozankei-onsen-sapporo-gorge-sauna-guide): 定山渓温泉　章月グランドホテル（北海道）
-- [【鳥取・皆生温泉】日本海の白砂青松を一望する海辺の名湯宿7選！松葉ガニ＆大山地鶏会席](https://croud-travel.pages.dev/posts/kaike-onsen-ocean-front-crab-daisen-guide): 皆生温泉　皆生シーサイドホテル　海の四季（鳥取県）
-- [【鴨川館】カップル・夫婦記念日ステイ！客室露天風呂・贅沢会席・静かな滞在の口コミ](https://croud-travel.pages.dev/posts/kamogawakan-boso-ocean-view-spa-guide): 鴨川館（千葉県）
-- [【別府・鉄輪温泉】名物「地獄蒸し料理」と湯けむり展望露天風呂の宿7選！別府八湯巡り](https://croud-travel.pages.dev/posts/kannawa-onsen-beppu-jigokumushi-view-guide): 別府鉄輪温泉　旅館　喜楽＜大分県＞（大分県）
