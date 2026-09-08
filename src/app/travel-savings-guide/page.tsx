@@ -674,6 +674,12 @@ export default function TravelSavingsGuide() {
                     <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">文豪の愛した名湯・文学ゆかりの老舗旅館</span>
                   </Link>
                 </li>
+                                <li key="furusato-tax-onsen-steam-natural-hotspring-healing-stay">
+                  <Link href="/furusato-tax-onsen-steam-natural-hotspring-healing-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                    <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
+                    <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">【湯煙・地獄蒸し＆砂むし温泉×ふるさと納税】別府鉄輪・指宿・雲仙の大地熱スチーム湯治宿</span>
+                  </Link>
+                </li>
                 <li key="furusato-tax-luxury-hotspring-ryokan-stay">
                   <Link href="/furusato-tax-luxury-hotspring-ryokan-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                     <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
@@ -1616,6 +1622,12 @@ export default function TravelSavingsGuide() {
                     <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">蔵サウナ＆一棟貸しプライベートヴィラ</span>
                   </Link>
                 </li>
+                                <li key="furusato-tax-fujisan-view-luxury-open-air-bath-stay">
+                  <Link href="/furusato-tax-fujisan-view-luxury-open-air-bath-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                    <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
+                    <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">【富士山ビュー絶景露天風呂×ふるさと納税】河口湖・山中湖・西伊豆の天空テラス名宿ガイド</span>
+                  </Link>
+                </li>
                 <li key="furusato-tax-open-air-bath-with-majestic-fuji-view-stay">
                   <Link href="/furusato-tax-open-air-bath-with-majestic-fuji-view-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                     <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
@@ -1874,6 +1886,12 @@ export default function TravelSavingsGuide() {
                     <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">【ワイン＆地ビール×ふるさと納税】ぶどう畑を望むワイナリーホテル＆クラフト醸造オーベルジュ旅</span>
                   </Link>
                 </li>
+                                <li key="furusato-tax-seasonal-fruit-picking-vineyard-onsen-stay">
+                  <Link href="/furusato-tax-seasonal-fruit-picking-vineyard-onsen-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                    <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
+                    <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">【フルーツ狩り＆ワイナリー×ふるさと納税】桃・ぶどう・完熟いちごと美肌温泉の贅沢ステイ</span>
+                  </Link>
+                </li>
                 <li key="furusato-tax-winery-vineyard-auberge-stay">
                   <Link href="/furusato-tax-winery-vineyard-auberge-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                     <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
@@ -1969,7 +1987,7 @@ export default function TravelSavingsGuide() {
                 <h3 className="text-lg font-bold text-stone-800 flex items-center gap-2">
                   <span className="text-xl">🌉</span>
                   名橋・建築遺産
-                  <span className="text-xs font-normal text-stone-400 ml-1">(6件)</span>
+                  <span className="text-xs font-normal text-stone-400 ml-1">(7件)</span>
                 </h3>
                 <p className="text-xs text-stone-500 mt-1">眼鏡橋・錦帯橋・奇橋・登録有形文化財——建築美を訪ねるヘリテージ旅</p>
               </div>
@@ -2072,6 +2090,12 @@ export default function TravelSavingsGuide() {
                   <Link href="/furusato-tax-three-generation-family-luxury-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                     <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
                     <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">【3世代家族旅行×高額枠一括消化】親孝行＆孫と泊まる客室露天風呂・離れ宿完全ガイド</span>
+                  </Link>
+                </li>
+                                <li key="furusato-tax-dog-friendly-luxury-onsen-stay">
+                  <Link href="/furusato-tax-dog-friendly-luxury-onsen-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                    <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
+                    <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">【愛犬・ペット同伴×ふるさと納税】客室専用露天風呂＆広大ドッグラン完備の極上温泉宿ガイド</span>
                   </Link>
                 </li>
                 <li key="furusato-tax-welcome-baby-family-kids-stay">
