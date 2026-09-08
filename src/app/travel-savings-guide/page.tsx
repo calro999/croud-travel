@@ -729,6 +729,30 @@ export default function TravelSavingsGuide() {
                 </Link>
               </li>
               <li>
+                <Link href="/furusato-tax-highland-ranch-farm-resort-hotel-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【高原観光牧場＆ふれあいファーム体験×ふるさと納税】那須・トマム・阿蘇の休日</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-firefly-viewing-hotaru-night-stream-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【初夏のホタル観賞＆清流温泉宿×ふるさと納税】菊池・神鍋・湯河原の幻想リトリート</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-room-dining-heya-shoku-luxury-kaiseki-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【お部屋食で味わう極上会席×ふるさと納税】城崎・有馬・草津の老舗名門温泉旅館</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-private-room-open-air-bath-luxury-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【客室露天風呂付き客室×ふるさと納税】修善寺・箱根・嵐山の大人のプライベート温泉宿</span>
+                </Link>
+              </li>
+              <li>
                 <Link href="/furusato-tax-setouchi-island-luxury-ocean-resort-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
                   <span className="text-amber-600">▸</span>
                   <span>【瀬戸内多島美アイランドリゾート×ふるさと納税】小豆島・鞆の浦・生口島の極上宿</span>
