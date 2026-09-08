@@ -741,6 +741,30 @@ export default function TravelSavingsGuide() {
                 </Link>
               </li>
               <li>
+                <Link href="/furusato-tax-shinshu-soba-kaiseki-luxury-ryokan-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【信州手打ち蕎麦会席＆山里温泉名旅館×ふるさと納税】戸隠・安曇野・浅間温泉</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-resort-infinity-pool-luxury-hotel-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【極上インフィニティプール＆天空ホテル×ふるさと納税】熱海・恩納村・別府リゾート</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-aquarium-family-ocean-resort-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【水族館直結＆海の生きものふれあい宿×ふるさと納税】鴨川・鳥羽・沖縄美ら海</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-sotoyu-meguri-historic-onsen-town-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【伝統の外湯めぐり＆浴衣下駄散策×ふるさと納税】城崎・野沢温泉・渋温泉の名宿</span>
+                </Link>
+              </li>
+              <li>
                 <Link href="/furusato-tax-scenic-sauna-totonoi-retreat-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
                   <span className="text-amber-600">▸</span>
                   <span>【絶景サウナ＆ととのいリトリート×ふるさと納税】洞爺湖・白馬・焼津の温冷浴宿</span>
