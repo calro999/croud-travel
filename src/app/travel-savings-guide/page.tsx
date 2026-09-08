@@ -588,7 +588,13 @@ export default function TravelSavingsGuide() {
                     <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">古民家かまど炊きご飯＆囲炉裏郷土料理の宿</span>
                   </Link>
                 </li>
-                                <li key="furusato-tax-torafugu-kaiseki-luxury-gourmet-stay">
+                                                <li key="furusato-tax-fresh-oyster-feast-luxury-gourmet-stay">
+                  <Link href="/furusato-tax-fresh-oyster-feast-luxury-gourmet-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                    <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
+                    <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">【名産地極上牡蠣尽くし×ふるさと納税】宮島・伊勢志摩・気仙沼の生牡蠣＆焼き牡蠣温泉宿ガイド</span>
+                  </Link>
+                </li>
+                <li key="furusato-tax-torafugu-kaiseki-luxury-gourmet-stay">
                   <Link href="/furusato-tax-torafugu-kaiseki-luxury-gourmet-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                     <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
                     <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">【本場天然とらふぐ尽くし×ふるさと納税】下関・日間賀島・若狭湾の大皿てっさ＆ひれ酒名宿ガイド</span>
@@ -702,6 +708,18 @@ export default function TravelSavingsGuide() {
                   <Link href="/furusato-tax-snow-view-open-air-bath-winter-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                     <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
                     <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">【絶景雪見露天風呂×ふるさと納税】万座・越後湯沢・定山渓の白銀パノラマ＆冬の秘湯名旅館ガイド</span>
+                  </Link>
+                </li>
+                                                <li key="furusato-tax-mountain-stream-open-air-bath-healing-stay">
+                  <Link href="/furusato-tax-mountain-stream-open-air-bath-healing-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                    <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
+                    <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">【清流せせらぎ渓流露天風呂×ふるさと納税】奥入瀬・黒川・塩原のマイナスイオン秘湯名宿ガイド</span>
+                  </Link>
+                </li>
+                <li key="furusato-tax-autumn-foliage-open-air-bath-stay">
+                  <Link href="/furusato-tax-autumn-foliage-open-air-bath-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                    <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
+                    <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">【錦秋の紅葉露天風呂×ふるさと納税】日光中禅寺湖・京都嵐山・箱根の彩りグラデーション名名宿</span>
                   </Link>
                 </li>
                 <li key="furusato-tax-retro-onsen-town-yukata-walk-stay">
@@ -1772,6 +1790,12 @@ export default function TravelSavingsGuide() {
                   <Link href="/furusato-tax-new-three-major-night-views-sky-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                     <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
                     <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">新日本三大夜景＆天空スカイパノラマ宿</span>
+                  </Link>
+                </li>
+                                <li key="furusato-tax-starry-sky-astronomy-night-view-stay">
+                  <Link href="/furusato-tax-starry-sky-astronomy-night-view-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                    <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
+                    <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">【満天の星空・天体観測×ふるさと納税】阿智村・野辺山・石垣島の星空保護区＆天の川露天風呂名宿</span>
                   </Link>
                 </li>
                 <li key="furusato-tax-starry-sky-open-air-bath-observatory-stay">
