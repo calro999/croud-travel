@@ -735,6 +735,30 @@ export default function TravelSavingsGuide() {
                 </Link>
               </li>
               <li>
+                <Link href="/furusato-tax-fragrant-hinoki-bath-healing-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【総檜風呂＆天然ヒノキ森林浴温泉宿×ふるさと納税】木曽・伊豆湯ヶ島・黒川温泉</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-scenic-sauna-totonoi-retreat-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【絶景サウナ＆ととのいリトリート×ふるさと納税】洞爺湖・白馬・焼津の温冷浴宿</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-lakeview-onsen-resort-hotel-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【絶景レイクビュー温泉リゾート×ふるさと納税】琵琶湖・洞爺湖・箱根芦ノ湖の名宿</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-matsutake-autumn-gourmet-kaiseki-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【極上松茸尽くし会席＆名門温泉宿×ふるさと納税】信州別所・丹波篠山・京都湯の花</span>
+                </Link>
+              </li>
+              <li>
                 <Link href="/furusato-tax-firefly-viewing-hotaru-night-stream-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
                   <span className="text-amber-600">▸</span>
                   <span>【初夏のホタル観賞＆清流温泉宿×ふるさと納税】菊池・神鍋・湯河原の幻想リトリート</span>
