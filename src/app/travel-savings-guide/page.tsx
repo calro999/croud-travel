@@ -97,7 +97,7 @@ export default function TravelSavingsGuide() {
             <li><Link href="/furusato-tax-travel-beginners-complete-guide" className="text-amber-700 font-bold hover:underline transition flex items-center gap-1">👉 【完全初心者向け】確定申告不要・スマホ申請・失敗しない使い方はこちら</Link></li>
             <li><a href="#howto" className="hover:text-amber-700 transition">3. ふるさと納税トラベルクーポンの使い方3ステップ</a></li>
             <li><a href="#faq" className="hover:text-amber-700 transition">4. よくある質問</a></li>
-            <li><a href="#guides" className="hover:text-amber-700 transition">5. テーマ別おすすめ宿ガイド一覧（247件）</a></li>
+            <li><a href="#guides" className="hover:text-amber-700 transition">5. テーマ別おすすめ宿ガイド一覧（251件）</a></li>
           </ol>
         </nav>
 
@@ -370,7 +370,7 @@ export default function TravelSavingsGuide() {
             テーマ別おすすめ宿ガイド一覧
           </h2>
           <p className="text-sm text-stone-500 mb-8">
-            ふるさと納税トラベルクーポンで泊まれるおすすめ宿を、テーマ別に247件厳選しました。気になるジャンルをタップして、あなたの旅にぴったりの一軒を見つけてください。
+            ふるさと納税トラベルクーポンで泊まれるおすすめ宿を、テーマ別に251件厳選しました。気になるジャンルをタップして、あなたの旅にぴったりの一軒を見つけてください。
           </p>
 
           <div className="grid gap-6">
@@ -381,7 +381,7 @@ export default function TravelSavingsGuide() {
                 <h3 className="text-lg font-bold text-stone-800 flex items-center gap-2">
                   <span className="text-xl">🍽</span>
                   グルメ・美食
-                  <span className="text-xs font-normal text-stone-400 ml-1">(27件)</span>
+                  <span className="text-xs font-normal text-stone-400 ml-1">(24件)</span>
                 </h3>
                 <p className="text-xs text-stone-500 mt-1">ブランド牛・蟹・朝市の海鮮・ご当地麺・フルーツ狩り——各地の「食」を堪能する旅</p>
               </div>
@@ -458,12 +458,6 @@ export default function TravelSavingsGuide() {
                     <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">日本三大フルーツ王国＆もぎたて果実の恵み・果樹園パノラマと美食リゾート</span>
                   </Link>
                 </li>
-                <li key="furusato-tax-three-great-miso-capitals-gastronomy-stay">
-                  <Link href="/furusato-tax-three-great-miso-capitals-gastronomy-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
-                    <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
-                    <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">日本三大味噌の郷＆百花繚乱の郷土発酵美・老舗蔵と郷土鍋の名湯宿</span>
-                  </Link>
-                </li>
                 <li key="furusato-tax-three-great-morning-markets-gourmet-stay">
                   <Link href="/furusato-tax-three-great-morning-markets-gourmet-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                     <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
@@ -492,18 +486,6 @@ export default function TravelSavingsGuide() {
                   <Link href="/furusato-tax-three-great-somen-noodles-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                     <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
                     <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">日本三大そうめん＆手延べ極細麺の伝統技・名水と古都の湯宿</span>
-                  </Link>
-                </li>
-                <li key="furusato-tax-three-great-terraced-paddy-rice-harvest-stay">
-                  <Link href="/furusato-tax-three-great-terraced-paddy-rice-harvest-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
-                    <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
-                    <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">日本三大棚田＆日本の原風景と黄金色に実る稲穂・農村リトリート宿</span>
-                  </Link>
-                </li>
-                <li key="furusato-tax-three-great-terraced-rice-fields-stay">
-                  <Link href="/furusato-tax-three-great-terraced-rice-fields-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
-                    <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
-                    <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">日本三大美田・棚田百選＆水鏡と黄金色の日本の原風景・農村リトリート宿</span>
                   </Link>
                 </li>
                 <li key="furusato-tax-three-great-udons-gourmet-stay">
@@ -557,7 +539,7 @@ export default function TravelSavingsGuide() {
                 <h3 className="text-lg font-bold text-stone-800 flex items-center gap-2">
                   <span className="text-xl">♨</span>
                   温泉・湯治・癒やし
-                  <span className="text-xs font-normal text-stone-400 ml-1">(44件)</span>
+                  <span className="text-xs font-normal text-stone-400 ml-1">(41件)</span>
                 </h3>
                 <p className="text-xs text-stone-500 mt-1">美肌の湯、秘湯、薬湯、渓谷露天風呂、本格湯治……日本が誇る名湯を巡る贅沢な湯旅</p>
               </div>
@@ -706,22 +688,10 @@ export default function TravelSavingsGuide() {
                     <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">名水百選・湧水めぐり＆名水蕎麦豆腐料理の宿</span>
                   </Link>
                 </li>
-                <li key="furusato-tax-starry-sky-astronomy-retreat-stay">
-                  <Link href="/furusato-tax-starry-sky-astronomy-retreat-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
-                    <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
-                    <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">日本三大星空・天体観測リゾート</span>
-                  </Link>
-                </li>
                 <li key="furusato-tax-sweets-cafe-wagashi-retro-onsen-stay">
                   <Link href="/furusato-tax-sweets-cafe-wagashi-retro-onsen-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                     <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
                     <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">銘菓・和カフェ＆老舗スイーツめぐり温泉宿</span>
-                  </Link>
-                </li>
-                <li key="furusato-tax-terraced-rice-fields-satoyama-onsen-stay">
-                  <Link href="/furusato-tax-terraced-rice-fields-satoyama-onsen-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
-                    <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
-                    <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">絶景棚田＆日本の原風景里山温泉宿</span>
                   </Link>
                 </li>
                 <li key="furusato-tax-three-famous-waterfalls-healing-stay">
@@ -796,12 +766,6 @@ export default function TravelSavingsGuide() {
                     <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">日本三大美肌の湯×炭酸水素塩泉・とろとろ美肌温泉</span>
                   </Link>
                 </li>
-                <li key="furusato-tax-three-major-forest-therapy-retreat-stay">
-                  <Link href="/furusato-tax-three-major-forest-therapy-retreat-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
-                    <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
-                    <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">日本三大美林＆巨樹・森林セラピー癒やしの宿</span>
-                  </Link>
-                </li>
                 <li key="furusato-tax-three-master-brewers-toji-sake-inn-stay">
                   <Link href="/furusato-tax-three-master-brewers-toji-sake-inn-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                     <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
@@ -835,7 +799,7 @@ export default function TravelSavingsGuide() {
                 <h3 className="text-lg font-bold text-stone-800 flex items-center gap-2">
                   <span className="text-xl">🏯</span>
                   歴史・文化・寺社仏閣・パワースポット
-                  <span className="text-xs font-normal text-stone-400 ml-1">(37件)</span>
+                  <span className="text-xs font-normal text-stone-400 ml-1">(36件)</span>
                 </h3>
                 <p className="text-xs text-stone-500 mt-1">名城・庭園・古社・天満宮・龍穴・古都・宿場町——千年の歴史と祈りを感じる旅</p>
               </div>
@@ -922,12 +886,6 @@ export default function TravelSavingsGuide() {
                   <Link href="/furusato-tax-three-great-dragon-deity-shrines-sacred-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                     <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
                     <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">日本三大龍穴＆龍神信仰の強力パワースポットと雲海・渓谷名宿</span>
-                  </Link>
-                </li>
-                <li key="furusato-tax-three-great-famous-stones-gardens-stay">
-                  <Link href="/furusato-tax-three-great-famous-stones-gardens-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
-                    <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
-                    <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">日本三大銘石＆枯山水庭園・名湯宿</span>
                   </Link>
                 </li>
                 <li key="furusato-tax-three-great-gardens-heritage-luxury-stay">
@@ -1071,17 +1029,11 @@ export default function TravelSavingsGuide() {
                 <h3 className="text-lg font-bold text-stone-800 flex items-center gap-2">
                   <span className="text-xl">🌊</span>
                   海・川・湖・水辺・湧水
-                  <span className="text-xs font-normal text-stone-400 ml-1">(43件)</span>
+                  <span className="text-xs font-normal text-stone-400 ml-1">(37件)</span>
                 </h3>
                 <p className="text-xs text-stone-500 mt-1">湧水群・清流・渓谷・水郷・美港・岬・砂丘・島旅——水の絶景に包まれるリフレッシュ旅</p>
               </div>
               <ul className="p-4 grid gap-0.5 sm:grid-cols-2">
-                <li key="furusato-tax-caldera-blue-lake-resort-stay">
-                  <Link href="/furusato-tax-caldera-blue-lake-resort-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
-                    <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
-                    <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">神秘のコバルトブルー・カルデラ湖畔ホテル</span>
-                  </Link>
-                </li>
                 <li key="furusato-tax-cycling-shimanami-lake-resort-stay">
                   <Link href="/furusato-tax-cycling-shimanami-lake-resort-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                     <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
@@ -1118,12 +1070,6 @@ export default function TravelSavingsGuide() {
                     <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">日本三大美港＆世界遺産富士山と夜景パノラマ・ウォーターフロント宿</span>
                   </Link>
                 </li>
-                <li key="furusato-tax-three-great-capes-ocean-panorama-stay">
-                  <Link href="/furusato-tax-three-great-capes-ocean-panorama-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
-                    <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
-                    <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">日本三大岬＆地球の丸みを感じる断崖・絶景パノラマ海宿</span>
-                  </Link>
-                </li>
                 <li key="furusato-tax-three-great-clear-rivers-stay">
                   <Link href="/furusato-tax-three-great-clear-rivers-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                     <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
@@ -1140,12 +1086,6 @@ export default function TravelSavingsGuide() {
                   <Link href="/furusato-tax-three-great-coastal-sceneries-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                     <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
                     <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">日本三大白砂青松＆海の絶景パノラマ・海岸リゾート温泉宿</span>
-                  </Link>
-                </li>
-                <li key="furusato-tax-three-great-columnar-joints-gorges-stay">
-                  <Link href="/furusato-tax-three-great-columnar-joints-gorges-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
-                    <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
-                    <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">日本三大柱状節理峡谷＆幾何学絶壁とエメラルド清流名湯宿</span>
                   </Link>
                 </li>
                 <li key="furusato-tax-three-great-dunes-oceanview-stay">
@@ -1280,24 +1220,6 @@ export default function TravelSavingsGuide() {
                     <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">日本三大砂丘＆雄大な風紋美と夕日オーシャンビュー宿</span>
                   </Link>
                 </li>
-                <li key="furusato-tax-three-great-sea-caves-mystery-stay">
-                  <Link href="/furusato-tax-three-great-sea-caves-mystery-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
-                    <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
-                    <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">日本三大海食洞＆波濤が穿った奇跡の洞門・神秘の青の洞窟と絶景海宿</span>
-                  </Link>
-                </li>
-                <li key="furusato-tax-three-great-submerged-karst-springs-stay">
-                  <Link href="/furusato-tax-three-great-submerged-karst-springs-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
-                    <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
-                    <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">日本三大湧水群＆エメラルドの清冽な湧泉池と避暑リゾート名宿</span>
-                  </Link>
-                </li>
-                <li key="furusato-tax-three-great-subterranean-waterfalls-caves-stay">
-                  <Link href="/furusato-tax-three-great-subterranean-waterfalls-caves-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
-                    <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
-                    <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">日本三大地底滝鍾乳洞＆地底アドベンチャー宿</span>
-                  </Link>
-                </li>
                 <li key="furusato-tax-three-great-tidal-flats-nature-stay">
                   <Link href="/furusato-tax-three-great-tidal-flats-nature-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                     <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
@@ -1337,17 +1259,23 @@ export default function TravelSavingsGuide() {
               </ul>
             </section>
 
-            {/* ⛰ 山・森・高原・大自然・棚田 */}
+            {/* ⛰ 山・森・高原・大自然・古道・湿原 */}
             <section className="bg-white rounded-2xl shadow-sm border border-stone-200/80 overflow-hidden">
               <div className="bg-gradient-to-r from-stone-50 to-amber-50/50 px-6 py-4 border-b border-stone-200/60">
                 <h3 className="text-lg font-bold text-stone-800 flex items-center gap-2">
                   <span className="text-xl">⛰</span>
-                  山・森・高原・大自然・棚田
-                  <span className="text-xs font-normal text-stone-400 ml-1">(44件)</span>
+                  山・森・高原・大自然・古道・湿原
+                  <span className="text-xs font-normal text-stone-400 ml-1">(53件)</span>
                 </h3>
-                <p className="text-xs text-stone-500 mt-1">美林・竹林・原生林・カルスト・棚田・ロープウェイ——雄大な自然を五感で味わう旅</p>
+                <p className="text-xs text-stone-500 mt-1">美林・竹林・原生林・カルスト・棚田・浮島湿原・塩の道・ロープウェイ——雄大な自然を五感で味わう旅</p>
               </div>
               <ul className="p-4 grid gap-0.5 sm:grid-cols-2">
+                <li key="furusato-tax-caldera-blue-lake-resort-stay">
+                  <Link href="/furusato-tax-caldera-blue-lake-resort-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                    <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
+                    <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">神秘のコバルトブルー・カルデラ湖畔ホテル</span>
+                  </Link>
+                </li>
                 <li key="furusato-tax-highland-resort-french-auberge-stay">
                   <Link href="/furusato-tax-highland-resort-french-auberge-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                     <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
@@ -1358,6 +1286,18 @@ export default function TravelSavingsGuide() {
                   <Link href="/furusato-tax-scenic-drives-highland-resort-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                     <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
                     <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">日本百名道の絶景ドライブルートと高原温泉宿</span>
+                  </Link>
+                </li>
+                <li key="furusato-tax-terraced-rice-fields-satoyama-onsen-stay">
+                  <Link href="/furusato-tax-terraced-rice-fields-satoyama-onsen-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                    <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
+                    <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">絶景棚田＆日本の原風景里山温泉宿</span>
+                  </Link>
+                </li>
+                <li key="furusato-tax-three-great-ancient-salt-trails-heritage-stay">
+                  <Link href="/furusato-tax-three-great-ancient-salt-trails-heritage-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                    <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
+                    <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">日本三大塩の道＆歴史古道トレッキングと日本海の塩・山の幸美食宿</span>
                   </Link>
                 </li>
                 <li key="furusato-tax-three-great-bamboo-groves-stay">
@@ -1400,6 +1340,18 @@ export default function TravelSavingsGuide() {
                   <Link href="/furusato-tax-three-great-caves-underground-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                     <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
                     <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">日本三大鍾乳洞の神秘の地底美と山麓名湯宿</span>
+                  </Link>
+                </li>
+                <li key="furusato-tax-three-great-columnar-joints-gorges-stay">
+                  <Link href="/furusato-tax-three-great-columnar-joints-gorges-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                    <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
+                    <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">日本三大柱状節理峡谷＆幾何学絶壁とエメラルド清流名湯宿</span>
+                  </Link>
+                </li>
+                <li key="furusato-tax-three-great-floating-islands-marshland-stay">
+                  <Link href="/furusato-tax-three-great-floating-islands-marshland-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                    <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
+                    <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">日本三大浮島湿原＆風に揺れる神秘の浮島と高原温泉リゾート名宿</span>
                   </Link>
                 </li>
                 <li key="furusato-tax-three-great-forests-wood-villa-stay">
@@ -1456,16 +1408,10 @@ export default function TravelSavingsGuide() {
                     <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">日本三大原生林＆世界遺産ネイチャーリゾート</span>
                   </Link>
                 </li>
-                <li key="furusato-tax-three-great-scenic-passes-panorama-stay">
-                  <Link href="/furusato-tax-three-great-scenic-passes-panorama-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                <li key="furusato-tax-three-great-sea-caves-mystery-stay">
+                  <Link href="/furusato-tax-three-great-sea-caves-mystery-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                     <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
-                    <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">日本三大峠＆雲海パノラマ・歴史街道の難所と高原温泉宿</span>
-                  </Link>
-                </li>
-                <li key="furusato-tax-three-great-scenic-wonders-stay">
-                  <Link href="/furusato-tax-three-great-scenic-wonders-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
-                    <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
-                    <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">日本三大奇勝の壮麗な岩壁美と秘湯宿</span>
+                    <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">日本三大海食洞＆波濤が穿った奇跡の洞門・神秘の青の洞窟と絶景海宿</span>
                   </Link>
                 </li>
                 <li key="furusato-tax-three-great-stalactite-caves-stay">
@@ -1480,6 +1426,30 @@ export default function TravelSavingsGuide() {
                     <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">日本三大奇景＆奇岩怪石ジオパーク・絶景パノラマ温泉宿</span>
                   </Link>
                 </li>
+                <li key="furusato-tax-three-great-submerged-karst-springs-stay">
+                  <Link href="/furusato-tax-three-great-submerged-karst-springs-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                    <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
+                    <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">日本三大湧水群＆エメラルドの清冽な湧泉池と避暑リゾート名宿</span>
+                  </Link>
+                </li>
+                <li key="furusato-tax-three-great-subterranean-waterfalls-caves-stay">
+                  <Link href="/furusato-tax-three-great-subterranean-waterfalls-caves-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                    <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
+                    <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">日本三大地底滝鍾乳洞＆地底アドベンチャー宿</span>
+                  </Link>
+                </li>
+                <li key="furusato-tax-three-great-terraced-paddy-rice-harvest-stay">
+                  <Link href="/furusato-tax-three-great-terraced-paddy-rice-harvest-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                    <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
+                    <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">日本三大棚田＆日本の原風景と黄金色に実る稲穂・農村リトリート宿</span>
+                  </Link>
+                </li>
+                <li key="furusato-tax-three-great-terraced-rice-fields-stay">
+                  <Link href="/furusato-tax-three-great-terraced-rice-fields-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                    <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
+                    <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">日本三大美田・棚田百選＆水鏡と黄金色の日本の原風景・農村リトリート宿</span>
+                  </Link>
+                </li>
                 <li key="furusato-tax-three-great-wonders-rock-scenery-stay">
                   <Link href="/furusato-tax-three-great-wonders-rock-scenery-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                     <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
@@ -1490,6 +1460,12 @@ export default function TravelSavingsGuide() {
                   <Link href="/furusato-tax-three-karst-plateaus-mountain-resort-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                     <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
                     <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">日本三大カルスト台地＆白亜の石灰岩パノラマ高原リゾート</span>
+                  </Link>
+                </li>
+                <li key="furusato-tax-three-major-forest-therapy-retreat-stay">
+                  <Link href="/furusato-tax-three-major-forest-therapy-retreat-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                    <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
+                    <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">日本三大美林＆巨樹・森林セラピー癒やしの宿</span>
                   </Link>
                 </li>
                 <li key="furusato-tax-top100-hidden-paradise-stay">
@@ -1615,15 +1591,15 @@ export default function TravelSavingsGuide() {
               </ul>
             </section>
 
-            {/* 📸 絶景・夜景・星空・サンセット */}
+            {/* 📸 絶景・夜景・星空・渓谷鉄道 */}
             <section className="bg-white rounded-2xl shadow-sm border border-stone-200/80 overflow-hidden">
               <div className="bg-gradient-to-r from-stone-50 to-amber-50/50 px-6 py-4 border-b border-stone-200/60">
                 <h3 className="text-lg font-bold text-stone-800 flex items-center gap-2">
                   <span className="text-xl">📸</span>
-                  絶景・夜景・星空・サンセット
-                  <span className="text-xs font-normal text-stone-400 ml-1">(11件)</span>
+                  絶景・夜景・星空・渓谷鉄道
+                  <span className="text-xs font-normal text-stone-400 ml-1">(17件)</span>
                 </h3>
-                <p className="text-xs text-stone-500 mt-1">三大夜景・星空・夕日・イルミネーション——一生モノの景色と出会うフォトジェニック旅</p>
+                <p className="text-xs text-stone-500 mt-1">三大渓谷鉄道・三大夜景・星空・夕日・イルミネーション——一生モノの景色と出会う旅</p>
               </div>
               <ul className="p-4 grid gap-0.5 sm:grid-cols-2">
                 <li key="furusato-tax-lighthouse-cliff-ocean-panorama-stay">
@@ -1638,6 +1614,12 @@ export default function TravelSavingsGuide() {
                     <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">新日本三大夜景＆天空スカイパノラマ宿</span>
                   </Link>
                 </li>
+                <li key="furusato-tax-starry-sky-astronomy-retreat-stay">
+                  <Link href="/furusato-tax-starry-sky-astronomy-retreat-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                    <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
+                    <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">日本三大星空・天体観測リゾート</span>
+                  </Link>
+                </li>
                 <li key="furusato-tax-starry-sky-open-air-bath-observatory-stay">
                   <Link href="/furusato-tax-starry-sky-open-air-bath-observatory-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                     <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
@@ -1648,6 +1630,12 @@ export default function TravelSavingsGuide() {
                   <Link href="/furusato-tax-sunset-ocean-magic-hour-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                     <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
                     <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">絶景夕日・サンセット特等席の海宿</span>
+                  </Link>
+                </li>
+                <li key="furusato-tax-three-great-capes-ocean-panorama-stay">
+                  <Link href="/furusato-tax-three-great-capes-ocean-panorama-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                    <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
+                    <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">日本三大岬＆地球の丸みを感じる断崖・絶景パノラマ海宿</span>
                   </Link>
                 </li>
                 <li key="furusato-tax-three-great-illuminations-resort-stay">
@@ -1662,10 +1650,28 @@ export default function TravelSavingsGuide() {
                     <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">日本三大イルミネーション＆光の祭典・ファンタジーリゾートホテル宿</span>
                   </Link>
                 </li>
+                <li key="furusato-tax-three-great-miso-capitals-gastronomy-stay">
+                  <Link href="/furusato-tax-three-great-miso-capitals-gastronomy-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                    <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
+                    <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">日本三大味噌の郷＆百花繚乱の郷土発酵美・老舗蔵と郷土鍋の名湯宿</span>
+                  </Link>
+                </li>
                 <li key="furusato-tax-three-great-night-views-romantic-stay">
                   <Link href="/furusato-tax-three-great-night-views-romantic-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                     <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
                     <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">日本三大夜景＆煌めく光の海・100万ドルのパノラマ名宿</span>
+                  </Link>
+                </li>
+                <li key="furusato-tax-three-great-scenic-passes-panorama-stay">
+                  <Link href="/furusato-tax-three-great-scenic-passes-panorama-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                    <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
+                    <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">日本三大峠＆雲海パノラマ・歴史街道の難所と高原温泉宿</span>
+                  </Link>
+                </li>
+                <li key="furusato-tax-three-great-scenic-wonders-stay">
+                  <Link href="/furusato-tax-three-great-scenic-wonders-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                    <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
+                    <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">日本三大奇勝の壮麗な岩壁美と秘湯宿</span>
                   </Link>
                 </li>
                 <li key="furusato-tax-three-great-train-views-scenic-stay">
@@ -1678,6 +1684,12 @@ export default function TravelSavingsGuide() {
                   <Link href="/furusato-tax-three-great-train-window-views-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                     <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
                     <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">日本三大車窓＆絶景スイッチバック・高原パノラマ温泉宿</span>
+                  </Link>
+                </li>
+                <li key="furusato-tax-three-great-valley-train-views-scenic-stay">
+                  <Link href="/furusato-tax-three-great-valley-train-views-scenic-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                    <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
+                    <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">日本三大渓谷鉄道＆嵯峨野トロッコ・大井川SL・只見線の絶景鉄道旅と名湯宿</span>
                   </Link>
                 </li>
                 <li key="furusato-tax-three-major-night-view-luxury-hotel-stay">
@@ -1819,9 +1831,9 @@ export default function TravelSavingsGuide() {
                 <h3 className="text-lg font-bold text-stone-800 flex items-center gap-2">
                   <span className="text-xl">🎨</span>
                   ものづくり・伝統工芸
-                  <span className="text-xs font-normal text-stone-400 ml-1">(11件)</span>
+                  <span className="text-xs font-normal text-stone-400 ml-1">(13件)</span>
                 </h3>
-                <p className="text-xs text-stone-500 mt-1">漆器・輪島塗・和紙・陶芸・刃物・瓦・ガラス——職人技に触れる大人の知的好奇心旅</p>
+                <p className="text-xs text-stone-500 mt-1">竹細工・漆器・輪島塗・和紙・陶芸・刃物・瓦・ガラス——職人技に触れる大人の知的好奇心旅</p>
               </div>
               <ul className="p-4 grid gap-0.5 sm:grid-cols-2">
                 <li key="furusato-tax-six-ancient-kilns-pottery-stay">
@@ -1830,10 +1842,22 @@ export default function TravelSavingsGuide() {
                     <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">日本六古窯の里を巡る陶芸美と作家の器で味わう名旅館</span>
                   </Link>
                 </li>
+                <li key="furusato-tax-three-great-bamboo-craft-historic-stay">
+                  <Link href="/furusato-tax-three-great-bamboo-craft-historic-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                    <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
+                    <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">日本三大竹細工＆しなやかな曲線美・竹林景観と風雅な数寄屋名宿</span>
+                  </Link>
+                </li>
                 <li key="furusato-tax-three-great-cutlery-towns-craft-stay">
                   <Link href="/furusato-tax-three-great-cutlery-towns-craft-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                     <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
                     <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">日本三大刃物の里＆職人クラフト宿</span>
+                  </Link>
+                </li>
+                <li key="furusato-tax-three-great-famous-stones-gardens-stay">
+                  <Link href="/furusato-tax-three-great-famous-stones-gardens-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                    <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
+                    <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">日本三大銘石＆枯山水庭園・名湯宿</span>
                   </Link>
                 </li>
                 <li key="furusato-tax-three-great-glass-craft-towns-stay">
