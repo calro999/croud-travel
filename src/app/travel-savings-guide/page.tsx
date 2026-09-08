@@ -747,6 +747,30 @@ export default function TravelSavingsGuide() {
                 </Link>
               </li>
               <li>
+                <Link href="/furusato-tax-natural-mud-bath-mineral-detox-onsen-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【天然泥パック＆泥湯温泉デトックス×ふるさと納税】八幡平後生掛・霧島・別府鉄輪</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-spill-over-kaisendon-seafood-bowl-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【こぼれ海鮮丼＆朝食いくら盛り放題×ふるさと納税】函館・金沢・伊東の港町ホテル</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-book-library-hotel-retreat-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【本に囲まれて眠るブックホテル×ふるさと納税】播磨福崎・神保町・名古屋の読書旅</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-art-museum-architecture-luxury-hotel-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【美術館ホテル＆現代アートリゾート×ふるさと納税】直島・箱根強羅・青森の名建築宿</span>
+                </Link>
+              </li>
+              <li>
                 <Link href="/furusato-tax-resort-infinity-pool-luxury-hotel-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
                   <span className="text-amber-600">▸</span>
                   <span>【極上インフィニティプール＆天空ホテル×ふるさと納税】熱海・恩納村・別府リゾート</span>
