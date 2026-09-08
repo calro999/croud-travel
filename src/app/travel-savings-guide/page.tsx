@@ -722,6 +722,30 @@ export default function TravelSavingsGuide() {
                     <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">【錦秋の紅葉露天風呂×ふるさと納税】日光中禅寺湖・京都嵐山・箱根の彩りグラデーション名名宿</span>
                   </Link>
                 </li>
+              <li>
+                <Link href="/furusato-tax-strawberry-buffet-sweets-resort-hotel-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【いちごスイーツビュッフェ＆ホテルステイ×ふるさと納税】那須・神戸・幕張の春旅</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-setouchi-island-luxury-ocean-resort-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【瀬戸内多島美アイランドリゾート×ふるさと納税】小豆島・鞆の浦・生口島の極上宿</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-brand-maguro-tuna-feast-luxury-inn-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【本場大間＆那智勝浦生マグロ尽くし×ふるさと納税】大トロ握り・兜焼きと絶景露天宿</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-sand-bath-sunamushi-detox-onsen-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【天然砂むし温泉＆名湯デトックス×ふるさと納税】指宿・別府の極上リフレッシュ宿</span>
+                </Link>
+              </li>
                 <li key="furusato-tax-retro-onsen-town-yukata-walk-stay">
                   <Link href="/furusato-tax-retro-onsen-town-yukata-walk-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                     <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
