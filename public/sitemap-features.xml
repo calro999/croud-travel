@@ -895,6 +895,12 @@
     <priority>0.85</priority>
   </url>
   <url>
+    <loc>https://croud-travel.pages.dev/furusato-tax-snow-view-open-air-bath-winter-stay/</loc>
+    <lastmod>2026-09-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
     <loc>https://croud-travel.pages.dev/furusato-tax-solo-retreat-private-onsen-stay/</loc>
     <lastmod>2026-09-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -920,6 +926,12 @@
   </url>
   <url>
     <loc>https://croud-travel.pages.dev/furusato-tax-starry-sky-open-air-bath-observatory-stay/</loc>
+    <lastmod>2026-09-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://croud-travel.pages.dev/furusato-tax-station-walk-car-free-onsen-stay/</loc>
     <lastmod>2026-09-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
@@ -2023,7 +2035,19 @@
     <priority>0.85</priority>
   </url>
   <url>
+    <loc>https://croud-travel.pages.dev/furusato-tax-torafugu-kaiseki-luxury-gourmet-stay/</loc>
+    <lastmod>2026-09-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
     <loc>https://croud-travel.pages.dev/furusato-tax-traditional-kamado-rice-irori-stay/</loc>
+    <lastmod>2026-09-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://croud-travel.pages.dev/furusato-tax-traditional-unagi-eel-gourmet-stay/</loc>
     <lastmod>2026-09-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
