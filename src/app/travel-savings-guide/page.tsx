@@ -414,7 +414,13 @@ export default function TravelSavingsGuide() {
                     <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">最高級黒毛和牛ステーキ＆鉄板焼きカウンター宿</span>
                   </Link>
                 </li>
-                                <li key="furusato-tax-fresh-sushi-kaiseki-gourmet-inn-stay">
+                                                <li key="furusato-tax-luxury-buffet-gourmet-resort-stay">
+                  <Link href="/furusato-tax-luxury-buffet-gourmet-resort-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                    <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
+                    <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">【豪華ディナービュッフェ×ふるさと納税】鬼怒川あさや・別府杉乃井・登別グランドのライブキッチン名宿</span>
+                  </Link>
+                </li>
+                <li key="furusato-tax-fresh-sushi-kaiseki-gourmet-inn-stay">
                   <Link href="/furusato-tax-fresh-sushi-kaiseki-gourmet-inn-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                     <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
                     <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">【漁港直送・極上寿司会席×ふるさと納税】加賀・東伊豆・伊東の職人握りと名湯温泉宿</span>
@@ -680,10 +686,22 @@ export default function TravelSavingsGuide() {
                     <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">文豪の愛した名湯・文学ゆかりの老舗旅館</span>
                   </Link>
                 </li>
-                                <li key="furusato-tax-onsen-steam-natural-hotspring-healing-stay">
+                                                <li key="furusato-tax-retro-onsen-town-yukata-walk-stay">
+                  <Link href="/furusato-tax-retro-onsen-town-yukata-walk-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                    <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
+                    <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">【浴衣で巡るレトロ温泉街×ふるさと納税】城崎・信州渋・銀山温泉の外湯めぐり＆情緒名宿ガイド</span>
+                  </Link>
+                </li>
+                <li key="furusato-tax-onsen-steam-natural-hotspring-healing-stay">
                   <Link href="/furusato-tax-onsen-steam-natural-hotspring-healing-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                     <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
                     <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">【湯煙・地獄蒸し＆砂むし温泉×ふるさと納税】別府鉄輪・指宿・雲仙の大地熱スチーム湯治宿</span>
+                  </Link>
+                </li>
+                                <li key="furusato-tax-all-inclusive-luxury-onsen-stay">
+                  <Link href="/furusato-tax-all-inclusive-luxury-onsen-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                    <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
+                    <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">【オールインクルーシブ×ふるさと納税】作並・箱根・磐梯熱海のお財布いらず＆フリーフロー温泉宿</span>
                   </Link>
                 </li>
                 <li key="furusato-tax-luxury-hotspring-ryokan-stay">
@@ -1807,7 +1825,7 @@ export default function TravelSavingsGuide() {
                 <h3 className="text-lg font-bold text-stone-800 flex items-center gap-2">
                   <span className="text-xl">🎆</span>
                   祭り・花火・イベント
-                  <span className="text-xs font-normal text-stone-400 ml-1">(8件)</span>
+                  <span className="text-xs font-normal text-stone-400 ml-1">(9件)</span>
                 </h3>
                 <p className="text-xs text-stone-500 mt-1">三大祭り・花火大会・奇祭・七夕——熱狂と感動を共有する日本の夏と伝統行事</p>
               </div>
@@ -2104,7 +2122,13 @@ export default function TravelSavingsGuide() {
                     <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">水族館・テーマパーク直結ホテル×ふるさと納税活用ガイド【2026年最新】鴨川・白浜・富士急のパスポート付き宿泊パック</span>
                   </Link>
                 </li>
-                                <li key="furusato-tax-kanreki-celebration-oyakoukou-onsen-stay">
+                                                <li key="furusato-tax-solo-travel-retreat-private-onsen-stay">
+                  <Link href="/furusato-tax-solo-travel-retreat-private-onsen-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                    <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
+                    <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">【一人旅・ご褒美おこもり×ふるさと納税】箱根・草津・由布院の露天風呂付き客室＆癒やしの名宿ガイド</span>
+                  </Link>
+                </li>
+                <li key="furusato-tax-kanreki-celebration-oyakoukou-onsen-stay">
                   <Link href="/furusato-tax-kanreki-celebration-oyakoukou-onsen-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                     <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
                     <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">【還暦・長寿祝い＆親孝行×ふるさと納税】有馬・金沢湯涌・淡路島のバリアフリー名門旅館ガイド</span>
