@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     '絶景露天風呂 クーポン',
     '旬の味覚 宿泊割引'
   ],
-  alternates: { canonical: baseUrl + '/furusato-tax-dog-friendly-dogrun-luxury-resort-stay' },
+  alternates: { canonical: baseUrl + '/furusato-tax-dog-friendly-dogrun-luxury-resort-stay/' },
   openGraph: {
     title: '愛犬とずっと一緒！天然芝ドッグラン＆愛犬同伴温泉リゾート名宿×ふるさと納税完全ガイド【2026年最新】伊豆高原・那須高原・びわ湖長浜',
     description: '大切な家族である愛犬と我慢なしの贅沢ステイ！バリ風ラグジュアリー温泉と愛犬用ビュッフェ・室内外ドッグランを誇る「ウブドの森 伊豆高原」、那須の森に佇む全室離れコテージと広大な天然芝ドッグラン「ホテルフォレストヒルズ那須」、全室レイクビュー＆客室温泉露天風呂付き最高峰ドッグリゾート「レジーナリゾートびわ湖長浜」。愛犬用アメニティ完備の名宿を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',

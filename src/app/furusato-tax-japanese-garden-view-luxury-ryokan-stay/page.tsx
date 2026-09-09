@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     '絶景露天風呂 クーポン',
     '旬の味覚 宿泊割引'
   ],
-  alternates: { canonical: baseUrl + '/furusato-tax-japanese-garden-view-luxury-ryokan-stay' },
+  alternates: { canonical: baseUrl + '/furusato-tax-japanese-garden-view-luxury-ryokan-stay/' },
   openGraph: {
     title: '客室から名園を愛でる贅沢！日本庭園ビュー＆伝統数寄屋造り名門温泉旅館×ふるさと納税完全ガイド【2026年最新】島根玉造・佐賀武雄・石川加賀',
     description: '苔むした庭石、錦鯉が泳ぐ池、四季折々に色づく名木。日本の美意識の結晶である名庭園を望む名旅館を厳選！足立美術館にも通じる端正な名庭園と美肌温泉「玉造温泉 佳翠苑 皆美」、国登録記念物・御船山楽園五十万平米の庭園とチームラボの常設アートが融合する「武雄温泉 御船山楽園ホテル」、加賀百万石の伝統庭園と三つの大浴場十八湯めぐり「山代温泉 ゆのくに天祥」。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',

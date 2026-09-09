@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   description: '世界が絶賛する最高峰の和牛ブランド「日本三大和牛」（松阪牛・神戸ビーフ・米沢牛）。口の中でとろける極上の霜降り肉を、本場の名門料理旅館や名湯宿の客室・鉄板焼きカウンターで堪能。楽天ふるさと納税の宿泊割引クーポンを活用して、至高の美食温泉旅へ。',
   keywords: ["日本三大和牛","松阪牛鯛屋旅館","有馬温泉欽山","小野川温泉吾妻荘","神戸牛","米沢牛","鉄板焼き","楽天ふるさと納税"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-great-wagyu-beef-luxury-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-great-wagyu-beef-luxury-stay/',
   },
   openGraph: {
     title: '日本三大銘牛の極上鉄板焼き＆すき焼き名湯宿×ふるさと納税完全ガイド【2026年最新】松阪牛・神戸牛・米沢牛',

@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: '千年の祈りと交易の歴史が刻まれた石畳！和歌山「熊野古道」世界遺産の杉木立と川湯・湯の峰温泉老舗旅館、長野・岐阜「中山道木曽路」妻籠宿・馬籠宿の格子戸の町並みと木曽ヒノキ露天風呂宿、福井「鯖街道」御食国若狭と京を結ぶ熊川宿と焼き鯖・若狭フグ会席。歴史ロマンと自然に抱かれるトレッキングステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: 'ふるさと納税, 楽天トラベル, 旅行クーポン, 宿泊記, ホテル予約, 国内旅行, おすすめ宿, 温泉旅館',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-great-ancient-trails-historic-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-great-ancient-trails-historic-stay/',
   },
   openGraph: {
     title: '日本三大古道＆歴史巡礼の山林トレッキング名宿×ふるさと納税完全ガイド【2026年最新】熊野古道・木曽路・鯖街道',

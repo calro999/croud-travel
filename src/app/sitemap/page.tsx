@@ -8,8 +8,11 @@ import { SPOTS_DATA } from "@/data/spotsData";
 
 export const metadata: Metadata = {
   title: "サイトマップ（全ページ・47都道府県ガイド・特集ハブ・記事一覧） ｜ 日本全国・旅宿クラウド",
-  description: "日本全国・旅宿クラウドの全ページ完全サイトマップです。47都道府県の観光・温泉・宿ガイド、目的別・季節別特集ハブ166選、主要市町村ガイド、観光名所解説、全宿泊ルポ比較記事をご案内。",
+  description: "日本全国・旅宿クラウドの全ページ完全サイトマップです。47都道府県の観光・温泉・宿ガイド、目的別・季節別特集ハブ790選、主要市町村ガイド、観光名所解説、全宿泊ルポ比較記事をご案内。",
   keywords: ["サイトマップ", "旅宿クラウド", "47都道府県", "観光ガイド", "旅行特集", "ホテル比較", "全記事一覧"],
+  alternates: {
+    canonical: "https://croud-travel.pages.dev/sitemap/",
+  },
   openGraph: {
     title: "サイトマップ ｜ 日本全国・旅宿クラウド",
     description: "日本全国・旅宿クラウドの全ページ一覧。47都道府県ガイド＆特集ハブ＆全記事へのリンク案内。",
@@ -120,13 +123,20 @@ export default function SitemapPage() {
         <h2 className="text-xl font-black font-journal-serif text-emerald-950 border-b border-emerald-950/10 pb-3 flex items-center gap-2">
           <span>📌</span> <span>主要メインページ</span>
         </h2>
-        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4">
+        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-5 gap-4">
           <Link
             href="/"
             className="p-4 rounded-2xl bg-teal-50/50 hover:bg-teal-100/60 border border-teal-200/60 transition group space-y-1 block"
           >
             <div className="font-bold text-emerald-950 group-hover:text-teal-800 text-sm">🏠 トップページ</div>
             <div className="text-[11px] text-emerald-950/60 font-medium">全国旅マガジン最新おすすめ</div>
+          </Link>
+          <Link
+            href="/features"
+            className="p-4 rounded-2xl bg-teal-50/50 hover:bg-teal-100/60 border border-teal-200/60 transition group space-y-1 block"
+          >
+            <div className="font-bold text-emerald-950 group-hover:text-teal-800 text-sm">💎 特集・まとめ一覧</div>
+            <div className="text-[11px] text-emerald-950/60 font-medium">目的別厳選テーマ790+本</div>
           </Link>
           <Link
             href="/prefectures"

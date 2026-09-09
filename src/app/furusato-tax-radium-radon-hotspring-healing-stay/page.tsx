@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     '絶景露天風呂 クーポン',
     '旬の味覚 宿泊割引'
   ],
-  alternates: { canonical: baseUrl + '/furusato-tax-radium-radon-hotspring-healing-stay' },
+  alternates: { canonical: baseUrl + '/furusato-tax-radium-radon-hotspring-healing-stay/' },
   openGraph: {
     title: '奇跡のホルミシス効果！世界屈指のラジウム・ラドン名湯温泉＆本格湯治名旅館×ふるさと納税完全ガイド【2026年最新】鳥取三朝・愛知猿投・新潟村杉',
     description: '「吸ってよし、飲んでよし、浸かってよし」と称される奇跡の放射能泉（ラドン・ラジウム温泉）！世界屈指の高濃度ラドン含有量を誇る三朝温泉の最高峰「依山楼 岩崎」、医者がすすめる奇跡の天然ラドン温泉と名水飲泉「猿投温泉 癒しの宿 金泉閣」、四千坪の大庭園と日本最大級のラジウム温泉露天風呂を誇る新潟「村杉温泉 風雅の宿 長生館」。免疫力を高め細胞を活性化させる至高の湯治リトリートを、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',

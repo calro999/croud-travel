@@ -23,7 +23,7 @@ export async function generateMetadata({ params }: { params: Promise<{ pref: str
     description: `${prefInfo.name}で絶対買いたい人気お土産、伝統の有名銘菓、話題の最新おしゃれ手土産、絶品ご当地グルメ・特産品を徹底比較。買える場所や日持ち、おすすめシーンまでプロが解説！`,
     keywords: [prefInfo.name, "お土産", "銘菓", "特産品", "手土産", "名物", "ランキング", "観光", "楽天トラベル"],
     alternates: {
-      canonical: `${baseUrl}/prefectures/${prefInfo.slug}/souvenirs`,
+      canonical: `${baseUrl}/prefectures/${prefInfo.slug}/souvenirs/`,
     },
     openGraph: {
       title: `${prefInfo.name}の人気お土産・銘菓・名物おすすめ比較ランキング`,

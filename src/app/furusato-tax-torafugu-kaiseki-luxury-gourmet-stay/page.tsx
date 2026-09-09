@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     'ご当地グルメ 宿',
     '人気温泉地 クーポン'
   ],
-  alternates: { canonical: baseUrl + '/furusato-tax-torafugu-kaiseki-luxury-gourmet-stay' },
+  alternates: { canonical: baseUrl + '/furusato-tax-torafugu-kaiseki-luxury-gourmet-stay/' },
   openGraph: {
     title: '本場天然とらふぐ尽くし会席＆名湯温泉宿×ふるさと納税完全ガイド【2026年最新】下関・愛知日間賀島・若狭湾',
     description: '冬の味覚の王様・天然とらふぐを本場で味わい尽くす！透き通る芸術的なてっさ（薄造り）、熱々のふぐちり鍋、香ばしいひれ酒、サクサクの唐揚げ。本場・山口県下関で関門海峡を望む迎賓館「下関グランドホテル」、多幸と福の島として名高い愛知県「日間賀島 漁師民宿やまに」、日本海の寒風が旨味を凝縮させる福井県「若狭小川 とね旅館」。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',

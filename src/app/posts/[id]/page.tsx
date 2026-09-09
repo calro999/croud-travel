@@ -90,7 +90,7 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
         ...(post.categories || [])
       ].filter(Boolean).join(","),
       alternates: {
-        canonical: `${baseUrl}/posts/${id}`,
+        canonical: `${baseUrl}/posts/${id}/`,
       },
       openGraph: {
         title: `${post.title} ｜ 日本全国・旅宿クラウド`,

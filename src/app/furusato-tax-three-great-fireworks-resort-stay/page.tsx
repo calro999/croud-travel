@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   description: '夜空を揺るがす光と音の饗宴「日本三大花火大会」（秋田・大曲の花火、新潟・長岡まつり大花火大会、茨城・土浦全国花火競技大会）。内閣総理大臣賞を競う最高峰の煙火芸術や復興祈願フェニックス花火。楽天ふるさと納税完全活用。',
   keywords: ["日本三大花火大会","大曲の花火ルートイン","ホテルニューオータニ長岡","ホテルマロウド筑波","長岡花火","土浦全国花火","楽天ふるさと納税"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-great-fireworks-resort-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-great-fireworks-resort-stay/',
   },
   openGraph: {
     title: '日本三大花火大会の特等席と快適眺望ホテル×ふるさと納税完全ガイド【2026年最新】大曲・長岡・土浦',

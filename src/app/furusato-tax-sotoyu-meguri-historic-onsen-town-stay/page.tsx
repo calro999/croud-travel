@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     '絶景露天風呂 クーポン',
     '旬の味覚 宿泊割引'
   ],
-  alternates: { canonical: baseUrl + '/furusato-tax-sotoyu-meguri-historic-onsen-town-stay' },
+  alternates: { canonical: baseUrl + '/furusato-tax-sotoyu-meguri-historic-onsen-town-stay/' },
   openGraph: {
     title: 'カランコロンと下駄を鳴らす外湯めぐり＆情緒あふれる浴衣散策名門温泉宿×ふるさと納税完全ガイド【2026年最新】城崎・野沢温泉・渋温泉',
     description: '街全体が一つの大きな温泉宿！色浴衣に着替え下駄を鳴らして外湯を巡る至極の温泉情緒を厳選。七田外湯めぐりと文豪志賀直哉ゆかりの国登録有形文化財「城崎温泉 登録有形文化財の宿 三木屋」、十三箇所の無料外湯と麻釜の湧出景観を誇る「野沢温泉 村のホテル 住吉屋」、九湯めぐりと千と千尋の神隠しを彷彿とさせる木造四階建て文化財建築「渋温泉 歴史の宿 金具屋」。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',

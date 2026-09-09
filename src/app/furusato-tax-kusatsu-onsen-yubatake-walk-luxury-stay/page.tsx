@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     '実質2000円'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-kusatsu-onsen-yubatake-walk-luxury-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-kusatsu-onsen-yubatake-walk-luxury-stay/',
   },
   openGraph: {
     title: '天下の名湯・草津温泉の真髄を味わう！湯畑徒歩圏＆名物源泉掛け流し名門旅館×ふるさと納税完全攻略ガイド【2026年最新】櫻井・一井・奈良屋',

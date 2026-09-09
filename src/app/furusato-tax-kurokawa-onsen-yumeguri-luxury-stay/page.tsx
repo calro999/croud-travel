@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     '実質2000円'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-kurokawa-onsen-yumeguri-luxury-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-kurokawa-onsen-yumeguri-luxury-stay/',
   },
   openGraph: {
     title: '阿蘇の秘湯・黒川温泉の入湯手形めぐり＆渓流絶景露天風呂×ふるさと納税完全攻略ガイド【2026年最新】山みず木・奥の湯・新明館',

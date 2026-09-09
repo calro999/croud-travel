@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     '2026年旅行'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-scenic-train-torokko-railway-onsen-stay'
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-scenic-train-torokko-railway-onsen-stay/'
   },
   openGraph: {
     title: '絶景ローカル線＆トロッコ列車めぐり温泉宿×ふるさと納税完全ガイド【2026年最新】わたらせ・大井川SL・只見線の鉄道旅',

@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     '実質2000円'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-dogo-onsen-honkan-walk-luxury-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-dogo-onsen-honkan-walk-luxury-stay/',
   },
   openGraph: {
     title: '三千年の歴史を誇る日本最古の名湯！道後温泉本館徒歩圏＆名門旅館×ふるさと納税完全攻略ガイド【2026年最新】ふなや・道後御湯・道後プリンス',

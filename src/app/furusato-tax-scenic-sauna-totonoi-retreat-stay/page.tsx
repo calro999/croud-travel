@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     '絶景露天風呂 クーポン',
     '旬の味覚 宿泊割引'
   ],
-  alternates: { canonical: baseUrl + '/furusato-tax-scenic-sauna-totonoi-retreat-stay' },
+  alternates: { canonical: baseUrl + '/furusato-tax-scenic-sauna-totonoi-retreat-stay/' },
   openGraph: {
     title: '大自然の絶景パノラマとフィンランド式サウナで極上の「ととのい」体験！名宿×ふるさと納税完全ガイド【2026年最新】洞爺湖・白馬・焼津',
     description: 'サウナブームを牽引する全国屈指の絶景サウナ宿を厳選！洞爺湖を眼下に望むオートロウリュサウナと湖風外気浴テラス「洞爺湖万世閣 ホテルレイクサイドテラス」、白馬連峰北アルプスの雄大な山並みを仰ぎながら水風呂と外気浴を楽しむ「白馬ハイランドホテル」、駿河湾と富士山の絶景テラスサウナ＆オールインクルーシブ「焼津グランドホテル」。セルフロウリュ、天然地下水風呂、絶景デッキチェア。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',

@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     '実質2000円'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-miyakojima-allamanda-resort-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-miyakojima-allamanda-resort-stay/',
   },
   openGraph: {
     title: '東洋一の宮古ブルーとウミガメの楽園！宮古島の全室スイートリゾート＆プライベートプール付き極上ヴィラ×ふるさと納税完全攻略ガイド【2026年最新】アラマンダ・ヒルトン・シギラミラージュ',

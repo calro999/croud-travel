@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     '実質2000円'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-arima-onsen-kinsen-ginsen-luxury-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-arima-onsen-kinsen-ginsen-luxury-stay/',
   },
   openGraph: {
     title: '日本最古の名湯！有馬温泉の金泉・銀泉めぐり＆最高峰神戸牛会席老舗旅館×ふるさと納税完全攻略ガイド【2026年最新】兵衛向陽閣・御所坊・月光園鴻朧館',

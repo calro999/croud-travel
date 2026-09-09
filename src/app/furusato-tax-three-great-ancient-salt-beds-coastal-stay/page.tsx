@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     '温泉旅館 予約',
     '高級リゾート クーポン'
   ],
-  alternates: { canonical: baseUrl + '/furusato-tax-three-great-ancient-salt-beds-coastal-stay' },
+  alternates: { canonical: baseUrl + '/furusato-tax-three-great-ancient-salt-beds-coastal-stay/' },
   openGraph: {
     title: '日本三大塩田跡＆揚げ浜式塩田の伝統技と日本海シーサイド温泉宿×ふるさと納税完全ガイド【2026年最新】能登・鳴門・赤穂',
     description: '海水と太陽、潮風が織りなす日本の塩づくりの原点「日本三大塩田」（石川能登・珠洲の揚げ浜式塩田、徳島・鳴門の入浜式塩田、兵庫・播州赤穂の塩田）。五百年の伝統を受け継ぐ国指定重要無形民俗文化財の塩づくり見学、ミネラル豊富な塩でいただく極上海鮮会席、海を望むインフィニティ絶景露天風呂。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ海辺の歴史温泉旅完全ガイド。',

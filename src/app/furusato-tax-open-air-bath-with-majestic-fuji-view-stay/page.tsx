@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     '2026年旅行'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-open-air-bath-with-majestic-fuji-view-stay'
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-open-air-bath-with-majestic-fuji-view-stay/'
   },
   openGraph: {
     title: '富士山ビュー客室露天風呂宿×ふるさと納税完全ガイド【2026年最新】河口湖・日本平・箱根芦ノ湖の霊峰一望リゾート',

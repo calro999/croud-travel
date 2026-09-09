@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     '絶景露天風呂 クーポン',
     '旬の味覚 宿泊割引'
   ],
-  alternates: { canonical: baseUrl + '/furusato-tax-hanabi-fireworks-view-room-hotel-stay' },
+  alternates: { canonical: baseUrl + '/furusato-tax-hanabi-fireworks-view-room-hotel-stay/' },
   openGraph: {
     title: '混雑ゼロで大迫力の花火を独占！部屋から花火が見える特等席客室ホテル×ふるさと納税完全ガイド【2026年最新】熱海・洞爺湖・諏訪湖',
     description: '夜空に咲き乱れる大輪の光を、お風呂上がりやベッドの上から特等席で！年間十数回開催される熱海海上花火大会が目前の全室オーシャンビュー「熱海後楽園ホテル」、4月〜10月の毎夜打ち上がるロングラン花火を全室レイクビュー客室から鑑賞「洞爺サンパレス リゾート＆スパ」、諏訪湖祭湖上花火を望む二つの源泉の名宿「信州上諏訪温泉 諏訪別邸 朱白」。混雑を回避して楽しむ花火ビュー温泉旅を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',

@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     'ふるさと納税 あとから割引 手順',
     'ふるさと納税 旅行 失敗'
   ],
-  alternates: { canonical: baseUrl + '/furusato-tax-travel-beginners-complete-guide' },
+  alternates: { canonical: baseUrl + '/furusato-tax-travel-beginners-complete-guide/' },
   openGraph: {
     title: '【超初心者向け】ふるさと納税で旅行・ホテルに安く泊まる完全マニュアル｜仕組み・お金の流れ・失敗しない使い方を徹底解説【2026年最新】',
     description: 'ふるさと納税を一度も使ったことがない完全初心者でも大丈夫！仕組み、お金の流れ、確定申告不要のワンストップ特例、予約済みのホテルへの適用法まで完全解説。',

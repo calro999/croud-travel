@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     '実質2000円'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-chichibu-nagatoro-nature-onsen-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-chichibu-nagatoro-nature-onsen-stay/',
   },
   openGraph: {
     title: '名勝岩畳と長瀞ライン下り！秩父・長瀞の横瀬川清流望む露天風呂＆創業190年美肌鉱泉・郷土会席名宿×ふるさと納税完全攻略ガイド【2026年最新】和どう・新木鉱泉・長生館',

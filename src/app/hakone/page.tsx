@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     "箱根", "箱根温泉", "箱根観光", "箱根 モデルコース", "箱根 1泊2日", "箱根湯本 ホテル",
     "強羅 温泉 旅館", "箱根 露天風呂付き客室", "箱根 カップル 温泉", "楽天トラベル"
   ],
-  alternates: { canonical: "https://croud-travel.pages.dev/hakone" },
+  alternates: { canonical: "https://croud-travel.pages.dev/hakone/" },
 };
 
 function loadHakoneData(): Record<string, RakutenCategoryData> {

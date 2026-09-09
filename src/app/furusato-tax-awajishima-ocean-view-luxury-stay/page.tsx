@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     '実質2000円'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-awajishima-ocean-view-luxury-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-awajishima-ocean-view-luxury-stay/',
   },
   openGraph: {
     title: '朝日と海の絶景インフィニティ温泉！淡路島の全室オーシャンビュー名門宿＆極上淡路牛・天然鯛会席×ふるさと納税完全攻略ガイド【2026年最新】ホテルニューアワジ・夢海游・グランシャリオ',

@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     '実質2000円'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-crab-all-you-can-eat-winter-buffet-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-crab-all-you-can-eat-winter-buffet-stay/',
   },
   openGraph: {
     title: '冬の味覚の王様！本場カニ食べ放題＆極上松葉ガニ名門宿×ふるさと納税完全攻略ガイド【2026年最新】夕日ヶ浦・城崎温泉で絶品カニ旅',

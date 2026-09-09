@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     '実質2000円'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-hakone-onsen-open-air-bath-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-hakone-onsen-open-air-bath-stay/',
   },
   openGraph: {
     title: '都心から85分の極上名湯！箱根湯本温泉の絶景大露天風呂＆客室露天名門宿×ふるさと納税完全攻略ガイド【2026年最新】天成園・おかだ・南風荘',

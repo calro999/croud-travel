@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     '実質2000円'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-kamikochi-japan-alps-resort-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-kamikochi-japan-alps-resort-stay/',
   },
   openGraph: {
     title: '神降ちる清流と穂高連峰の絶景！上高地の大正池・梓川温泉＆本格山岳フレンチ名宿×ふるさと納税完全攻略ガイド【2026年最新】ルミエスタ・大正池ホテル・上高地温泉ホテル',

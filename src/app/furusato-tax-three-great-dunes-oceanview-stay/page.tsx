@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   description: '海風が織りなす神秘的な風紋と、見渡す限りの砂と海のコントラスト「日本三大砂丘」（鳥取砂丘・遠州砂丘・吹上浜）。東シナ海や日本海に沈む夕日を望むオーシャンビュー露天風呂と新鮮な海の幸。楽天ふるさと納税の宿泊割引クーポンを利用して巡る絶景沿岸ステイ。',
   keywords: ["日本三大砂丘","鳥取砂丘岩井屋","御前崎グランドホテル","いせえび荘","遠州大砂丘","吹上浜","オーシャンビュー温泉","楽天ふるさと納税"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-great-dunes-oceanview-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-great-dunes-oceanview-stay/',
   },
   openGraph: {
     title: '日本三大砂丘の壮大な風紋と夕日オーシャンビュー宿×ふるさと納税完全ガイド【2026年最新】鳥取砂丘・遠州砂丘・吹上浜',

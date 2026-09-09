@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     '温泉旅館 クーポン',
     '高級リゾート 割引'
   ],
-  alternates: { canonical: baseUrl + '/furusato-tax-seasonal-fruit-picking-vineyard-onsen-stay' },
+  alternates: { canonical: baseUrl + '/furusato-tax-seasonal-fruit-picking-vineyard-onsen-stay/' },
   openGraph: {
     title: '果樹園の旬フルーツ狩り＆名門ワイナリー・美肌温泉宿×ふるさと納税完全ガイド【2026年最新】石和・伊豆長岡・飯坂',
     description: '桃・ぶどう・完熟いちご・蜜入りりんご！日本屈指の果樹王国で採れたて旬フルーツの芳醇な甘みと名湯を堪能する大人の贅沢旅。甲州ワインと果樹園の聖地・笛吹市石和温泉の老舗「みなもと旅館」、紅ほっぺや章姫のいちご狩り農園に囲まれた伊豆の国市「招福の宿 ゑびすや」、福島フルーツラインの果樹園群と摺上川の渓谷美を誇る「飯坂温泉 摺上亭 大鳥」。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ果実美酒温泉ステイ。',

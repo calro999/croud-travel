@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   description: '神仏の建築や式年遷宮を支えてきた日本の誇る銘木林「日本三大美林」（青森ヒバ・秋田スギ・木曽ヒノキ）。芳醇な木の香りに満ちた大浴場や客室、フィトンチッド溢れる森林浴で究極の深呼吸リラクゼーション。楽天ふるさと納税完全活用。',
   keywords: ["日本三大美林","大鰐温泉不二やホテル","男鹿温泉別邸つばき","木曽路の宿いわや","青森ヒバ","秋田杉","木曽檜","楽天ふるさと納税"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-great-forests-wood-villa-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-great-forests-wood-villa-stay/',
   },
   openGraph: {
     title: '日本三大美林の木漏れ日と森林セラピー・ウッドヴィラ宿×ふるさと納税完全ガイド【2026年最新】青森ヒバ・秋田杉・木曽檜',

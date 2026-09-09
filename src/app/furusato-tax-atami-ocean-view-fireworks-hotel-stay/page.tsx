@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     '実質2000円'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-atami-ocean-view-fireworks-hotel-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-atami-ocean-view-fireworks-hotel-stay/',
   },
   openGraph: {
     title: '客室から大迫力の花火を特等席鑑賞！熱海オーシャンビュー温泉ホテル×ふるさと納税完全攻略ガイド【2026年最新】後楽園・ニューアカオ・パールスター',

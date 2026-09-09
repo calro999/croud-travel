@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     '絶景露天風呂 クーポン',
     '旬の味覚 宿泊割引'
   ],
-  alternates: { canonical: baseUrl + '/furusato-tax-wa-modern-twin-bed-comfortable-ryokan-stay' },
+  alternates: { canonical: baseUrl + '/furusato-tax-wa-modern-twin-bed-comfortable-ryokan-stay/' },
   openGraph: {
     title: '畳の温もりと高級ベッドの極上快眠！和モダンツインベッド客室温泉旅館×ふるさと納税完全ガイド【2026年最新】黒川・箱根強羅・京都嵐山',
     description: 'お布団の上げ下げ不要＆足腰に優しい快適ベッドステイ！シモンズ社製高級ベッドと渓流露天風呂を備えた「黒川温泉 旅館湯本荘」、全室檜露天風呂付き和モダンローベッド客室「箱根強羅温泉 季の湯 雪月花」、全館畳敷き和モダンローベッドと5つの無料貸切風呂「京都 嵐山温泉 花伝抄」。シニア世代や三世代家族、カップルに選ばれる快適名宿を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',

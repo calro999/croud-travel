@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   description: '日常を遠く離れた山深き日本の桃源郷！平家落人伝説の徳島「祖谷渓谷」、神話のふるさと宮崎「高千穂峡」、豪雪と秘湯の長野「信州秋山郷」。ケーブルカーで下る谷底露天風呂や極上宿坊を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: ["日本の秘境百選","ホテル祖谷温泉","旅館神仙","切明リバーサイドハウス","秘湯旅館","高千穂峡","秋山郷","楽天ふるさと納税"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-top100-hidden-paradise-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-top100-hidden-paradise-stay/',
   },
   openGraph: {
     title: '秘境百選の隠れ宿と源泉秘湯オーベルジュ×ふるさと納税完全ガイド【2026年最新】祖谷・高千穂・秋山郷',

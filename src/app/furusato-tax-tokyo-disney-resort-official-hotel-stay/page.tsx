@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     '実質2000円'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-tokyo-disney-resort-official-hotel-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-tokyo-disney-resort-official-hotel-stay/',
   },
   openGraph: {
     title: '舞浜直結！東京ディズニーリゾート公式オフィシャルホテル×ふるさと納税完全攻略ガイド【2026年最新】シェラトン・ヒルトン・グランドニッコーで夢の国をお得に満喫',

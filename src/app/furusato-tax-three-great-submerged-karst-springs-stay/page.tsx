@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     '温泉旅館 予約',
     '高級リゾート クーポン'
   ],
-  alternates: { canonical: baseUrl + '/furusato-tax-three-great-submerged-karst-springs-stay' },
+  alternates: { canonical: baseUrl + '/furusato-tax-three-great-submerged-karst-springs-stay/' },
   openGraph: {
     title: '日本三大湧水群＆エメラルドの清冽な湧泉池と避暑リゾート名宿×ふるさと納税完全ガイド【2026年最新】忍野八海・柿田川・安曇野',
     description: '数十年から数百年の歳月をかけて地下深くで磨かれた奇跡の透明度「日本三大湧水群」（山梨・富士山麓忍野八海、静岡・日本最短清流柿田川湧水群、長野・北アルプス安曇野わさび田湧水群）。エメラルドグリーンに輝く湧水池、涼感あふれる水辺の散策、名水で仕込む蕎麦・川魚美食。楽天ふるさと納税トラベルクーポンで泊まるおすすめリゾート名宿ガイド。',

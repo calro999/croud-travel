@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   description: '日本屈指の絶景ロード（長野・ビーナスライン、群馬／長野・志賀草津高原ルート、大分／熊本・やまなみハイウェイ）。標高2,000m超の雲上パノラマと、白樺湖・草津温泉・由布院温泉の極上リゾートステイ。楽天ふるさと納税完全活用。',
   keywords: ["日本百名道","ビーナスライン池の平ホテル","草津温泉ホテル櫻井","由布院月燈庵","絶景ドライブ","楽天ふるさと納税"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-scenic-drives-highland-resort-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-scenic-drives-highland-resort-stay/',
   },
   openGraph: {
     title: '日本百名道の絶景ドライブルートと高原温泉宿×ふるさと納税完全ガイド【2026年最新】ビーナスライン・志賀草津・やまなみ',

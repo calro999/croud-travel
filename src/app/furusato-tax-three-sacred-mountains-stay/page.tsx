@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   description: '古来より山岳信仰の聖地として崇敬される日本三大霊峰（富士山・立山連峰・白山）。湖越しに望む逆さ富士、標高2,400mの雲海ホテル、白山信仰の囲炉裏炭火料理宿。楽天ふるさと納税の宿泊割引クーポンでお得に巡る完全ガイド。',
   keywords: ["日本三大霊峰","秀峰閣湖月","立山弥陀ヶ原ホテル","一里野高原ホテルろあん","富士山ビュー","立山連峰","白山温泉","楽天ふるさと納税"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-sacred-mountains-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-sacred-mountains-stay/',
   },
   openGraph: {
     title: '日本三大霊峰の神気満ちる聖地と雲海・高山温泉宿×ふるさと納税完全ガイド【2026年最新】富士山・立山・白山',

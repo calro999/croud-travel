@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     '実質2000円'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-legoland-japan-official-hotel-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-legoland-japan-official-hotel-stay/',
   },
   openGraph: {
     title: '子どもが主役の夢の国！レゴランド・ジャパン公式ホテル＆名古屋ファミリー名宿×ふるさと納税完全攻略ガイド【2026年最新】レゴランドホテル・マリオット・ベッセル',

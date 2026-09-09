@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     '絶景露天風呂 クーポン',
     '旬の味覚 宿泊割引'
   ],
-  alternates: { canonical: baseUrl + '/furusato-tax-highland-ranch-farm-resort-hotel-stay' },
+  alternates: { canonical: baseUrl + '/furusato-tax-highland-ranch-farm-resort-hotel-stay/' },
   openGraph: {
     title: '動物とのふれあい体験＆高原観光牧場リゾート名門ホテル×ふるさと納税完全ガイド【2026年最新】那須高原・トマム・阿蘇',
     description: '広大な大自然と動物たちに癒やされる高原バカンス！那須南ヶ丘牧場や千本松牧場に隣接し巨大温泉スパとバイキングを誇る「那須温泉 ホテルサンバレー那須」、北海道の広大なファームエリアで羊や牛と過ごす最高峰リゾート「星野リゾート リゾナーレトマム」、阿蘇の大草原放牧と阿蘇五岳を望む展望露天風呂が自慢の「阿蘇内牧温泉 阿蘇プラザホテル」。新鮮な搾りたてミルクやチーズ、乗馬体験を楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',

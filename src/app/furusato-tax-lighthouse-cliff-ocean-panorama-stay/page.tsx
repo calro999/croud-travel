@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     '2026年旅行'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-lighthouse-cliff-ocean-panorama-stay'
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-lighthouse-cliff-ocean-panorama-stay/'
   },
   openGraph: {
     title: '白亜の灯台＆断崖絶景オーシャンビュー宿×ふるさと納税完全ガイド【2026年最新】日御碕・犬吠埼・室戸岬の岬リゾート',

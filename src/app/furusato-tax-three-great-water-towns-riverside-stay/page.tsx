@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: '情緒あふれる掘割とどんこ舟の旅！福岡「水郷柳川」網の目のような掘割巡りと名物うなぎのせいろ蒸し老舗宿、滋賀「近江八幡」八幡堀の白壁土蔵と近江牛ステーキ会席宿、千葉「小江戸佐原」利根川水運の歴史的町並みと舟めぐりオーベルジュ。水と暮らす歴史の街を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: 'ふるさと納税, 楽天トラベル, 旅行クーポン, 宿泊記, ホテル予約, 国内旅行, おすすめ宿, 温泉旅館',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-great-water-towns-riverside-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-great-water-towns-riverside-stay/',
   },
   openGraph: {
     title: '日本三大水郷＆川下り舟舟遊び・水上情景リバーサイド宿×ふるさと納税完全ガイド【2026年最新】柳川・近江八幡・佐原',

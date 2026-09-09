@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     '温泉旅館 予約',
     '高級リゾート クーポン'
   ],
-  alternates: { canonical: baseUrl + '/furusato-tax-three-great-sumo-heritage-onsen-stay' },
+  alternates: { canonical: baseUrl + '/furusato-tax-three-great-sumo-heritage-onsen-stay/' },
   openGraph: {
     title: '日本三大相撲辻＆国技の歴史とちゃんこ鍋美食・伝統名門宿×ふるさと納税完全ガイド【2026年最新】両国・出雲・住吉',
     description: '神事から始まった日本の国技の起源と熱気「日本三大相撲ゆかりの聖地」（東京墨田・両国回向院と国技館、島根出雲・相撲の元祖野見宿禰神社、大阪住吉・古代相撲発祥の住吉大社）。下町風情と本場の絶品ちゃんこ鍋、出雲神話の名湯・玉造温泉。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ国技文化と美食名宿ガイド。',

@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     '2026年旅行'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-winery-vineyard-auberge-stay'
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-winery-vineyard-auberge-stay/'
   },
   openGraph: {
     title: '銘酒ワイナリー＆葡萄畑オーベルジュ×ふるさと納税完全ガイド【2026年最新】勝沼・余市・十勝のワインペアリング旅',

@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     '実質2000円'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-indoor-pool-kids-family-resort-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-indoor-pool-kids-family-resort-stay/',
   },
   openGraph: {
     title: '雨の日も冬も年中泳げる！室内温水プール＆子ども向け設備充実の大型温泉リゾート×ふるさと納税完全ガイド【2026年最新】那須・草津・別府',

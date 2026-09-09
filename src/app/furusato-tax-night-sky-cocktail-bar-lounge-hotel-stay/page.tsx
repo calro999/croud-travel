@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     '絶景露天風呂 クーポン',
     '旬の味覚 宿泊割引'
   ],
-  alternates: { canonical: baseUrl + '/furusato-tax-night-sky-cocktail-bar-lounge-hotel-stay' },
+  alternates: { canonical: baseUrl + '/furusato-tax-night-sky-cocktail-bar-lounge-hotel-stay/' },
   openGraph: {
     title: '地上数十階から望む宝石の夜景パノラマ＆天空スカイバー・クラブラウンジ名門ホテル×ふるさと納税完全ガイド【2026年最新】横浜・長崎・大阪',
     description: 'きらめく摩天楼の夜景と上質なカクテルに酔いしれる大人の夜！大観覧車が目の前に輝くバルコニーとバーを誇る「横浜ベイホテル東急」、世界新三大夜景のすり鉢状パノラマを望むクラブラウンジ「ガーデンテラス長崎ホテル＆リゾート」、地上200m大阪中之島の夜景と現代アートが融合する天空ホテル「コンラッド大阪」。極上のナイトビューバー体験を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',

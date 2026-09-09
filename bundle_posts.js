@@ -108,13 +108,15 @@ function main() {
     spotSlugs = [...new Set(spotMatches.map(m => m[1]))];
   }
 
-  // 主要静的ページ
+  // 主要静的ページ（メイン固定ハブ）
   const staticPages = [
     { url: `${BASE_URL}/`, priority: '1.0', changefreq: 'daily' },
-    { url: `${BASE_URL}/kanazawa/`, priority: '1.0', changefreq: 'daily' },
-    { url: `${BASE_URL}/noto/`, priority: '1.0', changefreq: 'daily' },
+    { url: `${BASE_URL}/features/`, priority: '0.9', changefreq: 'daily' },
     { url: `${BASE_URL}/prefectures/`, priority: '0.9', changefreq: 'daily' },
     { url: `${BASE_URL}/campaigns/`, priority: '0.9', changefreq: 'daily' },
+    { url: `${BASE_URL}/campaigns/autumn-gourmet-travel/`, priority: '0.85', changefreq: 'weekly' },
+    { url: `${BASE_URL}/kanazawa/`, priority: '0.85', changefreq: 'weekly' },
+    { url: `${BASE_URL}/noto/`, priority: '0.85', changefreq: 'weekly' },
     { url: `${BASE_URL}/sitemap/`, priority: '0.8', changefreq: 'weekly' }
   ];
 
@@ -126,7 +128,7 @@ function main() {
   xmlMain += `</urlset>\n`;
   fs.writeFileSync(path.join(PUBLIC_DIR, 'sitemap-main.xml'), xmlMain, 'utf8');
 
-  // B. sitemap-features.xml (目的別・季節別・テーマ別特化特集ハブ 166件)
+  // B. sitemap-features.xml (目的別・季節別・テーマ別特化特集ハブ)
   let xmlFeatures = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n`;
   featurePageSlugs.forEach(slug => {
     xmlFeatures += `  <url>\n    <loc>${BASE_URL}/${slug}/</loc>\n    <lastmod>${todayStr}</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.85</priority>\n  </url>\n`;
@@ -134,7 +136,7 @@ function main() {
   xmlFeatures += `</urlset>\n`;
   fs.writeFileSync(path.join(PUBLIC_DIR, 'sitemap-features.xml'), xmlFeatures, 'utf8');
 
-  // C. sitemap-prefectures.xml (47都道府県・主要市町村・観光名所スポット)
+  // C. sitemap-prefectures.xml (47都道府県 ＆ 主要市町村サブハブ)
   let xmlPref = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n`;
   PREFECTURE_SLUGS.forEach(slug => {
     xmlPref += `  <url>\n    <loc>${BASE_URL}/prefectures/${slug}/</loc>\n    <lastmod>${todayStr}</lastmod>\n    <changefreq>daily</changefreq>\n    <priority>0.9</priority>\n  </url>\n`;
@@ -145,13 +147,18 @@ function main() {
   citySubHubs.forEach(cPath => {
     xmlPref += `  <url>\n    <loc>${BASE_URL}/prefectures/${cPath}/</loc>\n    <lastmod>${todayStr}</lastmod>\n    <changefreq>daily</changefreq>\n    <priority>0.85</priority>\n  </url>\n`;
   });
-  spotSlugs.forEach(sSlug => {
-    xmlPref += `  <url>\n    <loc>${BASE_URL}/spots/${sSlug}/</loc>\n    <lastmod>${todayStr}</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.85</priority>\n  </url>\n`;
-  });
   xmlPref += `</urlset>\n`;
   fs.writeFileSync(path.join(PUBLIC_DIR, 'sitemap-prefectures.xml'), xmlPref, 'utf8');
 
-  // D. sitemap-posts.xml (個別宿泊施設・徹底比較ルポ全記事)
+  // D. sitemap-spots.xml (全国の観光名所・スポット徹底解説)
+  let xmlSpots = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n`;
+  spotSlugs.forEach(sSlug => {
+    xmlSpots += `  <url>\n    <loc>${BASE_URL}/spots/${sSlug}/</loc>\n    <lastmod>${todayStr}</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.85</priority>\n  </url>\n`;
+  });
+  xmlSpots += `</urlset>\n`;
+  fs.writeFileSync(path.join(PUBLIC_DIR, 'sitemap-spots.xml'), xmlSpots, 'utf8');
+
+  // E. sitemap-posts.xml (個別宿泊施設・徹底比較ルポ全記事)
   let xmlPosts = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n`;
   posts.forEach(post => {
     const postDate = post.date ? new Date(post.date).toISOString().split('T')[0] : todayStr;
@@ -160,11 +167,12 @@ function main() {
   xmlPosts += `</urlset>\n`;
   fs.writeFileSync(path.join(PUBLIC_DIR, 'sitemap-posts.xml'), xmlPosts, 'utf8');
 
-  // E. sitemap.xml (Google Search Console 標準 Sitemap Index)
+  // F. sitemap.xml (Google Search Console 標準 Sitemap Index)
   const sitemapIndexFiles = [
     'sitemap-main.xml',
     'sitemap-features.xml',
     'sitemap-prefectures.xml',
+    'sitemap-spots.xml',
     'sitemap-posts.xml'
   ];
   let sitemapIndexXml = `<?xml version="1.0" encoding="UTF-8"?>\n<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n`;
@@ -175,7 +183,7 @@ function main() {
   fs.writeFileSync(SITEMAP_FILE, sitemapIndexXml, 'utf8');
 
   const totalUrls = staticPages.length + featurePageSlugs.length + (PREFECTURE_SLUGS.length * 4) + citySubHubs.length + spotSlugs.length + posts.length;
-  console.log(`Generated Google Search Console optimized Sitemap Index (sitemap.xml) and 4 sub-sitemaps (main: ${staticPages.length}, features: ${featurePageSlugs.length}, prefectures: ${(PREFECTURE_SLUGS.length * 4) + citySubHubs.length + spotSlugs.length}, posts: ${posts.length}) - Total: ${totalUrls} URLs`);
+  console.log(`Generated Google Search Console optimized Sitemap Index (sitemap.xml) and 5 sub-sitemaps (main: ${staticPages.length}, features: ${featurePageSlugs.length}, prefectures: ${(PREFECTURE_SLUGS.length * 4) + citySubHubs.length}, spots: ${spotSlugs.length}, posts: ${posts.length}) - Total: ${totalUrls} URLs`);
 
   // --- 2. public/robots.txt 物理ファイルの自動生成 ---
   const robotsTxt = `User-agent: *
@@ -210,6 +218,7 @@ Sitemap: ${BASE_URL}/sitemap.xml
 Sitemap: ${BASE_URL}/sitemap-main.xml
 Sitemap: ${BASE_URL}/sitemap-features.xml
 Sitemap: ${BASE_URL}/sitemap-prefectures.xml
+Sitemap: ${BASE_URL}/sitemap-spots.xml
 Sitemap: ${BASE_URL}/sitemap-posts.xml
 `;
 

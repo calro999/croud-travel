@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     '絶景露天風呂 クーポン',
     '旬の味覚 宿泊割引'
   ],
-  alternates: { canonical: baseUrl + '/furusato-tax-strawberry-buffet-sweets-resort-hotel-stay' },
+  alternates: { canonical: baseUrl + '/furusato-tax-strawberry-buffet-sweets-resort-hotel-stay/' },
   openGraph: {
     title: '甘酸っぱい贅沢！いちごスイーツビュッフェ＆高級リゾートホテルステイ×ふるさと納税完全ガイド【2026年最新】那須・神戸・幕張',
     description: '春の訪れを告げる真っ赤な宝石！全国屈指のパティシエが腕を振るう豪華ストロベリービュッフェを名門ホテルで堪能。とちおとめ＆スカイベリーの食べ比べと那須高原バイキングが圧巻の「ホテルエピナール那須」、天然温泉スパと優雅なストロベリーアフタヌーンティー・スイーツフェアが人気の「神戸ベイシェラトン ホテル＆タワーズ」、スーパーあまおうショートケーキで名高いホテルニューオータニ直営「ホテルニューオータニ幕張」。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',

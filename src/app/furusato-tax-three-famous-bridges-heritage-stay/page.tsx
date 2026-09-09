@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     '2026年旅行'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-famous-bridges-heritage-stay'
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-famous-bridges-heritage-stay/'
   },
   openGraph: {
     title: '日本三名橋＆歴史遺産を望むリバーサイド名宿×ふるさと納税完全ガイド【2026年最新】岩国錦帯橋・長崎眼鏡橋・東京日本橋の風情旅',

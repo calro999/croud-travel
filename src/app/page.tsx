@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     "温泉宿", "おすすめホテル", "旅行", "楽天トラベル", "47都道府県", "子連れ旅行",
     "カップル旅行", "女子旅", "高級旅館", "露天風呂", "旅館予約", "国内旅行",
   ],
-  alternates: { canonical: baseUrl },
+  alternates: { canonical: `${baseUrl}/` },
   openGraph: {
     title: "日本全国の厳選宿・温泉旅館・ホテル一覧 ｜ 旅宿クラウド",
     description: "北海道から沖縄まで47都道府県の温泉宿・高級ホテルを厳選紹介。楽天トラベルで空室確認・予約。",

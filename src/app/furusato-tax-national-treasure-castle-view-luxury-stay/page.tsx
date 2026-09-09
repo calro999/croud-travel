@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     '2026年旅行'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-national-treasure-castle-view-luxury-stay'
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-national-treasure-castle-view-luxury-stay/'
   },
   openGraph: {
     title: '国宝天守・城下町キャッスルビュー名門宿×ふるさと納税完全ガイド【2026年最新】姫路城・松本城・彦根城の歴史旅',

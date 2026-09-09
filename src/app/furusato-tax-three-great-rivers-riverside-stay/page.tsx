@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   description: '坂東太郎（利根川）・筑紫次郎（筑後川）・四国三郎（吉野川）と称される日本三大河川の雄大な流域美とせせらぎに癒やされる旅。水上温泉、筑後川温泉、大歩危峡の絶景露天風呂を厳選。楽天ふるさと納税の宿泊割引クーポンを活用して賢く贅沢に巡る完全ガイド。',
   keywords: ["日本三大河川","利根川松乃井","筑後川温泉清乃屋","大歩危峡まんなか","リバーサイド温泉","水上温泉","楽天ふるさと納税"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-great-rivers-riverside-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-great-rivers-riverside-stay/',
   },
   openGraph: {
     title: '日本三大河川の雄大な流れを望むリバーサイド名湯宿×ふるさと納税完全ガイド【2026年最新】利根川・筑後川・吉野川',

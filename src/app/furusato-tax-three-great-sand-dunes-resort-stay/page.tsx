@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     '2026年旅行'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-great-sand-dunes-resort-stay'
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-great-sand-dunes-resort-stay/'
   },
   openGraph: {
     title: '日本三大砂丘＆雄大パノラマ・砂の絶景リゾート宿×ふるさと納税完全ガイド【2026年最新】鳥取砂丘・中田島砂丘・吹上浜の海宿',

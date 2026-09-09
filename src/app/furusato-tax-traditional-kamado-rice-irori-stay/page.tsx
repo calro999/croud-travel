@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     '2026年旅行'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-traditional-kamado-rice-irori-stay'
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-traditional-kamado-rice-irori-stay/'
   },
   openGraph: {
     title: '古民家かまど炊きご飯＆囲炉裏郷土料理の宿×ふるさと納税完全ガイド【2026年最新】白川郷・遠野・丹波篠山のおばあちゃん家ステイ',

@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     "北海道", "北海道観光", "北海道観光モデルコース", "北海道 2泊3日", "北海道 3泊4日",
     "札幌 ホテル", "函館 ホテル 朝食", "登別温泉 旅館", "北海道 海鮮", "北海道 ドライブ", "楽天トラベル"
   ],
-  alternates: { canonical: "https://croud-travel.pages.dev/hokkaido" },
+  alternates: { canonical: "https://croud-travel.pages.dev/hokkaido/" },
 };
 
 function loadHokkaidoData(): Record<string, RakutenCategoryData> {

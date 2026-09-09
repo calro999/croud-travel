@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     '温泉旅館 予約',
     '高級リゾート クーポン'
   ],
-  alternates: { canonical: baseUrl + '/furusato-tax-three-great-dragon-deity-shrines-sacred-stay' },
+  alternates: { canonical: baseUrl + '/furusato-tax-three-great-dragon-deity-shrines-sacred-stay/' },
   openGraph: {
     title: '日本三大龍穴＆龍神信仰の強力パワースポットと雲海・渓谷名宿×ふるさと納税完全ガイド【2026年最新】室生・貴船・箱根',
     description: '大地と天をつなぎ、水と雨を司る龍神が宿る日本最強の神聖なる地「日本三大龍穴」（奈良宇陀・室生龍穴神社吉祥龍穴、京都左京・貴船神社奥宮龍穴、神奈川箱根・箱根神社九頭龍神社本宮）。鬱蒼たる原生林と清冽な渓流、川床料理と雲海露天風呂。楽天ふるさと納税トラベルクーポンで実質2,000円負担で巡る龍神パワースポット巡礼ガイド。',

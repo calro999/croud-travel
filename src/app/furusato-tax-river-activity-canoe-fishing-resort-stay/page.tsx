@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     '2026年旅行'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-river-activity-canoe-fishing-resort-stay'
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-river-activity-canoe-fishing-resort-stay/'
   },
   openGraph: {
     title: '清流アクティビティ＆リバービュー温泉宿×ふるさと納税完全ガイド【2026年最新】長良川・四万十川・保津川の舟旅',

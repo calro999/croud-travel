@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     '絶景露天風呂 クーポン',
     '旬の味覚 宿泊割引'
   ],
-  alternates: { canonical: baseUrl + '/furusato-tax-resort-infinity-pool-luxury-hotel-stay' },
+  alternates: { canonical: baseUrl + '/furusato-tax-resort-infinity-pool-luxury-hotel-stay/' },
   openGraph: {
     title: '海と空に溶け込む圧倒的開放感！絶景インフィニティプール＆ラグジュアリーリゾートホテル×ふるさと納税完全ガイド【2026年最新】熱海・沖縄恩納村・別府',
     description: '水面と水平線がシームレスに交わる非日常の楽園！相模灘を見渡す全長約25mの露天立ち湯インフィニティ「熱海後楽園ホテル（オーシャンスパ Fuua）」、ハワイの名門が恩納村に創り上げた象徴的オーキッドプール「ハレクラニ沖縄」、別府湾を一望する棚湯と幻想的な温泉プールアクアガーデン「別府温泉 杉乃井ホテル」。カバナで過ごす優雅なカクテルタイムやスパ体験を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',

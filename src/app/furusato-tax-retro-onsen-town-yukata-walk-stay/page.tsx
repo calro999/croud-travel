@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     'ホテル バイキング クーポン',
     'オールインクルーシブ 割引'
   ],
-  alternates: { canonical: baseUrl + '/furusato-tax-retro-onsen-town-yukata-walk-stay' },
+  alternates: { canonical: baseUrl + '/furusato-tax-retro-onsen-town-yukata-walk-stay/' },
   openGraph: {
     title: '色浴衣と下駄で外湯めぐり＆レトロ温泉街歩き情緒の名宿×ふるさと納税完全ガイド【2026年最新】城崎・渋・銀山',
     description: 'カランコロンと下駄の音を響かせて歩く日本の原風景！柳並木の大谿川沿いに7つの外湯が連なる兵庫・城崎温泉「料理旅館 よしはる」、石畳の坂道と九つの外湯・厄除け巡浴が名物の長野・信州渋温泉「いかり屋旅館」、大正浪漫の木造建築群とガス灯が幻想的な山形「銀山温泉 古勢起屋別館」。色浴衣の無料貸出や名物湯めぐり手形が付いた情緒宿に、楽天ふるさと納税トラベルクーポンで実質2,000円負担で宿泊する完全ガイド。',

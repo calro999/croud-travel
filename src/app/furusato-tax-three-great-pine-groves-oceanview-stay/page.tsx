@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   description: '青い海と白い砂浜、幾万本もの黒松が美しく連なる日本三大松原（静岡・三保の松原、佐賀・唐津虹の松原、福井・敦賀気比の松原）。富士山を望む絶景宿や玄界灘・若狭湾の海の幸を味わう旅。楽天ふるさと納税完全活用。',
   keywords: ["日本三大松原","三保の松原","虹の松原","気比の松原","唐津シーサイドホテル","ホテルマイステイズ清水","楽天ふるさと納税"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-great-pine-groves-oceanview-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-great-pine-groves-oceanview-stay/',
   },
   openGraph: {
     title: '日本三大松原の白砂青松オーシャンビュー宿×ふるさと納税完全ガイド【2026年最新】三保の松原・虹の松原・気比の松原',

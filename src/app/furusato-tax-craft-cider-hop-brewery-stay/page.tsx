@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     '2026年旅行'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-craft-cider-hop-brewery-stay'
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-craft-cider-hop-brewery-stay/'
   },
   openGraph: {
     title: 'クラフトシードル＆ご当地ホップ醸造宿×ふるさと納税完全ガイド【2026年最新】弘前・遠野・南信州飯田の果実酒ステイ',

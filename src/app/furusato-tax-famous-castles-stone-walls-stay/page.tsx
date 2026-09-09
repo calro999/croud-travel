@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   description: '武士たちの誇りと築城技術の極致「日本屈指の名城」（長野・国宝松本城、兵庫・世界遺産姫路城、熊本・難攻不落の武者返し熊本城）。漆黒と白亜の対比、そびえ立つ天守閣を望む優雅な滞在。楽天ふるさと納税完全活用。',
   keywords: ["日本百名城","松本ホテル花月","ホテルモントレ姫路","熊本ホテルキャッスル","国宝松本城","世界遺産姫路城","熊本城","楽天ふるさと納税"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-famous-castles-stone-walls-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-famous-castles-stone-walls-stay/',
   },
   openGraph: {
     title: '日本百名城の石垣美と天守を望む城下町名門ホテル×ふるさと納税完全ガイド【2026年最新】松本城・姫路城・熊本城',

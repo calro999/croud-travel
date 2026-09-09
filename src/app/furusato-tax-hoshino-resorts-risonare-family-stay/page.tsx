@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     '実質2000円'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-hoshino-resorts-risonare-family-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-hoshino-resorts-risonare-family-stay/',
   },
   openGraph: {
     title: '家族の最高の思い出を！星野リゾート「リゾナーレ」×ふるさと納税完全攻略ガイド【2026年最新】八ヶ岳・熱海・那須で洗練された非日常ステイ',

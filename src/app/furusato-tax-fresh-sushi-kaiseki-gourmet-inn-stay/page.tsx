@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     '温泉旅館 クーポン',
     '高級リゾート 割引'
   ],
-  alternates: { canonical: baseUrl + '/furusato-tax-fresh-sushi-kaiseki-gourmet-inn-stay' },
+  alternates: { canonical: baseUrl + '/furusato-tax-fresh-sushi-kaiseki-gourmet-inn-stay/' },
   openGraph: {
     title: '漁港直送の極上寿司会席＆職人握りを味わう名湯温泉宿×ふるさと納税完全ガイド【2026年最新】石川加賀・東伊豆熱川・伊東',
     description: '海の幸の宝庫・日本海の新鮮魚介や相模灘の朝獲れ地魚を職人が目の前で握る！名勝鶴仙渓の絶景と加賀・能登の極上握りを味わう「山中温泉 かがり吉祥亭」、6つの自家源泉貸切風呂と伊豆の鮮魚寿司会席が自慢の「ふたりの湯宿 湯花満開」、伊東港直送の地魚握りと相模湾パノラマ露天風呂を誇る「伊東温泉 横浜藤よし伊豆店」。旬の地魚寿司と極上温泉を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で堪能する美食旅ガイド。',

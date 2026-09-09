@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     '実質2000円'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-hida-takayama-old-town-luxury-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-hida-takayama-old-town-luxury-stay/',
   },
   openGraph: {
     title: '出格子の町家と宮川朝市！飛騨高山の古い町並み徒歩圏＆とろとろ美肌温泉・最高峰飛騨牛会席名宿×ふるさと納税完全攻略ガイド【2026年最新】花兆庵・花扇・光風館',

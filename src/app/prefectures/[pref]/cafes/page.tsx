@@ -23,7 +23,7 @@ export async function generateMetadata({ params }: { params: Promise<{ pref: str
     description: `${prefInfo.name}の本当に訪れるべき絶景カフェ、町家・歴史レトロ喫茶、話題のスイーツ名店を徹底網羅。混雑回避テクニックや看板メニュー、周辺ホテル情報までプロが比較検証して紹介！`,
     keywords: [prefInfo.name, "カフェ", "スイーツ", "レトロ喫茶", "絶景カフェ", "ランキング", "観光", "楽天トラベル"],
     alternates: {
-      canonical: `${baseUrl}/prefectures/${prefInfo.slug}/cafes`,
+      canonical: `${baseUrl}/prefectures/${prefInfo.slug}/cafes/`,
     },
     openGraph: {
       title: `${prefInfo.name}のおすすめ絶景＆レトロカフェ・スイーツ比較ランキング`,

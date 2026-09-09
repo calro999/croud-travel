@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     '絶景露天風呂 クーポン',
     '旬の味覚 宿泊割引'
   ],
-  alternates: { canonical: baseUrl + '/furusato-tax-private-room-open-air-bath-luxury-stay' },
+  alternates: { canonical: baseUrl + '/furusato-tax-private-room-open-air-bath-luxury-stay/' },
   openGraph: {
     title: '客室露天風呂付き客室で過ごす大人のプライベート温泉ステイ名旅館×ふるさと納税完全ガイド【2026年最新】修善寺・箱根・京都嵐山',
     description: '好きな時に好きなだけ名湯に浸かる至福の時間！一万五千坪の日本庭園と緑に包まれる露天風呂付き客室を誇る伊豆の隠れ宿「修善寺温泉 宙 SORA 渡月荘金龍」、自家源泉を全室の専用露天風呂に掛け流し竹取物語の世界観を体現した「箱根 金乃竹 塔ノ澤」、保津川を望むプライベート露天風呂と最高峰の京懐石フレンチが評判の「翠嵐 ラグジュアリーコレクションホテル 京都」。誰にも邪魔されないおこもり滞在を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',

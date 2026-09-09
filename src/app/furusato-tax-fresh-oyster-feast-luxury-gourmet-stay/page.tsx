@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     '絶景露天風呂 クーポン',
     '旬の味覚 宿泊割引'
   ],
-  alternates: { canonical: baseUrl + '/furusato-tax-fresh-oyster-feast-luxury-gourmet-stay' },
+  alternates: { canonical: baseUrl + '/furusato-tax-fresh-oyster-feast-luxury-gourmet-stay/' },
   openGraph: {
     title: '本場名産地で味わう極上牡蠣尽くし会席＆生牡蠣・焼き牡蠣の贅沢温泉宿×ふるさと納税完全ガイド【2026年最新】宮島・伊勢志摩・三陸気仙沼',
     description: '海のミルクと称される濃厚な旬牡蠣を本場の名宿で堪能！世界遺産・厳島神社の参道に佇み広島牡蠣と伝統の数寄屋建築を誇る「宮島グランドホテル 有もと」、的矢かき・本浦かきの本場として知られる鳥羽の自家源泉美肌宿「サン浦島 悠季の里」、世界三大漁場・三陸の栄養豊かな大粒牡蠣を味わう気仙沼大島「旅館 椿荘花月」。ぷりぷりの生牡蠣、香ばしい焼き牡蠣、サクサクのカキフライに熱々牡蠣鍋。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',

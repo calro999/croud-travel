@@ -36,7 +36,7 @@ export const metadata: Metadata = {
     "能登 牡蠣 食べ歩き", "能登 海鮮丼", "能登 寿司", "能登 カフェ", "能登 お土産", "揚浜式塩田",
     "能登 温泉宿", "能登 露天風呂付き客室", "能登 オーシャンビュー ホテル", "能登 コスパ ホテル", "楽天トラベル"
   ],
-  alternates: { canonical: "https://croud-travel.pages.dev/noto" },
+  alternates: { canonical: "https://croud-travel.pages.dev/noto/" },
   openGraph: {
     title: "能登旅行 完全計画サポートガイド ｜ 旅宿クラウド",
     description: "能登旅行を思い立った瞬間から宿泊予約まで。和倉温泉・白米千枚田・モデルコース・能登丼・絶景温泉宿徹底比較。",

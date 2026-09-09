@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     '絶景露天風呂 クーポン',
     '旬の味覚 宿泊割引'
   ],
-  alternates: { canonical: baseUrl + '/furusato-tax-footbath-cafe-ashiyu-terrace-onsen-stay' },
+  alternates: { canonical: baseUrl + '/furusato-tax-footbath-cafe-ashiyu-terrace-onsen-stay/' },
   openGraph: {
     title: '清流のせせらぎと温もり足湯カフェ！ベーカリーテラス＆足湯散策リゾート温泉宿×ふるさと納税完全ガイド【2026年最新】伊豆吉奈・黒川温泉・上高地',
     description: '服を着たまま気軽に名湯の温もりと絶景を愉しむ！吉奈温泉の清流沿いに広がる名物足湯カフェ＆焼きたてベーカリー「東府や Resort＆Spa-Izu」、田の原川のせせらぎを望む足湯と大露天風呂仙人風呂「黒川温泉 やまびこ旅館」、北アルプスの絶景を仰ぐ樽風呂足湯と自家源泉かけ流し「上高地温泉ホテル」。美味しいスイーツやパンとともに癒やされる特別な休日を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',

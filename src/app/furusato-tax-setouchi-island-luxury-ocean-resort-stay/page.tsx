@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     '絶景露天風呂 クーポン',
     '旬の味覚 宿泊割引'
   ],
-  alternates: { canonical: baseUrl + '/furusato-tax-setouchi-island-luxury-ocean-resort-stay' },
+  alternates: { canonical: baseUrl + '/furusato-tax-setouchi-island-luxury-ocean-resort-stay/' },
   openGraph: {
     title: '穏やかな海と多島美に癒やされる瀬戸内アイランドリゾート名宿×ふるさと納税完全ガイド【2026年最新】小豆島・鞆の浦・生口島',
     description: '鏡のように穏やかな青い海、点在する島々のシルエット、心地よい潮風。東洋のエーゲ海と称される瀬戸内海の極上リゾートを厳選！潮の満ち引きで現れるエンジェルロードが目の前の「小豆島国際ホテル」、仙酔島と弁天島を望む全室温泉露天風呂付き大人の隠れ家「鞆の浦温泉 汀邸 遠音近音」、しまなみ海道・生口島の豪商屋敷を再生した世界的ラグジュアリー旅館「Azumi Setoda」。オリーブ牛や鯛・タコなど瀬戸内の美食とともに、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',

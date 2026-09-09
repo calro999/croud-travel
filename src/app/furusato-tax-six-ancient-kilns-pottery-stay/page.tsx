@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   description: '中世から窯の火が途絶えることなく続く日本屈指のやきものの里「日本六古窯」（岡山・備前焼、滋賀・信楽焼、兵庫・丹波焼）。登り窯のぬくもりと作家の器で味わう極上会席料理。楽天ふるさと納税宿泊クーポン完全活用。',
   keywords: ["日本六古窯","備前ホテル陶","信楽ホテルレイクヴィラ","丹波篠山近又","備前焼","信楽焼","丹波立杭焼","楽天ふるさと納税"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-six-ancient-kilns-pottery-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-six-ancient-kilns-pottery-stay/',
   },
   openGraph: {
     title: '日本六古窯の里を巡る陶芸美と作家の器で味わう名旅館×ふるさと納税完全ガイド【2026年最新】備前・信楽・丹波立杭',

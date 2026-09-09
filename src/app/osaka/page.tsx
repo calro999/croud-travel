@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     "大阪", "大阪観光", "大阪観光モデルコース", "大阪 1泊2日", "大阪 2泊3日",
     "大阪駅 ホテル", "なんば ホテル", "USJ ホテル", "大阪 ホテル 朝食", "楽天トラベル"
   ],
-  alternates: { canonical: "https://croud-travel.pages.dev/osaka" },
+  alternates: { canonical: "https://croud-travel.pages.dev/osaka/" },
 };
 
 function loadOsakaData(): Record<string, RakutenCategoryData> {

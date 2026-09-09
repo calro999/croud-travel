@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   description: '千年の祈りが息づく世界遺産「紀伊山地の霊場と参詣道・熊野古道」。日本最古の湯の峰温泉つぼ湯、那智の滝と大門坂、大洞窟温泉を誇る勝浦温泉、太平洋を一望する白浜温泉。楽天ふるさと納税宿泊クーポン完全活用。',
   keywords: ["熊野古道","世界遺産","湯の峰温泉あづまや","ホテル浦島","浜千鳥の湯海舟","那智勝浦温泉","楽天ふるさと納税"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-kumano-kodo-world-heritage-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-kumano-kodo-world-heritage-stay/',
   },
   openGraph: {
     title: '世界遺産・熊野古道の祈りの巡礼路と名湯宿×ふるさと納税完全ガイド【2026年最新】湯の峰・那智勝浦・白浜',

@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     '2026年旅行'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-kue-gourmet-luxury-fish-stay'
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-kue-gourmet-luxury-fish-stay/'
   },
   openGraph: {
     title: '天然クエ鍋＆幻の高級魚グルメ宿×ふるさと納税完全ガイド【2026年最新】南紀白浜・長崎五島・高知室戸の本クエ会席',

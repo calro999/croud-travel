@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     '絶景露天風呂 クーポン',
     '旬の味覚 宿泊割引'
   ],
-  alternates: { canonical: baseUrl + '/furusato-tax-art-museum-architecture-luxury-hotel-stay' },
+  alternates: { canonical: baseUrl + '/furusato-tax-art-museum-architecture-luxury-hotel-stay/' },
   openGraph: {
     title: '安藤忠雄建築や現代アートと眠る美術館ホテル＆アートリゾート×ふるさと納税完全ガイド【2026年最新】直島・箱根強羅・青森',
     description: '絵画や彫刻、世界的建築家の美意識に包まれて過ごす知的で贅沢な休日！世界的建築家・安藤忠雄が設計し現代アート作品と共生する瀬戸内直島の最高峰「ベネッセハウス」、彫刻の森美術館やポーラ美術館至近・全室温泉露天風呂付きモダンリゾート「箱根・強羅 佳ら久」、十和田市現代美術館の拠点となり岡本太郎作品や伝統ねぶたアートを体感する「星野リゾート 青森屋」。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',

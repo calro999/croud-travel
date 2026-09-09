@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     '実質2000円'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-furano-biei-lavender-nature-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-furano-biei-lavender-nature-stay/',
   },
   openGraph: {
     title: '紫に染まるラベンダー畑と神秘の青い池！富良野・美瑛の十勝岳連峰一望リゾート＆源泉かけ流し名湯×ふるさと納税完全攻略ガイド【2026年最新】新富良野プリンス・オリカ・白金温泉ゆゆ',

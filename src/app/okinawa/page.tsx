@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     "沖縄 リゾートホテル", "沖縄 ホテル プール", "沖縄 子連れ ホテル", "沖縄 カップル ホテル",
     "沖縄 雨の日", "沖縄 穴場", "那覇 ホテル", "恩納村 ホテル", "楽天トラベル"
   ],
-  alternates: { canonical: "https://croud-travel.pages.dev/okinawa" },
+  alternates: { canonical: "https://croud-travel.pages.dev/okinawa/" },
 };
 
 function loadOkinawaData(): Record<string, RakutenCategoryData> {

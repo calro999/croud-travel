@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     '絶景露天風呂 クーポン',
     '旬の味覚 宿泊割引'
   ],
-  alternates: { canonical: baseUrl + '/furusato-tax-natural-mud-bath-mineral-detox-onsen-stay' },
+  alternates: { canonical: baseUrl + '/furusato-tax-natural-mud-bath-mineral-detox-onsen-stay/' },
   openGraph: {
     title: '天然ミネラル泥パックで全身ツルツル美肌！極上泥湯温泉＆湯治名旅館×ふるさと納税完全ガイド【2026年最新】八幡平後生掛・霧島・別府鉄輪',
     description: '地球のマグマの恵み・天然ミネラルたっぷりの泥に包まれる究極の美肌湯！「馬で来て足駄で帰る」と称される八幡平の名湯泥風呂（火山泥湿湯）「後生掛温泉」、天然泥パックの元祖として乳白色の泥を全身に塗る鹿児島「さくらさくら温泉」、鉄輪温泉名物の美肌クレイ泥湯と地獄蒸し郷土料理が評判の「別府・鉄輪 神丘温泉 豊山荘」。お肌が生まれ変わる極上の泥湯ステイを、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',

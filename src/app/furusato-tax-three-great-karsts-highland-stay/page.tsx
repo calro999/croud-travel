@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   description: '緑の高原に無数の白大理石・石灰岩が羊の群れのように広がる日本三大カルスト（秋吉台・四国カルスト・平尾台）。標高1400mの星空リゾートやカルスト山麓の天然温泉宿で非日常を満喫。楽天ふるさと納税を活用したお得で開放感溢れる絶景高原旅行術を徹底解説。',
   keywords: ["日本三大カルスト","秋吉台温泉","星ふるヴィレッジTENGU","ホテルクラウンパレス小倉","四国カルスト","平尾台","楽天ふるさと納税"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-great-karsts-highland-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-great-karsts-highland-stay/',
   },
   openGraph: {
     title: '日本三大カルストの白銀石灰岩パノラマと高原リゾート宿×ふるさと納税完全ガイド【2026年最新】秋吉台・四国カルスト・平尾台',

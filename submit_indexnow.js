@@ -10,7 +10,7 @@ const KEY_LOCATION = `https://${HOST}/${KEY}.txt`;
 fs.writeFileSync(path.join(__dirname, 'public', `${KEY}.txt`), KEY, 'utf8');
 
 // サイトマップから全URLを抽出
-const sitemaps = ['sitemap-main.xml', 'sitemap-features.xml', 'sitemap-prefectures.xml', 'sitemap-posts.xml'];
+const sitemaps = ['sitemap-main.xml', 'sitemap-features.xml', 'sitemap-prefectures.xml', 'sitemap-spots.xml', 'sitemap-posts.xml'];
 let urls = [];
 for (const sm of sitemaps) {
   const p = path.join(__dirname, 'public', sm);

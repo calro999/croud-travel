@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   description: '何百万年もの地殻変動が創り出した大地の彫刻！群馬「妙義山」、大分「耶馬渓」、香川「小豆島寒霞渓」の日本三大奇勝。天を衝く岩峰パノラマを望む展望露天風呂と美食を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: ["日本三大奇勝","妙義グリーンホテル","耶馬渓えぼしや","小豆島国際ホテル","寒霞渓","絶景温泉","楽天ふるさと納税"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-great-scenic-wonders-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-great-scenic-wonders-stay/',
   },
   openGraph: {
     title: '日本三大奇勝の壮麗な岩壁美と秘湯宿×ふるさと納税完全ガイド【2026年最新】妙義山・耶馬渓・小豆島寒霞渓',

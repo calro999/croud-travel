@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     '温泉旅館 予約',
     '高級リゾート クーポン'
   ],
-  alternates: { canonical: baseUrl + '/furusato-tax-three-great-sake-brewery-towns-auberge-stay' },
+  alternates: { canonical: baseUrl + '/furusato-tax-three-great-sake-brewery-towns-auberge-stay/' },
   openGraph: {
     title: '日本三大酒蔵通り＆白壁土蔵の町並み散策と発酵美食オーベルジュ宿×ふるさと納税完全ガイド【2026年最新】伏見・西条・灘五郷',
     description: '酒造りの歴史と伝統が息づく「日本三大酒蔵通り」（京都・伏見酒蔵通り、広島・東広島西条酒蔵通り、兵庫・神戸灘五郷）。赤煉瓦の煙突、白壁土蔵、杉玉が下がる風情ある町並みを散策し、蔵元直営の利き酒と酒粕発酵会席を堪能。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ大人の美食・美酒ツーリズム完全ガイド。',

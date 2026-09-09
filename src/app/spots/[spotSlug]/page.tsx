@@ -44,7 +44,7 @@ export async function generateMetadata({ params }: { params: Promise<{ spotSlug:
     description: `${spot.name}（${spot.prefName}${spot.cityName}）の見どころ、アクセス、所要時間、実際の魅力、周辺の徒歩圏内のおすすめホテル・温泉宿、合わせて巡りたい観光地を詳しく解説。`,
     keywords: [spot.name, spot.cityName, spot.prefName, "どんなところ", "見どころ", "アクセス", "近くの宿", "周辺ホテル", "観光ガイド"],
     alternates: {
-      canonical: `${baseUrl}/spots/${spot.slug}`,
+      canonical: `${baseUrl}/spots/${spot.slug}/`,
     },
     openGraph: {
       title: `【${spot.name} 徹底解説】見どころ・アクセス＆近くのおすすめホテル宿ガイド`,

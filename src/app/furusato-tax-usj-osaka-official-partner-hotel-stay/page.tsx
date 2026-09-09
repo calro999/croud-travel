@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     '実質2000円'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-usj-osaka-official-partner-hotel-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-usj-osaka-official-partner-hotel-stay/',
   },
   openGraph: {
     title: 'パーク徒歩圏＆天然温泉！USJオフィシャルホテル×ふるさと納税完全攻略ガイド【2026年最新】近鉄・京阪タワー・リーベルで大阪旅行をお得に満喫',

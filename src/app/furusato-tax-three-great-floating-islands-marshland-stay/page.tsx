@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     '温泉旅館 予約',
     '高級リゾート クーポン'
   ],
-  alternates: { canonical: baseUrl + '/furusato-tax-three-great-floating-islands-marshland-stay' },
+  alternates: { canonical: baseUrl + '/furusato-tax-three-great-floating-islands-marshland-stay/' },
   openGraph: {
     title: '日本三大浮島湿原＆風に揺れる神秘の浮島と高原温泉リゾート名宿×ふるさと納税完全ガイド【2026年最新】尾瀬・大沼・深泥池',
     description: '池や湖の泥炭層が水面に浮かび、風や水位で位置を変える神秘の自然現象「日本三大浮島湿原」（群馬福島新潟・尾瀬ヶ原、山形朝日町・大沼浮島、京都北山・深泥池）。ミズバショウやニッコウキスゲの群生、氷河期の生き残り遺存種、静寂に包まれた高原リゾート。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ高山・湿原リトリート完全ガイド。',

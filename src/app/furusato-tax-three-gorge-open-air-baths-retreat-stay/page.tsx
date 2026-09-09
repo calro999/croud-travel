@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: '川と一体化する究極の野天風呂！静岡「天城湯ヶ島温泉」狩野川渓谷の清流露天風呂と天城本わさび・猪鍋会席、群馬「尻焼温泉・花敷温泉」川底から温泉が湧き出す天然の巨大川風呂と四万清流宿、秋田「秋の宮温泉郷・泥湯」役内川沿いの秘湯露天風呂と稲庭うどん会席。大自然の渓谷美と名湯を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: 'ふるさと納税, 楽天トラベル, 旅行クーポン, 宿泊記, ホテル予約, 国内旅行, おすすめ宿, 温泉旅館',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-gorge-open-air-baths-retreat-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-gorge-open-air-baths-retreat-stay/',
   },
   openGraph: {
     title: '日本三大渓谷露天風呂＆大自然パノラマ野天温泉宿×ふるさと納税完全ガイド【2026年最新】天城湯ヶ島・群馬尻焼・秋田秋の宮',

@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     '温泉旅館 予約',
     '高級リゾート クーポン'
   ],
-  alternates: { canonical: baseUrl + '/furusato-tax-three-great-ancient-baths-heritage-stay' },
+  alternates: { canonical: baseUrl + '/furusato-tax-three-great-ancient-baths-heritage-stay/' },
   openGraph: {
     title: '日本三古湯＆飛鳥・万葉の昔から湧き出る最古の名湯と老舗名旅館×ふるさと納税完全ガイド【2026年最新】道後・有馬・白浜',
     description: '日本書紀や風土記に記された三千年の歴史を誇る「日本三古湯」（愛媛・道後温泉、兵庫・有馬温泉、和歌山・白浜温泉）。聖徳太子や歴代天皇、文豪たちが愛した名湯の原点。文化財の湯屋建築、金泉・銀泉の濃厚濁り湯、太平洋を一望する波打ち際露天風呂。楽天ふるさと納税トラベルクーポンで実質2,000円負担で泊まる極上の歴史名湯ステイ完全ガイド。',

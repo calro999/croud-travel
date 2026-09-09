@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: '日本酒の神髄を極める酒造りの匠たち！岩手「南部杜氏」日本最大の蔵人集団と花巻温泉郷の名湯、新潟「越後杜氏」淡麗辛口の聖地と魚沼純米大吟醸・美肌湯、兵庫「丹波杜氏」灘五郷を支えた匠と丹波篠山ぼたん鍋・城下町宿。美酒と仕込み水温泉の至福ステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: 'ふるさと納税, 楽天トラベル, 旅行クーポン, 宿泊記, ホテル予約, 国内旅行, おすすめ宿, 温泉旅館',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-master-brewers-toji-sake-inn-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-master-brewers-toji-sake-inn-stay/',
   },
   openGraph: {
     title: '日本三大杜氏の郷＆極上純米大吟醸・仕込み水温泉宿×ふるさと納税完全ガイド【2026年最新】南部・越後・丹波',

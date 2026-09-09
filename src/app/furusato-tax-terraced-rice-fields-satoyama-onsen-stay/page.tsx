@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     '2026年旅行'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-terraced-rice-fields-satoyama-onsen-stay'
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-terraced-rice-fields-satoyama-onsen-stay/'
   },
   openGraph: {
     title: '絶景棚田＆日本の原風景里山温泉宿×ふるさと納税完全ガイド【2026年最新】星峠・白米千枚田・大山千枚田の休日',

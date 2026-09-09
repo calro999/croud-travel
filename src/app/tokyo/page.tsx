@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     "東京", "東京観光", "東京観光モデルコース", "東京 1泊2日", "東京 2泊3日",
     "東京駅 ホテル", "新宿 ホテル", "東京 ホテル 夜景", "東京 ホテル 朝食", "楽天トラベル"
   ],
-  alternates: { canonical: "https://croud-travel.pages.dev/tokyo" },
+  alternates: { canonical: "https://croud-travel.pages.dev/tokyo/" },
 };
 
 function loadTokyoData(): Record<string, RakutenCategoryData> {

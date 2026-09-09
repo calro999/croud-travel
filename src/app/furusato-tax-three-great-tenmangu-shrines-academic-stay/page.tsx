@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     '温泉旅館 予約',
     '高級リゾート クーポン'
   ],
-  alternates: { canonical: baseUrl + '/furusato-tax-three-great-tenmangu-shrines-academic-stay' },
+  alternates: { canonical: baseUrl + '/furusato-tax-three-great-tenmangu-shrines-academic-stay/' },
   openGraph: {
     title: '日本三大天満宮＆学問の神様・合格祈願と梅香る門前町宿×ふるさと納税完全ガイド【2026年最新】太宰府・北野・防府',
     description: '学問の神様・菅原道真公を祀る全国天満宮の総本山・三大聖地「日本三大天満宮」（福岡・太宰府天満宮、京都・北野天満宮、山口・防府天満宮）。受験合格・学業成就・厄除け祈願とともに、千本を超える梅の名所と歴史ある門前町を散策。楽天ふるさと納税トラベルクーポンで実質2,000円負担で泊まるおすすめ名門宿完全ガイド。',

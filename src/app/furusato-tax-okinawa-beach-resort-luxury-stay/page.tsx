@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     '実質2000円'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-okinawa-beach-resort-luxury-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-okinawa-beach-resort-luxury-stay/',
   },
   openGraph: {
     title: '美ら海と白い砂浜が目の前！沖縄本島最高峰ビーチリゾートホテル×ふるさと納税完全攻略ガイド【2026年最新】ハレクラニ・ルネッサンス・ロワジール',

@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     '2026年旅行'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-brand-pork-shabu-gourmet-stay'
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-brand-pork-shabu-gourmet-stay/'
   },
   openGraph: {
     title: '銘柄豚・極上しゃぶしゃぶ料理の名湯宿×ふるさと納税完全ガイド【2026年最新】鹿児島黒豚・平田牧場金華豚・那須高原豚の美食旅',

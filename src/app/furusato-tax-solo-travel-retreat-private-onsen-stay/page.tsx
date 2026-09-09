@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     'ホテル バイキング クーポン',
     'オールインクルーシブ 割引'
   ],
-  alternates: { canonical: baseUrl + '/furusato-tax-solo-travel-retreat-private-onsen-stay' },
+  alternates: { canonical: baseUrl + '/furusato-tax-solo-travel-retreat-private-onsen-stay/' },
   openGraph: {
     title: '一人旅歓迎！誰にも気兼ねせず自分を癒やす極上おこもり温泉宿×ふるさと納税完全ガイド【2026年最新】箱根湯本・草津・由布院',
     description: '日常の慌ただしさを離れて心と身体をリセット。一人旅歓迎の客室露天風呂付きプランや静寂の読書ラウンジを備えた大人のご褒美宿を厳選。都心からロマンスカーで直行できる箱根湯本「ホテル南風荘」、湯畑散策と天下の名湯を一人占めする草津温泉「薬師の湯 湯元館」、由布岳の麓で神秘の青湯に抱かれる「由布院温泉 束ノ間」。一人旅プラン充実の名宿に、楽天ふるさと納税トラベルクーポンで実質2,000円負担で宿泊する完全ガイド。',

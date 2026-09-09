@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   description: '五街道の起点・東京「日本橋」、木造五連アーチが奇跡を描く山口「錦帯橋」、日本最古の石造りアーチ長崎「眼鏡橋」。日本の土木美と歴史情緒が凝縮された三大名橋を巡る旅。ラグジュアリーホテルや城下町老舗宿を楽天ふるさと納税完全活用。',
   keywords: ["日本三大名橋","マンダリンオリエンタル東京","岩国国際観光ホテル","にっしょうかん別邸紅葉亭","日本橋","錦帯橋","長崎眼鏡橋","楽天ふるさと納税"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-great-bridges-heritage-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-great-bridges-heritage-stay/',
   },
   openGraph: {
     title: '日本三大名橋の歴史美と城下町名門宿×ふるさと納税完全ガイド【2026年最新】日本橋・錦帯橋・長崎眼鏡橋',

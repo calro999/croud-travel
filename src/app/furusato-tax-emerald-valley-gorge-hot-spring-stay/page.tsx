@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: '息をのむ大自然の造形美！徳島「大歩危・祖谷渓」エメラルドグリーンの吉野川とケーブルカーで行く谷底露天風呂、富山「黒部峡谷」トロッコ列車で行く断崖パノラマと宇奈月美肌温泉、新潟「清津峡」アートと巨大柱状節理の幻想世界＆越後秘湯。大峡谷の絶景名湯を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: 'ふるさと納税, 楽天トラベル, 旅行クーポン, 宿泊記, ホテル予約, 国内旅行, おすすめ宿, 温泉旅館',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-emerald-valley-gorge-hot-spring-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-emerald-valley-gorge-hot-spring-stay/',
   },
   openGraph: {
     title: '日本三大渓谷美＆エメラルドグリーンの峡谷温泉宿×ふるさと納税完全ガイド【2026年最新】大歩危・黒部峡谷・清津峡',

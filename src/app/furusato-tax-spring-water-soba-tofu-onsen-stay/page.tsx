@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     '2026年旅行'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-spring-water-soba-tofu-onsen-stay'
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-spring-water-soba-tofu-onsen-stay/'
   },
   openGraph: {
     title: '名水百選・湧水めぐり＆名水蕎麦豆腐料理の宿×ふるさと納税完全ガイド【2026年最新】忍野八海・安曇野・郡上八幡の名湯',

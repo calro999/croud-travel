@@ -6,7 +6,7 @@ const KEY = 'c4d9e7284b9148d2bc079e2f9d658931';
 const HOST = 'croud-travel.pages.dev';
 
 // サイトマップから全URLを抽出
-const sitemaps = ['sitemap-main.xml', 'sitemap-features.xml', 'sitemap-prefectures.xml', 'sitemap-posts.xml'];
+const sitemaps = ['sitemap-main.xml', 'sitemap-features.xml', 'sitemap-prefectures.xml', 'sitemap-spots.xml', 'sitemap-posts.xml'];
 let urls = [];
 for (const sm of sitemaps) {
   const p = path.join(__dirname, 'public', sm);

@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     '実質2000円'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-ginzan-onsen-taisho-romantic-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-ginzan-onsen-taisho-romantic-stay/',
   },
   openGraph: {
     title: 'ガス灯揺らめく大正ロマンの木造楼閣！銀山温泉の川沿い名門旅館＆極上尾花沢牛会席×ふるさと納税完全攻略ガイド【2026年最新】能登屋・銀山荘・古勢起屋',

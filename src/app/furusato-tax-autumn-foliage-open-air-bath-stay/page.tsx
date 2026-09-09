@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     '絶景露天風呂 クーポン',
     '旬の味覚 宿泊割引'
   ],
-  alternates: { canonical: baseUrl + '/furusato-tax-autumn-foliage-open-air-bath-stay' },
+  alternates: { canonical: baseUrl + '/furusato-tax-autumn-foliage-open-air-bath-stay/' },
   openGraph: {
     title: '赤や黄金の山並みを愛でる絶景紅葉露天風呂名旅館×ふるさと納税完全ガイド【2026年最新】日光中禅寺湖・京都嵐山・箱根小涌谷',
     description: '山一面が燃え盛るような錦秋の絶景！秋の日本を代表する紅葉名所で湯船から赤や黄色のグラデーションを愛でる贅沢ステイ。中禅寺湖畔の静寂と乳白色の天然硫黄泉「日光中禅寺金谷ホテル」、渡月橋たもとで嵐山の紅葉絵巻と伝統京懐石を満喫する「京都 嵐山温泉 渡月亭」、小涌谷の森に包まれ掛け流し温泉で寛ぐ「箱根小涌園 美山楓林」。早期満室となる紅葉シーズンの特等席宿に、楽天ふるさと納税トラベルクーポンで実質2,000円負担で宿泊する完全ガイド。',

@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: '白砂青松の絶景パノラマ！静岡「三保松原」富士山を仰ぎ見る世界遺産の羽衣伝説リゾート、佐賀「虹の松原」唐津湾に弧を描く100万本の黒松林と呼子イカ・唐津城下町名旅館、福井「気比の松原」敦賀湾の茜色夕景と敦賀真鯛・若狭カニ会席。日本の伝統美を誇る海浜リゾートを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: 'ふるさと納税, 楽天トラベル, 旅行クーポン, 宿泊記, ホテル予約, 国内旅行, おすすめ宿, 温泉旅館',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-great-pine-groves-ocean-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-great-pine-groves-ocean-stay/',
   },
   openGraph: {
     title: '日本三大松原＆白砂青松オーシャンビュー宿×ふるさと納税完全ガイド【2026年最新】三保松原・虹の松原・気比の松原',

@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     '温泉旅館 クーポン',
     '高級リゾート 割引'
   ],
-  alternates: { canonical: baseUrl + '/furusato-tax-onsen-steam-natural-hotspring-healing-stay' },
+  alternates: { canonical: baseUrl + '/furusato-tax-onsen-steam-natural-hotspring-healing-stay/' },
   openGraph: {
     title: '湯煙たなびく温泉街・名物地獄蒸し＆天然砂むし極上湯治宿×ふるさと納税完全ガイド【2026年最新】別府鉄輪・指宿・雲仙',
     description: '地球の鼓動を全身で感じる圧巻の温泉エネルギー！至る所から白い湯煙が噴き出す大分・別府鉄輪温泉の伝統湯治宿「旅館 さくら屋」、波打ち際の地熱で全身を包み込む鹿児島・指宿温泉の名門「指宿白水館」、もうもうと立ち上る雲仙地獄とおしどりの池の静寂に抱かれる長崎「雲仙温泉 東園」。温泉の噴気で蒸し上げる滋養満点の「地獄蒸し料理」や天然デトックス浴を、楽天ふるさと納税トラベルクーポンで実質2,000円で体験する完全ガイド。',

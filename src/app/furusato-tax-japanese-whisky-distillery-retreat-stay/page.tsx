@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: '世界が絶賛するジャパニーズウイスキー！北海道「ニッカウヰスキー余市蒸溜所」石炭直火蒸溜の重厚モルトと積丹オーベルジュ、山梨「サントリー白州蒸溜所」南アルプスの森のウイスキーと八ヶ岳高原リゾート、静岡「キリン富士御殿場蒸溜所」富士の伏流水ブレンドと霊峰ビュー温泉宿。蒸溜所見学と銘酒ステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: 'ふるさと納税, 楽天トラベル, 旅行クーポン, 宿泊記, ホテル予約, 国内旅行, おすすめ宿, 温泉旅館',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-japanese-whisky-distillery-retreat-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-japanese-whisky-distillery-retreat-stay/',
   },
   openGraph: {
     title: '日本のウイスキー聖地＆蒸溜所ツアーと極上オーベルジュ×ふるさと納税完全ガイド【2026年最新】余市・白州・富士御殿場',

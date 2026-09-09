@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     '実質2000円'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-echigo-yuzawa-onsen-sake-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-echigo-yuzawa-onsen-sake-stay/',
   },
   openGraph: {
     title: '川端康成『雪国』の舞台！越後湯沢温泉の展望絶景露天風呂＆本場魚沼産コシヒカリ・越後地酒名門宿×ふるさと納税完全攻略ガイド【2026年最新】双葉・NASPAニューオータニ・いなもと',

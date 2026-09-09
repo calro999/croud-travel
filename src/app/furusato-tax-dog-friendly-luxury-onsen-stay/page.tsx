@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     '温泉旅館 クーポン',
     '高級リゾート 割引'
   ],
-  alternates: { canonical: baseUrl + '/furusato-tax-dog-friendly-luxury-onsen-stay' },
+  alternates: { canonical: baseUrl + '/furusato-tax-dog-friendly-luxury-onsen-stay/' },
   openGraph: {
     title: '愛犬と泊まる極上客室露天風呂＆広大ドッグラン温泉宿×ふるさと納税完全ガイド【2026年最新】伊豆高原・那須高原・琵琶湖',
     description: '大切な愛犬（ペット）と一緒に贅沢な温泉旅行を満喫！伊豆高原の全室客室露天風呂付き英国調隠れ家「別邸 石の家」、那須高原の森に包まれた巨大スパ＆ドッグリゾート「ホテルサンバレー那須」、琵琶湖畔のラグジュアリーステイ「琵琶湖マリオットホテル」。天然芝ドッグラン・愛犬用足湯・客室同伴での美食など、愛犬家の理想をすべて叶える名宿に、楽天ふるさと納税トラベルクーポンで実質2,000円負担で宿泊する完全ガイド。',

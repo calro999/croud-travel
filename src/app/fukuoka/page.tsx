@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     "福岡", "博多", "福岡観光", "福岡観光モデルコース", "博多駅 ホテル", "天神 ホテル",
     "福岡 ホテル 朝食", "福岡 温泉旅館", "楽天トラベル"
   ],
-  alternates: { canonical: "https://croud-travel.pages.dev/fukuoka" },
+  alternates: { canonical: "https://croud-travel.pages.dev/fukuoka/" },
 };
 
 function loadFukuokaData(): Record<string, RakutenCategoryData> {

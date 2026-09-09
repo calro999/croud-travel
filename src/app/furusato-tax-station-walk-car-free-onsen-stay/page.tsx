@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     'ご当地グルメ 宿',
     '人気温泉地 クーポン'
   ],
-  alternates: { canonical: baseUrl + '/furusato-tax-station-walk-car-free-onsen-stay' },
+  alternates: { canonical: baseUrl + '/furusato-tax-station-walk-car-free-onsen-stay/' },
   openGraph: {
     title: '新幹線駅から徒歩すぐ！車なし・運転不要で行ける極上駅近温泉宿×ふるさと納税完全ガイド【2026年最新】熱海・越後湯沢・嬉野',
     description: '免許がなくても雪道運転が不安でも大丈夫！東京や博多から新幹線・特急に乗るだけで直行できる、駅から徒歩圏内の名門温泉旅館を厳選。新幹線熱海駅から徒歩圏内の老舗湯宿「熱海温泉 旅館 立花」、上越新幹線越後湯沢駅徒歩数分の純和風宿「音羽屋旅館」、西九州新幹線嬉野温泉駅・バスセンター至近の美肌宿「割烹旅館 鯉登苑」。お酒を楽しみながら手ぶらでスマートに行ける温泉旅を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',

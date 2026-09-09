@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     '実質2000円'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-fuji-view-open-air-bath-luxury-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-fuji-view-open-air-bath-luxury-stay/',
   },
   openGraph: {
     title: '霊峰富士の絶景を湯船から一望！富士山＆河口湖ビュー露天風呂名門宿×ふるさと納税完全攻略ガイド【2026年最新】鐘山苑・うぶや・湖南荘',

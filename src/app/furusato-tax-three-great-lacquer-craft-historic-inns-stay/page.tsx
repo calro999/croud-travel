@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     '温泉旅館 予約',
     '高級リゾート クーポン'
   ],
-  alternates: { canonical: baseUrl + '/furusato-tax-three-great-lacquer-craft-historic-inns-stay' },
+  alternates: { canonical: baseUrl + '/furusato-tax-three-great-lacquer-craft-historic-inns-stay/' },
   openGraph: {
     title: '日本三大漆器＆漆黒と金蒔絵の雅・作家の器で味わう名旅館宿×ふるさと納税完全ガイド【2026年最新】輪島・会津・山中',
     description: '千年を超える日本の美意識と職人技が凝縮された伝統工芸「日本三大漆器」（石川能登・輪島塗、福島・会津塗、石川加賀・山中塗）。沈金・蒔絵の極致、堅牢優美な器でいただく極上懐石料理、登録有形文化財の名旅館。楽天ふるさと納税トラベルクーポンで実質2,000円負担で泊まる大人の知的好奇心を満たすクラフト温泉旅ガイド。',

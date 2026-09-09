@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     '絶景露天風呂 クーポン',
     '旬の味覚 宿泊割引'
   ],
-  alternates: { canonical: baseUrl + '/furusato-tax-aquarium-family-ocean-resort-stay' },
+  alternates: { canonical: baseUrl + '/furusato-tax-aquarium-family-ocean-resort-stay/' },
   openGraph: {
     title: '水族館直結＆イルカ・シャチの感動体験！ファミリー大満足オーシャンリゾートホテル×ふるさと納税完全ガイド【2026年最新】鴨川・鳥羽・沖縄美ら海',
     description: '海の生きものたちと間近に出逢う感動のファミリーバカンス！シャチの大迫力ジャンプで名高い鴨川シーワールド直結・宿泊者パスポート付き「鴨川シーワールドホテル」、日本一の飼育種類数を誇る鳥羽水族館至近＆真珠風呂「鳥羽国際ホテル 潮路亭」、沖縄美ら海水族館へ徒歩すぐ・備瀬のフクギ並木前の最高峰リゾート「オリオンホテル モトブリゾート＆スパ」。全室オーシャンビューや温泉を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',

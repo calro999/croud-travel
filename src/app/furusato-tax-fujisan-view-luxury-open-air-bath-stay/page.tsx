@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     '温泉旅館 クーポン',
     '高級リゾート 割引'
   ],
-  alternates: { canonical: baseUrl + '/furusato-tax-fujisan-view-luxury-open-air-bath-stay' },
+  alternates: { canonical: baseUrl + '/furusato-tax-fujisan-view-luxury-open-air-bath-stay/' },
   openGraph: {
     title: '富士山を望む絶景露天風呂＆天空テラスの至高の宿×ふるさと納税完全ガイド【2026年最新】河口湖・山中湖・西伊豆土肥',
     description: '日本人の心の原風景「霊峰富士」を湯船から一望する至福の絶景露天風呂ステイ！河口湖畔から逆さ富士とパノラマを望む「大池ホテル」、二万五千坪の名庭園と富士山を真正面に仰ぐ富士吉田「ホテル鐘山苑」、駿河湾の彼方に富士の稜線と茜色の夕陽が沈む西伊豆「土肥ふじやホテル」。四季折々の表情を見せる富士山を眺めながら極上温泉に身を浸す贅沢を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',

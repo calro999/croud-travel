@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     '2026年旅行'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-caldera-blue-lake-resort-stay'
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-caldera-blue-lake-resort-stay/'
   },
   openGraph: {
     title: '神秘のコバルトブルー・カルデラ湖畔ホテル×ふるさと納税完全ガイド【2026年最新】支笏湖・屈斜路湖・田沢湖の美景',

@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     '2026年旅行'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-sake-bar-unlimited-tasting-stay'
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-sake-bar-unlimited-tasting-stay/'
   },
   openGraph: {
     title: '地酒BAR＆日本酒利き酒し放題の名湯宿×ふるさと納税完全ガイド【2026年最新】越後湯沢・山形赤湯・京都伏見の酒蔵ステイ',

@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     '2026年旅行'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-major-forest-therapy-retreat-stay'
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-major-forest-therapy-retreat-stay/'
   },
   openGraph: {
     title: '日本三大美林＆巨樹・森林セラピー癒やしの宿×ふるさと納税完全ガイド【2026年最新】屋久島・木曽ヒノキ・青森ヒバの森',

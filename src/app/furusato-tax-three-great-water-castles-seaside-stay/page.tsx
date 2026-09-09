@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: '海水を堀に引き入れた難攻不落の名城！愛媛「今治城」藤堂高虎公築城の日本屈指の水城天守展望と来島海峡の荒波鯛めし、香川「高松城（玉藻城）」水門越しに瀬戸内海の多島美を望むベイサイド宿と讃岐オリーブ牛、大分「中津城」黒田官兵衛が築いた石垣と周防灘名物ハモ料理。海城の歴史ロマンを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: 'ふるさと納税, 楽天トラベル, 旅行クーポン, 宿泊記, ホテル予約, 国内旅行, おすすめ宿, 温泉旅館',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-great-water-castles-seaside-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-great-water-castles-seaside-stay/',
   },
   openGraph: {
     title: '日本三大水城＆海に浮かぶ名城展望・瀬戸内海鮮名宿×ふるさと納税完全ガイド【2026年最新】今治城・高松城・中津城',

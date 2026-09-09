@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     'ホテル バイキング クーポン',
     'オールインクルーシブ 割引'
   ],
-  alternates: { canonical: baseUrl + '/furusato-tax-all-inclusive-luxury-onsen-stay' },
+  alternates: { canonical: baseUrl + '/furusato-tax-all-inclusive-luxury-onsen-stay/' },
   openGraph: {
     title: 'オールインクルーシブで財布を気にせず寛ぐ極上温泉宿×ふるさと納税完全ガイド【2026年最新】作並・箱根宮ノ下・磐梯熱海',
     description: 'チェックインからチェックアウトまで追加料金ゼロ！生ビール・ワイン・地酒のフリーフローや湯上がりアイス、上質なサロンでのカフェタイムを心ゆくまで堪能。広瀬川の渓流露天風呂と暖炉ラウンジが魅力の仙台作並「ゆづくしSalon一の坊」、全室露天風呂付き離れで極上のプライベートステイを提供する「Nazuna箱根宮ノ下」、福島の銘酒と美肌湯に酔いしれる磐梯熱海「浅香荘」。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',

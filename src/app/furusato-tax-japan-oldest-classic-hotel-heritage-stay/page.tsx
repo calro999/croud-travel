@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     '2026年旅行'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-japan-oldest-classic-hotel-heritage-stay'
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-japan-oldest-classic-hotel-heritage-stay/'
   },
   openGraph: {
     title: '日本最古のクラシックリゾートホテル×ふるさと納税完全ガイド【2026年最新】日光金谷・箱根富士屋・雲仙観光ホテルの洋館ステイ',

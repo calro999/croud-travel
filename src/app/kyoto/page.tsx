@@ -48,7 +48,7 @@ export const metadata: Metadata = {
     "京都 ホテル おすすめ", "京都 旅館", "京都 温泉旅館", "京都 朝食付きホテル",
     "京都 旅行", "京都 デート", "京都 食べ歩き", "京都 車なし", "楽天トラベル"
   ],
-  alternates: { canonical: "https://croud-travel.pages.dev/kyoto" },
+  alternates: { canonical: "https://croud-travel.pages.dev/kyoto/" },
   openGraph: {
     title: "京都旅行 完全ガイド 2026 ｜ 旅宿クラウド",
     description: "京都旅行を思い立ったらまず読むハブガイド。1泊2日/2泊3日モデルコース・旅行タイプ別・シチュエーション別・楽天API直接取得ホテルを完全連結。",

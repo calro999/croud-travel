@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     '実質2000円'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-steam-locomotive-sl-train-view-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-steam-locomotive-sl-train-view-stay/',
   },
   openGraph: {
     title: '黒煙と汽笛が旅情を揺さぶる！大井川鐵道・秩父鉄道・磐越西線のSL・蒸気機関車ビューステイ×ふるさと納税完全ガイド【2026年最新】島田・秩父・会津若松',

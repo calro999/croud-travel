@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     '絶景露天風呂 クーポン',
     '旬の味覚 宿泊割引'
   ],
-  alternates: { canonical: baseUrl + '/furusato-tax-book-library-hotel-retreat-stay' },
+  alternates: { canonical: baseUrl + '/furusato-tax-book-library-hotel-retreat-stay/' },
   openGraph: {
     title: '数千冊の本に囲まれて眠る至福の読書リトリート＆ブックホテル×ふるさと納税完全ガイド【2026年最新】播磨福崎・神保町・名古屋',
     description: '活字の海に溺れ、お気に入りの一冊と夜を明かす贅沢！民俗学者・柳田國男ゆかりの歴史建築を再生したブックホテル「NIPPONIA 播磨福崎 蔵書の館」、古書の街・神保町に佇み本を愉しむための隠れ家デザインホテル「BOOK HOTEL 神保町」、24時間営業のブックカフェと読書専用客室を備える「ランプライトブックスホテル名古屋」。おこもり読書ステイを、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',

@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   description: 'エメラルドグリーンに輝く清流と幾重にも重なる奇岩美！青森「奥入瀬渓流」、広島「三段峡」、東京「御岳渓谷」の日本三大渓流を巡る旅。清流のせせらぎを間近に感じる露天風呂と山川の旬グルメを楽天ふるさと納税宿泊割引クーポンでお得に楽しむ完全ガイド。',
   keywords: ["日本三大渓流","奥入瀬渓流ホテル","三段峡温泉","おくたま路","渓流露天風呂","楽天ふるさと納税","清流リゾート"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-great-valleys-riverside-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-great-valleys-riverside-stay/',
   },
   openGraph: {
     title: '日本三大渓流の清澄を愛でる渓谷美露天風呂宿×ふるさと納税完全ガイド【2026年最新】奥入瀬・三段峡・御岳の絶景宿',

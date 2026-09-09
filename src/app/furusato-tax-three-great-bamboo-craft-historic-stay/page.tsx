@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     '温泉旅館 予約',
     '高級リゾート クーポン'
   ],
-  alternates: { canonical: baseUrl + '/furusato-tax-three-great-bamboo-craft-historic-stay' },
+  alternates: { canonical: baseUrl + '/furusato-tax-three-great-bamboo-craft-historic-stay/' },
   openGraph: {
     title: '日本三大竹細工＆しなやかな曲線美・竹林景観と風雅な数寄屋名宿×ふるさと納税完全ガイド【2026年最新】別府・駿河・京都',
     description: '竹の節としなやかさを極限まで活かした日本伝統の手仕事「日本三大竹細工」（大分・別府竹細工、静岡・駿河竹千筋細工、京都・京都竹工芸）。繊細な編み目と陰影が生み出す用の美、風にそよぐ青竹の庭園、風雅な数寄屋建築の老舗旅館。楽天ふるさと納税トラベルクーポンで実質2,000円負担で泊まる大人の工芸温泉ステイ完全ガイド。',

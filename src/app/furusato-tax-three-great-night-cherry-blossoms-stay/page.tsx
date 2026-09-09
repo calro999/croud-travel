@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   description: '春の夜空を桜色に染め上げる日本屈指の夜桜名所「日本三大夜桜」（青森・弘前城の花筏と夜桜、新潟・高田城の四千本ぼんぼり、東京・上野恩賜公園の風情）。幻想的なライトアップと名門ホテルステイ。楽天ふるさと納税完全活用。',
   keywords: ["日本三大夜桜","弘前パークホテル","アートホテル上越","三井ガーデンホテル上野","夜桜ライトアップ","弘前公園","高田城址公園","楽天ふるさと納税"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-great-night-cherry-blossoms-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-great-night-cherry-blossoms-stay/',
   },
   openGraph: {
     title: '日本三大夜桜の名所と春の宵を彩る名門ホテル×ふるさと納税完全ガイド【2026年最新】弘前・高田城・上野',

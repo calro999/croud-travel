@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     '温泉旅館 予約',
     '高級リゾート クーポン'
   ],
-  alternates: { canonical: baseUrl + '/furusato-tax-three-great-valley-train-views-scenic-stay' },
+  alternates: { canonical: baseUrl + '/furusato-tax-three-great-valley-train-views-scenic-stay/' },
   openGraph: {
     title: '日本三大渓谷鉄道＆嵯峨野トロッコ・大井川SL・只見線の絶景鉄道旅と名湯宿×ふるさと納税完全ガイド【2026年最新】京都・静岡・福島',
     description: '車窓いっぱいに広がるエメラルドグリーンの渓谷美と汽笛の響き「日本三大渓谷鉄道」（京都・嵯峨野観光鉄道トロッコ列車、静岡・大井川鐵道SL＆アプト式列車、福島新潟・JR只見線）。鉄橋から望む絶景パノラマと、秘境の名湯温泉旅館。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ贅沢な鉄道ロマン宿泊ガイド。',

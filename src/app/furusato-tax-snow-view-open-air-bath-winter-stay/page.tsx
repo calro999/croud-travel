@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     'ご当地グルメ 宿',
     '人気温泉地 クーポン'
   ],
-  alternates: { canonical: baseUrl + '/furusato-tax-snow-view-open-air-bath-winter-stay' },
+  alternates: { canonical: baseUrl + '/furusato-tax-snow-view-open-air-bath-winter-stay/' },
   openGraph: {
     title: '白銀の銀世界に浸る絶景雪見露天風呂＆冬の秘湯名旅館×ふるさと納税完全ガイド【2026年最新】万座・越後湯沢・定山渓',
     description: '降り積もる純白の雪と立ち上る湯煙！日本屈指の豪雪地帯でしか出会えない奇跡の雪見露天風呂ステイ。標高1,800mの白銀パノラマと乳白色の濃厚硫黄泉「万座プリンスホテル」、川端康成『雪国』の舞台で幻想的な雪見庭園風呂を満喫する「越後湯沢温泉 湯沢グランドホテル」、札幌の奥座敷で定山渓渓谷の冬景色を望む名旅館「章月グランドホテル」。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ冬の極上旅完全ガイド。',

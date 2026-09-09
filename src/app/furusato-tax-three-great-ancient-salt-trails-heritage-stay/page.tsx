@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     '温泉旅館 予約',
     '高級リゾート クーポン'
   ],
-  alternates: { canonical: baseUrl + '/furusato-tax-three-great-ancient-salt-trails-heritage-stay' },
+  alternates: { canonical: baseUrl + '/furusato-tax-three-great-ancient-salt-trails-heritage-stay/' },
   openGraph: {
     title: '日本三大塩の道＆歴史古道トレッキングと日本海の塩・山の幸美食宿×ふるさと納税完全ガイド【2026年最新】千国・三州・秋葉',
     description: '海のない信州へと命の塩と海産物を運んだ険しくも美しい祈りと生活の道「日本三大塩の道」（新潟糸魚川〜長野松本・千国街道、愛知岡崎〜長野塩尻・三州街道、静岡相良〜長野茅野・秋葉街道）。石畳や杉木立の古道トレッキング、名湯白馬温泉や昼神温泉、炉端会席。楽天ふるさと納税トラベルクーポンで実質2,000円負担で巡る歴史ロマン宿泊ガイド。',

@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: '魂を揺さぶる音色と千数百年の静寂！滋賀「三井寺（園城寺）」近江八景・三井の晩鐘と琵琶湖を望む雄琴温泉・国宝宿坊、京都「神護寺」高雄の深山幽谷と清滝川沿い料理旅館、福岡「観世音寺」日本最古の国宝梵鐘と万葉集ゆかりの二日市温泉。日本三名鐘の歴史古刹を楽天ふるさと納税宿泊クーポンでお得に巡る完全ガイド。',
   keywords: 'ふるさと納税, 楽天トラベル, 旅行クーポン, 宿泊記, ホテル予約, 国内旅行, おすすめ宿, 温泉旅館',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-sacred-temple-bells-retreat-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-sacred-temple-bells-retreat-stay/',
   },
   openGraph: {
     title: '日本三名鐘＆歴史の響き・古刹めぐり宿坊・名旅館×ふるさと納税完全ガイド【2026年最新】三井寺・神護寺・観世音寺',

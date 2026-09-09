@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: '大自然のウォータースライダー！群馬「みなかみ利根川」関東屈指の激流ラフティングと水上温泉郷渓流露天風呂、徳島「吉野川小歩危」世界選手権開催の日本最高峰激流と祖谷秘境リゾート、高知「仁淀川」奇跡の仁淀ブルーパックラフト・カヤック体験と土佐あかうし会席。スリルと爽快感あふれるリバーアドベンチャーを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: 'ふるさと納税, 楽天トラベル, 旅行クーポン, 宿泊記, ホテル予約, 国内旅行, おすすめ宿, 温泉旅館',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-whitewater-rafting-canyoning-adventure-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-whitewater-rafting-canyoning-adventure-stay/',
   },
   openGraph: {
     title: '激流ラフティング＆清流キャニオニング・水上アクティビティ宿×ふるさと納税完全ガイド【2026年最新】みなかみ利根川・吉野川・仁淀川',

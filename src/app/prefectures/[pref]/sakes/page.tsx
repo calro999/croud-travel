@@ -23,7 +23,7 @@ export async function generateMetadata({ params }: { params: Promise<{ pref: str
     description: `${prefInfo.name}が誇る最高峰の地酒・純米大吟醸・名醸蔵の日本酒を徹底比較。蔵元のこだわり、味わいの特徴（淡麗辛口・芳醇）、ペアリングに最適な名物料理、温泉宿で楽しめる晩酌情報までプロが徹底解説！`,
     keywords: [prefInfo.name, "地酒", "日本酒", "銘酒", "蔵元", "純米大吟醸", "ランキング", "観光", "楽天トラベル"],
     alternates: {
-      canonical: `${baseUrl}/prefectures/${prefInfo.slug}/sakes`,
+      canonical: `${baseUrl}/prefectures/${prefInfo.slug}/sakes/`,
     },
     openGraph: {
       title: `${prefInfo.name}の銘酒・地酒・日本酒＆名醸蔵おすすめ比較ランキング`,

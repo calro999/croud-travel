@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     '実質2000円'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-karuizawa-luxury-resort-villa-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-karuizawa-luxury-resort-villa-stay/',
   },
   openGraph: {
     title: '木漏れ日の高原と洗練の森！軽井沢の温泉露天風呂付きラグジュアリーホテル＆本格フレンチ名宿×ふるさと納税完全攻略ガイド【2026年最新】マリオット・プリンスイースト・音羽ノ森',

@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     '温泉旅館 予約',
     '高級リゾート クーポン'
   ],
-  alternates: { canonical: baseUrl + '/furusato-tax-three-great-terraced-paddy-rice-harvest-stay' },
+  alternates: { canonical: baseUrl + '/furusato-tax-three-great-terraced-paddy-rice-harvest-stay/' },
   openGraph: {
     title: '日本三大棚田＆日本の原風景と黄金色に実る稲穂・農村リトリート宿×ふるさと納税完全ガイド【2026年最新】姨捨・丸山・白米',
     description: '斜面一面に幾重にも重なる幾何学模様と、水鏡や黄金色に輝く稲穂の絶景「日本三大棚田」（長野千曲・姨捨の棚田、三重熊野・丸山千枚田、石川能登・白米千枚田）。国の名勝や世界農業遺産に指定された農村の原風景を巡り、新米や里山会席に舌鼓を打つ贅沢。楽天ふるさと納税トラベルクーポンで実質2,000円負担で泊まるおすすめ名宿ガイド。',

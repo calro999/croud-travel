@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     '温泉旅館 予約',
     '高級リゾート クーポン'
   ],
-  alternates: { canonical: baseUrl + '/furusato-tax-three-great-zen-rock-gardens-stay' },
+  alternates: { canonical: baseUrl + '/furusato-tax-three-great-zen-rock-gardens-stay/' },
   openGraph: {
     title: '日本三大枯山水庭園＆白砂青松の禅の宇宙と瞑想リトリート名宿×ふるさと納税完全ガイド【2026年最新】龍安寺・大仙院・龍源院',
     description: '水を用いずに石と白砂だけで山水の広大無辺な宇宙を表現する禅の美学「日本三大枯山水庭園」（京都右京・龍安寺方丈石庭、京都北区・大徳寺大仙院枯山水、京都北区・大徳寺龍源院一枝坦）。エリザベス女王も絶賛した15個の石の謎、室町禅宗庭園の最高峰、早朝の静寂座禅体験。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ大人の古都マインドフルネス宿泊ガイド。',

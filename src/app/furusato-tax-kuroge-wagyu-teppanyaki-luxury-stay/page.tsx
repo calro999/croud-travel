@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     '2026年旅行'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-kuroge-wagyu-teppanyaki-luxury-stay'
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-kuroge-wagyu-teppanyaki-luxury-stay/'
   },
   openGraph: {
     title: '最高級黒毛和牛ステーキ＆鉄板焼きカウンター宿×ふるさと納税完全ガイド【2026年最新】松阪牛・近江牛・米沢牛の美食ホテル',

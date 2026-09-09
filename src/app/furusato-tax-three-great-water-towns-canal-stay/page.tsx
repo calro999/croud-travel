@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   description: '白壁土蔵が水面に映える滋賀・近江八幡の八幡堀、どんこ舟で巡る福岡・柳川の掘割と鰻せいろ蒸し、十二橋めぐりとあやめ薫る茨城・潮来。日本の水郷情緒に癒やされる旅。楽天ふるさと納税宿泊クーポン完全活用。',
   keywords: ["日本三大水郷","近江八幡休暇村","柳川立花邸御花","潮来ホテル","水郷巡り","川下り","楽天ふるさと納税"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-great-water-towns-canal-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-great-water-towns-canal-stay/',
   },
   openGraph: {
     title: '日本三大水郷の情緒あふれる川下りと水辺の名旅館×ふるさと納税完全ガイド【2026年最新】近江八幡・柳川・潮来',

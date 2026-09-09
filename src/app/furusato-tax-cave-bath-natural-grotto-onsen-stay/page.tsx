@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     '実質2000円'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-cave-bath-natural-grotto-onsen-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-cave-bath-natural-grotto-onsen-stay/',
   },
   openGraph: {
     title: '荒波迫る海食洞窟と神秘の巨岩風呂！全国の天然洞窟温泉＆名湯旅館×ふるさと納税完全ガイド【2026年最新】南紀勝浦・湯の峰・上諏訪',

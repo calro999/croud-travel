@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     '2026年旅行'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-rias-coast-ise-ebi-abalone-ocean-stay'
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-rias-coast-ise-ebi-abalone-ocean-stay/'
   },
   openGraph: {
     title: '夕映えリアス式海岸＆伊勢海老・鮑料理の海宿×ふるさと納税完全ガイド【2026年最新】志摩英虞湾・南三陸・伊根の舟屋の贅沢旅',

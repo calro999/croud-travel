@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     '実質2000円'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-kyoto-arashiyama-bamboo-luxury-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-kyoto-arashiyama-bamboo-luxury-stay/',
   },
   openGraph: {
     title: '渡月橋と竹林の小径の静寂！京都嵐山温泉の保津川一望ラグジュアリー＆老舗料理旅館×ふるさと納税完全攻略ガイド【2026年最新】翠嵐・花伝抄・辨慶',

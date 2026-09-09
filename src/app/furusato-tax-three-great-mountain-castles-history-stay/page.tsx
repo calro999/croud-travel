@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   description: '雲海に浮かぶ天空の城として名高い日本屈指の山城遺構（兵庫・竹田城跡、岡山・現存天守備中松山城、岐阜・日本三大山城岩村城）。早朝の雲海展望と城下町の町家ホテルで歴史浪漫を満喫。楽天ふるさと納税宿泊クーポン完全活用。',
   keywords: ["日本三大山城","竹田城城下町ホテルEN","備中松山城","岩村山荘","天空の城","雲海ホテル","楽天ふるさと納税"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-great-mountain-castles-history-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-great-mountain-castles-history-stay/',
   },
   openGraph: {
     title: '日本三大山城・天空の城の雲海と歴史浪漫宿×ふるさと納税完全ガイド【2026年最新】竹田城・備中松山城・岩村城',

@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: '大名茶人が愛した日本の甘味美学！石川金沢「長生殿」加賀百万石の優美な落雁とひがし茶屋街の料亭旅館、新潟長岡「越乃雪」越後長岡藩御用達の淡雪菓子と蓬平温泉、島根松江「山川」不昧公の風流落雁と宍道湖・玉造温泉。茶の湯文化が息づく城下町の名宿を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: 'ふるさと納税, 楽天トラベル, 旅行クーポン, 宿泊記, ホテル予約, 国内旅行, おすすめ宿, 温泉旅館',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-great-wagashi-tea-culture-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-great-wagashi-tea-culture-stay/',
   },
   openGraph: {
     title: '日本三大銘菓＆歴史茶の湯・老舗和菓子めぐり風雅宿×ふるさと納税完全ガイド【2026年最新】金沢長生殿・長岡越乃雪・松江山川',

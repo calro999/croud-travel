@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     '2026年旅行'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-sweets-cafe-wagashi-retro-onsen-stay'
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-sweets-cafe-wagashi-retro-onsen-stay/'
   },
   openGraph: {
     title: '銘菓・和カフェ＆老舗スイーツめぐり温泉宿×ふるさと納税完全ガイド【2026年最新】金沢・小布施・伊勢の甘味旅',

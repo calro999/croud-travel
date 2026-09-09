@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     '絶景露天風呂 クーポン',
     '旬の味覚 宿泊割引'
   ],
-  alternates: { canonical: baseUrl + '/furusato-tax-firefly-viewing-hotaru-night-stream-stay' },
+  alternates: { canonical: baseUrl + '/furusato-tax-firefly-viewing-hotaru-night-stream-stay/' },
   openGraph: {
     title: '闇夜に舞う無数の光の幻想！初夏のホタル観賞＆清流のせせらぎ温泉宿×ふるさと納税完全ガイド【2026年最新】熊本菊池・兵庫神鍋・神奈川湯河原',
     description: '澄み切った清流にだけ舞う初夏の光の芸術「ホタル（蛍）」。幻想的なホタルの乱舞を愛でる初夏の温泉旅を厳選！菊池渓谷の清流と名湯美肌の湯を誇る熊本県「菊池温泉 清流荘」、神鍋高原の清らかな渓流沿いにホタルが飛び交う兵庫県「ブルーリッジホテル」、千歳川のせせらぎと万葉公園ほたるの宴が間近の神奈川県「湯河原温泉 万葉の里 白雲荘」。闇夜を照らす淡い光と川音に癒やされる特別な旅を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',

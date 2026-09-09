@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     '実質2000円'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-kyoto-onsen-ryokan-machiya-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-kyoto-onsen-ryokan-machiya-stay/',
   },
   openGraph: {
     title: '渡月橋と竹林の小径を巡る！京都・嵐山温泉の名門旅館＆客室露天×ふるさと納税完全攻略ガイド【2026年最新】渡月亭・翠嵐・花伝抄',

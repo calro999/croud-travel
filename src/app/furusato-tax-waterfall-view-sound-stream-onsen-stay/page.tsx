@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     '実質2000円'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-waterfall-view-sound-stream-onsen-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-waterfall-view-sound-stream-onsen-stay/',
   },
   openGraph: {
     title: '滝の轟きとマイナスイオンに包まれる！名瀑・清流を望む絶景露天風呂旅館×ふるさと納税完全ガイド【2026年最新】伊豆天城・那須板室・熊本黒川',

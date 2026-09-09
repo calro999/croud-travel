@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   description: '轟く水飛沫とダイナミックな渓谷美を誇る「日本三大急流」（山形・最上川、山梨・富士川、熊本・球磨川）。芭蕉ゆかりの舟下り、信玄の隠し湯・下部温泉、清流アユと天然露天風呂。楽天ふるさと納税宿泊クーポン完全活用。',
   keywords: ["日本三大急流","最上川別邸紅","下部ホテル","人吉温泉あゆの里","最上川舟下り","球磨川","リバーサイド温泉","楽天ふるさと納税"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-great-rapids-river-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-great-rapids-river-stay/',
   },
   openGraph: {
     title: '日本三大急流の豪快な舟下りと大自然リバーサイド温泉宿×ふるさと納税完全ガイド【2026年最新】最上川・富士川・球磨川',

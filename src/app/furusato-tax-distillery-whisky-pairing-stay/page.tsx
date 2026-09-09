@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     '2026年旅行'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-distillery-whisky-pairing-stay'
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-distillery-whisky-pairing-stay/'
   },
   openGraph: {
     title: '国産ウイスキー蒸溜所＆銘酒ペアリング宿×ふるさと納税完全ガイド【2026年最新】余市・白州・秩父のモルト旅',

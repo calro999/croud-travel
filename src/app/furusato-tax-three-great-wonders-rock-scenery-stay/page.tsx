@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: '大自然が創り出した巨岩の彫刻芸術！群馬「妙義山」切り立つ岩峰パノラマと美肌の妙義温泉・上州牛、大分「耶馬渓」日本新三景の競秀峰と青の洞門・金色のいで湯、香川小豆島「寒霞渓」奇岩絶壁ロープウェイと小豆島オリーブ・瀬戸内海一望露天風呂。日本三大奇勝の絶景温泉宿を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: 'ふるさと納税, 楽天トラベル, 旅行クーポン, 宿泊記, ホテル予約, 国内旅行, おすすめ宿, 温泉旅館',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-great-wonders-rock-scenery-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-great-wonders-rock-scenery-stay/',
   },
   openGraph: {
     title: '日本三大奇勝＆巨岩奇峰パノラマ・大自然の彫刻美を愛でる宿×ふるさと納税完全ガイド【2026年最新】妙義山・耶馬渓・寒霞渓',

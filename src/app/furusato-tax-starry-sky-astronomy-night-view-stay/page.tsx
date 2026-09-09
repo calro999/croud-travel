@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     '絶景露天風呂 クーポン',
     '旬の味覚 宿泊割引'
   ],
-  alternates: { canonical: baseUrl + '/furusato-tax-starry-sky-astronomy-night-view-stay' },
+  alternates: { canonical: baseUrl + '/furusato-tax-starry-sky-astronomy-night-view-stay/' },
   openGraph: {
     title: '満天の星空・天体観測＆星空露天風呂リトリート極上宿×ふるさと納税完全ガイド【2026年最新】阿智村・野辺山高原・石垣島',
     description: '降るような星々の輝きと宇宙の神秘に包まれる！環境省認定「日本一の星空」として名高い長野県阿智村・昼神温泉「信州公共の宿 鶴巻荘」、国立天文台野辺山宇宙電波観測所を擁する日本三選星名所「八ヶ岳グレイスホテル」、国際ダークスカイ協会認定の星空保護区で南十字星を望む「石垣島ビーチホテルサンシャイン」。天体望遠鏡案内や星空露天風呂を誇る名宿に、楽天ふるさと納税トラベルクーポンで実質2,000円負担で宿泊する完全ガイド。',

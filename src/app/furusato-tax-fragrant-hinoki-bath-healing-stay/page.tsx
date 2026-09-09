@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     '絶景露天風呂 クーポン',
     '旬の味覚 宿泊割引'
   ],
-  alternates: { canonical: baseUrl + '/furusato-tax-fragrant-hinoki-bath-healing-stay' },
+  alternates: { canonical: baseUrl + '/furusato-tax-fragrant-hinoki-bath-healing-stay/' },
   openGraph: {
     title: '天然ヒノキの香りと美肌温泉に包まれる総檜風呂名旅館×ふるさと納税完全ガイド【2026年最新】信州木曽・伊豆湯ヶ島・熊本黒川',
     description: '木肌の柔らかな感触と、豊かに立ちのぼるヒノキのフィトンチッド。日本古来の癒やしを体現した極上の総檜風呂宿を厳選！木曽ヒノキ発祥の地で樹齢数百年の大名風呂と木曽牛会席を味わう「木曽路の宿 いわや」、猫越川の清流を望む全室源泉かけ流し総檜露天風呂付きの大人の名宿「谷川の湯 あせび野」、細川藩の御前湯の歴史を継ぎ創業三百年を誇る黒川温泉「歴史の宿 御客屋」。五感を解き放つ木の温もりステイを、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',

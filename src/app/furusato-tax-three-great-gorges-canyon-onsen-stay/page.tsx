@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     '2026年旅行'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-great-gorges-canyon-onsen-stay'
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-great-gorges-canyon-onsen-stay/'
   },
   openGraph: {
     title: '日本三大峡谷＆巨岩奇勝パノラマ露天風呂宿×ふるさと納税完全ガイド【2026年最新】清津峡・黒部峡谷・大杉谷の絶景名湯',

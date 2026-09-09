@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     '実質2000円'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-beppu-onsen-jigoku-meguri-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-beppu-onsen-jigoku-meguri-stay/',
   },
   openGraph: {
     title: '源泉数・湧出量日本一！別府八湯＆地獄めぐりと大パノラマ露天風呂名門ホテル×ふるさと納税完全攻略ガイド【2026年最新】杉乃井・山水館・亀の井',

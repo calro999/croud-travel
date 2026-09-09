@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     '実質2000円'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-ishigakijima-resort-villa-luxury-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-ishigakijima-resort-villa-luxury-stay/',
   },
   openGraph: {
     title: 'エメラルドグリーンの海と満天の星！石垣島の天然ビーチ直結リゾート＆赤瓦プライベートヴィラ×ふるさと納税完全攻略ガイド【2026年最新】フサキ・ANAインターコンチネンタル・グランヴィリオ',

@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     '温泉旅館 クーポン',
     '高級リゾート 割引'
   ],
-  alternates: { canonical: baseUrl + '/furusato-tax-private-room-sauna-totonoi-villa-stay' },
+  alternates: { canonical: baseUrl + '/furusato-tax-private-room-sauna-totonoi-villa-stay/' },
   openGraph: {
     title: '客室専用プライベートサウナ＆天然水風呂・露天風呂付きヴィラ宿×ふるさと納税完全ガイド【2026年最新】熱海・河口湖・霧島',
     description: '好きな時に好きなだけセルフロウリュを満喫！相模湾の絶景を望む客室本格サウナ付きスイート「ＩＳＨＩＮＯＹＡ熱海」、富士山を仰ぐ完全独立型グランピングヴィラ「天空の温泉ヴィラ紬 河口湖」、美肌源泉かけ流しと専用バレルサウナで極上のととのいへ導く「こしかの温泉」。他人の目を気にせず水風呂と外気浴を独占できるプライベートサウナ宿に、楽天ふるさと納税トラベルクーポンで実質2,000円負担で泊まる完全ガイド。',

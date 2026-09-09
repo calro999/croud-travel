@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   description: '何億年もの歳月が創り上げた日本三大鍾乳洞（岩手・龍泉洞、山口・秋芳洞、高知・龍河洞）。ドラゴンブルーの地底湖や百枚皿の造形美に息を呑み、山麓の名湯温泉で癒やされる旅。楽天ふるさと納税宿泊クーポン完全活用。',
   keywords: ["日本三大鍾乳洞","龍泉洞温泉ホテル","秋芳洞名勝山水園","龍河洞海辺の果樹園","地底湖","楽天ふるさと納税"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-great-caves-underground-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-great-caves-underground-stay/',
   },
   openGraph: {
     title: '日本三大鍾乳洞の神秘の地底美と山麓名湯宿×ふるさと納税完全ガイド【2026年最新】龍泉洞・秋芳洞・龍河洞',

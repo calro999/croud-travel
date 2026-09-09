@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     '温泉旅館 予約',
     '高級リゾート クーポン'
   ],
-  alternates: { canonical: baseUrl + '/furusato-tax-three-great-hot-spring-cure-toji-stay' },
+  alternates: { canonical: baseUrl + '/furusato-tax-three-great-hot-spring-cure-toji-stay/' },
   openGraph: {
     title: '日本三大湯治場＆名湯治リトリート・本格効能温泉と逗留宿×ふるさと納税完全ガイド【2026年最新】玉川・三朝・草津',
     description: '古来より数多の人々の心身を癒やし続けてきた「日本三大湯治場」（秋田・玉川温泉の強酸性塩酸ラジウム泉、鳥取・三朝温泉の高濃度ラドン放射能泉、群馬・草津温泉の圧倒的湧出量と酸性硫黄泉）。現代人の疲れを根底から解きほぐす本格現代型湯治リトリート。楽天ふるさと納税トラベルクーポンで実質2,000円負担で叶える極上の逗留名宿ガイド。',

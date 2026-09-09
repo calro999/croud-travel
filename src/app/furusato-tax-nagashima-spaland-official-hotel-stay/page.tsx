@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     '実質2000円'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-nagashima-spaland-official-hotel-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-nagashima-spaland-official-hotel-stay/',
   },
   openGraph: {
     title: '遊園地・なばなの里・湯あみの島直結！ナガシマスパーランド公式オフィシャルホテル×ふるさと納税完全攻略ガイド【2026年最新】花水木・ホテルナガシマ・オリーブ',

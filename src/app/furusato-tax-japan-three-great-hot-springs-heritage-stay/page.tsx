@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: '室町時代の詩僧・万里集九と江戸時代の儒学者・林羅山が絶賛した日本三名泉！兵庫「有馬温泉」太閤秀吉が愛した赤褐色の金泉と神戸牛会席、群馬「草津温泉」圧倒的湯量を誇る強酸性の名湯と湯畑の風情、岐阜「下呂温泉」絹のように滑らかなpH9.2の美肌湯と飛騨牛朴葉味噌。日本の温泉文化の頂点を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: 'ふるさと納税, 楽天トラベル, 旅行クーポン, 宿泊記, ホテル予約, 国内旅行, おすすめ宿, 温泉旅館',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-japan-three-great-hot-springs-heritage-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-japan-three-great-hot-springs-heritage-stay/',
   },
   openGraph: {
     title: '日本三名泉＆天下の名湯・格式ある老舗温泉旅館×ふるさと納税完全ガイド【2026年最新】有馬・草津・下呂',

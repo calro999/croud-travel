@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     '実質2000円'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-kurobe-unazuki-onsen-gorge-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-kurobe-unazuki-onsen-gorge-stay/',
   },
   openGraph: {
     title: '黒部峡谷トロッコ列車とエメラルドの清流！宇奈月温泉の断崖絶景露天風呂＆富山湾キトキト海の幸名宿×ふるさと納税完全攻略ガイド【2026年最新】延対寺荘・やまのは・延楽',

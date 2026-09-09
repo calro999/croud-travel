@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     '2026年旅行'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-diving-ocean-resort-stay'
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-diving-ocean-resort-stay/'
   },
   openGraph: {
     title: '海中展望＆ダイビング・シュノーケリング直結リゾート×ふるさと納税完全ガイド【2026年最新】恩納村・串本・西伊豆のマリンホテル',

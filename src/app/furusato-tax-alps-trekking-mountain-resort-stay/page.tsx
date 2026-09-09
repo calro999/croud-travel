@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     '2026年旅行'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-alps-trekking-mountain-resort-stay'
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-alps-trekking-mountain-resort-stay/'
   },
   openGraph: {
     title: '日本アルプス＆高山トレッキング山岳リゾート宿×ふるさと納税完全ガイド【2026年最新】上高地・白馬・立山の雲上ホテル',

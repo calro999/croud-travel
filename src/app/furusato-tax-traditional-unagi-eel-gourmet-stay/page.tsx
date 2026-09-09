@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     'ご当地グルメ 宿',
     '人気温泉地 クーポン'
   ],
-  alternates: { canonical: baseUrl + '/furusato-tax-traditional-unagi-eel-gourmet-stay' },
+  alternates: { canonical: baseUrl + '/furusato-tax-traditional-unagi-eel-gourmet-stay/' },
   openGraph: {
     title: '名産地で味わう極上うなぎ会席＆蒲焼・ひつまぶし名湯宿×ふるさと納税完全ガイド【2026年最新】浜名湖・三島・柳川',
     description: '香ばしい炭火の煙と秘伝のタレ！全国屈指のうなぎ名産地で至高のうなぎ会席を堪能する大人の美食旅。うなぎ養殖発祥の地・静岡県浜名湖かんざんじ温泉の湖畔宿「ホテル鞠水亭」、富士山の清らかな伏流水で磨かれた三島うなぎの銘店巡りと最上階天然温泉「ドーミーイン三島」、情緒あふれる水郷柳川で蒸したて熱々のせいろ蒸しを味わう「柳川温泉ホテル 輝泉荘」。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',

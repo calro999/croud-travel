@@ -46,7 +46,7 @@ export async function generateMetadata({ params }: { params: Promise<{ pref: str
     description: cityInfo.description,
     keywords: cityInfo.keywords,
     alternates: {
-      canonical: `${baseUrl}/prefectures/${pref}/${city}`,
+      canonical: `${baseUrl}/prefectures/${pref}/${city}/`,
     },
     openGraph: {
       title: cityInfo.title,

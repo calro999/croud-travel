@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     '2026年旅行'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-literary-heritage-historic-onsen-stay'
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-literary-heritage-historic-onsen-stay/'
   },
   openGraph: {
     title: '文豪の愛した名湯・文学ゆかりの老舗旅館×ふるさと納税完全ガイド【2026年最新】城崎・伊豆湯ヶ島・道後の文芸宿',

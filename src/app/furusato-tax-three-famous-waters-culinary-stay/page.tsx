@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: '名水あるところに極上の美味と美酒あり！熊本「南阿蘇白川水源」毎分60トンの名水で育つあか牛料理と絶景阿蘇温泉、山梨「八ヶ岳南麓白州」南アルプス清流仕込みの十割手打ち蕎麦と高原リゾート、京都「伏見」銘水「伏水」で醸す純米酒と京料理町家宿。大地が磨き上げた奇跡の湧水ステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: 'ふるさと納税, 楽天トラベル, 旅行クーポン, 宿泊記, ホテル予約, 国内旅行, おすすめ宿, 温泉旅館',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-famous-waters-culinary-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-famous-waters-culinary-stay/',
   },
   openGraph: {
     title: '日本三大名水＆清冽な湧水仕込みの美食宿×ふるさと納税完全ガイド【2026年最新】南阿蘇白川水源・八ヶ岳白州・京都伏見',

@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     '2026年旅行'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-carbonated-spring-effervescent-onsen-stay'
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-carbonated-spring-effervescent-onsen-stay/'
   },
   openGraph: {
     title: '天然炭酸泉＆シュワシュワ美肌の湯宿×ふるさと納税完全ガイド【2026年最新】長湯・下呂・有馬の極上泡風呂',

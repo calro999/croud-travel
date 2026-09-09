@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     '温泉旅館 予約',
     '高級リゾート クーポン'
   ],
-  alternates: { canonical: baseUrl + '/furusato-tax-three-great-tea-ceremony-cities-stay' },
+  alternates: { canonical: baseUrl + '/furusato-tax-three-great-tea-ceremony-cities-stay/' },
   openGraph: {
     title: '日本三大茶道文化都市＆茶室庭園と抹茶・上生菓子を愛でる数寄屋名宿×ふるさと納税完全ガイド【2026年最新】京都・松江・金沢',
     description: '侘び寂びの精神と粋なもてなしが息づく「日本三大茶道文化都市」（京都・千利休と三千家本山、島根・不昧公ゆかりの出雲松江、石川・加賀前田家の茶の湯金沢）。名勝日本庭園の茶室、老舗和菓子司の上生菓子、伝統数寄屋建築の老舗名旅館。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ大人の茶の湯リトリート完全ガイド。',

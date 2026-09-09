@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   description: '鉄道ファンのみならず旅情をそそる日本三大車窓（長野・篠ノ井線姨捨の善光寺平、熊本・肥薩線矢岳越えの霧島連峰、北海道・旧狩勝峠の十勝平野）。車窓から望む絶景パノラマと名湯ステイ。楽天ふるさと納税宿泊クーポン完全活用。',
   keywords: ["日本三大車窓","姨捨リバーサイド上田館","肥薩線人吉旅館","サホロリゾートホテル","鉄道旅行","戸倉上山田温泉","楽天ふるさと納税"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-great-train-views-scenic-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-great-train-views-scenic-stay/',
   },
   openGraph: {
     title: '日本三大車窓を望む絶景鉄道旅と名湯リゾート宿×ふるさと納税完全ガイド【2026年最新】姨捨・肥薩線・旧狩勝峠',

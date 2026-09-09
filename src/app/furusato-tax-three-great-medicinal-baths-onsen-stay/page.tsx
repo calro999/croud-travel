@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     '2026年旅行'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-great-medicinal-baths-onsen-stay'
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-great-medicinal-baths-onsen-stay/'
   },
   openGraph: {
     title: '日本三大薬湯＆奇跡の濃厚湯治宿×ふるさと納税完全ガイド【2026年最新】有馬・草津・松之山の名湯治体験',

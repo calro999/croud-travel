@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     '実質2000円'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-traditional-hearth-irori-charcoal-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-traditional-hearth-irori-charcoal-stay/',
   },
   openGraph: {
     title: '赤々と燃える炭火と香ばしい煙！囲炉裏料理＆歴史ある古民家名湯宿×ふるさと納税完全ガイド【2026年最新】白川郷・群馬法師・徳島祖谷',

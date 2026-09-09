@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     '実質2000円'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-all-inclusive-free-drinks-alcohol-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-all-inclusive-free-drinks-alcohol-stay/',
   },
   openGraph: {
     title: '生ビール・地酒・ワインが飲み放題！お財布を気にせず寛ぐオールインクルーシブ名宿×ふるさと納税完全ガイド【2026年最新】作並・松島・伊勢志摩',

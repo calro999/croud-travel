@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     '実質2000円'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-ikaho-onsen-stone-steps-luxury-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-ikaho-onsen-stone-steps-luxury-stay/',
   },
   openGraph: {
     title: '365段の石段街と情緒あふれる湯滝！伊香保温泉の「黄金の湯」「白銀の湯」名門旅館＆上州牛会席×ふるさと納税完全攻略ガイド【2026年最新】福一・岸権・木暮',

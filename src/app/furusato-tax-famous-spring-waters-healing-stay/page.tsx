@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   description: '大地が育んだ日本屈指の名水湧出地（熊本・南阿蘇白川水源、長野・安曇野わさび田湧水、静岡・富士山柿田川湧水群）。清冽な名水で仕込んだ地酒や信州蕎麦、名水豆腐に舌鼓を打ち、源泉名湯で癒やされる旅。楽天ふるさと納税完全活用。',
   keywords: ["日本名水百選","南阿蘇別邸蘇庵","安曇野穂高ビューホテル","富士山三島東急ホテル","白川水源","名水温泉","楽天ふるさと納税"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-famous-spring-waters-healing-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-famous-spring-waters-healing-stay/',
   },
   openGraph: {
     title: '日本名水百選の湧水地と名水仕込み美食・美肌温泉宿×ふるさと納税完全ガイド【2026年最新】白川水源・安曇野・柿田川',

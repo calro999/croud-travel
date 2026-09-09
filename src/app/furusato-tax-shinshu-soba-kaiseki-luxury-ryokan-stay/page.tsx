@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     '絶景露天風呂 クーポン',
     '旬の味覚 宿泊割引'
   ],
-  alternates: { canonical: baseUrl + '/furusato-tax-shinshu-soba-kaiseki-luxury-ryokan-stay' },
+  alternates: { canonical: baseUrl + '/furusato-tax-shinshu-soba-kaiseki-luxury-ryokan-stay/' },
   openGraph: {
     title: '名水が育む挽きたて・打ちたて・茹でたて！信州手打ち蕎麦会席＆山里温泉名旅館×ふるさと納税完全ガイド【2026年最新】戸隠・安曇野・浅間温泉',
     description: '澄んだ名水と清涼な高原の風土が育む日本の蕎麦文化の頂点！日本三大蕎麦・戸隠そば発祥の地で伝統のぼっち盛りと宿坊会席を味わう「戸隠のそば宿・宿坊極意」、名水百選わさび田の里で自家製粉十割手打ち蕎麦と源泉掛け流し離れ宿「安曇野 にし屋別荘」、国宝松本城にほど近い浅間温泉で石臼挽き手打ち蕎麦と畳敷きの温もりに包まれる「別亭 一花」。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',

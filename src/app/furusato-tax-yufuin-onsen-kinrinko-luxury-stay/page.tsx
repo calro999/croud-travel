@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     '実質2000円'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-yufuin-onsen-kinrinko-luxury-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-yufuin-onsen-kinrinko-luxury-stay/',
   },
   openGraph: {
     title: '朝霧煙る金鱗湖と由布岳の絶景！由布院温泉の露天風呂付き離れ＆憧れ名門旅館×ふるさと納税完全攻略ガイド【2026年最新】花由・秀峰館・梅園',

@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: 'まるで異世界！緑の草原に無数の白い羊が群れる絶景！山口「秋吉台」日本最大級カルストと大鍾乳洞＆湯田温泉、愛媛高知「四国カルスト」標高1400m天空の道と満天星空リゾート、福岡「平尾台」国の天然記念物ピナクル奇勝と小倉・門司港クラシックホテル。壮大なカルスト高原を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: 'ふるさと納税, 楽天トラベル, 旅行クーポン, 宿泊記, ホテル予約, 国内旅行, おすすめ宿, 温泉旅館',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-karst-plateaus-mountain-resort-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-karst-plateaus-mountain-resort-stay/',
   },
   openGraph: {
     title: '日本三大カルスト台地＆白亜の石灰岩パノラマ高原リゾート×ふるさと納税完全ガイド【2026年最新】秋吉台・四国カルスト・平尾台',

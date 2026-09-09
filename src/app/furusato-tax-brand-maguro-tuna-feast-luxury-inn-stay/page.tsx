@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     '絶景露天風呂 クーポン',
     '旬の味覚 宿泊割引'
   ],
-  alternates: { canonical: baseUrl + '/furusato-tax-brand-maguro-tuna-feast-luxury-inn-stay' },
+  alternates: { canonical: baseUrl + '/furusato-tax-brand-maguro-tuna-feast-luxury-inn-stay/' },
   openGraph: {
     title: '本場黒マグロ・生マグロ尽くし会席＆絶景温泉宿×ふるさと納税完全ガイド【2026年最新】大間・那智勝浦・三崎港',
     description: '海のダイヤと称される極上マグロを本場の港町名宿で味わい尽くす！津軽海峡の一本釣り大間マグロと下風呂の白濁硫黄泉を誇る「下風呂観光ホテル 三浦屋」、日本一の生マグロ水揚げ港で専用船で渡る孤島の秘境露天風呂「碧き島の宿 熊野別邸 中の島」、三浦三崎港のまぐろ食べ放題と東京湾オーシャンビュー温泉「マホロバ・マインズ三浦」。大トロ、中トロ、赤身の握りから兜焼き、ねぎま鍋まで、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',

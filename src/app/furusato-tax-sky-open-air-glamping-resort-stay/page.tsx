@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     '2026年旅行'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-sky-open-air-glamping-resort-stay'
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-sky-open-air-glamping-resort-stay/'
   },
   openGraph: {
     title: '天空の露天風呂付きグランピング＆星空ドーム×ふるさと納税完全ガイド【2026年最新】富士山・阿蘇・那須の高級アウトドア宿',

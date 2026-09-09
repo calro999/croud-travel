@@ -70,7 +70,7 @@ export async function generateMetadata({ params }: { params: Promise<{ pref: str
       "観光ガイド", "絶景カフェ", "トレンドお土産", "地酒日本酒", "温泉宿", "ホテル予約", "楽天トラベル"
     ].join(", "),
     alternates: {
-      canonical: `${baseUrl}/prefectures/${prefInfo.slug}`,
+      canonical: `${baseUrl}/prefectures/${prefInfo.slug}/`,
     },
     openGraph: {
       title: `${prefInfo.name} 国内最高峰 観光ポータルガイド`,

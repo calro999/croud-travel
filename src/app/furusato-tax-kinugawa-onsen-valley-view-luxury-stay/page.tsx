@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     '実質2000円'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-kinugawa-onsen-valley-view-luxury-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-kinugawa-onsen-valley-view-luxury-stay/',
   },
   openGraph: {
     title: '鬼怒川渓谷の絶景と名湯！空中庭園露天風呂＆豪華100種バイキング・最高峰老舗旅館×ふるさと納税完全攻略ガイド【2026年最新】あさや・金谷ホテル・ホテル三日月',

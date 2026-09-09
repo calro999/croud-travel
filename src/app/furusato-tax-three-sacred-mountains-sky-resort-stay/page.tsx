@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: '日本古来の山岳信仰が息づく日本三霊山！山梨・静岡「霊峰富士」河口湖逆さ富士展望温泉と甲州ワインビーフ、石川「白山」手取川源流の雪解け美肌湯と加賀会席宿、富山「立山」立山黒部アルペンルート直結マウンテンホテルと富山湾の海の幸。神々が宿る名峰の絶景パノラマを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: 'ふるさと納税, 楽天トラベル, 旅行クーポン, 宿泊記, ホテル予約, 国内旅行, おすすめ宿, 温泉旅館',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-sacred-mountains-sky-resort-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-sacred-mountains-sky-resort-stay/',
   },
   openGraph: {
     title: '日本三霊山＆富士山・白山・立山を仰ぐ天空パノラマリゾート×ふるさと納税完全ガイド【2026年最新】霊峰ビュー温泉宿',

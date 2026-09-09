@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     '実質2000円'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-kyoto-private-machiya-charter-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-kyoto-private-machiya-charter-stay/',
   },
   openGraph: {
     title: '歴史ある京町家を一棟丸ごと貸切！暮らすように泊まる露天風呂付きプライベート町家旅館×ふるさと納税完全攻略ガイド【2026年最新】Nazuna椿通・Nazuna二条城・お宿花',

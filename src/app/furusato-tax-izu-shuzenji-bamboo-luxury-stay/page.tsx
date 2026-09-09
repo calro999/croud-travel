@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     '実質2000円'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-izu-shuzenji-bamboo-luxury-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-izu-shuzenji-bamboo-luxury-stay/',
   },
   openGraph: {
     title: '伊豆最古の小京都！修善寺温泉の竹林の小径散策＆桂川のせせらぎ望む老舗旅館×ふるさと納税完全攻略ガイド【2026年最新】湯回廊菊屋・宙SORA・桂川',

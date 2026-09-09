@@ -309,6 +309,7 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【おすすめ宿】ホテルイン酒田の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/18362): ホテルイン酒田（山形県）
 - [【群馬県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/38692): 伊香保温泉　旅館　さくらい（群馬県）
 - [【おすすめ宿】別所温泉　旅館つるや＜長野県＞の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/15183): 別所温泉　旅館つるや＜長野県＞（長野県）
 - [【三重県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/1149): 都ホテル　四日市（三重県）
@@ -358,4 +359,3 @@
 - [【熊本・阿蘇】阿蘇内牧温泉おすすめ宿6選！大観峰のカルデラパノラマとあか牛・馬刺し会席](https://croud-travel.pages.dev/posts/aso-uchinomaki-onsen-caldera-view-hotels-guide): 阿蘇内牧温泉　大観荘（熊本県）
 - [【東伊豆・熱川温泉】懐かしの自然湯 熱川温泉 一柳閣！7本の自家源泉と金目鯛姿煮プラン](https://croud-travel.pages.dev/posts/atagawa-ichiryukaku-hot-spring-sea-view-guide): 伊豆熱川温泉　六つの貸切風呂を湯めぐり　ふたりの湯宿　湯花満開（静岡県）
 - [【センティア・ホテル内藤】四季の美食会席と源泉かけ流し露天風呂！日常を離れて心と体を解きほぐす大人の温泉リトリート完全ガイド](https://croud-travel.pages.dev/posts/centia-hotel-naito-kofu-stay-review-guide): センティア・ホテル内藤（山梨県）
-- [【愛媛・道後温泉】日本最古の湯・道後温泉本館周辺の人気宿7選！坊っちゃんゆかりの湯と鯛めし](https://croud-travel.pages.dev/posts/dogo-onsen-honkan-botchan-ehime-guide): 道後温泉　道後グランドホテル（愛媛県）
