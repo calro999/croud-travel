@@ -309,6 +309,7 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【三重県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/1149): 都ホテル　四日市（三重県）
 - [【ホテル喜楽荘福島県】ホテル喜楽荘＜福島県＞をおすすめする3つの理由を満喫する旅ガイド](https://croud-travel.pages.dev/posts/16181): ホテル喜楽荘＜福島県＞（福島県）
 - [【ＪＲ東日本ホテルメッツ川崎】オーシャンビュー展望風呂＆海の幸！神奈川県で過ごす雄大な海景色と新鮮な海鮮グルメを満喫するシーサイドステイ完全ガイド](https://croud-travel.pages.dev/posts/1708): ＪＲ東日本ホテルメッツ川崎（神奈川県）
 - [【萩温泉郷　海が奏でる癒しの宿　リゾートホテル美萩】萩温泉郷　海が奏でる癒しの宿　リゾートホテル美萩をおすすめする3つの理由を満喫する旅ガイド](https://croud-travel.pages.dev/posts/147160): 萩温泉郷　海が奏でる癒しの宿　リゾートホテル美萩（島根県）
@@ -358,4 +359,3 @@
 - [【愛媛・道後温泉】日本最古の湯・道後温泉本館周辺の人気宿7選！坊っちゃんゆかりの湯と鯛めし](https://croud-travel.pages.dev/posts/dogo-onsen-honkan-botchan-ehime-guide): 道後温泉　道後グランドホテル（愛媛県）
 - [【下呂温泉】名物「100帖の畳風呂」小川屋宿泊ガイド！飛騨川を望む絶景と飛騨牛三昧会席](https://croud-travel.pages.dev/posts/gero-ogawaya-tatami-bath-spa-guide): 下呂温泉　小川屋（岐阜県）
 - [【山形・銀山温泉】大正ロマンの木造建築＆ガス灯灯る雪景色宿6選！尾花沢牛と立ち並ぶ名旅館](https://croud-travel.pages.dev/posts/ginzan-onsen-taisho-roman-snow-view-guide): 銀山温泉　古勢起屋別館（山形県）
-- [【白馬五竜　ホテル　ステラベラ】【長野・白馬】白馬五竜ホテル ステラベラを満喫する旅ガイド](https://croud-travel.pages.dev/posts/hakuba-stellabella-alps-resort-guide): 白馬五竜　ホテル　ステラベラ（長野県）

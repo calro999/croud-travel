@@ -783,6 +783,30 @@ export default function TravelSavingsGuide() {
                 </Link>
               </li>
               <li>
+                <Link href="/furusato-tax-fuji-view-open-air-bath-luxury-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【富士山＆河口湖ビュー絶景露天風呂名門宿×ふるさと納税】鐘山苑・うぶや・湖南荘</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-kyoto-onsen-ryokan-machiya-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【京都嵐山温泉＆名門京町家旅館×ふるさと納税】渡月亭・翠嵐・花伝抄</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-legoland-japan-official-hotel-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【レゴランド・ジャパン公式＆名古屋ホテル×ふるさと納税】レゴランドホテル・マリオット・ベッセル</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-atami-ocean-view-fireworks-hotel-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【熱海花火大会特等席＆オーシャンビュー温泉宿×ふるさと納税】後楽園・ニューアカオ・パールスター</span>
+                </Link>
+              </li>
+              <li>
                 <Link href="/furusato-tax-crab-all-you-can-eat-winter-buffet-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
                   <span className="text-amber-600">▸</span>
                   <span>【冬の蟹食べ放題＆本場松葉ガニ名宿×ふるさと納税】夕日ヶ浦・城崎温泉</span>
