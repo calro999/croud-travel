@@ -795,6 +795,30 @@ export default function TravelSavingsGuide() {
                 </Link>
               </li>
               <li>
+                <Link href="/furusato-tax-izu-shuzenji-bamboo-luxury-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【伊豆修善寺 竹林の小径＆老舗名門宿×ふるさと納税】湯回廊菊屋・宙SORA・桂川</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-awajishima-ocean-view-luxury-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【淡路島 オーシャンビュー＆淡路牛宿×ふるさと納税】ホテルニューアワジ・夢海游・グランシャリオ</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-echigo-yuzawa-onsen-sake-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【越後湯沢温泉 雪国名湯＆魚沼コシヒカリ宿×ふるさと納税】双葉・NASPAニューオータニ・いなもと</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-chichibu-nagatoro-nature-onsen-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【秩父・長瀞 名勝岩畳＆美肌温泉宿×ふるさと納税】和どう・新木鉱泉・長生館</span>
+                </Link>
+              </li>
+              <li>
                 <Link href="/furusato-tax-ishigakijima-resort-villa-luxury-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
                   <span className="text-amber-600">▸</span>
                   <span>【石垣島 ビーチ直結＆赤瓦ヴィラ×ふるさと納税】フサキ・ANAインターコンチネンタル・グランヴィリオ</span>
