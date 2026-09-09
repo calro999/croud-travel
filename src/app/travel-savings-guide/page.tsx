@@ -795,6 +795,30 @@ export default function TravelSavingsGuide() {
                 </Link>
               </li>
               <li>
+                <Link href="/furusato-tax-ishigakijima-resort-villa-luxury-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【石垣島 ビーチ直結＆赤瓦ヴィラ×ふるさと納税】フサキ・ANAインターコンチネンタル・グランヴィリオ</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-miyakojima-allamanda-resort-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【宮古島 宮古ブルー＆最高峰スイートヴィラ×ふるさと納税】アラマンダ・ヒルトン・シギラミラージュ</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-kamikochi-japan-alps-resort-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【上高地 穂高連峰絶景＆山岳名宿×ふるさと納税】ルミエスタ・大正池ホテル・上高地温泉ホテル</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-furano-biei-lavender-nature-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【富良野・美瑛 ラベンダー＆青い池絶景宿×ふるさと納税】新富良野プリンス・オリカ・白金温泉ゆゆ</span>
+                </Link>
+              </li>
+              <li>
                 <Link href="/furusato-tax-arima-onsen-kinsen-ginsen-luxury-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
                   <span className="text-amber-600">▸</span>
                   <span>【有馬温泉 金泉銀泉＆名門旅館×ふるさと納税】兵衛向陽閣・御所坊・月光園鴻朧館</span>
