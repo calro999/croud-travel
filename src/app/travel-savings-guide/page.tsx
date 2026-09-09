@@ -789,6 +789,30 @@ export default function TravelSavingsGuide() {
                 </Link>
               </li>
               <li>
+                <Link href="/furusato-tax-kyoto-private-machiya-charter-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【京都町家一棟貸切プライベート旅館×ふるさと納税】Nazuna椿通・二条城・お宿花</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-okinawa-beach-resort-luxury-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【沖縄本島最高峰ビーチリゾート×ふるさと納税】ハレクラニ・ルネッサンス・ロワジール</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-yokohama-minatomirai-nightview-luxury-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【横浜みなとみらい大観覧車夜景ホテル×ふるさと納税】Pier8・グランドインターコンチ・ベイ東急</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-kusatsu-onsen-yubatake-walk-luxury-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【草津温泉 湯畑散策＆名湯名門旅館×ふるさと納税】櫻井・一井・奈良屋</span>
+                </Link>
+              </li>
+              <li>
                 <Link href="/furusato-tax-kyoto-onsen-ryokan-machiya-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
                   <span className="text-amber-600">▸</span>
                   <span>【京都嵐山温泉＆名門京町家旅館×ふるさと納税】渡月亭・翠嵐・花伝抄</span>
