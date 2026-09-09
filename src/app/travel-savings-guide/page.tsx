@@ -795,6 +795,30 @@ export default function TravelSavingsGuide() {
                 </Link>
               </li>
               <li>
+                <Link href="/furusato-tax-ikaho-onsen-stone-steps-luxury-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【伊香保温泉 365段石段街＆二大名湯宿×ふるさと納税】福一・岸権旅館・ホテル木暮</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-hida-takayama-old-town-luxury-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【飛騨高山 古い町並み＆極上飛騨牛宿×ふるさと納税】花兆庵・花扇・光風館</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-kurobe-unazuki-onsen-gorge-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【宇奈月温泉 黒部峡谷＆富山湾キトキト幸宿×ふるさと納税】延対寺荘・やまのは・延楽</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-tateyama-kurobe-alpen-route-resort-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【立山黒部 雲上リゾート＆大自然名宿×ふるさと納税】弥陀ヶ原・立山高原・森の風立山</span>
+                </Link>
+              </li>
+              <li>
                 <Link href="/furusato-tax-izu-shuzenji-bamboo-luxury-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
                   <span className="text-amber-600">▸</span>
                   <span>【伊豆修善寺 竹林の小径＆老舗名門宿×ふるさと納税】湯回廊菊屋・宙SORA・桂川</span>
