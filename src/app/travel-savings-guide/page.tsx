@@ -795,6 +795,30 @@ export default function TravelSavingsGuide() {
                 </Link>
               </li>
               <li>
+                <Link href="/furusato-tax-kurokawa-onsen-yumeguri-luxury-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【黒川温泉 入湯手形＆渓流露天風呂宿×ふるさと納税】山みず木・奥の湯・新明館</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-ginzan-onsen-taisho-romantic-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【銀山温泉 大正ロマン＆雪見露天宿×ふるさと納税】能登屋・銀山荘・古勢起屋</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-beppu-onsen-jigoku-meguri-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【別府温泉 地獄めぐり＆絶景リゾート宿×ふるさと納税】杉乃井・山水館・亀の井</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-kyoto-arashiyama-bamboo-luxury-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【京都嵐山 渡月橋＆竹林の小径名門宿×ふるさと納税】翠嵐・花伝抄・辨慶</span>
+                </Link>
+              </li>
+              <li>
                 <Link href="/furusato-tax-kinosaki-onsen-sotoyu-meguri-ryokan-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
                   <span className="text-amber-600">▸</span>
                   <span>【城崎温泉 七田外湯めぐり＆柳並木宿×ふるさと納税】招月庭・小宿縁・つちや旅館</span>
