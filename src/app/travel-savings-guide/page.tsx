@@ -765,6 +765,30 @@ export default function TravelSavingsGuide() {
                 </Link>
               </li>
               <li>
+                <Link href="/furusato-tax-waterfall-view-sound-stream-onsen-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【名瀑・清流滝ビュー絶景露天風呂×ふるさと納税】伊豆天城・那須板室・黒川</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-traditional-hearth-irori-charcoal-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【古民家囲炉裏炭火会席＆足元湧出の奇跡の湯×ふるさと納税】白川郷・法師・祖谷</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-cave-bath-natural-grotto-onsen-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【荒波迫る大洞窟風呂＆神秘の岩風呂×ふるさと納税】南紀勝浦・湯の峰・上諏訪</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-steam-locomotive-sl-train-view-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【大井川・秩父・磐越西線 SLビューステイ×ふるさと納税】島田・秩父・会津東山</span>
+                </Link>
+              </li>
+              <li>
                 <Link href="/furusato-tax-yakuzen-herbal-cuisine-detox-onsen-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
                   <span className="text-amber-600">▸</span>
                   <span>【本格薬膳会席＆ハーブデトックス宿×ふるさと納税】金沢湯涌・箱根・別府鉄輪</span>
