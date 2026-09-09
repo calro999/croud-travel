@@ -771,6 +771,30 @@ export default function TravelSavingsGuide() {
                 </Link>
               </li>
               <li>
+                <Link href="/furusato-tax-indoor-pool-kids-family-resort-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【一年中泳げる室内温水プール＆子ども向け温泉宿×ふるさと納税】那須・草津・別府</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-all-inclusive-free-drinks-alcohol-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【生ビール＆地酒飲み放題オールインクルーシブ名宿×ふるさと納税】作並・松島・伊勢志摩</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-usj-osaka-official-partner-hotel-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【USJ公式オフィシャルホテル＆展望天然温泉×ふるさと納税】近鉄・京阪タワー・リーベル</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-tokyo-disney-resort-official-hotel-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【東京ディズニーリゾート公式オフィシャルホテル×ふるさと納税】シェラトン・ヒルトン・グランドニッコー</span>
+                </Link>
+              </li>
+              <li>
                 <Link href="/furusato-tax-traditional-hearth-irori-charcoal-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
                   <span className="text-amber-600">▸</span>
                   <span>【古民家囲炉裏炭火会席＆足元湧出の奇跡の湯×ふるさと納税】白川郷・法師・祖谷</span>
