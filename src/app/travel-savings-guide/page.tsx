@@ -777,6 +777,30 @@ export default function TravelSavingsGuide() {
                 </Link>
               </li>
               <li>
+                <Link href="/furusato-tax-nagashima-spaland-official-hotel-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【ナガシマスパーランド公式オフィシャルホテル×ふるさと納税】花水木・ナガシマ・オリーブ</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-crab-all-you-can-eat-winter-buffet-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【冬の蟹食べ放題＆本場松葉ガニ名宿×ふるさと納税】夕日ヶ浦・城崎温泉</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-hakone-onsen-open-air-bath-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【箱根湯本名湯温泉＆大露天風呂宿×ふるさと納税】天成園・おかだ・南風荘</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-hoshino-resorts-risonare-family-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【星野リゾート「リゾナーレ」特集×ふるさと納税】八ヶ岳・熱海・那須</span>
+                </Link>
+              </li>
+              <li>
                 <Link href="/furusato-tax-all-inclusive-free-drinks-alcohol-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
                   <span className="text-amber-600">▸</span>
                   <span>【生ビール＆地酒飲み放題オールインクルーシブ名宿×ふるさと納税】作並・松島・伊勢志摩</span>
