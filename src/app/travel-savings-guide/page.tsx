@@ -753,6 +753,30 @@ export default function TravelSavingsGuide() {
                 </Link>
               </li>
               <li>
+                <Link href="/furusato-tax-footbath-cafe-ashiyu-terrace-onsen-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【清流足湯カフェ＆ベーカリーテラス宿×ふるさと納税】伊豆吉奈・黒川温泉・上高地</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-hanabi-fireworks-view-room-hotel-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【部屋から花火が見える特等席ホテル×ふるさと納税】熱海・洞爺湖・諏訪湖の花火宿</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-night-sky-cocktail-bar-lounge-hotel-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【天空スカイバー＆クラブラウンジ×ふるさと納税】横浜・長崎・大阪の絶景夜景ホテル</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-japanese-garden-view-luxury-ryokan-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【日本庭園ビュー名門温泉宿×ふるさと納税】島根玉造・佐賀武雄・石川加賀の名園旅</span>
+                </Link>
+              </li>
+              <li>
                 <Link href="/furusato-tax-spill-over-kaisendon-seafood-bowl-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
                   <span className="text-amber-600">▸</span>
                   <span>【こぼれ海鮮丼＆朝食いくら盛り放題×ふるさと納税】函館・金沢・伊東の港町ホテル</span>
