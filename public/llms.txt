@@ -309,6 +309,8 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【神奈川県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/1708): ＪＲ東日本ホテルメッツ川崎（神奈川県）
+- [【おすすめ宿】萩温泉郷　海が奏でる癒しの宿　リゾートホテル美萩の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/147160): 萩温泉郷　海が奏でる癒しの宿　リゾートホテル美萩（島根県）
 - [【群馬県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/7166): 草津温泉　５種貸切風呂の宿　湯宿　きんだい（群馬県）
 - [【おすすめ宿】ＥＺ　ＨＯＴＥＬ　関西空港　Ｓｅａｓｉｄｅの魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/191588): ＥＺ　ＨＯＴＥＬ　関西空港　Ｓｅａｓｉｄｅ（大阪府）
 - [【愛媛県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/6001): 道後温泉　道後グランドホテル（愛媛県）
@@ -357,5 +359,3 @@
 - [【山形・銀山温泉】大正ロマンの木造建築＆ガス灯灯る雪景色宿6選！尾花沢牛と立ち並ぶ名旅館](https://croud-travel.pages.dev/posts/ginzan-onsen-taisho-roman-snow-view-guide): 銀山温泉　古勢起屋別館（山形県）
 - [【2026最新】白馬五竜 ホテル ステラベラの宿泊予約＆口コミ総合ガイド](https://croud-travel.pages.dev/posts/hakuba-stellabella-alps-resort-guide): 白馬五竜　ホテル　ステラベラ（長野県）
 - [【岩手・花巻温泉郷】名物バラ風呂＆宮沢賢治ゆかりの宿7選！前沢牛・白金豚美食と渓流露天](https://croud-travel.pages.dev/posts/hanamaki-onsen-rose-bath-kenji-guide): 花巻温泉　割烹旅館　廣美亭（岩手県）
-- [【富山・氷見温泉郷】富山湾越しに立山連峰を望む絶景宿6選！名物「氷見寒ブリ」＆白えび三昧](https://croud-travel.pages.dev/posts/himi-onsen-tateyama-view-buri-guide): 氷見温泉郷　魚巡りの宿　永芳閣（ＢＢＨホテルグループ）（富山県）
-- [【長野・阿智村】昼神温泉おすすめ宿7選！日本一の星空ナイトツアーと極上美肌の湯](https://croud-travel.pages.dev/posts/hirugami-onsen-achi-starry-sky-bihada-guide): 昼神温泉　癒楽（ゆら）の宿　清風苑（長野県）

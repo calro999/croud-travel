@@ -759,6 +759,30 @@ export default function TravelSavingsGuide() {
                 </Link>
               </li>
               <li>
+                <Link href="/furusato-tax-wa-modern-twin-bed-comfortable-ryokan-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【和モダンツインベッド名門温泉旅館×ふるさと納税】黒川・箱根強羅・京都嵐山</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-yakuzen-herbal-cuisine-detox-onsen-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【本格薬膳会席＆ハーブデトックス宿×ふるさと納税】金沢湯涌・箱根・別府鉄輪</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-radium-radon-hotspring-healing-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【ラジウム・ラドン名湯温泉湯治×ふるさと納税】三朝・猿投・村杉の名宿</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-dog-friendly-dogrun-luxury-resort-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【愛犬同伴＆天然芝ドッグラン宿×ふるさと納税】伊豆・那須・びわ湖長浜</span>
+                </Link>
+              </li>
+              <li>
                 <Link href="/furusato-tax-hanabi-fireworks-view-room-hotel-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
                   <span className="text-amber-600">▸</span>
                   <span>【部屋から花火が見える特等席ホテル×ふるさと納税】熱海・洞爺湖・諏訪湖の花火宿</span>
