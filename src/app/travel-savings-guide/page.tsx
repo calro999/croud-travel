@@ -795,6 +795,30 @@ export default function TravelSavingsGuide() {
                 </Link>
               </li>
               <li>
+                <Link href="/furusato-tax-kinosaki-onsen-sotoyu-meguri-ryokan-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【城崎温泉 七田外湯めぐり＆柳並木宿×ふるさと納税】招月庭・小宿縁・つちや旅館</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-dogo-onsen-honkan-walk-luxury-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【道後温泉 本館散策＆老舗旅館×ふるさと納税】ふなや・道後御湯・道後プリンス</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-noboribetsu-jigokudani-onsen-luxury-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【登別温泉 地獄谷＆名湯ビュッフェ宿×ふるさと納税】第一滝本館・まほろば・グランドホテル</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-yufuin-onsen-kinrinko-luxury-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【由布院温泉 金鱗湖＆由布岳絶景宿×ふるさと納税】花由・秀峰館・梅園</span>
+                </Link>
+              </li>
+              <li>
                 <Link href="/furusato-tax-okinawa-beach-resort-luxury-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
                   <span className="text-amber-600">▸</span>
                   <span>【沖縄本島最高峰ビーチリゾート×ふるさと納税】ハレクラニ・ルネッサンス・ロワジール</span>
