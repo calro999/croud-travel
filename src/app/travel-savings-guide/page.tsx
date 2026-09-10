@@ -723,6 +723,30 @@ export default function TravelSavingsGuide() {
                   </Link>
                 </li>
               <li>
+                <Link href="/furusato-tax-kurokawa-onsen-nyuto-tegata-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【黒川温泉×ふるさと納税】入湯手形で巡る露天風呂＆あか牛会席！山みず木・旅館わかば・山の宿新明館</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-manza-onsen-milky-sulfur-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【万座温泉×ふるさと納税】標高1800mの白濁硫黄泉＆満天星空！万座プリンス・万座高原・日進舘</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-naruko-onsen-historic-cure-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【鳴子温泉郷×ふるさと納税】千年の湯治文化と多彩な源泉めぐり！湯元吉祥・鳴子観光ホテル・鳴子風雅</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-echigo-yuzawa-onsen-snow-country-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【越後湯沢温泉×ふるさと納税】新幹線直結！川端康成「雪国」の文学名湯！高半・松泉閣花月・NASPA</span>
+                </Link>
+              </li>
+              <li>
                 <Link href="/furusato-tax-kinugawa-onsen-valley-luxury-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
                   <span className="text-amber-600">▸</span>
                   <span>【鬼怒川温泉×ふるさと納税】渓谷美と大露天風呂！あさや・鬼怒川金谷ホテル・鬼怒川プラザホテル</span>
