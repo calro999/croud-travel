@@ -3,16 +3,16 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【城崎温泉×ふるさと納税】七つの外湯めぐり＆絶品松葉ガニ！老舗名旅館ガイド｜西村屋本館・招月庭・三木屋',
-  description: '開湯千三百年・柳並木と太鼓橋が美しい兵庫県城崎温泉を楽天ふるさと納税でお得に贅沢旅！創業百六十年の最高峰「西村屋本館」、広大な森林庭園露天風呂を誇る「西村屋ホテル招月庭」、志賀直哉ゆかりの国登録有形文化財「三木屋」を徹底比較。松葉ガニや但馬牛会席、豊岡市トラベルクーポン活用術を網羅。',
-  keywords: '城崎温泉 ふるさと納税,城崎温泉 外湯めぐり ふるさと納税,西村屋本館 クーポン,三木屋 城崎 ふるさと納税,豊岡市 ふるさと納税 旅行',
+  title: '【道後温泉×ふるさと納税】日本最古の名湯・道後温泉本館＆飛鳥乃湯泉！名門老舗宿ガイド｜ふなや・道後御湯・茶玻瑠',
+  description: '三千年の歴史を誇る日本最古の温泉・愛媛県道後温泉を楽天ふるさと納税でお得に贅沢旅！創業三百九十余年・皇室や夏目漱石ゆかりの名門「ふなや」、全室客室露天風呂付き現代湯治のラグジュアリー宿「道後御湯」、本館すぐ隣・屋上露天風呂の「茶玻瑠」を徹底比較。伊予牛会席や松山市トラベルクーポン活用術を解説。',
+  keywords: '道後温泉 ふるさと納税,道後温泉本館 宿 ふるさと納税,道後温泉 ふなや クーポン,道後御湯 ふるさと納税,茶玻瑠 松山市 宿泊',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-kinosaki-onsen-sotoyu-crab-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-dogo-onsen-honkan-heritage-stay',
   },
   openGraph: {
-    title: '【城崎温泉×ふるさと納税】七つの外湯めぐり＆絶品松葉ガニ！老舗名旅館ガイド｜西村屋本館・招月庭・三木屋',
-    description: '開湯千三百年・柳並木と太鼓橋が美しい兵庫県城崎温泉を楽天ふるさと納税でお得に贅沢旅！創業百六十年の最高峰「西村屋本館」、広大な森林庭園露天風呂を誇る「西村屋ホテル招月庭」、志賀直哉ゆかりの国登録有形文化財「三木屋」を徹底比較。松葉ガニや但馬牛会席、豊岡市トラベルクーポン活用術を網羅。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-kinosaki-onsen-sotoyu-crab-stay',
+    title: '【道後温泉×ふるさと納税】日本最古の名湯・道後温泉本館＆飛鳥乃湯泉！名門老舗宿ガイド｜ふなや・道後御湯・茶玻瑠',
+    description: '三千年の歴史を誇る日本最古の温泉・愛媛県道後温泉を楽天ふるさと納税でお得に贅沢旅！創業三百九十余年・皇室や夏目漱石ゆかりの名門「ふなや」、全室客室露天風呂付き現代湯治のラグジュアリー宿「道後御湯」、本館すぐ隣・屋上露天風呂の「茶玻瑠」を徹底比較。伊予牛会席や松山市トラベルクーポン活用術を解説。',
+    url: 'https://croud-travel.pages.dev/furusato-tax-dogo-onsen-honkan-heritage-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -23,8 +23,8 @@ export default function FurusatoArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【城崎温泉×ふるさと納税】七つの外湯めぐり＆絶品松葉ガニ！老舗名旅館ガイド｜西村屋本館・招月庭・三木屋',
-    description: '開湯千三百年・柳並木と太鼓橋が美しい兵庫県城崎温泉を楽天ふるさと納税でお得に贅沢旅！創業百六十年の最高峰「西村屋本館」、広大な森林庭園露天風呂を誇る「西村屋ホテル招月庭」、志賀直哉ゆかりの国登録有形文化財「三木屋」を徹底比較。松葉ガニや但馬牛会席、豊岡市トラベルクーポン活用術を網羅。',
+    headline: '【道後温泉×ふるさと納税】日本最古の名湯・道後温泉本館＆飛鳥乃湯泉！名門老舗宿ガイド｜ふなや・道後御湯・茶玻瑠',
+    description: '三千年の歴史を誇る日本最古の温泉・愛媛県道後温泉を楽天ふるさと納税でお得に贅沢旅！創業三百九十余年・皇室や夏目漱石ゆかりの名門「ふなや」、全室客室露天風呂付き現代湯治のラグジュアリー宿「道後御湯」、本館すぐ隣・屋上露天風呂の「茶玻瑠」を徹底比較。伊予牛会席や松山市トラベルクーポン活用術を解説。',
     author: {
       '@type': 'Organization',
       name: 'クラウドトラベル 観光・ふるさと納税調査班',
@@ -40,7 +40,7 @@ export default function FurusatoArticlePage() {
     },
     datePublished: '2026-09-10T16:45:00+09:00',
     dateModified: '2026-09-10T16:45:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-kinosaki-onsen-sotoyu-crab-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-dogo-onsen-honkan-heritage-stay',
   };
 
   return (
@@ -56,20 +56,20 @@ export default function FurusatoArticlePage() {
         <span>/</span>
         <Link href="/travel-savings-guide" className="hover:underline">ふるさと納税旅行ガイド</Link>
         <span>/</span>
-        <span className="text-stone-700 font-medium truncate">【城崎温泉×ふるさと納税】七つの外湯めぐり＆絶品松葉ガニ！老舗名旅館ガイド｜西村屋本館・招月庭・三木屋</span>
+        <span className="text-stone-700 font-medium truncate">【道後温泉×ふるさと納税】日本最古の名湯・道後温泉本館＆飛鳥乃湯泉！名門老舗宿ガイド｜ふなや・道後御湯・茶玻瑠</span>
       </nav>
 
       {/* ヒーローセクション */}
       <header className="max-w-4xl mx-auto px-4 sm:px-6 py-8 sm:py-12 space-y-4">
         <div className="inline-flex items-center gap-2 bg-amber-100/80 text-amber-900 text-xs font-semibold px-3 py-1 rounded-full border border-amber-200">
           <span>♨️</span>
-          <span>兵庫県豊岡市 ふるさと納税・名湯宿特集</span>
+          <span>愛媛県松山市 ふるさと納税・名湯宿特集</span>
         </div>
         <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">
-          【城崎温泉×ふるさと納税】七つの外湯めぐり＆絶品松葉ガニ！老舗名旅館ガイド｜西村屋本館・招月庭・三木屋
+          【道後温泉×ふるさと納税】日本最古の名湯・道後温泉本館＆飛鳥乃湯泉！名門老舗宿ガイド｜ふなや・道後御湯・茶玻瑠
         </h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed">
-          開湯千三百年・柳並木と太鼓橋が美しい兵庫県城崎温泉を楽天ふるさと納税でお得に贅沢旅！創業百六十年の最高峰「西村屋本館」、広大な森林庭園露天風呂を誇る「西村屋ホテル招月庭」、志賀直哉ゆかりの国登録有形文化財「三木屋」を徹底比較。松葉ガニや但馬牛会席、豊岡市トラベルクーポン活用術を網羅。
+          三千年の歴史を誇る日本最古の温泉・愛媛県道後温泉を楽天ふるさと納税でお得に贅沢旅！創業三百九十余年・皇室や夏目漱石ゆかりの名門「ふなや」、全室客室露天風呂付き現代湯治のラグジュアリー宿「道後御湯」、本館すぐ隣・屋上露天風呂の「茶玻瑠」を徹底比較。伊予牛会席や松山市トラベルクーポン活用術を解説。
         </p>
       </header>
 
@@ -77,13 +77,13 @@ export default function FurusatoArticlePage() {
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
           <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">
-            浴衣に下駄でカランコロン——柳揺れる大谿川と七つの外湯、冬の味覚の王様・松葉ガニに酔いしれる
+            神話の時代から湧き続ける日本最古の名湯——保存修理を終えた道後温泉本館と老舗名宿で過ごす優雅な休日
           </h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
-            兵庫県豊岡市城崎町、日本海へと注ぐ大谿川（おおたにがわ）沿いに広がる城崎（きのさき）温泉。奈良時代の開湯以来千三百年の歴史を誇り、「駅は玄関、道路は廊下、旅館は客室、外湯は大浴場」という共生の理念のもと、温泉街全体が一つの大きな宿として旅人を温かく迎え入れます。柳並木と太鼓橋が織りなす情緒あふれる景観の中、色とりどりの浴衣に下駄を鳴らして「一の湯」「御所の湯」「鴻の湯」など趣の異なる七つの外湯をめぐる時間は、まさに日本の温泉旅の原点です。
+            愛媛県松山市に位置する道後温泉は、兵庫の有馬、和歌山の白浜と並び「日本三古湯」の一つに数えられる三千年の歴史を持つ名湯です。白鷺が傷を癒やした伝説や、聖徳太子の来訪、そして文豪・夏目漱石の小説『坊っちゃん』の舞台としても広く親しまれています。温泉街の中央に堂々とそびえる「道後温泉本館」は、明治27年に建てられた国の重要文化財。全館保存修理工事を経て美しく甦り、木造多層の城郭風建築と「振鷺閣（しんろかく）」から響く刻太鼓の音が、旅情を心地よく刺激します。
           </p>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
-            城崎温泉の冬の主役といえば、日本海で水揚げされる冬の味覚の王様「松葉ガニ（ズワイガニ）」です。タグ付きの活松葉ガニを贅沢に使った焼きガニ、カニ刺し、カニ鍋、甲羅味噌焼き、そして幻の高級和牛「但馬牛」のステーキやしゃぶしゃぶとの饗宴は至福の極み。兵庫県豊岡市へのふるさと納税を利用すれば、30%相当の楽天トラベルクーポンにより憧れの最高峰老舗旅館へお得に宿泊でき、一生の思い出に残る美食と温泉の旅が叶います。
+            道後温泉の湯は、アルカリ性単純温泉で刺激が少なく滑らかな肌触りが特徴の「美人の湯」。本館や飛鳥乃湯泉の外湯散策を楽しんだ後は、宿で瀬戸内海の新鮮な真鯛を使った名物「鯛めし」や、柔らかくジューシーな「伊予牛」の会席料理に舌鼓を打つ極上の夜が待っています。愛媛県松山市へのふるさと納税を利用すれば、30%相当の楽天トラベルクーポンにより名門旅館へお得に宿泊でき、四国・愛媛の豊かな歴史と食文化を堪能する特別な温泉旅行が叶います。
           </p>
         </section>
 
@@ -105,21 +105,21 @@ export default function FurusatoArticlePage() {
               <tbody className="divide-y divide-stone-100">
                 
                 <tr>
-                  <td className="p-3 font-bold text-amber-900">城崎温泉　西村屋本館</td>
-                  <td className="p-3 font-bold">★ 5</td>
-                  <td className="p-3 text-stone-600">創業百六十年の歴史を誇る城崎最高峰の格式！伝統の数寄屋建築と名庭園、タグ付き松葉ガニ懐石</td>
+                  <td className="p-3 font-bold text-amber-900">道後温泉　ふなや</td>
+                  <td className="p-3 font-bold">★ 4.74</td>
+                  <td className="p-3 text-stone-600">創業三百九十余年・皇族や文豪に愛された道後屈指の名門！千五百坪の自然庭園と渓流足湯</td>
                   <td className="p-3 text-stone-600">歴史と品格の最高峰ステイ</td>
                 </tr>
                 <tr>
-                  <td className="p-3 font-bold text-amber-900">城崎温泉　西村屋ホテル招月庭</td>
-                  <td className="p-3 font-bold">★ 4.71</td>
-                  <td className="p-3 text-stone-600">五万坪の広大な森林庭園に抱かれる極上リゾート！大自然のジャグジー露天風呂と多彩な蟹プラン</td>
+                  <td className="p-3 font-bold text-amber-900">道後御湯</td>
+                  <td className="p-3 font-bold">★ 4.92</td>
+                  <td className="p-3 text-stone-600">全室に温泉露天風呂を完備！現代湯治をコンセプトにした大人の洗練ラグジュアリーホテル</td>
                   <td className="p-3 text-stone-600">大人の洗練・絶景プライベート</td>
                 </tr>
                 <tr>
-                  <td className="p-3 font-bold text-amber-900">城崎温泉　登録有形文化財の宿　三木屋</td>
-                  <td className="p-3 font-bold">★ 4.76</td>
-                  <td className="p-3 text-stone-600">文豪志賀直哉が名作『城の崎にて』を執筆した歴史宿！三百坪の日本庭園と登録有形文化財の木造建築</td>
+                  <td className="p-3 font-bold text-amber-900">道後温泉　茶玻瑠</td>
+                  <td className="p-3 font-bold">★ 4.13</td>
+                  <td className="p-3 text-stone-600">道後温泉本館まで徒歩1分！道後初の屋上露天風呂とモダンな和洋ビュッフェが人気のスタイリッシュ宿</td>
                   <td className="p-3 text-stone-600">温泉街散策・快適アクティブ旅</td>
                 </tr>
               </tbody>
@@ -137,8 +137,8 @@ export default function FurusatoArticlePage() {
           <article className="bg-white rounded-3xl overflow-hidden shadow-sm border border-stone-200/80 transition hover:shadow-md">
             <div className="relative aspect-video sm:aspect-[16/9] w-full overflow-hidden bg-stone-100">
               <img
-                src="https://img.travel.rakuten.co.jp/share/HOTEL/75399/75399.jpg"
-                alt="城崎温泉　西村屋本館"
+                src="https://img.travel.rakuten.co.jp/share/HOTEL/11332/11332.jpg"
+                alt="道後温泉　ふなや"
                 className="w-full h-full object-cover"
                 loading="lazy"
               />
@@ -146,44 +146,44 @@ export default function FurusatoArticlePage() {
                 第1選
               </div>
               <div className="absolute bottom-4 right-4 bg-white/90 backdrop-blur-sm text-stone-900 text-xs px-3 py-1.5 rounded-full font-bold shadow">
-                ★ 5（口コミ 338件）
+                ★ 4.74（口コミ 2015件）
               </div>
             </div>
 
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
-                <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">兵庫県豊岡市</span>
+                <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">愛媛県松山市</span>
                 <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  城崎温泉　西村屋本館
+                  道後温泉　ふなや
                 </h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
-                  創業百六十年の歴史を誇る城崎最高峰の格式！伝統の数寄屋建築と名庭園、タグ付き松葉ガニ懐石
+                  創業三百九十余年・皇族や文豪に愛された道後屈指の名門！千五百坪の自然庭園と渓流足湯
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
                 <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  城崎温泉 西村屋本館 —— 日本旅館の美意識を極める名門。美しい平庭を望む客室と至高のおもてなし
+                  道後温泉 ふなや —— 歴史と品格が宿る最高峰旅館。渓流流れる広大な日本庭園と洗練された美食
                 </h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
                     <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 登録有形文化財の数寄屋造りと四季を映す日本庭園
+                      <span className="text-amber-600">✓</span> 千五百坪の自然庭園「詠風庭」とせせらぎの足湯テラス
                     </h5>
-                    <p className="text-stone-600 leading-relaxed">伝統的な日本の木造建築美を受け継ぐ本館。手入れの行き届いた日本庭園を囲むように回廊が巡り、静寂と気品に満ちた特別な時間が流れます。</p>
+                    <p className="text-stone-600 leading-relaxed">御手洗川の清流が流れる広大な庭園。四季折々の花木や苔むす小道を散策でき、川床や足湯テラスで爽やかな風を感じながら寛ぐことができます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
                     <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 吉野檜香る「檜扇の湯」や中国の古瓦を配した「吉の湯」
+                      <span className="text-amber-600">✓</span> 道後の名湯を引き込んだ檜大浴場「湯山」と御影石「水軍の湯」
                     </h5>
-                    <p className="text-stone-600 leading-relaxed">檜の温もりが心地よい大浴場と野趣あふれる露天風呂。城崎の名湯に身を浸しながら、贅沢なプライベートの湯浴みを満喫できます。</p>
+                    <p className="text-stone-600 leading-relaxed">無加水・無加温にこだわった良質なアルカリ性単純温泉。手足を伸ばしてゆったりと名湯に浸かり、旅の疲れを心地よく癒やせます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
                     <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 厳選された津居山港・柴山港水揚げの活松葉ガニ懐石
+                      <span className="text-amber-600">✓</span> 瀬戸内の天然真鯛や伊予牛を贅沢に盛り込んだ本格和風会席
                     </h5>
-                    <p className="text-stone-600 leading-relaxed">日本海屈指のブランド蟹を熟練の料理人が腕を振るって仕立てる至極の蟹会席。お部屋食で一品一品出来立ての最高峰の味を堪能できます。</p>
+                    <p className="text-stone-600 leading-relaxed">愛媛の豊かな自然が育んだ海の幸・山の幸。繊細な出汁の味わいと美しい盛り付けに老舗のプライドが宿る極上の料理を堪能できます。</p>
                   </div>
                 </div>
               </div>
@@ -193,25 +193,25 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.77点という圧倒的な名門スコア。「庭園の眺め、建物、接客、そしてカニ料理のすべてが人生最高峰の体験」「一度は泊まるべき日本の宝」と絶賛されています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.67点、口コミ1400件超。「庭園の美しさと静けさ、スタッフの接客の洗練さに感動」「料理が素晴らしく道後で泊まるなら絶対ここ」と絶大な信頼を得ています。</p>
               </div>
 
               {/* 宿基本情報 */}
               <div className="text-xs text-stone-500 grid sm:grid-cols-2 gap-2 bg-stone-50 p-4 rounded-xl">
-                <div><span className="font-semibold text-stone-700">住所：</span>兵庫県 豊岡市城崎町湯島469</div>
-                <div><span className="font-semibold text-stone-700">宿泊目安：</span>要問い合わせ /人</div>
-                <div><span className="font-semibold text-stone-700">楽天施設ID：</span>75399</div>
+                <div><span className="font-semibold text-stone-700">住所：</span>愛媛県 松山市道後湯之町1-33</div>
+                <div><span className="font-semibold text-stone-700">宿泊目安：</span>¥19,635〜 /人</div>
+                <div><span className="font-semibold text-stone-700">楽天施設ID：</span>11332</div>
                 <div><span className="font-semibold text-stone-700">予約区分：</span>楽天ふるさと納税トラベルクーポン対象</div>
               </div>
 
               <div className="pt-2">
                 <a
-                  href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D75399"
+                  href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D11332"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block w-full text-center bg-gradient-to-r from-amber-700 to-amber-900 hover:from-amber-800 hover:to-stone-900 text-white font-bold py-3.5 px-6 rounded-xl shadow transition"
                 >
-                  【楽天トラベル】城崎温泉　西村屋本館 の宿泊プランとクーポン適用はこちら →
+                  【楽天トラベル】道後温泉　ふなや の宿泊プランとクーポン適用はこちら →
                 </a>
               </div>
             </div>
@@ -221,8 +221,8 @@ export default function FurusatoArticlePage() {
           <article className="bg-white rounded-3xl overflow-hidden shadow-sm border border-stone-200/80 transition hover:shadow-md">
             <div className="relative aspect-video sm:aspect-[16/9] w-full overflow-hidden bg-stone-100">
               <img
-                src="https://img.travel.rakuten.co.jp/share/HOTEL/14007/14007.jpg"
-                alt="城崎温泉　西村屋ホテル招月庭"
+                src="https://img.travel.rakuten.co.jp/share/HOTEL/165194/165194.jpg"
+                alt="道後御湯"
                 className="w-full h-full object-cover"
                 loading="lazy"
               />
@@ -230,44 +230,44 @@ export default function FurusatoArticlePage() {
                 第2選
               </div>
               <div className="absolute bottom-4 right-4 bg-white/90 backdrop-blur-sm text-stone-900 text-xs px-3 py-1.5 rounded-full font-bold shadow">
-                ★ 4.71（口コミ 1175件）
+                ★ 4.92（口コミ 311件）
               </div>
             </div>
 
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
-                <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">兵庫県豊岡市</span>
+                <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">愛媛県松山市</span>
                 <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  城崎温泉　西村屋ホテル招月庭
+                  道後御湯
                 </h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
-                  五万坪の広大な森林庭園に抱かれる極上リゾート！大自然のジャグジー露天風呂と多彩な蟹プラン
+                  全室に温泉露天風呂を完備！現代湯治をコンセプトにした大人の洗練ラグジュアリーホテル
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
                 <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  城崎温泉 西村屋ホテル招月庭 —— 西村屋の伝統と現代リゾートの融合。癒やしのスパと贅沢なダイニング
+                  道後御湯（みゆ） —— プライベートな癒やしを極める宿。客室露天風呂と松山城を望む展望ラウンジ
                 </h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
                     <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 豊かな緑に包まれる広大な大浴場「月下の湯」と露天風呂
+                      <span className="text-amber-600">✓</span> 全三十室すべてに配されたプライベート温泉露天風呂
                     </h5>
-                    <p className="text-stone-600 leading-relaxed">森林の心地よい風が吹き抜ける露天風呂やジャグジー、ミストサウナを完備。自然と調和した開放感あふれる空間でリフレッシュできます。</p>
+                    <p className="text-stone-600 leading-relaxed">客室の広々としたデッキに設えられた専用露天風呂。道後温泉の引湯を24時間いつでも好きな時にプライベートに堪能できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
                     <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 完全貸切で楽しめる森のプライベートスパ「かがり火の湯」
+                      <span className="text-amber-600">✓</span> 最上階の展望大浴場と松山城・夜景を望むスカイラウンジ
                     </h5>
-                    <p className="text-stone-600 leading-relaxed">岩盤浴や専用ラウンジを備えたラグジュアリーな貸切風呂。カップルやご夫婦で誰にも邪魔されない贅沢な時間を過ごせます。</p>
+                    <p className="text-stone-600 leading-relaxed">松山市街や松山城を見晴らすパノラマビュー。夕暮れどきや夜のライトアップを眺めながら、フリードリンクとともに贅沢なひとときを過ごせます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
                     <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 但馬牛と松葉ガニを贅沢に味わう季節の会席ディナー
+                      <span className="text-amber-600">✓</span> 愛媛の旬の味覚を五感で楽しむダイニング「tachibana」のモダン和食
                     </h5>
-                    <p className="text-stone-600 leading-relaxed">伝統の味を受け継ぎながら、オープンキッチンの要素や彩り豊かな盛り付けを取り入れた大満足のディナー。豊富な地酒やワインとともに味わえます。</p>
+                    <p className="text-stone-600 leading-relaxed">瀬戸内海の旬魚や伊予牛、地元無農薬野菜を現代的なアレンジで仕立てた創作コース。洗練された空間で特別なディナーを味わえます。</p>
                   </div>
                 </div>
               </div>
@@ -277,25 +277,25 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.66点、口コミ2100件超。「森林に囲まれたお風呂が最高に気持ちよく、お料理も大満足」「スタッフの親切な対応と清潔感のある館内が素晴らしい」と高い評価を獲得しています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.77点の最高峰スコア。「部屋のお風呂が最高で何度も入った」「ラウンジからの松山城の景色が美しく、料理も接客もパーフェクト」と大人の旅行者に大人気。</p>
               </div>
 
               {/* 宿基本情報 */}
               <div className="text-xs text-stone-500 grid sm:grid-cols-2 gap-2 bg-stone-50 p-4 rounded-xl">
-                <div><span className="font-semibold text-stone-700">住所：</span>兵庫県 豊岡市城崎町湯島1016-2</div>
-                <div><span className="font-semibold text-stone-700">宿泊目安：</span>¥35,200〜 /人</div>
-                <div><span className="font-semibold text-stone-700">楽天施設ID：</span>14007</div>
+                <div><span className="font-semibold text-stone-700">住所：</span>愛媛県 松山市道後鷺谷町2-20</div>
+                <div><span className="font-semibold text-stone-700">宿泊目安：</span>¥26,410〜 /人</div>
+                <div><span className="font-semibold text-stone-700">楽天施設ID：</span>165194</div>
                 <div><span className="font-semibold text-stone-700">予約区分：</span>楽天ふるさと納税トラベルクーポン対象</div>
               </div>
 
               <div className="pt-2">
                 <a
-                  href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D14007"
+                  href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D165194"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block w-full text-center bg-gradient-to-r from-amber-700 to-amber-900 hover:from-amber-800 hover:to-stone-900 text-white font-bold py-3.5 px-6 rounded-xl shadow transition"
                 >
-                  【楽天トラベル】城崎温泉　西村屋ホテル招月庭 の宿泊プランとクーポン適用はこちら →
+                  【楽天トラベル】道後御湯 の宿泊プランとクーポン適用はこちら →
                 </a>
               </div>
             </div>
@@ -305,8 +305,8 @@ export default function FurusatoArticlePage() {
           <article className="bg-white rounded-3xl overflow-hidden shadow-sm border border-stone-200/80 transition hover:shadow-md">
             <div className="relative aspect-video sm:aspect-[16/9] w-full overflow-hidden bg-stone-100">
               <img
-                src="https://img.travel.rakuten.co.jp/share/HOTEL/106245/106245.jpg"
-                alt="城崎温泉　登録有形文化財の宿　三木屋"
+                src="https://img.travel.rakuten.co.jp/share/HOTEL/17668/17668.jpg"
+                alt="道後温泉　茶玻瑠"
                 className="w-full h-full object-cover"
                 loading="lazy"
               />
@@ -314,44 +314,44 @@ export default function FurusatoArticlePage() {
                 第3選
               </div>
               <div className="absolute bottom-4 right-4 bg-white/90 backdrop-blur-sm text-stone-900 text-xs px-3 py-1.5 rounded-full font-bold shadow">
-                ★ 4.76（口コミ 244件）
+                ★ 4.13（口コミ 2819件）
               </div>
             </div>
 
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
-                <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">兵庫県豊岡市</span>
+                <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">愛媛県松山市</span>
                 <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  城崎温泉　登録有形文化財の宿　三木屋
+                  道後温泉　茶玻瑠
                 </h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
-                  文豪志賀直哉が名作『城の崎にて』を執筆した歴史宿！三百坪の日本庭園と登録有形文化財の木造建築
+                  道後温泉本館まで徒歩1分！道後初の屋上露天風呂とモダンな和洋ビュッフェが人気のスタイリッシュ宿
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
                 <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  城崎温泉 登録有形文化財の宿 三木屋 —— 創業三百年の歴史が息づく文豪の宿。現代的なリノベーションと外湯への好アクセス
+                  道後温泉 茶玻瑠（ちゃはる） —— 本館至近の抜群ロケーション。屋上露天風呂からの街並み展望と美食ダイニング
                 </h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
                     <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 国登録有形文化財に指定された木造建築と日本庭園の眺望
+                      <span className="text-amber-600">✓</span> 道後の街並みと夜景を見晴らす道後初の「屋上露天風呂」
                     </h5>
-                    <p className="text-stone-600 leading-relaxed">志賀直哉が滞在し、作品の着想を得た歴史ある空間。三百坪の美しい庭園を望む客室やブックラウンジで、文学と歴史のロマンに浸ることができます。</p>
+                    <p className="text-stone-600 leading-relaxed">最上階から道後の風を感じながら入る展望露天風呂。金・土・日には女性露天風呂に生花を浮かべる「バラ風呂」も開催され大人気です。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
                     <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 城崎の温泉街中心に位置し七つの外湯めぐりに絶好の立地
+                      <span className="text-amber-600">✓</span> 道後温泉本館・商店街ハイカラ通りまで徒歩1分の好アクセス
                     </h5>
-                    <p className="text-stone-600 leading-relaxed">温泉街のメインストリートに面し、「御所の湯」や「一の湯」へ浴衣と下駄で気軽にアクセス可能。外湯めぐり用パス「ゆめぱ」で湯巡りを満喫できます。</p>
+                    <p className="text-stone-600 leading-relaxed">本館や飛鳥乃湯泉、お土産屋さんが並ぶ商店街へすぐ出られる抜群の立地。湯上がりのそぞろ歩きや買い物に最適です。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
                     <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 但馬牛ステーキや季節の松葉ガニを味わう本格日本料理
+                      <span className="text-amber-600">✓</span> 愛媛の郷土料理と本格洋食が融合したオープンキッチンディナー
                     </h5>
-                    <p className="text-stone-600 leading-relaxed">地元の契約農家からの新鮮野菜と、但馬牛、日本海の鮮魚を取り入れた料理長こだわりの会席。器の美しさとともに楽しめます。</p>
+                    <p className="text-stone-600 leading-relaxed">シェフが目の前で仕上げる出来立て料理や、名物の鯛めし、伊予牛のグリルなど、バラエティ豊かで上質な美食を楽しめます。</p>
                   </div>
                 </div>
               </div>
@@ -361,25 +361,25 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.73点、口コミ800件超。「建物の歴史とモダンな居心地の良さが共存している」「庭園の美しさと静けさ、お料理の美味しさに感動した」とリピーター多数。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.43点、口コミ2600件超。「本館のすぐ隣で観光にとても便利」「屋上露天風呂が開放的で気持ちよく、お食事も美味しかった」と高い人気。</p>
               </div>
 
               {/* 宿基本情報 */}
               <div className="text-xs text-stone-500 grid sm:grid-cols-2 gap-2 bg-stone-50 p-4 rounded-xl">
-                <div><span className="font-semibold text-stone-700">住所：</span>兵庫県 豊岡市城崎町湯島487</div>
-                <div><span className="font-semibold text-stone-700">宿泊目安：</span>¥28,600〜 /人</div>
-                <div><span className="font-semibold text-stone-700">楽天施設ID：</span>106245</div>
+                <div><span className="font-semibold text-stone-700">住所：</span>愛媛県 松山市道後湯月町4-4</div>
+                <div><span className="font-semibold text-stone-700">宿泊目安：</span>¥7,700〜 /人</div>
+                <div><span className="font-semibold text-stone-700">楽天施設ID：</span>17668</div>
                 <div><span className="font-semibold text-stone-700">予約区分：</span>楽天ふるさと納税トラベルクーポン対象</div>
               </div>
 
               <div className="pt-2">
                 <a
-                  href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D106245"
+                  href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D17668"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block w-full text-center bg-gradient-to-r from-amber-700 to-amber-900 hover:from-amber-800 hover:to-stone-900 text-white font-bold py-3.5 px-6 rounded-xl shadow transition"
                 >
-                  【楽天トラベル】城崎温泉　登録有形文化財の宿　三木屋 の宿泊プランとクーポン適用はこちら →
+                  【楽天トラベル】道後温泉　茶玻瑠 の宿泊プランとクーポン適用はこちら →
                 </a>
               </div>
             </div>
@@ -389,35 +389,35 @@ export default function FurusatoArticlePage() {
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
           <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">
-            <span>🗺️</span> 城崎温泉・七つの外湯めぐり＆玄武洞観光ガイド
+            <span>🗺️</span> 道後温泉街・本館＆飛鳥乃湯泉と松山城観光ガイド
           </h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
               <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
                 <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
-                七つの外湯めぐりと「ゆめぱ」の楽しみ方
+                道後温泉本館と別館「飛鳥乃湯泉（あすかのゆ）」の湯巡り
               </h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
-                「御所の湯（美人の湯）」「一の湯（開運招福）」「鴻の湯（しあわせを招く湯）」など、それぞれ異なる御利益と風情を持つ七つの外湯。宿泊客専用のデジタル外湯券「ゆめぱ」を使えば何度でも無料で湯巡りできます。
+                重厚な木造建築が美しい本館と、飛鳥時代の建築様式を取り入れた飛鳥乃湯泉。伝統工芸と最新アートが融合した特別浴室での入浴や、休憩室でのお茶菓子接待が楽しめます。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
               <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
                 <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
-                城崎ロープウェイとお大師山山頂からの眺望
+                道後ハイカラ通りの散策と「坊っちゃん団子」食べ歩き
               </h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
-                温泉街の奥から大師山山頂へと登るロープウェイ。山頂の「みはらしテラスカフェ」からは城崎の温泉街と日本海を一望でき、ミシュラン・グリーンガイドでも高評価を得ています。
+                本館から道後温泉駅へと続くアーケード商店街。三色の餡が可愛らしい「坊っちゃん団子」や、焼きたての一六タルト、今治タオルショップ巡りが人気です。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
               <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
                 <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
-                天然記念物「玄武洞公園」の六角柱状節理
+                松山城天守閣からの瀬戸内海パノラマビュー
               </h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
-                城崎温泉から車で約10分の場所にある奇勝。160万年前に起こった火山活動で流れ出た溶岩が冷却されてできた見事な六角形の玄武岩の柱状節理は、大自然の神秘を感じさせます。
+                道後温泉から路面電車で約10分。標高132メートルの城山山頂にそびえる現存十二天守の一つ。ロープウェイで登れば、松山市街と瀬戸内海、石鎚山系を一望できます。
               </p>
             </div>
           </div>
@@ -428,7 +428,7 @@ export default function FurusatoArticlePage() {
           <div className="space-y-2">
             <span className="text-xs uppercase tracking-widest text-amber-300 font-semibold">How to Use Coupon</span>
             <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
-              兵庫県豊岡市ふるさと納税×楽天トラベルクーポン活用手順
+              愛媛県松山市ふるさと納税×楽天トラベルクーポン活用手順
             </h2>
             <p className="text-stone-300 text-xs sm:text-sm">
               初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
@@ -439,18 +439,18 @@ export default function FurusatoArticlePage() {
 
             <div className="bg-stone-900/60 p-4 rounded-2xl border border-amber-500/20 space-y-2">
               <span className="inline-block bg-amber-500/20 text-amber-300 font-mono text-xs px-2.5 py-0.5 rounded font-semibold">
-                Step 1: 楽天ふるさと納税で「兵庫県豊岡市」クーポンを獲得
+                Step 1: 楽天ふるさと納税で「愛媛県松山市」クーポンを獲得
               </span>
               <p className="text-stone-300 text-xs sm:text-sm leading-relaxed">
-                楽天ふるさと納税で豊岡市を寄付先に指定し、トラベルクーポンを返礼品として申し込みます。寄付額の30%相当のクーポンがアカウントに付与されます。
+                楽天ふるさと納税で松山市を選び、寄付額の30%相当のトラベルクーポンを返礼品として申し込みます。楽天ポイントも通常通り付与されます。
               </p>
             </div>
             <div className="bg-stone-900/60 p-4 rounded-2xl border border-amber-500/20 space-y-2">
               <span className="inline-block bg-amber-500/20 text-amber-300 font-mono text-xs px-2.5 py-0.5 rounded font-semibold">
-                Step 2: JR特急こうのとり・はまかぜ等で城崎温泉へアクセス
+                Step 2: 松山空港や新幹線・特急しおかぜでの旅行を計画
               </span>
               <p className="text-stone-300 text-xs sm:text-sm leading-relaxed">
-                京都や新大阪からJR特急で約2時間半。クーポンの有効期限は3年間あるため、冬のカニ解禁シーズン（11月〜3月）や新緑の季節に合わせてゆったり計画できます。
+                松山空港からリムジンバスで道後温泉直行約40分。3年間の有効期間内で、気候温暖な春や秋の行楽シーズンに合わせてゆったり計画できます。
               </p>
             </div>
             <div className="bg-stone-900/60 p-4 rounded-2xl border border-amber-500/20 space-y-2">
@@ -458,7 +458,7 @@ export default function FurusatoArticlePage() {
                 Step 3: 楽天トラベル予約画面でクーポン割引を適用して予約完了
               </span>
               <p className="text-stone-300 text-xs sm:text-sm leading-relaxed">
-                西村屋本館、招月庭、三木屋などの対象宿泊プランを選び、決済時にクーポンを選択すれば宿泊代金から大幅な割引が適用されます。
+                ふなや、道後御湯、茶玻瑠などの対象プランを選び、決済時にクーポンを選択すれば宿泊代金から大幅な割引が適用されます。
               </p>
             </div>
           </div>

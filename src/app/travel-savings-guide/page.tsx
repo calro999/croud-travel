@@ -723,6 +723,30 @@ export default function TravelSavingsGuide() {
                   </Link>
                 </li>
               <li>
+                <Link href="/furusato-tax-tsukioka-onsen-emerald-bihada-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【月岡温泉×ふるさと納税】エメラルドグリーン硫黄泉＆極上越後会席！白玉の湯華鳳・白玉の湯泉慶・風鈴屋</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-shima-onsen-retro-sekizenkan-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【四万温泉×ふるさと納税】レトロな重要文化財「元禄の湯」＆四万ブルー！積善館・やまぐち館・四万たむら</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-kaike-onsen-ocean-crab-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【皆生温泉×ふるさと納税】日本海オーシャンビュー＆境港直送松葉ガニ！皆生つるや・華水亭・白扇</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-takeo-onsen-romon-pottery-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【武雄温泉×ふるさと納税】国重文・武雄温泉楼門＆美肌とろとろ湯！京都屋・ホテル春慶屋・なかます旅館</span>
+                </Link>
+              </li>
+              <li>
                 <Link href="/furusato-tax-kusatsu-onsen-yubatake-heritage-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
                   <span className="text-amber-600">▸</span>
                   <span>【草津温泉×ふるさと納税】湯畑徒歩圏内の老舗名宿！望雲・ホテル一井・奈良屋の源泉かけ流し</span>

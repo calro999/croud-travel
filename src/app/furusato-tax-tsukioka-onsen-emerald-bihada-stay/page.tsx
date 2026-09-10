@@ -3,16 +3,16 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '【城崎温泉×ふるさと納税】七つの外湯めぐり＆絶品松葉ガニ！老舗名旅館ガイド｜西村屋本館・招月庭・三木屋',
-  description: '開湯千三百年・柳並木と太鼓橋が美しい兵庫県城崎温泉を楽天ふるさと納税でお得に贅沢旅！創業百六十年の最高峰「西村屋本館」、広大な森林庭園露天風呂を誇る「西村屋ホテル招月庭」、志賀直哉ゆかりの国登録有形文化財「三木屋」を徹底比較。松葉ガニや但馬牛会席、豊岡市トラベルクーポン活用術を網羅。',
-  keywords: '城崎温泉 ふるさと納税,城崎温泉 外湯めぐり ふるさと納税,西村屋本館 クーポン,三木屋 城崎 ふるさと納税,豊岡市 ふるさと納税 旅行',
+  title: '【月岡温泉×ふるさと納税】国内随一のエメラルドグリーン硫黄泉＆極上越後会席！名門宿特集｜白玉の湯華鳳・白玉の湯泉慶・風鈴屋',
+  description: '日本有数の硫黄含有量を誇る美肌の湯・新潟県月岡温泉を楽天ふるさと納税でお得に贅沢ステイ！六千坪の大庭園と展望露天風呂を誇る最高峰「白玉の湯 華鳳」、岩露天風呂とのどぐろ料理が自慢の「白玉の湯 泉慶」、大庭園と地酒バイキングの「風鈴屋」を徹底比較。新発田市トラベルクーポン活用術を網羅。',
+  keywords: '月岡温泉 ふるさと納税,月岡温泉 華鳳 クーポン,白玉の湯 泉慶 ふるさと納税,風鈴屋 月岡温泉 宿泊,新発田市 ふるさと納税 旅行',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-kinosaki-onsen-sotoyu-crab-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-tsukioka-onsen-emerald-bihada-stay',
   },
   openGraph: {
-    title: '【城崎温泉×ふるさと納税】七つの外湯めぐり＆絶品松葉ガニ！老舗名旅館ガイド｜西村屋本館・招月庭・三木屋',
-    description: '開湯千三百年・柳並木と太鼓橋が美しい兵庫県城崎温泉を楽天ふるさと納税でお得に贅沢旅！創業百六十年の最高峰「西村屋本館」、広大な森林庭園露天風呂を誇る「西村屋ホテル招月庭」、志賀直哉ゆかりの国登録有形文化財「三木屋」を徹底比較。松葉ガニや但馬牛会席、豊岡市トラベルクーポン活用術を網羅。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-kinosaki-onsen-sotoyu-crab-stay',
+    title: '【月岡温泉×ふるさと納税】国内随一のエメラルドグリーン硫黄泉＆極上越後会席！名門宿特集｜白玉の湯華鳳・白玉の湯泉慶・風鈴屋',
+    description: '日本有数の硫黄含有量を誇る美肌の湯・新潟県月岡温泉を楽天ふるさと納税でお得に贅沢ステイ！六千坪の大庭園と展望露天風呂を誇る最高峰「白玉の湯 華鳳」、岩露天風呂とのどぐろ料理が自慢の「白玉の湯 泉慶」、大庭園と地酒バイキングの「風鈴屋」を徹底比較。新発田市トラベルクーポン活用術を網羅。',
+    url: 'https://croud-travel.pages.dev/furusato-tax-tsukioka-onsen-emerald-bihada-stay',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -23,8 +23,8 @@ export default function FurusatoArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '【城崎温泉×ふるさと納税】七つの外湯めぐり＆絶品松葉ガニ！老舗名旅館ガイド｜西村屋本館・招月庭・三木屋',
-    description: '開湯千三百年・柳並木と太鼓橋が美しい兵庫県城崎温泉を楽天ふるさと納税でお得に贅沢旅！創業百六十年の最高峰「西村屋本館」、広大な森林庭園露天風呂を誇る「西村屋ホテル招月庭」、志賀直哉ゆかりの国登録有形文化財「三木屋」を徹底比較。松葉ガニや但馬牛会席、豊岡市トラベルクーポン活用術を網羅。',
+    headline: '【月岡温泉×ふるさと納税】国内随一のエメラルドグリーン硫黄泉＆極上越後会席！名門宿特集｜白玉の湯華鳳・白玉の湯泉慶・風鈴屋',
+    description: '日本有数の硫黄含有量を誇る美肌の湯・新潟県月岡温泉を楽天ふるさと納税でお得に贅沢ステイ！六千坪の大庭園と展望露天風呂を誇る最高峰「白玉の湯 華鳳」、岩露天風呂とのどぐろ料理が自慢の「白玉の湯 泉慶」、大庭園と地酒バイキングの「風鈴屋」を徹底比較。新発田市トラベルクーポン活用術を網羅。',
     author: {
       '@type': 'Organization',
       name: 'クラウドトラベル 観光・ふるさと納税調査班',
@@ -38,9 +38,9 @@ export default function FurusatoArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: '2026-09-10T16:45:00+09:00',
-    dateModified: '2026-09-10T16:45:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-kinosaki-onsen-sotoyu-crab-stay',
+    datePublished: '2026-09-10T16:48:00+09:00',
+    dateModified: '2026-09-10T16:48:00+09:00',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-tsukioka-onsen-emerald-bihada-stay',
   };
 
   return (
@@ -56,20 +56,20 @@ export default function FurusatoArticlePage() {
         <span>/</span>
         <Link href="/travel-savings-guide" className="hover:underline">ふるさと納税旅行ガイド</Link>
         <span>/</span>
-        <span className="text-stone-700 font-medium truncate">【城崎温泉×ふるさと納税】七つの外湯めぐり＆絶品松葉ガニ！老舗名旅館ガイド｜西村屋本館・招月庭・三木屋</span>
+        <span className="text-stone-700 font-medium truncate">【月岡温泉×ふるさと納税】国内随一のエメラルドグリーン硫黄泉＆極上越後会席！名門宿特集｜白玉の湯華鳳・白玉の湯泉慶・風鈴屋</span>
       </nav>
 
       {/* ヒーローセクション */}
       <header className="max-w-4xl mx-auto px-4 sm:px-6 py-8 sm:py-12 space-y-4">
         <div className="inline-flex items-center gap-2 bg-amber-100/80 text-amber-900 text-xs font-semibold px-3 py-1 rounded-full border border-amber-200">
           <span>♨️</span>
-          <span>兵庫県豊岡市 ふるさと納税・名湯宿特集</span>
+          <span>新潟県新発田市 ふるさと納税・名湯宿特集</span>
         </div>
         <h1 className="text-2xl sm:text-4xl font-extrabold font-serif text-stone-900 tracking-tight leading-snug">
-          【城崎温泉×ふるさと納税】七つの外湯めぐり＆絶品松葉ガニ！老舗名旅館ガイド｜西村屋本館・招月庭・三木屋
+          【月岡温泉×ふるさと納税】国内随一のエメラルドグリーン硫黄泉＆極上越後会席！名門宿特集｜白玉の湯華鳳・白玉の湯泉慶・風鈴屋
         </h1>
         <p className="text-stone-600 text-sm sm:text-base leading-relaxed">
-          開湯千三百年・柳並木と太鼓橋が美しい兵庫県城崎温泉を楽天ふるさと納税でお得に贅沢旅！創業百六十年の最高峰「西村屋本館」、広大な森林庭園露天風呂を誇る「西村屋ホテル招月庭」、志賀直哉ゆかりの国登録有形文化財「三木屋」を徹底比較。松葉ガニや但馬牛会席、豊岡市トラベルクーポン活用術を網羅。
+          日本有数の硫黄含有量を誇る美肌の湯・新潟県月岡温泉を楽天ふるさと納税でお得に贅沢ステイ！六千坪の大庭園と展望露天風呂を誇る最高峰「白玉の湯 華鳳」、岩露天風呂とのどぐろ料理が自慢の「白玉の湯 泉慶」、大庭園と地酒バイキングの「風鈴屋」を徹底比較。新発田市トラベルクーポン活用術を網羅。
         </p>
       </header>
 
@@ -77,13 +77,13 @@ export default function FurusatoArticlePage() {
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
           <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">
-            浴衣に下駄でカランコロン——柳揺れる大谿川と七つの外湯、冬の味覚の王様・松葉ガニに酔いしれる
+            エメラルドグリーンに輝く奇跡の白玉の湯——国内屈指の濃厚な硫黄泉と米どころ越後の美食に酔いしれる
           </h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
-            兵庫県豊岡市城崎町、日本海へと注ぐ大谿川（おおたにがわ）沿いに広がる城崎（きのさき）温泉。奈良時代の開湯以来千三百年の歴史を誇り、「駅は玄関、道路は廊下、旅館は客室、外湯は大浴場」という共生の理念のもと、温泉街全体が一つの大きな宿として旅人を温かく迎え入れます。柳並木と太鼓橋が織りなす情緒あふれる景観の中、色とりどりの浴衣に下駄を鳴らして「一の湯」「御所の湯」「鴻の湯」など趣の異なる七つの外湯をめぐる時間は、まさに日本の温泉旅の原点です。
+            新潟県新発田市に位置する月岡温泉は、大正時代に石油採掘中に湧出したと伝えられる全国的にも珍しい名湯です。月岡温泉の最大の特徴は、美しいエメラルドグリーンに輝く弱アルカリ性の含硫黄ナトリウム塩化物温泉。硫黄含有量は全国第2位を誇り、入浴した瞬間に肌がツルツルになることから「もっと美人になれる温泉」「不老長寿の湯」として絶大な人気を集めています。湯上がり後も体が芯からポカポカと温まり、しっとりとした潤いが長く続きます。
           </p>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
-            城崎温泉の冬の主役といえば、日本海で水揚げされる冬の味覚の王様「松葉ガニ（ズワイガニ）」です。タグ付きの活松葉ガニを贅沢に使った焼きガニ、カニ刺し、カニ鍋、甲羅味噌焼き、そして幻の高級和牛「但馬牛」のステーキやしゃぶしゃぶとの饗宴は至福の極み。兵庫県豊岡市へのふるさと納税を利用すれば、30%相当の楽天トラベルクーポンにより憧れの最高峰老舗旅館へお得に宿泊でき、一生の思い出に残る美食と温泉の旅が叶います。
+            温泉と並び月岡旅行の大きな魅力が、日本一の米どころ越後ならではの美食と地酒です。日本海で水揚げされる高級魚「のどぐろ」の塩焼き、新潟の銘柄牛「にいがた和牛」、炊き立ての南魚沼産・岩船産コシヒカリ、そして新潟が世界に誇る銘酒の数々。新潟県新発田市へのふるさと納税を利用すれば、30%相当の楽天トラベルクーポンにより全国トップクラスの評価を誇る高級旅館へお得に宿泊でき、心身ともに満たされる最高の贅沢旅が叶います。
           </p>
         </section>
 
@@ -105,22 +105,22 @@ export default function FurusatoArticlePage() {
               <tbody className="divide-y divide-stone-100">
                 
                 <tr>
-                  <td className="p-3 font-bold text-amber-900">城崎温泉　西村屋本館</td>
-                  <td className="p-3 font-bold">★ 5</td>
-                  <td className="p-3 text-stone-600">創業百六十年の歴史を誇る城崎最高峰の格式！伝統の数寄屋建築と名庭園、タグ付き松葉ガニ懐石</td>
-                  <td className="p-3 text-stone-600">歴史と品格の最高峰ステイ</td>
+                  <td className="p-3 font-bold text-amber-900">月岡温泉　白玉の湯　華鳳</td>
+                  <td className="p-3 font-bold">★ 4.75</td>
+                  <td className="p-3 text-stone-600">プロが選ぶ日本のホテル旅館100選で全国総合第3位！六千坪の広大な日本庭園とエメラルドグリーンの大露天風呂</td>
+                  <td className="p-3 text-stone-600">最高峰の歴史・名庭園ステイ</td>
                 </tr>
                 <tr>
-                  <td className="p-3 font-bold text-amber-900">城崎温泉　西村屋ホテル招月庭</td>
-                  <td className="p-3 font-bold">★ 4.71</td>
-                  <td className="p-3 text-stone-600">五万坪の広大な森林庭園に抱かれる極上リゾート！大自然のジャグジー露天風呂と多彩な蟹プラン</td>
-                  <td className="p-3 text-stone-600">大人の洗練・絶景プライベート</td>
+                  <td className="p-3 font-bold text-amber-900">月岡温泉　白玉の湯　泉慶</td>
+                  <td className="p-3 font-bold">★ 4.73</td>
+                  <td className="p-3 text-stone-600">白玉の湯グループの原点にして姉妹館！大岩を配した野趣あふれる露天風呂と真心のこもったもてなし</td>
+                  <td className="p-3 text-stone-600">絶景の眺望・美食の饗宴</td>
                 </tr>
                 <tr>
-                  <td className="p-3 font-bold text-amber-900">城崎温泉　登録有形文化財の宿　三木屋</td>
-                  <td className="p-3 font-bold">★ 4.76</td>
-                  <td className="p-3 text-stone-600">文豪志賀直哉が名作『城の崎にて』を執筆した歴史宿！三百坪の日本庭園と登録有形文化財の木造建築</td>
-                  <td className="p-3 text-stone-600">温泉街散策・快適アクティブ旅</td>
+                  <td className="p-3 font-bold text-amber-900">月岡温泉　風鈴屋（ホテルエリアワングループ）</td>
+                  <td className="p-3 font-bold">★ 3.85</td>
+                  <td className="p-3 text-stone-600">四季の彩りを感じる日本庭園と露天風呂！越後の美酒と旬菜バイキング・会席が人気の和モダンホテル</td>
+                  <td className="p-3 text-stone-600">アットホーム・快適な温泉街散歩</td>
                 </tr>
               </tbody>
             </table>
@@ -137,8 +137,8 @@ export default function FurusatoArticlePage() {
           <article className="bg-white rounded-3xl overflow-hidden shadow-sm border border-stone-200/80 transition hover:shadow-md">
             <div className="relative aspect-video sm:aspect-[16/9] w-full overflow-hidden bg-stone-100">
               <img
-                src="https://img.travel.rakuten.co.jp/share/HOTEL/75399/75399.jpg"
-                alt="城崎温泉　西村屋本館"
+                src="https://img.travel.rakuten.co.jp/share/HOTEL/32388/32388.jpg"
+                alt="月岡温泉　白玉の湯　華鳳"
                 className="w-full h-full object-cover"
                 loading="lazy"
               />
@@ -146,44 +146,44 @@ export default function FurusatoArticlePage() {
                 第1選
               </div>
               <div className="absolute bottom-4 right-4 bg-white/90 backdrop-blur-sm text-stone-900 text-xs px-3 py-1.5 rounded-full font-bold shadow">
-                ★ 5（口コミ 338件）
+                ★ 4.75（口コミ 1647件）
               </div>
             </div>
 
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
-                <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">兵庫県豊岡市</span>
+                <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">新潟県新発田市</span>
                 <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  城崎温泉　西村屋本館
+                  月岡温泉　白玉の湯　華鳳
                 </h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
-                  創業百六十年の歴史を誇る城崎最高峰の格式！伝統の数寄屋建築と名庭園、タグ付き松葉ガニ懐石
+                  プロが選ぶ日本のホテル旅館100選で全国総合第3位！六千坪の広大な日本庭園とエメラルドグリーンの大露天風呂
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
                 <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  城崎温泉 西村屋本館 —— 日本旅館の美意識を極める名門。美しい平庭を望む客室と至高のおもてなし
+                  月岡温泉 白玉の湯 華鳳（かほう） —— 全国屈指の最高峰名門旅館。小高い丘から越後平野を見晴らす贅沢空間
                 </h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
                     <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 登録有形文化財の数寄屋造りと四季を映す日本庭園
+                      <span className="text-amber-600">✓</span> 小高い丘から越後平野の田園風景を一望する回遊式大庭園露天風呂
                     </h5>
-                    <p className="text-stone-600 leading-relaxed">伝統的な日本の木造建築美を受け継ぐ本館。手入れの行き届いた日本庭園を囲むように回廊が巡り、静寂と気品に満ちた特別な時間が流れます。</p>
+                    <p className="text-stone-600 leading-relaxed">木造回廊が美しい広大な露天風呂。敷地内から自噴する自家源泉「白玉の湯」のエメラルドグリーンのお湯に浸かりながら、開放感あふれる絶景を満喫できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
                     <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 吉野檜香る「檜扇の湯」や中国の古瓦を配した「吉の湯」
+                      <span className="text-amber-600">✓</span> 六千坪の広大な日本庭園と美術品が飾られた美術館のような館内
                     </h5>
-                    <p className="text-stone-600 leading-relaxed">檜の温もりが心地よい大浴場と野趣あふれる露天風呂。城崎の名湯に身を浸しながら、贅沢なプライベートの湯浴みを満喫できます。</p>
+                    <p className="text-stone-600 leading-relaxed">手入れの行き届いた池泉回遊式庭園の散策や、ラウンジでのフリードリンクサービス、温水プールなど、最高級リゾートにふさわしい充実の設備が整っています。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
                     <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 厳選された津居山港・柴山港水揚げの活松葉ガニ懐石
+                      <span className="text-amber-600">✓</span> 日本海の高級魚「のどぐろ」や村上牛を味わう至高の越後会席
                     </h5>
-                    <p className="text-stone-600 leading-relaxed">日本海屈指のブランド蟹を熟練の料理人が腕を振るって仕立てる至極の蟹会席。お部屋食で一品一品出来立ての最高峰の味を堪能できます。</p>
+                    <p className="text-stone-600 leading-relaxed">料理人が腕によりをかけて仕立てる月替わりの本格日本料理。脂の乗ったのどぐろやA5ランク新潟和牛、地元新発田の旬野菜を贅沢に堪能できます。</p>
                   </div>
                 </div>
               </div>
@@ -193,25 +193,25 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.77点という圧倒的な名門スコア。「庭園の眺め、建物、接客、そしてカニ料理のすべてが人生最高峰の体験」「一度は泊まるべき日本の宝」と絶賛されています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.77点という圧倒的な最高峰スコア。「お風呂のお湯が本当にエメラルドグリーンで肌がつるつるになった」「スタッフの接客もお料理も建物もすべてが一流で感動」と絶賛されています。</p>
               </div>
 
               {/* 宿基本情報 */}
               <div className="text-xs text-stone-500 grid sm:grid-cols-2 gap-2 bg-stone-50 p-4 rounded-xl">
-                <div><span className="font-semibold text-stone-700">住所：</span>兵庫県 豊岡市城崎町湯島469</div>
-                <div><span className="font-semibold text-stone-700">宿泊目安：</span>要問い合わせ /人</div>
-                <div><span className="font-semibold text-stone-700">楽天施設ID：</span>75399</div>
+                <div><span className="font-semibold text-stone-700">住所：</span>新潟県 新発田市月岡温泉134</div>
+                <div><span className="font-semibold text-stone-700">宿泊目安：</span>¥23,100〜 /人</div>
+                <div><span className="font-semibold text-stone-700">楽天施設ID：</span>32388</div>
                 <div><span className="font-semibold text-stone-700">予約区分：</span>楽天ふるさと納税トラベルクーポン対象</div>
               </div>
 
               <div className="pt-2">
                 <a
-                  href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D75399"
+                  href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D32388"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block w-full text-center bg-gradient-to-r from-amber-700 to-amber-900 hover:from-amber-800 hover:to-stone-900 text-white font-bold py-3.5 px-6 rounded-xl shadow transition"
                 >
-                  【楽天トラベル】城崎温泉　西村屋本館 の宿泊プランとクーポン適用はこちら →
+                  【楽天トラベル】月岡温泉　白玉の湯　華鳳 の宿泊プランとクーポン適用はこちら →
                 </a>
               </div>
             </div>
@@ -221,8 +221,8 @@ export default function FurusatoArticlePage() {
           <article className="bg-white rounded-3xl overflow-hidden shadow-sm border border-stone-200/80 transition hover:shadow-md">
             <div className="relative aspect-video sm:aspect-[16/9] w-full overflow-hidden bg-stone-100">
               <img
-                src="https://img.travel.rakuten.co.jp/share/HOTEL/14007/14007.jpg"
-                alt="城崎温泉　西村屋ホテル招月庭"
+                src="https://img.travel.rakuten.co.jp/share/HOTEL/29709/29709.jpg"
+                alt="月岡温泉　白玉の湯　泉慶"
                 className="w-full h-full object-cover"
                 loading="lazy"
               />
@@ -230,44 +230,44 @@ export default function FurusatoArticlePage() {
                 第2選
               </div>
               <div className="absolute bottom-4 right-4 bg-white/90 backdrop-blur-sm text-stone-900 text-xs px-3 py-1.5 rounded-full font-bold shadow">
-                ★ 4.71（口コミ 1175件）
+                ★ 4.73（口コミ 1813件）
               </div>
             </div>
 
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
-                <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">兵庫県豊岡市</span>
+                <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">新潟県新発田市</span>
                 <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  城崎温泉　西村屋ホテル招月庭
+                  月岡温泉　白玉の湯　泉慶
                 </h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
-                  五万坪の広大な森林庭園に抱かれる極上リゾート！大自然のジャグジー露天風呂と多彩な蟹プラン
+                  白玉の湯グループの原点にして姉妹館！大岩を配した野趣あふれる露天風呂と真心のこもったもてなし
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
                 <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  城崎温泉 西村屋ホテル招月庭 —— 西村屋の伝統と現代リゾートの融合。癒やしのスパと贅沢なダイニング
+                  月岡温泉 白玉の湯 泉慶（せんけい） —— 華鳳の伝統を受け継ぐ名館。美肌の自家源泉と美食割烹の饗宴
                 </h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
                     <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 豊かな緑に包まれる広大な大浴場「月下の湯」と露天風呂
+                      <span className="text-amber-600">✓</span> 巨岩と檜の湯船が並ぶ大浴場「月鏡」と「花鏡」の自家源泉露天
                     </h5>
-                    <p className="text-stone-600 leading-relaxed">森林の心地よい風が吹き抜ける露天風呂やジャグジー、ミストサウナを完備。自然と調和した開放感あふれる空間でリフレッシュできます。</p>
+                    <p className="text-stone-600 leading-relaxed">華鳳と同じく自家源泉「白玉の湯」を引く贅沢な大浴場。濃厚な硫黄の香りと絹のような肌触りの湯に浸かり、日頃の疲れを解きほぐせます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
                     <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 完全貸切で楽しめる森のプライベートスパ「かがり火の湯」
+                      <span className="text-amber-600">✓</span> 館内随所に飾られた越後の伝統工芸と温かみあふれる和の風情
                     </h5>
-                    <p className="text-stone-600 leading-relaxed">岩盤浴や専用ラウンジを備えたラグジュアリーな貸切風呂。カップルやご夫婦で誰にも邪魔されない贅沢な時間を過ごせます。</p>
+                    <p className="text-stone-600 leading-relaxed">広々としたロビーラウンジやアトリウム。スタッフの親しみやすく細やかな接客が、訪れる旅人に心地よい安心感を与えてくれます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
                     <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 但馬牛と松葉ガニを贅沢に味わう季節の会席ディナー
+                      <span className="text-amber-600">✓</span> お食事処や個室料亭でいただく新潟の山海の幸会席
                     </h5>
-                    <p className="text-stone-600 leading-relaxed">伝統の味を受け継ぎながら、オープンキッチンの要素や彩り豊かな盛り付けを取り入れた大満足のディナー。豊富な地酒やワインとともに味わえます。</p>
+                    <p className="text-stone-600 leading-relaxed">日本海の新鮮な刺身盛り合わせや旬の煮物、コシヒカリの釜飯など、新潟の食の豊かさを存分に実感できる充実のコース料理です。</p>
                   </div>
                 </div>
               </div>
@@ -277,25 +277,25 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.66点、口コミ2100件超。「森林に囲まれたお風呂が最高に気持ちよく、お料理も大満足」「スタッフの親切な対応と清潔感のある館内が素晴らしい」と高い評価を獲得しています。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.65点、口コミ2500件超。「お湯が素晴らしく肌がしっとりすべすべになった」「お料理の品数と味が素晴らしく、また必ず泊まりたい」と高いリピート率。</p>
               </div>
 
               {/* 宿基本情報 */}
               <div className="text-xs text-stone-500 grid sm:grid-cols-2 gap-2 bg-stone-50 p-4 rounded-xl">
-                <div><span className="font-semibold text-stone-700">住所：</span>兵庫県 豊岡市城崎町湯島1016-2</div>
-                <div><span className="font-semibold text-stone-700">宿泊目安：</span>¥35,200〜 /人</div>
-                <div><span className="font-semibold text-stone-700">楽天施設ID：</span>14007</div>
+                <div><span className="font-semibold text-stone-700">住所：</span>新潟県 新発田市月岡温泉453番地</div>
+                <div><span className="font-semibold text-stone-700">宿泊目安：</span>¥17,600〜 /人</div>
+                <div><span className="font-semibold text-stone-700">楽天施設ID：</span>29709</div>
                 <div><span className="font-semibold text-stone-700">予約区分：</span>楽天ふるさと納税トラベルクーポン対象</div>
               </div>
 
               <div className="pt-2">
                 <a
-                  href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D14007"
+                  href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D29709"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block w-full text-center bg-gradient-to-r from-amber-700 to-amber-900 hover:from-amber-800 hover:to-stone-900 text-white font-bold py-3.5 px-6 rounded-xl shadow transition"
                 >
-                  【楽天トラベル】城崎温泉　西村屋ホテル招月庭 の宿泊プランとクーポン適用はこちら →
+                  【楽天トラベル】月岡温泉　白玉の湯　泉慶 の宿泊プランとクーポン適用はこちら →
                 </a>
               </div>
             </div>
@@ -305,8 +305,8 @@ export default function FurusatoArticlePage() {
           <article className="bg-white rounded-3xl overflow-hidden shadow-sm border border-stone-200/80 transition hover:shadow-md">
             <div className="relative aspect-video sm:aspect-[16/9] w-full overflow-hidden bg-stone-100">
               <img
-                src="https://img.travel.rakuten.co.jp/share/HOTEL/106245/106245.jpg"
-                alt="城崎温泉　登録有形文化財の宿　三木屋"
+                src="https://img.travel.rakuten.co.jp/share/HOTEL/54967/54967.jpg"
+                alt="月岡温泉　風鈴屋（ホテルエリアワングループ）"
                 className="w-full h-full object-cover"
                 loading="lazy"
               />
@@ -314,44 +314,44 @@ export default function FurusatoArticlePage() {
                 第3選
               </div>
               <div className="absolute bottom-4 right-4 bg-white/90 backdrop-blur-sm text-stone-900 text-xs px-3 py-1.5 rounded-full font-bold shadow">
-                ★ 4.76（口コミ 244件）
+                ★ 3.85（口コミ 692件）
               </div>
             </div>
 
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
-                <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">兵庫県豊岡市</span>
+                <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">新潟県新発田市</span>
                 <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  城崎温泉　登録有形文化財の宿　三木屋
+                  月岡温泉　風鈴屋（ホテルエリアワングループ）
                 </h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
-                  文豪志賀直哉が名作『城の崎にて』を執筆した歴史宿！三百坪の日本庭園と登録有形文化財の木造建築
+                  四季の彩りを感じる日本庭園と露天風呂！越後の美酒と旬菜バイキング・会席が人気の和モダンホテル
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
                 <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  城崎温泉 登録有形文化財の宿 三木屋 —— 創業三百年の歴史が息づく文豪の宿。現代的なリノベーションと外湯への好アクセス
+                  月岡温泉 風鈴屋 —— 庭園を望むやすらぎの宿。良質な月岡の湯とアットホームな滞在
                 </h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
                     <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 国登録有形文化財に指定された木造建築と日本庭園の眺望
+                      <span className="text-amber-600">✓</span> 豊かな緑と風情ある岩組みが調和する庭園露天風呂
                     </h5>
-                    <p className="text-stone-600 leading-relaxed">志賀直哉が滞在し、作品の着想を得た歴史ある空間。三百坪の美しい庭園を望む客室やブックラウンジで、文学と歴史のロマンに浸ることができます。</p>
+                    <p className="text-stone-600 leading-relaxed">月岡の名湯に身を浸しながら、そよぐ木々の葉音と温泉の心地よい温もりを堪能。手足を伸ばしてゆったりと寛げます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
                     <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 城崎の温泉街中心に位置し七つの外湯めぐりに絶好の立地
+                      <span className="text-amber-600">✓</span> 新潟名物と季節の旬菜をカジュアルに楽しむお食事スタイル
                     </h5>
-                    <p className="text-stone-600 leading-relaxed">温泉街のメインストリートに面し、「御所の湯」や「一の湯」へ浴衣と下駄で気軽にアクセス可能。外湯めぐり用パス「ゆめぱ」で湯巡りを満喫できます。</p>
+                    <p className="text-stone-600 leading-relaxed">越後の郷土料理や地元の新鮮食材をふんだんに取り入れた料理。ファミリーやグループでも気兼ねなく美味しい食事を満喫できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
                     <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 但馬牛ステーキや季節の松葉ガニを味わう本格日本料理
+                      <span className="text-amber-600">✓</span> 温泉街の散策に便利な立地と落ち着いた和の客室
                     </h5>
-                    <p className="text-stone-600 leading-relaxed">地元の契約農家からの新鮮野菜と、但馬牛、日本海の鮮魚を取り入れた料理長こだわりの会席。器の美しさとともに楽しめます。</p>
+                    <p className="text-stone-600 leading-relaxed">月岡温泉街のメインストリートにも近く、足湯「湯足美」や地酒の試飲処「蔵」への散策拠点として抜群のロケーションです。</p>
                   </div>
                 </div>
               </div>
@@ -361,25 +361,25 @@ export default function FurusatoArticlePage() {
                 <span className="font-bold text-amber-900 flex items-center gap-1.5">
                   <span>💬</span> 実際の宿泊者からの評価・口コミ
                 </span>
-                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.73点、口コミ800件超。「建物の歴史とモダンな居心地の良さが共存している」「庭園の美しさと静けさ、お料理の美味しさに感動した」とリピーター多数。</p>
+                <p className="text-stone-700 leading-relaxed">楽天トラベル評価4.11点、口コミ1200件超。「露天風呂のお湯が本格的でとても気持ちよかった」「コスパが良く温泉街の散策にも便利だった」と好評です。</p>
               </div>
 
               {/* 宿基本情報 */}
               <div className="text-xs text-stone-500 grid sm:grid-cols-2 gap-2 bg-stone-50 p-4 rounded-xl">
-                <div><span className="font-semibold text-stone-700">住所：</span>兵庫県 豊岡市城崎町湯島487</div>
-                <div><span className="font-semibold text-stone-700">宿泊目安：</span>¥28,600〜 /人</div>
-                <div><span className="font-semibold text-stone-700">楽天施設ID：</span>106245</div>
+                <div><span className="font-semibold text-stone-700">住所：</span>新潟県 新発田市月岡温泉130</div>
+                <div><span className="font-semibold text-stone-700">宿泊目安：</span>¥6,500〜 /人</div>
+                <div><span className="font-semibold text-stone-700">楽天施設ID：</span>54967</div>
                 <div><span className="font-semibold text-stone-700">予約区分：</span>楽天ふるさと納税トラベルクーポン対象</div>
               </div>
 
               <div className="pt-2">
                 <a
-                  href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D106245"
+                  href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D54967"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block w-full text-center bg-gradient-to-r from-amber-700 to-amber-900 hover:from-amber-800 hover:to-stone-900 text-white font-bold py-3.5 px-6 rounded-xl shadow transition"
                 >
-                  【楽天トラベル】城崎温泉　登録有形文化財の宿　三木屋 の宿泊プランとクーポン適用はこちら →
+                  【楽天トラベル】月岡温泉　風鈴屋（ホテルエリアワングループ） の宿泊プランとクーポン適用はこちら →
                 </a>
               </div>
             </div>
@@ -389,35 +389,35 @@ export default function FurusatoArticlePage() {
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
           <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">
-            <span>🗺️</span> 城崎温泉・七つの外湯めぐり＆玄武洞観光ガイド
+            <span>🗺️</span> 月岡温泉街・歩いて楽しむ温泉街めぐりガイド
           </h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
               <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
                 <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
-                七つの外湯めぐりと「ゆめぱ」の楽しみ方
+                新潟全蔵元の地酒を試飲できる「蔵（KURA）」
               </h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
-                「御所の湯（美人の湯）」「一の湯（開運招福）」「鴻の湯（しあわせを招く湯）」など、それぞれ異なる御利益と風情を持つ七つの外湯。宿泊客専用のデジタル外湯券「ゆめぱ」を使えば何度でも無料で湯巡りできます。
+                月岡温泉街にある人気スポット。新潟県内にある全酒蔵のプレミアムな銘酒が揃い、お猪口片手にコイン式で多彩な日本酒の飲み比べ体験が楽しめます。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
               <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
                 <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
-                城崎ロープウェイとお大師山山頂からの眺望
+                あしゆ「湯足美（ゆたび）」と演舞場
               </h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
-                温泉街の奥から大師山山頂へと登るロープウェイ。山頂の「みはらしテラスカフェ」からは城崎の温泉街と日本海を一望でき、ミシュラン・グリーンガイドでも高評価を得ています。
+                温泉街の中心にある無料の足湯施設。手湯や足湯を楽しみながら、夜にはライトアップされた和傘のオブジェやイベント演舞を鑑賞できます。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
               <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
                 <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
-                天然記念物「玄武洞公園」の六角柱状節理
+                新潟米を使った手焼きせんべい体験「田（DEN）」
               </h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
-                城崎温泉から車で約10分の場所にある奇勝。160万年前に起こった火山活動で流れ出た溶岩が冷却されてできた見事な六角形の玄武岩の柱状節理は、大自然の神秘を感じさせます。
+                新潟名物の特大せんべいを自分で炭火で焼き、醤油や七味で味付けして絵を描ける体験処。旅の記念やお土産にぴったりです。
               </p>
             </div>
           </div>
@@ -428,7 +428,7 @@ export default function FurusatoArticlePage() {
           <div className="space-y-2">
             <span className="text-xs uppercase tracking-widest text-amber-300 font-semibold">How to Use Coupon</span>
             <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
-              兵庫県豊岡市ふるさと納税×楽天トラベルクーポン活用手順
+              新潟県新発田市ふるさと納税×楽天トラベルクーポン活用手順
             </h2>
             <p className="text-stone-300 text-xs sm:text-sm">
               初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
@@ -439,18 +439,18 @@ export default function FurusatoArticlePage() {
 
             <div className="bg-stone-900/60 p-4 rounded-2xl border border-amber-500/20 space-y-2">
               <span className="inline-block bg-amber-500/20 text-amber-300 font-mono text-xs px-2.5 py-0.5 rounded font-semibold">
-                Step 1: 楽天ふるさと納税で「兵庫県豊岡市」クーポンを獲得
+                Step 1: 楽天ふるさと納税で「新潟県新発田市」クーポンを獲得
               </span>
               <p className="text-stone-300 text-xs sm:text-sm leading-relaxed">
-                楽天ふるさと納税で豊岡市を寄付先に指定し、トラベルクーポンを返礼品として申し込みます。寄付額の30%相当のクーポンがアカウントに付与されます。
+                楽天ふるさと納税で新発田市を選び、寄付額の30%相当となるトラベルクーポンを返礼品として申し込みます。楽天ポイントの還元も通常通り受けられます。
               </p>
             </div>
             <div className="bg-stone-900/60 p-4 rounded-2xl border border-amber-500/20 space-y-2">
               <span className="inline-block bg-amber-500/20 text-amber-300 font-mono text-xs px-2.5 py-0.5 rounded font-semibold">
-                Step 2: JR特急こうのとり・はまかぜ等で城崎温泉へアクセス
+                Step 2: 上越新幹線・特急いなほや新潟駅直行バスで快適アクセス
               </span>
               <p className="text-stone-300 text-xs sm:text-sm leading-relaxed">
-                京都や新大阪からJR特急で約2時間半。クーポンの有効期限は3年間あるため、冬のカニ解禁シーズン（11月〜3月）や新緑の季節に合わせてゆったり計画できます。
+                東京駅から上越新幹線で新潟駅まで約2時間、新潟駅から月岡温泉直行バスで約45分。3年間の有効期間内で、冬の雪見風呂や秋の味覚シーズンに合わせて計画できます。
               </p>
             </div>
             <div className="bg-stone-900/60 p-4 rounded-2xl border border-amber-500/20 space-y-2">
@@ -458,7 +458,7 @@ export default function FurusatoArticlePage() {
                 Step 3: 楽天トラベル予約画面でクーポン割引を適用して予約完了
               </span>
               <p className="text-stone-300 text-xs sm:text-sm leading-relaxed">
-                西村屋本館、招月庭、三木屋などの対象宿泊プランを選び、決済時にクーポンを選択すれば宿泊代金から大幅な割引が適用されます。
+                華鳳、泉慶、風鈴屋などの対象プランを選び、決済時にクーポンを選択すれば宿泊代金から大幅な割引が適用されます。
               </p>
             </div>
           </div>
