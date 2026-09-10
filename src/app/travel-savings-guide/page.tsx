@@ -723,6 +723,30 @@ export default function TravelSavingsGuide() {
                   </Link>
                 </li>
               <li>
+                <Link href="/furusato-tax-kinosaki-onsen-sotoyu-crab-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【城崎温泉×ふるさと納税】七田外湯めぐり＆絶品松葉ガニ・但馬牛！西村屋本館・三木屋・川口屋リバーサイド</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-dogo-onsen-historic-bath-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【道後温泉×ふるさと納税】日本最古の湯・道後温泉本館と文学アートの街！ふなや・大和屋本店・茶玻瑠</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-unzen-onsen-jigoku-sulfur-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【雲仙温泉×ふるさと納税】雲仙地獄の湯煙と濃厚白濁硫黄泉！雲仙宮崎旅館・雲仙観光ホテル・福田屋</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-ito-onsen-seafood-historic-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【伊東温泉×ふるさと納税】相模湾の極上金目鯛＆東海館の風情！青山やまと・ホテルラヴィエ川良・淘心庵米屋</span>
+                </Link>
+              </li>
+              <li>
                 <Link href="/furusato-tax-gero-onsen-bihada-luxury-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
                   <span className="text-amber-600">▸</span>
                   <span>【日本三名泉・下呂温泉×美肌の湯名宿】水明館・望川館・湯之島館で味わう飛騨牛＆至高の湯治ステイ</span>
