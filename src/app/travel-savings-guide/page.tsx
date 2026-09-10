@@ -723,6 +723,30 @@ export default function TravelSavingsGuide() {
                   </Link>
                 </li>
               <li>
+                <Link href="/furusato-tax-hakone-sengokuhara-pampas-luxury-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【箱根仙石原温泉×ふるさと納税】黄金すすき草原＆大涌谷美肌にごり湯！きたの風茶寮・仙郷楼・BLISSTIA</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-ikaho-stone-steps-retro-luxury-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【伊香保温泉×ふるさと納税】365段の石段街と黄金の湯＆白銀の湯！福一・ホテル木暮・岸権旅館</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-yufuin-kinrinko-luxury-villa-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【由布院温泉×ふるさと納税】金鱗湖の朝霧＆由布岳絶景！旅亭田乃倉・ゆふいん花由・月燈庵</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-akiu-onsen-sendai-retreat-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【秋保温泉×ふるさと納税】名取川渓谷美＆伊達政宗公の名湯！佐勘・緑水亭・ホテルニュー水戸屋</span>
+                </Link>
+              </li>
+              <li>
                 <Link href="/furusato-tax-hakone-gora-onsen-art-luxury-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
                   <span className="text-amber-600">▸</span>
                   <span>【箱根強羅温泉×ふるさと納税】美肌のにごり湯＆全室客室露天！白檀・季の湯雪月花・桐谷箱根荘</span>
