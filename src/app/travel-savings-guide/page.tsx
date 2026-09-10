@@ -723,6 +723,30 @@ export default function TravelSavingsGuide() {
                   </Link>
                 </li>
               <li>
+                <Link href="/furusato-tax-kusatsu-onsen-yubatake-heritage-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【草津温泉×ふるさと納税】湯畑徒歩圏内の老舗名宿！望雲・ホテル一井・奈良屋の源泉かけ流し</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-arima-onsen-gold-silver-kobe-beef-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【有馬温泉×ふるさと納税】金泉・銀泉のダブル名湯＆極上神戸牛！兵衛向陽閣・欽山・中の坊瑞苑</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-yufuin-onsen-hanare-private-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【由布院温泉×ふるさと納税】全室離れ・客室露天の大人リゾート！梅園・なな川・由布院別邸樹</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-ikaho-onsen-ishidan-golden-bath-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【伊香保温泉×ふるさと納税】石段街の風情＆黄金の湯・白銀の湯！福一・森秋旅館・千明仁泉亭</span>
+                </Link>
+              </li>
+              <li>
                 <Link href="/furusato-tax-gora-onsen-private-roten-luxury-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
                   <span className="text-amber-600">▸</span>
                   <span>【箱根・強羅温泉×ふるさと納税】全室客室露天風呂付き極上宿！佳ら久・白檀・雪月花おこもりステイ</span>
