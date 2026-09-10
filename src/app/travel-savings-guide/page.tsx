@@ -97,7 +97,7 @@ export default function TravelSavingsGuide() {
             <li><Link href="/furusato-tax-travel-beginners-complete-guide" className="text-amber-700 font-bold hover:underline transition flex items-center gap-1">👉 【完全初心者向け】確定申告不要・スマホ申請・失敗しない使い方はこちら</Link></li>
             <li><a href="#howto" className="hover:text-amber-700 transition">3. ふるさと納税トラベルクーポンの使い方3ステップ</a></li>
             <li><a href="#faq" className="hover:text-amber-700 transition">4. よくある質問</a></li>
-            <li><a href="#guides" className="hover:text-amber-700 transition">5. テーマ別おすすめ宿ガイド一覧（259件）</a></li>
+            <li><a href="#guides" className="hover:text-amber-700 transition">5. テーマ別おすすめ宿ガイド一覧（413件）</a></li>
           </ol>
         </nav>
 
@@ -722,6 +722,18 @@ export default function TravelSavingsGuide() {
                     <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">【錦秋の紅葉露天風呂×ふるさと納税】日光中禅寺湖・京都嵐山・箱根の彩りグラデーション名名宿</span>
                   </Link>
                 </li>
+              <li>
+                <Link href="/furusato-tax-dogo-onsen-honkan-heritage-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【道後温泉×ふるさと納税】日本最古の名湯・道後温泉本館＆飛鳥乃湯泉！ふなや・道後御湯・茶玻瑠</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-gero-onsen-bihada-hida-beef-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【下呂温泉×ふるさと納税】日本三名泉の美肌美湯＆極上飛騨牛！水明館・湯之島館・小川屋</span>
+                </Link>
+              </li>
               <li>
                 <Link href="/furusato-tax-niseko-luxury-resort-powder-snow-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
                   <span className="text-amber-600">▸</span>
