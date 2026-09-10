@@ -723,6 +723,30 @@ export default function TravelSavingsGuide() {
                   </Link>
                 </li>
               <li>
+                <Link href="/furusato-tax-gero-onsen-bihada-luxury-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【日本三名泉・下呂温泉×美肌の湯名宿】水明館・望川館・湯之島館で味わう飛騨牛＆至高の湯治ステイ</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-kinugawa-nikko-world-heritage-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【日光東照宮＆鬼怒川・奥日光名門宿×ふるさと納税】日光千姫物語・金谷ホテル・四季彩で巡る世界遺産ステイ</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-yamagata-zao-onsen-okama-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【山形蔵王温泉＆御釜絶景ステイ×ふるさと納税】蔵王国際ホテル・四季のホテル・深山荘高見屋で巡る強酸性名湯と山形牛</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-nasu-highland-onsen-resort-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【那須高原リゾート＆名湯別邸ステイ×ふるさと納税】エピナール那須・那須温泉山楽・グランドメルキュール那須高原</span>
+                </Link>
+              </li>
+              <li>
                 <Link href="/furusato-tax-strawberry-buffet-sweets-resort-hotel-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
                   <span className="text-amber-600">▸</span>
                   <span>【いちごスイーツビュッフェ＆ホテルステイ×ふるさと納税】那須・神戸・幕張の春旅</span>
