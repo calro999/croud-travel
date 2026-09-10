@@ -723,6 +723,30 @@ export default function TravelSavingsGuide() {
                   </Link>
                 </li>
               <li>
+                <Link href="/furusato-tax-yamashiro-onsen-kaga-million-gourmet-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【山代温泉×ふるさと納税】加賀百万石の湯の曲輪＆魯山人の美食！ゆのくに天祥・葉渡莉・たちばな四季亭</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-misasa-onsen-radon-immunity-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【三朝温泉×ふるさと納税】世界屈指のラドン温泉＆免疫力向上！依山楼岩崎・三朝館・万翆楼</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-ureshino-onsen-bihada-tofu-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【嬉野温泉×ふるさと納税】日本三大美肌の湯＆名物温泉湯豆腐！和多屋別荘・大正屋・和楽園</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-atami-onsen-fireworks-ocean-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【熱海温泉×ふるさと納税】相模湾オーシャンビュー＆海上花火特等席！熱海後楽園・古屋旅館・秀花園</span>
+                </Link>
+              </li>
+              <li>
                 <Link href="/furusato-tax-hakone-sengokuhara-pampas-luxury-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
                   <span className="text-amber-600">▸</span>
                   <span>【箱根仙石原温泉×ふるさと納税】黄金すすき草原＆大涌谷美肌にごり湯！きたの風茶寮・仙郷楼・BLISSTIA</span>
