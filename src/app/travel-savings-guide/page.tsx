@@ -723,6 +723,30 @@ export default function TravelSavingsGuide() {
                   </Link>
                 </li>
               <li>
+                <Link href="/furusato-tax-jozankei-onsen-keikoku-retreat-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【定山渓温泉×ふるさと納税】札幌の奥座敷・豊平峡渓谷美＆源泉かけ流し！翠山亭・ゆらく草庵・森の謌</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-shuzenji-onsen-bamboo-heritage-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【修善寺温泉×ふるさと納税】伊豆最古の名湯・竹林の小径＆国の登録文化財！菊屋・新井旅館・宙SORA</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-wakura-onsen-noto-ocean-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【和倉温泉×ふるさと納税】七尾湾オーシャンビュー＆能登復興応援！のと楽・美湾荘・宝仙閣</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-akan-onsen-marimo-heritage-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【阿寒湖温泉×ふるさと納税】天然記念物マリモの湖＆阿寒連峰パノラマ！遊久の里鶴雅・鄙の座・ニュー阿寒</span>
+                </Link>
+              </li>
+              <li>
                 <Link href="/furusato-tax-tsukioka-onsen-emerald-bihada-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
                   <span className="text-amber-600">▸</span>
                   <span>【月岡温泉×ふるさと納税】エメラルドグリーン硫黄泉＆極上越後会席！白玉の湯華鳳・白玉の湯泉慶・風鈴屋</span>
