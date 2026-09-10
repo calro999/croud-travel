@@ -723,6 +723,30 @@ export default function TravelSavingsGuide() {
                   </Link>
                 </li>
               <li>
+                <Link href="/furusato-tax-kinugawa-onsen-valley-luxury-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【鬼怒川温泉×ふるさと納税】渓谷美と大露天風呂！あさや・鬼怒川金谷ホテル・鬼怒川プラザホテル</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-jozankei-onsen-sapporo-retreat-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【定山渓温泉×ふるさと納税】札幌の奥座敷！ぬくもりの宿ふる川・定山渓ビューホテル・翠山亭</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-tamatsukuri-onsen-izumo-beauty-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【玉造温泉×ふるさと納税】出雲大社参拝と神の湯美肌！佳翠苑皆美・長楽園・白石家</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-shirahama-ocean-resort-luxury-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【南紀白浜温泉×ふるさと納税】白良浜オーシャンビュー＆名門リゾート！ホテル川久・むさし・白浜マリオット</span>
+                </Link>
+              </li>
+              <li>
                 <Link href="/furusato-tax-kinosaki-onsen-sotoyu-crab-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
                   <span className="text-amber-600">▸</span>
                   <span>【城崎温泉×ふるさと納税】七田外湯めぐり＆絶品松葉ガニ・但馬牛！西村屋本館・三木屋・川口屋リバーサイド</span>
