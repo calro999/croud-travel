@@ -723,6 +723,30 @@ export default function TravelSavingsGuide() {
                   </Link>
                 </li>
               <li>
+                <Link href="/furusato-tax-ibusuki-onsen-sand-bath-ocean-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【指宿温泉×ふるさと納税】天然砂むし温泉＆錦江湾オーシャンビュー！白水館・指宿ロイヤル・シーサイドホテル</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-nyuto-onsen-secret-milky-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【乳頭温泉郷×ふるさと納税】日本屈指の乳白色秘湯＆田沢湖畔！休暇村乳頭温泉郷・レイクリゾート・駒ヶ岳温泉</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-nasu-onsen-shikanoyu-resort-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【那須温泉郷×ふるさと納税】開湯千三百年「鹿の湯」＆那須御用邸リゾート！山楽・エピナール那須・サンバレー那須</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-chuzenji-onsen-lake-kanaya-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【中禅寺湖温泉×ふるさと納税】白濁硫黄露天風呂＆クラシックリゾート！中禅寺金谷ホテル・ホテル花庵・旅籠なごみ</span>
+                </Link>
+              </li>
+              <li>
                 <Link href="/furusato-tax-toya-onsen-lake-view-fireworks-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
                   <span className="text-amber-600">▸</span>
                   <span>【洞爺湖温泉×ふるさと納税】全室レイクビュー＆ロングラン花火！乃の風・サンパレス・洞爺観光ホテル</span>
