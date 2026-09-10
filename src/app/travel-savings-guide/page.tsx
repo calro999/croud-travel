@@ -723,6 +723,30 @@ export default function TravelSavingsGuide() {
                   </Link>
                 </li>
               <li>
+                <Link href="/furusato-tax-niseko-luxury-resort-powder-snow-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【ニセコ×ふるさと納税】世界最高峰パウダースノー＆羊蹄山ビュー！パークハイアット・雪ニセコ・坐忘林</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-otaru-canal-asarigawa-onsen-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【小樽・朝里川温泉×ふるさと納税】小樽運河の情緒＆鰊御殿！おたるふる川・宏楽園・銀鱗荘</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-kamakura-shonan-ocean-history-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【鎌倉・湘南×ふるさと納税】七里ヶ浜オーシャンビュー＆古都の歴史！鎌倉プリンス・HOTEL AO・メトロポリタン</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-miyajima-itsukushima-shrine-luxury-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【宮島・厳島神社×ふるさと納税】世界遺産の大鳥居＆潮湯温泉！錦水館・岩惣・有もと</span>
+                </Link>
+              </li>
+              <li>
                 <Link href="/furusato-tax-shirahama-onsen-ocean-adventure-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
                   <span className="text-amber-600">▸</span>
                   <span>【南紀白浜温泉×ふるさと納税】白良浜オーシャンビュー＆アドベンチャーワールド！川久・むさし・白良荘</span>
