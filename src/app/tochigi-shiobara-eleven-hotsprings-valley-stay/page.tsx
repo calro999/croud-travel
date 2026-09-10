@@ -61,7 +61,7 @@ export default function MicroTouristHubPage() {
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-stone-900 via-teal-950 to-blue-950 text-white p-8 md:p-14 shadow-xl border border-white/10">
         <div className="max-w-3xl space-y-4">
           <span className="text-[10px] md:text-xs font-black tracking-widest bg-amber-400 text-stone-950 px-3.5 py-1 rounded-full uppercase inline-block">
-            undefined
+            渓谷露天＆十一湯名湯特集 ♨️
           </span>
           <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
             【栃木・那須塩原】塩原十一湯名湯めぐり・もみじ谷大吊橋＆箒川渓谷露天宿 完全ガイド
