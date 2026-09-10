@@ -97,7 +97,7 @@ export default function TravelSavingsGuide() {
             <li><Link href="/furusato-tax-travel-beginners-complete-guide" className="text-amber-700 font-bold hover:underline transition flex items-center gap-1">👉 【完全初心者向け】確定申告不要・スマホ申請・失敗しない使い方はこちら</Link></li>
             <li><a href="#howto" className="hover:text-amber-700 transition">3. ふるさと納税トラベルクーポンの使い方3ステップ</a></li>
             <li><a href="#faq" className="hover:text-amber-700 transition">4. よくある質問</a></li>
-            <li><a href="#guides" className="hover:text-amber-700 transition">5. テーマ別おすすめ宿ガイド一覧（413件）</a></li>
+            <li><a href="#guides" className="hover:text-amber-700 transition">5. テーマ別おすすめ宿ガイド一覧（417件）</a></li>
           </ol>
         </nav>
 
@@ -722,6 +722,30 @@ export default function TravelSavingsGuide() {
                     <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">【錦秋の紅葉露天風呂×ふるさと納税】日光中禅寺湖・京都嵐山・箱根の彩りグラデーション名名宿</span>
                   </Link>
                 </li>
+              <li>
+                <Link href="/furusato-tax-hakone-yumoto-gateway-luxury-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【箱根湯本温泉×ふるさと納税】玄関口の極上湯浴み＆老舗名宿！はつはな・吉池旅館・湯本富士屋ホテル</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-yugawara-onsen-ryotei-kaiseki-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【湯河原温泉×ふるさと納税】文豪が愛した名湯＆極上料亭懐石！海石榴・山翠楼・ふきや</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-minakami-onsen-tanigawadake-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【水上温泉郷×ふるさと納税】谷川岳の絶景＆利根川渓流露天！別邸仙寿庵・松乃井・坐山みなかみ</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-fukuoka-hakata-luxury-gourmet-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【福岡・博多×ふるさと納税】駅直結ラグジュアリー＆天然温泉スパ！都ホテル博多・グランドハイアット・ヒルトンシーホーク</span>
+                </Link>
+              </li>
               <li>
                 <Link href="/furusato-tax-dogo-onsen-honkan-heritage-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
                   <span className="text-amber-600">▸</span>
