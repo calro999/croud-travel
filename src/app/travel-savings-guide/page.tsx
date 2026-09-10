@@ -723,6 +723,30 @@ export default function TravelSavingsGuide() {
                   </Link>
                 </li>
               <li>
+                <Link href="/furusato-tax-gora-onsen-private-roten-luxury-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【箱根・強羅温泉×ふるさと納税】全室客室露天風呂付き極上宿！佳ら久・白檀・雪月花おこもりステイ</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-noboribetsu-onsen-buffet-gourmet-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【登別温泉×ふるさと納税】豪華バイキング＆名湯大浴場！まほろば・第一滝本館・登別グランドホテル</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-kawaguchiko-fuji-view-onsen-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【富士河口湖温泉×ふるさと納税】富士山一望露天風呂＆逆さ富士！秀峰閣湖月・若草の宿丸栄・富士レークホテル</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-shirahone-onsen-milky-secret-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【白骨温泉×ふるさと納税】乳白色のにごり湯秘湯＆信州牛会席！湯元齋藤旅館・小梨の湯笹屋・丸永旅館</span>
+                </Link>
+              </li>
+              <li>
                 <Link href="/furusato-tax-yamashiro-onsen-kaga-million-gourmet-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
                   <span className="text-amber-600">▸</span>
                   <span>【山代温泉×ふるさと納税】加賀百万石の湯の曲輪＆魯山人の美食！ゆのくに天祥・葉渡莉・たちばな四季亭</span>
