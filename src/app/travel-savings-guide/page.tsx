@@ -723,6 +723,30 @@ export default function TravelSavingsGuide() {
                   </Link>
                 </li>
               <li>
+                <Link href="/furusato-tax-toya-onsen-lake-view-fireworks-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【洞爺湖温泉×ふるさと納税】全室レイクビュー＆ロングラン花火！乃の風・サンパレス・洞爺観光ホテル</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-beppu-onsen-suginoi-jigoku-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【別府温泉×ふるさと納税】湧出量日本一・棚湯＆絶景リゾート！杉乃井ホテル・潮騒の宿晴海・神和苑</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-kurokawa-onsen-satoyama-roten-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【黒川温泉×ふるさと納税】渓谷の秘湯・入湯手形で巡る露天風呂＆あか牛！のし湯・山河・黒川荘</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-manza-onsen-cloud-sulfur-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【万座温泉×ふるさと納税】日本一濃厚な白濁硫黄泉＆雲上の星空露天！日進舘・万座プリンス・高原ホテル</span>
+                </Link>
+              </li>
+              <li>
                 <Link href="/furusato-tax-jozankei-onsen-keikoku-retreat-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
                   <span className="text-amber-600">▸</span>
                   <span>【定山渓温泉×ふるさと納税】札幌の奥座敷・豊平峡渓谷美＆源泉かけ流し！翠山亭・ゆらく草庵・森の謌</span>
