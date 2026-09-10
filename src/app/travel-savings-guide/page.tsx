@@ -97,7 +97,7 @@ export default function TravelSavingsGuide() {
             <li><Link href="/furusato-tax-travel-beginners-complete-guide" className="text-amber-700 font-bold hover:underline transition flex items-center gap-1">👉 【完全初心者向け】確定申告不要・スマホ申請・失敗しない使い方はこちら</Link></li>
             <li><a href="#howto" className="hover:text-amber-700 transition">3. ふるさと納税トラベルクーポンの使い方3ステップ</a></li>
             <li><a href="#faq" className="hover:text-amber-700 transition">4. よくある質問</a></li>
-            <li><a href="#guides" className="hover:text-amber-700 transition">5. テーマ別おすすめ宿ガイド一覧（425件）</a></li>
+            <li><a href="#guides" className="hover:text-amber-700 transition">5. テーマ別おすすめ宿ガイド一覧（429件）</a></li>
           </ol>
         </nav>
 
@@ -722,6 +722,30 @@ export default function TravelSavingsGuide() {
                     <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">【錦秋の紅葉露天風呂×ふるさと納税】日光中禅寺湖・京都嵐山・箱根の彩りグラデーション名名宿</span>
                   </Link>
                 </li>
+              <li>
+                <Link href="/furusato-tax-kanazawa-kenrokuen-gourmet-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【金沢×ふるさと納税】兼六園の美景＆近江町市場の海の幸！ホテル日航金沢・白鳥路山楽・THE HOTEL SANRAKU</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-okinawa-naha-kokusaidori-luxury-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【沖縄・那覇×ふるさと納税】国際通りの活気＆屋外プールリゾート！ハイアット那覇・コレクティブ・ロワジールスパタワー</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-tokyo-ginza-luxury-shopping-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【東京・銀座×ふるさと納税】歌舞伎座・ショッピング＆夜景！三井ガーデン銀座プレミア・ミレニアム・モントレ</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-osaka-umeda-luxury-skyview-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【大阪・梅田×ふるさと納税】JR大阪駅直結＆地上摩天楼夜景！リッツカールトン大阪・インターコンチネンタル・ヒルトン</span>
+                </Link>
+              </li>
               <li>
                 <Link href="/furusato-tax-kyoto-station-luxury-convenience-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
                   <span className="text-amber-600">▸</span>
