@@ -723,6 +723,30 @@ export default function TravelSavingsGuide() {
                   </Link>
                 </li>
               <li>
+                <Link href="/furusato-tax-shirahama-onsen-ocean-adventure-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【南紀白浜温泉×ふるさと納税】白良浜オーシャンビュー＆アドベンチャーワールド！川久・むさし・白良荘</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-nozawa-onsen-sotoyu-heritage-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【野沢温泉×ふるさと納税】十三の外湯めぐり＆源泉麻釜！さかや・河一屋旅館・住吉屋</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-ito-onsen-ocean-kinmedai-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【伊東温泉×ふるさと納税】相模灘オーシャンビュー＆金目鯛！青山やまと・サンハトヤ・ラフォーレ湯の庭</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-zao-onsen-acid-sulfur-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【蔵王温泉×ふるさと納税】日本屈指の強酸性白濁硫黄泉＆山形牛！高見屋・蔵王国際・四季のホテル</span>
+                </Link>
+              </li>
+              <li>
                 <Link href="/furusato-tax-ibusuki-onsen-sand-bath-ocean-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
                   <span className="text-amber-600">▸</span>
                   <span>【指宿温泉×ふるさと納税】天然砂むし温泉＆錦江湾オーシャンビュー！白水館・指宿ロイヤル・シーサイドホテル</span>
