@@ -723,6 +723,30 @@ export default function TravelSavingsGuide() {
                   </Link>
                 </li>
               <li>
+                <Link href="/furusato-tax-hakone-gora-onsen-art-luxury-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【箱根強羅温泉×ふるさと納税】美肌のにごり湯＆全室客室露天！白檀・季の湯雪月花・桐谷箱根荘</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-beppu-kannawa-onsen-jigokumushi-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【別府鉄輪温泉×ふるさと納税】湯けむり展望＆名物地獄蒸し！山荘神和苑・おにやま・山水館</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-arima-onsen-kinsen-ginsen-kobe-beef-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【有馬温泉×ふるさと納税】日本最古の名湯・金泉銀泉＆神戸牛会席！兵衛向陽閣・月光園鴻朧館・御所坊</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-noboribetsu-onsen-jigokudani-resort-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【登別温泉×ふるさと納税】地獄谷パノラマ＆五大泉質温泉天国！第一滝本館・登別グランド・まほろば</span>
+                </Link>
+              </li>
+              <li>
                 <Link href="/furusato-tax-kurokawa-onsen-nyuto-tegata-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
                   <span className="text-amber-600">▸</span>
                   <span>【黒川温泉×ふるさと納税】入湯手形で巡る露天風呂＆あか牛会席！山みず木・旅館わかば・山の宿新明館</span>
