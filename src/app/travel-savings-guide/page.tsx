@@ -97,7 +97,7 @@ export default function TravelSavingsGuide() {
             <li><Link href="/furusato-tax-travel-beginners-complete-guide" className="text-amber-700 font-bold hover:underline transition flex items-center gap-1">👉 【完全初心者向け】確定申告不要・スマホ申請・失敗しない使い方はこちら</Link></li>
             <li><a href="#howto" className="hover:text-amber-700 transition">3. ふるさと納税トラベルクーポンの使い方3ステップ</a></li>
             <li><a href="#faq" className="hover:text-amber-700 transition">4. よくある質問</a></li>
-            <li><a href="#guides" className="hover:text-amber-700 transition">5. テーマ別おすすめ宿ガイド一覧（421件）</a></li>
+            <li><a href="#guides" className="hover:text-amber-700 transition">5. テーマ別おすすめ宿ガイド一覧（425件）</a></li>
           </ol>
         </nav>
 
@@ -722,6 +722,30 @@ export default function TravelSavingsGuide() {
                     <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">【錦秋の紅葉露天風呂×ふるさと納税】日光中禅寺湖・京都嵐山・箱根の彩りグラデーション名名宿</span>
                   </Link>
                 </li>
+              <li>
+                <Link href="/furusato-tax-kyoto-station-luxury-convenience-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【京都駅直結×ふるさと納税】新幹線直結＆抜群のアクセス！グランヴィア京都・ザサウザンド京都・リーガロイヤル</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-tokyo-station-marunouchi-luxury-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【東京駅・丸の内×ふるさと納税】重要文化財駅舎＆皇居ビュー！東京ステーションホテル・パレスホテル・帝国ホテル</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-tokyo-asakusa-skytree-view-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【浅草・スカイツリー×ふるさと納税】雷門の情緒＆下町名湯！浅草ビューホテル・THE GATE HOTEL・御宿野乃</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-nara-park-heritage-luxury-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【奈良公園×ふるさと納税】世界遺産の大仏＆若草山の緑！奈良ホテル・ふふ奈良・JWマリオット</span>
+                </Link>
+              </li>
               <li>
                 <Link href="/furusato-tax-toyako-onsen-lakeview-fireworks-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
                   <span className="text-amber-600">▸</span>
