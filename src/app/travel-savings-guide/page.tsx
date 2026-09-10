@@ -97,7 +97,7 @@ export default function TravelSavingsGuide() {
             <li><Link href="/furusato-tax-travel-beginners-complete-guide" className="text-amber-700 font-bold hover:underline transition flex items-center gap-1">👉 【完全初心者向け】確定申告不要・スマホ申請・失敗しない使い方はこちら</Link></li>
             <li><a href="#howto" className="hover:text-amber-700 transition">3. ふるさと納税トラベルクーポンの使い方3ステップ</a></li>
             <li><a href="#faq" className="hover:text-amber-700 transition">4. よくある質問</a></li>
-            <li><a href="#guides" className="hover:text-amber-700 transition">5. テーマ別おすすめ宿ガイド一覧（417件）</a></li>
+            <li><a href="#guides" className="hover:text-amber-700 transition">5. テーマ別おすすめ宿ガイド一覧（421件）</a></li>
           </ol>
         </nav>
 
@@ -722,6 +722,30 @@ export default function TravelSavingsGuide() {
                     <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">【錦秋の紅葉露天風呂×ふるさと納税】日光中禅寺湖・京都嵐山・箱根の彩りグラデーション名名宿</span>
                   </Link>
                 </li>
+              <li>
+                <Link href="/furusato-tax-toyako-onsen-lakeview-fireworks-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【洞爺湖温泉×ふるさと納税】ロングラン花火＆湖上インフィニティスパ！ウィンザーホテル洞爺・湖の栖・サンパレス</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-okinawa-onna-beach-resort-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【沖縄・恩納村×ふるさと納税】西海岸エメラルドビーチ＆最高峰ラグジュアリー！ハレクラニ・ハイアット瀬良垣・ルネッサンス</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-nagoya-luxury-gourmet-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【名古屋×ふるさと納税】駅直結スカイビュー＆最新ラグジュアリー！マリオット・TIAD・名古屋観光ホテル</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-shodoshima-olive-island-onsen-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
+                  <span className="text-amber-600">▸</span>
+                  <span>【小豆島×ふるさと納税】エンジェルロード＆オリーブの島！島宿真里・オリビアン小豆島・ベイリゾート</span>
+                </Link>
+              </li>
               <li>
                 <Link href="/furusato-tax-hakone-yumoto-gateway-luxury-stay" className="text-amber-800 hover:underline flex items-center gap-1.5 py-1">
                   <span className="text-amber-600">▸</span>

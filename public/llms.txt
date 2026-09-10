@@ -309,6 +309,8 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【兵庫県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/183491): ダイワロイネットホテル神戸三宮　ＰＲＥＭＩＥＲ（兵庫県）
+- [【おすすめ宿】天然温泉　梅里の湯　スーパーホテル水戸の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/80617): 天然温泉　梅里の湯　スーパーホテル水戸（茨城県）
 - [【滋賀県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/8798): おごと温泉　びわ湖花街道（滋賀県）
 - [【おすすめ宿】クインテッサホテル広島銀山町の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/196226): クインテッサホテル広島銀山町（広島県）
 - [【秋田県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/30801): 雫石プリンスホテル（秋田県）
@@ -357,5 +359,3 @@
 - [【戸倉上山田温泉 有田屋旅館】大正ロマン漂うステンドグラスと自家源泉かけ流し！信州千曲の老舗温泉宿ガイド](https://croud-travel.pages.dev/posts/75165): 戸倉上山田温泉　有田屋旅館（長野県）
 - [【鳥海　猿倉温泉　ホテルフォレスタ鳥海】オーシャンビュー展望風呂＆海の幸！秋田県で過ごす雄大な海景色と新鮮な海鮮グルメを満喫するシーサイドステイ完全ガイド](https://croud-travel.pages.dev/posts/9699): 鳥海　猿倉温泉　ホテルフォレスタ鳥海（秋田県）
 - [【秋保温泉】仙台奥座敷のおすすめ温泉旅館7選！豪華バイキング＆室内プール付きリゾート](https://croud-travel.pages.dev/posts/akyu-onsen-sendai-family-buffet-hotels-guide): 秋保温泉　心和む名湯の宿　曽良一（宮城県）
-- [【静岡県修善寺・中伊豆・天城・伊豆市のおすすめ10選】竹林の小径と桂川にかかる恋の橋巡り！](https://croud-travel.pages.dev/posts/arai-ryokan-shuzenji-cultural-heritage-guide): 修善寺温泉　国の登録文化財の宿　新井旅館（静岡県）
-- [【兵庫・有馬温泉】日本三古湯！赤褐色の金泉＆無色の銀泉を満喫する極上宿7選！神戸牛会席](https://croud-travel.pages.dev/posts/arima-onsen-gold-silver-bath-kobe-beef-guide): 神戸牛と有馬温泉　天然金泉・銀泉の宿　有馬御苑（兵庫県）
