@@ -309,6 +309,8 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【宮城県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/56166): 気仙沼プラザホテル（宮城県）
+- [【おすすめ宿】軽井沢プリンスホテル　ウエストの魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/29249): 軽井沢プリンスホテル　ウエスト（群馬県）
 - [【おすすめ宿】変なホテル　小松駅前の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/181399): 変なホテル　小松駅前（石川県）
 - [【2026年10月】愛知県の子連れ旅行おすすめ完全ガイド！秋の紅葉・味覚狩りと人気ファミリー宿厳選](https://croud-travel.pages.dev/posts/october-travel-aichi-kids-family-guide): 愛知県のファミリー歓迎おすすめ宿（愛知県）
 - [【2026年10月】秋田県の子連れ旅行おすすめ完全ガイド！秋の紅葉・味覚狩りと人気ファミリー宿厳選](https://croud-travel.pages.dev/posts/october-travel-akita-kids-family-guide): 秋田県のファミリー歓迎おすすめ宿（秋田県）
@@ -357,5 +359,3 @@
 - [【2026年10月】花巻・遠野（岩手県）の子連れ旅行おすすめ完全ガイド！秋の絶景・味覚と人気ファミリー宿厳選](https://croud-travel.pages.dev/posts/october-travel-city-hanamaki-tono-kids-family-guide): 花巻・遠野のファミリー歓迎おすすめ宿（岩手県）
 - [【2026年10月】飯能・日高（埼玉県）の子連れ旅行おすすめ完全ガイド！秋の絶景・味覚と人気ファミリー宿厳選](https://croud-travel.pages.dev/posts/october-travel-city-hanno-hidaka-kids-family-guide): 飯能・日高のファミリー歓迎おすすめ宿（埼玉県）
 - [【2026年10月】彦根・長浜（滋賀県）の子連れ旅行おすすめ完全ガイド！秋の絶景・味覚と人気ファミリー宿厳選](https://croud-travel.pages.dev/posts/october-travel-city-hikone-nagahama-kids-family-guide): 彦根・長浜のファミリー歓迎おすすめ宿（滋賀県）
-- [【2026年10月】姫路・赤穂（兵庫県）の子連れ旅行おすすめ完全ガイド！秋の絶景・味覚と人気ファミリー宿厳選](https://croud-travel.pages.dev/posts/october-travel-city-himeji-ako-kids-family-guide): 姫路・赤穂のファミリー歓迎おすすめ宿（兵庫県）
-- [【2026年10月】氷見・高岡（富山県）の子連れ旅行おすすめ完全ガイド！秋の絶景・味覚と人気ファミリー宿厳選](https://croud-travel.pages.dev/posts/october-travel-city-himi-takaoka-kids-family-guide): 氷見・高岡のファミリー歓迎おすすめ宿（富山県）
