@@ -309,6 +309,7 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【おすすめ宿】変なホテル　小松駅前の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/181399): 変なホテル　小松駅前（石川県）
 - [【2026年10月】愛知県の子連れ旅行おすすめ完全ガイド！秋の紅葉・味覚狩りと人気ファミリー宿厳選](https://croud-travel.pages.dev/posts/october-travel-aichi-kids-family-guide): 愛知県のファミリー歓迎おすすめ宿（愛知県）
 - [【2026年10月】秋田県の子連れ旅行おすすめ完全ガイド！秋の紅葉・味覚狩りと人気ファミリー宿厳選](https://croud-travel.pages.dev/posts/october-travel-akita-kids-family-guide): 秋田県のファミリー歓迎おすすめ宿（秋田県）
 - [【2026年10月】青森県の子連れ旅行おすすめ完全ガイド！秋の紅葉・味覚狩りと人気ファミリー宿厳選](https://croud-travel.pages.dev/posts/october-travel-aomori-kids-family-guide): 青森県のファミリー歓迎おすすめ宿（青森県）
@@ -358,4 +359,3 @@
 - [【2026年10月】彦根・長浜（滋賀県）の子連れ旅行おすすめ完全ガイド！秋の絶景・味覚と人気ファミリー宿厳選](https://croud-travel.pages.dev/posts/october-travel-city-hikone-nagahama-kids-family-guide): 彦根・長浜のファミリー歓迎おすすめ宿（滋賀県）
 - [【2026年10月】姫路・赤穂（兵庫県）の子連れ旅行おすすめ完全ガイド！秋の絶景・味覚と人気ファミリー宿厳選](https://croud-travel.pages.dev/posts/october-travel-city-himeji-ako-kids-family-guide): 姫路・赤穂のファミリー歓迎おすすめ宿（兵庫県）
 - [【2026年10月】氷見・高岡（富山県）の子連れ旅行おすすめ完全ガイド！秋の絶景・味覚と人気ファミリー宿厳選](https://croud-travel.pages.dev/posts/october-travel-city-himi-takaoka-kids-family-guide): 氷見・高岡のファミリー歓迎おすすめ宿（富山県）
-- [【2026年10月】平戸・松浦（長崎県）の子連れ旅行おすすめ完全ガイド！秋の絶景・味覚と人気ファミリー宿厳選](https://croud-travel.pages.dev/posts/october-travel-city-hirado-matsuura-kids-family-guide): 平戸・松浦のファミリー歓迎おすすめ宿（長崎県）
