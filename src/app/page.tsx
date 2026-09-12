@@ -29,10 +29,10 @@ const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || "https://croud-travel.pages.
 export const metadata: Metadata = {
   title: "日本全国の厳選宿・温泉旅館・ホテル一覧 ｜ 楽天トラベルで予約 ｜ 旅宿クラウド",
   description:
-    "北海道から沖縄まで47都道府県の温泉宿・高級ホテル・リゾートを旅ライターが厳選紹介。楽天トラベルで今すぐ空室確認・予約可能。子連れ・カップル・女子旅など旅のテーマ別に検索できます。",
+    "北海道から沖縄まで47都道府県の温泉宿・高級ホテル・リゾートを旅ライターが厳選紹介。楽天トラベルで今すぐ空室確認・予約可能。ひとり旅・出張・サウナ・カップル・女子旅など旅のテーマ別に検索できます。",
   keywords: [
-    "温泉宿", "おすすめホテル", "旅行", "楽天トラベル", "47都道府県", "子連れ旅行",
-    "カップル旅行", "女子旅", "高級旅館", "露天風呂", "旅館予約", "国内旅行",
+    "温泉宿", "おすすめホテル", "ひとり旅", "出張 ホテル", "サウナ ホテル", "楽天トラベル",
+    "47都道府県", "子連れ旅行", "高級旅館", "露天風呂", "旅館予約", "国内旅行",
   ],
   alternates: { canonical: `${baseUrl}/` },
   openGraph: {
@@ -59,7 +59,6 @@ function loadPosts(): Post[] {
 export default function Home() {
   const posts = loadPosts();
 
-  // JSON-LD: WebSite + ItemList（記事一覧）
   const jsonLdWebsite = {
     "@context": "https://schema.org",
     "@type": "WebSite",
@@ -79,9 +78,7 @@ export default function Home() {
     name: "旅宿クラウド",
     url: baseUrl,
     logo: `${baseUrl}/icon.png`,
-    sameAs: [
-      `${baseUrl}/sitemap`
-    ]
+    sameAs: [`${baseUrl}/sitemap`],
   };
 
   const jsonLdItemList = {
@@ -104,7 +101,7 @@ export default function Home() {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdOrganization) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdItemList) }} />
 
-      {/* 旅行雑誌風 ヒーロービジュアル */}
+      {/* ヒーロービジュアル */}
       <section className="relative rounded-3xl overflow-hidden bg-gradient-to-br from-teal-900 via-emerald-950 to-amber-950 p-8 md:p-14 border border-emerald-950/20 shadow-lg flex flex-col md:flex-row items-start md:items-center justify-between gap-8">
         <div className="absolute top-0 right-0 w-[450px] h-[450px] bg-amber-500/[0.04] rounded-full filter blur-3xl pointer-events-none" />
 
@@ -122,80 +119,6 @@ export default function Home() {
             旅ライターが厳選した、楽天トラベルでおもわず予約したくなる「一生に一度は泊まりたい宿」と全国47都道府県の見所を特集。あなただけの至福の旅がここから始まります。
           </p>
 
-                    {/* 注目の旬・人気テーマ（厳選タグ） */}
-          <div className="pt-2 space-y-3">
-            <div className="flex items-center justify-between">
-              <span className="text-[11px] font-bold text-amber-300/90 flex items-center gap-1.5 tracking-wider">
-                <span>✨</span> <span>注目の人気・季節の特集</span>
-              </span>
-              <Link
-                href="/features"
-                className="text-[11px] font-bold text-teal-200 hover:text-white flex items-center gap-0.5 hover:underline"
-              >
-                <span>特集一覧</span>
-                <span>→</span>
-              </Link>
-            </div>
-            <div className="flex flex-wrap gap-2">
-              <Link
-                href="/autumn-leaves"
-                className="px-3.5 py-2 text-xs font-bold text-white bg-gradient-to-r from-red-600 via-rose-700 to-amber-700 hover:from-red-500 hover:to-amber-600 rounded-xl shadow-md transition border border-red-300/30 flex items-center gap-1.5"
-              >
-                <span>🍁</span>
-                <span>全国 紅葉露天風呂</span>
-              </Link>
-              <Link
-                href="/winter-crab-gourmet"
-                className="px-3.5 py-2 text-xs font-bold text-white bg-gradient-to-r from-orange-600 to-red-700 hover:from-orange-500 hover:to-red-600 rounded-xl shadow-md transition border border-orange-300/30 flex items-center gap-1.5"
-              >
-                <span>🦀</span>
-                <span>冬のカニ食べ尽くし宿</span>
-              </Link>
-              <Link
-                href="/winter-snow-onsen"
-                className="px-3.5 py-2 text-xs font-bold text-white bg-gradient-to-r from-slate-700 to-blue-800 hover:from-slate-600 hover:to-blue-700 rounded-xl shadow-md transition border border-blue-300/30 flex items-center gap-1.5"
-              >
-                <span>❄️</span>
-                <span>雪見露天風呂＆秘湯</span>
-              </Link>
-              <Link
-                href="/spring-cherry-blossoms"
-                className="px-3.5 py-2 text-xs font-bold text-rose-950 bg-gradient-to-r from-pink-300 to-rose-300 hover:from-pink-200 hover:to-rose-200 rounded-xl shadow-md transition border border-pink-200/50 flex items-center gap-1.5"
-              >
-                <span>🌸</span>
-                <span>桜・お花見絶景宿</span>
-              </Link>
-              <Link
-                href="/autumn-winter-all-inclusive-luxury"
-                className="px-3.5 py-2 text-xs font-bold text-white bg-gradient-to-r from-purple-850 via-indigo-950 to-rose-950 hover:from-purple-750 hover:to-indigo-900 rounded-xl shadow-md transition border border-purple-300/30 flex items-center gap-1.5"
-              >
-                <span>🍹</span>
-                <span>極上オールインクルーシブ</span>
-              </Link>
-              <Link
-                href="/autumn-winter-sauna-retreat"
-                className="px-3.5 py-2 text-xs font-bold text-white bg-gradient-to-r from-emerald-700 to-cyan-900 hover:from-emerald-600 hover:to-cyan-800 rounded-xl shadow-md transition border border-emerald-300/30 flex items-center gap-1.5"
-              >
-                <span>🧖</span>
-                <span>絶景サウナ＆天然水風呂</span>
-              </Link>
-              <Link
-                href="/autumn-winter-private-bath-ryokan"
-                className="px-3.5 py-2 text-xs font-bold text-white bg-gradient-to-r from-rose-900 via-pink-950 to-stone-900 hover:from-rose-800 hover:to-pink-900 rounded-xl shadow-md transition border border-rose-300/30 flex items-center gap-1.5"
-              >
-                <span>🛁</span>
-                <span>客室露天＆貸切風呂</span>
-              </Link>
-              <Link
-                href="/features"
-                className="px-3.5 py-2 text-xs font-bold text-amber-300 bg-amber-400/10 hover:bg-amber-400/20 border border-amber-400/30 rounded-xl transition flex items-center gap-1.5"
-              >
-                <span>＋</span>
-                <span>すべての特集を見る（530+）</span>
-              </Link>
-            </div>
-          </div>
-
           {/* クイックアクション導線 */}
           <div className="pt-2 flex flex-wrap items-center gap-3">
             <a
@@ -206,6 +129,12 @@ export default function Home() {
               <span>↓</span>
             </a>
             <Link
+              href="/features"
+              className="inline-flex items-center gap-1.5 px-4 py-2.5 text-xs md:text-sm font-bold text-white bg-white/10 hover:bg-white/15 border border-white/20 rounded-2xl transition"
+            >
+              <span>📚 特集・まとめ記事一覧</span>
+            </Link>
+            <Link
               href="/prefectures"
               className="inline-flex items-center gap-1.5 px-4 py-2.5 text-xs md:text-sm font-bold text-white bg-white/10 hover:bg-white/15 border border-white/20 rounded-2xl transition"
             >
@@ -214,7 +143,7 @@ export default function Home() {
           </div>
         </div>
 
-{/* 雑誌スタッツカウンター風UI */}
+        {/* 雑誌スタッツカウンター風UI */}
         <div className="w-full md:w-auto grid grid-cols-2 gap-4 bg-white/5 border border-white/10 p-6 rounded-2xl md:min-w-[240px] backdrop-blur-md">
           <div className="text-center space-y-1">
             <span className="block text-3xl font-black text-amber-400 tracking-tight font-journal-serif">{posts.length}</span>
@@ -259,7 +188,7 @@ export default function Home() {
 
           <Link href="/campaigns" className="group bg-white p-5 rounded-2xl border border-amber-500/20 shadow-sm hover:shadow-md transition space-y-2">
             <span className="text-[9px] font-extrabold text-emerald-800 bg-emerald-100 px-2.5 py-0.5 rounded-full inline-block">期間限定セール</span>
-            <h3 className="text-sm font-bold text-emerald-950 group-hover:text-emerald-800 transition">サマーセール＆季節の半額感謝祭</h3>
+            <h3 className="text-sm font-bold text-emerald-950 group-hover:text-emerald-800 transition">サマーセール＆季節の感謝祭</h3>
             <p className="text-xs text-emerald-950/70 line-clamp-2">半額プラン多数＆限定1万円クーポン配布中。季節の旅がお得に。</p>
           </Link>
         </div>
@@ -307,47 +236,39 @@ export default function Home() {
         <PostListClient initialPosts={posts} />
       </div>
 
-      {/* 📚 全国の特集・特設テーマ記事（折りたたみアコーディオン） */}
+      {/* 📚 全国の特集・特設テーマ記事（洗練されたカード型ナビゲーション） */}
       <AllFeaturesAccordion />
 
-      {/* 🔍 人気の旅テーマ＆特集カテゴリー */}
+      {/* 🧭 公式旅行ガイド＆お役立ち特集 */}
       <section className="bg-gradient-to-br from-slate-900 via-emerald-950 to-teal-950 text-white rounded-3xl p-6 md:p-10 space-y-6 shadow-xl border border-white/10">
         <div className="space-y-2 border-b border-white/10 pb-4">
           <span className="text-[10px] font-extrabold text-amber-300 bg-amber-500/20 border border-amber-500/30 px-3 py-0.5 rounded-full uppercase tracking-widest inline-block">
-            POPULAR CATEGORIES
+            TRAVEL GUIDE & TIPS
           </span>
           <h2 className="text-xl md:text-2xl font-black font-journal-serif text-white flex items-center gap-2">
-            <span>🧭</span> <span>人気の旅テーマ＆お得な旅行ガイド</span>
+            <span>🧭</span> <span>公式旅行ガイド＆お得な予約TIPS</span>
           </h2>
           <p className="text-xs text-slate-300 leading-relaxed font-medium">
-            お得な割引キャンペーン、ふるさと納税宿泊クーポン、全国の温泉地、季節の旬グルメ宿など、旅の目的からぴったりの特集を探せます。
+            ふるさと納税を活用した実質2,000円宿泊術や予約後クーポンのあとから適用方法など、旅の計画をサポートする実用ガイドをご案内。
           </p>
         </div>
 
-        <div className="flex flex-wrap gap-2 text-xs">
-          <Link href="/campaigns" className="bg-amber-500/20 hover:bg-amber-500/30 text-amber-200 border border-amber-500/30 px-3.5 py-2 rounded-xl font-bold transition flex items-center gap-1.5">
-            <span>🏷️</span> <span>楽天トラベル お得なクーポン・セール情報</span>
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 text-xs">
+          <Link href="/campaigns" className="bg-white/10 hover:bg-white/15 border border-white/15 p-4 rounded-2xl transition space-y-1 block">
+            <span className="text-amber-300 font-bold block text-sm">🏷️ セール＆限定クーポン</span>
+            <span className="text-slate-300 text-[11px] block">楽天トラベル最新の割引キャンペーンまとめ</span>
           </Link>
-          <Link href="/travel-savings-guide" className="bg-teal-500/20 hover:bg-teal-500/30 text-teal-200 border border-teal-500/30 px-3.5 py-2 rounded-xl font-bold transition flex items-center gap-1.5">
-            <span>💰</span> <span>ふるさと納税で旅行費を最大30%節約する裏ワザ</span>
+          <Link href="/travel-savings-guide" className="bg-white/10 hover:bg-white/15 border border-white/15 p-4 rounded-2xl transition space-y-1 block">
+            <span className="text-teal-200 font-bold block text-sm">💰 旅費最大30%節約術</span>
+            <span className="text-slate-300 text-[11px] block">ふるさと納税宿泊クーポンの賢い活用法</span>
           </Link>
-          <Link href="/furusato-tax-travel-beginners-complete-guide" className="bg-emerald-500/20 hover:bg-emerald-500/30 text-emerald-200 border border-emerald-500/30 px-3.5 py-2 rounded-xl font-bold transition flex items-center gap-1.5">
-            <span>🔰</span> <span>初心者向け ふるさと納税旅行クーポン完全ガイド</span>
+          <Link href="/furusato-tax-travel-beginners-complete-guide" className="bg-white/10 hover:bg-white/15 border border-white/15 p-4 rounded-2xl transition space-y-1 block">
+            <span className="text-emerald-200 font-bold block text-sm">🔰 ふるさと納税完全ガイド</span>
+            <span className="text-slate-300 text-[11px] block">初心者でも迷わないステップ解説</span>
           </Link>
-          <Link href="/furusato-tax-travel-after-booking-discount-guide" className="bg-blue-500/20 hover:bg-blue-500/30 text-blue-200 border border-blue-500/30 px-3.5 py-2 rounded-xl font-bold transition flex items-center gap-1.5">
-            <span>🔄</span> <span>予約済みホテルにも使える！「あとから適用」解説</span>
-          </Link>
-          <Link href="/autumn-leaves" className="bg-red-500/20 hover:bg-red-500/30 text-red-200 border border-red-500/30 px-3.5 py-2 rounded-xl font-bold transition flex items-center gap-1.5">
-            <span>🍁</span> <span>全国 紅葉絶景の露天風呂旅館</span>
-          </Link>
-          <Link href="/winter-crab-gourmet" className="bg-orange-500/20 hover:bg-orange-500/30 text-orange-200 border border-orange-500/30 px-3.5 py-2 rounded-xl font-bold transition flex items-center gap-1.5">
-            <span>🦀</span> <span>冬の味覚 本場の越前ガニ・松葉ガニ宿</span>
-          </Link>
-          <Link href="/winter-snow-onsen" className="bg-sky-500/20 hover:bg-sky-500/30 text-sky-200 border border-sky-500/30 px-3.5 py-2 rounded-xl font-bold transition flex items-center gap-1.5">
-            <span>❄️</span> <span>雪見露天風呂と日本の秘湯</span>
-          </Link>
-          <Link href="/features" className="bg-white/10 hover:bg-white/20 text-white border border-white/20 px-3.5 py-2 rounded-xl font-bold transition flex items-center gap-1.5">
-            <span>📚</span> <span>すべての特集記事一覧（530件以上）</span>
+          <Link href="/furusato-tax-travel-after-booking-discount-guide" className="bg-white/10 hover:bg-white/15 border border-white/15 p-4 rounded-2xl transition space-y-1 block">
+            <span className="text-sky-200 font-bold block text-sm">🔄 あとから適用テクニック</span>
+            <span className="text-slate-300 text-[11px] block">予約済みホテルに割引を適用する裏ワザ</span>
           </Link>
         </div>
       </section>

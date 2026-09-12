@@ -1,62 +1,3786 @@
 import Link from "next/link";
 
 export default function AllFeaturesAccordion() {
-  const popularCategories = [
-    { href: "/autumn-leaves", label: "全国 紅葉露天風呂", icon: "🍁", badge: "秋の旬" },
-    { href: "/winter-crab-gourmet", label: "冬のカニ食べ尽くし宿", icon: "🦀", badge: "冬の味覚" },
-    { href: "/winter-snow-onsen", label: "雪見露天風呂＆秘湯", icon: "❄️", badge: "冬の絶景" },
-    { href: "/autumn-winter-sauna-retreat", label: "絶景サウナ＆天然水風呂", icon: "🧖", badge: "ととのう" },
-    { href: "/autumn-winter-all-inclusive-luxury", label: "極上オールインクルーシブ", icon: "🍹", badge: "贅沢ステイ" },
-    { href: "/autumn-winter-private-bath-ryokan", label: "客室露天＆貸切風呂", icon: "🛁", badge: "おこもり" },
-    { href: "/spring-cherry-blossoms", label: "桜・お花見絶景宿", icon: "🌸", badge: "春の予感" },
-    { href: "/silver-week", label: "連休・人気リゾート宿", icon: "🎯", badge: "旅行計画" },
-  ];
-
   return (
-    <section className="bg-gradient-to-br from-stone-50 to-emerald-50/40 border border-emerald-950/10 rounded-3xl p-6 md:p-8 space-y-6 shadow-sm">
-      <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 border-b border-emerald-950/10 pb-4">
-        <div className="space-y-1">
-          <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100/80 px-2.5 py-0.5 rounded-full uppercase tracking-wider inline-block">
-            SPECIAL CURATED HUBS
-          </span>
-          <h2 className="text-lg md:text-xl font-bold text-emerald-950 flex items-center gap-2 font-journal-serif">
-            <span>📚</span>
-            <span>目的・テーマ別の厳選特集ナビゲーション</span>
-          </h2>
-          <p className="text-xs text-stone-600 leading-relaxed">
-            紅葉・カニ・雪見温泉からサウナ・客室露天・ひとり旅まで、編集部が厳選した人気テーマ別まとめをご案内。
-          </p>
-        </div>
-        <Link
-          href="/features"
-          className="inline-flex items-center justify-center gap-1.5 px-5 py-2.5 text-xs font-bold text-teal-950 bg-teal-100 hover:bg-teal-200 border border-teal-300 rounded-xl transition shadow-sm whitespace-nowrap self-start sm:self-auto"
-        >
-          <span>全特集一覧（530件以上）を見る</span>
-          <span>→</span>
-        </Link>
-      </div>
-
-      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3">
-        {popularCategories.map((item) => (
-          <Link
-            key={item.href}
-            href={item.href}
-            className="group p-4 bg-white rounded-2xl border border-stone-200/80 hover:border-teal-600/40 hover:shadow-md transition flex items-center justify-between gap-2"
-          >
-            <div className="space-y-1">
-              <span className="text-[9px] font-bold text-teal-800 bg-teal-50 px-2 py-0.5 rounded-md inline-block">
-                {item.badge}
-              </span>
-              <span className="block text-xs md:text-sm font-bold text-stone-900 group-hover:text-teal-900 transition">
-                {item.icon} {item.label}
-              </span>
-            </div>
-            <span className="text-xs text-stone-400 group-hover:text-teal-600 group-hover:translate-x-0.5 transition-transform">
-              →
+    <section className="bg-slate-50 border border-emerald-950/10 rounded-3xl p-6 md:p-8 space-y-4">
+      <details className="group">
+        <summary className="flex items-center justify-between cursor-pointer list-none select-none">
+          <div className="space-y-1">
+            <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100/80 px-2.5 py-0.5 rounded-full uppercase tracking-wider inline-block">
+              ALL SPECIAL FEATURES (530+)
             </span>
-          </Link>
-        ))}
-      </div>
+            <h3 className="text-base md:text-lg font-bold text-emerald-950 flex items-center gap-2">
+              <span>📚</span>
+              <span>全国 特集・特設テーマ記事一覧をすべて表示する</span>
+              <span className="text-xs font-normal text-emerald-800/70">（クリックで展開）</span>
+            </h3>
+          </div>
+          <span className="text-xs font-bold text-teal-800 bg-white border border-teal-800/20 px-3 py-1.5 rounded-xl group-open:rotate-180 transition-transform duration-200">
+            ▼
+          </span>
+        </summary>
+
+        <div className="pt-6 mt-4 border-t border-emerald-950/10 space-y-4">
+          <p className="text-xs text-emerald-950/70">
+            季節の絶景、温泉街、おこもり宿、グルメ特化など、全国の厳選特集記事一覧です。気になるテーマをクリックして詳細をご覧ください。
+          </p>
+          <div className="flex flex-wrap gap-2 pt-2">
+            <Link
+              href="/autumn-leaves"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-red-600 via-rose-700 to-amber-700 hover:from-red-500 hover:to-amber-600 rounded-2xl shadow-lg transition border border-red-300/40 flex items-center gap-1.5 animate-pulse"
+            >
+              <span>🍁</span>
+              <span>全国 紅葉露天風呂</span>
+            </Link>
+            <Link
+              href="/silver-week"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-indigo-700 to-teal-800 hover:from-indigo-600 hover:to-teal-700 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>🎯</span>
+              <span>シルバーウィーク人気宿</span>
+            </Link>
+            <Link
+              href="/winter-crab-gourmet"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-orange-600 to-red-700 hover:from-orange-500 hover:to-red-600 rounded-2xl shadow-lg transition border border-orange-300/40 flex items-center gap-1.5"
+            >
+              <span>🦀</span>
+              <span>冬のカニ食べ尽くし宿</span>
+            </Link>
+            <Link
+              href="/winter-snow-onsen"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-slate-700 to-blue-800 hover:from-slate-600 hover:to-blue-700 rounded-2xl shadow-lg transition border border-blue-300/40 flex items-center gap-1.5"
+            >
+              <span>❄️</span>
+              <span>雪見露天風呂＆秘湯</span>
+            </Link>
+            <Link
+              href="/spring-cherry-blossoms"
+              className="px-5 py-3 text-xs md:text-sm font-black text-rose-950 bg-gradient-to-r from-pink-300 to-rose-300 hover:from-pink-200 hover:to-rose-200 rounded-2xl shadow-lg transition border border-pink-200 flex items-center gap-1.5"
+            >
+              <span>🌸</span>
+              <span>桜・お花見絶景宿</span>
+            </Link>
+            <Link
+              href="/summer-infinity-pool"
+              className="px-5 py-3 text-xs md:text-sm font-black text-cyan-950 bg-gradient-to-r from-cyan-300 to-blue-300 hover:from-cyan-200 hover:to-blue-200 rounded-2xl shadow-lg transition border border-cyan-200 flex items-center gap-1.5"
+            >
+              <span>🏊</span>
+              <span>インフィニティプール宿</span>
+            </Link>
+            <Link
+              href="/autumn-gourmet-matsutake-wagyu"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-700 to-rose-900 hover:from-amber-600 hover:to-rose-800 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🍄</span>
+              <span>松茸＆ブランド和牛宿</span>
+            </Link>
+            <Link
+              href="/winter-ski-snowboard-resort"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-cyan-700 to-blue-900 hover:from-cyan-600 hover:to-blue-800 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>⛷️</span>
+              <span>ゲレンデ直結スキー宿</span>
+            </Link>
+            <Link
+              href="/winter-illumination-hotels"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-indigo-800 via-purple-800 to-rose-900 hover:from-indigo-700 hover:to-rose-800 rounded-2xl shadow-lg transition border border-purple-300/40 flex items-center gap-1.5"
+            >
+              <span>✨</span>
+              <span>イルミネーション夜景宿</span>
+            </Link>
+            <Link
+              href="/new-year-hatsumode-onsen"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-red-700 via-amber-700 to-yellow-800 hover:from-red-600 hover:to-amber-700 rounded-2xl shadow-lg transition border border-yellow-300/40 flex items-center gap-1.5"
+            >
+              <span>🌅</span>
+              <span>初詣＆初日の出宿</span>
+            </Link>
+            <Link
+              href="/autumn-wine-fruit-hunting"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-purple-800 to-rose-800 hover:from-purple-700 hover:to-rose-700 rounded-2xl shadow-lg transition border border-purple-300/40 flex items-center gap-1.5"
+            >
+              <span>🍇</span>
+              <span>ワイナリー＆果実狩り宿</span>
+            </Link>
+            <Link
+              href="/winter-hot-pot-gourmet"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-red-700 via-orange-800 to-amber-850 hover:from-red-600 hover:to-orange-700 rounded-2xl shadow-lg transition border border-orange-300/40 flex items-center gap-1.5"
+            >
+              <span>🍲</span>
+              <span>ご当地あったか鍋宿</span>
+            </Link>
+            <Link
+              href="/autumn-winter-sea-of-clouds"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-sky-700 to-indigo-900 hover:from-sky-600 hover:to-indigo-800 rounded-2xl shadow-lg transition border border-sky-300/40 flex items-center gap-1.5"
+            >
+              <span>☁️</span>
+              <span>天空の雲海テラス宿</span>
+            </Link>
+            <Link
+              href="/winter-onsen-town-yukata-walk"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-800 to-stone-900 hover:from-amber-700 hover:to-stone-800 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>👘</span>
+              <span>温泉街・浴衣湯巡り宿</span>
+            </Link>
+            <Link
+              href="/autumn-winter-solo-travel-retreat"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-teal-800 to-slate-900 hover:from-teal-700 hover:to-slate-800 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>👤</span>
+              <span>気ままなおひとり様宿</span>
+            </Link>
+            <Link
+              href="/autumn-winter-sauna-retreat"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-700 to-cyan-900 hover:from-emerald-600 hover:to-cyan-800 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>🧖</span>
+              <span>絶景サウナ＆天然水風呂</span>
+            </Link>
+            <Link
+              href="/winter-starry-sky-astrophotography"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-900 via-indigo-950 to-slate-900 hover:from-blue-800 hover:to-indigo-900 rounded-2xl shadow-lg transition border border-indigo-300/40 flex items-center gap-1.5"
+            >
+              <span>🌌</span>
+              <span>満天の星空観賞宿</span>
+            </Link>
+            <Link
+              href="/autumn-winter-glamping-tent"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-700 via-orange-850 to-stone-900 hover:from-amber-600 hover:to-orange-750 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>⛺</span>
+              <span>焚き火グランピング宿</span>
+            </Link>
+            <Link
+              href="/autumn-winter-hot-spring-cure"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-800 to-teal-950 hover:from-emerald-700 hover:to-teal-900 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>♨️</span>
+              <span>本格源泉かけ流し秘湯</span>
+            </Link>
+            <Link
+              href="/autumn-art-museum-retreat"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-800 via-purple-900 to-slate-900 hover:from-rose-700 hover:to-purple-800 rounded-2xl shadow-lg transition border border-rose-300/40 flex items-center gap-1.5"
+            >
+              <span>🎨</span>
+              <span>名作アート＆美術館宿</span>
+            </Link>
+            <Link
+              href="/winter-bayside-factory-nightview"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-slate-800 via-cyan-950 to-blue-900 hover:from-slate-700 hover:to-cyan-900 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>🏭</span>
+              <span>工場夜景＆ベイサイド宿</span>
+            </Link>
+            <Link
+              href="/winter-snow-drift-ice-cruise"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-sky-800 via-blue-950 to-indigo-900 hover:from-sky-700 hover:to-indigo-800 rounded-2xl shadow-lg transition border border-sky-300/40 flex items-center gap-1.5"
+            >
+              <span>🧊</span>
+              <span>オホーツク流氷クルーズ宿</span>
+            </Link>
+            <Link
+              href="/autumn-winter-brewery-sake-tour"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-800 via-stone-850 to-rose-950 hover:from-amber-700 hover:to-stone-800 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🍶</span>
+              <span>日本酒酒蔵めぐり宿</span>
+            </Link>
+            <Link
+              href="/winter-warm-island-escape"
+              className="px-5 py-3 text-xs md:text-sm font-black text-cyan-950 bg-gradient-to-r from-teal-300 via-cyan-300 to-emerald-300 hover:from-teal-200 hover:to-emerald-200 rounded-2xl shadow-lg transition border border-teal-300 flex items-center gap-1.5"
+            >
+              <span>🌴</span>
+              <span>冬の南国ぽかぽか避寒旅</span>
+            </Link>
+            <Link
+              href="/autumn-temple-garden-lightup"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 via-red-800 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-lg transition border border-rose-300/40 flex items-center gap-1.5"
+            >
+              <span>🏮</span>
+              <span>紅葉庭園ライトアップ宿</span>
+            </Link>
+            <Link
+              href="/autumn-winter-onsen-with-pet"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-750 via-teal-850 to-stone-900 hover:from-emerald-650 hover:to-stone-800 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>🐾</span>
+              <span>愛犬と泊まる温泉宿</span>
+            </Link>
+            <Link
+              href="/winter-oyster-seafood-gourmet"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-700 via-indigo-850 to-teal-900 hover:from-blue-600 hover:to-indigo-750 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>🦪</span>
+              <span>冬の極上牡蠣＆海鮮宿</span>
+            </Link>
+            <Link
+              href="/autumn-winter-train-scenery-station"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-750 via-orange-850 to-rose-900 hover:from-amber-650 hover:to-orange-750 rounded-2xl shadow-lg transition border border-orange-300/40 flex items-center gap-1.5"
+            >
+              <span>🚂</span>
+              <span>絶景観光列車＆駅近宿</span>
+            </Link>
+            <Link
+              href="/autumn-winter-fireplace-cafe-resort"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-stone-800 via-amber-950 to-stone-900 hover:from-stone-700 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🪵</span>
+              <span>暖炉と読書クラシック宿</span>
+            </Link>
+            <Link
+              href="/winter-snow-festival-illumination"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-cyan-700 via-blue-900 to-indigo-950 hover:from-cyan-600 hover:to-blue-800 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>⛄</span>
+              <span>雪まつり＆かまくら宿</span>
+            </Link>
+            <Link
+              href="/autumn-winter-scenic-drive-pass"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-800 via-teal-900 to-sky-950 hover:from-emerald-700 hover:to-teal-800 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>🚗</span>
+              <span>パノラマ絶景ドライブ宿</span>
+            </Link>
+            <Link
+              href="/autumn-winter-private-bath-ryokan"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-900 via-pink-950 to-stone-900 hover:from-rose-800 hover:to-pink-900 rounded-2xl shadow-lg transition border border-rose-300/40 flex items-center gap-1.5"
+            >
+              <span>🛁</span>
+              <span>貸切露天風呂＆部屋食宿</span>
+            </Link>
+            <Link
+              href="/winter-clear-air-fuji-view-hotels"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-sky-850 via-blue-950 to-red-950 hover:from-sky-750 hover:to-red-900 rounded-2xl shadow-lg transition border border-sky-300/40 flex items-center gap-1.5"
+            >
+              <span>🗻</span>
+              <span>冠雪富士ビュー絶景宿</span>
+            </Link>
+            <Link
+              href="/autumn-winter-traditional-ryokan-retro"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-850 via-yellow-950 to-stone-900 hover:from-amber-750 hover:to-stone-800 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🏮</span>
+              <span>大正ロマン文化財老舗宿</span>
+            </Link>
+            <Link
+              href="/winter-snow-fireworks-festivals"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-indigo-850 via-purple-950 to-pink-950 hover:from-indigo-750 hover:to-pink-900 rounded-2xl shadow-lg transition border border-purple-300/40 flex items-center gap-1.5"
+            >
+              <span>🎆</span>
+              <span>冬花火＆雪上花火の宿</span>
+            </Link>
+            <Link
+              href="/autumn-winter-workation-hot-spring"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-teal-850 via-slate-900 to-emerald-950 hover:from-teal-750 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>💻</span>
+              <span>温泉ワーケーション宿</span>
+            </Link>
+            <Link
+              href="/winter-snowshoe-frozen-waterfall"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-sky-750 via-cyan-900 to-blue-950 hover:from-sky-650 hover:to-cyan-850 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>❄️</span>
+              <span>氷瀑＆スノーシュー探検宿</span>
+            </Link>
+            <Link
+              href="/autumn-winter-traditional-craft-pottery"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-800 via-stone-850 to-orange-950 hover:from-amber-700 hover:to-stone-800 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🏺</span>
+              <span>伝統工芸＆陶芸の里宿</span>
+            </Link>
+            <Link
+              href="/autumn-winter-all-inclusive-luxury"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-purple-850 via-indigo-950 to-rose-950 hover:from-purple-750 hover:to-indigo-900 rounded-2xl shadow-lg transition border border-purple-300/40 flex items-center gap-1.5"
+            >
+              <span>🍹</span>
+              <span>極上オールインクルーシブ</span>
+            </Link>
+            <Link
+              href="/autumn-winter-strawberry-picking-resort"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-red-650 via-rose-800 to-pink-900 hover:from-red-550 hover:to-rose-700 rounded-2xl shadow-lg transition border border-rose-300/40 flex items-center gap-1.5"
+            >
+              <span>🍓</span>
+              <span>いちご狩り＆温泉宿</span>
+            </Link>
+            <Link
+              href="/autumn-winter-sacred-power-spot"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-850 via-teal-950 to-stone-900 hover:from-emerald-750 hover:to-teal-900 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>⛩️</span>
+              <span>開運パワースポット＆宿坊</span>
+            </Link>
+            <Link
+              href="/kyoto-arashiyama-bamboo-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-800 via-teal-900 to-rose-900 hover:from-emerald-700 hover:to-rose-800 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>🎋</span>
+              <span>京都・嵐山竹林の小径宿</span>
+            </Link>
+            <Link
+              href="/hakone-gora-luxury-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-slate-800 via-amber-900 to-rose-950 hover:from-slate-700 hover:to-amber-850 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>♨️</span>
+              <span>箱根・強羅にごり湯宿</span>
+            </Link>
+            <Link
+              href="/nikko-chuzenji-lake-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-sky-800 via-blue-950 to-teal-950 hover:from-sky-700 hover:to-blue-900 rounded-2xl shadow-lg transition border border-sky-300/40 flex items-center gap-1.5"
+            >
+              <span>🌊</span>
+              <span>奥日光・中禅寺湖畔宿</span>
+            </Link>
+            <Link
+              href="/kumamoto-kurokawa-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-850 via-stone-900 to-emerald-950 hover:from-amber-750 hover:to-stone-850 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🪵</span>
+              <span>熊本・黒川温泉手形宿</span>
+            </Link>
+            <Link
+              href="/mie-ise-shima-gourmet-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-800 via-amber-850 to-yellow-900 hover:from-rose-700 hover:to-amber-750 rounded-2xl shadow-lg transition border border-yellow-300/40 flex items-center gap-1.5"
+            >
+              <span>⛩️</span>
+              <span>伊勢神宮＆伊勢海老宿</span>
+            </Link>
+            <Link
+              href="/kanagawa-kamakura-shonan-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-750 via-cyan-900 to-indigo-950 hover:from-blue-650 hover:to-cyan-850 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>🌊</span>
+              <span>鎌倉・湘南・江の島宿</span>
+            </Link>
+            <Link
+              href="/hyogo-kinosaki-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-stone-800 via-rose-950 to-amber-950 hover:from-stone-700 hover:to-rose-900 rounded-2xl shadow-lg transition border border-rose-300/40 flex items-center gap-1.5"
+            >
+              <span>🦀</span>
+              <span>城崎温泉・外湯＆カニ宿</span>
+            </Link>
+            <Link
+              href="/nagano-karuizawa-kyu-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-850 via-teal-950 to-stone-900 hover:from-emerald-750 hover:to-teal-900 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>🌲</span>
+              <span>軽井沢ハルニレテラス宿</span>
+            </Link>
+            <Link
+              href="/ishikawa-noto-wakura-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-indigo-850 via-blue-950 to-cyan-950 hover:from-indigo-750 hover:to-blue-900 rounded-2xl shadow-lg transition border border-blue-300/40 flex items-center gap-1.5"
+            >
+              <span>🐟</span>
+              <span>能登和倉温泉・寒ブリ宿</span>
+            </Link>
+            <Link
+              href="/oita-yufuin-kinrin-lake-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-teal-850 via-emerald-950 to-amber-950 hover:from-teal-750 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>♨️</span>
+              <span>由布院・金鱗湖朝霧宿</span>
+            </Link>
+            <Link
+              href="/gunma-kusatsu-yubatake-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-850 via-teal-950 to-amber-950 hover:from-emerald-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>♨️</span>
+              <span>草津温泉・湯畑＆湯もみ宿</span>
+            </Link>
+            <Link
+              href="/gifu-takayama-sanmachi-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-stone-850 via-amber-950 to-orange-950 hover:from-stone-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🏮</span>
+              <span>飛騨高山・古い町並宿</span>
+            </Link>
+            <Link
+              href="/kanagawa-hakone-ashinoko-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-sky-850 via-blue-950 to-teal-950 hover:from-sky-750 hover:to-blue-900 rounded-2xl shadow-lg transition border border-sky-300/40 flex items-center gap-1.5"
+            >
+              <span>⛩️</span>
+              <span>箱根・芦ノ湖鳥居＆富士宿</span>
+            </Link>
+            <Link
+              href="/nagano-kamikochi-azusa-river-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-teal-850 via-emerald-950 to-slate-900 hover:from-teal-750 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>⛰️</span>
+              <span>上高地・河童橋穂高連峰宿</span>
+            </Link>
+            <Link
+              href="/hiroshima-miyajima-itsukushima-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-850 via-red-950 to-amber-950 hover:from-rose-750 hover:to-red-900 rounded-2xl shadow-lg transition border border-rose-300/40 flex items-center gap-1.5"
+            >
+              <span>⛩️</span>
+              <span>宮島・嚴島神社大鳥居宿</span>
+            </Link>
+            <Link
+              href="/yamagata-ginzan-onsen-retro-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-850 via-stone-900 to-orange-950 hover:from-amber-750 hover:to-orange-900 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🏮</span>
+              <span>山形・銀山温泉ガス灯宿</span>
+            </Link>
+            <Link
+              href="/tochigi-kinugawa-onsen-valley-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-850 via-teal-950 to-slate-900 hover:from-emerald-750 hover:to-teal-900 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>🌉</span>
+              <span>鬼怒川温泉・渓谷吊橋宿</span>
+            </Link>
+            <Link
+              href="/nagano-shibu-onsen-retro-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-stone-850 via-amber-950 to-rose-950 hover:from-stone-750 hover:to-rose-900 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🐒</span>
+              <span>渋温泉・九湯＆金具屋宿</span>
+            </Link>
+            <Link
+              href="/ehime-matsuyama-dogo-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-orange-850 via-amber-950 to-red-950 hover:from-orange-750 hover:to-red-900 rounded-2xl shadow-lg transition border border-orange-300/40 flex items-center gap-1.5"
+            >
+              <span>♨️</span>
+              <span>道後温泉本館＆鯛めし宿</span>
+            </Link>
+            <Link
+              href="/toyama-unazuki-kurobe-gorge-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-cyan-850 via-blue-950 to-teal-950 hover:from-cyan-750 hover:to-blue-900 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>🚂</span>
+              <span>宇奈月温泉・黒部トロッコ宿</span>
+            </Link>
+            <Link
+              href="/shizuoka-atami-bayside-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-750 via-cyan-900 to-rose-950 hover:from-blue-650 hover:to-rose-900 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>🎆</span>
+              <span>熱海温泉・海上花火＆海宿</span>
+            </Link>
+            <Link
+              href="/gunma-ikaho-stairs-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-850 via-stone-900 to-orange-950 hover:from-amber-750 hover:to-orange-900 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🪜</span>
+              <span>伊香保温泉・石段＆黄金湯宿</span>
+            </Link>
+            <Link
+              href="/mie-toba-iseshima-bay-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-teal-850 via-blue-950 to-indigo-950 hover:from-teal-750 hover:to-blue-900 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>🐬</span>
+              <span>鳥羽温泉郷・水族館＆伊勢海老宿</span>
+            </Link>
+            <Link
+              href="/nagasaki-unzen-onsen-hell-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-stone-850 via-rose-950 to-amber-950 hover:from-stone-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-rose-300/40 flex items-center gap-1.5"
+            >
+              <span>♨️</span>
+              <span>雲仙温泉・地獄＆洋館宿</span>
+            </Link>
+            <Link
+              href="/okayama-kurashiki-bikan-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-850 via-teal-950 to-slate-900 hover:from-emerald-750 hover:to-teal-900 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>🛶</span>
+              <span>倉敷美観地区・白壁土蔵宿</span>
+            </Link>
+            <Link
+              href="/mie-shima-kashikojima-resort-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-850 via-yellow-950 to-stone-900 hover:from-amber-750 hover:to-stone-850 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🏝️</span>
+              <span>志摩賢島・英虞湾リゾート</span>
+            </Link>
+            <Link
+              href="/tochigi-nasu-highland-nature-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-850 via-teal-950 to-stone-900 hover:from-emerald-750 hover:to-teal-900 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>🌲</span>
+              <span>那須高原・鹿の湯＆森の宿</span>
+            </Link>
+            <Link
+              href="/kyoto-ujigawa-greentea-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-teal-850 via-emerald-950 to-amber-950 hover:from-teal-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>🍵</span>
+              <span>京都宇治・平等院＆茶宿</span>
+            </Link>
+            <Link
+              href="/oita-beppu-hell-hotspring-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-red-750 via-rose-950 to-orange-950 hover:from-red-650 hover:to-orange-900 rounded-2xl shadow-lg transition border border-red-300/40 flex items-center gap-1.5"
+            >
+              <span>♨️</span>
+              <span>別府地獄めぐり＆鉄輪蒸し宿</span>
+            </Link>
+            <Link
+              href="/kanagawa-yugawara-onsen-bangei-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-stone-850 via-slate-900 to-amber-950 hover:from-stone-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-stone-300/40 flex items-center gap-1.5"
+            >
+              <span>📚</span>
+              <span>湯河原温泉・文豪万葉宿</span>
+            </Link>
+            <Link
+              href="/hyogo-kobe-arima-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-850 via-yellow-950 to-orange-950 hover:from-amber-750 hover:to-orange-900 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>♨️</span>
+              <span>有馬温泉・金泉銀泉＆神戸牛宿</span>
+            </Link>
+            <Link
+              href="/yamanashi-fujigoko-kawaguchiko-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-sky-850 via-blue-950 to-teal-950 hover:from-sky-750 hover:to-blue-900 rounded-2xl shadow-lg transition border border-sky-300/40 flex items-center gap-1.5"
+            >
+              <span>🗻</span>
+              <span>河口湖・逆さ富士＆ほうとう宿</span>
+            </Link>
+            <Link
+              href="/shizuoka-izu-shuzenji-bamboo-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-850 via-teal-950 to-stone-900 hover:from-emerald-750 hover:to-stone-850 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>🎋</span>
+              <span>伊豆修善寺・竹林小径＆わさび宿</span>
+            </Link>
+            <Link
+              href="/nagano-hakuba-happo-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-cyan-850 via-blue-950 to-slate-900 hover:from-cyan-750 hover:to-slate-800 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>⛰️</span>
+              <span>白馬八方尾根・絶景テラス宿</span>
+            </Link>
+            <Link
+              href="/ishikawa-kaga-onsen-valley-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-850 via-red-950 to-amber-950 hover:from-rose-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-rose-300/40 flex items-center gap-1.5"
+            >
+              <span>🦀</span>
+              <span>加賀温泉郷・鶴仙渓＆カニ宿</span>
+            </Link>
+            <Link
+              href="/miyagi-matsushima-bay-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-850 via-cyan-950 to-teal-950 hover:from-blue-750 hover:to-cyan-900 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>🌊</span>
+              <span>日本三景松島・牡蠣＆湾宿</span>
+            </Link>
+            <Link
+              href="/yamagata-zao-onsen-frost-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-cyan-850 via-blue-950 to-slate-900 hover:from-cyan-750 hover:to-blue-900 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>❄️</span>
+              <span>蔵王温泉・樹氷＆強酸性硫黄宿</span>
+            </Link>
+            <Link
+              href="/hokkaido-shiretoko-utoro-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-teal-850 via-blue-950 to-stone-900 hover:from-teal-750 hover:to-blue-900 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>🐻</span>
+              <span>世界遺産知床・流氷＆鮭宿</span>
+            </Link>
+            <Link
+              href="/kagoshima-ibusuki-sand-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-850 via-amber-950 to-orange-950 hover:from-rose-750 hover:to-orange-900 rounded-2xl shadow-lg transition border border-orange-300/40 flex items-center gap-1.5"
+            >
+              <span>🏖️</span>
+              <span>指宿温泉・天然砂むし＆黒豚宿</span>
+            </Link>
+            <Link
+              href="/nagano-shigakogen-shibutoge-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-850 via-teal-950 to-slate-900 hover:from-emerald-750 hover:to-teal-900 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>☁️</span>
+              <span>志賀高原渋峠・雲海＆熊の湯宿</span>
+            </Link>
+            <Link
+              href="/shimane-izumo-tamatsukuri-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-stone-850 via-rose-950 to-amber-950 hover:from-stone-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-rose-300/40 flex items-center gap-1.5"
+            >
+              <span>⛩️</span>
+              <span>出雲大社＆玉造美肌温泉宿</span>
+            </Link>
+            <Link
+              href="/miyazaki-takachiho-gorge-myth-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-850 via-teal-950 to-amber-950 hover:from-emerald-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>🛶</span>
+              <span>高千穂峡・神楽＆宮崎牛宿</span>
+            </Link>
+            <Link
+              href="/aomori-oirase-towada-nature-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-teal-850 via-emerald-950 to-blue-950 hover:from-teal-750 hover:to-blue-900 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>🌿</span>
+              <span>奥入瀬渓流＆十和田湖畔宿</span>
+            </Link>
+            <Link
+              href="/toyama-tateyama-kurobe-alpen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-sky-850 via-blue-950 to-slate-900 hover:from-sky-750 hover:to-slate-800 rounded-2xl shadow-lg transition border border-sky-300/40 flex items-center gap-1.5"
+            >
+              <span>🏔️</span>
+              <span>立山黒部・雪の大谷＆雲上宿</span>
+            </Link>
+            <Link
+              href="/hyogo-awaji-naruto-whirlpool-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-850 via-cyan-950 to-orange-950 hover:from-blue-750 hover:to-orange-900 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>🌀</span>
+              <span>淡路島・うずしお＆淡路牛宿</span>
+            </Link>
+            <Link
+              href="/kyoto-amanohashidate-ine-funaya-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-teal-850 via-cyan-950 to-blue-950 hover:from-teal-750 hover:to-blue-900 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>⛵</span>
+              <span>天橋立＆伊根の舟屋宿</span>
+            </Link>
+            <Link
+              href="/wakayama-shirahama-beach-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-750 via-teal-900 to-amber-950 hover:from-blue-650 hover:to-teal-850 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>🐼</span>
+              <span>南紀白浜・白良浜＆クエ宿</span>
+            </Link>
+            <Link
+              href="/iwate-hiraizumi-chusonji-heritage-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-850 via-yellow-950 to-stone-900 hover:from-amber-750 hover:to-yellow-900 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🏛️</span>
+              <span>平泉中尊寺＆前沢牛宿</span>
+            </Link>
+            <Link
+              href="/nagasaki-huistenbosch-sasebo-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-850 via-red-950 to-indigo-950 hover:from-rose-750 hover:to-red-900 rounded-2xl shadow-lg transition border border-rose-300/40 flex items-center gap-1.5"
+            >
+              <span>🏰</span>
+              <span>ハウステンボス＆佐世保宿</span>
+            </Link>
+            <Link
+              href="/kagawa-shodoshima-olive-beach-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-850 via-teal-950 to-amber-950 hover:from-emerald-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>🫒</span>
+              <span>小豆島・天使の道＆オリーブ宿</span>
+            </Link>
+            <Link
+              href="/nagano-achi-hirugami-starry-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-indigo-850 via-purple-950 to-pink-950 hover:from-indigo-750 hover:to-pink-900 rounded-2xl shadow-lg transition border border-purple-300/40 flex items-center gap-1.5"
+            >
+              <span>✨</span>
+              <span>阿智村星空＆昼神美肌湯宿</span>
+            </Link>
+            <Link
+              href="/shizuoka-izu-shimoda-beach-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-750 via-teal-900 to-rose-950 hover:from-blue-650 hover:to-rose-900 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>🌊</span>
+              <span>伊豆下田・白浜＆金目鯛宿</span>
+            </Link>
+            <Link
+              href="/yamanashi-yatsugatake-kiyosato-resort-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-850 via-teal-950 to-indigo-950 hover:from-emerald-750 hover:to-indigo-900 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>🌲</span>
+              <span>八ヶ岳清里テラス＆星空宿</span>
+            </Link>
+            <Link
+              href="/ehime-shimanami-kaido-imabari-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-cyan-850 via-blue-950 to-teal-950 hover:from-cyan-750 hover:to-blue-900 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>🚴</span>
+              <span>しまなみ海道＆来島鯛宿</span>
+            </Link>
+            <Link
+              href="/saga-ureshino-takeo-bihada-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-850 via-amber-950 to-emerald-950 hover:from-rose-750 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-rose-300/40 flex items-center gap-1.5"
+            >
+              <span>♨️</span>
+              <span>嬉野・武雄美肌湯＆佐賀牛宿</span>
+            </Link>
+            <Link
+              href="/family-baby-welcome-onsen"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-600 via-orange-600 to-yellow-600 hover:from-amber-500 hover:to-yellow-500 rounded-2xl shadow-lg transition border border-yellow-300/40 flex items-center gap-1.5"
+            >
+              <span>🍼</span>
+              <span>赤ちゃん・子連れ歓迎温泉宿</span>
+            </Link>
+            <Link
+              href="/three-generation-family-celebration-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-red-700 via-rose-800 to-amber-900 hover:from-red-600 hover:to-amber-800 rounded-2xl shadow-lg transition border border-rose-300/40 flex items-center gap-1.5"
+            >
+              <span>👴👵</span>
+              <span>三世代・還暦長寿祝い宿</span>
+            </Link>
+            <Link
+              href="/girls-trip-spa-afternoontea-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-pink-700 via-rose-800 to-purple-900 hover:from-pink-600 hover:to-purple-800 rounded-2xl shadow-lg transition border border-pink-300/40 flex items-center gap-1.5"
+            >
+              <span>🫖</span>
+              <span>女子旅・スパ＆アフタヌーンティー宿</span>
+            </Link>
+            <Link
+              href="/solo-travel-retreat-private-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-teal-800 via-emerald-900 to-slate-900 hover:from-teal-700 hover:to-slate-800 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>📖</span>
+              <span>大人のひとり温泉旅・おこもり宿</span>
+            </Link>
+            <Link
+              href="/anniversary-propose-luxury-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-950 bg-gradient-to-r from-amber-300 via-amber-200 to-yellow-400 hover:from-amber-200 hover:to-yellow-300 rounded-2xl shadow-lg transition border border-amber-300 flex items-center gap-1.5"
+            >
+              <span>💍</span>
+              <span>記念日・プロポーズ極上宿</span>
+            </Link>
+            <Link
+              href="/heritage-cultural-wooden-ryokan"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-900 via-stone-900 to-yellow-950 hover:from-amber-800 hover:to-stone-850 rounded-2xl shadow-lg transition border border-amber-400/40 flex items-center gap-1.5"
+            >
+              <span>🏛️</span>
+              <span>登録有形文化財・宮大工木造宿</span>
+            </Link>
+            <Link
+              href="/pure-100-percent-kakenagashi-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-teal-900 via-emerald-950 to-blue-950 hover:from-teal-800 hover:to-blue-900 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>♨️</span>
+              <span>自家源泉100%完全かけ流し宿</span>
+            </Link>
+            <Link
+              href="/michelin-auberge-gourmet-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-900 via-red-950 to-purple-950 hover:from-rose-800 hover:to-purple-900 rounded-2xl shadow-lg transition border border-rose-300/40 flex items-center gap-1.5"
+            >
+              <span>🍽️</span>
+              <span>極上美食オーベルジュ温泉宿</span>
+            </Link>
+            <Link
+              href="/kominka-villa-kura-sauna-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-stone-850 via-amber-950 to-emerald-950 hover:from-stone-750 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🛖</span>
+              <span>古民家一棟貸し＆蔵サウナ宿</span>
+            </Link>
+            <Link
+              href="/infinity-open-air-bath-ocean-view-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-cyan-850 via-blue-950 to-teal-950 hover:from-cyan-750 hover:to-blue-900 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>🌅</span>
+              <span>絶景インフィニティ露天風呂宿</span>
+            </Link>
+            <Link
+              href="/tottori-kaike-onsen-daisen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-850 via-teal-950 to-amber-950 hover:from-blue-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>🦀</span>
+              <span>皆生温泉＆伯耆大山カニ宿</span>
+            </Link>
+            <Link
+              href="/fukushima-aizu-ashinomaki-ouchijuku-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-red-850 via-amber-950 to-stone-900 hover:from-red-750 hover:to-stone-850 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🐱</span>
+              <span>会津芦ノ牧温泉＆大内宿</span>
+            </Link>
+            <Link
+              href="/gifu-gero-onsen-heritage-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-850 via-teal-950 to-amber-950 hover:from-emerald-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>♨️</span>
+              <span>下呂温泉・三名泉＆飛騨牛宿</span>
+            </Link>
+            <Link
+              href="/shizuoka-izu-ito-jogasaki-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-indigo-850 via-blue-950 to-teal-950 hover:from-indigo-750 hover:to-teal-900 rounded-2xl shadow-lg transition border border-blue-300/40 flex items-center gap-1.5"
+            >
+              <span>🌉</span>
+              <span>伊東温泉・城ヶ崎＆地魚宿</span>
+            </Link>
+            <Link
+              href="/niigata-echigo-yuzawa-snow-sake-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-cyan-850 via-blue-950 to-slate-900 hover:from-cyan-750 hover:to-slate-800 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>🍶</span>
+              <span>越後湯沢・ぽんしゅ館＆米宿</span>
+            </Link>
+            <Link
+              href="/shinkansen-direct-walk-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-800 via-indigo-900 to-slate-900 hover:from-blue-700 hover:to-slate-800 rounded-2xl shadow-lg transition border border-blue-300/40 flex items-center gap-1.5"
+            >
+              <span>🚅</span>
+              <span>新幹線直結・徒歩5分温泉宿</span>
+            </Link>
+            <Link
+              href="/scenic-tourist-train-onsen-trip-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-teal-850 via-emerald-950 to-amber-950 hover:from-teal-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>🚃</span>
+              <span>観光列車＆名門極上温泉宿</span>
+            </Link>
+            <Link
+              href="/airport-access-direct-resort-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-sky-850 via-blue-950 to-indigo-950 hover:from-sky-750 hover:to-indigo-900 rounded-2xl shadow-lg transition border border-sky-300/40 flex items-center gap-1.5"
+            >
+              <span>✈️</span>
+              <span>空港直行・展望天然温泉リゾート</span>
+            </Link>
+            <Link
+              href="/drive-touring-garage-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-850 via-orange-950 to-stone-900 hover:from-amber-750 hover:to-stone-850 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🏎️</span>
+              <span>愛車・絶景ドライブ＆ガレージ宿</span>
+            </Link>
+            <Link
+              href="/highway-express-bus-direct-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-850 via-red-950 to-amber-950 hover:from-rose-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-rose-300/40 flex items-center gap-1.5"
+            >
+              <span>🚌</span>
+              <span>高速バス直行・ターミナル宿</span>
+            </Link>
+            <Link
+              href="/kumamoto-aso-caldera-minamiaso-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-850 via-teal-950 to-amber-950 hover:from-emerald-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>🌋</span>
+              <span>阿蘇カルデラ＆あか牛宿</span>
+            </Link>
+            <Link
+              href="/tochigi-okunikko-yumoto-nature-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-teal-850 via-cyan-950 to-slate-900 hover:from-teal-750 hover:to-slate-800 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>♨️</span>
+              <span>奥日光湯元・硫黄泉＆湯波宿</span>
+            </Link>
+            <Link
+              href="/nagano-matsumoto-asama-utsukushigahara-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-stone-850 via-slate-900 to-amber-950 hover:from-stone-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🏯</span>
+              <span>松本城・美ヶ原雲海＆そば宿</span>
+            </Link>
+            <Link
+              href="/yamaguchi-hagi-nagato-yumoto-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-850 via-pink-950 to-stone-900 hover:from-rose-750 hover:to-stone-850 rounded-2xl shadow-lg transition border border-rose-300/40 flex items-center gap-1.5"
+            >
+              <span>🏮</span>
+              <span>萩・長門湯本川床＆瓦そば宿</span>
+            </Link>
+            <Link
+              href="/hokkaido-furano-biei-lavender-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-purple-850 via-indigo-950 to-blue-950 hover:from-purple-750 hover:to-blue-900 rounded-2xl shadow-lg transition border border-purple-300/40 flex items-center gap-1.5"
+            >
+              <span>🪻</span>
+              <span>富良野美瑛・青い池＆和牛宿</span>
+            </Link>
+            <Link
+              href="/japan-top-brand-wagyu-beef-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-red-850 via-amber-950 to-stone-900 hover:from-red-750 hover:to-stone-850 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🥩</span>
+              <span>日本五大ブランド和牛極上宿</span>
+            </Link>
+            <Link
+              href="/japan-winter-crab-fugu-seafood-feast-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-orange-850 via-red-950 to-blue-950 hover:from-orange-750 hover:to-blue-900 rounded-2xl shadow-lg transition border border-orange-300/40 flex items-center gap-1.5"
+            >
+              <span>🦀</span>
+              <span>冬の四大味覚（カニ・ふぐ・寒ブリ）宿</span>
+            </Link>
+            <Link
+              href="/japan-best-breakfast-buffet-hotels-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-950 bg-gradient-to-r from-amber-300 via-yellow-200 to-amber-400 hover:from-amber-200 hover:to-yellow-300 rounded-2xl shadow-lg transition border border-amber-300 flex items-center gap-1.5"
+            >
+              <span>🥐</span>
+              <span>朝食の美味しいホテル日本一</span>
+            </Link>
+            <Link
+              href="/japan-top-brand-jidori-chicken-feast-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-850 via-stone-900 to-orange-950 hover:from-amber-750 hover:to-stone-850 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🐓</span>
+              <span>日本三大地鶏＆銘柄鶏の宿</span>
+            </Link>
+            <Link
+              href="/japan-seafood-sushi-kaiseki-luxury-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-cyan-850 via-blue-950 to-teal-950 hover:from-cyan-750 hover:to-blue-900 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>🍣</span>
+              <span>極上海鮮寿司＆大漁舟盛り名宿</span>
+            </Link>
+            <Link
+              href="/iwate-hanamaki-tono-ihatov-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-850 via-teal-950 to-slate-900 hover:from-emerald-750 hover:to-slate-800 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>🧚</span>
+              <span>花巻温泉郷・遠野民話＆白金豚宿</span>
+            </Link>
+            <Link
+              href="/miyagi-akiu-sakunami-sendai-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-teal-850 via-indigo-950 to-amber-950 hover:from-teal-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>🍁</span>
+              <span>秋保作並温泉・磊々峡＆仙台牛宿</span>
+            </Link>
+            <Link
+              href="/yamagata-tendo-yamadera-cherry-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-red-850 via-amber-950 to-stone-900 hover:from-red-750 hover:to-stone-850 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🍒</span>
+              <span>天童温泉・山寺立石寺＆山形牛宿</span>
+            </Link>
+            <Link
+              href="/wakayama-nachikatsuura-kumano-kodo-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-850 via-indigo-950 to-cyan-950 hover:from-blue-750 hover:to-cyan-900 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>🐟</span>
+              <span>那智勝浦・那智滝＆生マグロ洞窟宿</span>
+            </Link>
+            <Link
+              href="/tokushima-naruto-otsuka-museum-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-sky-850 via-blue-950 to-amber-950 hover:from-sky-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-sky-300/40 flex items-center gap-1.5"
+            >
+              <span>🎨</span>
+              <span>鳴門渦潮・大塚国際美術館＆鯛宿</span>
+            </Link>
+            <Link
+              href="/modern-toji-fasting-detox-retreat-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-800 via-teal-900 to-amber-950 hover:from-emerald-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>🥗</span>
+              <span>現代版プチ湯治＆ファスティング宿</span>
+            </Link>
+            <Link
+              href="/forest-private-sauna-spring-water-retreat-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-teal-850 via-slate-900 to-cyan-950 hover:from-teal-750 hover:to-slate-800 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>🪵</span>
+              <span>森のプライベートサウナ＆天然水宿</span>
+            </Link>
+            <Link
+              href="/scenic-yoga-mindfulness-forest-therapy-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-cyan-850 via-sky-950 to-emerald-950 hover:from-cyan-750 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>🧘</span>
+              <span>絶景ヨガ＆森林セラピーリゾート</span>
+            </Link>
+            <Link
+              href="/hot-spring-mud-pack-thalasso-spa-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-indigo-850 via-purple-950 to-pink-950 hover:from-indigo-750 hover:to-pink-900 rounded-2xl shadow-lg transition border border-purple-300/40 flex items-center gap-1.5"
+            >
+              <span>🫧</span>
+              <span>温泉泥パック＆タラソテラピー宿</span>
+            </Link>
+            <Link
+              href="/hot-spring-cure-workation-quiet-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-stone-850 via-slate-900 to-blue-950 hover:from-stone-750 hover:to-blue-900 rounded-2xl shadow-lg transition border border-slate-300/40 flex items-center gap-1.5"
+            >
+              <span>💻</span>
+              <span>静寂の長期滞在＆温泉ワーケーション</span>
+            </Link>
+            <Link
+              href="/shizuoka-hamanako-kanzanji-unagi-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-850 via-teal-950 to-amber-950 hover:from-blue-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>⛵</span>
+              <span>浜名湖・舘山寺温泉＆うなぎ宿</span>
+            </Link>
+            <Link
+              href="/aichi-chita-minamichita-himakajima-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-teal-850 via-cyan-950 to-orange-950 hover:from-teal-750 hover:to-orange-900 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>🐙</span>
+              <span>南知多・日間賀島タコ＆知多牛宿</span>
+            </Link>
+            <Link
+              href="/hyogo-awaji-north-sumoto-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-sky-850 via-blue-950 to-amber-950 hover:from-sky-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-sky-300/40 flex items-center gap-1.5"
+            >
+              <span>🧅</span>
+              <span>淡路島・花さじき洲本＆淡路牛宿</span>
+            </Link>
+            <Link
+              href="/saga-karatsu-yobuko-squid-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-indigo-850 via-blue-950 to-emerald-950 hover:from-indigo-750 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-blue-300/40 flex items-center gap-1.5"
+            >
+              <span>🦑</span>
+              <span>唐津・虹の松原＆呼子活イカ宿</span>
+            </Link>
+            <Link
+              href="/kagoshima-kirishima-jingu-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-red-850 via-amber-950 to-stone-900 hover:from-red-750 hover:to-stone-850 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>⛩️</span>
+              <span>霧島神宮・硫黄泉＆黒豚しゃぶ宿</span>
+            </Link>
+            <Link
+              href="/japan-top-night-view-luxury-hotel-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-indigo-900 via-purple-950 to-slate-900 hover:from-indigo-800 hover:to-slate-800 rounded-2xl shadow-lg transition border border-indigo-300/40 flex items-center gap-1.5"
+            >
+              <span>🌃</span>
+              <span>日本三大夜景＆摩天楼ホテル</span>
+            </Link>
+            <Link
+              href="/japan-starry-sky-astrophotography-resort-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-slate-900 via-blue-950 to-indigo-950 hover:from-slate-800 hover:to-indigo-900 rounded-2xl shadow-lg transition border border-blue-300/40 flex items-center gap-1.5"
+            >
+              <span>🌌</span>
+              <span>満天の星空＆星空案内人の宿</span>
+            </Link>
+            <Link
+              href="/japan-sea-of-clouds-terrace-infinity-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-sky-850 via-blue-950 to-slate-900 hover:from-sky-750 hover:to-slate-800 rounded-2xl shadow-lg transition border border-sky-300/40 flex items-center gap-1.5"
+            >
+              <span>☁️</span>
+              <span>雲海テラス＆天空露天風呂宿</span>
+            </Link>
+            <Link
+              href="/japan-fuji-view-private-open-air-bath-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-850 via-indigo-950 to-teal-950 hover:from-blue-750 hover:to-teal-900 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>🗻</span>
+              <span>富士山ビュー客室露天風呂宿</span>
+            </Link>
+            <Link
+              href="/japan-ocean-cliff-sunset-view-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-orange-850 via-rose-950 to-amber-950 hover:from-orange-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-orange-300/40 flex items-center gap-1.5"
+            >
+              <span>🌅</span>
+              <span>断崖オーシャン＆夕陽パノラマ宿</span>
+            </Link>
+            <Link
+              href="/nagasaki-hirado-sasebo-kujukushima-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-850 via-indigo-950 to-amber-950 hover:from-blue-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-blue-300/40 flex items-center gap-1.5"
+            >
+              <span>🏰</span>
+              <span>平戸城・九十九島＆天然ヒラメ宿</span>
+            </Link>
+            <Link
+              href="/miyazaki-nichinan-aoshima-coast-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-teal-850 via-cyan-950 to-orange-950 hover:from-teal-750 hover:to-orange-900 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>🗿</span>
+              <span>青島・鬼の洗濯板＆日南宮崎牛宿</span>
+            </Link>
+            <Link
+              href="/toyama-himi-amaharashi-tateyama-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-sky-850 via-blue-950 to-amber-950 hover:from-sky-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-sky-300/40 flex items-center gap-1.5"
+            >
+              <span>🐟</span>
+              <span>雨晴立山連峰・女岩＆ひみ寒ぶり宿</span>
+            </Link>
+            <Link
+              href="/kyoto-uji-fushimi-sake-matcha-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-850 via-teal-950 to-rose-950 hover:from-emerald-750 hover:to-rose-900 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>🍵</span>
+              <span>宇治平等院抹茶＆伏見酒蔵十石舟宿</span>
+            </Link>
+            <Link
+              href="/hiroshima-onomichi-shimanami-mukoujima-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-indigo-850 via-blue-950 to-amber-950 hover:from-indigo-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-blue-300/40 flex items-center gap-1.5"
+            >
+              <span>🚲</span>
+              <span>尾道千光寺坂の街＆しまなみ宿</span>
+            </Link>
+            <Link
+              href="/japan-national-treasure-castle-heritage-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-stone-850 via-amber-950 to-slate-900 hover:from-stone-750 hover:to-slate-800 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🏯</span>
+              <span>国宝五城＆現存十二天守を巡る宿</span>
+            </Link>
+            <Link
+              href="/japan-post-town-nakasendo-edo-highway-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-850 via-stone-900 to-orange-950 hover:from-amber-750 hover:to-orange-900 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🏮</span>
+              <span>中山道木曽路・宿場町＆旧街道宿</span>
+            </Link>
+            <Link
+              href="/japan-sacred-pilgrimage-koyasan-shukubo-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-teal-850 via-emerald-950 to-slate-900 hover:from-teal-750 hover:to-slate-800 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>📿</span>
+              <span>世界遺産霊場＆高野山宿坊体験宿</span>
+            </Link>
+            <Link
+              href="/japan-bakumatsu-ishin-samurai-history-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-850 via-red-950 to-stone-900 hover:from-blue-750 hover:to-stone-850 rounded-2xl shadow-lg transition border border-red-300/40 flex items-center gap-1.5"
+            >
+              <span>⚔️</span>
+              <span>幕末維新・萩会津高知龍馬の宿</span>
+            </Link>
+            <Link
+              href="/japan-traditional-townscape-preservation-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-850 via-amber-950 to-teal-950 hover:from-rose-750 hover:to-teal-900 rounded-2xl shadow-lg transition border border-rose-300/40 flex items-center gap-1.5"
+            >
+              <span>🏘️</span>
+              <span>重要伝統的町並み（重伝建）の宿</span>
+            </Link>
+            <Link
+              href="/yamagata-sakata-tsuruoka-shonai-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-teal-850 via-cyan-950 to-amber-950 hover:from-teal-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>🌾</span>
+              <span>酒田山居倉庫・羽黒山＆庄内豚宿</span>
+            </Link>
+            <Link
+              href="/chiba-choshi-kujukuri-inubosaki-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-850 via-indigo-950 to-amber-950 hover:from-blue-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🌅</span>
+              <span>犬吠埼日の出・銚子電鉄＆金目鯛宿</span>
+            </Link>
+            <Link
+              href="/shizuoka-south-izu-shimoda-beach-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-cyan-850 via-teal-950 to-rose-950 hover:from-cyan-750 hover:to-rose-900 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>⚓</span>
+              <span>下田ペリーロード・ヒリゾ浜＆金目鯛宿</span>
+            </Link>
+            <Link
+              href="/shimane-tsuwano-masuda-sanin-kyoto-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-red-850 via-amber-950 to-stone-900 hover:from-red-750 hover:to-stone-850 rounded-2xl shadow-lg transition border border-red-300/40 flex items-center gap-1.5"
+            >
+              <span>🎏</span>
+              <span>津和野掘割の鯉・太皷谷稲成＆神楽宿</span>
+            </Link>
+            <Link
+              href="/okinawa-miyakojima-irabu-kurima-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-cyan-950 bg-gradient-to-r from-cyan-300 via-teal-300 to-sky-200 hover:from-cyan-200 hover:to-sky-100 rounded-2xl shadow-lg transition border border-cyan-200 flex items-center gap-1.5"
+            >
+              <span>🏝️</span>
+              <span>宮古ブルー・与那覇前浜＆宮古牛宿</span>
+            </Link>
+            <Link
+              href="/tokyo-disney-resort-partner-official-hotel-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-pink-850 via-purple-950 to-blue-950 hover:from-pink-750 hover:to-blue-900 rounded-2xl shadow-lg transition border border-pink-300/40 flex items-center gap-1.5"
+            >
+              <span>🏰</span>
+              <span>ディズニー®提携＆オフィシャルホテル</span>
+            </Link>
+            <Link
+              href="/usj-partner-official-hotel-osaka-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-850 via-indigo-950 to-amber-950 hover:from-blue-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-blue-300/40 flex items-center gap-1.5"
+            >
+              <span>🌎</span>
+              <span>USJ公認＆駅直結オフィシャル宿</span>
+            </Link>
+            <Link
+              href="/fuji-q-highland-fujigoko-activity-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-red-850 via-stone-900 to-teal-950 hover:from-red-750 hover:to-teal-900 rounded-2xl shadow-lg transition border border-red-300/40 flex items-center gap-1.5"
+            >
+              <span>🎢</span>
+              <span>富士急ハイランド＆富士五湖アクティビティ</span>
+            </Link>
+            <Link
+              href="/huistenbosch-official-hotel-nagasaki-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-850 via-emerald-950 to-indigo-950 hover:from-amber-750 hover:to-indigo-900 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🌷</span>
+              <span>ハウステンボス直営＆イルミネーション宿</span>
+            </Link>
+            <Link
+              href="/japan-alps-mountain-resort-trekking-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-teal-850 via-slate-900 to-sky-950 hover:from-teal-750 hover:to-slate-800 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>⛰️</span>
+              <span>日本アルプストレッキン＆山岳リゾート宿</span>
+            </Link>
+            <Link
+              href="/nagano-azumino-wasabi-hotaka-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-850 via-teal-950 to-amber-950 hover:from-emerald-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>🥬</span>
+              <span>安曇野大王わさび＆穂高温泉郷宿</span>
+            </Link>
+            <Link
+              href="/mie-kumano-owase-onigajo-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-stone-850 via-blue-950 to-amber-950 hover:from-stone-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-blue-300/40 flex items-center gap-1.5"
+            >
+              <span>🌊</span>
+              <span>世界遺産鬼ヶ城・獅子岩＆ガスエビ宿</span>
+            </Link>
+            <Link
+              href="/tokushima-iya-valley-oboke-kazurabashi-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-teal-850 via-emerald-950 to-orange-950 hover:from-teal-750 hover:to-orange-900 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>🌉</span>
+              <span>秘境祖谷かずら橋・大歩危＆祖谷そば宿</span>
+            </Link>
+            <Link
+              href="/niigata-sado-island-gold-mine-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-850 via-yellow-950 to-slate-900 hover:from-amber-750 hover:to-slate-800 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🪙</span>
+              <span>世界遺産佐渡金山・たらい舟＆寒ブリ宿</span>
+            </Link>
+            <Link
+              href="/hokkaido-akan-mashu-kussharo-lake-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-cyan-850 via-blue-950 to-teal-950 hover:from-cyan-750 hover:to-teal-900 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>🦢</span>
+              <span>阿寒湖マリモ・摩周屈斜路＆川湯温泉宿</span>
+            </Link>
+            <Link
+              href="/japan-luxury-private-pool-suite-villa-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-900 via-cyan-950 to-indigo-950 hover:from-blue-800 hover:to-indigo-900 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>🏊</span>
+              <span>客室プライベート温水プール付きヴィラ</span>
+            </Link>
+            <Link
+              href="/japan-traditional-kominka-heritage-luxury-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-900 via-stone-950 to-red-950 hover:from-amber-800 hover:to-stone-900 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🏮</span>
+              <span>一棟貸し古民家・登録有形文化財の宿</span>
+            </Link>
+            <Link
+              href="/japan-michelin-star-auberge-winery-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-950 via-purple-950 to-amber-950 hover:from-rose-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-rose-300/40 flex items-center gap-1.5"
+            >
+              <span>🍷</span>
+              <span>ミシュラン星付き＆ワイナリーオーベルジュ</span>
+            </Link>
+            <Link
+              href="/japan-exclusive-detached-villa-private-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-950 via-teal-950 to-stone-950 hover:from-emerald-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>♨️</span>
+              <span>全室離れ・源泉かけ流し露天風呂付き隠れ家</span>
+            </Link>
+            <Link
+              href="/japan-luxury-island-resort-charter-cruise-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-cyan-900 via-blue-950 to-emerald-950 hover:from-cyan-800 hover:to-blue-900 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>🛥️</span>
+              <span>専用クルーズ＆離島最高峰リゾート</span>
+            </Link>
+            <Link
+              href="/iwate-sanriku-miyako-jodogahama-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-850 via-teal-950 to-amber-950 hover:from-blue-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>🌊</span>
+              <span>三陸宮古・浄土ヶ浜＆瓶ドン宿</span>
+            </Link>
+            <Link
+              href="/nagano-togakushi-shrine-soba-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-850 via-stone-900 to-amber-950 hover:from-emerald-750 hover:to-stone-850 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>🌲</span>
+              <span>戸隠神社奥社杉並木＆戸隠そば宿</span>
+            </Link>
+            <Link
+              href="/gifu-shirakawago-gokayama-gassho-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-850 via-stone-950 to-orange-950 hover:from-amber-750 hover:to-orange-900 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🛖</span>
+              <span>白川郷合掌造り＆飛騨牛すったて宿</span>
+            </Link>
+            <Link
+              href="/wakayama-kudoyama-sanada-koyasan-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-red-850 via-stone-900 to-amber-950 hover:from-red-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-red-300/40 flex items-center gap-1.5"
+            >
+              <span>🍁</span>
+              <span>九度山真田庵・慈尊院＆富有柿宿</span>
+            </Link>
+            <Link
+              href="/kumamoto-amakusa-islands-sakitsu-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-cyan-950 bg-gradient-to-r from-cyan-300 via-teal-300 to-amber-200 hover:from-cyan-200 hover:to-amber-100 rounded-2xl shadow-lg transition border border-cyan-200 flex items-center gap-1.5"
+            >
+              <span>🐬</span>
+              <span>天草﨑津集落・イルカ＆車海老宿</span>
+            </Link>
+            <Link
+              href="/women-solo-safe-amenity-onsen-retreat-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-rose-950 bg-gradient-to-r from-pink-200 via-rose-200 to-amber-100 hover:from-pink-150 hover:to-rose-150 rounded-2xl shadow-lg transition border border-rose-300/60 flex items-center gap-1.5"
+            >
+              <span>🌸</span>
+              <span>女性一人旅・安心セキュリティ＆ReFa宿</span>
+            </Link>
+            <Link
+              href="/book-hotel-library-stay-reading-retreat"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-900 via-stone-900 to-emerald-950 hover:from-amber-800 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>📖</span>
+              <span>読書＆ブックホテル・ライブラリー宿</span>
+            </Link>
+            <Link
+              href="/cosme-spa-facial-treatment-esthetic-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-900 via-pink-950 to-purple-950 hover:from-rose-800 hover:to-purple-900 rounded-2xl shadow-lg transition border border-pink-300/40 flex items-center gap-1.5"
+            >
+              <span>💄</span>
+              <span>ブランドスパ＆エステ付きご褒美ホテル</span>
+            </Link>
+            <Link
+              href="/art-museum-design-hotel-creative-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-slate-900 via-indigo-950 to-teal-950 hover:from-slate-800 hover:to-teal-900 rounded-2xl shadow-lg transition border border-indigo-300/40 flex items-center gap-1.5"
+            >
+              <span>🎨</span>
+              <span>アート・美術館巡り＆デザインホテル</span>
+            </Link>
+            <Link
+              href="/power-spot-shrine-temple-fortune-solo-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-red-900 via-amber-950 to-stone-900 hover:from-red-800 hover:to-stone-850 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>⛩️</span>
+              <span>寺社・パワースポット巡り＆開運ひとり旅宿</span>
+            </Link>
+            <Link
+              href="/aomori-towada-oirase-gorge-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-850 via-teal-950 to-cyan-950 hover:from-emerald-750 hover:to-cyan-900 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>🌿</span>
+              <span>奥入瀬渓流・十和田湖＆ヒメマス宿</span>
+            </Link>
+            <Link
+              href="/iwate-tono-folklore-kappa-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-stone-850 via-amber-950 to-emerald-950 hover:from-stone-750 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🥒</span>
+              <span>遠野物語カッパ淵・曲り家＆生ラム宿</span>
+            </Link>
+            <Link
+              href="/fukushima-urabandai-goshikinuma-lake-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-cyan-850 via-teal-950 to-blue-950 hover:from-cyan-750 hover:to-blue-900 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>💎</span>
+              <span>裏磐梯五色沼・桧原湖＆会津山塩宿</span>
+            </Link>
+            <Link
+              href="/fukui-mikatagoko-rainbow-line-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-850 via-indigo-950 to-amber-950 hover:from-blue-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-blue-300/40 flex items-center gap-1.5"
+            >
+              <span>🌈</span>
+              <span>三方五湖レインボーライン＆うなぎ宿</span>
+            </Link>
+            <Link
+              href="/saga-arita-imari-hasami-pottery-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-850 via-red-950 to-teal-950 hover:from-amber-750 hover:to-teal-900 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🏺</span>
+              <span>有田伊万里波佐見焼＆伊万里牛宿</span>
+            </Link>
+            <Link
+              href="/dog-friendly-private-onsen-bath-resort-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-900 via-orange-950 to-stone-900 hover:from-amber-800 hover:to-orange-900 rounded-2xl shadow-lg transition border border-amber-300/50 flex items-center gap-1.5"
+            >
+              <span>♨️🐶</span>
+              <span>愛犬専用温泉付き客室＆露天風呂宿</span>
+            </Link>
+            <Link
+              href="/dog-private-grass-run-villa-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-900 via-teal-950 to-stone-900 hover:from-emerald-800 hover:to-teal-900 rounded-2xl shadow-lg transition border border-emerald-300/50 flex items-center gap-1.5"
+            >
+              <span>🌿🐕</span>
+              <span>天然芝専用ドッグラン付きヴィラ</span>
+            </Link>
+            <Link
+              href="/dog-room-dining-special-course-hotel-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-950 via-amber-950 to-orange-950 hover:from-rose-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-300/50 flex items-center gap-1.5"
+            >
+              <span>🥩🎂</span>
+              <span>愛犬同伴お部屋食＆特製フルコース宿</span>
+            </Link>
+            <Link
+              href="/large-dog-multi-pet-friendly-resort-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-yellow-950 via-stone-900 to-amber-950 hover:from-yellow-900 hover:to-stone-850 rounded-2xl shadow-lg transition border border-yellow-300/50 flex items-center gap-1.5"
+            >
+              <span>🦮🌲</span>
+              <span>大型犬・多頭飼い歓迎広々リゾート</span>
+            </Link>
+            <Link
+              href="/dog-oceanfront-beach-glamping-villa-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-cyan-950 bg-gradient-to-r from-cyan-300 via-teal-300 to-amber-200 hover:from-cyan-200 hover:to-amber-100 rounded-2xl shadow-lg transition border border-cyan-200 flex items-center gap-1.5"
+            >
+              <span>🏖️🌊</span>
+              <span>海直結・愛犬とビーチグランピング宿</span>
+            </Link>
+            <Link
+              href="/yamagata-tsuruoka-hagurosan-dewasanzan-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-900 via-stone-900 to-amber-950 hover:from-emerald-800 hover:to-stone-850 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>🌲</span>
+              <span>羽黒山出羽三山・五重塔＆精進料理宿</span>
+            </Link>
+            <Link
+              href="/chiba-tateyama-shirahama-nojimazaki-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-850 via-teal-950 to-amber-950 hover:from-blue-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>🏮</span>
+              <span>南房総館山白浜・野島崎＆伊勢海老宿</span>
+            </Link>
+            <Link
+              href="/nagano-hakuba-tsugaike-alps-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-cyan-850 via-blue-950 to-emerald-950 hover:from-cyan-750 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>🏔️</span>
+              <span>白馬マウンテンテラス＆栂池信州そば宿</span>
+            </Link>
+            <Link
+              href="/hyogo-takeda-castle-asago-ikuno-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-850 via-stone-900 to-yellow-950 hover:from-amber-750 hover:to-stone-850 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>☁️</span>
+              <span>天空の城竹田城雲海・生野銀山＆但馬牛宿</span>
+            </Link>
+            <Link
+              href="/nagasaki-goto-islands-fukue-church-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-cyan-950 bg-gradient-to-r from-cyan-300 via-teal-300 to-amber-200 hover:from-cyan-200 hover:to-amber-100 rounded-2xl shadow-lg transition border border-cyan-200 flex items-center gap-1.5"
+            >
+              <span>⛪</span>
+              <span>五島列島世界遺産教会・高浜＆うどん宿</span>
+            </Link>
+            <Link
+              href="/japan-steam-locomotive-sl-retro-train-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-stone-900 via-slate-900 to-red-950 hover:from-stone-850 hover:to-slate-850 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🚂💨</span>
+              <span>SL蒸気機関車＆レトロ列車温泉旅</span>
+            </Link>
+            <Link
+              href="/scenic-open-air-trolley-train-resort-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-850 via-teal-950 to-amber-950 hover:from-emerald-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>🚃💨</span>
+              <span>絶景観光トロッコ列車＆オープン客車宿</span>
+            </Link>
+            <Link
+              href="/panoramic-ropeway-mountain-terrace-resort-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-cyan-900 via-blue-950 to-indigo-950 hover:from-cyan-800 hover:to-indigo-900 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>🚡☕</span>
+              <span>絶景ロープウェイ＆山頂テラス宿</span>
+            </Link>
+            <Link
+              href="/japan-long-cruise-ferry-ocean-journey-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-900 via-indigo-950 to-cyan-950 hover:from-blue-800 hover:to-cyan-900 rounded-2xl shadow-lg transition border border-blue-300/40 flex items-center gap-1.5"
+            >
+              <span>🚢🌊</span>
+              <span>優雅な長距離フェリー＆離島航路宿</span>
+            </Link>
+            <Link
+              href="/glamping-outdoor-barrel-sauna-resort-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-900 via-stone-900 to-emerald-950 hover:from-amber-850 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-amber-300/50 flex items-center gap-1.5"
+            >
+              <span>⛺🧖</span>
+              <span>グランピング＆バレルサウナ体験宿</span>
+            </Link>
+            <Link
+              href="/aomori-shimokita-osorezan-oma-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-stone-900 via-slate-950 to-blue-950 hover:from-stone-850 hover:to-blue-900 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>🐟</span>
+              <span>下北半島恐山霊場・大間マグロ＆下風呂宿</span>
+            </Link>
+            <Link
+              href="/miyagi-naruko-onsen-gorge-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-850 via-orange-950 to-red-950 hover:from-amber-750 hover:to-red-900 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🎎</span>
+              <span>鳴子温泉郷多彩泉質・鳴子峡＆栗だんご宿</span>
+            </Link>
+            <Link
+              href="/yamanashi-minobu-shimobe-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-950 via-amber-950 to-emerald-950 hover:from-rose-900 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-rose-300/40 flex items-center gap-1.5"
+            >
+              <span>🌸</span>
+              <span>身延山久遠寺しだれ桜・下部温泉ぬる湯宿</span>
+            </Link>
+            <Link
+              href="/tottori-misasa-onsen-mitokusan-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-teal-900 via-cyan-950 to-stone-900 hover:from-teal-800 hover:to-stone-850 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>♨️</span>
+              <span>三朝世界屈指ラジウム温泉・三徳山投入堂宿</span>
+            </Link>
+            <Link
+              href="/ehime-uwajima-ainan-nametoko-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-850 via-teal-950 to-amber-950 hover:from-blue-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🏯</span>
+              <span>現存宇和島城・滑床渓谷＆宇和島鯛めし宿</span>
+            </Link>
+            <Link
+              href="/japan-sake-brewery-auberge-pairing-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-900 via-yellow-950 to-stone-900 hover:from-amber-800 hover:to-stone-850 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🍶🥢</span>
+              <span>酒蔵オーベルジュ＆日本酒ペアリング宿</span>
+            </Link>
+            <Link
+              href="/all-inclusive-sake-free-flow-tasting-bar-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-850 via-orange-950 to-stone-900 hover:from-amber-750 hover:to-orange-900 rounded-2xl shadow-lg transition border border-yellow-300/40 flex items-center gap-1.5"
+            >
+              <span>🍶✨</span>
+              <span>日本酒飲み放題＆利き酒Bar完備温泉宿</span>
+            </Link>
+            <Link
+              href="/pure-spring-water-sake-brewing-source-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-cyan-900 via-teal-950 to-blue-950 hover:from-cyan-800 hover:to-blue-900 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>💧🍶</span>
+              <span>名水百選・酒の仕込み水が湧く秘湯宿</span>
+            </Link>
+            <Link
+              href="/sake-lees-bath-fermentation-beauty-detox-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-950 via-pink-950 to-amber-950 hover:from-rose-900 hover:to-pink-900 rounded-2xl shadow-lg transition border border-pink-300/40 flex items-center gap-1.5"
+            >
+              <span>🧖‍♀️🍶</span>
+              <span>酒粕風呂＆日本酒風呂・発酵美肌宿</span>
+            </Link>
+            <Link
+              href="/japan-historic-sake-highway-brewery-walk-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-stone-900 via-amber-950 to-emerald-950 hover:from-stone-850 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🏮🍶</span>
+              <span>日本銘酒街道・酒蔵の町並み巡り宿</span>
+            </Link>
+            <Link
+              href="/akita-oga-peninsula-namahage-nyudozaki-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-950 via-stone-900 to-red-950 hover:from-blue-900 hover:to-red-900 rounded-2xl shadow-lg transition border border-red-300/40 flex items-center gap-1.5"
+            >
+              <span>👹</span>
+              <span>男鹿半島なまはげ・入道崎＆石焼料理宿</span>
+            </Link>
+            <Link
+              href="/nagano-kiso-fukushima-nezamenotoko-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-900 via-stone-900 to-emerald-950 hover:from-amber-800 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🏮</span>
+              <span>木曽福島宿場町・寝覚の床＆木曽そば宿</span>
+            </Link>
+            <Link
+              href="/toyama-himi-amaharashi-tateyama-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-cyan-900 via-blue-950 to-teal-950 hover:from-cyan-800 hover:to-teal-900 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>🐟</span>
+              <span>氷見寒ブリ＆雨晴海岸立山連峰パノラマ宿</span>
+            </Link>
+            <Link
+              href="/kochi-shimanto-river-chinkabashi-ashizuri-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-teal-900 via-emerald-950 to-blue-950 hover:from-teal-800 hover:to-blue-900 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>🚣</span>
+              <span>四万十川沈下橋カヌー・足摺岬＆うなぎ宿</span>
+            </Link>
+            <Link
+              href="/kagoshima-yakushima-shiratani-jomon-sugi-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-emerald-950 bg-gradient-to-r from-emerald-300 via-teal-300 to-amber-200 hover:from-emerald-200 hover:to-amber-100 rounded-2xl shadow-lg transition border border-emerald-200 flex items-center gap-1.5"
+            >
+              <span>🌲</span>
+              <span>屋久島世界遺産・白谷雲水峡苔森＆縄文杉宿</span>
+            </Link>
+            <Link
+              href="/astronomical-observatory-stargazing-guide-resort-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-indigo-950 via-slate-900 to-blue-950 hover:from-indigo-900 hover:to-blue-900 rounded-2xl shadow-lg transition border border-indigo-300/40 flex items-center gap-1.5"
+            >
+              <span>🔭⭐</span>
+              <span>天体望遠鏡ドーム＆星ソムリエ常駐宿</span>
+            </Link>
+            <Link
+              href="/japan-top-three-night-view-luxury-panoramic-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-purple-950 via-slate-950 to-indigo-950 hover:from-purple-900 hover:to-indigo-900 rounded-2xl shadow-lg transition border border-purple-300/40 flex items-center gap-1.5"
+            >
+              <span>🌃✨</span>
+              <span>日本三大夜景＆全室パノラマ夜景ビュー宿</span>
+            </Link>
+            <Link
+              href="/planetarium-private-cinema-theater-room-hotel-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-slate-900 via-indigo-950 to-purple-900 hover:from-slate-850 hover:to-purple-850 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>🪐🎬</span>
+              <span>客室プラネタリウム＆大画面シアター宿</span>
+            </Link>
+            <Link
+              href="/infinity-open-air-bath-starry-sky-sleeping-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-950 via-teal-950 to-indigo-950 hover:from-blue-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>♨️🌌</span>
+              <span>満天の星空露天風呂＆寝湯インフィニティ宿</span>
+            </Link>
+            <Link
+              href="/dark-sky-reserve-nature-island-starry-resort-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-cyan-950 bg-gradient-to-r from-cyan-300 via-indigo-200 to-purple-200 hover:from-cyan-200 hover:to-purple-100 rounded-2xl shadow-lg transition border border-cyan-300 flex items-center gap-1.5"
+            >
+              <span>🏝️✨</span>
+              <span>国際星空保護区＆離島ネイチャーステイ</span>
+            </Link>
+            <Link
+              href="/yamagata-sakata-sankyo-warehouse-shonai-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-stone-900 via-amber-950 to-blue-950 hover:from-stone-850 hover:to-blue-900 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🌾</span>
+              <span>酒田山居倉庫ケヤキ並木・ラーメン＆夕陽宿</span>
+            </Link>
+            <Link
+              href="/gunma-shima-onsen-okushima-lake-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-teal-900 via-cyan-950 to-stone-900 hover:from-teal-800 hover:to-stone-850 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>♨️</span>
+              <span>四万温泉積善館レトロ木造＆四万ブルー宿</span>
+            </Link>
+            <Link
+              href="/nagano-bessho-onsen-ueda-castle-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-red-950 via-amber-950 to-stone-900 hover:from-red-900 hover:to-stone-850 rounded-2xl shadow-lg transition border border-red-300/40 flex items-center gap-1.5"
+            >
+              <span>🏯</span>
+              <span>別所温泉安楽寺八角三重塔＆上田城真田宿</span>
+            </Link>
+            <Link
+              href="/shizuoka-sumatakyo-okuoi-lake-bridge-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-900 via-teal-950 to-cyan-950 hover:from-emerald-800 hover:to-cyan-900 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>🌉</span>
+              <span>寸又峡夢の吊橋＆奥大井湖上アプト鉄道宿</span>
+            </Link>
+            <Link
+              href="/yamaguchi-nagato-yumoto-motonosumi-shrine-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-950 via-red-950 to-teal-950 hover:from-rose-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-rose-300/40 flex items-center gap-1.5"
+            >
+              <span>⛩️</span>
+              <span>長門湯本恩湯リノベ＆元乃隅123鳥居宿</span>
+            </Link>
+            <Link
+              href="/japan-classic-hotel-association-heritage-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-100 bg-gradient-to-r from-stone-900 via-amber-950 to-stone-900 hover:from-stone-850 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-400/40 flex items-center gap-1.5"
+            >
+              <span>🏛️👑</span>
+              <span>日本クラシックホテルの会加盟名門宿</span>
+            </Link>
+            <Link
+              href="/taisho-roman-showa-modern-art-deco-hotel-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-900 via-rose-950 to-stone-900 hover:from-amber-800 hover:to-stone-850 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🎨✨</span>
+              <span>大正ロマン＆アールデコ近代建築宿</span>
+            </Link>
+            <Link
+              href="/tangible-cultural-property-sukiya-carpenter-ryokan-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-stone-850 via-emerald-950 to-amber-950 hover:from-stone-750 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-stone-300/40 flex items-center gap-1.5"
+            >
+              <span>🪵♨️</span>
+              <span>登録有形文化財・宮大工数寄屋旅館</span>
+            </Link>
+            <Link
+              href="/former-aristocrat-zaibatsu-imperial-villa-resort-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-yellow-950 via-amber-950 to-stone-950 hover:from-yellow-900 hover:to-stone-900 rounded-2xl shadow-lg transition border border-yellow-300/40 flex items-center gap-1.5"
+            >
+              <span>👑🌿</span>
+              <span>旧華族・旧財閥別邸＆皇室ゆかり宿</span>
+            </Link>
+            <Link
+              href="/vories-frank-lloyd-wright-architecture-resort-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-stone-900 via-teal-950 to-stone-850 hover:from-stone-850 hover:to-teal-900 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>📐🪵</span>
+              <span>巨匠建築・ヴォーリズ＆ライト様式宿</span>
+            </Link>
+            <Link
+              href="/hokkaido-otaru-yoichi-canal-distillery-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-900 via-stone-900 to-blue-950 hover:from-amber-800 hover:to-blue-900 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🥃🍣</span>
+              <span>小樽運河＆余市ニッカ蒸溜所宿</span>
+            </Link>
+            <Link
+              href="/miyagi-matsushima-shiogama-bay-seafood-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-950 via-teal-950 to-amber-950 hover:from-blue-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>🏝️🦪</span>
+              <span>日本三景松島・塩竈生マグロ＆牡蠣宿</span>
+            </Link>
+            <Link
+              href="/tochigi-shiobara-eleven-hotsprings-valley-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-950 via-teal-900 to-stone-900 hover:from-emerald-900 hover:to-stone-850 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>♨️🌉</span>
+              <span>那須塩原十一湯・もみじ谷大吊橋宿</span>
+            </Link>
+            <Link
+              href="/shizuoka-izu-kogen-jogasaki-coast-villa-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-cyan-950 via-teal-950 to-blue-950 hover:from-cyan-900 hover:to-blue-900 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>🌊🌲</span>
+              <span>城ヶ崎海岸門脇吊橋・大室山ヴィラ宿</span>
+            </Link>
+            <Link
+              href="/hyogo-kinosaki-onsen-seven-baths-crab-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-950 via-orange-950 to-stone-900 hover:from-amber-900 hover:to-orange-900 rounded-2xl shadow-lg transition border border-orange-300/40 flex items-center gap-1.5"
+            >
+              <span>♨️🦀</span>
+              <span>城崎温泉七つの外湯・本松葉ガニ宿</span>
+            </Link>
+            <Link
+              href="/barrel-sauna-wood-stove-nature-totonoi-resort-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-950 via-teal-950 to-stone-900 hover:from-emerald-900 hover:to-stone-850 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>🪵🔥</span>
+              <span>本格バレルサウナ＆薪ストーブ宿</span>
+            </Link>
+            <Link
+              href="/panoramic-view-sauna-fuji-ocean-lake-resort-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-sky-950 via-indigo-950 to-purple-950 hover:from-sky-900 hover:to-purple-900 rounded-2xl shadow-lg transition border border-sky-300/40 flex items-center gap-1.5"
+            >
+              <span>🗻🌅</span>
+              <span>富士・海・夜景パノラマ絶景サウナ</span>
+            </Link>
+            <Link
+              href="/pure-natural-spring-water-bath-totonoi-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-teal-950 via-cyan-950 to-blue-950 hover:from-teal-900 hover:to-blue-900 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>💧🧖‍♂️</span>
+              <span>地下天然水・飲める名水水風呂宿</span>
+            </Link>
+            <Link
+              href="/herbal-steam-ayurveda-detox-wellness-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-950 via-pink-950 to-emerald-950 hover:from-rose-900 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-pink-300/40 flex items-center gap-1.5"
+            >
+              <span>🌿🧘‍♀️</span>
+              <span>薬草蒸し＆アーユルヴェーダ宿</span>
+            </Link>
+            <Link
+              href="/private-room-sauna-luxury-villa-retreat-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-100 bg-gradient-to-r from-stone-900 via-amber-950 to-emerald-950 hover:from-stone-850 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-amber-400/40 flex items-center gap-1.5"
+            >
+              <span>🚪✨</span>
+              <span>客室専用サウナ＆貸切ヴィラ宿</span>
+            </Link>
+            <Link
+              href="/nagano-kamikochi-norikura-alps-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-teal-950 via-emerald-950 to-cyan-950 hover:from-teal-900 hover:to-cyan-900 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>🏔️♨️</span>
+              <span>上高地河童橋＆乗鞍白骨白濁湯宿</span>
+            </Link>
+            <Link
+              href="/gifu-gero-onsen-hida-river-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-950 via-orange-950 to-yellow-950 hover:from-amber-900 hover:to-orange-900 rounded-2xl shadow-lg transition border border-yellow-300/40 flex items-center gap-1.5"
+            >
+              <span>♨️🥩</span>
+              <span>下呂温泉三名泉美肌湯＆飛騨牛宿</span>
+            </Link>
+            <Link
+              href="/fukui-tojinbo-awara-onsen-crab-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-950 via-stone-900 to-amber-950 hover:from-blue-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-blue-300/40 flex items-center gap-1.5"
+            >
+              <span>🌊🦀</span>
+              <span>東尋坊断崖絶壁・あわら越前ガニ宿</span>
+            </Link>
+            <Link
+              href="/hiroshima-miyajima-itsukushima-shrine-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-950 via-red-950 to-amber-950 hover:from-rose-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-rose-300/40 flex items-center gap-1.5"
+            >
+              <span>⛩️🦪</span>
+              <span>宮島嚴島神社大鳥居＆あなごめし宿</span>
+            </Link>
+            <Link
+              href="/oita-yufuin-kinrin-lake-retreat-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-950 via-teal-900 to-stone-900 hover:from-emerald-900 hover:to-stone-850 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>🌫️♨️</span>
+              <span>由布院金鱗湖朝霧＆離れ客室露天宿</span>
+            </Link>
+            <Link
+              href="/hokkaido-hakodate-motomachi-goryokaku-nightview-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-indigo-950 via-blue-950 to-amber-950 hover:from-indigo-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-blue-300/40 flex items-center gap-1.5"
+            >
+              <span>🌃🦑</span>
+              <span>函館山夜景・五稜郭＆朝市活イカ宿</span>
+            </Link>
+            <Link
+              href="/saitama-chichibu-nagatoro-line-kudari-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-950 via-teal-950 to-pink-950 hover:from-emerald-900 hover:to-pink-900 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>🚣🌸</span>
+              <span>長瀞ライン下り・三峯雲海＆芝桜宿</span>
+            </Link>
+            <Link
+              href="/shiga-biwako-hikone-castle-nagahama-kurokabe-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-950 via-teal-950 to-stone-900 hover:from-blue-900 hover:to-stone-850 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>🏯🌊</span>
+              <span>国宝彦根城・長浜黒壁＆びわ湖温泉宿</span>
+            </Link>
+            <Link
+              href="/kagawa-kotohira-konpira-shrine-sanuki-udon-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-950 via-yellow-950 to-stone-900 hover:from-amber-900 hover:to-yellow-900 rounded-2xl shadow-lg transition border border-yellow-300/40 flex items-center gap-1.5"
+            >
+              <span>⛩️🍜</span>
+              <span>こんぴら参り・讃岐うどん＆金丸座宿</span>
+            </Link>
+            <Link
+              href="/okinawa-ishigaki-yaeyama-kabira-bay-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-cyan-950 bg-gradient-to-r from-cyan-300 via-teal-200 to-amber-200 hover:from-cyan-200 hover:to-amber-100 rounded-2xl shadow-lg transition border border-cyan-300 flex items-center gap-1.5"
+            >
+              <span>🏝️🥩</span>
+              <span>川平湾マンタ・八重山離島＆石垣牛宿</span>
+            </Link>
+            <Link
+              href="/zen-meditation-shojin-cuisine-temple-retreat-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-stone-900 via-stone-850 to-amber-950 hover:from-stone-800 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-400/40 flex items-center gap-1.5"
+            >
+              <span>🧘‍♂️🥢</span>
+              <span>禅寺坐禅体験＆精進料理宿坊</span>
+            </Link>
+            <Link
+              href="/tea-ceremony-authentic-chashitsu-matcha-ryokan-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-950 via-teal-950 to-stone-900 hover:from-emerald-900 hover:to-stone-850 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>🍵🍡</span>
+              <span>茶道本格茶室＆抹茶体験数寄屋宿</span>
+            </Link>
+            <Link
+              href="/shakyo-meditation-mindfulness-sacred-temple-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-stone-850 via-slate-900 to-amber-950 hover:from-stone-750 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>✍️🕉️</span>
+              <span>写経・写仏＆瞑想マインドフルネス宿</span>
+            </Link>
+            <Link
+              href="/samurai-katana-armor-buke-yashiki-heritage-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-red-950 via-stone-900 to-amber-950 hover:from-red-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-red-300/40 flex items-center gap-1.5"
+            >
+              <span>⚔️🏯</span>
+              <span>武家屋敷＆サムライ甲冑体験宿</span>
+            </Link>
+            <Link
+              href="/traditional-crafts-pottery-gold-leaf-washi-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-900 via-orange-950 to-yellow-950 hover:from-amber-800 hover:to-yellow-900 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🏺✨</span>
+              <span>金箔・和紙・有田焼伝統工芸宿</span>
+            </Link>
+            <Link
+              href="/hokkaido-toya-noboribetsu-jigokudani-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-cyan-950 via-blue-950 to-amber-950 hover:from-cyan-900 hover:to-blue-900 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>🌋🎆</span>
+              <span>登別地獄谷・洞爺湖花火＆名湯宿</span>
+            </Link>
+            <Link
+              href="/chiba-kamogawa-katsuura-boso-seafood-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-950 via-teal-950 to-rose-950 hover:from-blue-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-blue-300/40 flex items-center gap-1.5"
+            >
+              <span>🐬🐟</span>
+              <span>鴨川シャチ・勝浦朝市＆地金目鯛宿</span>
+            </Link>
+            <Link
+              href="/shizuoka-atagawa-inatori-kinmedai-hotspring-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-950 via-orange-950 to-stone-900 hover:from-amber-900 hover:to-orange-900 rounded-2xl shadow-lg transition border border-orange-300/40 flex items-center gap-1.5"
+            >
+              <span>♨️🐟</span>
+              <span>熱川温泉櫓・波打ち際＆稲取キンメ宿</span>
+            </Link>
+            <Link
+              href="/kagoshima-sakurajima-kinko-bay-kurobuta-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-stone-950 via-red-950 to-amber-950 hover:from-stone-900 hover:to-red-900 rounded-2xl shadow-lg transition border border-red-300/40 flex items-center gap-1.5"
+            >
+              <span>🌋🥩</span>
+              <span>桜島活火山・錦江湾＆かごしま黒豚宿</span>
+            </Link>
+            <Link
+              href="/miyazaki-takachiho-gorge-myth-power-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-950 via-teal-900 to-amber-950 hover:from-emerald-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>🛶⛩️</span>
+              <span>高千穂峡真名井の滝・天安河原神話宿</span>
+            </Link>
+            <Link
+              href="/nagano-suwa-lake-onbashira-shrine-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-sky-950 via-indigo-950 to-amber-950 hover:from-sky-900 hover:to-indigo-900 rounded-2xl shadow-lg transition border border-sky-300/40 flex items-center gap-1.5"
+            >
+              <span>⛵⛩️</span>
+              <span>諏訪湖・諏訪大社四社まいり＆酒蔵宿</span>
+            </Link>
+            <Link
+              href="/kochi-katsurahama-castle-hirome-market-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-950 via-cyan-950 to-amber-950 hover:from-blue-900 hover:to-cyan-900 rounded-2xl shadow-lg transition border border-blue-300/40 flex items-center gap-1.5"
+            >
+              <span>🌊🐟</span>
+              <span>高知桂浜・ひろめ市場カツオ藁焼き宿</span>
+            </Link>
+            <Link
+              href="/gunma-minakami-tanigawadake-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-950 via-stone-900 to-teal-950 hover:from-emerald-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>⛰️♨️</span>
+              <span>水上温泉郷・谷川岳一ノ倉沢＆巨石露天宿</span>
+            </Link>
+            <Link
+              href="/aomori-hirosaki-castle-cherry-apple-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-950 via-red-950 to-amber-950 hover:from-rose-900 hover:to-red-900 rounded-2xl shadow-lg transition border border-rose-300/40 flex items-center gap-1.5"
+            >
+              <span>🌸🍎</span>
+              <span>弘前城桜花筏・洋館＆津軽三味線宿</span>
+            </Link>
+            <Link
+              href="/nara-yoshino-cherry-mountain-temple-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-pink-950 via-purple-950 to-amber-950 hover:from-pink-900 hover:to-purple-900 rounded-2xl shadow-lg transition border border-pink-300/40 flex items-center gap-1.5"
+            >
+              <span>🌸🏯</span>
+              <span>吉野山一目千本桜・金峯山寺蔵王堂宿</span>
+            </Link>
+            <Link
+              href="/yamanashi-koshu-katsunuma-wine-isawa-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-purple-950 via-red-950 to-amber-950 hover:from-purple-900 hover:to-red-900 rounded-2xl shadow-lg transition border border-purple-300/40 flex items-center gap-1.5"
+            >
+              <span>🍇🍷</span>
+              <span>勝沼ワイナリー・桃源郷＆石和名湯美肌宿</span>
+            </Link>
+            <Link
+              href="/iwate-hiraizumi-ichinoseki-geibikei-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-950 via-yellow-950 to-stone-900 hover:from-amber-900 hover:to-yellow-900 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🏯🚣</span>
+              <span>平泉中尊寺金色堂・猊鼻渓舟下り＆前沢牛宿</span>
+            </Link>
+            <Link
+              href="/nagano-togakushi-zenkoji-monzen-obuse-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-950 via-stone-900 to-amber-950 hover:from-emerald-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>🌲⛩️</span>
+              <span>戸隠杉並木・善光寺お朝事＆小布施栗宿</span>
+            </Link>
+            <Link
+              href="/ehime-uwajima-uchiko-ozu-castle-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-cyan-950 via-blue-950 to-amber-950 hover:from-cyan-900 hover:to-blue-900 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>🐟🏯</span>
+              <span>現存宇和島城・鯛めし＆内子白壁・大洲宿</span>
+            </Link>
+            <Link
+              href="/yamaguchi-akiyoshidai-karst-cave-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-teal-950 via-emerald-950 to-stone-900 hover:from-teal-900 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>🪨♨️</span>
+              <span>秋芳洞カルスト台地＆長門湯本温泉街宿</span>
+            </Link>
+            <Link
+              href="/shizuoka-mishima-shuzenji-numazu-port-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-sky-950 via-teal-950 to-amber-950 hover:from-sky-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-sky-300/40 flex items-center gap-1.5"
+            >
+              <span>🌉🎋</span>
+              <span>三島大吊橋・修善寺竹林＆沼津深海魚宿</span>
+            </Link>
+            <Link
+              href="/nagasaki-unzen-shimabara-castle-volcano-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-950 via-red-950 to-stone-900 hover:from-amber-900 hover:to-red-900 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>♨️🏯</span>
+              <span>雲仙地獄白濁湯・島原名水武家屋敷宿</span>
+            </Link>
+            <Link
+              href="/fukushima-urabandai-goshikinuma-lake-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-950 via-cyan-950 to-stone-900 hover:from-emerald-900 hover:to-cyan-900 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>🛶🍁</span>
+              <span>五色沼神秘の湖沼群・裏磐梯高原温泉宿</span>
+            </Link>
+            <Link
+              href="/mie-toba-shima-kashikojima-pearl-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-950 via-indigo-950 to-amber-950 hover:from-blue-900 hover:to-indigo-900 rounded-2xl shadow-lg transition border border-blue-300/40 flex items-center gap-1.5"
+            >
+              <span>🦪🦞</span>
+              <span>英虞湾夕日・鳥羽水族館＆伊勢海老海女宿</span>
+            </Link>
+            <Link
+              href="/kumamoto-amakusa-sakitsu-dolphin-islands-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-cyan-950 via-blue-950 to-teal-950 hover:from-cyan-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>🐬⛪</span>
+              <span>世界遺産崎津天主堂・天草五橋＆イルカ宿</span>
+            </Link>
+            <Link
+              href="/tochigi-nasu-shiobara-itamuro-kuroiso-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-950 via-lime-950 to-amber-950 hover:from-emerald-900 hover:to-lime-900 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>⛰️☕</span>
+              <span>那須茶臼岳・板室立ち湯＆黒磯カフェ宿</span>
+            </Link>
+            <Link
+              href="/nagano-azumino-wasabi-hotaka-art-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-teal-950 via-cyan-950 to-stone-900 hover:from-teal-900 hover:to-cyan-900 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>🚣🎨</span>
+              <span>安曇野わさび水車小屋・穂高温泉アート宿</span>
+            </Link>
+            <Link
+              href="/hyogo-ako-hinase-oyster-castle-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-950 via-sky-950 to-amber-950 hover:from-blue-900 hover:to-sky-900 rounded-2xl shadow-lg transition border border-blue-300/40 flex items-center gap-1.5"
+            >
+              <span>🏯🦪</span>
+              <span>赤穂城跡・播磨灘夕日露天＆坂越牡蠣宿</span>
+            </Link>
+            <Link
+              href="/kagawa-marugame-sakaide-seto-bridge-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-950 via-orange-950 to-stone-900 hover:from-amber-900 hover:to-orange-900 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🍗🌉</span>
+              <span>現存丸亀城・骨付鳥＆瀬戸大橋パノラマ宿</span>
+            </Link>
+            <Link
+              href="/kagoshima-ibusuki-sand-bath-kaimondake-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-950 via-amber-950 to-stone-900 hover:from-rose-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-rose-300/40 flex items-center gap-1.5"
+            >
+              <span>🌋🏖️</span>
+              <span>天然砂むし温泉・薩摩富士開聞岳＆知覧宿</span>
+            </Link>
+            <Link
+              href="/yamagata-sakata-haguro-dewasanzan-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-950 via-yellow-950 to-emerald-950 hover:from-amber-900 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🌾⛩️</span>
+              <span>山居倉庫ケヤキ並木・羽黒山五重塔＆庄内寿司宿</span>
+            </Link>
+            <Link
+              href="/toyama-takaoka-himi-amaharashi-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-cyan-950 via-blue-950 to-stone-900 hover:from-cyan-900 hover:to-blue-900 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>🏔️🐟</span>
+              <span>国宝瑞龍寺・雨晴海岸立山連峰＆氷見寒ブリ宿</span>
+            </Link>
+            <Link
+              href="/shiga-nagahama-omihachiman-chikubushima-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-950 via-teal-950 to-amber-950 hover:from-blue-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-blue-300/40 flex items-center gap-1.5"
+            >
+              <span>⛵🏯</span>
+              <span>長浜黒壁・神の棲む竹生島＆八幡堀近江牛宿</span>
+            </Link>
+            <Link
+              href="/tokushima-naruto-iya-oboke-gorge-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-teal-950 via-emerald-950 to-indigo-950 hover:from-teal-900 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>🌀🌉</span>
+              <span>鳴門の渦潮・大塚美術館＆祖谷かずら橋秘境宿</span>
+            </Link>
+            <Link
+              href="/saga-karatsu-yobuko-genkai-squid-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-sky-950 via-indigo-950 to-stone-900 hover:from-sky-900 hover:to-indigo-900 rounded-2xl shadow-lg transition border border-sky-300/40 flex items-center gap-1.5"
+            >
+              <span>🦑🏯</span>
+              <span>唐津城虹の松原・呼子朝市透明イカ活き造り宿</span>
+            </Link>
+            <Link
+              href="/miyagi-matsushima-shiogama-shrine-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-950 via-cyan-950 to-amber-950 hover:from-blue-900 hover:to-cyan-900 rounded-2xl shadow-lg transition border border-blue-300/40 flex items-center gap-1.5"
+            >
+              <span>⛵⛩️</span>
+              <span>日本三景松島・塩竈神社＆生マグロ・牡蠣宿</span>
+            </Link>
+            <Link
+              href="/nagano-hakuba-happo-tsugaike-alps-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-cyan-950 via-emerald-950 to-stone-900 hover:from-cyan-900 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-cyan-300/40 flex items-center gap-1.5"
+            >
+              <span>🏔️🧖</span>
+              <span>白馬八方池雲上パノラマ・栂池＆山岳サウナ宿</span>
+            </Link>
+            <Link
+              href="/gifu-gujo-hachiman-mino-udatsu-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-950 via-amber-950 to-stone-900 hover:from-emerald-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-emerald-300/40 flex items-center gap-1.5"
+            >
+              <span>🏮🏯</span>
+              <span>郡上おどり宗祇水・美濃うだつ町並み＆天然鮎宿</span>
+            </Link>
+            <Link
+              href="/kyoto-amanohashidate-ine-funaya-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-teal-950 via-blue-950 to-indigo-950 hover:from-teal-900 hover:to-blue-900 rounded-2xl shadow-lg transition border border-teal-300/40 flex items-center gap-1.5"
+            >
+              <span>🦀🛶</span>
+              <span>天橋立股のぞき・伊根の舟屋＆幻の間人ガニ宿</span>
+            </Link>
+            <Link
+              href="/miyazaki-nichinan-obi-castle-aoshima-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-950 via-orange-950 to-rose-950 hover:from-amber-900 hover:to-orange-900 rounded-2xl shadow-lg transition border border-amber-300/40 flex items-center gap-1.5"
+            >
+              <span>🗿⛩️</span>
+              <span>青島鬼の洗濯板・モアイ像＆飫肥城下町宿</span>
+            </Link>
+            <Link
+              href="/furusato-tax-luxury-hotspring-ryokan-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-amber-950 via-stone-900 to-amber-900 hover:from-amber-900 hover:to-stone-800 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>♨️💴</span>
+              <span>実質2,000円名湯高級温泉旅館＆ふるさと納税活用術</span>
+            </Link>
+            <Link
+              href="/furusato-tax-travel-after-booking-discount-guide"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-stone-900 via-amber-950 to-stone-900 hover:from-stone-800 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>💡🏨</span>
+              <span>予約済み宿に使える！ふるさと納税あとから割引ガイド</span>
+            </Link>
+            <Link
+              href="/furusato-tax-local-gourmet-inn-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-amber-950 via-red-950 to-stone-900 hover:from-amber-900 hover:to-red-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🥩🦞</span>
+              <span>高千穂牛・あなご・伊勢海老！ご当地グルメ宿特集</span>
+            </Link>
+            <Link
+              href="/furusato-tax-pet-sauna-private-hotspring-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-emerald-950 via-stone-900 to-amber-950 hover:from-emerald-900 hover:to-stone-800 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🐶🧖</span>
+              <span>愛犬同伴＆プライベートサウナご褒美ステイ特集</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-generation-family-luxury-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-indigo-950 via-stone-900 to-amber-950 hover:from-indigo-900 hover:to-stone-800 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>👨‍👩‍👧‍👦♨️</span>
+              <span>3世代家族旅行・高額枠一括消化！離れ客室露天風呂宿</span>
+            </Link>
+            <Link
+              href="/furusato-tax-ski-snowboard-slope-resort-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-blue-950 via-slate-900 to-amber-950 hover:from-blue-900 hover:to-slate-800 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>⛷️🏔️</span>
+              <span>ゲレンデ直結×白銀リゾート！スキー＆雪見温泉ステイ</span>
+            </Link>
+            <Link
+              href="/furusato-tax-anniversary-luxury-suite-villa-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-rose-950 via-stone-900 to-amber-950 hover:from-rose-900 hover:to-stone-800 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>💍🥂</span>
+              <span>憧れの最高峰宿！記念日・プロポーズの極上スイート＆ヴィラ</span>
+            </Link>
+            <Link
+              href="/furusato-tax-shinkansen-station-walk-hotspring-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-teal-950 via-stone-900 to-amber-950 hover:from-teal-900 hover:to-stone-800 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🚅♨️</span>
+              <span>車なし・雪道運転不要！新幹線駅直結の名湯温泉旅館</span>
+            </Link>
+            <Link
+              href="/furusato-tax-golf-resort-hotspring-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-emerald-950 via-stone-900 to-amber-950 hover:from-emerald-900 hover:to-stone-800 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>⛳🏌️</span>
+              <span>名門ゴルフ×ふるさと納税！川奈・軽井沢・宮古島宿</span>
+            </Link>
+            <Link
+              href="/furusato-tax-solo-retreat-private-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-stone-900 via-amber-950 to-stone-900 hover:from-stone-800 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🧘♨️</span>
+              <span>おひとり様贅沢ステイ！客室露天風呂ソロワーケーション</span>
+            </Link>
+            <Link
+              href="/furusato-tax-castle-town-heritage-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-amber-950 via-stone-900 to-amber-900 hover:from-amber-900 hover:to-stone-800 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🏯🌸</span>
+              <span>国宝・名城めぐり！天守望む露天風呂＆歴史城下町宿</span>
+            </Link>
+            <Link
+              href="/furusato-tax-bihada-medicinal-springs-retreat-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-rose-950 via-red-950 to-amber-950 hover:from-rose-900 hover:to-red-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🫧🧖‍♀️</span>
+              <span>奇跡の名湯！強炭酸泉・泥湯・三大美肌の湯リトリート</span>
+            </Link>
+            <Link
+              href="/furusato-tax-winter-crab-gourmet-luxury-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-red-950 via-stone-900 to-amber-950 hover:from-red-900 hover:to-stone-800 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🦀♨️</span>
+              <span>冬の味覚の王様！越前ガニ・松葉ガニタグ付き活蟹宿</span>
+            </Link>
+            <Link
+              href="/furusato-tax-remote-island-luxury-resort-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-cyan-950 via-teal-950 to-amber-950 hover:from-cyan-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🏝️🌊</span>
+              <span>大人の隠れ家・極上離島！屋久島・奄美・石垣ヴィラ</span>
+            </Link>
+            <Link
+              href="/furusato-tax-winery-craft-beer-auberge-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-purple-950 via-stone-900 to-amber-950 hover:from-purple-900 hover:to-stone-800 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🍷🍺</span>
+              <span>ワイン＆地ビール！ぶどう畑望む醸造オーベルジュ</span>
+            </Link>
+            <Link
+              href="/furusato-tax-welcome-baby-family-kids-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-pink-950 via-rose-950 to-amber-950 hover:from-pink-900 hover:to-rose-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>👶🍼</span>
+              <span>赤ちゃん連れ安心！ウェルカムベビー認定＆離乳食の宿</span>
+            </Link>
+            <Link
+              href="/furusato-tax-secret-hotspring-lamp-retreat-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-stone-950 via-amber-950 to-stone-900 hover:from-stone-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🏮♨️</span>
+              <span>秘湯・ランプの宿！渓谷野天風呂デジタルデトックス</span>
+            </Link>
+            <Link
+              href="/furusato-tax-luxury-glamping-bbq-dome-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-emerald-950 via-teal-950 to-amber-950 hover:from-emerald-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>⛺🔥</span>
+              <span>豪華グランピング！手ぶら炭火BBQ＆星空ドームテント</span>
+            </Link>
+            <Link
+              href="/furusato-tax-scenic-train-trolley-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-blue-950 via-cyan-950 to-amber-950 hover:from-blue-900 hover:to-cyan-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🚂🛤️</span>
+              <span>絶景観光列車！黒部トロッコ・わたらせ・只見線名湯旅</span>
+            </Link>
+            <Link
+              href="/furusato-tax-ise-kumano-sacred-power-spot-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-amber-950 via-yellow-950 to-stone-900 hover:from-amber-900 hover:to-yellow-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>⛩️✨</span>
+              <span>お伊勢参り＆熊野古道！最強パワースポット老舗門前宿</span>
+            </Link>
+            <Link
+              href="/furusato-tax-infinity-onsen-sky-ocean-view-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-cyan-200 bg-gradient-to-r from-blue-950 via-sky-950 to-indigo-950 hover:from-blue-900 hover:to-sky-900 rounded-2xl shadow-lg transition border border-cyan-400/50 flex items-center gap-1.5"
+            >
+              <span>🌅♨️</span>
+              <span>絶景インフィニティ温泉！海と空に溶け込むパノラマ露天宿</span>
+            </Link>
+            <Link
+              href="/furusato-tax-private-villa-hanare-hideaway-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-emerald-950 via-teal-950 to-stone-900 hover:from-emerald-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🏡🌿</span>
+              <span>全室離れの隠れ家おこもり宿！客室露天付き極上プライベートヴィラ</span>
+            </Link>
+            <Link
+              href="/furusato-tax-cherry-blossom-spring-hanami-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-pink-200 bg-gradient-to-r from-pink-950 via-rose-950 to-amber-950 hover:from-pink-900 hover:to-rose-900 rounded-2xl shadow-lg transition border border-pink-400/50 flex items-center gap-1.5"
+            >
+              <span>🌸♨️</span>
+              <span>全国桜名所お花見温泉！桜花爛漫の客室露天＆名湯旅館</span>
+            </Link>
+            <Link
+              href="/furusato-tax-kominka-heritage-townhouse-auberge-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-amber-950 via-stone-900 to-yellow-950 hover:from-amber-900 hover:to-stone-850 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🛖🍱</span>
+              <span>古民家再生・町家オーベルジュ！歴史文化財ホテル滞在記</span>
+            </Link>
+            <Link
+              href="/furusato-tax-themepark-aquarium-family-hotel-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-blue-950 via-teal-950 to-amber-950 hover:from-blue-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🐬🎢</span>
+              <span>水族館・テーマパーク直結ホテル！鴨川・白浜・富士急パスポート付き宿</span>
+            </Link>
+            <Link
+              href="/furusato-tax-starry-sky-astronomy-retreat-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-indigo-200 bg-gradient-to-r from-indigo-950 via-blue-950 to-slate-900 hover:from-indigo-900 hover:to-blue-900 rounded-2xl shadow-lg transition border border-indigo-400/50 flex items-center gap-1.5"
+            >
+              <span>🌌🔭</span>
+              <span>日本三大星空・天体観測リゾート！阿智村・八ヶ岳・大山の満天星空宿</span>
+            </Link>
+            <Link
+              href="/furusato-tax-award-winning-breakfast-gourmet-hotel-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-yellow-200 bg-gradient-to-r from-amber-950 via-orange-950 to-yellow-950 hover:from-amber-900 hover:to-orange-900 rounded-2xl shadow-lg transition border border-yellow-400/50 flex items-center gap-1.5"
+            >
+              <span>🍳🍚</span>
+              <span>朝食日本一・究極の朝ごはんホテル！函館いくら盛り放題＆神戸ビュッフェ</span>
+            </Link>
+            <Link
+              href="/furusato-tax-waterfall-river-gorge-healing-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-emerald-200 bg-gradient-to-r from-emerald-950 via-teal-950 to-cyan-950 hover:from-emerald-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-emerald-400/50 flex items-center gap-1.5"
+            >
+              <span>🌊🌲</span>
+              <span>清流渓谷＆名瀑ヒーリング温泉宿！奥入瀬・天城・作並の滝見露天風呂</span>
+            </Link>
+            <Link
+              href="/furusato-tax-craft-beer-brewery-hotel-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-amber-950 via-yellow-950 to-orange-950 hover:from-amber-900 hover:to-yellow-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🍺🍻</span>
+              <span>クラフトビール＆ブルワリーホテル！軽井沢・修善寺・小樽の生ビール宿</span>
+            </Link>
+            <Link
+              href="/furusato-tax-tangible-cultural-property-architectural-ryokan-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-100 bg-gradient-to-r from-stone-900 via-amber-950 to-stone-950 hover:from-stone-800 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🏛️🪵</span>
+              <span>登録有形文化財・宮大工建築旅館！新井旅館・金具屋・環翠楼の歴史宿</span>
+            </Link>
+            <Link
+              href="/furusato-tax-morning-market-hamayaki-seafood-inn-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-red-200 bg-gradient-to-r from-red-950 via-orange-950 to-amber-950 hover:from-red-900 hover:to-orange-900 rounded-2xl shadow-lg transition border border-red-400/50 flex items-center gap-1.5"
+            >
+              <span>🐟🔥</span>
+              <span>海鮮浜焼き・港町朝市めぐり直結宿！八戸岸壁朝市・沼津港・ひろめ市場</span>
+            </Link>
+            <Link
+              href="/furusato-tax-oceanfront-wave-sound-healing-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-cyan-200 bg-gradient-to-r from-blue-950 via-teal-950 to-cyan-950 hover:from-blue-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-cyan-400/50 flex items-center gap-1.5"
+            >
+              <span>🌊🌅</span>
+              <span>絶景オーシャンフロント波音宿！稲取・南房総・読谷村の潮騒露天風呂</span>
+            </Link>
+            <Link
+              href="/furusato-tax-fuji-view-onsen-resort-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-sky-200 bg-gradient-to-r from-blue-950 via-sky-950 to-indigo-950 hover:from-blue-900 hover:to-sky-900 rounded-2xl shadow-lg transition border border-sky-400/50 flex items-center gap-1.5"
+            >
+              <span>🗻♨️</span>
+              <span>絶景富士山ビュー露天風呂宿！河口湖・山中湖・日本平の霊峰宿</span>
+            </Link>
+            <Link
+              href="/furusato-tax-highland-resort-french-auberge-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-emerald-200 bg-gradient-to-r from-emerald-950 via-teal-950 to-stone-900 hover:from-emerald-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-emerald-400/50 flex items-center gap-1.5"
+            >
+              <span>🌲🍽️</span>
+              <span>高原リゾート＆美食フレンチオーベルジュ！那須・清里・裏磐梯の森宿</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-major-bihada-hotspring-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-rose-200 bg-gradient-to-r from-rose-950 via-pink-950 to-amber-950 hover:from-rose-900 hover:to-pink-900 rounded-2xl shadow-lg transition border border-rose-400/50 flex items-center gap-1.5"
+            >
+              <span>♨️✨</span>
+              <span>日本三大美肌の湯！嬉野・喜連川・玉造のとろとろ美肌温泉宿</span>
+            </Link>
+            <Link
+              href="/furusato-tax-historical-kaido-post-town-ryokan-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-amber-950 via-stone-900 to-yellow-950 hover:from-amber-900 hover:to-stone-850 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🏮👟</span>
+              <span>歴史街道・宿場町めぐり名宿！中山道妻籠・馬籠・日光街道の江戸情緒</span>
+            </Link>
+            <Link
+              href="/furusato-tax-sunset-ocean-magic-hour-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-amber-950 via-orange-950 to-red-950 hover:from-amber-900 hover:to-orange-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🌅🌇</span>
+              <span>絶景夕日・サンセット特等席の海宿！堂ヶ島・由良・白浜のマジックアワー</span>
+            </Link>
+            <Link
+              href="/furusato-tax-sake-brewery-pairing-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-100 bg-gradient-to-r from-stone-900 via-amber-950 to-stone-950 hover:from-stone-800 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🍶♨️</span>
+              <span>日本酒ペアリング＆酒蔵直結名宿！越後湯沢酒風呂・諏訪五蔵・会津地酒</span>
+            </Link>
+            <Link
+              href="/furusato-tax-sea-of-clouds-sky-terrace-hotel-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-sky-200 bg-gradient-to-r from-blue-950 via-sky-950 to-indigo-950 hover:from-blue-900 hover:to-sky-900 rounded-2xl shadow-lg transition border border-sky-400/50 flex items-center gap-1.5"
+            >
+              <span>☁️🏔️</span>
+              <span>雲海テラス＆天空パノラマリゾート！トマム・志賀高原・蔵王の雲上宿</span>
+            </Link>
+            <Link
+              href="/furusato-tax-temple-shukubo-shojin-mindfulness-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-emerald-200 bg-gradient-to-r from-stone-950 via-emerald-950 to-stone-900 hover:from-stone-900 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-emerald-400/50 flex items-center gap-1.5"
+            >
+              <span>⛩️🧘</span>
+              <span>古刹宿坊＆本格精進料理ステイ！高野山・善光寺・京都寺院の瞑想旅</span>
+            </Link>
+            <Link
+              href="/furusato-tax-secluded-canyon-isolated-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-stone-900 via-stone-950 to-amber-950 hover:from-stone-800 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>⛰️🪵</span>
+              <span>秘境・渓谷の一軒宿！黒部峡谷トロッコ・祖谷かずら橋の完全遮断宿</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-major-night-view-luxury-hotel-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-indigo-200 bg-gradient-to-r from-indigo-950 via-purple-950 to-slate-900 hover:from-indigo-900 hover:to-purple-900 rounded-2xl shadow-lg transition border border-indigo-400/50 flex items-center gap-1.5"
+            >
+              <span>🌃✨</span>
+              <span>日本三大夜景＆スカイラウンジホテル！長崎・神戸・函館の1000万ドル夜景</span>
+            </Link>
+            <Link
+              href="/furusato-tax-riverside-kawadoko-cooling-inn-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-teal-200 bg-gradient-to-r from-teal-950 via-emerald-950 to-blue-950 hover:from-teal-900 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-teal-400/50 flex items-center gap-1.5"
+            >
+              <span>🍃🐟</span>
+              <span>清流川床料理＆避暑せせらぎ名宿！京都貴船・四万十川の涼風会席</span>
+            </Link>
+            <Link
+              href="/furusato-tax-kura-sauna-private-villa-charter-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-amber-950 via-stone-900 to-orange-950 hover:from-amber-900 hover:to-orange-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🛖🧖</span>
+              <span>蔵サウナ＆一棟貸しプライベートヴィラ！信濃町・八ヶ岳・丹波篠山</span>
+            </Link>
+            <Link
+              href="/furusato-tax-autumn-foliage-gorge-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-orange-200 bg-gradient-to-r from-orange-950 via-red-950 to-amber-950 hover:from-orange-900 hover:to-red-900 rounded-2xl shadow-lg transition border border-orange-400/50 flex items-center gap-1.5"
+            >
+              <span>🍁♨️</span>
+              <span>紅葉渓谷＆錦秋の絶景露天風呂宿！定山渓・奥日光・京都嵐山</span>
+            </Link>
+            <Link
+              href="/furusato-tax-brand-jidori-mizutaki-gourmet-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-100 bg-gradient-to-r from-amber-900 via-yellow-950 to-stone-900 hover:from-amber-850 hover:to-stone-850 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🍲🍗</span>
+              <span>ブランド地鶏＆水炊き・軍鶏料理の名湯宿！比内地鶏・土佐ジロー</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-gardens-heritage-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-emerald-200 bg-gradient-to-r from-emerald-950 via-teal-950 to-stone-900 hover:from-emerald-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-emerald-400/50 flex items-center gap-1.5"
+            >
+              <span>🏯🌿</span>
+              <span>日本三名園＆大名庭園を望む老舗旅館！兼六園・後楽園・偕楽園</span>
+            </Link>
+            <Link
+              href="/furusato-tax-cycling-shimanami-lake-resort-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-cyan-200 bg-gradient-to-r from-cyan-950 via-blue-950 to-teal-950 hover:from-cyan-900 hover:to-blue-900 rounded-2xl shadow-lg transition border border-cyan-400/50 flex items-center gap-1.5"
+            >
+              <span>🚴🌊</span>
+              <span>絶景サイクリング＆海沿いサイクリスト温泉宿！しまなみ・琵琶湖</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-scenic-views-heritage-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-sky-200 bg-gradient-to-r from-sky-950 via-blue-950 to-indigo-950 hover:from-sky-900 hover:to-indigo-900 rounded-2xl shadow-lg transition border border-sky-400/50 flex items-center gap-1.5"
+            >
+              <span>🌊⛩️</span>
+              <span>日本三景の絶景オーシャンビュー宿！松島・天橋立・安芸の宮島</span>
+            </Link>
+            <Link
+              href="/furusato-tax-diving-ocean-resort-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-teal-200 bg-gradient-to-r from-teal-950 via-cyan-950 to-emerald-950 hover:from-teal-900 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-teal-400/50 flex items-center gap-1.5"
+            >
+              <span>🤿🐠</span>
+              <span>海中展望＆ダイビング直結リゾート！恩納村・串本・西伊豆マリン</span>
+            </Link>
+            <Link
+              href="/furusato-tax-literary-heritage-historic-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-stone-200 bg-gradient-to-r from-stone-900 via-amber-950 to-stone-950 hover:from-stone-850 hover:to-amber-900 rounded-2xl shadow-lg transition border border-stone-400/50 flex items-center gap-1.5"
+            >
+              <span>📖♨️</span>
+              <span>文豪の愛した名湯・文学ゆかりの老舗旅館！城崎・湯ヶ島・道後</span>
+            </Link>
+            <Link
+              href="/furusato-tax-sky-open-air-glamping-resort-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-lime-200 bg-gradient-to-r from-emerald-950 via-lime-950 to-stone-900 hover:from-emerald-900 hover:to-lime-900 rounded-2xl shadow-lg transition border border-lime-400/50 flex items-center gap-1.5"
+            >
+              <span>⛺🌌</span>
+              <span>天空の露天風呂付きグランピング＆星空ドーム！富士山・阿蘇・那須</span>
+            </Link>
+            <Link
+              href="/furusato-tax-carbonated-spring-effervescent-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-cyan-200 bg-gradient-to-r from-cyan-950 via-blue-950 to-stone-900 hover:from-cyan-900 hover:to-blue-900 rounded-2xl shadow-lg transition border border-cyan-400/50 flex items-center gap-1.5"
+            >
+              <span>🫧♨️</span>
+              <span>天然炭酸泉＆シュワシュワ美肌の湯宿！長湯・下呂・有馬の極上泡風呂</span>
+            </Link>
+            <Link
+              href="/furusato-tax-river-activity-canoe-fishing-resort-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-teal-200 bg-gradient-to-r from-teal-950 via-emerald-950 to-stone-900 hover:from-teal-900 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-teal-400/50 flex items-center gap-1.5"
+            >
+              <span>🛶🐟</span>
+              <span>清流アクティビティ＆リバービュー宿！長良川鵜飼・四万十川・保津川</span>
+            </Link>
+            <Link
+              href="/furusato-tax-sweets-cafe-wagashi-retro-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-amber-950 via-orange-950 to-stone-900 hover:from-amber-900 hover:to-orange-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🍡🍵</span>
+              <span>銘菓・和カフェ＆老舗スイーツめぐり温泉宿！金沢・小布施・伊勢</span>
+            </Link>
+            <Link
+              href="/furusato-tax-national-treasure-castle-view-luxury-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-indigo-200 bg-gradient-to-r from-slate-950 via-indigo-950 to-stone-900 hover:from-slate-900 hover:to-indigo-900 rounded-2xl shadow-lg transition border border-indigo-400/50 flex items-center gap-1.5"
+            >
+              <span>🏯✨</span>
+              <span>国宝天守・城下町キャッスルビュー名門宿！姫路城・松本城・彦根城</span>
+            </Link>
+            <Link
+              href="/furusato-tax-alps-trekking-mountain-resort-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-sky-200 bg-gradient-to-r from-slate-900 via-sky-950 to-teal-950 hover:from-sky-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-sky-400/50 flex items-center gap-1.5"
+            >
+              <span>🏔️🥾</span>
+              <span>日本アルプス＆高山トレッキング山岳宿！上高地・白馬・立山雲上ホテル</span>
+            </Link>
+            <Link
+              href="/furusato-tax-winery-vineyard-auberge-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-rose-200 bg-gradient-to-r from-purple-950 via-rose-950 to-stone-900 hover:from-purple-900 hover:to-rose-900 rounded-2xl shadow-lg transition border border-rose-400/50 flex items-center gap-1.5"
+            >
+              <span>🍇🍷</span>
+              <span>銘酒ワイナリー＆葡萄畑オーベルジュ！勝沼・余市・十勝ワインステイ</span>
+            </Link>
+            <Link
+              href="/furusato-tax-scenic-train-torokko-railway-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-amber-950 via-stone-900 to-orange-950 hover:from-amber-900 hover:to-orange-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🚂🛤️</span>
+              <span>絶景ローカル線＆トロッコ列車めぐり温泉宿！わたらせ・大井川SL・只見線</span>
+            </Link>
+            <Link
+              href="/furusato-tax-lighthouse-cliff-ocean-panorama-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-cyan-200 bg-gradient-to-r from-blue-950 via-cyan-950 to-stone-900 hover:from-blue-900 hover:to-cyan-900 rounded-2xl shadow-lg transition border border-cyan-400/50 flex items-center gap-1.5"
+            >
+              <span>🗼🌊</span>
+              <span>白亜の灯台＆断崖絶景オーシャンビュー宿！日御碕・犬吠埼・室戸岬</span>
+            </Link>
+            <Link
+              href="/furusato-tax-terraced-rice-fields-satoyama-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-emerald-950 via-amber-950 to-stone-900 hover:from-emerald-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🌾♨️</span>
+              <span>絶景棚田＆里山おこもり温泉宿！星峠・白米千枚田・大山千枚田</span>
+            </Link>
+            <Link
+              href="/furusato-tax-spring-water-soba-tofu-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-sky-200 bg-gradient-to-r from-teal-950 via-sky-950 to-stone-900 hover:from-teal-900 hover:to-sky-900 rounded-2xl shadow-lg transition border border-sky-400/50 flex items-center gap-1.5"
+            >
+              <span>💧🥢</span>
+              <span>名水百選・湧水めぐり＆手打ち蕎麦宿！忍野八海・安曇野・郡上八幡</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-medicinal-baths-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-red-200 bg-gradient-to-r from-rose-950 via-red-950 to-stone-900 hover:from-rose-900 hover:to-red-900 rounded-2xl shadow-lg transition border border-red-400/50 flex items-center gap-1.5"
+            >
+              <span>♨️🌿</span>
+              <span>日本三大薬湯＆奇跡の濃厚湯治宿！有馬金泉・草津硫黄泉・松之山</span>
+            </Link>
+            <Link
+              href="/furusato-tax-craft-cider-hop-brewery-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-lime-200 bg-gradient-to-r from-amber-950 via-lime-950 to-stone-900 hover:from-amber-900 hover:to-lime-900 rounded-2xl shadow-lg transition border border-lime-400/50 flex items-center gap-1.5"
+            >
+              <span>🍏🍺</span>
+              <span>クラフトシードル＆ご当地ホップ醸造宿！弘前・遠野・南信州飯田</span>
+            </Link>
+            <Link
+              href="/furusato-tax-caldera-blue-lake-resort-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-sky-200 bg-gradient-to-r from-blue-950 via-sky-950 to-teal-950 hover:from-blue-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-sky-400/50 flex items-center gap-1.5"
+            >
+              <span>🌊🛶</span>
+              <span>神秘の青・カルデラ湖畔ホテル！支笏湖ブルー・屈斜路湖・田沢湖</span>
+            </Link>
+            <Link
+              href="/furusato-tax-brand-pork-shabu-gourmet-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-rose-200 bg-gradient-to-r from-rose-950 via-red-950 to-amber-950 hover:from-rose-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-rose-400/50 flex items-center gap-1.5"
+            >
+              <span>🥩🍲</span>
+              <span>銘柄豚・極上しゃぶしゃぶ料理の名湯宿！鹿児島黒豚・金華豚・那須豚</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-major-forest-therapy-retreat-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-emerald-200 bg-gradient-to-r from-emerald-950 via-teal-950 to-stone-900 hover:from-emerald-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-emerald-400/50 flex items-center gap-1.5"
+            >
+              <span>🌲🪵</span>
+              <span>日本三大美林＆森林セラピー癒やしの宿！屋久杉・木曽ヒノキ・青森ヒバ</span>
+            </Link>
+            <Link
+              href="/furusato-tax-distillery-whisky-pairing-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-100 bg-gradient-to-r from-stone-950 via-amber-950 to-yellow-950 hover:from-stone-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🥃樽</span>
+              <span>国産ウイスキー蒸溜所＆銘酒ペアリング宿！余市・白州・秩父モルト</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-gorges-canyon-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-emerald-200 bg-gradient-to-r from-teal-950 via-emerald-950 to-slate-900 hover:from-teal-900 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-emerald-400/50 flex items-center gap-1.5"
+            >
+              <span>🏞️♨️</span>
+              <span>日本三大峡谷＆巨岩パノラマ露天風呂宿！清津峡・黒部峡谷・大杉谷</span>
+            </Link>
+            <Link
+              href="/furusato-tax-kuroge-wagyu-teppanyaki-luxury-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-100 bg-gradient-to-r from-red-950 via-stone-900 to-amber-950 hover:from-red-900 hover:to-stone-850 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🥩🔥</span>
+              <span>最高級黒毛和牛ステーキ＆鉄板焼き宿！松阪牛・近江牛・米沢牛</span>
+            </Link>
+            <Link
+              href="/furusato-tax-japan-oldest-classic-hotel-heritage-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-stone-950 via-amber-950 to-stone-900 hover:from-stone-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🏛️🗝️</span>
+              <span>日本最古のクラシックホテル！日光金谷・箱根富士屋・雲仙観光ホテル</span>
+            </Link>
+            <Link
+              href="/furusato-tax-rias-coast-ise-ebi-abalone-ocean-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-orange-200 bg-gradient-to-r from-blue-950 via-orange-950 to-amber-950 hover:from-blue-900 hover:to-orange-900 rounded-2xl shadow-lg transition border border-orange-400/50 flex items-center gap-1.5"
+            >
+              <span>🦐🦪</span>
+              <span>夕映えリアス式海岸＆伊勢海老・鮑宿！志摩英虞湾・南三陸・伊根舟屋</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-waterfalls-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-cyan-200 bg-gradient-to-r from-blue-950 via-teal-950 to-slate-900 hover:from-blue-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-cyan-400/50 flex items-center gap-1.5"
+            >
+              <span>🌊🏞️</span>
+              <span>日本三名瀑＆ダイナミック滝見露天風呂宿！那智の滝・華厳の滝・袋田</span>
+            </Link>
+            <Link
+              href="/furusato-tax-sake-bar-unlimited-tasting-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-amber-950 via-yellow-950 to-stone-900 hover:from-amber-900 hover:to-yellow-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🍶🍶</span>
+              <span>地酒BAR＆日本酒利き酒し放題の名湯宿！越後湯沢・赤湯・京都伏見</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-sand-dunes-resort-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-yellow-200 bg-gradient-to-r from-amber-950 via-yellow-950 to-orange-950 hover:from-amber-900 hover:to-orange-900 rounded-2xl shadow-lg transition border border-yellow-400/50 flex items-center gap-1.5"
+            >
+              <span>🐪🏜️</span>
+              <span>日本三大砂丘＆砂景オーシャンリゾート！鳥取砂丘・中田島・吹上浜</span>
+            </Link>
+            <Link
+              href="/furusato-tax-traditional-kamado-rice-irori-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-stone-200 bg-gradient-to-r from-stone-950 via-stone-900 to-amber-950 hover:from-stone-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-stone-400/50 flex items-center gap-1.5"
+            >
+              <span>🍚🔥</span>
+              <span>古民家かまど炊きご飯＆囲炉裏宿！白川郷・遠野・丹波篠山黒豆ご飯</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-illuminations-resort-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-indigo-200 bg-gradient-to-r from-indigo-950 via-purple-950 to-blue-950 hover:from-indigo-900 hover:to-purple-900 rounded-2xl shadow-lg transition border border-indigo-400/50 flex items-center gap-1.5"
+            >
+              <span>✨🎄</span>
+              <span>日本三大イルミネーション直結宿！あしかが・ハウステンボス・札幌</span>
+            </Link>
+            <Link
+              href="/furusato-tax-kue-gourmet-luxury-fish-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-blue-950 via-amber-950 to-stone-900 hover:from-blue-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🐟🍲</span>
+              <span>天然本クエ鍋＆幻の高級魚グルメ宿！南紀白浜・長崎五島・高知室戸</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-famous-bridges-heritage-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-teal-200 bg-gradient-to-r from-teal-950 via-stone-900 to-slate-900 hover:from-teal-900 hover:to-stone-850 rounded-2xl shadow-lg transition border border-teal-400/50 flex items-center gap-1.5"
+            >
+              <span>🌉🏯</span>
+              <span>日本三名橋＆歴史リバーサイド名宿！岩国錦帯橋・長崎眼鏡橋・日本橋</span>
+            </Link>
+            <Link
+              href="/furusato-tax-open-air-bath-with-majestic-fuji-view-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-sky-200 bg-gradient-to-r from-slate-950 via-blue-950 to-sky-950 hover:from-slate-900 hover:to-sky-900 rounded-2xl shadow-lg transition border border-sky-400/50 flex items-center gap-1.5"
+            >
+              <span>🗻♨️</span>
+              <span>富士山ビュー客室露天風呂宿！河口湖逆さ富士・日本平・箱根芦ノ湖</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-rapids-river-activity-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-cyan-200 bg-gradient-to-r from-blue-950 via-cyan-950 to-teal-950 hover:from-blue-900 hover:to-cyan-900 rounded-2xl shadow-lg transition border border-cyan-400/50 flex items-center gap-1.5"
+            >
+              <span>🚣🌊</span>
+              <span>日本三大急流＆爽快川下り名宿！最上川・富士川・球磨川温泉旅</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-festivals-heritage-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-red-950 via-amber-950 to-stone-900 hover:from-red-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🏮👘</span>
+              <span>日本三大美祭＆山鉾の街老舗旅館！高山祭・秩父夜祭・京都祇園祭</span>
+            </Link>
+            <Link
+              href="/furusato-tax-rare-wagyu-tankaku-akagyu-gourmet-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-rose-200 bg-gradient-to-r from-rose-950 via-red-950 to-stone-900 hover:from-rose-900 hover:to-red-900 rounded-2xl shadow-lg transition border border-rose-400/50 flex items-center gap-1.5"
+            >
+              <span>🥩♨️</span>
+              <span>幻の赤身和牛「短角牛・あか牛」美食宿！岩手・熊本阿蘇・高知土佐</span>
+            </Link>
+            <Link
+              href="/furusato-tax-starry-sky-open-air-bath-observatory-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-indigo-200 bg-gradient-to-r from-indigo-950 via-slate-950 to-purple-950 hover:from-indigo-900 hover:to-indigo-850 rounded-2xl shadow-lg transition border border-indigo-400/50 flex items-center gap-1.5"
+            >
+              <span>🌌🔭</span>
+              <span>星空露天風呂＆天文台リゾート！阿智村・美星町・石垣島星空保護区</span>
+            </Link>
+            <Link
+              href="/furusato-tax-emerald-valley-gorge-hot-spring-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-emerald-200 bg-gradient-to-r from-emerald-950 via-teal-950 to-cyan-950 hover:from-emerald-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-emerald-400/50 flex items-center gap-1.5"
+            >
+              <span>🏞️💎</span>
+              <span>日本三大渓谷美＆エメラルド清流宿！大歩危・黒部峡谷・清津峡</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-sacred-temple-bells-retreat-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-amber-950 via-stone-900 to-slate-900 hover:from-amber-900 hover:to-stone-850 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🔔🧘</span>
+              <span>日本三名鐘＆古刹めぐり宿坊名門宿！三井寺・神護寺・太宰府観世音寺</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-wagashi-tea-culture-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-rose-200 bg-gradient-to-r from-rose-950 via-amber-950 to-emerald-950 hover:from-rose-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-rose-400/50 flex items-center gap-1.5"
+            >
+              <span>🍵🍡</span>
+              <span>日本三大銘菓＆歴史茶の湯名宿！金沢長生殿・長岡越乃雪・松江山川</span>
+            </Link>
+            <Link
+              href="/furusato-tax-japanese-whisky-distillery-retreat-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-100 bg-gradient-to-r from-yellow-950 via-amber-950 to-stone-950 hover:from-yellow-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-yellow-400/50 flex items-center gap-1.5"
+            >
+              <span>🥃🌲</span>
+              <span>日本のウイスキー聖地＆蒸溜所宿！余市・サントリー白州・富士御殿場</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-pottery-towns-gourmet-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-stone-950 via-amber-950 to-orange-950 hover:from-stone-900 hover:to-orange-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🏺🍶</span>
+              <span>日本三大陶磁器の里＆器と美食宿！有田・美濃・瀬戸焼と武雄嬉野温泉</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-hachiman-shrines-sacred-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-red-200 bg-gradient-to-r from-red-950 via-rose-950 to-stone-900 hover:from-red-900 hover:to-stone-850 rounded-2xl shadow-lg transition border border-red-400/50 flex items-center gap-1.5"
+            >
+              <span>⛩️🕊️</span>
+              <span>日本三大八幡宮＆厄除開運門前宿！宇佐神宮・石清水八幡宮・筥崎宮</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-master-brewers-toji-sake-inn-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-cyan-200 bg-gradient-to-r from-blue-950 via-indigo-950 to-slate-900 hover:from-blue-900 hover:to-slate-850 rounded-2xl shadow-lg transition border border-cyan-400/50 flex items-center gap-1.5"
+            >
+              <span>🍶♨️</span>
+              <span>日本三大杜氏の郷＆純米大吟醸仕込み水宿！南部・越後・丹波杜氏</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-karst-plateaus-mountain-resort-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-emerald-200 bg-gradient-to-r from-emerald-950 via-teal-950 to-sky-950 hover:from-emerald-900 hover:to-sky-900 rounded-2xl shadow-lg transition border border-emerald-400/50 flex items-center gap-1.5"
+            >
+              <span>⛰️🐑</span>
+              <span>日本三大カルスト台地＆高原絶景宿！秋吉台・四国カルスト・平尾台</span>
+            </Link>
+            <Link
+              href="/furusato-tax-japan-three-great-hot-springs-heritage-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-amber-950 via-red-950 to-stone-900 hover:from-amber-900 hover:to-red-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>♨️👑</span>
+              <span>日本三名泉＆格式ある老舗旅館！有馬金泉・草津湯畑・下呂美肌湯</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-ancient-trails-historic-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-stone-200 bg-gradient-to-r from-stone-950 via-emerald-950 to-amber-950 hover:from-stone-900 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-stone-400/50 flex items-center gap-1.5"
+            >
+              <span>🥾🌲</span>
+              <span>日本三大古道＆歴史巡礼宿！熊野古道・中山道木曽路・鯖街道熊川宿</span>
+            </Link>
+            <Link
+              href="/furusato-tax-whitewater-rafting-canyoning-adventure-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-cyan-200 bg-gradient-to-r from-blue-950 via-cyan-950 to-teal-950 hover:from-blue-900 hover:to-cyan-900 rounded-2xl shadow-lg transition border border-cyan-400/50 flex items-center gap-1.5"
+            >
+              <span>🛶🌊</span>
+              <span>激流ラフティング＆キャニオニング宿！みなかみ利根川・吉野川・仁淀川</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-pine-groves-ocean-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-teal-200 bg-gradient-to-r from-emerald-950 via-teal-950 to-blue-950 hover:from-emerald-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-teal-400/50 flex items-center gap-1.5"
+            >
+              <span>🌲🌊</span>
+              <span>日本三大松原＆白砂青松オーシャン宿！三保松原・虹の松原・気比の松原</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-sacred-mountains-sky-resort-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-sky-200 bg-gradient-to-r from-blue-950 via-indigo-950 to-slate-900 hover:from-blue-900 hover:to-slate-850 rounded-2xl shadow-lg transition border border-sky-400/50 flex items-center gap-1.5"
+            >
+              <span>🗻✨</span>
+              <span>日本三霊山＆名峰パノラマ宿！富士山・白山・立山アルペンルート</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-famous-waters-culinary-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-cyan-200 bg-gradient-to-r from-cyan-950 via-teal-950 to-blue-950 hover:from-cyan-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-cyan-400/50 flex items-center gap-1.5"
+            >
+              <span>💧🍲</span>
+              <span>日本三大名水＆清冽湧水美食宿！南阿蘇白川水源・八ヶ岳白州・京都伏見</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-water-towns-riverside-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-emerald-200 bg-gradient-to-r from-teal-950 via-emerald-950 to-amber-950 hover:from-teal-900 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-emerald-400/50 flex items-center gap-1.5"
+            >
+              <span>🚣🛶</span>
+              <span>日本三大水郷＆川下り舟宿！柳川うなぎ・近江八幡和船・小江戸佐原</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-gorge-open-air-baths-retreat-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-amber-950 via-stone-900 to-emerald-950 hover:from-amber-900 hover:to-stone-850 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>♨️🏞️</span>
+              <span>日本三大渓谷野天風呂宿！天城湯ヶ島・群馬尻焼川風呂・秋田秋の宮</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-ports-waterfront-luxury-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-sky-200 bg-gradient-to-r from-slate-950 via-blue-950 to-indigo-950 hover:from-slate-900 hover:to-blue-900 rounded-2xl shadow-lg transition border border-sky-400/50 flex items-center gap-1.5"
+            >
+              <span>⚓🌃</span>
+              <span>日本三大美港＆ベイサイド名門宿！神戸港・横浜港・長崎港</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-green-tea-regions-healing-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-emerald-200 bg-gradient-to-r from-emerald-950 via-teal-950 to-green-950 hover:from-emerald-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-emerald-400/50 flex items-center gap-1.5"
+            >
+              <span>🍵🍃</span>
+              <span>日本三大銘茶＆茶香炉ヒーリング宿！静岡茶・宇治茶・朝宮茶</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-water-castles-seaside-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-blue-200 bg-gradient-to-r from-cyan-950 via-blue-950 to-teal-950 hover:from-cyan-900 hover:to-blue-900 rounded-2xl shadow-lg transition border border-cyan-400/50 flex items-center gap-1.5"
+            >
+              <span>🏯🌊</span>
+              <span>日本三大水城＆海に浮かぶ名城展望宿！今治城・高松城・中津城</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-wonders-rock-scenery-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-stone-950 via-amber-950 to-zinc-900 hover:from-stone-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>⛰️🪨</span>
+              <span>日本三大奇勝＆巨岩奇峰パノラマ宿！妙義山・耶馬渓・寒霞渓</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-limestone-caves-mystery-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-cyan-200 bg-gradient-to-r from-cyan-950 via-blue-950 to-indigo-950 hover:from-cyan-900 hover:to-blue-900 rounded-2xl shadow-lg transition border border-cyan-400/50 flex items-center gap-1.5"
+            >
+              <span>🦇💎</span>
+              <span>日本三大鍾乳洞＆神秘の地底美宿！龍泉洞・龍河洞・秋芳洞</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-pine-groves-sandbar-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-emerald-200 bg-gradient-to-r from-emerald-950 via-teal-950 to-slate-950 hover:from-emerald-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-emerald-400/50 flex items-center gap-1.5"
+            >
+              <span>🌲🌊</span>
+              <span>日本三大松原・砂州＆白砂青松オーシャンビュー宿！天橋立・気比松原・三保松原</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-washi-craft-heritage-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-100 bg-gradient-to-r from-amber-950 via-stone-900 to-yellow-950 hover:from-amber-900 hover:to-stone-850 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>📜✨</span>
+              <span>日本三大和紙の里＆工芸温泉宿！越前和紙・美濃和紙・小川和紙</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-medicinal-springs-healing-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-rose-200 bg-gradient-to-r from-rose-950 via-red-950 to-amber-950 hover:from-rose-900 hover:to-red-900 rounded-2xl shadow-lg transition border border-rose-400/50 flex items-center gap-1.5"
+            >
+              <span>♨️🌿</span>
+              <span>日本三大薬湯＆濃厚生薬湯治宿！松之山温泉・草津温泉・有馬温泉</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-bon-dances-heritage-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-red-950 via-orange-950 to-amber-950 hover:from-red-900 hover:to-orange-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🏮👘</span>
+              <span>日本三大盆踊り＆伝統文化宿！西馬音内・郡上おどり・阿波おどり</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-karsts-highland-drive-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-cyan-200 bg-gradient-to-r from-slate-950 via-teal-950 to-emerald-950 hover:from-slate-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-cyan-400/50 flex items-center gap-1.5"
+            >
+              <span>🚗⛰️</span>
+              <span>日本三大カルスト台地＆絶景スカイドライブ宿！秋吉台・四国カルスト・平尾台</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-cutlery-towns-craft-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-slate-200 bg-gradient-to-r from-zinc-950 via-slate-900 to-stone-950 hover:from-zinc-900 hover:to-slate-800 rounded-2xl shadow-lg transition border border-slate-400/50 flex items-center gap-1.5"
+            >
+              <span>🔪✨</span>
+              <span>日本三大刃物の里＆職人クラフト宿！関・越前・堺</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-gardens-heritage-luxury-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-emerald-200 bg-gradient-to-r from-emerald-950 via-teal-950 to-stone-950 hover:from-emerald-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-emerald-400/50 flex items-center gap-1.5"
+            >
+              <span>🏯🌸</span>
+              <span>日本三大名園＆大名庭園を愛でる名門宿！兼六園・後楽園・偕楽園</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-morning-markets-seafood-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-amber-950 via-orange-950 to-red-950 hover:from-amber-900 hover:to-orange-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🐟🌅</span>
+              <span>日本三大朝市＆獲れたて海鮮・朝ごはん宿！輪島・呼子・勝浦</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-rapids-river-boat-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-cyan-200 bg-gradient-to-r from-teal-950 via-cyan-950 to-blue-950 hover:from-teal-900 hover:to-cyan-900 rounded-2xl shadow-lg transition border border-cyan-400/50 flex items-center gap-1.5"
+            >
+              <span>🚣🏞️</span>
+              <span>日本三大急流＆舟下り・リバーサイド宿！最上川・富士川・球磨川</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-gorges-canyon-scenery-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-emerald-200 bg-gradient-to-r from-emerald-950 via-teal-950 to-cyan-950 hover:from-emerald-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-emerald-400/50 flex items-center gap-1.5"
+            >
+              <span>⛰️🌲</span>
+              <span>日本三大峡谷＆断崖絶壁・エメラルド渓谷宿！清津峡・黒部峡谷・瀞峡</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-sake-capitals-brewery-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-indigo-200 bg-gradient-to-r from-slate-950 via-indigo-950 to-blue-950 hover:from-slate-900 hover:to-indigo-900 rounded-2xl shadow-lg transition border border-indigo-400/50 flex items-center gap-1.5"
+            >
+              <span>🍶🍶</span>
+              <span>日本三大酒どころ＆酒蔵ツーリズム宿！灘五郷・伏見・西条</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-primeval-forests-nature-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-emerald-200 bg-gradient-to-r from-emerald-950 via-teal-950 to-green-950 hover:from-emerald-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-emerald-400/50 flex items-center gap-1.5"
+            >
+              <span>🌲🦌</span>
+              <span>日本三大原生林＆世界自然遺産宿！知床・屋久島・白神山地</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-sand-dunes-coastal-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-amber-950 via-yellow-950 to-stone-900 hover:from-amber-900 hover:to-yellow-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🐪🏜️</span>
+              <span>日本三大砂丘＆風紋パノラマ宿！鳥取砂丘・吹上浜・中田島砂丘</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-buddhas-heritage-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-100 bg-gradient-to-r from-amber-950 via-stone-900 to-amber-950 hover:from-amber-900 hover:to-stone-850 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🪷🏛️</span>
+              <span>日本三大仏＆歴史ヒーリング名宿！東大寺大仏・鎌倉大仏・高岡大仏</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-night-cherry-blossoms-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-pink-200 bg-gradient-to-r from-pink-950 via-rose-950 to-purple-950 hover:from-pink-900 hover:to-rose-900 rounded-2xl shadow-lg transition border border-pink-400/50 flex items-center gap-1.5"
+            >
+              <span>🌸🏯</span>
+              <span>日本三大夜桜＆桜回廊ライトアップ宿！弘前・高田城・高遠城址</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-beautiful-forests-wood-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-emerald-200 bg-gradient-to-r from-stone-950 via-emerald-950 to-teal-950 hover:from-stone-900 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-emerald-400/50 flex items-center gap-1.5"
+            >
+              <span>🌲🪵</span>
+              <span>日本三大美林＆天然木アロマ温泉宿！青森ヒバ・秋田スギ・木曽ヒノキ</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-curious-bridges-canyon-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-amber-950 via-stone-900 to-yellow-950 hover:from-amber-900 hover:to-stone-850 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🌉🏞️</span>
+              <span>日本三奇橋＆スリル名橋・渓谷宿！錦帯橋・甲斐猿橋・祖谷かずら橋</span>
+            </Link>
+            <Link
+              href="/furusato-tax-new-three-major-night-views-sky-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-cyan-200 bg-gradient-to-r from-slate-950 via-blue-950 to-indigo-950 hover:from-slate-900 hover:to-blue-900 rounded-2xl shadow-lg transition border border-cyan-400/50 flex items-center gap-1.5"
+            >
+              <span>🌃✨</span>
+              <span>新日本三大夜景＆天空スカイパノラマ宿！皿倉山・若草山・フルーツ公園</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-fire-festivals-passion-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-red-200 bg-gradient-to-r from-red-950 via-orange-950 to-amber-950 hover:from-red-900 hover:to-orange-900 rounded-2xl shadow-lg transition border border-red-400/50 flex items-center gap-1.5"
+            >
+              <span>🔥🏮</span>
+              <span>日本三大火祭り＆燃え盛る情熱伝統宿！那智・野沢温泉・鞍馬</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-caves-ice-adventure-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-cyan-200 bg-gradient-to-r from-sky-950 via-cyan-950 to-blue-950 hover:from-sky-900 hover:to-cyan-900 rounded-2xl shadow-lg transition border border-cyan-400/50 flex items-center gap-1.5"
+            >
+              <span>🧊🦇</span>
+              <span>日本三大氷穴・洞窟探検宿！富岳風穴鳴沢氷穴・玉泉洞・昇竜洞</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-curious-festivals-heritage-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-amber-950 via-red-950 to-orange-950 hover:from-amber-900 hover:to-red-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>👹🌲</span>
+              <span>日本三大奇祭＆天下の熱狂カルチャー宿！御柱祭・はだか祭・男鹿なまはげ</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-torii-gates-sacred-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-rose-200 bg-gradient-to-r from-red-950 via-rose-950 to-amber-950 hover:from-red-900 hover:to-rose-900 rounded-2xl shadow-lg transition border border-rose-400/50 flex items-center gap-1.5"
+            >
+              <span>⛩️🌊</span>
+              <span>日本三大鳥居＆聖地パワースポット宿！厳島神社・大神神社・平安神宮</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-fireworks-riverside-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-yellow-200 bg-gradient-to-r from-slate-950 via-indigo-950 to-purple-950 hover:from-slate-900 hover:to-indigo-900 rounded-2xl shadow-lg transition border border-yellow-400/50 flex items-center gap-1.5"
+            >
+              <span>🎆🎇</span>
+              <span>日本三大花火大会＆リバーサイド展望宿！長岡・大曲・土浦</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-thatched-roof-villages-heritage-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-stone-950 via-amber-950 to-emerald-950 hover:from-stone-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🏡🌾</span>
+              <span>日本三大茅葺きの里＆原風景ノスタルジー宿！美山・大内宿・白川郷</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-subterranean-waterfalls-caves-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-cyan-200 bg-gradient-to-r from-cyan-950 via-teal-950 to-blue-950 hover:from-cyan-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-cyan-400/50 flex items-center gap-1.5"
+            >
+              <span>🌊🪨</span>
+              <span>日本三大地底滝鍾乳洞＆地下宮殿宿！井倉洞・あぶくま洞・日原鍾乳洞</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-harbor-cruises-luxury-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-sky-200 bg-gradient-to-r from-slate-950 via-blue-950 to-indigo-950 hover:from-slate-900 hover:to-blue-900 rounded-2xl shadow-lg transition border border-sky-400/50 flex items-center gap-1.5"
+            >
+              <span>🚢🥂</span>
+              <span>日本三大港クルーズ＆夜景ディナークルーズ宿！神戸・横浜・長崎</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-coastal-pine-glamping-resort-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-emerald-200 bg-gradient-to-r from-emerald-950 via-teal-950 to-slate-950 hover:from-emerald-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-emerald-400/50 flex items-center gap-1.5"
+            >
+              <span>🌲⛺</span>
+              <span>日本三大松原・白砂青松グランピング宿！虹の松原・気比松原・三保松原</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-tanabata-festivals-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-sky-200 bg-gradient-to-r from-blue-950 via-indigo-950 to-purple-950 hover:from-blue-900 hover:to-indigo-900 rounded-2xl shadow-lg transition border border-sky-400/50 flex items-center gap-1.5"
+            >
+              <span>🎋🌟</span>
+              <span>日本三大七夕まつり＆星空短冊散策宿！仙台・平塚・一宮</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-precipitous-coasts-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-cyan-200 bg-gradient-to-r from-slate-950 via-cyan-950 to-blue-950 hover:from-slate-900 hover:to-cyan-900 rounded-2xl shadow-lg transition border border-cyan-400/50 flex items-center gap-1.5"
+            >
+              <span>🌊🧗</span>
+              <span>日本三大名勝断崖海岸＆パノラマ海宿！北山崎・東尋坊・足摺岬</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-national-treasure-teahouses-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-stone-950 via-amber-950 to-yellow-950 hover:from-stone-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🍵🏯</span>
+              <span>国宝三大茶室＆数寄屋建築名旅館宿！待庵・如庵・密庵</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-famous-stones-gardens-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-emerald-200 bg-gradient-to-r from-zinc-950 via-stone-900 to-emerald-950 hover:from-zinc-900 hover:to-stone-850 rounded-2xl shadow-lg transition border border-emerald-400/50 flex items-center gap-1.5"
+            >
+              <span>🪨🌿</span>
+              <span>日本三大銘石＆枯山水庭園・名湯宿！佐渡赤玉石・揖斐川石・鴨川真黒石</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-bridges-history-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-slate-950 via-amber-950 to-stone-950 hover:from-slate-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🌉🏯</span>
+              <span>日本三大名橋＆伝統建築美を渡る歴史街道宿！錦帯橋・眼鏡橋・日本橋</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-famous-confections-historic-town-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-rose-200 bg-gradient-to-r from-stone-950 via-rose-950 to-amber-950 hover:from-stone-900 hover:to-rose-900 rounded-2xl shadow-lg transition border border-rose-400/50 flex items-center gap-1.5"
+            >
+              <span>🍡🍵</span>
+              <span>日本三大銘菓＆城下町茶寮・和菓子文化宿！金沢・長岡・京都</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-limestone-caves-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-teal-200 bg-gradient-to-r from-cyan-950 via-teal-950 to-slate-950 hover:from-cyan-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-teal-400/50 flex items-center gap-1.5"
+            >
+              <span>💎🦇</span>
+              <span>日本三大鍾乳洞＆地底神秘美・名湯宿！龍泉洞・秋芳洞・龍河洞</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-beautiful-forests-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-emerald-200 bg-gradient-to-r from-green-950 via-emerald-950 to-teal-950 hover:from-green-900 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-emerald-400/50 flex items-center gap-1.5"
+            >
+              <span>🌲🪵</span>
+              <span>日本三大美林＆森林浴名湯宿！青森ヒバ・秋田スギ・木曽ヒノキ</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-strange-sceneries-geopark-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-stone-950 via-amber-950 to-orange-950 hover:from-stone-900 hover:to-orange-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>⛰️🧗</span>
+              <span>日本三大奇景＆奇岩パノラマ温泉宿！妙義山・寒霞渓・耶馬渓</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-illuminations-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-purple-200 bg-gradient-to-r from-indigo-950 via-purple-950 to-pink-950 hover:from-indigo-900 hover:to-purple-900 rounded-2xl shadow-lg transition border border-purple-400/50 flex items-center gap-1.5"
+            >
+              <span>✨🏰</span>
+              <span>日本三大イルミネーション＆光の祭典宿！あしかが・ハウステンボス・さっぽろ</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-train-window-views-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-sky-200 bg-gradient-to-r from-blue-950 via-sky-950 to-teal-950 hover:from-blue-900 hover:to-sky-900 rounded-2xl shadow-lg transition border border-sky-400/50 flex items-center gap-1.5"
+            >
+              <span>🚂🌾</span>
+              <span>日本三大車窓＆鉄道浪漫パノラマ宿！姨捨・矢岳越え・狩勝峠</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-water-castles-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-cyan-200 bg-gradient-to-r from-teal-950 via-cyan-950 to-blue-950 hover:from-teal-900 hover:to-cyan-900 rounded-2xl shadow-lg transition border border-cyan-400/50 flex items-center gap-1.5"
+            >
+              <span>🏯🌊</span>
+              <span>日本三大水城＆名城パノラマ宿！高松城・今治城・中津城</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-udons-gourmet-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-orange-950 via-amber-950 to-yellow-950 hover:from-orange-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🍜🥢</span>
+              <span>日本三大うどん＆極上麺道湯宿！讃岐・稲庭・五島</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-sacred-mountains-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-blue-200 bg-gradient-to-r from-slate-950 via-blue-950 to-indigo-950 hover:from-slate-900 hover:to-indigo-900 rounded-2xl shadow-lg transition border border-blue-400/50 flex items-center gap-1.5"
+            >
+              <span>🗻✨</span>
+              <span>日本三霊山＆霊峰パノラマ宿！富士山・立山・白山</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-lacquerwares-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-rose-200 bg-gradient-to-r from-red-950 via-stone-900 to-amber-950 hover:from-red-900 hover:to-stone-850 rounded-2xl shadow-lg transition border border-rose-400/50 flex items-center gap-1.5"
+            >
+              <span>🥢🍱</span>
+              <span>日本三大漆器＆伝統工芸名湯宿！越前・山中・会津</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-tidal-flats-nature-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-teal-200 bg-gradient-to-r from-teal-950 via-emerald-950 to-slate-950 hover:from-teal-900 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-teal-400/50 flex items-center gap-1.5"
+            >
+              <span>🦀🌅</span>
+              <span>日本三大干潟＆海の満ち引き海鮮宿！有明海・諫早湾・曽根干潟</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-wagyu-beef-gourmet-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-red-950 via-amber-950 to-orange-950 hover:from-red-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🥩🔥</span>
+              <span>日本三大和牛＆最高峰霜降り美食宿！松阪牛・神戸牛・近江牛</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-rapid-currents-strait-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-cyan-200 bg-gradient-to-r from-blue-950 via-cyan-950 to-teal-950 hover:from-blue-900 hover:to-cyan-900 rounded-2xl shadow-lg transition border border-cyan-400/50 flex items-center gap-1.5"
+            >
+              <span>🌀🚢</span>
+              <span>日本三大急潮＆激流うず潮パノラマ宿！鳴門・来島・関門海峡</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-washi-papers-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-emerald-200 bg-gradient-to-r from-stone-950 via-emerald-950 to-teal-950 hover:from-stone-900 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-emerald-400/50 flex items-center gap-1.5"
+            >
+              <span>📜🏮</span>
+              <span>日本三大和紙＆清流文化湯宿！越前・美濃・土佐</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-highlands-resort-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-sky-200 bg-gradient-to-r from-slate-950 via-sky-950 to-indigo-950 hover:from-slate-900 hover:to-sky-900 rounded-2xl shadow-lg transition border border-sky-400/50 flex items-center gap-1.5"
+            >
+              <span>🌲⛅</span>
+              <span>日本三大高原＆マウンテンリゾート宿！志賀高原・軽井沢・白樺湖霧ヶ峰</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-clear-rivers-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-cyan-200 bg-gradient-to-r from-emerald-950 via-teal-950 to-cyan-950 hover:from-emerald-900 hover:to-cyan-900 rounded-2xl shadow-lg transition border border-cyan-400/50 flex items-center gap-1.5"
+            >
+              <span>🏞️🐟</span>
+              <span>日本三大清流＆名水リバーサイド宿！四万十川・長良川・柿田川</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-giant-sacred-trees-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-emerald-200 bg-gradient-to-r from-green-950 via-emerald-950 to-stone-950 hover:from-green-900 hover:to-stone-900 rounded-2xl shadow-lg transition border border-emerald-400/50 flex items-center gap-1.5"
+            >
+              <span>🌳✨</span>
+              <span>日本三大巨樹＆神木パワースポット宿！蒲生大楠・阿川大杉・北金ヶ沢イチョウ</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-sacred-hachiman-shrines-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-red-200 bg-gradient-to-r from-red-950 via-rose-950 to-amber-950 hover:from-red-900 hover:to-rose-900 rounded-2xl shadow-lg transition border border-red-400/50 flex items-center gap-1.5"
+            >
+              <span>⛩️🕊️</span>
+              <span>日本三大八幡宮＆開運厄除け宿！宇佐神宮・石清水八幡宮・筥崎宮</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-coastal-sceneries-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-teal-200 bg-gradient-to-r from-teal-950 via-blue-950 to-cyan-950 hover:from-teal-900 hover:to-blue-900 rounded-2xl shadow-lg transition border border-teal-400/50 flex items-center gap-1.5"
+            >
+              <span>🌲🌊</span>
+              <span>日本三大白砂青松＆海岸絶景パノラマ宿！天橋立・三保松原・気比松原</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-columnar-joints-gorges-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-zinc-950 via-amber-950 to-stone-900 hover:from-zinc-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🧗‍♂️💎</span>
+              <span>日本三大柱状節理峡谷＆絶景名湯宿！清津峡・高千穂峡・層雲峡</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-pottery-festivals-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-rose-200 bg-gradient-to-r from-stone-950 via-rose-950 to-amber-950 hover:from-stone-900 hover:to-rose-900 rounded-2xl shadow-lg transition border border-rose-400/50 flex items-center gap-1.5"
+            >
+              <span>🏺🍶</span>
+              <span>日本三大陶器まつり＆名窯工芸宿！有田・波佐見・信楽</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-medicinal-hotsprings-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-emerald-200 bg-gradient-to-r from-emerald-950 via-teal-950 to-slate-950 hover:from-emerald-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-emerald-400/50 flex items-center gap-1.5"
+            >
+              <span>♨️🌿</span>
+              <span>日本三大薬湯＆極上湯治リトリート宿！草津・有馬・松之山</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-daimyo-gardens-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-green-200 bg-gradient-to-r from-slate-950 via-green-950 to-emerald-950 hover:from-slate-900 hover:to-green-900 rounded-2xl shadow-lg transition border border-green-400/50 flex items-center gap-1.5"
+            >
+              <span>🏯🌸</span>
+              <span>日本三大名園＆大名庭園風雅宿！偕楽園・兼六園・後楽園</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-beautiful-ports-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-sky-200 bg-gradient-to-r from-blue-950 via-teal-950 to-cyan-950 hover:from-blue-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-sky-400/50 flex items-center gap-1.5"
+            >
+              <span>⚓🚢</span>
+              <span>日本三大美港＆夜景オーシャンビュー宿！清水港・長崎港・神戸港</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-mountain-castles-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-stone-950 via-amber-950 to-yellow-950 hover:from-stone-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>⛰️🏯</span>
+              <span>日本三大山城＆天空の雲海要塞宿！大和高取城・美濃岩村城・備中松山城</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-somen-noodles-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-rose-200 bg-gradient-to-r from-orange-950 via-rose-950 to-amber-950 hover:from-orange-900 hover:to-rose-900 rounded-2xl shadow-lg transition border border-rose-400/50 flex items-center gap-1.5"
+            >
+              <span>🥢🌾</span>
+              <span>日本三大そうめん＆手延べ麺道宿！三輪・播州・小豆島</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-stalactite-caves-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-teal-200 bg-gradient-to-r from-cyan-950 via-teal-950 to-emerald-950 hover:from-cyan-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-teal-400/50 flex items-center gap-1.5"
+            >
+              <span>💎🦇</span>
+              <span>日本三大鍾乳石洞窟＆地底宮殿宿！あぶくま洞・玉泉洞・井倉洞</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-bihada-onsen-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-pink-200 bg-gradient-to-r from-rose-950 via-pink-950 to-amber-950 hover:from-rose-900 hover:to-pink-900 rounded-2xl shadow-lg transition border border-pink-400/50 flex items-center gap-1.5"
+            >
+              <span>♨️✨</span>
+              <span>日本三大美肌の湯＆とろとろ美肌温泉宿！嬉野・斐乃上・喜連川</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-secret-hotsprings-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-stone-950 via-emerald-950 to-amber-950 hover:from-stone-900 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🌲♨️</span>
+              <span>日本三大秘湯＆秘境の大自然一軒宿！谷地温泉・祖谷温泉・乳頭温泉郷</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-gorges-scenery-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-emerald-200 bg-gradient-to-r from-teal-950 via-green-950 to-slate-950 hover:from-teal-900 hover:to-green-900 rounded-2xl shadow-lg transition border border-emerald-400/50 flex items-center gap-1.5"
+            >
+              <span>🏞️🚡</span>
+              <span>日本三大渓谷美＆清流大自然絶景宿！清津峡・黒部峡谷・大杉谷</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-waterfalls-resort-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-cyan-200 bg-gradient-to-r from-blue-950 via-indigo-950 to-cyan-950 hover:from-blue-900 hover:to-indigo-900 rounded-2xl shadow-lg transition border border-cyan-400/50 flex items-center gap-1.5"
+            >
+              <span>🌊💦</span>
+              <span>日本三大名瀑＆豪快な滝見温泉宿！華厳の滝・那智の滝・袋田の滝</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-sand-dunes-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-yellow-950 via-amber-950 to-orange-950 hover:from-yellow-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🐪🏜️</span>
+              <span>日本三大砂丘＆絶景オーシャンビュー温泉宿！鳥取・中田島・吹上浜</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-unusual-bridges-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-red-200 bg-gradient-to-r from-red-950 via-stone-950 to-amber-950 hover:from-red-900 hover:to-stone-900 rounded-2xl shadow-lg transition border border-red-400/50 flex items-center gap-1.5"
+            >
+              <span>🌉🏯</span>
+              <span>日本三大奇橋＆渓谷美・歴史ロマンの名宿！錦帯橋・猿橋・日光神橋</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-rapid-rivers-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-sky-200 bg-gradient-to-r from-cyan-950 via-blue-950 to-teal-950 hover:from-cyan-900 hover:to-blue-900 rounded-2xl shadow-lg transition border border-sky-400/50 flex items-center gap-1.5"
+            >
+              <span>🛶🌊</span>
+              <span>日本三大急流＆川下り舟体験・清流鮎グルメ宿！最上川・富士川・球磨川</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-night-cherry-blossoms-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-pink-200 bg-gradient-to-r from-rose-950 via-pink-950 to-purple-950 hover:from-rose-900 hover:to-pink-900 rounded-2xl shadow-lg transition border border-pink-400/50 flex items-center gap-1.5"
+            >
+              <span>🌸🌙</span>
+              <span>日本三大夜桜＆幽玄のライトアップ宿！弘前公園・高田城址・上野恩賜公園</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-rapid-tidal-currents-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-cyan-200 bg-gradient-to-r from-blue-950 via-teal-950 to-indigo-950 hover:from-blue-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-cyan-400/50 flex items-center gap-1.5"
+            >
+              <span>🌀🌊</span>
+              <span>日本三大急潮＆うず潮絶景・海鮮グルメ宿！鳴門・来島・関門海峡</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-train-window-views-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-stone-950 via-amber-950 to-slate-950 hover:from-stone-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🚂⛰️</span>
+              <span>日本三大車窓＆天空パノラマ・絶景温泉宿！姨捨・矢岳越え・狩勝峠</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-inari-shrines-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-orange-200 bg-gradient-to-r from-red-950 via-orange-950 to-amber-950 hover:from-red-900 hover:to-orange-900 rounded-2xl shadow-lg transition border border-orange-400/50 flex items-center gap-1.5"
+            >
+              <span>⛩️🦊</span>
+              <span>日本三大稲荷＆商売繁盛・開運祈願の名宿！伏見・豊川・祐徳稲荷</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-beautiful-forests-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-emerald-200 bg-gradient-to-r from-green-950 via-emerald-950 to-teal-950 hover:from-green-900 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-emerald-400/50 flex items-center gap-1.5"
+            >
+              <span>🌲🍃</span>
+              <span>日本三大美林＆森林浴・天然木アロマ温泉宿！青森ヒバ・秋田スギ・木曽ヒノキ</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-spring-waters-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-cyan-200 bg-gradient-to-r from-teal-950 via-cyan-950 to-blue-950 hover:from-teal-900 hover:to-cyan-900 rounded-2xl shadow-lg transition border border-cyan-400/50 flex items-center gap-1.5"
+            >
+              <span>💧🍶</span>
+              <span>日本三大名水＆湧水水源地・清流酒蔵美食宿！黒部湧水・白州尾白川・南阿蘇白川水源</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-buddhas-heritage-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-yellow-950 via-amber-950 to-stone-950 hover:from-yellow-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>☸️🏯</span>
+              <span>日本三大仏＆歴史古都・門前町の名宿！奈良大仏・鎌倉大仏・高岡大仏</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-pine-groves-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-emerald-200 bg-gradient-to-r from-green-950 via-teal-950 to-blue-950 hover:from-green-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-emerald-400/50 flex items-center gap-1.5"
+            >
+              <span>🌲🌊</span>
+              <span>日本三大松原＆白砂青松オーシャンビュー宿！三保松原・虹の松原・気比松原</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-clear-stream-valleys-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-teal-200 bg-gradient-to-r from-cyan-950 via-emerald-950 to-sky-950 hover:from-cyan-900 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-teal-400/50 flex items-center gap-1.5"
+            >
+              <span>🏞️✨</span>
+              <span>日本三大美林清流渓谷＆エメラルドブルー絶景宿！奥入瀬・抱返り・阿寺渓谷</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-high-mountain-passes-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-stone-950 via-amber-950 to-orange-950 hover:from-stone-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>⛰️☁️</span>
+              <span>日本三大急坂・天空峠道＆雲海パノラマ絶景宿！渋峠・富士山スカイライン・温見峠</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-terraced-rice-fields-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-lime-200 bg-gradient-to-r from-emerald-950 via-green-950 to-lime-950 hover:from-emerald-900 hover:to-green-900 rounded-2xl shadow-lg transition border border-lime-400/50 flex items-center gap-1.5"
+            >
+              <span>🌾🌅</span>
+              <span>日本三大美田・棚田百選＆日本の原風景リトリート宿！星峠・白米千枚田・丸山千枚田</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-strange-festivals-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-rose-200 bg-gradient-to-r from-red-950 via-purple-950 to-orange-950 hover:from-red-900 hover:to-purple-900 rounded-2xl shadow-lg transition border border-rose-400/50 flex items-center gap-1.5"
+            >
+              <span>👹🔥</span>
+              <span>日本三大奇祭＆神話民俗・パワースポット名宿！諏訪御柱祭・国府宮はだか祭・男鹿ナマハゲ</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-roof-tile-towns-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-slate-200 bg-gradient-to-r from-gray-950 via-slate-900 to-zinc-950 hover:from-gray-900 hover:to-slate-800 rounded-2xl shadow-lg transition border border-slate-400/50 flex items-center gap-1.5"
+            >
+              <span>🏯🏮</span>
+              <span>日本三大瓦の町＆伝統美・いぶし瓦情趣の名宿！淡路瓦・三州瓦・石州瓦</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-soba-noodles-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-100 bg-gradient-to-r from-stone-950 via-amber-950 to-neutral-950 hover:from-stone-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-300/50 flex items-center gap-1.5"
+            >
+              <span>🥢🌾</span>
+              <span>日本三大そば＆名水宿坊・温泉郷の美食旅！戸隠そば・出雲割子そば・盛岡わんこそば</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-historic-canals-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-cyan-200 bg-gradient-to-r from-blue-950 via-cyan-950 to-slate-950 hover:from-blue-900 hover:to-cyan-900 rounded-2xl shadow-lg transition border border-cyan-400/50 flex items-center gap-1.5"
+            >
+              <span>🚣‍♂️🏮</span>
+              <span>日本三大運河＆水郷レトロ・舟流し情趣の名宿！小樽運河・倉敷川・近江八幡八幡堀</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-ramen-capitals-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-orange-200 bg-gradient-to-r from-red-950 via-orange-950 to-amber-950 hover:from-red-900 hover:to-orange-900 rounded-2xl shadow-lg transition border border-orange-400/50 flex items-center gap-1.5"
+            >
+              <span>🍜🍥</span>
+              <span>日本三大ラーメン＆名湯・屋台街めぐり美食宿！喜多方・札幌味噌・博多豚骨</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-glass-craft-towns-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-sky-200 bg-gradient-to-r from-indigo-950 via-sky-950 to-teal-950 hover:from-indigo-900 hover:to-sky-900 rounded-2xl shadow-lg transition border border-sky-400/50 flex items-center gap-1.5"
+            >
+              <span>💎✨</span>
+              <span>日本三大ガラス工芸の町＆切子の輝きと名宿！小樽切子・江戸切子・薩摩切子</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-capes-ocean-panorama-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-cyan-200 bg-gradient-to-r from-blue-950 via-teal-950 to-cyan-950 hover:from-blue-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-cyan-400/50 flex items-center gap-1.5"
+            >
+              <span>🌊🌅</span>
+              <span>日本三大岬＆地球の丸みを感じる断崖海宿！知床岬・足摺岬・佐多岬</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-ancient-lakes-resort-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-teal-100 bg-gradient-to-r from-slate-950 via-cyan-950 to-blue-950 hover:from-slate-900 hover:to-cyan-900 rounded-2xl shadow-lg transition border border-teal-300/50 flex items-center gap-1.5"
+            >
+              <span>⛵🏞️</span>
+              <span>日本三大古代湖＆湖畔リゾート・温泉名宿！琵琶湖・諏訪湖・三方五湖</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-bamboo-groves-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-emerald-200 bg-gradient-to-r from-green-950 via-emerald-950 to-teal-950 hover:from-green-900 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-emerald-400/50 flex items-center gap-1.5"
+            >
+              <span>🎋🌿</span>
+              <span>日本三大竹林＆静寂の緑の回廊・風雅名宿！嵯峨野・報国寺・さつま町竹林</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-calderas-geopark-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-amber-950 via-stone-900 to-red-950 hover:from-amber-900 hover:to-stone-800 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🌋♨️</span>
+              <span>日本三大カルデラ＆巨大火口原パノラマ名湯宿！阿蘇・箱根・屈斜路</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-sea-caves-mystery-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-teal-200 bg-gradient-to-r from-cyan-950 via-teal-950 to-blue-950 hover:from-cyan-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-teal-400/50 flex items-center gap-1.5"
+            >
+              <span>🌊🕳️</span>
+              <span>日本三大海食洞＆青の洞窟・波濤の造形美宿！堂ヶ島天窓洞・芥屋の大門・七ツ釜</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-pagodas-heritage-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-100 bg-gradient-to-r from-stone-950 via-amber-950 to-orange-950 hover:from-stone-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-300/50 flex items-center gap-1.5"
+            >
+              <span>🏯🛕</span>
+              <span>日本三大五重塔＆国宝木造美・古都門前宿！法隆寺・東寺・羽黒山</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-ekiben-gourmet-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-orange-200 bg-gradient-to-r from-amber-950 via-orange-950 to-red-950 hover:from-amber-900 hover:to-orange-900 rounded-2xl shadow-lg transition border border-orange-400/50 flex items-center gap-1.5"
+            >
+              <span>🍱🚂</span>
+              <span>日本三大駅弁＆名物ご当地グルメ・鉄道旅情宿！峠の釜めし・いかめし・松阪牛弁当</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-kannon-temples-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-rose-200 bg-gradient-to-r from-purple-950 via-rose-950 to-red-950 hover:from-purple-900 hover:to-rose-900 rounded-2xl shadow-lg transition border border-rose-400/50 flex items-center gap-1.5"
+            >
+              <span>🙏🏮</span>
+              <span>日本三大観音＆諸願成就の霊場・門前町名宿！浅草寺・石山寺・大須観音</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-shoyu-capitals-brewery-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-stone-950 via-amber-950 to-yellow-950 hover:from-stone-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🪵🏺</span>
+              <span>日本三大醤油醸造地＆木桶仕込みの芳香名宿！銚子・小豆島醤の郷・播州龍野</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-fruit-kingdoms-auberge-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-pink-200 bg-gradient-to-r from-rose-950 via-pink-950 to-purple-950 hover:from-rose-900 hover:to-pink-900 rounded-2xl shadow-lg transition border border-pink-400/50 flex items-center gap-1.5"
+            >
+              <span>🍑🍇</span>
+              <span>日本三大フルーツ王国＆もぎたて果実の美食リゾート！山梨笛吹・山形天童・信州小布施</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-miso-capitals-gastronomy-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-orange-100 bg-gradient-to-r from-amber-950 via-stone-900 to-orange-950 hover:from-amber-900 hover:to-stone-850 rounded-2xl shadow-lg transition border border-orange-300/50 flex items-center gap-1.5"
+            >
+              <span>🍲🍲</span>
+              <span>日本三大味噌の郷＆発酵郷土鍋・名湯美食宿！信州味噌・三河八丁味噌・仙台味噌</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-citrus-kingdoms-resort-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-yellow-200 bg-gradient-to-r from-orange-950 via-amber-900 to-yellow-950 hover:from-orange-900 hover:to-amber-800 rounded-2xl shadow-lg transition border border-yellow-400/50 flex items-center gap-1.5"
+            >
+              <span>🍊🌊</span>
+              <span>日本三大柑橘王国＆爽快な果樹園パノラマ・美肌名湯宿！愛媛温州・和歌山有田・静岡三ヶ日</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-scenic-coasts-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-teal-200 bg-gradient-to-r from-blue-950 via-cyan-950 to-teal-950 hover:from-blue-900 hover:to-cyan-900 rounded-2xl shadow-lg transition border border-teal-400/50 flex items-center gap-1.5"
+            >
+              <span>🌊🏖️</span>
+              <span>日本三大名勝海岸＆白砂青松オーシャンビュー宿！東尋坊・浄土ヶ浜・白良浜</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-famous-waterfalls-healing-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-cyan-100 bg-gradient-to-r from-emerald-950 via-teal-950 to-sky-950 hover:from-emerald-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-cyan-300/50 flex items-center gap-1.5"
+            >
+              <span>💧🏞️</span>
+              <span>日本三大名瀑ヒーリング＆豪快な滝見温泉宿！白糸の滝・吹割の滝・鮎帰りの滝</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-hotsprings-luxury-villas-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-amber-950 via-stone-900 to-yellow-950 hover:from-amber-900 hover:to-stone-850 rounded-2xl shadow-lg transition border border-amber-300/50 flex items-center gap-1.5"
+            >
+              <span>♨️👑</span>
+              <span>日本三大名湯の別邸＆客室露天・極上おこもり宿！草津奈良屋・有馬瑞苑・下呂水明館</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-tea-plantations-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-emerald-200 bg-gradient-to-r from-emerald-950 via-green-950 to-teal-950 hover:from-emerald-900 hover:to-green-900 rounded-2xl shadow-lg transition border border-emerald-400/50 flex items-center gap-1.5"
+            >
+              <span>🍵🌿</span>
+              <span>日本三大茶園＆天空の茶畑パノラマ・茶香宿！牧之原・宇治・八女中央大茶園</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-valleys-riverside-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-cyan-200 bg-gradient-to-r from-teal-950 via-cyan-950 to-emerald-950 hover:from-teal-900 hover:to-cyan-900 rounded-2xl shadow-lg transition border border-cyan-400/50 flex items-center gap-1.5"
+            >
+              <span>🏞️🌲</span>
+              <span>日本三大渓流＆清冽なせせらぎ・渓谷美露天風呂宿！奥入瀬・三段峡・御岳渓谷</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-scenic-wonders-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-stone-950 via-amber-950 to-orange-950 hover:from-stone-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🪨🌄</span>
+              <span>日本三大奇勝＆壮麗な奇岩壁パノラマ・名湯宿！妙義山・耶馬渓・小豆島寒霞渓</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-sacred-mountains-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-sky-200 bg-gradient-to-r from-blue-950 via-indigo-950 to-slate-950 hover:from-blue-900 hover:to-indigo-900 rounded-2xl shadow-lg transition border border-sky-400/50 flex items-center gap-1.5"
+            >
+              <span>⛰️☁️</span>
+              <span>日本三大霊峰＆神気満ちる聖地・雲海と高山温泉宿！富士山・立山連峰・白山</span>
+            </Link>
+            <Link
+              href="/furusato-tax-top100-hidden-paradise-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-teal-200 bg-gradient-to-r from-emerald-950 via-slate-900 to-teal-950 hover:from-emerald-900 hover:to-slate-850 rounded-2xl shadow-lg transition border border-teal-400/50 flex items-center gap-1.5"
+            >
+              <span>🏡🌌</span>
+              <span>秘境百選＆天空の隠れ家・源泉秘湯オーベルジュ！祖谷渓谷・高千穂峡・秋山郷</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-rivers-riverside-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-blue-200 bg-gradient-to-r from-cyan-950 via-blue-950 to-indigo-950 hover:from-cyan-900 hover:to-blue-900 rounded-2xl shadow-lg transition border border-blue-400/50 flex items-center gap-1.5"
+            >
+              <span>🌊🏞️</span>
+              <span>日本三大河川＆雄大な流れを望むリバーサイド名湯宿！利根川・筑後川・吉野川</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-karsts-highland-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-emerald-200 bg-gradient-to-r from-lime-950 via-teal-950 to-emerald-950 hover:from-lime-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-emerald-400/50 flex items-center gap-1.5"
+            >
+              <span>⛰️🐑</span>
+              <span>日本三大カルスト＆白銀石灰岩パノラマ・高原リゾート宿！秋吉台・四国カルスト・平尾台</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-wagyu-beef-luxury-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-rose-950 via-amber-950 to-yellow-950 hover:from-rose-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🥩👑</span>
+              <span>日本三大銘牛＆肉の芸術品・極上鉄板焼きと名湯宿！松阪牛・神戸牛・米沢牛</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-dunes-oceanview-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-orange-200 bg-gradient-to-r from-amber-950 via-orange-950 to-stone-950 hover:from-amber-900 hover:to-orange-900 rounded-2xl shadow-lg transition border border-orange-400/50 flex items-center gap-1.5"
+            >
+              <span>🏜️🌅</span>
+              <span>日本三大砂丘＆神秘の風紋パノラマ・夕日オーシャンビュー宿！鳥取砂丘・遠州砂丘・吹上浜</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-caves-underground-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-cyan-200 bg-gradient-to-r from-slate-950 via-cyan-950 to-blue-950 hover:from-slate-900 hover:to-cyan-900 rounded-2xl shadow-lg transition border border-cyan-400/50 flex items-center gap-1.5"
+            >
+              <span>🕳️💎</span>
+              <span>日本三大鍾乳洞＆神秘のドラゴンブルー地底湖・名湯宿！龍泉洞・秋芳洞・龍河洞</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-pine-groves-oceanview-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-emerald-200 bg-gradient-to-r from-green-950 via-teal-950 to-blue-950 hover:from-green-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-emerald-400/50 flex items-center gap-1.5"
+            >
+              <span>🌲🌊</span>
+              <span>日本三大松原＆富士山と白砂青松オーシャンビュー宿！三保の松原・虹の松原・気比の松原</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-mountain-castles-history-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-stone-950 via-stone-900 to-amber-950 hover:from-stone-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🏯☁️</span>
+              <span>天空の山城＆雲海に浮かぶ砦・城下町歴史宿！竹田城・備中松山城・岩村城</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-train-views-scenic-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-sky-200 bg-gradient-to-r from-indigo-950 via-blue-950 to-slate-950 hover:from-indigo-900 hover:to-blue-900 rounded-2xl shadow-lg transition border border-sky-400/50 flex items-center gap-1.5"
+            >
+              <span>🚂🌄</span>
+              <span>日本三大車窓＆峠越え大パノラマ・絶景鉄道名湯宿！姨捨・肥薩線矢岳越え・狩勝峠</span>
+            </Link>
+            <Link
+              href="/furusato-tax-scenic-drives-highland-resort-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-lime-200 bg-gradient-to-r from-emerald-950 via-teal-950 to-slate-950 hover:from-emerald-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-lime-400/50 flex items-center gap-1.5"
+            >
+              <span>🚗🏔️</span>
+              <span>日本百名道＆絶景ドライブルート・高原温泉宿！ビーナスライン・志賀草津・やまなみ</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-bridges-heritage-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-rose-200 bg-gradient-to-r from-stone-950 via-rose-950 to-slate-950 hover:from-stone-900 hover:to-rose-900 rounded-2xl shadow-lg transition border border-rose-400/50 flex items-center gap-1.5"
+            >
+              <span>🌉🏯</span>
+              <span>日本三大名橋＆歴史美と水辺の風情・城下町宿！日本橋・錦帯橋・長崎眼鏡橋</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-water-towns-canal-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-teal-200 bg-gradient-to-r from-cyan-950 via-teal-950 to-emerald-950 hover:from-cyan-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-teal-400/50 flex items-center gap-1.5"
+            >
+              <span>🚣🌿</span>
+              <span>日本三大水郷＆情緒あふれる舟運川下り・水辺の名湯宿！近江八幡・柳川・潮来</span>
+            </Link>
+            <Link
+              href="/furusato-tax-kumano-kodo-world-heritage-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-amber-950 via-stone-950 to-emerald-950 hover:from-amber-900 hover:to-stone-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>⛩️♨️</span>
+              <span>世界遺産・熊野古道＆祈りの巡礼路と名湯宿！湯の峰温泉・那智勝浦・白浜</span>
+            </Link>
+            <Link
+              href="/furusato-tax-preservation-districts-heritage-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-stone-200 bg-gradient-to-r from-stone-950 via-slate-900 to-amber-950 hover:from-stone-900 hover:to-slate-850 rounded-2xl shadow-lg transition border border-stone-400/50 flex items-center gap-1.5"
+            >
+              <span>🏮🏘️</span>
+              <span>重要伝統的建造物群保存地区＆白壁・歴史町家宿！倉敷美観地区・萩城下町・今井町</span>
+            </Link>
+            <Link
+              href="/furusato-tax-famous-spring-waters-healing-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-cyan-200 bg-gradient-to-r from-blue-950 via-teal-950 to-cyan-950 hover:from-blue-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-cyan-400/50 flex items-center gap-1.5"
+            >
+              <span>💧🍶</span>
+              <span>日本名水百選＆清冽な湧水地・名水仕込み美食と美肌温泉宿！白川水源・安曇野・柿田川</span>
+            </Link>
+            <Link
+              href="/furusato-tax-six-ancient-kilns-pottery-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-orange-950 via-amber-950 to-stone-950 hover:from-orange-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🏺🔥</span>
+              <span>日本六古窯＆千年の陶芸美・作家の器で味わう名料亭宿！備前・信楽・丹波立杭</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-forests-wood-villa-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-emerald-200 bg-gradient-to-r from-green-950 via-emerald-950 to-teal-950 hover:from-green-900 hover:to-emerald-900 rounded-2xl shadow-lg transition border border-emerald-400/50 flex items-center gap-1.5"
+            >
+              <span>🌲🪵</span>
+              <span>日本三大美林＆森林セラピー・芳醇ウッドヴィラ温泉宿！青森ヒバ・秋田杉・木曽檜</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-rapids-river-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-blue-200 bg-gradient-to-r from-blue-950 via-teal-950 to-cyan-950 hover:from-blue-900 hover:to-teal-900 rounded-2xl shadow-lg transition border border-blue-400/50 flex items-center gap-1.5"
+            >
+              <span>🌊🚣</span>
+              <span>日本三大急流＆豪快な舟下りと大自然・リバーサイド温泉宿！最上川・富士川・球磨川</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-night-cherry-blossoms-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-pink-200 bg-gradient-to-r from-rose-950 via-pink-950 to-purple-950 hover:from-rose-900 hover:to-pink-900 rounded-2xl shadow-lg transition border border-pink-400/50 flex items-center gap-1.5"
+            >
+              <span>🌸🏮</span>
+              <span>日本三大夜桜＆幻想的な春宵と濠を埋める花筏・名門ホテル！弘前・高田城・上野</span>
+            </Link>
+            <Link
+              href="/furusato-tax-three-great-fireworks-resort-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-amber-200 bg-gradient-to-r from-yellow-950 via-amber-950 to-stone-950 hover:from-yellow-900 hover:to-amber-900 rounded-2xl shadow-lg transition border border-amber-400/50 flex items-center gap-1.5"
+            >
+              <span>🎆✨</span>
+              <span>日本三大花火大会＆夜空焦がす大輪と感動の特等席ホテル！大曲・長岡・土浦</span>
+            </Link>
+            <Link
+              href="/furusato-tax-famous-castles-stone-walls-stay"
+              className="px-5 py-3 text-xs md:text-sm font-black text-slate-200 bg-gradient-to-r from-stone-950 via-slate-900 to-indigo-950 hover:from-stone-900 hover:to-slate-850 rounded-2xl shadow-lg transition border border-slate-400/50 flex items-center gap-1.5"
+            >
+              <span>🏯🛡️</span>
+              <span>日本百名城＆国宝天守と壮麗な石垣美・城下町ホテル！松本城・姫路城・熊本城</span>
+            </Link>
+
+
+
+
+
+
+            <Link
+              href="/kyoto"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-rose-700 to-amber-900 hover:from-rose-600 hover:to-amber-800 rounded-2xl shadow-md transition border border-rose-400/30 flex items-center gap-1.5"
+            >
+              <span>🍁</span>
+              <span>京都旅行 完全ガイド</span>
+            </Link>
+            <Link
+              href="/okinawa"
+              className="px-5 py-3 text-xs md:text-sm font-black text-cyan-950 bg-gradient-to-r from-cyan-300 to-teal-300 hover:from-cyan-200 hover:to-teal-200 rounded-2xl shadow-md transition border border-cyan-200 flex items-center gap-1.5"
+            >
+              <span>🌺</span>
+              <span>沖縄旅行 完全ガイド</span>
+            </Link>
+            <Link
+              href="/hokkaido"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-blue-700 to-teal-800 hover:from-blue-600 hover:to-teal-700 rounded-2xl shadow-md transition border border-blue-400/30 flex items-center gap-1.5"
+            >
+              <span>🏔️</span>
+              <span>北海道 完全ガイド</span>
+            </Link>
+            <Link
+              href="/tokyo"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-indigo-700 to-slate-800 hover:from-indigo-600 hover:to-slate-700 rounded-2xl shadow-md transition border border-indigo-400/30 flex items-center gap-1.5"
+            >
+              <span>🗼</span>
+              <span>東京観光 完全ガイド</span>
+            </Link>
+            <Link
+              href="/osaka"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-600 to-rose-700 hover:from-amber-500 hover:to-rose-600 rounded-2xl shadow-md transition border border-amber-300/30 flex items-center gap-1.5"
+            >
+              <span>🐙</span>
+              <span>大阪観光 完全ガイド</span>
+            </Link>
+            <Link
+              href="/fukuoka"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-red-700 to-amber-800 hover:from-red-600 hover:to-amber-700 rounded-2xl shadow-md transition border border-red-400/30 flex items-center gap-1.5"
+            >
+              <span>🍜</span>
+              <span>福岡博多 完全ガイド</span>
+            </Link>
+            <Link
+              href="/hakone"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-emerald-800 to-teal-900 hover:from-emerald-700 hover:to-teal-800 rounded-2xl shadow-md transition border border-emerald-400/30 flex items-center gap-1.5"
+            >
+              <span>♨️</span>
+              <span>箱根温泉 完全ガイド</span>
+            </Link>
+            <Link
+              href="/kanazawa"
+              className="px-5 py-3 text-xs md:text-sm font-black text-teal-950 bg-gradient-to-r from-amber-300 to-amber-400 hover:from-amber-200 hover:to-amber-300 rounded-2xl shadow-md transition border border-amber-200 flex items-center gap-1.5"
+            >
+              <span>🌸</span>
+              <span>金沢旅行 完全ガイド</span>
+            </Link>
+            <Link
+              href="/noto"
+              className="px-5 py-3 text-xs md:text-sm font-black text-white bg-gradient-to-r from-teal-700 to-emerald-800 hover:from-teal-600 hover:to-emerald-700 rounded-2xl shadow-md transition border border-teal-500/30 flex items-center gap-1.5"
+            >
+              <span>🌊</span>
+              <span>能登旅行 完全ガイド</span>
+            </Link>
+            <Link
+              href="/prefectures"
+              className="px-5 py-3 text-xs md:text-sm font-bold text-white bg-white/10 hover:bg-white/20 backdrop-blur-md rounded-2xl shadow-md transition border border-white/20 flex items-center gap-1.5"
+            >
+              <span>🗾</span>
+              <span>47都道府県一覧</span>
+            </Link>
+          </div>
+          <div className="text-center pt-4">
+            <Link
+              href="/features"
+              className="inline-flex items-center gap-2 px-6 py-2.5 text-xs font-bold text-teal-900 bg-white border border-teal-800/20 rounded-xl hover:bg-teal-50 shadow-sm transition"
+            >
+              <span>特集まとめページ一覧（画像付き）を見る</span>
+              <span>→</span>
+            </Link>
+          </div>
+        </div>
+      </details>
     </section>
   );
 }
