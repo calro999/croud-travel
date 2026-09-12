@@ -51,7 +51,7 @@ export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kyoto/" },
   openGraph: {
     title: "京都旅行 完全ガイド 2026 ｜ 旅宿クラウド",
-    description: "京都旅行を思い立ったらまず読むハブガイド。1泊2日/2泊3日モデルコース・旅行タイプ別・シチュエーション別・楽天API直接取得ホテルを完全連結。",
+    description: "京都旅行を思い立ったらまず読むハブガイド。1泊2日/2泊3日モデルコース・旅行タイプ別・シチュエーション別・公式おすすめ人気ホテルを完全連結。",
     url: "https://croud-travel.pages.dev/kyoto",
     siteName: "旅宿クラウド",
     type: "article",
@@ -155,7 +155,7 @@ export default function KyotoHubPage() {
         <h1 className="text-3xl md:text-5xl font-black font-journal-serif leading-tight text-white">
           【京都旅行 完全ガイド】<br />
           <span className="bg-gradient-to-r from-amber-200 via-rose-200 to-amber-100 bg-clip-text text-transparent">
-            観光モデルコース・穴場・季節・楽天API公式ホテル＆温泉旅館
+            観光モデルコース・穴場・季節・公式おすすめ人気ホテル＆温泉旅館
           </span>
         </h1>
 

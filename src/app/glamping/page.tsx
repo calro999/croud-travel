@@ -605,7 +605,7 @@ export default function GlampingHubPage() {
           </div>
         </section>
 
-        {/* 楽天API連携：全国の人気グランピング施設ピックアップ */}
+        {/* 全国の人気グランピング施設ピックアップ */}
         {hotels.length > 0 && (
           <section className="bg-white rounded-3xl p-6 md:p-8 shadow-sm border border-slate-200">
             <div className="flex flex-col md:flex-row md:items-center justify-between gap-3 mb-6">

@@ -88,7 +88,7 @@ export default function FukuokaHubPage() {
         </p>
       </section>
 
-      {/* 博多駅・天神の楽天API直接取得ホテル */}
+      {/* 博多駅・天神の公式おすすめホテル */}
       {fukuokaData.hakata_hotel && (
         <section className="space-y-6 bg-white border border-red-950/10 rounded-3xl p-6 md:p-10 shadow-sm">
           <div className="space-y-2 border-b border-red-950/10 pb-4">

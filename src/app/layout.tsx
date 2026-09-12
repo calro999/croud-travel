@@ -7,7 +7,7 @@ import { REGIONS_MAP, PREFECTURES_DATA } from "@/data/prefecturesData";
 import "./globals.css";
 
 const siteName = "日本全国・旅宿クラウド｜楽天トラベルでめぐる厳選宿・観光マガジン";
-const description = "日本全国47都道府県の魅力的な温泉宿、リゾート、高級ホテル、観光の見所を旅ライターの極上ルポでお届け。楽天トラベルの最新キャンペーン情報とアフィリエイト連携で、今すぐ行きたい憧れの旅プランを見つけましょう。";
+const description = "日本全国47都道府県の魅力的な温泉宿、リゾート、高級ホテル、観光の見所を旅ライターの極上ルポでお届け。楽天トラベルの最新お得プランや特集と公式連携し、今すぐ行きたい憧れの旅プランを見つけましょう。";
 const url = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
 export const metadata: Metadata = {

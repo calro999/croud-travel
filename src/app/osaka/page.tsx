@@ -88,7 +88,7 @@ export default function OsakaHubPage() {
         </p>
       </section>
 
-      {/* 梅田・なんば・USJの楽天API直接取得ホテル */}
+      {/* 梅田・なんば・USJの公式おすすめホテル */}
       {osakaData.station_hotel && (
         <section className="space-y-6 bg-white border border-rose-950/10 rounded-3xl p-6 md:p-10 shadow-sm">
           <div className="space-y-2 border-b border-rose-950/10 pb-4">

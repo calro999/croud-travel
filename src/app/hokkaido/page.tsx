@@ -88,7 +88,7 @@ export default function HokkaidoHubPage() {
         </p>
       </section>
 
-      {/* 札幌・函館・登別温泉の楽天API直接取得ホテル */}
+      {/* 札幌・函館・登別温泉の公式おすすめホテル */}
       {hokkaidoData.sapporo_hotel && (
         <section className="space-y-6 bg-white border border-blue-950/10 rounded-3xl p-6 md:p-10 shadow-sm">
           <div className="space-y-2 border-b border-blue-950/10 pb-4">

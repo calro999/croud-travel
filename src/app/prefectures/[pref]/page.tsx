@@ -124,13 +124,13 @@ function loadSubAreaRakutenHotels(): Record<string, any[]> {
 
 const subAreaRakutenData = loadSubAreaRakutenHotels();
 
-// ミクロエリアに対して、楽天API直接取得データまたは実在Postオブジェクトを厳選抽出する関数
+// ミクロエリアに対して、公式最新データまたは実在Postオブジェクトを厳選抽出する関数
 function getRealPostsForSubArea(subArea: SubAreaInfo, allPosts: Post[], prefName: string, prefSlug: string): any[] {
   const result: any[] = [];
   const safePrefName = prefName || "";
   const cleanPref = safePrefName.replace(/(県|府|東京都)$/, "");
 
-  // 1. 楽天API直接取得データから最優先で取得（楽天API公式ホテルデータ）
+  // 1. 公式最新データから最優先で取得（公式ホテルデータ）
   const directKey = `${prefSlug}_${subArea.slug}`;
   if (subAreaRakutenData[directKey] && subAreaRakutenData[directKey].length > 0) {
     for (const h of subAreaRakutenData[directKey]) {

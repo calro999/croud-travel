@@ -131,7 +131,7 @@ export default function OkinawaHubPage() {
         </div>
       </section>
 
-      {/* 楽天API直接取得ホテル表示 */}
+      {/* 公式おすすめホテル表示 */}
       {okinawaData.resort_hotel && (
         <section className="space-y-6 bg-white border border-cyan-950/10 rounded-3xl p-6 md:p-10 shadow-sm">
           <div className="space-y-2 border-b border-cyan-950/10 pb-4">

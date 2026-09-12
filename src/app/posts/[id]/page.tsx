@@ -477,7 +477,7 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
           />
         </div>
 
-        {/* 楽天アフィリエイトボタン・FAQは通常記事のみ表示 */}
+        {/* 楽天トラベル公式予約ボタン・FAQは通常記事のみ表示 */}
         {!post.is_special_feature && (
           <>
             {/* 予約前の割引クーポン獲得プッシュ（読了後の一番ホットなタイミング） */}
@@ -485,7 +485,7 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
               <SpecialCouponBanner />
             </div>
 
-            {/* 楽天アフィリエイト連携 CTAボタン */}
+            {/* 楽天トラベル公式プラン予約 CTAボタン */}
             <div className="pt-6 text-center space-y-4">
               <a
                 href={post.affiliate_url}

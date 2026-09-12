@@ -169,7 +169,7 @@ export default function FurusatoTaxArticle() {
                 <div>ホテル番号: No.40527</div>
               </div>
 
-              {/* アフィリエイト予約ボタン */}
+              {/* 予約プラン確認ボタン */}
               <div className="pt-2 flex flex-col sm:flex-row gap-3">
                 <a
                   href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D40527"
@@ -263,7 +263,7 @@ export default function FurusatoTaxArticle() {
                 <div>ホテル番号: No.19923</div>
               </div>
 
-              {/* アフィリエイト予約ボタン */}
+              {/* 予約プラン確認ボタン */}
               <div className="pt-2 flex flex-col sm:flex-row gap-3">
                 <a
                   href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D19923"
@@ -357,7 +357,7 @@ export default function FurusatoTaxArticle() {
                 <div>ホテル番号: No.52858</div>
               </div>
 
-              {/* アフィリエイト予約ボタン */}
+              {/* 予約プラン確認ボタン */}
               <div className="pt-2 flex flex-col sm:flex-row gap-3">
                 <a
                   href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D52858"

@@ -88,7 +88,7 @@ export default function TokyoHubPage() {
         </p>
       </section>
 
-      {/* 東京駅・新宿・渋谷の楽天API直接取得ホテル */}
+      {/* 東京駅・新宿・渋谷の公式おすすめホテル */}
       {tokyoData.station_hotel && (
         <section className="space-y-6 bg-white border border-indigo-950/10 rounded-3xl p-6 md:p-10 shadow-sm">
           <div className="space-y-2 border-b border-indigo-950/10 pb-4">

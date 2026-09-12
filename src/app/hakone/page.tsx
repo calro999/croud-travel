@@ -88,7 +88,7 @@ export default function HakoneHubPage() {
         </p>
       </section>
 
-      {/* 箱根湯本・強羅の楽天API直接取得温泉旅館 */}
+      {/* 箱根湯本・強羅の公式おすすめ温泉旅館 */}
       {hakoneData.yumoto_ryokan && (
         <section className="space-y-6 bg-white border border-emerald-950/10 rounded-3xl p-6 md:p-10 shadow-sm">
           <div className="space-y-2 border-b border-emerald-950/10 pb-4">
