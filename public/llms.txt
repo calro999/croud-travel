@@ -309,6 +309,8 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【おすすめ宿】ニセコ昆布温泉鶴雅別荘　杢の抄の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/142863): ニセコ昆布温泉鶴雅別荘　杢の抄（北海道）
+- [【おすすめ宿】飛騨高山温泉　ひだホテルプラザの魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/4931): 飛騨高山温泉　ひだホテルプラザ（岐阜県）
 - [【福岡県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/179214): 福岡ホテル＆リゾートグランピング　ザ・リトリート（福岡県）
 - [【宮城県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/56166): 気仙沼プラザホテル（宮城県）
 - [【おすすめ宿】軽井沢プリンスホテル　ウエストの魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/29249): 軽井沢プリンスホテル　ウエスト（群馬県）
@@ -357,5 +359,3 @@
 - [【2026年10月】白山・手取峡谷（石川県）の子連れ旅行おすすめ完全ガイド！秋の絶景・味覚と人気ファミリー宿厳選](https://croud-travel.pages.dev/posts/october-travel-city-hakusan-tedori-kids-family-guide): 白山・手取峡谷のファミリー歓迎おすすめ宿（石川県）
 - [【2026年10月】浜田・江津（島根県）の子連れ旅行おすすめ完全ガイド！秋の絶景・味覚と人気ファミリー宿厳選](https://croud-travel.pages.dev/posts/october-travel-city-hamada-gotsu-kids-family-guide): 浜田・江津のファミリー歓迎おすすめ宿（島根県）
 - [【2026年10月】浜名湖・舘山寺（静岡県）の子連れ旅行おすすめ完全ガイド！秋の絶景・味覚と人気ファミリー宿厳選](https://croud-travel.pages.dev/posts/october-travel-city-hamanako-kanzanji-kids-family-guide): 浜名湖・舘山寺のファミリー歓迎おすすめ宿（静岡県）
-- [【2026年10月】花巻・遠野（岩手県）の子連れ旅行おすすめ完全ガイド！秋の絶景・味覚と人気ファミリー宿厳選](https://croud-travel.pages.dev/posts/october-travel-city-hanamaki-tono-kids-family-guide): 花巻・遠野のファミリー歓迎おすすめ宿（岩手県）
-- [【2026年10月】飯能・日高（埼玉県）の子連れ旅行おすすめ完全ガイド！秋の絶景・味覚と人気ファミリー宿厳選](https://croud-travel.pages.dev/posts/october-travel-city-hanno-hidaka-kids-family-guide): 飯能・日高のファミリー歓迎おすすめ宿（埼玉県）
