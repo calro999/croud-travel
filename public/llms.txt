@@ -309,6 +309,10 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【おすすめ宿】４Ｓ　ＳＴＡＹ　阿波池田　池田温泉横の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/191760): ４Ｓ　ＳＴＡＹ　阿波池田　池田温泉横（徳島県）
+- [【宮城県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/108117): 飯坂温泉　伊東園ホテル飯坂　叶や（宮城県）
+- [【おすすめ宿】ＨＯＴＥＬ　ＫＡＷＡＭＩ－ＮＡ（ホテル　カワミーナ）の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/187386): ＨＯＴＥＬ　ＫＡＷＡＭＩ－ＮＡ（ホテル　カワミーナ）（宮崎県）
+- [【おすすめ宿】ホテルグレイスリー札幌の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/635): ホテルグレイスリー札幌（北海道）
 - [【おすすめ宿】松江しんじ湖温泉　ホテル一畑の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/8921): 松江しんじ湖温泉　ホテル一畑（島根県）
 - [【鳥取県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/14938): 吉野旅館＜鳥取県＞（鳥取県）
 - [【おすすめ宿】由布院温泉グランピング　風の響きの魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/187285): 由布院温泉グランピング　風の響き（大分県）
@@ -355,7 +359,3 @@
 - [【2026年10月】松山・道後（愛媛県）の子連れ旅行おすすめ完全ガイド！秋の絶景・味覚と人気ファミリー宿厳選](https://croud-travel.pages.dev/posts/october-travel-city-dogo-matsuyama-kids-family-guide): 松山・道後のファミリー歓迎おすすめ宿（愛媛県）
 - [【2026年10月】越後湯沢・南魚沼（新潟県）の子連れ旅行おすすめ完全ガイド！秋の絶景・味覚と人気ファミリー宿厳選](https://croud-travel.pages.dev/posts/october-travel-city-echigo-yuzawa-kids-family-guide): 越後湯沢・南魚沼のファミリー歓迎おすすめ宿（新潟県）
 - [【2026年10月】越前・鯖江（福井県）の子連れ旅行おすすめ完全ガイド！秋の絶景・味覚と人気ファミリー宿厳選](https://croud-travel.pages.dev/posts/october-travel-city-echizen-sabae-kids-family-guide): 越前・鯖江のファミリー歓迎おすすめ宿（福井県）
-- [【2026年10月】富士河口湖（山梨県）の子連れ旅行おすすめ完全ガイド！秋の絶景・味覚と人気ファミリー宿厳選](https://croud-travel.pages.dev/posts/october-travel-city-fujikawaguchiko-kids-family-guide): 富士河口湖のファミリー歓迎おすすめ宿（山梨県）
-- [【2026年10月】富士宮・富士（静岡県）の子連れ旅行おすすめ完全ガイド！秋の絶景・味覚と人気ファミリー宿厳選](https://croud-travel.pages.dev/posts/october-travel-city-fujinomiya-fuji-kids-family-guide): 富士宮・富士のファミリー歓迎おすすめ宿（静岡県）
-- [【2026年10月】福岡・糸島（福岡県）の子連れ旅行おすすめ完全ガイド！秋の絶景・味覚と人気ファミリー宿厳選](https://croud-travel.pages.dev/posts/october-travel-city-fukuoka-itoshima-kids-family-guide): 福岡・糸島のファミリー歓迎おすすめ宿（福岡県）
-- [【2026年10月】福山・鞆の浦（広島県）の子連れ旅行おすすめ完全ガイド！秋の絶景・味覚と人気ファミリー宿厳選](https://croud-travel.pages.dev/posts/october-travel-city-fukuyama-tomonoura-kids-family-guide): 福山・鞆の浦のファミリー歓迎おすすめ宿（広島県）
