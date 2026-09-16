@@ -309,6 +309,7 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【滋賀県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/84652): 越前あわら温泉　つるや（滋賀県）
 - [【おすすめ宿】４Ｓ　ＳＴＡＹ　阿波池田　池田温泉横の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/191760): ４Ｓ　ＳＴＡＹ　阿波池田　池田温泉横（徳島県）
 - [【宮城県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/108117): 飯坂温泉　伊東園ホテル飯坂　叶や（宮城県）
 - [【おすすめ宿】ＨＯＴＥＬ　ＫＡＷＡＭＩ－ＮＡ（ホテル　カワミーナ）の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/187386): ＨＯＴＥＬ　ＫＡＷＡＭＩ－ＮＡ（ホテル　カワミーナ）（宮崎県）
@@ -358,4 +359,3 @@
 - [【2026年10月】太宰府・筑紫野（福岡県）の子連れ旅行おすすめ完全ガイド！秋の絶景・味覚と人気ファミリー宿厳選](https://croud-travel.pages.dev/posts/october-travel-city-dazaifu-chikushino-kids-family-guide): 太宰府・筑紫野のファミリー歓迎おすすめ宿（福岡県）
 - [【2026年10月】松山・道後（愛媛県）の子連れ旅行おすすめ完全ガイド！秋の絶景・味覚と人気ファミリー宿厳選](https://croud-travel.pages.dev/posts/october-travel-city-dogo-matsuyama-kids-family-guide): 松山・道後のファミリー歓迎おすすめ宿（愛媛県）
 - [【2026年10月】越後湯沢・南魚沼（新潟県）の子連れ旅行おすすめ完全ガイド！秋の絶景・味覚と人気ファミリー宿厳選](https://croud-travel.pages.dev/posts/october-travel-city-echigo-yuzawa-kids-family-guide): 越後湯沢・南魚沼のファミリー歓迎おすすめ宿（新潟県）
-- [【2026年10月】越前・鯖江（福井県）の子連れ旅行おすすめ完全ガイド！秋の絶景・味覚と人気ファミリー宿厳選](https://croud-travel.pages.dev/posts/october-travel-city-echizen-sabae-kids-family-guide): 越前・鯖江のファミリー歓迎おすすめ宿（福井県）
