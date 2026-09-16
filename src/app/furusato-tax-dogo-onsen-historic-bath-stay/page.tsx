@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.pages.dev/furusato-tax-dogo-onsen-historic-bath-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-dogo-onsen-historic-bath-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-dogo-onsen-historic-bath-stay/',
   },
 };
 

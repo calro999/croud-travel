@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: '北海道屈指のカルデラ湖畔・洞爺湖町＆壮瞥町を楽天ふるさと納税でお得に極上ステイ！山頂から湖と海を一望する世界的サミットホテル「ザ・ウィンザーホテル洞爺」、全室客室温泉露天風呂付き「ザ・レイクスイート 湖の栖」、広大な温泉ビーチの「洞爺サンパレス リゾート＆スパ」を徹底比較。ロングラン花火大会やトラベルクーポン活用術を網羅。',
   keywords: '洞爺湖温泉 ふるさと納税,ウィンザーホテル洞爺 クーポン,湖の栖 ふるさと納税 洞爺,洞爺サンパレス 宿泊,洞爺湖町 ふるさと納税 旅行',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-toyako-onsen-lakeview-fireworks-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-toyako-onsen-lakeview-fireworks-stay/',
   },
   openGraph: {
     title: '【洞爺湖温泉×ふるさと納税】ロングラン花火＆湖上インフィニティスパ！絶景リゾート特集｜ウィンザーホテル洞爺・湖の栖・サンパレス',

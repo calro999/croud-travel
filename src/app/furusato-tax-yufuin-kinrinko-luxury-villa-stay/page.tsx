@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.pages.dev/furusato-tax-yufuin-kinrinko-luxury-villa-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-yufuin-kinrinko-luxury-villa-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-yufuin-kinrinko-luxury-villa-stay/',
   },
 };
 

@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.pages.dev/furusato-tax-arima-onsen-kinsen-ginsen-kobe-beef-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-arima-onsen-kinsen-ginsen-kobe-beef-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-arima-onsen-kinsen-ginsen-kobe-beef-stay/',
   },
 };
 

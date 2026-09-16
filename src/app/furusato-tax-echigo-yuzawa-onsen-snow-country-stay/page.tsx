@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.pages.dev/furusato-tax-echigo-yuzawa-onsen-snow-country-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-echigo-yuzawa-onsen-snow-country-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-echigo-yuzawa-onsen-snow-country-stay/',
   },
 };
 

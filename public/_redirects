@@ -1,0 +1,8 @@
+# Cloudflare Pages 301 Redirect Rules
+# Normalize trailing slashes to unify GSC indexing and SEO signals
+
+/posts/:slug /posts/:slug/ 301
+/prefectures/:slug /prefectures/:slug/ 301
+/spots/:slug /spots/:slug/ 301
+/furusato/:slug /furusato/:slug/ 301
+/furusato-tax-:slug /furusato-tax-:slug/ 301

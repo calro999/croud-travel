@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     '実質2000円'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-nasu-highland-onsen-resort-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-nasu-highland-onsen-resort-stay/',
   },
   openGraph: {
     title: 'ロイヤルリゾート那須の自然と名湯！那須温泉の美肌露天風呂＆極上とちぎ和牛・豪華高原バイキング×ふるさと納税完全攻略ガイド【2026年最新】エピナール那須・山楽・グランドメルキュール',

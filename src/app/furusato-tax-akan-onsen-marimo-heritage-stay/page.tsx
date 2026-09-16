@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: '道東の大自然とアイヌ文化が息づく阿寒摩周国立公園・北海道阿寒湖温泉を楽天ふるさと納税でお得に贅沢ステイ！最上階展望風呂と阿寒湖絶景を誇る「あかん遊久の里 鶴雅」、全室露天風呂付き・大人の至高オールインクルーシブ「あかん鶴雅別荘 鄙の座」、屋上インフィニティ温泉の「ニュー阿寒ホテル」を徹底比較。釧路市トラベルクーポン活用術を網羅。',
   keywords: '阿寒湖温泉 ふるさと納税,阿寒 鶴雅 ふるさと納税,あかん遊久の里 鶴雅 クーポン,鄙の座 阿寒湖 宿泊,釧路市 ふるさと納税 旅行',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-akan-onsen-marimo-heritage-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-akan-onsen-marimo-heritage-stay/',
   },
   openGraph: {
     title: '【阿寒湖温泉×ふるさと納税】天然記念物マリモの湖＆阿寒連峰パノラマ！鶴雅リゾート特集｜遊久の里鶴雅・鶴雅別荘鄙の座・ニュー阿寒ホテル',

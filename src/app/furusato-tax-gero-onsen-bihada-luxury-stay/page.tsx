@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     '実質2000円'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-gero-onsen-bihada-luxury-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-gero-onsen-bihada-luxury-stay/',
   },
   openGraph: {
     title: '日本三名泉・天下の名湯！下呂温泉の美肌の湯めぐり＆国登録有形文化財・極上飛騨牛会席×ふるさと納税完全攻略ガイド【2026年最新】水明館・望川館・湯之島館',

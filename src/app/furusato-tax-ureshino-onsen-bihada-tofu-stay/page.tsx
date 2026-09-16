@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.pages.dev/furusato-tax-ureshino-onsen-bihada-tofu-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-ureshino-onsen-bihada-tofu-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-ureshino-onsen-bihada-tofu-stay/',
   },
 };
 

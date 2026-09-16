@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     '実質2000円'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-kinugawa-nikko-world-heritage-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-kinugawa-nikko-world-heritage-stay/',
   },
   openGraph: {
     title: '世界遺産日光東照宮の歴史と中禅寺湖の絶景！奥日光の乳白色硫黄泉＆日本最古クラシックホテル×ふるさと納税完全攻略ガイド【2026年最新】千姫物語・日光金谷ホテル・ホテル四季彩',

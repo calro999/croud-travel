@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: '那覇空港からゆいレールで約10〜15分！沖縄の玄関口・沖縄県那覇市を楽天ふるさと納税でお得に贅沢ステイ。国際通り徒歩3分のハイエンド「ハイアット リージェンシー 那覇 沖縄」、国際通りのど真ん中に誕生したフルスペックリゾート「ホテル コレクティブ」、地下から湧出する天然温泉「ロワジール スパタワー 那覇」を徹底比較。那覇市トラベルクーポン活用術を網羅。',
   keywords: '那覇 ホテル ふるさと納税,ハイアット那覇 クーポン,ホテルコレクティブ ふるさと納税,ロワジールスパタワー那覇 宿泊,那覇市 ふるさと納税 旅行',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-okinawa-naha-kokusaidori-luxury-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-okinawa-naha-kokusaidori-luxury-stay/',
   },
   openGraph: {
     title: '【沖縄・那覇×ふるさと納税】国際通りの活気＆屋外プールリゾート！天然温泉スパ特集｜ハイアット那覇・コレクティブ・ロワジールスパタワー',

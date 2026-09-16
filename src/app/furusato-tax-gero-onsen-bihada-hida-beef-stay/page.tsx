@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: '草津・有馬と並ぶ日本三名泉・岐阜県下呂温泉を楽天ふるさと納税でお得に満喫！飛騨川沿いの一大温泉リゾート「水明館」、昭和六年創業の国登録有形文化財「湯之島館」、名物百帖空間の畳風呂を誇る「小川屋」を徹底比較。とろとろ美肌の湯や最高級A5飛騨牛会席、下呂市トラベルクーポン活用術を網羅。',
   keywords: '下呂温泉 ふるさと納税,下呂温泉 飛騨牛 ふるさと納税,水明館 クーポン 下呂,湯之島館 ふるさと納税,小川屋 下呂市 宿泊',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-gero-onsen-bihada-hida-beef-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-gero-onsen-bihada-hida-beef-stay/',
   },
   openGraph: {
     title: '【下呂温泉×ふるさと納税】日本三名泉の美肌美湯＆極上飛騨牛！老舗名宿特集｜水明館・湯之島館・小川屋',

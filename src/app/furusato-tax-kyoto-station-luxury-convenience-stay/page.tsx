@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: '新幹線を降りたらすぐチェックイン！京都観光・出張の最強拠点・京都府京都市「京都駅周辺」を楽天ふるさと納税でお得に贅沢ステイ。JR京都駅烏丸口直結のランドマーク「ホテルグランヴィア京都」、現代の茶室をテーマにした癒やしの館「ザ・サウザンド京都」、京都唯一の回転展望レストランを擁する「リーガロイヤルホテル京都」を徹底比較。京都市トラベルクーポン活用術を網羅。',
   keywords: '京都駅 ホテル ふるさと納税,グランヴィア京都 ふるさと納税,ザサウザンド京都 クーポン,リーガロイヤルホテル京都 宿泊,京都市 ふるさと納税 旅行',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-kyoto-station-luxury-convenience-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-kyoto-station-luxury-convenience-stay/',
   },
   openGraph: {
     title: '【京都駅直結×ふるさと納税】新幹線直結＆抜群のアクセス！古都観光の特等席名門ホテル特集｜グランヴィア京都・ザサウザンド京都・リーガロイヤル',

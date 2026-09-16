@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: '憧れの温泉リゾート・大分県由布院温泉を楽天ふるさと納税でお得に旅する！一万坪の庭園と由布岳絶景を誇る「梅園 GARDEN RESORT」、金鱗湖徒歩1分・全室露天付き離れ宿「由布院 寛ぎの宿 なな川」、多彩な和モダンデザイン離れが魅力の「由布院別邸 樹」を徹底比較。由布市トラベルクーポン活用術を網羅。',
   keywords: '由布院 離れ ふるさと納税,由布院温泉 ふるさと納税 宿泊,由布院 梅園 クーポン,なな川 由布院 ふるさと納税,由布院別邸 樹 宿泊',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-yufuin-onsen-hanare-private-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-yufuin-onsen-hanare-private-stay/',
   },
   openGraph: {
     title: '【由布院温泉×ふるさと納税】全室離れ・客室露天風呂の極上リゾート！静寂の大人ステイ完全ガイド｜梅園・なな川・由布院別邸樹',

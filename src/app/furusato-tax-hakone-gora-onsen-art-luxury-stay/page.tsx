@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.pages.dev/furusato-tax-hakone-gora-onsen-art-luxury-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-hakone-gora-onsen-art-luxury-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-hakone-gora-onsen-art-luxury-stay/',
   },
 };
 

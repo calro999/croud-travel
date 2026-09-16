@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: '日本一の湧出量を誇る温泉パラダイス・大分県別府温泉郷を楽天ふるさと納税でお得に贅沢ステイ！五段の棚田露天風呂「棚湯」が話題のメガリゾート「杉乃井ホテル」、全室客室露天風呂付きオーシャンリゾート「潮騒の宿 晴海」、鉄輪の高台に佇む能舞台の格式名門「山荘 神和苑」を徹底比較。別府市トラベルクーポン活用術を網羅。',
   keywords: '別府温泉 ふるさと納税,杉乃井ホテル クーポン,潮騒の宿 晴海 ふるさと納税,山荘 神和苑 宿泊,別府市 ふるさと納税 旅行',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-beppu-onsen-suginoi-jigoku-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-beppu-onsen-suginoi-jigoku-stay/',
   },
   openGraph: {
     title: '【別府温泉×ふるさと納税】湧出量日本一・別府地獄めぐり＆メガリゾート！名宿特集｜杉乃井ホテル・潮騒の宿晴海・山荘神和苑',

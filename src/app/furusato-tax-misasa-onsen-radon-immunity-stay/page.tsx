@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.pages.dev/furusato-tax-misasa-onsen-radon-immunity-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-misasa-onsen-radon-immunity-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-misasa-onsen-radon-immunity-stay/',
   },
 };
 

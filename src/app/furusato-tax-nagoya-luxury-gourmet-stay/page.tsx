@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: '日本三大都市・愛知県名古屋市を楽天ふるさと納税でお得に贅沢ステイ！JR名古屋駅直結・地上200m超の「名古屋マリオットアソシアホテル」、久屋大通公園を望む最新ラグジュアリー「TIAD オートグラフ コレクション」、昭和十一年開業の歴史と格式「名古屋観光ホテル」を徹底比較。名古屋メシとふるさと納税クーポン活用術を網羅。',
   keywords: '名古屋 ふるさと納税,名古屋マリオット ふるさと納税,TIAD クーポン 名古屋,名古屋観光ホテル 宿泊,名古屋市 ふるさと納税 旅行',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-nagoya-luxury-gourmet-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-nagoya-luxury-gourmet-stay/',
   },
   openGraph: {
     title: '【名古屋×ふるさと納税】駅直結スカイビュー＆最新ラグジュアリー！ひつまぶし・名古屋コーチン美食特集｜マリオット・TIAD・名古屋観光ホテル',

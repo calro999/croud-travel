@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.pages.dev/furusato-tax-yamashiro-onsen-kaga-million-gourmet-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-yamashiro-onsen-kaga-million-gourmet-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-yamashiro-onsen-kaga-million-gourmet-stay/',
   },
 };
 

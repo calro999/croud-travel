@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: '毎分三万リットルの豊富な湧出量を誇る伊豆屈指の温泉郷・静岡県伊東温泉を楽天ふるさと納税でお得に贅沢ステイ！相模湾を見晴らす丘の名門料亭旅館「青山やまと」、名物海底温泉でお魚見学「サンハトヤ」、全室温泉付き客室の和モダン「ラフォーレ伊東温泉 湯の庭」を徹底比較。伊東市トラベルクーポン活用術を網羅。',
   keywords: '伊東温泉 ふるさと納税,青山やまと クーポン,サンハトヤ ふるさと納税 伊東,ラフォーレ伊東温泉 宿泊,伊東市 ふるさと納税 旅行',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-ito-onsen-ocean-kinmedai-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-ito-onsen-ocean-kinmedai-stay/',
   },
   openGraph: {
     title: '【伊東温泉×ふるさと納税】相模灘オーシャンビュー＆名物金目鯛・伊勢海老！伊豆の名門宿特集｜青山やまと・サンハトヤ・ラフォーレ湯の庭',

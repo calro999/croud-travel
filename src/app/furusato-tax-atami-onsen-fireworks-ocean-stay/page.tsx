@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.pages.dev/furusato-tax-atami-onsen-fireworks-ocean-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-atami-onsen-fireworks-ocean-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-atami-onsen-fireworks-ocean-stay/',
   },
 };
 

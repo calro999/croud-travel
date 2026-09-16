@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: '十和田八幡平国立公園の深山に湧く日本屈指の秘湯・秋田県乳頭温泉郷＆田沢湖を楽天ふるさと納税でお得に巡る！二大名湯を引くブナの原生林宿「休暇村 乳頭温泉郷」、田沢湖畔の高原リゾート「田沢湖レイクリゾート」、清流貸切露天風呂と手打ち十割そばの「駒ヶ岳温泉」を徹底比較。山の芋鍋や仙北市トラベルクーポン活用術を網羅。',
   keywords: '乳頭温泉郷 ふるさと納税,乳頭温泉 秘湯 ふるさと納税,休暇村 乳頭温泉郷 クーポン,田沢湖レイクリゾート ふるさと納税,仙北市 ふるさと納税 宿泊',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-nyuto-onsen-secret-milky-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-nyuto-onsen-secret-milky-stay/',
   },
   openGraph: {
     title: '【乳頭温泉郷×ふるさと納税】日本屈指の乳白色秘湯＆田沢湖畔ステイ！湯治宿ガイド｜休暇村乳頭温泉郷・田沢湖レイクリゾート・駒ヶ岳温泉',

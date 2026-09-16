@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: '「三日入れば三年風邪をひかない」と謳われる信州屈指の白濁秘湯・長野県白骨温泉を楽天ふるさと納税でお得に巡る！享保年間創業の老舗名門「湯元齋藤旅館」、白樺林に佇む完全貸切野天の宿「小梨の湯 笹屋」、桂の巨木と素朴な温もりの「かつらの湯 丸永旅館」を徹底解説。松本市トラベルクーポン活用術を網羅。',
   keywords: '白骨温泉 ふるさと納税,白骨温泉 旅館 おすすめ,湯元齋藤旅館 ふるさと納税,小梨の湯 笹屋 クーポン,松本市 ふるさと納税 宿泊',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-shirahone-onsen-milky-secret-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-shirahone-onsen-milky-secret-stay/',
   },
   openGraph: {
     title: '【白骨温泉×ふるさと納税】乳白色のにごり湯秘湯＆信州牛会席！深山幽谷の極上湯治宿ガイド｜齋藤旅館・小梨の湯笹屋・丸永旅館',

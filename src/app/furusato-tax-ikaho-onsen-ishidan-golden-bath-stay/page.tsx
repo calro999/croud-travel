@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: '365段の石段街が有名な名湯・群馬県伊香保温泉を楽天ふるさと納税でお得に満喫！創業440年の最高峰老舗「福一」、石段街徒歩1分・黄金の湯掛け流しの「森秋旅館」、文豪徳富蘆花ゆかりの源泉宿「千明仁泉亭」を徹底比較。上州牛会席や渋川市トラベルクーポン活用術を網羅。',
   keywords: '伊香保温泉 ふるさと納税,伊香保温泉 石段街 宿 ふるさと納税,伊香保 福一 クーポン,森秋旅館 ふるさと納税,千明仁泉亭 宿泊',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-ikaho-onsen-ishidan-golden-bath-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-ikaho-onsen-ishidan-golden-bath-stay/',
   },
   openGraph: {
     title: '【伊香保温泉×ふるさと納税】石段街の風情＆名湯「黄金の湯・白銀の湯」！老舗温泉宿特集｜福一・森秋旅館・千明仁泉亭',

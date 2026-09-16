@@ -79,8 +79,17 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
       post.family_friendly ? "子連れ" : "",
     ].filter(Boolean);
 
+    // タイトル決定: 特集記事やタイトルが設定されている場合はpost.titleを優先、通常ホテル記事は適切に整形
+    let pageTitle = post.title;
+    if (!pageTitle || pageTitle.length < 5) {
+      pageTitle = `${post.hotel_name}（${post.prefecture}）おすすめ観光＆宿泊ガイド`;
+    }
+    if (!pageTitle.includes("日本全国・旅宿クラウド")) {
+      pageTitle = `${pageTitle} ｜ 日本全国・旅宿クラウド`;
+    }
+
     return {
-      title: `${post.hotel_name}（${post.prefecture}）おすすめ観光＆宿泊ガイド ｜ 日本全国・旅宿クラウド`,
+      title: pageTitle,
       description: descriptionText,
       keywords: [
         post.hotel_name, post.prefecture, post.area,
@@ -93,9 +102,9 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
         canonical: `${baseUrl}/posts/${id}/`,
       },
       openGraph: {
-        title: `${post.title} ｜ 日本全国・旅宿クラウド`,
+        title: pageTitle,
         description: descriptionText,
-        url: `${baseUrl}/posts/${id}`,
+        url: `${baseUrl}/posts/${id}/`,
         siteName: "日本全国・旅宿クラウド",
         images: post.image ? [{ url: post.image, alt: post.hotel_name, width: 1200, height: 630 }] : [],
         type: "article",

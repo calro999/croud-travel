@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: '開湯千二百年・七尾湾の波打ち際に湧く海の温泉・石川県和倉温泉を楽天ふるさと納税でお得に旅して応援！広大な庭園露天風呂を誇る「日本の宿 のと楽」、創業百二十年・海一望の「ゆけむりの宿 美湾荘」、総湯隣接の温もり宿「味な宿 宝仙閣」を徹底比較。能登牛や日本海旬魚会席、七尾市トラベルクーポン活用術を網羅。',
   keywords: '和倉温泉 ふるさと納税,和倉温泉 のと楽 クーポン,美湾荘 和倉 ふるさと納税,宝仙閣 和倉温泉 宿泊,七尾市 ふるさと納税 能登応援',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-wakura-onsen-noto-ocean-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-wakura-onsen-noto-ocean-stay/',
   },
   openGraph: {
     title: '【和倉温泉×ふるさと納税】七尾湾オーシャンビュー＆能登復興応援！海の恵み会席名宿特集｜のと楽・美湾荘・宝仙閣',

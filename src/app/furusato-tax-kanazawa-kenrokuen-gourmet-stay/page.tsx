@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: '北陸新幹線で東京から最速約2時間15分！加賀百万石の城下町・石川県金沢市を楽天ふるさと納税でお得に贅沢ステイ。金沢駅東口直結のランドマーク「ホテル日航金沢」、兼六園すぐ隣で天然温泉が湧くクラシック宿「金沢白鳥路 ホテル山楽」、近江町市場徒歩すぐの中庭庭園ホテル「THE HOTEL SANRAKU KANAZAWA」を徹底比較。金沢市トラベルクーポン活用術を網羅。',
   keywords: '金沢 ホテル ふるさと納税,ホテル日航金沢 ふるさと納税,金沢白鳥路ホテル山楽 クーポン,THE HOTEL SANRAKU KANAZAWA 宿泊,金沢市 ふるさと納税 旅行',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-kanazawa-kenrokuen-gourmet-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-kanazawa-kenrokuen-gourmet-stay/',
   },
   openGraph: {
     title: '【金沢×ふるさと納税】兼六園の美景＆近江町市場の海の幸！加賀百万石の名門ホテル特集｜ホテル日航金沢・白鳥路山楽・THE HOTEL SANRAKU',

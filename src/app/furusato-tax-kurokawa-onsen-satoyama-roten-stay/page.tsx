@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: 'ミシュラン二つ星の里山秘湯・熊本県黒川温泉を楽天ふるさと納税でお得に贅沢ステイ！雑木林に佇む大人の隠れ家「お宿 のし湯」、三千坪の森に二つの自家源泉を誇る「旅館 山河」、びょうぶ岩望むエメラルドグリーンの湯「黒川荘」を徹底比較。入湯手形やあか牛料理、南小国町トラベルクーポン活用術を網羅。',
   keywords: '黒川温泉 ふるさと納税,黒川温泉 露天風呂 ふるさと納税,お宿のし湯 クーポン,旅館山河 ふるさと納税,南小国町 ふるさと納税 宿泊',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-kurokawa-onsen-satoyama-roten-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-kurokawa-onsen-satoyama-roten-stay/',
   },
   openGraph: {
     title: '【黒川温泉×ふるさと納税】渓谷の秘湯・入湯手形で巡る露天風呂＆あか牛会席！風情名宿特集｜お宿のし湯・旅館山河・黒川荘',

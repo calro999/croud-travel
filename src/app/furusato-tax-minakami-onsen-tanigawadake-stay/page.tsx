@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: '利根川源流の大自然と谷川岳の秀峰に抱かれる群馬県みなかみ町「水上温泉郷」を楽天ふるさと納税でお得に贅沢ステイ！世界最高峰ルレ・エ・シャトー加盟の「別邸 仙寿庵」、四つの自家源泉と豪華バイキングの「大江戸温泉物語Premium 松乃井」、利根川を望む十六の湯船を誇る「坐山 みなかみ（旧水上館）」を徹底比較。みなかみ町トラベルクーポン活用術を網羅。',
   keywords: '水上温泉 ふるさと納税,別邸仙寿庵 クーポン みなかみ,松乃井 水上温泉 ふるさと納税,坐山みなかみ 宿泊,みなかみ町 ふるさと納税 旅行',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-minakami-onsen-tanigawadake-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-minakami-onsen-tanigawadake-stay/',
   },
   openGraph: {
     title: '【水上温泉郷×ふるさと納税】谷川岳の絶景＆利根川渓流露天！上州牛と名湯満喫特集｜別邸仙寿庵・松乃井・坐山みなかみ',

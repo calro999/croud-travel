@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: 'ガス灯揺れる小樽運河と新鮮な海の幸、歴史的建造物が薫る港町・北海道小樽市を楽天ふるさと納税でお得に贅沢旅！運河の目の前に佇む明治商家風情「運河の宿 おたる ふる川」、広大な日本庭園と露天風呂付き客室の名宿「おたる 宏楽園」、平磯岬の高台に君臨する鰊御殿「料亭湯宿 銀鱗荘」を徹底比較。小樽市トラベルクーポン活用術を網羅。',
   keywords: '小樽 ふるさと納税,おたるふる川 ふるさと納税,おたる宏楽園 クーポン,銀鱗荘 小樽 宿泊,小樽市 ふるさと納税 旅行',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-otaru-canal-asarigawa-onsen-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-otaru-canal-asarigawa-onsen-stay/',
   },
   openGraph: {
     title: '【小樽・朝里川温泉×ふるさと納税】小樽運河の情緒＆北の迎賓館！鰊御殿と寿司の街特集｜おたるふる川・宏楽園・銀鱗荘',

@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.pages.dev/furusato-tax-noboribetsu-onsen-jigokudani-resort-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-noboribetsu-onsen-jigokudani-resort-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-noboribetsu-onsen-jigokudani-resort-stay/',
   },
 };
 

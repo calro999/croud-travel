@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: '日本三名泉の筆頭・群馬県草津温泉を楽天ふるさと納税でお得に贅沢ステイ！創業慶長四年・二つの源泉を引く「望雲」、湯畑が目の前の絶景老舗「ホテル一井」、湯守が丹精込めて仕込む極上の白旗源泉「奈良屋」を徹底比較。草津町トラベルクーポンの賢い活用法を完全網羅。',
   keywords: '草津温泉 ふるさと納税,草津温泉 湯畑 宿 ふるさと納税,草津温泉 望雲 クーポン,ホテル一井 草津 ふるさと納税,奈良屋 草津町 宿泊',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-kusatsu-onsen-yubatake-heritage-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-kusatsu-onsen-yubatake-heritage-stay/',
   },
   openGraph: {
     title: '【草津温泉×ふるさと納税】湯畑徒歩圏内の老舗名宿特集！源泉かけ流しと名湯巡り完全ガイド｜望雲・ホテル一井・奈良屋',

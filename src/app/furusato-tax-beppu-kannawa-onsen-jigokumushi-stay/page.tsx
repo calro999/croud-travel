@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.pages.dev/furusato-tax-beppu-kannawa-onsen-jigokumushi-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-beppu-kannawa-onsen-jigokumushi-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-beppu-kannawa-onsen-jigokumushi-stay/',
   },
 };
 

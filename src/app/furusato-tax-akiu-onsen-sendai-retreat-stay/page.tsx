@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.pages.dev/furusato-tax-akiu-onsen-sendai-retreat-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-akiu-onsen-sendai-retreat-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-akiu-onsen-sendai-retreat-stay/',
   },
 };
 

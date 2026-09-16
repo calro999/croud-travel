@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: '首都圏からのアクセス抜群・渓谷の美湯・栃木県鬼怒川温泉を楽天ふるさと納税でお得に満喫！創業百三十年・空中庭園露天風呂と豪華ビュッフェの「あさや」、日本最古のリゾートを受け継ぐ最高峰「鬼怒川金谷ホテル」、全室渓谷ビューの隠れ宿「七重八重」を徹底比較。日光市トラベルクーポン活用術を網羅。',
   keywords: '鬼怒川温泉 ふるさと納税,あさや ふるさと納税 鬼怒川,鬼怒川金谷ホテル クーポン,七重八重 鬼怒川 宿泊,日光市 ふるさと納税 旅行',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-kinugawa-onsen-valley-luxury-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-kinugawa-onsen-valley-luxury-stay/',
   },
   openGraph: {
     title: '【鬼怒川温泉×ふるさと納税】空中庭園露天風呂＆渓谷美の特等席！名門老舗リゾート特集｜あさや・鬼怒川金谷ホテル・七重八重',

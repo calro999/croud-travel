@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.pages.dev/furusato-tax-kurokawa-onsen-nyuto-tegata-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-kurokawa-onsen-nyuto-tegata-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-kurokawa-onsen-nyuto-tegata-stay/',
   },
 };
 

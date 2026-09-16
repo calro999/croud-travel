@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: '世界遺産・霊峰富士と湖が織りなす絶景温泉地・山梨県富士河口湖温泉を楽天ふるさと納税でお得に旅する！全室富士山＆河口湖ビューを誇る「秀峰閣 湖月」、最上階展望風呂と本格会席の名宿「若草の宿 丸栄」、創業昭和七年・バリアフリーと歴史の「富士レークホテル」を徹底比較。富士河口湖町トラベルクーポン活用術を解説。',
   keywords: '河口湖 富士山 露天風呂 ふるさと納税,富士河口湖町 ふるさと納税 宿泊,秀峰閣湖月 ふるさと納税,若草の宿丸栄 クーポン,富士レークホテル ふるさと納税',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-kawaguchiko-fuji-view-onsen-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-kawaguchiko-fuji-view-onsen-stay/',
   },
   openGraph: {
     title: '【富士河口湖温泉×ふるさと納税】富士山一望露天風呂＆逆さ富士ステイ！絶景客室で癒やされる宿特集｜秀峰閣湖月・若草の宿丸栄・富士レークホテル',

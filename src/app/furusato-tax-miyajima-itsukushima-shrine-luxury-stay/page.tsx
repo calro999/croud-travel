@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: '日本三景・世界文化遺産に輝く神の島・広島県廿日市市「宮島（厳島）」を楽天ふるさと納税でお得に贅沢滞在！宮島唯一の自家源泉潮湯温泉を誇る「錦水館」、安政元年創業・皇室や文豪も愛した名門「みやじまの宿 岩惣」、厳島神社徒歩3分・創業三百余年の老舗「宮島グランドホテル 有もと」を徹底比較。廿日市市トラベルクーポン活用術を網羅。',
   keywords: '宮島 ふるさと納税,錦水館 クーポン 宮島,岩惣 ふるさと納税 宿泊,宮島ホテル有もと ふるさと納税,廿日市市 ふるさと納税 旅行',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-miyajima-itsukushima-shrine-luxury-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-miyajima-itsukushima-shrine-luxury-stay/',
   },
   openGraph: {
     title: '【宮島・厳島神社×ふるさと納税】世界遺産の大鳥居と潮湯温泉！瀬戸内名物牡蠣・穴子会席特集｜錦水館・岩惣・有もと',

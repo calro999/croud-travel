@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.pages.dev/furusato-tax-ikaho-stone-steps-retro-luxury-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-ikaho-stone-steps-retro-luxury-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-ikaho-stone-steps-retro-luxury-stay/',
   },
 };
 

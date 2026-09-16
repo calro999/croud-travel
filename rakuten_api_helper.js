@@ -7,15 +7,23 @@ const appId = process.env.RAKUTEN_APPLICATION_ID;
 const accessKey = process.env.RAKUTEN_ACCESS_KEY;
 const affId = process.env.RAKUTEN_AFFILIATE_ID;
 
-function searchRakutenHotels(keyword, hits = 5) {
+const sleep = ms => new Promise(r => setTimeout(r, ms));
+
+async function searchRakutenHotels(keyword, hits = 5, retryCount = 0) {
   return new Promise((resolve, reject) => {
     const url = `https://openapi.rakuten.co.jp/engine/api/Travel/KeywordHotelSearch/20260731?format=json&keyword=${encodeURIComponent(keyword)}&applicationId=${appId}&accessKey=${accessKey}&affiliateId=${affId}&hits=${hits}`;
     https.get(url, (res) => {
       let data = '';
       res.on('data', chunk => data += chunk);
-      res.on('end', () => {
+      res.on('end', async () => {
         try {
           const json = JSON.parse(data);
+          if (json.error === 'rate_limit_exceeded' || json.statusCode === 429) {
+            if (retryCount < 3) {
+              await sleep(1500);
+              return resolve(await searchRakutenHotels(keyword, hits, retryCount + 1));
+            }
+          }
           if (json.hotels) {
             const list = json.hotels.map(h => {
               const b = h.hotel[0].hotelBasicInfo;

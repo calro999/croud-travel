@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: '千三百年余の時を刻む古都・奈良県奈良市（奈良公園周辺）を楽天ふるさと納税でお得に贅沢ステイ！明治四十二年創業「関西の迎賓館」として愛される「奈良ホテル」、奈良公園の杜に佇む隈研吾建築「ふふ 奈良」、日本初の最高峰ラグジュアリー「JWマリオット・ホテル奈良」を徹底比較。奈良市ふるさと納税トラベルクーポン活用術を網羅。',
   keywords: '奈良公園 ホテル ふるさと納税,奈良ホテル クーポン,ふふ奈良 ふるさと納税,JWマリオット奈良 宿泊,奈良市 ふるさと納税 旅行',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-nara-park-heritage-luxury-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-nara-park-heritage-luxury-stay/',
   },
   openGraph: {
     title: '【奈良公園×ふるさと納税】世界遺産の大仏＆若草山の緑！クラシックホテルと露天風呂ヴィラ特集｜奈良ホテル・ふふ奈良・JWマリオット',

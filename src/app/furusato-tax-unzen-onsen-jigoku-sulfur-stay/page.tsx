@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.pages.dev/furusato-tax-unzen-onsen-jigoku-sulfur-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-unzen-onsen-jigoku-sulfur-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-unzen-onsen-jigoku-sulfur-stay/',
   },
 };
 

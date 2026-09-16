@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: '日本屈指の温泉情緒とスキーリゾート・長野県野沢温泉を楽天ふるさと納税でお得に贅沢旅！創業百余年・宮大工造りの湯屋建築を誇る「旅館 さかや」、名湯真湯の白濁露天と信州牛の「河一屋旅館」、麻釜隣接の老舗「村のホテル 住吉屋」を徹底比較。十三外湯めぐりや野沢菜料理、野沢温泉村トラベルクーポン活用術を網羅。',
   keywords: '野沢温泉 ふるさと納税,野沢温泉 外湯 ふるさと納税,旅館さかや クーポン,河一屋旅館 野沢温泉 宿泊,野沢温泉村 ふるさと納税 旅行',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-nozawa-onsen-sotoyu-heritage-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-nozawa-onsen-sotoyu-heritage-stay/',
   },
   openGraph: {
     title: '【野沢温泉×ふるさと納税】十三の外湯めぐり＆源泉麻釜！信州郷土料理の名宿特集｜旅館さかや・河一屋旅館・住吉屋',

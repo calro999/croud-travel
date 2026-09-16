@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: '札幌市街から約1時間・支笏洞爺国立公園の渓谷美湯・定山渓温泉を楽天ふるさと納税でお得に贅沢ステイ！自家源泉三本をブレンドした名宿「定山渓第一寶亭留 翠山亭」、全室温泉風呂完備の和モダン「ゆらく草庵」、森の物語と美食ビュッフェの「定山渓 鶴雅リゾートスパ 森の謌」を徹底比較。札幌市トラベルクーポン活用術を網羅。',
   keywords: '定山渓温泉 ふるさと納税,定山渓 翠山亭 クーポン,ゆらく草庵 ふるさと納税 定山渓,森の謌 鶴雅 ふるさと納税,札幌市 ふるさと納税 宿泊',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-jozankei-onsen-keikoku-retreat-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-jozankei-onsen-keikoku-retreat-stay/',
   },
   openGraph: {
     title: '【定山渓温泉×ふるさと納税】札幌の奥座敷・豊平峡渓谷美＆源泉かけ流し！極上リゾート宿特集｜翠山亭・ゆらく草庵・森の謌',

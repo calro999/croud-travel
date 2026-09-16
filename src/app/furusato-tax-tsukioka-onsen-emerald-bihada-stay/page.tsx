@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: '日本有数の硫黄含有量を誇る美肌の湯・新潟県月岡温泉を楽天ふるさと納税でお得に贅沢ステイ！六千坪の大庭園と展望露天風呂を誇る最高峰「白玉の湯 華鳳」、岩露天風呂とのどぐろ料理が自慢の「白玉の湯 泉慶」、大庭園と地酒バイキングの「風鈴屋」を徹底比較。新発田市トラベルクーポン活用術を網羅。',
   keywords: '月岡温泉 ふるさと納税,月岡温泉 華鳳 クーポン,白玉の湯 泉慶 ふるさと納税,風鈴屋 月岡温泉 宿泊,新発田市 ふるさと納税 旅行',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-tsukioka-onsen-emerald-bihada-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-tsukioka-onsen-emerald-bihada-stay/',
   },
   openGraph: {
     title: '【月岡温泉×ふるさと納税】国内随一のエメラルドグリーン硫黄泉＆極上越後会席！名門宿特集｜白玉の湯華鳳・白玉の湯泉慶・風鈴屋',

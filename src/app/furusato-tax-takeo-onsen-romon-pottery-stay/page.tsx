@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: '千三百年余の歴史を誇る佐賀の名湯・武雄温泉を楽天ふるさと納税でお得に贅沢旅！大正ロマンのアンティーク宿「京都屋」、展望露天風呂と佐賀牛の「ホテル春慶屋」、楼門徒歩1分の老舗「なかます旅館」を徹底比較。有田焼・波佐見焼巡りや武雄市トラベルクーポン活用術を網羅。',
   keywords: '武雄温泉 ふるさと納税,武雄温泉 旅館 ふるさと納税,武雄温泉 京都屋 クーポン,春慶屋 武雄 宿泊,武雄市 ふるさと納税 旅行',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-takeo-onsen-romon-pottery-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-takeo-onsen-romon-pottery-stay/',
   },
   openGraph: {
     title: '【武雄温泉×ふるさと納税】国重文・武雄温泉楼門＆美肌とろとろ湯！焼き物の里宿特集｜京都屋・春慶屋・なかます旅館',

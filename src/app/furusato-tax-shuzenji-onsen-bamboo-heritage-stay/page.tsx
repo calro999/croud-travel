@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: '弘法大師が開いた伊豆最古の名湯・静岡県修善寺温泉を楽天ふるさと納税でお得に満喫！創業四百年・夏目漱石ゆかりの「湯回廊 菊屋」、国の登録有形文化財十五棟を誇る「新井旅館」、一万五千坪の名庭園と展望風呂の「宙 SORA 渡月荘金龍」を徹底比較。伊豆牛会席や伊豆市トラベルクーポン活用術を網羅。',
   keywords: '修善寺温泉 ふるさと納税,湯回廊 菊屋 クーポン,新井旅館 修善寺 ふるさと納税,宙 SORA 渡月荘金龍 宿泊,伊豆市 ふるさと納税 旅行',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-shuzenji-onsen-bamboo-heritage-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-shuzenji-onsen-bamboo-heritage-stay/',
   },
   openGraph: {
     title: '【修善寺温泉×ふるさと納税】伊豆最古の名湯・竹林の小径散策＆国の登録文化財！歴史名宿特集｜菊屋・新井旅館・宙SORA',

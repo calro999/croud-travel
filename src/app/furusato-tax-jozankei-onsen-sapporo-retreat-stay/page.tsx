@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.pages.dev/furusato-tax-jozankei-onsen-sapporo-retreat-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-jozankei-onsen-sapporo-retreat-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-jozankei-onsen-sapporo-retreat-stay/',
   },
 };
 

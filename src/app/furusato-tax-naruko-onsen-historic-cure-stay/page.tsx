@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.pages.dev/furusato-tax-naruko-onsen-historic-cure-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-naruko-onsen-historic-cure-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-naruko-onsen-historic-cure-stay/',
   },
 };
 

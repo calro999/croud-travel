@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: '世界唯一の天然砂むし温泉と薩摩富士・開聞岳を望む鹿児島県指宿温泉を楽天ふるさと納税でお得に贅沢ステイ！千坪の元禄風呂と砂むし温泉を誇る名門「指宿白水館」、絶景高台オーシャンビューの「指宿ロイヤルホテル」、波打ち際の砂むし温泉完備「指宿シーサイドホテル」を徹底比較。指宿市トラベルクーポン活用術を網羅。',
   keywords: '指宿温泉 ふるさと納税,指宿 砂むし温泉 ふるさと納税,指宿白水館 クーポン,指宿ロイヤルホテル 宿泊,指宿市 ふるさと納税 旅行',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-ibusuki-onsen-sand-bath-ocean-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-ibusuki-onsen-sand-bath-ocean-stay/',
   },
   openGraph: {
     title: '【指宿温泉×ふるさと納税】名物天然砂むし温泉＆錦江湾オーシャンビュー！絶景リゾート宿特集｜白水館・指宿ロイヤル・シーサイドホテル',

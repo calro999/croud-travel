@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.pages.dev/furusato-tax-tamatsukuri-onsen-izumo-beauty-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-tamatsukuri-onsen-izumo-beauty-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-tamatsukuri-onsen-izumo-beauty-stay/',
   },
 };
 

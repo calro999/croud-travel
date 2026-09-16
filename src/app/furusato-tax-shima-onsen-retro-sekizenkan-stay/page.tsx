@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: '「四万の病を癒やす」と伝わる群馬県四万温泉を楽天ふるさと納税でお得に贅沢ステイ！日本最古の木造湯治宿・登録有形文化財の「積善館 佳松亭・山荘」、四万川沿いの巨大露天風呂「四万やまぐち館」、創業五百年の源泉宿「四万たむら」を徹底比較。上州牛会席や中之条町トラベルクーポン活用術を網羅。',
   keywords: '四万温泉 ふるさと納税,積善館 クーポン ふるさと納税,四万やまぐち館 宿泊,四万たむら ふるさと納税,中之条町 ふるさと納税 宿泊',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-shima-onsen-retro-sekizenkan-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-shima-onsen-retro-sekizenkan-stay/',
   },
   openGraph: {
     title: '【四万温泉×ふるさと納税】昭和レトロな重要文化財「元禄の湯」＆清流四万川！渓谷美湯宿ガイド｜積善館・やまぐち館・四万たむら',

@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: '都心からロマンスカー直通約85分！箱根十七湯の玄関口・神奈川県箱根町「箱根湯本温泉」を楽天ふるさと納税でお得に贅沢ステイ。全客室露天風呂付きの極上スパリゾート「はつはな」、一万坪の名園と六本の自家源泉かけ流しを誇る「吉池旅館」、駅徒歩3分の名門「箱根湯本温泉 湯本富士屋ホテル」を徹底比較。箱根町トラベルクーポン活用術を網羅。',
   keywords: '箱根湯本温泉 ふるさと納税,はつはな クーポン 箱根,吉池旅館 ふるさと納税,湯本富士屋ホテル 宿泊,箱根町 ふるさと納税 旅行',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-hakone-yumoto-gateway-luxury-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-hakone-yumoto-gateway-luxury-stay/',
   },
   openGraph: {
     title: '【箱根湯本温泉×ふるさと納税】玄関口の極上湯浴み＆老舗名宿特集！小田急ロマンスカーで行く名湯旅｜はつはな・吉池旅館・湯本富士屋ホテル',

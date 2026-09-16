@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     '実質2000円'
   ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-yamagata-zao-onsen-okama-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-yamagata-zao-onsen-okama-stay/',
   },
   openGraph: {
     title: 'エメラルドの火口湖「御釜」と冬の樹氷スノーモンスター！山形蔵王温泉の乳白色強酸性硫黄泉＆極上山形牛名門宿×ふるさと納税完全攻略ガイド【2026年最新】蔵王国際・四季のホテル・高見屋',

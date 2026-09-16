@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: '開湯千三百年・那須連山の雄大な自然に抱かれる高原リゾート・栃木県那須温泉郷を楽天ふるさと納税でお得に贅沢ステイ！創業大正十二年の名門老舗「那須温泉 山楽」、那須高原の森にそびえる総合リゾート「ホテルエピナール那須」、多彩な湯巡りと温水プールの「ホテルサンバレー那須」を徹底比較。とちぎ和牛や那須町トラベルクーポン活用術を網羅。',
   keywords: '那須温泉 ふるさと納税,那須温泉 山楽 クーポン,エピナール那須 ふるさと納税,サンバレー那須 宿泊,那須町 ふるさと納税 旅行',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-nasu-onsen-shikanoyu-resort-stay',
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-nasu-onsen-shikanoyu-resort-stay/',
   },
   openGraph: {
     title: '【那須温泉郷×ふるさと納税】開湯千三百年「鹿の湯」の白濁湯＆那須御用邸リゾート！名宿特集｜山楽・エピナール那須・サンバレー那須',
