@@ -1,0 +1,408 @@
+import { Metadata } from 'next';
+import Link from 'next/link';
+
+export const metadata: Metadata = {
+  title: '霧島神宮のモミジ参道紅葉＆霧島連山の湯けむり温泉郷！黒豚しゃぶ宿×ふるさと納税完全ガイド【2026年最新秋旅】鹿児島',
+  description: '11月中旬〜11月下旬に国宝の本殿と朱塗りの鳥居が深紅に彩られる天孫降臨の聖地「霧島神宮」。霧島連山の雄大な紅葉パノラマと、硫黄泉など多彩な源泉が湧く「霧島温泉郷 霧島ホテル」「霧島 旅行人山荘」「摘み草の宿 こまつ」で鹿児島黒豚しゃぶしゃぶや黒毛和牛を堪能。ふるさと納税で実質2,000円。',
+  keywords: [
+    "ふるさと納税 温泉",
+    "ふるさと納税 宿泊券",
+    "ふるさと納税 トラベルクーポン",
+    "鹿児島・霧島神宮紅葉＆霧島温泉郷特集",
+    "10月 旅行 おすすめ",
+    "11月 旅行 おすすめ",
+    "秋 旅行 温泉",
+    "霧島神宮 紅葉 霧島温泉 旅館 黒豚",
+    "楽天トラベル ふるさと納税",
+    "実質2000円 温泉"
+],
+  alternates: {
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-kirishima-shrine-autumn-leaves-stay/'
+  },
+  openGraph: {
+    title: '霧島神宮のモミジ参道紅葉＆霧島連山の湯けむり温泉郷！黒豚しゃぶ宿×ふるさと納税完全ガイド【2026年最新秋旅】鹿児島',
+    description: '11月中旬〜11月下旬に国宝の本殿と朱塗りの鳥居が深紅に彩られる天孫降臨の聖地「霧島神宮」。霧島連山の雄大な紅葉パノラマと、硫黄泉など多彩な源泉が湧く「霧島温泉郷 霧島ホテル」「霧島 旅行人山荘」「摘み草の宿 こまつ」で鹿児島黒豚しゃぶしゃぶや黒毛和牛を堪能。ふるさと納税で実質2,000円。',
+    url: 'https://croud-travel.pages.dev/furusato-tax-kirishima-shrine-autumn-leaves-stay',
+    siteName: '旅宿クラウド',
+    locale: 'ja_JP',
+    type: 'article',
+  }
+};
+
+const HOTEL_DATA = {
+  kirishima_hotel: {
+    name: '霧島温泉郷　霧島ホテル',
+    no: 38553,
+    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D38553',
+    planUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D38553%26f_flg%3DPLAN',
+    reviewUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D38553',
+    img: 'https://img.travel.rakuten.co.jp/share/HOTEL/38553/38553.jpg',
+    thumb: 'https://img.travel.rakuten.co.jp/HIMG/90/38553.jpg',
+    minCharge: 12320,
+    rating: 4.64,
+    reviews: 2128,
+    special: '★5つ星の宿★最大【男性13種・女性19種の湯舟】に【サウナ】が堪能できる自慢のかけ流し庭園大浴場♪',
+    address: '鹿児島県霧島市牧園町高千穂3948',
+    access: 'ＪＲ　日豊本線　霧島神宮駅から車で２５分／鹿児島空港から車で３０分'
+  },
+  kirishima_ryokojin_sanso: {
+    name: '霧島温泉　霧島　旅行人山荘',
+    no: 25134,
+    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D25134',
+    planUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D25134%26f_flg%3DPLAN',
+    reviewUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D25134',
+    img: 'https://img.travel.rakuten.co.jp/share/HOTEL/25134/25134.jpg',
+    thumb: 'https://img.travel.rakuten.co.jp/HIMG/90/25134.jpg',
+    minCharge: 18480,
+    rating: 4.8,
+    reviews: 1070,
+    special: '標高７００ｍに位置し、視界の良い時は全室より錦江港に浮かぶ桜島が一望できます。',
+    address: '鹿児島県霧島市牧園町高千穂字龍石3865',
+    access: 'JR霧島神宮駅～霧島行きバスにて３０分・「丸尾」下車／九州自動車道・横川ＩＣ～３０分'
+  },
+  kirishima_komatsu: {
+    name: '霧島温泉　摘み草の宿　こまつ',
+    no: 151207,
+    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D151207',
+    planUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D151207%26f_flg%3DPLAN',
+    reviewUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D151207',
+    img: 'https://img.travel.rakuten.co.jp/share/HOTEL/151207/151207.jpg',
+    thumb: 'https://img.travel.rakuten.co.jp/HIMG/90/151207.jpg',
+    minCharge: 27500,
+    rating: 4.82,
+    reviews: 89,
+    special: '霧島丸尾森の温泉郷 露天風呂付客室の旅館',
+    address: '鹿児島県霧島市牧園町高千穂3908',
+    access: '鹿児島空港よりお車にて約３０分'
+  }
+};
+
+export default function FeatureArticlePage() {
+  return (
+    <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
+      {/* パンくずナビ */}
+      <nav className="max-w-6xl mx-auto px-4 py-4 text-xs md:text-sm text-stone-600 flex items-center gap-2 flex-wrap">
+        <Link href="/" className="hover:underline text-stone-500">トップ</Link>
+        <span>&gt;</span>
+        <Link href="/autumn-leaves" className="hover:underline text-stone-500">秋・紅葉特集</Link>
+        <span>&gt;</span>
+        <span className="text-stone-800 font-medium">鹿児島・霧島 / 霧島神宮紅葉参拝＆霧島連山硫黄泉・鹿児島黒豚</span>
+      </nav>
+
+      {/* ヒーローヘッダー */}
+      <header className="bg-gradient-to-br from-orange-950 via-stone-900 to-amber-950 text-white py-14 md:py-20 px-4 mb-10 shadow-lg">
+        <div className="max-w-5xl mx-auto text-center">
+          <div className="inline-flex items-center gap-2 bg-white/20 backdrop-blur-md px-4 py-1.5 rounded-full text-xs md:text-sm font-semibold mb-5 text-amber-200">
+            <span>🍁 10月・11月限定 秋旅特集</span>
+            <span>•</span>
+            <span>楽天ふるさと納税トラベルクーポン対応</span>
+          </div>
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">
+            霧島神宮のモミジ参道紅葉＆霧島連山の湯けむり温泉郷！黒豚しゃぶ宿×ふるさと納税完全ガイド【2026年最新秋旅】鹿児島
+          </h1>
+          <p className="text-sm md:text-lg text-stone-200 max-w-3xl mx-auto leading-relaxed">
+            国宝・霧島神宮の朱塗りの社殿を包む深紅の参道と、霧島連山に湧く名湯＆極上黒豚。ふるさと納税の宿泊クーポンを活用すれば実質2,000円で憧れの上質宿へ滞在できます。
+          </p>
+        </div>
+      </header>
+
+      <div className="max-w-5xl mx-auto px-4 grid grid-cols-1 lg:grid-cols-3 gap-8">
+        {/* メインコンテンツ */}
+        <article className="lg:col-span-2 space-y-10">
+          {/* エリア概要セクション */}
+          <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-stone-200/80">
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 pb-3 border-b border-stone-200 flex items-center gap-3">
+              <span className="text-2xl">🍂</span>
+              秋の風情と旬の味覚を堪能する特別な旅
+            </h2>
+            <p className="text-stone-700 leading-relaxed text-sm md:text-base mb-6">
+              鹿児島県北東部に位置する霧島エリアは、天孫降臨神話が息づく南九州随一のパワースポット。秋には国宝に指定された「霧島神宮」の参道や境内がモミジで真っ赤に染まり、荘厳な社殿とのコントラストは息をのむ美しさ。霧島連山の雄大な自然の中、日本屈指の湧出量と硫黄泉を誇る霧島温泉郷に浸かり、本場のかごしま黒豚しゃぶしゃぶや芋焼酎を満喫できます。
+            </p>
+            <div className="bg-amber-50/80 rounded-xl p-5 border border-amber-200/80">
+              <h3 className="font-bold text-amber-950 text-sm md:text-base mb-2 flex items-center gap-2">
+                <span>💡</span> 10月〜11月の旅を満喫する3大ポイント
+              </h3>
+              <ul className="text-xs md:text-sm text-amber-900 space-y-2 list-disc list-inside">
+                <li><strong>見頃の紅葉パノラマ：</strong>標高や日当たりで刻一刻と変化するグラデーションを鑑賞</li>
+                <li><strong>極上の温泉と湯巡り：</strong>朝夕の冷え込む秋風の中で入る露天風呂は格別の贅沢</li>
+                <li><strong>実質2,000円ステイ：</strong>楽天ふるさと納税トラベルクーポンで賢く予約</li>
+              </ul>
+            </div>
+          </section>
+
+          {/* 厳選宿1 */}
+          <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-stone-200/80">
+            <div className="flex flex-wrap items-center justify-between gap-2 mb-4 pb-3 border-b border-stone-200">
+              <div className="flex items-center gap-2">
+                <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded-md">厳選の宿 1</span>
+                <h3 className="text-lg md:text-2xl font-bold text-stone-900">{HOTEL_DATA.kirishima_hotel.name}</h3>
+              </div>
+              <div className="text-xs bg-amber-100 text-amber-900 font-semibold px-2.5 py-1 rounded-full">
+                ★ {HOTEL_DATA.kirishima_hotel.rating} ({HOTEL_DATA.kirishima_hotel.reviews}件)
+              </div>
+            </div>
+
+            <div className="mb-6 rounded-xl overflow-hidden shadow-inner aspect-video relative bg-stone-200">
+              <img
+                src={HOTEL_DATA.kirishima_hotel.img}
+                alt={HOTEL_DATA.kirishima_hotel.name}
+                className="w-full h-full object-cover"
+                loading="lazy"
+              />
+            </div>
+
+            <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-6">
+              {HOTEL_DATA.kirishima_hotel.special}。秋の彩りに包まれる極上のロケーションで、日頃の喧騒を忘れ心身を解きほぐす至福の滞在が楽しめます。旬の地元食材をふんだんに使った豪華なお料理とともに、贅沢なひとときを過ごせます。
+            </p>
+
+            <div className="bg-stone-50 rounded-xl p-4 text-xs md:text-sm text-stone-600 space-y-2 mb-6 border border-stone-200">
+              <div className="flex items-start gap-2">
+                <span className="font-bold text-stone-800 min-w-[60px]">住所:</span>
+                <span>{HOTEL_DATA.kirishima_hotel.address}</span>
+              </div>
+              <div className="flex items-start gap-2">
+                <span className="font-bold text-stone-800 min-w-[60px]">アクセス:</span>
+                <span>{HOTEL_DATA.kirishima_hotel.access}</span>
+              </div>
+              <div className="flex items-start gap-2">
+                <span className="font-bold text-stone-800 min-w-[60px]">参考料金:</span>
+                <span className="text-rose-600 font-bold">1名あたり {HOTEL_DATA.kirishima_hotel.minCharge.toLocaleString()}円〜（目安）</span>
+              </div>
+            </div>
+
+            <div className="flex flex-col sm:flex-row gap-3">
+              <a
+                href={HOTEL_DATA.kirishima_hotel.planUrl || HOTEL_DATA.kirishima_hotel.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex-1 bg-red-600 hover:bg-red-700 text-white font-bold py-3.5 px-6 rounded-xl text-center shadow-md transition-all text-sm md:text-base flex items-center justify-center gap-2"
+              >
+                <span>プラン一覧・空室確認（楽天トラベル）</span>
+                <span>➔</span>
+              </a>
+              <a
+                href={HOTEL_DATA.kirishima_hotel.reviewUrl || HOTEL_DATA.kirishima_hotel.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="bg-stone-100 hover:bg-stone-200 text-stone-700 font-bold py-3.5 px-5 rounded-xl text-center border border-stone-300 text-sm transition-all"
+              >
+                口コミを見る
+              </a>
+            </div>
+          </section>
+
+          {/* 厳選宿2 */}
+          <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-stone-200/80">
+            <div className="flex flex-wrap items-center justify-between gap-2 mb-4 pb-3 border-b border-stone-200">
+              <div className="flex items-center gap-2">
+                <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded-md">厳選の宿 2</span>
+                <h3 className="text-lg md:text-2xl font-bold text-stone-900">{HOTEL_DATA.kirishima_ryokojin_sanso.name}</h3>
+              </div>
+              <div className="text-xs bg-amber-100 text-amber-900 font-semibold px-2.5 py-1 rounded-full">
+                ★ {HOTEL_DATA.kirishima_ryokojin_sanso.rating} ({HOTEL_DATA.kirishima_ryokojin_sanso.reviews}件)
+              </div>
+            </div>
+
+            <div className="mb-6 rounded-xl overflow-hidden shadow-inner aspect-video relative bg-stone-200">
+              <img
+                src={HOTEL_DATA.kirishima_ryokojin_sanso.img}
+                alt={HOTEL_DATA.kirishima_ryokojin_sanso.name}
+                className="w-full h-full object-cover"
+                loading="lazy"
+              />
+            </div>
+
+            <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-6">
+              {HOTEL_DATA.kirishima_ryokojin_sanso.special}。清らかな空気と美しい自然の景観に囲まれ、旅情あふれる温泉と自慢の料理を堪能できます。秋の心地よい夜長を過ごすのにぴったりの癒しの空間です。
+            </p>
+
+            <div className="bg-stone-50 rounded-xl p-4 text-xs md:text-sm text-stone-600 space-y-2 mb-6 border border-stone-200">
+              <div className="flex items-start gap-2">
+                <span className="font-bold text-stone-800 min-w-[60px]">住所:</span>
+                <span>{HOTEL_DATA.kirishima_ryokojin_sanso.address}</span>
+              </div>
+              <div className="flex items-start gap-2">
+                <span className="font-bold text-stone-800 min-w-[60px]">アクセス:</span>
+                <span>{HOTEL_DATA.kirishima_ryokojin_sanso.access}</span>
+              </div>
+              <div className="flex items-start gap-2">
+                <span className="font-bold text-stone-800 min-w-[60px]">参考料金:</span>
+                <span className="text-rose-600 font-bold">1名あたり {HOTEL_DATA.kirishima_ryokojin_sanso.minCharge.toLocaleString()}円〜（目安）</span>
+              </div>
+            </div>
+
+            <div className="flex flex-col sm:flex-row gap-3">
+              <a
+                href={HOTEL_DATA.kirishima_ryokojin_sanso.planUrl || HOTEL_DATA.kirishima_ryokojin_sanso.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex-1 bg-red-600 hover:bg-red-700 text-white font-bold py-3.5 px-6 rounded-xl text-center shadow-md transition-all text-sm md:text-base flex items-center justify-center gap-2"
+              >
+                <span>プラン一覧・空室確認（楽天トラベル）</span>
+                <span>➔</span>
+              </a>
+              <a
+                href={HOTEL_DATA.kirishima_ryokojin_sanso.reviewUrl || HOTEL_DATA.kirishima_ryokojin_sanso.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="bg-stone-100 hover:bg-stone-200 text-stone-700 font-bold py-3.5 px-5 rounded-xl text-center border border-stone-300 text-sm transition-all"
+              >
+                口コミを見る
+              </a>
+            </div>
+          </section>
+
+          {/* 厳選宿3 */}
+          <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-stone-200/80">
+            <div className="flex flex-wrap items-center justify-between gap-2 mb-4 pb-3 border-b border-stone-200">
+              <div className="flex items-center gap-2">
+                <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded-md">厳選の宿 3</span>
+                <h3 className="text-lg md:text-2xl font-bold text-stone-900">{HOTEL_DATA.kirishima_komatsu.name}</h3>
+              </div>
+              <div className="text-xs bg-amber-100 text-amber-900 font-semibold px-2.5 py-1 rounded-full">
+                ★ {HOTEL_DATA.kirishima_komatsu.rating} ({HOTEL_DATA.kirishima_komatsu.reviews}件)
+              </div>
+            </div>
+
+            <div className="mb-6 rounded-xl overflow-hidden shadow-inner aspect-video relative bg-stone-200">
+              <img
+                src={HOTEL_DATA.kirishima_komatsu.img}
+                alt={HOTEL_DATA.kirishima_komatsu.name}
+                className="w-full h-full object-cover"
+                loading="lazy"
+              />
+            </div>
+
+            <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-6">
+              {HOTEL_DATA.kirishima_komatsu.special}。旅の目的に合わせて快適に過ごせる温かなおもてなしと充実の設備が魅力。観光や散策の拠点として最適で、心地よい秋の滞在を叶えてくれます。
+            </p>
+
+            <div className="bg-stone-50 rounded-xl p-4 text-xs md:text-sm text-stone-600 space-y-2 mb-6 border border-stone-200">
+              <div className="flex items-start gap-2">
+                <span className="font-bold text-stone-800 min-w-[60px]">住所:</span>
+                <span>{HOTEL_DATA.kirishima_komatsu.address}</span>
+              </div>
+              <div className="flex items-start gap-2">
+                <span className="font-bold text-stone-800 min-w-[60px]">アクセス:</span>
+                <span>{HOTEL_DATA.kirishima_komatsu.access}</span>
+              </div>
+              <div className="flex items-start gap-2">
+                <span className="font-bold text-stone-800 min-w-[60px]">参考料金:</span>
+                <span className="text-rose-600 font-bold">1名あたり {HOTEL_DATA.kirishima_komatsu.minCharge.toLocaleString()}円〜（目安）</span>
+              </div>
+            </div>
+
+            <div className="flex flex-col sm:flex-row gap-3">
+              <a
+                href={HOTEL_DATA.kirishima_komatsu.planUrl || HOTEL_DATA.kirishima_komatsu.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex-1 bg-red-600 hover:bg-red-700 text-white font-bold py-3.5 px-6 rounded-xl text-center shadow-md transition-all text-sm md:text-base flex items-center justify-center gap-2"
+              >
+                <span>プラン一覧・空室確認（楽天トラベル）</span>
+                <span>➔</span>
+              </a>
+              <a
+                href={HOTEL_DATA.kirishima_komatsu.reviewUrl || HOTEL_DATA.kirishima_komatsu.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="bg-stone-100 hover:bg-stone-200 text-stone-700 font-bold py-3.5 px-5 rounded-xl text-center border border-stone-300 text-sm transition-all"
+              >
+                口コミを見る
+              </a>
+            </div>
+          </section>
+
+          {/* ふるさと納税活用法 */}
+          <section className="bg-gradient-to-r from-amber-500 to-orange-600 text-white rounded-2xl p-6 md:p-8 shadow-md">
+            <h2 className="text-xl md:text-2xl font-bold mb-4 flex items-center gap-2">
+              <span>🎁</span> 楽天ふるさと納税で実質2,000円宿泊する方法
+            </h2>
+            <div className="space-y-4 text-xs md:text-sm text-amber-50 leading-relaxed">
+              <p>
+                楽天ふるさと納税の「トラベルクーポン（宿泊補助券）」を利用すると、寄付金額に応じた割引クーポンが即時または後日発行され、楽天トラベルでの宿泊予約時に直接利用できます。
+              </p>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-3 pt-2 text-stone-900">
+                <div className="bg-white rounded-xl p-3.5 text-center shadow-sm">
+                  <div className="font-bold text-amber-800 text-xs mb-1">STEP 1</div>
+                  <div className="font-bold text-sm">自治体へ寄付</div>
+                  <div className="text-[11px] text-stone-600 mt-1">楽天ふるさと納税で対象地域の宿泊クーポンを選択</div>
+                </div>
+                <div className="bg-white rounded-xl p-3.5 text-center shadow-sm">
+                  <div className="font-bold text-amber-800 text-xs mb-1">STEP 2</div>
+                  <div className="font-bold text-sm">クーポン獲得</div>
+                  <div className="text-[11px] text-stone-600 mt-1">myクーポンに対象クーポンが即時〜数日で付与</div>
+                </div>
+                <div className="bg-white rounded-xl p-3.5 text-center shadow-sm">
+                  <div className="font-bold text-amber-800 text-xs mb-1">STEP 3</div>
+                  <div className="font-bold text-sm">宿を予約</div>
+                  <div className="text-[11px] text-stone-600 mt-1">楽天トラベル決済画面でクーポンを適用して予約完了</div>
+                </div>
+              </div>
+            </div>
+          </section>
+        </article>
+
+        {/* サイドバー */}
+        <aside className="space-y-6">
+          <div className="bg-white rounded-2xl p-6 shadow-sm border border-stone-200/80 sticky top-6">
+            <h3 className="font-bold text-stone-900 mb-4 pb-2 border-b border-stone-200 flex items-center gap-2">
+              <span>📌</span> この特集で紹介した宿
+            </h3>
+            <ul className="space-y-4 text-xs md:text-sm">
+              <li>
+                <a href={HOTEL_DATA.kirishima_hotel.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
+                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.kirishima_hotel.name}</div>
+                  <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.kirishima_hotel.rating} | 楽天トラベルで詳細確認</div>
+                </a>
+              </li>
+              <li>
+                <a href={HOTEL_DATA.kirishima_ryokojin_sanso.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
+                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.kirishima_ryokojin_sanso.name}</div>
+                  <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.kirishima_ryokojin_sanso.rating} | 楽天トラベルで詳細確認</div>
+                </a>
+              </li>
+              <li>
+                <a href={HOTEL_DATA.kirishima_komatsu.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
+                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.kirishima_komatsu.name}</div>
+                  <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.kirishima_komatsu.rating} | 楽天トラベルで詳細確認</div>
+                </a>
+              </li>
+            </ul>
+
+            <hr className="my-5 border-stone-200" />
+
+            <h4 className="font-bold text-stone-900 text-xs mb-3">🍂 関連する秋の特集</h4>
+            <ul className="space-y-2 text-xs text-stone-600">
+              <li>
+                <Link href="/furusato-tax-ikaho-kajikabashi-autumn-leaves-stay" className="hover:text-amber-700 hover:underline block py-1">
+                  ・群馬・伊香保温泉＆河鹿橋もみじ
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-shuzenji-autumn-leaves-bamboo-stay" className="hover:text-amber-700 hover:underline block py-1">
+                  ・静岡・修善寺温泉竹林の小径＆文化財宿
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-kurokawa-autumn-leaves-onsen-stay" className="hover:text-amber-700 hover:underline block py-1">
+                  ・熊本・黒川温泉渓谷露天＆入湯手形
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-hakkoda-sukayu-autumn-leaves-stay" className="hover:text-amber-700 hover:underline block py-1">
+                  ・青森・八甲田山＆酸ヶ湯温泉ヒバ千人風呂
+                </Link>
+              </li>
+              <li>
+                <Link href="/furusato-tax-kinosaki-autumn-leaves-stay" className="hover:text-amber-700 hover:underline block py-1">
+                  ・兵庫・城崎温泉柳並木＆七つの外湯めぐり
+                </Link>
+              </li>
+            </ul>
+          </div>
+        </aside>
+      </div>
+    </main>
+  );
+}
