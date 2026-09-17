@@ -309,6 +309,7 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【おすすめ宿】神山温泉　ホテル四季の里＆いやしの湯の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/14442): 神山温泉　ホテル四季の里＆いやしの湯（徳島県）
 - [リーガロイヤルホテル広島のリアル宿泊記！温泉・客室・朝食バイキングの本音口コミ評判｜広島県](https://croud-travel.pages.dev/posts/109): リーガロイヤルホテル広島（広島県）
 - [ホテル　さつき苑のリアル宿泊記！温泉・客室・朝食バイキングの本音口コミ評判｜鹿児島県](https://croud-travel.pages.dev/posts/109094): ホテル　さつき苑（鹿児島県）
 - [うきは温泉　ふくせんかのリアル宿泊記！温泉・客室・朝食バイキングの本音口コミ評判｜福岡県](https://croud-travel.pages.dev/posts/129948): うきは温泉　ふくせんか（福岡県）
@@ -358,4 +359,3 @@
 - [ＲＥＸ　ＨＯＴＥＬ　別府のリアル宿泊記！温泉・客室・朝食バイキングの本音口コミ評判｜福岡県](https://croud-travel.pages.dev/posts/dazaifu-tenmangu-sightseeing-hotels-guide): ＲＥＸ　ＨＯＴＥＬ　別府（福岡県）
 - [別府最大級の露天風呂の宿　おにやまホテルのリアル宿泊記！温泉・客室・朝食バイキングの本音口コミ評判｜全国](https://croud-travel.pages.dev/posts/famous-spots-and-souvenirs-japan-prefecture-guide): 別府最大級の露天風呂の宿　おにやまホテル（全国）
 - [下呂温泉　小川屋のリアル宿泊記！温泉・客室・朝食バイキングの本音口コミ評判｜岐阜県](https://croud-travel.pages.dev/posts/gero-ogawaya-tatami-bath-spa-guide): 下呂温泉　小川屋（岐阜県）
-- [【下呂温泉 おすすめランキング】口コミ高評価！料理自慢＆絶景露天風呂で選ぶ人気の宿徹底比較](https://croud-travel.pages.dev/posts/gero-onsen-ranking-gourmet-hotels-guide): 老舗名旅館からプライベート離れ宿まで。客室露天風呂や絶品朝食など、実際に高評価を集める名宿を厳選（岐阜県）
