@@ -2,27 +2,27 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '伊香保温泉の河鹿橋もみじライトアップ＆365段石段街！黄金の湯宿×ふるさと納税完全ガイド【2026年最新秋旅】群馬',
-  description: '10月下旬〜11月中旬に真っ赤に染まる名所「伊香保温泉 河鹿橋」。朱塗りの太鼓橋と紅葉ライトアップの幻想的なコントラスト、365段の石段街の足湯・射的巡りと、鉄分豊富なにごり湯「黄金の湯」を誇る「旅館 さくらい」「森秋旅館」「洋風旅館ぴのん」で上州牛・上州麦豚会席を堪能。ふるさと納税で実質2,000円。',
+  title: '城崎温泉の大谿川柳並木紅葉＆七つの外湯めぐり！但馬牛・松葉ガニ宿×ふるさと納税完全ガイド【2026年最新秋旅】兵庫',
+  description: '10月〜11月に情緒あふれる太鼓橋と柳並木が秋めく関西屈指の温泉街「城崎温泉」。浴衣に下駄を鳴らして巡る開運七つの外湯と、風情ある街並みに佇む「つちや旅館」「山しろや旅館」「みつわ旅館」で日本最高峰のブランド牛・但馬牛や11月解禁の松葉ガニを堪能。ふるさと納税トラベルクーポンで実質2,000円。',
   keywords: [
     "ふるさと納税 温泉",
     "ふるさと納税 宿泊券",
     "ふるさと納税 トラベルクーポン",
-    "群馬・伊香保温泉＆河鹿橋紅葉特集",
+    "兵庫・城崎温泉柳並木秋散策＆外湯めぐり特集",
     "10月 旅行 おすすめ",
     "11月 旅行 おすすめ",
     "秋 旅行 温泉",
-    "伊香保温泉 河鹿橋 紅葉 ライトアップ 旅館",
+    "城崎温泉 外湯めぐり 但馬牛 松葉ガニ 旅館",
     "楽天トラベル ふるさと納税",
     "実質2000円 温泉"
 ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-ikaho-kajikabashi-autumn-leaves-stay/'
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-kinosaki-autumn-leaves-stay/'
   },
   openGraph: {
-    title: '伊香保温泉の河鹿橋もみじライトアップ＆365段石段街！黄金の湯宿×ふるさと納税完全ガイド【2026年最新秋旅】群馬',
-    description: '10月下旬〜11月中旬に真っ赤に染まる名所「伊香保温泉 河鹿橋」。朱塗りの太鼓橋と紅葉ライトアップの幻想的なコントラスト、365段の石段街の足湯・射的巡りと、鉄分豊富なにごり湯「黄金の湯」を誇る「旅館 さくらい」「森秋旅館」「洋風旅館ぴのん」で上州牛・上州麦豚会席を堪能。ふるさと納税で実質2,000円。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-ikaho-kajikabashi-autumn-leaves-stay',
+    title: '城崎温泉の大谿川柳並木紅葉＆七つの外湯めぐり！但馬牛・松葉ガニ宿×ふるさと納税完全ガイド【2026年最新秋旅】兵庫',
+    description: '10月〜11月に情緒あふれる太鼓橋と柳並木が秋めく関西屈指の温泉街「城崎温泉」。浴衣に下駄を鳴らして巡る開運七つの外湯と、風情ある街並みに佇む「つちや旅館」「山しろや旅館」「みつわ旅館」で日本最高峰のブランド牛・但馬牛や11月解禁の松葉ガニを堪能。ふるさと納税トラベルクーポンで実質2,000円。',
+    url: 'https://croud-travel.pages.dev/furusato-tax-kinosaki-autumn-leaves-stay',
     siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
@@ -30,50 +30,50 @@ export const metadata: Metadata = {
 };
 
 const HOTEL_DATA = {
-  ikaho_fukuzen: {
-    name: '伊香保温泉　旅館　さくらい',
-    no: 38692,
-    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D38692',
-    planUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D38692%26f_flg%3DPLAN',
-    reviewUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D38692',
-    img: 'https://img.travel.rakuten.co.jp/share/HOTEL/38692/38692.jpg',
-    thumb: 'https://img.travel.rakuten.co.jp/HIMG/90/38692.jpg',
-    minCharge: 6600,
-    rating: 4.27,
-    reviews: 1201,
-    special: '喧騒を離れた小宿。4名まで夕食お部屋出し。小ぶりながら上州の山々を一望する展望露天風呂',
-    address: '群馬県渋川市伊香保町伊香保210-2',
-    access: 'JR上越線　渋川駅より伊香保温泉行きバス、又は車で２０分。関越自動車道 渋川伊香保ＩＣより３０分。'
+  kinosaki_senkei: {
+    name: '城崎温泉　つちや旅館',
+    no: 8766,
+    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D8766',
+    planUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D8766%26f_flg%3DPLAN',
+    reviewUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D8766',
+    img: 'https://img.travel.rakuten.co.jp/share/HOTEL/8766/8766.jpg',
+    thumb: 'https://img.travel.rakuten.co.jp/HIMG/90/8766.jpg',
+    minCharge: 13200,
+    rating: 4.71,
+    reviews: 246,
+    special: '2025温泉宿総選挙全国第3位　 但馬牛をはじめ、旬を極める料理旅館',
+    address: '兵庫県豊岡市城崎町湯島573',
+    access: '【電車】JR城崎温泉駅から旅館組合無料乗合バスで5～10分【車】北近畿豊岡自動車道・豊岡出石ICから約20分　無料Pあり'
   },
-  ikaho_kogure: {
-    name: '伊香保温泉　森秋旅館',
-    no: 17741,
-    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D17741',
-    planUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D17741%26f_flg%3DPLAN',
-    reviewUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D17741',
-    img: 'https://img.travel.rakuten.co.jp/share/HOTEL/17741/17741.jpg',
-    thumb: 'https://img.travel.rakuten.co.jp/HIMG/90/17741.jpg',
-    minCharge: 13700,
-    rating: 4.27,
-    reviews: 2289,
-    special: '★名湯「黄金の湯」源泉掛け流しが自慢の宿♪ ★観光名所「石段街」まで徒歩３分♪',
-    address: '群馬県渋川市伊香保町伊香保60',
-    access: 'ＪＲ渋川駅下車バスで25分！新宿から高速バスで2時間半！伊香保の名物石段街から徒歩３分と好立地♪散策に抜群の好立地'
+  kinosaki_mikiya: {
+    name: '城崎温泉　山しろや旅館',
+    no: 151275,
+    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D151275',
+    planUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D151275%26f_flg%3DPLAN',
+    reviewUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D151275',
+    img: 'https://img.travel.rakuten.co.jp/share/HOTEL/151275/151275.jpg',
+    thumb: 'https://img.travel.rakuten.co.jp/HIMG/90/151275.jpg',
+    minCharge: 15400,
+    rating: 4.14,
+    reviews: 60,
+    special: '城崎温泉　旅館　おすすめ但馬牛と人気の蟹の宿　山しろや',
+    address: '兵庫県豊岡市城崎町湯島245',
+    access: '城崎温泉駅より徒歩にて約３分'
   },
-  ikaho_moriaki: {
-    name: '伊香保温泉　松本楼　洋風旅館ぴのん',
-    no: 19362,
-    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D19362',
-    planUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D19362%26f_flg%3DPLAN',
-    reviewUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D19362',
-    img: 'https://img.travel.rakuten.co.jp/share/HOTEL/19362/19362.jpg',
-    thumb: 'https://img.travel.rakuten.co.jp/HIMG/90/19362.jpg',
-    minCharge: 11000,
-    rating: 4.52,
-    reviews: 1687,
-    special: '女性が1人でも安心して宿泊できる洋風旅館。1品1品出来立てでお出しする『フレンチ風懐石』が人気',
-    address: '群馬県渋川市伊香保町伊香保383',
-    access: 'ＪＲ上越線渋川駅よりバスで約２０分、見晴下 下車／関越道渋川・伊香保ＩＣより約１０ｋｍ'
+  kinosaki_nishimuraya: {
+    name: '城崎温泉　みつわ旅館',
+    no: 41857,
+    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D41857',
+    planUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D41857%26f_flg%3DPLAN',
+    reviewUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D41857',
+    img: 'https://img.travel.rakuten.co.jp/share/HOTEL/41857/41857.jpg',
+    thumb: 'https://img.travel.rakuten.co.jp/HIMG/90/41857.jpg',
+    minCharge: 6800,
+    rating: 4.96,
+    reviews: 208,
+    special: '日本海の新鮮な魚介類を使ったお料理を満足していただけます。城崎を満喫するならこんな家庭的な宿がいい',
+    address: '兵庫県豊岡市城崎町湯島220',
+    access: '山陰本線　城崎温泉駅より徒歩２～３分'
   }
 };
 
@@ -86,11 +86,11 @@ export default function FeatureArticlePage() {
         <span>&gt;</span>
         <Link href="/autumn-leaves" className="hover:underline text-stone-500">秋・紅葉特集</Link>
         <span>&gt;</span>
-        <span className="text-stone-800 font-medium">群馬・渋川 / 伊香保温泉石段街＆河鹿橋紅葉ライトアップ</span>
+        <span className="text-stone-800 font-medium">兵庫・豊岡 / 城崎温泉外湯めぐり＆柳並木秋散策・但馬牛</span>
       </nav>
 
       {/* ヒーローヘッダー */}
-      <header className="bg-gradient-to-br from-orange-950 via-red-950 to-stone-900 text-white py-14 md:py-20 px-4 mb-10 shadow-lg">
+      <header className="bg-gradient-to-br from-stone-900 via-slate-900 to-amber-950 text-white py-14 md:py-20 px-4 mb-10 shadow-lg">
         <div className="max-w-5xl mx-auto text-center">
           <div className="inline-flex items-center gap-2 bg-white/20 backdrop-blur-md px-4 py-1.5 rounded-full text-xs md:text-sm font-semibold mb-5 text-amber-200">
             <span>🍁 10月・11月限定 秋旅特集</span>
@@ -98,10 +98,10 @@ export default function FeatureArticlePage() {
             <span>楽天ふるさと納税トラベルクーポン対応</span>
           </div>
           <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">
-            伊香保温泉の河鹿橋もみじライトアップ＆365段石段街！黄金の湯宿×ふるさと納税完全ガイド【2026年最新秋旅】群馬
+            城崎温泉の大谿川柳並木紅葉＆七つの外湯めぐり！但馬牛・松葉ガニ宿×ふるさと納税完全ガイド【2026年最新秋旅】兵庫
           </h1>
           <p className="text-sm md:text-lg text-stone-200 max-w-3xl mx-auto leading-relaxed">
-            朱塗りの河鹿橋を包み込む燃えるような紅葉ライトアップと、石段街に湧く茶褐色の黄金の湯。ふるさと納税の宿泊クーポンを活用すれば実質2,000円で憧れの上質宿へ滞在できます。
+            浴衣と下駄で歩く大谿川の秋情緒と、七つの外湯めぐり＆極上但馬牛・初物松葉ガニ。ふるさと納税の宿泊クーポンを活用すれば実質2,000円で憧れの上質宿へ滞在できます。
           </p>
         </div>
       </header>
@@ -116,7 +116,7 @@ export default function FeatureArticlePage() {
               秋の風情と旬の味覚を堪能する特別な旅
             </h2>
             <p className="text-stone-700 leading-relaxed text-sm md:text-base mb-6">
-              群馬県榛名山の中腹に位置する伊香保温泉は、万葉の昔から愛されてきた名湯。365段の石段街を中心に情緒あふれる温泉街が広がり、秋には湯元近くの「河鹿橋」周辺が鮮やかなモミジやカエデに包まれます。夜間のライトアップでは朱色の太鼓橋が漆黒の夜空に浮かび上がり、鉄分を含んだ独特のにごり湯「黄金の湯（こがねのゆ）」と無色透明な「白銀の湯（しろがねのゆ）」の2大名湯を楽しめます。
+              兵庫県北部の日本海側に位置する城崎温泉は、1300年の歴史を誇る関西屈指の温泉街。大谿川沿いに続く柳並木と太鼓橋が秋風に揺れ、色づく温泉街の風情は格別。浴衣姿で「一の湯」「御所の湯」など個性豊かな7つの外湯を巡るスタイルが人気で、11月上旬には日本海を代表する冬の味覚の王様・松葉ガニ（津居山ガニ等）漁が解禁され、最高峰の但馬牛とともに豪華な美食を堪能できます。
             </p>
             <div className="bg-amber-50/80 rounded-xl p-5 border border-amber-200/80">
               <h3 className="font-bold text-amber-950 text-sm md:text-base mb-2 flex items-center gap-2">
@@ -135,44 +135,44 @@ export default function FeatureArticlePage() {
             <div className="flex flex-wrap items-center justify-between gap-2 mb-4 pb-3 border-b border-stone-200">
               <div className="flex items-center gap-2">
                 <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded-md">厳選の宿 1</span>
-                <h3 className="text-lg md:text-2xl font-bold text-stone-900">{HOTEL_DATA.ikaho_fukuzen.name}</h3>
+                <h3 className="text-lg md:text-2xl font-bold text-stone-900">{HOTEL_DATA.kinosaki_senkei.name}</h3>
               </div>
               <div className="text-xs bg-amber-100 text-amber-900 font-semibold px-2.5 py-1 rounded-full">
-                ★ {HOTEL_DATA.ikaho_fukuzen.rating} ({HOTEL_DATA.ikaho_fukuzen.reviews}件)
+                ★ {HOTEL_DATA.kinosaki_senkei.rating} ({HOTEL_DATA.kinosaki_senkei.reviews}件)
               </div>
             </div>
 
             <div className="mb-6 rounded-xl overflow-hidden shadow-inner aspect-video relative bg-stone-200">
               <img
-                src={HOTEL_DATA.ikaho_fukuzen.img}
-                alt={HOTEL_DATA.ikaho_fukuzen.name}
+                src={HOTEL_DATA.kinosaki_senkei.img}
+                alt={HOTEL_DATA.kinosaki_senkei.name}
                 className="w-full h-full object-cover"
                 loading="lazy"
               />
             </div>
 
             <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-6">
-              {HOTEL_DATA.ikaho_fukuzen.special}。秋の彩りに包まれる極上のロケーションで、日頃の喧騒を忘れ心身を解きほぐす至福の滞在が楽しめます。旬の地元食材をふんだんに使った豪華なお料理とともに、贅沢なひとときを過ごせます。
+              {HOTEL_DATA.kinosaki_senkei.special}。秋の彩りに包まれる極上のロケーションで、日頃の喧騒を忘れ心身を解きほぐす至福の滞在が楽しめます。旬の地元食材をふんだんに使った豪華なお料理とともに、贅沢なひとときを過ごせます。
             </p>
 
             <div className="bg-stone-50 rounded-xl p-4 text-xs md:text-sm text-stone-600 space-y-2 mb-6 border border-stone-200">
               <div className="flex items-start gap-2">
                 <span className="font-bold text-stone-800 min-w-[60px]">住所:</span>
-                <span>{HOTEL_DATA.ikaho_fukuzen.address}</span>
+                <span>{HOTEL_DATA.kinosaki_senkei.address}</span>
               </div>
               <div className="flex items-start gap-2">
                 <span className="font-bold text-stone-800 min-w-[60px]">アクセス:</span>
-                <span>{HOTEL_DATA.ikaho_fukuzen.access}</span>
+                <span>{HOTEL_DATA.kinosaki_senkei.access}</span>
               </div>
               <div className="flex items-start gap-2">
                 <span className="font-bold text-stone-800 min-w-[60px]">参考料金:</span>
-                <span className="text-rose-600 font-bold">1名あたり {HOTEL_DATA.ikaho_fukuzen.minCharge.toLocaleString()}円〜（目安）</span>
+                <span className="text-rose-600 font-bold">1名あたり {HOTEL_DATA.kinosaki_senkei.minCharge.toLocaleString()}円〜（目安）</span>
               </div>
             </div>
 
             <div className="flex flex-col sm:flex-row gap-3">
               <a
-                href={HOTEL_DATA.ikaho_fukuzen.planUrl || HOTEL_DATA.ikaho_fukuzen.url}
+                href={HOTEL_DATA.kinosaki_senkei.planUrl || HOTEL_DATA.kinosaki_senkei.url}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex-1 bg-red-600 hover:bg-red-700 text-white font-bold py-3.5 px-6 rounded-xl text-center shadow-md transition-all text-sm md:text-base flex items-center justify-center gap-2"
@@ -181,7 +181,7 @@ export default function FeatureArticlePage() {
                 <span>➔</span>
               </a>
               <a
-                href={HOTEL_DATA.ikaho_fukuzen.reviewUrl || HOTEL_DATA.ikaho_fukuzen.url}
+                href={HOTEL_DATA.kinosaki_senkei.reviewUrl || HOTEL_DATA.kinosaki_senkei.url}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-stone-100 hover:bg-stone-200 text-stone-700 font-bold py-3.5 px-5 rounded-xl text-center border border-stone-300 text-sm transition-all"
@@ -196,44 +196,44 @@ export default function FeatureArticlePage() {
             <div className="flex flex-wrap items-center justify-between gap-2 mb-4 pb-3 border-b border-stone-200">
               <div className="flex items-center gap-2">
                 <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded-md">厳選の宿 2</span>
-                <h3 className="text-lg md:text-2xl font-bold text-stone-900">{HOTEL_DATA.ikaho_kogure.name}</h3>
+                <h3 className="text-lg md:text-2xl font-bold text-stone-900">{HOTEL_DATA.kinosaki_mikiya.name}</h3>
               </div>
               <div className="text-xs bg-amber-100 text-amber-900 font-semibold px-2.5 py-1 rounded-full">
-                ★ {HOTEL_DATA.ikaho_kogure.rating} ({HOTEL_DATA.ikaho_kogure.reviews}件)
+                ★ {HOTEL_DATA.kinosaki_mikiya.rating} ({HOTEL_DATA.kinosaki_mikiya.reviews}件)
               </div>
             </div>
 
             <div className="mb-6 rounded-xl overflow-hidden shadow-inner aspect-video relative bg-stone-200">
               <img
-                src={HOTEL_DATA.ikaho_kogure.img}
-                alt={HOTEL_DATA.ikaho_kogure.name}
+                src={HOTEL_DATA.kinosaki_mikiya.img}
+                alt={HOTEL_DATA.kinosaki_mikiya.name}
                 className="w-full h-full object-cover"
                 loading="lazy"
               />
             </div>
 
             <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-6">
-              {HOTEL_DATA.ikaho_kogure.special}。清らかな空気と美しい自然の景観に囲まれ、旅情あふれる温泉と自慢の料理を堪能できます。秋の心地よい夜長を過ごすのにぴったりの癒しの空間です。
+              {HOTEL_DATA.kinosaki_mikiya.special}。清らかな空気と美しい自然の景観に囲まれ、旅情あふれる温泉と自慢の料理を堪能できます。秋の心地よい夜長を過ごすのにぴったりの癒しの空間です。
             </p>
 
             <div className="bg-stone-50 rounded-xl p-4 text-xs md:text-sm text-stone-600 space-y-2 mb-6 border border-stone-200">
               <div className="flex items-start gap-2">
                 <span className="font-bold text-stone-800 min-w-[60px]">住所:</span>
-                <span>{HOTEL_DATA.ikaho_kogure.address}</span>
+                <span>{HOTEL_DATA.kinosaki_mikiya.address}</span>
               </div>
               <div className="flex items-start gap-2">
                 <span className="font-bold text-stone-800 min-w-[60px]">アクセス:</span>
-                <span>{HOTEL_DATA.ikaho_kogure.access}</span>
+                <span>{HOTEL_DATA.kinosaki_mikiya.access}</span>
               </div>
               <div className="flex items-start gap-2">
                 <span className="font-bold text-stone-800 min-w-[60px]">参考料金:</span>
-                <span className="text-rose-600 font-bold">1名あたり {HOTEL_DATA.ikaho_kogure.minCharge.toLocaleString()}円〜（目安）</span>
+                <span className="text-rose-600 font-bold">1名あたり {HOTEL_DATA.kinosaki_mikiya.minCharge.toLocaleString()}円〜（目安）</span>
               </div>
             </div>
 
             <div className="flex flex-col sm:flex-row gap-3">
               <a
-                href={HOTEL_DATA.ikaho_kogure.planUrl || HOTEL_DATA.ikaho_kogure.url}
+                href={HOTEL_DATA.kinosaki_mikiya.planUrl || HOTEL_DATA.kinosaki_mikiya.url}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex-1 bg-red-600 hover:bg-red-700 text-white font-bold py-3.5 px-6 rounded-xl text-center shadow-md transition-all text-sm md:text-base flex items-center justify-center gap-2"
@@ -242,7 +242,7 @@ export default function FeatureArticlePage() {
                 <span>➔</span>
               </a>
               <a
-                href={HOTEL_DATA.ikaho_kogure.reviewUrl || HOTEL_DATA.ikaho_kogure.url}
+                href={HOTEL_DATA.kinosaki_mikiya.reviewUrl || HOTEL_DATA.kinosaki_mikiya.url}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-stone-100 hover:bg-stone-200 text-stone-700 font-bold py-3.5 px-5 rounded-xl text-center border border-stone-300 text-sm transition-all"
@@ -257,44 +257,44 @@ export default function FeatureArticlePage() {
             <div className="flex flex-wrap items-center justify-between gap-2 mb-4 pb-3 border-b border-stone-200">
               <div className="flex items-center gap-2">
                 <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded-md">厳選の宿 3</span>
-                <h3 className="text-lg md:text-2xl font-bold text-stone-900">{HOTEL_DATA.ikaho_moriaki.name}</h3>
+                <h3 className="text-lg md:text-2xl font-bold text-stone-900">{HOTEL_DATA.kinosaki_nishimuraya.name}</h3>
               </div>
               <div className="text-xs bg-amber-100 text-amber-900 font-semibold px-2.5 py-1 rounded-full">
-                ★ {HOTEL_DATA.ikaho_moriaki.rating} ({HOTEL_DATA.ikaho_moriaki.reviews}件)
+                ★ {HOTEL_DATA.kinosaki_nishimuraya.rating} ({HOTEL_DATA.kinosaki_nishimuraya.reviews}件)
               </div>
             </div>
 
             <div className="mb-6 rounded-xl overflow-hidden shadow-inner aspect-video relative bg-stone-200">
               <img
-                src={HOTEL_DATA.ikaho_moriaki.img}
-                alt={HOTEL_DATA.ikaho_moriaki.name}
+                src={HOTEL_DATA.kinosaki_nishimuraya.img}
+                alt={HOTEL_DATA.kinosaki_nishimuraya.name}
                 className="w-full h-full object-cover"
                 loading="lazy"
               />
             </div>
 
             <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-6">
-              {HOTEL_DATA.ikaho_moriaki.special}。旅の目的に合わせて快適に過ごせる温かなおもてなしと充実の設備が魅力。観光や散策の拠点として最適で、心地よい秋の滞在を叶えてくれます。
+              {HOTEL_DATA.kinosaki_nishimuraya.special}。旅の目的に合わせて快適に過ごせる温かなおもてなしと充実の設備が魅力。観光や散策の拠点として最適で、心地よい秋の滞在を叶えてくれます。
             </p>
 
             <div className="bg-stone-50 rounded-xl p-4 text-xs md:text-sm text-stone-600 space-y-2 mb-6 border border-stone-200">
               <div className="flex items-start gap-2">
                 <span className="font-bold text-stone-800 min-w-[60px]">住所:</span>
-                <span>{HOTEL_DATA.ikaho_moriaki.address}</span>
+                <span>{HOTEL_DATA.kinosaki_nishimuraya.address}</span>
               </div>
               <div className="flex items-start gap-2">
                 <span className="font-bold text-stone-800 min-w-[60px]">アクセス:</span>
-                <span>{HOTEL_DATA.ikaho_moriaki.access}</span>
+                <span>{HOTEL_DATA.kinosaki_nishimuraya.access}</span>
               </div>
               <div className="flex items-start gap-2">
                 <span className="font-bold text-stone-800 min-w-[60px]">参考料金:</span>
-                <span className="text-rose-600 font-bold">1名あたり {HOTEL_DATA.ikaho_moriaki.minCharge.toLocaleString()}円〜（目安）</span>
+                <span className="text-rose-600 font-bold">1名あたり {HOTEL_DATA.kinosaki_nishimuraya.minCharge.toLocaleString()}円〜（目安）</span>
               </div>
             </div>
 
             <div className="flex flex-col sm:flex-row gap-3">
               <a
-                href={HOTEL_DATA.ikaho_moriaki.planUrl || HOTEL_DATA.ikaho_moriaki.url}
+                href={HOTEL_DATA.kinosaki_nishimuraya.planUrl || HOTEL_DATA.kinosaki_nishimuraya.url}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex-1 bg-red-600 hover:bg-red-700 text-white font-bold py-3.5 px-6 rounded-xl text-center shadow-md transition-all text-sm md:text-base flex items-center justify-center gap-2"
@@ -303,7 +303,7 @@ export default function FeatureArticlePage() {
                 <span>➔</span>
               </a>
               <a
-                href={HOTEL_DATA.ikaho_moriaki.reviewUrl || HOTEL_DATA.ikaho_moriaki.url}
+                href={HOTEL_DATA.kinosaki_nishimuraya.reviewUrl || HOTEL_DATA.kinosaki_nishimuraya.url}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-stone-100 hover:bg-stone-200 text-stone-700 font-bold py-3.5 px-5 rounded-xl text-center border border-stone-300 text-sm transition-all"
@@ -351,21 +351,21 @@ export default function FeatureArticlePage() {
             </h3>
             <ul className="space-y-4 text-xs md:text-sm">
               <li>
-                <a href={HOTEL_DATA.ikaho_fukuzen.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.ikaho_fukuzen.name}</div>
-                  <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.ikaho_fukuzen.rating} | 楽天トラベルで詳細確認</div>
+                <a href={HOTEL_DATA.kinosaki_senkei.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
+                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.kinosaki_senkei.name}</div>
+                  <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.kinosaki_senkei.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
-                <a href={HOTEL_DATA.ikaho_kogure.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.ikaho_kogure.name}</div>
-                  <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.ikaho_kogure.rating} | 楽天トラベルで詳細確認</div>
+                <a href={HOTEL_DATA.kinosaki_mikiya.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
+                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.kinosaki_mikiya.name}</div>
+                  <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.kinosaki_mikiya.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
-                <a href={HOTEL_DATA.ikaho_moriaki.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.ikaho_moriaki.name}</div>
-                  <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.ikaho_moriaki.rating} | 楽天トラベルで詳細確認</div>
+                <a href={HOTEL_DATA.kinosaki_nishimuraya.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
+                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.kinosaki_nishimuraya.name}</div>
+                  <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.kinosaki_nishimuraya.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
             </ul>
