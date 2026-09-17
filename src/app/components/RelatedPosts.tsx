@@ -21,12 +21,30 @@ interface RelatedPostsProps {
 export default function RelatedPosts({ currentPostId, prefecture, allPosts }: RelatedPostsProps) {
   const otherPosts = allPosts.filter(p => p.id !== currentPostId);
 
-  // 同じ都道府県を優先、次に他
+  // 同じ都道府県の宿
   const samePrefPosts = otherPosts.filter(p => p.prefecture === prefecture);
   const diffPrefPosts = otherPosts.filter(p => p.prefecture !== prefecture);
 
-  // 最大6件に拡張（SEO内部リンク強化）
-  const selectedPosts = [...samePrefPosts, ...diffPrefPosts].slice(0, 6);
+  // 記事IDのハッシュに基づいて均等にローテーションし、全記事へ内部リンクを行き渡らせる
+  let seed = 0;
+  for (let i = 0; i < currentPostId.length; i++) {
+    seed = (seed + currentPostId.charCodeAt(i)) % 1000;
+  }
+
+  const rotateArray = (arr: PostSummary[], shift: number) => {
+    if (arr.length === 0) return [];
+    const offset = shift % arr.length;
+    return [...arr.slice(offset), ...arr.slice(0, offset)];
+  };
+
+  const rotatedSamePref = rotateArray(samePrefPosts, seed);
+  const rotatedDiffPref = rotateArray(diffPrefPosts, seed * 7);
+
+  // 同都道府県から最大6件、他エリアから3件、合計最大9件の充実した内部リンクを配備
+  const selectedPosts = [
+    ...rotatedSamePref.slice(0, 6),
+    ...rotatedDiffPref.slice(0, Math.max(0, 9 - Math.min(rotatedSamePref.length, 6)))
+  ].slice(0, 9);
 
   // 都道府県ページへのリンク用slug
   const prefSlug = PREFECTURES_DATA.find(p => p.name === prefecture)?.slug;
@@ -45,7 +63,7 @@ export default function RelatedPosts({ currentPostId, prefecture, allPosts }: Re
             </p>
           </div>
           <Link
-            href={`/prefectures/${prefSlug}`}
+            href={`/prefectures/${prefSlug}/`}
             className="shrink-0 text-xs font-extrabold text-white bg-teal-800 hover:bg-teal-700 px-4 py-2.5 rounded-xl transition"
           >
             {prefecture}を見る →
@@ -56,7 +74,7 @@ export default function RelatedPosts({ currentPostId, prefecture, allPosts }: Re
       <div className="space-y-4">
         <div className="flex items-center justify-between">
           <h3 className="text-lg md:text-xl font-bold font-journal-serif text-emerald-950 flex items-center gap-2">
-            <span>🧭</span> <span>あわせて読みたい【{prefecture}＆近隣エリア】厳選宿マガジン</span>
+            <span>🧭</span> <span>あわせて読みたい【{prefecture}＆近隣エリア】よく比較される人気宿＆宿泊記</span>
           </h3>
           <Link href="/" className="text-xs font-bold text-teal-800 hover:underline">
             すべての記事を見る →
@@ -67,7 +85,7 @@ export default function RelatedPosts({ currentPostId, prefecture, allPosts }: Re
           {selectedPosts.map((post) => (
             <Link
               key={post.id}
-              href={`/posts/${post.id}`}
+              href={`/posts/${post.id}/`}
               className="group border border-emerald-950/10 bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-md transition duration-200 flex flex-col"
             >
               <div className="aspect-video relative overflow-hidden bg-emerald-50">
@@ -92,8 +110,8 @@ export default function RelatedPosts({ currentPostId, prefecture, allPosts }: Re
                   {post.title}
                 </h4>
                 <div className="flex items-center justify-between text-[10px] text-teal-900/60 font-semibold pt-2 border-t border-emerald-950/5">
-                  <span>{post.hotel_name}</span>
-                  {post.rating && <span className="text-amber-600 font-bold">⭐ {post.rating}</span>}
+                  <span className="truncate max-w-[140px]">{post.hotel_name}</span>
+                  {post.rating && <span className="text-amber-600 font-bold shrink-0">⭐ {post.rating}</span>}
                 </div>
               </div>
             </Link>

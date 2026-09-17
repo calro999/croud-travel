@@ -1017,6 +1017,66 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
         );
       })()}
 
+      {/* 🏨 【全件完全インデックス】この都道府県の宿泊ルポ・特集記事一覧（孤立ページ完全解消） */}
+      {(() => {
+        const prefPosts = allPosts.filter(
+          p => p.prefecture === prefInfo.name || p.prefecture.includes(prefInfo.name.replace(/(県|府|東京都)$/, ""))
+        );
+        if (prefPosts.length === 0) return null;
+
+        return (
+          <section className="scroll-mt-24 space-y-6 bg-white border border-emerald-950/10 rounded-3xl p-6 md:p-10 shadow-sm">
+            <div className="border-b border-emerald-950/10 pb-4 flex flex-wrap items-center justify-between gap-2">
+              <div>
+                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-50 border border-teal-200 px-3 py-0.5 rounded-full uppercase tracking-wider">
+                  ALL ARTICLES & HOTELS
+                </span>
+                <h3 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 mt-1">
+                  📖 【{prefInfo.name}】の宿泊ルポ・温泉特集記事一覧（全{prefPosts.length}件）
+                </h3>
+              </div>
+              <span className="text-xs text-stone-500 font-bold">全件公式データ連携</span>
+            </div>
+
+            <p className="text-xs text-emerald-950/80 leading-relaxed font-medium">
+              {prefInfo.name}内の注目温泉旅館、ビジネスホテル、客室露天風呂付き宿、グルメ特集などの全記事インデックスです。目的やエリアに合わせて気になる宿をチェックしてください。
+            </p>
+
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+              {prefPosts.map((post) => (
+                <Link
+                  key={post.id}
+                  href={`/posts/${post.id}/`}
+                  className="group p-3.5 rounded-2xl bg-stone-50 hover:bg-teal-50/50 border border-stone-200 hover:border-teal-700/30 transition duration-200 flex gap-3 items-center"
+                >
+                  <div className="w-16 h-16 shrink-0 rounded-xl overflow-hidden bg-stone-200">
+                    {post.image ? (
+                      <img
+                        src={post.image}
+                        alt={post.hotel_name}
+                        className="w-full h-full object-cover group-hover:scale-105 transition"
+                        loading="lazy"
+                      />
+                    ) : (
+                      <div className="w-full h-full flex items-center justify-center text-stone-400 text-[10px]">No Pic</div>
+                    )}
+                  </div>
+                  <div className="flex-grow min-w-0 space-y-1">
+                    <h4 className="text-xs font-bold text-stone-900 line-clamp-2 group-hover:text-teal-800 transition">
+                      {post.title}
+                    </h4>
+                    <div className="flex items-center justify-between text-[10px] text-stone-500 font-medium">
+                      <span className="truncate max-w-[120px]">{post.area || post.prefecture}</span>
+                      {post.rating && <span className="text-amber-600 font-bold shrink-0">⭐ {post.rating}</span>}
+                    </div>
+                  </div>
+                </Link>
+              ))}
+            </div>
+          </section>
+        );
+      })()}
+
       {/* 他都道府県への簡単アクセス */}
       <section className="p-8 rounded-3xl bg-teal-50/50 border border-teal-900/10 text-center space-y-4">
         <h3 className="text-lg font-bold font-journal-serif text-emerald-950">
