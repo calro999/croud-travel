@@ -309,6 +309,7 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【香川県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/84770): ホテル　パールガーデン（香川県）
 - [【おすすめ宿】神山温泉　ホテル四季の里＆いやしの湯の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/14442): 神山温泉　ホテル四季の里＆いやしの湯（徳島県）
 - [リーガロイヤルホテル広島のリアル宿泊記！温泉・客室・朝食バイキングの本音口コミ評判｜広島県](https://croud-travel.pages.dev/posts/109): リーガロイヤルホテル広島（広島県）
 - [ホテル　さつき苑のリアル宿泊記！温泉・客室・朝食バイキングの本音口コミ評判｜鹿児島県](https://croud-travel.pages.dev/posts/109094): ホテル　さつき苑（鹿児島県）
@@ -358,4 +359,3 @@
 - [【和栗モンブラン＆栗スイーツ旅】小布施栗・丹波栗を味わう秋のご褒美スイーツ温泉ステイ｜失敗しないおすすめ宿ガイド](https://croud-travel.pages.dev/posts/chestnut-montblanc-autumn-sweets-hotels-guide): 絞りたて和栗モンブランや栗おこわ、栗懐石。栗の聖地で楽しむ極上スイーツと秋の温泉リトリート（長野県・京都府・兵庫県）
 - [ＲＥＸ　ＨＯＴＥＬ　別府のリアル宿泊記！温泉・客室・朝食バイキングの本音口コミ評判｜福岡県](https://croud-travel.pages.dev/posts/dazaifu-tenmangu-sightseeing-hotels-guide): ＲＥＸ　ＨＯＴＥＬ　別府（福岡県）
 - [別府最大級の露天風呂の宿　おにやまホテルのリアル宿泊記！温泉・客室・朝食バイキングの本音口コミ評判｜全国](https://croud-travel.pages.dev/posts/famous-spots-and-souvenirs-japan-prefecture-guide): 別府最大級の露天風呂の宿　おにやまホテル（全国）
-- [下呂温泉　小川屋のリアル宿泊記！温泉・客室・朝食バイキングの本音口コミ評判｜岐阜県](https://croud-travel.pages.dev/posts/gero-ogawaya-tatami-bath-spa-guide): 下呂温泉　小川屋（岐阜県）
