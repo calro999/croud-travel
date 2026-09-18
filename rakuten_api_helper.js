@@ -50,7 +50,7 @@ async function searchRakutenHotels(keyword, hits = 5, retryCount = 0) {
                 parkingInformation: b.parkingInformation || '',
                 nearestStation: b.nearestStation || '',
                 hotelSpecial: b.hotelSpecial || '',
-                affiliateUrl: b.affiliateUrl || `https://hb.afl.rakuten.co.jp/hgc/${affId}/?pc=${encodeURIComponent(b.hotelInformationUrl || 'https://travel.rakuten.co.jp/HOTEL/' + b.hotelNo + '/' + b.hotelNo + '.html')}`
+                affiliateUrl: `https://hb.afl.rakuten.co.jp/hgc/${affId}/?pc=${encodeURIComponent(`https://travel.rakuten.co.jp/HOTEL/${b.hotelNo}/${b.hotelNo}.html`)}`
               };
             });
             resolve(list);
@@ -87,7 +87,7 @@ function getHotelByNo(hotelNo) {
               address2: b.address2,
               access: b.access,
               hotelSpecial: b.hotelSpecial,
-              affiliateUrl: b.affiliateUrl || `https://hb.afl.rakuten.co.jp/hgc/${affId}/?pc=${encodeURIComponent(b.hotelInformationUrl || 'https://travel.rakuten.co.jp/HOTEL/' + b.hotelNo + '/' + b.hotelNo + '.html')}`
+              affiliateUrl: `https://hb.afl.rakuten.co.jp/hgc/${affId}/?pc=${encodeURIComponent(`https://travel.rakuten.co.jp/HOTEL/${b.hotelNo}/${b.hotelNo}.html`)}`
             });
           } else {
             resolve(null);

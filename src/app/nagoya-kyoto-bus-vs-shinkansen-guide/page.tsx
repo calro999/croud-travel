@@ -52,7 +52,7 @@ export default function HighwayBusArticlePage() {
   }
 ];
   const busDetails = {
-  "busUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2Flist%2F104_26_1.html",
+  "busUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2F",
   "ctaText": "🚌 楽天トラベルで「名古屋 ⇄ 京都」の高速バスを検索・予約する",
   "points": [
     "名鉄バスセンター・JR名古屋駅から京都駅烏丸口へ30分〜1時間間隔で頻発運行。",

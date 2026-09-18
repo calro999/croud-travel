@@ -44,7 +44,7 @@ export default function HighwayBusArticlePage() {
   }
 ];
   const busDetails = {
-  "busUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2Flist%2F103_39_1.html",
+  "busUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2F",
   "ctaText": "🚌 楽天トラベルで「大阪・神戸 ⇄ 高知」の高速バス最安値を検索・予約する",
   "points": [
     "阪急梅田・なんば・新大阪・神戸三宮から高知駅BT・はりまや橋へ毎日直行便が運行。",

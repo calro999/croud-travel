@@ -44,7 +44,7 @@ export default function HighwayBusArticlePage() {
   }
 ];
   const busDetails = {
-  "busUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2Flist%2F101_23_1.html",
+  "busUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2F",
   "ctaText": "🚌 楽天トラベルで「東京 ⇄ 名古屋」の高速バス最安値を検索・予約する",
   "points": [
     "バスタ新宿・東京駅八重洲口・渋谷・池袋から名古屋駅（太閤通口・名鉄BC）へ1日数十便運行。",

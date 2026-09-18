@@ -52,7 +52,7 @@ export default function HighwayBusArticlePage() {
   }
 ];
   const busDetails = {
-  "busUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2Flist%2F101_17_1.html",
+  "busUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2F",
   "ctaText": "🚌 楽天トラベルで「東京 ⇄ 金沢」の高速バス最安値を検索・予約する",
   "points": [
     "バスタ新宿・東京駅八重洲口・池袋駅など主要ターミナルから直行便が毎日多数運行。",

@@ -52,7 +52,7 @@ export default function HighwayBusArticlePage() {
   }
 ];
   const busDetails = {
-  "busUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2Flist%2F101_10_1.html",
+  "busUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2F",
   "ctaText": "🚌 楽天トラベルで「東京・新宿 ⇄ 草津温泉」直行バスを予約する",
   "points": [
     "バスタ新宿・東京駅八重洲口・渋谷マークシティ・池袋駅などから「ゆめぐり号」等直行便が運行。",

@@ -44,7 +44,7 @@ export default function HighwayBusArticlePage() {
   }
 ];
   const busDetails = {
-  "busUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2Flist%2F101_24_1.html",
+  "busUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2F",
   "ctaText": "🚌 楽天トラベルで「東京 ⇄ 伊勢神宮・鳥羽」の高速バスを検索・予約する",
   "points": [
     "バスタ新宿・東京駅八重洲口・横浜駅から伊勢市駅前・宇治山田駅・鳥羽へ直行便が運行。",

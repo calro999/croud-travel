@@ -52,7 +52,7 @@ export default function HighwayBusArticlePage() {
   }
 ];
   const busDetails = {
-  "busUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2Flist%2F103_31_1.html",
+  "busUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2F",
   "ctaText": "🚌 楽天トラベルで「大阪・神戸 ⇄ 鳥取・米子・出雲」の高速バスを検索・予約する",
   "points": [
     "阪急梅田・なんば・新大阪・神戸三宮から鳥取駅・米子駅・松江駅・出雲市駅へ毎日運行。",
