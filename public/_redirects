@@ -1,8 +1,31 @@
 # Cloudflare Pages 301 Redirect Rules
-# Normalize trailing slashes to unify GSC indexing and SEO signals
 
+# 1. index.txt / RSC payload redirects to canonical clean URLs (resolve 404 and retain SEO equity)
+/prefectures/index.txt /prefectures/ 301
+/prefectures/index.txt/ /prefectures/ 301
+/prefectures/:pref/index.txt /prefectures/:pref/ 301
+/prefectures/:pref/index.txt/ /prefectures/:pref/ 301
+/prefectures/:pref/:city/index.txt /prefectures/:pref/:city/ 301
+/prefectures/:pref/:city/index.txt/ /prefectures/:pref/:city/ 301
+/posts/:slug/index.txt /posts/:slug/ 301
+/posts/:slug/index.txt/ /posts/:slug/ 301
+/spots/:slug/index.txt /spots/:slug/ 301
+/spots/:slug/index.txt/ /spots/:slug/ 301
+/features/index.txt /features/ 301
+/features/index.txt/ /features/ 301
+/campaigns/index.txt /campaigns/ 301
+/campaigns/index.txt/ /campaigns/ 301
+/sitemap/index.txt /sitemap/ 301
+/sitemap/index.txt/ /sitemap/ 301
+/:path*/index.txt /:path*/ 301
+/:path*/index.txt/ /:path*/ 301
+/index.txt / 301
+/index.txt/ / 301
+
+# 2. Normalize trailing slashes to unify GSC indexing and SEO signals
 /posts/:slug /posts/:slug/ 301
 /prefectures/:slug /prefectures/:slug/ 301
 /spots/:slug /spots/:slug/ 301
 /furusato/:slug /furusato/:slug/ 301
 /furusato-tax-:slug /furusato-tax-:slug/ 301
+

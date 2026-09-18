@@ -72,6 +72,14 @@ console.log(`Files in out/ before cleanup: ${beforeCount}`);
 
 cleanDirectory(OUT_DIR, true);
 
+// public/_redirects を確実に out/_redirects にコピー
+const publicRedirects = path.join(__dirname, 'public', '_redirects');
+const outRedirects = path.join(OUT_DIR, '_redirects');
+if (fs.existsSync(publicRedirects)) {
+  fs.copyFileSync(publicRedirects, outRedirects);
+  console.log('Successfully synced public/_redirects to out/_redirects');
+}
+
 const afterCount = countFiles(OUT_DIR);
 console.log(`Files in out/ after cleanup: ${afterCount}`);
 console.log(`Removed ${beforeCount - afterCount} unnecessary RSC/payload files.`);
@@ -82,3 +90,4 @@ if (afterCount > 20000) {
 } else {
   console.log(`SUCCESS: File count is well under the 20,000 limit (${afterCount}/20000).`);
 }
+
