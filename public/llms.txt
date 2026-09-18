@@ -309,6 +309,8 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【宮崎県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/10893): 塩原温泉　割烹旅館　湯の花荘（宮崎県）
+- [【おすすめ宿】薬湯風呂　ホテルグランテラス帯広（ＢＢＨホテルグループ）の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/500): 薬湯風呂　ホテルグランテラス帯広（ＢＢＨホテルグループ）（北海道）
 - [【岐阜県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/885): ホテルリソル岐阜（岐阜県）
 - [【おすすめ宿】チサンホテル郡山の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/397): チサンホテル郡山（福島県）
 - [【香川県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/19840): アパホテル〈高松瓦町〉（香川県）
@@ -357,5 +359,3 @@
 - [【秋の松島・宮城】日本三景の絶景オーシャンビュー＆三陸の旬牡蠣・海鮮を味わう人気宿10選｜失敗しないおすすめ宿ガイド](https://croud-travel.pages.dev/posts/autumn-miyagi-matsushima-10selection): 松島湾に浮かぶ島々と朝日の絶景。秋から旬を迎える濃厚な三陸牡蠣と仙台牛、とろみのある松島温泉を満喫（宮城県）
 - [【ものづくり＆刃物の町を行く】燕三条・関・越前！職人技の鍛冶体験と美肌温泉を巡るクラフト旅｜失敗しないおすすめ宿ガイド](https://croud-travel.pages.dev/posts/blacksmith-blade-forging-artisan-onsen-hotels-guide): 世界が認める日本の鍛冶・金属加工の聖地へ。職人の工房見学や包丁研ぎ体験と、近隣の名湯宿で過ごす知的好奇心の旅（新潟県・岐阜県・福井県）
 - [ＢＢＱ×半露天風呂付き一棟貸切ホテル　ｔｅｉｈａｋｕ秩父　茶畑邸のリアル宿泊記！温泉・客室・朝食バイキングの本音口コミ評判｜埼玉県](https://croud-travel.pages.dev/posts/candeo-hotels-omiya-sky-spa-guide): ＢＢＱ×半露天風呂付き一棟貸切ホテル　ｔｅｉｈａｋｕ秩父　茶畑邸（埼玉県）
-- [【神秘の洞窟風呂・天然岩窟温泉】大自然の地熱パワーを感じる全国の絶景秘湯宿ガイド](https://croud-travel.pages.dev/posts/cave-bath-geothermal-secret-onsen-hotels-guide): 岩肌から湧き出る本物の名湯！洞窟に響く湯音と幻想的な灯りに包まれて味わう究極の非日常バスタイム（全国）
-- [【センティアホテル内藤・甲府】甲府駅南口の快適ビジネスホテル！朝食バイキングと観光・ビジネス徹底解説｜失敗しないおすすめ宿ガイド](https://croud-travel.pages.dev/posts/centia-hotel-naito-kofu-stay-guide): 甲府駅周辺での宿泊に便利。リーズナブルな価格設定と清潔な客室、地元郷土料理を取り入れた朝食が人気（山梨県）

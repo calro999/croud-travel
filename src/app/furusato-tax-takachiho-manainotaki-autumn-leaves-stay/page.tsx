@@ -2,27 +2,27 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '軽井沢・雲場池の鏡面スワンレイク紅葉＆旧軽銀座散策！高原リゾート温泉×ふるさと納税完全ガイド【2026年最新秋旅】長野',
-  description: '10月中旬〜11月上旬に水面が燃えるような赤と黄に染まる「信州・軽井沢 雲場池（スワンレイク）」。旧軽井沢銀座のレトロ散策やハルニレテラス、秋風心地よい高原温泉「ホテルグリーンプラザ軽井沢」「ゆとりろ軽井沢ホテル」「旧軽井沢 ホテル音羽ノ森」で信州サーモンや信州プレミアム牛・信州新そばフレンチを堪能。ふるさと納税で実質2,000円。',
+  title: '神話の里・高千穂峡の真名井の滝紅葉ボート＆高千穂神社夜神楽！極上高千穂牛宿×ふるさと納税完全ガイド【2026年最新秋旅】宮崎',
+  description: '11月上旬〜下旬に柱状節理の峡谷とエメラルドの水面が深紅に彩られる日本屈指のパワースポット「宮崎・高千穂峡」。真名井の滝を見上げる手漕ぎ貸ボートや高千穂神社の重要無形民俗文化財「夜神楽」鑑賞、山懐に抱かれた名宿「旅館 神仙」「旅館 大和屋」「今国旅館」で日本一の栄冠に輝いた最高峰・高千穂牛ステーキを堪能。ふるさと納税で実質2,000円。',
   keywords: [
     "ふるさと納税 温泉",
     "ふるさと納税 宿泊券",
     "ふるさと納税 トラベルクーポン",
-    "長野・軽井沢雲場池紅葉＆高原温泉特集",
+    "宮崎・高千穂峡紅葉ボート＆高千穂牛特集",
     "10月 旅行 おすすめ",
     "11月 旅行 おすすめ",
     "秋 旅行 温泉",
-    "軽井沢 雲場池 紅葉 旧軽井沢 ホテル 温泉",
+    "高千穂峡 真名井の滝 紅葉 ボート 夜神楽 高千穂牛 旅館",
     "楽天トラベル ふるさと納税",
     "実質2000円 温泉"
 ],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-karuizawa-kumobaike-autumn-leaves-stay/'
+    canonical: 'https://croud-travel.pages.dev/furusato-tax-takachiho-manainotaki-autumn-leaves-stay/'
   },
   openGraph: {
-    title: '軽井沢・雲場池の鏡面スワンレイク紅葉＆旧軽銀座散策！高原リゾート温泉×ふるさと納税完全ガイド【2026年最新秋旅】長野',
-    description: '10月中旬〜11月上旬に水面が燃えるような赤と黄に染まる「信州・軽井沢 雲場池（スワンレイク）」。旧軽井沢銀座のレトロ散策やハルニレテラス、秋風心地よい高原温泉「ホテルグリーンプラザ軽井沢」「ゆとりろ軽井沢ホテル」「旧軽井沢 ホテル音羽ノ森」で信州サーモンや信州プレミアム牛・信州新そばフレンチを堪能。ふるさと納税で実質2,000円。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-karuizawa-kumobaike-autumn-leaves-stay',
+    title: '神話の里・高千穂峡の真名井の滝紅葉ボート＆高千穂神社夜神楽！極上高千穂牛宿×ふるさと納税完全ガイド【2026年最新秋旅】宮崎',
+    description: '11月上旬〜下旬に柱状節理の峡谷とエメラルドの水面が深紅に彩られる日本屈指のパワースポット「宮崎・高千穂峡」。真名井の滝を見上げる手漕ぎ貸ボートや高千穂神社の重要無形民俗文化財「夜神楽」鑑賞、山懐に抱かれた名宿「旅館 神仙」「旅館 大和屋」「今国旅館」で日本一の栄冠に輝いた最高峰・高千穂牛ステーキを堪能。ふるさと納税で実質2,000円。',
+    url: 'https://croud-travel.pages.dev/furusato-tax-takachiho-manainotaki-autumn-leaves-stay',
     siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
@@ -30,50 +30,50 @@ export const metadata: Metadata = {
 };
 
 const HOTEL_DATA = {
-  karuizawa_greenplaza: {
-    name: '奥軽井沢温泉　ホテルグリーンプラザ軽井沢',
-    no: 11009,
-    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D11009',
-    planUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D11009%26f_flg%3DPLAN',
-    reviewUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D11009',
-    img: 'https://img.travel.rakuten.co.jp/share/HOTEL/11009/11009.jpg',
-    thumb: 'https://img.travel.rakuten.co.jp/HIMG/90/11009.jpg',
-    minCharge: 11716,
-    rating: 4.24,
-    reviews: 2552,
-    special: '4／17（金）おもちゃ王国OPEN！小さなお子様も大歓迎★ウェルカムベビーのお宿',
-    address: '群馬県吾妻郡嬬恋村大前細原2277',
-    access: '軽井沢駅より車45分（送迎要予約） 上信越自動車道 碓氷軽井沢ICより55分（鬼押しハイウェイ経由：有料)'
+  takachiho_shinsen: {
+    name: '高千穂　旅館　神仙',
+    no: 30082,
+    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D30082',
+    planUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D30082%26f_flg%3DPLAN',
+    reviewUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D30082',
+    img: 'https://img.travel.rakuten.co.jp/share/HOTEL/30082/30082.jpg',
+    thumb: 'https://img.travel.rakuten.co.jp/HIMG/90/30082.jpg',
+    minCharge: 49500,
+    rating: 4.79,
+    reviews: 244,
+    special: '＜クチコミ総合4.8＞最高の心のおもてなしと至福のひと時',
+    address: '宮崎県西臼杵郡高千穂町三田井1127-5',
+    access: '高千穂バスセンターよりタクシーで５分／九州自動車道　松橋ＩＣより車で約１００分'
   },
-  karuizawa_yutorelo: {
-    name: 'ゆとりろ軽井沢ホテル',
-    no: 19304,
-    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D19304',
-    planUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D19304%26f_flg%3DPLAN',
-    reviewUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D19304',
-    img: 'https://img.travel.rakuten.co.jp/share/HOTEL/19304/19304.jpg',
-    thumb: 'https://img.travel.rakuten.co.jp/HIMG/90/19304.jpg',
-    minCharge: 5500,
-    rating: 3.84,
-    reviews: 1135,
-    special: '【楽天アワード2025受賞】森に佇む洋館で、軽井沢の休日を。／無料送迎有',
-    address: '長野県北佐久郡軽井沢町長倉1276',
-    access: '中軽井沢駅から送迎あり（要予約）／JR軽井沢駅より車で１５分／しなの鉄道・中軽井沢駅より車で７分'
+  takachiho_yamatoya: {
+    name: '旅館　大和屋',
+    no: 14067,
+    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D14067',
+    planUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D14067%26f_flg%3DPLAN',
+    reviewUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D14067',
+    img: 'https://img.travel.rakuten.co.jp/share/HOTEL/14067/14067.jpg',
+    thumb: 'https://img.travel.rakuten.co.jp/HIMG/90/14067.jpg',
+    minCharge: 19800,
+    rating: 4.38,
+    reviews: 362,
+    special: '高千穂神社まで徒歩10分　約105年続く田舎料理が自慢のお宿です',
+    address: '宮崎県西臼杵郡高千穂町三田井1148',
+    access: '高千穂バスセンターより徒歩５分　延岡駅より車で１時間（２１８号経由）　熊本空港より車で１時間半（５７～３２５号線経由）'
   },
-  karuizawa_harvest: {
-    name: '旧軽井沢　ホテル音羽ノ森',
-    no: 50619,
-    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D50619',
-    planUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D50619%26f_flg%3DPLAN',
-    reviewUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D50619',
-    img: 'https://img.travel.rakuten.co.jp/share/HOTEL/50619/50619.jpg',
-    thumb: 'https://img.travel.rakuten.co.jp/HIMG/90/50619.jpg',
-    minCharge: 11781,
-    rating: 4.58,
-    reviews: 389,
-    special: '軽井沢駅・旧軽井沢銀座まで徒歩約13分。自然豊かな旧軽井沢の景観と伝統を兼ね備えた隠れ家ホテル。',
-    address: '長野県北佐久郡軽井沢町軽井沢1323-980',
-    access: '鉄道：軽井沢駅北口タクシー約3分、徒歩約１２分。車：東京方面、碓氷軽井沢ＩＣ約２０分。長野��愛知方面、小諸ＩＣ約３０分'
+  takachiho_imakuni: {
+    name: '今国旅館',
+    no: 67190,
+    url: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D67190',
+    planUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D67190%26f_flg%3DPLAN',
+    reviewUrl: 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D67190',
+    img: 'https://img.travel.rakuten.co.jp/share/HOTEL/67190/67190.jpg',
+    thumb: 'https://img.travel.rakuten.co.jp/HIMG/90/67190.jpg',
+    minCharge: 10100,
+    rating: 3.83,
+    reviews: 75,
+    special: '街の中心にあり観光・ビジネスの拠点に最適！山菜を盛り込んだ季節の料理とかっぽ酒もご賞味下さい。',
+    address: '宮崎県西臼杵郡高千穂町三田井803-4',
+    access: 'ＪＲ延岡駅や熊本から特急バス、福岡より高速バスにて高千穂バスセンター下車後徒歩１分！！'
   }
 };
 
@@ -86,11 +86,11 @@ export default function FeatureArticlePage() {
         <span>&gt;</span>
         <Link href="/autumn-leaves" className="hover:underline text-stone-500">秋・紅葉特集</Link>
         <span>&gt;</span>
-        <span className="text-stone-800 font-medium">長野・軽井沢 / 雲場池スワンレイク紅葉＆旧軽井沢散策・高原リゾート温泉</span>
+        <span className="text-stone-800 font-medium">宮崎・西臼杵 / 高千穂峡真名井の滝紅葉ボート＆高千穂神社夜神楽・高千穂牛</span>
       </nav>
 
       {/* ヒーローヘッダー */}
-      <header className="bg-gradient-to-br from-emerald-950 via-stone-900 to-amber-950 text-white py-14 md:py-20 px-4 mb-10 shadow-lg">
+      <header className="bg-gradient-to-br from-orange-950 via-teal-950 to-stone-900 text-white py-14 md:py-20 px-4 mb-10 shadow-lg">
         <div className="max-w-5xl mx-auto text-center">
           <div className="inline-flex items-center gap-2 bg-white/20 backdrop-blur-md px-4 py-1.5 rounded-full text-xs md:text-sm font-semibold mb-5 text-amber-200">
             <span>🍁 10月・11月限定 秋旅特集</span>
@@ -98,10 +98,10 @@ export default function FeatureArticlePage() {
             <span>楽天ふるさと納税トラベルクーポン対応</span>
           </div>
           <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">
-            軽井沢・雲場池の鏡面スワンレイク紅葉＆旧軽銀座散策！高原リゾート温泉×ふるさと納税完全ガイド【2026年最新秋旅】長野
+            神話の里・高千穂峡の真名井の滝紅葉ボート＆高千穂神社夜神楽！極上高千穂牛宿×ふるさと納税完全ガイド【2026年最新秋旅】宮崎
           </h1>
           <p className="text-sm md:text-lg text-stone-200 max-w-3xl mx-auto leading-relaxed">
-            スワンレイク雲場池の水面に映る奇跡の逆さ紅葉と、洗練された高原リゾートステイ。ふるさと納税の宿泊クーポンを活用すれば実質2,000円で憧れの上質宿へ滞在できます。
+            柱状節理の断崖に降り注ぐ真名井の滝の紅葉と、神話の里で味わう日本一の高千穂牛。ふるさと納税の宿泊クーポンを活用すれば実質2,000円で憧れの上質宿へ滞在できます。
           </p>
         </div>
       </header>
@@ -116,7 +116,7 @@ export default function FeatureArticlePage() {
               秋の風情と旬の味覚を堪能する特別な旅
             </h2>
             <p className="text-stone-700 leading-relaxed text-sm md:text-base mb-6">
-              日本を代表する高原避暑地・長野県軽井沢は、秋になるとカラマツやモミジが一斉に色づく最も美しい季節を迎えます。「スワンレイク」の愛称で親しまれる「雲場池」では、湖面に映り込む鮮やかな紅葉が絵画のような美しさを誇ります。旧軽井沢銀座やハルニレテラスの散策を楽しみ、浅間山の恵み豊かな天然温泉に浸かり、信州食材を極限まで引き出したフレンチや欧風料理を満喫できます。
+              天孫降臨の神話が息づく宮崎県・高千穂郷。阿蘇の火山活動によって生まれた柱状節理の切り立つV字渓谷「高千穂峡」は、秋になると日本の滝百選「真名井の滝」周辺が鮮やかな紅葉に包まれます。水面から見上げる貸しボート体験や高千穂神社で毎夜奉納される「高千穂の夜神楽」を堪能。全国和牛能力共進会で日本一を獲得した最高峰ブランド「高千穂牛」の炭火焼きステーキを味わえます。
             </p>
             <div className="bg-amber-50/80 rounded-xl p-5 border border-amber-200/80">
               <h3 className="font-bold text-amber-950 text-sm md:text-base mb-2 flex items-center gap-2">
@@ -135,44 +135,44 @@ export default function FeatureArticlePage() {
             <div className="flex flex-wrap items-center justify-between gap-2 mb-4 pb-3 border-b border-stone-200">
               <div className="flex items-center gap-2">
                 <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded-md">厳選の宿 1</span>
-                <h3 className="text-lg md:text-2xl font-bold text-stone-900">{HOTEL_DATA.karuizawa_greenplaza.name}</h3>
+                <h3 className="text-lg md:text-2xl font-bold text-stone-900">{HOTEL_DATA.takachiho_shinsen.name}</h3>
               </div>
               <div className="text-xs bg-amber-100 text-amber-900 font-semibold px-2.5 py-1 rounded-full">
-                ★ {HOTEL_DATA.karuizawa_greenplaza.rating} ({HOTEL_DATA.karuizawa_greenplaza.reviews}件)
+                ★ {HOTEL_DATA.takachiho_shinsen.rating} ({HOTEL_DATA.takachiho_shinsen.reviews}件)
               </div>
             </div>
 
             <div className="mb-6 rounded-xl overflow-hidden shadow-inner aspect-video relative bg-stone-200">
               <img
-                src={HOTEL_DATA.karuizawa_greenplaza.img}
-                alt={HOTEL_DATA.karuizawa_greenplaza.name}
+                src={HOTEL_DATA.takachiho_shinsen.img}
+                alt={HOTEL_DATA.takachiho_shinsen.name}
                 className="w-full h-full object-cover"
                 loading="lazy"
               />
             </div>
 
             <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-6">
-              {HOTEL_DATA.karuizawa_greenplaza.special}。秋の彩りに包まれる極上のロケーションで、日頃の喧騒を忘れ心身を解きほぐす至福の滞在が楽しめます。旬の地元食材をふんだんに使った豪華なお料理とともに、贅沢なひとときを過ごせます。
+              {HOTEL_DATA.takachiho_shinsen.special}。秋の彩りに包まれる極上のロケーションで、日頃の喧騒を忘れ心身を解きほぐす至福の滞在が楽しめます。旬の地元食材をふんだんに使った豪華なお料理とともに、贅沢なひとときを過ごせます。
             </p>
 
             <div className="bg-stone-50 rounded-xl p-4 text-xs md:text-sm text-stone-600 space-y-2 mb-6 border border-stone-200">
               <div className="flex items-start gap-2">
                 <span className="font-bold text-stone-800 min-w-[60px]">住所:</span>
-                <span>{HOTEL_DATA.karuizawa_greenplaza.address}</span>
+                <span>{HOTEL_DATA.takachiho_shinsen.address}</span>
               </div>
               <div className="flex items-start gap-2">
                 <span className="font-bold text-stone-800 min-w-[60px]">アクセス:</span>
-                <span>{HOTEL_DATA.karuizawa_greenplaza.access}</span>
+                <span>{HOTEL_DATA.takachiho_shinsen.access}</span>
               </div>
               <div className="flex items-start gap-2">
                 <span className="font-bold text-stone-800 min-w-[60px]">参考料金:</span>
-                <span className="text-rose-600 font-bold">1名あたり {HOTEL_DATA.karuizawa_greenplaza.minCharge.toLocaleString()}円〜（目安）</span>
+                <span className="text-rose-600 font-bold">1名あたり {HOTEL_DATA.takachiho_shinsen.minCharge.toLocaleString()}円〜（目安）</span>
               </div>
             </div>
 
             <div className="flex flex-col sm:flex-row gap-3">
               <a
-                href={HOTEL_DATA.karuizawa_greenplaza.planUrl || HOTEL_DATA.karuizawa_greenplaza.url}
+                href={HOTEL_DATA.takachiho_shinsen.planUrl || HOTEL_DATA.takachiho_shinsen.url}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex-1 bg-red-600 hover:bg-red-700 text-white font-bold py-3.5 px-6 rounded-xl text-center shadow-md transition-all text-sm md:text-base flex items-center justify-center gap-2"
@@ -181,7 +181,7 @@ export default function FeatureArticlePage() {
                 <span>➔</span>
               </a>
               <a
-                href={HOTEL_DATA.karuizawa_greenplaza.reviewUrl || HOTEL_DATA.karuizawa_greenplaza.url}
+                href={HOTEL_DATA.takachiho_shinsen.reviewUrl || HOTEL_DATA.takachiho_shinsen.url}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-stone-100 hover:bg-stone-200 text-stone-700 font-bold py-3.5 px-5 rounded-xl text-center border border-stone-300 text-sm transition-all"
@@ -196,44 +196,44 @@ export default function FeatureArticlePage() {
             <div className="flex flex-wrap items-center justify-between gap-2 mb-4 pb-3 border-b border-stone-200">
               <div className="flex items-center gap-2">
                 <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded-md">厳選の宿 2</span>
-                <h3 className="text-lg md:text-2xl font-bold text-stone-900">{HOTEL_DATA.karuizawa_yutorelo.name}</h3>
+                <h3 className="text-lg md:text-2xl font-bold text-stone-900">{HOTEL_DATA.takachiho_yamatoya.name}</h3>
               </div>
               <div className="text-xs bg-amber-100 text-amber-900 font-semibold px-2.5 py-1 rounded-full">
-                ★ {HOTEL_DATA.karuizawa_yutorelo.rating} ({HOTEL_DATA.karuizawa_yutorelo.reviews}件)
+                ★ {HOTEL_DATA.takachiho_yamatoya.rating} ({HOTEL_DATA.takachiho_yamatoya.reviews}件)
               </div>
             </div>
 
             <div className="mb-6 rounded-xl overflow-hidden shadow-inner aspect-video relative bg-stone-200">
               <img
-                src={HOTEL_DATA.karuizawa_yutorelo.img}
-                alt={HOTEL_DATA.karuizawa_yutorelo.name}
+                src={HOTEL_DATA.takachiho_yamatoya.img}
+                alt={HOTEL_DATA.takachiho_yamatoya.name}
                 className="w-full h-full object-cover"
                 loading="lazy"
               />
             </div>
 
             <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-6">
-              {HOTEL_DATA.karuizawa_yutorelo.special}。清らかな空気と美しい自然の景観に囲まれ、旅情あふれる温泉と自慢の料理を堪能できます。秋の心地よい夜長を過ごすのにぴったりの癒しの空間です。
+              {HOTEL_DATA.takachiho_yamatoya.special}。清らかな空気と美しい自然の景観に囲まれ、旅情あふれる温泉と自慢の料理を堪能できます。秋の心地よい夜長を過ごすのにぴったりの癒しの空間です。
             </p>
 
             <div className="bg-stone-50 rounded-xl p-4 text-xs md:text-sm text-stone-600 space-y-2 mb-6 border border-stone-200">
               <div className="flex items-start gap-2">
                 <span className="font-bold text-stone-800 min-w-[60px]">住所:</span>
-                <span>{HOTEL_DATA.karuizawa_yutorelo.address}</span>
+                <span>{HOTEL_DATA.takachiho_yamatoya.address}</span>
               </div>
               <div className="flex items-start gap-2">
                 <span className="font-bold text-stone-800 min-w-[60px]">アクセス:</span>
-                <span>{HOTEL_DATA.karuizawa_yutorelo.access}</span>
+                <span>{HOTEL_DATA.takachiho_yamatoya.access}</span>
               </div>
               <div className="flex items-start gap-2">
                 <span className="font-bold text-stone-800 min-w-[60px]">参考料金:</span>
-                <span className="text-rose-600 font-bold">1名あたり {HOTEL_DATA.karuizawa_yutorelo.minCharge.toLocaleString()}円〜（目安）</span>
+                <span className="text-rose-600 font-bold">1名あたり {HOTEL_DATA.takachiho_yamatoya.minCharge.toLocaleString()}円〜（目安）</span>
               </div>
             </div>
 
             <div className="flex flex-col sm:flex-row gap-3">
               <a
-                href={HOTEL_DATA.karuizawa_yutorelo.planUrl || HOTEL_DATA.karuizawa_yutorelo.url}
+                href={HOTEL_DATA.takachiho_yamatoya.planUrl || HOTEL_DATA.takachiho_yamatoya.url}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex-1 bg-red-600 hover:bg-red-700 text-white font-bold py-3.5 px-6 rounded-xl text-center shadow-md transition-all text-sm md:text-base flex items-center justify-center gap-2"
@@ -242,7 +242,7 @@ export default function FeatureArticlePage() {
                 <span>➔</span>
               </a>
               <a
-                href={HOTEL_DATA.karuizawa_yutorelo.reviewUrl || HOTEL_DATA.karuizawa_yutorelo.url}
+                href={HOTEL_DATA.takachiho_yamatoya.reviewUrl || HOTEL_DATA.takachiho_yamatoya.url}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-stone-100 hover:bg-stone-200 text-stone-700 font-bold py-3.5 px-5 rounded-xl text-center border border-stone-300 text-sm transition-all"
@@ -257,44 +257,44 @@ export default function FeatureArticlePage() {
             <div className="flex flex-wrap items-center justify-between gap-2 mb-4 pb-3 border-b border-stone-200">
               <div className="flex items-center gap-2">
                 <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded-md">厳選の宿 3</span>
-                <h3 className="text-lg md:text-2xl font-bold text-stone-900">{HOTEL_DATA.karuizawa_harvest.name}</h3>
+                <h3 className="text-lg md:text-2xl font-bold text-stone-900">{HOTEL_DATA.takachiho_imakuni.name}</h3>
               </div>
               <div className="text-xs bg-amber-100 text-amber-900 font-semibold px-2.5 py-1 rounded-full">
-                ★ {HOTEL_DATA.karuizawa_harvest.rating} ({HOTEL_DATA.karuizawa_harvest.reviews}件)
+                ★ {HOTEL_DATA.takachiho_imakuni.rating} ({HOTEL_DATA.takachiho_imakuni.reviews}件)
               </div>
             </div>
 
             <div className="mb-6 rounded-xl overflow-hidden shadow-inner aspect-video relative bg-stone-200">
               <img
-                src={HOTEL_DATA.karuizawa_harvest.img}
-                alt={HOTEL_DATA.karuizawa_harvest.name}
+                src={HOTEL_DATA.takachiho_imakuni.img}
+                alt={HOTEL_DATA.takachiho_imakuni.name}
                 className="w-full h-full object-cover"
                 loading="lazy"
               />
             </div>
 
             <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-6">
-              {HOTEL_DATA.karuizawa_harvest.special}。旅の目的に合わせて快適に過ごせる温かなおもてなしと充実の設備が魅力。観光や散策の拠点として最適で、心地よい秋の滞在を叶えてくれます。
+              {HOTEL_DATA.takachiho_imakuni.special}。旅の目的に合わせて快適に過ごせる温かなおもてなしと充実の設備が魅力。観光や散策の拠点として最適で、心地よい秋の滞在を叶えてくれます。
             </p>
 
             <div className="bg-stone-50 rounded-xl p-4 text-xs md:text-sm text-stone-600 space-y-2 mb-6 border border-stone-200">
               <div className="flex items-start gap-2">
                 <span className="font-bold text-stone-800 min-w-[60px]">住所:</span>
-                <span>{HOTEL_DATA.karuizawa_harvest.address}</span>
+                <span>{HOTEL_DATA.takachiho_imakuni.address}</span>
               </div>
               <div className="flex items-start gap-2">
                 <span className="font-bold text-stone-800 min-w-[60px]">アクセス:</span>
-                <span>{HOTEL_DATA.karuizawa_harvest.access}</span>
+                <span>{HOTEL_DATA.takachiho_imakuni.access}</span>
               </div>
               <div className="flex items-start gap-2">
                 <span className="font-bold text-stone-800 min-w-[60px]">参考料金:</span>
-                <span className="text-rose-600 font-bold">1名あたり {HOTEL_DATA.karuizawa_harvest.minCharge.toLocaleString()}円〜（目安）</span>
+                <span className="text-rose-600 font-bold">1名あたり {HOTEL_DATA.takachiho_imakuni.minCharge.toLocaleString()}円〜（目安）</span>
               </div>
             </div>
 
             <div className="flex flex-col sm:flex-row gap-3">
               <a
-                href={HOTEL_DATA.karuizawa_harvest.planUrl || HOTEL_DATA.karuizawa_harvest.url}
+                href={HOTEL_DATA.takachiho_imakuni.planUrl || HOTEL_DATA.takachiho_imakuni.url}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex-1 bg-red-600 hover:bg-red-700 text-white font-bold py-3.5 px-6 rounded-xl text-center shadow-md transition-all text-sm md:text-base flex items-center justify-center gap-2"
@@ -303,7 +303,7 @@ export default function FeatureArticlePage() {
                 <span>➔</span>
               </a>
               <a
-                href={HOTEL_DATA.karuizawa_harvest.reviewUrl || HOTEL_DATA.karuizawa_harvest.url}
+                href={HOTEL_DATA.takachiho_imakuni.reviewUrl || HOTEL_DATA.takachiho_imakuni.url}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-stone-100 hover:bg-stone-200 text-stone-700 font-bold py-3.5 px-5 rounded-xl text-center border border-stone-300 text-sm transition-all"
@@ -351,21 +351,21 @@ export default function FeatureArticlePage() {
             </h3>
             <ul className="space-y-4 text-xs md:text-sm">
               <li>
-                <a href={HOTEL_DATA.karuizawa_greenplaza.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.karuizawa_greenplaza.name}</div>
-                  <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.karuizawa_greenplaza.rating} | 楽天トラベルで詳細確認</div>
+                <a href={HOTEL_DATA.takachiho_shinsen.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
+                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.takachiho_shinsen.name}</div>
+                  <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.takachiho_shinsen.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
-                <a href={HOTEL_DATA.karuizawa_yutorelo.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.karuizawa_yutorelo.name}</div>
-                  <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.karuizawa_yutorelo.rating} | 楽天トラベルで詳細確認</div>
+                <a href={HOTEL_DATA.takachiho_yamatoya.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
+                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.takachiho_yamatoya.name}</div>
+                  <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.takachiho_yamatoya.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
               <li>
-                <a href={HOTEL_DATA.karuizawa_harvest.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
-                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.karuizawa_harvest.name}</div>
-                  <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.karuizawa_harvest.rating} | 楽天トラベルで詳細確認</div>
+                <a href={HOTEL_DATA.takachiho_imakuni.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
+                  <div className="font-bold text-stone-800 line-clamp-1">{HOTEL_DATA.takachiho_imakuni.name}</div>
+                  <div className="text-stone-500 text-xs mt-1">★ {HOTEL_DATA.takachiho_imakuni.rating} | 楽天トラベルで詳細確認</div>
                 </a>
               </li>
             </ul>
