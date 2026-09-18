@@ -309,6 +309,7 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【おすすめ宿】ＨＯＴＥＬ　ｎａｎｖａｎ浜名湖の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/84698): ＨＯＴＥＬ　ｎａｎｖａｎ浜名湖（静岡県）
 - [【宮崎県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/10893): 塩原温泉　割烹旅館　湯の花荘（宮崎県）
 - [【おすすめ宿】薬湯風呂　ホテルグランテラス帯広（ＢＢＨホテルグループ）の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/500): 薬湯風呂　ホテルグランテラス帯広（ＢＢＨホテルグループ）（北海道）
 - [【岐阜県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/885): ホテルリソル岐阜（岐阜県）
@@ -346,7 +347,6 @@
 - [熱海温泉　海辺の宿　長濱苑のリアル宿泊記！温泉・客室・朝食バイキングの本音口コミ評判｜静岡県](https://croud-travel.pages.dev/posts/73924): 熱海温泉　海辺の宿　長濱苑（静岡県）
 - [戸倉上山田温泉　有田屋旅館のリアル宿泊記！温泉・客室・朝食バイキングの本音口コミ評判｜長野県](https://croud-travel.pages.dev/posts/75165): 戸倉上山田温泉　有田屋旅館（長野県）
 - [天然湧出信貴山温泉　信貴山観光ホテルのリアル宿泊記！温泉・客室・朝食バイキングの本音口コミ評判｜奈良県](https://croud-travel.pages.dev/posts/8137): 天然湧出信貴山温泉　信貴山観光ホテル（奈良県）
-- [ＨＯＴＥＬ　ｎａｎｖａｎ浜名湖のリアル宿泊記！温泉・客室・朝食バイキングの本音口コミ評判｜静岡県](https://croud-travel.pages.dev/posts/84698): ＨＯＴＥＬ　ｎａｎｖａｎ浜名湖（静岡県）
 - [おごと温泉　びわ湖花街道のリアル宿泊記！温泉・客室・朝食バイキングの本音口コミ評判｜滋賀県](https://croud-travel.pages.dev/posts/8798): おごと温泉　びわ湖花街道（滋賀県）
 - [オリエントホテル高知のリアル宿泊記！温泉・客室・朝食バイキングの本音口コミ評判｜高知県](https://croud-travel.pages.dev/posts/9484): オリエントホテル高知（高知県）
 - [フォレストリゾート山の手ホテルのリアル宿泊記！温泉・客室・朝食バイキングの本音口コミ評判｜秋田県](https://croud-travel.pages.dev/posts/akita-famous-kiritanpo-hinai-sake-hotels-guide): フォレストリゾート山の手ホテル（秋田県）
