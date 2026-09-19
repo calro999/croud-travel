@@ -60,7 +60,7 @@ function generatePageCode(p) {
       key: k,
       hotelNo: raw.hotelNo,
       hotelName: raw.hotelName,
-      hotelImageUrl: raw.hotelImageUrl || 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80',
+      hotelImageUrl: raw.hotelImageUrl || 'https://img.travel.rakuten.co.jp/share/HOTEL/1019/1019.jpg',
       hotelMinCharge: raw.hotelMinCharge || 15000,
       reviewAverage: raw.reviewAverage || 4.5,
       reviewCount: raw.reviewCount || 100,

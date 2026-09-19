@@ -1,6 +1,6 @@
 # 一人旅こそ「部屋食×客室露天風呂」へ！誰にも邪魔されないおひとり様極上リトリート宿
 
-![客室の専用露天風呂から眺める緑豊かな自然](https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80)
+![客室の専用露天風呂から眺める緑豊かな自然](https://img.travel.rakuten.co.jp/share/HOTEL/4904/4904.jpg)
 *▲ 好きな時に好きなだけ名湯に浸かる。客室露天風呂付きの部屋で過ごす贅沢な休日*
 
 「誰にも気を使わず、心ゆくまで温泉に浸かってぼーっとしたい」
@@ -27,7 +27,7 @@
 
 ---
 
-![和室に並ぶ繊細な旬の会席料理](https://images.unsplash.com/photo-1578683010236-d716f9a3f461?auto=format&fit=crop&w=1200&q=80)
+![和室に並ぶ繊細な旬の会席料理](https://img.travel.rakuten.co.jp/share/HOTEL/4904/4904.jpg)
 *▲ 季節の食材をふんだんに使った会席料理。誰にも邪魔されず味わう時間は格別です*
 
 ## おひとり様歓迎！部屋食＆名湯が自慢の厳選宿

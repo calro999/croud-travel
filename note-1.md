@@ -1,6 +1,6 @@
 # 東京から草津温泉へ行くなら高速バス一択！乗り換えなしで直行する裏技とおすすめ湯畑宿
 
-![草津温泉の湯畑と立ち上る湯けむり](https://images.unsplash.com/photo-1545569341-9eb8b30979d9?auto=format&fit=crop&w=1200&q=80)
+![草津温泉の湯畑と立ち上る湯けむり](https://img.travel.rakuten.co.jp/share/HOTEL/189254/189254.jpg)
 *▲ 毎分4,000リットル以上の源泉が湧き出る草津温泉・湯畑のシンボル*
 
 「今度の休み、草津温泉でゆっくりしたいな」
@@ -37,7 +37,7 @@ https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3
 
 ---
 
-![草津温泉の足湯や街歩き](https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1200&q=80)
+![草津温泉の足湯や街歩き](https://img.travel.rakuten.co.jp/share/HOTEL/189254/189254.jpg)
 *▲ 風情あふれる温泉街。到着したらすぐに浴衣で街歩きへ繰り出せます*
 
 ## 草津を満喫するなら「湯畑から徒歩5分以内」の宿を選ぶべし

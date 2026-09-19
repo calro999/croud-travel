@@ -275,7 +275,7 @@ export default function Page() {
               const h = allHotels[item.key] || {};
               const name = h.hotelName || 'おすすめ温泉旅館';
               const minCharge = h.hotelMinCharge ? h.hotelMinCharge.toLocaleString() : '15,000';
-              const img = h.hotelImageUrl || 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1000&q=80';
+              const img = h.hotelImageUrl || 'https://img.travel.rakuten.co.jp/share/HOTEL/1019/1019.jpg';
               const rating = (h.reviewAverage && h.reviewAverage > 0) ? h.reviewAverage.toFixed(1) : (typeof h.userReview === 'number' ? h.userReview.toFixed(1) : '4.6');
               const reviewCount = h.reviewCount || 300;
               const affLink = h.affiliateUrl || officialFurusatoAffUrl;

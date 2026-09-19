@@ -309,6 +309,9 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【三重県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/13550): 湯の山温泉　三峯園（三重県）
+- [【おすすめ宿】温湯温泉　飯塚旅館の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/84875): 温湯温泉　飯塚旅館（青森県）
+- [【島根県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/54096): 萩温泉郷　夕景の宿　海のゆりかご　萩小町（島根県）
 - [【おすすめ宿】ＨＯＴＥＬ　ｎａｎｖａｎ浜名湖の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/84698): ＨＯＴＥＬ　ｎａｎｖａｎ浜名湖（静岡県）
 - [【宮崎県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/10893): 塩原温泉　割烹旅館　湯の花荘（宮崎県）
 - [【おすすめ宿】薬湯風呂　ホテルグランテラス帯広（ＢＢＨホテルグループ）の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/500): 薬湯風呂　ホテルグランテラス帯広（ＢＢＨホテルグループ）（北海道）
@@ -356,6 +359,3 @@
 - [【秋の定山渓温泉】札幌の奥座敷！燃えるような渓谷の紅葉と名湯に癒やされる厳選旅館10選](https://croud-travel.pages.dev/posts/autumn-hokkaido-jozankei-10selection): 豊平川の渓谷美を彩る錦秋のパノラマ。展望露天風呂や足湯カフェ、北海道の秋の味覚バイキングを満喫（北海道）
 - [【関西・秋の松茸グルメ旅】丹波松茸＆近江牛すき焼き！京都・滋賀の秋の味覚を極める名湯旅館｜失敗しないおすすめ宿ガイド](https://croud-travel.pages.dev/posts/autumn-kansai-matsutake-gourmet-guide): 京都奥座敷や琵琶湖畔で味わう丹波松茸と特選近江牛の饗宴。歴史ある湯処で深まる秋を満喫する大人の贅沢（京都府・滋賀県）
 - [【2026秋・紅葉露天風呂】錦秋の絶景に包まれる！山々が赤く染まる紅葉名所の人気温泉宿](https://croud-travel.pages.dev/posts/autumn-leaves): もみじ回廊や渓谷の鮮やかな紅葉を湯船から一望。秋の深まりを感じる極上パノラマ露天風呂特集（栃木県・京都府・長野県）
-- [【秋の松島・宮城】日本三景の絶景オーシャンビュー＆三陸の旬牡蠣・海鮮を味わう人気宿10選｜失敗しないおすすめ宿ガイド](https://croud-travel.pages.dev/posts/autumn-miyagi-matsushima-10selection): 松島湾に浮かぶ島々と朝日の絶景。秋から旬を迎える濃厚な三陸牡蠣と仙台牛、とろみのある松島温泉を満喫（宮城県）
-- [【ものづくり＆刃物の町を行く】燕三条・関・越前！職人技の鍛冶体験と美肌温泉を巡るクラフト旅｜失敗しないおすすめ宿ガイド](https://croud-travel.pages.dev/posts/blacksmith-blade-forging-artisan-onsen-hotels-guide): 世界が認める日本の鍛冶・金属加工の聖地へ。職人の工房見学や包丁研ぎ体験と、近隣の名湯宿で過ごす知的好奇心の旅（新潟県・岐阜県・福井県）
-- [ＢＢＱ×半露天風呂付き一棟貸切ホテル　ｔｅｉｈａｋｕ秩父　茶畑邸のリアル宿泊記！温泉・客室・朝食バイキングの本音口コミ評判｜埼玉県](https://croud-travel.pages.dev/posts/candeo-hotels-omiya-sky-spa-guide): ＢＢＱ×半露天風呂付き一棟貸切ホテル　ｔｅｉｈａｋｕ秩父　茶畑邸（埼玉県）

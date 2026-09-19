@@ -1,6 +1,6 @@
 # ふるさと納税は「高級旅館の宿泊券」が最強！実質2,000円で一生モノの贅沢ステイを楽しむ方法
 
-![高級旅館の落ち着いた客室と日本庭園](https://images.unsplash.com/photo-1566665797739-1674de7a421a?auto=format&fit=crop&w=1200&q=80)
+![高級旅館の落ち着いた客室と日本庭園](https://img.travel.rakuten.co.jp/share/HOTEL/28670/28670.jpg)
 *▲ 日常の喧騒を離れ、洗練されたおもてなしと四季折々の旬の美味に浸る旅*
 
 「今年のふるさと納税、お肉やお米もいいけれど、冷凍庫がいっぱいで頼むものに困っている…」
@@ -32,7 +32,7 @@ https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3
 
 ---
 
-![旅館で供される豪華な和牛や旬の刺身盛り](https://images.unsplash.com/photo-1615719413546-198b25453f85?auto=format&fit=crop&w=1200&q=80)
+![旅館で供される豪華な和牛や旬の刺身盛り](https://img.travel.rakuten.co.jp/share/HOTEL/28670/28670.jpg)
 *▲ その土地ならではの極上食材を堪能。ふるさと納税だからこそ味わえる贅沢*
 
 ## ふるさと納税で泊まりたい！最高峰のオールインクルーシブ名宿

@@ -29,7 +29,7 @@ export default function KyushuTravelNightsPage() {
     <div className="space-y-12 max-w-4xl mx-auto pb-16 px-4 md:px-0">
       {/* Header */}
       <div className="relative rounded-3xl overflow-hidden bg-emerald-900 p-8 md:p-14 shadow-lg">
-        <div className="absolute inset-0 opacity-20 bg-[url('https://images.unsplash.com/photo-1616428383818-fbd158e2d425?auto=format&fit=crop&q=80')] bg-cover bg-center"></div>
+        <div className="absolute inset-0 opacity-20 bg-[url('https://img.travel.rakuten.co.jp/share/HOTEL/106080/106080.jpg')] bg-cover bg-center"></div>
         <div className="relative z-10 max-w-2xl space-y-4">
           <div className="inline-block bg-teal-500 text-white text-xs font-bold px-3 py-1 rounded-sm tracking-widest">
             KYUSHU TRIP PLANNING

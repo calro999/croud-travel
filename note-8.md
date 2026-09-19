@@ -1,6 +1,6 @@
 # 夜行バスで「翌朝の腰痛＆寝不足」をゼロにする！深夜移動を極上の睡眠時間に変える神アイテム7選
 
-![夜の高速道路と長距離バスの車内イメージ](https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&w=1200&q=80)
+![夜の高速道路と長距離バスの車内イメージ](https://img.travel.rakuten.co.jp/share/HOTEL/141356/141356.jpg)
 *▲ 時間と交通費を劇的に節約できる夜行バス。装備次第で翌朝のコンディションが激変します*
 
 「新幹線代を浮かせて現地で思いっきり遊びたい！」
@@ -44,7 +44,7 @@ https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3
 
 ---
 
-![リラックスしてぐっすり眠る様子](https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=1200&q=80)
+![リラックスしてぐっすり眠る様子](https://img.travel.rakuten.co.jp/share/HOTEL/141356/141356.jpg)
 *▲ 万全のパッキングで朝まで熟睡。目覚めた瞬間から目的地での1日がスタート！*
 
 ## 遠征先で早朝から整う！大浴場付きおすすめステイ

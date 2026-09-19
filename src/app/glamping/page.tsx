@@ -625,7 +625,7 @@ export default function GlampingHubPage() {
                 <div key={idx} className="bg-slate-50 rounded-2xl overflow-hidden border border-slate-200 flex flex-col hover:shadow-sm transition">
                   <div className="h-44 relative overflow-hidden bg-slate-200">
                     <img
-                      src={hotel.hotelImageUrl || "https://images.unsplash.com/photo-1510312305653-8ed496efae75?auto=format&fit=crop&w=800&q=80"}
+                      src={hotel.hotelImageUrl || "https://img.travel.rakuten.co.jp/share/HOTEL/182125/182125.jpg"}
                       alt={hotel.hotelName}
                       className="w-full h-full object-cover"
                     />

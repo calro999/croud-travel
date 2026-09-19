@@ -29,7 +29,7 @@ export default function OkinawaTravelBudgetPage() {
     <div className="space-y-12 max-w-5xl mx-auto pb-16 px-4 md:px-6">
       {/* Hero Section */}
       <div className="relative rounded-t-[3rem] rounded-b-xl overflow-hidden bg-sky-900 shadow-xl border-b-8 border-cyan-400">
-        <div className="absolute inset-0 opacity-40 bg-[url('https://images.unsplash.com/photo-1598135753163-6167c1a1ad65?auto=format&fit=crop&q=80')] bg-cover bg-center"></div>
+        <div className="absolute inset-0 opacity-40 bg-[url('https://img.travel.rakuten.co.jp/share/HOTEL/104526/104526.jpg')] bg-cover bg-center"></div>
         <div className="relative z-10 p-10 md:p-16 text-center space-y-6">
           <span className="inline-block bg-white/20 backdrop-blur-md border border-white/40 text-white text-xs font-black px-5 py-2 rounded-full tracking-widest">
             OKINAWA BUDGET SIMULATION

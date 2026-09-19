@@ -44,7 +44,7 @@ exports.PREFECTURES_DATA = [
         highlights: ["函館・湯の川温泉名所", "北海道名物", "絶景温泉"],
         gourmet: ["北海道名物料理", "地場グルメ"],
         description: "北海道の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
-        bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
+        bannerImage: "https://img.travel.rakuten.co.jp/share/HOTEL/1019/1019.jpg",
         subAreas: [
             {
                 areaName: "函館・湯の川温泉",
@@ -170,7 +170,7 @@ exports.PREFECTURES_DATA = [
         highlights: ["青森・弘前周辺名所", "青森県名物", "絶景温泉"],
         gourmet: ["青森県名物料理", "地場グルメ"],
         description: "青森県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
-        bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
+        bannerImage: "https://img.travel.rakuten.co.jp/share/HOTEL/143326/143326.jpg",
         subAreas: [
             {
                 areaName: "青森・弘前周辺",
@@ -296,7 +296,7 @@ exports.PREFECTURES_DATA = [
         highlights: ["盛岡・花巻温泉周辺名所", "岩手県名物", "絶景温泉"],
         gourmet: ["岩手県名物料理", "地場グルメ"],
         description: "岩手県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
-        bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
+        bannerImage: "https://img.travel.rakuten.co.jp/share/HOTEL/107865/107865.jpg",
         subAreas: [
             {
                 areaName: "盛岡・花巻温泉周辺",
@@ -410,7 +410,7 @@ exports.PREFECTURES_DATA = [
         highlights: ["仙台・松島・秋保温泉名所", "宮城県名物", "絶景温泉"],
         gourmet: ["宮城県名物料理", "地場グルメ"],
         description: "宮城県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
-        bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
+        bannerImage: "https://img.travel.rakuten.co.jp/share/HOTEL/108117/108117.jpg",
         subAreas: [
             {
                 areaName: "仙台・松島・秋保温泉",
@@ -536,7 +536,7 @@ exports.PREFECTURES_DATA = [
         highlights: ["秋田・角館・乳頭温泉名所", "秋田県名物", "絶景温泉"],
         gourmet: ["秋田県名物料理", "地場グルメ"],
         description: "秋田県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
-        bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
+        bannerImage: "https://img.travel.rakuten.co.jp/share/HOTEL/10789/10789.jpg",
         subAreas: [
             {
                 areaName: "秋田・角館・乳頭温泉",
@@ -650,7 +650,7 @@ exports.PREFECTURES_DATA = [
         highlights: ["山形・蔵王温泉・銀山温泉名所", "山形県名物", "絶景温泉"],
         gourmet: ["山形県名物料理", "地場グルメ"],
         description: "山形県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
-        bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
+        bannerImage: "https://img.travel.rakuten.co.jp/share/HOTEL/109154/109154.jpg",
         subAreas: [
             {
                 areaName: "山形・蔵王温泉・銀山温泉",
@@ -764,7 +764,7 @@ exports.PREFECTURES_DATA = [
         highlights: ["会津若松・裏磐梯・東山温泉名所", "福島県名物", "絶景温泉"],
         gourmet: ["福島県名物料理", "地場グルメ"],
         description: "福島県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
-        bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
+        bannerImage: "https://img.travel.rakuten.co.jp/share/HOTEL/12682/12682.jpg",
         subAreas: [
             {
                 areaName: "会津若松・裏磐梯・東山温泉",
@@ -890,7 +890,7 @@ exports.PREFECTURES_DATA = [
         highlights: ["水戸・大洗・ひたちなか名所", "茨城県名物", "絶景温泉"],
         gourmet: ["茨城県名物料理", "地場グルメ"],
         description: "茨城県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
-        bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
+        bannerImage: "https://img.travel.rakuten.co.jp/share/HOTEL/10637/10637.jpg",
         subAreas: [
             {
                 areaName: "水戸・大洗・ひたちなか",
@@ -1016,7 +1016,7 @@ exports.PREFECTURES_DATA = [
         highlights: ["日光・鬼怒川温泉名所", "栃木県名物", "絶景温泉"],
         gourmet: ["栃木県名物料理", "地場グルメ"],
         description: "栃木県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
-        bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
+        bannerImage: "https://img.travel.rakuten.co.jp/share/HOTEL/108140/108140.jpg",
         subAreas: [
             {
                 areaName: "日光・鬼怒川温泉",
@@ -1142,7 +1142,7 @@ exports.PREFECTURES_DATA = [
         highlights: ["草津温泉・伊香保温泉名所", "群馬県名物", "絶景温泉"],
         gourmet: ["群馬県名物料理", "地場グルメ"],
         description: "群馬県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
-        bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
+        bannerImage: "https://img.travel.rakuten.co.jp/share/HOTEL/104793/104793.jpg",
         subAreas: [
             {
                 areaName: "草津温泉・伊香保温泉",
@@ -1268,7 +1268,7 @@ exports.PREFECTURES_DATA = [
         highlights: ["川越・秩父・長瀞名所", "埼玉県名物", "絶景温泉"],
         gourmet: ["埼玉県名物料理", "地場グルメ"],
         description: "埼玉県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
-        bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
+        bannerImage: "https://img.travel.rakuten.co.jp/share/HOTEL/107843/107843.jpg",
         subAreas: [
             {
                 areaName: "川越・秩父・長瀞",
@@ -1394,7 +1394,7 @@ exports.PREFECTURES_DATA = [
         highlights: ["浦安・舞浜・南房総名所", "千葉県名物", "絶景温泉"],
         gourmet: ["千葉県名物料理", "地場グルメ"],
         description: "千葉県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
-        bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
+        bannerImage: "https://img.travel.rakuten.co.jp/share/HOTEL/1235/1235.jpg",
         subAreas: [
             {
                 areaName: "浦安・舞浜・南房総",
@@ -1508,7 +1508,7 @@ exports.PREFECTURES_DATA = [
         highlights: ["新宿・銀座・東京駅名所", "東京都名物", "絶景温泉"],
         gourmet: ["東京都名物料理", "地場グルメ"],
         description: "東京都の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
-        bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
+        bannerImage: "https://img.travel.rakuten.co.jp/share/HOTEL/11355/11355.jpg",
         subAreas: [
             {
                 areaName: "新宿・銀座・東京駅",
@@ -1634,7 +1634,7 @@ exports.PREFECTURES_DATA = [
         highlights: ["箱根温泉・鎌倉・横浜名所", "神奈川県名物", "絶景温泉"],
         gourmet: ["神奈川県名物料理", "地場グルメ"],
         description: "神奈川県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
-        bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
+        bannerImage: "https://img.travel.rakuten.co.jp/share/HOTEL/10956/10956.jpg",
         subAreas: [
             {
                 areaName: "箱根温泉・鎌倉・横浜",
@@ -1760,7 +1760,7 @@ exports.PREFECTURES_DATA = [
         highlights: ["越後湯沢・苗場・佐渡名所", "新潟県名物", "絶景温泉"],
         gourmet: ["新潟県名物料理", "地場グルメ"],
         description: "新潟県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
-        bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
+        bannerImage: "https://img.travel.rakuten.co.jp/share/HOTEL/107863/107863.jpg",
         subAreas: [
             {
                 areaName: "越後湯沢・苗場・佐渡",
@@ -1886,7 +1886,7 @@ exports.PREFECTURES_DATA = [
         highlights: ["富山・立山黒部・宇奈月温泉名所", "富山県名物", "絶景温泉"],
         gourmet: ["富山県名物料理", "地場グルメ"],
         description: "富山県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
-        bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
+        bannerImage: "https://img.travel.rakuten.co.jp/share/HOTEL/109045/109045.jpg",
         subAreas: [
             {
                 areaName: "富山・立山黒部・宇奈月温泉",
@@ -2000,7 +2000,7 @@ exports.PREFECTURES_DATA = [
         highlights: ["金沢・ひがし茶屋街周辺名所", "石川県名物", "絶景温泉"],
         gourmet: ["石川県名物料理", "地場グルメ"],
         description: "石川県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
-        bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
+        bannerImage: "https://img.travel.rakuten.co.jp/share/HOTEL/28073/28073.jpg",
         subAreas: [
             {
                 areaName: "金沢・ひがし茶屋街周辺",
@@ -2114,7 +2114,7 @@ exports.PREFECTURES_DATA = [
         highlights: ["あわら温泉・敦賀・若狭名所", "福井県名物", "絶景温泉"],
         gourmet: ["福井県名物料理", "地場グルメ"],
         description: "福井県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
-        bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
+        bannerImage: "https://img.travel.rakuten.co.jp/share/HOTEL/15858/15858.jpg",
         subAreas: [
             {
                 areaName: "あわら温泉・敦賀・若狭",
@@ -2240,7 +2240,7 @@ exports.PREFECTURES_DATA = [
         highlights: ["富士五湖・河口湖・石和温泉名所", "山梨県名物", "絶景温泉"],
         gourmet: ["山梨県名物料理", "地場グルメ"],
         description: "山梨県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
-        bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
+        bannerImage: "https://img.travel.rakuten.co.jp/share/HOTEL/111192/111192.jpg",
         subAreas: [
             {
                 areaName: "富士五湖・河口湖・石和温泉",
@@ -2366,7 +2366,7 @@ exports.PREFECTURES_DATA = [
         highlights: ["軽井沢・上高地・白馬名所", "長野県名物", "絶景温泉"],
         gourmet: ["長野県名物料理", "地場グルメ"],
         description: "長野県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
-        bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
+        bannerImage: "https://img.travel.rakuten.co.jp/share/HOTEL/104585/104585.jpg",
         subAreas: [
             {
                 areaName: "軽井沢・上高地・白馬",
@@ -2480,7 +2480,7 @@ exports.PREFECTURES_DATA = [
         highlights: ["飛騨高山・白川郷・下呂温泉名所", "岐阜県名物", "絶景温泉"],
         gourmet: ["岐阜県名物料理", "地場グルメ"],
         description: "岐阜県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
-        bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
+        bannerImage: "https://img.travel.rakuten.co.jp/share/HOTEL/108908/108908.jpg",
         subAreas: [
             {
                 areaName: "飛騨高山・白川郷・下呂温泉",
@@ -2606,7 +2606,7 @@ exports.PREFECTURES_DATA = [
         highlights: ["熱海・伊東・伊豆高原名所", "静岡県名物", "絶景温泉"],
         gourmet: ["静岡県名物料理", "地場グルメ"],
         description: "静岡県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
-        bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
+        bannerImage: "https://img.travel.rakuten.co.jp/share/HOTEL/128491/128491.jpg",
         subAreas: [
             {
                 areaName: "熱海・伊東・伊豆高原",
@@ -2732,7 +2732,7 @@ exports.PREFECTURES_DATA = [
         highlights: ["名古屋・知多半島名所", "愛知県名物", "絶景温泉"],
         gourmet: ["愛知県名物料理", "地場グルメ"],
         description: "愛知県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
-        bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
+        bannerImage: "https://img.travel.rakuten.co.jp/share/HOTEL/109495/109495.jpg",
         subAreas: [
             {
                 areaName: "名古屋・知多半島",
@@ -2846,7 +2846,7 @@ exports.PREFECTURES_DATA = [
         highlights: ["伊勢神宮・志摩・鳥羽名所", "三重県名物", "絶景温泉"],
         gourmet: ["三重県名物料理", "地場グルメ"],
         description: "三重県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
-        bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
+        bannerImage: "https://img.travel.rakuten.co.jp/share/HOTEL/104707/104707.jpg",
         subAreas: [
             {
                 areaName: "伊勢神宮・志摩・鳥羽",
@@ -2972,7 +2972,7 @@ exports.PREFECTURES_DATA = [
         highlights: ["琵琶湖・彦根・長浜名所", "滋賀県名物", "絶景温泉"],
         gourmet: ["滋賀県名物料理", "地場グルメ"],
         description: "滋賀県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
-        bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
+        bannerImage: "https://img.travel.rakuten.co.jp/share/HOTEL/107682/107682.jpg",
         subAreas: [
             {
                 areaName: "琵琶湖・彦根・長浜",
@@ -3090,7 +3090,7 @@ exports.PREFECTURES_DATA = [
         highlights: ["嵐山・宇治・天橋立名所", "京都府名物", "絶景温泉"],
         gourmet: ["京都府名物料理", "地場グルメ"],
         description: "京都府の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
-        bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
+        bannerImage: "https://img.travel.rakuten.co.jp/share/HOTEL/104615/104615.jpg",
         subAreas: [
             {
                 areaName: "嵐山・宇治・天橋立",
@@ -3204,7 +3204,7 @@ exports.PREFECTURES_DATA = [
         highlights: ["難波・梅田・ベイエリア名所", "大阪府名物", "絶景温泉"],
         gourmet: ["大阪府名物料理", "地場グルメ"],
         description: "大阪府の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
-        bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
+        bannerImage: "https://img.travel.rakuten.co.jp/share/HOTEL/104779/104779.jpg",
         subAreas: [
             {
                 areaName: "難波・梅田・ベイエリア",
@@ -3318,7 +3318,7 @@ exports.PREFECTURES_DATA = [
         highlights: ["有馬温泉・城崎温泉・神戸名所", "兵庫県名物", "絶景温泉"],
         gourmet: ["兵庫県名物料理", "地場グルメ"],
         description: "兵庫県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
-        bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
+        bannerImage: "https://img.travel.rakuten.co.jp/share/HOTEL/10714/10714.jpg",
         subAreas: [
             {
                 areaName: "有馬温泉・城崎温泉・神戸",
@@ -3432,7 +3432,7 @@ exports.PREFECTURES_DATA = [
         highlights: ["奈良公園・吉野山名所", "奈良県名物", "絶景温泉"],
         gourmet: ["奈良県名物料理", "地場グルメ"],
         description: "奈良県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
-        bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
+        bannerImage: "https://img.travel.rakuten.co.jp/share/HOTEL/106216/106216.jpg",
         subAreas: [
             {
                 areaName: "奈良公園・吉野山",
@@ -3558,7 +3558,7 @@ exports.PREFECTURES_DATA = [
         highlights: ["白浜温泉・勝浦・高野山名所", "和歌山県名物", "絶景温泉"],
         gourmet: ["和歌山県名物料理", "地場グルメ"],
         description: "和歌山県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
-        bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
+        bannerImage: "https://img.travel.rakuten.co.jp/share/HOTEL/145334/145334.jpg",
         subAreas: [
             {
                 areaName: "白浜温泉・勝浦・高野山",
@@ -3684,7 +3684,7 @@ exports.PREFECTURES_DATA = [
         highlights: ["鳥取砂丘・皆生温泉・三朝温泉名所", "鳥取県名物", "絶景温泉"],
         gourmet: ["鳥取県名物料理", "地場グルメ"],
         description: "鳥取県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
-        bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
+        bannerImage: "https://img.travel.rakuten.co.jp/share/HOTEL/130086/130086.jpg",
         subAreas: [
             {
                 areaName: "鳥取砂丘・皆生温泉・三朝温泉",
@@ -3802,7 +3802,7 @@ exports.PREFECTURES_DATA = [
         highlights: ["出雲大社・松江・玉造温泉名所", "島根県名物", "絶景温泉"],
         gourmet: ["島根県名物料理", "地場グルメ"],
         description: "島根県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
-        bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
+        bannerImage: "https://img.travel.rakuten.co.jp/share/HOTEL/10743/10743.jpg",
         subAreas: [
             {
                 areaName: "出雲大社・松江・玉造温泉",
@@ -3916,7 +3916,7 @@ exports.PREFECTURES_DATA = [
         highlights: ["倉敷美観地区・後楽園名所", "岡山県名物", "絶景温泉"],
         gourmet: ["岡山県名物料理", "地場グルメ"],
         description: "岡山県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
-        bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
+        bannerImage: "https://img.travel.rakuten.co.jp/share/HOTEL/10949/10949.jpg",
         subAreas: [
             {
                 areaName: "倉敷美観地区・後楽園",
@@ -4042,7 +4042,7 @@ exports.PREFECTURES_DATA = [
         highlights: ["宮島・厳島神社・尾道名所", "広島県名物", "絶景温泉"],
         gourmet: ["広島県名物料理", "地場グルメ"],
         description: "広島県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
-        bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
+        bannerImage: "https://img.travel.rakuten.co.jp/share/HOTEL/109/109.jpg",
         subAreas: [
             {
                 areaName: "宮島・厳島神社・尾道",
@@ -4168,7 +4168,7 @@ exports.PREFECTURES_DATA = [
         highlights: ["角島・萩・長門湯本温泉名所", "山口県名物", "絶景温泉"],
         gourmet: ["山口県名物料理", "地場グルメ"],
         description: "山口県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
-        bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
+        bannerImage: "https://img.travel.rakuten.co.jp/share/HOTEL/13539/13539.jpg",
         subAreas: [
             {
                 areaName: "角島・萩・長門湯本温泉",
@@ -4294,7 +4294,7 @@ exports.PREFECTURES_DATA = [
         highlights: ["鳴門・祖谷渓温泉名所", "徳島県名物", "絶景温泉"],
         gourmet: ["徳島県名物料理", "地場グルメ"],
         description: "徳島県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
-        bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
+        bannerImage: "https://img.travel.rakuten.co.jp/share/HOTEL/13994/13994.jpg",
         subAreas: [
             {
                 areaName: "鳴門・祖谷渓温泉",
@@ -4408,7 +4408,7 @@ exports.PREFECTURES_DATA = [
         highlights: ["琴平・金刀比羅宮・小豆島名所", "香川県名物", "絶景温泉"],
         gourmet: ["香川県名物料理", "地場グルメ"],
         description: "香川県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
-        bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
+        bannerImage: "https://img.travel.rakuten.co.jp/share/HOTEL/13730/13730.jpg",
         subAreas: [
             {
                 areaName: "琴平・金刀比羅宮・小豆島",
@@ -4534,7 +4534,7 @@ exports.PREFECTURES_DATA = [
         highlights: ["道後温泉・しまなみ海道名所", "愛媛県名物", "絶景温泉"],
         gourmet: ["愛媛県名物料理", "地場グルメ"],
         description: "愛媛県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
-        bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
+        bannerImage: "https://img.travel.rakuten.co.jp/share/HOTEL/11332/11332.jpg",
         subAreas: [
             {
                 areaName: "道後温泉・しまなみ海道",
@@ -4648,7 +4648,7 @@ exports.PREFECTURES_DATA = [
         highlights: ["桂浜・四万十川名所", "高知県名物", "絶景温泉"],
         gourmet: ["高知県名物料理", "地場グルメ"],
         description: "高知県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
-        bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
+        bannerImage: "https://img.travel.rakuten.co.jp/share/HOTEL/106082/106082.jpg",
         subAreas: [
             {
                 areaName: "桂浜・四万十川",
@@ -4774,7 +4774,7 @@ exports.PREFECTURES_DATA = [
         highlights: ["太宰府・糸島・柳川名所", "福岡県名物", "絶景温泉"],
         gourmet: ["福岡県名物料理", "地場グルメ"],
         description: "福岡県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
-        bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
+        bannerImage: "https://img.travel.rakuten.co.jp/share/HOTEL/1017/1017.jpg",
         subAreas: [
             {
                 areaName: "太宰府・糸島・柳川",
@@ -4900,7 +4900,7 @@ exports.PREFECTURES_DATA = [
         highlights: ["嬉野温泉・武雄・唐津名所", "佐賀県名物", "絶景温泉"],
         gourmet: ["佐賀県名物料理", "地場グルメ"],
         description: "佐賀県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
-        bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
+        bannerImage: "https://img.travel.rakuten.co.jp/share/HOTEL/107623/107623.jpg",
         subAreas: [
             {
                 areaName: "嬉野温泉・武雄・唐津",
@@ -5026,7 +5026,7 @@ exports.PREFECTURES_DATA = [
         highlights: ["ハウステンボス・雲仙温泉名所", "長崎県名物", "絶景温泉"],
         gourmet: ["長崎県名物料理", "地場グルメ"],
         description: "長崎県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
-        bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
+        bannerImage: "https://img.travel.rakuten.co.jp/share/HOTEL/108257/108257.jpg",
         subAreas: [
             {
                 areaName: "ハウステンボス・雲仙温泉",
@@ -5152,7 +5152,7 @@ exports.PREFECTURES_DATA = [
         highlights: ["黒川温泉・阿蘇山名所", "熊本県名物", "絶景温泉"],
         gourmet: ["熊本県名物料理", "地場グルメ"],
         description: "熊本県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
-        bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
+        bannerImage: "https://img.travel.rakuten.co.jp/share/HOTEL/12623/12623.jpg",
         subAreas: [
             {
                 areaName: "黒川温泉・阿蘇山",
@@ -5278,7 +5278,7 @@ exports.PREFECTURES_DATA = [
         highlights: ["別府温泉・由布院温泉名所", "大分県名物", "絶景温泉"],
         gourmet: ["大分県名物料理", "地場グルメ"],
         description: "大分県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
-        bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
+        bannerImage: "https://img.travel.rakuten.co.jp/share/HOTEL/106080/106080.jpg",
         subAreas: [
             {
                 areaName: "別府温泉・由布院温泉",
@@ -5404,7 +5404,7 @@ exports.PREFECTURES_DATA = [
         highlights: ["高千穂・青島・日南名所", "宮崎県名物", "絶景温泉"],
         gourmet: ["宮崎県名物料理", "地場グルメ"],
         description: "宮崎県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
-        bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
+        bannerImage: "https://img.travel.rakuten.co.jp/share/HOTEL/10893/10893.jpg",
         subAreas: [
             {
                 areaName: "高千穂・青島・日南",
@@ -5530,7 +5530,7 @@ exports.PREFECTURES_DATA = [
         highlights: ["指宿温泉・霧島温泉・屋久島名所", "鹿児島県名物", "絶景温泉"],
         gourmet: ["鹿児島県名物料理", "地場グルメ"],
         description: "鹿児島県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
-        bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
+        bannerImage: "https://img.travel.rakuten.co.jp/share/HOTEL/10832/10832.jpg",
         subAreas: [
             {
                 areaName: "指宿温泉・霧島温泉・屋久島",
@@ -5648,7 +5648,7 @@ exports.PREFECTURES_DATA = [
         highlights: ["石垣島・宮古島・恩納村名所", "沖縄県名物", "絶景温泉"],
         gourmet: ["沖縄県名物料理", "地場グルメ"],
         description: "沖縄県の誇る雄大な自然美と歴史ある街並み、名湯温泉、絶品ご当地グルメを満喫できる人気観光ハブ。",
-        bannerImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
+        bannerImage: "https://img.travel.rakuten.co.jp/share/HOTEL/104526/104526.jpg",
         subAreas: [
             {
                 areaName: "石垣島・宮古島・恩納村",
