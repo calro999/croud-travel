@@ -309,6 +309,9 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【おすすめ宿】湯野温泉　紫水園の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/5625): 湯野温泉　紫水園（山口県）
+- [【徳島県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/202210): ＣＯＺＹ　ＣＯＭＦＯＲＴＳ　ＨＯＴＥＬ（コージーコンフォーツホテル）２０２６年８月８日新規オープン（徳島県）
+- [【おすすめ宿】こころ和む愛犬との湯宿　桃の木温泉　さんわそうの魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/160703): こころ和む愛犬との湯宿　桃の木温泉　さんわそう（山梨県）
 - [【三重県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/13550): 湯の山温泉　三峯園（三重県）
 - [【おすすめ宿】温湯温泉　飯塚旅館の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/84875): 温湯温泉　飯塚旅館（青森県）
 - [【島根県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/54096): 萩温泉郷　夕景の宿　海のゆりかご　萩小町（島根県）
@@ -356,6 +359,3 @@
 - [伊豆熱川温泉　六つの貸切風呂を湯めぐり　ふたりの湯宿　湯花満開のリアル宿泊記！温泉・客室・朝食バイキングの本音口コミ評判｜静岡県](https://croud-travel.pages.dev/posts/atagawa-ichiryukaku-hot-spring-sea-view-guide): 伊豆熱川温泉　六つの貸切風呂を湯めぐり　ふたりの湯宿　湯花満開（静岡県）
 - [伊豆高原温泉　客室露天風呂付リゾートホテル　コルテラルゴ伊豆高原のリアル宿泊記！温泉・客室・朝食バイキングの本音口コミ評判｜静岡県](https://croud-travel.pages.dev/posts/atami-famous-things-gourmet-hotels-guide): 伊豆高原温泉　客室露天風呂付リゾートホテル　コルテラルゴ伊豆高原（静岡県）
 - [【秋の下呂温泉】日本三名泉のつるすべ美肌湯＆とろける飛騨牛会席を堪能する極上旅館10選｜失敗しないおすすめ宿ガイド](https://croud-travel.pages.dev/posts/autumn-gifu-gero-10selection): 飛騨川のせせらぎと紅葉に染まる山々。美肌効果抜群のトロトロ温泉と極上飛騨牛を心ゆくまで味わう秋の下呂旅（岐阜県）
-- [【秋の定山渓温泉】札幌の奥座敷！燃えるような渓谷の紅葉と名湯に癒やされる厳選旅館10選](https://croud-travel.pages.dev/posts/autumn-hokkaido-jozankei-10selection): 豊平川の渓谷美を彩る錦秋のパノラマ。展望露天風呂や足湯カフェ、北海道の秋の味覚バイキングを満喫（北海道）
-- [【関西・秋の松茸グルメ旅】丹波松茸＆近江牛すき焼き！京都・滋賀の秋の味覚を極める名湯旅館｜失敗しないおすすめ宿ガイド](https://croud-travel.pages.dev/posts/autumn-kansai-matsutake-gourmet-guide): 京都奥座敷や琵琶湖畔で味わう丹波松茸と特選近江牛の饗宴。歴史ある湯処で深まる秋を満喫する大人の贅沢（京都府・滋賀県）
-- [【2026秋・紅葉露天風呂】錦秋の絶景に包まれる！山々が赤く染まる紅葉名所の人気温泉宿](https://croud-travel.pages.dev/posts/autumn-leaves): もみじ回廊や渓谷の鮮やかな紅葉を湯船から一望。秋の深まりを感じる極上パノラマ露天風呂特集（栃木県・京都府・長野県）
