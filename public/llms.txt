@@ -309,6 +309,9 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【福島県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/149344): ホテル双葉邸（福島県）
+- [【おすすめ宿】伊東温泉　伊東園ホテル松川館の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/78235): 伊東温泉　伊東園ホテル松川館（静岡県）
+- [【沖縄県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/191586): 与那国島ホテル　むんぶステイ　空港前＜与那国島＞（沖縄県）
 - [【おすすめ宿】ホテルＳＵＩ浜松の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/182766): ホテルＳＵＩ浜松（静岡県）
 - [【熊本県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/130151): 植木温泉　和風旅館　鷹の家（熊本県）
 - [【おすすめ宿】湯野温泉　紫水園の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/5625): 湯野温泉　紫水園（山口県）
@@ -356,6 +359,3 @@
 - [戸倉上山田温泉　有田屋旅館のリアル宿泊記！温泉・客室・朝食バイキングの本音口コミ評判｜長野県](https://croud-travel.pages.dev/posts/75165): 戸倉上山田温泉　有田屋旅館（長野県）
 - [天然湧出信貴山温泉　信貴山観光ホテルのリアル宿泊記！温泉・客室・朝食バイキングの本音口コミ評判｜奈良県](https://croud-travel.pages.dev/posts/8137): 天然湧出信貴山温泉　信貴山観光ホテル（奈良県）
 - [おごと温泉　びわ湖花街道のリアル宿泊記！温泉・客室・朝食バイキングの本音口コミ評判｜滋賀県](https://croud-travel.pages.dev/posts/8798): おごと温泉　びわ湖花街道（滋賀県）
-- [オリエントホテル高知のリアル宿泊記！温泉・客室・朝食バイキングの本音口コミ評判｜高知県](https://croud-travel.pages.dev/posts/9484): オリエントホテル高知（高知県）
-- [フォレストリゾート山の手ホテルのリアル宿泊記！温泉・客室・朝食バイキングの本音口コミ評判｜秋田県](https://croud-travel.pages.dev/posts/akita-famous-kiritanpo-hinai-sake-hotels-guide): フォレストリゾート山の手ホテル（秋田県）
-- [伊豆熱川温泉　六つの貸切風呂を湯めぐり　ふたりの湯宿　湯花満開のリアル宿泊記！温泉・客室・朝食バイキングの本音口コミ評判｜静岡県](https://croud-travel.pages.dev/posts/atagawa-ichiryukaku-hot-spring-sea-view-guide): 伊豆熱川温泉　六つの貸切風呂を湯めぐり　ふたりの湯宿　湯花満開（静岡県）
