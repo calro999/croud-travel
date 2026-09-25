@@ -187,6 +187,42 @@ export default async function FeaturesPage() {
               desc: '伊豆河津・熱海のひと足早い春の絶景花見露天風呂',
               badge: '春先取り'
             },
+            {
+              slug: 'craft-beer-brewery-hotel-ranking-stay',
+              title: '🍺 クラフトビール＆ブルワリー宿',
+              desc: '軽井沢・修善寺の醸造所直結＆出来立て生ビール宿',
+              badge: 'ビール旅'
+            },
+            {
+              slug: 'dark-sky-starry-observatory-resort-stay',
+              title: '🌌 星空保護区・天体観測リゾート',
+              desc: '阿智村・八ヶ岳の満天の天の川＆大型天体望遠鏡ホテル',
+              badge: '星空ツアー'
+            },
+            {
+              slug: 'infinity-ocean-onsen-panoramic-luxury-stay',
+              title: '🌊 インフィニティ露天風呂名宿',
+              desc: '熱海・南紀白浜の海と空に溶け込むパノラマ温泉',
+              badge: '絶景温泉'
+            },
+            {
+              slug: 'girls-trip-afternoon-tea-luxury-spa-stay',
+              title: '🫖 アフタヌーンティー＆極上スパ',
+              desc: '京都・横浜の三段スタンドスイーツ＆アロマリゾート',
+              badge: '女子旅'
+            },
+            {
+              slug: 'sea-of-clouds-sky-terrace-resort-stay',
+              title: '☁️ 雲海テラス＆天空パノラマ宿',
+              desc: 'トマム・志賀高原の早朝雲上デッキ＆天空露天風呂',
+              badge: '天空ホテル'
+            },
+            {
+              slug: 'private-onsen-sauna-charter-luxury-villa',
+              title: '🏡 一棟貸切・温泉＆サウナ付きヴィラ',
+              desc: '白馬・那須の完全貸切プライベートサウナ＆源泉掛け流し',
+              badge: '一棟貸し'
+            },
           ].map(item => (
             <Link
               key={item.slug}
