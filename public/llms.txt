@@ -309,6 +309,8 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【栃木県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/29203): 鬼怒川温泉　一心舘（栃木県）
+- [【おすすめ宿】ホテル奈良さくらいの郷の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/184470): ホテル奈良さくらいの郷（奈良県）
 - [【和歌山県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/13461): 温泉民宿　小阪屋　本館（和歌山県）
 - [【おすすめ宿】ホテル　いこい＜奈良県＞の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/8706): ホテル　いこい＜奈良県＞（奈良県）
 - [【岐阜県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/195907): Ｔｈｅ　Ｂｏｏｋ　ｌｏｕｎｇｅ　Ｈｏｔｅｌ　ＫＡＮＩ（岐阜県）
@@ -357,5 +359,3 @@
 - [【香川県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/84770): ホテル　パールガーデン（香川県）
 - [【おすすめ宿】神山温泉　ホテル四季の里＆いやしの湯の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/14442): 神山温泉　ホテル四季の里＆いやしの湯（徳島県）
 - [リーガロイヤルホテル広島のリアル宿泊記！温泉・客室・朝食バイキングの本音口コミ評判｜広島県](https://croud-travel.pages.dev/posts/109): リーガロイヤルホテル広島（広島県）
-- [ホテル　さつき苑のリアル宿泊記！温泉・客室・朝食バイキングの本音口コミ評判｜鹿児島県](https://croud-travel.pages.dev/posts/109094): ホテル　さつき苑（鹿児島県）
-- [うきは温泉　ふくせんかのリアル宿泊記！温泉・客室・朝食バイキングの本音口コミ評判｜福岡県](https://croud-travel.pages.dev/posts/129948): うきは温泉　ふくせんか（福岡県）

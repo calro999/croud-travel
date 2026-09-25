@@ -223,6 +223,42 @@ export default async function FeaturesPage() {
               desc: '白馬・那須の完全貸切プライベートサウナ＆源泉掛け流し',
               badge: '一棟貸し'
             },
+            {
+              slug: 'winery-vineyard-auberge-wine-pairing-stay',
+              title: '🍇 ワイナリー＆ワインオーベルジュ',
+              desc: '勝沼・余市の葡萄畑パノラマ＆日本ワインペアリング宿',
+              badge: 'ワイン旅'
+            },
+            {
+              slug: 'traditional-irori-charcoal-hearth-satoyama-stay',
+              title: '🔥 囲炉裏料理＆里山名湯古民家宿',
+              desc: '奥飛騨・白川郷の炭火焼き岩魚・ジビエとノスタルジー宿',
+              badge: '囲炉裏会席'
+            },
+            {
+              slug: 'medicinal-carbonated-mud-springs-healing-stay',
+              title: '🫧 炭酸泉＆泥湯・美肌薬湯治宿',
+              desc: '長湯温泉・別府のシュワシュワ天然泡＆濃厚泥パック',
+              badge: '美肌湯治'
+            },
+            {
+              slug: 'aquarium-themepark-official-family-hotel-stay',
+              title: '🐬 水族館＆テーマパーク直結ホテル',
+              desc: '鴨川・美ら海などパーク直結のパスポート付き宿',
+              badge: 'パーク直結'
+            },
+            {
+              slug: 'sunset-magic-hour-oceanview-onsen-stay',
+              title: '🌇 夕日絶景・マジックアワー海宿',
+              desc: '西伊豆・夕日ヶ浦の水平線に沈む黄金の夕陽露天風呂',
+              badge: '夕日絶景'
+            },
+            {
+              slug: 'car-free-train-access-girls-trip-stay',
+              title: '🚆 車なし・駅近アクセス女子旅宿',
+              desc: '金沢・松本の新幹線・特急駅から徒歩で行ける温泉ホテル',
+              badge: '車なし旅'
+            },
           ].map(item => (
             <Link
               key={item.slug}
