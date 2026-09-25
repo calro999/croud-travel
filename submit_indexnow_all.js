@@ -2,7 +2,7 @@ const https = require('https');
 const fs = require('fs');
 const path = require('path');
 
-const KEY = 'c4d9e7284b9148d2bc079e2f9d658931';
+const KEY = 'b1c2d3e4f5a67b8c9d0e1f2a3b4c5d6e';
 const HOST = 'croud-travel.pages.dev';
 
 // サイトマップから全URLを抽出
