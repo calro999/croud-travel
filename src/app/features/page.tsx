@@ -65,7 +65,7 @@ export default async function FeaturesPage() {
       {/* ヒーローヘッダー */}
       <section className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-teal-800 via-emerald-800 to-teal-900 p-8 md:p-12 text-white shadow-md space-y-4">
         <span className="inline-block text-[10px] font-extrabold tracking-widest bg-white/20 border border-white/30 px-3.5 py-1 rounded-full uppercase">
-          EDITOR'S PICK 💎
+          EDITOR&apos;S PICK 💎
         </span>
         <h1 className="text-2xl md:text-4xl font-black font-journal-serif leading-snug">
           厳選！特集・まとめ記事一覧
@@ -156,6 +156,36 @@ export default async function FeaturesPage() {
               title: '🍵 一人旅・お部屋食の静寂温泉',
               desc: '四万・別所温泉の部屋食＆客室風呂ソロリトリート',
               badge: '一人旅'
+            },
+            {
+              slug: 'award-winning-breakfast-gourmet-hotel-ranking',
+              title: '🍳 朝食日本一・海鮮ビュッフェ',
+              desc: '函館・金沢のいくら盛り放題＆焼きたてパン名門ホテル',
+              badge: '絶品朝食'
+            },
+            {
+              slug: 'golf-resort-natural-hotspring-luxury-stay',
+              title: '⛳ 名門ゴルフ＆天然温泉リゾート',
+              desc: '川奈・軽井沢のチャンピオンコース併設温泉ホテル',
+              badge: 'ゴルフ旅'
+            },
+            {
+              slug: 'cultural-property-heritage-sukiya-ryokan-stay',
+              title: '🏛️ 登録有形文化財・名建築旅館',
+              desc: '修善寺・渋温泉の宮大工の技が息づく百年の歴史宿',
+              badge: '建築美'
+            },
+            {
+              slug: 'pet-friendly-private-dogrun-luxury-villa',
+              title: '🐶 愛犬同伴・ドッグラン付きヴィラ',
+              desc: '伊豆高原・那須の専用ドッグラン＆客室露天風呂宿',
+              badge: 'ペット旅'
+            },
+            {
+              slug: 'early-spring-kawazu-sakura-plum-blossom-hotsprings',
+              title: '🌸 早咲き河津桜＆梅まつり温泉',
+              desc: '伊豆河津・熱海のひと足早い春の絶景花見露天風呂',
+              badge: '春先取り'
             },
           ].map(item => (
             <Link

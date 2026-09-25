@@ -181,7 +181,7 @@ export default function FurusatoArticlePage() {
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
                     <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 16階「RISTORANTE E'VOLTA il Cielo」での極上イタリアン
+                      <span className="text-amber-600">✓</span> 16階「RISTORANTE E&apos;VOLTA il Cielo」での極上イタリアン
                     </h5>
                     <p className="text-stone-600 leading-relaxed">厳選された日本の食材と本場イタリアの技法が融合したコース。東京の夜景を眺めながら優雅なディナーを味わえます。</p>
                   </div>

@@ -309,7 +309,7 @@ export default function ArticlePage() {
                 <span>気軽に一人で連泊・テレワークもできる源泉宿は？</span>
               </h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
-                「蔵王温泉 BED'n ONSEN HAMMOND」はカジュアルかつ快適な滞在を提供し、自慢の白濁天然温泉を心ゆくまで堪能できます。
+                「蔵王温泉 BED&apos;n ONSEN HAMMOND」はカジュアルかつ快適な滞在を提供し、自慢の白濁天然温泉を心ゆくまで堪能できます。
               </p>
             </div>
           </div>

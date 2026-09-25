@@ -205,6 +205,17 @@
     "hotelSpecial": "【楽天ゴールド＆日本の宿アワード受賞】部屋食プラン多数★温泉街すぐ！金銀２種の温泉と神戸牛が自慢♪",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1206%2F1206.html"
   },
+  "1341": {
+    "hotelName": "函館国際ホテル",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1341/1341.jpg",
+    "hotelMinCharge": 8316,
+    "reviewAverage": 4.32,
+    "address1": "北海道",
+    "address2": "函館市大手町5-10",
+    "access": "ＪＲ函館駅から徒歩約8分／函館空港から車で約20分 バスで約30分（函館国際ホテル前下車 バス停目の前）",
+    "hotelSpecial": "3つのレストランを備えた全435室のシティホテル。本館最上階には函館港を望む天然温泉展望大浴場も。",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1341%2F1341.html"
+  },
   "1376": {
     "hotelNo": 1376,
     "hotelName": "伊東温泉　青山やまと",
@@ -2149,6 +2160,17 @@
     "hotelSpecial": "鳥羽駅からシャトルバスで5分。神宮から車で約20分。",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8529%2F8529.html"
   },
+  "8631": {
+    "hotelName": "高山龍神温泉　自家源泉１００％かけ流し　龍リゾート＆スパ",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8631/8631.jpg",
+    "hotelMinCharge": 17600,
+    "reviewAverage": 4.2,
+    "address1": "岐阜県",
+    "address2": "高山市荘川町新渕892-11",
+    "access": "車で名古屋から約90分（東海北陸自動車道「荘川I.C」より約7分）車でJR高山駅まで約50分、白川郷まで約45分",
+    "hotelSpecial": "≪PH9.1★奇跡の美肌の湯≫加水・循環・消毒薬一切無し！美食と自然に癒される魅惑のリゾート♪",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8631%2F8631.html"
+  },
   "8636": {
     "hotelNo": 8636,
     "hotelName": "有馬温泉　兵衛向陽閣",
@@ -3309,6 +3331,17 @@
     "hotelSpecial": "【庭園露天風呂「花巻満天の湯」24年11月新設】かに＆牛ステーキと揚げたて天ぷら＆釜めしフェア開催中",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F13485%2F13485.html"
   },
+  "13487": {
+    "hotelName": "あてま温泉　当間高原リゾート　ベルナティオ",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13487/13487.jpg",
+    "hotelMinCharge": 10340,
+    "reviewAverage": 4.7,
+    "address1": "新潟県",
+    "address2": "十日町市珠川",
+    "access": "【車】塩沢石打ICより約20分【新幹線】無料送迎バスにて、JR越後湯沢駅から約40分、JR十日町駅から約20分（要予約）",
+    "hotelSpecial": "9年連続アワード受賞！朝フェス2019全国1位！食事評価の高い宿全国8位！ウェルカムベビー のお宿",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F13487%2F13487.html"
+  },
   "13569": {
     "hotelNo": 13569,
     "hotelName": "マホロバ・マインズ三浦",
@@ -3385,6 +3418,17 @@
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F13743%2F13743.html",
     "featureKey": "bridge_kintaikyo",
     "featureLabel": "山口県岩国市ふるさと納税・五連のアーチが清流錦川に架かる木造美「錦帯橋」橋を一望する岩国国際観光ホテル"
+  },
+  "13811": {
+    "hotelName": "美保関温泉　旅館　美保館　国文化財の宿",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13811/13811.jpg",
+    "hotelMinCharge": 13200,
+    "reviewAverage": 4.56,
+    "address1": "島根県",
+    "address2": "松江市美保関町美保関570",
+    "access": "境港駅・米子空港よりタクシーで２０分／松江駅よりバスで１時間／米子ＩＣより３０分／送迎有（有料）",
+    "hotelSpecial": "美保湾・大山を一望。日本海の幸を満喫。国文化財・旧館の朝食も好評。７階展望大浴場。",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F13811%2F13811.html"
   },
   "13882": {
     "hotelNo": 13882,
@@ -3661,6 +3705,17 @@
     "nearestStation": "玉造温泉",
     "hotelSpecial": "滝を配した殿方露天風呂、竹林の下の女性露天風呂、保性館と無料三湯めぐりも楽しめます。",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F14708%2F14708.html"
+  },
+  "14737": {
+    "hotelName": "別邸　石の家　伊豆高原　ペットと泊まれる全室露天付き客室の宿",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14737/14737.jpg",
+    "hotelMinCharge": 16200,
+    "reviewAverage": 4.75,
+    "address1": "静岡県",
+    "address2": "伊東市大室高原6-650",
+    "access": "小田原厚木道路石橋ＩＣ・東名沼津ＩＣより約９０分／伊豆急・伊豆高原駅よりタクシーで５分",
+    "hotelSpecial": "全室お部屋食対応のペットと泊まれるホテル。全室露天風呂付客室。ペット料1頭目無料。犬以外も幅広く歓迎",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F14737%2F14737.html"
   },
   "14851": {
     "hotelNo": 14851,
@@ -3940,27 +3995,13 @@
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F16248%2F16248.html"
   },
   "16280": {
-    "hotelNo": 16280,
     "hotelName": "国登録有形文化財の宿　人吉温泉　芳野旅館",
-    "hotelKanaName": "くにとうろくゆうけいぶんかざいのやど　ひとよしおんせん　よしのりょかん",
-    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D16280",
-    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D16280%26f_flg%3DPLAN",
-    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FIWrzP%2F%3FnoTomariHotel%3D16280",
-    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D16280",
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/16280/16280.jpg",
-    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/16280.jpg",
-    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/16280/16280_w.jpg",
-    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/16280/16280map.gif",
-    "reviewCount": 129,
-    "reviewAverage": 4.55,
-    "userReview": "広々とした落ち着く部屋と素敵な中庭お部屋がとても広く落ち着く内装で良き古さも感じられリラックスできました中庭も素敵でしたクチコミの詳細はこちらから　https://review.t…　2026-09-11 20:36:48投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=16280\" class=\"3click\">つづきはこちら</a>",
     "hotelMinCharge": 7700,
+    "reviewAverage": 4.55,
     "address1": "熊本県",
     "address2": "人吉市上青井町180",
-    "telephoneNo": "0966-22-2244",
     "access": "人吉ICより車で約8分",
-    "parkingInformation": "有り　30台　無料　先着順",
-    "nearestStation": "人吉",
     "hotelSpecial": "【国登録有形文化財の宿】歴史感じる純和風旅館　源泉掛け流し天然温泉と旬の会席料理で心和むひと時を",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F16280%2F16280.html"
   },
@@ -7322,6 +7363,17 @@
     "hotelSpecial": "幾千年、伝えゆきたい日本の風雅。風情薫る欽山で雅な休日をお過ごしください。",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F53390%2F53390.html"
   },
+  "53749": {
+    "hotelName": "湯ヶ島温泉　湯ヶ島ゴルフ倶楽部＆ホテルリゾート",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/53749/53749.jpg",
+    "hotelMinCharge": 4060,
+    "reviewAverage": 4.13,
+    "address1": "静岡県",
+    "address2": "伊豆市湯ヶ島2571-10",
+    "access": "伊豆箱根鉄道駿豆線：修善寺駅から送迎バス運行　約25分　(ご利用日前日までに要予約)　詳細はお電話にてお問合せください。",
+    "hotelSpecial": "自家源泉から湧き出る美肌の湯と食材の宝庫・伊豆の味覚を楽しむ『富士山を眺めながら天空ゴルフリゾート』",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F53749%2F53749.html"
+  },
   "54102": {
     "hotelNo": 54102,
     "hotelName": "季の湯　雪月花（共立リゾート）",
@@ -9210,6 +9262,17 @@
     "hotelSpecial": "白骨温泉の源泉かけ流し湯をお楽しみ下さい。鄙びた温泉宿と大自然のパワーで癒しと全身全霊の活性を！",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F107804%2F107804.html"
   },
+  "107823": {
+    "hotelName": "ペットと泊まれる貸切天然温泉の宿　マーフィ",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/107823/107823.jpg",
+    "hotelMinCharge": 18150,
+    "reviewAverage": 4.84,
+    "address1": "静岡県",
+    "address2": "伊東市赤沢258-87",
+    "access": "伊豆高原駅からお車で約１０分 別荘地入口に関係者以外進入禁止とありますがそのままお入りください",
+    "hotelSpecial": "海を望み、緑に囲まれた温泉宿で、愛犬とゆったりした時間をお過ごし下さい。地魚や手作り和食でおもてなし",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F107823%2F107823.html"
+  },
   "108118": {
     "hotelNo": 108118,
     "hotelName": "洲本温泉　海のホテル　島花　＜淡路島＞",
@@ -9259,6 +9322,17 @@
     "nearestStation": "戸狩野沢温泉",
     "hotelSpecial": "野沢温泉の憧れの老舗温泉旅館。自然湧出する自家源泉は贅沢に掛け流され、抜群の効能を誇っています。",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F108127%2F108127.html"
+  },
+  "108580": {
+    "hotelName": "別所温泉　旅館　花屋",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108580/108580.jpg",
+    "hotelMinCharge": 28400,
+    "reviewAverage": 4.56,
+    "address1": "長野県",
+    "address2": "上田市別所温泉169番地　【文化庁登録有形文化財選定】宮大工が造った老舗旅館　大正浪漫漂う温泉宿　旅館花屋",
+    "access": "JR上田駅より乗換・上田交通別所線別所温泉駅下車徒歩約５分（当地で最も駅に近い旅館）◆上信越道上田菅平ＩＣより車で３０分",
+    "hotelSpecial": "大正浪漫漂う登録有形文化財の温泉宿～非日常の空間と温かなおもてなし、手作りの会席料理が織りなす贅沢",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F108580%2F108580.html"
   },
   "108906": {
     "hotelNo": 108906,
@@ -9762,6 +9836,17 @@
     "hotelSpecial": "【全室WiFi完備】★日光湯元白濁硫黄泉・源泉掛け流し♪自然と温泉のテーマパーク★",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F135482%2F135482.html"
   },
+  "135962": {
+    "hotelName": "松崎温泉　公共の宿　伊豆まつざき荘",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/135962/135962.jpg",
+    "hotelMinCharge": 5090,
+    "reviewAverage": 4.4,
+    "address1": "静岡県",
+    "address2": "賀茂郡松崎町江奈210-1",
+    "access": "伊豆急下田駅よりバスにて５０分　東名沼津I.C.／新東名長泉沼津ＩＣより約７６km（約90分）",
+    "hotelSpecial": "源泉掛け流し湯！最上階の展望露天からは駿河湾を一望",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F135962%2F135962.html"
+  },
   "136276": {
     "hotelNo": 136276,
     "hotelName": "岩室温泉　割烹旅館　松屋",
@@ -9786,6 +9871,17 @@
     "nearestStation": "弥彦",
     "hotelSpecial": "湯の香ゆかしき伝統の風情。味に真心、旬の生鮮食材でのおまかせ料理と源泉かけ流し貸切風呂で寛ぎ下さい。",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F136276%2F136276.html"
+  },
+  "137023": {
+    "hotelName": "イマジンホテル＆リゾート函館",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/137023/137023.jpg",
+    "hotelMinCharge": 4641,
+    "reviewAverage": 4.42,
+    "address1": "北海道",
+    "address2": "函館市湯川町3-1-17",
+    "access": "『函館空港』からお車にて約6分/『函館駅』よりお車にて約12分/バス停『熱帯植物園前』から徒歩約3分",
+    "hotelSpecial": "【楽天トラベルゴールドアワード2025受賞！】海と星空が広がる【絶景露天風呂】",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F137023%2F137023.html"
   },
   "138061": {
     "hotelNo": 138061,
@@ -10635,6 +10731,17 @@
     "hotelSpecial": "全室設置の源泉掛け流し露天と旬を彩る至極の懐石料理　雄大な箱根連山を眺めながら最上のひとときをどうぞ",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F153496%2F153496.html"
   },
+  "158403": {
+    "hotelName": "伊豆高原温泉ホテル　森の泉",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/158403/158403.jpg",
+    "hotelMinCharge": 9900,
+    "reviewAverage": 4.31,
+    "address1": "静岡県",
+    "address2": "伊東市吉田901-75",
+    "access": "【最寄り駅】川奈駅より車で約15分（※無料送迎／予約制）【最寄りIC】小田原西ICから車で約90分",
+    "hotelSpecial": "広大な大自然に佇む大人の癒し空間でオールインクルーシブを満喫◇伊豆の味覚と四季折々の景色を味わう",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F158403%2F158403.html"
+  },
   "158425": {
     "hotelNo": 158425,
     "hotelName": "別府鉄輪温泉　山荘　神和苑",
@@ -11067,6 +11174,17 @@
     "nearestStation": "",
     "hotelSpecial": "【部屋数制限、夕食時間の分散をしております】　奥入瀬に灯る小さなお宿。",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F168675%2F168675.html"
+  },
+  "168681": {
+    "hotelName": "センチュリーマリーナ函館",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/168681/168681.jpg",
+    "hotelMinCharge": 15400,
+    "reviewAverage": 4.66,
+    "address1": "北海道",
+    "address2": "函館市大手町22-13",
+    "access": "ＪＲ　函館駅より徒歩にて約５分　　函館空港より車にて約２０分",
+    "hotelSpecial": "2026年5月1日で開業7周年！　宿泊者専用の無料フィットネスジムを新設♪",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F168681%2F168681.html"
   },
   "172875": {
     "hotelNo": 172875,
@@ -11751,6 +11869,17 @@
     "nearestStation": "小布施",
     "hotelSpecial": "ひと・こと・まちをまるごとつなぐ”北斎が愛した街”小布施の宿り場",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F189051%2F189051.html"
+  },
+  "190439": {
+    "hotelName": "ペット連れもＯＫの宿一棟貸し貸別荘　アニマーレ　ｉｎ　伊豆高原　＾",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/190439/190439.jpg",
+    "hotelMinCharge": 0,
+    "reviewAverage": 0,
+    "address1": "静岡県",
+    "address2": "伊東市富戸1317-3921　ペット連れもＯＫの一棟貸し貸別荘　アニマーレ　ｉｎ　伊豆高原",
+    "access": "城ヶ崎海岸駅から徒歩で約７分",
+    "hotelSpecial": "　",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F190439%2F190439.html"
   },
   "191461": {
     "hotelNo": 191461,
