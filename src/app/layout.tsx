@@ -4,6 +4,7 @@ import Link from "next/link";
 import TravelBanner from "./components/TravelBanner";
 import SpecialCouponBanner from "./components/SpecialCouponBanner";
 import { REGIONS_MAP, PREFECTURES_DATA } from "@/data/prefecturesData";
+import BookmarksModal from "./components/BookmarksModal";
 import "./globals.css";
 
 const siteName = "日本全国・旅宿クラウド｜楽天トラベルでめぐる厳選宿・観光マガジン";
@@ -126,6 +127,8 @@ export default function RootLayout({
               <Link href="/campaigns" className="text-amber-700 hover:text-amber-600 transition flex items-center gap-1 font-black">
                 <span>🎁 お得キャンペーン</span>
               </Link>
+              <span className="text-emerald-950/20">/</span>
+              <BookmarksModal />
               <span className="text-emerald-950/20">/</span>
               <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2F" target="_blank" rel="noopener noreferrer" className="hover:text-teal-700 transition flex items-center gap-1 text-teal-900/60">
                 楽天トラベル公式 ✈️

@@ -6,6 +6,10 @@ import { Metadata } from "next";
 import RelatedPosts, { PostSummary } from "@/app/components/RelatedPosts";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 import NextSearchQuestions, { NextQuestionItem } from "@/app/components/NextSearchQuestions";
+import BookmarkButton from "@/app/components/BookmarkButton";
+import FloatingMobileCTA from "@/app/components/FloatingMobileCTA";
+import ShareButtons from "@/app/components/ShareButtons";
+import ArticleTableOfContents from "@/app/components/ArticleTableOfContents";
 import { PREFECTURES_DATA } from "@/data/prefecturesData";
 import { SPOTS_DATA } from "@/data/spotsData";
 import { CITIES_DATA } from "@/data/citiesData";
@@ -291,19 +295,30 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
       </nav>
 
       {/* メイン詳細パネル - 雑誌仕立てのレイアウト */}
-      <div className="border border-emerald-950/5 bg-white rounded-3xl p-6 md:p-12 shadow-sm space-y-8">
+      <div className="border border-emerald-950/5 bg-white rounded-3xl p-6 md:p-12 shadow-sm space-y-8 relative">
         
-        {/* ヘッダー情報 */}
+        {/* ヘッダー情報 ＆ ブックマーク */}
         <div className="space-y-4">
-          <div className="flex flex-wrap items-center gap-2.5 text-[10px] font-extrabold text-teal-900/50 uppercase tracking-widest">
-            <span>{post.date}</span>
-            <span>•</span>
-            <span className="text-amber-600 font-bold">{post.area} / {post.prefecture}</span>
-            {post.rating && (
-              <>
-                <span>•</span>
-                <span className="text-amber-500 font-bold">⭐ {post.rating}</span>
-              </>
+          <div className="flex flex-wrap items-center justify-between gap-2">
+            <div className="flex flex-wrap items-center gap-2.5 text-[10px] font-extrabold text-teal-900/50 uppercase tracking-widest">
+              <span>{post.date}</span>
+              <span>•</span>
+              <span className="text-amber-600 font-bold">{post.area} / {post.prefecture}</span>
+              {post.rating && (
+                <>
+                  <span>•</span>
+                  <span className="text-amber-500 font-bold">⭐ {post.rating}</span>
+                </>
+              )}
+            </div>
+            {!post.is_special_feature && (
+              <BookmarkButton
+                id={post.id}
+                hotelName={post.hotel_name}
+                image={post.image}
+                prefecture={post.prefecture}
+                area={post.area}
+              />
             )}
           </div>
           <h1 className="text-2xl md:text-4xl font-black font-journal-serif leading-snug text-emerald-950">
@@ -348,11 +363,20 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
         {/* 期間限定：スペシャルクーポンWEEK特大バナー（アイキャッチ直下の特等席） */}
         <SpecialCouponBanner />
 
+        {/* 目次 ＆ 読了目安時間 */}
+        <ArticleTableOfContents
+          hasGallery={Boolean(post.other_images && post.other_images.length > 0)}
+          hasFaq={!post.is_special_feature}
+          hasSpots={true}
+          isSpecialFeature={post.is_special_feature}
+          wordCount={(post.review || "").length}
+        />
+
         {/* 宿情報サマリーからギャラリーまでは通常記事のみ表示 */}
         {!post.is_special_feature && (
           <>
             {/* 宿情報サマリー */}
-            <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 p-6 rounded-2xl bg-emerald-50/20 border border-emerald-950/5 text-xs text-emerald-950">
+            <div id="section-summary" className="scroll-mt-24 grid grid-cols-1 sm:grid-cols-2 gap-4 p-6 rounded-2xl bg-emerald-50/20 border border-emerald-950/5 text-xs text-emerald-950">
               <div className="space-y-1">
                 <span className="text-teal-900/50 font-extrabold uppercase tracking-wider block text-[9px]">正式宿泊施設名</span>
                 <span className="font-bold text-sm text-teal-950">
@@ -371,7 +395,7 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
 
             {/* 宿泊施設 詳細情報 */}
             { (post.recommended_for || post.nearby_tourist_spots || post.parking_info || post.family_friendly || post.hot_spring_info || post.nearby_gourmet || post.meal_availability) && (
-              <div className="grid grid-cols-1 md:grid-cols-2 gap-4 p-6 rounded-2xl bg-teal-50/30 border border-teal-900/10 text-sm mt-4">
+              <div id="section-features" className="scroll-mt-24 grid grid-cols-1 md:grid-cols-2 gap-4 p-6 rounded-2xl bg-teal-50/30 border border-teal-900/10 text-sm mt-4">
                 {post.recommended_for && post.recommended_for.length > 0 && (
                   <div className="space-y-1">
                     <span className="text-teal-900/60 font-extrabold uppercase text-[10px]">この宿がおすすめな人</span>
@@ -431,7 +455,7 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
               if (matchedSpots.length === 0) return null;
 
               return (
-                <div className="p-6 rounded-2xl bg-amber-50/60 border border-amber-300/60 space-y-3 mt-4">
+                <div id="section-spots" className="scroll-mt-24 p-6 rounded-2xl bg-amber-50/60 border border-amber-300/60 space-y-3 mt-4">
                   <span className="text-[10px] font-extrabold text-amber-900 uppercase tracking-widest block">
                     🗺️ {post.hotel_name}からすぐ行ける周辺の絶景観光名所解説ガイド
                   </span>
@@ -454,7 +478,7 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
 
             {/* 宿のギャラリー画像 */}
             {post.other_images && post.other_images.length > 0 && (
-              <div className="space-y-4 pt-8 border-t border-emerald-950/5">
+              <div id="section-gallery" className="scroll-mt-24 space-y-4 pt-8 border-t border-emerald-950/5">
                 <h3 className="text-xs font-extrabold text-teal-900/60 uppercase tracking-widest">
                   ▼ 施設ギャラリー（客室・お風呂・館内）
                 </h3>
@@ -479,10 +503,19 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
         )}
 
         {/* 旅ライターによる極上ルポ */}
-        <div className="prose prose-emerald max-w-none text-emerald-950/80 space-y-6 leading-relaxed text-sm md:text-base font-medium pt-8 border-t border-emerald-950/5">
+        <div id="section-report" className="scroll-mt-24 prose prose-emerald max-w-none text-emerald-950/80 space-y-6 leading-relaxed text-sm md:text-base font-medium pt-8 border-t border-emerald-950/5">
           <div
             className="review-content-html"
             dangerouslySetInnerHTML={{ __html: post.review }}
+          />
+        </div>
+
+        {/* SNSシェアボタン（記事読了後） */}
+        <div className="pt-6 border-t border-emerald-950/5">
+          <ShareButtons
+            title={post.title}
+            url={`${baseUrl}/posts/${post.id}`}
+            hotelName={post.hotel_name}
           />
         </div>
 
@@ -490,12 +523,12 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
         {!post.is_special_feature && (
           <>
             {/* 予約前の割引クーポン獲得プッシュ（読了後の一番ホットなタイミング） */}
-            <div className="pt-8 border-t border-emerald-950/5">
+            <div className="pt-6 border-t border-emerald-950/5">
               <SpecialCouponBanner />
             </div>
 
             {/* 楽天トラベル公式プラン予約 CTAボタン */}
-            <div className="pt-6 text-center space-y-4">
+            <div id="section-booking" className="scroll-mt-24 pt-6 text-center space-y-4">
               <a
                 href={post.affiliate_url}
                 target="_blank"
@@ -510,7 +543,7 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
             </div>
 
             {/* AI-SEO (GEO) ＆ ユーザー満足度向上の FAQ (よくある質問) */}
-            <div className="pt-10 border-t border-emerald-950/10 space-y-6">
+            <div id="section-faq" className="scroll-mt-24 pt-10 border-t border-emerald-950/10 space-y-6">
               <h3 className="text-lg md:text-xl font-bold font-journal-serif text-emerald-950 flex items-center gap-2">
                 <span>❓</span> <span>{post.prefecture}旅行・{post.hotel_name}に関するよくある質問（FAQ）</span>
               </h3>
@@ -615,6 +648,15 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
         />
 
       </div>
+
+      {/* モバイル固定CTAバー */}
+      {!post.is_special_feature && (
+        <FloatingMobileCTA
+          affiliateUrl={post.affiliate_url}
+          hotelName={post.hotel_name}
+          price={post.price}
+        />
+      )}
     </div>
   );
 }

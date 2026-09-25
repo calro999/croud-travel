@@ -658,27 +658,13 @@
     "featureLabel": "青森県むつ市・風間浦村ふるさと納税・天然ヒバの清々しいアロマと渓流露天「青森ヒバ美林」下北半島名湯ステイ"
   },
   "3033": {
-    "hotelNo": 3033,
     "hotelName": "万座温泉　日進舘",
-    "hotelKanaName": "まんざおんせん　にっしんかん",
-    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D3033",
-    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D3033%26f_flg%3DPLAN",
-    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FIWrzP%2F%3FnoTomariHotel%3D3033",
-    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D3033",
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/3033/3033.jpg",
-    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/3033.jpg",
-    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/3033/3033_rm1.jpg",
-    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/3033/3033map.gif",
-    "reviewCount": 2481,
+    "hotelMinCharge": 7320,
     "reviewAverage": 4.23,
-    "userReview": "万座温泉裏切りませんお風呂最高でした。また訪れたい宿が一つ増えました。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voi…　2026-09-05 19:31:16投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=3033\" class=\"3click\">つづきはこちら</a>",
-    "hotelMinCharge": 6590,
     "address1": "群馬県",
     "address2": "吾妻郡嬬恋村大字干俣万座温泉２４０１",
-    "telephoneNo": "0279-97-3131",
     "access": "上信越自動車道碓氷軽井沢ＩＣより車で９０分。",
-    "parkingInformation": "有り　１００台　無料",
-    "nearestStation": "万座・鹿沢口",
     "hotelSpecial": "標高1800ｍ万座温泉の老舗宿『日進舘』＜エントリーで最大ポイント15倍！得旅キャンペーン実施中！＞",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F3033%2F3033.html"
   },
@@ -1184,6 +1170,17 @@
     "hotelSpecial": "◆2018年雪見露天風呂ランキング全国1位！2016年年間人気温泉宿ランキング♪全国2位！◆",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5723%2F5723.html"
   },
+  "5735": {
+    "hotelName": "越後湯沢温泉　音羽屋旅館",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5735/5735.jpg",
+    "hotelMinCharge": 5500,
+    "reviewAverage": 4.13,
+    "address1": "新潟県",
+    "address2": "南魚沼郡湯沢町湯沢419",
+    "access": "JR上越新幹線、越後湯沢駅西口より徒歩７分。関越自動車道、越後湯沢ＩＣより、越後湯沢駅方面に向かって約6分。駐車場完備。",
+    "hotelSpecial": "温泉街中央高台にあり、料理自慢・風呂自慢のこじんまりとした純和風宿",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5735%2F5735.html"
+  },
   "5822": {
     "hotelNo": 5822,
     "hotelName": "エースイン・松阪",
@@ -1437,6 +1434,17 @@
     "nearestStation": "諫早",
     "hotelSpecial": "2023年客室リニューアル！四季の恵みの会席料理、厳選かけ流しの絶景露天風呂が自慢の福を結ぶ癒しの宿",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F6194%2F6194.html"
+  },
+  "6267": {
+    "hotelName": "岸権旅館　石段街隣接　希少源泉「黄金の湯」の宿",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/6267/6267.jpg",
+    "hotelMinCharge": 9900,
+    "reviewAverage": 4.47,
+    "address1": "群馬県",
+    "address2": "渋川市伊香保町伊香保甲48",
+    "access": "関越自動車道　渋川伊��保ＩＣから車で２０分　上越線渋川駅下車バスで３０分、タクシー１５分",
+    "hotelSpecial": "露天・大浴場・貸切など全てが「黄金の湯」地産地消にこだわった創作会席と絶景が自慢の老舗旅館",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F6267%2F6267.html"
   },
   "7013": {
     "hotelNo": 7013,
@@ -1718,27 +1726,13 @@
     "featureLabel": "静岡県静岡市清水区ふるさと納税・羽衣伝説と世界遺産富士山を望む白砂青松「三保松原」三保シーサイドステイ"
   },
   "7335": {
-    "hotelNo": 7335,
     "hotelName": "那須温泉　ホテルエピナール那須",
-    "hotelKanaName": "なすおんせん　えぴなーる　なす",
-    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D7335",
-    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D7335%26f_flg%3DPLAN",
-    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FIWrzP%2F%3FnoTomariHotel%3D7335",
-    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D7335",
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7335/7335.jpg",
-    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/7335.jpg",
-    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7335/7335_poor.jpg",
-    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7335/7335map.gif",
-    "reviewCount": 8540,
-    "reviewAverage": 4.44,
-    "userReview": "バイキングと便利な設備で3回目のリピートバイキングがどれも美味しかったです。特にローストビーフと、那須牛乳を使ったバニラアイスが最高でした。また、廊下に氷とウォーターサーバーが設置してあるので…　2026-09-05 21:35:05投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=7335\" class=\"3click\">つづきはこちら</a>",
     "hotelMinCharge": 7770,
+    "reviewAverage": 4.44,
     "address1": "栃木県",
     "address2": "那須郡那須町大字高久丙１番地",
-    "telephoneNo": "0287-78-6000",
-    "access": "【お車で】那須I.Cより10分、【JRで】東北新幹線・東北本線　那須塩原駅から無料シャトルバスで30分（要予約）",
-    "parkingInformation": "有り　400台　無料　先着順",
-    "nearestStation": "那須塩原",
+    "access": "【お車で】那須I.Cより10分、【JRで】東北新幹線・東���本線　那須塩原駅から無料シャトルバスで30分（要予約）",
     "hotelSpecial": "地元の旬菜にこだわる食事＆施設充実のトップリゾート",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7335%2F7335.html"
   },
@@ -1791,6 +1785,17 @@
     "nearestStation": "修善寺",
     "hotelSpecial": "文豪も愛した本館、源泉かけ流し風呂付の離れ、2021年～水の語り部(温泉風呂付）、風の語り部が誕生",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7491%2F7491.html"
+  },
+  "7518": {
+    "hotelName": "湯沢温泉（自家源泉）　ＨＯＴＥＬシャーレゆざわ銀水",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7518/7518.jpg",
+    "hotelMinCharge": 3980,
+    "reviewAverage": 4.15,
+    "address1": "新潟県",
+    "address2": "南魚沼郡湯沢町大字土樽6301-7",
+    "access": "関越道 湯沢ＩＣから１．５km。ＪＲ越後湯沢から２．５km、送迎有り。",
+    "hotelSpecial": "岩原ゲレンデまで徒歩1分！四季折々の大自然×自家源泉×美食★新潟のお米・お酒・魚介を堪能。",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7518%2F7518.html"
   },
   "7584": {
     "hotelNo": 7584,
@@ -3433,6 +3438,17 @@
     "hotelSpecial": "【絶景オーシャンビュー】皆生の老舗旅館で心安らぐひとときをお過ごしください",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F13895%2F13895.html"
   },
+  "13902": {
+    "hotelName": "四万温泉　あやめや旅館",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13902/13902.jpg",
+    "hotelMinCharge": 9360,
+    "reviewAverage": 4.62,
+    "address1": "群馬県",
+    "address2": "吾妻郡中之条町四万4238-45",
+    "access": "ＪＲ吾妻線中之条駅",
+    "hotelSpecial": "☆お子様の温泉デビューもお勧め！もう一度「ただいま」したくなる手作りのおもてなし",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F13902%2F13902.html"
+  },
   "13910": {
     "hotelNo": 13910,
     "hotelName": "びわ湖畔　おいしい湯の宿　長浜太閤温泉　浜湖月",
@@ -3459,27 +3475,13 @@
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F13910%2F13910.html"
   },
   "14007": {
-    "hotelNo": 14007,
     "hotelName": "城崎温泉　西村屋ホテル招月庭",
-    "hotelKanaName": "きのさきおんせん　にしむらやほてる　しょうげつてい",
-    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D14007",
-    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D14007%26f_flg%3DPLAN",
-    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FIWrzP%2F%3FnoTomariHotel%3D14007",
-    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D14007",
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14007/14007.jpg",
-    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/14007.jpg",
-    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14007/14007_room.jpg",
-    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14007/14007map.gif",
-    "reviewCount": 1175,
-    "reviewAverage": 4.71,
-    "userReview": "食事の美味しさとスタッフの温かい対応に感動食事の美味しさに何より驚きました。さすが西村屋だなと思いました。夕食はもちろんのこと、朝食ビュッフェで何気なく並んでいるおばんざいも美味しくて、子供が大き…　2026-08-23 16:38:25投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=14007\" class=\"3click\">つづきはこちら</a>",
     "hotelMinCharge": 35200,
+    "reviewAverage": 4.72,
     "address1": "兵庫県",
     "address2": "豊岡市城崎町湯島1016-2",
-    "telephoneNo": "0796-32-3535",
     "access": "【電車】JR城崎温泉駅から旅館組合無料乗合バスで5～15分【車】北近畿豊岡自動車道・豊岡出石ICから約18分",
-    "parkingInformation": "無料駐車場有（100台・予約不要）バイクも可",
-    "nearestStation": "城崎",
     "hotelSpecial": "かに・但馬牛など四季折々の味覚と充実したお風呂。五万坪の森林に囲まれ寛ぎのひとときを。無料駐車場有",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F14007%2F14007.html"
   },
@@ -3986,6 +3988,17 @@
     "nearestStation": "猪苗代",
     "hotelSpecial": "標高800ｍの裏磐梯高原。豊かな大自然に囲まれた、四季の移ろい感じる湖畔のリゾートホテルへようこそ！",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F16368%2F16368.html"
+  },
+  "16403": {
+    "hotelName": "舞子温泉　飯士の湯　舞子高原ホテル",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/16403/16403.jpg",
+    "hotelMinCharge": 8800,
+    "reviewAverage": 4.43,
+    "address1": "新潟県",
+    "address2": "南魚沼市舞子2056-108",
+    "access": "関越自動車道「塩沢石打IC」より直進1km、約2分！越後湯沢駅からは無料シャトルバスで約20分(春～秋は予約制)",
+    "hotelSpecial": "夏休みの早期予約がオススメ！！ホテル館内で宝探し、謎解きも開催中！",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F16403%2F16403.html"
   },
   "16423": {
     "hotelNo": 16423,
@@ -4614,6 +4627,17 @@
     "hotelSpecial": "楽天からのご予約はルートインカードのポイント特典、及びルートインHPからの予約特典は受けられません",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F19544%2F19544.html"
   },
+  "19708": {
+    "hotelName": "城崎温泉　網元の宿　蟹宿むつの屋",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19708/19708.jpg",
+    "hotelMinCharge": 18030,
+    "reviewAverage": 3.9,
+    "address1": "兵庫県",
+    "address2": "豊岡市城崎町湯島652",
+    "access": "ＪＲ城崎駅より徒歩１０分、最寄りIC：日高神鍋高原IC",
+    "hotelSpecial": "四季を通じて新鮮な海の幸をお召し上がりいただけます。外湯めぐり（外湯巡り券付き）にも便利です。",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F19708%2F19708.html"
+  },
   "19713": {
     "hotelNo": 19713,
     "hotelName": "武雄温泉　ホテル春慶屋",
@@ -4842,27 +4866,13 @@
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F20508%2F20508.html"
   },
   "20574": {
-    "hotelNo": 20574,
     "hotelName": "那須温泉　ホテルサンバレー那須",
-    "hotelKanaName": "ほてるさんばれーなす",
-    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D20574",
-    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D20574%26f_flg%3DPLAN",
-    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FIWrzP%2F%3FnoTomariHotel%3D20574",
-    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D20574",
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/20574/20574.jpg",
-    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/20574.jpg",
-    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/20574/20574_pool.jpg",
-    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/20574/20574map.gif",
-    "reviewCount": 8852,
-    "reviewAverage": 4.21,
-    "userReview": "枕を選べて安眠でき、サービスも充実枕交換していただけるので、安眠が約束されました。ウェルカムドリンクコーナーには、パウンドケーキやソフトクリーム、梅酒もあり種類豊富な上にソファでゆったり寛げる…　2026-09-05 22:42:25投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=20574\" class=\"3click\">つづきはこちら</a>",
     "hotelMinCharge": 11000,
+    "reviewAverage": 4.21,
     "address1": "栃木県",
     "address2": "那須郡那須町湯本203",
-    "telephoneNo": "0287-76-3800",
     "access": "那須塩原駅西口よりホテルまで無料バスにて約40分【要予約】、東北自動車道那須ICより「那須街道」を湯本方面へ約20分",
-    "parkingInformation": "有り　500台　無料　先着順",
-    "nearestStation": "黒磯",
     "hotelSpecial": "那須高原の中腹に9の宿泊施設がある北関東最大級の温泉リゾートホテル♪夏休みは温泉プールも営業！",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F20574%2F20574.html"
   },
@@ -5091,6 +5101,17 @@
     "hotelSpecial": "貸切温泉OPEN★新しいビュッフェと和牛しゃぶしゃぶが好評♪敷地内に英国調パブ有★八方まで徒歩3分",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F28381%2F28381.html"
   },
+  "28426": {
+    "hotelName": "全室スイート＆オーシャンビュー　ヴィラージュ伊豆高原",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28426/28426.jpg",
+    "hotelMinCharge": 5150,
+    "reviewAverage": 4.51,
+    "address1": "静岡県",
+    "address2": "伊東市富戸1317-8",
+    "access": "【電車】伊豆高原駅より無料送迎アリ：要予約　【お車】東京方面からのお客様＝石橋IC　近畿方面からのお客様＝天城高原IC",
+    "hotelSpecial": "＼全室78㎡～オーシャンビュースイート！／ 露天風呂やプール等館内アクティビティも充実♪",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F28426%2F28426.html"
+  },
   "28440": {
     "hotelNo": 28440,
     "hotelName": "鬼怒川金谷ホテル",
@@ -5192,6 +5213,17 @@
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F28760%2F28760.html",
     "featureKey": "bridge_shinkyo",
     "featureLabel": "栃木県日光市ふるさと納税・世界遺産二社一寺の玄関口を飾る朱塗りの名橋「日光神橋」伝統薫る日光金谷ホテル"
+  },
+  "29100": {
+    "hotelName": "伊豆高原温泉　海望む露天風呂付客室　夢海月(ゆめみづき)",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29100/29100.jpg",
+    "hotelMinCharge": 11500,
+    "reviewAverage": 4.38,
+    "address1": "静岡県",
+    "address2": "伊東市大室高原10丁目348",
+    "access": "車：東名高速厚木IC・沼津ＩＣより約100分／電車：伊豆急行線伊豆高原駅～シャボテン公園行・理想郷バス停～歩2分",
+    "hotelSpecial": "伊豆高原温泉のモダン旅館 ・海望む露天風呂付客室と個室で楽しむ伊豆金目鯛懐石・ニッポニア高原宿夢海月",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F29100%2F29100.html"
   },
   "29538": {
     "hotelNo": 29538,
@@ -5444,27 +5476,13 @@
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F30146%2F30146.html"
   },
   "30739": {
-    "hotelNo": 30739,
     "hotelName": "万座温泉　万座プリンスホテル",
-    "hotelKanaName": "まんざおんせん　まんざ　ぷりんすほてる",
-    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D30739",
-    "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D30739%26f_flg%3DPLAN",
-    "dpPlanListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FIWrzP%2F%3FnoTomariHotel%3D30739",
-    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FHTX0u%2F%3Ff_hotel_no%3D30739",
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/30739/30739.jpg",
-    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/30739.jpg",
-    "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/30739/30739_t1.jpg",
-    "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/30739/30739map.gif",
-    "reviewCount": 2131,
-    "reviewAverage": 3.79,
-    "userReview": "温泉は最高だが混浴ルールとカニが残念家族で利用しました。妻と娘2人。温泉は凄く良かったですが、団体客なのか混浴ルールが守られておらず家族での混浴はやめました。万座高原ホテルではちゃんとルールが…　2026-09-02 19:47:53投稿 <a href=\"https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=30739\" class=\"3click\">つづきはこちら</a>",
     "hotelMinCharge": 3893,
+    "reviewAverage": 3.79,
     "address1": "群馬県",
     "address2": "吾妻郡嬬恋村万座温泉",
-    "telephoneNo": "0279-97-1111",
     "access": "北陸新幹線「軽井沢駅南口」より送迎バスあり（約９０分：要事前予約）／上信越自動車道「碓氷軽井沢IC」より約６４km",
-    "parkingInformation": "有　１９０台　無料",
-    "nearestStation": "万座・鹿沢口",
     "hotelSpecial": "極上にごり湯と、標高1800ｍの絶景。地元食材を取り入れたバラエティ豊かなブッフェを堪能。",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F30739%2F30739.html"
   },
@@ -5492,6 +5510,17 @@
     "nearestStation": "金沢",
     "hotelSpecial": "金沢市街から車で15分～20分。金沢の奥座敷。温泉と料理と趣贅沢にお愉しみいただける宿。",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F30835%2F30835.html"
+  },
+  "31077": {
+    "hotelName": "グランドメルキュール那須高原リゾート＆スパ",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31077/31077.jpg",
+    "hotelMinCharge": 5568,
+    "reviewAverage": 4.22,
+    "address1": "栃木県",
+    "address2": "那須郡那須町高久丙4449-2",
+    "access": "◆那須ICから車で約10分◆那須スマートIC(ETC専用)から車で約21分◆ご宿泊者様限定バスフリーパス有（事前予約制）",
+    "hotelSpecial": "ウェルカムベビーの宿｜全客室にアルコール含むドリンク・軽食が楽しめるラウンジアクセス付",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31077%2F31077.html"
   },
   "31648": {
     "hotelNo": 31648,
@@ -5898,6 +5927,17 @@
     "nearestStation": "榊原温泉口",
     "hotelSpecial": "枕草子にも 【三大名泉】 と謳われた、湯治にも最適の湯宿。温泉自慢！ 堂々の【クチコミ★4.0以上】",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F37898%2F37898.html"
+  },
+  "38120": {
+    "hotelName": "伊豆北川温泉　お祝いの宿　吉祥ＣＡＲＥＮ",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38120/38120.jpg",
+    "hotelMinCharge": 26500,
+    "reviewAverage": 4.59,
+    "address1": "静岡県",
+    "address2": "賀茂郡東伊豆町奈良本1130-1",
+    "access": "伊豆熱川駅より送迎有り（13:30～16:00）",
+    "hotelSpecial": "大自然の中のかけ流し天然温泉と極上のスパトリートメントにフレンチ懐石。身体と心に安らぎのご褒美を。",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F38120%2F38120.html"
   },
   "38534": {
     "hotelNo": 38534,
@@ -7684,6 +7724,17 @@
     "hotelSpecial": "一度は訪れたいと全国から温泉ファンがやってくる。大人気の「高湯温泉」を源泉掛け流し100％で♪",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67218%2F67218.html"
   },
+  "67233": {
+    "hotelName": "四万温泉　鹿覗きの湯つるや",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/67233/67233.jpg",
+    "hotelMinCharge": 20900,
+    "reviewAverage": 4.6,
+    "address1": "群馬県",
+    "address2": "吾妻郡中之条町四万4372-1",
+    "access": "ＪＲ吾妻線　中之条駅／四万温泉行バス40分→終点下車徒歩25分（終点バス停まで送迎あり要予約）",
+    "hotelSpecial": "源泉かけ流し風呂付客室・四万温泉最奥地の至高の湯宿",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67233%2F67233.html"
+  },
   "67267": {
     "hotelNo": 67267,
     "hotelName": "いわき湯本温泉　ときわの宿　浜とく",
@@ -7733,6 +7784,17 @@
     "nearestStation": "太海",
     "hotelSpecial": "温泉SALE参加中！全室オーシャンビュー！貸切露天風呂と食事が人気☆鴨川シーワールドも車10分",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67291%2F67291.html"
+  },
+  "67434": {
+    "hotelName": "四万温泉　豊島屋",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/67434/67434.jpg",
+    "hotelMinCharge": 14900,
+    "reviewAverage": 4.5,
+    "address1": "群馬県",
+    "address2": "吾妻郡中之条町四万3887",
+    "access": "ＪＲ吾妻線　中之条駅から関越交通バス「四万温泉行き」乗車→山口バス停下車、徒歩１分",
+    "hotelSpecial": "源泉100%の温泉をかけ流し！極上美肌湯と山・川・畑の幸をふんだん使った懐石料理が自慢の温泉旅館",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67434%2F67434.html"
   },
   "67828": {
     "hotelNo": 67828,
@@ -8361,6 +8423,17 @@
     "hotelSpecial": "美しいブナ林に囲まれた静かな宿です。温泉浴や森林浴が楽しめ、ここでは時間がゆっくりと流れています。",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F72803%2F72803.html"
   },
+  "72871": {
+    "hotelName": "由布院温泉　湯富里の宿　一壷天",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/72871/72871.jpg",
+    "hotelMinCharge": 33000,
+    "reviewAverage": 4.76,
+    "address1": "大分県",
+    "address2": "由布市湯布院町川上302-7",
+    "access": "車/湯布院ICから県道216号。湯布院幹部交番を左折（7分）電車/JR由布院駅下車、車で約5分（2.5km）",
+    "hotelSpecial": "一壷天では、古(骨董品）、新、和、洋のしつらいが見事にとけ合った大人の空間と時間をご堪能下さい",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F72871%2F72871.html"
+  },
   "73909": {
     "hotelNo": 73909,
     "hotelName": "十和田ホテル",
@@ -8510,6 +8583,17 @@
     "nearestStation": "中之条",
     "hotelSpecial": "『歴史と浪漫・優雅と静寂』の旅館棟。国の重要文化財のある「山荘」・贅を尽くした「佳松亭」",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F76361%2F76361.html"
+  },
+  "76377": {
+    "hotelName": "由布院温泉　朝霧のみえる宿　ゆふいん花由",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/76377/76377.jpg",
+    "hotelMinCharge": 25520,
+    "reviewAverage": 4.7,
+    "address1": "大分県",
+    "address2": "由布市湯布院町川北913-11",
+    "access": "■湯布院ＩＣから車1分■由布院駅から車で７分程でございます。■無料送迎もございます（電話にて要予約）",
+    "hotelSpecial": "【湯布院随一の絶景＆眺望★★★★★】お客様評価5つ星！由布岳を望む眺望とPH9.2の温泉自慢の宿",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F76377%2F76377.html"
   },
   "76388": {
     "hotelNo": 76388,
@@ -8912,6 +8996,17 @@
     "nearestStation": "吉野（奈良）",
     "hotelSpecial": "◆吉野山観光の立地Ｎｏ１宿◆「金峯山寺蔵王堂」徒歩５分！2020年新設露天風呂と山の会席料理が好評◆",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F104591%2F104591.html"
+  },
+  "104780": {
+    "hotelName": "由布院温泉　お宿　有楽",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/104780/104780.jpg",
+    "hotelMinCharge": 10500,
+    "reviewAverage": 4.88,
+    "address1": "大分県",
+    "address2": "由布市湯布院町川上2868-5",
+    "access": "ＪＲ　由布院駅より徒歩にて約5分",
+    "hotelSpecial": "由布院駅や湯の坪街道にも徒歩約５分の位置にある母屋と離れ全１０室のおもてなし宿。",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F104780%2F104780.html"
   },
   "106089": {
     "hotelNo": 106089,
@@ -10121,6 +10216,17 @@
     "hotelSpecial": "【立地＆風呂5つ星★】伊香保随一の湯量を誇る「黄金の湯」かけ流しをお楽しみ下さい。",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F147464%2F147464.html"
   },
+  "147534": {
+    "hotelName": "城崎温泉　医食同源の宿　かに庵",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147534/147534.jpg",
+    "hotelMinCharge": 9900,
+    "reviewAverage": 4.28,
+    "address1": "兵庫県",
+    "address2": "豊岡市城崎町湯島690",
+    "access": "ＪＲ　城崎温泉駅より徒歩にて約７分。　大阪方面より中国道～舞鶴道～北近畿豊岡自動車道～但馬空港ＩＣ下車　約30分",
+    "hotelSpecial": "但馬牛や松葉かになど、地産地消を基本にグルメと健康を両立した6室の宿でございます。",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F147534%2F147534.html"
+  },
   "147592": {
     "hotelNo": 147592,
     "hotelName": "高見屋　最上川別邸　紅",
@@ -11245,6 +11351,17 @@
     "hotelSpecial": "【明治30年創業】満天の星空と木曽福島唯一の自家源泉、山里の郷土料理を愉しむ木曽の隠れ宿",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183120%2F183120.html"
   },
+  "183305": {
+    "hotelName": "ＴＯＣＯＲＯ．Ｍｔ．Ｆｕｊｉ　ＣＡＭＰ＆ＧＬＡＭＰＩＮＧ",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/183305/183305.jpg",
+    "hotelMinCharge": 19405,
+    "reviewAverage": 4.5,
+    "address1": "山梨県",
+    "address2": "南都留郡富士河口湖町大石2533-1",
+    "access": "河口湖駅から車で約20分　河口湖駅から施設までの無料送迎あり（要事前予約）ご利用の場合はご連絡下さい。",
+    "hotelSpecial": "富士山展望、全天候型ハイグレードグランピング施設。ドームは冷暖房完備でホテルと同等の快適に過ごせます",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183305%2F183305.html"
+  },
   "183891": {
     "hotelNo": 183891,
     "hotelName": "東横ＩＮＮ富士山大月駅",
@@ -11574,6 +11691,17 @@
     "hotelSpecial": "長野電鉄信州中野駅より徒歩3分！無料駐車場・天然温泉大浴場完備！小布施町・志賀高原へ良アクセス！",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F187457%2F187457.html"
   },
+  "187535": {
+    "hotelName": "ＭＯＳＳ十里木キャンプリゾート",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/187535/187535.jpg",
+    "hotelMinCharge": 15100,
+    "reviewAverage": 4.44,
+    "address1": "静岡県",
+    "address2": "裾野市須山2427-1",
+    "access": "御殿場駅よりお車にて約４０分",
+    "hotelSpecial": "【天然温泉×貸切湯×サウナ】で心身をリセット。富士山麓の森でととのうグランピング。",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F187535%2F187535.html"
+  },
   "187621": {
     "hotelNo": 187621,
     "hotelName": "フェアフィールド・バイ・マリオット・佐賀嬉野温泉",
@@ -11673,6 +11801,17 @@
     "nearestStation": "小林（宮崎）",
     "hotelSpecial": "雄大な霧島連山の大自然と清々しい空気　天然温泉の心地よさに包まれた癒しの空間",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F191683%2F191683.html"
+  },
+  "191841": {
+    "hotelName": "ＨＯＴＥＬ　＆　ＳＡＵＮＡ　ＦＵＪＩＮＯＳ",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/191841/191841.jpg",
+    "hotelMinCharge": 4275,
+    "reviewAverage": 4.48,
+    "address1": "静岡県",
+    "address2": "富士市横割4-8-24",
+    "access": "富士駅より徒歩約13分（JR東海道線・富士駅南口下車）｜新富士駅より徒歩約13分",
+    "hotelSpecial": "サウナとホテルの贅沢を一度に。至福のリトリート体験を、富士の巣で。　2024年8月新規OPEN！！",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F191841%2F191841.html"
   },
   "193157": {
     "hotelNo": 193157,

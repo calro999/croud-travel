@@ -96,6 +96,87 @@ export default async function FeaturesPage() {
         </Link>
       </section>
 
+      {/* ❄️ 先回り！秋冬〜春の超人気目的別・厳選比較特集 */}
+      <section className="space-y-4">
+        <div className="flex items-center justify-between border-b border-emerald-950/10 pb-3">
+          <div>
+            <span className="text-[10px] font-extrabold text-teal-800 uppercase tracking-widest block">SEARCH TREND TOPICS</span>
+            <h2 className="text-lg md:text-xl font-black font-journal-serif text-emerald-950 flex items-center gap-2">
+              <span>🔥</span> <span>注目検索トレンド！テーマ別・厳選宿比較ランキング特集</span>
+            </h2>
+          </div>
+        </div>
+
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+          {[
+            {
+              slug: 'winter-crab-gourmet-luxury-inn-ranking',
+              title: '🦀 冬の活蟹・カニ尽くし名宿',
+              desc: '城崎・三国・皆生のタグ付き松葉ガニ＆越前ガニ会席',
+              badge: '冬グルメ'
+            },
+            {
+              slug: 'snow-viewing-open-air-bath-secret-hotsprings',
+              title: '❄️ 雪見露天＆にごり湯秘湯',
+              desc: '乳頭温泉・万座・奥飛騨の白銀パノラマ露天風呂',
+              badge: '雪見温泉'
+            },
+            {
+              slug: 'new-year-sunrise-ocean-view-resorts',
+              title: '🌅 初日の出・海一望リゾート',
+              desc: '客室から太平洋の初日の出を拝む年末年始ステイ',
+              badge: '正月旅行'
+            },
+            {
+              slug: 'welcome-baby-family-indoor-pool-hotels',
+              title: '👶 子連れ・温水プールリゾート',
+              desc: '那須・熱海など室内プール＆ウェルカムベビー宿',
+              badge: 'ファミリー'
+            },
+            {
+              slug: 'couples-anniversary-private-villa-hanare',
+              title: '💍 大人の離れ・客室露天宿',
+              desc: '由布院・箱根の全室離れプライベートヴィラ＆部屋食',
+              badge: '記念日'
+            },
+            {
+              slug: 'private-sauna-cold-bath-retreat-hotels',
+              title: '🧖 貸切サウナ＆水風呂リトリート',
+              desc: '富士山・野尻湖の薪ストーブ＆湧水水風呂サウナ宿',
+              badge: 'サウナ旅'
+            },
+            {
+              slug: 'shinkansen-station-direct-ski-onsen-resorts',
+              title: '🚅 新幹線駅直結スキー温泉',
+              desc: '越後湯沢・軽井沢など雪道運転不要の駅直結スノー宿',
+              badge: '車なし旅'
+            },
+            {
+              slug: 'solo-travel-in-room-dining-peaceful-hotsprings',
+              title: '🍵 一人旅・お部屋食の静寂温泉',
+              desc: '四万・別所温泉の部屋食＆客室風呂ソロリトリート',
+              badge: '一人旅'
+            },
+          ].map(item => (
+            <Link
+              key={item.slug}
+              href={`/${item.slug}`}
+              className="group bg-white p-5 rounded-2xl border border-emerald-950/10 hover:border-teal-700/40 hover:shadow-md transition space-y-2 block"
+            >
+              <span className="text-[9px] font-extrabold text-teal-800 bg-teal-50 px-2.5 py-0.5 rounded-full inline-block">
+                {item.badge}
+              </span>
+              <h3 className="text-sm font-bold text-emerald-950 group-hover:text-teal-800 transition line-clamp-1">
+                {item.title}
+              </h3>
+              <p className="text-xs text-emerald-950/70 line-clamp-2">
+                {item.desc}
+              </p>
+            </Link>
+          ))}
+        </div>
+      </section>
+
       {/* 特集記事グリッド（クライアントコンポーネント） */}
       <FeaturesGrid initialPosts={posts} />
     </div>

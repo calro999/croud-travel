@@ -34,6 +34,7 @@ const searchEngines = [
 const payload = JSON.stringify({
   host: HOST,
   key: KEY,
+  keyLocation: `https://${HOST}/${KEY}.txt`,
   urlList: urls
 });
 
