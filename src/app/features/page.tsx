@@ -259,6 +259,42 @@ export default async function FeaturesPage() {
               desc: '金沢・松本の新幹線・特急駅から徒歩で行ける温泉ホテル',
               badge: '車なし旅'
             },
+            {
+              slug: 'book-hotel-library-reading-retreat-stay',
+              title: '📚 ブックホテル＆読書リトリート',
+              desc: '箱根・京都の泊まれる図書館＆本に囲まれる静寂の宿',
+              badge: '読書旅'
+            },
+            {
+              slug: 'kuroge-wagyu-teppanyaki-gourmet-luxury-stay',
+              title: '🥩 黒毛和牛鉄板焼き＆美食宿',
+              desc: '松阪牛・近江牛をシェフが目の前で焼く極上カウンター',
+              badge: '肉グルメ'
+            },
+            {
+              slug: 'sulfur-springs-milky-white-onsen-town-stay',
+              title: '♨️ 乳白色硫黄泉＆温泉街情緒宿',
+              desc: '草津・蔵王・野沢温泉の濃厚にごり湯＆湯めぐり街歩き',
+              badge: 'にごり湯'
+            },
+            {
+              slug: 'three-generation-family-large-room-luxury-stay',
+              title: '👨‍👩‍👧‍👦 3世代家族・大型客室＆離れ宿',
+              desc: '熱海・那須のコネクティングルーム＆露天風呂付き離れ',
+              badge: '3世代旅行'
+            },
+            {
+              slug: 'scenic-railway-sl-trolley-train-onsen-stay',
+              title: '🚂 観光列車・SL＆トロッコ温泉宿',
+              desc: '黒部峡谷・大井川鐵道の絶景鉄道旅と沿線名湯旅館',
+              badge: '鉄道旅'
+            },
+            {
+              slug: 'waterfall-gorge-healing-forest-onsen-stay',
+              title: '🍃 滝見露天風呂＆森林セラピー宿',
+              desc: '奥入瀬・天城湯ヶ島のマイナスイオン溢れる清流滝見温泉',
+              badge: '森林浴'
+            },
           ].map(item => (
             <Link
               key={item.slug}
