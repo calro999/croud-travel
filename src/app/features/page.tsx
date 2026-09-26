@@ -475,6 +475,42 @@ export default async function FeaturesPage() {
               desc: '重伝建地区の町全体がホテルに！築百年以上の旧家・蔵を改装した上質空間',
               badge: '分散型古民家'
             },
+            {
+              slug: 'autumn-leaves-illuminated-night-onsen-stay',
+              title: '🍁 紅葉ライトアップ＆夜景庭園露天風呂宿',
+              desc: '京都・箱根の漆黒の夜空に浮かび上がる燃える紅葉と名湯の競演',
+              badge: '紅葉温泉'
+            },
+            {
+              slug: 'art-museum-stay-contemporary-architecture-resort',
+              title: '🎨 名建築＆現代アートに泊まる温泉リゾート',
+              desc: '直島・箱根の名建築家が手がけた洗練デザインとアート鑑賞ステイ',
+              badge: 'アートホテル'
+            },
+            {
+              slug: 'super-panoramic-ropeway-mountain-top-hotel-stay',
+              title: '🚠 雲上マウンテンビュー＆山頂展望温泉ホテル',
+              desc: 'ロープウェイ直結！標高1,000m超の雲海とパノラマ絶景露天風呂',
+              badge: '雲上パノラマ'
+            },
+            {
+              slug: 'retro-showa-nostalgic-hotspring-inn-stay',
+              title: '📻 昭和レトロ＆ノスタルジック秘湯宿',
+              desc: '渋温泉・四万温泉の木造建築・タイル風呂と温かい郷土料理の癒やし',
+              badge: '昭和レトロ'
+            },
+            {
+              slug: 'craft-gin-whisky-distillery-boutique-stay',
+              title: '🥃 銘酒ウイスキー＆本格BARホテル',
+              desc: '暖炉のある重厚なバーで楽しむシングルモルトと大人の夜長ステイ',
+              badge: '美酒BAR'
+            },
+            {
+              slug: 'private-beach-secluded-cove-luxury-villa-stay',
+              title: '🏖️ プライベートビーチ直結＆完全貸切ヴィラ',
+              desc: '客室から白砂のビーチへ直結！波打ち際を独占する最高峰オーシャンヴィラ',
+              badge: 'プライベート海'
+            },
           ].map(item => (
             <Link
               key={item.slug}
