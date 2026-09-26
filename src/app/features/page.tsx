@@ -763,6 +763,42 @@ export default async function FeaturesPage() {
               desc: '輪島塗・会津塗の本漆器で味わう優美な会席料理と匠の技に触れる旅',
               badge: '伝統漆器'
             },
+            {
+              slug: 'luxury-private-onsen-with-starry-sky-terrace-hammock',
+              title: '🌌 星空ハンモック×テラス露天風呂宿',
+              desc: '客室専用ウッドテラスのハンモックで満天の天の川と夜風に癒やされる',
+              badge: '星空ハンモック'
+            },
+            {
+              slug: 'traditional-sakura-ebi-shirasu-suruga-bay-stay',
+              title: '🦐 桜えびかき揚げ×生しらす会席宿',
+              desc: '駿河湾の宝石・桜えび生かき揚げと獲れたて生しらす・富士山パノラマ',
+              badge: '桜えび会席'
+            },
+            {
+              slug: 'super-panoramic-cloud-sea-glamping-stay',
+              title: '☁️ 早朝雲海パノラマ×天空グランピング',
+              desc: '標高1,000mの天空ドームテントから望む一面の雲海と絶景展望温泉',
+              badge: '天空雲海'
+            },
+            {
+              slug: 'organic-medicinal-herb-sauna-detox-stay',
+              title: '🌿 薬草スチームサウナ×薬膳温活宿',
+              desc: '和漢生薬を蒸留した薬草サウナと濃厚薬草湯・薬膳料理で心身デトックス',
+              badge: '薬草温活'
+            },
+            {
+              slug: 'winter-ise-ebi-lobster-luxury-gourmet-stay',
+              title: '🦞 特大活伊勢海老×極上鬼殻焼き会席宿',
+              desc: '伊勢志摩・南紀のぷりぷり活伊勢海老お造り・鬼殻焼き・濃厚出汁雑炊',
+              badge: '伊勢海老会席'
+            },
+            {
+              slug: 'traditional-gold-leaf-craft-kanazawa-stay',
+              title: '✨ 加賀金箔工芸×金箔風呂名宿',
+              desc: '金沢の伝統工芸・金箔貼り体験と金箔がキラキラ舞う優美な金箔風呂',
+              badge: '金沢金箔'
+            },
           ].map(item => (
             <Link
               key={item.slug}
