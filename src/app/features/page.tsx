@@ -871,6 +871,42 @@ export default async function FeaturesPage() {
               desc: '越前・美濃・土佐の手漉き和紙あかりに包まれる和モダン空間と紙漉き体験',
               badge: '手漉き和紙の宿'
             },
+            {
+              slug: 'traditional-sanuki-udon-gourmet-onsen-stay',
+              title: '🍜 讃岐うどん巡礼×こんぴら温泉宿',
+              desc: '本場讃岐うどん巡りと金刀比羅宮参拝、讃岐牛会席＆こんぴら名湯に浸る',
+              badge: '讃岐うどん巡り'
+            },
+            {
+              slug: 'luxury-private-onsen-with-tea-ceremony-lounge',
+              title: '🍵 本格茶室お点前×日本庭園名湯宿',
+              desc: '静謐な茶室でいただく抹茶と上生菓子、四季の日本庭園露天風呂で心洗われる休日',
+              badge: '茶室お点前体験'
+            },
+            {
+              slug: 'super-panoramic-paragliding-sky-resort-stay',
+              title: '🪂 大空パラグライダー×絶景パノラマ露天宿',
+              desc: '白馬や阿蘇の雄大な空を舞うフライト体験と山絶景展望露天リゾート',
+              badge: '大空パラグライダー'
+            },
+            {
+              slug: 'spring-takenoko-bamboo-shoot-kaiseki-stay',
+              title: '🎍 朝採り筍会席×幻想竹林露天の宿',
+              desc: '朝掘り新鮮タケノコの焼き筍・筍ご飯会席とライトアップされた竹林露天風呂',
+              badge: '朝採り筍会席'
+            },
+            {
+              slug: 'organic-wine-vineyard-retreat-spa-stay',
+              title: '🍷 ワイナリー直営ペアリング×ブドウ畑温泉宿',
+              desc: '勝沼や余市のワイナリー直営マリアージュディナーとブドウ畑ビューの天然温泉',
+              badge: 'ワイナリーリゾート'
+            },
+            {
+              slug: 'traditional-kutani-ware-ceramic-art-onsen-stay',
+              title: '🎨 九谷焼ギャラリー×加賀会席名湯宿',
+              desc: '五彩の九谷焼の器で味わう加賀旬会席と絵付け体験、加賀温泉郷の極上名湯',
+              badge: '九谷焼ギャラリー'
+            },
           ].map(item => (
             <Link
               key={item.slug}
