@@ -1231,6 +1231,42 @@ export default async function FeaturesPage() {
               desc: '伝統染物「琉球紅型」体験とやちむんの器で味わう創作会席、残波岬の絶景リゾート',
               badge: '琉球紅型リゾート'
             },
+            {
+              slug: 'traditional-hokkaido-furano-lavender-stay',
+              title: '🪻 富良野ラベンダー絶景×ふらの和牛リゾート',
+              desc: '一面紫色のラベンダー畑パノラマと十勝岳展望露天風呂、ふらの和牛ディナー',
+              badge: '富良野ラベンダー'
+            },
+            {
+              slug: 'luxury-private-onsen-with-footbath-cafe-deck',
+              title: '☕ 絶景足湯カフェBAR×和モダン名湯宿',
+              desc: '湯けむりと珈琲・カクテルの至福！水盤テラスや渓流沿いの足湯デッキで寛ぐ大人の休日',
+              badge: '足湯カフェBAR'
+            },
+            {
+              slug: 'super-panoramic-canyon-bridge-walk-stay',
+              title: '🌉 祖谷のかずら橋×ケーブルカー谷底秘湯宿',
+              desc: '日本三大秘境の吊り橋スリル体験と断崖ケーブルカーで下る谷底露天風呂・囲炉裏会席',
+              badge: '祖谷のかずら橋'
+            },
+            {
+              slug: 'spring-niigata-echigo-hime-strawberry-stay',
+              title: '🍓 新潟特産越後姫×月岡温泉エメラルド美肌宿',
+              desc: '新潟限定ブランドいちご「越後姫」パフェと国内屈指の美肌の湯・月岡エメラルド硫黄泉',
+              badge: '越後姫いちご月岡'
+            },
+            {
+              slug: 'organic-forest-cliffside-sauna-stay',
+              title: '⛰️ 天空パノラマサウナ×絶壁インフィニティ水風呂宿',
+              desc: 'ガラス張りパノラマサウナから海と山を見下ろす！絶壁インフィニティ水風呂と天空外気浴',
+              badge: '天空絶景サウナ'
+            },
+            {
+              slug: 'traditional-ishikawa-wajima-nuri-lacquer-stay',
+              title: '🍣 輪島塗漆器美食×和倉温泉七尾湾オーシャン宿',
+              desc: '堅牢優美な輪島塗の器で味わう能登前握り寿司・のどぐろ会席と七尾湾一望の名湯',
+              badge: '輪島塗能登前寿司'
+            },
           ].map(item => (
             <Link
               key={item.slug}
