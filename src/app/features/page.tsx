@@ -979,6 +979,42 @@ export default async function FeaturesPage() {
               desc: '極上黒豚しゃぶしゃぶと百種プレミアム芋焼酎BAR、指宿砂むし＆霧島硫黄泉',
               badge: '黒豚しゃぶ焼酎BAR'
             },
+            {
+              slug: 'traditional-hakata-mizutaki-gourmet-stay',
+              title: '🍲 博多水炊き×呼子イカと福岡温泉宿',
+              desc: '濃厚白湯スープの博多水炊きと呼子イカ活造り、天然温泉＆サウナで寛ぐ美食旅',
+              badge: '博多水炊き名宿'
+            },
+            {
+              slug: 'luxury-private-onsen-with-tatami-bath-deck',
+              title: '🎋 全面畳敷き風呂×純和風モダン名湯宿',
+              desc: '足元ふんわり温かい畳風呂！滑りにくく安心の浴場で三世代・赤ちゃん連れにも人気',
+              badge: '安心の全面畳風呂'
+            },
+            {
+              slug: 'super-panoramic-lake-kayak-morning-stay',
+              title: '🚣 早朝レイクカヤック×湖畔露天リゾート',
+              desc: '朝霧立つ静寂の湖へカヤックで漕ぎ出す爽快体験と湖畔インフィニティ露天風呂',
+              badge: '早朝レイクカヤック'
+            },
+            {
+              slug: 'spring-yatsugatake-highland-strawberry-stay',
+              title: '🍓 八ヶ岳完熟いちご狩り×高原温泉リゾート',
+              desc: '糖度抜群のプレミアム完熟いちご狩り＆特製パフェ、南アルプス連峰を望む高原温泉',
+              badge: '八ヶ岳完熟いちご'
+            },
+            {
+              slug: 'organic-detox-herb-garden-spa-stay',
+              title: '🌿 自家製ハーブ美食×ハーバルサウナ宿',
+              desc: '自家菜園ハーブ料理と朝摘みハーブティー、天然ハーブスチームサウナのリトリート',
+              badge: 'ハーバル薬草サウナ'
+            },
+            {
+              slug: 'traditional-ehime-towel-and-dogo-onsen-stay',
+              title: '🧖 今治プレミアムタオル×道後温泉名旅館',
+              desc: '最高級今治タオルアメニティに包まれる極上ステイと道後名湯・瀬戸内鯛めし会席',
+              badge: '今治タオル道後宿'
+            },
           ].map(item => (
             <Link
               key={item.slug}
