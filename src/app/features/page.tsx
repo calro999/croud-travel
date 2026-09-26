@@ -1195,6 +1195,42 @@ export default async function FeaturesPage() {
               desc: '極彩色のねぶたアート空間と祭り囃子、大間マグロ・陸奥湾ホタテ会席と青森ヒバ風呂',
               badge: 'ねぶた光アート宿'
             },
+            {
+              slug: 'traditional-nagasaki-champon-gourmet-stay',
+              title: '🍜 長崎卓袱料理×雲仙地獄白濁名湯宿',
+              desc: '海鮮ちゃんぽん＆伝統卓袱料理と立ち上る白煙の雲仙地獄・小浜温泉の夕日露天',
+              badge: '長崎卓袱料理名宿'
+            },
+            {
+              slug: 'luxury-private-onsen-with-scenic-waterfall-view',
+              title: '🌊 滝見プライベート露天×マイナスイオン秘湯宿',
+              desc: '目の前に迫るダイナミックな滝の姿と水飛沫！大自然の轟音に包まれる滝見露天風呂',
+              badge: '滝見プライベート露天'
+            },
+            {
+              slug: 'super-panoramic-canyon-canyoning-adventure-stay',
+              title: '🏄 爽快キャニオニング×森林パノラマ露天宿',
+              desc: '天然ウォータースライダーを体一つで滑走！大自然アドベンチャーと森林露天風呂',
+              badge: '爽快キャニオニング'
+            },
+            {
+              slug: 'spring-yamagata-cherry-picking-stay',
+              title: '🍒 山形佐藤錦さくらんぼ×天童・かみのやま名湯宿',
+              desc: '初夏の宝石・佐藤錦さくらんぼ狩り食べ放題と山形牛会席、天童・かみのやま温泉',
+              badge: '佐藤錦さくらんぼ'
+            },
+            {
+              slug: 'organic-nordic-smoke-sauna-retreat-stay',
+              title: '🪵 本場フィンランドサウナ×ログハウス温泉宿',
+              desc: 'フィンランド直輸入の本格木造サウナとセルフロウリュ！白樺ヴィヒタと天然水風呂',
+              badge: 'フィンランドサウナ'
+            },
+            {
+              slug: 'traditional-okinawa-bingata-textile-stay',
+              title: '🌺 琉球紅型アート×読谷やちむんオーシャン宿',
+              desc: '伝統染物「琉球紅型」体験とやちむんの器で味わう創作会席、残波岬の絶景リゾート',
+              badge: '琉球紅型リゾート'
+            },
           ].map(item => (
             <Link
               key={item.slug}
