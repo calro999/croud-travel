@@ -727,6 +727,42 @@ export default async function FeaturesPage() {
               desc: '青竹が風にそよぐ小径と幻想的なライトアップに包まれる大人の隠れ家',
               badge: '竹林の静寂'
             },
+            {
+              slug: 'luxury-private-onsen-with-art-gallery-stay',
+              title: '🖼️ 館内アートギャラリー＆美の空間温泉宿',
+              desc: '現代アートの企画展や陶芸ギャラリーを併設したミュージアムステイ',
+              badge: 'アートギャラリー'
+            },
+            {
+              slug: 'traditional-eel-unagi-charcoal-kabayaki-stay',
+              title: '🍱 炭火うなぎ蒲焼き＆極上ひつまぶし宿',
+              desc: '浜名湖・三島・柳川の秘伝タレで焼き上げる香ばしいうな重と名湯',
+              badge: 'うなぎ蒲焼き'
+            },
+            {
+              slug: 'super-panoramic-lake-canoe-kayak-resort-stay',
+              title: '🛶 湖畔カヌー・SUP＆レイクビュー温泉リゾート',
+              desc: '透明な湖面に漕ぎ出すカヌー体験と湖畔の展望露天風呂で自然と一体に',
+              badge: '湖畔カヌー'
+            },
+            {
+              slug: 'organic-flower-bath-rose-herb-spa-stay',
+              title: '🌹 生バラ風呂＆ローズアロマ温泉宿',
+              desc: '湯船いっぱいに浮かぶ生バラの花びらと甘く高貴な香りの華やかステイ',
+              badge: '生バラ風呂'
+            },
+            {
+              slug: 'winter-hot-pot-gibier-wild-game-satoyama-stay',
+              title: '🐗 天然猪肉ぼたん鍋＆里山ジビエ温泉宿',
+              desc: '丹波篠山の熟成味噌で煮込む熱々ぼたん鍋と里山の恵み・名湯の旅',
+              badge: 'ぼたん鍋'
+            },
+            {
+              slug: 'traditional-craft-lacquerware-wajima-aizu-stay',
+              title: '🥣 伝統漆器と手仕事美＆名湯の宿',
+              desc: '輪島塗・会津塗の本漆器で味わう優美な会席料理と匠の技に触れる旅',
+              badge: '伝統漆器'
+            },
           ].map(item => (
             <Link
               key={item.slug}
