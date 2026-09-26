@@ -943,6 +943,42 @@ export default async function FeaturesPage() {
               desc: '毎夜開催される迫力の津軽三味線生演奏と陸奥湾ホタテ会席、青森の名湯を満喫',
               badge: '津軽三味線ライブ'
             },
+            {
+              slug: 'traditional-yonezawa-beef-sukiyaki-onsen-stay',
+              title: '🥩 A5米沢牛すき焼き会席×山形名湯宿',
+              desc: 'とろける霜降り米沢牛すき焼き・しゃぶしゃぶと白布・小野川温泉の極上掛け流し',
+              badge: 'A5米沢牛すき焼き'
+            },
+            {
+              slug: 'luxury-private-onsen-with-onsen-sommelier-guide',
+              title: '♨️ 純度100%源泉掛け流し×湯守の宿',
+              desc: '加水・加温・循環なし！温泉ソムリエや湯守が守る濃厚にごり湯・硫黄泉の名宿',
+              badge: '純度100%源泉'
+            },
+            {
+              slug: 'super-panoramic-cable-car-ropeway-mountain-stay',
+              title: '🚠 雲上パノラマ露天×山頂リゾートホテル',
+              desc: 'ロープウェイ直結の標高1,000m超リゾート！雲海テラスと絶景展望露天風呂',
+              badge: '雲上パノラマ露天'
+            },
+            {
+              slug: 'spring-kyoto-bamboo-grove-arashiyama-stay',
+              title: '🎋 嵐山竹林散策×極上京懐石の名旅館',
+              desc: '嵐山・嵯峨野の竹林の小径散策と出汁香る旬の京懐石、とろとろ嵐山温泉',
+              badge: '嵐山竹林京懐石'
+            },
+            {
+              slug: 'organic-citrus-spa-ocean-view-stay',
+              title: '🍊 特産みかんアロマスパ×オーシャン露天宿',
+              desc: '愛媛・湯河原のフレッシュみかんオイルエステと青い海を一望する絶景温泉',
+              badge: 'みかんアロマスパ'
+            },
+            {
+              slug: 'traditional-kagoshima-shochu-kurobuta-stay',
+              title: '🍶 かごしま黒豚しゃぶ×芋焼酎BARの宿',
+              desc: '極上黒豚しゃぶしゃぶと百種プレミアム芋焼酎BAR、指宿砂むし＆霧島硫黄泉',
+              badge: '黒豚しゃぶ焼酎BAR'
+            },
           ].map(item => (
             <Link
               key={item.slug}
