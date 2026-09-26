@@ -5,16 +5,16 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【絶景バンジー＆渓谷アドベンチャー】日本屈指の高さから大ジャンプ！みなかみ温泉宿5選",
-  description: "エメラルドグリーンの渓谷に向かって飛び込むスリル満点バンジージャンプ！アドレナリン全開のアクティビティを体験した後は、利根川源流のせせらぎを聴く露天風呂とサウナで極上のととのいを。",
-  keywords: "みなかみ 温泉 露天風呂 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
+  title: "【極上かごしま黒豚しゃぶしゃぶ＆砂むし温泉】指宿・霧島の美肌湯と鹿児島美食宿5選",
+  description: "きめ細やかな肉質と上品な甘みを持つ最高峰「かごしま黒豚」のしゃぶしゃぶ！世界唯一の天然砂むし温泉で知られる指宿や、坂本龍馬ゆかりの霧島温泉郷で、鹿児島の滋味あふれる美味と名湯を満喫する旅。",
+  keywords: "指宿 温泉 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/super-panoramic-canyon-bungee-jumping-stay',
+    canonical: 'https://croud-travel.com/traditional-kagoshima-kurobuta-shabushabu-stay',
   },
   openGraph: {
-    title: "【絶景バンジー＆渓谷アドベンチャー】日本屈指の高さから大ジャンプ！みなかみ温泉宿5選",
-    description: "エメラルドグリーンの渓谷に向かって飛び込むスリル満点バンジージャンプ！アドレナリン全開のアクティビティを体験した後は、利根川源流のせせらぎを聴く露天風呂とサウナで極上のととのいを。",
-    url: 'https://croud-travel.com/super-panoramic-canyon-bungee-jumping-stay',
+    title: "【極上かごしま黒豚しゃぶしゃぶ＆砂むし温泉】指宿・霧島の美肌湯と鹿児島美食宿5選",
+    description: "きめ細やかな肉質と上品な甘みを持つ最高峰「かごしま黒豚」のしゃぶしゃぶ！世界唯一の天然砂むし温泉で知られる指宿や、坂本龍馬ゆかりの霧島温泉郷で、鹿児島の滋味あふれる美味と名湯を満喫する旅。",
+    url: 'https://croud-travel.com/traditional-kagoshima-kurobuta-shabushabu-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -23,14 +23,14 @@ export const metadata: Metadata = {
         url: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80',
         width: 1200,
         height: 630,
-        alt: "【絶景バンジー＆渓谷アドベンチャー】日本屈指の高さから大ジャンプ！みなかみ温泉宿5選",
+        alt: "【極上かごしま黒豚しゃぶしゃぶ＆砂むし温泉】指宿・霧島の美肌湯と鹿児島美食宿5選",
       }
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【絶景バンジー＆渓谷アドベンチャー】日本屈指の高さから大ジャンプ！みなかみ温泉宿5選",
-    description: "エメラルドグリーンの渓谷に向かって飛び込むスリル満点バンジージャンプ！アドレナリン全開のアクティビティを体験した後は、利根川源流のせせらぎを聴く露天風呂とサウナで極上のととのいを。",
+    title: "【極上かごしま黒豚しゃぶしゃぶ＆砂むし温泉】指宿・霧島の美肌湯と鹿児島美食宿5選",
+    description: "きめ細やかな肉質と上品な甘みを持つ最高峰「かごしま黒豚」のしゃぶしゃぶ！世界唯一の天然砂むし温泉で知られる指宿や、坂本龍馬ゆかりの霧島温泉郷で、鹿児島の滋味あふれる美味と名湯を満喫する旅。",
   }
 };
 
@@ -38,8 +38,8 @@ export default function FeaturePage() {
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "【絶景バンジー＆渓谷アドベンチャー】日本屈指の高さから大ジャンプ！みなかみ温泉宿5選",
-    "description": "エメラルドグリーンの渓谷に向かって飛び込むスリル満点バンジージャンプ！アドレナリン全開のアクティビティを体験した後は、利根川源流のせせらぎを聴く露天風呂とサウナで極上のととのいを。",
+    "headline": "【極上かごしま黒豚しゃぶしゃぶ＆砂むし温泉】指宿・霧島の美肌湯と鹿児島美食宿5選",
+    "description": "きめ細やかな肉質と上品な甘みを持つ最高峰「かごしま黒豚」のしゃぶしゃぶ！世界唯一の天然砂むし温泉で知られる指宿や、坂本龍馬ゆかりの霧島温泉郷で、鹿児島の滋味あふれる美味と名湯を満喫する旅。",
     "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
     "datePublished": "2026-03-27T00:00:00+09:00",
     "dateModified": "2026-03-27T00:00:00+09:00",
@@ -58,55 +58,55 @@ export default function FeaturePage() {
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.com/super-panoramic-canyon-bungee-jumping-stay"
+      "@id": "https://croud-travel.com/traditional-kagoshima-kurobuta-shabushabu-stay"
     }
   };
 
   const hotelList = [
             {
-              name: "１１種類の貸切露天風呂　水上高原／奥利根温泉　ホテルサンバード",
-              img: "https://img.travel.rakuten.co.jp/share/HOTEL/9340/9340.jpg",
-              rating: 4.0,
-              reviews: 797,
-              price: "¥8,800〜",
-              access: "車で関越自動車道・水上ＩＣから３０分・ＪＲで上越線　水上駅より　湯ノ小屋行きバスで藤原スキー場入口下車900M",
-              features: ["１１種の貸切露天風呂や滝を望む高台の露天風呂など湯めぐりを満喫！高原ＢＢＱプランも大人気！", "利根郡みなかみ町藤原4957-1", "楽天アワード受賞歴"]
-            },
-            {
-              name: "水上温泉郷　谷川温泉　旅館たにがわ",
-              img: "https://img.travel.rakuten.co.jp/share/HOTEL/6999/6999.jpg",
-              rating: 4.5,
-              reviews: 646,
-              price: "¥15,550〜",
-              access: "ＪＲ水上駅より車で７分（送迎あり）、関越自動車道水上ＩＣより１５分",
-              features: ["太宰治ゆかりの宿【スタッフの笑顔と創作料理・おもてなしの心】・貸切露天風呂・足湯も大好評", "利根郡みなかみ町谷川524-1", "楽天アワード受賞歴"]
-            },
-            {
-              name: "水上温泉郷　湯檜曽温泉　天空の湯　なかや旅館",
-              img: "https://img.travel.rakuten.co.jp/share/HOTEL/2370/2370.jpg",
+              name: "指宿温泉　いぶすき秀水園",
+              img: "https://img.travel.rakuten.co.jp/share/HOTEL/15962/15962.jpg",
               rating: 4.7,
-              reviews: 528,
+              reviews: 537,
+              price: "¥25,300〜",
+              access: "ＪＲ指宿枕崎線指宿駅まで送迎あり／九州自動車道谷山インターより５０分",
+              features: ["南薩摩の湯の里指宿にて心尽くしの料理とやすらぎのひとときを…", "指宿市湯の浜5-27-27", "楽天アワード受賞歴"]
+            },
+            {
+              name: "指宿温泉　こらんの湯　錦江楼",
+              img: "https://img.travel.rakuten.co.jp/share/HOTEL/76346/76346.jpg",
+              rating: 4.3,
+              reviews: 626,
+              price: "¥12,650〜",
+              access: "JR指宿枕崎線　宮ヶ浜駅より徒歩9分（宮ケ浜駅からの送迎サービス有※要連絡）九州道終点から国道226号線を走って50分",
+              features: ["美肌の湯（美肌成分のメタケイ酸を豊富に含む泉質）と桜島を望める和モダン旅館。", "指宿市西方4507", "楽天アワード受賞歴"]
+            },
+            {
+              name: "中島温泉旅館",
+              img: "https://img.travel.rakuten.co.jp/share/HOTEL/78120/78120.jpg",
+              rating: 4.2,
+              reviews: 55,
+              price: "¥4,510〜",
+              access: "ＪＲ　鹿児島中央駅から鹿児島交通バスで伊作バス停下車後、お車にて５分",
+              features: ["西郷隆盛も訪れた名湯、歴史ある老舗純和風旅館。一日三組限定で一組に三部屋使用。天然かけ流しの硫黄泉。", "日置市吹上町湯之浦1106", "楽天アワード受賞歴"]
+            },
+            {
+              name: "吹上温泉　新湯温泉旅館",
+              img: "https://img.travel.rakuten.co.jp/share/HOTEL/80836/80836.jpg",
+              rating: 4.0,
+              reviews: 79,
               price: "¥7,700〜",
-              access: "車：水上ICから約15分　車以外：上越線ゆびそ駅より徒歩5分、又は水上駅よりバス・タクシーで約10分　",
-              features: ["4万組以上のママパパに選ばれた赤ちゃんファーストの温泉宿★安心の設備でママもほっと一息できる癒し時間", "利根郡みなかみ町湯桧曽93", "楽天アワード受賞歴"]
+              access: "ＪＲ　伊集院駅よりお車にて３０分",
+              features: ["心温まるおもてなしと笑顔、そして自慢の温泉と手作りお野菜やお米のお料理に癒される宿♪", "日置市吹上町湯之浦1194", "楽天アワード受賞歴"]
             },
             {
-              name: "水上温泉郷　やすらぎの宿　旅館「みやま」",
-              img: "https://img.travel.rakuten.co.jp/share/HOTEL/40552/40552.jpg",
-              rating: 4.5,
-              reviews: 5,
-              price: "¥18,000〜",
-              access: "水上駅から車で５分、徒歩２０分／上毛高原駅から車で２０分",
-              features: ["小さな宿で、ゆっくりとした時間をお過ごし下さい！", "利根郡みなかみ町大穴737", "楽天アワード受賞歴"]
-            },
-            {
-              name: "猿ヶ京温泉　仁田屋旅館（にたや）",
-              img: "https://img.travel.rakuten.co.jp/share/HOTEL/28926/28926.jpg",
-              rating: 4.5,
-              reviews: 239,
-              price: "¥5,500〜",
-              access: "上越線後閑駅・上越新幹線上毛高原駅より猿ヶ京行きバス関所跡下車200ｍ／関越自動車道月夜野ＩＣよりR17号車２０分",
-              features: ["源泉かけ流し　一晩中入浴可能", "利根郡みなかみ町猿ヶ京温泉１１４３", "楽天アワード受賞歴"]
+              name: "旅館　月見荘",
+              img: "https://img.travel.rakuten.co.jp/share/HOTEL/39530/39530.jpg",
+              rating: 4.8,
+              reviews: 142,
+              price: "¥15,400〜",
+              access: "ＪＲ　指宿駅より車で３分、徒歩で約２５分",
+              features: ["天然砂むし会館「砂楽」の目の前に佇む宿。", "指宿市湯の浜5-24-8", "楽天アワード受賞歴"]
             }
   ];
 
@@ -128,13 +128,13 @@ export default function FeaturePage() {
         <div className="relative z-20 max-w-4xl mx-auto px-4 text-center">
           <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-amber-500/90 text-white text-sm font-semibold tracking-wider mb-6 shadow-lg backdrop-blur-sm">
             <Sparkles className="w-4 h-4" />
-            <span>渓谷バンジー＆源流露天風呂</span>
+            <span>黒豚しゃぶしゃぶ＆砂むし温泉</span>
           </div>
           <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【絶景バンジー＆渓谷アドベンチャー】日本屈指の高さから大ジャンプ！みなかみ温泉宿5選
+            【極上かごしま黒豚しゃぶしゃぶ＆砂むし温泉】指宿・霧島の美肌湯と鹿児島美食宿5選
           </h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
-            エメラルドグリーンの渓谷に向かって飛び込むスリル満点バンジージャンプ！アドレナリン全開のアクティビティを体験した後は、利根川源流のせせらぎを聴く露天風呂とサウナで極上のととのいを。
+            きめ細やかな肉質と上品な甘みを持つ最高峰「かごしま黒豚」のしゃぶしゃぶ！世界唯一の天然砂むし温泉で知られる指宿や、坂本龍馬ゆかりの霧島温泉郷で、鹿児島の滋味あふれる美味と名湯を満喫する旅。
           </p>
         </div>
       </section>
@@ -145,7 +145,7 @@ export default function FeaturePage() {
         <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
         <Link href="/features" className="hover:text-amber-600 transition-colors shrink-0">特集一覧</Link>
         <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
-        <span className="text-stone-800 font-medium truncate">【絶景バンジー＆渓谷アドベンチャー】日本屈指の高さから大ジャンプ！みなかみ温泉宿5選</span>
+        <span className="text-stone-800 font-medium truncate">【極上かごしま黒豚しゃぶしゃぶ＆砂むし温泉】指宿・霧島の美肌湯と鹿児島美食宿5選</span>
       </nav>
 
       <main className="max-w-5xl mx-auto px-4 py-8 md:py-12 space-y-16">
@@ -154,11 +154,11 @@ export default function FeaturePage() {
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
             <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              大自然の渓谷へ飛び込む究極の解放感！絶叫アクティビティと名湯みなかみ温泉ステイ
+              とろける黒豚の甘みと天然砂むしの温もり。薩摩の美食と名湯に癒やされる鹿児島ステイ
             </h2>
           </div>
           <p className="text-stone-700 leading-relaxed text-base md:text-lg mb-8">
-            高さ数十メートルの橋から大自然の渓谷へ飛び出すバンジージャンプは、一生の思い出になる究極のアドベンチャー。みなかみの雄大な山々と清流を全身で体感した後は、心地よい疲労感とともに天然温泉へ直行。利根川の渓流を眼下に望む露天風呂やウッドデッキサウナで体を芯から温め、上州牛ステーキや地元きのこ鍋など群馬の豊かな味覚を堪能しましょう。
+            サツマイモを食べて育った「かごしま黒豚」は、脂身のさっぱりとした甘みと柔らかな食感が自慢のブランド肉。宿自慢の特製出汁にくぐらせるしゃぶしゃぶや、とろとろの角煮は一度食べたら忘れられない美味しさです。波打ち際で温かい砂に包まれる指宿の天然砂むし温泉や、湯けむり立ち上る霧島の硫黄泉でデトックス。きびなごや地鶏刺し、本格芋焼酎とともに贅沢な夜をお過ごしください。
           </p>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 md:gap-6 pt-6 border-t border-stone-100">
             <div className="p-4 rounded-xl bg-stone-50 border border-stone-100">
@@ -166,24 +166,24 @@ export default function FeaturePage() {
                 <CheckCircle2 className="w-5 h-5" />
                 <span>Point 1</span>
               </div>
-              <h3 className="font-bold text-stone-900 mb-1">スリル満点！日本有数の渓谷バンジージャンプ体験</h3>
-              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">プロインストラクターによる安心のサポート。非日常の絶景フライト。</p>
+              <h3 className="font-bold text-stone-900 mb-1">極上の旨味と甘み「かごしま黒豚しゃぶしゃぶ」</h3>
+              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">特製出汁とポン酢で味わう最高峰の豚肉。脂の甘みと柔らかな肉質が絶品。</p>
             </div>
             <div className="p-4 rounded-xl bg-stone-50 border border-stone-100">
               <div className="flex items-center gap-2 text-amber-600 font-bold mb-2">
                 <CheckCircle2 className="w-5 h-5" />
                 <span>Point 2</span>
               </div>
-              <h3 className="font-bold text-stone-900 mb-1">渓流のせせらぎとマイナスイオン溢れる露天風呂</h3>
-              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">みなかみ十八湯の豊かな恵み。筋肉の疲れを優しくほぐす名湯。</p>
+              <h3 className="font-bold text-stone-900 mb-1">世界屈指のデトックス体験「天然砂むし温泉」</h3>
+              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">波の音を聴きながら温砂に包まれる至福。全身の血行を促進し美肌へ。</p>
             </div>
             <div className="p-4 rounded-xl bg-stone-50 border border-stone-100">
               <div className="flex items-center gap-2 text-amber-600 font-bold mb-2">
                 <CheckCircle2 className="w-5 h-5" />
                 <span>Point 3</span>
               </div>
-              <h3 className="font-bold text-stone-900 mb-1">上州牛の陶板焼き＆奥利根の山の恵み会席</h3>
-              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">柔らかなブランド牛と地元産採れたて野菜。心温まる郷土の味覚。</p>
+              <h3 className="font-bold text-stone-900 mb-1">霧島連峰と錦江湾を望むパノラマ展望温泉</h3>
+              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">乳白色の硫黄泉や塩化物泉。大自然の絶景を眼下に望む開放的な湯浴み。</p>
             </div>
           </div>
         </section>

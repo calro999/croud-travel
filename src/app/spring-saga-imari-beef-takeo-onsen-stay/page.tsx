@@ -5,16 +5,16 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【絶景バンジー＆渓谷アドベンチャー】日本屈指の高さから大ジャンプ！みなかみ温泉宿5選",
-  description: "エメラルドグリーンの渓谷に向かって飛び込むスリル満点バンジージャンプ！アドレナリン全開のアクティビティを体験した後は、利根川源流のせせらぎを聴く露天風呂とサウナで極上のととのいを。",
-  keywords: "みなかみ 温泉 露天風呂 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
+  title: "【極上A5伊万里牛＆武雄温泉美肌湯】1300年の名湯と佐賀の最高峰グルメを堪能する名宿5選",
+  description: "澄んだ空気と清らかな水が育んだ最高級黒毛和牛「伊万里牛」！辰野金吾設計の楼門で有名な歴史ある武雄温泉のトロトロ美肌湯と、佐賀牛・伊万里牛の極上ステーキに舌鼓を打つ雅な九州温泉旅。",
+  keywords: "武雄温泉 露天風呂 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/super-panoramic-canyon-bungee-jumping-stay',
+    canonical: 'https://croud-travel.com/spring-saga-imari-beef-takeo-onsen-stay',
   },
   openGraph: {
-    title: "【絶景バンジー＆渓谷アドベンチャー】日本屈指の高さから大ジャンプ！みなかみ温泉宿5選",
-    description: "エメラルドグリーンの渓谷に向かって飛び込むスリル満点バンジージャンプ！アドレナリン全開のアクティビティを体験した後は、利根川源流のせせらぎを聴く露天風呂とサウナで極上のととのいを。",
-    url: 'https://croud-travel.com/super-panoramic-canyon-bungee-jumping-stay',
+    title: "【極上A5伊万里牛＆武雄温泉美肌湯】1300年の名湯と佐賀の最高峰グルメを堪能する名宿5選",
+    description: "澄んだ空気と清らかな水が育んだ最高級黒毛和牛「伊万里牛」！辰野金吾設計の楼門で有名な歴史ある武雄温泉のトロトロ美肌湯と、佐賀牛・伊万里牛の極上ステーキに舌鼓を打つ雅な九州温泉旅。",
+    url: 'https://croud-travel.com/spring-saga-imari-beef-takeo-onsen-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -23,14 +23,14 @@ export const metadata: Metadata = {
         url: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80',
         width: 1200,
         height: 630,
-        alt: "【絶景バンジー＆渓谷アドベンチャー】日本屈指の高さから大ジャンプ！みなかみ温泉宿5選",
+        alt: "【極上A5伊万里牛＆武雄温泉美肌湯】1300年の名湯と佐賀の最高峰グルメを堪能する名宿5選",
       }
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【絶景バンジー＆渓谷アドベンチャー】日本屈指の高さから大ジャンプ！みなかみ温泉宿5選",
-    description: "エメラルドグリーンの渓谷に向かって飛び込むスリル満点バンジージャンプ！アドレナリン全開のアクティビティを体験した後は、利根川源流のせせらぎを聴く露天風呂とサウナで極上のととのいを。",
+    title: "【極上A5伊万里牛＆武雄温泉美肌湯】1300年の名湯と佐賀の最高峰グルメを堪能する名宿5選",
+    description: "澄んだ空気と清らかな水が育んだ最高級黒毛和牛「伊万里牛」！辰野金吾設計の楼門で有名な歴史ある武雄温泉のトロトロ美肌湯と、佐賀牛・伊万里牛の極上ステーキに舌鼓を打つ雅な九州温泉旅。",
   }
 };
 
@@ -38,8 +38,8 @@ export default function FeaturePage() {
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "【絶景バンジー＆渓谷アドベンチャー】日本屈指の高さから大ジャンプ！みなかみ温泉宿5選",
-    "description": "エメラルドグリーンの渓谷に向かって飛び込むスリル満点バンジージャンプ！アドレナリン全開のアクティビティを体験した後は、利根川源流のせせらぎを聴く露天風呂とサウナで極上のととのいを。",
+    "headline": "【極上A5伊万里牛＆武雄温泉美肌湯】1300年の名湯と佐賀の最高峰グルメを堪能する名宿5選",
+    "description": "澄んだ空気と清らかな水が育んだ最高級黒毛和牛「伊万里牛」！辰野金吾設計の楼門で有名な歴史ある武雄温泉のトロトロ美肌湯と、佐賀牛・伊万里牛の極上ステーキに舌鼓を打つ雅な九州温泉旅。",
     "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
     "datePublished": "2026-03-27T00:00:00+09:00",
     "dateModified": "2026-03-27T00:00:00+09:00",
@@ -58,55 +58,55 @@ export default function FeaturePage() {
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.com/super-panoramic-canyon-bungee-jumping-stay"
+      "@id": "https://croud-travel.com/spring-saga-imari-beef-takeo-onsen-stay"
     }
   };
 
   const hotelList = [
             {
-              name: "１１種類の貸切露天風呂　水上高原／奥利根温泉　ホテルサンバード",
-              img: "https://img.travel.rakuten.co.jp/share/HOTEL/9340/9340.jpg",
-              rating: 4.0,
-              reviews: 797,
-              price: "¥8,800〜",
-              access: "車で関越自動車道・水上ＩＣから３０分・ＪＲで上越線　水上駅より　湯ノ小屋行きバスで藤原スキー場入口下車900M",
-              features: ["１１種の貸切露天風呂や滝を望む高台の露天風呂など湯めぐりを満喫！高原ＢＢＱプランも大人気！", "利根郡みなかみ町藤原4957-1", "楽天アワード受賞歴"]
+              name: "史跡旅館　花月　大正館",
+              img: "https://img.travel.rakuten.co.jp/share/HOTEL/188055/188055.jpg",
+              rating: 4.1,
+              reviews: 70,
+              price: "¥30,712〜",
+              access: "JR武雄温泉駅から車で５分",
+              features: ["大人ラグジュアリーな体験を。茶房・Cafe・茶室を完備。", "武雄市武雄町武雄7385-7", "楽天アワード受賞歴"]
             },
             {
-              name: "水上温泉郷　谷川温泉　旅館たにがわ",
-              img: "https://img.travel.rakuten.co.jp/share/HOTEL/6999/6999.jpg",
-              rating: 4.5,
-              reviews: 646,
-              price: "¥15,550〜",
-              access: "ＪＲ水上駅より車で７分（送迎あり）、関越自動車道水上ＩＣより１５分",
-              features: ["太宰治ゆかりの宿【スタッフの笑顔と創作料理・おもてなしの心】・貸切露天風呂・足湯も大好評", "利根郡みなかみ町谷川524-1", "楽天アワード受賞歴"]
+              name: "嬉野温泉　旅館大村屋",
+              img: "https://img.travel.rakuten.co.jp/share/HOTEL/12624/12624.jpg",
+              rating: 4.6,
+              reviews: 519,
+              price: "¥12,300〜",
+              access: "JR西九州新幹線「嬉野温泉駅」よりお車で約5分 / 長崎自動車道 嬉野ICより５分",
+              features: ["【自家源泉保有】源泉100％かけ流しの貸切湯と音楽を愉しめる老舗宿。露天・半露天付客室有", "嬉野市嬉野町大字下宿乙848", "楽天アワード受賞歴"]
             },
             {
-              name: "水上温泉郷　湯檜曽温泉　天空の湯　なかや旅館",
-              img: "https://img.travel.rakuten.co.jp/share/HOTEL/2370/2370.jpg",
-              rating: 4.7,
-              reviews: 528,
-              price: "¥7,700〜",
-              access: "車：水上ICから約15分　車以外：上越線ゆびそ駅より徒歩5分、又は水上駅よりバス・タクシーで約10分　",
-              features: ["4万組以上のママパパに選ばれた赤ちゃんファーストの温泉宿★安心の設備でママもほっと一息できる癒し時間", "利根郡みなかみ町湯桧曽93", "楽天アワード受賞歴"]
+              name: "嬉野温泉　旅館　初音荘",
+              img: "https://img.travel.rakuten.co.jp/share/HOTEL/13775/13775.jpg",
+              rating: 4.4,
+              reviews: 671,
+              price: "¥9,900〜",
+              access: "『嬉野IC』より車で8分／『武雄温泉駅』より嬉野温泉までバスで30分＊平面駐車場完備でご家族マイカーでの来館も安心です。",
+              features: ["お子様満足度120％保証！お子様連れ特化旅館でお子様との大切な思い出の旅をお届けいたします♪", "嬉野市嬉野町岩屋川内甲340-1", "楽天アワード受賞歴"]
             },
             {
-              name: "水上温泉郷　やすらぎの宿　旅館「みやま」",
-              img: "https://img.travel.rakuten.co.jp/share/HOTEL/40552/40552.jpg",
-              rating: 4.5,
-              reviews: 5,
-              price: "¥18,000〜",
-              access: "水上駅から車で５分、徒歩２０分／上毛高原駅から車で２０分",
-              features: ["小さな宿で、ゆっくりとした時間をお過ごし下さい！", "利根郡みなかみ町大穴737", "楽天アワード受賞歴"]
-            },
-            {
-              name: "猿ヶ京温泉　仁田屋旅館（にたや）",
-              img: "https://img.travel.rakuten.co.jp/share/HOTEL/28926/28926.jpg",
-              rating: 4.5,
-              reviews: 239,
+              name: "嬉野温泉　旅館千代乃屋",
+              img: "https://img.travel.rakuten.co.jp/share/HOTEL/13719/13719.jpg",
+              rating: 4.6,
+              reviews: 259,
               price: "¥5,500〜",
-              access: "上越線後閑駅・上越新幹線上毛高原駅より猿ヶ京行きバス関所跡下車200ｍ／関越自動車道月夜野ＩＣよりR17号車２０分",
-              features: ["源泉かけ流し　一晩中入浴可能", "利根郡みなかみ町猿ヶ京温泉１１４３", "楽天アワード受賞歴"]
+              access: "ＪＲ長崎線『武雄温泉駅』よりバスで３０分『／長崎道『嬉野ＩＣ』より車で７分。御希望で嬉野ＩＣまでは出向きます。",
+              features: ["出張滞在に便利格安。飲食物持ち込み自由。", "嬉野市嬉野町下宿乙800", "楽天アワード受賞歴"]
+            },
+            {
+              name: "嬉野温泉　旅館　吉田屋",
+              img: "https://img.travel.rakuten.co.jp/share/HOTEL/40786/40786.jpg",
+              rating: 4.3,
+              reviews: 1232,
+              price: "¥17,600〜",
+              access: "博多駅～70分/長崎空港～車40分/SAGAアリーナ～車50分/御船山らかんの湯～車20分/ハウステンボス～車40分",
+              features: ["新大浴場露天風呂＆テラス＆客室が誕生！日本宿TOP49・アワード8年連続受賞★ミシュラン３☆受賞", "嬉野市嬉野町岩屋川内甲379", "楽天アワード受賞歴"]
             }
   ];
 
@@ -128,13 +128,13 @@ export default function FeaturePage() {
         <div className="relative z-20 max-w-4xl mx-auto px-4 text-center">
           <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-amber-500/90 text-white text-sm font-semibold tracking-wider mb-6 shadow-lg backdrop-blur-sm">
             <Sparkles className="w-4 h-4" />
-            <span>渓谷バンジー＆源流露天風呂</span>
+            <span>A5伊万里牛＆武雄温泉美肌湯</span>
           </div>
           <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【絶景バンジー＆渓谷アドベンチャー】日本屈指の高さから大ジャンプ！みなかみ温泉宿5選
+            【極上A5伊万里牛＆武雄温泉美肌湯】1300年の名湯と佐賀の最高峰グルメを堪能する名宿5選
           </h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
-            エメラルドグリーンの渓谷に向かって飛び込むスリル満点バンジージャンプ！アドレナリン全開のアクティビティを体験した後は、利根川源流のせせらぎを聴く露天風呂とサウナで極上のととのいを。
+            澄んだ空気と清らかな水が育んだ最高級黒毛和牛「伊万里牛」！辰野金吾設計の楼門で有名な歴史ある武雄温泉のトロトロ美肌湯と、佐賀牛・伊万里牛の極上ステーキに舌鼓を打つ雅な九州温泉旅。
           </p>
         </div>
       </section>
@@ -145,7 +145,7 @@ export default function FeaturePage() {
         <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
         <Link href="/features" className="hover:text-amber-600 transition-colors shrink-0">特集一覧</Link>
         <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
-        <span className="text-stone-800 font-medium truncate">【絶景バンジー＆渓谷アドベンチャー】日本屈指の高さから大ジャンプ！みなかみ温泉宿5選</span>
+        <span className="text-stone-800 font-medium truncate">【極上A5伊万里牛＆武雄温泉美肌湯】1300年の名湯と佐賀の最高峰グルメを堪能する名宿5選</span>
       </nav>
 
       <main className="max-w-5xl mx-auto px-4 py-8 md:py-12 space-y-16">
@@ -154,11 +154,11 @@ export default function FeaturePage() {
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
             <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              大自然の渓谷へ飛び込む究極の解放感！絶叫アクティビティと名湯みなかみ温泉ステイ
+              とろける極上のサシと1300年の美肌湯。歴史の街・武雄温泉で味わう佐賀の最高峰ステイ
             </h2>
           </div>
           <p className="text-stone-700 leading-relaxed text-base md:text-lg mb-8">
-            高さ数十メートルの橋から大自然の渓谷へ飛び出すバンジージャンプは、一生の思い出になる究極のアドベンチャー。みなかみの雄大な山々と清流を全身で体感した後は、心地よい疲労感とともに天然温泉へ直行。利根川の渓流を眼下に望む露天風呂やウッドデッキサウナで体を芯から温め、上州牛ステーキや地元きのこ鍋など群馬の豊かな味覚を堪能しましょう。
+            宮本武蔵やシーボルトも浸かったとされる名湯「武雄温泉」。弱アルカリ性のぬめりあるお湯は「美肌の湯」として名高く、湯上がりの肌をしっとりと包み込みます。夕食には、きめ細やかな霜降りと上品な甘みが特徴の「A5ランク伊万里牛・佐賀牛」の炭火焼きや陶板焼きをご用意。有明海産の竹崎カニや地元のブランド米とともに、至高の九州美食をご堪能ください。
           </p>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 md:gap-6 pt-6 border-t border-stone-100">
             <div className="p-4 rounded-xl bg-stone-50 border border-stone-100">
@@ -166,24 +166,24 @@ export default function FeaturePage() {
                 <CheckCircle2 className="w-5 h-5" />
                 <span>Point 1</span>
               </div>
-              <h3 className="font-bold text-stone-900 mb-1">スリル満点！日本有数の渓谷バンジージャンプ体験</h3>
-              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">プロインストラクターによる安心のサポート。非日常の絶景フライト。</p>
+              <h3 className="font-bold text-stone-900 mb-1">口溶けまろやかな最高峰「A5伊万里牛ステーキ」</h3>
+              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">全国屈指の肉質を誇るブランド牛。特製わさび醤油と岩塩でシンプルに。</p>
             </div>
             <div className="p-4 rounded-xl bg-stone-50 border border-stone-100">
               <div className="flex items-center gap-2 text-amber-600 font-bold mb-2">
                 <CheckCircle2 className="w-5 h-5" />
                 <span>Point 2</span>
               </div>
-              <h3 className="font-bold text-stone-900 mb-1">渓流のせせらぎとマイナスイオン溢れる露天風呂</h3>
-              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">みなかみ十八湯の豊かな恵み。筋肉の疲れを優しくほぐす名湯。</p>
+              <h3 className="font-bold text-stone-900 mb-1">1300年の歴史を誇る「武雄温泉」源泉かけ流し</h3>
+              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">弱アルカリ単純温泉の柔らかな湯ざわり。疲労回復と美肌効果抜群。</p>
             </div>
             <div className="p-4 rounded-xl bg-stone-50 border border-stone-100">
               <div className="flex items-center gap-2 text-amber-600 font-bold mb-2">
                 <CheckCircle2 className="w-5 h-5" />
                 <span>Point 3</span>
               </div>
-              <h3 className="font-bold text-stone-900 mb-1">上州牛の陶板焼き＆奥利根の山の恵み会席</h3>
-              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">柔らかなブランド牛と地元産採れたて野菜。心温まる郷土の味覚。</p>
+              <h3 className="font-bold text-stone-900 mb-1">辰野金吾建築の楼門や御船山楽園の四季パノラマ</h3>
+              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">歴史的建造物と広大な日本庭園。アートと自然が融合する空間。</p>
             </div>
           </div>
         </section>

@@ -5,16 +5,16 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【絶景バンジー＆渓谷アドベンチャー】日本屈指の高さから大ジャンプ！みなかみ温泉宿5選",
-  description: "エメラルドグリーンの渓谷に向かって飛び込むスリル満点バンジージャンプ！アドレナリン全開のアクティビティを体験した後は、利根川源流のせせらぎを聴く露天風呂とサウナで極上のととのいを。",
-  keywords: "みなかみ 温泉 露天風呂 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
+  title: "【信州・白馬アルプス森林サウナ】北アルプス絶景パノラマ＆白樺水風呂の極上リゾート宿5選",
+  description: "雄大な北アルプスの山並みを望む最新薪ストーブサウナ！白樺林に囲まれたウッドデッキでアロマロウリュを楽しみ、雪解け天然水のシングル水風呂と澄み切った高原の空気で異次元のととのい体験。",
+  keywords: "白馬 サウナ 温泉 ホテル, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/super-panoramic-canyon-bungee-jumping-stay',
+    canonical: 'https://croud-travel.com/organic-forest-infinity-panoramic-sauna-chubu',
   },
   openGraph: {
-    title: "【絶景バンジー＆渓谷アドベンチャー】日本屈指の高さから大ジャンプ！みなかみ温泉宿5選",
-    description: "エメラルドグリーンの渓谷に向かって飛び込むスリル満点バンジージャンプ！アドレナリン全開のアクティビティを体験した後は、利根川源流のせせらぎを聴く露天風呂とサウナで極上のととのいを。",
-    url: 'https://croud-travel.com/super-panoramic-canyon-bungee-jumping-stay',
+    title: "【信州・白馬アルプス森林サウナ】北アルプス絶景パノラマ＆白樺水風呂の極上リゾート宿5選",
+    description: "雄大な北アルプスの山並みを望む最新薪ストーブサウナ！白樺林に囲まれたウッドデッキでアロマロウリュを楽しみ、雪解け天然水のシングル水風呂と澄み切った高原の空気で異次元のととのい体験。",
+    url: 'https://croud-travel.com/organic-forest-infinity-panoramic-sauna-chubu',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -23,14 +23,14 @@ export const metadata: Metadata = {
         url: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80',
         width: 1200,
         height: 630,
-        alt: "【絶景バンジー＆渓谷アドベンチャー】日本屈指の高さから大ジャンプ！みなかみ温泉宿5選",
+        alt: "【信州・白馬アルプス森林サウナ】北アルプス絶景パノラマ＆白樺水風呂の極上リゾート宿5選",
       }
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【絶景バンジー＆渓谷アドベンチャー】日本屈指の高さから大ジャンプ！みなかみ温泉宿5選",
-    description: "エメラルドグリーンの渓谷に向かって飛び込むスリル満点バンジージャンプ！アドレナリン全開のアクティビティを体験した後は、利根川源流のせせらぎを聴く露天風呂とサウナで極上のととのいを。",
+    title: "【信州・白馬アルプス森林サウナ】北アルプス絶景パノラマ＆白樺水風呂の極上リゾート宿5選",
+    description: "雄大な北アルプスの山並みを望む最新薪ストーブサウナ！白樺林に囲まれたウッドデッキでアロマロウリュを楽しみ、雪解け天然水のシングル水風呂と澄み切った高原の空気で異次元のととのい体験。",
   }
 };
 
@@ -38,8 +38,8 @@ export default function FeaturePage() {
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "【絶景バンジー＆渓谷アドベンチャー】日本屈指の高さから大ジャンプ！みなかみ温泉宿5選",
-    "description": "エメラルドグリーンの渓谷に向かって飛び込むスリル満点バンジージャンプ！アドレナリン全開のアクティビティを体験した後は、利根川源流のせせらぎを聴く露天風呂とサウナで極上のととのいを。",
+    "headline": "【信州・白馬アルプス森林サウナ】北アルプス絶景パノラマ＆白樺水風呂の極上リゾート宿5選",
+    "description": "雄大な北アルプスの山並みを望む最新薪ストーブサウナ！白樺林に囲まれたウッドデッキでアロマロウリュを楽しみ、雪解け天然水のシングル水風呂と澄み切った高原の空気で異次元のととのい体験。",
     "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
     "datePublished": "2026-03-27T00:00:00+09:00",
     "dateModified": "2026-03-27T00:00:00+09:00",
@@ -58,55 +58,55 @@ export default function FeaturePage() {
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.com/super-panoramic-canyon-bungee-jumping-stay"
+      "@id": "https://croud-travel.com/organic-forest-infinity-panoramic-sauna-chubu"
     }
   };
 
   const hotelList = [
             {
-              name: "１１種類の貸切露天風呂　水上高原／奥利根温泉　ホテルサンバード",
-              img: "https://img.travel.rakuten.co.jp/share/HOTEL/9340/9340.jpg",
+              name: "白馬姫川温泉　白馬　山のホテル",
+              img: "https://img.travel.rakuten.co.jp/share/HOTEL/2160/2160.jpg",
               rating: 4.0,
-              reviews: 797,
-              price: "¥8,800〜",
-              access: "車で関越自動車道・水上ＩＣから３０分・ＪＲで上越線　水上駅より　湯ノ小屋行きバスで藤原スキー場入口下車900M",
-              features: ["１１種の貸切露天風呂や滝を望む高台の露天風呂など湯めぐりを満喫！高原ＢＢＱプランも大人気！", "利根郡みなかみ町藤原4957-1", "楽天アワード受賞歴"]
+              reviews: 129,
+              price: "¥7,000〜",
+              access: "中央道安曇野インター／上信越道長野インターより1時間。ＪＲ大糸線白馬駅／白馬八方バス停　ホテルの送迎有",
+              features: ["白馬ジャンプ台を望む、欧州の山岳リゾートを思わせるクラシックなホテル。", "北安曇郡白馬村北城3477", "楽天アワード受賞歴"]
             },
             {
-              name: "水上温泉郷　谷川温泉　旅館たにがわ",
-              img: "https://img.travel.rakuten.co.jp/share/HOTEL/6999/6999.jpg",
-              rating: 4.5,
-              reviews: 646,
-              price: "¥15,550〜",
-              access: "ＪＲ水上駅より車で７分（送迎あり）、関越自動車道水上ＩＣより１５分",
-              features: ["太宰治ゆかりの宿【スタッフの笑顔と創作料理・おもてなしの心】・貸切露天風呂・足湯も大好評", "利根郡みなかみ町谷川524-1", "楽天アワード受賞歴"]
+              name: "奥白馬温泉　ホテルグリーンプラザ白馬",
+              img: "https://img.travel.rakuten.co.jp/share/HOTEL/11010/11010.jpg",
+              rating: 4.3,
+              reviews: 1742,
+              price: "¥10,185〜",
+              access: "上信越道 長野IC オリンピック道路 R148号経由90分/『南小谷駅』より無料送迎バス有り 約20分（予約制）",
+              features: ["白馬の大自然＆温泉＆バイキングを満喫！夏レジャー、紅葉、スキー♪オールシーズン楽しめる高原リゾート", "北安曇郡小谷村千国乙12860-1", "楽天アワード受賞歴"]
             },
             {
-              name: "水上温泉郷　湯檜曽温泉　天空の湯　なかや旅館",
-              img: "https://img.travel.rakuten.co.jp/share/HOTEL/2370/2370.jpg",
-              rating: 4.7,
-              reviews: 528,
-              price: "¥7,700〜",
-              access: "車：水上ICから約15分　車以外：上越線ゆびそ駅より徒歩5分、又は水上駅よりバス・タクシーで約10分　",
-              features: ["4万組以上のママパパに選ばれた赤ちゃんファーストの温泉宿★安心の設備でママもほっと一息できる癒し時間", "利根郡みなかみ町湯桧曽93", "楽天アワード受賞歴"]
+              name: "白馬八方温泉　ホテル五龍館",
+              img: "https://img.travel.rakuten.co.jp/share/HOTEL/74561/74561.jpg",
+              rating: 3.7,
+              reviews: 245,
+              price: "¥14,520〜",
+              access: "白��八方バスターミナルより徒歩で約8分／JR白馬駅より車で約5分",
+              features: ["北アルプスを望む温泉宿。白馬村の自然に包まれ、ゆったりと流れる時間をお楽しみください。", "北安曇郡白馬村北城3353", "楽天アワード受賞歴"]
             },
             {
-              name: "水上温泉郷　やすらぎの宿　旅館「みやま」",
-              img: "https://img.travel.rakuten.co.jp/share/HOTEL/40552/40552.jpg",
-              rating: 4.5,
-              reviews: 5,
-              price: "¥18,000〜",
-              access: "水上駅から車で５分、徒歩２０分／上毛高原駅から車で２０分",
-              features: ["小さな宿で、ゆっくりとした時間をお過ごし下さい！", "利根郡みなかみ町大穴737", "楽天アワード受賞歴"]
+              name: "白馬ログホテル　ミーティア",
+              img: "https://img.travel.rakuten.co.jp/share/HOTEL/19685/19685.jpg",
+              rating: 4.0,
+              reviews: 22,
+              price: "¥9,900〜",
+              access: "ＪＲ大糸線白馬駅／長野新幹線長野駅／上信越道長野ＩＣ、長野道豊科ＩＣ、北陸道糸魚川ＩＣよりそれぞれ白馬方面へ",
+              features: ["★ペットと泊まれる宿★北アルプスが一望できる絶好のロケーション！全7室の大型ログハウス。", "北安曇郡白馬村北城みそら野2937", "楽天アワード受賞歴"]
             },
             {
-              name: "猿ヶ京温泉　仁田屋旅館（にたや）",
-              img: "https://img.travel.rakuten.co.jp/share/HOTEL/28926/28926.jpg",
-              rating: 4.5,
-              reviews: 239,
-              price: "¥5,500〜",
-              access: "上越線後閑駅・上越新幹線上毛高原駅より猿ヶ京行きバス関所跡下車200ｍ／関越自動車道月夜野ＩＣよりR17号車２０分",
-              features: ["源泉かけ流し　一晩中入浴可能", "利根郡みなかみ町猿ヶ京温泉１１４３", "楽天アワード受賞歴"]
+              name: "白馬樅の木ホテル",
+              img: "https://img.travel.rakuten.co.jp/share/HOTEL/28381/28381.jpg",
+              rating: 4.3,
+              reviews: 435,
+              price: "¥10,864〜",
+              access: "白馬駅より無料送迎（要予約）5分／安曇野ICより国道148号60分／専用へリポートまでヘリで成田より75分",
+              features: ["貸切温泉OPEN★新しいビュッフェと和牛しゃぶしゃぶが好評♪敷地内に英国調パブ有★八方まで徒歩3分", "北安曇郡白馬村北城4683-2", "楽天アワード受賞歴"]
             }
   ];
 
@@ -128,13 +128,13 @@ export default function FeaturePage() {
         <div className="relative z-20 max-w-4xl mx-auto px-4 text-center">
           <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-amber-500/90 text-white text-sm font-semibold tracking-wider mb-6 shadow-lg backdrop-blur-sm">
             <Sparkles className="w-4 h-4" />
-            <span>渓谷バンジー＆源流露天風呂</span>
+            <span>北アルプス森林サウナ＆雪解け水風呂</span>
           </div>
           <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【絶景バンジー＆渓谷アドベンチャー】日本屈指の高さから大ジャンプ！みなかみ温泉宿5選
+            【信州・白馬アルプス森林サウナ】北アルプス絶景パノラマ＆白樺水風呂の極上リゾート宿5選
           </h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
-            エメラルドグリーンの渓谷に向かって飛び込むスリル満点バンジージャンプ！アドレナリン全開のアクティビティを体験した後は、利根川源流のせせらぎを聴く露天風呂とサウナで極上のととのいを。
+            雄大な北アルプスの山並みを望む最新薪ストーブサウナ！白樺林に囲まれたウッドデッキでアロマロウリュを楽しみ、雪解け天然水のシングル水風呂と澄み切った高原の空気で異次元のととのい体験。
           </p>
         </div>
       </section>
@@ -145,7 +145,7 @@ export default function FeaturePage() {
         <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
         <Link href="/features" className="hover:text-amber-600 transition-colors shrink-0">特集一覧</Link>
         <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
-        <span className="text-stone-800 font-medium truncate">【絶景バンジー＆渓谷アドベンチャー】日本屈指の高さから大ジャンプ！みなかみ温泉宿5選</span>
+        <span className="text-stone-800 font-medium truncate">【信州・白馬アルプス森林サウナ】北アルプス絶景パノラマ＆白樺水風呂の極上リゾート宿5選</span>
       </nav>
 
       <main className="max-w-5xl mx-auto px-4 py-8 md:py-12 space-y-16">
@@ -154,11 +154,11 @@ export default function FeaturePage() {
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
             <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              大自然の渓谷へ飛び込む究極の解放感！絶叫アクティビティと名湯みなかみ温泉ステイ
+              視界を埋め尽くす北アルプス三山。信州の大自然に抱かれる本格アウトドアサウナリゾート
             </h2>
           </div>
           <p className="text-stone-700 leading-relaxed text-base md:text-lg mb-8">
-            高さ数十メートルの橋から大自然の渓谷へ飛び出すバンジージャンプは、一生の思い出になる究極のアドベンチャー。みなかみの雄大な山々と清流を全身で体感した後は、心地よい疲労感とともに天然温泉へ直行。利根川の渓流を眼下に望む露天風呂やウッドデッキサウナで体を芯から温め、上州牛ステーキや地元きのこ鍋など群馬の豊かな味覚を堪能しましょう。
+            標高の高い信州・白馬エリアに広がる本格サウナリゾート。北欧風の木造サウナキャビンでは、地元産白樺のヴィヒタを使ったセルフロウリュが楽しめます。サウナ室の大きな窓からアルプスの雄姿を眺めた後は、北アルプスの雪解け湧水かけ流し水風呂へ。澄み切った高原の風を全身に浴びるインフィニティ外気浴で、心身が完全に解き放たれる極上の時間をお過ごしください。
           </p>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 md:gap-6 pt-6 border-t border-stone-100">
             <div className="p-4 rounded-xl bg-stone-50 border border-stone-100">
@@ -166,24 +166,24 @@ export default function FeaturePage() {
                 <CheckCircle2 className="w-5 h-5" />
                 <span>Point 1</span>
               </div>
-              <h3 className="font-bold text-stone-900 mb-1">スリル満点！日本有数の渓谷バンジージャンプ体験</h3>
-              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">プロインストラクターによる安心のサポート。非日常の絶景フライト。</p>
+              <h3 className="font-bold text-stone-900 mb-1">北アルプス白馬連峰を望む絶景薪サウナキャビン</h3>
+              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">HARVIA製薪ストーブの柔らかな熱。地元白樺のアロマ水ロウリュ。</p>
             </div>
             <div className="p-4 rounded-xl bg-stone-50 border border-stone-100">
               <div className="flex items-center gap-2 text-amber-600 font-bold mb-2">
                 <CheckCircle2 className="w-5 h-5" />
                 <span>Point 2</span>
               </div>
-              <h3 className="font-bold text-stone-900 mb-1">渓流のせせらぎとマイナスイオン溢れる露天風呂</h3>
-              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">みなかみ十八湯の豊かな恵み。筋肉の疲れを優しくほぐす名湯。</p>
+              <h3 className="font-bold text-stone-900 mb-1">北アルプス雪解け湧水「シングル・超軟水水風呂」</h3>
+              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">飲めるほど清らかな天然水。肌に染み渡る極上の爽快感。</p>
             </div>
             <div className="p-4 rounded-xl bg-stone-50 border border-stone-100">
               <div className="flex items-center gap-2 text-amber-600 font-bold mb-2">
                 <CheckCircle2 className="w-5 h-5" />
                 <span>Point 3</span>
               </div>
-              <h3 className="font-bold text-stone-900 mb-1">上州牛の陶板焼き＆奥利根の山の恵み会席</h3>
-              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">柔らかなブランド牛と地元産採れたて野菜。心温まる郷土の味覚。</p>
+              <h3 className="font-bold text-stone-900 mb-1">満天の星空と高原の澄んだ空気を吸い込む外気浴デッキ</h3>
+              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">インフィニティチェア完備。森のフィトンチッドに包まれるととのい空間。</p>
             </div>
           </div>
         </section>
