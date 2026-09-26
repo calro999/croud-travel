@@ -691,6 +691,42 @@ export default async function FeaturesPage() {
               desc: '部屋のテラスや露天風呂から大迫力の花火を独占観賞する特等席ステイ',
               badge: '花火観賞宿'
             },
+            {
+              slug: 'luxury-private-onsen-with-artisan-coffee-bar',
+              title: '☕ 自家焙煎珈琲×カフェラウンジ温泉宿',
+              desc: '専属バリスタのスペシャリティコーヒーとブックカフェ・美肌名湯',
+              badge: '自家焙煎珈琲'
+            },
+            {
+              slug: 'traditional-sea-bream-rice-taimeshi-gourmet-stay',
+              title: '🐟 名物鯛めし＆天然真鯛会席の温泉宿',
+              desc: '愛媛・明石・鳴門の身の引き締まった天然真鯛尽くしと瀬戸内絶景露天',
+              badge: '名物鯛めし'
+            },
+            {
+              slug: 'super-panoramic-sunset-dune-resort-stay',
+              title: '🏜️ 大砂丘パノラマ＆サンセット温泉リゾート',
+              desc: '黄金色の風紋と日本海に沈む夕陽、満天の天の川に包まれる砂丘ステイ',
+              badge: '大砂丘絶景'
+            },
+            {
+              slug: 'organic-herbal-steam-bed-ayurveda-resort',
+              title: '🌿 本格アーユルヴェーダ＆薬草温活スパ宿',
+              desc: '極上シロダーラとハーブスチームバス、薬膳料理で心身を再生する休日',
+              badge: 'アーユルヴェーダ'
+            },
+            {
+              slug: 'autumn-chestnut-gourmet-montblanc-stay',
+              title: '🌰 搾りたて生モンブラン＆極上和栗宿',
+              desc: '小布施・丹波の極細生モンブランやホクホク栗おこわを味わう秋旅',
+              badge: '和栗モンブラン'
+            },
+            {
+              slug: 'traditional-bamboo-forest-path-quiet-onsen-stay',
+              title: '🎋 竹林ライトアップ＆静寂露天風呂宿',
+              desc: '青竹が風にそよぐ小径と幻想的なライトアップに包まれる大人の隠れ家',
+              badge: '竹林の静寂'
+            },
           ].map(item => (
             <Link
               key={item.slug}
