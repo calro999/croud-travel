@@ -1015,6 +1015,42 @@ export default async function FeaturesPage() {
               desc: '最高級今治タオルアメニティに包まれる極上ステイと道後名湯・瀬戸内鯛めし会席',
               badge: '今治タオル道後宿'
             },
+            {
+              slug: 'traditional-okinawa-ishigaki-beef-stay',
+              title: '🥩 石垣牛ディナー×川平湾リゾート',
+              desc: '最高峰の石垣牛ステーキ・焼肉ディナーと川平湾・竹富島を望むオーシャンリゾート',
+              badge: '石垣牛リゾート'
+            },
+            {
+              slug: 'luxury-private-onsen-with-scenic-creek-view',
+              title: '🏞️ 渓流専用露天風呂×清流マイナスイオン宿',
+              desc: 'せせらぎの音がBGM！客室専用の渓流露天風呂と川床料理で心洗われる隠れ家',
+              badge: '渓流専用露天風呂'
+            },
+            {
+              slug: 'super-panoramic-sand-dune-camel-stay',
+              title: '🐪 鳥取砂丘絶景×日本海活松葉ガニ名湯宿',
+              desc: '鳥取砂丘の神秘的な風紋散策と水揚げされたばかりの活松葉ガニ・三朝ラジウム温泉',
+              badge: '鳥取砂丘松葉ガニ'
+            },
+            {
+              slug: 'spring-izu-cherry-blossom-and-onsen-stay',
+              title: '🌸 早咲き河津桜×名物金目鯛姿煮の宿',
+              desc: '濃密ピンクの河津桜並木散策と甘辛い金目鯛姿煮・海一望露天風呂を満喫する春旅',
+              badge: '早咲き河津桜宿'
+            },
+            {
+              slug: 'organic-forest-aromatherapy-villa-stay',
+              title: '🌲 森林浴ヴィラ×ヒノキ天然精油アロマ宿',
+              desc: '天然ヒノキ・クロモジ精油のトリートメントと森に囲まれたプライベート温泉ヴィラ',
+              badge: '森林浴アロマヴィラ'
+            },
+            {
+              slug: 'traditional-kyoto-fushimi-sake-brewery-stay',
+              title: '🍶 京都伏見酒蔵巡り×名水仕込み京料理宿',
+              desc: '十石舟が行き交う伏見の白壁酒蔵巡りと名水京料理・日本酒利き酒ペアリング',
+              badge: '伏見酒蔵京料理'
+            },
           ].map(item => (
             <Link
               key={item.slug}
