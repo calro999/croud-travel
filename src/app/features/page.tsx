@@ -835,6 +835,42 @@ export default async function FeaturesPage() {
               desc: '薩摩切子や江戸切子の美しいカットガラス酒器で厳選地酒を味わう特別な夜',
               badge: '伝統切子工芸'
             },
+            {
+              slug: 'traditional-sado-gold-mine-onsen-stay',
+              title: '🥇 佐渡金山世界遺産×日本海海の幸宿',
+              desc: '世界遺産・佐渡金山巡りと南蛮エビ・活カニ会席、七浦海岸の夕日温泉',
+              badge: '佐渡金山世界遺産'
+            },
+            {
+              slug: 'luxury-private-onsen-with-records-vinyl-lounge',
+              title: '📻 アナログレコード×真空管アンプ温泉宿',
+              desc: 'ヴィンテージレコードと名機スピーカーの音色、地酒バーで寛ぐ大人の隠れ家',
+              badge: 'レコード音楽宿'
+            },
+            {
+              slug: 'spring-mountain-vegetable-sansai-tempura-stay',
+              title: '🌱 春の山菜天ぷら×山里の秘湯宿',
+              desc: '雪解けが育む摘みたて山菜天ぷらと山菜尽くし会席、源泉掛け流し秘湯でデトックス',
+              badge: '春の山菜天ぷら'
+            },
+            {
+              slug: 'super-panoramic-canyon-rafting-retreat-stay',
+              title: '🚣 爽快ラフティング×渓谷露天風呂宿',
+              desc: '吉野川・保津川等の激流ラフティング後に渓谷露天風呂とサウナで極上ととのう',
+              badge: '清流ラフティング'
+            },
+            {
+              slug: 'organic-olive-farm-mediterranean-spa-stay',
+              title: '🫒 小豆島オリーブ美食×瀬戸内海スパ宿',
+              desc: '小豆島産搾りたてオリーブオイル会席と天然美肌スパ、多島美の夕日露天',
+              badge: '小豆島オリーブ宿'
+            },
+            {
+              slug: 'traditional-washi-paper-craft-onsen-stay',
+              title: '🏮 手漉き和紙あかり×伝統工芸体験宿',
+              desc: '越前・美濃・土佐の手漉き和紙あかりに包まれる和モダン空間と紙漉き体験',
+              badge: '手漉き和紙の宿'
+            },
           ].map(item => (
             <Link
               key={item.slug}
