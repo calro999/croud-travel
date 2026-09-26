@@ -331,6 +331,78 @@ export default async function FeaturesPage() {
               desc: '尾道・しまなみ海道の部屋持ち込み対応＆展望温泉ホテル',
               badge: 'サイクリング'
             },
+            {
+              slug: 'literary-heritage-bungo-historic-ryokan-stay',
+              title: '📖 文豪ゆかりの老舗温泉旅館',
+              desc: '城崎・湯河原・伊豆の太宰治や川端康成が愛した静寂の宿',
+              badge: '文豪ステイ'
+            },
+            {
+              slug: 'terraced-rice-fields-satoyama-healing-onsen-stay',
+              title: '🌾 日本の原風景・棚田と里山温泉宿',
+              desc: '十日町・能登の黄金の棚田を望む秘湯と郷土野菜会席',
+              badge: '里山癒やし'
+            },
+            {
+              slug: 'spring-water-soba-tofu-gourmet-onsen-stay',
+              title: '🥢 名水仕込みの十割蕎麦＆湯豆腐会席宿',
+              desc: '安曇野・京都嵐山・黒川の清冽な名水グルメと美肌湯',
+              badge: '名水美食'
+            },
+            {
+              slug: 'japan-historic-classic-hotel-heritage-stay',
+              title: '🏨 日本の名門クラシックホテル',
+              desc: '日光・箱根・軽井沢の明治・大正の薫り漂う有形文化財ホテル',
+              badge: '名門ホテル'
+            },
+            {
+              slug: 'winter-kue-gourmet-luxury-fish-onsen-stay',
+              title: '🍲 幻の高級魚・天然本クエ鍋会席宿',
+              desc: '南紀白浜・平戸のコラーゲンたっぷり極上クエ尽くしと絶景露天',
+              badge: '冬のクエ鍋'
+            },
+            {
+              slug: 'mt-fuji-view-private-open-air-bath-luxury-stay',
+              title: '🗻 霊峰富士ビュー・客室露天風呂宿',
+              desc: '河口湖・山中湖の部屋から雄大な富士山を独占する絶景ステイ',
+              badge: '富士山絶景'
+            },
+            {
+              slug: 'ocean-view-seafood-bbq-hamayaki-onsen-stay',
+              title: '🦐 絶景海一望＆海鮮浜焼き・磯料理宿',
+              desc: '南房総・伊豆のサザエやエビを豪快に焼く浜焼きとオーシャンビュー',
+              badge: '海鮮浜焼き'
+            },
+            {
+              slug: 'valley-gorge-suspension-bridge-secret-onsen-stay',
+              title: '🌉 エメラルド渓谷美＆吊り橋秘境露天宿',
+              desc: '祖谷・寸又峡の絶景吊り橋とマイナスイオンあふれる渓流温泉',
+              badge: '渓谷秘湯'
+            },
+            {
+              slug: 'seasonal-flower-garden-botanical-healing-onsen-stay',
+              title: '🌷 四季の花畑＆日本名園の花巡り温泉宿',
+              desc: '伊豆・箱根の四季折々の草花と広大な日本庭園に癒やされるステイ',
+              badge: '名園花巡り'
+            },
+            {
+              slug: 'luxury-pastry-chef-sweets-dessert-gourmet-stay',
+              title: '🍰 専属パティシエ特製スイーツ＆デザート宿',
+              desc: '軽井沢・箱根の一流シェフのデザートビュッフェ＆優美なリゾート',
+              badge: '極上スイーツ'
+            },
+            {
+              slug: 'private-sauna-self-loyly-barrel-sauna-stay',
+              title: '🧖 客室専用サウナ＆セルフロウリュ宿',
+              desc: '富士・八ヶ岳の完全プライベート空間で極上外気浴＆ととのい',
+              badge: '客室サウナ'
+            },
+            {
+              slug: 'stargazing-telescope-planetarium-night-sky-resort',
+              title: '🔭 本格天体望遠鏡＆満天星空リゾート',
+              desc: '南阿蘇・野辺山の天の川観測ツアーと高原プラネタリウム宿',
+              badge: '天体観測'
+            },
           ].map(item => (
             <Link
               key={item.slug}
