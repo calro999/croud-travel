@@ -5,16 +5,16 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【湖上カヌー＆カヤック冒険】富士五湖・中禅寺湖・十和田湖！水上パノラマと絶景温泉宿5選",
-  description: "鏡のように静かな湖面を滑るように進むカヌー＆カヤック体験！富士山を望む本栖湖や日光中禅寺湖、大自然広がる十和田湖など、絶景レイクビューと温泉・サウナで非日常のリフレッシュを叶える宿。",
-  keywords: "カヌー カヤック 湖 温泉 ホテル, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
+  title: "【宇治抹茶スイーツ＆京懐石】老舗茶寮の贅沢甘味と嵐山・東山・宇治の風雅名湯宿5選",
+  description: "香り高く濃厚な本場「宇治抹茶パフェ」「特製抹茶フォンデュ」と、洗練された京懐石！嵐山温泉の湯けむりや竹林の小径、東山の歴史ある町並みを散策し、京都の伝統美と茶の湯文化に癒やされる極上の旅。",
+  keywords: "京都 宇治 嵐山 温泉 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/super-panoramic-lake-canoe-kayak-stay',
+    canonical: 'https://croud-travel.com/traditional-kyoto-ujicha-matcha-sweets-stay',
   },
   openGraph: {
-    title: "【湖上カヌー＆カヤック冒険】富士五湖・中禅寺湖・十和田湖！水上パノラマと絶景温泉宿5選",
-    description: "鏡のように静かな湖面を滑るように進むカヌー＆カヤック体験！富士山を望む本栖湖や日光中禅寺湖、大自然広がる十和田湖など、絶景レイクビューと温泉・サウナで非日常のリフレッシュを叶える宿。",
-    url: 'https://croud-travel.com/super-panoramic-lake-canoe-kayak-stay',
+    title: "【宇治抹茶スイーツ＆京懐石】老舗茶寮の贅沢甘味と嵐山・東山・宇治の風雅名湯宿5選",
+    description: "香り高く濃厚な本場「宇治抹茶パフェ」「特製抹茶フォンデュ」と、洗練された京懐石！嵐山温泉の湯けむりや竹林の小径、東山の歴史ある町並みを散策し、京都の伝統美と茶の湯文化に癒やされる極上の旅。",
+    url: 'https://croud-travel.com/traditional-kyoto-ujicha-matcha-sweets-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -23,14 +23,14 @@ export const metadata: Metadata = {
         url: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80',
         width: 1200,
         height: 630,
-        alt: "【湖上カヌー＆カヤック冒険】富士五湖・中禅寺湖・十和田湖！水上パノラマと絶景温泉宿5選",
+        alt: "【宇治抹茶スイーツ＆京懐石】老舗茶寮の贅沢甘味と嵐山・東山・宇治の風雅名湯宿5選",
       }
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【湖上カヌー＆カヤック冒険】富士五湖・中禅寺湖・十和田湖！水上パノラマと絶景温泉宿5選",
-    description: "鏡のように静かな湖面を滑るように進むカヌー＆カヤック体験！富士山を望む本栖湖や日光中禅寺湖、大自然広がる十和田湖など、絶景レイクビューと温泉・サウナで非日常のリフレッシュを叶える宿。",
+    title: "【宇治抹茶スイーツ＆京懐石】老舗茶寮の贅沢甘味と嵐山・東山・宇治の風雅名湯宿5選",
+    description: "香り高く濃厚な本場「宇治抹茶パフェ」「特製抹茶フォンデュ」と、洗練された京懐石！嵐山温泉の湯けむりや竹林の小径、東山の歴史ある町並みを散策し、京都の伝統美と茶の湯文化に癒やされる極上の旅。",
   }
 };
 
@@ -38,8 +38,8 @@ export default function FeaturePage() {
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "【湖上カヌー＆カヤック冒険】富士五湖・中禅寺湖・十和田湖！水上パノラマと絶景温泉宿5選",
-    "description": "鏡のように静かな湖面を滑るように進むカヌー＆カヤック体験！富士山を望む本栖湖や日光中禅寺湖、大自然広がる十和田湖など、絶景レイクビューと温泉・サウナで非日常のリフレッシュを叶える宿。",
+    "headline": "【宇治抹茶スイーツ＆京懐石】老舗茶寮の贅沢甘味と嵐山・東山・宇治の風雅名湯宿5選",
+    "description": "香り高く濃厚な本場「宇治抹茶パフェ」「特製抹茶フォンデュ」と、洗練された京懐石！嵐山温泉の湯けむりや竹林の小径、東山の歴史ある町並みを散策し、京都の伝統美と茶の湯文化に癒やされる極上の旅。",
     "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
     "datePublished": "2026-03-27T00:00:00+09:00",
     "dateModified": "2026-03-27T00:00:00+09:00",
@@ -58,55 +58,55 @@ export default function FeaturePage() {
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.com/super-panoramic-lake-canoe-kayak-stay"
+      "@id": "https://croud-travel.com/traditional-kyoto-ujicha-matcha-sweets-stay"
     }
   };
 
   const hotelList = [
             {
-              name: "河口湖温泉　足和田ホテル",
-              img: "https://img.travel.rakuten.co.jp/share/HOTEL/4869/4869.jpg",
-              rating: 4.3,
-              reviews: 939,
-              price: "¥7,425〜",
-              access: "【電車】富士急行線河口湖駅より車で約10分【車】河口湖ICより約3キロ・約15分。勝山から湖畔道路を大石方面へ湖畔沿いへ",
-              features: ["人気のワイン風呂や星空露天寝湯、サウナも完備。河口湖畔に佇む当館でのんびり静かなひと時を。", "南都留郡富士河口湖町長浜395", "楽天アワード受賞歴"]
+              name: "京都　嵐山温泉　花伝抄（共立リゾート）（２０２６年５月１日リニューアルオープン）",
+              img: "https://img.travel.rakuten.co.jp/share/HOTEL/130702/130702.jpg",
+              rating: 4.4,
+              reviews: 1970,
+              price: "¥12,900〜",
+              access: "阪急嵐山線「嵐山駅」より徒歩１分。JR「京都駅」より約30分、阪急「梅田駅」より約50分。",
+              features: ["渡月橋まで徒歩約5分！目の前の阪急嵐山駅より京都の中心街まですぐ！天然温泉と5つの貸切風呂が無料！", "京都市西京区嵐山西一川町5-4", "楽天アワード受賞歴"]
             },
             {
-              name: "河口湖温泉　ホテル湖龍",
-              img: "https://img.travel.rakuten.co.jp/share/HOTEL/10731/10731.jpg",
-              rating: 4.3,
-              reviews: 378,
-              price: "¥10,197〜",
-              access: "中央線「大月駅」乗換、富士急行線終点「河口湖駅」よりお車・バスにて5分。中央高速河口湖ICより10分。",
-              features: ["昭和レトロ×漫画×駄菓子×オールインクルーシブ｜湖畔の温泉旅館★漫画カフェや駄菓子バイキングも人気", "南都留郡富士河口湖町浅川630-1", "楽天アワード受賞歴"]
+              name: "京都　嵐山温泉　渡月亭",
+              img: "https://img.travel.rakuten.co.jp/share/HOTEL/8838/8838.jpg",
+              rating: 3.8,
+              reviews: 253,
+              price: "¥23,400〜",
+              access: "京都駅よりＪＲ嵯峨野線嵯峨嵐山駅下車徒歩１５分。阪急京都線桂駅より嵐山線嵐山駅下車徒歩５分。名神京都南ＩＣより約４０分",
+              features: ["【料亭旅館】嵐山・嵯峨野散策に最適な京都・嵐山温泉の宿。", "京都市西京区嵐山中尾下町54-4（渡月橋南詰め）", "楽天アワード受賞歴"]
             },
             {
-              name: "富士河口湖温泉　河口湖パークホテル",
-              img: "https://img.travel.rakuten.co.jp/share/HOTEL/41095/41095.jpg",
-              rating: 4.3,
-              reviews: 264,
-              price: "¥8,500〜",
-              access: "富士急行線　河口湖駅から徒歩17分（無料送迎あり）／中央道 河口湖ＩＣより約１０分",
-              features: ["雄大な富士山と四季折々楽しめる河口湖とともに、70年以上の歴史を歩んでいます。", "南都留郡富士河口湖町船津6713-6", "楽天アワード受賞歴"]
+              name: "京都嵐山　花のいえ",
+              img: "https://img.travel.rakuten.co.jp/share/HOTEL/18908/18908.jpg",
+              rating: 4.5,
+              reviews: 111,
+              price: "¥12,644〜",
+              access: "ＪＲ嵯峨野線（山陰線）「嵯峨嵐山」駅南口より徒歩７分／阪急電車嵐山線「嵐山」駅より徒歩１２分",
+              features: ["【渡月橋すぐ】全21室の純和風旅館。歴史情緒に包まれ味わう京会席。京の風情に浸る特別なひとときを。", "京都市右京区嵯峨天龍寺角倉町9", "楽天アワード受賞歴"]
             },
             {
-              name: "洞爺湖温泉　ホテルグランド　トーヤ",
-              img: "https://img.travel.rakuten.co.jp/share/HOTEL/14467/14467.jpg",
-              rating: 4.1,
-              reviews: 490,
-              price: "¥5,500〜",
-              access: "ＪＲ室蘭本線洞爺駅より車で約15分／道央道虻田洞爺湖ＩＣより20分",
-              features: ["洞爺湖湖畔に位置し、湖に面したお部屋からは中島・羊蹄山(エゾ富士）が一望出来ます。", "虻田郡洞爺湖町洞爺湖温泉 144", "楽天アワード受賞歴"]
+              name: "嵐山温泉彩四季の宿　花筏",
+              img: "https://img.travel.rakuten.co.jp/share/HOTEL/73923/73923.jpg",
+              rating: 4.2,
+              reviews: 311,
+              price: "¥24,035〜",
+              access: "阪急嵐山駅より徒歩５分（渡月橋渡らず）、ＪＲ嵯峨嵐山駅より徒歩約１５分(渡月橋渡る)。JR京都駅３０分、阪急梅田駅５０分",
+              features: ["嵐山散策に便利な渡月橋南詰に位置し、嵐山温泉と京懐石が自慢の癒しの宿。", "京都市西京区嵐山中尾下町57", "楽天アワード受賞歴"]
             },
             {
-              name: "山中湖旭日丘温泉　ホテル清渓",
-              img: "https://img.travel.rakuten.co.jp/share/HOTEL/18658/18658.jpg",
-              rating: 3.9,
-              reviews: 524,
-              price: "¥6,750〜",
-              access: "中央高速バス 山中湖旭日丘より徒歩約15分 ／ 東富士五湖道路山中湖ＩＣを出て国道138号線を旭日丘方面乗用車約5分",
-              features: ["全室温泉＆大浴場完備！夕食はドリンク飲み放題付き。富士GCまで車で約4分！", "南都留郡山中湖村平野506-296", "楽天アワード受賞歴"]
+              name: "旅館あづまや　＜京都府＞",
+              img: "https://img.travel.rakuten.co.jp/share/HOTEL/151223/151223.jpg",
+              rating: 4.2,
+              reviews: 410,
+              price: "¥1,980〜",
+              access: "ＪＲ　京都駅より徒歩にて約12分",
+              features: ["西本願寺からすぐ！アクセス抜群の素泊まり旅館です。", "京都市下京区堀川通り七条上ル（西本願寺前）", "楽天アワード受賞歴"]
             }
   ];
 
@@ -128,13 +128,13 @@ export default function FeaturePage() {
         <div className="relative z-20 max-w-4xl mx-auto px-4 text-center">
           <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-amber-500/90 text-white text-sm font-semibold tracking-wider mb-6 shadow-lg backdrop-blur-sm">
             <Sparkles className="w-4 h-4" />
-            <span>湖上カヌー＆レイクビュー温泉</span>
+            <span>宇治抹茶スイーツ＆京懐石温泉</span>
           </div>
           <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【湖上カヌー＆カヤック冒険】富士五湖・中禅寺湖・十和田湖！水上パノラマと絶景温泉宿5選
+            【宇治抹茶スイーツ＆京懐石】老舗茶寮の贅沢甘味と嵐山・東山・宇治の風雅名湯宿5選
           </h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
-            鏡のように静かな湖面を滑るように進むカヌー＆カヤック体験！富士山を望む本栖湖や日光中禅寺湖、大自然広がる十和田湖など、絶景レイクビューと温泉・サウナで非日常のリフレッシュを叶える宿。
+            香り高く濃厚な本場「宇治抹茶パフェ」「特製抹茶フォンデュ」と、洗練された京懐石！嵐山温泉の湯けむりや竹林の小径、東山の歴史ある町並みを散策し、京都の伝統美と茶の湯文化に癒やされる極上の旅。
           </p>
         </div>
       </section>
@@ -145,7 +145,7 @@ export default function FeaturePage() {
         <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
         <Link href="/features" className="hover:text-amber-600 transition-colors shrink-0">特集一覧</Link>
         <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
-        <span className="text-stone-800 font-medium truncate">【湖上カヌー＆カヤック冒険】富士五湖・中禅寺湖・十和田湖！水上パノラマと絶景温泉宿5選</span>
+        <span className="text-stone-800 font-medium truncate">【宇治抹茶スイーツ＆京懐石】老舗茶寮の贅沢甘味と嵐山・東山・宇治の風雅名湯宿5選</span>
       </nav>
 
       <main className="max-w-5xl mx-auto px-4 py-8 md:py-12 space-y-16">
@@ -154,11 +154,11 @@ export default function FeaturePage() {
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
             <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              パドルひと漕ぎで広がる水と空の世界。湖上カヌー体験と絶景レイクサイド温泉リゾート
+              石臼挽き宇治抹茶の芳醇な香りと京の美学。老舗の極上甘味と嵐山・東山の風雅ステイ
             </h2>
           </div>
           <p className="text-stone-700 leading-relaxed text-base md:text-lg mb-8">
-            波の静かな湖は、初心者やファミリーでも安心してパドリングが楽しめるウォーターアクティビティの天国。富士山の雄姿を湖上から仰ぐ富士五湖や、原生林に囲まれた中禅寺湖・十和田湖で、鳥の声と水音だけの静謐な時間を体感できます。アクティビティを満喫した後は、湖を一望するインフィニティ温泉露天風呂やレイクサイドサウナで至福のととのいを。
+            室町時代より続く茶の湯の本場・京都。お宿のラウンジや老舗茶寮で味わう濃厚な挽きたて抹茶、宇治抹茶パフェや出来立てのわらび餅は格別の味わいです。夕食には出汁の風味豊かな京懐石や湯葉・京野菜料理を心ゆくまで堪能。嵐山温泉の肌触り柔らかな名湯に浸かり、渡月橋や竹林の静寂に包まれる上質な休日をお過ごしください。
           </p>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 md:gap-6 pt-6 border-t border-stone-100">
             <div className="p-4 rounded-xl bg-stone-50 border border-stone-100">
@@ -166,24 +166,24 @@ export default function FeaturePage() {
                 <CheckCircle2 className="w-5 h-5" />
                 <span>Point 1</span>
               </div>
-              <h3 className="font-bold text-stone-900 mb-1">初心者＆家族大歓迎！湖上カヌー・カヤック体験</h3>
-              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">安定感抜群のボートと親切なインストラクター。水面ギリギリの絶景パノラマ。</p>
+              <h3 className="font-bold text-stone-900 mb-1">老舗茶舗厳選！濃厚「宇治抹茶スイーツ」</h3>
+              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">石臼挽き抹茶の深いコクと渋み。出来立て抹茶パフェ、わらび餅、抹茶フォンデュ。</p>
             </div>
             <div className="p-4 rounded-xl bg-stone-50 border border-stone-100">
               <div className="flex items-center gap-2 text-amber-600 font-bold mb-2">
                 <CheckCircle2 className="w-5 h-5" />
                 <span>Point 2</span>
               </div>
-              <h3 className="font-bold text-stone-900 mb-1">湖と一体になるインフィニティレイクビュー露天風呂</h3>
-              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">夕焼けや朝霧に染まる湖面を眺める極上の湯。弱アルカリ性温泉で肌すべすべ。</p>
+              <h3 className="font-bold text-stone-900 mb-1">四季の彩りを映す本格「京懐石＆湯葉料理」</h3>
+              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">旬の京野菜、生麩、鱧や若鮎など職人技が光る繊細で美しい料理の数々。</p>
             </div>
             <div className="p-4 rounded-xl bg-stone-50 border border-stone-100">
               <div className="flex items-center gap-2 text-amber-600 font-bold mb-2">
                 <CheckCircle2 className="w-5 h-5" />
                 <span>Point 3</span>
               </div>
-              <h3 className="font-bold text-stone-900 mb-1">高原野菜と地元ブランド肉のグリルダイニング</h3>
-              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">開放的なテラス席で味わうBBQや創作ディナー。地元クラフトビールとともに。</p>
+              <h3 className="font-bold text-stone-900 mb-1">嵐山温泉の柔らかな湯と静寂の日本庭園</h3>
+              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">弱アルカリ性の美肌湯。竹林のせせらぎを聴きながらの露天風呂でリフレッシュ。</p>
             </div>
           </div>
         </section>

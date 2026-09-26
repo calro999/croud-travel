@@ -5,16 +5,16 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【湖上カヌー＆カヤック冒険】富士五湖・中禅寺湖・十和田湖！水上パノラマと絶景温泉宿5選",
-  description: "鏡のように静かな湖面を滑るように進むカヌー＆カヤック体験！富士山を望む本栖湖や日光中禅寺湖、大自然広がる十和田湖など、絶景レイクビューと温泉・サウナで非日常のリフレッシュを叶える宿。",
-  keywords: "カヌー カヤック 湖 温泉 ホテル, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
+  title: "【九谷焼の鮮やかな器と加賀懐石】五彩の美学！山代・山中・片山津の加賀温泉郷名湯宿5選",
+  description: "「ジャパン・クタニ」として世界を魅了する伝統工芸「九谷焼（くたにやき）」！緑・黄・赤・紫・紺青の五彩が美しい器で味わう日本海の極上海鮮会席と、開湯1300年の歴史を誇る加賀温泉郷の名湯に寛ぐ雅な旅。",
+  keywords: "加賀温泉 九谷焼 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/super-panoramic-lake-canoe-kayak-stay',
+    canonical: 'https://croud-travel.com/traditional-ishikawa-kutaniyaki-art-stay',
   },
   openGraph: {
-    title: "【湖上カヌー＆カヤック冒険】富士五湖・中禅寺湖・十和田湖！水上パノラマと絶景温泉宿5選",
-    description: "鏡のように静かな湖面を滑るように進むカヌー＆カヤック体験！富士山を望む本栖湖や日光中禅寺湖、大自然広がる十和田湖など、絶景レイクビューと温泉・サウナで非日常のリフレッシュを叶える宿。",
-    url: 'https://croud-travel.com/super-panoramic-lake-canoe-kayak-stay',
+    title: "【九谷焼の鮮やかな器と加賀懐石】五彩の美学！山代・山中・片山津の加賀温泉郷名湯宿5選",
+    description: "「ジャパン・クタニ」として世界を魅了する伝統工芸「九谷焼（くたにやき）」！緑・黄・赤・紫・紺青の五彩が美しい器で味わう日本海の極上海鮮会席と、開湯1300年の歴史を誇る加賀温泉郷の名湯に寛ぐ雅な旅。",
+    url: 'https://croud-travel.com/traditional-ishikawa-kutaniyaki-art-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -23,14 +23,14 @@ export const metadata: Metadata = {
         url: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80',
         width: 1200,
         height: 630,
-        alt: "【湖上カヌー＆カヤック冒険】富士五湖・中禅寺湖・十和田湖！水上パノラマと絶景温泉宿5選",
+        alt: "【九谷焼の鮮やかな器と加賀懐石】五彩の美学！山代・山中・片山津の加賀温泉郷名湯宿5選",
       }
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【湖上カヌー＆カヤック冒険】富士五湖・中禅寺湖・十和田湖！水上パノラマと絶景温泉宿5選",
-    description: "鏡のように静かな湖面を滑るように進むカヌー＆カヤック体験！富士山を望む本栖湖や日光中禅寺湖、大自然広がる十和田湖など、絶景レイクビューと温泉・サウナで非日常のリフレッシュを叶える宿。",
+    title: "【九谷焼の鮮やかな器と加賀懐石】五彩の美学！山代・山中・片山津の加賀温泉郷名湯宿5選",
+    description: "「ジャパン・クタニ」として世界を魅了する伝統工芸「九谷焼（くたにやき）」！緑・黄・赤・紫・紺青の五彩が美しい器で味わう日本海の極上海鮮会席と、開湯1300年の歴史を誇る加賀温泉郷の名湯に寛ぐ雅な旅。",
   }
 };
 
@@ -38,8 +38,8 @@ export default function FeaturePage() {
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "【湖上カヌー＆カヤック冒険】富士五湖・中禅寺湖・十和田湖！水上パノラマと絶景温泉宿5選",
-    "description": "鏡のように静かな湖面を滑るように進むカヌー＆カヤック体験！富士山を望む本栖湖や日光中禅寺湖、大自然広がる十和田湖など、絶景レイクビューと温泉・サウナで非日常のリフレッシュを叶える宿。",
+    "headline": "【九谷焼の鮮やかな器と加賀懐石】五彩の美学！山代・山中・片山津の加賀温泉郷名湯宿5選",
+    "description": "「ジャパン・クタニ」として世界を魅了する伝統工芸「九谷焼（くたにやき）」！緑・黄・赤・紫・紺青の五彩が美しい器で味わう日本海の極上海鮮会席と、開湯1300年の歴史を誇る加賀温泉郷の名湯に寛ぐ雅な旅。",
     "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
     "datePublished": "2026-03-27T00:00:00+09:00",
     "dateModified": "2026-03-27T00:00:00+09:00",
@@ -58,55 +58,55 @@ export default function FeaturePage() {
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.com/super-panoramic-lake-canoe-kayak-stay"
+      "@id": "https://croud-travel.com/traditional-ishikawa-kutaniyaki-art-stay"
     }
   };
 
   const hotelList = [
             {
-              name: "河口湖温泉　足和田ホテル",
-              img: "https://img.travel.rakuten.co.jp/share/HOTEL/4869/4869.jpg",
-              rating: 4.3,
-              reviews: 939,
-              price: "¥7,425〜",
-              access: "【電車】富士急行線河口湖駅より車で約10分【車】河口湖ICより約3キロ・約15分。勝山から湖畔道路を大石方面へ湖畔沿いへ",
-              features: ["人気のワイン風呂や星空露天寝湯、サウナも完備。河口湖畔に佇む当館でのんびり静かなひと時を。", "南都留郡富士河口湖町長浜395", "楽天アワード受賞歴"]
+              name: "温泉めい想倶楽部　富士屋旅館",
+              img: "https://img.travel.rakuten.co.jp/share/HOTEL/5174/5174.jpg",
+              rating: 4.0,
+              reviews: 990,
+              price: "¥7,040〜",
+              access: "【ＪＲ】北陸本線加賀温泉駅より送迎有（１4：３０～１８：００）要事前予約／【車】北陸道加賀IC又は片山津ICより約20分",
+              features: ["【料理高評価】ライブラリ・ギャラリー・無料卓球・など嬉しいがいっぱい♪◆楽天トラベルアワード受賞の宿", "加賀市山代温泉桔梗ヶ丘2-121-3", "楽天アワード受賞歴"]
             },
             {
-              name: "河口湖温泉　ホテル湖龍",
-              img: "https://img.travel.rakuten.co.jp/share/HOTEL/10731/10731.jpg",
-              rating: 4.3,
-              reviews: 378,
-              price: "¥10,197〜",
-              access: "中央線「大月駅」乗換、富士急行線終点「河口湖駅」よりお車・バスにて5分。中央高速河口湖ICより10分。",
-              features: ["昭和レトロ×漫画×駄菓子×オールインクルーシブ｜湖畔の温泉旅館★漫画カフェや駄菓子バイキングも人気", "南都留郡富士河口湖町浅川630-1", "楽天アワード受賞歴"]
-            },
-            {
-              name: "富士河口湖温泉　河口湖パークホテル",
-              img: "https://img.travel.rakuten.co.jp/share/HOTEL/41095/41095.jpg",
-              rating: 4.3,
-              reviews: 264,
-              price: "¥8,500〜",
-              access: "富士急行線　河口湖駅から徒歩17分（無料送迎あり）／中央道 河口湖ＩＣより約１０分",
-              features: ["雄大な富士山と四季折々楽しめる河口湖とともに、70年以上の歴史を歩んでいます。", "南都留郡富士河口湖町船津6713-6", "楽天アワード受賞歴"]
-            },
-            {
-              name: "洞爺湖温泉　ホテルグランド　トーヤ",
-              img: "https://img.travel.rakuten.co.jp/share/HOTEL/14467/14467.jpg",
-              rating: 4.1,
-              reviews: 490,
-              price: "¥5,500〜",
-              access: "ＪＲ室蘭本線洞爺駅より車で約15分／道央道虻田洞爺湖ＩＣより20分",
-              features: ["洞爺湖湖畔に位置し、湖に面したお部屋からは中島・羊蹄山(エゾ富士）が一望出来ます。", "虻田郡洞爺湖町洞爺湖温泉 144", "楽天アワード受賞歴"]
-            },
-            {
-              name: "山中湖旭日丘温泉　ホテル清渓",
-              img: "https://img.travel.rakuten.co.jp/share/HOTEL/18658/18658.jpg",
+              name: "加賀山代温泉　みどりの宿　萬松閣",
+              img: "https://img.travel.rakuten.co.jp/share/HOTEL/54103/54103.jpg",
               rating: 3.9,
-              reviews: 524,
-              price: "¥6,750〜",
-              access: "中央高速バス 山中湖旭日丘より徒歩約15分 ／ 東富士五湖道路山中湖ＩＣを出て国道138号線を旭日丘方面乗用車約5分",
-              features: ["全室温泉＆大浴場完備！夕食はドリンク飲み放題付き。富士GCまで車で約4分！", "南都留郡山中湖村平野506-296", "楽天アワード受賞歴"]
+              reviews: 915,
+              price: "¥13,200〜",
+              access: "JR加賀温泉駅 車15分　無料送迎有　完全予約制　前日18時迄　迎え　14：50　15：50　16：50",
+              features: ["山代温泉の高台に位置する緑の自然に囲まれた宿。心まで潤う　源泉かけ流し温泉でリラックス♪", "加賀市山代温泉東山町3番地　", "楽天アワード受賞歴"]
+            },
+            {
+              name: "山代温泉　瑠璃光",
+              img: "https://img.travel.rakuten.co.jp/share/HOTEL/6191/6191.jpg",
+              rating: 4.3,
+              reviews: 1483,
+              price: "¥7,623〜",
+              access: "【ＪＲ】「加賀温泉駅」より無料送迎バス有（詳細は公式HP）【車】北陸道「加賀IC」or「片山津IC」より約20分",
+              features: ["進化する日本の宿。上質な心地よいもてなしでお客様をお迎えします", "加賀市山代温泉19-58-1", "楽天アワード受賞歴"]
+            },
+            {
+              name: "山代温泉　ゆ湯の宿　白山菖蒲亭",
+              img: "https://img.travel.rakuten.co.jp/share/HOTEL/6003/6003.jpg",
+              rating: 4.2,
+              reviews: 649,
+              price: "¥8,316〜",
+              access: "北陸自動車道加賀ＩＣより車で約10分。加賀温泉駅下車　送迎バス約10分",
+              features: ["加賀・山代温泉の客室露天風呂で贅沢空間をご堪能！加温加水なしの天然温泉や四季を感じる「食」が自慢の宿", "加賀市山代温泉桔梗丘4-34-1", "楽天アワード受賞歴"]
+            },
+            {
+              name: "山中温泉　吉祥やまなか",
+              img: "https://img.travel.rakuten.co.jp/share/HOTEL/67124/67124.jpg",
+              rating: 4.7,
+              reviews: 1657,
+              price: "¥16,500〜",
+              access: "加賀温泉駅・小松空港から無料送迎あり（要予約/定時便）【車】加賀ICより14分。金沢・福井へは車で1時間",
+              features: ["清流と名湯、美食に包まれるラグジュアリー宿。山中温泉の文化に触れ、心ほどける静寂の滞在。", "加賀市山中温泉東町1-ホ14-3", "楽天アワード受賞歴"]
             }
   ];
 
@@ -128,13 +128,13 @@ export default function FeaturePage() {
         <div className="relative z-20 max-w-4xl mx-auto px-4 text-center">
           <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-amber-500/90 text-white text-sm font-semibold tracking-wider mb-6 shadow-lg backdrop-blur-sm">
             <Sparkles className="w-4 h-4" />
-            <span>湖上カヌー＆レイクビュー温泉</span>
+            <span>九谷焼の器＆加賀懐石温泉</span>
           </div>
           <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【湖上カヌー＆カヤック冒険】富士五湖・中禅寺湖・十和田湖！水上パノラマと絶景温泉宿5選
+            【九谷焼の鮮やかな器と加賀懐石】五彩の美学！山代・山中・片山津の加賀温泉郷名湯宿5選
           </h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
-            鏡のように静かな湖面を滑るように進むカヌー＆カヤック体験！富士山を望む本栖湖や日光中禅寺湖、大自然広がる十和田湖など、絶景レイクビューと温泉・サウナで非日常のリフレッシュを叶える宿。
+            「ジャパン・クタニ」として世界を魅了する伝統工芸「九谷焼（くたにやき）」！緑・黄・赤・紫・紺青の五彩が美しい器で味わう日本海の極上海鮮会席と、開湯1300年の歴史を誇る加賀温泉郷の名湯に寛ぐ雅な旅。
           </p>
         </div>
       </section>
@@ -145,7 +145,7 @@ export default function FeaturePage() {
         <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
         <Link href="/features" className="hover:text-amber-600 transition-colors shrink-0">特集一覧</Link>
         <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
-        <span className="text-stone-800 font-medium truncate">【湖上カヌー＆カヤック冒険】富士五湖・中禅寺湖・十和田湖！水上パノラマと絶景温泉宿5選</span>
+        <span className="text-stone-800 font-medium truncate">【九谷焼の鮮やかな器と加賀懐石】五彩の美学！山代・山中・片山津の加賀温泉郷名湯宿5選</span>
       </nav>
 
       <main className="max-w-5xl mx-auto px-4 py-8 md:py-12 space-y-16">
@@ -154,11 +154,11 @@ export default function FeaturePage() {
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
             <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              パドルひと漕ぎで広がる水と空の世界。湖上カヌー体験と絶景レイクサイド温泉リゾート
+              鮮やかな五彩の器と日本海の贅。九谷焼のアート空間と加賀温泉郷の名湯で過ごす風雅な休日
             </h2>
           </div>
           <p className="text-stone-700 leading-relaxed text-base md:text-lg mb-8">
-            波の静かな湖は、初心者やファミリーでも安心してパドリングが楽しめるウォーターアクティビティの天国。富士山の雄姿を湖上から仰ぐ富士五湖や、原生林に囲まれた中禅寺湖・十和田湖で、鳥の声と水音だけの静謐な時間を体感できます。アクティビティを満喫した後は、湖を一望するインフィニティ温泉露天風呂やレイクサイドサウナで至福のととのいを。
+            絢爛豪華な色彩と大胆な絵付けで知られる石川の伝統工芸「九谷焼」。宿の食事処では、人間国宝や気鋭の作家が手掛けた九谷焼の器に、のどぐろ塩焼き、加能ガニ、能登牛などの極上加賀料理が美しく盛られます。北大路魯山人ゆかりの山代温泉や鶴仙渓の山中温泉で、歴史ある美肌の名湯に浸かり、伝統工芸と美食の粋を味わい尽くす大人の休日をお楽しみください。
           </p>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 md:gap-6 pt-6 border-t border-stone-100">
             <div className="p-4 rounded-xl bg-stone-50 border border-stone-100">
@@ -166,24 +166,24 @@ export default function FeaturePage() {
                 <CheckCircle2 className="w-5 h-5" />
                 <span>Point 1</span>
               </div>
-              <h3 className="font-bold text-stone-900 mb-1">初心者＆家族大歓迎！湖上カヌー・カヤック体験</h3>
-              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">安定感抜群のボートと親切なインストラクター。水面ギリギリの絶景パノラマ。</p>
+              <h3 className="font-bold text-stone-900 mb-1">人間国宝・名工が手掛ける「九谷焼」の器で楽しむ会席</h3>
+              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">九谷五彩の鮮やかな色彩美。目でも舌でも味わう芸術的な加賀料理。</p>
             </div>
             <div className="p-4 rounded-xl bg-stone-50 border border-stone-100">
               <div className="flex items-center gap-2 text-amber-600 font-bold mb-2">
                 <CheckCircle2 className="w-5 h-5" />
                 <span>Point 2</span>
               </div>
-              <h3 className="font-bold text-stone-900 mb-1">湖と一体になるインフィニティレイクビュー露天風呂</h3>
-              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">夕焼けや朝霧に染まる湖面を眺める極上の湯。弱アルカリ性温泉で肌すべすべ。</p>
+              <h3 className="font-bold text-stone-900 mb-1">のどぐろ・加能ガニ・能登牛の贅沢フルコース</h3>
+              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">脂がのった高級魚のどぐろ塩焼きや能登牛ステーキなど石川の味覚満載。</p>
             </div>
             <div className="p-4 rounded-xl bg-stone-50 border border-stone-100">
               <div className="flex items-center gap-2 text-amber-600 font-bold mb-2">
                 <CheckCircle2 className="w-5 h-5" />
                 <span>Point 3</span>
               </div>
-              <h3 className="font-bold text-stone-900 mb-1">高原野菜と地元ブランド肉のグリルダイニング</h3>
-              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">開放的なテラス席で味わうBBQや創作ディナー。地元クラフトビールとともに。</p>
+              <h3 className="font-bold text-stone-900 mb-1">開湯1300年！山代・山中温泉の源泉かけ流し美肌湯</h3>
+              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">歴史人や文豪に愛された名湯。総湯の風情と庭園露天風呂で心身を癒やす。</p>
             </div>
           </div>
         </section>

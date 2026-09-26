@@ -5,16 +5,16 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【湖上カヌー＆カヤック冒険】富士五湖・中禅寺湖・十和田湖！水上パノラマと絶景温泉宿5選",
-  description: "鏡のように静かな湖面を滑るように進むカヌー＆カヤック体験！富士山を望む本栖湖や日光中禅寺湖、大自然広がる十和田湖など、絶景レイクビューと温泉・サウナで非日常のリフレッシュを叶える宿。",
-  keywords: "カヌー カヤック 湖 温泉 ホテル, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
+  title: "【北海道大自然バレルサウナ】十勝・ニセコ・富良野！白樺原生林と極上雪解け湧水水風呂宿5選",
+  description: "雄大な北の大地に佇む本格木製バレルサウナ！十勝のアヴァントやニセコの羊蹄山ビュー、富良野の白樺林に囲まれながらのセルフロウリュと、氷点下シングルの天然水風呂・雪ダイブで異次元のととのい体験。",
+  keywords: "北海道 バレルサウナ 温泉, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/super-panoramic-lake-canoe-kayak-stay',
+    canonical: 'https://croud-travel.com/organic-forest-infinity-panoramic-barrel-sauna-hokkaido',
   },
   openGraph: {
-    title: "【湖上カヌー＆カヤック冒険】富士五湖・中禅寺湖・十和田湖！水上パノラマと絶景温泉宿5選",
-    description: "鏡のように静かな湖面を滑るように進むカヌー＆カヤック体験！富士山を望む本栖湖や日光中禅寺湖、大自然広がる十和田湖など、絶景レイクビューと温泉・サウナで非日常のリフレッシュを叶える宿。",
-    url: 'https://croud-travel.com/super-panoramic-lake-canoe-kayak-stay',
+    title: "【北海道大自然バレルサウナ】十勝・ニセコ・富良野！白樺原生林と極上雪解け湧水水風呂宿5選",
+    description: "雄大な北の大地に佇む本格木製バレルサウナ！十勝のアヴァントやニセコの羊蹄山ビュー、富良野の白樺林に囲まれながらのセルフロウリュと、氷点下シングルの天然水風呂・雪ダイブで異次元のととのい体験。",
+    url: 'https://croud-travel.com/organic-forest-infinity-panoramic-barrel-sauna-hokkaido',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -23,14 +23,14 @@ export const metadata: Metadata = {
         url: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80',
         width: 1200,
         height: 630,
-        alt: "【湖上カヌー＆カヤック冒険】富士五湖・中禅寺湖・十和田湖！水上パノラマと絶景温泉宿5選",
+        alt: "【北海道大自然バレルサウナ】十勝・ニセコ・富良野！白樺原生林と極上雪解け湧水水風呂宿5選",
       }
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【湖上カヌー＆カヤック冒険】富士五湖・中禅寺湖・十和田湖！水上パノラマと絶景温泉宿5選",
-    description: "鏡のように静かな湖面を滑るように進むカヌー＆カヤック体験！富士山を望む本栖湖や日光中禅寺湖、大自然広がる十和田湖など、絶景レイクビューと温泉・サウナで非日常のリフレッシュを叶える宿。",
+    title: "【北海道大自然バレルサウナ】十勝・ニセコ・富良野！白樺原生林と極上雪解け湧水水風呂宿5選",
+    description: "雄大な北の大地に佇む本格木製バレルサウナ！十勝のアヴァントやニセコの羊蹄山ビュー、富良野の白樺林に囲まれながらのセルフロウリュと、氷点下シングルの天然水風呂・雪ダイブで異次元のととのい体験。",
   }
 };
 
@@ -38,8 +38,8 @@ export default function FeaturePage() {
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "【湖上カヌー＆カヤック冒険】富士五湖・中禅寺湖・十和田湖！水上パノラマと絶景温泉宿5選",
-    "description": "鏡のように静かな湖面を滑るように進むカヌー＆カヤック体験！富士山を望む本栖湖や日光中禅寺湖、大自然広がる十和田湖など、絶景レイクビューと温泉・サウナで非日常のリフレッシュを叶える宿。",
+    "headline": "【北海道大自然バレルサウナ】十勝・ニセコ・富良野！白樺原生林と極上雪解け湧水水風呂宿5選",
+    "description": "雄大な北の大地に佇む本格木製バレルサウナ！十勝のアヴァントやニセコの羊蹄山ビュー、富良野の白樺林に囲まれながらのセルフロウリュと、氷点下シングルの天然水風呂・雪ダイブで異次元のととのい体験。",
     "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
     "datePublished": "2026-03-27T00:00:00+09:00",
     "dateModified": "2026-03-27T00:00:00+09:00",
@@ -58,55 +58,55 @@ export default function FeaturePage() {
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.com/super-panoramic-lake-canoe-kayak-stay"
+      "@id": "https://croud-travel.com/organic-forest-infinity-panoramic-barrel-sauna-hokkaido"
     }
   };
 
   const hotelList = [
             {
-              name: "河口湖温泉　足和田ホテル",
-              img: "https://img.travel.rakuten.co.jp/share/HOTEL/4869/4869.jpg",
+              name: "奥札幌の秘湯　湖畔の宿支笏湖　丸駒温泉旅館",
+              img: "https://img.travel.rakuten.co.jp/share/HOTEL/30970/30970.jpg",
+              rating: 4.4,
+              reviews: 941,
+              price: "¥10,000〜",
+              access: "ＪＲ千歳駅／新千歳空港より車で５０分、札幌市内、エスコンフィールド、苫小牧港から車で６０分",
+              features: ["【2024,2025年連続アワード受賞宿】2024年リニューアル、国立公園の絶景温泉とサウナが自慢", "千歳市幌美内7番地", "楽天アワード受賞歴"]
+            },
+            {
+              name: "芦別温泉スターライトホテル＆おふろｃａｆｅ星遊館　満天の星空×サウナリゾート",
+              img: "https://img.travel.rakuten.co.jp/share/HOTEL/109464/109464.jpg",
               rating: 4.3,
-              reviews: 939,
-              price: "¥7,425〜",
-              access: "【電車】富士急行線河口湖駅より車で約10分【車】河口湖ICより約3キロ・約15分。勝山から湖畔道路を大石方面へ湖畔沿いへ",
-              features: ["人気のワイン風呂や星空露天寝湯、サウナも完備。河口湖畔に佇む当館でのんびり静かなひと時を。", "南都留郡富士河口湖町長浜395", "楽天アワード受賞歴"]
+              reviews: 1024,
+              price: "¥10,395〜",
+              access: "芦別駅から10分／旭川駅から約60分／旭川空港から約80分／札幌・新千歳空港から約120分（車移動）",
+              features: ["おふろcafeでのんびり！星空露天風呂と３種のサウナでととのう旅を♪　空知・旭川・富良野美瑛観光に！", "芦別市旭町油谷1", "楽天アワード受賞歴"]
             },
             {
-              name: "河口湖温泉　ホテル湖龍",
-              img: "https://img.travel.rakuten.co.jp/share/HOTEL/10731/10731.jpg",
+              name: "みついし昆布温泉　蔵三",
+              img: "https://img.travel.rakuten.co.jp/share/HOTEL/147783/147783.jpg",
               rating: 4.3,
-              reviews: 378,
-              price: "¥10,197〜",
-              access: "中央線「大月駅」乗換、富士急行線終点「河口湖駅」よりお車・バスにて5分。中央高速河口湖ICより10分。",
-              features: ["昭和レトロ×漫画×駄菓子×オールインクルーシブ｜湖畔の温泉旅館★漫画カフェや駄菓子バイキングも人気", "南都留郡富士河口湖町浅川630-1", "楽天アワード受賞歴"]
+              reviews: 148,
+              price: "¥14,500〜",
+              access: "日高三石駅よりお車にて約１０分",
+              features: ["１６室の小さな宿☆豊かな自然、澄んだ空気、太平洋の海の幸、優しい眼差しの馬達！魅力がいっぱい♪", "日高郡新ひだか町三石鳧舞162", "楽天アワード受賞歴"]
             },
             {
-              name: "富士河口湖温泉　河口湖パークホテル",
-              img: "https://img.travel.rakuten.co.jp/share/HOTEL/41095/41095.jpg",
-              rating: 4.3,
-              reviews: 264,
-              price: "¥8,500〜",
-              access: "富士急行線　河口湖駅から徒歩17分（無料送迎あり）／中央道 河口湖ＩＣより約１０分",
-              features: ["雄大な富士山と四季折々楽しめる河口湖とともに、70年以上の歴史を歩んでいます。", "南都留郡富士河口湖町船津6713-6", "楽天アワード受賞歴"]
+              name: "そととまり帯広音更",
+              img: "https://img.travel.rakuten.co.jp/share/HOTEL/188220/188220.jpg",
+              rating: 3.2,
+              reviews: 6,
+              price: "¥10,000〜",
+              access: "帯広駅よりバスで約３２分、音更１２号から徒歩約３分",
+              features: ["＜バレルサウナ付＞北海道の雄大な景観の中で贅沢な時間を過すグランピングドーム", "河東郡音更町字東和西3線71", "楽天アワード受賞歴"]
             },
             {
-              name: "洞爺湖温泉　ホテルグランド　トーヤ",
-              img: "https://img.travel.rakuten.co.jp/share/HOTEL/14467/14467.jpg",
-              rating: 4.1,
-              reviews: 490,
-              price: "¥5,500〜",
-              access: "ＪＲ室蘭本線洞爺駅より車で約15分／道央道虻田洞爺湖ＩＣより20分",
-              features: ["洞爺湖湖畔に位置し、湖に面したお部屋からは中島・羊蹄山(エゾ富士）が一望出来ます。", "虻田郡洞爺湖町洞爺湖温泉 144", "楽天アワード受賞歴"]
-            },
-            {
-              name: "山中湖旭日丘温泉　ホテル清渓",
-              img: "https://img.travel.rakuten.co.jp/share/HOTEL/18658/18658.jpg",
-              rating: 3.9,
-              reviews: 524,
-              price: "¥6,750〜",
-              access: "中央高速バス 山中湖旭日丘より徒歩約15分 ／ 東富士五湖道路山中湖ＩＣを出て国道138号線を旭日丘方面乗用車約5分",
-              features: ["全室温泉＆大浴場完備！夕食はドリンク飲み放題付き。富士GCまで車で約4分！", "南都留郡山中湖村平野506-296", "楽天アワード受賞歴"]
+              name: "ルスツリゾートホテル＆コンベンション",
+              img: "https://img.travel.rakuten.co.jp/share/HOTEL/10656/10656.jpg",
+              rating: 4.4,
+              reviews: 924,
+              price: "¥3,525〜",
+              access: "札幌・新千歳空港～車90分（送迎有・要予約）。JR洞爺駅・JR倶知安駅～バス60分。　[立地：国道230号線沿い]",
+              features: ["[日本最大級◎通年型リゾート]夏は遊園地&amp;ゴルフ！冬はスキーの高原リゾート", "虻田郡留寿都村泉川13", "楽天アワード受賞歴"]
             }
   ];
 
@@ -128,13 +128,13 @@ export default function FeaturePage() {
         <div className="relative z-20 max-w-4xl mx-auto px-4 text-center">
           <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-amber-500/90 text-white text-sm font-semibold tracking-wider mb-6 shadow-lg backdrop-blur-sm">
             <Sparkles className="w-4 h-4" />
-            <span>湖上カヌー＆レイクビュー温泉</span>
+            <span>北海道バレルサウナ＆雪解け湧水</span>
           </div>
           <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【湖上カヌー＆カヤック冒険】富士五湖・中禅寺湖・十和田湖！水上パノラマと絶景温泉宿5選
+            【北海道大自然バレルサウナ】十勝・ニセコ・富良野！白樺原生林と極上雪解け湧水水風呂宿5選
           </h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
-            鏡のように静かな湖面を滑るように進むカヌー＆カヤック体験！富士山を望む本栖湖や日光中禅寺湖、大自然広がる十和田湖など、絶景レイクビューと温泉・サウナで非日常のリフレッシュを叶える宿。
+            雄大な北の大地に佇む本格木製バレルサウナ！十勝のアヴァントやニセコの羊蹄山ビュー、富良野の白樺林に囲まれながらのセルフロウリュと、氷点下シングルの天然水風呂・雪ダイブで異次元のととのい体験。
           </p>
         </div>
       </section>
@@ -145,7 +145,7 @@ export default function FeaturePage() {
         <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
         <Link href="/features" className="hover:text-amber-600 transition-colors shrink-0">特集一覧</Link>
         <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
-        <span className="text-stone-800 font-medium truncate">【湖上カヌー＆カヤック冒険】富士五湖・中禅寺湖・十和田湖！水上パノラマと絶景温泉宿5選</span>
+        <span className="text-stone-800 font-medium truncate">【北海道大自然バレルサウナ】十勝・ニセコ・富良野！白樺原生林と極上雪解け湧水水風呂宿5選</span>
       </nav>
 
       <main className="max-w-5xl mx-auto px-4 py-8 md:py-12 space-y-16">
@@ -154,11 +154,11 @@ export default function FeaturePage() {
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
             <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              パドルひと漕ぎで広がる水と空の世界。湖上カヌー体験と絶景レイクサイド温泉リゾート
+              果てしない北の大地と白樺の香り。北海道の絶景バレルサウナで味わう本場北欧サウナ体験
             </h2>
           </div>
           <p className="text-stone-700 leading-relaxed text-base md:text-lg mb-8">
-            波の静かな湖は、初心者やファミリーでも安心してパドリングが楽しめるウォーターアクティビティの天国。富士山の雄姿を湖上から仰ぐ富士五湖や、原生林に囲まれた中禅寺湖・十和田湖で、鳥の声と水音だけの静謐な時間を体感できます。アクティビティを満喫した後は、湖を一望するインフィニティ温泉露天風呂やレイクサイドサウナで至福のととのいを。
+            サウナの本場・北欧を思わせる北海道の大自然。十勝・ニセコ・富良野エリアに続々誕生しているデザイナーズバレルサウナでは、白樺アロマのロウリュで極上の発汗を楽しめます。サウナから出た後は、大雪山や羊蹄山由来の清らかな天然湧水水風呂や、冬にはパウダースノーへのダイブ外気浴。満天の星空を仰ぎながらのディープリラックスは一生の思い出になります。
           </p>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 md:gap-6 pt-6 border-t border-stone-100">
             <div className="p-4 rounded-xl bg-stone-50 border border-stone-100">
@@ -166,24 +166,24 @@ export default function FeaturePage() {
                 <CheckCircle2 className="w-5 h-5" />
                 <span>Point 1</span>
               </div>
-              <h3 className="font-bold text-stone-900 mb-1">初心者＆家族大歓迎！湖上カヌー・カヤック体験</h3>
-              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">安定感抜群のボートと親切なインストラクター。水面ギリギリの絶景パノラマ。</p>
+              <h3 className="font-bold text-stone-900 mb-1">雄大な山並みと白樺林を望む本格バレルサウナ</h3>
+              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">十勝産カラマツやヒノキを使用。薪ストーブの柔らかな熱とアロマロウリュ。</p>
             </div>
             <div className="p-4 rounded-xl bg-stone-50 border border-stone-100">
               <div className="flex items-center gap-2 text-amber-600 font-bold mb-2">
                 <CheckCircle2 className="w-5 h-5" />
                 <span>Point 2</span>
               </div>
-              <h3 className="font-bold text-stone-900 mb-1">湖と一体になるインフィニティレイクビュー露天風呂</h3>
-              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">夕焼けや朝霧に染まる湖面を眺める極上の湯。弱アルカリ性温泉で肌すべすべ。</p>
+              <h3 className="font-bold text-stone-900 mb-1">羊蹄山・大雪山の「天然雪解け湧水かけ流し水風呂」</h3>
+              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">超軟水のまろやかな肌触り。シングル〜14度のキンキンな冷たさ。</p>
             </div>
             <div className="p-4 rounded-xl bg-stone-50 border border-stone-100">
               <div className="flex items-center gap-2 text-amber-600 font-bold mb-2">
                 <CheckCircle2 className="w-5 h-5" />
                 <span>Point 3</span>
               </div>
-              <h3 className="font-bold text-stone-900 mb-1">高原野菜と地元ブランド肉のグリルダイニング</h3>
-              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">開放的なテラス席で味わうBBQや創作ディナー。地元クラフトビールとともに。</p>
+              <h3 className="font-bold text-stone-900 mb-1">満天の星空と澄んだ空気を吸い込むウッドデッキ外気浴</h3>
+              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">北海道ならではの澄み切った空気。静寂に包まれる究極のととのい時間。</p>
             </div>
           </div>
         </section>

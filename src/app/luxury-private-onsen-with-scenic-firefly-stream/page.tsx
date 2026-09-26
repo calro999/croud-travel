@@ -5,16 +5,16 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【湖上カヌー＆カヤック冒険】富士五湖・中禅寺湖・十和田湖！水上パノラマと絶景温泉宿5選",
-  description: "鏡のように静かな湖面を滑るように進むカヌー＆カヤック体験！富士山を望む本栖湖や日光中禅寺湖、大自然広がる十和田湖など、絶景レイクビューと温泉・サウナで非日常のリフレッシュを叶える宿。",
-  keywords: "カヌー カヤック 湖 温泉 ホテル, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
+  title: "【初夏のホタル乱舞＆清流露天】客室デッキや庭園から幻想的な光を愛でる名湯宿5選",
+  description: "清らかな小川のほとりで優美に光を放つ初夏のホタル！宿の敷地内を流れる小川や客室露天風呂から、闇夜に舞う幻想的なホタルの光を鑑賞できる全国屈指の情緒あふれる温泉宿を厳選紹介。",
+  keywords: "ホタル 露天風呂 温泉 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/super-panoramic-lake-canoe-kayak-stay',
+    canonical: 'https://croud-travel.com/luxury-private-onsen-with-scenic-firefly-stream',
   },
   openGraph: {
-    title: "【湖上カヌー＆カヤック冒険】富士五湖・中禅寺湖・十和田湖！水上パノラマと絶景温泉宿5選",
-    description: "鏡のように静かな湖面を滑るように進むカヌー＆カヤック体験！富士山を望む本栖湖や日光中禅寺湖、大自然広がる十和田湖など、絶景レイクビューと温泉・サウナで非日常のリフレッシュを叶える宿。",
-    url: 'https://croud-travel.com/super-panoramic-lake-canoe-kayak-stay',
+    title: "【初夏のホタル乱舞＆清流露天】客室デッキや庭園から幻想的な光を愛でる名湯宿5選",
+    description: "清らかな小川のほとりで優美に光を放つ初夏のホタル！宿の敷地内を流れる小川や客室露天風呂から、闇夜に舞う幻想的なホタルの光を鑑賞できる全国屈指の情緒あふれる温泉宿を厳選紹介。",
+    url: 'https://croud-travel.com/luxury-private-onsen-with-scenic-firefly-stream',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -23,14 +23,14 @@ export const metadata: Metadata = {
         url: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80',
         width: 1200,
         height: 630,
-        alt: "【湖上カヌー＆カヤック冒険】富士五湖・中禅寺湖・十和田湖！水上パノラマと絶景温泉宿5選",
+        alt: "【初夏のホタル乱舞＆清流露天】客室デッキや庭園から幻想的な光を愛でる名湯宿5選",
       }
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: "【湖上カヌー＆カヤック冒険】富士五湖・中禅寺湖・十和田湖！水上パノラマと絶景温泉宿5選",
-    description: "鏡のように静かな湖面を滑るように進むカヌー＆カヤック体験！富士山を望む本栖湖や日光中禅寺湖、大自然広がる十和田湖など、絶景レイクビューと温泉・サウナで非日常のリフレッシュを叶える宿。",
+    title: "【初夏のホタル乱舞＆清流露天】客室デッキや庭園から幻想的な光を愛でる名湯宿5選",
+    description: "清らかな小川のほとりで優美に光を放つ初夏のホタル！宿の敷地内を流れる小川や客室露天風呂から、闇夜に舞う幻想的なホタルの光を鑑賞できる全国屈指の情緒あふれる温泉宿を厳選紹介。",
   }
 };
 
@@ -38,8 +38,8 @@ export default function FeaturePage() {
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "【湖上カヌー＆カヤック冒険】富士五湖・中禅寺湖・十和田湖！水上パノラマと絶景温泉宿5選",
-    "description": "鏡のように静かな湖面を滑るように進むカヌー＆カヤック体験！富士山を望む本栖湖や日光中禅寺湖、大自然広がる十和田湖など、絶景レイクビューと温泉・サウナで非日常のリフレッシュを叶える宿。",
+    "headline": "【初夏のホタル乱舞＆清流露天】客室デッキや庭園から幻想的な光を愛でる名湯宿5選",
+    "description": "清らかな小川のほとりで優美に光を放つ初夏のホタル！宿の敷地内を流れる小川や客室露天風呂から、闇夜に舞う幻想的なホタルの光を鑑賞できる全国屈指の情緒あふれる温泉宿を厳選紹介。",
     "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
     "datePublished": "2026-03-27T00:00:00+09:00",
     "dateModified": "2026-03-27T00:00:00+09:00",
@@ -58,55 +58,55 @@ export default function FeaturePage() {
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.com/super-panoramic-lake-canoe-kayak-stay"
+      "@id": "https://croud-travel.com/luxury-private-onsen-with-scenic-firefly-stream"
     }
   };
 
   const hotelList = [
             {
-              name: "河口湖温泉　足和田ホテル",
-              img: "https://img.travel.rakuten.co.jp/share/HOTEL/4869/4869.jpg",
+              name: "蔵王ほたるの庭　－　温泉露天風呂付き貸別荘　－　蔵王山水苑　ガイアリゾート　＾",
+              img: "https://img.travel.rakuten.co.jp/share/HOTEL/190671/190671.jpg",
+              rating: 4.5,
+              reviews: 120,
+              price: "¥11,032〜",
+              access: "東白石駅から車で約２８分",
+              features: ["　", "刈田郡蔵王町遠刈田温泉字小妻坂53-93　蔵王ほたるの庭　-　温泉露天風呂付き貸別荘　-　蔵王山水苑　ガイアリゾート", "楽天アワード受賞歴"]
+            },
+            {
+              name: "平山温泉　ほたるの長屋",
+              img: "https://img.travel.rakuten.co.jp/share/HOTEL/52134/52134.jpg",
+              rating: 4.8,
+              reviews: 94,
+              price: "¥15,000〜",
+              access: "ＪＲ鹿児島本線　大牟田駅または玉名駅より車で４５分／福岡空港より高速道路　植木ＩＣより車で２５分",
+              features: ["女性オーナーシェフが手がける、ミシュランガイド掲載旅館の創作料理。全5棟の客室に源泉100％温泉付宿", "山鹿市平山5206-7", "楽天アワード受賞歴"]
+            },
+            {
+              name: "由布院温泉　旅館　ほたるの宿　仙洞",
+              img: "https://img.travel.rakuten.co.jp/share/HOTEL/41834/41834.jpg",
               rating: 4.3,
-              reviews: 939,
+              reviews: 890,
+              price: "¥9,500〜",
+              access: "由布院駅より車で５分／湯布院ＩＣより車で１０分",
+              features: ["金鱗湖近く、木々に囲まれた静かな宿。風呂上りに一杯が楽しめるお宿です。全客室Wi－Fi接続可。", "由布市湯布院町川上2634-1", "楽天アワード受賞歴"]
+            },
+            {
+              name: "ほろしん温泉　ほたる館",
+              img: "https://img.travel.rakuten.co.jp/share/HOTEL/44918/44918.jpg",
+              rating: 4.3,
+              reviews: 181,
+              price: "¥8,374〜",
+              access: "JR石狩沼田駅より町営バス20分。旭川から国道12号線で50分。札幌から道央自動車道で90分",
+              features: ["北空知の雄大な自然に囲まれた静かな温泉宿。豊かな森と田園風景に抱かれ温泉でゆったりと♪", "雨竜郡沼田町幌新377", "楽天アワード受賞歴"]
+            },
+            {
+              name: "ほたる温泉　ホテルハイツ",
+              img: "https://img.travel.rakuten.co.jp/share/HOTEL/31984/31984.jpg",
+              rating: 3.8,
+              reviews: 48,
               price: "¥7,425〜",
-              access: "【電車】富士急行線河口湖駅より車で約10分【車】河口湖ICより約3キロ・約15分。勝山から湖畔道路を大石方面へ湖畔沿いへ",
-              features: ["人気のワイン風呂や星空露天寝湯、サウナも完備。河口湖畔に佇む当館でのんびり静かなひと時を。", "南都留郡富士河口湖町長浜395", "楽天アワード受賞歴"]
-            },
-            {
-              name: "河口湖温泉　ホテル湖龍",
-              img: "https://img.travel.rakuten.co.jp/share/HOTEL/10731/10731.jpg",
-              rating: 4.3,
-              reviews: 378,
-              price: "¥10,197〜",
-              access: "中央線「大月駅」乗換、富士急行線終点「河口湖駅」よりお車・バスにて5分。中央高速河口湖ICより10分。",
-              features: ["昭和レトロ×漫画×駄菓子×オールインクルーシブ｜湖畔の温泉旅館★漫画カフェや駄菓子バイキングも人気", "南都留郡富士河口湖町浅川630-1", "楽天アワード受賞歴"]
-            },
-            {
-              name: "富士河口湖温泉　河口湖パークホテル",
-              img: "https://img.travel.rakuten.co.jp/share/HOTEL/41095/41095.jpg",
-              rating: 4.3,
-              reviews: 264,
-              price: "¥8,500〜",
-              access: "富士急行線　河口湖駅から徒歩17分（無料送迎あり）／中央道 河口湖ＩＣより約１０分",
-              features: ["雄大な富士山と四季折々楽しめる河口湖とともに、70年以上の歴史を歩んでいます。", "南都留郡富士河口湖町船津6713-6", "楽天アワード受賞歴"]
-            },
-            {
-              name: "洞爺湖温泉　ホテルグランド　トーヤ",
-              img: "https://img.travel.rakuten.co.jp/share/HOTEL/14467/14467.jpg",
-              rating: 4.1,
-              reviews: 490,
-              price: "¥5,500〜",
-              access: "ＪＲ室蘭本線洞爺駅より車で約15分／道央道虻田洞爺湖ＩＣより20分",
-              features: ["洞爺湖湖畔に位置し、湖に面したお部屋からは中島・羊蹄山(エゾ富士）が一望出来ます。", "虻田郡洞爺湖町洞爺湖温泉 144", "楽天アワード受賞歴"]
-            },
-            {
-              name: "山中湖旭日丘温泉　ホテル清渓",
-              img: "https://img.travel.rakuten.co.jp/share/HOTEL/18658/18658.jpg",
-              rating: 3.9,
-              reviews: 524,
-              price: "¥6,750〜",
-              access: "中央高速バス 山中湖旭日丘より徒歩約15分 ／ 東富士五湖道路山中湖ＩＣを出て国道138号線を旭日丘方面乗用車約5分",
-              features: ["全室温泉＆大浴場完備！夕食はドリンク飲み放題付き。富士GCまで車で約4分！", "南都留郡山中湖村平野506-296", "楽天アワード受賞歴"]
+              access: "上信越自動車道信州中野ＩＣより約28Ｋｍ約40分。ＪＲ長野駅より志賀高原行バスで７０分",
+              features: ["志賀高原をアクティブに楽しむ方にお薦め☆源泉掛け流し温泉が魅力の宿", "下高井郡山ノ内町大字平穏7148-31", "楽天アワード受賞歴"]
             }
   ];
 
@@ -128,13 +128,13 @@ export default function FeaturePage() {
         <div className="relative z-20 max-w-4xl mx-auto px-4 text-center">
           <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-amber-500/90 text-white text-sm font-semibold tracking-wider mb-6 shadow-lg backdrop-blur-sm">
             <Sparkles className="w-4 h-4" />
-            <span>湖上カヌー＆レイクビュー温泉</span>
+            <span>ホタル乱舞＆清流露天風呂</span>
           </div>
           <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">
-            【湖上カヌー＆カヤック冒険】富士五湖・中禅寺湖・十和田湖！水上パノラマと絶景温泉宿5選
+            【初夏のホタル乱舞＆清流露天】客室デッキや庭園から幻想的な光を愛でる名湯宿5選
           </h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
-            鏡のように静かな湖面を滑るように進むカヌー＆カヤック体験！富士山を望む本栖湖や日光中禅寺湖、大自然広がる十和田湖など、絶景レイクビューと温泉・サウナで非日常のリフレッシュを叶える宿。
+            清らかな小川のほとりで優美に光を放つ初夏のホタル！宿の敷地内を流れる小川や客室露天風呂から、闇夜に舞う幻想的なホタルの光を鑑賞できる全国屈指の情緒あふれる温泉宿を厳選紹介。
           </p>
         </div>
       </section>
@@ -145,7 +145,7 @@ export default function FeaturePage() {
         <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
         <Link href="/features" className="hover:text-amber-600 transition-colors shrink-0">特集一覧</Link>
         <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
-        <span className="text-stone-800 font-medium truncate">【湖上カヌー＆カヤック冒険】富士五湖・中禅寺湖・十和田湖！水上パノラマと絶景温泉宿5選</span>
+        <span className="text-stone-800 font-medium truncate">【初夏のホタル乱舞＆清流露天】客室デッキや庭園から幻想的な光を愛でる名湯宿5選</span>
       </nav>
 
       <main className="max-w-5xl mx-auto px-4 py-8 md:py-12 space-y-16">
@@ -154,11 +154,11 @@ export default function FeaturePage() {
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
             <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              パドルひと漕ぎで広がる水と空の世界。湖上カヌー体験と絶景レイクサイド温泉リゾート
+              暗闇に浮かぶ無数の緑の光。清流のせせらぎとホタルの舞に包まれる初夏の奇跡の夜
             </h2>
           </div>
           <p className="text-stone-700 leading-relaxed text-base md:text-lg mb-8">
-            波の静かな湖は、初心者やファミリーでも安心してパドリングが楽しめるウォーターアクティビティの天国。富士山の雄姿を湖上から仰ぐ富士五湖や、原生林に囲まれた中禅寺湖・十和田湖で、鳥の声と水音だけの静謐な時間を体感できます。アクティビティを満喫した後は、湖を一望するインフィニティ温泉露天風呂やレイクサイドサウナで至福のととのいを。
+            水と空気が清らかな山あいの温泉地でしか見られない初夏の風物詩「ホタル」。客室テラスや庭園の遊歩道から、淡く光りながら飛び交うゲンジボタルやヘイケボタルの幻想的な光景に心奪われます。湯量豊富な源泉かけ流しの露天風呂に浸かりながら、夜風とともに初夏の涼を味わう贅沢。静寂と光のアートに癒やされる特別な温泉ステイをお届けします。
           </p>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 md:gap-6 pt-6 border-t border-stone-100">
             <div className="p-4 rounded-xl bg-stone-50 border border-stone-100">
@@ -166,24 +166,24 @@ export default function FeaturePage() {
                 <CheckCircle2 className="w-5 h-5" />
                 <span>Point 1</span>
               </div>
-              <h3 className="font-bold text-stone-900 mb-1">初心者＆家族大歓迎！湖上カヌー・カヤック体験</h3>
-              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">安定感抜群のボートと親切なインストラクター。水面ギリギリの絶景パノラマ。</p>
+              <h3 className="font-bold text-stone-900 mb-1">敷地内の清流で舞う「幻想的なホタルの光」</h3>
+              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">初夏限定のプレミアム体験。宿の庭園や専用テラスから眺める天然のイルミネーション。</p>
             </div>
             <div className="p-4 rounded-xl bg-stone-50 border border-stone-100">
               <div className="flex items-center gap-2 text-amber-600 font-bold mb-2">
                 <CheckCircle2 className="w-5 h-5" />
                 <span>Point 2</span>
               </div>
-              <h3 className="font-bold text-stone-900 mb-1">湖と一体になるインフィニティレイクビュー露天風呂</h3>
-              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">夕焼けや朝霧に染まる湖面を眺める極上の湯。弱アルカリ性温泉で肌すべすべ。</p>
+              <h3 className="font-bold text-stone-900 mb-1">川のせせらぎを聴く源泉かけ流し露天風呂</h3>
+              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">マイナスイオンたっぷりの渓流沿い温泉。肌を優しく潤す極上の湯浴み。</p>
             </div>
             <div className="p-4 rounded-xl bg-stone-50 border border-stone-100">
               <div className="flex items-center gap-2 text-amber-600 font-bold mb-2">
                 <CheckCircle2 className="w-5 h-5" />
                 <span>Point 3</span>
               </div>
-              <h3 className="font-bold text-stone-900 mb-1">高原野菜と地元ブランド肉のグリルダイニング</h3>
-              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">開放的なテラス席で味わうBBQや創作ディナー。地元クラフトビールとともに。</p>
+              <h3 className="font-bold text-stone-900 mb-1">初夏の味覚！若鮎の塩焼きと地場産山菜会席</h3>
+              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">香ばしい焼き魚や初夏の山の恵み。地酒とともに味わう郷土の味覚。</p>
             </div>
           </div>
         </section>
