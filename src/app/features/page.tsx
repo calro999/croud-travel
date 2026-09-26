@@ -1123,6 +1123,42 @@ export default async function FeaturesPage() {
               desc: '縁起物だるま絵付け体験と365段の石段街散策、茶褐色の名湯「黄金の湯」掛け流し',
               badge: 'だるま絵付け伊香保'
             },
+            {
+              slug: 'traditional-okinawa-agu-pork-shabu-stay',
+              title: '🥓 あぐー豚しゃぶ×美ら海オーシャン宿',
+              desc: '旨味と甘み極まる幻の島豚あぐー豚しゃぶしゃぶと古宇利島・美ら海リゾート',
+              badge: 'あぐー豚しゃぶ'
+            },
+            {
+              slug: 'luxury-private-onsen-with-mud-bath-spa',
+              title: '💆 天然泥パック×極上美肌泥湯の宿',
+              desc: '大地のミネラルを豊富に含む天然泥湯・泥パック！古い角質を落としすべすべ美肌へ',
+              badge: '天然泥パック温泉'
+            },
+            {
+              slug: 'super-panoramic-lake-towada-autumn-leaf-stay',
+              title: '🛶 十和田湖カヌー×奥入瀬渓流名湯リゾート',
+              desc: '神秘のカルデラ湖畔早朝カヌーと奥入瀬渓流散策、青森ヒバ香る温泉大浴場',
+              badge: '十和田湖カヌー'
+            },
+            {
+              slug: 'spring-kumamoto-sweet-melon-kaiseki-stay',
+              title: '🍈 肥後グリーンメロン×阿蘇あか牛溶岩焼き宿',
+              desc: '糖度抜群の熊本ブランドメロンとあか牛溶岩焼きステーキ、阿蘇カルデラ絶景露天',
+              badge: '肥後グリーンメロン'
+            },
+            {
+              slug: 'organic-nordic-barrel-sauna-lakeside-stay',
+              title: '🔥 北欧バレルサウナ×天然湖ダイブ水風呂宿',
+              desc: 'ヒノキ香る丸いバレルサウナでセルフロウリュ！目の前の天然湖へ飛び込む究極のととのい',
+              badge: 'バレルサウナ湖ダイブ'
+            },
+            {
+              slug: 'traditional-gifu-mino-washi-lantern-stay',
+              title: '🏮 長良川鵜飼い篝火×美濃和紙あかり名湯宿',
+              desc: '夕闇に揺れる鵜飼いの篝火と美濃和紙あかりアート、茶褐色の名湯長良川温泉と飛騨牛',
+              badge: '長良川鵜飼い和紙'
+            },
           ].map(item => (
             <Link
               key={item.slug}
