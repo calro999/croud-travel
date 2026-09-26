@@ -403,6 +403,42 @@ export default async function FeaturesPage() {
               desc: '南阿蘇・野辺山の天の川観測ツアーと高原プラネタリウム宿',
               badge: '天体観測'
             },
+            {
+              slug: 'luxury-glamping-dome-tent-private-onsen-stay',
+              title: '⛺ 温泉付きドームテント＆星空グランピング',
+              desc: '冷暖房完備ドームテントと専用温泉露天＆BBQのアウトドア宿',
+              badge: '星空グランピング'
+            },
+            {
+              slug: 'traditional-kaiseki-in-room-open-air-bath-kyoto',
+              title: '🍵 京都町家情緒＆京会席・客室露天風呂宿',
+              desc: '嵐山・東山の風情ある数寄屋造りと坪庭・出汁香る京会席の贅',
+              badge: '京都名宿'
+            },
+            {
+              slug: 'onsen-ryokan-with-oceanfront-infinity-pool-stay',
+              title: '🏊 海直結インフィニティプール＆展望温泉',
+              desc: '海と一体化する幻想プールと絶景展望露天風呂の極上リゾート',
+              badge: 'インフィニティ'
+            },
+            {
+              slug: 'hot-spring-cure-modern-toji-wellness-stay',
+              title: '🌿 現代湯治＆ウェルネス温泉リトリート',
+              desc: '成分濃厚な名湯と自然食・温冷交代浴で心身を根本から整える宿',
+              badge: '現代湯治'
+            },
+            {
+              slug: 'firefly-viewing-summer-stream-night-walk-stay',
+              title: '🌌 初夏のホタル観賞＆清流の涼名湯宿',
+              desc: '敷地内で蛍が乱舞する幻想的な夜と涼やかな川床料理を楽しむ旅',
+              badge: 'ホタル観賞'
+            },
+            {
+              slug: 'traditional-craft-pottery-artisan-village-stay',
+              title: '🏺 名窯元の陶芸体験＆手仕事の器と名湯宿',
+              desc: '益子・有田・信楽などの焼き物の里で陶芸ろくろ体験と美味会席',
+              badge: '陶芸の里'
+            },
           ].map(item => (
             <Link
               key={item.slug}
