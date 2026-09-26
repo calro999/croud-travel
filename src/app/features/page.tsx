@@ -619,6 +619,42 @@ export default async function FeaturesPage() {
               desc: '白砂の枯山水庭園と朝の座禅・写経体験で心を整えるマインドフルネス',
               badge: '枯山水名園'
             },
+            {
+              slug: 'luxury-private-onsen-with-grand-piano-stay',
+              title: '🎹 ピアノ生演奏＆音楽ラウンジ温泉リゾート',
+              desc: '吹き抜けラウンジの生演奏とカクテル・美肌名湯の優雅なマリアージュ',
+              badge: 'ピアノ音楽'
+            },
+            {
+              slug: 'traditional-clay-pot-cooked-rice-gourmet-stay',
+              title: '🍚 土鍋炊き銀シャリ＆究極の朝ごはん宿',
+              desc: '魚沼産コシヒカリを専用土鍋で炊き上げるツヤツヤご飯と名水美食',
+              badge: '土鍋銀シャリ'
+            },
+            {
+              slug: 'super-panoramic-cliff-edge-ocean-onsen-stay',
+              title: '🌊 断崖絶壁・海一望パノラマ露天風呂宿',
+              desc: '海にせり出す断崖から見下ろす水平線と打ち寄せる波のダイナミック絶景',
+              badge: '断崖海絶景'
+            },
+            {
+              slug: 'organic-citrus-yuzu-mikan-aroma-spa-stay',
+              title: '🍊 特産柑橘アロマ風呂＆ビタミン美肌湯宿',
+              desc: '湯船いっぱいに浮かぶ柚子やみかんの香りと天然アロマトリートメント',
+              badge: '柑橘アロマ'
+            },
+            {
+              slug: 'cherry-blossom-viewing-private-bath-spring-stay',
+              title: '🌸 お花見客室露天風呂＆春の桜ステイ宿',
+              desc: '満開の桜を客室露天風呂から独り占め！春の旬を味わう桜会席の贅',
+              badge: 'お花見温泉'
+            },
+            {
+              slug: 'traditional-kimono-yukata-rental-hotspring-town-stay',
+              title: '👘 選べる色浴衣＆外湯めぐり温泉街の宿',
+              desc: '数十種の色浴衣と下駄で街歩き！射的や足湯カフェ、外湯めぐり満喫',
+              badge: '色浴衣散策'
+            },
           ].map(item => (
             <Link
               key={item.slug}
