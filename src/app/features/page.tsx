@@ -1051,6 +1051,42 @@ export default async function FeaturesPage() {
               desc: '十石舟が行き交う伏見の白壁酒蔵巡りと名水京料理・日本酒利き酒ペアリング',
               badge: '伏見酒蔵京料理'
             },
+            {
+              slug: 'traditional-hokkaido-kaisen-don-morning-stay',
+              title: '🦐 いくら盛り放題海鮮朝食×北海道名湯宿',
+              desc: '朝からいくら・ウニ・ホタテかけ放題の豪華勝手丼バイキングと最上階天然温泉',
+              badge: 'いくら盛り放題'
+            },
+            {
+              slug: 'luxury-private-onsen-with-scenic-cliffside-view',
+              title: '🌊 断崖絶壁パノラマ露天×海絶景インフィニティ宿',
+              desc: '空と海にせり出すスリルと開放感！水平線パノラマを一望するテラス露天風呂',
+              badge: '断崖絶壁露天'
+            },
+            {
+              slug: 'super-panoramic-lake-biwa-sup-cruise-stay',
+              title: '⛵ 琵琶湖湖上SUP×おごと温泉リゾート',
+              desc: '白髭神社の湖上鳥居を目指す絶景SUP体験と近江牛ディナー・湖畔温泉露天',
+              badge: '琵琶湖SUPクルーズ'
+            },
+            {
+              slug: 'spring-tanba-sasayama-botan-nabe-stay',
+              title: '🐗 丹波篠山ぼたん鍋×城下町古民家ホテル',
+              desc: '本場丹波篠山の天然猪肉ぼたん鍋と黒豆スイーツ、城下町の風情ある古民家ステイ',
+              badge: '丹波篠山ぼたん鍋'
+            },
+            {
+              slug: 'organic-rooftop-infinity-pool-spa-stay',
+              title: '🏊 ルーフトッププール×都会の天然温泉ホテル',
+              desc: '摩天楼の夜景を見渡す屋上インフィニティプールと本格天然温泉大浴場のアーバンステイ',
+              badge: 'ルーフトッププール'
+            },
+            {
+              slug: 'traditional-iwate-nanbu-ironware-onsen-stay',
+              title: '🍵 伝統南部鉄器×花巻温泉郷の風情名宿',
+              desc: '四百年の技・南部鉄器の鉄瓶で淹れるまろやかなお茶と前沢牛会席、名湯花巻温泉',
+              badge: '南部鉄器名湯宿'
+            },
           ].map(item => (
             <Link
               key={item.slug}
