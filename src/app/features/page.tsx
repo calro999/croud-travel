@@ -583,6 +583,42 @@ export default async function FeaturesPage() {
               desc: '重厚な薬医門や格式高い日本庭園、江戸の風情を残す城下町の名宿',
               badge: '武家屋敷'
             },
+            {
+              slug: 'luxury-chartered-yacht-cruising-resort-stay',
+              title: '⛵ プライベートクルーズ＆マリーナリゾート',
+              desc: '専用クルーザーでのサンセットクルーズと波音露天風呂の極上休日',
+              badge: 'クルーズリゾート'
+            },
+            {
+              slug: 'traditional-soba-making-experience-onsen-stay',
+              title: '🥢 本格そば打ち体験＆打ちたて十割蕎麦宿',
+              desc: '信州・出雲の名水で打つ！手打ちそば体験と揚げたて天ぷら・名湯の旅',
+              badge: 'そば打ち体験'
+            },
+            {
+              slug: 'super-panoramic-gondola-ski-snow-resort',
+              title: '❄️ 山頂ゴンドラ直結＆暖炉ラウンジ宿',
+              desc: 'ホテル前からゴンドラで絶景ゲレンデへ直行！暖炉と雪見露天風呂ステイ',
+              badge: 'ゴンドラ直結'
+            },
+            {
+              slug: 'organic-wine-fermentation-spa-vineyard-stay',
+              title: '🍷 ワイン風呂＆ぶどう畑ワイナリー温泉宿',
+              desc: 'ルビー色のワイン風呂と自家醸造ワインペアリングを愉しむ大人の休日',
+              badge: 'ワイン風呂'
+            },
+            {
+              slug: 'firefly-squid-toyama-spring-gourmet-onsen-stay',
+              title: '🦐 春の富山湾・ホタルイカ＆白エビ会席宿',
+              desc: '富山湾の神秘ホタルイカと宝石白エビ尽くし会席＆宇奈月温泉の贅',
+              badge: '富山湾グルメ'
+            },
+            {
+              slug: 'traditional-tatami-scenic-zen-temple-garden-stay',
+              title: '🪨 枯山水名園＆畳の静寂・禅リトリート宿',
+              desc: '白砂の枯山水庭園と朝の座禅・写経体験で心を整えるマインドフルネス',
+              badge: '枯山水名園'
+            },
           ].map(item => (
             <Link
               key={item.slug}
