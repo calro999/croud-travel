@@ -295,6 +295,42 @@ export default async function FeaturesPage() {
               desc: '奥入瀬・天城湯ヶ島のマイナスイオン溢れる清流滝見温泉',
               badge: '森林浴'
             },
+            {
+              slug: 'sake-bar-free-flow-tasting-onsen-stay',
+              title: '🍶 地酒BAR＆日本酒飲み比べ宿',
+              desc: '越後湯沢・赤湯の常時数十種の銘酒サーバー＆会席ペアリング',
+              badge: '日本酒旅'
+            },
+            {
+              slug: 'winter-fugu-pufferfish-gourmet-onsen-stay',
+              title: '🐡 とらふぐ会席＆ひれ酒名宿',
+              desc: '下関・日間賀島の天然とらふぐ刺し・白子焼き・ひれ酒の贅',
+              badge: 'ふぐ美食'
+            },
+            {
+              slug: 'limestone-cave-underground-lake-adventure-stay',
+              title: '💎 鍾乳洞探検＆地底湖アドベンチャー宿',
+              desc: '龍泉洞・秋芳洞のドラゴンブルー地底湖と周辺名湯旅館',
+              badge: '地底探検'
+            },
+            {
+              slug: 'private-pool-luxury-resort-villa-stay',
+              title: '🏊 専用プール付きラグジュアリーヴィラ',
+              desc: '宮古島・淡路島の24時間泳げるプライベートプール邸宅',
+              badge: 'プールヴィラ'
+            },
+            {
+              slug: 'temple-shukubo-shojin-cuisine-mindfulness-stay',
+              title: '🪷 古刹宿坊＆本格精進料理ステイ',
+              desc: '高野山・善光寺の朝のお勤め体験と滋味あふれる精進料理',
+              badge: 'マインドフルネス'
+            },
+            {
+              slug: 'scenic-cycling-shimanami-lake-resort-stay',
+              title: '🚴 しまなみ＆ビワイチ絶景サイクリング宿',
+              desc: '尾道・しまなみ海道の部屋持ち込み対応＆展望温泉ホテル',
+              badge: 'サイクリング'
+            },
           ].map(item => (
             <Link
               key={item.slug}

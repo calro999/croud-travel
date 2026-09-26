@@ -24,6 +24,17 @@
     "hotelSpecial": "京都駅より徒歩約７分、名神京都南ICから車で約１０分",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F108%2F108.html"
   },
+  "470": {
+    "hotelName": "尾道国際ホテル",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/470/470.jpg",
+    "hotelMinCharge": 4800,
+    "reviewAverage": 4.01,
+    "address1": "広島県",
+    "address2": "尾道市新浜1-13-6",
+    "access": "JR尾道駅より車で3分。尾道駅から送迎可（要オンライン予約）／山陽道尾道・福山西の各ICより20分",
+    "hotelSpecial": "【広島食べんさい店グランプリ受賞】尾道駅から無料送迎＆無料駐車場あり！コンビニ徒歩1分で便利",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F470%2F470.html"
+  },
   "504": {
     "hotelNo": 504,
     "hotelName": "アートホテル弘前シティ",
@@ -753,6 +764,17 @@
     "hotelSpecial": "滋賀県おごと温泉、琵琶湖畔の旅館、露天風呂付客室や近江牛のプラン、家族・カップルに人気の旅館。",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F3165%2F3165.html"
   },
+  "4612": {
+    "hotelName": "尾道第一ホテル",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/4612/4612.jpg",
+    "hotelMinCharge": 5225,
+    "reviewAverage": 3.78,
+    "address1": "広島県",
+    "address2": "尾道市西御所町4-7",
+    "access": "ＪＲ尾道駅より徒歩３分、新尾道駅より車で７分。",
+    "hotelSpecial": "【尾道駅から徒歩3分】◆無料駐車場◆しまなみ海道観光＆サイクリングの拠点に＜尾道水道を望む客室あり＞",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F4612%2F4612.html"
+  },
   "4624": {
     "hotelNo": 4624,
     "hotelName": "天然温泉　田沢湖レイクリゾート",
@@ -802,6 +824,17 @@
     "nearestStation": "鳥羽",
     "hotelSpecial": "【鳥羽駅徒歩圏内の温泉旅館】鳥羽湾一望の客室と13の湯めぐり、地魚解体ショーが人気",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F4761%2F4761.html"
+  },
+  "4766": {
+    "hotelName": "尾道ロイヤルホテル",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/4766/4766.jpg",
+    "hotelMinCharge": 5200,
+    "reviewAverage": 4,
+    "address1": "広島県",
+    "address2": "尾道市土堂2-9-27",
+    "access": "◆JR尾道駅から徒歩で約10分◆JR新尾道駅から車で約10分◆広島空港からバス⇒在来線⇒徒歩で約1時間",
+    "hotelSpecial": "眼下に尾道水道を望み観光歓楽の拠点に最適。桜の名所、千光寺公園行きロープウェイ乗り場まで徒歩５分",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F4766%2F4766.html"
   },
   "4804": {
     "hotelNo": 4804,
@@ -2388,6 +2421,17 @@
     "hotelSpecial": "湖も碧、山の蒼。時を忘れ。そして心がほどける。湖国が織りなす季節に移ろいを感じて。",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8798%2F8798.html"
   },
+  "8805": {
+    "hotelName": "洞川温泉　あたらしや旅館",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8805/8805.jpg",
+    "hotelMinCharge": 11800,
+    "reviewAverage": 4.5,
+    "address1": "奈良県",
+    "address2": "吉野郡天川村洞川215",
+    "access": "近鉄吉野線下市口駅よりバスで80分",
+    "hotelSpecial": "くつろぎの時間",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8805%2F8805.html"
+  },
   "8819": {
     "hotelNo": 8819,
     "hotelName": "日光湯元温泉　ゆ宿　美や川",
@@ -2548,6 +2592,17 @@
     "nearestStation": "下市口",
     "hotelSpecial": "昔ながらの縁側、旅籠の風情を残す全８室の和空間。露天風呂付客室人気",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9273%2F9273.html"
+  },
+  "9362": {
+    "hotelName": "洞川温泉　いろは旅館＜奈良県＞",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9362/9362.jpg",
+    "hotelMinCharge": 14500,
+    "reviewAverage": 4.58,
+    "address1": "奈良県",
+    "address2": "吉野郡天川村洞川248",
+    "access": "近鉄　下市口駅より奈良交通バス（洞川温泉行き）終点",
+    "hotelSpecial": "吉野に観光と美味しい葛を楽しみにいらした際は是非温泉旅館いろはへお越し下さい。",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9362%2F9362.html"
   },
   "9419": {
     "hotelNo": 9419,
@@ -3503,6 +3558,17 @@
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F13743%2F13743.html",
     "featureKey": "bridge_kintaikyo",
     "featureLabel": "山口県岩国市ふるさと納税・五連のアーチが清流錦川に架かる木造美「錦帯橋」橋を一望する岩国国際観光ホテル"
+  },
+  "13751": {
+    "hotelName": "恵光院",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13751/13751.jpg",
+    "hotelMinCharge": 35000,
+    "reviewAverage": 4.53,
+    "address1": "和歌山県",
+    "address2": "伊都郡高野町高野山497",
+    "access": "南海『難波駅』より南海電鉄高野線で『高野山駅』より南海バス10分",
+    "hotelSpecial": "霊峰高野山。静かな宿坊でのひとときが心を癒します。",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F13751%2F13751.html"
   },
   "13811": {
     "hotelName": "美保関温泉　旅館　美保館　国文化財の宿",
@@ -4647,6 +4713,17 @@
     "hotelSpecial": "海まで徒歩0分。波音と絶景を楽しめる、地魚料理の宿。仁右衛門島　徒歩5分、鴨シー、亀田病院 車10分",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F18817%2F18817.html"
   },
+  "18848": {
+    "hotelName": "宮島グランドホテル　有もと",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/18848/18848.jpg",
+    "hotelMinCharge": 14200,
+    "reviewAverage": 4.56,
+    "address1": "広島県",
+    "address2": "廿日市市宮島町南町364",
+    "access": "宮島口桟橋よりフェリーで１０分～宮島桟橋よりマイクロバスにて送迎",
+    "hotelSpecial": "すべてはお客様の満足と笑顔のために。宮島の歴史とともに時を重ねる、世界遺産「厳島神社」に最も近い宿。",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F18848%2F18848.html"
+  },
   "18908": {
     "hotelNo": 18908,
     "hotelName": "京都嵐山　花のいえ",
@@ -5056,6 +5133,17 @@
     "nearestStation": "氷見",
     "hotelSpecial": "朝夕に輝く富山湾の海や雄大な立山連峰の自然の景色の中で氷見の海の幸・山の幸を堪能。",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F20589%2F20589.html"
+  },
+  "20688": {
+    "hotelName": "料理旅館　奥飛騨山草庵　饗家（きょうや）",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/20688/20688.jpg",
+    "hotelMinCharge": 26343,
+    "reviewAverage": 4.79,
+    "address1": "岐阜県",
+    "address2": "高山市奥飛騨温泉郷一重ケ根212-84",
+    "access": "JR高山線・高山駅～バスで70分「新平湯禅通寺���」下車徒歩3分／JR中央線・松本駅～バスで100分／東海北陸道・清見IC",
+    "hotelSpecial": "【1日5組限定】岐阜県随一の名工が腕を振るう、本格料理と源泉掛け流し貸切露天風呂で非日常を味わう旅",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F20688%2F20688.html"
   },
   "25128": {
     "hotelNo": 25128,
@@ -5924,6 +6012,17 @@
     "hotelSpecial": "にごり湯(硫黄泉）掛流しの温泉が自慢です。　柔らかな木漏れ日と爽やかな風が渡る高原の温泉ホテル",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F32030%2F32030.html"
   },
+  "32051": {
+    "hotelName": "那須温泉　大丸温泉旅館",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/32051/32051.jpg",
+    "hotelMinCharge": 15700,
+    "reviewAverage": 4.61,
+    "address1": "栃木県",
+    "address2": "那須郡那須町湯本269",
+    "access": "那須塩原駅・黒磯駅より、路線バス有料送迎サービス有約70分(2日前迄に要予約）／東北自動車道《那須IC》より車で約30分",
+    "hotelSpecial": "山あいの渓谷にたたずむ野趣溢れる露天風呂が名物！奥那須温泉郷の自然と癒しを感じられる天然温泉宿。",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F32051%2F32051.html"
+  },
   "32100": {
     "hotelNo": 32100,
     "hotelName": "白骨温泉　湯元齋藤旅館",
@@ -6199,6 +6298,17 @@
     "nearestStation": "湯田中",
     "hotelSpecial": "エリア最大級の温泉大浴場　湯田中駅から徒歩3分『源泉掛け流しの宿』良質な温泉とサウナを楽しめる♪",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F38584%2F38584.html"
+  },
+  "38599": {
+    "hotelName": "フサキビーチリゾート　ホテル＆ヴィラズ　＜石垣島＞",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38599/38599.jpg",
+    "hotelMinCharge": 15510,
+    "reviewAverage": 4.6,
+    "address1": "沖縄県",
+    "address2": "石垣市新川1625番地",
+    "access": "石垣空港より　車で約35分。石垣港より車で約15分。空港・ホテル間の無料送迎バスもございます。",
+    "hotelSpecial": "【楽天トラベルアワード受賞】島内随一の天然ビーチとプールエリアで極上の休日を",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F38599%2F38599.html"
   },
   "38761": {
     "hotelNo": 38761,
@@ -7554,6 +7664,17 @@
     "hotelSpecial": "自家源泉から湧き出る美肌の湯と食材の宝庫・伊豆の味覚を楽しむ『富士山を眺めながら天空ゴルフリゾート』",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F53749%2F53749.html"
   },
+  "54096": {
+    "hotelName": "萩温泉郷　夕景の宿　海のゆりかご　萩小町",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/54096/54096.jpg",
+    "hotelMinCharge": 11000,
+    "reviewAverage": 4.36,
+    "address1": "山口県",
+    "address2": "萩市椿東越ヶ浜6509",
+    "access": "「JR東萩駅」より車で10分／世界遺産「松下村塾」より車で10分／無料送迎サービスも有り！詳細はお気軽に問合せ下さい。",
+    "hotelSpecial": "【楽天トラベルアワード　10年連続受賞】～日本海の絶景が楽しめる・癒し＆遊びが盛り沢山の宿～",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F54096%2F54096.html"
+  },
   "54102": {
     "hotelNo": 54102,
     "hotelName": "季の湯　雪月花（共立リゾート）",
@@ -8214,6 +8335,17 @@
     "hotelSpecial": "寛永１６年創業。日本三美人の湯で有名な温泉は、美肌、美白効果高く、女性に大変人気です。",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F68138%2F68138.html"
   },
+  "68262": {
+    "hotelName": "洞川温泉　桝源旅館",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/68262/68262.jpg",
+    "hotelMinCharge": 15466,
+    "reviewAverage": 4.13,
+    "address1": "奈良県",
+    "address2": "吉野郡天川村洞川189",
+    "access": "近鉄吉野線　下市口駅より洞川温泉行きバス１本。　車：国道169号から309号。　世界遺産の高野山、熊野古道へも120分圏",
+    "hotelSpecial": "林間学校等でも使われる当館は、古きよき日本の情緒と、最高の自然を今に伝えます。珍しい漢方の温泉。",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F68262%2F68262.html"
+  },
   "68642": {
     "hotelName": "昼神温泉四季の織　はなや（旧ホテルはなや）",
     "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/68642/68642.jpg",
@@ -8823,6 +8955,17 @@
     "nearestStation": "",
     "hotelSpecial": "◆売切れの日は公式サイトもご確認下さい◆江戸安政期創業、山陰隋一の純日本旅館として皆様をお迎致します",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F75399%2F75399.html"
+  },
+  "76354": {
+    "hotelName": "美ヶ原温泉　旅館すぎもと",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/76354/76354.jpg",
+    "hotelMinCharge": 13440,
+    "reviewAverage": 4.65,
+    "address1": "長野県",
+    "address2": "松本市里山辺451-7",
+    "access": "ＪＲ　松本駅よりお車で１５分",
+    "hotelSpecial": "レトロ空間で過ごす、秋の大人の隠れ温泉宿。全17室の趣異なる客室にジャズが流れる、美ヶ原温泉ステイ。",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F76354%2F76354.html"
   },
   "76361": {
     "hotelNo": 76361,
@@ -10054,6 +10197,17 @@
     "hotelSpecial": "緑きらめく夏の修善寺で、涼を感じるご褒美旅。伊豆牛と3つの貸切風呂で心ほどける癒しのひとときを。",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F130639%2F130639.html"
   },
+  "135369": {
+    "hotelName": "大進坊",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/135369/135369.jpg",
+    "hotelMinCharge": 11000,
+    "reviewAverage": 4.08,
+    "address1": "山形県",
+    "address2": "鶴岡市羽黒町手向95",
+    "access": "羽越線鶴岡駅より車で20分／庄内空港より車で30分／山形自動車道 庄内あさひICより車で40分",
+    "hotelSpecial": "三百年の歴史ある宿坊。地元の素材に拘った手作り精進料理、ごま豆腐・栃餅が好評。希望者は祈祷体験可能。",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F135369%2F135369.html"
+  },
   "135419": {
     "hotelNo": 135419,
     "hotelName": "高湯温泉　安達屋",
@@ -10103,6 +10257,17 @@
     "nearestStation": "東武日光",
     "hotelSpecial": "【全室WiFi完備】★日光湯元白濁硫黄泉・源泉掛け流し♪自然と温泉のテーマパーク★",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F135482%2F135482.html"
+  },
+  "135569": {
+    "hotelName": "信州善光寺　薬王院",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/135569/135569.jpg",
+    "hotelMinCharge": 13800,
+    "reviewAverage": 4.42,
+    "address1": "長野県",
+    "address2": "長野市元善町657",
+    "access": "長野駅よりお車で10分。バスで15分（長野駅-善光寺西　180円。バス停から当院まで200m。）",
+    "hotelSpecial": "善光寺本堂まで徒歩3分の好立地。善光寺が建立された1400年前に、阿弥陀堂として建てられた伝統の宿坊",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F135569%2F135569.html"
   },
   "135962": {
     "hotelName": "松崎温泉　公共の宿　伊豆まつざき荘",
@@ -11549,6 +11714,17 @@
     "featureKey": "inari_yutoku",
     "featureLabel": "佐賀県鹿島市ふるさと納税・朱塗りの本殿が山腹にそびえる鎮西日光「祐徳稲荷神社」有明海鮮と祐徳温泉ステイ"
   },
+  "176665": {
+    "hotelName": "ジ・ウザテラス　ビーチクラブヴィラズ",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/176665/176665.jpg",
+    "hotelMinCharge": 51920,
+    "reviewAverage": 4.82,
+    "address1": "沖縄県",
+    "address2": "中頭郡読谷村宇座630-1",
+    "access": "那覇空港より車またはタクシー利用で国道58号線経由または、沖縄自動車道石川I.C.経由で約70分",
+    "hotelSpecial": "全室プール付きのヴィラ。ご家族やパートナーと、まるで別荘にいるかのような休日をお過ごしください。",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F176665%2F176665.html"
+  },
   "178392": {
     "hotelNo": 178392,
     "hotelName": "たびのホテル倉敷水島",
@@ -11799,6 +11975,17 @@
     "access": "河口湖駅から車で約20分　河口湖駅から施設までの無料送迎あり（要事前予約）ご利用の場合はご連絡下さい。",
     "hotelSpecial": "富士山展望、全天候型ハイグレードグランピング施設。ドームは冷暖房完備でホテルと同等の快適に過ごせます",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183305%2F183305.html"
+  },
+  "183834": {
+    "hotelName": "プライベートプールヴィラもとぶ",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/183834/183834.jpg",
+    "hotelMinCharge": 11000,
+    "reviewAverage": 4.25,
+    "address1": "沖縄県",
+    "address2": "国頭郡本部町山川473-3",
+    "access": "那覇空港から、沖縄自動車道を経由して約１００分",
+    "hotelSpecial": "【完全プライベートプール・サウナ付ヴィラ】家具家電キッチン完備♪美ら海水族館へ車で約5分♪",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183834%2F183834.html"
   },
   "183891": {
     "hotelNo": 183891,
