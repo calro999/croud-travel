@@ -547,6 +547,42 @@ export default async function FeaturesPage() {
               desc: '無数の竹灯籠やキャンドルが灯る回廊と幻想的な夜を彩るロマンティック宿',
               badge: 'キャンドル灯り'
             },
+            {
+              slug: 'luxury-a5-matsusaka-yonezawa-beef-shabu-sukiyaki-stay',
+              title: '🥩 A5ブランド牛すき焼き・しゃぶしゃぶ宿',
+              desc: '松阪牛・米沢牛のとろける霜降り肉と秘伝割り下の極上肉会席',
+              badge: 'A5ブランド牛'
+            },
+            {
+              slug: 'traditional-japanese-sweet-wagashi-matcha-onsen-stay',
+              title: '🍡 老舗和菓子＆抹茶BAR付き和スイーツ宿',
+              desc: '出来立て生和菓子や本わらび餅、点てたての抹茶を味わう大人の茶寮',
+              badge: '和スイーツ'
+            },
+            {
+              slug: 'super-panoramic-canyon-train-onsen-stay',
+              title: '🚂 絶景トロッコ列車旅＆峡谷沿線温泉宿',
+              desc: '黒部峡谷・嵯峨野の爽快トロッコ旅と清流露天風呂のマイナスイオン',
+              badge: 'トロッコ旅'
+            },
+            {
+              slug: 'private-observatory-planetarium-luxury-villa-stay',
+              title: '🌌 プラネタリウム＆星空シアター宿',
+              desc: '館内プラネタリウムや星空解説、天の川を望む露天風呂の宇宙ステイ',
+              badge: 'プラネタリウム'
+            },
+            {
+              slug: 'natural-hotspring-with-authentic-stone-spa-ganbanyoku',
+              title: '🪨 本格天然岩盤浴＆温活デトックス温泉宿',
+              desc: '天然鉱石の遠赤外線スパと源泉掛け流し美肌湯で芯から整うリセット旅',
+              badge: '岩盤浴デトックス'
+            },
+            {
+              slug: 'historic-samurai-residence-castle-town-stay',
+              title: '🏯 武家屋敷＆城下町歴史ロマン温泉宿',
+              desc: '重厚な薬医門や格式高い日本庭園、江戸の風情を残す城下町の名宿',
+              badge: '武家屋敷'
+            },
           ].map(item => (
             <Link
               key={item.slug}
