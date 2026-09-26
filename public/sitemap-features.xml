@@ -5917,6 +5917,12 @@
     <priority>0.85</priority>
   </url>
   <url>
+    <loc>https://croud-travel.pages.dev/late-autumn-kyoto-momiji-lightup-stay/</loc>
+    <lastmod>2026-09-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
     <loc>https://croud-travel.pages.dev/limestone-cave-underground-lake-adventure-stay/</loc>
     <lastmod>2026-09-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -9211,6 +9217,12 @@
     <priority>0.85</priority>
   </url>
   <url>
+    <loc>https://croud-travel.pages.dev/winter-atami-fireworks-ocean-view-stay/</loc>
+    <lastmod>2026-09-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
     <loc>https://croud-travel.pages.dev/winter-bayside-factory-nightview/</loc>
     <lastmod>2026-09-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -9230,6 +9242,12 @@
   </url>
   <url>
     <loc>https://croud-travel.pages.dev/winter-crab-gourmet-luxury-inn-ranking/</loc>
+    <lastmod>2026-09-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://croud-travel.pages.dev/winter-echizen-crab-taiza-luxury-stay/</loc>
     <lastmod>2026-09-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
@@ -9283,6 +9301,18 @@
     <priority>0.85</priority>
   </url>
   <url>
+    <loc>https://croud-travel.pages.dev/winter-scenic-illumination-luxury-resort/</loc>
+    <lastmod>2026-09-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://croud-travel.pages.dev/winter-shimonoseki-fugu-torafugu-luxury-stay/</loc>
+    <lastmod>2026-09-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
     <loc>https://croud-travel.pages.dev/winter-ski-snowboard-resort/</loc>
     <lastmod>2026-09-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -9326,6 +9356,12 @@
   </url>
   <url>
     <loc>https://croud-travel.pages.dev/winter-warm-island-escape/</loc>
+    <lastmod>2026-09-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://croud-travel.pages.dev/winter-zao-snow-monster-ice-tree-stay/</loc>
     <lastmod>2026-09-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
