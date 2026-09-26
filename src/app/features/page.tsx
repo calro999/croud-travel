@@ -511,6 +511,42 @@ export default async function FeaturesPage() {
               desc: '客室から白砂のビーチへ直結！波打ち際を独占する最高峰オーシャンヴィラ',
               badge: 'プライベート海'
             },
+            {
+              slug: 'ancient-jomon-forest-cave-onsen-stay',
+              title: '🪨 天然洞窟風呂＆巨岩露天の秘境宿',
+              desc: '岩盤をくり抜いた神秘の洞窟温泉と太古の地球エネルギーを体感する旅',
+              badge: '天然洞窟風呂'
+            },
+            {
+              slug: 'matcha-green-tea-experience-onsen-stay',
+              title: '🍵 銘茶の香り＆本格茶室・茶湯温泉宿',
+              desc: '宇治・静岡の数寄屋造り茶室体験とカテキン茶湯露天・特製茶懐石',
+              badge: 'お茶旅温泉'
+            },
+            {
+              slug: 'super-panoramic-footbath-cafe-resort-stay',
+              title: '☕ 絶景足湯カフェ＆テラスBAR付きホテル',
+              desc: '海や山を眺めながら足湯に浸かりクラフトビールやスイーツを楽しむ宿',
+              badge: '足湯カフェ'
+            },
+            {
+              slug: 'organic-farm-stay-vegetable-gastronomy-resort',
+              title: '🥗 自家農園オーガニック＆ローカル美食宿',
+              desc: '朝採れ無農薬野菜とハーブのファーム・トゥ・テーブル会席と美肌湯',
+              badge: '農園美食'
+            },
+            {
+              slug: 'ski-in-ski-out-powder-snow-luxury-resort',
+              title: '🎿 ゲレンデ直結スキーイン・スキーアウト宿',
+              desc: 'ホテルから直接パウダースノーへ！滑り終えたら展望露天風呂へ直行',
+              badge: 'ゲレンデ直結'
+            },
+            {
+              slug: 'candle-night-lantern-floating-romantic-stay',
+              title: '🕯️ キャンドルナイト＆幻想ランタン温泉宿',
+              desc: '無数の竹灯籠やキャンドルが灯る回廊と幻想的な夜を彩るロマンティック宿',
+              badge: 'キャンドル灯り'
+            },
           ].map(item => (
             <Link
               key={item.slug}
