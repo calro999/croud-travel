@@ -655,6 +655,42 @@ export default async function FeaturesPage() {
               desc: '数十種の色浴衣と下駄で街歩き！射的や足湯カフェ、外湯めぐり満喫',
               badge: '色浴衣散策'
             },
+            {
+              slug: 'luxury-private-cinema-theater-room-resort-stay',
+              title: '🎬 客室シアタールーム＆映画没入温泉宿',
+              desc: '大画面プロジェクターと高音質スピーカーで映画三昧＆美肌名湯ステイ',
+              badge: '客室シアター'
+            },
+            {
+              slug: 'traditional-ayu-sweetfish-charcoal-grill-stay',
+              title: '🐟 天然鮎の炭火塩焼き＆清流川床会席宿',
+              desc: '長良川・四万十川の香ばしい鮎塩焼き・鮎雑炊と爽快な渓流露天風呂',
+              badge: '天然鮎会席'
+            },
+            {
+              slug: 'super-panoramic-canyon-bridge-bungy-stay',
+              title: '🚣 爽快アクティビティ＆癒やしの天然温泉宿',
+              desc: 'ラフティングやキャニオニングで大自然を満喫した後の極上天然温泉',
+              badge: 'アウトドア温泉'
+            },
+            {
+              slug: 'organic-honey-bee-farm-sweet-spa-stay',
+              title: '🍯 天然はちみつ＆ハニースパエステ宿',
+              desc: '巣蜜トーストや国産ハチミツ食べ比べと極上保湿ハニースパの癒やし',
+              badge: 'ハニースパ'
+            },
+            {
+              slug: 'summer-hydrangea-temple-garden-healing-stay',
+              title: '💠 紫陽花名所めぐり＆あじさい庭園露天宿',
+              desc: '青や紫のあじさい小径散策と湯船に浮かぶ水中花を眺める初夏ステイ',
+              badge: 'あじさい温泉'
+            },
+            {
+              slug: 'traditional-fireworks-festival-view-room-stay',
+              title: '🎆 客室から花火観賞＆夜景温泉ホテル',
+              desc: '部屋のテラスや露天風呂から大迫力の花火を独占観賞する特等席ステイ',
+              badge: '花火観賞宿'
+            },
           ].map(item => (
             <Link
               key={item.slug}
