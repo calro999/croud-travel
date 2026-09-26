@@ -1087,6 +1087,42 @@ export default async function FeaturesPage() {
               desc: '四百年の技・南部鉄器の鉄瓶で淹れるまろやかなお茶と前沢牛会席、名湯花巻温泉',
               badge: '南部鉄器名湯宿'
             },
+            {
+              slug: 'traditional-mie-matsusaka-beef-steak-stay',
+              title: '🥩 特選松阪牛会席×伊勢志摩オーシャン宿',
+              desc: '肉の芸術品・最高ランク松阪牛ステーキ＆すき焼きと鳥羽・賢島オーシャンビュー露天',
+              badge: '特選松阪牛会席'
+            },
+            {
+              slug: 'luxury-private-onsen-with-cave-bath-spa',
+              title: '🪨 天然洞窟風呂×神秘の地底名湯宿',
+              desc: '岩肌に包まれる幻想的な洞窟風呂！薄明かりと源泉掛け流し秘湯で極上の非日常',
+              badge: '天然洞窟風呂'
+            },
+            {
+              slug: 'super-panoramic-sunset-dune-coastal-stay',
+              title: '🌅 夕日百選サンセット×白砂オーシャン宿',
+              desc: '水平線に沈むドラマチックな夕日！波打ち際の展望露天風呂と獲れたて海の幸会席',
+              badge: '夕日百選サンセット'
+            },
+            {
+              slug: 'spring-okayama-white-peach-parfait-stay',
+              title: '🍑 岡山特産白桃スイーツ×倉敷・湯原温泉宿',
+              desc: '芳醇な清水白桃パフェと倉敷美観地区の白壁町家、名湯湯原温泉で寛ぐ晴れの国ステイ',
+              badge: '岡山白桃パフェ'
+            },
+            {
+              slug: 'organic-forest-treehouse-glamping-stay',
+              title: '🏡 ツリーハウス秘密基地×森林薪サウナ宿',
+              desc: '大木の上のツリーハウスと本格バレルサウナ・BBQ！童心に帰る大自然グランピング',
+              badge: 'ツリーハウスサウナ'
+            },
+            {
+              slug: 'traditional-gunma-daruma-craft-onsen-stay',
+              title: '🎯 高崎だるま体験×伊香保石段街黄金の湯宿',
+              desc: '縁起物だるま絵付け体験と365段の石段街散策、茶褐色の名湯「黄金の湯」掛け流し',
+              badge: 'だるま絵付け伊香保'
+            },
           ].map(item => (
             <Link
               key={item.slug}
