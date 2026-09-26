@@ -439,6 +439,42 @@ export default async function FeaturesPage() {
               desc: '益子・有田・信楽などの焼き物の里で陶芸ろくろ体験と美味会席',
               badge: '陶芸の里'
             },
+            {
+              slug: 'luxury-rooftop-infinity-spa-city-hotel-stay',
+              title: '🌆 都会の摩天楼・ルーフトップ温泉ホテル',
+              desc: '最上階から夜景と星空を一望するインフィニティスパ＆極上シティリゾート',
+              badge: 'ルーフトップ温泉'
+            },
+            {
+              slug: 'isolated-island-remote-paradise-resort-stay',
+              title: '🏝️ 日本の離島リゾート＆隠れ家ビーチ温泉',
+              desc: '小豆島・屋久島・奄美大島の手つかずの自然と海・島時間に包まれる宿',
+              badge: '離島リゾート'
+            },
+            {
+              slug: 'geothermal-hell-steamed-cuisine-onsen-stay',
+              title: '♨️ 源泉温泉蒸気・絶品「地獄蒸し」料理宿',
+              desc: '別府・鉄輪の高温蒸気で素材の旨味を凝縮したヘルシー美食と名湯',
+              badge: '地獄蒸し美食'
+            },
+            {
+              slug: 'forest-cabin-nordic-wood-stove-retreat-stay',
+              title: '🪵 薪ストーブ＆北欧ログキャビン温泉宿',
+              desc: 'パチパチ爆ぜる炎の温もりと森林浴・薪サウナで癒やされるコテージ',
+              badge: '薪ストーブ'
+            },
+            {
+              slug: 'ancient-cedar-forest-unesco-world-heritage-stay',
+              title: '⛩️ 世界遺産・熊野古道＆聖地巡礼の名湯宿',
+              desc: '千年以上の歴史を誇る湯峰温泉や川湯温泉で祈りの道を歩く癒やしの旅',
+              badge: '世界遺産・聖地'
+            },
+            {
+              slug: 'historical-merchant-town-machiya-hotel-stay',
+              title: '🏘️ 商家町・蔵の町に泊まる分散型古民家ホテル',
+              desc: '重伝建地区の町全体がホテルに！築百年以上の旧家・蔵を改装した上質空間',
+              badge: '分散型古民家'
+            },
           ].map(item => (
             <Link
               key={item.slug}
