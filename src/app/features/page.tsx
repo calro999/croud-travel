@@ -799,6 +799,42 @@ export default async function FeaturesPage() {
               desc: '金沢の伝統工芸・金箔貼り体験と金箔がキラキラ舞う優美な金箔風呂',
               badge: '金沢金箔'
             },
+            {
+              slug: 'luxury-private-onsen-with-infinity-edge-footbath',
+              title: '🌊 インフィニティ足湯×絶景テラス宿',
+              desc: '水盤と空が一体化するインフィニティ足湯テラスでドリンクと夕景を愉しむ',
+              badge: 'インフィニティ足湯'
+            },
+            {
+              slug: 'traditional-hida-beef-houba-miso-grill-stay',
+              title: '🥩 飛騨牛朴葉味噌焼き×日本三名泉宿',
+              desc: '朴の葉の上で香ばしく焼ける特製味噌とA5飛騨牛の極上会席＆下呂美肌湯',
+              badge: '飛騨牛朴葉味噌'
+            },
+            {
+              slug: 'super-panoramic-sunset-coastal-cliff-villa',
+              title: '🌅 サンセットオーシャン×夕日一望ヴィラ',
+              desc: '水平線に沈む黄金の夕日とマジックアワーを客室露天から独占する絶景宿',
+              badge: '夕日一望ヴィラ'
+            },
+            {
+              slug: 'organic-forest-sauna-cold-water-stream-stay',
+              title: '🌲 清流ダイブ水風呂×森林薪サウナ宿',
+              desc: '薪サウナでロウリュ後に澄んだ天然清流へ飛び込む究極のととのい体験',
+              badge: '清流ダイブサウナ'
+            },
+            {
+              slug: 'spring-cherry-blossom-illuminated-river-cruise-stay',
+              title: '🌸 夜桜ライトアップ×川沿い花見温泉宿',
+              desc: '川沿いの満開桜並木ライトアップと浴衣散策、春の彩り豊かな桜会席',
+              badge: '夜桜ライトアップ'
+            },
+            {
+              slug: 'traditional-edo-cut-glass-kiriko-craft-stay',
+              title: '💎 伝統切子工芸×銘酒BARの宿',
+              desc: '薩摩切子や江戸切子の美しいカットガラス酒器で厳選地酒を味わう特別な夜',
+              badge: '伝統切子工芸'
+            },
           ].map(item => (
             <Link
               key={item.slug}
