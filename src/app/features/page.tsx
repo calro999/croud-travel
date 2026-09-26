@@ -1159,6 +1159,42 @@ export default async function FeaturesPage() {
               desc: '夕闇に揺れる鵜飼いの篝火と美濃和紙あかりアート、茶褐色の名湯長良川温泉と飛騨牛',
               badge: '長良川鵜飼い和紙'
             },
+            {
+              slug: 'traditional-shizuoka-unagi-kabayaki-stay',
+              title: '🍱 浜名湖うなぎ尽くし会席×舘山寺レイク露天宿',
+              desc: '炭火で香ばしく焼き上げた肉厚浜名湖うなぎ蒲焼き・白焼き・ひつまぶしと湖畔名湯',
+              badge: '浜名湖極上海鰻'
+            },
+            {
+              slug: 'luxury-private-onsen-with-scenic-cherry-blossom-view',
+              title: '🌸 客室専用お花見露天×夜桜ライトアップ極上宿',
+              desc: '湯船のすぐそばに咲き誇る満開の桜！客室露天から独占お花見と春の旬彩会席',
+              badge: '客室専用お花見露天'
+            },
+            {
+              slug: 'super-panoramic-canyon-bungee-jumping-stay',
+              title: '🧗 爽快バンジー体験×みなかみ渓谷名湯宿',
+              desc: '高さ100mの吊り橋バンジー体験と利根川のせせらぎを聴く渓谷露天風呂・サウナ',
+              badge: '爽快バンジー名湯'
+            },
+            {
+              slug: 'spring-miyazaki-mango-parfait-stay',
+              title: '🥭 太陽のタマゴ完熟マンゴー×青島オーシャン宿',
+              desc: '最高級宮崎マンゴーパフェと宮崎牛ステーキ、青島・太平洋を一望する展望温泉',
+              badge: '太陽のタマゴマンゴー'
+            },
+            {
+              slug: 'organic-forest-floating-tent-glamping-stay',
+              title: '⛺ 空中テント星空ドーム×森林サウナ宿',
+              desc: '宙に浮かぶ空中テントや星空ドーム！プライベートテントサウナと贅沢BBQ',
+              badge: '空中テントサウナ'
+            },
+            {
+              slug: 'traditional-aomori-nebuta-craft-onsen-stay',
+              title: '👹 ねぶた光アート×青森ヒバ名湯・大間マグロ宿',
+              desc: '極彩色のねぶたアート空間と祭り囃子、大間マグロ・陸奥湾ホタテ会席と青森ヒバ風呂',
+              badge: 'ねぶた光アート宿'
+            },
           ].map(item => (
             <Link
               key={item.slug}
