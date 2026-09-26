@@ -907,6 +907,42 @@ export default async function FeaturesPage() {
               desc: '五彩の九谷焼の器で味わう加賀旬会席と絵付け体験、加賀温泉郷の極上名湯',
               badge: '九谷焼ギャラリー'
             },
+            {
+              slug: 'traditional-shinshu-soba-kaiseki-onsen-stay',
+              title: '🥢 信州手打ち蕎麦会席×北アルプス展望宿',
+              desc: '挽きたて十割蕎麦や蕎麦がき会席と北アルプス雪形を望む絶景展望露天風呂',
+              badge: '信州手打ち蕎麦'
+            },
+            {
+              slug: 'luxury-private-onsen-with-starry-astronomy-deck',
+              title: '🔭 日本一の阿智村星空×昼神美肌温泉宿',
+              desc: '天体観測専用デッキや星空ナイトツアー、トロトロの昼神美肌湯を満喫する極上宿',
+              badge: '阿智村満天星空'
+            },
+            {
+              slug: 'super-panoramic-canyon-stand-up-paddle-stay',
+              title: '🏄 爽快レイクSUP×水辺インフィニティ露天宿',
+              desc: '本栖湖や中禅寺湖の爽快SUPクルージング後に水辺露天風呂とサウナでととのう',
+              badge: '爽快レイクSUP'
+            },
+            {
+              slug: 'spring-biwa-fruit-loquat-spa-retreat-stay',
+              title: '🍈 房州びわスイーツ×びわ葉温浴スパ宿',
+              desc: 'ジューシーな大粒房州びわ尽くしデザートとびわ葉温浴、太平洋一望の絶景温泉',
+              badge: '房州びわスイーツ'
+            },
+            {
+              slug: 'organic-craft-beer-taproom-brewery-stay',
+              title: '🍺 醸造所クラフトビール×源泉掛け流し宿',
+              desc: '併設ブルワリーから注がれる出来立てビール飲み放題と自家源泉掛け流し名湯',
+              badge: 'クラフトビール宿'
+            },
+            {
+              slug: 'traditional-aomori-tsugaru-shamisen-onsen-stay',
+              title: '🪕 津軽三味線生ライブ×陸奥湾海鮮会席宿',
+              desc: '毎夜開催される迫力の津軽三味線生演奏と陸奥湾ホタテ会席、青森の名湯を満喫',
+              badge: '津軽三味線ライブ'
+            },
           ].map(item => (
             <Link
               key={item.slug}
