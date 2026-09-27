@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-fukushima-ashinomaki-onsen-okawa-valley-snow-stay',
+              title: "大川渓谷初雪絶景＆棚田風露天風呂・本場会津馬刺し・極上会津牛",
+              desc: "11月から12月にかけて福島県・会津若松の奥座敷「会津芦ノ牧温泉」は、大…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-ishikawa-katayamazu-onsen-hakusan-kano-crab-stay',
+              title: "柴山潟白山初冠雪＆11月解禁加能ガニ香箱ガニ・塩化物強塩泉熱の湯",
+              desc: "11月から12月にかけて石川県加賀市の片山津温泉は、柴山潟の穏やかな水面…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-mie-yunoyama-onsen-gozaisho-snow-sohei-nabe-stay',
+              title: "御在所岳初雪樹氷＆開湯1300年鹿の湯・名物僧兵鍋・菰野豚・伊勢湾展望",
+              desc: "11月下旬から12月にかけて鈴鹿山脈の主峰・御在所岳（標高1,212m）…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-yamagata-akayu-onsen-yonezawa-beef-wine-stay',
+              title: "置賜盆地雲海＆開湯920年上杉御湯・特選A5米沢牛・老舗赤湯ワイン",
+              desc: "11月から12月にかけて山形県置賜地方の赤湯温泉は、晩秋の澄み切った冷気…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-hyogo-kasumi-onsen-shibayama-crab-matsuba-stay',
+              title: "最高峰柴山ガニ＆香住松葉ガニ・但馬牛ステーキ・香住温泉",
+              desc: "11月6日のカニ漁解禁を迎えると、兵庫県但馬地方の日本海に面した香住海岸…",
+              badge: '11・12月特集'
+            },
+            {
               slug: 'winter-aichi-minamichita-onsen-torafugu-chita-beef-stay',
               title: "伊勢湾夕日絶景露天＆本場日間賀島天然とらふぐ知多牛ステーキ",
               desc: "11月から12月にかけて愛知県・知多半島の最南端に位置する南知多温泉郷（…",

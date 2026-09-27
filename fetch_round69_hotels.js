@@ -4,77 +4,114 @@ const path = require('path');
 
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
-const furusatoConfigs = [
+const targets = [
   {
-    slug: 'furusato-tax-all-inclusive-luxury-onsen-stay',
+    theme: 'kasumi',
+    label: '兵庫・香住温泉＆柴山温泉（11月解禁最高峰柴山ガニ・香住松葉ガニ・但馬牛・山陰海岸絶景）',
     queries: [
-      { key: 'sakunami_all_inclusive', query: 'ゆづくしＳａｌｏｎ一の坊 作並温泉', label: '仙台市ふるさと納税・渓流露天風呂とサロン飲食が全て無料のオールインクルーシブ名宿' },
-      { key: 'hakone_all_inclusive', query: 'Ｎａｚｕｎａ箱根宮ノ下', label: '箱根町ふるさと納税・全室露天風呂付き離れと酒・軽食フリーフローの贅沢ステイ' },
-      { key: 'bandai_all_inclusive', query: '浅香荘 磐梯熱海温泉', label: '郡山市ふるさと納税・美肌の名湯と日本酒ペアリングも心ゆくまで楽しむ寛ぎ宿' }
+      'なごみの香風の宿　さだ助',
+      '香住温泉　旅籠　さどや',
+      '網元かにの宿　やまや',
+      '柴山温泉　癒しの宿こえもん',
+      '柴山温泉　ホテル翠湖'
     ]
   },
   {
-    slug: 'furusato-tax-luxury-buffet-gourmet-resort-stay',
+    theme: 'akayu',
+    label: '山形・赤湯温泉（置賜盆地幻想雲海・開湯920年名湯・米沢牛すき焼き・老舗赤湯ワイン）',
     queries: [
-      { key: 'kinugawa_asaya_buffet', query: '鬼怒川温泉 あさや', label: '日光市ふるさと納税・和洋中100種超の豪華ブッフェと空中庭園露天風呂の名門' },
-      { key: 'beppu_suginoi_buffet', query: '別府温泉 杉乃井ホテル', label: '別府市ふるさと納税・大展望露天風呂「棚湯」と出来たてライブキッチン食べ放題' },
-      { key: 'noboribetsu_grand_buffet', query: '登別温泉 登別グランドホテル', label: '登別市ふるさと納税・本格ドーム前庭園露天と北海道産旬食材尽くしのバイキング' }
+      '赤湯温泉　上杉の御湯　御殿守',
+      '山形座　瀧波',
+      '赤湯温泉　森の湯',
+      '赤湯温泉　丹泉ホテル',
+      '赤湯温泉　大文字屋'
     ]
   },
   {
-    slug: 'furusato-tax-solo-travel-retreat-private-onsen-stay',
+    theme: 'yunoyama',
+    label: '三重・湯の山温泉（御在所岳初雪樹氷・開湯1300年鹿の湯・名物僧兵鍋・菰野豚・伊勢湾展望）',
     queries: [
-      { key: 'hakone_solo_onsen', query: '箱根湯本温泉 ホテル南風荘', label: '箱根町ふるさと納税・都心から好アクセスの一人旅歓迎露天風呂付き客室プラン' },
-      { key: 'kusatsu_solo_onsen', query: '草津温泉 薬師の湯 湯元館', label: '草津町ふるさと納税・天下の名湯を一人占めする湯畑近くの歴史ある癒やし宿' },
-      { key: 'yufuin_solo_onsen', query: '由布院温泉 束ノ間', label: '由布市ふるさと納税・青湯の名湯と由布岳の静寂に抱かれる究極の一人旅リトリート' }
+      '湯の山温泉　旅館寿亭',
+      '湯の山温泉　ホテル湯の本',
+      '湯の山温泉　鹿の湯ホテル',
+      '湯の山温泉　三峯園',
+      '湯の山温泉　彩向陽'
     ]
   },
   {
-    slug: 'furusato-tax-retro-onsen-town-yukata-walk-stay',
+    theme: 'katayamazu',
+    label: '石川・加賀片山津温泉（柴山潟と霊峰白山初冠雪・11月解禁加能ガニ香箱ガニ・塩化物強塩泉）',
     queries: [
-      { key: 'kinosaki_yukata_walk', query: '城崎温泉 料理旅館 よしはる', label: '豊岡市ふるさと納税・浴衣と下駄で七田の外湯めぐりと名物但馬牛会席を満喫' },
-      { key: 'shibu_yukata_walk', query: '渋温泉 いかり屋旅館', label: '山ノ内町ふるさと納税・石畳の坂道と九つの外湯・厄除け巡浴を楽しむノスタルジック宿' },
-      { key: 'ginzan_yukata_walk', query: '銀山温泉 古勢起屋別館', label: '尾花沢市ふるさと納税・大正浪漫のガス灯が灯る銀山川沿いの木造建築美に泊まる' }
+      '片山津温泉　佳水郷',
+      '片山津温泉　季がさね',
+      '片山津温泉　かのや光楽苑',
+      '片山津温泉　矢田屋松濤園',
+      '片山津温泉　森本'
+    ]
+  },
+  {
+    theme: 'ashinomaki',
+    label: '福島・会津芦ノ牧温泉（大川渓谷初雪絶景・渓流棚田風露天風呂・会津馬刺し・会津牛）',
+    queries: [
+      '芦ノ牧温泉　大川荘',
+      '芦ノ牧温泉　丸峰',
+      '仙峡閣',
+      '会津芦ノ牧温泉　芦ノ牧グランドホテル',
+      '会津芦ノ牧温泉　芦ノ牧プリンスホテル'
     ]
   }
 ];
 
 async function main() {
-  const allSeasonalPath = path.join(__dirname, 'src/data/all_seasonal_rakuten_hotels.json');
-  let allSeasonal = {};
-  if (fs.existsSync(allSeasonalPath)) {
-    try {
-      allSeasonal = JSON.parse(fs.readFileSync(allSeasonalPath, 'utf8'));
-    } catch (e) {
-      console.error('Failed to parse all_seasonal_rakuten_hotels.json', e);
-    }
-  }
+  console.log('================================================================');
+  console.log('Fetching Rakuten Hotels for Round 69 (5 Themes, 5 Hotels Each)');
+  console.log('================================================================');
 
-  for (const page of furusatoConfigs) {
-    console.log(`\n================ Processing page: ${page.slug} ================`);
-    if (!allSeasonal[page.slug]) {
-      allSeasonal[page.slug] = {};
-    }
+  const result = {};
 
-    for (const q of page.queries) {
-      console.log(`Fetching query: "${q.query}" (${q.label}) ...`);
+  for (const t of targets) {
+    console.log(`\n--- Fetching Theme: ${t.label} (${t.theme}) ---`);
+    const themeHotels = [];
+    const usedHotelNos = new Set();
+
+    for (const q of t.queries) {
+      console.log(`Query: "${q}"...`);
       try {
-        await sleep(1500);
-        const hotels = await searchRakutenHotels(q.query, 3);
+        const hotels = await searchRakutenHotels(q, 1);
+        await sleep(1500); // 楽天APIレートリミット対策
         if (hotels && hotels.length > 0) {
-          allSeasonal[page.slug][q.key] = hotels[0];
-          console.log(`  -> Selected: ${hotels[0].hotelName} (${hotels[0].hotelNo})`);
+          const h = hotels[0];
+          if (!usedHotelNos.has(h.hotelNo)) {
+            usedHotelNos.add(h.hotelNo);
+            themeHotels.push(h);
+            console.log(`  -> Success: ${h.hotelName} (No: ${h.hotelNo}, Rating: ${h.reviewAverage}, Price: ¥${h.hotelMinCharge})`);
+          } else {
+            console.warn(`  -> Duplicate hotelNo: ${h.hotelNo}, skipping`);
+          }
         } else {
-          console.warn(`  -> No hotel found for query: ${q.query}`);
+          console.warn(`  -> No match for "${q}"`);
         }
       } catch (err) {
-        console.error(`  -> Error fetching query "${q.query}":`, err.message);
+        console.error(`  -> Error fetching "${q}":`, err.message);
       }
     }
+
+    result[t.theme] = themeHotels;
+    console.log(`=> Collected ${result[t.theme].length} hotels for ${t.theme}`);
   }
 
-  fs.writeFileSync(allSeasonalPath, JSON.stringify(allSeasonal, null, 2), 'utf8');
-  console.log('\nSuccessfully saved Round 69 hotel data to all_seasonal_rakuten_hotels.json!');
+  const outputPath = path.join(__dirname, 'round69_raw_hotels.json');
+  fs.writeFileSync(outputPath, JSON.stringify(result, null, 2), 'utf8');
+  console.log(`\n================================================================`);
+  console.log(`Successfully saved raw hotels data to ${outputPath}`);
+  console.log('Hotel counts per theme:');
+  for (const k of Object.keys(result)) {
+    console.log(`  ${k}: ${result[k].length} hotels`);
+  }
+  console.log(`================================================================`);
 }
 
-main();
+main().catch(err => {
+  console.error('Fatal error in fetch script:', err);
+  process.exit(1);
+});
