@@ -4,77 +4,114 @@ const path = require('path');
 
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
-const furusatoConfigs = [
+const targets = [
   {
-    slug: 'furusato-tax-torafugu-kaiseki-luxury-gourmet-stay',
+    theme: 'shima',
+    label: '群馬・四万温泉（神秘の四万ブルー・千と千尋積善館・開湯千二百年霊泉・上州牛会席）',
     queries: [
-      { key: 'shimonoseki_fugu', query: '下関グランドホテル', label: '下関市ふるさと納税・関門海峡の絶景と本場下関の天然とらふぐフルコース' },
-      { key: 'himakajima_fugu', query: '日間賀島 漁師民宿やまに 愛知', label: '南知多町ふるさと納税・多幸と福の島で味わう絶品日間賀島とらふぐ料理' },
-      { key: 'wakasa_fugu', query: '若狭小川 潮路の宿 とね旅館 福井', label: '小浜市ふるさと納税・若狭湾の寒風が育む極上若狭ふぐと海辺の温もり温泉宿' }
+      '四万温泉　積善館',
+      '渓谷に佇む源泉湯宿　四万やまぐち館',
+      '四万温泉　温泉三昧の宿　四万たむら',
+      '四万温泉　柏屋旅館',
+      '四万温泉　豊島屋'
     ]
   },
   {
-    slug: 'furusato-tax-traditional-unagi-eel-gourmet-stay',
+    theme: 'yuhigaura',
+    label: '京都丹後・夕日ヶ浦温泉（日本海絶景夕日・11月解禁松葉ガニ＆間人ガニ・美人の湯）',
     queries: [
-      { key: 'hamanako_unagi', query: 'ホテル鞠水亭 浜名湖 舘山寺温泉', label: '浜松市ふるさと納税・浜名湖畔に佇み名物うなぎ会席と展望露天風呂を誇る名宿' },
-      { key: 'mishima_unagi', query: '天然温泉 富嶽の湯 ドーミーイン三島', label: '三島市ふるさと納税・富士山の雪解け水が育む三島うなぎの名店巡りと最上階天然温泉' },
-      { key: 'yanagawa_unagi', query: '柳川温泉ホテル 輝泉荘 福岡', label: '柳川市ふるさと納税・水郷柳川の川下りと名物うなぎのせいろ蒸しを味わう名湯宿' }
+      '夕日ヶ浦温泉　佳松苑',
+      '夕日ヶ浦温泉　海花亭　花御前',
+      '夕日ヶ浦温泉　旅亭　櫂‐ＫＡＩ‐',
+      '夕日ヶ浦温泉　静花扇',
+      '夕日ヶ浦温泉　海舟＜京都府＞'
     ]
   },
   {
-    slug: 'furusato-tax-snow-view-open-air-bath-winter-stay',
+    theme: 'hawai',
+    label: '鳥取・はわい温泉＆東郷温泉（東郷湖上露天風呂・11月解禁鳥取松葉ガニ・鳥取和牛オレイン55）',
     queries: [
-      { key: 'manza_snow_onsen', query: '万座温泉 万座プリンスホテル', label: '嬬恋村ふるさと納税・標高1800mの白銀世界と乳白色の絶景雪見露天風呂' },
-      { key: 'yuzawa_snow_onsen', query: '越後湯沢温泉 湯沢グランドホテル', label: '湯沢町ふるさと納税・川端康成「雪国」の舞台で幻想的な雪景色と庭園露天風呂' },
-      { key: 'jozankei_snow_onsen', query: '定山渓温泉 章月グランドホテル', label: '札幌市ふるさと納税・定山渓渓谷の銀世界と豊平川のせせらぎに癒やされる雪見宿' }
+      'はわい温泉　望湖楼',
+      '湖上に浮かぶ絶景の宿　はわい温泉　千年亭',
+      '東郷温泉　国民宿舎　水明荘',
+      '水景色の指定席　湖屋（ＫＯＹＡ）',
+      'はわい温泉　ゆの宿　彩香'
     ]
   },
   {
-    slug: 'furusato-tax-station-walk-car-free-onsen-stay',
+    theme: 'asamushi',
+    label: '青森・浅虫温泉（陸奥湾初冬パノラマ・津軽海峡冬マグロ・肉厚陸奥湾ホタテ・棟方志功ゆかりの宿）',
     queries: [
-      { key: 'atami_station_walk', query: '熱海温泉 旅館 立花 静岡', label: '熱海市ふるさと納税・新幹線熱海駅から徒歩圏内・海と街並みを望む老舗名湯宿' },
-      { key: 'yuzawa_station_walk', query: '越後湯沢温泉 音羽屋旅館 新潟', label: '湯沢町ふるさと納税・越後湯沢駅徒歩数分！新幹線直結で車いらずの純和風温泉旅館' },
-      { key: 'ureshino_bus_walk', query: '嬉野温泉 割烹旅館 鯉登苑 佐賀', label: '嬉野市ふるさと納税・嬉野温泉バスセンター至近！日本三大美肌の湯と名物温泉湯どうふ' }
+      '浅虫温泉　南部屋・海扇閣',
+      '浅虫温泉　絶景の宿　浅虫さくら観光ホテル',
+      '浅虫温泉　椿館',
+      '浅虫温泉　割烹旅館　さつき',
+      '浅虫温泉　辰巳館'
+    ]
+  },
+  {
+    theme: 'iya',
+    label: '徳島・祖谷温泉＆大歩危温泉（日本三大秘境初雪渓谷・ケーブルカー谷底露天・阿波牛・祖谷そば）',
+    queries: [
+      '和の宿　ホテル祖谷温泉',
+      '渓谷の隠れ宿　祖谷美人',
+      '峡谷の湯宿　大歩危峡まんなか',
+      '新祖谷温泉　ホテルかずら橋',
+      '祖谷渓温泉　ホテル秘境の湯'
     ]
   }
 ];
 
 async function main() {
-  const allSeasonalPath = path.join(__dirname, 'src/data/all_seasonal_rakuten_hotels.json');
-  let allSeasonal = {};
-  if (fs.existsSync(allSeasonalPath)) {
-    try {
-      allSeasonal = JSON.parse(fs.readFileSync(allSeasonalPath, 'utf8'));
-    } catch (e) {
-      console.error('Failed to parse all_seasonal_rakuten_hotels.json', e);
-    }
-  }
+  console.log('================================================================');
+  console.log('Fetching Rakuten Hotels for Round 70 (5 Themes, 5 Hotels Each)');
+  console.log('================================================================');
 
-  for (const page of furusatoConfigs) {
-    console.log(`\n================ Processing page: ${page.slug} ================`);
-    if (!allSeasonal[page.slug]) {
-      allSeasonal[page.slug] = {};
-    }
+  const result = {};
 
-    for (const q of page.queries) {
-      console.log(`Fetching query: "${q.query}" (${q.label}) ...`);
+  for (const t of targets) {
+    console.log(`\n--- Fetching Theme: ${t.label} (${t.theme}) ---`);
+    const themeHotels = [];
+    const usedHotelNos = new Set();
+
+    for (const q of t.queries) {
+      console.log(`Query: "${q}"...`);
       try {
-        await sleep(1500);
-        const hotels = await searchRakutenHotels(q.query, 3);
+        const hotels = await searchRakutenHotels(q, 1);
+        await sleep(1500); // 楽天APIレートリミット対策
         if (hotels && hotels.length > 0) {
-          allSeasonal[page.slug][q.key] = hotels[0];
-          console.log(`  -> Selected: ${hotels[0].hotelName} (${hotels[0].hotelNo})`);
+          const h = hotels[0];
+          if (!usedHotelNos.has(h.hotelNo)) {
+            usedHotelNos.add(h.hotelNo);
+            themeHotels.push(h);
+            console.log(`  -> Success: ${h.hotelName} (No: ${h.hotelNo}, Rating: ${h.reviewAverage}, Price: ¥${h.hotelMinCharge})`);
+          } else {
+            console.warn(`  -> Duplicate hotelNo: ${h.hotelNo}, skipping`);
+          }
         } else {
-          console.warn(`  -> No hotel found for query: ${q.query}`);
+          console.warn(`  -> No match for "${q}"`);
         }
       } catch (err) {
-        console.error(`  -> Error fetching query "${q.query}":`, err.message);
+        console.error(`  -> Error fetching "${q}":`, err.message);
       }
     }
+
+    result[t.theme] = themeHotels;
+    console.log(`=> Collected ${result[t.theme].length} hotels for ${t.theme}`);
   }
 
-  fs.writeFileSync(allSeasonalPath, JSON.stringify(allSeasonal, null, 2), 'utf8');
-  console.log('\nSuccessfully saved Round 70 hotel data to all_seasonal_rakuten_hotels.json!');
+  const outputPath = path.join(__dirname, 'round70_raw_hotels.json');
+  fs.writeFileSync(outputPath, JSON.stringify(result, null, 2), 'utf8');
+  console.log(`\n================================================================`);
+  console.log(`Successfully saved raw hotels data to ${outputPath}`);
+  console.log('Hotel counts per theme:');
+  for (const k of Object.keys(result)) {
+    console.log(`  ${k}: ${result[k].length} hotels`);
+  }
+  console.log(`================================================================`);
 }
 
-main();
+main().catch(err => {
+  console.error('Fatal error in fetch script:', err);
+  process.exit(1);
+});

@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-tokushima-iya-valley-onsen-hikyo-awa-beef-stay',
+              title: "日本三大秘境初雪渓谷＆ケーブルカー谷底露天・特選阿波牛・手打ち祖谷そば",
+              desc: "11月から12月にかけて四国の霊峰・剣山山系の深山幽谷に抱かれた「徳島・…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-aomori-asamushi-onsen-mutsu-bay-maguro-stay',
+              title: "陸奥湾初冬パノラマ＆津軽海峡冬本マグロ・肉厚陸奥湾ホタテ・津軽三味線",
+              desc: "11月から12月にかけて青森の奥座敷「浅虫温泉」は、初冠雪を戴く八甲田連…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-tottori-hawai-onsen-togo-lake-matsuba-crab-stay',
+              title: "日本唯一の湖上露天風呂＆11月解禁鳥取松葉ガニ・鳥取和牛オレイン55",
+              desc: "11月から12月にかけて鳥取県中央部に位置する東郷湖畔の「はわい温泉・東…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-kyoto-tango-yuhigaura-matsuba-crab-stay',
+              title: "夕陽百選パノラマ＆11月解禁松葉ガニ・幻の間人ガニ・とろり美人の湯",
+              desc: "11月6日のカニ漁解禁を迎えると、京都府北部・丹後半島の西端に位置する夕…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-gunma-shima-onsen-shima-blue-sekizenkan-stay',
+              title: "神秘の四万ブルー＆開湯1200年霊泉・積善館の歴史美・特選上州牛",
+              desc: "11月から12月にかけて上州・群馬の奥座敷「四万温泉」は、四万川や奥四万…",
+              badge: '11・12月特集'
+            },
+            {
               slug: 'winter-fukushima-ashinomaki-onsen-okawa-valley-snow-stay',
               title: "大川渓谷初雪絶景＆棚田風露天風呂・本場会津馬刺し・極上会津牛",
               desc: "11月から12月にかけて福島県・会津若松の奥座敷「会津芦ノ牧温泉」は、大…",

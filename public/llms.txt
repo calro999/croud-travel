@@ -309,6 +309,7 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【おすすめ宿】湯の山温泉　希望荘の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/166523): 湯の山温泉　希望荘（三重県）
 - [【三重県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/40967): ホテルルートイン松阪駅東（三重県）
 - [【おすすめ宿】湯原温泉　元禄旅籠　油屋の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/147649): 湯原温泉　元禄旅籠　油屋（岡山県）
 - [【徳島県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/8721): 宍喰温泉　ホテルリビエラししくい（徳島県）
@@ -358,4 +359,3 @@
 - [【おすすめ宿】温湯温泉　飯塚旅館の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/84875): 温湯温泉　飯塚旅館（青森県）
 - [【島根県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/54096): 萩温泉郷　夕景の宿　海のゆりかご　萩小町（島根県）
 - [【おすすめ宿】ＨＯＴＥＬ　ｎａｎｖａｎ浜名湖の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/84698): ＨＯＴＥＬ　ｎａｎｖａｎ浜名湖（静岡県）
-- [【宮崎県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/10893): 塩原温泉　割烹旅館　湯の花荘（宮崎県）
