@@ -265,41 +265,42 @@ export default function FeaturePage() {
           </div>
         </section>
 
+        
         {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
             <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              【1泊2日】11・12月おすすめモデルコース＆旅程
+              【1泊2日】おすすめモデルコース＆旅の過ごし方
             </h2>
           </div>
           <p className="text-stone-600 mb-8 text-sm md:text-base leading-relaxed">
-            初冬の魅力を余すところなく味わい尽くす1泊2日の理想の旅程プラン。旬のグルメ、絶景鑑賞、温泉を効率よく巡るタイムスケジュールです。
+            本特集の魅力を最大限に満喫するための理想的な1泊2日旅程モデルプランです。周辺の観光名所やグルメスポットとあわせて、無理のないスケジュールで最高の旅をお楽しみください。
           </p>
           <div className="space-y-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-amber-500 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">出発〜観光・旬のディナーと名湯露天</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">出発〜チェックイン・夕食と名湯を満喫</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">13:30〜</strong> 現地到着後、周辺の観光名所や初冬の絶景スポットを散策。</li>
-                <li>・<strong className="text-stone-800">15:00〜</strong> 宿へチェックイン。お茶菓子をいただきながら温かい客室でリラックス。</li>
-                <li>・<strong className="text-stone-800">16:30〜</strong> 夕暮れ時の露天風呂で冷えた体を芯から温める贅沢な湯浴み。</li>
-                <li>・<strong className="text-stone-800">18:30〜</strong> 旬の極上グルメ会席（ブランド蟹・とらふぐ・特選和牛）に舌鼓。</li>
-                <li>・<strong className="text-stone-800">20:30〜</strong> 冬の澄んだ星空やライトアップ・夜景を眺める大人の夜。</li>
+                <li>・<strong className="text-stone-800">13:30〜</strong> 現地到着後、周辺の散策や名物カフェ・観光スポットをのんびり観光。</li>
+                <li>・<strong className="text-stone-800">15:00〜</strong> お宿へチェックイン。ウェルカムドリンクや特製スイーツを楽しみながら客室で一息。</li>
+                <li>・<strong className="text-stone-800">16:30〜</strong> 夕暮れ時の露天風呂・サウナで日頃の疲れを癒やす極上の湯浴み。</li>
+                <li>・<strong className="text-stone-800">18:30〜</strong> 地元厳選食材をふんだんに使用した旬の会席料理やディナーを堪能。</li>
+                <li>・<strong className="text-stone-800">21:00〜</strong> 星空を仰ぐ夜の露天風呂やラウンジで贅沢な大人の時間を。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">朝風呂〜朝食・冬の特産品ショッピング</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">朝風呂〜朝食・お土産選びと帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 清々しい初冬の空気を感じながら目覚めの朝風呂・サウナ。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 炊きたて地元産ごはんと郷土の温かい朝食膳を堪能。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後、近隣の海鮮市場や道の駅でお土産選び。</li>
-                <li>・<strong className="text-stone-800">12:30〜</strong> 地元名物ランチを楽しみ、心温まる思い出とともに帰路へ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の清々しい空気の中で目覚めの朝風呂・サウナ。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 炊きたて地元産ごはんと郷土の味覚が並ぶこだわりの朝食。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後、近隣の道の駅や特産品店でお土産選び。</li>
+                <li>・<strong className="text-stone-800">12:00〜</strong> 地元で愛される名物ランチを堪能して、大満足の帰路へ。</li>
               </ul>
             </div>
           </div>
@@ -310,73 +311,151 @@ export default function FeaturePage() {
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
             <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と冬旅のワンポイント
+              よくある質問（FAQ）と旅のノウハウ
             </h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 11月〜12月の予約はいつ頃取れば良いですか？</span>
+                <span>Q. 予約に最適な時期やタイミングはいつ頃ですか？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. カニ解禁時期や年末年始、クリスマス期間は非常に人気が高く、9月〜10月には満室になる宿も多くあります。日程が決まり次第、2〜3ヶ月前の早期予約が最も確実です。
+                A. 露天風呂付き客室や特選料理プランは数ヶ月前から予約が埋まりやすいため、旅行日程が決まり次第2〜3ヶ月前の早期予約が最も確実です。楽天トラベルの限定クーポンや早期割引プランを活用するとお得に宿泊できます。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 冬場の車移動でスタッドレスタイヤやチェーンは必要ですか？</span>
+                <span>Q. 車でのアクセスと公共交通機関のどちらが便利ですか？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 東北・北陸・甲信越や山間部エリアでは11月下旬以降に降雪・路面凍結の可能性があるため、冬用タイヤの装着が必須です。公共交通機関利用の場合は最寄り駅からの送迎バスを活用すると安心です。
+                A. 多くの主要旅館・リゾートホテルは最寄り駅から無料送迎バスを運行しています。周辺の観光名所や景勝地を巡る場合は、最寄り駅前でレンタカーを借りると移動がスムーズでおすすめです。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 食事の量やブランド食材の指定プランはありますか？</span>
+                <span>Q. 食事のアレルギー対応や部屋食の指定は可能ですか？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. はい。タグ付き活ガニの匹数指定プランや、とらふぐフルコースなど多彩なグルメプランが用意されています。プラン詳細をご確認の上、ご希望の料理プランをお選びください。
+                A. 多くの宿泊施設で事前連絡によりアレルギー対応が可能です。部屋食や個室食事処プランはプラン予約時に指定するか、予約時の備考欄で宿へ相談することをおすすめします。
+              </p>
+            </details>
+            <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
+              <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
+                <span>Q. 一人旅や子連れファミリーでの宿泊にも向いていますか？</span>
+                <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
+              </summary>
+              <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
+                A. はい。一人旅歓迎プランや、家族向けの広い和洋室・貸切風呂完備の宿を厳選しています。プラン詳細の受入条件をご確認の上、安心してお申し込みください。
               </p>
             </details>
           </div>
         </section>
 
-        {/* Internal Link Mesh: Related Prefectures */}
+        {/* Internal Link Mesh: Related Features & Prefectures */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              全国の人気エリア・温泉地から宿を探す
+              あわせて読みたい人気特集＆全国エリアガイド
             </h2>
           </div>
-          <div className="flex flex-wrap gap-2">
+          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <Link
-              href="/prefectures/kochi"
-              className="text-xs px-3.5 py-2 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
+              href="/furusato-tax-shodoshima-kankakei-olive-autumn-stay"
+              className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
-              高知県のおすすめ宿・温泉一覧 →
+              <div>
+                <span className="inline-block text-[10px] font-bold px-2 py-0.5 rounded bg-amber-100 text-amber-800 mb-2">
+                  厳選おすすめ特集
+                </span>
+                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">
+                  小豆島・寒霞渓の奇岩紅葉ロープウェイとオリーブ収穫祭！瀬戸内海一望の海辺温泉・オリーブ牛と地魚会席 | クラウドトラベルふるさと納税
+                </h3>
+              </div>
+              <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
+                特集を見る →
+              </span>
             </Link>
             <Link
-              href="/prefectures/saga"
-              className="text-xs px-3.5 py-2 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
+              href="/tokyo-ueno-solo-business-sauna-stay"
+              className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
-              佐賀県のおすすめ宿・温泉一覧 →
+              <div>
+                <span className="inline-block text-[10px] font-bold px-2 py-0.5 rounded bg-amber-100 text-amber-800 mb-2">
+                  厳選おすすめ特集
+                </span>
+                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">
+                  【上野出張・極上サウナステイ】新幹線直結・徒士の湯・アメ横グルメ！下町情緒と北の玄関口を極める厳選3宿
+                </h3>
+              </div>
+              <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
+                特集を見る →
+              </span>
             </Link>
             <Link
-              href="/prefectures/fukuoka"
-              className="text-xs px-3.5 py-2 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
+              href="/furusato-tax-rare-wagyu-tankaku-akagyu-gourmet-stay"
+              className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
-              福岡県のおすすめ宿・温泉一覧 →
+              <div>
+                <span className="inline-block text-[10px] font-bold px-2 py-0.5 rounded bg-amber-100 text-amber-800 mb-2">
+                  厳選おすすめ特集
+                </span>
+                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">
+                  幻の極上赤身肉「短角牛・あか牛」美食温泉宿×ふるさと納税完全ガイド【2026年最新】岩手・熊本阿蘇・高知土佐
+                </h3>
+              </div>
+              <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
+                特集を見る →
+              </span>
             </Link>
             <Link
-              href="/prefectures/toyama"
-              className="text-xs px-3.5 py-2 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
+              href="/furusato-tax-shuzenji-atami-late-autumn-leaves-stay"
+              className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
-              富山県のおすすめ宿・温泉一覧 →
+              <div>
+                <span className="inline-block text-[10px] font-bold px-2 py-0.5 rounded bg-amber-100 text-amber-800 mb-2">
+                  厳選おすすめ特集
+                </span>
+                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">
+                  日本一遅い紅葉を愛でる！伊豆修善寺竹林の小径＆熱海梅園もみじまつり名門旅館×ふるさと納税完全ガイド【2026年最新秋旅】静岡 | 旅宿クラウド
+                </h3>
+              </div>
+              <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
+                特集を見る →
+              </span>
             </Link>
+          </div>
+          <div className="pt-6 border-t border-stone-100">
+            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
+            <div className="flex flex-wrap gap-2">
+              <Link
+                href="/prefectures/kagawa"
+                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
+              >
+                香川県の宿・温泉
+              </Link>
+              <Link
+                href="/prefectures/aomori"
+                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
+              >
+                青森県の宿・温泉
+              </Link>
+              <Link
+                href="/prefectures/kagoshima"
+                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
+              >
+                鹿児島県の宿・温泉
+              </Link>
+              <Link
+                href="/prefectures/gunma"
+                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
+              >
+                群馬県の宿・温泉
+              </Link>
+            </div>
           </div>
         </section>
 
