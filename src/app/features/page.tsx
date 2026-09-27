@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-fukuoka-hakata-christmas-advent-gourmet-stay',
+              title: '🎄 福岡クリスマス＆博多もつ鍋温泉',
+              desc: '博多駅前・天神の光の街と本場もつ鍋・天然温泉ホテル',
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-nagasaki-huistenbosch-christmas-lights-stay',
+              title: '🏰 ハウステンボス1300万球イルミ',
+              desc: '日本一の光の街のクリスマスとヨーロッパ風リゾート宿',
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-iseshima-ujibashi-sunrise-matoya-oyster-stay',
+              title: '🌅 伊勢神宮冬至朝日＆的矢かき温泉',
+              desc: '宇治橋大鳥居の奇跡の日の出と冬至参拝・的矢かき名宿',
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay',
+              title: '⛷️ 野沢温泉パウダースノー＆13外湯',
+              desc: '天然雪100%ゲレンデと名物外湯めぐり・信州牛美食宿',
+              badge: '12月開幕'
+            },
+            {
+              slug: 'winter-tottori-misasa-onsen-matsuba-crab-stay',
+              title: '🦀 鳥取タグ付き松葉ガニ＆三朝温泉',
+              desc: '11月解禁！境港直送の活カニフルコースと世界屈指のラジウム泉',
+              badge: '11月解禁'
+            },
+            {
               slug: 'winter-crab-gourmet-luxury-inn-ranking',
               title: '🦀 冬の活蟹・カニ尽くし名宿',
               desc: '城崎・三国・皆生のタグ付き松葉ガニ＆越前ガニ会席',
