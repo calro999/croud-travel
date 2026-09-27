@@ -267,6 +267,7 @@ export default function FeaturePage() {
 
         
         
+        
         {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
@@ -365,7 +366,7 @@ export default function FeaturePage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <Link
-              href="/ito-onsen-solo-retreat-ocean-seafood-stay"
+              href="/furusato-tax-kamikochi-shirahone-autumn-stay"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -373,7 +374,7 @@ export default function FeaturePage() {
                   厳選おすすめ特集
                 </span>
                 <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">
-                  【伊東温泉ひとり旅・海望おこもり】相模灘オーシャンビュー・金目鯛会席・7本の自家源泉！東京から特急で叶う極上湯治リトリート 厳選3選
+                  上高地・河童橋の黄金カラマツ紅葉と梓川清流＆「３日入れば３年風邪ひかぬ」白骨温泉・信州牛 | クラウドトラベルふるさと納税
                 </h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
@@ -381,7 +382,7 @@ export default function FeaturePage() {
               </span>
             </Link>
             <Link
-              href="/autumn-winter-strawberry-picking-resort"
+              href="/furusato-tax-nanki-nachikatsuura-tuna-autumn-stay"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -389,7 +390,7 @@ export default function FeaturePage() {
                   厳選おすすめ特集
                 </span>
                 <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">
-                  【もぎたて完熟】冬・春いちご狩り＆温泉リゾートホテル 完全ガイド ｜ 日本全国・旅宿クラウド
+                  那智の滝と熊野古道の秋紅葉！南紀勝浦温泉の海辺洞窟露天風呂・生まぐろ＆熊野牛を味わう聖地紀州旅 | クラウドトラベルふるさと納税
                 </h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
@@ -397,7 +398,7 @@ export default function FeaturePage() {
               </span>
             </Link>
             <Link
-              href="/ehime-matsuyama-dogo-onsen-stay"
+              href="/furusato-tax-gero-gasshomura-autumn-stay"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -405,7 +406,7 @@ export default function FeaturePage() {
                   厳選おすすめ特集
                 </span>
                 <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">
-                  【愛媛・道後温泉】本館・飛鳥乃湯泉＆坊っちゃん文学・鯛めし極上宿 完全ガイド ｜ 日本全国・旅宿クラウド
+                  下呂温泉の紅葉合掌村と飛騨金山巨石群！日本三名泉の美肌湯と極上飛騨牛すき焼きを味わう秋旅 | クラウドトラベルふるさと納税
                 </h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
@@ -413,7 +414,7 @@ export default function FeaturePage() {
               </span>
             </Link>
             <Link
-              href="/furusato-tax-kyoto-arashiyama-bamboo-luxury-stay"
+              href="/furusato-tax-gero-hidatakayama-autumn-beef-stay"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -421,7 +422,7 @@ export default function FeaturePage() {
                   厳選おすすめ特集
                 </span>
                 <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">
-                  渡月橋と竹林の小径の静寂！京都嵐山温泉の保津川一望ラグジュアリー＆老舗料理旅館×ふるさと納税完全攻略ガイド【2026年最新】翠嵐・花伝抄・辨慶
+                  日本三名泉のとろとろ美肌湯＆とろける飛騨牛！下呂温泉・飛騨高山秋の味覚プレミアム名宿×ふるさと納税完全ガイド【2026年最新秋旅】岐阜 | 旅宿クラウド
                 </h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
@@ -433,28 +434,28 @@ export default function FeaturePage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/hyogo"
+                href="/prefectures/osaka"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                兵庫県の宿・温泉
+                大阪府の宿・温泉
               </Link>
               <Link
-                href="/prefectures/miyagi"
+                href="/prefectures/shiga"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                宮城県の宿・温泉
+                滋賀県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/niigata"
+                href="/prefectures/fukui"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                新潟県の宿・温泉
+                福井県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/gifu"
+                href="/prefectures/saitama"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                岐阜県の宿・温泉
+                埼玉県の宿・温泉
               </Link>
             </div>
           </div>

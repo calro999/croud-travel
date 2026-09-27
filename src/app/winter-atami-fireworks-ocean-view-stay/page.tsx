@@ -268,6 +268,7 @@ export default function FeaturePage() {
         
         
         
+        
         {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
@@ -366,7 +367,7 @@ export default function FeaturePage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <Link
-              href="/furusato-tax-three-great-pine-groves-ocean-stay"
+              href="/tokyo-takayama-shirakawago-highway-bus-guide"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -374,7 +375,7 @@ export default function FeaturePage() {
                   厳選おすすめ特集
                 </span>
                 <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">
-                  日本三大松原＆白砂青松オーシャンビュー宿×ふるさと納税完全ガイド【2026年最新】三保松原・虹の松原・気比の松原
+                  【東京・新宿〜飛騨高山・白川郷】直行高速バスが最強！電車との料金・時間比較＆飛騨牛1泊2日モデルコース ｜ 日本全国・旅宿クラウド
                 </h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
@@ -382,7 +383,7 @@ export default function FeaturePage() {
               </span>
             </Link>
             <Link
-              href="/ishikawa-wakura-solo-retreat-ocean-onsen-stay"
+              href="/kyoto-solo-retreat-temple-modern-stay"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -390,7 +391,7 @@ export default function FeaturePage() {
                   厳選おすすめ特集
                 </span>
                 <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">
-                  【能登・和倉温泉ひとり旅・七尾湾オーシャンフロントおこもり】開湯1200年塩化物泉・能登前寿司＆能登牛・復興応援ステイ！海の温泉郷厳選3宿
+                  【京都ひとり旅・静寂おこもり】朝のお勤め・枯山水庭園・祇園の隠れ家！大人が心洗われる極上和モダン宿 厳選3選
                 </h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
@@ -398,7 +399,7 @@ export default function FeaturePage() {
               </span>
             </Link>
             <Link
-              href="/organic-forest-aromatherapy-villa-stay"
+              href="/kanagawa-hakone-yumoto-solo-retreat-onsen-stay"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -406,7 +407,7 @@ export default function FeaturePage() {
                   厳選おすすめ特集
                 </span>
                 <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">
-                  【2026年】天然精油の香りで深呼吸。ヒノキ・スギ精油アロマスパスパ＆森林浴プライベートヴィラ5選 | 日本全国・旅宿クラウド
+                  【箱根湯本ひとり旅・自然渓流おこもり】ロマンスカー直通・渓流露天風呂・旬会席！都心から85分の極上ソロ温泉リトリート厳選3宿
                 </h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
@@ -414,7 +415,7 @@ export default function FeaturePage() {
               </span>
             </Link>
             <Link
-              href="/tokyo-iwate-morioka-bus-vs-shinkansen-guide"
+              href="/kyoto-amanohashidate-ine-funaya-stay"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -422,7 +423,7 @@ export default function FeaturePage() {
                   厳選おすすめ特集
                 </span>
                 <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">
-                  【東京〜盛岡・花巻】新幹線はやぶさ vs 夜行バス徹底比較！片道3,500円〜行く三大麺爆食＆花巻温泉郷1泊2日モデルコース ｜ 日本全国・旅宿クラウド
+                  【京都・天橋立＆伊根の舟屋】股のぞき・舟屋クルーズ＆冬の間人ガニ・名湯宿 完全ガイド ｜ 日本全国・旅宿クラウド
                 </h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
@@ -434,28 +435,28 @@ export default function FeaturePage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/hokkaido"
+                href="/prefectures/kagoshima"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                北海道の宿・温泉
+                鹿児島県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/miyagi"
+                href="/prefectures/gifu"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                宮城県の宿・温泉
+                岐阜県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/tottori"
+                href="/prefectures/oita"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                鳥取県の宿・温泉
+                大分県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/yamagata"
+                href="/prefectures/kumamoto"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                山形県の宿・温泉
+                熊本県の宿・温泉
               </Link>
             </div>
           </div>

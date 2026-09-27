@@ -266,6 +266,7 @@ export default function FeaturePage() {
         </section>
 
         
+        
         {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
@@ -364,7 +365,7 @@ export default function FeaturePage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <Link
-              href="/japan-ocean-cliff-sunset-view-stay"
+              href="/furusato-tax-three-great-beautiful-forests-wood-stay"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -372,7 +373,7 @@ export default function FeaturePage() {
                   厳選おすすめ特集
                 </span>
                 <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">
-                  【絶景断崖オーシャン＆夕陽パノラマ宿】三陸・男鹿・越前・室戸岬・天草 完全ガイド ｜ 日本全国・旅宿クラウド
+                  furusato-tax-three-great-beautiful-forests-wood-stay
                 </h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
@@ -380,7 +381,7 @@ export default function FeaturePage() {
               </span>
             </Link>
             <Link
-              href="/furusato-tax-three-great-highlands-resort-stay"
+              href="/super-panoramic-paragliding-sky-stay"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -388,7 +389,7 @@ export default function FeaturePage() {
                   厳選おすすめ特集
                 </span>
                 <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">
-                  日本三大高原＆爽快マウンテンリゾート・白樺と星空の露天風呂宿×ふるさと納税完全ガイド【2026年最新】志賀高原・軽井沢・白樺湖霧ヶ峰
+                  【大空を舞う空中散歩】爽快パラグライダー体験＆絶景パノラマ露天風呂！高原アクティビティ宿5選
                 </h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
@@ -396,7 +397,7 @@ export default function FeaturePage() {
               </span>
             </Link>
             <Link
-              href="/furusato-tax-kenrokuen-yukitsuri-autumn-kanazawa-stay"
+              href="/nagano-azumino-wasabi-hotaka-stay"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -404,7 +405,7 @@ export default function FeaturePage() {
                   厳選おすすめ特集
                 </span>
                 <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">
-                  兼六園の雪吊り＆金沢城・紅葉ライトアップ！深谷温泉・湯涌温泉の名湯宿×ふるさと納税完全ガイド【2026年最新秋旅】石川
+                  【長野・安曇野＆穂高温泉郷】大王わさび農場・水車小屋＆信州サーモン・わさび丼宿 完全ガイド ｜ 日本全国・旅宿クラウド
                 </h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
@@ -412,7 +413,7 @@ export default function FeaturePage() {
               </span>
             </Link>
             <Link
-              href="/furusato-tax-narukokyo-akiu-autumn-foliage-stay"
+              href="/samurai-katana-armor-buke-yashiki-heritage-stay"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -420,7 +421,7 @@ export default function FeaturePage() {
                   厳選おすすめ特集
                 </span>
                 <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">
-                  深さ100mの絶壁が燃える錦秋絵巻！鳴子峡大紅葉＆鳴子温泉郷源泉かけ流し名宿×ふるさと納税完全ガイド【2026年最新秋旅】宮城 | 旅宿クラウド
+                  武家屋敷＆サムライ・甲冑・刀剣体験宿完全ガイド【会津・角館・知覧歴史旅】 | クラウドトラベル
                 </h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
@@ -432,28 +433,28 @@ export default function FeaturePage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/hiroshima"
+                href="/prefectures/aichi"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                広島県の宿・温泉
+                愛知県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/nagasaki"
+                href="/prefectures/yamagata"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                長崎県の宿・温泉
+                山形県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/gunma"
+                href="/prefectures/gifu"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                群馬県の宿・温泉
+                岐阜県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/fukui"
+                href="/prefectures/osaka"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                福井県の宿・温泉
+                大阪府の宿・温泉
               </Link>
             </div>
           </div>

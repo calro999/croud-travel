@@ -266,6 +266,7 @@ export default function FeaturePage() {
         </section>
 
         
+        
         {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
@@ -364,7 +365,7 @@ export default function FeaturePage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <Link
-              href="/hokkaido-kawayu-solo-retreat-acid-onsen-stay"
+              href="/furusato-tax-three-great-tea-ceremony-cities-stay"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -372,7 +373,7 @@ export default function FeaturePage() {
                   厳選おすすめ特集
                 </span>
                 <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">
-                  【道東・川湯温泉ひとり旅・硫黄山pH1.7強酸性泉おこもり】釘も溶かす日本屈指の酸性硫黄泉・摩周湖の霧・エゾ鹿料理！阿寒摩周の秘境厳選3宿
+                  日本三大茶道文化都市＆茶室庭園と抹茶・上生菓子を愛でる数寄屋名宿×ふるさと納税完全ガイド【2026年最新】京都・松江・金沢
                 </h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
@@ -380,7 +381,7 @@ export default function FeaturePage() {
               </span>
             </Link>
             <Link
-              href="/furusato-tax-otaru-canal-asarigawa-onsen-stay"
+              href="/kanagawa-hakone-sengokuhara-autumn-solo-retreat-onsen-stay"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -388,7 +389,7 @@ export default function FeaturePage() {
                   厳選おすすめ特集
                 </span>
                 <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">
-                  【小樽・朝里川温泉×ふるさと納税】小樽運河の情緒＆北の迎賓館！鰊御殿と寿司の街特集｜おたるふる川・宏楽園・銀鱗荘
+                  【10月・11月秋の箱根仙石原ひとり旅・黄金色ススキ草原と白濁硫黄泉おこもり】全室露天風呂・北海道×箱根の極上和懐石！秋深まる高原リトリート厳選3宿
                 </h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
@@ -396,7 +397,7 @@ export default function FeaturePage() {
               </span>
             </Link>
             <Link
-              href="/furusato-tax-hoshino-resorts-risonare-family-stay"
+              href="/furusato-tax-arima-onsen-kinsen-ginsen-kobe-beef-stay"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -404,7 +405,7 @@ export default function FeaturePage() {
                   厳選おすすめ特集
                 </span>
                 <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">
-                  家族の最高の思い出を！星野リゾート「リゾナーレ」×ふるさと納税完全攻略ガイド【2026年最新】八ヶ岳・熱海・那須で洗練された非日常ステイ
+                  【有馬温泉×ふるさと納税】日本最古の名湯・金泉銀泉めぐり＆極上神戸牛！名門老舗旅館ステイ完全ガイド｜兵衛向陽閣・月光園鴻朧館・陶泉御所坊
                 </h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
@@ -412,7 +413,7 @@ export default function FeaturePage() {
               </span>
             </Link>
             <Link
-              href="/furusato-tax-brand-jidori-mizutaki-gourmet-stay"
+              href="/furusato-tax-mountain-stream-open-air-bath-healing-stay"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -420,7 +421,7 @@ export default function FeaturePage() {
                   厳選おすすめ特集
                 </span>
                 <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">
-                  ブランド地鶏・水炊き・軍鶏料理の名湯宿×ふるさと納税完全ガイド【2026年最新】比内地鶏・土佐ジロー・黒さつま鶏の美食旅
+                  清流のせせらぎとマイナスイオンに包まれる渓流露天風呂名宿×ふるさと納税完全ガイド【2026年最新】奥入瀬・黒川・塩原
                 </h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
@@ -432,28 +433,28 @@ export default function FeaturePage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/shimane"
-                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
-              >
-                島根県の宿・温泉
-              </Link>
-              <Link
                 href="/prefectures/hokkaido"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 北海道の宿・温泉
               </Link>
               <Link
-                href="/prefectures/oita"
+                href="/prefectures/kagoshima"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                大分県の宿・温泉
+                鹿児島県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/okayama"
+                href="/prefectures/osaka"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                岡山県の宿・温泉
+                大阪府の宿・温泉
+              </Link>
+              <Link
+                href="/prefectures/kanagawa"
+                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
+              >
+                神奈川県の宿・温泉
               </Link>
             </div>
           </div>

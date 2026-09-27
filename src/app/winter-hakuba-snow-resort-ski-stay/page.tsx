@@ -266,6 +266,7 @@ export default function FeaturePage() {
         </section>
 
         
+        
         {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
@@ -364,7 +365,7 @@ export default function FeaturePage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <Link
-              href="/furusato-tax-luxury-buffet-gourmet-resort-stay"
+              href="/saga-karatsu-yobuko-squid-stay"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -372,7 +373,7 @@ export default function FeaturePage() {
                   厳選おすすめ特集
                 </span>
                 <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">
-                  豪華ディナービュッフェ＆出来たてライブキッチン極上温泉宿×ふるさと納税完全ガイド【2026年最新】鬼怒川あさや・別府杉乃井・登別グランド
+                  【佐賀・唐津＆呼子】唐津城・虹の松原＆呼子活イカ姿造り・佐賀牛宿 完全ガイド ｜ 日本全国・旅宿クラウド
                 </h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
@@ -380,7 +381,7 @@ export default function FeaturePage() {
               </span>
             </Link>
             <Link
-              href="/tangible-cultural-property-sukiya-carpenter-ryokan-stay"
+              href="/luxury-private-onsen-with-records-vinyl-lounge"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -388,7 +389,7 @@ export default function FeaturePage() {
                   厳選おすすめ特集
                 </span>
                 <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">
-                  登録有形文化財・宮大工建築の数寄屋旅館完全ガイド【釘を使わぬ木造美と温泉】 | クラウドトラベル
+                  【2026年】名盤の温もりに浸る。アナログレコード＆真空管アンプラウンジ付き大人の音楽温泉宿5選 | 日本全国・旅宿クラウド
                 </h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
@@ -396,7 +397,7 @@ export default function FeaturePage() {
               </span>
             </Link>
             <Link
-              href="/furusato-tax-fuji-view-onsen-resort-stay"
+              href="/kanazawa-station-solo-business-sauna-onsen-stay"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -404,7 +405,7 @@ export default function FeaturePage() {
                   厳選おすすめ特集
                 </span>
                 <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">
-                  絶景富士山ビュー露天風呂宿×ふるさと納税完全ガイド【2026年最新】河口湖・山中湖・日本平の霊峰一望リゾート
+                  【金沢駅前出張・天然温泉サウナ】鼓門・天然温泉白鳥の湯・近江町市場海鮮丼！加賀百万石の伝統とビジネスを両立する厳選3宿
                 </h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
@@ -412,7 +413,7 @@ export default function FeaturePage() {
               </span>
             </Link>
             <Link
-              href="/furusato-tax-niigata-yahiko-iwamuro-autumn-stay"
+              href="/kofu-solo-business-takeda-wine-onsen-stay"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -420,7 +421,7 @@ export default function FeaturePage() {
                   厳選おすすめ特集
                 </span>
                 <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">
-                  新潟・越後一宮 弥彦神社もみじ谷＆弥彦温泉！菊まつりと越後名物・のどぐろ・岩船米コシヒカリ | クラウドトラベルふるさと納税
+                  【甲府出張・信玄公の城下町】天然温泉甲斐路の湯・甲府城天守台・甲州ワイン＆名物ほうとう！武田の杜でととのう厳選3宿
                 </h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
@@ -432,28 +433,28 @@ export default function FeaturePage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/okayama"
+                href="/prefectures/tottori"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                岡山県の宿・温泉
+                鳥取県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/ibaraki"
+                href="/prefectures/shizuoka"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                茨城県の宿・温泉
+                静岡県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/fukushima"
+                href="/prefectures/kagawa"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                福島県の宿・温泉
+                香川県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/kagoshima"
+                href="/prefectures/iwate"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                鹿児島県の宿・温泉
+                岩手県の宿・温泉
               </Link>
             </div>
           </div>

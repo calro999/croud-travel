@@ -266,6 +266,7 @@ export default function FeaturePage() {
         </section>
 
         
+        
         {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
@@ -364,7 +365,7 @@ export default function FeaturePage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <Link
-              href="/organic-forest-infinity-panoramic-barrel-sauna-hokkaido"
+              href="/traditional-sendai-beef-tan-gourmet-stay"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -372,7 +373,7 @@ export default function FeaturePage() {
                   厳選おすすめ特集
                 </span>
                 <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">
-                  【北海道大自然バレルサウナ】十勝・ニセコ・富良野！白樺原生林と極上雪解け湧水水風呂宿5選
+                  【2026最新】極上厚切り牛タン炭火焼き＆A5仙台牛会席！宮城・秋保＆松島の名湯美食宿5選
                 </h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
@@ -380,7 +381,7 @@ export default function FeaturePage() {
               </span>
             </Link>
             <Link
-              href="/furusato-tax-kuroge-wagyu-teppanyaki-luxury-stay"
+              href="/kyoto-travel-budget-how-many-nights"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -388,7 +389,7 @@ export default function FeaturePage() {
                   厳選おすすめ特集
                 </span>
                 <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">
-                  最高級黒毛和牛ステーキ＆鉄板焼きカウンター宿×ふるさと納税完全ガイド【2026年最新】松阪牛・近江牛・米沢牛の美食ホテル
+                  【京都旅行 何泊がベスト？】1泊2日 vs 2泊3日 費用・満足度・モデルコース徹底比較
                 </h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
@@ -396,7 +397,7 @@ export default function FeaturePage() {
               </span>
             </Link>
             <Link
-              href="/furusato-tax-yamanakako-fuji-autumn-leaves-stay"
+              href="/organic-forest-snow-sauna-retreat-stay"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -404,7 +405,7 @@ export default function FeaturePage() {
                   厳選おすすめ特集
                 </span>
                 <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">
-                  富士山と紅葉の絶景コラボ！山中湖「夕焼けの渚紅葉まつり」＆忍野八海と温泉名宿×ふるさと納税完全ガイド【2026年最新秋旅】山梨
+                  【雪原ダイブ＆極寒外気浴】白銀の世界でととのう北欧薪サウナ＆雪見温泉宿5選
                 </h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
@@ -412,7 +413,7 @@ export default function FeaturePage() {
               </span>
             </Link>
             <Link
-              href="/furusato-tax-ikaho-kajikabashi-autumn-leaves-stay"
+              href="/private-beach-secluded-cove-luxury-villa-stay"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -420,7 +421,7 @@ export default function FeaturePage() {
                   厳選おすすめ特集
                 </span>
                 <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">
-                  伊香保温泉の河鹿橋もみじライトアップ＆365段石段街！黄金の湯宿×ふるさと納税完全ガイド【2026年最新秋旅】群馬
+                  【2026年】プライベートビーチ＆入江直結！波打ち際を独占する完全貸切オーシャンヴィラ5選 ｜ 日本全国・旅宿クラウド
                 </h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
@@ -432,28 +433,28 @@ export default function FeaturePage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/niigata"
+                href="/prefectures/mie"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                新潟県の宿・温泉
+                三重県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/fukui"
+                href="/prefectures/tochigi"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                福井県の宿・温泉
+                栃木県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/nara"
+                href="/prefectures/aichi"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                奈良県の宿・温泉
+                愛知県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/gunma"
+                href="/prefectures/oita"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                群馬県の宿・温泉
+                大分県の宿・温泉
               </Link>
             </div>
           </div>

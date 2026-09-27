@@ -268,6 +268,7 @@ export default function FeaturePage() {
         
         
         
+        
         {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
@@ -366,7 +367,7 @@ export default function FeaturePage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <Link
-              href="/furusato-tax-yufuin-kinrinko-luxury-villa-stay"
+              href="/heritage-cultural-wooden-ryokan"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -374,7 +375,7 @@ export default function FeaturePage() {
                   厳選おすすめ特集
                 </span>
                 <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">
-                  【由布院温泉×ふるさと納税】金鱗湖の朝霧＆由布岳絶景！全室離れ露天風呂付き隠れ家名宿ガイド｜旅亭田乃倉・ゆふいん花由・ゆふいん月燈庵
+                  【登録有形文化財・名建築の宿】宮大工の木造建築・文豪が愛した老舗旅館 完全ガイド ｜ 日本全国・旅宿クラウド
                 </h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
@@ -382,7 +383,7 @@ export default function FeaturePage() {
               </span>
             </Link>
             <Link
-              href="/wakayama-solo-business-ramen-castle-stay"
+              href="/furusato-tax-takachiho-manainotaki-autumn-leaves-stay"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -390,7 +391,7 @@ export default function FeaturePage() {
                   厳選おすすめ特集
                 </span>
                 <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">
-                  【和歌山出張・ひとり旅】天然温泉紀州の湯・和歌山城パノラマ・濃厚豚骨醤油中華そば！城下町でととのう快適出張宿 厳選3選
+                  神話の里・高千穂峡の真名井の滝紅葉ボート＆高千穂神社夜神楽！極上高千穂牛宿×ふるさと納税完全ガイド【2026年最新秋旅】宮崎
                 </h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
@@ -398,7 +399,7 @@ export default function FeaturePage() {
               </span>
             </Link>
             <Link
-              href="/furusato-tax-gero-gasshomura-autumn-stay"
+              href="/furusato-tax-three-gorge-open-air-baths-retreat-stay"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -406,7 +407,7 @@ export default function FeaturePage() {
                   厳選おすすめ特集
                 </span>
                 <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">
-                  下呂温泉の紅葉合掌村と飛騨金山巨石群！日本三名泉の美肌湯と極上飛騨牛すき焼きを味わう秋旅 | クラウドトラベルふるさと納税
+                  日本三大渓谷露天風呂＆大自然パノラマ野天温泉宿×ふるさと納税完全ガイド【2026年最新】天城湯ヶ島・群馬尻焼・秋田秋の宮
                 </h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
@@ -414,7 +415,7 @@ export default function FeaturePage() {
               </span>
             </Link>
             <Link
-              href="/furusato-tax-kumano-kodo-world-heritage-stay"
+              href="/furusato-tax-open-air-bath-with-majestic-fuji-view-stay"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -422,7 +423,7 @@ export default function FeaturePage() {
                   厳選おすすめ特集
                 </span>
                 <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">
-                  世界遺産・熊野古道の祈りの巡礼路と名湯宿×ふるさと納税完全ガイド【2026年最新】湯の峰・那智勝浦・白浜
+                  富士山ビュー客室露天風呂宿×ふるさと納税完全ガイド【2026年最新】河口湖・日本平・箱根芦ノ湖の霊峰一望リゾート
                 </h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
@@ -434,28 +435,28 @@ export default function FeaturePage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/kyoto"
+                href="/prefectures/shiga"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                京都府の宿・温泉
+                滋賀県の宿・温泉
+              </Link>
+              <Link
+                href="/prefectures/osaka"
+                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
+              >
+                大阪府の宿・温泉
+              </Link>
+              <Link
+                href="/prefectures/kochi"
+                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
+              >
+                高知県の宿・温泉
               </Link>
               <Link
                 href="/prefectures/ishikawa"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 石川県の宿・温泉
-              </Link>
-              <Link
-                href="/prefectures/gifu"
-                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
-              >
-                岐阜県の宿・温泉
-              </Link>
-              <Link
-                href="/prefectures/tottori"
-                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
-              >
-                鳥取県の宿・温泉
               </Link>
             </div>
           </div>

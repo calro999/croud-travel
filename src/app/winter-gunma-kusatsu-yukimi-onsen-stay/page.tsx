@@ -267,6 +267,7 @@ export default function FeaturePage() {
 
         
         
+        
         {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
@@ -365,7 +366,7 @@ export default function FeaturePage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <Link
-              href="/welcome-baby-family-indoor-pool-hotels"
+              href="/spring-saga-imari-beef-takeo-onsen-stay"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -373,7 +374,7 @@ export default function FeaturePage() {
                   厳選おすすめ特集
                 </span>
                 <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">
-                  赤ちゃん連れも安心！室内温水プール＆充実のキッズアメニティが嬉しいファミリー宿 ｜ 日本全国・旅宿クラウド
+                  【極上A5伊万里牛＆武雄温泉美肌湯】1300年の名湯と佐賀の最高峰グルメを堪能する名宿5選
                 </h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
@@ -381,7 +382,7 @@ export default function FeaturePage() {
               </span>
             </Link>
             <Link
-              href="/furusato-tax-minoh-falls-arima-autumn-leaves-stay"
+              href="/kagoshima-tenmonkan-solo-business-onsen-sauna-stay"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -389,7 +390,7 @@ export default function FeaturePage() {
                   厳選おすすめ特集
                 </span>
                 <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">
-                  日本の滝百選・箕面大滝の紅葉美＆日本最古の名湯・有馬温泉金泉銀泉名宿×ふるさと納税完全ガイド【2026年最新秋旅】関西 | 旅宿クラウド
+                  【鹿児島天文館出張・天然温泉サウナ】桜島展望・天然温泉霧桜の湯・黒豚しゃぶしゃぶ！南九州最大の繁華街を制する厳選3宿
                 </h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
@@ -397,7 +398,7 @@ export default function FeaturePage() {
               </span>
             </Link>
             <Link
-              href="/autumn-wine-fruit-hunting"
+              href="/okayama-station-solo-business-onsen-sauna-stay"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -405,7 +406,7 @@ export default function FeaturePage() {
                   厳選おすすめ特集
                 </span>
                 <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">
-                  【秋の味覚狩り】ワイナリー巡り＆フルーツ温泉リゾート 完全ガイド ｜ 日本全国・旅宿クラウド
+                  【岡山駅前出張・天然温泉サウナ】新幹線直結・天然温泉吉備の湯・後楽園＆白壁美観地区！中国・四国の十字路を制する厳選3宿
                 </h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
@@ -413,7 +414,7 @@ export default function FeaturePage() {
               </span>
             </Link>
             <Link
-              href="/furusato-tax-art-museum-architecture-luxury-hotel-stay"
+              href="/otaru-canal-solo-retreat-onsen-stay"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -421,7 +422,7 @@ export default function FeaturePage() {
                   厳選おすすめ特集
                 </span>
                 <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">
-                  安藤忠雄建築や現代アートと眠る美術館ホテル＆アートリゾート×ふるさと納税完全ガイド【2026年最新】直島・箱根強羅・青森
+                  【小樽運河ひとり旅・レトロ温泉おこもり】ガス灯揺れる石造り倉庫街・自家源泉の湯・極上握り寿司！歴史と硝子の街に癒やされる厳選3宿
                 </h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
@@ -433,28 +434,28 @@ export default function FeaturePage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
+                href="/prefectures/shizuoka"
+                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
+              >
+                静岡県の宿・温泉
+              </Link>
+              <Link
                 href="/prefectures/aomori"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 青森県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/tochigi"
+                href="/prefectures/yamagata"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                栃木県の宿・温泉
+                山形県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/yamanashi"
+                href="/prefectures/nara"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                山梨県の宿・温泉
-              </Link>
-              <Link
-                href="/prefectures/niigata"
-                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
-              >
-                新潟県の宿・温泉
+                奈良県の宿・温泉
               </Link>
             </div>
           </div>

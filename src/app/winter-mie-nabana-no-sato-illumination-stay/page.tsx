@@ -267,6 +267,7 @@ export default function FeaturePage() {
 
         
         
+        
         {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
@@ -365,7 +366,7 @@ export default function FeaturePage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <Link
-              href="/fukuoka-hakata-tenjin-solo-onsen-gourmet-stay"
+              href="/toyama-himi-solo-retreat-onsen-seafood-stay"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -373,7 +374,7 @@ export default function FeaturePage() {
                   厳選おすすめ特集
                 </span>
                 <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">
-                  【福岡・博多出張＆ご褒美ソロ旅】博多駅直結・屋上温泉スパ・名物もつ鍋朝食！美食とサウナを満喫する極上宿 厳選3選
+                  【富山・氷見温泉郷ひとり旅・富山湾越しの立山連峰おこもり】海越しの立山連峰・氷見寒ブリ＆白えび・自家源泉かけ流し！能越道直通の海の秘境厳選3宿
                 </h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
@@ -381,7 +382,7 @@ export default function FeaturePage() {
               </span>
             </Link>
             <Link
-              href="/super-panoramic-canyon-bridge-bungy-stay"
+              href="/autumn-leaves"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -389,7 +390,7 @@ export default function FeaturePage() {
                   厳選おすすめ特集
                 </span>
                 <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">
-                  【2026年】爽快ラフティング＆キャニオニング！大自然アクティビティと癒やしの天然温泉宿5選 ｜ 日本全国・旅宿クラウド
+                  【全国】紅葉露天風呂＆絶景温泉旅館ガイド ｜ 日本全国・旅宿クラウド
                 </h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
@@ -397,7 +398,7 @@ export default function FeaturePage() {
               </span>
             </Link>
             <Link
-              href="/furusato-tax-three-great-beautiful-ports-stay"
+              href="/furusato-tax-three-great-lacquer-craft-historic-inns-stay"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -405,7 +406,7 @@ export default function FeaturePage() {
                   厳選おすすめ特集
                 </span>
                 <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">
-                  日本三大美港＆世界遺産富士山と夜景パノラマ・ウォーターフロント宿×ふるさと納税完全ガイド【2026年最新】清水港・長崎港・神戸港
+                  日本三大漆器＆漆黒と金蒔絵の雅・作家の器で味わう名旅館宿×ふるさと納税完全ガイド【2026年最新】輪島・会津・山中
                 </h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
@@ -413,7 +414,7 @@ export default function FeaturePage() {
               </span>
             </Link>
             <Link
-              href="/astronomical-observatory-stargazing-guide-resort-stay"
+              href="/furusato-tax-three-sacred-temple-bells-retreat-stay"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -421,7 +422,7 @@ export default function FeaturePage() {
                   厳選おすすめ特集
                 </span>
                 <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">
-                  【天体望遠鏡ドーム＆星空案内人（星ソムリエ）常駐宿】本格天体観測 完全ガイド ｜ 日本全国・旅宿クラウド
+                  日本三名鐘＆歴史の響き・古刹めぐり宿坊・名旅館×ふるさと納税完全ガイド【2026年最新】三井寺・神護寺・観世音寺
                 </h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
@@ -433,28 +434,28 @@ export default function FeaturePage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/tokushima"
+                href="/prefectures/fukushima"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                徳島県の宿・温泉
+                福島県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/toyama"
+                href="/prefectures/tottori"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                富山県の宿・温泉
+                鳥取県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/chiba"
+                href="/prefectures/osaka"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                千葉県の宿・温泉
+                大阪府の宿・温泉
               </Link>
               <Link
-                href="/prefectures/yamaguchi"
+                href="/prefectures/wakayama"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                山口県の宿・温泉
+                和歌山県の宿・温泉
               </Link>
             </div>
           </div>

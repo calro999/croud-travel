@@ -268,6 +268,7 @@ export default function FeaturePage() {
         
         
         
+        
         {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
@@ -366,7 +367,7 @@ export default function FeaturePage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <Link
-              href="/furusato-tax-chuzenji-onsen-lake-kanaya-stay"
+              href="/tea-ceremony-authentic-chashitsu-matcha-ryokan-stay"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -374,7 +375,7 @@ export default function FeaturePage() {
                   厳選おすすめ特集
                 </span>
                 <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">
-                  【中禅寺湖温泉×ふるさと納税】白濁硫黄露天風呂＆湖畔絶景クラシックリゾート！名宿特集｜中禅寺金谷ホテル・ホテル花庵・旅籠なごみ
+                  茶道・本格茶室＆抹茶体験宿完全ガイド【京都・金沢・宇治数寄屋ステイ】 | クラウドトラベル
                 </h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
@@ -382,7 +383,7 @@ export default function FeaturePage() {
               </span>
             </Link>
             <Link
-              href="/aso-kumamoto-car-free-trip-guide"
+              href="/furusato-tax-three-great-cable-cars-ropeway-stay"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -390,7 +391,7 @@ export default function FeaturePage() {
                   厳選おすすめ特集
                 </span>
                 <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">
-                  【熊本・阿蘇 車なし観光 1泊2日モデルコース】観光特急あそぼーい！＆産交バスで行くカルデラ大自然旅 ｜ 日本全国・旅宿クラウド
+                  日本三大山岳ロープウェイ＆雲上パノラマ・絶景空中散歩のリゾート名宿×ふるさと納税完全ガイド【2026年最新】千畳敷・立山・箱根駒ヶ岳
                 </h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
@@ -398,7 +399,7 @@ export default function FeaturePage() {
               </span>
             </Link>
             <Link
-              href="/furusato-tax-three-generation-family-luxury-stay"
+              href="/furusato-tax-hida-furukawa-okuhida-autumn-stay"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -406,7 +407,7 @@ export default function FeaturePage() {
                   厳選おすすめ特集
                 </span>
                 <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">
-                  【3世代家族旅行×高額枠一括消化】親孝行＆孫と泊まる客室露天風呂・離れ宿完全ガイド | クラウドトラベル
+                  飛騨古川の白壁土蔵街と新穂高ロープウェイ！奥飛騨温泉郷の紅葉露天・最高級飛騨牛を味わう秋旅 | クラウドトラベルふるさと納税
                 </h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
@@ -414,7 +415,7 @@ export default function FeaturePage() {
               </span>
             </Link>
             <Link
-              href="/asahikawa-solo-business-ramen-sauna-stay"
+              href="/furusato-tax-kiso-valley-magome-tsumago-stay"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -422,7 +423,7 @@ export default function FeaturePage() {
                   厳選おすすめ特集
                 </span>
                 <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">
-                  【旭川出張・男一人旅サウナ】天然温泉神威の湯・駅直結半露天・本場旭川醤油ラーメン！道北ビジネスを極上の癒やしに変える厳選3宿
+                  木曽路・馬籠宿と妻籠宿の石畳紅葉！木曽福島温泉の清流露天・信州新そば＆木曽牛を味わう秋の中仙道旅 | クラウドトラベルふるさと納税
                 </h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
@@ -434,28 +435,28 @@ export default function FeaturePage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/ibaraki"
+                href="/prefectures/mie"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                茨城県の宿・温泉
+                三重県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/gifu"
+                href="/prefectures/fukuoka"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                岐阜県の宿・温泉
+                福岡県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/fukushima"
+                href="/prefectures/yamagata"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                福島県の宿・温泉
+                山形県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/ehime"
+                href="/prefectures/nagasaki"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                愛媛県の宿・温泉
+                長崎県の宿・温泉
               </Link>
             </div>
           </div>

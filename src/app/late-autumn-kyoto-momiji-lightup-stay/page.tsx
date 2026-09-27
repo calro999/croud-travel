@@ -268,6 +268,7 @@ export default function FeaturePage() {
         
         
         
+        
         {/* Model Course Section */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
@@ -366,7 +367,7 @@ export default function FeaturePage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <Link
-              href="/furusato-tax-three-great-hot-spring-cure-toji-stay"
+              href="/tokyo-disney-resort-family-hotel-comparison"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -374,7 +375,7 @@ export default function FeaturePage() {
                   厳選おすすめ特集
                 </span>
                 <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">
-                  日本三大湯治場＆名湯治リトリート・本格効能温泉と逗留宿×ふるさと納税完全ガイド【2026年最新】玉川・三朝・草津
+                  【子連れディズニー後泊ホテル比較】舞浜・新浦安・葛西のコスパ宿＆二段ベッド・洗い場付きお風呂完備 ｜ 日本全国・旅宿クラウド
                 </h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
@@ -382,7 +383,7 @@ export default function FeaturePage() {
               </span>
             </Link>
             <Link
-              href="/japan-ocean-cliff-sunset-view-stay"
+              href="/private-beach-secluded-cove-luxury-villa-stay"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -390,7 +391,7 @@ export default function FeaturePage() {
                   厳選おすすめ特集
                 </span>
                 <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">
-                  【絶景断崖オーシャン＆夕陽パノラマ宿】三陸・男鹿・越前・室戸岬・天草 完全ガイド ｜ 日本全国・旅宿クラウド
+                  【2026年】プライベートビーチ＆入江直結！波打ち際を独占する完全貸切オーシャンヴィラ5選 ｜ 日本全国・旅宿クラウド
                 </h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
@@ -398,7 +399,7 @@ export default function FeaturePage() {
               </span>
             </Link>
             <Link
-              href="/hakone-freepass-break-even-model-route"
+              href="/luxury-private-onsen-with-tatami-bath-deck"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -406,7 +407,7 @@ export default function FeaturePage() {
                   厳選おすすめ特集
                 </span>
                 <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">
-                  【箱根フリーパスは本当に元が取れる？】徹底検証！通常運賃との差額シミュレーション＆1泊2日黄金ルート ｜ 日本全国・旅宿クラウド
+                  【2026年】足元ふんわり温かい！全面畳敷き大浴場＆純和風モダン露天風呂の宿5選 | 日本全国・旅宿クラウド
                 </h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
@@ -414,7 +415,7 @@ export default function FeaturePage() {
               </span>
             </Link>
             <Link
-              href="/beppu-kannawa-solo-retreat-jigokumushi-onsen-stay"
+              href="/osaka-tottori-matsue-bus-vs-train-guide"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -422,7 +423,7 @@ export default function FeaturePage() {
                   厳選おすすめ特集
                 </span>
                 <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">
-                  【別府鉄輪温泉・ひとり湯治おこもり】立ち上る湯けむり・名物地獄蒸し・源泉かけ流し大露天風呂！別府八湯の真髄を味わう厳選3宿
+                  【大阪・神戸〜鳥取・松江・出雲】高速バス vs 特急スーパーはくと徹底比較！料金半額＆縁結び出雲大社・鳥取砂丘1泊2日モデルコース ｜ 日本全国・旅宿クラウド
                 </h3>
               </div>
               <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
@@ -434,28 +435,28 @@ export default function FeaturePage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/yamagata"
+                href="/prefectures/shizuoka"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
-                山形県の宿・温泉
-              </Link>
-              <Link
-                href="/prefectures/ehime"
-                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
-              >
-                愛媛県の宿・温泉
-              </Link>
-              <Link
-                href="/prefectures/nagano"
-                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
-              >
-                長野県の宿・温泉
+                静岡県の宿・温泉
               </Link>
               <Link
                 href="/prefectures/oita"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 大分県の宿・温泉
+              </Link>
+              <Link
+                href="/prefectures/chiba"
+                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
+              >
+                千葉県の宿・温泉
+              </Link>
+              <Link
+                href="/prefectures/fukuoka"
+                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
+              >
+                福岡県の宿・温泉
               </Link>
             </div>
           </div>
