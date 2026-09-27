@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-miyagi-naruko-onsen-yukimi-sendai-beef-stay',
+              title: "鳴子9泉質巡り雪見露天＆初雪の鳴子峡最高峰A5仙台牛栗だんご",
+              desc: "11月から12月にかけて鳴子峡に初雪が舞い、奥羽山脈の山懐に静寂が訪れる…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay',
+              title: "熱海海上花火冬大会＆相模湾インフィニティ露天金目鯛姿煮",
+              desc: "11月から12月にかけて澄み切った冬の夜空に大輪の花火が咲き誇る伝統の「…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-yamagata-zao-onsen-snow-jyuhyo-beef-stay',
+              title: "蔵王強酸性白濁硫黄泉＆初雪樹氷ロープウェイ山形牛芋煮",
+              desc: "11月下旬から12月にかけて奥羽山脈の主峰・蔵王連峰に雪が降り積もり、冬…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-oita-beppu-kannawa-onsen-yukemuri-bungo-beef-stay',
+              title: "別府鉄輪湯けむり夜景＆別府湾絶景露天豊後牛関アジ関サバ",
+              desc: "11月から12月にかけて冷気により街一面の湯けむりが最も美しく立ち昇る日…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-gunma-kusatsu-onsen-yubatake-joshu-beef-stay',
+              title: "草津湯畑冬イルミ＆万代鉱白旗名湯巡り極上上州牛すき焼き",
+              desc: "11月から12月にかけて日本屈指の名湯・草津温泉は湯畑から立ち上る真っ白…",
+              badge: '11・12月特集'
+            },
+            {
               slug: 'winter-gunma-minakami-onsen-tanigawa-yukimi-stay',
               title: "みなかみ谷川岳初冠雪利根川雪見露天＆宝川上州牛舞茸",
               desc: "11月下旬から12月にかけて谷川連峰が白銀の初冠雪を纏い、利根川源流の渓…",
