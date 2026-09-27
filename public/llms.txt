@@ -309,6 +309,7 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【徳島県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/8721): 宍喰温泉　ホテルリビエラししくい（徳島県）
 - [【おすすめ宿】田沢温泉　ますや旅館＜長野県小県郡＞の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/70675): 田沢温泉　ますや旅館＜長野県小県郡＞（長野県）
 - [【栃木県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/5884): 塩原温泉　常盤ホテル（栃木県）
 - [【おすすめ宿】Ｃａｆｅ　Ｈｏｔｅｌ　Ｉｓｏｌａ　Ｂｅｌｌａ（カフェホテル　イソラ　ベッラ）の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/135516): Ｃａｆｅ　Ｈｏｔｅｌ　Ｉｓｏｌａ　Ｂｅｌｌａ（カフェホテル　イソラ　ベッラ）（千葉県）
@@ -358,4 +359,3 @@
 - [【宮崎県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/10893): 塩原温泉　割烹旅館　湯の花荘（宮崎県）
 - [【おすすめ宿】薬湯風呂　ホテルグランテラス帯広（ＢＢＨホテルグループ）の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/500): 薬湯風呂　ホテルグランテラス帯広（ＢＢＨホテルグループ）（北海道）
 - [【岐阜県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/885): ホテルリソル岐阜（岐阜県）
-- [【おすすめ宿】チサンホテル郡山の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/397): チサンホテル郡山（福島県）
