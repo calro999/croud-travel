@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-gunma-minakami-onsen-tanigawa-yukimi-stay',
+              title: "みなかみ谷川岳初冠雪利根川雪見露天＆宝川上州牛舞茸",
+              desc: "11月下旬から12月にかけて谷川連峰が白銀の初冠雪を纏い、利根川源流の渓…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-nagasaki-unzen-onsen-jigoku-mist-beef-stay',
+              title: "雲仙普賢岳霧氷＆地獄の湯煙白濁硫黄泉雲仙あかね牛",
+              desc: "11月下旬から12月にかけて雲仙普賢岳や仁田峠を純白に染める自然の芸術「…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-kumamoto-amakusa-shimoda-onsen-sunset-seafood-stay',
+              title: "天草下田東シナ海夕陽百選露天＆伊勢海老車海老とらふぐ",
+              desc: "11月から12月にかけて東シナ海に沈む茜色の夕陽が最も美しく輝く熊本「天…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-nagano-suwa-onsen-lake-view-shinshu-beef-stay',
+              title: "上諏訪湖畔パノラマ露天千人風呂＆諏訪五蔵新酒信州牛",
+              desc: "11月から12月にかけて冷涼な澄み切った大気の中に冠雪の八ヶ岳と富士山が…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-iwate-tsunagi-onsen-koiwai-illumination-stay',
+              title: "盛岡つなぎ御所湖岩手山初冠雪＆小岩井銀河イルミ前沢牛",
+              desc: "11月下旬から12月にかけて東北最大級のウインターイルミネーション「小岩…",
+              badge: '11・12月特集'
+            },
+            {
               slug: 'winter-saga-takeo-onsen-romon-saga-beef-stay',
               title: "武雄国重文朱塗り楼門美肌古湯＆最高峰A5佐賀牛",
               desc: "1300年の歴史を誇り、東京駅を設計した辰野金吾が手がけた国重要文化財「…",
