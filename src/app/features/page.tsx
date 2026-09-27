@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-kagoshima-kirishima-onsen-ryoma-black-pork-stay',
+              title: "霧島連山湯煙パノラマ泥湯＆かごしま黒豚しゃぶ黒毛和牛",
+              desc: "坂本龍馬とおりょうが日本初の新婚旅行で訪れた九州屈指の名湯「霧島温泉郷」…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-hyogo-awajishima-sumoto-3year-torafugu-stay',
+              title: "淡路島洲本紀淡海峡朝日露天＆淡路島3年とらふぐ淡路牛",
+              desc: "鳴門海峡の激流が育む冬の最高峰ブランド「淡路島3年とらふぐ」。通常2年の…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-niigata-tsukioka-onsen-emerald-bihada-stay',
+              title: "月岡エメラルド硫黄泉雪見露天＆村上牛寒ブリ新酒",
+              desc: "国内第2位の硫黄含有量を誇り、神秘のエメラルドグリーンに輝く越後の名湯「…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-shimane-tamatsukuri-onsen-kamiarizuki-matsuba-crab-stay',
+              title: "玉造出雲神在月美肌湯＆山陰松葉がにしまね和牛",
+              desc: "全国の八百万の神々が集う11月の出雲「神在月」。奈良時代の風土記に「神の…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-fukui-awara-onsen-echizen-crab-stay',
+              title: "あわら庭園露天風呂＆黄色タグ越前がに若狭牛",
+              desc: "11月6日の越前がに解禁で歓喜に沸く福井の名湯「あわら温泉」。明治の開湯…",
+              badge: '11・12月特集'
+            },
+            {
               slug: 'winter-tochigi-nasu-onsen-shikanoyu-snow-stay',
               title: "那須茶臼岳雪景色鹿の湯＆最高峰那須与一牛高原会席",
               desc: "白鹿が傷を癒やした伝説から千三百年余。皇室の那須御用邸が置かれ、茶臼岳の…",
