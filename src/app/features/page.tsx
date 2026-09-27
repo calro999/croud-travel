@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-nagano-yudanaka-onsen-snow-monkey-shinshu-beef-stay',
+              title: "雪中地獄谷スノーモンキー＆登録有形文化財桃山風呂信州プレミアム牛",
+              desc: "11月下旬から12月にかけて長野県・北信濃の志賀高原山麓に広がる湯田中渋…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-wakayama-nanki-katsuura-onsen-tuna-cave-bath-stay',
+              title: "太平洋大洞窟忘帰洞＆熊野古道那智の滝勝浦港天然生マグロ熊野牛",
+              desc: "11月から12月にかけて和歌山県・紀伊半島の南端に位置する勝浦温泉は、澄…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-fukui-mikuni-onsen-echizen-crab-tojinbo-stay',
+              title: "解禁黄色タグ越前がに＆東尋坊荒波日本海夕日露天若狭牛会席",
+              desc: "11月6日のズワイガニ漁解禁とともに、福井県・三国港は全国の美食家が押し…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-tochigi-okunikko-chuzenji-lake-onsen-snow-stay',
+              title: "男体山初雪＆中禅寺湖水鏡日光湯元引湯乳白色硫黄泉とちぎ和牛生湯波",
+              desc: "11月から12月にかけて栃木県・奥日光は、標高2,486mの霊峰・男体山…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-kanagawa-hakone-sengokuhara-onsen-susuki-nigori-stay',
+              title: "初冬ススキ銀白＆大涌谷白濁にごり湯富士見露天足柄牛ステーキ",
+              desc: "11月下旬から12月にかけて箱根・仙石原高原は、黄金色に波打つ一面のスス…",
+              badge: '11・12月特集'
+            },
+            {
               slug: 'winter-kagawa-kotohira-onsen-konpira-olive-beef-stay',
               title: "こんぴら参り初冬石段＆讃岐富士展望露天讃岐オリーブ牛手打ちうどん",
               desc: "11月から12月にかけて香川県・琴平町は、空気が澄み渡り讃岐富士（飯野山…",
