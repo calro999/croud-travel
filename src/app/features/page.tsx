@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-yamanashi-isawa-onsen-wine-koshu-beef-stay',
+              title: "石和美肌湯＆山梨ヌーボー甲州牛",
+              desc: "11月3日の山梨ヌーボー解禁とともに華やぐ甲州・石和温泉。雪化粧の富士山…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-fukushima-aizu-higashiyama-snow-heritage-stay',
+              title: "会津東山雪見露天＆極上馬刺し",
+              desc: "11月下旬の初雪から12月の白銀世界へと移ろう会津の奥座敷・東山温泉。開…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-ehime-dogo-onsen-taimeshi-heritage-stay',
+              title: "道後温泉本館＆瀬戸内鯛めし",
+              desc: "保存修理工事を終えて完全復活した日本最古の名湯・道後温泉本館。11月・1…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-shizuoka-shuzenji-late-momiji-bamboo-stay',
+              title: "修善寺竹林紅葉＆伊豆牛",
+              desc: "日本で最も遅い11月下旬〜12月上旬の紅葉美を誇る修善寺温泉。桂川沿いの…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-gunma-ikaho-stone-steps-joshu-beef-stay',
+              title: "伊香保石段街＆上州牛会席",
+              desc: "11月から12月にかけて澄み切った初冬の空気に包まれる伊香保温泉。365…",
+              badge: '11・12月特集'
+            },
+            {
               slug: 'winter-akita-nyuto-onsen-yukimi-kiritanpo-stay',
               title: "乳頭温泉郷雪見露天＆きりたんぽ",
               desc: "11月中旬からブナの原生林が純白の雪に包まれる乳頭温泉郷。乳白色の湯けむ…",
