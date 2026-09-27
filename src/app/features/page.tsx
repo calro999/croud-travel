@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-saga-takeo-onsen-romon-saga-beef-stay',
+              title: "武雄国重文朱塗り楼門美肌古湯＆最高峰A5佐賀牛",
+              desc: "1300年の歴史を誇り、東京駅を設計した辰野金吾が手がけた国重要文化財「…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-fukushima-bandai-atami-onsen-bihada-swan-stay',
+              title: "磐梯熱海萩姫美肌ぬる湯＆猪苗代湖白鳥極上福島牛",
+              desc: "南北朝時代の萩姫伝説が息づく郡山の奥座敷「磐梯熱海温泉」。pH9を超える…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-ishikawa-yamanaka-onsen-kakusenkei-kano-crab-stay',
+              title: "山中鶴仙渓雪景色＆青タグ加能ガニ香箱ガニ能登牛",
+              desc: "松尾芭蕉が「有馬・草津と並ぶ扶桑三名湯」と称賛した石川・加賀の名湯「山中…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-yamagata-tendo-onsen-lafrance-yamagata-beef-stay',
+              title: "天童将棋の里奥羽山脈雪見露天＆旬ラフランス山形牛",
+              desc: "将棋駒の生産量日本一を誇る山形の名湯「天童温泉」。11月から12月にかけ…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-hokkaido-hakodate-yunokawa-onsen-isaribi-seafood-stay',
+              title: "函館湯の川津軽海峡漁火露天＆冬イカ毛蟹大沼牛",
+              desc: "11月から12月にかけて津軽海峡にイカ釣り漁船の幻想的な漁火（いさりび）…",
+              badge: '11・12月特集'
+            },
+            {
               slug: 'winter-kagoshima-kirishima-onsen-ryoma-black-pork-stay',
               title: "霧島連山湯煙パノラマ泥湯＆かごしま黒豚しゃぶ黒毛和牛",
               desc: "坂本龍馬とおりょうが日本初の新婚旅行で訪れた九州屈指の名湯「霧島温泉郷」…",
