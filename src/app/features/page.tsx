@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-akita-oga-onsen-ishiyaki-namahage-snow-stay',
+              title: "初冬名物ハタハタ＆千度男鹿石の豪快石焼き鍋・なまはげ伝承・海水の温まり湯",
+              desc: "11月から12月にかけて日本海に突き出た秋田県・男鹿半島は、初冬の雷鳴と…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-yamaguchi-hagi-onsen-fugu-choshu-beef-stay',
+              title: "世界遺産萩城下町＆11月解禁本場天然とらふぐ・萩甘鯛・菊ヶ浜夕景露天",
+              desc: "11月から12月にかけて世界遺産の城下町・山口県萩市は、白壁の武家屋敷通…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-kumamoto-hirayama-onsen-sulfur-bihada-stay',
+              title: "pH9.7奇跡の美容液トロトロ硫黄泉＆初冬竹林隠れ宿・加藤清正霊泉・肥後あか牛",
+              desc: "11月から12月にかけて熊本県北部・山鹿市の山あいに隠れる「平山温泉」は…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-hyogo-ako-onsen-sakoshi-oyster-infinity-stay',
+              title: "播磨灘夕景＆11月解禁坂越牡蠣フルコース・12月14日赤穂義士祭・インフィニティ露天",
+              desc: "11月下旬を迎えると、瀬戸内海・播磨灘に面した兵庫県「播州赤穂温泉」は、…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-yamagata-kaminoyama-onsen-hoshigaki-yamagata-beef-stay',
+              title: "蔵王初冠雪＆伝統紅柿つるし柿暖簾・開湯560年鶴の湯美肌泉・山形牛すき焼き",
+              desc: "11月から12月にかけて山形県上山市の奥座敷「かみのやま温泉」は、初冠雪…",
+              badge: '11・12月特集'
+            },
+            {
               slug: 'winter-tokushima-iya-valley-onsen-hikyo-awa-beef-stay',
               title: "日本三大秘境初雪渓谷＆ケーブルカー谷底露天・特選阿波牛・手打ち祖谷そば",
               desc: "11月から12月にかけて四国の霊峰・剣山山系の深山幽谷に抱かれた「徳島・…",

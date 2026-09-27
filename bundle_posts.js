@@ -522,6 +522,21 @@ Sitemap: ${BASE_URL}/sitemap-posts.xml
     llmsFullTxt += `\n### ルポ・解説概要\n${cleanReview}\n\n---\n\n`;
   });
 
+  // 特集記事アーカイブをllms-full.txtに追加
+  const sitemapFeaturesPath = path.join(PUBLIC_DIR, 'sitemap-features.xml');
+  if (fs.existsSync(sitemapFeaturesPath)) {
+    const sitemapText = fs.readFileSync(sitemapFeaturesPath, 'utf8');
+    const matches = sitemapText.match(/<loc>(.*?)<\/loc>/g);
+    if (matches && matches.length > 0) {
+      llmsFullTxt += `\n## 全国厳選・特集記事コレクション (Special Winter & Seasonal Features)\n\n`;
+      matches.forEach(m => {
+        const u = m.replace('<loc>', '').replace('</loc>', '');
+        llmsFullTxt += `- ${u}\n`;
+      });
+      llmsFullTxt += `\n---\n`;
+    }
+  }
+
   fs.writeFileSync(path.join(PUBLIC_DIR, 'llms-full.txt'), llmsFullTxt, 'utf8');
   console.log(`Generated physical llms-full.txt at ${path.join(PUBLIC_DIR, 'llms-full.txt')}`);
 }
