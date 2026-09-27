@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-tochigi-nasu-onsen-shikanoyu-snow-stay',
+              title: "那須茶臼岳雪景色鹿の湯＆最高峰那須与一牛高原会席",
+              desc: "白鹿が傷を癒やした伝説から千三百年余。皇室の那須御用邸が置かれ、茶臼岳の…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-yamaguchi-nagato-yumoto-onsen-fugu-stay',
+              title: "長門湯本音信川冬灯り＆下関直送本とらふぐやまぐち和牛",
+              desc: "室町時代に住吉大明神の神託により開かれた山口県最古の名湯「長門湯本温泉」…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-nagano-shirahone-onsen-milky-snow-stay',
+              title: "白骨北アルプス乳白色霊泉＆信州プレミアム牛投汁そば",
+              desc: "北アルプス乗鞍岳の山懐、標高1,400メートルの深い原生林に抱かれた日本…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-hokkaido-jozankei-onsen-snow-keikoku-stay',
+              title: "定山渓豊平川雪渓谷＆北海道三大蟹道産和牛",
+              desc: "修験僧・美泉定山がアイヌの人々に導かれ拓いた札幌の奥座敷「定山渓温泉」。…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-toyama-unazuki-onsen-kurobe-snow-stay',
+              title: "宇奈月黒部峡谷雪景色＆富山湾寒ブリ紅ズワイガニ",
+              desc: "北アルプス黒部川の清流が刻んだ断崖絶壁に広がる宇奈月温泉。11月中旬の晩…",
+              badge: '11・12月特集'
+            },
+            {
               slug: 'winter-saga-ureshino-onsen-bihada-yudofu-stay',
               title: "嬉野日本三大美肌湯＆とろける温泉湯豆腐佐賀牛",
               desc: "神功皇后の伝説が息づく「日本三大美肌の湯」嬉野温泉。冬の寒さを優しく包む…",
