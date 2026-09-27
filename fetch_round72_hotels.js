@@ -4,82 +4,114 @@ const path = require('path');
 
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
-const furusatoConfigs = [
+const targets = [
   {
-    slug: 'furusato-tax-sand-bath-sunamushi-detox-onsen-stay',
+    theme: 'chiba_minamiboso',
+    label: '千葉・南房総温泉郷（冬の温暖避寒リゾート・11・12月伊勢海老＆地魚姿造り・太平洋パノラマ露天風呂）',
     queries: [
-      { key: 'ibusuki_sunamushi', query: '指宿 白水館', label: '指宿市ふるさと納税・元禄風呂と名物砂むし温泉を館内で完結できる至高の温泉旅館' },
-      { key: 'beppu_sunamushi', query: '別府温泉 潮騒の宿 晴海', label: '別府市ふるさと納税・上人ヶ浜天然砂湯至近！全室海側露天風呂付きモダン湯宿' },
-      { key: 'yamakawa_sunamushi', query: '指宿フェニックスホテル', label: '指宿市ふるさと納税・錦江湾一望の高台で楽しむ館内砂蒸し温泉と絶景リゾート' }
+      '鴨川館',
+      '満ちてくる心の宿　吉夢',
+      '網元の宿　ろくや',
+      '館山温泉　休暇村　館山',
+      '南房総白浜温泉　白浜オーシャンリゾート'
     ]
   },
   {
-    slug: 'furusato-tax-brand-maguro-tuna-feast-luxury-inn-stay',
+    theme: 'shiga_ogoto',
+    label: '滋賀・おごと温泉（初冬の琵琶湖・比叡山初雪・開湯1200年美肌霊泉・特選近江牛＆冬限定真鴨鍋会席）',
     queries: [
-      { key: 'oma_maguro', query: '下風呂温泉 海峡の宿 巧', label: '大間近隣・風間浦村ふるさと納税・津軽海峡本マグロと白濁硫黄泉の極上料理宿' },
-      { key: 'katsuura_maguro', query: '南紀勝浦温泉 碧き島の宿 熊野別邸 中の島', label: '那智勝浦町ふるさと納税・専用船で渡る孤島の秘境温泉！生マグロ解体と絶景海中露天' },
-      { key: 'misaki_maguro', query: 'マホロバ・マインズ三浦', label: '三浦市ふるさと納税・三崎まぐろ食べ放題と東京湾オーシャンビュー温泉リゾート' }
+      'おごと温泉　びわこ緑水亭',
+      'おごと温泉　びわ湖花街道',
+      'おごと温泉　暖灯館　きくのや',
+      '里湯昔話　雄山荘',
+      'おごと温泉　湯の宿木もれび'
     ]
   },
   {
-    slug: 'furusato-tax-setouchi-island-luxury-ocean-resort-stay',
+    theme: 'shizuoka_yaizu',
+    label: '静岡・焼津温泉（初冬の澄み渡る駿河湾越し富士山絶景・焼津港直送極上天然南マグロ＆深層水高張性美肌泉）',
     queries: [
-      { key: 'shodoshima_resort', query: '小豆島国際ホテル', label: '土庄町ふるさと納税・恋人の聖地エンジェルロードが目の前！全室オーシャンビュー温泉' },
-      { key: 'sensuijima_resort', query: '鞆の浦温泉 汀邸 遠音近音', label: '福山市ふるさと納税・仙酔島を望む全室温泉露天風呂付き大人の隠れ家宿' },
-      { key: 'setoda_resort', query: 'Azumi Setoda', label: '尾道市ふるさと納税・生口島しおまち商店街に佇むアマン創業者プロデュースの極上宿' }
+      '焼津温泉　焼津グランドホテル',
+      '焼津温泉　ホテルアンビア松風閣',
+      '月と鮪　石上',
+      '亀の井ホテル　焼津',
+      '焼津温泉やいづマリンパレス'
     ]
   },
   {
-    slug: 'furusato-tax-strawberry-buffet-sweets-resort-hotel-stay',
+    theme: 'shimane_izumo',
+    label: '島根・出雲大社周辺温泉（11月神在月・神在祭の開運参拝・出雲そば・日本海冬カニ＆しまね和牛会席）',
     queries: [
-      { key: 'tochigi_strawberry', query: 'ホテルエピナール那須', label: '那須町ふるさと納税・とちおとめ＆スカイベリー食べ比べ！豪華いちごスイーツバイキング' },
-      { key: 'kobe_strawberry', query: '神戸ベイシェラトン ホテル＆タワーズ', label: '神戸市ふるさと納税・天然温泉スパ＆季節のいちごスイーツビュッフェを堪能' },
-      { key: 'chiba_strawberry', query: 'ホテルニューオータニ幕張', label: '千葉市ふるさと納税・スーパーあまおうショートケーキで名高いいちごビュッフェ' }
+      'いにしえの宿　佳雲',
+      'お宿　月夜のうさぎ',
+      '竹野屋旅館',
+      'はたご小田温泉',
+      'マリンタラソ出雲'
+    ]
+  },
+  {
+    theme: 'tokushima_naruto',
+    label: '徳島・鳴門温泉（冬の激流が育む絶品鳴門鯛＆鳴門わかめ・阿波牛会席・鳴門海峡の冬渦潮と大塚国際美術館アート鑑賞）',
+    queries: [
+      'アオアヲナルトリゾート',
+      'リゾートホテル　モアナコースト',
+      '鳴門グランドホテル海月',
+      'ベイリゾートホテル　鳴門海月',
+      '鳴門海月別亭　シーサイドホテル鯛丸海月'
     ]
   }
 ];
 
 async function main() {
-  const allSeasonalPath = path.join(__dirname, 'src/data/all_seasonal_rakuten_hotels.json');
-  let allSeasonal = {};
-  if (fs.existsSync(allSeasonalPath)) {
-    try {
-      allSeasonal = JSON.parse(fs.readFileSync(allSeasonalPath, 'utf8'));
-    } catch (e) {
-      console.error('Failed to parse all_seasonal_rakuten_hotels.json', e);
-    }
-  }
+  console.log('================================================================');
+  console.log('Fetching Rakuten Hotels for Round 72 (5 Themes, 5 Hotels Each)');
+  console.log('================================================================');
 
-  for (const page of furusatoConfigs) {
-    console.log(`\n================ Processing page: ${page.slug} ================`);
-    if (!allSeasonal[page.slug]) {
-      allSeasonal[page.slug] = {};
-    }
+  const result = {};
 
-    for (const q of page.queries) {
-      console.log(`Fetching query: "${q.query}" (${q.label}) ...`);
+  for (const t of targets) {
+    console.log(`\n--- Fetching Theme: ${t.label} (${t.theme}) ---`);
+    const themeHotels = [];
+    const usedHotelNos = new Set();
+
+    for (const q of t.queries) {
+      console.log(`Query: "${q}"...`);
       try {
-        const results = await searchRakutenHotels(q.query, 1);
-        if (results && results.length > 0) {
-          const hotel = results[0];
-          console.log(` -> Found: [${hotel.hotelNo}] ${hotel.hotelName} (Rating: ${hotel.reviewAverage}, Reviews: ${hotel.reviewCount})`);
-          allSeasonal[page.slug][q.key] = {
-            ...hotel,
-            searchQuery: q.query,
-            curatorLabel: q.label
-          };
+        const hotels = await searchRakutenHotels(q, 1);
+        await sleep(1500); // 楽天APIレートリミット対策
+        if (hotels && hotels.length > 0) {
+          const h = hotels[0];
+          if (!usedHotelNos.has(h.hotelNo)) {
+            usedHotelNos.add(h.hotelNo);
+            themeHotels.push(h);
+            console.log(`  -> Success: ${h.hotelName} (No: ${h.hotelNo}, Rating: ${h.reviewAverage}, Price: ¥${h.hotelMinCharge})`);
+          } else {
+            console.warn(`  -> Duplicate hotelNo: ${h.hotelNo}, skipping`);
+          }
         } else {
-          console.warn(` -> No hotels found for query: "${q.query}"`);
+          console.warn(`  -> No match for "${q}"`);
         }
       } catch (err) {
-        console.error(` -> Error searching for "${q.query}":`, err.message);
+        console.error(`  -> Error fetching "${q}":`, err.message);
       }
-      await sleep(1200);
     }
+
+    result[t.theme] = themeHotels;
+    console.log(`=> Collected ${result[t.theme].length} hotels for ${t.theme}`);
   }
 
-  fs.writeFileSync(allSeasonalPath, JSON.stringify(allSeasonal, null, 2), 'utf8');
-  console.log('\nSuccessfully saved Round 72 hotel data to src/data/all_seasonal_rakuten_hotels.json');
+  const outputPath = path.join(__dirname, 'round72_raw_hotels.json');
+  fs.writeFileSync(outputPath, JSON.stringify(result, null, 2), 'utf8');
+  console.log(`\n================================================================`);
+  console.log(`Successfully saved raw hotels data to ${outputPath}`);
+  console.log('Hotel counts per theme:');
+  for (const k of Object.keys(result)) {
+    console.log(`  ${k}: ${result[k].length} hotels`);
+  }
+  console.log(`================================================================`);
 }
 
-main().catch(console.error);
+main().catch(err => {
+  console.error('Fatal error in fetch script:', err);
+  process.exit(1);
+});

@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-tokushima-naruto-onsen-uzushio-naruto-tai-stay',
+              title: "鳴門海峡大迫力冬渦潮＆激流育ち天然鳴門鯛・大塚国際美術館アート旅",
+              desc: "11月から12月にかけて、四国の東の玄関口・徳島県鳴門市は、鳴門海峡を吹…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-shimane-izumo-taisha-kamiarizuki-shimane-wagyu-stay',
+              title: "神在月・神在祭開運参拝＆11月解禁松葉ガニ・ノドグロ・しまね和牛会席",
+              desc: "旧暦10月（新暦11月）を迎えると、全国の八百万（やおよろず）の神々が出…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-shizuoka-yaizu-onsen-fuji-view-minami-maguro-stay',
+              title: "駿河湾越し冠雪富士山絶景＆焼津港天然南マグロ・1900万年前の高張性強塩泉",
+              desc: "11月から12月にかけて駿河湾に面した水産都市・静岡県焼津市は、一年の中…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-shiga-ogoto-onsen-biwako-omigyu-stay',
+              title: "比叡山初雪＆pH9.0美肌霊泉・日本三大和牛近江牛＆初冬限定真鴨鍋",
+              desc: "11月から12月にかけて、京都駅からJR湖西線でわずか20分という好立地…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-chiba-minamiboso-onsen-ise-ebi-oceanview-stay',
+              title: "温暖避寒気候＆11・12月房州伊勢海老最盛期・太平洋日の出パノラマ露天",
+              desc: "11月から12月にかけて、東京湾アクアラインで都心からわずか90分で訪れ…",
+              badge: '11・12月特集'
+            },
+            {
               slug: 'winter-akita-oga-onsen-ishiyaki-namahage-snow-stay',
               title: "初冬名物ハタハタ＆千度男鹿石の豪快石焼き鍋・なまはげ伝承・海水の温まり湯",
               desc: "11月から12月にかけて日本海に突き出た秋田県・男鹿半島は、初冬の雷鳴と…",
