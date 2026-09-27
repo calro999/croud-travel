@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-saga-ureshino-onsen-bihada-yudofu-stay',
+              title: "嬉野日本三大美肌湯＆とろける温泉湯豆腐佐賀牛",
+              desc: "神功皇后の伝説が息づく「日本三大美肌の湯」嬉野温泉。冬の寒さを優しく包む…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-tottori-kaike-onsen-matsuba-crab-stay',
+              title: "皆生松葉ガニ解禁＆大山雪景色鳥取和牛",
+              desc: "11月6日、日本海屈指のカニ水揚げを誇る境港で冬の松葉ガニ漁が一斉解禁。…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-wakayama-nanki-shirahama-kue-hotspring-stay',
+              title: "白浜太平洋夕陽＆幻の天然本クエ鍋熊野牛",
+              desc: "万葉集の昔から歴代天皇が湯治に訪れた日本三古湯・南紀白浜温泉。11月から…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-miyagi-akiu-onsen-sendai-beef-serinabe-stay',
+              title: "秋保磊々峡初冬景観＆仙台せり鍋仙台牛",
+              desc: "皇室ゆかりの「日本三御湯」にして伊達政宗公の湯浴み御殿の歴史を誇る秋保温…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-tochigi-kinugawa-onsen-valley-snow-stay',
+              title: "鬼怒川初冬渓谷美＆日光ゆばとちぎ和牛",
+              desc: "日光東照宮領の御用温泉として大名や高僧のみに入湯が許された鬼怒川温泉。1…",
+              badge: '11・12月特集'
+            },
+            {
               slug: 'winter-kyoto-amanohashidate-matsuba-crab-stay',
               title: "天橋立カニ解禁＆間人ガニ寒ブリ",
               desc: "日本三景の筆頭・京都府丹後天橋立。11月6日のズワイガニ漁解禁とともに美…",
