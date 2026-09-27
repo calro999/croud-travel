@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-ishikawa-kaga-yamashiro-kano-crab-stay',
+              title: "加賀温泉加能ガニ解禁＆九谷焼会席",
+              desc: "11月6日のズワイガニ漁解禁で美食の最盛期を迎える石川・加賀温泉郷。開湯…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-hyogo-arima-onsen-kinsen-kobe-beef-stay',
+              title: "有馬金泉銀泉＆六甲山夜景神戸牛",
+              desc: "日本三古湯・三名泉の筆頭・有馬温泉。海水の約2倍の塩分を含み冬でも湯冷め…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-niigata-echigo-yuzawa-snow-sake-stay',
+              title: "越後湯沢雪国＆南魚沼新米地酒",
+              desc: "東京から新幹線で最速約70分、川端康成『雪国』の舞台・新潟越後湯沢温泉。…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-hokkaido-noboribetsu-onsen-snow-jigokudani-stay',
+              title: "登別地獄谷雪景色＆冬毛ガニ白老牛",
+              desc: "11月下旬の初雪から12月の白銀世界へと移ろう北海道・登別温泉。もうもう…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-kumamoto-kurokawa-onsen-yuakari-stay',
+              title: "黒川湯あかり竹灯籠＆阿蘇あか牛",
+              desc: "11月から12月にかけて阿蘇外輪山の冷涼な風が吹き抜ける熊本・黒川温泉。…",
+              badge: '11・12月特集'
+            },
+            {
               slug: 'winter-yamanashi-isawa-onsen-wine-koshu-beef-stay',
               title: "石和美肌湯＆山梨ヌーボー甲州牛",
               desc: "11月3日の山梨ヌーボー解禁とともに華やぐ甲州・石和温泉。雪化粧の富士山…",
