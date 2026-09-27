@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-shizuoka-izukogen-granillumi-ito-onsen-stay',
+              title: "伊豆高原グランイルミ＆金目鯛",
+              desc: "11月中旬から本格シーズン！全国第1位の体験型ナイトエンターテインメント…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-hyogo-kinosaki-onsen-matsuba-crab-stay',
+              title: "城崎青タグ津居山ガニ＆7外湯",
+              desc: "11月6日解禁！地元・津居山港直送の青タグ付き活松葉ガニフルコース（カニ…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-yamagata-onogawa-yonezawa-beef-stay',
+              title: "米沢牛すき焼き＆小野川美肌湯",
+              desc: "11月下旬から里山が白銀に包まれる米沢の奥座敷「小野川温泉」。小野小町ゆ…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-tochigi-okunikko-yumoto-snow-onsen-stay',
+              title: "奥日光雪見にごり湯＆湯波",
+              desc: "11月中旬から雪化粧が始まり12月には純白の世界が広がる標高1500mの…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-kyoto-arashiyama-onsen-yudofu-stay',
+              title: "嵐山雪景色＆名物湯豆腐",
+              desc: "晩秋の紅葉から冬の静寂へと表情を変える京都・嵐山と嵯峨野。渡月橋にかかる…",
+              badge: '11・12月特集'
+            },
+            {
               slug: 'winter-fukuoka-hakata-christmas-advent-gourmet-stay',
               title: '🎄 福岡クリスマス＆博多もつ鍋温泉',
               desc: '博多駅前・天神の光の街と本場もつ鍋・天然温泉ホテル',
