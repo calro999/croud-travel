@@ -4,77 +4,114 @@ const path = require('path');
 
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
-const furusatoConfigs = [
+const targets = [
   {
-    slug: 'furusato-tax-private-room-sauna-totonoi-villa-stay',
+    theme: 'shogawa',
+    label: '富山・庄川温泉郷（雪見庄川峡遊覧船・富山湾紅ズワイガニ・寒ブリ・白えび・富山牛）',
     queries: [
-      { key: 'atami_room_sauna', query: 'ＩＳＨＩＮＯＹＡ熱海 石のや熱海', label: '熱海市ふるさと納税・相模湾を望む客室専用本格サウナ＆源泉露天風呂' },
-      { key: 'kawaguchiko_sauna_villa', query: '天空の温泉ヴィラ紬 河口湖', label: '富士河口湖町ふるさと納税・富士山を望むプライベートサウナ＆露天風呂ヴィラ' },
-      { key: 'koshikano_sauna_onsen', query: 'こしかの温泉 鹿児島 霧島', label: '霧島市ふるさと納税・美肌源泉かけ流しと客室バレルサウナで極上のととのい' }
+      '人肌の宿　川金',
+      '富山 庄川 三楽園',
+      '富山 鮎や', // 庄川温泉風流味道座敷 ゆめつづり
+      '庄川 鮎', // 庄川温泉郷 となみ野庄川荘一萬亭
+      '五箇山温泉　赤尾館'
     ]
   },
   {
-    slug: 'furusato-tax-kanreki-celebration-oyakoukou-onsen-stay',
+    theme: 'akakura',
+    label: '新潟・妙高赤倉温泉（妙高山初雪絶景・開湯200年ダブル美肌湯・冬のどぐろ・にいがた和牛）',
     queries: [
-      { key: 'arima_oyakoukou_onsen', query: '有馬温泉 御幸荘 花結び', label: '神戸市ふるさと納税・親孝行＆長寿祝いに最適な金泉銀泉と贅を尽くした花懐石' },
-      { key: 'kanazawa_oyakoukou_onsen', query: '金沢湯涌温泉 湯の出旅館', label: '金沢市ふるさと納税・加賀百万石の伝統美と数寄屋造りの静寂に浸る名門旅館' },
-      { key: 'awaji_oyakoukou_onsen', query: '洲本温泉 淡路インターナショナルホテル ザ・サンプラザ', label: '洲本市ふるさと納税・全室オーシャンビューと全世代に優しい絶景スパリゾート' }
+      '赤倉観光ホテル',
+      '赤倉温泉　ホテル太閤',
+      '赤倉温泉　赤倉ホテル',
+      '赤倉温泉 お宿 ふるや',
+      '赤倉温泉　香風館'
     ]
   },
   {
-    slug: 'furusato-tax-private-pool-luxury-suite-villa-stay',
+    theme: 'asama',
+    label: '長野・松本浅間温泉（国宝松本城初雪・開湯1300年名湯・新そば・信州プレミアム牛すき焼き）',
     queries: [
-      { key: 'motobu_pool_villa', query: 'プライベートプールヴィラもとぶ 沖縄', label: '本部町ふるさと納税・やんばるの森と海を望む専用プール付き完全独立型ヴィラ' },
-      { key: 'kamogawa_pool_villa', query: 'Ｒａｋｕｔｅｎ ＳＴＡＹ ＶＩＬＬＡ 鴨川 千葉', label: '鴨川市ふるさと納税・都心から行けるプライベートプール＆サウナ付き大型ヴィラ' },
-      { key: 'miyakojima_pool_villa', query: 'プライベートプールヴィラ イムギャーリゾート 宮古島', label: '宮古島市ふるさと納税・宮古ブルーの海が目前に広がる専用プール付きスイート' }
+      '浅間温泉　菊之湯',
+      '信州・松本　浅間温泉　ホテル玉之湯',
+      '浅間温泉　別亭一花',
+      '浅間温泉 梅の湯',
+      '浅間温泉　帰郷亭ゆもとや'
     ]
   },
   {
-    slug: 'furusato-tax-fresh-sushi-kaiseki-gourmet-inn-stay',
+    theme: 'shodoshima',
+    label: '香川・小豆島温泉（初冬寒霞渓奇岩絶景・オリーブ収穫・エンジェルロード夕日・小豆島オリーブ牛・讃岐でんぶく）',
     queries: [
-      { key: 'noto_sushi_ryokan', query: '山中温泉 かがり吉祥亭 石川', label: '加賀市ふるさと納税・日本海の鮮魚握りと名勝鶴仙渓の絶景露天風呂' },
-      { key: 'atagawa_sushi_ryokan', query: 'ふたりの湯宿 湯花満開 伊豆', label: '東伊豆町ふるさと納税・相模湾の地魚寿司会席と6つの源泉貸切温泉' },
-      { key: 'ito_sushi_ryokan', query: '伊東温泉 横浜藤よし伊豆店 静岡', label: '伊東市ふるさと納税・漁港直送の極上握りと相模灘を望む絶景かけ流し湯' }
+      '小豆島国際ホテル',
+      'ベイリゾートホテル小豆島',
+      '島宿真里',
+      '海音真里',
+      '小豆島 国民宿舎'
+    ]
+  },
+  {
+    theme: 'minamichita',
+    label: '愛知・南知多温泉郷（伊勢湾パノラマ夕日露天・本場南知多とらふぐフルコース・知多牛・日間賀島たこ）',
+    queries: [
+      '源氏香',
+      '南知多温泉郷　水軍伝説の風薫る宿　花乃丸',
+      '南知多山海温泉　粛　海風',
+      '南知多 魚友', // THE BEACH KUROTAKE（旧魚友）
+      '南知多 山海館' // 潮騒の湯宿 山海館
     ]
   }
 ];
 
 async function main() {
-  const allSeasonalPath = path.join(__dirname, 'src/data/all_seasonal_rakuten_hotels.json');
-  let allSeasonal = {};
-  if (fs.existsSync(allSeasonalPath)) {
-    try {
-      allSeasonal = JSON.parse(fs.readFileSync(allSeasonalPath, 'utf8'));
-    } catch (e) {
-      console.error('Failed to parse all_seasonal_rakuten_hotels.json', e);
-    }
-  }
+  console.log('================================================================');
+  console.log('Fetching Rakuten Hotels for Round 68 (5 Themes, 5 Hotels Each)');
+  console.log('================================================================');
 
-  for (const page of furusatoConfigs) {
-    console.log(`\n================ Processing page: ${page.slug} ================`);
-    if (!allSeasonal[page.slug]) {
-      allSeasonal[page.slug] = {};
-    }
+  const result = {};
 
-    for (const q of page.queries) {
-      console.log(`Fetching query: "${q.query}" (${q.label}) ...`);
+  for (const t of targets) {
+    console.log(`\n--- Fetching Theme: ${t.label} (${t.theme}) ---`);
+    const themeHotels = [];
+    const usedHotelNos = new Set();
+
+    for (const q of t.queries) {
+      console.log(`Query: "${q}"...`);
       try {
-        await sleep(1500);
-        const hotels = await searchRakutenHotels(q.query, 3);
+        const hotels = await searchRakutenHotels(q, 1);
+        await sleep(1500); // 楽天APIレートリミット対策
         if (hotels && hotels.length > 0) {
-          allSeasonal[page.slug][q.key] = hotels[0];
-          console.log(`  -> Selected: ${hotels[0].hotelName} (${hotels[0].hotelNo})`);
+          const h = hotels[0];
+          if (!usedHotelNos.has(h.hotelNo)) {
+            usedHotelNos.add(h.hotelNo);
+            themeHotels.push(h);
+            console.log(`  -> Success: ${h.hotelName} (No: ${h.hotelNo}, Rating: ${h.reviewAverage}, Price: ¥${h.hotelMinCharge})`);
+          } else {
+            console.warn(`  -> Duplicate hotelNo: ${h.hotelNo}, skipping`);
+          }
         } else {
-          console.warn(`  -> No hotel found for query: ${q.query}`);
+          console.warn(`  -> No match for "${q}"`);
         }
       } catch (err) {
-        console.error(`  -> Error fetching query "${q.query}":`, err.message);
+        console.error(`  -> Error fetching "${q}":`, err.message);
       }
     }
+
+    result[t.theme] = themeHotels;
+    console.log(`=> Collected ${result[t.theme].length} hotels for ${t.theme}`);
   }
 
-  fs.writeFileSync(allSeasonalPath, JSON.stringify(allSeasonal, null, 2), 'utf8');
-  console.log('\nSuccessfully saved Round 68 hotel data to all_seasonal_rakuten_hotels.json!');
+  const outputPath = path.join(__dirname, 'round68_raw_hotels.json');
+  fs.writeFileSync(outputPath, JSON.stringify(result, null, 2), 'utf8');
+  console.log(`\n================================================================`);
+  console.log(`Successfully saved raw hotels data to ${outputPath}`);
+  console.log('Hotel counts per theme:');
+  for (const k of Object.keys(result)) {
+    console.log(`  ${k}: ${result[k].length} hotels`);
+  }
+  console.log(`================================================================`);
 }
 
-main();
+main().catch(err => {
+  console.error('Fatal error in fetch script:', err);
+  process.exit(1);
+});

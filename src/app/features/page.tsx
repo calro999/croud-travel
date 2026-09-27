@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-aichi-minamichita-onsen-torafugu-chita-beef-stay',
+              title: "伊勢湾夕日絶景露天＆本場日間賀島天然とらふぐ知多牛ステーキ",
+              desc: "11月から12月にかけて愛知県・知多半島の最南端に位置する南知多温泉郷（…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-kagawa-shodoshima-onsen-kankakei-olive-beef-stay',
+              title: "寒霞渓奇岩絶景＆エンジェルロード夕日小豆島オリーブ牛讃岐でんぶく",
+              desc: "11月下旬から12月にかけて瀬戸内海の小豆島は、温暖で穏やかな気候の中、…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-nagano-asama-onsen-matsumoto-castle-snow-stay',
+              title: "国宝松本城初雪＆開湯1300年藩主御殿湯挽きたて信州新そば信州牛",
+              desc: "11月から12月にかけて長野県・松本平は、雪化粧した北アルプスの山並みが…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-niigata-myoko-akakura-onsen-snow-nodoguro-stay',
+              title: "妙高山初雪絶景＆開湯200年ダブル美肌湯日本海のどぐろ新潟和牛",
+              desc: "11月から12月にかけて新潟県・妙高山麓は、標高2,454mの日本百名山…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-toyama-shogawa-onsen-snow-cruise-crab-stay',
+              title: "雪見庄川峡遊覧船＆富山湾紅ズワイガニ氷見寒ブリ白えび富山牛",
+              desc: "11月下旬から12月にかけて富山県・庄川峡は、両岸の断崖絶壁が白銀の雪化…",
+              badge: '11・12月特集'
+            },
+            {
               slug: 'winter-nagano-yudanaka-onsen-snow-monkey-shinshu-beef-stay',
               title: "雪中地獄谷スノーモンキー＆登録有形文化財桃山風呂信州プレミアム牛",
               desc: "11月下旬から12月にかけて長野県・北信濃の志賀高原山麓に広がる湯田中渋…",
