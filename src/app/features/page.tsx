@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-akita-nyuto-onsen-yukimi-kiritanpo-stay',
+              title: "乳頭温泉郷雪見露天＆きりたんぽ",
+              desc: "11月中旬からブナの原生林が純白の雪に包まれる乳頭温泉郷。乳白色の湯けむ…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-kanagawa-hakone-fuji-view-onsen-stay',
+              title: "芦ノ湖富士山絶景＆箱根名湯",
+              desc: "年間で最も晴天率が高い初冬の芦ノ湖。紺碧の湖面に映る雪化粧の白銀富士と平…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-nagano-achimura-hirugami-starry-sky-stay',
+              title: "阿智村日本一の星空＆昼神美肌湯",
+              desc: "環境省認定「日本一星が輝いて見える場所」阿智村。空気が最も澄み切る初冬の…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-gifu-gero-onsen-fireworks-hida-beef-stay',
+              title: "下呂冬花火＆飛騨牛朴葉味噌",
+              desc: "12月の毎週土曜夜に冬空を華麗に染める「下呂温泉花火ミュージカル冬公演」…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-yamagata-ginzan-onsen-snow-taisho-stay',
+              title: "銀山温泉ガス灯＆尾花沢牛",
+              desc: "11月下旬の初雪から12月の白銀世界へと移ろう銀山温泉。銀山川沿いに並ぶ…",
+              badge: '11・12月特集'
+            },
+            {
               slug: 'winter-shizuoka-izukogen-granillumi-ito-onsen-stay',
               title: "伊豆高原グランイルミ＆金目鯛",
               desc: "11月中旬から本格シーズン！全国第1位の体験型ナイトエンターテインメント…",
