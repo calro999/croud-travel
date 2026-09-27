@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-nagano-hakuba-onsen-powder-snow-alps-shinshu-beef-stay',
+              title: "白銀北アルプス連峰絶景露天＆pH11超美肌湯信州牛信州サーモン",
+              desc: "11月下旬から12月にかけて北アルプスの名峰・白馬連峰が純白の雪を纏い、…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-kagoshima-ibusuki-onsen-sunamushi-black-pork-stay',
+              title: "南国初冬の天然砂むし温泉＆開聞岳錦江湾露天かごしま黒豚しゃぶしゃぶ",
+              desc: "本州が本格的な寒さを迎える11月から12月にかけて、日中は20℃前後のぽ…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-yamanashi-kawaguchiko-onsen-fuji-view-koshu-beef-stay',
+              title: "澄み渡る初冬の雪化粧富士＆紅富士逆さ富士露天甲州牛ほうとう",
+              desc: "11月から12月にかけて富士五湖・河口湖畔は、1年の中で最も空気が澄み渡…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-toyama-himi-onsen-kanburi-tateyama-himi-beef-stay',
+              title: "ひみ寒ぶり宣言＆海越し雪化粧立山連峰露天極上氷見牛ブリしゃぶ",
+              desc: "11月下旬から12月にかけて富山湾で水揚げのピークを迎える冬の味覚の王様…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-oita-yufuin-onsen-kinrinko-asamiri-bungo-beef-stay',
+              title: "由布院金鱗湖朝霧＆由布岳初雪離れ露天おおいた豊後牛冠地鶏",
+              desc: "11月から12月にかけて大分県・由布院温泉は、冷え込んだ早朝に金鱗湖から…",
+              badge: '11・12月特集'
+            },
+            {
               slug: 'winter-miyagi-naruko-onsen-yukimi-sendai-beef-stay',
               title: "鳴子9泉質巡り雪見露天＆初雪の鳴子峡最高峰A5仙台牛栗だんご",
               desc: "11月から12月にかけて鳴子峡に初雪が舞い、奥羽山脈の山懐に静寂が訪れる…",
