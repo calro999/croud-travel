@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-kagawa-kotohira-onsen-konpira-olive-beef-stay',
+              title: "こんぴら参り初冬石段＆讃岐富士展望露天讃岐オリーブ牛手打ちうどん",
+              desc: "11月から12月にかけて香川県・琴平町は、空気が澄み渡り讃岐富士（飯野山…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-kyoto-yunohana-onsen-unkai-botan-nabe-stay',
+              title: "丹波霧亀岡雲海＆京奥座敷の薬湯露天本場猪肉ぼたん鍋最高級丹波牛",
+              desc: "11月から12月にかけて京都の奥座敷・亀岡盆地は、冷え込みとともに盆地全…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-mie-toba-onsen-ise-ebi-matoya-oyster-stay',
+              title: "解禁本場伊勢海老＆的矢牡蠣鳥羽湾パノラマ露天極上松阪牛トロさわら",
+              desc: "11月から12月にかけて三重県・伊勢志摩の鳥羽温泉郷は、秋の禁漁明けから…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-aomori-oirase-hakkoda-onsen-frozen-waterfall-stay',
+              title: "奥入瀬氷瀑ライトアップ＆八甲田山樹氷白濁秘湯露天青森倉石牛ホタテ",
+              desc: "11月から12月にかけて青森県・十和田八甲田エリアは、奥入瀬渓流の滝が凍…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-hokkaido-niseko-onsen-powder-snow-yotei-stay',
+              title: "初雪パウダースノー＆羊蹄山蝦夷富士絶景露天道産黒毛和牛活毛ガニ",
+              desc: "11月下旬から12月にかけて北海道・ニセコ山麓は、世界中のスキーヤーや旅…",
+              badge: '11・12月特集'
+            },
+            {
               slug: 'winter-nagano-hakuba-onsen-powder-snow-alps-shinshu-beef-stay',
               title: "白銀北アルプス連峰絶景露天＆pH11超美肌湯信州牛信州サーモン",
               desc: "11月下旬から12月にかけて北アルプスの名峰・白馬連峰が純白の雪を纏い、…",
