@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-kyoto-amanohashidate-matsuba-crab-stay',
+              title: "天橋立カニ解禁＆間人ガニ寒ブリ",
+              desc: "日本三景の筆頭・京都府丹後天橋立。11月6日のズワイガニ漁解禁とともに美…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-iwate-hanamaki-onsen-yukimi-maesawa-beef-stay',
+              title: "花巻温泉郷白銀雪見＆前沢牛白金豚",
+              desc: "宮沢賢治が愛したイーハトーブの地・岩手県花巻温泉郷。11月下旬の初雪から…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-kanagawa-yugawara-onsen-bungo-kaiseki-stay',
+              title: "奥湯河原晩秋紅葉＆相模湾伊勢海老",
+              desc: "万葉集に唯一詠まれた関東最古の名湯・湯河原温泉。11月下旬から12月上旬…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-nagano-shibu-onsen-nine-sotoyu-stay',
+              title: "渋温泉九湯めぐり＆金具屋ライトアップ",
+              desc: "開湯1300年、下駄の音が心地よく響く長野県・信州渋温泉。宿泊者限定のマ…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-gifu-okuhida-onsen-yukimi-roten-stay',
+              title: "奥飛騨雪見露天＆飛騨牛朴葉味噌",
+              desc: "北アルプス穂高連峰の麓に広がる日本屈指の温泉天国・奥飛騨温泉郷。11月下…",
+              badge: '11・12月特集'
+            },
+            {
               slug: 'winter-ishikawa-kaga-yamashiro-kano-crab-stay',
               title: "加賀温泉加能ガニ解禁＆九谷焼会席",
               desc: "11月6日のズワイガニ漁解禁で美食の最盛期を迎える石川・加賀温泉郷。開湯…",
