@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-fukuoka-harazuru-onsen-w-bihada-hakata-beef-stay',
+              title: "筑後川初冬朝霧絶景＆弱アルカリ×硫黄の奇跡のW美肌泉・最高峰博多和牛会席・名湯湯巡り",
+              desc: "11月から12月にかけて、福岡市内から高速で約60分、九州一の大河・筑後…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-miyazaki-aoshima-onsen-miyazakigyu-iseebi-resort-stay',
+              title: "初冬南国温暖避寒＆鬼の洗濯板絶景・最高峰宮崎牛鉄板焼き・日向灘伊勢海老・美肌炭酸泉",
+              desc: "11月から12月にかけて、日南海岸の玄関口に位置する宮崎・青島温泉は、本…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-hyogo-yumura-onsen-tajima-beef-matsuba-crab-stay',
+              title: "開湯1200年荒湯源泉情緒＆11月解禁浜坂産松葉ガニ・本場但馬牛すき焼き・美肌高温泉",
+              desc: "11月から12月にかけて、兵庫県北部の山懐に抱かれた山陰の名湯「湯村温泉…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-shizuoka-inatori-onsen-kinmedai-oceanview-stay',
+              title: "11・12月最盛期本場稲取地金目鯛姿煮＆相模灘絶景オーシャンビュー露天・伊豆温暖避寒",
+              desc: "11月から12月にかけて、伊豆半島東海岸の岬に広がる稲取温泉は、冬の味覚…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-hokkaido-sounkyo-onsen-snow-gorge-stay',
+              title: "大雪山初冬峡谷雪景色＆雪見露天・単純硫黄泉・上川十勝牛オホーツク海鮮",
+              desc: "11月から12月にかけて、北海道屋根・大雪山連峰の麓に位置する層雲峡温泉…",
+              badge: '11・12月特集'
+            },
+            {
               slug: 'winter-okayama-yubara-onsen-sunayu-hiruzen-wagyu-stay',
               title: "西の横綱名物砂湯＆pH9.3高アルカリ美肌自噴泉・蒜山ジャージー牛・天然猪鍋",
               desc: "11月から12月にかけて、岡山県北部の旭川上流に佇む名湯「湯原温泉（ゆば…",
