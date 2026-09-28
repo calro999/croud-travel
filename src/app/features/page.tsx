@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-okayama-yubara-onsen-sunayu-hiruzen-wagyu-stay',
+              title: "西の横綱名物砂湯＆pH9.3高アルカリ美肌自噴泉・蒜山ジャージー牛・天然猪鍋",
+              desc: "11月から12月にかけて、岡山県北部の旭川上流に佇む名湯「湯原温泉（ゆば…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-hokkaido-toyako-onsen-lakeview-illumination-stay',
+              title: "洞爺湖40万球イルミネーション＆冠雪羊蹄山絶景・インフィニティ露天・白老牛",
+              desc: "11月から12月にかけて、北海道有数のカルデラ湖畔に広がる「洞爺湖温泉（…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-yamaguchi-shimonoseki-kawatana-onsen-torafugu-kawarasoba-stay',
+              title: "11・12月本場下関とらふぐ最盛期＆名物元祖瓦そば・開湯800年ラジウム美肌泉",
+              desc: "11月から12月にかけて、本州最西端に位置する山口県下関市および響灘沿い…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-ibaraki-kitaibaraki-isohara-onsen-ankou-dobujiru-stay',
+              title: "元祖あんこう鍋濃厚どぶ汁＆五浦海岸太平洋絶景・高張性温まり強塩泉・常陸牛",
+              desc: "11月から12月にかけて、東京から常磐道やJR特急ひたちで約2時間の茨城…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-miyagi-matsushima-onsen-kaki-matsushimawan-view-stay',
+              title: "松島湾初冬日の出絶景＆11・12月解禁松島牡蠣・最高峰仙台牛・美肌絹肌の湯",
+              desc: "11月から12月にかけて、日本三景の一つに数えられる宮城県・松島湾は、初…",
+              badge: '11・12月特集'
+            },
+            {
               slug: 'winter-tokushima-naruto-onsen-uzushio-naruto-tai-stay',
               title: "鳴門海峡大迫力冬渦潮＆激流育ち天然鳴門鯛・大塚国際美術館アート旅",
               desc: "11月から12月にかけて、四国の東の玄関口・徳島県鳴門市は、鳴門海峡を吹…",
