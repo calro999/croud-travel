@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-kumamoto-aso-uchinomaki-onsen-akagyu-caldera-stay',
+              title: "阿蘇五岳涅槃像絶景＆初冬草千里・名湯掛け流し・あか牛溶岩焼き・馬刺し",
+              desc: "11月から12月にかけて、世界最大級の阿蘇カルデラに抱かれた内牧温泉は、…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-shiga-nagahama-taiko-onsen-biwako-kamonabe-omigyu-stay',
+              title: "秀吉ゆかり太閤温泉＆初冬琵琶湖夕景・11月解禁名物天然鴨鍋・極上近江牛",
+              desc: "11月から12月にかけて、琵琶湖の東岸に位置する長浜は、シベリアからコハ…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-niigata-senami-onsen-sunset-ocean-salmon-murakami-beef-stay',
+              title: "日本海夕日絶景露天風呂＆初冬越後村上鮭三昧・塩引鮭はらこ飯・村上牛",
+              desc: "11月から12月にかけて、新潟県北部の日本海沿いに湧く瀬波温泉は、水平線…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-tochigi-shiobara-onsen-yukimi-tochigi-beef-radish-stay',
+              title: "塩原十一湯名湯掛け流し＆初冬箒川雪見露天・極上とちぎ和牛・塩原大根",
+              desc: "11月から12月にかけて、栃木県北部の那須連山山麓に広がる塩原温泉郷は、…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-hokkaido-tokachigawa-onsen-moor-swan-tokachi-beef-stay',
+              title: "北海道遺産植物性モール温泉＆初冬白鳥飛来・十勝牛ステーキ・十勝チーズ",
+              desc: "11月から12月にかけて、広大な十勝平野に位置する十勝川温泉は、シベリア…",
+              badge: '11・12月特集'
+            },
+            {
               slug: 'winter-nagano-bessho-onsen-shinshu-beef-heritage-stay',
               title: "信州最古の古湯掛け流し硫黄泉＆厄除け北向観音初冬参詣・信州プレミアム牛会席",
               desc: "11月から12月にかけて、「信州の鎌倉」と称される上田市の「別所温泉」は…",
