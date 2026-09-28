@@ -110,6 +110,66 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-akita-nyuto-onsen-yukimi-kiritanpo-hinaijidori-stay',
+              title: "初冬雪見秘湯・乳白色の濁り湯＆本場きりたんぽ鍋と比内地鶏名宿",
+              desc: "11月から12月にかけて、十和田八幡平国立公園の乳頭山麓に抱かれた秋田県仙…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-gifu-gero-onsen-hidagyu-bihada-hanabi-stay',
+              title: "日本三名泉のつるすべ美肌湯＆冬花火物語・極上飛騨牛すき焼き名宿",
+              desc: "11月から12月にかけて、万里集九や林羅山によって有馬・草津と並ぶ日本三名…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-gunma-kusatsu-onsen-yubatake-yukimi-joshugyu-stay',
+              title: "湯畑雪景色ライトアップ＆湧出量日本一の名湯・上州牛すき焼き名宿",
+              desc: "11月から12月にかけて、毎分3万2300リットル以上という日本一の自然湧…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-ehime-dogo-onsen-honkan-taimeshi-iyogyu-stay',
+              title: "日本三古湯・本館全館営業再開＆冬の宇和島鯛めし・伊予牛と美肌名宿",
+              desc: "11月から12月にかけて、三千年の歴史を誇る日本三古湯の筆頭「愛媛・道後温泉…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-fukushima-aizu-higashiyama-ashinomaki-onsen-stay',
+              title: "渓谷雪見露天＆名物会津牛・極上馬刺し・郷土こづゆと城下町名宿",
+              desc: "11月から12月にかけて、鶴ヶ城の武家文化と城下町情緒が息づく福島県会津若松…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-akita-nyuto-onsen-yukimi-kiritanpo-hinaijidori-stay',
+              title: "初冬雪見秘湯・乳白色の濁り湯＆本場きりたんぽ鍋と比内地鶏名宿",
+              desc: "11月から12月にかけて、十和田八幡平国立公園の乳頭山麓に抱かれた秋田県仙…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-gifu-gero-onsen-hidagyu-bihada-hanabi-stay',
+              title: "日本三名泉のつるすべ美肌湯＆冬花火物語・極上飛騨牛すき焼き名宿",
+              desc: "11月から12月にかけて、万里集九や林羅山によって有馬・草津と並ぶ日本三名…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-gunma-kusatsu-onsen-yubatake-yukimi-joshugyu-stay',
+              title: "湯畑雪景色ライトアップ＆湧出量日本一の名湯・上州牛すき焼き名宿",
+              desc: "11月から12月にかけて、毎分3万2300リットル以上という日本一の自然湧…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-ehime-dogo-onsen-honkan-taimeshi-iyogyu-stay',
+              title: "日本三古湯・本館全館営業再開＆冬の宇和島鯛めし・伊予牛と美肌名宿",
+              desc: "11月から12月にかけて、三千年の歴史を誇る日本三古湯の筆頭「愛媛・道後温泉…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-fukushima-aizu-higashiyama-ashinomaki-onsen-stay',
+              title: "渓谷雪見露天＆名物会津牛・極上馬刺し・郷土こづゆと城下町名宿",
+              desc: "11月から12月にかけて、鶴ヶ城の武家文化と城下町情緒が息づく福島県会津若松…",
+              badge: '11・12月特集'
+            },
+            {
               slug: 'winter-mie-shima-kashikojima-onsen-iseebi-anorifugu-matsusaka-stay',
               title: "英虞湾夕日パノラマ＆本場伊勢海老・幻のあのりふぐ・松阪牛と絶景露天",
               desc: "11月から12月にかけて、伊勢志摩国立公園の真珠の海「英虞湾（あごわん）…",

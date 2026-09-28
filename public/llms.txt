@@ -309,6 +309,8 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【おすすめ宿】赤目温泉　山の湯　湯元赤目　山水園の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/7624): 赤目温泉　山の湯　湯元赤目　山水園（三重県）
+- [【滋賀県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/1175): アパホテル〈びわ湖　瀬田駅前〉（滋賀県）
 - [【おすすめ宿】ホテル日航プリンセス京都の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/166): ホテル日航プリンセス京都（京都府）
 - [【三重県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/9102): ホテルキャッスルイン四日市（三重県）
 - [【おすすめ宿】湯の山温泉　希望荘の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/166523): 湯の山温泉　希望荘（三重県）
@@ -357,5 +359,3 @@
 - [【おすすめ宿】湯野温泉　紫水園の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/5625): 湯野温泉　紫水園（山口県）
 - [【徳島県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/202210): ＣＯＺＹ　ＣＯＭＦＯＲＴＳ　ＨＯＴＥＬ（コージーコンフォーツホテル）２０２６年８月８日新規オープン（徳島県）
 - [【おすすめ宿】こころ和む愛犬との湯宿　桃の木温泉　さんわそうの魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/160703): こころ和む愛犬との湯宿　桃の木温泉　さんわそう（山梨県）
-- [【三重県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/13550): 湯の山温泉　三峯園（三重県）
-- [【おすすめ宿】温湯温泉　飯塚旅館の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/84875): 温湯温泉　飯塚旅館（青森県）
