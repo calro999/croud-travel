@@ -309,6 +309,7 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【おすすめ宿】ホテル日航プリンセス京都の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/166): ホテル日航プリンセス京都（京都府）
 - [【三重県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/9102): ホテルキャッスルイン四日市（三重県）
 - [【おすすめ宿】湯の山温泉　希望荘の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/166523): 湯の山温泉　希望荘（三重県）
 - [【三重県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/40967): ホテルルートイン松阪駅東（三重県）
@@ -358,4 +359,3 @@
 - [【おすすめ宿】こころ和む愛犬との湯宿　桃の木温泉　さんわそうの魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/160703): こころ和む愛犬との湯宿　桃の木温泉　さんわそう（山梨県）
 - [【三重県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/13550): 湯の山温泉　三峯園（三重県）
 - [【おすすめ宿】温湯温泉　飯塚旅館の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/84875): 温湯温泉　飯塚旅館（青森県）
-- [【島根県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/54096): 萩温泉郷　夕景の宿　海のゆりかご　萩小町（島根県）

@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-hokkaido-akanko-onsen-lakeview-frost-flower-hokkaido-beef-stay',
+              title: "阿寒湖初氷フロストフラワー＆アイヌ文化・極上オホーツク毛蟹と北海道牛",
+              desc: "11月から12月にかけて、道東・阿寒摩周国立公園の雄大な大自然に抱かれた…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-miyagi-sakunami-onsen-yukimi-sendai-beef-serinabe-stay',
+              title: "広瀬川渓谷初冬雪見露天＆美女づくりの湯・極上A5仙台牛と名物仙台せり鍋",
+              desc: "11月から12月にかけて、杜の都・仙台の奥座敷として古くから親しまれる作…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-nagano-tateshina-onsen-yatsugatake-snow-shinshu-beef-stay',
+              title: "八ヶ岳連峰初冬雪景色＆信玄隠し湯・極上信州蓼科牛ステーキと八ヶ岳新蕎麦",
+              desc: "11月から12月にかけて、長野県・八ヶ岳連峰の裾野に広がる蓼科高原・蓼科…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-kochi-ashizuri-onsen-ocean-starry-katsuo-tosa-beef-stay',
+              title: "四国最南端黒潮絶景露天＆満天星空・戻り鰹藁焼きタタキと幻の土佐あかうし",
+              desc: "11月から12月にかけて、四国最南端の足摺岬・足摺温泉郷は、初冬でも黒潮…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-shizuoka-shimoda-onsen-kinmedai-ocean-view-stay',
+              title: "水揚げ日本一地金目鯛姿煮＆伊勢海老・初冬の絶景オーシャンビュー露天風呂",
+              desc: "11月から12月にかけて、伊豆半島南端の下田・南伊豆エリアは、水揚げ日本…",
+              badge: '11・12月特集'
+            },
+            {
               slug: 'winter-kumamoto-aso-uchinomaki-onsen-akagyu-caldera-stay',
               title: "阿蘇五岳涅槃像絶景＆初冬草千里・名湯掛け流し・あか牛溶岩焼き・馬刺し",
               desc: "11月から12月にかけて、世界最大級の阿蘇カルデラに抱かれた内牧温泉は、…",
