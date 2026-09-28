@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-mie-shima-kashikojima-onsen-iseebi-anorifugu-matsusaka-stay',
+              title: "英虞湾夕日パノラマ＆本場伊勢海老・幻のあのりふぐ・松阪牛と絶景露天",
+              desc: "11月から12月にかけて、伊勢志摩国立公園の真珠の海「英虞湾（あごわん）…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-yamaguchi-yuda-onsen-torafugu-byakko-choshu-beef-stay',
+              title: "白狐伝説の名湯＆本場下関直送とらふぐ・やまぐち和牛燦と国宝散策",
+              desc: "11月から12月にかけて、室町時代の雅な大内文化と幕末維新の胎動が息づく…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-ishikawa-noto-wakura-onsen-kanburi-kanogani-ocean-stay',
+              title: "七尾湾冬絶景＆極上能登寒ぶり・加能ガニ・能登牛と海のいで湯名宿",
+              desc: "11月から12月にかけて、能登半島の優美な内海「七尾湾」に抱かれた名湯「…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-saitama-chichibu-onsen-yomatsuri-nagatoro-bushugyu-stay',
+              title: "初冬の秩父夜祭＆長瀞こたつ舟・名物武州和牛すき焼きと美肌鉱泉",
+              desc: "11月から12月にかけて、都心から特急でわずか80分あまりの近さにありな…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-yamagata-atsumi-onsen-kandara-shonaigyu-snow-stay',
+              title: "開湯1200年名湯・寒鱈汁＆紅ズワイガニ・極上庄内牛と温海川雪見露天",
+              desc: "11月から12月にかけて、山形県庄内地方の南端に位置する「あつみ温泉（温…",
+              badge: '11・12月特集'
+            },
+            {
               slug: 'winter-nara-yamatoji-wakakusayama-yamatogyu-asukabeef-stay',
               title: "初冬の古都奈良散策＆極上大和牛すき焼き・古代伝承飛鳥鍋と歴史名宿",
               desc: "11月から12月にかけて、1300年の歴史を誇る古都・奈良は、秋の喧騒が…",
