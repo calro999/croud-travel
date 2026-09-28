@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-shizuoka-atagawa-onsen-ocean-sunrise-kinmedai-stay',
+              title: "東伊豆湯けむり櫓＆水平線日の出オーシャン露天・極上地金目鯛姿煮と伊豆牛",
+              desc: "11月から12月にかけて、伊豆半島東海岸の熱川温泉は、約100度の高温泉…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-kumamoto-hitoyoshi-onsen-kumagawa-mist-wagyu-ayu-stay',
+              title: "球磨川初冬朝霧絶景＆相良700年城下町・子持ち落ち鮎塩焼き・球磨黒毛和牛",
+              desc: "11月から12月にかけて、相良700年の城下町の歴史が息づく熊本県南部の…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-fukui-wakasa-mikatagoko-onsen-fugu-echizen-crab-stay',
+              title: "三方五湖初冬レイクビュー＆若狭ふぐフルコース・越前蟹・敦賀港冬海鮮会席",
+              desc: "11月から12月にかけて、国の名勝・三方五湖と敦賀湾を擁する福井県若狭エ…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-nagasaki-hirado-onsen-kue-hirame-hirado-beef-stay',
+              title: "平戸瀬戸黒潮絶景＆天然クエ鍋・寒ヒラメ活造り・特選平戸和牛と美肌重曹泉",
+              desc: "11月から12月にかけて、長崎県北西端に浮かぶ歴史と異国情緒の島・平戸温…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-hokkaido-otaru-canal-illumination-sushi-asarigawa-stay',
+              title: "小樽ゆき物語青の運河イルミネーション＆小樽前浜極上寿司・朝里川雪見露天",
+              desc: "11月から12月にかけて、小樽は初雪が舞い散る運河沿いに約1万個の青色L…",
+              badge: '11・12月特集'
+            },
+            {
               slug: 'winter-hokkaido-akanko-onsen-lakeview-frost-flower-hokkaido-beef-stay',
               title: "阿寒湖初氷フロストフラワー＆アイヌ文化・極上オホーツク毛蟹と北海道牛",
               desc: "11月から12月にかけて、道東・阿寒摩周国立公園の雄大な大自然に抱かれた…",
