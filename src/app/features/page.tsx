@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-fukushima-urabandai-onsen-goshikinuma-snow-fukushimagyu-stay',
+              title: "初雪の五色沼スノーウォーク＆白銀磐梯山・桧原湖ワカサギと極上福島牛ステーキ",
+              desc: "11月から12月にかけて、標高約800mの磐梯高原に位置する福島県・裏磐…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-shimane-matsue-shinjiko-onsen-sunset-matsubagani-shijimi-stay',
+              title: "夕日百選宍道湖サンセット＆解禁松葉ガニ・寒シジミ鍋・しまね和牛レイクビュー",
+              desc: "11月から12月にかけて、水の都・松江の宍道湖畔に湧く松江しんじ湖温泉は…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-oita-nagayu-onsen-carbonated-spring-kuju-snow-bungogyu-stay',
+              title: "世界屈指の天然炭酸泉＆初雪くじゅう連山・清流エノハ料理と極上豊後牛",
+              desc: "11月から12月にかけて、大分県竹田市の芹川沿いに広がる長湯温泉は、初雪…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-fukuoka-yanagawa-onsen-kotatsubune-unagi-seiromushi-stay',
+              title: "冬のこたつ舟川下り＆名物元祖うなぎのせいろ蒸し・博多和牛会席と名勝松涛園",
+              desc: "11月から12月にかけて、北原白秋の故郷として知られる水郷・福岡県柳川は…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-shizuoka-nishiizu-dogashima-onsen-sunset-fuji-takaashigani-stay',
+              title: "夕陽百選駿河湾パノラマ＆雪化粧富士・戸田高足ガニと地金目鯛姿煮",
+              desc: "11月から12月にかけて、西伊豆・堂ヶ島温泉は空気が澄み渡り、駿河湾の彼…",
+              badge: '11・12月特集'
+            },
+            {
               slug: 'winter-shizuoka-atagawa-onsen-ocean-sunrise-kinmedai-stay',
               title: "東伊豆湯けむり櫓＆水平線日の出オーシャン露天・極上地金目鯛姿煮と伊豆牛",
               desc: "11月から12月にかけて、伊豆半島東海岸の熱川温泉は、約100度の高温泉…",
