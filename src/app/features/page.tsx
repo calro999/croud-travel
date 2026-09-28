@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-nara-yamatoji-wakakusayama-yamatogyu-asukabeef-stay',
+              title: "初冬の古都奈良散策＆極上大和牛すき焼き・古代伝承飛鳥鍋と歴史名宿",
+              desc: "11月から12月にかけて、1300年の歴史を誇る古都・奈良は、秋の喧騒が…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-saga-karatsu-onsen-yobuko-ika-sagagyu-genkai-stay',
+              title: "冬の玄界灘・名物呼子透明活イカ姿造り＆最高級佐賀牛・唐津城絶景",
+              desc: "11月から12月にかけて、佐賀県北西部に位置する城下町・唐津と港町・呼子…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-miyazaki-takachiho-yokagura-gorge-takachihogyu-stay',
+              title: "冬の伝統高千穂夜神楽＆真名井の滝・A5高千穂牛ステーキとかっぽ鶏",
+              desc: "11月中旬から翌年2月にかけて、日本神話「天孫降臨」の舞台である宮崎県高…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-aichi-gamagori-onsen-mikawawan-mehikari-akazaebi-stay',
+              title: "竹島夕日パノラマ＆深海魚メヒカリ・幻のアカザエビ・三河牛と美肌露天",
+              desc: "11月から12月にかけて、愛知県・三河湾の風光明媚な海岸線に広がる蒲郡温…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-tochigi-yunishigawa-onsen-heike-irori-snow-stay',
+              title: "初雪の湯西川渓谷＆名物囲炉裏狩場焼・とちぎ和牛と源泉かけ流し雪見露天",
+              desc: "11月から12月にかけて、栃木県日光市の深山幽谷に抱かれた「湯西川温泉」…",
+              badge: '11・12月特集'
+            },
+            {
               slug: 'winter-fukushima-urabandai-onsen-goshikinuma-snow-fukushimagyu-stay',
               title: "初雪の五色沼スノーウォーク＆白銀磐梯山・桧原湖ワカサギと極上福島牛ステーキ",
               desc: "11月から12月にかけて、標高約800mの磐梯高原に位置する福島県・裏磐…",
