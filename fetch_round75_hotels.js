@@ -4,82 +4,120 @@ const path = require('path');
 
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
-const furusatoConfigs = [
+const targets = [
   {
-    slug: 'furusato-tax-sotoyu-meguri-historic-onsen-town-stay',
+    theme: 'shizuoka_kanzanji',
+    label: '静岡・浜名湖 舘山寺温泉（初冬の浜名湖レイクビューと遠州灘天然とらふぐ・冬うなぎ＆舘山寺名湯露天風呂）',
     queries: [
-      { key: 'kinosaki_sotoyu', query: '城崎温泉 登録有形文化財の宿 三木屋', label: '豊岡市ふるさと納税・七田外湯めぐりと志賀直哉ゆかりの国登録有形文化財老舗宿' },
-      { key: 'nozawa_sotoyu', query: '野沢温泉 村のホテル 住吉屋', label: '野沢温泉村ふるさと納税・十三箇所の外湯めぐりと麻釜熱湯自家源泉の老舗名宿' },
-      { key: 'shibu_sotoyu', query: '渋温泉 歴史の宿 金具体', label: '山ノ内町ふるさと納税・九湯めぐりの結願と千と千尋の神隠しを彷彿とさせる文化財宿' }
+      'ホテル　ウェルシーズン浜名湖',
+      '浜名湖かんざんじ温泉　山水館欣龍',
+      '浜名湖かんざんじ温泉　ホテル鞠水亭',
+      '浜名湖かんざんじ温泉　時わすれ　開華亭',
+      'グランドメルキュール浜名湖リゾート＆スパ'
     ]
   },
   {
-    slug: 'furusato-tax-aquarium-family-ocean-resort-stay',
+    theme: 'niigata_iwamuro_yahiko',
+    label: '新潟・弥彦＆岩室温泉（彌彦神社初冬参詣と開湯300年名物黒湯・日本海寒ブリ＆のどぐろ会席）',
     queries: [
-      { key: 'kamogawa_aquarium', query: '鴨川シーワールドホテル', label: '鴨川市ふるさと納税・シャチパフォーマンス直結！全室オーシャンビュー公式ホテル' },
-      { key: 'toba_aquarium', query: '鳥羽国際ホテル 潮路亭', label: '鳥羽市ふるさと納税・鳥羽水族館至近！ミキモト真珠風呂と伊勢志摩の美食リゾート' },
-      { key: 'okinawa_aquarium', query: 'ホテル オリオン モトブ リゾート＆スパ', label: '本部町ふるさと納税・美ら海水族館へ徒歩すぐ！エメラルドビーチ前の最高峰リゾート' }
+      '越後平野と弥彦連山一望の宿　穂々',
+      '岩室温泉　ゆもとや',
+      '弥彦温泉　四季の宿　みのや',
+      '新潟　岩室温泉　自家源泉の宿　富士屋',
+      '弥彦温泉　割烹の宿　櫻家'
     ]
   },
   {
-    slug: 'furusato-tax-resort-infinity-pool-luxury-hotel-stay',
+    theme: 'wakayama_ryujin',
+    label: '和歌山・紀州 龍神温泉（日本三美人の湯と日高川初冬渓谷美・名物紀州天然ぼたん鍋＆熊野牛会席）',
     queries: [
-      { key: 'atami_pool', query: '熱海 後楽園ホテル', label: '熱海市ふるさと納税・相模灘を一望するインフィニティ温泉プール「オーシャンスパ Fuua」' },
-      { key: 'okinawa_pool', query: 'ハレクラニ沖縄', label: '恩納村ふるさと納税・天国の名を持つハレクラニ！象徴的なオーキッドプールと極上ステイ' },
-      { key: 'beppu_pool', query: '杉乃井ホテル', label: '別府市ふるさと納税・大展望露天風呂「棚湯」＆水着で楽しむ温泉プール「アクアガーデン」' }
+      '龍神温泉　季楽里　龍神',
+      '龍神温泉　下御殿',
+      '龍神温泉　上御殿',
+      '龍神小又川温泉　美人亭',
+      '龍神温泉　民宿旅館　ささゆり'
     ]
   },
   {
-    slug: 'furusato-tax-shinshu-soba-kaiseki-luxury-ryokan-stay',
+    theme: 'hiroshima_miyajima',
+    label: '広島・宮島温泉（世界遺産厳島神社初冬絶景と旬解禁広島カキづくし・安芸牛＆瀬戸内海展望露天）',
     queries: [
-      { key: 'togakushi_soba', query: '戸隠神社 宿坊 極意', label: '長野市ふるさと納税・日本三大蕎麦・戸隠そば発祥の地で手打ち十割蕎麦と宿坊の歴史' },
-      { key: 'azumino_soba', query: '安曇野 穂高温泉郷 にし屋別荘', label: '安曇野市ふるさと納税・名水百選わさび田と安曇野手打ち蕎麦会席・源泉掛け流し離れ宿' },
-      { key: 'shibu_soba', query: '松本 浅間温泉 別亭 一花', label: '松本市ふるさと納税・国宝松本城と信州石臼挽き手打ち蕎麦会席・全室畳敷き名宿' }
+      '宮島グランドホテル　有もと',
+      'ホテル宮島別荘',
+      '宮島潮湯温泉　錦水館',
+      'みやじまの宿　岩惣',
+      '安芸グランドホテル'
+    ]
+  },
+  {
+    theme: 'nagano_bessho',
+    label: '長野・信州 別所温泉（信州最古の古湯と北向観音初冬参拝・極上信州プレミアム牛＆名湯硫黄泉）',
+    queries: [
+      '別所温泉　七草の湯',
+      '別所温泉　観音様となりの宿　かしわや本店',
+      '信州別所温泉　旅宿　上松や',
+      '信州別所温泉　玉屋旅館',
+      '別所温泉　旅館　中松屋'
     ]
   }
 ];
 
 async function main() {
-  const allSeasonalPath = path.join(__dirname, 'src/data/all_seasonal_rakuten_hotels.json');
-  let allSeasonal = {};
-  if (fs.existsSync(allSeasonalPath)) {
-    try {
-      allSeasonal = JSON.parse(fs.readFileSync(allSeasonalPath, 'utf8'));
-    } catch (e) {
-      console.error('Failed to parse all_seasonal_rakuten_hotels.json', e);
-    }
-  }
+  console.log('================================================================');
+  console.log('Fetching Rakuten Hotels for Round 75 (All 5 Themes, Exactly 5 Local Hotels Each)');
+  console.log('================================================================');
 
-  for (const page of furusatoConfigs) {
-    console.log(`\n================ Processing page: ${page.slug} ================`);
-    if (!allSeasonal[page.slug]) {
-      allSeasonal[page.slug] = {};
-    }
+  const result = {};
 
-    for (const q of page.queries) {
-      console.log(`Fetching query: "${q.query}" (${q.label}) ...`);
+  for (const t of targets) {
+    console.log(`\n--- Fetching Theme: ${t.label} (${t.theme}) ---`);
+    const themeHotels = [];
+    const usedHotelNos = new Set();
+
+    for (const q of t.queries) {
+      console.log(`Query: "${q}"...`);
       try {
-        const results = await searchRakutenHotels(q.query, 1);
-        if (results && results.length > 0) {
-          const hotel = results[0];
-          console.log(` -> Found: [${hotel.hotelNo}] ${hotel.hotelName} (Rating: ${hotel.reviewAverage}, Reviews: ${hotel.reviewCount})`);
-          allSeasonal[page.slug][q.key] = {
-            ...hotel,
-            searchQuery: q.query,
-            curatorLabel: q.label
-          };
+        const hotels = await searchRakutenHotels(q, 3);
+        await sleep(1200); // 楽天APIレートリミット対策
+        if (hotels && hotels.length > 0) {
+          let selected = null;
+          for (const h of hotels) {
+            if (!usedHotelNos.has(h.hotelNo)) {
+              selected = h;
+              break;
+            }
+          }
+          if (selected) {
+            usedHotelNos.add(selected.hotelNo);
+            themeHotels.push(selected);
+            console.log(`  -> Success: ${selected.hotelName} (No: ${selected.hotelNo}, Rating: ${selected.reviewAverage}, Price: ¥${selected.hotelMinCharge})`);
+          } else {
+            console.warn(`  -> All results duplicate for "${q}"`);
+          }
         } else {
-          console.warn(` -> No hotels found for query: "${q.query}"`);
+          console.warn(`  -> No match for "${q}"`);
         }
       } catch (err) {
-        console.error(` -> Error searching for "${q.query}":`, err.message);
+        console.error(`  -> Error fetching "${q}":`, err.message);
       }
-      await sleep(1500);
     }
+
+    result[t.theme] = themeHotels;
+    console.log(`=> Collected ${result[t.theme].length} hotels for ${t.theme}`);
   }
 
-  fs.writeFileSync(allSeasonalPath, JSON.stringify(allSeasonal, null, 2), 'utf8');
-  console.log('\nSuccessfully saved Round 75 hotel data to src/data/all_seasonal_rakuten_hotels.json');
+  const outputPath = path.join(__dirname, 'round75_raw_hotels.json');
+  fs.writeFileSync(outputPath, JSON.stringify(result, null, 2), 'utf8');
+  console.log(`\n================================================================`);
+  console.log(`Successfully saved raw hotels data to ${outputPath}`);
+  console.log('Hotel counts per theme:');
+  for (const k of Object.keys(result)) {
+    console.log(`  ${k}: ${result[k].length} hotels`);
+  }
+  console.log(`================================================================`);
 }
 
-main().catch(console.error);
+main().catch(err => {
+  console.error('Fatal error in fetch script:', err);
+  process.exit(1);
+});

@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-nagano-bessho-onsen-shinshu-beef-heritage-stay',
+              title: "信州最古の古湯掛け流し硫黄泉＆厄除け北向観音初冬参詣・信州プレミアム牛会席",
+              desc: "11月から12月にかけて、「信州の鎌倉」と称される上田市の「別所温泉」は…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-hiroshima-miyajima-onsen-kaki-oyster-seto-stay',
+              title: "世界遺産厳島神社初冬絶景＆11月旬解禁広島カキづくし・安芸牛・宮島潮湯温泉",
+              desc: "11月から12月にかけて、世界遺産の島・宮島（厳島）は、紅葉の喧騒が落ち…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-wakayama-ryujin-onsen-bihada-botannabe-stay',
+              title: "日本三美人の湯重曹泉＆日高川初冬渓谷美・11月解禁天然猪ぼたん鍋・熊野牛",
+              desc: "11月から12月にかけて、紀伊半島の奥深き山懐・日高川の上流に位置する「…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-niigata-iwamuro-yahiko-onsen-kanburi-nodoguro-stay',
+              title: "越後一宮彌彦神社参詣＆開湯300年名物黒湯・日本海寒ブリ・のどぐろ会席",
+              desc: "11月から12月にかけて、新潟県の弥彦温泉と岩室温泉は、越後平野の黄金色…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-shizuoka-kanzanji-onsen-hamanako-fugu-eel-stay',
+              title: "浜名湖初冬レイクビュー＆遠州灘天然とらふぐ・冬うなぎ・展望露天風呂",
+              desc: "11月から12月にかけて、静岡県西部に広がる浜名湖畔の舘山寺温泉は、遠州…",
+              badge: '11・12月特集'
+            },
+            {
               slug: 'winter-fukuoka-harazuru-onsen-w-bihada-hakata-beef-stay',
               title: "筑後川初冬朝霧絶景＆弱アルカリ×硫黄の奇跡のW美肌泉・最高峰博多和牛会席・名湯湯巡り",
               desc: "11月から12月にかけて、福岡市内から高速で約60分、九州一の大河・筑後…",
