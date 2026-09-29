@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-nagano-togura-kamiyamada-onsen-shinshugyu-apple-stay',
+              title: "善光寺精進落としの美肌硫黄泉と初冬の味覚・極上信州プレミアム牛＆完熟サンふじ・辛味大根おしぼりうどん名宿",
+              desc: "11月から12月にかけて、千曲川の川霧と冠着山の初雪、エメラルドグリーンの単純硫黄泉、信州牛すき焼きとおしぼりうどん…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-hiroshima-tomonoura-onsen-setouchi-taimeshi-taoshitagyu-stay',
+              title: "瀬戸内海初冬の夕暮れと潮待ちの港情緒・名物寒真鯛の鯛めし＆地魚姿造り・幻の峠下牛と保命酒名宿",
+              desc: "11月から12月にかけて、仙酔島を茜色に染める夕暮れマジックアワー、越冬の脂が乗る寒真鯛の土鍋鯛めしと峠下牛ステーキ…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-oita-hita-amagase-onsen-mamedamachi-bungogyu-stay',
+              title: "水郷ひたの初冬川霧と天領豆田町の小江戸情緒・玖珠川渓流露天とおおいた豊後牛・初冬鮎うるか名宿",
+              desc: "11月から12月にかけて、三隈川の幻想的な川霧と屋形船情緒、天領小江戸の白壁土蔵散策、最高峰おおいた豊後牛と梅酒…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-fukushima-dake-onsen-adatara-milky-bath-fukushimagyu-stay',
+              title: "安達太良山初冬の雪景色と奇跡の強酸性ミルキー美肌湯・極上福島牛＆川俣シャモ鍋・二本松銘酒名宿",
+              desc: "11月から12月にかけて、智恵子のほんとの空と安達太良山冠雪、8km流下で熟成する奇跡のミルキー湯、福島牛と川俣シャモ…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-shizuoka-izunagaoka-onsen-fujiview-kinmedai-izugyu-stay',
+              title: "富士山眺望と温暖避寒の古奈名湯・駿河湾朝獲れ地魚舟盛り＆伊豆牛ステーキ・金目鯛姿煮名宿",
+              desc: "11月から12月にかけて、碧テラスから望む純白の冠雪富士と駿河湾、温暖な中伊豆避寒、脂が乗った金目鯛姿煮と幻の伊豆牛…",
+              badge: '11・12月特集'
+            },
+            {
               slug: 'winter-mie-toba-osaatsu-onsen-seafood-torasawara-matsusaka-stay',
               title: "現役海女の里相差の大漁舟盛り＆答志島トロさわら・活伊勢海老・的矢牡蠣と松阪牛名宿",
               desc: "11月から12月にかけて、日本一の海女の町で味わう一本釣り答志島トロさわらと特大舟盛り、石神さん参拝と千鳥ヶ浜の朝日露天…",
