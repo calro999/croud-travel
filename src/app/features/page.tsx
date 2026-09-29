@@ -110,6 +110,66 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-iwate-hachimantai-matsukawa-onsen-snow-maesawagyu-stay',
+              title: "白銀の樹氷と乳白色雪見秘湯＆南部鉄器で味わう極上前沢牛すき焼き名宿",
+              desc: "11月から12月にかけて、八幡平のブナ原生林と松川渓谷に湧く青みがかった自噴乳白色硫黄泉、伝統の南部鉄鍋で香ばしく仕上げる前沢牛…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-niigata-matsunoyama-onsen-yakuto-snow-tsumari-pork-stay',
+              title: "日本三大薬湯の自噴化石海水＆美人林の雪景色・極上妻有ポークと魚沼米名宿",
+              desc: "11月から12月にかけて、約1200万年前の化石海水が自噴する奇跡の薬湯と美人林の白銀世界、甘くとろける妻有ポークと魚沼コシヒカリ…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-nagano-yamada-onsen-matsukawakeikoku-shinshugyu-stay',
+              title: "松川渓谷の断崖雪見露天＆信州プレミアム牛と名物小布施栗おこわ隠れ名宿",
+              desc: "11月から12月にかけて、文豪ゆかりの山田温泉と断崖絶壁にせり出す野趣あふれる露天風呂、小布施栗おこわと信州高山ワインのマリアージュ…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-hokkaido-kawayu-onsen-mashu-kussharo-crab-stay',
+              title: "pH1.7極上強酸性硫黄泉＆屈斜路湖の白鳥雪景色・冬のオホーツク毛ガニ名宿",
+              desc: "11月から12月にかけて、硫黄山から自噴する釘をも溶かす強酸性硫黄泉と屈斜路湖砂湯に集う白鳥の群れ、身が詰まったオホーツク毛ガニ…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-kagoshima-myoken-onsen-amorigawa-black-pork-stay',
+              title: "天降川渓流の直下自噴炭酸泉露天＆極上かごしま黒豚しゃぶしゃぶ隠れ名宿",
+              desc: "11月から12月にかけて、空港から車で15分の秘境・天降川沿いに湧く新鮮な炭酸水素塩泉と川面一体露天、かごしま黒豚出汁しゃぶと黒牛…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-iwate-hachimantai-matsukawa-onsen-snow-maesawagyu-stay',
+              title: "白銀の樹氷と乳白色雪見秘湯＆南部鉄器で味わう極上前沢牛すき焼き名宿",
+              desc: "11月から12月にかけて、八幡平のブナ原生林と松川渓谷に湧く青みがかった自噴乳白色硫黄泉、伝統の南部鉄鍋で香ばしく仕上げる前沢牛…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-niigata-matsunoyama-onsen-yakuto-snow-tsumari-pork-stay',
+              title: "日本三大薬湯の自噴化石海水＆美人林の雪景色・極上妻有ポークと魚沼米名宿",
+              desc: "11月から12月にかけて、約1200万年前の化石海水が自噴する奇跡の薬湯と美人林の白銀世界、甘くとろける妻有ポークと魚沼コシヒカリ…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-nagano-yamada-onsen-matsukawakeikoku-shinshugyu-stay',
+              title: "松川渓谷の断崖雪見露天＆信州プレミアム牛と名物小布施栗おこわ隠れ名宿",
+              desc: "11月から12月にかけて、文豪ゆかりの山田温泉と断崖絶壁にせり出す野趣あふれる露天風呂、小布施栗おこわと信州高山ワインのマリアージュ…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-hokkaido-kawayu-onsen-mashu-kussharo-crab-stay',
+              title: "pH1.7極上強酸性硫黄泉＆屈斜路湖の白鳥雪景色・冬のオホーツク毛ガニ名宿",
+              desc: "11月から12月にかけて、硫黄山から自噴する釘をも溶かす強酸性硫黄泉と屈斜路湖砂湯に集う白鳥の群れ、身が詰まったオホーツク毛ガニ…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-kagoshima-myoken-onsen-amorigawa-black-pork-stay',
+              title: "天降川渓流の直下自噴炭酸泉露天＆極上かごしま黒豚しゃぶしゃぶ隠れ名宿",
+              desc: "11月から12月にかけて、空港から車で15分の秘境・天降川沿いに湧く新鮮な炭酸水素塩泉と川面一体露天、かごしま黒豚出汁しゃぶと黒牛…",
+              badge: '11・12月特集'
+            },
+            {
               slug: 'winter-yamanashi-shimobe-onsen-minobu-koshu-beef-stay',
               title: "武田信玄公の隠し湯ぬる湯治＆初冬富士山・極上甲州牛と名物ほうとう名宿",
               desc: "11月から12月にかけて、戦国武将・武田信玄公ゆかりの自噴30度ぬる湯とあつ湯の交互浴、身延山久遠寺…",

@@ -4,82 +4,116 @@ const path = require('path');
 
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
-const furusatoConfigs = [
+const targets = [
   {
-    slug: 'furusato-tax-kurokawa-onsen-yumeguri-luxury-stay',
+    theme: 'iwate_hachimantai',
+    label: '岩手・八幡平温泉郷＆松川温泉（白銀の樹氷と乳白色雪見秘湯・極上前沢牛と南部鉄器すき焼きを味わう名宿）',
     queries: [
-      { key: 'kurokawa_yamamizuki', query: '黒川温泉 山あいの宿 山みず木', label: '南小国町ふるさと納税・渓流と森に抱かれた絶景露天風呂！自然美と入湯手形めぐりの極上宿' },
-      { key: 'kurokawa_okunoyu', query: '黒川温泉 奥の湯', label: '南小国町ふるさと納税・茅葺き屋根と竹林の静寂！田の原川のせせらぎを聞く多彩な湯処' },
-      { key: 'kurokawa_shinmeikan', query: '黒川温泉 新明館', label: '南小国町ふるさと納税・名物手掘り洞窟風呂！川端通りの風情と肥後あか牛会席' }
+      '松川温泉　松川荘',
+      '松川温泉　峡雲荘',
+      '八幡平温泉郷　八幡平ハイツ',
+      '八幡平ライジングサンホテル',
+      '新安比温泉　静流閣'
     ]
   },
   {
-    slug: 'furusato-tax-ginzan-onsen-taisho-romantic-stay',
+    theme: 'niigata_matsunoyama',
+    label: '新潟・松之山温泉（日本三大薬湯の自噴化石海水と美人林の雪景色・極上妻有ポークと魚沼コシヒカリを味わう名宿）',
     queries: [
-      { key: 'ginzan_notoya', query: '銀山温泉 能登屋旅館', label: '尾花沢市ふるさと納税・国登録有形文化財の木造四層楼閣！大正ロマン薫る温泉街のシンボル' },
-      { key: 'ginzan_ginzanso', query: '銀山温泉 仙峡の宿 銀山荘', label: '尾花沢市ふるさと納税・銀山川を望む露天寝湯が大人気！尾花沢牛会席と開放的な大浴場' },
-      { key: 'ginzan_kosekiya', query: '銀山温泉 古勢起屋別館', label: '尾花沢市ふるさと納税・大正ロマンの木造四層構造！川側客室からガス灯揺らめく街並みを一望' }
+      '松之山温泉　ひなの宿　ちとせ',
+      '松之山温泉　酒の宿　玉城屋',
+      '越後松之山温泉　凌雲閣',
+      '松之山温泉　薬湯香ル宿　白川屋',
+      '松之山温泉　醸す森'
     ]
   },
   {
-    slug: 'furusato-tax-beppu-onsen-jigoku-meguri-stay',
+    theme: 'nagano_yamada_matsukawa',
+    label: '長野・信州高山村山田温泉＆松川渓谷（渓谷雪見露天風呂と信州牛・小布施栗おこわと信州高山ワインを味わう名宿）',
     queries: [
-      { key: 'beppu_suginoi', query: '別府温泉 杉乃井ホテル', label: '別府市ふるさと納税・大展望露天風呂棚湯と大迫力アクアガーデン！別府湾一望のメガリゾート' },
-      { key: 'beppu_sansuikan', query: '別府鉄輪温泉 ホテル山水館', label: '別府市ふるさと納税・湯けむり立ち上る鉄輪温泉！展望露天風呂と名物地獄蒸し料理' },
-      { key: 'beppu_kamenoi', query: '別府温泉 別府亀の井ホテル', label: '別府市ふるさと納税・別府駅徒歩4分！広々温泉大浴場と郷土料理バイキングが魅力の老舗名門' }
+      '心を整える宿　風景館',
+      '信州高山温泉郷・山田温泉　平野屋旅館',
+      '信州山田温泉　山田館',
+      '旅館わらび野',
+      '五色温泉　五色の湯旅館'
     ]
   },
   {
-    slug: 'furusato-tax-kyoto-arashiyama-bamboo-luxury-stay',
+    theme: 'hokkaido_kawayu_mashu',
+    label: '北海道・川湯温泉＆屈斜路湖・摩周湖（pH1.7強酸性硫黄泉の雪見名湯とオオハクチョウ・冬のオホーツク毛ガニと十勝牛を味わう名宿）',
     queries: [
-      { key: 'arashiyama_suiran', query: '翠嵐 ラグジュアリーコレクションホテル 京都', label: '京都市ふるさと納税・保津川と嵐山の四季を望む最高峰ラグジュアリー！嵐山温泉の露天風呂付客室' },
-      { key: 'arashiyama_kadensho', query: '京都 嵐山温泉 花伝抄', label: '京都市ふるさと納税・阪急嵐山駅徒歩1分！全館畳敷き＆趣の異なる5つの無料貸切風呂と京会席' },
-      { key: 'arashiyama_benkei', query: '嵐山温泉 嵐山辨慶', label: '京都市ふるさと納税・嵐山大井川のほとり！伝統の京料理と嵐山温泉露天風呂を愉しむ料理旅館' }
+      'お宿欣喜湯　別邸　すいかずら',
+      '川湯温泉　川湯観光ホテル',
+      '屈斜路プリンスホテル',
+      '川湯温泉　山水館　川湯みどりや',
+      '川湯温泉　ＫＫＲかわゆ'
+    ]
+  },
+  {
+    theme: 'kagoshima_myoken',
+    label: '鹿児島・霧島妙見温泉＆安良川（天降川渓流の自噴炭酸泉露天と初冬の隠れ家・極上鹿児島黒豚しゃぶしゃぶと黒毛和牛を味わう名宿）',
+    queries: [
+      '妙見石原荘',
+      '霧島温泉郷　鳥遊ぶ森の宿　ふたり静',
+      '妙見温泉　きらく温泉',
+      '妙見温泉　田島本館',
+      '妙見温泉　ねむ'
     ]
   }
 ];
 
 async function main() {
-  const allSeasonalPath = path.join(__dirname, 'src/data/all_seasonal_rakuten_hotels.json');
-  let allSeasonal = {};
-  if (fs.existsSync(allSeasonalPath)) {
-    try {
-      allSeasonal = JSON.parse(fs.readFileSync(allSeasonalPath, 'utf8'));
-    } catch (e) {
-      console.error('Failed to parse all_seasonal_rakuten_hotels.json', e);
-    }
-  }
+  console.log('================================================================');
+  console.log('Fetching Rakuten Hotels for Round 85 (High Precision Search)');
+  console.log('================================================================');
 
-  for (const page of furusatoConfigs) {
-    console.log(`\n================ Processing page: ${page.slug} ================`);
-    if (!allSeasonal[page.slug]) {
-      allSeasonal[page.slug] = {};
-    }
+  const result = {};
 
-    for (const q of page.queries) {
-      console.log(`Fetching query: "${q.query}" (${q.label}) ...`);
+  for (const t of targets) {
+    console.log(`\n--- Fetching Theme: ${t.label} (${t.theme}) ---`);
+    const themeHotels = [];
+    const usedHotelNos = new Set();
+
+    for (const q of t.queries) {
+      console.log(`Query: "${q}"...`);
       try {
-        const results = await searchRakutenHotels(q.query, 1);
-        if (results && results.length > 0) {
-          const hotel = results[0];
-          console.log(` -> Found: [${hotel.hotelNo}] ${hotel.hotelName} (Rating: ${hotel.reviewAverage}, Reviews: ${hotel.reviewCount})`);
-          allSeasonal[page.slug][q.key] = {
-            ...hotel,
-            searchQuery: q.query,
-            curatorLabel: q.label
-          };
+        const hotels = await searchRakutenHotels(q, 3);
+        await sleep(1300); // 楽天APIレートリミット対策
+        if (hotels && hotels.length > 0) {
+          let selected = null;
+          for (const h of hotels) {
+            if (!usedHotelNos.has(h.hotelNo)) {
+              selected = h;
+              break;
+            }
+          }
+          if (selected) {
+            usedHotelNos.add(selected.hotelNo);
+            themeHotels.push(selected);
+            console.log(`  -> Success: ${selected.hotelName} (No: ${selected.hotelNo}, Rating: ${selected.reviewAverage}, Price: ¥${selected.hotelMinCharge})`);
+          } else {
+            console.warn(`  -> All results duplicate for "${q}"`);
+          }
         } else {
-          console.warn(` -> No hotels found for query: "${q.query}"`);
+          console.warn(`  -> No match for "${q}"`);
         }
       } catch (err) {
-        console.error(` -> Error searching for "${q.query}":`, err.message);
+        console.error(`  -> Error querying "${q}":`, err.message);
       }
-      await sleep(2200);
     }
+
+    result[t.theme] = themeHotels;
+    console.log(`Finished theme ${t.theme}: total ${themeHotels.length} hotels obtained.`);
   }
 
-  fs.writeFileSync(allSeasonalPath, JSON.stringify(allSeasonal, null, 2), 'utf8');
-  console.log('\nSuccessfully saved Round 85 hotel data to src/data/all_seasonal_rakuten_hotels.json');
+  const outputPath = path.join(__dirname, 'round85_raw_hotels.json');
+  fs.writeFileSync(outputPath, JSON.stringify(result, null, 2), 'utf8');
+  console.log(`\n================================================================`);
+  console.log(`Successfully saved refined hotel data to ${outputPath}`);
+  console.log(`================================================================`);
 }
 
-main().catch(console.error);
+main().catch(err => {
+  console.error('Fatal execution error:', err);
+  process.exit(1);
+});
