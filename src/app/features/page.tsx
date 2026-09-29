@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-fukushima-takayu-tsuchiyu-onsen-yukimi-fukushimagyu-stay',
+              title: "吾妻連峰の雪見露天＆白濁完全掛け流し薬湯・極上福島牛と地酒名宿",
+              desc: "11月から12月にかけて、奥羽三高湯の筆頭「高湯温泉」の白濁硫黄泉と土湯温泉のこけし情緒…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-yamagata-hijiori-onsen-heavy-snow-toji-yamagata-beef-stay',
+              title: "開湯1200年の豪雪秘湯カルデラ＆朝市情緒・極上山形牛と熱々芋煮名宿",
+              desc: "11月から12月にかけて、特別豪雪地帯の大蔵村肘折カルデラに湧く名湯と朝市の温もり…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-aomori-shimofuro-onsen-oma-maguro-ankou-tsugaru-stay',
+              title: "津軽海峡冬景色＆名物風間浦あんこう・極重大間マグロと白濁硫黄泉名宿",
+              desc: "11月から12月にかけて、本州最北端の下北半島で味わう生きたまま揚がる幻の鮟鱇と漁火雪見…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-iwate-oshuku-shizukuishi-onsen-koiwai-snow-shizukuishigyu-stay',
+              title: "開湯450年の名湯鶯宿＆小岩井農場雪景色・極上雫石牛と盛岡三大麺名宿",
+              desc: "11月から12月にかけて、岩手山麓に広がる鶯宿温泉の豊富な湯量と小岩井イルミネーション…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-okayama-mimasaka-okutsu-yunogo-onsen-sakushugyu-stay',
+              title: "美作三湯奥津＆湯郷温泉の初冬雪見・吉井川足元湧出湯と津山そずり鍋名宿",
+              desc: "11月から12月にかけて、中国山地の名湯奥津温泉の「鍵湯」美肌ぬる湯と作州牛・そずり鍋…",
+              badge: '11・12月特集'
+            },
+            {
               slug: 'winter-akita-nyuto-onsen-yukimi-kiritanpo-hinaijidori-stay',
               title: "初冬雪見秘湯・乳白色の濁り湯＆本場きりたんぽ鍋と比内地鶏名宿",
               desc: "11月から12月にかけて、十和田八幡平国立公園の乳頭山麓に抱かれた秋田県仙…",
