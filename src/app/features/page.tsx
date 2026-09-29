@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-miyagi-togatta-onsen-zao-snow-sendaigyu-kamonabe-stay',
+              title: "初冠雪の蔵王連峰を望む開湯400年の名湯・最高級A5仙台牛ステーキ＆極上蔵王鴨せり鍋・遠刈田こけしの里名宿",
+              desc: "11月から12月にかけて、白銀の蔵王連峰、茶褐色硫酸塩泉のぬくもり、根っこまで甘い名取せりと蔵王鴨鍋、A5仙台牛…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-fukushima-iwaki-yumoto-onsen-ankou-jobanmono-fukushimagyu-stay',
+              title: "冬の味覚常磐もの寒アンコウ濃厚どぶ汁鍋＆目光唐揚げ・日本三古湯の美肌硫黄泉と極上福島牛名宿",
+              desc: "11月から12月にかけて、東北のハワイ温暖避寒、日本三古湯の硫黄泉、あん肝を煎り煮込む本場寒アンコウどぶ汁と目光…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-chiba-yoro-keikoku-onsen-kuroyu-kazusagyu-jibier-stay',
+              title: "本州一遅い初冬の紅葉ライトアップと美肌黒湯天然温泉・房総かずさ和牛＆天然猪ジビエ鍋名宿",
+              desc: "11月下旬から12月にかけて、燃えるような粟又の滝紅葉、太古の恵み漆黒の美肌黒湯、房総かずさ和牛と天然猪ぼたん鍋…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-shizuoka-minamiizu-shimogamo-onsen-iseebi-kinmedai-stay',
+              title: "温暖な避寒リゾートと湯煙南国情緒・旬の伊勢海老姿造り＆脂が乗った地金目鯛姿煮・水仙まつり名宿",
+              desc: "11月から12月にかけて、冬でも15℃前後の温暖避寒、弓ヶ浜の白砂青松、最盛期の伊勢海老姿造りと地金目鯛姿煮、水仙…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-kumamoto-yamaga-hirayama-onsen-bihada-akagyu-basashi-stay',
+              title: "八千代座の小江戸情緒と極上とろとろ美肌ぬる湯・熊本あか牛溶岩焼き＆極上霜降り馬刺し名宿",
+              desc: "11月から12月にかけて、菊池川の川霧と八千代座の静寂、pH9.8超の奇跡のとろとろ美肌ぬる湯、熊本あか牛と馬刺し…",
+              badge: '11・12月特集'
+            },
+            {
               slug: 'winter-nagano-togura-kamiyamada-onsen-shinshugyu-apple-stay',
               title: "善光寺精進落としの美肌硫黄泉と初冬の味覚・極上信州プレミアム牛＆完熟サンふじ・辛味大根おしぼりうどん名宿",
               desc: "11月から12月にかけて、千曲川の川霧と冠着山の初雪、エメラルドグリーンの単純硫黄泉、信州牛すき焼きとおしぼりうどん…",
