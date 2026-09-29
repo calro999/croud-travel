@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-mie-toba-osaatsu-onsen-seafood-torasawara-matsusaka-stay',
+              title: "現役海女の里相差の大漁舟盛り＆答志島トロさわら・活伊勢海老・的矢牡蠣と松阪牛名宿",
+              desc: "11月から12月にかけて、日本一の海女の町で味わう一本釣り答志島トロさわらと特大舟盛り、石神さん参拝と千鳥ヶ浜の朝日露天…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-nagasaki-obama-onsen-sunset-crab-champon-wagyu-stay',
+              title: "橘湾の茜色落日と熱量日本一105℃源泉＆冬ワタリガニ・小浜ちゃんぽん・雲仙あかね牛名宿",
+              desc: "11月から12月にかけて、日本一長い105m足湯と橘湾夕陽露天、内子たっぷり冬ワタリガニと地獄蒸し、濃厚小浜ちゃんぽん…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-gifu-nagaragawa-onsen-gihujo-hidagyu-ayu-stay',
+              title: "金華山と岐阜城の初冬静寂＆含鉄美肌の黄金赤湯と最高峰A5飛騨牛・冬の子持ち鮎名宿",
+              desc: "11月から12月にかけて、黄金色の濁り湯含鉄泉と岐阜城ライトアップ、A5飛騨牛すき焼きと卵ぎっしり冬の子持ち鮎甘露煮…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-chiba-minamiboso-tateyama-chikura-ocean-iseebi-stay',
+              title: "海越しに望む冠雪富士と温暖避寒の海辺温泉＆房州伊勢海老・地魚舟盛り・かずさ和牛名宿",
+              desc: "11月から12月にかけて、鏡ヶ浦越しに夕暮れの紅富士パノラマ、解禁房州伊勢海老と定置網直送地魚舟盛り、温暖な海辺リゾート…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-shimane-yunotsu-onsen-iwamiginzan-nodoguro-wagyu-stay',
+              title: "世界遺産石見銀山の港町・開湯1300年薬師湯オール5自噴赤湯＆極上のどぐろ・しまね和牛名宿",
+              desc: "11月から12月にかけて、重要伝統的建造物群保存地区の木造街並み、奇跡の自然湧出濃厚赤湯、脂の乗ったのどぐろとしまね和牛…",
+              badge: '11・12月特集'
+            },
+            {
               slug: 'winter-gunma-houshi-sarugakyo-onsen-snow-joshu-beef-stay',
               title: "三国峠の秘湯雪景色＆足元湧出「法師乃湯」と極上面上州牛すき焼き名宿",
               desc: "11月から12月にかけて、文豪が愛した国登録有形文化財の玉石敷き足元自噴湯と赤谷湖の初冬絶景、上州牛すき焼きと自家製豆富懐石…",

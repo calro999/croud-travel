@@ -309,6 +309,7 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【熊本県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/704): アークホテル熊本城前　－ルートインホテルズ－（熊本県）
 - [【おすすめ宿】筑後川温泉　清乃屋の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/78128): 筑後川温泉　清乃屋（熊本県）
 - [【愛媛県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/134904): 一本松温泉あけぼの荘（愛媛県）
 - [【おすすめ宿】赤目温泉　山の湯　湯元赤目　山水園の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/7624): 赤目温泉　山の湯　湯元赤目　山水園（三重県）
@@ -358,4 +359,3 @@
 - [【沖縄県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/191586): 与那国島ホテル　むんぶステイ　空港前＜与那国島＞（沖縄県）
 - [【おすすめ宿】ホテルＳＵＩ浜松の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/182766): ホテルＳＵＩ浜松（静岡県）
 - [【熊本県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/130151): 植木温泉　和風旅館　鷹の家（熊本県）
-- [【おすすめ宿】湯野温泉　紫水園の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/5625): 湯野温泉　紫水園（山口県）
