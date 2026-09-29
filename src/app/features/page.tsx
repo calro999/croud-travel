@@ -110,6 +110,66 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-yamanashi-shimobe-onsen-minobu-koshu-beef-stay',
+              title: "武田信玄公の隠し湯ぬる湯治＆初冬富士山・極上甲州牛と名物ほうとう名宿",
+              desc: "11月から12月にかけて、戦国武将・武田信玄公ゆかりの自噴30度ぬる湯とあつ湯の交互浴、身延山久遠寺…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-ishikawa-awazu-onsen-kanogani-notogyu-kaga-stay',
+              title: "開湯1300年霊峰白山古湯＆解禁加能ガニ・香箱ガニと極上能登牛名宿",
+              desc: "11月から12月にかけて、全宿自家堀り源泉の純度100%硫酸塩泉と日本海ズワイガニの王者・能登牛…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-akita-yuze-onsen-towada-kiritanpo-hinaijidori-stay',
+              title: "日本三大美人の湯米代川雪渓谷＆発祥本場きりたんぽ鍋と比内地鶏名宿",
+              desc: "11月から12月にかけて、pH9超のアルカリ性単純温泉の雪見露天と新米あきたこまち・比内地鶏黄金出汁…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-fukushima-bandaiatami-onsen-hagihime-fukushimagyu-stay',
+              title: "萩姫伝説の美肌ぬる湯＆初冬猪苗代湖の白鳥・極上福島牛と郡山名物鯉料理名宿",
+              desc: "11月から12月にかけて、郡山の奥座敷に湧くpH9の美肌霊泉と猪苗代湖に舞う何千羽もの白鳥の群れ…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-nagano-kakeyu-onsen-toji-soba-shinshugyu-stay',
+              title: "文殊菩薩の霊泉雪見露天＆名物信州投じ蕎麦と極上信州プレミアム牛名宿",
+              desc: "11月から12月にかけて、国民保養温泉地の名湯と屋根付き五台橋の雪景色、熱々出汁をくぐらせる投じ蕎麦…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-yamanashi-shimobe-onsen-minobu-koshu-beef-stay',
+              title: "武田信玄公の隠し湯ぬる湯治＆初冬富士山・極上甲州牛と名物ほうとう名宿",
+              desc: "11月から12月にかけて、戦国武将・武田信玄公ゆかりの自噴30度ぬる湯とあつ湯の交互浴、身延山久遠寺…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-ishikawa-awazu-onsen-kanogani-notogyu-kaga-stay',
+              title: "開湯1300年霊峰白山古湯＆解禁加能ガニ・香箱ガニと極上能登牛名宿",
+              desc: "11月から12月にかけて、全宿自家堀り源泉の純度100%硫酸塩泉と日本海ズワイガニの王者・能登牛…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-akita-yuze-onsen-towada-kiritanpo-hinaijidori-stay',
+              title: "日本三大美人の湯米代川雪渓谷＆発祥本場きりたんぽ鍋と比内地鶏名宿",
+              desc: "11月から12月にかけて、pH9超のアルカリ性単純温泉の雪見露天と新米あきたこまち・比内地鶏黄金出汁…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-fukushima-bandaiatami-onsen-hagihime-fukushimagyu-stay',
+              title: "萩姫伝説の美肌ぬる湯＆初冬猪苗代湖の白鳥・極上福島牛と郡山名物鯉料理名宿",
+              desc: "11月から12月にかけて、郡山の奥座敷に湧くpH9の美肌霊泉と猪苗代湖に舞う何千羽もの白鳥の群れ…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-nagano-kakeyu-onsen-toji-soba-shinshugyu-stay',
+              title: "文殊菩薩の霊泉雪見露天＆名物信州投じ蕎麦と極上信州プレミアム牛名宿",
+              desc: "11月から12月にかけて、国民保養温泉地の名湯と屋根付き五台橋の雪景色、熱々出汁をくぐらせる投じ蕎麦…",
+              badge: '11・12月特集'
+            },
+            {
               slug: 'winter-fukushima-takayu-tsuchiyu-onsen-yukimi-fukushimagyu-stay',
               title: "吾妻連峰の雪見露天＆白濁完全掛け流し薬湯・極上福島牛と地酒名宿",
               desc: "11月から12月にかけて、奥羽三高湯の筆頭「高湯温泉」の白濁硫黄泉と土湯温泉のこけし情緒…",
