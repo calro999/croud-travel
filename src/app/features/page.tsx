@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-gunma-houshi-sarugakyo-onsen-snow-joshu-beef-stay',
+              title: "三国峠の秘湯雪景色＆足元湧出「法師乃湯」と極上面上州牛すき焼き名宿",
+              desc: "11月から12月にかけて、文豪が愛した国登録有形文化財の玉石敷き足元自噴湯と赤谷湖の初冬絶景、上州牛すき焼きと自家製豆富懐石…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-iwate-hanamaki-minami-namari-osawa-snow-stay',
+              title: "白銀の豊沢渓谷と日本一深い自噴立ち湯＆宮沢賢治ゆかりの前沢牛・白金豚名宿",
+              desc: "11月から12月にかけて、水深1.25mの立ち湯「白猿の湯」と川面一体の雪見露天、南部鉄鍋で味わう極上前沢牛と花巻名物白金豚…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-yamagata-shirabu-onsen-snow-yonezawa-beef-stay',
+              title: "西吾妻山の豪雪秘湯と開湯700年名物湯滝＆最高峰A5米沢牛すき焼き名宿",
+              desc: "11月から12月にかけて、毎分1500L注ぐ名物打たせ湯と茅葺き屋根の歴史宿、日本三大和牛の頂点に立つ米沢牛すき焼きと山形芋煮…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-oita-sujiyu-onsen-kuju-snow-bungo-beef-stay',
+              title: "標高1000mくじゅう連山初冬の霧氷雪景色＆打たせ湯日本一と極上豊後牛名宿",
+              desc: "11月から12月にかけて、18筋の湯が落ちるうたせ大浴場と小松地獄の湯けむり、おおいた豊後牛すき焼きと九重夢ポーク出汁しゃぶ…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-kumamoto-tsuetate-waita-onsen-steaming-higogyu-stay',
+              title: "初冬に立ち上る湯けむりと元祖むし湯＆名物地獄蒸しと極上肥後あか牛名宿",
+              desc: "11月から12月にかけて、開湯1800年の天然サウナ「むし湯」と川沿いに噴き出す湯けむり、肥後あか牛ステーキと名物杖立プリン…",
+              badge: '11・12月特集'
+            },
+            {
               slug: 'winter-iwate-hachimantai-matsukawa-onsen-snow-maesawagyu-stay',
               title: "白銀の樹氷と乳白色雪見秘湯＆南部鉄器で味わう極上前沢牛すき焼き名宿",
               desc: "11月から12月にかけて、八幡平のブナ原生林と松川渓谷に湧く青みがかった自噴乳白色硫黄泉、伝統の南部鉄鍋で香ばしく仕上げる前沢牛…",
