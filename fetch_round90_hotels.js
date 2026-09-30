@@ -4,82 +4,117 @@ const path = require('path');
 
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
-const furusatoConfigs = [
+const targets = [
   {
-    slug: 'furusato-tax-gero-onsen-bihada-luxury-stay',
+    theme: 'wakayama_kawayu_yunomine',
+    label: '和歌山・熊野本宮 川湯温泉＆湯の峰温泉（冬の風物詩・大塔川仙人風呂オープンと世界遺産つぼ湯・熊野牛会席＆名物温泉粥）',
     queries: [
-      { key: 'gero_suimeikan', query: '下呂温泉 水明館', label: '下呂市ふるさと納税・創業九十余年！野天風呂・展望大浴場・檜風呂の三大大浴場と飛騨牛懐石' },
-      { key: 'gero_bosenkan', query: '下呂温泉 望川館', label: '下呂市ふるさと納税・飛騨川を望む一千 وم坪の日本庭園＆大露天風呂！美肌の湯と飛騨牛味覚' },
-      { key: 'gero_yunoshimakan', query: '下呂温泉 湯之島館', label: '下呂市ふるさと納税・国登録有形文化財！昭和六年の木造建築美と五万坪の森林に佇む秘湯名門' }
+      '川湯温泉　冨士屋',
+      '川湯温泉　山水館　川湯みどりや',
+      '旅館あづまや　＜和歌山県＞',
+      '湯の峰温泉　　湯の峯荘',
+      'わたらせ温泉　ホテルささゆり'
     ]
   },
   {
-    slug: 'furusato-tax-kinugawa-nikko-world-heritage-stay',
+    theme: 'akita_oyasukyo_akinomiya',
+    label: '秋田・湯沢市 小安峡温泉＆秋の宮温泉郷（白い湯煙の大噴湯と渓谷初雪・秋田最古の湯・極上皆瀬牛ステーキ＆本場三関せり鍋・稲庭うどん）',
     queries: [
-      { key: 'nikko_senhime', query: '日光温泉 日光千姫物語', label: '日光市ふるさと納税・日光東照宮徒歩10分！女性に優しい美肌温泉と懐石料理' },
-      { key: 'nikko_kanaya', query: '日光金谷ホテル', label: '日光市ふるさと納税・日本最古のリゾートホテル！アインシュタイン逗留のクラシック洋館と伝統フレンチ' },
-      { key: 'nikko_honbou', query: '奥日光ホテル四季彩', label: '日光市ふるさと納税・中禅寺湖畔の乳白色硫黄泉！奥日光の豊かな原生林を望む絶景露天風呂' }
+      '秋の宮温泉郷　湯けむりの宿　稲住温泉（共立リゾート）',
+      '小安峡温泉　旅館　多郎兵衛',
+      '小安峡温泉　湯の宿　元湯くらぶ',
+      '秋の宮温泉郷　鷹の湯温泉',
+      '小安峡温泉のお宿　秋仙'
     ]
   },
   {
-    slug: 'furusato-tax-yamagata-zao-onsen-okama-stay',
+    theme: 'saga_furuyu_kumanokawa',
+    label: '佐賀・富士町 古湯温泉＆熊の川温泉（ぬる湯の聖地・嘉瀬川渓谷美と温冷交互浴・極上佐賀牛すき焼き＆三瀬鶏炭火焼き・斎藤茂吉ゆかり）',
     queries: [
-      { key: 'zao_kokusai', query: '蔵王温泉 蔵王国際ホテル', label: '山形市ふるさと納税・丸太造りの源泉100％かけ流し「八右衛門の湯」！乳白色の強酸性硫黄泉と山形牛' },
-      { key: 'zao_shiki', query: '蔵王温泉 蔵王四季のホテル', label: '山形市ふるさと納税・百松河原に佇む離れ湯「白金の湯」！乳白色のにごり湯露天風呂と郷土会席' },
-      { key: 'zao_takamiya', query: '深山荘 高見屋', label: '山形市ふるさと納税・創業三百年！蔵王随一の歴史を誇る純和風木造数寄屋造りと自家源泉かけ流し' }
+      '古湯温泉　ＯＮＣＲＩ　／　おんくり',
+      '古湯温泉　旅館　大和屋',
+      '古湯温泉　旅館　杉乃家',
+      '古湯温泉　鶴の恩返し　よみがえりの宿　鶴霊泉',
+      '古湯温泉　扇屋'
     ]
   },
   {
-    slug: 'furusato-tax-nasu-highland-onsen-resort-stay',
+    theme: 'gunma_oigami',
+    label: '群馬・沼田 老神温泉＆吹割の滝（赤城山北麓・初冬の片品渓谷美と美肌単純硫黄泉・極上上州牛すき焼き＆上州麦豚・手打ち十割蕎麦）',
     queries: [
-      { key: 'nasu_epicurean', query: 'ホテルエピナール那須', label: '那須町ふるさと納税・那須高原最大級リゾート！大型温泉大浴場露天風呂と豪華バイキング' },
-      { key: 'nasu_sansui', query: '那須温泉 山楽', label: '那須町ふるさと納税・大正十二年創業・昭和天皇ゆかりの格式！自家源泉大露天風呂ととちぎ和牛会席' },
-      { key: 'nasu_garden', query: 'ロイヤルホテル 那須', label: '那須町ふるさと納税・那須高原の雄大な自然を一望！露天風呂とファミリー満足度No.1ビュッフェ' }
+      '群馬県・老神温泉　仙郷',
+      '老神温泉　吟松亭　あわしま',
+      '老神温泉　源泉湯の宿　紫翠亭',
+      '老神温泉　伍楼閣',
+      '老神温泉　源泉かけ流しの宿　金龍園'
+    ]
+  },
+  {
+    theme: 'shizuoka_umegashima',
+    label: '静岡・オクシズ 梅ヶ島温泉郷（駿府の隠し湯・南アルプス前衛峰の静寂と開湯1700年超濃厚とろとろ硫黄泉・駿河軍鶏鍋＆しずおか和牛・本わさび）',
+    queries: [
+      'いにしえの宿　梅ヶ島温泉泉屋旅館',
+      '梅ヶ島温泉　清香旅館',
+      '梅ヶ島温泉ホテル　梅薫楼（ばいくんろう）',
+      '梅ヶ島温泉　おもいでの宿　湯の島館',
+      '梅ヶ島温泉　旅館いちかわ'
     ]
   }
 ];
 
 async function main() {
-  const allSeasonalPath = path.join(__dirname, 'src/data/all_seasonal_rakuten_hotels.json');
-  let allSeasonal = {};
-  if (fs.existsSync(allSeasonalPath)) {
-    try {
-      allSeasonal = JSON.parse(fs.readFileSync(allSeasonalPath, 'utf8'));
-    } catch (e) {
-      console.error('Failed to parse all_seasonal_rakuten_hotels.json', e);
-    }
-  }
+  console.log('================================================================');
+  console.log('Fetching Rakuten Hotels for Round 90 via Official Rakuten API');
+  console.log('================================================================');
 
-  for (const page of furusatoConfigs) {
-    console.log(`\n================ Processing page: ${page.slug} ================`);
-    if (!allSeasonal[page.slug]) {
-      allSeasonal[page.slug] = {};
-    }
+  const result = {};
 
-    for (const q of page.queries) {
-      console.log(`Fetching query: "${q.query}" (${q.label}) ...`);
+  for (const t of targets) {
+    console.log(`\n--- Fetching Theme: ${t.label} (${t.theme}) ---`);
+    const themeHotels = [];
+    const usedHotelNos = new Set();
+
+    for (const q of t.queries) {
+      if (themeHotels.length >= 5) break;
+      console.log(`Query: "${q}"...`);
       try {
-        const results = await searchRakutenHotels(q.query, 1);
-        if (results && results.length > 0) {
-          const hotel = results[0];
-          console.log(` -> Found: [${hotel.hotelNo}] ${hotel.hotelName} (Rating: ${hotel.reviewAverage}, Reviews: ${hotel.reviewCount})`);
-          allSeasonal[page.slug][q.key] = {
-            ...hotel,
-            searchQuery: q.query,
-            curatorLabel: q.label
-          };
+        const hotels = await searchRakutenHotels(q, 3);
+        await sleep(1300); // 楽天APIレートリミット対策
+        if (hotels && hotels.length > 0) {
+          let selected = null;
+          for (const h of hotels) {
+            if (!usedHotelNos.has(h.hotelNo)) {
+              selected = h;
+              break;
+            }
+          }
+          if (selected) {
+            usedHotelNos.add(selected.hotelNo);
+            themeHotels.push(selected);
+            console.log(`  -> Success: ${selected.hotelName} (No: ${selected.hotelNo}, Rating: ${selected.reviewAverage}, Price: ¥${selected.hotelMinCharge})`);
+          } else {
+            console.warn(`  -> All results duplicate for "${q}"`);
+          }
         } else {
-          console.warn(` -> No hotels found for query: "${q.query}"`);
+          console.warn(`  -> No match for "${q}"`);
         }
       } catch (err) {
-        console.error(` -> Error searching for "${q.query}":`, err.message);
+        console.error(`  -> Error querying "${q}":`, err.message);
       }
-      await sleep(2200);
     }
+
+    result[t.theme] = themeHotels;
+    console.log(`Finished theme ${t.theme}: total ${themeHotels.length} hotels obtained.`);
   }
 
-  fs.writeFileSync(allSeasonalPath, JSON.stringify(allSeasonal, null, 2), 'utf8');
-  console.log('\nSuccessfully saved Round 90 hotel data to src/data/all_seasonal_rakuten_hotels.json');
+  const outputPath = path.join(__dirname, 'round90_raw_hotels.json');
+  fs.writeFileSync(outputPath, JSON.stringify(result, null, 2), 'utf8');
+  console.log(`\n================================================================`);
+  console.log(`Successfully saved refined hotel data to ${outputPath}`);
+  console.log(`================================================================`);
 }
 
-main().catch(console.error);
+main().catch(err => {
+  console.error('Fatal execution error:', err);
+  process.exit(1);
+});

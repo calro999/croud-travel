@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-wakayama-kawayu-yunomine-onsen-senninburo-kumanogyu-stay',
+              title: "冬の風物詩・大塔川仙人風呂オープンと世界遺産つぼ湯・熊野牛会席＆名物温泉粥・熊野三山を巡る名宿",
+              desc: "11月から12月にかけて、12月1日開湯の大塔川仙人風呂、世界遺産つぼ湯の白濁硫黄泉、極上熊野牛すき焼きと源泉名物温泉粥…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-akita-oyasukyo-akinomiya-onsen-minasegyu-seri-stay',
+              title: "白い湯煙の大噴湯と渓谷初雪・秋田最古の湯・極上皆瀬牛ステーキ＆本場三関せり鍋・稲庭うどん名宿",
+              desc: "11月から12月にかけて、轟音響く小安峡大噴湯の白煙、開湯1200年秋の宮の静寂、根っこまで甘い本場三関セリ鍋と皆瀬牛…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-saga-furuyu-kumanokawa-onsen-nuruyu-sagagyu-stay',
+              title: "ぬる湯の聖地・嘉瀬川渓谷美と温冷交互浴・極上佐賀牛すき焼き＆三瀬鶏炭火焼き・斎藤茂吉ゆかりの名宿",
+              desc: "11月から12月にかけて、体温同等の38℃ぬる湯と加温湯の温冷交互浴、pH9.5超の極上美肌泉、最高級佐賀牛と三瀬鶏…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-gunma-oigami-onsen-fukiware-joshugyu-soba-stay',
+              title: "赤城山北麓・初冬の片品渓谷美と美肌単純硫黄泉・極上上州牛すき焼き＆上州麦豚・手打ち十割蕎麦名宿",
+              desc: "11月から12月にかけて、片品川の深い渓谷美、東洋のナイアガラ吹割の滝、肌に優しい単純硫黄泉、極上上州牛と手打ち十割蕎麦…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-shizuoka-umegashima-onsen-okushizu-surugashamo-stay',
+              title: "駿府の隠し湯・南アルプス前衛峰の静寂と開湯1700年超濃厚とろとろ硫黄泉・駿河軍鶏鍋＆しずおか和牛名宿",
+              desc: "11月から12月にかけて、家康公も愛したpH9.6超のとろとろ美容液硫黄泉、幻の駿河軍鶏鍋、しずおか和牛と有東木本わさび…",
+              badge: '11・12月特集'
+            },
+            {
               slug: 'winter-miyagi-togatta-onsen-zao-snow-sendaigyu-kamonabe-stay',
               title: "初冠雪の蔵王連峰を望む開湯400年の名湯・最高級A5仙台牛ステーキ＆極上蔵王鴨せり鍋・遠刈田こけしの里名宿",
               desc: "11月から12月にかけて、白銀の蔵王連峰、茶褐色硫酸塩泉のぬくもり、根っこまで甘い名取せりと蔵王鴨鍋、A5仙台牛…",
