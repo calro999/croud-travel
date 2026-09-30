@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-aichi-irago-onsen-torafugu-atsumigyu-stay',
+              title: "伊良湖天然とらふぐと新源泉「伊良湖温泉」美肌の湯・極上渥美牛＆伊良湖岬の夕日パノラマを巡る名宿",
+              desc: "11月から12月、遠州灘の荒波が育む伊良湖天然とらふぐの引き締まった旨味と新源泉・伊良湖温泉の温まり美肌湯、渥美牛と岬の冬夕日…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-tochigi-nasu-itamuro-onsen-toji-tochigigyu-stay',
+              title: "開湯1000年「下野の薬湯」板室温泉・名物立ち湯と極上那須黒毛和牛＆初雪の那須連山を望む隠れ宿",
+              desc: "11月中旬から12月、平安開湯の優しい38〜40℃ぬる湯と名物綱の湯立ち湯、最高級那須黒毛和牛と茶臼岳の初雪に包まれる現代湯治…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-shimane-tsuwano-onsen-iwamigyu-jizake-stay',
+              title: "山陰の小京都・津和野の冬情緒と冬の新酒蔵開き・幻の石見牛＆津和野温泉の静謐な湯浴みを堪能する名宿",
+              desc: "11月から12月、白壁土塀の殿町通りに揺れる錦鯉と津和野城跡の朝霧雲海、冬の新酒蔵開きと幻の石見牛、美肌の天然温泉に浸る小京都旅…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-aomori-ajigasawa-fukaura-onsen-hirame-maguro-stay',
+              title: "冬旬「鰺ヶ沢ヒラメ」＆深浦マグロ・太古の化石海水温まり湯と黄金崎不老ふ死温泉を巡る名宿",
+              desc: "11月から12月、白神山地の清流が育む鰺ヶ沢ヒラメのヅケ丼と深浦マグロ、太古の化石海水が湧く温まり湯と海辺の不老ふ死温泉…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-nagano-obuse-shibu-onsen-shinshugyu-apple-stay',
+              title: "小布施の冬栗おこわ＆完熟サンふじ・石畳の渋温泉「九湯めぐり」と信州プレミアム牛を味わう名宿",
+              desc: "11月中旬から12月、北斎ゆかりの小布施で味わう出来立て栗おこわと蜜入りサンふじ、開湯1300年渋温泉の石畳九湯めぐりと信州牛…",
+              badge: '11・12月特集'
+            },
+            {
               slug: 'winter-aomori-owani-hirosaki-onsen-moyashi-tsugarugyu-stay',
               title: "冬限定「大鰐温泉もやし」と開湯800年の名湯・津軽あっぷる牛＆弘前城冬さくらライトアップを巡る名宿",
               desc: "11月中旬から12月、350年受け継がれる冬限定の奇跡「大鰐温泉もやし」と開湯800年の温まり湯、津軽あっぷる牛、弘前城の冬桜…",

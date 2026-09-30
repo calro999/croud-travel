@@ -3,7 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 import { 
   Star, MapPin, CheckCircle2, Sparkles, ShieldCheck, 
-  Calendar, Sun, Utensils, Compass, HelpCircle, ExternalLink, Flame, Clock, Snowflake, Eye, Waves, Trees, Train, Footprints, Landmark, Mountain, Map, Heart, ShoppingBag, Shield
+  Calendar, Sun, Utensils, Compass, HelpCircle, ExternalLink, Flame, Clock, Snowflake, Eye, Waves, Trees, Train, Footprints, Landmark, Mountain, Map, Heart, ShoppingBag, Shield, ThermometerSun
 } from 'lucide-react';
 
 export const metadata: Metadata = {
