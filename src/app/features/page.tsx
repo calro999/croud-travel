@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-aomori-owani-hirosaki-onsen-moyashi-tsugarugyu-stay',
+              title: "冬限定「大鰐温泉もやし」と開湯800年の名湯・津軽あっぷる牛＆弘前城冬さくらライトアップを巡る名宿",
+              desc: "11月中旬から12月、350年受け継がれる冬限定の奇跡「大鰐温泉もやし」と開湯800年の温まり湯、津軽あっぷる牛、弘前城の冬桜…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-mie-sakakibara-onsen-akame-igagyu-bihada-stay',
+              title: "枕草子三名泉「七栗の湯」の極上美肌ぬる湯・最高峰伊賀牛すき焼き＆初冬の赤目四十八滝を巡る名宿",
+              desc: "11月から12月にかけて、清少納言絶賛のpH9.4超とろとろ美肌生源泉、31℃ぬる湯温冷交互浴、幻の最高峰伊賀牛と赤目渓谷竹あかり…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-tottori-iwai-onsen-matsubagani-tottoriwagyu-stay',
+              title: "11月解禁の本場鳥取松葉ガニと山陰最古1300年の名湯「湯かむり」・鳥取和牛＆世界ジオパーク浦富海岸を巡る名宿",
+              desc: "11月6日解禁の獲れたて本場鳥取松葉ガニフルコース、奈良時代開湯の山陰最古湯かむり温泉、口どけ鳥取和牛オレイン55と浦富海岸…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-oita-yunohira-onsen-ishidatami-bungogyu-kamonabe-stay',
+              title: "300個の赤提灯揺れる江戸石畳と名湯五大共同浴場・極上豊後牛＆冬の滋味合鴨鍋を味わう名宿",
+              desc: "11月から12月、夕暮れに300個の赤提灯が灯る江戸石畳の坂道、鎌倉開湯の胃腸の名湯五大共同浴場、おおいた和牛と冬の合鴨鍋…",
+              badge: '11・12月特集'
+            },
+            {
+              slug: 'winter-kumamoto-kikuchi-onsen-bihada-akagyu-pork-stay',
+              title: "日本の名湯百選「化粧の湯」の極上とろみ泉・初冬の菊池渓谷美＆熊本あか牛ステーキ＆名水ポークを堪能する名宿",
+              desc: "11月から12月、pH9.0超の天然美容液のような極上とろみ源泉100%かけ流し、初冬の菊池渓谷清流美、熊本あか牛と名水ポーク…",
+              badge: '11・12月特集'
+            },
+            {
               slug: 'winter-wakayama-kawayu-yunomine-onsen-senninburo-kumanogyu-stay',
               title: "冬の風物詩・大塔川仙人風呂オープンと世界遺産つぼ湯・熊野牛会席＆名物温泉粥・熊野三山を巡る名宿",
               desc: "11月から12月にかけて、12月1日開湯の大塔川仙人風呂、世界遺産つぼ湯の白濁硫黄泉、極上熊野牛すき焼きと源泉名物温泉粥…",
