@@ -4,82 +4,153 @@ const path = require('path');
 
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
-const furusatoConfigs = [
+const targets = [
   {
-    slug: 'furusato-tax-hakone-sengokuhara-pampas-luxury-stay',
+    theme: 'toyama_amaharashi_shinminato',
+    slug: 'winter-toyama-amaharashi-shinminato-tateyama-crab-stay',
+    label: '富山・雨晴海岸＆新湊（冬の富山湾越しの白銀立山連峰3000m・新湊「昼セリ」極上本ズワイガニ・寒ブリ・白えび・富山湾鮨）',
     queries: [
-      { key: 'sengokuhara_kitanokaze', query: 'きたの風茶寮', label: '箱根町ふるさと納税・全室露天風呂付きの高級オーベルジュ！北海道と箱根の美食懐石' },
-      { key: 'sengokuhara_senkyoro', query: '仙郷楼', label: '箱根町ふるさと納税・創業明治三年の老舗旅館！大涌谷源泉100％白濁のにごり湯と広大な日本庭園' },
-      { key: 'sengokuhara_kanade', query: '箱根仙石原温泉 森のあかり', label: '箱根町ふるさと納税・静寂の森に佇む全室半露天風呂付き隠れ宿！創作和食会席とプライベート湯浴み' }
+      '雨晴温泉　磯はなび',
+      'リバーリトリート雅樂倶',
+      'ホテルニューオータニ高岡',
+      '天然温泉　富山　剱の湯　御宿　野乃',
+      '第一イン新湊'
     ]
   },
   {
-    slug: 'furusato-tax-ikaho-stone-steps-retro-luxury-stay',
+    theme: 'ishikawa_kanazawa_yuwaku',
+    slug: 'winter-ishikawa-kanazawa-yuwaku-onsen-koubako-crab-stay',
+    label: '石川・金沢 湯涌温泉＆兼六園（白銀の兼六園雪吊りライトアップ・奥金沢「湯涌温泉」の静寂湯・冬限定の極上「香箱ガニ」＆加能ガニ・治部煮）',
     queries: [
-      { key: 'ikaho_fukuichi', query: '伊香保温泉 福一', label: '渋川市ふるさと納税・創業四百四十余年の老舗名門！黄金の湯と白銀の湯の二大名湯を愉しむ石段街最上段の宿' },
-      { key: 'ikaho_kogure', query: '伊香保温泉 ホテル木暮', label: '渋川市ふるさと納税・毎分1000リットル以上を誇る北関東最大級の湯処「子の湯千両」！黄金の湯の極み' },
-      { key: 'ikaho_kishigon', query: '伊香保温泉 岸権旅館', label: '渋川市ふるさと納税・天正四年創業の石段街沿いの名門！創業以来引き継ぐ掛け流しの名湯黄金の湯' }
+      '金沢湯涌温泉　百楽荘',
+      '湯涌温泉　お宿　やました',
+      '湯涌温泉　かなや',
+      '湯涌温泉　湯の出旅館',
+      '金沢辰巳亭'
     ]
   },
   {
-    slug: 'furusato-tax-yufuin-kinrinko-luxury-villa-stay',
+    theme: 'gifu_hida_takayama',
+    slug: 'winter-gifu-hida-takayama-onsen-snow-beef-stay',
+    label: '岐阜・飛騨高山温泉（白銀に染まる古い町並み雪景色・名物飛騨牛にぎり＆すき焼き・冬限定「新酒しぼりたて地酒蔵めぐり」と雪見温泉）',
     queries: [
-      { key: 'yufuin_sanso_murata', query: '由布院 旅亭 田乃倉', label: '由布市ふるさと納税・金鱗湖まで徒歩1分の純和風旅館！全室源泉掛け流し風呂と四季の本格懐石' },
-      { key: 'yufuin_kamenoi', query: '由布院 亀の井別荘', label: '由布市ふるさと納税・大正十年創業・一万坪の敷地に点在する離れ宿！由布院三名宿の極上ステイ' },
-      { key: 'yufuin_yufusan', query: 'ゆふいん月燈庵', label: '由布市ふるさと納税・由布岳を望む雑木林に佇む全室離れ客室露天風呂付き！築三百年古民家の隠れ家' }
+      '本陣平野屋　花兆庵',
+      '本陣平野屋　別亭',
+      '飛騨亭　花扇',
+      '高山グリーンホテル',
+      '宝生閣'
     ]
   },
   {
-    slug: 'furusato-tax-akiu-onsen-sendai-retreat-stay',
+    theme: 'fukuoka_itoshima_hakata',
+    slug: 'winter-fukuoka-itoshima-oyster-hakata-fugu-stay',
+    label: '福岡・糸島＆博多（冬の風物詩「糸島カキ小屋めぐり」・玄界灘の天然とらふぐ・熱々博多もつ鍋＆水炊きと博多湾・玄界灘絶景ホテル＆温泉）',
     queries: [
-      { key: 'akiu_sakan', query: '伝承千年の宿 佐勘', label: '仙台市ふるさと納税・伊達政宗公の湯守を務めた創業千年！名取川を望む名物露天風呂と仙台牛会席' },
-      { key: 'akiu_rantei', query: '秋保温泉 篝火の湯 緑水亭', label: '仙台市ふるさと納税・広大な日本庭園と夜を彩る篝火露天風呂！宮城の山海の味覚と絶景ステイ' },
-      { key: 'akiu_hotel_new_mitoya', query: '秋保温泉 ホテルニュー水戸屋', label: '仙台市ふるさと納税・十六種類もの多彩なお風呂を湯巡り！名取川渓谷沿いの大型温泉リゾート' }
+      'ヒルトン福岡シーホーク',
+      '都ホテル　博多',
+      'ＴＨＥ　ＬＵＩＧＡＮＳ　Ｓｐａ＆Ｒｅｓｏｒｔ',
+      'ホテルマリノアリゾート福岡',
+      '天然温泉　袖湊の湯　ドーミーインＰＲＥＭＩＵＭ博多・キャナルシティ前'
+    ]
+  },
+  {
+    theme: 'hokkaido_tomamu_furano',
+    slug: 'winter-hokkaido-tomamu-furano-ice-village-wagyu-stay',
+    label: '北海道・トマム＆富良野（白銀のパウダースノー・氷の街「アイスヴィレッジ」＆霧氷テラス・極上富良野和牛とふらのチーズフォンデュ）',
+    queries: [
+      '星野リゾート　トマム　ザ・タワー',
+      '星野リゾート　リゾナーレトマム',
+      '新富良野プリンスホテル',
+      '天然温泉　紫雲の湯　ラビスタ富良野ヒルズ',
+      '富良野ナチュラクスホテル'
     ]
   }
 ];
 
 async function main() {
-  const allSeasonalPath = path.join(__dirname, 'src/data/all_seasonal_rakuten_hotels.json');
-  let allSeasonal = {};
-  if (fs.existsSync(allSeasonalPath)) {
-    try {
-      allSeasonal = JSON.parse(fs.readFileSync(allSeasonalPath, 'utf8'));
-    } catch (e) {
-      console.error('Failed to parse all_seasonal_rakuten_hotels.json', e);
-    }
-  }
+  console.log('================================================================');
+  console.log('Fetching Rakuten Hotels for Round 95 via Official Rakuten API');
+  console.log('================================================================');
 
-  for (const page of furusatoConfigs) {
-    console.log(`\n================ Processing page: ${page.slug} ================`);
-    if (!allSeasonal[page.slug]) {
-      allSeasonal[page.slug] = {};
-    }
+  const result = {};
 
-    for (const q of page.queries) {
-      console.log(`Fetching query: "${q.query}" (${q.label}) ...`);
+  for (const t of targets) {
+    console.log(`\n--- Fetching Theme: ${t.label} (${t.theme}) ---`);
+    const themeHotels = [];
+    const usedHotelNos = new Set();
+
+    for (const q of t.queries) {
+      if (themeHotels.length >= 5) break;
+      console.log(`Query: "${q}"...`);
       try {
-        const results = await searchRakutenHotels(q.query, 1);
-        if (results && results.length > 0) {
-          const hotel = results[0];
-          console.log(` -> Found: [${hotel.hotelNo}] ${hotel.hotelName} (Rating: ${hotel.reviewAverage}, Reviews: ${hotel.reviewCount})`);
-          allSeasonal[page.slug][q.key] = {
-            ...hotel,
-            searchQuery: q.query,
-            curatorLabel: q.label
-          };
+        const hotels = await searchRakutenHotels(q, 3);
+        await sleep(1300); // 楽天APIレートリミット対策
+        if (hotels && hotels.length > 0) {
+          let selected = null;
+          for (const h of hotels) {
+            if (!usedHotelNos.has(h.hotelNo)) {
+              selected = h;
+              break;
+            }
+          }
+          if (selected) {
+            usedHotelNos.add(selected.hotelNo);
+            themeHotels.push(selected);
+            console.log(`  -> Success: ${selected.hotelName} (No: ${selected.hotelNo}, Rating: ${selected.reviewAverage}, Price: ¥${selected.hotelMinCharge})`);
+          } else {
+            console.warn(`  -> All results duplicate for "${q}"`);
+          }
         } else {
-          console.warn(` -> No hotels found for query: "${q.query}"`);
+          console.warn(`  -> No match for "${q}"`);
         }
       } catch (err) {
-        console.error(` -> Error searching for "${q.query}":`, err.message);
+        console.error(`  -> Error fetching "${q}":`, err.message);
       }
-      await sleep(2200);
     }
+
+    // 5件に満たない場合の広域検索
+    if (themeHotels.length < 5) {
+      console.log(`Theme ${t.theme} has only ${themeHotels.length} hotels, performing broad search...`);
+      const broadQueries = {
+        toyama_amaharashi_shinminato: ['高岡 温泉 ホテル', '富山 温泉 ホテル', '新湊 ホテル', '氷見 温泉'],
+        ishikawa_kanazawa_yuwaku: ['湯涌温泉', '金沢 温泉 旅館', '金沢 兼六園 ホテル', '金沢 旅館'],
+        gifu_hida_takayama: ['飛騨高山 温泉 旅館', '高山 旅館', '飛騨高山 ホテル'],
+        fukuoka_itoshima_hakata: ['糸島 ホテル', '博多 温泉 ホテル', '福岡 リゾート ホテル'],
+        hokkaido_tomamu_furano: ['富良野 温泉 ホテル', 'トマム リゾート', '南富良野 ホテル', '富良野 リゾート']
+      };
+
+      for (const bq of broadQueries[t.theme] || []) {
+        if (themeHotels.length >= 5) break;
+        console.log(`Broad Query: "${bq}"...`);
+        try {
+          const hotels = await searchRakutenHotels(bq, 5);
+          await sleep(1300);
+          if (hotels && hotels.length > 0) {
+            for (const h of hotels) {
+              if (themeHotels.length >= 5) break;
+              if (!usedHotelNos.has(h.hotelNo)) {
+                usedHotelNos.add(h.hotelNo);
+                themeHotels.push(h);
+                console.log(`  -> Broad Success: ${h.hotelName} (No: ${h.hotelNo})`);
+              }
+            }
+          }
+        } catch (err) {
+          console.error(`  -> Error broad fetching "${bq}":`, err.message);
+        }
+      }
+    }
+
+    result[t.theme] = {
+      label: t.label,
+      slug: t.slug,
+      hotels: themeHotels
+    };
   }
 
-  fs.writeFileSync(allSeasonalPath, JSON.stringify(allSeasonal, null, 2), 'utf8');
-  console.log('\nSuccessfully saved Round 95 hotel data to src/data/all_seasonal_rakuten_hotels.json');
+  const outPath = path.join(__dirname, 'round95_raw_hotels.json');
+  fs.writeFileSync(outPath, JSON.stringify(result, null, 2), 'utf8');
+  console.log(`\nSaved Round 95 hotel data to ${outPath}`);
 }
 
 main().catch(console.error);

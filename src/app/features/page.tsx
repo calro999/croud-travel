@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-toyama-amaharashi-shinminato-tateyama-crab-stay',
+              title: "雨晴海岸の冠雪立山連峰奇跡絶景と新湊昼セリ極上本ズワイガニ・寒ブリ・富山湾鮨を堪能する名宿",
+              desc: "11月から1月、海上に浮かぶ白銀の立山連峰3000mと早朝の気嵐、新湊漁港13時の昼セリで紅く染まる本ズワイガニ、寒ブリ…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-ishikawa-kanazawa-yuwaku-onsen-koubako-crab-stay',
+              title: "兼六園雪吊りと奥金沢「湯涌温泉」の静寂湯・冬限定の幻「香箱ガニ」＆加能ガニ・治部煮を味わう名宿",
+              desc: "11月から1月、幾何学美の兼六園雪吊りと雪化粧の茶屋街、11月6日解禁のわずか2ヶ月しか味わえない香箱ガニの内子外子…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-gifu-hida-takayama-onsen-snow-beef-stay',
+              title: "白銀の古い町並み雪景色と飛騨高山温泉・極上A5飛騨牛すき焼き＆冬限定「しぼりたて新酒」酒蔵めぐりの名宿",
+              desc: "11月から1月、雪化粧した古い町並みと朱塗りの中橋、青い杉玉揺れる老舗酒蔵のしぼりたて新酒利き酒、とろけるA5飛騨牛…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-fukuoka-itoshima-oyster-hakata-fugu-stay',
+              title: "冬の糸島カキ小屋めぐりと玄界灘の天然とらふぐ・熱々博多もつ鍋＆水炊き・海を望むリゾート＆温泉名宿",
+              desc: "11月から1月、岐志や船越の漁港に並ぶ糸島カキ小屋で香ばしい焼きカキ、玄界灘の天然とらふぐ、博多駅前62万球イルミ…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-hokkaido-tomamu-furano-ice-village-wagyu-stay',
+              title: "氷の街トマム「アイスヴィレッジ」と白銀の富良野・極上富良野和牛＆濃厚ふらのチーズフォンデュの冬リゾート名宿",
+              desc: "11月下旬から1月、氷点下30度の青い氷の教会や氷のBar、標高1088m霧氷テラス、富良野ニングルテラスと極上和牛…",
+              badge: '11・12・1月特集'
+            },
+            {
               slug: 'winter-iwate-sanriku-kotatsu-train-kaisen-stay',
               title: "三陸鉄道こたつ列車の冬絶景と浄土ヶ浜雪景色・名物瓶ドン＆極上三陸あわび・毛ガニを味わう名宿",
               desc: "11月から1月、三陸鉄道こたつ列車の旅情と白亜の流紋岩が雪化粧する名勝浄土ヶ浜、名物瓶ドンとあわび踊り焼き、冬の三陸毛ガニ…",
