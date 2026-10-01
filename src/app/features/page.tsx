@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-okayama-hinase-ushimado-oyster-kakioko-stay',
+              title: "瀬戸内冬の味覚「日生牡蠣（ひなせかき）」と名物カキオコ・牛窓オリーブ園夕陽＆日本のエーゲ海リゾート名宿",
+              desc: "11月から1月、播磨灘が育む大粒で縮まない日生牡蠣と鉄板で焼くカキオコ、牛窓オリーブ園の茜色サンセット…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-kochi-city-tosa-kue-katsuo-akagyu-castle-stay',
+              title: "冬の幻の高級魚「天然クエ鍋」と脂の乗る戻り鰹・土佐あかうし＆高知城冬ライトアップ・桂浜初日の出の天然温泉宿",
+              desc: "11月から1月、黒潮がもたらす天然クエちり鍋、藁焼き戻り鰹塩タタキ、現存天守高知城ライトアップとひろめ市場…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-okinawa-onna-motobu-whalewatching-agu-resort-stay',
+              title: "冬の楽園リゾート！12月開幕ホエールウォッチングと美ら海水族館・あぐー豚しゃぶしゃぶ＆恩納村スパ名宿",
+              desc: "11月から1月、平均20℃の快適な避寒、遭遇率98%のザトウクジラ観察、あぐー豚出汁しゃぶしゃぶともとぶ牛…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-chiba-choshi-inubosaki-sunrise-kinmedai-hamaguri-stay',
+              title: "本州一早い初日の出「犬吠埼」と冬の極上「銚子つりきんめ」・九十九里焼きはまぐり鍋＆太平洋パノラマ犬吠埼温泉宿",
+              desc: "11月から1月、太平洋の水平線から昇る元旦の初日の出、一本釣りの極上銚子つりきんめ姿煮、九十九里の天然地蛤…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-shiga-omihachiman-hikone-snow-castle-omigyu-stay',
+              title: "近江八幡水郷雪景色＆国宝・彦根城雪化粧と日本三大和牛「近江牛すき焼き」＆冬の琵琶湖名物・湖畔の絶景名宿",
+              desc: "11月から1月、白銀に染まる国宝彦根城天守、八幡堀の冬の静寂とこたつ舟、400年の歴史を誇る近江牛のすき焼き…",
+              badge: '11・12・1月特集'
+            },
+            {
               slug: 'winter-yamagata-shonai-kandara-atsumi-yunohama-stay',
               title: "庄内名物「寒鱈汁（どんがら汁）」と極上白子・寒ブリ・出羽三山雪景色＆名湯あつみ・湯野浜温泉の名宿",
               desc: "11月から1月、真鱈を丸ごと味噌で豪快に煮込む寒鱈汁と熱々の白子、雪化粧の出羽三山羽黒山五重塔、日本海雪見露天…",
