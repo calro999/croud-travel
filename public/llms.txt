@@ -309,6 +309,12 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【おすすめ宿】瀬戸大橋温泉　やま幸の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/27827): 瀬戸大橋温泉　やま幸（岡山県）
+- [【兵庫県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/146832): 久美浜温泉　湯元館（兵庫県）
+- [【おすすめ宿】リーガロイヤルホテル新居浜の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/110): リーガロイヤルホテル新居浜（愛媛県）
+- [【高知県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/107685): 中津渓谷　ゆの森（高知県）
+- [【おすすめ宿】小山グランドホテルの魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/3113): 小山グランドホテル（栃木県）
+- [【大分県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/10673): ホテルクドウ大分（大分県）
 - [【おすすめ宿】蔵王温泉　ＫＫＲ蔵王　白銀荘（国家公務員共済組合連合会蔵王保養所）の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/40164): 蔵王温泉　ＫＫＲ蔵王　白銀荘（国家公務員共済組合連合会蔵王保養所）（山形県）
 - [【福井県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/37366): ＪＡＭ福井勝山東急ホテル＆リゾーツ（旧：東急リゾートホテルハーヴェストスキージャム勝山）（福井県）
 - [【おすすめ宿】ホテル　タウン錦川の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/18153): ホテル　タウン錦川（高知県）
@@ -353,9 +359,3 @@
 - [【おすすめ宿】養老渓谷温泉郷　温泉旅館　川の家の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/84819): 養老渓谷温泉郷　温泉旅館　川の家（千葉県）
 - [【鳥取県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/8242): ホテル東伯イン（鳥取県）
 - [【おすすめ宿】ホテル　リッチガーデンの魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/40210): ホテル　リッチガーデン（島根県）
-- [【富山県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/18218): ホテルリラックスイン富山（富山県）
-- [【おすすめ宿】エクセレントゴルフクラブ　一志温泉コースの魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/130692): エクセレントゴルフクラブ　一志温泉コース（栃木県）
-- [【富山県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/153205): ゲストハウス縁～えにし～　＜富山県＞（富山県）
-- [【おすすめ宿】二日市温泉　大丸別荘の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/38630): 二日市温泉　大丸別荘（福岡県）
-- [【福島県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/149344): ホテル双葉邸（福島県）
-- [【おすすめ宿】伊東温泉　伊東園ホテル松川館の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/78235): 伊東温泉　伊東園ホテル松川館（静岡県）

@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-iwate-sanriku-kotatsu-train-kaisen-stay',
+              title: "三陸鉄道こたつ列車の冬絶景と浄土ヶ浜雪景色・名物瓶ドン＆極上三陸あわび・毛ガニを味わう名宿",
+              desc: "11月から1月、三陸鉄道こたつ列車の旅情と白亜の流紋岩が雪化粧する名勝浄土ヶ浜、名物瓶ドンとあわび踊り焼き、冬の三陸毛ガニ…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-akita-moriyoshi-ani-snow-monster-matagi-stay',
+              title: "日本三大樹氷・森吉山スノーモンスターと秋田内陸線雪景色・比内地鶏きりたんぽ鍋＆マタギ秘湯を巡る名宿",
+              desc: "11月から1月、日本三大樹氷・森吉山の巨大スノーモンスター、雪景色の秋田内陸線、本場比内地鶏きりたんぽ鍋と打当温泉マタギ秘湯…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-niigata-sado-island-kanburi-crab-snow-stay',
+              title: "冬の王者「佐渡寒ブリ」と活本ズワイガニ・雪化粧の佐渡金山＆日本海絶景の佐渡温泉を堪能する名宿",
+              desc: "11月から1月、佐渡寒ブリ宣言発令で脂が乗る天然寒ブリと本ズワイガニ、雪の世界文化遺産佐渡金山、源泉かけ流しの佐渡温泉…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-nara-dorogawa-onsen-snow-botannabe-stay',
+              title: "雪化粧の提灯灯る木造行者宿・大峯山麓洞川温泉の名物ぼたん鍋＆名水とうふ・極上大和牛を味わう隠れ宿",
+              desc: "11月から1月、標高820mの白銀行者宿街に灯る赤提灯、名水ごろごろ水仕込みの天然猪肉ぼたん鍋と名水豆腐、大和牛を味わう冬籠もり…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-kyoto-kifune-kurama-snow-lightup-botannabe-stay',
+              title: "白銀の貴船神社・積雪日限定ライトアップと冬の京都奥座敷・極上天然猪肉ぼたん鍋＆京都牛を愉しむ静寂の名宿",
+              desc: "11月から1月、朱色の春日灯籠と白雪が輝く貴船神社積雪ライトアップ、静寂の京都奥座敷で味わう丹波天然猪ぼたん鍋と京都牛会席…",
+              badge: '11・12・1月特集'
+            },
+            {
               slug: 'winter-yamagata-hijiori-onsen-snow-yamagatagyu-toji-stay',
               title: "豪雪の奇跡・開湯1200年肘折温泉の黄金湯治と名物納豆汁＆極上山形牛・肘折幻想雪回廊を巡る名宿",
               desc: "11月から1月、出羽三山の麓・大蔵村肘折温泉は日本屈指の豪雪と木造三層の楼閣、黄金色の自家源泉、名物納豆汁と山形牛、雪回廊…",
