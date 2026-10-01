@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-ibaraki-oarai-nakaminato-ankou-sunrise-stay',
+              title: "大洗磯前神社「神磯の鳥居」初日の出と冬の極上「大洗あんこう鍋（どぶ汁）」・那珂湊おさかな市場買い出し＆太平洋一望の名宿",
+              desc: "11月から1月、太平洋の荒波打つ神磯の鳥居から昇る真紅の初日の出、水を加えずあん肝だけで煮込む元祖どぶ汁、那珂湊市場の年末活気…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-yamanashi-yamanakako-oshino-diamond-fuji-houtou-stay',
+              title: "冬の澄天に輝く「ダイヤモンド富士」と雪化粧の忍野八海・熱々「甲州ほうとう鍋」＆富士山を望む絶景温泉宿",
+              desc: "11月から1月、夕暮れの富士山頂に太陽が重なる奇跡のダイヤモンド富士、朝日に輝く紅富士、忍野八海のエメラルド湧水池と熱々ほうとう…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-nagano-kisoji-narai-tsumago-snow-toujisoba-stay',
+              title: "中山道・木曽路の雪化粧宿場町（奈良井宿・妻籠宿）と冬の郷土味覚「投じ蕎麦・すんき鍋」・木曽牛＆木曽御嶽山麓の雪見温泉宿",
+              desc: "11月から1月、奈良井千軒や妻籠宿の千本格子に降り積もる純白の雪、竹籠にくぐらせる熱々の名物投じ蕎麦、無塩植物性乳酸菌のすんき鍋…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-kyoto-ine-funaya-ineburi-shabu-miyazu-stay',
+              title: "雪化粧の伊根湾「伊根の舟屋」と日本三大寒ブリ「伊根ブリしゃぶしゃぶ」・海の京都宮津温泉＆冬の天橋立雪景色名宿",
+              desc: "11月から1月、海に浮かぶ約230軒の舟屋群がまとう雪の水墨画風景、脂の乗った極上寒ブリのしゃぶしゃぶ、雪の飛龍観天橋立と美肌温泉…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-nagasaki-sasebo-kujukushima-oyster-illumination-stay',
+              title: "冬の味覚「九十九島かき」焼き牡蠣小屋と世界最大イルミ「ハウステンボス光の王国」・佐世保名物＆九十九島温泉リゾート宿",
+              desc: "11月から1月、濃厚ミルキーな旨味が凝縮した九十九島かきの炭火焼き、世界最大1300万球の白銀イルミネーション、元祖レモンステーキ…",
+              badge: '11・12・1月特集'
+            },
+            {
               slug: 'winter-okayama-hinase-ushimado-oyster-kakioko-stay',
               title: "瀬戸内冬の味覚「日生牡蠣（ひなせかき）」と名物カキオコ・牛窓オリーブ園夕陽＆日本のエーゲ海リゾート名宿",
               desc: "11月から1月、播磨灘が育む大粒で縮まない日生牡蠣と鉄板で焼くカキオコ、牛窓オリーブ園の茜色サンセット…",
