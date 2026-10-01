@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-yamagata-shonai-kandara-atsumi-yunohama-stay',
+              title: "庄内名物「寒鱈汁（どんがら汁）」と極上白子・寒ブリ・出羽三山雪景色＆名湯あつみ・湯野浜温泉の名宿",
+              desc: "11月から1月、真鱈を丸ごと味噌で豪快に煮込む寒鱈汁と熱々の白子、雪化粧の出羽三山羽黒山五重塔、日本海雪見露天…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-fukui-wakasa-fugu-tsuruga-echizen-crab-stay',
+              title: "冬の若狭湾「若狭ふぐ」てっさ・てっちり＆敦賀港越前がに・三方五湖寒うなぎ・海絶景温泉を満喫する名宿",
+              desc: "11月から1月、日本海最北の冷水で締まる若狭ふぐ、敦賀港越前がに、レインボーライン三方五湖パノラマと気比神宮初詣…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-hiroshima-miyajima-etajima-oyster-onsen-stay',
+              title: "冬の瀬戸内「広島牡蠣」焼き牡蠣・土手鍋＆世界遺産・宮島厳島神社の初詣・江田島温泉を巡る名宿",
+              desc: "11月から1月、濃厚ミルキーな広島牡蠣、朱塗りが蘇った厳島神社大鳥居の初詣、宮島穴子めしと江田島オリーブ温泉…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-shizuoka-hamanako-kanzanji-torafugu-unagi-stay',
+              title: "冬限定「遠州灘天然とらふぐ」＆脂の乗る冬の浜名湖うなぎ・牡蠣カバ丼・三ヶ日みかん風呂とレイクビュー名宿",
+              desc: "11月から1月、舞阪港直送の天然とらふぐ、冬眠前の寒うなぎ蒲焼き、本物みかんが浮かぶ三ヶ日みかん風呂と冠雪富士山…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-hokkaido-shiretoko-abashiri-onsen-crab-kinki-stay',
+              title: "知床ウトロ＆網走の冬絶景とオホーツク海鮮・極上知床牛＆冬タラバ・毛ガニ・高級魚めんめ湯煮を堪能する名宿",
+              desc: "11月から1月、世界自然遺産知床連峰の白銀美、深海の赤い宝石めんめ湯煮、オホーツク活毛ガニ、海を望む流氷サウナ…",
+              badge: '11・12・1月特集'
+            },
+            {
               slug: 'winter-toyama-amaharashi-shinminato-tateyama-crab-stay',
               title: "雨晴海岸の冠雪立山連峰奇跡絶景と新湊昼セリ極上本ズワイガニ・寒ブリ・富山湾鮨を堪能する名宿",
               desc: "11月から1月、海上に浮かぶ白銀の立山連峰3000mと早朝の気嵐、新湊漁港13時の昼セリで紅く染まる本ズワイガニ、寒ブリ…",
