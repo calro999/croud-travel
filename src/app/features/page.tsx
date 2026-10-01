@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-yamagata-hijiori-onsen-snow-yamagatagyu-toji-stay',
+              title: "豪雪の奇跡・開湯1200年肘折温泉の黄金湯治と名物納豆汁＆極上山形牛・肘折幻想雪回廊を巡る名宿",
+              desc: "11月から1月、出羽三山の麓・大蔵村肘折温泉は日本屈指の豪雪と木造三層の楼閣、黄金色の自家源泉、名物納豆汁と山形牛、雪回廊…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-nagano-hirugami-onsen-starry-sky-shinshugyu-stay',
+              title: "日本一の星空ナイトツアーとpH9.7強アルカリ美肌の湯・極上南信州牛＆信州サーモンを味わう名宿",
+              desc: "11月から1月、環境省認定星空日本一の阿智村で澄み切った満天の冬星空と、pH9.7のトロトロ強アルカリ美肌湯、霜降り南信州牛…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-tochigi-yunishigawa-onsen-kamakura-irori-stay',
+              title: "平家落人の隠れ里・湯西川温泉の雪見露天風呂と名物平家囲炉裏会席＆日本夜景遺産かまくら祭を巡る名宿",
+              desc: "11月から1月、日光の最奥・平家落人伝説の里で初雪の渓谷美、炭火で焼く岩魚やばんだい餅の囲炉裏会席、夜景遺産かまくら祭…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-shizuoka-nishiizu-toi-onsen-sunset-kinmedai-stay',
+              title: "西伊豆・土肥温泉の黄金夕日富士と極上寒金目鯛姿煮＆伊勢海老・日本一早咲きの土肥桜露天を巡る名宿",
+              desc: "11月から1月、駿河湾越しの夕日富士パノラマと、1月中旬満開の日本一早咲き土肥桜、脂が乗った寒金目鯛姿煮と伊勢海老の饗宴…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-nagasaki-unzen-onsen-jigoku-muhyo-unzen-beef-stay',
+              title: "立ち上る雲仙地獄の白煙と冬の奇跡「霧氷」・極上雲仙牛＆島原名物具雑煮を堪能する雲仙温泉名宿",
+              desc: "11月から1月、標高700mの雲仙地獄の大迫力白煙と、仁田峠を純白に染める冬の霧氷花ぼうろ、濃厚な乳白色硫黄泉と極上雲仙牛…",
+              badge: '11・12・1月特集'
+            },
+            {
               slug: 'winter-aichi-irago-onsen-torafugu-atsumigyu-stay',
               title: "伊良湖天然とらふぐと新源泉「伊良湖温泉」美肌の湯・極上渥美牛＆伊良湖岬の夕日パノラマを巡る名宿",
               desc: "11月から12月、遠州灘の荒波が育む伊良湖天然とらふぐの引き締まった旨味と新源泉・伊良湖温泉の温まり美肌湯、渥美牛と岬の冬夕日…",
