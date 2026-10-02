@@ -4,69 +4,168 @@ const path = require('path');
 
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
-const furusatoConfigs = [
+const targets = [
   {
-    slug: 'furusato-tax-niseko-luxury-resort-powder-snow-stay',
+    theme: 'tochigi_nikko_toshogu',
+    slug: 'winter-tochigi-nikko-toshogu-hatsumode-yuba-onsen-stay',
+    label: '栃木・日光東照宮＆日光温泉（世界遺産日光東照宮冬初詣・杉並木雪景色＆名物「日光湯波会席」・とちぎ和牛・渓谷露天風呂名宿）',
     queries: [
-      { key: 'niseko_parkhyatt', query: 'パークハイアットニセコＨＡＮＡＺＯＮＯ', label: '倶知安町ふるさと納税・世界最高峰のパウダースノー直結！全室天然温泉付きラグジュアリーリゾート' },
-      { key: 'niseko_setsuniseko', query: '雪ニセコ', label: '倶知安町ふるさと納税・羊蹄山ビューと上質な温泉ウェルネス！ミシュラン星付き監修ダイニング' },
-      { key: 'niseko_zaborin', query: '坐忘林', label: '倶知安町ふるさと納税・白樺林に佇む珠玉の隠れ宿！全客室に内湯と露天の２つの源泉かけ流し風呂' }
+      '日光千姫物語',
+      '日光金谷ホテル',
+      '日光 星の宿',
+      '小槌の宿 鶴亀大吉',
+      '日光西町倶楽部',
+      '日光温泉 ホテル',
+      '日光 旅館'
     ]
   },
   {
-    slug: 'furusato-tax-otaru-canal-asarigawa-onsen-stay',
+    theme: 'chiba_naritasan_sawara',
+    slug: 'winter-chiba-naritasan-shinshoji-hatsumode-unagi-sawara-stay',
+    label: '千葉・成田山新勝寺＆佐原小江戸（初詣全国屈指・成田山新勝寺開運祈願＆表参道老舗うなぎ・北総小江戸佐原の重伝建雪風情名宿）',
     queries: [
-      { key: 'otaru_furukawa', query: '運河の宿　おたる　ふる川', label: '小樽市ふるさと納税・小樽運河が目の前！明治の商家風情と自家源泉の天然温泉・朝食バイキング' },
-      { key: 'otaru_kourakuen', query: 'おたる　宏楽園', label: '小樽市ふるさと納税・広大な日本庭園に囲まれた名宿！自家源泉の露天風呂付き客室と北海道の旬会席' },
-      { key: 'otaru_ginrinsou', query: '料亭湯宿　銀鱗荘', label: '小樽市ふるさと納税・平磯岬の高台に佇む北の迎賓館！石狩湾を一望する絶景露天風呂と鰊御殿会席' }
+      '和空 成田山門前',
+      '成田山門前 旅館 若松本店',
+      'アートホテル成田',
+      '佐原商家町ホテル ＮＩＰＰＯＮＩＡ',
+      'ヒルトン成田',
+      'ホテルマイステイズプレミア成田',
+      '成田 温泉 ホテル'
     ]
   },
   {
-    slug: 'furusato-tax-kamakura-shonan-ocean-history-stay',
+    theme: 'nara_hasedera_oomiwa',
+    slug: 'winter-nara-hasedera-winter-peony-oomiwa-yamatogyu-stay',
+    label: '奈良・長谷寺＆大神神社・橿原神宮（冬牡丹の藁囲い・大和路の静謐な祈りと日本最古神社初詣＆極上大和牛すき焼き・吉野葛名宿）',
     queries: [
-      { key: 'kamakura_prince', query: '鎌倉プリンスホテル', label: '鎌倉市ふるさと納税・全室オーシャンビュー！相模湾と江の島・富士山を望む七里ヶ浜の絶景リゾート' },
-      { key: 'kamakura_hotelao', query: 'ＨＯＴＥＬ　ＡＯ　ＫＡＭＡＫＵＲＡ', label: '鎌倉市ふるさと納税・腰越の海を望むデザイナーズホテル！名店「松原庵」の本格蕎麦と極上滞在' },
-      { key: 'kamakura_metropolitan', query: 'ホテルメトロポリタン鎌倉', label: '鎌倉市ふるさと納税・若宮大路沿いの好立地！鶴岡八幡宮の参道を望む洗練の和モダンステイ' }
+      '長谷寺 井谷屋',
+      'THE KASHIHARA',
+      '多武峰観光ホテル',
+      'カンデオホテルズ 奈良橿原',
+      'ホテルニューわかむら',
+      '奈良 橿原 ホテル',
+      '桜井市 ホテル'
     ]
   },
   {
-    slug: 'furusato-tax-miyajima-itsukushima-shrine-luxury-stay',
+    theme: 'shimane_adachi_saginoyu',
+    slug: 'winter-shimane-adachi-museum-snow-garden-saginoyu-wagyu-stay',
+    label: '島根・足立美術館＆さぎの湯温泉・安来（米誌20年連続日本一の日本庭園「足立美術館」白銀の山水画雪景色＆白鷺伝説の美肌泉・しまね和牛と松葉ガニ名宿）',
     queries: [
-      { key: 'miyajima_kinsuikan', query: '宮島潮湯温泉　錦水館', label: '廿日市市ふるさと納税・世界遺産厳島神社へ徒歩すぐ！宮島唯一の天然潮湯温泉と絶景スイート' },
-      { key: 'miyajima_iwaso', query: 'みやじまの宿　岩惣', label: '廿日市市ふるさと納税・安政元年創業の老舗名旅館！もみじ谷の原生林と若宮温泉に憩う伝統の離れ' },
-      { key: 'miyajima_arimoto', query: '宮島グランドホテル　有もと', label: '廿日市市ふるさと納税・厳島神社まで徒歩３分の好立地！創業三百余年の歴史と瀬戸内の旬会席' }
+      'さぎの湯荘',
+      '安来苑',
+      '竹葉 足立美術館',
+      '皆生シーサイドホテル',
+      'ホテルアクシス',
+      '安来 ホテル',
+      '松江しんじ湖温泉 ホテル'
+    ]
+  },
+  {
+    theme: 'fukuoka_dazaifu_futsukaichi',
+    slug: 'winter-fukuoka-dazaifu-tenmangu-hatsumode-futsukaichi-beef-stay',
+    label: '福岡・太宰府天満宮＆二日市温泉（学問の神様・合格祈願＆新春200万人初詣・名物梅ヶ枝餅＆万葉集の古湯二日市温泉・博多和牛名宿）',
+    queries: [
+      '大丸別荘',
+      '二日市温泉 大正亭',
+      '二日市温泉 清風荘',
+      'ＨＯＴＥＬ ＣＵＬＴＩＡ 太宰府',
+      'グランティア太宰府',
+      '二日市温泉 旅館',
+      '太宰府 ホテル'
     ]
   }
 ];
 
-async function run() {
+async function main() {
+  console.log('================================================================');
+  console.log('Fetching Rakuten Hotels for Round 104 via Official Rakuten API');
+  console.log('================================================================');
+
   const result = {};
 
-  for (const config of furusatoConfigs) {
-    result[config.slug] = {};
-    for (const q of config.queries) {
-      console.log(`Fetching: ${q.query}...`);
-      await sleep(1500);
+  for (const t of targets) {
+    console.log(`\n--- Fetching Theme: ${t.label} (${t.theme}) ---`);
+    const themeHotels = [];
+    const usedHotelNos = new Set();
+
+    for (const q of t.queries) {
+      if (themeHotels.length >= 5) break;
+      console.log(`Query: "${q}"...`);
       try {
-        const hotels = await searchRakutenHotels(q.query, 1);
+        const hotels = await searchRakutenHotels(q, 3);
+        await sleep(1300); // 楽天APIレートリミット対策
         if (hotels && hotels.length > 0) {
-          result[config.slug][q.key] = {
-            ...hotels[0],
-            customLabel: q.label
-          };
-          console.log(`-> SUCCESS: ${hotels[0].hotelName} (No: ${hotels[0].hotelNo})`);
+          let selected = null;
+          for (const h of hotels) {
+            if (!usedHotelNos.has(h.hotelNo)) {
+              selected = h;
+              break;
+            }
+          }
+          if (selected) {
+            usedHotelNos.add(selected.hotelNo);
+            themeHotels.push(selected);
+            console.log(`  -> Selected: [${selected.hotelNo}] ${selected.hotelName} (Rating: ${selected.reviewAverage}, MinCharge: ${selected.hotelMinCharge})`);
+          } else {
+            console.log(`  -> All hotels from query "${q}" were already selected.`);
+          }
         } else {
-          console.warn(`-> NOT FOUND: ${q.query}`);
+          console.log(`  -> No hotels found for "${q}".`);
         }
       } catch (err) {
-        console.error(`-> ERROR fetching ${q.query}:`, err.message);
+        console.error(`Error querying "${q}":`, err.message);
       }
     }
+
+    // 5件に満たない場合のフォールバック
+    if (themeHotels.length < 5) {
+      console.log(`Need more hotels for ${t.theme} (currently ${themeHotels.length}), doing broader search...`);
+      const fallbackQueries = {
+        tochigi_nikko_toshogu: ['日光 ホテル', '日光 旅館', '鬼怒川温泉 ホテル', '中禅寺湖 ホテル'],
+        chiba_naritasan_sawara: ['成田駅 ホテル', '成田空港 ホテル', '佐原 ホテル', '成田市 ホテル'],
+        nara_hasedera_oomiwa: ['橿原神宮 ホテル', '奈良 桜井 ホテル', '大和八木 ホテル', '吉野 旅館'],
+        shimane_adachi_saginoyu: ['安来 ホテル', '米子駅 ホテル', '松江 旅館', '玉造温泉 ホテル'],
+        fukuoka_dazaifu_futsukaichi: ['太宰府 ホテル', '二日市 ホテル', '筑紫野 ホテル', '福岡 南区 ホテル']
+      };
+
+      const broadList = fallbackQueries[t.theme] || [];
+      for (const bq of broadList) {
+        if (themeHotels.length >= 5) break;
+        console.log(`Broad Query: "${bq}"...`);
+        try {
+          const hotels = await searchRakutenHotels(bq, 5);
+          await sleep(1300);
+          if (hotels && hotels.length > 0) {
+            for (const h of hotels) {
+              if (themeHotels.length >= 5) break;
+              if (!usedHotelNos.has(h.hotelNo)) {
+                usedHotelNos.add(h.hotelNo);
+                themeHotels.push(h);
+                console.log(`  -> Added: [${h.hotelNo}] ${h.hotelName}`);
+              }
+            }
+          }
+        } catch (err) {
+          console.error(`Error on broad query "${bq}":`, err.message);
+        }
+      }
+    }
+
+    result[t.theme] = {
+      slug: t.slug,
+      label: t.label,
+      hotels: themeHotels
+    };
+    console.log(`Total hotels fetched for ${t.theme}: ${themeHotels.length}`);
   }
 
-  const outputPath = path.join(__dirname, 'round104_hotels.json');
-  fs.writeFileSync(outputPath, JSON.stringify(result, null, 2), 'utf8');
-  console.log(`Finished! Saved to ${outputPath}`);
+  const outPath = path.join(__dirname, 'round104_raw_hotels.json');
+  fs.writeFileSync(outPath, JSON.stringify(result, null, 2), 'utf8');
+  console.log(`\nSuccessfully saved raw hotel data to ${outPath}`);
 }
 
-run();
+main().catch((err) => {
+  console.error('Fatal fetch error:', err);
+  process.exit(1);
+});

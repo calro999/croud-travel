@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-tochigi-nikko-toshogu-hatsumode-yuba-onsen-stay',
+              title: "世界遺産・日光東照宮の静謐な冬参拝＆新春初詣と名物「日光湯波会席」・とちぎ和牛の名宿",
+              desc: "11月から1月、白銀に映える国宝陽明門と静寂の杉並木古道。新春の東照宮・二荒山神社初詣、二重仕立てで肉厚ジューシーな名物「日光湯波」、とろける霜降り「とちぎ和牛」…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-chiba-naritasan-shinshoji-hatsumode-unagi-sawara-stay',
+              title: "成田山新勝寺の新春初詣＆表参道名物うなぎと北総小江戸・佐原の重伝建風情を巡る名宿",
+              desc: "300万人が集う日本屈指の新春初詣スポット成田山新勝寺。迫力の大本堂御護摩祈祷、表参道の老舗が焼く香ばしい江戸前うなぎ蒲焼、水郷佐原のこたつ舟と重伝建古民家…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-nara-hasedera-winter-peony-oomiwa-yamatogyu-stay',
+              title: "花の御寺・長谷寺の「冬牡丹（寒牡丹）」と日本最古の三輪山・大神神社初詣＆極上大和牛の名宿",
+              desc: "藁囲いに守られ雪中に咲く可憐な冬牡丹と長谷寺399段の登廊。三輪山をご神体とする日本最古の神社「大神神社」と橿原神宮初詣、熱々三輪にゅうめんと大和牛すき焼き…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-shimane-adachi-museum-snow-garden-saginoyu-wagyu-stay',
+              title: "米誌20年連続日本一・足立美術館「白銀の日本庭園」雪景色とさぎの湯温泉・極上しまね和牛＆松葉ガニの名宿",
+              desc: "5万坪の枯山水庭園が一面の白銀に染まる冬の絶景。額縁越しに眺める生の山水画、白鷺伝説の美肌名湯「さぎの湯温泉」、冬の日本海が誇る本場松葉ガニと極上しまね和牛…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-fukuoka-dazaifu-tenmangu-hatsumode-futsukaichi-beef-stay',
+              title: "学問の神様・太宰府天満宮の合格祈願＆新春200万人初詣と名物「梅ヶ枝餅」・万葉の古湯二日市温泉と博多和牛の名宿",
+              desc: "受験合格祈願と200万人が訪れる新春初詣。話題の仮殿と早咲きの御神木「飛梅」、参道で頬張る出来立て熱々の梅ヶ枝餅、開湯1300年の万葉名湯「二日市温泉」と博多和牛…",
+              badge: '11・12・1月特集'
+            },
+            {
               slug: 'winter-miyagi-kesennuma-minamisanriku-mekajiki-ikuradon-stay',
               title: "冬の三陸の至宝・極上戻りメカジキ「冬木廻」＆南三陸キラキラいくら丼と気仙沼深層天然温泉の名宿",
               desc: "11月から1月、脂乗り最高潮の気仙沼冬メカジキ「冬木廻」と南三陸キラキラいくら丼。フカヒレ姿煮、唐桑半島の荒波絶景、身体の芯まで温まる深層天然温泉…",
