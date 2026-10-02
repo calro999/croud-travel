@@ -4,80 +4,125 @@ const path = require('path');
 
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
-const furusatoConfigs = [
+const targets = [
   {
-    slug: 'furusato-tax-tsukioka-onsen-emerald-bihada-stay',
+    theme: 'aomori_hachinohe_kabushima',
+    slug: 'winter-aomori-hachinohe-kabushima-ginsaba-senbeijiru-stay',
+    label: '青森・八戸＆蕪島・種差海岸（冬の極上「八戸前沖銀鯖」＆本場「八戸せんべい汁」・八食センター七輪村買い出し＆蕪島神社初詣・太平洋一望の八戸名宿）',
     queries: [
-      { key: 'tsukioka_shiradama', query: '月岡温泉 白玉の湯 華鳳', label: '新発田市ふるさと納税・エメラルドグリーンの含硫黄泉！六千坪の大庭園露天風呂と越後会席' },
-      { key: 'tsukioka_senkei', query: '月岡温泉 白玉の湯 泉慶', label: '新発田市ふるさと納税・自家源泉白玉の湯を引く名門！開放感あふれる岩露天風呂とのどぐろ料理' },
-      { key: 'tsukioka_seifuen', query: '月岡温泉 風鈴屋', label: '新発田市ふるさと納税・庭園露天風呂と硫黄香る美肌湯！越後の美酒と旬菜バイキング' }
+      '天然温泉 南部の湯 ドーミーイン本八戸',
+      'ダイワロイネットホテル八戸',
+      'グランドサンピア八戸',
+      '八戸グランドホテル',
+      'コンフォートホテル八戸',
+      'ホテルルートイン本八戸駅前'
     ]
   },
   {
-    slug: 'furusato-tax-shima-onsen-retro-sekizenkan-stay',
+    theme: 'tochigi_ashikaga_flowerpark',
+    slug: 'winter-tochigi-ashikaga-flowerpark-sano-yakuyoke-stay',
+    label: '栃木・足利＆佐野（日本一の光の祭典「あしかがフラワーパーク光の花の庭」500万球・佐野厄除け大師初詣＆手打ち佐野ラーメン・冬のとちおとめ苺ステイ宿）',
     queries: [
-      { key: 'shima_sekizenkan', query: '四万温泉 積善館', label: '中之条町ふるさと納税・日本最古の木造湯治宿！国の登録有形文化財「元禄の湯」と歴史散歩' },
-      { key: 'shima_kashiwaya', query: '四万温泉 四万やまぐち館', label: '中之条町ふるさと納税・四万川の渓流沿いに佇む名宿！三十帖の巨大露天風呂「お題目大露天風呂」' },
-      { key: 'shima_tamura', query: '四万たむら', label: '中之条町ふるさと納税・創業五百年・七つの源泉を持つ老舗！森に囲まれた野天風呂「森のこだま」' }
+      'カンデオホテルズ佐野',
+      'ニューミヤコホテル足利本館',
+      'ホテルルートイン佐野藤岡インター',
+      'ホテルサンルート佐野',
+      'ホテルルートイン第２足利',
+      'チサンイン佐野藤岡インター'
     ]
   },
   {
-    slug: 'furusato-tax-kaike-onsen-ocean-crab-stay',
+    theme: 'shizuoka_sumatakyo_onsen',
+    slug: 'winter-shizuoka-sumatakyo-onsen-yumenotsuribashi-bijin-jibier-stay',
+    label: '静岡・寸又峡温泉＆大井川（南アルプス秘境「夢の吊橋」冬のコバルトブルー・とろとろ美女づくりの湯＆冬の猪鍋・大井川鐵道名湯宿）',
     queries: [
-      { key: 'kaike_toukouen', query: '皆生温泉 皆生つるや', label: '米子市ふるさと納税・数寄屋造りの名門老舗！日本海を望む塩化物泉と境港直送の松葉ガニ会席' },
-      { key: 'kaike_kasuitei', query: '皆生温泉 華水亭', label: '米子市ふるさと納税・全室オーシャンビュー！日本海と弓ヶ浜を一望する展望露天風呂と鳥取和牛' },
-      { key: 'kaike_shikian', query: '皆生温泉 湯喜望 白扇', label: '米子市ふるさと納税・全室展望ジャグジー・露天風呂付き！白砂青松の海岸線を望む贅沢ステイ' }
+      '寸又峡温泉 翠紅苑',
+      '寸又峡温泉 湯屋飛龍の宿',
+      '川根温泉ホテル',
+      '寸又峡温泉 光山荘',
+      '接岨峡温泉 森林露天風呂の宿 てがら奈',
+      'ペンション さくら 寸又峡'
     ]
   },
   {
-    slug: 'furusato-tax-takeo-onsen-romon-pottery-stay',
+    theme: 'kochi_muroto_daruma',
+    slug: 'winter-kochi-muroto-daruma-sunrise-kinmedai-deepsea-stay',
+    label: '高知・室戸岬＆北川村（太平洋の奇跡「だるま朝日・だるま夕日」と冬の極上「室戸キンメダイ」・御厨人窟初日の出＆海洋深層水リゾート宿）',
     queries: [
-      { key: 'takeo_kyotoya', query: '武雄温泉 京都屋', label: '武雄市ふるさと納税・創業百十余年・大正ロマンのアンティーク宿！自家源泉美肌の湯とクラシックカー' },
-      { key: 'takeo_shunkei', query: '武雄温泉 春慶屋', label: '武雄市ふるさと納税・展望露天風呂から武雄の山並みを一望！名物佐賀牛ステーキと温泉湯豆腐' },
-      { key: 'takeo_onkyuan', query: '武雄温泉 竹林亭', label: '武雄市ふるさと納税・御船山楽園の敷地内に佇む最高峰離れ宿！四季の借景庭園と至極の懐石' }
+      'ホテル明星 室戸',
+      'ホテルなはり',
+      'グランドメルキュール高知土佐',
+      '岬観光ホテル',
+      'リゾートホテル海辺の果樹園',
+      'オーベルジュ土佐山'
+    ]
+  },
+  {
+    theme: 'yamanashi_kiyosato_yatsugatake',
+    slug: 'winter-yamanashi-kiyosato-yatsugatake-starry-sky-winebeef-stay',
+    label: '山梨・清里高原＆八ヶ岳（冬の八ヶ岳ブルーと満天の星空観賞・萌木の村冬景色＆極上「甲州ワインビーフ」・八ヶ岳南麓の高原温泉リゾート宿）',
+    queries: [
+      '清里高原ホテル',
+      '八ヶ岳グレイスホテル',
+      'グランドメルキュール八ヶ岳リゾート＆スパ',
+      '萌木の村 ホテル ハット・ウォールデン',
+      'ロイヤルホテル 八ヶ岳',
+      'ホテル デュプレックス 清里'
     ]
   }
 ];
 
 async function main() {
-  const allSeasonalPath = path.join(__dirname, 'src/data/all_seasonal_rakuten_hotels.json');
-  let allSeasonal = {};
-  if (fs.existsSync(allSeasonalPath)) {
-    try {
-      allSeasonal = JSON.parse(fs.readFileSync(allSeasonalPath, 'utf8'));
-    } catch (e) {
-      console.error('Failed to parse all_seasonal_rakuten_hotels.json', e);
-    }
-  }
+  console.log('================================================================');
+  console.log('Fetching Rakuten Hotels for Round 99 via Official Rakuten API');
+  console.log('================================================================');
 
-  const results = {};
+  const result = {};
 
-  for (const config of furusatoConfigs) {
-    console.log(`\n=== Processing ${config.slug} ===`);
-    results[config.slug] = [];
+  for (const t of targets) {
+    console.log(`\n--- Fetching Theme: ${t.label} (${t.theme}) ---`);
+    const themeHotels = [];
+    const usedHotelNos = new Set();
 
-    for (const q of config.queries) {
-      console.log(`Searching for: ${q.query}...`);
-      const hotels = await searchRakutenHotels(q.query, 1);
-      await sleep(1500);
-
-      if (hotels && hotels.length > 0) {
-        const hotel = hotels[0];
-        console.log(`✓ Found: ${hotel.hotelName} (ID: ${hotel.hotelNo})`);
-        results[config.slug].push({
-          ...q,
-          hotel
-        });
-        allSeasonal[hotel.hotelNo] = hotel;
-      } else {
-        console.log(`✗ Not found: ${q.query}`);
+    for (const q of t.queries) {
+      if (themeHotels.length >= 5) break;
+      console.log(`Query: "${q}"...`);
+      try {
+        const hotels = await searchRakutenHotels(q, 3);
+        await sleep(1300); // 楽天APIレートリミット対策
+        if (hotels && hotels.length > 0) {
+          let selected = null;
+          for (const h of hotels) {
+            if (!usedHotelNos.has(h.hotelNo)) {
+              selected = h;
+              break;
+            }
+          }
+          if (selected) {
+            usedHotelNos.add(selected.hotelNo);
+            themeHotels.push(selected);
+            console.log(`  -> Success: ${selected.hotelName} (No: ${selected.hotelNo}, Rating: ${selected.reviewAverage}, Price: ¥${selected.hotelMinCharge})`);
+          } else {
+            console.warn(`  -> Duplicate or not selected for query: ${q}`);
+          }
+        } else {
+          console.warn(`  -> No results for query: ${q}`);
+        }
+      } catch (err) {
+        console.error(`  -> Error fetching query: ${q}`, err.message);
       }
     }
+
+    result[t.theme] = {
+      label: t.label,
+      slug: t.slug,
+      hotels: themeHotels
+    };
   }
 
-  fs.writeFileSync(allSeasonalPath, JSON.stringify(allSeasonal, null, 2));
-  fs.writeFileSync('round99_hotels.json', JSON.stringify(results, null, 2));
-  console.log('\nFinished fetching hotels for Round 99.');
+  const outputPath = path.join(__dirname, 'round99_raw_hotels.json');
+  fs.writeFileSync(outputPath, JSON.stringify(result, null, 2), 'utf8');
+  console.log(`\nAll done! Saved ${Object.keys(result).length} themes to ${outputPath}`);
 }
 
-main();
+main().catch(console.error);

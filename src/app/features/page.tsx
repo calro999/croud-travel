@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-aomori-hachinohe-kabushima-ginsaba-senbeijiru-stay',
+              title: "八戸前沖銀鯖と本場せんべい汁・八食センター七輪村買い出し＆蕪島神社初詣・太平洋一望の八戸名宿",
+              desc: "11月から1月、日本一脂が乗る八戸前沖銀鯖、南部地鶏出汁の熱々せんべい汁、八食センターの年末年始買い出しと七輪村炭火焼き、金運上昇を願う蕪島神社初詣…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-tochigi-ashikaga-flowerpark-sano-yakuyoke-stay',
+              title: "日本一の光の祭典「あしかがフラワーパーク光の花の庭」・佐野厄除け大師初詣＆手打ち佐野ラーメン・とちおとめ苺ステイ宿",
+              desc: "11月から1月、日本三大イルミネーション第1位の500万球奇蹟の大藤、関東三大師・佐野厄除け大師の新春初詣、青竹手打ち佐野ラーメンと旬のとちあいか苺狩り…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-shizuoka-sumatakyo-onsen-yumenotsuribashi-bijin-jibier-stay',
+              title: "南アルプス秘境「夢の吊橋」冬のコバルトブルー・とろとろ美女づくりの湯＆冬の猪鍋・大井川鐵道名湯宿",
+              desc: "11月から1月、湖水が最も冴え渡るミルキーブルーの夢の吊橋、美容液のような単純硫黄泉「美女づくりの湯」、天然猪肉の熱々味噌鍋、奥大井湖上駅の冬景色…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-kochi-muroto-daruma-sunrise-kinmedai-deepsea-stay',
+              title: "太平洋の奇跡「だるま朝日・だるま夕日」と冬の極上「室戸キンメダイ」・御厨人窟初日の出＆海洋深層水リゾート宿",
+              desc: "11月中旬から1月中旬、黒潮と冷気が織りなす幸運のだるま太陽、空海開眼の聖地・御厨人窟初日の出、深海一本釣りの極上室戸キンメダイ煮付け＆キンメ丼…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-yamanashi-kiyosato-yatsugatake-starry-sky-winebeef-stay',
+              title: "冬の八ヶ岳ブルーと満天の星空観賞・萌木の村冬景色＆極上「甲州ワインビーフ」・八ヶ岳南麓の高原温泉リゾート宿",
+              desc: "11月から1月、晴天率80%超の八ヶ岳ブルー、満天の冬星空観察、雪化粧の萌木の村と薪ストーブの温もり、極上甲州ワインビーフと富士見露天風呂…",
+              badge: '11・12・1月特集'
+            },
+            {
               slug: 'winter-ibaraki-oarai-nakaminato-ankou-sunrise-stay',
               title: "大洗磯前神社「神磯の鳥居」初日の出と冬の極上「大洗あんこう鍋（どぶ汁）」・那珂湊おさかな市場買い出し＆太平洋一望の名宿",
               desc: "11月から1月、太平洋の荒波打つ神磯の鳥居から昇る真紅の初日の出、水を加えずあん肝だけで煮込む元祖どぶ汁、那珂湊市場の年末活気…",
