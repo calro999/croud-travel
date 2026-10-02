@@ -2,8 +2,8 @@ import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
 import { 
-  Star, MapPin, CheckCircle2, Sparkles, 
-  Calendar, Utensils, Compass, HelpCircle, ExternalLink, Snowflake, Waves, Sun, Flame, Mountain, Building, Coffee, ShoppingBag, ThermometerSun
+  Star, MapPin, CheckCircle2, 
+  Calendar, Utensils, Compass, ExternalLink, Snowflake, Flame, Building, ThermometerSun
 } from 'lucide-react';
 
 export const metadata: Metadata = {
@@ -492,7 +492,7 @@ export default function HyogoTanbaSasayamaPage() {
                       rel="noopener noreferrer"
                       className="inline-flex items-center justify-center gap-2 px-6 py-3 rounded-xl bg-gradient-to-r from-rose-600 to-rose-700 hover:from-rose-700 hover:to-rose-800 text-white font-bold text-xs sm:text-sm shadow-md shadow-rose-600/20 hover:shadow-lg transition-all w-full sm:w-auto"
                     >
-                      <span>楽天トラベルでプランと空室を見る</span>
+                      <span>冬の人気宿は早い者勝ち ▶ 空室を確認する</span>
                       <ExternalLink className="w-4 h-4" />
                     </a>
                   </div>
@@ -640,6 +640,23 @@ export default function HyogoTanbaSasayamaPage() {
               </span>
             </Link>
           </div>
+        </section>
+
+        {/* Final CTA Section */}
+        <section className="bg-gradient-to-r from-rose-600 to-rose-700 rounded-3xl p-8 sm:p-12 text-white text-center space-y-4">
+          <h2 className="text-xl sm:text-2xl font-bold font-serif">冬の丹波篠山は11月〜1月の短期決戦</h2>
+          <p className="text-rose-100 text-sm sm:text-base max-w-2xl mx-auto leading-relaxed">
+            天然猪肉の旬は狩猟解禁の11月15日から2月まで。年末年始や週末は名門旅館のぼたん鍋プランが真っ先に埋まります。気になる宿を見つけたら、空室があるうちに日程だけでも押さえておくのが鉄則です。
+          </p>
+          <a
+            href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fhotel%2Flist.html%3Ff_teikei%3Dtmp_kw_rt%26f_area%3D28_kansai%26f_keyword%3D%25E4%25B8%25B9%25E6%25B3%25A2%25E7%25AF%25A0%25E5%25B1%25B1"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center gap-2 px-8 py-4 rounded-xl bg-white text-rose-700 font-bold text-sm sm:text-base shadow-lg hover:shadow-xl hover:bg-rose-50 transition-all"
+          >
+            <span>丹波篠山の宿を楽天トラベルで探す</span>
+            <ExternalLink className="w-5 h-5" />
+          </a>
         </section>
       </main>
     </article>

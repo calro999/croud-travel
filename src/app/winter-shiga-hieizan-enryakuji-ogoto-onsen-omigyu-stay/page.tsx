@@ -2,8 +2,8 @@ import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
 import { 
-  Star, MapPin, CheckCircle2, Sparkles, 
-  Calendar, Utensils, Compass, HelpCircle, ExternalLink, Snowflake, Waves, Sun, Flame, Mountain, Building, Coffee, ShoppingBag, ThermometerSun
+  Star, MapPin, CheckCircle2, 
+  Calendar, Utensils, Compass, ExternalLink, Snowflake, Waves, Flame, Building, ThermometerSun
 } from 'lucide-react';
 
 export const metadata: Metadata = {
@@ -492,7 +492,7 @@ export default function ShigaHieizanOgotoPage() {
                       rel="noopener noreferrer"
                       className="inline-flex items-center justify-center gap-2 px-6 py-3 rounded-xl bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-700 hover:to-amber-800 text-white font-bold text-xs sm:text-sm shadow-md shadow-amber-600/20 hover:shadow-lg transition-all w-full sm:w-auto"
                     >
-                      <span>楽天トラベルでプランと空室を見る</span>
+                      <span>露天風呂付き客室は残りわずか ▶ 空室を確認</span>
                       <ExternalLink className="w-4 h-4" />
                     </a>
                   </div>
@@ -640,6 +640,23 @@ export default function ShigaHieizanOgotoPage() {
               </span>
             </Link>
           </div>
+        </section>
+
+        {/* Final CTA Section */}
+        <section className="bg-gradient-to-r from-amber-600 to-amber-700 rounded-3xl p-8 sm:p-12 text-white text-center space-y-4">
+          <h2 className="text-xl sm:text-2xl font-bold font-serif">おごと温泉の露天風呂付き客室は冬の争奪戦</h2>
+          <p className="text-amber-100 text-sm sm:text-base max-w-2xl mx-auto leading-relaxed">
+            琵琶湖を望む露天風呂付き客室は各旅館で数室限定。近江牛会席付きの冬プランは11月中に売り切れることも珍しくありません。比叡山参拝と温泉旅を計画中なら、今のうちに空室を確認しておきましょう。
+          </p>
+          <a
+            href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fhotel%2Flist.html%3Ff_teikei%3Dtmp_kw_rt%26f_area%3D25_kansai%26f_keyword%3D%25E3%2581%258A%25E3%2581%2594%25E3%2581%25A8%25E6%25B8%25A9%25E6%25B3%2589"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center gap-2 px-8 py-4 rounded-xl bg-white text-amber-700 font-bold text-sm sm:text-base shadow-lg hover:shadow-xl hover:bg-amber-50 transition-all"
+          >
+            <span>おごと温泉の宿を楽天トラベルで探す</span>
+            <ExternalLink className="w-5 h-5" />
+          </a>
         </section>
       </main>
     </article>

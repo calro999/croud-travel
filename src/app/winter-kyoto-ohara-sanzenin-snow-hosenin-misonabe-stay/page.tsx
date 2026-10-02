@@ -2,8 +2,8 @@ import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
 import { 
-  Star, MapPin, CheckCircle2, Sparkles, 
-  Calendar, Utensils, Compass, HelpCircle, ExternalLink, Snowflake, Waves, Sun, Flame, Mountain, Building, Coffee, ShoppingBag, ThermometerSun
+  Star, MapPin, CheckCircle2, 
+  Calendar, Utensils, Compass, ExternalLink, Snowflake, Waves, Flame, Building, ThermometerSun
 } from 'lucide-react';
 
 export const metadata: Metadata = {
@@ -492,7 +492,7 @@ export default function KyotoOharaSanzeninPage() {
                       rel="noopener noreferrer"
                       className="inline-flex items-center justify-center gap-2 px-6 py-3 rounded-xl bg-gradient-to-r from-emerald-600 to-emerald-700 hover:from-emerald-700 hover:to-emerald-800 text-white font-bold text-xs sm:text-sm shadow-md shadow-emerald-600/20 hover:shadow-lg transition-all w-full sm:w-auto"
                     >
-                      <span>楽天トラベルでプランと空室を見る</span>
+                      <span>雪景色の宿は冬限定 ▶ 空室を確認する</span>
                       <ExternalLink className="w-4 h-4" />
                     </a>
                   </div>
@@ -640,6 +640,23 @@ export default function KyotoOharaSanzeninPage() {
               </span>
             </Link>
           </div>
+        </section>
+
+        {/* Final CTA Section */}
+        <section className="bg-gradient-to-r from-emerald-600 to-emerald-700 rounded-3xl p-8 sm:p-12 text-white text-center space-y-4">
+          <h2 className="text-xl sm:text-2xl font-bold font-serif">大原の名宿は客室数が限られた隠れ家揃い</h2>
+          <p className="text-emerald-100 text-sm sm:text-base max-w-2xl mx-auto leading-relaxed">
+            三千院門前の料理旅館や味噌鍋の本家宿は、いずれも客室数が少ない小規模な隠れ家宿。雪景色が美しい12月〜1月の週末は1ヶ月前には満室になることも。静寂の洛北で冬の京都を独り占めしたいなら、早めの予約が鉄則です。
+          </p>
+          <a
+            href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fhotel%2Flist.html%3Ff_teikei%3Dtmp_kw_rt%26f_area%3D26_kansai%26f_keyword%3D%25E5%25A4%25A7%25E5%258E%259F%25E3%2580%2580%25E4%25BA%25AC%25E9%2583%25BD"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center gap-2 px-8 py-4 rounded-xl bg-white text-emerald-700 font-bold text-sm sm:text-base shadow-lg hover:shadow-xl hover:bg-emerald-50 transition-all"
+          >
+            <span>大原・洛北の宿を楽天トラベルで探す</span>
+            <ExternalLink className="w-5 h-5" />
+          </a>
         </section>
       </main>
     </article>
