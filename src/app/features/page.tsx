@@ -110,6 +110,96 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-shizuoka-fujinomiya-sengen-taisha-fuji-view-wagyu-stay',
+              title: "白雪の富士山絶景＆富士山本宮浅間大社新春初詣！田貫湖逆さ富士と特選「静岡そだち」牛の名宿",
+              desc: "年間で最も空気が澄む冬の富士宮。全国浅間神社の総本宮・浅間大社の新春初詣と特別天然記念物湧玉池、田貫湖の白雪逆さ富士、白糸の滝、極上「静岡そだち」牛と富士宮やきそば…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-fukuoka-mojiko-retro-illumination-buzen-oyster-kokuragyu-stay',
+              title: "門司港レトロ浪漫灯彩イルミネーション＆関門海峡！旬の「豊前海一粒牡蠣」と元祖焼きカレー・小倉牛の名宿",
+              desc: "約30万球が洋館群を照らす門司港レトロ浪漫灯彩。海峡を行き交う船と対岸の夜景、11月解禁の濃厚な豊前海一粒牡蠣、香ばしい元祖焼きカレーと幻の黒毛和牛「小倉牛」…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-yamanashi-kofu-takeda-shrine-yumura-onsen-koshugyu-stay',
+              title: "武田神社新春初詣＆富士山・南アルプス雪景色！開湯1200年信玄の隠し湯「湯村温泉」と熱々ほうとう・甲州牛の名宿",
+              desc: "信玄公館跡に鎮座し勝運を授かる武田神社初詣。甲府城天守台からの白銀南アルプスと富士山、開湯1200年湯村温泉の弱アルカリ美肌湯、熱々のかぼちゃほうとうと極上甲州牛すき焼き…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-yamaguchi-iwakuni-kintaikyo-suo-oshima-mikan-nabe-takamorigyu-stay',
+              title: "日本三名橋「錦帯橋」の冬景色＆白蛇神社新春初詣！冬の風物詩「周防大島みかん鍋」と幻の高森牛・銘酒獺祭の名宿",
+              desc: "五連木造アーチの錦帯橋に舞う雪化粧と夜間ライトアップ。金運の岩国白蛇神社初詣、丸ごとみかんを浮かべた周防大島名物みかん鍋、幻の黒毛和牛「高森牛」と世界的名酒獺祭…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-kagawa-takamatsu-ritsurin-yashima-olive-hamachi-udon-stay',
+              title: "特別名勝「栗林公園」の冬景色＆屋島寺新春初詣！冬限定の奇跡魚「オリーブハマチ」と讃岐うどん・オリーブ牛の名宿",
+              desc: "ミシュラン三ツ星の栗林公園の静寂と雪吊り、掬月亭の抹茶。屋島山頂からの瀬戸内海初日の出と屋島寺初詣、1月中旬まで限定の奇跡の旬魚オリーブハマチ、熱々しっぽくうどんとオリーブ牛…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-shizuoka-fujinomiya-sengen-taisha-fuji-view-wagyu-stay',
+              title: "白雪の富士山絶景＆富士山本宮浅間大社新春初詣！田貫湖逆さ富士と特選「静岡そだち」牛の名宿",
+              desc: "年間で最も空気が澄む冬の富士宮。全国浅間神社の総本宮・浅間大社の新春初詣と特別天然記念物湧玉池、田貫湖の白雪逆さ富士、白糸の滝、極上「静岡そだち」牛と富士宮やきそば…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-fukuoka-mojiko-retro-illumination-buzen-oyster-kokuragyu-stay',
+              title: "門司港レトロ浪漫灯彩イルミネーション＆関門海峡！旬の「豊前海一粒牡蠣」と元祖焼きカレー・小倉牛の名宿",
+              desc: "約30万球が洋館群を照らす門司港レトロ浪漫灯彩。海峡を行き交う船と対岸の夜景、11月解禁の濃厚な豊前海一粒牡蠣、香ばしい元祖焼きカレーと幻の黒毛和牛「小倉牛」…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-yamanashi-kofu-takeda-shrine-yumura-onsen-koshugyu-stay',
+              title: "武田神社新春初詣＆富士山・南アルプス雪景色！開湯1200年信玄の隠し湯「湯村温泉」と熱々ほうとう・甲州牛の名宿",
+              desc: "信玄公館跡に鎮座し勝運を授かる武田神社初詣。甲府城天守台からの白銀南アルプスと富士山、開湯1200年湯村温泉の弱アルカリ美肌湯、熱々のかぼちゃほうとうと極上甲州牛すき焼き…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-yamaguchi-iwakuni-kintaikyo-suo-oshima-mikan-nabe-takamorigyu-stay',
+              title: "日本三名橋「錦帯橋」の冬景色＆白蛇神社新春初詣！冬の風物詩「周防大島みかん鍋」と幻の高森牛・銘酒獺祭の名宿",
+              desc: "五連木造アーチの錦帯橋に舞う雪化粧と夜間ライトアップ。金運の岩国白蛇神社初詣、丸ごとみかんを浮かべた周防大島名物みかん鍋、幻の黒毛和牛「高森牛」と世界的名酒獺祭…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-kagawa-takamatsu-ritsurin-yashima-olive-hamachi-udon-stay',
+              title: "特別名勝「栗林公園」の冬景色＆屋島寺新春初詣！冬限定の奇跡魚「オリーブハマチ」と讃岐うどん・オリーブ牛の名宿",
+              desc: "ミシュラン三ツ星の栗林公園の静寂と雪吊り、掬月亭の抹茶。屋島山頂からの瀬戸内海初日の出と屋島寺初詣、1月中旬まで限定の奇跡の旬魚オリーブハマチ、熱々しっぽくうどんとオリーブ牛…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-shizuoka-fujinomiya-sengen-taisha-fuji-view-wagyu-stay',
+              title: "白雪の富士山絶景＆富士山本宮浅間大社新春初詣！田貫湖逆さ富士と特選「静岡そだち」牛の名宿",
+              desc: "年間で最も空気が澄む冬の富士宮。全国浅間神社の総本宮・浅間大社の新春初詣と特別天然記念物湧玉池、田貫湖の白雪逆さ富士、白糸の滝、極上「静岡そだち」牛と富士宮やきそば…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-fukuoka-mojiko-retro-illumination-buzen-oyster-kokuragyu-stay',
+              title: "門司港レトロ浪漫灯彩イルミネーション＆関門海峡！旬の「豊前海一粒牡蠣」と元祖焼きカレー・小倉牛の名宿",
+              desc: "約30万球が洋館群を照らす門司港レトロ浪漫灯彩。海峡を行き交う船と対岸の夜景、11月解禁の濃厚な豊前海一粒牡蠣、香ばしい元祖焼きカレーと幻の黒毛和牛「小倉牛」…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-yamanashi-kofu-takeda-shrine-yumura-onsen-koshugyu-stay',
+              title: "武田神社新春初詣＆富士山・南アルプス雪景色！開湯1200年信玄の隠し湯「湯村温泉」と熱々ほうとう・甲州牛の名宿",
+              desc: "信玄公館跡に鎮座し勝運を授かる武田神社初詣。甲府城天守台からの白銀南アルプスと富士山、開湯1200年湯村温泉の弱アルカリ美肌湯、熱々のかぼちゃほうとうと極上甲州牛すき焼き…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-yamaguchi-iwakuni-kintaikyo-suo-oshima-mikan-nabe-takamorigyu-stay',
+              title: "日本三名橋「錦帯橋」の冬景色＆白蛇神社新春初詣！冬の風物詩「周防大島みかん鍋」と幻の高森牛・銘酒獺祭の名宿",
+              desc: "五連木造アーチの錦帯橋に舞う雪化粧と夜間ライトアップ。金運の岩国白蛇神社初詣、丸ごとみかんを浮かべた周防大島名物みかん鍋、幻の黒毛和牛「高森牛」と世界的名酒獺祭…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-kagawa-takamatsu-ritsurin-yashima-olive-hamachi-udon-stay',
+              title: "特別名勝「栗林公園」の冬景色＆屋島寺新春初詣！冬限定の奇跡魚「オリーブハマチ」と讃岐うどん・オリーブ牛の名宿",
+              desc: "ミシュラン三ツ星の栗林公園の静寂と雪吊り、掬月亭の抹茶。屋島山頂からの瀬戸内海初日の出と屋島寺初詣、1月中旬まで限定の奇跡の旬魚オリーブハマチ、熱々しっぽくうどんとオリーブ牛…",
+              badge: '11・12・1月特集'
+            },
+            {
               slug: 'winter-hyogo-tanba-sasayama-botannabe-castle-stay',
               title: "冬本番！丹波篠山の本場「ぼたん鍋」発祥の味＆雪化粧の篠山城下町・丹波篠山牛の名宿",
               desc: "11月15日の猟解禁とともに旬を迎える天然猪の極上「ぼたん鍋」。白味噌出汁と山椒の香り、徳川家康天下普請の篠山城大書院雪景色、重伝建の河原町妻入商家群と古民家宿…",
