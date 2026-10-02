@@ -4,80 +4,159 @@ const path = require('path');
 
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
-const furusatoConfigs = [
+const targets = [
   {
-    slug: 'furusato-tax-toya-onsen-lake-view-fireworks-stay',
+    theme: 'ibaraki_fukuroda_ice',
+    slug: 'winter-ibaraki-fukuroda-waterfall-ice-onsen-shamo-stay',
+    label: '茨城・袋田の滝氷瀑＆奥久慈温泉郷（袋田の滝完全凍結・奥久慈軍鶏鍋と常陸牛・美肌名湯宿）',
     queries: [
-      { key: 'toya_nonokaze', query: 'ザ レイクビュー TOYA 乃の風リゾート', label: '壮瞥町/洞爺湖町ふるさと納税・全室レイクビュー！屋上天空パノラマ露天風呂と洞爺湖ロングラン花火' },
-      { key: 'toya_sunpalace', query: '洞爺サンパレス リゾート＆スパ', label: '有珠郡壮瞥町ふるさと納税・湖と一体化するインフィニティ露天風呂！巨大ウォーターパーク併設' },
-      { key: 'toya_kanko', query: '洞爺観光ホテル', label: '洞爺湖町ふるさと納税・洞爺湖畔の特等席！パノラマ大浴場と名物洞窟風呂、四季の会席料理' }
+      '袋田温泉 思い出浪漫館',
+      '滝味の宿 豊年万作',
+      '悠久の宿 滝美館',
+      '大子温泉 やみぞ',
+      '袋田温泉'
     ]
   },
   {
-    slug: 'furusato-tax-beppu-onsen-suginoi-jigoku-stay',
+    theme: 'kanagawa_miura_misaki',
+    slug: 'winter-kanagawa-miura-misaki-maguro-suisen-fuji-stay',
+    label: '神奈川・三浦半島＆城ヶ島（城ヶ島水仙まつり・富士山夕景・三崎まぐろ尽くし＆三浦地魚名宿）',
     queries: [
-      { key: 'beppu_suginoi', query: '別府温泉 杉乃井ホテル', label: '別府市ふるさと納税・五段の棚田状露天風呂「棚湯」！噴水ショーと西日本最大級エンタメ温泉リゾート' },
-      { key: 'beppu_termes', query: '潮騒の宿 晴海', label: '別府市ふるさと納税・全室海一望の源泉掛け流し客室露天風呂！別府湾の潮騒と海の恵み会席' },
-      { key: 'beppu_kannawa', query: '山荘 神和苑', label: '別府市ふるさと納税・鉄輪温泉の高台に佇む名門！能舞台と日本庭園、自家源泉掛け流しの湯' }
+      'マホロバ・マインズ三浦',
+      'ホテル京急油壺観潮荘',
+      '三浦うらり ホテル',
+      '城ヶ島 ホテル',
+      '三浦半島 温泉 ホテル',
+      '観音崎京急ホテル'
     ]
   },
   {
-    slug: 'furusato-tax-kurokawa-onsen-satoyama-roten-stay',
+    theme: 'chiba_kamogawa_kominato',
+    slug: 'winter-chiba-kamogawa-seaworld-kominato-kinmedai-stay',
+    label: '千葉・鴨川＆小湊（鴨川シーワールド・小湊鯛の浦温泉・外房寒金目鯛＆房総伊勢海老名宿）',
     queries: [
-      { key: 'kurokawa_noshiyu', query: '黒川温泉 お宿 のし湯', label: '南小国町ふるさと納税・雑木林に抱かれる隠れ家！茅葺き門と野趣あふれる大野天風呂' },
-      { key: 'kurokawa_sanga', query: '黒川温泉 旅館 山河', label: '南小国町ふるさと納税・三千坪の原生林に佇む秘湯の一軒宿！二つの自家源泉と薬師の湯' },
-      { key: 'kurokawa_yumoto', query: '黒川温泉 黒川荘', label: '南小国町ふるさと納税・びょうぶ岩を望む絶景露天風呂！エメラルドグリーンの名湯と肥後牛' }
+      '鴨川館',
+      '満ちてくる心の宿 吉夢',
+      '鴨川シーワールドホテル',
+      '宿 中屋',
+      '魚彩和歩 よしよし'
     ]
   },
   {
-    slug: 'furusato-tax-manza-onsen-cloud-sulfur-stay',
+    theme: 'hokkaido_shikotsuko_hyoto',
+    slug: 'winter-hokkaido-shikotsuko-hyoto-blue-onsen-himemasu-stay',
+    label: '北海道・支笏湖＆支笏湖温泉（支笏湖ブルー・氷濤まつり・ヒメマスチップ料理＆白老牛美肌名宿）',
     queries: [
-      { key: 'manza_nisshinkan', query: '万座温泉 日進舘', label: '嬬恋村ふるさと納税・日本屈指の白濁硫黄泉！九つの天然温泉巡りと健康長寿の湯治宿' },
-      { key: 'manza_prince', query: '万座プリンスホテル', label: '嬬恋村ふるさと納税・標高千八百メートルの絶景露天風呂「こまくさの湯」！雲上のパノラマステイ' },
-      { key: 'manza_kogen', query: '万座高原ホテル', label: '嬬恋村ふるさと納税・名物「石庭露天風呂」に八つの湯船！四色の異なる源泉巡りと嬬恋キャベツ' }
+      'しこつ湖鶴雅リゾートスパ 水の謌',
+      '丸駒温泉旅館',
+      '支笏湖第一寶亭留 翠山亭',
+      'レイクサイドヴィラ 翠明閣',
+      '休暇村 支笏湖'
+    ]
+  },
+  {
+    theme: 'okinawa_ishigaki_kabilabay',
+    slug: 'winter-okinawa-ishigaki-kabilabay-starrysky-beef-resort-stay',
+    label: '沖縄・石垣島＆川平湾（冬の南十字星・川平湾エメラルドブルー・石垣牛炭火焼肉＆冬アーサ名宿）',
+    queries: [
+      'ANAインターコンチネンタル石垣リゾート',
+      'フサキビーチリゾート ホテル＆ヴィラズ',
+      'グランヴィリオリゾート石垣島',
+      'アートホテル石垣島',
+      '石垣シーサイドホテル'
     ]
   }
 ];
 
 async function main() {
-  const allSeasonalPath = path.join(__dirname, 'src/data/all_seasonal_rakuten_hotels.json');
-  let allSeasonal = {};
-  if (fs.existsSync(allSeasonalPath)) {
-    try {
-      allSeasonal = JSON.parse(fs.readFileSync(allSeasonalPath, 'utf8'));
-    } catch (e) {
-      console.error('Failed to parse all_seasonal_rakuten_hotels.json', e);
-    }
-  }
+  console.log('================================================================');
+  console.log('Fetching Rakuten Hotels for Round 101 via Official Rakuten API');
+  console.log('================================================================');
 
-  const results = {};
+  const result = {};
 
-  for (const config of furusatoConfigs) {
-    console.log(`\n=== Processing ${config.slug} ===`);
-    results[config.slug] = [];
+  for (const t of targets) {
+    console.log(`\n--- Fetching Theme: ${t.label} (${t.theme}) ---`);
+    const themeHotels = [];
+    const usedHotelNos = new Set();
 
-    for (const q of config.queries) {
-      console.log(`Searching for: ${q.query}...`);
-      const hotels = await searchRakutenHotels(q.query, 1);
-      await sleep(1500);
-
-      if (hotels && hotels.length > 0) {
-        const hotel = hotels[0];
-        console.log(`✓ Found: ${hotel.hotelName} (ID: ${hotel.hotelNo})`);
-        results[config.slug].push({
-          ...q,
-          hotel
-        });
-        allSeasonal[hotel.hotelNo] = hotel;
-      } else {
-        console.log(`✗ Not found: ${q.query}`);
+    for (const q of t.queries) {
+      if (themeHotels.length >= 5) break;
+      console.log(`Query: "${q}"...`);
+      try {
+        const hotels = await searchRakutenHotels(q, 3);
+        await sleep(1300); // 楽天APIレートリミット対策
+        if (hotels && hotels.length > 0) {
+          let selected = null;
+          for (const h of hotels) {
+            if (!usedHotelNos.has(h.hotelNo)) {
+              selected = h;
+              break;
+            }
+          }
+          if (selected) {
+            usedHotelNos.add(selected.hotelNo);
+            themeHotels.push(selected);
+            console.log(`  -> Selected: [${selected.hotelNo}] ${selected.hotelName} (Rating: ${selected.reviewAverage}, MinCharge: ${selected.hotelMinCharge})`);
+          } else {
+            console.log(`  -> All hotels from query "${q}" were already selected.`);
+          }
+        } else {
+          console.log(`  -> No hotels found for "${q}".`);
+        }
+      } catch (err) {
+        console.error(`Error querying "${q}":`, err.message);
       }
     }
+
+    // 5件に満たない場合の広域フォールバック
+    if (themeHotels.length < 5) {
+      console.log(`Need more hotels for ${t.theme} (currently ${themeHotels.length}), doing broader search...`);
+      const fallbackQueries = {
+        ibaraki_fukuroda_ice: ['奥久慈温泉', '常陸大宮 温泉 ホテル', '茨城 県北 温泉'],
+        kanagawa_miura_misaki: ['三浦海岸 ホテル', '三浦 ホテル 温泉', '横須賀 温泉 ホテル'],
+        chiba_kamogawa_kominato: ['鴨川 温泉', '勝浦 温泉 ホテル', '南房総 温泉 ホテル'],
+        hokkaido_shikotsuko_hyoto: ['支笏湖 ホテル', '千歳 温泉 ホテル', '苫小牧 温泉 ホテル'],
+        okinawa_ishigaki_kabilabay: ['石垣島 リゾート ホテル', '石垣島 ホテル', '石垣市 ホテル']
+      };
+
+      const broadList = fallbackQueries[t.theme] || [];
+      for (const bq of broadList) {
+        if (themeHotels.length >= 5) break;
+        console.log(`Broad Query: "${bq}"...`);
+        try {
+          const hotels = await searchRakutenHotels(bq, 5);
+          await sleep(1300);
+          if (hotels && hotels.length > 0) {
+            for (const h of hotels) {
+              if (themeHotels.length >= 5) break;
+              if (!usedHotelNos.has(h.hotelNo)) {
+                usedHotelNos.add(h.hotelNo);
+                themeHotels.push(h);
+                console.log(`  -> Added: [${h.hotelNo}] ${h.hotelName}`);
+              }
+            }
+          }
+        } catch (err) {
+          console.error(`Error on broad query "${bq}":`, err.message);
+        }
+      }
+    }
+
+    result[t.theme] = {
+      slug: t.slug,
+      label: t.label,
+      hotels: themeHotels
+    };
+    console.log(`Total hotels fetched for ${t.theme}: ${themeHotels.length}`);
   }
 
-  fs.writeFileSync(allSeasonalPath, JSON.stringify(allSeasonal, null, 2));
-  fs.writeFileSync('round101_hotels.json', JSON.stringify(results, null, 2));
-  console.log('\nFinished fetching hotels for Round 101.');
+  const outPath = path.join(__dirname, 'round101_raw_hotels.json');
+  fs.writeFileSync(outPath, JSON.stringify(result, null, 2), 'utf8');
+  console.log(`\nAll Round 101 hotels successfully written to ${outPath}`);
 }
 
-main();
+main().catch(err => {
+  console.error('Fatal fetch error:', err);
+  process.exit(1);
+});

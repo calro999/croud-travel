@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-ibaraki-fukuroda-waterfall-ice-onsen-shamo-stay',
+              title: "日本三名瀑・袋田の滝の完全凍結「氷瀑」と奥久慈温泉郷・名物奥久慈軍鶏鍋＆常陸牛の冬名宿",
+              desc: "11月から1月、巨大な岩壁が白銀の氷壁へと変貌する袋田の滝「氷瀑」。夜間ライトアップ「大子来人」、とろとろ美肌の奥久慈温泉、弾力と旨味溢れる奥久慈軍鶏鍋…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-kanagawa-miura-misaki-maguro-suisen-fuji-stay',
+              title: "冬の三浦半島・城ヶ島30万本の水仙まつりと富士山絶景・名物三崎まぐろ尽くし＆朝獲れ地魚の三浦名宿",
+              desc: "11月から1月、相模湾越しに純白の富士山が鮮やかに望める三浦半島。城ヶ島公園一面に甘い香りが広がる水仙まつり、冬に脂が乗る天然三崎まぐろ、三浦大根…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-chiba-kamogawa-seaworld-kominato-kinmedai-stay',
+              title: "冬の鴨川シーワールドシャチパフォーマンスと小湊鯛の浦温泉・外房寒金目鯛煮付け＆房総伊勢海老の絶景名宿",
+              desc: "11月から1月、黒潮がもたらす温暖な外房鴨川。澄み切った青空に舞う大迫力のシャチ、神秘の鯛の浦遊覧、一本釣り外房寒金目鯛の濃厚姿煮と活伊勢海老…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-hokkaido-shikotsuko-hyoto-blue-onsen-himemasu-stay',
+              title: "千歳支笏湖ブルーの冬絶景・支笏湖氷濤まつりと美肌の湯・冬の名物ヒメマス料理＆白老牛のレイクサイド名宿",
+              desc: "11月から1月、透明度日本一の不凍湖が魅せるコバルトブルー「支笏湖ブルー」。巨大な氷の宮殿「氷濤まつり」、足元湧出の秘湯丸駒温泉、名物チップ料理と白老牛…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-okinawa-ishigaki-kabilabay-starrysky-beef-resort-stay',
+              title: "冬の石垣島・星空保護区の南十字星と川平湾エメラルドブルー・極上石垣牛焼肉＆旬の冬アーサの南国リゾート名宿",
+              desc: "11月から1月、平均気温20度の快適避寒リゾート。日本初の星空保護区で観測する冬の南十字星、川平湾のエメラルドブルー、極上石垣牛炭火焼肉と旬の新海苔冬アーサ…",
+              badge: '11・12・1月特集'
+            },
+            {
               slug: 'winter-mie-ise-jingu-hatsumode-okageyokocho-iseebi-matsusaka-stay',
               title: "伊勢神宮新春初詣とおかげ横丁・五十鈴川の朝霧と神域参拝・冬の極上伊勢海老＆松阪牛会席の伊勢名宿",
               desc: "11月から1月、凛とした静寂に包まれる伊勢神宮。五十鈴川の幻想的な朝霧、冬至の鳥居から昇る朝日、赤福ぜんざい・伊勢うどんの食べ歩き、極上の伊勢海老と松阪牛会席…",
