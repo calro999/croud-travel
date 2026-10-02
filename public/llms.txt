@@ -309,6 +309,9 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【おすすめ宿】鳴子温泉郷　勘七湯の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/40453): 鳴子温泉郷　勘七湯（宮城県）
+- [【三重県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/38402): 霧生温泉　メナード青山リゾート（三重県）
+- [【おすすめ宿】ホテルルートイン太田南－国道４０７号－の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/68229): ホテルルートイン太田南－国道４０７号－（群馬県）
 - [【神奈川県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/67490): 湯河原温泉ホテル四季彩（伊東園ホテルズ）（神奈川県）
 - [【おすすめ宿】瀬戸大橋温泉　やま幸の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/27827): 瀬戸大橋温泉　やま幸（岡山県）
 - [【兵庫県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/146832): 久美浜温泉　湯元館（兵庫県）
@@ -356,6 +359,3 @@
 - [【おすすめ宿】ホテルオーレの魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/151085): ホテルオーレ（静岡県）
 - [【青森県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/80726): リッチモンドホテル青森（青森県）
 - [【おすすめ宿】塩原温泉　伊東園ホテル塩原の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/72035): 塩原温泉　伊東園ホテル塩原（栃木県）
-- [【熊本県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/67258): 黒川温泉　旅館　美里（熊本県）
-- [【おすすめ宿】養老渓谷温泉郷　温泉旅館　川の家の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/84819): 養老渓谷温泉郷　温泉旅館　川の家（千葉県）
-- [【鳥取県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/8242): ホテル東伯イン（鳥取県）

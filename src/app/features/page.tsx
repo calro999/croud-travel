@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-miyagi-kesennuma-minamisanriku-mekajiki-ikuradon-stay',
+              title: "冬の三陸の至宝・極上戻りメカジキ「冬木廻」＆南三陸キラキラいくら丼と気仙沼深層天然温泉の名宿",
+              desc: "11月から1月、脂乗り最高潮の気仙沼冬メカジキ「冬木廻」と南三陸キラキラいくら丼。フカヒレ姿煮、唐桑半島の荒波絶景、身体の芯まで温まる深層天然温泉…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-nagasaki-city-inasayama-nightview-glover-champon-stay',
+              title: "世界新三大夜景・稲佐山1000万ドルの冬夜景とグラバー園イルミネーション＆本場ちゃんぽん・卓袱料理の名宿",
+              desc: "冬の大気澄み渡る長崎。稲佐山からの立体的なパノラマ夜景、グラバー園のイルミネーション、新地中華街の濃厚ちゃんぽん・角煮まん、お諏訪さんの初詣…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-nagano-togakushi-zenkoji-hatsumode-snow-soba-beef-stay',
+              title: "白銀の戸隠神社・奥社杉並木と冬の戸隠新そば＆国宝善光寺「お朝事」初詣・信州牛すき焼きの名宿",
+              desc: "樹齢400年杉並木の白銀古道と秋収穫の戸隠手打ち新そば。国宝善光寺冬のお朝事参拝とお数珠頂戴、新春初詣、善光寺門前宿坊の精進料理と極上信州牛…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-fukushima-aizu-ouchijuku-yunokami-ashinomaki-stay',
+              title: "白銀の茅葺き宿場町・大内宿の雪景色と名物「一本ねぎそば」＆阿賀川渓谷雪見露天風呂・会津馬刺しの名宿",
+              desc: "一面の銀世界に包まれる江戸の宿場町・大内宿と箸代わりにネギで食べる名物そば。茅葺きの湯野上温泉駅、芦ノ牧温泉の棚田状渓谷雪見露天、極上会津馬刺し…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-wakayama-koyasan-shukubo-okunoin-snow-shojin-stay',
+              title: "世界遺産・高野山の白銀「壇上伽藍＆奥之院」雪景色と宿坊阿字観体験＆冬の滋味精進料理・新春初詣の名宿",
+              desc: "標高800mの白銀の聖地。根本大塔の雪景色、奥之院杉巨木の静寂参道、暖房完備の由緒ある宿坊での阿字観瞑想・朝の勤行、手練り生胡麻豆腐と伝統精進料理…",
+              badge: '11・12・1月特集'
+            },
+            {
               slug: 'winter-tottori-sakaiminato-kaike-onsen-matsubagani-stay',
               title: "山陰松葉ガニ解禁！境港水産物直売センター＆水木しげるロードと皆生温泉「塩の湯」・大山冬景色名宿",
               desc: "11月6日解禁、冬の味覚の王様・本松葉ガニ。活気あふれる境港の市場と水木しげるロード、日本海と白銀の大山を望む皆生温泉の保温美肌「塩の湯」…",
