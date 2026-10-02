@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-mie-ise-jingu-hatsumode-okageyokocho-iseebi-matsusaka-stay',
+              title: "伊勢神宮新春初詣とおかげ横丁・五十鈴川の朝霧と神域参拝・冬の極上伊勢海老＆松阪牛会席の伊勢名宿",
+              desc: "11月から1月、凛とした静寂に包まれる伊勢神宮。五十鈴川の幻想的な朝霧、冬至の鳥居から昇る朝日、赤福ぜんざい・伊勢うどんの食べ歩き、極上の伊勢海老と松阪牛会席…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-nagano-karuizawa-hoshino-illumination-tonbonoyu-shinshugyu-stay',
+              title: "冬の軽井沢高原リゾート・星野エリアもみの木イルミネーション＆星野温泉トンボの湯雪見風呂・信州プレミアム牛薪火ディナー名宿",
+              desc: "11月から1月、澄み渡る浅間ブルーの青空と白銀の森。星野エリアの巨大天然もみの木イルミ、軽井沢高原教会キャンドルナイト、トンボの湯雪見露天風呂、薪火グリル…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-kanagawa-kamakura-enoshima-jewel-shrine-fuji-stay',
+              title: "冬の湘南・江の島シーキャンドル「湘南の宝石」イルミネーション＆鶴岡八幡宮新春初詣・富士山夕景と相模湾冬魚名宿",
+              desc: "11月から1月、相模湾越しに純白の富士山が鮮やかに浮かび上がる湘南。関東三大イルミ「湘南の宝石」、鶴岡八幡宮初詣、江ノ電沿線散策、冬に脂が乗る寒平目・葉山牛…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-saitama-kawagoe-koedo-kitain-daruma-unagi-stay',
+              title: "小江戸川越・冬の蔵造りの町並みと時の鐘・喜多院初大師だるま市新春初詣＆名物うなぎ重・小江戸黒豚の川越名宿",
+              desc: "11月から1月、黒漆喰の町並みに響く時の鐘。喜多院の1月3日初大師だるま市と新春初詣、菓子屋横丁のあったか芋菓子、天保創業の老舗炭火焼きうな重と小江戸黒豚…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-okayama-kurashiki-bikan-yakei-kibitsu-chiyagyu-stay',
+              title: "冬の倉敷美観地区・白壁土蔵の夜間景観照明＆国宝吉備津神社新春初詣・名物下津井真蛸と幻の千屋牛を堪能する名宿",
+              desc: "11月から1月、川面に映える白壁土蔵と夜間景観照明の幽玄美。国宝吉備津神社の大回廊初詣、潮流で引き締まる冬の下津井真蛸、最古の蔓牛血統を誇る幻の千屋牛会席…",
+              badge: '11・12・1月特集'
+            },
+            {
               slug: 'winter-aomori-hachinohe-kabushima-ginsaba-senbeijiru-stay',
               title: "八戸前沖銀鯖と本場せんべい汁・八食センター七輪村買い出し＆蕪島神社初詣・太平洋一望の八戸名宿",
               desc: "11月から1月、日本一脂が乗る八戸前沖銀鯖、南部地鶏出汁の熱々せんべい汁、八食センターの年末年始買い出しと七輪村炭火焼き、金運上昇を願う蕪島神社初詣…",
