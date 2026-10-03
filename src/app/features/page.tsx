@@ -110,6 +110,18 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-miyagi-sendai-city-hikarino-pageant-zundamochi-sendaigyu-kaki-stay',
+              title: "冬の仙台市内・光のページェント＆瑞鳳殿新春初詣！A5仙台牛と閖上牡蠣・都市型温泉の名宿",
+              desc: "12月の定禅寺通を彩る60万球の光の回廊。伊達政宗公が眠る瑞鳳殿の荘厳な初詣、最高峰A5仙台牛しゃぶしゃぶ・せり鍋、復活の閖上牡蠣と都市型天然温泉…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-hiroshima-shobara-taishakukyo-snow-kagura-chugokugyu-stay',
+              title: "冬の帝釈峡雪景色＆広島神楽鑑賞！幻の比婆牛と三次ワイナリー・備北温泉の名宿",
+              desc: "雪化粧に染まる石灰岩の断崖絶壁と神龍湖の静謐。神話の息吹を伝える豪壮な広島神楽、脂とろける比婆牛や冬の三次盆地・霧の海を望む備北の名湯…",
+              badge: '11・12・1月特集'
+            },
+            {
               slug: 'winter-kanagawa-hakone-yumoto-ashinoko-shrine-fuji-stay',
               title: "冬の箱根湯本＆芦ノ湖・箱根神社新春初詣！澄み渡る白雪富士の絶景と名湯の名宿",
               desc: "冬の大気で透き通る芦ノ湖越しに仰ぐ冠雪富士のパノラマ。関東総鎮守・箱根神社初詣と平和の鳥居、相模湾の寒魚や箱根山麓豚、美肌の箱根湯本温泉…",
