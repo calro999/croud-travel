@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-hokkaido-sapporo-odori-illumination-jozankei-stay',
+              title: "さっぽろホワイトイルミネーション＆定山渓雪見露天！札幌味噌ラーメンと北の味覚名宿",
+              desc: "初雪から白銀ピークの11〜1月。大通公園70万球のホワイトイルミ＆ミュンヘン・クリスマス市、すすきの夜景、熱々濃厚味噌ラーメン、定山渓温泉の雪見露天…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-kanagawa-yokohama-minatomirai-illumination-chinatown-stay',
+              title: "赤レンガ倉庫クリスマスマーケット＆ヨルノヨ夜景！中華街熱々点心と絶景港宿",
+              desc: "冬の澄み渡る横浜港に輝く大観覧車。本場ドイツ仕込みの赤レンガ倉庫クリスマスマーケット、光アート「ヨルノヨ」、中華街の冬点心・春節ランタンと絶景バルコニー…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-gifu-shirakawago-snow-gassho-hidatakayama-onsen-stay',
+              title: "世界遺産白川郷雪景色＆飛騨高山古い町並み！奥飛騨雪見露天と極上飛騨牛会席の名宿",
+              desc: "白銀の茅葺き屋根が並ぶ世界遺産・白川郷合掌集落。新酒の杉玉が掲げられる高山古い町並み、奥飛騨温泉郷の原生林雪見露天風呂、A5飛騨牛炭火焼きと朴葉味噌…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-tokyo-marunouchi-illumination-tokyo-station-hatsumode-stay',
+              title: "丸の内イルミネーション＆東京駅丸の内駅舎夜景！皇居新春散策と江戸前極上宿",
+              desc: "1.2km続くシャンパンゴールドの丸の内仲通り。重文・東京駅赤レンガ駅舎のライトアップ、皇居東御苑散策、日本橋福徳神社の新春初詣、江戸前老舗グルメと最高峰ホテル…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-kyoto-gion-higashiyama-yasaka-shrine-hatsumode-kiyomizu-stay',
+              title: "八坂神社新春初詣＆雪の清水寺！冬の祇園白川の風情と老舗湯豆腐・京懐石の雅宿",
+              desc: "大晦日のをけら詣りから新春の活気あふれる八坂神社。雪の清水の舞台、静寂が包む祇園白川の石畳、熱々の南禅寺湯豆腐と白味噌雑煮、繊細な冬の京懐石と洗練雅宿…",
+              badge: '11・12・1月特集'
+            },
+            {
               slug: 'winter-tokyo-odaiba-toyosu-senkyakubanrai-yakei-stay',
               title: "お台場レインボー花火＆豊洲千客万来！冬の東京ベイ夜景と江戸前海鮮・天然温泉名宿",
               desc: "澄明な冬空に重なるレインボーブリッジと東京タワー夜景。12月土曜のお台場レインボー花火、2024年誕生の豊洲千客万来江戸前市場グルメ、有明の天然温泉…",
