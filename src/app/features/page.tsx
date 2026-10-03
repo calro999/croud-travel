@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-tokyo-odaiba-toyosu-senkyakubanrai-yakei-stay',
+              title: "お台場レインボー花火＆豊洲千客万来！冬の東京ベイ夜景と江戸前海鮮・天然温泉名宿",
+              desc: "澄明な冬空に重なるレインボーブリッジと東京タワー夜景。12月土曜のお台場レインボー花火、2024年誕生の豊洲千客万来江戸前市場グルメ、有明の天然温泉…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-osaka-castle-nakanoshima-illumination-tenmangu-stay',
+              title: "冬の大阪城イルミナージュ＆大阪天満宮新春初詣！水都中之島イルミネーションとなにわ冬グルメ名宿",
+              desc: "西の丸庭園を光の歴史絵巻に変える大阪城イルミナージュ。中之島水都イルミネーション、学問の神様・大阪天満宮新春初詣、熱々のてっちりや串カツ、きつねうどん…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-hyogo-kobe-port-ikuta-shrine-luminarie-beef-stay',
+              title: "生田神社新春開運初詣＆神戸ルミナリエ！メリケンパーク冬夜景と極上神戸牛に酔いしれる名宿",
+              desc: "六甲山と神戸港の1000万ドルの冬夜景。希望を灯す神戸ルミナリエ、縁結び生田神社の新春初詣、南京町熱々点心、本場極上神戸牛ステーキと海を望む天然温泉…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-nara-park-kasuga-taisha-hatsumode-todaiji-yamatogyu-stay',
+              title: "春日大社新春開運初詣＆東大寺大仏殿冬景色！大和牛すき焼きと古都の静謐に寛ぐ厳選宿",
+              desc: "世界遺産・春日大社の朱塗り回廊と釣燈籠が雪に映える新春厄除け初詣。東大寺大仏殿の厳かな佇まい、冬毛の鹿たち、滋味豊かな大和牛すき焼き・飛鳥鍋と名門宿…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-saitama-omiya-hikawa-shrine-hatsumode-keyaki-stay',
+              title: "武蔵一宮氷川神社新春初詣＆けやきひろばイルミネーション！武州和牛と天然温泉に寛ぐ名宿",
+              desc: "2400年の歴史誇る武蔵一宮氷川神社への新春200万人初詣と2kmの氷川参道散策。さいたま新都心けやきひろば15万球の光の森、武州和牛、武蔵野肉汁うどん…",
+              badge: '11・12・1月特集'
+            },
+            {
               slug: 'winter-ishikawa-kanazawa-city-kenrokuen-yukizuri-koubako-crab-stay',
               title: "冬の兼六園雪吊り＆尾山神社新春初詣！近江町市場の香箱ガニ・寒ブリ・加賀おでん名宿",
               desc: "日本三名園・兼六園の唐崎松雪吊りと白銀の静謐美。11月6日解禁の香箱ガニや寒ブリ、尾山神社ステンドグラス神門初詣、出汁染みる金沢おでんと天然温泉…",
