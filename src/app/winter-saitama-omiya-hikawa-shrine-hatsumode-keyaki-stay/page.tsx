@@ -1,5 +1,6 @@
 import React from 'react';
 import Link from 'next/link';
+import type { Metadata } from 'next';
 import { 
   Star, MapPin, CheckCircle2, Calendar, Utensils, Compass, ExternalLink, Sparkles, Building, Waves, Flame, Anchor, Landmark, Castle, Mountain, TreePine, Snowflake, ShieldCheck
 } from 'lucide-react';
@@ -548,7 +549,7 @@ export default function SaitamaOmiyaHikawaWinterPage() {
           </div>
 
           <div className="divide-y divide-slate-100 space-y-4">
-            {faqList.map((item, idx) => (
+            {faqData.map((item: any, idx: number) => (
               <div key={idx} className="pt-4 first:pt-0 space-y-2">
                 <h3 className="text-sm sm:text-base font-bold text-slate-900 flex items-start gap-2">
                   <span className="bg-teal-100 text-teal-700 text-xs px-2 py-0.5 rounded-md shrink-0 font-extrabold mt-0.5">Q</span>
