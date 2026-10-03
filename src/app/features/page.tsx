@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-iwate-morioka-tsunagi-onsen-hatsumode-wagyu-stay',
+              title: "冬の盛岡八幡宮新春開運初詣＆岩手山白銀絶景！繋温泉美肌湯と盛岡三大麺の名宿",
+              desc: "澄んだ青空に輝く岩手山南部片富士の雪嶺パノラマ。岩手県総鎮守・盛岡八幡宮初詣と伝統の裸参り、源泉掛け流し繋温泉、熱々じゃじゃ麺・盛岡冷麺と極上雫石牛…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-shizuoka-mishima-numazu-taisha-fuji-suruga-stay',
+              title: "冬の三嶋大社新春開運初詣＆富士山スカイウォーク！駿河湾深海魚と沼津港寒魚の名宿",
+              desc: "日本最長大吊橋からの純白冠雪富士と駿河湾大パノラマ。源頼朝旗揚げの伊豆国一宮初詣、冬が旬の本タカアシガニや深海魚・寒アジフライ、富士山展望温泉…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-mie-suzuka-tsubaki-shrine-nabana-kuwana-hamaguri-stay',
+              title: "伊勢国一の宮・椿大神社新春みちびき初詣＆なばなの里！桑名冬蛤鍋と長島温泉名宿",
+              desc: "全国猿田彦神社総本宮でのみちびき開運祈願とかなえ滝。国内最大級なばなの里光のトンネル、桑名名物大粒天然蛤鍋や四日市とんてき、湯あみの島大露天風呂…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-wakayama-city-kada-onsen-hatsumode-taimeshi-kue-stay',
+              title: "冬の日前神宮新春開運初詣＆紀淡海峡夕陽絶景！加太温泉名湯と冬の寒真鯛・幻のクエ名宿",
+              desc: "紀淡海峡に沈む茜色の冬夕陽インフィニティ露天風呂。紀伊国一之宮・日前神宮の厳かな新春初詣、一本釣り加太の天然真鯛尽くしとコラーゲンたっぷり本クエ鍋…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-kyoto-fushimi-inari-hatsumode-uji-sake-matcha-stay',
+              title: "伏見稲荷大社新春千本鳥居初詣＆伏見名水寒仕込み新酒！冬の平等院鳳凰堂と京鴨鍋名宿",
+              desc: "全国3万社の総本宮・伏見稲荷千本鳥居の朱と冬空の神秘美。老舗酒蔵の寒仕込み搾りたて新酒とあったか酒粕鍋、雪化粧の国宝平等院鳳凰堂、冬の濃厚京鴨すき鍋…",
+              badge: '11・12・1月特集'
+            },
+            {
               slug: 'winter-miyagi-sendai-city-hikarino-pageant-zundamochi-sendaigyu-kaki-stay',
               title: "冬の仙台市内・光のページェント＆瑞鳳殿新春初詣！A5仙台牛と閖上牡蠣・都市型温泉の名宿",
               desc: "12月の定禅寺通を彩る60万球の光の回廊。伊達政宗公が眠る瑞鳳殿の荘厳な初詣、最高峰A5仙台牛しゃぶしゃぶ・せり鍋、復活の閖上牡蠣と都市型天然温泉…",

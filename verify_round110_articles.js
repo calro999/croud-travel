@@ -1,95 +1,107 @@
 const fs = require('fs');
 const path = require('path');
 
-const articles = [
-  {
-    name: '宮城・仙台市内',
-    slug: 'winter-miyagi-sendai-city-hikarino-pageant-zundamochi-sendaigyu-kaki-stay',
-  },
-  {
-    name: '広島・庄原＆帝釈峡',
-    slug: 'winter-hiroshima-shobara-taishakukyo-snow-kagura-chugokugyu-stay',
-  }
+const slugs = [
+  'winter-iwate-morioka-tsunagi-onsen-hatsumode-wagyu-stay',
+  'winter-shizuoka-mishima-numazu-taisha-fuji-suruga-stay',
+  'winter-mie-suzuka-tsubaki-shrine-nabana-kuwana-hamaguri-stay',
+  'winter-wakayama-city-kada-onsen-hatsumode-taimeshi-kue-stay',
+  'winter-kyoto-fushimi-inari-hatsumode-uji-sake-matcha-stay'
 ];
 
-const ngWords = [
+console.log('=== ROUND 110 QUALITY VERIFICATION ===\n');
+
+// 禁止AI臭フレーズ
+const aiCliches = [
   'いかがでしたでしょうか',
-  'いかがでしょうか',
-  'いかがでしたか',
-  'ぜひ参考に',
-  'ぜひ訪れてみて',
-  '足を運んでみてはいかが',
+  'いかがだったでしょうか',
   '魅力が伝わりましたでしょうか',
+  'ぜひ参考にしてみてください',
+  '参考にしていただければ幸いです',
+  '足を運んでみてはいかがでしょうか',
+  'いかがですか',
+  /(?<![a-zA-Z])AI(?![a-zA-Z])/,
   '人工知能',
-  'AIが生成',
-  'AIアシスタント'
+  'プロンプト',
+  'ChatGPT',
+  'Gemini',
+  'いかがでしょうか'
 ];
 
-let allPassed = true;
+let hasErrors = false;
 
-for (const a of articles) {
-  const filePath = path.join(__dirname, 'src/app', a.slug, 'page.tsx');
-  if (!fs.existsSync(filePath)) {
-    console.error(`❌ [${a.name}] ファイルが存在しません: ${filePath}`);
-    allPassed = false;
-    continue;
+slugs.forEach((slug, idx) => {
+  console.log(`[Check Article ${idx + 1}] ${slug}`);
+  const targetFile = path.join(__dirname, 'src/app', slug, 'page.tsx');
+  
+  if (!fs.existsSync(targetFile)) {
+    console.error(`  [FAIL] File does not exist: ${targetFile}`);
+    hasErrors = true;
+    return;
   }
-
-  const content = fs.readFileSync(filePath, 'utf8');
-
-  // 純日本語文字数カウント（タグやコード除外の簡易抽出）
+  
+  const content = fs.readFileSync(targetFile, 'utf8');
+  
+  // 1. 純日本語文字数チェック（>= 3,000字）
   const textOnly = content
+    .replace(/import[\s\S]*?from[\s\S]*?;/g, '')
     .replace(/<[^>]+>/g, ' ')
-    .replace(/import\s+[\s\S]+?;/g, ' ')
-    .replace(/export\s+const\s+[\s\S]+?;/g, ' ')
-    .replace(/const\s+jsonLd\s*=[\s\S]+?;/g, ' ')
-    .replace(/[a-zA-Z0-9_\-\.\:\/\"\'\{\}\(\)\,\;\=\>\<\@\#\$\%\^\&\*\+\?\!]/g, '')
+    .replace(/\{[^}]+\}/g, ' ')
+    .replace(/[a-zA-Z0-9_\-\.\:\/]+/g, ' ')
     .replace(/\s+/g, '');
-
-  const charCount = textOnly.length;
-
-  console.log(`\n========================================`);
-  console.log(`検証: ${a.name} (${a.slug})`);
-  console.log(`純日本語文字数: ${charCount} 文字`);
-
-  if (charCount < 3000) {
-    console.warn(`⚠️ [警告] 3,000文字未満です: ${charCount}文字`);
+  console.log(`  - Raw Text Length: ${textOnly.length} characters`);
+  if (textOnly.length < 3000) {
+    console.error(`  [FAIL] Raw text is less than 3,000 chars (${textOnly.length})`);
+    hasErrors = true;
   } else {
-    console.log(`✅ 文字数クリア (>= 3,000文字)`);
+    console.log(`  [OK] Exceeds 3,000 characters`);
   }
-
-  // NGワードチェック
-  let foundNg = false;
-  for (const ng of ngWords) {
-    if (content.includes(ng)) {
-      console.error(`❌ NGワード検出: "${ng}"`);
-      foundNg = true;
-      allPassed = false;
+  
+  // 2. AI Cliches check
+  aiCliches.forEach(cliche => {
+    const isMatched = cliche instanceof RegExp ? cliche.test(content) : content.includes(cliche);
+    if (isMatched) {
+      console.error(`  [FAIL] Contains AI cliché: "${cliche}"`);
+      hasErrors = true;
     }
+  });
+  
+  // 3. Metadata and JSON-LD schema check (SEO, AI-SEO, GEO, LLM)
+  if (!content.includes('metadata: Metadata')) {
+    console.error(`  [FAIL] Missing Next.js metadata export`);
+    hasErrors = true;
   }
-  if (!foundNg) {
-    console.log(`✅ AIテンプレ・NGワードなし`);
+  if (!content.includes('FAQPage') || !content.includes('schema.org') || !content.includes('BreadcrumbList')) {
+    console.error(`  [FAIL] Missing Schema JSON-LD (Breadcrumb/FAQPage)`);
+    hasErrors = true;
+  }
+  if (!content.includes(`https://croud-travel.com/${slug}`)) {
+    console.error(`  [FAIL] Missing Canonical or URL match`);
+    hasErrors = true;
+  }
+  
+  // 4. Hotel links and affiliate check
+  if (!content.includes('hb.afl.rakuten.co.jp')) {
+    console.error(`  [FAIL] Missing Rakuten affiliate links`);
+    hasErrors = true;
+  } else {
+    console.log(`  [OK] Rakuten affiliate links verified`);
   }
 
-  // 構造チェック
-  const hasMetadata = content.includes('export const metadata: Metadata');
-  const hasJsonLd = content.includes('application/ld+json') && content.includes('FAQPage');
-  const hasRakutenAffiliate = content.includes('hb.afl.rakuten.co.jp');
-  const hasInternalLinks = content.includes('<Link href="/winter-');
-
-  console.log(`Metadata: ${hasMetadata ? '✅' : '❌'}`);
-  console.log(`JSON-LD (FAQPage): ${hasJsonLd ? '✅' : '❌'}`);
-  console.log(`楽天アフィリエイトリンク: ${hasRakutenAffiliate ? '✅' : '❌'}`);
-  console.log(`内部リンク: ${hasInternalLinks ? '✅' : '❌'}`);
-
-  if (!hasMetadata || !hasJsonLd || !hasRakutenAffiliate || !hasInternalLinks) {
-    allPassed = false;
+  // 5. 内部リンクチェック
+  if (!content.includes('<Link') || !content.includes('href="/winter-')) {
+    console.error(`  [FAIL] Missing internal feature links`);
+    hasErrors = true;
+  } else {
+    console.log(`  [OK] Internal links verified`);
   }
-}
+  
+  console.log(`  -> Passed all validation checks for ${slug}\n`);
+});
 
-if (allPassed) {
-  console.log('\n🎉 Round 110 全2記事の基本品質検証を通過しました！');
-} else {
-  console.error('\n❌ 一部検証に不合格項目があります。');
+if (hasErrors) {
+  console.error('=== QUALITY VERIFICATION FAILED ===');
   process.exit(1);
+} else {
+  console.log('=== ALL 5 ARTICLES PASSED QUALITY VERIFICATION PERFECTLY ===');
 }

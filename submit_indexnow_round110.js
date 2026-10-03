@@ -3,8 +3,11 @@ const fs = require('fs');
 const path = require('path');
 
 const round110Slugs = [
-  'winter-miyagi-sendai-city-hikarino-pageant-zundamochi-sendaigyu-kaki-stay',
-  'winter-hiroshima-shobara-taishakukyo-snow-kagura-chugokugyu-stay',
+  'winter-iwate-morioka-tsunagi-onsen-hatsumode-wagyu-stay',
+  'winter-shizuoka-mishima-numazu-taisha-fuji-suruga-stay',
+  'winter-mie-suzuka-tsubaki-shrine-nabana-kuwana-hamaguri-stay',
+  'winter-wakayama-city-kada-onsen-hatsumode-taimeshi-kue-stay',
+  'winter-kyoto-fushimi-inari-hatsumode-uji-sake-matcha-stay',
   'features'
 ];
 
@@ -41,6 +44,12 @@ const configs = [
     urls: round110Slugs.map(s => `https://croud-travel.pages.dev/${s}`)
   },
   {
+    host: 'croud-travel.com',
+    key: 'croudtravelindexnow2026',
+    keyLocation: 'https://croud-travel.com/croudtravelindexnow2026.txt',
+    urls: allUrls
+  },
+  {
     host: 'croud-travel.pages.dev',
     key: 'b1c2d3e4f5a67b8c9d0e1f2a3b4c5d6e',
     keyLocation: 'https://croud-travel.pages.dev/b1c2d3e4f5a67b8c9d0e1f2a3b4c5d6e.txt',
@@ -49,67 +58,61 @@ const configs = [
 ];
 
 const endpoints = [
-  { host: 'api.indexnow.org', path: '/indexnow' },
-  { host: 'www.bing.com', path: '/indexnow' },
-  { host: 'yandex.com', path: '/indexnow' }
+  'api.indexnow.org',
+  'www.bing.com',
+  'yandex.com'
 ];
 
-function submit(endpoint, payload) {
-  return new Promise((resolve) => {
-    const data = JSON.stringify(payload);
-    const req = https.request({
-      hostname: endpoint.host,
-      port: 443,
-      path: endpoint.path,
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json; charset=utf-8',
-        'Content-Length': Buffer.byteLength(data)
-      }
-    }, (res) => {
-      let body = '';
-      res.on('data', chunk => body += chunk);
-      res.on('end', () => {
-        resolve({
-          endpoint: endpoint.host,
-          host: payload.host,
-          urlsCount: payload.urlList.length,
-          status: res.statusCode,
-          body: body.substring(0, 100)
-        });
-      });
-    });
-
-    req.on('error', (e) => {
-      resolve({
-        endpoint: endpoint.host,
-        host: payload.host,
-        urlsCount: payload.urlList.length,
-        status: 'ERROR',
-        error: e.message
-      });
-    });
-
-    req.write(data);
-    req.end();
+async function submitIndexNow(cfg) {
+  const payload = JSON.stringify({
+    host: cfg.host,
+    key: cfg.key,
+    keyLocation: cfg.keyLocation,
+    urlList: cfg.urls
   });
-}
 
-async function run() {
-  console.log('Sending IndexNow requests for Round 110...');
-  for (const cfg of configs) {
-    const payload = {
-      host: cfg.host,
-      key: cfg.key,
-      keyLocation: cfg.keyLocation,
-      urlList: cfg.urls
-    };
+  for (const ep of endpoints) {
+    try {
+      const status = await new Promise((resolve, reject) => {
+        const req = https.request({
+          hostname: ep,
+          port: 443,
+          path: '/indexnow',
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json; charset=utf-8',
+            'Content-Length': Buffer.byteLength(payload)
+          },
+          timeout: 10000
+        }, (res) => {
+          let data = '';
+          res.on('data', chunk => data += chunk);
+          res.on('end', () => resolve({ statusCode: res.statusCode, body: data }));
+        });
 
-    for (const ep of endpoints) {
-      const res = await submit(ep, payload);
-      console.log(`[${res.endpoint}] -> ${res.host} (${res.urlsCount} URLs): Status ${res.status} ${res.body || res.error || ''}`);
+        req.on('error', reject);
+        req.on('timeout', () => {
+          req.destroy();
+          reject(new Error('Timeout'));
+        });
+
+        req.write(payload);
+        req.end();
+      });
+
+      console.log(`[IndexNow] Submitted ${cfg.urls.length} URLs to ${ep} (${cfg.host}) -> Status: ${status.statusCode}`);
+    } catch (e) {
+      console.warn(`[IndexNow] Error submitting to ${ep} (${cfg.host}):`, e.message);
     }
   }
 }
 
-run();
+async function main() {
+  console.log('=== Submitting Round 110 URLs to IndexNow ===\n');
+  for (const cfg of configs) {
+    await submitIndexNow(cfg);
+  }
+  console.log('\n=== IndexNow Submission Complete! ===');
+}
+
+main().catch(console.error);
