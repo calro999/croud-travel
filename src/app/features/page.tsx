@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-akita-kakunodate-bukeyashiki-snow-kiritanpo-hinaijidori-stay',
+              title: "陸奥の小京都・角館武家屋敷雪景色＆冬の田沢湖！比内地鶏きりたんぽ鍋と名湯の名宿",
+              desc: "黒板塀に降り積もる純白の雪と日本一深い瑠璃色の田沢湖。新米あきたこまちと比内地鶏の黄金出汁が染み入る本場きりたんぽ鍋、乳白色の濁り湯露天風呂…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-aichi-inuyama-castle-kiso-river-nagoya-cochin-stay',
+              title: "国宝犬山城の冬絶景＆三光稲荷神社新春初詣！白帝の湯と本場名古屋コーチンの名宿",
+              desc: "現存最古の木造天守が木曽川の朝霧に浮かぶ白帝城。ハート絵馬と銭洗いの三光稲荷新春祈願、城下町散策、アルカリ性美肌温泉と最高峰地鶏名古屋コーチン鍋…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-fukui-eiheiji-snow-zen-echizen-oroshi-soba-wakasa-beef-stay',
+              title: "曹洞宗大本山永平寺の雪静寂＆新春開運参拝！越前おろしそばと極上若狭牛・越前がにの名宿",
+              desc: "巨杉の森と純白の回廊に響く禅の祈り。永平寺傘松閣の絵天井と早朝勤行、辛味大根の越前おろしそば、甘みとろける若狭牛と冬の味覚の王様・黄色タグ付き越前がに…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-fukuoka-munakata-taisha-hatsumode-torafugu-munakatagyu-stay',
+              title: "世界遺産・宗像大社新春開運初詣＆玄界灘冬絶景！鐘崎天然とらふぐと極上宗像牛の名宿",
+              desc: "日本神話の三女神を祀る世界遺産・宗像大社の新春祈願。さつき松原と冬の玄界灘、鐘崎港直送の極上天然とらふぐフルコース、旨み溢れる宗像牛と玄海さつき温泉…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-hyogo-himeji-castle-shoshasan-hatsumode-oyster-banshubee-stay',
+              title: "世界遺産白鷺城の冬絶景＆書写山圓教寺新春初詣！播磨灘の旬牡蠣と極上播州牛の名宿",
+              desc: "冬青空に純白の城壁が眩しく輝く世界遺産姫路城。ラストサムライの舞台・書写山圓教寺の新春初詣、播磨灘で育つ大粒ぷりぷり牡蠣、とろける播州牛と天然温泉サウナ…",
+              badge: '11・12・1月特集'
+            },
+            {
               slug: 'winter-ibaraki-mito-kasama-inari-hatsumode-ankou-hitachigyu-stay',
               title: "笠間稲荷神社新春開運初詣＆水戸偕楽園冬梅！本場濃厚あんこう鍋と極上常陸牛の名宿",
               desc: "日本三大稲荷・笠間稲荷神社の新春初詣と、日本三名園・偕楽園の早咲き冬梅。常磐沖のあん肝溶け出す濃厚どぶ汁風あんこう鍋、最高峰黒毛和牛「常陸牛」の極上すき焼き…",

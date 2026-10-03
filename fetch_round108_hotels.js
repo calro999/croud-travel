@@ -4,69 +4,137 @@ const path = require('path');
 
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
-const furusatoConfigs = [
+const targets = [
   {
-    slug: 'furusato-tax-kanazawa-kenrokuen-gourmet-stay',
+    theme: 'akita_kakunodate',
+    slug: 'winter-akita-kakunodate-bukeyashiki-snow-kiritanpo-hinaijidori-stay',
+    label: '秋田・角館＆田沢湖（陸奥の小京都・角館武家屋敷雪景色＆冬の田沢湖・比内地鶏きりたんぽ鍋と秘湯名宿）',
+    filter: (h) => h.address1.includes('秋田県') && (h.address2.includes('仙北') || h.address2.includes('角館') || h.address2.includes('田沢湖') || h.address2.includes('大仙')),
     queries: [
-      { key: 'kanazawa_nikko', query: 'ホテル日航金沢', label: '金沢市ふるさと納税・JR金沢駅東口直結のランドマーク！地上130mのスカイビューと極上朝食バイキング' },
-      { key: 'kanazawa_sanraku_hakuchoro', query: '金沢白鳥路　ホテル山楽', label: '金沢市ふるさと納税・兼六園と金沢城公園に最も近いクラシック名宿！自家源泉天然温泉と加賀会席' },
-      { key: 'kanazawa_sanraku_new', query: 'ＴＨＥ　ＨＯＴＥＬ　ＳＡＮＲＡＫＵ　ＫＡＮＡＺＡＷＡ（ザ　ホテル山楽　金沢）', label: '金沢市ふるさと納税・近江町市場徒歩すぐの中庭庭園ホテル！金沢の伝統美とクラブラウンジ' }
+      '和のゐ 角館',
+      '町家ホテル 角館',
+      '田沢湖高原温泉 プラザホテル山麓荘',
+      '天然温泉 田沢湖レイクリゾート',
+      'ホテルグランド天空',
+      '角館リゾートホテル',
+      '角館温泉',
+      '田沢湖ホテル'
     ]
   },
   {
-    slug: 'furusato-tax-okinawa-naha-kokusaidori-luxury-stay',
+    theme: 'aichi_inuyama',
+    slug: 'winter-aichi-inuyama-castle-kiso-river-nagoya-cochin-stay',
+    label: '愛知・犬山＆木曽川（現存最古木造天守・国宝犬山城冬景色＆三光稲荷神社新春初詣・白帝の湯と名古屋コーチン名宿）',
+    filter: (h) => h.address1.includes('愛知県') && (h.address2.includes('犬山') || h.address2.includes('丹羽') || h.address2.includes('江南') || h.address2.includes('一宮') || h.address2.includes('小牧')),
     queries: [
-      { key: 'naha_hyatt', query: 'ハイアットリージェンシー那覇沖縄', label: '那覇市ふるさと納税・国際通り徒歩3分の最高峰ラグジュアリー！屋外プールと最上階クラブラウンジ' },
-      { key: 'naha_collective', query: 'ホテルコレクティブ', label: '那覇市ふるさと納税・国際通りのど真ん中に誕生したフルスペックシティリゾート！屋外プール＆サウナ' },
-      { key: 'naha_loisir', query: 'ロワジールスパタワー那覇', label: '那覇市ふるさと納税・那覇空港から車で約7分！地下から湧出する含ヨウ素天然温泉スパ＆ベイビュー' }
+      'ホテルインディゴ犬山有楽苑',
+      'ホテルミュースタイル犬山エクスペリエンス',
+      '灯屋 迎帆楼',
+      '犬山温泉 臨江館',
+      '犬山ミヤコホテル',
+      '犬山国際ユースホステル',
+      '犬山 ホテル'
     ]
   },
   {
-    slug: 'furusato-tax-tokyo-ginza-luxury-shopping-stay',
+    theme: 'fukui_eiheiji',
+    slug: 'winter-fukui-eiheiji-snow-zen-echizen-oroshi-soba-wakasa-beef-stay',
+    label: '福井・永平寺＆勝山・福井市（曹洞宗大本山永平寺雪静寂＆新春開運参拝・名物越前おろしそばと極上若狭牛名宿）',
+    filter: (h) => h.address1.includes('福井県') && (h.address2.includes('永平寺') || h.address2.includes('吉田郡') || h.address2.includes('福井市') || h.address2.includes('勝山') || h.address2.includes('大野')),
     queries: [
-      { key: 'ginza_mitsuipremier', query: '三井ガーデンホテル銀座プレミア', label: '中央区ふるさと納税・銀座随一の眺望を誇る高層ホテル！東京タワーや銀座の夜景を見晴らすスカイバス' },
-      { key: 'ginza_millennium', query: 'ミレニアム三井ガーデンホテル東京', label: '中央区ふるさと納税・銀座四丁目交差点・歌舞伎座すぐの好立地！ショッピングと観劇に最適な洗練ステイ' },
-      { key: 'ginza_monterey', query: 'ホテルモントレ銀座', label: '中央区ふるさと納税・銀座の路地に佇む欧州クラシカルホテル！パリのアパルトマンを思わせる優雅な空間' }
+      '永平寺 親禅の宿 柏樹關',
+      'コートヤード・バイ・マリオット福井',
+      'ホテルリバージュアケボノ',
+      'ホテルフジタ福井',
+      'ホテル京福 福井駅前',
+      '勝山ニューホテル',
+      '永平寺 ホテル'
     ]
   },
   {
-    slug: 'furusato-tax-osaka-umeda-luxury-skyview-stay',
+    theme: 'fukuoka_munakata',
+    slug: 'winter-fukuoka-munakata-taisha-hatsumode-torafugu-munakatagyu-stay',
+    label: '福岡・宗像＆岡垣（世界遺産宗像大社新春開運初詣＆玄界灘冬絶景・鐘崎天然とらふぐと極上宗像牛名宿）',
+    filter: (h) => h.address1.includes('福岡県') && (h.address2.includes('宗像') || h.address2.includes('岡垣') || h.address2.includes('福津') || h.address2.includes('遠賀') || h.address2.includes('古賀')),
     queries: [
-      { key: 'osaka_ritzcarlton', query: 'ザ・リッツ・カールトン大阪', label: '大阪市ふるさと納税・18世紀英国貴族の邸宅を思わせる最高峰ラグジュアリー！世界的名声と極上の美食' },
-      { key: 'osaka_intercontinental', query: 'インターコンチネンタルホテル大阪　ｂｙ　ＩＨＧ', label: '大阪市ふるさと納税・グランフロント大阪直結！洗練の現代デザインと高層階クラブラウンジ' },
-      { key: 'osaka_hilton', query: 'ヒルトン大阪', label: '大阪市ふるさと納税・JR大阪駅前の抜群のアクセス！多彩な直営レストランとエグゼクティブラウンジ' }
+      'メルキュール福岡宗像リゾート＆スパ',
+      '杜の七種',
+      'ぶどうの樹',
+      'オテルグレージュ',
+      '宿屋 伝八',
+      'グランピング福岡 ぶどうの樹',
+      '宗像 ホテル',
+      '岡垣 ホテル'
+    ]
+  },
+  {
+    theme: 'hyogo_himeji',
+    slug: 'winter-hyogo-himeji-castle-shoshasan-hatsumode-oyster-banshubee-stay',
+    label: '兵庫・姫路＆播磨灘（世界遺産白鷺城・姫路城冬景色＆書写山圓教寺新春初詣・播磨灘旬牡蠣と極上播州牛名宿）',
+    filter: (h) => h.address1.includes('兵庫県') && (h.address2.includes('姫路') || h.address2.includes('たつの') || h.address2.includes('相生') || h.address2.includes('加古川') || h.address2.includes('高砂')),
+    queries: [
+      'ホテル日航姫路',
+      'セトレ ハイランドヴィラ姫路',
+      'ダイワロイネットホテル姫路',
+      'ホテルモントレ姫路',
+      'リッチモンドホテル姫路',
+      '姫路キャッスルグランヴィリオホテル',
+      '天然温泉 白鷺の湯 ドーミーイン姫路'
     ]
   }
 ];
 
-async function run() {
+async function main() {
+  console.log('================================================================');
+  console.log('Fetching & Filtering Rakuten Hotels for Round 108 via Rakuten API');
+  console.log('================================================================');
+
   const result = {};
 
-  for (const config of furusatoConfigs) {
-    result[config.slug] = {};
-    for (const q of config.queries) {
-      console.log(`Fetching: ${q.query}...`);
-      await sleep(1500);
+  for (const t of targets) {
+    console.log(`\n--- Fetching Theme: ${t.label} (${t.theme}) ---`);
+    const themeHotels = [];
+    const usedHotelNos = new Set();
+
+    for (const q of t.queries) {
+      console.log(`Searching query: "${q}"...`);
       try {
-        const hotels = await searchRakutenHotels(q.query, 1);
-        if (hotels && hotels.length > 0) {
-          result[config.slug][q.key] = {
-            ...hotels[0],
-            customLabel: q.label
-          };
-          console.log(`-> SUCCESS: ${hotels[0].hotelName} (No: ${hotels[0].hotelNo})`);
-        } else {
-          console.warn(`-> NOT FOUND: ${q.query}`);
+        const hotels = await searchRakutenHotels(q, 5);
+        await sleep(400);
+
+        for (const h of hotels) {
+          if (!usedHotelNos.has(h.hotelNo) && t.filter(h)) {
+            usedHotelNos.add(h.hotelNo);
+            themeHotels.push(h);
+            console.log(`  -> Match: [${h.hotelNo}] ${h.hotelName} (${h.address1} ${h.address2}) [Review: ${h.reviewAverage}, MinCharge: ${h.hotelMinCharge}]`);
+          }
         }
       } catch (err) {
-        console.error(`-> ERROR fetching ${q.query}:`, err.message);
+        console.error(`  Error searching "${q}":`, err.message);
       }
+      if (themeHotels.length >= 5) break;
     }
+
+    console.log(`Total matched hotels for ${t.theme}: ${themeHotels.length}`);
+    if (themeHotels.length < 5) {
+      console.warn(`WARNING: Less than 5 hotels matched for ${t.theme}! (${themeHotels.length}/5)`);
+    }
+
+    result[t.theme] = {
+      label: t.label,
+      slug: t.slug,
+      hotels: themeHotels.slice(0, 5)
+    };
   }
 
-  const outputPath = path.join(__dirname, 'round108_hotels.json');
-  fs.writeFileSync(outputPath, JSON.stringify(result, null, 2), 'utf8');
-  console.log(`Finished! Saved to ${outputPath}`);
+  const outPath = path.join(__dirname, 'round108_raw_hotels.json');
+  fs.writeFileSync(outPath, JSON.stringify(result, null, 2), 'utf8');
+  console.log(`\n================================================================`);
+  console.log(`Successfully saved raw hotel data to: ${outPath}`);
+  console.log(`================================================================`);
 }
 
-run();
+main().catch(err => {
+  console.error('Fatal error in fetch script:', err);
+  process.exit(1);
+});
