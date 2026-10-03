@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-osaka-usj-bayarea-christmas-countdown-official-stay',
+              title: "USJ冬のクリスマス＆ベイエリア夜景！天然温泉スパと絶景オフィシャルホテル名宿",
+              desc: "NO LIMIT! クリスマスやホグワーツ雪景色、海遊館イルミ。オフィシャルホテルのパークビューと天然温泉スパ、熱々の大阪グルメ…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-tokyo-roppongi-hills-azabudai-keyakizaka-illumination-stay',
+              title: "六本木けやき坂イルミネーション＆麻布台ヒルズ！東京タワー冬夜景と美食のラグジュアリーホテル",
+              desc: "80万球のSNOW & BLUE並木道と東京タワー、麻布台ヒルズのクリスマスマーケット。天空ラウンジから夜景を見下ろす極上ステイ…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-chiba-tokyo-disney-resort-maihama-christmas-hotel-stay',
+              title: "東京ディズニーリゾート冬のクリスマス＆年末年始！直営・オフィシャルホテルで叶える夢の冬旅名宿",
+              desc: "巨大ツリーと花火スターブライト・クリスマス、新春お正月プログラム。ベイサイド至近オフィシャル宿、温水スパや伝統フレンチトースト…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-kyoto-kibune-kurama-snow-lightup-botannabe-stay',
+              title: "雪の貴船神社積雪日限定ライトアップ＆奥座敷冬情趣！名物ぼたん鍋と名湯京懐石の隠れ家名宿",
+              desc: "積雪日限定の貴船神社灯籠ライトアップ、三千院の雪庭。囲炉裏端の元祖天然ぼたん鍋と大原温泉雪見露天風呂に癒やされる京都奥座敷…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-okinawa-miyakojima-shigira-resort-sunrisepoint-miyakogyu-stay',
+              title: "冬の避寒リゾート＆宮古ブルー！シギラリゾートの南国極上ステイと宮古牛・東平安名崎初日の出名宿",
+              desc: "平均20度の温暖な南国避寒バカンス。冬に透明度が極まる宮古ブルー、東平安名崎初日の出、シギラ黄金温泉や極上宮古牛鉄板焼き…",
+              badge: '11・12・1月特集'
+            },
+            {
               slug: 'winter-hokkaido-sapporo-odori-illumination-jozankei-stay',
               title: "さっぽろホワイトイルミネーション＆定山渓雪見露天！札幌味噌ラーメンと北の味覚名宿",
               desc: "初雪から白銀ピークの11〜1月。大通公園70万球のホワイトイルミ＆ミュンヘン・クリスマス市、すすきの夜景、熱々濃厚味噌ラーメン、定山渓温泉の雪見露天…",
