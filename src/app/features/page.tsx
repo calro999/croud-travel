@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-kanagawa-hakone-yumoto-ashinoko-shrine-fuji-stay',
+              title: "冬の箱根湯本＆芦ノ湖・箱根神社新春初詣！澄み渡る白雪富士の絶景と名湯の名宿",
+              desc: "冬の大気で透き通る芦ノ湖越しに仰ぐ冠雪富士のパノラマ。関東総鎮守・箱根神社初詣と平和の鳥居、相模湾の寒魚や箱根山麓豚、美肌の箱根湯本温泉…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-osaka-city-sumiyoshi-taisha-hatsumode-illumination-fugu-stay',
+              title: "冬の大阪・住吉大社新春初詣＆御堂筋イルミネーション！本場てっちりと煌めく夜景の名宿",
+              desc: "全長4kmに及ぶ世界最大級の光の回廊と中之島光のルネサンス。全国総本社・住吉大社の反橋渡りと開運祈願、ふぐ消費量日本一の極上てっちり鍋と地上高層絶景…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-ibaraki-tsukubasan-shrine-hatsumode-yakei-onsen-hitachigyu-stay',
+              title: "冬の筑波山神社新春初詣＆スターダスト夜景！名湯筑波山温泉と極上常陸牛の名宿",
+              desc: "澄んだ冬空で見晴らす関東平野一面の日本夜景遺産。三千年の古社・筑波山神社の縁結び初詣、pH10超の美肌温泉、A5ランク常陸牛やすき焼きとつくばうどん…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-ehime-imabari-shimanami-oomishima-taimeshi-onsen-stay',
+              title: "冬の来島海峡絶景＆日本総鎮守・大山祇神社新春初詣！来島天然真鯛と名湯の名宿",
+              desc: "冬晴れの多島美と来島海峡大橋の雄姿。大三島に鎮座する日本総鎮守・大山祇神社の国宝武具と新春初詣、激流が育む寒真鯛のふっくら鯛めし、美肌の鈍川温泉…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-kagoshima-city-sakurajima-view-kurobuta-kanburi-onsen-stay',
+              title: "冬の桜島絶景＆照国神社新春初詣！本場黒豚しゃぶしゃぶと錦江湾寒ブリ・展望温泉の名宿",
+              desc: "冬晴れの錦江湾に浮かぶ雄峰桜島の圧倒的パノラマ。薩摩藩祖・島津斉彬公を祀る照国神社初詣、とろけるかごしま黒豚しゃぶしゃぶ、錦江湾寒ブリと展望露天風呂…",
+              badge: '11・12・1月特集'
+            },
+            {
               slug: 'winter-akita-kakunodate-bukeyashiki-snow-kiritanpo-hinaijidori-stay',
               title: "陸奥の小京都・角館武家屋敷雪景色＆冬の田沢湖！比内地鶏きりたんぽ鍋と名湯の名宿",
               desc: "黒板塀に降り積もる純白の雪と日本一深い瑠璃色の田沢湖。新米あきたこまちと比内地鶏の黄金出汁が染み入る本場きりたんぽ鍋、乳白色の濁り湯露天風呂…",
