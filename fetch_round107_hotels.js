@@ -4,69 +4,145 @@ const path = require('path');
 
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
-const furusatoConfigs = [
+const targets = [
   {
-    slug: 'furusato-tax-kyoto-station-luxury-convenience-stay',
+    theme: 'ibaraki_mito_kasama',
+    slug: 'winter-ibaraki-mito-kasama-inari-hatsumode-ankou-hitachigyu-stay',
+    label: '茨城・水戸＆笠間（日本三大稲荷・笠間稲荷神社新春初詣＆水戸偕楽園冬梅・本場濃厚あんこう鍋と極上常陸牛名宿）',
+    filter: (h) => h.address1.includes('茨城県') && (h.address2.includes('水戸') || h.address2.includes('笠間') || h.address2.includes('東茨城')),
     queries: [
-      { key: 'kyoto_granvia', query: 'ホテルグランヴィア京都', label: '京都市ふるさと納税・JR京都駅直結の最高峰ランドマークホテル！駅直結の圧倒的利便性と極上ダイニング' },
-      { key: 'kyoto_thousand', query: 'ザ・サウザンド京都', label: '京都市ふるさと納税・京都駅徒歩2分の静謐なラグジュアリー！現代の茶室を思わせる癒やしの空間' },
-      { key: 'kyoto_rihga', query: 'リーガロイヤルホテル京都', label: '京都市ふるさと納税・京都唯一の回転展望レストラン！伝統のおもてなしと充実の設備を誇る名門' }
+      '水戸プラザホテル',
+      'ホテル・ザ・ウエストヒルズ・水戸',
+      'ダイワロイネットホテル水戸',
+      'ＪＲ東日本ホテルメッツ水戸',
+      'プレジデントホテル水戸',
+      'ホテルルートイン水戸県庁前',
+      'コートホテル水戸'
     ]
   },
   {
-    slug: 'furusato-tax-tokyo-station-marunouchi-luxury-stay',
+    theme: 'hiroshima_onomichi_senkoji',
+    slug: 'winter-hiroshima-onomichi-senkoji-shimanami-okoze-ramen-stay',
+    label: '広島・尾道＆しまなみ海道（冬の尾道水道夕景＆千光寺新春開運初詣・瀬戸内の旬魚オコゼ・穴子と名物尾道ラーメン名宿）',
+    filter: (h) => h.address1.includes('広島県') && (h.address2.includes('尾道') || h.address2.includes('福山')),
     queries: [
-      { key: 'tokyo_stationhotel', query: '東京ステーションホテル', label: '千代田区ふるさと納税・国指定重要文化財の赤レンガ駅舎内！100年超の歴史と名誉を誇る唯一無二の名宿' },
-      { key: 'tokyo_palacehotel', query: 'パレスホテル東京', label: '千代田区ふるさと納税・皇居外苑の緑を望む世界最高峰ホテル！フォーブス5つ星の至高のホスピタリティ' },
-      { key: 'tokyo_imperial', query: '帝国ホテル東京', label: '千代田区ふるさと納税・日本の迎賓館として歴史を刻む最高峰グランドホテル！伝統のサービスと美食' }
+      'グリーンヒルホテル尾道',
+      '尾道国際ホテル',
+      'ＨＯＴＥＬ　ＣＹＣＬＥ',
+      '天然温泉　尾道みなと館',
+      '尾道ロイヤルホテル',
+      'Urashima INN -GANGI-',
+      'おのみち河野屋',
+      'ベッセルホテル福山'
     ]
   },
   {
-    slug: 'furusato-tax-tokyo-asakusa-skytree-view-stay',
+    theme: 'oita_usa_kunisaki',
+    slug: 'winter-oita-usa-jingu-kunisaki-hatsumode-bungogyu-seafood-stay',
+    label: '大分・宇佐＆国東半島（全国八幡宮総本宮・宇佐神宮新春開運初詣＆国東六郷満山・豊前海天然車海老と極上豊後牛名宿）',
+    filter: (h) => h.address1.includes('大分県') && (h.address2.includes('宇佐') || h.address2.includes('国東') || h.address2.includes('豊後高田') || h.address2.includes('中津') || h.address2.includes('杵築')),
     queries: [
-      { key: 'asakusa_viewhotel', query: '浅草ビューホテル', label: '台東区ふるさと納税・浅草随一の高層ビュー！東京スカイツリーと浅草寺を一望する絶景ホテル' },
-      { key: 'asakusa_gatehotel', query: 'ＴＨＥ　ＧＡＴＥ　ＨＯＴＥＬ（ザ・ゲートホテル）　雷門　ｂｙ　ＨＵＬＩＣ', label: '台東区ふるさと納税・雷門徒歩2分のデザイナーズホテル！13階ロビーから望むスカイツリーパノラマ' },
-      { key: 'asakusa_nono', query: '天然温泉　凌雲の湯　御宿　野乃浅草（ドーミーイン・御宿野乃　ホテルズグループ）', label: '台東区ふるさと納税・全館畳敷きの和風プレミアムホテル！自家源泉の黒湯天然温泉と名物夜鳴きそば' }
+      '富貴寺温泉　旅庵　蕗薹',
+      'ホテルベイグランド国東',
+      '梅園の里',
+      'ホテルルートイン中津駅前',
+      'スーパーホテル中津駅前',
+      '東横ＩＮＮ中津駅前',
+      'HOTEL AZ 大分安心院',
+      'スパ＆リゾート ホテルソラージュ 日出'
     ]
   },
   {
-    slug: 'furusato-tax-nara-park-heritage-luxury-stay',
+    theme: 'okayama_takahashi_unkai',
+    slug: 'winter-okayama-takahashi-bitchu-matsuyama-castle-unkai-chiyagyu-stay',
+    label: '岡山・高梁＆備中松山城・美星町（冬の雲海に浮かぶ天空の山城・備中松山城＆美星町満天星空・幻の千屋牛すき焼き名宿）',
+    filter: (h) => h.address1.includes('岡山県') && (h.address2.includes('高梁') || h.address2.includes('新見') || h.address2.includes('井原') || h.address2.includes('総社') || h.address2.includes('加賀郡') || h.address2.includes('小田郡')),
     queries: [
-      { key: 'nara_narahotel', query: '奈良ホテル', label: '奈良市ふるさと納税・明治四十二年創業「関西の迎賓館」！名画が飾られた本館と伝統のクラシックフレンチ' },
-      { key: 'nara_fufu', query: 'ふふ　奈良', label: '奈良市ふるさと納税・奈良公園の緑に抱かれる隈研吾氏設計の至高宿！全室温泉露天風呂付きスイート' },
-      { key: 'nara_marriott', query: 'ＪＷマリオット・ホテル奈良', label: '奈良市ふるさと納税・日本初進出の最高峰インターナショナルブランド！古都の美とモダンラグジュアリー' }
+      '高梁国際ホテル',
+      '新見　グランドホテルみよしや',
+      '高梁ファイブシーズホテル',
+      'サントピア岡山総社',
+      '矢掛屋',
+      '吉備高原リゾートホテル',
+      '千屋温泉',
+      '新見 ホテル'
+    ]
+  },
+  {
+    theme: 'gifu_gujo_hachiman',
+    slug: 'winter-gifu-gujo-hachiman-snow-castle-hidagyu-keichan-stay',
+    label: '岐阜・郡上八幡＆美濃（冬の奥美濃小京都雪景色・宗祇水＆郡上八幡城・冬の地酒と極上飛騨牛すき焼き名宿）',
+    filter: (h) => h.address1.includes('岐阜県') && (h.address2.includes('郡上') || h.address2.includes('美濃')),
+    queries: [
+      '郡上八幡　ホテル積翠園',
+      'フェアフィールド・バイ・マリオット・岐阜郡上',
+      'フェアフィールド・バイ・マリオット・岐阜美濃',
+      '鷲ヶ岳高原ホテル・レインボー',
+      '郡上八幡ホテル',
+      'ホテル郡上八幡',
+      '郡上八幡 旅館',
+      '美濃 ホテル'
     ]
   }
 ];
 
-async function run() {
+async function main() {
+  console.log('================================================================');
+  console.log('Fetching & Filtering Rakuten Hotels for Round 107 via Rakuten API');
+  console.log('================================================================');
+
   const result = {};
 
-  for (const config of furusatoConfigs) {
-    result[config.slug] = {};
-    for (const q of config.queries) {
-      console.log(`Fetching: ${q.query}...`);
-      await sleep(1500);
+  for (const t of targets) {
+    console.log(`\n--- Fetching Theme: ${t.label} (${t.theme}) ---`);
+    const themeHotels = [];
+    const usedHotelNos = new Set();
+
+    for (const q of t.queries) {
+      if (themeHotels.length >= 5) break;
+      console.log(`Query: "${q}"...`);
       try {
-        const hotels = await searchRakutenHotels(q.query, 1);
+        const hotels = await searchRakutenHotels(q, 5);
+        await sleep(1300); // 楽天APIレートリミット対策
         if (hotels && hotels.length > 0) {
-          result[config.slug][q.key] = {
-            ...hotels[0],
-            customLabel: q.label
-          };
-          console.log(`-> SUCCESS: ${hotels[0].hotelName} (No: ${hotels[0].hotelNo})`);
+          for (const h of hotels) {
+            if (themeHotels.length >= 5) break;
+            if (!usedHotelNos.has(h.hotelNo)) {
+              // 住所フィルターチェック
+              if (t.filter(h)) {
+                usedHotelNos.add(h.hotelNo);
+                themeHotels.push(h);
+                console.log(`  + [Matched] [${h.hotelNo}] ${h.hotelName} | ${h.address1} ${h.address2} (Rating: ${h.reviewAverage}, Price: ¥${h.hotelMinCharge})`);
+              } else {
+                console.log(`  - [Filtered Out: wrong location] ${h.hotelName} | ${h.address1} ${h.address2}`);
+              }
+            }
+          }
         } else {
-          console.warn(`-> NOT FOUND: ${q.query}`);
+          console.log(`  - No results for query: "${q}"`);
         }
       } catch (err) {
-        console.error(`-> ERROR fetching ${q.query}:`, err.message);
+        console.error(`  ! Error searching "${q}":`, err.message);
+        await sleep(2000);
       }
     }
+
+    result[t.theme] = {
+      label: t.label,
+      slug: t.slug,
+      hotels: themeHotels
+    };
+    console.log(`Finished ${t.theme}: Total ${themeHotels.length} hotels collected.`);
   }
 
-  const outputPath = path.join(__dirname, 'round107_hotels.json');
-  fs.writeFileSync(outputPath, JSON.stringify(result, null, 2), 'utf8');
-  console.log(`Finished! Saved to ${outputPath}`);
+  const outPath = path.join(__dirname, 'round107_raw_hotels.json');
+  fs.writeFileSync(outPath, JSON.stringify(result, null, 2), 'utf8');
+  console.log(`\n================================================================`);
+  console.log(`Successfully saved strictly filtered Rakuten API hotels to ${outPath}`);
+  console.log(`================================================================`);
 }
 
-run();
+main().catch(err => {
+  console.error('Fatal fetch error:', err);
+  process.exit(1);
+});

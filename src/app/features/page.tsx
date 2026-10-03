@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-ibaraki-mito-kasama-inari-hatsumode-ankou-hitachigyu-stay',
+              title: "笠間稲荷神社新春開運初詣＆水戸偕楽園冬梅！本場濃厚あんこう鍋と極上常陸牛の名宿",
+              desc: "日本三大稲荷・笠間稲荷神社の新春初詣と、日本三名園・偕楽園の早咲き冬梅。常磐沖のあん肝溶け出す濃厚どぶ汁風あんこう鍋、最高峰黒毛和牛「常陸牛」の極上すき焼き…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-hiroshima-onomichi-senkoji-shimanami-okoze-ramen-stay',
+              title: "尾道水道の夕景＆千光寺新春開運初詣！瀬戸内の旬魚オコゼ・穴子と名物尾道ラーメンの名宿",
+              desc: "冬の澄んだ大気に輝く尾道水道の夕景マジックアワー。806年開基の古刹・千光寺での新春初詣と坂道散策、冬の白身の王様オコゼの薄造り、寒穴子飯、熱々尾道ラーメン…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-oita-usa-jingu-kunisaki-hatsumode-bungogyu-seafood-stay',
+              title: "全国八幡宮総本宮・宇佐神宮新春開運初詣＆国東六郷満山！豊前海天然車海老と極上豊後牛の名宿",
+              desc: "全国4万社を超える八幡宮の総本宮・宇佐神宮の二礼四拍手一礼初詣。九州最古の国宝富貴寺大堂の孤高の冬姿、豊前海直送の天然車海老、とろけるおおいた豊後牛と元祖宇佐からあげ…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-okayama-takahashi-bitchu-matsuyama-castle-unkai-chiyagyu-stay',
+              title: "雲海に浮かぶ天空の山城・備中松山城＆美星町満天星空！幻の千屋牛すき焼きを堪能する名宿",
+              desc: "現存天守唯一の山城が純白の雲海に浮かぶ冬の奇跡。猫城主さんじゅーろー、吹屋ふるさと村のベンガラ格子、星空保護区美星町の冬星空、日本最古の蔓牛「千屋牛」の極上すき焼き…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-gifu-gujo-hachiman-snow-castle-hidagyu-keichan-stay',
+              title: "奥美濃の小京都・郡上八幡城雪景色＆宗祇水！名物鶏ちゃんと極上飛騨牛すき焼きの名宿",
+              desc: "日本最古の木造再建城・郡上八幡城の白銀「積翠城」。名水百選第1号・宗祇水と職人町の水路、美濃市うだつの上がる町並み、熱々の味噌鉄板焼き「鶏ちゃん」と最高級飛騨牛すき焼き…",
+              badge: '11・12・1月特集'
+            },
+            {
               slug: 'winter-shizuoka-fujinomiya-sengen-taisha-fuji-view-wagyu-stay',
               title: "白雪の富士山絶景＆富士山本宮浅間大社新春初詣！田貫湖逆さ富士と特選「静岡そだち」牛の名宿",
               desc: "年間で最も空気が澄む冬の富士宮。全国浅間神社の総本宮・浅間大社の新春初詣と特別天然記念物湧玉池、田貫湖の白雪逆さ富士、白糸の滝、極上「静岡そだち」牛と富士宮やきそば…",
