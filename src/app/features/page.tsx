@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-ishikawa-kanazawa-city-kenrokuen-yukizuri-koubako-crab-stay',
+              title: "冬の兼六園雪吊り＆尾山神社新春初詣！近江町市場の香箱ガニ・寒ブリ・加賀おでん名宿",
+              desc: "日本三名園・兼六園の唐崎松雪吊りと白銀の静謐美。11月6日解禁の香箱ガニや寒ブリ、尾山神社ステンドグラス神門初詣、出汁染みる金沢おでんと天然温泉…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-tokyo-asakusa-sensoji-hatsumode-skytree-edomae-stay',
+              title: "浅草寺新春初詣＆東京スカイツリー冬夜景！老舗すき焼き・江戸前天ぷら・下町天然温泉宿",
+              desc: "雷門から続く新春の祈りと1400年の歴史。澄み渡る冬空に輝くスカイツリー限定ライティング、浅草今半すき焼き・江戸前天丼・どぜう鍋、名物黒湯天然温泉…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-shizuoka-city-nihondaira-kunozan-toshogu-maguro-stay',
+              title: "冬の久能山東照宮新春初詣＆日本平富士山パノラマ絶景！清水港冬マグロ・由比桜えび名宿",
+              desc: "日本平夢テラスからの白銀冠雪富士山と駿河湾360度大絶景。徳川家康公を祀る国宝久能山東照宮初詣、清水港日本一の本マグロ丼、由比桜えびと静岡おでん…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-miyazaki-nichinan-udo-shrine-hatsumode-iseebi-wagyu-stay',
+              title: "冬の鵜戸神宮新春開運初詣＆日南海岸絶景ドライブ！名物伊勢海老・極上宮崎牛と日南温泉名宿",
+              desc: "断崖洞窟に鎮座する霊場・鵜戸神宮の運玉投げと新春初詣。冬でも温暖な青空広がる日南フェニックスロード、飫肥城下町の小京都情緒、本場伊勢海老と宮崎牛…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-okinawa-naha-naminoe-shrine-hatsumode-agu-resort-stay',
+              title: "新春波上宮初詣＆首里城復興見学！国際通り・あぐー豚しゃぶしゃぶとあったか避冬ホテル",
+              desc: "平均気温18℃の温暖な避冬リゾート。琉球八社最高位・波上宮の新春開運初詣、2026年正殿復元へ進む首里城見せる復興、あぐー豚しゃぶしゃぶと琉球天然温泉…",
+              badge: '11・12・1月特集'
+            },
+            {
               slug: 'winter-iwate-morioka-tsunagi-onsen-hatsumode-wagyu-stay',
               title: "冬の盛岡八幡宮新春開運初詣＆岩手山白銀絶景！繋温泉美肌湯と盛岡三大麺の名宿",
               desc: "澄んだ青空に輝く岩手山南部片富士の雪嶺パノラマ。岩手県総鎮守・盛岡八幡宮初詣と伝統の裸参り、源泉掛け流し繋温泉、熱々じゃじゃ麺・盛岡冷麺と極上雫石牛…",
