@@ -1,4 +1,4 @@
-# センティア・ホテル内藤のリアル宿泊記！温泉・客室・朝食バイキングの本音口コミ評判｜山梨県
+# 【名湯・露天風呂特集】センティア・ホテル内藤の極上温泉ガイド！泉質・湯浴み・サウナでととのう至福時間｜山梨県
 
 - URL: https://croud-travel.pages.dev/posts/centia-hotel-naito-kofu-stay-review-guide/
 - 宿泊施設名: センティア・ホテル内藤

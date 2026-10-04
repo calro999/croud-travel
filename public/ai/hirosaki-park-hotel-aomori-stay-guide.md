@@ -1,4 +1,4 @@
-# 弘前パークホテルのリアル宿泊記！温泉・客室・朝食バイキングの本音口コミ評判｜青森県
+# 【名湯・露天風呂特集】弘前パークホテルの極上温泉ガイド！泉質・湯浴み・サウナでととのう至福時間｜青森県
 
 - URL: https://croud-travel.pages.dev/posts/hirosaki-park-hotel-aomori-stay-guide/
 - 宿泊施設名: 弘前パークホテル

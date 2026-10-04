@@ -1,0 +1,706 @@
+[
+  {
+    "file": "yumura-asanoya-guide.json",
+    "id": "yumura-asanoya-guide",
+    "hotel_name": "山陰湯村温泉 朝野家",
+    "prefecture": "兵庫県",
+    "area": "城崎・竹野・豊岡",
+    "themeIdx": 1
+  },
+  {
+    "file": "dogo-funaya-guide.json",
+    "id": "dogo-funaya-guide",
+    "hotel_name": "道後温泉 ふなや",
+    "prefecture": "愛媛県",
+    "area": "松山・道後",
+    "themeIdx": 1
+  },
+  {
+    "file": "atsushio-yamagataya-guide.json",
+    "id": "atsushio-yamagataya-guide",
+    "hotel_name": "創作料理が自慢の宿 会津 喜多方 熱塩温泉 山形屋",
+    "prefecture": "福島県",
+    "area": "喜多方・磐梯・猪苗代",
+    "themeIdx": 1
+  },
+  {
+    "file": "hakone-nanpuso-guide.json",
+    "id": "hakone-nanpuso-guide",
+    "hotel_name": "箱根湯本温泉 ホテル南風荘",
+    "prefecture": "神奈川県",
+    "area": "箱根",
+    "themeIdx": 1
+  },
+  {
+    "file": "hakone-kajikaso-guide.json",
+    "id": "hakone-kajikaso-guide",
+    "hotel_name": "箱根湯本温泉 ホテル河鹿荘＜神奈川県＞",
+    "prefecture": "神奈川県",
+    "area": "箱根",
+    "themeIdx": 1
+  },
+  {
+    "file": "asamushi-sakura-kanko-hotel-guide.json",
+    "id": "asamushi-sakura-kanko-hotel-guide",
+    "hotel_name": "浅虫温泉 絶景の宿 浅虫さくら観光ホテル",
+    "prefecture": "青森県",
+    "area": "青森・浅虫",
+    "themeIdx": 1
+  },
+  {
+    "file": "uresDateTime-wataya-besso-guide.json",
+    "id": "uresDateTime-wataya-besso-guide",
+    "hotel_name": "嬉野温泉 和多屋別荘",
+    "prefecture": "佐賀県",
+    "area": "嬉野・武雄",
+    "themeIdx": 1
+  },
+  {
+    "file": "sukayu-onsen-guide.json",
+    "id": "sukayu-onsen-guide",
+    "hotel_name": "酸ヶ湯温泉旅館",
+    "prefecture": "青森県",
+    "area": "青森・浅虫",
+    "themeIdx": 1
+  },
+  {
+    "file": "56137.json",
+    "id": "56137",
+    "hotel_name": "草津温泉 ホテル櫻井",
+    "prefecture": "群馬県",
+    "area": "関東",
+    "themeIdx": 1
+  },
+  {
+    "file": "84545.json",
+    "id": "84545",
+    "hotel_name": "北陸 あわら温泉 まつや千千",
+    "prefecture": "福井県",
+    "area": "甲信越・北陸",
+    "themeIdx": 1
+  },
+  {
+    "file": "8886.json",
+    "id": "8886",
+    "hotel_name": "下呂温泉 水明館",
+    "prefecture": "岐阜県",
+    "area": "東海",
+    "themeIdx": 1
+  },
+  {
+    "file": "akan-tsuruga-guide.json",
+    "id": "akan-tsuruga-guide",
+    "hotel_name": "あかん遊久の里鶴雅",
+    "prefecture": "北海道",
+    "area": "阿寒・摩周・屈斜路",
+    "themeIdx": 1
+  },
+  {
+    "file": "akan-roten-yado-guide.json",
+    "id": "akan-roten-yado-guide",
+    "hotel_name": "あかん遊久の里鶴雅",
+    "prefecture": "北海道",
+    "area": "阿寒・摩周・屈斜路",
+    "themeIdx": 2
+  },
+  {
+    "file": "akan-onsen-roten-review-guide.json",
+    "id": "akan-onsen-roten-review-guide",
+    "hotel_name": "あかん遊久の里鶴雅",
+    "prefecture": "北海道",
+    "area": "阿寒・摩周・屈斜路",
+    "themeIdx": 3
+  },
+  {
+    "file": "akan-onsen-yados-guide.json",
+    "id": "akan-onsen-yados-guide",
+    "hotel_name": "あかん遊久の里鶴雅",
+    "prefecture": "北海道",
+    "area": "阿寒・摩周・屈斜路",
+    "themeIdx": 4
+  },
+  {
+    "file": "akan-kamuinoyu-tsuruga-guide.json",
+    "id": "akan-kamuinoyu-tsuruga-guide",
+    "hotel_name": "あかん遊久の里鶴雅",
+    "prefecture": "北海道",
+    "area": "阿寒・摩周・屈斜路",
+    "themeIdx": 5
+  },
+  {
+    "file": "aso-uchinamaki-yado-guide.json",
+    "id": "aso-uchinamaki-yado-guide",
+    "hotel_name": "阿蘇内牧温泉 阿蘇プラザホテル",
+    "prefecture": "熊本県",
+    "area": "阿蘇・小国",
+    "themeIdx": 1
+  },
+  {
+    "file": "aso-plaza-hotel-review-guide.json",
+    "id": "aso-plaza-hotel-review-guide",
+    "hotel_name": "阿蘇内牧温泉 阿蘇プラザホテル",
+    "prefecture": "熊本県",
+    "area": "阿蘇・小国",
+    "themeIdx": 2
+  },
+  {
+    "file": "aso-plaza-hotel-onsen-guide.json",
+    "id": "aso-plaza-hotel-onsen-guide",
+    "hotel_name": "阿蘇内牧温泉 阿蘇プラザホテル",
+    "prefecture": "熊本県",
+    "area": "阿蘇・小国",
+    "themeIdx": 3
+  },
+  {
+    "file": "aso-plaza-hotel-guide.json",
+    "id": "aso-plaza-hotel-guide",
+    "hotel_name": "阿蘇内牧温泉 阿蘇プラザホテル",
+    "prefecture": "熊本県",
+    "area": "阿蘇・小国",
+    "themeIdx": 4
+  },
+  {
+    "file": "aso-shinwaen-part30-guide.json",
+    "id": "aso-shinwaen-part30-guide",
+    "hotel_name": "阿蘇内牧温泉 御料理旅館 親和苑",
+    "prefecture": "熊本県",
+    "area": "阿蘇・小国",
+    "themeIdx": 1
+  },
+  {
+    "file": "atagawa-horaiya-guide.json",
+    "id": "atagawa-horaiya-guide",
+    "hotel_name": "熱川温泉 蓬莱屋旅館",
+    "prefecture": "静岡県",
+    "area": "東伊豆・河津",
+    "themeIdx": 1
+  },
+  {
+    "file": "atagawa-ichiryukaku-guide.json",
+    "id": "atagawa-ichiryukaku-guide",
+    "hotel_name": "熱川温泉 一柳閣",
+    "prefecture": "静岡県",
+    "area": "東伊豆・河津",
+    "themeIdx": 1
+  },
+  {
+    "file": "atagawa-ichiryuukaku-review-guide.json",
+    "id": "atagawa-ichiryuukaku-review-guide",
+    "hotel_name": "熱川温泉 一柳閣",
+    "prefecture": "静岡県",
+    "area": "東伊豆・河津",
+    "themeIdx": 2
+  },
+  {
+    "file": "atagawa-onsen-roten-guide.json",
+    "id": "atagawa-onsen-roten-guide",
+    "hotel_name": "伊豆熱川温泉 ホテルカターラ RESORT＆SPA",
+    "prefecture": "静岡県",
+    "area": "東伊豆・河津",
+    "themeIdx": 1
+  },
+  {
+    "file": "atagawa-katara-review-guide.json",
+    "id": "atagawa-katara-review-guide",
+    "hotel_name": "伊豆熱川温泉 ホテルカターラ RESORT＆SPA",
+    "prefecture": "静岡県",
+    "area": "東伊豆・河津",
+    "themeIdx": 2
+  },
+  {
+    "file": "atagawa-katara-guide.json",
+    "id": "atagawa-katara-guide",
+    "hotel_name": "伊豆熱川温泉 ホテルカターラ RESORT＆SPA",
+    "prefecture": "静岡県",
+    "area": "東伊豆・河津",
+    "themeIdx": 3
+  },
+  {
+    "file": "autumn-ehime-dogo-10selection.json",
+    "id": "autumn-ehime-dogo-10selection",
+    "hotel_name": "道後温泉おすすめ温泉宿10選",
+    "prefecture": "愛媛県",
+    "area": "道後温泉",
+    "themeIdx": 1
+  },
+  {
+    "file": "january-gifu-takayama-10selection.json",
+    "id": "january-gifu-takayama-10selection",
+    "hotel_name": "飛騨高山おすすめ温泉宿10選",
+    "prefecture": "岐阜県",
+    "area": "飛騨高山",
+    "themeIdx": 1
+  },
+  {
+    "file": "january-gifu-hidatakayama-10selection.json",
+    "id": "january-gifu-hidatakayama-10selection",
+    "hotel_name": "飛騨高山おすすめ温泉宿10選",
+    "prefecture": "岐阜県",
+    "area": "飛騨高山",
+    "themeIdx": 2
+  },
+  {
+    "file": "autumn-gunma-ikaho-single-10selection.json",
+    "id": "autumn-gunma-ikaho-single-10selection",
+    "hotel_name": "伊香保温泉おすすめ温泉宿10選",
+    "prefecture": "群馬県",
+    "area": "伊香保温泉",
+    "themeIdx": 1
+  },
+  {
+    "file": "autumn-gunma-kusatsu-single-10selection.json",
+    "id": "autumn-gunma-kusatsu-single-10selection",
+    "hotel_name": "草津温泉おすすめ温泉宿10選",
+    "prefecture": "群馬県",
+    "area": "草津温泉",
+    "themeIdx": 1
+  },
+  {
+    "file": "autumn-gunma-kusatsu-10selection.json",
+    "id": "autumn-gunma-kusatsu-10selection",
+    "hotel_name": "草津温泉おすすめ温泉宿10選",
+    "prefecture": "群馬県",
+    "area": "草津温泉",
+    "themeIdx": 2
+  },
+  {
+    "file": "autumn-hokkaido-hakodate-10selection.json",
+    "id": "autumn-hokkaido-hakodate-10selection",
+    "hotel_name": "函館・湯の川温泉おすすめ温泉宿10選",
+    "prefecture": "北海道",
+    "area": "函館・湯の川温泉",
+    "themeIdx": 1
+  },
+  {
+    "file": "autumn-hokkaido-noboribetsu-10selection.json",
+    "id": "autumn-hokkaido-noboribetsu-10selection",
+    "hotel_name": "登別温泉おすすめ温泉宿10選",
+    "prefecture": "北海道",
+    "area": "登別温泉",
+    "themeIdx": 1
+  },
+  {
+    "file": "autumn-hyogo-kinosaki-10selection.json",
+    "id": "autumn-hyogo-kinosaki-10selection",
+    "hotel_name": "城崎温泉おすすめ温泉宿10選",
+    "prefecture": "兵庫県",
+    "area": "城崎温泉",
+    "themeIdx": 1
+  },
+  {
+    "file": "december-hyogo-kinosaki-10selection.json",
+    "id": "december-hyogo-kinosaki-10selection",
+    "hotel_name": "城崎温泉おすすめ温泉宿10選",
+    "prefecture": "兵庫県",
+    "area": "城崎温泉",
+    "themeIdx": 2
+  },
+  {
+    "file": "january-hyogo-kinosaki-10selection.json",
+    "id": "january-hyogo-kinosaki-10selection",
+    "hotel_name": "城崎温泉おすすめ温泉宿10選",
+    "prefecture": "兵庫県",
+    "area": "城崎温泉",
+    "themeIdx": 3
+  },
+  {
+    "file": "autumn-kumamoto-kurokawa-10selection.json",
+    "id": "autumn-kumamoto-kurokawa-10selection",
+    "hotel_name": "黒川温泉おすすめ温泉宿10選",
+    "prefecture": "熊本県",
+    "area": "黒川温泉",
+    "themeIdx": 1
+  },
+  {
+    "file": "autumn-kyoto-arashiyama-10selection.json",
+    "id": "autumn-kyoto-arashiyama-10selection",
+    "hotel_name": "嵐山・嵯峨野おすすめ温泉宿10選",
+    "prefecture": "京都府",
+    "area": "嵐山・嵯峨野",
+    "themeIdx": 1
+  },
+  {
+    "file": "autumn-oita-yufuin-10selection.json",
+    "id": "autumn-oita-yufuin-10selection",
+    "hotel_name": "由布院温泉おすすめ温泉宿10選",
+    "prefecture": "大分県",
+    "area": "由布院温泉",
+    "themeIdx": 1
+  },
+  {
+    "file": "autumn-osaka-minoh-10selection.json",
+    "id": "autumn-osaka-minoh-10selection",
+    "hotel_name": "箕面・能勢おすすめ温泉宿10選",
+    "prefecture": "大阪府",
+    "area": "箕面・能勢",
+    "themeIdx": 1
+  },
+  {
+    "file": "november-saga-ureshino-10selection.json",
+    "id": "november-saga-ureshino-10selection",
+    "hotel_name": "嬉野温泉おすすめ温泉宿10選",
+    "prefecture": "佐賀県",
+    "area": "嬉野温泉",
+    "themeIdx": 1
+  },
+  {
+    "file": "autumn-saga-ureshino-10selection.json",
+    "id": "autumn-saga-ureshino-10selection",
+    "hotel_name": "嬉野温泉おすすめ温泉宿10選",
+    "prefecture": "佐賀県",
+    "area": "嬉野温泉",
+    "themeIdx": 2
+  },
+  {
+    "file": "autumn-shizuoka-atami-10selection.json",
+    "id": "autumn-shizuoka-atami-10selection",
+    "hotel_name": "熱海温泉おすすめ温泉宿10選",
+    "prefecture": "静岡県",
+    "area": "熱海温泉",
+    "themeIdx": 1
+  },
+  {
+    "file": "january-yamagata-zao-10selection.json",
+    "id": "january-yamagata-zao-10selection",
+    "hotel_name": "蔵王温泉おすすめ温泉宿10選",
+    "prefecture": "山形県",
+    "area": "蔵王温泉",
+    "themeIdx": 1
+  },
+  {
+    "file": "bandaiatami-asakasou-guide.json",
+    "id": "bandaiatami-asakasou-guide",
+    "hotel_name": "磐梯熱海温泉 ＡＳＡＫＡＳＯ ～五の香を感じる宿 浅香荘～",
+    "prefecture": "福島県",
+    "area": "郡山・磐梯熱海",
+    "themeIdx": 1
+  },
+  {
+    "file": "bandaiatami-atamaso-guide.json",
+    "id": "bandaiatami-atamaso-guide",
+    "hotel_name": "磐梯熱海温泉 熱海荘",
+    "prefecture": "福島県",
+    "area": "郡山・磐梯熱海",
+    "themeIdx": 1
+  },
+  {
+    "file": "bandaiatami-hananoyu-guide.json",
+    "id": "bandaiatami-hananoyu-guide",
+    "hotel_name": "磐梯熱海温泉 ホテル華の湯",
+    "prefecture": "福島県",
+    "area": "郡山・磐梯熱海",
+    "themeIdx": 1
+  },
+  {
+    "file": "bandaiatami-moritaya-guide.json",
+    "id": "bandaiatami-moritaya-guide",
+    "hotel_name": "磐梯熱海温泉 あたたかい記憶が宿る 守田屋",
+    "prefecture": "福島県",
+    "area": "郡山・磐梯熱海",
+    "themeIdx": 1
+  },
+  {
+    "file": "december-aomori-hirosaki-10selection.json",
+    "id": "december-aomori-hirosaki-10selection",
+    "hotel_name": "弘前おすすめ温泉宿10選",
+    "prefecture": "青森県",
+    "area": "弘前",
+    "themeIdx": 1
+  },
+  {
+    "file": "december-niigata-yuzawa-10selection.json",
+    "id": "december-niigata-yuzawa-10selection",
+    "hotel_name": "越後湯沢おすすめ温泉宿10選",
+    "prefecture": "新潟県",
+    "area": "越後湯沢",
+    "themeIdx": 1
+  },
+  {
+    "file": "gora-hanaougi-guide.json",
+    "id": "gora-hanaougi-guide",
+    "hotel_name": "強羅温泉 強羅花扇",
+    "prefecture": "神奈川県",
+    "area": "箱根",
+    "themeIdx": 1
+  },
+  {
+    "file": "gora-kazenoto-guide.json",
+    "id": "gora-kazenoto-guide",
+    "hotel_name": "強羅温泉 強羅 風の音",
+    "prefecture": "神奈川県",
+    "area": "箱根",
+    "themeIdx": 1
+  },
+  {
+    "file": "gora-kazenone-guide.json",
+    "id": "gora-kazenone-guide",
+    "hotel_name": "強羅温泉 強羅 風の音",
+    "prefecture": "神奈川県",
+    "area": "箱根",
+    "themeIdx": 2
+  },
+  {
+    "file": "gora-madokanomori-guide.json",
+    "id": "gora-madokanomori-guide",
+    "hotel_name": "強羅花扇 円かの杜",
+    "prefecture": "神奈川県",
+    "area": "箱根",
+    "themeIdx": 1
+  },
+  {
+    "file": "gora-merveil-guide.json",
+    "id": "gora-merveil-guide",
+    "hotel_name": "強羅温泉 メルヴェール箱根強羅",
+    "prefecture": "神奈川県",
+    "area": "箱根",
+    "themeIdx": 1
+  },
+  {
+    "file": "hakone_kowakien_tenyu.json",
+    "id": "hakone_kowakien_tenyu",
+    "hotel_name": "箱根小涌園 天悠（藤田観光リゾート）",
+    "prefecture": "神奈川県",
+    "area": "箱根・小涌谷",
+    "themeIdx": 1
+  },
+  {
+    "file": "hakuba-goryukan-review-guide.json",
+    "id": "hakuba-goryukan-review-guide",
+    "hotel_name": "白馬八方温泉 ホテル五龍館",
+    "prefecture": "長野県",
+    "area": "白馬・小谷",
+    "themeIdx": 1
+  },
+  {
+    "file": "hakuba-goryukan-hotspring-guide.json",
+    "id": "hakuba-goryukan-hotspring-guide",
+    "hotel_name": "白馬八方温泉 ホテル五龍館",
+    "prefecture": "長野県",
+    "area": "白馬・小谷",
+    "themeIdx": 2
+  },
+  {
+    "file": "hakuba-goryukan-guide.json",
+    "id": "hakuba-goryukan-guide",
+    "hotel_name": "白馬八方温泉 ホテル五龍館",
+    "prefecture": "長野県",
+    "area": "白馬・小谷",
+    "themeIdx": 3
+  },
+  {
+    "file": "hakuba-grace-guide.json",
+    "id": "hakuba-grace-guide",
+    "hotel_name": "ホテルグレース白馬",
+    "prefecture": "長野県",
+    "area": "白馬・小谷",
+    "themeIdx": 1
+  },
+  {
+    "file": "hakuba-highland-guide.json",
+    "id": "hakuba-highland-guide",
+    "hotel_name": "白馬姫川温泉 白馬ハイランドホテル",
+    "prefecture": "長野県",
+    "area": "白馬・小谷",
+    "themeIdx": 1
+  },
+  {
+    "file": "hakuba-sierra-resort-guide.json",
+    "id": "hakuba-sierra-resort-guide",
+    "hotel_name": "白馬みずばしょう温泉 ホテル シェラリゾート白馬",
+    "prefecture": "長野県",
+    "area": "白馬・小谷",
+    "themeIdx": 1
+  },
+  {
+    "file": "november-nagano-karuizawa-10selection.json",
+    "id": "november-nagano-karuizawa-10selection",
+    "hotel_name": "軽井沢おすすめ温泉宿10選",
+    "prefecture": "長野県",
+    "area": "軽井沢",
+    "themeIdx": 1
+  },
+  {
+    "file": "november-wakayama-nachi-10selection.json",
+    "id": "november-wakayama-nachi-10selection",
+    "hotel_name": "勝浦・那智勝浦おすすめ温泉宿10選",
+    "prefecture": "和歌山県",
+    "area": "勝浦・那智勝浦",
+    "themeIdx": 1
+  },
+  {
+    "file": "kusatsu-yubata-yado-guide.json",
+    "id": "kusatsu-yubata-yado-guide",
+    "hotel_name": "草津温泉 昔心の宿 金みどり",
+    "prefecture": "群馬県",
+    "area": "万座・草津・四万",
+    "themeIdx": 1
+  },
+  {
+    "file": "kusatsu-kanamidori-review-guide.json",
+    "id": "kusatsu-kanamidori-review-guide",
+    "hotel_name": "草津温泉 昔心の宿 金みどり",
+    "prefecture": "群馬県",
+    "area": "万座・草津・四万",
+    "themeIdx": 2
+  },
+  {
+    "file": "kusatsu-tsudaya-guide.json",
+    "id": "kusatsu-tsudaya-guide",
+    "hotel_name": "草津温泉 お宿つだや",
+    "prefecture": "群馬県",
+    "area": "万座・草津・四万",
+    "themeIdx": 1
+  },
+  {
+    "file": "kusatsu-yubatasoan-guide.json",
+    "id": "kusatsu-yubatasoan-guide",
+    "hotel_name": "草津温泉 湯畑草庵",
+    "prefecture": "群馬県",
+    "area": "万座・草津・四万",
+    "themeIdx": 1
+  },
+  {
+    "file": "oga-onsen-yado-guide.json",
+    "id": "oga-onsen-yado-guide",
+    "hotel_name": "男鹿温泉 湯けむりリゾート 男鹿ホテル",
+    "prefecture": "秋田県",
+    "area": "男鹿・能代",
+    "themeIdx": 1
+  },
+  {
+    "file": "oga-onsen-roten-guide.json",
+    "id": "oga-onsen-roten-guide",
+    "hotel_name": "男鹿温泉 湯けむりリゾート 男鹿ホテル",
+    "prefecture": "秋田県",
+    "area": "男鹿・能代",
+    "themeIdx": 2
+  },
+  {
+    "file": "oga-onsen-hotspring-guide.json",
+    "id": "oga-onsen-hotspring-guide",
+    "hotel_name": "男鹿温泉 湯けむりリゾート 男鹿ホテル",
+    "prefecture": "秋田県",
+    "area": "男鹿・能代",
+    "themeIdx": 3
+  },
+  {
+    "file": "oga-hotel-guide.json",
+    "id": "oga-hotel-guide",
+    "hotel_name": "男鹿温泉 湯けむりリゾート 男鹿ホテル",
+    "prefecture": "秋田県",
+    "area": "男鹿・能代",
+    "themeIdx": 4
+  },
+  {
+    "file": "oga-kanko-hotel-guide.json",
+    "id": "oga-kanko-hotel-guide",
+    "hotel_name": "男鹿温泉 湯けむりリゾート 男鹿観光ホテル",
+    "prefecture": "秋田県",
+    "area": "男鹿・能代",
+    "themeIdx": 1
+  },
+  {
+    "file": "oga-manseikaku-guide.json",
+    "id": "oga-manseikaku-guide",
+    "hotel_name": "男鹿温泉 男鹿萬盛閣",
+    "prefecture": "秋田県",
+    "area": "男鹿・能代",
+    "themeIdx": 1
+  },
+  {
+    "file": "tendo-maizurusou-guide.json",
+    "id": "tendo-maizurusou-guide",
+    "hotel_name": "天童温泉 舞鶴荘",
+    "prefecture": "山形県",
+    "area": "山形・蔵王・天童",
+    "themeIdx": 1
+  },
+  {
+    "file": "tendo-shogi-yado-guide.json",
+    "id": "tendo-shogi-yado-guide",
+    "hotel_name": "天童温泉 ほほえみの宿 滝の湯",
+    "prefecture": "山形県",
+    "area": "山形・蔵王・天童",
+    "themeIdx": 1
+  },
+  {
+    "file": "tendo-onsen-yado-guide.json",
+    "id": "tendo-onsen-yado-guide",
+    "hotel_name": "天童温泉 ほほえみの宿 滝の湯",
+    "prefecture": "山形県",
+    "area": "山形・蔵王・天童",
+    "themeIdx": 2
+  },
+  {
+    "file": "tendo-onsen-meimon-guide.json",
+    "id": "tendo-onsen-meimon-guide",
+    "hotel_name": "天童温泉 ほほえみの宿 滝の湯",
+    "prefecture": "山形県",
+    "area": "山形・蔵王・天童",
+    "themeIdx": 3
+  },
+  {
+    "file": "yunoyama-jyotei-guide.json",
+    "id": "yunoyama-jyotei-guide",
+    "hotel_name": "湯の山温泉 旅館寿亭",
+    "prefecture": "三重県",
+    "area": "四日市・鈴鹿・湯の山",
+    "themeIdx": 1
+  },
+  {
+    "file": "yunoyama-kiboso-guide.json",
+    "id": "yunoyama-kiboso-guide",
+    "hotel_name": "湯の山温泉 希望荘",
+    "prefecture": "三重県",
+    "area": "四日市・铃鹿・湯の山",
+    "themeIdx": 1
+  },
+  {
+    "file": "yunoyama-sai-koyo-guide.json",
+    "id": "yunoyama-sai-koyo-guide",
+    "hotel_name": "湯の山温泉 彩向陽（いろどりこうよう）",
+    "prefecture": "三重県",
+    "area": "四日市・鈴鹿・湯の山",
+    "themeIdx": 1
+  },
+  {
+    "file": "yunoyama-shikanoyu-review-guide.json",
+    "id": "yunoyama-shikanoyu-review-guide",
+    "hotel_name": "湯の山温泉 鹿の湯ホテル",
+    "prefecture": "三重県",
+    "area": "四日市・鈴鹿・湯の山",
+    "themeIdx": 1
+  },
+  {
+    "file": "yunoyama-shikanoyu-hotel-guide.json",
+    "id": "yunoyama-shikanoyu-hotel-guide",
+    "hotel_name": "湯の山温泉 鹿の湯ホテル",
+    "prefecture": "三重県",
+    "area": "四日市・鈴鹿・湯の山",
+    "themeIdx": 2
+  },
+  {
+    "file": "yunoyama-shikanoyu-guide.json",
+    "id": "yunoyama-shikanoyu-guide",
+    "hotel_name": "湯の山温泉 鹿の湯ホテル",
+    "prefecture": "三重県",
+    "area": "四日市・鈴鹿・湯の山",
+    "themeIdx": 3
+  },
+  {
+    "file": "yunoyama-suzukaroji-guide.json",
+    "id": "yunoyama-suzukaroji-guide",
+    "hotel_name": "湯の山温泉 ホテルウェルネス鈴鹿路",
+    "prefecture": "三重県",
+    "area": "四日市・鈴鹿・湯の山",
+    "themeIdx": 1
+  },
+  {
+    "file": "yunoyama-yunojin-guide.json",
+    "id": "yunoyama-yunojin-guide",
+    "hotel_name": "湯の山温泉 ホテル湯の陣",
+    "prefecture": "三重県",
+    "area": "四日市・鈴鹿・湯の山",
+    "themeIdx": 1
+  }
+]

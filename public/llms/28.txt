@@ -1,13 +1,44 @@
-# 兵庫県の宿泊・観光記事（51件）
+# 兵庫県の宿泊・観光記事（50件）
 
-## 【兵庫県観光】絶景とグルメを巡るおすすめモデルコース
-- 記事: https://croud-travel.pages.dev/posts/146832/
-- 全文Markdown: https://croud-travel.pages.dev/ai/146832.md
-- 宿泊施設名: 久美浜温泉　湯元館
-- エリア: 近畿
-- 評価: 4
+## 【観光モデルコース付き】城崎温泉　しののめ荘を拠点に巡る兵庫県周遊旅！絶景スポット・名所旧跡・おすすめルート｜兵庫県
+- 記事: https://croud-travel.pages.dev/posts/january-hyogo-kinosaki-10selection/
+- 全文Markdown: https://croud-travel.pages.dev/ai/january-hyogo-kinosaki-10selection.md
+- 宿泊施設名: 城崎温泉　しののめ荘
+- エリア: 城崎温泉
+- 参考価格: ¥11900〜
+- 評価: 3.83
 
-兵庫県の絶景・グルメ・温泉を楽しむ旅行特集。厳選したおすすめ宿を拠点に、兵庫県ならではの魅力を余すことなく体験しましょう。
+兵庫県観光の拠点として絶好のロケーションを誇る「城崎温泉　しののめ荘」。周辺の絶景スポットや歴史名所、おすすめドライブコースと合わせて宿の魅力と宿泊攻略法を旅ライターが解説します。
+
+## 【絶品グルメ・会席特集】城崎温泉　しののめ荘のお食事完全ルポ！地元旬食材・名物料理・朝食バイキングの魅力｜兵庫県
+- 記事: https://croud-travel.pages.dev/posts/autumn-hyogo-kinosaki-10selection/
+- 全文Markdown: https://croud-travel.pages.dev/ai/autumn-hyogo-kinosaki-10selection.md
+- 宿泊施設名: 城崎温泉　しののめ荘
+- エリア: 城崎温泉
+- 参考価格: ¥11900〜
+- 評価: 3.83
+
+兵庫県の名宿「城崎温泉　しののめ荘」の料理長が腕を振るう豪華ディナーと朝食を徹底紹介。近隣の新鮮魚介やブランド肉、郷土色あふれるバイキングや地酒ペアリングなど、美食旅の魅力をナビゲートします。
+
+## 【客室・おこもり滞在記】城崎温泉　しののめ荘で過ごす大人の贅沢ステイ！特別室・絶景ビュー・ひとり旅＆記念日プラン｜兵庫県
+- 記事: https://croud-travel.pages.dev/posts/december-hyogo-kinosaki-10selection/
+- 全文Markdown: https://croud-travel.pages.dev/ai/december-hyogo-kinosaki-10selection.md
+- 宿泊施設名: 城崎温泉　しののめ荘
+- エリア: 城崎温泉
+- 参考価格: ¥11900〜
+- 評価: 3.83
+
+兵庫県（城崎温泉）の「城崎温泉　しののめ荘」で叶える上質なホテルステイ。洗練された客室インテリアや窓からの絶景、ワーケーション環境から記念日のおもてなしまで、おこもり滞在の魅力を徹底レビュー。
+
+## 【名湯・露天風呂特集】山陰湯村温泉　朝野家の極上温泉ガイド！泉質・湯浴み・サウナでととのう至福時間｜兵庫県
+- 記事: https://croud-travel.pages.dev/posts/yumura-asanoya-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/yumura-asanoya-guide.md
+- 宿泊施設名: 山陰湯村温泉　朝野家
+- エリア: 城崎・竹野・豊岡
+- 参考価格: ¥6600〜
+- 評価: 4.55
+
+兵庫県（城崎・竹野・豊岡）屈指の人気宿「山陰湯村温泉　朝野家」の温泉・大浴場・露天風呂を旅ライターが徹底取材。肌を潤す名湯の泉質や開放的な湯浴み空間、サウナや湯上がり処の魅力を詳しくレポートします。
 
 ## 海のホテル島花　レジデンスヴィラ＜淡路島＞のリアル宿泊記！温泉・客室・朝食バイキングの本音口コミ評判｜兵庫県
 - 記事: https://croud-travel.pages.dev/posts/hyogo-souvenirs-sake-ranking-guide/
@@ -398,14 +429,6 @@
 
 秋の兵庫・淡路島（洲本・南あわじ）旅行で絶対外せないリゾート温泉宿10選！秋のダイナミックな「大渦（鳴門の渦潮）」、福良港の最高級「淡路島3年とらふぐ」、淡路牛・淡路島玉ねぎ・洲本温泉を徹底解説。公式楽天トラベルお得プラン付き。
 
-## 城崎温泉おすすめ温泉宿10選のリアル宿泊記！温泉・客室・朝食バイキングの本音口コミ評判｜兵庫県
-- 記事: https://croud-travel.pages.dev/posts/autumn-hyogo-kinosaki-10selection/
-- 全文Markdown: https://croud-travel.pages.dev/ai/autumn-hyogo-kinosaki-10selection.md
-- 宿泊施設名: 城崎温泉おすすめ温泉宿10選
-- エリア: 城崎温泉
-
-「城崎温泉おすすめ温泉宿10選」を徹底解説。紅葉の城崎ロープウェイと旬の但馬牛ステーキ会席10選の見どころ、客室・温泉・お食事のこだわり、最新の口コミや宿泊プランをご紹介。
-
 ## 神戸・六甲山おすすめ温泉宿10選のリアル宿泊記！温泉・客室・朝食バイキングの本音口コミ評判｜兵庫県
 - 記事: https://croud-travel.pages.dev/posts/autumn-hyogo-kobe-rokko-10selection/
 - 全文Markdown: https://croud-travel.pages.dev/ai/autumn-hyogo-kobe-rokko-10selection.md
@@ -421,22 +444,6 @@
 - エリア: 有馬温泉
 
 12月の兵庫・有馬温泉旅行で絶対外せない日本最古の名湯リゾート宿10選！濃厚な鉄分を含み体が芯まで温まる「金泉」、炭酸泉の「銀泉」、有馬温泉街の湯本坂散策、六甲山からの冬の1,000万ドルの夜景、神戸牛・松茸・丹波黒豆を徹底解説。公式楽天ト…全施設楽天トラベル公式最新空室リンク付き。
-
-## 城崎温泉おすすめ温泉宿10選のリアル宿泊記！温泉・客室・朝食バイキングの本音口コミ評判｜兵庫県
-- 記事: https://croud-travel.pages.dev/posts/december-hyogo-kinosaki-10selection/
-- 全文Markdown: https://croud-travel.pages.dev/ai/december-hyogo-kinosaki-10selection.md
-- 宿泊施設名: 城崎温泉おすすめ温泉宿10選
-- エリア: 城崎温泉
-
-「城崎温泉おすすめ温泉宿10選」を徹底解説。冬の澄んだ空気と柳並木ライトアップを楽しむ外湯巡り10選の見どころ、客室・温泉・お食事のこだわり、最新の口コミや宿泊プランをご紹介。
-
-## 城崎温泉おすすめ温泉宿10選のリアル宿泊記！温泉・客室・朝食バイキングの本音口コミ評判｜兵庫県
-- 記事: https://croud-travel.pages.dev/posts/january-hyogo-kinosaki-10selection/
-- 全文Markdown: https://croud-travel.pages.dev/ai/january-hyogo-kinosaki-10selection.md
-- 宿泊施設名: 城崎温泉おすすめ温泉宿10選
-- エリア: 城崎温泉
-
-「城崎温泉おすすめ温泉宿10選」を徹底解説。雪景色と立ち上る湯煙！津居山港のタグ付き松葉ガニフルコース10選の見どころ、客室・温泉・お食事のこだわり、最新の口コミや宿泊プランをご紹介。
 
 ## 城崎温泉 西村屋本館のリアル宿泊記！温泉・客室・朝食バイキングの本音口コミ評判｜兵庫県
 - 記事: https://croud-travel.pages.dev/posts/kinosaki-nishimuraya-guide/
@@ -461,12 +468,4 @@
 - エリア: 朝来・竹田城跡
 
 11月の兵庫・朝来・竹田城跡エリア旅行で絶対外せない雲海絶景宿10選！雲海シーズンのピークを迎える「竹田城跡（天空の城）」、対岸の展望台「立雲峡」、城下町の古民家ホテル、但馬牛すき焼き、吉野温泉・塩壺温泉を徹底解説。公式楽天トラベルお得プラン付き。
-
-## 山陰湯村温泉 朝野家のリアル宿泊記！温泉・客室・朝食バイキングの本音口コミ評判｜兵庫県
-- 記事: https://croud-travel.pages.dev/posts/yumura-asanoya-guide/
-- 全文Markdown: https://croud-travel.pages.dev/ai/yumura-asanoya-guide.md
-- 宿泊施設名: 山陰湯村温泉 朝野家
-- エリア: 城崎・竹野・豊岡
-
-「山陰湯村温泉 朝野家」の魅力を徹底取材。【山陰湯村温泉 朝野家】兵庫県城崎・竹野・豊岡観光のベスト拠点の見どころ、温泉や食事のこだわり、宿泊者の口コミ評価をご紹介。
 
