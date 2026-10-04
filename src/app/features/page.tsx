@@ -110,6 +110,66 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-tokushima-minamiawa-yakuouji-hatsumode-iseebi-stay',
+              title: "美波＆海陽町！厄除け大師「薬王寺」初詣と冬が旬の天然伊勢海老・アオリイカ＆太平洋絶景温泉名宿",
+              desc: "四国屈指の厄除け根本道場・薬王寺の初詣と厄坂参拝。冬の澄んだ太平洋を望む大浜海岸と、旨味が極まる天然活伊勢海老・阿波尾鶏＆極上美肌温泉…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-miyazaki-miyakonojo-kobayashi-kirishima-wagyu-stay',
+              title: "都城＆小林・えびの！白銀の霧島連山と狭野神社・霧島東神社初詣・日本一の都城産宮崎牛＆美肌温泉名宿",
+              desc: "白銀に輝く霊峰高千穂峰と天孫降臨神話の古刹初詣。内閣総理大臣賞受賞の日本一・都城産宮崎牛すき焼きと本格芋焼酎、一万年石風呂の黄金炭酸泉…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-saitama-nagatoro-hodosan-roubai-kotatsubune-stay',
+              title: "長瀞＆秩父・宝登山！冬の風物詩長瀞こたつ舟下りと早咲き宝登山ロウバイ園・宝登山神社初詣＆武州和牛名宿",
+              desc: "約3000本の黄色い花弁が甘く香る宝登山ロウバイ園と秩父三社・宝登山神社初詣。岩畳を巡る熱々こたつ舟下りと名物秩父豚みそ丼・武州和牛会席…",
+              badge: '12・1月特集'
+            },
+            {
+              slug: 'winter-osaka-minoo-katsuo-ji-daruma-botannabe-stay',
+              title: "箕面＆能勢・池田！日本の滝百選「箕面大滝」冬情趣と勝運の寺「勝尾寺」初詣・能勢の天然猪鍋＆天空温泉名宿",
+              desc: "境内に無数の勝ちダルマが並ぶ勝運の寺・勝尾寺初詣。静寂に包まれる箕面大滝ともみじの天ぷら、冬が最旬の能勢天然ぼたん鍋と大阪夜景一望露天…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-shiga-omihachiman-hachimanbori-himure-omigyu-stay',
+              title: "近江八幡＆安土・東近江！雪化粧の八幡堀冬情趣と日牟禮八幡宮初詣・日本三大和牛近江牛すき焼き＆琵琶湖名宿",
+              desc: "白壁土蔵が水面に映える八幡堀の幻想的な雪景色と近江商人の守護神・日牟禮八幡宮初詣。400年の伝統を誇る近江牛極上すき焼きと赤こんにゃく…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-tokushima-minamiawa-yakuouji-hatsumode-iseebi-stay',
+              title: "美波＆海陽町！厄除け大師「薬王寺」初詣と冬が旬の天然伊勢海老・アオリイカ＆太平洋絶景温泉名宿",
+              desc: "四国屈指の厄除け根本道場・薬王寺の初詣と厄坂参拝。冬の澄んだ太平洋を望む大浜海岸と、旨味が極まる天然活伊勢海老・阿波尾鶏＆極上美肌温泉…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-miyazaki-miyakonojo-kobayashi-kirishima-wagyu-stay',
+              title: "都城＆小林・えびの！白銀の霧島連山と狭野神社・霧島東神社初詣・日本一の都城産宮崎牛＆美肌温泉名宿",
+              desc: "白銀に輝く霊峰高千穂峰と天孫降臨神話の古刹初詣。内閣総理大臣賞受賞の日本一・都城産宮崎牛すき焼きと本格芋焼酎、一万年石風呂の黄金炭酸泉…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-saitama-nagatoro-hodosan-roubai-kotatsubune-stay',
+              title: "長瀞＆秩父・宝登山！冬の風物詩長瀞こたつ舟下りと早咲き宝登山ロウバイ園・宝登山神社初詣＆武州和牛名宿",
+              desc: "約3000本の黄色い花弁が甘く香る宝登山ロウバイ園と秩父三社・宝登山神社初詣。岩畳を巡る熱々こたつ舟下りと名物秩父豚みそ丼・武州和牛会席…",
+              badge: '12・1月特集'
+            },
+            {
+              slug: 'winter-osaka-minoo-katsuo-ji-daruma-botannabe-stay',
+              title: "箕面＆能勢・池田！日本の滝百選「箕面大滝」冬情趣と勝運の寺「勝尾寺」初詣・能勢の天然猪鍋＆天空温泉名宿",
+              desc: "境内に無数の勝ちダルマが並ぶ勝運の寺・勝尾寺初詣。静寂に包まれる箕面大滝ともみじの天ぷら、冬が最旬の能勢天然ぼたん鍋と大阪夜景一望露天…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-shiga-omihachiman-hachimanbori-himure-omigyu-stay',
+              title: "近江八幡＆安土・東近江！雪化粧の八幡堀冬情趣と日牟禮八幡宮初詣・日本三大和牛近江牛すき焼き＆琵琶湖名宿",
+              desc: "白壁土蔵が水面に映える八幡堀の幻想的な雪景色と近江商人の守護神・日牟禮八幡宮初詣。400年の伝統を誇る近江牛極上すき焼きと赤こんにゃく…",
+              badge: '11・12・1月特集'
+            },
+            {
               slug: 'winter-fukui-echizen-coast-suisen-crab-misaki-stay',
               title: "越前海岸＆越前町！日本海に咲く越前水仙まつり群生美と越前岬灯台・黄色タグ付き本場越前がに名宿",
               desc: "冬の荒波日本海に咲き乱れる日本三大水仙群生地の絶景と越前岬灯台。本場越前町が誇る黄色いブランドタグ付き活越前がにの極上フルコースと絶景露天…",
