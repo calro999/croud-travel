@@ -171,7 +171,7 @@ https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3
 
 人気の宿や紅葉ピーク時期の週末は予約が早く埋まりやすいため、気になる宿は早めにチェックしておくのがおすすめです！
 
-🎟️ 【楽天ふるさと納税】実質2,000円で泊まれる三重県トラベルクーポンはこちら
+🎟️ 【楽天ふるさと納税】ふるさと納税でお得に泊まれる三重県トラベルクーポンはこちら
 https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F
 
 👉 【完全版WEBガイド】三重県の観光名所・グルメ・モデルコース特集はこちら

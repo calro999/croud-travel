@@ -15,7 +15,7 @@
 ▼ 楽天トラベルで高知県の秋旅・人気宿一覧をチェック！
 https://croud-travel.pages.dev/prefectures/kochi
 
-▼ 実質2,000円で憧れのリゾート・温泉宿に泊まれる！楽天ふるさと納税トラベルクーポンはこちら
+▼ ふるさと納税還元枠で憧れのリゾート・温泉宿に泊まれる！楽天ふるさと納税トラベルクーポンはこちら
 https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F
 
 ---
