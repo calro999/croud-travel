@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-tottori-daisen-kaike-onsen-matsubagani-snow-stay',
+              title: "伯耆大山＆皆生温泉！白銀の伯耆富士絶景と大神山神社初詣・日本海塩湯露天＆境港松葉ガニ名宿",
+              desc: "白銀の秀峰伯耆大山スノーシューと大神山神社奥宮初詣、海中から湧く皆生温泉の塩湯。境港直送のブランドタグ付き松葉ガニ・鳥取和牛オレイン55…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-hokkaido-shikaribetsu-kotan-nukabira-onsen-ice-stay',
+              title: "然別湖＆ぬかびら源泉郷！氷結湖上の幻の村しかりべつ湖コタン氷上露天風呂・タウシュベツ橋梁＆十勝牛名宿",
+              desc: "極寒の然別湖上にわずか60日現れる氷上露天風呂とアイスバー、雪原にそびえる古代ローマ風タウシュベツ川橋梁。源泉掛け流しぬかびら温泉と十勝牛…",
+              badge: '12・1月特集'
+            },
+            {
+              slug: 'winter-nagasaki-shimabara-onsen-guzoni-castle-ariake-stay',
+              title: "島原温泉＆雲仙・有明海！冬の島原城初詣と熱々具雑煮・有明海冬牡蠣＆海一望の美肌温泉名宿",
+              desc: "白亜の島原城初詣と名水百選四明荘の錦鯉、島原の乱ゆかりの熱々具雑煮。有明海の冬牡蠣・長崎和牛と朝日のインフィニティ露天風呂＆海のサウナ…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-kyoto-miyama-kayabuki-snow-botannabe-tanba-stay',
+              title: "美山かやぶきの里＆丹波！白銀の茅葺き集落雪景色と雪灯廊・冬の最高峰天然ぼたん鍋＆里山雪見名宿",
+              desc: "雪積もるかやぶき集落の日本の原風景と美山雪灯廊ライトアップ。丹波の冬の王様・天然猪肉の熱々ぼたん鍋と丹波牛、湯の花温泉の美肌雪見露天…",
+              badge: '12・1月特集'
+            },
+            {
+              slug: 'winter-akita-yokote-kamakura-oyasukyo-shigakko-inaniwa-stay',
+              title: "横手＆湯沢・小安峡！約450年の伝統横手のかまくら雪まつりと大噴湯の巨大氷柱しがっこ・本場稲庭うどん名宿",
+              desc: "水神様を祀る横手のかまくら情緒と蛇の崎川原のミニかまくら灯火。小安峡大噴湯の白煙と巨大氷柱しがっこ、手綯い本場稲庭うどん・皆瀬牛と秋田杉温泉…",
+              badge: '11・12・1月特集'
+            },
+            {
               slug: 'winter-aichi-atsumi-irako-nanohana-torafugu-asari-stay',
               title: "渥美半島＆伊良湖岬！1月満開の菜の花まつりと初日の出・冬旬の天然とらふぐ＆伊良湖温泉名宿",
               desc: "1月開幕の菜の花まつり一面の黄色い絨毯、伊良湖岬灯台の初日の出。遠州灘天然とらふぐ・大アサリ浜焼き・完熟いちご狩りと新開湯の伊良湖温泉…",
