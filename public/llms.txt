@@ -309,6 +309,8 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【宮崎県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/191683): えびの高原ホテル（宮崎県）
+- [【おすすめ宿】ＴＲＡＩＬＥＲ　ＨＯＵＳＥ　ＨＯＴＥＬ　長崎の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/187662): ＴＲＡＩＬＥＲ　ＨＯＵＳＥ　ＨＯＴＥＬ　長崎（佐賀県）
 - [【山形県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/74573): ホテルイン鶴岡（山形県）
 - [【おすすめ宿】滝ノ原温泉　四季の味宿　割烹ちどり荘の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/151049): 滝ノ原温泉　四季の味宿　割烹ちどり荘（宮城県）
 - [【宮崎県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/37519): 宮崎グリーンホテル（宮崎県）
@@ -357,5 +359,3 @@
 - [【長野県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/1562): 松本駅から一番近い大浴場のある　ホテルニューステーション＜長野県＞（長野県）
 - [【おすすめ宿】ＡＢホテル越前武生の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/196681): ＡＢホテル越前武生（福井県）
 - [【高知県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/11023): 中村第一ホテル　駅前徒歩１分（ＢＢＨホテルグループ）（高知県）
-- [【おすすめ宿】東京　奥多摩温泉　おくたま路　（２０２６年７月リニューアルオープン）の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/134902): 東京　奥多摩温泉　おくたま路　（２０２６年７月リニューアルオープン）（東京都）
-- [【島根県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/165855): 下関温泉　風の海（島根県）

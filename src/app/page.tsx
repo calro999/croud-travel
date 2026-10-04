@@ -58,6 +58,22 @@ function loadPosts(): Post[] {
 
 export default function Home() {
   const posts = loadPosts();
+  // クライアントで表示・絞り込みに使う項目だけを渡す(全項目だと HTML が十数MBになる)
+  const slimPosts = posts.map((p) => ({
+    id: p.id,
+    title: p.title,
+    hotel_name: p.hotel_name,
+    description: (p.description || "").slice(0, 120),
+    image: p.image,
+    other_images: [] as string[],
+    affiliate_url: "",
+    prefecture: p.prefecture,
+    area: p.area,
+    categories: p.categories,
+    price: p.price,
+    rating: p.rating,
+    date: p.date,
+  }));
 
   const jsonLdWebsite = {
     "@context": "https://schema.org",
@@ -233,7 +249,7 @@ export default function Home() {
 
       {/* 記事一覧（フィルター付きClient Component） */}
       <div id="posts-section" className="scroll-mt-8">
-        <PostListClient initialPosts={posts} />
+        <PostListClient initialPosts={slimPosts} />
       </div>
 
       {/* 📚 全国の特集・特設テーマ記事（洗練されたカード型ナビゲーション） */}
