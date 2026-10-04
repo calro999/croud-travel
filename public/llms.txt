@@ -309,6 +309,7 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【おすすめ宿】天然温泉　そが浜の湯　ドーミーイン千葉Ｃｉｔｙ　Ｓｏｇａ（ドーミーイン・御宿野乃　ホテルズグループ）の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/713): 天然温泉　そが浜の湯　ドーミーイン千葉Ｃｉｔｙ　Ｓｏｇａ（ドーミーイン・御宿野乃　ホテルズグループ）（千葉県）
 - [【絶品グルメ・会席特集】水上温泉郷　ゆびそ温泉　ホテル湯の陣（伊東園ホテルズ）のお食事完全ルポ！地元旬食材・名物料理・朝食バイキングの魅力｜群馬県](https://croud-travel.pages.dev/posts/yunoyama-yunojin-guide): 水上温泉郷　ゆびそ温泉　ホテル湯の陣（伊東園ホテルズ）（群馬県）
 - [【絶品グルメ・会席特集】天童温泉　松伯亭　あづま荘のお食事完全ルポ！地元旬食材・名物料理・朝食バイキングの魅力｜山形県](https://croud-travel.pages.dev/posts/tendo-maizurusou-guide): 天童温泉　松伯亭　あづま荘（山形県）
 - [【客室・眺望レポート】草津温泉　５種貸切風呂の宿　湯宿　きんだいで過ごす至福の休日プラン｜群馬県](https://croud-travel.pages.dev/posts/kusatsu-yubatasoan-guide): 草津温泉　５種貸切風呂の宿　湯宿　きんだい（群馬県）
@@ -358,4 +359,3 @@
 - [【観光モデルコース付き】白馬みずばしょう温泉　ホテル　シェラリゾート白馬を拠点に巡る長野県周遊旅！絶景スポット・名所旧跡・おすすめルート｜長野県](https://croud-travel.pages.dev/posts/hakuba-sierra-resort-guide): 白馬みずばしょう温泉　ホテル　シェラリゾート白馬（長野県）
 - [【客室・おこもり滞在記】白馬姫川温泉　白馬ハイランドホテルで過ごす大人の贅沢ステイ！特別室・絶景ビュー・ひとり旅＆記念日プラン｜長野県](https://croud-travel.pages.dev/posts/hakuba-highland-guide): 白馬姫川温泉　白馬ハイランドホテル（長野県）
 - [【絶品グルメ・会席特集】ホテルグレース白馬のお食事完全ルポ！地元旬食材・名物料理・朝食バイキングの魅力｜長野県](https://croud-travel.pages.dev/posts/hakuba-grace-guide): ホテルグレース白馬（長野県）
-- [【客室・おこもり滞在記】白馬八方温泉　ホテル五龍館で過ごす大人の贅沢ステイ！特別室・絶景ビュー・ひとり旅＆記念日プラン｜長野県](https://croud-travel.pages.dev/posts/hakuba-goryukan-guide): 白馬八方温泉　ホテル五龍館（長野県）
