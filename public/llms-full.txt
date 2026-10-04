@@ -11,7 +11,7 @@
 - [山形県（65件）](https://croud-travel.pages.dev/llms/06.txt)
 - [福島県（53件）](https://croud-travel.pages.dev/llms/07.txt)
 - [茨城県（30件）](https://croud-travel.pages.dev/llms/08.txt)
-- [栃木県（53件）](https://croud-travel.pages.dev/llms/09.txt)
+- [栃木県（54件）](https://croud-travel.pages.dev/llms/09.txt)
 - [群馬県（82件）](https://croud-travel.pages.dev/llms/10.txt)
 - [埼玉県（41件）](https://croud-travel.pages.dev/llms/11.txt)
 - [千葉県（50件）](https://croud-travel.pages.dev/llms/12.txt)
@@ -52,10 +52,5 @@
 - [沖縄県（55件）](https://croud-travel.pages.dev/llms/47.txt)
 - [全国・複数県（425件）](https://croud-travel.pages.dev/llms/48.txt)
 
-## 特集記事（1956件）
+## 特集記事（1961件）
 サイトマップ: https://croud-travel.pages.dev/sitemap-features.xml
-- https://croud-travel.com/winter-tokushima-minamiawa-yakuouji-hatsumode-iseebi-stay/: 美波＆海陽町！厄除け大師「薬王寺」初詣と冬が旬の天然伊勢海老・アオリイカ＆太平洋絶景温泉名宿5選
-- https://croud-travel.com/winter-miyazaki-miyakonojo-kobayashi-kirishima-wagyu-stay/: 都城＆小林・えびの！白銀の霧島連山と狭野神社・霧島東神社初詣・日本一の都城産宮崎牛＆美肌温泉名宿5選
-- https://croud-travel.com/winter-saitama-nagatoro-hodosan-roubai-kotatsubune-stay/: 長瀞＆秩父・宝登山！冬の風物詩長瀞こたつ舟下りと早咲き宝登山ロウバイ園・宝登山神社初詣＆武州和牛名宿5選
-- https://croud-travel.com/winter-osaka-minoo-katsuo-ji-daruma-botannabe-stay/: 箕面＆能勢・池田！日本の滝百選「箕面大滝」冬情趣と勝運の寺「勝尾寺」初詣・能勢の天然猪鍋＆天空温泉名宿5選
-- https://croud-travel.com/winter-shiga-omihachiman-hachimanbori-himure-omigyu-stay/: 近江八幡＆安土・東近江！雪化粧の八幡堀冬情趣と日牟禮八幡宮初詣・日本三大和牛近江牛すき焼き＆琵琶湖名宿5選

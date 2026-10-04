@@ -309,6 +309,7 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【おすすめ宿】那須温泉　ヴィラージュ那須高原の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/38648): 那須温泉　ヴィラージュ那須高原（栃木県）
 - [【徳島県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/435): 徳島ワシントンホテルプラザ（徳島県）
 - [【宮崎県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/191683): えびの高原ホテル（宮崎県）
 - [【おすすめ宿】ＴＲＡＩＬＥＲ　ＨＯＵＳＥ　ＨＯＴＥＬ　長崎の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/187662): ＴＲＡＩＬＥＲ　ＨＯＵＳＥ　ＨＯＴＥＬ　長崎（佐賀県）
@@ -358,4 +359,3 @@
 - [天然温泉かけ流し　絹肌の湯　シルクイン鹿児島（鹿児島県）の基本情報・アクセス・料金の目安](https://croud-travel.pages.dev/posts/8940): 天然温泉かけ流し　絹肌の湯　シルクイン鹿児島（鹿児島県）
 - [湯野温泉　芳山園（山口県）の基本情報・アクセス・料金の目安](https://croud-travel.pages.dev/posts/27871): 湯野温泉　芳山園（山口県）
 - [【長野県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/1562): 松本駅から一番近い大浴場のある　ホテルニューステーション＜長野県＞（長野県）
-- [【おすすめ宿】ＡＢホテル越前武生の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/196681): ＡＢホテル越前武生（福井県）

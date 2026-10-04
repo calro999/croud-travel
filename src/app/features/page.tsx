@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-aichi-toyokawa-inari-hatsumode-yuya-onsen-stay',
+              title: "豊川＆新城・奥三河！日本三大稲荷「豊川稲荷」初詣・霊狐塚と名湯湯谷温泉・鳳来牛＆豊川いなり名宿",
+              desc: "日本三大稲荷の豊川稲荷新春初詣と千体の白狐が並ぶ神秘の霊狐塚。宇連川渓谷美と雪景色を望む開湯1300年湯谷温泉源泉掛け流し露天風呂と鳳来牛・三河牛…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-iwate-sanriku-miyako-jodogahama-kegani-stay',
+              title: "三陸宮古＆久慈！白銀の浄土ヶ浜絶景と冬が旬の三陸毛ガニ・寒アワビ・名物瓶ドン＆太平洋展望名宿",
+              desc: "白緑色の奇岩と白雪、群青の海が織りなす極楽浄土の冬景色。冬が最盛期の身入り抜群三陸毛ガニと寒アワビ、朝食名物瓶ドンと水平線の初日の出…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-kochi-sukumo-daruma-sunset-shimanto-stay',
+              title: "宿毛＆四万十！冬の奇跡の絶景「宿毛湾だるま夕日」と四万十川冬情趣・宿毛寒ブリ・本マグロ＆絶景名宿",
+              desc: "海水温と大気の温度差が生む冬期限定の奇跡「だるま夕日」。透明度が増す冬の清流四万十川の沈下橋と、豊後水道の荒波が育む極上宿毛寒ブリ・四万十牛…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-yamaguchi-hofu-tenmangu-hatsumode-shunan-fugu-stay',
+              title: "防府＆周南・下松！日本最初「防府天満宮」新春初詣と延縄発祥徳山の冬とらふぐ・笠戸ひらめ名宿",
+              desc: "菅原道真公ゆかりの日本最初の天満宮初詣と春風楼展望。とらふぐ延縄漁発祥の地・周南徳山の本場とらふぐ会席と、笠戸島温泉絶景サンセット露天風呂…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-wakayama-arida-yuasa-mikan-tachiuo-stay',
+              title: "有田＆湯浅・広川！黄金色の有田みかん海道と重伝建・湯浅醤油蔵通り・箕島一本釣り太刀魚＆名湯名宿",
+              desc: "山肌一面が黄金色に実る有田みかんの絶景ドライブと、醤油醸造発祥の地・湯浅の白壁土蔵通り。日本一の箕島一本釣り太刀魚と天然本クエ鍋・熊野牛…",
+              badge: '11・12・1月特集'
+            },
+            {
               slug: 'winter-tokushima-minamiawa-yakuouji-hatsumode-iseebi-stay',
               title: "美波＆海陽町！厄除け大師「薬王寺」初詣と冬が旬の天然伊勢海老・アオリイカ＆太平洋絶景温泉名宿",
               desc: "四国屈指の厄除け根本道場・薬王寺の初詣と厄坂参拝。冬の澄んだ太平洋を望む大浜海岸と、旨味が極まる天然活伊勢海老・阿波尾鶏＆極上美肌温泉…",
