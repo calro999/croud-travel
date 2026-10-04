@@ -110,6 +110,96 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-ehime-uwajima-yawatahama-taimeshi-kanburi-castle-stay',
+              title: "宇和島＆八幡浜・南予！現存天守「宇和島城」冬情趣と本場宇和島鯛めし・宇和海寒ブリ＆南予名宿",
+              desc: "日本に12基しか残らない現存天守・宇和島城の冬の静寂と伊達十万石の城下町。真冬が旬の真鯛刺身を生卵出汁で絡める本場宇和島鯛めし、八幡浜ちゃんぽん…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-gunma-takasaki-haruna-shrine-hatsumode-isobe-onsen-joshugyu-stay',
+              title: "高崎＆榛名・安中！奇岩の霊場「榛名神社」新春初詣・少林山達磨寺と名湯「磯部温泉」・下仁田ネギ名宿",
+              desc: "巨岩と千本杉が織りなす万能のパワースポット・榛名神社初詣と縁起だるま発祥寺。温泉記号♨発祥の地・磯部温泉美肌の湯と冬の極甘下仁田ネギ・上州牛すき焼き…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-kumamoto-minamiaso-takamori-snow-dengaku-akagyu-onsen-stay',
+              title: "南阿蘇＆高森！白銀の阿蘇五岳パノラマ絶景と名物「高森田楽」囲炉裏炭火・美肌南阿蘇温泉＆あか牛名宿",
+              desc: "白銀に染まる阿蘇五岳（釈迦の涅槃像）の雄大な雪景色と白川水源。800年の歴史を誇る高森田楽の囲炉裏炭火焼きと、赤身の旨味が凝縮した阿蘇あか牛…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-toyama-takaoka-imizu-zuiryuji-hatsumode-shinminato-crab-stay',
+              title: "高岡＆射水・新湊！国宝「瑞龍寺」新春初詣・雨晴海岸の気嵐絶景と新湊紅ズワイガニ昼セリ＆高岡名宿",
+              desc: "前田利長公菩提寺・国宝瑞龍寺の雪の回廊美と新春祈祷。冬の海から湯気が立ち上る雨晴海岸の気嵐と冠雪立山連峰、新湊名物昼セリの熱々紅ズワイガニ…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-kagoshima-kirishima-jingu-hatsumode-onsen-kurobuta-stay',
+              title: "霧島温泉郷＆霧島神宮！国宝「霧島神宮」新春初詣と湯けむり立ち上る丸尾温泉・源泉露天＆極上黒豚名宿",
+              desc: "天孫降臨神話の息づく国宝・霧島神宮の朱塗り社殿で迎える新春。激しく湯けむりが噴き上がる丸尾・硫黄谷のにごり湯露天風呂と本場かごしま黒豚しゃぶしゃぶ…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-ehime-uwajima-yawatahama-taimeshi-kanburi-castle-stay',
+              title: "宇和島＆八幡浜・南予！現存天守「宇和島城」冬情趣と本場宇和島鯛めし・宇和海寒ブリ＆南予名宿",
+              desc: "日本に12基しか残らない現存天守・宇和島城の冬の静寂と伊達十万石の城下町。真冬が旬の真鯛刺身を生卵出汁で絡める本場宇和島鯛めし、八幡浜ちゃんぽん…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-gunma-takasaki-haruna-shrine-hatsumode-isobe-onsen-joshugyu-stay',
+              title: "高崎＆榛名・安中！奇岩の霊場「榛名神社」新春初詣・少林山達磨寺と名湯「磯部温泉」・下仁田ネギ名宿",
+              desc: "巨岩と千本杉が織りなす万能のパワースポット・榛名神社初詣と縁起だるま発祥寺。温泉記号♨発祥の地・磯部温泉美肌の湯と冬の極甘下仁田ネギ・上州牛すき焼き…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-kumamoto-minamiaso-takamori-snow-dengaku-akagyu-onsen-stay',
+              title: "南阿蘇＆高森！白銀の阿蘇五岳パノラマ絶景と名物「高森田楽」囲炉裏炭火・美肌南阿蘇温泉＆あか牛名宿",
+              desc: "白銀に染まる阿蘇五岳（釈迦の涅槃像）の雄大な雪景色と白川水源。800年の歴史を誇る高森田楽の囲炉裏炭火焼きと、赤身の旨味が凝縮した阿蘇あか牛…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-toyama-takaoka-imizu-zuiryuji-hatsumode-shinminato-crab-stay',
+              title: "高岡＆射水・新湊！国宝「瑞龍寺」新春初詣・雨晴海岸の気嵐絶景と新湊紅ズワイガニ昼セリ＆高岡名宿",
+              desc: "前田利長公菩提寺・国宝瑞龍寺の雪の回廊美と新春祈祷。冬の海から湯気が立ち上る雨晴海岸の気嵐と冠雪立山連峰、新湊名物昼セリの熱々紅ズワイガニ…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-kagoshima-kirishima-jingu-hatsumode-onsen-kurobuta-stay',
+              title: "霧島温泉郷＆霧島神宮！国宝「霧島神宮」新春初詣と湯けむり立ち上る丸尾温泉・源泉露天＆極上黒豚名宿",
+              desc: "天孫降臨神話の息づく国宝・霧島神宮の朱塗り社殿で迎える新春。激しく湯けむりが噴き上がる丸尾・硫黄谷のにごり湯露天風呂と本場かごしま黒豚しゃぶしゃぶ…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-ehime-uwajima-yawatahama-taimeshi-kanburi-castle-stay',
+              title: "宇和島＆八幡浜・南予！現存天守「宇和島城」冬情趣と本場宇和島鯛めし・宇和海寒ブリ＆南予名宿",
+              desc: "日本に12基しか残らない現存天守・宇和島城の冬の静寂と伊達十万石の城下町。真冬が旬の真鯛刺身を生卵出汁で絡める本場宇和島鯛めし、八幡浜ちゃんぽん…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-gunma-takasaki-haruna-shrine-hatsumode-isobe-onsen-joshugyu-stay',
+              title: "高崎＆榛名・安中！奇岩の霊場「榛名神社」新春初詣・少林山達磨寺と名湯「磯部温泉」・下仁田ネギ名宿",
+              desc: "巨岩と千本杉が織りなす万能のパワースポット・榛名神社初詣と縁起だるま発祥寺。温泉記号♨発祥の地・磯部温泉美肌の湯と冬の極甘下仁田ネギ・上州牛すき焼き…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-kumamoto-minamiaso-takamori-snow-dengaku-akagyu-onsen-stay',
+              title: "南阿蘇＆高森！白銀の阿蘇五岳パノラマ絶景と名物「高森田楽」囲炉裏炭火・美肌南阿蘇温泉＆あか牛名宿",
+              desc: "白銀に染まる阿蘇五岳（釈迦の涅槃像）の雄大な雪景色と白川水源。800年の歴史を誇る高森田楽の囲炉裏炭火焼きと、赤身の旨味が凝縮した阿蘇あか牛…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-toyama-takaoka-imizu-zuiryuji-hatsumode-shinminato-crab-stay',
+              title: "高岡＆射水・新湊！国宝「瑞龍寺」新春初詣・雨晴海岸の気嵐絶景と新湊紅ズワイガニ昼セリ＆高岡名宿",
+              desc: "前田利長公菩提寺・国宝瑞龍寺の雪の回廊美と新春祈祷。冬の海から湯気が立ち上る雨晴海岸の気嵐と冠雪立山連峰、新湊名物昼セリの熱々紅ズワイガニ…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-kagoshima-kirishima-jingu-hatsumode-onsen-kurobuta-stay',
+              title: "霧島温泉郷＆霧島神宮！国宝「霧島神宮」新春初詣と湯けむり立ち上る丸尾温泉・源泉露天＆極上黒豚名宿",
+              desc: "天孫降臨神話の息づく国宝・霧島神宮の朱塗り社殿で迎える新春。激しく湯けむりが噴き上がる丸尾・硫黄谷のにごり湯露天風呂と本場かごしま黒豚しゃぶしゃぶ…",
+              badge: '11・12・1月特集'
+            },
+            {
               slug: 'winter-aichi-toyokawa-inari-hatsumode-yuya-onsen-stay',
               title: "豊川＆新城・奥三河！日本三大稲荷「豊川稲荷」初詣・霊狐塚と名湯湯谷温泉・鳳来牛＆豊川いなり名宿",
               desc: "日本三大稲荷の豊川稲荷新春初詣と千体の白狐が並ぶ神秘の霊狐塚。宇連川渓谷美と雪景色を望む開湯1300年湯谷温泉源泉掛け流し露天風呂と鳳来牛・三河牛…",
