@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-fukui-echizen-coast-suisen-crab-misaki-stay',
+              title: "越前海岸＆越前町！日本海に咲く越前水仙まつり群生美と越前岬灯台・黄色タグ付き本場越前がに名宿",
+              desc: "冬の荒波日本海に咲き乱れる日本三大水仙群生地の絶景と越前岬灯台。本場越前町が誇る黄色いブランドタグ付き活越前がにの極上フルコースと絶景露天…",
+              badge: '12・1月特集'
+            },
+            {
+              slug: 'winter-nagano-azumino-omachi-hotaka-snow-shinshugyu-stay',
+              title: "安曇野＆大町温泉郷！白銀の北アルプス後立山連峰と穂高神社初詣・光のイルミネーション＆雪見露天名宿",
+              desc: "白銀の後立山連峰大パノラマと県内最大級あづみの公園光の祭典。日本アルプス総鎮守・穂高神社初詣と葛温泉引湯の大町雪見露天、信州サーモン・信州牛…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-yamagata-sakata-tsuruoka-hagurosan-kandara-stay',
+              title: "酒田＆鶴岡・羽黒山！出羽三山神社の雪の初詣と山居倉庫雪景色・冬の日本海名物寒鱈どんがら汁＆名湯名宿",
+              desc: "白銀の静寂に佇む国宝羽黒山五重塔と出羽三山神社初詣。酒田山居倉庫の雪化粧ケヤキ並木と荒海が育む熱々寒鱈どんがら汁・白子、湯野浜・温海温泉露天…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-kagawa-zentsuji-marugame-castle-udon-stay',
+              title: "善通寺＆丸亀！弘法大師生誕地・総本山善通寺の雪の初詣と丸亀城石垣ライトアップ・冬の讃岐しっぽくうどん名宿",
+              desc: "空海御生誕の総本山善通寺初詣と戒壇めぐり。日本一高い石垣美の丸亀城ライトアップ、冬限定の根菜たっぷり熱々しっぽくうどんと丸亀発祥骨付鳥…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-kagoshima-izumi-crane-akune-kurobuta-stay',
+              title: "出水＆阿久根・さつま！世界屈指のツル渡来地一万羽のツルと出水麓武家屋敷初詣・阿久根の華アジ＆黒豚名宿",
+              desc: "冬の大空を舞う1万羽の特別天然記念物ツル群舞と出水麓武家屋敷群初詣。阿久根の極上ブランド華アジ・天然ウニとかごしま黒豚、紫尾温泉神の湯美肌露天…",
+              badge: '11・12・1月特集'
+            },
+            {
               slug: 'winter-tottori-daisen-kaike-onsen-matsubagani-snow-stay',
               title: "伯耆大山＆皆生温泉！白銀の伯耆富士絶景と大神山神社初詣・日本海塩湯露天＆境港松葉ガニ名宿",
               desc: "白銀の秀峰伯耆大山スノーシューと大神山神社奥宮初詣、海中から湧く皆生温泉の塩湯。境港直送のブランドタグ付き松葉ガニ・鳥取和牛オレイン55…",

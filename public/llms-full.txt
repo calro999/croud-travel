@@ -38,7 +38,7 @@
 - [岡山県（31件）](https://croud-travel.pages.dev/llms/33.txt)
 - [広島県（42件）](https://croud-travel.pages.dev/llms/34.txt)
 - [山口県（31件）](https://croud-travel.pages.dev/llms/35.txt)
-- [徳島県（27件）](https://croud-travel.pages.dev/llms/36.txt)
+- [徳島県（28件）](https://croud-travel.pages.dev/llms/36.txt)
 - [香川県（34件）](https://croud-travel.pages.dev/llms/37.txt)
 - [愛媛県（44件）](https://croud-travel.pages.dev/llms/38.txt)
 - [高知県（41件）](https://croud-travel.pages.dev/llms/39.txt)
@@ -52,5 +52,5 @@
 - [沖縄県（55件）](https://croud-travel.pages.dev/llms/47.txt)
 - [全国・複数県（425件）](https://croud-travel.pages.dev/llms/48.txt)
 
-## 特集記事（1946件）
+## 特集記事（1951件）
 サイトマップ: https://croud-travel.pages.dev/sitemap-features.xml
