@@ -2,12 +2,12 @@ const https = require('https');
 const fs = require('fs');
 const path = require('path');
 
-const KEY = 'b1c2d3e4f5a67b8c9d0e1f2a3b4c5d6e';
-const HOST = 'croud-travel.pages.dev';
+const host = 'croud-travel.pages.dev';
+const key = 'b1c2d3e4f5a67b8c9d0e1f2a3b4c5d6e';
 
-// サイトマップから全URLを抽出
+// サイトマップから全URLを取得
 const sitemaps = ['sitemap-main.xml', 'sitemap-features.xml', 'sitemap-prefectures.xml', 'sitemap-spots.xml', 'sitemap-posts.xml'];
-let urls = [];
+let allUrls = [];
 for (const sm of sitemaps) {
   const p = path.join(__dirname, 'public', sm);
   if (fs.existsSync(p)) {
@@ -16,64 +16,43 @@ for (const sm of sitemaps) {
     if (matches) {
       for (const m of matches) {
         const u = m.replace('<loc>', '').replace('</loc>', '');
-        if (!urls.includes(u)) urls.push(u);
+        if (!allUrls.includes(u)) allUrls.push(u);
       }
     }
   }
 }
 
-console.log(`=== Total URLs to IndexNow: ${urls.length} ===`);
+console.log(`=== Total URLs to Submit to IndexNow: ${allUrls.length} ===`);
 
-// Bing / IndexNow APIへの一括JSON送信
-const searchEngines = [
-  'api.indexnow.org',
-  'www.bing.com'
-];
-
-// 最大10,000URLまで一度に送信可能
-const payload = JSON.stringify({
-  host: HOST,
-  key: KEY,
-  keyLocation: `https://${HOST}/${KEY}.txt`,
-  urlList: urls
+// IndexNowは最大10,000URLまで一括送信可能
+const body = JSON.stringify({
+  host,
+  key,
+  keyLocation: `https://${host}/${key}.txt`,
+  urlList: allUrls,
 });
 
-async function submitToEngine(engineHost) {
-  return new Promise((resolve) => {
-    const req = https.request({
-      hostname: engineHost,
-      port: 443,
+for (const endpoint of ['api.indexnow.org', 'www.bing.com', 'yandex.com']) {
+  const req = https.request(
+    {
+      hostname: endpoint,
       path: '/indexnow',
       method: 'POST',
       headers: {
         'Content-Type': 'application/json; charset=utf-8',
-        'Content-Length': Buffer.byteLength(payload)
-      }
-    }, (res) => {
-      let body = '';
-      res.on('data', c => body += c);
+        'Content-Length': Buffer.byteLength(body),
+      },
+    },
+    (res) => {
+      let data = '';
+      res.on('data', chunk => data += chunk);
       res.on('end', () => {
-        console.log(`[${engineHost}] Status: ${res.statusCode} ${res.statusMessage || ''} -> ${body || 'Success'}`);
-        resolve();
+        console.log(`✓ ${endpoint}: HTTP ${res.statusCode} ${data ? `(Response: ${data})` : ''}`);
       });
-    });
-
-    req.on('error', (e) => {
-      console.warn(`[${engineHost}] Error: ${e.message}`);
-      resolve();
-    });
-
-    req.write(payload);
-    req.end();
-  });
+    }
+  );
+  req.on('error', (e) => console.log(`✗ ${endpoint}: Error ${e.message}`));
+  req.setTimeout(20000, () => req.destroy());
+  req.write(body);
+  req.end();
 }
-
-async function main() {
-  for (const eng of searchEngines) {
-    console.log(`Submitting ${urls.length} URLs to https://${eng}/indexnow...`);
-    await submitToEngine(eng);
-  }
-  console.log('\n=== IndexNow Submission Completed! ===');
-}
-
-main().catch(console.error);
