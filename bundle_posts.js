@@ -572,9 +572,16 @@ Sitemap: ${BASE_URL}/sitemap-posts.xml
     fs.mkdirSync(d, { recursive: true });
   });
 
+  const NATIONWIDE = '全国・複数県';
+  const normalizePref = (raw) => {
+    const s = String(raw || '');
+    if (PREF_ORDER.includes(s)) return s;
+    const found = PREF_ORDER.filter(p => s.includes(p));
+    return found.length === 1 ? found[0] : NATIONWIDE;
+  };
   const byPref = {};
   posts.forEach(post => {
-    const pref = post.prefecture || 'その他';
+    const pref = normalizePref(post.prefecture);
     (byPref[pref] = byPref[pref] || []).push(post);
 
     // 記事別Markdown（本文は装飾なしで全文）
@@ -602,8 +609,9 @@ Sitemap: ${BASE_URL}/sitemap-posts.xml
     return (ia < 0 ? 99 : ia) - (ib < 0 ? 99 : ib);
   });
   let llmsIndex = `# 日本全国・旅宿クラウド - AI向け知識ベース索引\n\n> 都道府県ごとに分割した記事要約です。各記事の全文は Markdown で取得できます（${BASE_URL}/ai/{記事ID}.md）。\n\n## 都道府県別ファイル\n`;
-  prefKeys.forEach((pref, i) => {
-    const fileName = `${String(i + 1).padStart(2, '0')}.txt`;
+  prefKeys.forEach((pref) => {
+    const code = pref === NATIONWIDE ? 48 : PREF_ORDER.indexOf(pref) + 1;
+    const fileName = `${String(code).padStart(2, '0')}.txt`;
     let body = `# ${pref}の宿泊・観光記事（${byPref[pref].length}件）\n\n`;
     byPref[pref].forEach(post => {
       body += `## ${post.title}\n`;
