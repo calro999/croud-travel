@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-aichi-atsumi-irako-nanohana-torafugu-asari-stay',
+              title: "渥美半島＆伊良湖岬！1月満開の菜の花まつりと初日の出・冬旬の天然とらふぐ＆伊良湖温泉名宿",
+              desc: "1月開幕の菜の花まつり一面の黄色い絨毯、伊良湖岬灯台の初日の出。遠州灘天然とらふぐ・大アサリ浜焼き・完熟いちご狩りと新開湯の伊良湖温泉…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-hiroshima-kure-edajima-oyster-yamato-port-stay',
+              title: "呉＆江田島・音戸！最旬の広島かき小屋グルメと艦船ライトアップ冬イルミ・瀬戸内海一望名宿",
+              desc: "最盛期を迎える江田島・呉の冬牡蠣づくし、大和ミュージアムと夕日に染まる潜水艦・護衛艦。音戸の瀬戸、海軍カレー・広島牛と極上療養泉…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-fukushima-inawashiro-lake-shibukigori-swan-onsen-stay',
+              title: "猪苗代湖＆磐梯熱海温泉！奇跡の「しぶき氷」と白鳥飛来・雪見露天風呂と会津地鶏・福島牛名宿",
+              desc: "厳冬期天神浜の氷結アート「しぶき氷」と長浜の白鳥たち、白銀の秀峰磐梯山。開湯800年磐梯熱海の美肌雪見露天と会津地鶏・馬刺し・福島牛…",
+              badge: '12・1月特集'
+            },
+            {
+              slug: 'winter-shiga-takashima-makino-metasequoia-snow-shirahige-stay',
+              title: "高島＆マキノ・白鬚神社！白銀のメタセコイア並木雪景色と湖中大鳥居初詣・天然鴨鍋＆近江牛名宿",
+              desc: "2.4kmのメタセコイア白銀並木スノーロード、白鬚神社湖中大鳥居の初日の出。冬の最高峰・天然真鴨鍋と日本三大和牛・近江牛すき焼き…",
+              badge: '12・1月特集'
+            },
+            {
+              slug: 'winter-aomori-towada-lake-oirase-hyobaku-snow-onsen-stay',
+              title: "十和田湖＆奥入瀬渓流！白銀の巨大氷瀑ツアーと十和田神社初詣・奥入瀬雪見露天＆倉石牛名宿",
+              desc: "青白く凍りつく馬門岩・銚子大滝の巨大氷瀑と夜のライトアップ、不凍湖・十和田湖と十和田神社初詣。十和田バラ焼き・倉石牛と氷瀑露天風呂…",
+              badge: '12・1月特集'
+            },
+            {
               slug: 'winter-tokyo-shinjuku-nishishinjuku-illumination-hatsumode-luxury-stay',
               title: "新宿＆西新宿・新宿御苑！新宿ミナミルミ＆サザンテラス冬イルミと都庁展望室夜景・花園神社初詣を味わう名宿",
               desc: "世界最大のターミナルを包む新宿ミナミルミ、都庁展望室から望む冬の夕暮れ富士山と360度パノラマ夜景。花園神社初詣と西新宿摩天楼ホテル…",

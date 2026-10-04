@@ -73,5 +73,5 @@
 - [その他（6件）](https://croud-travel.pages.dev/llms/68.txt)
 - [京都府・石川県・兵庫県（1件）](https://croud-travel.pages.dev/llms/69.txt)
 
-## 特集記事（1936件）
+## 特集記事（1941件）
 サイトマップ: https://croud-travel.pages.dev/sitemap-features.xml
