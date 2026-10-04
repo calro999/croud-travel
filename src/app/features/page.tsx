@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-tokyo-shibuya-omotesando-meijijingu-hatsumode-illumination-stay',
+              title: "渋谷＆表参道・原宿！明治神宮初詣＆青の洞窟・表参道イルミとSHIBUYA SKY夜景を味わう名宿",
+              desc: "ケヤキ並木を黄金色に染める表参道イルミ、代々木公園の青の洞窟、SHIBUYA SKY冬の夕富士。明治神宮初詣と最先端ホテルステイ…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-tokyo-ginza-hibiya-illumination-christmas-market-luxury-stay',
+              title: "銀座＆日比谷！HIBIYA Magic Timeイルミ＆東京クリスマスマーケットと銀座美食・最高峰ホテル名宿",
+              desc: "日比谷ステップ広場のオーロラ光、本場ドイツのクリスマスマーケット、銀座中央通りの華麗な冬夜景。老舗すき焼きや江戸前鮨と最高峰宿…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-hokkaido-biei-furano-bluepond-lightup-tokachidake-onsen-stay',
+              title: "美瑛＆富良野！白金青い池・白ひげの滝ライトアップと十勝岳雪見にごり湯・富良野和牛の名宿",
+              desc: "凍結池に浮かぶ青い光のアート、コバルトブルーの白ひげの滝氷瀑。標高1200m十勝岳雪見にごり湯ととろける富良野和牛に癒やされる冬旅…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-shizuoka-gotemba-tokinosumika-illumination-fuji-view-stay',
+              title: "御殿場＆裾野！時之栖イルミ＆アウトレットと冬の富士山展望露天風呂名宿",
+              desc: "約550万球が輝く時之栖ひかりのすみかと大迫力の噴水レーザーショー。アウトレット冬セールと湯船から拝む冠雪富士山の絶景温泉…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-kyoto-heian-jingu-hatsumode-nanzenji-okazaki-yudofu-stay',
+              title: "平安神宮＆南禅寺・岡崎！初詣と神苑雪景色・水路閣の冬情趣と名物湯豆腐・京懐石の名宿",
+              desc: "朱塗り大鳥居が雪に映える平安神宮初詣、赤レンガ水路閣の冬情趣。利尻昆布出汁の熱々南禅寺湯豆腐と東山天然温泉スパに癒やされる古都…",
+              badge: '11・12・1月特集'
+            },
+            {
               slug: 'winter-osaka-usj-bayarea-christmas-countdown-official-stay',
               title: "USJ冬のクリスマス＆ベイエリア夜景！天然温泉スパと絶景オフィシャルホテル名宿",
               desc: "NO LIMIT! クリスマスやホグワーツ雪景色、海遊館イルミ。オフィシャルホテルのパークビューと天然温泉スパ、熱々の大阪グルメ…",
