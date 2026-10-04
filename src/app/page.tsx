@@ -249,7 +249,7 @@ export default function Home() {
 
       {/* 記事一覧（フィルター付きClient Component） */}
       <div id="posts-section" className="scroll-mt-8">
-        <PostListClient initialPosts={slimPosts} />
+        <PostListClient initialPosts={slimPosts.slice(0, 60)} />
       </div>
 
       {/* 📚 全国の特集・特設テーマ記事（洗練されたカード型ナビゲーション） */}

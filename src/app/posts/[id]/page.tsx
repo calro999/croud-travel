@@ -42,6 +42,18 @@ interface Post {
 
 export const dynamicParams = false;
 
+// bundle_posts.js が生成する SEO 判定(薄い記事の noindex / 重複の canonical)
+function loadSeo(): { noindex: string[]; canonical: Record<string, string> } {
+  try {
+    const p = path.join(process.cwd(), "src", "data", "post-seo.json");
+    if (fs.existsSync(p)) return JSON.parse(fs.readFileSync(p, "utf-8"));
+  } catch (e) {
+    console.error("Failed to load post-seo.json:", e);
+  }
+  return { noindex: [], canonical: {} };
+}
+const seo = loadSeo();
+
 export async function generateStaticParams() {
   const postsDir = path.join(process.cwd(), "src", "data", "posts");
   if (!fs.existsSync(postsDir)) {
@@ -103,8 +115,12 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
         ...(post.categories || [])
       ].filter(Boolean).join(","),
       alternates: {
-        canonical: `${baseUrl}/posts/${id}/`,
+        canonical: `${baseUrl}/posts/${seo.canonical[id] || id}/`,
+        types: { "text/markdown": `${baseUrl}/ai/${id}.md` },
       },
+      ...(seo.noindex.includes(id) || seo.canonical[id]
+        ? { robots: { index: false, follow: true } }
+        : {}),
       openGraph: {
         title: pageTitle,
         description: descriptionText,

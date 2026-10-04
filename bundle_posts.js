@@ -69,6 +69,23 @@ function main() {
 
     fs.writeFileSync(OUTPUT_FILE, JSON.stringify(postSummaries), 'utf8');
     console.log(`Bundled ${postSummaries.length} post summaries into ${OUTPUT_FILE}`);
+
+    // トップの一覧用: 表示・絞り込みに必要な項目だけの軽量版
+    const listItems = postSummaries.map(p => ({
+      id: p.id,
+      title: p.title,
+      hotel_name: p.hotel_name,
+      description: (p.description || '').slice(0, 120),
+      image: p.image,
+      prefecture: p.prefecture,
+      area: p.area,
+      categories: p.categories,
+      price: p.price,
+      rating: p.rating,
+      date: p.date
+    }));
+    fs.writeFileSync(path.join(PUBLIC_DATA_DIR, 'posts-list.json'), JSON.stringify(listItems), 'utf8');
+    console.log(`Wrote slim list: ${listItems.length} items`);
   }
 
   // --- 1. public/sitemap.xml (Sitemap Index) ＆ カテゴリー別分割サイトマップの自動生成 ---
@@ -501,44 +518,126 @@ Sitemap: ${BASE_URL}/sitemap-posts.xml
   fs.writeFileSync(path.join(PUBLIC_DIR, 'llms.txt'), llmsTxt, 'utf8');
   console.log(`Generated physical llms.txt at ${path.join(PUBLIC_DIR, 'llms.txt')}`);
 
-  // --- 4. public/llms-full.txt (LLM/AI専用全記事コンテンツ集約仕様) の自動生成 ---
-  let llmsFullTxt = `# 日本全国・旅宿クラウド - 全記事データアーカイブ (LLMs Full Knowledge Base)
+  // --- 3.5 SEO判定: 薄い記事(noindex)と同一宿・同一タイトルの重複(canonical)を判定して出力 ---
+  {
+    const textLen = (p) => (p.review || '').replace(/<[^>]*>/g, '').replace(/\s/g, '').length;
+    const thin = [];
+    const groups = {};
+    posts.forEach(p => {
+      if (p.hotel_name && !p.is_special_feature) {
+        (groups[`${p.hotel_name}__${p.title}`] = groups[`${p.hotel_name}__${p.title}`] || []).push(p);
+      }
+    });
+    const canonical = {};
+    Object.values(groups).filter(g => g.length > 1).forEach(g => {
+      g.sort((a, b) => textLen(b) - textLen(a) || Number(b.rating || 0) - Number(a.rating || 0) || String(a.id).localeCompare(String(b.id)));
+      g.slice(1).forEach(p => { canonical[p.id] = g[0].id; });
+    });
+    posts.forEach(p => { if (!p.is_special_feature && textLen(p) < 1000 && !canonical[p.id]) thin.push(p.id); });
+    const seoDir = path.join(__dirname, 'src', 'data');
+    fs.writeFileSync(path.join(seoDir, 'post-seo.json'), JSON.stringify({ noindex: thin, canonical }), 'utf8');
+    console.log(`SEO: noindex ${thin.length}, canonical-merged ${Object.keys(canonical).length}`);
 
-> 当ファイルは、ChatGPT、Claude、Perplexity、Geminiなどの大規模言語モデル（LLM）が日本全国の観光名所・温泉宿・名物グルメ・モデルコースの知識を取得するための完全な知識データベースです。
-
----
-
-`;
-
-  posts.forEach(post => {
-    llmsFullTxt += `## 記事: ${post.title}\n`;
-    llmsFullTxt += `- URL: ${BASE_URL}/posts/${post.id}\n`;
-    llmsFullTxt += `- 宿泊施設名: ${post.hotel_name}\n`;
-    llmsFullTxt += `- 都道府県: ${post.prefecture}\n`;
-    llmsFullTxt += `- エリア: ${post.area}\n`;
-    if (post.price) llmsFullTxt += `- 参考価格: ¥${post.price}〜\n`;
-    if (post.rating) llmsFullTxt += `- 評価: ⭐ ${post.rating}\n`;
-    const cleanReview = (post.review || '').replace(/<[^>]*>/g, '').replace(/\s+/g, ' ').trim().slice(0, 1200);
-    llmsFullTxt += `\n### ルポ・解説概要\n${cleanReview}\n\n---\n\n`;
-  });
-
-  // 特集記事アーカイブをllms-full.txtに追加
-  const sitemapFeaturesPath = path.join(PUBLIC_DIR, 'sitemap-features.xml');
-  if (fs.existsSync(sitemapFeaturesPath)) {
-    const sitemapText = fs.readFileSync(sitemapFeaturesPath, 'utf8');
-    const matches = sitemapText.match(/<loc>(.*?)<\/loc>/g);
-    if (matches && matches.length > 0) {
-      llmsFullTxt += `\n## 全国厳選・特集記事コレクション (Special Winter & Seasonal Features)\n\n`;
-      matches.forEach(m => {
-        const u = m.replace('<loc>', '').replace('</loc>', '');
-        llmsFullTxt += `- ${u}\n`;
+    // サイトマップから除外（noindex / 統合済み記事を載せない）
+    const excluded = new Set([...thin, ...Object.keys(canonical)].map(String));
+    const spPath = path.join(PUBLIC_DIR, 'sitemap-posts.xml');
+    if (fs.existsSync(spPath)) {
+      const before = fs.readFileSync(spPath, 'utf8');
+      const after = before.replace(/<url>[\s\S]*?<\/url>/g, (block) => {
+        const m = block.match(/\/posts\/([^/<]+)\/?<\/loc>/);
+        return m && excluded.has(m[1]) ? '' : block;
       });
-      llmsFullTxt += `\n---\n`;
+      fs.writeFileSync(spPath, after, 'utf8');
+      console.log(`Sitemap posts: ${(before.match(/<url>/g) || []).length} -> ${(after.match(/<url>/g) || []).length}`);
     }
   }
 
-  fs.writeFileSync(path.join(PUBLIC_DIR, 'llms-full.txt'), llmsFullTxt, 'utf8');
-  console.log(`Generated physical llms-full.txt at ${path.join(PUBLIC_DIR, 'llms-full.txt')}`);
+  // --- 4. AI向け: 都道府県別 llms ファイル / 記事別Markdown / RSS の自動生成 ---
+  // 旧 llms-full.txt は約10MBでAIが読み切れないため、軽量な索引にして実体は分割する。
+  const PREF_ORDER = ['北海道','青森県','岩手県','宮城県','秋田県','山形県','福島県','茨城県','栃木県','群馬県','埼玉県','千葉県','東京都','神奈川県','新潟県','富山県','石川県','福井県','山梨県','長野県','岐阜県','静岡県','愛知県','三重県','滋賀県','京都府','大阪府','兵庫県','奈良県','和歌山県','鳥取県','島根県','岡山県','広島県','山口県','徳島県','香川県','愛媛県','高知県','福岡県','佐賀県','長崎県','熊本県','大分県','宮崎県','鹿児島県','沖縄県'];
+  const htmlToText = (html) => (html || '')
+    .replace(/<\/(p|h[1-6]|li|div|tr)>/gi, '\n')
+    .replace(/<br\s*\/?>/gi, '\n')
+    .replace(/<[^>]*>/g, '')
+    .replace(/&nbsp;/g, ' ').replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>')
+    .replace(/[ \t]+/g, ' ')
+    .replace(/\n\s*\n+/g, '\n\n')
+    .trim();
+  const listText = (arr) => (Array.isArray(arr) ? arr.filter(Boolean).join('、') : '');
+
+  const llmsDir = path.join(PUBLIC_DIR, 'llms');
+  const aiDir = path.join(PUBLIC_DIR, 'ai');
+  [llmsDir, aiDir].forEach(d => {
+    if (fs.existsSync(d)) fs.rmSync(d, { recursive: true, force: true });
+    fs.mkdirSync(d, { recursive: true });
+  });
+
+  const byPref = {};
+  posts.forEach(post => {
+    const pref = post.prefecture || 'その他';
+    (byPref[pref] = byPref[pref] || []).push(post);
+
+    // 記事別Markdown（本文は装飾なしで全文）
+    let md = `# ${post.title}\n\n`;
+    md += `- URL: ${BASE_URL}/posts/${post.id}/\n`;
+    md += `- 宿泊施設名: ${post.hotel_name}\n`;
+    md += `- 都道府県: ${post.prefecture || ''}\n- エリア: ${post.area || ''}\n`;
+    if (post.price) md += `- 参考価格: ¥${post.price}〜\n`;
+    if (post.rating) md += `- 評価: ${post.rating}\n`;
+    if (post.date) md += `- 更新日: ${post.date}\n`;
+    if (post.recommended_for) md += `- おすすめの人: ${listText(post.recommended_for)}\n`;
+    if (post.nearby_tourist_spots) md += `- 周辺の観光スポット: ${listText(post.nearby_tourist_spots)}\n`;
+    if (post.nearby_gourmet) md += `- 周辺のグルメ: ${listText(post.nearby_gourmet)}\n`;
+    if (post.hot_spring_info) md += `- 温泉: ${post.hot_spring_info}\n`;
+    if (post.parking_info) md += `- 駐車場: ${post.parking_info}\n`;
+    if (post.meal_availability) md += `- 食事: ${post.meal_availability}\n`;
+    if (post.family_friendly) md += `- 子連れ: ${post.family_friendly}\n`;
+    if (post.editor_tip) md += `- 編集部メモ: ${post.editor_tip}\n`;
+    md += `\n## 概要\n${post.description || ''}\n\n## 詳細\n${htmlToText(post.review)}\n`;
+    fs.writeFileSync(path.join(aiDir, `${post.id}.md`), md, 'utf8');
+  });
+
+  const prefKeys = Object.keys(byPref).sort((a, b) => {
+    const ia = PREF_ORDER.indexOf(a), ib = PREF_ORDER.indexOf(b);
+    return (ia < 0 ? 99 : ia) - (ib < 0 ? 99 : ib);
+  });
+  let llmsIndex = `# 日本全国・旅宿クラウド - AI向け知識ベース索引\n\n> 都道府県ごとに分割した記事要約です。各記事の全文は Markdown で取得できます（${BASE_URL}/ai/{記事ID}.md）。\n\n## 都道府県別ファイル\n`;
+  prefKeys.forEach((pref, i) => {
+    const fileName = `${String(i + 1).padStart(2, '0')}.txt`;
+    let body = `# ${pref}の宿泊・観光記事（${byPref[pref].length}件）\n\n`;
+    byPref[pref].forEach(post => {
+      body += `## ${post.title}\n`;
+      body += `- 記事: ${BASE_URL}/posts/${post.id}/\n- 全文Markdown: ${BASE_URL}/ai/${post.id}.md\n`;
+      body += `- 宿泊施設名: ${post.hotel_name}\n- エリア: ${post.area || ''}\n`;
+      if (post.price) body += `- 参考価格: ¥${post.price}〜\n`;
+      if (post.rating) body += `- 評価: ${post.rating}\n`;
+      body += `\n${(post.description || '').trim()}\n\n`;
+    });
+    fs.writeFileSync(path.join(llmsDir, fileName), body, 'utf8');
+    llmsIndex += `- [${pref}（${byPref[pref].length}件）](${BASE_URL}/llms/${fileName})\n`;
+  });
+
+  const sitemapFeaturesPath = path.join(PUBLIC_DIR, 'sitemap-features.xml');
+  if (fs.existsSync(sitemapFeaturesPath)) {
+    const matches = fs.readFileSync(sitemapFeaturesPath, 'utf8').match(/<loc>(.*?)<\/loc>/g);
+    if (matches && matches.length > 0) {
+      llmsIndex += `\n## 特集記事（${matches.length}件）\nサイトマップ: ${BASE_URL}/sitemap-features.xml\n`;
+    }
+  }
+  fs.writeFileSync(path.join(PUBLIC_DIR, 'llms-full.txt'), llmsIndex, 'utf8');
+  console.log(`Generated llms index, ${prefKeys.length} prefecture files, ${posts.length} markdown files`);
+
+  // RSS（更新日の新しい順に100件）
+  const escXml = (s) => String(s || '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+  const toRfc822 = (d) => { const t = new Date(String(d).replace(' ', 'T') + (String(d).length <= 19 ? '+09:00' : '')); return isNaN(t) ? new Date().toUTCString() : t.toUTCString(); };
+  const recent = [...posts].sort((a, b) => String(b.date || '').localeCompare(String(a.date || ''))).slice(0, 100);
+  let rss = `<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">\n<channel>\n<title>旅宿クラウド</title>\n<link>${BASE_URL}/</link>\n<description>日本全国の温泉宿・ホテルを紹介する旅行マガジン</description>\n<language>ja</language>\n<atom:link href="${BASE_URL}/feed.xml" rel="self" type="application/rss+xml"/>\n`;
+  recent.forEach(p => {
+    rss += `<item><title>${escXml(p.title)}</title><link>${BASE_URL}/posts/${p.id}/</link><guid>${BASE_URL}/posts/${p.id}/</guid><pubDate>${toRfc822(p.date)}</pubDate><description>${escXml(p.description)}</description></item>\n`;
+  });
+  rss += `</channel>\n</rss>\n`;
+  fs.writeFileSync(path.join(PUBLIC_DIR, 'feed.xml'), rss, 'utf8');
+  console.log('Generated feed.xml');
 }
 
 main();

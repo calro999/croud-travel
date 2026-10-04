@@ -57,7 +57,33 @@ function PostListInner({ initialPosts }: { initialPosts: Post[] }) {
     }
   }, [searchParams]);
 
-  const filteredPosts = initialPosts.filter((post) => {
+  const [allPosts, setAllPosts] = useState<Post[]>(initialPosts);
+  const [fullLoaded, setFullLoaded] = useState<boolean>(false);
+  const [loading, setLoading] = useState<boolean>(false);
+  const [visibleCount, setVisibleCount] = useState<number>(initialPosts.length);
+
+  const loadAll = () => {
+    if (fullLoaded || loading) return;
+    setLoading(true);
+    fetch("/data/posts-list.json")
+      .then((r) => r.json())
+      .then((data: Post[]) => {
+        setAllPosts(data.map((p) => ({ ...p, other_images: [], affiliate_url: "" })));
+        setFullLoaded(true);
+      })
+      .catch(() => {})
+      .finally(() => setLoading(false));
+  };
+
+  const hasActiveFilters = searchQuery || selectedArea !== "すべて" || selectedCategory !== "すべて" || selectedPref !== "すべて";
+
+  // 絞り込み条件が入ったら全件を読み込む
+  useEffect(() => {
+    if (hasActiveFilters) loadAll();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [hasActiveFilters]);
+
+  const filteredPosts = allPosts.filter((post) => {
     const matchesSearch =
       post.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
       post.hotel_name.toLowerCase().includes(searchQuery.toLowerCase()) ||
@@ -69,7 +95,8 @@ function PostListInner({ initialPosts }: { initialPosts: Post[] }) {
     return matchesSearch && matchesArea && matchesCategory && matchesPref;
   });
 
-  const hasActiveFilters = searchQuery || selectedArea !== "すべて" || selectedCategory !== "すべて" || selectedPref !== "すべて";
+  const displayedPosts = hasActiveFilters ? filteredPosts : filteredPosts.slice(0, visibleCount);
+  const canShowMore = !hasActiveFilters && (visibleCount < filteredPosts.length || !fullLoaded);
 
   return (
     <>
@@ -153,7 +180,7 @@ function PostListInner({ initialPosts }: { initialPosts: Post[] }) {
         </div>
       ) : (
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
-          {filteredPosts.map((post) => (
+          {displayedPosts.map((post) => (
             <article
               key={post.id}
               className="flex flex-col rounded-2xl overflow-hidden bg-white border border-emerald-950/5 card-hover-effect shadow-sm"
@@ -212,6 +239,21 @@ function PostListInner({ initialPosts }: { initialPosts: Post[] }) {
               </div>
             </article>
           ))}
+        </div>
+      )}
+
+      {canShowMore && (
+        <div className="text-center pt-10">
+          <button
+            onClick={() => {
+              loadAll();
+              setVisibleCount((c) => c + 60);
+            }}
+            disabled={loading}
+            className="text-xs font-extrabold text-white bg-gradient-to-r from-teal-800 to-emerald-900 px-10 py-3.5 rounded-xl shadow cursor-pointer disabled:opacity-60"
+          >
+            {loading ? "読み込み中..." : "もっと見る"}
+          </button>
         </div>
       )}
     </>

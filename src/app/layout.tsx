@@ -77,6 +77,8 @@ export default function RootLayout({
   return (
     <html lang="ja" className="h-full">
       <head>
+        <link rel="alternate" type="application/rss+xml" title="旅宿クラウド 新着記事" href="/feed.xml" />
+        <link rel="alternate" type="text/plain" title="llms.txt" href="/llms.txt" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800;900&family=Noto+Sans+JP:wght@400;500;700;900&family=Noto+Serif+JP:wght@400;700;900&display=swap" rel="stylesheet" />
