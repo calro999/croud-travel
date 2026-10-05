@@ -111,6 +111,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-tokyo-takao-yakuoin-shrine-hatsumode-fuji-tororo-soba-stay',
+              title: "高尾山＆八王子！霊峰「高尾山薬王院」新春初詣と冬晴れダイヤモンド富士・元祖自然薯とろろそば＆極楽湯天然温泉名宿",
+              desc: "都心から50分の霊峰！開山1200余年の薬王院で迎える新春大護摩供と天狗信仰初詣、冬至前後の奇跡ダイヤモンド富士。熱々の自然薯とろろそばと極楽湯温泉…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-kanagawa-isehara-oyama-afuri-shrine-hatsumode-tofu-tsurumaki-stay',
+              title: "大山＆伊勢原・丹沢！日本遺産「大山阿夫利神社」新春初詣とミシュラン二つ星相模湾絶景・名水大山豆腐料理＆鶴巻・七沢温泉名宿",
+              desc: "江戸庶民が熱狂した大山詣り！阿夫利神社下社から見渡す江の島・相模湾パノラマと初日の出。大山名水仕込みの熱々豆腐会席・ぼたん鍋と世界有数のカルシウム名湯…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-hokkaido-wakkanai-soya-cape-sunrise-tako-shabu-soya-beef-stay',
+              title: "稚内＆宗谷岬！日本最北端「宗谷岬」冬の元旦初日の出と北防波堤ドーム・元祖タコしゃぶ＆幻の宗谷黒牛・最北天然温泉名宿",
+              desc: "北緯45度最果ての詩情！白銀のオホーツク海から昇る日本最北端の初日の出、古代ローマ円柱が連なる北海道遺産・北防波堤ドーム。名物タコしゃぶと最北天然温泉…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-hyogo-takarazuka-kiyoshikojin-hatsumode-takedao-onsen-sandagyu-stay',
+              title: "宝塚＆武田尾温泉！夢の宝塚大劇場冬公演と「清荒神清澄寺」新春初詣・隈研吾設計離れ「武田尾温泉」雪見露天＆極上三田牛名宿",
+              desc: "華麗な歌劇の舞台と深山幽谷の秘湯！台所の神様・清荒神と安産観音中山寺の初詣。武庫川渓谷のラドン温泉雪見露天と兵庫最高峰ブランド和牛・三田牛すき焼き…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-miyazaki-hyuga-umagase-sea-cross-iseebi-miyazakigyu-stay',
+              title: "日向＆延岡！日向岬「馬ヶ背」高さ70m断崖絶壁と「クルスの海」新春願掛け・冬旬「日向灘伊勢海老」＆日本一宮崎牛・延岡名宿",
+              desc: "温暖な南国の紺碧パノラマ！柱状節理の奇勝・馬ヶ背スカイウォークと願い叶うクルスの海初詣。甘み極まる冬の日向灘伊勢海老活造りと最高峰宮崎牛・元祖チキン南蛮…",
+              badge: '11・12・1月特集'
+            },
+            {
               slug: 'winter-kagawa-kotohira-konpira-shrine-hatsumode-zentsuji-olivegyu-stay',
               title: "琴平＆善通寺・丸亀！四国随一初詣「金刀比羅宮」785段石段と弘法大師誕生の地「善通寺」新春祈願・讃岐オリーブ牛＆こんぴら温泉名宿",
               desc: "一生に一度のこんぴら参り！御本宮785段石段と新春初詣、善通寺暗闇の戒壇めぐり。讃岐富士の冬パノラマ、小豆島オリーブ育ちの讃岐オリーブ牛＆熱々讃岐うどん…",
