@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -56,8 +57,32 @@ export default function ScenicViewHubPage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【満天の星空＆星空案内人の宿】阿智村・野辺山・石垣島＆星空露天風呂 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "環境省認定の日本一の星空完全特化！長野「阿智村」、八ヶ岳「野辺山高原」、星空保護区「石垣島・西表島」、岡山「美星町」、星空案内人（星ソムリエ）の天体観測ツアーと屋上星空テラス温泉宿を徹底解説。",
+    "url": "https://croud-travel.pages.dev/japan-starry-sky-astrophotography-resort-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【満天の星空＆星空案内人の宿】阿智村・野辺山・石垣島＆星空露天風呂 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/japan-starry-sky-astrophotography-resort-stay/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-stone-900 via-rose-950 to-amber-950 text-white p-8 md:p-14 shadow-xl border border-white/10">
         <div className="max-w-3xl space-y-4">
@@ -203,6 +228,8 @@ export default function ScenicViewHubPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="japan-starry-sky-astrophotography-resort-stay" />
+</div>
   );
 }

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import type { Metadata } from 'next';
@@ -254,6 +255,7 @@ export default function MiyazakiMiyakonojoWinterPage() {
       a: "【1日目】宮崎空港または鹿児島空港を出発 → 都城市へ移動し「関之尾滝」の甌穴群を見学 → 市内で日本一の都城産宮崎牛ランチ → 「焼酎の里 霧島ファクトリーガーデン」で蔵元見学とお土産選び → 高原町の「狭野神社」で静謐な杉並木を参拝 → 極楽温泉または常盤荘にチェックイン → 黄金炭酸泉の湯浴みと極上宮崎牛すき焼き会席に舌鼓。【2日目】宿を出発し「霧島東神社」へ初詣・高千穂峰と御池の大パノラマを遥拝 → 御池展望台で冬の湖畔美を鑑賞 → 生駒高原または小林市内で名物チョウザメ料理や地鶏ランチ → 道の駅都城NiQLLで新鮮な宮崎牛や特産品を購入 → 帰路へ。"
     }
   ];
+
 
   return (
     <>
@@ -612,7 +614,9 @@ export default function MiyazakiMiyakonojoWinterPage() {
           </section>
 
         </main>
-      </div>
+      
+      <HubRelatedPosts currentSlug="winter-miyazaki-miyakonojo-kobayashi-kirishima-wagyu-stay" />
+</div>
     </>
   );
 }

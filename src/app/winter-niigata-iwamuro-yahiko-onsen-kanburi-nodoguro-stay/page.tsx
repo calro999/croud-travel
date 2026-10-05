@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -221,6 +222,7 @@ export default function NiigataIwamuroYahikoWinterFeature() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800 pb-20">
@@ -620,7 +622,9 @@ export default function NiigataIwamuroYahikoWinterFeature() {
               <h3 className="font-bold text-white text-sm">三国温泉・黄色いタグの越前がにフルコースと東尋坊夕陽の宿</h3>
               <p className="text-slate-300 text-[11px] line-clamp-2">11月解禁の本場越前がにと日本海に沈む夕日のパノラマ。</p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-niigata-iwamuro-yahiko-onsen-kanburi-nodoguro-stay" />
+</div>
         </section>
 
       </main>

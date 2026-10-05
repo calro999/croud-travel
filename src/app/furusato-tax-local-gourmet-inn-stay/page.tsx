@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -16,6 +17,28 @@ export const metadata: Metadata = {
 
 export default function Page() {
   const secData = (seasonalData as any)['furusato-tax-local-gourmet-inn-stay'] || {};
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【舌鼓を打つ美食旅】高千穂牛・あなご・伊勢海老！ご当地グルメ宿をふるさと納税で堪能する旅 | クラウドトラベル",
+    "description": "旅の醍醐味は現地の味覚！宮崎の高千穂牛、岡山の名物あなご料理、三重・鳥羽の伊勢海老＆鮑尽くしなど、料理が評判の名宿を楽天ふるさと納税クーポンでお得に楽しむ美食トリップ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-local-gourmet-inn-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【舌鼓を打つ美食旅】高千穂牛・あなご・伊勢海老！ご当地グルメ宿をふるさと納税で堪能する旅 | クラウドトラベル", "item": "https://croud-travel.pages.dev/furusato-tax-local-gourmet-inn-stay/" }
+    ]
+  };
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
@@ -632,7 +655,9 @@ export default function Page() {
                 熊本県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-local-gourmet-inn-stay" />
+</div>
         </section>
 
       </main>

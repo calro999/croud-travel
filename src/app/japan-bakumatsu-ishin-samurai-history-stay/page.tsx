@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -56,8 +57,32 @@ export default function HistoryHeritageHubPage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【幕末維新の歴史浪漫宿】萩・会津若松・高知・薩摩・龍馬ゆかりの宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "幕末の志士たちが駆け抜けた激動の歴史舞台完全特化！明治維新胎動の地「山口・萩城下町＆松下村塾」、会津藩の誇り「福島・会津若松城＆東山温泉」、坂本龍馬の故郷「高知・桂浜」、西郷隆盛・大久保利通の「鹿児島・城山」を徹底解説。",
+    "url": "https://croud-travel.pages.dev/japan-bakumatsu-ishin-samurai-history-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【幕末維新の歴史浪漫宿】萩・会津若松・高知・薩摩・龍馬ゆかりの宿 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/japan-bakumatsu-ishin-samurai-history-stay/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-stone-900 via-rose-950 to-amber-950 text-white p-8 md:p-14 shadow-xl border border-white/10">
         <div className="max-w-3xl space-y-4">
@@ -203,6 +228,8 @@ export default function HistoryHeritageHubPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="japan-bakumatsu-ishin-samurai-history-stay" />
+</div>
   );
 }

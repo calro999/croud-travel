@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import fs from "fs";
 import path from "path";
 import Link from "next/link";
@@ -50,8 +51,32 @@ function loadFukuokaData(): Record<string, RakutenCategoryData> {
 export default function FukuokaHubPage() {
   const fukuokaData = loadFukuokaData();
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【福岡・博多旅行 完全計画ガイド 2026】1泊2日・2泊3日モデルコース＆博多駅・天神・中洲屋台・もつ鍋水炊きグルメ・温泉宿 ｜ 旅宿クラウド",
+    "description": "福岡・博多旅行の計画を完全サポート！1泊2日/2泊3日モデルコース、中洲屋台・もつ鍋・ラーメン食べ歩き、博多駅直結ホテル、明太子朝食バイキング宿から温泉旅館までおすすめの宿泊プランまで徹底網羅。",
+    "url": "https://croud-travel.pages.dev/fukuoka/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【福岡・博多旅行 完全計画ガイド 2026】1泊2日・2泊3日モデルコース＆博多駅・天神・中洲屋台・もつ鍋水炊きグルメ・温泉宿 ｜ 旅宿クラウド", "item": "https://croud-travel.pages.dev/fukuoka/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       <nav aria-label="Breadcrumb" className="text-xs font-bold text-teal-900/60 flex items-center gap-2">
         <Link href="/" className="hover:text-teal-800 transition">ホーム</Link>
         <span>/</span>
@@ -127,6 +152,8 @@ export default function FukuokaHubPage() {
           </div>
         </section>
       )}
-    </div>
+    
+      <HubRelatedPosts currentSlug="fukuoka" />
+</div>
   );
 }

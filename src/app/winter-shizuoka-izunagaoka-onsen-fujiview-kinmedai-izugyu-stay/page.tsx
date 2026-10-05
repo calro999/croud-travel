@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -351,6 +352,7 @@ export default function ShizuokaIzunagaokaWinterPage() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-900 leading-relaxed font-sans">
@@ -720,7 +722,9 @@ export default function ShizuokaIzunagaokaWinterPage() {
                 浜名湖夕景を望む露天風呂と、冬の味覚天然とらふぐフルコース・名物鰻を堪能する冬旅。
               </p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-shizuoka-izunagaoka-onsen-fujiview-kinmedai-izugyu-stay" />
+</div>
         </section>
 
       </main>

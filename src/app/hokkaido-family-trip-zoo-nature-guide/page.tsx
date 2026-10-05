@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -135,8 +136,32 @@ export default function HokkaidoFamilyTripZooNaturePage() {
     }
   ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【子連れ北海道旅行 2泊3日モデルコース】旭山動物園＆美瑛富良野ドライブ！子供が喜ぶ体験型ホテルガイド ｜ 日本全国・旅宿クラウド",
+    "description": "家族で楽しむ北海道旅行！旭山動物園の行動展示、もぐもぐタイムの見学、美瑛の丘散策、大自然を満喫するキッズフレンドリーな宿特集。レンタカー移動時の休憩スポットや子供用アメニティ充実のホテルまとめ。",
+    "url": "https://croud-travel.pages.dev/hokkaido-family-trip-zoo-nature-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【子連れ北海道旅行 2泊3日モデルコース】旭山動物園＆美瑛富良野ドライブ！子供が喜ぶ体験型ホテルガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/hokkaido-family-trip-zoo-nature-guide/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-20 font-sans text-stone-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション（Amber/Warm Natural Palette） */}
       <section className="relative rounded-3xl overflow-hidden bg-gradient-to-br from-amber-700 via-amber-600 to-amber-800 text-white p-8 md:p-14 shadow-2xl border border-amber-500/50">
         <div className="absolute -top-12 -right-12 w-96 h-96 bg-yellow-300/20 rounded-full blur-3xl pointer-events-none" />
@@ -398,6 +423,8 @@ export default function HokkaidoFamilyTripZooNaturePage() {
       <div className="pt-4">
         <SpecialCouponBanner variant="prominent" />
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="hokkaido-family-trip-zoo-nature-guide" />
+</div>
   );
 }

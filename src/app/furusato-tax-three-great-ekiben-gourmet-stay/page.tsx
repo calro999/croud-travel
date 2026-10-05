@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -100,8 +101,32 @@ export default function Page() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三大駅弁＆鉄道旅情・元祖の味と極上ブランド牛・名湯宿×ふるさと納税完全ガイド【2026年最新】峠の釜めし・いかめし・松阪牛弁当",
+    "description": "旅の情緒と地域の美味が詰まった日本三大駅弁の聖地巡り！群馬安中「峠の釜めし」益子焼の器に山の幸とおもてなし磯部温泉ホテル磯部ガーデン、北海道森町「元祖森名物いかめし」秘伝タレ炊き込みとラ・ジェント・ステイ函館駅前、三重松阪「松阪牛駅弁・モー太郎弁当」極上黒毛和牛の贅とホテルAU松阪。日本三大駅弁の旅情と美食を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-great-ekiben-gourmet-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "日本三大駅弁＆鉄道旅情・元祖の味と極上ブランド牛・名湯宿×ふるさと納税完全ガイド【2026年最新】峠の釜めし・いかめし・松阪牛弁当", "item": "https://croud-travel.pages.dev/furusato-tax-three-great-ekiben-gourmet-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずリスト */}
       <nav className="bg-white border-b border-slate-200 py-3 px-4 text-xs text-slate-500">
         <div className="max-w-5xl mx-auto flex items-center space-x-2">
@@ -520,6 +545,8 @@ export default function Page() {
       <footer className="bg-slate-950 text-slate-400 py-8 px-4 text-center text-xs border-t border-slate-800">
         <p>© 2026 トラベルポータル All Rights Reserved. 掲載情報は最新の楽天トラベル公式APIに基づきます。</p>
       </footer>
-    </div>
+    
+      <HubRelatedPosts currentSlug="furusato-tax-three-great-ekiben-gourmet-stay" />
+</div>
   );
 }

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import type { Metadata } from 'next';
@@ -217,6 +218,7 @@ export default function AkitaYokoteOyasukyoWinterPage() {
       }
     ]
   };
+
 
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800 antialiased">
@@ -645,6 +647,8 @@ export default function AkitaYokoteOyasukyoWinterPage() {
       <footer className="max-w-5xl mx-auto px-4 sm:px-6 py-12 border-t border-slate-200 mt-16 text-center text-xs text-slate-500">
         <p>© 2026 地域の宿探訪 - 日本の四季と極上ホテル・旅館を巡る旅</p>
       </footer>
-    </div>
+    
+      <HubRelatedPosts currentSlug="winter-akita-yokote-kamakura-oyasukyo-shigakko-inaniwa-stay" />
+</div>
   );
 }

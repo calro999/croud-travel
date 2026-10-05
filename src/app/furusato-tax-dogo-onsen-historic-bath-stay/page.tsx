@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -17,6 +18,28 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoTaxArticle() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【道後温泉×ふるさと納税】日本最古の湯・道後温泉本館と文学＆アートの街を旅する極上宿ガイド｜ふなや・大和屋本店・茶玻瑠",
+    "description": "日本書紀にも登場する日本最古の名湯・道後温泉を楽天ふるさと納税でお得に満喫！保存修理工事を終えた道後温泉本館の全館営業再開、夏目漱石「坊っちゃん」ゆかりの歴史、飛鳥乃湯泉や道後商店街の散策まで徹底案内。老舗最高峰「ふなや」、能舞台を擁する「大和屋本店」、屋上絶景露天の「茶玻瑠」をご紹介。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-dogo-onsen-historic-bath-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【道後温泉×ふるさと納税】日本最古の湯・道後温泉本館と文学＆アートの街を旅する極上宿ガイド｜ふなや・大和屋本店・茶玻瑠", "item": "https://croud-travel.pages.dev/furusato-tax-dogo-onsen-historic-bath-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-50 text-stone-900 leading-relaxed font-sans">
       {/* ヒーローヘッダー */}
@@ -611,7 +634,9 @@ export default function FurusatoTaxArticle() {
                 福岡県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-dogo-onsen-historic-bath-stay" />
+</div>
         </section>
 
       </main>

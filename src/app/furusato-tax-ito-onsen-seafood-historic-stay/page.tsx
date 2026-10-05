@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -17,6 +18,28 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoTaxArticle() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【伊東温泉×ふるさと納税】相模湾の極上金目鯛＆豊富な自家源泉！東海館の風情薫る名湯宿ガイド｜青山やまと・ホテルラヴィエ川良・淘心庵米屋",
+    "description": "毎分3万リットル以上の湯量を誇る伊豆屈指の名湯・伊東温泉を楽天ふるさと納税でお得に旅する！昭和初期の木造建築・東海館のレトロな風情、相模湾の獲れたて金目鯛の姿煮や伊勢海老の美食、自家源泉掛け流しの名旅館を徹底紹介。青山やまと、ホテルラヴィエ川良、淘心庵米屋の魅力とクーポン活用法を網羅。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-ito-onsen-seafood-historic-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【伊東温泉×ふるさと納税】相模湾の極上金目鯛＆豊富な自家源泉！東海館の風情薫る名湯宿ガイド｜青山やまと・ホテルラヴィエ川良・淘心庵米屋", "item": "https://croud-travel.pages.dev/furusato-tax-ito-onsen-seafood-historic-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-50 text-stone-900 leading-relaxed font-sans">
       {/* ヒーローヘッダー */}
@@ -611,7 +634,9 @@ export default function FurusatoTaxArticle() {
                 広島県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-ito-onsen-seafood-historic-stay" />
+</div>
         </section>
 
       </main>

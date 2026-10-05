@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -109,6 +110,7 @@ export default function FeaturePage() {
               features: ["湯畑近くの木造３階の旅館。男女別のお風呂の他に１部屋に１ヶ所の貸切風呂。押し花作品多数展示。", "吾妻郡草津町草津406", "楽天アワード受賞歴"]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-stone-50 via-white to-stone-50 text-stone-800">
@@ -664,7 +666,9 @@ export default function FeaturePage() {
                 佐賀県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-gunma-kusatsu-yukimi-onsen-stay" />
+</div>
         </section>
 
       </main>

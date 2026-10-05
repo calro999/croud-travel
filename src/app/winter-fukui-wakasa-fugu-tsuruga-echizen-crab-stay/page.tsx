@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -257,6 +258,7 @@ export default function FukuiWakasaFuguWinterPage() {
     "a": "初詣やパワースポットとして有名なのが北陸道総鎮守「氣比神宮（けひじんぐう）」。国の重要文化財である高さ約11メートルの大鳥居は日本三大鳥居の一つに数えられ、冬の凛とした空気の中で荘厳な佇まいを見せます。敦賀港の「敦賀赤レンガ倉庫」や、杉原千畝の人道精神を伝える「人道の港 敦賀ムゼウム」も人気です。小浜市には国宝本堂を持つ「明通寺」など古刹が集まります。お土産には、敦賀名物の香ばしい「焼き鯖寿司」、小浜名産の「小鯛の笹漬け」、伝統工芸の「若狭塗箸」、三方五湖特産の完熟「三方梅（梅干し）」、そして銘酒「早瀬浦」「黒龍」が定番です。"
   }
 ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-teal-100 selection:text-teal-900 pb-20">
@@ -645,7 +647,9 @@ export default function FukuiWakasaFuguWinterPage() {
               <span className="text-teal-700 font-bold block text-[10px]">京都・天橋立温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">日本三景天橋立の冬絶景と幻の間人ガニ・松葉ガニを味わう海絶景宿</p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-fukui-wakasa-fugu-tsuruga-echizen-crab-stay" />
+</div>
         </section>
 
       </main>

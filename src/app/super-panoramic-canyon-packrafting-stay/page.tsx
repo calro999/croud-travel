@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -100,6 +101,7 @@ export default function FeaturePage() {
               features: ["小さな宿で、ゆっくりとした時間をお過ごし下さい！", "利根郡みなかみ町大穴737", "楽天アワード受賞歴"]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-stone-50 via-white to-stone-50 text-stone-800">
@@ -426,7 +428,9 @@ export default function FeaturePage() {
                 福井県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="super-panoramic-canyon-packrafting-stay" />
+</div>
         </section>
 
       </main>

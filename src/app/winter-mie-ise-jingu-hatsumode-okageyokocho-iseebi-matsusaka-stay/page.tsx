@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -257,6 +258,7 @@ export default function MieIseJinguWinterPage() {
     "a": "伊勢市は太平洋側に位置するため温暖で雪が積もることは稀ですが、伊勢湾からの冷たい海風が吹き抜け、朝晩は0度〜3度前後まで冷え込みます。特に早朝の神宮参拝や五十鈴川沿いは玉砂利から冷気が上がってくるため、風を通さない厚手のコートやダウンジャケット、マフラー、手袋、歩きやすい防寒ブーツやスニーカーが必須です。年末年始や新春の1月は伊勢西IC・伊勢IC周辺でパーク＆バスライドなどの大規模な交通規制が行われるため、近鉄特急を利用して伊勢市駅や宇治山田駅から路線バスを活用するのが最もスムーズです。"
   }
 ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-amber-100 selection:text-amber-900 pb-20">
@@ -711,7 +713,9 @@ export default function MieIseJinguWinterPage() {
                 冬の特集記事一覧をすべて見る ➔
               </span>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-mie-ise-jingu-hatsumode-okageyokocho-iseebi-matsusaka-stay" />
+</div>
         </section>
 
       </main>

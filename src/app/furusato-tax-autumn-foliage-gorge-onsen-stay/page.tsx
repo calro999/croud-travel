@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -19,8 +20,32 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoTaxPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "紅葉渓谷＆錦秋の絶景露天風呂宿×ふるさと納税完全ガイド【2026年最新】定山渓・奥日光・京都嵐山の秋色名宿",
+    "description": "日本屈指の紅葉名所！北海道定山渓豊平峡、栃木奥日光中禅寺湖、京都嵐山保津川の渓谷美を愛でる秋の特等席宿。赤や黄金色に染まる山々を客室や露天風呂から眺める錦秋ステイを楽天ふるさと納税宿泊クーポンでお得に予約する完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-autumn-foliage-gorge-onsen-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "紅葉渓谷＆錦秋の絶景露天風呂宿×ふるさと納税完全ガイド【2026年最新】定山渓・奥日光・京都嵐山の秋色名宿", "item": "https://croud-travel.pages.dev/furusato-tax-autumn-foliage-gorge-onsen-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-950 text-slate-100 selection:bg-amber-500 selection:text-white">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずリスト */}
       <nav className="border-b border-slate-800/80 bg-slate-900/60 backdrop-blur px-4 py-3 text-xs text-slate-400">
         <div className="max-w-6xl mx-auto flex items-center gap-2 overflow-x-auto whitespace-nowrap">
@@ -864,6 +889,8 @@ export default function FurusatoTaxPage() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="furusato-tax-autumn-foliage-gorge-onsen-stay" />
+</div>
   );
 }

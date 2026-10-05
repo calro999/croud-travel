@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -220,6 +221,7 @@ export default function WinterYamanashiShimobePage() {
       }
     ]
   };
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-stone-50 via-amber-50/20 to-stone-50 text-stone-800 antialiased">
@@ -567,7 +569,9 @@ export default function WinterYamanashiShimobePage() {
                 初冬の芦ノ湖と雄大な富士山を望む名湯、伝統の懐石料理と癒やしの湯浴み。
               </p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-yamanashi-shimobe-onsen-minobu-koshu-beef-stay" />
+</div>
         </section>
 
       </main>

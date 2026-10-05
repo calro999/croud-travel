@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -27,8 +28,32 @@ function loadHotels() {
 export default function YufuinVsBeppuPage() {
   const hotels = loadHotels();
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【由布院 vs 別府 どっちに泊まる？】温泉の泉質・宿のタイプ・観光スポット・費用を完全比較 ｜ 日本全国・旅宿クラウド",
+    "description": "由布院と別府、大分の温泉二大巨頭はどっちに泊まるべき？由布院（おしゃれな隠れ家宿＆金鱗湖朝霧）と別府（地獄めぐり＆砂湯＆とり天）を温泉の泉質・宿のタイプ・グルメ・費用で徹底比較。「1泊ずつハシゴ」プランも紹介。",
+    "url": "https://croud-travel.pages.dev/yufuin-vs-beppu-which-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【由布院 vs 別府 どっちに泊まる？】温泉の泉質・宿のタイプ・観光スポット・費用を完全比較 ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/yufuin-vs-beppu-which-stay/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16 font-sans">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       <section className="bg-gradient-to-br from-emerald-600 to-teal-800 rounded-3xl p-8 md:p-14 text-white shadow-lg relative overflow-hidden">
         <div className="absolute -top-10 -right-10 opacity-10 text-[250px] leading-none pointer-events-none">♨️</div>
         <div className="relative z-10 space-y-6">
@@ -228,6 +253,8 @@ export default function YufuinVsBeppuPage() {
           </div>
         </section>
       )}
-    </div>
+    
+      <HubRelatedPosts currentSlug="yufuin-vs-beppu-which-stay" />
+</div>
   );
 }

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -59,8 +60,32 @@ export default function MicroTouristHubPage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【青森・弘前】弘前城桜・津軽りんご＆三味線宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "死ぬまでに行きたい世界の絶景「弘前公園の花筏（はないかだ）」、現存十二天守「弘前城」、生産量日本一の津軽りんご＆アップルパイ巡り、明治大正のレトロ洋館群、生演奏を聴ける津軽三味線の宿を徹底解説。弘前市内ホテルや名湯温泉旅館を厳選。",
+    "url": "https://croud-travel.pages.dev/aomori-hirosaki-castle-cherry-apple-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【青森・弘前】弘前城桜・津軽りんご＆三味線宿 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/aomori-hirosaki-castle-cherry-apple-stay/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-stone-900 via-teal-950 to-blue-950 text-white p-8 md:p-14 shadow-xl border border-white/10">
         <div className="max-w-3xl space-y-4">
@@ -212,6 +237,8 @@ export default function MicroTouristHubPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="aomori-hirosaki-castle-cherry-apple-stay" />
+</div>
   );
 }

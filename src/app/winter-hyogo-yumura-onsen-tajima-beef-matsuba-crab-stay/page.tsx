@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -221,6 +222,7 @@ export default function HyogoYumuraWinterFeature() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800 pb-20">
@@ -634,7 +636,9 @@ export default function HyogoYumuraWinterFeature() {
               <span className="text-xs text-emerald-300 font-semibold block mb-1">石川・山中温泉</span>
               <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">鶴仙渓の初冬静寂と解禁加能ガニ・芭蕉ゆかりの白濁名湯宿</h3>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-hyogo-yumura-onsen-tajima-beef-matsuba-crab-stay" />
+</div>
         </section>
 
       </main>

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -114,8 +115,32 @@ export default function KamakuraRainyDayCafeMuseumPage() {
     },
   ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【鎌倉・江の島 雨の日の過ごし方】しっとり濡れる古刹・小町通りアーケード・新江ノ島水族館デート",
+    "description": "雨の日こそ風情が増す古都・鎌倉！雨滴が光る長谷寺や一条恵観山荘、屋根付き小町通り食べ歩き、大水槽に癒やされる新江ノ島水族館、オーシャンビュー客室で過ごす贅沢雨の日プラン。",
+    "url": "https://croud-travel.pages.dev/kamakura-rainy-day-cafe-museum-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【鎌倉・江の島 雨の日の過ごし方】しっとり濡れる古刹・小町通りアーケード・新江ノ島水族館デート", "item": "https://croud-travel.pages.dev/kamakura-rainy-day-cafe-museum-guide/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-indigo-950 text-indigo-100 selection:bg-indigo-700 selection:text-white pb-20">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローヘッダー (Indigo / Violet Palette) */}
       <header className="relative bg-gradient-to-b from-slate-950 via-indigo-950 to-indigo-900 border-b border-indigo-800/60 pt-16 pb-20 px-4 sm:px-6 lg:px-8 overflow-hidden">
         <div className="absolute inset-0 opacity-15 pointer-events-none bg-[radial-gradient(#818cf8_1px,transparent_1px)] [background-size:24px_24px]"></div>
@@ -511,6 +536,8 @@ export default function KamakuraRainyDayCafeMuseumPage() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="kamakura-rainy-day-cafe-museum-guide" />
+</div>
   );
 }

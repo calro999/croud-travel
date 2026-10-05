@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -272,6 +273,7 @@ export default function AwajishimaWinterPage() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-sky-950 selection:text-white">
@@ -719,7 +721,9 @@ export default function AwajishimaWinterPage() {
               <span className="text-xs text-sky-300 font-semibold block mb-1">特集一覧</span>
               <h3 className="text-sm font-bold group-hover:text-sky-200 transition">全国の厳選温泉・宿特集まとめを見る</h3>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-hyogo-awajishima-sumoto-3year-torafugu-stay" />
+</div>
         </section>
 
       </main>

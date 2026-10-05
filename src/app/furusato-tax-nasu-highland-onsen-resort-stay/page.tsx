@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoNasuHighlandStayPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "ロイヤルリゾート那須の自然と名湯！那須温泉の美肌露天風呂＆極上とちぎ和牛・豪華高原バイキング×ふるさと納税完全攻略ガイド【2026年最新】エピナール那須・山楽・グランドメルキュール",
+    "description": "御用邸が置かれる日本屈指のロイヤルリゾート・栃木県那須高原！雄大な茶臼岳と豊かな森。「ホテルエピナール那須」「那須温泉 山楽」「グランドメルキュール那須高原リゾート＆スパ」を、栃木県那須町の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。大型温泉大浴場、大正創業の昭和天皇ゆかり名門、とちぎ和牛を満喫。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-nasu-highland-onsen-resort-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "ロイヤルリゾート那須の自然と名湯！那須温泉の美肌露天風呂＆極上とちぎ和牛・豪華高原バイキング×ふるさと納税完全攻略ガイド【2026年最新】エピナール那須・山楽・グランドメルキュール", "item": "https://croud-travel.pages.dev/furusato-tax-nasu-highland-onsen-resort-stay/" }
+    ]
+  };
+
   return (
     <article className="max-w-5xl mx-auto px-4 py-8 text-gray-800 leading-relaxed font-sans">
       {/* パンくずリスト */}
@@ -346,7 +369,9 @@ export default function FurusatoNasuHighlandStayPage() {
           >
             ▸ 【豪華ビュッフェ＆オープンキッチン名宿×ふるさと納税】美食リゾート
           </Link>
-        </div>
+        
+      <HubRelatedPosts currentSlug="furusato-tax-nasu-highland-onsen-resort-stay" />
+</div>
       </section>
     </article>
   );

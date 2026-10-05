@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -16,6 +17,28 @@ export const metadata: Metadata = {
 
 export default function Page() {
   const secData = (seasonalData as any)['furusato-tax-three-generation-family-luxury-stay'] || {};
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【3世代家族旅行×高額枠一括消化】親孝行＆孫と泊まる客室露天風呂・離れ宿完全ガイド | クラウドトラベル",
+    "description": "年収1,000万円超のふるさと納税枠を有効活用！熱海・白浜・那須高原の客室露天風呂付き離れやコネクティングルーム宿を厳選。祖父母・親・子ども全員が笑顔になれる3世代プレミアム家族旅。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-generation-family-luxury-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【3世代家族旅行×高額枠一括消化】親孝行＆孫と泊まる客室露天風呂・離れ宿完全ガイド | クラウドトラベル", "item": "https://croud-travel.pages.dev/furusato-tax-three-generation-family-luxury-stay/" }
+    ]
+  };
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
@@ -632,7 +655,9 @@ export default function Page() {
                 福島県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-three-generation-family-luxury-stay" />
+</div>
         </section>
 
       </main>

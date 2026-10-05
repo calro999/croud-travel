@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -109,6 +110,7 @@ export default function FeaturePage() {
               features: ["日本美人湯龍神温泉と郷土料理を楽しめる創業360年の老舗旅館", "田辺市龍神村龍神39", "楽天アワード受賞歴"]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-stone-50 via-white to-stone-50 text-stone-800">
@@ -435,7 +437,9 @@ export default function FeaturePage() {
                 静岡県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="spring-wakayama-nanki-ume-spa-stay" />
+</div>
         </section>
 
       </main>

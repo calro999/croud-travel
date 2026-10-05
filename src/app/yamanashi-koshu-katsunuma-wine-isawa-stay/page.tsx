@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -16,8 +17,32 @@ export const metadata: Metadata = {
 };
 
 export default function Page() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【山梨・勝沼＆石和温泉】ワイナリー巡り・桃源郷＆美肌湯宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "日本ワイン発祥の地「勝沼」の30軒以上のワイナリー巡り、ぶどう畑を見下ろす丘のテラス、春にはピンク色の絨毯が広がる日本一の桃源郷「笛吹」、昭和の青空温泉から発展した毎分湧出の「石和温泉郷」の美肌名湯と甲州牛会席を徹底解説。",
+    "url": "https://croud-travel.pages.dev/yamanashi-koshu-katsunuma-wine-isawa-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【山梨・勝沼＆石和温泉】ワイナリー巡り・桃源郷＆美肌湯宿 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/yamanashi-koshu-katsunuma-wine-isawa-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-stone-950 text-stone-100">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローヘッダー */}
       <div className="relative py-20 px-4 sm:px-6 lg:px-8 bg-gradient-to-b from-stone-900 via-stone-950 to-stone-950 border-b border-stone-800">
         <div className="max-w-5xl mx-auto text-center">
@@ -705,6 +730,8 @@ export default function Page() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="yamanashi-koshu-katsunuma-wine-isawa-stay" />
+</div>
   );
 }

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import Link from 'next/link';
 import Image from 'next/image';
 import { Metadata } from 'next';
@@ -22,8 +23,32 @@ export const metadata: Metadata = {
 const OFFICIAL_FURUSATO_URL = 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F';
 
 export default function Page() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三大八幡宮＆厄除け開運祈願・門前町名宿×ふるさと納税完全ガイド【2026年最新】宇佐神宮・石清水八幡宮・筥崎宮",
+    "description": "武運長久と国家鎮護の最高峰パワースポット！大分「宇佐神宮」全国4万余社の総本宮と別府八湯の名宿、京都「石清水八幡宮」国宝男山社殿と伏見酒蔵・京料理旅館、福岡「筥崎宮」敵国降伏の扁額と博多湾絶景海鮮ホテル。日本三大八幡の聖地巡礼を楽天ふるさと納税宿泊クーポンでお得に叶える完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-great-hachiman-shrines-sacred-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "日本三大八幡宮＆厄除け開運祈願・門前町名宿×ふるさと納税完全ガイド【2026年最新】宇佐神宮・石清水八幡宮・筥崎宮", "item": "https://croud-travel.pages.dev/furusato-tax-three-great-hachiman-shrines-sacred-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* Hero Header */}
       <header className="relative bg-gradient-to-br from-slate-900 via-indigo-950 to-blue-900 text-white py-16 px-4 sm:px-6 lg:px-8 shadow-xl">
         <div className="max-w-5xl mx-auto">
@@ -918,6 +943,8 @@ export default function Page() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="furusato-tax-three-great-hachiman-shrines-sacred-stay" />
+</div>
   );
 }

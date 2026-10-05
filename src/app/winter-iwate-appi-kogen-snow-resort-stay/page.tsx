@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -109,6 +110,7 @@ export default function FeaturePage() {
               features: ["希少源泉モルデンの湯を用いた大浴場！朝食は海鮮瓶詰丼やひっつみ汁をご堪能いただけます♪", "盛岡市中央通2-8-12", "楽天アワード受賞歴"]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-stone-50 via-white to-stone-50 text-stone-800">
@@ -583,7 +585,9 @@ export default function FeaturePage() {
                 富山県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-iwate-appi-kogen-snow-resort-stay" />
+</div>
         </section>
 
       </main>

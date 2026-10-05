@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -26,8 +27,32 @@ function loadHotels() {
 export default function KamakuraVsEnoshimaPage() {
   const hotels = loadHotels();
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【鎌倉 vs 江の島 日帰りならどっち？】半日・1日コース別の楽しみ方＆費用を完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "鎌倉と江の島、日帰りで行くならどっちがおすすめ？半日しかないなら鎌倉（大仏＆小町通り食べ歩き）、1日あるなら両方ハシゴ（江ノ電で20分）。拝観料・食べ歩き費用・モデルコースを時間帯別に完全ガイド。",
+    "url": "https://croud-travel.pages.dev/kamakura-vs-enoshima-day-trip/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【鎌倉 vs 江の島 日帰りならどっち？】半日・1日コース別の楽しみ方＆費用を完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/kamakura-vs-enoshima-day-trip/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16 font-sans">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       <section className="bg-gradient-to-r from-blue-600 via-indigo-500 to-purple-600 rounded-3xl p-8 md:p-14 text-white shadow-xl relative overflow-hidden">
         <div className="absolute top-1/2 left-0 transform -translate-y-1/2 -translate-x-1/4 opacity-10 text-[300px] leading-none pointer-events-none">⛩️</div>
         <div className="relative z-10 space-y-5">
@@ -250,6 +275,8 @@ export default function KamakuraVsEnoshimaPage() {
           </div>
         </section>
       )}
-    </div>
+    
+      <HubRelatedPosts currentSlug="kamakura-vs-enoshima-day-trip" />
+</div>
   );
 }

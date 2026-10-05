@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -27,6 +28,20 @@ export default function FurusatoSandBathSunamushiStayPage() {
       { '@type': 'ListItem', position: 2, name: '旅行節約ハブ', item: baseUrl + '/travel-savings-guide' },
       { '@type': 'ListItem', position: 3, name: '砂むし温泉＆極上デトックス湯治宿特集', item: baseUrl + '/furusato-tax-sand-bath-sunamushi-detox-onsen-stay' },
     ],
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "天然砂むし温泉＆海辺の名湯で極上デトックス！名門湯宿×ふるさと納税完全ガイド【2026年最新】指宿・別府",
+    "description": "世界でも稀少な天然の地熱を活用した「砂むし温泉」で心身の老廃物をすっきりデトックス！元禄風呂と錦江湾の壮大な海景、館内砂むし温泉を誇る指宿の最高峰「指宿白水館」、別府湾沿いの上人ヶ浜天然砂湯に近接し全室海側露天風呂を備えたモダンリゾート「AMANE RESORT SEIKAI（潮騒の宿 晴海）」、錦江湾パノラマと館内砂蒸し・ヤシの木茂る南国情緒が魅力の「指宿フェニックスホテル」。温かい天然砂に全身を包まれる至極のリラクゼーションを、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-sand-bath-sunamushi-detox-onsen-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -556,7 +571,9 @@ export default function FurusatoSandBathSunamushiStayPage() {
                 奈良県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-sand-bath-sunamushi-detox-onsen-stay" />
+</div>
         </section>
 
       </main>

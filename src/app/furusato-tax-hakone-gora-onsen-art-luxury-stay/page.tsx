@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -17,6 +18,28 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoTaxArticle() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【箱根強羅温泉×ふるさと納税】美肌のにごり湯＆全室露天風呂付き客室！大人の隠れ家名旅館完全ガイド｜箱根強羅白檀・季の湯雪月花・桐谷箱根荘",
+    "description": "日本一の温泉リゾート・箱根の中でも屈指の高級別荘地「強羅温泉」を楽天ふるさと納税でお得に満喫！自然林に包まれ白檀の香りが漂う最高級宿「白檀」、強羅駅前で全室檜露天風呂を備えた人気宿「季の湯 雪月花」、大涌谷引湯の源泉掛け流しにごり湯を誇る老舗「桐谷 箱根荘」を徹底比較。箱根町クーポン活用術を網羅。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-hakone-gora-onsen-art-luxury-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【箱根強羅温泉×ふるさと納税】美肌のにごり湯＆全室露天風呂付き客室！大人の隠れ家名旅館完全ガイド｜箱根強羅白檀・季の湯雪月花・桐谷箱根荘", "item": "https://croud-travel.pages.dev/furusato-tax-hakone-gora-onsen-art-luxury-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-50 text-stone-900 leading-relaxed font-sans">
       {/* ヒーローヘッダー */}
@@ -611,7 +634,9 @@ export default function FurusatoTaxArticle() {
                 秋田県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-hakone-gora-onsen-art-luxury-stay" />
+</div>
         </section>
 
       </main>

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -221,6 +222,7 @@ export default function ShizuokaNishiizuToiOnsenWinterPage() {
     "a": "車の場合、東名高速道路「沼津IC」または新東名「長泉沼津IC」から伊豆縦貫自動車道〜修善寺道路を経由して国道136号で約60〜70分です。公共交通機関の場合、JR東海道新幹線「三島駅」から伊豆箱根鉄道駿豆線で「修善寺駅」へ行き、そこから東海バス（土肥・松崎行き）に乗り換えて約50分で土肥温泉に到着します。また、静岡市清水港と土肥港をわずか75分で結ぶ「駿河湾フェリー」を利用すれば、船上から雄大な富士山を眺めながらの快適な海上クルーズアクセスも可能です。"
   }
 ];
+
 
   return (
     <article className="min-h-screen bg-stone-50/50 pb-20 text-stone-800">
@@ -579,7 +581,9 @@ export default function ShizuokaNishiizuToiOnsenWinterPage() {
               <span className="text-orange-700 font-bold block text-[10px]">愛知・渥美半島伊良湖</span>
               <p className="font-bold text-stone-800 line-clamp-2">伊良湖天然とらふぐと新源泉美肌湯・渥美牛＆夕日パノラマ名宿</p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-shizuoka-nishiizu-toi-onsen-sunset-kinmedai-stay" />
+</div>
         </section>
 
       </main>

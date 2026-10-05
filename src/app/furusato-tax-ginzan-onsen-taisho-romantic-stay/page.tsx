@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoGinzanOnsenRomanticStayPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "ガス灯揺らめく大正ロマンの木造楼閣！銀山温泉の川沿い名門旅館＆極上尾花沢牛会席×ふるさと納税完全攻略ガイド【2026年最新】能登屋・銀山荘・古勢起屋",
+    "description": "まるで千と千尋の神隠しの世界！ガス灯揺らめく銀山温泉の木造多層建築。「能登屋旅館」「仙峡の宿 銀山荘」「古勢起屋別館」を、山形県尾花沢市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。国登録有形文化財、川沿い展望露天寝湯、極上の霜降り尾花沢牛会席を満喫。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-ginzan-onsen-taisho-romantic-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "ガス灯揺らめく大正ロマンの木造楼閣！銀山温泉の川沿い名門旅館＆極上尾花沢牛会席×ふるさと納税完全攻略ガイド【2026年最新】能登屋・銀山荘・古勢起屋", "item": "https://croud-travel.pages.dev/furusato-tax-ginzan-onsen-taisho-romantic-stay/" }
+    ]
+  };
+
   return (
     <article className="max-w-5xl mx-auto px-4 py-8 text-gray-800 leading-relaxed font-sans">
       {/* パンくずリスト */}
@@ -346,7 +369,9 @@ export default function FurusatoGinzanOnsenRomanticStayPage() {
           >
             ▸ 【登録有形文化財・宮大工数寄屋造り旅館×ふるさと納税】木造建築美の宿
           </Link>
-        </div>
+        
+      <HubRelatedPosts currentSlug="furusato-tax-ginzan-onsen-taisho-romantic-stay" />
+</div>
       </section>
     </article>
   );

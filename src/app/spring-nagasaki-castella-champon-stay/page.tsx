@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -109,6 +110,7 @@ export default function FeaturePage() {
               features: ["【2022年12月新築リニューアル】雲の中のラグジュアリーリゾート", "雲仙市小浜町雲仙320番地", "楽天アワード受賞歴"]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-stone-50 via-white to-stone-50 text-stone-800">
@@ -435,7 +437,9 @@ export default function FeaturePage() {
                 長野県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="spring-nagasaki-castella-champon-stay" />
+</div>
         </section>
 
       </main>

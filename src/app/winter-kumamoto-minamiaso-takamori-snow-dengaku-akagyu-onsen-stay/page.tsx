@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import type { Metadata } from 'next';
@@ -254,6 +255,7 @@ export default function KumamotoMinamiasoWinterPage() {
       a: "【1日目】熊本空港または熊本駅からレンタカーで出発 → 国道57号・新阿蘇大橋を渡り南阿蘇へ（絶景ビュースポット・ヨミュールで休憩） → 毎分60トンの水が湧き出る「白川水源」で名水汲み → 高森町へ移動し「高森田楽の里」または「高森田楽保存会」で囲炉裏炭火田楽のランチ → 高森湧水トンネル公園見学 → 南阿蘇温泉郷（竹楽亭やルナ天文台など）にチェックイン → 雪見露天風呂に浸かり阿蘇あか牛ディナー → 夜は満天の冬の星空観賞。【2日目】朝の清々しい空気の中、阿蘇パノラマラインを走り草千里ヶ浜へ（白銀の烏帽子岳と凍結した火口池の絶景） → 中岳火口を見学 → あそ望の郷くぎので阿蘇五岳のパノラマをバックにお土産購入 → 帰路へ。"
     }
   ];
+
 
   return (
     <>
@@ -602,7 +604,9 @@ export default function KumamotoMinamiasoWinterPage() {
             </div>
           </section>
         </main>
-      </div>
+      
+      <HubRelatedPosts currentSlug="winter-kumamoto-minamiaso-takamori-snow-dengaku-akagyu-onsen-stay" />
+</div>
     </>
   );
 }

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -234,6 +235,7 @@ export default function EhimeImabariWinterFeaturePage() {
       }
     ]
   };
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800">
@@ -609,7 +611,9 @@ export default function EhimeImabariWinterFeaturePage() {
               <span>全国の冬特集一覧を見る →</span>
               <span className="text-cyan-200 text-xs font-normal mt-1">11・12・1月の厳選記事を多数掲載</span>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-ehime-imabari-shimanami-oomishima-taimeshi-onsen-stay" />
+</div>
         </section>
 
       </main>

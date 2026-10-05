@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -241,6 +242,7 @@ export default function FukuokaChristmasPage() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-rose-500 selection:text-white">
@@ -770,7 +772,9 @@ export default function FukuokaChristmasPage() {
               <span>全国の特集一覧を見る</span>
               <ChevronRight className="w-4 h-4" />
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-fukuoka-hakata-christmas-advent-gourmet-stay" />
+</div>
         </section>
 
       </main>

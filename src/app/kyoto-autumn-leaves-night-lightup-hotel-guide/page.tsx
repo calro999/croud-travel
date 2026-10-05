@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -108,8 +109,32 @@ export default function KyotoAutumnLeavesNightLightupPage() {
     }
   ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【京都 紅葉ライトアップ2026おすすめ7選】夜間特別拝観・永観堂・東寺・清水寺＆混雑回避の夜回り宿 ｜ 日本全国・旅宿クラウド",
+    "description": "息をのむ美しさ！2026年秋の京都紅葉ライトアップ特集。永観堂「みかえり阿弥陀」の紅葉トンネル、東寺五重塔の池鏡リフレクション、高台寺のプロジェクションマッピング、東山・烏丸のホテル完全ガイド。",
+    "url": "https://croud-travel.pages.dev/kyoto-autumn-leaves-night-lightup-hotel-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【京都 紅葉ライトアップ2026おすすめ7選】夜間特別拝観・永観堂・東寺・清水寺＆混雑回避の夜回り宿 ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/kyoto-autumn-leaves-night-lightup-hotel-guide/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-stone-950 text-stone-100 selection:bg-rose-600 selection:text-white pb-20 space-y-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* 🌌 HERO SECTION: 漆黒の夜と真紅のコントラスト */}
       <header className="relative pt-12 pb-20 px-4 sm:px-6 lg:px-8 overflow-hidden bg-gradient-to-b from-stone-900 via-rose-950/40 to-stone-950 border-b border-rose-900/30">
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top,_var(--tw-gradient-stops))] from-rose-600/15 via-transparent to-transparent pointer-events-none" />
@@ -534,6 +559,8 @@ export default function KyotoAutumnLeavesNightLightupPage() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="kyoto-autumn-leaves-night-lightup-hotel-guide" />
+</div>
   );
 }

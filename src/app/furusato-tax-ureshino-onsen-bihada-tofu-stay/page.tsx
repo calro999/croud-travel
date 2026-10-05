@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -17,6 +18,28 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoTaxArticle() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【嬉野温泉×ふるさと納税】日本三大美肌の湯＆名物とろける温泉湯豆腐！茶香る歴史宿完全ガイド｜和多屋別荘・大正屋・茶心の宿和楽園",
+    "description": "日本三大美肌の湯として名高い佐賀県・嬉野温泉を楽天ふるさと納税でお得に旅する！二万坪の広大な敷地を誇る「和多屋別荘」、吉村順三設計の美学が光る大正十四年創業の名門「大正屋」、日本初のお茶風呂を愉しむ「茶心の宿 和楽園」を徹底比較。とろける温泉湯豆腐・佐賀牛会席・嬉野市トラベルクーポン活用術を網羅。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-ureshino-onsen-bihada-tofu-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【嬉野温泉×ふるさと納税】日本三大美肌の湯＆名物とろける温泉湯豆腐！茶香る歴史宿完全ガイド｜和多屋別荘・大正屋・茶心の宿和楽園", "item": "https://croud-travel.pages.dev/furusato-tax-ureshino-onsen-bihada-tofu-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-50 text-stone-900 leading-relaxed font-sans">
       {/* ヒーローヘッダー */}
@@ -611,7 +634,9 @@ export default function FurusatoTaxArticle() {
                 石川県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-ureshino-onsen-bihada-tofu-stay" />
+</div>
         </section>
 
       </main>

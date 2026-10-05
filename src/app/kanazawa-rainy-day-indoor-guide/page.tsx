@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -116,6 +117,28 @@ export default function KanazawaRainyDayIndoorGuidePage() {
       icon: "♨️"
     }
   ];
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【金沢 雨の日の観光モデルコース】「弁当忘れても傘忘れるな」の街！21世紀美術館・ひがし茶屋街カフェ・金箔貼り体験",
+    "description": "雨の日が多い金沢だからこそインドア施設が超充実！金沢21世紀美術館のスイミングプール、近江町市場の屋根付きアーケード海鮮丼、ひがし茶屋街のお座敷カフェ、雨情に浸る駅前温泉宿ガイド。",
+    "url": "https://croud-travel.pages.dev/kanazawa-rainy-day-indoor-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【金沢 雨の日の観光モデルコース】「弁当忘れても傘忘れるな」の街！21世紀美術館・ひがし茶屋街カフェ・金箔貼り体験", "item": "https://croud-travel.pages.dev/kanazawa-rainy-day-indoor-guide/" }
+    ]
+  };
 
   return (
     <main className="min-h-screen bg-slate-900 text-slate-100 selection:bg-teal-500 selection:text-white pb-20">
@@ -254,6 +277,8 @@ export default function KanazawaRainyDayIndoorGuidePage() {
                     key={hotel.hotelNo}
                     className="flex flex-col justify-between bg-slate-800/90 border border-teal-900/70 rounded-3xl overflow-hidden shadow-lg hover:border-teal-500/80 transition group"
                   >
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
                     <div>
                       {hotel.hotelImageUrl && (
                         <div className="h-48 overflow-hidden relative">
@@ -489,7 +514,9 @@ export default function KanazawaRainyDayIndoorGuidePage() {
                 長野県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="kanazawa-rainy-day-indoor-guide" />
+</div>
         </section>
 
       </main>

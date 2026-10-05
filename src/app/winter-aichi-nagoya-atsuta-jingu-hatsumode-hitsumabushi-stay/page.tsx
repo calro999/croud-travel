@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -191,6 +192,28 @@ export default function AichiNagoyaAtsutaPage() {
         text: item.a
       }
     }))
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【11・12・1月愛知】三種の神器を祀る「熱田神宮」新春初詣＆名物「本場ひつまぶし」・極上名古屋コーチン鍋を味わう名宿5選",
+    "description": "11月の晩秋から新春1月にかけて、年間約200万人以上の参拝客で賑わう東海随一の聖地「熱田神宮」。三種の神器の一つ「草薙神剣（くさなぎのみつるぎ）」を祀る熱田の杜は、巨木が茂る神聖な静寂に包まれます。織田信長が桶狭間の戦い出陣前に必勝祈願したことでも知られ、新春の開運・厄除け初詣スポットとして絶大な人気を誇ります。参拝の後は、熱田発祥の伝統を誇る名物「本場ひつまぶし」の香ばしい鰻、冬の寒さに染み渡る濃厚な「名古屋コーチン鍋」、そして名駅や栄の煌びやかな冬イルミネーションを満喫。上質なもてなしと美食に酔いしれる厳選ホテル5選を徹底紹介します。",
+    "url": "https://croud-travel.pages.dev/winter-aichi-nagoya-atsuta-jingu-hatsumode-hitsumabushi-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【11・12・1月愛知】三種の神器を祀る「熱田神宮」新春初詣＆名物「本場ひつまぶし」・極上名古屋コーチン鍋を味わう名宿5選", "item": "https://croud-travel.pages.dev/winter-aichi-nagoya-atsuta-jingu-hatsumode-hitsumabushi-stay/" }
+    ]
   };
 
   return (
@@ -639,7 +662,9 @@ export default function AichiNagoyaAtsutaPage() {
                 日本一の星空ナイトツアーと美肌湯・信州牛を味わう冬名宿
               </span>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-aichi-nagoya-atsuta-jingu-hatsumode-hitsumabushi-stay" />
+</div>
         </section>
 
         {/* Final CTA Section */}

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -257,6 +258,7 @@ export default function OkayamaKurashikiBikanWinterPage() {
     "a": "倉敷駅から吉備津神社へは、JR山陽本線で岡山駅へ向かい（約15〜17分）、JR吉備線（桃太郎線）に乗り換えて吉備津駅で下車（約15分）、駅から徒歩約10分です。車の場合は倉敷美観地区から約30分でアクセスできます。おすすめのルートは、1日目に倉敷美観地区の散策と美術館巡り、夜間景観照明を楽しみ、2日目の朝に吉備津神社へ新春参拝に向かうコース。混雑を避けて清々しい神域の空気を存分に味わうことができます。"
   }
 ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-indigo-100 selection:text-indigo-900 pb-20">
@@ -711,7 +713,9 @@ export default function OkayamaKurashikiBikanWinterPage() {
                 冬の特集記事一覧をすべて見る ➔
               </span>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-okayama-kurashiki-bikan-yakei-kibitsu-chiyagyu-stay" />
+</div>
         </section>
 
       </main>

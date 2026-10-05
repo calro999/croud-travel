@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -67,6 +68,28 @@ const HOTEL_DATA = {
 };
 
 export default function FeatureArticlePage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "熱海梅園の日本一遅い紅葉まつり＆熱海海上花火大会！伊豆金目鯛会席宿×ふるさと納税完全ガイド【2026年最新秋旅】静岡",
+    "description": "11月中旬〜12月上旬に約380本のカエデが真っ赤に色づく日本一遅い紅葉の名所「静岡・熱海梅園もみじまつり」。夜空を焦がす秋の熱海海上花火大会と相模湾の絶景、老舗温泉宿「旅館 立花」「古屋旅館」「三平荘」で徳川家康公ゆかりの名湯・熱海温泉と伊豆名物・金目鯛の姿煮・鮑踊り焼きを堪能。ふるさと納税で実質2,000円。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-atami-baien-autumn-leaves-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "熱海梅園の日本一遅い紅葉まつり＆熱海海上花火大会！伊豆金目鯛会席宿×ふるさと納税完全ガイド【2026年最新秋旅】静岡", "item": "https://croud-travel.pages.dev/furusato-tax-atami-baien-autumn-leaves-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -520,7 +543,9 @@ export default function FeatureArticlePage() {
                 高知県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-atami-baien-autumn-leaves-stay" />
+</div>
         </section>
 
       </main>

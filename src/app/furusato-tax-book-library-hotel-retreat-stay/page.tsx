@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -27,6 +28,20 @@ export default function FurusatoBookLibraryHotelStayPage() {
       { '@type': 'ListItem', position: 2, name: '旅行節約ハブ', item: baseUrl + '/travel-savings-guide' },
       { '@type': 'ListItem', position: 3, name: '本に囲まれて眠るブックホテル特集', item: baseUrl + '/furusato-tax-book-library-hotel-retreat-stay' },
     ],
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "数千冊の本に囲まれて眠る至福の読書リトリート＆ブックホテル×ふるさと納税完全ガイド【2026年最新】播磨福崎・神保町・名古屋",
+    "description": "活字の海に溺れ、お気に入りの一冊と夜を明かす贅沢！民俗学者・柳田國男ゆかりの歴史建築を再生したブックホテル「NIPPONIA 播磨福崎 蔵書の館」、古書の街・神保町に佇み本を愉しむための隠れ家デザインホテル「BOOK HOTEL 神保町」、24時間営業のブックカフェと読書専用客室を備える「ランプライトブックスホテル名古屋」。おこもり読書ステイを、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-book-library-hotel-retreat-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -556,7 +571,9 @@ export default function FurusatoBookLibraryHotelStayPage() {
                 愛知県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-book-library-hotel-retreat-stay" />
+</div>
         </section>
 
       </main>

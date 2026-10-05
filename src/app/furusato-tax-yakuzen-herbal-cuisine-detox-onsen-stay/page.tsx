@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -27,6 +28,20 @@ export default function FurusatoYakuzenHerbalCuisineStayPage() {
       { '@type': 'ListItem', position: 2, name: '旅行節約ハブ', item: baseUrl + '/travel-savings-guide' },
       { '@type': 'ListItem', position: 3, name: '本格薬膳会席＆ハーブデトックス温泉宿特集', item: baseUrl + '/furusato-tax-yakuzen-herbal-cuisine-detox-onsen-stay' },
     ],
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "身体の内側から美しく整う！本格薬膳会席＆地熱ハーブ温泉宿×ふるさと納税完全ガイド【2026年最新】金沢湯涌・箱根仙石原・別府鉄輪",
+    "description": "陰陽五行の知恵と旬の素材で胃腸からリセット！百万石の奥座敷で金沢伝統の薬膳会席と美肌温泉を味わう「金沢湯涌温泉 湯の出旅館」、富士山を望む絶景露天風呂と健康薬膳ビュッフェ「ホテルグリーンプラザ箱根」、鉄輪温泉の地熱蒸気と薬草・客室露天風呂付き離れ宿「癒しの宿 彩葉」。身体を芯から温める薬膳鍋やハーブ風呂を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-yakuzen-herbal-cuisine-detox-onsen-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -556,7 +571,9 @@ export default function FurusatoYakuzenHerbalCuisineStayPage() {
                 神奈川県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-yakuzen-herbal-cuisine-detox-onsen-stay" />
+</div>
         </section>
 
       </main>

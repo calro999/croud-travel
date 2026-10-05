@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import type { Metadata } from 'next';
@@ -205,6 +206,28 @@ export default function HyogoKobePortWinterPage() {
           "addressCountry": "JP"
         }
       }
+    ]
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【11・12・1月神戸】生田神社新春開運初詣＆神戸ルミナリエ！メリケンパーク冬夜景と極上神戸牛に酔いしれる名宿5選",
+    "description": "冬の港町・神戸は、澄み切った冷涼な空気が六甲山と神戸港の「1000万ドルの夜景」を最も眩しく煌めかせ、希望の光を紡ぐ「神戸ルミナリエ」が街を優しく照らす特別な季節。縁結びと厄除けの古社「生田神社」の新春初詣、南京町の湯気立つ本格点心、世界最高峰の肉質を誇る神戸牛ステーキや鉄板焼、そして海を望む極上の天然温泉「神戸みなと温泉」。楽天APIから最新取得した神戸港・元町・三宮の海風薫る特選宿5選を徹底特集します。",
+    "url": "https://croud-travel.pages.dev/winter-hyogo-kobe-port-ikuta-shrine-luminarie-beef-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【11・12・1月神戸】生田神社新春開運初詣＆神戸ルミナリエ！メリケンパーク冬夜景と極上神戸牛に酔いしれる名宿5選", "item": "https://croud-travel.pages.dev/winter-hyogo-kobe-port-ikuta-shrine-luminarie-beef-stay/" }
     ]
   };
 
@@ -615,7 +638,9 @@ export default function HyogoKobePortWinterPage() {
               <span className="font-bold text-xs sm:text-sm text-rose-900 line-clamp-2">全国の冬旅・新春初詣＆温泉特選特集一覧</span>
               <span className="text-[11px] text-rose-700 font-medium mt-2 flex items-center gap-1">全特集一覧へ戻る →</span>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-hyogo-kobe-port-ikuta-shrine-luminarie-beef-stay" />
+</div>
         </section>
       </main>
 

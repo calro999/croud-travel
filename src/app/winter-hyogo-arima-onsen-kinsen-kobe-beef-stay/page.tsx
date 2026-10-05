@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -241,6 +242,7 @@ export default function ArimaWinterPage() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-amber-900 selection:text-white">
@@ -688,7 +690,9 @@ export default function ArimaWinterPage() {
                 【下呂温泉】冬花火ミュージカルと日本三名泉美肌湯・飛騨牛会席
               </h3>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-hyogo-arima-onsen-kinsen-kobe-beef-stay" />
+</div>
         </section>
 
       </main>

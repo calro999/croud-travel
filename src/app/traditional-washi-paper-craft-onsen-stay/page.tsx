@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -147,8 +148,32 @@ const hotels: any[] = [
 ];
 
 export default function FeatureDetailPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【2026年】千年の技と灯りに癒やされる。手漉き和紙空間＆伝統工芸体験ができる風情宿5選 | 日本全国・旅宿クラウド",
+    "description": "2026年最新！越前・美濃・土佐の伝統手漉き和紙あかりに包まれる和モダン客室！紙漉き体験や工芸ギャラリー、名湯で日本の美意識に浸る名旅館5選。",
+    "url": "https://croud-travel.pages.dev/traditional-washi-paper-craft-onsen-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【2026年】千年の技と灯りに癒やされる。手漉き和紙空間＆伝統工芸体験ができる風情宿5選 | 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/traditional-washi-paper-craft-onsen-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずリスト */}
       <div className="bg-white border-b border-slate-200">
         <div className="max-w-6xl mx-auto px-4 py-3 text-sm text-slate-500 flex items-center space-x-2">
@@ -668,6 +693,8 @@ export default function FeatureDetailPage() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="traditional-washi-paper-craft-onsen-stay" />
+</div>
   );
 }

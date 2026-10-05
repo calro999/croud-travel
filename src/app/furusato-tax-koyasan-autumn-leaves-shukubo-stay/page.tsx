@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -67,6 +68,28 @@ const HOTEL_DATA = {
 };
 
 export default function FeatureArticlePage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "世界遺産・高野山の壇上伽藍紅葉ライトアップ＆奥之院参拝！宿坊精進料理×ふるさと納税完全ガイド【2026年最新秋旅】和歌山",
+    "description": "10月下旬〜11月中旬に開創1200年の聖地が深紅に染まる世界遺産「和歌山・高野山」。蛇腹路の紅葉トンネルや壇上伽藍の幻想的なライトアップ、由緒ある宿坊寺院「西門院」「無量光院」「高野山温泉 福智院」で朝のお勤め・瞑想体験や伝統の美精進料理・天然温泉を堪能。ふるさと納税トラベルクーポンで実質2,000円。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-koyasan-autumn-leaves-shukubo-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "世界遺産・高野山の壇上伽藍紅葉ライトアップ＆奥之院参拝！宿坊精進料理×ふるさと納税完全ガイド【2026年最新秋旅】和歌山", "item": "https://croud-travel.pages.dev/furusato-tax-koyasan-autumn-leaves-shukubo-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -520,7 +543,9 @@ export default function FeatureArticlePage() {
                 愛媛県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-koyasan-autumn-leaves-shukubo-stay" />
+</div>
         </section>
 
       </main>

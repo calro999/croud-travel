@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -16,8 +17,32 @@ export const metadata: Metadata = {
 };
 
 export default function Page() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【岐阜・郡上八幡＆美濃】郡上おどり・名水宗祇水＆美濃うだつの町並み・鮎宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "水とおどりの城下町「郡上八幡」の日本一美しい山城・名水百選「宗祇水」の水路網、日本一長い盆踊り「郡上おどり（徹夜おどり）」、重要伝統的建造物群保存地区「美濃・うだつの上がる町並み」、美濃手漉き和紙工房、清流長良川の天然鮎宿を徹底解説。",
+    "url": "https://croud-travel.pages.dev/gifu-gujo-hachiman-mino-udatsu-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【岐阜・郡上八幡＆美濃】郡上おどり・名水宗祇水＆美濃うだつの町並み・鮎宿 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/gifu-gujo-hachiman-mino-udatsu-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-stone-950 text-stone-100">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローヘッダー */}
       <div className="relative py-20 px-4 sm:px-6 lg:px-8 bg-gradient-to-b from-stone-900 via-stone-950 to-stone-950 border-b border-stone-800">
         <div className="max-w-5xl mx-auto text-center">
@@ -843,6 +868,8 @@ export default function Page() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="gifu-gujo-hachiman-mino-udatsu-stay" />
+</div>
   );
 }

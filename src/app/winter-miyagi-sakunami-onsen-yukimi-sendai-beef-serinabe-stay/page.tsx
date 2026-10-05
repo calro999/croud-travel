@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -221,6 +222,7 @@ export default function MiyagiSakunamiWinterFeature() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800 pb-20">
@@ -612,7 +614,9 @@ export default function MiyagiSakunamiWinterFeature() {
                 銀世界にガス灯が灯る奇跡の温泉街と雪見露天風呂の風情。
               </p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-miyagi-sakunami-onsen-yukimi-sendai-beef-serinabe-stay" />
+</div>
         </section>
 
       </main>

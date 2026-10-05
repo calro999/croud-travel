@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoKyotoMachiyaCharterStayPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "歴史ある京町家を一棟丸ごと貸切！暮らすように泊まる露天風呂付きプライベート町家旅館×ふるさと納税完全攻略ガイド【2026年最新】Nazuna椿通・Nazuna二条城・お宿花",
+    "description": "京都の路地裏に佇む伝統建築「京町家」を一棟丸ごと独占！格子戸、坪庭、檜風呂、天然温泉露天風呂完備の完全プライベート空間。「Nazuna 京都 椿通」「Nazuna 京都 二条城」「京町家お宿・花」を、京都市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-kyoto-private-machiya-charter-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "歴史ある京町家を一棟丸ごと貸切！暮らすように泊まる露天風呂付きプライベート町家旅館×ふるさと納税完全攻略ガイド【2026年最新】Nazuna椿通・Nazuna二条城・お宿花", "item": "https://croud-travel.pages.dev/furusato-tax-kyoto-private-machiya-charter-stay/" }
+    ]
+  };
+
   return (
     <article className="max-w-5xl mx-auto px-4 py-8 text-gray-800 leading-relaxed font-sans">
       {/* パンくずリスト */}
@@ -346,7 +369,9 @@ export default function FurusatoKyotoMachiyaCharterStayPage() {
           >
             ▸ 【大人の隠れ家・離れ客室×ふるさと納税】静寂とプライベート重視の名宿
           </Link>
-        </div>
+        
+      <HubRelatedPosts currentSlug="furusato-tax-kyoto-private-machiya-charter-stay" />
+</div>
       </section>
     </article>
   );

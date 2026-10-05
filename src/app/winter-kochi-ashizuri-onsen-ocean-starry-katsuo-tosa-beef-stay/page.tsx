@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -221,6 +222,7 @@ export default function KochiAshizuriWinterFeature() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800 pb-20">
@@ -612,7 +614,9 @@ export default function KochiAshizuriWinterFeature() {
                 南国リゾートの心地よい潮風と極上の宮崎牛を味わう海辺ステイ。
               </p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-kochi-ashizuri-onsen-ocean-starry-katsuo-tosa-beef-stay" />
+</div>
         </section>
 
       </main>

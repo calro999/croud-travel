@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoMatsubaEchizenCrabSeasonStayPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "11月6日漁解禁！本場の初物松葉ガニ・越前ガニ尽くし名門温泉旅館×ふるさと納税完全ガイド【2026年最新冬旅先取り】城崎・越前海岸 | 旅宿クラウド",
+    "description": "毎年11月6日に待ちに待った漁が解禁！日本海の冬の王様「松葉ガニ（山陰）」＆「越前ガニ（福井）」をタグ付き本場で味わい尽くす！カニ刺し・焼きガニ・甲羅みそ焼き・カニすき鍋と名湯七湯めぐりを誇る城崎温泉「西村屋ホテル招月庭」「かに庵」、越前海岸の絶景貸切風呂「さかな遊びの宿 やまちょう」。楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-matsuba-echizen-crab-season-opening-onsen-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "11月6日漁解禁！本場の初物松葉ガニ・越前ガニ尽くし名門温泉旅館×ふるさと納税完全ガイド【2026年最新冬旅先取り】城崎・越前海岸 | 旅宿クラウド", "item": "https://croud-travel.pages.dev/furusato-tax-matsuba-echizen-crab-season-opening-onsen-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -582,7 +605,9 @@ export default function FurusatoMatsubaEchizenCrabSeasonStayPage() {
                 東京都の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-matsuba-echizen-crab-season-opening-onsen-stay" />
+</div>
         </section>
 
       </main>

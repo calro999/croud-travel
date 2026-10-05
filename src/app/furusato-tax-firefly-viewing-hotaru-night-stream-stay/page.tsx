@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -27,6 +28,20 @@ export default function FurusatoFireflyViewingStayPage() {
       { '@type': 'ListItem', position: 2, name: '旅行節約ハブ', item: baseUrl + '/travel-savings-guide' },
       { '@type': 'ListItem', position: 3, name: '初夏のホタル観賞＆清流温泉宿特集', item: baseUrl + '/furusato-tax-firefly-viewing-hotaru-night-stream-stay' },
     ],
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "闇夜に舞う無数の光の幻想！初夏のホタル観賞＆清流のせせらぎ温泉宿×ふるさと納税完全ガイド【2026年最新】熊本菊池・兵庫神鍋・神奈川湯河原",
+    "description": "澄み切った清流にだけ舞う初夏の光の芸術「ホタル（蛍）」。幻想的なホタルの乱舞を愛でる初夏の温泉旅を厳選！菊池渓谷の清流と名湯美肌の湯を誇る熊本県「菊池温泉 清流荘」、神鍋高原の清らかな渓流沿いにホタルが飛び交う兵庫県「ブルーリッジホテル」、千歳川のせせらぎと万葉公園ほたるの宴が間近の神奈川県「湯河原温泉 万葉の里 白雲荘」。闇夜を照らす淡い光と川音に癒やされる特別な旅を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-firefly-viewing-hotaru-night-stream-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -556,7 +571,9 @@ export default function FurusatoFireflyViewingStayPage() {
                 兵庫県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-firefly-viewing-hotaru-night-stream-stay" />
+</div>
         </section>
 
       </main>

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -127,6 +128,28 @@ export default function SilverWeekGlampingBbqEmptyHandedPage() {
         text: faq.answer,
       },
     })),
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【手ぶらBBQグランピングおすすめ】準備・片付け不要！黒毛和牛ステーキ＆海鮮が豪華すぎる秋のごちそう泊 ｜ 日本全国・旅宿クラウド",
+    "description": "面倒な買い出し・火起こし・炭の後片付けは一切不要！シェフ監修の特選黒毛和牛サーロイン、オマール海老やアワビの海鮮グリル、地ビール飲み放題プラン付きの美食グランピング比較。女子旅や子連れに大人気。",
+    "url": "https://croud-travel.pages.dev/silver-week-glamping-bbq-empty-handed-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【手ぶらBBQグランピングおすすめ】準備・片付け不要！黒毛和牛ステーキ＆海鮮が豪華すぎる秋のごちそう泊 ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/silver-week-glamping-bbq-empty-handed-guide/" }
+    ]
   };
 
   return (
@@ -395,6 +418,8 @@ export default function SilverWeekGlampingBbqEmptyHandedPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="silver-week-glamping-bbq-empty-handed-guide" />
+</div>
   );
 }

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -27,6 +28,20 @@ export default function FurusatoSnowViewOpenAirBathStayPage() {
       { '@type': 'ListItem', position: 2, name: '旅行節約ハブ', item: baseUrl + '/travel-savings-guide' },
       { '@type': 'ListItem', position: 3, name: '絶景雪見露天風呂＆冬の秘湯名宿特集', item: baseUrl + '/furusato-tax-snow-view-open-air-bath-winter-stay' },
     ],
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "白銀の銀世界に浸る絶景雪見露天風呂＆冬の秘湯名旅館×ふるさと納税完全ガイド【2026年最新】万座・越後湯沢・定山渓",
+    "description": "降り積もる純白の雪と立ち上る湯煙！日本屈指の豪雪地帯でしか出会えない奇跡の雪見露天風呂ステイ。標高1,800mの白銀パノラマと乳白色の濃厚硫黄泉「万座プリンスホテル」、川端康成『雪国』の舞台で幻想的な雪見庭園風呂を満喫する「越後湯沢温泉 湯沢グランドホテル」、札幌の奥座敷で定山渓渓谷の冬景色を望む名旅館「章月グランドホテル」。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ冬の極上旅完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-snow-view-open-air-bath-winter-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -556,7 +571,9 @@ export default function FurusatoSnowViewOpenAirBathStayPage() {
                 岐阜県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-snow-view-open-air-bath-winter-stay" />
+</div>
         </section>
 
       </main>

@@ -1,4 +1,4 @@
-# 天童温泉 湯の香 松の湯のリアル宿泊記！温泉・客室・朝食バイキングの本音口コミ評判｜山形県
+# 天童温泉 湯の香 松の湯の宿泊ルポ＆見どころガイド｜山形県
 
 - URL: https://croud-travel.pages.dev/posts/tendo-matsunoyu-guide/
 - 宿泊施設名: 天童温泉 湯の香 松の湯

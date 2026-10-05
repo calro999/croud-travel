@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -119,8 +120,32 @@ export default function HighwayBusArticlePage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【名古屋〜京都】新幹線 vs 近鉄特急 vs 名神ハイウェイバス徹底比較！片道1,500円〜行く古都日帰り＆1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+    "description": "名古屋から京都へ安く行くには？東海道新幹線、近鉄特急、名神ハイウェイバスの料金・所要時間を徹底比較！片道1,500円台〜行ける高速バスを活用し、伏見稲荷・東福寺・宇治抹茶カフェを満喫するモデルコース。",
+    "url": "https://croud-travel.pages.dev/nagoya-kyoto-bus-vs-shinkansen-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【名古屋〜京都】新幹線 vs 近鉄特急 vs 名神ハイウェイバス徹底比較！片道1,500円〜行く古都日帰り＆1泊2日モデルコース ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/nagoya-kyoto-bus-vs-shinkansen-guide/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-sky-950 via-slate-900 to-indigo-950 text-white p-8 md:p-14 shadow-xl border border-white/10">
         <div className="max-w-3xl space-y-4">
@@ -430,6 +455,8 @@ export default function HighwayBusArticlePage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="nagoya-kyoto-bus-vs-shinkansen-guide" />
+</div>
   );
 }

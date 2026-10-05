@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -192,6 +193,7 @@ export default function WinterShizuokaAtagawaPage() {
       }
     ]
   };
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-slate-50 via-teal-50/20 to-slate-50 text-slate-800 antialiased">
@@ -633,7 +635,9 @@ export default function WinterShizuokaAtagawaPage() {
                 伊豆の小京都・桂川のせせらぎと歴史ある静寂の温泉街。
               </p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-shizuoka-atagawa-onsen-ocean-sunrise-kinmedai-stay" />
+</div>
         </section>
 
       </main>

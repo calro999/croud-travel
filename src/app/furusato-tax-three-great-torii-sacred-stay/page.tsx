@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -112,8 +113,32 @@ export default function Page() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三大鳥居＆神聖なる巨木の門・古都の歴史宿×ふるさと納税完全ガイド【2026年最新】宮島・奈良・敦賀",
+    "description": "神域と俗界を分かつ壮麗なる日本の巨鳥居巡り！広島廿日市「宮島・厳島神社」海上にそびえる朱塗りの大鳥居と宮島グランドホテル有もと、奈良「春日大社」世界遺産春日山原始林の一之鳥居と伝統の奈良ホテル、福井敦賀「気比神宮」重要文化財の木造大鳥居と敦賀マンテンホテル駅前。古社寺の神聖な祈りと歴史、門前町の名宿を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-great-torii-sacred-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "日本三大鳥居＆神聖なる巨木の門・古都の歴史宿×ふるさと納税完全ガイド【2026年最新】宮島・奈良・敦賀", "item": "https://croud-travel.pages.dev/furusato-tax-three-great-torii-sacred-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずリスト */}
       <nav className="bg-white border-b border-slate-200 py-3 px-4 text-xs text-slate-500">
         <div className="max-w-5xl mx-auto flex items-center space-x-2">
@@ -558,6 +583,8 @@ export default function Page() {
           <p>ふるさと納税クーポンの利用条件や最新の空室状況は楽天トラベル公式サイトをご確認ください。</p>
         </div>
       </footer>
-    </div>
+    
+      <HubRelatedPosts currentSlug="furusato-tax-three-great-torii-sacred-stay" />
+</div>
   );
 }

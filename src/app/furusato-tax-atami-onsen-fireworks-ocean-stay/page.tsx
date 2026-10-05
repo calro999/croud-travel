@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -17,6 +18,28 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoTaxArticle() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【熱海温泉×ふるさと納税】相模湾オーシャンビュー＆熱海海上花火大会特等席！名門老舗＆絶景リゾート完全ガイド｜熱海後楽園ホテル・古屋旅館・秀花園湯の花膳",
+    "description": "都心から新幹線で約45分！年中開催の海上花火大会と相模湾の絶景を誇る日本屈指の温泉リゾート「熱海温泉」を楽天ふるさと納税でお得に満喫！海一望のパノラマと大型スパ併設の「熱海後楽園ホテル」、創業百八十余年・熱海最古の名湯を誇る「古屋旅館」、花火と夜景を屋上露天から見晴らす「秀花園 湯の花膳」を徹底紹介。金目鯛会席や熱海市クーポン活用術を網羅。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-atami-onsen-fireworks-ocean-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【熱海温泉×ふるさと納税】相模湾オーシャンビュー＆熱海海上花火大会特等席！名門老舗＆絶景リゾート完全ガイド｜熱海後楽園ホテル・古屋旅館・秀花園湯の花膳", "item": "https://croud-travel.pages.dev/furusato-tax-atami-onsen-fireworks-ocean-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-50 text-stone-900 leading-relaxed font-sans">
       {/* ヒーローヘッダー */}
@@ -611,7 +634,9 @@ export default function FurusatoTaxArticle() {
                 大阪府の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-atami-onsen-fireworks-ocean-stay" />
+</div>
         </section>
 
       </main>

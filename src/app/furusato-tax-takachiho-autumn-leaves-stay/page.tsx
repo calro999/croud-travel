@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FeatureArticlePage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "神話の郷・高千穂峡の真名井の滝紅葉ボート＆夜神楽！高千穂牛と極上隠れ宿×ふるさと納税完全ガイド【2026年最新秋旅】宮崎",
+    "description": "11月上旬〜11月下旬に見頃を迎える天孫降臨の地「高千穂峡（たかちほきょう）」。阿蘇溶岩の柱状節理と名瀑「真名井の滝」を水面から見上げる貸しボート紅葉散策、高千穂神社の夜神楽、名宿「離れの宿 神隠れ」「旅館 神仙」「ホテル高千穂」で日本一の栄冠に輝いた高千穂牛やかっぽ酒を堪能。楽天ふるさと納税で実質2,000円。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-takachiho-autumn-leaves-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "神話の郷・高千穂峡の真名井の滝紅葉ボート＆夜神楽！高千穂牛と極上隠れ宿×ふるさと納税完全ガイド【2026年最新秋旅】宮崎", "item": "https://croud-travel.pages.dev/furusato-tax-takachiho-autumn-leaves-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -508,7 +531,9 @@ export default function FeatureArticlePage() {
                 京都府の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-takachiho-autumn-leaves-stay" />
+</div>
         </section>
 
       </main>

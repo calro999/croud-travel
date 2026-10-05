@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -158,6 +159,28 @@ export default function SapporoShimeParfaitLateNightGuidePage() {
       detail: "タクシー不要の徒歩圏ホテルへ。ヒノキ風呂やサウナで汗を流せば、翌朝の二日酔いもすっきり撃退！"
     }
   ];
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【札幌 すすきの夜パフェ＆深夜ラーメンおすすめ店】深夜2時まで営業！飲んだ後のシメ文化完全攻略",
+    "description": "札幌独自の夜文化「シメパフェ」の名店を厳選！旬の北海道フルーツとアイスが美しいアートパフェ、深夜行列のできる味噌ラーメン、すすきのの繁華街から歩いて帰れる大浴場＆サウナ付きホテル。",
+    "url": "https://croud-travel.pages.dev/sapporo-shime-parfait-late-night-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【札幌 すすきの夜パフェ＆深夜ラーメンおすすめ店】深夜2時まで営業！飲んだ後のシメ文化完全攻略", "item": "https://croud-travel.pages.dev/sapporo-shime-parfait-late-night-guide/" }
+    ]
+  };
 
   return (
     <main className="min-h-screen bg-slate-950 text-slate-100 selection:bg-teal-500 selection:text-slate-950 font-sans pb-24">
@@ -384,6 +407,8 @@ export default function SapporoShimeParfaitLateNightGuidePage() {
                     key={hotel.hotelNo}
                     className="bg-slate-900/90 border border-slate-800 hover:border-teal-500/60 transition-all duration-300 rounded-3xl overflow-hidden flex flex-col justify-between shadow-xl"
                   >
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
                     <div>
                       {hotel.hotelImageUrl && (
                         <div className="relative h-48 w-full overflow-hidden bg-slate-800">
@@ -615,7 +640,9 @@ export default function SapporoShimeParfaitLateNightGuidePage() {
                 京都府の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="sapporo-shime-parfait-late-night-guide" />
+</div>
         </section>
 
       </main>

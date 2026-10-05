@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -88,8 +89,32 @@ export default function YamanashiGrapeBusTourPage() {
     }
   ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【山梨 シャインマスカット狩り 日帰りバスツアー2026】巨峰食べ放題＆勝沼ワイナリー・温泉付き最安比較 ｜ 日本全国・旅宿クラウド",
+    "description": "2026年秋の山梨シャインマスカット狩り日帰りバスツアー特集！高級シャインマスカット食べ放題、勝沼ワイナリー試飲、ハーブ庭園散策、ほったらかし温泉立ち寄りなど、人気ツアーの最安値予約ガイド。",
+    "url": "https://croud-travel.pages.dev/yamanashi-grape-bus-tour-daytrip-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【山梨 シャインマスカット狩り 日帰りバスツアー2026】巨峰食べ放題＆勝沼ワイナリー・温泉付き最安比較 ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/yamanashi-grape-bus-tour-daytrip-guide/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16 font-sans text-slate-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション（Purple Palette） */}
       <section className="relative rounded-3xl overflow-hidden bg-gradient-to-tr from-purple-950 via-indigo-900 to-fuchsia-900 text-white p-8 md:p-14 shadow-2xl border border-purple-800/40">
         <div className="absolute top-0 right-0 w-96 h-96 bg-fuchsia-500/15 rounded-full blur-3xl pointer-events-none" />
@@ -394,6 +419,8 @@ export default function YamanashiGrapeBusTourPage() {
           </li>
         </ul>
       </section>
-    </div>
+    
+      <HubRelatedPosts currentSlug="yamanashi-grape-bus-tour-daytrip-guide" />
+</div>
   );
 }

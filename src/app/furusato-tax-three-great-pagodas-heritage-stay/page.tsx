@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -100,8 +101,32 @@ export default function Page() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三大五重塔＆天を衝く木造美・国宝の塔と古都・門前名宿×ふるさと納税完全ガイド【2026年最新】法隆寺・東寺・羽黒山",
+    "description": "日本木造建築の最高峰！世界最古の木造建築群を擁する飛鳥の至宝「法隆寺五重塔」門前宿和空法隆寺、現存木造塔として日本一の高さ約55mを誇る密教のシンボル「東寺五重塔」リーガロイヤルホテル京都、杉並木の深山に溶け込む東北最古の国宝美「羽黒山五重塔」湯田川温泉九兵衛旅館。日本三大五重塔の美と歴史ロマンを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-great-pagodas-heritage-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "日本三大五重塔＆天を衝く木造美・国宝の塔と古都・門前名宿×ふるさと納税完全ガイド【2026年最新】法隆寺・東寺・羽黒山", "item": "https://croud-travel.pages.dev/furusato-tax-three-great-pagodas-heritage-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずリスト */}
       <nav className="bg-white border-b border-slate-200 py-3 px-4 text-xs text-slate-500">
         <div className="max-w-5xl mx-auto flex items-center space-x-2">
@@ -520,6 +545,8 @@ export default function Page() {
       <footer className="bg-slate-950 text-slate-400 py-8 px-4 text-center text-xs border-t border-slate-800">
         <p>© 2026 トラベルポータル All Rights Reserved. 掲載情報は最新の楽天トラベル公式APIに基づきます。</p>
       </footer>
-    </div>
+    
+      <HubRelatedPosts currentSlug="furusato-tax-three-great-pagodas-heritage-stay" />
+</div>
   );
 }

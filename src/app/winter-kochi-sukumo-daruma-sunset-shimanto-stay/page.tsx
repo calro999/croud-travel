@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import type { Metadata } from 'next';
@@ -254,6 +255,7 @@ export default function KochiSukumoShimantoWinterPage() {
       a: "【1日目】高知市内または高知空港を出発 → 高知道を西へ進み窪川で名物仁井田米豚丼のランチ → 四万十市中村へ移動し「佐田沈下橋」で冬の清流美を鑑賞 → 国道56号を西進して宿毛市へ（車約40分） → 16:30頃に宿毛湾の咸陽島公園または「椰子の湯」露天風呂で奇跡の「だるま夕日」を待機・鑑賞 → 絶景露天風呂の温泉リゾートにチェックイン → 夕食に「極上宿毛寒ブリしゃぶしゃぶ＆宿毛産本マグロ・四万十牛会席」を堪能。【2日目】穏やかな宿毛湾の朝景を眺めながら朝食 → 四万十川河口から勝間沈下橋・岩間沈下橋へドライブ → 四万十の物産館でお土産購入（青のり、四万十栗菓子、土佐の地酒） → 黒潮町の海岸線ドライブを楽しんで帰路へ。"
     }
   ];
+
 
   return (
     <>
@@ -633,7 +635,9 @@ export default function KochiSukumoShimantoWinterPage() {
           </section>
 
         </main>
-      </div>
+      
+      <HubRelatedPosts currentSlug="winter-kochi-sukumo-daruma-sunset-shimanto-stay" />
+</div>
     </>
   );
 }

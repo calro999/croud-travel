@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -116,8 +117,32 @@ export default function Page() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三大車窓＆絶景スイッチバック・高原パノラマ温泉宿×ふるさと納税完全ガイド【2026年最新】姨捨・矢岳越え・狩勝峠",
+    "description": "車窓を流れる息をのむ大パノラマ！長野千曲「姨捨駅」善光寺平を見下ろすスイッチバックの絶景と戸倉上山田温泉リバーサイド上田館、宮崎熊本鹿児島「肥薩線矢岳越え」霧島連峰と桜島を望む天空路線と霧島温泉ホテル霧島キャッスル、北海道十勝「旧狩勝峠」大雪山系と十勝平野を望む雄大な大地とサホロリゾートホテル。日本三大車窓の鉄旅ロマンを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-great-train-window-views-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "日本三大車窓＆絶景スイッチバック・高原パノラマ温泉宿×ふるさと納税完全ガイド【2026年最新】姨捨・矢岳越え・狩勝峠", "item": "https://croud-travel.pages.dev/furusato-tax-three-great-train-window-views-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずリスト */}
       <nav className="bg-white border-b border-slate-200 py-3 px-4 text-xs text-slate-500">
         <div className="max-w-5xl mx-auto flex items-center space-x-2">
@@ -536,6 +561,8 @@ export default function Page() {
       <footer className="bg-slate-950 text-slate-400 py-8 px-4 text-center text-xs border-t border-slate-800">
         <p>© 2026 トラベルポータル All Rights Reserved. 掲載情報は最新の楽天トラベル公式APIに基づきます。</p>
       </footer>
-    </div>
+    
+      <HubRelatedPosts currentSlug="furusato-tax-three-great-train-window-views-stay" />
+</div>
   );
 }

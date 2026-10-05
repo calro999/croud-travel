@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -122,6 +123,28 @@ export default function SilverWeekGlampingRainyWeatherIndoorPage() {
         text: faq.answer,
       },
     })),
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【雨でも安心！全天候型グランピング】屋根付きBBQデッキ＆冷暖房完備ドームテントで台風・雨天も快適 ｜ 日本全国・旅宿クラウド",
+    "description": "せっかくのシルバーウィークが雨予報でも大丈夫！開閉式ルーフや屋根付きウッドデッキ、室内ボードゲームラウンジ、温泉大浴場が直結した全天候型グランピング施設。雨天キャンセル規定の比較も。",
+    "url": "https://croud-travel.pages.dev/silver-week-glamping-rainy-weather-indoor-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【雨でも安心！全天候型グランピング】屋根付きBBQデッキ＆冷暖房完備ドームテントで台風・雨天も快適 ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/silver-week-glamping-rainy-weather-indoor-guide/" }
+    ]
   };
 
   return (
@@ -371,6 +394,8 @@ export default function SilverWeekGlampingRainyWeatherIndoorPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="silver-week-glamping-rainy-weather-indoor-guide" />
+</div>
   );
 }

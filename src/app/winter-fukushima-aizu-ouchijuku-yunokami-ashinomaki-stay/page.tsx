@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -258,6 +259,7 @@ export default function FukushimaAizuOuchijukuWinterPage() {
     "a": "会津若松市街地から芦ノ牧温泉、湯野上温泉、大内宿へ向かう国道118号線および県道は、12月〜1月は完全な積雪・圧雪路面やアイスバーンになります。車で訪れる場合は必ず4WD車のスタッドレスタイヤ装着が必須です。特に大内宿周辺は山間部のため急カーブや坂道があります。服装は大内宿の散策道が雪道となるため、滑り止めの効いた防水スノーブーツ、厚手のダウンコート、手袋、耳当てなど万全の防寒装備を整えてお出かけください。"
   }
 ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-orange-100 selection:text-orange-900 pb-20">
@@ -699,7 +701,9 @@ export default function FukushimaAizuOuchijukuWinterPage() {
                 袋田の滝の完全凍結氷瀑と奥久慈軍鶏鍋・常陸牛温泉名宿
               </span>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-fukushima-aizu-ouchijuku-yunokami-ashinomaki-stay" />
+</div>
         </section>
       </main>
     </article>

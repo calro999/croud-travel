@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FeatureArticlePage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "伊豆の小京都・修善寺温泉の竹林の小径紅葉＆桂川もみじ散策！登録文化財名宿×ふるさと納税完全ガイド【2026年最新秋旅】静岡",
+    "description": "11月中旬〜12月上旬に見頃を迎える伊豆随一の紅葉名所「修善寺温泉（しゅぜんじおんせん）」。竹林の小径や桂川の朱塗りの橋を彩るモミジ、修禅寺庭園の特別公開、国の登録有形文化財の老舗宿「新井旅館」「瑞の里 〇久旅館」「柳生の庄」で伊豆の地魚・天城軍鶏・わさび会席を堪能。ふるさと納税で実質2,000円。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-shuzenji-bamboo-autumn-leaves-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "伊豆の小京都・修善寺温泉の竹林の小径紅葉＆桂川もみじ散策！登録文化財名宿×ふるさと納税完全ガイド【2026年最新秋旅】静岡", "item": "https://croud-travel.pages.dev/furusato-tax-shuzenji-bamboo-autumn-leaves-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -508,7 +531,9 @@ export default function FeatureArticlePage() {
                 岐阜県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-shuzenji-bamboo-autumn-leaves-stay" />
+</div>
         </section>
 
       </main>

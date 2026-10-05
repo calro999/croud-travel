@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import type { Metadata } from 'next';
@@ -254,6 +255,7 @@ export default function GunmaTakasakiHarunaWinterPage() {
       a: "【1日目】新幹線で高崎駅に到着 → 縁起だるま発祥の「少林山達磨寺」を参拝しだるま絵付け体験 → 国道406号・県道を経由して「榛名神社」へ移動（車約50分） → 神秘の巨岩と参道を歩き新春祈願 → 磯部温泉へ移動し老舗温泉旅館にチェックイン → 温泉マーク発祥の名湯で美肌露天風呂を満喫 → 夕食に「上州牛＆下仁田ネギのすき焼き会席」を堪能。【2日目】朝の清々しい碓氷川沿いを散歩＆温泉街で焼き立て「磯部せんべい」を食べ歩き → 国指定重要文化財「安中藩武家屋敷」見学 → 世界遺産「富岡製糸場」へ足を延ばすか高崎駅でお土産（高崎だるま、水沢うどん）を購入 → 帰路へ。"
     }
   ];
+
 
   return (
     <>
@@ -599,7 +601,9 @@ export default function GunmaTakasakiHarunaWinterPage() {
             </div>
           </section>
         </main>
-      </div>
+      
+      <HubRelatedPosts currentSlug="winter-gunma-takasaki-haruna-shrine-hatsumode-isobe-onsen-joshugyu-stay" />
+</div>
     </>
   );
 }

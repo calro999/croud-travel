@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -65,8 +66,32 @@ export default function SeasonalFeaturePage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【年末年始・お正月】初詣＆初日の出ご来光温泉旅館 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "新しい年の幕開け！伊勢神宮（三重）、鶴岡八幡宮（鎌倉）、成田山新勝寺（千葉）、犬吠埼温泉（本州最速初日の出）など、初詣と温泉おせち料理を堪能できる年末年始の人気宿を徹底解説。",
+    "url": "https://croud-travel.pages.dev/new-year-hatsumode-onsen/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【年末年始・お正月】初詣＆初日の出ご来光温泉旅館 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/new-year-hatsumode-onsen/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-stone-900 via-rose-950 to-amber-950 text-white p-8 md:p-14 shadow-xl border border-white/10">
         <div className="max-w-3xl space-y-4">
@@ -212,6 +237,8 @@ export default function SeasonalFeaturePage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="new-year-hatsumode-onsen" />
+</div>
   );
 }

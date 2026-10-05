@@ -1,4 +1,4 @@
-# 銀山温泉おすすめ温泉宿10選のリアル宿泊記！温泉・客室・朝食バイキングの本音口コミ評判｜山形県
+# 銀山温泉おすすめ温泉宿10選の宿泊ルポ＆見どころガイド｜山形県
 
 - URL: https://croud-travel.pages.dev/posts/january-yamagata-ginzan-10selection/
 - 宿泊施設名: 銀山温泉おすすめ温泉宿10選

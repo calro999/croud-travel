@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -26,8 +27,32 @@ function loadHotels() {
 export default function OkinawaTravelBudgetPage() {
   const hotels = loadHotels();
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【沖縄旅行 予算】2泊3日・3泊4日それぞれいくら？航空券・レンタカー・リゾートホテルのリアル費用",
+    "description": "沖縄旅行の予算を2泊3日（那覇中心）・3泊4日（美ら海水族館＋恩納村リゾート込み）で完全計算！LCC vs 大手航空の航空券代、レンタカーの有無で変わる費用差、ビーチホテルの宿泊費、沖縄そば・タコライス・ステーキの食費まで。",
+    "url": "https://croud-travel.pages.dev/okinawa-travel-budget-plan/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【沖縄旅行 予算】2泊3日・3泊4日それぞれいくら？航空券・レンタカー・リゾートホテルのリアル費用", "item": "https://croud-travel.pages.dev/okinawa-travel-budget-plan/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16 px-4 md:px-6">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* Hero Section */}
       <div className="relative rounded-t-[3rem] rounded-b-xl overflow-hidden bg-sky-900 shadow-xl border-b-8 border-cyan-400">
         <div className="absolute inset-0 opacity-40 bg-[url('https://img.travel.rakuten.co.jp/share/HOTEL/104526/104526.jpg')] bg-cover bg-center"></div>
@@ -206,6 +231,8 @@ export default function OkinawaTravelBudgetPage() {
           </div>
         </section>
       )}
-    </div>
+    
+      <HubRelatedPosts currentSlug="okinawa-travel-budget-plan" />
+</div>
   );
 }

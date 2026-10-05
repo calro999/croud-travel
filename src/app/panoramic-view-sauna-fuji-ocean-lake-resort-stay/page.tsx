@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -16,6 +17,28 @@ export const metadata: Metadata = {
 
 export default function Page() {
   const secData = (seasonalData as any)['panoramic-view-sauna-fuji-ocean-lake-resort-stay'] || {};
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "富士山・海・夜景パノラマ絶景サウナ宿完全ガイド【展望ととのいテラス】 | クラウドトラベル",
+    "description": "雪化粧の富士山、どこまでも広がる水平線、きらめく都市の摩天楼夜景を一望するパノラマビューサウナを特集。絶景とともに外気浴デッキでととのう非日常のスパリゾート。",
+    "url": "https://croud-travel.pages.dev/panoramic-view-sauna-fuji-ocean-lake-resort-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "富士山・海・夜景パノラマ絶景サウナ宿完全ガイド【展望ととのいテラス】 | クラウドトラベル", "item": "https://croud-travel.pages.dev/panoramic-view-sauna-fuji-ocean-lake-resort-stay/" }
+    ]
+  };
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
@@ -486,7 +509,9 @@ export default function Page() {
                 三重県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="panoramic-view-sauna-fuji-ocean-lake-resort-stay" />
+</div>
         </section>
 
       </main>

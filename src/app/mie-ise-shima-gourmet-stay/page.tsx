@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -56,8 +57,32 @@ export default function MicroTouristHubPage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【三重・伊勢志摩】お伊勢参り＆伊勢海老・的矢かき極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "伊勢神宮・鳥羽志摩エリア完全特化！内宮・外宮の両参り、おかげ横丁食べ歩き、英虞湾パノラマと、本場伊勢海老・松阪牛・的矢かきを堪能する名宿を徹底解説。",
+    "url": "https://croud-travel.pages.dev/mie-ise-shima-gourmet-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【三重・伊勢志摩】お伊勢参り＆伊勢海老・的矢かき極上宿 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/mie-ise-shima-gourmet-stay/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-stone-900 via-rose-950 to-amber-950 text-white p-8 md:p-14 shadow-xl border border-white/10">
         <div className="max-w-3xl space-y-4">
@@ -203,6 +228,8 @@ export default function MicroTouristHubPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="mie-ise-shima-gourmet-stay" />
+</div>
   );
 }

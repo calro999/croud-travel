@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -27,6 +28,20 @@ export default function FurusatoFujisanViewLuxuryStayPage() {
       { '@type': 'ListItem', position: 2, name: '旅行節約ハブ', item: baseUrl + '/travel-savings-guide' },
       { '@type': 'ListItem', position: 3, name: '富士山ビュー天空露天風呂＆絶景名宿特集', item: baseUrl + '/furusato-tax-fujisan-view-luxury-open-air-bath-stay' },
     ],
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "富士山を望む絶景露天風呂＆天空テラスの至高の宿×ふるさと納税完全ガイド【2026年最新】河口湖・山中湖・西伊豆土肥",
+    "description": "日本人の心の原風景「霊峰富士」を湯船から一望する至福の絶景露天風呂ステイ！河口湖畔から逆さ富士とパノラマを望む「大池ホテル」、二万五千坪の名庭園と富士山を真正面に仰ぐ富士吉田「ホテル鐘山苑」、駿河湾の彼方に富士の稜線と茜色の夕陽が沈む西伊豆「土肥ふじやホテル」。四季折々の表情を見せる富士山を眺めながら極上温泉に身を浸す贅沢を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-fujisan-view-luxury-open-air-bath-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -556,7 +571,9 @@ export default function FurusatoFujisanViewLuxuryStayPage() {
                 東京都の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-fujisan-view-luxury-open-air-bath-stay" />
+</div>
         </section>
 
       </main>

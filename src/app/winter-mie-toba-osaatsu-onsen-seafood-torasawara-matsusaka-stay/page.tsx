@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -311,6 +312,7 @@ export default function MieTobaOsaatsuWinterPage() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-900 leading-relaxed font-sans pb-20">
@@ -654,7 +656,9 @@ export default function MieTobaOsaatsuWinterPage() {
                 白良浜のパノラマ露天風呂と、コラーゲンたっぷりの天然本クエ鍋を堪能する冬旅。
               </p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-mie-toba-osaatsu-onsen-seafood-torasawara-matsusaka-stay" />
+</div>
         </section>
 
       </main>

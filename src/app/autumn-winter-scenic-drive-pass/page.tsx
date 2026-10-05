@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -65,8 +66,32 @@ export default function SeasonalFeaturePage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【絶景ロード】紅葉＆白銀パノラマ！ドライブウェイ展望温泉宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "車窓を染める圧巻の紅葉パノラマ！伊豆スカイライン（富士山ビュー）、福島磐梯吾妻スカイライン、長野霧ヶ峰ビーナスライン、広島しまなみ海道など、日本を代表する絶景ドライブルートと展望温泉宿を徹底解説。",
+    "url": "https://croud-travel.pages.dev/autumn-winter-scenic-drive-pass/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【絶景ロード】紅葉＆白銀パノラマ！ドライブウェイ展望温泉宿 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/autumn-winter-scenic-drive-pass/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-stone-900 via-rose-950 to-amber-950 text-white p-8 md:p-14 shadow-xl border border-white/10">
         <div className="max-w-3xl space-y-4">
@@ -212,6 +237,8 @@ export default function SeasonalFeaturePage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="autumn-winter-scenic-drive-pass" />
+</div>
   );
 }

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -137,8 +138,32 @@ export default function FamilyKanazawaModelCoursePage() {
     }
   ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【子連れ金沢旅行 1泊2日モデルコース】ベビーカーOKスポット＆キッズ歓迎・和室ホテルの安心プラン ｜ 日本全国・旅宿クラウド",
+    "description": "小さなお子様や赤ちゃん連れの金沢1泊2日旅行！21世紀美術館のキッズスペース、兼六園の段差回避ルート、近江町市場の子連れランチ、添い寝無料＆和室ありの金沢駅前おすすめホテルを完全ガイド。",
+    "url": "https://croud-travel.pages.dev/family-kanazawa-1night2days-model-course/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【子連れ金沢旅行 1泊2日モデルコース】ベビーカーOKスポット＆キッズ歓迎・和室ホテルの安心プラン ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/family-kanazawa-1night2days-model-course/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-20 font-sans text-stone-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション（Emerald Palette） */}
       <section className="relative rounded-3xl overflow-hidden bg-gradient-to-br from-emerald-950 via-teal-900 to-emerald-900 text-white p-8 md:p-14 shadow-2xl border border-emerald-700/40">
         <div className="absolute top-0 right-0 w-[450px] h-[450px] bg-emerald-500/15 rounded-full blur-3xl pointer-events-none" />
@@ -455,6 +480,8 @@ export default function FamilyKanazawaModelCoursePage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="family-kanazawa-1night2days-model-course" />
+</div>
   );
 }

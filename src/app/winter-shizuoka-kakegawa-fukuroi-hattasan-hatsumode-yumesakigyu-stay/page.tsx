@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import Link from 'next/link';
 import type { Metadata } from 'next';
 import { 
@@ -255,6 +256,7 @@ export default function ShizuokaKakegawaWinterPage() {
       a: "掛川駅は東海道新幹線の停車駅であり、東京・名古屋の両方面から約1時間〜1時間半でダイレクトにアクセスできます。車の場合は東名高速道路「掛川IC」または「袋井IC」を利用します。初詣シーズンのモデルルートとしては、掛川駅を起点にまず掛川城を見学、車または袋井駅からの臨時バスで法多山尊永寺へ向かい初詣と厄除団子を堪能。続いて可睡齋の室内ぼたんとひなまつりを鑑賞し、掛川または袋井の駅前ホテルに宿泊するルートが最も効率的です。"
     }
   ];
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800 antialiased">
@@ -680,7 +682,9 @@ export default function ShizuokaKakegawaWinterPage() {
             >
               トップページへ戻る
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-shizuoka-kakegawa-fukuroi-hattasan-hatsumode-yumesakigyu-stay" />
+</div>
         </section>
 
       </main>

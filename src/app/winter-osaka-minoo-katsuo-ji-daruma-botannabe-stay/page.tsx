@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import type { Metadata } from 'next';
@@ -254,6 +255,7 @@ export default function OsakaMinooWinterPage() {
       a: "【1日目】新大阪駅または大阪市内を出発 → 阪急宝塚線池田駅で下車し「カップヌードルミュージアム大阪池田」でオリジナルカップヌードル作り体験 → 池田城跡公園で冬の庭園を鑑賞 → 箕面市へ移動し箕面駅前から滝道を歩いて「箕面大滝」へ（名物もみじの天ぷらを食べ歩き） → 箕面観光ホテルまたは能勢温泉・伏尾温泉にチェックイン → 天空露天風呂で大阪夜景を眺めながら湯浴み、極上バイキングや天然ぼたん鍋を堪能。【2日目】宿を出発し勝運の寺「勝尾寺」へ初詣・勝ちダルマ祈願と境内散策 → 能勢町の里山カフェや道の駅能勢（くりの郷）で特産品のお土産購入 → 帰路へ。"
     }
   ];
+
 
   return (
     <>
@@ -610,7 +612,9 @@ export default function OsakaMinooWinterPage() {
           </section>
 
         </main>
-      </div>
+      
+      <HubRelatedPosts currentSlug="winter-osaka-minoo-katsuo-ji-daruma-botannabe-stay" />
+</div>
     </>
   );
 }

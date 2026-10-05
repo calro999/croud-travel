@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -121,8 +122,32 @@ export default function HighwayBusArticlePage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【福岡・博多〜鹿児島】九州新幹線 vs 高速バス「桜島号」徹底比較！料金半額＆桜島・黒豚・天文館1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+    "description": "博多・天神から鹿児島中央へ行くなら九州新幹線と高速バス「桜島号」どっちがお得？料金・所要時間比較！片道3,000円台〜行ける高速バスを活用し、桜島フェリー、仙巌園、名物黒豚しゃぶしゃぶ・白熊を満喫する1泊2日モデルコース。",
+    "url": "https://croud-travel.pages.dev/fukuoka-kagoshima-bus-vs-shinkansen-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【福岡・博多〜鹿児島】九州新幹線 vs 高速バス「桜島号」徹底比較！料金半額＆桜島・黒豚・天文館1泊2日モデルコース ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/fukuoka-kagoshima-bus-vs-shinkansen-guide/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-sky-950 via-slate-900 to-indigo-950 text-white p-8 md:p-14 shadow-xl border border-white/10">
         <div className="max-w-3xl space-y-4">
@@ -432,6 +457,8 @@ export default function HighwayBusArticlePage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="fukuoka-kagoshima-bus-vs-shinkansen-guide" />
+</div>
   );
 }

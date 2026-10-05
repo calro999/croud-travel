@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -56,8 +57,32 @@ export default function MicroTouristHubPage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【山形・鶴岡＆羽黒山・出羽三山】国宝羽黒山五重塔・杉並木＆精進料理・庄内浜宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "生まれ変わりの旅・出羽三山（羽黒山・月山・湯殿山）＆鶴岡エリア完全特化！国宝「羽黒山五重塔」、樹齢1000年爺杉と2446段石段杉並木、羽黒修験の伝統「精進料理」、湯野浜温泉、名物「庄内浜海の幸宿」を徹底解説。",
+    "url": "https://croud-travel.pages.dev/yamagata-tsuruoka-hagurosan-dewasanzan-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【山形・鶴岡＆羽黒山・出羽三山】国宝羽黒山五重塔・杉並木＆精進料理・庄内浜宿 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/yamagata-tsuruoka-hagurosan-dewasanzan-stay/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-stone-900 via-rose-950 to-amber-950 text-white p-8 md:p-14 shadow-xl border border-white/10">
         <div className="max-w-3xl space-y-4">
@@ -203,6 +228,8 @@ export default function MicroTouristHubPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="yamagata-tsuruoka-hagurosan-dewasanzan-stay" />
+</div>
   );
 }

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -20,8 +21,32 @@ export const metadata: Metadata = {
 export default function FurusatoFeaturePage() {
   const officialFurusatoAffUrl = 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F';
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "地酒BAR＆日本酒利き酒し放題の名湯宿×ふるさと納税完全ガイド【2026年最新】越後湯沢・山形赤湯・京都伏見の酒蔵ステイ",
+    "description": "日本酒好きの桃源郷！新潟越後湯沢「ぽんしゅ館」越後全酒蔵コイン利き酒と美肌温泉、山形南陽「赤湯温泉」の蔵元直送地酒BARと米沢牛会席、京都「伏見」の名水仕込み銘酒と酒蔵通り町家ホテル。酒蔵見学と極上ペアリングを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-sake-bar-unlimited-tasting-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "地酒BAR＆日本酒利き酒し放題の名湯宿×ふるさと納税完全ガイド【2026年最新】越後湯沢・山形赤湯・京都伏見の酒蔵ステイ", "item": "https://croud-travel.pages.dev/furusato-tax-sake-bar-unlimited-tasting-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-stone-900 text-stone-100 selection:bg-amber-500 selection:text-stone-950">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローヘッダー */}
       <section className="relative py-24 px-4 sm:px-6 lg:px-8 bg-gradient-to-b from-stone-950 via-stone-900 to-stone-900 border-b border-stone-800">
         <div className="max-w-5xl mx-auto text-center">
@@ -419,6 +444,8 @@ export default function FurusatoFeaturePage() {
           
         </div>
       </section>
-    </div>
+    
+      <HubRelatedPosts currentSlug="furusato-tax-sake-bar-unlimited-tasting-stay" />
+</div>
   );
 }

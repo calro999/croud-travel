@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -16,8 +17,32 @@ export const metadata: Metadata = {
 };
 
 export default function Page() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【愛媛・宇和島＆内子・大洲】現存天守・鯛めし＆白壁町並み・大洲城宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "伊達十万石の城下町にして現存十二天守「宇和島城」、生卵と秘伝出汁で味わう「本場宇和島鯛めし」、重要伝統的建造物群保存地区「内子八日市・護国」の木蝋白壁の町並み、木造復元天守に泊まれる城泊で話題の「大洲城」と臥龍山荘を徹底解説。",
+    "url": "https://croud-travel.pages.dev/ehime-uwajima-uchiko-ozu-castle-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【愛媛・宇和島＆内子・大洲】現存天守・鯛めし＆白壁町並み・大洲城宿 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/ehime-uwajima-uchiko-ozu-castle-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-stone-950 text-stone-100">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローヘッダー */}
       <div className="relative py-20 px-4 sm:px-6 lg:px-8 bg-gradient-to-b from-stone-900 via-stone-950 to-stone-950 border-b border-stone-800">
         <div className="max-w-5xl mx-auto text-center">
@@ -889,6 +914,8 @@ export default function Page() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="ehime-uwajima-uchiko-ozu-castle-stay" />
+</div>
   );
 }

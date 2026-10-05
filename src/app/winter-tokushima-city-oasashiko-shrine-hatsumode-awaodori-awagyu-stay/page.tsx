@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import type { Metadata } from 'next';
@@ -254,6 +255,7 @@ export default function TokushimaCityWinterPage() {
       a: "【1日目】徳島空港またはJR徳島駅に到着 → 駅前で「徳島ラーメン」または「阿波尾鶏ランチ」 → 眉山山麓の「阿波おどり会館」で冬の阿波おどり実演を鑑賞 → ロープウェイで眉山山頂へ登り、冬晴れの吉野川と紀伊水道パノラマを展望 → 徳島市内の温泉宿・名門ホテルにチェックイン → 夕食は名店で「阿波尾鶏水炊き鍋」や鳴門鯛・阿波牛会席を満喫 → 夜、眉山の煌めく夜景を望むバーで地酒を楽しむ。【2日目】ホテルで阿波郷土料理の朝食 → 車またはJR高徳線・板東駅経由で鳴門市大麻町へ移動 → 阿波国一の宮「大麻比古神社」で新春大初詣＆樹齢千年の大楠からパワーをチャージ → 霊山寺（四国霊場第1番札所）やドイツ館を見学 → 鳴門の直売所で鳴門金時やわかめ、すだち酢を購入して徳島空港・駅へ戻り帰路へ。"
     }
   ];
+
 
   return (
     <>
@@ -598,7 +600,9 @@ export default function TokushimaCityWinterPage() {
             </div>
           </section>
         </main>
-      </div>
+      
+      <HubRelatedPosts currentSlug="winter-tokushima-city-oasashiko-shrine-hatsumode-awaodori-awagyu-stay" />
+</div>
     </>
   );
 }

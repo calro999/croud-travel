@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -74,8 +75,32 @@ const hotels = [
 export default function FurusatoUpgradedPage() {
   const officialFurusatoAffUrl = 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F';
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三大急流の豪快な舟下りと大自然リバーサイド温泉宿×ふるさと納税完全ガイド【2026年最新】最上川・富士川・球磨川",
+    "description": "轟く水飛沫とダイナミックな渓谷美を誇る「日本三大急流」（山形・最上川、山梨・富士川、熊本・球磨川）。芭蕉ゆかりの舟下り、信玄の隠し湯・下部温泉、清流アユと天然露天風呂。楽天ふるさと納税宿泊クーポン完全活用。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-great-rapids-river-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "日本三大急流の豪快な舟下りと大自然リバーサイド温泉宿×ふるさと納税完全ガイド【2026年最新】最上川・富士川・球磨川", "item": "https://croud-travel.pages.dev/furusato-tax-three-great-rapids-river-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-stone-900 text-stone-100 selection:bg-amber-500 selection:text-stone-950">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローヘッダー */}
       <section className="relative py-24 px-4 sm:px-6 lg:px-8 bg-gradient-to-b from-stone-950 via-stone-900 to-stone-900 border-b border-stone-800">
         <div className="max-w-5xl mx-auto text-center">
@@ -314,6 +339,8 @@ export default function FurusatoUpgradedPage() {
           </Link>
         </div>
       </section>
-    </div>
+    
+      <HubRelatedPosts currentSlug="furusato-tax-three-great-rapids-river-stay" />
+</div>
   );
 }

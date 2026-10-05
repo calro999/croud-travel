@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoKoshuWineryHarvestStayPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "11月3日解禁！山梨ヌーボー＆甲州勝沼ワイナリー巡り×石和温泉美食リゾート【ふるさと納税完全ガイド2026】 | 旅宿クラウド",
+    "description": "10〜11月は日本ワイン発祥の地・山梨甲州勝沼がもっとも輝く収穫と新酒（山梨ヌーボー）のシーズン！約30軒の個性豊かなワイナリーでの試飲巡りと、美肌の名湯・石和温泉の掛け流し湯に癒やされる「ホテル古柏園」「ホテル平安」「中村屋旅館」。甲州牛ステーキとワインのマリアージュを、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-koshu-winery-harvest-autumn-wine-resort-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "11月3日解禁！山梨ヌーボー＆甲州勝沼ワイナリー巡り×石和温泉美食リゾート【ふるさと納税完全ガイド2026】 | 旅宿クラウド", "item": "https://croud-travel.pages.dev/furusato-tax-koshu-winery-harvest-autumn-wine-resort-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -582,7 +605,9 @@ export default function FurusatoKoshuWineryHarvestStayPage() {
                 京都府の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-koshu-winery-harvest-autumn-wine-resort-stay" />
+</div>
         </section>
 
       </main>

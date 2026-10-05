@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoMinohFallsArimaAutumnLeavesStayPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本の滝百選・箕面大滝の紅葉美＆日本最古の名湯・有馬温泉金泉銀泉名宿×ふるさと納税完全ガイド【2026年最新秋旅】関西 | 旅宿クラウド",
+    "description": "11月中旬〜12月上旬に見頃を迎える関西屈指の紅葉名所「箕面大滝（大阪）」と、日本三古湯・三名泉の最高峰「有馬温泉（神戸）」。鉄分と塩分濃厚な赤褐色の「金泉」と無色透明の「銀泉」を誇る「欽山」「有馬御苑」「兵衛向陽閣」。最高級神戸牛会席を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-minoh-falls-arima-autumn-leaves-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "日本の滝百選・箕面大滝の紅葉美＆日本最古の名湯・有馬温泉金泉銀泉名宿×ふるさと納税完全ガイド【2026年最新秋旅】関西 | 旅宿クラウド", "item": "https://croud-travel.pages.dev/furusato-tax-minoh-falls-arima-autumn-leaves-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -582,7 +605,9 @@ export default function FurusatoMinohFallsArimaAutumnLeavesStayPage() {
                 山梨県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-minoh-falls-arima-autumn-leaves-stay" />
+</div>
         </section>
 
       </main>

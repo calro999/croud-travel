@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -16,6 +17,28 @@ export const metadata: Metadata = {
 
 export default function Page() {
   const secData = (seasonalData as any)['furusato-tax-cherry-blossom-spring-hanami-onsen-stay'] || {};
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【全国の桜名所×ふるさと納税】客室から夜桜を愛でるお花見露天風呂＆桜の絶景宿完全ガイド | クラウドトラベル",
+    "description": "春限定の絶景！静岡・河津桜、奈良・吉野山の一目千本桜、青森・弘前公園の桜の絨毯。春のお花見シーズンに客室や露天風呂から満開の桜を独占できる名宿を厳選。早期満室の桜宿をふるさと納税で賢く予約。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-cherry-blossom-spring-hanami-onsen-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【全国の桜名所×ふるさと納税】客室から夜桜を愛でるお花見露天風呂＆桜の絶景宿完全ガイド | クラウドトラベル", "item": "https://croud-travel.pages.dev/furusato-tax-cherry-blossom-spring-hanami-onsen-stay/" }
+    ]
+  };
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
@@ -632,7 +655,9 @@ export default function Page() {
                 秋田県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-cherry-blossom-spring-hanami-onsen-stay" />
+</div>
         </section>
 
       </main>

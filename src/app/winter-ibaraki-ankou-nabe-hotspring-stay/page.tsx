@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -109,6 +110,7 @@ export default function FeaturePage() {
               features: ["大洗サンビーチ前で磯料理の豊富な宿。宿より、海浜公園まで５分、アウトレツトまで１０分", "東茨城郡大洗町大貫町163-6", "楽天アワード受賞歴"]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-stone-50 via-white to-stone-50 text-stone-800">
@@ -662,7 +664,9 @@ export default function FeaturePage() {
                 京都府の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-ibaraki-ankou-nabe-hotspring-stay" />
+</div>
         </section>
 
       </main>

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -26,8 +27,32 @@ function loadHotels() {
 export default function AtamiBudgetGuidePage() {
   const hotels = loadHotels();
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【熱海・伊豆旅行 費用】日帰り・1泊2日でいくら？東京から片道2,000円で行ける温泉リゾートの全費用 ｜ 日本全国・旅宿クラウド",
+    "description": "熱海・伊豆旅行の費用を日帰り温泉・1泊2日で完全計算！東京から普通列車で片道1,980円、熱海プリン・海鮮丼のグルメ費用、来宮神社・MOA美術館の入場料、オーシャンビュー温泉旅館の宿泊費まで全部公開。",
+    "url": "https://croud-travel.pages.dev/atami-izu-travel-budget-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【熱海・伊豆旅行 費用】日帰り・1泊2日でいくら？東京から片道2,000円で行ける温泉リゾートの全費用 ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/atami-izu-travel-budget-guide/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16 font-sans">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーロー */}
       <section className="bg-pink-50 rounded-3xl p-8 md:p-14 border border-pink-100 shadow-sm relative overflow-hidden">
         <div className="absolute top-[-20%] right-[-10%] w-64 h-64 bg-rose-200 rounded-full mix-blend-multiply filter blur-3xl opacity-50"></div>
@@ -209,6 +234,8 @@ export default function AtamiBudgetGuidePage() {
           🗾 全国都道府県ガイドへ
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="atami-izu-travel-budget-guide" />
+</div>
   );
 }

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -257,6 +258,7 @@ export default function TokushimaIyaValleyWinterPage() {
     "a": "国道32号線（高知〜大歩危〜池田間）は比較的道路幅が広く整備されていますが、大歩危から祖谷温泉やかずら橋方面へ入る県道32号線や県道45号線は、急カーブや細い隘路が連続する山岳道路です。祖谷地方は四国の中でも標高が高く冷え込みが厳しいため、12月中旬〜1月にかけては積雪や路面凍結（ブラックアイスバーン）が頻繁に発生します。冬に車で訪れる場合は必ずスタッドレスタイヤを装着し、日陰のカーブや橋の上では十分減速して運転してください。雪道運転に不安がある場合は、JR大歩危駅からタクシーや定期観光バスを利用するのが安全です。"
   }
 ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-cyan-100 selection:text-cyan-900 pb-20">
@@ -704,7 +706,9 @@ export default function TokushimaIyaValleyWinterPage() {
               </div>
               <span className="text-xs text-teal-300 mt-2 block font-medium">全特集をチェック ➔</span>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-tokushima-iya-valley-kazurabashi-snow-onsen-stay" />
+</div>
         </section>
 
       </main>

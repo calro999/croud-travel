@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -100,8 +101,32 @@ export default function Page() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三大柑橘王国＆黄金色の果樹園・海風薫る爽快リゾートと名湯宿×ふるさと納税完全ガイド【2026年最新】愛媛・和歌山・静岡",
+    "description": "太陽の光と潮風を浴びて実る黄金の果実！愛媛松山「温州みかん・紅まどんな・伊予柑」道後温泉ホテルルナパーク、和歌山有田・白浜「有田みかん400年の歴史」白浜古賀の井リゾート＆スパ、静岡熱海・三ヶ日「三ヶ日みかん・ニューサマーオレンジ」熱海温泉ホテル大野屋。日本三大柑橘王国の爽快な海風と温泉ステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-great-citrus-kingdoms-resort-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "日本三大柑橘王国＆黄金色の果樹園・海風薫る爽快リゾートと名湯宿×ふるさと納税完全ガイド【2026年最新】愛媛・和歌山・静岡", "item": "https://croud-travel.pages.dev/furusato-tax-three-great-citrus-kingdoms-resort-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずリスト */}
       <nav className="bg-white border-b border-slate-200 py-3 px-4 text-xs text-slate-500">
         <div className="max-w-5xl mx-auto flex items-center space-x-2">
@@ -520,6 +545,8 @@ export default function Page() {
       <footer className="bg-slate-950 text-slate-400 py-8 px-4 text-center text-xs border-t border-slate-800">
         <p>© 2026 トラベルポータル All Rights Reserved. 掲載情報は最新の楽天トラベル公式APIに基づきます。</p>
       </footer>
-    </div>
+    
+      <HubRelatedPosts currentSlug="furusato-tax-three-great-citrus-kingdoms-resort-stay" />
+</div>
   );
 }

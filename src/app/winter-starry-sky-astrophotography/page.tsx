@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -65,8 +66,32 @@ export default function SeasonalFeaturePage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【冬の天体観測】満天の星空＆天の川！絶景星空ホテル 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "空気が澄み渡る冬の夜空！長野・阿智村（日本一の星空ナイトツアー）、八ヶ岳・野辺山高原、沖縄・石垣島西表島（星空保護区）、和歌山・串本潮岬など、肉眼で満天の星空や天の川を望む人気ホテル＆温泉宿を徹底解説。",
+    "url": "https://croud-travel.pages.dev/winter-starry-sky-astrophotography/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【冬の天体観測】満天の星空＆天の川！絶景星空ホテル 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/winter-starry-sky-astrophotography/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-stone-900 via-rose-950 to-amber-950 text-white p-8 md:p-14 shadow-xl border border-white/10">
         <div className="max-w-3xl space-y-4">
@@ -212,6 +237,8 @@ export default function SeasonalFeaturePage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="winter-starry-sky-astrophotography" />
+</div>
   );
 }

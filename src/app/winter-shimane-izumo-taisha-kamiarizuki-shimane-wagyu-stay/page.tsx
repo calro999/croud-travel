@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -255,6 +256,7 @@ export default function ShimaneIzumoWinterFeature() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800 pb-20">
@@ -637,7 +639,9 @@ export default function ShimaneIzumoWinterFeature() {
               <span className="text-xs text-purple-300 font-semibold block mb-1">全国冬の味覚特集</span>
               <h3 className="text-sm font-bold group-hover:text-purple-200 transition">11月解禁！全国の極上カニ（松葉ガニ・越前ガニ・加能ガニ）高級旅館ランキング</h3>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-shimane-izumo-taisha-kamiarizuki-shimane-wagyu-stay" />
+</div>
         </section>
 
       </main>

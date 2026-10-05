@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -109,6 +110,7 @@ export default function FeaturePage() {
               features: ["～名湯一門 高見屋～古き良き昭和を体験、温泉街の老舗旅館。源泉掛け流しの温泉浴場と湯めぐりが無料。", "山形市蔵王温泉13", "楽天アワード受賞歴"]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-stone-50 via-white to-stone-50 text-stone-800">
@@ -665,7 +667,9 @@ export default function FeaturePage() {
                 和歌山県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-zao-snow-monster-ice-tree-stay" />
+</div>
         </section>
 
       </main>

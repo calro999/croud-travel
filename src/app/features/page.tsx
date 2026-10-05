@@ -111,6 +111,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-osaka-minoh-katsuoji-daruma-hatsumode-waterfall-onsen-stay',
+              title: "箕面＆勝尾寺！勝ち運の寺「勝尾寺」新春初詣と勝ちダルマ祈願・白銀の「箕面大滝」氷紋と名物もみじ天ぷら・箕面温泉名宿",
+              desc: "北大阪急行延伸で都心から直通20分！無数の赤い勝ちダルマが迎える勝尾寺で己に打ち勝つ新春初詣。落差33m箕面大滝の清冽な氷紋ともみじ天ぷら、トロトロ美肌の箕面温泉…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-kochi-katsurahama-ryoma-sunrise-chikurinji-hatsumode-tataki-stay',
+              title: "高知・桂浜＆竹林寺！太平洋望む名勝「桂浜」初日の出と坂本龍馬像・知恵の文殊「五台山 竹林寺」新春初詣・極上戻り鰹藁焼き名宿",
+              desc: "黒潮洗う南国土佐の冬景色！桂浜の弓状の渚から拝する感動の初日の出と坂本龍馬像。四国霊場第31番竹林寺の文殊菩薩初詣と、香ばしく脂が乗る戻り鰹藁焼き塩タタキ＆天然温泉…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-ehime-imabari-shimanami-oyamazumi-shrine-hatsumode-taimeshi-stay',
+              title: "今治＆しまなみ海道！日本総鎮守「大山祇神社」樹齢2600年神木新春初詣・冬晴れしまなみ海道パノラマ＆土鍋今治鯛めし名宿",
+              desc: "冬晴れ瀬戸内ブルーの多島美！大三島の大山祇神社で迎える厳かな新春初詣と国宝甲冑。来島海峡大橋の絶景とふっくら土鍋で炊き上げる冬の今治鯛めし、pH9.9鈍川温泉美肌湯…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-shiga-omihachiman-suigo-himure-shrine-hatsumode-omigyu-stay',
+              title: "近江八幡＆水郷！白壁土蔵佇む「近江八幡水郷めぐり」冬のこたつ舟・千年の古社「日牟禮八幡宮」新春初詣＆極上近江牛すき焼き名宿",
+              desc: "近江商人の誇り息づく重伝建！冬限定のこたつ舟に温まりながら枯葦の水路を進む風流体験。商売繁盛を願う日牟禮八幡宮初詣と八幡山絶景、とろける霜降り極まる近江牛すき焼き…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-okayama-kurashiki-bikan-achi-shrine-hatsumode-chiyagyu-stay',
+              title: "倉敷美観地区＆阿智神社！白壁となまこ壁が雪景色に映える冬情景と町家ライトアップ・倉敷総鎮守「阿智神社」初詣＆下津井タコ名宿",
+              desc: "江戸幕府天領の静寂と歴史情緒！夜間景観照明に浮かぶ倉敷川白壁と、鶴形山山頂阿智神社の宗像三女神初詣。激流で育つ冬旬下津井タコしゃぶしゃぶと幻の千屋牛ステーキ…",
+              badge: '11・12・1月特集'
+            },
+            {
               slug: 'winter-tokyo-takao-yakuoin-shrine-hatsumode-fuji-tororo-soba-stay',
               title: "高尾山＆八王子！霊峰「高尾山薬王院」新春初詣と冬晴れダイヤモンド富士・元祖自然薯とろろそば＆極楽湯天然温泉名宿",
               desc: "都心から50分の霊峰！開山1200余年の薬王院で迎える新春大護摩供と天狗信仰初詣、冬至前後の奇跡ダイヤモンド富士。熱々の自然薯とろろそばと極楽湯温泉…",

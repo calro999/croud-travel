@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import Link from 'next/link';
 import type { Metadata } from 'next';
 import { 
@@ -255,6 +256,7 @@ export default function MieIseshimaWinterPage() {
       a: "伊勢志摩は太平洋側に位置し黒潮の影響を受けるため、日本海側と比べて雪が降ることは稀で比較的温暖です。ただし、冬の五十鈴川沿いや内宮の杜、海沿いの鳥羽・賢島は冷たい季節風（伊勢湾からの浜風）が吹き抜けるため、体感温度はかなり低くなります。風を通さないコートやダウンジャケット、マフラー、手袋をご用意ください。伊勢自動車道などの主要道路は積雪の心配は少ないですが、深夜・早朝の橋梁部や日陰では路面凍結の可能性があるため注意して運転してください。"
     }
   ];
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800 antialiased">
@@ -704,7 +706,9 @@ export default function MieIseshimaWinterPage() {
             >
               トップページへ戻る
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-mie-iseshima-jingu-hatsumode-toba-matoya-oyster-ise-ebi-stay" />
+</div>
         </section>
 
       </main>

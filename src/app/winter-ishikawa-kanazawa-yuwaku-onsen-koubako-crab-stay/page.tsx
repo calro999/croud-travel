@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -257,6 +258,7 @@ export default function IshikawaKanazawaYuwakuWinterPage() {
     "a": "1日目は金沢駅に到着後、近江町市場で冬の活気を感じながら海鮮丼や香箱ガニを味わい、兼六園の雪吊りと金沢城公園の白銀の石垣を散策。夕方に湯涌温泉へ移動し、雪見露天風呂と加能ガニ・治部煮の会席を堪能します。2日目は湯涌温泉街の「竹久夢二金沢記念館」や夢二の散策路を歩いた後、金沢市街へ戻り「ひがし茶屋街」や「主計町茶屋街」で雪化粧した格子戸の街並みを散策。金沢21世紀美術館でアート鑑賞を楽しみ、夕食には熱々の「金沢おでん」を味わうルートが最も人気です。"
   }
 ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-rose-100 selection:text-rose-900 pb-20">
@@ -645,7 +647,9 @@ export default function IshikawaKanazawaYuwakuWinterPage() {
               <span className="text-rose-700 font-bold block text-[10px]">富山・雨晴海岸＆新湊</span>
               <p className="font-bold text-stone-800 line-clamp-2">冠雪立山連峰の奇跡絶景と新湊昼セリ本ズワイガニ・寒ブリを満喫する宿</p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-ishikawa-kanazawa-yuwaku-onsen-koubako-crab-stay" />
+</div>
         </section>
 
       </main>

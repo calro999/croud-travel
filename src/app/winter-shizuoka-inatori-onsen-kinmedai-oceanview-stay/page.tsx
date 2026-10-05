@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -221,6 +222,7 @@ export default function ShizuokaInatoriWinterFeature() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800 pb-20">
@@ -634,7 +636,9 @@ export default function ShizuokaInatoriWinterFeature() {
               <span className="text-xs text-rose-300 font-semibold block mb-1">全国冬の味覚特集</span>
               <h3 className="text-sm font-bold group-hover:text-rose-200 transition">冬に食べたい極上牡蠣＆海鮮グルメ温泉旅館ランキング</h3>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-shizuoka-inatori-onsen-kinmedai-oceanview-stay" />
+</div>
         </section>
 
       </main>

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -65,8 +66,32 @@ export default function SeasonalFeaturePage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【秋の味覚狩り】ワイナリー巡り＆フルーツ温泉リゾート 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "収穫の秋を満喫！山梨勝沼・石和温泉（新酒ワインとぶどう狩り）、信州千曲川ワインバレー、北海道余市、岡山果実郷など、秋のワイナリーツアーとフルーツ狩り・温泉を満喫できる人気宿を徹底解説。",
+    "url": "https://croud-travel.pages.dev/autumn-wine-fruit-hunting/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【秋の味覚狩り】ワイナリー巡り＆フルーツ温泉リゾート 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/autumn-wine-fruit-hunting/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-stone-900 via-rose-950 to-amber-950 text-white p-8 md:p-14 shadow-xl border border-white/10">
         <div className="max-w-3xl space-y-4">
@@ -212,6 +237,8 @@ export default function SeasonalFeaturePage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="autumn-wine-fruit-hunting" />
+</div>
   );
 }

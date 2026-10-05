@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -109,6 +110,7 @@ export default function FeaturePage() {
               features: ["全室設置の源泉掛け流し露天と旬を彩る至極の懐石料理　雄大な箱根連山を眺めながら最上のひとときをどうぞ", "足柄下郡箱根町二ノ平1297-5", "楽天アワード受賞歴"]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-stone-50 via-white to-stone-50 text-stone-800">
@@ -435,7 +437,9 @@ export default function FeaturePage() {
                 秋田県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="luxury-private-onsen-with-scenic-hydrangea-deck" />
+</div>
         </section>
 
       </main>

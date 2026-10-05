@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -257,6 +258,7 @@ export default function KanagawaMiuraMisakiWinterPage() {
     "a": "電車の場合は、品川駅から京急本線・久里浜線快特で三崎口駅まで約65分。三崎口駅からは京急バスで三崎港（約15分）や城ヶ島（約30分）へ直行できます。京急電鉄が発売する「みさきまぐろきっぷ」は、電車・バス往復乗車券に加え、選べるまぐろ食事券とおもひで券（温泉入浴やアクティビティ）がセットになった超お得なきっぷで日帰り・宿泊旅ともに大人気です。車の場合は横浜横須賀道路・衣笠ICから三浦縦貫道路を経由して三浦海岸や城ヶ島へ約30分でアクセス可能です。"
   }
 ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-sky-100 selection:text-sky-900 pb-20">
@@ -711,7 +713,9 @@ export default function KanagawaMiuraMisakiWinterPage() {
                 冬の特集記事一覧をすべて見る ➔
               </span>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-kanagawa-miura-misaki-maguro-suisen-fuji-stay" />
+</div>
         </section>
 
       </main>

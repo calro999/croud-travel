@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoNikkoWorldHeritageStayPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "世界遺産日光東照宮の歴史と中禅寺湖の絶景！奥日光の乳白色硫黄泉＆日本最古クラシックホテル×ふるさと納税完全攻略ガイド【2026年最新】千姫物語・日光金谷ホテル・ホテル四季彩",
+    "description": "世界遺産「日光の社寺」と奥日光の大自然！日光東照宮、中禅寺湖、華厳の滝。「日光温泉 日光千姫物語」「日光金谷ホテル」「奥日光 ホテル四季彩」を、栃木県日光市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。日本最古クラシックホテル、乳白色の源泉かけ流し露天風呂、日光湯波・とちぎ和牛を満喫。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-kinugawa-nikko-world-heritage-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "世界遺産日光東照宮の歴史と中禅寺湖の絶景！奥日光の乳白色硫黄泉＆日本最古クラシックホテル×ふるさと納税完全攻略ガイド【2026年最新】千姫物語・日光金谷ホテル・ホテル四季彩", "item": "https://croud-travel.pages.dev/furusato-tax-kinugawa-nikko-world-heritage-stay/" }
+    ]
+  };
+
   return (
     <article className="max-w-5xl mx-auto px-4 py-8 text-gray-800 leading-relaxed font-sans">
       {/* パンくずリスト */}
@@ -346,7 +369,9 @@ export default function FurusatoNikkoWorldHeritageStayPage() {
           >
             ▸ 【登録有形文化財・宮大工数寄屋造り旅館×ふるさと納税】木造建築美の宿
           </Link>
-        </div>
+        
+      <HubRelatedPosts currentSlug="furusato-tax-kinugawa-nikko-world-heritage-stay" />
+</div>
       </section>
     </article>
   );

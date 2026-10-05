@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -119,8 +120,32 @@ export default function HighwayBusArticlePage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【東京・新宿〜松本・上高地】特急あずさ vs 直行高速バス徹底比較！片道2,500円〜行く国宝松本城＆上高地1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+    "description": "東京・新宿から松本・上高地へ安く行くには？JR中央線特急あずさと高速バス（中央高速バス・さわやか信州号）の料金・所要時間比較！国宝松本城、中町通りの蔵造りカフェ、北アルプスの絶景上高地を満喫する1泊2日モデルコース。",
+    "url": "https://croud-travel.pages.dev/tokyo-matsumoto-kamikochi-bus-vs-train-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【東京・新宿〜松本・上高地】特急あずさ vs 直行高速バス徹底比較！片道2,500円〜行く国宝松本城＆上高地1泊2日モデルコース ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/tokyo-matsumoto-kamikochi-bus-vs-train-guide/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-sky-950 via-slate-900 to-indigo-950 text-white p-8 md:p-14 shadow-xl border border-white/10">
         <div className="max-w-3xl space-y-4">
@@ -430,6 +455,8 @@ export default function HighwayBusArticlePage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="tokyo-matsumoto-kamikochi-bus-vs-train-guide" />
+</div>
   );
 }

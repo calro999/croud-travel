@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import type { Metadata } from 'next';
@@ -254,6 +255,7 @@ export default function YamaguchiHofuShunanWinterPage() {
       a: "【1日目】新山口駅または広島方面から山陽道を利用して防府市へ → 防府市内で名物瓦そばまたは地魚のランチ → 日本最初の天満宮「防府天満宮」で新春合格・厄除け初詣＆春風楼散策 → 毛利博物館と旧毛利家本邸庭園見学 → 山陽道を経由して下松・笠戸島または周南徳山へ移動（車約30分） → 瀬戸内海を一望する絶景宿にチェックイン → 笠戸島温泉の展望露天風呂で夕日鑑賞 → 夕食に「本場とらふぐ会席＆笠戸ひらめ・高森牛」を満喫。【2日目】穏やかな瀬戸内海の朝景色を眺めながら朝食 → 笠戸島海上遊歩道を散策 → 周南市中心街へ移動し遠石八幡宮参拝 → 道の駅ソレーネ周南でお土産（とらふぐ刺身セット、地酒獺祭、柑橘類）を購入 → 帰路へ。"
     }
   ];
+
 
   return (
     <>
@@ -629,7 +631,9 @@ export default function YamaguchiHofuShunanWinterPage() {
           </section>
 
         </main>
-      </div>
+      
+      <HubRelatedPosts currentSlug="winter-yamaguchi-hofu-tenmangu-hatsumode-shunan-fugu-stay" />
+</div>
     </>
   );
 }

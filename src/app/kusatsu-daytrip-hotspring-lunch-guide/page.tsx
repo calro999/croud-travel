@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -85,8 +86,32 @@ export default function KusatsuDaytripHotspringLunchPage() {
     }
   ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【草津温泉 日帰り温泉＆ランチ】湯畑周辺で楽しむ源泉かけ流し名湯＆上州牛・手打ちそば名店ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "草津温泉を日帰りで満喫するモデルコース！西の河原露天風呂・御座之湯・大滝乃湯の外湯巡りと、上州牛すき焼き・石臼挽き手打ちそばの絶品ランチ、日帰り入浴可能な名門旅館まとめ。",
+    "url": "https://croud-travel.pages.dev/kusatsu-daytrip-hotspring-lunch-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【草津温泉 日帰り温泉＆ランチ】湯畑周辺で楽しむ源泉かけ流し名湯＆上州牛・手打ちそば名店ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/kusatsu-daytrip-hotspring-lunch-guide/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16 font-sans text-stone-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション（Stone Palette） */}
       <section className="relative rounded-3xl overflow-hidden bg-stone-900 text-stone-100 p-8 md:p-14 shadow-2xl border border-stone-700">
         <div className="absolute inset-0 bg-gradient-to-r from-stone-900 via-stone-800/90 to-amber-950/40" />
@@ -423,6 +448,8 @@ export default function KusatsuDaytripHotspringLunchPage() {
           </li>
         </ul>
       </section>
-    </div>
+    
+      <HubRelatedPosts currentSlug="kusatsu-daytrip-hotspring-lunch-guide" />
+</div>
   );
 }

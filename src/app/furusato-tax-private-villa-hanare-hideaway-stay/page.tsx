@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -16,6 +17,28 @@ export const metadata: Metadata = {
 
 export default function Page() {
   const secData = (seasonalData as any)['furusato-tax-private-villa-hanare-hideaway-stay'] || {};
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【全室離れの隠れ家×ふるさと納税】誰にも会わずに過ごす極上のおこもり客室露天風呂宿完全ガイド | クラウドトラベル",
+    "description": "エグゼクティブやお忍び旅行に選ばれる「全室離れ」のおこもり宿。大分・由布院、静岡・修善寺、神奈川・湯河原の源泉かけ流し客室露天風呂付き宿を厳選。誰にも邪魔されない至高のプライベート時間をふるさと納税で。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-private-villa-hanare-hideaway-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【全室離れの隠れ家×ふるさと納税】誰にも会わずに過ごす極上のおこもり客室露天風呂宿完全ガイド | クラウドトラベル", "item": "https://croud-travel.pages.dev/furusato-tax-private-villa-hanare-hideaway-stay/" }
+    ]
+  };
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
@@ -632,7 +655,9 @@ export default function Page() {
                 福井県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-private-villa-hanare-hideaway-stay" />
+</div>
         </section>
 
       </main>

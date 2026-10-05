@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -56,8 +57,32 @@ export default function MicroTouristHubPage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【島根・津和野＆益田】山陰の小京都・掘割の錦鯉＆太皷谷稲成・石見神楽宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "武家屋敷と白壁土塀のノスタルジー・島根津和野＆益田エリア完全特化！殿町通りの掘割を泳ぐ錦鯉、千本鳥居の「太皷谷稲成神社」、森鴎外・安野光雅ゆかりの地、伝統芸能「石見神楽」、名物「うずめ飯・鮎料理宿」を徹底解説。",
+    "url": "https://croud-travel.pages.dev/shimane-tsuwano-masuda-sanin-kyoto-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【島根・津和野＆益田】山陰の小京都・掘割の錦鯉＆太皷谷稲成・石見神楽宿 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/shimane-tsuwano-masuda-sanin-kyoto-stay/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-stone-900 via-rose-950 to-amber-950 text-white p-8 md:p-14 shadow-xl border border-white/10">
         <div className="max-w-3xl space-y-4">
@@ -203,6 +228,8 @@ export default function MicroTouristHubPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="shimane-tsuwano-masuda-sanin-kyoto-stay" />
+</div>
   );
 }

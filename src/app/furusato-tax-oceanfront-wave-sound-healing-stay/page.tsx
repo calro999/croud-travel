@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -19,8 +20,32 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoTaxPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "絶景オーシャンフロント×波音ヒーリングの海宿ふるさと納税完全ガイド【2026年最新】全室オーシャンビューと潮騒露天風呂",
+    "description": "窓一面に広がる青い海と夜空、寄せては返す波の音に癒やされる絶景オーシャンフロント宿！伊豆稲取、南房総白浜、沖縄読谷村など波打ち際の名門リゾートをふるさと納税宿泊クーポンでお得に予約する極上シーサイドステイ。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-oceanfront-wave-sound-healing-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "絶景オーシャンフロント×波音ヒーリングの海宿ふるさと納税完全ガイド【2026年最新】全室オーシャンビューと潮騒露天風呂", "item": "https://croud-travel.pages.dev/furusato-tax-oceanfront-wave-sound-healing-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-950 text-slate-100 selection:bg-amber-500 selection:text-white">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずリスト */}
       <nav className="border-b border-slate-800/80 bg-slate-900/60 backdrop-blur px-4 py-3 text-xs text-slate-400">
         <div className="max-w-6xl mx-auto flex items-center gap-2 overflow-x-auto whitespace-nowrap">
@@ -760,6 +785,8 @@ export default function FurusatoTaxPage() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="furusato-tax-oceanfront-wave-sound-healing-stay" />
+</div>
   );
 }

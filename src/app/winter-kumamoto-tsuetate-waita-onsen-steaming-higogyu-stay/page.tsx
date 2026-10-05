@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -311,6 +312,7 @@ export default function KumamotoTsuetateWaitaPage() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-900 leading-relaxed font-sans pb-20">
@@ -683,7 +685,9 @@ export default function KumamotoTsuetateWaitaPage() {
                 美容液のようなpH9超の化粧水温泉と静かな竹林露天、熊本の馬刺しと会席料理。
               </p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-kumamoto-tsuetate-waita-onsen-steaming-higogyu-stay" />
+</div>
         </section>
 
       </main>

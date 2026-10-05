@@ -1,4 +1,4 @@
-# 法師温泉 長寿館のリアル宿泊記！温泉・客室・朝食バイキングの本音口コミ評判｜群馬県
+# 法師温泉 長寿館の宿泊ルポ＆見どころガイド｜群馬県
 
 - URL: https://croud-travel.pages.dev/posts/hoshi-onsens-chojukan-guide/
 - 宿泊施設名: 法師温泉 長寿館

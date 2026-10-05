@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -20,8 +21,32 @@ export const metadata: Metadata = {
 export default function FurusatoFeaturePage() {
   const officialFurusatoAffUrl = 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F';
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "天然クエ鍋＆幻の高級魚グルメ宿×ふるさと納税完全ガイド【2026年最新】南紀白浜・長崎五島・高知室戸の本クエ会席",
+    "description": "冬の味覚の王様・海のダイヤ！和歌山南紀白浜の「天然本クエ鍋」と白良浜オーシャン温泉、長崎五島列島の荒波で育った極上クエ薄造りリゾート、高知室戸の黒潮クエ会席＆海洋深層水スパ。ゼラチン質たっぷりの濃厚な旨味を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-kue-gourmet-luxury-fish-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "天然クエ鍋＆幻の高級魚グルメ宿×ふるさと納税完全ガイド【2026年最新】南紀白浜・長崎五島・高知室戸の本クエ会席", "item": "https://croud-travel.pages.dev/furusato-tax-kue-gourmet-luxury-fish-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-stone-900 text-stone-100 selection:bg-amber-500 selection:text-stone-950">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローヘッダー */}
       <section className="relative py-24 px-4 sm:px-6 lg:px-8 bg-gradient-to-b from-stone-950 via-stone-900 to-stone-900 border-b border-stone-800">
         <div className="max-w-5xl mx-auto text-center">
@@ -557,6 +582,8 @@ export default function FurusatoFeaturePage() {
           
         </div>
       </section>
-    </div>
+    
+      <HubRelatedPosts currentSlug="furusato-tax-kue-gourmet-luxury-fish-stay" />
+</div>
   );
 }

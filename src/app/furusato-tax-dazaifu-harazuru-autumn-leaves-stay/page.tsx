@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FeatureArticlePage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "太宰府天満宮・光明禅寺の石庭紅葉＆かまど神社！美肌の原鶴・二日市温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】福岡",
+    "description": "11月中旬〜12月上旬に見頃を迎える「太宰府天満宮」と紅葉の名所「宝満宮 竈門神社（かまどじんじゃ）」。「苔寺」光明禅寺の美しい庭園紅葉、万葉集ゆかりの二日市温泉「大丸別荘」やダブル美肌の湯「原鶴温泉 泰泉閣」「小野屋」で博多水炊き・黒毛和牛・筑後川の鮎を堪能。ふるさと納税で実質2,000円。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-dazaifu-harazuru-autumn-leaves-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "太宰府天満宮・光明禅寺の石庭紅葉＆かまど神社！美肌の原鶴・二日市温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】福岡", "item": "https://croud-travel.pages.dev/furusato-tax-dazaifu-harazuru-autumn-leaves-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -508,7 +531,9 @@ export default function FeatureArticlePage() {
                 岡山県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-dazaifu-harazuru-autumn-leaves-stay" />
+</div>
         </section>
 
       </main>

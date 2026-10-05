@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -172,8 +173,32 @@ export default function KamikochiMatsumotoCarFreePage() {
     }
   ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【松本・上高地 車なし旅行完全ガイド】特急あずさ＆上高地線・シャトルバスで行く国宝城下町＆神の降り立つ地 ｜ 日本全国・旅宿クラウド",
+    "description": "自家用車規制のある上高地こそ公共交通が最強！特急あずさ・松本電鉄上高地線・アルピコシャトルバスを活用し、松本城下町散策と大正池〜河童橋トレッキング、松本駅前大浴場ホテルを満喫する1泊2日。",
+    "url": "https://croud-travel.pages.dev/kamikochi-matsumoto-car-free-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【松本・上高地 車なし旅行完全ガイド】特急あずさ＆上高地線・シャトルバスで行く国宝城下町＆神の降り立つ地 ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/kamikochi-matsumoto-car-free-guide/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-rose-50/30 text-stone-900 font-sans pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション：Rose＆Wineの洗練アルパインラグジュアリートーン */}
       <div className="relative bg-gradient-to-br from-rose-950 via-stone-900 to-rose-900 text-white overflow-hidden py-14 md:py-20 px-4">
         <div className="absolute inset-0 opacity-15 bg-[radial-gradient(#f43f5e_1px,transparent_1px)] [background-size:20px_20px]" />
@@ -525,6 +550,8 @@ export default function KamikochiMatsumotoCarFreePage() {
           </Link>
         </div>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="kamikochi-matsumoto-car-free-guide" />
+</div>
   );
 }

@@ -1,4 +1,4 @@
-# 鎌倉・江ノ島おすすめ温泉宿10選のリアル宿泊記！温泉・客室・朝食バイキングの本音口コミ評判｜神奈川県
+# 鎌倉・江ノ島おすすめ温泉宿10選の宿泊ルポ＆見どころガイド｜神奈川県
 
 - URL: https://croud-travel.pages.dev/posts/january-kanagawa-kamakura-10selection/
 - 宿泊施設名: 鎌倉・江ノ島おすすめ温泉宿10選

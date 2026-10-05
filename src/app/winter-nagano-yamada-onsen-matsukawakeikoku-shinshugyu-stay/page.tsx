@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -187,6 +188,7 @@ export default function NaganoYamadaPage() {
     "a": "北陸新幹線で東京駅から「長野駅」まで約1時間20分。長野駅から長野電鉄の特急電車に乗り換えて「須坂駅」まで約25分です。須坂駅からは長電バス（山田温泉行き）が運行されており、約40分で山田温泉に到着します。また、小布施観光を兼ねる場合は長野電鉄の小布施駅下車も便利です。多くの旅館が須坂駅や小布施駅からの事前予約制送迎を行っているため、事前に宿へ問い合わせることをおすすめします。"
   }
 ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-amber-100 selection:text-amber-900 pb-20">
@@ -623,7 +625,9 @@ export default function NaganoYamadaPage() {
                 松本藩主ゆかりの奥座敷と冬の城下町散策、信州サーモンと手打ち蕎麦を堪能。
               </p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-nagano-yamada-onsen-matsukawakeikoku-shinshugyu-stay" />
+</div>
         </section>
 
       </main>

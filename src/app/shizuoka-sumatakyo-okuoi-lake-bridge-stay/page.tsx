@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -56,8 +57,32 @@ export default function MicroTouristHubPage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【静岡・寸又峡＆奥大井湖上駅】死ぬまでに渡りたい夢の吊橋・アプト式鉄道宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "エメラルドグリーンの湖上絶景と美女づくりの湯・静岡寸又峡＆川根本町エリア完全特化！死ぬまでに一度は渡りたい「夢の吊橋」、湖に浮かぶ秘境駅「奥大井湖上駅（レインボーブリッジ）」、南アルプスあぷとライン、寸又峡温泉宿を徹底解説。",
+    "url": "https://croud-travel.pages.dev/shizuoka-sumatakyo-okuoi-lake-bridge-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【静岡・寸又峡＆奥大井湖上駅】死ぬまでに渡りたい夢の吊橋・アプト式鉄道宿 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/shizuoka-sumatakyo-okuoi-lake-bridge-stay/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-stone-900 via-teal-950 to-blue-950 text-white p-8 md:p-14 shadow-xl border border-white/10">
         <div className="max-w-3xl space-y-4">
@@ -203,6 +228,8 @@ export default function MicroTouristHubPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="shizuoka-sumatakyo-okuoi-lake-bridge-stay" />
+</div>
   );
 }

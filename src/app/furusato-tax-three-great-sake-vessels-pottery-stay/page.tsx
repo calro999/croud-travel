@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -112,8 +113,32 @@ export default function Page() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三大酒器＆銘酒を引き立てる名陶の里・窯元巡りと美食名宿×ふるさと納税完全ガイド【2026年最新】備前・萩・唐津",
+    "description": "酒器ひとつで日本酒の味わいが劇的に変わる！岡山「備前焼」釉薬を使わず土と炎の窯変が酒をまろやかにする赤穂温泉銀波荘、山口「萩焼」茶陶の伝統を受け継ぎ使い込むほどに育つ萩温泉郷萩小町、佐賀「唐津焼」料理と美酒を引き立てる土の温もり・純和風の老舗洋々閣。窯元散策やぐい呑み選び、地酒ペアリング会席ディナーを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-great-sake-vessels-pottery-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "日本三大酒器＆銘酒を引き立てる名陶の里・窯元巡りと美食名宿×ふるさと納税完全ガイド【2026年最新】備前・萩・唐津", "item": "https://croud-travel.pages.dev/furusato-tax-three-great-sake-vessels-pottery-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずリスト */}
       <nav className="bg-white border-b border-slate-200 py-3 px-4 text-xs text-slate-500">
         <div className="max-w-5xl mx-auto flex items-center space-x-2">
@@ -558,6 +583,8 @@ export default function Page() {
           <p>ふるさと納税クーポンの利用条件や最新の空室状況は楽天トラベル公式サイトをご確認ください。</p>
         </div>
       </footer>
-    </div>
+    
+      <HubRelatedPosts currentSlug="furusato-tax-three-great-sake-vessels-pottery-stay" />
+</div>
   );
 }

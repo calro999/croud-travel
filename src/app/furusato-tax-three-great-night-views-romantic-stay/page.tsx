@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -112,8 +113,32 @@ export default function Page() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三大夜景＆煌めく光の海・100万ドルのパノラマ名宿×ふるさと納税完全ガイド【2026年最新】函館・神戸・長崎",
+    "description": "息をのむ美しさを誇る日本三大夜景！北海道函館「函館山」津軽海峡と函館湾が挟む光の扇・望楼NOGUCHI函館、兵庫神戸「摩耶山・掬星台」大阪湾から神戸港へ広がる宝石の海・有馬温泉欽山、長崎「稲佐山」世界新三大夜景のすり鉢状パノラマ・ガーデンテラス長崎ホテル＆リゾート。ロマンチックな絶景夜景と極上温泉・ディナーを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-great-night-views-romantic-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "日本三大夜景＆煌めく光の海・100万ドルのパノラマ名宿×ふるさと納税完全ガイド【2026年最新】函館・神戸・長崎", "item": "https://croud-travel.pages.dev/furusato-tax-three-great-night-views-romantic-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずリスト */}
       <nav className="bg-white border-b border-slate-200 py-3 px-4 text-xs text-slate-500">
         <div className="max-w-5xl mx-auto flex items-center space-x-2">
@@ -558,6 +583,8 @@ export default function Page() {
           <p>ふるさと納税クーポンの利用条件や最新の空室状況は楽天トラベル公式サイトをご確認ください。</p>
         </div>
       </footer>
-    </div>
+    
+      <HubRelatedPosts currentSlug="furusato-tax-three-great-night-views-romantic-stay" />
+</div>
   );
 }

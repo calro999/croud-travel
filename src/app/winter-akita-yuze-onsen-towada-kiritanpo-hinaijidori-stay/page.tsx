@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -220,6 +221,7 @@ export default function WinterAkitaYuzePage() {
       }
     ]
   };
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-stone-50 via-emerald-50/20 to-stone-50 text-stone-800 antialiased">
@@ -567,7 +569,9 @@ export default function WinterAkitaYuzePage() {
                 岩手山麓に湧く450年の名湯と冬のイルミネーション、盛岡三大麺の美食旅。
               </p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-akita-yuze-onsen-towada-kiritanpo-hinaijidori-stay" />
+</div>
         </section>
 
       </main>

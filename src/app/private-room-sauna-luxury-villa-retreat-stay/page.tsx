@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -16,6 +17,28 @@ export const metadata: Metadata = {
 
 export default function Page() {
   const secData = (seasonalData as any)['private-room-sauna-luxury-villa-retreat-stay'] || {};
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "客室専用サウナ＆プライベートヴィラ宿完全ガイド【完全貸切・ととのいスイート】 | クラウドトラベル",
+    "description": "客室専用バレルサウナ、テラス付き水風呂、スイートルーム完備のプライベートサウナ付き宿を厳選。誰の目も気にせず24時間好きな時に自分だけのリズムでととのう至高の贅沢。",
+    "url": "https://croud-travel.pages.dev/private-room-sauna-luxury-villa-retreat-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "客室専用サウナ＆プライベートヴィラ宿完全ガイド【完全貸切・ととのいスイート】 | クラウドトラベル", "item": "https://croud-travel.pages.dev/private-room-sauna-luxury-villa-retreat-stay/" }
+    ]
+  };
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
@@ -486,7 +509,9 @@ export default function Page() {
                 新潟県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="private-room-sauna-luxury-villa-retreat-stay" />
+</div>
         </section>
 
       </main>

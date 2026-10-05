@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -27,6 +28,20 @@ export default function FurusatoResortInfinityPoolStayPage() {
       { '@type': 'ListItem', position: 2, name: '旅行節約ハブ', item: baseUrl + '/travel-savings-guide' },
       { '@type': 'ListItem', position: 3, name: '絶景インフィニティプール＆ラグジュアリーホテル特集', item: baseUrl + '/furusato-tax-resort-infinity-pool-luxury-hotel-stay' },
     ],
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "海と空に溶け込む圧倒的開放感！絶景インフィニティプール＆ラグジュアリーリゾートホテル×ふるさと納税完全ガイド【2026年最新】熱海・沖縄恩納村・別府",
+    "description": "水面と水平線がシームレスに交わる非日常の楽園！相模灘を見渡す全長約25mの露天立ち湯インフィニティ「熱海後楽園ホテル（オーシャンスパ Fuua）」、ハワイの名門が恩納村に創り上げた象徴的オーキッドプール「ハレクラニ沖縄」、別府湾を一望する棚湯と幻想的な温泉プールアクアガーデン「別府温泉 杉乃井ホテル」。カバナで過ごす優雅なカクテルタイムやスパ体験を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-resort-infinity-pool-luxury-hotel-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -556,7 +571,9 @@ export default function FurusatoResortInfinityPoolStayPage() {
                 千葉県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-resort-infinity-pool-luxury-hotel-stay" />
+</div>
         </section>
 
       </main>

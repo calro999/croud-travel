@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -255,6 +256,7 @@ export default function KaminoyamaOnsenWinterFeature() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800 pb-20">
@@ -634,7 +636,9 @@ export default function KaminoyamaOnsenWinterFeature() {
               <span className="text-xs text-amber-300 font-semibold block mb-1">宮城・秋保温泉</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">仙台の奥座敷と仙台牛・名物せり鍋を満喫する老舗温泉宿</h3>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-yamagata-kaminoyama-onsen-hoshigaki-yamagata-beef-stay" />
+</div>
         </section>
 
       </main>

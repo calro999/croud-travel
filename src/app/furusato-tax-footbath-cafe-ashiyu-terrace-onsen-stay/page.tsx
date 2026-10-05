@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -27,6 +28,20 @@ export default function FurusatoFootbathCafeAshiyuStayPage() {
       { '@type': 'ListItem', position: 2, name: '旅行節約ハブ', item: baseUrl + '/travel-savings-guide' },
       { '@type': 'ListItem', position: 3, name: '足湯カフェ＆癒やしのベーカリーテラス名宿特集', item: baseUrl + '/furusato-tax-footbath-cafe-ashiyu-terrace-onsen-stay' },
     ],
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "清流のせせらぎと温もり足湯カフェ！ベーカリーテラス＆足湯散策リゾート温泉宿×ふるさと納税完全ガイド【2026年最新】伊豆吉奈・黒川温泉・上高地",
+    "description": "服を着たまま気軽に名湯の温もりと絶景を愉しむ！吉奈温泉の清流沿いに広がる名物足湯カフェ＆焼きたてベーカリー「東府や Resort＆Spa-Izu」、田の原川のせせらぎを望む足湯と大露天風呂仙人風呂「黒川温泉 やまびこ旅館」、北アルプスの絶景を仰ぐ樽風呂足湯と自家源泉かけ流し「上高地温泉ホテル」。美味しいスイーツやパンとともに癒やされる特別な休日を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-footbath-cafe-ashiyu-terrace-onsen-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -556,7 +571,9 @@ export default function FurusatoFootbathCafeAshiyuStayPage() {
                 群馬県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-footbath-cafe-ashiyu-terrace-onsen-stay" />
+</div>
         </section>
 
       </main>

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -67,6 +68,28 @@ const HOTEL_DATA = {
 };
 
 export default function FeatureArticlePage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "寸又峡・夢の吊橋のエメラルド湖面紅葉＆美女づくりの湯！秘境寸又峡温泉×ふるさと納税完全ガイド【2026年最新秋旅】静岡",
+    "description": "11月上旬〜下旬にエメラルドグリーンのチンダル湖と紅葉が奇跡のコントラストを描く「静岡・寸又峡 夢の吊橋」。南アルプスの山懐に抱かれた秘湯「寸又峡温泉 湯屋飛龍の宿」「光山荘」「土筆旅館」で肌がとろけるような重曹泉「美女づくりの湯」と南アルプス鹿肉ジビエ・川魚料理を堪能。ふるさと納税で実質2,000円。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-sumatakyo-yumenotsuribashi-autumn-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "寸又峡・夢の吊橋のエメラルド湖面紅葉＆美女づくりの湯！秘境寸又峡温泉×ふるさと納税完全ガイド【2026年最新秋旅】静岡", "item": "https://croud-travel.pages.dev/furusato-tax-sumatakyo-yumenotsuribashi-autumn-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -520,7 +543,9 @@ export default function FeatureArticlePage() {
                 香川県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-sumatakyo-yumenotsuribashi-autumn-stay" />
+</div>
         </section>
 
       </main>

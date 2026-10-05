@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -113,8 +114,32 @@ export default function Page() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三大美港＆世界遺産富士山と夜景パノラマ・ウォーターフロント宿×ふるさと納税完全ガイド【2026年最新】清水港・長崎港・神戸港",
+    "description": "海と都市が織りなす絶景美港！静岡「清水港」霊峰富士と駿河湾を望む風景美術館日本平ホテル、長崎「長崎港」世界新三大夜景のすり鉢状パノラマとホテルニュー長崎、兵庫「神戸港」開港150年のハイカラ文化と全室バルコニー神戸メリケンパークオリエンタルホテル。日本三大美港の汽笛とライトアップに包まれる上質ステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-great-beautiful-ports-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "日本三大美港＆世界遺産富士山と夜景パノラマ・ウォーターフロント宿×ふるさと納税完全ガイド【2026年最新】清水港・長崎港・神戸港", "item": "https://croud-travel.pages.dev/furusato-tax-three-great-beautiful-ports-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずリスト */}
       <nav className="bg-white border-b border-slate-200 py-3 px-4 text-xs text-slate-500">
         <div className="max-w-5xl mx-auto flex items-center space-x-2">
@@ -533,6 +558,8 @@ export default function Page() {
       <footer className="bg-slate-950 text-slate-400 py-8 px-4 text-center text-xs border-t border-slate-800">
         <p>© 2026 トラベルポータル All Rights Reserved. 掲載情報は最新の楽天トラベル公式APIに基づきます。</p>
       </footer>
-    </div>
+    
+      <HubRelatedPosts currentSlug="furusato-tax-three-great-beautiful-ports-stay" />
+</div>
   );
 }

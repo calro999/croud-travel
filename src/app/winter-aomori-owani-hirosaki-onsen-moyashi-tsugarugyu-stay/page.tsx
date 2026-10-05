@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -350,6 +351,7 @@ export default function AomoriOwaniHirosakiWinterPage() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-900 leading-relaxed font-sans">
@@ -706,7 +708,9 @@ export default function AomoriOwaniHirosakiWinterPage() {
               <span className="text-cyan-700 font-bold block text-[10px]">岩手・花巻温泉郷</span>
               <p className="font-bold text-stone-800 line-clamp-2">名湯台温泉・大沢温泉の雪見風呂と極上前沢牛すき焼きの贅沢</p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-aomori-owani-hirosaki-onsen-moyashi-tsugarugyu-stay" />
+</div>
         </section>
 
       </main>

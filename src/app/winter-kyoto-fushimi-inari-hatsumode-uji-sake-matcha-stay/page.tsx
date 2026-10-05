@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -191,6 +192,28 @@ export default function KyotoFushimiPage() {
           }
         }))
       }
+    ]
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【11・12・1月京都伏見宇治】伏見稲荷大社新春千本鳥居初詣＆伏見名水寒仕込み新酒！冬の平等院鳳凰堂と京鴨鍋に寛ぐ厳選宿5選",
+    "description": "冬の京都南部（伏見・宇治）は、全国3万社を数える稲荷神社の総本宮「伏見稲荷大社」の朱塗り千本鳥居が冬の青空に鮮やかに映え、新春初詣の祈りに包まれる特別な季節。伏見名水「伏水」が育む老舗酒蔵群では11月から1月にかけて新酒の寒仕込みが最盛期を迎え、搾りたての原酒や温かい酒粕鍋の芳醇な香りが漂います。白雪をまとった世界遺産「平等院鳳凰堂」の優美な佇まい、冬の宇治茶や滋味豊かな京鴨鍋・京会席に舌鼓を打ち、静寂の古都の隠れ家宿で寛ぐ大人の冬旅。楽天APIから最新取得した信頼の名宿5選を徹底特集します。",
+    "url": "https://croud-travel.pages.dev/winter-kyoto-fushimi-inari-hatsumode-uji-sake-matcha-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【11・12・1月京都伏見宇治】伏見稲荷大社新春千本鳥居初詣＆伏見名水寒仕込み新酒！冬の平等院鳳凰堂と京鴨鍋に寛ぐ厳選宿5選", "item": "https://croud-travel.pages.dev/winter-kyoto-fushimi-inari-hatsumode-uji-sake-matcha-stay/" }
     ]
   };
 
@@ -551,7 +574,9 @@ export default function KyotoFushimiPage() {
               <span className="font-bold text-slate-900 mb-1">【全国】冬の厳選温泉＆旬グルメ特集一覧へ</span>
               <span className="text-xs text-slate-500">11月・12月・1月に訪れたい日本各地の名宿・絶景旅ガイド</span>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-kyoto-fushimi-inari-hatsumode-uji-sake-matcha-stay" />
+</div>
         </section>
       </main>
     </article>

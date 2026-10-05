@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -220,6 +221,7 @@ export default function WinterNaganoKakeyuPage() {
       }
     ]
   };
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-stone-50 via-indigo-50/20 to-stone-50 text-stone-800 antialiased">
@@ -567,7 +569,9 @@ export default function WinterNaganoKakeyuPage() {
                 豪雪地帯に湧く熱々の硫黄泉と名物野沢菜新漬け、信州牛すき焼きの冬旅。
               </p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-nagano-kakeyu-onsen-toji-soba-shinshugyu-stay" />
+</div>
         </section>
 
       </main>

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -257,6 +258,7 @@ export default function SagaTaraTakezakiWinterPage() {
     "a": "太良町から祐徳稲荷神社（鹿島市）までは国道207号線経由で車で約20分、祐徳稲荷から嬉野温泉までは県道または国道498号線経由で約25分と、半日〜1日でスムーズに周遊できるコンパクトなドライブコースです。沿岸部の国道は冬でも積雪することは極めて稀ですが、嬉野温泉から山越えをするルートでは強い寒波が来た早朝に路面凍結の注意が必要です。公共交通機関の場合は、JR西九州新幹線の嬉野温泉駅やJR長崎本線の肥前鹿島駅・多良駅を拠点に、路線バスやタクシーを組み合わせて巡ることができます。"
   }
 ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-cyan-100 selection:text-cyan-900 pb-20">
@@ -704,7 +706,9 @@ export default function SagaTaraTakezakiWinterPage() {
               </div>
               <span className="text-xs text-amber-300 mt-2 block font-medium">全特集をチェック ➔</span>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-saga-tara-takezaki-crab-yutoku-inari-ureshino-stay" />
+</div>
         </section>
 
       </main>

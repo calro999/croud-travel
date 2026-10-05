@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -16,6 +17,28 @@ export const metadata: Metadata = {
 
 export default function Page() {
   const secData = (seasonalData as any)['japan-classic-hotel-association-heritage-stay'] || {};
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本クラシックホテルの会加盟名門宿完全ガイド【明治・大正の薫りと登録有形文化財】 | クラウドトラベル",
+    "description": "日光金谷ホテル、富士屋ホテル、奈良ホテルなど日本クラシックホテルの会に加盟する名門建築宿を特集。歴代のVIPや文豪が愛した至高のホスピタリティと往時の美意識を巡る特別な宿泊体験。",
+    "url": "https://croud-travel.pages.dev/japan-classic-hotel-association-heritage-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "日本クラシックホテルの会加盟名門宿完全ガイド【明治・大正の薫りと登録有形文化財】 | クラウドトラベル", "item": "https://croud-travel.pages.dev/japan-classic-hotel-association-heritage-stay/" }
+    ]
+  };
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
@@ -486,7 +509,9 @@ export default function Page() {
                 愛媛県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="japan-classic-hotel-association-heritage-stay" />
+</div>
         </section>
 
       </main>

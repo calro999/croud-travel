@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -255,6 +256,7 @@ export default function AsamushiOnsenWinterFeature() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800 pb-20">
@@ -634,7 +636,9 @@ export default function AsamushiOnsenWinterFeature() {
               <span className="text-xs text-blue-300 font-semibold block mb-1">特集一覧</span>
               <h3 className="text-sm font-bold group-hover:text-blue-200 transition">全国の厳選温泉・旬旅特集まとめを見る</h3>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-aomori-asamushi-onsen-mutsu-bay-maguro-stay" />
+</div>
         </section>
 
       </main>

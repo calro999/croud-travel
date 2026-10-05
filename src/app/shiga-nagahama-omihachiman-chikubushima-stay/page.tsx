@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -16,8 +17,32 @@ export const metadata: Metadata = {
 };
 
 export default function Page() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【滋賀・長浜＆近江八幡】黒壁スクエア・竹生島クルーズ＆八幡堀・近江牛宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "明治の洋館とガラス工芸の街「長浜黒壁スクエア」、琵琶湖に浮かぶ日本三大弁財天の聖地「竹生島（宝厳寺・都久夫須麻神社）」クルーズ、豊臣秀次が開いた近江商人の城下町「近江八幡水郷めぐり・八幡堀」、日本三大和牛「近江牛」のすき焼き宿を徹底解説。",
+    "url": "https://croud-travel.pages.dev/shiga-nagahama-omihachiman-chikubushima-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【滋賀・長浜＆近江八幡】黒壁スクエア・竹生島クルーズ＆八幡堀・近江牛宿 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/shiga-nagahama-omihachiman-chikubushima-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-stone-950 text-stone-100">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローヘッダー */}
       <div className="relative py-20 px-4 sm:px-6 lg:px-8 bg-gradient-to-b from-stone-900 via-stone-950 to-stone-950 border-b border-stone-800">
         <div className="max-w-5xl mx-auto text-center">
@@ -889,6 +914,8 @@ export default function Page() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="shiga-nagahama-omihachiman-chikubushima-stay" />
+</div>
   );
 }

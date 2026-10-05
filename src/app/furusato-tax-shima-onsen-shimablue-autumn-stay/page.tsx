@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -67,6 +68,28 @@ const HOTEL_DATA = {
 };
 
 export default function FeatureArticlePage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "四万温泉・奥四万湖の奇跡の四万ブルー紅葉＆千と千尋の木造宿！四万川渓谷露天×ふるさと納税完全ガイド【2026年最新秋旅】群馬",
+    "description": "10月下旬〜11月上旬にコバルトブルーの湖面と紅葉が神秘のコントラストを描く名所「群馬・四万温泉 奥四万湖」。千と千尋の神隠しのモデルとされる歴史的木造宿や四万川沿いの足湯散策、四万（よんまん）の病を癒すと伝わる名湯「寿屋旅館」「あやめや旅館」「料理旅館くれない」で渓谷露天風呂と上州牛・川魚会席を堪能。ふるさと納税で実質2,000円。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-shima-onsen-shimablue-autumn-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "四万温泉・奥四万湖の奇跡の四万ブルー紅葉＆千と千尋の木造宿！四万川渓谷露天×ふるさと納税完全ガイド【2026年最新秋旅】群馬", "item": "https://croud-travel.pages.dev/furusato-tax-shima-onsen-shimablue-autumn-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -520,7 +543,9 @@ export default function FeatureArticlePage() {
                 岡山県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-shima-onsen-shimablue-autumn-stay" />
+</div>
         </section>
 
       </main>

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import type { Metadata } from 'next';
@@ -225,6 +226,7 @@ export default function YamagataSakataTsuruokaPage() {
       }
     ]
   };
+
 
   return (
     <div className="min-h-screen bg-stone-50 text-stone-800">
@@ -549,6 +551,8 @@ export default function YamagataSakataTsuruokaPage() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="winter-yamagata-sakata-tsuruoka-hagurosan-kandara-stay" />
+</div>
   );
 }

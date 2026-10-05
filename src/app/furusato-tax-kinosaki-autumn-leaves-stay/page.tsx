@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -67,6 +68,28 @@ const HOTEL_DATA = {
 };
 
 export default function FeatureArticlePage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "城崎温泉の大谿川柳並木紅葉＆七つの外湯めぐり！但馬牛・松葉ガニ宿×ふるさと納税完全ガイド【2026年最新秋旅】兵庫",
+    "description": "10月〜11月に情緒あふれる太鼓橋と柳並木が秋めく関西屈指の温泉街「城崎温泉」。浴衣に下駄を鳴らして巡る開運七つの外湯と、風情ある街並みに佇む「つちや旅館」「山しろや旅館」「みつわ旅館」で日本最高峰のブランド牛・但馬牛や11月解禁の松葉ガニを堪能。ふるさと納税トラベルクーポンで実質2,000円。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-kinosaki-autumn-leaves-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "城崎温泉の大谿川柳並木紅葉＆七つの外湯めぐり！但馬牛・松葉ガニ宿×ふるさと納税完全ガイド【2026年最新秋旅】兵庫", "item": "https://croud-travel.pages.dev/furusato-tax-kinosaki-autumn-leaves-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -520,7 +543,9 @@ export default function FeatureArticlePage() {
                 兵庫県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-kinosaki-autumn-leaves-stay" />
+</div>
         </section>
 
       </main>

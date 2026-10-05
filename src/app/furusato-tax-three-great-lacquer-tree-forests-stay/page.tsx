@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -27,6 +28,20 @@ export default function FurusatoRound65ArticlePage() {
       { '@type': 'ListItem', position: 2, name: '旅行節約ハブ', item: baseUrl + '/travel-savings-guide' },
       { '@type': 'ListItem', position: 3, name: '日本三大漆原木美林・うるしの森と文化リトリート特集', item: baseUrl + '/furusato-tax-three-great-lacquer-tree-forests-stay' },
     ],
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三大漆原木美林＆うるしの森トレッキングと漆器ギャラリー名旅館×ふるさと納税完全ガイド【2026年最新】浄法寺・会津・丹波",
+    "description": "国宝や世界遺産の修復を支える奇跡の天然樹脂「日本三大漆の産地・うるしの森」（岩手二戸・浄法寺漆、福島西会津・会津漆林、京都福知山・丹波漆）。樹齢十数年の木から一滴ずつ採取される漆掻き（うるしかき）の聖地を巡り、新緑と紅葉の美林散策と温泉美食。楽天ふるさと納税トラベルクーポンで実質2,000円負担で泊まる極上の自然・文化リトリート完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-great-lacquer-tree-forests-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -538,7 +553,9 @@ export default function FurusatoRound65ArticlePage() {
                 茨城県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-three-great-lacquer-tree-forests-stay" />
+</div>
         </section>
 
       </main>

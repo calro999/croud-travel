@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -16,8 +17,32 @@ export const metadata: Metadata = {
 };
 
 export default function Page() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【福島・裏磐梯＆五色沼】神秘の湖沼群・桧原湖カヌー＆磐梯高原リゾート宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "磐梯山噴火が創り出した奇跡の景観「五色沼湖沼群」のエメラルド・コバルトブルーの水面、裏磐梯最大の「桧原湖」カヌー・遊覧船、紅葉ドライブの名所「磐梯山ゴールドライン」、満天の星空と源泉かけ流し高原温泉リゾートを徹底解説。",
+    "url": "https://croud-travel.pages.dev/fukushima-urabandai-goshikinuma-lake-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【福島・裏磐梯＆五色沼】神秘の湖沼群・桧原湖カヌー＆磐梯高原リゾート宿 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/fukushima-urabandai-goshikinuma-lake-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-stone-950 text-stone-100">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローヘッダー */}
       <div className="relative py-20 px-4 sm:px-6 lg:px-8 bg-gradient-to-b from-stone-900 via-stone-950 to-stone-950 border-b border-stone-800">
         <div className="max-w-5xl mx-auto text-center">
@@ -797,6 +822,8 @@ export default function Page() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="fukushima-urabandai-goshikinuma-lake-stay" />
+</div>
   );
 }

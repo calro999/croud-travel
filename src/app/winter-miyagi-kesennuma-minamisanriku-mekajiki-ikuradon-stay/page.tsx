@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -258,6 +259,7 @@ export default function MiyagiKesennumaMinamisanrikuWinterPage() {
     "a": "三陸沿岸部は東北地方の中では比較的温暖で、雪が降る日は山形や秋田などの日本海側と比べて大幅に少なく、積雪も年数回程度です。ただし、真冬の太平洋からの冷たい海風「やませ」や朝晩の冷え込みにより、気温は氷点下まで下がります。特に日陰や橋の上、トンネル出入口などでは路面が凍結することがあるため、12月〜1月に車で訪れる場合は必ずスタッドレスタイヤを装着してください。三陸沿岸道路（復興道路）は仙台方面から無料で直結しておりアクセスは非常に快適です。"
   }
 ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-cyan-100 selection:text-cyan-900 pb-20">
@@ -699,7 +701,9 @@ export default function MiyagiKesennumaMinamisanrikuWinterPage() {
                 冬の有明海名物「内子たっぷり竹崎カニ」と祐徳稲荷神社初詣名宿
               </span>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-miyagi-kesennuma-minamisanriku-mekajiki-ikuradon-stay" />
+</div>
         </section>
       </main>
     </article>

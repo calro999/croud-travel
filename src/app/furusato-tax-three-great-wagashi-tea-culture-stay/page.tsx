@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import Link from 'next/link';
 import Image from 'next/image';
 import { Metadata } from 'next';
@@ -22,8 +23,32 @@ export const metadata: Metadata = {
 const OFFICIAL_FURUSATO_URL = 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F';
 
 export default function Page() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三大銘菓＆歴史茶の湯・老舗和菓子めぐり風雅宿×ふるさと納税完全ガイド【2026年最新】金沢長生殿・長岡越乃雪・松江山川",
+    "description": "大名茶人が愛した日本の甘味美学！石川金沢「長生殿」加賀百万石の優美な落雁とひがし茶屋街の料亭旅館、新潟長岡「越乃雪」越後長岡藩御用達の淡雪菓子と蓬平温泉、島根松江「山川」不昧公の風流落雁と宍道湖・玉造温泉。茶の湯文化が息づく城下町の名宿を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-great-wagashi-tea-culture-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "日本三大銘菓＆歴史茶の湯・老舗和菓子めぐり風雅宿×ふるさと納税完全ガイド【2026年最新】金沢長生殿・長岡越乃雪・松江山川", "item": "https://croud-travel.pages.dev/furusato-tax-three-great-wagashi-tea-culture-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* Hero Header */}
       <header className="relative bg-gradient-to-br from-slate-900 via-indigo-950 to-blue-900 text-white py-16 px-4 sm:px-6 lg:px-8 shadow-xl">
         <div className="max-w-5xl mx-auto">
@@ -794,6 +819,8 @@ export default function Page() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="furusato-tax-three-great-wagashi-tea-culture-stay" />
+</div>
   );
 }

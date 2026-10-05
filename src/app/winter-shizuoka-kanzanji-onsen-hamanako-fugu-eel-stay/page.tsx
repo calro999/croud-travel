@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -221,6 +222,7 @@ export default function ShizuokaKanzanjiWinterFeature() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800 pb-20">
@@ -620,7 +622,9 @@ export default function ShizuokaKanzanjiWinterFeature() {
               <h3 className="font-bold text-white text-sm">焼津温泉・富士山一望と極上南まぐろ尽くしの宿</h3>
               <p className="text-slate-300 text-[11px] line-clamp-2">駿河湾越しに富士山を望む絶景と本場ミナミマグロの脂のり。</p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-shizuoka-kanzanji-onsen-hamanako-fugu-eel-stay" />
+</div>
         </section>
 
       </main>

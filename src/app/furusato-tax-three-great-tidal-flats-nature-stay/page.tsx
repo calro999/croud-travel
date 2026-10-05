@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -113,8 +114,32 @@ export default function Page() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三大干潟＆野鳥と海の満ち引きパノラマ・絶景海鮮シーサイド宿×ふるさと納税完全ガイド【2026年最新】有明海・諫早湾・曽根干潟",
+    "description": "最大6mの干満差が描く地球の鼓動！佐賀太良「有明海干潟」竹崎カニと絶景露天風呂の太良嶽温泉ホテル蟹御殿、長崎諫早「諫早湾干潟」ムツゴロウの楽園と雲仙温泉名湯雲仙いわき旅館、福岡北九州「曽根干潟」カブトガニ息づく瀬戸内海最大の干潟とプレミアホテル門司港。日本三大干潟（三大干潟湿地）の雄大な海景と海鮮グルメを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-great-tidal-flats-nature-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "日本三大干潟＆野鳥と海の満ち引きパノラマ・絶景海鮮シーサイド宿×ふるさと納税完全ガイド【2026年最新】有明海・諫早湾・曽根干潟", "item": "https://croud-travel.pages.dev/furusato-tax-three-great-tidal-flats-nature-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずリスト */}
       <nav className="bg-white border-b border-slate-200 py-3 px-4 text-xs text-slate-500">
         <div className="max-w-5xl mx-auto flex items-center space-x-2">
@@ -533,6 +558,8 @@ export default function Page() {
       <footer className="bg-slate-950 text-slate-400 py-8 px-4 text-center text-xs border-t border-slate-800">
         <p>© 2026 トラベルポータル All Rights Reserved. 掲載情報は最新の楽天トラベル公式APIに基づきます。</p>
       </footer>
-    </div>
+    
+      <HubRelatedPosts currentSlug="furusato-tax-three-great-tidal-flats-nature-stay" />
+</div>
   );
 }

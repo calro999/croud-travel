@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -109,6 +110,7 @@ export default function FeaturePage() {
               features: ["新しくレストラン棟が完成、ロビーもリニューアルして温泉露天風呂＆大浴場とともに更に快適に！", "北安曇郡白馬村北城5470-1", "楽天アワード受賞歴"]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-stone-50 via-white to-stone-50 text-stone-800">
@@ -663,7 +665,9 @@ export default function FeaturePage() {
                 香川県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-hakuba-snow-resort-ski-stay" />
+</div>
         </section>
 
       </main>

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -56,8 +57,32 @@ export default function MicroTouristHubPage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【岐阜・下呂温泉】日本三名泉・美肌の湯＆飛騨牛トマト丼・温泉街湯めぐり 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "日本三名泉・岐阜下呂温泉エリア完全特化！草津・有馬と並ぶpH9.2の「つるつる美肌湯」、湯めぐり手形での名旅館外湯めぐり、飛騨川の噴泉池、名物飛騨牛トマト丼・温玉ソフトと飛騨牛朴葉味噌会席宿を徹底解説。",
+    "url": "https://croud-travel.pages.dev/gifu-gero-onsen-heritage-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【岐阜・下呂温泉】日本三名泉・美肌の湯＆飛騨牛トマト丼・温泉街湯めぐり 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/gifu-gero-onsen-heritage-stay/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-stone-900 via-rose-950 to-amber-950 text-white p-8 md:p-14 shadow-xl border border-white/10">
         <div className="max-w-3xl space-y-4">
@@ -203,6 +228,8 @@ export default function MicroTouristHubPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="gifu-gero-onsen-heritage-stay" />
+</div>
   );
 }

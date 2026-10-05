@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -131,6 +132,28 @@ export default function DisneyTripPackingRegretsWorst5Page() {
       ]
     }
   ];
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【ディズニー旅行で後悔したことワースト5】スマホ電池切れ・開園待ち寒暖差・靴擦れで地獄を見たリアル失敗談",
+    "description": "東京ディズニーリゾートでありがちな失敗を徹底回避！公式アプリ連動で昼にスマホバッテリーが尽きる悲劇、開園待ちの強風極寒・極暑、新エリアDPA争奪戦の罠、モバイルバッテリーとクッションシート必須リスト。",
+    "url": "https://croud-travel.pages.dev/disney-trip-packing-regrets-worst5-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【ディズニー旅行で後悔したことワースト5】スマホ電池切れ・開園待ち寒暖差・靴擦れで地獄を見たリアル失敗談", "item": "https://croud-travel.pages.dev/disney-trip-packing-regrets-worst5-guide/" }
+    ]
+  };
 
   return (
     <main className="min-h-screen bg-[#fff5f5] text-stone-800 antialiased pb-20">
@@ -271,6 +294,8 @@ export default function DisneyTripPackingRegretsWorst5Page() {
                     key={hotel.hotelNo}
                     className="flex flex-col justify-between bg-white border-2 border-rose-200/90 rounded-3xl overflow-hidden shadow-sm hover:shadow-xl hover:border-rose-400 transition group"
                   >
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
                     <div>
                       {hotel.hotelImageUrl && (
                         <div className="h-48 overflow-hidden relative">
@@ -485,7 +510,9 @@ export default function DisneyTripPackingRegretsWorst5Page() {
                 福島県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="disney-trip-packing-regrets-worst5-guide" />
+</div>
         </section>
 
       </main>

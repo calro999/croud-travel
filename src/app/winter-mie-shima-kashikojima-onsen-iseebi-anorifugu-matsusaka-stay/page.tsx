@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -220,6 +221,7 @@ export default function WinterMieKashikojimaPage() {
       }
     ]
   };
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-stone-50 via-amber-50/20 to-stone-50 text-stone-800 antialiased">
@@ -645,7 +647,9 @@ export default function WinterMieKashikojimaPage() {
                 白銀の鈴鹿山脈の樹氷と開湯1300年の名湯、名物熱々僧兵鍋を堪能。
               </p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-mie-shima-kashikojima-onsen-iseebi-anorifugu-matsusaka-stay" />
+</div>
         </section>
 
       </main>

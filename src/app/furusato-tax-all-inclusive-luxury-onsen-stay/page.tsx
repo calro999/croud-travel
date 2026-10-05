@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -27,6 +28,20 @@ export default function FurusatoAllInclusiveLuxuryStayPage() {
       { '@type': 'ListItem', position: 2, name: '旅行節約ハブ', item: baseUrl + '/travel-savings-guide' },
       { '@type': 'ListItem', position: 3, name: 'オールインクルーシブ温泉名宿特集', item: baseUrl + '/furusato-tax-all-inclusive-luxury-onsen-stay' },
     ],
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "オールインクルーシブで財布を気にせず寛ぐ極上温泉宿×ふるさと納税完全ガイド【2026年最新】作並・箱根宮ノ下・磐梯熱海",
+    "description": "チェックインからチェックアウトまで追加料金ゼロ！生ビール・ワイン・地酒のフリーフローや湯上がりアイス、上質なサロンでのカフェタイムを心ゆくまで堪能。広瀬川の渓流露天風呂と暖炉ラウンジが魅力の仙台作並「ゆづくしSalon一の坊」、全室露天風呂付き離れで極上のプライベートステイを提供する「Nazuna箱根宮ノ下」、福島の銘酒と美肌湯に酔いしれる磐梯熱海「浅香荘」。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-all-inclusive-luxury-onsen-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -556,7 +571,9 @@ export default function FurusatoAllInclusiveLuxuryStayPage() {
                 香川県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-all-inclusive-luxury-onsen-stay" />
+</div>
         </section>
 
       </main>

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -100,6 +101,28 @@ export default function OkinawaRainyDayIndoorAquariumCraftGuidePage() {
       ]
     }
   ];
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【沖縄 雨の日の観光完全ガイド】美ら海水族館・DMMかりゆし・やちむん通り陶芸体験＆屋内プール付きホテル",
+    "description": "スコールや台風でも旅行を諦めない！世界最大級の大水槽「美ら海水族館」、映像美の「DMMかりゆし水族館」、壺屋やちむん通りシーサー作り、屋内温水プール完備の大型リゾートホテル徹底比較。",
+    "url": "https://croud-travel.pages.dev/okinawa-rainy-day-indoor-aquarium-craft-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【沖縄 雨の日の観光完全ガイド】美ら海水族館・DMMかりゆし・やちむん通り陶芸体験＆屋内プール付きホテル", "item": "https://croud-travel.pages.dev/okinawa-rainy-day-indoor-aquarium-craft-guide/" }
+    ]
+  };
 
   return (
     <main className="min-h-screen bg-cyan-950/20 text-slate-800 selection:bg-cyan-500 selection:text-white pb-24">
@@ -238,6 +261,8 @@ export default function OkinawaRainyDayIndoorAquariumCraftGuidePage() {
                     key={hotel.hotelNo}
                     className="flex flex-col justify-between bg-white border border-cyan-200/90 rounded-3xl overflow-hidden shadow-md hover:shadow-xl hover:border-cyan-400 transition group"
                   >
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
                     <div>
                       {hotel.hotelImageUrl && (
                         <div className="h-48 overflow-hidden relative">
@@ -473,7 +498,9 @@ export default function OkinawaRainyDayIndoorAquariumCraftGuidePage() {
                 岡山県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="okinawa-rainy-day-indoor-aquarium-craft-guide" />
+</div>
         </section>
 
       </main>

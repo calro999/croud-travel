@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -119,8 +120,32 @@ export default function FukuokaDepartureDaytripBusTourPage() {
     }
   ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【福岡・博多発 日帰りバスツアー】呼子活イカ・由布院温泉街散策・阿蘇カルデラ絶景の格安ツアー比較",
+    "description": "福岡・博多・天神発の日帰りバスツアー！佐賀呼子の透明な活きイカ会席、湯布院金鱗湖＆露天風呂入浴、熊本阿蘇のあか牛ランチなど、車なし・手ぶらで大満足できるおすすめ日帰りツアーまとめ。",
+    "url": "https://croud-travel.pages.dev/fukuoka-departure-daytrip-bus-tour-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【福岡・博多発 日帰りバスツアー】呼子活イカ・由布院温泉街散策・阿蘇カルデラ絶景の格安ツアー比較", "item": "https://croud-travel.pages.dev/fukuoka-departure-daytrip-bus-tour-guide/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-teal-50/25 text-slate-800 antialiased">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* 🌊 Hero Header - Teal Theme */}
       <header className="relative bg-gradient-to-br from-teal-950 via-teal-900 to-cyan-950 text-white overflow-hidden py-14 md:py-20 px-4 sm:px-6 lg:px-8 border-b border-teal-800/40">
         <div className="absolute inset-0 bg-[radial-gradient(circle_at_bottom_right,rgba(20,184,166,0.2),transparent_60%)] pointer-events-none" />
@@ -580,6 +605,8 @@ export default function FukuokaDepartureDaytripBusTourPage() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="fukuoka-departure-daytrip-bus-tour-guide" />
+</div>
   );
 }

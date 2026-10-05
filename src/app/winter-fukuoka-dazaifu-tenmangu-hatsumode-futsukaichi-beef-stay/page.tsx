@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -188,6 +189,28 @@ export default function FukuokaDazaifuFutsukaichiPage() {
         text: item.a
       }
     }))
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【11・12・1月福岡】学問の神様・太宰府天満宮の合格祈願＆新春200万人初詣と名物「梅ヶ枝餅」・万葉の古湯二日市温泉と博多和牛の名宿5選",
+    "description": "11月から1月、福岡・太宰府は本格的な受験シーズンの合格祈願と、新春三が日に200万人以上が訪れる日本屈指の初詣で最も熱気と神気に包まれる季節を迎えます。菅原道真公を祀る全国約1万2000社の総本宮「太宰府天満宮」では、屋根に緑が茂る美しい現代の仮殿や、道真公を慕って咲く御神木「飛梅（とびうめ）」が冬の境内を神聖に彩ります。参道で頬張る出来立て熱々の名物「梅ヶ枝餅」、万葉集に詠まれた開湯1300年の九州最古の名湯「二日市温泉」、そしてとろける旨味の「博多和牛」や名物水炊き。学業成就と開運を願う冬の厳選名宿5選をご紹介します。",
+    "url": "https://croud-travel.pages.dev/winter-fukuoka-dazaifu-tenmangu-hatsumode-futsukaichi-beef-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【11・12・1月福岡】学問の神様・太宰府天満宮の合格祈願＆新春200万人初詣と名物「梅ヶ枝餅」・万葉の古湯二日市温泉と博多和牛の名宿5選", "item": "https://croud-travel.pages.dev/winter-fukuoka-dazaifu-tenmangu-hatsumode-futsukaichi-beef-stay/" }
+    ]
   };
 
   return (
@@ -653,7 +676,9 @@ export default function FukuokaDazaifuFutsukaichiPage() {
                 新春の伊勢神宮初詣とおかげ横丁・伊勢海老＆松阪牛会席名宿
               </span>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-fukuoka-dazaifu-tenmangu-hatsumode-futsukaichi-beef-stay" />
+</div>
         </section>
       </main>
     </article>

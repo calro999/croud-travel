@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -56,8 +57,32 @@ export default function GourmetCuisineHubPage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【日本五大ブランド和牛の宿】松阪牛・神戸牛・米沢牛・近江牛・佐賀牛極上会席 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "日本最高峰のブランド黒毛和牛完全特化！松阪牛のすき焼き、神戸牛サーロイン鉄板焼き、米沢牛のしゃぶしゃぶ、近江牛の陶板焼き、佐賀牛ステーキと名門温泉旅館の贅沢会席プランを徹底解説。",
+    "url": "https://croud-travel.pages.dev/japan-top-brand-wagyu-beef-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【日本五大ブランド和牛の宿】松阪牛・神戸牛・米沢牛・近江牛・佐賀牛極上会席 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/japan-top-brand-wagyu-beef-stay/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-stone-900 via-rose-950 to-amber-950 text-white p-8 md:p-14 shadow-xl border border-white/10">
         <div className="max-w-3xl space-y-4">
@@ -203,6 +228,8 @@ export default function GourmetCuisineHubPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="japan-top-brand-wagyu-beef-stay" />
+</div>
   );
 }

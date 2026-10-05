@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -56,8 +57,32 @@ export default function StargazingHubPage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【プラネタリウム＆大画面シアタールーム完備宿】部屋ごもり・星空上映 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "お部屋の中が満天の星空に！客室プラネタリウム＆大画面プロジェクター完備ホテル完全特化！東京、大阪、京都、軽井沢、家庭用最高峰ホームスター設置ルーム、天井いっぱいの星座パノラマ、映画・星空鑑賞カップル＆ファミリー記念日ステイを徹底解説。",
+    "url": "https://croud-travel.pages.dev/planetarium-private-cinema-theater-room-hotel-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【プラネタリウム＆大画面シアタールーム完備宿】部屋ごもり・星空上映 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/planetarium-private-cinema-theater-room-hotel-stay/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-slate-950 via-indigo-950 to-purple-950 text-white p-8 md:p-14 shadow-xl border border-indigo-400/30">
         <div className="max-w-3xl space-y-4">
@@ -203,6 +228,8 @@ export default function StargazingHubPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="planetarium-private-cinema-theater-room-hotel-stay" />
+</div>
   );
 }

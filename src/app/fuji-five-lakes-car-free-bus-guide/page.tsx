@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -147,8 +148,32 @@ export default function FujiFiveLakesCarFreeBusGuidePage() {
     }
   ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【富士五湖・河口湖 車なし観光ガイド】周遊バス・富士急行で回る！逆さ富士・忍野八海・浅間神社モデルコース ｜ 日本全国・旅宿クラウド",
+    "description": "車なしでも富士五湖は満喫できる！河口湖周遊バス（レッドライン/グリーンライン）、富士山パノラマロープウェイ、新倉山浅間公園の絶景、河口湖駅徒歩圏＆送迎付きの温泉ホテルを徹底解説。",
+    "url": "https://croud-travel.pages.dev/fuji-five-lakes-car-free-bus-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【富士五湖・河口湖 車なし観光ガイド】周遊バス・富士急行で回る！逆さ富士・忍野八海・浅間神社モデルコース ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/fuji-five-lakes-car-free-bus-guide/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16 font-sans text-slate-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション（Teal & Lake Green Palette） */}
       <section className="relative rounded-3xl overflow-hidden bg-gradient-to-br from-teal-700 via-emerald-700 to-cyan-900 text-white p-8 md:p-14 shadow-2xl">
         <div className="absolute top-0 right-0 w-96 h-96 bg-emerald-400/20 rounded-full blur-3xl pointer-events-none" />
@@ -471,6 +496,8 @@ export default function FujiFiveLakesCarFreeBusGuidePage() {
           </Link>
         </div>
       </section>
-    </div>
+    
+      <HubRelatedPosts currentSlug="fuji-five-lakes-car-free-bus-guide" />
+</div>
   );
 }

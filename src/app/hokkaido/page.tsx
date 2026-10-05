@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import fs from "fs";
 import path from "path";
 import Link from "next/link";
@@ -50,8 +51,32 @@ function loadHokkaidoData(): Record<string, RakutenCategoryData> {
 export default function HokkaidoHubPage() {
   const hokkaidoData = loadHokkaidoData();
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【北海道旅行 完全計画ガイド 2026】2泊3日・3泊4日モデルコース＆札幌・小樽・函館・富良野・海鮮グルメ・絶景温泉宿 ｜ 旅宿クラウド",
+    "description": "北海道旅行の計画を完全サポート！札幌・小樽・函館・富良野の王道＆広域モデルコース、絶品海鮮丼＆朝食自慢ホテル、登別・定山渓温泉旅館、カップル・子連れファミリー向け宿までおすすめの宿泊プランまで完全網羅。",
+    "url": "https://croud-travel.pages.dev/hokkaido/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【北海道旅行 完全計画ガイド 2026】2泊3日・3泊4日モデルコース＆札幌・小樽・函館・富良野・海鮮グルメ・絶景温泉宿 ｜ 旅宿クラウド", "item": "https://croud-travel.pages.dev/hokkaido/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       <nav aria-label="Breadcrumb" className="text-xs font-bold text-teal-900/60 flex items-center gap-2">
         <Link href="/" className="hover:text-teal-800 transition">ホーム</Link>
         <span>/</span>
@@ -169,6 +194,8 @@ export default function HokkaidoHubPage() {
           </div>
         </section>
       )}
-    </div>
+    
+      <HubRelatedPosts currentSlug="hokkaido" />
+</div>
   );
 }

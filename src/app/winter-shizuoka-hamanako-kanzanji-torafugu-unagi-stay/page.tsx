@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -257,6 +258,7 @@ export default function ShizuokaHamanakoKanzanjiWinterPage() {
     "a": "東海道新幹線を利用する場合、東京駅から浜松駅まで「ひかり」で約1時間15分、名古屋駅からは約30分、新大阪駅からは約1時間15分と非常に好アクセスです。浜松駅北口バスターミナルからは遠鉄バスで舘山寺温泉まで約45分。車の場合は、東名高速道路「舘山寺スマートIC（ETC専用）」が直結しており、ICから各宿まで約5分で到着できます。冬の浜名湖は雪はほとんど降りませんが、「遠州のからっ風」と呼ばれる強くて冷たい北西の季節風が吹くため、体感温度は低くなります。風を通さない防風ダウンジャケットやマフラーをご用意ください。"
   }
 ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-amber-100 selection:text-amber-900 pb-20">
@@ -645,7 +647,9 @@ export default function ShizuokaHamanakoKanzanjiWinterPage() {
               <span className="text-amber-700 font-bold block text-[10px]">静岡・熱海温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">冬の熱海海上花火大会と金目鯛煮付け・相模湾を一望する老舗温泉宿</p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-shizuoka-hamanako-kanzanji-torafugu-unagi-stay" />
+</div>
         </section>
 
       </main>

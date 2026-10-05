@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -241,6 +242,7 @@ export default function MisasaCrabWinterPage() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-rose-700 selection:text-white">
@@ -752,7 +754,9 @@ export default function MisasaCrabWinterPage() {
               <span>全国の特集一覧を見る</span>
               <ChevronRight className="w-4 h-4" />
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-tottori-misasa-onsen-matsuba-crab-stay" />
+</div>
         </section>
 
       </main>

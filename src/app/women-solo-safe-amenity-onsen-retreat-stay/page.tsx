@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -56,8 +57,32 @@ export default function WomenSoloRetreatHubPage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【女性一人旅・安心ステイ＆ご褒美温泉宿】女性専用フロア＆Refa・美肌湯 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "気兼ねなく自分を癒やす極上ひとり旅！女性一人旅歓迎の安心温泉宿＆ホテル完全特化！女性専用フロア・カードキーセキュリティ、Refa（リファ）ドライヤー＆高級アメニティ完備、お部屋食・個室食事処、美肌の湯を徹底解説。",
+    "url": "https://croud-travel.pages.dev/women-solo-safe-amenity-onsen-retreat-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【女性一人旅・安心ステイ＆ご褒美温泉宿】女性専用フロア＆Refa・美肌湯 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/women-solo-safe-amenity-onsen-retreat-stay/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-rose-950 via-pink-950 to-stone-900 text-white p-8 md:p-14 shadow-xl border border-rose-400/20">
         <div className="max-w-3xl space-y-4">
@@ -203,6 +228,8 @@ export default function WomenSoloRetreatHubPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="women-solo-safe-amenity-onsen-retreat-stay" />
+</div>
   );
 }

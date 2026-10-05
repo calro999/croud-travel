@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -159,6 +160,28 @@ export default function TokyoStationEarlyMorningBreakfastPage() {
       note: "バス降車後すぐ歯磨きや着替えを行いたい場合は、八重洲地下街の有料パウダールームや駅直結ビルの洗面スペースが清潔でおすすめ。"
     }
   ];
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【東京駅 早朝6時・7時オープンの朝食カフェ＆コインロッカー】夜行バス到着後のリフレッシュ完全ガイド",
+    "description": "バスタ新宿や東京駅鍛冶橋駐車場に早朝到着した旅行者必見！朝6時台から開いている八重洲・丸の内の極上モーニング、グランスタの朝限定弁当、空いている早朝コインロッカー穴場と駅前朝風呂ホテル。",
+    "url": "https://croud-travel.pages.dev/tokyo-station-early-morning-breakfast-cafe-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【東京駅 早朝6時・7時オープンの朝食カフェ＆コインロッカー】夜行バス到着後のリフレッシュ完全ガイド", "item": "https://croud-travel.pages.dev/tokyo-station-early-morning-breakfast-cafe-guide/" }
+    ]
+  };
 
   return (
     <main className="min-h-screen bg-slate-950 text-slate-100 selection:bg-indigo-500 selection:text-white font-sans pb-24">
@@ -370,6 +393,8 @@ export default function TokyoStationEarlyMorningBreakfastPage() {
                     key={hotel.hotelNo}
                     className="bg-slate-900/90 border border-slate-800 hover:border-indigo-500/60 transition-all duration-300 rounded-3xl overflow-hidden flex flex-col justify-between shadow-xl"
                   >
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
                     <div>
                       {hotel.hotelImageUrl && (
                         <div className="relative h-48 w-full overflow-hidden bg-slate-800">
@@ -601,7 +626,9 @@ export default function TokyoStationEarlyMorningBreakfastPage() {
                 岐阜県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="tokyo-station-early-morning-breakfast-cafe-guide" />
+</div>
         </section>
 
       </main>

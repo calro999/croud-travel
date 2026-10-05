@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoTanbaShinshuChestnutMatsutakeStayPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "大粒の極上丹波栗＆芳醇な秋松茸！丹波篠山・信州小布施の秋の味覚プレミアム名旅館×ふるさと納税完全ガイド【2026年最新秋旅】 | 旅宿クラウド",
+    "description": "10月〜11月限定の最高峰グルメ！大粒で濃厚な甘みを誇る「丹波栗・小布施栗」の焼き栗＆栗おこわと、香り高い「秋の焼き松茸・ぼたん鍋」を本場で堪能。「料理旅館 たかさご」「丹波篠山 近又」「小布施温泉 あけびの湯」など老舗名宿を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-tanba-shinshu-autumn-chestnut-matsutake-gourmet-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "大粒の極上丹波栗＆芳醇な秋松茸！丹波篠山・信州小布施の秋の味覚プレミアム名旅館×ふるさと納税完全ガイド【2026年最新秋旅】 | 旅宿クラウド", "item": "https://croud-travel.pages.dev/furusato-tax-tanba-shinshu-autumn-chestnut-matsutake-gourmet-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -582,7 +605,9 @@ export default function FurusatoTanbaShinshuChestnutMatsutakeStayPage() {
                 佐賀県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-tanba-shinshu-autumn-chestnut-matsutake-gourmet-stay" />
+</div>
         </section>
 
       </main>

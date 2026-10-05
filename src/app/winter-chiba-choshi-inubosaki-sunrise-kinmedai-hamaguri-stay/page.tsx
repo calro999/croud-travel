@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -257,6 +258,7 @@ export default function ChibaChoshiInubosakiWinterPage() {
     "a": "元旦の犬吠埼周辺は初日の出を目当てに全国から数万人の参拝客が訪れ、未明から周辺道路で激しい交通渋滞と交通規制が発生します。車の場合は12月31日の日中に宿へチェックインしておくか、早めに駐車場を確保することが必須です。電車の場合はJR東日本の初日の出臨時特急（初日の出号）や銚子電鉄の終夜運転・臨時便を利用するとスムーズです。海辺は冬の太平洋からの強い北東風が吹きつけるため体感温度は氷点下近くまで下がります。ダウンコート、ニット帽、手袋、マフラー、使い捨てカイロなどの防寒対策を万全にして出かけましょう。"
   }
 ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-orange-100 selection:text-orange-900 pb-20">
@@ -666,7 +668,9 @@ export default function ChibaChoshiInubosakiWinterPage() {
               <span className="text-orange-700 font-bold block text-[10px]">東京・丸の内</span>
               <p className="font-bold text-stone-800 line-clamp-2">シャンパンゴールドの街並みイルミネーションと高級ホテルステイ</p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-chiba-choshi-inubosaki-sunrise-kinmedai-hamaguri-stay" />
+</div>
         </section>
 
       </main>

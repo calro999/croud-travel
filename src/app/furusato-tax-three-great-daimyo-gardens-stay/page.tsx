@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -113,8 +114,32 @@ export default function Page() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三大名園＆江戸大名庭園の四季美と城下町風雅宿×ふるさと納税完全ガイド【2026年最新】偕楽園・兼六園・後楽園",
+    "description": "大名文化の粋を集めた回遊式庭園の最高峰！茨城水戸「偕楽園」徳川斉昭公の梅林とホテル・ザ・ウエストヒルズ・水戸、石川金沢「兼六園」六勝を兼ね備える加賀百万石の雪吊りと金沢白鳥路ホテル山楽、岡山「後楽園」旭川と岡山城を借景にする岡山プラザホテル。日本三大名園の四季折々の庭園美と藩主ゆかりの郷土会席を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-great-daimyo-gardens-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "日本三大名園＆江戸大名庭園の四季美と城下町風雅宿×ふるさと納税完全ガイド【2026年最新】偕楽園・兼六園・後楽園", "item": "https://croud-travel.pages.dev/furusato-tax-three-great-daimyo-gardens-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずリスト */}
       <nav className="bg-white border-b border-slate-200 py-3 px-4 text-xs text-slate-500">
         <div className="max-w-5xl mx-auto flex items-center space-x-2">
@@ -533,6 +558,8 @@ export default function Page() {
       <footer className="bg-slate-950 text-slate-400 py-8 px-4 text-center text-xs border-t border-slate-800">
         <p>© 2026 トラベルポータル All Rights Reserved. 掲載情報は最新の楽天トラベル公式APIに基づきます。</p>
       </footer>
-    </div>
+    
+      <HubRelatedPosts currentSlug="furusato-tax-three-great-daimyo-gardens-stay" />
+</div>
   );
 }

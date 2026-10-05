@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -241,6 +242,7 @@ export default function IseshimaWinterPage() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-amber-600 selection:text-white">
@@ -770,7 +772,9 @@ export default function IseshimaWinterPage() {
               <span>全国の特集一覧を見る</span>
               <ChevronRight className="w-4 h-4" />
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-iseshima-ujibashi-sunrise-matoya-oyster-stay" />
+</div>
         </section>
 
       </main>

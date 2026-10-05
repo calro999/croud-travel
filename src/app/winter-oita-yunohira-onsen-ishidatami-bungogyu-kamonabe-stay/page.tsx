@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -350,6 +351,7 @@ export default function OitaYunohiraYufuWinterPage() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-900 leading-relaxed font-sans">
@@ -706,7 +708,9 @@ export default function OitaYunohiraYufuWinterPage() {
               <span className="text-amber-700 font-bold block text-[10px]">熊本・黒川温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">冬の風物詩「湯あかり」竹灯籠と渓流雪見露天風呂・肥後牛の贅沢</p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-oita-yunohira-onsen-ishidatami-bungogyu-kamonabe-stay" />
+</div>
         </section>
 
       </main>

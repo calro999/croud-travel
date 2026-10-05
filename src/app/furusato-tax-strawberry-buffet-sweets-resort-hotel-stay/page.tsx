@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -27,6 +28,20 @@ export default function FurusatoStrawberryBuffetSweetsStayPage() {
       { '@type': 'ListItem', position: 2, name: '旅行節約ハブ', item: baseUrl + '/travel-savings-guide' },
       { '@type': 'ListItem', position: 3, name: 'いちごスイーツビュッフェ名門ホテル特集', item: baseUrl + '/furusato-tax-strawberry-buffet-sweets-resort-hotel-stay' },
     ],
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "甘酸っぱい贅沢！いちごスイーツビュッフェ＆高級リゾートホテルステイ×ふるさと納税完全ガイド【2026年最新】那須・神戸・幕張",
+    "description": "春の訪れを告げる真っ赤な宝石！全国屈指のパティシエが腕を振るう豪華ストロベリービュッフェを名門ホテルで堪能。とちおとめ＆スカイベリーの食べ比べと那須高原バイキングが圧巻の「ホテルエピナール那須」、天然温泉スパと優雅なストロベリーアフタヌーンティー・スイーツフェアが人気の「神戸ベイシェラトン ホテル＆タワーズ」、スーパーあまおうショートケーキで名高いホテルニューオータニ直営「ホテルニューオータニ幕張」。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-strawberry-buffet-sweets-resort-hotel-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -556,7 +571,9 @@ export default function FurusatoStrawberryBuffetSweetsStayPage() {
                 宮城県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-strawberry-buffet-sweets-resort-hotel-stay" />
+</div>
         </section>
 
       </main>

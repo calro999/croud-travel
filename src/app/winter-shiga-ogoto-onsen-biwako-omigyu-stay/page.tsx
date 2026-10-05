@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -255,6 +256,7 @@ export default function ShigaOgotoWinterFeature() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800 pb-20">
@@ -637,7 +639,9 @@ export default function ShigaOgotoWinterFeature() {
               <span className="text-xs text-emerald-300 font-semibold block mb-1">全国冬の味覚特集</span>
               <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">冬に身体の芯から温まる全国の絶品鍋＆里山ジビエ温泉旅館ランキング</h3>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-shiga-ogoto-onsen-biwako-omigyu-stay" />
+</div>
         </section>
 
       </main>

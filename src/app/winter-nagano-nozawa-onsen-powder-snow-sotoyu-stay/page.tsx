@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -241,6 +242,7 @@ export default function NozawaWinterPage() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-teal-600 selection:text-white">
@@ -756,7 +758,9 @@ export default function NozawaWinterPage() {
               <span>全国の特集一覧を見る</span>
               <ChevronRight className="w-4 h-4" />
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay" />
+</div>
         </section>
 
       </main>

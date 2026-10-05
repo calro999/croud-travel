@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -144,8 +145,32 @@ export default function HakoneTripPackingRegretsPage() {
     },
   ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【箱根旅行で後悔したことワースト5】大涌谷ロープウェイ強風運休＆夕方カフェ難民！渋滞回避の知恵袋 ｜ 日本全国・旅宿クラウド",
+    "description": "箱根観光でありがちなトラブルを完全回避！強風によるロープウェイ運休時の代行バス、17時で全滅する飲食店トラップ、土日夕方の国道1号線大渋滞、小田急ロマンスカー満席対策と強羅温泉宿。",
+    "url": "https://croud-travel.pages.dev/hakone-trip-packing-regrets-worst5-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【箱根旅行で後悔したことワースト5】大涌谷ロープウェイ強風運休＆夕方カフェ難民！渋滞回避の知恵袋 ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/hakone-trip-packing-regrets-worst5-guide/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-amber-50/40 text-slate-800 antialiased selection:bg-orange-500 selection:text-white font-sans">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション（Amber/Orangeテーマ：箱根の温泉情緒と紅葉・夕暮れの暖色パレット） */}
       <header className="relative bg-gradient-to-br from-amber-900 via-orange-950 to-stone-900 text-white overflow-hidden pt-16 pb-20 px-4 sm:px-6 lg:px-8 border-b border-amber-800/40">
         <div className="absolute inset-0 bg-[radial-gradient(circle_at_bottom_left,rgba(245,158,11,0.2),transparent_50%)] pointer-events-none" />
@@ -623,6 +648,8 @@ export default function HakoneTripPackingRegretsPage() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="hakone-trip-packing-regrets-worst5-guide" />
+</div>
   );
 }

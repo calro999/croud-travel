@@ -1,4 +1,4 @@
-# 山代温泉 ゆのくに天祥のリアル宿泊記！温泉・客室・朝食バイキングの本音口コミ評判｜石川県
+# 山代温泉 ゆのくに天祥の宿泊ルポ＆見どころガイド｜石川県
 
 - URL: https://croud-travel.pages.dev/posts/yamashiro-yunokuni-tensho-guide/
 - 宿泊施設名: 山代温泉 ゆのくに天祥

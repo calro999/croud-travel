@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import type { Metadata } from 'next';
@@ -213,6 +214,7 @@ export default function SapporoJozankeiWinterPage() {
       }
     ]
   };
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800 antialiased selection:bg-cyan-500 selection:text-white pb-20">
@@ -618,7 +620,9 @@ export default function SapporoJozankeiWinterPage() {
               <span>奥入瀬渓流の氷瀑＆八甲田樹氷！酸ヶ湯温泉と青森雪見名宿</span>
               <span className="text-cyan-300">→</span>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-hokkaido-sapporo-odori-illumination-jozankei-stay" />
+</div>
         </section>
 
       </main>

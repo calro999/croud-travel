@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -257,6 +258,7 @@ export default function KochiMurotoDarumaWinterPage() {
     "a": "高知龍馬空港または高知市街から室戸岬へは、国道55号を南東へ一本道で走るシーサイドドライブ（所要時間約1時間45分〜2時間）。公共交通機関の場合は、ごめん・なはり線の終点「奈半利駅」から高知東部交通バスに乗り換えて約50分で室戸岬に到着します。海岸沿いは平坦で雪や路面凍結の心配はほぼ皆無（ノーマルタイヤで走行可能）ですが、カーブが多く大型トラックも通行するためスピードの出し過ぎには注意が必要です。途中の「道の駅キラメッセ室戸」や「北川村モネの庭」に立ち寄りながらのドライブが最適です。"
   }
 ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-rose-100 selection:text-rose-900 pb-20">
@@ -693,7 +695,9 @@ export default function KochiMurotoDarumaWinterPage() {
             >
               <span>冬の特集一覧へ戻る</span>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-kochi-muroto-daruma-sunrise-kinmedai-deepsea-stay" />
+</div>
         </section>
 
       </main>

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -109,6 +110,7 @@ export default function FeaturePage() {
               features: ["令和5年3月オープン☆川側特別室　宇奈月の山々と眼下に清流黒部川　貸切岩盤浴や貸切露天風呂も好評！", "黒部市宇奈月温泉1397-2", "楽天アワード受賞歴"]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-stone-50 via-white to-stone-50 text-stone-800">
@@ -435,7 +437,9 @@ export default function FeaturePage() {
                 福井県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="organic-forest-stream-plunge-sauna-stay" />
+</div>
         </section>
 
       </main>

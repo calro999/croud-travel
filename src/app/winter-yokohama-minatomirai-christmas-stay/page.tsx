@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -109,6 +110,7 @@ export default function FeaturePage() {
               features: ["横浜の喧騒を少し離れて、深呼吸させる場所。KOKOとともに、まだ知らない横浜の表情に出会ってください", "横浜市鶴見区鶴見中央4-29-1", "楽天アワード受賞歴"]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-stone-50 via-white to-stone-50 text-stone-800">
@@ -663,7 +665,9 @@ export default function FeaturePage() {
                 千葉県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-yokohama-minatomirai-christmas-stay" />
+</div>
         </section>
 
       </main>

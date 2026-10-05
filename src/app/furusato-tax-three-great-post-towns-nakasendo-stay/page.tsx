@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -112,8 +113,32 @@ export default function Page() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三大宿場町＆木曽路の出桁造り・江戸の面影残す街道名宿×ふるさと納税完全ガイド【2026年最新】妻籠宿・馬籠宿・奈良井宿",
+    "description": "タイムスリップしたかのような木曽路の町並み！長野木曽「妻籠宿」電線地中化で守られた日本初の重要伝統的建造物群保存地区とおん宿蔦屋、岐阜中津川「馬籠宿」坂道に沿って石畳が続く島崎藤村の故郷と天然温泉ホテル花更紗、長野塩尻「奈良井宿」奈良井千軒の壮麗な出桁造りと歴史の宿場町御宿伊勢屋。木曽檜の薫り、信州そば、木曽牛すき焼きを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-great-post-towns-nakasendo-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "日本三大宿場町＆木曽路の出桁造り・江戸の面影残す街道名宿×ふるさと納税完全ガイド【2026年最新】妻籠宿・馬籠宿・奈良井宿", "item": "https://croud-travel.pages.dev/furusato-tax-three-great-post-towns-nakasendo-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずリスト */}
       <nav className="bg-white border-b border-slate-200 py-3 px-4 text-xs text-slate-500">
         <div className="max-w-5xl mx-auto flex items-center space-x-2">
@@ -558,6 +583,8 @@ export default function Page() {
           <p>ふるさと納税クーポンの利用条件や最新の空室状況は楽天トラベル公式サイトをご確認ください。</p>
         </div>
       </footer>
-    </div>
+    
+      <HubRelatedPosts currentSlug="furusato-tax-three-great-post-towns-nakasendo-stay" />
+</div>
   );
 }

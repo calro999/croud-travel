@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -109,6 +110,7 @@ export default function FeaturePage() {
               features: ["新大浴場露天風呂＆テラス＆客室が誕生！日本宿TOP49・アワード8年連続受賞★ミシュラン３☆受賞", "嬉野市嬉野町岩屋川内甲379", "楽天アワード受賞歴"]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-stone-50 via-white to-stone-50 text-stone-800">
@@ -435,7 +437,9 @@ export default function FeaturePage() {
                 青森県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="spring-saga-imari-beef-takeo-onsen-stay" />
+</div>
         </section>
 
       </main>

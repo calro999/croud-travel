@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -351,6 +352,7 @@ export default function OitaHitaAmagaseWinterPage() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-900 leading-relaxed font-sans">
@@ -720,7 +722,9 @@ export default function OitaHitaAmagaseWinterPage() {
                 弱アルカリ性と硫黄泉のダブル美肌湯と、筑後川の初冬夕景・博多和牛を味わう温泉旅。
               </p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-oita-hita-amagase-onsen-mamedamachi-bungogyu-stay" />
+</div>
         </section>
 
       </main>

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -120,8 +121,32 @@ export default function OsakaDepartureDaytripBusTourPage() {
     }
   ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【大阪・梅田・難波発 日帰りバスツアーおすすめ】カニ食べ放題・有馬温泉・天橋立・淡路島の人気プラン比較",
+    "description": "大阪・梅田・難波発の日帰りバスツアー特集！日本海冬のカニ尽くし食べ放題、有馬温泉の太閤の湯＆神戸牛ランチ、淡路島うずしおクルーズ＆玉ねぎ詰め放題など、日帰りで満喫できる極上バスツアー料金＆予約ガイド。",
+    "url": "https://croud-travel.pages.dev/osaka-departure-daytrip-bus-tour-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【大阪・梅田・難波発 日帰りバスツアーおすすめ】カニ食べ放題・有馬温泉・天橋立・淡路島の人気プラン比較", "item": "https://croud-travel.pages.dev/osaka-departure-daytrip-bus-tour-guide/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-rose-50/30 text-slate-800 antialiased">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* 🌹 Hero Header - Rose Theme */}
       <header className="relative bg-gradient-to-br from-rose-950 via-rose-900 to-red-950 text-white overflow-hidden py-14 md:py-20 px-4 sm:px-6 lg:px-8 border-b border-rose-800/40">
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_bottom_left,rgba(244,63,94,0.18),transparent_60%)] pointer-events-none" />
@@ -582,6 +607,8 @@ export default function OsakaDepartureDaytripBusTourPage() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="osaka-departure-daytrip-bus-tour-guide" />
+</div>
   );
 }

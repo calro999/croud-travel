@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -56,8 +57,32 @@ export default function RailwayActivityHubPage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【絶景観光トロッコ列車＆オープン客車】黒部峡谷・嵯峨野・南阿蘇＆名湯 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "窓のない爽快オープンデッキで風を感じる！全国の人気観光トロッコ列車＆渓谷温泉宿完全特化！富山「黒部峡谷トロッコ電車」、京都嵐山「嵯峨野トロッコ列車」、熊本「南阿蘇鉄道ゆうすげ号」、宇奈月温泉・嵐山温泉宿を徹底解説。",
+    "url": "https://croud-travel.pages.dev/scenic-open-air-trolley-train-resort-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【絶景観光トロッコ列車＆オープン客車】黒部峡谷・嵯峨野・南阿蘇＆名湯 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/scenic-open-air-trolley-train-resort-stay/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-blue-950 via-indigo-950 to-stone-900 text-white p-8 md:p-14 shadow-xl border border-cyan-400/20">
         <div className="max-w-3xl space-y-4">
@@ -203,6 +228,8 @@ export default function RailwayActivityHubPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="scenic-open-air-trolley-train-resort-stay" />
+</div>
   );
 }

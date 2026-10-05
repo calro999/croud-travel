@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import Link from 'next/link';
 import type { Metadata } from 'next';
 import { 
@@ -255,6 +256,7 @@ export default function FukuiTsurugaWinterPage() {
       a: "敦賀は日本海側気候のため、12月中旬から1月にかけて雪が降る日が増えます。海沿いは積雪が比較的少ない日もありますが、気温が氷点下近くまで下がる夜間や早朝、三方五湖周辺の峠道では路面凍結（ブラックアイスバーン）が発生しやすくなります。車を利用する場合はスタッドレスタイヤの装着が必須です。また日本海からの冷たい季節風が強いため、防風・防水性のあるダウンジャケット、滑り止め付きの防水ブーツ、手袋やカイロをご用意ください。"
     }
   ];
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800 antialiased">
@@ -700,7 +702,9 @@ export default function FukuiTsurugaWinterPage() {
             >
               トップページへ戻る
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-fukui-tsuruga-kehi-jingu-mikata-goko-echizengani-wakasa-fugu-stay" />
+</div>
         </section>
 
       </main>

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -109,8 +110,32 @@ export default function KorankeiAutumnLeavesAccessPage() {
     }
   ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【香嵐渓 紅葉もみじまつり2026】4000本の絶景ライトアップ・大渋滞回避アクセス＆名古屋発日帰りバス ｜ 日本全国・旅宿クラウド",
+    "description": "東海随一の紅葉名所「香嵐渓」もみじまつり完全ガイド！巴川に映える4,000本のもみじライトアップ、名物五平餅＆鮎の塩焼き、渋滞を回避する早朝ルート＆名古屋駅発直行日帰りバスツアー比較。",
+    "url": "https://croud-travel.pages.dev/korankei-autumn-leaves-lightup-access-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【香嵐渓 紅葉もみじまつり2026】4000本の絶景ライトアップ・大渋滞回避アクセス＆名古屋発日帰りバス ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/korankei-autumn-leaves-lightup-access-guide/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-stone-950 text-stone-100 selection:bg-red-600 selection:text-white pb-20 space-y-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* 🍁 HERO: 燃え盛る紅葉と巴川の深紅グラデーション */}
       <header className="relative pt-12 pb-20 px-4 sm:px-6 lg:px-8 overflow-hidden bg-gradient-to-b from-stone-950 via-red-950/60 to-stone-950 border-b border-red-900/40">
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top,_var(--tw-gradient-stops))] from-red-600/20 via-orange-600/10 to-transparent pointer-events-none" />
@@ -556,6 +581,8 @@ export default function KorankeiAutumnLeavesAccessPage() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="korankei-autumn-leaves-lightup-access-guide" />
+</div>
   );
 }

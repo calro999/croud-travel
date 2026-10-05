@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -113,8 +114,32 @@ export default function Page() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三大そうめん＆手延べ極細麺の伝統技・名水と古都の湯宿×ふるさと納税完全ガイド【2026年最新】三輪・播州・小豆島",
+    "description": "糸のように細く強いコシ！日本の麺の原点！奈良桜井「三輪そうめん」手延べそうめん発祥の地の大和橿原シティホテル、兵庫たつの「播州手延そうめん揖保乃糸」清流揖保川と瀬戸内オーシャンビューHOTEL万葉岬、香川小豆島「小豆島そうめん」ごま油が香る400年の島伝統とアクアホテル小豆島リゾート。日本三大そうめんの麺道と郷土の恵みを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-great-somen-noodles-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "日本三大そうめん＆手延べ極細麺の伝統技・名水と古都の湯宿×ふるさと納税完全ガイド【2026年最新】三輪・播州・小豆島", "item": "https://croud-travel.pages.dev/furusato-tax-three-great-somen-noodles-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずリスト */}
       <nav className="bg-white border-b border-slate-200 py-3 px-4 text-xs text-slate-500">
         <div className="max-w-5xl mx-auto flex items-center space-x-2">
@@ -533,6 +558,8 @@ export default function Page() {
       <footer className="bg-slate-950 text-slate-400 py-8 px-4 text-center text-xs border-t border-slate-800">
         <p>© 2026 トラベルポータル All Rights Reserved. 掲載情報は最新の楽天トラベル公式APIに基づきます。</p>
       </footer>
-    </div>
+    
+      <HubRelatedPosts currentSlug="furusato-tax-three-great-somen-noodles-stay" />
+</div>
   );
 }

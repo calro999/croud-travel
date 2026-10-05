@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -222,6 +223,7 @@ export default function KyotoKifuneKuramaPage() {
     "a": "天狗伝説や源義経（牛若丸）修行の地として名高い「鞍馬寺」。冬の白銀に包まれた本殿金堂や、仁王門、雪の杉木立は厳かな霊気を感じさせます。叡山電鉄「鞍馬駅」前には巨大な天狗のモニュメントがあり、雪帽子をかぶった天狗の姿は冬の記念撮影スポットとして人気です。鞍馬寺から貴船神社へは「木の根道」を通る奥の院山越えルート（徒歩約1時間半）がありますが、冬期は積雪や凍結で通行止めや足元が危険になることがあります。冬の間は、鞍馬駅から叡山電鉄で一駅の貴船口駅へ移動し、バスまたは宿の送迎を利用して貴船へ向かうのが安全で確実です。"
   }
 ];
+
 
   return (
     <article className="min-h-screen bg-stone-50/50 pb-20 text-stone-800">
@@ -589,7 +591,9 @@ export default function KyotoKifuneKuramaPage() {
               <span className="text-rose-700 font-bold block text-[10px]">滋賀・おごと温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">比叡山麓の美肌名湯と琵琶湖ビュー・極上近江牛しゃぶしゃぶを堪能する名宿</p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-kyoto-kifune-kurama-snow-lightup-botannabe-stay" />
+</div>
         </section>
 
       </main>

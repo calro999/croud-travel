@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -188,6 +189,28 @@ export default function TochigiNikkoToshoguPage() {
         text: item.a
       }
     }))
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【11・12・1月日光】世界遺産・日光東照宮の静謐な冬参拝＆新春初詣と名物「日光湯波会席」・とちぎ和牛を堪能する名宿5選",
+    "description": "11月から1月、木々の葉が落ち清澄な大気に包まれる日光山内は、世界遺産・日光東照宮が最も神聖な静寂を纏う季節です。白銀の雪化粧に黄金と極彩色が際立つ国宝「陽明門」、静まり返る薬師堂に響く「鳴龍」の鈴音、徳川家康公を祀る奥宮への白銀杉並木の石段。新春には輪王寺や日光二荒山神社とともに数万人が訪れる新春初詣の聖地となります。寒さ深まる門前町で味わう名物「日光湯波会席」や極上の「とちぎ和牛」、身体の芯まで温もる日光温泉の雪見露天風呂を満喫できる厳選名宿5選を徹底紹介します。",
+    "url": "https://croud-travel.pages.dev/winter-tochigi-nikko-toshogu-hatsumode-yuba-onsen-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【11・12・1月日光】世界遺産・日光東照宮の静謐な冬参拝＆新春初詣と名物「日光湯波会席」・とちぎ和牛を堪能する名宿5選", "item": "https://croud-travel.pages.dev/winter-tochigi-nikko-toshogu-hatsumode-yuba-onsen-stay/" }
+    ]
   };
 
   return (
@@ -653,7 +676,9 @@ export default function TochigiNikkoToshoguPage() {
                 鶴岡八幡宮初詣と江の島「湘南の宝石」＆富士山夕景オーシャン名宿
               </span>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-tochigi-nikko-toshogu-hatsumode-yuba-onsen-stay" />
+</div>
         </section>
       </main>
     </article>

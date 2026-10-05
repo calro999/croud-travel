@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -16,8 +17,32 @@ export const metadata: Metadata = {
 };
 
 export default function Page() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【京都・天橋立＆伊根の舟屋】股のぞき・舟屋クルーズ＆冬の間人ガニ・名湯宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "日本三景「天橋立」の砂嘴を股の間からのぞく飛龍観・傘松公園、海抜ゼロメートルに建ち並ぶ二百三十軒の伝統的建築群「伊根の舟屋」遊覧クルーズ、冬の日本海の幻の最高峰「丹後間人ガニ（たいざがに）」と天橋立温泉を徹底解説。",
+    "url": "https://croud-travel.pages.dev/kyoto-amanohashidate-ine-funaya-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【京都・天橋立＆伊根の舟屋】股のぞき・舟屋クルーズ＆冬の間人ガニ・名湯宿 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/kyoto-amanohashidate-ine-funaya-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-stone-950 text-stone-100">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローヘッダー */}
       <div className="relative py-20 px-4 sm:px-6 lg:px-8 bg-gradient-to-b from-stone-900 via-stone-950 to-stone-950 border-b border-stone-800">
         <div className="max-w-5xl mx-auto text-center">
@@ -889,6 +914,8 @@ export default function Page() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="kyoto-amanohashidate-ine-funaya-stay" />
+</div>
   );
 }

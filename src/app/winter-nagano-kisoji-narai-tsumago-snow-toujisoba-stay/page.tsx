@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -257,6 +258,7 @@ export default function NaganoKisojiNaraiTsumagoWinterPage() {
     "a": "冬の木曽路では、宿場町の散策に加えて、木曽漆器の産地「木曽平沢」での漆器工房めぐり、江戸時代の関所の姿を今に残す国史跡「福島関所資料館」、エメラルドグリーンの渓流美を誇る「阿寺渓谷」、木曽御嶽山の勇壮な白銀パノラマを望む「開田高原」などがおすすめです。開田高原では日本在来馬である「木曽馬」との雪上ふれあい体験も楽しめます。散策後は街道沿いの甘味処で名物の五平餅（エゴマや胡桃のタレが香ばしい焼き餅）を囲炉裏端でいただくのが格別です。"
   }
 ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-orange-100 selection:text-orange-900 pb-20">
@@ -698,7 +700,9 @@ export default function NaganoKisojiNaraiTsumagoWinterPage() {
                 特集を見る →
               </span>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-nagano-kisoji-narai-tsumago-snow-toujisoba-stay" />
+</div>
         </section>
 
       </main>

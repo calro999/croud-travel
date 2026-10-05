@@ -1,4 +1,4 @@
-# 磐梯熱海温泉 ホテル山水のリアル宿泊記！温泉・客室・朝食バイキングの本音口コミ評判｜福島県
+# 磐梯熱海温泉 ホテル山水の宿泊ルポ＆見どころガイド｜福島県
 
 - URL: https://croud-travel.pages.dev/posts/bandaiatami-sansui-guide/
 - 宿泊施設名: 磐梯熱海温泉 ホテル山水

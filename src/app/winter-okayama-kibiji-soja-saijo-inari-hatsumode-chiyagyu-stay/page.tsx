@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import type { Metadata } from 'next';
@@ -254,6 +255,7 @@ export default function OkayamaKibijiWinterPage() {
       a: "【1日目】JR岡山駅に到着 → JR吉備線（桃太郎線）で吉備津駅へ（約15分） → 国宝「吉備津神社」で新春参拝＆398mの大廻廊を散策 → 車またはタクシーで日本三大稲荷「最上稲荷」へ移動し開運祈願＆門前町散策 → 岡山駅または総社・倉敷の宿にチェックイン → 温泉でリフレッシュ後、夕食に「幻の千屋牛」と冬の黄ニラ鍋・鰆の会席料理を堪能。【2日目】ホテルで岡山名物ばら寿司の朝食 → 吉備路の中心「備中国分寺」へ向かい五重塔と冬の田園風景を鑑賞 → 「作山古墳」など古代吉備の巨石遺構を見学 → 倉敷美観地区へ立ち寄り冬の白壁屋敷散策とお土産調達 → 岡山駅へ戻り帰路へ。"
     }
   ];
+
 
   return (
     <>
@@ -598,7 +600,9 @@ export default function OkayamaKibijiWinterPage() {
             </div>
           </section>
         </main>
-      </div>
+      
+      <HubRelatedPosts currentSlug="winter-okayama-kibiji-soja-saijo-inari-hatsumode-chiyagyu-stay" />
+</div>
     </>
   );
 }

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -56,8 +57,32 @@ export default function HistoryHeritageHubPage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【重要伝統的建造物群保存地区（重伝建）の町並み宿】角館・近江八幡・飛騨高山・美馬 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "日本の美しい原風景と匠の技が息づく町並み完全特化！みちのくの小京都「秋田・角館武家屋敷」、八幡堀と白壁土蔵「滋賀・近江八幡」、陣屋と出格子「岐阜・飛騨高山」、うだつの上がる町並み「徳島・美馬」、重伝建エリアの歴史的旅館・古民家宿を徹底解説。",
+    "url": "https://croud-travel.pages.dev/japan-traditional-townscape-preservation-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【重要伝統的建造物群保存地区（重伝建）の町並み宿】角館・近江八幡・飛騨高山・美馬 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/japan-traditional-townscape-preservation-stay/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-stone-900 via-rose-950 to-amber-950 text-white p-8 md:p-14 shadow-xl border border-white/10">
         <div className="max-w-3xl space-y-4">
@@ -203,6 +228,8 @@ export default function HistoryHeritageHubPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="japan-traditional-townscape-preservation-stay" />
+</div>
   );
 }

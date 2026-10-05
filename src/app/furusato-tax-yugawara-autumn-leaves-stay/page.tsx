@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FeatureArticlePage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "都心から70分！湯河原温泉・万葉公園の紅葉散策＆文豪が愛した名湯旅館×ふるさと納税完全ガイド【2026年最新秋旅】神奈川",
+    "description": "11月中旬〜12月上旬に見頃を迎える神奈川・湯河原温泉の紅葉！リニューアルした万葉公園「湯河原惣湯 Books and Retreat」のせせらぎ散策、夏目漱石や島崎藤村が逗留した老舗旅館「伊藤屋」「富士屋旅館」「ふきや」で弱食塩泉の極上美肌湯と相模湾の朝獲れ地魚会席を堪能。楽天ふるさと納税で実質2,000円。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-yugawara-autumn-leaves-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "都心から70分！湯河原温泉・万葉公園の紅葉散策＆文豪が愛した名湯旅館×ふるさと納税完全ガイド【2026年最新秋旅】神奈川", "item": "https://croud-travel.pages.dev/furusato-tax-yugawara-autumn-leaves-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -508,7 +531,9 @@ export default function FeatureArticlePage() {
                 滋賀県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-yugawara-autumn-leaves-stay" />
+</div>
         </section>
 
       </main>

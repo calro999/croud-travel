@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FeatureArticlePage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "11月6日解禁の本場・城崎温泉松葉ガニ＆七つの外湯めぐり！老舗旅館×ふるさと納税完全ガイド【2026年最新秋旅】兵庫",
+    "description": "11月6日に待ちに待ったカニ漁が解禁！関西屈指の温泉街「城崎温泉（きのさきおんせん）」。柳並木と太鼓橋が続く情緒あふれる街並みでの浴衣外湯めぐり、名門老舗宿「西村屋ホテル招月庭」「西村屋本館」「ときわ別館」で津居山港・柴山港水揚げの極上松葉ガニと但馬牛を堪能。楽天ふるさと納税で実質2,000円で泊まる冬先取りガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-kinosaki-matsuba-crab-autumn-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "11月6日解禁の本場・城崎温泉松葉ガニ＆七つの外湯めぐり！老舗旅館×ふるさと納税完全ガイド【2026年最新秋旅】兵庫", "item": "https://croud-travel.pages.dev/furusato-tax-kinosaki-matsuba-crab-autumn-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -508,7 +531,9 @@ export default function FeatureArticlePage() {
                 栃木県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-kinosaki-matsuba-crab-autumn-stay" />
+</div>
         </section>
 
       </main>

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FeatureArticlePage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "長門湯本温泉の音信川紅葉ライトアップ＆元乃隅神社！大谷山荘・玉仙閣×ふるさと納税完全ガイド【2026年最新秋旅】山口",
+    "description": "11月上旬〜11月下旬に美しく色づく山口県最古の温泉地「長門湯本温泉（ながとゆもとおんせん）」。音信川（おとずれがわ）沿いの竹林階段や飛び石の紅葉ライトアップ、元乃隅神社の絶景鳥居、名門旅館「大谷山荘」「玉仙閣」「山村別館」で本場下関のとらふぐや長州黒かしわを堪能。楽天ふるさと納税で実質2,000円。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-nagato-yumoto-autumn-leaves-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "長門湯本温泉の音信川紅葉ライトアップ＆元乃隅神社！大谷山荘・玉仙閣×ふるさと納税完全ガイド【2026年最新秋旅】山口", "item": "https://croud-travel.pages.dev/furusato-tax-nagato-yumoto-autumn-leaves-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -508,7 +531,9 @@ export default function FeatureArticlePage() {
                 徳島県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-nagato-yumoto-autumn-leaves-stay" />
+</div>
         </section>
 
       </main>

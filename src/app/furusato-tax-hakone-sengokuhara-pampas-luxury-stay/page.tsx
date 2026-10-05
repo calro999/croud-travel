@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -17,6 +18,28 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoTaxArticle() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【箱根仙石原温泉×ふるさと納税】黄金のすすき草原＆大涌谷美肌にごり湯！大人の高原リゾート完全ガイド｜きたの風茶寮・仙郷楼・BLISSTIA箱根仙石原",
+    "description": "秋の黄金のすすき草原と大自然に抱かれる箱根屈指の高原リゾート「仙石原温泉」を楽天ふるさと納税でお得に満喫！全室客室露天風呂と北海道×箱根の美食オーベルジュ「きたの風茶寮」、創業百五十年の老舗白濁にごり湯「仙郷楼」、全室スイート仕様のモダンホテル「BLISSTIA箱根仙石原」を徹底紹介。箱根町クーポン活用術を網羅。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-hakone-sengokuhara-pampas-luxury-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【箱根仙石原温泉×ふるさと納税】黄金のすすき草原＆大涌谷美肌にごり湯！大人の高原リゾート完全ガイド｜きたの風茶寮・仙郷楼・BLISSTIA箱根仙石原", "item": "https://croud-travel.pages.dev/furusato-tax-hakone-sengokuhara-pampas-luxury-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-50 text-stone-900 leading-relaxed font-sans">
       {/* ヒーローヘッダー */}
@@ -611,7 +634,9 @@ export default function FurusatoTaxArticle() {
                 愛媛県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-hakone-sengokuhara-pampas-luxury-stay" />
+</div>
         </section>
 
       </main>

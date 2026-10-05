@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -220,6 +221,7 @@ export default function WinterYamagataAtsumiPage() {
       }
     ]
   };
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-stone-50 via-slate-50/20 to-stone-50 text-stone-800 antialiased">
@@ -645,7 +647,9 @@ export default function WinterYamagataAtsumiPage() {
                 白銀のスノーモンスターと日本屈指の強酸性泉、山形牛すき焼きの極楽旅。
               </p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-yamagata-atsumi-onsen-kandara-shonaigyu-snow-stay" />
+</div>
         </section>
 
       </main>

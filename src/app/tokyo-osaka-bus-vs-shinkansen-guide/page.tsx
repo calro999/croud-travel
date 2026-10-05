@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -111,8 +112,32 @@ export default function HighwayBusArticlePage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【東京から大阪 安く行く方法】新幹線 vs 夜行バス徹底比較！差額2万円でUSJ・道頓堀1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+    "description": "東京から大阪へ安く行く方法！東海道新幹線（約14,920円）と夜行高速バス（約2,500円〜）の料金・時間を徹底比較。往復2万円以上浮く夜行便で早朝USJ開園待ち、道頓堀たこ焼きはしご酒、なんば・梅田の人気ホテルに泊まる1泊2日モデルコース。",
+    "url": "https://croud-travel.pages.dev/tokyo-osaka-bus-vs-shinkansen-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【東京から大阪 安く行く方法】新幹線 vs 夜行バス徹底比較！差額2万円でUSJ・道頓堀1泊2日モデルコース ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/tokyo-osaka-bus-vs-shinkansen-guide/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-sky-950 via-slate-900 to-indigo-950 text-white p-8 md:p-14 shadow-xl border border-white/10">
         <div className="max-w-3xl space-y-4">
@@ -422,6 +447,8 @@ export default function HighwayBusArticlePage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="tokyo-osaka-bus-vs-shinkansen-guide" />
+</div>
   );
 }

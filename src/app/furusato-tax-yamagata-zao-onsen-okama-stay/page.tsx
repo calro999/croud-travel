@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoZaoOnsenOkamaStayPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "エメラルドの火口湖「御釜」と冬の樹氷スノーモンスター！山形蔵王温泉の乳白色強酸性硫黄泉＆極上山形牛名門宿×ふるさと納税完全攻略ガイド【2026年最新】蔵王国際・四季のホテル・高見屋",
+    "description": "開湯千九百年を誇る東北屈指の名湯・山形蔵王温泉！神秘の火口湖「御釜」と大迫力のスノーモンスター（樹氷）。「蔵王国際ホテル」「蔵王四季のホテル」「深山荘 高見屋」を、山形県山形市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。丸太造り八右衛門の湯、乳白色のにごり湯露天風呂、極上山形牛会席を満喫。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-yamagata-zao-onsen-okama-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "エメラルドの火口湖「御釜」と冬の樹氷スノーモンスター！山形蔵王温泉の乳白色強酸性硫黄泉＆極上山形牛名門宿×ふるさと納税完全攻略ガイド【2026年最新】蔵王国際・四季のホテル・高見屋", "item": "https://croud-travel.pages.dev/furusato-tax-yamagata-zao-onsen-okama-stay/" }
+    ]
+  };
+
   return (
     <article className="max-w-5xl mx-auto px-4 py-8 text-gray-800 leading-relaxed font-sans">
       {/* パンくずリスト */}
@@ -346,7 +369,9 @@ export default function FurusatoZaoOnsenOkamaStayPage() {
           >
             ▸ 【日本三大和牛・神戸牛＆松阪牛×ふるさと納税】最高峰ステーキ名宿
           </Link>
-        </div>
+        
+      <HubRelatedPosts currentSlug="furusato-tax-yamagata-zao-onsen-okama-stay" />
+</div>
       </section>
     </article>
   );

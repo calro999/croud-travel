@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import Link from 'next/link';
 import type { Metadata } from 'next';
 import { 
@@ -255,6 +256,7 @@ export default function KagawaTakamatsuWinterPage() {
       a: "高松空港から田村神社へは空港リムジンバスまたはタクシーで約15分、塩江温泉へも車・タクシーで約20分と極めて近距離です。JR高松駅からは、ことでん琴平線で栗林公園駅（約5分）、一宮駅（田村神社の最寄り駅・徒歩約10分、高松駅から約15分）と電車での移動が非常にスムーズです。塩江温泉へはJR高松駅・ことでん瓦町駅から路線バス（塩江線）で約60分です。冬期でも平野部は積雪の心配がほとんどありませんが、塩江温泉などの山間部へ車で行く場合は念のため冬用タイヤ装着が安心です。"
     }
   ];
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800 antialiased">
@@ -680,7 +682,9 @@ export default function KagawaTakamatsuWinterPage() {
             >
               トップページへ戻る
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-kagawa-takamatsu-tamura-shrine-hatsumode-shionoe-onsen-olivegyu-stay" />
+</div>
         </section>
 
       </main>

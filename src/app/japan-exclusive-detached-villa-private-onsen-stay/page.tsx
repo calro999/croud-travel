@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -56,8 +57,32 @@ export default function LuxuryPremiumHubPage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【全室離れ・源泉かけ流し露天風呂付き隠れ家宿】大人の静寂＆名門温泉割烹 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "静寂とプライベートを極めた大人のための聖域！全室離れ・客室専用源泉かけ流し露天風呂付き名旅館完全特化！由布院・黒川温泉・箱根・伊豆・飛騨高山、誰にも会わずに部屋食と名湯を堪能する極上宿を徹底解説。",
+    "url": "https://croud-travel.pages.dev/japan-exclusive-detached-villa-private-onsen-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【全室離れ・源泉かけ流し露天風呂付き隠れ家宿】大人の静寂＆名門温泉割烹 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/japan-exclusive-detached-villa-private-onsen-stay/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-stone-950 via-amber-950 to-stone-900 text-white p-8 md:p-14 shadow-2xl border border-amber-400/20">
         <div className="max-w-3xl space-y-4">
@@ -203,6 +228,8 @@ export default function LuxuryPremiumHubPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="japan-exclusive-detached-villa-private-onsen-stay" />
+</div>
   );
 }

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -112,8 +113,32 @@ export default function Page() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三大峠＆雲海パノラマ・歴史街道の難所と高原温泉宿×ふるさと納税完全ガイド【2026年最新】碓氷峠・箱根峠・天城峠",
+    "description": "山脈を越える風と絶景パノラマを体感する日本の名峠ドライブ！長野・群馬「碓氷峠」めがね橋の煉瓦アーチと旧軽井沢ホテル音羽ノ森、神奈川・静岡「箱根峠」東海道随一の天下の険・芦ノ湖富士山ビュー龍宮殿、静岡伊豆「天城峠」川端康成伊豆の踊子の天城隧道と伊豆長岡温泉ホテル天坊。四季折々の峠道ドライブと高原フレンチ、名湯露天風呂を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-great-scenic-passes-panorama-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "日本三大峠＆雲海パノラマ・歴史街道の難所と高原温泉宿×ふるさと納税完全ガイド【2026年最新】碓氷峠・箱根峠・天城峠", "item": "https://croud-travel.pages.dev/furusato-tax-three-great-scenic-passes-panorama-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずリスト */}
       <nav className="bg-white border-b border-slate-200 py-3 px-4 text-xs text-slate-500">
         <div className="max-w-5xl mx-auto flex items-center space-x-2">
@@ -558,6 +583,8 @@ export default function Page() {
           <p>ふるさと納税クーポンの利用条件や最新の空室状況は楽天トラベル公式サイトをご確認ください。</p>
         </div>
       </footer>
-    </div>
+    
+      <HubRelatedPosts currentSlug="furusato-tax-three-great-scenic-passes-panorama-stay" />
+</div>
   );
 }

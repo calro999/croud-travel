@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import type { Metadata } from 'next';
@@ -254,6 +255,7 @@ export default function KagoshimaKirishimaWinterPage() {
       a: "【1日目】鹿児島空港に到着（レンタカー借受） → 国道223号を走り霧島へ（車約35分） → 国宝「霧島神宮」で新春初詣＆大杉（ご神木）に参拝 → 門前町の茶屋で名物「湯之寿（かるかん）」やお茶で一服 → 豪快な「丸尾滝」の冬の湯けむり景観を見学 → 丸尾温泉または硫黄谷温泉（霧島国際ホテルや霧島ホテル等）にチェックイン → 白濁の硫黄泉露天風呂で冷えた身体を温める → 夕食に本場「かごしま黒豚しゃぶしゃぶ会席」と芋焼酎を堪能。【2日目】朝の清々しい温泉街を散策 → 高千穂河原またはえびの高原へドライブし霧島連山の雪景色を展望 → 霧島神話の里公園で桜島パノラマを鑑賞 → 鹿児島空港でお土産（黒豚加工品、さつま揚げ、かるかん）を購入して帰路へ。"
     }
   ];
+
 
   return (
     <>
@@ -602,7 +604,9 @@ export default function KagoshimaKirishimaWinterPage() {
             </div>
           </section>
         </main>
-      </div>
+      
+      <HubRelatedPosts currentSlug="winter-kagoshima-kirishima-jingu-hatsumode-onsen-kurobuta-stay" />
+</div>
     </>
   );
 }

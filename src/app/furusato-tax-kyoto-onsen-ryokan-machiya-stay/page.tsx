@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoKyotoOnsenRyokanStayPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "渡月橋と竹林の小径を巡る！京都・嵐山温泉の名門旅館＆客室露天×ふるさと納税完全攻略ガイド【2026年最新】渡月亭・翠嵐・花伝抄",
+    "description": "世界遺産・天龍寺や渡月橋、嵯峨野の竹林に抱かれた京都随一の名勝・嵐山温泉！「京都 嵐山温泉 渡月亭」「翠嵐 ラグジュアリーコレクションホテル 京都」「京都 嵐山温泉 花伝抄」を、京都市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。伝統の京会席料理、保津川を望む天然温泉露天風呂、全館畳敷きの雅な和モダンステイを堪能。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-kyoto-onsen-ryokan-machiya-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "渡月橋と竹林の小径を巡る！京都・嵐山温泉の名門旅館＆客室露天×ふるさと納税完全攻略ガイド【2026年最新】渡月亭・翠嵐・花伝抄", "item": "https://croud-travel.pages.dev/furusato-tax-kyoto-onsen-ryokan-machiya-stay/" }
+    ]
+  };
+
   return (
     <article className="max-w-5xl mx-auto px-4 py-8 text-gray-800 leading-relaxed font-sans">
       {/* パンくずリスト */}
@@ -346,7 +369,9 @@ export default function FurusatoKyotoOnsenRyokanStayPage() {
           >
             ▸ 【熱海花火大会＆オーシャンビューホテル×ふるさと納税】特等席鑑賞
           </Link>
-        </div>
+        
+      <HubRelatedPosts currentSlug="furusato-tax-kyoto-onsen-ryokan-machiya-stay" />
+</div>
       </section>
     </article>
   );

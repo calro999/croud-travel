@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FeatureArticlePage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "神々の集う神在月の出雲大社＆美肌の湯・玉造温泉！11月解禁松葉ガニ宿×ふるさと納税完全ガイド【2026年最新秋旅】島根",
+    "description": "旧暦10月（11月）の「神在月」に全国の八百万の神が集う島根・出雲大社と「玉造温泉（たまつくりおんせん）」。玉湯川沿いの紅葉ライトアップ、化粧水のような潤いをもたらす日本最古の美肌温泉「白石家」「佳翠苑 皆美」「旅亭 山の井」で11月解禁の山陰松葉ガニや島根和牛・宍道湖七珍を堪能。ふるさと納税で実質2,000円。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-tamatsukuri-autumn-leaves-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "神々の集う神在月の出雲大社＆美肌の湯・玉造温泉！11月解禁松葉ガニ宿×ふるさと納税完全ガイド【2026年最新秋旅】島根", "item": "https://croud-travel.pages.dev/furusato-tax-tamatsukuri-autumn-leaves-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -508,7 +531,9 @@ export default function FeatureArticlePage() {
                 山梨県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-tamatsukuri-autumn-leaves-stay" />
+</div>
         </section>
 
       </main>

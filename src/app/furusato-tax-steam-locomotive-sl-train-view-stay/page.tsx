@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoSteamLocomotiveSLTrainStayPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "黒煙と汽笛が旅情を揺さぶる！大井川鐵道・秩父鉄道・磐越西線のSL・蒸気機関車ビューステイ×ふるさと納税完全ガイド【2026年最新】島田・秩父・会津若松",
+    "description": "力強い汽笛と真っ白な蒸気、レトロな客車が郷愁を誘う蒸気機関車（SL）の旅！大井川鐵道のSL列車が目の前を横切る絶好のビュースポット「川根温泉ホテル」、秩父路を駆けるSLパレオエクスプレスの旅情と竹酒・名湯に酔いしれる「秩父小鹿野温泉旅館 梁山泊」、SLばんえつ物語が走る会津若松の奥座敷で名勝伏見ヶ滝を望む「会津東山温泉 庄助の宿 瀧の湯」。鉄道ファンから家族連れ、大人の休日までを魅了するSL温泉旅を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-steam-locomotive-sl-train-view-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "黒煙と汽笛が旅情を揺さぶる！大井川鐵道・秩父鉄道・磐越西線のSL・蒸気機関車ビューステイ×ふるさと納税完全ガイド【2026年最新】島田・秩父・会津若松", "item": "https://croud-travel.pages.dev/furusato-tax-steam-locomotive-sl-train-view-stay/" }
+    ]
+  };
+
   return (
     <article className="max-w-5xl mx-auto px-4 py-8 text-gray-800 leading-relaxed font-sans">
       {/* パンくずリスト */}
@@ -346,7 +369,9 @@ export default function FurusatoSteamLocomotiveSLTrainStayPage() {
           >
             ▸ 【登録有形文化財・歴史的名建築宿×ふるさと納税】昭和レトロと美の宿
           </Link>
-        </div>
+        
+      <HubRelatedPosts currentSlug="furusato-tax-steam-locomotive-sl-train-view-stay" />
+</div>
       </section>
     </article>
   );

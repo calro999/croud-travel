@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -241,6 +242,7 @@ export default function HirugamiWinterPage() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-amber-700 selection:text-white">
@@ -845,7 +847,9 @@ export default function HirugamiWinterPage() {
               <Link href="/prefectures/aichi" className="px-3 py-1.5 bg-stone-100 hover:bg-indigo-100 text-stone-700 hover:text-indigo-900 rounded-lg transition-colors font-medium">愛知県の宿一覧</Link>
               <Link href="/prefectures/gunma" className="px-3 py-1.5 bg-stone-100 hover:bg-indigo-100 text-stone-700 hover:text-indigo-900 rounded-lg transition-colors font-medium">群馬県の宿一覧</Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-nagano-achimura-hirugami-starry-sky-stay" />
+</div>
         </section>
 
       </main>

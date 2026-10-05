@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoGeroHidaTakayamaAutumnBeefStayPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三名泉のとろとろ美肌湯＆とろける飛騨牛！下呂温泉・飛騨高山秋の味覚プレミアム名宿×ふるさと納税完全ガイド【2026年最新秋旅】岐阜 | 旅宿クラウド",
+    "description": "10月〜11月は日本三名泉「下呂温泉」と古い町並みが美しい「飛騨高山」のベストシーズン！pH9.2を誇る天然の化粧水のようなとろとろ美肌湯と、霜降り「A5等級飛騨牛」のすき焼き・しゃぶしゃぶ・ステーキを堪能。「小川屋」「冨岳」「菊半旅館」など厳選名宿を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-gero-hidatakayama-autumn-beef-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "日本三名泉のとろとろ美肌湯＆とろける飛騨牛！下呂温泉・飛騨高山秋の味覚プレミアム名宿×ふるさと納税完全ガイド【2026年最新秋旅】岐阜 | 旅宿クラウド", "item": "https://croud-travel.pages.dev/furusato-tax-gero-hidatakayama-autumn-beef-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -582,7 +605,9 @@ export default function FurusatoGeroHidaTakayamaAutumnBeefStayPage() {
                 大分県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-gero-hidatakayama-autumn-beef-stay" />
+</div>
         </section>
 
       </main>

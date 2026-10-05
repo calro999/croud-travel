@@ -1,4 +1,4 @@
-# ガーデンホテルオリーブのリアル宿泊記！温泉・客室・朝食バイキングの本音口コミ評判｜三重県
+# ガーデンホテルオリーブの宿泊ルポ＆見どころガイド｜三重県
 
 - URL: https://croud-travel.pages.dev/posts/nagashima-garden-hotel-olive-guide/
 - 宿泊施設名: ガーデンホテルオリーブ

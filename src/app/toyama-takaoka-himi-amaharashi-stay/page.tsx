@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -16,8 +17,32 @@ export const metadata: Metadata = {
 };
 
 export default function Page() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【富山・高岡＆氷見・雨晴海岸】瑞龍寺・雨晴海岸立山連峰＆氷見寒ブリ温泉宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "加賀前田家二代当主前田利長の菩提寺・富山県唯一の建造物国宝「瑞龍寺」、高岡大仏、千本格子の金屋町、海を挟んで3,000m級の立山連峰を望む奇跡の絶景「雨晴海岸」、冬の味覚の王者「氷見寒ブリ」と天然温泉が湧く氷見海岸宿を徹底解説。",
+    "url": "https://croud-travel.pages.dev/toyama-takaoka-himi-amaharashi-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【富山・高岡＆氷見・雨晴海岸】瑞龍寺・雨晴海岸立山連峰＆氷見寒ブリ温泉宿 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/toyama-takaoka-himi-amaharashi-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-stone-950 text-stone-100">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローヘッダー */}
       <div className="relative py-20 px-4 sm:px-6 lg:px-8 bg-gradient-to-b from-stone-900 via-stone-950 to-stone-950 border-b border-stone-800">
         <div className="max-w-5xl mx-auto text-center">
@@ -797,6 +822,8 @@ export default function Page() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="toyama-takaoka-himi-amaharashi-stay" />
+</div>
   );
 }

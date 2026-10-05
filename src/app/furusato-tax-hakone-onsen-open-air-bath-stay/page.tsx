@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoHakoneOnsenOpenAirBathStayPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "都心から85分の極上名湯！箱根湯本温泉の絶景大露天風呂＆客室露天名門宿×ふるさと納税完全攻略ガイド【2026年最新】天成園・おかだ・南風荘",
+    "description": "小田急ロマンスカー直通！豊かな湯量と箱根十七湯の歴史を誇る箱根湯本温泉。「箱根湯本温泉 天成園」「箱根湯本温泉 ホテル おかだ」「箱根湯本温泉 ホテル南風荘」を、神奈川県箱根町の楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。全長17mの天空大露天風呂、13種の湯巡り、客室露天風呂付き客室で癒やしの温泉旅を。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-hakone-onsen-open-air-bath-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "都心から85分の極上名湯！箱根湯本温泉の絶景大露天風呂＆客室露天名門宿×ふるさと納税完全攻略ガイド【2026年最新】天成園・おかだ・南風荘", "item": "https://croud-travel.pages.dev/furusato-tax-hakone-onsen-open-air-bath-stay/" }
+    ]
+  };
+
   return (
     <article className="max-w-5xl mx-auto px-4 py-8 text-gray-800 leading-relaxed font-sans">
       {/* パンくずリスト */}
@@ -346,7 +369,9 @@ export default function FurusatoHakoneOnsenOpenAirBathStayPage() {
           >
             ▸ 【お酒飲み放題オールインクルーシブ宿×ふるさと納税】贅沢ラウンジステイ
           </Link>
-        </div>
+        
+      <HubRelatedPosts currentSlug="furusato-tax-hakone-onsen-open-air-bath-stay" />
+</div>
       </section>
     </article>
   );

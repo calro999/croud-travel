@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -56,8 +57,32 @@ export default function SakeTourismHubPage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【日本銘酒街道・酒蔵の町並み巡り宿】灘・西条・伏見・魚沼・諏訪街道 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "白壁土蔵と杉玉が揺れる歴史の酒蔵通り！日本屈指の銘酒街道巡り＆温泉宿完全特化！兵庫灘五郷（有馬温泉）、広島西条酒蔵通り、京都伏見酒蔵水辺散策、新潟魚沼銘酒街道、長野諏訪甲州街道、歴史的蔵元見学と門前町ステイを徹底解説。",
+    "url": "https://croud-travel.pages.dev/japan-historic-sake-highway-brewery-walk-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【日本銘酒街道・酒蔵の町並み巡り宿】灘・西条・伏見・魚沼・諏訪街道 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/japan-historic-sake-highway-brewery-walk-stay/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-amber-950 via-stone-900 to-emerald-950 text-white p-8 md:p-14 shadow-xl border border-amber-300/30">
         <div className="max-w-3xl space-y-4">
@@ -203,6 +228,8 @@ export default function SakeTourismHubPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="japan-historic-sake-highway-brewery-walk-stay" />
+</div>
   );
 }

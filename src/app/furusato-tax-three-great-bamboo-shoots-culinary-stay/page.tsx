@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -27,6 +28,20 @@ export default function FurusatoRound66ArticlePage() {
       { '@type': 'ListItem', position: 2, name: '旅行節約ハブ', item: baseUrl + '/travel-savings-guide' },
       { '@type': 'ListItem', position: 3, name: '日本三大筍・春の白子筍美食と竹林リトリート特集', item: baseUrl + '/furusato-tax-three-great-bamboo-shoots-culinary-stay' },
     ],
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三大筍の里＆春の朝掘り白子筍と竹林朝霧リトリート宿×ふるさと納税完全ガイド【2026年最新】京都乙訓・鹿児島さつま・福岡合馬",
+    "description": "春のわずか数週間だけ味わえる大地の極上スイーツ「日本三大筍の産地」（京都・向日長岡京乙訓の塚原白子筍、鹿児島・さつま町の早生筍、福岡・北九州小倉南の合馬筍）。粘土質の赤土が育む、えぐみがなく梨のように甘い朝掘り筍のフルコース。竹林の静寂と名湯温泉リゾート。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ春の美食ステイ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-great-bamboo-shoots-culinary-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -538,7 +553,9 @@ export default function FurusatoRound66ArticlePage() {
                 石川県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-three-great-bamboo-shoots-culinary-stay" />
+</div>
         </section>
 
       </main>

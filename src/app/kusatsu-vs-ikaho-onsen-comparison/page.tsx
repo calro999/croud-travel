@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -33,6 +34,28 @@ function loadHotels(): Hotel[] {
 
 export default function KusatsuVsIkahoPage() {
   const hotels = loadHotels();
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【草津温泉 vs 伊香保温泉 どっちがいい？】泉質・街歩き・アクセス・宿を7項目で徹底比較",
+    "description": "草津温泉と伊香保温泉、どっちに行くべきか7項目で本気比較。泉質（酸性硫黄泉 vs 黄金の湯）、街歩き（湯畑 vs 365段石段）、アクセス、宿泊費、食べ歩きまで。",
+    "url": "https://croud-travel.pages.dev/kusatsu-vs-ikaho-onsen-comparison/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【草津温泉 vs 伊香保温泉 どっちがいい？】泉質・街歩き・アクセス・宿を7項目で徹底比較", "item": "https://croud-travel.pages.dev/kusatsu-vs-ikaho-onsen-comparison/" }
+    ]
+  };
 
   return (
     <main className="max-w-4xl mx-auto px-4 py-12 md:py-16 text-slate-800">
@@ -395,7 +418,9 @@ export default function KusatsuVsIkahoPage() {
                 岩手県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="kusatsu-vs-ikaho-onsen-comparison" />
+</div>
         </section>
 
       </main>

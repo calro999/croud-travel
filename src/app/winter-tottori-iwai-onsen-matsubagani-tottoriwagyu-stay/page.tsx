@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -350,6 +351,7 @@ export default function TottoriIwaiUradomeWinterPage() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-900 leading-relaxed font-sans">
@@ -706,7 +708,9 @@ export default function TottoriIwaiUradomeWinterPage() {
               <span className="text-sky-700 font-bold block text-[10px]">兵庫・香住＆柴山</span>
               <p className="font-bold text-stone-800 line-clamp-2">最高級柴山ゴールド松葉ガニと香住温泉・日本海冬美食名宿</p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-tottori-iwai-onsen-matsubagani-tottoriwagyu-stay" />
+</div>
         </section>
 
       </main>

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -24,6 +25,28 @@ function loadHotels() {
 
 export default function KyotoNightsGuide() {
   const hotels = loadHotels();
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【京都旅行 何泊がベスト？】1泊2日 vs 2泊3日 費用・満足度・モデルコース徹底比較",
+    "description": "京都旅行は1泊2日と2泊3日どっちがいい？日数ごとの費用・回れるエリア数・混雑回避テクニックを比較。交通費（新幹線/夜行バス）、宿泊費（町家/駅前ホテル）、食費（湯豆腐/抹茶パフェ）の内訳も。",
+    "url": "https://croud-travel.pages.dev/kyoto-travel-budget-how-many-nights/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【京都旅行 何泊がベスト？】1泊2日 vs 2泊3日 費用・満足度・モデルコース徹底比較", "item": "https://croud-travel.pages.dev/kyoto-travel-budget-how-many-nights/" }
+    ]
+  };
 
   return (
     <div className="max-w-4xl mx-auto px-4 py-10 bg-stone-50">
@@ -227,6 +250,8 @@ export default function KyotoNightsGuide() {
           </p>
         </div>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="kyoto-travel-budget-how-many-nights" />
+</div>
   );
 }

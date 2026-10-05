@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -311,6 +312,7 @@ export default function GunmaHoushiSarugakyoPage() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-900 leading-relaxed font-sans pb-20">
@@ -683,7 +685,9 @@ export default function GunmaHoushiSarugakyoPage() {
                 日本一の湧出量を誇る酸性硫黄泉と湯もみ体験、極上上州牛ステーキを味わう休日。
               </p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-gunma-houshi-sarugakyo-onsen-snow-joshu-beef-stay" />
+</div>
         </section>
 
       </main>

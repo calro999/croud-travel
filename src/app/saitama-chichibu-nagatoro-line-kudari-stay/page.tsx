@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -59,8 +60,32 @@ export default function MicroTouristHubPage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【埼玉・秩父＆長瀞】長瀞ライン下り・三峯神社＆芝桜宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "国の名勝・天然記念物「長瀞の岩畳」と荒川ライン下り、関東屈指の天空パワースポット「三峯神社」の雲海、羊山公園のピンクの絨毯「芝桜の丘」、秩父名物わらじカツ丼や豚みそ丼を徹底解説。美肌温泉旅館や清流リゾートを厳選。",
+    "url": "https://croud-travel.pages.dev/saitama-chichibu-nagatoro-line-kudari-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【埼玉・秩父＆長瀞】長瀞ライン下り・三峯神社＆芝桜宿 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/saitama-chichibu-nagatoro-line-kudari-stay/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-stone-900 via-teal-950 to-blue-950 text-white p-8 md:p-14 shadow-xl border border-white/10">
         <div className="max-w-3xl space-y-4">
@@ -212,6 +237,8 @@ export default function MicroTouristHubPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="saitama-chichibu-nagatoro-line-kudari-stay" />
+</div>
   );
 }

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -27,6 +28,20 @@ export default function FurusatoMatsutakeAutumnGourmetStayPage() {
       { '@type': 'ListItem', position: 2, name: '旅行節約ハブ', item: baseUrl + '/travel-savings-guide' },
       { '@type': 'ListItem', position: 3, name: '極上松茸尽くし会席＆名門温泉宿特集', item: baseUrl + '/furusato-tax-matsutake-autumn-gourmet-kaiseki-stay' },
     ],
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "本場名産地で味わう極上松茸尽くし会席＆焼き松茸・土瓶蒸しの名門温泉宿×ふるさと納税完全ガイド【2026年最新】信州別所・丹波篠山・京都湯の花",
+    "description": "秋の最高峰の香りと歯ごたえを本場の名宿で堪能！日本有数の松茸産地・信州上田で創業百有余年の数寄屋美と松茸料理を誇る「別所温泉 かしわや本店」、最高峰ブランド丹波松茸とぼたん鍋で名高い創業四百年の老舗「丹波篠山 近又」、丹波の地松茸会席とオーストリアワイン・名湯に癒やされる「京都 湯の花温泉 すみや亀峰菴」。炭火焼き松茸、香り豊かな土瓶蒸し、松茸ご飯。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-matsutake-autumn-gourmet-kaiseki-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -556,7 +571,9 @@ export default function FurusatoMatsutakeAutumnGourmetStayPage() {
                 京都府の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-matsutake-autumn-gourmet-kaiseki-stay" />
+</div>
         </section>
 
       </main>

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -187,6 +188,7 @@ export default function IwateHachimantaiPage() {
     "a": "東京方面からは東北新幹線「はやぶさ」でJR盛岡駅まで約2時間10分。盛岡駅西口または東口から岩手県交通の路線バス（八幡平マウンテンホテル行き、松川温泉行きなど）に乗車し、八幡平温泉郷まで約60分、松川温泉までは約1時間50分で到着します。宿泊施設によっては盛岡駅や最寄りのJR花輪線大更駅からの送迎バス（事前予約制）を運行している場合があるため、予約時に確認することをおすすめします。"
   }
 ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-amber-100 selection:text-amber-900 pb-20">
@@ -623,7 +625,9 @@ export default function IwateHachimantaiPage() {
                 源義家ゆかりの古湯と銀河農場の幻想的な光の祭典、冬の盛岡グルメを巡る旅。
               </p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-iwate-hachimantai-matsukawa-onsen-snow-maesawagyu-stay" />
+</div>
         </section>
 
       </main>

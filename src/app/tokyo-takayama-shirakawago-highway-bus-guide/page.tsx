@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -106,8 +107,32 @@ export default function HighwayBusArticlePage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【東京・新宿〜飛騨高山・白川郷】直行高速バスが最強！電車との料金・時間比較＆飛騨牛1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+    "description": "東京・新宿から飛騨高山・白川郷へ行くなら直行高速バスが圧倒的に便利でお得！JR特急ワイドビューしなの・特急ひだ乗り継ぎとの料金・所要時間比較、古い町並み散策と白川郷合掌造り、飛騨牛を満喫する1泊2日モデルコース。",
+    "url": "https://croud-travel.pages.dev/tokyo-takayama-shirakawago-highway-bus-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【東京・新宿〜飛騨高山・白川郷】直行高速バスが最強！電車との料金・時間比較＆飛騨牛1泊2日モデルコース ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/tokyo-takayama-shirakawago-highway-bus-guide/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-sky-950 via-slate-900 to-indigo-950 text-white p-8 md:p-14 shadow-xl border border-white/10">
         <div className="max-w-3xl space-y-4">
@@ -417,6 +442,8 @@ export default function HighwayBusArticlePage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="tokyo-takayama-shirakawago-highway-bus-guide" />
+</div>
   );
 }

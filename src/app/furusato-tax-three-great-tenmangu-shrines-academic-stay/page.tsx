@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -27,6 +28,20 @@ export default function FurusatoRound63ArticlePage() {
       { '@type': 'ListItem', position: 2, name: '旅行節約ハブ', item: baseUrl + '/travel-savings-guide' },
       { '@type': 'ListItem', position: 3, name: '日本三大天満宮・学問成就門前町ステイ特集', item: baseUrl + '/furusato-tax-three-great-tenmangu-shrines-academic-stay' },
     ],
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三大天満宮＆学問の神様・合格祈願と梅香る門前町宿×ふるさと納税完全ガイド【2026年最新】太宰府・北野・防府",
+    "description": "学問の神様・菅原道真公を祀る全国天満宮の総本山・三大聖地「日本三大天満宮」（福岡・太宰府天満宮、京都・北野天満宮、山口・防府天満宮）。受験合格・学業成就・厄除け祈願とともに、千本を超える梅の名所と歴史ある門前町を散策。楽天ふるさと納税トラベルクーポンで実質2,000円負担で泊まるおすすめ名門宿完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-great-tenmangu-shrines-academic-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -538,7 +553,9 @@ export default function FurusatoRound63ArticlePage() {
                 長野県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-three-great-tenmangu-shrines-academic-stay" />
+</div>
         </section>
 
       </main>

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -26,8 +27,32 @@ function loadHotels() {
 export default function KyushuTravelNightsPage() {
   const hotels = loadHotels();
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【九州旅行 何泊必要？】2泊3日・3泊4日の費用＆福岡→熊本→別府→鹿児島モデルルートの予算内訳",
+    "description": "九州旅行は何泊あれば満足できる？2泊3日（福岡＋熊本or別府）・3泊4日（福岡→熊本→別府→鹿児島縦断）の費用を内訳付きで完全解説。九州新幹線・高速バスの交通費比較、温泉旅館・ビジネスホテルの相場も。",
+    "url": "https://croud-travel.pages.dev/kyushu-travel-budget-how-many-nights/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【九州旅行 何泊必要？】2泊3日・3泊4日の費用＆福岡→熊本→別府→鹿児島モデルルートの予算内訳", "item": "https://croud-travel.pages.dev/kyushu-travel-budget-how-many-nights/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-4xl mx-auto pb-16 px-4 md:px-0">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* Header */}
       <div className="relative rounded-3xl overflow-hidden bg-emerald-900 p-8 md:p-14 shadow-lg">
         <div className="absolute inset-0 opacity-20 bg-[url('https://img.travel.rakuten.co.jp/share/HOTEL/106080/106080.jpg')] bg-cover bg-center"></div>
@@ -192,6 +217,8 @@ export default function KyushuTravelNightsPage() {
           </div>
         </section>
       )}
-    </div>
+    
+      <HubRelatedPosts currentSlug="kyushu-travel-budget-how-many-nights" />
+</div>
   );
 }

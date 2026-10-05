@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -260,6 +261,7 @@ export default function ShirahoneWinterPage() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-teal-950 selection:text-white">
@@ -734,7 +736,9 @@ export default function ShirahoneWinterPage() {
               <span className="text-xs text-teal-300 font-semibold block mb-1">特集一覧</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">全国の厳選温泉・宿特集まとめを見る</h3>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-nagano-shirahone-onsen-milky-snow-stay" />
+</div>
         </section>
 
       </main>

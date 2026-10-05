@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -56,8 +57,32 @@ export default function MicroTouristHubPage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【佐賀＆長崎・有田＆伊万里・波佐見】日本磁器発祥の地・トンバイ塀の窯元＆伊万里牛宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "400年の伝統を誇る肥前やきものロード完全特化！日本磁器のふるさと「有田焼（トンバイ塀・泉山磁石場）」、秘窯の里「伊万里・大川内山」、モダンで大人気の「波佐見焼（陶器市・西の原）」、武雄温泉、名物「伊万里牛・器の美食宿」を徹底解説。",
+    "url": "https://croud-travel.pages.dev/saga-arita-imari-hasami-pottery-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【佐賀＆長崎・有田＆伊万里・波佐見】日本磁器発祥の地・トンバイ塀の窯元＆伊万里牛宿 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/saga-arita-imari-hasami-pottery-stay/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-stone-900 via-rose-950 to-amber-950 text-white p-8 md:p-14 shadow-xl border border-white/10">
         <div className="max-w-3xl space-y-4">
@@ -203,6 +228,8 @@ export default function MicroTouristHubPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="saga-arita-imari-hasami-pottery-stay" />
+</div>
   );
 }

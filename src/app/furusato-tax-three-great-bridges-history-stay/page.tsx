@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -113,8 +114,32 @@ export default function Page() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三大名橋＆伝統建築美を渡る歴史街道宿×ふるさと納税完全ガイド【2026年最新】錦帯橋・眼鏡橋・日本橋",
+    "description": "幾星霜の歴史を刻む日本の名架橋！山口岩国「錦帯橋」五連の木造アーチ美と錦帯橋温泉岩国国際観光ホテル、長崎「眼鏡橋」日本最古の国重文アーチ石橋と異国情緒漂うホテルモントレ長崎、東京中央区「日本橋」五街道の起点たる石造二連アーチと三井ガーデンホテル日本橋プレミア。日本三大名橋の建築美と老舗グルメを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-great-bridges-history-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "日本三大名橋＆伝統建築美を渡る歴史街道宿×ふるさと納税完全ガイド【2026年最新】錦帯橋・眼鏡橋・日本橋", "item": "https://croud-travel.pages.dev/furusato-tax-three-great-bridges-history-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずリスト */}
       <nav className="bg-white border-b border-slate-200 py-3 px-4 text-xs text-slate-500">
         <div className="max-w-5xl mx-auto flex items-center space-x-2">
@@ -533,6 +558,8 @@ export default function Page() {
       <footer className="bg-slate-950 text-slate-400 py-8 px-4 text-center text-xs border-t border-slate-800">
         <p>© 2026 トラベルポータル All Rights Reserved. 掲載情報は最新の楽天トラベル公式APIに基づきます。</p>
       </footer>
-    </div>
+    
+      <HubRelatedPosts currentSlug="furusato-tax-three-great-bridges-history-stay" />
+</div>
   );
 }

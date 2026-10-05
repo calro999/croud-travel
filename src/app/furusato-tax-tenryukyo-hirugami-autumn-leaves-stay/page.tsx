@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -67,6 +68,28 @@ const HOTEL_DATA = {
 };
 
 export default function FeatureArticlePage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "南信州・天竜峡の紅葉ライン舟下り＆りんご狩り！昼神温泉美肌の湯×ふるさと納税完全ガイド【2026年最新秋旅】長野",
+    "description": "10月下旬〜11月中旬に天竜川の奇岩大峡谷が深紅と黄金に染まる名勝「南信州・天竜峡」。舟頭の櫂さばきで見上げる天竜ライン舟下りや旬の信州りんご狩り、日本一の星空とpH9.7の強アルカリ美肌温泉「昼神温泉 鶴巻荘」「ユルイの宿 恵山」「癒楽の宿 清風苑」で信州牛ステーキや炉端会席を堪能。ふるさと納税で実質2,000円。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-tenryukyo-hirugami-autumn-leaves-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "南信州・天竜峡の紅葉ライン舟下り＆りんご狩り！昼神温泉美肌の湯×ふるさと納税完全ガイド【2026年最新秋旅】長野", "item": "https://croud-travel.pages.dev/furusato-tax-tenryukyo-hirugami-autumn-leaves-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -520,7 +543,9 @@ export default function FeatureArticlePage() {
                 大阪府の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-tenryukyo-hirugami-autumn-leaves-stay" />
+</div>
         </section>
 
       </main>

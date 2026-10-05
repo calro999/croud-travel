@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoYabakeiKurokawaAutumnLeavesStayPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "奇岩と紅葉が織りなす山水画の世界！耶馬渓・九重連山＆黒川温泉入湯手形露天名宿×ふるさと納税完全ガイド【2026年最新秋旅】九州 | 旅宿クラウド",
+    "description": "10月下旬〜11月下旬に見頃を迎える日本三大奇勝「耶馬渓（大分）」と九州本土最高峰「九重連山」、そして全国屈指の人気温泉郷「黒川温泉（熊本）」。名物「入湯手形」で巡る大自然の絶景露天風呂！「旅館 奥の湯」「旅館 山河」「やまびこ旅館」。肥後あか牛と秋の山里会席を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-yabakei-kurokawa-autumn-leaves-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "奇岩と紅葉が織りなす山水画の世界！耶馬渓・九重連山＆黒川温泉入湯手形露天名宿×ふるさと納税完全ガイド【2026年最新秋旅】九州 | 旅宿クラウド", "item": "https://croud-travel.pages.dev/furusato-tax-yabakei-kurokawa-autumn-leaves-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -582,7 +605,9 @@ export default function FurusatoYabakeiKurokawaAutumnLeavesStayPage() {
                 千葉県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-yabakei-kurokawa-autumn-leaves-stay" />
+</div>
         </section>
 
       </main>

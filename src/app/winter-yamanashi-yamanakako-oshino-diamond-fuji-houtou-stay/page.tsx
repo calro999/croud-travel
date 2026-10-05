@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -257,6 +258,7 @@ export default function YamanashiYamanakakoOshinoWinterPage() {
     "a": "山中湖は標高約1,000mの高原に位置するため、冬の寒さは北海道並みに厳しく、11月〜1月の朝晩はマイナス5℃〜マイナス15℃近くまで冷え込みます。ダイヤモンド富士の日没待ちや早朝の紅富士鑑賞には、厚手の防風ダウンジャケット、フリース、裏起毛パンツ、ニット帽、厚手の手袋、ネックウォーマー、使い捨てカイロが不可欠です。また車で訪れる場合、中央道や東富士五湖道路、湖畔道路は降雪や夜間の路面凍結（ブラックアイスバーン）が頻発するため、スタッドレスタイヤまたはチェーンの装着が絶対に必須です。"
   }
 ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-orange-100 selection:text-orange-900 pb-20">
@@ -698,7 +700,9 @@ export default function YamanashiYamanakakoOshinoWinterPage() {
                 特集を見る →
               </span>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-yamanashi-yamanakako-oshino-diamond-fuji-houtou-stay" />
+</div>
         </section>
 
       </main>

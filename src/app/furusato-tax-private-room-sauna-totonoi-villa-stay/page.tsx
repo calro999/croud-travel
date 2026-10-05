@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -27,6 +28,20 @@ export default function FurusatoPrivateRoomSaunaTotonoiStayPage() {
       { '@type': 'ListItem', position: 2, name: '旅行節約ハブ', item: baseUrl + '/travel-savings-guide' },
       { '@type': 'ListItem', position: 3, name: '客室専用サウナ＆露天風呂ヴィラ名宿特集', item: baseUrl + '/furusato-tax-private-room-sauna-totonoi-villa-stay' },
     ],
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "客室専用プライベートサウナ＆天然水風呂・露天風呂付きヴィラ宿×ふるさと納税完全ガイド【2026年最新】熱海・河口湖・霧島",
+    "description": "好きな時に好きなだけセルフロウリュを満喫！相模湾の絶景を望む客室本格サウナ付きスイート「ＩＳＨＩＮＯＹＡ熱海」、富士山を仰ぐ完全独立型グランピングヴィラ「天空の温泉ヴィラ紬 河口湖」、美肌源泉かけ流しと専用バレルサウナで極上のととのいへ導く「こしかの温泉」。他人の目を気にせず水風呂と外気浴を独占できるプライベートサウナ宿に、楽天ふるさと納税トラベルクーポンで実質2,000円負担で泊まる完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-private-room-sauna-totonoi-villa-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -556,7 +571,9 @@ export default function FurusatoPrivateRoomSaunaTotonoiStayPage() {
                 群馬県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-private-room-sauna-totonoi-villa-stay" />
+</div>
         </section>
 
       </main>

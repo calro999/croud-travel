@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -27,6 +28,20 @@ export default function FurusatoNaturalMudBathStayPage() {
       { '@type': 'ListItem', position: 2, name: '旅行節約ハブ', item: baseUrl + '/travel-savings-guide' },
       { '@type': 'ListItem', position: 3, name: '天然泥パック＆泥湯温泉名宿特集', item: baseUrl + '/furusato-tax-natural-mud-bath-mineral-detox-onsen-stay' },
     ],
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "天然ミネラル泥パックで全身ツルツル美肌！極上泥湯温泉＆湯治名旅館×ふるさと納税完全ガイド【2026年最新】八幡平後生掛・霧島・別府鉄輪",
+    "description": "地球のマグマの恵み・天然ミネラルたっぷりの泥に包まれる究極の美肌湯！「馬で来て足駄で帰る」と称される八幡平の名湯泥風呂（火山泥湿湯）「後生掛温泉」、天然泥パックの元祖として乳白色の泥を全身に塗る鹿児島「さくらさくら温泉」、鉄輪温泉名物の美肌クレイ泥湯と地獄蒸し郷土料理が評判の「別府・鉄輪 神丘温泉 豊山荘」。お肌が生まれ変わる極上の泥湯ステイを、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-natural-mud-bath-mineral-detox-onsen-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -556,7 +571,9 @@ export default function FurusatoNaturalMudBathStayPage() {
                 岩手県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-natural-mud-bath-mineral-detox-onsen-stay" />
+</div>
         </section>
 
       </main>

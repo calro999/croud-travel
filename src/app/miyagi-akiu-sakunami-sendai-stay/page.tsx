@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -56,8 +57,32 @@ export default function MicroTouristHubPage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【宮城・秋保温泉＆作並温泉】仙台奥座敷・磊々峡＆ニッカウヰスキー・仙台牛宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "仙台から車30分の名湯・秋保温泉＆作並温泉エリア完全特化！名勝「磊々峡」のハートの奇岩、落差55m「秋保大滝」、ニッカウヰスキー宮城峡蒸溜所、伊達政宗ゆかりの温泉と極上仙台牛ステーキ会席宿を徹底解説。",
+    "url": "https://croud-travel.pages.dev/miyagi-akiu-sakunami-sendai-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【宮城・秋保温泉＆作並温泉】仙台奥座敷・磊々峡＆ニッカウヰスキー・仙台牛宿 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/miyagi-akiu-sakunami-sendai-stay/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-stone-900 via-rose-950 to-amber-950 text-white p-8 md:p-14 shadow-xl border border-white/10">
         <div className="max-w-3xl space-y-4">
@@ -203,6 +228,8 @@ export default function MicroTouristHubPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="miyagi-akiu-sakunami-sendai-stay" />
+</div>
   );
 }

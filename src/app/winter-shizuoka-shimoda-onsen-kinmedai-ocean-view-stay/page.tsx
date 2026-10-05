@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -221,6 +222,7 @@ export default function ShizuokaShimodaWinterFeature() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800 pb-20">
@@ -612,7 +614,9 @@ export default function ShizuokaShimodaWinterFeature() {
                 伊勢志摩の豊かな海の恵みと波静かな鳥羽湾を望む名旅館。
               </p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-shizuoka-shimoda-onsen-kinmedai-ocean-view-stay" />
+</div>
         </section>
 
       </main>

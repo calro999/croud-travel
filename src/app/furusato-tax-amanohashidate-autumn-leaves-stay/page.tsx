@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FeatureArticlePage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三景・天橋立の松並木紅葉＆西国札所成相寺！天橋立温泉名宿×ふるさと納税完全ガイド【2026年最新秋旅】京都",
+    "description": "11月上旬〜11月下旬に見頃を迎える日本三景「天橋立（あまのはしだて）」と紅葉の名刹「成相寺（なりあいじ）」。傘松公園や天橋立ビューランドからの股のぞき絶景、茶褐色の美肌湯「天橋立温泉」の名宿「文珠荘」「天橋立ホテル」「対橋楼」で11月解禁の松葉ガニや丹後牛・寒ブリを堪能。ふるさと納税で実質2,000円。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-amanohashidate-autumn-leaves-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "日本三景・天橋立の松並木紅葉＆西国札所成相寺！天橋立温泉名宿×ふるさと納税完全ガイド【2026年最新秋旅】京都", "item": "https://croud-travel.pages.dev/furusato-tax-amanohashidate-autumn-leaves-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -508,7 +531,9 @@ export default function FeatureArticlePage() {
                 新潟県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-amanohashidate-autumn-leaves-stay" />
+</div>
         </section>
 
       </main>

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -20,8 +21,32 @@ export const metadata: Metadata = {
 export default function FurusatoFeaturePage() {
   const officialFurusatoAffUrl = 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F';
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "富士山ビュー客室露天風呂宿×ふるさと納税完全ガイド【2026年最新】河口湖・日本平・箱根芦ノ湖の霊峰一望リゾート",
+    "description": "日本人の心のシンボル・富士山を独占！山梨富士河口湖の「逆さ富士」客室露天風呂宿、静岡日本平山頂から富士山と駿河湾を見晴らすパノラマリゾート、神奈川箱根芦ノ湖の海賊船と霊峰一望温泉。四季折々の富士の雄姿を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-open-air-bath-with-majestic-fuji-view-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "富士山ビュー客室露天風呂宿×ふるさと納税完全ガイド【2026年最新】河口湖・日本平・箱根芦ノ湖の霊峰一望リゾート", "item": "https://croud-travel.pages.dev/furusato-tax-open-air-bath-with-majestic-fuji-view-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-stone-900 text-stone-100 selection:bg-amber-500 selection:text-stone-950">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローヘッダー */}
       <section className="relative py-24 px-4 sm:px-6 lg:px-8 bg-gradient-to-b from-stone-950 via-stone-900 to-stone-900 border-b border-stone-800">
         <div className="max-w-5xl mx-auto text-center">
@@ -511,6 +536,8 @@ export default function FurusatoFeaturePage() {
           
         </div>
       </section>
-    </div>
+    
+      <HubRelatedPosts currentSlug="furusato-tax-open-air-bath-with-majestic-fuji-view-stay" />
+</div>
   );
 }

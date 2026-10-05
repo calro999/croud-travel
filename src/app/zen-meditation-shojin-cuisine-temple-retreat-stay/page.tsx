@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -16,6 +17,28 @@ export const metadata: Metadata = {
 
 export default function Page() {
   const secData = (seasonalData as any)['zen-meditation-shojin-cuisine-temple-retreat-stay'] || {};
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "禅寺坐禅体験＆精進料理宿坊完全ガイド【高野山・永平寺・京都リトリート】 | クラウドトラベル",
+    "description": "世界遺産高野山の歴史ある宿坊、福井・大本山永平寺門前、京都妙心寺界隈の枯山水庭園を望む禅体験宿を特集。朝のお勤め、護摩祈祷、本格精進料理で雑念を払い心を整えるリトリートステイ。",
+    "url": "https://croud-travel.pages.dev/zen-meditation-shojin-cuisine-temple-retreat-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "禅寺坐禅体験＆精進料理宿坊完全ガイド【高野山・永平寺・京都リトリート】 | クラウドトラベル", "item": "https://croud-travel.pages.dev/zen-meditation-shojin-cuisine-temple-retreat-stay/" }
+    ]
+  };
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
@@ -486,7 +509,9 @@ export default function Page() {
                 香川県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="zen-meditation-shojin-cuisine-temple-retreat-stay" />
+</div>
         </section>
 
       </main>

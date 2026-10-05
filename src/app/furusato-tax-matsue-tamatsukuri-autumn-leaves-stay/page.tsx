@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -67,6 +68,28 @@ const HOTEL_DATA = {
 };
 
 export default function FeatureArticlePage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "松江城堀川めぐり紅葉こたつ舟＆出雲神話の玉造温泉！松葉ガニ・しまね和牛宿×ふるさと納税完全ガイド【2026年最新秋旅】島根",
+    "description": "10月中旬〜11月下旬に国宝松江城の濠を彩る紅葉のトンネル「松江城 堀川めぐり」。11月からは情緒あふれる「こたつ舟」が運航し、日本最古の美肌温泉「玉造温泉 湯陣 千代の湯」「ホテル玉泉」「RYOKAN OQOQ」で化粧水のような極上神の湯と11月解禁の日本海松葉ガニ・しまね和牛会席を堪能。ふるさと納税で実質2,000円。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-matsue-tamatsukuri-autumn-leaves-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "松江城堀川めぐり紅葉こたつ舟＆出雲神話の玉造温泉！松葉ガニ・しまね和牛宿×ふるさと納税完全ガイド【2026年最新秋旅】島根", "item": "https://croud-travel.pages.dev/furusato-tax-matsue-tamatsukuri-autumn-leaves-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -520,7 +543,9 @@ export default function FeatureArticlePage() {
                 佐賀県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-matsue-tamatsukuri-autumn-leaves-stay" />
+</div>
         </section>
 
       </main>

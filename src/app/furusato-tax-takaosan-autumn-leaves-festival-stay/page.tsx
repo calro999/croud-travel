@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FeatureArticlePage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "都心から1時間の絶景！高尾山もみじまつり＆秋川渓谷・八王子名宿×ふるさと納税完全ガイド【2026年最新秋旅】東京",
+    "description": "11月上旬〜12月上旬に開催される「高尾山もみじまつり」！日本一の急勾配を行くケーブルカーからの紅葉トンネルと薬王院の秋、八王子の「京王プラザホテル八王子」「the b 八王子」や秋川渓谷の老舗「兜家旅館」に滞在し、名物とろろそばや炭火焼き料理を楽天ふるさと納税で実質2,000円で満喫する完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-takaosan-autumn-leaves-festival-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "都心から1時間の絶景！高尾山もみじまつり＆秋川渓谷・八王子名宿×ふるさと納税完全ガイド【2026年最新秋旅】東京", "item": "https://croud-travel.pages.dev/furusato-tax-takaosan-autumn-leaves-festival-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -508,7 +531,9 @@ export default function FeatureArticlePage() {
                 鹿児島県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-takaosan-autumn-leaves-festival-stay" />
+</div>
         </section>
 
       </main>

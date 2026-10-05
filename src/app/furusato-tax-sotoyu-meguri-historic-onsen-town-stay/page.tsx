@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -27,6 +28,20 @@ export default function FurusatoSotoyuMeguriTownStayPage() {
       { '@type': 'ListItem', position: 2, name: '旅行節約ハブ', item: baseUrl + '/travel-savings-guide' },
       { '@type': 'ListItem', position: 3, name: '外湯めぐり＆浴衣下駄散策名門温泉街特集', item: baseUrl + '/furusato-tax-sotoyu-meguri-historic-onsen-town-stay' },
     ],
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "カランコロンと下駄を鳴らす外湯めぐり＆情緒あふれる浴衣散策名門温泉宿×ふるさと納税完全ガイド【2026年最新】城崎・野沢温泉・渋温泉",
+    "description": "街全体が一つの大きな温泉宿！色浴衣に着替え下駄を鳴らして外湯を巡る至極の温泉情緒を厳選。七田外湯めぐりと文豪志賀直哉ゆかりの国登録有形文化財「城崎温泉 登録有形文化財の宿 三木屋」、十三箇所の無料外湯と麻釜の湧出景観を誇る「野沢温泉 村のホテル 住吉屋」、九湯めぐりと千と千尋の神隠しを彷彿とさせる木造四階建て文化財建築「渋温泉 歴史の宿 金具屋」。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-sotoyu-meguri-historic-onsen-town-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -556,7 +571,9 @@ export default function FurusatoSotoyuMeguriTownStayPage() {
                 千葉県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-sotoyu-meguri-historic-onsen-town-stay" />
+</div>
         </section>
 
       </main>

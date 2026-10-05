@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -27,6 +28,20 @@ export default function FurusatoRound62ArticlePage() {
       { '@type': 'ListItem', position: 2, name: '旅行節約ハブ', item: baseUrl + '/travel-savings-guide' },
       { '@type': 'ListItem', position: 3, name: '日本三大弁財天・水辺の聖地巡礼ステイ特集', item: baseUrl + '/furusato-tax-three-great-ancient-shrines-torii-pilgrimage-stay' },
     ],
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三大弁財天＆開運金運・芸能上達の聖地巡礼と水辺の名宿×ふるさと納税完全ガイド【2026年最新】竹生島・江の島・厳島",
+    "description": "水と美、財運と芸能の女神を祀る霊験あらたかな「日本三大弁財天」（滋賀琵琶湖・竹生島宝厳寺竹生島神社、神奈川湘南・江島神社、広島安芸・世界遺産厳島神社）。神秘的な島旅と水辺の絶景、門前町の歴史名旅館や美食リゾート。楽天ふるさと納税の宿泊割引クーポンを活用して、実質2,000円負担で巡る開運と癒やしのパワースポット宿泊ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-great-ancient-shrines-torii-pilgrimage-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -538,7 +553,9 @@ export default function FurusatoRound62ArticlePage() {
                 島根県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-three-great-ancient-shrines-torii-pilgrimage-stay" />
+</div>
         </section>
 
       </main>

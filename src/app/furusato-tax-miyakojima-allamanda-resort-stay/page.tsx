@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoMiyakojimaLuxuryStayPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "東洋一の宮古ブルーとウミガメの楽園！宮古島の全室スイートリゾート＆プライベートプール付き極上ヴィラ×ふるさと納税完全攻略ガイド【2026年最新】アラマンダ・ヒルトン・シギラミラージュ",
+    "description": "「宮古ブルー」と称される世界最高峰の透明度！沖縄屈指の楽園リゾート・宮古島。「シギラベイサイドスイート アラマンダ」「キャノピーbyヒルトン沖縄宮古島リゾート」「ホテルシギラミラージュ」を、沖縄県宮古島市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。ウミガメが泳ぐラグーン、プライベートプール、宮古牛を満喫。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-miyakojima-allamanda-resort-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "東洋一の宮古ブルーとウミガメの楽園！宮古島の全室スイートリゾート＆プライベートプール付き極上ヴィラ×ふるさと納税完全攻略ガイド【2026年最新】アラマンダ・ヒルトン・シギラミラージュ", "item": "https://croud-travel.pages.dev/furusato-tax-miyakojima-allamanda-resort-stay/" }
+    ]
+  };
+
   return (
     <article className="max-w-5xl mx-auto px-4 py-8 text-gray-800 leading-relaxed font-sans">
       {/* パンくずリスト */}
@@ -346,7 +369,9 @@ export default function FurusatoMiyakojimaLuxuryStayPage() {
           >
             ▸ 【大人の隠れ家・離れ客室×ふるさと納税】静寂とプライベート重視の名宿
           </Link>
-        </div>
+        
+      <HubRelatedPosts currentSlug="furusato-tax-miyakojima-allamanda-resort-stay" />
+</div>
       </section>
     </article>
   );

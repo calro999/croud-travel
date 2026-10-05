@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -16,6 +17,28 @@ export const metadata: Metadata = {
 
 export default function Page() {
   const secData = (seasonalData as any)['herbal-steam-ayurveda-detox-wellness-stay'] || {};
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "薬草ハーブ蒸し＆本格アーユルヴェーダ宿完全ガイド【酵素風呂・体内浄化】 | クラウドトラベル",
+    "description": "和草ハーブやよもぎスチームサウナ、本格アーユルヴェーダ（シロダーラ）、米ぬか酵素風呂、発酵薬膳料理で心身をリセットするウェルネスステイ。極上のデトックスリトリート。",
+    "url": "https://croud-travel.pages.dev/herbal-steam-ayurveda-detox-wellness-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "薬草ハーブ蒸し＆本格アーユルヴェーダ宿完全ガイド【酵素風呂・体内浄化】 | クラウドトラベル", "item": "https://croud-travel.pages.dev/herbal-steam-ayurveda-detox-wellness-stay/" }
+    ]
+  };
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
@@ -486,7 +509,9 @@ export default function Page() {
                 岩手県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="herbal-steam-ayurveda-detox-wellness-stay" />
+</div>
         </section>
 
       </main>

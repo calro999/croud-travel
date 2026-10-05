@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -221,6 +222,7 @@ export default function MiyazakiAoshimaWinterFeature() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800 pb-20">
@@ -634,7 +636,9 @@ export default function MiyazakiAoshimaWinterFeature() {
               <span className="text-xs text-amber-300 font-semibold block mb-1">千葉・南房総温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">温暖避寒旅と旬の房州伊勢海老・太平洋パノラマ露天の宿</h3>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-miyazaki-aoshima-onsen-miyazakigyu-iseebi-resort-stay" />
+</div>
         </section>
 
       </main>

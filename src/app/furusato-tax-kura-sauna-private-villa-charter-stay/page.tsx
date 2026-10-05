@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -19,8 +20,32 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoTaxPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "蔵サウナ＆一棟貸しプライベートヴィラ×ふるさと納税完全ガイド【2026年最新】信濃町・八ヶ岳・丹波篠山の完全貸切ととのい旅",
+    "description": "築100年の土蔵を改装した本格薪サウナや大自然の地下水水風呂！八ヶ岳、野尻湖畔、丹波篠山など一棟丸ごと貸切できるプライベートサウナヴィラを楽天ふるさと納税宿泊クーポンでお得に予約する究極のサウナリトリート。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-kura-sauna-private-villa-charter-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "蔵サウナ＆一棟貸しプライベートヴィラ×ふるさと納税完全ガイド【2026年最新】信濃町・八ヶ岳・丹波篠山の完全貸切ととのい旅", "item": "https://croud-travel.pages.dev/furusato-tax-kura-sauna-private-villa-charter-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-950 text-slate-100 selection:bg-amber-500 selection:text-white">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずリスト */}
       <nav className="border-b border-slate-800/80 bg-slate-900/60 backdrop-blur px-4 py-3 text-xs text-slate-400">
         <div className="max-w-6xl mx-auto flex items-center gap-2 overflow-x-auto whitespace-nowrap">
@@ -740,6 +765,8 @@ export default function FurusatoTaxPage() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="furusato-tax-kura-sauna-private-villa-charter-stay" />
+</div>
   );
 }

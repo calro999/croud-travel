@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -131,6 +132,28 @@ export default function SilverWeekGlampingLuxurySuiteVillaPage() {
         "text": faq.answer,
       },
     })),
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【1日3組限定 最高峰ラグジュアリーグランピングヴィラ】誰にも会わない完全プライベート空間＆客室温泉 ｜ 日本全国・旅宿クラウド",
+    "description": "一般のドームテントとは一線を画す完全独立型の一棟貸しヴィラ！プライベート温泉プール、専用露天風呂、専属シェフが出張調理する極上フレンチBBQ、大人の隠れ家ラグジュアリーステイ。",
+    "url": "https://croud-travel.pages.dev/silver-week-glamping-luxury-suite-villa-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【1日3組限定 最高峰ラグジュアリーグランピングヴィラ】誰にも会わない完全プライベート空間＆客室温泉 ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/silver-week-glamping-luxury-suite-villa-guide/" }
+    ]
   };
 
   return (
@@ -406,6 +429,8 @@ export default function SilverWeekGlampingLuxurySuiteVillaPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="silver-week-glamping-luxury-suite-villa-guide" />
+</div>
   );
 }

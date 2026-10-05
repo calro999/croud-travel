@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -21,8 +22,32 @@ export const metadata: Metadata = {
 export default function FurusatoFeaturePage() {
   const officialFurusatoAffUrl = 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F';
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "文豪の愛した名湯・文学ゆかりの老舗旅館×ふるさと納税完全ガイド【2026年最新】城崎・伊豆湯ヶ島・道後の文芸宿",
+    "description": "志賀直哉『城の崎にて』の城崎温泉、川端康成『伊豆の踊子』執筆の天城湯ヶ島温泉、夏目漱石『坊っちゃん』の道後温泉。近代文学の巨匠たちが逗留し名作を紡いだ歴史的宿で、外湯めぐりと上質な会席料理を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-literary-heritage-historic-onsen-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "文豪の愛した名湯・文学ゆかりの老舗旅館×ふるさと納税完全ガイド【2026年最新】城崎・伊豆湯ヶ島・道後の文芸宿", "item": "https://croud-travel.pages.dev/furusato-tax-literary-heritage-historic-onsen-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-stone-900 text-stone-100 selection:bg-amber-500 selection:text-stone-950">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローヘッダー */}
       <section className="relative py-24 px-4 sm:px-6 lg:px-8 bg-gradient-to-b from-stone-950 via-stone-900 to-stone-900 border-b border-stone-800">
         <div className="max-w-5xl mx-auto text-center">
@@ -650,6 +675,8 @@ export default function FurusatoFeaturePage() {
           
         </div>
       </section>
-    </div>
+    
+      <HubRelatedPosts currentSlug="furusato-tax-literary-heritage-historic-onsen-stay" />
+</div>
   );
 }

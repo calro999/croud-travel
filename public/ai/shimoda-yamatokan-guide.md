@@ -1,4 +1,4 @@
-# 下田温泉 下田大和館のリアル宿泊記！温泉・客室・朝食バイキングの本音口コミ評判｜静岡県
+# 下田温泉 下田大和館の宿泊ルポ＆見どころガイド｜静岡県
 
 - URL: https://croud-travel.pages.dev/posts/shimoda-yamatokan-guide/
 - 宿泊施設名: 下田温泉 下田大和館

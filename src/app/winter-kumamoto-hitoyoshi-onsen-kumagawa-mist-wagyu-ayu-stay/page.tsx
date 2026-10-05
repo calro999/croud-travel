@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -192,6 +193,7 @@ export default function WinterKumamotoHitoyoshiPage() {
       }
     ]
   };
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-slate-50 via-teal-50/20 to-slate-50 text-slate-800 antialiased">
@@ -633,7 +635,9 @@ export default function WinterKumamotoHitoyoshiPage() {
                 由布岳を望む露天風呂と初冬の幻想的な朝霧を巡る癒やし旅。
               </p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-kumamoto-hitoyoshi-onsen-kumagawa-mist-wagyu-ayu-stay" />
+</div>
         </section>
 
       </main>

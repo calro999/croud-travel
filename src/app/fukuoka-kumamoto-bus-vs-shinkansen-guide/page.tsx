@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -116,8 +117,32 @@ export default function HighwayBusArticlePage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【博多から熊本 新幹線と高速バスどっち？】ひのくに号 vs 九州新幹線比較＆熊本城・あか牛1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+    "description": "福岡・博多・天神から熊本へ行くなら九州新幹線と高速バス「ひのくに号」どっちがお得？料金（バスなら半額の約2,500円）・時間・本数比較。桜町・熊本城前直着の利便性と復興天守閣見学・あか牛丼を満喫する1泊2日モデルコース。",
+    "url": "https://croud-travel.pages.dev/fukuoka-kumamoto-bus-vs-shinkansen-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【博多から熊本 新幹線と高速バスどっち？】ひのくに号 vs 九州新幹線比較＆熊本城・あか牛1泊2日モデルコース ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/fukuoka-kumamoto-bus-vs-shinkansen-guide/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-sky-950 via-slate-900 to-indigo-950 text-white p-8 md:p-14 shadow-xl border border-white/10">
         <div className="max-w-3xl space-y-4">
@@ -427,6 +452,8 @@ export default function HighwayBusArticlePage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="fukuoka-kumamoto-bus-vs-shinkansen-guide" />
+</div>
   );
 }

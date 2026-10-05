@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -112,8 +113,32 @@ export default function Page() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三大伝統的町並み＆小江戸・白壁土蔵の重伝建と歴史情緒宿×ふるさと納税完全ガイド【2026年最新】倉敷・川越・竹原",
+    "description": "往時の繁栄と美しい商家建築が息づく重要伝統的建造物群保存地区！岡山「倉敷美観地区」白壁土蔵となまこ壁・倉敷川沿いの老舗料理旅館鶴形、埼玉「小江戸川越」黒漆喰の蔵造り商家と時の鐘・川越プリンスホテル、広島「安芸の小京都・竹原」製塩と酒造りの重伝建・グリーンスカイホテル竹原。格子戸の路地散策と地酒、名物料理を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-great-traditional-townscapes-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "日本三大伝統的町並み＆小江戸・白壁土蔵の重伝建と歴史情緒宿×ふるさと納税完全ガイド【2026年最新】倉敷・川越・竹原", "item": "https://croud-travel.pages.dev/furusato-tax-three-great-traditional-townscapes-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずリスト */}
       <nav className="bg-white border-b border-slate-200 py-3 px-4 text-xs text-slate-500">
         <div className="max-w-5xl mx-auto flex items-center space-x-2">
@@ -558,6 +583,8 @@ export default function Page() {
           <p>ふるさと納税クーポンの利用条件や最新の空室状況は楽天トラベル公式サイトをご確認ください。</p>
         </div>
       </footer>
-    </div>
+    
+      <HubRelatedPosts currentSlug="furusato-tax-three-great-traditional-townscapes-stay" />
+</div>
   );
 }

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -67,6 +68,28 @@ const HOTEL_DATA = {
 };
 
 export default function FeatureArticlePage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "阿蘇・大観峰の黄金ススキ大草原＆秋の雲海パノラマ！阿蘇内牧温泉・あか牛会席宿×ふるさと納税完全ガイド【2026年最新秋旅】熊本",
+    "description": "10月〜11月にカルデラ外輪山一面が黄金色に輝く「熊本・阿蘇大観峰＆ミルクロード」。早朝の幻想的な阿蘇カルデラ雲海と草千里ヶ浜の秋景色、文豪たちに愛された「阿蘇内牧温泉 大観荘」「蘇山郷」「親和苑」で自家源泉掛け流し露天風呂と阿蘇名物・肥後あか牛丼・すき焼きステーキを堪能。ふるさと納税で実質2,000円。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-aso-daikanbo-susuki-autumn-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "阿蘇・大観峰の黄金ススキ大草原＆秋の雲海パノラマ！阿蘇内牧温泉・あか牛会席宿×ふるさと納税完全ガイド【2026年最新秋旅】熊本", "item": "https://croud-travel.pages.dev/furusato-tax-aso-daikanbo-susuki-autumn-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -520,7 +543,9 @@ export default function FeatureArticlePage() {
                 高知県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-aso-daikanbo-susuki-autumn-stay" />
+</div>
         </section>
 
       </main>

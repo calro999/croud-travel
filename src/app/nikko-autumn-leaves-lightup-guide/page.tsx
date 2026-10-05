@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -120,8 +121,32 @@ export default function NikkoAutumnLeavesGuidePage() {
     },
   ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【日光・いろは坂 紅葉2026見頃完全マップ】大渋滞回避の時間帯・中禅寺湖ライトアップ＆奥日光硫黄泉の宿 ｜ 日本全国・旅宿クラウド",
+    "description": "2026年秋の日光紅葉狩り完全攻略！いろは坂・明智平・竜頭の滝・湯ノ湖の見頃時期（10月上旬〜11月上旬）、早朝6時通過で大渋滞を回避する裏ワザ、中禅寺湖畔の乳白色硫黄泉旅館まとめ。",
+    "url": "https://croud-travel.pages.dev/nikko-autumn-leaves-lightup-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【日光・いろは坂 紅葉2026見頃完全マップ】大渋滞回避の時間帯・中禅寺湖ライトアップ＆奥日光硫黄泉の宿 ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/nikko-autumn-leaves-lightup-guide/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-amber-50/40 text-stone-800 antialiased selection:bg-amber-500 selection:text-white">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <header className="relative overflow-hidden bg-gradient-to-b from-amber-900 via-amber-950 to-stone-900 text-amber-50 pt-16 pb-24 px-4 sm:px-6 lg:px-8 border-b-4 border-amber-600">
         <div className="absolute inset-0 opacity-15 pointer-events-none bg-[radial-gradient(#f59e0b_1px,transparent_1px)] [background-size:16px_16px]" />
@@ -617,6 +642,8 @@ export default function NikkoAutumnLeavesGuidePage() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="nikko-autumn-leaves-lightup-guide" />
+</div>
   );
 }

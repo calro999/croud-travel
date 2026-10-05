@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -257,6 +258,7 @@ export default function HokkaidoShikotsukoHyotoWinterPage() {
     "a": "新千歳空港から支笏湖へは道道16号（支笏湖公園線）経由で車で約40分、札幌市内からは国道453号経由で約1時間15分と、北海道の秘境温泉としては驚くほど好アクセスです。ただし、冬期（11月〜1月）は路面に圧雪や凍結（ブラックアイスバーン）が発生するため、レンタカー利用時は必ず4WD＋スタッドレスタイヤを指定し、急発進・急ブレーキ・急ハンドルを避けて十分な車間距離を確保してください。車運転に不安がある方は、JR千歳駅や新千歳空港から運行されている路線バス（北海道中央バス）の利用が最も安全でおすすめです。"
   }
 ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-indigo-100 selection:text-indigo-900 pb-20">
@@ -711,7 +713,9 @@ export default function HokkaidoShikotsukoHyotoWinterPage() {
                 冬の特集記事一覧をすべて見る ➔
               </span>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-hokkaido-shikotsuko-hyoto-blue-onsen-himemasu-stay" />
+</div>
         </section>
 
       </main>

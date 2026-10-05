@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -221,6 +222,7 @@ export default function NiigataSenamiWinterFeature() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800 pb-20">
@@ -665,7 +667,9 @@ export default function NiigataSenamiWinterFeature() {
               <h3 className="font-bold text-white text-sm">越後湯沢温泉・川端康成雪国の世界と日本酒・魚沼コシヒカリの宿</h3>
               <p className="text-slate-300 text-[11px] line-clamp-2">新幹線直結の白銀の温泉街で楽しむ越後地酒利き酒と名湯巡り。</p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-niigata-senami-onsen-sunset-ocean-salmon-murakami-beef-stay" />
+</div>
         </section>
 
       </main>

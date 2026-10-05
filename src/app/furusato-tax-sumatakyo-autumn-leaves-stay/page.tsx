@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FeatureArticlePage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "夢の吊橋のエメラルド湖面紅葉＆大井川鐵道SL列車！美肌寸又峡温泉×ふるさと納税完全ガイド【2026年最新秋旅】静岡",
+    "description": "11月上旬〜11月下旬に見頃を迎える「寸又峡（すまたきょう）・夢の吊橋」。チンダル現象による神秘のエメラルドグリーンの湖面と紅葉のパノラマ、大井川鐵道のSLやアプト式列車、名宿「翠紅苑」「川根温泉ホテル」「湯屋飛龍の宿」で美女づくりの湯と川根茶・猪鍋・静岡そだち牛を堪能。楽天ふるさと納税で実質2,000円。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-sumatakyo-autumn-leaves-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "夢の吊橋のエメラルド湖面紅葉＆大井川鐵道SL列車！美肌寸又峡温泉×ふるさと納税完全ガイド【2026年最新秋旅】静岡", "item": "https://croud-travel.pages.dev/furusato-tax-sumatakyo-autumn-leaves-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -508,7 +531,9 @@ export default function FeatureArticlePage() {
                 長崎県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-sumatakyo-autumn-leaves-stay" />
+</div>
         </section>
 
       </main>

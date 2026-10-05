@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -241,6 +242,7 @@ export default function HigashiyamaWinterPage() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-red-900 selection:text-white">
@@ -702,7 +704,9 @@ export default function HigashiyamaWinterPage() {
                 【伊香保温泉】365段の石段街と黄金の湯・上州牛会席を味わう名旅館
               </h3>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-fukushima-aizu-higashiyama-snow-heritage-stay" />
+</div>
         </section>
 
       </main>

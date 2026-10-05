@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -27,6 +28,20 @@ export default function FurusatoRound62ArticlePage() {
       { '@type': 'ListItem', position: 2, name: '旅行節約ハブ', item: baseUrl + '/travel-savings-guide' },
       { '@type': 'ListItem', position: 3, name: '日本三大酒蔵通り・美酒と発酵美食ステイ特集', item: baseUrl + '/furusato-tax-three-great-sake-brewery-towns-auberge-stay' },
     ],
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三大酒蔵通り＆白壁土蔵の町並み散策と発酵美食オーベルジュ宿×ふるさと納税完全ガイド【2026年最新】伏見・西条・灘五郷",
+    "description": "酒造りの歴史と伝統が息づく「日本三大酒蔵通り」（京都・伏見酒蔵通り、広島・東広島西条酒蔵通り、兵庫・神戸灘五郷）。赤煉瓦の煙突、白壁土蔵、杉玉が下がる風情ある町並みを散策し、蔵元直営の利き酒と酒粕発酵会席を堪能。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ大人の美食・美酒ツーリズム完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-great-sake-brewery-towns-auberge-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -538,7 +553,9 @@ export default function FurusatoRound62ArticlePage() {
                 奈良県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-three-great-sake-brewery-towns-auberge-stay" />
+</div>
         </section>
 
       </main>

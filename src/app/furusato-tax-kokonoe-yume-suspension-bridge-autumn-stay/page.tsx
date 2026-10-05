@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -67,6 +68,28 @@ const HOTEL_DATA = {
 };
 
 export default function FeatureArticlePage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "九重夢大吊橋の360度大紅葉パノラマ＆筋湯温泉名物うたせ湯！豊後牛宿×ふるさと納税完全ガイド【2026年最新秋旅】大分",
+    "description": "10月下旬〜11月中旬に標高777mの空中から鳴子川渓谷の錦秋を見下ろす「大分・九重夢大吊橋」。日本の滝百選・震動の滝と紅葉の絶景、くじゅう連山の山麓に湧く「筋湯温泉 旅館白滝」「壁湯天然洞窟温泉 福元屋」「たからや旅館」で名物うたせ湯や天然洞窟風呂・おおいた和牛豊後牛を堪能。ふるさと納税で実質2,000円。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-kokonoe-yume-suspension-bridge-autumn-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "九重夢大吊橋の360度大紅葉パノラマ＆筋湯温泉名物うたせ湯！豊後牛宿×ふるさと納税完全ガイド【2026年最新秋旅】大分", "item": "https://croud-travel.pages.dev/furusato-tax-kokonoe-yume-suspension-bridge-autumn-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -520,7 +543,9 @@ export default function FeatureArticlePage() {
                 宮崎県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-kokonoe-yume-suspension-bridge-autumn-stay" />
+</div>
         </section>
 
       </main>

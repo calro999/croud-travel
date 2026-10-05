@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -241,6 +242,7 @@ export default function ShibuWinterPage() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-red-950 selection:text-white">
@@ -771,7 +773,9 @@ export default function ShibuWinterPage() {
                 春夏秋冬の旬の旅、美食・絶景・名湯の厳選ガイドをチェック
               </p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-nagano-shibu-onsen-nine-sotoyu-stay" />
+</div>
         </section>
 
       </main>

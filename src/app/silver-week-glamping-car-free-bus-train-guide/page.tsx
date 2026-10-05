@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -117,6 +118,28 @@ export default function SilverWeekGlampingCarFreeBusTrainPage() {
         text: faq.answer,
       },
     })),
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【車なし・電車と送迎で行けるグランピング】シルバーウィークに免許なし＆ペーパードライバーでも行ける宿 ｜ 日本全国・旅宿クラウド",
+    "description": "レンタカーや運転免許がなくても秋のグランピングへ！主要駅から徒歩圏内、無料シャトル送迎バス付き、高速バス停留所からすぐの好立地グランピング施設厳選。都心から乗り換え少なめの快適アクセス完全解説。",
+    "url": "https://croud-travel.pages.dev/silver-week-glamping-car-free-bus-train-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【車なし・電車と送迎で行けるグランピング】シルバーウィークに免許なし＆ペーパードライバーでも行ける宿 ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/silver-week-glamping-car-free-bus-train-guide/" }
+    ]
   };
 
   return (
@@ -366,6 +389,8 @@ export default function SilverWeekGlampingCarFreeBusTrainPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="silver-week-glamping-car-free-bus-train-guide" />
+</div>
   );
 }

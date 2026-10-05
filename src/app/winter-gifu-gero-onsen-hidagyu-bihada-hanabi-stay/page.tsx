@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -220,6 +221,7 @@ export default function WinterGifuGeroOnsenPage() {
       }
     ]
   };
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-stone-50 via-amber-50/20 to-stone-50 text-stone-800 antialiased">
@@ -613,7 +615,9 @@ export default function WinterGifuGeroOnsenPage() {
                 下呂と並ぶ日本三名泉の金泉・銀泉と極上神戸牛を味わう極楽の旅。
               </p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-gifu-gero-onsen-hidagyu-bihada-hanabi-stay" />
+</div>
         </section>
 
       </main>

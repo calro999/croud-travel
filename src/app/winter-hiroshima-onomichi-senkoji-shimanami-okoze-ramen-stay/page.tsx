@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -212,6 +213,7 @@ export default function HiroshimaOnomichiSenkojiPage() {
       }
     ]
   };
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800">
@@ -630,7 +632,9 @@ export default function HiroshimaOnomichiSenkojiPage() {
               <span>全国の冬旅特集一覧を見る</span>
               <Compass className="w-4 h-4" />
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-hiroshima-onomichi-senkoji-shimanami-okoze-ramen-stay" />
+</div>
         </section>
       </main>
     </article>

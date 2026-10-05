@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import type { Metadata } from 'next';
@@ -254,6 +255,7 @@ export default function AichiToyokawaYuyaWinterPage() {
       a: "【1日目】名古屋・東名高速または新幹線豊橋駅経由で豊川市へ到着 → 豊川稲荷門前町で名物「豊川いなり寿司」のランチ → 豊川稲荷で新春初詣＆霊狐塚で金運・開運祈願 → 国道151号または新東名を利用して新城・湯谷温泉へ移動（車約40分） → 宇連川渓谷沿いの温泉旅館にチェックイン → 源泉掛け流しの雪見露天風呂を満喫 → 夕食に地元特産の「鳳来牛・三河牛会席」に舌鼓。【2日目】清流の朝風呂でリフレッシュ → 国の名勝・天然記念物「鳳来寺山（鳳来寺・鳳来山東照宮）」参拝 → 宇連川の「板敷川」奇岩景勝地散策 → 道の駅もっくる新城で奥三河名産品（五平餅、地酒、しいたけ）の買い物 → 帰路へ。"
     }
   ];
+
 
   return (
     <>
@@ -630,7 +632,9 @@ export default function AichiToyokawaYuyaWinterPage() {
           </section>
 
         </main>
-      </div>
+      
+      <HubRelatedPosts currentSlug="winter-aichi-toyokawa-inari-hatsumode-yuya-onsen-stay" />
+</div>
     </>
   );
 }

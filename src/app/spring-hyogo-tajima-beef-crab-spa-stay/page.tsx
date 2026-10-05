@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -109,6 +110,7 @@ export default function FeaturePage() {
               features: ["癒しをテーマに土壁、古木、竹、炭を用いた和モダンな城崎温泉の小粋なお宿。３ヶ所の貸切温泉は大人気", "豊岡市城崎町湯島453", "楽天アワード受賞歴"]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-stone-50 via-white to-stone-50 text-stone-800">
@@ -435,7 +437,9 @@ export default function FeaturePage() {
                 秋田県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="spring-hyogo-tajima-beef-crab-spa-stay" />
+</div>
         </section>
 
       </main>

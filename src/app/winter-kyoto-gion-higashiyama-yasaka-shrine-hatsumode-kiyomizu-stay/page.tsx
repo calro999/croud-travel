@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import type { Metadata } from 'next';
@@ -213,6 +214,7 @@ export default function KyotoGionHigashiyamaWinterPage() {
       }
     ]
   };
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800 antialiased selection:bg-purple-500 selection:text-white pb-20">
@@ -631,7 +633,9 @@ export default function KyotoGionHigashiyamaWinterPage() {
               <span>大阪城イルミナージュ＆大阪天満宮初詣！水都夜景となにわ名宿</span>
               <span className="text-purple-300">→</span>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-kyoto-gion-higashiyama-yasaka-shrine-hatsumode-kiyomizu-stay" />
+</div>
         </section>
 
       </main>

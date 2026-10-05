@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -257,6 +258,7 @@ export default function YamagataShonaiKandaraWinterPage() {
     "a": "鶴岡市街ではユネスコ食文化創造都市ならではの郷土料理や、世界一のクラゲ展示を誇る「加茂水族館（クラゲドリーム館）」の幻想的な冬のクラゲ展示、致道博物館が見どころです。酒田エリアでは、映画のロケ地にもなった雪景色が美しい「山居倉庫」のケヤキ並木や、北前船の歴史を伝える「旧鐙屋」、本間家旧本邸の歴史散策が人気です。グルメでは寒鱈汁のほか、庄内浜の活ズワイガニ、寒ブリ、脂が乗った弁慶飯（味噌おにぎりを青菜漬けで巻いて焼いたもの）、魚介出汁の利いた酒田ラーメン、山形牛や庄内豚の料理が必食です。"
   }
 ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-indigo-100 selection:text-indigo-900 pb-20">
@@ -645,7 +647,9 @@ export default function YamagataShonaiKandaraWinterPage() {
               <span className="text-indigo-700 font-bold block text-[10px]">山形・蔵王温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">世界に誇るスノーモンスター樹氷と強酸性硫黄泉・極上蔵王牛を味わう名宿</p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-yamagata-shonai-kandara-atsumi-yunohama-stay" />
+</div>
         </section>
 
       </main>

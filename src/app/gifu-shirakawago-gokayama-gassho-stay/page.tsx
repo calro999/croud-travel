@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -56,8 +57,32 @@ export default function MicroTouristHubPage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【岐阜・白川郷＆五箇山】世界遺産合掌造り集落・荻町展望台＆飛騨牛・すったて汁宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "日本の原風景が残るユネスコ世界文化遺産・白川郷＆五箇山エリア完全特化！荻町城跡展望台からの合掌造りパノラマ、和田家・神田家内部見学、富山県五箇山（菅沼・相倉集落）、白川郷合掌造り民家園、名物「飛騨牛・すったて汁宿」を徹底解説。",
+    "url": "https://croud-travel.pages.dev/gifu-shirakawago-gokayama-gassho-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【岐阜・白川郷＆五箇山】世界遺産合掌造り集落・荻町展望台＆飛騨牛・すったて汁宿 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/gifu-shirakawago-gokayama-gassho-stay/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-stone-900 via-rose-950 to-amber-950 text-white p-8 md:p-14 shadow-xl border border-white/10">
         <div className="max-w-3xl space-y-4">
@@ -203,6 +228,8 @@ export default function MicroTouristHubPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="gifu-shirakawago-gokayama-gassho-stay" />
+</div>
   );
 }

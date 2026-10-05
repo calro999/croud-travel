@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -220,6 +221,7 @@ export default function WinterAkitaNyutoOnsenPage() {
       }
     ]
   };
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-stone-50 via-sky-50/20 to-stone-50 text-stone-800 antialiased">
@@ -613,7 +615,9 @@ export default function WinterAkitaNyutoOnsenPage() {
                 日本にある11泉質のうち9泉質が集う奇跡の湯治場で楽しむ冬の湯めぐり。
               </p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-akita-nyuto-onsen-yukimi-kiritanpo-hinaijidori-stay" />
+</div>
         </section>
 
       </main>

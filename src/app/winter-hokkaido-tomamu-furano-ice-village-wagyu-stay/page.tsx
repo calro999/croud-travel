@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -257,6 +258,7 @@ export default function HokkaidoTomamuFuranoWinterPage() {
     "a": "冬の北海道内陸部はホワイトアウトやアイスバーン、豪雪による視界不良が頻発するため、雪道運転に慣れていない方の冬のレンタカー利用は極めてハイリスクです。最も安全・確実なのは公共交通機関とリゾート専用バスの利用です。トマムへは新千歳空港からJR快速エアポートと特急おおぞら・とかちを乗り継ぎ「JRトマム駅」まで約90分（駅からは各ホテル無料送迎バス接続）。また新千歳空港や旭川空港からトマム・富良野直行のリゾートバス（北海道リゾートライナー等）も運行されています。富良野へは旭川空港から路線バス「ラベンダー号」で約60分で直通アクセス可能です。"
   }
 ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-indigo-100 selection:text-indigo-900 pb-20">
@@ -645,7 +647,9 @@ export default function HokkaidoTomamuFuranoWinterPage() {
               <span className="text-indigo-700 font-bold block text-[10px]">北海道・函館湯の川温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">函館山雪夜景と津軽海峡の漁火を望む湯の川温泉・活イカ＆戸井マグロ</p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-hokkaido-tomamu-furano-ice-village-wagyu-stay" />
+</div>
         </section>
 
       </main>

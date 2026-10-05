@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FeatureArticlePage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "仙台の奥座敷・秋保温泉と磊々峡の奇岩紅葉！名瀑秋保大滝＆篝火露天風呂宿×ふるさと納税完全ガイド【2026年最新秋旅】宮城",
+    "description": "10月中旬〜11月上旬に見頃を迎える伊達政宗公ゆかりの名湯「秋保温泉」と「磊々峡（らいらいきょう）」。ハートのくぼみ・覗橋や国指定名勝「秋保大滝」のダイナミックな紅葉、名宿「篝火の湯 緑水亭」「茶寮宗園」「心和む名湯の宿 曽良一」で仙台牛ステーキや三陸の戻りカツオ・鮑を堪能。ふるさと納税で実質2,000円。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-akiu-rairaikyo-autumn-leaves-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "仙台の奥座敷・秋保温泉と磊々峡の奇岩紅葉！名瀑秋保大滝＆篝火露天風呂宿×ふるさと納税完全ガイド【2026年最新秋旅】宮城", "item": "https://croud-travel.pages.dev/furusato-tax-akiu-rairaikyo-autumn-leaves-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -508,7 +531,9 @@ export default function FeatureArticlePage() {
                 和歌山県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-akiu-rairaikyo-autumn-leaves-stay" />
+</div>
         </section>
 
       </main>

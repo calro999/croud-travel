@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -61,6 +62,28 @@ export default function SilverWeekGlampingKantoFujiPage() {
       a: "今回厳選したハイエンド施設は、全天候型の屋根付きガゼボまたは専用ダイニングスペースを完備しており、雨天でも濡れずにBBQが可能です。焚き火については強風時を除き、屋根付きエリアで火を眺められる設備が整っています。",
     },
   ];
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【シルバーウィーク2026 富士山・関東グランピング】客室天然温泉＆富士絶景ドームテントおすすめ厳選 ｜ 日本全国・旅宿クラウド",
+    "description": "9月シルバーウィークに行きたい関東・富士五湖周辺の最高峰グランピング特集！部屋から富士山を望む大型ドームテント、客室専用の天然温泉露天風呂、焚き火と秋風を楽しむラグジュアリーステイ予約ガイド。",
+    "url": "https://croud-travel.pages.dev/silver-week-glamping-kanto-fuji-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【シルバーウィーク2026 富士山・関東グランピング】客室天然温泉＆富士絶景ドームテントおすすめ厳選 ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/silver-week-glamping-kanto-fuji-guide/" }
+    ]
+  };
 
   return (
     <div className="min-h-screen bg-emerald-50/40 text-slate-800 antialiased selection:bg-emerald-600 selection:text-white font-sans">
@@ -464,6 +487,8 @@ export default function SilverWeekGlampingKantoFujiPage() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="silver-week-glamping-kanto-fuji-guide" />
+</div>
   );
 }

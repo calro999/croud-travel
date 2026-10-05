@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -311,6 +312,7 @@ export default function ShimaneYunotsuWinterPage() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-900 leading-relaxed font-sans pb-20">
@@ -657,7 +659,9 @@ export default function ShimaneYunotsuWinterPage() {
                 清流音信川の飛び石と立ち寄り湯、下関直送の本場とらふぐを堪能する冬旅。
               </p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-shimane-yunotsu-onsen-iwamiginzan-nodoguro-wagyu-stay" />
+</div>
         </section>
 
       </main>

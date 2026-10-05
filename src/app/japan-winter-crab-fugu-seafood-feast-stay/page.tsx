@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -56,8 +57,32 @@ export default function GourmetCuisineHubPage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【冬の四大味覚極上宿】松葉ガニ・越前ガニ・下関とらふぐ・寒ブリ 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "冬の日本を代表する高級海鮮グルメ完全特化！山陰・北陸のタグ付き「松葉ガニ・越前ガニ」フルコース、本場下関の「天然とらふぐ刺し・ふぐちり鍋」、富山氷見＆京都伊根の「寒ブリしゃぶ」宿を徹底解説。",
+    "url": "https://croud-travel.pages.dev/japan-winter-crab-fugu-seafood-feast-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【冬の四大味覚極上宿】松葉ガニ・越前ガニ・下関とらふぐ・寒ブリ 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/japan-winter-crab-fugu-seafood-feast-stay/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-stone-900 via-rose-950 to-amber-950 text-white p-8 md:p-14 shadow-xl border border-white/10">
         <div className="max-w-3xl space-y-4">
@@ -203,6 +228,8 @@ export default function GourmetCuisineHubPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="japan-winter-crab-fugu-seafood-feast-stay" />
+</div>
   );
 }

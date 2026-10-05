@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -119,8 +120,32 @@ export default function HighwayBusArticlePage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【東京・新宿から草津温泉 直行バス完全ガイド】電車とどっちが安い？料金・時間比較＆湯畑1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+    "description": "東京・新宿から草津温泉へ直行する高速バス「ゆめぐり号」徹底解説！特急草津・新幹線乗り換えとの料金・所要時間比較。湯畑徒歩5分直着のメリット、湯もみショー、西の河原露天風呂、湯畑周辺の源泉かけ流し名旅館を満喫する1泊2日モデルコース。",
+    "url": "https://croud-travel.pages.dev/tokyo-kusatsu-onsen-highway-bus-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【東京・新宿から草津温泉 直行バス完全ガイド】電車とどっちが安い？料金・時間比較＆湯畑1泊2日モデルコース ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/tokyo-kusatsu-onsen-highway-bus-guide/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-sky-950 via-slate-900 to-indigo-950 text-white p-8 md:p-14 shadow-xl border border-white/10">
         <div className="max-w-3xl space-y-4">
@@ -430,6 +455,8 @@ export default function HighwayBusArticlePage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="tokyo-kusatsu-onsen-highway-bus-guide" />
+</div>
   );
 }

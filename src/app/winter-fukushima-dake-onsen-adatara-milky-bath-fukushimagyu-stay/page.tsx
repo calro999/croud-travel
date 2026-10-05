@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -351,6 +352,7 @@ export default function FukushimaDakeWinterPage() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-900 leading-relaxed font-sans">
@@ -720,7 +722,9 @@ export default function FukushimaDakeWinterPage() {
                 渓谷美を望む雪見露天風呂と鶴ヶ城雪景色、会津馬刺しと会津地酒を満喫する冬旅。
               </p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-fukushima-dake-onsen-adatara-milky-bath-fukushimagyu-stay" />
+</div>
         </section>
 
       </main>

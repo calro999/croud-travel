@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -56,8 +57,32 @@ export default function RailwayActivityHubPage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【グランピング＆バレルサウナ体験宿】北欧テント・星空BBQ＆ととのい 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "大自然の中で極上のととのい体験！本格バレルサウナ＆グランピングリゾート宿完全特化！富士山麓、白馬、千葉房総、淡路島、薪サウナ・天然水風呂・外気浴インフィニティチェア、豪華BBQディナー宿を徹底解説。",
+    "url": "https://croud-travel.pages.dev/glamping-outdoor-barrel-sauna-resort-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【グランピング＆バレルサウナ体験宿】北欧テント・星空BBQ＆ととのい 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/glamping-outdoor-barrel-sauna-resort-stay/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-blue-950 via-indigo-950 to-stone-900 text-white p-8 md:p-14 shadow-xl border border-cyan-400/20">
         <div className="max-w-3xl space-y-4">
@@ -203,6 +228,8 @@ export default function RailwayActivityHubPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="glamping-outdoor-barrel-sauna-resort-stay" />
+</div>
   );
 }

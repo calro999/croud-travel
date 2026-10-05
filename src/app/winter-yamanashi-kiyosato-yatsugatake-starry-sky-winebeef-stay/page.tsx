@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -257,6 +258,7 @@ export default function YamanashiKiyosatoYatsugatakeWinterPage() {
     "a": "清里・八ヶ岳南麓は標高1,000m〜1,450mの高地に位置するため、冬の朝晩はマイナス10度以下まで冷え込みます。降雪量は日本海側に比べれば少ないものの、降った雪が圧雪されて凍結し、日陰や坂道ではアイスバーンが長期間残ります。車で訪れる場合は「スタッドレスタイヤの装着が絶対必須」です（ノーマルタイヤでの走行は極めて危険です）。また、高速道路（中央自動車道）でチェーン規制が出ることもあるため、タイヤの溝や空気圧を事前に点検し、急ブレーキや急発進を避けた慎重な雪道運転を心がけてください。"
   }
 ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-indigo-100 selection:text-indigo-900 pb-20">
@@ -697,7 +699,9 @@ export default function YamanashiKiyosatoYatsugatakeWinterPage() {
             >
               <span>冬の特集一覧へ戻る</span>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-yamanashi-kiyosato-yatsugatake-starry-sky-winebeef-stay" />
+</div>
         </section>
 
       </main>

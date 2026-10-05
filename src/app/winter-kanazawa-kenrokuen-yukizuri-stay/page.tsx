@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -109,6 +110,7 @@ export default function FeaturePage() {
               features: ["2018年6月オープン「金沢湯涌温泉　古香里庵」全4室温泉露天風呂付と食事処は個室", "金沢市湯涌町イ68", "楽天アワード受賞歴"]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-stone-50 via-white to-stone-50 text-stone-800">
@@ -583,7 +585,9 @@ export default function FeaturePage() {
                 富山県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-kanazawa-kenrokuen-yukizuri-stay" />
+</div>
         </section>
 
       </main>

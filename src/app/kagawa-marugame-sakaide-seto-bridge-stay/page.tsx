@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -16,8 +17,32 @@ export const metadata: Metadata = {
 };
 
 export default function Page() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【香川・丸亀＆坂出・瀬戸大橋】現存丸亀城・骨付鳥＆瀬戸大橋夕景宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "総高60mの日本一高い石垣を誇る現存木造十二天守「丸亀城」、全国に誇るご当地グルメ「元祖 骨付鳥（おや・ひな）」のスパイシーな肉汁、東山魁夷せとうち美術館から眺める瀬戸大橋の壮大なパノラマ、本場讃岐うどんの名店めぐり宿を徹底解説。",
+    "url": "https://croud-travel.pages.dev/kagawa-marugame-sakaide-seto-bridge-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【香川・丸亀＆坂出・瀬戸大橋】現存丸亀城・骨付鳥＆瀬戸大橋夕景宿 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/kagawa-marugame-sakaide-seto-bridge-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-stone-950 text-stone-100">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローヘッダー */}
       <div className="relative py-20 px-4 sm:px-6 lg:px-8 bg-gradient-to-b from-stone-900 via-stone-950 to-stone-950 border-b border-stone-800">
         <div className="max-w-5xl mx-auto text-center">
@@ -843,6 +868,8 @@ export default function Page() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="kagawa-marugame-sakaide-seto-bridge-stay" />
+</div>
   );
 }

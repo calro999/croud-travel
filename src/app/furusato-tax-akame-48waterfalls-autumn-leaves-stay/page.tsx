@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -67,6 +68,28 @@ const HOTEL_DATA = {
 };
 
 export default function FeatureArticlePage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "赤目四十八滝の渓谷美紅葉＆竹あかりライトアップ！伊賀牛会席温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】三重",
+    "description": "10月下旬〜11月下旬に赤目渓谷の滝群が深紅に染まる名所「三重・赤目四十八滝」。不動滝や千手滝を巡る渓谷散策と夜を幻想的に彩る「竹あかり（宵の舞）」、忍者の隠れ里に湧く天然温泉「赤目温泉隠れの湯 対泉閣」「山の湯 山水園」「ホテル ルートイン名張」で肉の芸術品・伊賀牛すき焼きステーキを堪能。ふるさと納税で実質2,000円。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-akame-48waterfalls-autumn-leaves-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "赤目四十八滝の渓谷美紅葉＆竹あかりライトアップ！伊賀牛会席温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】三重", "item": "https://croud-travel.pages.dev/furusato-tax-akame-48waterfalls-autumn-leaves-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -520,7 +543,9 @@ export default function FeatureArticlePage() {
                 大阪府の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-akame-48waterfalls-autumn-leaves-stay" />
+</div>
         </section>
 
       </main>

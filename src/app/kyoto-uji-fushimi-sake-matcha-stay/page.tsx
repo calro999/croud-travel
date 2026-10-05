@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -56,8 +57,32 @@ export default function MicroTouristHubPage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【京都・宇治＆伏見酒蔵】世界遺産平等院・宇治抹茶＆伏見十石舟・酒蔵宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "千年の歴史と名水が醸す伝統文化・京都宇治＆伏見エリア完全特化！十円玉でおなじみ世界遺産「平等院鳳凰堂」、宇治川の鵜飼、本場宇治抹茶パフェ、伏見酒蔵の白壁土蔵・十石舟めぐり、京会席＆利き酒宿を徹底解説。",
+    "url": "https://croud-travel.pages.dev/kyoto-uji-fushimi-sake-matcha-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【京都・宇治＆伏見酒蔵】世界遺産平等院・宇治抹茶＆伏見十石舟・酒蔵宿 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/kyoto-uji-fushimi-sake-matcha-stay/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-stone-900 via-rose-950 to-amber-950 text-white p-8 md:p-14 shadow-xl border border-white/10">
         <div className="max-w-3xl space-y-4">
@@ -203,6 +228,8 @@ export default function MicroTouristHubPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="kyoto-uji-fushimi-sake-matcha-stay" />
+</div>
   );
 }

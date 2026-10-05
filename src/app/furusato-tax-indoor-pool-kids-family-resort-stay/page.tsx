@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoIndoorPoolKidsFamilyStayPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "雨の日も冬も年中泳げる！室内温水プール＆子ども向け設備充実の大型温泉リゾート×ふるさと納税完全ガイド【2026年最新】那須・草津・別府",
+    "description": "天候や季節を気にせず一年中水遊びを満喫！子ども用浅瀬プールやウォータースライダー、キッズパーク、託児所、大浴場温泉、豪華ファミリーバイキング完備。「ホテルエピナール那須」「草津温泉 ホテルヴィレッジ」「別府温泉 杉乃井ホテル」を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-indoor-pool-kids-family-resort-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "雨の日も冬も年中泳げる！室内温水プール＆子ども向け設備充実の大型温泉リゾート×ふるさと納税完全ガイド【2026年最新】那須・草津・別府", "item": "https://croud-travel.pages.dev/furusato-tax-indoor-pool-kids-family-resort-stay/" }
+    ]
+  };
+
   return (
     <article className="max-w-5xl mx-auto px-4 py-8 text-gray-800 leading-relaxed font-sans">
       {/* パンくずリスト */}
@@ -346,7 +369,9 @@ export default function FurusatoIndoorPoolKidsFamilyStayPage() {
           >
             ▸ 【USJ公式オフィシャルホテル×ふるさと納税】パーク徒歩圏・天然温泉
           </Link>
-        </div>
+        
+      <HubRelatedPosts currentSlug="furusato-tax-indoor-pool-kids-family-resort-stay" />
+</div>
       </section>
     </article>
   );

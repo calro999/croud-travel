@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -220,6 +221,7 @@ export default function WinterMiyazakiTakachihoPage() {
       }
     ]
   };
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-emerald-50/40 via-stone-50 to-emerald-50/30 text-stone-800 antialiased">
@@ -647,7 +649,9 @@ export default function WinterMiyazakiTakachihoPage() {
                 冬の渓流に灯る竹あかりと肥後あか牛会席の極上宿。
               </p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-miyazaki-takachiho-yokagura-gorge-takachihogyu-stay" />
+</div>
         </section>
 
       </main>

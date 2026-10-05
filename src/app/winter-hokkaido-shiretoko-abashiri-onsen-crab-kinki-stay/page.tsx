@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -257,6 +258,7 @@ export default function HokkaidoShiretokoAbashiriWinterPage() {
     "a": "網走エリアでは、明治の行刑史と雪景色の重厚な木造建築が見事な「博物館 網走監獄」、マイナス15度の流氷体感やクリオネを観察できる「オホーツク流氷館（天都山展望台）」、オホーツク海に突き出た断崖絶壁と白銀の灯台が絵画のような「能取岬（のとろみさき）」が必見です。知床エリアでは、冬の森をスノーシューで歩き凍結した断崖の滝を目指す「フレペの滝スノーシューハイク」や「知床自然センター」、プユニ岬からの冬のオホーツク海夕景が感動的です。"
   }
 ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-sky-100 selection:text-sky-900 pb-20">
@@ -645,7 +647,9 @@ export default function HokkaidoShiretokoAbashiriWinterPage() {
               <span className="text-sky-700 font-bold block text-[10px]">北海道・登別温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">白煙上げる冬の地獄谷と9種の泉質・北海タラバガニと名湯を堪能する名宿</p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-hokkaido-shiretoko-abashiri-onsen-crab-kinki-stay" />
+</div>
         </section>
 
       </main>

@@ -1,4 +1,4 @@
-# 乳頭温泉郷おすすめ温泉宿10選のリアル宿泊記！温泉・客室・朝食バイキングの本音口コミ評判｜秋田県
+# 乳頭温泉郷おすすめ温泉宿10選の宿泊ルポ＆見どころガイド｜秋田県
 
 - URL: https://croud-travel.pages.dev/posts/november-akita-nyuto-10selection/
 - 宿泊施設名: 乳頭温泉郷おすすめ温泉宿10選

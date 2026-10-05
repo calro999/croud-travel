@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -127,6 +128,28 @@ export default function SilverWeekGlampingKitchenCookingLocalFoodPage() {
         text: faq.answer,
       },
     })),
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【本格キッチン付き！道の駅買い出し料理グランピング】地元高原野菜とご当地肉で楽しむ自炊派ヴィラ ｜ 日本全国・旅宿クラウド",
+    "description": "調理器具・IHキッチン・大型冷蔵庫完備！地元の道の駅や直売所で仕入れた新鮮な高原野菜やブランド肉を自分たちで自由にクッキング。手ぶらBBQにはない「料理の楽しさ」を味わうこだわりグランピング。",
+    "url": "https://croud-travel.pages.dev/silver-week-glamping-kitchen-cooking-local-food-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【本格キッチン付き！道の駅買い出し料理グランピング】地元高原野菜とご当地肉で楽しむ自炊派ヴィラ ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/silver-week-glamping-kitchen-cooking-local-food-guide/" }
+    ]
   };
 
   return (
@@ -409,6 +432,8 @@ export default function SilverWeekGlampingKitchenCookingLocalFoodPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="silver-week-glamping-kitchen-cooking-local-food-guide" />
+</div>
   );
 }

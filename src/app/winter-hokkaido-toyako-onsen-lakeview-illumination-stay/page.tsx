@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -221,6 +222,7 @@ export default function HokkaidoToyakoWinterFeature() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800 pb-20">
@@ -593,7 +595,9 @@ export default function HokkaidoToyakoWinterFeature() {
               <span className="text-xs text-amber-300 font-semibold block mb-1">宮城・松島温泉</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">初冬松島湾絶景と解禁松島牡蠣・日本三景日の出展望露天の宿</h3>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-hokkaido-toyako-onsen-lakeview-illumination-stay" />
+</div>
         </section>
 
       </main>

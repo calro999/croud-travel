@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -257,6 +258,7 @@ export default function MiyazakiTakachihoNightKaguraWinterPage() {
     "a": "高千穂町へは、熊本方面からは阿蘇くじゅう国立公園を経由して国道218号線、宮崎・延岡方面からは九州中央自動車道（無料区間）を利用してアクセスします。高千穂は九州にありながら九州山地の山間部に位置するため、12月〜1月は朝晩の気温が氷点下まで下がり、降雪や路面凍結（特にトンネル出入口や橋の上）が発生することがあります。車で訪れる場合は必ずスタッドレスタイヤを装着するかタイヤチェーンを携行してください。熊本空港からの特急バス「たかちほ号」や延岡駅からの路線バスを利用するのも快適で安心なアクセス手段です。"
   }
 ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-cyan-100 selection:text-cyan-900 pb-20">
@@ -704,7 +706,9 @@ export default function MiyazakiTakachihoNightKaguraWinterPage() {
               </div>
               <span className="text-xs text-rose-300 mt-2 block font-medium">全特集をチェック ➔</span>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-miyazaki-takachiho-night-kagura-beef-onsen-stay" />
+</div>
         </section>
 
       </main>

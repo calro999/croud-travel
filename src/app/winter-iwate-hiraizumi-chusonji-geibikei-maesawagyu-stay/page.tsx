@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -191,6 +192,28 @@ export default function IwateHiraizumiGeibikeiPage() {
         text: item.a
       }
     }))
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【11・12・1月岩手】世界遺産・平泉中尊寺金色堂の白銀月見坂＆日本百景・猊鼻渓「雪見こたつ舟」と極上前沢牛を味わう名宿5選",
+    "description": "11月下旬から1月、岩手県南部の平泉と一関は、静寂と白銀の神秘に包まれます。奥州藤原氏が築いた世界遺産「中尊寺」では、老杉の並木道「月見坂」に雪が降り積もり、国宝「金色堂」が黄金の神々しさを一層際立たせます。日本百景の名勝「猊鼻渓（げいびけい）」では、12月から冬の名物「雪見こたつ舟」が運航。切り立つ百尺の断崖絶壁に舞い散る雪を眺めながら、ぽかぽかのこたつで味わう熱々の木流し鍋と船頭の「猊鼻追分」。厳冬の美味「前沢牛」のすき焼きや天然温泉に癒やされる厳選名宿5選を徹底解説します。",
+    "url": "https://croud-travel.pages.dev/winter-iwate-hiraizumi-chusonji-geibikei-maesawagyu-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【11・12・1月岩手】世界遺産・平泉中尊寺金色堂の白銀月見坂＆日本百景・猊鼻渓「雪見こたつ舟」と極上前沢牛を味わう名宿5選", "item": "https://croud-travel.pages.dev/winter-iwate-hiraizumi-chusonji-geibikei-maesawagyu-stay/" }
+    ]
   };
 
   return (
@@ -639,7 +662,9 @@ export default function IwateHiraizumiGeibikeiPage() {
                 茅葺き宿場町の白銀雪景色と名物ねぎそば・芦ノ牧温泉名宿
               </span>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-iwate-hiraizumi-chusonji-geibikei-maesawagyu-stay" />
+</div>
         </section>
 
         {/* Final CTA Section */}

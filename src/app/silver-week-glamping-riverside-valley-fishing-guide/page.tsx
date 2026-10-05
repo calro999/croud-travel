@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -127,6 +128,28 @@ export default function SilverWeekGlampingRiversideValleyFishingPage() {
         text: faq.answer,
       },
     })),
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【清流・渓谷リバーサイドグランピング】川のせせらぎに癒やされる！イワナ釣り＆川遊び体験 ｜ 日本全国・旅宿クラウド",
+    "description": "マイナスイオンたっぷりの渓谷美！清流の目の前に建つドームテント、初心者でも釣れる渓流釣り場、釣った魚をその場で炭火塩焼きにするアウトドア体験。奥多摩・秩父・丹沢のおすすめ施設特集。",
+    "url": "https://croud-travel.pages.dev/silver-week-glamping-riverside-valley-fishing-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【清流・渓谷リバーサイドグランピング】川のせせらぎに癒やされる！イワナ釣り＆川遊び体験 ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/silver-week-glamping-riverside-valley-fishing-guide/" }
+    ]
   };
 
   return (
@@ -377,6 +400,8 @@ export default function SilverWeekGlampingRiversideValleyFishingPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="silver-week-glamping-riverside-valley-fishing-guide" />
+</div>
   );
 }

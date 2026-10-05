@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -99,8 +100,32 @@ export default function OkinawaLuxuryAnniversaryResortGuidePage() {
     }
   ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【沖縄・宮古島 記念日ヴィラ＆極上リゾート】プライベートプール付き客室で過ごすプロポーズ・ハネムーン旅 ｜ 日本全国・旅宿クラウド",
+    "description": "一生に一度の記念日・ハネムーン・プロポーズにふさわしい沖縄本島＆宮古島の最高峰リゾートヴィラ！プライベートプール・ジェットバス・サンセットディナー付きの極上ラグジュアリーステイガイド。",
+    "url": "https://croud-travel.pages.dev/okinawa-luxury-anniversary-resort-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【沖縄・宮古島 記念日ヴィラ＆極上リゾート】プライベートプール付き客室で過ごすプロポーズ・ハネムーン旅 ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/okinawa-luxury-anniversary-resort-guide/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-20 font-sans text-slate-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション（Violet & Tropical Luxury Palette） */}
       <section className="relative rounded-3xl overflow-hidden bg-gradient-to-br from-violet-950 via-purple-950 to-indigo-950 text-white p-8 md:p-14 shadow-2xl border border-violet-700/50">
         <div className="absolute top-0 right-0 w-[500px] h-[500px] bg-violet-500/20 rounded-full blur-3xl pointer-events-none" />
@@ -428,6 +453,8 @@ export default function OkinawaLuxuryAnniversaryResortGuidePage() {
           </div>
         </div>
       </section>
-    </div>
+    
+      <HubRelatedPosts currentSlug="okinawa-luxury-anniversary-resort-guide" />
+</div>
   );
 }

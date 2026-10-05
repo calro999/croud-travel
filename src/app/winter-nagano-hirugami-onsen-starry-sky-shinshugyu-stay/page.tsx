@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -221,6 +222,7 @@ export default function NaganoHirugamiOnsenWinterPage() {
     "a": "毎朝開催される「昼神温泉朝市」では、地元農家の新鮮な冬野菜や手作りの漬物、名物の五平餅、干し柿（市田柿）などが並び、地元の方との温かい交流が楽しめます。また、神秘的な阿智神社への参拝や、車で約30分の元善光寺、天竜峡の冬景色散策も人気。グルメでは、濃厚な旨味のブランド牛「南信州牛」、清流で養殖されるサーモンピンクの「信州サーモン」、香ばしい胡桃・胡麻味噌を塗って香ばしく焼き上げた「五平餅」、そして高級和菓子「市田柿」が冬の必食名物です。"
   }
 ];
+
 
   return (
     <article className="min-h-screen bg-stone-50/50 pb-20 text-stone-800">
@@ -583,7 +585,9 @@ export default function NaganoHirugamiOnsenWinterPage() {
               <span className="text-indigo-700 font-bold block text-[10px]">岐阜・下呂温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">天下三名泉のとろとろ美肌湯と極上飛騨牛・冬の花火物語を巡る名宿</p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-nagano-hirugami-onsen-starry-sky-shinshugyu-stay" />
+</div>
         </section>
 
       </main>

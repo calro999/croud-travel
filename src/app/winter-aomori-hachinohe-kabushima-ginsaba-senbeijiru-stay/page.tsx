@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -257,6 +258,7 @@ export default function AomoriHachinoheKabushimaWinterPage() {
     "a": "八戸市は青森県内にありながら、太平洋側に位置するため津軽地方（青森市や弘前市）のような豪雪地帯ではなく、晴天の日が多いのが特徴です。ただし、降雪量は少ないものの、冬の朝晩は氷点下5度〜10度近くまで冷え込み、路面凍結（ブラックアイスバーン）が多発します。レンタカーを利用する場合はスタッドレスタイヤの装着が必須で、急ブレーキや急ハンドルを避けた慎重な運転が必要です。八戸駅から八食センターへは「100円バス（八食号）」が運行されており、公共交通機関でも便利に観光できます。"
   }
 ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-sky-100 selection:text-sky-900 pb-20">
@@ -693,7 +695,9 @@ export default function AomoriHachinoheKabushimaWinterPage() {
             >
               <span>冬の特集一覧へ戻る</span>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-aomori-hachinohe-kabushima-ginsaba-senbeijiru-stay" />
+</div>
         </section>
 
       </main>

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -67,6 +68,28 @@ const HOTEL_DATA = {
 };
 
 export default function FeatureArticlePage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "黒川温泉の渓谷露天風呂紅葉＆入湯手形湯めぐり！肥後あか牛会席×ふるさと納税完全ガイド【2026年最新秋旅】熊本",
+    "description": "10月下旬〜11月中旬に田の原川沿いの渓谷が錦秋に染まる熊本屈指の名湯「黒川温泉」。「入湯手形」で巡る個性豊かな野趣あふれる露天風呂と、自然に溶け込む極上宿「旅館 美里」「旅館 奥の湯」「旅館 壱の井」で肥後あか牛や馬刺し・阿蘇の恵みを堪能。ふるさと納税トラベルクーポンで実質2,000円。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-kurokawa-autumn-leaves-onsen-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "黒川温泉の渓谷露天風呂紅葉＆入湯手形湯めぐり！肥後あか牛会席×ふるさと納税完全ガイド【2026年最新秋旅】熊本", "item": "https://croud-travel.pages.dev/furusato-tax-kurokawa-autumn-leaves-onsen-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -520,7 +543,9 @@ export default function FeatureArticlePage() {
                 京都府の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-kurokawa-autumn-leaves-onsen-stay" />
+</div>
         </section>
 
       </main>

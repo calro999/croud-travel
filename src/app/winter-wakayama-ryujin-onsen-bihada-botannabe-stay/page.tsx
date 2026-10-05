@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -221,6 +222,7 @@ export default function WakayamaRyujinWinterFeature() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800 pb-20">
@@ -620,7 +622,9 @@ export default function WakayamaRyujinWinterFeature() {
               <h3 className="font-bold text-white text-sm">湯の花温泉・丹波霧の雲海露天と名物ぼたん鍋の宿</h3>
               <p className="text-slate-300 text-[11px] line-clamp-2">京都の奥座敷で味わう伝統の丹波猪肉と静寂の温泉リトリート。</p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-wakayama-ryujin-onsen-bihada-botannabe-stay" />
+</div>
         </section>
 
       </main>

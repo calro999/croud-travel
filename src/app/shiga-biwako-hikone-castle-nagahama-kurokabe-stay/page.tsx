@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -59,8 +60,32 @@ export default function MicroTouristHubPage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【滋賀・琵琶湖＆彦根・長浜】国宝彦根城・黒壁＆湖畔温泉宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "現存十二天守・国宝「彦根城」と名園玄宮園、ガラスの街「長浜黒壁スクエア」、琵琶湖一望パノラマと美肌の「おごと温泉」、最高峰の近江牛懐石を徹底解説。湖畔の高級リゾートホテルや伝統温泉旅館を厳選。",
+    "url": "https://croud-travel.pages.dev/shiga-biwako-hikone-castle-nagahama-kurokabe-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【滋賀・琵琶湖＆彦根・長浜】国宝彦根城・黒壁＆湖畔温泉宿 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/shiga-biwako-hikone-castle-nagahama-kurokabe-stay/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-stone-900 via-teal-950 to-blue-950 text-white p-8 md:p-14 shadow-xl border border-white/10">
         <div className="max-w-3xl space-y-4">
@@ -212,6 +237,8 @@ export default function MicroTouristHubPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="shiga-biwako-hikone-castle-nagahama-kurokabe-stay" />
+</div>
   );
 }

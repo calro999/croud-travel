@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoKyotoArashiyamaBambooStayPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "渡月橋と竹林の小径の静寂！京都嵐山温泉の保津川一望ラグジュアリー＆老舗料理旅館×ふるさと納税完全攻略ガイド【2026年最新】翠嵐・花伝抄・辨慶",
+    "description": "四季折々の雅が息づく平安の保養地・京都嵐山！渡月橋の借景と竹林の小径散策。「翠嵐 ラグジュアリーコレクションホテル 京都」「京都 嵐山温泉 花伝抄」「嵐山温泉 嵐山辨慶」を、京都府京都市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。露天風呂付客室、五つの貸切風呂、本格京料理会席を満喫。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-kyoto-arashiyama-bamboo-luxury-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "渡月橋と竹林の小径の静寂！京都嵐山温泉の保津川一望ラグジュアリー＆老舗料理旅館×ふるさと納税完全攻略ガイド【2026年最新】翠嵐・花伝抄・辨慶", "item": "https://croud-travel.pages.dev/furusato-tax-kyoto-arashiyama-bamboo-luxury-stay/" }
+    ]
+  };
+
   return (
     <article className="max-w-5xl mx-auto px-4 py-8 text-gray-800 leading-relaxed font-sans">
       {/* パンくずリスト */}
@@ -346,7 +369,9 @@ export default function FurusatoKyotoArashiyamaBambooStayPage() {
           >
             ▸ 【道後温泉 本館散策＆老舗旅館×ふるさと納税】ふなや・道後御湯・道後プリンス
           </Link>
-        </div>
+        
+      <HubRelatedPosts currentSlug="furusato-tax-kyoto-arashiyama-bamboo-luxury-stay" />
+</div>
       </section>
     </article>
   );

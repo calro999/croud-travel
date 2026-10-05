@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -67,6 +68,28 @@ const HOTEL_DATA = {
 };
 
 export default function FeatureArticlePage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "養老の滝の紅葉グラデーション＆養老公園散策！飛騨牛会席の隠れ宿×ふるさと納税完全ガイド【2026年最新秋旅】岐阜",
+    "description": "11月中旬〜12月上旬に日本の滝百選の名瀑が錦秋に包まれる「岐阜・養老の滝」。養老公園のモミジのトンネル散策と、養老山麓の静寂に佇む「養老温泉 滝元館 遊季の里」「ゆせんの里 ホテルなでしこ」「クインテッサホテル大垣」で日本屈指のブランド和牛・飛騨牛ステーキや養老山麓の恵みを堪能。ふるさと納税で実質2,000円。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-yoro-falls-autumn-leaves-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "養老の滝の紅葉グラデーション＆養老公園散策！飛騨牛会席の隠れ宿×ふるさと納税完全ガイド【2026年最新秋旅】岐阜", "item": "https://croud-travel.pages.dev/furusato-tax-yoro-falls-autumn-leaves-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -520,7 +543,9 @@ export default function FeatureArticlePage() {
                 広島県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-yoro-falls-autumn-leaves-stay" />
+</div>
         </section>
 
       </main>

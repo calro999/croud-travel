@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -40,6 +41,7 @@ export default function ArticlePage() {
     dateModified: '2026-09-14T00:00:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/kagoshima-kirishima-solo-retreat-onsen-stay',
   };
+
 
   return (
     <div className="min-h-screen bg-stone-50 text-stone-800">
@@ -464,6 +466,8 @@ export default function ArticlePage() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="kagoshima-kirishima-solo-retreat-onsen-stay" />
+</div>
   );
 }

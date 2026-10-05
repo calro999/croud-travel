@@ -1,4 +1,4 @@
-# 伊豆熱川温泉 迎賓館 玉翠のリアル宿泊記！温泉・客室・朝食バイキングの本音口コミ評判｜静岡県
+# 伊豆熱川温泉 迎賓館 玉翠の宿泊ルポ＆見どころガイド｜静岡県
 
 - URL: https://croud-travel.pages.dev/posts/atagawa-gyokusui-guide/
 - 宿泊施設名: 伊豆熱川温泉 迎賓館 玉翠

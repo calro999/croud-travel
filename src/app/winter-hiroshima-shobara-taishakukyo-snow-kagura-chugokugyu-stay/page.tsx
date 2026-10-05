@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Image from 'next/image';
 import Link from 'next/link';
@@ -74,6 +75,7 @@ export default function Page() {
       },
     ],
   };
+
 
   return (
     <>
@@ -306,7 +308,9 @@ export default function Page() {
                 <p className="mt-3 text-sm text-gray-700 leading-relaxed">{item.a}</p>
               </details>
             ))}
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-hiroshima-shobara-taishakukyo-snow-kagura-chugokugyu-stay" />
+</div>
         </section>
 
         <section className="mb-10">

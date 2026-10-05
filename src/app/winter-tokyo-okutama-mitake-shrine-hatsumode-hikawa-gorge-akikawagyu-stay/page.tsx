@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import Link from 'next/link';
 import type { Metadata } from 'next';
 import { 
@@ -255,6 +256,7 @@ export default function TokyoOkutamaWinterPage() {
       a: "新宿駅からJR中央線・青梅線直通の「ホリデー快速おくたま」や中央線快速を利用すれば、青梅駅まで約60分、奥多摩駅まで約90〜100分で乗り換えもスムーズです。車の場合は圏央道「日の出IC」または「青梅IC」より青梅街道（国道411号）を経由して約30〜45分です。奥多摩エリアは都心よりも気温が5度前後低く、12月下旬〜1月にかけて積雪や路面凍結が発生することがあるため、車の場合はスタッドレスタイヤの装着をおすすめします。"
     }
   ];
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800 antialiased">
@@ -651,7 +653,9 @@ export default function TokyoOkutamaWinterPage() {
             >
               トップページへ戻る
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-tokyo-okutama-mitake-shrine-hatsumode-hikawa-gorge-akikawagyu-stay" />
+</div>
         </section>
 
       </main>

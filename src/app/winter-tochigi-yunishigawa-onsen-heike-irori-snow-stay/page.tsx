@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -220,6 +221,7 @@ export default function WinterTochigiYunishigawaPage() {
       }
     ]
   };
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-stone-50 via-amber-50/20 to-stone-50 text-stone-800 antialiased">
@@ -647,7 +649,9 @@ export default function WinterTochigiYunishigawaPage() {
                 箒川渓谷の雪景色と名物塩原高原大根・とちぎ和牛を堪能。
               </p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-tochigi-yunishigawa-onsen-heike-irori-snow-stay" />
+</div>
         </section>
 
       </main>

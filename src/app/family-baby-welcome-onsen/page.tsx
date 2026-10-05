@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -56,8 +57,32 @@ export default function TargetAudienceHubPage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【赤ちゃん・子連れ歓迎温泉宿】ウェルカムベビー認定・部屋食＆貸切風呂 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "ミキハウス子育て総研「ウェルカムベビーのお宿」認定ホテル＆旅館完全特化！調乳ポット・おむつ用ゴミ箱完備、赤ちゃん温泉デビュー、周りを気にせず安心の部屋食・個室食、家族専用貸切風呂付き温泉宿を徹底解説。",
+    "url": "https://croud-travel.pages.dev/family-baby-welcome-onsen/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【赤ちゃん・子連れ歓迎温泉宿】ウェルカムベビー認定・部屋食＆貸切風呂 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/family-baby-welcome-onsen/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-stone-900 via-rose-950 to-amber-950 text-white p-8 md:p-14 shadow-xl border border-white/10">
         <div className="max-w-3xl space-y-4">
@@ -203,6 +228,8 @@ export default function TargetAudienceHubPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="family-baby-welcome-onsen" />
+</div>
   );
 }

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import type { Metadata } from 'next';
@@ -254,6 +255,7 @@ export default function ShigaOmihachimanWinterPage() {
       a: "【1日目】JR近江八幡駅または名神竜王ICに到着 → 八幡堀周辺の老舗店で極上近江牛すき焼きランチ → 「日牟禮八幡宮」で初詣・商売繁盛祈願 → たねや日牟禮の舎で熱々つぶら餅を堪能 → 白壁土蔵が続く八幡堀の雪景色を散策 → 八幡山ロープウェーで山頂へ登り琵琶湖と城下町の大パノラマを展望 → 休暇村近江八幡またはホテルニューオウミ・町家宿にチェックイン → 琵琶湖を望む温泉露天風呂と近江牛フルコースディナー。【2日目】宿を出発し織田信長の幻の名城「安土城跡」へ（大手道の石段と天主跡を見学） → 「安土城郭資料館」または「滋賀県立安土城考古博物館」見学 → 東近江市へ移動し「太郎坊宮（阿賀神社）」で勝運祈願の参拝 → ラ コリーナ近江八幡で焼き立てバームクーヘンのお買い物 → 帰路へ。"
     }
   ];
+
 
   return (
     <>
@@ -611,7 +613,9 @@ export default function ShigaOmihachimanWinterPage() {
           </section>
 
         </main>
-      </div>
+      
+      <HubRelatedPosts currentSlug="winter-shiga-omihachiman-hachimanbori-himure-omigyu-stay" />
+</div>
     </>
   );
 }

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -56,8 +57,32 @@ export default function WomenSoloRetreatHubPage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【寺社・パワースポット巡り＆開運祈願宿】縁結び・厄除け・浄化ひとり旅 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "心を整え運気を高める開運ひとり旅！パワースポット＆寺社巡り拠点宿完全特化！出雲大社、伊勢神宮、日光東照宮、箱根神社九頭龍神社、早朝参拝・ご祈祷対応、精進料理＆温泉浄化宿を徹底解説。",
+    "url": "https://croud-travel.pages.dev/power-spot-shrine-temple-fortune-solo-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【寺社・パワースポット巡り＆開運祈願宿】縁結び・厄除け・浄化ひとり旅 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/power-spot-shrine-temple-fortune-solo-stay/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-rose-950 via-pink-950 to-stone-900 text-white p-8 md:p-14 shadow-xl border border-rose-400/20">
         <div className="max-w-3xl space-y-4">
@@ -203,6 +228,8 @@ export default function WomenSoloRetreatHubPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="power-spot-shrine-temple-fortune-solo-stay" />
+</div>
   );
 }

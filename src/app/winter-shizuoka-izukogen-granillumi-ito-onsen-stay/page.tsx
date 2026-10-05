@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -241,6 +242,7 @@ export default function IzukogenWinterPage() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-purple-700 selection:text-white">
@@ -722,7 +724,9 @@ export default function IzukogenWinterPage() {
               <Link href="/prefectures/mie" className="px-3 py-1.5 bg-stone-100 hover:bg-purple-100 text-stone-700 hover:text-purple-900 rounded-lg transition-colors font-medium">三重県の宿一覧</Link>
               <Link href="/prefectures/chiba" className="px-3 py-1.5 bg-stone-100 hover:bg-purple-100 text-stone-700 hover:text-purple-900 rounded-lg transition-colors font-medium">千葉県の宿一覧</Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-shizuoka-izukogen-granillumi-ito-onsen-stay" />
+</div>
         </section>
 
       </main>

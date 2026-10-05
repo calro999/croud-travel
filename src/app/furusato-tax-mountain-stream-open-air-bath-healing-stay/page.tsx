@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -27,6 +28,20 @@ export default function FurusatoMountainStreamOpenAirStayPage() {
       { '@type': 'ListItem', position: 2, name: '旅行節約ハブ', item: baseUrl + '/travel-savings-guide' },
       { '@type': 'ListItem', position: 3, name: '清流せせらぎ渓流露天風呂名宿特集', item: baseUrl + '/furusato-tax-mountain-stream-open-air-bath-healing-stay' },
     ],
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "清流のせせらぎとマイナスイオンに包まれる渓流露天風呂名宿×ふるさと納税完全ガイド【2026年最新】奥入瀬・黒川・塩原",
+    "description": "川のせせらぎ、木漏れ日の揺らめき、澄み切った清流のマイナスイオン！渓谷美と名湯が一体となった日本最高峰の渓流露天風呂宿を厳選。特別名勝・奥入瀬渓流沿いに唯一建つネイチャーリゾート「星野リゾート 奥入瀬渓流ホテル」、阿蘇の奥座敷・田の原川の清流を望む茅葺き屋根の隠れ宿「黒川温泉 旅館 奥の湯」、箒川の渓谷美と名物300段石段の野天風呂を誇る「塩原温泉 湯守田中屋」。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-mountain-stream-open-air-bath-healing-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -556,7 +571,9 @@ export default function FurusatoMountainStreamOpenAirStayPage() {
                 栃木県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-mountain-stream-open-air-bath-healing-stay" />
+</div>
         </section>
 
       </main>

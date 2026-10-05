@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import type { Metadata } from 'next';
@@ -213,6 +214,7 @@ export default function MarunouchiTokyoWinterPage() {
       }
     ]
   };
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800 antialiased selection:bg-amber-500 selection:text-white pb-20">
@@ -628,7 +630,9 @@ export default function MarunouchiTokyoWinterPage() {
               <span>大阪城イルミナージュ＆大阪天満宮初詣！水都夜景となにわ名宿</span>
               <span className="text-amber-300">→</span>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-tokyo-marunouchi-illumination-tokyo-station-hatsumode-stay" />
+</div>
         </section>
 
       </main>

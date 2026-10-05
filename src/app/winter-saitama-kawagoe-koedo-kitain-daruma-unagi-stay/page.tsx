@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -257,6 +258,7 @@ export default function SaitamaKawagoeKoedoWinterPage() {
     "a": "川越は都心からのアクセスが抜群で、池袋駅から東武東上線急行で約30分、新宿駅から西武新宿線特急「小江戸号」で約45分、渋谷駅からも副都心線直通で約50分で到着します。冬の埼玉は北西の季節風「赤城おろし」が吹き付ける日が多く、蔵造りの通りはビル風のような冷たい風が通り抜けます。防風性のあるロングコートやダウン、マフラー、手袋を着用し、石畳や寺社の境内を快適に歩けるスニーカーを選びましょう。"
   }
 ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-amber-100 selection:text-amber-900 pb-20">
@@ -711,7 +713,9 @@ export default function SaitamaKawagoeKoedoWinterPage() {
                 冬の特集記事一覧をすべて見る ➔
               </span>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-saitama-kawagoe-koedo-kitain-daruma-unagi-stay" />
+</div>
         </section>
 
       </main>

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -257,6 +258,7 @@ export default function OkayamaHinaseOysterWinterPage() {
     "a": "日生・牛窓エリアは瀬戸内海特有の温暖少雨な気候のため、真冬でも平野部で積雪や路面凍結することは稀です。通常の冬用タイヤなし（ノーマルタイヤ）でも走行可能な日が多いですが、朝晩の冷え込みによる橋の上や日陰の凍結には注意してください。岡山ブルーライン（無料化された観光道路）を利用すれば、岡山空港や岡山市街、倉敷方面から日生・牛窓へ車で快適にアクセスできます。海沿いは冷たい潮風が吹き抜けるため、防風性のあるダウンコートやマフラーを持参すると快適に観光できます。"
   }
 ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-sky-100 selection:text-sky-900 pb-20">
@@ -666,7 +668,9 @@ export default function OkayamaHinaseOysterWinterPage() {
               <span className="text-sky-700 font-bold block text-[10px]">鳥取・三朝温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">世界屈指のラジウム温泉と冬の味覚松葉ガニフルコースの名宿</p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-okayama-hinase-ushimado-oyster-kakioko-stay" />
+</div>
         </section>
 
       </main>

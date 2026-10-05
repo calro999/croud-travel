@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import Link from 'next/link';
 import Image from 'next/image';
 import { Metadata } from 'next';
@@ -22,8 +23,32 @@ export const metadata: Metadata = {
 const OFFICIAL_FURUSATO_URL = 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F';
 
 export default function Page() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三大奇勝＆巨岩奇峰パノラマ・大自然の彫刻美を愛でる宿×ふるさと納税完全ガイド【2026年最新】妙義山・耶馬渓・寒霞渓",
+    "description": "大自然が創り出した巨岩の彫刻芸術！群馬「妙義山」切り立つ岩峰パノラマと美肌の妙義温泉・上州牛、大分「耶馬渓」日本新三景の競秀峰と青の洞門・金色のいで湯、香川小豆島「寒霞渓」奇岩絶壁ロープウェイと小豆島オリーブ・瀬戸内海一望露天風呂。日本三大奇勝の絶景温泉宿を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-great-wonders-rock-scenery-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "日本三大奇勝＆巨岩奇峰パノラマ・大自然の彫刻美を愛でる宿×ふるさと納税完全ガイド【2026年最新】妙義山・耶馬渓・寒霞渓", "item": "https://croud-travel.pages.dev/furusato-tax-three-great-wonders-rock-scenery-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* Hero Header */}
       <header className="relative bg-gradient-to-br from-slate-900 via-indigo-950 to-blue-900 text-white py-16 px-4 sm:px-6 lg:px-8 shadow-xl">
         <div className="max-w-5xl mx-auto">
@@ -732,6 +757,8 @@ export default function Page() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="furusato-tax-three-great-wonders-rock-scenery-stay" />
+</div>
   );
 }

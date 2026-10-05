@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoNoboribetsuJigokudaniStayPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "湯量毎分3000L・9種の源泉デパート！登別温泉の地獄谷一望大浴場＆カニ食べ放題名門宿×ふるさと納税完全攻略ガイド【2026年最新】第一滝本館・まほろば・グランドホテル",
+    "description": "日本屈指の温泉天国・北海道登別温泉！立ちのぼる白煙が圧巻の地獄谷に隣接。「第一滝本館」「登別温泉 ホテル まほろば」「登別温泉 登別グランドホテル」を、北海道登別市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。1500坪の温泉天国、日本最大級露天風呂、カニ食べ放題ビュッフェ、鬼サウナを堪能。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-noboribetsu-jigokudani-onsen-luxury-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "湯量毎分3000L・9種の源泉デパート！登別温泉の地獄谷一望大浴場＆カニ食べ放題名門宿×ふるさと納税完全攻略ガイド【2026年最新】第一滝本館・まほろば・グランドホテル", "item": "https://croud-travel.pages.dev/furusato-tax-noboribetsu-jigokudani-onsen-luxury-stay/" }
+    ]
+  };
+
   return (
     <article className="max-w-5xl mx-auto px-4 py-8 text-gray-800 leading-relaxed font-sans">
       {/* パンくずリスト */}
@@ -346,7 +369,9 @@ export default function FurusatoNoboribetsuJigokudaniStayPage() {
           >
             ▸ 【一年中泳げる室内温水プール宿×ふるさと納税】那須・草津・別府リゾート
           </Link>
-        </div>
+        
+      <HubRelatedPosts currentSlug="furusato-tax-noboribetsu-jigokudani-onsen-luxury-stay" />
+</div>
       </section>
     </article>
   );

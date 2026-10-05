@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -27,6 +28,20 @@ export default function FurusatoAquariumFamilyResortStayPage() {
       { '@type': 'ListItem', position: 2, name: '旅行節約ハブ', item: baseUrl + '/travel-savings-guide' },
       { '@type': 'ListItem', position: 3, name: '水族館直結＆ファミリーオーシャンリゾートホテル特集', item: baseUrl + '/furusato-tax-aquarium-family-ocean-resort-stay' },
     ],
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "水族館直結＆イルカ・シャチの感動体験！ファミリー大満足オーシャンリゾートホテル×ふるさと納税完全ガイド【2026年最新】鴨川・鳥羽・沖縄美ら海",
+    "description": "海の生きものたちと間近に出逢う感動のファミリーバカンス！シャチの大迫力ジャンプで名高い鴨川シーワールド直結・宿泊者パスポート付き「鴨川シーワールドホテル」、日本一の飼育種類数を誇る鳥羽水族館至近＆真珠風呂「鳥羽国際ホテル 潮路亭」、沖縄美ら海水族館へ徒歩すぐ・備瀬のフクギ並木前の最高峰リゾート「オリオンホテル モトブリゾート＆スパ」。全室オーシャンビューや温泉を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-aquarium-family-ocean-resort-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -556,7 +571,9 @@ export default function FurusatoAquariumFamilyResortStayPage() {
                 長崎県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-aquarium-family-ocean-resort-stay" />
+</div>
         </section>
 
       </main>

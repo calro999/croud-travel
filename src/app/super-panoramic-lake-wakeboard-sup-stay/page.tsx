@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -109,6 +110,7 @@ export default function FeaturePage() {
               features: ["2022年7月より温泉へリニューアル！湖畔を一望できるホテル！ご当地メニュー鰻飯や浜松餃子が大好評♪", "浜松市浜名区三ヶ日町大崎372", "楽天アワード受賞歴"]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-stone-50 via-white to-stone-50 text-stone-800">
@@ -435,7 +437,9 @@ export default function FeaturePage() {
                 富山県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="super-panoramic-lake-wakeboard-sup-stay" />
+</div>
         </section>
 
       </main>

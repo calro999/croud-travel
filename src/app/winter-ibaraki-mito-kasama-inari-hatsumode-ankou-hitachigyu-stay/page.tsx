@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -212,6 +213,7 @@ export default function IbarakiMitoKasamaPage() {
       }
     ]
   };
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800">
@@ -628,7 +630,9 @@ export default function IbarakiMitoKasamaPage() {
               <span>全国の冬旅特集一覧を見る</span>
               <Compass className="w-4 h-4" />
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-ibaraki-mito-kasama-inari-hatsumode-ankou-hitachigyu-stay" />
+</div>
         </section>
       </main>
     </article>

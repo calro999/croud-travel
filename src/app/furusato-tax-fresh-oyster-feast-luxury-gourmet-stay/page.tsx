@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -27,6 +28,20 @@ export default function FurusatoFreshOysterFeastStayPage() {
       { '@type': 'ListItem', position: 2, name: '旅行節約ハブ', item: baseUrl + '/travel-savings-guide' },
       { '@type': 'ListItem', position: 3, name: '名産地牡蠣尽くし会席＆温泉宿特集', item: baseUrl + '/furusato-tax-fresh-oyster-feast-luxury-gourmet-stay' },
     ],
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "本場名産地で味わう極上牡蠣尽くし会席＆生牡蠣・焼き牡蠣の贅沢温泉宿×ふるさと納税完全ガイド【2026年最新】宮島・伊勢志摩・三陸気仙沼",
+    "description": "海のミルクと称される濃厚な旬牡蠣を本場の名宿で堪能！世界遺産・厳島神社の参道に佇み広島牡蠣と伝統の数寄屋建築を誇る「宮島グランドホテル 有もと」、的矢かき・本浦かきの本場として知られる鳥羽の自家源泉美肌宿「サン浦島 悠季の里」、世界三大漁場・三陸の栄養豊かな大粒牡蠣を味わう気仙沼大島「旅館 椿荘花月」。ぷりぷりの生牡蠣、香ばしい焼き牡蠣、サクサクのカキフライに熱々牡蠣鍋。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-fresh-oyster-feast-luxury-gourmet-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -556,7 +571,9 @@ export default function FurusatoFreshOysterFeastStayPage() {
                 兵庫県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-fresh-oyster-feast-luxury-gourmet-stay" />
+</div>
         </section>
 
       </main>

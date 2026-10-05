@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -56,8 +57,32 @@ export default function PetDogResortHubPage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【天然芝プライベートドッグラン付きヴィラ】アジリティ＆貸切一棟ステイ 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "ノーリードで思いっきり駆け回る歓び！客室専用天然芝プライベートドッグラン付き一棟貸しヴィラ完全特化！千葉九十九里・那須・軽井沢・琵琶湖、アジリティ完備、足洗い場＆温水シャワー、愛犬とBBQを楽しむ宿を徹底解説。",
+    "url": "https://croud-travel.pages.dev/dog-private-grass-run-villa-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【天然芝プライベートドッグラン付きヴィラ】アジリティ＆貸切一棟ステイ 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/dog-private-grass-run-villa-stay/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-amber-950 via-emerald-950 to-stone-900 text-white p-8 md:p-14 shadow-xl border border-amber-400/20">
         <div className="max-w-3xl space-y-4">
@@ -203,6 +228,8 @@ export default function PetDogResortHubPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="dog-private-grass-run-villa-stay" />
+</div>
   );
 }

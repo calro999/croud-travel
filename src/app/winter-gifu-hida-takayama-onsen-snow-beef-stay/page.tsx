@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -257,6 +258,7 @@ export default function GifuHidaTakayamaWinterPage() {
     "a": "11月の高山は最高気温12℃前後、最低気温2℃前後ですが、12月〜1月は日中でも最高気温3〜5℃、朝晩はマイナス5℃以下まで冷え込みます。底冷えが厳しいため、ヒートテックなどの吸湿発熱インナーの重ね着、風を通さない防風・防水ダウンジャケット、ニット帽、マフラー、手袋が必需品です。足元は、古い町並みの石畳やアスファルトが凍結して滑りやすいため、底にしっかりとした凹凸がある滑り止め付きスノーブーツまたは防水トレッキングシューズを強くおすすめします。"
   }
 ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-amber-100 selection:text-amber-900 pb-20">
@@ -645,7 +647,9 @@ export default function GifuHidaTakayamaWinterPage() {
               <span className="text-amber-700 font-bold block text-[10px]">長野・浅間温泉＆松本城</span>
               <p className="font-bold text-stone-800 line-clamp-2">国宝松本城の白銀雪景色と浅間温泉の美肌湯・信州牛すき焼きの宿</p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-gifu-hida-takayama-onsen-snow-beef-stay" />
+</div>
         </section>
 
       </main>

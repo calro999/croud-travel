@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -221,6 +222,7 @@ export default function IbarakiKitaibarakiWinterFeature() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800 pb-20">
@@ -593,7 +595,9 @@ export default function IbarakiKitaibarakiWinterFeature() {
               <span className="text-xs text-amber-300 font-semibold block mb-1">神奈川・箱根温泉</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">雪化粧の霊峰富士を望む絶景露天風呂と伝統会席のラグジュアリー宿</h3>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-ibaraki-kitaibaraki-isohara-onsen-ankou-dobujiru-stay" />
+</div>
         </section>
 
       </main>

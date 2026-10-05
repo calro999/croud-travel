@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -113,8 +114,32 @@ export default function Page() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三大柱状節理峡谷＆幾何学絶壁とエメラルド清流名湯宿×ふるさと納税完全ガイド【2026年最新】清津峡・高千穂峡・層雲峡",
+    "description": "マグマが冷え固まり生まれた地球の彫刻！新潟十日町「清津峡」巨大柱状節理と水鏡アートの清津峡湯元温泉清津館、宮崎「高千穂峡」阿蘇溶岩が刻んだ神話峡谷と名旅館大和屋、北海道「層雲峡」大雪山麓に連なる24kmの大絶壁と朝陽亭。日本三大柱状節理峡谷（三大奇岩峡谷）の圧倒的ダイナミズムを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-great-columnar-joints-gorges-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "日本三大柱状節理峡谷＆幾何学絶壁とエメラルド清流名湯宿×ふるさと納税完全ガイド【2026年最新】清津峡・高千穂峡・層雲峡", "item": "https://croud-travel.pages.dev/furusato-tax-three-great-columnar-joints-gorges-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずリスト */}
       <nav className="bg-white border-b border-slate-200 py-3 px-4 text-xs text-slate-500">
         <div className="max-w-5xl mx-auto flex items-center space-x-2">
@@ -533,6 +558,8 @@ export default function Page() {
       <footer className="bg-slate-950 text-slate-400 py-8 px-4 text-center text-xs border-t border-slate-800">
         <p>© 2026 トラベルポータル All Rights Reserved. 掲載情報は最新の楽天トラベル公式APIに基づきます。</p>
       </footer>
-    </div>
+    
+      <HubRelatedPosts currentSlug="furusato-tax-three-great-columnar-joints-gorges-stay" />
+</div>
   );
 }

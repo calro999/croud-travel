@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -27,6 +28,20 @@ export default function FurusatoShinshuSobaKaisekiStayPage() {
       { '@type': 'ListItem', position: 2, name: '旅行節約ハブ', item: baseUrl + '/travel-savings-guide' },
       { '@type': 'ListItem', position: 3, name: '信州手打ち蕎麦会席＆山里名宿特集', item: baseUrl + '/furusato-tax-shinshu-soba-kaiseki-luxury-ryokan-stay' },
     ],
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "名水が育む挽きたて・打ちたて・茹でたて！信州手打ち蕎麦会席＆山里温泉名旅館×ふるさと納税完全ガイド【2026年最新】戸隠・安曇野・浅間温泉",
+    "description": "澄んだ名水と清涼な高原の風土が育む日本の蕎麦文化の頂点！日本三大蕎麦・戸隠そば発祥の地で伝統のぼっち盛りと宿坊会席を味わう「戸隠のそば宿・宿坊極意」、名水百選わさび田の里で自家製粉十割手打ち蕎麦と源泉掛け流し離れ宿「安曇野 にし屋別荘」、国宝松本城にほど近い浅間温泉で石臼挽き手打ち蕎麦と畳敷きの温もりに包まれる「別亭 一花」。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-shinshu-soba-kaiseki-luxury-ryokan-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -556,7 +571,9 @@ export default function FurusatoShinshuSobaKaisekiStayPage() {
                 秋田県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-shinshu-soba-kaiseki-luxury-ryokan-stay" />
+</div>
         </section>
 
       </main>

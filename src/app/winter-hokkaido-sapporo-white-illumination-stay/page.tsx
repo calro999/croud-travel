@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -109,6 +110,7 @@ export default function FeaturePage() {
               features: ["渓流沿いに佇む名湯の宿。2022年12月、本格サウナと卓球など滞在を満喫できるラウンジがオープン！", "札幌市南区定山渓温泉西3丁目32番地", "楽天アワード受賞歴"]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-stone-50 via-white to-stone-50 text-stone-800">
@@ -664,7 +666,9 @@ export default function FeaturePage() {
                 茨城県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-hokkaido-sapporo-white-illumination-stay" />
+</div>
         </section>
 
       </main>

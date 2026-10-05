@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -41,8 +42,32 @@ function loadHotels(): Hotel[] {
 export default function HokkaidoWinterShoesClothingGuidePage() {
   const hotels = loadHotels();
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【冬の北海道旅行 滑らない靴＆防寒着の失敗談】着膨れして室内で大汗！？氷道で転ばない完全防備マニュアル ｜ 日本全国・旅宿クラウド",
+    "description": "冬の北海道（札幌・小樽・旭川）で後悔しないための服装・靴選び！ツルツル氷道で滑らないスノーブーツの選び方、外氷点下×室内25度の温度差対策、スマホバッテリー急減対策、駅直結地下街ホテルまとめ。",
+    "url": "https://croud-travel.pages.dev/hokkaido-winter-shoes-clothing-mistakes-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【冬の北海道旅行 滑らない靴＆防寒着の失敗談】着膨れして室内で大汗！？氷道で転ばない完全防備マニュアル ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/hokkaido-winter-shoes-clothing-mistakes-guide/" }
+    ]
+  };
+
   return (
     <div className="max-w-4xl mx-auto px-4 py-10 md:py-16 font-sans text-slate-800 space-y-12">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローヘッダー - Slate & Ice Blue / 凍結路面とブリザードの冷涼感 */}
       <section className="bg-gradient-to-br from-slate-900 via-slate-800 to-sky-950 rounded-3xl p-8 md:p-12 text-white shadow-xl relative overflow-hidden">
         <div className="absolute top-0 right-0 w-80 h-80 bg-cyan-400/10 rounded-full blur-3xl pointer-events-none" />
@@ -369,6 +394,8 @@ export default function HokkaidoWinterShoesClothingGuidePage() {
           </Link>
         </div>
       </section>
-    </div>
+    
+      <HubRelatedPosts currentSlug="hokkaido-winter-shoes-clothing-mistakes-guide" />
+</div>
   );
 }

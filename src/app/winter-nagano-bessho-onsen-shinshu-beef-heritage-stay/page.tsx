@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -221,6 +222,7 @@ export default function NaganoBesshoWinterFeature() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800 pb-20">
@@ -624,7 +626,9 @@ export default function NaganoBesshoWinterFeature() {
               <h3 className="font-bold text-white text-sm">富士河口湖温泉・冠雪の富士山一望露天と甲州牛の宿</h3>
               <p className="text-slate-300 text-[11px] line-clamp-2">初冬の澄み渡る空気の中で眺める逆さ富士と極上ワイン。</p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-nagano-bessho-onsen-shinshu-beef-heritage-stay" />
+</div>
         </section>
 
       </main>

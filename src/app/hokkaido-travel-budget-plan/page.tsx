@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import fs from "fs";
 import path from "path";
@@ -23,6 +24,28 @@ function loadHotels() {
 
 export default function HokkaidoBudgetGuide() {
   const hotels = loadHotels();
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【北海道旅行 予算】2泊3日・3泊4日はいくら必要？レンタカーなしでも回れる費用計画ガイド",
+    "description": "北海道旅行の予算を2泊3日・3泊4日で徹底シミュレーション！札幌・小樽・函館のエリア別費用、飛行機・新幹線・フェリーの交通費比較、海鮮丼・ジンギスカン・スープカレーのグルメ予算まで。レンタカーなしでJR＆バスで回るプランも。",
+    "url": "https://croud-travel.pages.dev/hokkaido-travel-budget-plan/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【北海道旅行 予算】2泊3日・3泊4日はいくら必要？レンタカーなしでも回れる費用計画ガイド", "item": "https://croud-travel.pages.dev/hokkaido-travel-budget-plan/" }
+    ]
+  };
 
   return (
     <div className="bg-white min-h-screen">
@@ -229,6 +252,8 @@ export default function HokkaidoBudgetGuide() {
           )}
         </section>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="hokkaido-travel-budget-plan" />
+</div>
   );
 }

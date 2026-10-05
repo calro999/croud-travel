@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -109,6 +110,7 @@ export default function FeaturePage() {
               features: ["貸切温泉OPEN★新しいビュッフェと和牛しゃぶしゃぶが好評♪敷地内に英国調パブ有★八方まで徒歩3分", "北安曇郡白馬村北城4683-2", "楽天アワード受賞歴"]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-stone-50 via-white to-stone-50 text-stone-800">
@@ -435,7 +437,9 @@ export default function FeaturePage() {
                 島根県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="organic-forest-infinity-panoramic-sauna-chubu" />
+</div>
         </section>
 
       </main>

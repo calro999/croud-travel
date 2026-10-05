@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -64,8 +65,32 @@ export default function KyotoCoupleLuxuryRyokanPage() {
     }
   ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【京都カップル旅行 おすすめ高級旅館＆町家ホテル】祇園・嵐山で二人きりの特別な夜を過ごす大人の宿",
+    "description": "大人の京都カップル旅におすすめの極上宿！坪庭を望む町家一棟貸し、嵐山の静寂に包まれる客室露天風呂付き旅館、旬の京懐石ディナーを味わう風情あふれる記念日ステイ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/kyoto-couple-luxury-ryokan-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【京都カップル旅行 おすすめ高級旅館＆町家ホテル】祇園・嵐山で二人きりの特別な夜を過ごす大人の宿", "item": "https://croud-travel.pages.dev/kyoto-couple-luxury-ryokan-guide/" }
+    ]
+  };
+
   return (
     <div className="bg-[#f7f9f6] text-stone-800 min-h-screen font-sans antialiased">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローヘッダー（Emerald & Moss Green Heritage） */}
       <header className="relative bg-gradient-to-b from-[#062419] via-[#0d3827] to-[#122a20] text-white overflow-hidden">
         <div className="absolute inset-0 opacity-10 bg-[radial-gradient(#34d399_1px,transparent_1px)] [background-size:24px_24px]" />
@@ -447,6 +472,8 @@ export default function KyotoCoupleLuxuryRyokanPage() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="kyoto-couple-luxury-ryokan-guide" />
+</div>
   );
 }

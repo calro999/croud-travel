@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -109,6 +110,7 @@ export default function FeaturePage() {
               features: ["源泉かけ流し100％の天然温泉を貸切露天風呂で♪美肌の湯でお肌つるつる★地獄巡りからも徒歩5分！", "別府市鉄輪上6組", "楽天アワード受賞歴"]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-stone-50 via-white to-stone-50 text-stone-800">
@@ -662,7 +664,9 @@ export default function FeaturePage() {
                 愛媛県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-oita-beppu-jigokumushi-hotspring-stay" />
+</div>
         </section>
 
       </main>

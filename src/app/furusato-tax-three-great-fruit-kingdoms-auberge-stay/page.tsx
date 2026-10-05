@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -100,8 +101,32 @@ export default function Page() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三大フルーツ王国＆もぎたて果実の恵み・果樹園パノラマと美食リゾート×ふるさと納税完全ガイド【2026年最新】山梨・山形・長野",
+    "description": "太陽を浴びた旬の果実とスイーツの楽園！山梨笛吹「ぶどう・桃の郷」甲府盆地を見下ろすフルーツパーク富士屋ホテル、山形天童「さくらんぼ佐藤錦・ラフランス」将棋と果樹園の天童温泉滝の湯、長野須坂・小布施「シャインマスカット・信州りんご」栗と果樹の欧風オーベルジュ小布施の宿ヴァンヴェール。日本三大フルーツ王国の贅沢な果実旅を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-great-fruit-kingdoms-auberge-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "日本三大フルーツ王国＆もぎたて果実の恵み・果樹園パノラマと美食リゾート×ふるさと納税完全ガイド【2026年最新】山梨・山形・長野", "item": "https://croud-travel.pages.dev/furusato-tax-three-great-fruit-kingdoms-auberge-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずリスト */}
       <nav className="bg-white border-b border-slate-200 py-3 px-4 text-xs text-slate-500">
         <div className="max-w-5xl mx-auto flex items-center space-x-2">
@@ -520,6 +545,8 @@ export default function Page() {
       <footer className="bg-slate-950 text-slate-400 py-8 px-4 text-center text-xs border-t border-slate-800">
         <p>© 2026 トラベルポータル All Rights Reserved. 掲載情報は最新の楽天トラベル公式APIに基づきます。</p>
       </footer>
-    </div>
+    
+      <HubRelatedPosts currentSlug="furusato-tax-three-great-fruit-kingdoms-auberge-stay" />
+</div>
   );
 }

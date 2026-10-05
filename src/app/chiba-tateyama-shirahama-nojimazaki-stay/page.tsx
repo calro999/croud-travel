@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -56,8 +57,32 @@ export default function MicroTouristHubPage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【千葉・館山＆白浜・野島崎】房総最南端白亜の灯台・フラワーライン＆伊勢海老宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "黒潮の恵みと温暖な楽園・南房総館山＆白浜エリア完全特化！房総半島最南端「野島埼灯台（ラバーズベンチ）」、日本の道百選「房総フラワーライン」、館山城（城山公園）、名物「房総伊勢海老・アワビ・地魚寿司宿」を徹底解説。",
+    "url": "https://croud-travel.pages.dev/chiba-tateyama-shirahama-nojimazaki-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【千葉・館山＆白浜・野島崎】房総最南端白亜の灯台・フラワーライン＆伊勢海老宿 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/chiba-tateyama-shirahama-nojimazaki-stay/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-stone-900 via-rose-950 to-amber-950 text-white p-8 md:p-14 shadow-xl border border-white/10">
         <div className="max-w-3xl space-y-4">
@@ -203,6 +228,8 @@ export default function MicroTouristHubPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="chiba-tateyama-shirahama-nojimazaki-stay" />
+</div>
   );
 }

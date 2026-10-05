@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -147,8 +148,32 @@ const hotels: any[] = [
 ];
 
 export default function FeatureDetailPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【2026年】春の味覚・朝採り筍！掘りたてタケノコ会席＆幻想的な竹林露天の風情宿5選 | 日本全国・旅宿クラウド",
+    "description": "2026年最新！春限定の朝掘り新鮮タケノコ会席！焼き筍・筍ご飯・若竹煮と、ライトアップされた竹林を望む幻想露天風呂が自慢の名湯宿5選。",
+    "url": "https://croud-travel.pages.dev/spring-takenoko-bamboo-shoot-kaiseki-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【2026年】春の味覚・朝採り筍！掘りたてタケノコ会席＆幻想的な竹林露天の風情宿5選 | 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/spring-takenoko-bamboo-shoot-kaiseki-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずリスト */}
       <div className="bg-white border-b border-slate-200">
         <div className="max-w-6xl mx-auto px-4 py-3 text-sm text-slate-500 flex items-center space-x-2">
@@ -667,6 +692,8 @@ export default function FeatureDetailPage() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="spring-takenoko-bamboo-shoot-kaiseki-stay" />
+</div>
   );
 }

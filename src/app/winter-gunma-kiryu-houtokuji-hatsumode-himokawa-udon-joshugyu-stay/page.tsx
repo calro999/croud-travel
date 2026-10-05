@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import Link from 'next/link';
 import type { Metadata } from 'next';
 import { 
@@ -255,6 +256,7 @@ export default function GunmaKiryuWinterPage() {
       a: "東武鉄道の特急「りょうもう号」を利用するのが最も快適です。浅草駅・北千住駅から東武伊勢崎線・桐生線特急で新桐生駅または相老駅まで直通約1時間40分です。JR利用の場合は、上野駅・新宿駅から高崎線または両毛線直通で桐生駅まで約2時間。車の場合は北関東自動車道「太田桐生IC」から桐生市街まで約15分、宝徳寺までは約25分です。宝徳寺周辺は山沿いに位置するため、12月下旬〜1月に車で訪れる際は念のためスタッドレスタイヤ装着が推奨されます。"
     }
   ];
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800 antialiased">
@@ -680,7 +682,9 @@ export default function GunmaKiryuWinterPage() {
             >
               トップページへ戻る
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-gunma-kiryu-houtokuji-hatsumode-himokawa-udon-joshugyu-stay" />
+</div>
         </section>
 
       </main>

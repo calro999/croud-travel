@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -147,8 +148,32 @@ const hotels: any[] = [
 ];
 
 export default function FeatureDetailPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【2026年】肉の芸術品・特選松阪牛！炭火ステーキ・すき焼き会席＆伊勢志摩・鳥羽の極上宿5選 | 日本全国・旅宿クラウド",
+    "description": "2026年最新！日本最高峰のブランド和牛「松阪牛」の極上サーロインステーキ＆すき焼き！伊勢神宮参拝と鳥羽・賢島オーシャンビュー温泉旅館5選。",
+    "url": "https://croud-travel.pages.dev/traditional-mie-matsusaka-beef-steak-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【2026年】肉の芸術品・特選松阪牛！炭火ステーキ・すき焼き会席＆伊勢志摩・鳥羽の極上宿5選 | 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/traditional-mie-matsusaka-beef-steak-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずリスト */}
       <div className="bg-white border-b border-slate-200">
         <div className="max-w-6xl mx-auto px-4 py-3 text-sm text-slate-500 flex items-center space-x-2">
@@ -668,6 +693,8 @@ export default function FeatureDetailPage() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="traditional-mie-matsusaka-beef-steak-stay" />
+</div>
   );
 }

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -257,6 +258,7 @@ export default function KochiCityTosaKueWinterPage() {
     "a": "高知県は南国と呼ばれる通り、太平洋側気候のため日照時間が長く、冬でも平野部の日中は12℃〜15℃前後まで上がり穏やかな晴天が多いです。雪が降ることは極めて稀で、積雪の心配はほとんどありません。ただし朝晩や海沿いは浜風で冷え込むため、厚手のコートやダウンジャケット、風を通さない防寒着が必要です。高知市街地の観光（高知城・ひろめ市場・日曜市）は路面電車（とさでん交通）や徒歩で快適に周遊可能。桂浜や龍河洞、南国・物部川方面へは路線バスやレンタカーの利用がスムーズです。"
   }
 ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-red-100 selection:text-red-900 pb-20">
@@ -666,7 +668,9 @@ export default function KochiCityTosaKueWinterPage() {
               <span className="text-red-700 font-bold block text-[10px]">岡山・日生＆牛窓</span>
               <p className="font-bold text-stone-800 line-clamp-2">大粒の日生牡蠣カキオコと牛窓オリーブ園夕陽・日本のエーゲ海宿</p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-kochi-city-tosa-kue-katsuo-akagyu-castle-stay" />
+</div>
         </section>
 
       </main>

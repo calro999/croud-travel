@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -100,8 +101,32 @@ export default function Page() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三大岬＆地球の丸みを感じる断崖・絶景パノラマ海宿×ふるさと納税完全ガイド【2026年最新】知床岬・足摺岬・佐多岬",
+    "description": "日本列島の果てに突き出た壮大な絶景岬！世界自然遺産の断崖とオホーツクの海原「知床岬」ウトロ温泉知床第一ホテル、黒潮打ち寄せる太平洋270度パノラマと白亜の灯台「足摺岬」足摺国際ホテル、本州最南端からエメラルドブルーの錦江湾と開聞岳を望む「佐多岬」指宿白水館。日本三大岬のダイナミックな景観美と海の幸を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-great-capes-ocean-panorama-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "日本三大岬＆地球の丸みを感じる断崖・絶景パノラマ海宿×ふるさと納税完全ガイド【2026年最新】知床岬・足摺岬・佐多岬", "item": "https://croud-travel.pages.dev/furusato-tax-three-great-capes-ocean-panorama-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずリスト */}
       <nav className="bg-white border-b border-slate-200 py-3 px-4 text-xs text-slate-500">
         <div className="max-w-5xl mx-auto flex items-center space-x-2">
@@ -520,6 +545,8 @@ export default function Page() {
       <footer className="bg-slate-950 text-slate-400 py-8 px-4 text-center text-xs border-t border-slate-800">
         <p>© 2026 トラベルポータル All Rights Reserved. 掲載情報は最新の楽天トラベル公式APIに基づきます。</p>
       </footer>
-    </div>
+    
+      <HubRelatedPosts currentSlug="furusato-tax-three-great-capes-ocean-panorama-stay" />
+</div>
   );
 }

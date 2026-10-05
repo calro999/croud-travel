@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -59,8 +60,32 @@ export default function MicroTouristHubPage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【香川・琴平＆こんぴら温泉】金刀比羅宮・讃岐うどん＆名湯宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "「さぬきのこんぴらさん」金刀比羅宮の本宮785段・奥社1368段参拝、日本最古の芝居小屋「旧金毘羅大芝居（金丸座）」、本場讃岐うどん手打ち体験＆名店巡り、名湯「こんぴら温泉郷」を徹底解説。石段街の老舗旅館や庭園露天宿を厳選。",
+    "url": "https://croud-travel.pages.dev/kagawa-kotohira-konpira-shrine-sanuki-udon-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【香川・琴平＆こんぴら温泉】金刀比羅宮・讃岐うどん＆名湯宿 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/kagawa-kotohira-konpira-shrine-sanuki-udon-stay/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-stone-900 via-teal-950 to-blue-950 text-white p-8 md:p-14 shadow-xl border border-white/10">
         <div className="max-w-3xl space-y-4">
@@ -212,6 +237,8 @@ export default function MicroTouristHubPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="kagawa-kotohira-konpira-shrine-sanuki-udon-stay" />
+</div>
   );
 }

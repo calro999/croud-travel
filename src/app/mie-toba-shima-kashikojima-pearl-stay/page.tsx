@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -16,8 +17,32 @@ export const metadata: Metadata = {
 };
 
 export default function Page() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【三重・鳥羽＆志摩・賢島】英虞湾夕日・鳥羽水族館＆伊勢海老・海女小屋宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "大小60余の島々が織りなすリアス式海岸「英虞湾」の夕景パノラマ、サミット開催地「賢島」、世界初の真珠養殖成功「ミキモト真珠島」、飼育種類数日本一「鳥羽水族館」、現役海女が炭火で焼く本場の伊勢海老・鮑を堪能する極上リゾート宿を徹底解説。",
+    "url": "https://croud-travel.pages.dev/mie-toba-shima-kashikojima-pearl-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【三重・鳥羽＆志摩・賢島】英虞湾夕日・鳥羽水族館＆伊勢海老・海女小屋宿 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/mie-toba-shima-kashikojima-pearl-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-stone-950 text-stone-100">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローヘッダー */}
       <div className="relative py-20 px-4 sm:px-6 lg:px-8 bg-gradient-to-b from-stone-900 via-stone-950 to-stone-950 border-b border-stone-800">
         <div className="max-w-5xl mx-auto text-center">
@@ -889,6 +914,8 @@ export default function Page() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="mie-toba-shima-kashikojima-pearl-stay" />
+</div>
   );
 }

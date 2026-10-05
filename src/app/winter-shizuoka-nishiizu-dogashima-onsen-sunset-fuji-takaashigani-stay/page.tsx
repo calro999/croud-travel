@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -220,6 +221,7 @@ export default function WinterShizuokaDogashimaPage() {
       }
     ]
   };
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-slate-50 via-teal-50/20 to-slate-50 text-slate-800 antialiased">
@@ -659,7 +661,9 @@ export default function WinterShizuokaDogashimaPage() {
                 澄んだ初冬の芦ノ湖と雪化粧富士を望む天下の名湯リゾートステイ。
               </p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-shizuoka-nishiizu-dogashima-onsen-sunset-fuji-takaashigani-stay" />
+</div>
         </section>
 
       </main>

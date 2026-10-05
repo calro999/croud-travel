@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -27,6 +28,20 @@ export default function FurusatoSpillOverKaisendonStayPage() {
       { '@type': 'ListItem', position: 2, name: '旅行節約ハブ', item: baseUrl + '/travel-savings-guide' },
       { '@type': 'ListItem', position: 3, name: 'こぼれ海鮮丼＆朝食いくら盛り放題ホテル特集', item: baseUrl + '/furusato-tax-spill-over-kaisendon-seafood-bowl-stay' },
     ],
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "宝石のように輝くいくら盛り放題＆贅沢こぼれ海鮮丼！港町の名門ホテル×ふるさと納税完全ガイド【2026年最新】函館・金沢・伊東",
+    "description": "丼から溢れんばかりの新鮮魚介を朝から心ゆくまで！全国朝食ランキングの絶対王者・いくらかけ放題の「ラビスタ函館ベイANNEX」、近江町市場直送の海の幸と大正ロマンの天然温泉を誇る「金沢白鳥路 ホテル山楽」、海底温泉魚風呂と金目鯛・海鮮舟盛りバイキングの「伊東温泉 サンハトヤ」。自分好みに作る究極のオリジナル海鮮丼ステイを、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-spill-over-kaisendon-seafood-bowl-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -556,7 +571,9 @@ export default function FurusatoSpillOverKaisendonStayPage() {
                 山梨県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-spill-over-kaisendon-seafood-bowl-stay" />
+</div>
         </section>
 
       </main>

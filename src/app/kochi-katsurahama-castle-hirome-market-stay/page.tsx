@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -59,8 +60,32 @@ export default function MicroTouristHubPage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【高知・桂浜＆高知城】坂本龍馬・カツオ藁焼き＆ひろめ市場宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "幕末の英雄・坂本龍馬が愛した名勝「桂浜」、現存十二天守にして日本唯一本丸御殿が残る「高知城」、屋台村でカツオの塩たたきと地酒に酔いしれる「ひろめ市場」、三百年続く「土佐の日曜市」を徹底解説。高知市内温泉ホテルや太平洋ビュー宿を厳選。",
+    "url": "https://croud-travel.pages.dev/kochi-katsurahama-castle-hirome-market-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【高知・桂浜＆高知城】坂本龍馬・カツオ藁焼き＆ひろめ市場宿 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/kochi-katsurahama-castle-hirome-market-stay/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-stone-900 via-teal-950 to-blue-950 text-white p-8 md:p-14 shadow-xl border border-white/10">
         <div className="max-w-3xl space-y-4">
@@ -212,6 +237,8 @@ export default function MicroTouristHubPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="kochi-katsurahama-castle-hirome-market-stay" />
+</div>
   );
 }

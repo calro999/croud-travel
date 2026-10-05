@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FeatureArticlePage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "阿蘇・黒川温泉の渓流紅葉と入湯手形めぐり！田の原川沿いの風情ある名宿×ふるさと納税完全ガイド【2026年最新秋旅】熊本",
+    "description": "10月下旬〜11月中旬に山里全体が秋色に包まれる九州屈指の人気温泉郷「黒川温泉」。田の原川沿いの雑木林紅葉と情緒ある杉皮屋根の街並み、名物「入湯手形」でめぐる野趣あふれる露天風呂、名宿「山河」「新明館」「美里」であか牛ステーキや肥後馬刺しを堪能。楽天ふるさと納税で実質2,000円で泊まる極上里山ステイ。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-kurokawa-autumn-leaves-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "阿蘇・黒川温泉の渓流紅葉と入湯手形めぐり！田の原川沿いの風情ある名宿×ふるさと納税完全ガイド【2026年最新秋旅】熊本", "item": "https://croud-travel.pages.dev/furusato-tax-kurokawa-autumn-leaves-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -508,7 +531,9 @@ export default function FeatureArticlePage() {
                 熊本県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-kurokawa-autumn-leaves-stay" />
+</div>
         </section>
 
       </main>

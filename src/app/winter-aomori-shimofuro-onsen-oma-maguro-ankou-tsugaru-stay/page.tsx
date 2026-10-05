@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -220,6 +221,7 @@ export default function WinterAomoriShimofuroPage() {
       }
     ]
   };
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-stone-50 via-slate-50/30 to-stone-50 text-stone-800 antialiased">
@@ -567,7 +569,9 @@ export default function WinterAomoriShimofuroPage() {
                 凍りつく滝「氷瀑」の幻想的な雪景色と渓流リゾートの冬ステイ。
               </p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-aomori-shimofuro-onsen-oma-maguro-ankou-tsugaru-stay" />
+</div>
         </section>
 
       </main>

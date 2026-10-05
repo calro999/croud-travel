@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -212,6 +213,7 @@ export default function FukuiEiheijiPage() {
       }
     ]
   };
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800">
@@ -606,7 +608,9 @@ export default function FukuiEiheijiPage() {
               <span>全国の冬特集一覧を見る →</span>
               <span className="text-teal-200 text-xs font-normal mt-1">11・12・1月の厳選記事を多数掲載</span>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-fukui-eiheiji-snow-zen-echizen-oroshi-soba-wakasa-beef-stay" />
+</div>
         </section>
 
       </main>

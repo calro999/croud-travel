@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -122,6 +123,28 @@ export default function SilverWeekGlampingHotspringOnsenSpaPage() {
         text: faq.answer,
       },
     })),
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【源泉かけ流し温泉付きグランピング】キャンプ飯×名湯の極み！名門温泉地直結の露天風呂リゾート ｜ 日本全国・旅宿クラウド",
+    "description": "簡易シャワーのグランピングとは別次元！敷地内に本格的な自家源泉を引いた温泉宿直営グランピング特集。客室専用の半露天風呂、美肌の湯、湯上りのビールと焚き火を同時に満喫する大人ステイ。",
+    "url": "https://croud-travel.pages.dev/silver-week-glamping-hotspring-onsen-spa-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【源泉かけ流し温泉付きグランピング】キャンプ飯×名湯の極み！名門温泉地直結の露天風呂リゾート ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/silver-week-glamping-hotspring-onsen-spa-guide/" }
+    ]
   };
 
   return (
@@ -378,6 +401,8 @@ export default function SilverWeekGlampingHotspringOnsenSpaPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="silver-week-glamping-hotspring-onsen-spa-guide" />
+</div>
   );
 }

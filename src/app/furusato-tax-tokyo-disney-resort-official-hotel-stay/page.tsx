@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoTokyoDisneyOfficialHotelStayPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "舞浜直結！東京ディズニーリゾート公式オフィシャルホテル×ふるさと納税完全攻略ガイド【2026年最新】シェラトン・ヒルトン・グランドニッコーで夢の国をお得に満喫",
+    "description": "パークの目の前に泊まる夢の体験！ディズニーリゾートライン駅前でパーク直通シャトル運行、入園保証やホテル内バゲッジデリバリーなど特典満載のオフィシャルホテル。「シェラトン・グランデ・トーキョーベイ・ホテル」「ヒルトン東京ベイ」「グランドニッコー東京ベイ 舞浜」を、千葉県浦安市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-tokyo-disney-resort-official-hotel-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "舞浜直結！東京ディズニーリゾート公式オフィシャルホテル×ふるさと納税完全攻略ガイド【2026年最新】シェラトン・ヒルトン・グランドニッコーで夢の国をお得に満喫", "item": "https://croud-travel.pages.dev/furusato-tax-tokyo-disney-resort-official-hotel-stay/" }
+    ]
+  };
+
   return (
     <article className="max-w-5xl mx-auto px-4 py-8 text-gray-800 leading-relaxed font-sans">
       {/* パンくずリスト */}
@@ -346,7 +369,9 @@ export default function FurusatoTokyoDisneyOfficialHotelStayPage() {
           >
             ▸ 【USJ公式オフィシャルホテル×ふるさと納税】パーク徒歩圏・天然温泉
           </Link>
-        </div>
+        
+      <HubRelatedPosts currentSlug="furusato-tax-tokyo-disney-resort-official-hotel-stay" />
+</div>
       </section>
     </article>
   );

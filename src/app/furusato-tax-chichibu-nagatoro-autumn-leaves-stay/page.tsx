@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoChichibuNagatoroAutumnLeavesStayPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "国指定天然記念物・長瀞岩畳の紅葉舟下り！秩父夜祭・錦秋ハイキング＆秩父七湯温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】埼玉 | 旅宿クラウド",
+    "description": "11月上旬〜11月下旬に見頃を迎える首都圏屈指の紅葉名所「長瀞岩畳（ながとろいわだたみ）」。和舟で豪快に下る「長瀞ラインくだり」と「月の石もみじ公園」のライトアップ、江戸時代から続く秩父七湯の名湯「新木鉱泉」「梁山泊」「宮本の湯」！名物豚味噌漬けや秩父そばを、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-chichibu-nagatoro-autumn-leaves-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "国指定天然記念物・長瀞岩畳の紅葉舟下り！秩父夜祭・錦秋ハイキング＆秩父七湯温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】埼玉 | 旅宿クラウド", "item": "https://croud-travel.pages.dev/furusato-tax-chichibu-nagatoro-autumn-leaves-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -582,7 +605,9 @@ export default function FurusatoChichibuNagatoroAutumnLeavesStayPage() {
                 和歌山県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-chichibu-nagatoro-autumn-leaves-stay" />
+</div>
         </section>
 
       </main>

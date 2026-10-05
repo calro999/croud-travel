@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -99,8 +100,32 @@ export default function KantoBabyFriendlyOnsenGuidePage() {
     }
   ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【関東 赤ちゃん連れ温泉旅行おすすめ宿7選】部屋食・貸切風呂・おむつ替えグッズ完備の安心名宿 ｜ 日本全国・旅宿クラウド",
+    "description": "赤ちゃんの温泉デビューに安心な関東近郊の名湯宿特集！箱根・伊香保・鬼怒川・湯河原から、離乳食対応、部屋食確約、温度調整可能な貸切風呂、おむつ専用ゴミ箱・ベビーバス完備の極上旅館を厳選比較。",
+    "url": "https://croud-travel.pages.dev/kanto-baby-friendly-onsen-ryokan-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【関東 赤ちゃん連れ温泉旅行おすすめ宿7選】部屋食・貸切風呂・おむつ替えグッズ完備の安心名宿 ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/kanto-baby-friendly-onsen-ryokan-guide/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-20 font-sans text-stone-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション（Rose Palette） */}
       <section className="relative rounded-3xl overflow-hidden bg-gradient-to-br from-rose-950 via-pink-950 to-rose-900 text-white p-8 md:p-14 shadow-2xl border border-rose-700/40">
         <div className="absolute top-0 right-0 w-[450px] h-[450px] bg-rose-500/15 rounded-full blur-3xl pointer-events-none" />
@@ -399,6 +424,8 @@ export default function KantoBabyFriendlyOnsenGuidePage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="kanto-baby-friendly-onsen-ryokan-guide" />
+</div>
   );
 }

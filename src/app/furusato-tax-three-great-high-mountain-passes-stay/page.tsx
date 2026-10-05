@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -116,8 +117,32 @@ export default function Page() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三大急坂・天空峠道＆雲海パノラマ・絶景ドライブ温泉宿×ふるさと納税完全ガイド【2026年最新】渋峠・富士山スカイライン・温見峠",
+    "description": "天空を突き抜けるワインディングロードと雲海パノラマ！群馬長野「渋峠」国道最高地点標高2172mと万座温泉日進舘、静岡「富士山スカイライン」表富士五合目へ駆け上がる天空道路とレンブラントプレミアム富士御殿場、岐阜福井「温見峠ルート」清流根尾谷と亀屋旅館。日本三大急坂・天空峠道の絶景ドライブと温泉ステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-great-high-mountain-passes-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "日本三大急坂・天空峠道＆雲海パノラマ・絶景ドライブ温泉宿×ふるさと納税完全ガイド【2026年最新】渋峠・富士山スカイライン・温見峠", "item": "https://croud-travel.pages.dev/furusato-tax-three-great-high-mountain-passes-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずリスト */}
       <nav className="bg-white border-b border-slate-200 py-3 px-4 text-xs text-slate-500">
         <div className="max-w-5xl mx-auto flex items-center space-x-2">
@@ -536,6 +561,8 @@ export default function Page() {
       <footer className="bg-slate-950 text-slate-400 py-8 px-4 text-center text-xs border-t border-slate-800">
         <p>© 2026 トラベルポータル All Rights Reserved. 掲載情報は最新の楽天トラベル公式APIに基づきます。</p>
       </footer>
-    </div>
+    
+      <HubRelatedPosts currentSlug="furusato-tax-three-great-high-mountain-passes-stay" />
+</div>
   );
 }

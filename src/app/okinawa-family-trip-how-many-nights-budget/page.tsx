@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -101,8 +102,32 @@ export default function OkinawaFamilyTripNightsBudgetPage() {
     { item: "合計総額の目安", cost: "約250,000円〜440,000円", note: "オフシーズンなら20万円台前半、夏休み繁忙期は40万円台〜" }
   ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【子連れ沖縄旅行 何泊がベスト？】年齢別おすすめ日数・総額費用＆キッズプール付きリゾートホテル比較 ｜ 日本全国・旅宿クラウド",
+    "description": "子連れ沖縄旅行は2泊3日？3泊4日？未就学児・小学生の年齢別最適スケジュール、美ら海水族館とビーチの回り方、レンタカー選び、キッズプールやスライダー充実の恩納村ファミリーリゾート徹底解説。",
+    "url": "https://croud-travel.pages.dev/okinawa-family-trip-how-many-nights-budget/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【子連れ沖縄旅行 何泊がベスト？】年齢別おすすめ日数・総額費用＆キッズプール付きリゾートホテル比較 ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/okinawa-family-trip-how-many-nights-budget/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-20 font-sans text-stone-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション（Sky/Ocean Palette） */}
       <section className="relative rounded-3xl overflow-hidden bg-gradient-to-br from-sky-950 via-cyan-950 to-blue-900 text-white p-8 md:p-14 shadow-2xl border border-sky-700/40">
         <div className="absolute top-0 right-0 w-[450px] h-[450px] bg-cyan-500/15 rounded-full blur-3xl pointer-events-none" />
@@ -443,6 +468,8 @@ export default function OkinawaFamilyTripNightsBudgetPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="okinawa-family-trip-how-many-nights-budget" />
+</div>
   );
 }

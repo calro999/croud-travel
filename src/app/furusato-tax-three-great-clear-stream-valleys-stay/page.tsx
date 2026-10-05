@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -116,8 +117,32 @@ export default function Page() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三大美林清流渓谷＆エメラルドグリーンの激流と原生林リトリート温泉宿×ふるさと納税完全ガイド【2026年最新】奥入瀬・抱返り・阿寺渓谷",
+    "description": "苔むす岩とエメラルドブルーの奇跡！青森十和田「奥入瀬渓流」千変万化の滝と星野リゾート奥入瀬渓流ホテル、秋田角館「抱返り渓谷」東北の耶馬渓と称される原生林・川口温泉奥羽山荘、長野木曽路「阿寺渓谷・木曽川」息をのむ透明度の阿寺ブルーとTAOYA木曽路。日本三大美林清流渓谷のマイナスイオンを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-great-clear-stream-valleys-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "日本三大美林清流渓谷＆エメラルドグリーンの激流と原生林リトリート温泉宿×ふるさと納税完全ガイド【2026年最新】奥入瀬・抱返り・阿寺渓谷", "item": "https://croud-travel.pages.dev/furusato-tax-three-great-clear-stream-valleys-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずリスト */}
       <nav className="bg-white border-b border-slate-200 py-3 px-4 text-xs text-slate-500">
         <div className="max-w-5xl mx-auto flex items-center space-x-2">
@@ -536,6 +561,8 @@ export default function Page() {
       <footer className="bg-slate-950 text-slate-400 py-8 px-4 text-center text-xs border-t border-slate-800">
         <p>© 2026 トラベルポータル All Rights Reserved. 掲載情報は最新の楽天トラベル公式APIに基づきます。</p>
       </footer>
-    </div>
+    
+      <HubRelatedPosts currentSlug="furusato-tax-three-great-clear-stream-valleys-stay" />
+</div>
   );
 }

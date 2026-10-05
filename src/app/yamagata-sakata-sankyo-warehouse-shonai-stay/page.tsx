@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -56,8 +57,32 @@ export default function MicroTouristHubPage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【山形・酒田＆山居倉庫・庄内砂丘】北前船豪商の港町・酒田ラーメン＆日本海夕陽宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "北前船航路の繁栄とケヤキ並木の美！山形酒田エリア完全特化！国指定史跡「山居倉庫（ケヤキ並木・米穀倉庫）」、日本一の大地主「本間家旧本邸」、日和山公園、名物「酒田ラーメン・庄内浜海鮮宿」を徹底解説。",
+    "url": "https://croud-travel.pages.dev/yamagata-sakata-sankyo-warehouse-shonai-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【山形・酒田＆山居倉庫・庄内砂丘】北前船豪商の港町・酒田ラーメン＆日本海夕陽宿 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/yamagata-sakata-sankyo-warehouse-shonai-stay/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-stone-900 via-teal-950 to-blue-950 text-white p-8 md:p-14 shadow-xl border border-white/10">
         <div className="max-w-3xl space-y-4">
@@ -203,6 +228,8 @@ export default function MicroTouristHubPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="yamagata-sakata-sankyo-warehouse-shonai-stay" />
+</div>
   );
 }

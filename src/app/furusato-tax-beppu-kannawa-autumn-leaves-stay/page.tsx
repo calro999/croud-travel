@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FeatureArticlePage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "湯けむり立ち上る別府鉄輪温泉＆別府ロープウェイ鶴見岳紅葉！地獄蒸し名宿×ふるさと納税完全ガイド【2026年最新秋旅】大分",
+    "description": "10月中旬〜11月中旬に鶴見岳の紅葉と湯けむりが織りなす「別府鉄輪（かんなわ）温泉」。標高1,375mから別府湾を見下ろす別府ロープウェイの紅葉パノラマ、高温の温泉蒸気で蒸し上げる名物「地獄蒸し料理」、名宿「旅館 みゆき屋」「日本旅館 器」「かんなわ荘」で豊後牛や関アジ・関サバを堪能。ふるさと納税で実質2,000円。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-beppu-kannawa-autumn-leaves-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "湯けむり立ち上る別府鉄輪温泉＆別府ロープウェイ鶴見岳紅葉！地獄蒸し名宿×ふるさと納税完全ガイド【2026年最新秋旅】大分", "item": "https://croud-travel.pages.dev/furusato-tax-beppu-kannawa-autumn-leaves-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -508,7 +531,9 @@ export default function FeatureArticlePage() {
                 岩手県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-beppu-kannawa-autumn-leaves-stay" />
+</div>
         </section>
 
       </main>

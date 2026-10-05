@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -27,6 +28,20 @@ export default function FurusatoRound63ArticlePage() {
       { '@type': 'ListItem', position: 2, name: '旅行節約ハブ', item: baseUrl + '/travel-savings-guide' },
       { '@type': 'ListItem', position: 3, name: '日本三大湧水群・名水清涼リトリート特集', item: baseUrl + '/furusato-tax-three-great-submerged-karst-springs-stay' },
     ],
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三大湧水群＆エメラルドの清冽な湧泉池と避暑リゾート名宿×ふるさと納税完全ガイド【2026年最新】忍野八海・柿田川・安曇野",
+    "description": "数十年から数百年の歳月をかけて地下深くで磨かれた奇跡の透明度「日本三大湧水群」（山梨・富士山麓忍野八海、静岡・日本最短清流柿田川湧水群、長野・北アルプス安曇野わさび田湧水群）。エメラルドグリーンに輝く湧水池、涼感あふれる水辺の散策、名水で仕込む蕎麦・川魚美食。楽天ふるさと納税トラベルクーポンで泊まるおすすめリゾート名宿ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-great-submerged-karst-springs-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -538,7 +553,9 @@ export default function FurusatoRound63ArticlePage() {
                 広島県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-three-great-submerged-karst-springs-stay" />
+</div>
         </section>
 
       </main>

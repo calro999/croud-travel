@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoAtamiOceanViewFireworksStayPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "客室から大迫力の花火を特等席鑑賞！熱海オーシャンビュー温泉ホテル×ふるさと納税完全攻略ガイド【2026年最新】後楽園・ニューアカオ・パールスター",
+    "description": "熱海名物・年間十数回開催される熱海海上花火大会！お部屋のバルコニーやインフィニティ温泉露天風呂から、夜空と海を焦がす大迫力の花火を鑑賞。「熱海後楽園ホテル」「ホテルニューアカオ」「熱海パールスターホテル」を、静岡県熱海市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-atami-ocean-view-fireworks-hotel-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "客室から大迫力の花火を特等席鑑賞！熱海オーシャンビュー温泉ホテル×ふるさと納税完全攻略ガイド【2026年最新】後楽園・ニューアカオ・パールスター", "item": "https://croud-travel.pages.dev/furusato-tax-atami-ocean-view-fireworks-hotel-stay/" }
+    ]
+  };
+
   return (
     <article className="max-w-5xl mx-auto px-4 py-8 text-gray-800 leading-relaxed font-sans">
       {/* パンくずリスト */}
@@ -346,7 +369,9 @@ export default function FurusatoAtamiOceanViewFireworksStayPage() {
           >
             ▸ 【東京ディズニーリゾート公式ホテル×ふるさと納税】舞浜直結オフィシャル
           </Link>
-        </div>
+        
+      <HubRelatedPosts currentSlug="furusato-tax-atami-ocean-view-fireworks-hotel-stay" />
+</div>
       </section>
     </article>
   );

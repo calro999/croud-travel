@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -33,6 +34,28 @@ function loadHotels(): Hotel[] {
 
 export default function HakoneVsAtamiPage() {
   const hotels = loadHotels();
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【箱根 vs 熱海 どっちに行く？】日帰り・1泊2日それぞれのおすすめを本気で比較",
+    "description": "箱根と熱海、週末にどっちに行くか迷ったらこの記事。日帰りなら熱海、1泊なら箱根。交通費・宿泊費・グルメで徹底比較。",
+    "url": "https://croud-travel.pages.dev/hakone-vs-atami-which-better/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【箱根 vs 熱海 どっちに行く？】日帰り・1泊2日それぞれのおすすめを本気で比較", "item": "https://croud-travel.pages.dev/hakone-vs-atami-which-better/" }
+    ]
+  };
 
   return (
     <div className="bg-slate-50 min-h-screen pb-20">
@@ -373,6 +396,8 @@ export default function HakoneVsAtamiPage() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="hakone-vs-atami-which-better" />
+</div>
   );
 }

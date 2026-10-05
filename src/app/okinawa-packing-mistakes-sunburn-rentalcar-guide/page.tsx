@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -99,8 +100,32 @@ export default function OkinawaPackingMistakesGuidePage() {
     { item: "エコバッグ（大サイズ数枚）", cat: "買い物・ビーチ", note: "濡れた水着・お土産の紅芋タルトや泡盛をまとめるのに必須" },
   ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【沖縄旅行で後悔したことワースト5】本州の3倍の紫外線で大火傷！？レンタカー返却渋滞＆必須持ち物 ｜ 日本全国・旅宿クラウド",
+    "description": "沖縄旅行でありがちな失敗と後悔を完全回避！日焼け止めを塗っても火傷するシュノーケリング対策（ラッシュガード必須）、那覇空港周辺のレンタカー返却大渋滞で飛行機乗り遅れ危機、雨雲レーダー活用術。",
+    "url": "https://croud-travel.pages.dev/okinawa-packing-mistakes-sunburn-rentalcar-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【沖縄旅行で後悔したことワースト5】本州の3倍の紫外線で大火傷！？レンタカー返却渋滞＆必須持ち物 ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/okinawa-packing-mistakes-sunburn-rentalcar-guide/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-cyan-950 text-slate-100 selection:bg-cyan-500 selection:text-white pb-20">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローヘッダー（Vibrant Cyan & Marine Blue Palette） */}
       <header className="relative overflow-hidden bg-gradient-to-b from-cyan-900 via-sky-950 to-cyan-950 border-b border-cyan-800/40 py-16 md:py-24">
         <div className="absolute inset-0 opacity-20 bg-[radial-gradient(#06b6d4_1px,transparent_1px)] [background-size:20px_20px] pointer-events-none" />
@@ -566,6 +591,8 @@ export default function OkinawaPackingMistakesGuidePage() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="okinawa-packing-mistakes-sunburn-rentalcar-guide" />
+</div>
   );
 }

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -109,6 +110,7 @@ export default function FeaturePage() {
               features: ["[日本最大級◎通年型リゾート]夏は遊園地&amp;ゴルフ！冬はスキーの高原リゾート", "虻田郡留寿都村泉川13", "楽天アワード受賞歴"]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-stone-50 via-white to-stone-50 text-stone-800">
@@ -435,7 +437,9 @@ export default function FeaturePage() {
                 沖縄県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="organic-forest-infinity-panoramic-barrel-sauna-hokkaido" />
+</div>
         </section>
 
       </main>

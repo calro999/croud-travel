@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -20,8 +21,32 @@ export const metadata: Metadata = {
 export default function FurusatoFeaturePage() {
   const officialFurusatoAffUrl = 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F';
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三名橋＆歴史遺産を望むリバーサイド名宿×ふるさと納税完全ガイド【2026年最新】岩国錦帯橋・長崎眼鏡橋・東京日本橋の風情旅",
+    "description": "日本の土木建築美の最高峰！山口岩国「錦帯橋」の五連木造アーチと錦川清流温泉宿、長崎「眼鏡橋」の中島川散策と南蛮情緒クラシックホテル、東京「日本橋」の五街道起点と江戸情緒ラグジュアリーステイ。名橋の景観と伝統の美食を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-famous-bridges-heritage-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "日本三名橋＆歴史遺産を望むリバーサイド名宿×ふるさと納税完全ガイド【2026年最新】岩国錦帯橋・長崎眼鏡橋・東京日本橋の風情旅", "item": "https://croud-travel.pages.dev/furusato-tax-three-famous-bridges-heritage-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-stone-900 text-stone-100 selection:bg-amber-500 selection:text-stone-950">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローヘッダー */}
       <section className="relative py-24 px-4 sm:px-6 lg:px-8 bg-gradient-to-b from-stone-950 via-stone-900 to-stone-900 border-b border-stone-800">
         <div className="max-w-5xl mx-auto text-center">
@@ -557,6 +582,8 @@ export default function FurusatoFeaturePage() {
           
         </div>
       </section>
-    </div>
+    
+      <HubRelatedPosts currentSlug="furusato-tax-three-famous-bridges-heritage-stay" />
+</div>
   );
 }

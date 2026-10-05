@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import Link from 'next/link';
 import Image from 'next/image';
 import { Metadata } from 'next';
@@ -22,8 +23,32 @@ export const metadata: Metadata = {
 const OFFICIAL_FURUSATO_URL = 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F';
 
 export default function Page() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三大陶磁器の里＆窯元めぐり・器と美食を愉しむ温泉宿×ふるさと納税完全ガイド【2026年最新】有田・美濃・瀬戸",
+    "description": "日本の美意識が息づく焼き物の聖地！佐賀「有田焼・伊万里焼」白磁に映える佐賀牛会席と武雄嬉野温泉、岐阜「美濃焼」千三百年続く窯元と志野織部の器に盛る飛騨牛料理宿、愛知「瀬戸焼（せともの）」名門ギャラリーめぐりと尾張郷土会席。名陶と美食の贅沢ステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-great-pottery-towns-gourmet-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "日本三大陶磁器の里＆窯元めぐり・器と美食を愉しむ温泉宿×ふるさと納税完全ガイド【2026年最新】有田・美濃・瀬戸", "item": "https://croud-travel.pages.dev/furusato-tax-three-great-pottery-towns-gourmet-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* Hero Header */}
       <header className="relative bg-gradient-to-br from-slate-900 via-indigo-950 to-blue-900 text-white py-16 px-4 sm:px-6 lg:px-8 shadow-xl">
         <div className="max-w-5xl mx-auto">
@@ -794,6 +819,8 @@ export default function Page() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="furusato-tax-three-great-pottery-towns-gourmet-stay" />
+</div>
   );
 }

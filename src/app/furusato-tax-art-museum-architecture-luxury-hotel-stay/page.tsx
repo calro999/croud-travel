@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -27,6 +28,20 @@ export default function FurusatoArtMuseumHotelStayPage() {
       { '@type': 'ListItem', position: 2, name: '旅行節約ハブ', item: baseUrl + '/travel-savings-guide' },
       { '@type': 'ListItem', position: 3, name: '美術館ホテル＆現代アートリゾート名宿特集', item: baseUrl + '/furusato-tax-art-museum-architecture-luxury-hotel-stay' },
     ],
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "安藤忠雄建築や現代アートと眠る美術館ホテル＆アートリゾート×ふるさと納税完全ガイド【2026年最新】直島・箱根強羅・青森",
+    "description": "絵画や彫刻、世界的建築家の美意識に包まれて過ごす知的で贅沢な休日！世界的建築家・安藤忠雄が設計し現代アート作品と共生する瀬戸内直島の最高峰「ベネッセハウス」、彫刻の森美術館やポーラ美術館至近・全室温泉露天風呂付きモダンリゾート「箱根・強羅 佳ら久」、十和田市現代美術館の拠点となり岡本太郎作品や伝統ねぶたアートを体感する「星野リゾート 青森屋」。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-art-museum-architecture-luxury-hotel-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -556,7 +571,9 @@ export default function FurusatoArtMuseumHotelStayPage() {
                 静岡県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-art-museum-architecture-luxury-hotel-stay" />
+</div>
         </section>
 
       </main>

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import Link from 'next/link';
 import Image from 'next/image';
 import { Metadata } from 'next';
@@ -22,8 +23,32 @@ export const metadata: Metadata = {
 const OFFICIAL_FURUSATO_URL = 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F';
 
 export default function Page() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三大水郷＆川下り舟舟遊び・水上情景リバーサイド宿×ふるさと納税完全ガイド【2026年最新】柳川・近江八幡・佐原",
+    "description": "情緒あふれる掘割とどんこ舟の旅！福岡「水郷柳川」網の目のような掘割巡りと名物うなぎのせいろ蒸し老舗宿、滋賀「近江八幡」八幡堀の白壁土蔵と近江牛ステーキ会席宿、千葉「小江戸佐原」利根川水運の歴史的町並みと舟めぐりオーベルジュ。水と暮らす歴史の街を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-great-water-towns-riverside-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "日本三大水郷＆川下り舟舟遊び・水上情景リバーサイド宿×ふるさと納税完全ガイド【2026年最新】柳川・近江八幡・佐原", "item": "https://croud-travel.pages.dev/furusato-tax-three-great-water-towns-riverside-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* Hero Header */}
       <header className="relative bg-gradient-to-br from-slate-900 via-indigo-950 to-blue-900 text-white py-16 px-4 sm:px-6 lg:px-8 shadow-xl">
         <div className="max-w-5xl mx-auto">
@@ -914,6 +939,8 @@ export default function Page() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="furusato-tax-three-great-water-towns-riverside-stay" />
+</div>
   );
 }

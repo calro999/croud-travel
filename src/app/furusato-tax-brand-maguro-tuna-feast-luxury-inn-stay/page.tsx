@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -27,6 +28,20 @@ export default function FurusatoBrandMaguroTunaStayPage() {
       { '@type': 'ListItem', position: 2, name: '旅行節約ハブ', item: baseUrl + '/travel-savings-guide' },
       { '@type': 'ListItem', position: 3, name: '本場黒マグロ＆生マグロ会席名宿特集', item: baseUrl + '/furusato-tax-brand-maguro-tuna-feast-luxury-inn-stay' },
     ],
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "本場黒マグロ・生マグロ尽くし会席＆絶景温泉宿×ふるさと納税完全ガイド【2026年最新】大間・那智勝浦・三崎港",
+    "description": "海のダイヤと称される極上マグロを本場の港町名宿で味わい尽くす！津軽海峡の一本釣り大間マグロと下風呂の白濁硫黄泉を誇る「下風呂観光ホテル 三浦屋」、日本一の生マグロ水揚げ港で専用船で渡る孤島の秘境露天風呂「碧き島の宿 熊野別邸 中の島」、三浦三崎港のまぐろ食べ放題と東京湾オーシャンビュー温泉「マホロバ・マインズ三浦」。大トロ、中トロ、赤身の握りから兜焼き、ねぎま鍋まで、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-brand-maguro-tuna-feast-luxury-inn-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -556,7 +571,9 @@ export default function FurusatoBrandMaguroTunaStayPage() {
                 鳥取県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-brand-maguro-tuna-feast-luxury-inn-stay" />
+</div>
         </section>
 
       </main>

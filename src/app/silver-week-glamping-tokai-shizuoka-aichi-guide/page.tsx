@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -61,6 +62,28 @@ export default function SilverWeekGlampingTokaiShizuokaAichiPage() {
       a: "伊豆エリアのグランピング施設は伊豆急行線沿線（伊東駅・伊豆高原駅・川奈駅・伊豆稲取駅など）に多く集積しており、特急踊り子号や東海道新幹線（熱海乗り換え）でのアクセスが非常に良好です。駅から定時無料送迎バスを運行している施設やタクシー10分〜15分圏内の施設が多いため、電車旅派のグループやカップルでもストレスなく宿泊できます。",
     },
   ];
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【東海シルバーウィーク グランピング】静岡・伊豆・愛知おすすめ！海鮮BBQ＆みかん狩り体験 ｜ 日本全国・旅宿クラウド",
+    "description": "名古屋・静岡発着の秋連休旅行！伊豆半島の金目鯛・アワビ浜焼き付きグランピング、浜名湖のレイクビューヴィラ、知多半島のサンセットドームテント。温暖な東海エリアで過ごす秋グランピング特集。",
+    "url": "https://croud-travel.pages.dev/silver-week-glamping-tokai-shizuoka-aichi-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【東海シルバーウィーク グランピング】静岡・伊豆・愛知おすすめ！海鮮BBQ＆みかん狩り体験 ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/silver-week-glamping-tokai-shizuoka-aichi-guide/" }
+    ]
+  };
 
   return (
     <div className="min-h-screen bg-orange-50/30 text-slate-800 antialiased selection:bg-orange-500 selection:text-white font-sans">
@@ -512,6 +535,8 @@ export default function SilverWeekGlampingTokaiShizuokaAichiPage() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="silver-week-glamping-tokai-shizuoka-aichi-guide" />
+</div>
   );
 }

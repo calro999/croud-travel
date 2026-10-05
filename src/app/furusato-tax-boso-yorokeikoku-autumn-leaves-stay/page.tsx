@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -67,6 +68,28 @@ const HOTEL_DATA = {
 };
 
 export default function FeatureArticlePage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "房総・養老渓谷の粟又の滝紅葉＆紅葉ライトアップ！名物黒湯温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】千葉",
+    "description": "11月下旬〜12月上旬に関東で最も遅い紅葉を迎える千葉屈指の渓谷美「房総・養老渓谷」。粟又の滝の滝めぐり遊歩道散策や幻想的な夜間ライトアップ、美肌効果抜群の漆黒の天然温泉「黒湯」を誇る「旅館 喜代元」「蓬莱屋旅館」「旅館 伝九郎」で房総の地魚会席や上総牛・猪鍋を堪能。ふるさと納税で実質2,000円。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-boso-yorokeikoku-autumn-leaves-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "房総・養老渓谷の粟又の滝紅葉＆紅葉ライトアップ！名物黒湯温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】千葉", "item": "https://croud-travel.pages.dev/furusato-tax-boso-yorokeikoku-autumn-leaves-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -520,7 +543,9 @@ export default function FeatureArticlePage() {
                 鳥取県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-boso-yorokeikoku-autumn-leaves-stay" />
+</div>
         </section>
 
       </main>

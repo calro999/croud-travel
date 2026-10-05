@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -220,6 +221,7 @@ export default function WinterEhimeDogoOnsenPage() {
       }
     ]
   };
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-stone-50 via-orange-50/20 to-stone-50 text-stone-800 antialiased">
@@ -613,7 +615,9 @@ export default function WinterEhimeDogoOnsenPage() {
                 四国最南端の暖かな冬リゾートと黒潮の絶景露天、極上の土佐グルメ。
               </p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-ehime-dogo-onsen-honkan-taimeshi-iyogyu-stay" />
+</div>
         </section>
 
       </main>

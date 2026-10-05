@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -146,8 +147,32 @@ export default function HakoneRainyDayIndoorCoursePage() {
     },
   ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【箱根 雨の日の観光モデルコース】ポーラ美術館・ガラスの森・彫刻の森室内＆早めチェックイン温泉おこもり旅",
+    "description": "雨でも大満足の箱根1泊2日！森の中に佇むポーラ美術館のコレクション、ガラスの森美術館、箱根クラフトハウスの陶芸体験、雨音を聞きながら過ごす強羅温泉・客室露天風呂旅館完全ガイド。",
+    "url": "https://croud-travel.pages.dev/hakone-rainy-day-indoor-model-course/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【箱根 雨の日の観光モデルコース】ポーラ美術館・ガラスの森・彫刻の森室内＆早めチェックイン温泉おこもり旅", "item": "https://croud-travel.pages.dev/hakone-rainy-day-indoor-model-course/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-900 text-slate-100 selection:bg-slate-700 selection:text-white pb-20">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローヘッダー (Slate Palette) */}
       <header className="relative bg-gradient-to-b from-slate-950 via-slate-900 to-slate-800 border-b border-slate-700/60 pt-16 pb-20 px-4 sm:px-6 lg:px-8 overflow-hidden">
         <div className="absolute inset-0 opacity-10 pointer-events-none bg-[radial-gradient(#94a3b8_1px,transparent_1px)] [background-size:20px_20px]"></div>
@@ -675,6 +700,8 @@ export default function HakoneRainyDayIndoorCoursePage() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="hakone-rainy-day-indoor-model-course" />
+</div>
   );
 }

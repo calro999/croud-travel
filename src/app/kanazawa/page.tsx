@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import fs from "fs";
 import path from "path";
 import Link from "next/link";
@@ -113,6 +114,20 @@ export default function KanazawaGuidePage() {
       name: item.q,
       acceptedAnswer: { "@type": "Answer", text: item.a },
     })),
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【金沢旅行 完全計画ガイド】1泊2日・2泊3日モデルコース＆観光・海鮮グルメ・車なし徒歩案内・おすすめホテル ｜ 旅宿クラウド",
+    "description": "金沢旅行の計画をステップバイステップで完全サポート！金沢の魅力、1泊2日/2泊3日モデルコース、車なし徒歩観光、兼六園（所要時間）・近江町市場（食べ歩き）・ひがし茶屋街・21世紀美術館、のどぐろ＆寿司ランチ、雨の日・雪の観光法から楽天トラベルで予約できるおすすめホテル・温泉宿まで網羅。",
+    "url": "https://croud-travel.pages.dev/kanazawa/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -573,6 +588,8 @@ export default function KanazawaGuidePage() {
           </Link>
         </div>
       </section>
-    </div>
+    
+      <HubRelatedPosts currentSlug="kanazawa" />
+</div>
   );
 }

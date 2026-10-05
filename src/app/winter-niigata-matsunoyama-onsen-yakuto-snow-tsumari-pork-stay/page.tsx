@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -187,6 +188,7 @@ export default function NiigataMatsunoyamaPage() {
     "a": "JR東京駅から上越新幹線で「越後湯沢駅」まで約1時間20分。越後湯沢駅で北越急行ほくほく線に乗り換え、「まつだい駅」まで約40分です。まつだい駅からは松之山温泉行きの路線バスで約20〜25分、または宿泊旅館の送迎サービス（要事前予約）を利用してアクセスできます。越後湯沢駅からのトータル所要時間は約2時間30分〜3時間程度と、首都圏からのアクセスも非常に良好です。"
   }
 ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-amber-100 selection:text-amber-900 pb-20">
@@ -623,7 +625,9 @@ export default function NiigataMatsunoyamaPage() {
                 波打ち際の熱狂名湯と冬の日本海に沈む夕陽、伝統の塩引き鮭と村上牛ステーキを堪能。
               </p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-niigata-matsunoyama-onsen-yakuto-snow-tsumari-pork-stay" />
+</div>
         </section>
 
       </main>

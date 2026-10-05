@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -27,6 +28,20 @@ export default function FurusatoRound64ArticlePage() {
       { '@type': 'ListItem', position: 2, name: '旅行節約ハブ', item: baseUrl + '/travel-savings-guide' },
       { '@type': 'ListItem', position: 3, name: '日本三大塩の道・歴史古道と名湯ステイ特集', item: baseUrl + '/furusato-tax-three-great-ancient-salt-trails-heritage-stay' },
     ],
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三大塩の道＆歴史古道トレッキングと日本海の塩・山の幸美食宿×ふるさと納税完全ガイド【2026年最新】千国・三州・秋葉",
+    "description": "海のない信州へと命の塩と海産物を運んだ険しくも美しい祈りと生活の道「日本三大塩の道」（新潟糸魚川〜長野松本・千国街道、愛知岡崎〜長野塩尻・三州街道、静岡相良〜長野茅野・秋葉街道）。石畳や杉木立の古道トレッキング、名湯白馬温泉や昼神温泉、炉端会席。楽天ふるさと納税トラベルクーポンで実質2,000円負担で巡る歴史ロマン宿泊ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-great-ancient-salt-trails-heritage-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -538,7 +553,9 @@ export default function FurusatoRound64ArticlePage() {
                 青森県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-three-great-ancient-salt-trails-heritage-stay" />
+</div>
         </section>
 
       </main>

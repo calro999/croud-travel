@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -221,6 +222,7 @@ export default function TochigiYunishigawaOnsenWinterPage() {
     "a": "平家落人の生活様式を再現した民俗資料館「平家の里」では、茅葺き屋根の古民家群が雪に覆われ、雪国ならではの原風景に出会えます。また温泉街から少し足を伸ばした「水の郷」では、巨大な吊り橋からの雪景色鑑賞や足湯、郷土料理が楽しめます。お土産には日光名物の生湯波、ばんだい餅、栃の実せんべい、日光の地酒（四季桜や日光誉）が定番です。"
   }
 ];
+
 
   return (
     <article className="min-h-screen bg-stone-50/50 pb-20 text-stone-800">
@@ -579,7 +581,9 @@ export default function TochigiYunishigawaOnsenWinterPage() {
               <span className="text-amber-700 font-bold block text-[10px]">群馬・老神温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">初冬の片品渓谷美と美肌単純硫黄泉・極上上州牛すき焼き名宿</p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-tochigi-yunishigawa-onsen-kamakura-irori-stay" />
+</div>
         </section>
 
       </main>

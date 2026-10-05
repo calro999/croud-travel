@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -351,6 +352,7 @@ export default function HiroshimaTomonouraWinterPage() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-900 leading-relaxed font-sans">
@@ -720,7 +722,9 @@ export default function HiroshimaTomonouraWinterPage() {
                 西の横綱と称される天然自噴露天風呂「砂湯」と、初冬の蒜山高原・極上千屋牛を味わう秘湯旅。
               </p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-hiroshima-tomonoura-onsen-setouchi-taimeshi-taoshitagyu-stay" />
+</div>
         </section>
 
       </main>

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -16,8 +17,32 @@ export const metadata: Metadata = {
 };
 
 export default function Page() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【熊本・天草五橋＆崎津集落】世界遺産海の天主堂・イルカ遭遇＆車海老宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "世界文化遺産「長崎と天草地方の潜伏キリシタン関連遺産」の象徴・海の天主堂「崎津集落」、天草五橋（天草パールライン）の絶景シーサイドドライブ、通年98％の遭遇率を誇る「野生のミナミハンドウイルカウォッチング」、本場天草車海老と地魚宿を徹底解説。",
+    "url": "https://croud-travel.pages.dev/kumamoto-amakusa-sakitsu-dolphin-islands-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【熊本・天草五橋＆崎津集落】世界遺産海の天主堂・イルカ遭遇＆車海老宿 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/kumamoto-amakusa-sakitsu-dolphin-islands-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-stone-950 text-stone-100">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローヘッダー */}
       <div className="relative py-20 px-4 sm:px-6 lg:px-8 bg-gradient-to-b from-stone-900 via-stone-950 to-stone-950 border-b border-stone-800">
         <div className="max-w-5xl mx-auto text-center">
@@ -843,6 +868,8 @@ export default function Page() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="kumamoto-amakusa-sakitsu-dolphin-islands-stay" />
+</div>
   );
 }

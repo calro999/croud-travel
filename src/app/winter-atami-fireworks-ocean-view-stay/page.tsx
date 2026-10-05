@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -109,6 +110,7 @@ export default function FeaturePage() {
               features: ["■全館禁煙（喫煙所あり）■　熱海の老舗旅館で心休まる寛ぎの時間をごゆっくりお過ごしください。", "熱海市小嵐町1-16", "楽天アワード受賞歴"]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-stone-50 via-white to-stone-50 text-stone-800">
@@ -665,7 +667,9 @@ export default function FeaturePage() {
                 滋賀県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-atami-fireworks-ocean-view-stay" />
+</div>
         </section>
 
       </main>

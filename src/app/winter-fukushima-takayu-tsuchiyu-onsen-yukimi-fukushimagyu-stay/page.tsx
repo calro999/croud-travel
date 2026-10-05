@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -220,6 +221,7 @@ export default function WinterFukushimaTakayuTsuchiyuPage() {
       }
     ]
   };
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-stone-50 via-cyan-50/20 to-stone-50 text-stone-800 antialiased">
@@ -567,7 +569,9 @@ export default function WinterFukushimaTakayuTsuchiyuPage() {
                 奥羽三高湯の双璧をなす蔵王の白濁湯と極上山形牛すき焼きを堪能する冬旅。
               </p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-fukushima-takayu-tsuchiyu-onsen-yukimi-fukushimagyu-stay" />
+</div>
         </section>
 
       </main>

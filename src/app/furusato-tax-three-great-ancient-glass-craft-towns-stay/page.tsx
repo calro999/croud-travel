@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -27,6 +28,20 @@ export default function FurusatoRound65ArticlePage() {
       { '@type': 'ListItem', position: 2, name: '旅行節約ハブ', item: baseUrl + '/travel-savings-guide' },
       { '@type': 'ListItem', position: 3, name: '日本三大ガラスの街・光の工芸と眺望ステイ特集', item: baseUrl + '/furusato-tax-three-great-ancient-glass-craft-towns-stay' },
     ],
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三大ガラスの街＆煌めく切子・吹きガラス体験と海辺・湖畔の眺望宿×ふるさと納税完全ガイド【2026年最新】小樽・鹿児島・東京",
+    "description": "光を透過し万華鏡のように輝くガラスの芸術「日本三大ガラスの街」（北海道小樽・北一硝子と小樽運河、鹿児島・薩摩藩の誇り薩摩切子、東京・江戸町人の粋江戸切子）。ガス灯の揺れるレトロな港町散策、職人の吹きガラス体験、海と夜景を望む眺望名旅館。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ大人のクラフトアート宿泊ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-great-ancient-glass-craft-towns-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -538,7 +553,9 @@ export default function FurusatoRound65ArticlePage() {
                 宮崎県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-three-great-ancient-glass-craft-towns-stay" />
+</div>
         </section>
 
       </main>

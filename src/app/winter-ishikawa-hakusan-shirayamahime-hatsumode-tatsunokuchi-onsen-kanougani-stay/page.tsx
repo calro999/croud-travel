@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import Link from 'next/link';
 import type { Metadata } from 'next';
 import { 
@@ -255,6 +256,7 @@ export default function IshikawaHakusanWinterPage() {
       a: "金沢駅からは北陸鉄道石川線で終点の鶴来（つるぎ）駅まで約30分、鶴来駅から白山比咩神社までは路線バスまたはタクシーで約5分です。小松空港からは車・レンタカーで辰口温泉まで約30分、白山比咩神社まで約40分です。12月下旬から1月にかけては積雪や路面凍結が発生するため、車を利用する場合は必ずスタッドレスタイヤ装着車を選び、急ブレーキ・急ハンドルを避けた安全運転を心がけてください。"
     }
   ];
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800 antialiased">
@@ -680,7 +682,9 @@ export default function IshikawaHakusanWinterPage() {
             >
               トップページへ戻る
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-ishikawa-hakusan-shirayamahime-hatsumode-tatsunokuchi-onsen-kanougani-stay" />
+</div>
         </section>
 
       </main>

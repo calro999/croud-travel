@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -17,6 +18,28 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoTaxArticle() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【三朝温泉×ふるさと納税】世界屈指の高濃度ラドン温泉＆三徳山投入堂！免疫力向上湯治宿完全ガイド｜依山楼岩崎・三朝館・万翆楼",
+    "description": "「三たび朝を迎えると元気になる」と伝わる世界屈指のラジウム名湯・鳥取県三朝温泉を楽天ふるさと納税でお得に旅する！文豪が愛した十二の庭園風呂「依山楼 岩崎」、千坪の日本庭園露天風呂を誇る「三朝館」、自家源泉掛け流しの名門「万翆楼」を徹底比較。鳥取和牛や松葉ガニ会席、三朝町トラベルクーポン活用術を網羅。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-misasa-onsen-radon-immunity-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【三朝温泉×ふるさと納税】世界屈指の高濃度ラドン温泉＆三徳山投入堂！免疫力向上湯治宿完全ガイド｜依山楼岩崎・三朝館・万翆楼", "item": "https://croud-travel.pages.dev/furusato-tax-misasa-onsen-radon-immunity-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-50 text-stone-900 leading-relaxed font-sans">
       {/* ヒーローヘッダー */}
@@ -611,7 +634,9 @@ export default function FurusatoTaxArticle() {
                 岩手県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-misasa-onsen-radon-immunity-stay" />
+</div>
         </section>
 
       </main>

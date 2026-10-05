@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -41,8 +42,32 @@ function loadHotels(): Hotel[] {
 export default function OsakaAmazingPassPage() {
   const hotels = loadHotels();
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【大阪周遊パス1日券 完全元取りガイド】電車乗り放題＋40ヶ所以上の観光施設が無料！1万円分得するモデルコース ｜ 日本全国・旅宿クラウド",
+    "description": "電車・バス乗り放題に加えて梅田スカイビル空中庭園・大阪城天守閣・道頓堀クルーズなどが無料になる「大阪周遊パス」！通常料金との徹底比較シミュレーション、朝から晩まで遊び尽くすコスパ最強スケジュール。",
+    "url": "https://croud-travel.pages.dev/osaka-amazing-pass-1day-golden-route/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【大阪周遊パス1日券 完全元取りガイド】電車乗り放題＋40ヶ所以上の観光施設が無料！1万円分得するモデルコース ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/osaka-amazing-pass-1day-golden-route/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-rose-50/30 text-slate-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* Hero Header */}
       <header className="relative bg-gradient-to-br from-rose-900 via-pink-800 to-rose-950 text-white py-16 px-4 sm:px-6 lg:px-8">
         <div className="max-w-4xl mx-auto">
@@ -534,6 +559,8 @@ export default function OsakaAmazingPassPage() {
           <p>※大阪周遊パスの無料対象施設、利用条件、営業時間等は変更される場合があります。利用前に公式サイトの最新情報をご確認ください。</p>
         </div>
       </footer>
-    </div>
+    
+      <HubRelatedPosts currentSlug="osaka-amazing-pass-1day-golden-route" />
+</div>
   );
 }

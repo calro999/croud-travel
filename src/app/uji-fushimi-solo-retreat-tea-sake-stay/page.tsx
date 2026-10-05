@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -41,6 +42,7 @@ export default function ArticlePage() {
     dateModified: '2026-09-12T18:00:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/uji-fushimi-solo-retreat-tea-sake-stay',
   };
+
 
   return (
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
@@ -521,7 +523,9 @@ export default function ArticlePage() {
                 群馬県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="uji-fushimi-solo-retreat-tea-sake-stay" />
+</div>
         </section>
 
       </main>

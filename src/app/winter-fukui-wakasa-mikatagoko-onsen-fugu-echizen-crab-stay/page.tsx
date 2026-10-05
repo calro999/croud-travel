@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -192,6 +193,7 @@ export default function WinterFukuiWakasaPage() {
       }
     ]
   };
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-slate-50 via-teal-50/20 to-slate-50 text-slate-800 antialiased">
@@ -633,7 +635,9 @@ export default function WinterFukuiWakasaPage() {
                 南風泊市場直送のとらふぐ刺し・ちり鍋と関門海峡絶景。
               </p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-fukui-wakasa-mikatagoko-onsen-fugu-echizen-crab-stay" />
+</div>
         </section>
 
       </main>

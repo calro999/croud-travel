@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoWaterfallViewStreamStayPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "滝の轟きとマイナスイオンに包まれる！名瀑・清流を望む絶景露天風呂旅館×ふるさと納税完全ガイド【2026年最新】伊豆天城・那須板室・熊本黒川",
+    "description": "眼前に流れ落ちる名瀑の水しぶきと清流の心地よいせせらぎ、豊かな森林のマイナスイオン！伊豆天城の清流と巨石・巨木露天風呂・名物わさび鍋を味わう「天城湯ヶ島温泉 白壁」、那珂川の源流と滝の響きに抱かれ保養と現代アートを融合させた「板室温泉 大黒屋」、黒川の奥座敷・田の原川のせせらぎと滝を望む静寂の離れ宿「風がささやく離れの宿 山あかり」。水音に五感が研ぎ澄まされる極上の滝ビュー温泉ステイを、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-waterfall-view-sound-stream-onsen-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "滝の轟きとマイナスイオンに包まれる！名瀑・清流を望む絶景露天風呂旅館×ふるさと納税完全ガイド【2026年最新】伊豆天城・那須板室・熊本黒川", "item": "https://croud-travel.pages.dev/furusato-tax-waterfall-view-sound-stream-onsen-stay/" }
+    ]
+  };
+
   return (
     <article className="max-w-5xl mx-auto px-4 py-8 text-gray-800 leading-relaxed font-sans">
       {/* パンくずリスト */}
@@ -346,7 +369,9 @@ export default function FurusatoWaterfallViewStreamStayPage() {
           >
             ▸ 【大人の隠れ家・離れ客室×ふるさと納税】静寂とプライベート重視の名宿
           </Link>
-        </div>
+        
+      <HubRelatedPosts currentSlug="furusato-tax-waterfall-view-sound-stream-onsen-stay" />
+</div>
       </section>
     </article>
   );

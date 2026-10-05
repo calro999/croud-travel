@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -16,6 +17,28 @@ export const metadata: Metadata = {
 
 export default function Page() {
   const secData = (seasonalData as any)['tea-ceremony-authentic-chashitsu-matcha-ryokan-stay'] || {};
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "茶道・本格茶室＆抹茶体験宿完全ガイド【京都・金沢・宇治数寄屋ステイ】 | クラウドトラベル",
+    "description": "数寄屋造りの名門旅館に備えられた本格茶室、裏千家・表千家の点前体験、加賀百万石の茶の湯文化、宇治の茶畑を望むティーリゾートを特集。一期一会の精神と極上和菓子を味わう大人の旅。",
+    "url": "https://croud-travel.pages.dev/tea-ceremony-authentic-chashitsu-matcha-ryokan-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "茶道・本格茶室＆抹茶体験宿完全ガイド【京都・金沢・宇治数寄屋ステイ】 | クラウドトラベル", "item": "https://croud-travel.pages.dev/tea-ceremony-authentic-chashitsu-matcha-ryokan-stay/" }
+    ]
+  };
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
@@ -486,7 +509,9 @@ export default function Page() {
                 島根県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="tea-ceremony-authentic-chashitsu-matcha-ryokan-stay" />
+</div>
         </section>
 
       </main>

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -99,8 +100,32 @@ export default function IzuOceanViewCoupleAnniversaryGuidePage() {
     }
   ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【熱海・伊豆 カップル客室露天風呂宿おすすめ】相模湾一望オーシャンビュー＆記念日ディナーの隠れ家 ｜ 日本全国・旅宿クラウド",
+    "description": "二人だけの海絶景を独占する熱海・伊豆高原のカップル向け客室露天風呂宿！水平線から昇る朝日や夜の海上花火を眺めながら過ごす贅沢な時間。記念日特典付きの大人限定リゾート旅館まとめ。",
+    "url": "https://croud-travel.pages.dev/izu-ocean-view-couple-anniversary-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【熱海・伊豆 カップル客室露天風呂宿おすすめ】相模湾一望オーシャンビュー＆記念日ディナーの隠れ家 ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/izu-ocean-view-couple-anniversary-guide/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-20 font-sans text-slate-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション（Cyan & Ocean Palette） */}
       <section className="relative rounded-3xl overflow-hidden bg-gradient-to-br from-cyan-950 via-teal-900 to-cyan-900 text-white p-8 md:p-14 shadow-2xl border border-cyan-700/50">
         <div className="absolute top-0 right-0 w-[500px] h-[500px] bg-cyan-400/15 rounded-full blur-3xl pointer-events-none" />
@@ -428,6 +453,8 @@ export default function IzuOceanViewCoupleAnniversaryGuidePage() {
           </div>
         </div>
       </section>
-    </div>
+    
+      <HubRelatedPosts currentSlug="izu-ocean-view-couple-anniversary-guide" />
+</div>
   );
 }

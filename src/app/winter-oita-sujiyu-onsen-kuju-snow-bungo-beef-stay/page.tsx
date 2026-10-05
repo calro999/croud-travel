@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -311,6 +312,7 @@ export default function OitaSujiyuKujuPage() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-900 leading-relaxed font-sans pb-20">
@@ -683,7 +685,9 @@ export default function OitaSujiyuKujuPage() {
                 全身を泡が包む世界屈指の炭酸泉と名物ラムネ温泉館、豊後牛しゃぶしゃぶ。
               </p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-oita-sujiyu-onsen-kuju-snow-bungo-beef-stay" />
+</div>
         </section>
 
       </main>

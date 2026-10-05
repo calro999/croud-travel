@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -221,6 +222,7 @@ export default function TochigiShiobaraWinterFeature() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800 pb-20">
@@ -665,7 +667,9 @@ export default function TochigiShiobaraWinterFeature() {
               <h3 className="font-bold text-white text-sm">草津温泉・冬の湯畑幻想ライトアップと酸性名湯・上州牛の宿</h3>
               <p className="text-slate-300 text-[11px] line-clamp-2">日本屈指の酸性泉掛け流しと冬の湯畑の幻想的な湯けむり景観。</p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-tochigi-shiobara-onsen-yukimi-tochigi-beef-radish-stay" />
+</div>
         </section>
 
       </main>

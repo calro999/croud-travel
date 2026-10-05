@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -241,6 +242,7 @@ export default function YuzawaWinterPage() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-indigo-900 selection:text-white">
@@ -677,7 +679,9 @@ export default function YuzawaWinterPage() {
                 【奥日光湯元温泉】乳白色のにごり湯と白銀の静寂・雪見露天宿
               </h3>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-niigata-echigo-yuzawa-snow-sake-stay" />
+</div>
         </section>
 
       </main>

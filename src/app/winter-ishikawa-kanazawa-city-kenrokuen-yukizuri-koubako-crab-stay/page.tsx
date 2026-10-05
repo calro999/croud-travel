@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -205,6 +206,28 @@ export default function KanazawaCityWinterPage() {
           "addressCountry": "JP"
         }
       }
+    ]
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【11・12・1月金沢】冬の兼六園雪吊り＆尾山神社新春初詣！近江町市場の香箱ガニ・寒ブリ・加賀おでんに寛ぐ厳選宿5選",
+    "description": "冬の金沢は、名勝・兼六園の唐崎松に施される雪吊りが冬空に優美な幾何学模様を描き、11月6日のカニ漁解禁とともに近江町市場が真っ赤な香箱ガニと寒ブリで沸き立つ一年で最も華やぐ季節。12月の白銀ライトアップや1月の尾山神社ステンドグラス神門の新春開運初詣、熱々の金沢おでんやのどぐろ、治部煮に舌鼓を打つ極上の古都冬旅。楽天APIから最新取得した金沢駅周辺・兼六園近接の信頼の名宿5選を徹底特集します。",
+    "url": "https://croud-travel.pages.dev/winter-ishikawa-kanazawa-city-kenrokuen-yukizuri-koubako-crab-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【11・12・1月金沢】冬の兼六園雪吊り＆尾山神社新春初詣！近江町市場の香箱ガニ・寒ブリ・加賀おでんに寛ぐ厳選宿5選", "item": "https://croud-travel.pages.dev/winter-ishikawa-kanazawa-city-kenrokuen-yukizuri-koubako-crab-stay/" }
     ]
   };
 
@@ -593,7 +616,9 @@ export default function KanazawaCityWinterPage() {
               <span className="font-bold text-slate-900 mb-1">【全国】冬の厳選温泉＆旬グルメ特集一覧へ</span>
               <span className="text-xs text-slate-500">11月・12月・1月に訪れたい日本各地の名宿・絶景旅ガイド</span>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-ishikawa-kanazawa-city-kenrokuen-yukizuri-koubako-crab-stay" />
+</div>
         </section>
       </main>
     </article>

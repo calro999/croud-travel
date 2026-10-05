@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -222,6 +223,7 @@ export default function AkitaMoriyoshiAniPage() {
     "a": "「ごっつお玉手箱列車」は、秋田内陸縦貫鉄道が冬の特定日に運行する特別観光列車です（「ごっつお」とは秋田弁で「ご馳走」の意味）。沿線の農家のお母さんたちが手作りした郷土料理（赤飯、煮物、漬物、比内地鶏料理など）が重箱に詰められて提供され、車窓に広がる雪景色を眺めながら地元の味覚を堪能できます。地元アテンダントによる沿線の方言ガイドや温かいおもてなしも好評で、全国のローカル線ファンから絶賛される人気の列車旅です。"
   }
 ];
+
 
   return (
     <article className="min-h-screen bg-stone-50/50 pb-20 text-stone-800">
@@ -589,7 +591,9 @@ export default function AkitaMoriyoshiAniPage() {
               <span className="text-blue-700 font-bold block text-[10px]">山形・蔵王温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">幻想の樹氷ライトアップと強酸性美肌硫黄泉・極上山形牛を味わう名宿</p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-akita-moriyoshi-ani-snow-monster-matagi-stay" />
+</div>
         </section>
 
       </main>

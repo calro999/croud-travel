@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -17,6 +18,28 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoTaxArticle() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【黒川温泉×ふるさと納税】入湯手形で巡る秘境露天風呂＆極上あか牛美食！里山の名門隠れ家宿完全ガイド｜山みず木・旅館わかば・山の宿新明館",
+    "description": "熊本・阿蘇の奥深くに佇む日本屈指の人気温泉地・黒川温泉を楽天ふるさと納税でお得に旅する！「入湯手形」でめぐる風情ある露天風呂、渓流沿いの名門隠れ家「山あいの宿 山みず木」、化粧水風呂と囲炉裏会席の「旅館わかば」、名物洞窟風呂の「山の宿 新明館」を徹底解説。南小国町クーポン活用術を網羅。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-kurokawa-onsen-nyuto-tegata-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【黒川温泉×ふるさと納税】入湯手形で巡る秘境露天風呂＆極上あか牛美食！里山の名門隠れ家宿完全ガイド｜山みず木・旅館わかば・山の宿新明館", "item": "https://croud-travel.pages.dev/furusato-tax-kurokawa-onsen-nyuto-tegata-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-50 text-stone-900 leading-relaxed font-sans">
       {/* ヒーローヘッダー */}
@@ -611,7 +634,9 @@ export default function FurusatoTaxArticle() {
                 長野県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-kurokawa-onsen-nyuto-tegata-stay" />
+</div>
         </section>
 
       </main>

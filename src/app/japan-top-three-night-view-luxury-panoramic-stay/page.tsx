@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -56,8 +57,32 @@ export default function StargazingHubPage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【日本三大夜景＆全室パノラマ夜景ビュー宿】1000万ドルの夜景・特等席 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "光の海を見下ろす極上の夜！日本三大夜景＆新日本三大夜景パノラマホテル完全特化！長崎稲佐山、神戸六甲山・摩耶山、北海道函館山、山梨笛吹川フルーツ公園、北九州皿倉山、バルコニーやビューバスから望む1000万ドルの絶景ステイを徹底解説。",
+    "url": "https://croud-travel.pages.dev/japan-top-three-night-view-luxury-panoramic-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【日本三大夜景＆全室パノラマ夜景ビュー宿】1000万ドルの夜景・特等席 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/japan-top-three-night-view-luxury-panoramic-stay/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-slate-950 via-indigo-950 to-purple-950 text-white p-8 md:p-14 shadow-xl border border-indigo-400/30">
         <div className="max-w-3xl space-y-4">
@@ -203,6 +228,8 @@ export default function StargazingHubPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="japan-top-three-night-view-luxury-panoramic-stay" />
+</div>
   );
 }

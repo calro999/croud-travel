@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FeatureArticlePage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "15万坪が錦に染まる御船山楽園の紅葉狩り＆開湯1300年武雄温泉！名湯宿×ふるさと納税完全ガイド【2026年最新秋旅】佐賀",
+    "description": "11月上旬〜12月上旬に開催される日本最大級の紅葉ライトアップ「御船山楽園 紅葉まつり」！御船山の切り立った断崖と池に映る逆さ紅葉の絶景、開湯1300年のとろとろ美肌湯「御船山楽園ホテル」「大正浪漫の宿 京都屋」「懐石宿 扇屋」で最高峰佐賀牛や若楠ポークを堪能。楽天ふるさと納税で実質2,000円。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-mifuneyamarakuen-takeo-autumn-leaves-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "15万坪が錦に染まる御船山楽園の紅葉狩り＆開湯1300年武雄温泉！名湯宿×ふるさと納税完全ガイド【2026年最新秋旅】佐賀", "item": "https://croud-travel.pages.dev/furusato-tax-mifuneyamarakuen-takeo-autumn-leaves-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -508,7 +531,9 @@ export default function FeatureArticlePage() {
                 岩手県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-mifuneyamarakuen-takeo-autumn-leaves-stay" />
+</div>
         </section>
 
       </main>

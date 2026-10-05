@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -213,6 +214,7 @@ export default function FukuokaMojikoKokuraPage() {
       }
     ]
   };
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800">
@@ -632,7 +634,9 @@ export default function FukuokaMojikoKokuraPage() {
               <span>全国の冬旅特集一覧を見る</span>
               <Compass className="w-4 h-4" />
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-fukuoka-mojiko-retro-illumination-buzen-oyster-kokuragyu-stay" />
+</div>
         </section>
       </main>
     </article>

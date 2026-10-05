@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -121,6 +122,28 @@ export default function SilverWeekGlampingStargazingAstronomyPage() {
         text: faq.answer,
       },
     })),
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【星空が綺麗すぎるグランピング2026】天の川が見える標高1,000mの高原！天体望遠鏡＆焚き火シネマ ｜ 日本全国・旅宿クラウド",
+    "description": "9月の澄んだ秋空に広がる満天の星！日本一の星空・長野阿智村周辺や八ヶ岳・那須高原の天体観測グランピング特集。客室専用の天体望遠鏡、星空の下の焚き火カフェ、プラネタリウムのようなドームテント。",
+    "url": "https://croud-travel.pages.dev/silver-week-glamping-stargazing-astronomy-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【星空が綺麗すぎるグランピング2026】天の川が見える標高1,000mの高原！天体望遠鏡＆焚き火シネマ ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/silver-week-glamping-stargazing-astronomy-guide/" }
+    ]
   };
 
   return (
@@ -382,6 +405,8 @@ export default function SilverWeekGlampingStargazingAstronomyPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="silver-week-glamping-stargazing-astronomy-guide" />
+</div>
   );
 }

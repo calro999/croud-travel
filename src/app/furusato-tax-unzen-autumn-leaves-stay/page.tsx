@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FeatureArticlePage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "雲仙仁田峠の紅葉ロープウェイ＆湯けむり雲仙地獄！乳白美肌の湯宿×ふるさと納税完全ガイド【2026年最新秋旅】長崎",
+    "description": "10月下旬〜11月中旬に山全体が赤く染まる「雲仙仁田峠」と普賢岳の紅葉！ロープウェイから見下ろす錦秋パノラマと大迫力の雲仙地獄めぐり、名宿「雲仙福田屋」「東園」「雲仙新湯」で長崎和牛や島原半島の旬魚を堪能。楽天ふるさと納税トラベルクーポンで実質2,000円で泊まる九州屈指の紅葉ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-unzen-autumn-leaves-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "雲仙仁田峠の紅葉ロープウェイ＆湯けむり雲仙地獄！乳白美肌の湯宿×ふるさと納税完全ガイド【2026年最新秋旅】長崎", "item": "https://croud-travel.pages.dev/furusato-tax-unzen-autumn-leaves-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -508,7 +531,9 @@ export default function FeatureArticlePage() {
                 埼玉県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-unzen-autumn-leaves-stay" />
+</div>
         </section>
 
       </main>

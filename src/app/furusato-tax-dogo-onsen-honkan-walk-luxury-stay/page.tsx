@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoDogoOnsenHonkanStayPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "三千年の歴史を誇る日本最古の名湯！道後温泉本館徒歩圏＆名門旅館×ふるさと納税完全攻略ガイド【2026年最新】ふなや・道後御湯・道後プリンス",
+    "description": "日本最古の温泉・道後温泉！重要文化財「道後温泉本館」の保存修理完了で賑わう温泉街へ徒歩すぐ。「道後温泉 ふなや」「道後御湯」「道後プリンスホテル」を、愛媛県松山市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。創業390余年の皇族御用達宿、全室客室露天風呂、8つの露天風呂とボンネットバスを堪能。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-dogo-onsen-honkan-walk-luxury-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "三千年の歴史を誇る日本最古の名湯！道後温泉本館徒歩圏＆名門旅館×ふるさと納税完全攻略ガイド【2026年最新】ふなや・道後御湯・道後プリンス", "item": "https://croud-travel.pages.dev/furusato-tax-dogo-onsen-honkan-walk-luxury-stay/" }
+    ]
+  };
+
   return (
     <article className="max-w-5xl mx-auto px-4 py-8 text-gray-800 leading-relaxed font-sans">
       {/* パンくずリスト */}
@@ -346,7 +369,9 @@ export default function FurusatoDogoOnsenHonkanStayPage() {
           >
             ▸ 【登録有形文化財・宮大工数寄屋造り旅館×ふるさと納税】木造建築美の宿
           </Link>
-        </div>
+        
+      <HubRelatedPosts currentSlug="furusato-tax-dogo-onsen-honkan-walk-luxury-stay" />
+</div>
       </section>
     </article>
   );

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -27,6 +28,20 @@ export default function FurusatoTraditionalUnagiEelStayPage() {
       { '@type': 'ListItem', position: 2, name: '旅行節約ハブ', item: baseUrl + '/travel-savings-guide' },
       { '@type': 'ListItem', position: 3, name: '名産地うなぎ会席＆蒲焼名門宿特集', item: baseUrl + '/furusato-tax-traditional-unagi-eel-gourmet-stay' },
     ],
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "名産地で味わう極上うなぎ会席＆蒲焼・ひつまぶし名湯宿×ふるさと納税完全ガイド【2026年最新】浜名湖・三島・柳川",
+    "description": "香ばしい炭火の煙と秘伝のタレ！全国屈指のうなぎ名産地で至高のうなぎ会席を堪能する大人の美食旅。うなぎ養殖発祥の地・静岡県浜名湖かんざんじ温泉の湖畔宿「ホテル鞠水亭」、富士山の清らかな伏流水で磨かれた三島うなぎの銘店巡りと最上階天然温泉「ドーミーイン三島」、情緒あふれる水郷柳川で蒸したて熱々のせいろ蒸しを味わう「柳川温泉ホテル 輝泉荘」。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-traditional-unagi-eel-gourmet-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -556,7 +571,9 @@ export default function FurusatoTraditionalUnagiEelStayPage() {
                 長崎県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-traditional-unagi-eel-gourmet-stay" />
+</div>
         </section>
 
       </main>

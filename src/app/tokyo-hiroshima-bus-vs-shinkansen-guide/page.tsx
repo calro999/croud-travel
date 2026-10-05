@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -119,8 +120,32 @@ export default function HighwayBusArticlePage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【東京〜広島】新幹線 vs 飛行機 vs 夜行バス徹底比較！厳島神社＆広島お好み焼き1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+    "description": "東京から広島へ安く行くには？東海道・山陽新幹線「のぞみ」、飛行機（羽田・成田）、夜行高速バスの料金・所要時間比較！浮いた2.5万円で宮島温泉旅館に泊まり、牡蠣と広島焼きを満喫する1泊2日モデルコース。",
+    "url": "https://croud-travel.pages.dev/tokyo-hiroshima-bus-vs-shinkansen-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【東京〜広島】新幹線 vs 飛行機 vs 夜行バス徹底比較！厳島神社＆広島お好み焼き1泊2日モデルコース ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/tokyo-hiroshima-bus-vs-shinkansen-guide/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-sky-950 via-slate-900 to-indigo-950 text-white p-8 md:p-14 shadow-xl border border-white/10">
         <div className="max-w-3xl space-y-4">
@@ -430,6 +455,8 @@ export default function HighwayBusArticlePage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="tokyo-hiroshima-bus-vs-shinkansen-guide" />
+</div>
   );
 }

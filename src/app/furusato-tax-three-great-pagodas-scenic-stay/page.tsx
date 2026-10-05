@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -112,8 +113,32 @@ export default function Page() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三大名塔＆国宝五重塔の木造美と悠久の古都歴史宿×ふるさと納税完全ガイド【2026年最新】羽黒山・瑠璃光寺・醍醐寺",
+    "description": "幾星霜を超えて立ち続ける木造建築の最高峰！山形鶴岡「出羽三山・羽黒山五重塔」樹齢数百年の杉木立に佇む国宝塔と温海温泉萬国屋、山口「瑠璃光寺五重塔」大内文化の粋・桧皮葺き屋根の流麗な名塔と湯田温泉古稀庵、京都伏見「世界遺産・醍醐寺五重塔」京都最古の木造建造物とホテルエミオン京都。日本の美意識が結晶した国宝五重塔と名湯・会席ディナーを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-great-pagodas-scenic-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "日本三大名塔＆国宝五重塔の木造美と悠久の古都歴史宿×ふるさと納税完全ガイド【2026年最新】羽黒山・瑠璃光寺・醍醐寺", "item": "https://croud-travel.pages.dev/furusato-tax-three-great-pagodas-scenic-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずリスト */}
       <nav className="bg-white border-b border-slate-200 py-3 px-4 text-xs text-slate-500">
         <div className="max-w-5xl mx-auto flex items-center space-x-2">
@@ -558,6 +583,8 @@ export default function Page() {
           <p>ふるさと納税クーポンの利用条件や最新の空室状況は楽天トラベル公式サイトをご確認ください。</p>
         </div>
       </footer>
-    </div>
+    
+      <HubRelatedPosts currentSlug="furusato-tax-three-great-pagodas-scenic-stay" />
+</div>
   );
 }

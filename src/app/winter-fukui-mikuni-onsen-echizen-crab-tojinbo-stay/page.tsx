@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -203,6 +204,7 @@ export default function FukuiMikuniWinterPage() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800 antialiased selection:bg-orange-500 selection:text-white">
@@ -604,7 +606,9 @@ export default function FukuiMikuniWinterPage() {
               <span className="text-xs text-orange-300 font-semibold block mb-1">特集一覧</span>
               <h3 className="text-sm font-bold group-hover:text-orange-200 transition">全国の厳選温泉・旬旅特集まとめを見る</h3>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-fukui-mikuni-onsen-echizen-crab-tojinbo-stay" />
+</div>
         </section>
 
       </main>

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -27,6 +28,20 @@ export default function FurusatoRound66ArticlePage() {
       { '@type': 'ListItem', position: 2, name: '旅行節約ハブ', item: baseUrl + '/travel-savings-guide' },
       { '@type': 'ListItem', position: 3, name: '日本三大枯山水・禅庭園と瞑想リトリート特集', item: baseUrl + '/furusato-tax-three-great-zen-rock-gardens-stay' },
     ],
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三大枯山水庭園＆白砂青松の禅の宇宙と瞑想リトリート名宿×ふるさと納税完全ガイド【2026年最新】龍安寺・大仙院・龍源院",
+    "description": "水を用いずに石と白砂だけで山水の広大無辺な宇宙を表現する禅の美学「日本三大枯山水庭園」（京都右京・龍安寺方丈石庭、京都北区・大徳寺大仙院枯山水、京都北区・大徳寺龍源院一枝坦）。エリザベス女王も絶賛した15個の石の謎、室町禅宗庭園の最高峰、早朝の静寂座禅体験。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ大人の古都マインドフルネス宿泊ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-great-zen-rock-gardens-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -538,7 +553,9 @@ export default function FurusatoRound66ArticlePage() {
                 富山県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-three-great-zen-rock-gardens-stay" />
+</div>
         </section>
 
       </main>

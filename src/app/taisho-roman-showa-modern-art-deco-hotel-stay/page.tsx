@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -16,6 +17,28 @@ export const metadata: Metadata = {
 
 export default function Page() {
   const secData = (seasonalData as any)['taisho-roman-showa-modern-art-deco-hotel-stay'] || {};
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "大正ロマン＆昭和モダン・アールデコ建築宿完全ガイド【ステンドグラスと意匠美】 | クラウドトラベル",
+    "description": "ホテルニューグランド、熱海名邸、旧軽井沢倶楽部など、大正ロマンや昭和初期のアールデコ様式が色濃く残るレトロモダン宿を厳選。ステンドグラスやシャンデリアが誘うノスタルジックな滞在。",
+    "url": "https://croud-travel.pages.dev/taisho-roman-showa-modern-art-deco-hotel-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "大正ロマン＆昭和モダン・アールデコ建築宿完全ガイド【ステンドグラスと意匠美】 | クラウドトラベル", "item": "https://croud-travel.pages.dev/taisho-roman-showa-modern-art-deco-hotel-stay/" }
+    ]
+  };
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
@@ -486,7 +509,9 @@ export default function Page() {
                 島根県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="taisho-roman-showa-modern-art-deco-hotel-stay" />
+</div>
         </section>
 
       </main>

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -113,8 +114,32 @@ export default function TokyoBirthdaySurpriseHotelPage() {
     }
   ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【彼女の誕生日サプライズホテル東京おすすめ5選】夜景ビュー・ホールケーキ＆バルーン装飾確約プラン",
+    "description": "彼女や彼氏の誕生日・記念日を極上にする東京のラグジュアリーホテル特集！東京タワーや摩天楼を望む高層階客室、メッセージプレート付きケーキ・シャンパン付きプラン、憧れのサプライズ演出徹底比較。",
+    "url": "https://croud-travel.pages.dev/tokyo-birthday-surprise-luxury-hotel-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【彼女の誕生日サプライズホテル東京おすすめ5選】夜景ビュー・ホールケーキ＆バルーン装飾確約プラン", "item": "https://croud-travel.pages.dev/tokyo-birthday-surprise-luxury-hotel-guide/" }
+    ]
+  };
+
   return (
     <div className="bg-amber-50/30 text-stone-800 min-h-screen font-sans antialiased">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローヘッダー（Amber/Gold Luxury） */}
       <header className="relative bg-gradient-to-b from-stone-950 via-amber-950 to-stone-900 text-white overflow-hidden">
         <div className="absolute inset-0 opacity-20 bg-[radial-gradient(#f59e0b_1px,transparent_1px)] [background-size:20px_20px]" />
@@ -511,6 +536,8 @@ export default function TokyoBirthdaySurpriseHotelPage() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="tokyo-birthday-surprise-luxury-hotel-guide" />
+</div>
   );
 }

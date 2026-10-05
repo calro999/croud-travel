@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -27,6 +28,20 @@ export default function FurusatoWaModernTwinBedStayPage() {
       { '@type': 'ListItem', position: 2, name: '旅行節約ハブ', item: baseUrl + '/travel-savings-guide' },
       { '@type': 'ListItem', position: 3, name: '和モダンツインベッド客室温泉旅館特集', item: baseUrl + '/furusato-tax-wa-modern-twin-bed-comfortable-ryokan-stay' },
     ],
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "畳の温もりと高級ベッドの極上快眠！和モダンツインベッド客室温泉旅館×ふるさと納税完全ガイド【2026年最新】黒川・箱根強羅・京都嵐山",
+    "description": "お布団の上げ下げ不要＆足腰に優しい快適ベッドステイ！シモンズ社製高級ベッドと渓流露天風呂を備えた「黒川温泉 旅館湯本荘」、全室檜露天風呂付き和モダンローベッド客室「箱根強羅温泉 季の湯 雪月花」、全館畳敷き和モダンローベッドと5つの無料貸切風呂「京都 嵐山温泉 花伝抄」。シニア世代や三世代家族、カップルに選ばれる快適名宿を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-wa-modern-twin-bed-comfortable-ryokan-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -556,7 +571,9 @@ export default function FurusatoWaModernTwinBedStayPage() {
                 栃木県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-wa-modern-twin-bed-comfortable-ryokan-stay" />
+</div>
         </section>
 
       </main>

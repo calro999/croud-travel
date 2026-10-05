@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -41,8 +42,32 @@ function loadHotels(): Hotel[] {
 export default function KamikochiPackingChecklistPage() {
   const hotels = loadHotels();
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【上高地ハイキング 服装と靴のリアル失敗談】スニーカーで大丈夫？大正池〜河童橋で後悔しない持ち物完全版 ｜ 日本全国・旅宿クラウド",
+    "description": "上高地散策でよくある失敗を徹底解説！普通のスニーカー vs トレッキングシューズの境界線、山の急な天候変化に対応するレイヤリング（重ね着）、熊鈴や雨具の必要性、松本駅前・大正池ホテル宿泊情報。",
+    "url": "https://croud-travel.pages.dev/kamikochi-hiking-shoes-packing-checklist/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【上高地ハイキング 服装と靴のリアル失敗談】スニーカーで大丈夫？大正池〜河童橋で後悔しない持ち物完全版 ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/kamikochi-hiking-shoes-packing-checklist/" }
+    ]
+  };
+
   return (
     <div className="max-w-4xl mx-auto px-4 py-10 md:py-16 font-sans text-slate-800 space-y-12">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローヘッダー - Emerald/山岳フォレストグリーン */}
       <section className="bg-gradient-to-br from-emerald-700 via-teal-800 to-emerald-950 rounded-3xl p-8 md:p-12 text-white shadow-xl relative overflow-hidden">
         <div className="absolute top-0 right-0 w-80 h-80 bg-teal-400/10 rounded-full blur-3xl pointer-events-none" />
@@ -392,6 +417,8 @@ export default function KamikochiPackingChecklistPage() {
           </Link>
         </div>
       </section>
-    </div>
+    
+      <HubRelatedPosts currentSlug="kamikochi-hiking-shoes-packing-checklist" />
+</div>
   );
 }

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -109,6 +110,7 @@ export default function FeaturePage() {
               features: ["ヒラフエリアの中心地！スキー場リフト乗り場まで徒歩約5分！設備充実 のハイクラスコンドミニアムです。", "虻田郡倶知安町ニセコひらふ2条1丁目5番3号", "楽天アワード受賞歴"]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-stone-50 via-white to-stone-50 text-stone-800">
@@ -664,7 +666,9 @@ export default function FeaturePage() {
                 新潟県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-niseko-powder-snow-ski-resort-stay" />
+</div>
         </section>
 
       </main>

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FeatureArticlePage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "箱根強羅温泉・箱根美術館の苔庭紅葉＆強羅公園秋のバラ！白濁にごり湯宿×ふるさと納税完全ガイド【2026年最新秋旅】神奈川",
+    "description": "11月上旬〜11月下旬に見頃を迎える「箱根強羅温泉（はこねごうらおんせん）」。国登録記念物「箱根美術館」の約130本のもみじが彩る苔庭の絶景と強羅公園の秋バラ、大涌谷引湯の白濁にごり湯や自家源泉を持つ名宿「季の湯 雪月花」「強羅環翠楼」「のうのう箱根」で相模湾の地魚や足柄牛会席を堪能。ふるさと納税で実質2,000円。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-gora-autumn-leaves-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "箱根強羅温泉・箱根美術館の苔庭紅葉＆強羅公園秋のバラ！白濁にごり湯宿×ふるさと納税完全ガイド【2026年最新秋旅】神奈川", "item": "https://croud-travel.pages.dev/furusato-tax-gora-autumn-leaves-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -508,7 +531,9 @@ export default function FeatureArticlePage() {
                 島根県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-gora-autumn-leaves-stay" />
+</div>
         </section>
 
       </main>

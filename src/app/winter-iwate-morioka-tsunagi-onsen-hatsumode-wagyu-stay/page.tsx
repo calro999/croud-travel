@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -191,6 +192,28 @@ export default function IwateMoriokaPage() {
           }
         }))
       }
+    ]
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【11・12・1月盛岡】冬の盛岡八幡宮新春開運初詣＆岩手山白銀パノラマ！繋温泉の美肌いで湯と盛岡三大麺・雫石牛に寛ぐ名宿5選",
+    "description": "冬の盛岡は、冠雪した霊峰・岩手山（南部片富士）が澄み渡る青空に凛とそびえ立ち、白鳥が飛来する中津川や風情あるレトロな赤レンガ建築が雪景色に包まれる特別な季節。11月下旬の初雪から1月の盛岡八幡宮新春初詣や伝統の裸参りまで、冬の静寂と歴史の温もりが満ちています。湯量豊富な繋温泉（つなぎ温泉）の源泉掛け流し美肌湯に浸かり、名物の盛岡三大麺（熱々じゃじゃ麺・わんこそば・盛岡冷麺）や極上の雫石牛・前沢牛のすき焼き鍋を堪能する冬の温泉旅。楽天APIから最新取得した信頼の名宿5選を徹底特集します。",
+    "url": "https://croud-travel.pages.dev/winter-iwate-morioka-tsunagi-onsen-hatsumode-wagyu-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【11・12・1月盛岡】冬の盛岡八幡宮新春開運初詣＆岩手山白銀パノラマ！繋温泉の美肌いで湯と盛岡三大麺・雫石牛に寛ぐ名宿5選", "item": "https://croud-travel.pages.dev/winter-iwate-morioka-tsunagi-onsen-hatsumode-wagyu-stay/" }
     ]
   };
 
@@ -548,7 +571,9 @@ export default function IwateMoriokaPage() {
               <span className="font-bold text-slate-900 mb-1">【全国】冬の厳選温泉＆旬グルメ特集一覧へ</span>
               <span className="text-xs text-slate-500">11月・12月・1月に訪れたい日本各地の名宿・絶景旅ガイド</span>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-iwate-morioka-tsunagi-onsen-hatsumode-wagyu-stay" />
+</div>
         </section>
       </main>
     </article>

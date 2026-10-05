@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -19,8 +20,32 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoTaxPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "ブランド地鶏・水炊き・軍鶏料理の名湯宿×ふるさと納税完全ガイド【2026年最新】比内地鶏・土佐ジロー・黒さつま鶏の美食旅",
+    "description": "日本三大美味鶏の比内地鶏きりたんぽ鍋、高知の土佐ジロー軍鶏鍋、鹿児島黒さつま鶏の炭火焼き！噛むほどに旨味が溢れる銘柄地鶏と極上温泉旅館を楽天ふるさと納税宿泊クーポンでお得に予約する肉食・郷土美食ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-brand-jidori-mizutaki-gourmet-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "ブランド地鶏・水炊き・軍鶏料理の名湯宿×ふるさと納税完全ガイド【2026年最新】比内地鶏・土佐ジロー・黒さつま鶏の美食旅", "item": "https://croud-travel.pages.dev/furusato-tax-brand-jidori-mizutaki-gourmet-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-950 text-slate-100 selection:bg-amber-500 selection:text-white">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずリスト */}
       <nav className="border-b border-slate-800/80 bg-slate-900/60 backdrop-blur px-4 py-3 text-xs text-slate-400">
         <div className="max-w-6xl mx-auto flex items-center gap-2 overflow-x-auto whitespace-nowrap">
@@ -604,6 +629,8 @@ export default function FurusatoTaxPage() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="furusato-tax-brand-jidori-mizutaki-gourmet-stay" />
+</div>
   );
 }

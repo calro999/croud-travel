@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -41,8 +42,32 @@ function loadHotels(): Hotel[] {
 export default function KusatsuPackingMistakesPage() {
   const hotels = loadHotels();
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【草津温泉で後悔したことワースト5】銀製品が真っ黒に変色！？強酸性泉の注意点＆必須持ち物チェックリスト ｜ 日本全国・旅宿クラウド",
+    "description": "草津温泉に行く前に絶対読んでほしいリアル失敗談！pH2.1の強酸性泉でシルバーアクセサリーが変色する事故、湯あたり対策、白いタオルが黄色く染まる問題、持っていくべき便利グッズ完全リスト。",
+    "url": "https://croud-travel.pages.dev/kusatsu-onsen-packing-mistakes-silver-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【草津温泉で後悔したことワースト5】銀製品が真っ黒に変色！？強酸性泉の注意点＆必須持ち物チェックリスト ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/kusatsu-onsen-packing-mistakes-silver-guide/" }
+    ]
+  };
+
   return (
     <div className="max-w-4xl mx-auto px-4 py-10 md:py-16 font-sans text-slate-800 space-y-12">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローヘッダー - Amber & 硫黄イエローの温もりと警告感 */}
       <section className="bg-gradient-to-br from-amber-500 via-amber-600 to-yellow-600 rounded-3xl p-8 md:p-12 text-white shadow-xl relative overflow-hidden">
         <div className="absolute -top-16 -right-16 w-56 h-56 bg-white/10 rounded-full blur-2xl pointer-events-none" />
@@ -380,6 +405,8 @@ export default function KusatsuPackingMistakesPage() {
           </Link>
         </div>
       </section>
-    </div>
+    
+      <HubRelatedPosts currentSlug="kusatsu-onsen-packing-mistakes-silver-guide" />
+</div>
   );
 }

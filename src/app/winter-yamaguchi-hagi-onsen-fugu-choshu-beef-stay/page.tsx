@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -255,6 +256,7 @@ export default function HagiOnsenWinterFeature() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800 pb-20">
@@ -634,7 +636,9 @@ export default function HagiOnsenWinterFeature() {
               <span className="text-xs text-indigo-300 font-semibold block mb-1">徳島・祖谷温泉</span>
               <h3 className="text-sm font-bold group-hover:text-indigo-200 transition">日本三大秘境初雪渓谷美とケーブルカー谷底露天・特選阿波牛の宿</h3>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-yamaguchi-hagi-onsen-fugu-choshu-beef-stay" />
+</div>
         </section>
 
       </main>

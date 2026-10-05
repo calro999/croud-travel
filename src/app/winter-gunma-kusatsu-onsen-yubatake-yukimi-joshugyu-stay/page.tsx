@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -220,6 +221,7 @@ export default function WinterGunmaKusatsuOnsenPage() {
       }
     ]
   };
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-stone-50 via-emerald-50/20 to-stone-50 text-stone-800 antialiased">
@@ -613,7 +615,9 @@ export default function WinterGunmaKusatsuOnsenPage() {
                 白銀のスキー場と熱々の外湯めぐり、野沢菜本漬けと信州牛を味わう冬。
               </p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-gunma-kusatsu-onsen-yubatake-yukimi-joshugyu-stay" />
+</div>
         </section>
 
       </main>

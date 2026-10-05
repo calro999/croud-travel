@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -16,8 +17,32 @@ export const metadata: Metadata = {
 };
 
 export default function Page() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【佐賀・唐津＆呼子・玄海】唐津城・虹の松原＆呼子朝市イカ活き造り温泉宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "海に突き出た舞鶴城「唐津城」と日本三大松原「虹の松原」百万人植樹のパノラマ、日本三大朝市「呼子の朝市」、皿の上でまだ動く透明な「呼子のイカ活き造り」とふんわりイカしゅうまい、玄界灘の夕日を望むリアス式海岸の温泉宿を徹底解説。",
+    "url": "https://croud-travel.pages.dev/saga-karatsu-yobuko-genkai-squid-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【佐賀・唐津＆呼子・玄海】唐津城・虹の松原＆呼子朝市イカ活き造り温泉宿 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/saga-karatsu-yobuko-genkai-squid-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-stone-950 text-stone-100">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローヘッダー */}
       <div className="relative py-20 px-4 sm:px-6 lg:px-8 bg-gradient-to-b from-stone-900 via-stone-950 to-stone-950 border-b border-stone-800">
         <div className="max-w-5xl mx-auto text-center">
@@ -843,6 +868,8 @@ export default function Page() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="saga-karatsu-yobuko-genkai-squid-stay" />
+</div>
   );
 }

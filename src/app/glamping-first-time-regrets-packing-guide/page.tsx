@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -140,8 +141,32 @@ export default function GlampingFirstTimeRegretsPage() {
     },
   ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【初めてのグランピングで後悔したことワースト5】夜の冷え込み・虫対策・煙で服崩壊！持って行くべき神グッズ ｜ 日本全国・旅宿クラウド",
+    "description": "手ぶらOKの謳い文句を信じて後悔したリアル体験談！標高の高い高原グランピングの夜間極寒、焚き火の火の粉で穴あき服、夜間トイレ移動のランタン不足、虫除けスプレー選びと温泉付きグランピングヴィラ。",
+    "url": "https://croud-travel.pages.dev/glamping-first-time-regrets-packing-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【初めてのグランピングで後悔したことワースト5】夜の冷え込み・虫対策・煙で服崩壊！持って行くべき神グッズ ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/glamping-first-time-regrets-packing-guide/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-teal-50/40 text-slate-800 antialiased selection:bg-teal-600 selection:text-white font-sans">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション（Tealテーマ：アウトドア・星空・グランピングの澄んだ空気感） */}
       <header className="relative bg-gradient-to-br from-teal-950 via-slate-900 to-cyan-950 text-white overflow-hidden pt-16 pb-20 px-4 sm:px-6 lg:px-8 border-b border-teal-800/40">
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top,rgba(20,184,166,0.25),transparent_50%)] pointer-events-none" />
@@ -623,6 +648,8 @@ export default function GlampingFirstTimeRegretsPage() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="glamping-first-time-regrets-packing-guide" />
+</div>
   );
 }

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -241,6 +242,7 @@ export default function HuistenboschChristmasPage() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-indigo-600 selection:text-white">
@@ -774,7 +776,9 @@ export default function HuistenboschChristmasPage() {
               <span>全国の特集一覧を見る</span>
               <ChevronRight className="w-4 h-4" />
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-nagasaki-huistenbosch-christmas-lights-stay" />
+</div>
         </section>
 
       </main>

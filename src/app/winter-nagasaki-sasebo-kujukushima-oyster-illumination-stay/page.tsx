@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -257,6 +258,7 @@ export default function NagasakiSaseboKujukushimaWinterPage() {
     "a": "九州の西端に位置する佐世保ですが、冬場は東シナ海からの強い季節風が吹きつけるため、特に海沿いの九十九島や夜間のハウステンボス散策では体感温度が氷点下近くまで下がります。防風性の高いロングコートやダウン、マフラー、手袋、カイロを必ず準備しましょう。アクセスは、福岡（博多駅）からJR特急「みどり」または「ハウステンボス」で佐世保駅・ハウステンボス駅まで約1時間40分〜1時間50分。長崎空港からは連絡船（高速船）またはバスで直行でき、冬の女子旅やカップル旅行にも非常にスムーズです。"
   }
 ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-orange-100 selection:text-orange-900 pb-20">
@@ -698,7 +700,9 @@ export default function NagasakiSaseboKujukushimaWinterPage() {
                 特集を見る →
               </span>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-nagasaki-sasebo-kujukushima-oyster-illumination-stay" />
+</div>
         </section>
 
       </main>

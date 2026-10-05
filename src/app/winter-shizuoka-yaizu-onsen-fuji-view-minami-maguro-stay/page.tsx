@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -255,6 +256,7 @@ export default function ShizuokaYaizuWinterFeature() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800 pb-20">
@@ -637,7 +639,9 @@ export default function ShizuokaYaizuWinterFeature() {
               <span className="text-xs text-blue-300 font-semibold block mb-1">静岡・修善寺温泉</span>
               <h3 className="text-sm font-bold group-hover:text-blue-200 transition">12月上旬まで楽しむ遅咲きの紅葉と竹林の小径・伊豆最古の湯宿</h3>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-shizuoka-yaizu-onsen-fuji-view-minami-maguro-stay" />
+</div>
         </section>
 
       </main>

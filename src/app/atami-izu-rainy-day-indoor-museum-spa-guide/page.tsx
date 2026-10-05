@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -133,8 +134,32 @@ export default function AtamiIzuRainyDayIndoorMuseumSpaPage() {
     },
   ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【熱海 雨の日の観光＆温泉】MOA美術館・起雲閣・昭和レトロ喫茶＆インフィニティ露天風呂",
+    "description": "雨でも濡れずに楽しめる熱海観光！絶景パノラマと国宝を誇るMOA美術館、文豪が愛した名邸「起雲閣」、平和通り商店街のアーケード散歩、雨天でも心地よい海一望温泉リゾートまとめ。",
+    "url": "https://croud-travel.pages.dev/atami-izu-rainy-day-indoor-museum-spa-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【熱海 雨の日の観光＆温泉】MOA美術館・起雲閣・昭和レトロ喫茶＆インフィニティ露天風呂", "item": "https://croud-travel.pages.dev/atami-izu-rainy-day-indoor-museum-spa-guide/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-stone-950 text-amber-50 selection:bg-amber-700 selection:text-white pb-20 font-sans">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローヘッダー (Warm Amber / Bronze Palette) */}
       <header className="relative bg-gradient-to-b from-stone-950 via-amber-950/40 to-stone-900 border-b border-amber-900/50 pt-16 pb-20 px-4 sm:px-6 lg:px-8 overflow-hidden">
         <div className="absolute inset-0 opacity-10 pointer-events-none bg-[radial-gradient(#f59e0b_1px,transparent_1px)] [background-size:24px_24px]"></div>
@@ -555,6 +580,8 @@ export default function AtamiIzuRainyDayIndoorMuseumSpaPage() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="atami-izu-rainy-day-indoor-museum-spa-guide" />
+</div>
   );
 }

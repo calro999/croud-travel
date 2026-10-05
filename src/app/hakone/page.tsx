@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import fs from "fs";
 import path from "path";
 import Link from "next/link";
@@ -50,8 +51,32 @@ function loadHakoneData(): Record<string, RakutenCategoryData> {
 export default function HakoneHubPage() {
   const hakoneData = loadHakoneData();
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【箱根温泉 完全計画ガイド 2026】1泊2日・2泊3日モデルコース＆箱根湯本・強羅・芦ノ湖・露天風呂付き客室・カップル温泉宿 ｜ 旅宿クラウド",
+    "description": "箱根温泉旅行の計画を完全サポート！ロマンスカーで行く1泊2日王道モデルコース、箱根湯本・強羅・仙石原・芦ノ湖のエリア別見所、客室露天風呂・部屋食付き高級温泉旅館から日帰り温泉までおすすめの宿泊プランまで徹底網羅。",
+    "url": "https://croud-travel.pages.dev/hakone/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【箱根温泉 完全計画ガイド 2026】1泊2日・2泊3日モデルコース＆箱根湯本・強羅・芦ノ湖・露天風呂付き客室・カップル温泉宿 ｜ 旅宿クラウド", "item": "https://croud-travel.pages.dev/hakone/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       <nav aria-label="Breadcrumb" className="text-xs font-bold text-teal-900/60 flex items-center gap-2">
         <Link href="/" className="hover:text-teal-800 transition">ホーム</Link>
         <span>/</span>
@@ -127,6 +152,8 @@ export default function HakoneHubPage() {
           </div>
         </section>
       )}
-    </div>
+    
+      <HubRelatedPosts currentSlug="hakone" />
+</div>
   );
 }

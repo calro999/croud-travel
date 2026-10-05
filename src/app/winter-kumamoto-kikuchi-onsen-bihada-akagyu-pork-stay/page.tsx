@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -350,6 +351,7 @@ export default function KumamotoKikuchiValleyWinterPage() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-900 leading-relaxed font-sans">
@@ -706,7 +708,9 @@ export default function KumamotoKikuchiValleyWinterPage() {
               <span className="text-teal-700 font-bold block text-[10px]">佐賀・古湯＆熊の川</span>
               <p className="font-bold text-stone-800 line-clamp-2">ぬる湯の聖地・嘉瀬川渓谷美と温冷交互浴・極上佐賀牛すき焼き名宿</p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-kumamoto-kikuchi-onsen-bihada-akagyu-pork-stay" />
+</div>
         </section>
 
       </main>

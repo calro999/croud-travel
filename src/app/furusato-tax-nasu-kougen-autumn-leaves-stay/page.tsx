@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FeatureArticlePage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "那須ロープウェイ茶臼岳の絨毯紅葉＆那須高原リゾート！開湯1300年名湯旅館×ふるさと納税完全ガイド【2026年最新秋旅】栃木",
+    "description": "10月上旬〜10月下旬に見頃を迎える「那須高原・茶臼岳（ちゃうすだけ）」。山全体が赤や黄色に染まる紅葉絨毯をロープウェイから一望、那須御用邸の歴史薫る名湯「那須温泉 山楽」「大丸温泉旅館」「かんすい苑 覚楽」でとちぎ和牛ステーキや野趣あふれる川の湯露天風呂を堪能。楽天ふるさと納税で実質2,000円。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-nasu-kougen-autumn-leaves-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "那須ロープウェイ茶臼岳の絨毯紅葉＆那須高原リゾート！開湯1300年名湯旅館×ふるさと納税完全ガイド【2026年最新秋旅】栃木", "item": "https://croud-travel.pages.dev/furusato-tax-nasu-kougen-autumn-leaves-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -508,7 +531,9 @@ export default function FeatureArticlePage() {
                 長崎県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-nasu-kougen-autumn-leaves-stay" />
+</div>
         </section>
 
       </main>

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -351,6 +352,7 @@ export default function TochigiNasuItamuroWinterPage() {
             }
   ];
 
+
   return (
     <article className="min-h-screen bg-stone-50 text-stone-900 leading-relaxed font-sans">
       <script
@@ -703,7 +705,9 @@ export default function TochigiNasuItamuroWinterPage() {
               <span className="text-emerald-700 font-bold block text-[10px]">栃木・奥日光湯元温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">白銀の湯ノ湖と濃厚なエメラルド白濁硫黄泉・極上の冬雪見風呂</p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-tochigi-nasu-itamuro-onsen-toji-tochigigyu-stay" />
+</div>
         </section>
 
       </main>

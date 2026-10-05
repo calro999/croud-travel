@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -109,6 +110,7 @@ export default function FeaturePage() {
               features: ["★★プラン充実★★マンガ読み放題◎新山口駅【在来線側北口】正面徒歩約1分◎駐車場有16台【先着順】", "山口市小郡大正町15番32号", "楽天アワード受賞歴"]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-stone-50 via-white to-stone-50 text-stone-800">
@@ -665,7 +667,9 @@ export default function FeaturePage() {
                 鹿児島県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-shimonoseki-fugu-torafugu-luxury-stay" />
+</div>
         </section>
 
       </main>

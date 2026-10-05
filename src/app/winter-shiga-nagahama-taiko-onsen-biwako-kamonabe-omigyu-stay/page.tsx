@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -221,6 +222,7 @@ export default function ShigaNagahamaWinterFeature() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800 pb-20">
@@ -665,7 +667,9 @@ export default function ShigaNagahamaWinterFeature() {
               <h3 className="font-bold text-white text-sm">湯村温泉・荒湯の初冬湯けむりと冬の松葉ガニ・但馬牛の宿</h3>
               <p className="text-slate-300 text-[11px] line-clamp-2">日本屈指の高温泉「荒湯」と本場松葉ガニの炭火焼き・但馬牛。</p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-shiga-nagahama-taiko-onsen-biwako-kamonabe-omigyu-stay" />
+</div>
         </section>
 
       </main>

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -56,8 +57,32 @@ export default function ThemeParkActivityHubPage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【ユニバーサル・スタジオ・ジャパン（USJ）公認ホテル】オフィシャルホテル＆駅直結宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "パークまで徒歩数分の感動体験！ユニバーサル・スタジオ・ジャパン（USJ）オフィシャルホテル完全特化！ユニバーサルシティ駅直結、ミニオンやセサミストリートのキャラクタールーム、パークチケット確約、展望天然温泉スパ宿を徹底解説。",
+    "url": "https://croud-travel.pages.dev/usj-partner-official-hotel-osaka-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【ユニバーサル・スタジオ・ジャパン（USJ）公認ホテル】オフィシャルホテル＆駅直結宿 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/usj-partner-official-hotel-osaka-stay/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-stone-900 via-rose-950 to-amber-950 text-white p-8 md:p-14 shadow-xl border border-white/10">
         <div className="max-w-3xl space-y-4">
@@ -203,6 +228,8 @@ export default function ThemeParkActivityHubPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="usj-partner-official-hotel-osaka-stay" />
+</div>
   );
 }

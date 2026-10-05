@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FeatureArticlePage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "国宝・霧島神宮の厳かな紅葉参道＆えびの高原大パノラマ！湯けむり霧島温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】鹿児島",
+    "description": "11月上旬〜11月下旬に見頃を迎える「国宝・霧島神宮（きりしまじんぐう）」と「えびの高原」。朱塗りの本殿と真紅のモミジの荘厳なコントラスト、14の源泉と日本屈指の巨大硫黄温泉を持つ「霧島ホテル」「こまつ」「竹千代 霧島別邸」で鹿児島黒豚しゃぶしゃぶや極上黒毛和牛・薩摩地鶏を堪能。ふるさと納税で実質2,000円。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-kirishima-autumn-leaves-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "国宝・霧島神宮の厳かな紅葉参道＆えびの高原大パノラマ！湯けむり霧島温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】鹿児島", "item": "https://croud-travel.pages.dev/furusato-tax-kirishima-autumn-leaves-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -508,7 +531,9 @@ export default function FeatureArticlePage() {
                 青森県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-kirishima-autumn-leaves-stay" />
+</div>
         </section>
 
       </main>

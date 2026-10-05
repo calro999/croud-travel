@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoKaruizawaLuxuryStayPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "木漏れ日の高原と洗練の森！軽井沢の温泉露天風呂付きラグジュアリーホテル＆本格フレンチ名宿×ふるさと納税完全攻略ガイド【2026年最新】マリオット・プリンスイースト・音羽ノ森",
+    "description": "日本を代表する最高峰の高原避暑地・軽井沢！白樺と落葉松の森、旧軽井沢銀座散策。「軽井沢マリオットホテル」「軽井沢プリンスホテル イースト」「旧軽井沢 ホテル音羽ノ森」を、長野県軽井沢町の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。客室温泉露天風呂、天然温泉スパ、信州牛グリルを満喫。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-karuizawa-luxury-resort-villa-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "木漏れ日の高原と洗練の森！軽井沢の温泉露天風呂付きラグジュアリーホテル＆本格フレンチ名宿×ふるさと納税完全攻略ガイド【2026年最新】マリオット・プリンスイースト・音羽ノ森", "item": "https://croud-travel.pages.dev/furusato-tax-karuizawa-luxury-resort-villa-stay/" }
+    ]
+  };
+
   return (
     <article className="max-w-5xl mx-auto px-4 py-8 text-gray-800 leading-relaxed font-sans">
       {/* パンくずリスト */}
@@ -346,7 +369,9 @@ export default function FurusatoKaruizawaLuxuryStayPage() {
           >
             ▸ 【大人の隠れ家・離れ客室×ふるさと納税】静寂とプライベート重視の名宿
           </Link>
-        </div>
+        
+      <HubRelatedPosts currentSlug="furusato-tax-karuizawa-luxury-resort-villa-stay" />
+</div>
       </section>
     </article>
   );

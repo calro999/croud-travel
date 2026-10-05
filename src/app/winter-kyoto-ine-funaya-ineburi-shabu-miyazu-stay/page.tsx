@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -257,6 +258,7 @@ export default function KyotoIneFunayaMiyazuWinterPage() {
     "a": "京都北部・丹後半島は冬の日本海側気候（北陸型気候）に属し、12月中旬から1月下旬にかけて寒波が到来するとまとまった降雪や道路凍結が発生します。車で向かう場合は、京都縦貫自動車道や一般道を含め、スタッドレスタイヤの装着が絶対に必須です。公共交通機関を利用する場合は、京都駅や新大阪駅から特急「はしだて」「こうのとり」で天橋立駅まで約2時間〜2時間20分。天橋立駅からは丹海バス（路線バス）で約1時間で伊根の舟屋へアクセスできます。雪の日は電車とバスを利用すると運転の不安なく安心して冬景色を楽しめます。"
   }
 ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-orange-100 selection:text-orange-900 pb-20">
@@ -698,7 +700,9 @@ export default function KyotoIneFunayaMiyazuWinterPage() {
                 特集を見る →
               </span>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-kyoto-ine-funaya-ineburi-shabu-miyazu-stay" />
+</div>
         </section>
 
       </main>

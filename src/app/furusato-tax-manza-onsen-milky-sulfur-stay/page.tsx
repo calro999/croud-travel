@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -17,6 +18,28 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoTaxArticle() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【万座温泉×ふるさと納税】日本一の高濃度硫黄泉！標高1800mの雲上露天風呂＆満天星空ステイガイド｜万座プリンスホテル・万座高原ホテル・日進舘",
+    "description": "日本一の硫黄含有量を誇る名湯・万座温泉を楽天ふるさと納税で満喫！標高1,800メートルの高地に広がる乳白色のにごり湯露天風呂「こまくさの湯」を擁する万座プリンスホテル、4種の自家源泉を巡る石庭露天風呂の万座高原ホテル、創業百五十年の湯治名門・日進舘を徹底比較。嬬恋村クーポン活用術も網羅。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-manza-onsen-milky-sulfur-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【万座温泉×ふるさと納税】日本一の高濃度硫黄泉！標高1800mの雲上露天風呂＆満天星空ステイガイド｜万座プリンスホテル・万座高原ホテル・日進舘", "item": "https://croud-travel.pages.dev/furusato-tax-manza-onsen-milky-sulfur-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-50 text-stone-900 leading-relaxed font-sans">
       {/* ヒーローヘッダー */}
@@ -611,7 +634,9 @@ export default function FurusatoTaxArticle() {
                 東京都の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-manza-onsen-milky-sulfur-stay" />
+</div>
         </section>
 
       </main>

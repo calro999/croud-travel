@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -40,6 +41,7 @@ export default function ArticlePage() {
     dateModified: '2026-09-13T00:00:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/kumamoto-city-solo-business-sauna-onsen-stay',
   };
+
 
   return (
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
@@ -495,7 +497,9 @@ export default function ArticlePage() {
                 滋賀県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="kumamoto-city-solo-business-sauna-onsen-stay" />
+</div>
         </section>
 
       </main>

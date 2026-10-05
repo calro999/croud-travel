@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FeatureArticlePage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "芭蕉が愛した名湯！加賀・山中温泉の鶴仙渓紅葉＆あやとり橋散策と温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】石川",
+    "description": "11月上旬〜11月下旬に見頃を迎える加賀温泉郷「山中温泉・鶴仙渓（かくせんけい）」。あやとり橋やこおろぎ橋を包む錦秋渓谷、鶴仙渓川床で味わう道場六三郎レシピのスイーツ、開湯1300年の名湯宿「かがり吉祥亭」「吉祥やまなか」「白鷺湯たわらや」で11月解禁の加能ガニ・香箱ガニや能登牛を堪能。ふるさと納税で実質2,000円。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-yamanaka-kakusenkei-autumn-leaves-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "芭蕉が愛した名湯！加賀・山中温泉の鶴仙渓紅葉＆あやとり橋散策と温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】石川", "item": "https://croud-travel.pages.dev/furusato-tax-yamanaka-kakusenkei-autumn-leaves-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -508,7 +531,9 @@ export default function FeatureArticlePage() {
                 佐賀県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-yamanaka-kakusenkei-autumn-leaves-stay" />
+</div>
         </section>
 
       </main>

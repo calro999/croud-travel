@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -67,6 +68,28 @@ const HOTEL_DATA = {
 };
 
 export default function FeatureArticlePage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "有馬温泉・瑞宝寺公園の錦秋もみじ狩り＆太閤の金泉銀泉！極上神戸牛会席宿×ふるさと納税完全ガイド【2026年最新秋旅】兵庫",
+    "description": "11月上旬〜下旬に豊臣秀吉が「いくら見ても飽きない」と称賛した日暮しの庭「有馬温泉 瑞宝寺公園」。赤褐色の濃厚な金泉と無色透明な銀泉の名湯「角の坊旅館」「欽山」「有馬御苑」で日本最古の湯浴みと、世界に誇るブランド牛・神戸牛のすき焼きステーキを堪能。ふるさと納税で実質2,000円。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-arima-zuihoji-autumn-leaves-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "有馬温泉・瑞宝寺公園の錦秋もみじ狩り＆太閤の金泉銀泉！極上神戸牛会席宿×ふるさと納税完全ガイド【2026年最新秋旅】兵庫", "item": "https://croud-travel.pages.dev/furusato-tax-arima-zuihoji-autumn-leaves-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -520,7 +543,9 @@ export default function FeatureArticlePage() {
                 福岡県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-arima-zuihoji-autumn-leaves-stay" />
+</div>
         </section>
 
       </main>

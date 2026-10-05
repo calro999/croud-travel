@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -27,6 +28,20 @@ export default function FurusatoJapaneseGardenViewStayPage() {
       { '@type': 'ListItem', position: 2, name: '旅行節約ハブ', item: baseUrl + '/travel-savings-guide' },
       { '@type': 'ListItem', position: 3, name: '日本庭園ビュー＆名門数寄屋造り温泉宿特集', item: baseUrl + '/furusato-tax-japanese-garden-view-luxury-ryokan-stay' },
     ],
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "客室から名園を愛でる贅沢！日本庭園ビュー＆伝統数寄屋造り名門温泉旅館×ふるさと納税完全ガイド【2026年最新】島根玉造・佐賀武雄・石川加賀",
+    "description": "苔むした庭石、錦鯉が泳ぐ池、四季折々に色づく名木。日本の美意識の結晶である名庭園を望む名旅館を厳選！足立美術館にも通じる端正な名庭園と美肌温泉「玉造温泉 佳翠苑 皆美」、国登録記念物・御船山楽園五十万平米の庭園とチームラボの常設アートが融合する「武雄温泉 御船山楽園ホテル」、加賀百万石の伝統庭園と三つの大浴場十八湯めぐり「山代温泉 ゆのくに天祥」。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-japanese-garden-view-luxury-ryokan-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -556,7 +571,9 @@ export default function FurusatoJapaneseGardenViewStayPage() {
                 新潟県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-japanese-garden-view-luxury-ryokan-stay" />
+</div>
         </section>
 
       </main>

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -56,8 +57,32 @@ export default function PetDogResortHubPage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【海直結・愛犬とビーチフロントグランピング＆ヴィラ】砂浜ラン＆BBQ 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "目の前がすぐ海！愛犬と海遊び＆ビーチフロントステイ完全特化！千葉館山・白浜、淡路島、伊豆下田、沖縄、砂浜直結のプライベートヴィラ＆ドームテントグランピング、夕陽BBQ宿を徹底解説。",
+    "url": "https://croud-travel.pages.dev/dog-oceanfront-beach-glamping-villa-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【海直結・愛犬とビーチフロントグランピング＆ヴィラ】砂浜ラン＆BBQ 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/dog-oceanfront-beach-glamping-villa-stay/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-amber-950 via-emerald-950 to-stone-900 text-white p-8 md:p-14 shadow-xl border border-amber-400/20">
         <div className="max-w-3xl space-y-4">
@@ -203,6 +228,8 @@ export default function PetDogResortHubPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="dog-oceanfront-beach-glamping-villa-stay" />
+</div>
   );
 }

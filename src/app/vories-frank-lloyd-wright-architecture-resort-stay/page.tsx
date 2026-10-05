@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -16,6 +17,28 @@ export const metadata: Metadata = {
 
 export default function Page() {
   const secData = (seasonalData as any)['vories-frank-lloyd-wright-architecture-resort-stay'] || {};
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "巨匠建築・ヴォーリズ＆ライト様式美宿完全ガイド【暖炉・プレイリースタイル】 | クラウドトラベル",
+    "description": "ウィリアム・メレル・ヴォーリズやフランク・ロイド・ライトの意匠を受け継ぐ近江八幡・軽井沢・阪神間の名建築宿。暖炉の温もりと有機的建築美を体感するリゾートステイ。",
+    "url": "https://croud-travel.pages.dev/vories-frank-lloyd-wright-architecture-resort-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "巨匠建築・ヴォーリズ＆ライト様式美宿完全ガイド【暖炉・プレイリースタイル】 | クラウドトラベル", "item": "https://croud-travel.pages.dev/vories-frank-lloyd-wright-architecture-resort-stay/" }
+    ]
+  };
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
@@ -486,7 +509,9 @@ export default function Page() {
                 宮城県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="vories-frank-lloyd-wright-architecture-resort-stay" />
+</div>
         </section>
 
       </main>

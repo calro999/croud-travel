@@ -1,4 +1,4 @@
-# 旅館 清風荘のリアル宿泊記！温泉・客室・朝食バイキングの本音口コミ評判｜福島県
+# 旅館 清風荘の宿泊ルポ＆見どころガイド｜福島県
 
 - URL: https://croud-travel.pages.dev/posts/bandaiatami-seifuso-guide/
 - 宿泊施設名: 旅館 清風荘

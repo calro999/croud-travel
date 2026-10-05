@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -137,6 +138,28 @@ export default function SilverWeekGlampingMorningYogaMindfulnessPage() {
         text: faq.answer,
       },
     })),
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【朝ヨガ＆森林セラピー グランピング】朝陽と鳥の声で目覚める！美と健康のリトリート女子旅 ｜ 日本全国・旅宿クラウド",
+    "description": "心と体をデトックスする秋のグランピング！ウッドデッキでの朝ヨガ体験、ハーブティーとオーガニック朝食、フィトンチッド溢れる森林浴セラピーで日頃のストレスをリセットする週末リフレッシュ旅。",
+    "url": "https://croud-travel.pages.dev/silver-week-glamping-morning-yoga-mindfulness-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【朝ヨガ＆森林セラピー グランピング】朝陽と鳥の声で目覚める！美と健康のリトリート女子旅 ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/silver-week-glamping-morning-yoga-mindfulness-guide/" }
+    ]
   };
 
   return (
@@ -416,6 +439,8 @@ export default function SilverWeekGlampingMorningYogaMindfulnessPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="silver-week-glamping-morning-yoga-mindfulness-guide" />
+</div>
   );
 }

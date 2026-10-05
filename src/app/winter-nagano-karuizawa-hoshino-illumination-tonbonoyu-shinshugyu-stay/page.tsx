@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -257,6 +258,7 @@ export default function NaganoKaruizawaHoshinoWinterPage() {
     "a": "氷点下の冷気が肌を刺す冬の軽井沢では、都市部よりもワンランク上の完全防寒が必要です。防風性のあるロングダウンコート、発熱インナー、厚手のセーター、マフラー、ニット帽、裏起毛の手袋、耳あて、カイロを準備してください。アクセス面では、東京駅から北陸新幹線（あさま・はくたか）で約1時間と圧倒的な早さ。新幹線を利用すれば雪道運転の心配がなく、軽井沢駅からはホテルやスキー場への無料シャトルバス、星野エリア行きの路線バスが発着しているため、車がなくても快適に冬のリゾート観光を満喫できます。"
   }
 ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-teal-100 selection:text-teal-900 pb-20">
@@ -711,7 +713,9 @@ export default function NaganoKaruizawaHoshinoWinterPage() {
                 冬の特集記事一覧をすべて見る ➔
               </span>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-nagano-karuizawa-hoshino-illumination-tonbonoyu-shinshugyu-stay" />
+</div>
         </section>
 
       </main>

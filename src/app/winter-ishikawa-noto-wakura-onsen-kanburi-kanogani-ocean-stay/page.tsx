@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -220,6 +221,7 @@ export default function WinterIshikawaWakuraPage() {
       }
     ]
   };
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-stone-50 via-teal-50/20 to-stone-50 text-stone-800 antialiased">
@@ -645,7 +647,9 @@ export default function WinterIshikawaWakuraPage() {
                 黄色いタグの越前ガニと多彩な源泉、数寄屋造りの庭園名宿で味わう至高の冬。
               </p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-ishikawa-noto-wakura-onsen-kanburi-kanogani-ocean-stay" />
+</div>
         </section>
 
       </main>

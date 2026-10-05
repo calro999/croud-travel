@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -61,6 +62,28 @@ export default function SilverWeekGlampingWithDogsPetsPage() {
       a: "施設や客室タイプによって受入条件が異なります。今回ご紹介する施設の中には大型犬2頭まで同伴可能なヴィラや、頭数制限の緩やかな広大ドッグラン付き施設が含まれています。予約時に体重や頭数を必ず確認の上、お申し込みください。",
     },
   ];
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【愛犬と泊まるシルバーウィーク グランピング】プライベートドッグラン付き＆ノーリードOKの極上ヴィラ ｜ 日本全国・旅宿クラウド",
+    "description": "ワンちゃんと一緒に秋の連休を満喫！客室直結のプライベート芝生ドッグラン、足洗い場・ペット用アメニティ完備、大型犬OK・多頭飼い対応のグランピング施設特集。涼しくなる9月がベストシーズンの理由。",
+    "url": "https://croud-travel.pages.dev/silver-week-glamping-with-dogs-pets-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【愛犬と泊まるシルバーウィーク グランピング】プライベートドッグラン付き＆ノーリードOKの極上ヴィラ ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/silver-week-glamping-with-dogs-pets-guide/" }
+    ]
+  };
 
   return (
     <div className="min-h-screen bg-amber-50/40 text-slate-800 antialiased selection:bg-amber-600 selection:text-white font-sans">
@@ -468,6 +491,8 @@ export default function SilverWeekGlampingWithDogsPetsPage() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="silver-week-glamping-with-dogs-pets-guide" />
+</div>
   );
 }

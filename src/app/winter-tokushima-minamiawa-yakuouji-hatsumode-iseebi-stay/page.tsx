@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import type { Metadata } from 'next';
@@ -254,6 +255,7 @@ export default function TokushimaMinamiawaWinterPage() {
       a: "【1日目】徳島市内または徳島阿波おどり空港を出発 → 国道55号を南下 → 阿南市で名物徳島ラーメンのランチ → 美波町へ移動し四国霊場第23番札所「薬王寺」で厄除け初詣・厄坂参拝 → 大浜海岸と日和佐城から冬の太平洋を眺望 → 海陽町の温泉宿にチェックイン → 絶景露天風呂と南阿波天然伊勢海老フルコースを堪能。【2日目】宿から望む水平線の初日の出鑑賞 → 海陽町宍喰海岸や室戸阿南海岸国定公園の奇岩絶景ドライブ → 道の駅日和佐で名産品（阿波尾鶏燻製やすだち加工品）のお土産購入 → 帰路へ。"
     }
   ];
+
 
   return (
     <>
@@ -611,7 +613,9 @@ export default function TokushimaMinamiawaWinterPage() {
           </section>
 
         </main>
-      </div>
+      
+      <HubRelatedPosts currentSlug="winter-tokushima-minamiawa-yakuouji-hatsumode-iseebi-stay" />
+</div>
     </>
   );
 }

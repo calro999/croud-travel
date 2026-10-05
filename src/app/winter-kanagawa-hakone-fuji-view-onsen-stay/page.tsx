@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -241,6 +242,7 @@ export default function HakoneWinterPage() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-amber-700 selection:text-white">
@@ -845,7 +847,9 @@ export default function HakoneWinterPage() {
               <Link href="/prefectures/chiba" className="px-3 py-1.5 bg-stone-100 hover:bg-cyan-100 text-stone-700 hover:text-cyan-900 rounded-lg transition-colors font-medium">千葉県の宿一覧</Link>
               <Link href="/prefectures/saitama" className="px-3 py-1.5 bg-stone-100 hover:bg-cyan-100 text-stone-700 hover:text-cyan-900 rounded-lg transition-colors font-medium">埼玉県の宿一覧</Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-kanagawa-hakone-fuji-view-onsen-stay" />
+</div>
         </section>
 
       </main>

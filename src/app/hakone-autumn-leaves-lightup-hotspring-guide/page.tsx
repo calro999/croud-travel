@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -102,8 +103,32 @@ export default function HakoneAutumnLeavesHotspringGuidePage() {
     },
   ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【箱根 紅葉露天風呂＆ライトアップ2026】箱根登山鉄道・強羅公園・美術館の紅葉巡り＆にごり湯旅館 ｜ 日本全国・旅宿クラウド",
+    "description": "箱根の秋を彩る紅葉名所と絶景露天風呂！箱根美術館の苔庭紅葉、彫刻の森、芦ノ湖遊覧船からの富士と紅葉パノラマ、強羅・仙石原の秋限定懐石ディナー付き名門温泉旅館を徹底比較。",
+    "url": "https://croud-travel.pages.dev/hakone-autumn-leaves-lightup-hotspring-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【箱根 紅葉露天風呂＆ライトアップ2026】箱根登山鉄道・強羅公園・美術館の紅葉巡り＆にごり湯旅館 ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/hakone-autumn-leaves-lightup-hotspring-guide/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-rose-50/30 text-neutral-800 antialiased selection:bg-rose-600 selection:text-white">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローヘッダー */}
       <header className="relative overflow-hidden bg-gradient-to-br from-rose-950 via-stone-900 to-red-950 text-rose-50 pt-16 pb-24 px-4 sm:px-6 lg:px-8 border-b-4 border-rose-600">
         <div className="absolute inset-0 opacity-10 pointer-events-none bg-[radial-gradient(#f43f5e_1px,transparent_1px)] [background-size:18px_18px]" />
@@ -575,6 +600,8 @@ export default function HakoneAutumnLeavesHotspringGuidePage() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="hakone-autumn-leaves-lightup-hotspring-guide" />
+</div>
   );
 }

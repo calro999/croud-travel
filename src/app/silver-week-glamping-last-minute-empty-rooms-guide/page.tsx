@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -127,6 +128,7 @@ export default function SilverWeekGlampingLastMinuteGuidePage() {
       },
     })),
   };
+
 
   return (
     <div className="min-h-screen bg-emerald-950/5 text-slate-800 space-y-12 pb-20">
@@ -400,6 +402,8 @@ export default function SilverWeekGlampingLastMinuteGuidePage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="silver-week-glamping-last-minute-empty-rooms-guide" />
+</div>
   );
 }

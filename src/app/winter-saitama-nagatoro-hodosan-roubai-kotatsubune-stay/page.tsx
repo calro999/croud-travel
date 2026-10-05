@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import type { Metadata } from 'next';
@@ -254,6 +255,7 @@ export default function SaitamaNagatoroWinterPage() {
       a: "【電車利用】池袋駅から西武特急「Laview（ラビュー）」で西武秩父駅まで最速約77分。御花畑駅から秩父鉄道に乗り換えて長瀞駅まで約20分。また、上野・熊谷方面からはJR高崎線熊谷駅経由で秩父鉄道に乗り換えて直通アクセスも可能です。【車利用】関越自動車道「花園IC」より国道140号・皆野寄居有料道路を経由して長瀞まで約20〜30分。平野部は積雪が少ないですが、12月下旬〜1月の朝晩は道路凍結のリスクがあるため、スタッドレスタイヤの装着をおすすめします。服装は朝夕の冷え込みに備えてダウンジャケット、ニット帽、手袋を準備しましょう。"
     }
   ];
+
 
   return (
     <>
@@ -612,7 +614,9 @@ export default function SaitamaNagatoroWinterPage() {
           </section>
 
         </main>
-      </div>
+      
+      <HubRelatedPosts currentSlug="winter-saitama-nagatoro-hodosan-roubai-kotatsubune-stay" />
+</div>
     </>
   );
 }

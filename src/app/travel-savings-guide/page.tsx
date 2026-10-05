@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -59,11 +60,25 @@ export default function TravelSavingsGuide() {
     ],
   };
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "旅行費を最大30%安くする裏ワザ7選｜ホテル代・温泉旅行の節約術【2026年完全版】",
+    "description": "国内旅行の費用を大幅に節約する7つの方法を徹底解説。早割・ポイント活用・クーポン・ふるさと納税トラベルクーポンなど、知るだけで年間数万円得する旅の裏ワザ。温泉旅行から家族旅行まで、どんな旅にも使える保存版ガイド。",
+    "url": "https://croud-travel.pages.dev/travel-savings-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
       <div className="max-w-5xl mx-auto">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
-        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
+        
 
         {/* パンくずリスト */}
         <nav className="text-xs md:text-sm text-stone-500 mb-6 flex items-center gap-2 flex-wrap">
@@ -3288,7 +3303,9 @@ export default function TravelSavingsGuide() {
                 岩手県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="travel-savings-guide" />
+</div>
         </section>
 
       </main>

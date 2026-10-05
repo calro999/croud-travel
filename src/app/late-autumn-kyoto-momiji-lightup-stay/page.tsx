@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -109,6 +110,7 @@ export default function FeaturePage() {
               features: ["京都の旅館ならではの日本の伝統美と現代アートの空間で四季折々の京懐石とオーストリアワインを愉しむ", "亀岡市湯の花温泉", "楽天アワード受賞歴"]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-stone-50 via-white to-stone-50 text-stone-800">
@@ -665,7 +667,9 @@ export default function FeaturePage() {
                 和歌山県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="late-autumn-kyoto-momiji-lightup-stay" />
+</div>
         </section>
 
       </main>

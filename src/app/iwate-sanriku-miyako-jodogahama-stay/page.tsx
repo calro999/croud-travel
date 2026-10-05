@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -56,8 +57,32 @@ export default function MicroTouristHubPage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【岩手・三陸宮古＆浄土ヶ浜】極楽浄土の白い奇岩・青の洞窟＆名物「瓶ドン」宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "三陸復興国立公園の白砂と青松の絶景・岩手宮古エリア完全特化！国の名勝「浄土ヶ浜」、さっぱ船で行く「青の洞窟（八戸穴）」、三陸鉄道リアス線、三陸の海の幸を牛乳瓶に詰めた名物「瓶ドン」、宮古トラウトサーモン宿を徹底解説。",
+    "url": "https://croud-travel.pages.dev/iwate-sanriku-miyako-jodogahama-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【岩手・三陸宮古＆浄土ヶ浜】極楽浄土の白い奇岩・青の洞窟＆名物「瓶ドン」宿 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/iwate-sanriku-miyako-jodogahama-stay/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-stone-900 via-rose-950 to-amber-950 text-white p-8 md:p-14 shadow-xl border border-white/10">
         <div className="max-w-3xl space-y-4">
@@ -203,6 +228,8 @@ export default function MicroTouristHubPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="iwate-sanriku-miyako-jodogahama-stay" />
+</div>
   );
 }

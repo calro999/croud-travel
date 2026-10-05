@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -220,6 +221,7 @@ export default function WinterFukushimaAizuOnsenPage() {
       }
     ]
   };
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-stone-50 via-rose-50/20 to-stone-50 text-stone-800 antialiased">
@@ -613,7 +615,9 @@ export default function WinterFukushimaAizuOnsenPage() {
                 多彩な泉質を誇る塩原渓谷の雪見露天と甘い高原大根鍋を堪能。
               </p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-fukushima-aizu-higashiyama-ashinomaki-onsen-stay" />
+</div>
         </section>
 
       </main>

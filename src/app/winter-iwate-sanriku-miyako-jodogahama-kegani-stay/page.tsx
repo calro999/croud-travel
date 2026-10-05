@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import type { Metadata } from 'next';
@@ -254,6 +255,7 @@ export default function IwateSanrikuMiyakoWinterPage() {
       a: "【1日目】盛岡駅または花巻空港よりレンタカーで出発 → 国道106号（宮古盛岡横断道路）を経由して宮古市へ（約1時間30分） → 宮古市内で名物「瓶ドン」のランチ → 国の名勝「浄土ヶ浜」へ向かい、冬の奇岩絶景とビジターセンターを散策 → 浄土ヶ浜または宮古湾沿いの温泉リゾートにチェックイン → 太平洋の夕景を望む露天風呂で温まる → 夕食に「三陸宮古の旬毛ガニ＆冬の海鮮会席」を満喫。【2日目】客室や展望台から昇る太平洋の初日の出を鑑賞 → ホテルで新鮮イクラ朝食 → 三陸沿岸道路を北上して田老の防潮堤や久慈・小袖海岸へ → 道の駅くじ「やませ土風館」で名物まめぶ汁とお土産購入 → 三陸鉄道リアス線で冬の車窓旅を楽しむ → 帰路へ。"
     }
   ];
+
 
   return (
     <>
@@ -634,7 +636,9 @@ export default function IwateSanrikuMiyakoWinterPage() {
           </section>
 
         </main>
-      </div>
+      
+      <HubRelatedPosts currentSlug="winter-iwate-sanriku-miyako-jodogahama-kegani-stay" />
+</div>
     </>
   );
 }

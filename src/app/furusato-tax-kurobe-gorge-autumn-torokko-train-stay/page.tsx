@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoKurobeGorgeAutumnTorokkoStayPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本一のV字峡谷を染める大紅葉！黒部峡谷トロッコ電車＆宇奈月つべつべ温泉名宿×ふるさと納税完全ガイド【2026年最新秋旅】富山 | 旅宿クラウド",
+    "description": "10月中旬〜11月中旬が見頃！日本一深いV字峡谷をオープン客車のトロッコ電車で駆け抜ける「黒部峡谷鉄道」と、日本屈指の透明度を誇る「宇奈月温泉（つべつべ美肌の湯）」。黒部川の清流を望む「延楽」「やまのは」「ホテル黒部」。富山湾の紅ズワイガニ・寒ブリ・白えびを、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-kurobe-gorge-autumn-torokko-train-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "日本一のV字峡谷を染める大紅葉！黒部峡谷トロッコ電車＆宇奈月つべつべ温泉名宿×ふるさと納税完全ガイド【2026年最新秋旅】富山 | 旅宿クラウド", "item": "https://croud-travel.pages.dev/furusato-tax-kurobe-gorge-autumn-torokko-train-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -582,7 +605,9 @@ export default function FurusatoKurobeGorgeAutumnTorokkoStayPage() {
                 大分県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-kurobe-gorge-autumn-torokko-train-stay" />
+</div>
         </section>
 
       </main>

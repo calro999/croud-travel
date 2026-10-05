@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import Link from 'next/link';
 import type { Metadata } from 'next';
 import { 
@@ -255,6 +256,7 @@ export default function NaraKashiharaWinterPage() {
       a: "近鉄電車を利用するのが最も快適で便利です。大阪・阿部野橋（天王寺）駅からは近鉄南大阪線特急で橿原神宮前駅まで約35分。大阪難波駅からは近鉄奈良線・橿原線（大和八木駅乗り換え）で約40分。京都駅からは近鉄京都線特急で大和八木駅・橿原神宮前駅まで直通約50〜55分です。冬期は積雪することは稀ですが、朝晩の路面凍結があるため、公共交通機関の利用が最も確実で安心です。"
     }
   ];
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800 antialiased">
@@ -680,7 +682,9 @@ export default function NaraKashiharaWinterPage() {
             >
               トップページへ戻る
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-nara-kashihara-jingu-hatsumode-asuka-asukunabe-yamatogyu-stay" />
+</div>
         </section>
 
       </main>

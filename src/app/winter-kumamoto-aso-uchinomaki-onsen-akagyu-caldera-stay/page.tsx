@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -221,6 +222,7 @@ export default function KumamotoAsoUchinomakiWinterFeature() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800 pb-20">
@@ -665,7 +667,9 @@ export default function KumamotoAsoUchinomakiWinterFeature() {
               <h3 className="font-bold text-white text-sm">原鶴温泉・筑後川の初冬情緒とダブル美肌の湯・博多和牛の宿</h3>
               <p className="text-slate-300 text-[11px] line-clamp-2">弱アルカリ性と硫黄泉のダブル美肌効果と博多和牛すき焼き。</p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-kumamoto-aso-uchinomaki-onsen-akagyu-caldera-stay" />
+</div>
         </section>
 
       </main>

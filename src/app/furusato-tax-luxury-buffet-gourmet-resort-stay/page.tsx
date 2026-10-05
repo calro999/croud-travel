@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -27,6 +28,20 @@ export default function FurusatoLuxuryBuffetGourmetStayPage() {
       { '@type': 'ListItem', position: 2, name: '旅行節約ハブ', item: baseUrl + '/travel-savings-guide' },
       { '@type': 'ListItem', position: 3, name: '豪華ビュッフェ＆バイキング名門温泉宿特集', item: baseUrl + '/furusato-tax-luxury-buffet-gourmet-resort-stay' },
     ],
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "豪華ディナービュッフェ＆出来たてライブキッチン極上温泉宿×ふるさと納税完全ガイド【2026年最新】鬼怒川あさや・別府杉乃井・登別グランド",
+    "description": "カニ・黒毛和牛ステーキ・握り寿司・旬スイーツが食べ放題！全国のバイキングランキングで常に頂点に君臨する名門ホテルを厳選。和洋中100種超の料理と空中庭園露天風呂を誇る日光鬼怒川「あさや」、別府湾を一望する棚湯と圧巻のワールドダイニング「別府温泉 杉乃井ホテル」、北海道の海の幸と庭園露天風呂を満喫する「登別グランドホテル」。家族旅行やグループ旅に最高の美食エンタメ温泉を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-luxury-buffet-gourmet-resort-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -556,7 +571,9 @@ export default function FurusatoLuxuryBuffetGourmetStayPage() {
                 新潟県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-luxury-buffet-gourmet-resort-stay" />
+</div>
         </section>
 
       </main>

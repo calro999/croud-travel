@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FeatureArticlePage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本一早い紅葉！大雪山・層雲峡渓谷の柱状節理＆銀河流星の滝と名湯宿×ふるさと納税完全ガイド【2026年最新秋旅】北海道",
+    "description": "9月下旬〜10月中旬に見頃を迎える日本一早い紅葉の聖地「大雪山・層雲峡（そううんきょう）」。高さ100mの柱状節理の断崖と日本の滝百選「銀河・流星の滝」を彩る錦秋絵巻、黒岳ロープウェイの紅葉狩り、名宿「朝陽リゾートホテル」「湯元 銀泉閣」「朝陽亭」で道産牛や秋の味覚バイキングを堪能。ふるさと納税で実質2,000円。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-sounkyo-autumn-leaves-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "日本一早い紅葉！大雪山・層雲峡渓谷の柱状節理＆銀河流星の滝と名湯宿×ふるさと納税完全ガイド【2026年最新秋旅】北海道", "item": "https://croud-travel.pages.dev/furusato-tax-sounkyo-autumn-leaves-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -508,7 +531,9 @@ export default function FeatureArticlePage() {
                 島根県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-sounkyo-autumn-leaves-stay" />
+</div>
         </section>
 
       </main>

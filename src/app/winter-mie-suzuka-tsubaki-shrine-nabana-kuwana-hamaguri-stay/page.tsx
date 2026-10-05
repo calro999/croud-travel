@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -191,6 +192,28 @@ export default function MieSuzukaPage() {
           }
         }))
       }
+    ]
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【11・12・1月三重鈴鹿桑名】伊勢国一の宮・椿大神社新春みちびき初詣＆なばなの里イルミネーション！桑名冬蛤鍋と名宿5選",
+    "description": "冬の三重北勢（鈴鹿・桑名・四日市）は、全国猿田彦神社総本宮・伊勢国一の宮「椿大神社」の清冽な神域で新春のみちびき開運を祈願し、国内最大級のスケールを誇る「なばなの里イルミネーション」の圧倒的な光の回廊に包まれる特別な季節。11月の点灯から1月の新春参拝まで、桑名伝統の熱々天然蛤鍋（はまぐり鍋）や四日市名物とんてき、極上黒毛和牛の贅沢な味わい。湯量豊富な長島温泉や鈴鹿の快適名宿で心身を温める冬の旅。楽天APIから最新取得した信頼の厳選宿5選を徹底特集します。",
+    "url": "https://croud-travel.pages.dev/winter-mie-suzuka-tsubaki-shrine-nabana-kuwana-hamaguri-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【11・12・1月三重鈴鹿桑名】伊勢国一の宮・椿大神社新春みちびき初詣＆なばなの里イルミネーション！桑名冬蛤鍋と名宿5選", "item": "https://croud-travel.pages.dev/winter-mie-suzuka-tsubaki-shrine-nabana-kuwana-hamaguri-stay/" }
     ]
   };
 
@@ -548,7 +571,9 @@ export default function MieSuzukaPage() {
               <span className="font-bold text-slate-900 mb-1">【全国】冬の厳選温泉＆旬グルメ特集一覧へ</span>
               <span className="text-xs text-slate-500">11月・12月・1月に訪れたい日本各地の名宿・絶景旅ガイド</span>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-mie-suzuka-tsubaki-shrine-nabana-kuwana-hamaguri-stay" />
+</div>
         </section>
       </main>
     </article>

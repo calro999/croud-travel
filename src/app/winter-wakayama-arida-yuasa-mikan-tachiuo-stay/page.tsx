@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import type { Metadata } from 'next';
@@ -254,6 +255,7 @@ export default function WakayamaAridaYuasaWinterPage() {
       a: "【1日目】大阪方面より阪和道を利用して有田ICへ → 箕島漁港直営の食堂で名物「太刀魚丼・太刀魚尽くし」のランチ → 有田みかん海道を爽快にドライブ＆展望デッキから紀伊水道を眺望 → 観光農園で完熟有田みかん狩り体験 → 湯浅温泉の旅館またはリゾートホテルにチェックイン → 茜色に染まる夕日を眺めながら天然温泉に浸かる → 夕食に「天然本クエ鍋または太刀魚＆熊野牛会席」を満喫。【2日目】爽やかな朝風呂と紀州朝食 → 湯浅町の重要伝統的建造物群保存地区へ向かい、角長醤油資料館や醸造蔵が並ぶ歴史の通りを散策 → 金山寺味噌や手作り醤油のお土産を購入 → 栖原海岸や白崎海洋公園の白亜の奇岩をドライブ見学 → 阪和道経由で帰路へ。"
     }
   ];
+
 
   return (
     <>
@@ -633,7 +635,9 @@ export default function WakayamaAridaYuasaWinterPage() {
           </section>
 
         </main>
-      </div>
+      
+      <HubRelatedPosts currentSlug="winter-wakayama-arida-yuasa-mikan-tachiuo-stay" />
+</div>
     </>
   );
 }

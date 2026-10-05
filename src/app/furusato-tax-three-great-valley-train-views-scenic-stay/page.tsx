@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -27,6 +28,20 @@ export default function FurusatoRound64ArticlePage() {
       { '@type': 'ListItem', position: 2, name: '旅行節約ハブ', item: baseUrl + '/travel-savings-guide' },
       { '@type': 'ListItem', position: 3, name: '日本三大渓谷鉄道・絶景ローカル線ステイ特集', item: baseUrl + '/furusato-tax-three-great-valley-train-views-scenic-stay' },
     ],
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三大渓谷鉄道＆嵯峨野トロッコ・大井川SL・只見線の絶景鉄道旅と名湯宿×ふるさと納税完全ガイド【2026年最新】京都・静岡・福島",
+    "description": "車窓いっぱいに広がるエメラルドグリーンの渓谷美と汽笛の響き「日本三大渓谷鉄道」（京都・嵯峨野観光鉄道トロッコ列車、静岡・大井川鐵道SL＆アプト式列車、福島新潟・JR只見線）。鉄橋から望む絶景パノラマと、秘境の名湯温泉旅館。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ贅沢な鉄道ロマン宿泊ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-great-valley-train-views-scenic-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -538,7 +553,9 @@ export default function FurusatoRound64ArticlePage() {
                 山形県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-three-great-valley-train-views-scenic-stay" />
+</div>
         </section>
 
       </main>

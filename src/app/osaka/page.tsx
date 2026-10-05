@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import fs from "fs";
 import path from "path";
 import Link from "next/link";
@@ -50,8 +51,32 @@ function loadOsakaData(): Record<string, RakutenCategoryData> {
 export default function OsakaHubPage() {
   const osakaData = loadOsakaData();
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【大阪観光 完全計画ガイド 2026】1泊2日・2泊3日モデルコース＆梅田・なんば・USJ・道頓堀グルメ・おすすめホテル ｜ 旅宿クラウド",
+    "description": "大阪観光の計画を完全サポート！梅田・なんば・道頓堀・USJ（ユニバーサル・スタジオ・ジャパン）の1泊2日/2泊3日モデルコース、たこ焼き・串カツ食べ歩き、夜景ホテルから駅チカ格安宿までおすすめの宿泊プランまで徹底網羅。",
+    "url": "https://croud-travel.pages.dev/osaka/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【大阪観光 完全計画ガイド 2026】1泊2日・2泊3日モデルコース＆梅田・なんば・USJ・道頓堀グルメ・おすすめホテル ｜ 旅宿クラウド", "item": "https://croud-travel.pages.dev/osaka/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       <nav aria-label="Breadcrumb" className="text-xs font-bold text-teal-900/60 flex items-center gap-2">
         <Link href="/" className="hover:text-teal-800 transition">ホーム</Link>
         <span>/</span>
@@ -127,6 +152,8 @@ export default function OsakaHubPage() {
           </div>
         </section>
       )}
-    </div>
+    
+      <HubRelatedPosts currentSlug="osaka" />
+</div>
   );
 }

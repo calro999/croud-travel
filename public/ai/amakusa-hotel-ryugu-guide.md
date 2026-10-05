@@ -1,4 +1,4 @@
-# マイホテル 竜宮のリアル宿泊記！温泉・客室・朝食バイキングの本音口コミ評判｜熊本県
+# マイホテル 竜宮の宿泊ルポ＆見どころガイド｜熊本県
 
 - URL: https://croud-travel.pages.dev/posts/amakusa-hotel-ryugu-guide/
 - 宿泊施設名: マイホテル 竜宮

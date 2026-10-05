@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -255,6 +256,7 @@ export default function TokushimaNarutoWinterFeature() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800 pb-20">
@@ -637,7 +639,9 @@ export default function TokushimaNarutoWinterFeature() {
               <span className="text-xs text-teal-300 font-semibold block mb-1">愛媛・道後温泉</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">日本最古の名湯本館と宇和島・松山名物鯛めし・飛鳥乃湯泉を巡る名宿</h3>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-tokushima-naruto-onsen-uzushio-naruto-tai-stay" />
+</div>
         </section>
 
       </main>

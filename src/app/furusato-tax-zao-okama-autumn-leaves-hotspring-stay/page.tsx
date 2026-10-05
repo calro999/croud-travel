@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoZaoOkamaAutumnLeavesStayPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "神秘の火口湖・御釜と三段紅葉！蔵王エコーライン＆強酸性白濁にごり湯名宿×ふるさと納税完全ガイド【2026年最新秋旅】山形 | 旅宿クラウド",
+    "description": "10月上旬〜11月上旬に見頃を迎える東北の山岳絶景「蔵王エコーライン・御釜（おかま）」。山頂の冠雪・中腹の紅葉・山麓の緑が織りなす「三段紅葉」と、開湯千九百年を誇る日本屈指の強酸性硫黄泉（美肌温泉）！「おおみや旅館」「善七乃湯」「季の里」。最高級山形牛と芋煮会席を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-zao-okama-autumn-leaves-hotspring-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "神秘の火口湖・御釜と三段紅葉！蔵王エコーライン＆強酸性白濁にごり湯名宿×ふるさと納税完全ガイド【2026年最新秋旅】山形 | 旅宿クラウド", "item": "https://croud-travel.pages.dev/furusato-tax-zao-okama-autumn-leaves-hotspring-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -582,7 +605,9 @@ export default function FurusatoZaoOkamaAutumnLeavesStayPage() {
                 和歌山県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-zao-okama-autumn-leaves-hotspring-stay" />
+</div>
         </section>
 
       </main>

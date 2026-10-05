@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -187,6 +188,7 @@ export default function HokkaidoKawayuPage() {
     "a": "女満別空港からは、レンタカーまたはタクシーで美幌峠または小清水峠を経由して約1時間〜1時間15分。釧路空港からは釧路湿原を経由して車で約1時間30分〜1時間45分です。公共交通機関を利用する場合は、女満別空港から連絡バスでJR網走駅へ出て、JR釧網本線で「川湯温泉駅」へ向かうルート（トータル約2時間30分）、またはJR釧路駅から釧網本線で川湯温泉駅へ向かうルート（約1時間45分）があります。川湯温泉駅から温泉街までは路線バスで約10分です。"
   }
 ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-amber-100 selection:text-amber-900 pb-20">
@@ -623,7 +625,9 @@ export default function HokkaidoKawayuPage() {
                 柱状節理の断崖に凍りつく滝と氷瀑まつり、冷えた身体を芯から温める山峡の名湯。
               </p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-hokkaido-kawayu-onsen-mashu-kussharo-crab-stay" />
+</div>
         </section>
 
       </main>

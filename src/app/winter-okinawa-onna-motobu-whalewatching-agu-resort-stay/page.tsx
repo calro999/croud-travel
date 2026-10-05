@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -257,6 +258,7 @@ export default function OkinawaOnnaMotobuWinterPage() {
     "a": "日中は長袖シャツや薄手のパーカーで快適に過ごせますが、沖縄の冬は北東からの海風が強く吹く日があります。風が吹くと体感温度がぐっと下がるため、風を通さないウィンドブレーカーやマウンテンパーカー、薄手のダウンジャケットを1枚持参すると安心です。ホエールウォッチングの船上は特に風と波しぶきを受けるため、防寒着に加えて滑りにくいスニーカー、船酔い止め薬の準備をおすすめします。冬でも紫外線が本土の数倍強いため、サングラスや日焼け止めも必携です。"
   }
 ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-teal-100 selection:text-teal-900 pb-20">
@@ -666,7 +668,9 @@ export default function OkinawaOnnaMotobuWinterPage() {
               <span className="text-teal-700 font-bold block text-[10px]">冬のイルミネーション</span>
               <p className="font-bold text-stone-800 line-clamp-2">全国の幻想的な光の絶景と贅沢ステイを楽しむ極上リゾート特集</p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-okinawa-onna-motobu-whalewatching-agu-resort-stay" />
+</div>
         </section>
 
       </main>

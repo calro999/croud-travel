@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -16,6 +17,28 @@ export const metadata: Metadata = {
 
 export default function Page() {
   const secData = (seasonalData as any)['pure-natural-spring-water-bath-totonoi-onsen-stay'] || {};
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "地下天然水・飲める名水掛け流し水風呂宿完全ガイド【しきじ流・極上の羽衣】 | クラウドトラベル",
+    "description": "「サウナの聖地しきじ」で知られる静岡の天然水水風呂や、阿蘇・北アルプスの名水百選伏流水を惜しげもなく掛け流す名宿を特集。肌に吸い付くまろやかな水質と天然の羽衣。",
+    "url": "https://croud-travel.pages.dev/pure-natural-spring-water-bath-totonoi-onsen-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "地下天然水・飲める名水掛け流し水風呂宿完全ガイド【しきじ流・極上の羽衣】 | クラウドトラベル", "item": "https://croud-travel.pages.dev/pure-natural-spring-water-bath-totonoi-onsen-stay/" }
+    ]
+  };
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
@@ -486,7 +509,9 @@ export default function Page() {
                 宮城県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="pure-natural-spring-water-bath-totonoi-onsen-stay" />
+</div>
         </section>
 
       </main>

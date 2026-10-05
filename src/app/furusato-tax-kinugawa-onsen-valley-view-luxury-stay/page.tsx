@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoKinugawaOnsenValleyStayPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "鬼怒川渓谷の絶景と名湯！空中庭園露天風呂＆豪華100種バイキング・最高峰老舗旅館×ふるさと納税完全攻略ガイド【2026年最新】あさや・金谷ホテル・ホテル三日月",
+    "description": "関東屈指の歴史を誇る名湯リゾート・鬼怒川温泉！ダイナミックな鬼怒川渓谷の巨岩と四季の景観。「鬼怒川温泉 あさや」「鬼怒川金谷ホテル」「鬼怒川温泉 日光きぬ川ホテル三日月」を、栃木県日光市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。絶景空中庭園露天風呂、ショコラバー、100種バイキングを満喫。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-kinugawa-onsen-valley-view-luxury-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "鬼怒川渓谷の絶景と名湯！空中庭園露天風呂＆豪華100種バイキング・最高峰老舗旅館×ふるさと納税完全攻略ガイド【2026年最新】あさや・金谷ホテル・ホテル三日月", "item": "https://croud-travel.pages.dev/furusato-tax-kinugawa-onsen-valley-view-luxury-stay/" }
+    ]
+  };
+
   return (
     <article className="max-w-5xl mx-auto px-4 py-8 text-gray-800 leading-relaxed font-sans">
       {/* パンくずリスト */}
@@ -346,7 +369,9 @@ export default function FurusatoKinugawaOnsenValleyStayPage() {
           >
             ▸ 【豪華ビュッフェ＆オープンキッチン名宿×ふるさと納税】美食リゾート
           </Link>
-        </div>
+        
+      <HubRelatedPosts currentSlug="furusato-tax-kinugawa-onsen-valley-view-luxury-stay" />
+</div>
       </section>
     </article>
   );

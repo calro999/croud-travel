@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -257,6 +258,7 @@ export default function TochigiAshikagaFlowerparkWinterPage() {
     "a": "足利市・佐野市は関東平野の北端に位置し、冬は「赤城颪（あかぎおろし）」と呼ばれる冷たい空っ風が吹き荒れます。晴天率は高いものの、イルミネーション鑑賞など夜間の屋外行動では気温が氷点下近くまで急降下するため、厚手のダウンコート、風を通さない防寒パンツ、手袋、マフラー、貼るカイロが必須です。道路の積雪は年に数回程度ですが、寒波の朝晩は橋の上や日陰で路面凍結が発生します。安全のためスタッドレスタイヤ装着、もしくはチェーン携行が推奨されます。"
   }
 ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-purple-100 selection:text-purple-900 pb-20">
@@ -693,7 +695,9 @@ export default function TochigiAshikagaFlowerparkWinterPage() {
             >
               <span>冬の特集一覧へ戻る</span>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-tochigi-ashikaga-flowerpark-sano-yakuyoke-stay" />
+</div>
         </section>
 
       </main>

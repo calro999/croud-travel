@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -350,6 +351,7 @@ export default function ShimaneTsuwanoOnsenWinterPage() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-900 leading-relaxed font-sans">
@@ -707,7 +709,9 @@ export default function ShimaneTsuwanoOnsenWinterPage() {
               <span className="text-red-700 font-bold block text-[10px]">山口・湯田温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">白狐伝説の名湯足湯めぐりと冬の本場とらふぐ・長州黒かしわ会席</p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-shimane-tsuwano-onsen-iwamigyu-jizake-stay" />
+</div>
         </section>
 
       </main>

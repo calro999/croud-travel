@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import Link from 'next/link';
 import Image from 'next/image';
 import { Metadata } from 'next';
@@ -22,8 +23,32 @@ export const metadata: Metadata = {
 const OFFICIAL_FURUSATO_URL = 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F';
 
 export default function Page() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三大銘茶の産地＆大茶園パノラマ・茶香炉ヒーリング宿×ふるさと納税完全ガイド【2026年最新】静岡茶・宇治茶・狭山茶（朝宮茶）",
+    "description": "芳醇な香りと深緑の美景に癒やされるお茶ツーリズム！静岡「牧之原台地」日本一の大茶園と茶香炉アロマ・駿河湾美肌温泉、京都「宇治」千年の茶文化が息づく抹茶スイーツめぐりと宇治川料理旅館、滋賀「甲賀信楽・朝宮茶」日本最古千二百年の歴史を誇る幻の銘茶と信楽焼陶芸温泉宿。日本三大銘茶の郷を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-great-green-tea-regions-healing-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "日本三大銘茶の産地＆大茶園パノラマ・茶香炉ヒーリング宿×ふるさと納税完全ガイド【2026年最新】静岡茶・宇治茶・狭山茶（朝宮茶）", "item": "https://croud-travel.pages.dev/furusato-tax-three-great-green-tea-regions-healing-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* Hero Header */}
       <header className="relative bg-gradient-to-br from-slate-900 via-indigo-950 to-blue-900 text-white py-16 px-4 sm:px-6 lg:px-8 shadow-xl">
         <div className="max-w-5xl mx-auto">
@@ -794,6 +819,8 @@ export default function Page() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="furusato-tax-three-great-green-tea-regions-healing-stay" />
+</div>
   );
 }

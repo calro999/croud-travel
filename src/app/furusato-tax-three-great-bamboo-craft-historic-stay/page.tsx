@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -27,6 +28,20 @@ export default function FurusatoRound64ArticlePage() {
       { '@type': 'ListItem', position: 2, name: '旅行節約ハブ', item: baseUrl + '/travel-savings-guide' },
       { '@type': 'ListItem', position: 3, name: '日本三大竹細工・伝統工芸と数寄屋風雅ステイ特集', item: baseUrl + '/furusato-tax-three-great-bamboo-craft-historic-stay' },
     ],
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三大竹細工＆しなやかな曲線美・竹林景観と風雅な数寄屋名宿×ふるさと納税完全ガイド【2026年最新】別府・駿河・京都",
+    "description": "竹の節としなやかさを極限まで活かした日本伝統の手仕事「日本三大竹細工」（大分・別府竹細工、静岡・駿河竹千筋細工、京都・京都竹工芸）。繊細な編み目と陰影が生み出す用の美、風にそよぐ青竹の庭園、風雅な数寄屋建築の老舗旅館。楽天ふるさと納税トラベルクーポンで実質2,000円負担で泊まる大人の工芸温泉ステイ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-great-bamboo-craft-historic-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -538,7 +553,9 @@ export default function FurusatoRound64ArticlePage() {
                 鳥取県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-three-great-bamboo-craft-historic-stay" />
+</div>
         </section>
 
       </main>

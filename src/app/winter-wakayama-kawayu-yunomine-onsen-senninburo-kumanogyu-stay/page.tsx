@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -351,6 +352,7 @@ export default function WakayamaKawayuYunomineWinterPage() {
             }
   ];
 
+
   return (
     <article className="min-h-screen bg-stone-50 text-stone-900 leading-relaxed font-sans">
       <script
@@ -679,7 +681,9 @@ export default function WakayamaKawayuYunomineWinterPage() {
               <span className="text-emerald-700 font-bold block text-[10px]">宮城・遠刈田温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">初冠雪の蔵王連峰を望む開湯400年の名湯・仙台牛＆蔵王鴨せり鍋名宿</p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-wakayama-kawayu-yunomine-onsen-senninburo-kumanogyu-stay" />
+</div>
         </section>
 
       </main>

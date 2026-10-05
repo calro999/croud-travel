@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -56,8 +57,32 @@ export default function WomenSoloRetreatHubPage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【ブランドスパ＆エステ付きご褒美ホテル】ロクシタン・THANN＆天然温泉 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "全身を解きほぐす至福のトリートメント！高級コスメブランド直営スパ＆エステ付き温泉宿完全特化！ロクシタン、THANN、クレ・ド・ポー ボーテ、アロマオイルマッサージ付き宿泊プラン、温泉デトックス宿を徹底解説。",
+    "url": "https://croud-travel.pages.dev/cosme-spa-facial-treatment-esthetic-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【ブランドスパ＆エステ付きご褒美ホテル】ロクシタン・THANN＆天然温泉 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/cosme-spa-facial-treatment-esthetic-stay/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-rose-950 via-pink-950 to-stone-900 text-white p-8 md:p-14 shadow-xl border border-rose-400/20">
         <div className="max-w-3xl space-y-4">
@@ -203,6 +228,8 @@ export default function WomenSoloRetreatHubPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="cosme-spa-facial-treatment-esthetic-stay" />
+</div>
   );
 }

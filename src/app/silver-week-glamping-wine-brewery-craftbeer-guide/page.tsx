@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -131,6 +132,28 @@ export default function SilverWeekGlampingWineBreweryCraftbeerPage() {
         text: faq.answer,
       },
     })),
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【ワイナリー・クラフトビール付きグランピング】勝沼・長野で楽しむ！美酒とペアリングBBQの秋旅 ｜ 日本全国・旅宿クラウド",
+    "description": "お酒好きのための美食グランピング！山梨勝沼のワイナリー巡り隣接宿、クラフトビールサーバー飲み放題付きドームテント、ソムリエ厳選ワインとジビエ・甲州牛のマリアージュを堪能する大人の休日。",
+    "url": "https://croud-travel.pages.dev/silver-week-glamping-wine-brewery-craftbeer-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【ワイナリー・クラフトビール付きグランピング】勝沼・長野で楽しむ！美酒とペアリングBBQの秋旅 ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/silver-week-glamping-wine-brewery-craftbeer-guide/" }
+    ]
   };
 
   return (
@@ -388,6 +411,8 @@ export default function SilverWeekGlampingWineBreweryCraftbeerPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="silver-week-glamping-wine-brewery-craftbeer-guide" />
+</div>
   );
 }

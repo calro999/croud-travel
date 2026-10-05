@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -67,6 +68,28 @@ const HOTEL_DATA = {
 };
 
 export default function FeatureArticlePage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "霊峰大山・鍵掛峠の錦秋大パノラマ＆皆生温泉オーシャンビュー露天！松葉ガニ・境港宿×ふるさと納税完全ガイド【2026年最新秋旅】鳥取",
+    "description": "10月下旬〜11月中旬に西日本最大級のブナ原生林が黄金色に輝く「鳥取・霊峰大山 鍵掛峠」。大山環状道路の爽快ドライブと、日本海を望む海辺の名湯「皆生温泉 旅館三井」「皆生シーサイドホテル 海の四季」「皆生つるや」で塩分豊富な美肌の塩化物泉露天風呂と11月解禁の境港直送・極上松葉ガニ・鳥取和牛オレイン55を堪能。ふるさと納税で実質2,000円。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-daisen-kagikake-kaike-autumn-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "霊峰大山・鍵掛峠の錦秋大パノラマ＆皆生温泉オーシャンビュー露天！松葉ガニ・境港宿×ふるさと納税完全ガイド【2026年最新秋旅】鳥取", "item": "https://croud-travel.pages.dev/furusato-tax-daisen-kagikake-kaike-autumn-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -520,7 +543,9 @@ export default function FeatureArticlePage() {
                 群馬県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-daisen-kagikake-kaike-autumn-stay" />
+</div>
         </section>
 
       </main>

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -61,6 +62,28 @@ export default function SilverWeekGlampingKyushuFukuokaKumamotoPage() {
       a: "九州産黒毛和牛（あか牛・宮崎牛・鹿児島黒牛）や黒豚、地鶏（博多地鶏・みつせ鶏）の炭火焼きはもちろん、秋に旬を迎える大分のかぼすをたっぷり絞ったタレで味わうのが九州流です。直売所で入手できる地元の採れたて椎茸やサツマイモ（安納芋・紅はるか）をアルミホイルで包んで焚き火に投入する焼き芋も絶品です。",
     },
   ];
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【九州シルバーウィーク グランピング】阿蘇カルデラ・糸島ビーチ・由布院温泉の極上ステイ ｜ 日本全国・旅宿クラウド",
+    "description": "九州の豊かな大自然と名湯を味わう秋連休！阿蘇の大草原パノラマ、糸島のおしゃれなシーサイドドーム、由布院・別府エリアの天然温泉付きグランピング施設を徹底比較。",
+    "url": "https://croud-travel.pages.dev/silver-week-glamping-kyushu-fukuoka-kumamoto-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【九州シルバーウィーク グランピング】阿蘇カルデラ・糸島ビーチ・由布院温泉の極上ステイ ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/silver-week-glamping-kyushu-fukuoka-kumamoto-guide/" }
+    ]
+  };
 
   return (
     <div className="min-h-screen bg-emerald-50/30 text-slate-800 antialiased selection:bg-emerald-600 selection:text-white font-sans">
@@ -479,6 +502,8 @@ export default function SilverWeekGlampingKyushuFukuokaKumamotoPage() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="silver-week-glamping-kyushu-fukuoka-kumamoto-guide" />
+</div>
   );
 }

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -27,6 +28,20 @@ export default function FurusatoSoloTravelRetreatStayPage() {
       { '@type': 'ListItem', position: 2, name: '旅行節約ハブ', item: baseUrl + '/travel-savings-guide' },
       { '@type': 'ListItem', position: 3, name: 'おひとり様ご褒美温泉リトリート名宿特集', item: baseUrl + '/furusato-tax-solo-travel-retreat-private-onsen-stay' },
     ],
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "一人旅歓迎！誰にも気兼ねせず自分を癒やす極上おこもり温泉宿×ふるさと納税完全ガイド【2026年最新】箱根湯本・草津・由布院",
+    "description": "日常の慌ただしさを離れて心と身体をリセット。一人旅歓迎の客室露天風呂付きプランや静寂の読書ラウンジを備えた大人のご褒美宿を厳選。都心からロマンスカーで直行できる箱根湯本「ホテル南風荘」、湯畑散策と天下の名湯を一人占めする草津温泉「薬師の湯 湯元館」、由布岳の麓で神秘の青湯に抱かれる「由布院温泉 束ノ間」。一人旅プラン充実の名宿に、楽天ふるさと納税トラベルクーポンで実質2,000円負担で宿泊する完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-solo-travel-retreat-private-onsen-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -556,7 +571,9 @@ export default function FurusatoSoloTravelRetreatStayPage() {
                 宮城県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-solo-travel-retreat-private-onsen-stay" />
+</div>
         </section>
 
       </main>

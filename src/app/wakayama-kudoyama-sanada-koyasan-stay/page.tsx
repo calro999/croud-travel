@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -56,8 +57,32 @@ export default function MicroTouristHubPage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【和歌山・高野山山麓＆九度山】真田幸村蟄居の地・善名称院＆世界遺産慈尊院・富有柿宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "戦国最後の英雄・真田幸村が14年間過ごした隠れ里・和歌山九度山エリア完全特化！真田屋敷跡「善名称院（真田庵）」、九度山・真田ミュージアム、世界遺産「慈尊院・丹生官省符神社」、高野参詣道町石道、名産「九度山の富有柿宿」を徹底解説。",
+    "url": "https://croud-travel.pages.dev/wakayama-kudoyama-sanada-koyasan-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【和歌山・高野山山麓＆九度山】真田幸村蟄居の地・善名称院＆世界遺産慈尊院・富有柿宿 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/wakayama-kudoyama-sanada-koyasan-stay/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-stone-900 via-rose-950 to-amber-950 text-white p-8 md:p-14 shadow-xl border border-white/10">
         <div className="max-w-3xl space-y-4">
@@ -203,6 +228,8 @@ export default function MicroTouristHubPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="wakayama-kudoyama-sanada-koyasan-stay" />
+</div>
   );
 }

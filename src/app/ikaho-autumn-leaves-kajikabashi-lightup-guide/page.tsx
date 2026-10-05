@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -105,8 +106,32 @@ export default function IkahoAutumnLeavesGuidePage() {
     },
   ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【伊香保温泉 河鹿橋紅葉ライトアップ2026】見頃時期・石段街散策＆黄金の湯に浸かる秋の湯治旅 ｜ 日本全国・旅宿クラウド",
+    "description": "伊香保温泉のシンボル「河鹿橋」の鮮やかな紅葉ライトアップ！朱塗りの太鼓橋とモミジのコントラスト、365段の石段街食べ歩き、名物水沢うどんランチ、茶褐色の名湯「黄金の湯」に癒やされる秋旅ガイド。",
+    "url": "https://croud-travel.pages.dev/ikaho-autumn-leaves-kajikabashi-lightup-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【伊香保温泉 河鹿橋紅葉ライトアップ2026】見頃時期・石段街散策＆黄金の湯に浸かる秋の湯治旅 ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/ikaho-autumn-leaves-kajikabashi-lightup-guide/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-orange-50/40 text-stone-800 antialiased selection:bg-orange-600 selection:text-white">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <header className="relative overflow-hidden bg-gradient-to-br from-orange-950 via-stone-900 to-amber-950 text-orange-50 pt-16 pb-24 px-4 sm:px-6 lg:px-8 border-b-4 border-orange-600">
         <div className="absolute inset-0 opacity-15 pointer-events-none bg-[radial-gradient(#ea580c_1px,transparent_1px)] [background-size:16px_16px]" />
@@ -553,6 +578,8 @@ export default function IkahoAutumnLeavesGuidePage() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="ikaho-autumn-leaves-kajikabashi-lightup-guide" />
+</div>
   );
 }

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import Link from 'next/link';
 import type { Metadata } from 'next';
 import { 
@@ -255,6 +256,7 @@ export default function KyotoTangoWinterPage() {
       a: "京都駅からはJR山陰本線特急「はしだて」で天橋立駅まで直通約2時間5分。大阪駅からは福知山線特急「こうのとり」で福知山乗り換え、または高速バスでアクセス可能です。車の場合は京都縦貫自動車道で宮津天橋立ICまで直結しており、京阪神から約2時間〜2時間半です。ただし12月中旬以降は峠道や丹後半島沿岸で積雪や路面凍結が発生するため、車での旅行には必ずスタッドレスタイヤを装着してください。積雪時は天橋立駅周辺の宿を拠点に公共交通機関や定期観光バスを利用するのも賢い選択です。"
     }
   ];
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800 antialiased">
@@ -704,7 +706,9 @@ export default function KyotoTangoWinterPage() {
             >
               トップページへ戻る
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-kyoto-tango-amanohashidate-ine-funaya-taizagani-kanburi-stay" />
+</div>
         </section>
 
       </main>

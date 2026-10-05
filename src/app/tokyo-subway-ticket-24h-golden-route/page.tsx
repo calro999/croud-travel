@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -127,8 +128,32 @@ export default function TokyoSubwayTicket24hPage() {
     },
   ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【東京メトロ24時間券 活用完全ガイド】600円で都内観光乗り倒し！元を取るコスパ最強ルート＆駅チカ宿 ｜ 日本全国・旅宿クラウド",
+    "description": "始発から終電ではなく「使い始めから24時間有効」の東京メトロ24時間券（600円）！初乗り180円×4回で元が取れる。浅草・銀座・渋谷・六本木・新宿を効率よく巡る東京観光モデルコースと大浴場付きホテル。",
+    "url": "https://croud-travel.pages.dev/tokyo-subway-ticket-24h-golden-route/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【東京メトロ24時間券 活用完全ガイド】600円で都内観光乗り倒し！元を取るコスパ最強ルート＆駅チカ宿 ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/tokyo-subway-ticket-24h-golden-route/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-cyan-950/5 text-slate-800 antialiased selection:bg-cyan-600 selection:text-white font-sans">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション（Cyanテーマ：東京の洗練された先進都市網、メトロブルーのスピード感） */}
       <header className="relative bg-gradient-to-br from-cyan-950 via-slate-900 to-sky-950 text-white overflow-hidden pt-16 pb-20 px-4 sm:px-6 lg:px-8 border-b border-cyan-800/40">
         <div className="absolute inset-0 bg-[radial-gradient(circle_at_top_right,rgba(6,182,212,0.25),transparent_60%)] pointer-events-none" />
@@ -604,6 +629,8 @@ export default function TokyoSubwayTicket24hPage() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="tokyo-subway-ticket-24h-golden-route" />
+</div>
   );
 }

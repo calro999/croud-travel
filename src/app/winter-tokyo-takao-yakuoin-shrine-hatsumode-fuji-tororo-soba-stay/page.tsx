@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import Link from 'next/link';
 import type { Metadata } from 'next';
 import { 
@@ -255,6 +256,7 @@ export default function TokyoTakaoWinterPage() {
       a: "京王線高尾山口駅の改札直結という抜群の立地にある日帰り天然温泉「京王高尾山温泉 極楽湯」。地下約1000mから湧出するアルカリ性単純温泉は、柔らかな肌触りで疲労回復や筋肉痛の緩和に優れています。檜風呂のマイクロバブル湯や開放感あふれる露天岩風呂、露天炭酸泉が完備されており、冬山歩きの汗と冷えを一気に流すことができます。館内には食事処や休憩処も併設されており、電車に乗る直前まで心ゆくまで温まることができます。"
     }
   ];
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800 antialiased">
@@ -640,7 +642,9 @@ export default function TokyoTakaoWinterPage() {
             <span>•</span>
             <Link href="/posts" className="hover:text-sky-600 underline">記事一覧カタログ</Link>
           </div>
-        </div>
+        
+      <HubRelatedPosts currentSlug="winter-tokyo-takao-yakuoin-shrine-hatsumode-fuji-tororo-soba-stay" />
+</div>
       </section>
 
       {/* Footer */}

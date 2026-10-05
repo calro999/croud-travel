@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FeatureArticlePage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "八幡平アスピーテラインの紅葉回廊ドライブ＆乳白色の秘湯・松川温泉！露天風呂宿×ふるさと納税完全ガイド【2026年最新秋旅】岩手",
+    "description": "9月下旬〜10月中旬に見頃を迎える東北屈指の山岳紅葉「八幡平アスピーテライン」。標高1,613mの頂上へ続く黄色と赤のパノラマ紅葉ロード、地熱発電の里に湧く青白濁の秘湯「松川温泉 峡雲荘」「松川荘」「八幡平マウンテンホテル」で前沢牛・短角牛や八幡平ポーク・八幡平サーモンを堪能。ふるさと納税で実質2,000円。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-hachimantai-aspiteline-autumn-leaves-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "八幡平アスピーテラインの紅葉回廊ドライブ＆乳白色の秘湯・松川温泉！露天風呂宿×ふるさと納税完全ガイド【2026年最新秋旅】岩手", "item": "https://croud-travel.pages.dev/furusato-tax-hachimantai-aspiteline-autumn-leaves-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -508,7 +531,9 @@ export default function FeatureArticlePage() {
                 栃木県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-hachimantai-aspiteline-autumn-leaves-stay" />
+</div>
         </section>
 
       </main>

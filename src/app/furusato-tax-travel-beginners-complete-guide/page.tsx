@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -76,11 +77,25 @@ export default function FurusatoTaxTravelBeginnersGuide() {
     ],
   };
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【超初心者向け】ふるさと納税で旅行・ホテルに安く泊まる完全マニュアル｜仕組み・お金の流れ・失敗しない使い方を徹底解説【2026年最新】",
+    "description": "ふるさと納税を一度も使ったことがない完全初心者でも大丈夫！「なぜ旅行代金が安くなるのか」「実質2,000円ってどういうこと？」「確定申告なしでスマホで終わるワンストップ特例」「予約済みの宿へのあとから適用方法」まで、失敗ゼロで誰でもできる手順をステップバイステップで完全解説。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-travel-beginners-complete-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
       <div className="max-w-4xl mx-auto">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
-        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
+        
 
         {/* パンくずリスト */}
         <nav className="text-xs md:text-sm text-stone-500 mb-6 flex items-center gap-2 flex-wrap">
@@ -689,7 +704,9 @@ export default function FurusatoTaxTravelBeginnersGuide() {
                 鳥取県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-travel-beginners-complete-guide" />
+</div>
         </section>
 
       </main>

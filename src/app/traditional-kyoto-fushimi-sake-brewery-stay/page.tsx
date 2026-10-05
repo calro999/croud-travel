@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -147,8 +148,32 @@ const hotels: any[] = [
 ];
 
 export default function FeatureDetailPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【2026年】名水と酒蔵の歴史薫る街。京都伏見の酒蔵巡り＆名水仕込み京料理の風情宿5選 | 日本全国・旅宿クラウド",
+    "description": "2026年最新！坂本龍馬ゆかりの伏見十石舟と白壁酒蔵巡り！名水「伏水」仕込みの利き酒セットと旬の京料理を堪能する京都・伏見のおすすめ名宿5選。",
+    "url": "https://croud-travel.pages.dev/traditional-kyoto-fushimi-sake-brewery-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【2026年】名水と酒蔵の歴史薫る街。京都伏見の酒蔵巡り＆名水仕込み京料理の風情宿5選 | 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/traditional-kyoto-fushimi-sake-brewery-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずリスト */}
       <div className="bg-white border-b border-slate-200">
         <div className="max-w-6xl mx-auto px-4 py-3 text-sm text-slate-500 flex items-center space-x-2">
@@ -668,6 +693,8 @@ export default function FeatureDetailPage() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="traditional-kyoto-fushimi-sake-brewery-stay" />
+</div>
   );
 }

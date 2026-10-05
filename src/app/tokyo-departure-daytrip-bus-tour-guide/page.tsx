@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -127,8 +128,32 @@ export default function TokyoDepartureDaytripBusTourPage() {
     }
   ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【東京・新宿発 日帰りバスツアーおすすめ2026】季節のフルーツ狩り・絶景温泉・食べ放題の最強プラン徹底比較",
+    "description": "東京・新宿発の日帰りバスツアーを徹底解説！シャインマスカット狩り、桔梗信玄餅詰め放題、海鮮浜焼き食べ放題、箱根・伊豆の露天風呂入浴付きまで、人気定番＆穴場ツアーの料金・時間・集合場所まとめ。",
+    "url": "https://croud-travel.pages.dev/tokyo-departure-daytrip-bus-tour-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【東京・新宿発 日帰りバスツアーおすすめ2026】季節のフルーツ狩り・絶景温泉・食べ放題の最強プラン徹底比較", "item": "https://croud-travel.pages.dev/tokyo-departure-daytrip-bus-tour-guide/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800 antialiased">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* 🌲 Hero Header - Emerald Theme */}
       <header className="relative bg-gradient-to-br from-emerald-950 via-teal-900 to-emerald-900 text-white overflow-hidden py-14 md:py-20 px-4 sm:px-6 lg:px-8 border-b border-emerald-800/40">
         <div className="absolute inset-0 bg-[radial-gradient(circle_at_top_right,rgba(16,185,129,0.15),transparent_50%)] pointer-events-none" />
@@ -610,6 +635,8 @@ export default function TokyoDepartureDaytripBusTourPage() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="tokyo-departure-daytrip-bus-tour-guide" />
+</div>
   );
 }

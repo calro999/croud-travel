@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -258,6 +259,7 @@ export default function WakayamaKoyasanShukuboWinterPage() {
     "a": "公共交通機関を利用する場合、難波駅から南海高野線の特急「こうや」で極楽橋駅へ行き、そこから高野山ケーブルカーに乗車して約5分で高野山駅に到着します。南海電鉄・ケーブルカーは冬期も基本的に安定して運行しており、最も安全で快適なアクセス方法です。車で訪れる場合、国道370号線や国道480号線の山岳道路は12月〜1月に路面凍結や積雪が発生するため、必ずスタッドレスタイヤを装着し、チェーンを携行してください。"
   }
 ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-indigo-100 selection:text-indigo-900 pb-20">
@@ -699,7 +701,9 @@ export default function WakayamaKoyasanShukuboWinterPage() {
                 神話の里・高千穂の冬の夜神楽と天岩戸神社初詣・高千穂牛名宿
               </span>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-wakayama-koyasan-shukubo-okunoin-snow-shojin-stay" />
+</div>
         </section>
       </main>
     </article>

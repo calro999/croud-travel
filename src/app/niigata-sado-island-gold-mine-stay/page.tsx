@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -56,8 +57,32 @@ export default function MicroTouristHubPage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【新潟・佐渡島＆相川金山】世界遺産佐渡金山・たらい舟＆尖閣湾・佐渡寒ブリ宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "世界遺産登録の黄金の島・新潟佐渡島エリア完全特化！世界遺産「佐渡島の金山（道遊の割戸・北沢浮遊選鉱場）」、小木海岸の「たらい舟体験」、国の名勝「尖閣湾」、朱鷺の保護センター、名物「佐渡寒ブリ・佐渡牛宿」を徹底解説。",
+    "url": "https://croud-travel.pages.dev/niigata-sado-island-gold-mine-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【新潟・佐渡島＆相川金山】世界遺産佐渡金山・たらい舟＆尖閣湾・佐渡寒ブリ宿 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/niigata-sado-island-gold-mine-stay/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-stone-900 via-rose-950 to-amber-950 text-white p-8 md:p-14 shadow-xl border border-white/10">
         <div className="max-w-3xl space-y-4">
@@ -203,6 +228,8 @@ export default function MicroTouristHubPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="niigata-sado-island-gold-mine-stay" />
+</div>
   );
 }

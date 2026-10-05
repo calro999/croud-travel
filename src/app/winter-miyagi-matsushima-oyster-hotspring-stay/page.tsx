@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -109,6 +110,7 @@ export default function FeaturePage() {
               features: ["三国サンセットビーチ目の前◆三国温泉×地元の海の幸×自家製野菜や手作り味噌を使った料理が自慢", "坂井市三国町宿3-7-25", "楽天アワード受賞歴"]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-stone-50 via-white to-stone-50 text-stone-800">
@@ -663,7 +665,9 @@ export default function FeaturePage() {
                 宮崎県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-miyagi-matsushima-oyster-hotspring-stay" />
+</div>
         </section>
 
       </main>

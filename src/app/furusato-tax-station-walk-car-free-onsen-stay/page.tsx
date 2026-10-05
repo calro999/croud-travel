@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -27,6 +28,20 @@ export default function FurusatoStationWalkCarFreeStayPage() {
       { '@type': 'ListItem', position: 2, name: '旅行節約ハブ', item: baseUrl + '/travel-savings-guide' },
       { '@type': 'ListItem', position: 3, name: '新幹線駅から徒歩すぐ・車なし温泉宿特集', item: baseUrl + '/furusato-tax-station-walk-car-free-onsen-stay' },
     ],
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "新幹線駅から徒歩すぐ！車なし・運転不要で行ける極上駅近温泉宿×ふるさと納税完全ガイド【2026年最新】熱海・越後湯沢・嬉野",
+    "description": "免許がなくても雪道運転が不安でも大丈夫！東京や博多から新幹線・特急に乗るだけで直行できる、駅から徒歩圏内の名門温泉旅館を厳選。新幹線熱海駅から徒歩圏内の老舗湯宿「熱海温泉 旅館 立花」、上越新幹線越後湯沢駅徒歩数分の純和風宿「音羽屋旅館」、西九州新幹線嬉野温泉駅・バスセンター至近の美肌宿「割烹旅館 鯉登苑」。お酒を楽しみながら手ぶらでスマートに行ける温泉旅を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-station-walk-car-free-onsen-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -556,7 +571,9 @@ export default function FurusatoStationWalkCarFreeStayPage() {
                 青森県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-station-walk-car-free-onsen-stay" />
+</div>
         </section>
 
       </main>

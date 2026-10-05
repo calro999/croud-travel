@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -220,6 +221,7 @@ export default function WinterSagaKaratsuPage() {
       }
     ]
   };
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-blue-50/40 via-slate-50 to-blue-50/30 text-slate-800 antialiased">
@@ -647,7 +649,9 @@ export default function WinterSagaKaratsuPage() {
                 冬の掘割巡りと城下町名宿・博多和牛会席を堪能。
               </p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-saga-karatsu-onsen-yobuko-ika-sagagyu-genkai-stay" />
+</div>
         </section>
 
       </main>

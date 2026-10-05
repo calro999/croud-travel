@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -241,6 +242,7 @@ export default function DogoWinterPage() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-orange-800 selection:text-white">
@@ -702,7 +704,9 @@ export default function DogoWinterPage() {
                 【三朝温泉】世界屈指の高濃度ラジウム泉とブランド松葉ガニづくし会席
               </h3>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-ehime-dogo-onsen-taimeshi-heritage-stay" />
+</div>
         </section>
 
       </main>

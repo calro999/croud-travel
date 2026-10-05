@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -205,6 +206,28 @@ export default function ShizuokaCityWinterPage() {
           "addressCountry": "JP"
         }
       }
+    ]
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【11・12・1月静岡清水】冬の久能山東照宮新春初詣＆日本平富士山パノラマ絶景！清水港冬マグロ・由比桜えびと名宿5選",
+    "description": "冬の静岡・清水エリアは、大気澄み渡る冬晴れの空に純白の雪を抱いた富士山が駿河湾の青に映え、国宝・久能山東照宮が新春開運の初詣祈願で賑わう絶景と歴史の宝庫。日本平夢テラスからの360度大パノラマ、清水港の日本一の冷凍マグロ水揚げが誇る極上本マグロや由比の冬桜えび、出汁の染みた名物静岡おでんに舌鼓を打ち、天然温泉や富士展望宿で寛ぐ大人の冬旅。楽天APIから最新取得した静岡・日本平・清水の信頼の名宿5選を徹底特集します。",
+    "url": "https://croud-travel.pages.dev/winter-shizuoka-city-nihondaira-kunozan-toshogu-maguro-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【11・12・1月静岡清水】冬の久能山東照宮新春初詣＆日本平富士山パノラマ絶景！清水港冬マグロ・由比桜えびと名宿5選", "item": "https://croud-travel.pages.dev/winter-shizuoka-city-nihondaira-kunozan-toshogu-maguro-stay/" }
     ]
   };
 
@@ -598,7 +621,9 @@ export default function ShizuokaCityWinterPage() {
               <span className="font-bold text-slate-900 mb-1">【全国】冬の厳選温泉＆旬グルメ特集一覧へ</span>
               <span className="text-xs text-slate-500">11月・12月・1月に訪れたい日本各地の名宿・絶景旅ガイド</span>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-shizuoka-city-nihondaira-kunozan-toshogu-maguro-stay" />
+</div>
         </section>
       </main>
     </article>

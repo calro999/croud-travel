@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import type { Metadata } from 'next';
@@ -254,6 +255,7 @@ export default function EhimeUwajimaYawatahamaWinterPage() {
       a: "【1日目】JR特急宇和海または松山自動車道で八幡浜へ到着 → 道の駅「八幡浜みなっと」で新鮮な海産物市場を見学＆八幡浜ちゃんぽんのランチ → 海岸沿いの絶景ドライブルートを通り宇和島へ移動（車約40分） → 伊達家の名園「天赦園」で冬の竹林散策 → 宇和島市内のホテルにチェックイン → 夕食は名店で「本場宇和島鯛めし」「太刀魚の巻焼き」「宇和海寒ブリ刺身」と地酒を満喫。【2日目】ホテルで温かい郷土朝食 → 朝の澄んだ空気の中「宇和島城」へ登城し現存天守と宇和海の冬景色を一望 → 「きさいや広場」で特産みかんやじゃこ天のお土産を購入 → 帰路へ。"
     }
   ];
+
 
   return (
     <>
@@ -599,7 +601,9 @@ export default function EhimeUwajimaYawatahamaWinterPage() {
             </div>
           </section>
         </main>
-      </div>
+      
+      <HubRelatedPosts currentSlug="winter-ehime-uwajima-yawatahama-taimeshi-kanburi-castle-stay" />
+</div>
     </>
   );
 }

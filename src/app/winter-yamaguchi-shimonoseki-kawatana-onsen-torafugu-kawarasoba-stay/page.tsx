@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -221,6 +222,7 @@ export default function YamaguchiShimonosekiWinterFeature() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800 pb-20">
@@ -593,7 +595,9 @@ export default function YamaguchiShimonosekiWinterFeature() {
               <span className="text-xs text-amber-300 font-semibold block mb-1">徳島・鳴門温泉</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">鳴門海峡の冬渦潮と激流天然鳴門鯛・大塚国際美術館アート旅の宿</h3>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-yamaguchi-shimonoseki-kawatana-onsen-torafugu-kawarasoba-stay" />
+</div>
         </section>
 
       </main>

@@ -1,4 +1,4 @@
-# つえたて温泉ひぜんやのリアル宿泊記！温泉・客室・朝食バイキングの本音口コミ評判｜熊本県
+# つえたて温泉ひぜんやの宿泊ルポ＆見どころガイド｜熊本県
 
 - URL: https://croud-travel.pages.dev/posts/tsuetate-hizenya-guide/
 - 宿泊施設名: つえたて温泉ひぜんや

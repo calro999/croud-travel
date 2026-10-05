@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -117,8 +118,32 @@ export default function HakoneDaytripHotspringLunchPage() {
     }
   ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【箱根 日帰り温泉 ランチ付きおすすめ】個室休憩＆貸切風呂・老舗旅館の贅沢日帰りプラン完全比較 ｜ 日本全国・旅宿クラウド",
+    "description": "箱根の日帰り温泉ランチ付きプランを徹底解説！箱根湯本駅チカ旅館の懐石ランチ、強羅のにごり湯＆個室付きプラン、絶景露天風呂と湯葉料理がセットになった日帰り贅沢ステイの料金・予約方法。",
+    "url": "https://croud-travel.pages.dev/hakone-daytrip-hotspring-lunch-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【箱根 日帰り温泉 ランチ付きおすすめ】個室休憩＆貸切風呂・老舗旅館の贅沢日帰りプラン完全比較 ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/hakone-daytrip-hotspring-lunch-guide/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16 font-sans text-slate-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション（Cyan Palette） */}
       <section className="relative rounded-3xl overflow-hidden bg-gradient-to-br from-cyan-900 via-teal-900 to-slate-900 text-white p-8 md:p-14 shadow-2xl border border-cyan-800/40">
         <div className="absolute top-0 right-0 w-96 h-96 bg-cyan-500/10 rounded-full blur-3xl pointer-events-none" />
@@ -440,6 +465,8 @@ export default function HakoneDaytripHotspringLunchPage() {
           </li>
         </ul>
       </section>
-    </div>
+    
+      <HubRelatedPosts currentSlug="hakone-daytrip-hotspring-lunch-guide" />
+</div>
   );
 }

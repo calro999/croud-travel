@@ -1,4 +1,4 @@
-# 平山温泉 やまと旅館のリアル宿泊記！温泉・客室・朝食バイキングの本音口コミ評判｜熊本県
+# 平山温泉 やまと旅館の宿泊ルポ＆見どころガイド｜熊本県
 
 - URL: https://croud-travel.pages.dev/posts/hirayama-yamatoryokan-guide/
 - 宿泊施設名: 平山温泉 やまと旅館

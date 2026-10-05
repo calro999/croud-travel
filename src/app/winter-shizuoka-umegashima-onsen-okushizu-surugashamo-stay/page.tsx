@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -351,6 +352,7 @@ export default function ShizuokaUmegashimaWinterPage() {
             }
   ];
 
+
   return (
     <article className="min-h-screen bg-stone-50 text-stone-900 leading-relaxed font-sans">
       <script
@@ -679,7 +681,9 @@ export default function ShizuokaUmegashimaWinterPage() {
               <span className="text-emerald-700 font-bold block text-[10px]">和歌山・熊野本宮</span>
               <p className="font-bold text-stone-800 line-clamp-2">冬の風物詩・大塔川仙人風呂オープンと世界遺産つぼ湯・熊野牛会席名宿</p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-shizuoka-umegashima-onsen-okushizu-surugashamo-stay" />
+</div>
         </section>
 
       </main>

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -27,6 +28,20 @@ export default function FurusatoDogFriendlyLuxuryStayPage() {
       { '@type': 'ListItem', position: 2, name: '旅行節約ハブ', item: baseUrl + '/travel-savings-guide' },
       { '@type': 'ListItem', position: 3, name: '愛犬同伴の客室露天温泉＆ドッグラン名宿特集', item: baseUrl + '/furusato-tax-dog-friendly-luxury-onsen-stay' },
     ],
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "愛犬と泊まる極上客室露天風呂＆広大ドッグラン温泉宿×ふるさと納税完全ガイド【2026年最新】伊豆高原・那須高原・琵琶湖",
+    "description": "大切な愛犬（ペット）と一緒に贅沢な温泉旅行を満喫！伊豆高原の全室客室露天風呂付き英国調隠れ家「別邸 石の家」、那須高原の森に包まれた巨大スパ＆ドッグリゾート「ホテルサンバレー那須」、琵琶湖畔のラグジュアリーステイ「琵琶湖マリオットホテル」。天然芝ドッグラン・愛犬用足湯・客室同伴での美食など、愛犬家の理想をすべて叶える名宿に、楽天ふるさと納税トラベルクーポンで実質2,000円負担で宿泊する完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-dog-friendly-luxury-onsen-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -556,7 +571,9 @@ export default function FurusatoDogFriendlyLuxuryStayPage() {
                 北海道の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-dog-friendly-luxury-onsen-stay" />
+</div>
         </section>
 
       </main>

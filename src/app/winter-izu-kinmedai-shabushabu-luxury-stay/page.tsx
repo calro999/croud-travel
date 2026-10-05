@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -109,6 +110,7 @@ export default function FeaturePage() {
               features: ["海にも近い伊豆長岡温泉！鎌倉時代より続く伊豆長岡温泉古奈に佇む全１５室の小さな宿。", "伊豆の国市古奈1186", "楽天アワード受賞歴"]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-stone-50 via-white to-stone-50 text-stone-800">
@@ -664,7 +666,9 @@ export default function FeaturePage() {
                 和歌山県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-izu-kinmedai-shabushabu-luxury-stay" />
+</div>
         </section>
 
       </main>

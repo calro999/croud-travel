@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -132,8 +133,32 @@ export default function EnoshimaKamakuraNoriorikunPage() {
     },
   ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【江ノ電1日乗車券のりおりくん完全攻略】800円で元を取るモデルコース＆海沿い途中下車の旅 ｜ 日本全国・旅宿クラウド",
+    "description": "江ノ電1日乗車券「のりおりくん」（大人800円）を徹底活用！何回乗れば元が取れる？（3回乗車で即元取れ）。鎌倉高校前踏切、七里ヶ浜海カフェ、長谷寺大仏、江ノ島シーキャンドルを巡る最強タイムテーブル。",
+    "url": "https://croud-travel.pages.dev/enoshima-kamakura-noriorikun-golden-route/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【江ノ電1日乗車券のりおりくん完全攻略】800円で元を取るモデルコース＆海沿い途中下車の旅 ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/enoshima-kamakura-noriorikun-golden-route/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-amber-50/40 text-slate-850 antialiased selection:bg-amber-500 selection:text-white font-sans">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション（Amber/Orangeテーマ：湘南の黄金の夕日、江ノ電の温かなレトロ車体） */}
       <header className="relative bg-gradient-to-br from-amber-950 via-stone-900 to-amber-900 text-white overflow-hidden pt-16 pb-20 px-4 sm:px-6 lg:px-8 border-b border-amber-700/40">
         <div className="absolute inset-0 bg-[radial-gradient(circle_at_bottom_right,rgba(245,158,11,0.22),transparent_60%)] pointer-events-none" />
@@ -623,6 +648,8 @@ export default function EnoshimaKamakuraNoriorikunPage() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="enoshima-kamakura-noriorikun-golden-route" />
+</div>
   );
 }

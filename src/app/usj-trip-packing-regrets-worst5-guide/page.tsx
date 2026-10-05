@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -131,6 +132,28 @@ export default function UsjTripPackingRegretsWorst5Page() {
       ]
     }
   ];
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【USJ旅行で後悔したことワースト5】エクスプレスパスなしで大絶望！？ニンテンドー入場整理券＆必須持ち物",
+    "description": "ユニバーサル・スタジオ・ジャパンに行く前に必読のリアル後悔談！マリオエリアに入れなかった失敗、濡れるアトラクションでのカッパ忘れ、ロッカー小銭不足、公式アプリ設定とオフィシャルホテル前泊の重要性。",
+    "url": "https://croud-travel.pages.dev/usj-trip-packing-regrets-worst5-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【USJ旅行で後悔したことワースト5】エクスプレスパスなしで大絶望！？ニンテンドー入場整理券＆必須持ち物", "item": "https://croud-travel.pages.dev/usj-trip-packing-regrets-worst5-guide/" }
+    ]
+  };
 
   return (
     <main className="min-h-screen bg-[#f5f7ff] text-slate-800 antialiased pb-20">
@@ -271,6 +294,8 @@ export default function UsjTripPackingRegretsWorst5Page() {
                     key={hotel.hotelNo}
                     className="flex flex-col justify-between bg-white border-2 border-indigo-100 rounded-3xl overflow-hidden shadow-sm hover:shadow-xl hover:border-indigo-400 transition group"
                   >
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
                     <div>
                       {hotel.hotelImageUrl && (
                         <div className="h-48 overflow-hidden relative">
@@ -485,7 +510,9 @@ export default function UsjTripPackingRegretsWorst5Page() {
                 愛媛県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="usj-trip-packing-regrets-worst5-guide" />
+</div>
         </section>
 
       </main>

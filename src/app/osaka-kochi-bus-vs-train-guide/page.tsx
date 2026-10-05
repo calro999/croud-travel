@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -111,8 +112,32 @@ export default function HighwayBusArticlePage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【大阪・神戸〜高知】高速バス「よさこい号」vs 特急南風徹底比較！片道3,500円〜行くカツオのタタキ＆ひろめ市場1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+    "description": "大阪・神戸から高知へ安く行くには？JR新幹線＋特急南風（岡山乗換）と直行高速バス「よさこい号」の料金・所要時間比較！ひろめ市場で藁焼きカツオの塩タタキ、桂浜、高知城を満喫する1泊2日モデルコース。",
+    "url": "https://croud-travel.pages.dev/osaka-kochi-bus-vs-train-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【大阪・神戸〜高知】高速バス「よさこい号」vs 特急南風徹底比較！片道3,500円〜行くカツオのタタキ＆ひろめ市場1泊2日モデルコース ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/osaka-kochi-bus-vs-train-guide/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-sky-950 via-slate-900 to-indigo-950 text-white p-8 md:p-14 shadow-xl border border-white/10">
         <div className="max-w-3xl space-y-4">
@@ -422,6 +447,8 @@ export default function HighwayBusArticlePage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="osaka-kochi-bus-vs-train-guide" />
+</div>
   );
 }

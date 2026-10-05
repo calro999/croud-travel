@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoFuranoBieiLuxuryStayPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "紫に染まるラベンダー畑と神秘の青い池！富良野・美瑛の十勝岳連峰一望リゾート＆源泉かけ流し名湯×ふるさと納税完全攻略ガイド【2026年最新】新富良野プリンス・オリカ・白金温泉ゆゆ",
+    "description": "見渡す限りのパッチワークの丘と紫のラベンダー畑！北海道中央部・富良野と美瑛。「新富良野プリンスホテル」「富良野リゾート オリカ」「碧の美 ゆゆ（旧湯元白金温泉ホテル）」を、富良野市・中富良野町・美瑛町の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。ニングルテラス、富良野温泉、美瑛青い池、ふらの和牛を満喫。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-furano-biei-lavender-nature-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "紫に染まるラベンダー畑と神秘の青い池！富良野・美瑛の十勝岳連峰一望リゾート＆源泉かけ流し名湯×ふるさと納税完全攻略ガイド【2026年最新】新富良野プリンス・オリカ・白金温泉ゆゆ", "item": "https://croud-travel.pages.dev/furusato-tax-furano-biei-lavender-nature-stay/" }
+    ]
+  };
+
   return (
     <article className="max-w-5xl mx-auto px-4 py-8 text-gray-800 leading-relaxed font-sans">
       {/* パンくずリスト */}
@@ -346,7 +369,9 @@ export default function FurusatoFuranoBieiLuxuryStayPage() {
           >
             ▸ 【豪華ビュッフェ＆オープンキッチン名宿×ふるさと納税】美食リゾート
           </Link>
-        </div>
+        
+      <HubRelatedPosts currentSlug="furusato-tax-furano-biei-lavender-nature-stay" />
+</div>
       </section>
     </article>
   );

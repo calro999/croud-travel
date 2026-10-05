@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -74,8 +75,32 @@ const hotels = [
 export default function FurusatoUpgradedPage() {
   const officialFurusatoAffUrl = 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F';
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三大銘牛の極上鉄板焼き＆すき焼き名湯宿×ふるさと納税完全ガイド【2026年最新】松阪牛・神戸牛・米沢牛",
+    "description": "世界が絶賛する最高峰の和牛ブランド「日本三大和牛」（松阪牛・神戸ビーフ・米沢牛）。口の中でとろける極上の霜降り肉を、本場の名門料理旅館や名湯宿の客室・鉄板焼きカウンターで堪能。楽天ふるさと納税の宿泊割引クーポンを活用して、至高の美食温泉旅へ。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-great-wagyu-beef-luxury-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "日本三大銘牛の極上鉄板焼き＆すき焼き名湯宿×ふるさと納税完全ガイド【2026年最新】松阪牛・神戸牛・米沢牛", "item": "https://croud-travel.pages.dev/furusato-tax-three-great-wagyu-beef-luxury-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-stone-900 text-stone-100 selection:bg-amber-500 selection:text-stone-950">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローヘッダー */}
       <section className="relative py-24 px-4 sm:px-6 lg:px-8 bg-gradient-to-b from-stone-950 via-stone-900 to-stone-900 border-b border-stone-800">
         <div className="max-w-5xl mx-auto text-center">
@@ -314,6 +339,8 @@ export default function FurusatoUpgradedPage() {
           </Link>
         </div>
       </section>
-    </div>
+    
+      <HubRelatedPosts currentSlug="furusato-tax-three-great-wagyu-beef-luxury-stay" />
+</div>
   );
 }

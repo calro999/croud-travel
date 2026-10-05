@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -67,6 +68,28 @@ const HOTEL_DATA = {
 };
 
 export default function FeatureArticlePage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "宮島・紅葉谷公園の深紅のモミジ＆嚴島神社大鳥居！宮島温泉名旅館×ふるさと納税完全ガイド【2026年最新秋旅】広島",
+    "description": "11月中旬〜下旬に約700本のもみじが燃え盛る日本三景・宮島の「紅葉谷公園」。世界遺産・嚴島神社の海に浮かぶ大鳥居と秋の夕景、島内に佇む「宮島温泉 滝乃荘」「宮島ホテルまこと」「宮島 ホテル菊乃家」で広島名物の焼き牡蠣や穴子飯・広島牛を堪能。ふるさと納税トラベルクーポンで実質2,000円。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-miyajima-momijidani-autumn-leaves-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "宮島・紅葉谷公園の深紅のモミジ＆嚴島神社大鳥居！宮島温泉名旅館×ふるさと納税完全ガイド【2026年最新秋旅】広島", "item": "https://croud-travel.pages.dev/furusato-tax-miyajima-momijidani-autumn-leaves-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -520,7 +543,9 @@ export default function FeatureArticlePage() {
                 神奈川県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-miyajima-momijidani-autumn-leaves-stay" />
+</div>
         </section>
 
       </main>

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -117,6 +118,28 @@ export default function OsakaNambaLateNightGuidePage() {
         "22:30に法善寺横丁でかすうどん → 23:15に道頓堀川沿い散策 → 23:45になんばOCAT（バスターミナル）集合が最もムダのない黄金ルートです。"
     }
   ];
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【大阪なんば・心斎橋 深夜営業グルメ＆居酒屋】夜24時以降も開いているカスうどん・串カツ・横丁酒場",
+    "description": "終電後や夜行便前に楽しめるミナミの深夜グルメ！出汁が染みる本場のかすうどん、裏なんばの深夜営業立ち飲み、24時間営業のたこ焼き・串カツ店、なんば駅徒歩5分の大浴場＆カプセル・ホテル。",
+    "url": "https://croud-travel.pages.dev/osaka-namba-late-night-gourmet-izakaya-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【大阪なんば・心斎橋 深夜営業グルメ＆居酒屋】夜24時以降も開いているカスうどん・串カツ・横丁酒場", "item": "https://croud-travel.pages.dev/osaka-namba-late-night-gourmet-izakaya-guide/" }
+    ]
+  };
 
   return (
     <main className="min-h-screen bg-slate-900 text-slate-100 font-sans pb-20">
@@ -473,7 +496,9 @@ export default function OsakaNambaLateNightGuidePage() {
                 神奈川県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="osaka-namba-late-night-gourmet-izakaya-guide" />
+</div>
         </section>
 
       </main>

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -19,8 +20,32 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoTaxPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "絶景夕日・サンセット特等席の海宿×ふるさと納税完全ガイド【2026年最新】堂ヶ島・由良・白浜の茜色マジックアワー温泉",
+    "description": "日本一の夕陽を誇る西伊豆堂ヶ島、日本海に沈む夕日の由良海岸、円月島の夕景パノラマ白浜温泉！海一望露天風呂や特等席テラスから茜色の空と海に包まれる絶景温泉宿を楽天ふるさと納税宿泊クーポンでお得に予約する極上サンセット旅。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-sunset-ocean-magic-hour-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "絶景夕日・サンセット特等席の海宿×ふるさと納税完全ガイド【2026年最新】堂ヶ島・由良・白浜の茜色マジックアワー温泉", "item": "https://croud-travel.pages.dev/furusato-tax-sunset-ocean-magic-hour-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-950 text-slate-100 selection:bg-amber-500 selection:text-white">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずリスト */}
       <nav className="border-b border-slate-800/80 bg-slate-900/60 backdrop-blur px-4 py-3 text-xs text-slate-400">
         <div className="max-w-6xl mx-auto flex items-center gap-2 overflow-x-auto whitespace-nowrap">
@@ -812,6 +837,8 @@ export default function FurusatoTaxPage() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="furusato-tax-sunset-ocean-magic-hour-stay" />
+</div>
   );
 }

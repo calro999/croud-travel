@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -257,6 +258,7 @@ export default function ChibaKamogawaKominatoWinterPage() {
     "a": "車の場合は、東京湾アクアラインを利用して木更津JCTへ進み、圏央道・君津ICまたは木更津東ICから房総スカイライン・鴨川有料道路を経由して約1時間40分で到着します。途中の君津や大多喜の里山風景を抜けるルートは信号が少なく快適です。公共交通機関の場合は、JR東京駅地下ホームから特急「わかしお」に乗車すれば、乗り換えなし約1時間50分で安房鴨川駅に直行できます。また、東京駅八重洲口や渋谷駅、横浜駅から鴨川シーワールド直通の高速バス「アクシー号」も運行されており、車がなくても非常にスムーズにアクセスできます。"
   }
 ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-blue-100 selection:text-blue-900 pb-20">
@@ -711,7 +713,9 @@ export default function ChibaKamogawaKominatoWinterPage() {
                 冬の特集記事一覧をすべて見る ➔
               </span>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-chiba-kamogawa-seaworld-kominato-kinmedai-stay" />
+</div>
         </section>
 
       </main>

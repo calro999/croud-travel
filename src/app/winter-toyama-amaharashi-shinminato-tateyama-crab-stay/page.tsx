@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -257,6 +258,7 @@ export default function ToyamaAmaharashiShinminatoWinterPage() {
     "a": "雨晴海岸の「道の駅 雨晴」は展望デッキから立山連峰を一望できる絶好のビュースポットです。高岡市内では、加賀前田家ゆかりの国宝「瑞龍寺（ずいりゅうじ）」の静謐な雪景色や、日本三大仏の一つ「高岡大仏」、土蔵造りの町並みが残る「山町筋（やまちょうすじ）」が見どころです。新湊エリアでは、19世紀の帆船が停泊する「海王丸パーク」や、内川沿いに民家と運河が調和し「日本のベニス」と呼ばれる情緒あふれる川べりの散策、映画のロケ地にもなったノスタルジックな湊町のカフェ巡りがおすすめです。"
   }
 ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-cyan-100 selection:text-cyan-900 pb-20">
@@ -645,7 +647,9 @@ export default function ToyamaAmaharashiShinminatoWinterPage() {
               <span className="text-cyan-700 font-bold block text-[10px]">石川・金沢湯涌温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">兼六園の雪吊りと奥金沢の静寂湯・冬限定の香箱ガニ＆加能ガニを味わう名宿</p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-toyama-amaharashi-shinminato-tateyama-crab-stay" />
+</div>
         </section>
 
       </main>

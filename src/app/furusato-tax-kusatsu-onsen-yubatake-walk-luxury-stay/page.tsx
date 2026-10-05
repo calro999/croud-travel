@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoKusatsuYubatakeWalkStayPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "天下の名湯・草津温泉の真髄を味わう！湯畑徒歩圏＆名物源泉掛け流し名門旅館×ふるさと納税完全攻略ガイド【2026年最新】櫻井・一井・奈良屋",
+    "description": "日本三名泉の筆頭・草津温泉！立ちのぼる湯煙と幻想的な夜のライトアップに包まれる湯畑へ徒歩すぐ。「草津温泉 ホテル櫻井」「草津温泉 ホテル一井」「草津温泉 奈良屋」を、群馬県草津町の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。約30mの大浴場、湯守が守る白旗源泉、湯畑一望客室を堪能。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-kusatsu-onsen-yubatake-walk-luxury-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "天下の名湯・草津温泉の真髄を味わう！湯畑徒歩圏＆名物源泉掛け流し名門旅館×ふるさと納税完全攻略ガイド【2026年最新】櫻井・一井・奈良屋", "item": "https://croud-travel.pages.dev/furusato-tax-kusatsu-onsen-yubatake-walk-luxury-stay/" }
+    ]
+  };
+
   return (
     <article className="max-w-5xl mx-auto px-4 py-8 text-gray-800 leading-relaxed font-sans">
       {/* パンくずリスト */}
@@ -346,7 +369,9 @@ export default function FurusatoKusatsuYubatakeWalkStayPage() {
           >
             ▸ 【お酒飲み放題オールインクルーシブ宿×ふるさと納税】贅沢ラウンジステイ
           </Link>
-        </div>
+        
+      <HubRelatedPosts currentSlug="furusato-tax-kusatsu-onsen-yubatake-walk-luxury-stay" />
+</div>
       </section>
     </article>
   );

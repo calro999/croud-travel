@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -27,6 +28,20 @@ export default function FurusatoHighlandRanchFarmStayPage() {
       { '@type': 'ListItem', position: 2, name: '旅行節約ハブ', item: baseUrl + '/travel-savings-guide' },
       { '@type': 'ListItem', position: 3, name: '高原牧場ファーム体験リゾートホテル特集', item: baseUrl + '/furusato-tax-highland-ranch-farm-resort-hotel-stay' },
     ],
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "動物とのふれあい体験＆高原観光牧場リゾート名門ホテル×ふるさと納税完全ガイド【2026年最新】那須高原・トマム・阿蘇",
+    "description": "広大な大自然と動物たちに癒やされる高原バカンス！那須南ヶ丘牧場や千本松牧場に隣接し巨大温泉スパとバイキングを誇る「那須温泉 ホテルサンバレー那須」、北海道の広大なファームエリアで羊や牛と過ごす最高峰リゾート「星野リゾート リゾナーレトマム」、阿蘇の大草原放牧と阿蘇五岳を望む展望露天風呂が自慢の「阿蘇内牧温泉 阿蘇プラザホテル」。新鮮な搾りたてミルクやチーズ、乗馬体験を楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-highland-ranch-farm-resort-hotel-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -556,7 +571,9 @@ export default function FurusatoHighlandRanchFarmStayPage() {
                 富山県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-highland-ranch-farm-resort-hotel-stay" />
+</div>
         </section>
 
       </main>

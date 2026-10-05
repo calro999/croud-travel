@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -16,6 +17,28 @@ export const metadata: Metadata = {
 
 export default function Page() {
   const secData = (seasonalData as any)['barrel-sauna-wood-stove-nature-totonoi-resort-stay'] || {};
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "本格バレルサウナ＆薪ストーブ宿完全ガイド【大自然森林浴と湖畔ダイブ】 | クラウドトラベル",
+    "description": "本格バレルサウナ、薪ストーブの柔らかい熱、セルフロウリュ、湖畔ダイブや清流クールダウンが叶う大自然サウナリゾートを特集。森林外気浴で極上のディープリラックスへ。",
+    "url": "https://croud-travel.pages.dev/barrel-sauna-wood-stove-nature-totonoi-resort-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "本格バレルサウナ＆薪ストーブ宿完全ガイド【大自然森林浴と湖畔ダイブ】 | クラウドトラベル", "item": "https://croud-travel.pages.dev/barrel-sauna-wood-stove-nature-totonoi-resort-stay/" }
+    ]
+  };
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
@@ -486,7 +509,9 @@ export default function Page() {
                 千葉県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="barrel-sauna-wood-stove-nature-totonoi-resort-stay" />
+</div>
         </section>
 
       </main>

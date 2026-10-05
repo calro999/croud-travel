@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -16,8 +17,32 @@ export const metadata: Metadata = {
 };
 
 export default function Page() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【長野・白馬＆八方尾根】八方池パノラマ・栂池自然園＆山岳サウナシャレー宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "白馬連峰（白馬岳・杓子岳・白馬鑓ヶ岳）を水面に映す奇跡の雲上池「八方尾根・八方池」、日本有数の高山植物の宝庫「栂池自然園」木道トレッキング、絶景山岳テラスHAKUBA MOUNTAIN HARBOR、薪サウナと信州牛を味わうマウンテンリゾート宿を徹底解説。",
+    "url": "https://croud-travel.pages.dev/nagano-hakuba-happo-tsugaike-alps-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【長野・白馬＆八方尾根】八方池パノラマ・栂池自然園＆山岳サウナシャレー宿 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/nagano-hakuba-happo-tsugaike-alps-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-stone-950 text-stone-100">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローヘッダー */}
       <div className="relative py-20 px-4 sm:px-6 lg:px-8 bg-gradient-to-b from-stone-900 via-stone-950 to-stone-950 border-b border-stone-800">
         <div className="max-w-5xl mx-auto text-center">
@@ -889,6 +914,8 @@ export default function Page() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="nagano-hakuba-happo-tsugaike-alps-stay" />
+</div>
   );
 }

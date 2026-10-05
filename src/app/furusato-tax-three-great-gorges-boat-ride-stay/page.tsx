@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -112,8 +113,32 @@ export default function Page() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三大渓谷＆爽快舟下り・清流の奇岩と水辺の温泉名宿×ふるさと納税完全ガイド【2026年最新】保津川・最上川・長瀞",
+    "description": "船頭の竿さばきで水しぶきを上げる日本の名舟下り！京都「嵐山・保津川下り」亀岡から嵐山へ巨岩と急流を抜けるスリルと嵐山温泉渡月亭、山形「最上川舟下り」松尾芭蕉の句で知られる大河の舟唄と高見屋最上川別邸紅、埼玉「長瀞ライン下り」天然記念物岩畳の渓谷美と長生館。四季の渓谷美と水辺の老舗温泉旅館を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-great-gorges-boat-ride-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "日本三大渓谷＆爽快舟下り・清流の奇岩と水辺の温泉名宿×ふるさと納税完全ガイド【2026年最新】保津川・最上川・長瀞", "item": "https://croud-travel.pages.dev/furusato-tax-three-great-gorges-boat-ride-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずリスト */}
       <nav className="bg-white border-b border-slate-200 py-3 px-4 text-xs text-slate-500">
         <div className="max-w-5xl mx-auto flex items-center space-x-2">
@@ -558,6 +583,8 @@ export default function Page() {
           <p>ふるさと納税クーポンの利用条件や最新の空室状況は楽天トラベル公式サイトをご確認ください。</p>
         </div>
       </footer>
-    </div>
+    
+      <HubRelatedPosts currentSlug="furusato-tax-three-great-gorges-boat-ride-stay" />
+</div>
   );
 }

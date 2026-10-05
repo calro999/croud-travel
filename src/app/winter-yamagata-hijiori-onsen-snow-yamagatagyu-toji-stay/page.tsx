@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -221,6 +222,7 @@ export default function YamagataHijioriOnsenWinterPage() {
     "a": "肘折温泉の名物である道路上に地元のおばあちゃんたちが採れたて野菜や保存食を並べる屋外の「路上朝市」は、例年4月下旬から11月中旬頃まで開催されます。11月下旬以降の積雪期は路上朝市はお休みとなりますが、各旅館の売店や温泉街の商店（旧郵便局や地元商店）、いでゆ館などで地元特産の漬物（青菜漬けやあつみかぶ）、乾燥山菜、栃餅、地酒などを年中購入することができます。また冬ならではの静かな朝の湯巡り散策は格別の風情があります。"
   }
 ];
+
 
   return (
     <article className="min-h-screen bg-stone-50/50 pb-20 text-stone-800">
@@ -587,7 +589,9 @@ export default function YamagataHijioriOnsenWinterPage() {
               <span className="text-amber-700 font-bold block text-[10px]">秋田・小安峡＆秋の宮</span>
               <p className="font-bold text-stone-800 line-clamp-2">白い湯煙の大噴湯と渓谷初雪・秋田最古の湯・極上皆瀬牛ステーキ名宿</p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-yamagata-hijiori-onsen-snow-yamagatagyu-toji-stay" />
+</div>
         </section>
 
       </main>

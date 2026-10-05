@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -124,8 +125,32 @@ export default function HakoneCoupleAnniversaryGuidePage() {
     }
   ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【箱根カップル温泉旅行 1泊2日モデルコース】客室露天風呂・フレンチ懐石ディナー＆記念日サプライズ宿",
+    "description": "カップルで過ごす特別な箱根1泊2日旅行！客室専用露天風呂付きのおこもり宿、サプライズケーキや花束手配可能な記念日プラン、大涌谷や彫刻の森美術館をゆったり巡る大人の贅沢デートコース。",
+    "url": "https://croud-travel.pages.dev/hakone-couple-1night2days-anniversary-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【箱根カップル温泉旅行 1泊2日モデルコース】客室露天風呂・フレンチ懐石ディナー＆記念日サプライズ宿", "item": "https://croud-travel.pages.dev/hakone-couple-1night2days-anniversary-guide/" }
+    ]
+  };
+
   return (
     <div className="bg-rose-50/40 text-stone-800 min-h-screen font-sans antialiased">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローヘッダー */}
       <header className="relative bg-gradient-to-b from-rose-950 via-rose-900 to-stone-900 text-white overflow-hidden">
         <div className="absolute inset-0 opacity-15 bg-[radial-gradient(#f43f5e_1px,transparent_1px)] [background-size:18px_18px]" />
@@ -565,6 +590,8 @@ export default function HakoneCoupleAnniversaryGuidePage() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="hakone-couple-1night2days-anniversary-guide" />
+</div>
   );
 }

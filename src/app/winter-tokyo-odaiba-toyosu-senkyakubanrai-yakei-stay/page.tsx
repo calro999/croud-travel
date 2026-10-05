@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import type { Metadata } from 'next';
@@ -205,6 +206,28 @@ export default function TokyoOdaibaToyosuWinterPage() {
           "addressCountry": "JP"
         }
       }
+    ]
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【11・12・1月東京】お台場レインボー花火＆豊洲千客万来！冬の東京ベイ夜景と江戸前海鮮・天然温泉に寛ぐ名宿5選",
+    "description": "冬の東京ベイエリアは、澄み切った澄明な冬空にレインボーブリッジと東京タワーが重なり合う年間最美の夜景シーズン。12月毎週土曜日に開催される「お台場レインボー花火」、2024年に誕生した「豊洲千客万来」の江戸前活気と市場直送グルメ・展望足湯庭園、有明の天然温泉「泉天空の湯」まで、冬の東京の華やぎと温もりが凝縮。楽天APIから最新取得したお台場・有明・豊洲の極上ホテル5選を徹底特集します。",
+    "url": "https://croud-travel.pages.dev/winter-tokyo-odaiba-toyosu-senkyakubanrai-yakei-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【11・12・1月東京】お台場レインボー花火＆豊洲千客万来！冬の東京ベイ夜景と江戸前海鮮・天然温泉に寛ぐ名宿5選", "item": "https://croud-travel.pages.dev/winter-tokyo-odaiba-toyosu-senkyakubanrai-yakei-stay/" }
     ]
   };
 
@@ -615,7 +638,9 @@ export default function TokyoOdaibaToyosuWinterPage() {
               <span className="font-bold text-xs sm:text-sm text-sky-900 line-clamp-2">全国の冬旅・新春初詣＆温泉特選特集一覧</span>
               <span className="text-[11px] text-sky-700 font-medium mt-2 flex items-center gap-1">全特集一覧へ戻る →</span>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-tokyo-odaiba-toyosu-senkyakubanrai-yakei-stay" />
+</div>
         </section>
       </main>
 

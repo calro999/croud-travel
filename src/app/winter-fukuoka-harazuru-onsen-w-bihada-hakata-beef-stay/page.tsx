@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -221,6 +222,7 @@ export default function FukuokaHarazuruWinterFeature() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800 pb-20">
@@ -634,7 +636,9 @@ export default function FukuokaHarazuruWinterFeature() {
               <span className="text-xs text-violet-300 font-semibold block mb-1">鹿児島・霧島温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-violet-200 transition">白濁硫黄泉の湯けむりと黒豚しゃぶしゃぶ・龍馬ゆかりの名宿</h3>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-fukuoka-harazuru-onsen-w-bihada-hakata-beef-stay" />
+</div>
         </section>
 
       </main>

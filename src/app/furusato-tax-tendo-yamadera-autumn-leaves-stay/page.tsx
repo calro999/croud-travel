@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FeatureArticlePage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "松尾芭蕉ゆかりの山寺・立石寺の絶景紅葉＆天童温泉！山形牛と名湯旅館×ふるさと納税完全ガイド【2026年最新秋旅】山形",
+    "description": "10月下旬〜11月上旬に見頃を迎える名刹「山寺・宝珠山立石寺（りっしゃくじ）」。1015段の石段を登った五大堂からの錦秋大パノラマ、将棋駒の街・天童温泉の名門宿「天童ホテル」「松の湯」「あづま荘」で美肌温泉やA5山形牛・名物芋煮を堪能。楽天ふるさと納税で実質2,000円で泊まるみちのく秋旅ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-tendo-yamadera-autumn-leaves-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "松尾芭蕉ゆかりの山寺・立石寺の絶景紅葉＆天童温泉！山形牛と名湯旅館×ふるさと納税完全ガイド【2026年最新秋旅】山形", "item": "https://croud-travel.pages.dev/furusato-tax-tendo-yamadera-autumn-leaves-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -508,7 +531,9 @@ export default function FeatureArticlePage() {
                 岩手県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-tendo-yamadera-autumn-leaves-stay" />
+</div>
         </section>
 
       </main>

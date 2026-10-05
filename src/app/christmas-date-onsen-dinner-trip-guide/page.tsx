@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -94,8 +95,32 @@ export default function ChristmasDateOnsenDinnerTripGuidePage() {
     }
   ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【クリスマスお泊まりデートおすすめ】イルミネーション×温泉×極上ディナーで過ごす冬の記念日旅 ｜ 日本全国・旅宿クラウド",
+    "description": "クリスマスに泊まりたい憧れのデートプラン！軽井沢の星空キャンドルナイト＆暖炉付きリゾート、みなとみらい夜景一望ホテル、雪見露天風呂とローストビーフ懐石を味わう温泉旅館徹底比較。",
+    "url": "https://croud-travel.pages.dev/christmas-date-onsen-dinner-trip-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【クリスマスお泊まりデートおすすめ】イルミネーション×温泉×極上ディナーで過ごす冬の記念日旅 ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/christmas-date-onsen-dinner-trip-guide/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-20 font-sans text-slate-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション（Indigo & Midnight Palette） */}
       <section className="relative rounded-3xl overflow-hidden bg-gradient-to-br from-indigo-950 via-slate-900 to-indigo-900 text-white p-8 md:p-14 shadow-2xl border border-indigo-700/50">
         <div className="absolute top-0 right-0 w-[500px] h-[500px] bg-indigo-500/20 rounded-full blur-3xl pointer-events-none" />
@@ -416,6 +441,8 @@ export default function ChristmasDateOnsenDinnerTripGuidePage() {
           </div>
         </div>
       </section>
-    </div>
+    
+      <HubRelatedPosts currentSlug="christmas-date-onsen-dinner-trip-guide" />
+</div>
   );
 }

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import Link from 'next/link';
 import type { Metadata } from 'next';
 import { 
@@ -255,6 +256,7 @@ export default function YamagataShonaiWinterPage() {
       a: "羽田空港から庄内空港までANA直行便で約1時間。空港から酒田・鶴岡各市内へは連絡バスで約30〜40分と飛行機利用が極めて便利です。鉄道利用の場合は上越新幹線で新潟駅へ行き、特急「いなほ」に乗り換えて鶴岡・酒田へ至ります。冬の庄内地方は日本海からの強烈な季節風による地吹雪（ホワイトアウト）や路面凍結が発生しやすいため、レンタカー運転時はスタッドレスタイヤ装着のうえ、十分な車間距離と減速運転を徹底してください。"
     }
   ];
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800 antialiased">
@@ -700,7 +702,9 @@ export default function YamagataShonaiWinterPage() {
             >
               トップページへ戻る
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-yamagata-shonai-hagurosan-sakata-kandarajiru-yunohama-onsen-stay" />
+</div>
         </section>
 
       </main>

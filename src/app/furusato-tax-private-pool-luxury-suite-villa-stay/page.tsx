@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -27,6 +28,20 @@ export default function FurusatoPrivatePoolLuxuryStayPage() {
       { '@type': 'ListItem', position: 2, name: '旅行節約ハブ', item: baseUrl + '/travel-savings-guide' },
       { '@type': 'ListItem', position: 3, name: '専用プール付きヴィラスイート名宿特集', item: baseUrl + '/furusato-tax-private-pool-luxury-suite-villa-stay' },
     ],
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "客室専用プライベートプール＆温水ジャグジー付き極上ヴィラ宿×ふるさと納税完全ガイド【2026年最新】沖縄・宮古島・千葉鴨川",
+    "description": "誰の目も気にせず青空と水辺を独占！沖縄本島やんばるの海を望む独立型ヴィラ「プライベートプールヴィラもとぶ」、都心から気軽に行けるプライベートプール＆本格サウナ完備「Rakuten STAY VILLA 鴨川」、宮古ブルーの海が目前に広がる南国最高峰リゾート「プライベートプールヴィラ イムギャーリゾート」。恋人とのリゾートバカンスや家族旅行に最高の贅沢を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-private-pool-luxury-suite-villa-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -556,7 +571,9 @@ export default function FurusatoPrivatePoolLuxuryStayPage() {
                 愛知県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-private-pool-luxury-suite-villa-stay" />
+</div>
         </section>
 
       </main>

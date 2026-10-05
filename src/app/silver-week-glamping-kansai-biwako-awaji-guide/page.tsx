@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -61,6 +62,28 @@ export default function SilverWeekGlampingKansaiBiwakoAwajiPage() {
       a: "琵琶湖エリアはJR湖西線（近江舞子駅・マキノ駅）から徒歩圏内や送迎付きの施設があり、電車旅との相性も良好です。淡路島へは三ノ宮駅・高速舞子発の高速バスで主要バス停に直行し、そこからタクシーや送迎を利用するルートが確立されています。",
     },
   ];
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【関西シルバーウィーク グランピング】琵琶湖レイクビュー＆淡路島オーシャンビュー極上ドームヴィラ ｜ 日本全国・旅宿クラウド",
+    "description": "関西の秋連休を彩る水辺のグランピングリゾート！琵琶湖畔のプライベートビーチ付きドーム、淡路島の夕日を望むインフィニティプール付きヴィラ、淡路牛・近江牛のプレミアムBBQプラン徹底比較。",
+    "url": "https://croud-travel.pages.dev/silver-week-glamping-kansai-biwako-awaji-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【関西シルバーウィーク グランピング】琵琶湖レイクビュー＆淡路島オーシャンビュー極上ドームヴィラ ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/silver-week-glamping-kansai-biwako-awaji-guide/" }
+    ]
+  };
 
   return (
     <div className="min-h-screen bg-cyan-50/40 text-slate-800 antialiased selection:bg-cyan-600 selection:text-white font-sans">
@@ -476,6 +499,8 @@ export default function SilverWeekGlampingKansaiBiwakoAwajiPage() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="silver-week-glamping-kansai-biwako-awaji-guide" />
+</div>
   );
 }

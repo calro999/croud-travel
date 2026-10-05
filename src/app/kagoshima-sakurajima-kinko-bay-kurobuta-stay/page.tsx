@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -59,8 +60,32 @@ export default function MicroTouristHubPage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【鹿児島・桜島＆城山】活火山パノラマ・黒豚しゃぶ＆展望温泉宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "今なお噴煙を上げる世界的な活火山「桜島」、穏やかな錦江湾のオーシャンビュー、西郷隆盛最期の地「城山展望台」、最高峰ブランド「かごしま黒豚しゃぶしゃぶ」を徹底解説。桜島を望む展望露天風呂ホテルや名門温泉宿を厳選。",
+    "url": "https://croud-travel.pages.dev/kagoshima-sakurajima-kinko-bay-kurobuta-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【鹿児島・桜島＆城山】活火山パノラマ・黒豚しゃぶ＆展望温泉宿 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/kagoshima-sakurajima-kinko-bay-kurobuta-stay/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-stone-900 via-teal-950 to-blue-950 text-white p-8 md:p-14 shadow-xl border border-white/10">
         <div className="max-w-3xl space-y-4">
@@ -212,6 +237,8 @@ export default function MicroTouristHubPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="kagoshima-sakurajima-kinko-bay-kurobuta-stay" />
+</div>
   );
 }

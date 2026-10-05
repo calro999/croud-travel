@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -241,6 +242,7 @@ export default function ArashiyamaWinterPage() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-amber-700 selection:text-white">
@@ -713,7 +715,9 @@ export default function ArashiyamaWinterPage() {
               <Link href="/prefectures/ishikawa" className="px-3 py-1.5 bg-stone-100 hover:bg-amber-100 text-stone-700 hover:text-amber-900 rounded-lg transition-colors font-medium">石川県の宿一覧</Link>
               <Link href="/prefectures/fukui" className="px-3 py-1.5 bg-stone-100 hover:bg-amber-100 text-stone-700 hover:text-amber-900 rounded-lg transition-colors font-medium">福井県の宿一覧</Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-kyoto-arashiyama-onsen-yudofu-stay" />
+</div>
         </section>
 
       </main>

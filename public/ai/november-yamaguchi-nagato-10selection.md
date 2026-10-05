@@ -1,4 +1,4 @@
-# 長門湯本温泉おすすめ温泉宿10選のリアル宿泊記！温泉・客室・朝食バイキングの本音口コミ評判｜山口県
+# 長門湯本温泉おすすめ温泉宿10選の宿泊ルポ＆見どころガイド｜山口県
 
 - URL: https://croud-travel.pages.dev/posts/november-yamaguchi-nagato-10selection/
 - 宿泊施設名: 長門湯本温泉おすすめ温泉宿10選

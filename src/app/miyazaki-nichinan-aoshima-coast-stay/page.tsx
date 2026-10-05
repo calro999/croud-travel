@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -56,8 +57,32 @@ export default function MicroTouristHubPage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【宮崎・日南海岸＆青島】青島神社・鬼の洗濯板＆サンメッセ日南モアイ・宮崎牛宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "南国のパームツリーと神話の海岸線・宮崎日南海岸＆青島エリア完全特化！国指定天然記念物「青島・鬼の洗濯板」、サンメッセ日南の完全復刻モアイ像、鵜戸神宮の運玉投げ、青島天然温泉、最高級宮崎牛＆日南一本釣りカツオ宿を徹底解説。",
+    "url": "https://croud-travel.pages.dev/miyazaki-nichinan-aoshima-coast-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【宮崎・日南海岸＆青島】青島神社・鬼の洗濯板＆サンメッセ日南モアイ・宮崎牛宿 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/miyazaki-nichinan-aoshima-coast-stay/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-stone-900 via-rose-950 to-amber-950 text-white p-8 md:p-14 shadow-xl border border-white/10">
         <div className="max-w-3xl space-y-4">
@@ -203,6 +228,8 @@ export default function MicroTouristHubPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="miyazaki-nichinan-aoshima-coast-stay" />
+</div>
   );
 }

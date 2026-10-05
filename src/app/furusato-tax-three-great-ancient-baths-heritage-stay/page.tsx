@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -27,6 +28,20 @@ export default function FurusatoRound66ArticlePage() {
       { '@type': 'ListItem', position: 2, name: '旅行節約ハブ', item: baseUrl + '/travel-savings-guide' },
       { '@type': 'ListItem', position: 3, name: '日本三古湯・万葉浪漫と最古の歴史名湯ステイ特集', item: baseUrl + '/furusato-tax-three-great-ancient-baths-heritage-stay' },
     ],
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三古湯＆飛鳥・万葉の昔から湧き出る最古の名湯と老舗名旅館×ふるさと納税完全ガイド【2026年最新】道後・有馬・白浜",
+    "description": "日本書紀や風土記に記された三千年の歴史を誇る「日本三古湯」（愛媛・道後温泉、兵庫・有馬温泉、和歌山・白浜温泉）。聖徳太子や歴代天皇、文豪たちが愛した名湯の原点。文化財の湯屋建築、金泉・銀泉の濃厚濁り湯、太平洋を一望する波打ち際露天風呂。楽天ふるさと納税トラベルクーポンで実質2,000円負担で泊まる極上の歴史名湯ステイ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-great-ancient-baths-heritage-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -538,7 +553,9 @@ export default function FurusatoRound66ArticlePage() {
                 愛知県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-three-great-ancient-baths-heritage-stay" />
+</div>
         </section>
 
       </main>

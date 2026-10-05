@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -241,6 +242,7 @@ export default function OkuhidaWinterPage() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-emerald-900 selection:text-white">
@@ -777,7 +779,9 @@ export default function OkuhidaWinterPage() {
                 春夏秋冬の旬の旅、美食・絶景・名湯の厳選ガイドをチェック
               </p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-gifu-okuhida-onsen-yukimi-roten-stay" />
+</div>
         </section>
 
       </main>

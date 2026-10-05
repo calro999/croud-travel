@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -27,6 +28,20 @@ export default function FurusatoLakeviewOnsenResortStayPage() {
       { '@type': 'ListItem', position: 2, name: '旅行節約ハブ', item: baseUrl + '/travel-savings-guide' },
       { '@type': 'ListItem', position: 3, name: '絶景レイクビュー温泉リゾート名門ホテル特集', item: baseUrl + '/furusato-tax-lakeview-onsen-resort-hotel-stay' },
     ],
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "静かな湖面と雄大な自然を望む絶景レイクビュー温泉リゾート名門ホテル×ふるさと納税完全ガイド【2026年最新】琵琶湖・洞爺湖・箱根芦ノ湖",
+    "description": "鏡のように輝く湖面と移りゆく空の色彩を部屋や露天風呂から一望！全室レイクビューバルコニーと天然温泉を誇る滋賀のシンボル「琵琶湖ホテル」、洞爺湖と水面が一体化するインフィニティ露天風呂が圧巻の「ザ・レイクスイート 湖の栖」、芦ノ湖越しに富士山を望む国登録有形文化財の名門温泉宿「箱根 蛸川温泉 龍宮殿」。開放感あふれる湖畔の特等席ステイを、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-lakeview-onsen-resort-hotel-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -556,7 +571,9 @@ export default function FurusatoLakeviewOnsenResortStayPage() {
                 高知県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-lakeview-onsen-resort-hotel-stay" />
+</div>
         </section>
 
       </main>

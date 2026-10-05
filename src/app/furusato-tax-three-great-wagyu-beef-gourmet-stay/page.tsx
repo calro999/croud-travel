@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -113,8 +114,32 @@ export default function Page() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三大和牛＆最高峰霜降り肉会席・本場美食宿×ふるさと納税完全ガイド【2026年最新】松阪牛・神戸牛・近江牛",
+    "description": "肉の芸術品を本場で味わい尽くす贅沢！三重松阪「松阪牛」とろける甘みと芳醇な香り本場すき焼きとエースイン松阪、兵庫神戸「神戸牛」世界が認めたキメ細やかなサシと有馬温泉有馬御苑、滋賀近江八幡「近江牛」400年の歴史誇る元祖ブランド牛と琵琶湖一望の休暇村近江八幡。日本三大和牛の極上鉄板焼き・すき焼きディナーを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-great-wagyu-beef-gourmet-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "日本三大和牛＆最高峰霜降り肉会席・本場美食宿×ふるさと納税完全ガイド【2026年最新】松阪牛・神戸牛・近江牛", "item": "https://croud-travel.pages.dev/furusato-tax-three-great-wagyu-beef-gourmet-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずリスト */}
       <nav className="bg-white border-b border-slate-200 py-3 px-4 text-xs text-slate-500">
         <div className="max-w-5xl mx-auto flex items-center space-x-2">
@@ -533,6 +558,8 @@ export default function Page() {
       <footer className="bg-slate-950 text-slate-400 py-8 px-4 text-center text-xs border-t border-slate-800">
         <p>© 2026 トラベルポータル All Rights Reserved. 掲載情報は最新の楽天トラベル公式APIに基づきます。</p>
       </footer>
-    </div>
+    
+      <HubRelatedPosts currentSlug="furusato-tax-three-great-wagyu-beef-gourmet-stay" />
+</div>
   );
 }

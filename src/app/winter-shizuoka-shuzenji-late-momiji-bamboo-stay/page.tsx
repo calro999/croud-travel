@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -241,6 +242,7 @@ export default function ShuzenjiWinterPage() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-emerald-900 selection:text-white">
@@ -702,7 +704,9 @@ export default function ShuzenjiWinterPage() {
                 【京都嵐山】渡月橋の初冬絶景と嵯峨野竹林散策・名物湯豆腐会席の名宿
               </h3>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-shizuoka-shuzenji-late-momiji-bamboo-stay" />
+</div>
         </section>
 
       </main>

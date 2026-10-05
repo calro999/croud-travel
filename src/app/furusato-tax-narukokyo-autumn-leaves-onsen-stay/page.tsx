@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -67,6 +68,28 @@ const HOTEL_DATA = {
 };
 
 export default function FeatureArticlePage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "鳴子峡の深紅の大峡谷＆多彩な名湯・鳴子温泉郷！湯めぐり露天風呂宿×ふるさと納税完全ガイド【2026年最新秋旅】宮城",
+    "description": "10月中旬〜11月上旬に見頃を迎える東北随一の紅葉絶景「鳴子峡」。大谷川が刻む深さ100mの大峡谷が鮮やかな錦秋に染まるパノラマと、日本にある11泉質のうち9泉質が集まる奇跡の名湯「鳴子温泉郷 旅館弁天閣」「旅館大沼」「鳴子旅館」で自家源泉掛け流しと宮城郷土牛料理を堪能。ふるさと納税トラベルクーポンで実質2,000円。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-narukokyo-autumn-leaves-onsen-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "鳴子峡の深紅の大峡谷＆多彩な名湯・鳴子温泉郷！湯めぐり露天風呂宿×ふるさと納税完全ガイド【2026年最新秋旅】宮城", "item": "https://croud-travel.pages.dev/furusato-tax-narukokyo-autumn-leaves-onsen-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -520,7 +543,9 @@ export default function FeatureArticlePage() {
                 大阪府の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-narukokyo-autumn-leaves-onsen-stay" />
+</div>
         </section>
 
       </main>

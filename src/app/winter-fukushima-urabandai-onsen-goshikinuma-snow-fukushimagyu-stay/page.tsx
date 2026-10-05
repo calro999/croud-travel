@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -220,6 +221,7 @@ export default function WinterFukushimaUrabandaiPage() {
       }
     ]
   };
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-slate-50 via-teal-50/20 to-slate-50 text-slate-800 antialiased">
@@ -659,7 +661,9 @@ export default function WinterFukushimaUrabandaiPage() {
                 小野小町ゆかりの美肌硫黄泉と本場極上米沢牛を満喫。
               </p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-fukushima-urabandai-onsen-goshikinuma-snow-fukushimagyu-stay" />
+</div>
         </section>
 
       </main>

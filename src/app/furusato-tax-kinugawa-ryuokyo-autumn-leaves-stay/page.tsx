@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -67,6 +68,28 @@ const HOTEL_DATA = {
 };
 
 export default function FeatureArticlePage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "鬼怒川温泉の龍王峡紅葉ハイキング＆ライン下り！鬼怒川渓谷露天風呂宿×ふるさと納税完全ガイド【2026年最新秋旅】栃木",
+    "description": "10月下旬〜11月中旬に巨岩とエメラルドグリーンの渓流が錦秋に染まる名勝「鬼怒川・龍王峡」。スリル満点の鬼怒川ライン下りや鬼怒楯岩大吊橋のパノラマと、渓谷美を一望する名旅館「ホテルサンシャイン鬼怒川」「鬼怒川グランドホテル 夢の季」「山楽」で日光湯波会席やとちぎ和牛を堪能。ふるさと納税で実質2,000円。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-kinugawa-ryuokyo-autumn-leaves-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "鬼怒川温泉の龍王峡紅葉ハイキング＆ライン下り！鬼怒川渓谷露天風呂宿×ふるさと納税完全ガイド【2026年最新秋旅】栃木", "item": "https://croud-travel.pages.dev/furusato-tax-kinugawa-ryuokyo-autumn-leaves-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -520,7 +543,9 @@ export default function FeatureArticlePage() {
                 北海道の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-kinugawa-ryuokyo-autumn-leaves-stay" />
+</div>
         </section>
 
       </main>

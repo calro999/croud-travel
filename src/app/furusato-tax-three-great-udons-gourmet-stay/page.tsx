@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -113,8 +114,32 @@ export default function Page() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三大うどん＆名水と小麦の麺道・ご当地名湯宿×ふるさと納税完全ガイド【2026年最新】讃岐・稲庭・五島",
+    "description": "日本屈指の麺文化を味わい尽くす！香川琴平「讃岐うどん」強烈なコシとイリコ出汁に唸る湯元こんぴら温泉華の湯紅梅亭、秋田湯沢「稲庭うどん」宮内庁御用達の絹の喉ごしと秘湯泥湯温泉奥山旅館、長崎五島列島「五島うどん」椿油とあご出汁の地獄炊きと五島コンカナ王国ワイナリー＆リゾート。日本三大うどんの聖地と極上湯を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-great-udons-gourmet-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "日本三大うどん＆名水と小麦の麺道・ご当地名湯宿×ふるさと納税完全ガイド【2026年最新】讃岐・稲庭・五島", "item": "https://croud-travel.pages.dev/furusato-tax-three-great-udons-gourmet-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずリスト */}
       <nav className="bg-white border-b border-slate-200 py-3 px-4 text-xs text-slate-500">
         <div className="max-w-5xl mx-auto flex items-center space-x-2">
@@ -533,6 +558,8 @@ export default function Page() {
       <footer className="bg-slate-950 text-slate-400 py-8 px-4 text-center text-xs border-t border-slate-800">
         <p>© 2026 トラベルポータル All Rights Reserved. 掲載情報は最新の楽天トラベル公式APIに基づきます。</p>
       </footer>
-    </div>
+    
+      <HubRelatedPosts currentSlug="furusato-tax-three-great-udons-gourmet-stay" />
+</div>
   );
 }

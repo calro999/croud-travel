@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -147,8 +148,32 @@ const hotels: any[] = [
 ];
 
 export default function FeatureDetailPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【2026年】竹林の小径と渡月橋の風情。嵐山温泉＆極上京懐石を味わう京都の名旅館5選 | 日本全国・旅宿クラウド",
+    "description": "2026年最新！早朝の静寂に包まれる嵐山竹林の小径散策！名物湯豆腐・旬の京懐石とトロトロの嵐山温泉露天風呂で古都の風情に浸るおすすめ名宿5選。",
+    "url": "https://croud-travel.pages.dev/spring-kyoto-bamboo-grove-arashiyama-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【2026年】竹林の小径と渡月橋の風情。嵐山温泉＆極上京懐石を味わう京都の名旅館5選 | 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/spring-kyoto-bamboo-grove-arashiyama-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずリスト */}
       <div className="bg-white border-b border-slate-200">
         <div className="max-w-6xl mx-auto px-4 py-3 text-sm text-slate-500 flex items-center space-x-2">
@@ -668,6 +693,8 @@ export default function FeatureDetailPage() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="spring-kyoto-bamboo-grove-arashiyama-stay" />
+</div>
   );
 }

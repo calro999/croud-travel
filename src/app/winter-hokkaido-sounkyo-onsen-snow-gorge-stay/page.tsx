@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -221,6 +222,7 @@ export default function HokkaidoSounkyoWinterFeature() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800 pb-20">
@@ -637,7 +639,9 @@ export default function HokkaidoSounkyoWinterFeature() {
               <span className="text-xs text-cyan-300 font-semibold block mb-1">山形・蔵王温泉</span>
               <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">樹氷スノーモンスターと強酸性美肌硫黄泉・山形牛すき焼きの宿</h3>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-hokkaido-sounkyo-onsen-snow-gorge-stay" />
+</div>
         </section>
 
       </main>

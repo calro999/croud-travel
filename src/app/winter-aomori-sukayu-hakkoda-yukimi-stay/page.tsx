@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -109,6 +110,7 @@ export default function FeaturePage() {
               features: ["上北町駅から徒歩3分◆「松の湯温泉」美肌湯と山海の旬の味覚でやすらぎの時を。", "上北郡東北町上北北1-32-49", "楽天アワード受賞歴"]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-stone-50 via-white to-stone-50 text-stone-800">
@@ -663,7 +665,9 @@ export default function FeaturePage() {
                 富山県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-aomori-sukayu-hakkoda-yukimi-stay" />
+</div>
         </section>
 
       </main>

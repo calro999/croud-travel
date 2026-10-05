@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -116,8 +117,32 @@ export default function Page() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三大松原＆白砂青松ドライブ・絶景シーサイドオーシャンビュー温泉宿×ふるさと納税完全ガイド【2026年最新】三保松原・虹の松原・気比松原",
+    "description": "白砂と青松、青い海が描く日本の原風景！静岡清水「三保松原」羽衣伝説と霊峰富士の絶景パノラマ・天女の館羽衣ホテル、佐賀唐津「虹の松原」鏡山から見下ろす4.5km100万本の松林と全室東シナ海一望唐津シーサイドホテル、福井敦賀「気比の松原」若狭湾の白砂と赤松・ホテルルートイン敦賀駅前。日本三大松原の海岸美を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-great-pine-groves-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "日本三大松原＆白砂青松ドライブ・絶景シーサイドオーシャンビュー温泉宿×ふるさと納税完全ガイド【2026年最新】三保松原・虹の松原・気比松原", "item": "https://croud-travel.pages.dev/furusato-tax-three-great-pine-groves-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずリスト */}
       <nav className="bg-white border-b border-slate-200 py-3 px-4 text-xs text-slate-500">
         <div className="max-w-5xl mx-auto flex items-center space-x-2">
@@ -536,6 +561,8 @@ export default function Page() {
       <footer className="bg-slate-950 text-slate-400 py-8 px-4 text-center text-xs border-t border-slate-800">
         <p>© 2026 トラベルポータル All Rights Reserved. 掲載情報は最新の楽天トラベル公式APIに基づきます。</p>
       </footer>
-    </div>
+    
+      <HubRelatedPosts currentSlug="furusato-tax-three-great-pine-groves-stay" />
+</div>
   );
 }

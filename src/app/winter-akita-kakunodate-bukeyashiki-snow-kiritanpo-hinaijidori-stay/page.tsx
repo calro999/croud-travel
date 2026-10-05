@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -212,6 +213,7 @@ export default function AkitaKakunodatePage() {
       }
     ]
   };
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800">
@@ -606,7 +608,9 @@ export default function AkitaKakunodatePage() {
               <span>全国の冬特集一覧を見る →</span>
               <span className="text-sky-200 text-xs font-normal mt-1">11・12・1月の厳選記事を多数掲載</span>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-akita-kakunodate-bukeyashiki-snow-kiritanpo-hinaijidori-stay" />
+</div>
         </section>
 
       </main>

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -124,8 +125,32 @@ export default function DisneyFamilyHotelComparisonPage() {
     }
   ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【子連れディズニー後泊ホテル比較】舞浜・新浦安・葛西のコスパ宿＆二段ベッド・洗い場付きお風呂完備 ｜ 日本全国・旅宿クラウド",
+    "description": "子連れディズニー旅行の宿泊先を徹底比較！舞浜駅直結オフィシャルホテル vs 無料シャトルバス付き新浦安パートナーホテル vs コスパ抜群の葛西エリア。洗い場付きバスルーム、2段ベッドルーム、添い寝無料条件を全比較。",
+    "url": "https://croud-travel.pages.dev/tokyo-disney-resort-family-hotel-comparison/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【子連れディズニー後泊ホテル比較】舞浜・新浦安・葛西のコスパ宿＆二段ベッド・洗い場付きお風呂完備 ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/tokyo-disney-resort-family-hotel-comparison/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-20 font-sans text-slate-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション（Indigo Palette） */}
       <section className="relative rounded-3xl overflow-hidden bg-gradient-to-br from-indigo-950 via-indigo-900 to-indigo-800 text-white p-8 md:p-14 shadow-2xl border border-indigo-700/50">
         <div className="absolute top-0 right-0 w-[420px] h-[420px] bg-indigo-500/20 rounded-full blur-3xl pointer-events-none" />
@@ -422,6 +447,8 @@ export default function DisneyFamilyHotelComparisonPage() {
       <div className="pt-4">
         <SpecialCouponBanner variant="prominent" />
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="tokyo-disney-resort-family-hotel-comparison" />
+</div>
   );
 }

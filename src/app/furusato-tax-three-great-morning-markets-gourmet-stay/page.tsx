@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -112,8 +113,32 @@ export default function Page() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三大朝市＆獲れたて鮮魚と旬の恵み・活気あふれる市場宿×ふるさと納税完全ガイド【2026年最新】勝浦・高山・呼子",
+    "description": "早起きして出かけたい活気と笑顔の日本の三大朝市！千葉房総「勝浦朝市」430年の歴史と水揚げ鮮魚・旬野菜・三日月イン、岐阜飛騨「高山宮川朝市」宮川のせせらぎ沿いに並ぶ新鮮野菜と赤かぶら・本陣平野屋花兆庵、佐賀玄界灘「呼子朝市」名物いかしゅうまいと干物の香ばしい匂い・旅館金丸。朝の散策と地元の人々との温かいふれあい、名物グルメを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-great-morning-markets-gourmet-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "日本三大朝市＆獲れたて鮮魚と旬の恵み・活気あふれる市場宿×ふるさと納税完全ガイド【2026年最新】勝浦・高山・呼子", "item": "https://croud-travel.pages.dev/furusato-tax-three-great-morning-markets-gourmet-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずリスト */}
       <nav className="bg-white border-b border-slate-200 py-3 px-4 text-xs text-slate-500">
         <div className="max-w-5xl mx-auto flex items-center space-x-2">
@@ -558,6 +583,8 @@ export default function Page() {
           <p>ふるさと納税クーポンの利用条件や最新の空室状況は楽天トラベル公式サイトをご確認ください。</p>
         </div>
       </footer>
-    </div>
+    
+      <HubRelatedPosts currentSlug="furusato-tax-three-great-morning-markets-gourmet-stay" />
+</div>
   );
 }

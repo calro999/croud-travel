@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -192,6 +193,7 @@ export default function WinterNagasakiHiradoPage() {
       }
     ]
   };
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-slate-50 via-teal-50/20 to-slate-50 text-slate-800 antialiased">
@@ -633,7 +635,9 @@ export default function WinterNagasakiHiradoPage() {
                 茜色に染まる夕陽と天草の車海老・地魚会席を満喫。
               </p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-nagasaki-hirado-onsen-kue-hirame-hirado-beef-stay" />
+</div>
         </section>
 
       </main>

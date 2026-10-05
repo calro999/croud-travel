@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoYufuinOnsenKinrinkoStayPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "朝霧煙る金鱗湖と由布岳の絶景！由布院温泉の露天風呂付き離れ＆憧れ名門旅館×ふるさと納税完全攻略ガイド【2026年最新】花由・秀峰館・梅園",
+    "description": "女性やカップルに憧れNo.1の温泉リゾート・由布院温泉！幻想的な朝霧が立ちのぼる金鱗湖や湯の坪街道散策。「ゆふいん花由」「ゆふいんホテル秀峰館」「由布院 梅園 GARDEN RESORT」を、大分県由布市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。全室離れ露天風呂、由布岳一望展望大浴場、一万坪庭園を堪能。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-yufuin-onsen-kinrinko-luxury-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "朝霧煙る金鱗湖と由布岳の絶景！由布院温泉の露天風呂付き離れ＆憧れ名門旅館×ふるさと納税完全攻略ガイド【2026年最新】花由・秀峰館・梅園", "item": "https://croud-travel.pages.dev/furusato-tax-yufuin-onsen-kinrinko-luxury-stay/" }
+    ]
+  };
+
   return (
     <article className="max-w-5xl mx-auto px-4 py-8 text-gray-800 leading-relaxed font-sans">
       {/* パンくずリスト */}
@@ -346,7 +369,9 @@ export default function FurusatoYufuinOnsenKinrinkoStayPage() {
           >
             ▸ 【大人の隠れ家・離れ客室×ふるさと納税】静寂とプライベート重視の名宿
           </Link>
-        </div>
+        
+      <HubRelatedPosts currentSlug="furusato-tax-yufuin-onsen-kinrinko-luxury-stay" />
+</div>
       </section>
     </article>
   );

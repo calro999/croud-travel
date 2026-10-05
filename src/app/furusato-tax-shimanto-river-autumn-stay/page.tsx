@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FeatureArticlePage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本最後の清流・四万十川の沈下橋紅葉カヌー＆屋形船！四万十天然うなぎ温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】高知",
+    "description": "10月下旬〜11月中旬に山々が色づく「日本最後の清流・四万十川（しまんとがわ）」。佐田沈下橋や岩間沈下橋を望む屋形船遊覧や紅葉カヌー体験、名宿「ホテル星羅四万十」「四万十の宿」「新ロイヤルホテル四万十」で天然四万十うなぎ蒲焼きや戻りガツオの塩タタキ・四万十牛を堪能。ふるさと納税で実質2,000円。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-shimanto-river-autumn-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "日本最後の清流・四万十川の沈下橋紅葉カヌー＆屋形船！四万十天然うなぎ温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】高知", "item": "https://croud-travel.pages.dev/furusato-tax-shimanto-river-autumn-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -508,7 +531,9 @@ export default function FeatureArticlePage() {
                 徳島県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-shimanto-river-autumn-stay" />
+</div>
         </section>
 
       </main>

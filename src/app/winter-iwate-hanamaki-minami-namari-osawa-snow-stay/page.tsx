@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -311,6 +312,7 @@ export default function IwateHanamakiMinamiPage() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-900 leading-relaxed font-sans pb-20">
@@ -683,7 +685,9 @@ export default function IwateHanamakiMinamiPage() {
                 小岩井農場の雪景色と鶯川の湯けむり、濃厚な雫石牛陶板焼きを味わう冬旅。
               </p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-iwate-hanamaki-minami-namari-osawa-snow-stay" />
+</div>
         </section>
 
       </main>

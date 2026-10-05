@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -56,8 +57,32 @@ export default function MicroTouristHubPage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【広島・尾道＆しまなみ海道向島】千光寺坂の街・猫の細道＆尾道ラーメン・サイクリング宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "瀬戸内のノスタルジーとサイクリストの聖地・広島尾道＆しまなみ海道向島エリア完全特化！千光寺公園ロープウェイ、猫の細道、尾道水道の夕陽、しまなみ海道サイクリング、名物「尾道ラーメン・瀬戸内レモン・鯛めし宿」を徹底解説。",
+    "url": "https://croud-travel.pages.dev/hiroshima-onomichi-shimanami-mukoujima-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【広島・尾道＆しまなみ海道向島】千光寺坂の街・猫の細道＆尾道ラーメン・サイクリング宿 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/hiroshima-onomichi-shimanami-mukoujima-stay/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-stone-900 via-rose-950 to-amber-950 text-white p-8 md:p-14 shadow-xl border border-white/10">
         <div className="max-w-3xl space-y-4">
@@ -203,6 +228,8 @@ export default function MicroTouristHubPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="hiroshima-onomichi-shimanami-mukoujima-stay" />
+</div>
   );
 }

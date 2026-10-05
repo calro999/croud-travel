@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -67,6 +68,28 @@ const HOTEL_DATA = {
 };
 
 export default function FeatureArticlePage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "裏磐梯五色沼の神秘の湖沼群紅葉＆磐梯山ゴールドライン！高原リゾート温泉×ふるさと納税完全ガイド【2026年最新秋旅】福島",
+    "description": "10月中旬〜11月上旬にエメラルドグリーンやコバルトブルーの水面に紅葉が映える「裏磐梯五色沼湖沼群」。磐梯山ゴールドラインの絶景ドライブと、国立公園内に佇む「裏磐梯レイクリゾート 迎賓館 猫魔離宮」「五色の森」「裏磐梯高原ホテル」で福島牛や会津地鶏・喜多方ラーメンを堪能。ふるさと納税トラベルクーポンで実質2,000円。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-urabandai-goshikinuma-autumn-leaves-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "裏磐梯五色沼の神秘の湖沼群紅葉＆磐梯山ゴールドライン！高原リゾート温泉×ふるさと納税完全ガイド【2026年最新秋旅】福島", "item": "https://croud-travel.pages.dev/furusato-tax-urabandai-goshikinuma-autumn-leaves-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -520,7 +543,9 @@ export default function FeatureArticlePage() {
                 和歌山県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-urabandai-goshikinuma-autumn-leaves-stay" />
+</div>
         </section>
 
       </main>

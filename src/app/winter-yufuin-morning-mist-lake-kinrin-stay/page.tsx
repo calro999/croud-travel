@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -109,6 +110,7 @@ export default function FeaturePage() {
               features: ["３棟ある離れには、内風呂と露天風呂付。その他に５つの貸切風呂がございます。", "由布市湯布院町川南814-1", "楽天アワード受賞歴"]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-stone-50 via-white to-stone-50 text-stone-800">
@@ -662,7 +664,9 @@ export default function FeaturePage() {
                 神奈川県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-yufuin-morning-mist-lake-kinrin-stay" />
+</div>
         </section>
 
       </main>

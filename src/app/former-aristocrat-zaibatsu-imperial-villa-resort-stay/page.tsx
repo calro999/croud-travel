@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -16,6 +17,28 @@ export const metadata: Metadata = {
 
 export default function Page() {
   const secData = (seasonalData as any)['former-aristocrat-zaibatsu-imperial-villa-resort-stay'] || {};
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "元華族・旧財閥別邸＆皇室御用達ゆかりの宿完全ガイド【名園と貴族のサロン】 | クラウドトラベル",
+    "description": "箱根強羅花壇（旧閑院宮別邸）、京都南禅寺界隈の旧財閥別邸、中禅寺湖畔の皇室・大使館ゆかりの宿など、日本の政財界VIPや旧華族が愛した名園と隠れ家リゾートを特集。",
+    "url": "https://croud-travel.pages.dev/former-aristocrat-zaibatsu-imperial-villa-resort-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "元華族・旧財閥別邸＆皇室御用達ゆかりの宿完全ガイド【名園と貴族のサロン】 | クラウドトラベル", "item": "https://croud-travel.pages.dev/former-aristocrat-zaibatsu-imperial-villa-resort-stay/" }
+    ]
+  };
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
@@ -486,7 +509,9 @@ export default function Page() {
                 茨城県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="former-aristocrat-zaibatsu-imperial-villa-resort-stay" />
+</div>
         </section>
 
       </main>

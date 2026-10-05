@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -255,6 +256,7 @@ export default function HirayamaOnsenWinterFeature() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800 pb-20">
@@ -634,7 +636,9 @@ export default function HirayamaOnsenWinterFeature() {
               <span className="text-xs text-emerald-300 font-semibold block mb-1">鹿児島・霧島温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">坂本龍馬の新婚旅行の地と乳白色硫黄泉・極上黒豚しゃぶしゃぶの宿</h3>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-kumamoto-hirayama-onsen-sulfur-bihada-stay" />
+</div>
         </section>
 
       </main>

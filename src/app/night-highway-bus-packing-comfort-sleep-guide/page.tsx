@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -152,8 +153,32 @@ export default function NightHighwayBusPackingGuidePage() {
     { time: "早朝到着時", title: "駅前大浴場・サウナ直行で完全リフレッシュ", desc: "夜行バスの疲れを引きずらない秘訣は、到着後すぐに駅前の大浴場やサウナ付きホテルへ駆け込み、湯船で凝り固まった筋肉をほぐして朝食を摂ることです。" }
   ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【夜行高速バスで爆睡するための持ち物10選】首が痛い・乾燥・寒さで一睡もできなかった失敗談を完全解決 ｜ 日本全国・旅宿クラウド",
+    "description": "夜行バス初心者必見の安眠・快適ハック！ネックピローの選び方、車内の極度な乾燥を防ぐ立体マスク、足のむくみ対策着圧ソックス、消灯後の過ごし方と到着後すぐ入れる早朝サウナ・大浴場ホテルガイド。",
+    "url": "https://croud-travel.pages.dev/night-highway-bus-packing-comfort-sleep-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【夜行高速バスで爆睡するための持ち物10選】首が痛い・乾燥・寒さで一睡もできなかった失敗談を完全解決 ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/night-highway-bus-packing-comfort-sleep-guide/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-950 text-slate-100 selection:bg-indigo-500 selection:text-white pb-20">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローヘッダー（Deep Indigo Palette） */}
       <header className="relative overflow-hidden bg-gradient-to-b from-indigo-950 via-slate-900 to-slate-950 border-b border-indigo-900/40 py-16 md:py-24">
         <div className="absolute inset-0 opacity-15 bg-[radial-gradient(#6366f1_1px,transparent_1px)] [background-size:16px_16px] pointer-events-none" />
@@ -630,6 +655,8 @@ export default function NightHighwayBusPackingGuidePage() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="night-highway-bus-packing-comfort-sleep-guide" />
+</div>
   );
 }

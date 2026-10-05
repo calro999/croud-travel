@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import fs from "fs";
 import path from "path";
 import Link from "next/link";
@@ -116,6 +117,20 @@ export default function KyotoHubPage() {
       name: item.q,
       acceptedAnswer: { "@type": "Answer", text: item.a },
     })),
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【京都旅行 完全ガイド 2026】1泊2日・2泊3日モデルコース＆カップル・子連れ・女子旅・穴場・おすすめホテル・温泉旅館 ｜ 旅宿クラウド",
+    "description": "京都旅行の計画を完全サポート！1泊2日・2泊3日の王道＆穴場モデルコース、カップルデート・子連れファミリー・女子旅向けプラン、雨の日や夜の観光スポット、春の桜・秋の紅葉名所から、おすすめ厳選による京都駅周辺ホテル・温泉旅館・美味しい朝食付き宿まで徹底網羅。",
+    "url": "https://croud-travel.pages.dev/kyoto/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -699,6 +714,8 @@ export default function KyotoHubPage() {
           </Link>
         </div>
       </section>
-    </div>
+    
+      <HubRelatedPosts currentSlug="kyoto" />
+</div>
   );
 }

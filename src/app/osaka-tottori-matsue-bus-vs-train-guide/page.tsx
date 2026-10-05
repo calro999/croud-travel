@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -119,8 +120,32 @@ export default function HighwayBusArticlePage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【大阪・神戸〜鳥取・松江・出雲】高速バス vs 特急スーパーはくと徹底比較！料金半額＆縁結び出雲大社・鳥取砂丘1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+    "description": "大阪・神戸から鳥取・松江・出雲へ行くなら高速バスと特急どっちがお得？JR特急スーパーはくと・特急やくもと直行高速バスの料金・所要時間比較！鳥取砂丘、国宝松江城、縁結び出雲大社を巡る1泊2日モデルコース。",
+    "url": "https://croud-travel.pages.dev/osaka-tottori-matsue-bus-vs-train-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【大阪・神戸〜鳥取・松江・出雲】高速バス vs 特急スーパーはくと徹底比較！料金半額＆縁結び出雲大社・鳥取砂丘1泊2日モデルコース ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/osaka-tottori-matsue-bus-vs-train-guide/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-sky-950 via-slate-900 to-indigo-950 text-white p-8 md:p-14 shadow-xl border border-white/10">
         <div className="max-w-3xl space-y-4">
@@ -430,6 +455,8 @@ export default function HighwayBusArticlePage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="osaka-tottori-matsue-bus-vs-train-guide" />
+</div>
   );
 }

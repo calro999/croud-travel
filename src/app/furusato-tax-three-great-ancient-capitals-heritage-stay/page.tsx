@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -112,8 +113,32 @@ export default function Page() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三大古都＆千年千載の雅と武家の誇り・歴史息づく町並み宿×ふるさと納税完全ガイド【2026年最新】京都・奈良・鎌倉",
+    "description": "日本の美と歴史の原点を巡る三大古都グランドツアー！京都「平安京・祇園」千年の美意識と伝統の雅・京乃宿ギオン福住、奈良「平城京・ならまち」シルクロードの終着点と天平文化・ホテルアジール奈良、神奈川「鎌倉幕府・由比ヶ浜」源頼朝の武家文化と相模湾の潮風・鎌倉パークホテル。国宝寺社巡り、路地散策、伝統会席とフレンチを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-great-ancient-capitals-heritage-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "日本三大古都＆千年千載の雅と武家の誇り・歴史息づく町並み宿×ふるさと納税完全ガイド【2026年最新】京都・奈良・鎌倉", "item": "https://croud-travel.pages.dev/furusato-tax-three-great-ancient-capitals-heritage-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずリスト */}
       <nav className="bg-white border-b border-slate-200 py-3 px-4 text-xs text-slate-500">
         <div className="max-w-5xl mx-auto flex items-center space-x-2">
@@ -558,6 +583,8 @@ export default function Page() {
           <p>ふるさと納税クーポンの利用条件や最新の空室状況は楽天トラベル公式サイトをご確認ください。</p>
         </div>
       </footer>
-    </div>
+    
+      <HubRelatedPosts currentSlug="furusato-tax-three-great-ancient-capitals-heritage-stay" />
+</div>
   );
 }

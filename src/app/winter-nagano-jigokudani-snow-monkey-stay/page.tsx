@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -109,6 +110,7 @@ export default function FeaturePage() {
               features: ["真心を込めた家庭料理でお迎えいたします。四季を通じて、渋温泉は楽しみが一杯です。", "下高井郡山ノ内町平穏2140-1", "楽天アワード受賞歴"]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-stone-50 via-white to-stone-50 text-stone-800">
@@ -662,7 +664,9 @@ export default function FeaturePage() {
                 鳥取県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-nagano-jigokudani-snow-monkey-stay" />
+</div>
         </section>
 
       </main>

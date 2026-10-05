@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -109,6 +110,7 @@ export default function FeaturePage() {
               features: ["ハウステンボス直営／別荘感覚のメゾネットコテージで、家族や仲間と自由に賑やかなハウステンボス滞在を。", "佐世保市ハウステンボス町7-7　", "楽天アワード受賞歴"]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-stone-50 via-white to-stone-50 text-stone-800">
@@ -665,7 +667,9 @@ export default function FeaturePage() {
                 沖縄県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-scenic-illumination-luxury-resort" />
+</div>
         </section>
 
       </main>

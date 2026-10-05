@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -257,6 +258,7 @@ export default function ShizuokaShimodaTsumekizakiWinterPage() {
     "a": "水仙観賞の前後にぜひ訪れたいのが、幕末の開国ロマンが息づく「ペリーロード」です。平滑川沿いに石畳とガス灯、なまこ壁の古民家が続き、お洒落なカフェやアンティークショップが点在しています。また、日米下田条約が締結された名刹「了仙寺」や、下田ロープウェイで登る「寝姿山自然公園」の山頂展望台からは、下田港や爪木崎、伊豆諸島を一望する息を呑む絶景パノラマが楽しめます。下田港の「道の駅 開国下田みなと」では、新鮮な金目鯛の干物や地場産柑橘のお土産選びに最適です。"
   }
 ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-cyan-100 selection:text-cyan-900 pb-20">
@@ -704,7 +706,9 @@ export default function ShizuokaShimodaTsumekizakiWinterPage() {
               </div>
               <span className="text-xs text-emerald-300 mt-2 block font-medium">全特集をチェック ➔</span>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-shizuoka-shimoda-tsumekizaki-suisen-kinmedai-stay" />
+</div>
         </section>
 
       </main>

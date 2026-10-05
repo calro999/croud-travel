@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoTraditionalHearthIroriStayPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "赤々と燃える炭火と香ばしい煙！囲炉裏料理＆歴史ある古民家名湯宿×ふるさと納税完全ガイド【2026年最新】白川郷・群馬法師・徳島祖谷",
+    "description": "パチパチとはぜる炭の音、串に刺した川魚の塩焼きと香ばしい地鶏・特選牛の炭火焼き！世界遺産白川郷の玄関口に佇む合掌造りの宿「御宿 結の庄」、足元湧出の奇跡の温泉と囲炉裏の風情が残る国登録有形文化財「法師温泉 長寿館」、日本三大秘境の渓谷断崖に建ち囲炉裏炭火会席とケーブルカーで行く谷底露天風呂を誇る「和の宿 ホテル祖谷温泉」。日本の原風景に抱かれ温もりに浸る至福の囲炉裏ステイを、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-traditional-hearth-irori-charcoal-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "赤々と燃える炭火と香ばしい煙！囲炉裏料理＆歴史ある古民家名湯宿×ふるさと納税完全ガイド【2026年最新】白川郷・群馬法師・徳島祖谷", "item": "https://croud-travel.pages.dev/furusato-tax-traditional-hearth-irori-charcoal-stay/" }
+    ]
+  };
+
   return (
     <article className="max-w-5xl mx-auto px-4 py-8 text-gray-800 leading-relaxed font-sans">
       {/* パンくずリスト */}
@@ -346,7 +369,9 @@ export default function FurusatoTraditionalHearthIroriStayPage() {
           >
             ▸ 【暖炉・薪ストーブのある極上リゾート×ふるさと納税】揺らぐ炎と冬の温泉
           </Link>
-        </div>
+        
+      <HubRelatedPosts currentSlug="furusato-tax-traditional-hearth-irori-charcoal-stay" />
+</div>
       </section>
     </article>
   );

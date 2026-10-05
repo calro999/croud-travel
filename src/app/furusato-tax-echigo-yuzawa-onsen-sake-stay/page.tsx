@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoEchigoYuzawaOnsenStayPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "川端康成『雪国』の舞台！越後湯沢温泉の展望絶景露天風呂＆本場魚沼産コシヒカリ・越後地酒名門宿×ふるさと納税完全攻略ガイド【2026年最新】双葉・NASPAニューオータニ・いなもと",
+    "description": "新幹線で東京から約70分の雪国名湯・新潟県越後湯沢温泉！文豪・川端康成ゆかりの地。「水が織りなす越後の宿 双葉」「NASPAニューオータニ」「越後のお宿 いなもと」を、新潟県湯沢町の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。二十八の多彩なお風呂、本場魚沼産コシヒカリ、越後地酒会席を満喫。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-echigo-yuzawa-onsen-sake-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "川端康成『雪国』の舞台！越後湯沢温泉の展望絶景露天風呂＆本場魚沼産コシヒカリ・越後地酒名門宿×ふるさと納税完全攻略ガイド【2026年最新】双葉・NASPAニューオータニ・いなもと", "item": "https://croud-travel.pages.dev/furusato-tax-echigo-yuzawa-onsen-sake-stay/" }
+    ]
+  };
+
   return (
     <article className="max-w-5xl mx-auto px-4 py-8 text-gray-800 leading-relaxed font-sans">
       {/* パンくずリスト */}
@@ -346,7 +369,9 @@ export default function FurusatoEchigoYuzawaOnsenStayPage() {
           >
             ▸ 【酒蔵直営＆日本酒ペアリング温泉宿×ふるさと納税】銘酒と美肌の湯
           </Link>
-        </div>
+        
+      <HubRelatedPosts currentSlug="furusato-tax-echigo-yuzawa-onsen-sake-stay" />
+</div>
       </section>
     </article>
   );

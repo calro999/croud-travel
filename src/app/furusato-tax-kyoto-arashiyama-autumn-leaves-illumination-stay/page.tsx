@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoKyotoArashiyamaAutumnLeavesStayPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "古都を紅に染める錦秋のパノラマ！京都嵐山・嵯峨野紅葉ライトアップ＆渡月橋畔名門温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】 | 旅宿クラウド",
+    "description": "10月下旬〜11月下旬、嵐山全体が朱と黄金の錦絵に染まる秋の京都！天龍寺庭園・常寂光寺・宝厳院の紅葉ライトアップと、嵐山温泉のとろりとした美肌湯に癒やされる「渡月亭」「花伝抄」「花筏」。本格京懐石と風雅な滞在を、楽天ふるさと納税トラベルクーポンで実質自己負担2,000円で楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-kyoto-arashiyama-autumn-leaves-illumination-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "古都を紅に染める錦秋のパノラマ！京都嵐山・嵯峨野紅葉ライトアップ＆渡月橋畔名門温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】 | 旅宿クラウド", "item": "https://croud-travel.pages.dev/furusato-tax-kyoto-arashiyama-autumn-leaves-illumination-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -582,7 +605,9 @@ export default function FurusatoKyotoArashiyamaAutumnLeavesStayPage() {
                 山口県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-kyoto-arashiyama-autumn-leaves-illumination-stay" />
+</div>
         </section>
 
       </main>

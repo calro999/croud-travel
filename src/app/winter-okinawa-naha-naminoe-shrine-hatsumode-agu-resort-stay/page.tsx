@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -205,6 +206,28 @@ export default function OkinawaNahaWinterPage() {
           "addressCountry": "JP"
         }
       }
+    ]
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【11・12・1月沖縄那覇】新春波上宮初詣＆首里城復興見学！国際通り・あぐー豚しゃぶしゃぶとあったか避冬ホテル5選",
+    "description": "本土が厳しい寒さに震える11月・12月・1月、平均気温18℃前後の温暖な陽光が注ぐ沖縄・那覇エリアは極上の「避冬（ひとう）リゾート」。琉球八社の最高位・波上宮（なみのうえぐう）の新春開運初詣、2026年正殿復元に向けて活気あふれる首里城「見せる復興」の見学、活気あふれる国際通りや壺屋やちむん通り散策を満喫。甘みたっぷりの純血あぐー豚しゃぶしゃぶや沖縄そばに舌鼓を打ち、地下から湧く琉球天然温泉やハイセンスなホテルで寛ぐ大人の冬旅。楽天APIから最新取得した那覇の信頼の名宿5選を徹底特集します。",
+    "url": "https://croud-travel.pages.dev/winter-okinawa-naha-naminoe-shrine-hatsumode-agu-resort-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【11・12・1月沖縄那覇】新春波上宮初詣＆首里城復興見学！国際通り・あぐー豚しゃぶしゃぶとあったか避冬ホテル5選", "item": "https://croud-travel.pages.dev/winter-okinawa-naha-naminoe-shrine-hatsumode-agu-resort-stay/" }
     ]
   };
 
@@ -590,7 +613,9 @@ export default function OkinawaNahaWinterPage() {
               <span className="font-bold text-slate-900 mb-1">【全国】冬の厳選温泉＆旬グルメ特集一覧へ</span>
               <span className="text-xs text-slate-500">11月・12月・1月に訪れたい日本各地の名宿・絶景旅ガイド</span>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-okinawa-naha-naminoe-shrine-hatsumode-agu-resort-stay" />
+</div>
         </section>
       </main>
     </article>

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import type { Metadata } from 'next';
@@ -205,6 +206,28 @@ export default function NaraParkKasugaWinterPage() {
           "addressCountry": "JP"
         }
       }
+    ]
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【11・12・1月奈良】春日大社新春開運初詣＆東大寺大仏殿冬景色！大和牛すき焼きと古都の静謐に寛ぐ厳選宿5選",
+    "description": "1300年の歴史が静かに息づく古都・奈良の冬。世界遺産・春日大社の朱塗りの社殿と無数の釣燈籠が白雪に映える新春開運初詣、東大寺大仏殿の厳かな佇まい、冬毛でもふもふと暖かそうな奈良公園の鹿たちとの出会い。澄み切った夕暮れには若草山が茜色から深い藍色へと染まり、滋味豊かな大和牛すき焼きや飛鳥鍋、三輪そうめんのにゅうめんが冷えた体を優しく温めます。楽天APIから最新取得した奈良公園・ならまち・奈良駅周辺の格調高き名宿5選を徹底特集します。",
+    "url": "https://croud-travel.pages.dev/winter-nara-park-kasuga-taisha-hatsumode-todaiji-yamatogyu-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【11・12・1月奈良】春日大社新春開運初詣＆東大寺大仏殿冬景色！大和牛すき焼きと古都の静謐に寛ぐ厳選宿5選", "item": "https://croud-travel.pages.dev/winter-nara-park-kasuga-taisha-hatsumode-todaiji-yamatogyu-stay/" }
     ]
   };
 
@@ -615,7 +638,9 @@ export default function NaraParkKasugaWinterPage() {
               <span className="font-bold text-xs sm:text-sm text-emerald-900 line-clamp-2">全国の冬旅・新春初詣＆温泉特選特集一覧</span>
               <span className="text-[11px] text-emerald-700 font-medium mt-2 flex items-center gap-1">全特集一覧へ戻る →</span>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-nara-park-kasuga-taisha-hatsumode-todaiji-yamatogyu-stay" />
+</div>
         </section>
       </main>
 

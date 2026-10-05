@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -56,8 +57,32 @@ export default function LuxuryPremiumHubPage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【一棟貸し古民家・登録有形文化財宿】築100年以上の歴史建築＆モダンラグジュアリー 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "日本の美意識と現代の快適性が調和する最高峰の隠れ家！一棟貸し古民家・登録有形文化財リノベーション宿完全特化！京都町家、信州・飛騨の豪農屋敷、瀬戸内・出雲の蔵サウナ付き邸宅、出張料理人付き古民家宿を徹底解説。",
+    "url": "https://croud-travel.pages.dev/japan-traditional-kominka-heritage-luxury-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【一棟貸し古民家・登録有形文化財宿】築100年以上の歴史建築＆モダンラグジュアリー 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/japan-traditional-kominka-heritage-luxury-stay/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-stone-950 via-amber-950 to-stone-900 text-white p-8 md:p-14 shadow-2xl border border-amber-400/20">
         <div className="max-w-3xl space-y-4">
@@ -203,6 +228,8 @@ export default function LuxuryPremiumHubPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="japan-traditional-kominka-heritage-luxury-stay" />
+</div>
   );
 }

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -222,6 +223,7 @@ export default function NaraDorogawaOnsenPage() {
     "a": "「陀羅尼助（だらにすけ丸）」は、1300年前に修験道の開祖・役行者が大峯山で修行中、疫病に苦しむ人々を救うためにキハダ（オウバク）の樹皮を煎じて作ったとされる日本最古級の和漢胃腸薬です。名前の由来は、僧侶が眠気を覚ますために「陀羅尼（だらに）」という経文を唱えながら苦い薬を口に含んだことから。苦味が健胃作用を促し、食べ過ぎ・飲み過ぎ・二日酔い・食欲不振に抜群の効果を発揮します。洞川温泉街には「銭谷小角堂」をはじめ風情ある陀羅尼助の老舗本舗が軒を連ねており、レトロな木製看板や薬箪笥を眺めながら購入できます。"
   }
 ];
+
 
   return (
     <article className="min-h-screen bg-stone-50/50 pb-20 text-stone-800">
@@ -589,7 +591,9 @@ export default function NaraDorogawaOnsenPage() {
               <span className="text-red-700 font-bold block text-[10px]">京都・湯の花温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">亀岡の幻想雲海と冬のぼたん鍋・京都奥座敷の露天風呂付き隠れ宿</p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-nara-dorogawa-onsen-snow-botannabe-stay" />
+</div>
         </section>
 
       </main>

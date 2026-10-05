@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -350,6 +351,7 @@ export default function FukushimaIwakiYumotoWinterPage() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-900 leading-relaxed font-sans">
@@ -779,7 +781,9 @@ export default function FukushimaIwakiYumotoWinterPage() {
               <span className="text-xs font-bold text-amber-700">全国の旬の温泉特集一覧へ</span>
               <span className="text-[11px] text-stone-500">11月・12月おすすめの厳選特集</span>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-fukushima-iwaki-yumoto-onsen-ankou-jobanmono-fukushimagyu-stay" />
+</div>
         </section>
 
       </main>

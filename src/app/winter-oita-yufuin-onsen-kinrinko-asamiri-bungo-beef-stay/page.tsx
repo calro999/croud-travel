@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -273,6 +274,7 @@ export default function YufuinOnsenWinterPage() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-emerald-950 selection:text-white">
@@ -717,7 +719,9 @@ export default function YufuinOnsenWinterPage() {
               <span className="text-xs text-emerald-300 font-semibold block mb-1">特集一覧</span>
               <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">全国の厳選温泉・宿特集まとめを見る</h3>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-oita-yufuin-onsen-kinrinko-asamiri-bungo-beef-stay" />
+</div>
         </section>
 
       </main>

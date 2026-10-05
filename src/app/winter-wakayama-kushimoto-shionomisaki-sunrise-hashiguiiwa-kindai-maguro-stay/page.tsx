@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import Link from 'next/link';
 import type { Metadata } from 'next';
 import { 
@@ -255,6 +256,7 @@ export default function WakayamaKushimotoWinterPage() {
       a: "関西方面からは新大阪駅・天王寺駅からJR特急「くろしお」で乗り換えなし約3時間〜3時間30分でJR串本駅に到着します。車の場合は阪和自動車道・紀勢自動車道を利用し、すさみ南ICから国道42号を経由して約30分です。中京方面からは紀勢本線特急「南紀」または紀勢自動車道経由でアクセス可能。東京からは南紀白浜空港まで飛行機で約70分、空港からレンタカーや特急で約1時間の快適なアクセスルートもあります。路面凍結の心配が極めて少ない安心の冬ドライブコースです。"
     }
   ];
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800 antialiased">
@@ -651,7 +653,9 @@ export default function WakayamaKushimotoWinterPage() {
             >
               トップページへ戻る
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-wakayama-kushimoto-shionomisaki-sunrise-hashiguiiwa-kindai-maguro-stay" />
+</div>
         </section>
 
       </main>

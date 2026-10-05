@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -241,6 +242,7 @@ export default function KagaWinterPage() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-red-950 selection:text-white">
@@ -677,7 +679,9 @@ export default function KagaWinterPage() {
                 【会津東山温泉】雪化粧の湯川渓谷露天と会津地鶏・極上馬刺し会席の宿
               </h3>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-ishikawa-kaga-yamashiro-kano-crab-stay" />
+</div>
         </section>
 
       </main>

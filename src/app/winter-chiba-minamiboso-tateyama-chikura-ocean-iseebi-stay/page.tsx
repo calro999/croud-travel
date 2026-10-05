@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -311,6 +312,7 @@ export default function ChibaMinamibosoTateyamaWinterPage() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-900 leading-relaxed font-sans pb-20">
@@ -657,7 +659,9 @@ export default function ChibaMinamibosoTateyamaWinterPage() {
                 初冬の雪化粧富士を望むパノラマ露天風呂と、歴史ある箱根十七湯巡りの旅。
               </p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-chiba-minamiboso-tateyama-chikura-ocean-iseebi-stay" />
+</div>
         </section>
 
       </main>

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import Link from 'next/link';
 import type { Metadata } from 'next';
 import { 
@@ -255,6 +256,7 @@ export default function HokkaidoWakkanaiWinterPage() {
       a: "稚内へは羽田空港および新千歳空港からANAの直行便が就航する「稚内空港」から連絡バスで約30分。鉄道の場合は札幌駅から特急「宗谷」「サロベツ」で約5時間〜5時間30分、都市間高速バス「特急わっかない号」で約6時間です。冬期（特に12月〜1月）は暴風雪（ホワイトアウト）による飛行機の欠航やJR・バスの運休が発生することがあります。天気予報を数日前から綿密にチェックし、旅程には半日〜1日程度の余裕を持たせることを強く推奨します。"
     }
   ];
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800 antialiased">
@@ -643,7 +645,9 @@ export default function HokkaidoWakkanaiWinterPage() {
             <span>•</span>
             <Link href="/posts" className="hover:text-cyan-600 underline">記事一覧カタログ</Link>
           </div>
-        </div>
+        
+      <HubRelatedPosts currentSlug="winter-hokkaido-wakkanai-soya-cape-sunrise-tako-shabu-soya-beef-stay" />
+</div>
       </section>
 
       {/* Footer */}

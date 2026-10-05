@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -130,8 +131,32 @@ export default function AwajiIslandCarFreePage() {
     }
   ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【淡路島 車なし観光ガイド】高速バス＆無料シャトルで回る！ニジゲンノモリ・西海岸カフェ・洲本温泉 ｜ 日本全国・旅宿クラウド",
+    "description": "車がないと行けないと思われがちな淡路島を高速バスと島内周遊シャトルで完全攻略！三ノ宮・新神戸から直行バス、明石海峡大橋を渡って楽しむ最新西海岸リゾートスポット＆洲本温泉名旅館。",
+    "url": "https://croud-travel.pages.dev/awaji-island-car-free-bus-trip-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【淡路島 車なし観光ガイド】高速バス＆無料シャトルで回る！ニジゲンノモリ・西海岸カフェ・洲本温泉 ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/awaji-island-car-free-bus-trip-guide/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-900 font-sans pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローヘッダー：インディゴ＆シアンの爽快シーサイドトーン */}
       <div className="relative bg-gradient-to-br from-indigo-950 via-slate-900 to-sky-950 text-white overflow-hidden py-14 md:py-20 px-4">
         <div className="absolute inset-0 opacity-20 bg-[linear-gradient(to_right,#38bdf8_1px,transparent_1px),linear-gradient(to_bottom,#38bdf8_1px,transparent_1px)] bg-[size:4rem_4rem]" />
@@ -455,6 +480,8 @@ export default function AwajiIslandCarFreePage() {
           </Link>
         </div>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="awaji-island-car-free-bus-trip-guide" />
+</div>
   );
 }

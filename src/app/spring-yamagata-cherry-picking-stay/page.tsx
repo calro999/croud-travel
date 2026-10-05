@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -147,8 +148,32 @@ const hotels: any[] = [
 ];
 
 export default function FeatureDetailPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【2026年】ルビーのように輝く初夏の宝石！佐藤錦さくらんぼ狩り＆天童・かみのやま名湯宿5選 | 日本全国・旅宿クラウド",
+    "description": "2026年最新！山形特産「佐藤錦・紅秀峰」さくらんぼ狩り食べ放題！山形牛会席と将棋の街・天童温泉やかみのやま温泉のやわらかな名湯を満喫する名宿5選。",
+    "url": "https://croud-travel.pages.dev/spring-yamagata-cherry-picking-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【2026年】ルビーのように輝く初夏の宝石！佐藤錦さくらんぼ狩り＆天童・かみのやま名湯宿5選 | 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/spring-yamagata-cherry-picking-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずリスト */}
       <div className="bg-white border-b border-slate-200">
         <div className="max-w-6xl mx-auto px-4 py-3 text-sm text-slate-500 flex items-center space-x-2">
@@ -668,6 +693,8 @@ export default function FeatureDetailPage() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="spring-yamagata-cherry-picking-stay" />
+</div>
   );
 }

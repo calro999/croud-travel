@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -220,6 +221,7 @@ export default function WinterFukushimaBandaiatamiPage() {
       }
     ]
   };
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-stone-50 via-rose-50/20 to-stone-50 text-stone-800 antialiased">
@@ -567,7 +569,9 @@ export default function WinterFukushimaBandaiatamiPage() {
                 武家屋敷情緒と渓谷雪景色、極上馬刺しや郷土こづゆを巡る名宿。
               </p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-fukushima-bandaiatami-onsen-hagihime-fukushimagyu-stay" />
+</div>
         </section>
 
       </main>

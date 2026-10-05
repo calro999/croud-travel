@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import type { Metadata } from 'next';
@@ -213,6 +214,7 @@ export default function ShirakawagoHidaTakayamaWinterPage() {
       }
     ]
   };
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800 antialiased selection:bg-amber-500 selection:text-white pb-20">
@@ -628,7 +630,9 @@ export default function ShirakawagoHidaTakayamaWinterPage() {
               <span>雨晴海岸から望む立山連峰＆新湊カニ！富山湾冬の絶景名宿</span>
               <span className="text-amber-300">→</span>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-gifu-shirakawago-snow-gassho-hidatakayama-onsen-stay" />
+</div>
         </section>
 
       </main>

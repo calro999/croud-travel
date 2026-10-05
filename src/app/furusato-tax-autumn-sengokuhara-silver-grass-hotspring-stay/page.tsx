@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoAutumnSengokuharaSilverGrassStayPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "黄金色に輝くススキの大海原！箱根仙石原ススキ草原＆大涌谷にごり湯温泉名宿×ふるさと納税完全ガイド【2026年最新秋旅】 | 旅宿クラウド",
+    "description": "10月中旬〜11月上旬に見頃を迎える箱根屈指の秋の風物詩「仙石原ススキ草原」。台ヶ岳の山裾一面が黄金色に輝く絶景の散策道と、大涌谷から引湯する乳白色の濃厚にごり湯を堪能！「万寿屋旅館」「箱根ホテル花月園」「センチュリオン箱根別邸」など厳選宿を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-autumn-sengokuhara-silver-grass-hotspring-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "黄金色に輝くススキの大海原！箱根仙石原ススキ草原＆大涌谷にごり湯温泉名宿×ふるさと納税完全ガイド【2026年最新秋旅】 | 旅宿クラウド", "item": "https://croud-travel.pages.dev/furusato-tax-autumn-sengokuhara-silver-grass-hotspring-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -582,7 +605,9 @@ export default function FurusatoAutumnSengokuharaSilverGrassStayPage() {
                 静岡県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-autumn-sengokuhara-silver-grass-hotspring-stay" />
+</div>
         </section>
 
       </main>

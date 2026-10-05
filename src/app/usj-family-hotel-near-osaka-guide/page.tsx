@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -106,8 +107,32 @@ export default function UsjFamilyHotelGuidePage() {
     }
   ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【子連れUSJホテルおすすめ比較】オフィシャルホテル徒歩1分 vs 梅田・なんば駅チカ宿！家族旅行完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "子連れでユニバーサル・スタジオ・ジャパンを満喫するためのホテル選び！パーク徒歩1分のオフィシャルホテルで開園待ち＆疲れたら昼寝できるメリット vs 大阪観光も兼ねた梅田・なんばのファミリー向けホテルを徹底比較。",
+    "url": "https://croud-travel.pages.dev/usj-family-hotel-near-osaka-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【子連れUSJホテルおすすめ比較】オフィシャルホテル徒歩1分 vs 梅田・なんば駅チカ宿！家族旅行完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/usj-family-hotel-near-osaka-guide/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-20 font-sans text-slate-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション（Teal Palette） */}
       <section className="relative rounded-3xl overflow-hidden bg-gradient-to-br from-teal-900 via-teal-800 to-cyan-900 text-white p-8 md:p-14 shadow-2xl border border-teal-600/50">
         <div className="absolute top-0 right-0 w-[400px] h-[400px] bg-cyan-400/15 rounded-full blur-3xl pointer-events-none" />
@@ -404,6 +429,8 @@ export default function UsjFamilyHotelGuidePage() {
       <div className="pt-4">
         <SpecialCouponBanner variant="prominent" />
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="usj-family-hotel-near-osaka-guide" />
+</div>
   );
 }

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -17,6 +18,28 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoTaxArticle() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【登別温泉×ふるさと納税】地獄谷の大パノラマ＆五大泉質温泉天国！巨大露天風呂と北海道ビュッフェガイド｜第一滝本館・登別グランドホテル・ホテルまほろば",
+    "description": "北海道温泉の横綱・登別温泉を楽天ふるさと納税でお得に大満喫！千五百坪の大浴場に五つの泉質が注ぐ温泉天国「第一滝本館」、ローマ風大浴場と鬼サウナが話題の「登別グランドホテル」、日本最大級の露天風呂と三大蟹バイキングの「ホテルまほろば」を徹底比較。登別市トラベルクーポン活用術を網羅。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-noboribetsu-onsen-jigokudani-resort-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【登別温泉×ふるさと納税】地獄谷の大パノラマ＆五大泉質温泉天国！巨大露天風呂と北海道ビュッフェガイド｜第一滝本館・登別グランドホテル・ホテルまほろば", "item": "https://croud-travel.pages.dev/furusato-tax-noboribetsu-onsen-jigokudani-resort-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-50 text-stone-900 leading-relaxed font-sans">
       {/* ヒーローヘッダー */}
@@ -611,7 +634,9 @@ export default function FurusatoTaxArticle() {
                 群馬県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-noboribetsu-onsen-jigokudani-resort-stay" />
+</div>
         </section>
 
       </main>

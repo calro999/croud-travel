@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -220,6 +221,7 @@ export default function WinterIwateOshukuPage() {
       }
     ]
   };
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-stone-50 via-emerald-50/20 to-stone-50 text-stone-800 antialiased">
@@ -567,7 +569,9 @@ export default function WinterIwateOshukuPage() {
                 ブナ原生林の雪景色に湧く七湯の濁り湯と比内地鶏きりたんぽ鍋の名宿。
               </p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-iwate-oshuku-shizukuishi-onsen-koiwai-snow-shizukuishigyu-stay" />
+</div>
         </section>
 
       </main>

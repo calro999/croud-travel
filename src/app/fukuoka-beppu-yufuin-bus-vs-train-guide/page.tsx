@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -116,8 +117,32 @@ export default function HighwayBusArticlePage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【福岡・博多〜別府・由布院】特急ゆふいんの森 vs 高速バス徹底比較！料金半額＆湯布院・別府地獄めぐり1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+    "description": "博多・天神から由布院・別府温泉へ安く行くには？JR特急ゆふいんの森・特急ソニックと高速バス「とよのくに号・ゆふいん号」の料金・時間比較！湯の坪街道散策、金鱗湖、別府八湯を巡る1泊2日モデルコース。",
+    "url": "https://croud-travel.pages.dev/fukuoka-beppu-yufuin-bus-vs-train-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【福岡・博多〜別府・由布院】特急ゆふいんの森 vs 高速バス徹底比較！料金半額＆湯布院・別府地獄めぐり1泊2日モデルコース ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/fukuoka-beppu-yufuin-bus-vs-train-guide/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-sky-950 via-slate-900 to-indigo-950 text-white p-8 md:p-14 shadow-xl border border-white/10">
         <div className="max-w-3xl space-y-4">
@@ -427,6 +452,8 @@ export default function HighwayBusArticlePage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="fukuoka-beppu-yufuin-bus-vs-train-guide" />
+</div>
   );
 }

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -27,6 +28,20 @@ export default function FurusatoRound62ArticlePage() {
       { '@type': 'ListItem', position: 2, name: '旅行節約ハブ', item: baseUrl + '/travel-savings-guide' },
       { '@type': 'ListItem', position: 3, name: '日本三大棚田・黄金色の里山リトリート特集', item: baseUrl + '/furusato-tax-three-great-terraced-paddy-rice-harvest-stay' },
     ],
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三大棚田＆日本の原風景と黄金色に実る稲穂・農村リトリート宿×ふるさと納税完全ガイド【2026年最新】姨捨・丸山・白米",
+    "description": "斜面一面に幾重にも重なる幾何学模様と、水鏡や黄金色に輝く稲穂の絶景「日本三大棚田」（長野千曲・姨捨の棚田、三重熊野・丸山千枚田、石川能登・白米千枚田）。国の名勝や世界農業遺産に指定された農村の原風景を巡り、新米や里山会席に舌鼓を打つ贅沢。楽天ふるさと納税トラベルクーポンで実質2,000円負担で泊まるおすすめ名宿ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-great-terraced-paddy-rice-harvest-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -538,7 +553,9 @@ export default function FurusatoRound62ArticlePage() {
                 岩手県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-three-great-terraced-paddy-rice-harvest-stay" />
+</div>
         </section>
 
       </main>

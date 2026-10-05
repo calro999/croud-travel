@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -220,6 +221,7 @@ export default function WinterShimaneMatsuePage() {
       }
     ]
   };
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-slate-50 via-teal-50/20 to-slate-50 text-slate-800 antialiased">
@@ -659,7 +661,9 @@ export default function WinterShimaneMatsuePage() {
                 三朝橋の河原露天風呂とホルミシス効果、極上カニ鍋を堪能。
               </p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-shimane-matsue-shinjiko-onsen-sunset-matsubagani-shijimi-stay" />
+</div>
         </section>
 
       </main>

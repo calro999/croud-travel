@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import Link from 'next/link';
 import type { Metadata } from 'next';
 import { 
@@ -255,6 +256,7 @@ export default function HokkaidoKushiroWinterPage() {
       a: "東京（羽田）からは「たんちょう釧路空港」まで飛行機で直行約1時間35分。空港から釧路市内（釧路駅・幣舞橋）までは連絡バスで約45〜55分と非常に快適です。札幌からはJR特急「おおぞら」で約4時間〜4時間20分です。冬の道東は雪雲が山脈に遮られるため比較的晴天が多いですが、気温が氷点下10度〜20度近くまで冷え込むため、路面は圧雪やブラックアイスバーン（凍結）状態になります。車を運転する場合はスタッドレスタイヤ必須で、急ブレーキ・急ハンドルを避け、スピードを落とした慎重な運転を心がけてください。"
     }
   ];
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800 antialiased">
@@ -651,7 +653,9 @@ export default function HokkaidoKushiroWinterPage() {
             >
               トップページへ戻る
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-hokkaido-kushiro-tancho-crane-snow-nusamaibashi-sunset-robata-stay" />
+</div>
         </section>
 
       </main>

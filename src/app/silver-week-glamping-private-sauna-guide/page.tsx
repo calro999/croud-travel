@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -127,6 +128,28 @@ export default function SilverWeekGlampingPrivateSaunaPage() {
         text: faq.answer,
       },
     })),
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【プライベートサウナ付きグランピング2026】秋のシルバーウィークにととのう！バレルサウナ＆天然水風呂 ｜ 日本全国・旅宿クラウド",
+    "description": "涼しい秋風の中で究極の外気浴！完全貸切のフィンランド式バレルサウナ、富士山天然水や地下水の水風呂、星空の下でのインフィニティチェア外気浴が楽しめる極上サウナ付きグランピング特集。",
+    "url": "https://croud-travel.pages.dev/silver-week-glamping-private-sauna-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【プライベートサウナ付きグランピング2026】秋のシルバーウィークにととのう！バレルサウナ＆天然水風呂 ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/silver-week-glamping-private-sauna-guide/" }
+    ]
   };
 
   return (
@@ -382,6 +405,8 @@ export default function SilverWeekGlampingPrivateSaunaPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="silver-week-glamping-private-sauna-guide" />
+</div>
   );
 }

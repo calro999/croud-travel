@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -24,6 +25,28 @@ function loadHotels() {
 
 export default function KanazawaBudgetGuide() {
   const hotels = loadHotels();
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【金沢旅行 費用】1泊2日・2泊3日いくらかかる？交通費・宿泊費・食費の内訳＆節約術【2026年最新】",
+    "description": "金沢旅行の費用を1泊2日・2泊3日のパターン別に徹底解説！東京・大阪・名古屋からの交通費、金沢駅前ホテル・温泉旅館の宿泊費、近江町市場・ひがし茶屋街のグルメ費用、兼六園・21世紀美術館の入場料まで、リアルな総額を公開。",
+    "url": "https://croud-travel.pages.dev/kanazawa-travel-budget-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【金沢旅行 費用】1泊2日・2泊3日いくらかかる？交通費・宿泊費・食費の内訳＆節約術【2026年最新】", "item": "https://croud-travel.pages.dev/kanazawa-travel-budget-guide/" }
+    ]
+  };
 
   return (
     <div className="max-w-4xl mx-auto px-4 py-8">
@@ -256,6 +279,8 @@ export default function KanazawaBudgetGuide() {
           </div>
         )}
       </section>
-    </div>
+    
+      <HubRelatedPosts currentSlug="kanazawa-travel-budget-guide" />
+</div>
   );
 }

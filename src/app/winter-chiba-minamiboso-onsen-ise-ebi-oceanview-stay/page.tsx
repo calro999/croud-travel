@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -255,6 +256,7 @@ export default function ChibaMinamibosoWinterFeature() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800 pb-20">
@@ -634,7 +636,9 @@ export default function ChibaMinamibosoWinterFeature() {
               <span className="text-xs text-amber-300 font-semibold block mb-1">全国冬の味覚特集</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">冬に食べたい極上牡蠣＆海鮮グルメ温泉旅館ランキング</h3>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-chiba-minamiboso-onsen-ise-ebi-oceanview-stay" />
+</div>
         </section>
 
       </main>

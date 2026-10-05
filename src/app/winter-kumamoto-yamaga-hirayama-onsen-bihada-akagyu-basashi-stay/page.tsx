@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -350,6 +351,7 @@ export default function KumamotoYamagaHirayamaWinterPage() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-900 leading-relaxed font-sans">
@@ -783,7 +785,9 @@ export default function KumamotoYamagaHirayamaWinterPage() {
               <span className="text-xs font-bold text-red-700">全国の旬の温泉特集一覧へ</span>
               <span className="text-[11px] text-stone-500">11月・12月おすすめの厳選特集</span>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-kumamoto-yamaga-hirayama-onsen-bihada-akagyu-basashi-stay" />
+</div>
         </section>
 
       </main>

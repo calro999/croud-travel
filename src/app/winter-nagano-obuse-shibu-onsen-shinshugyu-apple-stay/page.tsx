@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -351,6 +352,7 @@ export default function NaganoObuseShibuWinterPage() {
             }
   ];
 
+
   return (
     <article className="min-h-screen bg-stone-50 text-stone-900 leading-relaxed font-sans">
       <script
@@ -703,7 +705,9 @@ export default function NaganoObuseShibuWinterPage() {
               <span className="text-amber-700 font-bold block text-[10px]">長野・地獄谷温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">温泉に浸かる野生ザルの神秘と冬の秘湯・信州そばと温まりの露天風呂</p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-nagano-obuse-shibu-onsen-shinshugyu-apple-stay" />
+</div>
         </section>
 
       </main>

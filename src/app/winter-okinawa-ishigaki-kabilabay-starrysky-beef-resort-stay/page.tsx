@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -257,6 +258,7 @@ export default function OkinawaIshigakiKabilabayWinterPage() {
     "a": "南ぬ島（ぱいぬしま）石垣空港へは、羽田・成田・関西・中部・福岡など主要空港から直行便が毎日運航されており、羽田から約3時間30分、関西から約2時間45分で直行できます。那覇空港経由の乗り継ぎ便も1日数多く運航しています。冬の石垣島は北東からの季節風（ミーニシ）が強く吹き抜ける日があり、風が吹くと体感温度が下がります。日中は長袖Tシャツやシャツで過ごせますが、朝晩や海辺の散策用に風を通さないマウンテンパーカーやウインドブレーカーを必ず1着持参してください。島内移動にはレンタカーの事前予約が便利です。"
   }
 ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-teal-100 selection:text-teal-900 pb-20">
@@ -711,7 +713,9 @@ export default function OkinawaIshigakiKabilabayWinterPage() {
                 冬の特集記事一覧をすべて見る ➔
               </span>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-okinawa-ishigaki-kabilabay-starrysky-beef-resort-stay" />
+</div>
         </section>
 
       </main>

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -188,6 +189,28 @@ export default function ChibaNaritasanSawaraPage() {
         text: item.a
       }
     }))
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【11・12・1月千葉】成田山新勝寺の新春初詣＆表参道名物うなぎと北総小江戸・佐原の重伝建風情を巡る名宿5選",
+    "description": "11月から1月、成田山新勝寺は12月の納め不動から正月三が日・新春初詣にかけて全国から300万人以上の参拝客が集う日本屈指の祈りの季節を迎えます。開創千余年の大本堂に響く迫真の「御護摩祈祷」、香ばしいタレの煙が立ち込める表参道の名物「江戸前うなぎ蒲焼」、そして「北総の小江戸」として重伝建地区に指定される水郷・佐原の歴史的商家群と冬のこたつ舟めぐり。成田山門前の老舗宿や重伝建古民家オーベルジュ、天然温泉リゾートで心身を清め福を呼び込む冬の厳選名宿5選をご紹介します。",
+    "url": "https://croud-travel.pages.dev/winter-chiba-naritasan-shinshoji-hatsumode-unagi-sawara-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【11・12・1月千葉】成田山新勝寺の新春初詣＆表参道名物うなぎと北総小江戸・佐原の重伝建風情を巡る名宿5選", "item": "https://croud-travel.pages.dev/winter-chiba-naritasan-shinshoji-hatsumode-unagi-sawara-stay/" }
+    ]
   };
 
   return (
@@ -653,7 +676,9 @@ export default function ChibaNaritasanSawaraPage() {
                 大洗磯前神社神磯の鳥居初日の出と冬の常磐アンコウ鍋名宿
               </span>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-chiba-naritasan-shinshoji-hatsumode-unagi-sawara-stay" />
+</div>
         </section>
       </main>
     </article>

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -19,8 +20,32 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoTaxPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "高原リゾート＆美食フレンチオーベルジュ×ふるさと納税完全ガイド【2026年最新】那須・清里・裏磐梯の森の休日",
+    "description": "澄んだ空気と木漏れ日の森で味わう極上フレンチコース！那須高原、八ヶ岳清里、裏磐梯など名門高原リゾート＆オーベルジュを楽天ふるさと納税宿泊クーポンでお得に予約する大人旅ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-highland-resort-french-auberge-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "高原リゾート＆美食フレンチオーベルジュ×ふるさと納税完全ガイド【2026年最新】那須・清里・裏磐梯の森の休日", "item": "https://croud-travel.pages.dev/furusato-tax-highland-resort-french-auberge-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-950 text-slate-100 selection:bg-amber-500 selection:text-white">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずリスト */}
       <nav className="border-b border-slate-800/80 bg-slate-900/60 backdrop-blur px-4 py-3 text-xs text-slate-400">
         <div className="max-w-6xl mx-auto flex items-center gap-2 overflow-x-auto whitespace-nowrap">
@@ -864,6 +889,8 @@ export default function FurusatoTaxPage() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="furusato-tax-highland-resort-french-auberge-stay" />
+</div>
   );
 }

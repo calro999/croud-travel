@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -132,8 +133,32 @@ export default function NagoyaDepartureDaytripBusTourPage() {
     }
   ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【名古屋発 日帰りバスツアー＆温泉ランチおすすめ】下呂温泉・伊勢神宮参拝・飛騨牛食べ放題プラン徹底解説",
+    "description": "名古屋・名駅発の日帰りバスツアー人気コース！伊勢神宮おかげ横丁＆松阪牛ランチ、下呂温泉名湯めぐり、高山白川郷合掌造り直行便まで、電車より安くて楽ちんな日帰りツアーの料金・予約方法。",
+    "url": "https://croud-travel.pages.dev/nagoya-departure-daytrip-bus-tour-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【名古屋発 日帰りバスツアー＆温泉ランチおすすめ】下呂温泉・伊勢神宮参拝・飛騨牛食べ放題プラン徹底解説", "item": "https://croud-travel.pages.dev/nagoya-departure-daytrip-bus-tour-guide/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-amber-50/20 text-slate-800 antialiased">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* 🍂 Hero Header - Amber Theme */}
       <header className="relative bg-gradient-to-br from-amber-950 via-amber-900 to-yellow-950 text-white overflow-hidden py-14 md:py-20 px-4 sm:px-6 lg:px-8 border-b border-amber-800/40">
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top,rgba(245,158,11,0.18),transparent_60%)] pointer-events-none" />
@@ -589,6 +614,8 @@ export default function NagoyaDepartureDaytripBusTourPage() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="nagoya-departure-daytrip-bus-tour-guide" />
+</div>
   );
 }

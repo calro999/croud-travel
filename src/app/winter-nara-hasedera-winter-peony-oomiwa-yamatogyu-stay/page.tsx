@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -188,6 +189,28 @@ export default function NaraHasederaOomiwaPage() {
         text: item.a
       }
     }))
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【11・12・1月奈良】花の御寺・長谷寺の「冬牡丹（寒牡丹）」と日本最古の三輪山・大神神社初詣＆極上大和牛を味わう名宿5選",
+    "description": "11月から1月、古都・奈良の大和路は凛とした冬の澄んだ空気に包まれ、神話と歴史が息づく静謐な祈りの季節を迎えます。「花の御寺」と称される長谷寺では、藁囲い（わらづと）に守られ雪中に艶やかに咲き誇る可憐な「冬牡丹（寒牡丹）」が見頃を迎え、国宝本堂へと続く399段の登廊が静寂の美を放ちます。さらに三輪山をご神体とする日本最古の神社「大神神社」や「橿原神宮」での新春開運初詣、温かい三輪にゅうめん、きめ細やかなサシがとろける伝統の銘柄牛「大和牛」のすき焼き。心洗われる大和路の冬を五感で癒やす厳選名宿5選をご紹介します。",
+    "url": "https://croud-travel.pages.dev/winter-nara-hasedera-winter-peony-oomiwa-yamatogyu-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【11・12・1月奈良】花の御寺・長谷寺の「冬牡丹（寒牡丹）」と日本最古の三輪山・大神神社初詣＆極上大和牛を味わう名宿5選", "item": "https://croud-travel.pages.dev/winter-nara-hasedera-winter-peony-oomiwa-yamatogyu-stay/" }
+    ]
   };
 
   return (
@@ -653,7 +676,9 @@ export default function NaraHasederaOomiwaPage() {
                 白壁倉敷美観地区冬夜景と吉備津神社初詣・千屋牛会席名宿
               </span>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-nara-hasedera-winter-peony-oomiwa-yamatogyu-stay" />
+</div>
         </section>
       </main>
     </article>

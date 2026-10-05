@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -19,8 +20,32 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoTaxPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "清流渓谷＆名瀑ヒーリング温泉宿×ふるさと納税完全ガイド【2026年最新】奥入瀬・天城湯ヶ島・作並の滝見露天",
+    "description": "落差ある名瀑や激流のせせらぎを間近に望む絶景露天風呂！奥入瀬渓流、天城湯ヶ島、仙台作並温泉などマイナスイオン溢れる清流峡谷の名宿を、楽天ふるさと納税トラベルクーポンでお得に予約する自然治癒・温泉旅ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-waterfall-river-gorge-healing-onsen-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "清流渓谷＆名瀑ヒーリング温泉宿×ふるさと納税完全ガイド【2026年最新】奥入瀬・天城湯ヶ島・作並の滝見露天", "item": "https://croud-travel.pages.dev/furusato-tax-waterfall-river-gorge-healing-onsen-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-950 text-slate-100 selection:bg-amber-500 selection:text-white">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずリスト */}
       <nav className="border-b border-slate-800/80 bg-slate-900/60 backdrop-blur px-4 py-3 text-xs text-slate-400">
         <div className="max-w-6xl mx-auto flex items-center gap-2 overflow-x-auto whitespace-nowrap">
@@ -760,6 +785,8 @@ export default function FurusatoTaxPage() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="furusato-tax-waterfall-river-gorge-healing-onsen-stay" />
+</div>
   );
 }

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -67,6 +68,28 @@ const HOTEL_DATA = {
 };
 
 export default function FeatureArticlePage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "抱返り渓谷の碧い渓流紅葉＆角館武家屋敷の黒板塀！田沢湖温泉郷宿×ふるさと納税完全ガイド【2026年最新秋旅】秋田",
+    "description": "10月中旬〜11月上旬にエメラルドグリーンの渓流と紅葉が織りなす東北の耶馬渓「抱返り渓谷」。角館武家屋敷通りの黒板塀に映える深紅のカエデと、田沢湖・水沢温泉郷の名湯「セルリアンリゾートAONI」「ロッジアイリス」「かくのだて温泉 町宿 ねこの鈴」できりたんぽ鍋や比内地鶏・八幡平ポークを堪能。ふるさと納税で実質2,000円。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-dakigaeri-kakunodate-autumn-leaves-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "抱返り渓谷の碧い渓流紅葉＆角館武家屋敷の黒板塀！田沢湖温泉郷宿×ふるさと納税完全ガイド【2026年最新秋旅】秋田", "item": "https://croud-travel.pages.dev/furusato-tax-dakigaeri-kakunodate-autumn-leaves-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -520,7 +543,9 @@ export default function FeatureArticlePage() {
                 滋賀県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-dakigaeri-kakunodate-autumn-leaves-stay" />
+</div>
         </section>
 
       </main>

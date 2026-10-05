@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -142,8 +143,32 @@ export default function IzuShimodaCarFreeTravelGuidePage() {
     }
   ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【伊豆・下田 車なし観光 1泊2日モデルコース】伊豆急行＆路線バスで巡る白浜海岸・ペリーロード・金目鯛旅 ｜ 日本全国・旅宿クラウド",
+    "description": "レンタカーなしで楽しむ伊豆急下田の旅！特急踊り子直通、伊豆急行フリーきっぷ、東海バスを活用して白浜大浜海岸、ペリーロードのレトロカフェ、下田海中水族館、駅前＆海一望の温泉宿を満喫する完全ガイド。",
+    "url": "https://croud-travel.pages.dev/izu-shimoda-car-free-travel-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【伊豆・下田 車なし観光 1泊2日モデルコース】伊豆急行＆路線バスで巡る白浜海岸・ペリーロード・金目鯛旅 ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/izu-shimoda-car-free-travel-guide/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16 font-sans text-slate-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション（Cyan & Ocean Blue Palette） */}
       <section className="relative rounded-3xl overflow-hidden bg-gradient-to-br from-cyan-600 via-sky-600 to-blue-800 text-white p-8 md:p-14 shadow-2xl">
         <div className="absolute top-0 right-0 w-96 h-96 bg-cyan-300/20 rounded-full blur-3xl pointer-events-none" />
@@ -464,6 +489,8 @@ export default function IzuShimodaCarFreeTravelGuidePage() {
           </Link>
         </div>
       </section>
-    </div>
+    
+      <HubRelatedPosts currentSlug="izu-shimoda-car-free-travel-guide" />
+</div>
   );
 }

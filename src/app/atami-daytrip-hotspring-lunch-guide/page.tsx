@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -76,8 +77,32 @@ export default function AtamiDaytripHotspringLunchPage() {
     }
   ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【熱海 日帰り温泉 ランチ付きおすすめ】相模湾一望オーシャンビュー露天風呂＆極上海鮮丼日帰りプラン ｜ 日本全国・旅宿クラウド",
+    "description": "東京から50分の熱海で楽しむ日帰り温泉ランチ！相模湾を一望する絶景インフィニティ露天風呂、金目鯛煮付け＆朝獲れ地魚海鮮丼ランチがセットになったホテルプラン徹底比較。",
+    "url": "https://croud-travel.pages.dev/atami-daytrip-hotspring-lunch-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【熱海 日帰り温泉 ランチ付きおすすめ】相模湾一望オーシャンビュー露天風呂＆極上海鮮丼日帰りプラン ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/atami-daytrip-hotspring-lunch-guide/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16 font-sans text-slate-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション（Orange Palette） */}
       <section className="relative rounded-3xl overflow-hidden bg-gradient-to-tr from-amber-600 via-orange-500 to-rose-500 text-white p-8 md:p-14 shadow-2xl">
         <div className="absolute top-0 right-0 w-96 h-96 bg-white/10 rounded-full blur-3xl pointer-events-none" />
@@ -392,6 +417,8 @@ export default function AtamiDaytripHotspringLunchPage() {
           </li>
         </ul>
       </section>
-    </div>
+    
+      <HubRelatedPosts currentSlug="atami-daytrip-hotspring-lunch-guide" />
+</div>
   );
 }

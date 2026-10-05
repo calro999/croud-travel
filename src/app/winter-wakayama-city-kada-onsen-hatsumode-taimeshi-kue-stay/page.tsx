@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -191,6 +192,28 @@ export default function WakayamaCityPage() {
           }
         }))
       }
+    ]
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【11・12・1月和歌山加太】冬の日前神宮新春開運初詣＆紀淡海峡夕陽絶景！加太温泉名湯と冬の天然真鯛・幻のクエに寛ぐ名宿5選",
+    "description": "冬の和歌山・加太エリアは、紀淡海峡の彼方に沈む鮮やかな夕陽と友ヶ島のシルエットが旅情をかきたて、神代の歴史を誇る紀伊国一之宮「日前神宮・國懸神宮」の新春開運初詣で新年を迎える特別な季節。11月下旬の晩秋から1月にかけて、一本釣りで知られる加太の寒真鯛（鯛しゃぶ・鯛釜飯）や紀州沖の幻の高級魚・天然本クエ鍋、極上の熊野牛が旬を迎えます。美肌効果抜群のとろみある重曹泉・加太温泉に浸かり、徳川御三家の城下町の歴史と海の幸に酔いしれる冬の贅沢旅。楽天APIから最新取得した信頼の名宿5選を徹底特集します。",
+    "url": "https://croud-travel.pages.dev/winter-wakayama-city-kada-onsen-hatsumode-taimeshi-kue-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【11・12・1月和歌山加太】冬の日前神宮新春開運初詣＆紀淡海峡夕陽絶景！加太温泉名湯と冬の天然真鯛・幻のクエに寛ぐ名宿5選", "item": "https://croud-travel.pages.dev/winter-wakayama-city-kada-onsen-hatsumode-taimeshi-kue-stay/" }
     ]
   };
 
@@ -551,7 +574,9 @@ export default function WakayamaCityPage() {
               <span className="font-bold text-slate-900 mb-1">【全国】冬の厳選温泉＆旬グルメ特集一覧へ</span>
               <span className="text-xs text-slate-500">11月・12月・1月に訪れたい日本各地の名宿・絶景旅ガイド</span>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-wakayama-city-kada-onsen-hatsumode-taimeshi-kue-stay" />
+</div>
         </section>
       </main>
     </article>

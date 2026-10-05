@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -67,6 +68,28 @@ const HOTEL_DATA = {
 };
 
 export default function FeatureArticlePage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "上高地・大正池の黄金カラマツ黄葉＆初冠雪の穂高連峰！白骨温泉乳白秘湯×ふるさと納税完全ガイド【2026年最新秋旅】長野",
+    "description": "10月中旬〜11月上旬に日本屈指の山岳景観が黄金に輝く「信州・上高地」。大正池や田代湿原・河童橋を彩るカラマツ黄葉と冠雪した穂高連峰の絶景、3日入れば3年風邪をひかないと言われる名湯「白骨温泉 小梨の湯 笹屋」「お宿つるや」「白船グランドホテル」で信州プレミアム牛肉や岩魚塩焼きを堪能。ふるさと納税で実質2,000円。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-kamikochi-karamatsu-shirahone-onsen-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "上高地・大正池の黄金カラマツ黄葉＆初冠雪の穂高連峰！白骨温泉乳白秘湯×ふるさと納税完全ガイド【2026年最新秋旅】長野", "item": "https://croud-travel.pages.dev/furusato-tax-kamikochi-karamatsu-shirahone-onsen-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -520,7 +543,9 @@ export default function FeatureArticlePage() {
                 奈良県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-kamikochi-karamatsu-shirahone-onsen-stay" />
+</div>
         </section>
 
       </main>

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -109,6 +110,7 @@ export default function FeaturePage() {
               features: ["秩父の名所巡りに便利！岩風呂につかっ���疲れを癒す豊かな自然を存分に味わえる清流沿いの寛ぎの宿", "秩父市荒川上田野565", "楽天アワード受賞歴"]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-stone-50 via-white to-stone-50 text-stone-800">
@@ -664,7 +666,9 @@ export default function FeaturePage() {
                 福島県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-chichibu-icicle-misotsuchi-stay" />
+</div>
         </section>
 
       </main>

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -311,6 +312,7 @@ export default function GifuNagaragawaWinterPage() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-900 leading-relaxed font-sans pb-20">
@@ -657,7 +659,9 @@ export default function GifuNagaragawaWinterPage() {
                 秀吉ゆかりの総鉄泉と初冬の琵琶湖、冬の味覚の王様天然真鴨鍋を味わう旅。
               </p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-gifu-nagaragawa-onsen-gihujo-hidagyu-ayu-stay" />
+</div>
         </section>
 
       </main>

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -41,6 +42,7 @@ export default function ArticlePage() {
     dateModified: '2026-09-11T02:40:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/sendai-solo-business-onsen-gourmet-stay',
   };
+
 
   return (
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
@@ -536,7 +538,9 @@ export default function ArticlePage() {
                 山形県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="sendai-solo-business-onsen-gourmet-stay" />
+</div>
         </section>
 
       </main>

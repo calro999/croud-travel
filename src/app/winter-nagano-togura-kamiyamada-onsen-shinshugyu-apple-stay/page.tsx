@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -351,6 +352,7 @@ export default function NaganoToguraKamiyamadaWinterPage() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-900 leading-relaxed font-sans">
@@ -720,7 +722,9 @@ export default function NaganoToguraKamiyamadaWinterPage() {
                 初冬の澄み渡る満天の星とpH9.7の超アルカリ性美肌温泉、南信州牛を味わう旅。
               </p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-nagano-togura-kamiyamada-onsen-shinshugyu-apple-stay" />
+</div>
         </section>
 
       </main>

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -27,6 +28,20 @@ export default function FurusatoDogFriendlyResortStayPage() {
       { '@type': 'ListItem', position: 2, name: '旅行節約ハブ', item: baseUrl + '/travel-savings-guide' },
       { '@type': 'ListItem', position: 3, name: '愛犬同伴ドッグラン付き極上リゾート特集', item: baseUrl + '/furusato-tax-dog-friendly-dogrun-luxury-resort-stay' },
     ],
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "愛犬とずっと一緒！天然芝ドッグラン＆愛犬同伴温泉リゾート名宿×ふるさと納税完全ガイド【2026年最新】伊豆高原・那須高原・びわ湖長浜",
+    "description": "大切な家族である愛犬と我慢なしの贅沢ステイ！バリ風ラグジュアリー温泉と愛犬用ビュッフェ・室内外ドッグランを誇る「ウブドの森 伊豆高原」、那須の森に佇む全室離れコテージと広大な天然芝ドッグラン「ホテルフォレストヒルズ那須」、全室レイクビュー＆客室温泉露天風呂付き最高峰ドッグリゾート「レジーナリゾートびわ湖長浜」。愛犬用アメニティ完備の名宿を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-dog-friendly-dogrun-luxury-resort-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -556,7 +571,9 @@ export default function FurusatoDogFriendlyResortStayPage() {
                 長野県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-dog-friendly-dogrun-luxury-resort-stay" />
+</div>
         </section>
 
       </main>

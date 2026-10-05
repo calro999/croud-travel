@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FeatureArticlePage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "開湯930年の赤湯温泉と南陽スカイパーク南陽盆地紅葉！米沢牛と名湯宿×ふるさと納税完全ガイド【2026年最新秋旅】山形",
+    "description": "10月下旬〜11月中旬に見頃を迎える置賜盆地と「赤湯温泉（あかゆおんせん）」。烏帽子山公園の紅葉ライトアップや十分一山からの雲海パノラマ、上杉家ゆかりの老舗旅館「御殿守」「森の湯」「丹波館」で日本三大和牛「米沢牛」すき焼きや赤湯ワイン・名物辛味噌ラーメンを堪能。楽天ふるさと納税で実質2,000円。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-akayu-wine-autumn-leaves-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "開湯930年の赤湯温泉と南陽スカイパーク南陽盆地紅葉！米沢牛と名湯宿×ふるさと納税完全ガイド【2026年最新秋旅】山形", "item": "https://croud-travel.pages.dev/furusato-tax-akayu-wine-autumn-leaves-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -508,7 +531,9 @@ export default function FeatureArticlePage() {
                 北海道の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-akayu-wine-autumn-leaves-stay" />
+</div>
         </section>
 
       </main>

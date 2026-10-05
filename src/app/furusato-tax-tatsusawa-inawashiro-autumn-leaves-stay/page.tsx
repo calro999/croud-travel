@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -67,6 +68,28 @@ const HOTEL_DATA = {
 };
 
 export default function FeatureArticlePage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "猪苗代・達沢不動滝の名瀑紅葉＆猪苗代湖！萩姫伝説の磐梯熱海温泉美肌宿×ふるさと納税完全ガイド【2026年最新秋旅】福島",
+    "description": "10月中旬〜11月上旬に原生林の巨木と白糸のような滝が錦秋に染まる名瀑「福島・達沢不動滝」。磐梯山と猪苗代湖を望む秋の爽快ドライブと、開湯800年・萩姫伝説が残る「八景園」「萩姫の湯 栄楽館」「湯のやど楽山」でpH9.1のとろとろ美肌温泉と会津牛・極上馬刺し・新米コシヒカリ会席を堪能。ふるさと納税で実質2,000円。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-tatsusawa-inawashiro-autumn-leaves-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "猪苗代・達沢不動滝の名瀑紅葉＆猪苗代湖！萩姫伝説の磐梯熱海温泉美肌宿×ふるさと納税完全ガイド【2026年最新秋旅】福島", "item": "https://croud-travel.pages.dev/furusato-tax-tatsusawa-inawashiro-autumn-leaves-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -520,7 +543,9 @@ export default function FeatureArticlePage() {
                 福井県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-tatsusawa-inawashiro-autumn-leaves-stay" />
+</div>
         </section>
 
       </main>

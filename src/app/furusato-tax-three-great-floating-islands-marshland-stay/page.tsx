@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -27,6 +28,20 @@ export default function FurusatoRound64ArticlePage() {
       { '@type': 'ListItem', position: 2, name: '旅行節約ハブ', item: baseUrl + '/travel-savings-guide' },
       { '@type': 'ListItem', position: 3, name: '日本三大浮島湿原・神秘の自然と高原リトリート特集', item: baseUrl + '/furusato-tax-three-great-floating-islands-marshland-stay' },
     ],
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三大浮島湿原＆風に揺れる神秘の浮島と高原温泉リゾート名宿×ふるさと納税完全ガイド【2026年最新】尾瀬・大沼・深泥池",
+    "description": "池や湖の泥炭層が水面に浮かび、風や水位で位置を変える神秘の自然現象「日本三大浮島湿原」（群馬福島新潟・尾瀬ヶ原、山形朝日町・大沼浮島、京都北山・深泥池）。ミズバショウやニッコウキスゲの群生、氷河期の生き残り遺存種、静寂に包まれた高原リゾート。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ高山・湿原リトリート完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-great-floating-islands-marshland-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -538,7 +553,9 @@ export default function FurusatoRound64ArticlePage() {
                 福井県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-three-great-floating-islands-marshland-stay" />
+</div>
         </section>
 
       </main>

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -67,6 +68,28 @@ const HOTEL_DATA = {
 };
 
 export default function FeatureArticlePage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "伊香保温泉の河鹿橋もみじライトアップ＆365段石段街！黄金の湯宿×ふるさと納税完全ガイド【2026年最新秋旅】群馬",
+    "description": "10月下旬〜11月中旬に真っ赤に染まる名所「伊香保温泉 河鹿橋」。朱塗りの太鼓橋と紅葉ライトアップの幻想的なコントラスト、365段の石段街の足湯・射的巡りと、鉄分豊富なにごり湯「黄金の湯」を誇る「旅館 さくらい」「森秋旅館」「洋風旅館ぴのん」で上州牛・上州麦豚会席を堪能。ふるさと納税で実質2,000円。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-ikaho-kajikabashi-autumn-leaves-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "伊香保温泉の河鹿橋もみじライトアップ＆365段石段街！黄金の湯宿×ふるさと納税完全ガイド【2026年最新秋旅】群馬", "item": "https://croud-travel.pages.dev/furusato-tax-ikaho-kajikabashi-autumn-leaves-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -520,7 +543,9 @@ export default function FeatureArticlePage() {
                 三重県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-ikaho-kajikabashi-autumn-leaves-stay" />
+</div>
         </section>
 
       </main>

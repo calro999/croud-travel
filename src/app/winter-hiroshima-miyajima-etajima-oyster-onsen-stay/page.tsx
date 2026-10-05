@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -257,6 +258,7 @@ export default function HiroshimaMiyajimaOysterWinterPage() {
     "a": "グルメの筆頭は大粒の「広島牡蠣」と、ふっくら香ばしく焼き上げた秘伝タレの「宮島穴子めし」。また、広島名物の「お好み焼き（広島風）」や、きめ細やかなサシが入った「広島牛」の鉄板焼きも外せません。お土産には、定番のもみじ饅頭はもちろん、もちもち食感の「生もみじ」や、宮島表参道商店街で食べ歩きできる「揚げもみじ」、大粒牡蠣を燻製にしてオリーブオイルに漬けた「牡蠣のオイル漬け」、江田島産のエキストラバージンオリーブオイル、伝統工芸の「宮島杓子（しゃもじ）」や「熊野筆」、銘酒「賀茂鶴」「雨後の月」がおすすめです。"
   }
 ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-rose-100 selection:text-rose-900 pb-20">
@@ -645,7 +647,9 @@ export default function HiroshimaMiyajimaOysterWinterPage() {
               <span className="text-rose-700 font-bold block text-[10px]">香川・小豆島温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">寒霞渓の冬景色とオリーブ牛ステーキ・瀬戸内海を一望する海辺リゾート</p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-hiroshima-miyajima-etajima-oyster-onsen-stay" />
+</div>
         </section>
 
       </main>

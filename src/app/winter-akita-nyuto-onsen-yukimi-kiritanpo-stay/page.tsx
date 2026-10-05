@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -241,6 +242,7 @@ export default function NyutoWinterPage() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-amber-700 selection:text-white">
@@ -845,7 +847,9 @@ export default function NyutoWinterPage() {
               <Link href="/prefectures/miyagi" className="px-3 py-1.5 bg-stone-100 hover:bg-emerald-100 text-stone-700 hover:text-emerald-900 rounded-lg transition-colors font-medium">宮城県の宿一覧</Link>
               <Link href="/prefectures/fukushima" className="px-3 py-1.5 bg-stone-100 hover:bg-emerald-100 text-stone-700 hover:text-emerald-900 rounded-lg transition-colors font-medium">福島県の宿一覧</Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-akita-nyuto-onsen-yukimi-kiritanpo-stay" />
+</div>
         </section>
 
       </main>

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -257,6 +258,7 @@ export default function ShigaOmihachimanHikoneWinterPage() {
     "a": "滋賀県は北部は豪雪地帯ですが、近江八幡や彦根など湖東エリアは太平洋側と日本海側の気候の境目に位置します。普段は積雪がない日も多いですが、強い冬型の気圧配置（寒波）になると12月下旬〜1月にかけて10〜20cm以上の積雪や路面凍結が発生することがあります。車で旅行する場合は必ずスタッドレスタイヤ（冬用タイヤ）の装着車を利用してください。彦根城や近江八幡市街地へはJR東海道本線（琵琶湖線）の新快速が頻繁に運行しているため、電車を利用した鉄道旅も非常に快適で安心です。"
   }
 ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-indigo-100 selection:text-indigo-900 pb-20">
@@ -666,7 +668,9 @@ export default function ShigaOmihachimanHikoneWinterPage() {
               <span className="text-indigo-700 font-bold block text-[10px]">奈良・洞川温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">大峯山の雪景色とノスタルジックな行者参道・本場ぼたん鍋の宿</p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-shiga-omihachiman-hikone-snow-castle-omigyu-stay" />
+</div>
         </section>
 
       </main>

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -311,6 +312,7 @@ export default function NagasakiObamaWinterPage() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-900 leading-relaxed font-sans pb-20">
@@ -657,7 +659,9 @@ export default function NagasakiObamaWinterPage() {
                 辰野金吾設計の楼門と1300年の美肌湯、極上佐賀牛すき焼きを味わう冬旅。
               </p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-nagasaki-obama-onsen-sunset-crab-champon-wagyu-stay" />
+</div>
         </section>
 
       </main>

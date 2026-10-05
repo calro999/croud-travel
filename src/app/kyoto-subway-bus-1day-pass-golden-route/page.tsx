@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -41,8 +42,32 @@ function loadHotels(): Hotel[] {
 export default function KyotoSubwayBusPassPage() {
   const hotels = loadHotels();
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【地下鉄・バス1日券で巡る京都観光】1,100円で元を取る黄金ルート＆市バス大渋滞を完全回避する裏ワザ ｜ 日本全国・旅宿クラウド",
+    "description": "バス一日券廃止後の新定番「地下鉄・バス1日券」（1,100円）！地下鉄（220円〜）と市バス（230円）を組み合わせ、京都駅周辺の市バス長蛇の列を回避して清水寺・二条城・嵐山・南禅寺を最速で回る時短モデルコース。",
+    "url": "https://croud-travel.pages.dev/kyoto-subway-bus-1day-pass-golden-route/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【地下鉄・バス1日券で巡る京都観光】1,100円で元を取る黄金ルート＆市バス大渋滞を完全回避する裏ワザ ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/kyoto-subway-bus-1day-pass-golden-route/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* Hero Header */}
       <header className="relative bg-gradient-to-br from-teal-900 via-emerald-800 to-teal-950 text-white py-16 px-4 sm:px-6 lg:px-8">
         <div className="max-w-4xl mx-auto">
@@ -585,6 +610,8 @@ export default function KyotoSubwayBusPassPage() {
           <p>※掲載の運賃および施設料金は改定される場合があります。最新の運行情報・料金は京都市交通局公式サイトをご確認ください。</p>
         </div>
       </footer>
-    </div>
+    
+      <HubRelatedPosts currentSlug="kyoto-subway-bus-1day-pass-golden-route" />
+</div>
   );
 }

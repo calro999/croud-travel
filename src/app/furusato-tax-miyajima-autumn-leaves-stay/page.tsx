@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FeatureArticlePage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "世界遺産・安芸の宮島と紅葉谷公園の錦秋もみじ！厳島神社＆宮島温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】広島",
+    "description": "11月中旬〜11月下旬に見頃を迎える日本三景・安芸の宮島の「紅葉谷公園（もみじだにこうえん）」。大鳥居と社殿が浮かぶ厳島神社の夕景、宮島島内＆対岸の温泉宿「錦水館」「離れの宿 IBUKU」「グランヴィリオホテル宮島 和蔵」で旬の広島牡蠣や穴子飯・広島牛を堪能。ふるさと納税で実質2,000円。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-miyajima-autumn-leaves-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "世界遺産・安芸の宮島と紅葉谷公園の錦秋もみじ！厳島神社＆宮島温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】広島", "item": "https://croud-travel.pages.dev/furusato-tax-miyajima-autumn-leaves-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -508,7 +531,9 @@ export default function FeatureArticlePage() {
                 山口県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-miyajima-autumn-leaves-stay" />
+</div>
         </section>
 
       </main>

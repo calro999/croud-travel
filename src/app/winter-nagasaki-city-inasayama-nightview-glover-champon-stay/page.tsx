@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -258,6 +259,7 @@ export default function NagasakiCityInasayamaWinterPage() {
     "a": "稲佐山山頂へは、山麓の淵神社駅から「長崎ロープウェイ」を利用するか、中腹駐車場から「スロープカー」に乗車してアクセスするのが人気です。また車やタクシーで山頂展望台へ直接行くことも可能です。山頂は標高333mあり、海からの風が吹き抜けるため、冬の夜間は市街地よりも体感温度が3〜5度低くなります。夜景鑑賞には厚手のダウンジャケット、手袋、マフラーなどの防寒装備が必須です。中腹の夜景ホテルに宿泊すれば、部屋の窓や温かい露天風呂から寒さを気にせず夜景を満喫できます。"
   }
 ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-amber-100 selection:text-amber-900 pb-20">
@@ -699,7 +701,9 @@ export default function NagasakiCityInasayamaWinterPage() {
                 冬の函館山100万ドルの雪夜景といさり火・湯の川温泉の海鮮名宿
               </span>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-nagasaki-city-inasayama-nightview-glover-champon-stay" />
+</div>
         </section>
       </main>
     </article>

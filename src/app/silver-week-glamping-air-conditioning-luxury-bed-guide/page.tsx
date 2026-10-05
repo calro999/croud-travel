@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -131,6 +132,28 @@ export default function SilverWeekGlampingAirConditioningBedPage() {
         "text": faq.answer,
       },
     })),
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【水回り完全個別＆シモンズ製ベッド】ホテル同等以上の快適さ！潔癖派も安心の高規格グランピング ｜ 日本全国・旅宿クラウド",
+    "description": "キャンプ嫌い・虫嫌い・共用トイレが苦手な女性も大満足！客室専用のシャワールーム・温水洗浄便座・冷暖房完備、一流ホテル採用のシモンズ製高級ベッドで快眠できる高規格グランピング厳選。",
+    "url": "https://croud-travel.pages.dev/silver-week-glamping-air-conditioning-luxury-bed-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【水回り完全個別＆シモンズ製ベッド】ホテル同等以上の快適さ！潔癖派も安心の高規格グランピング ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/silver-week-glamping-air-conditioning-luxury-bed-guide/" }
+    ]
   };
 
   return (
@@ -406,6 +429,8 @@ export default function SilverWeekGlampingAirConditioningBedPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="silver-week-glamping-air-conditioning-luxury-bed-guide" />
+</div>
   );
 }

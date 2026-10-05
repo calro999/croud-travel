@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -67,6 +68,28 @@ const HOTEL_DATA = {
 };
 
 export default function FeatureArticlePage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "八甲田山ロープウェーの錦秋パノラマ＆酸ヶ湯温泉ヒバ千人風呂！秘湯宿×ふるさと納税完全ガイド【2026年最新秋旅】青森",
+    "description": "9月下旬〜10月下旬に日本で最も早い錦秋を迎える青森の霊峰「八甲田山」。ロープウェーから見下ろす360度の大紅葉絨毯と、総ヒバ造りの名物千人風呂を誇る「ホテル城ヶ倉」「酸ヶ湯温泉旅館」「蔦温泉旅館」で青森倉石牛や十和田湖ヒメマス・山菜料理を堪能。ふるさと納税で実質2,000円。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-hakkoda-sukayu-autumn-leaves-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "八甲田山ロープウェーの錦秋パノラマ＆酸ヶ湯温泉ヒバ千人風呂！秘湯宿×ふるさと納税完全ガイド【2026年最新秋旅】青森", "item": "https://croud-travel.pages.dev/furusato-tax-hakkoda-sukayu-autumn-leaves-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -520,7 +543,9 @@ export default function FeatureArticlePage() {
                 山梨県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-hakkoda-sukayu-autumn-leaves-stay" />
+</div>
         </section>
 
       </main>

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -255,6 +256,7 @@ export default function AkoOnsenWinterFeature() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800 pb-20">
@@ -634,7 +636,9 @@ export default function AkoOnsenWinterFeature() {
               <span className="text-xs text-sky-300 font-semibold block mb-1">京都・夕日ヶ浦温泉</span>
               <h3 className="text-sm font-bold group-hover:text-sky-200 transition">夕陽百選の浜詰海岸と11月解禁松葉ガニ・美人の湯に癒やされる宿</h3>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-hyogo-ako-onsen-sakoshi-oyster-infinity-stay" />
+</div>
         </section>
 
       </main>

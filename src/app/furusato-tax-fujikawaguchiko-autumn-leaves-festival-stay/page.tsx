@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoFujiKawaguchikoAutumnLeavesStayPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "富士山と燃えるような紅葉の競演！富士河口湖紅葉まつり・もみじ回廊＆絶景温泉名宿×ふるさと納税完全ガイド【2026年最新秋旅】 | 旅宿クラウド",
+    "description": "10月下旬〜11月下旬に開催される日本屈指の秋イベント「富士河口湖紅葉まつり」。約60本の大古木モミジが織りなす「もみじ回廊」の幻想的なライトアップと、富士山を正面に望む極上温泉！「大池ホテル」「四季の宿 富士山」「ホテル鐘山苑」など厳選宿を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-fujikawaguchiko-autumn-leaves-festival-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "富士山と燃えるような紅葉の競演！富士河口湖紅葉まつり・もみじ回廊＆絶景温泉名宿×ふるさと納税完全ガイド【2026年最新秋旅】 | 旅宿クラウド", "item": "https://croud-travel.pages.dev/furusato-tax-fujikawaguchiko-autumn-leaves-festival-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -582,7 +605,9 @@ export default function FurusatoFujiKawaguchikoAutumnLeavesStayPage() {
                 長野県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-fujikawaguchiko-autumn-leaves-festival-stay" />
+</div>
         </section>
 
       </main>

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import type { Metadata } from 'next';
@@ -254,6 +255,7 @@ export default function ToyamaTakaokaImizuWinterPage() {
       a: "【1日目】北陸新幹線新高岡駅または高岡駅に到着 → 国宝「高岡瑞龍寺」で新春初詣＆美しい禅宗伽藍見学 → 高岡大仏参拝と金屋町の石畳通りで高岡銅器・錫クラフト散策 → 射水市へ移動し「日本のベニス」内川のノスタルジックな港町散歩 → 新湊漁港で迫力の「昼セリ」見学＆茹でたて紅ズワイガニのランチ → 雨晴温泉（磯はなび等）にチェックイン → 露天風呂から富山湾と立山連峰の夕景を望む → 夕食に「富山湾寒ブリ＆紅ズワイガニ会席」を満喫。【2日目】早朝、雨晴海岸で「気嵐」と白銀の立山連峰の奇跡の日の出絶景を鑑賞 → 朝風呂と朝食 → 道の駅雨晴でお土産購入 → 高岡駅でお土産（ます寿し、白えびせんべい）を購入して帰路へ。"
     }
   ];
+
 
   return (
     <>
@@ -605,7 +607,9 @@ export default function ToyamaTakaokaImizuWinterPage() {
             </div>
           </section>
         </main>
-      </div>
+      
+      <HubRelatedPosts currentSlug="winter-toyama-takaoka-imizu-zuiryuji-hatsumode-shinminato-crab-stay" />
+</div>
     </>
   );
 }

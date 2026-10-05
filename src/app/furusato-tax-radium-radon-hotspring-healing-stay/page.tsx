@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -27,6 +28,20 @@ export default function FurusatoRadiumRadonHotspringStayPage() {
       { '@type': 'ListItem', position: 2, name: '旅行節約ハブ', item: baseUrl + '/travel-savings-guide' },
       { '@type': 'ListItem', position: 3, name: 'ラジウム・ラドン名湯温泉＆湯治名宿特集', item: baseUrl + '/furusato-tax-radium-radon-hotspring-healing-stay' },
     ],
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "奇跡のホルミシス効果！世界屈指のラジウム・ラドン名湯温泉＆本格湯治名旅館×ふるさと納税完全ガイド【2026年最新】鳥取三朝・愛知猿投・新潟村杉",
+    "description": "「吸ってよし、飲んでよし、浸かってよし」と称される奇跡の放射能泉（ラドン・ラジウム温泉）！世界屈指の高濃度ラドン含有量を誇る三朝温泉の最高峰「依山楼 岩崎」、医者がすすめる奇跡の天然ラドン温泉と名水飲泉「猿投温泉 癒しの宿 金泉閣」、四千坪の大庭園と日本最大級のラジウム温泉露天風呂を誇る新潟「村杉温泉 風雅の宿 長生館」。免疫力を高め細胞を活性化させる至高の湯治リトリートを、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-radium-radon-hotspring-healing-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -556,7 +571,9 @@ export default function FurusatoRadiumRadonHotspringStayPage() {
                 香川県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-radium-radon-hotspring-healing-stay" />
+</div>
         </section>
 
       </main>

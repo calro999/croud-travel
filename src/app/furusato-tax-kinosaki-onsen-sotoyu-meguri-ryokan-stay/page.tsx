@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoKinosakiSotoyuMeguriStayPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "浴衣と下駄で七つの外湯を巡る！城崎温泉の柳並木通り＆最高峰但馬牛・カニ名宿×ふるさと納税完全攻略ガイド【2026年最新】招月庭・小宿縁・つちや旅館",
+    "description": "「駅は玄関、道路は廊下、宿は客室、外湯は大浴場」！浴衣に下駄を鳴らして巡る城崎温泉の七湯。「西村屋ホテル招月庭」「但馬牛極みの宿 小宿 縁」「城崎温泉 つちや旅館」を、兵庫県豊岡市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。外湯無料パス、五万坪森林庭園、但馬牛ステーキ、カニ料理を満喫。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-kinosaki-onsen-sotoyu-meguri-ryokan-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "浴衣と下駄で七つの外湯を巡る！城崎温泉の柳並木通り＆最高峰但馬牛・カニ名宿×ふるさと納税完全攻略ガイド【2026年最新】招月庭・小宿縁・つちや旅館", "item": "https://croud-travel.pages.dev/furusato-tax-kinosaki-onsen-sotoyu-meguri-ryokan-stay/" }
+    ]
+  };
+
   return (
     <article className="max-w-5xl mx-auto px-4 py-8 text-gray-800 leading-relaxed font-sans">
       {/* パンくずリスト */}
@@ -346,7 +369,9 @@ export default function FurusatoKinosakiSotoyuMeguriStayPage() {
           >
             ▸ 【草津温泉 湯畑散策＆名湯名門宿×ふるさと納税】櫻井・一井・奈良屋
           </Link>
-        </div>
+        
+      <HubRelatedPosts currentSlug="furusato-tax-kinosaki-onsen-sotoyu-meguri-ryokan-stay" />
+</div>
       </section>
     </article>
   );

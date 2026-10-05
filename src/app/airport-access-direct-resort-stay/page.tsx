@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -56,8 +57,32 @@ export default function TransitStyleHubPage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【空港直行＆空港至近リゾート宿】羽田・成田・関空・福岡・那覇・千歳 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "フライト前後も快適な空港アクセス特化温泉宿！羽田エアポートガーデン展望温泉、新千歳空港内天然温泉、関空対岸オーシャンビュー、福岡空港至近の博多温泉、那覇空港から直行の瀬長島ウミカジテラス温泉宿を徹底解説。",
+    "url": "https://croud-travel.pages.dev/airport-access-direct-resort-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【空港直行＆空港至近リゾート宿】羽田・成田・関空・福岡・那覇・千歳 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/airport-access-direct-resort-stay/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-stone-900 via-rose-950 to-amber-950 text-white p-8 md:p-14 shadow-xl border border-white/10">
         <div className="max-w-3xl space-y-4">
@@ -203,6 +228,8 @@ export default function TransitStyleHubPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="airport-access-direct-resort-stay" />
+</div>
   );
 }

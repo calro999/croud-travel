@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -241,6 +242,7 @@ export default function OnogawaWinterPage() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-rose-700 selection:text-white">
@@ -722,7 +724,9 @@ export default function OnogawaWinterPage() {
               <Link href="/prefectures/aomori" className="px-3 py-1.5 bg-stone-100 hover:bg-rose-100 text-stone-700 hover:text-rose-900 rounded-lg transition-colors font-medium">青森県の宿一覧</Link>
               <Link href="/prefectures/niigata" className="px-3 py-1.5 bg-stone-100 hover:bg-rose-100 text-stone-700 hover:text-rose-900 rounded-lg transition-colors font-medium">新潟県の宿一覧</Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-yamagata-onogawa-yonezawa-beef-stay" />
+</div>
         </section>
 
       </main>

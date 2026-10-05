@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -127,6 +128,28 @@ export default function KyotoEarlyMorningGuidePage() {
       desc: "通常は観光客でごった返す産寧坂・二寧坂も、朝9時前なら静寂そのもの。澄んだ空気の中で記念撮影が自由自在！"
     }
   ];
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【京都 夜行バス早朝到着の過ごし方】朝6時から入れる銭湯・天然温泉＆京都名物「朝粥」完全ガイド",
+    "description": "京都駅に朝6時台に到着した後の救済マニュアル！京都タワー大浴場や駅前天然温泉での朝風呂、早朝から並ばずに食べられる老舗の朝粥・湯豆腐・喫茶モーニング、人混みゼロの早朝清水寺参拝ルート。",
+    "url": "https://croud-travel.pages.dev/kyoto-night-bus-early-morning-onsen-breakfast-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【京都 夜行バス早朝到着の過ごし方】朝6時から入れる銭湯・天然温泉＆京都名物「朝粥」完全ガイド", "item": "https://croud-travel.pages.dev/kyoto-night-bus-early-morning-onsen-breakfast-guide/" }
+    ]
+  };
 
   return (
     <main className="min-h-screen bg-rose-50/40 text-slate-800 font-sans pb-20">
@@ -559,7 +582,9 @@ export default function KyotoEarlyMorningGuidePage() {
                 栃木県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="kyoto-night-bus-early-morning-onsen-breakfast-guide" />
+</div>
         </section>
 
       </main>

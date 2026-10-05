@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -112,8 +113,32 @@ export default function Page() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三大眼鏡橋＆石造アーチの造形美・川風感じる水辺宿×ふるさと納税完全ガイド【2026年最新】長崎眼鏡橋・諫早眼鏡橋・熊本霊台橋",
+    "description": "石工たちの知恵と技術が生んだアーチの奇跡！長崎「長崎眼鏡橋」中島川の水面に丸い眼鏡を描く日本最古の石橋とホテルモントレ長崎、長崎「諫早眼鏡橋」本明川の洪水に耐えた雄大な二連石橋と喜々津ステーションホテル、熊本美里「霊台橋」単一アーチ橋として日本最大級の緑川の名橋と美里・熊本ステイ。川辺の散策と名物グルメ、温泉を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-great-stone-bridges-heritage-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "日本三大眼鏡橋＆石造アーチの造形美・川風感じる水辺宿×ふるさと納税完全ガイド【2026年最新】長崎眼鏡橋・諫早眼鏡橋・熊本霊台橋", "item": "https://croud-travel.pages.dev/furusato-tax-three-great-stone-bridges-heritage-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずリスト */}
       <nav className="bg-white border-b border-slate-200 py-3 px-4 text-xs text-slate-500">
         <div className="max-w-5xl mx-auto flex items-center space-x-2">
@@ -558,6 +583,8 @@ export default function Page() {
           <p>ふるさと納税クーポンの利用条件や最新の空室状況は楽天トラベル公式サイトをご確認ください。</p>
         </div>
       </footer>
-    </div>
+    
+      <HubRelatedPosts currentSlug="furusato-tax-three-great-stone-bridges-heritage-stay" />
+</div>
   );
 }

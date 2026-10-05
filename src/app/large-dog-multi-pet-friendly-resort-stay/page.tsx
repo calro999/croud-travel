@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -56,8 +57,32 @@ export default function PetDogResortHubPage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【大型犬・多頭飼い歓迎リゾート】ノーリード・広々客室＆超大型犬OK 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "ゴールデンやラブラドール、多頭飼いも大歓迎！大型犬・超大型犬・頭数制限なし宿完全特化！広々80平米以上の客室、頑丈なフェンス、頭数追加無料プラン、大型犬専用ドッグラン＆足洗い場完備リゾートを徹底解説。",
+    "url": "https://croud-travel.pages.dev/large-dog-multi-pet-friendly-resort-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【大型犬・多頭飼い歓迎リゾート】ノーリード・広々客室＆超大型犬OK 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/large-dog-multi-pet-friendly-resort-stay/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-amber-950 via-emerald-950 to-stone-900 text-white p-8 md:p-14 shadow-xl border border-amber-400/20">
         <div className="max-w-3xl space-y-4">
@@ -203,6 +228,8 @@ export default function PetDogResortHubPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="large-dog-multi-pet-friendly-resort-stay" />
+</div>
   );
 }

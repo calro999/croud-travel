@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -67,6 +68,28 @@ const HOTEL_DATA = {
 };
 
 export default function FeatureArticlePage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "箱根強羅温泉の登山鉄道紅葉トンネル＆箱根美術館苔庭！白濁にごり湯宿×ふるさと納税完全ガイド【2026年最新秋旅】神奈川",
+    "description": "11月上旬〜下旬に箱根山が錦秋に染まる首都圏屈指の温泉リゾート「箱根強羅温泉」。箱根登山鉄道の紅葉トンネルや箱根美術館の深紅の苔庭散策と、大涌谷源泉の濃厚なにごり湯露天風呂を誇る「のうのう箱根」「瑞の香り」「箱根強羅 白檀」で特選相模牛や小田原鮮魚会席を堪能。ふるさと納税で実質2,000円。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-hakone-gora-autumn-leaves-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "箱根強羅温泉の登山鉄道紅葉トンネル＆箱根美術館苔庭！白濁にごり湯宿×ふるさと納税完全ガイド【2026年最新秋旅】神奈川", "item": "https://croud-travel.pages.dev/furusato-tax-hakone-gora-autumn-leaves-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -520,7 +543,9 @@ export default function FeatureArticlePage() {
                 群馬県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-hakone-gora-autumn-leaves-stay" />
+</div>
         </section>
 
       </main>

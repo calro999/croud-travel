@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -126,6 +127,28 @@ export default function SilverWeekGlampingSoloStayRetreatPage() {
         text: faq.answer,
       },
     })),
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【おひとり様歓迎 ソログランピング】1人泊プラン確約！静寂の森で読書・サウナ・焚き火を楽しむ秋リトリート ｜ 日本全国・旅宿クラウド",
+    "description": "周りの目を気にせず自分だけの時間を満喫するソログランピング特集！1名利用OK・シングル料金設定のある安心施設、静寂に包まれる森の読書スペース、ソロ専用焚き火台、温泉に浸かるリトリート旅完全ガイド。",
+    "url": "https://croud-travel.pages.dev/silver-week-glamping-solo-stay-retreat-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【おひとり様歓迎 ソログランピング】1人泊プラン確約！静寂の森で読書・サウナ・焚き火を楽しむ秋リトリート ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/silver-week-glamping-solo-stay-retreat-guide/" }
+    ]
   };
 
   return (
@@ -387,6 +410,8 @@ export default function SilverWeekGlampingSoloStayRetreatPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="silver-week-glamping-solo-stay-retreat-guide" />
+</div>
   );
 }

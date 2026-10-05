@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import Link from 'next/link';
 import type { Metadata } from 'next';
 import { 
@@ -255,6 +256,7 @@ export default function KanagawaOyamaWinterPage() {
       a: "大山阿夫利神社下社周辺は標高約700mあり、平野部（伊勢原駅周辺）よりも気温が約4〜5度低くなります。冬の防寒対策として風を通さないアウター、マフラー、手袋の着用が必須です。こま参道は362段の階段が続くため、歩きやすいスニーカーを選んでください。マイカーでアクセスする場合、東名厚木ICや新東名伊勢原大山ICが便利ですが、初詣期間のこま参道周辺駐車場（市営第1・第2駐車場）は早朝から満車になります。伊勢原駅周辺のコインパーキングに駐車し、路線バスを利用するパーク＆ライドが賢明です。"
     }
   ];
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800 antialiased">
@@ -643,7 +645,9 @@ export default function KanagawaOyamaWinterPage() {
             <span>•</span>
             <Link href="/posts" className="hover:text-teal-600 underline">記事一覧カタログ</Link>
           </div>
-        </div>
+        
+      <HubRelatedPosts currentSlug="winter-kanagawa-isehara-oyama-afuri-shrine-hatsumode-tofu-tsurumaki-stay" />
+</div>
       </section>
 
       {/* Footer */}

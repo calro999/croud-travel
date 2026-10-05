@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -109,6 +110,7 @@ export default function FeaturePage() {
               features: ["温泉街、川沿いに建つレトロなお宿。源泉掛け流しの露天風呂他に家族湯が３つ。夕食は素材豊かな会席料理。", "阿蘇郡南小国町満願寺6700", "楽天アワード受賞歴"]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-stone-50 via-white to-stone-50 text-stone-800">
@@ -583,7 +585,9 @@ export default function FeaturePage() {
                 福井県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-kumamoto-kurokawa-yuakari-illumination-stay" />
+</div>
         </section>
 
       </main>

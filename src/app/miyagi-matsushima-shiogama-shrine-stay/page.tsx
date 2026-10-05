@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -16,8 +17,32 @@ export const metadata: Metadata = {
 };
 
 export default function Page() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【宮城・松島＆塩竈】日本三景松島クルーズ・塩竈神社＆生マグロ・牡蠣宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "松尾芭蕉も息を呑んだ日本三景「松島湾」の島巡りクルーズ、伊達政宗の美意識が宿る「国宝 瑞厳寺」と五大堂、陸奥国一之宮「鹽竈神社（塩竈神社）」、日本有数の生マグロ水揚げ港・塩竈の極上寿司と冬の松島焼き牡蠣を味わう宿を徹底解説。",
+    "url": "https://croud-travel.pages.dev/miyagi-matsushima-shiogama-shrine-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【宮城・松島＆塩竈】日本三景松島クルーズ・塩竈神社＆生マグロ・牡蠣宿 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/miyagi-matsushima-shiogama-shrine-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-stone-950 text-stone-100">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローヘッダー */}
       <div className="relative py-20 px-4 sm:px-6 lg:px-8 bg-gradient-to-b from-stone-900 via-stone-950 to-stone-950 border-b border-stone-800">
         <div className="max-w-5xl mx-auto text-center">
@@ -797,6 +822,8 @@ export default function Page() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="miyagi-matsushima-shiogama-shrine-stay" />
+</div>
   );
 }

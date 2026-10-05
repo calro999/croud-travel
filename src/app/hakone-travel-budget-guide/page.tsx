@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -26,8 +27,32 @@ function loadHotels() {
 export default function HakoneBudgetGuidePage() {
   const hotels = loadHotels();
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【箱根旅行 費用】日帰り・1泊2日それぞれいくら？フリーパス活用の交通費＆温泉旅館の宿泊費シミュレーション ｜ 日本全国・旅宿クラウド",
+    "description": "箱根旅行の費用を日帰り・1泊2日で完全シミュレーション！箱根フリーパス（6,100円）で元を取る回り方、芦ノ湖・大涌谷・彫刻の森の入場料、箱根湯本・強羅・仙石原の温泉旅館相場まで全公開。",
+    "url": "https://croud-travel.pages.dev/hakone-travel-budget-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【箱根旅行 費用】日帰り・1泊2日それぞれいくら？フリーパス活用の交通費＆温泉旅館の宿泊費シミュレーション ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/hakone-travel-budget-guide/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16 font-sans">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <section className="bg-gradient-to-tr from-amber-600 via-orange-500 to-red-500 rounded-3xl p-10 md:p-16 text-white shadow-xl relative overflow-hidden">
         <div className="absolute top-0 right-0 opacity-10 text-[200px] leading-none pointer-events-none">♨️</div>
@@ -185,6 +210,8 @@ export default function HakoneBudgetGuidePage() {
           🗾 全国都道府県ガイドへ
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="hakone-travel-budget-guide" />
+</div>
   );
 }

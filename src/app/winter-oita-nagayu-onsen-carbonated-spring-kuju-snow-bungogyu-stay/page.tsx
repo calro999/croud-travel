@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -220,6 +221,7 @@ export default function WinterOitaNagayuPage() {
       }
     ]
   };
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-slate-50 via-teal-50/20 to-slate-50 text-slate-800 antialiased">
@@ -659,7 +661,9 @@ export default function WinterOitaNagayuPage() {
                 立ち上る湯けむり景観と地熱を利用した名物地獄蒸し料理。
               </p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-oita-nagayu-onsen-carbonated-spring-kuju-snow-bungogyu-stay" />
+</div>
         </section>
 
       </main>

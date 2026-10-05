@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -65,8 +66,32 @@ export default function SeasonalFeaturePage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【用の美】伝統工芸・陶芸の里めぐり＆美肌温泉旅館 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "土の温もりと職人の粋！栃木・益子焼、石川・加賀九谷焼＆山中漆器、佐賀・有田焼波佐見焼、福井・越前焼＆あわら温泉など、窯元めぐり・絵付け体験と美しい器で味わう極上会席宿を徹底解説。",
+    "url": "https://croud-travel.pages.dev/autumn-winter-traditional-craft-pottery/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【用の美】伝統工芸・陶芸の里めぐり＆美肌温泉旅館 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/autumn-winter-traditional-craft-pottery/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-stone-900 via-rose-950 to-amber-950 text-white p-8 md:p-14 shadow-xl border border-white/10">
         <div className="max-w-3xl space-y-4">
@@ -212,6 +237,8 @@ export default function SeasonalFeaturePage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="autumn-winter-traditional-craft-pottery" />
+</div>
   );
 }

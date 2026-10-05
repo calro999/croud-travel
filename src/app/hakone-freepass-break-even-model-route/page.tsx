@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -199,8 +200,32 @@ export default function HakoneFreepassBreakEvenRoutePage() {
     },
   ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【箱根フリーパスは本当に元が取れる？】徹底検証！通常運賃との差額シミュレーション＆1泊2日黄金ルート ｜ 日本全国・旅宿クラウド",
+    "description": "箱根フリーパス（新宿発6,100円）でいくら得する？登山電車・ケーブルカー・ロープウェイ・海賊船・登山バスを通常料金で個別購入した場合（合計約8,200円）との差額比較、元が取れる王道モデルコースと強羅・湯本温泉宿。",
+    "url": "https://croud-travel.pages.dev/hakone-freepass-break-even-model-route/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【箱根フリーパスは本当に元が取れる？】徹底検証！通常運賃との差額シミュレーション＆1泊2日黄金ルート ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/hakone-freepass-break-even-model-route/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-emerald-950/5 text-slate-800 antialiased selection:bg-emerald-600 selection:text-white font-sans">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション（Emeraldテーマ：箱根の深緑、芦ノ湖の湖水、豊かな自然の美学） */}
       <header className="relative bg-gradient-to-br from-emerald-950 via-teal-900 to-slate-950 text-white overflow-hidden pt-16 pb-20 px-4 sm:px-6 lg:px-8 border-b border-emerald-800/40">
         <div className="absolute inset-0 bg-[radial-gradient(circle_at_top_right,rgba(16,185,129,0.25),transparent_60%)] pointer-events-none" />
@@ -702,6 +727,8 @@ export default function HakoneFreepassBreakEvenRoutePage() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="hakone-freepass-break-even-model-route" />
+</div>
   );
 }

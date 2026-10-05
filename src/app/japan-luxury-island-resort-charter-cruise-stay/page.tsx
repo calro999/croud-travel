@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -56,8 +57,32 @@ export default function LuxuryPremiumHubPage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【プライベートクルーズ＆離島ラグジュアリーリゾート】瀬戸内・伊勢志摩・八重山 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "陸路では辿り着けない碧碧たる楽園！プライベートクルーズ・ヘリ送迎対応の最高峰アイランドリゾート完全特化！瀬戸内・ベネッセハウス・ガンツウ、伊勢志摩・アマネム・英虞湾クルーズ、八重山諸島プライベートヨット宿を徹底解説。",
+    "url": "https://croud-travel.pages.dev/japan-luxury-island-resort-charter-cruise-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【プライベートクルーズ＆離島ラグジュアリーリゾート】瀬戸内・伊勢志摩・八重山 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/japan-luxury-island-resort-charter-cruise-stay/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-stone-950 via-amber-950 to-stone-900 text-white p-8 md:p-14 shadow-2xl border border-amber-400/20">
         <div className="max-w-3xl space-y-4">
@@ -203,6 +228,8 @@ export default function LuxuryPremiumHubPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="japan-luxury-island-resort-charter-cruise-stay" />
+</div>
   );
 }

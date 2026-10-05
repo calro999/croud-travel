@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -27,6 +28,20 @@ export default function FurusatoRoomDiningHeyaShokuStayPage() {
       { '@type': 'ListItem', position: 2, name: '旅行節約ハブ', item: baseUrl + '/travel-savings-guide' },
       { '@type': 'ListItem', position: 3, name: '極上部屋食会席＆老舗温泉旅館特集', item: baseUrl + '/furusato-tax-room-dining-heya-shoku-luxury-kaiseki-stay' },
     ],
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "お部屋食でゆったり寛ぐ極上会席料理＆老舗名門温泉旅館×ふるさと納税完全ガイド【2026年最新】城崎・有馬・草津",
+    "description": "周囲を気にせず自分たちのプライベート空間で伝統の本格会席を味わう至福！創業百六十年の数寄屋建築と老舗の部屋食会席が名高い城崎温泉の最高峰「西村屋本館」、日本三古湯・有馬の金泉と伝統の美味を部屋で堪能する「兵衛向陽閣」、湯守が磨き上げる名湯・白旗源泉と熟練仲居の丁寧なおもてなしを誇る草津温泉「奈良屋」。移動なしの部屋食と掛け流し名湯を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-room-dining-heya-shoku-luxury-kaiseki-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -556,7 +571,9 @@ export default function FurusatoRoomDiningHeyaShokuStayPage() {
                 北海道の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-room-dining-heya-shoku-luxury-kaiseki-stay" />
+</div>
         </section>
 
       </main>

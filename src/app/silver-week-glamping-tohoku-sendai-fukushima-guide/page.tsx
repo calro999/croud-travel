@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -131,6 +132,28 @@ export default function SilverWeekGlampingTohokuPage() {
         "text": faq.answer,
       },
     })),
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【東北シルバーウィーク グランピング】宮城・福島・秋田の雄大な自然＆紅葉先取りステイ ｜ 日本全国・旅宿クラウド",
+    "description": "仙台・福島から好アクセス！蔵王連峰や裏磐梯の秋風を感じる東北グランピング特集。一足早い紅葉の兆し、東北のブランド牛BBQ、天然温泉を併設した絶景アウトドアリゾート完全ガイド。",
+    "url": "https://croud-travel.pages.dev/silver-week-glamping-tohoku-sendai-fukushima-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【東北シルバーウィーク グランピング】宮城・福島・秋田の雄大な自然＆紅葉先取りステイ ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/silver-week-glamping-tohoku-sendai-fukushima-guide/" }
+    ]
   };
 
   return (
@@ -406,6 +429,8 @@ export default function SilverWeekGlampingTohokuPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="silver-week-glamping-tohoku-sendai-fukushima-guide" />
+</div>
   );
 }

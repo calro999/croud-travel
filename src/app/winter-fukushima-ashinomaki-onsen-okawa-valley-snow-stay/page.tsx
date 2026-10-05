@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -255,6 +256,7 @@ export default function AshinomakiOnsenWinterFeature() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800 pb-20">
@@ -622,7 +624,9 @@ export default function AshinomakiOnsenWinterFeature() {
               <span className="text-xs text-indigo-300 font-semibold block mb-1">特集一覧</span>
               <h3 className="text-sm font-bold group-hover:text-indigo-200 transition">全国の厳選温泉・旬旅特集まとめを見る</h3>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-fukushima-ashinomaki-onsen-okawa-valley-snow-stay" />
+</div>
         </section>
 
       </main>

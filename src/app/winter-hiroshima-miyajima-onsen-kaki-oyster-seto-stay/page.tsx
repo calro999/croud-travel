@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -221,6 +222,7 @@ export default function HiroshimaMiyajimaWinterFeature() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800 pb-20">
@@ -624,7 +626,9 @@ export default function HiroshimaMiyajimaWinterFeature() {
               <h3 className="font-bold text-white text-sm">鳴門温泉・冬の鳴門海峡絶景と鳴門鯛・阿波尾鶏の宿</h3>
               <p className="text-slate-300 text-[11px] line-clamp-2">渦潮が巻く鳴門海峡のパノラマ露天と脂の乗った寒鯛会席。</p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-hiroshima-miyajima-onsen-kaki-oyster-seto-stay" />
+</div>
         </section>
 
       </main>

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -122,8 +123,32 @@ const hotels: any[] = [
 ];
 
 export default function FeatureDetailPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【2026年】香ばしい秘伝のタレとふっくら極上肉厚！浜名湖うなぎ尽くし会席＆舘山寺名湯宿5選 | 日本全国・旅宿クラウド",
+    "description": "2026年最新！うなぎ養殖発祥の地・浜名湖で味わう極上うなぎ蒲焼き・白焼き・ひつまぶし会席！穏やかな湖畔を望む舘山寺温泉・弁天島温泉の名旅館5選。",
+    "url": "https://croud-travel.pages.dev/traditional-shizuoka-unagi-kabayaki-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【2026年】香ばしい秘伝のタレとふっくら極上肉厚！浜名湖うなぎ尽くし会席＆舘山寺名湯宿5選 | 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/traditional-shizuoka-unagi-kabayaki-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずリスト */}
       <div className="bg-white border-b border-slate-200">
         <div className="max-w-6xl mx-auto px-4 py-3 text-sm text-slate-500 flex items-center space-x-2">
@@ -584,6 +609,8 @@ export default function FeatureDetailPage() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="traditional-shizuoka-unagi-kabayaki-stay" />
+</div>
   );
 }

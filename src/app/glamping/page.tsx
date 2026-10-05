@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -78,6 +79,28 @@ export default function GlampingHubPage() {
           "text": "屋根付きの専用バーベキュースペースやガゼボが設置されている施設、室内にダイニングや調理スペースが備わっている施設を選べば、雨天時でも天候を気にせず食事や滞在を楽しむことができます。予約前に各施設の雨天時の食事場所やキャンセル規定を確認しておくと安心です。"
         }
       }
+    ]
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【グランピング総合ガイド】目的・エリア・設備・予算・人数別のおすすめ施設と選び方",
+    "description": "全国のグランピング施設を目的・エリア・設備・人数別に分かりやすく整理した総合ガイド。グランピングの基本知識、キャンプとの違い、各季節の過ごし方、持ち物の目安、選び方のポイントを解説します。",
+    "url": "https://croud-travel.pages.dev/glamping/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【グランピング総合ガイド】目的・エリア・設備・予算・人数別のおすすめ施設と選び方", "item": "https://croud-travel.pages.dev/glamping/" }
     ]
   };
 
@@ -833,7 +856,9 @@ export default function GlampingHubPage() {
                 佐賀県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="glamping" />
+</div>
         </section>
 
       </main>

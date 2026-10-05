@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -27,6 +28,20 @@ export default function FurusatoHanabiFireworksViewStayPage() {
       { '@type': 'ListItem', position: 2, name: '旅行節約ハブ', item: baseUrl + '/travel-savings-guide' },
       { '@type': 'ListItem', position: 3, name: '部屋から花火が見える特等席客室ホテル特集', item: baseUrl + '/furusato-tax-hanabi-fireworks-view-room-hotel-stay' },
     ],
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "混雑ゼロで大迫力の花火を独占！部屋から花火が見える特等席客室ホテル×ふるさと納税完全ガイド【2026年最新】熱海・洞爺湖・諏訪湖",
+    "description": "夜空に咲き乱れる大輪の光を、お風呂上がりやベッドの上から特等席で！年間十数回開催される熱海海上花火大会が目前の全室オーシャンビュー「熱海後楽園ホテル」、4月〜10月の毎夜打ち上がるロングラン花火を全室レイクビュー客室から鑑賞「洞爺サンパレス リゾート＆スパ」、諏訪湖祭湖上花火を望む二つの源泉の名宿「信州上諏訪温泉 諏訪別邸 朱白」。混雑を回避して楽しむ花火ビュー温泉旅を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-hanabi-fireworks-view-room-hotel-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -556,7 +571,9 @@ export default function FurusatoHanabiFireworksViewStayPage() {
                 大分県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-hanabi-fireworks-view-room-hotel-stay" />
+</div>
         </section>
 
       </main>

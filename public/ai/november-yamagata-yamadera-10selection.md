@@ -1,4 +1,4 @@
-# 山寺・天童温泉おすすめ温泉宿10選のリアル宿泊記！温泉・客室・朝食バイキングの本音口コミ評判｜山形県
+# 山寺・天童温泉おすすめ温泉宿10選の宿泊ルポ＆見どころガイド｜山形県
 
 - URL: https://croud-travel.pages.dev/posts/november-yamagata-yamadera-10selection/
 - 宿泊施設名: 山寺・天童温泉おすすめ温泉宿10選

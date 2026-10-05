@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -257,6 +258,7 @@ export default function TottoriSakaiminatoKaikeWinterPage() {
     "a": "皆生温泉や境港市街地など平野部の沿岸部は、11月〜12月上旬は積雪することは稀ですが、強い寒波が到来する12月中旬〜1月には積雪や夜間の路面凍結が発生します。特に中国山地を越える米子自動車道や、大山寺・大山まきばみるくの里など標高の高いエリアへ向かう場合は、路面が完全な圧雪・アイスバーンとなるため、スタッドレスタイヤの装着が必須です。冬に車で旅行する際は、必ず冬用タイヤ規制や高速道路のチェーン規制情報を事前に確認し、余裕を持った運転計画を立ててください。"
   }
 ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-cyan-100 selection:text-cyan-900 pb-20">
@@ -704,7 +706,9 @@ export default function TottoriSakaiminatoKaikeWinterPage() {
               </div>
               <span className="text-xs text-cyan-300 mt-2 block font-medium">全特集をチェック ➔</span>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-tottori-sakaiminato-kaike-onsen-matsubagani-stay" />
+</div>
         </section>
 
       </main>

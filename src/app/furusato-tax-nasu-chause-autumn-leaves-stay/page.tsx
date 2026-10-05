@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -67,6 +68,28 @@ const HOTEL_DATA = {
 };
 
 export default function FeatureArticlePage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "那須高原・茶臼岳の山岳紅葉ロープウェイ＆殺生石！那須温泉名湯・鹿の湯白濁泉×ふるさと納税完全ガイド【2026年最新秋旅】栃木",
+    "description": "9月下旬〜10月中旬に那須連山の主峰が紅葉絨毯に染まる「栃木・那須高原 茶臼岳」。ロープウェイから見下ろす360度の大パノラマや殺生石散策と、開湯1300年の歴史を誇る名湯「大丸温泉旅館」「那須温泉山楽」「旅館 清水屋」で濃厚な白濁硫黄泉や川床露天風呂、極上とちぎ和牛・那須牛を堪能。ふるさと納税で実質2,000円。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-nasu-chause-autumn-leaves-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "那須高原・茶臼岳の山岳紅葉ロープウェイ＆殺生石！那須温泉名湯・鹿の湯白濁泉×ふるさと納税完全ガイド【2026年最新秋旅】栃木", "item": "https://croud-travel.pages.dev/furusato-tax-nasu-chause-autumn-leaves-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -520,7 +543,9 @@ export default function FeatureArticlePage() {
                 鳥取県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-nasu-chause-autumn-leaves-stay" />
+</div>
         </section>
 
       </main>

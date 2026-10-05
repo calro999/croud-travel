@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -111,8 +112,32 @@ export default function HighwayBusArticlePage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【新宿・東京から富士急・河口湖 直行バス】電車とどっちが安い？料金・時間比較＆絶景1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+    "description": "東京・新宿から富士急ハイランド・河口湖へ行くなら直行高速バスが最強！JR特急富士回遊との料金比較（バスなら半額の約2,000円）。乗り換えなしで遊園地・河口湖駅直着、忍野八海や逆さ富士露天風呂旅館を満喫する1泊2日モデルコース。",
+    "url": "https://croud-travel.pages.dev/tokyo-fujikawaguchiko-highway-bus-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【新宿・東京から富士急・河口湖 直行バス】電車とどっちが安い？料金・時間比較＆絶景1泊2日モデルコース ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/tokyo-fujikawaguchiko-highway-bus-guide/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-sky-950 via-slate-900 to-indigo-950 text-white p-8 md:p-14 shadow-xl border border-white/10">
         <div className="max-w-3xl space-y-4">
@@ -422,6 +447,8 @@ export default function HighwayBusArticlePage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="tokyo-fujikawaguchiko-highway-bus-guide" />
+</div>
   );
 }

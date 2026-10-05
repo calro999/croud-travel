@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import type { Metadata } from 'next';
@@ -254,6 +255,7 @@ export default function HiroshimaSaijoTakeharaWinterPage() {
       a: "広島空港は東広島市と竹原市のちょうど中間に位置し、空港から竹原駅へは乗り合いタクシーまたは路線バスで約30分、JR白市駅経由で西条駅へは約35分と抜群の近さです。新幹線利用の場合は東広島駅または広島駅・三原駅が起点となります。1日目に西条の酒蔵通りで新酒の試飲と美酒鍋を楽しみ、西条または竹原に宿泊。2日目に竹原の町並み保存地区を散策後、忠海港から大久野島に渡るか、安芸津の風光明媚な海岸線をドライブして広島空港・新幹線駅へ戻るコースが最も効率的でおすすめです。"
     }
   ];
+
 
   return (
     <>
@@ -598,7 +600,9 @@ export default function HiroshimaSaijoTakeharaWinterPage() {
             </div>
           </section>
         </main>
-      </div>
+      
+      <HubRelatedPosts currentSlug="winter-hiroshima-saijo-takehara-sake-brewery-bikan-stay" />
+</div>
     </>
   );
 }

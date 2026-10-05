@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoNagashimaSpalandOfficialHotelStayPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "遊園地・なばなの里・湯あみの島直結！ナガシマスパーランド公式オフィシャルホテル×ふるさと納税完全攻略ガイド【2026年最新】花水木・ホテルナガシマ・オリーブ",
+    "description": "日本最大級のアミューズメントリゾート直結！開園10分前入場アーリーエントリー、大温泉「湯あみの島」無料、なばなの里入場無料など特典満載。「ホテル花水木」「ホテルナガシマ」「ガーデンホテルオリーブ」を、三重県桑名市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-nagashima-spaland-official-hotel-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "遊園地・なばなの里・湯あみの島直結！ナガシマスパーランド公式オフィシャルホテル×ふるさと納税完全攻略ガイド【2026年最新】花水木・ホテルナガシマ・オリーブ", "item": "https://croud-travel.pages.dev/furusato-tax-nagashima-spaland-official-hotel-stay/" }
+    ]
+  };
+
   return (
     <article className="max-w-5xl mx-auto px-4 py-8 text-gray-800 leading-relaxed font-sans">
       {/* パンくずリスト */}
@@ -346,7 +369,9 @@ export default function FurusatoNagashimaSpalandOfficialHotelStayPage() {
           >
             ▸ 【一年中泳げる室内温水プール宿×ふるさと納税】那須・草津・別府リゾート
           </Link>
-        </div>
+        
+      <HubRelatedPosts currentSlug="furusato-tax-nagashima-spaland-official-hotel-stay" />
+</div>
       </section>
     </article>
   );

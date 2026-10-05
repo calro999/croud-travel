@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -221,6 +222,7 @@ export default function NaganoTateshinaWinterFeature() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800 pb-20">
@@ -612,7 +614,9 @@ export default function NaganoTateshinaWinterFeature() {
                 国宝松本城の冬の風情と城下町の奥座敷・浅間温泉の温もり。
               </p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-nagano-tateshina-onsen-yatsugatake-snow-shinshu-beef-stay" />
+</div>
         </section>
 
       </main>

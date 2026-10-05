@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoIkahoOnsenStoneStepsStayPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "365段の石段街と情緒あふれる湯滝！伊香保温泉の「黄金の湯」「白銀の湯」名門旅館＆上州牛会席×ふるさと納税完全攻略ガイド【2026年最新】福一・岸権・木暮",
+    "description": "万葉集にも詠まれた名湯・群馬県伊香保温泉！365段の石段街と湯の花まんじゅう。「福一」「岸権旅館」「ホテル木暮」を、群馬県渋川市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。創業四百四十年最上位の格式、黄金の湯かけ流し、北関東最大級大浴場、上州牛ステーキを満喫。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-ikaho-onsen-stone-steps-luxury-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "365段の石段街と情緒あふれる湯滝！伊香保温泉の「黄金の湯」「白銀の湯」名門旅館＆上州牛会席×ふるさと納税完全攻略ガイド【2026年最新】福一・岸権・木暮", "item": "https://croud-travel.pages.dev/furusato-tax-ikaho-onsen-stone-steps-luxury-stay/" }
+    ]
+  };
+
   return (
     <article className="max-w-5xl mx-auto px-4 py-8 text-gray-800 leading-relaxed font-sans">
       {/* パンくずリスト */}
@@ -346,7 +369,9 @@ export default function FurusatoIkahoOnsenStoneStepsStayPage() {
           >
             ▸ 【箱根温泉 客室露天風呂＆名門旅館×ふるさと納税】富士屋ホテル・天成園・はつはな
           </Link>
-        </div>
+        
+      <HubRelatedPosts currentSlug="furusato-tax-ikaho-onsen-stone-steps-luxury-stay" />
+</div>
       </section>
     </article>
   );

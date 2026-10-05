@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoFujiViewOpenAirBathStayPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "霊峰富士の絶景を湯船から一望！富士山＆河口湖ビュー露天風呂名門宿×ふるさと納税完全攻略ガイド【2026年最新】鐘山苑・うぶや・湖南荘",
+    "description": "世界遺産・富士山の圧倒的な美しさを露天風呂から眼前に見渡す感動体験！「庭園と感動の宿 富士山温泉 ホテル鐘山苑」「河口湖温泉 うぶや」「富士河口湖温泉 湖南荘」を、山梨県富士吉田市・富士河口湖町の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。三段構造の深湯露天風呂、全室富士山ビュー、屋上展望足湯を堪能。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-fuji-view-open-air-bath-luxury-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "霊峰富士の絶景を湯船から一望！富士山＆河口湖ビュー露天風呂名門宿×ふるさと納税完全攻略ガイド【2026年最新】鐘山苑・うぶや・湖南荘", "item": "https://croud-travel.pages.dev/furusato-tax-fuji-view-open-air-bath-luxury-stay/" }
+    ]
+  };
+
   return (
     <article className="max-w-5xl mx-auto px-4 py-8 text-gray-800 leading-relaxed font-sans">
       {/* パンくずリスト */}
@@ -346,7 +369,9 @@ export default function FurusatoFujiViewOpenAirBathStayPage() {
           >
             ▸ 【熱海花火大会＆オーシャンビューホテル×ふるさと納税】特等席鑑賞
           </Link>
-        </div>
+        
+      <HubRelatedPosts currentSlug="furusato-tax-fuji-view-open-air-bath-luxury-stay" />
+</div>
       </section>
     </article>
   );

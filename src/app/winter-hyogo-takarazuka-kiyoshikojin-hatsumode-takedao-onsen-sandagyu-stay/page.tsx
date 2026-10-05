@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import Link from 'next/link';
 import type { Metadata } from 'next';
 import { 
@@ -255,6 +256,7 @@ export default function HyogoTakarazukaWinterPage() {
       a: "宝塚市街地（宝塚駅・清荒神・中山寺）は瀬戸内気候で比較的温暖であり、平野部での積雪は極めて稀です。電車でのアクセスはJR宝塚線・阪急宝塚線で大阪（梅田）から約25〜30分、三宮からも約35分と抜群です。武田尾温泉へもJR武田尾駅下車すぐでアクセスできます。ただし、車で武田尾温泉や北摂・三田の山間部へアクセスする場合、真冬の早朝・深夜や強い寒波が到来した際には路面凍結の可能性があるため、冬用タイヤの装着が推奨されます。"
     }
   ];
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800 antialiased">
@@ -640,7 +642,9 @@ export default function HyogoTakarazukaWinterPage() {
             <span>•</span>
             <Link href="/posts" className="hover:text-rose-600 underline">記事一覧カタログ</Link>
           </div>
-        </div>
+        
+      <HubRelatedPosts currentSlug="winter-hyogo-takarazuka-kiyoshikojin-hatsumode-takedao-onsen-sandagyu-stay" />
+</div>
       </section>
 
       {/* Footer */}

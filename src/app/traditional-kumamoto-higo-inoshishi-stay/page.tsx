@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -109,6 +110,7 @@ export default function FeaturePage() {
               features: ["都会の喧騒を忘れたい 絶景露天・漁師直送海鮮と山の幸を腹イッパイ御堪能。。山翠は大人限定の旅館です。", "阿蘇郡小国町西里はげの湯3044", "楽天アワード受賞歴"]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-stone-50 via-white to-stone-50 text-stone-800">
@@ -435,7 +437,9 @@ export default function FeaturePage() {
                 新潟県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="traditional-kumamoto-higo-inoshishi-stay" />
+</div>
         </section>
 
       </main>

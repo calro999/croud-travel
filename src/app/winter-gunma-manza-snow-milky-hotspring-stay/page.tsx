@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -109,6 +110,7 @@ export default function FeaturePage() {
               features: ["ペットと泊まれます♪上州三山や関東平野一望（谷川・白根・赤城）。新潟米と山海の幸を満喫。", "渋川市伊香保町伊香保557-23", "楽天アワード受賞歴"]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-stone-50 via-white to-stone-50 text-stone-800">
@@ -583,7 +585,9 @@ export default function FeaturePage() {
                 北海道の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-gunma-manza-snow-milky-hotspring-stay" />
+</div>
         </section>
 
       </main>

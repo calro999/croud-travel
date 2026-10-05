@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -255,6 +256,7 @@ export default function OgaOnsenWinterFeature() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800 pb-20">
@@ -634,7 +636,9 @@ export default function OgaOnsenWinterFeature() {
               <span className="text-xs text-red-300 font-semibold block mb-1">福島・会津東山温泉</span>
               <h3 className="text-sm font-bold group-hover:text-red-200 transition">湯川渓谷の雪見露天と会津藩士ゆかりの歴史・会津牛郷土料理の宿</h3>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-akita-oga-onsen-ishiyaki-namahage-snow-stay" />
+</div>
         </section>
 
       </main>

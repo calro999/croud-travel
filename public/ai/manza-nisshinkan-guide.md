@@ -1,4 +1,4 @@
-# 万座温泉 日進舘のリアル宿泊記！温泉・客室・朝食バイキングの本音口コミ評判｜群馬県
+# 万座温泉 日進舘の宿泊ルポ＆見どころガイド｜群馬県
 
 - URL: https://croud-travel.pages.dev/posts/manza-nisshinkan-guide/
 - 宿泊施設名: 万座温泉 日進舘

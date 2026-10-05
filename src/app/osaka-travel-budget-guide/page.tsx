@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -26,8 +27,32 @@ function loadHotels() {
 export default function OsakaTravelBudgetPage() {
   const hotels = loadHotels();
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【大阪旅行 費用】1泊2日・2泊3日の総額はいくら？USJ込みの予算＆道頓堀グルメ食費シミュレーション",
+    "description": "大阪旅行の費用を1泊2日（USJなし）・2泊3日（USJ込み）パターンで完全シミュレーション！東京・名古屋・福岡からの交通費、なんば・梅田のホテル相場、道頓堀・新世界のグルメ食費まで、全部具体的な金額で解説。",
+    "url": "https://croud-travel.pages.dev/osaka-travel-budget-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【大阪旅行 費用】1泊2日・2泊3日の総額はいくら？USJ込みの予算＆道頓堀グルメ食費シミュレーション", "item": "https://croud-travel.pages.dev/osaka-travel-budget-guide/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-4xl mx-auto pb-16 px-4 md:px-0">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* Hero */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-br from-amber-500 via-rose-500 to-indigo-600 text-white p-8 md:p-12 shadow-2xl">
         <div className="max-w-2xl space-y-5">
@@ -219,6 +244,8 @@ export default function OsakaTravelBudgetPage() {
           東京〜大阪間の夜行バス vs 新幹線 徹底比較ガイドを見る
         </Link>
       </section>
-    </div>
+    
+      <HubRelatedPosts currentSlug="osaka-travel-budget-guide" />
+</div>
   );
 }

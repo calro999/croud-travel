@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -129,6 +130,28 @@ export default function KanazawaTripPackingRegretsWorst5Page() {
       ]
     }
   ];
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【金沢旅行で後悔したことワースト5】月曜定休トラップ＆21美予約忘れ！海鮮丼行列を回避する持ち物＆知恵袋",
+    "description": "金沢観光のよくある落とし穴を全解説！21世紀美術館スイミングプールの事前予約逃し、主要名所・飲食店の月曜一斉定休日トラップ、近江町市場の早仕舞い、折りたたみ傘必須の気候対策と駅前温泉宿。",
+    "url": "https://croud-travel.pages.dev/kanazawa-trip-packing-regrets-worst5-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【金沢旅行で後悔したことワースト5】月曜定休トラップ＆21美予約忘れ！海鮮丼行列を回避する持ち物＆知恵袋", "item": "https://croud-travel.pages.dev/kanazawa-trip-packing-regrets-worst5-guide/" }
+    ]
+  };
 
   return (
     <main className="min-h-screen bg-[#fffdfa] text-stone-800 antialiased pb-20">
@@ -269,6 +292,8 @@ export default function KanazawaTripPackingRegretsWorst5Page() {
                     key={hotel.hotelNo}
                     className="flex flex-col justify-between bg-white border-2 border-amber-200/80 rounded-3xl overflow-hidden shadow-sm hover:shadow-xl hover:border-amber-400 transition group"
                   >
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
                     <div>
                       {hotel.hotelImageUrl && (
                         <div className="h-44 overflow-hidden relative">
@@ -490,7 +515,9 @@ export default function KanazawaTripPackingRegretsWorst5Page() {
                 福島県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="kanazawa-trip-packing-regrets-worst5-guide" />
+</div>
         </section>
 
       </main>

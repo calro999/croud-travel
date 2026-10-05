@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -67,6 +68,28 @@ const HOTEL_DATA = {
 };
 
 export default function FeatureArticlePage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "甲府・御岳昇仙峡の覚円峰奇岩紅葉＆仙娥滝！信玄の隠し湯・湯村温泉×ふるさと納税完全ガイド【2026年最新秋旅】山梨",
+    "description": "10月中旬〜11月下旬に日本一の渓谷美が錦秋に包まれる国特別名勝「甲府・御岳昇仙峡」。主峰・覚円峰の直立約180mの巨岩と仙娥滝の紅葉パノラマ、武田信玄の隠し湯「湯村温泉 旅館明治」「常磐ホテル」「柳屋」で甲州牛サーロインステーキや甲州地鶏・名物ほうとうを甲州ワインとともに堪能。ふるさと納税で実質2,000円。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-shosenkyo-kofu-autumn-leaves-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "甲府・御岳昇仙峡の覚円峰奇岩紅葉＆仙娥滝！信玄の隠し湯・湯村温泉×ふるさと納税完全ガイド【2026年最新秋旅】山梨", "item": "https://croud-travel.pages.dev/furusato-tax-shosenkyo-kofu-autumn-leaves-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -520,7 +543,9 @@ export default function FeatureArticlePage() {
                 京都府の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-shosenkyo-kofu-autumn-leaves-stay" />
+</div>
         </section>
 
       </main>

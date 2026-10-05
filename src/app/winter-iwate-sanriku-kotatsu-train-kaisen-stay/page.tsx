@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -222,6 +223,7 @@ export default function IwateSanrikuKotatsuTrainPage() {
     "a": "三陸の冬は海の幸が最も旨味を蓄えるゴールデンシーズンです。11月から解禁される「三陸あわび」は、肉厚で噛むほどに芳醇な磯の香りが広がります。また、12月〜1月に旬を迎える「三陸毛ガニ」は身の詰まりが良く、濃厚でクリーミーなカニ味噌が絶品。さらに「寒鱈（マダラ）」は脂が乗り、白子（タツ）や肝を入れた温かい「たら汁（どんこ汁）」は冬の三陸のソウルフードです。そのほか、寒ヒラメ、ヤリイカ、ホタテ、牡蠣など、冬ならではの極上海鮮を各宿の会席料理で存分に楽しめます。"
   }
 ];
+
 
   return (
     <article className="min-h-screen bg-stone-50/50 pb-20 text-stone-800">
@@ -585,7 +587,9 @@ export default function IwateSanrikuKotatsuTrainPage() {
               <span className="text-cyan-700 font-bold block text-[10px]">青森・下風呂温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">津軽海峡冬の荒波と大間本マグロ・幻のアンコウ鍋を堪能する秘湯</p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-iwate-sanriku-kotatsu-train-kaisen-stay" />
+</div>
         </section>
 
       </main>

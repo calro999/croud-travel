@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -96,6 +97,28 @@ export default function KyotoRainyDayTempleCafeGuidePage() {
       note: "チェックイン後は天然温泉へ直行。しっとり降る雨を眺めながらの温泉露天風呂は、最高の旅のクライマックス。"
     }
   ];
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【京都 雨の日こそ行きたい名所＆町家カフェ】緑鮮やかな苔寺・瑠璃光院・三千院＆おこもり温泉宿",
+    "description": "雨の日に最も美しく輝く京都の庭園！雨露に濡れる大原三千院や西芳寺（苔寺）の緑、静寂の瑠璃光院、町家ブックカフェで読書タイム、嵐山温泉旅館のしっとり贅沢ステイ。",
+    "url": "https://croud-travel.pages.dev/kyoto-rainy-day-temple-cafe-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【京都 雨の日こそ行きたい名所＆町家カフェ】緑鮮やかな苔寺・瑠璃光院・三千院＆おこもり温泉宿", "item": "https://croud-travel.pages.dev/kyoto-rainy-day-temple-cafe-guide/" }
+    ]
+  };
 
   return (
     <main className="min-h-screen bg-rose-950/20 text-stone-800 selection:bg-rose-600 selection:text-white pb-24">
@@ -223,6 +246,8 @@ export default function KyotoRainyDayTempleCafeGuidePage() {
                     key={hotel.hotelNo}
                     className="flex flex-col justify-between bg-white border border-rose-200/90 rounded-3xl overflow-hidden shadow-md hover:shadow-xl hover:border-rose-400 transition group"
                   >
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
                     <div>
                       {hotel.hotelImageUrl && (
                         <div className="h-44 overflow-hidden relative">
@@ -458,7 +483,9 @@ export default function KyotoRainyDayTempleCafeGuidePage() {
                 宮城県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="kyoto-rainy-day-temple-cafe-guide" />
+</div>
         </section>
 
       </main>

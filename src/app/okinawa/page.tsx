@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import fs from "fs";
 import path from "path";
 import Link from "next/link";
@@ -65,8 +66,32 @@ export default function OkinawaHubPage() {
     }
   ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【沖縄旅行 完全計画ガイド 2026】2泊3日・3泊4日モデルコース＆那覇・恩納村・美ら海水族館・ビーチリゾートホテル・レンタカー ｜ 旅宿クラウド",
+    "description": "沖縄旅行の計画を完全サポート！2泊3日・3泊4日の王道モデルコース、恩納村や北部の絶景ビーチリゾート、カップル・子連れプール付きホテル、那覇国際通り周辺宿からレンタカー＆雨の日観光まで、おすすめの宿泊プランまで徹底網羅。",
+    "url": "https://croud-travel.pages.dev/okinawa/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【沖縄旅行 完全計画ガイド 2026】2泊3日・3泊4日モデルコース＆那覇・恩納村・美ら海水族館・ビーチリゾートホテル・レンタカー ｜ 旅宿クラウド", "item": "https://croud-travel.pages.dev/okinawa/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       <nav aria-label="Breadcrumb" className="text-xs font-bold text-teal-900/60 flex items-center gap-2">
         <Link href="/" className="hover:text-teal-800 transition">ホーム</Link>
         <span>/</span>
@@ -187,6 +212,8 @@ export default function OkinawaHubPage() {
           ))}
         </div>
       </section>
-    </div>
+    
+      <HubRelatedPosts currentSlug="okinawa" />
+</div>
   );
 }

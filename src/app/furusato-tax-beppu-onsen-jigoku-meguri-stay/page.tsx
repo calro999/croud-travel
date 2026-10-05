@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoBeppuOnsenJigokuStayPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "源泉数・湧出量日本一！別府八湯＆地獄めぐりと大パノラマ露天風呂名門ホテル×ふるさと納税完全攻略ガイド【2026年最新】杉乃井・山水館・亀の井",
+    "description": "源泉数・湧出量ともに日本一を誇るおんせん県おおいたの象徴・別府温泉！大迫力の地獄めぐりと湯けむり景観。「別府温泉 杉乃井ホテル」「別府鉄輪温泉 ホテル山水館」「亀の井ホテル 別府」を、大分県別府市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。大展望露天風呂棚湯、地獄蒸し、郷土料理バイキングを満喫。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-beppu-onsen-jigoku-meguri-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "源泉数・湧出量日本一！別府八湯＆地獄めぐりと大パノラマ露天風呂名門ホテル×ふるさと納税完全攻略ガイド【2026年最新】杉乃井・山水館・亀の井", "item": "https://croud-travel.pages.dev/furusato-tax-beppu-onsen-jigoku-meguri-stay/" }
+    ]
+  };
+
   return (
     <article className="max-w-5xl mx-auto px-4 py-8 text-gray-800 leading-relaxed font-sans">
       {/* パンくずリスト */}
@@ -346,7 +369,9 @@ export default function FurusatoBeppuOnsenJigokuStayPage() {
           >
             ▸ 【豪華ビュッフェ＆オープンキッチン名宿×ふるさと納税】美食リゾート
           </Link>
-        </div>
+        
+      <HubRelatedPosts currentSlug="furusato-tax-beppu-onsen-jigoku-meguri-stay" />
+</div>
       </section>
     </article>
   );

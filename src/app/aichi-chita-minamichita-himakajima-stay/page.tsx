@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -56,8 +57,32 @@ export default function MicroTouristHubPage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【愛知・知多半島＆南知多温泉郷】内海千鳥ヶ浜・日間賀島タコふぐ＆知多牛宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "伊勢湾と三河湾に囲まれた海の楽園・愛知知多半島＆南知多温泉郷エリア完全特化！日本の渚百選「内海千鳥ヶ浜」、タコとフグの島「日間賀島」、野間灯台の夕陽、源泉かけ流し南知多温泉、知多牛＆伊勢湾活魚宿を徹底解説。",
+    "url": "https://croud-travel.pages.dev/aichi-chita-minamichita-himakajima-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【愛知・知多半島＆南知多温泉郷】内海千鳥ヶ浜・日間賀島タコふぐ＆知多牛宿 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/aichi-chita-minamichita-himakajima-stay/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-stone-900 via-rose-950 to-amber-950 text-white p-8 md:p-14 shadow-xl border border-white/10">
         <div className="max-w-3xl space-y-4">
@@ -203,6 +228,8 @@ export default function MicroTouristHubPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="aichi-chita-minamichita-himakajima-stay" />
+</div>
   );
 }

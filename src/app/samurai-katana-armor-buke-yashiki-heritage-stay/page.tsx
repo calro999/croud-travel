@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -16,6 +17,28 @@ export const metadata: Metadata = {
 
 export default function Page() {
   const secData = (seasonalData as any)['samurai-katana-armor-buke-yashiki-heritage-stay'] || {};
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "武家屋敷＆サムライ・甲冑・刀剣体験宿完全ガイド【会津・角館・知覧歴史旅】 | クラウドトラベル",
+    "description": "白虎隊の歴史息づく会津若松、みちのくの小京都・角館の黒板塀武家屋敷、薩摩武士の面影を残す知覧武家屋敷庭園を特集。陣羽織・甲冑着付けや居合道体験、武家屋敷を再生した登録文化財宿を徹底解説。",
+    "url": "https://croud-travel.pages.dev/samurai-katana-armor-buke-yashiki-heritage-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "武家屋敷＆サムライ・甲冑・刀剣体験宿完全ガイド【会津・角館・知覧歴史旅】 | クラウドトラベル", "item": "https://croud-travel.pages.dev/samurai-katana-armor-buke-yashiki-heritage-stay/" }
+    ]
+  };
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
@@ -486,7 +509,9 @@ export default function Page() {
                 山口県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="samurai-katana-armor-buke-yashiki-heritage-stay" />
+</div>
         </section>
 
       </main>

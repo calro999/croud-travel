@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import Link from 'next/link';
 import type { Metadata } from 'next';
 import { 
@@ -255,6 +256,7 @@ export default function MiyazakiHyugaWinterPage() {
       a: "宮崎県北エリアの日向・延岡は、冬期でも日中の気温が12〜15度程度まで上がる日が多く、南国特有の温暖で過ごしやすい気候です。海岸沿いの道路（国道10号線や東九州自動車道）で積雪や路面凍結が起こることは極めて稀で、ノーマルタイヤでの快適なドライブが楽しめます。アクセスは宮崎空港からJR日豊本線の特急「にちりん」「ひゅうが」で日向市駅まで約50分、延岡駅まで約1時間15分。大分方面からも特急や高速道路でスムーズにアクセス可能です。"
     }
   ];
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800 antialiased">
@@ -643,7 +645,9 @@ export default function MiyazakiHyugaWinterPage() {
             <span>•</span>
             <Link href="/posts" className="hover:text-amber-600 underline">記事一覧カタログ</Link>
           </div>
-        </div>
+        
+      <HubRelatedPosts currentSlug="winter-miyazaki-hyuga-umagase-sea-cross-iseebi-miyazakigyu-stay" />
+</div>
       </section>
 
       {/* Footer */}

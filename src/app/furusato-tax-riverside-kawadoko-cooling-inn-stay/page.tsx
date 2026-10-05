@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -19,8 +20,32 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoTaxPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "清流川床料理＆避暑せせらぎ名宿×ふるさと納税完全ガイド【2026年最新】京都貴船・四万十川・越後岩室の涼風ステイ",
+    "description": "足元を流れる清流の冷気と涼風！京都貴船の元祖川床料理、日本最後の清流四万十川の鮎尽くし、新潟岩室温泉の庭園宿を楽天ふるさと納税宿泊クーポンでお得に予約する清涼美食ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-riverside-kawadoko-cooling-inn-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "清流川床料理＆避暑せせらぎ名宿×ふるさと納税完全ガイド【2026年最新】京都貴船・四万十川・越後岩室の涼風ステイ", "item": "https://croud-travel.pages.dev/furusato-tax-riverside-kawadoko-cooling-inn-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-950 text-slate-100 selection:bg-amber-500 selection:text-white">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずリスト */}
       <nav className="border-b border-slate-800/80 bg-slate-900/60 backdrop-blur px-4 py-3 text-xs text-slate-400">
         <div className="max-w-6xl mx-auto flex items-center gap-2 overflow-x-auto whitespace-nowrap">
@@ -760,6 +785,8 @@ export default function FurusatoTaxPage() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="furusato-tax-riverside-kawadoko-cooling-inn-stay" />
+</div>
   );
 }

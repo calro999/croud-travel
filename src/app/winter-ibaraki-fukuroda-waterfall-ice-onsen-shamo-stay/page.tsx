@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -257,6 +258,7 @@ export default function IbarakiFukurodaIceWinterPage() {
     "a": "車の場合は常磐自動車道の那珂ICより国道118号を経由して約50分です。奥久慈地域は茨城県内でも特に朝晩の冷え込みが厳しく、12月中旬から1月にかけては氷点下5度前後まで下がる日があります。トンネルの出入口や久慈川沿いの橋の上、日陰のカーブなどは路面凍結（ブラックアイスバーン）が発生しやすいため、12月〜1月に車で訪れる際はスタッドレスタイヤの装着またはタイヤチェーンの携行が必須です。公共交通機関の場合は、JR水戸駅からJR水郡線に乗り、袋田駅または常陸大子駅を利用します。ローカル列車の車窓から冬の久慈川渓谷の長閑な景色を眺める鉄道旅もおすすめです。"
   }
 ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-cyan-100 selection:text-cyan-900 pb-20">
@@ -711,7 +713,9 @@ export default function IbarakiFukurodaIceWinterPage() {
                 冬の特集記事一覧をすべて見る ➔
               </span>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-ibaraki-fukuroda-waterfall-ice-onsen-shamo-stay" />
+</div>
         </section>
 
       </main>

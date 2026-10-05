@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -41,6 +42,7 @@ export default function ArticlePage() {
     dateModified: '2026-09-12T17:40:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/naruto-tokushima-solo-retreat-whirlpool-museum-stay',
   };
+
 
   return (
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
@@ -520,7 +522,9 @@ export default function ArticlePage() {
                 茨城県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="naruto-tokushima-solo-retreat-whirlpool-museum-stay" />
+</div>
         </section>
 
       </main>

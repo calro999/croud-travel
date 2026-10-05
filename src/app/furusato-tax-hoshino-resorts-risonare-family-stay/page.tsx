@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoHoshinoRisonareStayPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "家族の最高の思い出を！星野リゾート「リゾナーレ」×ふるさと納税完全攻略ガイド【2026年最新】八ヶ岳・熱海・那須で洗練された非日常ステイ",
+    "description": "洗練されたデザインと土地の恵みを体感するアクティビティが融合した星野リゾートのファミリーリゾートホテル「リゾナーレ」。「リゾナーレ八ヶ岳」「リゾナーレ熱海」「リゾナーレ那須」を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で賢く予約する完全ガイド。波の出る全天候型プール、絶景クライミング、森のアグリツーリズモを体験。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-hoshino-resorts-risonare-family-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "家族の最高の思い出を！星野リゾート「リゾナーレ」×ふるさと納税完全攻略ガイド【2026年最新】八ヶ岳・熱海・那須で洗練された非日常ステイ", "item": "https://croud-travel.pages.dev/furusato-tax-hoshino-resorts-risonare-family-stay/" }
+    ]
+  };
+
   return (
     <article className="max-w-5xl mx-auto px-4 py-8 text-gray-800 leading-relaxed font-sans">
       {/* パンくずリスト */}
@@ -346,7 +369,9 @@ export default function FurusatoHoshinoRisonareStayPage() {
           >
             ▸ 【お酒飲み放題オールインクルーシブ宿×ふるさと納税】贅沢ラウンジステイ
           </Link>
-        </div>
+        
+      <HubRelatedPosts currentSlug="furusato-tax-hoshino-resorts-risonare-family-stay" />
+</div>
       </section>
     </article>
   );

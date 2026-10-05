@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -135,6 +136,28 @@ export default function SilverWeekGlampingCheapStudentBudgetPage() {
         "text": faq.answer,
       },
     })),
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【シルバーウィーク 安いグランピングおすすめ】1人1万円台前半！学生・若者グループ向けの格安コスパ宿 ｜ 日本全国・旅宿クラウド",
+    "description": "秋連休に予算を抑えて楽しむ高コスパグランピング！4〜6人で頭割りして1人1万円台前半、食材持ち込み自由で費用節約、学割・グループ割引プランがある全国の人気コテージ＆ドームテント特集。",
+    "url": "https://croud-travel.pages.dev/silver-week-glamping-cheap-student-budget-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【シルバーウィーク 安いグランピングおすすめ】1人1万円台前半！学生・若者グループ向けの格安コスパ宿 ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/silver-week-glamping-cheap-student-budget-guide/" }
+    ]
   };
 
   return (
@@ -410,6 +433,8 @@ export default function SilverWeekGlampingCheapStudentBudgetPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="silver-week-glamping-cheap-student-budget-guide" />
+</div>
   );
 }

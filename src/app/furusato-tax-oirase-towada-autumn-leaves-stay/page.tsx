@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FeatureArticlePage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "奥入瀬渓流の黄金紅葉トンネル＆十和田湖畔温泉！十和田荘・賑山亭・プリンスホテル×ふるさと納税完全ガイド【2026年最新秋旅】青森・秋田",
+    "description": "10月中旬〜11月上旬に見頃を迎える日本屈指の紅葉スポット「奥入瀬渓流」と「十和田湖」。黄金色に染まるブナの原生林と清流のコントラスト、十和田湖畔温泉の名宿「ホテル十和田荘」「とわだこ賑山亭」「十和田プリンスホテル」で十和田バラ焼きや旬の味覚を堪能。楽天ふるさと納税で実質2,000円で泊まる紅葉ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-oirase-towada-autumn-leaves-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "奥入瀬渓流の黄金紅葉トンネル＆十和田湖畔温泉！十和田荘・賑山亭・プリンスホテル×ふるさと納税完全ガイド【2026年最新秋旅】青森・秋田", "item": "https://croud-travel.pages.dev/furusato-tax-oirase-towada-autumn-leaves-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -508,7 +531,9 @@ export default function FeatureArticlePage() {
                 鳥取県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-oirase-towada-autumn-leaves-stay" />
+</div>
         </section>
 
       </main>

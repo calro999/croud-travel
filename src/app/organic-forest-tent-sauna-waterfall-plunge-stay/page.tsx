@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -109,6 +110,7 @@ export default function FeaturePage() {
               features: ["全10部屋客室専用露天風呂付のスイートルーム♪本館『庄助の宿　瀧の湯』特別客室（スイートルーム）♪", "会津若松市東山町湯本滝ノ湯107（庄助の宿 瀧の湯）", "楽天アワード受賞歴"]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-stone-50 via-white to-stone-50 text-stone-800">
@@ -435,7 +437,9 @@ export default function FeaturePage() {
                 埼玉県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="organic-forest-tent-sauna-waterfall-plunge-stay" />
+</div>
         </section>
 
       </main>

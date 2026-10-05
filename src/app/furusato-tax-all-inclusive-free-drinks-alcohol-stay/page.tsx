@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoAllInclusiveFreeDrinksStayPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "生ビール・地酒・ワインが飲み放題！お財布を気にせず寛ぐオールインクルーシブ名宿×ふるさと納税完全ガイド【2026年最新】作並・松島・伊勢志摩",
+    "description": "チェックインからアウトまで、ラウンジのお酒・スイーツ・湯上がりビール・出来立て料理がすべて宿泊代金込み！追加料金ゼロで贅沢な休日を叶えるオールインクルーシブ温泉宿。「ゆづくしSalon一の坊」「松島一の坊」「グランドメルキュール伊勢志摩リゾート＆スパ」を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-all-inclusive-free-drinks-alcohol-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "生ビール・地酒・ワインが飲み放題！お財布を気にせず寛ぐオールインクルーシブ名宿×ふるさと納税完全ガイド【2026年最新】作並・松島・伊勢志摩", "item": "https://croud-travel.pages.dev/furusato-tax-all-inclusive-free-drinks-alcohol-stay/" }
+    ]
+  };
+
   return (
     <article className="max-w-5xl mx-auto px-4 py-8 text-gray-800 leading-relaxed font-sans">
       {/* パンくずリスト */}
@@ -346,7 +369,9 @@ export default function FurusatoAllInclusiveFreeDrinksStayPage() {
           >
             ▸ 【USJ公式オフィシャルホテル×ふるさと納税】パーク徒歩圏・天然温泉
           </Link>
-        </div>
+        
+      <HubRelatedPosts currentSlug="furusato-tax-all-inclusive-free-drinks-alcohol-stay" />
+</div>
       </section>
     </article>
   );

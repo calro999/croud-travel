@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -56,8 +57,32 @@ export default function SakeTourismHubPage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【酒蔵オーベルジュ＆日本酒ペアリング宿】蔵元直営・極上和食マリアージュ 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "酒蔵に泊まる至福！全国の酒蔵直営オーベルジュ＆極上日本酒ペアリング宿完全特化！長野諏訪、福島会津、秋田、京都伏見、兵庫灘、搾りたて生原酒と会席料理の至高のマリアージュ、酒蔵見学・テイスティング付き名宿を徹底解説。",
+    "url": "https://croud-travel.pages.dev/japan-sake-brewery-auberge-pairing-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【酒蔵オーベルジュ＆日本酒ペアリング宿】蔵元直営・極上和食マリアージュ 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/japan-sake-brewery-auberge-pairing-stay/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-amber-950 via-stone-900 to-emerald-950 text-white p-8 md:p-14 shadow-xl border border-amber-300/30">
         <div className="max-w-3xl space-y-4">
@@ -203,6 +228,8 @@ export default function SakeTourismHubPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="japan-sake-brewery-auberge-pairing-stay" />
+</div>
   );
 }

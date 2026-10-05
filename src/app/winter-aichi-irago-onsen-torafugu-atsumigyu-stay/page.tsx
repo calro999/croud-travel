@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -351,6 +352,7 @@ export default function AichiIragoOnsenWinterPage() {
             }
   ];
 
+
   return (
     <article className="min-h-screen bg-stone-50 text-stone-900 leading-relaxed font-sans">
       <script
@@ -703,7 +705,9 @@ export default function AichiIragoOnsenWinterPage() {
               <span className="text-blue-700 font-bold block text-[10px]">三重・鳥羽温泉郷</span>
               <p className="font-bold text-stone-800 line-clamp-2">冬の伊勢海老と的矢かき会席・伊勢湾フェリーで行く海辺の湯宿</p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-aichi-irago-onsen-torafugu-atsumigyu-stay" />
+</div>
         </section>
 
       </main>

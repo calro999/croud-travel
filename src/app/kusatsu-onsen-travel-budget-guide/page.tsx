@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -26,8 +27,32 @@ function loadHotels() {
 export default function KusatsuBudgetGuidePage() {
   const hotels = loadHotels();
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【草津温泉旅行 費用】1泊2日いくらかかる？東京からの交通費＆湯畑周辺の宿泊費を完全計算 ｜ 日本全国・旅宿クラウド",
+    "description": "草津温泉旅行の1泊2日費用を完全解説！東京からの直行バス（3,600円〜）vs 特急草津（6,100円）の交通費比較、湯畑徒歩圏の温泉旅館の宿泊費（8,000〜40,000円）、湯もみショー・西の河原露天風呂の体験費用まで。",
+    "url": "https://croud-travel.pages.dev/kusatsu-onsen-travel-budget-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【草津温泉旅行 費用】1泊2日いくらかかる？東京からの交通費＆湯畑周辺の宿泊費を完全計算 ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/kusatsu-onsen-travel-budget-guide/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16 font-sans">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーロー */}
       <section className="bg-gradient-to-b from-sky-800 to-cyan-900 rounded-b-3xl md:rounded-3xl p-10 text-white text-center shadow-lg relative overflow-hidden">
         <div className="absolute inset-0 bg-[url('https://www.transparenttextures.com/patterns/cubes.png')] opacity-10"></div>
@@ -203,6 +228,8 @@ export default function KusatsuBudgetGuidePage() {
           🗾 全国都道府県ガイドへ
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="kusatsu-onsen-travel-budget-guide" />
+</div>
   );
 }

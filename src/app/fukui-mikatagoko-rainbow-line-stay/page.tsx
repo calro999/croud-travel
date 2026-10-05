@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -56,8 +57,32 @@ export default function MicroTouristHubPage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【福井・三方五湖＆レインボーライン】天空テラス・五色水鏡＆三方口細うなぎ・若狭ふぐ宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "水質と水深が異なる5つの奇跡の湖・福井三方五湖エリア完全特化！三方五湖レインボーライン山頂公園「天空の足湯・美浜テラス」、年縞博物館、名物「三方五湖口細うなぎ（天然うなぎ）」、冬の「若狭ふぐ・越前ガニ宿」を徹底解説。",
+    "url": "https://croud-travel.pages.dev/fukui-mikatagoko-rainbow-line-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【福井・三方五湖＆レインボーライン】天空テラス・五色水鏡＆三方口細うなぎ・若狭ふぐ宿 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/fukui-mikatagoko-rainbow-line-stay/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-stone-900 via-rose-950 to-amber-950 text-white p-8 md:p-14 shadow-xl border border-white/10">
         <div className="max-w-3xl space-y-4">
@@ -203,6 +228,8 @@ export default function MicroTouristHubPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="fukui-mikatagoko-rainbow-line-stay" />
+</div>
   );
 }

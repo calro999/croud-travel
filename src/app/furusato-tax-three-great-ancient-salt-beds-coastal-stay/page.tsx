@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -27,6 +28,20 @@ export default function FurusatoRound66ArticlePage() {
       { '@type': 'ListItem', position: 2, name: '旅行節約ハブ', item: baseUrl + '/travel-savings-guide' },
       { '@type': 'ListItem', position: 3, name: '日本三大塩田・伝統製塩とシーサイド温泉ステイ特集', item: baseUrl + '/furusato-tax-three-great-ancient-salt-beds-coastal-stay' },
     ],
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三大塩田跡＆揚げ浜式塩田の伝統技と日本海シーサイド温泉宿×ふるさと納税完全ガイド【2026年最新】能登・鳴門・赤穂",
+    "description": "海水と太陽、潮風が織りなす日本の塩づくりの原点「日本三大塩田」（石川能登・珠洲の揚げ浜式塩田、徳島・鳴門の入浜式塩田、兵庫・播州赤穂の塩田）。五百年の伝統を受け継ぐ国指定重要無形民俗文化財の塩づくり見学、ミネラル豊富な塩でいただく極上海鮮会席、海を望むインフィニティ絶景露天風呂。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ海辺の歴史温泉旅完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-great-ancient-salt-beds-coastal-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -538,7 +553,9 @@ export default function FurusatoRound66ArticlePage() {
                 秋田県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-three-great-ancient-salt-beds-coastal-stay" />
+</div>
         </section>
 
       </main>

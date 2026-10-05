@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -167,8 +168,32 @@ export default function FujiClimbingPackingRegretsPage() {
     },
   ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【富士登山で後悔したことワースト5】高山病・下山時の爪割れ・ヘッドライト忘れ！登頂成功の持ち物チェックリスト ｜ 日本全国・旅宿クラウド",
+    "description": "初心者が最も後悔する富士登山の落とし穴！登りより辛い下山時のつま先激痛、山小屋の寒暖差、小銭（トイレチップ用100円玉）切れ、ヘッドライトの電池切れ、五合目前泊・後泊におすすめの温泉宿まとめ。",
+    "url": "https://croud-travel.pages.dev/fuji-climbing-packing-regrets-worst5-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【富士登山で後悔したことワースト5】高山病・下山時の爪割れ・ヘッドライト忘れ！登頂成功の持ち物チェックリスト ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/fuji-climbing-packing-regrets-worst5-guide/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800 antialiased selection:bg-emerald-500 selection:text-white">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション（Emeraldテーマ：雄大な富士の山肌とエメラルドのハイコントラスト） */}
       <header className="relative bg-gradient-to-br from-emerald-950 via-slate-900 to-teal-950 text-white overflow-hidden pt-16 pb-20 px-4 sm:px-6 lg:px-8 border-b border-emerald-800/40">
         <div className="absolute inset-0 bg-[radial-gradient(circle_at_top_right,rgba(16,185,129,0.18),transparent_50%)] pointer-events-none" />
@@ -670,6 +695,8 @@ export default function FujiClimbingPackingRegretsPage() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="fuji-climbing-packing-regrets-worst5-guide" />
+</div>
   );
 }

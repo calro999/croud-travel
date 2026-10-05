@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -116,8 +117,32 @@ export default function Page() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三大仏＆歴史古都の門前町・国宝仏閣と伝統会席宿×ふるさと納税完全ガイド【2026年最新】奈良・鎌倉・高岡大仏",
+    "description": "千年の祈りと威風堂々の尊顔！奈良「東大寺盧舎那仏」世界最大の木造建築と大仏殿・若草山麓ホテルニューわかさ、神奈川「鎌倉大仏」国宝・青空の下に鎮座する高徳院と湘南フレンチ鎌倉パークホテル、富山「高岡大仏」銅器の町が誇る日本一の美男仏とホテルクラウンヒルズ高岡駅前。日本三大仏の歴史ロマンと門前町文化を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-great-buddhas-heritage-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "日本三大仏＆歴史古都の門前町・国宝仏閣と伝統会席宿×ふるさと納税完全ガイド【2026年最新】奈良・鎌倉・高岡大仏", "item": "https://croud-travel.pages.dev/furusato-tax-three-great-buddhas-heritage-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずリスト */}
       <nav className="bg-white border-b border-slate-200 py-3 px-4 text-xs text-slate-500">
         <div className="max-w-5xl mx-auto flex items-center space-x-2">
@@ -536,6 +561,8 @@ export default function Page() {
       <footer className="bg-slate-950 text-slate-400 py-8 px-4 text-center text-xs border-t border-slate-800">
         <p>© 2026 トラベルポータル All Rights Reserved. 掲載情報は最新の楽天トラベル公式APIに基づきます。</p>
       </footer>
-    </div>
+    
+      <HubRelatedPosts currentSlug="furusato-tax-three-great-buddhas-heritage-stay" />
+</div>
   );
 }

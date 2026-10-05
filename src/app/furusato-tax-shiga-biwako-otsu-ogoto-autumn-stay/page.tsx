@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -73,6 +74,7 @@ export default function Page() {
       }
     ]
   };
+
 
   return (
     <div className="min-h-screen bg-stone-50 text-stone-800">
@@ -541,6 +543,8 @@ export default function Page() {
         <p>© 2026 クラウドトラベル All Rights Reserved.</p>
         <p>※掲載のホテル情報・料金・評価は楽天トラベルAPIより取得した最新データに基づきます。最新の空室状況はリンク先の各プラン詳細をご確認ください。</p>
       </footer>
-    </div>
+    
+      <HubRelatedPosts currentSlug="furusato-tax-shiga-biwako-otsu-ogoto-autumn-stay" />
+</div>
   );
 }

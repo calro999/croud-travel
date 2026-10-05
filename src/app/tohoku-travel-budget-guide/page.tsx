@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -26,8 +27,32 @@ function loadHotels() {
 export default function TohokuBudgetGuidePage() {
   const hotels = loadHotels();
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【東北旅行 費用】2泊3日で仙台・松島・銀山温泉を巡るといくらかかる？交通費＆宿泊費の完全内訳 ｜ 日本全国・旅宿クラウド",
+    "description": "東北旅行の費用を2泊3日（仙台＋松島＋銀山温泉or蔵王温泉）のモデルコースで完全計算。東京からの東北新幹線vs高速バスの交通費比較、牛たん・ずんだ餅のグルメ費用、銀山温泉のレトロ旅館の宿泊費まで内訳公開。",
+    "url": "https://croud-travel.pages.dev/tohoku-travel-budget-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【東北旅行 費用】2泊3日で仙台・松島・銀山温泉を巡るといくらかかる？交通費＆宿泊費の完全内訳 ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/tohoku-travel-budget-guide/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16 font-sans">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <section className="relative rounded-3xl overflow-hidden bg-gradient-to-br from-emerald-900 via-teal-800 to-cyan-900 text-white p-8 md:p-14 shadow-2xl">
         <div className="max-w-3xl space-y-5 relative z-10">
@@ -236,6 +261,8 @@ export default function TohokuBudgetGuidePage() {
           🗾 全国都道府県ガイドへ
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="tohoku-travel-budget-guide" />
+</div>
   );
 }

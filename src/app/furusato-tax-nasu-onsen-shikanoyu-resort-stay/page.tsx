@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -42,6 +43,7 @@ export default function FurusatoArticlePage() {
     dateModified: '2026-09-10T17:15:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-nasu-onsen-shikanoyu-resort-stay',
   };
+
 
   return (
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
@@ -633,7 +635,9 @@ export default function FurusatoArticlePage() {
                 富山県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-nasu-onsen-shikanoyu-resort-stay" />
+</div>
         </section>
 
       </main>

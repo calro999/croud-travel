@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoShuzenjiAtamiLateAutumnLeavesStayPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本一遅い紅葉を愛でる！伊豆修善寺竹林の小径＆熱海梅園もみじまつり名門旅館×ふるさと納税完全ガイド【2026年最新秋旅】静岡 | 旅宿クラウド",
+    "description": "11月中旬〜12月上旬に見頃を迎える「日本一遅い紅葉名所」伊豆修善寺温泉（竹林の小径・修禅寺庭園）＆熱海梅園もみじまつり！国の登録有形文化財「新井旅館」、円をテーマにした寛ぎ宿「〇久旅館」、本格料亭旅館「柳生の庄」。伊豆の金目鯛と天城軍鶏を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-shuzenji-atami-late-autumn-leaves-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "日本一遅い紅葉を愛でる！伊豆修善寺竹林の小径＆熱海梅園もみじまつり名門旅館×ふるさと納税完全ガイド【2026年最新秋旅】静岡 | 旅宿クラウド", "item": "https://croud-travel.pages.dev/furusato-tax-shuzenji-atami-late-autumn-leaves-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -582,7 +605,9 @@ export default function FurusatoShuzenjiAtamiLateAutumnLeavesStayPage() {
                 沖縄県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-shuzenji-atami-late-autumn-leaves-stay" />
+</div>
         </section>
 
       </main>

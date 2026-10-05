@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -19,8 +20,32 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoTaxPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "雲海テラス＆天空パノラマリゾート×ふるさと納税完全ガイド【2026年最新】トマム・志賀高原・蔵王の雲上絶景ホテル",
+    "description": "早朝、目の前を埋め尽くす幻想的な白銀の雲海！北海道トマムの雲海テラス、標高2,307m志賀高原渋峠、山形蔵王連峰の天空ホテルを楽天ふるさと納税宿泊クーポンでお得に予約する非日常ステイ。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-sea-of-clouds-sky-terrace-hotel-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "雲海テラス＆天空パノラマリゾート×ふるさと納税完全ガイド【2026年最新】トマム・志賀高原・蔵王の雲上絶景ホテル", "item": "https://croud-travel.pages.dev/furusato-tax-sea-of-clouds-sky-terrace-hotel-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-950 text-slate-100 selection:bg-amber-500 selection:text-white">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずリスト */}
       <nav className="border-b border-slate-800/80 bg-slate-900/60 backdrop-blur px-4 py-3 text-xs text-slate-400">
         <div className="max-w-6xl mx-auto flex items-center gap-2 overflow-x-auto whitespace-nowrap">
@@ -656,6 +681,8 @@ export default function FurusatoTaxPage() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="furusato-tax-sea-of-clouds-sky-terrace-hotel-stay" />
+</div>
   );
 }

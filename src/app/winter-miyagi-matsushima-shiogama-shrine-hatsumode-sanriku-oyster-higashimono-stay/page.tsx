@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import Link from 'next/link';
 import type { Metadata } from 'next';
 import { 
@@ -255,6 +256,7 @@ export default function MiyagiMatsushimaWinterPage() {
       a: "仙台駅からJR仙石線快速・普通列車で松島海岸駅まで約40分、本塩釜駅まで約30分と公共交通機関でのアクセスが極めて優れています。東北本線を利用すれば仙台駅から松島駅まで約25分です。宮城県沿岸部の松島・塩竈エリアは東北地方の中では比較的積雪が少なく温暖ですが、12月〜1月の朝晩は氷点下に下がる日が多く、日陰の凍結（ブラックアイスバーン）に注意が必要です。車で訪れる場合は必ずスタッドレスタイヤを装着し、海風を通さない厚手の防寒具や手袋、滑りにくい靴を用意してください。"
     }
   ];
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800 antialiased">
@@ -704,7 +706,9 @@ export default function MiyagiMatsushimaWinterPage() {
             >
               トップページへ戻る
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-miyagi-matsushima-shiogama-shrine-hatsumode-sanriku-oyster-higashimono-stay" />
+</div>
         </section>
 
       </main>

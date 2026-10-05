@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -27,6 +28,20 @@ export default function FurusatoKanrekiCelebrationStayPage() {
       { '@type': 'ListItem', position: 2, name: '旅行節約ハブ', item: baseUrl + '/travel-savings-guide' },
       { '@type': 'ListItem', position: 3, name: '還暦祝い＆親孝行温泉名旅館特集', item: baseUrl + '/furusato-tax-kanreki-celebration-oyakoukou-onsen-stay' },
     ],
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "還暦・古希・長寿祝い＆親孝行温泉旅に選ぶ極上名旅館×ふるさと納税完全ガイド【2026年最新】有馬・金沢湯涌・淡路島",
+    "description": "ご両親への感謝を込めた最高の親孝行！還暦・古希・傘寿など長寿のお祝い旅行にふさわしい名門温泉宿を厳選。日本最古の名湯・有馬温泉で金泉銀泉と贅を尽くした花懐石を味わう「御幸荘 花結び」、加賀百万石の奥座敷・金沢湯涌温泉で数寄屋造りの静寂に浸る「湯の出旅館」、全室オーシャンビューとバリアフリー対応の安心リゾート「淡路インターナショナルホテル ザ・サンプラザ」。ちゃんちゃんこ貸出や記念写真・個室食などおもてなしの宿に、楽天ふるさと納税トラベルクーポンで実質2,000円負担で宿泊する完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-kanreki-celebration-oyakoukou-onsen-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -556,7 +571,9 @@ export default function FurusatoKanrekiCelebrationStayPage() {
                 岩手県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-kanreki-celebration-oyakoukou-onsen-stay" />
+</div>
         </section>
 
       </main>

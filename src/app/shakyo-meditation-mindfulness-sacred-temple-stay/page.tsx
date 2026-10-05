@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -16,6 +17,28 @@ export const metadata: Metadata = {
 
 export default function Page() {
   const secData = (seasonalData as any)['shakyo-meditation-mindfulness-sacred-temple-stay'] || {};
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "写経・写仏＆瞑想マインドフルネス宿完全ガイド【出羽三山・お遍路・鎌倉】 | クラウドトラベル",
+    "description": "出羽三山（羽黒山）山伏修行ゆかりの宿坊、四国八十八ヶ所霊場のお遍路寺院、古都鎌倉の禅寺ゆかりの宿を特集。墨をすり一文字ずつ仏の言葉をなぞる写経、阿字観瞑想でマインドフルネスを体感する旅。",
+    "url": "https://croud-travel.pages.dev/shakyo-meditation-mindfulness-sacred-temple-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "写経・写仏＆瞑想マインドフルネス宿完全ガイド【出羽三山・お遍路・鎌倉】 | クラウドトラベル", "item": "https://croud-travel.pages.dev/shakyo-meditation-mindfulness-sacred-temple-stay/" }
+    ]
+  };
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
@@ -486,7 +509,9 @@ export default function Page() {
                 京都府の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="shakyo-meditation-mindfulness-sacred-temple-stay" />
+</div>
         </section>
 
       </main>

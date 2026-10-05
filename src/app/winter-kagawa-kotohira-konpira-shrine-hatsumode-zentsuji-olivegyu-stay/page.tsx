@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import Link from 'next/link';
 import type { Metadata } from 'next';
 import { 
@@ -255,6 +256,7 @@ export default function KagawaKotohiraWinterPage() {
       a: "琴平・善通寺周辺は瀬戸内海式気候に属し、冬期でも平野部での積雪は年に数回程度と極めて稀で、比較的温暖です。本州からは瀬戸大橋（瀬戸中央自動車道）経由で善通寺ICまで直結、高松空港からも琴平行きリムジンバスで約45分、JR岡山駅からは特急「南風」で琴平駅まで約1時間と、公共交通機関でのアクセスも抜群です。ただし寒波来襲時や早朝の峠道では路面凍結の可能性があるため、天気予報を確認してお出かけください。"
     }
   ];
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800 antialiased">
@@ -651,7 +653,9 @@ export default function KagawaKotohiraWinterPage() {
             >
               トップページへ戻る
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-kagawa-kotohira-konpira-shrine-hatsumode-zentsuji-olivegyu-stay" />
+</div>
         </section>
 
       </main>

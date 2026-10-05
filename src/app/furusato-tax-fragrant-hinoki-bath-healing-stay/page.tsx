@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -27,6 +28,20 @@ export default function FurusatoFragrantHinokiBathStayPage() {
       { '@type': 'ListItem', position: 2, name: '旅行節約ハブ', item: baseUrl + '/travel-savings-guide' },
       { '@type': 'ListItem', position: 3, name: '総檜風呂＆森林浴温泉名宿特集', item: baseUrl + '/furusato-tax-fragrant-hinoki-bath-healing-stay' },
     ],
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "天然ヒノキの香りと美肌温泉に包まれる総檜風呂名旅館×ふるさと納税完全ガイド【2026年最新】信州木曽・伊豆湯ヶ島・熊本黒川",
+    "description": "木肌の柔らかな感触と、豊かに立ちのぼるヒノキのフィトンチッド。日本古来の癒やしを体現した極上の総檜風呂宿を厳選！木曽ヒノキ発祥の地で樹齢数百年の大名風呂と木曽牛会席を味わう「木曽路の宿 いわや」、猫越川の清流を望む全室源泉かけ流し総檜露天風呂付きの大人の名宿「谷川の湯 あせび野」、細川藩の御前湯の歴史を継ぎ創業三百年を誇る黒川温泉「歴史の宿 御客屋」。五感を解き放つ木の温もりステイを、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-fragrant-hinoki-bath-healing-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -556,7 +571,9 @@ export default function FurusatoFragrantHinokiBathStayPage() {
                 高知県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-fragrant-hinoki-bath-healing-stay" />
+</div>
         </section>
 
       </main>

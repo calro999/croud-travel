@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -187,6 +188,7 @@ export default function KagoshimaMyokenPage() {
     "a": "妙見温泉は全国の温泉地の中でもトップクラスのアクセスの良さを誇ります。鹿児島空港から車またはタクシーでわずか約15〜20分（路線バスでも約25分）。九州新幹線の停車駅であるJR鹿児島中央駅からは、日豊本線特急「きりしま」でJR隼人駅まで約30分、隼人駅からタクシーまたは路線バスで約15分で到着します。羽田や伊丹から飛行機を利用すれば、空港到着から30分足らずで秘湯の露天風呂に浸かることができる利便性が大きな魅力です。"
   }
 ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-amber-100 selection:text-amber-900 pb-20">
@@ -623,7 +625,9 @@ export default function KagoshimaMyokenPage() {
                 冬の夜に奉納される重要無形民俗文化財の夜神楽と高千穂峡の荘厳な渓谷美を巡る旅。
               </p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-kagoshima-myoken-onsen-amorigawa-black-pork-stay" />
+</div>
         </section>
 
       </main>

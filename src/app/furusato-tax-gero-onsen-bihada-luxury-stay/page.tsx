@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoGeroOnsenBihadaStayPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三名泉・天下の名湯！下呂温泉の美肌の湯めぐり＆国登録有形文化財・極上飛騨牛会席×ふるさと納税完全攻略ガイド【2026年最新】水明館・望川館・湯之島館",
+    "description": "有馬・草津と並ぶ日本三名泉・岐阜県下呂温泉！美容液のような滑らかなpH9.2アルカリ性単純温泉。「下呂温泉 水明館」「下呂温泉 望川館」「下呂温泉 湯之島館」を、岐阜県下呂市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。三大大浴場、千百坪日本庭園、昭和初期木造建築美、最高峰飛騨牛会席を満喫。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-gero-onsen-bihada-luxury-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "日本三名泉・天下の名湯！下呂温泉の美肌の湯めぐり＆国登録有形文化財・極上飛騨牛会席×ふるさと納税完全攻略ガイド【2026年最新】水明館・望川館・湯之島館", "item": "https://croud-travel.pages.dev/furusato-tax-gero-onsen-bihada-luxury-stay/" }
+    ]
+  };
+
   return (
     <article className="max-w-5xl mx-auto px-4 py-8 text-gray-800 leading-relaxed font-sans">
       {/* パンくずリスト */}
@@ -346,7 +369,9 @@ export default function FurusatoGeroOnsenBihadaStayPage() {
           >
             ▸ 【登録有形文化財・宮大工数寄屋造り旅館×ふるさと納税】木造建築美の宿
           </Link>
-        </div>
+        
+      <HubRelatedPosts currentSlug="furusato-tax-gero-onsen-bihada-luxury-stay" />
+</div>
       </section>
     </article>
   );

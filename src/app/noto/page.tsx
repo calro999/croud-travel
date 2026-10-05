@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import fs from "fs";
 import path from "path";
 import Link from "next/link";
@@ -110,6 +111,20 @@ export default function NotoGuidePage() {
       name: item.q,
       acceptedAnswer: { "@type": "Answer", text: item.a },
     })),
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【能登旅行 完全計画ガイド】1泊2日・2泊3日モデルコース＆和倉温泉・白米千枚田・能登島・能登丼・絶景宿おすすめ ｜ 旅宿クラウド",
+    "description": "能登旅行の計画をステップバイステップで完全サポート！世界農業遺産・能登の里山里海の魅力、1泊2日/2泊3日ドライブ＆モデルコース、車なしアクセス、和倉温泉・白米千枚田（所要時間・ライトアップあぜの万灯）・のとじま水族館・輪島朝市・見附島、能登丼＆能登牡蠣・能登牛グルメから楽天トラベル予約可能な温泉宿まで網羅。",
+    "url": "https://croud-travel.pages.dev/noto/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -569,6 +584,8 @@ export default function NotoGuidePage() {
           </Link>
         </div>
       </section>
-    </div>
+    
+      <HubRelatedPosts currentSlug="noto" />
+</div>
   );
 }

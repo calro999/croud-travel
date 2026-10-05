@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -27,6 +28,20 @@ export default function FurusatoSeasonalFruitPickingStayPage() {
       { '@type': 'ListItem', position: 2, name: '旅行節約ハブ', item: baseUrl + '/travel-savings-guide' },
       { '@type': 'ListItem', position: 3, name: 'フルーツ王国果樹園＆ワイナリー美肌温泉特集', item: baseUrl + '/furusato-tax-seasonal-fruit-picking-vineyard-onsen-stay' },
     ],
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "果樹園の旬フルーツ狩り＆名門ワイナリー・美肌温泉宿×ふるさと納税完全ガイド【2026年最新】石和・伊豆長岡・飯坂",
+    "description": "桃・ぶどう・完熟いちご・蜜入りりんご！日本屈指の果樹王国で採れたて旬フルーツの芳醇な甘みと名湯を堪能する大人の贅沢旅。甲州ワインと果樹園の聖地・笛吹市石和温泉の老舗「みなもと旅館」、紅ほっぺや章姫のいちご狩り農園に囲まれた伊豆の国市「招福の宿 ゑびすや」、福島フルーツラインの果樹園群と摺上川の渓谷美を誇る「飯坂温泉 摺上亭 大鳥」。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ果実美酒温泉ステイ。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-seasonal-fruit-picking-vineyard-onsen-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -556,7 +571,9 @@ export default function FurusatoSeasonalFruitPickingStayPage() {
                 宮城県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-seasonal-fruit-picking-vineyard-onsen-stay" />
+</div>
         </section>
 
       </main>

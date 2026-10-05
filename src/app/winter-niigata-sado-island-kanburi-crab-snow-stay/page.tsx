@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -222,6 +223,7 @@ export default function NiigataSadoIslandPage() {
     "a": "「波の花」とは、冬の日本海の荒波が海岸の岩肌に激しく打ち寄せる際、海水中の植物プランクトンの粘液（粘着質のタンパク質）が泡立ち、無数の白い泡の塊となって海岸を埋め尽くす冬の自然現象です。強い冬の季節風が吹くと、泡がちぎれて雪のように宙を舞い散る幻想的な情景が見られます。佐渡島北部の外海府海岸や夫婦岩周辺、尖閣湾などで11月下旬から1月の強風時に頻繁に観察され、冬の佐渡の厳しくも美しい風物詩として知られています。"
   }
 ];
+
 
   return (
     <article className="min-h-screen bg-stone-50/50 pb-20 text-stone-800">
@@ -589,7 +591,9 @@ export default function NiigataSadoIslandPage() {
               <span className="text-teal-700 font-bold block text-[10px]">新潟・瀬波温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">日本海の夕日絶景露天風呂と村上伝統鮭料理・極上村上牛を味わう名宿</p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-niigata-sado-island-kanburi-crab-snow-stay" />
+</div>
         </section>
 
       </main>

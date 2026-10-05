@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -191,6 +192,28 @@ export default function KyotoOharaSanzeninPage() {
         text: item.a
       }
     }))
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【11・12・1月京都】静寂の洛北・大原三千院の白銀雪景色と宝泉院「額縁庭園」冬参拝＆名物「地鶏味噌鍋」・大原温泉の隠れ家名宿5選",
+    "description": "11月下旬から1月、観光客で賑わう京都市内の喧騒を離れ、静寂と清冽な大気に包まれる洛北・大原の里。天台宗の古刹「三千院」では、青苔の「有清園」にしんしんと白雪が降り積もり、愛らしい「わらべ地蔵」や国宝阿弥陀三尊像を祀る「往生極楽院」が息を呑む幽玄の美を湛えます。隣接する宝泉院では、柱と鴨居を額縁に見立てた「額縁雪景色庭園（盤桓園）」でお抹茶をいただきながら冬の山水画を鑑賞。冷え切った身体を温めるのは、100年の伝統味噌で煮込む大原名物「京地鶏味噌鍋」や「天然ぼたん鍋」、そして弱アルカリ性の美肌名湯「大原温泉」。大人の冬の京都を静かに満喫する厳選名宿5選を徹底紹介します。",
+    "url": "https://croud-travel.pages.dev/winter-kyoto-ohara-sanzenin-snow-hosenin-misonabe-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【11・12・1月京都】静寂の洛北・大原三千院の白銀雪景色と宝泉院「額縁庭園」冬参拝＆名物「地鶏味噌鍋」・大原温泉の隠れ家名宿5選", "item": "https://croud-travel.pages.dev/winter-kyoto-ohara-sanzenin-snow-hosenin-misonabe-stay/" }
+    ]
   };
 
   return (
@@ -639,7 +662,9 @@ export default function KyotoOharaSanzeninPage() {
                 亀岡霧の雲海露天風呂と冬の名物ぼたん鍋を味わう隠れ家名宿
               </span>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-kyoto-ohara-sanzenin-snow-hosenin-misonabe-stay" />
+</div>
         </section>
 
         {/* Final CTA Section */}

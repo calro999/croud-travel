@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -67,6 +68,28 @@ const HOTEL_DATA = {
 };
 
 export default function FeatureArticlePage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "京都・貴船神社のもみじ灯篭ライトアップ＆叡山電車もみじトンネル！貴船料理旅館×ふるさと納税完全ガイド【2026年最新秋旅】京都",
+    "description": "11月上旬〜下旬に朱塗りの灯篭と紅葉の石段が幻想的に照らし出される恋の宮「京都・貴船神社 もみじ灯篭」。叡山電車のライトアップされた「もみじのトンネル」車窓と、貴船川のせせらぎに佇む「貴船ふじや」「ひろや」「ひろ文」で秋限定の猪鍋・ぼたん鍋や丹波牛・京懐石料理を堪能。ふるさと納税トラベルクーポンで実質2,000円。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-kifune-kurama-autumn-leaves-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "京都・貴船神社のもみじ灯篭ライトアップ＆叡山電車もみじトンネル！貴船料理旅館×ふるさと納税完全ガイド【2026年最新秋旅】京都", "item": "https://croud-travel.pages.dev/furusato-tax-kifune-kurama-autumn-leaves-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -520,7 +543,9 @@ export default function FeatureArticlePage() {
                 香川県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-kifune-kurama-autumn-leaves-stay" />
+</div>
         </section>
 
       </main>

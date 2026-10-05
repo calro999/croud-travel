@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -56,8 +57,32 @@ export default function HistoryHeritageHubPage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【世界遺産・霊場巡り＆宿坊体験宿】高野山宿坊・熊野古道・比叡山延暦寺 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "千年の祈りと静寂に包まれる聖地巡礼完全特化！弘法大師空海が開いた天空の宗教都市「高野山宿坊（精進料理・阿字観・朝のお勤め）」、神々が宿る「熊野三山＆熊野古道歩き」、天台宗総本山「比叡山延暦寺 延暦寺会館」を徹底解説。",
+    "url": "https://croud-travel.pages.dev/japan-sacred-pilgrimage-koyasan-shukubo-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【世界遺産・霊場巡り＆宿坊体験宿】高野山宿坊・熊野古道・比叡山延暦寺 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/japan-sacred-pilgrimage-koyasan-shukubo-stay/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-stone-900 via-rose-950 to-amber-950 text-white p-8 md:p-14 shadow-xl border border-white/10">
         <div className="max-w-3xl space-y-4">
@@ -203,6 +228,8 @@ export default function HistoryHeritageHubPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="japan-sacred-pilgrimage-koyasan-shukubo-stay" />
+</div>
   );
 }

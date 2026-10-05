@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -132,6 +133,28 @@ export default function SilverWeekGlampingThreeGenerationFamilyPage() {
         text: faq.answer,
       },
     })),
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【3世代家族で行くシルバーウィーク グランピング】祖父母も疲れない！段差なしバリアフリー＆和洋室ヴィラ ｜ 日本全国・旅宿クラウド",
+    "description": "おじいちゃん・おばあちゃん、両親、子供の3世代で泊まれる安心グランピング！足腰に優しいフラット設計、畳スペースのある和洋室ヴィラ、食事も椅子席完備でシニアも安心。敬老の日のプレゼント旅行に。",
+    "url": "https://croud-travel.pages.dev/silver-week-glamping-three-generation-family-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【3世代家族で行くシルバーウィーク グランピング】祖父母も疲れない！段差なしバリアフリー＆和洋室ヴィラ ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/silver-week-glamping-three-generation-family-guide/" }
+    ]
   };
 
   return (
@@ -411,6 +434,8 @@ export default function SilverWeekGlampingThreeGenerationFamilyPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="silver-week-glamping-three-generation-family-guide" />
+</div>
   );
 }

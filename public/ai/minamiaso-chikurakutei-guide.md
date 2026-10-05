@@ -1,4 +1,4 @@
-# 南阿蘇俵山温泉 旅館 竹楽亭のリアル宿泊記！温泉・客室・朝食バイキングの本音口コミ評判｜熊本県
+# 南阿蘇俵山温泉 旅館 竹楽亭の宿泊ルポ＆見どころガイド｜熊本県
 
 - URL: https://croud-travel.pages.dev/posts/minamiaso-chikurakutei-guide/
 - 宿泊施設名: 南阿蘇俵山温泉 旅館 竹楽亭

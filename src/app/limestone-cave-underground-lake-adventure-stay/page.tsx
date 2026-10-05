@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -144,6 +145,7 @@ export default function Page() {
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8805%2F8805.html"
   }
 ];
+
 
   return (
     <div className="space-y-10 max-w-4xl mx-auto">
@@ -303,6 +305,8 @@ export default function Page() {
           </div>
         </div>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="limestone-cave-underground-lake-adventure-stay" />
+</div>
   );
 }

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -67,6 +68,28 @@ const HOTEL_DATA = {
 };
 
 export default function FeatureArticlePage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "定山渓温泉の豊平峡ダム紅葉＆渓谷ネイチャールミナリエ！札幌奥座敷露天風呂宿×ふるさと納税完全ガイド【2026年最新秋旅】北海道",
+    "description": "10月上旬〜中旬に日本有数のダム湖紅葉が広がる「札幌奥座敷・定山渓温泉＆豊平峡ダム」。環境配慮のハイブリッド電気バスで行く大パノラマや二見吊橋の紅葉ライトアップ、渓谷沿いに湧く名湯「翠蝶館」「章月グランドホテル」「翠山亭倶楽部定山渓」で道産秋鮭・いくらや富良野牛・白老牛会席を堪能。ふるさと納税で実質2,000円。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-jozankei-hoheikyo-autumn-leaves-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "定山渓温泉の豊平峡ダム紅葉＆渓谷ネイチャールミナリエ！札幌奥座敷露天風呂宿×ふるさと納税完全ガイド【2026年最新秋旅】北海道", "item": "https://croud-travel.pages.dev/furusato-tax-jozankei-hoheikyo-autumn-leaves-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -520,7 +543,9 @@ export default function FeatureArticlePage() {
                 群馬県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-jozankei-hoheikyo-autumn-leaves-stay" />
+</div>
         </section>
 
       </main>

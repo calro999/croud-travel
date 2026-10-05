@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -126,6 +127,28 @@ export default function SilverWeekGlampingSeaKayakMarinePage() {
         text: faq.answer,
       },
     })),
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【海グランピング SUP＆シーカヤック体験】秋のビーチ直結！波音を聞いて眠るウォーターフロントリゾート ｜ 日本全国・旅宿クラウド",
+    "description": "山だけでなく海も最高！秋風が心地よい9月のシーサイドグランピング特集。目の前のビーチで楽しむSUPやシーカヤック、初心者向け海釣り体験、水平線に沈む夕日と海鮮浜焼きBBQのモデルコース。",
+    "url": "https://croud-travel.pages.dev/silver-week-glamping-sea-kayak-marine-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【海グランピング SUP＆シーカヤック体験】秋のビーチ直結！波音を聞いて眠るウォーターフロントリゾート ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/silver-week-glamping-sea-kayak-marine-guide/" }
+    ]
   };
 
   return (
@@ -387,6 +410,8 @@ export default function SilverWeekGlampingSeaKayakMarinePage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="silver-week-glamping-sea-kayak-marine-guide" />
+</div>
   );
 }

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -220,6 +221,7 @@ export default function WinterFukuokaYanagawaPage() {
       }
     ]
   };
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-slate-50 via-teal-50/20 to-slate-50 text-slate-800 antialiased">
@@ -659,7 +661,9 @@ export default function WinterFukuokaYanagawaPage() {
                 朝霧の都・人吉の幻想的な城下町風景と相良700年の名湯巡り。
               </p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-fukuoka-yanagawa-onsen-kotatsubune-unagi-seiromushi-stay" />
+</div>
         </section>
 
       </main>

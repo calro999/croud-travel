@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -16,8 +17,32 @@ export const metadata: Metadata = {
 };
 
 export default function Page() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【栃木・那須塩原＆板室・黒磯】茶臼岳・板室立ち湯＆黒磯カフェ・那須牛宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "噴煙たなびく那須連山の主峰「茶臼岳ロープウェイ」、九尾の狐伝説が眠る「殺生石」、平安時代開湯・杖いらずの下野薬湯「板室温泉」の深型立ち湯、若者に人気の黒磯駅前SHOZOカフェストリート、とろける極上「那須黒毛和牛」ステーキ宿を徹底解説。",
+    "url": "https://croud-travel.pages.dev/tochigi-nasu-shiobara-itamuro-kuroiso-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【栃木・那須塩原＆板室・黒磯】茶臼岳・板室立ち湯＆黒磯カフェ・那須牛宿 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/tochigi-nasu-shiobara-itamuro-kuroiso-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-stone-950 text-stone-100">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローヘッダー */}
       <div className="relative py-20 px-4 sm:px-6 lg:px-8 bg-gradient-to-b from-stone-900 via-stone-950 to-stone-950 border-b border-stone-800">
         <div className="max-w-5xl mx-auto text-center">
@@ -797,6 +822,8 @@ export default function Page() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="tochigi-nasu-shiobara-itamuro-kuroiso-stay" />
+</div>
   );
 }

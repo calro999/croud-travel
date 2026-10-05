@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -111,8 +112,32 @@ export default function HighwayBusArticlePage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【東京〜盛岡・花巻】新幹線はやぶさ vs 夜行バス徹底比較！片道3,500円〜行く三大麺爆食＆花巻温泉郷1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+    "description": "東京から盛岡・花巻へ安く行くには？東北新幹線「はやぶさ」と夜行高速バスの料金・所要時間比較！盛岡三大麺（わんこそば・冷麺・じゃじゃ麺）制覇と宮沢賢治ゆかりの花巻温泉郷を満喫する1泊2日モデルコース。",
+    "url": "https://croud-travel.pages.dev/tokyo-iwate-morioka-bus-vs-shinkansen-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【東京〜盛岡・花巻】新幹線はやぶさ vs 夜行バス徹底比較！片道3,500円〜行く三大麺爆食＆花巻温泉郷1泊2日モデルコース ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/tokyo-iwate-morioka-bus-vs-shinkansen-guide/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-sky-950 via-slate-900 to-indigo-950 text-white p-8 md:p-14 shadow-xl border border-white/10">
         <div className="max-w-3xl space-y-4">
@@ -422,6 +447,8 @@ export default function HighwayBusArticlePage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="tokyo-iwate-morioka-bus-vs-shinkansen-guide" />
+</div>
   );
 }

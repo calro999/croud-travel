@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -116,8 +117,32 @@ export default function Page() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三大瓦の町＆美しいいぶし銀の街並み・赤瓦景観と名湯美食宿×ふるさと納税完全ガイド【2026年最新】淡路瓦・三州瓦・石州瓦",
+    "description": "日本の屋根を守り抜いた匠の技と伝統の景観！兵庫「淡路瓦」いぶし銀の風情と淡路牛・あわかん釣りと家族の体験型旅館、愛知「三州瓦」日本一の瓦産地・刈谷エースイン刈谷、島根「石州瓦」日本海の夕日に輝く赤瓦の町並みとMASCOS HOTEL。日本三大瓦の町を巡る工芸と美食の旅を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-great-roof-tile-towns-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "日本三大瓦の町＆美しいいぶし銀の街並み・赤瓦景観と名湯美食宿×ふるさと納税完全ガイド【2026年最新】淡路瓦・三州瓦・石州瓦", "item": "https://croud-travel.pages.dev/furusato-tax-three-great-roof-tile-towns-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずリスト */}
       <nav className="bg-white border-b border-slate-200 py-3 px-4 text-xs text-slate-500">
         <div className="max-w-5xl mx-auto flex items-center space-x-2">
@@ -536,6 +561,8 @@ export default function Page() {
       <footer className="bg-slate-950 text-slate-400 py-8 px-4 text-center text-xs border-t border-slate-800">
         <p>© 2026 トラベルポータル All Rights Reserved. 掲載情報は最新の楽天トラベル公式APIに基づきます。</p>
       </footer>
-    </div>
+    
+      <HubRelatedPosts currentSlug="furusato-tax-three-great-roof-tile-towns-stay" />
+</div>
   );
 }

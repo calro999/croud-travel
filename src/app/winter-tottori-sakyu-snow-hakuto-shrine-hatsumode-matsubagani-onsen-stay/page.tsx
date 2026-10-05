@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import Link from 'next/link';
 import type { Metadata } from 'next';
 import { 
@@ -255,6 +256,7 @@ export default function TottoriSakyuWinterPage() {
       a: "関西方面からは大阪・京都から特急「スーパーはくと」で乗り換えなし約2時間30分、岡山方面からは特急「スーパーいなば」で約1時間50分と、特急列車でのアクセスが非常に快適です。東京からは羽田空港から「鳥取砂丘コナン空港」まで飛行機で約75分、空港から鳥取駅までは連絡バスで約20分です。車の場合は鳥取自動車道（無料区間多数）を利用できますが、山陰地方の山間部や峠越えでは12月〜1月に積雪や凍結が発生するため、冬用タイヤ（スタッドレスタイヤ）の装着が必須です。"
     }
   ];
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800 antialiased">
@@ -651,7 +653,9 @@ export default function TottoriSakyuWinterPage() {
             >
               トップページへ戻る
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-tottori-sakyu-snow-hakuto-shrine-hatsumode-matsubagani-onsen-stay" />
+</div>
         </section>
 
       </main>

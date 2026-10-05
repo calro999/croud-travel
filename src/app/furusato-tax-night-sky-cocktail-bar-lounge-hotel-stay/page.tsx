@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -27,6 +28,20 @@ export default function FurusatoNightSkyBarLoungeStayPage() {
       { '@type': 'ListItem', position: 2, name: '旅行節約ハブ', item: baseUrl + '/travel-savings-guide' },
       { '@type': 'ListItem', position: 3, name: '天空スカイバー＆クラブラウンジ夜景ホテル特集', item: baseUrl + '/furusato-tax-night-sky-cocktail-bar-lounge-hotel-stay' },
     ],
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "地上数十階から望む宝石の夜景パノラマ＆天空スカイバー・クラブラウンジ名門ホテル×ふるさと納税完全ガイド【2026年最新】横浜・長崎・大阪",
+    "description": "きらめく摩天楼の夜景と上質なカクテルに酔いしれる大人の夜！大観覧車が目の前に輝くバルコニーとバーを誇る「横浜ベイホテル東急」、世界新三大夜景のすり鉢状パノラマを望むクラブラウンジ「ガーデンテラス長崎ホテル＆リゾート」、地上200m大阪中之島の夜景と現代アートが融合する天空ホテル「コンラッド大阪」。極上のナイトビューバー体験を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-night-sky-cocktail-bar-lounge-hotel-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -556,7 +571,9 @@ export default function FurusatoNightSkyBarLoungeStayPage() {
                 愛知県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-night-sky-cocktail-bar-lounge-hotel-stay" />
+</div>
         </section>
 
       </main>

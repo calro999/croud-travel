@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -56,8 +57,32 @@ export default function MicroTouristHubPage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【徳島・鳴門＆大塚国際美術館】世界三大潮流・鳴門の渦潮＆陶板名画・鳴門鯛宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "世界三大潮流の渦潮と世界最大級の陶板美術館・徳島鳴門エリア完全特化！大塚国際美術館のシスティーナ礼拝堂、鳴門海峡の渦潮クルーズ、渦の道、鳴門温泉、ブランド魚「鳴門鯛・鳴門わかめ」＆阿波牛宿を徹底解説。",
+    "url": "https://croud-travel.pages.dev/tokushima-naruto-otsuka-museum-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【徳島・鳴門＆大塚国際美術館】世界三大潮流・鳴門の渦潮＆陶板名画・鳴門鯛宿 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/tokushima-naruto-otsuka-museum-stay/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-stone-900 via-rose-950 to-amber-950 text-white p-8 md:p-14 shadow-xl border border-white/10">
         <div className="max-w-3xl space-y-4">
@@ -203,6 +228,8 @@ export default function MicroTouristHubPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="tokushima-naruto-otsuka-museum-stay" />
+</div>
   );
 }

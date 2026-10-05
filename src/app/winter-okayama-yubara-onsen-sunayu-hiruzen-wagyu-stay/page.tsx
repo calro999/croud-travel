@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -221,6 +222,7 @@ export default function OkayamaYubaraWinterFeature() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800 pb-20">
@@ -593,7 +595,9 @@ export default function OkayamaYubaraWinterFeature() {
               <span className="text-xs text-amber-300 font-semibold block mb-1">愛媛・道後温泉</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">日本最古の名湯本館と宇和海鯛めし・湯菜美肌の宿</h3>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-okayama-yubara-onsen-sunayu-hiruzen-wagyu-stay" />
+</div>
         </section>
 
       </main>

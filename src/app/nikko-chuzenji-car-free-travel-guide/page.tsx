@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -155,8 +156,32 @@ export default function NikkoChuzenjiCarFreeTravelGuidePage() {
     }
   ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【日光・中禅寺湖 車なし観光 1泊2日モデルコース】東武特急スペーシアX＆東武バスで行く世界遺産＆奥日光湯宿 ｜ 日本全国・旅宿クラウド",
+    "description": "電車とバスだけで巡る日光完全ガイド！新型特急スペーシアX、日光WEBフリーパス、東武バスを活用して東照宮・いろは坂・華厳の滝・中禅寺湖遊覧船・奥日光硫黄泉旅館をスムーズに回る乗り継ぎタイムテーブル。",
+    "url": "https://croud-travel.pages.dev/nikko-chuzenji-car-free-travel-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【日光・中禅寺湖 車なし観光 1泊2日モデルコース】東武特急スペーシアX＆東武バスで行く世界遺産＆奥日光湯宿 ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/nikko-chuzenji-car-free-travel-guide/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16 font-sans text-slate-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション（Emerald & Forest Green Palette） */}
       <section className="relative rounded-3xl overflow-hidden bg-gradient-to-br from-emerald-800 via-teal-800 to-slate-900 text-white p-8 md:p-14 shadow-2xl">
         <div className="absolute top-0 right-0 w-96 h-96 bg-emerald-400/20 rounded-full blur-3xl pointer-events-none" />
@@ -478,6 +503,8 @@ export default function NikkoChuzenjiCarFreeTravelGuidePage() {
           </Link>
         </div>
       </section>
-    </div>
+    
+      <HubRelatedPosts currentSlug="nikko-chuzenji-car-free-travel-guide" />
+</div>
   );
 }

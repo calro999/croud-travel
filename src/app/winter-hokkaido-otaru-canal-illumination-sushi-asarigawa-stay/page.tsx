@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -192,6 +193,7 @@ export default function WinterHokkaidoOtaruPage() {
       }
     ]
   };
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-slate-50 via-teal-50/20 to-slate-50 text-slate-800 antialiased">
@@ -633,7 +635,9 @@ export default function WinterHokkaidoOtaruPage() {
                 白糸の滝や豊平川渓谷の雪景色と名湯を味わう大人の休日。
               </p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-hokkaido-otaru-canal-illumination-sushi-asarigawa-stay" />
+</div>
         </section>
 
       </main>

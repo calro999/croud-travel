@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -311,6 +312,7 @@ export default function YamagataShirabuYonezawaPage() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-900 leading-relaxed font-sans pb-20">
@@ -683,7 +685,9 @@ export default function YamagataShirabuYonezawaPage() {
                 白銀の樹氷ライトアップと釘をも溶かす強酸性温泉、山形牛すき焼きを堪能。
               </p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-yamagata-shirabu-onsen-snow-yonezawa-beef-stay" />
+</div>
         </section>
 
       </main>

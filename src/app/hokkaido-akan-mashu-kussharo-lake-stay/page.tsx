@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -56,8 +57,32 @@ export default function MicroTouristHubPage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【北海道・阿寒湖＆摩周湖・屈斜路湖】神秘のカルデラ三湖・阿寒アイヌコタン＆まりも・硫黄山温泉宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "阿寒摩周国立公園の神秘の湖めぐり完全特化！特別天然記念物「阿寒湖のマリモ」、北海道最大のアイヌ集落「阿寒湖アイヌコタン」、奇跡の透明度「摩周ブルー・摩周湖」、日本最大のカルデラ湖「屈斜路湖・砂湯」、阿寒湖温泉・川湯温泉宿を徹底解説。",
+    "url": "https://croud-travel.pages.dev/hokkaido-akan-mashu-kussharo-lake-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【北海道・阿寒湖＆摩周湖・屈斜路湖】神秘のカルデラ三湖・阿寒アイヌコタン＆まりも・硫黄山温泉宿 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/hokkaido-akan-mashu-kussharo-lake-stay/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-stone-900 via-rose-950 to-amber-950 text-white p-8 md:p-14 shadow-xl border border-white/10">
         <div className="max-w-3xl space-y-4">
@@ -203,6 +228,8 @@ export default function MicroTouristHubPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="hokkaido-akan-mashu-kussharo-lake-stay" />
+</div>
   );
 }

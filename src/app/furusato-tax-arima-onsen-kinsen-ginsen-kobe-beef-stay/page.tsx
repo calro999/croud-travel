@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -17,6 +18,28 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoTaxArticle() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【有馬温泉×ふるさと納税】日本最古の名湯・金泉銀泉めぐり＆極上神戸牛！名門老舗旅館ステイ完全ガイド｜兵衛向陽閣・月光園鴻朧館・陶泉御所坊",
+    "description": "日本三古湯・日本三名泉の頂点に立つ名湯・有馬温泉を楽天ふるさと納税でお得に旅する！創業七百年の伝統を誇る名門「兵衛向陽閣」、落葉山の絶景と自家源泉金泉の「月光園 鴻朧館」、創業八百年・谷崎潤一郎ゆかりの最古の湯宿「陶泉 御所坊」を徹底比較。神戸牛会席や神戸市トラベルクーポン活用術を網羅。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-arima-onsen-kinsen-ginsen-kobe-beef-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【有馬温泉×ふるさと納税】日本最古の名湯・金泉銀泉めぐり＆極上神戸牛！名門老舗旅館ステイ完全ガイド｜兵衛向陽閣・月光園鴻朧館・陶泉御所坊", "item": "https://croud-travel.pages.dev/furusato-tax-arima-onsen-kinsen-ginsen-kobe-beef-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-50 text-stone-900 leading-relaxed font-sans">
       {/* ヒーローヘッダー */}
@@ -611,7 +634,9 @@ export default function FurusatoTaxArticle() {
                 栃木県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-arima-onsen-kinsen-ginsen-kobe-beef-stay" />
+</div>
         </section>
 
       </main>

@@ -1,4 +1,4 @@
-# 神戸・六甲山おすすめ温泉宿10選のリアル宿泊記！温泉・客室・朝食バイキングの本音口コミ評判｜兵庫県
+# 神戸・六甲山おすすめ温泉宿10選の宿泊ルポ＆見どころガイド｜兵庫県
 
 - URL: https://croud-travel.pages.dev/posts/autumn-hyogo-kobe-rokko-10selection/
 - 宿泊施設名: 神戸・六甲山おすすめ温泉宿10選

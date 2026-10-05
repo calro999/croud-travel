@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -112,8 +113,32 @@ export default function Page() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三大古社＆神話と悠久の祈り・神域に寄り添う聖地宿×ふるさと納税完全ガイド【2026年最新】伊勢神宮・出雲大社・大神神社",
+    "description": "日本人の心のふるさとを巡る神聖なる古社ステイ！三重伊勢「伊勢神宮」内宮まで徒歩圏内・早朝参拝の静寂とおかげ横丁いにしえの宿伊久、島根出雲「出雲大社」縁結びの聖地・正門前に佇む純和風老舗竹野屋旅館、奈良桜井「三輪山・大神神社」本殿を持たず山をご神体とする日本最古の神社と多武峰観光ホテル。清らかな神域散策と名物グルメを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-great-ancient-shrines-sacred-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "日本三大古社＆神話と悠久の祈り・神域に寄り添う聖地宿×ふるさと納税完全ガイド【2026年最新】伊勢神宮・出雲大社・大神神社", "item": "https://croud-travel.pages.dev/furusato-tax-three-great-ancient-shrines-sacred-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずリスト */}
       <nav className="bg-white border-b border-slate-200 py-3 px-4 text-xs text-slate-500">
         <div className="max-w-5xl mx-auto flex items-center space-x-2">
@@ -558,6 +583,8 @@ export default function Page() {
           <p>ふるさと納税クーポンの利用条件や最新の空室状況は楽天トラベル公式サイトをご確認ください。</p>
         </div>
       </footer>
-    </div>
+    
+      <HubRelatedPosts currentSlug="furusato-tax-three-great-ancient-shrines-sacred-stay" />
+</div>
   );
 }

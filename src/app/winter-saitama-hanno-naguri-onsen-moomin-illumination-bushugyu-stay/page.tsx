@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import type { Metadata } from 'next';
@@ -254,6 +255,7 @@ export default function SaitamaHannoNaguriWinterPage() {
       a: "【1日目】池袋駅から特急ラビューで飯能駅へ（11:00着） → 駅前で「飯能うどん」ランチ → 路線バスで「メッツァビレッジ」へ移動し北欧雑貨散策 → 14:00「ムーミンバレーパーク」入場 → 夕方から「ウィンターワンダーランド」の幻想的なイルミネーションを鑑賞 → バスで飯能駅へ戻り、名栗温泉または奥武蔵の宿へチェックイン → 温泉＆フィンランド式サウナで極上のととのい → 武州和牛と冬野菜会席に舌鼓。【2日目】清々しい冬の森で朝の深呼吸＆朝食 → チェックアウト後、秩父・奥武蔵の玄関口「高麗神社」へ新春初詣＆出世開運祈願 → 地元野菜が集まる農産物直売所で冬野菜や西川材工芸品を購入 → 帰路へ。"
     }
   ];
+
 
   return (
     <>
@@ -598,7 +600,9 @@ export default function SaitamaHannoNaguriWinterPage() {
             </div>
           </section>
         </main>
-      </div>
+      
+      <HubRelatedPosts currentSlug="winter-saitama-hanno-naguri-onsen-moomin-illumination-bushugyu-stay" />
+</div>
     </>
   );
 }

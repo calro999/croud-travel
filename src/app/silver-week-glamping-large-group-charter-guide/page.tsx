@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -61,6 +62,28 @@ export default function SilverWeekGlampingLargeGroupCharterPage() {
       a: "10人以上のグループでは車3〜5台での分乗移動になることが多く、施設ごとの無料駐車場収容台数の確認が不可欠です。今回掲載の大型対応施設は敷地内に4台〜10台以上の駐車スペースを確保している施設が中心ですが、予約時の備考欄に来場予定の車両台数を事前に伝えておくと誘導がスムーズです。",
     },
   ];
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【大人数・10人以上OK グランピング】シルバーウィーク全棟貸切・サークル合宿・3世代家族旅行 ｜ 日本全国・旅宿クラウド",
+    "description": "10人〜20人以上のグループでも気兼ねなく楽しめる大型グランピング＆一棟貸しヴィラ特集！全棟貸切でプライベートBBQ、大人数用焚き火スペース、サークルや親族旅行に最適な施設厳選。",
+    "url": "https://croud-travel.pages.dev/silver-week-glamping-large-group-charter-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【大人数・10人以上OK グランピング】シルバーウィーク全棟貸切・サークル合宿・3世代家族旅行 ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/silver-week-glamping-large-group-charter-guide/" }
+    ]
+  };
 
   return (
     <div className="min-h-screen bg-indigo-50/30 text-slate-800 antialiased selection:bg-indigo-600 selection:text-white font-sans">
@@ -479,6 +502,8 @@ export default function SilverWeekGlampingLargeGroupCharterPage() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="silver-week-glamping-large-group-charter-guide" />
+</div>
   );
 }

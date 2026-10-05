@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -117,6 +118,28 @@ export default function FukuokaHakataEarlyMorningGuidePage() {
       desc: "満腹になった後は、博多駅前や祇園の天然温泉大浴場へ。午前中から入れる日帰り入浴やホテル併設スパで旅のスタートダッシュを。"
     }
   ];
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【博多・天神 早朝から食べられる長浜ラーメン＆朝食ビュッフェ】朝6時台オープンの市場めし完全版",
+    "description": "福岡の朝は早い！長浜鮮魚市場で食べる早朝市場海鮮丼、24時間営業元祖長浜ラーメンの「カタ・替玉」、明太子食べ放題の博多駅前ホテル朝食ビュッフェ、中洲天然温泉ホテル宿泊情報。",
+    "url": "https://croud-travel.pages.dev/fukuoka-hakata-early-morning-ramen-breakfast-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【博多・天神 早朝から食べられる長浜ラーメン＆朝食ビュッフェ】朝6時台オープンの市場めし完全版", "item": "https://croud-travel.pages.dev/fukuoka-hakata-early-morning-ramen-breakfast-guide/" }
+    ]
+  };
 
   return (
     <main className="min-h-screen bg-slate-100 text-slate-800 font-sans pb-20">
@@ -475,7 +498,9 @@ export default function FukuokaHakataEarlyMorningGuidePage() {
                 鳥取県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="fukuoka-hakata-early-morning-ramen-breakfast-guide" />
+</div>
         </section>
 
       </main>

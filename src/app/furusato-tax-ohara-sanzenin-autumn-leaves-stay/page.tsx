@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FeatureArticlePage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "京都大原・三千院の有清園苔庭紅葉＆寂光院もみじの階段！大原温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】京都",
+    "description": "11月中旬〜11月下旬に見頃を迎える「京都大原・三千院（さんぜんいん）」と「寂光院」。有清園の杉苔とモミジのコントラスト、わらべ地蔵の愛らしい秋景色、名湯・大原温泉の料理宿「芹生」「大原山荘」「大原の里」で名物味噌鍋や地鶏鍋・京野菜懐石を堪能。楽天ふるさと納税で実質2,000円。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-ohara-sanzenin-autumn-leaves-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "京都大原・三千院の有清園苔庭紅葉＆寂光院もみじの階段！大原温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】京都", "item": "https://croud-travel.pages.dev/furusato-tax-ohara-sanzenin-autumn-leaves-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -508,7 +531,9 @@ export default function FeatureArticlePage() {
                 熊本県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-ohara-sanzenin-autumn-leaves-stay" />
+</div>
         </section>
 
       </main>

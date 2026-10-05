@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -147,8 +148,32 @@ const hotels: any[] = [
 ];
 
 export default function FeatureDetailPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【2026年】とろける黄金の果肉・太陽のタマゴ！宮崎完熟マンゴースイーツ＆青島オーシャン宿5選 | 日本全国・旅宿クラウド",
+    "description": "2026年最新！最高峰の宮崎完熟マンゴー「太陽のタマゴ」デザート＆宮崎牛炭火ステーキディナー！青島・日南海岸の絶景太平洋を望むリゾートホテル5選。",
+    "url": "https://croud-travel.pages.dev/spring-miyazaki-mango-parfait-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【2026年】とろける黄金の果肉・太陽のタマゴ！宮崎完熟マンゴースイーツ＆青島オーシャン宿5選 | 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/spring-miyazaki-mango-parfait-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずリスト */}
       <div className="bg-white border-b border-slate-200">
         <div className="max-w-6xl mx-auto px-4 py-3 text-sm text-slate-500 flex items-center space-x-2">
@@ -668,6 +693,8 @@ export default function FeatureDetailPage() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="spring-miyazaki-mango-parfait-stay" />
+</div>
   );
 }

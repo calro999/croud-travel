@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -27,6 +28,20 @@ export default function FurusatoRound62ArticlePage() {
       { '@type': 'ListItem', position: 2, name: '旅行節約ハブ', item: baseUrl + '/travel-savings-guide' },
       { '@type': 'ListItem', position: 3, name: '日本三大湯治場・現代型温泉逗留ステイ特集', item: baseUrl + '/furusato-tax-three-great-hot-spring-cure-toji-stay' },
     ],
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三大湯治場＆名湯治リトリート・本格効能温泉と逗留宿×ふるさと納税完全ガイド【2026年最新】玉川・三朝・草津",
+    "description": "古来より数多の人々の心身を癒やし続けてきた「日本三大湯治場」（秋田・玉川温泉の強酸性塩酸ラジウム泉、鳥取・三朝温泉の高濃度ラドン放射能泉、群馬・草津温泉の圧倒的湧出量と酸性硫黄泉）。現代人の疲れを根底から解きほぐす本格現代型湯治リトリート。楽天ふるさと納税トラベルクーポンで実質2,000円負担で叶える極上の逗留名宿ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-great-hot-spring-cure-toji-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -538,7 +553,9 @@ export default function FurusatoRound62ArticlePage() {
                 香川県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-three-great-hot-spring-cure-toji-stay" />
+</div>
         </section>
 
       </main>

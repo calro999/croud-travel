@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -79,8 +80,32 @@ export default function KyotoTempleWalkingShoesGuidePage() {
     { name: "湿布＆足指セパレーター（宿用）", cat: "リカバリー", desc: "2万歩歩いた夜、ホテルの大浴場上がりに貼るだけで翌朝の足の軽さが復活。" },
   ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【京都寺社巡り 靴と服装の失敗談まとめ】1日2万歩で足崩壊＆靴の脱ぎ履き地獄を回避するスマート参拝術 ｜ 日本全国・旅宿クラウド",
+    "description": "京都観光で多くの人が後悔するポイントを徹底分析！靴紐を結ぶ靴で行って拝観ごとに大渋滞、冬の板の間で足裏底冷え、夏の日傘マナー、スリッポン選びのコツと歩き疲れた足を癒やす大浴場付き京都ホテル。",
+    "url": "https://croud-travel.pages.dev/kyoto-temple-walking-shoes-outfit-mistakes-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【京都寺社巡り 靴と服装の失敗談まとめ】1日2万歩で足崩壊＆靴の脱ぎ履き地獄を回避するスマート参拝術 ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/kyoto-temple-walking-shoes-outfit-mistakes-guide/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-teal-950 text-slate-100 selection:bg-teal-500 selection:text-white pb-20">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローヘッダー（Elegant Teal & Bamboo Green Palette） */}
       <header className="relative overflow-hidden bg-gradient-to-b from-teal-900 via-emerald-950 to-teal-950 border-b border-teal-800/40 py-16 md:py-24">
         <div className="absolute inset-0 opacity-15 bg-[radial-gradient(#14b8a6_1px,transparent_1px)] [background-size:18px_18px] pointer-events-none" />
@@ -525,6 +550,8 @@ export default function KyotoTempleWalkingShoesGuidePage() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="kyoto-temple-walking-shoes-outfit-mistakes-guide" />
+</div>
   );
 }

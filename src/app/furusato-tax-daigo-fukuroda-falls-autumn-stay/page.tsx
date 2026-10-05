@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -73,6 +74,7 @@ export default function Page() {
       }
     ]
   };
+
 
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800 leading-relaxed font-sans">
@@ -623,6 +625,8 @@ export default function Page() {
           <p>© 2026 クラウドトラベル (croud-travel.com) All Rights Reserved.</p>
         </div>
       </footer>
-    </div>
+    
+      <HubRelatedPosts currentSlug="furusato-tax-daigo-fukuroda-falls-autumn-stay" />
+</div>
   );
 }

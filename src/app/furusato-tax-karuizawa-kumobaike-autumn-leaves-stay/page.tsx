@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -67,6 +68,28 @@ const HOTEL_DATA = {
 };
 
 export default function FeatureArticlePage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "軽井沢・雲場池の鏡面スワンレイク紅葉＆旧軽銀座散策！高原リゾート温泉×ふるさと納税完全ガイド【2026年最新秋旅】長野",
+    "description": "10月中旬〜11月上旬に水面が燃えるような赤と黄に染まる「信州・軽井沢 雲場池（スワンレイク）」。旧軽井沢銀座のレトロ散策やハルニレテラス、秋風心地よい高原温泉「ホテルグリーンプラザ軽井沢」「ゆとりろ軽井沢ホテル」「旧軽井沢 ホテル音羽ノ森」で信州サーモンや信州プレミアム牛・信州新そばフレンチを堪能。ふるさと納税で実質2,000円。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-karuizawa-kumobaike-autumn-leaves-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "軽井沢・雲場池の鏡面スワンレイク紅葉＆旧軽銀座散策！高原リゾート温泉×ふるさと納税完全ガイド【2026年最新秋旅】長野", "item": "https://croud-travel.pages.dev/furusato-tax-karuizawa-kumobaike-autumn-leaves-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -520,7 +543,9 @@ export default function FeatureArticlePage() {
                 鳥取県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-karuizawa-kumobaike-autumn-leaves-stay" />
+</div>
         </section>
 
       </main>

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -191,6 +192,28 @@ export default function ShizuokaMishimaPage() {
           }
         }))
       }
+    ]
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【11・12・1月三島沼津】冬の三嶋大社新春開運初詣＆富士山スカイウォーク絶景！駿河湾深海魚・沼津港寒魚と名湯に寛ぐ厳選宿5選",
+    "description": "冬の三島・沼津は、大気が一年で最も澄み渡り、純白の冠雪を抱く富士山と紺碧の駿河湾が圧巻のコントラストを描く至高のシーズン。11月下旬の富士山雪化粧から1月の伊豆国一宮・三嶋大社新春初詣まで、源頼朝旗揚げの勝運パワーが満ち溢れます。日本最長吊橋・三島スカイウォークからの富士パノラマ、沼津港で冬に本番を迎える深海魚（本タカアシガニ・アカザエビ）や寒真鯛、箱根西麓三島野菜を堪能し、富士山展望風呂や中伊豆の名湯で温まる冬旅。楽天APIから最新取得した信頼の厳選宿5選を徹底特集します。",
+    "url": "https://croud-travel.pages.dev/winter-shizuoka-mishima-numazu-taisha-fuji-suruga-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【11・12・1月三島沼津】冬の三嶋大社新春開運初詣＆富士山スカイウォーク絶景！駿河湾深海魚・沼津港寒魚と名湯に寛ぐ厳選宿5選", "item": "https://croud-travel.pages.dev/winter-shizuoka-mishima-numazu-taisha-fuji-suruga-stay/" }
     ]
   };
 
@@ -548,7 +571,9 @@ export default function ShizuokaMishimaPage() {
               <span className="font-bold text-slate-900 mb-1">【全国】冬の厳選温泉＆旬グルメ特集一覧へ</span>
               <span className="text-xs text-slate-500">11月・12月・1月に訪れたい日本各地の名宿・絶景旅ガイド</span>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-shizuoka-mishima-numazu-taisha-fuji-suruga-stay" />
+</div>
         </section>
       </main>
     </article>

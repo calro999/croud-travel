@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FeatureArticlePage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "兼六園の雪吊り＆金沢城・紅葉ライトアップ！深谷温泉・湯涌温泉の名湯宿×ふるさと納税完全ガイド【2026年最新秋旅】石川",
+    "description": "11月1日から始まる兼六園の冬支度「雪吊り（ゆきつり）」と紅葉ライトアップ！秋の金沢・兼六園を巡り、開湯1300年の金沢湯涌温泉や深谷温泉の名湯宿「元湯石屋」「湯の出旅館」「百楽荘」で能登牛やのどぐろを堪能。楽天ふるさと納税トラベルクーポンで実質2,000円で泊まる極上の金沢秋旅ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-kenrokuen-yukitsuri-autumn-kanazawa-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "兼六園の雪吊り＆金沢城・紅葉ライトアップ！深谷温泉・湯涌温泉の名湯宿×ふるさと納税完全ガイド【2026年最新秋旅】石川", "item": "https://croud-travel.pages.dev/furusato-tax-kenrokuen-yukitsuri-autumn-kanazawa-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -508,7 +531,9 @@ export default function FeatureArticlePage() {
                 山形県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-kenrokuen-yukitsuri-autumn-kanazawa-stay" />
+</div>
         </section>
 
       </main>

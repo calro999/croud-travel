@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -16,8 +17,32 @@ export const metadata: Metadata = {
 };
 
 export default function Page() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【山形・酒田＆羽黒山】山居倉庫・五重塔杉並木＆庄内浜寿司・宿坊 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "北前船交易で栄えた湊町酒田の白壁土蔵「山居倉庫」ケヤキ並木・本間家旧本邸、ミシュラン三ツ星・出羽三山羽黒山の「国宝五重塔」と樹齢三百年二千四百四十六段杉並木参道、庄内浜天然地魚の極上握り寿司と平田牧場金華豚を味わう宿を徹底解説。",
+    "url": "https://croud-travel.pages.dev/yamagata-sakata-haguro-dewasanzan-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【山形・酒田＆羽黒山】山居倉庫・五重塔杉並木＆庄内浜寿司・宿坊 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/yamagata-sakata-haguro-dewasanzan-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-stone-950 text-stone-100">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローヘッダー */}
       <div className="relative py-20 px-4 sm:px-6 lg:px-8 bg-gradient-to-b from-stone-900 via-stone-950 to-stone-950 border-b border-stone-800">
         <div className="max-w-5xl mx-auto text-center">
@@ -797,6 +822,8 @@ export default function Page() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="yamagata-sakata-haguro-dewasanzan-stay" />
+</div>
   );
 }

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -205,6 +206,28 @@ export default function TokyoAsakusaWinterPage() {
           "addressCountry": "JP"
         }
       }
+    ]
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【11・12・1月浅草押上】浅草寺新春初詣＆東京スカイツリー冬夜景！老舗すき焼き・江戸前天ぷら・下町天然温泉宿5選",
+    "description": "冬の東京・浅草＆押上は、1400年の歴史を誇る浅草寺の朱塗り本堂と雷門が新春初詣の祈りで満ち、冬の澄み渡る夜空に東京スカイツリーの限定ライティングが煌めく最も華やぐ季節。12月の伝統「歳の市（羽子板市）」から1月の初詣・浅草名所七福神巡り、老舗「浅草今半」の極上すき焼きや胡麻油香る江戸前天ぷら、駒形どぜう鍋に舌鼓を打ち、下町名物の黒湯天然温泉に浸かる贅沢な冬旅。楽天APIから最新取得した浅草・スカイツリー至近の信頼の名宿5選を徹底特集します。",
+    "url": "https://croud-travel.pages.dev/winter-tokyo-asakusa-sensoji-hatsumode-skytree-edomae-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【11・12・1月浅草押上】浅草寺新春初詣＆東京スカイツリー冬夜景！老舗すき焼き・江戸前天ぷら・下町天然温泉宿5選", "item": "https://croud-travel.pages.dev/winter-tokyo-asakusa-sensoji-hatsumode-skytree-edomae-stay/" }
     ]
   };
 
@@ -590,7 +613,9 @@ export default function TokyoAsakusaWinterPage() {
               <span className="font-bold text-slate-900 mb-1">【全国】冬の厳選温泉＆旬グルメ特集一覧へ</span>
               <span className="text-xs text-slate-500">11月・12月・1月に訪れたい日本各地の名宿・絶景旅ガイド</span>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-tokyo-asakusa-sensoji-hatsumode-skytree-edomae-stay" />
+</div>
         </section>
       </main>
     </article>

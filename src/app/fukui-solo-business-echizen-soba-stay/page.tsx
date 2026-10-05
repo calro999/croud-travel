@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -41,6 +42,7 @@ export default function ArticlePage() {
     dateModified: '2026-09-12T15:45:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/fukui-solo-business-echizen-soba-stay',
   };
+
 
   return (
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
@@ -536,7 +538,9 @@ export default function ArticlePage() {
                 徳島県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="fukui-solo-business-echizen-soba-stay" />
+</div>
         </section>
 
       </main>

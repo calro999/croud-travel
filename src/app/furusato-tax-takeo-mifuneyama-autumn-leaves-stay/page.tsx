@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -67,6 +68,28 @@ const HOTEL_DATA = {
 };
 
 export default function FeatureArticlePage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "御船山楽園の日本最大級紅葉ライトアップ＆武雄温泉楼門！嬉野茶美肌の湯宿×ふるさと納税完全ガイド【2026年最新秋旅】佐賀",
+    "description": "11月上旬〜12月上旬に15万坪の大庭園が錦秋の光に包まれる佐賀「御船山楽園 紅葉まつり」。国登録記念物の御船山の断崖と御池に映る逆さ紅葉、1300年の歴史を誇る「武雄温泉 なかます旅館」「嬉野温泉 初音荘」「旅館千代乃屋」で佐賀牛ステーキやとろける嬉野温泉湯どうふを堪能。ふるさと納税で実質2,000円。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-takeo-mifuneyama-autumn-leaves-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "御船山楽園の日本最大級紅葉ライトアップ＆武雄温泉楼門！嬉野茶美肌の湯宿×ふるさと納税完全ガイド【2026年最新秋旅】佐賀", "item": "https://croud-travel.pages.dev/furusato-tax-takeo-mifuneyama-autumn-leaves-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -520,7 +543,9 @@ export default function FeatureArticlePage() {
                 岐阜県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-takeo-mifuneyama-autumn-leaves-stay" />
+</div>
         </section>
 
       </main>

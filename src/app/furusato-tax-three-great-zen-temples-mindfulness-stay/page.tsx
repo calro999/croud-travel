@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -112,8 +113,32 @@ export default function Page() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三大禅寺＆静寂の枯山水庭園・心洗われる坐禅・精進料理宿×ふるさと納税完全ガイド【2026年最新】京都南禅寺・鎌倉建長寺・福井永平寺",
+    "description": "心を調え雑念を解き放つ日本の名刹禅寺ステイ！京都「南禅寺」水路閣と名庭の静寂・料亭旅館南禅寺八千代、神奈川鎌倉「建長寺」巨木ビャクシンと鎌倉五山第一位・鎌倉プリンスホテル、福井「大本山永平寺」荘厳な七堂伽藍と本格坐禅体験・親禅の宿柏樹關。枯山水庭園の美、朝の静かな勤行、伝統の精進料理を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-great-zen-temples-mindfulness-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "日本三大禅寺＆静寂の枯山水庭園・心洗われる坐禅・精進料理宿×ふるさと納税完全ガイド【2026年最新】京都南禅寺・鎌倉建長寺・福井永平寺", "item": "https://croud-travel.pages.dev/furusato-tax-three-great-zen-temples-mindfulness-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずリスト */}
       <nav className="bg-white border-b border-slate-200 py-3 px-4 text-xs text-slate-500">
         <div className="max-w-5xl mx-auto flex items-center space-x-2">
@@ -558,6 +583,8 @@ export default function Page() {
           <p>ふるさと納税クーポンの利用条件や最新の空室状況は楽天トラベル公式サイトをご確認ください。</p>
         </div>
       </footer>
-    </div>
+    
+      <HubRelatedPosts currentSlug="furusato-tax-three-great-zen-temples-mindfulness-stay" />
+</div>
   );
 }

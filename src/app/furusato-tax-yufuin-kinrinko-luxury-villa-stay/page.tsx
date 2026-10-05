@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -17,6 +18,28 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoTaxArticle() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【由布院温泉×ふるさと納税】金鱗湖の朝霧＆由布岳絶景！全室離れ露天風呂付き隠れ家名宿ガイド｜旅亭田乃倉・ゆふいん花由・ゆふいん月燈庵",
+    "description": "日本中の旅行者が憧れる名湯・由布院温泉を楽天ふるさと納税でお得にリゾートステイ！金鱗湖徒歩1分で本格懐石を味わう「旅亭 田乃倉」、由布岳と朝霧を見晴らす高台の離れ宿「ゆふいん花由」、築三百年古民家と客室露天風呂の「ゆふいん月燈庵」を徹底比較。大分県由布市トラベルクーポン活用術を網羅。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-yufuin-kinrinko-luxury-villa-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【由布院温泉×ふるさと納税】金鱗湖の朝霧＆由布岳絶景！全室離れ露天風呂付き隠れ家名宿ガイド｜旅亭田乃倉・ゆふいん花由・ゆふいん月燈庵", "item": "https://croud-travel.pages.dev/furusato-tax-yufuin-kinrinko-luxury-villa-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-50 text-stone-900 leading-relaxed font-sans">
       {/* ヒーローヘッダー */}
@@ -611,7 +634,9 @@ export default function FurusatoTaxArticle() {
                 山形県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-yufuin-kinrinko-luxury-villa-stay" />
+</div>
         </section>
 
       </main>

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -257,6 +258,7 @@ export default function KanagawaKamakuraEnoshimaWinterPage() {
     "a": "湘南・鎌倉は内陸部に比べると比較的温暖ですが、海岸沿いは冬の強い海風が吹き抜けるため体感温度はぐっと下がります。防風性のあるコートやダウン、マフラー、手袋を持参しましょう。また、鎌倉の寺社巡りや江の島の階段・坂道散策ではかなりの距離を歩くため、歩きやすいフラットなスニーカーやウォーキングシューズが必須です。江ノ電を利用する際は、全線1日乗り降り自由な「のりおりくん」を活用すると、極楽寺、長谷、由比ヶ浜、七里ヶ浜、江の島を効率よく周遊できます。"
   }
 ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-blue-100 selection:text-blue-900 pb-20">
@@ -711,7 +713,9 @@ export default function KanagawaKamakuraEnoshimaWinterPage() {
                 冬の特集記事一覧をすべて見る ➔
               </span>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-kanagawa-kamakura-enoshima-jewel-shrine-fuji-stay" />
+</div>
         </section>
 
       </main>

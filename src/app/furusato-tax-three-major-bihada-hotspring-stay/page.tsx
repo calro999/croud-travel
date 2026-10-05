@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -19,8 +20,32 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoTaxPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三大美肌の湯×炭酸水素塩泉・とろとろ美肌温泉ふるさと納税完全ガイド【2026年最新】嬉野・喜連川・玉造の名湯治宿",
+    "description": "まるで天然の化粧水に浸かっているような感動！日本三大美肌の湯（佐賀嬉野、栃木喜連川、島根玉造/斐乃上）の名湯旅館をふるさと納税宿泊クーポンでお得に予約する極上ビューティー・湯治ステイ。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-major-bihada-hotspring-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "日本三大美肌の湯×炭酸水素塩泉・とろとろ美肌温泉ふるさと納税完全ガイド【2026年最新】嬉野・喜連川・玉造の名湯治宿", "item": "https://croud-travel.pages.dev/furusato-tax-three-major-bihada-hotspring-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-950 text-slate-100 selection:bg-amber-500 selection:text-white">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずリスト */}
       <nav className="border-b border-slate-800/80 bg-slate-900/60 backdrop-blur px-4 py-3 text-xs text-slate-400">
         <div className="max-w-6xl mx-auto flex items-center gap-2 overflow-x-auto whitespace-nowrap">
@@ -864,6 +889,8 @@ export default function FurusatoTaxPage() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="furusato-tax-three-major-bihada-hotspring-stay" />
+</div>
   );
 }

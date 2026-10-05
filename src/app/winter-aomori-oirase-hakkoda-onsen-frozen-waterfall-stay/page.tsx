@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -203,6 +204,7 @@ export default function OiraseOnsenWinterPage() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-slate-50 text-slate-800 antialiased selection:bg-teal-500 selection:text-white">
@@ -579,7 +581,9 @@ export default function OiraseOnsenWinterPage() {
               <span className="text-xs text-teal-300 font-semibold block mb-1">特集一覧</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">全国の厳選温泉・宿特集まとめを見る</h3>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-aomori-oirase-hakkoda-onsen-frozen-waterfall-stay" />
+</div>
         </section>
 
       </main>

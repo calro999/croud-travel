@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -258,6 +259,7 @@ export default function NaganoTogakushiZenkojiWinterPage() {
     "a": "長野駅（善光寺口7番乗り場）からアルピコ交通の路線バス「戸隠線」が通年運行しており、冬期でも約1時間で戸隠中社へアクセスできます（奥社行きの直通バスは冬期運休となるため、中社バス停から徒歩またはタクシー利用）。車で向かう場合、長野市街から戸隠へ至る県道（戸隠バードライン等）は標高1200mを超える山岳道路のため、11月下旬〜3月は完全な積雪・アイスバーン路面になります。必ず高性能スタッドレスタイヤを装着し、チェーンを携行してください。"
   }
 ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-emerald-100 selection:text-emerald-900 pb-20">
@@ -699,7 +701,9 @@ export default function NaganoTogakushiZenkojiWinterPage() {
                 祖谷のかずら橋雪景色とケーブルカーで行く谷底露天風呂名宿
               </span>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-nagano-togakushi-zenkoji-hatsumode-snow-soba-beef-stay" />
+</div>
         </section>
       </main>
     </article>

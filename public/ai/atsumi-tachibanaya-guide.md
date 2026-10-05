@@ -1,4 +1,4 @@
-# 温海温泉 たちばなやのリアル宿泊記！温泉・客室・朝食バイキングの本音口コミ評判｜山形県
+# 温海温泉 たちばなやの宿泊ルポ＆見どころガイド｜山形県
 
 - URL: https://croud-travel.pages.dev/posts/atsumi-tachibanaya-guide/
 - 宿泊施設名: 温海温泉 たちばなや

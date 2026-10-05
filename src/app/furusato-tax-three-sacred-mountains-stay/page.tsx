@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -74,8 +75,32 @@ const hotels = [
 export default function FurusatoUpgradedPage() {
   const officialFurusatoAffUrl = 'https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F';
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三大霊峰の神気満ちる聖地と雲海・高山温泉宿×ふるさと納税完全ガイド【2026年最新】富士山・立山・白山",
+    "description": "古来より山岳信仰の聖地として崇敬される日本三大霊峰（富士山・立山連峰・白山）。湖越しに望む逆さ富士、標高2,400mの雲海ホテル、白山信仰の囲炉裏炭火料理宿。楽天ふるさと納税の宿泊割引クーポンでお得に巡る完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-sacred-mountains-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "日本三大霊峰の神気満ちる聖地と雲海・高山温泉宿×ふるさと納税完全ガイド【2026年最新】富士山・立山・白山", "item": "https://croud-travel.pages.dev/furusato-tax-three-sacred-mountains-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-stone-900 text-stone-100 selection:bg-amber-500 selection:text-stone-950">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローヘッダー */}
       <section className="relative py-24 px-4 sm:px-6 lg:px-8 bg-gradient-to-b from-stone-950 via-stone-900 to-stone-900 border-b border-stone-800">
         <div className="max-w-5xl mx-auto text-center">
@@ -314,6 +339,8 @@ export default function FurusatoUpgradedPage() {
           </Link>
         </div>
       </section>
-    </div>
+    
+      <HubRelatedPosts currentSlug="furusato-tax-three-sacred-mountains-stay" />
+</div>
   );
 }

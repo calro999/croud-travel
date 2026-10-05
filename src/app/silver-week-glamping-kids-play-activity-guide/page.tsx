@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -127,6 +128,28 @@ export default function SilverWeekGlampingKidsPlayActivityPage() {
         "text": faq.answer,
       },
     })),
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【子連れグランピング巨大遊具＆体験付き】アスレチック・動物ふれあい・収穫体験で子供が大はしゃぎ！ ｜ 日本全国・旅宿クラウド",
+    "description": "子供が1日中遊び尽くせる体験型グランピング特集！ツリーハウスアスレチック、ヤギやウサギとのふれあい牧場、秋のサツマイモ・栗拾い体験、ピザ窯焼き体験ができるファミリー向け施設徹底比較。",
+    "url": "https://croud-travel.pages.dev/silver-week-glamping-kids-play-activity-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【子連れグランピング巨大遊具＆体験付き】アスレチック・動物ふれあい・収穫体験で子供が大はしゃぎ！ ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/silver-week-glamping-kids-play-activity-guide/" }
+    ]
   };
 
   return (
@@ -392,6 +415,8 @@ export default function SilverWeekGlampingKidsPlayActivityPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="silver-week-glamping-kids-play-activity-guide" />
+</div>
   );
 }

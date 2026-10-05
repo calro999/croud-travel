@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -273,6 +274,7 @@ export default function TsunagiOnsenWinterPage() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-indigo-950 selection:text-white">
@@ -731,7 +733,9 @@ export default function TsunagiOnsenWinterPage() {
               <span className="text-xs text-indigo-300 font-semibold block mb-1">特集一覧</span>
               <h3 className="text-sm font-bold group-hover:text-indigo-200 transition">全国の厳選温泉・宿特集まとめを見る</h3>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-iwate-tsunagi-onsen-koiwai-illumination-stay" />
+</div>
         </section>
 
       </main>

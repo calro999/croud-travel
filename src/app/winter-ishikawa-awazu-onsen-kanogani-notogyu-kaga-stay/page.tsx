@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -220,6 +221,7 @@ export default function WinterIshikawaAwazuPage() {
       }
     ]
   };
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-stone-50 via-teal-50/20 to-stone-50 text-stone-800 antialiased">
@@ -567,7 +569,9 @@ export default function WinterIshikawaAwazuPage() {
                 冬の日本海の王者・氷見寒ブリづくしと海沿いの絶景露天風呂を巡る名宿。
               </p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-ishikawa-awazu-onsen-kanogani-notogyu-kaga-stay" />
+</div>
         </section>
 
       </main>

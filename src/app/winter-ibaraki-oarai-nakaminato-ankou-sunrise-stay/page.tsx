@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -257,6 +258,7 @@ export default function IbarakiOaraiNakaminatoWinterPage() {
     "a": "大洗は太平洋に面しているため降雪は比較的稀ですが、冬場は海から「筑波颪（つくばおろし）」と呼ばれる強い寒風が吹き抜けるため、体感温度は氷点下近くまで下がります。特に神磯の鳥居での朝日の鑑賞や海辺の散策には、防風仕様のロングダウンコート、マフラー、手袋、ニット帽、使い捨てカイロが必須です。車の場合、通常はノーマルタイヤでも走行可能ですが、12月下旬〜1月の寒波到来時には路面凍結や早朝の霜に注意し、スタッドレスタイヤの装着をおすすめします。"
   }
 ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-orange-100 selection:text-orange-900 pb-20">
@@ -698,7 +700,9 @@ export default function IbarakiOaraiNakaminatoWinterPage() {
                 特集を見る →
               </span>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-ibaraki-oarai-nakaminato-ankou-sunrise-stay" />
+</div>
         </section>
 
       </main>

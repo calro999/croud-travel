@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -16,8 +17,32 @@ export const metadata: Metadata = {
 };
 
 export default function Page() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【鹿児島・指宿＆開聞岳・知覧】天然砂むし・開聞岳＆知覧武家屋敷・黒豚宿 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "海岸の自然熱砂に埋まる世界唯一の「天然砂むし温泉 砂楽」、円錐形の美しい薩摩富士「開聞岳」、JR日本最南端「西大山駅」の黄色いポスト、国の名勝に指定された薩摩の小京都「知覧武家屋敷庭園」、本場かごしま黒豚しゃぶしゃぶ宿を徹底解説。",
+    "url": "https://croud-travel.pages.dev/kagoshima-ibusuki-sand-bath-kaimondake-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【鹿児島・指宿＆開聞岳・知覧】天然砂むし・開聞岳＆知覧武家屋敷・黒豚宿 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/kagoshima-ibusuki-sand-bath-kaimondake-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-stone-950 text-stone-100">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローヘッダー */}
       <div className="relative py-20 px-4 sm:px-6 lg:px-8 bg-gradient-to-b from-stone-900 via-stone-950 to-stone-950 border-b border-stone-800">
         <div className="max-w-5xl mx-auto text-center">
@@ -797,6 +822,8 @@ export default function Page() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="kagoshima-ibusuki-sand-bath-kaimondake-stay" />
+</div>
   );
 }

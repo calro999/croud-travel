@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -220,6 +221,7 @@ export default function WinterNaraYamatojiPage() {
       }
     ]
   };
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-amber-50/40 via-stone-50 to-amber-50/30 text-stone-800 antialiased">
@@ -647,7 +649,9 @@ export default function WinterNaraYamatojiPage() {
                 冬の琵琶湖の恵み天然鴨鍋と近江牛の極上会席宿。
               </p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-nara-yamatoji-wakakusayama-yamatogyu-asukabeef-stay" />
+</div>
         </section>
 
       </main>

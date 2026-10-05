@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -220,6 +221,7 @@ export default function WinterYamagataHijioriPage() {
       }
     ]
   };
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-stone-50 via-amber-50/20 to-stone-50 text-stone-800 antialiased">
@@ -567,7 +569,9 @@ export default function WinterYamagataHijioriPage() {
                 開湯900余年の名湯と地元産赤湯ワイン、極上米沢牛を味わう冬の美食旅。
               </p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-yamagata-hijiori-onsen-heavy-snow-toji-yamagata-beef-stay" />
+</div>
         </section>
 
       </main>

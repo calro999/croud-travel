@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -27,6 +28,20 @@ export default function FurusatoRound63ArticlePage() {
       { '@type': 'ListItem', position: 2, name: '旅行節約ハブ', item: baseUrl + '/travel-savings-guide' },
       { '@type': 'ListItem', position: 3, name: '日本三大龍穴・龍神パワースポット巡礼ステイ特集', item: baseUrl + '/furusato-tax-three-great-dragon-deity-shrines-sacred-stay' },
     ],
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三大龍穴＆龍神信仰の強力パワースポットと雲海・渓谷名宿×ふるさと納税完全ガイド【2026年最新】室生・貴船・箱根",
+    "description": "大地と天をつなぎ、水と雨を司る龍神が宿る日本最強の神聖なる地「日本三大龍穴」（奈良宇陀・室生龍穴神社吉祥龍穴、京都左京・貴船神社奥宮龍穴、神奈川箱根・箱根神社九頭龍神社本宮）。鬱蒼たる原生林と清冽な渓流、川床料理と雲海露天風呂。楽天ふるさと納税トラベルクーポンで実質2,000円負担で巡る龍神パワースポット巡礼ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-great-dragon-deity-shrines-sacred-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -538,7 +553,9 @@ export default function FurusatoRound63ArticlePage() {
                 香川県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-three-great-dragon-deity-shrines-sacred-stay" />
+</div>
         </section>
 
       </main>

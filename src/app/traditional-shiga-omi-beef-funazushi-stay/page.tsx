@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -82,6 +83,7 @@ export default function FeaturePage() {
               features: ["自慢のお料理に舌鼓。早めのご予約で「おごと温泉」無料貸切＆「レイクビュー客室」をご堪能頂けます◎", "大津市雄琴6-1-24", "楽天アワード受賞歴"]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-stone-50 via-white to-stone-50 text-stone-800">
@@ -408,7 +410,9 @@ export default function FeaturePage() {
                 愛知県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="traditional-shiga-omi-beef-funazushi-stay" />
+</div>
         </section>
 
       </main>

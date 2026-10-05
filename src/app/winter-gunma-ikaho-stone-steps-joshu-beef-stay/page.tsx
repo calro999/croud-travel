@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -241,6 +242,7 @@ export default function IkahoWinterPage() {
               ]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-amber-800 selection:text-white">
@@ -702,7 +704,9 @@ export default function IkahoWinterPage() {
                 【阿智村・昼神温泉】日本一の満天星空ナイトツアーと極上美肌湯
               </h3>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-gunma-ikaho-stone-steps-joshu-beef-stay" />
+</div>
         </section>
 
       </main>

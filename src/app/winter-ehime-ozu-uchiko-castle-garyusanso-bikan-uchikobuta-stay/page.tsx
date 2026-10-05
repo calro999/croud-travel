@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import type { Metadata } from 'next';
@@ -254,6 +255,7 @@ export default function EhimeOzuUchikoWinterPage() {
       a: "【1日目】松山空港またはJR松山駅に到着 → 特急宇和海または車で内子へ（約40分） → 「八日市・護国町並み保存地区」を散策＆「内子座」見学 → 木蝋資料館上芳我邸の豪商建築に感嘆 → 古民家カフェで内子豚ランチ → 車またはJRで大洲へ移動（約15分） → 「大洲城」へ登城し木造復元天守の壮大さを体感 → 大洲または内子の名宿にチェックイン → 夕食は大洲のいもたきや内子豚会席に舌鼓。【2日目】早朝、肱川あらし展望公園へ足を延ばし冬の霧景色を見学 → 朝の澄んだ光に包まれる名園「臥龍山荘」の不老庵をじっくり鑑賞 → 「おおず赤煉瓦館」やポコペン横丁を散策 → 特産品直売所「たいきの郷」で大洲の銘菓「志ぐれ」や柑橘を購入して帰路へ。"
     }
   ];
+
 
   return (
     <>
@@ -598,7 +600,9 @@ export default function EhimeOzuUchikoWinterPage() {
             </div>
           </section>
         </main>
-      </div>
+      
+      <HubRelatedPosts currentSlug="winter-ehime-ozu-uchiko-castle-garyusanso-bikan-uchikobuta-stay" />
+</div>
     </>
   );
 }

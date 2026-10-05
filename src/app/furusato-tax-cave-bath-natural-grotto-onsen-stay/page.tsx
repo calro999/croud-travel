@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoCaveBathNaturalGrottoStayPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "荒波迫る海食洞窟と神秘の巨岩風呂！全国の天然洞窟温泉＆名湯旅館×ふるさと納税完全ガイド【2026年最新】南紀勝浦・湯の峰・上諏訪",
+    "description": "打ち寄せる太平洋の怒濤を間近に望む大洞窟風呂から、太古の巨岩に囲まれた神秘の湯処まで！那智勝浦の巨大海食洞窟温泉「忘帰洞」「玄武洞」を擁する「ホテル浦島」、世界遺産・湯の峰温泉で槇風呂と天然蒸し風呂・洞窟の情緒を伝える「旅館あづまや」、諏訪湖畔で神秘の自家源泉と畳風呂の癒しを提供する「上諏訪温泉 しんゆ」。地球の息吹を肌で感じるワイルドで神秘的な名湯体験を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-cave-bath-natural-grotto-onsen-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "荒波迫る海食洞窟と神秘の巨岩風呂！全国の天然洞窟温泉＆名湯旅館×ふるさと納税完全ガイド【2026年最新】南紀勝浦・湯の峰・上諏訪", "item": "https://croud-travel.pages.dev/furusato-tax-cave-bath-natural-grotto-onsen-stay/" }
+    ]
+  };
+
   return (
     <article className="max-w-5xl mx-auto px-4 py-8 text-gray-800 leading-relaxed font-sans">
       {/* パンくずリスト */}
@@ -346,7 +369,9 @@ export default function FurusatoCaveBathNaturalGrottoStayPage() {
           >
             ▸ 【世界遺産と名所を巡る名門宿×ふるさと納税】熊野・白川郷・日光の旅
           </Link>
-        </div>
+        
+      <HubRelatedPosts currentSlug="furusato-tax-cave-bath-natural-grotto-onsen-stay" />
+</div>
       </section>
     </article>
   );

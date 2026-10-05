@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FeatureArticlePage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "上高地・大正池と河童橋の黄金カラマツ紅葉！乳白色の秘湯・白骨温泉名宿×ふるさと納税完全ガイド【2026年最新秋旅】長野",
+    "description": "10月中旬〜11月上旬に見頃を迎える神降地「上高地（かみこうち）」のカラマツ黄葉と穂高連峰の冠雪！大正池や河童橋の絶景散策、開湯600年の乳白色の秘湯「白骨温泉」の名宿「湯元齋藤旅館」「小梨の湯 笹屋」「白船グランドホテル」で信州プレミアム牛肉や岩魚塩焼きを堪能。楽天ふるさと納税で実質2,000円。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-shirahone-kamikochi-autumn-leaves-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "上高地・大正池と河童橋の黄金カラマツ紅葉！乳白色の秘湯・白骨温泉名宿×ふるさと納税完全ガイド【2026年最新秋旅】長野", "item": "https://croud-travel.pages.dev/furusato-tax-shirahone-kamikochi-autumn-leaves-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -508,7 +531,9 @@ export default function FeatureArticlePage() {
                 京都府の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-shirahone-kamikochi-autumn-leaves-stay" />
+</div>
         </section>
 
       </main>

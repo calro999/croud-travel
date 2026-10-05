@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -127,6 +128,28 @@ export default function SilverWeekGlampingBonfireMarshmallowBarPage() {
         text: faq.answer,
       },
     })),
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【焚き火BAR＆焼きマシュマロ体験】秋の夜長をウイスキーと楽しむ！大人の焚き火グランピング特集 ｜ 日本全国・旅宿クラウド",
+    "description": "パチパチと爆ぜる薪の音と揺れる炎に癒やされる秋の夜。フリーフローのクラフトビールやウイスキーBAR、巨大スモア体験、アコースティック音楽が流れる夜特化型グランピングの過ごし方。",
+    "url": "https://croud-travel.pages.dev/silver-week-glamping-bonfire-marshmallow-bar-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【焚き火BAR＆焼きマシュマロ体験】秋の夜長をウイスキーと楽しむ！大人の焚き火グランピング特集 ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/silver-week-glamping-bonfire-marshmallow-bar-guide/" }
+    ]
   };
 
   return (
@@ -372,6 +395,8 @@ export default function SilverWeekGlampingBonfireMarshmallowBarPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="silver-week-glamping-bonfire-marshmallow-bar-guide" />
+</div>
   );
 }

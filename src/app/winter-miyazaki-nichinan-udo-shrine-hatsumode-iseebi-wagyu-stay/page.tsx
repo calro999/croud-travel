@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -205,6 +206,28 @@ export default function MiyazakiNichinanWinterPage() {
           "addressCountry": "JP"
         }
       }
+    ]
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【11・12・1月宮崎日南】冬の鵜戸神宮新春開運初詣＆日南海岸絶景ドライブ！名物伊勢海老・極上宮崎牛と日南温泉名宿5選",
+    "description": "冬の宮崎・日南海岸エリアは、紺碧の太平洋が広がる温暖な気候のもと、奇岩怪石の断崖洞窟に鎮座する霊場「鵜戸神宮」が新春開運の初詣祈願と運玉投げで賑わう絶景の地。鬼の洗濯板やフェニックス並木が続く日南フェニックスロードの爽快ドライブ、九州の小京都・飫肥城下町の風情、冬に最盛期を迎える日南名物「伊勢海老」尽くしや日本一の「宮崎牛」に舌鼓を打ち、美肌の天然温泉宿で寛ぐ大人の冬旅。楽天APIから最新取得した日南・南郷・青島の信頼の名宿5選を徹底特集します。",
+    "url": "https://croud-travel.pages.dev/winter-miyazaki-nichinan-udo-shrine-hatsumode-iseebi-wagyu-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【11・12・1月宮崎日南】冬の鵜戸神宮新春開運初詣＆日南海岸絶景ドライブ！名物伊勢海老・極上宮崎牛と日南温泉名宿5選", "item": "https://croud-travel.pages.dev/winter-miyazaki-nichinan-udo-shrine-hatsumode-iseebi-wagyu-stay/" }
     ]
   };
 
@@ -590,7 +613,9 @@ export default function MiyazakiNichinanWinterPage() {
               <span className="font-bold text-slate-900 mb-1">【全国】冬の厳選温泉＆旬グルメ特集一覧へ</span>
               <span className="text-xs text-slate-500">11月・12月・1月に訪れたい日本各地の名宿・絶景旅ガイド</span>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-miyazaki-nichinan-udo-shrine-hatsumode-iseebi-wagyu-stay" />
+</div>
         </section>
       </main>
     </article>

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -16,6 +17,28 @@ export const metadata: Metadata = {
 
 export default function Page() {
   const secData = (seasonalData as any)['traditional-crafts-pottery-gold-leaf-washi-stay'] || {};
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "伝統工芸体験宿完全ガイド【金沢金箔・越前和紙・有田焼陶芸ステイ】 | クラウドトラベル",
+    "description": "金沢の金箔貼り＆九谷焼絵付け、福井の越前和紙漉き・越前焼、佐賀の有田焼・波佐見焼の窯元巡りを特集。職人の手仕事を間近で体感し、自作の器や工芸品を持ち帰る特別なクラフトリゾート。",
+    "url": "https://croud-travel.pages.dev/traditional-crafts-pottery-gold-leaf-washi-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "伝統工芸体験宿完全ガイド【金沢金箔・越前和紙・有田焼陶芸ステイ】 | クラウドトラベル", "item": "https://croud-travel.pages.dev/traditional-crafts-pottery-gold-leaf-washi-stay/" }
+    ]
+  };
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
@@ -486,7 +509,9 @@ export default function Page() {
                 宮城県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="traditional-crafts-pottery-gold-leaf-washi-stay" />
+</div>
         </section>
 
       </main>

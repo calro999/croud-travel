@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoYokohamaNightviewStayPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "大観覧車とベイブリッジの煌めく夜景！横浜みなとみらい夜景ラグジュアリーホテル×ふるさと納税完全攻略ガイド【2026年最新】Pier8・グランドインターコンチ・ベイ東急",
+    "description": "きらめく大観覧車「コスモクロック21」と東京湾・横浜港のパノラマ夜景！「インターコンチネンタル横浜Pier 8」「ヨコハマ グランド インターコンチネンタル ホテル」「横浜ベイホテル東急」を、神奈川県横浜市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。ルーフトップテラス、全室バルコニー付き客室、クラブフロアで至高の記念日ステイ。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-yokohama-minatomirai-nightview-luxury-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "大観覧車とベイブリッジの煌めく夜景！横浜みなとみらい夜景ラグジュアリーホテル×ふるさと納税完全攻略ガイド【2026年最新】Pier8・グランドインターコンチ・ベイ東急", "item": "https://croud-travel.pages.dev/furusato-tax-yokohama-minatomirai-nightview-luxury-stay/" }
+    ]
+  };
+
   return (
     <article className="max-w-5xl mx-auto px-4 py-8 text-gray-800 leading-relaxed font-sans">
       {/* パンくずリスト */}
@@ -346,7 +369,9 @@ export default function FurusatoYokohamaNightviewStayPage() {
           >
             ▸ 【箱根湯本名湯温泉＆大露天風呂宿×ふるさと納税】ロマンスカー直通名宿
           </Link>
-        </div>
+        
+      <HubRelatedPosts currentSlug="furusato-tax-yokohama-minatomirai-nightview-luxury-stay" />
+</div>
       </section>
     </article>
   );

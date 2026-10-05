@@ -1,4 +1,4 @@
-# 伊豆長岡温泉 ホテル天坊のリアル宿泊記！温泉・客室・朝食バイキングの本音口コミ評判｜静岡県
+# 伊豆長岡温泉 ホテル天坊の宿泊ルポ＆見どころガイド｜静岡県
 
 - URL: https://croud-travel.pages.dev/posts/izunagaoka-tenbo-guide/
 - 宿泊施設名: 伊豆長岡温泉 ホテル天坊

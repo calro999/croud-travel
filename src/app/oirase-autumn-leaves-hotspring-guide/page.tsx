@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -97,8 +98,32 @@ export default function OiraseAutumnLeavesHotspringPage() {
     }
   ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【奥入瀬渓流・十和田湖 紅葉2026完全ガイド】見頃・散策モデルコース＆星野リゾート・秘湯酸ヶ湯ステイ ｜ 日本全国・旅宿クラウド",
+    "description": "ブナとカエデが黄金に輝く奇跡の森！奥入瀬渓流の紅葉散策ベストシーズン（10月中旬〜下旬）、十和田湖遊覧船、渓流沿いに佇む人気リゾートホテル、日本有数のヒバ千人風呂「酸ヶ湯温泉」予約ガイド。",
+    "url": "https://croud-travel.pages.dev/oirase-autumn-leaves-hotspring-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【奥入瀬渓流・十和田湖 紅葉2026完全ガイド】見頃・散策モデルコース＆星野リゾート・秘湯酸ヶ湯ステイ ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/oirase-autumn-leaves-hotspring-guide/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-emerald-950 text-emerald-50 selection:bg-amber-500 selection:text-stone-950 pb-20 space-y-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* 🌲 HERO: 深緑の森と黄金のブナのグラデーション */}
       <header className="relative pt-12 pb-20 px-4 sm:px-6 lg:px-8 overflow-hidden bg-gradient-to-b from-stone-950 via-emerald-950 to-stone-950 border-b border-emerald-800/40">
         <div className="absolute inset-0 bg-[radial-gradient(circle_at_top_right,_var(--tw-gradient-stops))] from-amber-500/10 via-emerald-600/10 to-transparent pointer-events-none" />
@@ -516,6 +541,8 @@ export default function OiraseAutumnLeavesHotspringPage() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="oirase-autumn-leaves-hotspring-guide" />
+</div>
   );
 }

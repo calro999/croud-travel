@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -67,6 +68,28 @@ const HOTEL_DATA = {
 };
 
 export default function FeatureArticlePage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "近江八幡の水郷めぐり手漕ぎ舟紅葉＆八幡堀の白壁土蔵！近江牛会席の宿×ふるさと納税完全ガイド【2026年最新秋旅】滋賀",
+    "description": "10月〜11月にヨシ原と紅葉が水面に映える重要文化的景観「近江八幡の水郷めぐり」。八幡堀の白壁土蔵や情緒ある石畳の秋景色、琵琶湖畔と城下町に佇む「休暇村 近江八幡」「グリーンホテルYES近江八幡」「ＡＢホテル近江八幡」で日本三大和牛・近江牛のすき焼きステーキを堪能。ふるさと納税で実質2,000円。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-omihachiman-suigo-autumn-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "近江八幡の水郷めぐり手漕ぎ舟紅葉＆八幡堀の白壁土蔵！近江牛会席の宿×ふるさと納税完全ガイド【2026年最新秋旅】滋賀", "item": "https://croud-travel.pages.dev/furusato-tax-omihachiman-suigo-autumn-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -520,7 +543,9 @@ export default function FeatureArticlePage() {
                 栃木県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-omihachiman-suigo-autumn-stay" />
+</div>
         </section>
 
       </main>

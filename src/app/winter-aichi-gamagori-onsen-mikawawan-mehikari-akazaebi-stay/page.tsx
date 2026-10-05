@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -220,6 +221,7 @@ export default function WinterAichiGamagoriPage() {
       }
     ]
   };
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-sky-50 via-teal-50/20 to-sky-50 text-slate-800 antialiased">
@@ -647,7 +649,9 @@ export default function WinterAichiGamagoriPage() {
                 日本最大級の光の祭典と天然温泉を満喫する冬の休日。
               </p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-aichi-gamagori-onsen-mikawawan-mehikari-akazaebi-stay" />
+</div>
         </section>
 
       </main>

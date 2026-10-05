@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -100,6 +101,7 @@ export default function FeaturePage() {
               features: ["イルカが暮らすプライベートリゾート！", "国頭郡恩納村山田3425-2", "楽天アワード受賞歴"]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-stone-50 via-white to-stone-50 text-stone-800">
@@ -426,7 +428,9 @@ export default function FeaturePage() {
                 埼玉県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="super-panoramic-snorkeling-blue-cave-stay" />
+</div>
         </section>
 
       </main>

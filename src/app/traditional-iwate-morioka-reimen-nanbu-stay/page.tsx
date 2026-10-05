@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -109,6 +110,7 @@ export default function FeaturePage() {
               features: ["前沢牛と新鮮三陸魚介、地元食材による囲炉裏会席が好評！敷地内で自噴する温泉は効能豊かな源泉かけ流し！", "花巻市台第２地割57-9", "楽天アワード受賞歴"]
             }
   ];
+
 
   return (
     <article className="min-h-screen bg-gradient-to-b from-stone-50 via-white to-stone-50 text-stone-800">
@@ -435,7 +437,9 @@ export default function FeaturePage() {
                 兵庫県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="traditional-iwate-morioka-reimen-nanbu-stay" />
+</div>
         </section>
 
       </main>

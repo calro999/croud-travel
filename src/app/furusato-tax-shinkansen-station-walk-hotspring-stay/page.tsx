@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -16,6 +17,28 @@ export const metadata: Metadata = {
 
 export default function Page() {
   const secData = (seasonalData as any)['furusato-tax-shinkansen-station-walk-hotspring-stay'] || {};
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【車なし・雪道運転不要】新幹線駅直結＆駅徒歩圏内の名湯温泉旅館ふるさと納税ガイド | クラウドトラベル",
+    "description": "レンタカー不要・冬の雪道運転が不安なシニアも安心！新幹線改札から徒歩すぐ、または無料送迎付きの越後湯沢・熱海・加賀温泉の名宿を厳選。手ぶらでスマートに行ける名湯ふるさと納税旅。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-shinkansen-station-walk-hotspring-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【車なし・雪道運転不要】新幹線駅直結＆駅徒歩圏内の名湯温泉旅館ふるさと納税ガイド | クラウドトラベル", "item": "https://croud-travel.pages.dev/furusato-tax-shinkansen-station-walk-hotspring-stay/" }
+    ]
+  };
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
@@ -632,7 +655,9 @@ export default function Page() {
                 秋田県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-shinkansen-station-walk-hotspring-stay" />
+</div>
         </section>
 
       </main>

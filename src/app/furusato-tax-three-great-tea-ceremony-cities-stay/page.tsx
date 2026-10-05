@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -27,6 +28,20 @@ export default function FurusatoRound65ArticlePage() {
       { '@type': 'ListItem', position: 2, name: '旅行節約ハブ', item: baseUrl + '/travel-savings-guide' },
       { '@type': 'ListItem', position: 3, name: '日本三大茶道都市・茶の湯文化と数寄屋名宿特集', item: baseUrl + '/furusato-tax-three-great-tea-ceremony-cities-stay' },
     ],
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三大茶道文化都市＆茶室庭園と抹茶・上生菓子を愛でる数寄屋名宿×ふるさと納税完全ガイド【2026年最新】京都・松江・金沢",
+    "description": "侘び寂びの精神と粋なもてなしが息づく「日本三大茶道文化都市」（京都・千利休と三千家本山、島根・不昧公ゆかりの出雲松江、石川・加賀前田家の茶の湯金沢）。名勝日本庭園の茶室、老舗和菓子司の上生菓子、伝統数寄屋建築の老舗名旅館。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ大人の茶の湯リトリート完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-great-tea-ceremony-cities-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -538,7 +553,9 @@ export default function FurusatoRound65ArticlePage() {
                 熊本県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-three-great-tea-ceremony-cities-stay" />
+</div>
         </section>
 
       </main>

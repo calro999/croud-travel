@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -221,6 +222,7 @@ export default function NagasakiUnzenOnsenWinterPage() {
     "a": "「雲仙地獄」は、温泉街の中心部に広がる硫黄ガスと温泉の噴出地帯で、大叫喚地獄やお糸地獄など約30箇所の地獄が存在します。冬の冷え込んだ大気の中では、地下から噴き出す水蒸気が一気に凝結するため、夏場とは比較にならないほど巨大で迫力ある白い湯煙の柱が立ち上ります。木製の遊歩道が整備されており、地熱で温まった「足蒸し」や名物「温泉卵（地獄蒸し卵）」を食べながらの散策が冬の醍醐味です。"
   }
 ];
+
 
   return (
     <article className="min-h-screen bg-stone-50/50 pb-20 text-stone-800">
@@ -579,7 +581,9 @@ export default function NagasakiUnzenOnsenWinterPage() {
               <span className="text-emerald-700 font-bold block text-[10px]">熊本・菊池温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">名湯百選「化粧の湯」の極上とろみ泉・熊本あか牛ステーキ名宿</p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-nagasaki-unzen-onsen-jigoku-muhyo-unzen-beef-stay" />
+</div>
         </section>
 
       </main>

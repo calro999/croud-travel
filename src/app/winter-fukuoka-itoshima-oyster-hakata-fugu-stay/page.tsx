@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -257,6 +258,7 @@ export default function FukuokaItoshimaHakataWinterPage() {
     "a": "1日目は午前中に福岡空港または博多駅を出発し、レンタカーで糸島半島へ直行。昼食は岐志漁港または船越漁港のカキ小屋で熱々の焼きガニ・ホタテ・カキ飯を堪能。午後は海沿いの「桜井二見ヶ浦（夫婦岩）」の白い鳥居と冬の海を眺め、人気のベーカリーやカフェに立ち寄り。夕方に福岡市街のオーシャンビューホテルまたは博多駅直結ホテルにチェックイン。夜は博多駅前のイルミネーションを鑑賞し、老舗のもつ鍋店へ。2日目は太宰府天満宮で初冬の参詣を楽しんだ後、中洲や天神で博多ラーメンや水炊きを味わって帰路につくコースが人気です。"
   }
 ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-teal-100 selection:text-teal-900 pb-20">
@@ -645,7 +647,9 @@ export default function FukuokaItoshimaHakataWinterPage() {
               <span className="text-teal-700 font-bold block text-[10px]">長崎・ハウステンボス</span>
               <p className="font-bold text-stone-800 line-clamp-2">世界最大1300万球の冬イルミネーションと直営リゾートホテルステイ</p>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-fukuoka-itoshima-oyster-hakata-fugu-stay" />
+</div>
         </section>
 
       </main>

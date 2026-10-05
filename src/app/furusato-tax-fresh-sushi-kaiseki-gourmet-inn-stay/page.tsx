@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -27,6 +28,20 @@ export default function FurusatoFreshSushiKaisekiStayPage() {
       { '@type': 'ListItem', position: 2, name: '旅行節約ハブ', item: baseUrl + '/travel-savings-guide' },
       { '@type': 'ListItem', position: 3, name: '漁港直送寿司会席＆名湯温泉宿特集', item: baseUrl + '/furusato-tax-fresh-sushi-kaiseki-gourmet-inn-stay' },
     ],
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "漁港直送の極上寿司会席＆職人握りを味わう名湯温泉宿×ふるさと納税完全ガイド【2026年最新】石川加賀・東伊豆熱川・伊東",
+    "description": "海の幸の宝庫・日本海の新鮮魚介や相模灘の朝獲れ地魚を職人が目の前で握る！名勝鶴仙渓の絶景と加賀・能登の極上握りを味わう「山中温泉 かがり吉祥亭」、6つの自家源泉貸切風呂と伊豆の鮮魚寿司会席が自慢の「ふたりの湯宿 湯花満開」、伊東港直送の地魚握りと相模湾パノラマ露天風呂を誇る「伊東温泉 横浜藤よし伊豆店」。旬の地魚寿司と極上温泉を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で堪能する美食旅ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-fresh-sushi-kaiseki-gourmet-inn-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -556,7 +571,9 @@ export default function FurusatoFreshSushiKaisekiStayPage() {
                 静岡県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-fresh-sushi-kaiseki-gourmet-inn-stay" />
+</div>
         </section>
 
       </main>

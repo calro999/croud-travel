@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -19,6 +20,28 @@ export const metadata: Metadata = {
 };
 
 export default function FurusatoOkinawaBeachResortStayPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "美ら海と白い砂浜が目の前！沖縄本島最高峰ビーチリゾートホテル×ふるさと納税完全攻略ガイド【2026年最新】ハレクラニ・ルネッサンス・ロワジール",
+    "description": "エメラルドグリーンの東シナ海と白い砂浜！ハワイの名門「ハレクラニ沖縄」、イルカと触れ合えるファミリー人気No.1「ルネッサンス リゾート オキナワ」、那覇空港近くで天然温泉大浴場と屋外プールを誇る「ロワジールホテル 那覇」を、沖縄県恩納村・那覇市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-okinawa-beach-resort-luxury-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "美ら海と白い砂浜が目の前！沖縄本島最高峰ビーチリゾートホテル×ふるさと納税完全攻略ガイド【2026年最新】ハレクラニ・ルネッサンス・ロワジール", "item": "https://croud-travel.pages.dev/furusato-tax-okinawa-beach-resort-luxury-stay/" }
+    ]
+  };
+
   return (
     <article className="max-w-5xl mx-auto px-4 py-8 text-gray-800 leading-relaxed font-sans">
       {/* パンくずリスト */}
@@ -346,7 +369,9 @@ export default function FurusatoOkinawaBeachResortStayPage() {
           >
             ▸ 【熱海花火大会特等席＆オーシャンビュー温泉宿×ふるさと納税】特等席鑑賞
           </Link>
-        </div>
+        
+      <HubRelatedPosts currentSlug="furusato-tax-okinawa-beach-resort-luxury-stay" />
+</div>
       </section>
     </article>
   );

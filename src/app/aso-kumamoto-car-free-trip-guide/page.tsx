@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -146,8 +147,32 @@ export default function AsoKumamotoCarFreePage() {
     }
   ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【熊本・阿蘇 車なし観光 1泊2日モデルコース】観光特急あそぼーい！＆産交バスで行くカルデラ大自然旅 ｜ 日本全国・旅宿クラウド",
+    "description": "運転免許なしでも阿蘇の絶景は回れる！熊本駅から特急あそぼーい！・九州横断特急、阿蘇火口シャトルバス、草千里ヶ浜、あか牛丼ランチ、阿蘇駅チカ温泉宿を満喫する公共交通パーフェクトプラン。",
+    "url": "https://croud-travel.pages.dev/aso-kumamoto-car-free-trip-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【熊本・阿蘇 車なし観光 1泊2日モデルコース】観光特急あそぼーい！＆産交バスで行くカルデラ大自然旅 ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/aso-kumamoto-car-free-trip-guide/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-stone-50 text-stone-900 font-sans pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative bg-gradient-to-br from-amber-900 via-amber-800 to-stone-900 text-white overflow-hidden py-14 md:py-20 px-4">
         <div className="absolute inset-0 opacity-15 bg-[radial-gradient(#fbbf24_1px,transparent_1px)] [background-size:16px_16px]" />
@@ -524,6 +549,8 @@ export default function AsoKumamotoCarFreePage() {
           </Link>
         </div>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="aso-kumamoto-car-free-trip-guide" />
+</div>
   );
 }

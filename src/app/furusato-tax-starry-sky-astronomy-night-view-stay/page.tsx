@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -27,6 +28,20 @@ export default function FurusatoStarrySkyAstronomyStayPage() {
       { '@type': 'ListItem', position: 2, name: '旅行節約ハブ', item: baseUrl + '/travel-savings-guide' },
       { '@type': 'ListItem', position: 3, name: '満天の星空観測＆星空露天名宿特集', item: baseUrl + '/furusato-tax-starry-sky-astronomy-night-view-stay' },
     ],
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "満天の星空・天体観測＆星空露天風呂リトリート極上宿×ふるさと納税完全ガイド【2026年最新】阿智村・野辺山高原・石垣島",
+    "description": "降るような星々の輝きと宇宙の神秘に包まれる！環境省認定「日本一の星空」として名高い長野県阿智村・昼神温泉「信州公共の宿 鶴巻荘」、国立天文台野辺山宇宙電波観測所を擁する日本三選星名所「八ヶ岳グレイスホテル」、国際ダークスカイ協会認定の星空保護区で南十字星を望む「石垣島ビーチホテルサンシャイン」。天体望遠鏡案内や星空露天風呂を誇る名宿に、楽天ふるさと納税トラベルクーポンで実質2,000円負担で宿泊する完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-starry-sky-astronomy-night-view-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -556,7 +571,9 @@ export default function FurusatoStarrySkyAstronomyStayPage() {
                 大阪府の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-starry-sky-astronomy-night-view-stay" />
+</div>
         </section>
 
       </main>

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -257,6 +258,7 @@ export default function ShizuokaSumatakyoOnsenWinterPage() {
     "a": "寸又峡へ向かう主要道路（県道77号川根寸又峡線）は、山間部の渓谷沿いを通るため、道幅が狭く対向車とのすれ違いに注意が必要な箇所があります。静岡県内ですが、標高約600mの山間部に位置するため、12月下旬〜1月の寒波到来時には日陰や橋の上で路面凍結が発生することがあります。車で訪れる際は必ずスタッドレスタイヤを装着するか、チェーンを携行してください。また、大井川鐵道大井川本線の一部区間の運行状況を事前に確認し、代行バスや路線バス（千頭駅〜寸又峡温泉）を上手に活用しましょう。"
   }
 ];
+
 
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 antialiased selection:bg-teal-100 selection:text-teal-900 pb-20">
@@ -693,7 +695,9 @@ export default function ShizuokaSumatakyoOnsenWinterPage() {
             >
               <span>冬の特集一覧へ戻る</span>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-shizuoka-sumatakyo-onsen-yumenotsuribashi-bijin-jibier-stay" />
+</div>
         </section>
 
       </main>

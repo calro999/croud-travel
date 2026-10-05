@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -147,6 +148,28 @@ export default function KanazawaEarlyMorningBreakfastPage() {
       text: "お腹を満たしたら尾山神社や兼六園へ。日中の混雑が嘘のような静寂の中で、加賀百万石の壮麗な城郭建築と手入れの行き届いた庭園美を堪能できます。"
     }
   ];
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【金沢駅・近江町市場 早朝朝食おすすめ7選】朝7時から開いている海鮮丼・絶品おにぎり・純喫茶モーニング",
+    "description": "夜行バスや始発新幹線で金沢に着いたらここへ！混雑前の近江町市場で食べる朝獲れ海鮮丼、金沢駅あんと内の早朝カフェ、地元民に愛される老舗純喫茶のモーニング、朝食クチコミ高評価ホテル特集。",
+    "url": "https://croud-travel.pages.dev/kanazawa-early-morning-breakfast-cafe-guide/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【金沢駅・近江町市場 早朝朝食おすすめ7選】朝7時から開いている海鮮丼・絶品おにぎり・純喫茶モーニング", "item": "https://croud-travel.pages.dev/kanazawa-early-morning-breakfast-cafe-guide/" }
+    ]
+  };
 
   return (
     <main className="min-h-screen bg-slate-950 text-slate-100 selection:bg-amber-500 selection:text-slate-950 font-sans pb-24">
@@ -332,6 +355,8 @@ export default function KanazawaEarlyMorningBreakfastPage() {
                     key={hotel.hotelNo}
                     className="bg-slate-900/90 border border-slate-800 hover:border-amber-500/60 transition-all duration-300 rounded-3xl overflow-hidden flex flex-col justify-between shadow-xl"
                   >
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
                     <div>
                       {hotel.hotelImageUrl && (
                         <div className="relative h-48 w-full overflow-hidden bg-slate-800">
@@ -563,7 +588,9 @@ export default function KanazawaEarlyMorningBreakfastPage() {
                 新潟県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="kanazawa-early-morning-breakfast-cafe-guide" />
+</div>
         </section>
 
       </main>

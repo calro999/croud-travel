@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
@@ -27,6 +28,20 @@ export default function FurusatoScenicSaunaTotonoiStayPage() {
       { '@type': 'ListItem', position: 2, name: '旅行節約ハブ', item: baseUrl + '/travel-savings-guide' },
       { '@type': 'ListItem', position: 3, name: '絶景サウナ＆ととのいリトリート名宿特集', item: baseUrl + '/furusato-tax-scenic-sauna-totonoi-retreat-stay' },
     ],
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "大自然の絶景パノラマとフィンランド式サウナで極上の「ととのい」体験！名宿×ふるさと納税完全ガイド【2026年最新】洞爺湖・白馬・焼津",
+    "description": "サウナブームを牽引する全国屈指の絶景サウナ宿を厳選！洞爺湖を眼下に望むオートロウリュサウナと湖風外気浴テラス「洞爺湖万世閣 ホテルレイクサイドテラス」、白馬連峰北アルプスの雄大な山並みを仰ぎながら水風呂と外気浴を楽しむ「白馬ハイランドホテル」、駿河湾と富士山の絶景テラスサウナ＆オールインクルーシブ「焼津グランドホテル」。セルフロウリュ、天然地下水風呂、絶景デッキチェア。楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-scenic-sauna-totonoi-retreat-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
   };
 
   return (
@@ -556,7 +571,9 @@ export default function FurusatoScenicSaunaTotonoiStayPage() {
                 京都府の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-scenic-sauna-totonoi-retreat-stay" />
+</div>
         </section>
 
       </main>

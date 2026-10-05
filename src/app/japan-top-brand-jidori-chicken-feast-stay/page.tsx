@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from "next";
 import Link from "next/link";
 import fs from "fs";
@@ -56,8 +57,32 @@ export default function GourmetCuisineHubPage() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【日本三大地鶏＆銘柄鶏の宿】比内地鶏・名古屋コーチン・さつま地鶏・阿波尾鶏 完全ガイド ｜ 日本全国・旅宿クラウド",
+    "description": "全国の最高級ブランド地鶏完全特化！秋田「比内地鶏」のきりたんぽ鍋、愛知「名古屋コーチン」のひきずり鍋、鹿児島「さつま若しゃも・地鶏刺し」、徳島「阿波尾鶏」の炭火焼きと名門温泉旅館を徹底解説。",
+    "url": "https://croud-travel.pages.dev/japan-top-brand-jidori-chicken-feast-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【日本三大地鶏＆銘柄鶏の宿】比内地鶏・名古屋コーチン・さつま地鶏・阿波尾鶏 完全ガイド ｜ 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/japan-top-brand-jidori-chicken-feast-stay/" }
+    ]
+  };
+
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* ヒーローセクション */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-r from-stone-900 via-rose-950 to-amber-950 text-white p-8 md:p-14 shadow-xl border border-white/10">
         <div className="max-w-3xl space-y-4">
@@ -203,6 +228,8 @@ export default function GourmetCuisineHubPage() {
           <span>→</span>
         </Link>
       </div>
-    </div>
+    
+      <HubRelatedPosts currentSlug="japan-top-brand-jidori-chicken-feast-stay" />
+</div>
   );
 }

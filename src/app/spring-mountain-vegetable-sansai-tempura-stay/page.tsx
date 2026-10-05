@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -147,8 +148,32 @@ const hotels: any[] = [
 ];
 
 export default function FeatureDetailPage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【2026年】春の味覚の王様！揚げたてサクサク山菜天ぷら＆摘みたて山菜尽くし会席の秘湯宿5選 | 日本全国・旅宿クラウド",
+    "description": "2026年最新！雪解けの山里が育むふきのとう・タラの芽・コゴミ！職人が揚げるサクサク山菜天ぷらと源泉掛け流し秘湯で心身デトックスする名宿5選。",
+    "url": "https://croud-travel.pages.dev/spring-mountain-vegetable-sansai-tempura-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【2026年】春の味覚の王様！揚げたてサクサク山菜天ぷら＆摘みたて山菜尽くし会席の秘湯宿5選 | 日本全国・旅宿クラウド", "item": "https://croud-travel.pages.dev/spring-mountain-vegetable-sansai-tempura-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずリスト */}
       <div className="bg-white border-b border-slate-200">
         <div className="max-w-6xl mx-auto px-4 py-3 text-sm text-slate-500 flex items-center space-x-2">
@@ -668,6 +693,8 @@ export default function FeatureDetailPage() {
         </section>
 
       </main>
-    </div>
+    
+      <HubRelatedPosts currentSlug="spring-mountain-vegetable-sansai-tempura-stay" />
+</div>
   );
 }

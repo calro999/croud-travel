@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -67,6 +68,28 @@ const HOTEL_DATA = {
 };
 
 export default function FeatureArticlePage() {
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "西日本最高峰・石鎚山＆面河渓エメラルド紅葉！道後温泉本館湯守り宿×ふるさと納税完全ガイド【2026年最新秋旅】愛媛",
+    "description": "10月上旬〜11月中旬に西日本最高峰（標高1,982m）から麓の面河渓へと下りてくる「愛媛・石鎚山紅葉」。石鎚スカイラインの絶景ドライブや面河渓の清流散策と、日本最古の湯「道後温泉 旅亭 うめ乃や」「道後グランドホテル」「ふなや」で瀬戸内の天然鯛めしや伊予牛・愛媛みかん会席を堪能。ふるさと納税で実質2,000円。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-ishizuchi-omogo-dogo-autumn-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "西日本最高峰・石鎚山＆面河渓エメラルド紅葉！道後温泉本館湯守り宿×ふるさと納税完全ガイド【2026年最新秋旅】愛媛", "item": "https://croud-travel.pages.dev/furusato-tax-ishizuchi-omogo-dogo-autumn-stay/" }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
       {/* パンくずナビ */}
@@ -520,7 +543,9 @@ export default function FeatureArticlePage() {
                 三重県の宿・温泉
               </Link>
             </div>
-          </div>
+          
+      <HubRelatedPosts currentSlug="furusato-tax-ishizuchi-omogo-dogo-autumn-stay" />
+</div>
         </section>
 
       </main>

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -116,8 +117,32 @@ export default function Page() {
   }
 ];
 
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "日本三大稲荷＆千本鳥居・商売繁盛開運祈願と門前町グルメ宿×ふるさと納税完全ガイド【2026年最新】伏見・豊川・祐徳稲荷",
+    "description": "朱塗りの鳥居が連なる神域と開運の杜！京都「伏見稲荷大社」千本鳥居の幻想美とアーバンホテル京都、愛知「豊川稲荷」妙厳寺の千体狐・霊狐塚と豊川グランドホテル、佐賀鹿島「祐徳稲荷神社」鎮西日光と称される極彩色の楼門と有明海鮮・嬉野温泉和多屋別荘。日本三大稲荷の商売繁盛祈願を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。",
+    "url": "https://croud-travel.pages.dev/furusato-tax-three-great-inari-shrines-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "日本三大稲荷＆千本鳥居・商売繁盛開運祈願と門前町グルメ宿×ふるさと納税完全ガイド【2026年最新】伏見・豊川・祐徳稲荷", "item": "https://croud-travel.pages.dev/furusato-tax-three-great-inari-shrines-stay/" }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずリスト */}
       <nav className="bg-white border-b border-slate-200 py-3 px-4 text-xs text-slate-500">
         <div className="max-w-5xl mx-auto flex items-center space-x-2">
@@ -536,6 +561,8 @@ export default function Page() {
       <footer className="bg-slate-950 text-slate-400 py-8 px-4 text-center text-xs border-t border-slate-800">
         <p>© 2026 トラベルポータル All Rights Reserved. 掲載情報は最新の楽天トラベル公式APIに基づきます。</p>
       </footer>
-    </div>
+    
+      <HubRelatedPosts currentSlug="furusato-tax-three-great-inari-shrines-stay" />
+</div>
   );
 }

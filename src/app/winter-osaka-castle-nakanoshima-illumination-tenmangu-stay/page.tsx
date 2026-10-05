@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import type { Metadata } from 'next';
@@ -205,6 +206,28 @@ export default function OsakaCastleNakanoshimaWinterPage() {
           "addressCountry": "JP"
         }
       }
+    ]
+  };
+
+
+  const jsonLdArticle = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "【11・12・1月大阪】冬の大阪城イルミナージュ＆大阪天満宮新春初詣！水都中之島イルミネーションとなにわ冬グルメ名宿5選",
+    "description": "冬の水都・大阪は、大阪城西の丸庭園を光の歴史絵巻に変える「大阪城イルミナージュ」や堂島川・中之島を彩る「大阪・光の饗宴」の幻想美に包まれる季節。天神橋筋商店街の活気と学問の神様「大阪天満宮」の新春開運初詣、熱々のてっちり（ふぐ鍋）や串カツ、出汁香るきつねうどんなどなにわの冬の味覚を心ゆくまで堪能。楽天APIから最新取得した大阪城・中之島・天満エリアの格調高きホテル5選を徹底特集します。",
+    "url": "https://croud-travel.pages.dev/winter-osaka-castle-nakanoshima-illumination-tenmangu-stay/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "日本全国・旅宿クラウド",
+      "logo": { "@type": "ImageObject", "url": "https://croud-travel.pages.dev/icon.png" }
+    }
+  };
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
+      { "@type": "ListItem", "position": 2, "name": "【11・12・1月大阪】冬の大阪城イルミナージュ＆大阪天満宮新春初詣！水都中之島イルミネーションとなにわ冬グルメ名宿5選", "item": "https://croud-travel.pages.dev/winter-osaka-castle-nakanoshima-illumination-tenmangu-stay/" }
     ]
   };
 
@@ -612,7 +635,9 @@ export default function OsakaCastleNakanoshimaWinterPage() {
               <span className="font-bold text-xs sm:text-sm text-amber-900 line-clamp-2">全国の冬旅・新春初詣＆温泉特選特集一覧</span>
               <span className="text-[11px] text-amber-700 font-medium mt-2 flex items-center gap-1">全特集一覧へ戻る →</span>
             </Link>
-          </div>
+          
+      <HubRelatedPosts currentSlug="winter-osaka-castle-nakanoshima-illumination-tenmangu-stay" />
+</div>
         </section>
       </main>
 
