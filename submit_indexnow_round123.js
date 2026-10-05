@@ -1,43 +1,90 @@
 const https = require('https');
-const fs = require('fs');
 
-const host = 'croud-travel.com';
-const key = 'croudtravelindexnow2026';
-const keyLocation = 'https://croud-travel.com/croudtravelindexnow2026.txt';
-
-const r123 = JSON.parse(fs.readFileSync('round123_batch_data.json', 'utf8'));
-const urlList = r123.map(a => 'https://' + host + '/' + a.slug);
-
-const body = JSON.stringify({
-  host: host,
-  key: key,
-  keyLocation: keyLocation,
-  urlList: urlList
-});
-
-const endpoints = [
-  'api.indexnow.org',
-  'www.bing.com',
-  'yandex.com'
+const round123Slugs = [
+  'winter-hiroshima-saijo-takehara-sake-brewery-bikan-stay',
+  'winter-saitama-hanno-naguri-onsen-moomin-illumination-bushugyu-stay',
+  'winter-okayama-kibiji-soja-saijo-inari-hatsumode-chiyagyu-stay',
+  'winter-ehime-ozu-uchiko-castle-garyusanso-bikan-uchikobuta-stay',
+  'winter-tokushima-city-oasashiko-shrine-hatsumode-awaodori-awagyu-stay',
+  'features',
+  'sitemap-features.xml',
+  'llms-full.txt'
 ];
 
-endpoints.forEach(ep => {
-  const req = https.request({
-    hostname: ep,
-    path: '/indexnow',
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json; charset=utf-8',
-      'Content-Length': Buffer.byteLength(body)
+const configs = [
+  {
+    host: 'croud-travel.com',
+    key: 'croudtravelindexnow2026',
+    keyLocation: 'https://croud-travel.com/croudtravelindexnow2026.txt',
+    urls: round123Slugs.map(s => `https://croud-travel.com/${s}`)
+  },
+  {
+    host: 'croud-travel.pages.dev',
+    key: 'c4d9e7284b9148d2bc079e2f9d658931',
+    keyLocation: 'https://croud-travel.pages.dev/c4d9e7284b9148d2bc079e2f9d658931.txt',
+    urls: round123Slugs.map(s => `https://croud-travel.pages.dev/${s}`)
+  },
+  {
+    host: 'croud-travel.com',
+    key: 'e3b8b09335f64b1f9e2b17849c63b4b8',
+    keyLocation: 'https://croud-travel.com/e3b8b09335f64b1f9e2b17849c63b4b8.txt',
+    urls: round123Slugs.map(s => `https://croud-travel.com/${s}`)
+  }
+];
+
+const endpoints = [
+  { hostname: 'api.indexnow.org', path: '/IndexNow' },
+  { hostname: 'www.bing.com', path: '/IndexNow' },
+  { hostname: 'yandex.com', path: '/indexnow' }
+];
+
+async function submitIndexNow() {
+  console.log('=== Submitting Round 123 URLs to IndexNow ===\n');
+
+  for (const cfg of configs) {
+    console.log(`\nSubmitting ${cfg.urls.length} URLs for host: ${cfg.host} (Key: ${cfg.key})...`);
+    const payload = JSON.stringify({
+      host: cfg.host,
+      key: cfg.key,
+      keyLocation: cfg.keyLocation,
+      urlList: cfg.urls
+    });
+
+    for (const ep of endpoints) {
+      await new Promise((resolve) => {
+        const req = https.request({
+          hostname: ep.hostname,
+          port: 443,
+          path: ep.path,
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json; charset=utf-8',
+            'Content-Length': Buffer.byteLength(payload)
+          }
+        }, (res) => {
+          let body = '';
+          res.on('data', chunk => body += chunk);
+          res.on('end', () => {
+            console.log(`  [${ep.hostname}] Response Status: ${res.statusCode} ${res.statusMessage || ''}`);
+            if (body && res.statusCode !== 200 && res.statusCode !== 202) {
+              console.log(`     Response: ${body}`);
+            }
+            resolve();
+          });
+        });
+
+        req.on('error', (e) => {
+          console.warn(`  [${ep.hostname}] Error: ${e.message}`);
+          resolve();
+        });
+
+        req.write(payload);
+        req.end();
+      });
     }
-  }, (res) => {
-    console.log(`Endpoint [${ep}] responded with status: ${res.statusCode}`);
-  });
+  }
 
-  req.on('error', (e) => {
-    console.error(`Endpoint [${ep}] error: ${e.message}`);
-  });
+  console.log('\n🎉 Round 123 IndexNow submission finished!');
+}
 
-  req.write(body);
-  req.end();
-});
+submitIndexNow();

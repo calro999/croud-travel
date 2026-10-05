@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-hiroshima-saijo-takehara-sake-brewery-bikan-stay',
+              title: "西条酒蔵通り＆竹原！冬の新酒仕込みと名物「美酒鍋」・安芸の小京都町並み保存地区＆峠下牛名宿",
+              desc: "日本三大酒処・西条の赤レンガ煙突に漂う吟醸香と青い杉玉。清酒で煮る伝統の蔵人料理「美酒鍋」と、江戸の豪商屋敷が連なる安芸の小京都・竹原の静寂…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-saitama-hanno-naguri-onsen-moomin-illumination-bushugyu-stay',
+              title: "飯能＆名栗温泉・奥武蔵！ムーミンバレーパーク冬イルミと名栗温泉の秘湯・薪火サウナ＆武州和牛名宿",
+              desc: "池袋から特急ラビューで40分。宮沢湖畔の森がオーロラに包まれる幻想的イルミネーションと、名栗渓谷に佇む西川材の温もり宿。本格薪サウナと極上武州和牛…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-okayama-kibiji-soja-saijo-inari-hatsumode-chiyagyu-stay',
+              title: "吉備路・総社＆最上稲荷！日本三大稲荷「最上稲荷」新春大初詣・国宝吉備津神社400m廻廊＆幻の千屋牛名宿",
+              desc: "中国地方屈指の初詣参拝客60万人を集める最上稲荷の巨大鳥居と新春祈願。桃太郎伝説の国宝吉備津神社大廻廊と備中国分寺五重塔、日本最古の蔓牛・千屋牛…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-ehime-ozu-uchiko-castle-garyusanso-bikan-uchikobuta-stay',
+              title: "大洲＆内子！大洲城木造復元天守の冬霧とミシュラン名園「臥龍山荘」・白壁の内子町並み＆いもたき名宿",
+              desc: "肱川の朝霧に浮かぶ木造復元天守・大洲城と不老庵の水かがみが息を呑む臥龍山荘。木蝋と和紙の豪商屋敷が並ぶ内子八日市の白壁散策と熱々の大洲いもたき…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-tokushima-city-oasashiko-shrine-hatsumode-awaodori-awagyu-stay',
+              title: "徳島市＆阿波一の宮！「大麻比古神社」樹齢千年の大楠大初詣と眉山冬夜景・本場阿波尾鶏鍋＆鳴門鯛名宿",
+              desc: "阿波国一宮・大麻比古神社に響く新春の祈りと御神木大楠。標高290m眉山から望む吉野川デルタの煌めく冬夜景と、地鶏日本一・阿波尾鶏の濃厚白湯水炊き鍋…",
+              badge: '11・12・1月特集'
+            },
+            {
               slug: 'winter-ehime-uwajima-yawatahama-taimeshi-kanburi-castle-stay',
               title: "宇和島＆八幡浜・南予！現存天守「宇和島城」冬情趣と本場宇和島鯛めし・宇和海寒ブリ＆南予名宿",
               desc: "日本に12基しか残らない現存天守・宇和島城の冬の静寂と伊達十万石の城下町。真冬が旬の真鯛刺身を生卵出汁で絡める本場宇和島鯛めし、八幡浜ちゃんぽん…",
