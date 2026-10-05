@@ -110,6 +110,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-fukui-tsuruga-kehi-jingu-mikata-goko-echizengani-wakasa-fugu-stay',
+              title: "敦賀＆若狭・三方五湖！北陸道総鎮守「氣比神宮」新春初詣と三方五湖冬景色・黄色タグ越前がに＆若狭ふぐ名宿",
+              desc: "北陸新幹線敦賀開業で話題！日本三大木造鳥居・氣比神宮初詣と無病息災長命水、水墨画のような水月湖の冬静寂、11月解禁越前がにと極寒若狭ふぐの二大味覚…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-yamagata-shonai-hagurosan-sakata-kandarajiru-yunohama-onsen-stay',
+              title: "酒田＆鶴岡・出羽三山！羽黒山「国宝五重塔」雪景色と酒田山居倉庫・冬名物「寒鱈どんがら汁」＆湯野浜・あつみ温泉名宿",
+              desc: "白銀の杉並木回廊に佇む羽黒山国宝五重塔と出羽三山初詣。雪ケヤキ並木が美しい酒田山居倉庫、冬の日本海が育む濃厚な寒鱈どんがら汁と名湯雪見風呂…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-mie-iseshima-jingu-hatsumode-toba-matoya-oyster-ise-ebi-stay',
+              title: "伊勢志摩＆鳥羽・賢島！「伊勢神宮」新春初詣と宇治橋大鳥居の冬日の出・冬旬「的矢かき」＆伊勢海老・松阪牛会席名宿",
+              desc: "二千年の祈りを紡ぐ内宮・外宮早朝参宮と冬至前後に現れる宇治橋日の出の奇跡。清浄生牡蠣「的矢かき」と伊勢海老、サミット舞台の英虞湾リゾートと鳥羽温泉郷…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-kyoto-tango-amanohashidate-ine-funaya-taizagani-kanburi-stay',
+              title: "丹後＆天橋立・伊根の舟屋！日本三景「天橋立」幻雪の飛龍観と伊根の舟屋雪景色・元伊勢初詣＆幻の「間人ガニ」名宿",
+              desc: "白砂青松が雪をまとう幻雪飛龍観と元伊勢籠神社新春祈願。海に浮かぶ伊根の舟屋群の雪景色、わずか5隻の小型船が獲る緑タグ間人ガニと極上伊根寒ブリしゃぶ…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-miyagi-matsushima-shiogama-shrine-hatsumode-sanriku-oyster-higashimono-stay',
+              title: "松島＆塩竈・松島湾！陸奥総鎮守「鹽竈神社」新春初詣と日本三景「松島」雪景色・冬旬「三陸松島かき」＆極上ひがしもの鮪名宿",
+              desc: "表坂202段を登る陸奥国一ノ宮初詣と国宝瑞巌寺雪景色。松島湾260余島の冬パノラマ、冬に身が太る濃厚な三陸松島かきと100本に1本の奇跡・塩竈ひがしもの鮪…",
+              badge: '11・12・1月特集'
+            },
+            {
               slug: 'winter-ishikawa-hakusan-shirayamahime-hatsumode-tatsunokuchi-onsen-kanougani-stay',
               title: "白山＆加賀・辰口温泉！加賀一ノ宮「白山比咩神社」新春初詣と手取川雪景色・開湯1400年美肌湯＆加能ガニ名宿",
               desc: "全国三千余社の白山神社総本宮で迎える厳かな新春。雪化粧した樹齢数百年の表参道杉並木、開湯1400年辰口温泉の柔らかな湯と解禁されたばかりの極上加能ガニ…",
