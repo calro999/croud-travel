@@ -110,6 +110,66 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-ishikawa-hakusan-shirayamahime-hatsumode-tatsunokuchi-onsen-kanougani-stay',
+              title: "白山＆加賀・辰口温泉！加賀一ノ宮「白山比咩神社」新春初詣と手取川雪景色・開湯1400年美肌湯＆加能ガニ名宿",
+              desc: "全国三千余社の白山神社総本宮で迎える厳かな新春。雪化粧した樹齢数百年の表参道杉並木、開湯1400年辰口温泉の柔らかな湯と解禁されたばかりの極上加能ガニ…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-nara-kashihara-jingu-hatsumode-asuka-asukunabe-yamatogyu-stay',
+              title: "橿原＆明日香・飛鳥！日本建国の聖地「橿原神宮」新春初詣と畝傍山の冬朝霧・飛鳥路の静寂＆名物「飛鳥鍋」名宿",
+              desc: "第一代神武天皇を祀る橿原神宮に響く新春の祈りと100万人の参拝。冬の澄んだ朝霧に浮かぶ大和三山、石舞台古墳の静寂と古代宮廷に由来する牛乳仕立て飛鳥鍋…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-shizuoka-kakegawa-fukuroi-hattasan-hatsumode-yumesakigyu-stay',
+              title: "掛川＆袋井・遠州三山！厄除け大本山「法多山尊永寺」新春初詣と掛川城木造天守・可睡齋ひなまつり＆遠州夢咲牛名宿",
+              desc: "厄除け大本山・法多山の杉並木を歩く新春初詣と名物厄除団子。日本初の本格木造復元天守・掛川城と可睡齋32段1200体ひな人形、日本一に輝いた黒毛和牛遠州夢咲牛…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-kagawa-takamatsu-tamura-shrine-hatsumode-shionoe-onsen-olivegyu-stay',
+              title: "高松＆屋島・塩江温泉！讃岐一ノ宮「田村神社」新春初詣と栗林公園の冬雪吊り・奥座敷美肌湯＆熱々しっぽくうどん名宿",
+              desc: "龍神信仰の讃岐国一ノ宮・田村神社初詣とミシュラン三つ星栗林公園の冬の雪吊り松美。高松の奥座敷・塩江温泉の渓谷露天風呂と根菜たっぷりの冬名物しっぽくうどん…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-gunma-kiryu-houtokuji-hatsumode-himokawa-udon-joshugyu-stay',
+              title: "桐生＆みどり・わたらせ！織物の都「桐生新町」のこぎり屋根と「宝徳寺」冬の床もみじ初詣・熱々ひもかわうどん名宿",
+              desc: "漆床に雪景色が鏡のように映り込む宝徳寺の新春特別祈祷。日本遺産・桐生新町重伝建地区のレトロ散策、幅十数センチの熱々肉汁ひもかわうどんと極上上州牛すき焼き…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-ishikawa-hakusan-shirayamahime-hatsumode-tatsunokuchi-onsen-kanougani-stay',
+              title: "白山＆加賀・辰口温泉！加賀一ノ宮「白山比咩神社」新春初詣と手取川雪景色・開湯1400年美肌湯＆加能ガニ名宿",
+              desc: "全国三千余社の白山神社総本宮で迎える厳かな新春。雪化粧した樹齢数百年の表参道杉並木、開湯1400年辰口温泉の柔らかな湯と解禁されたばかりの極上加能ガニ…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-nara-kashihara-jingu-hatsumode-asuka-asukunabe-yamatogyu-stay',
+              title: "橿原＆明日香・飛鳥！日本建国の聖地「橿原神宮」新春初詣と畝傍山の冬朝霧・飛鳥路の静寂＆名物「飛鳥鍋」名宿",
+              desc: "第一代神武天皇を祀る橿原神宮に響く新春の祈りと100万人の参拝。冬の澄んだ朝霧に浮かぶ大和三山、石舞台古墳の静寂と古代宮廷に由来する牛乳仕立て飛鳥鍋…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-shizuoka-kakegawa-fukuroi-hattasan-hatsumode-yumesakigyu-stay',
+              title: "掛川＆袋井・遠州三山！厄除け大本山「法多山尊永寺」新春初詣と掛川城木造天守・可睡齋ひなまつり＆遠州夢咲牛名宿",
+              desc: "厄除け大本山・法多山の杉並木を歩く新春初詣と名物厄除団子。日本初の本格木造復元天守・掛川城と可睡齋32段1200体ひな人形、日本一に輝いた黒毛和牛遠州夢咲牛…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-kagawa-takamatsu-tamura-shrine-hatsumode-shionoe-onsen-olivegyu-stay',
+              title: "高松＆屋島・塩江温泉！讃岐一ノ宮「田村神社」新春初詣と栗林公園の冬雪吊り・奥座敷美肌湯＆熱々しっぽくうどん名宿",
+              desc: "龍神信仰の讃岐国一ノ宮・田村神社初詣とミシュラン三つ星栗林公園の冬の雪吊り松美。高松の奥座敷・塩江温泉の渓谷露天風呂と根菜たっぷりの冬名物しっぽくうどん…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-gunma-kiryu-houtokuji-hatsumode-himokawa-udon-joshugyu-stay',
+              title: "桐生＆みどり・わたらせ！織物の都「桐生新町」のこぎり屋根と「宝徳寺」冬の床もみじ初詣・熱々ひもかわうどん名宿",
+              desc: "漆床に雪景色が鏡のように映り込む宝徳寺の新春特別祈祷。日本遺産・桐生新町重伝建地区のレトロ散策、幅十数センチの熱々肉汁ひもかわうどんと極上上州牛すき焼き…",
+              badge: '11・12・1月特集'
+            },
+            {
               slug: 'winter-hiroshima-saijo-takehara-sake-brewery-bikan-stay',
               title: "西条酒蔵通り＆竹原！冬の新酒仕込みと名物「美酒鍋」・安芸の小京都町並み保存地区＆峠下牛名宿",
               desc: "日本三大酒処・西条の赤レンガ煙突に漂う吟醸香と青い杉玉。清酒で煮る伝統の蔵人料理「美酒鍋」と、江戸の豪商屋敷が連なる安芸の小京都・竹原の静寂…",
