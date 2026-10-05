@@ -52,5 +52,5 @@
 - [沖縄県（55件）](https://croud-travel.pages.dev/llms/47.txt)
 - [全国・複数県（425件）](https://croud-travel.pages.dev/llms/48.txt)
 
-## 特集記事（1981件）
+## 特集記事（1986件）
 サイトマップ: https://croud-travel.pages.dev/sitemap-features.xml
