@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】ルビーのように輝く初夏の宝石！佐藤錦さくらんぼ狩り＆天童・かみのやま名湯宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！山形特産「佐藤錦・紅秀峰」さくらんぼ狩り食べ放題！山形牛会席と将棋の街・天童温泉やかみのやま温泉のやわらかな名湯を満喫する名宿5選。',
-  keywords: ["さくらんぼ狩り","佐藤錦","天童温泉","かみのやま温泉","山形牛","初夏フルーツ","楽天トラベル"],
+  keywords: ["2026年", "天童", "かみのやま名湯宿5選", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約"],
   openGraph: {
     title: '【2026年】ルビーのように輝く初夏の宝石！佐藤錦さくらんぼ狩り＆天童・かみのやま名湯宿5選',
     description: '2026年最新！山形特産「佐藤錦・紅秀峰」さくらんぼ狩り食べ放題！山形牛会席と将棋の街・天童温泉やかみのやま温泉のやわらかな名湯を満喫する名宿5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/spring-yamagata-cherry-picking-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/spring-yamagata-cherry-picking-stay',
+    canonical: "https://croud-travel.pages.dev/spring-yamagata-cherry-picking-stay/",
   },
 };
 

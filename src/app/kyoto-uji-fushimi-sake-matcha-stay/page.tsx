@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/kyoto-uji-fushimi-sake-matcha-stay/" },
   title: "【京都・宇治＆伏見酒蔵】世界遺産平等院・宇治抹茶＆伏見十石舟・酒蔵宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "千年の歴史と名水が醸す伝統文化・京都宇治＆伏見エリア完全特化！十円玉でおなじみ世界遺産「平等院鳳凰堂」、宇治川の鵜飼、本場宇治抹茶パフェ、伏見酒蔵の白壁土蔵・十石舟めぐり、京会席＆利き酒宿を徹底解説。",
-  keywords: ["kyoto-uji-fushimi-sake-matcha-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["京都", "宇治", "伏見酒蔵", "世界遺産平等院", "宇治抹茶", "伏見十石舟", "酒蔵宿"],
 };
 
 function loadSeasonalHotels() {

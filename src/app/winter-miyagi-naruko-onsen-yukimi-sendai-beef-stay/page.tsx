@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "11月から12月にかけて鳴子峡に初雪が舞い、奥羽山脈の山懐に静寂が訪れるみちのく随一の名湯「鳴子温泉郷」。日本に存在する11の泉質のうち実に9種類が集まる奇跡の温泉地で、乳白色・エメラルドグリーン・黒湯など多彩な源泉掛け流しの雪見風呂を堪能。手削りの鳴子こけしが並ぶノスタルジックな湯治街の散策、最高級A5ランク「仙台牛」のすき焼きや陶板焼き、名物栗だんごや奥羽の山里会席を満喫する厳選名宿5選を徹底解説。",
   keywords: '鳴子温泉 宿泊, 鳴子温泉郷 11月 12月, 鳴子ホテル, 鳴子風雅, 湯元 吉祥, 旅館すがわら, 旅館大沼, 鳴子峡 冬景色, 鳴子こけし, 仙台牛 すき焼き, 鳴子 栗だんご',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-miyagi-naruko-onsen-yukimi-sendai-beef-stay',
+    canonical: "https://croud-travel.pages.dev/winter-miyagi-naruko-onsen-yukimi-sendai-beef-stay/",
   },
   openGraph: {
     title: "【11・12月宮城鳴子温泉郷の冬湯治と雪見露天】多彩な源泉めぐりと初冬の鳴子峡・極上仙台牛すき焼き＆奥羽郷土会席の宿5選",

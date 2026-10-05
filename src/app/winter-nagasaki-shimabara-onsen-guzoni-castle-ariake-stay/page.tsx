@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   description: "有明海と雲仙普賢岳に抱かれた水の都・長崎県島原市。11〜1月は白亜の島原城が澄んだ冬空に映え、年末年始の初詣や武家屋敷散策で賑わいます。島原の乱ゆかりの熱々郷土鍋「具雑煮」や有明海の冬牡蠣、幻のガンバ（ふぐ）料理、長崎和牛を堪能。対岸の有明海から昇る感動の朝日と美肌の島原温泉掛け流し露天風呂を満喫できる厳選名宿5選を徹底解説します。",
   keywords: '島原温泉 ホテル, 島原 ホテル南風楼, シーサイド島原, 島原城 初詣, 具雑煮 島原, 有明海 牡蠣, がんば料理 島原, 雲仙みかどホテル, 四明荘, 12月 1月 長崎 観光',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-nagasaki-shimabara-onsen-guzoni-castle-ariake-stay'
+    canonical: "https://croud-travel.pages.dev/winter-nagasaki-shimabara-onsen-guzoni-castle-ariake-stay/"
   },
   openGraph: {
     title: "【11・12・1月長崎】島原温泉＆雲仙・有明海！冬の島原城初詣と名物「具雑煮」・有明海冬牡蠣＆海一望の美肌温泉名宿5選",

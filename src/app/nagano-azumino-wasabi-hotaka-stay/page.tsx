@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/nagano-azumino-wasabi-hotaka-stay/" },
   title: "【長野・安曇野＆穂高温泉郷】大王わさび農場・水車小屋＆信州サーモン・わさび丼宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "北アルプスの清らかな湧水とアートの田園郷・長野安曇野エリア完全特化！日本最大級「大王わさび農場」、蓼川の水車小屋、安曇野アートラインの美術館巡り、弱アルカリ性美肌の穂高温泉郷、名物「本わさび丼・信州サーモン宿」を徹底解説。",
-  keywords: ["nagano-azumino-wasabi-hotaka-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["長野", "安曇野", "穂高温泉郷", "大王わさび農場", "水車小屋", "信州サーモン", "わさび丼宿"],
 };
 
 function loadSeasonalHotels() {

@@ -5,18 +5,11 @@ import path from "path";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/hakone-freepass-break-even-model-route/" },
   title: "【箱根フリーパスは本当に元が取れる？】徹底検証！通常運賃との差額シミュレーション＆1泊2日黄金ルート ｜ 日本全国・旅宿クラウド",
   description:
     "箱根フリーパス（新宿発6,100円）でいくら得する？登山電車・ケーブルカー・ロープウェイ・海賊船・登山バスを通常料金で個別購入した場合（合計約8,200円）との差額比較、元が取れる王道モデルコースと強羅・湯本温泉宿。",
-  keywords: [
-    "箱根フリーパス 元が取れるか",
-    "箱根フリーパス 料金 比較",
-    "箱根旅行 運賃シミュレーション",
-    "箱根 モデルコース 1泊2日",
-    "箱根登山電車 ロープウェイ 海賊船 料金",
-    "箱根湯本 強羅 温泉 宿泊",
-    "小田急 フリーパス お得",
-  ],
+  keywords: ["1泊2日黄金ルート", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
 };
 
 interface Hotel {

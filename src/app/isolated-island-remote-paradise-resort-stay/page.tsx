@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '【2026年】青い海と島時間に包まれる！日本の秘境・離島リゾート＆隠れ家温泉宿5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！小豆島・屋久島・佐渡島・奄美大島など、豊かな自然と海に囲まれた離島の極上リゾート＆温泉宿5選。喧騒から離れた究極の島旅へ。',
-  keywords: ["離島旅","島リゾート","小豆島","屋久島","ビーチホテル","楽天トラベル"],
+  keywords: ["2026年", "離島リゾート", "隠れ家温泉宿5選", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/isolated-island-remote-paradise-resort-stay',
+    canonical: "https://croud-travel.pages.dev/isolated-island-remote-paradise-resort-stay/",
   },
   openGraph: {
     title: '【2026年】青い海と島時間に包まれる！日本の秘境・離島リゾート＆隠れ家温泉宿5選',

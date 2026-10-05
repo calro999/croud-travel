@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/japan-steam-locomotive-sl-retro-train-stay/" },
   title: "【SL蒸気機関車＆レトロ列車旅】大井川鐵道・SLばんえつ物語＆温泉宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "汽笛と白煙のノスタルジー！全国の現役SL（蒸気機関車）運行路線＆駅近温泉宿完全特化！静岡「大井川鐵道（きかんしゃトーマス号）」、福島＆新潟「SLばんえつ物語」、秩父鉄道「SLパレオエクスプレス」、寸又峡温泉・東山温泉宿を徹底解説。",
-  keywords: ["japan-steam-locomotive-sl-retro-train-stay", "鉄道旅行", "乗り物旅", "絶景体験", "温泉宿", "楽天トラベル"],
+  keywords: ["SL蒸気機関車", "レトロ列車旅", "大井川鐵道", "SLばんえつ物語", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
 
 function loadSeasonalHotels() {

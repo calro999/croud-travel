@@ -4,20 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '伊豆最古の小京都！修善寺温泉の竹林の小径散策＆桂川のせせらぎ望む老舗旅館×ふるさと納税完全攻略ガイド【2026年最新】湯回廊菊屋・宙SORA・桂川',
   description: '弘法大師が開湯した伊豆最古の名湯・修善寺温泉！竹林の小径、桂川にかかる恋の橋巡り。「湯回廊 菊屋」「修善寺温泉 宙 SORA 渡月荘金龍」「修善寺温泉 桂川」を、静岡県伊豆市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。創業四百年の渡り廊下、一万五千坪日本庭園、伊豆名物金目鯛・天城わさび会席を満喫。',
-  keywords: [
-    'ふるさと納税 旅行',
-    'ふるさと納税 温泉',
-    '修善寺温泉 竹林の小径＆名門宿特集',
-    '楽天ふるさと納税 トラベル',
-    '湯回廊　菊屋（共立リゾート）',
-    '修善寺温泉　宙ＳＯＲＡ　渡月荘金龍',
-    '湯めぐりの宿　修善寺温泉　桂川（共立リゾート）',
-    '高級温泉旅館',
-    '源泉かけ流し',
-    '実質2000円'
-  ],
+  keywords: ["2026年最新", "湯回廊菊屋", "宙SORA", "桂川", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-izu-shuzenji-bamboo-luxury-stay/',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-izu-shuzenji-bamboo-luxury-stay/",
   },
   openGraph: {
     title: '伊豆最古の小京都！修善寺温泉の竹林の小径散策＆桂川のせせらぎ望む老舗旅館×ふるさと納税完全攻略ガイド【2026年最新】湯回廊菊屋・宙SORA・桂川',

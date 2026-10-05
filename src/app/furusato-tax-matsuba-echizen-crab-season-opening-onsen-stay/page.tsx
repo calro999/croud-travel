@@ -4,20 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '11月6日漁解禁！本場の初物松葉ガニ・越前ガニ尽くし名門温泉旅館×ふるさと納税完全ガイド【2026年最新冬旅先取り】城崎・越前海岸 | 旅宿クラウド',
   description: '毎年11月6日に待ちに待った漁が解禁！日本海の冬の王様「松葉ガニ（山陰）」＆「越前ガニ（福井）」をタグ付き本場で味わい尽くす！カニ刺し・焼きガニ・甲羅みそ焼き・カニすき鍋と名湯七湯めぐりを誇る城崎温泉「西村屋ホテル招月庭」「かに庵」、越前海岸の絶景貸切風呂「さかな遊びの宿 やまちょう」。楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。',
-  keywords: [
-    'ふるさと納税 温泉',
-    'ふるさと納税 宿泊券',
-    'ふるさと納税 トラベルクーポン',
-    '山陰・北陸 11月解禁！初物松葉ガニ＆越前ガニ極上温泉宿特集',
-    '10月 旅行 おすすめ',
-    '11月 旅行 おすすめ',
-    '秋 旅行 温泉',
-    '紅葉 温泉旅館',
-    '楽天トラベル ふるさと納税',
-    '実質2000円 温泉'
-  ],
+  keywords: ["2026年最新冬旅先取り", "城崎", "越前海岸", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-matsuba-echizen-crab-season-opening-onsen-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-matsuba-echizen-crab-season-opening-onsen-stay/"
   },
   openGraph: {
     title: '11月6日漁解禁！本場の初物松葉ガニ・越前ガニ尽くし名門温泉旅館×ふるさと納税完全ガイド【2026年最新冬旅先取り】城崎・越前海岸',

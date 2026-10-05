@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/niigata-solo-business-sake-seafood-stay/" },
   title: '【新潟出張＆地酒ひとり旅】信濃川パノラマ・天然温泉サウナ・ぽんしゅ館利き酒！日本海美食を堪能する極上宿 厳選3選',
   description: '上越新幹線で東京から最短約1時間29分！日本一の米どころ・酒どころである新潟。「信濃川と日本海を見下ろす地上140mのランドマーク」を誇る「ホテル日航新潟」、新潟駅万代口徒歩すぐで天然温泉大浴場と夜鳴きそば完備の「ドーミーイン新潟」、新幹線直結の好アクセスを誇る「アートホテル新潟駅前」を徹底特集。',
   keywords: '新潟 出張 ホテル 温泉,新潟 一人旅 ホテル おすすめ,ホテル日航新潟 宿泊,ドーミーイン新潟 温泉,ぽんしゅ館 新潟駅 ホテル',

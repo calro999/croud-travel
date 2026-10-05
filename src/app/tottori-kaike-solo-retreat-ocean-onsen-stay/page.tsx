@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/tottori-kaike-solo-retreat-ocean-onsen-stay/" },
   title: '【皆生温泉ひとり旅・日本海オーシャンおこもり】弓ヶ浜パノラマ・美肌塩化物泉・境港松葉ガニ！「米子の奥座敷」で癒やされる厳選3宿',
   description: '山陰屈指の海辺の温泉郷・皆生！海に浮かぶような絶景露天風呂と最高峰の会席が評判の「皆生松月」、日本海一望の客室と海鮮会席が自慢の「皆生菊乃家」、全室オーシャンビュー＆展望風呂付き客室の「湯喜望 白扇」を楽天API最新データに基づき徹底比較。',
   keywords: '皆生温泉 一人旅 宿,皆生 ホテル 一人 温泉,皆生松月,皆生菊乃家,湯喜望 白扇,皆生温泉 ひとり旅 おこもり',

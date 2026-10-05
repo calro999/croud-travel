@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-soba-noodles-stay/" },
   title: '日本三大そば＆打ち立て蕎麦の芳香・名水と門前宿×ふるさと納税完全ガイド【2026年最新】戸隠・出雲・盛岡',
   description: '日本三大そば（長野戸隠そば・島根出雲そば・岩手盛岡わんこそば）の極上グルメ旅！霊山戸隠の清らかな水と一本棒丸延ばし「手打ちそばの宿石田屋」、出雲大社門前と三段朱塗り割子そば「玉造温泉佳翠苑皆美」、掛け声響くおもてなしの食文化「ダイワロイネットホテル盛岡」。打ち立て挽きたての香りと名湯宿を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大そば・名水美食特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',

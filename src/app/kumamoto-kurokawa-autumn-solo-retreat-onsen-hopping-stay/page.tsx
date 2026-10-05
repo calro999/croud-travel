@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/kumamoto-kurokawa-autumn-solo-retreat-onsen-hopping-stay/" },
   title: '【10月・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入湯手形めぐりおこもり】雑木林の秘湯露天・囲炉裏会席・肥後牛炭火焼き！阿蘇山麓リトリート厳選3宿',
   description: '10月下旬〜11月中旬は阿蘇山麓が秋色に染まるベストシーズン！「街全体が一つの宿」として風情を守り続ける熊本・黒川温泉。原生林に佇み三千坪の敷地に薬師の湯を湛える最高峰の隠れ家「旅館 山河」、温泉街の中心で立ち寄り湯も人気の「旅館 美里」、あたたかな木造の温もりと絶品料理の「旅館 壱の井」を楽天API最新データに基づき徹底比較。',
   keywords: '黒川温泉 一人旅 宿,黒川温泉 10月 11月 紅葉 温泉,旅館 山河 一人旅,旅館 美里,旅館 壱の井,黒川温泉 入湯手形 一人旅 おこもり',

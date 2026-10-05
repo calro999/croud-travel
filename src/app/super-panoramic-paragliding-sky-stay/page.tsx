@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "インストラクターと二人乗りで大空へテイクオフ！鳥になったような感動のフライト体験と、フライト後に山々を眺めながら入る絶景パノラマ露天風呂が自慢の全国屈指の高原リゾートホテルを厳選。",
   keywords: "パラグライダー ホテル 温泉, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/super-panoramic-paragliding-sky-stay',
+    canonical: "https://croud-travel.pages.dev/super-panoramic-paragliding-sky-stay/",
   },
   openGraph: {
     title: "【大空を舞う空中散歩】爽快パラグライダー体験＆絶景パノラマ露天風呂！高原アクティビティ宿5選",

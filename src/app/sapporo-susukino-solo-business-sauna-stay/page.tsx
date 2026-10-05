@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/sapporo-susukino-solo-business-sauna-stay/" },
   title: '【札幌すすきの出張・サウナステイ】サウナ付大浴場・すすきの徒歩すぐ・朝食海鮮丼！北の歓楽街ビジネスを格上げする厳選3宿',
   description: '新千歳空港から快速エアポートで札幌へ！本格木造サウナと水風呂・豪華朝食バイキングが絶賛される「ベッセルホテルカンパーナすすきの」、ルーフトップサウナと洗練空間が話題の「ホテル・アンドルームス札幌すすきの」、すすきの駅直近で快適デスクと上質ステイを約束する「ダイワロイネットホテル札幌すすきの」を徹底比較。',
   keywords: '札幌 出張 ホテル,すすきの サウナ ホテル,ベッセルホテルカンパーナすすきの,ホテルアンドルームス札幌すすきの,ダイワロイネット札幌すすきの,札幌 一人旅 温泉',

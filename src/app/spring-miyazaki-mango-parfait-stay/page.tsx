@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】とろける黄金の果肉・太陽のタマゴ！宮崎完熟マンゴースイーツ＆青島オーシャン宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！最高峰の宮崎完熟マンゴー「太陽のタマゴ」デザート＆宮崎牛炭火ステーキディナー！青島・日南海岸の絶景太平洋を望むリゾートホテル5選。',
-  keywords: ["宮崎マンゴー","太陽のタマゴ","青島温泉","宮崎牛","オーシャンビュー","南国リゾート","楽天トラベル"],
+  keywords: ["2026年", "とろける黄金の果肉", "青島オーシャン宿5選", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約"],
   openGraph: {
     title: '【2026年】とろける黄金の果肉・太陽のタマゴ！宮崎完熟マンゴースイーツ＆青島オーシャン宿5選',
     description: '2026年最新！最高峰の宮崎完熟マンゴー「太陽のタマゴ」デザート＆宮崎牛炭火ステーキディナー！青島・日南海岸の絶景太平洋を望むリゾートホテル5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/spring-miyazaki-mango-parfait-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/spring-miyazaki-mango-parfait-stay',
+    canonical: "https://croud-travel.pages.dev/spring-miyazaki-mango-parfait-stay/",
   },
 };
 

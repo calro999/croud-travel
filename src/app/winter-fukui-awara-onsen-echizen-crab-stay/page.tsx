@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "11月6日の越前がに解禁で歓喜に沸く福井の名湯「あわら温泉」。明治の開湯以来、各宿が独自源泉を所有する贅沢な湯巡りと、三國港直送の黄色タグ付き越前がにフルコース、極上若狭牛を堪能。庭園露天風呂が彩る初冬の極上温泉宿5選を徹底解説。",
   keywords: 'あわら温泉 越前がに 宿泊, あわら温泉 11月 12月, 越前蟹 黄色タグ まつや千千, グランディア芳泉, つるや あわら, 清風荘, 若狭牛 芦原温泉',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-fukui-awara-onsen-echizen-crab-stay',
+    canonical: "https://croud-travel.pages.dev/winter-fukui-awara-onsen-echizen-crab-stay/",
   },
   openGraph: {
     title: "【11・12月あわら温泉の冬名湯と越前がに】関西の奥座敷・庭園露天風呂と黄色いタグ付き越前蟹＆若狭牛会席の宿5選",

@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: 'エメラルドグリーンの渓谷美と秘境吊り橋！大自然の峡谷露天風呂に癒やされる隠れ家温泉宿 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！エメラルドグリーンの清流と峡谷の絶景を望む秘境温泉宿。スリル満点の吊り橋散策とマイナスイオン溢れる渓流露天風呂で極上の癒やしを。',
-  keywords: ["渓谷露天風呂","秘境温泉","吊り橋","温泉旅行","楽天トラベル"],
+  keywords: ["温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/valley-gorge-suspension-bridge-secret-onsen-stay',
+    canonical: "https://croud-travel.pages.dev/valley-gorge-suspension-bridge-secret-onsen-stay/",
   },
   openGraph: {
     title: 'エメラルドグリーンの渓谷美と秘境吊り橋！大自然の峡谷露天風呂に癒やされる隠れ家温泉宿',

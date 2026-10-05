@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】本場北欧の本格熱波！フィンランドサウナ＆ログハウスヴィラ温泉宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！本場フィンランド直輸入の本格木造サウナ＆セルフロウリュ！白樺ヴィヒタとプライベート天然水風呂、森林外気浴を満喫するサウナリゾート5選。',
-  keywords: ["フィンランドサウナ","セルフロウリュ","ヴィヒタ","ログハウスホテル","森林サウナ","究極のととのい","楽天トラベル"],
+  keywords: ["2026年", "ログハウスヴィラ温泉宿5選", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
     title: '【2026年】本場北欧の本格熱波！フィンランドサウナ＆ログハウスヴィラ温泉宿5選',
     description: '2026年最新！本場フィンランド直輸入の本格木造サウナ＆セルフロウリュ！白樺ヴィヒタとプライベート天然水風呂、森林外気浴を満喫するサウナリゾート5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/organic-nordic-smoke-sauna-retreat-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/organic-nordic-smoke-sauna-retreat-stay',
+    canonical: "https://croud-travel.pages.dev/organic-nordic-smoke-sauna-retreat-stay/",
   },
 };
 

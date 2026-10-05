@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "11月中旬から博多駅・天神・中洲が煌めく日本最大級の祭典「福岡クリスマスアドベント」！限定マグカップで楽しむホットワインと冬の博多名物（もつ鍋・水炊き）、冷えた体を芯から温める天然温泉・大浴場付きの厳選ホテルステイ。",
   keywords: '福岡 クリスマスアドベント, 博多 クリスマスマーケット, 天神 イルミネーション, 博多 もつ鍋 ホテル, 福岡 温泉 ホテル, 博多駅 大浴場, 冬旅行 11月 12月',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-fukuoka-hakata-christmas-advent-gourmet-stay',
+    canonical: "https://croud-travel.pages.dev/winter-fukuoka-hakata-christmas-advent-gourmet-stay/",
   },
   openGraph: {
     title: "【11・12月福岡クリスマスアドベント】博多駅・天神の光の街と本場もつ鍋・水炊き極上宿5選",

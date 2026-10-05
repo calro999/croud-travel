@@ -5,18 +5,11 @@ import path from "path";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-last-minute-empty-rooms-guide/" },
   title: "【まだ間に合う！シルバーウィーク直前予約グランピング】空室ありの穴場施設＆キャンセル拾いの極意 ｜ 日本全国・旅宿クラウド",
   description:
     "連休直前でも諦めない！シルバーウィーク直前に空きが出やすい穴場エリア、キャンセル料発生直前（7日前〜3日前）を狙うキャンセル拾いテクニック、即時予約可能な高評価グランピング施設特集。",
-  keywords: [
-    "シルバーウィーク グランピング 直前予約",
-    "グランピング 空室 まだ間に合う",
-    "連休 グランピング 穴場 予約",
-    "グランピング キャンセル拾い コツ",
-    "連休 直前 宿泊予約 アウトドア",
-    "秋休み グランピング 直前空き状況",
-    "関東近郊 グランピング 駆け込み予約"
-  ],
+  keywords: ["空室ありの穴場施設", "キャンセル拾いの極意", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
 };
 
 interface Hotel {

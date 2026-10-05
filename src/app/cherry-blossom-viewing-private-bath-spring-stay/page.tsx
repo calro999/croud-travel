@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '【2026年】客室露天から桜を独り占め！お花見露天風呂＆春爛漫の会席料理が自慢の温泉宿5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！満開の桜並木や庭園のしだれ桜を湯船から愛でる贅沢なお花見客室露天風呂と、春の旬食材を使った桜会席が人気の名宿5選。',
-  keywords: ["お花見温泉","桜露天風呂","春旅行","客室露天風呂","桜会席","楽天トラベル"],
+  keywords: ["2026年", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/cherry-blossom-viewing-private-bath-spring-stay',
+    canonical: "https://croud-travel.pages.dev/cherry-blossom-viewing-private-bath-spring-stay/",
   },
   openGraph: {
     title: '【2026年】客室露天から桜を独り占め！お花見露天風呂＆春爛漫の会席料理が自慢の温泉宿5選',

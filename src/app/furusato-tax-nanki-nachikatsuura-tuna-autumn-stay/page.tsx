@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '那智の滝と熊野古道の秋紅葉！南紀勝浦温泉の海辺洞窟露天風呂・生まぐろ＆熊野牛を味わう聖地紀州旅 | クラウドトラベルふるさと納税',
   description: '10月・11月の和歌山・南紀勝浦＆熊野那智大社特集！落差日本一の名瀑「那智の滝」と熊野古道大門坂の秋景色、太平洋の荒波が迫る勝浦温泉の海辺洞窟露天風呂「忘帰洞」、水揚げ日本一を誇る極上の「勝浦生まぐろ」とブランド熊野牛をふるさと納税で満喫。',
-  keywords: ['那智勝浦・勝浦温泉・熊野古道 紅葉 観光', '和歌山県 10月 11月 旅行', '和歌山・那智勝浦＆熊野古道特集', 'ふるさと納税 温泉宿泊券', '南紀勝浦温泉　くつろぎの宿　料理旅館　万清楼', '南紀勝浦温泉　ホテル浦島', '南紀勝浦温泉　ホテルなぎさや', '楽天ふるさと納税 宿泊クーポン'],
+  keywords: ["生まぐろ", "熊野牛を味わう聖地紀州旅", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-nanki-nachikatsuura-tuna-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-nanki-nachikatsuura-tuna-autumn-stay/",
   },
   openGraph: {
     title: '那智の滝と熊野古道の秋紅葉！南紀勝浦温泉の海辺洞窟露天風呂・生まぐろ＆熊野牛を味わう聖地紀州旅',

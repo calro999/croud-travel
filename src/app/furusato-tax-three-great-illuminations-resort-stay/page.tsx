@@ -4,16 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '日本三大イルミネーション直結リゾートホテル×ふるさと納税完全ガイド【2026年最新】あしかが・ハウステンボス・さっぽろ光のステイ',
   description: '日本屈指の光の祭典！栃木「あしかがフラワーパーク」光の花の庭、長崎「ハウステンボス」世界最大1,300万球のイルミネーション直営リゾート、北海道「さっぽろホワイトイルミネーション」大通公園ビューホテル。冬の夜空を彩る幻想的な光の世界を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
-  keywords: [
-    '楽天ふるさと納税',
-    'ふるさと納税 宿泊クーポン',
-    '楽天トラベル ふるさと納税',
-    '高級温泉旅館',
-    '露天風呂付き客室',
-    '2026年旅行'
-  ],
+  keywords: ["2026年最新", "あしかが", "ハウステンボス", "さっぽろ光のステイ", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-great-illuminations-resort-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-illuminations-resort-stay/"
   },
   openGraph: {
     title: '日本三大イルミネーション直結リゾートホテル×ふるさと納税完全ガイド【2026年最新】あしかが・ハウステンボス・さっぽろ光のステイ',

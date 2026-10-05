@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '【2026年】館内ギャラリーで名画・彫刻を鑑賞！美の空間に泊まるミュージアム温泉宿5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！現代アートの企画展や日本画・陶芸ギャラリーを併設し、上質なアート鑑賞と名湯を一度に楽しめる大人のミュージアム温泉宿5選。',
-  keywords: ["アートギャラリー","ミュージアムホテル","絵画鑑賞","現代アート","大人の休日","楽天トラベル"],
+  keywords: ["2026年", "館内ギャラリーで名画", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/luxury-private-onsen-with-art-gallery-stay',
+    canonical: "https://croud-travel.pages.dev/luxury-private-onsen-with-art-gallery-stay/",
   },
   openGraph: {
     title: '【2026年】館内ギャラリーで名画・彫刻を鑑賞！美の空間に泊まるミュージアム温泉宿5選',

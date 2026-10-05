@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/kyoto-arashiyama-bamboo-stay/" },
   title: "【京都・嵐山】竹林の小径・渡月橋＆嵯峨野おこもり宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "京都・嵐山エリア完全特化！渡月橋、竹林の小径、天龍寺、保津川下り周辺の徒歩観光ルートと、嵐山温泉・客室露天風呂付き旅館を徹底解説。",
-  keywords: ["kyoto-arashiyama-bamboo-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["京都", "嵐山", "竹林の小径", "渡月橋", "嵯峨野おこもり宿", "温泉宿", "宿泊予約"],
 };
 
 function loadSeasonalHotels() {

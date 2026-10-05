@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】勇壮なねぶたの熱気に包まれる！ねぶたアート空間＆青森ヒバ名湯と海鮮極上宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！職人が手掛けた巨大ねぶたの光アートと祭り囃子！大間マグロ・陸奥湾ホタテ会席と香り高い青森ヒバ温泉で津軽・南部の文化に触れる名宿5選。',
-  keywords: ["ねぶたの宿","青森ねぶた","青森ヒバ風呂","大間マグロ","陸奥湾ホタテ","津軽文化体験","楽天トラベル"],
+  keywords: ["2026年", "青森ヒバ名湯と海鮮極上宿5選", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
     title: '【2026年】勇壮なねぶたの熱気に包まれる！ねぶたアート空間＆青森ヒバ名湯と海鮮極上宿5選',
     description: '2026年最新！職人が手掛けた巨大ねぶたの光アートと祭り囃子！大間マグロ・陸奥湾ホタテ会席と香り高い青森ヒバ温泉で津軽・南部の文化に触れる名宿5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/traditional-aomori-nebuta-craft-onsen-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/traditional-aomori-nebuta-craft-onsen-stay',
+    canonical: "https://croud-travel.pages.dev/traditional-aomori-nebuta-craft-onsen-stay/",
   },
 };
 

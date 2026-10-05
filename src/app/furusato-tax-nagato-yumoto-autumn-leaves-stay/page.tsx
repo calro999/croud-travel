@@ -4,20 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '長門湯本温泉の音信川紅葉ライトアップ＆元乃隅神社！大谷山荘・玉仙閣×ふるさと納税完全ガイド【2026年最新秋旅】山口',
   description: '11月上旬〜11月下旬に美しく色づく山口県最古の温泉地「長門湯本温泉（ながとゆもとおんせん）」。音信川（おとずれがわ）沿いの竹林階段や飛び石の紅葉ライトアップ、元乃隅神社の絶景鳥居、名門旅館「大谷山荘」「玉仙閣」「山村別館」で本場下関のとらふぐや長州黒かしわを堪能。楽天ふるさと納税で実質2,000円。',
-  keywords: [
-    'ふるさと納税 温泉',
-    'ふるさと納税 宿泊券',
-    'ふるさと納税 トラベルクーポン',
-    '山口・長門湯本温泉＆音信川紅葉特集',
-    '10月 旅行 おすすめ',
-    '11月 旅行 おすすめ',
-    '秋 旅行 温泉',
-    '紅葉 温泉旅館',
-    '楽天トラベル ふるさと納税',
-    '実質2000円 温泉'
-  ],
+  keywords: ["元乃隅神社！大谷山荘", "玉仙閣×ふるさと納税", "2026年最新秋旅", "山口", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-nagato-yumoto-autumn-leaves-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-nagato-yumoto-autumn-leaves-stay/"
   },
   openGraph: {
     title: '長門湯本温泉の音信川紅葉ライトアップ＆元乃隅神社！大谷山荘・玉仙閣×ふるさと納税完全ガイド【2026年最新秋旅】山口',

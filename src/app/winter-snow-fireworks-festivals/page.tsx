@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/winter-snow-fireworks-festivals/" },
   title: "【夜空の芸術】冬の雪上花火＆湖畔温泉ホテル 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "澄んだ冬空に響く大迫力の轟音！山梨・河口湖冬花火、静岡・熱海海上花火大会（冬の部）、岐阜・下呂温泉花火ミュージカル、栃木・奥日光中禅寺湖など、客室や露天風呂から花火を仰ぐ人気宿を徹底解説。",
-  keywords: ["winter-snow-fireworks-festivals", "宿泊予約", "温泉宿", "ホテル特集", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["夜空の芸術", "冬の雪上花火", "湖畔温泉ホテル", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
 
 function loadSeasonalHotels() {

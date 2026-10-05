@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/hokkaido-noboribetsu-solo-retreat-hell-valley-onsen-stay/" },
   title: '【北海道・登別温泉ひとり旅・地獄谷の多彩な泉質おこもり】9種類の湧出泉・白濁硫黄露天風呂・道産会席！名湯の王様厳選3宿',
   description: '毎分3,000リットルの源泉が湧き出す北海道屈指の名湯・登別温泉！純和風の数寄屋造りと本格部屋食で一人静かに過ごせる名館「御やど清水屋」、地獄谷の絶景を眼前に望み乳白色露天風呂を備える「登別万世閣」、豊富な泉質と野趣あふれる岩風呂が自慢の「名湯の宿 パークホテル雅亭」を楽天API最新データに基づき徹底比較。',
   keywords: '登別温泉 一人旅 宿,登別 ホテル 一人 温泉,登別温泉 御やど清水屋,登別万世閣 一人旅,パークホテル雅亭,登別 ひとり旅 おこもり',

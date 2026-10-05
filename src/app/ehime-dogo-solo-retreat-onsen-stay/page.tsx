@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/ehime-dogo-solo-retreat-onsen-stay/" },
   title: '【道後温泉ひとり旅・日本最古の名湯おこもり】道後温泉本館・美人の湯・愛媛鯛めし！松山城下町と文学の香りに浸る厳選3宿',
   description: '日本最古の歴史を誇る名湯・道後！道後公園隣接でリーズナブルに天然温泉を楽しめる「にぎたつ会館」、明治レトロな洋館風ロビーと大浴場が人気の老舗「ホテル椿館」、全室客室露天風呂付きで極上のプライベートステイが叶う「八千代」を徹底比較。',
   keywords: '道後温泉 一人旅 宿,道後 ホテル 一人 温泉,にぎたつ会館,ホテル椿館 道後,道後温泉 八千代,道後温泉本館 ひとり旅',

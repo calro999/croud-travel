@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/tokyo-matsumoto-kamikochi-bus-vs-train-guide/" },
   title: "【東京・新宿〜松本・上高地】特急あずさ vs 直行高速バス徹底比較！片道2,500円〜行く国宝松本城＆上高地1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
   description: "東京・新宿から松本・上高地へ安く行くには？JR中央線特急あずさと高速バス（中央高速バス・さわやか信州号）の料金・所要時間比較！国宝松本城、中町通りの蔵造りカフェ、北アルプスの絶景上高地を満喫する1泊2日モデルコース。",
-  keywords: ["tokyo-matsumoto-kamikochi-bus-vs-train-guide", "高速バス", "バスツアー", "新幹線 比較", "安く行く方法", "1泊2日 モデルコース", "宿泊予約", "楽天トラベル"],
+  keywords: ["東京", "新宿〜松本", "上高地", "特急あずさ", "vs", "上高地1泊2日モデルコース", "温泉宿"],
 };
 
 function loadHotels() {

@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   description: "冬の東京・丸の内は、約1.2kmにわたりシャンパンゴールドに輝く「丸の内イルミネーション」と、美しくライトアップされた東京駅丸の内赤レンガ駅舎、皇居のお濠端の静寂が広がる年間最高峰のラグジュアリーシーズン。日本橋福徳神社や神田明神の新春初詣、江戸前老舗グルメまで、大人の洗練された冬の都心ステイ。楽天APIから最新取得した東京ステーションホテル、パレスホテル東京など厳選宿5選を徹底特集します。",
   keywords: '丸の内 ホテル, 東京駅 ホテル, 丸の内イルミネーション, 東京ステーションホテル, パレスホテル東京, 丸ノ内ホテル, 皇居 初詣, 日本橋 福徳神社, 11月 12月 1月 東京 観光',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-tokyo-marunouchi-illumination-tokyo-station-hatsumode-stay'
+    canonical: "https://croud-travel.pages.dev/winter-tokyo-marunouchi-illumination-tokyo-station-hatsumode-stay/"
   },
   openGraph: {
     title: "【11・12・1月東京】丸の内イルミネーション＆東京駅丸の内駅舎夜景！皇居新春散策と江戸前極上宿5選",

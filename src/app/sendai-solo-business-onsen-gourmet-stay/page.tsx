@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/sendai-solo-business-onsen-gourmet-stay/" },
   title: '【仙台出張＆ご褒美ひとり旅】仙台駅近・天然温泉サウナ・牛タン美食！疲れを癒やす杜の都の極上ホテル 厳選3選',
   description: '東北最大のメガターミナル・仙台！「杜の都の高層パノラマと最高峰クラブラウンジ」を誇る「ウェスティンホテル仙台」、仙台駅西口徒歩すぐで天然温泉大浴場とサウナ・夜鳴きそば完備の「ドーミーイン仙台駅前」、中欧プラハを思わせるクラシック温泉スパ付き「ホテルモントレ仙台」を徹底特集。',
   keywords: '仙台 出張 ホテル 温泉,仙台 一人旅 ホテル おすすめ,ウェスティンホテル仙台 宿泊,ドーミーイン仙台駅前 サウナ,ホテルモントレ仙台 スパ',

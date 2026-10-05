@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "芭蕉も心奪われた日本三景・松島と、千二百年の歴史を刻む陸奥国一ノ宮・塩竈を巡る11〜1月の冬紀行。伊達政宗ゆかりの国宝「瑞巌寺」や五大堂が白雪をまとう静寂の松島湾、表坂202段の石段を登り迎える「志波彦神社・鹽竈神社」荘厳な新春初詣。真冬に最も身が太り濃厚なミルキーさを極める「三陸松島かき」、塩竈港水揚げの奇跡のブランド鮪「三陸塩竈ひがしもの」、極上仙台牛。太古の地層から湧く松島温泉「美肌の湯」に癒やされる厳選名宿5選を徹底解説します。",
   keywords: '鹽竈神社 初詣, 松島 雪景色, 松島かき 冬, 塩竈ひがしもの 鮪, 瑞巌寺 雪, 松島一の坊, 松島大観荘, 松島温泉 絶景宿, 宮城 冬旅行',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-miyagi-matsushima-shiogama-shrine-hatsumode-sanriku-oyster-higashimono-stay'
+    canonical: "https://croud-travel.pages.dev/winter-miyagi-matsushima-shiogama-shrine-hatsumode-sanriku-oyster-higashimono-stay/"
   },
   openGraph: {
     title: "【11・12・1月宮城】陸奥総鎮守「鹽竈神社」新春初詣と日本三景「松島」雪景色！冬旬「三陸松島かき」・極上ひがしもの鮪＆松島温泉名宿5選",

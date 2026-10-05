@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/beppu-kannawa-solo-retreat-jigokumushi-onsen-stay/" },
   title: '【別府鉄輪温泉・ひとり湯治おこもり】立ち上る湯けむり・名物地獄蒸し・源泉かけ流し大露天風呂！別府八湯の真髄を味わう厳選3宿',
   description: '日本屈指の湯量を誇る別府温泉郷の中でも、昔ながらの湯治場情緒が色濃く残る鉄輪（かんなわ）エリア。竹と椿をテーマにした優雅な空間とミクロの気泡風呂が評判の「竹と椿のお宿 花べっぷ」、日本庭園と能舞台を備え全室離れ風の極上宿「山荘 神和苑」、別府最大級の開放的な大露天風呂を誇る「おにやまホテル」を徹底比較。',
   keywords: '別府 鉄輪温泉 一人旅,花べっぷ 宿泊,山荘 神和苑 ひとり,おにやまホテル 露天風呂,別府 湯治 おこもり 地獄蒸し',

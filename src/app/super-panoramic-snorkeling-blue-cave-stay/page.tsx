@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "太陽の光が海底に反射して青く輝く神秘の「青の洞窟」シュノーケリング！色鮮やかな熱帯魚やウミガメと泳ぐ感動体験と、全室オーシャンビュー＆展望スパ・インフィニティプールを備えた極上リゾートを厳選。",
   keywords: "恩納村 リゾート ホテル 温泉, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/super-panoramic-snorkeling-blue-cave-stay',
+    canonical: "https://croud-travel.pages.dev/super-panoramic-snorkeling-blue-cave-stay/",
   },
   openGraph: {
     title: "【青の洞窟シュノーケリング】神秘のブルー＆ウミガメ遭遇体験！沖縄・恩納村のビーチリゾート宿5選",

@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   description: "11月下旬から1月、日本仏教の母山と仰がれる世界遺産「比叡山延暦寺」は、厳かな白銀の雪化粧に包まれます。標高848メートルの霊峰に佇む総本堂・国宝「根本中堂」では、開山以来1200年間一度も消えることなく灯り続ける「不滅の法灯」が神聖な光を放ち、大改修中の今しか見られない特別な修学空間が旅人を迎えます。比叡山から日本一の長さを誇る坂本ケーブルで下れば、伝教大師最澄が開湯した名湯「おごと温泉」。雄大な冬の琵琶湖を望む雪見露天風呂と、日本三大和牛の筆頭「近江牛」のとろけるすき焼き・しゃぶしゃぶを心ゆくまで堪能する厳選名宿5選を徹底解説します。",
   keywords: '比叡山延暦寺 冬 参拝, 根本中堂 不滅の法灯, おごと温泉 近江牛 宿, 琵琶湖 雪景色 温泉, びわこ緑水亭, 湯の宿木もれび, 暖灯館きくのや, 雄山荘, 琵琶湖グランドホテル, 11月 12月 1月 滋賀 旅行',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-shiga-hieizan-enryakuji-ogoto-onsen-omigyu-stay'
+    canonical: "https://croud-travel.pages.dev/winter-shiga-hieizan-enryakuji-ogoto-onsen-omigyu-stay/"
   },
   openGraph: {
     title: "【11・12・1月滋賀】世界遺産・比叡山延暦寺の静謐な冬参拝＆根本中堂「不滅の法灯」と琵琶湖一望おごと温泉・極上近江牛名宿5選",

@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/okinawa-travel-budget-plan/" },
   title: "【沖縄旅行 予算】2泊3日・3泊4日それぞれいくら？航空券・レンタカー・リゾートホテルのリアル費用",
   description: "沖縄旅行の予算を2泊3日（那覇中心）・3泊4日（美ら海水族館＋恩納村リゾート込み）で完全計算！LCC vs 大手航空の航空券代、レンタカーの有無で変わる費用差、ビーチホテルの宿泊費、沖縄そば・タコライス・ステーキの食費まで。",
-  keywords: ["沖縄旅行", "予算", "費用", "レンタカー", "リゾートホテル", "2泊3日", "3泊4日", "楽天トラベル"],
+  keywords: ["沖縄旅行", "予算", "2泊3日", "3泊4日それぞれいくら？航空券", "レンタカー", "リゾートホテルのリアル費用", "温泉宿"],
 };
 
 function loadHotels() {

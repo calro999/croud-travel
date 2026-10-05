@@ -5,18 +5,11 @@ import path from "path";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/sapporo-shime-parfait-late-night-guide/" },
   title: "【札幌 すすきの夜パフェ＆深夜ラーメンおすすめ店】深夜2時まで営業！飲んだ後のシメ文化完全攻略",
   description:
     "札幌独自の夜文化「シメパフェ」の名店を厳選！旬の北海道フルーツとアイスが美しいアートパフェ、深夜行列のできる味噌ラーメン、すすきのの繁華街から歩いて帰れる大浴場＆サウナ付きホテル。",
-  keywords: [
-    "札幌 夜パフェ シメパフェ",
-    "すすきの 深夜ラーメン",
-    "札幌 深夜 パフェ 2時",
-    "パフェテリア パル すすきの",
-    "すすきの 朝まで 居酒屋",
-    "札幌 シメパフェ おすすめ",
-    "すすきの ホテル 大浴場 サウナ"
-  ],
+  keywords: ["札幌", "すすきの夜パフェ", "深夜ラーメンおすすめ店", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
 
 interface Hotel {

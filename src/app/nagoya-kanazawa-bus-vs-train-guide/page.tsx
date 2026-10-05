@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/nagoya-kanazawa-bus-vs-train-guide/" },
   title: "【名古屋から金沢 安く行く方法】特急しらさぎ vs 直行高速バス徹底比較！乗り換えなし1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
   description: "名古屋から金沢へ安く行くには？特急しらさぎ敦賀乗換（約8,010円）と直行高速バス（約3,000円〜）の料金・時間比較！乗り換えゼロ＆半額以下で行ける名鉄直行バスを活用し、ひがし茶屋街・近江町市場・金沢城を満喫する1泊2日モデルコース。",
-  keywords: ["nagoya-kanazawa-bus-vs-train-guide", "高速バス", "バスツアー", "新幹線 比較", "安く行く方法", "1泊2日 モデルコース", "宿泊予約", "楽天トラベル"],
+  keywords: ["名古屋から金沢", "安く行く方法", "特急しらさぎ", "vs", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
 
 function loadHotels() {

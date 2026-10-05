@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/nagano-shirahone-solo-retreat-onsen-stay/" },
   title: '【信州白骨温泉ひとり旅・三日入れば三年風邪ひかない名湯おこもり】乳白色混浴大露天・湯元自家源泉・信州ジビエ！北アルプス深山の秘湯厳選3宿',
   description: '北アルプスの秘境に湧く白濁温泉の最高峰・白骨！名物混浴大露天風呂と野趣あふれる湯浴みが評判の「泡の湯」、大正ロマンの気品と三本の自家源泉を誇る名門「湯元齋藤旅館」、白樺林に囲まれ静寂の貸切露天風呂が愛される「小梨の湯 笹屋」を徹底比較。',
   keywords: '白骨温泉 一人旅 宿,白骨 ホテル 一人 温泉,泡の湯 白骨,湯元齋藤旅館,小梨の湯 笹屋,白骨温泉 ひとり旅 おこもり',

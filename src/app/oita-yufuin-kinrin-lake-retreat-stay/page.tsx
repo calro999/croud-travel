@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/oita-yufuin-kinrin-lake-retreat-stay/" },
   title: "【大分・由布院＆金鱗湖】朝霧の湖・離れ客室露天宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "湯布院のシンボル「金鱗湖」の幻想的な冬の朝霧、豊後富士「由布岳」を仰ぐ大自然、お洒落なショップやアートカフェが連なる「湯の坪街道」、全室離れ・客室露天風呂付きの隠れ家高級旅館を徹底解説。憧れの由布院ステイを厳選。",
-  keywords: ["oita-yufuin-kinrin-lake-retreat-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["大分", "由布院", "金鱗湖", "朝霧の湖", "離れ客室露天宿", "温泉宿", "宿泊予約"],
 };
 
 function loadSeasonalHotels() {

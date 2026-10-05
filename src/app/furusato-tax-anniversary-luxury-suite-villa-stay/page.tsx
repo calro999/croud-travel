@@ -4,6 +4,7 @@ import Link from 'next/link';
 import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-anniversary-luxury-suite-villa-stay/" },
   title: '【一度は泊まりたい憧れの最高峰宿】記念日・プロポーズに選ぶ極上スイート＆ヴィラふるさと納税ガイド | クラウドトラベル',
   description: '一生の記憶に残る記念日・誕生日・プロポーズ旅。箱根・京都・沖縄の客室露天風呂スイートやプライベートプール付きヴィラを楽天ふるさと納税で賢く予約。1泊10万円超えの最高峰リゾート完全ガイド。',
   openGraph: {

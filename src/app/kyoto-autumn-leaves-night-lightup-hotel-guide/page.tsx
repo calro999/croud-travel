@@ -4,18 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/kyoto-autumn-leaves-night-lightup-hotel-guide/" },
   title: "【京都 紅葉ライトアップ2026おすすめ7選】夜間特別拝観・永観堂・東寺・清水寺＆混雑回避の夜回り宿 ｜ 日本全国・旅宿クラウド",
   description: "息をのむ美しさ！2026年秋の京都紅葉ライトアップ特集。永観堂「みかえり阿弥陀」の紅葉トンネル、東寺五重塔の池鏡リフレクション、高台寺のプロジェクションマッピング、東山・烏丸のホテル完全ガイド。",
-  keywords: [
-    "京都 紅葉 ライトアップ 2026",
-    "永観堂 ライトアップ",
-    "東寺 紅葉",
-    "清水寺 夜間特別拝観",
-    "高台寺 プロジェクションマッピング",
-    "京都 紅葉 混雑回避",
-    "京都 宿泊 烏丸 東山",
-    "楽天トラベル 京都紅葉"
-  ],
+  keywords: ["京都", "夜間特別拝観", "永観堂", "東寺", "清水寺", "混雑回避の夜回り宿", "温泉宿"],
 };
 
 interface Hotel {

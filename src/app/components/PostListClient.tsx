@@ -3,6 +3,7 @@
 import { useState, useEffect, Suspense } from "react";
 import Link from "next/link";
 import { useSearchParams } from "next/navigation";
+import { REGIONS_MAP } from "@/data/prefecturesData";
 
 interface Post {
   id: string;
@@ -142,7 +143,13 @@ function PostListInner({ initialPosts }: { initialPosts: Post[] }) {
               onChange={(e) => setSelectedPref(e.target.value)}
               className="w-full text-xs bg-emerald-50/30 border border-emerald-950/10 rounded-xl px-4 py-3 text-emerald-950 focus:outline-none focus:border-teal-700 transition cursor-pointer"
             >
-              {PREFECTURES.map((p) => <option key={p} value={p}>{p}</option>)}
+              <option value="すべて">すべて</option>
+              {(selectedArea !== "すべて" && REGIONS_MAP[selectedArea]
+                ? REGIONS_MAP[selectedArea]
+                : PREFECTURES.filter(p => p !== "すべて")
+              ).map((p) => (
+                <option key={p} value={p}>{p}</option>
+              ))}
             </select>
           </div>
 

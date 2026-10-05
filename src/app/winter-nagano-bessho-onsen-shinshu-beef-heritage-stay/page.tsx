@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "11月から12月にかけて、信州最古の温泉地として「信州の鎌倉」と称される長野県上田市の「別所温泉」は、山並みに初雪が冠し、石畳の小路に白い湯けむりが立ち込める風情豊かな初冬を迎えます。善光寺と向かい合う厄除けの名刹「北向観音堂」への初冬参拝や、日本唯一の国宝八角三重塔を抱く安楽寺の静寂。ほのかに硫黄が香る源泉掛け流しの名湯で芯から温まり、霜降りがとろける極上「信州プレミアム牛」や千曲川の清流が育む信州サーモン、旬のサンふじ林檎を堪能する名門旅館5選を詳しく解説します。",
   keywords: '別所温泉 宿泊, 信州 温泉 11月 12月, 七草の湯, かしわや本店, 上松や, 玉屋旅館, 中松屋, 北向観音 参拝, 信州プレミアム牛, 源泉掛け流し 硫黄泉, 信州の鎌倉',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-nagano-bessho-onsen-shinshu-beef-heritage-stay'
+    canonical: "https://croud-travel.pages.dev/winter-nagano-bessho-onsen-shinshu-beef-heritage-stay/"
   },
   openGraph: {
     title: "【11・12月長野・信州 別所温泉の古湯情緒と北向観音初冬参拝】極上信州プレミアム牛＆名湯掛け流し硫黄泉で寛ぐ老舗旅館5選",

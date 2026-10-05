@@ -4,16 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '神秘のコバルトブルー・カルデラ湖畔ホテル×ふるさと納税完全ガイド【2026年最新】支笏湖・屈斜路湖・田沢湖の美景',
   description: '日本屈指の透明度を誇るカルデラ湖！北海道支笏湖の神秘の青「支笏湖ブルー」、道東屈斜路湖・摩周湖の霧と砂湯露天、秋田田沢湖の日本一深い瑠璃色湖水と乳頭温泉郷。湖畔の静寂と上質な温泉リゾートを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
-  keywords: [
-    '楽天ふるさと納税',
-    'ふるさと納税 宿泊クーポン',
-    '楽天トラベル ふるさと納税',
-    '高級温泉旅館',
-    '露天風呂付き客室',
-    '2026年旅行'
-  ],
+  keywords: ["神秘のコバルトブルー", "2026年最新", "支笏湖", "屈斜路湖", "田沢湖の美景", "温泉宿", "宿泊予約"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-caldera-blue-lake-resort-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-caldera-blue-lake-resort-stay/"
   },
   openGraph: {
     title: '神秘のコバルトブルー・カルデラ湖畔ホテル×ふるさと納税完全ガイド【2026年最新】支笏湖・屈斜路湖・田沢湖の美景',

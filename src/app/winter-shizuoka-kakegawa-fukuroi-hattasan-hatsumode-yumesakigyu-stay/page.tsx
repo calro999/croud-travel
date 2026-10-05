@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "遠州三山を代表する厄除けの名刹「法多山尊永寺（はったさん）」が約100万人を超える初詣客で賑わう11〜1月の冬旅特集。神聖な杉木立の参道と名物「厄除団子」、曹洞宗の名刹「可睡齋」の冬室内ぼたんと日本最大級32段1,200体の雛人形、日本初の本格木造復元天守「掛川城」の凛とした佇まい、全国和牛共進会で最高賞を受賞した幻の黒毛和牛「遠州夢咲牛」と掛川深蒸し茶。掛川・袋井の滞在拠点に最適な厳選ホテル・名宿5選を徹底解説します。",
   keywords: '法多山 初詣, 法多山 厄除団子, 可睡齋 ひなまつり, 掛川城 冬, 遠州夢咲牛, ドーミーイン掛川, くれたけイン袋井, 遠州三山 冬, 静岡 初詣 温泉',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-shizuoka-kakegawa-fukuroi-hattasan-hatsumode-yumesakigyu-stay'
+    canonical: "https://croud-travel.pages.dev/winter-shizuoka-kakegawa-fukuroi-hattasan-hatsumode-yumesakigyu-stay/"
   },
   openGraph: {
     title: "【11・12・1月静岡】厄除け大本山「法多山尊永寺」新春初詣と掛川城木造天守！「可睡齋」日本最大級ひなまつり＆遠州夢咲牛名宿5選",

@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   description: "11月から1月、佐賀県の有明海沿岸・太良町では、甲羅に濃厚な朱色の内子（卵巣）をぎっしりと蓄えた冬のメス「竹崎カニ」が最高潮の旬を迎えます。日本三大稲荷の一つとして名高い鹿島市の「祐徳稲荷神社」では、朱塗りの壮麗な本殿が冬晴れの青空に映え、年末年始の初詣に多くの参拝客で賑わいます。さらに車で足を伸ばせば、日本三大美肌の湯として名高い「嬉野温泉」の名物・とろとろの「温泉湯豆腐」で身も心も芯から温まります。冬の有明海グルメとパワースポット、極上名湯を巡る厳選名宿5選をお届けします。",
   keywords: '竹崎カニ 冬 旬, 太良町 カニ 宿泊, 祐徳稲荷神社 初詣, 嬉野温泉 宿泊, 和多屋別荘, 蟹御殿, 梅崎亭, 和楽園, ホテル華翠苑, 温泉湯豆腐 嬉野, 11月 12月 1月 佐賀旅行',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-saga-tara-takezaki-crab-yutoku-inari-ureshino-stay'
+    canonical: "https://croud-travel.pages.dev/winter-saga-tara-takezaki-crab-yutoku-inari-ureshino-stay/"
   },
   openGraph: {
     title: "【11・12・1月佐賀】冬の有明海名物「竹崎カニ」と日本三大稲荷・祐徳稲荷神社の初詣・日本三大美肌の湯「嬉野温泉」温泉湯豆腐を堪能する名宿5選",

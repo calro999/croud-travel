@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "日本一の星空と称される長野県阿智村や八ヶ岳の高原リゾート。客室専用の星空テラスや寝湯露天風呂から、誰にも邪魔されず夜空いっぱいに広がる天の川を鑑賞できるロマンチックな隠れ宿を厳選。",
   keywords: "阿智村 星空 温泉 宿, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/luxury-private-onsen-with-starry-sky-terrace',
+    canonical: "https://croud-travel.pages.dev/luxury-private-onsen-with-starry-sky-terrace/",
   },
   openGraph: {
     title: "【満天の星降る夜】客室専用星空テラス＆寝湯露天風呂！阿智村・八ヶ岳の夜空独占温泉宿5選",

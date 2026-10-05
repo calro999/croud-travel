@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/large-dog-multi-pet-friendly-resort-stay/" },
   title: "【大型犬・多頭飼い歓迎リゾート】ノーリード・広々客室＆超大型犬OK 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "ゴールデンやラブラドール、多頭飼いも大歓迎！大型犬・超大型犬・頭数制限なし宿完全特化！広々80平米以上の客室、頑丈なフェンス、頭数追加無料プラン、大型犬専用ドッグラン＆足洗い場完備リゾートを徹底解説。",
-  keywords: ["large-dog-multi-pet-friendly-resort-stay", "ペットと泊まれる宿", "愛犬同伴", "ドッグリゾート", "プライベートドッグラン", "楽天トラベル"],
+  keywords: ["大型犬", "多頭飼い歓迎リゾート", "ノーリード", "広々客室", "超大型犬OK", "温泉宿", "宿泊予約"],
 };
 
 function loadSeasonalHotels() {

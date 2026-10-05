@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/ishikawa-kaga-onsen-valley-stay/" },
   title: "【石川・加賀温泉郷】山中温泉・山代温泉＆鶴仙渓川床・加能ガニ極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "石川・加賀温泉郷（山中温泉・山代温泉・片山津温泉・粟津温泉）エリア完全特化！鶴仙渓のあやとりはしと川床、魯山人寓居跡いろは草庵、九谷焼・山中漆器体験、冬の加能ガニ・香箱ガニ会席と老舗名門旅館を徹底解説。",
-  keywords: ["ishikawa-kaga-onsen-valley-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["石川", "加賀温泉郷", "山中温泉", "山代温泉", "鶴仙渓川床", "加能ガニ極上宿", "温泉宿"],
 };
 
 function loadSeasonalHotels() {

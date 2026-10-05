@@ -5,18 +5,11 @@ import path from "path";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/christmas-date-onsen-dinner-trip-guide/" },
   title: "【クリスマスお泊まりデートおすすめ】イルミネーション×温泉×極上ディナーで過ごす冬の記念日旅 ｜ 日本全国・旅宿クラウド",
   description:
     "クリスマスに泊まりたい憧れのデートプラン！軽井沢の星空キャンドルナイト＆暖炉付きリゾート、みなとみらい夜景一望ホテル、雪見露天風呂とローストビーフ懐石を味わう温泉旅館徹底比較。",
-  keywords: [
-    "クリスマス お泊まりデート ホテル",
-    "クリスマス 温泉 デート",
-    "軽井沢 クリスマス ホテル",
-    "みなとみらい クリスマス 夜景 ホテル",
-    "クリスマス ディナー 宿泊 カップル",
-    "冬 記念日旅行 ホテル",
-    "楽天トラベル クリスマス デート"
-  ],
+  keywords: ["温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
 };
 
 interface Hotel {

@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '朝から贅沢の極み！いくら盛り放題＆ご当地海鮮ビュッフェが自慢の朝食日本一ホテル特集 ｜ 日本全国・旅宿クラウド',
   description: '函館・金沢・神戸など全国の朝食フェスやランキングで常に話題をさらう名門ホテルを特集。山盛りのいくら丼や焼き立てクロワッサンを味わう贅沢な朝。',
-  keywords: ["朝食美味しい","いくら食べ放題","ホテルビュッフェ","函館","朝ごはん","グルメ旅"],
+  keywords: ["温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/award-winning-breakfast-gourmet-hotel-ranking',
+    canonical: "https://croud-travel.pages.dev/award-winning-breakfast-gourmet-hotel-ranking/",
   },
   openGraph: {
     title: '朝から贅沢の極み！いくら盛り放題＆ご当地海鮮ビュッフェが自慢の朝食日本一ホテル特集',

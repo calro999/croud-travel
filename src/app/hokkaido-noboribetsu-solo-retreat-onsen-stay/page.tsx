@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/hokkaido-noboribetsu-solo-retreat-onsen-stay/" },
   title: '【登別温泉ひとり旅・地獄谷名湯おこもり】硫黄泉・食塩泉・白濁濁り湯！北海道一の巨大温泉郷で圧倒的湯巡りを満喫する厳選3宿',
   description: '名湯百選の王者・登別温泉！本格ドーム型ローマ風大浴場と庭園露天風呂を誇る名門「登別グランドホテル」、白濁の名湯と囲炉裏会席が心温まる隠れ宿「滝乃家別館 玉乃湯」、日本最大級の多彩な浴槽と4つの泉質を楽しめる「ホテル まほろば」を徹底比較。',
   keywords: '登別温泉 一人旅 宿,登別 ホテル 一人 温泉,登別グランドホテル,滝乃家別館 玉乃湯,ホテルまほろば,登別 地獄谷 ひとり旅',

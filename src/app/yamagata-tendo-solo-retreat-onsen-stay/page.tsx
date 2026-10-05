@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/yamagata-tendo-solo-retreat-onsen-stay/" },
   title: '【天童温泉ひとり旅・将棋駒と名湯おこもり】山寺立石寺パノラマ・源泉かけ流し・山形牛＆さくらんぼ！山形新幹線直通の果樹王国厳選3宿',
   description: '日本一の将棋駒の街・天童温泉！源泉かけ流しの巨石露天風呂とプライベート空間が評判の最高峰「湯の香 松の湯」、滝が流れる大浴場と料理長特選の山形牛会席が自慢の「天童ホテル」、展望大浴場と屋上露天風呂を備える「栄屋ホテル」を楽天API最新データに基づき徹底比較。',
   keywords: '天童温泉 一人旅 宿,天童 ホテル 一人 温泉,松の湯 天童,天童ホテル,栄屋ホテル,天童 将棋 山寺 ひとり旅',

@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/mie-kumano-owase-onigajo-stay/" },
   title: "【三重・熊野＆尾鷲・鬼ヶ城】世界遺産鬼ヶ城・獅子岩＆熊野古道伊勢路・尾鷲ガスエビ宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "荒波が削った奇岩巨岩と世界遺産の祈りの道・三重熊野＆尾鷲エリア完全特化！世界遺産「鬼ヶ城・獅子岩」、熊野古道「松本峠・馬越峠」、七里御浜海岸、尾鷲港水揚げの幻の「ガスエビ」、名物「めはり寿司・熊野牛宿」を徹底解説。",
-  keywords: ["mie-kumano-owase-onigajo-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["三重", "熊野", "尾鷲", "鬼ヶ城", "世界遺産鬼ヶ城", "獅子岩", "熊野古道伊勢路"],
 };
 
 function loadSeasonalHotels() {

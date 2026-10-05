@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/himeji-solo-business-castle-onsen-stay/" },
   title: '【姫路出張＆世界遺産ひとり旅】姫路城ビュー・姫路駅直結・天然温泉サウナ！名物穴子めしと播磨の地酒を味わう名宿 厳選3選',
   description: '山陽新幹線全列車停車・兵庫県西部の産業拠点「姫路」！「JR姫路駅直結でサウナ付き温浴施設完備」の「ホテルモントレ姫路」、最上階に天然温泉大浴場と夜鳴きそば完備の「天然温泉 白鷺の湯 ドーミーイン姫路」、姫路城を望む格式あるシティホテル「ホテル日航姫路」を徹底特集。',
   keywords: '姫路 出張 ホテル おすすめ,姫路 一人旅 ホテル,ホテルモントレ姫路 宿泊,ドーミーイン姫路 温泉,姫路城 ひとり旅 ホテル',

@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/shizuoka-izu-shuzenji-bamboo-stay/" },
   title: "【静岡・伊豆修善寺】竹林の小径・独鈷の湯＆伊豆牛・本わさび極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "伊豆の小京都・修善寺温泉エリア完全特化！桂川沿いの「竹林の小径」、弘法大師開湯の「独鈷の湯」、修禅寺、朱塗りの恋の橋めぐり、天城越え本わさび丼と文化財名門旅館を徹底解説。",
-  keywords: ["shizuoka-izu-shuzenji-bamboo-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["静岡", "伊豆修善寺", "竹林の小径", "独鈷の湯", "伊豆牛", "本わさび極上宿", "温泉宿"],
 };
 
 function loadSeasonalHotels() {

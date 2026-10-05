@@ -4,17 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/tokyo-departure-daytrip-bus-tour-guide/" },
   title: "【東京・新宿発 日帰りバスツアーおすすめ2026】季節のフルーツ狩り・絶景温泉・食べ放題の最強プラン徹底比較",
   description: "東京・新宿発の日帰りバスツアーを徹底解説！シャインマスカット狩り、桔梗信玄餅詰め放題、海鮮浜焼き食べ放題、箱根・伊豆の露天風呂入浴付きまで、人気定番＆穴場ツアーの料金・時間・集合場所まとめ。",
-  keywords: [
-    "東京発 日帰りバスツアー",
-    "新宿発 バスツアー",
-    "シャインマスカット狩り バスツアー",
-    "桔梗信玄餅詰め放題",
-    "日帰り温泉 バスツアー",
-    "房総 浜焼き食べ放題",
-    "楽天トラベル バスツアー"
-  ],
+  keywords: ["東京", "新宿発", "季節のフルーツ狩り", "絶景温泉", "食べ放題の最強プラン徹底比較", "温泉宿", "宿泊予約"],
 };
 
 function loadHotels() {

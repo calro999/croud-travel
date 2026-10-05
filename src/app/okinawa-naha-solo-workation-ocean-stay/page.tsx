@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/okinawa-naha-solo-workation-ocean-stay/" },
   title: '【沖縄・那覇ひとり旅＆ワーケーション】オーシャンビュー・絶景露天温泉・国際通り至近！仕事と癒やしを両立するリゾート宿 厳選3選',
   description: '羽田・成田・関空から直行便で約2時間半！沖縄の青い海と島風を感じながら、心豊かに働く＆休む「大人のソロワーケーション」。飛行機が頭上をかすめる絶景天然温泉「琉球温泉 瀬長島ホテル」、国際通りのど真ん中で美濃焼タイルとライブラリーが彩る「JR九州ホテル ブラッサム那覇」、泊港の海を望みアートとハーバービューが融合する「ホテル アンテルーム 那覇」を徹底特集。',
   keywords: '那覇 一人旅 ホテル おすすめ,沖縄 ワーケーション ホテル,瀬長島ホテル 温泉 一人,ブラッサム那覇 宿泊,アンテルーム那覇 ワーケーション',

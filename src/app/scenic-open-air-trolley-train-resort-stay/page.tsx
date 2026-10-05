@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/scenic-open-air-trolley-train-resort-stay/" },
   title: "【絶景観光トロッコ列車＆オープン客車】黒部峡谷・嵯峨野・南阿蘇＆名湯 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "窓のない爽快オープンデッキで風を感じる！全国の人気観光トロッコ列車＆渓谷温泉宿完全特化！富山「黒部峡谷トロッコ電車」、京都嵐山「嵯峨野トロッコ列車」、熊本「南阿蘇鉄道ゆうすげ号」、宇奈月温泉・嵐山温泉宿を徹底解説。",
-  keywords: ["scenic-open-air-trolley-train-resort-stay", "鉄道旅行", "乗り物旅", "絶景体験", "温泉宿", "楽天トラベル"],
+  keywords: ["絶景観光トロッコ列車", "オープン客車", "黒部峡谷", "嵯峨野", "南阿蘇", "名湯", "温泉宿"],
 };
 
 function loadSeasonalHotels() {

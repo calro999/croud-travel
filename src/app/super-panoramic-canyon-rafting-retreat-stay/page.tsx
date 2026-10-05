@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】激流の爽快アクティビティ！ラフティング体験＆渓谷美一望の露天風呂リゾート5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！吉野川・保津川・みなかみ等の清流で白熱ラフティング！大自然の激流を楽しんだ後に渓谷露天風呂とサウナで極上ととのうアドベンチャー宿5選。',
-  keywords: ["ラフティング","渓谷露天風呂","リバーアクティビティ","アウトドア温泉","清流リゾート","楽天トラベル"],
+  keywords: ["2026年", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
     title: '【2026年】激流の爽快アクティビティ！ラフティング体験＆渓谷美一望の露天風呂リゾート5選',
     description: '2026年最新！吉野川・保津川・みなかみ等の清流で白熱ラフティング！大自然の激流を楽しんだ後に渓谷露天風呂とサウナで極上ととのうアドベンチャー宿5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/super-panoramic-canyon-rafting-retreat-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/super-panoramic-canyon-rafting-retreat-stay',
+    canonical: "https://croud-travel.pages.dev/super-panoramic-canyon-rafting-retreat-stay/",
   },
 };
 

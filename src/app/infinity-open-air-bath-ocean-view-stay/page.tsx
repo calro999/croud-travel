@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/infinity-open-air-bath-ocean-view-stay/" },
   title: "【絶景インフィニティ露天風呂の宿】海・空・湖と一体化する圧倒的パノラマ 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "視界を遮るものがない「絶景インフィニティ露天風呂」宿完全特化！湯船が海や湖の水面と溶け合うインフィニティ温泉、朝焼けのサンライズ・夕暮れのマジックアワー・満天の星空、絶景テラスと美食宿を徹底解説。",
-  keywords: ["infinity-open-air-bath-ocean-view-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["絶景インフィニティ露天風呂の宿", "湖と一体化する圧倒的パノラマ", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
 };
 
 function loadSeasonalHotels() {

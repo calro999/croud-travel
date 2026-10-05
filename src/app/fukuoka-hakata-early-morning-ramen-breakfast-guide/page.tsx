@@ -5,18 +5,11 @@ import path from "path";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/fukuoka-hakata-early-morning-ramen-breakfast-guide/" },
   title: "【博多・天神 早朝から食べられる長浜ラーメン＆朝食ビュッフェ】朝6時台オープンの市場めし完全版",
   description:
     "福岡の朝は早い！長浜鮮魚市場で食べる早朝市場海鮮丼、24時間営業元祖長浜ラーメンの「カタ・替玉」、明太子食べ放題の博多駅前ホテル朝食ビュッフェ、中洲天然温泉ホテル宿泊情報。",
-  keywords: [
-    "博多 早朝 ラーメン",
-    "長浜ラーメン 24時間 朝食",
-    "長浜鮮魚市場 朝ごはん",
-    "博多 明太子 食べ放題 朝食",
-    "博多駅 モーニング",
-    "博多 朝風呂 天然温泉",
-    "天神 早朝 ごはん"
-  ],
+  keywords: ["博多", "天神", "早朝から食べられる長浜ラーメン", "朝食ビュッフェ", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
 
 interface Hotel {

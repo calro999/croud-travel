@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "11月から12月にかけて長野県・松本平は、雪化粧した北アルプスの山並みが澄み渡る初冬の青空にそびえ立ち、黒漆と白漆喰の国宝松本城が幻想的な冬景色を見せます。飛鳥時代（天武天皇の時代）開湯と伝わり、江戸時代には松本藩主の御殿湯として愛された浅間温泉は、湯量豊富な無色透明の弱アルカリ性単純温泉。11月に旬を迎える香り高い「信州新そば」、長野県が誇る最高峰ブランド「信州プレミアム牛肉」のとろけるすき焼きや陶板焼き、信州サーモン、安曇野わさび、城下町の地酒を堪能する大人の湯宿5選を徹底解説。",
   keywords: '浅間温泉 宿泊, 松本 温泉 11月 12月, 国宝松本城 雪景色, 菊之湯 浅間温泉, ホテル玉之湯, 別亭一花, 梅の湯, 帰郷亭ゆもとや, 信州新そば 宿, 信州プレミアム牛 すき焼き, 松本城 イルミネーション',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-nagano-asama-onsen-matsumoto-castle-snow-stay'
+    canonical: "https://croud-travel.pages.dev/winter-nagano-asama-onsen-matsumoto-castle-snow-stay/"
   },
   openGraph: {
     title: "【11・12月信州松本浅間温泉の国宝松本城初雪と城下町名湯】開湯1300年アルカリ単純泉・挽きたて信州新そば＆信州プレミアム牛すき焼きの宿5選",

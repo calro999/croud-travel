@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/nagasaki-unzen-solo-retreat-onsen-stay/" },
   title: '【雲仙温泉ひとり旅・雲仙地獄白濁おこもり】日本最初の国立公園・硫黄香る乳白色露天・島原半島美食！島原の歴史薫る高原リトリート厳選3宿',
   description: '日本最初の国立公園に指定された高原温泉郷・雲仙！民芸調の温もりと自家源泉かけ流し露天風呂が評判の「民芸モダンの宿 雲仙福田屋」、アットホームなもてなしと良質な硫黄泉が愛される「民宿 関荘」、湯守の温かみと温泉三昧が叶う「民宿 雲仙」を楽天API最新データに基づき徹底比較。',
   keywords: '雲仙温泉 一人旅 宿,雲仙 ホテル 一人 温泉,雲仙福田屋,民宿 関荘,民宿 雲仙,雲仙地獄 ひとり旅 おこもり',

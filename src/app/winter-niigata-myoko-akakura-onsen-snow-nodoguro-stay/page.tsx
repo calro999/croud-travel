@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "11月から12月にかけて新潟県・妙高山麓は、標高2,454mの日本百名山・妙高山が初雪の白銀に輝き、豪雪地帯ならではの純白の冬景色が広がります。文化13年（1816年）開湯、妙高山北地獄谷から湧き出る源泉は、「肌を滑らかにする炭酸水素塩泉」と「肌を保湿しコーティングする硫酸塩泉」を併せ持つ日本有数のダブル美肌温泉。創業1937年のクラシックリゾートからの雪海パノラマ、日本海・直江津港や能生漁港から直送される高級魚「冬のどぐろ」の塩焼きや刺身、とろける霜降りの「にいがた和牛」、妙高・魚沼産コシヒカリの新米と地酒を味わう至高の妙高名宿5選を徹底解説。",
   keywords: '赤倉温泉 宿泊, 妙高高原 11月 12月, 赤倉観光ホテル, ホテル太閤, 赤倉ホテル, お宿ふるや, 香風館, 妙高山 雪景色, 赤倉温泉 美肌の湯, 新潟 のどぐろ 宿, にいがた和牛 赤倉温泉',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-niigata-myoko-akakura-onsen-snow-nodoguro-stay'
+    canonical: "https://croud-travel.pages.dev/winter-niigata-myoko-akakura-onsen-snow-nodoguro-stay/"
   },
   openGraph: {
     title: "【11・12月新潟・妙高赤倉温泉の初雪妙高山と開湯200年名湯】硫酸塩・炭酸水素塩のダブル美肌露天・冬のどぐろ塩焼き＆新潟和牛会席の宿5選",

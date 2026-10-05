@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '福島・日本三古湯 いわき湯本温泉と湯の岳パノラマ紅葉！毎分5.5トンの美肌名湯＆常磐もの海鮮会席 | クラウドトラベルふるさと納税',
   description: '10月・11月の福島・いわき湯本温泉特集！道後・有馬と並ぶ日本三古湯の一つ「いわき湯本温泉」の毎分5.5トンを誇る極上の硫黄泉、湯ノ岳パノラマラインの錦秋ドライブ、築地・豊洲でも最高評価を受ける「常磐もの（ヒラメ・メヒカリ・あんこう）」をふるさと納税トラベルで味わうみちのく名湯旅。',
-  keywords: ["いわき湯本温泉・湯の岳パノラマライン・アクアマリンふくしま 観光","福島県 10月 11月 旅行","いわき湯本温泉硫黄泉＆常磐もの海鮮美食旅","ふるさと納税 温泉宿泊券","いわき湯本温泉　ホテルパームスプリング","いわき湯本温泉　旅館　こいと","スーパーホテル福島・いわき　天然温泉「福幸の湯」","楽天ふるさと納税 宿泊クーポン"],
+  keywords: ["福島", "日本三古湯", "常磐もの海鮮会席", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-fukushima-iwaki-yunodake-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-fukushima-iwaki-yunodake-autumn-stay/",
   },
   openGraph: {
     title: '福島・日本三古湯 いわき湯本温泉と湯の岳パノラマ紅葉！毎分5.5トンの美肌名湯＆常磐もの海鮮会席',

@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   description: "冬の水都・大阪は、大阪城西の丸庭園を光の歴史絵巻に変える「大阪城イルミナージュ」や堂島川・中之島を彩る「大阪・光の饗宴」の幻想美に包まれる季節。天神橋筋商店街の活気と学問の神様「大阪天満宮」の新春開運初詣、熱々のてっちり（ふぐ鍋）や串カツ、出汁香るきつねうどんなどなにわの冬の味覚を心ゆくまで堪能。楽天APIから最新取得した大阪城・中之島・天満エリアの格調高きホテル5選を徹底特集します。",
   keywords: '大阪城 ホテル, 大阪天満宮 初詣 ホテル, 大阪城イルミナージュ, 中之島 イルミネーション, ホテルニューオータニ大阪, 帝国ホテル大阪, リーガロイヤルホテル大阪, 11月 12月 1月 大阪 観光',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-osaka-castle-nakanoshima-illumination-tenmangu-stay'
+    canonical: "https://croud-travel.pages.dev/winter-osaka-castle-nakanoshima-illumination-tenmangu-stay/"
   },
   openGraph: {
     title: "【11・12・1月大阪】冬の大阪城イルミナージュ＆大阪天満宮新春初詣！水都中之島イルミネーションとなにわ冬グルメ名宿5選",

@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/power-spot-shrine-temple-fortune-solo-stay/" },
   title: "【寺社・パワースポット巡り＆開運祈願宿】縁結び・厄除け・浄化ひとり旅 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "心を整え運気を高める開運ひとり旅！パワースポット＆寺社巡り拠点宿完全特化！出雲大社、伊勢神宮、日光東照宮、箱根神社九頭龍神社、早朝参拝・ご祈祷対応、精進料理＆温泉浄化宿を徹底解説。",
-  keywords: ["power-spot-shrine-temple-fortune-solo-stay", "女性一人旅", "ソロ活", "ご褒美ステイ", "温泉宿", "楽天トラベル"],
+  keywords: ["寺社", "パワースポット巡り", "開運祈願宿", "縁結び", "厄除け", "浄化ひとり旅", "温泉宿"],
 };
 
 function loadSeasonalHotels() {

@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/matsuyama-dogo-solo-retreat-onsen-taimeshi-stay/" },
   title: '【松山・道後温泉ひとり旅】日本最古の名湯・坊っちゃん湯・松山城・絶品鯛めし！文学と名湯に浸る大人のおこもり宿 厳選3選',
   description: '日本三古湯の一つ・3000年の歴史を誇る愛媛県松山市「道後温泉」！「夏目漱石や皇室を迎えてきた創業390年の名旅館」の「ふなや」、能舞台を備え数寄屋造りの風格が漂う「大和屋本店」、大街道の真ん中で松山城を望む最上階スカイスパ「CANDEO HOTELS 松山大街道」を徹底特集。',
   keywords: '道後温泉 一人旅 宿,松山 ホテル 一人旅 おすすめ,道後温泉 ふなや 宿泊,大和屋本店 一人,松山 鯛めし 温泉 ホテル',

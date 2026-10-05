@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   description: "冬の澄み渡る群青の太平洋と白銀の奇岩美を巡る11〜1月の岩手・三陸海岸（宮古・田老・久慈）特集。国の名勝「浄土ヶ浜」の冬景色や、冬に最も甘みとカニ味噌が詰まる「三陸宮古の毛ガニ」、11〜12月限定の伝統「寒アワビ」、宮古発祥の名物「瓶ドン」。三陸復興国立公園のダイナミックな海岸美と水平線を望む絶景オーシャンビュー名宿5選を完全ガイドします。",
   keywords: '浄土ヶ浜 冬, 三陸 毛ガニ 宿, 宮古 瓶ドン, 寒アワビ 岩手, 三陸復興国立公園 観光, 休暇村 陸中宮古, 浄土ヶ浜パークホテル, 三陸鉄道 こたつ列車, 宮古市 ホテル',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-iwate-sanriku-miyako-jodogahama-kegani-stay'
+    canonical: "https://croud-travel.pages.dev/winter-iwate-sanriku-miyako-jodogahama-kegani-stay/"
   },
   openGraph: {
     title: "【11・12・1月岩手】白銀の浄土ヶ浜と冬の三陸海鮮紀行！旬を迎える「三陸毛ガニ・寒アワビ・名物瓶ドン」と太平洋絶景オーシャンビュー名宿5選",

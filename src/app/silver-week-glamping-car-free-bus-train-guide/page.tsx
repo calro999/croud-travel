@@ -5,18 +5,11 @@ import path from "path";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-car-free-bus-train-guide/" },
   title: "【車なし・電車と送迎で行けるグランピング】シルバーウィークに免許なし＆ペーパードライバーでも行ける宿 ｜ 日本全国・旅宿クラウド",
   description:
     "レンタカーや運転免許がなくても秋のグランピングへ！主要駅から徒歩圏内、無料シャトル送迎バス付き、高速バス停留所からすぐの好立地グランピング施設厳選。都心から乗り換え少なめの快適アクセス完全解説。",
-  keywords: [
-    "車なし グランピング",
-    "電車で行ける グランピング",
-    "送迎あり グランピング",
-    "ペーパードライバー 旅行 グランピング",
-    "免許なし グランピング おすすめ",
-    "駅近 グランピングリゾート",
-    "シルバーウィーク 電車旅"
-  ],
+  keywords: ["車なし", "電車と送迎で行けるグランピング", "シルバーウィークに免許なし", "ペーパードライバーでも行ける宿", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
 
 interface Hotel {

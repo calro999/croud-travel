@@ -4,18 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/osaka-amazing-pass-1day-golden-route/" },
   title: "【大阪周遊パス1日券 完全元取りガイド】電車乗り放題＋40ヶ所以上の観光施設が無料！1万円分得するモデルコース ｜ 日本全国・旅宿クラウド",
   description: "電車・バス乗り放題に加えて梅田スカイビル空中庭園・大阪城天守閣・道頓堀クルーズなどが無料になる「大阪周遊パス」！通常料金との徹底比較シミュレーション、朝から晩まで遊び尽くすコスパ最強スケジュール。",
-  keywords: [
-    "大阪周遊パス 元取り",
-    "大阪周遊パス 1日券 モデルコース",
-    "大阪周遊パス 無料施設 おすすめ",
-    "梅田スカイビル 空中庭園 無料",
-    "とんぼりリバークルーズ",
-    "大阪城天守閣",
-    "大阪 コスパ 観光",
-    "Osaka Amazing Pass"
-  ],
+  keywords: ["大阪周遊パス1日券", "完全元取りガイド", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
 };
 
 interface Hotel {

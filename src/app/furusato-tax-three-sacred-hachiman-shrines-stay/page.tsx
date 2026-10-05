@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-sacred-hachiman-shrines-stay/" },
   title: '日本三大八幡宮＆厄除開運・勝運祈願の聖地巡礼宿×ふるさと納税完全ガイド【2026年最新】宇佐神宮・石清水八幡宮・筥崎宮',
   description: '全国4万社の総本宮と国家鎮護の神域！大分宇佐「宇佐神宮」国宝本殿と宇佐ホテルリバーサイド、京都八幡「石清水八幡宮」エジソンゆかりの男山と京都竹の郷温泉ホテル京都エミナース、福岡博多「筥崎宮」勝運と敵国降伏の扁額と都ホテル博多。日本三大八幡宮の開運・厄除け祈願と名湯・グルメを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大八幡宮・開運聖地特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',

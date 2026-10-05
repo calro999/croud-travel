@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: '冬の仙台市内・光のページェント完全ガイド｜仙台牛・ずんだ・閖上牡蠣と都市型天然温泉宿',
   description: '12月に輝く定禅寺通の光のページェントから瑞鳳殿の初詣、仙台牛しゃぶしゃぶ・ずんだ餅・閖上牡蠣まで。宮城・仙台市内の冬旅を楽天トラベル人気宿とともに徹底解説。天然温泉付き宿も必見。',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-miyagi-sendai-city-hikarino-pageant-zundamochi-sendaigyu-kaki-stay',
+    canonical: "https://croud-travel.pages.dev/winter-miyagi-sendai-city-hikarino-pageant-zundamochi-sendaigyu-kaki-stay/",
   },
   openGraph: {
     title: '冬の仙台市内・光のページェント完全ガイド｜仙台牛・ずんだ・閖上牡蠣と都市型天然温泉宿',

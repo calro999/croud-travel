@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/tokyo-iwate-morioka-bus-vs-shinkansen-guide/" },
   title: "【東京〜盛岡・花巻】新幹線はやぶさ vs 夜行バス徹底比較！片道3,500円〜行く三大麺爆食＆花巻温泉郷1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
   description: "東京から盛岡・花巻へ安く行くには？東北新幹線「はやぶさ」と夜行高速バスの料金・所要時間比較！盛岡三大麺（わんこそば・冷麺・じゃじゃ麺）制覇と宮沢賢治ゆかりの花巻温泉郷を満喫する1泊2日モデルコース。",
-  keywords: ["tokyo-iwate-morioka-bus-vs-shinkansen-guide", "高速バス", "バスツアー", "新幹線 比較", "安く行く方法", "1泊2日 モデルコース", "宿泊予約", "楽天トラベル"],
+  keywords: ["東京〜盛岡", "花巻", "新幹線はやぶさ", "vs", "花巻温泉郷1泊2日モデルコース", "温泉宿", "宿泊予約"],
 };
 
 function loadHotels() {

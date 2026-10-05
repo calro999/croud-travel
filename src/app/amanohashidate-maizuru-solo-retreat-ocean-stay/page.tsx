@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/amanohashidate-maizuru-solo-retreat-ocean-stay/" },
   title: '【天橋立・舞鶴ひとり旅】日本三景パノラマ・茶褐色天橋立温泉・若狭湾の海の幸！海の京都でととのう厳選3宿',
   description: '京都駅から特急はしだてで直通約2時間！天橋立駅前で松並木を望む展望露天風呂が自慢の「天橋立ホテル」、運河沿いに佇み吉村順三設計の数寄屋建築が美しい「文珠荘」、舞鶴港・東舞鶴駅近くで出張や軍港巡りに便利な「ホテルアマービレ舞鶴」を楽天APIデータに基づき徹底比較。',
   keywords: '天橋立 一人旅 温泉,舞鶴 出張 ホテル,天橋立ホテル 宿泊,文珠荘 一人,ホテルアマービレ舞鶴,日本三景 海の京都 カニ',

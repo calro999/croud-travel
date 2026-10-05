@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-sake-vessels-pottery-stay/" },
   title: '日本三大酒器＆銘酒を引き立てる名陶の里・窯元巡りと美食名宿×ふるさと納税完全ガイド【2026年最新】備前・萩・唐津',
   description: '酒器ひとつで日本酒の味わいが劇的に変わる！岡山「備前焼」釉薬を使わず土と炎の窯変が酒をまろやかにする赤穂温泉銀波荘、山口「萩焼」茶陶の伝統を受け継ぎ使い込むほどに育つ萩温泉郷萩小町、佐賀「唐津焼」料理と美酒を引き立てる土の温もり・純和風の老舗洋々閣。窯元散策やぐい呑み選び、地酒ペアリング会席ディナーを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大酒器・伝統陶芸特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',

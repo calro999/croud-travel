@@ -4,6 +4,7 @@ import Link from 'next/link';
 import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-infinity-onsen-sky-ocean-view-stay/" },
   title: '【絶景インフィニティ温泉×ふるさと納税】水平線と空に溶け込む天空露天風呂＆インフィニティプール宿完全ガイド | クラウドトラベル',
   description: '湯船と海・湖の境界線が消える奇跡の絶景。静岡・稲取、北海道・洞爺湖、沖縄・恩納村のインフィニティ温泉＆天空プールリゾートを厳選。SNSでも話題の圧倒的パノラマステイを楽天ふるさと納税で賢く予約。',
   openGraph: {

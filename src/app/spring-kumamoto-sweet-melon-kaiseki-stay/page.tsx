@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】糖度際立つ春メロン！肥後グリーン会席＆阿蘇カルデラ大パノラマ温泉宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！果汁あふれる熊本特産「肥後グリーンメロン」デザート＆赤牛溶岩焼き会席！阿蘇五岳や雲海を一望する絶景露天風呂付き名宿5選。',
-  keywords: ["肥後グリーン","熊本メロン","阿蘇温泉","あか牛溶岩焼き","カルデラ絶景","雲海ビュー","楽天トラベル"],
+  keywords: ["2026年", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
     title: '【2026年】糖度際立つ春メロン！肥後グリーン会席＆阿蘇カルデラ大パノラマ温泉宿5選',
     description: '2026年最新！果汁あふれる熊本特産「肥後グリーンメロン」デザート＆赤牛溶岩焼き会席！阿蘇五岳や雲海を一望する絶景露天風呂付き名宿5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/spring-kumamoto-sweet-melon-kaiseki-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/spring-kumamoto-sweet-melon-kaiseki-stay',
+    canonical: "https://croud-travel.pages.dev/spring-kumamoto-sweet-melon-kaiseki-stay/",
   },
 };
 

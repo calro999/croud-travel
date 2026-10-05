@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '兵庫・山陰 湯村温泉「荒湯」の湯けむり紅葉！開湯1200年の高温泉＆本場但馬牛会席 | クラウドトラベルふるさと納税',
   description: '10月・11月の兵庫・山陰 湯村温泉特集！源泉温度98度の高温泉が湧き出る名所「荒湯」の立ち上る湯煙と春来川沿いの紅葉ライトアップ、慈覚大師開湯の重曹泉、黒毛和牛の最高峰「但馬牛」のすき焼き・ステーキをふるさと納税トラベルクーポンでお得に堪能する大人の湯治旅。',
-  keywords: ["湯村温泉・荒湯・但馬牛 紅葉 観光","兵庫県 10月 11月 旅行","湯村温泉荒湯湯煙＆但馬牛極上会席","ふるさと納税 温泉宿泊券","山陰湯村温泉　湧泉の宿　ゆあむ","湯村温泉　佳泉郷　井づつや","湯村温泉　朝野家","楽天ふるさと納税 宿泊クーポン"],
+  keywords: ["兵庫", "山陰", "本場但馬牛会席", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-hyogo-yumura-onsen-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-hyogo-yumura-onsen-autumn-stay/",
   },
   openGraph: {
     title: '兵庫・山陰 湯村温泉「荒湯」の湯けむり紅葉！開湯1200年の高温泉＆本場但馬牛会席',

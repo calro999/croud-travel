@@ -5,19 +5,11 @@ import path from "path";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-stargazing-astronomy-guide/" },
   title: "【星空が綺麗すぎるグランピング2026】天の川が見える標高1,000mの高原！天体望遠鏡＆焚き火シネマ ｜ 日本全国・旅宿クラウド",
   description:
     "9月の澄んだ秋空に広がる満天の星！日本一の星空・長野阿智村周辺や八ヶ岳・那須高原の天体観測グランピング特集。客室専用の天体望遠鏡、星空の下の焚き火カフェ、プラネタリウムのようなドームテント。",
-  keywords: [
-    "星空 グランピング",
-    "天体観測 グランピング",
-    "シルバーウィーク 星空 旅行",
-    "阿智村 星空 グランピング",
-    "天の川 グランピング",
-    "天体望遠鏡付き 宿泊",
-    "ドームテント プラネタリウム",
-    "秋 高原 グランピング 焚き火",
-  ],
+  keywords: ["焚き火シネマ", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
 };
 
 interface Hotel {

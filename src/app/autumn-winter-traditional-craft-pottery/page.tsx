@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/autumn-winter-traditional-craft-pottery/" },
   title: "【用の美】伝統工芸・陶芸の里めぐり＆美肌温泉旅館 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "土の温もりと職人の粋！栃木・益子焼、石川・加賀九谷焼＆山中漆器、佐賀・有田焼波佐見焼、福井・越前焼＆あわら温泉など、窯元めぐり・絵付け体験と美しい器で味わう極上会席宿を徹底解説。",
-  keywords: ["autumn-winter-traditional-craft-pottery", "宿泊予約", "温泉宿", "ホテル特集", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["用の美", "伝統工芸", "陶芸の里めぐり", "美肌温泉旅館", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
 
 function loadSeasonalHotels() {

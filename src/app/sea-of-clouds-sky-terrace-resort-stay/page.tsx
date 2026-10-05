@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '雲の上に広がる天空の別世界！早朝の雲海テラス＆天空パノラマ露天風呂ホテル ｜ 日本全国・旅宿クラウド',
   description: 'トマム・志賀高原・美ヶ原・秩父など早朝に発生する幻想的な雲海を一望できる天空リゾート。雲上の特等席テラスや標高の高い露天風呂からの大絶景。',
-  keywords: ["雲海","雲海テラス","天空のホテル","トマム","絶景ホテル","早朝パノラマ"],
+  keywords: ["天空パノラマ露天風呂ホテル", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/sea-of-clouds-sky-terrace-resort-stay',
+    canonical: "https://croud-travel.pages.dev/sea-of-clouds-sky-terrace-resort-stay/",
   },
   openGraph: {
     title: '雲の上に広がる天空の別世界！早朝の雲海テラス＆天空パノラマ露天風呂ホテル',

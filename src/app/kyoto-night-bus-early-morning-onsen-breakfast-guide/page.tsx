@@ -5,18 +5,11 @@ import path from "path";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/kyoto-night-bus-early-morning-onsen-breakfast-guide/" },
   title: "【京都 夜行バス早朝到着の過ごし方】朝6時から入れる銭湯・天然温泉＆京都名物「朝粥」完全ガイド",
   description:
     "京都駅に朝6時台に到着した後の救済マニュアル！京都タワー大浴場や駅前天然温泉での朝風呂、早朝から並ばずに食べられる老舗の朝粥・湯豆腐・喫茶モーニング、人混みゼロの早朝清水寺参拝ルート。",
-  keywords: [
-    "京都 夜行バス 早朝",
-    "京都 朝風呂 銭湯 6時",
-    "京都 朝粥 おすすめ",
-    "京都駅 早朝 朝食",
-    "早朝 清水寺 ルート",
-    "京都タワー 朝風呂",
-    "京都 荷物預かり 早朝"
-  ],
+  keywords: ["京都", "夜行バス早朝到着の過ごし方", "朝6時から入れる銭湯", "天然温泉", "京都名物「朝粥」", "温泉宿", "宿泊予約"],
 };
 
 interface Hotel {

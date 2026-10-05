@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '【2026年】採れたて無農薬野菜とローカルガストロノミー！自家農園が自慢のオーガニック美食宿5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！敷地内の自家農園で朝採れた新鮮野菜やハーブを贅沢に使ったファーム・トゥ・テーブル料理と上質な温泉を堪能できる美食宿5選。',
-  keywords: ["自家農園","オーガニック","ファームトゥテーブル","ガストロノミー","美食温泉","楽天トラベル"],
+  keywords: ["2026年", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/organic-farm-stay-vegetable-gastronomy-resort',
+    canonical: "https://croud-travel.pages.dev/organic-farm-stay-vegetable-gastronomy-resort/",
   },
   openGraph: {
     title: '【2026年】採れたて無農薬野菜とローカルガストロノミー！自家農園が自慢のオーガニック美食宿5選',

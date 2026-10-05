@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/autumn-winter-fireplace-cafe-resort/" },
   title: "【暖炉と珈琲】パチパチ薪が燃える！大人の隠れ家クラシックホテル 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "静かな冬の読書と美食。長野・軽井沢、栃木・日光金谷ホテル、神奈川・箱根宮ノ下富士屋ホテル、長野・松本民芸の宿など、本物の暖炉ラウンジと歴史的建築美を誇るクラシックリゾートを徹底解説。",
-  keywords: ["autumn-winter-fireplace-cafe-resort", "宿泊予約", "温泉宿", "ホテル特集", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["暖炉と珈琲", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
 };
 
 function loadSeasonalHotels() {

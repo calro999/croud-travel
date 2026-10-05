@@ -4,20 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '11月6日解禁の本場・城崎温泉松葉ガニ＆七つの外湯めぐり！老舗旅館×ふるさと納税完全ガイド【2026年最新秋旅】兵庫',
   description: '11月6日に待ちに待ったカニ漁が解禁！関西屈指の温泉街「城崎温泉（きのさきおんせん）」。柳並木と太鼓橋が続く情緒あふれる街並みでの浴衣外湯めぐり、名門老舗宿「西村屋ホテル招月庭」「西村屋本館」「ときわ別館」で津居山港・柴山港水揚げの極上松葉ガニと但馬牛を堪能。楽天ふるさと納税で実質2,000円で泊まる冬先取りガイド。',
-  keywords: [
-    'ふるさと納税 温泉',
-    'ふるさと納税 宿泊券',
-    'ふるさと納税 トラベルクーポン',
-    '兵庫・城崎温泉＆11月解禁松葉ガニ特集',
-    '10月 旅行 おすすめ',
-    '11月 旅行 おすすめ',
-    '秋 旅行 温泉',
-    '紅葉 温泉旅館',
-    '楽天トラベル ふるさと納税',
-    '実質2000円 温泉'
-  ],
+  keywords: ["11月6日解禁の本場", "城崎温泉松葉ガニ", "2026年最新秋旅", "兵庫", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-kinosaki-matsuba-crab-autumn-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-kinosaki-matsuba-crab-autumn-stay/"
   },
   openGraph: {
     title: '11月6日解禁の本場・城崎温泉松葉ガニ＆七つの外湯めぐり！老舗旅館×ふるさと納税完全ガイド【2026年最新秋旅】兵庫',

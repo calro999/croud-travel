@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/ito-onsen-solo-retreat-ocean-seafood-stay/" },
   title: '【伊東温泉ひとり旅・海望おこもり】相模灘オーシャンビュー・金目鯛会席・7本の自家源泉！東京から特急で叶う極上湯治リトリート 厳選3選',
   description: '東京駅から特急踊り子で直通約1時間40分！高台から相模湾の青い海を望む展望露天風呂が魅力の「伊東ホテルジュラク」、数寄屋造りの静謐な空間で本格部屋食を堪能できる名門「青山やまと」、豊富な自家源泉とバイキングが人気の「ホテルラヴィエ川良」を徹底比較。',
   keywords: '伊東温泉 一人旅 旅館,伊東ホテルジュラク 宿泊,伊東温泉 青山やまと 一人,ホテルラヴィエ川良,静岡 温泉 おこもり',

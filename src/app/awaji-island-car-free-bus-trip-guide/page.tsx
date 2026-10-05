@@ -4,19 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/awaji-island-car-free-bus-trip-guide/" },
   title: "【淡路島 車なし観光ガイド】高速バス＆無料シャトルで回る！ニジゲンノモリ・西海岸カフェ・洲本温泉 ｜ 日本全国・旅宿クラウド",
   description: "車がないと行けないと思われがちな淡路島を高速バスと島内周遊シャトルで完全攻略！三ノ宮・新神戸から直行バス、明石海峡大橋を渡って楽しむ最新西海岸リゾートスポット＆洲本温泉名旅館。",
-  keywords: [
-    "淡路島 車なし 観光",
-    "淡路島 高速バス",
-    "淡路島 シャトルバス 西海岸",
-    "ニジゲンノモリ バス 行き方",
-    "洲本温泉 高速バス",
-    "淡路島 1泊2日 車なし モデルコース",
-    "三ノ宮 淡路島 バス",
-    "北淡路周遊バス",
-    "楽天トラベル 淡路島"
-  ],
+  keywords: ["淡路島", "車なし観光ガイド", "高速バス", "西海岸カフェ", "洲本温泉", "温泉宿", "宿泊予約"],
 };
 
 interface Hotel {

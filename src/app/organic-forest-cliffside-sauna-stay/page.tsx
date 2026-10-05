@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】天空の絶景ととのい体験！断崖絶壁パノラマサウナ＆インフィニティ水風呂の宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！標高数百メートルから海や山を見下ろすパノラマサウナ！絶壁にせり出すインフィニティ水風呂と天空の外気浴デッキで究極の解放感を味わう宿5選。',
-  keywords: ["絶景サウナ","パノラマサウナ","インフィニティ水風呂","天空外気浴","大人の隠れ家","ととのい体験","楽天トラベル"],
+  keywords: ["2026年", "インフィニティ水風呂の宿5選", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
     title: '【2026年】天空の絶景ととのい体験！断崖絶壁パノラマサウナ＆インフィニティ水風呂の宿5選',
     description: '2026年最新！標高数百メートルから海や山を見下ろすパノラマサウナ！絶壁にせり出すインフィニティ水風呂と天空の外気浴デッキで究極の解放感を味わう宿5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/organic-forest-cliffside-sauna-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/organic-forest-cliffside-sauna-stay',
+    canonical: "https://croud-travel.pages.dev/organic-forest-cliffside-sauna-stay/",
   },
 };
 

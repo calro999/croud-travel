@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '岡山・倉敷美観地区＆津山城！白壁の秋情景と美作三湯・千屋牛＆瀬戸内鰆 | クラウドトラベルふるさと納税',
   description: '10月・11月の岡山・倉敷美観地区＆津山城跡を特集。柳並木と白壁屋敷が紅葉に映える美観地区、日本三名城の石垣紅葉、日本最古の蔓牛「千屋牛」や瀬戸内の戻り鰆を堪能する厳選ホテルとふるさと納税宿泊クーポン情報。',
-  keywords: ["倉敷美観地区 ホテル","岡山 ふるさと納税 宿泊","津山城 紅葉","千屋牛 旅館","倉敷 秋 旅行"],
+  keywords: ["岡山", "倉敷美観地区", "津山城！白壁の秋情景と美作三湯", "千屋牛", "瀬戸内鰆", "クラウドトラベルふるさと納税", "温泉宿"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-okayama-kurashiki-tsuyama-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-okayama-kurashiki-tsuyama-autumn-stay/",
   },
   openGraph: {
     title: '【岡山・倉敷＆津山】白壁の町並み紅葉＆晴れの国の秋旅！名門ホテルと幻の千屋牛・瀬戸内海鮮',

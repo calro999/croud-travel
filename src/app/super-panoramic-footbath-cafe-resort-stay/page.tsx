@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '【2026年】絶景足湯カフェ＆テラスBAR！ぽかぽか足湯とドリンクを楽しむ展望リゾート5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！海や山、満天の星を眺めながら足湯に浸かり、クラフトビールやハーブティーを楽しめる絶景足湯カフェ＆バー併設の人気ホテル5選。',
-  keywords: ["足湯カフェ","足湯バー","展望テラス","絶景ホテル","温泉リゾート","楽天トラベル"],
+  keywords: ["2026年", "絶景足湯カフェ", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/super-panoramic-footbath-cafe-resort-stay',
+    canonical: "https://croud-travel.pages.dev/super-panoramic-footbath-cafe-resort-stay/",
   },
   openGraph: {
     title: '【2026年】絶景足湯カフェ＆テラスBAR！ぽかぽか足湯とドリンクを楽しむ展望リゾート5選',

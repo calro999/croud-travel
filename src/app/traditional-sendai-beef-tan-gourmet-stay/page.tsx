@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "炭火で香ばしく焼き上げる名物極上牛タンと、とろけるA5ランク仙台牛を味わい尽くす！開湯1500年の秋保温泉や絶景の松島で、東北屈指の極上肉料理と美肌名湯を堪能できる至高の温泉宿を厳選紹介。",
   keywords: "秋保温泉 牛タン, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/traditional-sendai-beef-tan-gourmet-stay',
+    canonical: "https://croud-travel.pages.dev/traditional-sendai-beef-tan-gourmet-stay/",
   },
   openGraph: {
     title: "【2026最新】極上厚切り牛タン炭火焼き＆A5仙台牛会席！宮城・秋保＆松島の名湯美食宿5選",

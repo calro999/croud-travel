@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/shizuoka-atami-bayside-stay/" },
   title: "【静岡・熱海温泉】海上花火＆サンビーチ・相模湾オーシャンビュー宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "都心から新幹線45分！熱海温泉エリア完全特化！年間10回以上開催の熱海海上花火大会、熱海サンビーチ、来宮神社（大楠）、アカオハーブ＆ローズガーデンと相模湾地魚・金目鯛が自慢の温泉ホテルを徹底解説。",
-  keywords: ["shizuoka-atami-bayside-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["静岡", "熱海温泉", "海上花火", "サンビーチ", "相模湾オーシャンビュー宿", "温泉宿", "宿泊予約"],
 };
 
 function loadSeasonalHotels() {

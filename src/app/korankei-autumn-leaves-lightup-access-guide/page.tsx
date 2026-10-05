@@ -4,18 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/korankei-autumn-leaves-lightup-access-guide/" },
   title: "【香嵐渓 紅葉もみじまつり2026】4000本の絶景ライトアップ・大渋滞回避アクセス＆名古屋発日帰りバス ｜ 日本全国・旅宿クラウド",
   description: "東海随一の紅葉名所「香嵐渓」もみじまつり完全ガイド！巴川に映える4,000本のもみじライトアップ、名物五平餅＆鮎の塩焼き、渋滞を回避する早朝ルート＆名古屋駅発直行日帰りバスツアー比較。",
-  keywords: [
-    "香嵐渓 もみじまつり 2026",
-    "香嵐渓 ライトアップ",
-    "香嵐渓 渋滞 回避",
-    "香嵐渓 名古屋 バスツアー",
-    "待月橋 紅葉",
-    "香嵐渓 グルメ 五平餅",
-    "豊田市 ホテル 宿泊",
-    "楽天トラベル 香嵐渓"
-  ],
+  keywords: ["香嵐渓", "紅葉もみじまつり2026", "4000本の絶景ライトアップ", "大渋滞回避アクセス", "名古屋発日帰りバス", "温泉宿", "宿泊予約"],
 };
 
 interface Hotel {

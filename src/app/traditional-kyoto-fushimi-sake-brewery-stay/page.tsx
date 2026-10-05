@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】名水と酒蔵の歴史薫る街。京都伏見の酒蔵巡り＆名水仕込み京料理の風情宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！坂本龍馬ゆかりの伏見十石舟と白壁酒蔵巡り！名水「伏水」仕込みの利き酒セットと旬の京料理を堪能する京都・伏見のおすすめ名宿5選。',
-  keywords: ["京都伏見","酒蔵巡り","十石舟","伏見の日本酒","京料理","京都町家ホテル","楽天トラベル"],
+  keywords: ["2026年", "名水仕込み京料理の風情宿5選", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
     title: '【2026年】名水と酒蔵の歴史薫る街。京都伏見の酒蔵巡り＆名水仕込み京料理の風情宿5選',
     description: '2026年最新！坂本龍馬ゆかりの伏見十石舟と白壁酒蔵巡り！名水「伏水」仕込みの利き酒セットと旬の京料理を堪能する京都・伏見のおすすめ名宿5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/traditional-kyoto-fushimi-sake-brewery-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/traditional-kyoto-fushimi-sake-brewery-stay',
+    canonical: "https://croud-travel.pages.dev/traditional-kyoto-fushimi-sake-brewery-stay/",
   },
 };
 

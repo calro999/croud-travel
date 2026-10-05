@@ -5,18 +5,11 @@ import path from "path";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-hokkaido-sapporo-furano-guide/" },
   title: "【北海道シルバーウィーク グランピング】札幌・富良野・トマム！秋晴れの爽快リゾートヴィラ ｜ 日本全国・旅宿クラウド",
   description:
     "湿気ゼロの圧倒的爽やかさ！初秋を迎える北海道の大自然グランピング。富良野の広大な丘陵パノラマ、トマムの雲海テラス連動ステイ、道産ブランド牛と秋サケのちゃんちゃん焼きBBQ完全ガイド。",
-  keywords: [
-    "北海道 グランピング シルバーウィーク",
-    "富良野 グランピング 秋",
-    "トマム 雲海 グランピング",
-    "札幌近郊 グランピング リゾート",
-    "十勝 中札内 コテージ グランピング",
-    "北海道 秋キャンプ 手ぶらBBQ",
-    "北海道 シルバーウィーク 宿泊"
-  ],
+  keywords: ["北海道シルバーウィーク", "グランピング", "札幌", "富良野", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
 
 interface Hotel {

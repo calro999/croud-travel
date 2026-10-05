@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "11月下旬の紅葉から12月の澄み切った冬景色へと表情を変える京都・嵐山と嵯峨野。渡月橋の幻想的な朝霧や竹林の小径の静寂を歩き、冷えた身体を嵐山温泉の湯けむりで癒やす。職人仕込みの嵯峨湯豆腐と京懐石に舌鼓を打つ珠玉の冬旅ガイド。",
   keywords: '嵐山 温泉 旅館, 京都 嵐山 宿泊, 嵯峨野 湯豆腐 宿, 渡月橋 温泉 ホテル, 京都 11月 12月 旅行, 冬の京都 温泉, 嵐山 冬景色',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-kyoto-arashiyama-onsen-yudofu-stay',
+    canonical: "https://croud-travel.pages.dev/winter-kyoto-arashiyama-onsen-yudofu-stay/",
   },
   openGraph: {
     title: "【11・12月冬の嵐山と静寂の名刹】嵯峨野の竹林雪景色と嵐山温泉・熱々湯豆腐宿5選",

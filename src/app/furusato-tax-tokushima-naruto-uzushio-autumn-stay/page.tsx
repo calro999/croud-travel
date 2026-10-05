@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '徳島・鳴門海峡の秋の大潮うずしお＆大毛島リゾート！鳴門鯛・阿波牛と絶景オーシャンビュー温泉 | クラウドトラベルふるさと納税',
   description: '10月・11月の徳島・鳴門特集！一年でもっとも渦が大きくなる秋の大潮「鳴門の渦潮」観潮船クルーズ、大塚国際美術館の西洋名画鑑賞、鳴門海峡を一望する南欧風リゾートホテルと鳴門温泉、激流で引き締まった絶品「鳴門鯛」や阿波牛をふるさと納税トラベルで味わう四国の秋旅。',
-  keywords: ["鳴門の渦潮・大塚国際美術館・鳴門温泉 観光","徳島県 10月 11月 旅行","鳴門海峡秋の大潮うずしお＆鳴門鯛阿波牛リゾート","ふるさと納税 温泉宿泊券","アオアヲナルトリゾート","リゾートホテル　モアナコースト","鳴門グランドホテル海月","楽天ふるさと納税 宿泊クーポン"],
+  keywords: ["徳島", "鳴門海峡の秋の大潮うずしお", "大毛島リゾート！鳴門鯛", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-tokushima-naruto-uzushio-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-tokushima-naruto-uzushio-autumn-stay/",
   },
   openGraph: {
     title: '徳島・鳴門海峡の秋の大潮うずしお＆大毛島リゾート！鳴門鯛・阿波牛と絶景オーシャンビュー温泉',

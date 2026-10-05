@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "秋田杉の美しい木目と香りが際立つ伝統工芸「大館曲げわっぱ」の器と、炭火で焼いた名物「比内地鶏きりたんぽ鍋」！全国の温泉ファンが憧れる秘湯・乳頭温泉郷の乳白色の露天風呂に癒やされる旅。",
   keywords: "秋田 温泉 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/traditional-akita-magewappa-kiritanpo-stay',
+    canonical: "https://croud-travel.pages.dev/traditional-akita-magewappa-kiritanpo-stay/",
   },
   openGraph: {
     title: "【大館曲げわっぱと比内地鶏きりたんぽ】秋田の伝統工芸と乳頭温泉郷の秘湯宿5選",

@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/ishikawa-noto-wakura-onsen-stay/" },
   title: "【石川・能登和倉温泉】七尾湾オーシャンビュー＆能登牛・寒ブリ極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "石川・能登半島和倉温泉エリア完全特化！七尾湾を一望する展望露天風呂、開湯1200年の海の温泉、能登牛・寒ブリ・のどぐろ会席と名門老舗旅館を徹底解説。",
-  keywords: ["ishikawa-noto-wakura-onsen-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["石川", "能登和倉温泉", "七尾湾オーシャンビュー", "能登牛", "寒ブリ極上宿", "温泉宿", "宿泊予約"],
 };
 
 function loadSeasonalHotels() {

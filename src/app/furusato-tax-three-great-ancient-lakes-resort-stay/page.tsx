@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-ancient-lakes-resort-stay/" },
   title: '日本三大古代湖＆数十万年の歴史美・湖畔リゾートと温泉名宿×ふるさと納税完全ガイド【2026年最新】琵琶湖・諏訪湖・三方五湖',
   description: '地球の記憶を宿す悠久の古代湖！400万年の歴史を誇る日本最大の古代湖「琵琶湖」琵琶湖ホテル、フォッサマグナに誕生し御神渡りの神話息づく「諏訪湖」上諏訪温泉しんゆ、7万年の年縞が世界標準となった奇跡の湖群「三方五湖（水月湖）」若狭きらら温泉水月花。日本三大古代湖の静かな湖面と温泉ステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大古代湖・水辺リトリート特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',

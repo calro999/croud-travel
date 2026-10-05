@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "11月〜12月にかけて街全体が光の芸術に包まれる神戸の冬！六甲山から見下ろす1000万ドルの夜景や神戸旧居留地のイルミネーションを満喫し、車で約30分の日本三古湯・有馬温泉の赤湯「金泉」と極上神戸牛ディナーに酔いしれる贅沢旅。",
   keywords: "有馬温泉 金泉 露天風呂 旅館, 11月旅行, 12月旅行, 冬休み, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/winter-kobe-luminarie-illumination-stay',
+    canonical: "https://croud-travel.pages.dev/winter-kobe-luminarie-illumination-stay/",
   },
   openGraph: {
     title: "【11・12月！神戸イルミネーション＆1000万ドル夜景】有馬温泉金泉と神戸牛極上宿5選",

@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "折りたたんで持ち運べる超軽量ボート「パックラフト」で楽しむ新感覚リバーアクティビティ！エメラルドグリーンの清流を自分のパドルで下った後は、渓谷美を一望する露天風呂とサウナで極上のととのいを。",
   keywords: "水上温泉 露天風呂 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/super-panoramic-canyon-packrafting-stay',
+    canonical: "https://croud-travel.pages.dev/super-panoramic-canyon-packrafting-stay/",
   },
   openGraph: {
     title: "【超軽量パックラフト冒険】清流の静水と急流を漕ぎ抜ける！奥多摩・みなかみ渓谷温泉宿5選",

@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/okayama-station-solo-business-onsen-sauna-stay/" },
   title: '【岡山駅前出張・天然温泉サウナ】新幹線直結・天然温泉吉備の湯・後楽園＆白壁美観地区！中国・四国の十字路を制する厳選3宿',
   description: '山陽新幹線「のぞみ」全列車停車・四国への特急マリンライナー始発！最上階天然温泉大浴場と高温サウナが自慢の「ドーミーイン岡山」、駅東口徒歩圏で男女別天然温泉を備える「スーパーホテル岡山駅東口」、新幹線口すぐの好立地に誕生した「アパホテル＆リゾート〈岡山駅新幹線口〉」を徹底比較。',
   keywords: '岡山 出張 ホテル,岡山駅 天然温泉 ホテル,ドーミーイン岡山,スーパーホテル岡山駅東口,岡山 サウナ ひとり旅,岡山 後楽園 観光',

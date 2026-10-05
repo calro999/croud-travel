@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '長野・諏訪湖の秋風情＆霧ヶ峰高原！上諏訪温泉の自家源泉と信州諏訪美酒・信州牛会席 | クラウドトラベルふるさと納税',
   description: '10月・11月の長野・諏訪＆霧ヶ峰特集！黄金色に輝くススキが広がる霧ヶ峰高原の秋晴れパノラマ、夕陽に染まる諏訪湖を一望する上諏訪温泉の豊富な自家源泉、諏訪五蔵の銘酒と信州プレミアム牛をふるさと納税トラベルクーポンでお得に楽しむ信州秋旅。',
-  keywords: ["諏訪湖・上諏訪温泉・霧ヶ峰 紅葉 観光","長野県 10月 11月 旅行","上諏訪温泉諏訪湖紅葉＆信州プレミアム牛","ふるさと納税 温泉宿泊券","信州・上諏訪温泉　琥珀色の自家源泉を持つ宿【ホテル鷺乃湯】","上諏訪温泉　ホテル紅や","上諏訪温泉　ＲＡＫＯ華乃井ホテル","楽天ふるさと納税 宿泊クーポン"],
+  keywords: ["長野", "諏訪湖の秋風情", "信州牛会席", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-nagano-suwa-kirigamine-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-nagano-suwa-kirigamine-autumn-stay/",
   },
   openGraph: {
     title: '長野・諏訪湖の秋風情＆霧ヶ峰高原！上諏訪温泉の自家源泉と信州諏訪美酒・信州牛会席',

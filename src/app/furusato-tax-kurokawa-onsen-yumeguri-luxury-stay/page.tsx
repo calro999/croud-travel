@@ -4,20 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '阿蘇の秘湯・黒川温泉の入湯手形めぐり＆渓流絶景露天風呂×ふるさと納税完全攻略ガイド【2026年最新】山みず木・奥の湯・新明館',
   description: 'ミシュラン2つ星を獲得した阿蘇の渓谷温泉地・黒川温泉！名物「入湯手形」で三十軒の個性豊かな露天風呂めぐり。「山あいの宿 山みず木」「旅館 奥の湯」「山の宿 新明館」を、熊本県南小国町の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。渓流露天風呂、洞窟風呂、肥後あか牛会席を満喫。',
-  keywords: [
-    'ふるさと納税 旅行',
-    'ふるさと納税 温泉',
-    '黒川温泉 入湯手形＆秘湯名宿特集',
-    '楽天ふるさと納税 トラベル',
-    '黒川温泉　山あいの宿　山みず木',
-    '黒川温泉　旅館　奥の湯',
-    '黒川温泉　山の宿　新明館',
-    '高級温泉旅館',
-    '源泉かけ流し',
-    '実質2000円'
-  ],
+  keywords: ["阿蘇の秘湯", "黒川温泉の入湯手形めぐり", "2026年最新", "山みず木", "奥の湯", "新明館", "温泉宿"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-kurokawa-onsen-yumeguri-luxury-stay/',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-kurokawa-onsen-yumeguri-luxury-stay/",
   },
   openGraph: {
     title: '阿蘇の秘湯・黒川温泉の入湯手形めぐり＆渓流絶景露天風呂×ふるさと納税完全攻略ガイド【2026年最新】山みず木・奥の湯・新明館',

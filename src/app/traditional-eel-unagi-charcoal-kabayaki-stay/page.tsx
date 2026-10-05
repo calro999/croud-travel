@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '【2026年】ふっくら香ばしい秘伝の炭火蒲焼き！極上うなぎ尽くし会席＆名湯の温泉宿5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！浜名湖・三島・柳川など名産地の厳選うなぎを炭火で香ばしく焼き上げたうな重やひつまぶし、白焼きを堪能できる美食温泉宿5選。',
-  keywords: ["うなぎ料理","炭火蒲焼き","うな重","浜名湖温泉","名物グルメ","楽天トラベル"],
+  keywords: ["2026年", "名湯の温泉宿5選", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/traditional-eel-unagi-charcoal-kabayaki-stay',
+    canonical: "https://croud-travel.pages.dev/traditional-eel-unagi-charcoal-kabayaki-stay/",
   },
   openGraph: {
     title: '【2026年】ふっくら香ばしい秘伝の炭火蒲焼き！極上うなぎ尽くし会席＆名湯の温泉宿5選',

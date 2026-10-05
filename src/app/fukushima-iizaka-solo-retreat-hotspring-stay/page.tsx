@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/fukushima-iizaka-solo-retreat-hotspring-stay/" },
   title: '【奥州三名湯・飯坂温泉ひとり旅・摺上川渓谷あつ湯おこもり】松尾芭蕉ゆかりの古湯・摺上川のせせらぎ・円盤餃子＆福島地酒！福島交通飯坂線直通厳選3宿',
   description: '鳴子・秋保と並ぶ奥州三名湯の一つ・福島・飯坂温泉！自家源泉100%掛け流しの名湯と旬の味覚会席が口コミ★4.6の「松島屋 桃香」、摺上川の渓谷美と温かいもてなしが評判の「つたや旅館」、最上階展望露天風呂から温泉街を一望する「湯乃家」を楽天API最新データに基づき徹底比較。',
   keywords: '飯坂温泉 一人旅 宿,飯坂 ホテル 一人 温泉,松島屋 桃香,つたや旅館 飯坂,湯乃家 飯坂温泉,奥州三名湯 ひとり旅 おこもり',

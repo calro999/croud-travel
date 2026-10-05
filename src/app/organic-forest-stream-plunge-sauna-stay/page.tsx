@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "薪サウナでアツアツに蒸された後、そのまま透き通る天然の清流へダイブ！マイナスイオン溢れる渓谷の風を浴びながらの外気浴は究極のととのい体験。天然温泉とサウナ飯も充実した大自然リゾートを厳選。",
   keywords: "渓流 露天風呂 サウナ, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/organic-forest-stream-plunge-sauna-stay',
+    canonical: "https://croud-travel.pages.dev/organic-forest-stream-plunge-sauna-stay/",
   },
   openGraph: {
     title: "【清流ダイブ＆天然ととのい】目の前の川へ直接飛び込む清流サウナ！渓流グランピング＆温泉宿5選",

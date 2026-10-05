@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "パチパチと薪がはぜる音、白樺のアロマロウリュ、そして地下から湧き出るシングル〜15℃の極上天然水風呂！森の外気浴でディープリラックスできる、サウナー絶賛の全国リトリート温泉宿を厳選紹介。",
   keywords: "サウナ 水風呂 温泉, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/organic-forest-sauna-cold-spring-stay',
+    canonical: "https://croud-travel.pages.dev/organic-forest-sauna-cold-spring-stay/",
   },
   openGraph: {
     title: "【極上のととのい】森の薪サウナ＆天然冷鉱泉水風呂！大自然の中で深呼吸する森のリトリート宿5選",

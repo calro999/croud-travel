@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "身が引き締まり旨味が凝縮した極上広島牡蠣の焼き・鍋・フライと、ふっくら香ばしい名物あなごめし！世界遺産・厳島神社を望む宮島や瀬戸内海のオーシャンビュー名湯で味わう至福の美食宿を厳選。",
   keywords: "宮島 温泉 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/traditional-hiroshima-oyster-anago-gourmet-stay',
+    canonical: "https://croud-travel.pages.dev/traditional-hiroshima-oyster-anago-gourmet-stay/",
   },
   openGraph: {
     title: "【2026最新】ぷりぷり広島牡蠣＆極上あなごめし！宮島・瀬戸内海を一望する絶景美食温泉宿5選",

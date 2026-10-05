@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '【2026年】爽快ラフティング＆キャニオニング！大自然アクティビティと癒やしの天然温泉宿5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！水上・長瀞・吉野川など、大興奮の急流ラフティングやキャニオニング体験と、疲れた体を包み込む天然温泉がセットになった人気宿5選。',
-  keywords: ["ラフティング","キャニオニング","アウトドア","水上温泉","グループ旅行","楽天トラベル"],
+  keywords: ["2026年", "爽快ラフティング", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/super-panoramic-canyon-bridge-bungy-stay',
+    canonical: "https://croud-travel.pages.dev/super-panoramic-canyon-bridge-bungy-stay/",
   },
   openGraph: {
     title: '【2026年】爽快ラフティング＆キャニオニング！大自然アクティビティと癒やしの天然温泉宿5選',

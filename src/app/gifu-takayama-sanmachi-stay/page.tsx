@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/gifu-takayama-sanmachi-stay/" },
   title: "【岐阜・飛騨高山】古い町並・宮川朝市＆飛騨牛尽くし極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "飛騨高山エリア完全特化！ミシュラン三つ星「さんまち通り（古い町並）」、宮川朝市、高山陣屋、飛騨牛にぎり寿司食べ歩きと飛騨高山温泉の老舗宿を徹底解説。",
-  keywords: ["gifu-takayama-sanmachi-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["岐阜", "飛騨高山", "古い町並", "宮川朝市", "飛騨牛尽くし極上宿", "温泉宿", "宿泊予約"],
 };
 
 function loadSeasonalHotels() {

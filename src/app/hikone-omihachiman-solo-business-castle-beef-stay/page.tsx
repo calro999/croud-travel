@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/hikone-omihachiman-solo-business-castle-beef-stay/" },
   title: '【彦根・近江八幡出張】国宝彦根城ビュー・名湯城見風呂・極上近江牛グルメ！湖東ビジネスを格上げする厳選3宿',
   description: '京都駅からJR新快速で約40〜50分！国宝彦根城の中堀に面し城見露天風呂と近江牛ダイニングが揃う「彦根キャッスル リゾート＆スパ」、近江八幡駅直結で快適デスクワークと広々客室を誇る「ホテルニューオウミ」、JR彦根駅東口目の前の好立地な「コンフォートホテル彦根」を徹底比較。',
   keywords: '彦根 出張 ホテル,近江八幡 ホテル 一人旅,彦根キャッスルリゾート,ホテルニューオウミ,コンフォートホテル彦根,近江牛 彦根城 水郷めぐり',

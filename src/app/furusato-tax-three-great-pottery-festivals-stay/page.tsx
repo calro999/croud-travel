@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-pottery-festivals-stay/" },
   title: '日本三大陶器まつり＆名窯の里・器と美食を愛でる工芸温泉宿×ふるさと納税完全ガイド【2026年最新】有田・波佐見・信楽',
   description: '日本を代表する焼き物の聖地を巡る！佐賀「有田陶器市」400年の磁器文化と嬉野温泉大正屋椎葉山荘、長崎「波佐見陶器まつり」モダンで使いやすい日常の器とホテルブリスヴィラ波佐見、滋賀「信楽陶器まつり」日本六古窯の狸と登り窯・ホテルレイクヴィラ。日本三大陶器まつりの買い付け巡礼と名窯の器でいただく極上会席を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大陶器まつり・名窯の里特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',

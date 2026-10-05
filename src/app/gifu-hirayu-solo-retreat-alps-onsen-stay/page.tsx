@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/gifu-hirayu-solo-retreat-alps-onsen-stay/" },
   title: '【奥飛騨・平湯温泉ひとり旅・北アルプス秘湯おこもり】毎分1万リットル湧出・飛騨牛炭火焼き・新穂高ロープウェイ！乗鞍・上高地玄関口の厳選3宿',
   description: '北アルプスの麓に湧く奥飛騨最古の名湯・平湯温泉！岐阜料理師範の主人が手掛ける飛騨牛会席と無料貸切露天風呂が口コミ★4.7超の「お宿 栄太郎」、庭園露天風呂と自家源泉掛け流しが自慢の「湯の平館」、築150年の飛騨民家を移築した囲炉裏情緒の「おやど 甚九郎」を楽天API最新データに基づき徹底比較。',
   keywords: '平湯温泉 一人旅 宿,平湯温泉 ホテル 一人,お宿栄太郎 平湯,湯の平館 平湯温泉,おやど甚九郎,奥飛騨 ひとり旅 おこもり',

@@ -4,9 +4,10 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-sea-of-clouds-sky-terrace-hotel-stay/" },
   title: '雲海テラス＆天空パノラマリゾート×ふるさと納税完全ガイド【2026年最新】トマム・志賀高原・蔵王の雲上絶景ホテル',
   description: '早朝、目の前を埋め尽くす幻想的な白銀の雲海！北海道トマムの雲海テラス、標高2,307m志賀高原渋峠、山形蔵王連峰の天空ホテルを楽天ふるさと納税宿泊クーポンでお得に予約する非日常ステイ。',
-  keywords: ['ふるさと納税', '楽天トラベル', '宿泊クーポン', '雲海テラス・天空リゾート特集', '温泉旅館', 'ホテル予約', '2026年最新'],
+  keywords: ["雲海テラス", "2026年最新", "トマム", "志賀高原", "蔵王の雲上絶景ホテル", "温泉宿", "宿泊予約"],
   openGraph: {
     title: '雲海テラス＆天空パノラマリゾート×ふるさと納税完全ガイド【2026年最新】トマム・志賀高原・蔵王の雲上絶景ホテル',
     description: '早朝、目の前を埋め尽くす幻想的な白銀の雲海！北海道トマムの雲海テラス、標高2,307m志賀高原渋峠、山形蔵王連峰の天空ホテルを楽天ふるさと納税宿泊クーポンでお得に予約する非日常ステイ。',

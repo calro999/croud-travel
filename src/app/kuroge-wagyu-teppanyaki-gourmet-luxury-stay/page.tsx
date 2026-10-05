@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '目の前でジュワッと焼き上げる最高峰の霜降り！ブランド黒毛和牛・極上鉄板焼き会席の宿 ｜ 日本全国・旅宿クラウド',
   description: '松阪牛・近江牛・米沢牛・神戸牛など日本屈指の銘柄牛をシェフが目の前で焼き上げる鉄板焼きカウンター。上質な脂の甘みと赤身の旨味を堪能する極上宿。',
-  keywords: ["黒毛和牛","鉄板焼き","松阪牛","近江牛","米沢牛","記念日ディナー"],
+  keywords: ["極上鉄板焼き会席の宿", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/kuroge-wagyu-teppanyaki-gourmet-luxury-stay',
+    canonical: "https://croud-travel.pages.dev/kuroge-wagyu-teppanyaki-gourmet-luxury-stay/",
   },
   openGraph: {
     title: '目の前でジュワッと焼き上げる最高峰の霜降り！ブランド黒毛和牛・極上鉄板焼き会席の宿',

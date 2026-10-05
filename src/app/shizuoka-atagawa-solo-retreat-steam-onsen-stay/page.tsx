@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/shizuoka-atagawa-solo-retreat-steam-onsen-stay/" },
   title: '【東伊豆・熱川温泉ひとり旅・自噴湯けむりおこもり】自家源泉100度超・六つの貸切露天風呂・金目鯛姿煮！伊豆急直通の海辺厳選3宿',
   description: '温泉櫓から豪快に立ち上る白い湯けむりが象徴的な東伊豆・熱川温泉！6つの多彩な貸切露天風呂と充実のサービスが口コミ★4.5超の「湯花満開」、相模灘を一望する屋上展望露天風呂が圧巻の「熱川プリンスホテル」、源泉掛け流しの湯守の宿「みはるや」を楽天API最新データに基づき徹底比較。',
   keywords: '熱川温泉 一人旅 宿,熱川 ホテル 一人 温泉,湯花満開 熱川,熱川プリンスホテル,みはるや 熱川,熱川 ひとり旅 おこもり',

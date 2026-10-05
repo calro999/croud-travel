@@ -5,18 +5,11 @@ import path from "path";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-air-conditioning-luxury-bed-guide/" },
   title: "【水回り完全個別＆シモンズ製ベッド】ホテル同等以上の快適さ！潔癖派も安心の高規格グランピング ｜ 日本全国・旅宿クラウド",
   description:
     "キャンプ嫌い・虫嫌い・共用トイレが苦手な女性も大満足！客室専用のシャワールーム・温水洗浄便座・冷暖房完備、一流ホテル採用のシモンズ製高級ベッドで快眠できる高規格グランピング厳選。",
-  keywords: [
-    "グランピング 専用トイレ バス付き",
-    "グランピング シモンズベッド",
-    "高規格グランピング 潔癖",
-    "虫が苦手 グランピング 冷暖房",
-    "女性 初心者 グランピング",
-    "グランピング 室内水回り",
-    "シルバーウィーク グランピング 快適"
-  ],
+  keywords: ["水回り完全個別", "シモンズ製ベッド", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
 };
 
 interface Hotel {

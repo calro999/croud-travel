@@ -4,16 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '日本三名橋＆歴史遺産を望むリバーサイド名宿×ふるさと納税完全ガイド【2026年最新】岩国錦帯橋・長崎眼鏡橋・東京日本橋の風情旅',
   description: '日本の土木建築美の最高峰！山口岩国「錦帯橋」の五連木造アーチと錦川清流温泉宿、長崎「眼鏡橋」の中島川散策と南蛮情緒クラシックホテル、東京「日本橋」の五街道起点と江戸情緒ラグジュアリーステイ。名橋の景観と伝統の美食を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
-  keywords: [
-    '楽天ふるさと納税',
-    'ふるさと納税 宿泊クーポン',
-    '楽天トラベル ふるさと納税',
-    '高級温泉旅館',
-    '露天風呂付き客室',
-    '2026年旅行'
-  ],
+  keywords: ["日本三名橋", "2026年最新", "岩国錦帯橋", "長崎眼鏡橋", "東京日本橋の風情旅", "温泉宿", "宿泊予約"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-famous-bridges-heritage-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-three-famous-bridges-heritage-stay/"
   },
   openGraph: {
     title: '日本三名橋＆歴史遺産を望むリバーサイド名宿×ふるさと納税完全ガイド【2026年最新】岩国錦帯橋・長崎眼鏡橋・東京日本橋の風情旅',

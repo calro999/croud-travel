@@ -4,16 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '白亜の灯台＆断崖絶景オーシャンビュー宿×ふるさと納税完全ガイド【2026年最新】日御碕・犬吠埼・室戸岬の岬リゾート',
   description: '大海原と白亜の灯台を望むダイナミックな特等席！島根出雲の日御碕灯台と日本海サンセット露天、千葉銚子の本州一早い日の出を望む犬吠埼温泉、高知室戸岬の太平洋怒濤パノラマ＆海洋深層水スパ。地球の丸さを実感する絶景宿を楽天ふるさと納税でお得に予約するガイド。',
-  keywords: [
-    '楽天ふるさと納税',
-    'ふるさと納税 宿泊クーポン',
-    '楽天トラベル ふるさと納税',
-    '高級温泉旅館',
-    '露天風呂付き客室',
-    '2026年旅行'
-  ],
+  keywords: ["白亜の灯台", "2026年最新", "日御碕", "犬吠埼", "室戸岬の岬リゾート", "温泉宿", "宿泊予約"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-lighthouse-cliff-ocean-panorama-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-lighthouse-cliff-ocean-panorama-stay/"
   },
   openGraph: {
     title: '白亜の灯台＆断崖絶景オーシャンビュー宿×ふるさと納税完全ガイド【2026年最新】日御碕・犬吠埼・室戸岬の岬リゾート',

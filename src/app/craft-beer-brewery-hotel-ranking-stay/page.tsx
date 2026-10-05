@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '出来立ての生ビールと名湯に酔いしれる！全国のクラフトビール醸造所・ブルワリー直結ホテル ｜ 日本全国・旅宿クラウド',
   description: '軽井沢・修善寺・富士吉田などクラフトビール醸造所に隣接した話題のホテル。タンク直結のフレッシュなIPAやピルスナーと絶品ペアリングディナー。',
-  keywords: ["クラフトビール","ブルワリー","地ビール","温泉宿","軽井沢","ペアリングディナー"],
+  keywords: ["ブルワリー直結ホテル", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/craft-beer-brewery-hotel-ranking-stay',
+    canonical: "https://croud-travel.pages.dev/craft-beer-brewery-hotel-ranking-stay/",
   },
   openGraph: {
     title: '出来立ての生ビールと名湯に酔いしれる！全国のクラフトビール醸造所・ブルワリー直結ホテル',

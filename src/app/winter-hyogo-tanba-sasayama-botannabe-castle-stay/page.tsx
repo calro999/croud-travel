@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   description: "11月15日の狩猟解禁とともに冬本番を迎える兵庫県・丹波篠山。丹波の深い山々で木の実を食べて育った天然猪肉は、冬の寒さとともに上質な白脂を蓄え、最も美味とされる旬を迎えます。白味噌ベースの秘伝出汁に根菜を煮込み、牡丹の花に見立てて美しく盛り付けられた本場の「ぼたん鍋」は、身体の芯から温まる冬の日本最高峰の鍋料理です。徳川家康が築城した篠山城跡の雪景色、重要伝統的建造物群保存地区に指定された河原町妻入商家群の風情、丹波焼の器、幻の銘牛「丹波篠山牛」。歴史薫る古民家宿や料理旅館で過ごす至高の冬旅名宿5選を徹底解説します。",
   keywords: '丹波篠山 ぼたん鍋, ぼたん鍋 発祥 宿, 篠山城下町 ホテル, 丹波篠山 冬 旅行, 篠山城下町ホテル NIPPONIA, 丹波篠山 近又, 豆家, 丹波篠山牛, 11月 12月 1月 兵庫 観光',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-hyogo-tanba-sasayama-botannabe-castle-stay'
+    canonical: "https://croud-travel.pages.dev/winter-hyogo-tanba-sasayama-botannabe-castle-stay/"
   },
   openGraph: {
     title: "【11・12・1月兵庫】冬本番！丹波篠山の本場「ぼたん鍋」発祥の味＆雪化粧の篠山城下町・丹波篠山牛を堪能する名宿5選",

@@ -4,20 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '松江城堀川めぐり紅葉こたつ舟＆出雲神話の玉造温泉！松葉ガニ・しまね和牛宿×ふるさと納税完全ガイド【2026年最新秋旅】島根',
   description: '10月中旬〜11月下旬に国宝松江城の濠を彩る紅葉のトンネル「松江城 堀川めぐり」。11月からは情緒あふれる「こたつ舟」が運航し、日本最古の美肌温泉「玉造温泉 湯陣 千代の湯」「ホテル玉泉」「RYOKAN OQOQ」で化粧水のような極上神の湯と11月解禁の日本海松葉ガニ・しまね和牛会席を堪能。ふるさと納税で実質2,000円。',
-  keywords: [
-    "ふるさと納税 温泉",
-    "ふるさと納税 宿泊券",
-    "ふるさと納税 トラベルクーポン",
-    "島根・松江堀川めぐり＆玉造温泉紅葉特集",
-    "10月 旅行 おすすめ",
-    "11月 旅行 おすすめ",
-    "秋 旅行 温泉",
-    "松江城 堀川めぐり 玉造温泉 美肌の湯 松葉ガニ 旅館",
-    "楽天トラベル ふるさと納税",
-    "実質2000円 温泉"
-],
+  keywords: ["松江城堀川めぐり紅葉こたつ舟", "出雲神話の玉造温泉！松葉ガニ", "しまね和牛宿×ふるさと納税", "2026年最新秋旅", "島根", "温泉宿", "宿泊予約"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-matsue-tamatsukuri-autumn-leaves-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-matsue-tamatsukuri-autumn-leaves-stay/"
   },
   openGraph: {
     title: '松江城堀川めぐり紅葉こたつ舟＆出雲神話の玉造温泉！松葉ガニ・しまね和牛宿×ふるさと納税完全ガイド【2026年最新秋旅】島根',

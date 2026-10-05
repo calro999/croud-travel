@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/dark-sky-reserve-nature-island-starry-resort-stay/" },
   title: "【国際星空保護区＆離島ネイチャーステイ】石垣島・西表島・神津島 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "世界が認めた奇跡の暗闇と星空！国際ダークスカイ協会認定「星空保護区」＆離島リゾート宿完全特化！沖縄「西表石垣国立公園（全天88星座中84星座）」、東京「神津島」、岡山「美星町」、南十字星観察・ビーチ星空ナイトツアーを徹底解説。",
-  keywords: ["dark-sky-reserve-nature-island-starry-resort-stay", "星空旅行", "天体観測", "夜景ホテル", "温泉宿", "楽天トラベル"],
+  keywords: ["国際星空保護区", "離島ネイチャーステイ", "石垣島", "西表島", "神津島", "温泉宿", "宿泊予約"],
 };
 
 function loadSeasonalHotels() {

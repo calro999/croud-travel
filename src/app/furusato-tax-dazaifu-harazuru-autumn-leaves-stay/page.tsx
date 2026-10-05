@@ -4,20 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '太宰府天満宮・光明禅寺の石庭紅葉＆かまど神社！美肌の原鶴・二日市温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】福岡',
   description: '11月中旬〜12月上旬に見頃を迎える「太宰府天満宮」と紅葉の名所「宝満宮 竈門神社（かまどじんじゃ）」。「苔寺」光明禅寺の美しい庭園紅葉、万葉集ゆかりの二日市温泉「大丸別荘」やダブル美肌の湯「原鶴温泉 泰泉閣」「小野屋」で博多水炊き・黒毛和牛・筑後川の鮎を堪能。ふるさと納税で実質2,000円。',
-  keywords: [
-    'ふるさと納税 温泉',
-    'ふるさと納税 宿泊券',
-    'ふるさと納税 トラベルクーポン',
-    '福岡・太宰府天満宮＆原鶴・二日市温泉特集',
-    '10月 旅行 おすすめ',
-    '11月 旅行 おすすめ',
-    '秋 旅行 温泉',
-    '紅葉 温泉旅館',
-    '楽天トラベル ふるさと納税',
-    '実質2000円 温泉'
-  ],
+  keywords: ["太宰府天満宮", "光明禅寺の石庭紅葉", "かまど神社！美肌の原鶴", "二日市温泉宿×ふるさと納税", "2026年最新秋旅", "福岡", "温泉宿"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-dazaifu-harazuru-autumn-leaves-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-dazaifu-harazuru-autumn-leaves-stay/"
   },
   openGraph: {
     title: '太宰府天満宮・光明禅寺の石庭紅葉＆かまど神社！美肌の原鶴・二日市温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】福岡',

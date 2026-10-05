@@ -5,16 +5,10 @@ import path from "path";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/hokkaido-family-trip-zoo-nature-guide/" },
   title: "【子連れ北海道旅行 2泊3日モデルコース】旭山動物園＆美瑛富良野ドライブ！子供が喜ぶ体験型ホテルガイド ｜ 日本全国・旅宿クラウド",
   description: "家族で楽しむ北海道旅行！旭山動物園の行動展示、もぐもぐタイムの見学、美瑛の丘散策、大自然を満喫するキッズフレンドリーな宿特集。レンタカー移動時の休憩スポットや子供用アメニティ充実のホテルまとめ。",
-  keywords: [
-    "子連れ北海道旅行",
-    "旭山動物園 子連れ モデルコース",
-    "美瑛 富良野 ドライブ 子連れ",
-    "旭川 ファミリーホテル おすすめ",
-    "北海道旅行 2泊3日 子供",
-    "楽天トラベル 北海道"
-  ],
+  keywords: ["子連れ北海道旅行", "2泊3日モデルコース", "旭山動物園", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
 
 interface Hotel {

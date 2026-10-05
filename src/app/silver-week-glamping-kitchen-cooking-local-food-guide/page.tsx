@@ -5,19 +5,11 @@ import path from "path";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-kitchen-cooking-local-food-guide/" },
   title: "【本格キッチン付き！道の駅買い出し料理グランピング】地元高原野菜とご当地肉で楽しむ自炊派ヴィラ ｜ 日本全国・旅宿クラウド",
   description:
     "調理器具・IHキッチン・大型冷蔵庫完備！地元の道の駅や直売所で仕入れた新鮮な高原野菜やブランド肉を自分たちで自由にクッキング。手ぶらBBQにはない「料理の楽しさ」を味わうこだわりグランピング。",
-  keywords: [
-    "キッチン付き グランピング",
-    "道の駅 買い出し 料理 グランピング",
-    "自炊 コテージ ヴィラ",
-    "調理器具完備 グランピング",
-    "ご当地食材 クッキング 宿泊",
-    "大型冷蔵庫 IHキッチン 宿",
-    "手作りBBQ グランピング",
-    "シルバーウィーク 自炊ヴィラ"
-  ],
+  keywords: ["温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
 };
 
 interface Hotel {

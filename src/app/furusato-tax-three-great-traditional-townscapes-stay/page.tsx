@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-traditional-townscapes-stay/" },
   title: '日本三大伝統的町並み＆小江戸・白壁土蔵の重伝建と歴史情緒宿×ふるさと納税完全ガイド【2026年最新】倉敷・川越・竹原',
   description: '往時の繁栄と美しい商家建築が息づく重要伝統的建造物群保存地区！岡山「倉敷美観地区」白壁土蔵となまこ壁・倉敷川沿いの老舗料理旅館鶴形、埼玉「小江戸川越」黒漆喰の蔵造り商家と時の鐘・川越プリンスホテル、広島「安芸の小京都・竹原」製塩と酒造りの重伝建・グリーンスカイホテル竹原。格子戸の路地散策と地酒、名物料理を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大町並み・重伝建特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',

@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/tottori-misasa-solo-retreat-radium-onsen-stay/" },
   title: '【三朝温泉ひとり旅・世界屈指ラジウム泉おこもり】三徳山投入堂・回遊式大庭園露天風呂・鳥取和牛！三日目の朝に病が消える現代湯治厳選3宿',
   description: '世界有数の高濃度ラドン含有量を誇る三朝温泉！アットホームなぬくもりと口コミ★4.9点超の「ちくま旅館」、回遊式大庭園露天風呂「翠の湯」で多彩な湯処を巡る名門「依山楼 岩崎」、三朝川沿いでかがり火と純和風美を堪能できる「かがり火の宿 有楽」を楽天API最新データに基づき徹底比較。',
   keywords: '三朝温泉 一人旅 宿,三朝 ホテル 一人 温泉,ちくま旅館 三朝,依山楼 岩崎,かがり火の宿 有楽,三朝温泉 ラジウム ひとり旅',

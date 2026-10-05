@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '鳥羽・伊勢志摩の秋味覚「伊勢海老漁解禁」＆リアス海岸美・絶景オーシャンビュー温泉 | クラウドトラベルふるさと納税',
   description: '10月・11月の三重・鳥羽＆伊勢志摩特集！10月に本場解禁を迎える活伊勢海老の姿造りや鬼殻焼き、伊勢湾・鳥羽湾を望む絶景オーシャンビュー露天風呂、伊勢神宮参拝とリアス式海岸の秋旅をふるさと納税トラベルクーポンでお得に満喫する贅沢ガイド。',
-  keywords: ["鳥羽・伊勢志摩 伊勢海老 温泉 観光","三重県 10月 11月 旅行","鳥羽温泉郷伊勢海老解禁＆絶景オーシャンビュー","ふるさと納税 温泉宿泊券","鳥羽国際ホテル","湯めぐり海百景　鳥羽シーサイドホテル","伊勢志摩国立公園　／　鳥羽温泉郷　戸田家","楽天ふるさと納税 宿泊クーポン"],
+  keywords: ["鳥羽", "リアス海岸美", "絶景オーシャンビュー温泉", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-toba-ise-shima-iseebi-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-toba-ise-shima-iseebi-autumn-stay/",
   },
   openGraph: {
     title: '鳥羽・伊勢志摩の秋味覚「伊勢海老漁解禁」＆リアス海岸美・絶景オーシャンビュー温泉',

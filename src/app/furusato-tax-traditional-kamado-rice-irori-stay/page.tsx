@@ -4,16 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '古民家かまど炊きご飯＆囲炉裏郷土料理の宿×ふるさと納税完全ガイド【2026年最新】白川郷・遠野・丹波篠山のおばあちゃん家ステイ',
   description: '日本人の原風景と素朴なぬくもり！世界遺産岐阜「白川郷」の合掌造り囲炉裏宿、岩手「遠野」の南部曲り家とかまど炊き銀シャリ、兵庫「丹波篠山」の黒豆ご飯と絶品ぼたん鍋古民家宿。薪のはぜる音とふっくらお米の甘みを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
-  keywords: [
-    '楽天ふるさと納税',
-    'ふるさと納税 宿泊クーポン',
-    '楽天トラベル ふるさと納税',
-    '高級温泉旅館',
-    '露天風呂付き客室',
-    '2026年旅行'
-  ],
+  keywords: ["古民家かまど炊きご飯", "2026年最新", "白川郷", "遠野", "丹波篠山のおばあちゃん家ステイ", "温泉宿", "宿泊予約"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-traditional-kamado-rice-irori-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-traditional-kamado-rice-irori-stay/"
   },
   openGraph: {
     title: '古民家かまど炊きご飯＆囲炉裏郷土料理の宿×ふるさと納税完全ガイド【2026年最新】白川郷・遠野・丹波篠山のおばあちゃん家ステイ',

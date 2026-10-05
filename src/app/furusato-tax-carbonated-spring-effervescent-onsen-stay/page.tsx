@@ -4,16 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '天然炭酸泉＆シュワシュワ美肌の湯宿×ふるさと納税完全ガイド【2026年最新】長湯・下呂・有馬の極上泡風呂',
   description: '日本屈指の高濃度炭酸泉！大分長湯温泉のラムネ風呂、岐阜下呂奥座敷の炭酸源泉、兵庫有馬温泉の銀の湯炭酸泉。肌にびっしり気泡がつく血行促進・冷え性改善の名湯旅館を楽天ふるさと納税宿泊クーポンでお得に予約する完全ガイド。',
-  keywords: [
-    '楽天ふるさと納税',
-    'ふるさと納税 宿泊クーポン',
-    '楽天トラベル ふるさと納税',
-    '高級温泉旅館',
-    '露天風呂付き客室',
-    '2026年旅行'
-  ],
+  keywords: ["天然炭酸泉", "2026年最新", "長湯", "下呂", "有馬の極上泡風呂", "温泉宿", "宿泊予約"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-carbonated-spring-effervescent-onsen-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-carbonated-spring-effervescent-onsen-stay/"
   },
   openGraph: {
     title: '天然炭酸泉＆シュワシュワ美肌の湯宿×ふるさと納税完全ガイド【2026年最新】長湯・下呂・有馬の極上泡風呂',

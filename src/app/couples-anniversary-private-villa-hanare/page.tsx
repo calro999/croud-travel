@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '二人だけの静寂と贅沢！全室離れ・客室露天風呂付き大人の隠れ家おこもり宿 ｜ 日本全国・旅宿クラウド',
   description: '由布院・箱根・京都嵐山など記念日やカップル旅行に最適な全室離れのプライベートヴィラ。誰にも邪魔されない極上の客室専用露天風呂と部屋食会席。',
-  keywords: ["記念日","カップル旅行","離れの宿","客室露天風呂","由布院","隠れ家"],
+  keywords: ["二人だけの静寂と贅沢！全室離れ", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/couples-anniversary-private-villa-hanare',
+    canonical: "https://croud-travel.pages.dev/couples-anniversary-private-villa-hanare/",
   },
   openGraph: {
     title: '二人だけの静寂と贅沢！全室離れ・客室露天風呂付き大人の隠れ家おこもり宿',

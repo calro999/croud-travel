@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/anniversary-propose-luxury-stay/" },
   title: "【記念日・プロポーズ極上宿】夜景スイート・サプライズ演出＆フレンチフルコース 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "大切な記念日・誕生日・プロポーズ完全特化！最上階パノラマ夜景スイートルーム、シャンパン＆ホールケーキ、100本のバラ花束サプライズ手配、ミシュラン星付きシェフ監修フレンチと一生に一度の感動宿を徹底解説。",
-  keywords: ["anniversary-propose-luxury-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["記念日", "プロポーズ極上宿", "夜景スイート", "サプライズ演出", "フレンチフルコース", "温泉宿", "宿泊予約"],
 };
 
 function loadSeasonalHotels() {

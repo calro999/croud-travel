@@ -4,9 +4,10 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-riverside-kawadoko-cooling-inn-stay/" },
   title: '清流川床料理＆避暑せせらぎ名宿×ふるさと納税完全ガイド【2026年最新】京都貴船・四万十川・越後岩室の涼風ステイ',
   description: '足元を流れる清流の冷気と涼風！京都貴船の元祖川床料理、日本最後の清流四万十川の鮎尽くし、新潟岩室温泉の庭園宿を楽天ふるさと納税宿泊クーポンでお得に予約する清涼美食ガイド。',
-  keywords: ['ふるさと納税', '楽天トラベル', '宿泊クーポン', '清流川床料理・避暑せせらぎ特集', '温泉旅館', 'ホテル予約', '2026年最新'],
+  keywords: ["清流川床料理", "避暑せせらぎ名宿×ふるさと納税", "2026年最新", "京都貴船", "四万十川", "越後岩室の涼風ステイ", "温泉宿"],
   openGraph: {
     title: '清流川床料理＆避暑せせらぎ名宿×ふるさと納税完全ガイド【2026年最新】京都貴船・四万十川・越後岩室の涼風ステイ',
     description: '足元を流れる清流の冷気と涼風！京都貴船の元祖川床料理、日本最後の清流四万十川の鮎尽くし、新潟岩室温泉の庭園宿を楽天ふるさと納税宿泊クーポンでお得に予約する清涼美食ガイド。',

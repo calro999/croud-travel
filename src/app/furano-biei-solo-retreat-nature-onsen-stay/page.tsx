@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furano-biei-solo-retreat-nature-onsen-stay/" },
   title: '【富良野・美瑛ひとり旅・絶景おこもり】十勝岳パノラマ・天然温泉紫雲の湯・富良野オムカレー！北の大自然に抱かれる厳選3宿',
   description: '旭川空港から富良野ラベンダー号バスで直通！富良野駅徒歩約3分で最上階天然温泉とサウナが自慢の「ラビスタ富良野ヒルズ」、広大な敷地と風のガーデン・森の時計が美しい「新富良野プリンスホテル」、スイーツサービスやアットホームなおもてなしが評判の「ホテル ナトゥールヴァルト富良野」を楽天APIデータに基づき徹底比較。',
   keywords: '富良野 一人旅 ホテル,富良野 温泉 ひとり,ラビスタ富良野ヒルズ,新富良野プリンスホテル,ホテルナトゥールヴァルト富良野,美瑛 青い池 ファーム富田',

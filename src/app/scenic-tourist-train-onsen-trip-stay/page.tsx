@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/scenic-tourist-train-onsen-trip-stay/" },
   title: "【観光列車＆極上温泉宿】サフィール踊り子・しまかぜ・ゆふいんの森で行く名旅館 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "プレミアム観光列車で行く極上温泉旅完全特化！「サフィール踊り子」「観光特急しまかぜ」「特急ゆふいんの森」「ろくもん」「雪月花」の豪華車内体験、プレミアムシート、カフェ車両と沿線の名門温泉旅館を徹底解説。",
-  keywords: ["scenic-tourist-train-onsen-trip-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["観光列車", "極上温泉宿", "サフィール踊り子", "しまかぜ", "ゆふいんの森で行く名旅館", "温泉宿", "宿泊予約"],
 };
 
 function loadSeasonalHotels() {

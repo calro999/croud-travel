@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   description: "黒潮の恩恵を受ける愛知県・渥美半島（田原市）は、冬でも日差しが暖かく、1月上旬からは日本屈指の早春を告げる「渥美半島菜の花まつり」が開幕。メイン会場の伊良湖菜の花ガーデンには見渡す限りの黄色い絨毯が広がります。元旦には伊良湖岬灯台や日出の石門から昇る雄大な初日の出を拝み、冬の味覚の王様・天然とらふぐのてっさや白子、香ばしい焼き大アサリ、甘みたっぷりの完熟いちご狩りを堪能。2022年に開湯した美肌の湯「伊良湖温泉」と絶景オーシャンビューが広がる厳選の名宿5選を徹底解説します。",
   keywords: '渥美半島 ホテル, 伊良湖 ホテル, 伊良湖温泉 旅館, 渥美半島 菜の花まつり, 伊良湖岬 初日の出, 天然とらふぐ 渥美半島, 大アサリ 伊良湖, 角上楼, 伊良湖オーシャンリゾート, 1月 愛知 観光',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-aichi-atsumi-irako-nanohana-torafugu-asari-stay'
+    canonical: "https://croud-travel.pages.dev/winter-aichi-atsumi-irako-nanohana-torafugu-asari-stay/"
   },
   openGraph: {
     title: "【11・12・1月愛知】渥美半島＆伊良湖岬！1月満開の菜の花まつりと伊良湖岬初日の出・冬旬の天然とらふぐ＆焼き大アサリ・伊良湖温泉名宿5選",

@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   description: "11月から1月、山梨県山中湖・忍野村は、夕陽が富士山頂に重なり黄金色に輝く奇跡の天体ショー「ダイヤモンド富士」と、朝陽に白雪が紅く染まる「紅富士」の最盛期を迎えます。世界文化遺産・忍野八海の神秘的なコバルトブルーの湧水池と白銀の茅葺き民家、冷えた体を芯から温める熱々の甲州ほうとう鍋や甲州ワインビーフ。富士山と湖を一望する絶景露天風呂を備えた厳選名宿5選を徹底ガイドします。",
   keywords: '山中湖 ダイヤモンド富士, 忍野八海 冬, 紅富士, 甲州ほうとう鍋, 富士マリオットホテル山中湖, ホテルマウント富士, 富士クラシックホテル, 山中湖秀山荘, ラコストリ山中湖, 山中湖温泉, 11月 12月 1月 山梨旅行',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-yamanashi-yamanakako-oshino-diamond-fuji-houtou-stay'
+    canonical: "https://croud-travel.pages.dev/winter-yamanashi-yamanakako-oshino-diamond-fuji-houtou-stay/"
   },
   openGraph: {
     title: "【11・12・1月山梨】冬の澄天に輝く「ダイヤモンド富士」と雪化粧の忍野八海・熱々「甲州ほうとう鍋」＆富士山を望む絶景温泉宿5選",

@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '本格天体望遠鏡＆星空ガイド付き！満天の星と天の川に包まれる高原星空リゾート ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！大型天体望遠鏡や星空ツアー、露天風呂が楽しめる満天の星空リゾートホテル。澄んだ空気の高原で天の川や流星群を眺める非日常体験。',
-  keywords: ["星空リゾート","天体望遠鏡","星空露天風呂","天の川","楽天トラベル"],
+  keywords: ["本格天体望遠鏡", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/stargazing-telescope-planetarium-night-sky-resort',
+    canonical: "https://croud-travel.pages.dev/stargazing-telescope-planetarium-night-sky-resort/",
   },
   openGraph: {
     title: '本格天体望遠鏡＆星空ガイド付き！満天の星と天の川に包まれる高原星空リゾート',

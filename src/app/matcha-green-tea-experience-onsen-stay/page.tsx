@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '【2026年】宇治・静岡・八女の銘茶香る！本格茶室体験とお茶風呂・茶懐石の美肌宿5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！名産地のお茶を五感で楽しむお茶旅。本格茶室での点前体験、カテキンたっぷりの茶湯露天風呂、茶葉を使った特製茶懐石が自慢の宿5選。',
-  keywords: ["お茶旅","抹茶体験","茶室","茶湯温泉","茶懐石","楽天トラベル"],
+  keywords: ["2026年", "宇治", "静岡", "茶懐石の美肌宿5選", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/matcha-green-tea-experience-onsen-stay',
+    canonical: "https://croud-travel.pages.dev/matcha-green-tea-experience-onsen-stay/",
   },
   openGraph: {
     title: '【2026年】宇治・静岡・八女の銘茶香る！本格茶室体験とお茶風呂・茶懐石の美肌宿5選',

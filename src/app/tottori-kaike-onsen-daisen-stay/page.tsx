@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/tottori-kaike-onsen-daisen-stay/" },
   title: "【鳥取・皆生温泉＆伯耆大山】海の温泉・美保湾パノラマ＆境港松葉ガニ宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "山陰屈指の海辺リゾート鳥取皆生温泉＆伯耆富士大山エリア完全特化！日本海の砂浜から湧く「海の温泉（塩化物泉）」、名峰大山の絶景ドライブ、境港直送の松葉ガニ・境港サーモン・鳥取和牛会席宿を徹底解説。",
-  keywords: ["tottori-kaike-onsen-daisen-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["鳥取", "皆生温泉", "伯耆大山", "海の温泉", "美保湾パノラマ", "境港松葉ガニ宿", "温泉宿"],
 };
 
 function loadSeasonalHotels() {

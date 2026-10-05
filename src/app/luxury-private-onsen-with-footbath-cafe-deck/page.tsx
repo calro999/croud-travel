@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】湯けむりとカフェ＆カクテルの至福。絶景足湯テラス・足湯BAR付き温泉宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！足元ぽかぽか温まりながらドリンクを満喫！渓流や海、星空を眺める足湯カフェ・足湯バーを併設したお洒落な和モダン温泉ホテル5選。',
-  keywords: ["足湯カフェ","足湯バー","足湯テラス","和モダンホテル","大人のリゾート","カップル旅行","楽天トラベル"],
+  keywords: ["2026年", "湯けむりとカフェ", "カクテルの至福。絶景足湯テラス", "足湯BAR付き温泉宿5選", "日本全国", "旅宿クラウド", "温泉宿"],
   openGraph: {
     title: '【2026年】湯けむりとカフェ＆カクテルの至福。絶景足湯テラス・足湯BAR付き温泉宿5選',
     description: '2026年最新！足元ぽかぽか温まりながらドリンクを満喫！渓流や海、星空を眺める足湯カフェ・足湯バーを併設したお洒落な和モダン温泉ホテル5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/luxury-private-onsen-with-footbath-cafe-deck',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/luxury-private-onsen-with-footbath-cafe-deck',
+    canonical: "https://croud-travel.pages.dev/luxury-private-onsen-with-footbath-cafe-deck/",
   },
 };
 

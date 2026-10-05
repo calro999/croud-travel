@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/winter-onsen-town-yukata-walk/" },
   title: "【風情満点】冬の温泉街・浴衣で湯巡り＆街歩き宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "石畳に響く下駄の音と立ち上る湯けむり。長野・渋温泉、愛媛・道後温泉、群馬・伊香保温泉、熊本・黒川温泉など、浴衣と丹前を羽織って湯巡りや射的・スイーツ食べ歩きを楽しめる名湯街を徹底解説。",
-  keywords: ["winter-onsen-town-yukata-walk", "宿泊予約", "温泉宿", "ホテル特集", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["風情満点", "冬の温泉街", "浴衣で湯巡り", "街歩き宿", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
 
 function loadSeasonalHotels() {

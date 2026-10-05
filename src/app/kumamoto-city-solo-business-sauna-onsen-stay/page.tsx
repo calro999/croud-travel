@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/kumamoto-city-solo-business-sauna-onsen-stay/" },
   title: '【熊本出張・極上サウナ温泉ステイ】西の聖地湯らっくす・阿蘇伏流水MADMAX水風呂・熊本城！火の国ビジネスを極める厳選3宿',
   description: '九州新幹線で博多から最短32分！サウナシュラン殿堂入り・阿蘇天然地下水が滝のように降り注ぐ西の聖地「湯らっくす」、辛島町すぐで最上階天然温泉とサウナを備える「ドーミーイン熊本」、新市街のスカイスパから熊本城を一望できる「カンデオホテルズ熊本新市街」を徹底比較。',
   keywords: '熊本 出張 ホテル,熊本 サウナ 聖地,湯らっくす,ドーミーイン熊本,カンデオホテルズ熊本新市街,熊本城 馬刺し 一人旅',

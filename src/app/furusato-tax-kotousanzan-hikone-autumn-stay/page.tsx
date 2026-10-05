@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '湖東三山（百済寺・金剛輪寺・西明寺）名刹の紅葉巡り＆国宝彦根城・本場近江牛すき焼き会席 | クラウドトラベルふるさと納税',
   description: '11月中旬〜11月下旬に国の名勝庭園が燃えるように色づく湖東三山（百済寺・金剛輪寺・西明寺）。琵琶湖畔の温泉宿や彦根城下町のホテルで、日本三大和牛「近江牛」の極上すき焼きをふるさと納税で堪能。',
-  keywords: ['湖東三山・彦根・近江八幡 紅葉 観光', '滋賀県 10月 11月 旅行', '湖東三山紅葉巡り＆彦根城下町近江牛', 'ふるさと納税 温泉宿泊券', 'ホテル ルートイン彦根', '彦根キャッスル リゾート＆スパ', '亀の井ホテル 彦根', '楽天ふるさと納税 宿泊クーポン'],
+  keywords: ["湖東三山（百済寺", "金剛輪寺", "西明寺）名刹の紅葉巡り", "国宝彦根城", "本場近江牛すき焼き会席", "クラウドトラベルふるさと納税", "温泉宿"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-kotousanzan-hikone-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-kotousanzan-hikone-autumn-stay/",
   },
   openGraph: {
     title: '湖東三山（百済寺・金剛輪寺・西明寺）名刹の紅葉巡り＆国宝彦根城・本場近江牛すき焼き会席',

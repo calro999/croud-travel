@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/hokkaido-hakodate-motomachi-goryokaku-nightview-stay/" },
   title: "【北海道・函館＆五稜郭】世界三大夜景・星形城郭＆朝市海鮮宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "函館山からの100万ドルの世界三大夜景、星形稜堡を誇る特別史跡「五稜郭」、元町の洋館・赤レンガ倉庫群、名湯「湯の川温泉」、函館朝市の活イカ釣りと豪華朝食バイキングホテルを徹底解説。",
-  keywords: ["hokkaido-hakodate-motomachi-goryokaku-nightview-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["北海道", "函館", "五稜郭", "世界三大夜景", "星形城郭", "朝市海鮮宿", "温泉宿"],
 };
 
 function loadSeasonalHotels() {

@@ -4,17 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/night-highway-bus-packing-comfort-sleep-guide/" },
   title: "【夜行高速バスで爆睡するための持ち物10選】首が痛い・乾燥・寒さで一睡もできなかった失敗談を完全解決 ｜ 日本全国・旅宿クラウド",
   description: "夜行バス初心者必見の安眠・快適ハック！ネックピローの選び方、車内の極度な乾燥を防ぐ立体マスク、足のむくみ対策着圧ソックス、消灯後の過ごし方と到着後すぐ入れる早朝サウナ・大浴場ホテルガイド。",
-  keywords: [
-    "夜行バス 持ち物",
-    "夜行バス 爆睡",
-    "高速バス 安眠グッズ",
-    "夜行バス 首痛い",
-    "夜行バス 乾燥対策",
-    "夜行バス 到着後 お風呂 サウナ",
-    "楽天トラベル 高速バス",
-  ],
+  keywords: ["首が痛い", "乾燥", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
 };
 
 interface Hotel {

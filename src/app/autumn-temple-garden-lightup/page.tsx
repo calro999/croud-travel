@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/autumn-temple-garden-lightup/" },
   title: "【錦秋の光の芸術】紅葉庭園ライトアップ＆夜間特別拝観の宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "幻想的な闇に浮かび上がる紅葉の美！京都東山（清水寺・高台寺）、東京目白（ホテル椿山荘東京の雲海庭園）、金沢兼六園（雪吊りライトアップ）、宮城松島円通院など、夜間ライトアップを満喫できる極上宿を徹底解説。",
-  keywords: ["autumn-temple-garden-lightup", "宿泊予約", "温泉宿", "ホテル特集", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["錦秋の光の芸術", "紅葉庭園ライトアップ", "夜間特別拝観の宿", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
 
 function loadSeasonalHotels() {

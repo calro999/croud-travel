@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   description: "11月中旬から1月にかけて、新宿・西新宿エリアは世界最大のターミナルを包み込む光の祭典「新宿ミナミルミ」やサザンテラスの幻想的な冬イルミネーション、地上202m都庁展望室から望む澄み切った夕暮れ富士山と360度の大パノラマ夜景に包まれます。新春には新宿総鎮守・花園神社での厳かな初詣、新宿御苑の冬木立散策、名店のすき焼きや江戸前鮨の美食。摩天楼の眺望と極上のホスピタリティを誇る西新宿・歌舞伎町の厳選ラグジュアリーホテル5選を徹底解説します。",
   keywords: '新宿 ホテル, 西新宿 ホテル, 新宿ミナミルミ, 都庁展望室 富士山, 花園神社 初詣, キンプトン新宿東京, 京王プラザホテル, ハイアットリージェンシー東京, ホテルグレイスリー新宿, 11月 12月 1月 東京 観光',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-tokyo-shinjuku-nishishinjuku-illumination-hatsumode-luxury-stay'
+    canonical: "https://croud-travel.pages.dev/winter-tokyo-shinjuku-nishishinjuku-illumination-hatsumode-luxury-stay/"
   },
   openGraph: {
     title: "【11・12・1月東京】新宿＆西新宿・新宿御苑！新宿ミナミルミ＆サザンテラス冬イルミと都庁展望室夜景・花園神社初詣を味わう名宿5選",

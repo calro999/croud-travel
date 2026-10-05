@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/dog-room-dining-special-course-hotel-stay/" },
   title: "【愛犬同伴OK・お部屋食＆愛犬用特製フルコース宿】無添加ごちそう＆記念日 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "愛犬も一緒にお祝いする美食の旅！愛犬用特製フルコース＆お部屋食・レストラン同伴宿完全特化！獣医師・ペット栄養管理士監修の無添加ワンちゃんごはん、バースデーケーキ、飼い主用極上会席・フレンチディナー宿を徹底解説。",
-  keywords: ["dog-room-dining-special-course-hotel-stay", "ペットと泊まれる宿", "愛犬同伴", "ドッグリゾート", "プライベートドッグラン", "楽天トラベル"],
+  keywords: ["愛犬同伴OK", "お部屋食", "愛犬用特製フルコース宿", "無添加ごちそう", "記念日", "温泉宿", "宿泊予約"],
 };
 
 function loadSeasonalHotels() {

@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '長野・安曇野の田園紅葉＆北アルプス眺望！穂高温泉郷の秘湯と名水わさび・信州サーモン | クラウドトラベルふるさと納税',
   description: '10月・11月の長野・安曇野＆穂高温泉郷特集！北アルプス常念岳・爺ヶ岳の冠雪と安曇野わさび田の清流、大王わさび農場の秋景色、中房渓谷から引湯する名湯「穂高温泉郷」、信州プレミアム牛や信州サーモン・新そばをふるさと納税トラベルクーポンでお得に楽しむ信州リゾート滞在。',
-  keywords: ["安曇野・大王わさび農場・穂高温泉郷 観光","長野県 10月 11月 旅行","安曇野紅葉北アルプス眺望＆穂高温泉郷信州牛","ふるさと納税 温泉宿泊券","穂高温泉郷　安曇野穂高ビューホテル","安曇野　にし屋別荘","森のオーベルジュ　ｇｒｅｅｎ　ｂｅｌｌ","楽天ふるさと納税 宿泊クーポン"],
+  keywords: ["長野", "安曇野の田園紅葉", "信州サーモン", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-nagano-azumino-hotaka-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-nagano-azumino-hotaka-autumn-stay/",
   },
   openGraph: {
     title: '長野・安曇野の田園紅葉＆北アルプス眺望！穂高温泉郷の秘湯と名水わさび・信州サーモン',

@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/yamanashi-yatsugatake-kiyosato-resort-stay/" },
   title: "【山梨・八ヶ岳＆清里高原】清里テラス・萌木の村＆八ヶ岳南麓・星空温泉リゾート 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "八ヶ岳南麓・清里高原エリア完全特化！標高1,900mの絶景パノラマ「清里テラス」、森のクラフト村「萌木の村」、清泉寮の濃厚ソフトクリーム、天の川輝く星空と甲州ワイン・高原リゾートホテルを徹底解説。",
-  keywords: ["yamanashi-yatsugatake-kiyosato-resort-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["山梨", "八ヶ岳", "清里高原", "清里テラス", "萌木の村", "八ヶ岳南麓", "星空温泉リゾート"],
 };
 
 function loadSeasonalHotels() {

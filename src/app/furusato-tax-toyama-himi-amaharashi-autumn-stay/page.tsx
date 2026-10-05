@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '富山・氷見温泉郷と雨晴海岸！富山湾越しの立山連峰初冠雪＆氷見寒ブリ・紅ズワイガニ | クラウドトラベルふるさと納税',
   description: '10月・11月の富山・氷見＆雨晴海岸特集！海越しに3,000m級の立山連峰の初冠雪を望む「雨晴海岸」の世界的大絶景、富山湾を一望する氷見温泉郷の海辺露天風呂、11月解禁の冬の王者「ひみ寒ぶり」や新湊直送紅ズワイガニ・白エビをふるさと納税トラベルクーポンで満喫する富山湾の秋旅。',
-  keywords: ["氷見温泉郷・雨晴海岸・立山連峰 観光","富山県 10月 11月 旅行","雨晴海岸立山連峰絶景＆氷見寒ブリ紅ズワイガニ","ふるさと納税 温泉宿泊券","氷見温泉郷　魚巡りの宿　永芳閣","氷見温泉郷　くつろぎの宿　うみあかり","氷見天然温泉ルートイングランティア氷見　和蔵の宿","楽天ふるさと納税 宿泊クーポン"],
+  keywords: ["富山", "氷見寒ブリ", "紅ズワイガニ", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-toyama-himi-amaharashi-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-toyama-himi-amaharashi-autumn-stay/",
   },
   openGraph: {
     title: '富山・氷見温泉郷と雨晴海岸！富山湾越しの立山連峰初冠雪＆氷見寒ブリ・紅ズワイガニ',

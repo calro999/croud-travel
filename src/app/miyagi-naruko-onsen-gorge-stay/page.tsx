@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/miyagi-naruko-onsen-gorge-stay/" },
   title: "【宮城・鳴子温泉郷＆鳴子峡】日本屈指の多彩な泉質・紅葉深雪橋＆栗だんご宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "奥州三名湯・国内屈指の泉質の宝庫・宮城鳴子温泉郷エリア完全特化！東北屈指の紅葉名所「鳴子峡（大深沢橋）」、鳴子こけしの里散策、多彩な源泉（重曹泉・硫黄泉・食塩泉）、名物「元祖栗だんご・鳴子温泉旅館」を徹底解説。",
-  keywords: ["miyagi-naruko-onsen-gorge-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["宮城", "鳴子温泉郷", "鳴子峡", "日本屈指の多彩な泉質", "紅葉深雪橋", "栗だんご宿", "温泉宿"],
 };
 
 function loadSeasonalHotels() {

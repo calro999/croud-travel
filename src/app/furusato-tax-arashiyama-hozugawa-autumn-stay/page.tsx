@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '名勝「嵐山・渡月橋」と保津川下り紅葉＆嵯峨野竹林の小径・嵐山温泉の湯浴みと本格京懐石 | クラウドトラベルふるさと納税',
   description: '11月中旬〜12月上旬に小倉山と渡月橋が錦秋に染まる京都・嵐山。保津川下りの渓谷紅葉と嵐山温泉のしっとりとした美肌湯、伝統の京料理・湯豆腐会席をふるさと納税で堪能する秋の京都贅沢旅。',
-  keywords: ['京都・嵐山・嵯峨野・保津川 紅葉 観光', '京都府 10月 11月 旅行', '嵐山渡月橋紅葉＆保津川下り嵐山温泉', 'ふるさと納税 温泉宿泊券', '京都 嵐山温泉 渡月亭', '嵐山温泉彩四季の宿 花筏', '京都嵐山 花のいえ', '楽天ふるさと納税 宿泊クーポン'],
+  keywords: ["名勝「嵐山", "渡月橋」と保津川下り紅葉", "嵯峨野竹林の小径", "嵐山温泉の湯浴みと本格京懐石", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-arashiyama-hozugawa-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-arashiyama-hozugawa-autumn-stay/",
   },
   openGraph: {
     title: '名勝「嵐山・渡月橋」と保津川下り紅葉＆嵯峨野竹林の小径・嵐山温泉の湯浴みと本格京懐石',

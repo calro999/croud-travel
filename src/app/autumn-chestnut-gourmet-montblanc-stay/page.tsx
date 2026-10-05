@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '【2026年】小布施・丹波の極上和栗！搾りたて生モンブラン＆栗おこわ会席の秋グルメ宿5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！栗の名産地で味わう賞味期限数十分の搾りたて極細生モンブランや、ホクホクの栗おこわ、栗の渋皮煮デザートが自慢の秋の名宿5選。',
-  keywords: ["和栗モンブラン","生モンブラン","小布施栗","丹波栗","秋の味覚","楽天トラベル"],
+  keywords: ["2026年", "小布施", "栗おこわ会席の秋グルメ宿5選", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/autumn-chestnut-gourmet-montblanc-stay',
+    canonical: "https://croud-travel.pages.dev/autumn-chestnut-gourmet-montblanc-stay/",
   },
   openGraph: {
     title: '【2026年】小布施・丹波の極上和栗！搾りたて生モンブラン＆栗おこわ会席の秋グルメ宿5選',

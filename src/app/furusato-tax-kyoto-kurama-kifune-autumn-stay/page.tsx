@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '京都・洛北 貴船神社＆鞍馬寺の紅葉トンネル！叡山電車もみじ狩りと名物川床・ぼたん鍋会席 | クラウドトラベルふるさと納税',
   description: '10月・11月の京都・洛北（貴船・鞍馬）特集！叡山電車「もみじのトンネル」ライトアップ、貴船神社の朱塗り灯籠が並ぶ石段紅葉、鞍馬寺の霊気漂う山岳参道、名物ぼたん鍋（猪鍋）や秋の京会席をふるさと納税トラベルクーポンでお得に堪能する奥京都の贅沢秋旅。',
-  keywords: ["貴船神社・鞍馬寺・もみじのトンネル 紅葉 観光","京都府 10月 11月 旅行","貴船神社紅葉ライトアップ＆ぼたん鍋京会席","ふるさと納税 温泉宿泊券","料理旅館　ひろ文","ザ・プリンス　京都宝ヶ池、オートグラフコレクション","加茂川館","楽天ふるさと納税 宿泊クーポン"],
+  keywords: ["京都", "洛北", "貴船神社", "ぼたん鍋会席", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-kyoto-kurama-kifune-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-kyoto-kurama-kifune-autumn-stay/",
   },
   openGraph: {
     title: '京都・洛北 貴船神社＆鞍馬寺の紅葉トンネル！叡山電車もみじ狩りと名物川床・ぼたん鍋会席',

@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '瀬の本高原の黄金ススキと杖立温泉蒸し湯！阿蘇カルデラ絶景・小国あか牛＆ジャージー乳を味わう秋旅 | クラウドトラベルふるさと納税',
   description: '10月・11月の熊本・小国＆杖立温泉特集！くじゅう連山と阿蘇外輪山に挟まれた瀬の本高原の一面黄金ススキ野原、開湯1800年を誇る杖立温泉の天然サウナ「むし湯」と名物杖立プリン、熊本あか牛ステーキや小国ジャージー乳スイーツをふるさと納税で堪能。',
-  keywords: ['小国・杖立温泉・瀬の本高原 紅葉 観光', '熊本県 10月 11月 旅行', '熊本・小国＆杖立温泉特集', 'ふるさと納税 温泉宿泊券', '杖立温泉　純和風旅館　泉屋', '杖立温泉　葉隠館', '杖立温泉　旅館よろづや', '楽天ふるさと納税 宿泊クーポン'],
+  keywords: ["小国あか牛", "ジャージー乳を味わう秋旅", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-minamioguni-senomoto-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-minamioguni-senomoto-autumn-stay/",
   },
   openGraph: {
     title: '瀬の本高原の黄金ススキと杖立温泉蒸し湯！阿蘇カルデラ絶景・小国あか牛＆ジャージー乳を味わう秋旅',

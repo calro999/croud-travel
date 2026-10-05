@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/yamaguchi-yuda-solo-business-onsen-gourmet-stay/" },
   title: '【山口・湯田温泉出張】白狐伝説の名湯・露天風呂サウナ・本場とらふく会席！県都ビジネスを豊かにととのえる厳選3宿',
   description: '新山口駅からJR山口線で約20分！中原中也ゆかりの庭園露天風呂と自家源泉を誇る名門「ユウベルホテル松政」、全室源泉かけ流し露天風呂付きの最高峰リトリート「古稀庵」、名物女将劇場と6つの湯めぐりが楽しい「西の雅 常盤」を楽天APIデータに基づき徹底比較。',
   keywords: '湯田温泉 出張 ホテル,山口市 ひとり旅 温泉,ユウベルホテル松政,古稀庵 宿泊,西の雅常盤,山口 県庁 湯田温泉 ふぐ',

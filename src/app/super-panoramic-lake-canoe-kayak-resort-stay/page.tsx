@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '【2026年】透明な水面を滑るレイクカヌー＆SUP！神秘の湖畔パノラマ温泉リゾート5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！支笏湖・中禅寺湖・本栖湖など、鏡のような美しい湖でカヌーやSUPを楽しみ、湖畔を望む展望温泉で寛げるレイクサイドアクティブ宿5選。',
-  keywords: ["カヌー体験","SUP","レイクサイドリゾート","湖畔温泉","アウトドア","楽天トラベル"],
+  keywords: ["2026年", "透明な水面を滑るレイクカヌー", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/super-panoramic-lake-canoe-kayak-resort-stay',
+    canonical: "https://croud-travel.pages.dev/super-panoramic-lake-canoe-kayak-resort-stay/",
   },
   openGraph: {
     title: '【2026年】透明な水面を滑るレイクカヌー＆SUP！神秘の湖畔パノラマ温泉リゾート5選',

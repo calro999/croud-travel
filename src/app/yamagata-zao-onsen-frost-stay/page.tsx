@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/yamagata-zao-onsen-frost-stay/" },
   title: "【山形・蔵王温泉】樹氷スノーモンスター・強酸性硫黄泉＆山形牛極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "山形・蔵王温泉エリア完全特化！大迫力の「蔵王樹氷（スノーモンスター）」ライトアップ、開湯1900年の強酸性白濁硫黄泉、蔵王ロープウェイ、名物玉こんにゃく・山形牛すき焼きと老舗温泉宿を徹底解説。",
-  keywords: ["yamagata-zao-onsen-frost-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["山形", "蔵王温泉", "樹氷スノーモンスター", "強酸性硫黄泉", "山形牛極上宿", "温泉宿", "宿泊予約"],
 };
 
 function loadSeasonalHotels() {

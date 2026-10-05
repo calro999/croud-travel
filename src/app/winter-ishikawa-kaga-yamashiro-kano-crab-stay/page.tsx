@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "11月6日の北陸冬の風物詩・ズワイガニ漁解禁とともに美食の最盛期を迎える石川県・加賀温泉郷（山代温泉・山中温泉）。開湯1300年の歴史を誇る名湯巡りと、青いタグが輝く石川ブランド「加能ガニ」や内子・外子が濃厚な「香箱ガニ」。九谷焼や山中塗の絢爛な器で冬の日本海会席を味わう極上の大人旅ガイド。",
   keywords: '加賀温泉郷 宿泊 11月 12月, 山代温泉 カニ 旅館, 山中温泉 加能ガニ 香箱ガニ, あらや滔々庵 ゆのくに天祥, 加賀温泉 おすすめ 宿, 九谷焼 温泉 会席, 加賀 冬 モデルコース',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-ishikawa-kaga-yamashiro-kano-crab-stay',
+    canonical: "https://croud-travel.pages.dev/winter-ishikawa-kaga-yamashiro-kano-crab-stay/",
   },
   openGraph: {
     title: "【11・12月加賀温泉郷の冬の贅と加能ガニ解禁】山代・山中温泉の歴史名湯と九谷焼で味わう極上ズワイガニ会席の宿5選",

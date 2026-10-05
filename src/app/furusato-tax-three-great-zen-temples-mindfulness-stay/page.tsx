@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-zen-temples-mindfulness-stay/" },
   title: '日本三大禅寺＆静寂の枯山水庭園・心洗われる坐禅・精進料理宿×ふるさと納税完全ガイド【2026年最新】京都南禅寺・鎌倉建長寺・福井永平寺',
   description: '心を調え雑念を解き放つ日本の名刹禅寺ステイ！京都「南禅寺」水路閣と名庭の静寂・料亭旅館南禅寺八千代、神奈川鎌倉「建長寺」巨木ビャクシンと鎌倉五山第一位・鎌倉プリンスホテル、福井「大本山永平寺」荘厳な七堂伽藍と本格坐禅体験・親禅の宿柏樹關。枯山水庭園の美、朝の静かな勤行、伝統の精進料理を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大禅寺・マインドフルネス特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',

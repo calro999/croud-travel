@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "12月の毎週土曜夜に冬空を華麗に染める「下呂温泉花火ミュージカル冬公演」。日本三名泉が誇るpH9超えのとろとろ美肌の湯に浸かり、冬の飛騨川のせせらぎを聴きながら最高ランクの飛騨牛朴葉味噌焼きや会席料理に舌鼓を打つ、心温まる冬の岐阜温泉旅。",
   keywords: '下呂温泉 花火 宿泊, 下呂温泉 冬 旅館 12月, 飛騨牛 温泉 宿, 下呂温泉 美肌の湯 冬旅, 岐阜 冬温泉, 下呂温泉 花火ミュージカル, 下呂温泉 モデルコース',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-gifu-gero-onsen-fireworks-hida-beef-stay',
+    canonical: "https://croud-travel.pages.dev/winter-gifu-gero-onsen-fireworks-hida-beef-stay/",
   },
   openGraph: {
     title: "【11・12月下呂温泉の冬花火ミュージカル】日本三名泉の美肌湯ととろける飛騨牛会席宿5選",

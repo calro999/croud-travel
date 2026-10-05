@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/kochi-katsurahama-castle-hirome-market-stay/" },
   title: "【高知・桂浜＆高知城】坂本龍馬・カツオ藁焼き＆ひろめ市場宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "幕末の英雄・坂本龍馬が愛した名勝「桂浜」、現存十二天守にして日本唯一本丸御殿が残る「高知城」、屋台村でカツオの塩たたきと地酒に酔いしれる「ひろめ市場」、三百年続く「土佐の日曜市」を徹底解説。高知市内温泉ホテルや太平洋ビュー宿を厳選。",
-  keywords: ["kochi-katsurahama-castle-hirome-market-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["高知", "桂浜", "高知城", "坂本龍馬", "カツオ藁焼き", "ひろめ市場宿", "温泉宿"],
 };
 
 function loadSeasonalHotels() {

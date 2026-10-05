@@ -4,20 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '関東で最も遅い紅葉！千葉・養老渓谷の粟又の滝＆房総黒湯温泉旅館×ふるさと納税完全ガイド【2026年最新秋旅】千葉',
   description: '11月下旬〜12月上旬に見頃を迎える関東で最も遅い紅葉スポット「養老渓谷（ようろうけいこく）」。落差30mの名瀑「粟又の滝」遊歩道と紅葉ライトアップ、美肌効果抜群の「養老温泉・黒湯」を愉しめる名宿「喜代元」「鶴乃家」「川の家」で房総の地魚やジビエ料理を堪能。楽天ふるさと納税で実質2,000円。',
-  keywords: [
-    'ふるさと納税 温泉',
-    'ふるさと納税 宿泊券',
-    'ふるさと納税 トラベルクーポン',
-    '千葉・養老渓谷＆房総黒湯温泉特集',
-    '10月 旅行 おすすめ',
-    '11月 旅行 おすすめ',
-    '秋 旅行 温泉',
-    '紅葉 温泉旅館',
-    '楽天トラベル ふるさと納税',
-    '実質2000円 温泉'
-  ],
+  keywords: ["関東で最も遅い紅葉！千葉", "養老渓谷の粟又の滝", "房総黒湯温泉旅館×ふるさと納税", "2026年最新秋旅", "千葉", "温泉宿", "宿泊予約"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-yoro-keikoku-autumn-leaves-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-yoro-keikoku-autumn-leaves-stay/"
   },
   openGraph: {
     title: '関東で最も遅い紅葉！千葉・養老渓谷の粟又の滝＆房総黒湯温泉旅館×ふるさと納税完全ガイド【2026年最新秋旅】千葉',

@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '鳥取砂丘の夕日と砂の美術館！鳥取温泉の源泉かけ流し・11月解禁の松葉がにと鳥取和牛を味わう秋旅 | クラウドトラベルふるさと納税',
   description: '10月・11月の鳥取・鳥取砂丘＆鳥取温泉特集！日本海に沈む夕日と風紋が美しい鳥取砂丘、世界最高峰の砂像アート「砂の美術館」、県庁所在地に湧く全国的にも珍しい鳥取温泉の自家源泉、11月6日解禁の山陰の冬の味覚「鳥取松葉がに」と鳥取和牛オレイン55をふるさと納税で堪能。',
-  keywords: ['鳥取・鳥取砂丘・鳥取温泉 紅葉 観光', '鳥取県 10月 11月 旅行', '鳥取・鳥取砂丘＆鳥取温泉特集', 'ふるさと納税 温泉宿泊券', '鳥取温泉　ホテルモナーク鳥取', '鳥取温泉　温泉旅館　丸茂', '鳥取温泉　白兎会館', '楽天ふるさと納税 宿泊クーポン'],
+  keywords: ["クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-tottori-dune-sand-museum-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-tottori-dune-sand-museum-stay/",
   },
   openGraph: {
     title: '鳥取砂丘の夕日と砂の美術館！鳥取温泉の源泉かけ流し・11月解禁の松葉がにと鳥取和牛を味わう秋旅',

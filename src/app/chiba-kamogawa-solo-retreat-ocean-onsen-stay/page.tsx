@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/chiba-kamogawa-solo-retreat-ocean-onsen-stay/" },
   title: '【南房総・鴨川温泉ひとり旅・太平洋水平線おこもり】波音の露天風呂・地魚舟盛り・里山棚田ウォーキング！都心特急特等席の海リトリート厳選3宿',
   description: '温暖な気候と雄大な太平洋が広がる南房総・鴨川温泉！全室趣の異なる客室と料理人が手掛ける地魚会席が口コミ★4.5超の「魚眠庵 マルキ本館」、明治の文人や洋画家・中村不折ゆかりの歴史と海辺の絶景を誇る「江澤館」、房総の海の幸と家庭的なもてなしが心地よい「ホテル中村」を楽天API最新データに基づき徹底比較。',
   keywords: '鴨川温泉 一人旅 宿,鴨川 ホテル 一人 温泉,マルキ本館 鴨川,江澤館 鴨川温泉,ホテル中村 鴨川,鴨川 ひとり旅 おこもり',

@@ -4,20 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '客室から大迫力の花火を特等席鑑賞！熱海オーシャンビュー温泉ホテル×ふるさと納税完全攻略ガイド【2026年最新】後楽園・ニューアカオ・パールスター',
   description: '熱海名物・年間十数回開催される熱海海上花火大会！お部屋のバルコニーやインフィニティ温泉露天風呂から、夜空と海を焦がす大迫力の花火を鑑賞。「熱海後楽園ホテル」「ホテルニューアカオ」「熱海パールスターホテル」を、静岡県熱海市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。',
-  keywords: [
-    'ふるさと納税 旅行',
-    'ふるさと納税 ホテル',
-    '熱海花火大会＆オーシャンビューホテル特集',
-    '楽天ふるさと納税 トラベル',
-    '熱海温泉　熱海後楽園ホテル',
-    'ホテルニューアカオ',
-    '熱海パールスターホテル',
-    '露天風呂付き客室',
-    'オーシャンビュー',
-    '実質2000円'
-  ],
+  keywords: ["2026年最新", "後楽園", "ニューアカオ", "パールスター", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-atami-ocean-view-fireworks-hotel-stay/',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-atami-ocean-view-fireworks-hotel-stay/",
   },
   openGraph: {
     title: '客室から大迫力の花火を特等席鑑賞！熱海オーシャンビュー温泉ホテル×ふるさと納税完全攻略ガイド【2026年最新】後楽園・ニューアカオ・パールスター',

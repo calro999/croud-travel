@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/gifu-gero-onsen-heritage-stay/" },
   title: "【岐阜・下呂温泉】日本三名泉・美肌の湯＆飛騨牛トマト丼・温泉街湯めぐり 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "日本三名泉・岐阜下呂温泉エリア完全特化！草津・有馬と並ぶpH9.2の「つるつる美肌湯」、湯めぐり手形での名旅館外湯めぐり、飛騨川の噴泉池、名物飛騨牛トマト丼・温玉ソフトと飛騨牛朴葉味噌会席宿を徹底解説。",
-  keywords: ["gifu-gero-onsen-heritage-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["岐阜", "下呂温泉", "日本三名泉", "美肌の湯", "飛騨牛トマト丼", "温泉街湯めぐり", "温泉宿"],
 };
 
 function loadSeasonalHotels() {

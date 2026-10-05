@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/miyagi-naruko-solo-retreat-onsen-stay/" },
   title: '【鳴子温泉ひとり旅・湯めぐりこけしおこもり】日本屈指の多種泉質・源蔵の湯・鳴子峡渓谷美！千年の湯治場で心ほぐれる極上厳選3宿',
   description: '国内11種類の泉質のうち8種類が湧く奇跡の温泉郷・鳴子！エメラルドグリーンなど日によって湯色が変化する硫黄泉が評判の老舗「鳴子ホテル」、源蔵の湯など多彩な湯処を誇る名門「鳴子観光ホテル」、秋の宮温泉郷の渓流沿いで極上の静寂を味わう「稲住温泉」を徹底比較。',
   keywords: '鳴子温泉 一人旅 宿,鳴子 ホテル 一人 温泉,鳴子ホテル,鳴子観光ホテル,稲住温泉,鳴子峡 こけし ひとり旅',

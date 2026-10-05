@@ -5,18 +5,11 @@ import path from "path";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-kansai-biwako-awaji-guide/" },
   title: "【関西シルバーウィーク グランピング】琵琶湖レイクビュー＆淡路島オーシャンビュー極上ドームヴィラ ｜ 日本全国・旅宿クラウド",
   description:
     "関西の秋連休を彩る水辺のグランピングリゾート！琵琶湖畔のプライベートビーチ付きドーム、淡路島の夕日を望むインフィニティプール付きヴィラ、淡路牛・近江牛のプレミアムBBQプラン徹底比較。",
-  keywords: [
-    "関西 グランピング シルバーウィーク",
-    "琵琶湖 グランピング レイクビュー ドームテント",
-    "淡路島 グランピング オーシャンビュー 夕日",
-    "滋賀 グランピング 近江牛 BBQ",
-    "淡路島 ヴィラ プライベートプール 温泉",
-    "関西 秋連休 旅行 ドライブ グランピング",
-    "水辺 グランピング 大阪発 神戸発",
-  ],
+  keywords: ["関西シルバーウィーク", "グランピング", "琵琶湖レイクビュー", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
 
 interface Hotel {

@@ -4,17 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/osaka-departure-daytrip-bus-tour-guide/" },
   title: "【大阪・梅田・難波発 日帰りバスツアーおすすめ】カニ食べ放題・有馬温泉・天橋立・淡路島の人気プラン比較",
   description: "大阪・梅田・難波発の日帰りバスツアー特集！日本海冬のカニ尽くし食べ放題、有馬温泉の太閤の湯＆神戸牛ランチ、淡路島うずしおクルーズ＆玉ねぎ詰め放題など、日帰りで満喫できる極上バスツアー料金＆予約ガイド。",
-  keywords: [
-    "大阪発 日帰りバスツアー",
-    "梅田発 カニ食べ放題 バスツアー",
-    "なんば発 日帰りツアー",
-    "有馬温泉 日帰りランチ",
-    "天橋立 バスツアー",
-    "淡路島 バスツアー",
-    "楽天トラベル バスツアー 関西"
-  ],
+  keywords: ["大阪", "梅田", "難波発", "日帰りバスツアーおすすめ", "カニ食べ放題", "有馬温泉", "天橋立"],
 };
 
 function loadHotels() {

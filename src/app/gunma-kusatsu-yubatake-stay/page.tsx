@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/gunma-kusatsu-yubatake-stay/" },
   title: "【群馬・草津温泉】湯畑・西の河原＆湯もみ体験極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "日本一の名湯・草津温泉エリア完全特化！湯畑のライトアップ、西の河原大露天風呂、熱乃湯の湯もみショー、温泉街の食べ歩きと源泉かけ流し旅館を徹底解説。",
-  keywords: ["gunma-kusatsu-yubatake-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["群馬", "草津温泉", "湯畑", "西の河原", "湯もみ体験極上宿", "温泉宿", "宿泊予約"],
 };
 
 function loadSeasonalHotels() {

@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/osaka-umeda-solo-business-sauna-onsen-stay/" },
   title: '【大阪梅田出張・サウナ温泉ステイ】客室天然温泉・日本初カプセルサウナ聖地・キタの歓楽街！西日本最大の拠点を制する厳選3宿',
   description: '新大阪駅からJR・御堂筋線で約5分！全客室のバスルームに天然温泉を給湯するラグジュアリーシティホテル「ホテル阪神大阪」、黒川紀章設計の伝説的サウナ聖地「カプセルイン大阪（ニュージャパン梅田）」、最上階に伊豆直送露天スパを備える「天然温泉ホテルリブマックスPREMIUM梅田EAST」を楽天APIデータに基づき徹底比較。',
   keywords: '大阪 梅田 出張 ホテル,梅田 サウナ ホテル,ホテル阪神大阪,カプセルイン大阪,ニュージャパン梅田,梅田 温泉 一人旅',

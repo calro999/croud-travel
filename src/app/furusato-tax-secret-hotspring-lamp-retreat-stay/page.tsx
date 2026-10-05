@@ -4,6 +4,7 @@ import Link from 'next/link';
 import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-secret-hotspring-lamp-retreat-stay/" },
   title: '【秘湯・ランプの宿×ふるさと納税】電波の届かぬ渓谷野天風呂で過ごすデジタルデトックス名湯旅 | クラウドトラベル',
   description: 'スマホを置いて、ランプの灯りとせせらぎに包まれる。群馬・法師温泉、徳島・祖谷温泉、青森・酸ヶ湯温泉の国登録有形文化財宿や秘境野天風呂を厳選。実質2,000円で叶える本物の秘湯デジタルデトックス旅。',
   openGraph: {

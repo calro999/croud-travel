@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '勝沼ぶどう郷のワイナリー巡りと石和温泉！山梨の新酒甲州ワイン・甲州牛＆ほうとうを味わう秋旅 | クラウドトラベルふるさと納税',
   description: '10月・11月の山梨・勝沼＆石和温泉特集！ブドウ畑が黄金に染まる勝沼ぶどう郷と11月3日解禁の「山梨ヌーボー（甲州新酒ワイン）」、山梨随一の湧出量を誇る石和温泉の美肌美人の湯、甲州牛ステーキや具だくさん名物ほうとうをふるさと納税で巡る大人の秋旅。',
-  keywords: ['笛吹・石和温泉・勝沼ぶどう郷 紅葉 観光', '山梨県 10月 11月 旅行', '山梨・勝沼ワイン＆石和温泉特集', 'ふるさと納税 温泉宿泊券', '石和温泉　ホテル平安', '石和温泉　石和びゅーほてる', 'リブマックスリゾート石和温泉', '楽天ふるさと納税 宿泊クーポン'],
+  keywords: ["甲州牛", "ほうとうを味わう秋旅", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-katsunuma-isawa-grape-wine-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-katsunuma-isawa-grape-wine-autumn-stay/",
   },
   openGraph: {
     title: '勝沼ぶどう郷のワイナリー巡りと石和温泉！山梨の新酒甲州ワイン・甲州牛＆ほうとうを味わう秋旅',

@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/fukuoka-beppu-yufuin-bus-vs-train-guide/" },
   title: "【福岡・博多〜別府・由布院】特急ゆふいんの森 vs 高速バス徹底比較！料金半額＆湯布院・別府地獄めぐり1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
   description: "博多・天神から由布院・別府温泉へ安く行くには？JR特急ゆふいんの森・特急ソニックと高速バス「とよのくに号・ゆふいん号」の料金・時間比較！湯の坪街道散策、金鱗湖、別府八湯を巡る1泊2日モデルコース。",
-  keywords: ["fukuoka-beppu-yufuin-bus-vs-train-guide", "高速バス", "バスツアー", "新幹線 比較", "安く行く方法", "1泊2日 モデルコース", "宿泊予約", "楽天トラベル"],
+  keywords: ["福岡", "博多〜別府", "由布院", "特急ゆふいんの森", "vs", "高速バス徹底比較！料金半額", "湯布院"],
 };
 
 function loadHotels() {

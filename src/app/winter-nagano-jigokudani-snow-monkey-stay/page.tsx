@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "世界中から観光客が訪れる冬の世界的名所「地獄谷野猿公苑のスノーモンキー」！雪のなかで気持ちよさそうに天然温泉に浸かる猿たちを観察し、石畳の風情ある渋温泉街で厄除け「九湯めぐり」を楽しむ冬の信州旅。",
   keywords: "渋温泉 旅館, 11月旅行, 12月旅行, 冬休み, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/winter-nagano-jigokudani-snow-monkey-stay',
+    canonical: "https://croud-travel.pages.dev/winter-nagano-jigokudani-snow-monkey-stay/",
   },
   openGraph: {
     title: "【12月開幕！地獄谷スノーモンキー＆渋温泉郷】温泉に入る猿鑑賞と九湯めぐりレトロ宿5選",

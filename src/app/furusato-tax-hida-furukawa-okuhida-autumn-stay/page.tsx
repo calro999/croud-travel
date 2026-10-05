@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '飛騨古川の白壁土蔵街と新穂高ロープウェイ！奥飛騨温泉郷の紅葉露天・最高級飛騨牛を味わう秋旅 | クラウドトラベルふるさと納税',
   description: '10月・11月の岐阜・飛騨古川＆奥飛騨温泉郷特集！瀬戸川沿いの白壁土蔵と錦鯉が美しい飛騨古川の秋散策、標高2,156m雲上の紅葉を望む新穂高ロープウェイ、日本屈指の露天風呂天国・奥飛騨温泉郷の源泉かけ流し湯めぐり、A5等級飛騨牛をふるさと納税で堪能。',
-  keywords: ['飛騨古川・奥飛騨温泉郷・新穂高 紅葉 観光', '岐阜県 10月 11月 旅行', '岐阜・飛騨古川＆奥飛騨温泉特集', 'ふるさと納税 温泉宿泊券', '飛騨古川桃源郷温泉　ホテル　季古里', '料亭旅館　八ツ三館', '料理旅館　蕪水亭', '楽天ふるさと納税 宿泊クーポン'],
+  keywords: ["最高級飛騨牛を味わう秋旅", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-hida-furukawa-okuhida-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-hida-furukawa-okuhida-autumn-stay/",
   },
   openGraph: {
     title: '飛騨古川の白壁土蔵街と新穂高ロープウェイ！奥飛騨温泉郷の紅葉露天・最高級飛騨牛を味わう秋旅',

@@ -4,20 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '湯量毎分3000L・9種の源泉デパート！登別温泉の地獄谷一望大浴場＆カニ食べ放題名門宿×ふるさと納税完全攻略ガイド【2026年最新】第一滝本館・まほろば・グランドホテル',
   description: '日本屈指の温泉天国・北海道登別温泉！立ちのぼる白煙が圧巻の地獄谷に隣接。「第一滝本館」「登別温泉 ホテル まほろば」「登別温泉 登別グランドホテル」を、北海道登別市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。1500坪の温泉天国、日本最大級露天風呂、カニ食べ放題ビュッフェ、鬼サウナを堪能。',
-  keywords: [
-    'ふるさと納税 旅行',
-    'ふるさと納税 温泉',
-    '登別温泉 地獄谷＆名湯宿特集',
-    '楽天ふるさと納税 トラベル',
-    '登別温泉　第一滝本館',
-    '登別温泉　ホテル　まほろば',
-    '登別温泉　登別グランドホテル',
-    '高級温泉旅館',
-    '源泉かけ流し',
-    '実質2000円'
-  ],
+  keywords: ["湯量毎分3000L", "2026年最新", "第一滝本館", "まほろば", "グランドホテル", "温泉宿", "宿泊予約"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-noboribetsu-jigokudani-onsen-luxury-stay/',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-noboribetsu-jigokudani-onsen-luxury-stay/",
   },
   openGraph: {
     title: '湯量毎分3000L・9種の源泉デパート！登別温泉の地獄谷一望大浴場＆カニ食べ放題名門宿×ふるさと納税完全攻略ガイド【2026年最新】第一滝本館・まほろば・グランドホテル',

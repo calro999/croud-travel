@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '栗の郷「信州小布施」秋の栗スイーツ食べ歩き＆北信濃の名湯・信州プレミアム牛会席 | クラウドトラベルふるさと納税',
   description: '10月〜11月に旬を迎える名物「小布施栗」（栗おこわ・朱雀モンブラン・栗かの子）。葛飾北斎ゆかりの歴史ある栗の小径散策と、北信濃の天然温泉・信州プレミアム牛会席をふるさと納税で堪能する秋の信濃路。',
-  keywords: ['小布施・須坂・北信濃 紅葉 観光', '長野県 10月 11月 旅行', '小布施栗グルメ巡り＆北信濃温泉信州牛', 'ふるさと納税 温泉宿泊券', '天然温泉 旅人の湯 ホテルルートインＧｒａｎｄ中野小布施－信州中野駅前－', '小布施温泉あけびの湯', '須坂温泉 古城荘', '楽天ふるさと納税 宿泊クーポン'],
+  keywords: ["北信濃の名湯", "信州プレミアム牛会席", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-obuse-chestnut-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-obuse-chestnut-autumn-stay/",
   },
   openGraph: {
     title: '栗の郷「信州小布施」秋の栗スイーツ食べ歩き＆北信濃の名湯・信州プレミアム牛会席',

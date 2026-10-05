@@ -4,19 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/aso-kumamoto-car-free-trip-guide/" },
   title: "【熊本・阿蘇 車なし観光 1泊2日モデルコース】観光特急あそぼーい！＆産交バスで行くカルデラ大自然旅 ｜ 日本全国・旅宿クラウド",
   description: "運転免許なしでも阿蘇の絶景は回れる！熊本駅から特急あそぼーい！・九州横断特急、阿蘇火口シャトルバス、草千里ヶ浜、あか牛丼ランチ、阿蘇駅チカ温泉宿を満喫する公共交通パーフェクトプラン。",
-  keywords: [
-    "阿蘇 車なし 観光",
-    "特急あそぼーい",
-    "阿蘇火口シャトル",
-    "草千里ヶ浜 バス",
-    "阿蘇 1泊2日 モデルコース 電車",
-    "熊本駅 阿蘇駅 アクセス",
-    "産交バス 阿蘇火口線",
-    "あか牛丼",
-    "楽天トラベル 阿蘇"
-  ],
+  keywords: ["熊本", "阿蘇", "車なし観光", "1泊2日モデルコース", "観光特急あそぼーい！", "産交バスで行くカルデラ大自然旅", "温泉宿"],
 };
 
 interface Hotel {

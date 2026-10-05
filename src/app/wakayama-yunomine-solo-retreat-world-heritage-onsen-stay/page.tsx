@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/wakayama-yunomine-solo-retreat-world-heritage-onsen-stay/" },
   title: '【世界遺産・湯の峰温泉ひとり旅・開湯1800年つぼ湯おこもり】日本最古の共同浴場・小栗判官伝説・七色に変わる奇跡の源泉！熊野本宮大社参拝厳選3宿',
   description: '世界遺産に登録された日本唯一の入浴できる温泉「つぼ湯」がある和歌山・湯の峰温泉！女将の温かいもてなしと温泉料理が口コミ★4.8超の「よしのや旅館」、創業江戸中期の数寄屋造りと自家源泉掛け流しを誇る「旅館あづまや」、素朴な居心地と湯治の風情が魅力の「民宿あづまや荘」を楽天API最新データに基づき徹底比較。',
   keywords: '湯の峰温泉 一人旅 宿,湯の峰 ホテル 一人 温泉,よしのや旅館 湯の峰,あづまや 湯の峰温泉,あづまや荘,つぼ湯 ひとり旅 おこもり',

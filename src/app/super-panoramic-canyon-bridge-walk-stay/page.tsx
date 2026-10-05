@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】日本三大秘境のスリルと絶景！祖谷のかずら橋＆断崖ケーブルカー露天の秘境宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！シラクチカズラで編まれたスリル満点の吊り橋「祖谷のかずら橋」！断崖絶壁をケーブルカーで下る秘境の谷底露天風呂と阿波尾鶏会席の宿5選。',
-  keywords: ["祖谷のかずら橋","日本三大秘境","祖谷温泉","ケーブルカー露天","阿波尾鶏","秘境名宿","楽天トラベル"],
+  keywords: ["2026年", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
     title: '【2026年】日本三大秘境のスリルと絶景！祖谷のかずら橋＆断崖ケーブルカー露天の秘境宿5選',
     description: '2026年最新！シラクチカズラで編まれたスリル満点の吊り橋「祖谷のかずら橋」！断崖絶壁をケーブルカーで下る秘境の谷底露天風呂と阿波尾鶏会席の宿5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/super-panoramic-canyon-bridge-walk-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/super-panoramic-canyon-bridge-walk-stay',
+    canonical: "https://croud-travel.pages.dev/super-panoramic-canyon-bridge-walk-stay/",
   },
 };
 

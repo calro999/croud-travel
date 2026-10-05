@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/kagawa-kotohira-konpira-shrine-sanuki-udon-stay/" },
   title: "【香川・琴平＆こんぴら温泉】金刀比羅宮・讃岐うどん＆名湯宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "「さぬきのこんぴらさん」金刀比羅宮の本宮785段・奥社1368段参拝、日本最古の芝居小屋「旧金毘羅大芝居（金丸座）」、本場讃岐うどん手打ち体験＆名店巡り、名湯「こんぴら温泉郷」を徹底解説。石段街の老舗旅館や庭園露天宿を厳選。",
-  keywords: ["kagawa-kotohira-konpira-shrine-sanuki-udon-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["香川", "琴平", "こんぴら温泉", "金刀比羅宮", "讃岐うどん", "名湯宿", "温泉宿"],
 };
 
 function loadSeasonalHotels() {

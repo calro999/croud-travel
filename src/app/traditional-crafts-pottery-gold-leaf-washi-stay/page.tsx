@@ -4,6 +4,7 @@ import Link from 'next/link';
 import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/traditional-crafts-pottery-gold-leaf-washi-stay/" },
   title: '伝統工芸体験宿完全ガイド【金沢金箔・越前和紙・有田焼陶芸ステイ】 | クラウドトラベル',
   description: '金沢の金箔貼り＆九谷焼絵付け、福井の越前和紙漉き・越前焼、佐賀の有田焼・波佐見焼の窯元巡りを特集。職人の手仕事を間近で体感し、自作の器や工芸品を持ち帰る特別なクラフトリゾート。',
   openGraph: {

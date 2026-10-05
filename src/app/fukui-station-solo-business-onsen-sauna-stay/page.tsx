@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/fukui-station-solo-business-onsen-sauna-stay/" },
   title: '【福井駅前出張・天然温泉サウナ】北陸新幹線延伸・越前の湯・越前ガニ＆ソースカツ丼！新幹線新拠点を制する厳選3宿',
   description: '北陸新幹線開業で東京から直通約2時間50分！全館畳敷きで最新オープンの和風プレミアム「御宿 野乃福井」、駅前すぐで天然温泉大浴場と越前そば朝食の「ドーミーインPREMIUM福井」、駅前東口至近で大浴場完備の「ホテルルートイン福井駅前」を徹底比較。',
   keywords: '福井 出張 ホテル,福井駅 温泉 ホテル,御宿野乃福井,ドーミーインPREMIUM福井,ホテルルートイン福井駅前,福井 サウナ 一人旅',

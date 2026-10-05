@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '霊峰富士を独り占め！全室富士山ビュー＆客室専用露天風呂付き絶景リゾートホテル ｜ 日本全国・旅宿クラウド',
   description: '河口湖・山中湖・日本平・箱根芦ノ湖など客室の露天風呂やテラスから雄大な富士山を一望できるラグジュアリーホテル。赤富士や逆さ富士を望む贅沢な旅。',
-  keywords: ["富士山ビュー","客室露天風呂","河口湖温泉","富士山一望","絶景リゾート","記念日旅行"],
+  keywords: ["温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/mt-fuji-view-private-open-air-bath-luxury-stay',
+    canonical: "https://croud-travel.pages.dev/mt-fuji-view-private-open-air-bath-luxury-stay/",
   },
   openGraph: {
     title: '霊峰富士を独り占め！全室富士山ビュー＆客室専用露天風呂付き絶景リゾートホテル',

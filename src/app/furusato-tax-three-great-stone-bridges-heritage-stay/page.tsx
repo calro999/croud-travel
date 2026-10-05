@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-stone-bridges-heritage-stay/" },
   title: '日本三大眼鏡橋＆石造アーチの造形美・川風感じる水辺宿×ふるさと納税完全ガイド【2026年最新】長崎眼鏡橋・諫早眼鏡橋・熊本霊台橋',
   description: '石工たちの知恵と技術が生んだアーチの奇跡！長崎「長崎眼鏡橋」中島川の水面に丸い眼鏡を描く日本最古の石橋とホテルモントレ長崎、長崎「諫早眼鏡橋」本明川の洪水に耐えた雄大な二連石橋と喜々津ステーションホテル、熊本美里「霊台橋」単一アーチ橋として日本最大級の緑川の名橋と美里・熊本ステイ。川辺の散策と名物グルメ、温泉を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大石橋・土木遺産特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',

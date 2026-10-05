@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: '冬の帝釈峡・庄原完全ガイド｜雪の渓谷美と広島神楽・比婆牛・備北温泉宿',
   description: '積雪が断崖を白く染める帝釈峡の雪景色、奉納神楽の迫力、比婆牛と広島牡蠣鍋——広島・庄原エリアの冬旅の魅力を楽天トラベル人気宿とともに徹底解説。三次ワイナリーも必見。',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-hiroshima-shobara-taishakukyo-snow-kagura-chugokugyu-stay',
+    canonical: "https://croud-travel.pages.dev/winter-hiroshima-shobara-taishakukyo-snow-kagura-chugokugyu-stay/",
   },
   openGraph: {
     title: '冬の帝釈峡・庄原完全ガイド｜雪の渓谷美と広島神楽・比婆牛・備北温泉宿',

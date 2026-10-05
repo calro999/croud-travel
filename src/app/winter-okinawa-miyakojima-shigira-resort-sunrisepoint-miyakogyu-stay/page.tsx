@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   description: "本州が真冬の寒波に包まれる11月・12月・1月、平均気温20度前後の心地よい温暖な気候が広がる南国の楽園・沖縄県宮古島。冬は海水の透明度が年間で最も高まり、エメラルドグリーンからコバルトブルーへのグラデーションを描く奇跡の「宮古ブルー」が息を呑む鮮やかさを見せます。太平洋と東シナ海を分かつ東平安名崎の感動的な初日の出、満天の冬の星空、約140万坪の広大なシギラセブンマイルズリゾートの天然温泉や温水プライベートプール、そして至福の宮古牛ステーキ。コートを脱ぎ捨てて楽しむ極上の冬の避寒バカンス。楽天APIから最新取得した宮古島の最高峰リゾートホテル5選を徹底特集します。",
   keywords: '宮古島 ホテル, シギラリゾート, 宮古島 リゾート, シギラベイサイドスイート アラマンダ, ホテル シギラミラージュ, 宮古島東急ホテル＆リゾーツ, ヒルトン宮古島, 宮古牛, 東平安名崎 初日の出, 11月 12月 1月 沖縄 観光',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-okinawa-miyakojima-shigira-resort-sunrisepoint-miyakogyu-stay'
+    canonical: "https://croud-travel.pages.dev/winter-okinawa-miyakojima-shigira-resort-sunrisepoint-miyakogyu-stay/"
   },
   openGraph: {
     title: "【11・12・1月宮古島】冬の避寒リゾート＆宮古ブルー！シギラリゾートの南国極上ステイと宮古牛・東平安名崎初日の出名宿5選",

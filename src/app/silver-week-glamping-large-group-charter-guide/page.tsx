@@ -5,18 +5,11 @@ import path from "path";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-large-group-charter-guide/" },
   title: "【大人数・10人以上OK グランピング】シルバーウィーク全棟貸切・サークル合宿・3世代家族旅行 ｜ 日本全国・旅宿クラウド",
   description:
     "10人〜20人以上のグループでも気兼ねなく楽しめる大型グランピング＆一棟貸しヴィラ特集！全棟貸切でプライベートBBQ、大人数用焚き火スペース、サークルや親族旅行に最適な施設厳選。",
-  keywords: [
-    "大人数 グランピング 10人以上",
-    "シルバーウィーク 全棟貸切 ヴィラ",
-    "サークル合宿 グランピング",
-    "3世代 家族旅行 グランピング",
-    "大人数 BBQ コテージ 貸切",
-    "古民家 一棟貸し 10名 15名",
-    "秋連休 グループ旅行 宿泊",
-  ],
+  keywords: ["大人数", "10人以上OK", "グランピング", "シルバーウィーク全棟貸切", "サークル合宿", "3世代家族旅行", "温泉宿"],
 };
 
 interface Hotel {

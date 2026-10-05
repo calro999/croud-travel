@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '阿寒摩周の秋霧と屈斜路湖の紅葉！川湯温泉の強酸性硫黄泉・秋サケ・イクラ＆北海道和牛を味わう道東旅 | クラウドトラベルふるさと納税',
   description: '10月・11月の北海道・川湯温泉＆阿寒摩周特集！摩周湖の霧と雲海、屈斜路湖畔の紅葉トンネル、釘をも溶かす日本屈指の強酸性硫黄泉・川湯温泉の源泉かけ流し、秋に旬を迎えるオホーツクの秋サケ・生いくら丼と北海道黒毛和牛をふるさと納税で堪能。',
-  keywords: ['弟子屈・川湯温泉・阿寒摩周国立公園 紅葉 観光', '北海道 10月 11月 旅行', '北海道・川湯温泉＆阿寒摩周特集', 'ふるさと納税 温泉宿泊券', '川湯温泉　川湯観光ホテル', '川湯温泉　ＫＫＲかわゆ（国家公務員共済組合連合会川湯保養所）', 'ＹＵＮＯＭＹ（旧：川湯温泉ゲストハウスＮＯＭＹ）', '楽天ふるさと納税 宿泊クーポン'],
+  keywords: ["秋サケ", "イクラ", "北海道和牛を味わう道東旅", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-kawayu-akan-mashu-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-kawayu-akan-mashu-autumn-stay/",
   },
   openGraph: {
     title: '阿寒摩周の秋霧と屈斜路湖の紅葉！川湯温泉の強酸性硫黄泉・秋サケ・イクラ＆北海道和牛を味わう道東旅',

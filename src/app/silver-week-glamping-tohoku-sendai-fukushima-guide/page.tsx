@@ -5,18 +5,11 @@ import path from "path";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-tohoku-sendai-fukushima-guide/" },
   title: "【東北シルバーウィーク グランピング】宮城・福島・秋田の雄大な自然＆紅葉先取りステイ ｜ 日本全国・旅宿クラウド",
   description:
     "仙台・福島から好アクセス！蔵王連峰や裏磐梯の秋風を感じる東北グランピング特集。一足早い紅葉の兆し、東北のブランド牛BBQ、天然温泉を併設した絶景アウトドアリゾート完全ガイド。",
-  keywords: [
-    "東北 グランピング シルバーウィーク",
-    "宮城 グランピング 仙台近郊",
-    "福島 裏磐梯 グランピング 温泉",
-    "岩手 安比高原 グランピング",
-    "気仙沼 グランピング 海鮮BBQ",
-    "東北 紅葉 グランピング 9月",
-    "東北 アウトドアリゾート 予約"
-  ],
+  keywords: ["東北シルバーウィーク", "グランピング", "宮城", "福島", "秋田の雄大な自然", "紅葉先取りステイ", "温泉宿"],
 };
 
 interface Hotel {

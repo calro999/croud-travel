@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '葡萄畑の絶景と極上ワインに酔いしれる！全国のワイナリー併設＆オーベルジュホテル ｜ 日本全国・旅宿クラウド',
   description: '勝沼・余市・長野など広大な葡萄畑に囲まれた憧れのワイナリーホテル。醸造家こだわりの日本ワインと地元食材を活かした極上ペアリングフレンチ。',
-  keywords: ["ワイナリーホテル","ワインペアリング","オーベルジュ","勝沼ワイン","余市ワイン","美食宿"],
+  keywords: ["オーベルジュホテル", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/winery-vineyard-auberge-wine-pairing-stay',
+    canonical: "https://croud-travel.pages.dev/winery-vineyard-auberge-wine-pairing-stay/",
   },
   openGraph: {
     title: '葡萄畑の絶景と極上ワインに酔いしれる！全国のワイナリー併設＆オーベルジュホテル',

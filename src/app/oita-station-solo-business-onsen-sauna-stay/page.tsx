@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/oita-station-solo-business-onsen-sauna-stay/" },
   title: '【大分駅前出張・天然温泉サウナ】日本一のおんせん県・天然温泉白糸の湯・豊後とり天！九州東部ビジネスを制する厳選3宿',
   description: '大分空港からリムジンバス直行・JR大分駅前！最上階天然温泉露天風呂と本格高温サウナを誇る「ドーミーイン大分」、駅徒歩すぐで天然温泉大浴場と地元郷土朝食の「アリストンホテル大分」、都町繁華街至近で天然温泉大浴場完備の「ホテルクラウンヒルズ大分」を徹底比較。',
   keywords: '大分 出張 ホテル,大分駅 天然温泉 ホテル,ドーミーイン大分,アリストンホテル大分,ホテルクラウンヒルズ大分,大分 とり天 一人旅',

@@ -3,6 +3,7 @@ import Script from "next/script";
 import Link from "next/link";
 import TravelBanner from "./components/TravelBanner";
 import SpecialCouponBanner from "./components/SpecialCouponBanner";
+import DynamicSidebar from "./components/DynamicSidebar";
 import { REGIONS_MAP, PREFECTURES_DATA } from "@/data/prefecturesData";
 import BookmarksModal from "./components/BookmarksModal";
 import "./globals.css";
@@ -142,42 +143,14 @@ export default function RootLayout({
         {/* メインコンテンツ */}
         <div className="flex-grow w-full relative flex justify-center items-start">
           {/* 左サイド追従バナー */}
-          <aside className="hidden xl:flex flex-col fixed left-1 xl:left-[calc((100vw-1152px)/4-127px)] top-24 w-[270px] z-30 space-y-6 items-center">
-            <TravelBanner
-              imageSrc="/images/rakuten_furusato_travel.png"
-              linkUrl="/campaigns"
-              altText="楽天トラベル ふるさと納税クーポン"
-            />
-            <TravelBanner
-              imageSrc="/images/rakuten_5and0_luxury.png"
-              linkUrl="/campaigns"
-              altText="5と0のつく日 高級宿セール"
-            />
-            <TravelBanner
-              imageSrc="/images/rakuten_service_debut.png"
-              linkUrl="/campaigns"
-              altText="サービス初めて利用キャンペーン"
-            />
-          </aside>
+          <DynamicSidebar side="left" />
 
           <main className="flex-grow max-w-6xl w-full mx-auto px-4 py-8 md:py-12">
             {children}
           </main>
 
           {/* 右サイド追従バナー */}
-          <aside className="hidden xl:flex flex-col fixed right-4 xl:right-[calc((100vw-1152px)/4-135px)] top-24 w-[270px] z-30 space-y-6 items-center">
-            <SpecialCouponBanner variant="sidebar" />
-            <TravelBanner
-              imageSrc="/images/noto_offers.png"
-              linkUrl="/campaigns"
-              altText="能登応援キャンペーン"
-            />
-            <TravelBanner
-              imageSrc="/images/rakuten_cars_coupon.png"
-              linkUrl="/campaigns"
-              altText="楽天レンタカー割引クーポン"
-            />
-          </aside>
+          <DynamicSidebar side="right" />
         </div>
 
         {/* 旅行雑誌の奥付をイメージしたフッター（47都道府県リンク＆キャンペーン導線網） */}

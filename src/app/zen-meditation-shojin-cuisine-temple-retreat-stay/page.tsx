@@ -4,6 +4,7 @@ import Link from 'next/link';
 import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/zen-meditation-shojin-cuisine-temple-retreat-stay/" },
   title: '禅寺坐禅体験＆精進料理宿坊完全ガイド【高野山・永平寺・京都リトリート】 | クラウドトラベル',
   description: '世界遺産高野山の歴史ある宿坊、福井・大本山永平寺門前、京都妙心寺界隈の枯山水庭園を望む禅体験宿を特集。朝のお勤め、護摩祈祷、本格精進料理で雑念を払い心を整えるリトリートステイ。',
   openGraph: {

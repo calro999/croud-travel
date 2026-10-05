@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "11月1日から始まる日本三名園・兼六園の冬の風物詩「雪吊り（ゆきづり）」！幾何学模様のように美しい円錐形の縄張りと紅葉・初雪の情景を愛で、解禁直後の加能ガニやのどぐろ、金沢温泉郷の名湯に寛ぐ雅な北陸旅。",
   keywords: "金沢 温泉 旅館, 11月旅行, 12月旅行, 冬休み, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/winter-kanazawa-kenrokuen-yukizuri-stay',
+    canonical: "https://croud-travel.pages.dev/winter-kanazawa-kenrokuen-yukizuri-stay/",
   },
   openGraph: {
     title: "【11月雪吊り開幕！金沢兼六園＆加賀百万石美食】冬の風物詩と近江町市場・山代名湯宿5選",

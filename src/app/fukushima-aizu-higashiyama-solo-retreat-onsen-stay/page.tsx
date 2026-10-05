@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/fukushima-aizu-higashiyama-solo-retreat-onsen-stay/" },
   title: '【会津東山温泉ひとり旅・湯川渓谷美おこもり】竹久夢二・土方歳三ゆかりの自噴泉・会津郷土料理！会津藩の歴史薫る奥座敷厳選3宿',
   description: '会津若松駅から周遊バスで約15分！湯川沿いで複数の源泉かけ流し湯船と歴史ある建築美を誇る「くろつぎ宿 新滝」、高台の展望露天風呂から会津城下町の夜景を一望する「くつろぎ宿 千代滝」、湯川のせせらぎを間近に感じる「元湯有馬屋」を徹底比較。',
   keywords: '東山温泉 一人旅 宿,会津東山 ホテル 一人 温泉,くつろぎ宿 新滝,くつろぎ宿 千代滝,元湯有馬屋,会津若松 ひとり旅 おこもり',

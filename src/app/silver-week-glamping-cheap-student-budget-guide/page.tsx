@@ -5,18 +5,11 @@ import path from "path";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-cheap-student-budget-guide/" },
   title: "【シルバーウィーク 安いグランピングおすすめ】1人1万円台前半！学生・若者グループ向けの格安コスパ宿 ｜ 日本全国・旅宿クラウド",
   description:
     "秋連休に予算を抑えて楽しむ高コスパグランピング！4〜6人で頭割りして1人1万円台前半、食材持ち込み自由で費用節約、学割・グループ割引プランがある全国の人気コテージ＆ドームテント特集。",
-  keywords: [
-    "シルバーウィーク 安い グランピング",
-    "学生 グランピング コスパ",
-    "若者 グループ グランピング 頭割り",
-    "食材持ち込み グランピング 格安",
-    "コテージ 貸切 学生旅行",
-    "1万円以下 グランピング",
-    "秋連休 格安 キャンプ リゾート"
-  ],
+  keywords: ["シルバーウィーク", "安いグランピングおすすめ", "1人1万円台前半！学生", "若者グループ向けの格安コスパ宿", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
 
 interface Hotel {

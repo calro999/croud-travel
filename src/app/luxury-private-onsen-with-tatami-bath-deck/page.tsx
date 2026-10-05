@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】足元ふんわり温かい！全面畳敷き大浴場＆純和風モダン露天風呂の宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！浴室の床一面に特殊畳を敷き詰めた「畳風呂」！滑りにくく冷えない安心の浴場で、赤ちゃん連れやシニア旅行にも大人気の名湯旅館5選。',
-  keywords: ["畳風呂","全面畳敷き","ファミリー旅行","シニア旅行","和モダン旅館","安心安全の宿","楽天トラベル"],
+  keywords: ["2026年", "純和風モダン露天風呂の宿5選", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
     title: '【2026年】足元ふんわり温かい！全面畳敷き大浴場＆純和風モダン露天風呂の宿5選',
     description: '2026年最新！浴室の床一面に特殊畳を敷き詰めた「畳風呂」！滑りにくく冷えない安心の浴場で、赤ちゃん連れやシニア旅行にも大人気の名湯旅館5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/luxury-private-onsen-with-tatami-bath-deck',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/luxury-private-onsen-with-tatami-bath-deck',
+    canonical: "https://croud-travel.pages.dev/luxury-private-onsen-with-tatami-bath-deck/",
   },
 };
 

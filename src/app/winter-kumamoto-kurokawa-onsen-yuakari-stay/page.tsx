@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "11月から12月にかけて阿蘇外輪山の冷涼な風が吹き抜ける熊本・黒川温泉。12月中旬から田の原川の渓流に幻想的な竹灯籠が灯る冬の風物詩「湯あかり」、名物「入湯手形」で巡る湯量豊かな野趣あふれる露天風呂。阿蘇あか牛の溶岩焼きステーキや本場極上馬刺しの美食に酔いしれる冬旅ガイド。",
   keywords: '黒川温泉 宿泊 11月 12月, 黒川温泉 湯あかり, 黒川温泉 入湯手形, あか牛 温泉 宿, 黒川温泉 おすすめ 旅館, 熊本 馬刺し 温泉, 黒川温泉 冬 モデルコース',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-kumamoto-kurokawa-onsen-yuakari-stay',
+    canonical: "https://croud-travel.pages.dev/winter-kumamoto-kurokawa-onsen-yuakari-stay/",
   },
   openGraph: {
     title: "【11・12月黒川温泉の湯あかりと秘湯情緒】竹灯籠が彩る渓流露天風呂と阿蘇あか牛・肥後会席の名宿5選",

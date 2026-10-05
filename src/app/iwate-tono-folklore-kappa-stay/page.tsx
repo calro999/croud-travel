@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/iwate-tono-folklore-kappa-stay/" },
   title: "【岩手・遠野＆カッパ淵】遠野物語の民話の里・南部曲り家＆ジンギスカン・暮坪かぶ宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "柳田國男『遠野物語』の妖怪と神話息づく里山・岩手遠野エリア完全特化！キュウリでカッパ釣り「カッパ淵・常堅寺」、国の重要文化財「南部曲り家（伝承園・千葉家）」、遠野郷八幡宮、名物「遠野ジンギスカン・暮坪かぶ宿」を徹底解説。",
-  keywords: ["iwate-tono-folklore-kappa-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["岩手", "遠野", "カッパ淵", "遠野物語の民話の里", "南部曲り家", "ジンギスカン", "暮坪かぶ宿"],
 };
 
 function loadSeasonalHotels() {

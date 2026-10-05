@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   description: "新春の学業成就祈願と瀬戸内の極上冬フグを堪能する11〜1月の山口・周防（防府・周南・下松）旅行完全ガイド。「日本最初の天満宮」として名高い防府天満宮の新春初詣や、ふぐ延縄漁発祥の地・周南徳山が誇る本場の「天然＆養殖とらふぐ会席」、下松・笠戸島名物「笠戸ひらめ」、幻の銘柄牛「高森牛」。瀬戸内海の多島美を一望する絶景宿など厳選名宿5選を詳しくご紹介します。",
   keywords: '防府天満宮 初詣, 周南 とらふぐ 宿, 徳山 ふぐ延縄発祥, 笠戸ひらめ 国民宿舎大城, 高森牛 山口, 日本三大天神, 防府市 ホテル, 瀬戸内海 絶景 宿, 山口 冬 旅行',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-yamaguchi-hofu-tenmangu-hatsumode-shunan-fugu-stay'
+    canonical: "https://croud-travel.pages.dev/winter-yamaguchi-hofu-tenmangu-hatsumode-shunan-fugu-stay/"
   },
   openGraph: {
     title: "【11・12・1月山口】防府天満宮初詣と周南・徳山の冬ふぐ紀行！延縄発祥の地で味わう「本場とらふぐ・笠戸ひらめ・高森牛」と瀬戸内海展望名宿5選",

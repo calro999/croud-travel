@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/chiba-tateyama-shirahama-nojimazaki-stay/" },
   title: "【千葉・館山＆白浜・野島崎】房総最南端白亜の灯台・フラワーライン＆伊勢海老宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "黒潮の恵みと温暖な楽園・南房総館山＆白浜エリア完全特化！房総半島最南端「野島埼灯台（ラバーズベンチ）」、日本の道百選「房総フラワーライン」、館山城（城山公園）、名物「房総伊勢海老・アワビ・地魚寿司宿」を徹底解説。",
-  keywords: ["chiba-tateyama-shirahama-nojimazaki-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["千葉", "館山", "白浜", "野島崎", "房総最南端白亜の灯台", "フラワーライン", "伊勢海老宿"],
 };
 
 function loadSeasonalHotels() {

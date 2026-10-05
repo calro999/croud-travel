@@ -4,20 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '妙高山と妙高スカイケーブルの紅葉空中散歩＆赤倉温泉！絶景クラシックホテル×ふるさと納税完全ガイド【2026年最新秋旅】新潟',
   description: '10月上旬〜10月下旬に見頃を迎える名峰「妙高山（みょうこうさん）」と妙高高原。妙高スカイケーブルから見下ろす紅葉絨毯と苗名滝の大迫力、標高1,000mの雲海に浮かぶ名門「赤倉観光ホテル」や白濁秘湯「花文」「みどりや旅館」で硫酸塩温泉と越後牛・日本海の紅ズワイガニ・新潟新米を堪能。ふるさと納税で実質2,000円。',
-  keywords: [
-    'ふるさと納税 温泉',
-    'ふるさと納税 宿泊券',
-    'ふるさと納税 トラベルクーポン',
-    '新潟・妙高高原＆赤倉観光ホテル特集',
-    '10月 旅行 おすすめ',
-    '11月 旅行 おすすめ',
-    '秋 旅行 温泉',
-    '紅葉 温泉旅館',
-    '楽天トラベル ふるさと納税',
-    '実質2000円 温泉'
-  ],
+  keywords: ["2026年最新秋旅", "新潟", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-myoko-akakura-autumn-leaves-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-myoko-akakura-autumn-leaves-stay/"
   },
   openGraph: {
     title: '妙高山と妙高スカイケーブルの紅葉空中散歩＆赤倉温泉！絶景クラシックホテル×ふるさと納税完全ガイド【2026年最新秋旅】新潟',

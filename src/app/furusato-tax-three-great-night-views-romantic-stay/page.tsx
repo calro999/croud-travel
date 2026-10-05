@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-night-views-romantic-stay/" },
   title: '日本三大夜景＆煌めく光の海・100万ドルのパノラマ名宿×ふるさと納税完全ガイド【2026年最新】函館・神戸・長崎',
   description: '息をのむ美しさを誇る日本三大夜景！北海道函館「函館山」津軽海峡と函館湾が挟む光の扇・望楼NOGUCHI函館、兵庫神戸「摩耶山・掬星台」大阪湾から神戸港へ広がる宝石の海・有馬温泉欽山、長崎「稲佐山」世界新三大夜景のすり鉢状パノラマ・ガーデンテラス長崎ホテル＆リゾート。ロマンチックな絶景夜景と極上温泉・ディナーを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大夜景・ロマンチック絶景特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',

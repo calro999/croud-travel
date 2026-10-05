@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/autumn-winter-brewery-sake-tour/" },
   title: "【新酒の季節】日本酒酒蔵めぐり＆地酒飲み比べ温泉宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "秋のひやおろしから冬の搾りたて新酒まで！新潟越後湯沢（ぽんしゅ館）、福島会津東山温泉、京都伏見酒蔵通り、広島西条酒蔵通りなど、名門酒蔵めぐりと地酒ペアリング会席を堪能する極上温泉宿を徹底解説。",
-  keywords: ["autumn-winter-brewery-sake-tour", "宿泊予約", "温泉宿", "ホテル特集", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["新酒の季節", "日本酒酒蔵めぐり", "地酒飲み比べ温泉宿", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
 
 function loadSeasonalHotels() {

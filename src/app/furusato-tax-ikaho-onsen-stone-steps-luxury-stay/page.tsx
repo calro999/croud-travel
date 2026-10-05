@@ -4,20 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '365段の石段街と情緒あふれる湯滝！伊香保温泉の「黄金の湯」「白銀の湯」名門旅館＆上州牛会席×ふるさと納税完全攻略ガイド【2026年最新】福一・岸権・木暮',
   description: '万葉集にも詠まれた名湯・群馬県伊香保温泉！365段の石段街と湯の花まんじゅう。「福一」「岸権旅館」「ホテル木暮」を、群馬県渋川市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。創業四百四十年最上位の格式、黄金の湯かけ流し、北関東最大級大浴場、上州牛ステーキを満喫。',
-  keywords: [
-    'ふるさと納税 旅行',
-    'ふるさと納税 温泉',
-    '伊香保温泉 石段街＆黄金の湯宿特集',
-    '楽天ふるさと納税 トラベル',
-    '伊香保温泉　福一',
-    '岸権旅館　石段街隣接　希少源泉「黄金の湯」の宿',
-    '伊香保温泉　ホテル木暮',
-    '高級温泉旅館',
-    '絶景露天風呂',
-    '実質2000円'
-  ],
+  keywords: ["2026年最新", "福一", "岸権", "木暮", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-ikaho-onsen-stone-steps-luxury-stay/',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-ikaho-onsen-stone-steps-luxury-stay/",
   },
   openGraph: {
     title: '365段の石段街と情緒あふれる湯滝！伊香保温泉の「黄金の湯」「白銀の湯」名門旅館＆上州牛会席×ふるさと納税完全攻略ガイド【2026年最新】福一・岸権・木暮',

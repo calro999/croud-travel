@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/kumamoto-amakusa-islands-sakitsu-stay/" },
   title: "【熊本・天草諸島＆三角】世界遺産﨑津集落・イルカウォッチング＆天草大王・車海老宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "天草五橋で結ばれる島々と潜伏キリシタンの祈り・熊本天草エリア完全特化！世界遺産「﨑津集落（﨑津教会・海の天主堂）」、通詞島沖の「野生イルカウォッチング」、天草五橋ドライブ、三角西港、名物「天草大王・幻の車海老宿」を徹底解説。",
-  keywords: ["kumamoto-amakusa-islands-sakitsu-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["熊本", "天草諸島", "三角", "世界遺産﨑津集落", "イルカウォッチング", "天草大王", "車海老宿"],
 };
 
 function loadSeasonalHotels() {

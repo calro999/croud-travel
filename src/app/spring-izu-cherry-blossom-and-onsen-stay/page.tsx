@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】一足早い春の訪れ！早咲き河津桜＆伊豆金目鯛姿煮と海一望露天風呂の宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！濃いピンク色に染まる河津桜並木と菜の花の絶景！名物金目鯛の姿煮・舟盛り会席と太平洋を一望する絶景露天風呂が自慢の伊豆名宿5選。',
-  keywords: ["河津桜","金目鯛姿煮","伊豆温泉","海一望露天","東伊豆","春の花見旅行","楽天トラベル"],
+  keywords: ["2026年", "一足早い春の訪れ！早咲き河津桜", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
     title: '【2026年】一足早い春の訪れ！早咲き河津桜＆伊豆金目鯛姿煮と海一望露天風呂の宿5選',
     description: '2026年最新！濃いピンク色に染まる河津桜並木と菜の花の絶景！名物金目鯛の姿煮・舟盛り会席と太平洋を一望する絶景露天風呂が自慢の伊豆名宿5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/spring-izu-cherry-blossom-and-onsen-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/spring-izu-cherry-blossom-and-onsen-stay',
+    canonical: "https://croud-travel.pages.dev/spring-izu-cherry-blossom-and-onsen-stay/",
   },
 };
 

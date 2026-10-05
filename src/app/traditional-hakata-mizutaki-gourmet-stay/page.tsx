@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】博多名物・濃厚鶏白湯水炊き！呼子イカ活造り＆福岡名湯・サウナの極上宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！じっくり煮込んだ黄金スープの博多水炊き会席＆透き通る呼子イカ活造り！福岡・博多の天然温泉＆極上サウナ付きホテル5選。',
-  keywords: ["博多水炊き","呼子イカ","博多温泉","福岡グルメ","サウナホテル","楽天トラベル"],
+  keywords: ["2026年", "博多名物", "福岡名湯", "サウナの極上宿5選", "日本全国", "旅宿クラウド", "温泉宿"],
   openGraph: {
     title: '【2026年】博多名物・濃厚鶏白湯水炊き！呼子イカ活造り＆福岡名湯・サウナの極上宿5選',
     description: '2026年最新！じっくり煮込んだ黄金スープの博多水炊き会席＆透き通る呼子イカ活造り！福岡・博多の天然温泉＆極上サウナ付きホテル5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/traditional-hakata-mizutaki-gourmet-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/traditional-hakata-mizutaki-gourmet-stay',
+    canonical: "https://croud-travel.pages.dev/traditional-hakata-mizutaki-gourmet-stay/",
   },
 };
 

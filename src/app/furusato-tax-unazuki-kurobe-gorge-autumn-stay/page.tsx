@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '黒部峡谷トロッコ電車の大パノラマ紅葉＆日本屈指の透明度「宇奈月温泉」・富山湾の紅ズワイガニ | クラウドトラベルふるさと納税',
   description: '10月下旬〜11月中旬にV字峡谷が深紅と黄金に染まる黒部峡谷トロッコ電車。黒部川の清流を望む宇奈月温泉で、美肌の透明名湯と富山湾直送の紅ズワイガニ・白えび・富山牛をふるさと納税でお得に満喫する完全ガイド。',
-  keywords: ['黒部・宇奈月温泉・黒部峡谷 紅葉 観光', '富山県 10月 11月 旅行', '黒部峡谷トロッコ紅葉＆宇奈月温泉紅ズワイガニ', 'ふるさと納税 温泉宿泊券', '黒部峡谷・宇奈月温泉 ホテル黒部', '人気の露天風呂客室と富山の旬菜美味 宇奈月温泉サン柳亭', '宇奈月温泉の老舗旅館 延対寺荘', '楽天ふるさと納税 宿泊クーポン'],
+  keywords: ["日本屈指の透明度「宇奈月温泉」", "富山湾の紅ズワイガニ", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-unazuki-kurobe-gorge-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-unazuki-kurobe-gorge-autumn-stay/",
   },
   openGraph: {
     title: '黒部峡谷トロッコ電車の大パノラマ紅葉＆日本屈指の透明度「宇奈月温泉」・富山湾の紅ズワイガニ',

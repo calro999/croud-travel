@@ -4,6 +4,7 @@ import Link from 'next/link';
 import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/vories-frank-lloyd-wright-architecture-resort-stay/" },
   title: '巨匠建築・ヴォーリズ＆ライト様式美宿完全ガイド【暖炉・プレイリースタイル】 | クラウドトラベル',
   description: 'ウィリアム・メレル・ヴォーリズやフランク・ロイド・ライトの意匠を受け継ぐ近江八幡・軽井沢・阪神間の名建築宿。暖炉の温もりと有機的建築美を体感するリゾートステイ。',
   openGraph: {

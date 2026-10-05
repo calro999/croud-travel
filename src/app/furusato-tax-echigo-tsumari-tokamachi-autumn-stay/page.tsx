@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '十日町・星峠の棚田雲海と日本三大薬湯・松之山温泉！魚沼新米コシヒカリ＆越後妻有秋アート旅 | クラウドトラベルふるさと納税',
   description: '10月・11月の新潟・十日町＆松之山温泉特集！早朝の水鏡に映る星峠の棚田の幻想的な雲海と紅葉、草津・有馬と並ぶ日本三大薬湯「松之山温泉」の濃厚な天然塩化物泉、魚沼産新米コシヒカリと妻有ポーク・秋の山菜ジビエをふるさと納税トラベルで味わう贅沢プラン。',
-  keywords: ['十日町・松之山温泉・星峠の棚田 紅葉 観光', '新潟県 10月 11月 旅行', '新潟・十日町＆松之山温泉特集', 'ふるさと納税 温泉宿泊券', '越後松之山温泉　凌雲閣', '松之山温泉　醸す森［ｋａｍｏｓｕ　ｍｏｒｉ］', '松之山温泉　和泉屋　＜新潟県＞', '楽天ふるさと納税 宿泊クーポン'],
+  keywords: ["十日町", "星峠の棚田雲海と日本三大薬湯", "松之山温泉！魚沼新米コシヒカリ", "越後妻有秋アート旅", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-echigo-tsumari-tokamachi-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-echigo-tsumari-tokamachi-autumn-stay/",
   },
   openGraph: {
     title: '十日町・星峠の棚田雲海と日本三大薬湯・松之山温泉！魚沼新米コシヒカリ＆越後妻有秋アート旅',

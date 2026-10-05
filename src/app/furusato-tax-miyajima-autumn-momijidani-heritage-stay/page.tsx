@@ -4,20 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '海に浮かぶ大鳥居と紅葉谷の錦絵！世界遺産・安芸の宮島＆厳島神社秋詣名門旅館×ふるさと納税完全ガイド【2026年最新秋旅】 | 旅宿クラウド',
   description: '11月中旬〜下旬、約700本のもみじが朱に染まる宮島屈指の名所「紅葉谷公園」と世界遺産「厳島神社」。大鳥居の夜間ライトアップや弥山の絶景パノラマを島内宿泊で独占！「宮島グランドホテル 有もと」「宮島ホテル まこと」「ホテル 菊乃家」。名物牡蠣・穴子飯・広島牛を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。',
-  keywords: [
-    'ふるさと納税 温泉',
-    'ふるさと納税 宿泊券',
-    'ふるさと納税 トラベルクーポン',
-    '世界遺産宮島・紅葉谷公園＆厳島神社秋詣名旅館特集',
-    '10月 旅行 おすすめ',
-    '11月 旅行 おすすめ',
-    '秋 旅行 温泉',
-    '紅葉 温泉旅館',
-    '楽天トラベル ふるさと納税',
-    '実質2000円 温泉'
-  ],
+  keywords: ["安芸の宮島", "2026年最新秋旅", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-miyajima-autumn-momijidani-heritage-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-miyajima-autumn-momijidani-heritage-stay/"
   },
   openGraph: {
     title: '海に浮かぶ大鳥居と紅葉谷の錦絵！世界遺産・安芸の宮島＆厳島神社秋詣名門旅館×ふるさと納税完全ガイド【2026年最新秋旅】',

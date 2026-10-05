@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/yamaguchi-hagi-nagato-yumoto-stay/" },
   title: "【山口・萩＆長門湯本温泉】維新の城下町・川床テラス＆元乃隅神社・瓦そば宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "明治維新の故郷とリノベーション温泉街・山口萩＆長門湯本温泉エリア完全特化！萩城下町の白壁・夏みかん、音信川の川床テラス、アメリカCNN絶賛の「元乃隅神社」123基鳥居、名物「瓦そば・ふぐ会席宿」を徹底解説。",
-  keywords: ["yamaguchi-hagi-nagato-yumoto-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["山口", "長門湯本温泉", "維新の城下町", "川床テラス", "元乃隅神社", "瓦そば宿", "温泉宿"],
 };
 
 function loadSeasonalHotels() {

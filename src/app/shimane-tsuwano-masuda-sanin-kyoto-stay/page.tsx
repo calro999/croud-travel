@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/shimane-tsuwano-masuda-sanin-kyoto-stay/" },
   title: "【島根・津和野＆益田】山陰の小京都・掘割の錦鯉＆太皷谷稲成・石見神楽宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "武家屋敷と白壁土塀のノスタルジー・島根津和野＆益田エリア完全特化！殿町通りの掘割を泳ぐ錦鯉、千本鳥居の「太皷谷稲成神社」、森鴎外・安野光雅ゆかりの地、伝統芸能「石見神楽」、名物「うずめ飯・鮎料理宿」を徹底解説。",
-  keywords: ["shimane-tsuwano-masuda-sanin-kyoto-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["島根", "津和野", "益田", "山陰の小京都", "掘割の錦鯉", "太皷谷稲成", "石見神楽宿"],
 };
 
 function loadSeasonalHotels() {

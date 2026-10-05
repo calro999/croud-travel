@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '【2026年】大画面プロジェクター＆高音質音響！客室シアタールームで映画に没入する温泉宿5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！100インチ以上の大画面プロジェクターや最新音響システム、動画配信見放題を備えたシアタールーム完備の極上温泉ホテル5選。',
-  keywords: ["シアタールーム","プロジェクター","映画鑑賞","ポップインアラジン","おこもりステイ","楽天トラベル"],
+  keywords: ["2026年", "大画面プロジェクター", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/luxury-private-cinema-theater-room-resort-stay',
+    canonical: "https://croud-travel.pages.dev/luxury-private-cinema-theater-room-resort-stay/",
   },
   openGraph: {
     title: '【2026年】大画面プロジェクター＆高音質音響！客室シアタールームで映画に没入する温泉宿5選',

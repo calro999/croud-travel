@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '気兼ねなく一人を謳歌する！お部屋食＆客室専用風呂で過ごす極上ソロ温泉リトリート ｜ 日本全国・旅宿クラウド',
   description: '四万・別所・かみのやまなど一人旅歓迎のお宿を厳選。人目を気にせずお部屋でゆっくり味わう会席料理と、名湯を独り占めできる貸切風呂・客室風呂。',
-  keywords: ["一人旅","ソロ旅","部屋食","四万温泉","リトリート","温泉ワーケーション"],
+  keywords: ["温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/solo-travel-in-room-dining-peaceful-hotsprings',
+    canonical: "https://croud-travel.pages.dev/solo-travel-in-room-dining-peaceful-hotsprings/",
   },
   openGraph: {
     title: '気兼ねなく一人を謳歌する！お部屋食＆客室専用風呂で過ごす極上ソロ温泉リトリート',

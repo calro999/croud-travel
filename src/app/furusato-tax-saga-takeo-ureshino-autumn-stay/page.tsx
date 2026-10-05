@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '佐賀・武雄＆嬉野温泉！御船山楽園の紅葉ライトアップと美肌の湯・佐賀牛会席 | クラウドトラベルふるさと納税',
   description: '10月・11月の佐賀・武雄温泉＆嬉野温泉を特集。御船山楽園の壮大な秋の紅葉ライトアップ、とろとろ美肌の湯、名物温泉湯どうふや極上佐賀牛を堪能できる厳選3宿とふるさと納税トラベルクーポンの賢い活用法を徹底解説。',
-  keywords: ["武雄温泉 ふるさと納税","嬉野温泉 宿泊","御船山楽園 紅葉","佐賀牛 温泉宿","秋 温泉旅行 佐賀"],
+  keywords: ["佐賀", "武雄", "佐賀牛会席", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-saga-takeo-ureshino-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-saga-takeo-ureshino-autumn-stay/",
   },
   openGraph: {
     title: '【佐賀・武雄＆嬉野温泉】御船山楽園の紅葉まつり＆日本三大美肌の湯！佐賀牛・温泉湯どうふと名宿特集',

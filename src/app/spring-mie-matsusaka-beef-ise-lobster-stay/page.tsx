@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "日本最高峰のブランド和牛「松阪牛」と、プリプリの甘みが弾ける「伊勢海老」！伊勢志摩のリアス海岸を望む絶景展望露天風呂と、三重が誇る贅沢極まりない美食を心ゆくまで堪能する極上宿。",
   keywords: "鳥羽 伊勢志摩 松阪牛 伊勢海老 温泉 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/spring-mie-matsusaka-beef-ise-lobster-stay',
+    canonical: "https://croud-travel.pages.dev/spring-mie-matsusaka-beef-ise-lobster-stay/",
   },
   openGraph: {
     title: "【極上松阪牛＆伊勢海老会席】伊勢志摩・鳥羽の豪華二大味覚とオーシャンビュー名湯宿5選",

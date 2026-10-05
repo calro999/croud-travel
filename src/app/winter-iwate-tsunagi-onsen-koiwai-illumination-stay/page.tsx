@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "11月下旬から12月にかけて東北最大級のウインターイルミネーション「小岩井農場 銀河農場の夜」が輝き、御所湖越しに秀峰・岩手山の白銀の初冠雪が広がる盛岡の奥座敷「つなぎ温泉」と「鶯宿温泉」。平安時代・源義家ゆかりの名湯や北東北屈指の自家源泉掛け流し、極上ブランド黒毛和牛「前沢牛」「雫石牛」の鉄板焼きやすき焼き、盛岡三大麺を堪能する厳選名宿5選を徹底解説。",
   keywords: '盛岡 つなぎ温泉 宿泊, つなぎ温泉 11月 12月, 小岩井農場 イルミネーション 銀河農場の夜, ホテル紫苑, 湯守ホテル大観, 愛真館, ホテル森の風鶯宿, 四季亭, 前沢牛 すき焼き, 御所湖 岩手山 雪景色',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-iwate-tsunagi-onsen-koiwai-illumination-stay',
+    canonical: "https://croud-travel.pages.dev/winter-iwate-tsunagi-onsen-koiwai-illumination-stay/",
   },
   openGraph: {
     title: "【11・12月盛岡つなぎ温泉の冬名湯と小岩井イルミ】銀河農場の夜・秀峰岩手山雪見露天と極上前沢牛会席の宿5選",

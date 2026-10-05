@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   description: "11月から1月、山陰・島根の安来（やすぎ）は白銀の雪と静寂に包まれ、世界が称賛する日本美の最高峰が姿を現します。アメリカの日本庭園専門誌で20年以上連続日本一に君臨し、ミシュラン三ツ星を獲得した「足立美術館」。雪化粧をまとった枯山水庭や白砂青松庭は、額縁越しに眺めると息を呑む一幅の巨大な山水画へと昇華します。美術館のすぐ隣に湧く白鷺伝説の古湯「さぎの湯温泉」、冬の日本海がもたらす味覚の王者「松葉ガニ」、そして口の中でとろける霜降り「しまね和牛」。冬の静寂と至福の温泉美食に癒やされる厳選名宿5選をご紹介します。",
   keywords: '足立美術館 冬 雪景色, 足立美術館 日本庭園 一位, さぎの湯温泉 旅館, しまね和牛 宿, 松葉ガニ 安来 境港, さぎの湯温泉 さぎの湯荘, 安来苑, 竹葉 足立美術館, 皆生シーサイドホテル, ホテルアクシス, 11月 12月 1月 島根旅行',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-shimane-adachi-museum-snow-garden-saginoyu-wagyu-stay'
+    canonical: "https://croud-travel.pages.dev/winter-shimane-adachi-museum-snow-garden-saginoyu-wagyu-stay/"
   },
   openGraph: {
     title: "【11・12・1月島根】米誌20年連続日本一・足立美術館「白銀の日本庭園」雪景色とさぎの湯温泉・極上しまね和牛＆松葉ガニを堪能する名宿5選",

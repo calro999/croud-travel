@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "世界に誇る最高峰ブランド牛「神戸ビーフ」と、日本海の冬・春の味覚「香住ガニ（紅ズワイガニ）」！日本三古湯・有馬温泉の金泉・銀泉や城崎温泉の外湯めぐりとともに、兵庫が誇る究極の美食を堪能する極上旅。",
   keywords: "有馬温泉 神戸牛 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/spring-hyogo-kobe-beef-tajima-crab-stay',
+    canonical: "https://croud-travel.pages.dev/spring-hyogo-kobe-beef-tajima-crab-stay/",
   },
   openGraph: {
     title: "【最高峰神戸牛＆香住紅ズワイガニ】有馬・城崎で味わう兵庫二大贅沢グルメと名湯宿5選",

@@ -5,18 +5,11 @@ import path from "path";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/glamping-first-time-regrets-packing-guide/" },
   title: "【初めてのグランピングで後悔したことワースト5】夜の冷え込み・虫対策・煙で服崩壊！持って行くべき神グッズ ｜ 日本全国・旅宿クラウド",
   description:
     "手ぶらOKの謳い文句を信じて後悔したリアル体験談！標高の高い高原グランピングの夜間極寒、焚き火の火の粉で穴あき服、夜間トイレ移動のランタン不足、虫除けスプレー選びと温泉付きグランピングヴィラ。",
-  keywords: [
-    "グランピング 後悔",
-    "初めてのグランピング 持ち物",
-    "グランピング 服装 焚き火 穴あき",
-    "グランピング 虫対策 スプレー",
-    "グランピング 夜 寒い 防寒",
-    "温泉付き グランピング",
-    "ドームテント 持ち物 リスト",
-  ],
+  keywords: ["夜の冷え込み", "虫対策", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
 };
 
 interface Hotel {

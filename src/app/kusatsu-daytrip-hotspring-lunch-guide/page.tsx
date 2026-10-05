@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/kusatsu-daytrip-hotspring-lunch-guide/" },
   title: "【草津温泉 日帰り温泉＆ランチ】湯畑周辺で楽しむ源泉かけ流し名湯＆上州牛・手打ちそば名店ガイド ｜ 日本全国・旅宿クラウド",
   description: "草津温泉を日帰りで満喫するモデルコース！西の河原露天風呂・御座之湯・大滝乃湯の外湯巡りと、上州牛すき焼き・石臼挽き手打ちそばの絶品ランチ、日帰り入浴可能な名門旅館まとめ。",
-  keywords: ["kusatsu-daytrip-hotspring-lunch-guide", "草津温泉 日帰り", "草津 ランチ", "湯畑 日帰り温泉", "西の河原露天風呂", "上州牛 すき焼き", "楽天トラベル"],
+  keywords: ["草津温泉", "日帰り温泉", "ランチ", "上州牛", "手打ちそば名店ガイド", "温泉宿", "宿泊予約"],
 };
 
 interface Hotel {

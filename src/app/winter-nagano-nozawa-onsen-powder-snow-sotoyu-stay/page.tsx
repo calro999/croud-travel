@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "12月上旬オープン！天然雪100%の極上パウダースノーと総滑走距離44kmを誇る「野沢温泉スキー場」！江戸時代から湯仲間が大切に守り継ぐ名物「13の外湯めぐり」と、冬の風物詩・野沢菜本漬け、信州牛会席に寛ぐ老舗温泉宿ステイ。",
   keywords: '野沢温泉 スキー, 野沢温泉 パウダースノー, 野沢温泉 外湯めぐり, 野沢温泉 旅館, 信州牛 温泉, 長野 12月 スキー場, ゲレンデ直結 温泉宿',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay',
+    canonical: "https://croud-travel.pages.dev/winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay/",
   },
   openGraph: {
     title: "【12月開幕！野沢温泉パウダースノー】天然雪100%ゲレンデと名物13外湯めぐり＆信州牛美食宿5選",

@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/yamagata-tendo-yamadera-cherry-stay/" },
   title: "【山形・天童温泉＆山寺立石寺】将棋の街・千段の石段絶景＆山形牛・さくらんぼ宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "将棋駒の生産日本一と松尾芭蕉の名刹・山形天童＆山寺立石寺エリア完全特化！1015段の石段を登る「山寺（宝珠山立石寺）」五大堂絶景、天童温泉の美肌湯、最高級山形牛ステーキ、本場さくらんぼ狩り宿を徹底解説。",
-  keywords: ["yamagata-tendo-yamadera-cherry-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["山形", "天童温泉", "山寺立石寺", "将棋の街", "千段の石段絶景", "山形牛", "さくらんぼ宿"],
 };
 
 function loadSeasonalHotels() {

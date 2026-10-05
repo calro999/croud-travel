@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/shimonoseki-solo-business-fugu-kaikyo-stay/" },
   title: '【下関出張・男一人旅】天然温泉関門の湯・関門海峡パノラマ・本場下関ふく料理！本州最西端の海峡拠点でととのう厳選3宿',
   description: '本州と九州の結節点・下関市でのビジネスや一人旅に！自家源泉天然温泉とふぐ飯朝食が自慢の「ドーミーインPREMIUM下関」、JR下関駅直結の抜群な利便性と大浴場を備える「ヴィアイン下関」、コスパと人工温泉が魅力の「下関ステーションホテル」を楽天APIデータに基づき徹底比較。',
   keywords: '下関 出張 ホテル,下関 ホテル 一人旅,ドーミーインPREMIUM下関,ヴィアイン下関,下関ステーションホテル,下関 ふぐ 唐戸市場',

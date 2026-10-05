@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   description: "冬の首都圏近郊で圧倒的な賑わいと幻想美を見せる埼玉・大宮＆さいたま新都心。2400年以上の歴史を誇る武蔵一宮「氷川神社」への新春200万人開運初詣と約2kmに及ぶ日本一長い氷川参道散策、さいたま新都心「けやきひろば」を15万球の青と白のLEDが包み込む光の森イルミネーション。深谷ねぎや極上の武州和牛、武蔵野うどんの熱々肉汁うどんに舌鼓を打ち、天然温泉や洗練のシティホテルで寛ぐ極上の冬旅。楽天APIから最新取得した大宮・新都心の特選宿5選を徹底特集します。",
   keywords: '大宮 ホテル, さいたま新都心 ホテル, 氷川神社 初詣 ホテル, けやきひろば イルミネーション, パレスホテル大宮, ホテルメトロポリタンさいたま新都心, スーパーホテルPremierさいたま大宮, 武州和牛, 11月 12月 1月 埼玉 観光',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-saitama-omiya-hikawa-shrine-hatsumode-keyaki-stay'
+    canonical: "https://croud-travel.pages.dev/winter-saitama-omiya-hikawa-shrine-hatsumode-keyaki-stay/"
   },
   openGraph: {
     title: "【11・12・1月埼玉】武蔵一宮氷川神社新春初詣＆けやきひろばイルミネーション！武州和牛と天然温泉に寛ぐ名宿5選",

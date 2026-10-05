@@ -4,17 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/nagoya-departure-daytrip-bus-tour-guide/" },
   title: "【名古屋発 日帰りバスツアー＆温泉ランチおすすめ】下呂温泉・伊勢神宮参拝・飛騨牛食べ放題プラン徹底解説",
   description: "名古屋・名駅発の日帰りバスツアー人気コース！伊勢神宮おかげ横丁＆松阪牛ランチ、下呂温泉名湯めぐり、高山白川郷合掌造り直行便まで、電車より安くて楽ちんな日帰りツアーの料金・予約方法。",
-  keywords: [
-    "名古屋発 日帰りバスツアー",
-    "名駅発 バスツアー",
-    "下呂温泉 日帰りランチ",
-    "伊勢神宮 バスツアー 名古屋",
-    "飛騨牛 食べ放題 バスツアー",
-    "白川郷 日帰りバス 名古屋",
-    "楽天トラベル バスツアー 中部"
-  ],
+  keywords: ["名古屋発", "日帰りバスツアー", "温泉ランチおすすめ", "下呂温泉", "伊勢神宮参拝", "飛騨牛食べ放題プラン", "温泉宿"],
 };
 
 function loadHotels() {

@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: 'シュワシュワ天然泡＆濃厚泥パック！奇跡の名湯・炭酸泉と美肌薬湯治リトリート宿 ｜ 日本全国・旅宿クラウド',
   description: '長湯温泉・別府・嬉野・玉造など全国屈指の濃厚な高濃度炭酸泉や天然泥湯。肌にしがみつく無数の気泡とミネラルたっぷりの泥湯で心身を再生。',
-  keywords: ["炭酸泉","泥湯","美肌の湯","長湯温泉","湯治宿","薬湯"],
+  keywords: ["シュワシュワ天然泡", "濃厚泥パック！奇跡の名湯", "炭酸泉と美肌薬湯治リトリート宿", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/medicinal-carbonated-mud-springs-healing-stay',
+    canonical: "https://croud-travel.pages.dev/medicinal-carbonated-mud-springs-healing-stay/",
   },
   openGraph: {
     title: 'シュワシュワ天然泡＆濃厚泥パック！奇跡の名湯・炭酸泉と美肌薬湯治リトリート宿',

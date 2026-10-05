@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '客室専用プライベートサウナ＆セルフロウリュ！誰にも邪魔されずととのう極上温泉宿 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！客室専用プライベートサウナ＆セルフロウリュ完備の極上温泉宿。水風呂・絶景外気浴スペース完備で完全プライベートな「究極のととのい」を体験。',
-  keywords: ["プライベートサウナ","客室サウナ","セルフロウリュ","ととのい","楽天トラベル"],
+  keywords: ["客室専用プライベートサウナ", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/private-sauna-self-loyly-barrel-sauna-stay',
+    canonical: "https://croud-travel.pages.dev/private-sauna-self-loyly-barrel-sauna-stay/",
   },
   openGraph: {
     title: '客室専用プライベートサウナ＆セルフロウリュ！誰にも邪魔されずととのう極上温泉宿',

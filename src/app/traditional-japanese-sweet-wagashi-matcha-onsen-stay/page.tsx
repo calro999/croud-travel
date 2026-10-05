@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '【2026年】老舗の銘菓と出来立て生和菓子！抹茶ラウンジ＆和スイーツが自慢の温泉宿5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！老舗和菓子舗コラボの生菓子や抹茶BAR、パフェが楽しめる和スイーツ好きにおすすめの温泉旅館5選。優雅なお茶時間。',
-  keywords: ["和菓子","抹茶スイーツ","わらび餅","和カフェ","女子旅温泉","楽天トラベル"],
+  keywords: ["2026年", "和スイーツが自慢の温泉宿5選", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/traditional-japanese-sweet-wagashi-matcha-onsen-stay',
+    canonical: "https://croud-travel.pages.dev/traditional-japanese-sweet-wagashi-matcha-onsen-stay/",
   },
   openGraph: {
     title: '【2026年】老舗の銘菓と出来立て生和菓子！抹茶ラウンジ＆和スイーツが自慢の温泉宿5選',

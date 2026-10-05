@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "湯上がりに味わう蛇口から出る生搾りみかんジュースや、甘酸っぱい香りの柑橘露天風呂！日本最古の名湯・道後温泉で、瀬戸内の豊かな恵みと温かいおもてなしに心ほどける極上旅館を厳選紹介。",
   keywords: "道後温泉 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/spring-ehime-setouchi-citrus-spa-stay',
+    canonical: "https://croud-travel.pages.dev/spring-ehime-setouchi-citrus-spa-stay/",
   },
   openGraph: {
     title: "【愛媛みかん＆柑橘の癒やし】爽やかな生搾り柑橘ジュースと果実風呂！道後温泉の極上癒やし宿5選",

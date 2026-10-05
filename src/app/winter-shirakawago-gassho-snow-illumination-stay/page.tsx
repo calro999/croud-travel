@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "12月から一面の雪景色に包まれる世界遺産・白川郷の合掌造り集落！茅葺き屋根に積もる白雪と温かい灯りが織りなす日本の原風景を散策し、飛騨高山の古い町並みや日本三名泉・下呂温泉のトロトロ美肌湯で寛ぐ冬旅。",
   keywords: "高山 温泉 露天風呂 旅館, 11月旅行, 12月旅行, 冬休み, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/winter-shirakawago-gassho-snow-illumination-stay',
+    canonical: "https://croud-travel.pages.dev/winter-shirakawago-gassho-snow-illumination-stay/",
   },
   openGraph: {
     title: "【12月雪化粧の世界遺産！白川郷合掌造り＆飛騨高山】白銀の原風景と飛騨牛・下呂名湯宿5選",

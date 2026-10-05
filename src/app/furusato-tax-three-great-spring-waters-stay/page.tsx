@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-spring-waters-stay/" },
   title: '日本三大名水・湧水水源地＆清流酒蔵グルメ・名水露天風呂宿×ふるさと納税完全ガイド【2026年最新】黒部湧水群・白州尾白川・南阿蘇白川水源',
   description: '日本屈指の清らかな湧水と名水仕込みの絶品グルメ！富山黒部「黒部川扇状地湧水群」北アルプス雪解けの名水と大江戸温泉物語宇奈月グランドホテル、山梨北杜「白州尾白川名水」南アルプスの天然水・ウイスキーの聖地とグランドメルキュール八ヶ岳リゾート＆スパ、熊本南阿蘇「白川水源」毎分60トン自噴する阿蘇の恵みとオーベルジュ森のアトリエ南阿蘇ルナ天文台。日本三大名水の地を巡る極上ステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大名水・湧水水源地特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',

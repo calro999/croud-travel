@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '世界唯一の天然砂むし温泉「指宿温泉」＆薩摩の小京都「知覧武家屋敷」紅葉・鹿児島黒豚黒牛 | クラウドトラベルふるさと納税',
   description: '10月〜11月の爽快な南国秋風が心地よい薩摩半島・指宿温泉。波打ち際の天然砂むし風呂で全身デトックスし、知覧武家屋敷庭園の紅葉散策と極上鹿児島黒豚・黒毛和牛しゃぶしゃぶをふるさと納税で堪能。',
-  keywords: ['指宿・知覧・開聞岳・錦江湾 紅葉 観光', '鹿児島県 10月 11月 旅行', '指宿天然砂むし温泉＆知覧武家屋敷黒豚黒牛', 'ふるさと納税 温泉宿泊券', '指宿温泉 指宿ロイヤルホテル ～すべての女性へ美と健康を楽しむホテル～', '指宿温泉 いぶすき秀水園', '指宿温泉 指宿こころの宿', '楽天ふるさと納税 宿泊クーポン'],
+  keywords: ["鹿児島黒豚黒牛", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-ibusuki-sand-bath-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-ibusuki-sand-bath-autumn-stay/",
   },
   openGraph: {
     title: '世界唯一の天然砂むし温泉「指宿温泉」＆薩摩の小京都「知覧武家屋敷」紅葉・鹿児島黒豚黒牛',

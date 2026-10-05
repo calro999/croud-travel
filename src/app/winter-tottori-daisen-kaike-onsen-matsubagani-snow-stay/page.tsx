@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   description: "中国地方最高峰・伯耆大山が白銀に輝く11〜1月。ブナの原生林を巡るスノーシューや大神山神社奥宮への雪の初詣、そして日本海の海中から湧く美肌の「塩湯」皆生温泉。境港直送のブランドタグ付き松葉ガニのフルコースや鳥取和牛オレイン55、大山どりの極上グルメを堪能できる厳選名宿5選を徹底解説します。",
   keywords: '伯耆大山 冬 観光, 皆生温泉 ホテル, 皆生温泉 旅館, 松葉ガニ 皆生温泉, 大神山神社 初詣, 大山 スノーシュー, 皆生游月, 華水亭, 鳥取和牛 オレイン55, 12月 1月 鳥取 旅行',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-tottori-daisen-kaike-onsen-matsubagani-snow-stay'
+    canonical: "https://croud-travel.pages.dev/winter-tottori-daisen-kaike-onsen-matsubagani-snow-stay/"
   },
   openGraph: {
     title: "【11・12・1月鳥取】伯耆大山＆皆生温泉！白銀の「伯耆富士」絶景と大神山神社初詣・日本海の塩湯露天＆冬旬の松葉ガニ名宿5選",

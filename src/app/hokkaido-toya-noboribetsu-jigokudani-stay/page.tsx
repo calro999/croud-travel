@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/hokkaido-toya-noboribetsu-jigokudani-stay/" },
   title: "【北海道・洞爺湖＆登別】地獄谷・洞爺湖花火＆絶景温泉宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "北海道屈指の温泉天国！9種類の多彩な泉質が湧き出す「登別地獄谷」、半年間毎夜打ち上がる「洞爺湖ロングラン花火大会」、世界ジオパーク「有珠山・昭和新山」を徹底解説。レイクビュー露天風呂や老舗硫黄泉旅館を厳選。",
-  keywords: ["hokkaido-toya-noboribetsu-jigokudani-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["北海道", "洞爺湖", "登別", "地獄谷", "洞爺湖花火", "絶景温泉宿", "温泉宿"],
 };
 
 function loadSeasonalHotels() {

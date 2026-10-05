@@ -3,9 +3,10 @@ import Link from "next/link";
 import { REGIONS_MAP, PREFECTURES_DATA, getPrefectureByName } from "@/data/prefecturesData";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/prefectures/" },
   title: "【全国47都道府県】エリア別観光名所・絶景カフェ・お土産・地酒＆宿ハブ ｜ 日本全国・旅宿クラウド",
   description: "国内最大級の旅行ポータル！北海道から沖縄まで全47都道府県を細分化エリア（例: 金沢城・兼六園、ひがし茶屋街、能登・千枚田、和倉温泉など）に分け、観光名所・絶景カフェ・トレンドお土産・地酒日本酒・厳選ホテルルポをご案内。",
-  keywords: ["47都道府県", "観光ガイド", "エリア別見所", "絶景カフェ", "トレンドお土産", "銘酒地酒", "温泉宿", "ホテル予約"],
+  keywords: ["全国47都道府県", "エリア別観光名所", "絶景カフェ", "お土産", "地酒", "宿ハブ", "温泉宿"],
 };
 
 export default function PrefecturesIndexPage() {

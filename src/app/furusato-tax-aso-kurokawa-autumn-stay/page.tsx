@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '阿蘇外輪山と大観峰の黄金ススキ！黒川温泉入湯手形露天めぐり・熊本あか牛＆馬刺しを味わう秋の九州旅 | クラウドトラベルふるさと納税',
   description: '10月・11月の熊本・阿蘇＆黒川温泉特集！阿蘇カルデラと大観峰に広がる一面の黄金ススキ、田の原川沿いに佇む風情ある黒川温泉の入湯手形・露天風呂めぐり、赤身の旨みが詰まった熊本あか牛ステーキと特選馬刺しをふるさと納税で満喫。',
-  keywords: ['阿蘇・南小国・黒川温泉 紅葉 観光', '熊本県 10月 11月 旅行', '熊本・阿蘇＆黒川温泉特集', 'ふるさと納税 温泉宿泊券', '黒川温泉　湯峡の響き　優彩', '黒川温泉　旅館　美里', '黒川温泉　夢龍胆', '楽天ふるさと納税 宿泊クーポン'],
+  keywords: ["熊本あか牛", "馬刺しを味わう秋の九州旅", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-aso-kurokawa-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-aso-kurokawa-autumn-stay/",
   },
   openGraph: {
     title: '阿蘇外輪山と大観峰の黄金ススキ！黒川温泉入湯手形露天めぐり・熊本あか牛＆馬刺しを味わう秋の九州旅',

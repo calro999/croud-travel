@@ -4,6 +4,7 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/kyoto-travel-budget-how-many-nights/" },
   title: "【京都旅行 何泊がベスト？】1泊2日 vs 2泊3日 費用・満足度・モデルコース徹底比較",
   description: "京都旅行は1泊2日と2泊3日どっちがいい？日数ごとの費用・回れるエリア数・混雑回避テクニックを比較。交通費（新幹線/夜行バス）、宿泊費（町家/駅前ホテル）、食費（湯豆腐/抹茶パフェ）の内訳も。",
 };

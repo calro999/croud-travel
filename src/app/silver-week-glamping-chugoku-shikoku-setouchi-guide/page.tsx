@@ -5,18 +5,11 @@ import path from "path";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-chugoku-shikoku-setouchi-guide/" },
   title: "【瀬戸内・中四国シルバーウィーク グランピング】しまなみ海道の多島美＆オリーブ牛BBQ ｜ 日本全国・旅宿クラウド",
   description:
     "穏やかな海と島々を望むシーサイドグランピング！しまなみ海道サイクリングの拠点、小豆島や香川のオリーブ牛＆瀬戸内真鯛グリル、夕暮れのマジックアワーをテラスで過ごす絶景ステイ。",
-  keywords: [
-    "瀬戸内 グランピング シルバーウィーク",
-    "しまなみ海道 グランピング 生口島",
-    "香川 観音寺 グランピング 温泉",
-    "尾道 百島 離島 グランピング",
-    "高知 宿毛 リゾート 海一望",
-    "瀬戸内 シーサイド グランピング BBQ",
-    "中四国 連休 旅行 穴場"
-  ],
+  keywords: ["瀬戸内", "中四国シルバーウィーク", "グランピング", "しまなみ海道の多島美", "オリーブ牛BBQ", "温泉宿", "宿泊予約"],
 };
 
 interface Hotel {

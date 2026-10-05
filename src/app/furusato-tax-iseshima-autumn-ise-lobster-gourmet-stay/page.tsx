@@ -4,20 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '10月漁解禁！本場・伊勢志摩の活伊勢海老・あわび・松阪牛尽くし美食温泉旅館×ふるさと納税完全ガイド【2026年最新秋旅】鳥取本浦・相差 | 旅宿クラウド',
   description: '10月に待ちに待った伊勢エビ漁が解禁！本場・伊勢志摩鳥羽でプリップリの伊勢海老お造り・鬼殻焼き・伊勢海老汁を味わい尽くす！自家源泉「珠光の湯」を誇る「サン浦島 悠季の里」、老舗名門「戸田家」、女性に優しい美肌宿「鳥羽ビューホテル 花真珠」。極上の秋の味覚を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。',
-  keywords: [
-    'ふるさと納税 温泉',
-    'ふるさと納税 宿泊券',
-    'ふるさと納税 トラベルクーポン',
-    '伊勢志摩・鳥羽 10月解禁！秋の初物活伊勢海老まつり名宿特集',
-    '10月 旅行 おすすめ',
-    '11月 旅行 おすすめ',
-    '秋 旅行 温泉',
-    '紅葉 温泉旅館',
-    '楽天トラベル ふるさと納税',
-    '実質2000円 温泉'
-  ],
+  keywords: ["10月漁解禁！本場", "伊勢志摩の活伊勢海老", "あわび", "2026年最新秋旅", "鳥取本浦", "相差", "旅宿クラウド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-iseshima-autumn-ise-lobster-gourmet-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-iseshima-autumn-ise-lobster-gourmet-stay/"
   },
   openGraph: {
     title: '10月漁解禁！本場・伊勢志摩の活伊勢海老・あわび・松阪牛尽くし美食温泉旅館×ふるさと納税完全ガイド【2026年最新秋旅】鳥取本浦・相差',

@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "日本三大和牛「米沢牛」のとろける極上すき焼き・ステーキと、初夏の赤い宝石「佐藤錦」さくらんぼスイーツ！将棋の街・天童温泉や美肌のかみのやま温泉で、フルーツ王国山形の美食と名湯を堪能する旅。",
   keywords: "天童温泉 露天風呂 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/spring-yamagata-yonezawa-beef-cherry-stay',
+    canonical: "https://croud-travel.pages.dev/spring-yamagata-yonezawa-beef-cherry-stay/",
   },
   openGraph: {
     title: "【A5米沢牛すき焼き＆佐藤錦さくらんぼ】山形名物グルメと小野川・天童・かみのやま温泉宿5選",

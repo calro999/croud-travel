@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '袋田の滝の四段紅葉と奥久慈大子温泉！名物奥久慈軍鶏・常陸牛と秋蕎麦を味わう茨城の奥座敷旅 | クラウドトラベルふるさと納税',
   description: '10月・11月の茨城・奥久慈大子特集！日本三名瀑「袋田の滝」の岩肌を染める鮮やかな四段紅葉とライトアップ「大子来人」、美肌効果の高い奥久慈大子温泉・袋田温泉の渓流露天風呂、旨味際立つ奥久慈軍鶏鍋とA5常陸牛・常陸秋そばをふるさと納税で堪能。',
-  keywords: ['大子・袋田の滝・奥久慈温泉郷 紅葉 観光', '茨城県 10月 11月 旅行', '茨城・袋田の滝＆奥久慈温泉特集', 'ふるさと納税 温泉宿泊券', '袋田温泉　思い出浪漫館', '大子温泉　ホテル奥久慈館（伊東園ホテルズ）', '大子温泉　やみぞ', '楽天ふるさと納税 宿泊クーポン'],
+  keywords: ["クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-daigo-fukuroda-falls-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-daigo-fukuroda-falls-autumn-stay/",
   },
   openGraph: {
     title: '袋田の滝の四段紅葉と奥久慈大子温泉！名物奥久慈軍鶏・常陸牛と秋蕎麦を味わう茨城の奥座敷旅',

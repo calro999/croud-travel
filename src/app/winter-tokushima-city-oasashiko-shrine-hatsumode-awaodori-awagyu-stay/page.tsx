@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   description: "四国・阿波の歴史と冬の美食が息づく徳島市＆鳴門奥エリアの11〜1月冬旅特集。樹齢千年の大楠が厳かに迎える阿波国一の宮「大麻比古神社（おおあさひこじんじゃ）」の新春大初詣、眉山ロープウェイ山頂から見渡す冬の吉野川と紀伊水道の澄み渡る夜景パノラマ、地鶏シェア日本一を誇る極上「阿波尾鶏（あわおどり）」の熱々水炊き鍋やすき焼き、冬の荒波で身が引き締まった鳴門鯛と黒毛和牛「阿波牛」。徳島観光の拠点に最適な厳選ホテル・名宿5選を徹底解説します。",
   keywords: '大麻比古神社 初詣, 眉山 夜景 冬, 阿波尾鶏 水炊き 徳島, 鳴門鯛 冬, 阿波牛, JRホテルクレメント徳島, ホテルサンルート徳島, 徳島 冬 旅行',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-tokushima-city-oasashiko-shrine-hatsumode-awaodori-awagyu-stay'
+    canonical: "https://croud-travel.pages.dev/winter-tokushima-city-oasashiko-shrine-hatsumode-awaodori-awagyu-stay/"
   },
   openGraph: {
     title: "【11・12・1月徳島】大麻比古神社の大初詣＆眉山の冬夜景パノラマ！本場「阿波尾鶏」水炊き鍋と阿波牛名宿5選",

@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】神秘のカルデラ湖畔！十和田湖カヌー＆奥入瀬渓流散策と大自然リゾート5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！エメラルドグリーンの湖水と奥入瀬渓流の苔むす巨岩美！早朝レイクカヌーと十和田湖畔温泉・青森ヒバ風呂で大自然に抱かれる宿5選。',
-  keywords: ["十和田湖","奥入瀬渓流","レイクカヌー","青森ヒバ風呂","大自然リゾート","十和田温泉","楽天トラベル"],
+  keywords: ["2026年", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
     title: '【2026年】神秘のカルデラ湖畔！十和田湖カヌー＆奥入瀬渓流散策と大自然リゾート5選',
     description: '2026年最新！エメラルドグリーンの湖水と奥入瀬渓流の苔むす巨岩美！早朝レイクカヌーと十和田湖畔温泉・青森ヒバ風呂で大自然に抱かれる宿5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/super-panoramic-lake-towada-autumn-leaf-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/super-panoramic-lake-towada-autumn-leaf-stay',
+    canonical: "https://croud-travel.pages.dev/super-panoramic-lake-towada-autumn-leaf-stay/",
   },
 };
 

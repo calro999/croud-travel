@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/yamagata-zao-solo-retreat-onsen-stay/" },
   title: '【蔵王温泉ひとり旅・強酸性美肌の湯おこもり】大露天風呂・樹氷パノラマ・山形牛すき焼き！白濁硫黄泉に包まれる高原ソロリトリート厳選3宿',
   description: '日本屈指の強酸性硫黄泉・蔵王！豊かな白樺林に囲まれ野趣あふれる露天風呂が自慢の「森のホテル ヴァルトベルク」、手軽に源泉かけ流し温泉を満喫できるモダンな「BED\'n ONSEN HAMMOND」、山形牛料理と天然温泉が自慢の「ル・ベール蔵王」を楽天API最新データに基づき徹底比較。',
   keywords: '蔵王温泉 一人旅 宿,蔵王 ホテル 一人 温泉,森のホテル ヴァルトベルク,HAMMOND 蔵王,ル・ベール蔵王,蔵王 樹氷 温泉 ひとり旅',

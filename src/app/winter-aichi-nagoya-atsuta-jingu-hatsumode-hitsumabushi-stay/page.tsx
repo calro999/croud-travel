@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   description: "11月の晩秋から新春1月にかけて、年間約200万人以上の参拝客で賑わう東海随一の聖地「熱田神宮」。三種の神器の一つ「草薙神剣（くさなぎのみつるぎ）」を祀る熱田の杜は、巨木が茂る神聖な静寂に包まれます。織田信長が桶狭間の戦い出陣前に必勝祈願したことでも知られ、新春の開運・厄除け初詣スポットとして絶大な人気を誇ります。参拝の後は、熱田発祥の伝統を誇る名物「本場ひつまぶし」の香ばしい鰻、冬の寒さに染み渡る濃厚な「名古屋コーチン鍋」、そして名駅や栄の煌びやかな冬イルミネーションを満喫。上質なもてなしと美食に酔いしれる厳選ホテル5選を徹底紹介します。",
   keywords: '熱田神宮 初詣, 熱田神宮 ひつまぶし, 名古屋 冬 旅行, 名古屋コーチン 鍋, 名古屋マリオットアソシアホテル, ANAクラウンプラザホテルグランコート名古屋, 名古屋観光ホテル, ヒルトン名古屋, 三井ガーデンホテル名古屋プレミア, 11月 12月 1月 愛知 観光',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-aichi-nagoya-atsuta-jingu-hatsumode-hitsumabushi-stay'
+    canonical: "https://croud-travel.pages.dev/winter-aichi-nagoya-atsuta-jingu-hatsumode-hitsumabushi-stay/"
   },
   openGraph: {
     title: "【11・12・1月愛知】三種の神器を祀る「熱田神宮」新春初詣＆名物「本場ひつまぶし」・極上名古屋コーチン鍋を味わう名宿5選",

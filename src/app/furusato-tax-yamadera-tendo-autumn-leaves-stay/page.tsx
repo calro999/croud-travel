@@ -4,20 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '山寺立石寺の奇岩絶壁紅葉＆開運千段石段！天童温泉湯めぐり・山形牛芋煮宿×ふるさと納税完全ガイド【2026年最新秋旅】山形',
   description: '10月下旬〜11月上旬に松尾芭蕉ゆかりの奇岩霊場が錦秋に包まれる「山寺・宝珠山立石寺」。五大堂から望む紅葉の里山パノラマと、将棋の街・天童に湧く美肌の湯「松の湯」「天童ホテル」「ほほえみの宿 滝の湯」でとろける山形牛すき焼きステーキや本場山形芋煮を堪能。ふるさと納税トラベルクーポンで実質2,000円。',
-  keywords: [
-    "ふるさと納税 温泉",
-    "ふるさと納税 宿泊券",
-    "ふるさと納税 トラベルクーポン",
-    "山形・山寺立石寺＆天童温泉紅葉特集",
-    "10月 旅行 おすすめ",
-    "11月 旅行 おすすめ",
-    "秋 旅行 温泉",
-    "山寺 立石寺 紅葉 天童温泉 山形牛 芋煮 旅館",
-    "楽天トラベル ふるさと納税",
-    "実質2000円 温泉"
-],
+  keywords: ["山寺立石寺の奇岩絶壁紅葉", "開運千段石段！天童温泉湯めぐり", "山形牛芋煮宿×ふるさと納税", "2026年最新秋旅", "山形", "温泉宿", "宿泊予約"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-yamadera-tendo-autumn-leaves-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-yamadera-tendo-autumn-leaves-stay/"
   },
   openGraph: {
     title: '山寺立石寺の奇岩絶壁紅葉＆開運千段石段！天童温泉湯めぐり・山形牛芋煮宿×ふるさと納税完全ガイド【2026年最新秋旅】山形',

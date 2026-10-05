@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "国内初の星空保護区に認定された八重山諸島の圧倒的な星空！全室プライベートプールやテラスを備えたリゾートヴィラから、天の川や南十字星を独占鑑賞できる極上のアイランドステイ。",
   keywords: "石垣島 リゾート ホテル, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/traditional-okinawa-yaeyama-stargazing-stay',
+    canonical: "https://croud-travel.pages.dev/traditional-okinawa-yaeyama-stargazing-stay/",
   },
   openGraph: {
     title: "【日本屈指の満天星空＆南十字星】石垣・西表・小浜島！大自然とプライベートヴィラ極上宿5選",

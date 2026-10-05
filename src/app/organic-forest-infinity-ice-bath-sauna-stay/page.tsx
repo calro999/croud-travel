@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "水温10℃未満のグルシン（シングル）極冷水風呂と、100℃超の本格フィンランド薪サウナ！熱気と冷気の強烈なコントラストで一気にディープなトランス状態へ導く、全国屈指のハードサウナー特化型リゾートを厳選。",
   keywords: "サウナ 水風呂 温泉 ホテル, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/organic-forest-infinity-ice-bath-sauna-stay',
+    canonical: "https://croud-travel.pages.dev/organic-forest-infinity-ice-bath-sauna-stay/",
   },
   openGraph: {
     title: "【シングル氷水風呂＆森サウナ】極限の冷水とアロマロウリュで覚醒するととのい宿5選",

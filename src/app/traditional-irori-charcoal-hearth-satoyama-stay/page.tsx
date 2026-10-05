@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: 'パチパチ爆ぜる炭火の温もり！囲炉裏料理と清流川魚・ジビエを味わう里山名湯宿 ｜ 日本全国・旅宿クラウド',
   description: '奥飛騨・白川郷・秩父など古き良き日本の風情が残る囲炉裏のある名旅館。炭火でじっくり焼く岩魚や鮎、朴葉味噌、飛騨牛ステーキを堪能する休日。',
-  keywords: ["囲炉裏料理","炭火焼き","古民家宿","奥飛騨温泉郷","ジビエ料理","里山リゾート"],
+  keywords: ["ジビエを味わう里山名湯宿", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/traditional-irori-charcoal-hearth-satoyama-stay',
+    canonical: "https://croud-travel.pages.dev/traditional-irori-charcoal-hearth-satoyama-stay/",
   },
   openGraph: {
     title: 'パチパチ爆ぜる炭火の温もり！囲炉裏料理と清流川魚・ジビエを味わう里山名湯宿',

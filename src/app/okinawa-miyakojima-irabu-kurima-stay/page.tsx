@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/okinawa-miyakojima-irabu-kurima-stay/" },
   title: "【沖縄・宮古島＆伊良部島・来間島】宮古ブルー・与那覇前浜＆伊良部大橋・宮古牛宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "東洋一の白い砂浜と透き通る宮古ブルー完全特化！東洋一美しい「与那覇前浜ビーチ」、絶景の無料橋「伊良部大橋」、下地島空港17END、来間島竜宮城展望台、シギラセブンマイルズリゾート、最高級宮古牛＆宮古島産マンゴー宿を徹底解説。",
-  keywords: ["okinawa-miyakojima-irabu-kurima-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["沖縄", "宮古島", "伊良部島", "来間島", "宮古ブルー", "与那覇前浜", "伊良部大橋"],
 };
 
 function loadSeasonalHotels() {

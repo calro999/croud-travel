@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/kagoshima-sakurajima-kinko-bay-kurobuta-stay/" },
   title: "【鹿児島・桜島＆城山】活火山パノラマ・黒豚しゃぶ＆展望温泉宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "今なお噴煙を上げる世界的な活火山「桜島」、穏やかな錦江湾のオーシャンビュー、西郷隆盛最期の地「城山展望台」、最高峰ブランド「かごしま黒豚しゃぶしゃぶ」を徹底解説。桜島を望む展望露天風呂ホテルや名門温泉宿を厳選。",
-  keywords: ["kagoshima-sakurajima-kinko-bay-kurobuta-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["鹿児島", "桜島", "城山", "活火山パノラマ", "黒豚しゃぶ", "展望温泉宿", "温泉宿"],
 };
 
 function loadSeasonalHotels() {

@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-pagodas-scenic-stay/" },
   title: '日本三大名塔＆国宝五重塔の木造美と悠久の古都歴史宿×ふるさと納税完全ガイド【2026年最新】羽黒山・瑠璃光寺・醍醐寺',
   description: '幾星霜を超えて立ち続ける木造建築の最高峰！山形鶴岡「出羽三山・羽黒山五重塔」樹齢数百年の杉木立に佇む国宝塔と温海温泉萬国屋、山口「瑠璃光寺五重塔」大内文化の粋・桧皮葺き屋根の流麗な名塔と湯田温泉古稀庵、京都伏見「世界遺産・醍醐寺五重塔」京都最古の木造建造物とホテルエミオン京都。日本の美意識が結晶した国宝五重塔と名湯・会席ディナーを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大名塔・木造建築美特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',

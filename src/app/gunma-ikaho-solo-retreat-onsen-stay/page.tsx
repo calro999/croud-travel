@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/gunma-ikaho-solo-retreat-onsen-stay/" },
   title: '【伊香保温泉ひとり旅・石段街おこもり】黄金の湯・白銀の湯・屋上絶景露天！レトロな石段街で情緒と癒やしを味わう厳選3宿',
   description: '万葉の時代から愛される名湯・伊香保！屋上露天風呂から上州の山並みを一望する「和心の宿 大森」、石段街近くで家庭的な温もりと源泉を楽しめる「旅館 春日楼」、創業440余年を誇る名門「福一」を楽天トラベル公式API最新データに基づき徹底比較。',
   keywords: '伊香保温泉 一人旅 宿,伊香保 ホテル 一人,和心の宿大森,伊香保 福一,旅館春日楼,伊香保 石段街 ひとり旅',

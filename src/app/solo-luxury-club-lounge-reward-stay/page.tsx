@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/solo-luxury-club-lounge-reward-stay/" },
   title: '【一人ホテルステイ・ご褒美宿泊】クラブラウンジアクセス付き！東京＆横浜の高層ラグジュアリーホテル 厳選3選',
   description: '日頃頑張る自分へ、最高の非日常と休息をプレゼントする「大人のご褒美ソロホテルステイ」。東京ベイエリアを望むアートな「メズム東京」、地上180mの天空に浮かぶ「ザ・プリンスギャラリー 東京紀尾井町」、広大な日本庭園と複数のクラブラウンジが楽しめる「グランドプリンスホテル新高輪」を徹底特集。フードプレゼンテーションとカクテルタイムを満喫する週末ステイケーション。',
   keywords: '一人 ホテルステイ ご褒美,クラブラウンジ 一人旅,メズム東京 クラブラウンジ,プリンスギャラリー東京紀尾井町 一人,週末ステイケーション 東京 ラウンジ',

@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】雲の上の絶景ステイ！ロープウェイで行く山頂パノラマ露天風呂リゾート5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！標高1,000m超の雲上パノラマ！ロープウェイやゴンドラでアクセスする山頂展望露天風呂や雲海テラスが自慢の絶景山岳リゾートホテル5選。',
-  keywords: ["ロープウェイ","山頂ホテル","展望露天風呂","雲海テラス","山岳リゾート","絶景パノラマ","楽天トラベル"],
+  keywords: ["2026年", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
     title: '【2026年】雲の上の絶景ステイ！ロープウェイで行く山頂パノラマ露天風呂リゾート5選',
     description: '2026年最新！標高1,000m超の雲上パノラマ！ロープウェイやゴンドラでアクセスする山頂展望露天風呂や雲海テラスが自慢の絶景山岳リゾートホテル5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/super-panoramic-cable-car-ropeway-mountain-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/super-panoramic-cable-car-ropeway-mountain-stay',
+    canonical: "https://croud-travel.pages.dev/super-panoramic-cable-car-ropeway-mountain-stay/",
   },
 };
 

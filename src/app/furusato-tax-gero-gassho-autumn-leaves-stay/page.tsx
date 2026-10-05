@@ -4,20 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '下呂温泉合掌村のもみじライトアップ＆美肌の日本三名泉！飛騨牛づくし宿×ふるさと納税完全ガイド【2026年最新秋旅】岐阜',
   description: '10月下旬〜11月中旬に合掌造り民家とモミジが幻想的に照らされる「下呂温泉合掌村 紅葉ライトアップ」。日本三名泉に数えられるpH9.2のトロトロ美肌温泉「菊半旅館」「旅館ますや」「小川屋」で名物100帖空間の畳風呂や飛騨川を望む露天風呂、最高峰A5ランク飛騨牛のすき焼き・炙り握りを堪能。ふるさと納税で実質2,000円。',
-  keywords: [
-    "ふるさと納税 温泉",
-    "ふるさと納税 宿泊券",
-    "ふるさと納税 トラベルクーポン",
-    "岐阜・下呂温泉紅葉＆合掌村ライトアップ特集",
-    "10月 旅行 おすすめ",
-    "11月 旅行 おすすめ",
-    "秋 旅行 温泉",
-    "下呂温泉 合掌村 紅葉 ライトアップ 飛騨牛 旅館",
-    "楽天トラベル ふるさと納税",
-    "実質2000円 温泉"
-],
+  keywords: ["2026年最新秋旅", "岐阜", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-gero-gassho-autumn-leaves-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-gero-gassho-autumn-leaves-stay/"
   },
   openGraph: {
     title: '下呂温泉合掌村のもみじライトアップ＆美肌の日本三名泉！飛騨牛づくし宿×ふるさと納税完全ガイド【2026年最新秋旅】岐阜',

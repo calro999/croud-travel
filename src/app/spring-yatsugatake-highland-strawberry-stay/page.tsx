@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】甘い香りに満ちる春の高原！完熟いちご狩り＆摘みたて苺パフェと八ヶ岳温泉宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！八ヶ岳・清里高原のプレミアム完熟いちご狩り食べ放題！ホテル特製あまおう・紅ほっぺパフェと南アルプス連峰を望む高原露天リゾート5選。',
-  keywords: ["八ヶ岳いちご狩り","いちごスイーツ","清里高原","八ヶ岳温泉","高原リゾート","南アルプス絶景","楽天トラベル"],
+  keywords: ["2026年", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
     title: '【2026年】甘い香りに満ちる春の高原！完熟いちご狩り＆摘みたて苺パフェと八ヶ岳温泉宿5選',
     description: '2026年最新！八ヶ岳・清里高原のプレミアム完熟いちご狩り食べ放題！ホテル特製あまおう・紅ほっぺパフェと南アルプス連峰を望む高原露天リゾート5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/spring-yatsugatake-highland-strawberry-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/spring-yatsugatake-highland-strawberry-stay',
+    canonical: "https://croud-travel.pages.dev/spring-yatsugatake-highland-strawberry-stay/",
   },
 };
 

@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '羽黒山杉並木紅葉と湯野浜温泉の夕日！秋の庄内味覚（新米つや姫・寒鱈・庄内豚）と開運温泉旅 | クラウドトラベルふるさと納税',
   description: '10月・11月の山形・庄内秋旅！出羽三山・羽黒山の国宝五重塔と黄金に染まる2446段の石段杉並木、日本海に沈む夕日が絶景の湯野浜温泉、新米つや姫や庄内豚を味わうふるさと納税トラベルガイド。',
-  keywords: ['鶴岡・羽黒山・湯野浜温泉 紅葉 観光', '山形県 10月 11月 旅行', '山形・羽黒山＆湯野浜温泉特集', 'ふるさと納税 温泉宿泊券', '湯野浜温泉　游水亭　いさごや', '湯野浜温泉　竹屋ホテル（鶴岡・酒田）', '湯野浜温泉　源泉付客室　浜泉荘', '楽天ふるさと納税 宿泊クーポン'],
+  keywords: ["寒鱈", "庄内豚）と開運温泉旅", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-hagurosan-yunohama-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-hagurosan-yunohama-autumn-stay/",
   },
   openGraph: {
     title: '羽黒山杉並木紅葉と湯野浜温泉の夕日！秋の庄内味覚（新米つや姫・寒鱈・庄内豚）と開運温泉旅',

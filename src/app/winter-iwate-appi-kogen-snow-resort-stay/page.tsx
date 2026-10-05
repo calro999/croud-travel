@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "12月上旬から東北屈指の極上シルキースノーが楽しめる「安比（あっぴ）高原スキー場」！全21コース・総滑走距離43kmの広大なゲレンデを満喫した後は、白樺林に囲まれた天然温泉大浴場と前沢牛ディナーに寛ぐ極上リゾート。",
   keywords: "安比高原 ホテル 温泉, 11月旅行, 12月旅行, 冬休み, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/winter-iwate-appi-kogen-snow-resort-stay',
+    canonical: "https://croud-travel.pages.dev/winter-iwate-appi-kogen-snow-resort-stay/",
   },
   openGraph: {
     title: "【12月オープン！安比高原シルキースノー】東北随一のビッグゲレンデと白樺美肌温泉宿5選",

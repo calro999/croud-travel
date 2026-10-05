@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '谷川岳の紅葉ロープウェイとみなかみ十八湯！利根川源流の渓谷美と上州牛・舞茸を味わう秋の群馬旅 | クラウドトラベルふるさと納税',
   description: '10月・11月の群馬・水上（みなかみ）特集！谷川岳天神平ロープウェイから見渡す一面の三段紅葉、利根川源流の諏訪峡・水上峡、水上温泉郷（みなかみ十八湯）の肌に優しい美肌名湯、上州牛や利根の舞茸をふるさと納税で巡る秋旅。',
-  keywords: ['みなかみ・水上温泉・谷川岳 紅葉 観光', '群馬県 10月 11月 旅行', '群馬・水上温泉＆谷川岳特集', 'ふるさと納税 温泉宿泊券', '水上温泉　ペンション　朝ねぼう', '水上温泉　あらたし　みなかみ', '水上温泉　おやど　松葉屋', '楽天ふるさと納税 宿泊クーポン'],
+  keywords: ["舞茸を味わう秋の群馬旅", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-minakami-tanigawa-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-minakami-tanigawa-autumn-stay/",
   },
   openGraph: {
     title: '谷川岳の紅葉ロープウェイとみなかみ十八湯！利根川源流の渓谷美と上州牛・舞茸を味わう秋の群馬旅',

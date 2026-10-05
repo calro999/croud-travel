@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '【2026年】ゲレンデ直結スキーイン・スキーアウト！極上パウダースノーと展望温泉リゾート5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！ニセコ・白馬・志賀高原など、ホテルから直接ゲレンデへ滑り出せるスキーイン・スキーアウト対応のラグジュアリー温泉ホテル5選。',
-  keywords: ["スキーインスキーアウト","ゲレンデ直結","パウダースノー","スノーリゾート","冬旅温泉","楽天トラベル"],
+  keywords: ["2026年", "ゲレンデ直結スキーイン", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/ski-in-ski-out-powder-snow-luxury-resort',
+    canonical: "https://croud-travel.pages.dev/ski-in-ski-out-powder-snow-luxury-resort/",
   },
   openGraph: {
     title: '【2026年】ゲレンデ直結スキーイン・スキーアウト！極上パウダースノーと展望温泉リゾート5選',

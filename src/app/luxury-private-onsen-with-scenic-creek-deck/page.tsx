@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "客室の専用ウッドデッキから清流を間近に望み、せせらぎの音と澄んだ空気に包まれるプライベート露天風呂。誰にも邪魔されない離れの客室で、大自然のマイナスイオンに癒やされる贅沢な休日を。",
   keywords: "渓流 露天風呂 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/luxury-private-onsen-with-scenic-creek-deck',
+    canonical: "https://croud-travel.pages.dev/luxury-private-onsen-with-scenic-creek-deck/",
   },
   openGraph: {
     title: "【清流せせらぎデッキ】川の音を間近に聴くプライベート露天風呂！癒やしの渓流隠れ宿5選",

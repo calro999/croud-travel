@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】大空を舞う感動体験！パラグライダー＆大パノラマ展望露天リゾート5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！白馬・朝霧高原・阿蘇などで空を飛ぶパラグライダー体験！雄大な山並みを見渡す展望露天風呂と爽快アクティビティが魅力の宿5選。',
-  keywords: ["パラグライダー","スカイアクティビティ","パノラマ露天風呂","雲海ビュー","高原リゾート","楽天トラベル"],
+  keywords: ["2026年", "大パノラマ展望露天リゾート5選", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
     title: '【2026年】大空を舞う感動体験！パラグライダー＆大パノラマ展望露天リゾート5選',
     description: '2026年最新！白馬・朝霧高原・阿蘇などで空を飛ぶパラグライダー体験！雄大な山並みを見渡す展望露天風呂と爽快アクティビティが魅力の宿5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/super-panoramic-paragliding-sky-resort-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/super-panoramic-paragliding-sky-resort-stay',
+    canonical: "https://croud-travel.pages.dev/super-panoramic-paragliding-sky-resort-stay/",
   },
 };
 

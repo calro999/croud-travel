@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "ぷりっぷりの活伊勢海老お造りと、磯の香り豊かで柔らかな極上あわび踊り焼き！伊勢神宮参拝と合わせて訪れたい、鳥羽・志摩・賢島のオーシャンビュー絶景露天風呂と最高峰の海鮮美食旅館を厳選紹介。",
   keywords: "鳥羽 温泉 伊勢海老 宿, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/traditional-mie-ise-ebi-abalone-gourmet-stay',
+    canonical: "https://croud-travel.pages.dev/traditional-mie-ise-ebi-abalone-gourmet-stay/",
   },
   openGraph: {
     title: "【伊勢志摩の王道美食】活伊勢海老お造り＆極上あわび踊り焼き！鳥羽・賢島オーシャンビュー温泉宿5選",

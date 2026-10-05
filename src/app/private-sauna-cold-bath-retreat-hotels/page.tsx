@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '澄んだ冬空の下で極上の外気浴！完全貸切プライベートサウナ＆天然水風呂完備ホテル ｜ 日本全国・旅宿クラウド',
   description: '富士山麓・野尻湖・知床など澄み切った冷気の中で最高のととのい体験。本格薪ストーブ・バレルサウナ・富士の伏流水風呂を備えた極上サウナ宿。',
-  keywords: ["サウナ","バレルサウナ","ロウリュ","ととのい","富士山","プライベートサウナ"],
+  keywords: ["天然水風呂完備ホテル", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/private-sauna-cold-bath-retreat-hotels',
+    canonical: "https://croud-travel.pages.dev/private-sauna-cold-bath-retreat-hotels/",
   },
   openGraph: {
     title: '澄んだ冬空の下で極上の外気浴！完全貸切プライベートサウナ＆天然水風呂完備ホテル',

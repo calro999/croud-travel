@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/tochigi-shiobara-solo-retreat-valley-onsen-stay/" },
   title: '【那須塩原・塩原温泉郷ひとり旅・十一湯渓谷おこもり】開湯1200年名瀑露天・乳白色硫黄泉・文豪の愛した湯治場！箒川渓谷美の秘湯厳選3宿',
   description: '11の温泉地が箒川沿いに連なる塩原十一湯！源泉かけ流しの極上泉と手作りの山海料理が口コミ★4.7超の「山口屋旅館」、奥塩原新湯の濃厚な白濁硫黄泉を堪能できる「やまの宿 下藤屋」、箒川の渓流を見下ろす野趣あふれる渓谷露天風呂が有名な「湯守田中屋」を楽天API最新データに基づき徹底比較。',
   keywords: '塩原温泉 一人旅 宿,塩原温泉 ホテル 一人,山口屋旅館 塩原,やまの宿下藤屋,湯守田中屋,塩原温泉 ひとり旅 おこもり',

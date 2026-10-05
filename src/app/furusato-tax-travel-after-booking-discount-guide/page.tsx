@@ -4,6 +4,7 @@ import Link from 'next/link';
 import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-travel-after-booking-discount-guide/" },
   title: '【予約済みでも間に合う】楽天トラベル「ふるさと納税クーポンあとから適用」完全攻略ガイド | クラウドトラベル',
   description: '「もう旅行を予約しちゃったから使えない…」は間違い！楽天トラベルなら予約完了後でもチェックイン前日までふるさと納税クーポンを適用可能。箱根・富士河口湖・京都の実例とともに分かりやすく解説。',
   openGraph: {

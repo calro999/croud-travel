@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '全国の銘酒・純米大吟醸を利き酒！地酒BAR＆日本酒ペアリングが自慢の温泉旅館 ｜ 日本全国・旅宿クラウド',
   description: '越後湯沢・赤湯・会津など酒どころに佇む日本酒好き垂涎の温泉宿。常時数十種類の地酒サーバーやプレミアム銘酒飲み比べ、郷土会席ペアリング。',
-  keywords: ["日本酒ペアリング","地酒飲み比べ","酒蔵の宿","越後湯沢","利き酒バー","温泉旅館"],
+  keywords: ["全国の銘酒", "純米大吟醸を利き酒！地酒BAR", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/sake-bar-free-flow-tasting-onsen-stay',
+    canonical: "https://croud-travel.pages.dev/sake-bar-free-flow-tasting-onsen-stay/",
   },
   openGraph: {
     title: '全国の銘酒・純米大吟醸を利き酒！地酒BAR＆日本酒ペアリングが自慢の温泉旅館',

@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "12月上旬から順次シーズンインする日本屈指のビッグゲレンデ・白馬八方尾根＆エイブル白馬五竜！極上のパウダースノーで爽快クルージングを楽しんだ後は、日本屈指の強アルカリ性美肌湯・白馬八方温泉と信州グルメを満喫。",
   keywords: "白馬 温泉 リゾート ホテル, 11月旅行, 12月旅行, 冬休み, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/winter-hakuba-snow-resort-ski-stay',
+    canonical: "https://croud-travel.pages.dev/winter-hakuba-snow-resort-ski-stay/",
   },
   openGraph: {
     title: "【12月白馬スキー場オープン！北アルプス雪山リゾート】八方尾根＆白馬八方美肌温泉宿5選",

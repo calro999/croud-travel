@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/hyogo-kinosaki-onsen-seven-baths-crab-stay/" },
   title: "【兵庫・城崎温泉＆円山川】七つの外湯めぐり・浴衣柳並木＆松葉ガニ宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "1300年の名湯「城崎温泉」の七つの外湯めぐりと大谿川の柳並木、津居山港・柴山港直送の本松葉ガニ懐石、円山川のコウノトリ湿地を巡る兵庫・但馬特化ガイド。伝統木造旅館や川沿いリゾートを厳選。",
-  keywords: ["hyogo-kinosaki-onsen-seven-baths-crab-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["兵庫", "城崎温泉", "円山川", "七つの外湯めぐり", "浴衣柳並木", "松葉ガニ宿", "温泉宿"],
 };
 
 function loadSeasonalHotels() {

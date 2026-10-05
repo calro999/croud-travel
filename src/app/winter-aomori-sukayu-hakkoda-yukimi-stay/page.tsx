@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "日本有数の豪雪地帯・八甲田山に佇む国民保養温泉地第1号「酸ヶ湯（すかゆ）温泉」！160畳の総ヒバ造り大浴場「ヒバ千人風呂」の白濁硫黄泉と、12月から凍り始める奥入瀬渓流の氷瀑を鑑賞する本物の雪国秘湯旅。",
   keywords: "八甲田 温泉 旅館, 11月旅行, 12月旅行, 冬休み, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/winter-aomori-sukayu-hakkoda-yukimi-stay',
+    canonical: "https://croud-travel.pages.dev/winter-aomori-sukayu-hakkoda-yukimi-stay/",
   },
   openGraph: {
     title: "【12月豪雪の秘湯！八甲田酸ヶ湯温泉＆奥入瀬】千人風呂と幻想的な氷瀑・雪見露天宿5選",

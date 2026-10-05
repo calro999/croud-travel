@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '宇宙の神秘と満天の天の川！天体望遠鏡＆星空デッキ完備の星空リゾートホテル ｜ 日本全国・旅宿クラウド',
   description: '阿智村・八ヶ岳・鳥取大山・石垣島など日本屈指の満天の星空を誇る絶景宿。本格天体望遠鏡によるスターウォッチングや星空露天風呂で神秘の夜を体験。',
-  keywords: ["星空リゾート","天体観測","阿智村","八ヶ岳","星空露天風呂","星空保護区"],
+  keywords: ["温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/dark-sky-starry-observatory-resort-stay',
+    canonical: "https://croud-travel.pages.dev/dark-sky-starry-observatory-resort-stay/",
   },
   openGraph: {
     title: '宇宙の神秘と満天の天の川！天体望遠鏡＆星空デッキ完備の星空リゾートホテル',

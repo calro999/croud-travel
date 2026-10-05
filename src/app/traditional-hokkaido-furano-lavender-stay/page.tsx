@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】紫の絨毯が広がる夏の富良野！ラベンダー畑パノラマ＆ふらの和牛ディナーの宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！富良野・美瑛の広大なラベンダー畑とパッチワークの丘！十勝岳連峰を一望する展望露天風呂とブランドふらの和牛を堪能するリゾートホテル5選。',
-  keywords: ["富良野ラベンダー","美瑛の丘","ふらの和牛","白銀温泉","十勝岳温泉","北海道リゾート","楽天トラベル"],
+  keywords: ["2026年", "ふらの和牛ディナーの宿5選", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
     title: '【2026年】紫の絨毯が広がる夏の富良野！ラベンダー畑パノラマ＆ふらの和牛ディナーの宿5選',
     description: '2026年最新！富良野・美瑛の広大なラベンダー畑とパッチワークの丘！十勝岳連峰を一望する展望露天風呂とブランドふらの和牛を堪能するリゾートホテル5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/traditional-hokkaido-furano-lavender-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/traditional-hokkaido-furano-lavender-stay',
+    canonical: "https://croud-travel.pages.dev/traditional-hokkaido-furano-lavender-stay/",
   },
 };
 

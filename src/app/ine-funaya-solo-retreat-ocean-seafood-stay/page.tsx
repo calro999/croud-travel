@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/ine-funaya-solo-retreat-ocean-seafood-stay/" },
   title: '【伊根の舟屋・宮津ひとり旅】海に浮かぶ重要伝統的建造物群・奥伊根温泉客室露天・旬の寒ブリ地魚！日本海最深部の静謐おこもり厳選3宿',
   description: '天橋立駅から丹海バスで約50分！全室に日本海を望む源泉かけ流し露天風呂を備える至高の宿「油屋別館 和亭」、高台から伊根湾の絶景を見下ろす本館「奥伊根温泉 油屋本館」、宮津湾のオーシャンビューとリゾートスパを誇る「メルキュール京都宮津リゾート＆スパ」を徹底比較。',
   keywords: '伊根の舟屋 一人旅 宿,油屋別館 和亭 宿泊,奥伊根温泉 油屋本館,メルキュール京都宮津,伊根 温泉 おこもり 寒ブリ',

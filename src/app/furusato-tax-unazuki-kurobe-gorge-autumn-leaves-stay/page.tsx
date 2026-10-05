@@ -4,20 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '黒部峡谷トロッコ電車の紅葉パノラマ＆名湯・宇奈月温泉！峡谷露天風呂宿×ふるさと納税完全ガイド【2026年最新秋旅】富山',
   description: '10月中旬〜11月中旬に息をのむ絶景が広がる日本屈指の大峡谷「黒部峡谷」。オープン型トロッコ電車で巡る赤と黄色の断崖絶壁パノラマと、黒部川上流の清流を望む「宇奈月温泉の老舗旅館 延対寺荘」「ホテル黒部」「ＴＯＧＥＮ 黒部」で黒部名水ポークや富山湾の紅ズワイガニ・白えびを堪能。ふるさと納税で実質2,000円。',
-  keywords: [
-    "ふるさと納税 温泉",
-    "ふるさと納税 宿泊券",
-    "ふるさと納税 トラベルクーポン",
-    "富山・宇奈月温泉＆黒部峡谷トロッコ特集",
-    "10月 旅行 おすすめ",
-    "11月 旅行 おすすめ",
-    "秋 旅行 温泉",
-    "黒部峡谷 紅葉 トロッコ 旅館",
-    "楽天トラベル ふるさと納税",
-    "実質2000円 温泉"
-],
+  keywords: ["名湯", "2026年最新秋旅", "富山", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-unazuki-kurobe-gorge-autumn-leaves-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-unazuki-kurobe-gorge-autumn-leaves-stay/"
   },
   openGraph: {
     title: '黒部峡谷トロッコ電車の紅葉パノラマ＆名湯・宇奈月温泉！峡谷露天風呂宿×ふるさと納税完全ガイド【2026年最新秋旅】富山',

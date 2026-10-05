@@ -4,17 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/kusatsu-onsen-packing-mistakes-silver-guide/" },
   title: "【草津温泉で後悔したことワースト5】銀製品が真っ黒に変色！？強酸性泉の注意点＆必須持ち物チェックリスト ｜ 日本全国・旅宿クラウド",
   description: "草津温泉に行く前に絶対読んでほしいリアル失敗談！pH2.1の強酸性泉でシルバーアクセサリーが変色する事故、湯あたり対策、白いタオルが黄色く染まる問題、持っていくべき便利グッズ完全リスト。",
-  keywords: [
-    "草津温泉 持ち物",
-    "草津温泉 失敗談",
-    "草津温泉 シルバー 変色",
-    "草津温泉 服装",
-    "草津温泉 湯あたり",
-    "草津温泉 便利グッズ",
-    "草津温泉 宿泊"
-  ],
+  keywords: ["必須持ち物チェックリスト", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
 };
 
 interface Hotel {

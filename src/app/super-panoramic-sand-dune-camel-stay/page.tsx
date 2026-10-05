@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】風紋が描く黄金の大地！鳥取砂丘サンライズ＆日本海極上松葉ガニ・海鮮の宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！鳥取砂丘の神秘的な風紋と海に沈む夕日！日本海のブランド活松葉ガニ・天然岩牡蠣会席と三朝・皆生・鳥取温泉の名湯旅館5選。',
-  keywords: ["鳥取砂丘","松葉ガニ","鳥取温泉","皆生温泉","三朝温泉","山陰海鮮","楽天トラベル"],
+  keywords: ["2026年", "日本海極上松葉ガニ", "海鮮の宿5選", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約"],
   openGraph: {
     title: '【2026年】風紋が描く黄金の大地！鳥取砂丘サンライズ＆日本海極上松葉ガニ・海鮮の宿5選',
     description: '2026年最新！鳥取砂丘の神秘的な風紋と海に沈む夕日！日本海のブランド活松葉ガニ・天然岩牡蠣会席と三朝・皆生・鳥取温泉の名湯旅館5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/super-panoramic-sand-dune-camel-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/super-panoramic-sand-dune-camel-stay',
+    canonical: "https://croud-travel.pages.dev/super-panoramic-sand-dune-camel-stay/",
   },
 };
 

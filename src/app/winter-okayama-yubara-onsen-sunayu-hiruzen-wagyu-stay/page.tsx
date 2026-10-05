@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "11月から12月にかけて、岡山県北部の旭川上流に佇む名湯「湯原温泉（ゆばらおんせん）」は、美作三湯の筆頭として、また全国露天風呂番付で「西の横綱」に輝く名物露天風呂「砂湯」を中心に、初冬の澄んだ渓谷美と情緒あふれる湯けむりに包まれます。川底から毎分6,000リットルもの湯が自噴するアルカリ性単純温泉は、pH9.3という全国屈指の高アルカリ度を誇り、肌に吸い付くようなとろみで古い角質を落とす奇跡の「美肌の湯」。初冬の澄み渡る寒気の中、旭川のせせらぎを聞きながら露天風呂に浸かり、夕食には近隣の蒜山高原が育む極上の「蒜山ジャージー牛」や冬の滋味「天然猪鍋（ぼたん鍋）」を味わう厳選名旅館・ホテル5選を徹底解説。",
   keywords: '湯原温泉 宿泊, 岡山 温泉 11月 12月, 湯原温泉 八景, 我無らん, ゆばらの宿 米屋, 菊之湯, 輝乃湯, 湯原 砂湯, 蒜山ジャージー牛, 美作三湯 宿',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-okayama-yubara-onsen-sunayu-hiruzen-wagyu-stay'
+    canonical: "https://croud-travel.pages.dev/winter-okayama-yubara-onsen-sunayu-hiruzen-wagyu-stay/"
   },
   openGraph: {
     title: "【11・12月岡山・湯原温泉の初冬渓谷美と美作三湯・名物砂湯】pH9.3アルカリ美肌天然自噴泉＆蒜山ジャージー牛・冬ジビエ会席の宿5選",

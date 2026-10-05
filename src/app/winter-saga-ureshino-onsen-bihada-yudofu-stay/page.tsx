@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "斐乃上温泉、喜連川温泉と並び「日本三大美肌の湯」として名高い佐賀県・嬉野温泉。11月から12月にかけて恋しくなる冬の名物「とろける温泉湯豆腐」、嬉野茶の茶香炉が漂う風情豊かな温泉街、とろみのある重曹泉の露天風呂、そして最高峰A5ランク佐賀牛を心ゆくまで堪能する名宿ガイド。",
   keywords: '嬉野温泉 宿泊 11月 12月, 嬉野温泉湯豆腐 旅館, 和多屋別荘 嬉野, 大正屋 嬉野温泉, 茶心の宿 和楽園, 椎葉山荘 嬉野, 日本三大美肌の湯 佐賀, 佐賀牛 嬉野温泉',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-saga-ureshino-onsen-bihada-yudofu-stay',
+    canonical: "https://croud-travel.pages.dev/winter-saga-ureshino-onsen-bihada-yudofu-stay/",
   },
   openGraph: {
     title: "【11・12月嬉野温泉の日本三大美肌湯と冬情緒】嬉野茶の香りと名物とろける温泉湯豆腐＆極上佐賀牛の宿5選",

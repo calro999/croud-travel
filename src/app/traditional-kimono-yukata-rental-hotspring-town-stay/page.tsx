@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '【2026年】選べる色浴衣とカランコロン下駄歩き！風情ある温泉街湯めぐりが楽しい名宿5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！城崎温泉・草津・道後・黒川など、数十種類の色浴衣レンタルや外湯めぐりパス付きで街歩きが満喫できる女子旅・カップルおすすめ宿5選。',
-  keywords: ["色浴衣","湯めぐり","城崎温泉","草津温泉","温泉街歩き","楽天トラベル"],
+  keywords: ["2026年", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/traditional-kimono-yukata-rental-hotspring-town-stay',
+    canonical: "https://croud-travel.pages.dev/traditional-kimono-yukata-rental-hotspring-town-stay/",
   },
   openGraph: {
     title: '【2026年】選べる色浴衣とカランコロン下駄歩き！風情ある温泉街湯めぐりが楽しい名宿5選',

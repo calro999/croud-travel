@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/drive-touring-garage-onsen-stay/" },
   title: "【愛車・ドライブ旅の温泉宿】絶景ワインディング・屋内ガレージ＆EV充電 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "車好き・ツーリング愛好家完全特化！ビーナスライン・伊豆スカイライン・阿蘇パノラマライン直結、大切な愛車・バイクを守る屋内ガレージ＆屋根付き駐車場、EV充電スタンド完備、絶景ワインディングと温泉宿を徹底解説。",
-  keywords: ["drive-touring-garage-onsen-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["愛車", "ドライブ旅の温泉宿", "絶景ワインディング", "屋内ガレージ", "EV充電", "温泉宿", "宿泊予約"],
 };
 
 function loadSeasonalHotels() {

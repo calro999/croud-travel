@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/nagasaki-huistenbosch-sasebo-stay/" },
   title: "【長崎・ハウステンボス＆佐世保】ヨーロッパ街並み・世界最大イルミ＆佐世保バーガー極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "日本一広いテーマパーク・長崎ハウステンボスエリア完全特化！中世オランダの街並みと運河、世界最大1300万球のイルミネーション、直営オフィシャルホテル、九十九島パノラマと本場佐世保バーガー・レモンステーキ宿を徹底解説。",
-  keywords: ["nagasaki-huistenbosch-sasebo-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["長崎", "ハウステンボス", "佐世保", "ヨーロッパ街並み", "世界最大イルミ", "佐世保バーガー極上宿", "温泉宿"],
 };
 
 function loadSeasonalHotels() {

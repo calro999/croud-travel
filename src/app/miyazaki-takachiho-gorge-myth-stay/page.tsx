@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/miyazaki-takachiho-gorge-myth-stay/" },
   title: "【宮崎・高千穂峡】真名井の滝・高千穂神楽＆天安河原・宮崎牛極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "神話のふるさと宮崎・高千穂エリア完全特化！柱状節理の断崖絶壁と「真名井の滝」手漕ぎボート、夜毎奉納される「高千穂夜神楽」、天岩戸神社・天安河原、極上宮崎牛炭火焼きと隠れ家温泉宿を徹底解説。",
-  keywords: ["miyazaki-takachiho-gorge-myth-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["宮崎", "高千穂峡", "真名井の滝", "高千穂神楽", "天安河原", "宮崎牛極上宿", "温泉宿"],
 };
 
 function loadSeasonalHotels() {

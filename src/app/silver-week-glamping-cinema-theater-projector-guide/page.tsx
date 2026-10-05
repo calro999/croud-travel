@@ -5,19 +5,11 @@ import path from "path";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-cinema-theater-projector-guide/" },
   title: "【プロジェクター・巨大シアター付きグランピング】テント内で映画鑑賞＆推し活！夜長を楽しむシアターステイ ｜ 日本全国・旅宿クラウド",
   description:
     "ドームテントの天井や大画面スクリーンに映像を投影！100インチ超えの大迫力プロジェクター、高音質スピーカー完備、動画配信サービス見放題で楽しむ夜の映画祭＆推し活お泊まり会。",
-  keywords: [
-    "プロジェクター付き グランピング",
-    "シアター グランピング",
-    "ドームテント プロジェクター",
-    "推し活 グランピング",
-    "グランピング 女子会 映画",
-    "ポップインアラジン キャンプ",
-    "大画面 映画鑑賞 テント",
-    "秋の夜長 シアターステイ"
-  ],
+  keywords: ["プロジェクター", "巨大シアター付きグランピング", "テント内で映画鑑賞", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
 
 interface Hotel {

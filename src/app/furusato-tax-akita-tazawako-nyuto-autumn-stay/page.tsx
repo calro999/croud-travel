@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '秋田・乳頭温泉郷の秘湯紅葉＆田沢湖！乳白色硫黄泉の湯めぐりと名物きりたんぽ・比内地鶏 | クラウドトラベルふるさと納税',
   description: '10月・11月の秋田・田沢湖＆乳頭温泉郷特集！ブナの原生林が黄金色に輝く乳頭温泉郷の七名湯めぐりと乳白色の濃厚硫黄泉、日本一深い瑠璃色の田沢湖の水鏡紅葉、炭火焼きりたんぽ鍋や比内地鶏をふるさと納税トラベルクーポンでお得に楽しむみちのく秘湯旅。',
-  keywords: ["乳頭温泉郷・田沢湖・抱返り渓谷 紅葉 観光","秋田県 10月 11月 旅行","乳頭温泉郷秘湯紅葉＆秋田比内地鶏きりたんぽ","ふるさと納税 温泉宿泊券","天然温泉　田沢湖レイクリゾート","亀の井ホテル　田沢湖","四季彩り　秋田づくし　湯瀬ホテル","楽天ふるさと納税 宿泊クーポン"],
+  keywords: ["秋田", "乳頭温泉郷の秘湯紅葉", "比内地鶏", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-akita-tazawako-nyuto-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-akita-tazawako-nyuto-autumn-stay/",
   },
   openGraph: {
     title: '秋田・乳頭温泉郷の秘湯紅葉＆田沢湖！乳白色硫黄泉の湯めぐりと名物きりたんぽ・比内地鶏',

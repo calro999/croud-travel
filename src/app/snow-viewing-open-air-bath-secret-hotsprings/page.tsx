@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '白銀の世界に抱かれる至福！雪見露天風呂と濁り湯が自慢の極上秘湯宿 ｜ 日本全国・旅宿クラウド',
   description: '乳頭温泉・万座・奥飛騨など一面の白銀世界を望む雪見露天風呂と濃厚なにごり湯が評判の秘湯旅館を徹底ガイド。冬ならではの絶景温泉ステイ。',
-  keywords: ["雪見風呂","露天風呂","秘湯","濁り湯","万座温泉","冬温泉"],
+  keywords: ["温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/snow-viewing-open-air-bath-secret-hotsprings',
+    canonical: "https://croud-travel.pages.dev/snow-viewing-open-air-bath-secret-hotsprings/",
   },
   openGraph: {
     title: '白銀の世界に抱かれる至福！雪見露天風呂と濁り湯が自慢の極上秘湯宿',

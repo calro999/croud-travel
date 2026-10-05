@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   description: "冠雪した北アルプス後立山連峰（爺ヶ岳・鹿島槍ヶ岳・常念岳）が紺碧の冬空に映える11〜1月の安曇野・大町エリア。信濃国三之宮・穂高神社での雪の初詣や、国営アルプスあづみの公園を彩る県内最大級の光のイルミネーション。高瀬渓谷・葛温泉の名湯を引き込む大町温泉郷＆穂高温泉郷の雪見露天風呂、そして信州サーモンや信州プレミアム牛肉を堪能できる厳選名宿5選を徹底特集します。",
   keywords: '安曇野 イルミネーション, 大町温泉郷 宿, 穂高神社 初詣, アルプスあづみの公園, 信州サーモン, 信州プレミアム牛, 大町温泉郷 露天風呂, 白馬 パウダースノー, 11月 12月 1月 長野 旅行',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-nagano-azumino-omachi-hotaka-snow-shinshugyu-stay'
+    canonical: "https://croud-travel.pages.dev/winter-nagano-azumino-omachi-hotaka-snow-shinshugyu-stay/"
   },
   openGraph: {
     title: "【11・12・1月長野】安曇野＆大町温泉郷！白銀の北アルプス後立山連峰と穂高神社初詣・光のイルミネーション＆雪見露天名宿5選",

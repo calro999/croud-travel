@@ -5,18 +5,11 @@ import path from "path";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/okinawa-rainy-day-indoor-aquarium-craft-guide/" },
   title: "【沖縄 雨の日の観光完全ガイド】美ら海水族館・DMMかりゆし・やちむん通り陶芸体験＆屋内プール付きホテル",
   description:
     "スコールや台風でも旅行を諦めない！世界最大級の大水槽「美ら海水族館」、映像美の「DMMかりゆし水族館」、壺屋やちむん通りシーサー作り、屋内温水プール完備の大型リゾートホテル徹底比較。",
-  keywords: [
-    "沖縄 雨の日 観光",
-    "美ら海水族館 雨の日",
-    "DMMかりゆし水族館 インドア",
-    "沖縄 シーサー作り 体験 室内",
-    "壺屋やちむん通り 雨宿り",
-    "沖縄 屋内プール ホテル",
-    "沖縄 雨の日 ホテル 楽天トラベル"
-  ],
+  keywords: ["沖縄", "雨の日の観光", "美ら海水族館", "DMMかりゆし", "やちむん通り陶芸体験", "屋内プール付きホテル", "温泉宿"],
 };
 
 interface Hotel {

@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '日本三大急流「球磨川」秋霧と紅葉の渓谷美＆美肌の湯「人吉温泉」・球磨焼酎と極上あか牛 | クラウドトラベルふるさと納税',
   description: '10月下旬〜11月下旬に幻想的な朝霧（人吉霧）と清流紅葉が広がる熊本・人吉球磨。弱アルカリ性の柔らかい人吉温泉と、500年の歴史を持つ球磨焼酎・球磨川天然鮎・熊本あか牛会席をふるさと納税で楽しむ秋の南九州旅。',
-  keywords: ['人吉・球磨川・くま川鉄道 紅葉 観光', '熊本県 10月 11月 旅行', '球磨川秋霧紅葉＆人吉温泉球磨焼酎あか牛', 'ふるさと納税 温泉宿泊券', '国登録有形文化財の宿 人吉温泉 芳野旅館', '人吉温泉 あゆの里', '人吉温泉 鍋屋（旧：人吉温泉 鍋屋本館）', '楽天ふるさと納税 宿泊クーポン'],
+  keywords: ["美肌の湯「人吉温泉」", "球磨焼酎と極上あか牛", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-hitoyoshi-kumagawa-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-hitoyoshi-kumagawa-autumn-stay/",
   },
   openGraph: {
     title: '日本三大急流「球磨川」秋霧と紅葉の渓谷美＆美肌の湯「人吉温泉」・球磨焼酎と極上あか牛',

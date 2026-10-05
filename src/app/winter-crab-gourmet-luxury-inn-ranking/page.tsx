@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '冬の味覚の王様！極上活蟹・松葉ガニ・越前ガニを心ゆくまで堪能できる厳選温泉宿 ｜ 日本全国・旅宿クラウド',
   description: '城崎・三国・皆生など冬の味覚の最高峰「松葉ガニ」「越前ガニ」を活蟹会席で贅沢に堪能できる厳選温泉宿を特集。楽天トラベルの最新空室・プラン情報。',
-  keywords: ["カニ料理","温泉宿","冬旅行","グルメ旅","城崎温泉","松葉ガニ"],
+  keywords: ["冬の味覚の王様！極上活蟹", "松葉ガニ", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/winter-crab-gourmet-luxury-inn-ranking',
+    canonical: "https://croud-travel.pages.dev/winter-crab-gourmet-luxury-inn-ranking/",
   },
   openGraph: {
     title: '冬の味覚の王様！極上活蟹・松葉ガニ・越前ガニを心ゆくまで堪能できる厳選温泉宿',

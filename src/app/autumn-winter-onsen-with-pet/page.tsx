@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/autumn-winter-onsen-with-pet/" },
   title: "【愛犬と一緒】秋・冬のドッグラン＆ペット同伴温泉宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "愛犬も家族の一員！静岡伊豆高原、栃木那須高原、長野軽井沢、滋賀琵琶湖など、客室同伴OK、専用ドッグラン、愛犬用温泉・コース料理を完備した全国の極上ペットフレンドリー宿を徹底解説。",
-  keywords: ["autumn-winter-onsen-with-pet", "宿泊予約", "温泉宿", "ホテル特集", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["愛犬と一緒", "冬のドッグラン", "ペット同伴温泉宿", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
 
 function loadSeasonalHotels() {

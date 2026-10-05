@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/nagoya-kyoto-bus-vs-shinkansen-guide/" },
   title: "【名古屋〜京都】新幹線 vs 近鉄特急 vs 名神ハイウェイバス徹底比較！片道1,500円〜行く古都日帰り＆1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
   description: "名古屋から京都へ安く行くには？東海道新幹線、近鉄特急、名神ハイウェイバスの料金・所要時間を徹底比較！片道1,500円台〜行ける高速バスを活用し、伏見稲荷・東福寺・宇治抹茶カフェを満喫するモデルコース。",
-  keywords: ["nagoya-kyoto-bus-vs-shinkansen-guide", "高速バス", "バスツアー", "新幹線 比較", "安く行く方法", "1泊2日 モデルコース", "宿泊予約", "楽天トラベル"],
+  keywords: ["名古屋〜京都", "新幹線", "vs", "近鉄特急", "1泊2日モデルコース", "温泉宿", "宿泊予約"],
 };
 
 function loadHotels() {

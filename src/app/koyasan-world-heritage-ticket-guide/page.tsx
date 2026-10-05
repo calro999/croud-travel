@@ -4,18 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/koyasan-world-heritage-ticket-guide/" },
   title: "【高野山・世界遺産きっぷ完全攻略】南海電鉄＋高野山内バス乗り放題でいくら浮く？宿坊ステイ＆金剛峯寺 ｜ 日本全国・旅宿クラウド",
   description: "難波・新今宮から高野山へ行くなら必須の「高野山・世界遺産きっぷ」！南海特急こうや、極楽橋ケーブルカー、南海りんかんバス、主要寺院拝観割引の総額比較。奥之院参拝・精進料理を堪能する1泊2日宿坊ガイド。",
-  keywords: [
-    "高野山 世界遺産きっぷ 元取り",
-    "南海電鉄 高野山 割引",
-    "南海りんかんバス 乗り放題",
-    "高野山 宿坊 おすすめ",
-    "金剛峯寺 拝観料 割引",
-    "奥之院 ナイトツアー",
-    "高野山 1泊2日 モデルコース",
-    "難波から高野山 電車"
-  ],
+  keywords: ["高野山", "世界遺産きっぷ完全攻略", "金剛峯寺", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
 
 interface Hotel {

@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/nagano-karuizawa-kyu-stay/" },
   title: "【長野・旧軽井沢＆中軽井沢】雲場池・ハルニレテラス＆高原リゾート宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "軽井沢エリア完全特化！旧軽井沢銀座、雲場池（スワンレイク）、星野エリア・ハルニレテラス、トンボの湯周辺の観光と、森の隠れ家ホテル・クラシック宿を徹底解説。",
-  keywords: ["nagano-karuizawa-kyu-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["長野", "旧軽井沢", "中軽井沢", "雲場池", "ハルニレテラス", "高原リゾート宿", "温泉宿"],
 };
 
 function loadSeasonalHotels() {

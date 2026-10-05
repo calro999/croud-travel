@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '霊峰大山「鍵掛峠」ブナ樹海の圧巻紅葉＆皆生温泉・11月解禁本場「松葉がに」と大山黒牛 | クラウドトラベルふるさと納税',
   description: '10月下旬〜11月中旬に大山南壁を鮮やかに彩る鍵掛峠のブナ紅葉。日本海に面した皆生温泉で、塩化物泉の温まり美肌湯と11月上旬に初競り解禁となる本場「松葉がに」「鳥取和牛」をふるさと納税で味わう秋の山陰旅。',
-  keywords: ['鳥取・大山・鍵掛峠・皆生温泉 紅葉 観光', '鳥取県 10月 11月 旅行', '大山鍵掛峠ブナ紅葉＆皆生温泉松葉がに', 'ふるさと納税 温泉宿泊券', '皆生温泉 皆生シーサイドホテル 海の四季', '皆生温泉 皆生菊乃家', '皆生温泉 湯喜望 白扇', '楽天ふるさと納税 宿泊クーポン'],
+  keywords: ["皆生温泉", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-daisen-kagikaketoge-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-daisen-kagikaketoge-autumn-stay/",
   },
   openGraph: {
     title: '霊峰大山「鍵掛峠」ブナ樹海の圧巻紅葉＆皆生温泉・11月解禁本場「松葉がに」と大山黒牛',

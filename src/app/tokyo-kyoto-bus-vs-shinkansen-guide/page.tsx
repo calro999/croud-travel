@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/tokyo-kyoto-bus-vs-shinkansen-guide/" },
   title: "【東京から京都 安く行く方法】新幹線 vs 夜行バス比較！早朝6時着で清水寺・嵐山1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
   description: "東京から京都へ安く行くには？新幹線のぞみ（約14,170円）と夜行高速バス（約3,000円〜）を比較！早朝6時台着で人混みゼロの清水寺・嵐山竹林を独占。浮いた2万円で極上和モダン宿に泊まる京都1泊2日満喫モデルコース。",
-  keywords: ["tokyo-kyoto-bus-vs-shinkansen-guide", "高速バス", "バスツアー", "新幹線 比較", "安く行く方法", "1泊2日 モデルコース", "宿泊予約", "楽天トラベル"],
+  keywords: ["東京から京都", "安く行く方法", "新幹線", "vs", "嵐山1泊2日モデルコース", "温泉宿", "宿泊予約"],
 };
 
 function loadHotels() {

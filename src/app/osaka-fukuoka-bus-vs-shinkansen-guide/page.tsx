@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/osaka-fukuoka-bus-vs-shinkansen-guide/" },
   title: "【大阪から福岡・博多 安く行く方法】新幹線 vs 夜行バス徹底比較！中洲屋台・もつ鍋1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
   description: "大阪から博多・福岡へ安く行く方法！山陽新幹線（約15,600円）と夜行高速バス（約3,000円〜）の料金・所要時間を徹底比較。往復2万円以上浮く夜行バスで中洲屋台はしご酒・太宰府天満宮・本場もつ鍋を満喫する1泊2日モデルコース。",
-  keywords: ["osaka-fukuoka-bus-vs-shinkansen-guide", "高速バス", "バスツアー", "新幹線 比較", "安く行く方法", "1泊2日 モデルコース", "宿泊予約", "楽天トラベル"],
+  keywords: ["大阪から福岡", "博多", "安く行く方法", "新幹線", "vs", "夜行バス徹底比較！中洲屋台", "もつ鍋1泊2日モデルコース"],
 };
 
 function loadHotels() {

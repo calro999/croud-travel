@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "満開の桜並木や庭園のしだれ桜を客室露天風呂から独り占め！湯面に浮かぶ桜の花びらと心地よい春風に包まれながら、誰にも気兼ねなく花見酒と旬の春会席を楽しめる贅沢な隠れ宿。",
   keywords: "露天風呂 離れ 温泉 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/luxury-private-onsen-with-scenic-cherry-blossom-deck',
+    canonical: "https://croud-travel.pages.dev/luxury-private-onsen-with-scenic-cherry-blossom-deck/",
   },
   openGraph: {
     title: "【客室専用お花見露天風呂】舞い散る桜を湯船から独占！春限定の極上プライベート温泉宿5選",

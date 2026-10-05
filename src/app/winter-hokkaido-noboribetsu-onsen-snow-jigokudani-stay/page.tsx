@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "11月下旬の初雪から12月の白銀世界へと移ろう北海道・登別温泉。荒涼とした岩肌からもうもうと白煙を上げる雪化粧の地獄谷、世界でも稀な9種類もの多彩な泉質を誇る名湯巡り。冬に身がぎっしり詰まる北海道産毛ガニと地元胆振の最高峰ブランド白老牛ステーキに舌鼓を打つ冬の極上北国旅ガイド。",
   keywords: '登別温泉 宿泊 11月 12月, 登別 地獄谷 雪景色, 登別温泉 第一滝本館, 登別 毛ガニ 白老牛, 登別温泉 おすすめ 宿, 登別 泉質 露天風呂, 北海道 冬 温泉 モデルコース',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-hokkaido-noboribetsu-onsen-snow-jigokudani-stay',
+    canonical: "https://croud-travel.pages.dev/winter-hokkaido-noboribetsu-onsen-snow-jigokudani-stay/",
   },
   openGraph: {
     title: "【11・12月登別温泉の白銀地獄谷と極上名湯】圧倒的湯量と9つの泉質・冬の北海道毛ガニ＆白老牛を堪能する名宿5選",

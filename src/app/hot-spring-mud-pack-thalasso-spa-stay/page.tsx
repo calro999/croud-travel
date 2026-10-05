@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/hot-spring-mud-pack-thalasso-spa-stay/" },
   title: "【温泉泥パック＆タラソテラピー宿】天然クレイ泥湯・海洋深層水スパ 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "天然の美容成分を肌に塗る極上スパ温泉宿完全特化！鹿児島霧島・別府の「天然温泉泥パック（泥湯）」、沖縄・南房総の「海洋深層水タラソテラピー」、ミネラル豊富な海藻パック、シルクのような美肌温泉を徹底解説。",
-  keywords: ["hot-spring-mud-pack-thalasso-spa-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["温泉泥パック", "タラソテラピー宿", "天然クレイ泥湯", "海洋深層水スパ", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
 
 function loadSeasonalHotels() {

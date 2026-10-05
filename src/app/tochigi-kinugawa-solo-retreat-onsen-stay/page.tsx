@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/tochigi-kinugawa-solo-retreat-onsen-stay/" },
   title: '【鬼怒川温泉ひとり旅・渓谷美おこもり】スペーシアX直通・鬼怒川渓谷露天・とちぎ和牛！都心から2時間の極上ソロ湯治厳選3宿',
   description: '東武新型特急スペーシアXでアクセス抜群！鬼怒楯岩大吊橋すぐで展望風呂が評判の「ホテルサンシャイン鬼怒川」、庭園を望む離れの風情と美食会席が魅力の「鬼怒川グランドホテル 夢の季」、創業の歴史と渓流露天風呂を誇る名門「鬼怒川温泉ホテル」を楽天API最新データに基づき徹底比較。',
   keywords: '鬼怒川温泉 一人旅 宿,鬼怒川 ホテル 一人 温泉,ホテルサンシャイン鬼怒川,鬼怒川グランドホテル 夢の季,鬼怒川温泉ホテル,鬼怒川 ひとり旅 おこもり',

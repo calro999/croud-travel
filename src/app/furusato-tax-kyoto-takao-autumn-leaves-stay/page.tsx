@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '京都・高雄の三尾紅葉（神護寺・高山寺）＆清滝川沿い隠れ家宿で味わう秋の川床名残会席 | クラウドトラベルふるさと納税',
   description: '11月上旬〜11月中旬に京都で最も早く鮮やかに色づく高雄・三尾エリア。清滝川のせせらぎを望む隠れ宿で、赤く染まるもみじのライトアップと極上京会席・丹波牛をふるさと納税でお得に堪能。',
-  keywords: ['京都・高雄・三尾（神護寺・西明寺・高山寺） 紅葉 観光', '京都府 10月 11月 旅行', '京都高雄神護寺紅葉＆清滝川もみじの宿', 'ふるさと納税 温泉宿泊券', 'もみぢ家本館 高雄山荘', 'もみぢ家別館 川の庵', 'リーガロイヤルホテル京都', '楽天ふるさと納税 宿泊クーポン'],
+  keywords: ["京都", "高雄の三尾紅葉（神護寺", "高山寺）", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-kyoto-takao-autumn-leaves-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-kyoto-takao-autumn-leaves-stay/",
   },
   openGraph: {
     title: '京都・高雄の三尾紅葉（神護寺・高山寺）＆清滝川沿い隠れ家宿で味わう秋の川床名残会席',

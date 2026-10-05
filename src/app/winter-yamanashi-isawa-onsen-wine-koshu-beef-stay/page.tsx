@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "11月3日の山梨ヌーボー解禁とともに華やぐ甲州・石和温泉。雪化粧した富士山や南アルプスを望み、毎分湧出する豊富な美肌アルカリ単純温泉に身を浸す贅沢。最高峰A5ランク甲州牛のステーキと熱々の甲州かぼちゃほうとう、できたての新酒甲州ワインを味わい尽くす初冬の美食湯宿ガイド。",
   keywords: '石和温泉 宿泊 11月 12月, 石和温泉 甲州牛 旅館, 山梨ヌーボー 温泉 宿, 石和温泉 露天風呂 おすすめ, 石和 ほうとう 温泉, 勝沼 ワイン 温泉 宿, 石和温泉 モデルコース 冬',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-yamanashi-isawa-onsen-wine-koshu-beef-stay',
+    canonical: "https://croud-travel.pages.dev/winter-yamanashi-isawa-onsen-wine-koshu-beef-stay/",
   },
   openGraph: {
     title: "【11・12月石和温泉の新酒ワインと美肌湯】富士を望む甲州名湯と甲州牛ステーキ・冬のほうとう会席宿5選",

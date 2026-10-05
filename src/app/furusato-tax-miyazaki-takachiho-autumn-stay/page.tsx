@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '宮崎・神話の里 高千穂峡の真名井の滝紅葉＆国見ケ丘雲海！神仙の美肌宿と極上高千穂牛会席 | クラウドトラベルふるさと納税',
   description: '10月・11月の宮崎・高千穂特集！柱状節理の渓谷にエメラルドグリーンの水面と紅葉が映える「高千穂峡・真名井の滝」、国見ケ丘から望む奇跡の秋雲海、夜神楽の厳かな伝統、内閣総理大臣賞受賞の日本一「高千穂牛」をふるさと納税トラベルクーポンで堪能する神話の秋旅。',
-  keywords: ["高千穂峡・真名井の滝・国見ケ丘雲海 紅葉 観光","宮崎県 10月 11月 旅行","高千穂峡紅葉ボート＆高千穂牛美食宿","ふるさと納税 温泉宿泊券","高千穂　旅館　神仙","ホテル高千穂","ソレスト高千穂ホテル","楽天ふるさと納税 宿泊クーポン"],
+  keywords: ["宮崎", "神話の里", "高千穂峡の真名井の滝紅葉", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-miyazaki-takachiho-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-miyazaki-takachiho-autumn-stay/",
   },
   openGraph: {
     title: '宮崎・神話の里 高千穂峡の真名井の滝紅葉＆国見ケ丘雲海！神仙の美肌宿と極上高千穂牛会席',

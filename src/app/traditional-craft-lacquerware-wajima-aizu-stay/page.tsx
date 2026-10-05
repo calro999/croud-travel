@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '【2026年】艶やかな漆の器と伝統の技！輪島塗・会津塗の手仕事美を愛でる名湯の宿5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！職人が手塗りを重ねた本漆の器で供される優美な日本料理と、伝統工芸のギャラリーや体験が楽しめる文化薫る名旅館5選。',
-  keywords: ["輪島塗","会津塗","漆器の器","伝統工芸","文化の宿","楽天トラベル"],
+  keywords: ["2026年", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/traditional-craft-lacquerware-wajima-aizu-stay',
+    canonical: "https://croud-travel.pages.dev/traditional-craft-lacquerware-wajima-aizu-stay/",
   },
   openGraph: {
     title: '【2026年】艶やかな漆の器と伝統の技！輪島塗・会津塗の手仕事美を愛でる名湯の宿5選',

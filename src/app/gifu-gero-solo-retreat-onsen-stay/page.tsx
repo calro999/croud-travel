@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/gifu-gero-solo-retreat-onsen-stay/" },
   title: '【下呂温泉ひとり旅・美肌名湯おこもり】日本三名泉つるつる美人の湯・飛騨川パノラマ・飛騨牛会席！飛騨路の山里でととのう厳選3宿',
   description: '天下の日本三名泉・美人の湯！飛騨川を見下ろす展望大浴場と温泉街一望が評判の「湯あそびの宿 下呂観光ホテル本館」、アートとアンティークに彩られた露天風呂付き客室も魅力の「紗々羅」、数寄屋造りの離れで究極の静寂を味わう「みやこ」を徹底比較。',
   keywords: '下呂温泉 一人旅 宿,下呂 ホテル 一人 温泉,下呂観光ホテル,紗々羅 下呂,下呂温泉 みやこ,下呂 美肌の湯 一人旅',

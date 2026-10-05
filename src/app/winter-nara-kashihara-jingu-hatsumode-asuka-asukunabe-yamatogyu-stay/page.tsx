@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "初代神武天皇が即位した日本建国の聖地「橿原神宮（かしはらじんぐう）」が約100万人の新春参拝客を迎える11〜1月の冬旅特集。畝傍山（うねびやま）を背景に白木造りの壮大な社殿が冬朝霧に煙る光景、石舞台古墳や飛鳥寺が静まり返る冬の明日香村、飛鳥時代の宮廷貴族の滋養食にルーツを持つ名物郷土料理「飛鳥鍋（牛乳仕立て出汁）」、極上の霜降りを誇る奈良銘柄牛「大和牛」のすき焼き。橿原・明日香の滞在拠点に最適な厳選ホテル・名宿5選を徹底解説します。",
   keywords: '橿原神宮 初詣, 橿原神宮 冬, 飛鳥鍋 奈良, 明日香村 冬, 大和牛 すき焼き, グランドメルキュール奈良橿原, カンデオホテルズ奈良橿原, 畝傍山, 奈良 初詣',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-nara-kashihara-jingu-hatsumode-asuka-asukunabe-yamatogyu-stay'
+    canonical: "https://croud-travel.pages.dev/winter-nara-kashihara-jingu-hatsumode-asuka-asukunabe-yamatogyu-stay/"
   },
   openGraph: {
     title: "【11・12・1月奈良】日本建国の聖地「橿原神宮」新春初詣と畝傍山の冬朝霧！飛鳥路の静寂と名物「飛鳥鍋」・大和牛名宿5選",

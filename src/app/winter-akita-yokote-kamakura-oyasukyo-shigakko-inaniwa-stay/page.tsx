@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   description: "みちのくの豪雪地帯・秋田県県南の横手市と湯沢市。11〜1月は450年の伝統を誇る小正月行事「横手のかまくら」の白銀情景が広がり、湯沢・小安峡では岩肌から噴出する熱湯蒸気と巨大つらら「しがっこ」が大自然の氷結アートを描き出します。日本三大うどん「本場稲庭うどん」や希少な幻のブランド和牛「皆瀬牛」、秋田杉香る名湯・小安峡温泉や秋の宮温泉郷の雪見露天風呂を満喫できる厳選名宿5選を徹底解説します。",
   keywords: '横手かまくら ホテル, 小安峡温泉 旅館, 多郎兵衛旅館, 稲住温泉, ホテルプラザアネックス横手, 稲庭うどん 湯沢, 皆瀬牛, 小安峡 しがっこ, 12月 1月 秋田 観光',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-akita-yokote-kamakura-oyasukyo-shigakko-inaniwa-stay'
+    canonical: "https://croud-travel.pages.dev/winter-akita-yokote-kamakura-oyasukyo-shigakko-inaniwa-stay/"
   },
   openGraph: {
     title: "【11・12・1月秋田】横手＆湯沢・小安峡！約450年の伝統「横手のかまくら」雪まつり＆小安峡大噴湯の巨大氷柱「しがっこ」・本場稲庭うどん＆雪見露天名宿5選",

@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "11月から12月にかけて栃木県・奥日光は、標高2,486mの霊峰・男体山が初雪の白銀を纏い、湖面標高1,269mの澄み切った中禅寺湖が静寂の鏡のように冬景色を映し出します。日光開山の祖・勝道上人ゆかりの源泉・日光湯元から約12kmを引湯する硫黄泉は、湧出時はエメラルドグリーン、空気に触れて神秘的な乳白色へと変化する美肌の名湯。冬の湖畔を眺めながら温まる雪見露天風呂、とろけるような霜降りの「とちぎ和牛」サーロイン、日光伝統の生湯波（ゆば）会席や奥日光イワナを堪能する極上の奥日光名宿5選を徹底解説。",
   keywords: '奥日光 中禅寺温泉 宿泊, 中禅寺湖 11月 12月, 中禅寺湖 雪 男体山, 中禅寺温泉 にごり湯, 中禅寺金谷ホテル, ザリッツカールトン日光, ホテル花庵, ホテル四季彩, 日光山水, とちぎ和牛 ステーキ, 日光 湯波 宿',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-tochigi-okunikko-chuzenji-lake-onsen-snow-stay',
+    canonical: "https://croud-travel.pages.dev/winter-tochigi-okunikko-chuzenji-lake-onsen-snow-stay/",
   },
   openGraph: {
     title: "【11・12月奥日光中禅寺温泉の初冬中禅寺湖と男体山雪絶景】乳白色硫黄泉露天風呂・極上とちぎ和牛＆日光湯波会席の宿5選",

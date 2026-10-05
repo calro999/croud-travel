@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '【2026年】とろける極上の霜降り！A5松阪牛・米沢牛の特選すき焼き＆しゃぶしゃぶ名宿5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！日本三大和牛の松阪牛や米沢牛を贅沢に使った絶品すき焼き・しゃぶしゃぶ会席と極上名湯を満喫できる厳選美食宿5選。',
-  keywords: ["松阪牛","米沢牛","すき焼き","しゃぶしゃぶ","和牛会席","楽天トラベル"],
+  keywords: ["2026年", "米沢牛の特選すき焼き", "しゃぶしゃぶ名宿5選", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/luxury-a5-matsusaka-yonezawa-beef-shabu-sukiyaki-stay',
+    canonical: "https://croud-travel.pages.dev/luxury-a5-matsusaka-yonezawa-beef-shabu-sukiyaki-stay/",
   },
   openGraph: {
     title: '【2026年】とろける極上の霜降り！A5松阪牛・米沢牛の特選すき焼き＆しゃぶしゃぶ名宿5選',

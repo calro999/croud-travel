@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/autumn-gourmet-matsutake-wagyu/" },
   title: "【秋の美食】松茸＆ブランド和牛づくし極上温泉旅館 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "秋の贅沢味覚！信州別所温泉の松茸づくし、京都亀岡の丹波松茸＆丹波牛会席、岐阜飛騨高山のA5飛騨牛、滋賀おごと温泉の近江牛懐石など、秋限定の極上美食温泉宿を徹底解説。",
-  keywords: ["autumn-gourmet-matsutake-wagyu", "宿泊予約", "温泉宿", "ホテル特集", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["秋の美食", "松茸", "ブランド和牛づくし極上温泉旅館", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
 
 function loadSeasonalHotels() {

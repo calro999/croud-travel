@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/atami-solo-retreat-ocean-onsen-stay/" },
   title: '【熱海ひとり旅・海望おこもり】相模湾インフィニティ露天・創業200余年の老舗名湯・贅沢海の幸！都心から45分の極上温泉宿 厳選3選',
   description: '東京駅から東海道新幹線でわずか約45分！相模湾のパノラマと夜景を望む「熱海後楽園ホテル」、創業200年超の歴史と名湯・部屋食を誇る名門「古屋旅館」、自家源泉と昭和レトロなもてなしが心地よい「湯宿一番地」を楽天APIデータに基づき徹底比較。',
   keywords: '熱海 一人旅 温泉宿,熱海後楽園ホテル ひとり,熱海 古屋旅館 一人,熱海 湯宿一番地,熱海 温泉 おこもり',

@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "12月上旬からスキー場が続々オープン！世界中のスキーヤー・スノーボーダーが憧れる最高峰の粉雪「JAPOW（ジャパン・パウダー）」を体験し、羊蹄山（蝦夷富士）を一望するインフィニティ温泉露天風呂と国際色豊かな極上リゾート。",
   keywords: "ニセコ 温泉 リゾート ホテル, 11月旅行, 12月旅行, 冬休み, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/winter-niseko-powder-snow-ski-resort-stay',
+    canonical: "https://croud-travel.pages.dev/winter-niseko-powder-snow-ski-resort-stay/",
   },
   openGraph: {
     title: "【12月オープン！ニセコ極上パウダースノー】世界が称賛するJAPOWと羊蹄山ビュー宿5選",

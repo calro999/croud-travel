@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "高さ100mの橋から大自然の渓谷へ飛び込む究極のスリル！バンジージャンプで度胸試し＆大興奮した後は、水上温泉や奥久慈温泉の渓谷露天風呂とサウナで心身をじんわりほぐす人気アクティビティ宿を厳選。",
   keywords: "みなかみ 温泉 露天風呂 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/super-panoramic-canyon-bungee-jump-stay',
+    canonical: "https://croud-travel.pages.dev/super-panoramic-canyon-bungee-jump-stay/",
   },
   openGraph: {
     title: "【日本一のバンジージャンプ】竜神大吊橋・みなかみ渓谷の絶叫体験と名湯温泉宿5選",

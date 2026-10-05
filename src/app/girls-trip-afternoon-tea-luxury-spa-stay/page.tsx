@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '至福のアフタヌーンティー＆本格極上スパ！女子旅・母娘旅で行きたいご褒美ラグジュアリーホテル ｜ 日本全国・旅宿クラウド',
   description: '京都・横浜・箱根・神戸など季節限定アフタヌーンティーとアロマトリートメントスパが楽しめる高級ホテル。特別な記念日やご褒美女子旅におすすめ。',
-  keywords: ["女子旅","アフタヌーンティー","ホテルスパ","母娘旅","ラグジュアリーホテル","ご褒美ステイ"],
+  keywords: ["至福のアフタヌーンティー", "本格極上スパ！女子旅", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/girls-trip-afternoon-tea-luxury-spa-stay',
+    canonical: "https://croud-travel.pages.dev/girls-trip-afternoon-tea-luxury-spa-stay/",
   },
   openGraph: {
     title: '至福のアフタヌーンティー＆本格極上スパ！女子旅・母娘旅で行きたいご褒美ラグジュアリーホテル',

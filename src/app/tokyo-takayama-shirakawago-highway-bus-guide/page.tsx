@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/tokyo-takayama-shirakawago-highway-bus-guide/" },
   title: "【東京・新宿〜飛騨高山・白川郷】直行高速バスが最強！電車との料金・時間比較＆飛騨牛1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
   description: "東京・新宿から飛騨高山・白川郷へ行くなら直行高速バスが圧倒的に便利でお得！JR特急ワイドビューしなの・特急ひだ乗り継ぎとの料金・所要時間比較、古い町並み散策と白川郷合掌造り、飛騨牛を満喫する1泊2日モデルコース。",
-  keywords: ["tokyo-takayama-shirakawago-highway-bus-guide", "高速バス", "バスツアー", "新幹線 比較", "安く行く方法", "1泊2日 モデルコース", "宿泊予約", "楽天トラベル"],
+  keywords: ["東京", "新宿〜飛騨高山", "白川郷", "時間比較", "飛騨牛1泊2日モデルコース", "温泉宿", "宿泊予約"],
 };
 
 function loadHotels() {

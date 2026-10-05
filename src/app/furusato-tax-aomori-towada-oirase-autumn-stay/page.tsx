@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '青森・奥入瀬渓流＆十和田湖の黄金紅葉！十和田湖畔温泉と蔦温泉・青森倉石牛会席 | クラウドトラベルふるさと納税',
   description: '10月・11月の青森・奥入瀬渓流＆十和田湖特集！千変万化の渓流美とブナ・カエデの黄金紅葉がトンネルを作る「奥入瀬渓流」、十和田湖遊覧船からのカルデラ大パノラマ、足元湧出の秘湯「蔦温泉」や十和田湖畔温泉、青森倉石牛や十和田バラ焼きをふるさと納税トラベルクーポンで満喫する東北随一の秋旅。',
-  keywords: ["奥入瀬渓流・十和田湖・蔦沼 紅葉 観光","青森県 10月 11月 旅行","奥入瀬渓流黄金紅葉＆十和田湖畔温泉倉石牛","ふるさと納税 温泉宿泊券","奥入瀬渓流ホテル　ｂｙ　星野リゾート","蔦温泉旅館－足元から源泉湧出の自噴温泉－","十和田湖畔温泉　十和田ホテル","楽天ふるさと納税 宿泊クーポン"],
+  keywords: ["青森", "奥入瀬渓流", "青森倉石牛会席", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-aomori-towada-oirase-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-aomori-towada-oirase-autumn-stay/",
   },
   openGraph: {
     title: '青森・奥入瀬渓流＆十和田湖の黄金紅葉！十和田湖畔温泉と蔦温泉・青森倉石牛会席',

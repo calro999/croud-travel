@@ -5,18 +5,11 @@ import path from "path";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/kanazawa-early-morning-breakfast-cafe-guide/" },
   title: "【金沢駅・近江町市場 早朝朝食おすすめ7選】朝7時から開いている海鮮丼・絶品おにぎり・純喫茶モーニング",
   description:
     "夜行バスや始発新幹線で金沢に着いたらここへ！混雑前の近江町市場で食べる朝獲れ海鮮丼、金沢駅あんと内の早朝カフェ、地元民に愛される老舗純喫茶のモーニング、朝食クチコミ高評価ホテル特集。",
-  keywords: [
-    "金沢 早朝 朝食",
-    "近江町市場 朝ごはん 海鮮丼",
-    "金沢駅 モーニング 7時",
-    "金沢 夜行バス 早朝 過ごし方",
-    "金沢 純喫茶 モーニング",
-    "金沢 朝食 美味しい ホテル",
-    "金沢 朝風呂 銭湯"
-  ],
+  keywords: ["金沢駅", "近江町市場", "早朝朝食おすすめ7選", "朝7時から開いている海鮮丼", "絶品おにぎり", "純喫茶モーニング", "温泉宿"],
 };
 
 interface Hotel {

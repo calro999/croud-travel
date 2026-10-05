@@ -4,17 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/kyoto-subway-bus-1day-pass-golden-route/" },
   title: "【地下鉄・バス1日券で巡る京都観光】1,100円で元を取る黄金ルート＆市バス大渋滞を完全回避する裏ワザ ｜ 日本全国・旅宿クラウド",
   description: "バス一日券廃止後の新定番「地下鉄・バス1日券」（1,100円）！地下鉄（220円〜）と市バス（230円）を組み合わせ、京都駅周辺の市バス長蛇の列を回避して清水寺・二条城・嵐山・南禅寺を最速で回る時短モデルコース。",
-  keywords: [
-    "京都 地下鉄バス1日券 元取り",
-    "京都 市バス 渋滞 回避",
-    "京都観光 1日券 モデルコース",
-    "地下鉄・バス1日券 1100円",
-    "京都駅 バス 混雑",
-    "清水寺 二条城 嵐山 アクセス",
-    "京都 旅行 コスパ 電車"
-  ],
+  keywords: ["地下鉄", "バス1日券で巡る京都観光", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
 };
 
 interface Hotel {

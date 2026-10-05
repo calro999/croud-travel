@@ -4,20 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '青い海と真っ白な砂浜！南紀白浜温泉の絶景オーシャンビュー露天風呂＆幻のクエ・熊野牛名門旅館×ふるさと納税完全攻略ガイド【2026年最新】むさし・海舟・シーモア',
   description: '万葉の時代から愛される日本三古湯・南紀白浜温泉！真っ白な白良浜と太平洋の絶景パノラマ。「紀州・白浜温泉 むさし」「浜千鳥の湯 海舟」「SHIRAHAMA KEY TERRACE HOTEL SEAMORE」を、和歌山県白浜町の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。海混浴露天風呂、インフィニティ足湯、幻のクエ鍋・熊野牛を満喫。',
-  keywords: [
-    'ふるさと納税 旅行',
-    'ふるさと納税 温泉',
-    '南紀白浜温泉 オーシャンビュー名宿特集',
-    '楽天ふるさと納税 トラベル',
-    '紀州・白浜温泉　むさし',
-    '浜千鳥の湯　海舟（共立リゾート）',
-    'ＳＨＩＲＡＨＡＭＡ　ＫＥＹ　ＴＥＲＲＡＣＥ　ＳＥＡＭＯＲＥ　ＲＥＳＩＤＥＮＣＥ',
-    '高級温泉旅館',
-    '源泉かけ流し',
-    '実質2000円'
-  ],
+  keywords: ["幻のクエ", "2026年最新", "むさし", "海舟", "シーモア", "温泉宿", "宿泊予約"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-shirahama-onsen-ocean-view-luxury-stay/',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-shirahama-onsen-ocean-view-luxury-stay/",
   },
   openGraph: {
     title: '青い海と真っ白な砂浜！南紀白浜温泉の絶景オーシャンビュー露天風呂＆幻のクエ・熊野牛名門旅館×ふるさと納税完全攻略ガイド【2026年最新】むさし・海舟・シーモア',

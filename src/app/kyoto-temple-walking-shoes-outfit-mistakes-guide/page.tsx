@@ -4,17 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/kyoto-temple-walking-shoes-outfit-mistakes-guide/" },
   title: "【京都寺社巡り 靴と服装の失敗談まとめ】1日2万歩で足崩壊＆靴の脱ぎ履き地獄を回避するスマート参拝術 ｜ 日本全国・旅宿クラウド",
   description: "京都観光で多くの人が後悔するポイントを徹底分析！靴紐を結ぶ靴で行って拝観ごとに大渋滞、冬の板の間で足裏底冷え、夏の日傘マナー、スリッポン選びのコツと歩き疲れた足を癒やす大浴場付き京都ホテル。",
-  keywords: [
-    "京都 寺社巡り 服装",
-    "京都 観光 靴 おすすめ",
-    "京都 拝観 靴 脱ぎ履き",
-    "京都 1日2万歩 疲れない靴",
-    "京都 冬 底冷え 靴下",
-    "京都 大浴場 ホテル 楽天トラベル",
-    "京都 失敗談 持ち物",
-  ],
+  keywords: ["京都寺社巡り", "靴と服装の失敗談まとめ", "1日2万歩で足崩壊", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
 
 interface Hotel {

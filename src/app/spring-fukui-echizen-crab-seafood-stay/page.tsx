@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "黄色いタグ付き最高級「越前がに」の茹でたてアツアツと、ぷりぷりの歯ごたえがたまらない「若狭ふぐ」！関西の奥座敷・あわら温泉の風情あふれる庭園旅館で、北陸最高峰の冬春グルメを堪能する旅。",
   keywords: "あわら温泉 カニ 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/spring-fukui-echizen-crab-seafood-stay',
+    canonical: "https://croud-travel.pages.dev/spring-fukui-echizen-crab-seafood-stay/",
   },
   openGraph: {
     title: "【越前がにと若狭ふぐ】日本海の冬春極上味覚！福井・あわら温泉と三方五湖の美食名湯宿5選",

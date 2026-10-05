@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '山形ワイン＆ぶどうの郷「南陽・赤湯温泉」開湯920年の名湯と米沢牛ステーキ・ワイナリー巡り | クラウドトラベルふるさと納税',
   description: '10月〜11月に新酒ワインと実りの秋を迎える山形・南陽赤湯温泉。開湯920年の歴史ある源泉かけ流し美肌湯と、最高峰「米沢牛」ステーキ・すき焼き、地場ワイナリー巡りをふるさと納税でお得に楽しむ秋旅特集。',
-  keywords: ['南陽・赤湯温泉・高畠 紅葉 観光', '山形県 10月 11月 旅行', '赤湯温泉ワイナリー巡り＆米沢牛', 'ふるさと納税 温泉宿泊券', '赤湯温泉 升形屋旅館', '赤湯温泉 大正ロマン香る癒しの宿 丹波館', '赤湯温泉 丹泉ホテル', '楽天ふるさと納税 宿泊クーポン'],
+  keywords: ["山形ワイン", "ぶどうの郷「南陽", "ワイナリー巡り", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-akayu-wine-grape-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-akayu-wine-grape-autumn-stay/",
   },
   openGraph: {
     title: '山形ワイン＆ぶどうの郷「南陽・赤湯温泉」開湯920年の名湯と米沢牛ステーキ・ワイナリー巡り',

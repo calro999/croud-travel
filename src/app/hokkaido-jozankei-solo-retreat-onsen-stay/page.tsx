@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/hokkaido-jozankei-solo-retreat-onsen-stay/" },
   title: '【定山渓温泉ひとり旅・渓谷美おこもり】札幌から60分・豊平川渓流露天・道産美食！札幌の奥座敷で静寂にととのう厳選3宿',
   description: '札幌中心部からかっぱライナーで約60分！女性一人旅のために設計された癒やしと美の宿「翠蝶館」、名物「蜂蜜バイキング」と渓流露天風呂が評判の老舗「章月グランドホテル」、自家源泉かけ流しと隠れ家の趣が心地よい「悠久の宿白糸」を楽天API最新データに基づき徹底比較。',
   keywords: '定山渓温泉 一人旅 宿,定山渓 ホテル 一人 温泉,翠蝶館,章月グランドホテル,悠久の宿白糸,定山渓 ひとり旅 おこもり',

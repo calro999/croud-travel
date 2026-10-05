@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '【2026年】星空ハンモックテラス＆貸切露天風呂！心地よい夜風と天の川に癒やされる宿5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！客室専用ウッドテラスのハンモックに揺られながら満天の星と月を眺め、天然温泉で心身を解きほぐす大人のリゾートホテル5選。',
-  keywords: ["ハンモック","星空テラス","客室露天風呂","天の川","リゾートホテル","楽天トラベル"],
+  keywords: ["2026年", "星空ハンモックテラス", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/luxury-private-onsen-with-starry-sky-terrace-hammock',
+    canonical: "https://croud-travel.pages.dev/luxury-private-onsen-with-starry-sky-terrace-hammock/",
   },
   openGraph: {
     title: '【2026年】星空ハンモックテラス＆貸切露天風呂！心地よい夜風と天の川に癒やされる宿5選',

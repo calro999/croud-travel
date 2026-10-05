@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "11月6日のカニ漁解禁を迎えると、兵庫県但馬地方の日本海に面した香住海岸（香住港・柴山港）は、一年で最も活気あふれる松葉ガニの最高峰シーズンを迎えます。厳しい選別基準で「ピンクタグ」が付けられるブランド蟹の頂点「柴山がに」、香住港に水揚げされる新鮮な「香住松葉がに」、濃厚な内子と外子を味わう親ガニ「セコガニ」、そして最高峰黒毛和牛「但馬牛」の贅沢な饗宴。海辺に湧く塩化物温泉で潮風を感じながら身体の芯まで温まり、荒波打ち寄せる山陰海岸ジオパークの雄大な冬景色と極上のカニフルコースを満喫する至高の宿5選を徹底解説。",
   keywords: '香住温泉 宿泊, 柴山温泉 カニ, 柴山がに 宿, 香住 松葉ガニ 11月 12月, さだ助, さどや, やまや 香住, 癒しの宿こえもん, 翠湖, 但馬牛 香住, 余部橋梁 冬',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-hyogo-kasumi-onsen-shibayama-crab-matsuba-stay'
+    canonical: "https://croud-travel.pages.dev/winter-hyogo-kasumi-onsen-shibayama-crab-matsuba-stay/"
   },
   openGraph: {
     title: "【11・12月兵庫・香住温泉の初冬日本海と最高峰ブランド蟹】本場柴山ガニ＆香住松葉ガニ・但馬牛ステーキ＆海辺露天の宿5選",

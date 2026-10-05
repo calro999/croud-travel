@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '日本唯一の波打ち際ドライブ「千里浜なぎさドライブウェイ」夕景＆和倉温泉・極上能登牛と七尾湾秋魚 | クラウドトラベルふるさと納税',
   description: '10月〜11月の澄んだ日本海と夕日を走る千里浜なぎさドライブウェイ。七尾湾を望む名湯「和倉温泉」の海の温泉で温まり、極上能登牛と秋の七尾湾鮮魚・ズワイガニをふるさと納税で堪能する能登応援秋旅特集。',
-  keywords: ['能登・千里浜・和倉温泉・七尾湾 紅葉 観光', '石川県 10月 11月 旅行', '千里浜なぎさドライブ夕日＆和倉温泉能登牛', 'ふるさと納税 温泉宿泊券', '和倉温泉 花ごよみ', '和倉温泉 ゆけむりの宿美湾荘', '和倉温泉はまづる', '楽天ふるさと納税 宿泊クーポン'],
+  keywords: ["和倉温泉", "極上能登牛と七尾湾秋魚", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-chirihama-wakura-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-chirihama-wakura-autumn-stay/",
   },
   openGraph: {
     title: '日本唯一の波打ち際ドライブ「千里浜なぎさドライブウェイ」夕景＆和倉温泉・極上能登牛と七尾湾秋魚',

@@ -5,18 +5,11 @@ import path from "path";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/osaka-namba-late-night-gourmet-izakaya-guide/" },
   title: "【大阪なんば・心斎橋 深夜営業グルメ＆居酒屋】夜24時以降も開いているカスうどん・串カツ・横丁酒場",
   description:
     "終電後や夜行便前に楽しめるミナミの深夜グルメ！出汁が染みる本場のかすうどん、裏なんばの深夜営業立ち飲み、24時間営業のたこ焼き・串カツ店、なんば駅徒歩5分の大浴場＆カプセル・ホテル。",
-  keywords: [
-    "なんば 深夜 ご飯",
-    "心斎橋 深夜 居酒屋",
-    "大阪 カスうどん 深夜",
-    "裏なんば はしご酒 深夜",
-    "道頓堀 24時間 グルメ",
-    "なんば 終電後 過ごし方",
-    "なんば サウナ ホテル"
-  ],
+  keywords: ["大阪なんば", "心斎橋", "深夜営業グルメ", "居酒屋", "串カツ", "横丁酒場", "温泉宿"],
 };
 
 interface Hotel {

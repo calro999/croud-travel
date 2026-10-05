@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/gunma-kusatsu-solo-retreat-onsen-stay/" },
   title: '【草津温泉ひとり旅・名湯おこもり】湯畑源泉かけ流し・貸切風呂・上州和牛！日本三名泉の湯ヂカラに浸る贅沢ソロ温泉厳選3宿',
   description: '日本三名泉・草津温泉！湯畑徒歩2分の好立地で全館源泉かけ流し貸切風呂が評判の「湯の宿 みさご」、洗練された和モダン空間で大人のおこもりステイが叶う「湯畑泉水」、草津の名湯とコスパ抜群の滞在が魅力の「山の湯ホテル」を楽天トラベル公式API最新データに基づき徹底比較。',
   keywords: '草津温泉 一人旅 宿,草津温泉 ホテル 一人,湯の宿みさご,湯畑泉水,草津温泉 山の湯ホテル,草津 湯畑 温泉 ひとり旅',

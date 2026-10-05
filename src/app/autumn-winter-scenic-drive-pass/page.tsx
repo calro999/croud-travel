@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/autumn-winter-scenic-drive-pass/" },
   title: "【絶景ロード】紅葉＆白銀パノラマ！ドライブウェイ展望温泉宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "車窓を染める圧巻の紅葉パノラマ！伊豆スカイライン（富士山ビュー）、福島磐梯吾妻スカイライン、長野霧ヶ峰ビーナスライン、広島しまなみ海道など、日本を代表する絶景ドライブルートと展望温泉宿を徹底解説。",
-  keywords: ["autumn-winter-scenic-drive-pass", "宿泊予約", "温泉宿", "ホテル特集", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["絶景ロード", "紅葉", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
 };
 
 function loadSeasonalHotels() {

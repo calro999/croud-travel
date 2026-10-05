@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/kanagawa-hakone-sengokuhara-solo-retreat-pampas-onsen-stay/" },
   title: '【箱根仙石原温泉ひとり旅・ススキ草原白濁おこもり】黄金色のススキ・大涌谷引湯白濁露天・極上フレンチ！標高700mの高原アートリゾート厳選3宿',
   description: '秋のススキ草原と美術館が彩る高原・仙石原！全室温泉風呂付き＆ひらまつが誇る最高峰イタリアンフレンチの「THE HIRAMATSU HOTELS & RESORTS 仙石原」、大正浪漫薫る数寄屋造りと名湯白濁露天の「仙郷楼」、手頃に源泉温泉を楽しめる「箱根ホテル花月園」を徹底比較。',
   keywords: '仙石原 一人旅 宿,箱根 仙石原 ホテル 一人,ひらまつ仙石原,仙郷楼,箱根ホテル花月園,仙石原 ススキ 温泉 ひとり旅',

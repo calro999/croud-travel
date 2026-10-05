@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/hyogo-kinosaki-solo-retreat-onsen-stay/" },
   title: '【城崎温泉ひとり旅・七田外湯めぐりおこもり】大谿川柳並木・浴衣散策・松葉ガニ＆但馬牛！千三百年続く文学と名湯の街厳選3宿',
   description: '浴衣の似合う日本一の温泉街・城崎！大谿川沿いで外湯めぐりに抜群の立地を誇る「富士見屋」、但馬牛熟成肉と日本酒が自慢の洗練宿「小宿 縁」、鮮魚仲買直営で日本海の獲れたて海の幸を堪能できる「風月魚匠」を楽天API最新データに基づき徹底比較。',
   keywords: '城崎温泉 一人旅 宿,城崎 ホテル 一人 温泉,城崎温泉 富士見屋,小宿 縁,風月魚匠,城崎 外湯めぐり ひとり旅',

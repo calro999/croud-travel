@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】五彩の美に酔いしれる。九谷焼ギャラリー＆絵付け体験ができる加賀温泉郷の名旅館5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！石川県・加賀温泉郷で楽しむ伝統工芸「九谷焼」。名工の器で味わう加賀会席や絵付け体験、名湯山中・山代・片山津の極上温泉宿5選。',
-  keywords: ["九谷焼","加賀温泉郷","山中温泉","山代温泉","伝統工芸体験","加賀会席","楽天トラベル"],
+  keywords: ["2026年", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
     title: '【2026年】五彩の美に酔いしれる。九谷焼ギャラリー＆絵付け体験ができる加賀温泉郷の名旅館5選',
     description: '2026年最新！石川県・加賀温泉郷で楽しむ伝統工芸「九谷焼」。名工の器で味わう加賀会席や絵付け体験、名湯山中・山代・片山津の極上温泉宿5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/traditional-kutani-ware-ceramic-art-onsen-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/traditional-kutani-ware-ceramic-art-onsen-stay',
+    canonical: "https://croud-travel.pages.dev/traditional-kutani-ware-ceramic-art-onsen-stay/",
   },
 };
 

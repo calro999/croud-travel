@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   description: "11月から1月にかけて、富士山麓の御殿場・裾野エリアは日本屈指の光と冬富士の絶景リゾートへと輝きを増します。約550万球の光が夜空を埋め尽くす御殿場高原 時之栖の「ひかりのすみか」や大迫力の噴水レーザーショー、日本最大級の御殿場プレミアム・アウトレットでの冬のショッピング。そして空気が最も澄み渡る冬ならではの冠雪富士山を湯船から一望する展望露天風呂。名物みくりやそばや静岡そだち和牛とともに満喫する冬の富士山麓滞在。楽天APIから最新取得した実力宿5選を徹底特集します。",
   keywords: '御殿場 ホテル, 時之栖 イルミネーション, 御殿場プレミアムアウトレット, HOTEL CLAD, レンブラントプレミアム 富士御殿場, ドーミーイン 富士山御殿場, 富士山 温泉 露天風呂, 11月 12月 1月 静岡 観光',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-shizuoka-gotemba-tokinosumika-illumination-fuji-view-stay'
+    canonical: "https://croud-travel.pages.dev/winter-shizuoka-gotemba-tokinosumika-illumination-fuji-view-stay/"
   },
   openGraph: {
     title: "【11・12・1月静岡】御殿場＆裾野！時之栖イルミ＆アウトレットと冬の富士山展望露天風呂名宿5選",

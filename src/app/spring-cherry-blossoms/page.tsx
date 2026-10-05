@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/spring-cherry-blossoms/" },
   title: "【全国】桜・お花見絶景宿＆客室露天風呂 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "春の息吹！全国屈指の桜名所（京都祇園・嵐山、伊豆河津桜、奈良吉野山、青森弘前）と、客室や露天風呂から満開の桜を一望できる厳選お花見温泉旅館・ホテルを徹底ガイド。",
-  keywords: ["spring-cherry-blossoms", "宿泊予約", "温泉宿", "ホテル特集", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["全国", "お花見絶景宿", "客室露天風呂", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
 
 function loadSeasonalHotels() {

@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/sasebo-solo-business-kujukushima-burger-stay/" },
   title: '【佐世保出張・西九州ひとり旅】九十九島パノラマ・天然温泉ばってんの湯・名物佐世保バーガー！港町でととのう厳選3宿',
   description: '長崎空港や博多駅から特急みどり・高速バスで直通！ハウステンボス隣接で自家源泉天然温泉大浴場を備える「ホテル日航ハウステンボス」、弓張岳展望台の山頂近くから九十九島の夜景を一望する「弓張の丘ホテル」、JR佐世保駅徒歩約3分の好立地な「佐世保ワシントンホテル」を楽天APIデータに基づき徹底比較。',
   keywords: '佐世保 出張 ホテル,佐世保 ひとり旅 温泉,ホテル日航ハウステンボス,弓張の丘ホテル,佐世保ワシントンホテル,佐世保バーガー 九十九島 レモンステーキ',

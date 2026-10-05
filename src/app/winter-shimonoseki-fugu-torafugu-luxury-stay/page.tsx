@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "11月〜12月に旬のピークを迎える本場・下関の極上「とらふぐ」！透き通る芸術的なてっさ（ふぐ刺し）、プリプリのてっちり（ふぐ鍋）、濃厚にとろける白子焼きと香ばしいひれ酒を、山口・湯田温泉の名湯とともに。",
   keywords: "湯田温泉 旅館, 11月旅行, 12月旅行, 冬休み, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/winter-shimonoseki-fugu-torafugu-luxury-stay',
+    canonical: "https://croud-travel.pages.dev/winter-shimonoseki-fugu-torafugu-luxury-stay/",
   },
   openGraph: {
     title: "【冬の味覚の王様・下関天然とらふぐ】てっさ・てっちり・白子焼き！山口名湯宿5選",

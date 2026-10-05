@@ -4,20 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '深さ100mの絶壁が燃える錦秋絵巻！鳴子峡大紅葉＆鳴子温泉郷源泉かけ流し名宿×ふるさと納税完全ガイド【2026年最新秋旅】宮城 | 旅宿クラウド',
   description: '10月中旬〜11月上旬に見頃を迎える東北屈指の紅葉絶景「鳴子峡」。深さ約100mの大峡谷を彩る紅葉と大深沢橋を渡る列車の絶景、日本にある11の旧泉質のうち8種類が集まる奇跡の名湯「鳴子温泉郷」！「旅館大沼」「旅館すがわら」「旅館弁天閣」。仙台牛と宮城の秋の味覚を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。',
-  keywords: [
-    'ふるさと納税 温泉',
-    'ふるさと納税 宿泊券',
-    'ふるさと納税 トラベルクーポン',
-    '鳴子峡大紅葉＆鳴子温泉郷・多彩な泉質湯めぐり名宿特集',
-    '10月 旅行 おすすめ',
-    '11月 旅行 おすすめ',
-    '秋 旅行 温泉',
-    '紅葉 温泉旅館',
-    '楽天トラベル ふるさと納税',
-    '実質2000円 温泉'
-  ],
+  keywords: ["2026年最新秋旅", "宮城", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-narukokyo-akiu-autumn-foliage-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-narukokyo-akiu-autumn-foliage-stay/"
   },
   openGraph: {
     title: '深さ100mの絶壁が燃える錦秋絵巻！鳴子峡大紅葉＆鳴子温泉郷源泉かけ流し名宿×ふるさと納税完全ガイド【2026年最新秋旅】宮城',

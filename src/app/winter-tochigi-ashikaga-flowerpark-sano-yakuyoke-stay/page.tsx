@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   description: "11月から1月、栃木県足利市と佐野市は、日本三大イルミネーション第1位「あしかがフラワーパーク 光の花の庭」の500万球が輝き、関東屈指の初詣参拝者を迎える「佐野厄除け大師」の厳かな祈りに包まれます。澄んだ冬空に広がる青竹手打ち佐野ラーメンの熱気、冬に甘みが凝縮するとちおとめ＆とちあいか苺狩り。冬の両毛エリアを満喫する厳選名宿5選と1泊2日モデルコースを徹底ガイドします。",
   keywords: 'あしかがフラワーパーク イルミネーション, 光の花の庭, 佐野厄除け大師 初詣, 佐野ラーメン, 青竹手打ち, ニューミヤコホテル足利本館, ホテルルートイン佐野藤岡インター, ホテルサンルート佐野, とちあいか 苺狩り, 11月 12月 1月 栃木旅行',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-tochigi-ashikaga-flowerpark-sano-yakuyoke-stay'
+    canonical: "https://croud-travel.pages.dev/winter-tochigi-ashikaga-flowerpark-sano-yakuyoke-stay/"
   },
   openGraph: {
     title: "【11・12・1月栃木】日本一の光の祭典「あしかがフラワーパーク光の花の庭」・佐野厄除け大師初詣＆手打ち佐野ラーメン・とちおとめ苺ステイ宿5選",

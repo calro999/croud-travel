@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/tottori-misasa-onsen-mitokusan-stay/" },
   title: "【鳥取・三朝温泉＆三徳山三仏寺】世界屈指のラジウム温泉・国宝投入堂宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "日本遺産第1号・六根清浄と六感治癒・鳥取三朝エリア完全特化！世界屈指の高濃度ラジウム温泉「三朝温泉（河原風呂・株湯）」、日本一危険な国宝「三徳山三仏寺 投入堂（なげいれどう）」、名物「とち餅・鳥取和牛宿」を徹底解説。",
-  keywords: ["tottori-misasa-onsen-mitokusan-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["鳥取", "三朝温泉", "三徳山三仏寺", "世界屈指のラジウム温泉", "国宝投入堂宿", "温泉宿", "宿泊予約"],
 };
 
 function loadSeasonalHotels() {

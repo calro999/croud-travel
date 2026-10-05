@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-highlands-resort-stay/" },
   title: '日本三大高原＆爽快マウンテンリゾート・白樺と星空の露天風呂宿×ふるさと納税完全ガイド【2026年最新】志賀高原・軽井沢・白樺湖霧ヶ峰',
   description: '標高1000〜2000mを吹き抜ける涼風！長野山ノ内「志賀高原」ユネスコエコパークと志賀高原ホテル一望閣、長野「軽井沢高原」明治以来の憧れ避暑地とアパホテル軽井沢駅前軽井沢荘、長野茅野・諏訪「霧ヶ峰・白樺湖」ニッコウキスゲ咲くスカイラインと芹ヶ沢温泉白樺湖ビューホテル。日本三大高原（三大高原リゾート）の爽快ステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大高原・避暑マウンテン特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',

@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/winter-snowshoe-frozen-waterfall/" },
   title: "【冬の自然探検】白銀の氷瀑＆スノーシュートレッキング宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "青く輝く巨大氷瀑とパウダースノー！青森・奥入瀬渓流氷瀑ツアー、福島・裏磐梯イエローフォール、栃木・奥日光戦場ヶ原、長野・志賀高原など、初心者でも楽しめる冬のアウトドア体験と名湯宿を徹底解説。",
-  keywords: ["winter-snowshoe-frozen-waterfall", "宿泊予約", "温泉宿", "ホテル特集", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["冬の自然探検", "白銀の氷瀑", "スノーシュートレッキング宿", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
 
 function loadSeasonalHotels() {

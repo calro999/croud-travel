@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   description: "冬の東京・浅草＆押上は、1400年の歴史を誇る浅草寺の朱塗り本堂と雷門が新春初詣の祈りで満ち、冬の澄み渡る夜空に東京スカイツリーの限定ライティングが煌めく最も華やぐ季節。12月の伝統「歳の市（羽子板市）」から1月の初詣・浅草名所七福神巡り、老舗「浅草今半」の極上すき焼きや胡麻油香る江戸前天ぷら、駒形どぜう鍋に舌鼓を打ち、下町名物の黒湯天然温泉に浸かる贅沢な冬旅。楽天APIから最新取得した浅草・スカイツリー至近の信頼の名宿5選を徹底特集します。",
   keywords: '浅草 ホテル, 浅草寺 初詣, 東京スカイツリー 冬 夜景, 浅草 温泉, 御宿野乃浅草, ザゲートホテル雷門, 浅草ビューホテル, 浅草 すき焼き, 11月 12月 1月 東京 観光',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-tokyo-asakusa-sensoji-hatsumode-skytree-edomae-stay'
+    canonical: "https://croud-travel.pages.dev/winter-tokyo-asakusa-sensoji-hatsumode-skytree-edomae-stay/"
   },
   openGraph: {
     title: "【11・12・1月浅草押上】浅草寺新春初詣＆東京スカイツリー冬夜景！老舗すき焼き・江戸前天ぷら・下町天然温泉宿5選",

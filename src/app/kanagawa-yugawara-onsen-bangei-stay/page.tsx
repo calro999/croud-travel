@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/kanagawa-yugawara-onsen-bangei-stay/" },
   title: "【神奈川・湯河原温泉】文豪ゆかりの名湯・万葉公園＆相模湾地魚極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "都心から特急75分！湯河原温泉エリア完全特化！文豪・夏目漱石や芥川龍之介が執筆した名湯、万葉公園「湯河原惣湯 Books and Retreat」、不動の滝、相模湾の地魚舟盛りと数寄屋造り料亭旅館を徹底解説。",
-  keywords: ["kanagawa-yugawara-onsen-bangei-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["神奈川", "湯河原温泉", "文豪ゆかりの名湯", "万葉公園", "相模湾地魚極上宿", "温泉宿", "宿泊予約"],
 };
 
 function loadSeasonalHotels() {

@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/hakone-vs-atami-which-better/" },
   title: "【箱根 vs 熱海 どっちに行く？】日帰り・1泊2日それぞれのおすすめを本気で比較",
   description: "箱根と熱海、週末にどっちに行くか迷ったらこの記事。日帰りなら熱海、1泊なら箱根。交通費・宿泊費・グルメで徹底比較。",
-  keywords: ["hakone-vs-atami-which-better", "箱根", "熱海", "日帰り", "1泊2日", "比較", "おすすめ"],
+  keywords: ["箱根", "vs", "熱海", "どっちに行く？", "日帰り", "温泉宿", "宿泊予約"],
 };
 
 interface Hotel {

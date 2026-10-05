@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/kanagawa-kamakura-shonan-stay/" },
   title: "【古都鎌倉＆湘南江の島】鶴岡八幡宮・江ノ電・富士夕景ホテル 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "鎌倉・湘南・江の島エリア完全特化！鶴岡八幡宮、小町通り、高徳院大仏、江ノ電沿線、七里ヶ浜オーシャンビューホテルと相模湾の地魚・しらすグルメを徹底解説。",
-  keywords: ["kanagawa-kamakura-shonan-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["古都鎌倉", "湘南江の島", "鶴岡八幡宮", "江ノ電", "富士夕景ホテル", "温泉宿", "宿泊予約"],
 };
 
 function loadSeasonalHotels() {

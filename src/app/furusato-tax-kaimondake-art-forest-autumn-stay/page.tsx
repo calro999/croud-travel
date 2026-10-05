@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '薩摩富士・開聞岳の黄金ススキと指宿温泉砂むし！霧島アートの森紅葉と鹿児島黒豚・黒牛を味わう秋旅 | クラウドトラベルふるさと納税',
   description: '10月・11月の鹿児島・指宿＆霧島特集！薩摩半島にそびえる開聞岳（薩摩富士）と黄金色に輝くススキ野原、世界的に珍しい指宿の天然砂むし温泉、霧島アートの森の現代アート紅葉散策、鹿児島黒豚・黒牛をふるさと納税で味わう旅。',
-  keywords: ['指宿・開聞岳・霧島アートの森 紅葉 観光', '鹿児島県 10月 11月 旅行', '鹿児島・指宿温泉＆開聞岳特集', 'ふるさと納税 温泉宿泊券', '指宿温泉　指宿ロイヤルホテル　～すべての女性へ美と健康を楽しむホテル～', '指宿温泉　いぶすき秀水園', '指宿温泉　指宿こころの宿', '楽天ふるさと納税 宿泊クーポン'],
+  keywords: ["薩摩富士", "黒牛を味わう秋旅", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-kaimondake-art-forest-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-kaimondake-art-forest-autumn-stay/",
   },
   openGraph: {
     title: '薩摩富士・開聞岳の黄金ススキと指宿温泉砂むし！霧島アートの森紅葉と鹿児島黒豚・黒牛を味わう秋旅',

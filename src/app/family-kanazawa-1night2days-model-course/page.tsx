@@ -5,19 +5,10 @@ import path from "path";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/family-kanazawa-1night2days-model-course/" },
   title: "【子連れ金沢旅行 1泊2日モデルコース】ベビーカーOKスポット＆キッズ歓迎・和室ホテルの安心プラン ｜ 日本全国・旅宿クラウド",
   description: "小さなお子様や赤ちゃん連れの金沢1泊2日旅行！21世紀美術館のキッズスペース、兼六園の段差回避ルート、近江町市場の子連れランチ、添い寝無料＆和室ありの金沢駅前おすすめホテルを完全ガイド。",
-  keywords: [
-    "金沢 子連れ 旅行",
-    "金沢 赤ちゃん連れ 1泊2日",
-    "金沢 ベビーカー 観光",
-    "21世紀美術館 子連れ",
-    "兼六園 車椅子 ベビーカー ルート",
-    "近江町市場 子連れランチ",
-    "金沢 和室 ホテル 子連れ",
-    "金沢駅 添い寝無料 ホテル",
-    "楽天トラベル 金沢 子連れ"
-  ],
+  keywords: ["子連れ金沢旅行", "1泊2日モデルコース", "ベビーカーOKスポット", "キッズ歓迎", "和室ホテルの安心プラン", "温泉宿", "宿泊予約"],
 };
 
 interface Hotel {

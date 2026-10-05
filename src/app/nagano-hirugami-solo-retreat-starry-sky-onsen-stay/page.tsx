@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/nagano-hirugami-solo-retreat-starry-sky-onsen-stay/" },
   title: '【昼神温泉ひとり旅・日本一の星空おこもり】pH9.7超とろとろ美肌の湯・阿智村ナイトツアー・信州郷土会席！南信州の星降る里厳選3宿',
   description: '環境省認定「日本一星空が綺麗な村」阿智村・昼神温泉！阿知川沿いで庭園露天風呂と温水プールも備える「ひるがみの森」、多彩な大浴場と信州アルプス牛料理が評判の「湯多利の里 伊那華」、囲炉裏炉ばた料理と炭火会席が自慢の老舗「吉弥」を徹底比較。',
   keywords: '昼神温泉 一人旅 宿,阿智村 ホテル 一人 星空,ひるがみの森,湯多利の里 伊那華,昼神温泉 吉弥,阿智村 ナイトツアー ひとり旅',

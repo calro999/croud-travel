@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/aichi-chita-minamichita-himakajima-stay/" },
   title: "【愛知・知多半島＆南知多温泉郷】内海千鳥ヶ浜・日間賀島タコふぐ＆知多牛宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "伊勢湾と三河湾に囲まれた海の楽園・愛知知多半島＆南知多温泉郷エリア完全特化！日本の渚百選「内海千鳥ヶ浜」、タコとフグの島「日間賀島」、野間灯台の夕陽、源泉かけ流し南知多温泉、知多牛＆伊勢湾活魚宿を徹底解説。",
-  keywords: ["aichi-chita-minamichita-himakajima-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["愛知", "知多半島", "南知多温泉郷", "内海千鳥ヶ浜", "日間賀島タコふぐ", "知多牛宿", "温泉宿"],
 };
 
 function loadSeasonalHotels() {

@@ -4,20 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '美ら海と白い砂浜が目の前！沖縄本島最高峰ビーチリゾートホテル×ふるさと納税完全攻略ガイド【2026年最新】ハレクラニ・ルネッサンス・ロワジール',
   description: 'エメラルドグリーンの東シナ海と白い砂浜！ハワイの名門「ハレクラニ沖縄」、イルカと触れ合えるファミリー人気No.1「ルネッサンス リゾート オキナワ」、那覇空港近くで天然温泉大浴場と屋外プールを誇る「ロワジールホテル 那覇」を、沖縄県恩納村・那覇市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。',
-  keywords: [
-    'ふるさと納税 旅行',
-    'ふるさと納税 ホテル',
-    '沖縄本島ビーチリゾートホテル特集',
-    '楽天ふるさと納税 トラベル',
-    'ハレクラニ沖縄',
-    'ルネッサンスリゾートオキナワ',
-    'ロワジールホテル那覇',
-    '高級温泉旅館',
-    'プライベートステイ',
-    '実質2000円'
-  ],
+  keywords: ["2026年最新", "ハレクラニ", "ルネッサンス", "ロワジール", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-okinawa-beach-resort-luxury-stay/',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-okinawa-beach-resort-luxury-stay/",
   },
   openGraph: {
     title: '美ら海と白い砂浜が目の前！沖縄本島最高峰ビーチリゾートホテル×ふるさと納税完全攻略ガイド【2026年最新】ハレクラニ・ルネッサンス・ロワジール',

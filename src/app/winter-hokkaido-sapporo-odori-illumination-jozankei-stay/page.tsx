@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   description: "冬の札幌は大通公園を幻想的な光で埋め尽くす「さっぽろホワイトイルミネーション」や「ミュンヘン・クリスマス市」、すすきのの活気、そして車で約50分の奥座敷・定山渓温泉の雪見露天風呂が同時に楽しめる絶景シーズン。本場の熱々札幌味噌ラーメンや道産海鮮丼、シメパフェ文化まで満喫できる冬の北海道王道トリップ。楽天APIから最新取得した札幌駅・大通・定山渓の極上宿5選を徹底特集します。",
   keywords: '札幌 ホテル, 定山渓温泉 旅館, さっぽろホワイトイルミネーション, ミュンヘンクリスマス市, JRタワーホテル日航札幌, 京王プラザホテル札幌, 札幌グランドホテル, 定山渓第一寶亭留 翠山亭, 章月グランドホテル, 11月 12月 1月 北海道 観光',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-hokkaido-sapporo-odori-illumination-jozankei-stay'
+    canonical: "https://croud-travel.pages.dev/winter-hokkaido-sapporo-odori-illumination-jozankei-stay/"
   },
   openGraph: {
     title: "【11・12・1月北海道】さっぽろホワイトイルミネーション＆定山渓雪見露天！札幌味噌ラーメンと北の味覚に酔いしれる名宿5選",

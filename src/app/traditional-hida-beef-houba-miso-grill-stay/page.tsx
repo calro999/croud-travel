@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '【2026年】香ばしい味噌の香りと極上霜降り！名物「飛騨牛朴葉味噌焼き」会席の温泉宿5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！飛騨高山・下呂・奥飛騨温泉郷で味わう、自家製味噌とA5飛騨牛を朴の葉の上で香ばしく焼き上げる名物会席と日本三名泉の宿5選。',
-  keywords: ["飛騨牛","朴葉味噌","下呂温泉","奥飛騨温泉郷","郷土会席","楽天トラベル"],
+  keywords: ["2026年", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/traditional-hida-beef-houba-miso-grill-stay',
+    canonical: "https://croud-travel.pages.dev/traditional-hida-beef-houba-miso-grill-stay/",
   },
   openGraph: {
     title: '【2026年】香ばしい味噌の香りと極上霜降り！名物「飛騨牛朴葉味噌焼き」会席の温泉宿5選',

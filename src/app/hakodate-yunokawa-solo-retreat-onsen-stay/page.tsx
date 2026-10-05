@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/hakodate-yunokawa-solo-retreat-onsen-stay/" },
   title: '【函館・湯の川温泉ひとり旅】津軽海峡イカ釣り漁火・名湯掛け流し・海鮮ビュッフェ！歴史薫る北の温泉街おこもり厳選3宿',
   description: '函館空港から車でわずか約8分、函館駅からも市電で一本！レトロモダンな大浴場と充実のビュッフェが評判の「ホテル万惣」、純和風の数奇屋造りで静寂と美食に癒やされる「竹葉新葉亭」、展望露天風呂から津軽海峡を望む「湯の川観光ホテル 祥苑」を楽天API最新データに基づき徹底比較。',
   keywords: '函館 ひとり旅 温泉,湯の川温泉 ホテル 一人,ホテル万惣,竹葉新葉亭,湯の川観光ホテル祥苑,函館 朝市 イカ刺し',

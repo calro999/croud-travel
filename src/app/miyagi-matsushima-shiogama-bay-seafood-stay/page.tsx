@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/miyagi-matsushima-shiogama-bay-seafood-stay/" },
   title: "【宮城・松島＆塩竈】日本三景松島・塩竈生マグロ＆焼き牡蠣温泉宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "芭蕉が愛した日本三景「松島」の島々パノラマと、日本屈指の生マグロ水揚げ港「塩竈」の美食を巡る特化ガイド。国宝瑞巌寺、五大堂、塩竈神社、焼き牡蠣小屋、美肌の松島温泉宿を徹底解説。",
-  keywords: ["miyagi-matsushima-shiogama-bay-seafood-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["宮城", "松島", "塩竈", "日本三景松島", "塩竈生マグロ", "焼き牡蠣温泉宿", "温泉宿"],
 };
 
 function loadSeasonalHotels() {

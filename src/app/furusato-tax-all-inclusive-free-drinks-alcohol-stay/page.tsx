@@ -4,20 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '生ビール・地酒・ワインが飲み放題！お財布を気にせず寛ぐオールインクルーシブ名宿×ふるさと納税完全ガイド【2026年最新】作並・松島・伊勢志摩',
   description: 'チェックインからアウトまで、ラウンジのお酒・スイーツ・湯上がりビール・出来立て料理がすべて宿泊代金込み！追加料金ゼロで贅沢な休日を叶えるオールインクルーシブ温泉宿。「ゆづくしSalon一の坊」「松島一の坊」「グランドメルキュール伊勢志摩リゾート＆スパ」を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
-  keywords: [
-    'ふるさと納税 旅行',
-    'ふるさと納税 ホテル',
-    '飲み放題オールインクルーシブ名宿特集',
-    '楽天ふるさと納税 トラベル',
-    '仙台・作並温泉　ゆづくしＳａｌｏｎ一の坊',
-    '松島温泉　松島一の坊',
-    'グランドメルキュール伊勢志摩リゾート＆スパ',
-    'オフィシャルホテル',
-    'ファミリー旅行',
-    '実質2000円'
-  ],
+  keywords: ["生ビール", "地酒", "2026年最新", "作並", "松島", "伊勢志摩", "温泉宿"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-all-inclusive-free-drinks-alcohol-stay/',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-all-inclusive-free-drinks-alcohol-stay/",
   },
   openGraph: {
     title: '生ビール・地酒・ワインが飲み放題！お財布を気にせず寛ぐオールインクルーシブ名宿×ふるさと納税完全ガイド【2026年最新】作並・松島・伊勢志摩',

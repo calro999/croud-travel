@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "11月下旬を迎えると、瀬戸内海・播磨灘に面した兵庫県「播州赤穂温泉」は、名水百選千種川の森のミネラルが注ぎ込む坂越湾で育つ名物「坂越牡蠣（さこしかき）」の本格解禁とともに一年で最も美食の熱気に沸き立ちます。大粒で火を通しても縮まず、甘く濃厚なミルキーさを誇る坂越牡蠣の焼き・蒸し・鍋・フライのフルコースを堪能。さらに12月14日は赤穂浪士討ち入りの「赤穂義士祭」が開催され、城下町全体が歴史絵巻の賑わいに包まれます。波打ち際すれすれのインフィニティ露天風呂で瀬戸内の夕日と海に溶け込む至福の湯浴みを満喫する厳選旅館5選を徹底解説。",
   keywords: '赤穂温泉 宿泊, 赤穂温泉 11月 12月, 銀波荘 赤穂, 潮彩きらら祥吉, 呑海楼, 赤穂パークホテル, 鹿久居荘, 坂越牡蠣 宿, 赤穂義士祭 宿泊, インフィニティ露天風呂 赤穂',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-hyogo-ako-onsen-sakoshi-oyster-infinity-stay'
+    canonical: "https://croud-travel.pages.dev/winter-hyogo-ako-onsen-sakoshi-oyster-infinity-stay/"
   },
   openGraph: {
     title: "【11・12月兵庫・播州赤穂温泉の播磨灘夕景と11月解禁坂越牡蠣】赤穂義士祭の歴史情緒・瀬戸内インフィニティ絶景露天の宿5選",

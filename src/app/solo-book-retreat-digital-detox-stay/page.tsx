@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/solo-book-retreat-digital-detox-stay/" },
   title: '【読書・デジタルデトックス泊】本の世界に没頭するライブラリーホテル＆文豪ゆかりの名湯おこもり宿 厳選3選',
   description: 'スマートフォンを置いて、物語や思索の旅へ出かけよう。何千冊もの蔵書に囲まれる「芝パークホテル」、夏目漱石や島崎藤村が逗留した文化財の宿「湯河原温泉 源泉 上野屋」、志賀直哉が名作『城の崎にて』を執筆した日本旅館の最高峰「城崎温泉 西村屋本館」を徹底特集。心静かに活字と温泉に浸る大人のソロリトリート。',
   keywords: '読書 宿泊 一人旅,デジタルデトックス ホテル,ブックホテル 一人,芝パークホテル 宿泊,文豪 温泉宿 一人旅,西村屋本館 一人',

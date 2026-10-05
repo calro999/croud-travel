@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/autumn-winter-sauna-retreat/" },
   title: "【ととのう極上旅】絶景サウナ＆天然水風呂の温泉宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "秋・冬の外気浴が最高に気持ちいい！長野・野尻湖The Sauna、山梨・富士山ビューサウナ、静岡・天然水風呂宿、北海道・十勝アヴァントサウナなど、本格フィンランド式サウナと温泉を兼ね備えた名宿を徹底解説。",
-  keywords: ["autumn-winter-sauna-retreat", "宿泊予約", "温泉宿", "ホテル特集", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["ととのう極上旅", "絶景サウナ", "天然水風呂の温泉宿", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
 
 function loadSeasonalHotels() {

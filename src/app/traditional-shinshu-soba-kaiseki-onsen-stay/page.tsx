@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】挽きたて・打ちたて・茹でたて！信州手打ち蕎麦会席＆北アルプス展望温泉宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！長野・戸隠・安曇野の名水が育む絶品手打ち蕎麦尽くし会席！北アルプスの雪形や新緑を望む絶景露天風呂と信州美食を堪能する名宿5選。',
-  keywords: ["信州蕎麦","手打ち十割蕎麦","長野温泉","戸隠蕎麦","安曇野","北アルプス絶景","楽天トラベル"],
+  keywords: ["2026年", "挽きたて", "打ちたて", "茹でたて！信州手打ち蕎麦会席", "北アルプス展望温泉宿5選", "日本全国", "旅宿クラウド"],
   openGraph: {
     title: '【2026年】挽きたて・打ちたて・茹でたて！信州手打ち蕎麦会席＆北アルプス展望温泉宿5選',
     description: '2026年最新！長野・戸隠・安曇野の名水が育む絶品手打ち蕎麦尽くし会席！北アルプスの雪形や新緑を望む絶景露天風呂と信州美食を堪能する名宿5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/traditional-shinshu-soba-kaiseki-onsen-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/traditional-shinshu-soba-kaiseki-onsen-stay',
+    canonical: "https://croud-travel.pages.dev/traditional-shinshu-soba-kaiseki-onsen-stay/",
   },
 };
 

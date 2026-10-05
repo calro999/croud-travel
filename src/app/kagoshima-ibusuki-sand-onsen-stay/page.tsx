@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/kagoshima-ibusuki-sand-onsen-stay/" },
   title: "【鹿児島・指宿温泉】天然砂むし温泉＆開聞岳パノラマ・黒豚極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "南国鹿児島・指宿温泉エリア完全特化！波打ち際で温まる世界唯一の「天然砂むし温泉」、薩摩富士「開聞岳」、干潮時に歩いて渡る知林ヶ島、鹿児島黒豚しゃぶしゃぶ・さつま揚げと南国リゾート旅館を徹底解説。",
-  keywords: ["kagoshima-ibusuki-sand-onsen-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["鹿児島", "指宿温泉", "天然砂むし温泉", "開聞岳パノラマ", "黒豚極上宿", "温泉宿", "宿泊予約"],
 };
 
 function loadSeasonalHotels() {

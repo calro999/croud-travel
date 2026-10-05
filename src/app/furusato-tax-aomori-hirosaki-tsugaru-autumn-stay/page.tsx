@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '青森・弘前城菊と紅葉まつり＆津軽の秋！岩木山麓温泉と津軽りんご収穫・極上大間まぐろ | クラウドトラベルふるさと納税',
   description: '10月・11月の青森・弘前＆津軽特集！天守と老松を彩る弘前公園の紅葉ライトアップと「弘前城菊と紅葉まつり」、津軽富士・岩木山の錦秋パノラマ、収穫最盛期を迎える蜜たっぷり津軽りんご、津軽の郷土料理と大間まぐろをふるさと納税トラベルクーポンでお得に満喫するみちのく秋旅。',
-  keywords: ["弘前城菊と紅葉まつり・岩木山・津軽 観光","青森県 10月 11月 旅行","弘前城紅葉ライトアップ＆津軽りんご美食旅","ふるさと納税 温泉宿泊券","ブロッサムホテル弘前","弘前プラザホテル","スマイルホテル弘前","楽天ふるさと納税 宿泊クーポン"],
+  keywords: ["青森", "弘前城菊と紅葉まつり", "極上大間まぐろ", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-aomori-hirosaki-tsugaru-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-aomori-hirosaki-tsugaru-autumn-stay/",
   },
   openGraph: {
     title: '青森・弘前城菊と紅葉まつり＆津軽の秋！岩木山麓温泉と津軽りんご収穫・極上大間まぐろ',

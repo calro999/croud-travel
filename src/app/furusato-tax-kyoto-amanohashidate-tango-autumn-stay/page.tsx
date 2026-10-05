@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '京都・日本三景 天橋立の松並木紅葉＆丹後！天橋立温泉の美肌湯と丹後ぐじ・寒ブリ会席 | クラウドトラベルふるさと納税',
   description: '10月・11月の京都・天橋立＆丹後特集！天橋立ビューランドからの股のぞき絶景と傘松公園の秋パノラマ、阿蘇海と宮津湾を結ぶ運河沿いの美肌名湯「天橋立温泉」、丹後ぐじ（甘鯛）や11月解禁の間人ガニ・寒ブリをふるさと納税トラベルで味わう極上京都旅。',
-  keywords: ["天橋立・宮津・丹後 紅葉 観光","京都府 10月 11月 旅行","天橋立温泉紅葉＆丹後ぐじ松葉ガニグルメ","ふるさと納税 温泉宿泊券","天橋立温泉　ホテル北野屋","天橋立温泉　天橋立ホテル","天橋立温泉　文珠荘","楽天ふるさと納税 宿泊クーポン"],
+  keywords: ["京都", "日本三景", "天橋立の松並木紅葉", "寒ブリ会席", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-kyoto-amanohashidate-tango-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-kyoto-amanohashidate-tango-autumn-stay/",
   },
   openGraph: {
     title: '京都・日本三景 天橋立の松並木紅葉＆丹後！天橋立温泉の美肌湯と丹後ぐじ・寒ブリ会席',

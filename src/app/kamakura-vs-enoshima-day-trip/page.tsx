@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/kamakura-vs-enoshima-day-trip/" },
   title: "【鎌倉 vs 江の島 日帰りならどっち？】半日・1日コース別の楽しみ方＆費用を完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "鎌倉と江の島、日帰りで行くならどっちがおすすめ？半日しかないなら鎌倉（大仏＆小町通り食べ歩き）、1日あるなら両方ハシゴ（江ノ電で20分）。拝観料・食べ歩き費用・モデルコースを時間帯別に完全ガイド。",
-  keywords: ["kamakura-vs-enoshima-day-trip", "鎌倉", "江の島", "日帰り", "観光", "食べ歩き", "モデルコース", "費用"],
+  keywords: ["鎌倉", "vs", "江の島", "日帰りならどっち？", "半日", "1日コース別の楽しみ方", "費用を"],
 };
 
 function loadHotels() {

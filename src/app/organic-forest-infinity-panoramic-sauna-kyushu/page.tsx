@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "由布岳や阿蘇外輪山、霧島連峰の雄大な山並みを望む絶景サウナ！セルフロウリュ完備の本格フィンランド式サウナと、阿蘇・霧島の超軟水天然湧水水風呂で究極のディープリラックスを叶える宿。",
   keywords: "由布院 サウナ 温泉, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/organic-forest-infinity-panoramic-sauna-kyushu',
+    canonical: "https://croud-travel.pages.dev/organic-forest-infinity-panoramic-sauna-kyushu/",
   },
   openGraph: {
     title: "【九州名峰パノラマサウナ＆阿蘇湧水】由布院・黒川・霧島！大自然の外気浴サウナ宿5選",

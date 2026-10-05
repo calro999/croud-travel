@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '【2026年】パチパチ爆ぜる薪ストーブと木の香り！北欧風ログキャビン＆森林温泉リトリート5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！本物の薪ストーブの炎に癒やされ、針葉樹の森でマイナスイオンを深呼吸する北欧風ログハウス＆コテージ温泉宿5選。心温まる休日。',
-  keywords: ["薪ストーブ","ログハウス","コテージ","森林浴温泉","冬旅","楽天トラベル"],
+  keywords: ["2026年", "森林温泉リトリート5選", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/forest-cabin-nordic-wood-stove-retreat-stay',
+    canonical: "https://croud-travel.pages.dev/forest-cabin-nordic-wood-stove-retreat-stay/",
   },
   openGraph: {
     title: '【2026年】パチパチ爆ぜる薪ストーブと木の香り！北欧風ログキャビン＆森林温泉リトリート5選',

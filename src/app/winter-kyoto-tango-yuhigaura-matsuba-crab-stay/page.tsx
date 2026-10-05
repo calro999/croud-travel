@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "11月6日のカニ漁解禁を迎えると、京都府北部・丹後半島の西端に位置する夕日ヶ浦温泉（浜詰温泉）は、一年で最も活気と美食の熱気に包まれる松葉ガニの最盛期を迎えます。「日本の夕陽百選」に選定された白砂青松の浜詰海岸に沈む黄金の夕日と荒波打ち寄せる日本海の絶景を眺めながら、緑のタグで知られる幻の最高峰「間人ガニ（たいざがに）」や本場丹後松葉ガニの刺し・焼き・茹で・鍋のフルコースを堪能。「美人の湯」と称されるトロリとした弱アルカリ性単純温泉で冷えた身体を芯から温める、初冬の厳選海辺旅館5選を徹底解説。",
   keywords: '夕日ヶ浦温泉 宿泊, 夕日ヶ浦温泉 カニ 11月 12月, 佳松苑 夕日ヶ浦, 海花亭 花御前, 旅亭 櫂, 静花扇, 海舟 夕日ヶ浦, 松葉ガニ 間人ガニ 宿, 丹後 温泉 露天風呂',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-kyoto-tango-yuhigaura-matsuba-crab-stay'
+    canonical: "https://croud-travel.pages.dev/winter-kyoto-tango-yuhigaura-matsuba-crab-stay/"
   },
   openGraph: {
     title: "【11・12月京都丹後・夕日ヶ浦温泉の日本海夕景と11月解禁松葉ガニ】本場間人ガニ・美人の湯＆海辺展望露天の宿5選",

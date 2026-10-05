@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/winter-starry-sky-astrophotography/" },
   title: "【冬の天体観測】満天の星空＆天の川！絶景星空ホテル 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "空気が澄み渡る冬の夜空！長野・阿智村（日本一の星空ナイトツアー）、八ヶ岳・野辺山高原、沖縄・石垣島西表島（星空保護区）、和歌山・串本潮岬など、肉眼で満天の星空や天の川を望む人気ホテル＆温泉宿を徹底解説。",
-  keywords: ["winter-starry-sky-astrophotography", "宿泊予約", "温泉宿", "ホテル特集", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["冬の天体観測", "満天の星空", "天の川！絶景星空ホテル", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
 
 function loadSeasonalHotels() {

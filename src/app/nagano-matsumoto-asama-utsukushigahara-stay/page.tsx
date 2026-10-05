@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/nagano-matsumoto-asama-utsukushigahara-stay/" },
   title: "【長野・松本＆浅間温泉・美ヶ原】国宝松本城・クラフトの街＆信州そば・雲海宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "城下町文化と高原パノラマ・長野松本＆浅間温泉・美ヶ原エリア完全特化！国宝五重天守「松本城」、中町通りのなまこ壁、美ヶ原高原の雲海、飛鳥時代開湯の「浅間温泉」、手打ち信州そばと信州サーモン宿を徹底解説。",
-  keywords: ["nagano-matsumoto-asama-utsukushigahara-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["長野", "松本", "浅間温泉", "美ヶ原", "国宝松本城", "クラフトの街", "信州そば"],
 };
 
 function loadSeasonalHotels() {

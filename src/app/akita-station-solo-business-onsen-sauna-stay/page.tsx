@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/akita-station-solo-business-onsen-sauna-stay/" },
   title: '【秋田駅前出張・天然温泉サウナ】秋田新幹線こまち・中通温泉こまちの湯・比内地鶏＆きりたんぽ！美酒王国の厳選3宿',
   description: '秋田新幹線「こまち」終点！最上階天然温泉露天風呂とサウナ・名物だまこ汁朝食が自慢の「ドーミーイン秋田」、駅前徒歩約3分でハイクラスな客室設備と広々デスクの「ダイワロイネットホテル秋田駅前」、大町繁華街近くで快適ステイの「クインテッサホテル秋田」を徹底比較。',
   keywords: '秋田 出張 ホテル,秋田駅 温泉 ホテル,ドーミーイン秋田,ダイワロイネットホテル秋田駅前,クインテッサホテル秋田,秋田 きりたんぽ 一人旅',

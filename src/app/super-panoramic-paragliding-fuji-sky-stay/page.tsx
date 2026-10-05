@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "霊峰・富士山を真正面に望みながら大空を滑空する感動のタンデムパラグライダー！風に乗って飛ぶ空中散歩を満喫した後は、富士山ビューの展望露天風呂とサウナで極上のととのいを叶える人気リゾートを厳選。",
   keywords: "富士山 パラグライダー ホテル, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/super-panoramic-paragliding-fuji-sky-stay',
+    canonical: "https://croud-travel.pages.dev/super-panoramic-paragliding-fuji-sky-stay/",
   },
   openGraph: {
     title: "【富士山を望む空中飛行】朝霧高原タンデムパラグライダー＆富士パノラマ温泉宿5選",

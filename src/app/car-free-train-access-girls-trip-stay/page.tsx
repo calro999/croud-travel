@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '新幹線・特急駅から徒歩ですぐ！車なし・電車アクセス抜群の駅近名湯＆女子旅ホテル ｜ 日本全国・旅宿クラウド',
   description: '金沢・松本・仙台・別府など主要駅から徒歩数分や無料送迎でアクセス至便な温泉宿。レンタカーなしでも周辺の観光名所やグルメスポットを身軽に満喫。',
-  keywords: ["車なし旅行","駅近ホテル","女子旅","電車旅","新幹線アクセス","手ぶら観光"],
+  keywords: ["新幹線", "特急駅から徒歩ですぐ！車なし", "電車アクセス抜群の駅近名湯", "女子旅ホテル", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/car-free-train-access-girls-trip-stay',
+    canonical: "https://croud-travel.pages.dev/car-free-train-access-girls-trip-stay/",
   },
   openGraph: {
     title: '新幹線・特急駅から徒歩ですぐ！車なし・電車アクセス抜群の駅近名湯＆女子旅ホテル',

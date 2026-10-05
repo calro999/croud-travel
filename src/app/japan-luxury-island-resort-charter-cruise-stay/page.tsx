@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/japan-luxury-island-resort-charter-cruise-stay/" },
   title: "【プライベートクルーズ＆離島ラグジュアリーリゾート】瀬戸内・伊勢志摩・八重山 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "陸路では辿り着けない碧碧たる楽園！プライベートクルーズ・ヘリ送迎対応の最高峰アイランドリゾート完全特化！瀬戸内・ベネッセハウス・ガンツウ、伊勢志摩・アマネム・英虞湾クルーズ、八重山諸島プライベートヨット宿を徹底解説。",
-  keywords: ["japan-luxury-island-resort-charter-cruise-stay", "宿泊予約", "高級リゾート", "記念日ホテル", "ラグジュアリーステイ", "楽天トラベル"],
+  keywords: ["プライベートクルーズ", "離島ラグジュアリーリゾート", "瀬戸内", "伊勢志摩", "八重山", "温泉宿", "宿泊予約"],
 };
 
 function loadSeasonalHotels() {

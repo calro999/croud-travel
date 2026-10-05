@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/niigata-echigo-yuzawa-solo-retreat-snow-country-onsen-stay/" },
   title: '【新潟・越後湯沢温泉ひとり旅・川端康成『雪国』の文学湯治おこもり】新幹線直結・谷川連峰一望の露天風呂・魚沼産コシヒカリ会席！白銀の温泉郷厳選3宿',
   description: '上越新幹線で東京から最速約70分！川端康成の小説『雪国』の舞台として知られる越後湯沢温泉。四季折々の野花と畳敷きの温もりが心地よい「松泉閣花月」、谷川連峰の大パノラマと自家源泉かけ流しを誇る高台の名宿「一望千里 御湯宿 中屋」、大露天風呂と充実設備で気軽に滞在できる「湯沢東映ホテル」を楽天API最新データに基づき徹底比較。',
   keywords: '越後湯沢温泉 一人旅 宿,越後湯沢 ホテル 一人 温泉,松泉閣花月 一人旅,御湯宿 中屋,湯沢東映ホテル,越後湯沢 ひとり旅 おこもり',

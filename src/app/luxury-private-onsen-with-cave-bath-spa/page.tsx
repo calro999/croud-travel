@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】神秘の地底空間へ。天然洞窟風呂＆鍾乳洞インフィニティ温泉の隠れ家宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！大自然の岩肌に包まれる幻想的な「洞窟風呂」！薄明かりに照らされた神秘の湯船と源泉掛け流しの秘湯を堪能する大人の隠れ家名宿5選。',
-  keywords: ["洞窟風呂","秘湯名宿","天然岩風呂","源泉掛け流し","大人の隠れ家","神秘の温泉","楽天トラベル"],
+  keywords: ["2026年", "神秘の地底空間へ。天然洞窟風呂", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
     title: '【2026年】神秘の地底空間へ。天然洞窟風呂＆鍾乳洞インフィニティ温泉の隠れ家宿5選',
     description: '2026年最新！大自然の岩肌に包まれる幻想的な「洞窟風呂」！薄明かりに照らされた神秘の湯船と源泉掛け流しの秘湯を堪能する大人の隠れ家名宿5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/luxury-private-onsen-with-cave-bath-spa',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/luxury-private-onsen-with-cave-bath-spa',
+    canonical: "https://croud-travel.pages.dev/luxury-private-onsen-with-cave-bath-spa/",
   },
 };
 

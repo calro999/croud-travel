@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '秋の伊勢海老まつり解禁！日南・飫肥城下町の武家屋敷ステイ＆南国日南海岸の絶景オーシャンビュー温泉 | クラウドトラベルふるさと納税',
   description: '9月〜11月限定で旬を迎える日南海岸の天然伊勢海老。飫肥城下町のレトロな武家屋敷散策と、太平洋を一望する日南温泉リゾートでぷりっぷりの伊勢海老・宮崎牛をふるさと納税で堪能する秋の南九州旅。',
-  keywords: ['日南・飫肥城下町・青島 紅葉 グルメ', '宮崎県 秋 10月 11月', '日南海岸伊勢海老まつり＆飫肥城下町宮崎牛', 'ふるさと納税 温泉宿泊券', '天然温泉ひなたの宿日南宮崎', 'ホテル日南北郷リゾート', '青島天然温泉ルートイングランティアあおしま太陽閣', '楽天ふるさと納税 温泉クーポン'],
+  keywords: ["秋の伊勢海老まつり解禁！日南", "飫肥城下町の武家屋敷ステイ", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-nichinan-obi-iseebi-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-nichinan-obi-iseebi-autumn-stay/",
   },
   openGraph: {
     title: '秋の伊勢海老まつり解禁！日南・飫肥城下町の武家屋敷ステイ＆南国日南海岸の絶景オーシャンビュー温泉',

@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/nagano-kiso-fukushima-nezamenotoko-stay/" },
   title: "【長野・木曽福島＆寝覚の床・御嶽山】中山道関所宿場町・木曽そば＆五平餅宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "中山道木曽路の中心・木曽福島＆寝覚の床エリア完全特化！日本四大関所「木曽福島関所」、浦島太郎伝説の名勝「寝覚の床」、霊峰御嶽山、木曽川の清流と名物「木曽手打ちそば・五平餅・朴葉巻き宿」を徹底解説。",
-  keywords: ["nagano-kiso-fukushima-nezamenotoko-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["長野", "木曽福島", "寝覚の床", "御嶽山", "中山道関所宿場町", "木曽そば", "五平餅宿"],
 };
 
 function loadSeasonalHotels() {

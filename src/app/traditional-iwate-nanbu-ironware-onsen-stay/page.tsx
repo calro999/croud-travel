@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】鉄瓶で沸かすまろやかな白湯。南部鉄器の美と花巻・つなぎ温泉の風情名宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！四百年の歴史を誇る岩手の伝統工芸「南部鉄器」！鉄瓶で丁寧に淹れたお茶と前沢牛・三陸海鮮会席、名湯花巻温泉郷で日本の職人技に触れる宿5選。',
-  keywords: ["南部鉄器","花巻温泉","つなぎ温泉","前沢牛","三陸海鮮","伝統工芸宿","楽天トラベル"],
+  keywords: ["2026年", "つなぎ温泉の風情名宿5選", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
     title: '【2026年】鉄瓶で沸かすまろやかな白湯。南部鉄器の美と花巻・つなぎ温泉の風情名宿5選',
     description: '2026年最新！四百年の歴史を誇る岩手の伝統工芸「南部鉄器」！鉄瓶で丁寧に淹れたお茶と前沢牛・三陸海鮮会席、名湯花巻温泉郷で日本の職人技に触れる宿5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/traditional-iwate-nanbu-ironware-onsen-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/traditional-iwate-nanbu-ironware-onsen-stay',
+    canonical: "https://croud-travel.pages.dev/traditional-iwate-nanbu-ironware-onsen-stay/",
   },
 };
 

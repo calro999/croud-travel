@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/shizuoka-izu-shimoda-beach-stay/" },
   title: "【静岡・伊豆下田＆白浜海岸】エメラルドの海・白浜大浜＆金目鯛水揚げ日本一宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "南伊豆・下田エリア完全特化！透明度抜群の「白浜大浜海水浴場」、ペリーロードのなまこ壁、下田海中水族館、下田ロープウェイ寝姿山、水揚げ日本一の下田港「金目鯛づくし会席」と絶景オーシャンビュー温泉旅館を徹底解説。",
-  keywords: ["shizuoka-izu-shimoda-beach-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["静岡", "伊豆下田", "白浜海岸", "エメラルドの海", "白浜大浜", "金目鯛水揚げ日本一宿", "温泉宿"],
 };
 
 function loadSeasonalHotels() {

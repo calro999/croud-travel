@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/yamanashi-yumura-solo-retreat-onsen-stay/" },
   title: '【甲府・湯村温泉ひとり旅・信玄隠し湯おこもり】自家源泉かけ流し・太宰治ゆかりの文学宿・甲州ワイン＆ほうとう！都心特急90分の古湯厳選3宿',
   description: '武田信玄の隠し湯として名高い甲府・湯村温泉！湯守の手入れが行き届いた極上かけ流し湯と家庭的な温もりが自慢の「弘法湯」、巨石露天風呂と甲州の郷土料理を静かに堪能できる「湯志摩の郷 楽水園」、自家源泉100%かけ流しとビジネス・ワーケーションにも最適な「湯村ホテル」を楽天API最新データに基づき徹底比較。',
   keywords: '湯村温泉 一人旅 宿,湯村温泉 ホテル 一人,弘法湯 湯村,楽水園 湯村温泉,湯村ホテル 甲府,湯村温泉 信玄隠し湯 ひとり旅',

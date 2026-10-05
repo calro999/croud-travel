@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '世界遺産「高野山」壇上伽藍の紅葉ライトアップ＆日本三美人の湯「龍神温泉」・極上熊野牛会席 | クラウドトラベルふるさと納税',
   description: '10月下旬〜11月中旬に山全体が深紅と黄金に染まる聖地・高野山。高野龍神スカイラインをドライブし、弘法大師ゆかりの日本三美人の湯「龍神温泉」で極上美肌湯とブランド肉「熊野牛」をふるさと納税で楽しむ秋旅。',
-  keywords: ['高野山・龍神温泉・奥の院 紅葉 観光', '和歌山県 10月 11月 旅行', '高野山紅葉ライトアップ＆龍神温泉熊野牛', 'ふるさと納税 温泉宿泊券', '龍神温泉 季楽里 龍神', '龍神温泉 下御殿', '龍神温泉 民宿旅館 ささゆり', '楽天ふるさと納税 宿泊クーポン'],
+  keywords: ["日本三美人の湯「龍神温泉」", "極上熊野牛会席", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-koyasan-ryujin-onsen-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-koyasan-ryujin-onsen-autumn-stay/",
   },
   openGraph: {
     title: '世界遺産「高野山」壇上伽藍の紅葉ライトアップ＆日本三美人の湯「龍神温泉」・極上熊野牛会席',

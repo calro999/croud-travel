@@ -5,18 +5,11 @@ import path from "path";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-rainy-weather-indoor-guide/" },
   title: "【雨でも安心！全天候型グランピング】屋根付きBBQデッキ＆冷暖房完備ドームテントで台風・雨天も快適 ｜ 日本全国・旅宿クラウド",
   description:
     "せっかくのシルバーウィークが雨予報でも大丈夫！開閉式ルーフや屋根付きウッドデッキ、室内ボードゲームラウンジ、温泉大浴場が直結した全天候型グランピング施設。雨天キャンセル規定の比較も。",
-  keywords: [
-    "雨でも安心 グランピング",
-    "全天候型 グランピング",
-    "雨 BBQ 屋根付き グランピング",
-    "台風 グランピング キャンセル料",
-    "シルバーウィーク 雨 キャンプ",
-    "室内ラウンジ グランピング",
-    "ドームテント 雨天 過ごし方"
-  ],
+  keywords: ["屋根付きBBQデッキ", "冷暖房完備ドームテントで台風", "雨天も快適", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
 
 interface Hotel {

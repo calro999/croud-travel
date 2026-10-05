@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "11月から12月にかけて、西伊豆・堂ヶ島温泉は空気が澄み渡り、駿河湾の彼方に白雪を戴く雄大な富士山と、日本屈指の美しさを誇る「夕陽百選」の黄金色の落日が重なる奇跡のベストシーズンを迎えます。奇岩が織りなす「伊豆の松島」堂ヶ島天窓洞や三四郎島の絶景、海辺に湧く肌触りなめらかな硫酸塩温泉。そして初冬に旬の最盛期を迎える駿河湾深海の名物「戸田の高足ガニ（タカアシガニ）」や伊勢海老、脂の乗った地金目鯛の姿煮を味わう絶景オーシャンビュー名宿5選を徹底解説します。",
   keywords: '堂ヶ島温泉 宿泊, 西伊豆 温泉, 堂ヶ島ニュー銀水, 海辺のかくれ湯清流, 堂ヶ島温泉ホテル, 西伊豆クリスタルビューホテル, 西伊豆今宵, 高足ガニ 宿, 金目鯛姿煮, 伊勢海老, 夕陽百選, 11月 12月 西伊豆',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-shizuoka-nishiizu-dogashima-onsen-sunset-fuji-takaashigani-stay'
+    canonical: "https://croud-travel.pages.dev/winter-shizuoka-nishiizu-dogashima-onsen-sunset-fuji-takaashigani-stay/"
   },
   openGraph: {
     title: "【11・12月静岡・西伊豆堂ヶ島温泉の夕陽百選＆駿河湾越しの雪化粧富士】名物戸田高足ガニ＆伊勢海老・地金目鯛会席を堪能する絶景オーシャンビュー名宿5選",

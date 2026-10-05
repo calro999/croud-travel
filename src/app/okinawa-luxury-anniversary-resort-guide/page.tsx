@@ -5,18 +5,11 @@ import path from "path";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/okinawa-luxury-anniversary-resort-guide/" },
   title: "【沖縄・宮古島 記念日ヴィラ＆極上リゾート】プライベートプール付き客室で過ごすプロポーズ・ハネムーン旅 ｜ 日本全国・旅宿クラウド",
   description:
     "一生に一度の記念日・ハネムーン・プロポーズにふさわしい沖縄本島＆宮古島の最高峰リゾートヴィラ！プライベートプール・ジェットバス・サンセットディナー付きの極上ラグジュアリーステイガイド。",
-  keywords: [
-    "沖縄 記念日 ヴィラ",
-    "宮古島 プライベートプール付き客室",
-    "宮古島 ハネムーン ホテル",
-    "沖縄 プロポーズ リゾート",
-    "宮古島 高級ヴィラ 記念日",
-    "沖縄 プライベートヴィラ カップル",
-    "楽天トラベル 沖縄 高級リゾート"
-  ],
+  keywords: ["沖縄", "宮古島", "記念日ヴィラ", "極上リゾート", "ハネムーン旅", "温泉宿", "宿泊予約"],
 };
 
 interface Hotel {

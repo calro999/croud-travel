@@ -4,6 +4,7 @@ import Link from 'next/link';
 import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/japan-classic-hotel-association-heritage-stay/" },
   title: '日本クラシックホテルの会加盟名門宿完全ガイド【明治・大正の薫りと登録有形文化財】 | クラウドトラベル',
   description: '日光金谷ホテル、富士屋ホテル、奈良ホテルなど日本クラシックホテルの会に加盟する名門建築宿を特集。歴代のVIPや文豪が愛した至高のホスピタリティと往時の美意識を巡る特別な宿泊体験。',
   openGraph: {

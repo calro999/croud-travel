@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】輪島塗の器で味わう能登前寿司！能登復興応援＆和倉温泉・七尾湾オーシャン宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！日本の伝統漆器「輪島塗」の美しい器でいただく能登前握り寿司＆のどぐろ会席！七尾湾の穏やかな海を一望する和倉温泉の名湯と能登復興応援の宿5選。',
-  keywords: ["輪島塗","和倉温泉","能登前寿司","のどぐろ会席","七尾湾","能登復興応援","楽天トラベル"],
+  keywords: ["2026年", "和倉温泉", "七尾湾オーシャン宿5選", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約"],
   openGraph: {
     title: '【2026年】輪島塗の器で味わう能登前寿司！能登復興応援＆和倉温泉・七尾湾オーシャン宿5選',
     description: '2026年最新！日本の伝統漆器「輪島塗」の美しい器でいただく能登前握り寿司＆のどぐろ会席！七尾湾の穏やかな海を一望する和倉温泉の名湯と能登復興応援の宿5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/traditional-ishikawa-wajima-nuri-lacquer-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/traditional-ishikawa-wajima-nuri-lacquer-stay',
+    canonical: "https://croud-travel.pages.dev/traditional-ishikawa-wajima-nuri-lacquer-stay/",
   },
 };
 

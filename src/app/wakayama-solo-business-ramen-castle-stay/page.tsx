@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/wakayama-solo-business-ramen-castle-stay/" },
   title: '【和歌山出張・ひとり旅】天然温泉紀州の湯・和歌山城パノラマ・濃厚豚骨醤油中華そば！城下町でととのう快適出張宿 厳選3選',
   description: '関西南部の拠点・和歌山市での出張や一人旅に！自家源泉天然温泉と夜鳴きそばが揃う「ドーミーインPREMIUM和歌山」、和歌山城の夜景を望むハイクラスな「ダイワロイネットホテル和歌山」、JR和歌山駅直結の「ホテルグランヴィア和歌山」を徹底比較。',
   keywords: '和歌山 出張 ホテル,和歌山 ホテル 一人旅,ドーミーインPREMIUM和歌山,ダイワロイネットホテル和歌山,ホテルグランヴィア和歌山,和歌山ラーメン 中華そば',

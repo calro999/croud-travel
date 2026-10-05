@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "初夏の夜、静寂な清流沿いのプライベートデッキや客室露天風呂から、淡く光りながら舞い飛ぶ天然のゲンジボタルを鑑賞。喧騒を離れ、自然の光と水のせせらぎに包まれる風雅な温泉旅館を厳選紹介。",
   keywords: "ホタル 温泉 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/luxury-private-onsen-with-scenic-firefly-deck',
+    canonical: "https://croud-travel.pages.dev/luxury-private-onsen-with-scenic-firefly-deck/",
   },
   openGraph: {
     title: "【初夏の幻想蛍夜】客室露天・専用テラスから舞う蛍を鑑賞！清流沿いの隠れ家名湯宿5選",

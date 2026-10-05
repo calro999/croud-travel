@@ -4,16 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '銘菓・和カフェ＆老舗スイーツめぐり温泉宿×ふるさと納税完全ガイド【2026年最新】金沢・小布施・伊勢の甘味旅',
   description: '女子旅やご褒美旅行に大人気！金沢ひがし茶屋街の金箔ソフト＆抹茶和菓子、長野小布施の焼き栗・モンブラン名店めぐり、三重伊勢おはらい町の赤福・伊勢うどん食べ歩き。歴史ある街並みの名湯旅館を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
-  keywords: [
-    '楽天ふるさと納税',
-    'ふるさと納税 宿泊クーポン',
-    '楽天トラベル ふるさと納税',
-    '高級温泉旅館',
-    '露天風呂付き客室',
-    '2026年旅行'
-  ],
+  keywords: ["銘菓", "和カフェ", "2026年最新", "金沢", "小布施", "伊勢の甘味旅", "温泉宿"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-sweets-cafe-wagashi-retro-onsen-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-sweets-cafe-wagashi-retro-onsen-stay/"
   },
   openGraph: {
     title: '銘菓・和カフェ＆老舗スイーツめぐり温泉宿×ふるさと納税完全ガイド【2026年最新】金沢・小布施・伊勢の甘味旅',

@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "江戸・明治の風情が残る倉吉白壁土蔵群の伝統織物「倉吉絣」と、品評会日本一に輝いた「鳥取和牛」！世界屈指の高濃度ラジウム温泉として名高い三朝温泉で、免疫力を高める湯治と美食を堪能する極上ステイ。",
   keywords: "三朝温泉 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/traditional-tottori-kurayoshi-kasuri-stay',
+    canonical: "https://croud-travel.pages.dev/traditional-tottori-kurayoshi-kasuri-stay/",
   },
   openGraph: {
     title: "【倉吉絣と鳥取和牛】白壁土蔵群の伝統美と三朝温泉ラジウム名湯宿5選",

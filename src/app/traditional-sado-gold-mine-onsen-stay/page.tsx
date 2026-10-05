@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】佐渡金山世界遺産登録記念！極上日本海海の幸と絶景夕日温泉宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！祝・世界文化遺産登録の佐渡金山巡り！佐渡沖の寒ブリ・南蛮エビ・紅ズワイガニと七浦海岸の夕日を望む名湯旅館5選。',
-  keywords: ["佐渡金山","世界遺産","佐渡島温泉","南蛮エビ","紅ズワイガニ","夕日絶景温泉","楽天トラベル"],
+  keywords: ["2026年", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
     title: '【2026年】佐渡金山世界遺産登録記念！極上日本海海の幸と絶景夕日温泉宿5選',
     description: '2026年最新！祝・世界文化遺産登録の佐渡金山巡り！佐渡沖の寒ブリ・南蛮エビ・紅ズワイガニと七浦海岸の夕日を望む名湯旅館5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/traditional-sado-gold-mine-onsen-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/traditional-sado-gold-mine-onsen-stay',
+    canonical: "https://croud-travel.pages.dev/traditional-sado-gold-mine-onsen-stay/",
   },
 };
 

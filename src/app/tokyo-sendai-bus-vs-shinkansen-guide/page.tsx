@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/tokyo-sendai-bus-vs-shinkansen-guide/" },
   title: "【東京から仙台 安く行く方法】新幹線 vs 高速バス徹底比較！牛たん・松島1泊2日モデルコース【2026最新】 ｜ 日本全国・旅宿クラウド",
   description: "東京から杜の都・仙台へ安く行く方法を徹底比較！東北新幹線はやぶさ（約11,410円）と高速バス（約2,500円〜）の料金・時間差。往復1.5万円節約して本場極厚牛たん＆日本三景・松島遊覧船、秋保温泉を満喫する1泊2日モデルコース。",
-  keywords: ["tokyo-sendai-bus-vs-shinkansen-guide", "高速バス", "バスツアー", "新幹線 比較", "安く行く方法", "1泊2日 モデルコース", "宿泊予約", "楽天トラベル"],
+  keywords: ["東京から仙台", "安く行く方法", "新幹線", "vs", "高速バス徹底比較！牛たん", "松島1泊2日モデルコース", "2026最新"],
 };
 
 function loadHotels() {

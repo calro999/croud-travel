@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/hokkaido-shiretoko-utoro-stay/" },
   title: "【北海道・世界遺産知床ウトロ】オホーツク流氷・知床五湖＆エゾシカ海鮮極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "世界自然遺産・北海道知床ウトロエリア完全特化！オホーツク海の流氷クルーズ、知床五湖の高架木道散策、フレペの滝、オシンコシンの滝、知床産イクラ・ウニ・鮭とオホーツク海を一望する温泉リゾートを徹底解説。",
-  keywords: ["hokkaido-shiretoko-utoro-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["北海道", "世界遺産知床ウトロ", "オホーツク流氷", "知床五湖", "エゾシカ海鮮極上宿", "温泉宿", "宿泊予約"],
 };
 
 function loadSeasonalHotels() {

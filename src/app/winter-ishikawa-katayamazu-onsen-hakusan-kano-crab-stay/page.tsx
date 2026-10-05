@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "11月から12月にかけて石川県加賀市の片山津温泉は、柴山潟の穏やかな水面に初冠雪で純白に輝く霊峰白山連峰が鏡のように映り込む、北陸屈指の絶景パノラマが広がります。承応2年（1653年）発見、湖底から湧き出る塩化物強塩泉は「熱の湯」とも呼ばれ、湯冷めしにくく冬の身体を芯まで温める名湯。11月上旬に解禁される石川県の誇る青タグ付きブランドズワイガニ「加能ガニ」、内子と外子がぎっしり詰まった冬の至宝「香箱ガニ（こうばこがに）」、脂の乗った寒ブリや能登牛を堪能する湖畔の厳選宿5選を徹底解説。",
   keywords: '片山津温泉 宿泊, 柴山潟 白山 絶景 11月 12月, 佳水郷, 季がさね, かのや光楽苑, 矢田屋松濤園, 湖畔の宿森本, 加能ガニ 石川, 香箱ガニ 宿, 片山津温泉 塩化物泉',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-ishikawa-katayamazu-onsen-hakusan-kano-crab-stay'
+    canonical: "https://croud-travel.pages.dev/winter-ishikawa-katayamazu-onsen-hakusan-kano-crab-stay/"
   },
   openGraph: {
     title: "【11・12月石川・加賀片山津温泉の柴山潟と霊峰白山初冠雪】11月解禁加能ガニ・香箱ガニ＆塩化物強塩泉ポカポカ温まりの宿5選",

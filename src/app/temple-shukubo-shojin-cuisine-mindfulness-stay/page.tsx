@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '歴史ある古刹で心を洗う！本格精進料理＆朝のお勤め体験ができる名門宿坊 ｜ 日本全国・旅宿クラウド',
   description: '高野山・善光寺・京都の歴史寺院で体験する非日常のマインドフルネス滞在。滋味あふれる伝統の精進料理、早朝の護摩祈祷や写経で心を整える旅。',
-  keywords: ["宿坊","精進料理","高野山","善光寺","マインドフルネス","寺院ステイ"],
+  keywords: ["朝のお勤め体験ができる名門宿坊", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/temple-shukubo-shojin-cuisine-mindfulness-stay',
+    canonical: "https://croud-travel.pages.dev/temple-shukubo-shojin-cuisine-mindfulness-stay/",
   },
   openGraph: {
     title: '歴史ある古刹で心を洗う！本格精進料理＆朝のお勤め体験ができる名門宿坊',

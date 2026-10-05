@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "湧出量・源泉数ともに日本一を誇るおんせん県おおいたの象徴「別府温泉郷」！立ち上る白い湯けむりが冬空に映える鉄輪（かんなわ）温泉の「地獄蒸し料理」や、海地獄・血の池地獄などの地獄めぐり、そして極上にごり湯を満喫する旅。",
   keywords: "別府 鉄輪温泉 露天風呂 旅館, 11月旅行, 12月旅行, 冬休み, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/winter-oita-beppu-jigokumushi-hotspring-stay',
+    canonical: "https://croud-travel.pages.dev/winter-oita-beppu-jigokumushi-hotspring-stay/",
   },
   openGraph: {
     title: "【冬こそ温まる！別府八湯地獄めぐり＆地獄蒸し】日本一の湧出量と湯けむり展望露天宿5選",

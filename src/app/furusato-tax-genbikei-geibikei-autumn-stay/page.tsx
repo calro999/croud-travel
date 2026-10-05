@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '国の名勝「厳美渓・猊鼻渓」舟下り紅葉パノラマ＆一関温泉郷・幻の最高峰「前沢牛」会席 | クラウドトラベルふるさと納税',
   description: '10月中旬〜11月上旬に見頃を迎える厳美渓の奇岩美と猊鼻渓の舟下り紅葉。世界遺産平泉中尊寺の散策と、一関温泉郷の名宿で源泉かけ流し温泉と最高級ブランド「前沢牛」をふるさと納税でお得に満喫する秋旅特集。',
-  keywords: ['一関・平泉・厳美渓・猊鼻渓 紅葉 観光', '岩手県 10月 11月 旅行', '厳美渓猊鼻渓紅葉舟下り＆一関温泉前沢牛', 'ふるさと納税 温泉宿泊券', '亀の井ホテル 一関', 'ホテルルートイン一関インター', '祭畤温泉 かみくら', '楽天ふるさと納税 宿泊クーポン'],
+  keywords: ["国の名勝「厳美渓", "猊鼻渓」舟下り紅葉パノラマ", "一関温泉郷", "幻の最高峰「前沢牛」会席", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-genbikei-geibikei-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-genbikei-geibikei-autumn-stay/",
   },
   openGraph: {
     title: '国の名勝「厳美渓・猊鼻渓」舟下り紅葉パノラマ＆一関温泉郷・幻の最高峰「前沢牛」会席',

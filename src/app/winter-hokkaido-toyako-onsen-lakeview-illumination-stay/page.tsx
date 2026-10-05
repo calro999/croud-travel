@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "11月から12月にかけて、北海道有数のカルデラ湖畔に広がる「洞爺湖温泉（とうやこおんせん）」は、日本最北の不凍湖が魅せる静寂の湖面と、純白の雪を戴く名峰「羊蹄山（蝦夷富士）」の冠雪絶景が広がるロマンチックな初冬シーズンを迎えます。11月からは温泉街を約40万球の幻想的な光で包み込む「イルミネーショントンネル」が点灯。湖と湯面が一体化するインフィニティ展望露天風呂からは、澄み切った冬空と雪化粧した山々のパノラマを一望できます。夕食には近隣の内浦湾（噴火湾）で獲れる肉厚で甘みたっぷりの「冬ホタテ」や、北海道屈指の黒毛和牛「白老牛」の極上会席。心洗われる絶景に癒やされる厳選リゾートホテル・名旅館5選を徹底解説。",
   keywords: '洞爺湖 温泉 宿泊, 北海道 温泉 11月 12月, 湖の栖, 乃の風リゾート, 洞爺湖万世閣, 洞爺サンパレス, 洞爺観光ホテル, 羊蹄山 絶景 宿, 白老牛, 噴火湾ホタテ, 洞爺湖 イルミネーション',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-hokkaido-toyako-onsen-lakeview-illumination-stay'
+    canonical: "https://croud-travel.pages.dev/winter-hokkaido-toyako-onsen-lakeview-illumination-stay/"
   },
   openGraph: {
     title: "【11・12月北海道・洞爺湖温泉のイルミネーションと冠雪羊蹄山絶景】全室レイクビュー展望露天風呂＆白老牛・噴火湾冬ホタテの宿5選",

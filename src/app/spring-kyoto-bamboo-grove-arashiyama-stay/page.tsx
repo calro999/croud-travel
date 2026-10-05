@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】竹林の小径と渡月橋の風情。嵐山温泉＆極上京懐石を味わう京都の名旅館5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！早朝の静寂に包まれる嵐山竹林の小径散策！名物湯豆腐・旬の京懐石とトロトロの嵐山温泉露天風呂で古都の風情に浸るおすすめ名宿5選。',
-  keywords: ["嵐山温泉","京都旅館","京懐石","竹林の小径","渡月橋","湯豆腐","楽天トラベル"],
+  keywords: ["2026年", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
     title: '【2026年】竹林の小径と渡月橋の風情。嵐山温泉＆極上京懐石を味わう京都の名旅館5選',
     description: '2026年最新！早朝の静寂に包まれる嵐山竹林の小径散策！名物湯豆腐・旬の京懐石とトロトロの嵐山温泉露天風呂で古都の風情に浸るおすすめ名宿5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/spring-kyoto-bamboo-grove-arashiyama-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/spring-kyoto-bamboo-grove-arashiyama-stay',
+    canonical: "https://croud-travel.pages.dev/spring-kyoto-bamboo-grove-arashiyama-stay/",
   },
 };
 

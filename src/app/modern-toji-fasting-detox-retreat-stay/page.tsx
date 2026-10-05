@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/modern-toji-fasting-detox-retreat-stay/" },
   title: "【現代版プチ湯治＆ファスティング宿】デトックス・薬膳料理＆温泉リトリート 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "心と体を根本からリセットする現代湯治＆ファスティング宿完全特化！草津・伊豆・八ヶ岳・別府の専門プログラム、発酵ジュース断食、体に優しい薬膳会席、温泉療法士による入浴指導、長期滞在ワークスペースを徹底解説。",
-  keywords: ["modern-toji-fasting-detox-retreat-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["現代版プチ湯治", "ファスティング宿", "デトックス", "薬膳料理", "温泉リトリート", "温泉宿", "宿泊予約"],
 };
 
 function loadSeasonalHotels() {

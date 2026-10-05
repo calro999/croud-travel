@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "11月下旬から12月にかけて雲仙普賢岳や仁田峠を純白に染める自然の芸術「霧氷（花ぼうろ）」と、冬の冷気の中で白い湯煙を轟音とともに噴き上げる「雲仙地獄」。日本最初の国立公園に位置する歴史ある高原温泉街で、冷えた体を芯から解き放つ濃厚な乳白色の強酸性硫黄泉、幻の極上黒毛和牛「雲仙あかね牛」、島原伝統の具雑煮会席を満喫する厳選名宿5選を徹底解説。",
   keywords: '長崎 雲仙温泉 宿泊, 雲仙温泉 11月 12月, 雲仙宮崎旅館, 旅亭 半水盧, ゆやど 雲仙新湯, 雲仙福田屋, 青雲荘, 雲仙地獄 湯煙, 普賢岳 霧氷 花ぼうろ, 雲仙あかね牛 ステーキ, 島原具雑煮',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-nagasaki-unzen-onsen-jigoku-mist-beef-stay',
+    canonical: "https://croud-travel.pages.dev/winter-nagasaki-unzen-onsen-jigoku-mist-beef-stay/",
   },
   openGraph: {
     title: "【11・12月長崎雲仙温泉の冬名湯と普賢岳霧氷】雲仙地獄の湯煙・乳白色の硫黄泉露天と極上雲仙あかね牛・島原郷土会席の宿5選",

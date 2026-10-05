@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/otaru-solo-retreat-canal-seafood-stay/" },
   title: '【小樽ひとり旅・絶景レトロおこもり】天然温泉灯の湯・運河夜景パノラマ・豪華海鮮丼！石造り倉庫街で心洗われる厳選3宿',
   description: '札幌からJR快速エアポートでわずか約32分！小樽駅前で天然温泉と豪華海鮮朝食バイキングを誇る「ドーミーインPREMIUM小樽」、小樽運河の目の前に佇むヨーロッパ調の「ホテルノルド小樽」、小樽運河を望む格子戸とノスタルジックなもてなしが魅力の「運河の宿 おたる ふる川」を楽天APIデータに基づき徹底比較。',
   keywords: '小樽 一人旅 ホテル,小樽 温泉 ひとり,ドーミーインPREMIUM小樽,ホテルノルド小樽,運河の宿おたるふる川,小樽運河 海鮮丼',

@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "パリッと弾けるジューシーな岡山県産シャインマスカットや清水白桃の特製スイーツ！美肌の湯として名高い美作三湯（湯原・奥津・湯郷温泉）で、極上のフルーツと名湯に心ほどける温泉旅をご提案。",
   keywords: "湯原温泉 露天風呂 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/spring-okayama-muscat-sweets-stay',
+    canonical: "https://croud-travel.pages.dev/spring-okayama-muscat-sweets-stay/",
   },
   openGraph: {
     title: "【フルーツ王国岡山】シャインマスカット贅沢パフェ＆美作三湯！湯原・奥津・湯郷の美食温泉宿5選",

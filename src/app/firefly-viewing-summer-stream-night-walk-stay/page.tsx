@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '【2026年】幻想的なホタルの乱舞と清流のせせらぎ！初夏の夜空を彩る蛍観賞温泉宿5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！宿の敷地内や清流沿いで無数のホタルが舞う幻想的な光景に出会える初夏の温泉宿5選。澄んだ空気と涼やかな川床料理を楽しむ特別な旅。',
-  keywords: ["ホタル観賞","清流の宿","初夏旅行","川床料理","露天風呂","楽天トラベル"],
+  keywords: ["2026年", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/firefly-viewing-summer-stream-night-walk-stay',
+    canonical: "https://croud-travel.pages.dev/firefly-viewing-summer-stream-night-walk-stay/",
   },
   openGraph: {
     title: '【2026年】幻想的なホタルの乱舞と清流のせせらぎ！初夏の夜空を彩る蛍観賞温泉宿5選',

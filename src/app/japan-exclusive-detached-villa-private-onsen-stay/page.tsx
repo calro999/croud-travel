@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/japan-exclusive-detached-villa-private-onsen-stay/" },
   title: "【全室離れ・源泉かけ流し露天風呂付き隠れ家宿】大人の静寂＆名門温泉割烹 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "静寂とプライベートを極めた大人のための聖域！全室離れ・客室専用源泉かけ流し露天風呂付き名旅館完全特化！由布院・黒川温泉・箱根・伊豆・飛騨高山、誰にも会わずに部屋食と名湯を堪能する極上宿を徹底解説。",
-  keywords: ["japan-exclusive-detached-villa-private-onsen-stay", "宿泊予約", "高級リゾート", "記念日ホテル", "ラグジュアリーステイ", "楽天トラベル"],
+  keywords: ["全室離れ", "大人の静寂", "名門温泉割烹", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
 
 function loadSeasonalHotels() {

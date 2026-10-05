@@ -4,20 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '那須ロープウェイ茶臼岳の絨毯紅葉＆那須高原リゾート！開湯1300年名湯旅館×ふるさと納税完全ガイド【2026年最新秋旅】栃木',
   description: '10月上旬〜10月下旬に見頃を迎える「那須高原・茶臼岳（ちゃうすだけ）」。山全体が赤や黄色に染まる紅葉絨毯をロープウェイから一望、那須御用邸の歴史薫る名湯「那須温泉 山楽」「大丸温泉旅館」「かんすい苑 覚楽」でとちぎ和牛ステーキや野趣あふれる川の湯露天風呂を堪能。楽天ふるさと納税で実質2,000円。',
-  keywords: [
-    'ふるさと納税 温泉',
-    'ふるさと納税 宿泊券',
-    'ふるさと納税 トラベルクーポン',
-    '栃木・那須高原＆茶臼岳紅葉特集',
-    '10月 旅行 おすすめ',
-    '11月 旅行 おすすめ',
-    '秋 旅行 温泉',
-    '紅葉 温泉旅館',
-    '楽天トラベル ふるさと納税',
-    '実質2000円 温泉'
-  ],
+  keywords: ["2026年最新秋旅", "栃木", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-nasu-kougen-autumn-leaves-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-nasu-kougen-autumn-leaves-stay/"
   },
   openGraph: {
     title: '那須ロープウェイ茶臼岳の絨毯紅葉＆那須高原リゾート！開湯1300年名湯旅館×ふるさと納税完全ガイド【2026年最新秋旅】栃木',

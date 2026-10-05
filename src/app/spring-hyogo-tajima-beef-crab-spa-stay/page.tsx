@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "すべての黒毛和牛のルーツ「但馬牛」の極上サーロインステーキと、春の味覚「香住ガニ」！柳並木が美しい城崎温泉の外湯めぐり（七湯）を浴衣と下駄で楽しみ、関西最高峰の美食と温泉情緒に浸る贅沢ステイ。",
   keywords: "城崎温泉 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/spring-hyogo-tajima-beef-crab-spa-stay',
+    canonical: "https://croud-travel.pages.dev/spring-hyogo-tajima-beef-crab-spa-stay/",
   },
   openGraph: {
     title: "【但馬牛ステーキ＆香住ガニ】兵庫・城崎温泉の七湯めぐりと極上グルメ宿5選",

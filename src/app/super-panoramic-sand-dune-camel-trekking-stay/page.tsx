@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "鳥取砂丘でらくだに乗って砂の丘を巡る異国情緒あふれるトレッキング体験！砂丘の美しい夕日と風紋を堪能した後は、弓ヶ浜のパノラマ海景を望む皆生温泉の塩化物泉と日本海の活魚会席に舌鼓。",
   keywords: "皆生温泉 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/super-panoramic-sand-dune-camel-trekking-stay',
+    canonical: "https://croud-travel.pages.dev/super-panoramic-sand-dune-camel-trekking-stay/",
   },
   openGraph: {
     title: "【らくだライド＆砂丘夕日】エキゾチックな砂丘体験と三朝・皆生温泉の海鮮美食宿5選",

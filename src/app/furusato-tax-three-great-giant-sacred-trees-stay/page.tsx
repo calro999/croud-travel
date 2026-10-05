@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-giant-sacred-trees-stay/" },
   title: '日本三大巨樹＆樹齢千年の神木パワースポット・森林浴名湯宿×ふるさと納税完全ガイド【2026年最新】蒲生の大楠・阿川の大杉・北金ヶ沢の大イチョウ',
   description: '幹周り数十メートル！千年の時を生きる命の巨木！鹿児島姶良「蒲生の大楠」日本最大の巨樹とフォンタナの丘かもう、徳島神山「阿川の大杉」四国の名木と神山温泉ホテル四季の里、青森深浦「北金ヶ沢の大イチョウ」日本一の大銀杏（ビッグイエロー）と黄金崎不老ふ死温泉。日本三大巨樹（三大神木）の神聖なエネルギーと天然温泉を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大巨樹・生命の神木特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',

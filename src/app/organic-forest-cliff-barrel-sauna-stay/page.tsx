@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "大自然の断崖や天空の丘に設置された北欧木製バレルサウナ！パノラマガラス越しに広がる大パノラマ、天然湧水の冷水風呂、そして心地よい風に包まれる天空外気浴。唯一無二のととのいを体感できる宿を厳選。",
   keywords: "バレルサウナ 温泉 宿, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/organic-forest-cliff-barrel-sauna-stay',
+    canonical: "https://croud-travel.pages.dev/organic-forest-cliff-barrel-sauna-stay/",
   },
   openGraph: {
     title: "【絶壁バレルサウナ】天空の崖上に佇む円形サウナ＆湧水水風呂！息をのむ絶景パノラマ宿5選",

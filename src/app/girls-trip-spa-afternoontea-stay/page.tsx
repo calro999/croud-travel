@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/girls-trip-spa-afternoontea-stay/" },
   title: "【大人の女子旅・ご褒美温泉】極上スパエステ・アフタヌーンティー＆美肌宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "女性同士のご褒美旅行完全特化！高級オーガニックスパエステ、ウェルカムアフタヌーンティー、選べる色浴衣、Refaやダイソンなど高級美容家電完備、絶景インフィニティラウンジと美肌会席宿を徹底解説。",
-  keywords: ["girls-trip-spa-afternoontea-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["大人の女子旅", "ご褒美温泉", "極上スパエステ", "アフタヌーンティー", "美肌宿", "温泉宿", "宿泊予約"],
 };
 
 function loadSeasonalHotels() {

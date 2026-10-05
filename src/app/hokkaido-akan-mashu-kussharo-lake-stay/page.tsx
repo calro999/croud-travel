@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/hokkaido-akan-mashu-kussharo-lake-stay/" },
   title: "【北海道・阿寒湖＆摩周湖・屈斜路湖】神秘のカルデラ三湖・阿寒アイヌコタン＆まりも・硫黄山温泉宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "阿寒摩周国立公園の神秘の湖めぐり完全特化！特別天然記念物「阿寒湖のマリモ」、北海道最大のアイヌ集落「阿寒湖アイヌコタン」、奇跡の透明度「摩周ブルー・摩周湖」、日本最大のカルデラ湖「屈斜路湖・砂湯」、阿寒湖温泉・川湯温泉宿を徹底解説。",
-  keywords: ["hokkaido-akan-mashu-kussharo-lake-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["北海道", "阿寒湖", "摩周湖", "屈斜路湖", "神秘のカルデラ三湖", "阿寒アイヌコタン", "まりも"],
 };
 
 function loadSeasonalHotels() {

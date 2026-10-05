@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/gifu-shirakawago-gokayama-gassho-stay/" },
   title: "【岐阜・白川郷＆五箇山】世界遺産合掌造り集落・荻町展望台＆飛騨牛・すったて汁宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "日本の原風景が残るユネスコ世界文化遺産・白川郷＆五箇山エリア完全特化！荻町城跡展望台からの合掌造りパノラマ、和田家・神田家内部見学、富山県五箇山（菅沼・相倉集落）、白川郷合掌造り民家園、名物「飛騨牛・すったて汁宿」を徹底解説。",
-  keywords: ["gifu-shirakawago-gokayama-gassho-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["岐阜", "白川郷", "五箇山", "世界遺産合掌造り集落", "荻町展望台", "飛騨牛", "すったて汁宿"],
 };
 
 function loadSeasonalHotels() {

@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/oita-beppu-hell-hotspring-stay/" },
   title: "【大分・別府八湯＆別府地獄めぐり】海地獄・血の池地獄＆地獄蒸し極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "日本一の湧出量・別府温泉郷エリア完全特化！海地獄・血の池地獄など7つの別府地獄めぐり、鉄輪温泉の湯けむり展望台、地獄蒸し料理体験、砂湯と老舗温泉旅館を徹底解説。",
-  keywords: ["oita-beppu-hell-hotspring-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["大分", "別府八湯", "別府地獄めぐり", "海地獄", "血の池地獄", "地獄蒸し極上宿", "温泉宿"],
 };
 
 function loadSeasonalHotels() {

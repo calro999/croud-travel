@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】春の味覚・朝採り筍！掘りたてタケノコ会席＆幻想的な竹林露天の風情宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！春限定の朝掘り新鮮タケノコ会席！焼き筍・筍ご飯・若竹煮と、ライトアップされた竹林を望む幻想露天風呂が自慢の名湯宿5選。',
-  keywords: ["筍会席","タケノコ料理","春の味覚","竹林露天風呂","風情ある温泉旅館","楽天トラベル"],
+  keywords: ["2026年", "春の味覚", "朝採り筍！掘りたてタケノコ会席", "幻想的な竹林露天の風情宿5選", "日本全国", "旅宿クラウド", "温泉宿"],
   openGraph: {
     title: '【2026年】春の味覚・朝採り筍！掘りたてタケノコ会席＆幻想的な竹林露天の風情宿5選',
     description: '2026年最新！春限定の朝掘り新鮮タケノコ会席！焼き筍・筍ご飯・若竹煮と、ライトアップされた竹林を望む幻想露天風呂が自慢の名湯宿5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/spring-takenoko-bamboo-shoot-kaiseki-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/spring-takenoko-bamboo-shoot-kaiseki-stay',
+    canonical: "https://croud-travel.pages.dev/spring-takenoko-bamboo-shoot-kaiseki-stay/",
   },
 };
 

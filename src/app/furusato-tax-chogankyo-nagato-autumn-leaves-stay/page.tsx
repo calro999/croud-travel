@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '名勝「長門峡」阿武川渓谷美とそぞろ歩きが楽しい長門湯本温泉・山口秋の味覚「とらふぐ」尽くし | クラウドトラベルふるさと納税',
   description: '11月上旬〜11月下旬に見頃を迎える名勝・長門峡の巨岩と深紅のコントラスト。音信川沿いの温泉街リノベーションで話題の長門湯本温泉で、名湯「恩湯」と秋の旬を迎えるとらふぐ会席を堪能。',
-  keywords: ['長門・長門峡・萩 紅葉', '山口県 紅葉 10月 11月', '長門峡渓谷紅葉＆長門湯本温泉ふぐ会席', 'ふるさと納税 温泉宿泊券', '長門湯本温泉 山村別館', '長門湯本温泉 楊貴妃浪漫の宿 玉仙閣', '長門湯本温泉 湯本観光ホテル 西京', '楽天ふるさと納税 トラベル'],
+  keywords: ["山口秋の味覚「とらふぐ」尽くし", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-chogankyo-nagato-autumn-leaves-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-chogankyo-nagato-autumn-leaves-stay/",
   },
   openGraph: {
     title: '名勝「長門峡」阿武川渓谷美とそぞろ歩きが楽しい長門湯本温泉・山口秋の味覚「とらふぐ」尽くし',

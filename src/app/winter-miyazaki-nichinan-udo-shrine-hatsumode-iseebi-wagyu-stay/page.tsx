@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   description: "冬の宮崎・日南海岸エリアは、紺碧の太平洋が広がる温暖な気候のもと、奇岩怪石の断崖洞窟に鎮座する霊場「鵜戸神宮」が新春開運の初詣祈願と運玉投げで賑わう絶景の地。鬼の洗濯板やフェニックス並木が続く日南フェニックスロードの爽快ドライブ、九州の小京都・飫肥城下町の風情、冬に最盛期を迎える日南名物「伊勢海老」尽くしや日本一の「宮崎牛」に舌鼓を打ち、美肌の天然温泉宿で寛ぐ大人の冬旅。楽天APIから最新取得した日南・南郷・青島の信頼の名宿5選を徹底特集します。",
   keywords: '日南 ホテル, 鵜戸神宮 初詣, 日南 温泉, 南郷プリンスホテル, 合歓のはな, 日南 伊勢海老, 宮崎牛, 飫肥城下町, 11月 12月 1月 宮崎 観光',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-miyazaki-nichinan-udo-shrine-hatsumode-iseebi-wagyu-stay'
+    canonical: "https://croud-travel.pages.dev/winter-miyazaki-nichinan-udo-shrine-hatsumode-iseebi-wagyu-stay/"
   },
   openGraph: {
     title: "【11・12・1月宮崎日南】冬の鵜戸神宮新春開運初詣＆日南海岸絶景ドライブ！名物伊勢海老・極上宮崎牛と日南温泉名宿5選",

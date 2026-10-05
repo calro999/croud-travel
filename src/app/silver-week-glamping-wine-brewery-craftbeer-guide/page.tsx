@@ -5,19 +5,11 @@ import path from "path";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-wine-brewery-craftbeer-guide/" },
   title: "【ワイナリー・クラフトビール付きグランピング】勝沼・長野で楽しむ！美酒とペアリングBBQの秋旅 ｜ 日本全国・旅宿クラウド",
   description:
     "お酒好きのための美食グランピング！山梨勝沼のワイナリー巡り隣接宿、クラフトビールサーバー飲み放題付きドームテント、ソムリエ厳選ワインとジビエ・甲州牛のマリアージュを堪能する大人の休日。",
-  keywords: [
-    "ワイナリー グランピング",
-    "クラフトビール グランピング",
-    "ビールサーバー付き ドームテント",
-    "勝沼 ワイン グランピング",
-    "山梨 長野 ワイン旅",
-    "ペアリングBBQ グランピング",
-    "大人の美食グランピング",
-    "フリーフロー 酒 グランピング"
-  ],
+  keywords: ["ワイナリー", "クラフトビール付きグランピング", "勝沼", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
 
 interface Hotel {

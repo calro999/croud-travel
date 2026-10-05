@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/fukui-tojinbo-awara-onsen-crab-stay/" },
   title: "【福井・東尋坊＆あわら温泉】日本海断崖絶壁・越前ガニ宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "世界三大奇勝・国の天然記念物「東尋坊」の柱状節理断崖絶壁パノラマ、関西の奥座敷「あわら温泉」の74本もの源泉湯巡り、北陸最高峰の冬の味覚・三国港直送の黄色タグ付き「越前ガニ」を徹底解説。名門温泉旅館や海鮮美食宿を厳選。",
-  keywords: ["fukui-tojinbo-awara-onsen-crab-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["福井", "東尋坊", "あわら温泉", "日本海断崖絶壁", "越前ガニ宿", "温泉宿", "宿泊予約"],
 };
 
 function loadSeasonalHotels() {

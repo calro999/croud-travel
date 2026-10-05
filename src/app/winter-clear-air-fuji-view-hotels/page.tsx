@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/winter-clear-air-fuji-view-hotels/" },
   title: "【白銀の霊峰】冠雪富士山を望む！冬の富士ビュー絶景ホテル 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "空気が澄み渡る冬こそ富士山鑑賞の最高峰！山梨・河口湖畔（逆さ富士）、神奈川・箱根仙石原芦ノ湖、静岡・日本平三保松原、山梨・山中湖（紅富士）など、客室や露天風呂から白銀の富士山を仰ぐ人気宿を徹底解説。",
-  keywords: ["winter-clear-air-fuji-view-hotels", "宿泊予約", "温泉宿", "ホテル特集", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["白銀の霊峰", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
 };
 
 function loadSeasonalHotels() {

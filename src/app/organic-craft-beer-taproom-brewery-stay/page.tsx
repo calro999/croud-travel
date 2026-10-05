@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】出来立てクラフトビールをタップから！醸造所直営ブルワリーホテル＆温泉宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！併設ブルワリーから注がれる出来立て新鮮クラフトビール飲み放題プラン！ビアバーラウンジと自家源泉掛け流し温泉を満喫する大人の宿5選。',
-  keywords: ["クラフトビール","ブルワリーホテル","タップルーム","地ビール飲み比べ","温泉ホテル","楽天トラベル"],
+  keywords: ["2026年", "温泉宿5選", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
     title: '【2026年】出来立てクラフトビールをタップから！醸造所直営ブルワリーホテル＆温泉宿5選',
     description: '2026年最新！併設ブルワリーから注がれる出来立て新鮮クラフトビール飲み放題プラン！ビアバーラウンジと自家源泉掛け流し温泉を満喫する大人の宿5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/organic-craft-beer-taproom-brewery-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/organic-craft-beer-taproom-brewery-stay',
+    canonical: "https://croud-travel.pages.dev/organic-craft-beer-taproom-brewery-stay/",
   },
 };
 

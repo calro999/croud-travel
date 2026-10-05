@@ -5,18 +5,11 @@ import path from "path";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-kyushu-fukuoka-kumamoto-guide/" },
   title: "【九州シルバーウィーク グランピング】阿蘇カルデラ・糸島ビーチ・由布院温泉の極上ステイ ｜ 日本全国・旅宿クラウド",
   description:
     "九州の豊かな大自然と名湯を味わう秋連休！阿蘇の大草原パノラマ、糸島のおしゃれなシーサイドドーム、由布院・別府エリアの天然温泉付きグランピング施設を徹底比較。",
-  keywords: [
-    "九州 グランピング シルバーウィーク",
-    "福岡 グランピング 糸島 飯塚",
-    "熊本 グランピング 阿蘇 カルデラ",
-    "大分 別府 由布院 温泉グランピング",
-    "九州 秋連休 ドライブ グランピング",
-    "源泉かけ流し グランピング 九州",
-    "炭酸泉 霧島 九州旅行",
-  ],
+  keywords: ["九州シルバーウィーク", "グランピング", "阿蘇カルデラ", "糸島ビーチ", "由布院温泉の極上ステイ", "温泉宿", "宿泊予約"],
 };
 
 interface Hotel {

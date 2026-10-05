@@ -4,6 +4,7 @@ import Link from 'next/link';
 import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-scenic-train-trolley-onsen-stay/" },
   title: '【絶景観光列車×ふるさと納税】トロッコ列車＆ローカル線途中下車で巡る名湯温泉旅館ガイド | クラウドトラベル',
   description: '車窓を流れる渓谷美・雪景色とお座敷列車！黒部峡谷トロッコ電車、わたらせ渓谷鐵道、只見線の途中下車名湯宿を厳選。切符を握りしめて向かう大人の絶景鉄道旅をふるさと納税でお得に実現。',
   openGraph: {

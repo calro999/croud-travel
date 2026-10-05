@@ -5,18 +5,11 @@ import path from "path";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/tokyo-subway-ticket-24h-golden-route/" },
   title: "【東京メトロ24時間券 活用完全ガイド】600円で都内観光乗り倒し！元を取るコスパ最強ルート＆駅チカ宿 ｜ 日本全国・旅宿クラウド",
   description:
     "始発から終電ではなく「使い始めから24時間有効」の東京メトロ24時間券（600円）！初乗り180円×4回で元が取れる。浅草・銀座・渋谷・六本木・新宿を効率よく巡る東京観光モデルコースと大浴場付きホテル。",
-  keywords: [
-    "東京メトロ24時間券 元を取る",
-    "東京メトロ 24時間券 料金 比較",
-    "東京 地下鉄 乗り放題 モデルコース",
-    "浅草 銀座 渋谷 新宿 観光ルート",
-    "都内観光 コスパ ホテル",
-    "東京メトロ24時間券 使い方",
-    "ちかとく 提携割引",
-  ],
+  keywords: ["東京メトロ24時間券", "活用", "駅チカ宿", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
 
 interface Hotel {

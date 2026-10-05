@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/kusatsu-onsen-travel-budget-guide/" },
   title: "【草津温泉旅行 費用】1泊2日いくらかかる？東京からの交通費＆湯畑周辺の宿泊費を完全計算 ｜ 日本全国・旅宿クラウド",
   description: "草津温泉旅行の1泊2日費用を完全解説！東京からの直行バス（3,600円〜）vs 特急草津（6,100円）の交通費比較、湯畑徒歩圏の温泉旅館の宿泊費（8,000〜40,000円）、湯もみショー・西の河原露天風呂の体験費用まで。",
-  keywords: ["kusatsu-onsen-travel-budget-guide", "草津温泉", "費用", "1泊2日", "交通費", "直行バス", "宿泊費", "楽天トラベル"],
+  keywords: ["草津温泉旅行", "費用", "湯畑周辺の宿泊費を完全計算", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
 
 function loadHotels() {

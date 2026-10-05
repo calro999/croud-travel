@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '塩原渓谷「もみじ谷大吊橋」360度大パノラマ紅葉＆塩原温泉郷・とちぎ和牛と温泉粥ステイ | クラウドトラベルふるさと納税',
   description: '10月下旬〜11月中旬に箒川沿いの渓谷が燃えるように色づく塩原温泉郷ともみじ谷大吊橋。開湯1200年の歴史を持つ多彩な泉質の名湯巡りと、とちぎ和牛・高原大根をふるさと納税でお得に味わう完全ガイド。',
-  keywords: ['那須塩原・塩原渓谷・もみじ谷大吊橋 紅葉 観光', '栃木県 10月 11月 旅行', 'もみじ谷大吊橋紅葉＆塩原温泉とちぎ和牛', 'ふるさと納税 温泉宿泊券', '塩原温泉 伊東園ホテル塩原', '塩原温泉 奥塩原高原ホテル', '塩原温泉 創作料理と源泉掛け流しの宿 本陣', '楽天ふるさと納税 宿泊クーポン'],
+  keywords: ["塩原温泉郷", "とちぎ和牛と温泉粥ステイ", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-shiobara-momijidani-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-shiobara-momijidani-autumn-stay/",
   },
   openGraph: {
     title: '塩原渓谷「もみじ谷大吊橋」360度大パノラマ紅葉＆塩原温泉郷・とちぎ和牛と温泉粥ステイ',

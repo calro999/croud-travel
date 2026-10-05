@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-stalactite-caves-stay/" },
   title: '日本三大鍾乳石洞窟＆無数の石筍が創る地底宮殿・ジオアドベンチャー名湯宿×ふるさと納税完全ガイド【2026年最新】あぶくま洞・玉泉洞・井倉洞',
   description: '数十万年の滴が創り上げた天然のシャンデリア！福島「あぶくま洞」東洋一の鍾乳石種類と磐梯熱海温泉ホテル華の湯、沖縄南城「玉泉洞」100万本の石筍とサザンビーチホテル＆リゾート沖縄、岡山新見「井倉洞」高さ240m絶壁と地底滝の奇観・新見グランドホテルみよしや。日本三大鍾乳石洞窟の神秘の地底美を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大鍾乳石・地底アート特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',

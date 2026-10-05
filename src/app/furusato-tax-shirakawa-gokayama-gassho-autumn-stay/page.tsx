@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '世界遺産・五箇山合掌造りと庄川峡紅葉遊覧船！庄川温泉郷の美肌湯・秋の鮎料理と富山地酒を味わう秋旅 | クラウドトラベルふるさと納税',
   description: '10月・11月の富山・五箇山＆庄川温泉郷特集！山里に佇む世界遺産・五箇山合掌造り集落（相倉・菅沼）の日本の原風景紅葉、庄川峡の断崖を巡る紅葉遊覧船クルーズ、エメラルドグリーンの湖畔に湧く庄川温泉郷の名湯、名物「庄川鮎」塩焼きと富山湾の海の幸をふるさと納税で堪能。',
-  keywords: ['南砺・五箇山・庄川温泉郷 紅葉 観光', '富山県 10月 11月 旅行', '富山・五箇山＆庄川温泉特集', 'ふるさと納税 温泉宿泊券', '庄川温泉郷　美肌の湯　となみ野庄川荘一萬亭（ＢＢＨホテルグループ）', '庄川温泉郷　鳥越の宿　三楽園', '庄川温泉風流味道座敷　ゆめつづり', '楽天ふるさと納税 宿泊クーポン'],
+  keywords: ["世界遺産", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-shirakawa-gokayama-gassho-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-shirakawa-gokayama-gassho-autumn-stay/",
   },
   openGraph: {
     title: '世界遺産・五箇山合掌造りと庄川峡紅葉遊覧船！庄川温泉郷の美肌湯・秋の鮎料理と富山地酒を味わう秋旅',

@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "「肉の芸術品」と称される最高峰A5ランク松阪牛を本場のすき焼き・網焼き・炙り寿司で堪能！鈴鹿山脈の麓に佇む湯の山温泉や、清少納言ゆかりの名湯・榊原温泉で、至高の肉美食ステイを。",
   keywords: "湯の山温泉 松阪牛 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/traditional-mie-matsusaka-beef-sukiyaki-stay',
+    canonical: "https://croud-travel.pages.dev/traditional-mie-matsusaka-beef-sukiyaki-stay/",
   },
   openGraph: {
     title: "【A5松阪牛すき焼き＆網焼き】本場三重の最高峰肉会席！湯の山温泉・榊原温泉の名湯宿5選",

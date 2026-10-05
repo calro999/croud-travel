@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/osaka-travel-budget-guide/" },
   title: "【大阪旅行 費用】1泊2日・2泊3日の総額はいくら？USJ込みの予算＆道頓堀グルメ食費シミュレーション",
   description: "大阪旅行の費用を1泊2日（USJなし）・2泊3日（USJ込み）パターンで完全シミュレーション！東京・名古屋・福岡からの交通費、なんば・梅田のホテル相場、道頓堀・新世界のグルメ食費まで、全部具体的な金額で解説。",
-  keywords: ["大阪旅行", "予算", "USJ", "道頓堀", "費用シミュレーション", "楽天トラベル"],
+  keywords: ["大阪旅行", "費用", "1泊2日", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
 
 function loadHotels() {

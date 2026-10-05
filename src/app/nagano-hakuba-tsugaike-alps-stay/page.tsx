@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/nagano-hakuba-tsugaike-alps-stay/" },
   title: "【長野・白馬＆小谷・栂池高原】北アルプス白馬三山パノラマ・テラス＆信州そば宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "世界水準のマウンテンリゾート・信州白馬＆栂池エリア完全特化！白馬岩岳「白馬マウンテンハーバー（絶景テラス）」、栂池自然園高層湿原、八方尾根トレッキング、白馬八方温泉（日本屈指の高アルカリ温泉）、名物「信州そば・信州牛宿」を徹底解説。",
-  keywords: ["nagano-hakuba-tsugaike-alps-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["長野", "白馬", "小谷", "栂池高原", "北アルプス白馬三山パノラマ", "テラス", "信州そば宿"],
 };
 
 function loadSeasonalHotels() {

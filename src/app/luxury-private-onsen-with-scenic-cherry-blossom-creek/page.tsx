@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "清流のせせらぎと、川沿いに咲き誇る淡いピンクの桜並木！客室専用の露天風呂から舞い散る花びらを眺め、夜はライトアップされた夜桜を独占できる、春限定の贅沢なお花見隠れ宿を徹底解説。",
   keywords: "桜 露天風呂 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/luxury-private-onsen-with-scenic-cherry-blossom-creek',
+    canonical: "https://croud-travel.pages.dev/luxury-private-onsen-with-scenic-cherry-blossom-creek/",
   },
   openGraph: {
     title: "【渓流桜の特等席】清流沿いに咲き誇る満開の桜とプライベート露天風呂！春の絶景温泉宿5選",

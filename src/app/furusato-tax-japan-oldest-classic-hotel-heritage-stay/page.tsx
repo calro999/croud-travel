@@ -4,16 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '日本最古のクラシックリゾートホテル×ふるさと納税完全ガイド【2026年最新】日光金谷・箱根富士屋・雲仙観光ホテルの洋館ステイ',
   description: '明治・大正の薫り漂う登録有形文化財！現存日本最古のリゾート「日光金谷ホテル」、アインシュタインやチャップリンも愛した「箱根宮ノ下富士屋ホテル」、日本初国立公園の洋館「雲仙観光ホテル」。歴史的建築美と伝統フレンチを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
-  keywords: [
-    '楽天ふるさと納税',
-    'ふるさと納税 宿泊クーポン',
-    '楽天トラベル ふるさと納税',
-    '高級温泉旅館',
-    '露天風呂付き客室',
-    '2026年旅行'
-  ],
+  keywords: ["2026年最新", "日光金谷", "箱根富士屋", "雲仙観光ホテルの洋館ステイ", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-japan-oldest-classic-hotel-heritage-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-japan-oldest-classic-hotel-heritage-stay/"
   },
   openGraph: {
     title: '日本最古のクラシックリゾートホテル×ふるさと納税完全ガイド【2026年最新】日光金谷・箱根富士屋・雲仙観光ホテルの洋館ステイ',

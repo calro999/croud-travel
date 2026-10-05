@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/toyama-unazuki-kurobe-gorge-stay/" },
   title: "【富山・黒部宇奈月温泉】トロッコ電車・黒部峡谷断崖美＆富山湾の幸極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "富山・宇奈月温泉＆黒部峡谷エリア完全特化！黒部峡谷トロッコ電車、山彦橋・やまびこ遊歩道、日本一の透明度を誇る弱アルカリ性美肌温泉、富山湾の白えび・紅ズワイガニ会席を徹底解説。",
-  keywords: ["toyama-unazuki-kurobe-gorge-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["富山", "黒部宇奈月温泉", "トロッコ電車", "黒部峡谷断崖美", "富山湾の幸極上宿", "温泉宿", "宿泊予約"],
 };
 
 function loadSeasonalHotels() {

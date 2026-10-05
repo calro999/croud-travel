@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "香ばしい自家製味噌の香りが食欲をそそる名物「飛騨牛の朴葉味噌焼き」と、とろける極上すき焼き！日本三名泉・下呂温泉の滑らかな美肌湯や飛騨高山の古い町並み散策を満喫できる最高峰の美食旅館を厳選。",
   keywords: "下呂温泉 飛騨牛 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/traditional-gifu-hida-beef-houba-miso-stay',
+    canonical: "https://croud-travel.pages.dev/traditional-gifu-hida-beef-houba-miso-stay/",
   },
   openGraph: {
     title: "【A5飛騨牛朴葉味噌焼き＆すき焼き】高山・下呂温泉の香ばしい郷土美食と日本三名泉宿5選",

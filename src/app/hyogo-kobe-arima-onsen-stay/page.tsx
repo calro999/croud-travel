@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/hyogo-kobe-arima-onsen-stay/" },
   title: "【兵庫・神戸有馬温泉】金泉・銀泉の奇跡の名湯＆六甲山夜景・神戸牛極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "日本三古湯・日本三名泉の有馬温泉エリア完全特化！茶褐色の「金泉」と無色透明炭酸泉の「銀泉」、湯本坂レトロ散策、六甲有馬ロープウェー、極上神戸牛ステーキと老舗名門旅館を徹底解説。",
-  keywords: ["hyogo-kobe-arima-onsen-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["兵庫", "神戸有馬温泉", "金泉", "銀泉の奇跡の名湯", "六甲山夜景", "神戸牛極上宿", "温泉宿"],
 };
 
 function loadSeasonalHotels() {

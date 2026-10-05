@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "前面が総ガラス張りの最新木製バレルサウナ！サウナ室の中から絶景の山並みや湖、星空を眺めながらのアロマロウリュ。地下水かけ流しの水風呂と天空デッキでの外気浴が自慢の全国屈指のサウナ宿を厳選。",
   keywords: "バレルサウナ 絶景 宿, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/organic-forest-infinity-panoramic-barrel-sauna-stay',
+    canonical: "https://croud-travel.pages.dev/organic-forest-infinity-panoramic-barrel-sauna-stay/",
   },
   openGraph: {
     title: "【絶景ガラス張りバレルサウナ】天空のパノラマビュー＆天然湧水水風呂の温泉宿5選",

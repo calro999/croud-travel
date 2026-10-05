@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "澄んだ空気と豊かな牧草で育つ最高峰「石垣牛」のとろける炭火焼きステーキや握り、そして出汁香る名物八重山そば！川平湾やマエサトビーチの絶景オーシャンビューを望む南国ラグジュアリーホテルを厳選。",
   keywords: "石垣島 リゾート ホテル, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/traditional-okinawa-ishigaki-beef-yaeyama-stay',
+    canonical: "https://croud-travel.pages.dev/traditional-okinawa-ishigaki-beef-yaeyama-stay/",
   },
   openGraph: {
     title: "【A5石垣牛ステーキ＆八重山そば】南国石垣島の島素材美食と美ら海リゾート宿5選",

@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '石川・加賀温泉郷 山代温泉の総湯文化と紅葉！三湯めぐり＆11月加能ガニ・橋立港寒魚 | クラウドトラベルふるさと納税',
   description: '10月・11月の石川・加賀山代温泉特集！明治時代の総湯を復元した「古総湯」のステンドグラスと九谷焼タイルの美、薬王院温泉寺の紅葉、ゆのくに天祥の多彩な自家源泉三湯めぐり、11月6日解禁の加能ガニ（越前・松葉ガニ）や橋立港直送の寒魚をふるさと納税トラベルで味わう贅沢プラン。',
-  keywords: ["加賀温泉郷・山代温泉・古総湯 紅葉 観光","石川県 10月 11月 旅行","山代温泉総湯めぐり＆加能ガニ・のどぐろ会席","ふるさと納税 温泉宿泊券","山代温泉　ゆのくに天祥","山代温泉　吉田屋　山王閣","山代温泉　瑠璃光","楽天ふるさと納税 宿泊クーポン"],
+  keywords: ["石川", "加賀温泉郷", "11月加能ガニ", "橋立港寒魚", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-ishikawa-yamashiro-yamanaka-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-ishikawa-yamashiro-yamanaka-autumn-stay/",
   },
   openGraph: {
     title: '石川・加賀温泉郷 山代温泉の総湯文化と紅葉！三湯めぐり＆11月加能ガニ・橋立港寒魚',

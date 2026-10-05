@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-waterfalls-resort-stay/" },
   title: '日本三大名瀑＆豪快な水煙と滝見リゾート・温泉宿×ふるさと納税完全ガイド【2026年最新】華厳の滝・那智の滝・袋田の滝',
   description: '轟く爆音と立ち昇る水煙！栃木日光「華厳の滝」落差97mの一大パノラマと中禅寺金谷ホテル、和歌山那智勝浦「那智の滝」落差133m日本一の直瀑・熊野信仰と大洞窟温泉ホテル浦島、茨城大子町「袋田の滝」四段の岩肌を流れる氷瀑の美と袋田温泉思い出浪漫館。日本三大名瀑の大迫力景観と温泉を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大名瀑・大迫力絶景特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',

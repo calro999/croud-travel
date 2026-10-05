@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '【2026年】本格BAR＆銘酒ウイスキー・クラフトジン！大人の夜を愉しむオーセンティックホテル5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！希少なジャパニーズウイスキーやクラフトジンのテイスティングができる本格バー併設の温泉ホテル5選。大人の贅沢な夜を満喫。',
-  keywords: ["ウイスキーバー","クラフトジン","BARホテル","大人の隠れ家","美酒旅","楽天トラベル"],
+  keywords: ["2026年", "本格BAR", "銘酒ウイスキー", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/craft-gin-whisky-distillery-boutique-stay',
+    canonical: "https://croud-travel.pages.dev/craft-gin-whisky-distillery-boutique-stay/",
   },
   openGraph: {
     title: '【2026年】本格BAR＆銘酒ウイスキー・クラフトジン！大人の夜を愉しむオーセンティックホテル5選',

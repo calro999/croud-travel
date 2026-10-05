@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/tokushima-naruto-otsuka-museum-stay/" },
   title: "【徳島・鳴門＆大塚国際美術館】世界三大潮流・鳴門の渦潮＆陶板名画・鳴門鯛宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "世界三大潮流の渦潮と世界最大級の陶板美術館・徳島鳴門エリア完全特化！大塚国際美術館のシスティーナ礼拝堂、鳴門海峡の渦潮クルーズ、渦の道、鳴門温泉、ブランド魚「鳴門鯛・鳴門わかめ」＆阿波牛宿を徹底解説。",
-  keywords: ["tokushima-naruto-otsuka-museum-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["徳島", "鳴門", "大塚国際美術館", "世界三大潮流", "鳴門の渦潮", "陶板名画", "鳴門鯛宿"],
 };
 
 function loadSeasonalHotels() {

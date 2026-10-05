@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/art-museum-design-hotel-creative-stay/" },
   title: "【アート・美術館巡り＆デザインホテル】感性を研ぎ澄ますミュージアムステイ 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "アートと建築に浸るクリエイティブな休日！美術館併設ホテル＆デザイナーズホテル完全特化！金沢・直島・箱根・京都、有名建築家が手掛けた空間、現代アートに囲まれる客室、美術館ナイトツアー付き宿を徹底解説。",
-  keywords: ["art-museum-design-hotel-creative-stay", "女性一人旅", "ソロ活", "ご褒美ステイ", "温泉宿", "楽天トラベル"],
+  keywords: ["アート", "美術館巡り", "デザインホテル", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
 
 function loadSeasonalHotels() {

@@ -4,6 +4,7 @@ import Link from 'next/link';
 import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-private-villa-hanare-hideaway-stay/" },
   title: '【全室離れの隠れ家×ふるさと納税】誰にも会わずに過ごす極上のおこもり客室露天風呂宿完全ガイド | クラウドトラベル',
   description: 'エグゼクティブやお忍び旅行に選ばれる「全室離れ」のおこもり宿。大分・由布院、静岡・修善寺、神奈川・湯河原の源泉かけ流し客室露天風呂付き宿を厳選。誰にも邪魔されない至高のプライベート時間をふるさと納税で。',
   openGraph: {

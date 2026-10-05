@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '東海随一の紅葉名所「香嵐渓」4,000本のもみじライトアップ＆医者がすすめる天然ラドン猿投温泉の旅 | クラウドトラベルふるさと納税',
   description: '11月上旬〜11月下旬に見頃を迎える香嵐渓巴川沿いの圧巻もみじまつり。古い町並み足助散策と「奇跡の湯」猿投温泉の飲泉・ラドン療養泉でととのう秋の愛知・三河ふるさと納税宿泊特集。',
-  keywords: ['豊田・香嵐渓・猿投 紅葉', '愛知県 紅葉 10月 11月', '香嵐渓もみじまつり＆猿投温泉', 'ふるさと納税 温泉宿泊券', 'しあわせ隠れ里 猿投温泉 癒しの宿 金泉閣', '柿野温泉 八勝園湯元館', '夏焼温泉 青柳亭', '楽天ふるさと納税 トラベル'],
+  keywords: ["クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-korankei-autumn-leaves-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-korankei-autumn-leaves-stay/",
   },
   openGraph: {
     title: '東海随一の紅葉名所「香嵐渓」4,000本のもみじライトアップ＆医者がすすめる天然ラドン猿投温泉の旅',

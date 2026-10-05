@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "重厚で美しい伝統工芸「南部鉄器」の鍋でいただく最高峰ブランド牛「前沢牛」すき焼きと、本場盛岡冷麺！宮沢賢治ゆかりの花巻温泉郷や繋温泉で、東北の豊かな文化と名湯露天風呂に癒やされる旅。",
   keywords: "花巻温泉 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/traditional-iwate-morioka-reimen-nanbu-stay',
+    canonical: "https://croud-travel.pages.dev/traditional-iwate-morioka-reimen-nanbu-stay/",
   },
   openGraph: {
     title: "【盛岡冷麺＆前沢牛・花巻温泉郷】南部鉄器の器美学と岩手最高峰の美食名湯宿5選",

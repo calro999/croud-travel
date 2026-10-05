@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/wakayama-nachikatsuura-kumano-kodo-stay/" },
   title: "【和歌山・那智勝浦＆熊野古道】熊野那智大社・那智の滝＆生マグロ・洞窟風呂宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "世界遺産・熊野古道と日本一の生マグロ・和歌山那智勝浦エリア完全特化！落差日本一「那智の滝」、熊野那智大社・青岸渡寺、大門坂の石畳、勝浦港水揚げ生マグロ食べ尽くし、海に浮かぶ絶景洞窟風呂温泉宿を徹底解説。",
-  keywords: ["wakayama-nachikatsuura-kumano-kodo-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["和歌山", "那智勝浦", "熊野古道", "熊野那智大社", "那智の滝", "生マグロ", "洞窟風呂宿"],
 };
 
 function loadSeasonalHotels() {

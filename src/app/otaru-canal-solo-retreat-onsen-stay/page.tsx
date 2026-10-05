@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/otaru-canal-solo-retreat-onsen-stay/" },
   title: '【小樽運河ひとり旅・レトロ温泉おこもり】ガス灯揺れる石造り倉庫街・自家源泉の湯・極上握り寿司！歴史と硝子の街に癒やされる厳選3宿',
   description: '新千歳空港から快速エアポートで直通約75分！小樽駅徒歩約1分で自家源泉と海鮮丼朝食が自慢の「ドーミーインPREMIUM小樽」、小樽運河の目の前に佇みノスタルジックな明治の風情が薫る「運河の宿 おたる ふる川」、大正ロマン漂う運河沿いの名宿「ホテルソニア小樽」を楽天API最新データに基づき徹底比較。',
   keywords: '小樽 一人旅 ホテル,小樽運河 温泉 宿,ドーミーインPREMIUM小樽,運河の宿おたるふる川,小樽 寿司 ひとり旅,小樽 レトロ 宿',

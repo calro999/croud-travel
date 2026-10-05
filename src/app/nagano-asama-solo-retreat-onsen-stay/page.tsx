@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/nagano-asama-solo-retreat-onsen-stay/" },
   title: '【松本・浅間温泉ひとり旅・城下町奥座敷おこもり】松本城主の隠し湯・源泉かけ流し・信州郷土料理！北アルプスを望む文化の湯厳選3宿',
   description: '国宝松本城から車でわずか10分！全客室から庭園を望み書画や骨董に囲まれる高級割烹宿「富士乃湯」、明治創業の歴史と純和風情が心地よい「梅の湯」、松本のクラフトビールと音楽をカジュアルに楽しむ新感覚の「FAN! MATSUMOTO」を楽天API最新データに基づき徹底比較。',
   keywords: '浅間温泉 一人旅 宿,浅間温泉 ホテル 一人,富士乃湯 浅間温泉,梅の湯 浅間温泉,FAN! MATSUMOTO,松本 浅間温泉 ひとり旅',

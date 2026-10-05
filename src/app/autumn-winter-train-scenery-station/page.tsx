@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/autumn-winter-train-scenery-station/" },
   title: "【車窓の旅】紅葉＆雪景色！絶景観光列車と駅近温泉旅館 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "車窓を流れる息をのむ紅葉と銀世界！京都嵯峨野トロッコ列車、福島奥会津只見線、富山黒部峡谷トロッコ、青森津軽鉄道ストーブ列車など、日本屈指の絶景ローカル線と温泉宿を徹底解説。",
-  keywords: ["autumn-winter-train-scenery-station", "宿泊予約", "温泉宿", "ホテル特集", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["車窓の旅", "紅葉", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
 };
 
 function loadSeasonalHotels() {

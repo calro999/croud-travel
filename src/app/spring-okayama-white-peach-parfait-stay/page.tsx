@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】果物王国の極上スイーツ！名産清水白桃パフェ＆倉敷美観地区・湯原温泉の風情宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！とろける甘さと芳醇な香りの岡山特産「清水白桃」！白桃パフェ・スイーツと倉敷美観地区の白壁町家、名湯湯原温泉で寛ぐ晴れの国岡山のおすすめ宿5選。',
-  keywords: ["清水白桃","白桃パフェ","倉敷美観地区","湯原温泉","岡山フルーツ","町家ホテル","楽天トラベル"],
+  keywords: ["2026年", "倉敷美観地区", "湯原温泉の風情宿5選", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約"],
   openGraph: {
     title: '【2026年】果物王国の極上スイーツ！名産清水白桃パフェ＆倉敷美観地区・湯原温泉の風情宿5選',
     description: '2026年最新！とろける甘さと芳醇な香りの岡山特産「清水白桃」！白桃パフェ・スイーツと倉敷美観地区の白壁町家、名湯湯原温泉で寛ぐ晴れの国岡山のおすすめ宿5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/spring-okayama-white-peach-parfait-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/spring-okayama-white-peach-parfait-stay',
+    canonical: "https://croud-travel.pages.dev/spring-okayama-white-peach-parfait-stay/",
   },
 };
 

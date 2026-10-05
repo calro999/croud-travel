@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '新潟・越後一宮 弥彦神社もみじ谷＆弥彦温泉！菊まつりと越後名物・のどぐろ・岩船米コシヒカリ | クラウドトラベルふるさと納税',
   description: '10月・11月の新潟・弥彦＆岩室温泉特集！朱塗りの観月橋を彩る弥彦公園「もみじ谷」の紅葉ライトアップ、越後一宮・弥彦神社の全国屈指の「弥彦菊まつり」、開湯以来の美肌湯「弥彦温泉・岩室温泉」、日本海の高級魚のどぐろや新米コシヒカリ会席をふるさと納税トラベルでお得に楽しむ越後秋旅。',
-  keywords: ["弥彦神社菊まつり・弥彦公園もみじ谷・弥彦温泉 観光","新潟県 10月 11月 旅行","弥彦もみじ谷紅葉ライトアップ＆のどぐろ新米会席","ふるさと納税 温泉宿泊券","弥彦温泉　四季の宿　みのや","弥彦温泉　割烹の宿　櫻家","岩室温泉　富士屋","楽天ふるさと納税 宿泊クーポン"],
+  keywords: ["新潟", "越後一宮", "弥彦神社もみじ谷", "弥彦温泉！菊まつりと越後名物", "のどぐろ", "岩船米コシヒカリ", "クラウドトラベルふるさと納税"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-niigata-yahiko-iwamuro-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-niigata-yahiko-iwamuro-autumn-stay/",
   },
   openGraph: {
     title: '新潟・越後一宮 弥彦神社もみじ谷＆弥彦温泉！菊まつりと越後名物・のどぐろ・岩船米コシヒカリ',

@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   description: "白銀の静寂に包まれる国宝羽黒山五重塔と出羽三山神社三神合祭殿での厳かな雪の初詣。酒田の象徴・山居倉庫の雪化粧ケヤキ並木や、荒海日本海が育む冬の至宝「寒鱈どんがら汁」の濃厚な旨味。ユネスコ食文化創造都市・鶴岡の伝統郷土料理と庄内牛、日本海を望む湯野浜温泉や名湯湯田川・温海温泉の雪見露天に癒やされる厳選宿5選を徹底特集します。",
   keywords: '出羽三山 初詣, 羽黒山 五重塔 冬, 寒鱈どんがら汁, 湯野浜温泉 宿, 酒田 山居倉庫 雪景色, 鶴岡 旅館, 萬国屋, 九兵衛旅館, 庄内牛, 11月 12月 1月 山形 旅行',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-yamagata-sakata-tsuruoka-hagurosan-kandara-stay'
+    canonical: "https://croud-travel.pages.dev/winter-yamagata-sakata-tsuruoka-hagurosan-kandara-stay/"
   },
   openGraph: {
     title: "【11・12・1月山形】酒田＆鶴岡・羽黒山！出羽三山神社の雪の初詣と山居倉庫雪景色・冬の日本海名物「寒鱈どんがら汁」＆名湯5選",

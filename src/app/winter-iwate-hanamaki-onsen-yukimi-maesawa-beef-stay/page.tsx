@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "童話作家・宮沢賢治が愛した理想郷「イーハトーブ」の地・岩手県花巻温泉郷。11月下旬の初雪から12月の白銀世界へと移ろう初冬、赤松林に囲まれた美肌の湯や日本一深い自噴立ち湯で愉しむ雪見露天風呂。霜降り極上の前沢牛すき焼きとブランド豚「白金豚」のしゃぶしゃぶ、南部杜氏が醸す寒造り地酒を堪能する名宿ガイド。",
   keywords: '花巻温泉郷 宿泊 11月 12月, 花巻温泉 佳松園 予約, 鉛温泉 藤三旅館 白猿の湯, 前沢牛 白金豚 旅館, 花巻温泉 雪見露天風呂, 宮沢賢治 イーハトーブ 花巻, 花巻温泉郷 冬 モデルコース',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-iwate-hanamaki-onsen-yukimi-maesawa-beef-stay',
+    canonical: "https://croud-travel.pages.dev/winter-iwate-hanamaki-onsen-yukimi-maesawa-beef-stay/",
   },
   openGraph: {
     title: "【11・12月花巻温泉郷の白銀雪見露天と宮沢賢治の世界】奥羽山脈の名湯巡り・極上前沢牛＆白金豚しゃぶしゃぶの宿5選",

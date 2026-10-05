@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/dog-private-grass-run-villa-stay/" },
   title: "【天然芝プライベートドッグラン付きヴィラ】アジリティ＆貸切一棟ステイ 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "ノーリードで思いっきり駆け回る歓び！客室専用天然芝プライベートドッグラン付き一棟貸しヴィラ完全特化！千葉九十九里・那須・軽井沢・琵琶湖、アジリティ完備、足洗い場＆温水シャワー、愛犬とBBQを楽しむ宿を徹底解説。",
-  keywords: ["dog-private-grass-run-villa-stay", "ペットと泊まれる宿", "愛犬同伴", "ドッグリゾート", "プライベートドッグラン", "楽天トラベル"],
+  keywords: ["アジリティ", "貸切一棟ステイ", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
 };
 
 function loadSeasonalHotels() {

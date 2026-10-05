@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   description: "冬の東京の代名詞・六本木けやき坂を彩る約80万球のLED「SNOW & BLUE」と、正面にそびえる真紅の東京タワー。さらに東京ミッドタウンの幻想的な光の広場、注目の麻布台ヒルズの華やかなクリスマスマーケットが揃い踏みする11月・12月・1月。地上200mの天空ラウンジや客室バルコニーから大パノラマの冬夜景を独占し、世界最高峰のミシュラン美食に酔いしれる極上の都心ホテルステイ。楽天APIから最新取得した六本木・赤坂・虎ノ門・芝公園の最高峰ラグジュアリーホテル5選を徹底特集します。",
   keywords: '六本木 ホテル, けやき坂 イルミネーション, 東京タワー 夜景 ホテル, グランドハイアット東京, ザ リッツ カールトン東京, アンダーズ東京, ザ プリンス パークタワー東京, 麻布台ヒルズ クリスマス, 11月 12月 1月 東京 観光',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-tokyo-roppongi-hills-azabudai-keyakizaka-illumination-stay'
+    canonical: "https://croud-travel.pages.dev/winter-tokyo-roppongi-hills-azabudai-keyakizaka-illumination-stay/"
   },
   openGraph: {
     title: "【11・12・1月東京】六本木けやき坂イルミネーション＆麻布台ヒルズ！東京タワー冬夜景と美食に酔いしれるラグジュアリーホテル5選",

@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '宮大工の技と歴史が息づく！国登録有形文化財・伝統建築美に泊まる名門老舗旅館 ｜ 日本全国・旅宿クラウド',
   description: '修善寺・渋温泉・箱根など、宮大工の至高の技と百年を超える歴史が刻まれた登録有形文化財の老舗宿。タイムスリップしたかのような日本の美と名湯。',
-  keywords: ["登録有形文化財","老舗旅館","数寄屋造り","修善寺温泉","渋温泉","伝統建築"],
+  keywords: ["伝統建築美に泊まる名門老舗旅館", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/cultural-property-heritage-sukiya-ryokan-stay',
+    canonical: "https://croud-travel.pages.dev/cultural-property-heritage-sukiya-ryokan-stay/",
   },
   openGraph: {
     title: '宮大工の技と歴史が息づく！国登録有形文化財・伝統建築美に泊まる名門老舗旅館',

@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '【2026年】標高1,000m以上の絶景パノラマ！ロープウェイ直結＆雲上展望山頂ホテル5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！中央アルプス・蔵王・八甲田など、ロープウェイで登る雲上の山頂リゾートホテル5選。眼下に広がる雲海とパノラマ展望露天風呂の感動。',
-  keywords: ["雲海ホテル","山頂リゾート","絶景パノラマ","ロープウェイ","高原温泉","楽天トラベル"],
+  keywords: ["2026年", "雲上展望山頂ホテル5選", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/super-panoramic-ropeway-mountain-top-hotel-stay',
+    canonical: "https://croud-travel.pages.dev/super-panoramic-ropeway-mountain-top-hotel-stay/",
   },
   openGraph: {
     title: '【2026年】標高1,000m以上の絶景パノラマ！ロープウェイ直結＆雲上展望山頂ホテル5選',

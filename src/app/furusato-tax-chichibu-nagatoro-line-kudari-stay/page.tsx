@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '長瀞ライン下りと岩畳の紅葉絵巻！秩父温泉郷の名湯・名物豚みそ丼＆わらじカツを味わう秋の埼玉旅 | クラウドトラベルふるさと納税',
   description: '10月・11月の埼玉・秩父＆長瀞特集！荒川の清流と国指定名勝「岩畳」を彩る長瀞ライン下りの大紅葉、月の石もみじ公園の幻想的な紅葉ライトアップ、秩父連峰を望む秩父温泉郷の美肌名湯、名物わらじカツ丼や豚みそ漬け・秩父錦をふるさと納税で堪能。',
-  keywords: ['秩父・長瀞・荒川渓谷 紅葉 観光', '埼玉県 10月 11月 旅行', '埼玉・秩父＆長瀞特集', 'ふるさと納税 温泉宿泊券', '十ＲＩＶＥＲＰＯＯＬ　埼玉ちちぶ', 'ホテルルートイン西武秩父駅前', '居心地のいい宿　Ｃｏｍｆｏｒｔ　Ｓｔａｙ　みやび', '楽天ふるさと納税 宿泊クーポン'],
+  keywords: ["名物豚みそ丼", "わらじカツを味わう秋の埼玉旅", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-chichibu-nagatoro-line-kudari-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-chichibu-nagatoro-line-kudari-stay/",
   },
   openGraph: {
     title: '長瀞ライン下りと岩畳の紅葉絵巻！秩父温泉郷の名湯・名物豚みそ丼＆わらじカツを味わう秋の埼玉旅',

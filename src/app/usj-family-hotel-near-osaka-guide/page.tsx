@@ -5,16 +5,10 @@ import path from "path";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/usj-family-hotel-near-osaka-guide/" },
   title: "【子連れUSJホテルおすすめ比較】オフィシャルホテル徒歩1分 vs 梅田・なんば駅チカ宿！家族旅行完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "子連れでユニバーサル・スタジオ・ジャパンを満喫するためのホテル選び！パーク徒歩1分のオフィシャルホテルで開園待ち＆疲れたら昼寝できるメリット vs 大阪観光も兼ねた梅田・なんばのファミリー向けホテルを徹底比較。",
-  keywords: [
-    "子連れUSJ ホテル",
-    "USJ オフィシャルホテル 子連れ",
-    "ユニバーサルスタジオジャパン 家族旅行",
-    "USJ 昼寝 再入場 ホテル",
-    "USJ 梅田 なんば ホテル 比較",
-    "楽天トラベル USJ"
-  ],
+  keywords: ["子連れUSJホテルおすすめ比較", "オフィシャルホテル徒歩1分", "vs", "梅田", "なんば駅チカ宿！家族旅行", "温泉宿", "宿泊予約"],
 };
 
 interface Hotel {

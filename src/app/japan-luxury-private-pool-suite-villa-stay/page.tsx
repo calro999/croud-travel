@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/japan-luxury-private-pool-suite-villa-stay/" },
   title: "【客室プライベートプール付きオールスイートヴィラ】沖縄・奄美・宮古・関東 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "誰にも邪魔されない完全プライベートな極上バカンス！客室専用温水プール付きオールスイートヴィラ完全特化！沖縄本島・宮古島・石垣島・奄美大島、関東近郊のインフィニティプール付きラグジュアリーヴィラを徹底解説。",
-  keywords: ["japan-luxury-private-pool-suite-villa-stay", "宿泊予約", "高級リゾート", "記念日ホテル", "ラグジュアリーステイ", "楽天トラベル"],
+  keywords: ["沖縄", "奄美", "宮古", "関東", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
 
 function loadSeasonalHotels() {

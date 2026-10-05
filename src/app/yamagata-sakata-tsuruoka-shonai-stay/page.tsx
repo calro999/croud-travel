@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/yamagata-sakata-tsuruoka-shonai-stay/" },
   title: "【山形・酒田＆鶴岡・羽黒山・庄内】山居倉庫・出羽三山＆クラゲ水族館・庄内豚宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "北前船の歴史と修験の霊峰・山形庄内エリア完全特化！ケヤキ並木が美しい酒田「山居倉庫」、世界一のクラゲ水族館「加茂水族館」、ミシュラン三ツ星・出羽三山羽黒山国宝五重塔、湯野浜温泉・あつみ温泉、ブランド庄内豚宿を徹底解説。",
-  keywords: ["yamagata-sakata-tsuruoka-shonai-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["山形", "酒田", "鶴岡", "羽黒山", "庄内", "山居倉庫", "出羽三山"],
 };
 
 function loadSeasonalHotels() {

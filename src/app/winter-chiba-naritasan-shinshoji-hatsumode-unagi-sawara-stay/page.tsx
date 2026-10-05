@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   description: "11月から1月、成田山新勝寺は12月の納め不動から正月三が日・新春初詣にかけて全国から300万人以上の参拝客が集う日本屈指の祈りの季節を迎えます。開創千余年の大本堂に響く迫真の「御護摩祈祷」、香ばしいタレの煙が立ち込める表参道の名物「江戸前うなぎ蒲焼」、そして「北総の小江戸」として重伝建地区に指定される水郷・佐原の歴史的商家群と冬のこたつ舟めぐり。成田山門前の老舗宿や重伝建古民家オーベルジュ、天然温泉リゾートで心身を清め福を呼び込む冬の厳選名宿5選をご紹介します。",
   keywords: '成田山新勝寺 初詣 混雑, 成田山 表参道 うなぎ 宿, 佐原 小江戸 商家町 ホテル, 和空 成田山門前, 成田山門前 旅館 若松本店, アートホテル成田 温泉, 佐原商家町ホテル NIPPONIA, ヒルトン成田, 11月 12月 1月 千葉旅行',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-chiba-naritasan-shinshoji-hatsumode-unagi-sawara-stay'
+    canonical: "https://croud-travel.pages.dev/winter-chiba-naritasan-shinshoji-hatsumode-unagi-sawara-stay/"
   },
   openGraph: {
     title: "【11・12・1月千葉】成田山新勝寺の新春初詣＆表参道名物うなぎと北総小江戸・佐原の重伝建風情を巡る名宿5選",

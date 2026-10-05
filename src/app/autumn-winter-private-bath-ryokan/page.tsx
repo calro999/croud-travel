@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/autumn-winter-private-bath-ryokan/" },
   title: "【おこもり贅沢】貸切露天風呂＆お部屋食の極上温泉旅館 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "誰にも気兼ねしない二人だけの至福の時間。箱根強羅、伊豆修善寺、熊本黒川温泉、京都嵯峨嵐山など、無料貸切露天風呂や贅沢な部屋食会席プランを備えた秋・冬のおこもり人気宿を徹底解説。",
-  keywords: ["autumn-winter-private-bath-ryokan", "宿泊予約", "温泉宿", "ホテル特集", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["おこもり贅沢", "貸切露天風呂", "お部屋食の極上温泉旅館", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
 
 function loadSeasonalHotels() {

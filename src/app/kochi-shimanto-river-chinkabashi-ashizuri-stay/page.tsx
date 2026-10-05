@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/kochi-shimanto-river-chinkabashi-ashizuri-stay/" },
   title: "【高知・四万十川＆沈下橋・足摺岬】日本最後の清流カヌー・天然うなぎ＆カツオ宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "最後の清流と四国最南端・高知四万十＆足摺エリア完全特化！欄干のない「佐田の沈下橋・岩間沈下橋」、四万十川カヌー・屋形船遊覧、足摺岬灯台・金剛福寺、名物「天然鮎・四万十うなぎ・初鰹タタキ宿」を徹底解説。",
-  keywords: ["kochi-shimanto-river-chinkabashi-ashizuri-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["高知", "四万十川", "沈下橋", "足摺岬", "日本最後の清流カヌー", "天然うなぎ", "カツオ宿"],
 };
 
 function loadSeasonalHotels() {

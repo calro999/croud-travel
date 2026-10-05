@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/nagano-nozawa-solo-retreat-onsen-stay/" },
   title: '【野沢温泉ひとり旅・十三外湯めぐりおこもり】麻釜の湯けむり・源泉かけ流し硫黄泉・信州牛！信信濃のスキーと湯治の里厳選3宿',
   description: '天然温泉100%かけ流しの聖地・野沢温泉！名湯「熊の手洗湯」に直結する唯一の宿「お宿てらゆ」、高台から野沢の山並みを一望する展望露天風呂が評判の「野沢グランドホテル」、自家源泉の温もりと家庭的なおもてなしの「げんたろう屋」を楽天API最新データに基づき徹底比較。',
   keywords: '野沢温泉 一人旅 宿,野沢温泉 ホテル 一人,お宿てらゆ,野沢グランドホテル,げんたろう屋,野沢 外湯めぐり ひとり旅',

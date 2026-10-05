@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-coastal-sceneries-stay/" },
   title: '日本三大白砂青松＆海の絶景パノラマ・海岸リゾート温泉宿×ふるさと納税完全ガイド【2026年最新】天橋立・三保松原・気比の松原',
   description: '白砂と幾千の青松が描く日本の原風景！京都宮津「天橋立」日本三景股のぞきパノラマと和のリゾート文珠荘、静岡「三保松原」世界遺産富士山と羽衣の松望む風景美術館日本平ホテル、福井敦賀「気比の松原」万葉の海浜とホテルルートイン敦賀駅前。日本三大白砂青松（三大松原名勝）のシーサイドオーシャンビューを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大白砂青松・海浜絶景特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',

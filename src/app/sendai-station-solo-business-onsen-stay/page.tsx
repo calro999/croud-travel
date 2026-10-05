@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/sendai-station-solo-business-onsen-stay/" },
   title: '【仙台駅前出張・天然温泉ステイ】杜の都・天然温泉萩の湯・極上牛たんグルメ！東北最大のビジネスターミナル直結の厳選3宿',
   description: '東北新幹線「はやぶさ」で東京から約1時間30分！仙台駅徒歩約5分で最上階天然温泉＆本格サウナ・夜鳴きそばを誇る「ドーミーイン仙台駅前」、駅前西口ペデストリアンデッキ直結でクラブラウンジ＆快眠を約束する「リッチモンドホテルプレミア仙台駅前」、東口すぐで男女別天然温泉を備える「スーパーホテル仙台駅東口天然温泉」を徹底比較。',
   keywords: '仙台 出張 ホテル,仙台駅 天然温泉 ホテル,ドーミーイン仙台駅前,リッチモンドホテルプレミア仙台駅前,スーパーホテル仙台駅東口天然温泉,仙台 牛たん 一人旅',

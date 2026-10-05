@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/nagano-station-solo-business-onsen-sauna-stay/" },
   title: '【長野駅前出張・天然温泉サウナ】北陸新幹線・善光寺門前町・天然温泉善光の湯！信州の山並みを仰ぐ厳選3宿',
   description: '北陸新幹線「かがやき」で東京から約1時間20分！長野駅善光寺口すぐで最上階天然温泉＆本格サウナ・信州そば朝食を誇る「ドーミーイン長野」、東口至近で手頃に天然温泉大浴場とサウナを楽しめる「ホテルリブマックスPREMIUM長野駅前」、白馬直送天然温泉の「アイランドホテル」を徹底比較。',
   keywords: '長野 出張 ホテル,長野駅 温泉 ホテル,ドーミーイン長野,ホテルリブマックスPREMIUM長野駅前,アイランドホテル長野,善光寺 一人旅',

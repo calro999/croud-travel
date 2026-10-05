@@ -4,20 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '世界屈指のラジウム温泉・三朝温泉と国立公園大山の紅葉！名湯旅館×ふるさと納税完全ガイド【2026年最新秋旅】鳥取',
   description: '10月下旬〜11月中旬に見頃を迎える西日本屈指の名峰「大山（だいせん）」のブナ原生林紅葉と「三朝温泉（みささおんせん）」。世界屈指の高濃度ラドンを含む「三たび朝を迎えると元気になる」奇跡の湯、名門老舗宿「依山楼 岩崎」「旅館 大橋」「ちくま旅館」で11月解禁の鳥取松葉ガニや鳥取和牛オレイン55を堪能。ふるさと納税で実質2,000円。',
-  keywords: [
-    'ふるさと納税 温泉',
-    'ふるさと納税 宿泊券',
-    'ふるさと納税 トラベルクーポン',
-    '鳥取・三朝温泉＆大山ブナ原生林紅葉特集',
-    '10月 旅行 おすすめ',
-    '11月 旅行 おすすめ',
-    '秋 旅行 温泉',
-    '紅葉 温泉旅館',
-    '楽天トラベル ふるさと納税',
-    '実質2000円 温泉'
-  ],
+  keywords: ["世界屈指のラジウム温泉", "2026年最新秋旅", "鳥取", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-misasa-onsen-autumn-leaves-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-misasa-onsen-autumn-leaves-stay/"
   },
   openGraph: {
     title: '世界屈指のラジウム温泉・三朝温泉と国立公園大山の紅葉！名湯旅館×ふるさと納税完全ガイド【2026年最新秋旅】鳥取',

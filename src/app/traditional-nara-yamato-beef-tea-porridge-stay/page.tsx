@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "鎌倉時代からの銘牛の血統を継ぐ「大和牛」の極上すき焼きと、ほうじ茶香る伝統の「奈良茶粥」！東大寺や春日大社、ならまち散策と合わせて楽しむ、古都の風情あふれる名湯美食旅館を厳選紹介。",
   keywords: "奈良 温泉 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/traditional-nara-yamato-beef-tea-porridge-stay',
+    canonical: "https://croud-travel.pages.dev/traditional-nara-yamato-beef-tea-porridge-stay/",
   },
   openGraph: {
     title: "【大和牛すき焼き＆名物茶粥】古都奈良の歴史浪漫と飛鳥・吉野・奈良町の名湯美食宿5選",

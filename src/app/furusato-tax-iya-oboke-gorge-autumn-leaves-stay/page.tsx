@@ -4,20 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '日本三大秘境・祖谷のかずら橋＆大歩危峡の断崖紅葉！ケーブルカー露天風呂の宿×ふるさと納税完全ガイド【2026年最新秋旅】徳島',
   description: '10月下旬〜11月中旬に山一面が錦に染まる日本三大秘境「祖谷渓（いやけい）」と吉野川の「大歩危峡（おおぼけきょう）」。スリル満点の祖谷のかずら橋、名物小便小僧、ケーブルカーで行く谷底露天風呂「ホテル祖谷温泉」「ホテルかずら橋」「サンリバー大歩危」で祖谷そばや阿波尾鶏を堪能。ふるさと納税で実質2,000円。',
-  keywords: [
-    'ふるさと納税 温泉',
-    'ふるさと納税 宿泊券',
-    'ふるさと納税 トラベルクーポン',
-    '四国・祖谷渓＆大歩危峡 秘境温泉特集',
-    '10月 旅行 おすすめ',
-    '11月 旅行 おすすめ',
-    '秋 旅行 温泉',
-    '紅葉 温泉旅館',
-    '楽天トラベル ふるさと納税',
-    '実質2000円 温泉'
-  ],
+  keywords: ["日本三大秘境", "祖谷のかずら橋", "2026年最新秋旅", "徳島", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-iya-oboke-gorge-autumn-leaves-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-iya-oboke-gorge-autumn-leaves-stay/"
   },
   openGraph: {
     title: '日本三大秘境・祖谷のかずら橋＆大歩危峡の断崖紅葉！ケーブルカー露天風呂の宿×ふるさと納税完全ガイド【2026年最新秋旅】徳島',

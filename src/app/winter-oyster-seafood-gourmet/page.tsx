@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/winter-oyster-seafood-gourmet/" },
   title: "【冬の海のミルク】極上牡蠣＆冬海鮮づくし温泉旅館 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "冬に旨味が最高潮を迎える牡蠣！広島・宮島（焼き牡蠣＆牡蠣土手鍋）、宮城・松島（松島湾ぷりぷり牡蠣）、三重・鳥羽的矢湾（ブランド的矢かき会席）、兵庫・赤穂（坂越牡蠣）など、絶品牡蠣料理と温泉を堪能できる名宿を徹底解説。",
-  keywords: ["winter-oyster-seafood-gourmet", "宿泊予約", "温泉宿", "ホテル特集", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["冬の海のミルク", "極上牡蠣", "冬海鮮づくし温泉旅館", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
 
 function loadSeasonalHotels() {

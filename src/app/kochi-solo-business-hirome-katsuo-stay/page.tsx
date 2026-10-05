@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/kochi-solo-business-hirome-katsuo-stay/" },
   title: '【高知出張＆土佐酒ひとり旅】ひろめ市場徒歩すぐ・天然温泉露天風呂・絶品カツオ藁焼き！南国土佐で魂を解放する名宿 厳選3選',
   description: '黒潮躍る太平洋と坂本龍馬のふるさと・高知！「ひろめ市場徒歩5分・最上階に天然温泉大浴場と夜鳴きそば完備」の「ドーミーイン高知」、創業140余年・皇族も迎える名門旅館「城西館」、高知駅前徒歩2分の好立地を誇る「JRクレメントイン高知」を徹底特集。',
   keywords: '高知 出張 ホテル おすすめ,高知 一人旅 ホテル,ドーミーイン高知 温泉,ひろめ市場 ホテル 高知,高知 カツオ塩たたき ホテル',

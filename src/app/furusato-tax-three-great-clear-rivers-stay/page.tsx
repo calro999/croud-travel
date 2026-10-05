@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-clear-rivers-stay/" },
   title: '日本三大清流＆奇跡の透明度と川魚・名水グルメ温泉宿×ふるさと納税完全ガイド【2026年最新】四万十川・長良川・柿田川',
   description: '日本屈指の清らかな水が生んだ大自然と美食！高知「四万十川」沈下橋と天然鮎・青さのり・ツガニを満喫する新安並温泉なごみ宿安住庵、岐阜「長良川」1300年の伝統鵜飼と名湯長良川温泉十八楼、静岡三島「柿田川湧水群」富士山雪解け水が生んだ東洋一の湧水量とうなぎ会席ドーミーイン三島。日本三大清流のリバーサイドステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大清流・名水リバー特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',

@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '北海道・阿寒湖温泉と釧路湿原の秋！マリモの森紅葉クルーズ＆鶴雅リゾート極上ビュッフェ | クラウドトラベルふるさと納税',
   description: '10月・11月の北海道・釧路＆阿寒湖特集！国の特別天然記念物マリモが育つ阿寒湖の秋遊覧船クルーズと雄阿寒岳・雌阿寒岳の紅葉、アイヌコタンの伝統文化、阿寒湖温泉・鶴雅リゾートの多彩な湯処と秋鮭・蝦夷鹿・道東の海の幸をふるさと納税トラベルでお得に満喫する大自然の旅。',
-  keywords: ["阿寒湖温泉・釧路湿原・阿寒湖遊覧船 観光","北海道 10月 11月 旅行","阿寒湖温泉鶴雅リゾート紅葉＆道東海の幸","ふるさと納税 温泉宿泊券","あかん遊久の里鶴雅","ニュー阿寒ホテル","ＴＨＥ　ＦＯＲＥＳＴ阿寒　ＴＳＵＲＵＧＡＲＥＳＯＲＴ","楽天ふるさと納税 宿泊クーポン"],
+  keywords: ["北海道", "鶴雅リゾート極上ビュッフェ", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-hokkaido-kushiro-akan-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-hokkaido-kushiro-akan-autumn-stay/",
   },
   openGraph: {
     title: '北海道・阿寒湖温泉と釧路湿原の秋！マリモの森紅葉クルーズ＆鶴雅リゾート極上ビュッフェ',

@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '黄金色に染まる海と空のマジックアワー！夕日絶景オーシャンビュー露天風呂宿 ｜ 日本全国・旅宿クラウド',
   description: '西伊豆堂ヶ島・丹後夕日ヶ浦・庄内浜など日本海・太平洋の夕陽の名所に佇む温泉宿。夕暮れどきに露天風呂から眺める黄金のサンセットグラデーション。',
-  keywords: ["夕日絶景","サンセット露天","マジックアワー","西伊豆堂ヶ島","夕日ヶ浦温泉","海一望"],
+  keywords: ["温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/sunset-magic-hour-oceanview-onsen-stay',
+    canonical: "https://croud-travel.pages.dev/sunset-magic-hour-oceanview-onsen-stay/",
   },
   openGraph: {
     title: '黄金色に染まる海と空のマジックアワー！夕日絶景オーシャンビュー露天風呂宿',

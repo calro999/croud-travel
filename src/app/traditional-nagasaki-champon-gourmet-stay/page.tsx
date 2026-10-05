@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】長崎名物・海鮮ちゃんぽん＆卓袱料理！雲仙地獄・小浜温泉の絶景名湯宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！新鮮魚介と濃厚スープの長崎特製ちゃんぽん＆伝統卓袱料理！もくもくと立ち込める雲仙地獄の硫黄泉や橘湾の夕日露天が自慢の名宿5選。',
-  keywords: ["長崎ちゃんぽん","卓袱料理","雲仙温泉","小浜温泉","雲仙地獄","硫黄泉","楽天トラベル"],
+  keywords: ["2026年", "長崎名物", "海鮮ちゃんぽん", "卓袱料理！雲仙地獄", "小浜温泉の絶景名湯宿5選", "日本全国", "旅宿クラウド"],
   openGraph: {
     title: '【2026年】長崎名物・海鮮ちゃんぽん＆卓袱料理！雲仙地獄・小浜温泉の絶景名湯宿5選',
     description: '2026年最新！新鮮魚介と濃厚スープの長崎特製ちゃんぽん＆伝統卓袱料理！もくもくと立ち込める雲仙地獄の硫黄泉や橘湾の夕日露天が自慢の名宿5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/traditional-nagasaki-champon-gourmet-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/traditional-nagasaki-champon-gourmet-stay',
+    canonical: "https://croud-travel.pages.dev/traditional-nagasaki-champon-gourmet-stay/",
   },
 };
 

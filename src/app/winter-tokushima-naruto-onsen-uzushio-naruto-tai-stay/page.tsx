@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "11月から12月にかけて、四国の東の玄関口・徳島県鳴門市は、鳴門海峡を吹き抜ける心地よい冬の潮風と、世界三大潮流の一つが織りなす大迫力の「冬の渦潮」の雄姿が旅人を迎えます。激しい潮流に逆らって泳ぎ、骨に「鳴門骨」と呼ばれるコブができるほど鍛え上げられた「鳴門鯛（天然真鯛）」は、冬に越冬のための上質な脂を蓄え、一年で最も美味な旬を迎えます。滋味豊かな「鳴門わかめ」、すだちを添えた「阿波牛」「阿波尾鶏」の極上会席。さらに世界の名画を原寸大で再現した「大塚国際美術館」のゆったりとした冬のアート鑑賞と、鳴門海峡や大鳴門橋を一望する海辺の温泉露天風呂に癒やされる厳選宿5選を徹底解説。",
   keywords: '鳴門温泉 宿泊, 鳴門 温泉 11月 12月, アオアヲナルトリゾート, モアナコースト, 鳴門グランドホテル海月, ベイリゾートホテル鳴門海月, 鯛丸海月, 鳴門鯛 宿, 大塚国際美術館 宿泊, 鳴門海峡 露天風呂',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-tokushima-naruto-onsen-uzushio-naruto-tai-stay'
+    canonical: "https://croud-travel.pages.dev/winter-tokushima-naruto-onsen-uzushio-naruto-tai-stay/"
   },
   openGraph: {
     title: "【11・12月徳島・鳴門温泉の冬海峡絶景と激流が育む天然鳴門鯛】大塚国際美術館アート鑑賞・特選阿波牛＆鳴門大橋展望露天の宿5選",

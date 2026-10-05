@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/karuizawa-solo-retreat-forest-nature-stay/" },
   title: '【軽井沢ひとり旅・森林リトリート】浅間山ビュー・天然温泉＆スパ・洗練リゾートステイ！都心から1時間の高原おこもり厳選3宿',
   description: '東京駅から北陸新幹線で約65分！軽井沢駅徒歩圏で温泉とスパを完備した「軽井沢プリンスホテル イースト」、標高1,000mの絶景露天風呂とヨーロピアンな気品が漂う「ルグラン軽井沢ホテル＆リゾート」、全室大型客室とラジウム温泉が自慢の「ホテル サイプレス軽井沢」を楽天APIデータに基づき徹底比較。',
   keywords: '軽井沢 一人旅 ホテル,軽井沢 温泉 ひとり,軽井沢プリンスホテルイースト,ルグラン軽井沢,ホテルサイプレス軽井沢,軽井沢 リトリート おこもり',

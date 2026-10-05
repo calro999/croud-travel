@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "11月から12月にかけて、日本三景の一つにして世界遺産の島・宮島（厳島）は、紅葉谷の燃えるような紅葉が落ち着きを取り戻し、瀬戸内海の澄み切った青空と海上に浮かぶ大鳥居の荘厳な姿が際立つ初冬の静寂シーズンを迎えます。11月はまさに広島名物「牡蠣（カキ）」が身を大きく太らせ旨味を凝縮させる本格シーズンの開幕。香ばしい殻付き焼き牡蠣や濃厚な牡蠣の土手鍋、地元ブランド安芸牛に舌鼓を打ち、冷えた身体を瀬戸内海を望む展望露天風呂で温める贅沢な温泉宿5選を詳しく解説します。",
   keywords: '宮島 宿泊, 厳島神社 温泉 宿泊, 広島 温泉 11月 12月, 宮島グランドホテル有もと, ホテル宮島別荘, 錦水館, 岩惣, 安芸グランドホテル, 広島牡蠣 焼き牡蠣, 厳島神社 大鳥居, 宮島潮湯温泉',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-hiroshima-miyajima-onsen-kaki-oyster-seto-stay'
+    canonical: "https://croud-travel.pages.dev/winter-hiroshima-miyajima-onsen-kaki-oyster-seto-stay/"
   },
   openGraph: {
     title: "【11・12月広島・宮島温泉の世界遺産初冬絶景と旬解禁広島カキづくし会席】厳島神社大鳥居一望＆瀬戸内海オーシャンビュー露天の宿5選",

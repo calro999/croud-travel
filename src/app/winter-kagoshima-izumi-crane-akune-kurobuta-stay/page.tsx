@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   description: "シベリアから1万羽を超えるツルが越冬飛来する世界屈指の冬の奇跡「出水のツル渡来地」。薩摩武士の気風を今に伝える重要伝統的建造物群「出水麓武家屋敷群」での雪の初詣。東シナ海・阿久根港が誇る冬のブランド魚「華アジ」や天然ウニ、かごしま黒豚と出水赤鶏。紫尾神社の拝殿下から湧く名湯「神の湯」や宮之城温泉の極上美肌露天に癒やされる厳選宿5選を徹底特集します。",
   keywords: '出水のツル 渡来地, 出水麓武家屋敷群 初詣, 阿久根 華アジ, かごしま黒豚, 宮之城温泉 手塚ryokan, 紫尾温泉 しび荘, 出水赤鶏, 11月 12月 1月 鹿児島 旅行',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-kagoshima-izumi-crane-akune-kurobuta-stay'
+    canonical: "https://croud-travel.pages.dev/winter-kagoshima-izumi-crane-akune-kurobuta-stay/"
   },
   openGraph: {
     title: "【11・12・1月鹿児島】出水＆阿久根・さつま！世界屈指のツル渡来地「一万羽のツル」と出水麓武家屋敷初詣・阿久根の華アジ＆さつま黒豚名宿5選",

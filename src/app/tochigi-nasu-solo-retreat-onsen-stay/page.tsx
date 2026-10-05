@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/tochigi-nasu-solo-retreat-onsen-stay/" },
   title: '【那須温泉ひとり旅・御用邸高原おこもり】茶臼岳絶景露天・鹿の湯白濁泉・那須黒毛和牛！森の静寂に包まれる高原リゾート厳選3宿',
   description: '皇室の御用邸があるロイヤルリゾート・那須高原！広大な敷地に天然温泉スパとラウンジを備える名門「ホテルハーヴェスト那須」、標高1,200mの茶臼岳山腹で乳白色の名湯を誇る「旅館ニューおおたか」、森の隠れ家コテージ「ホテルフォレストヒルズ那須」を徹底比較。',
   keywords: '那須温泉 一人旅 宿,那須 ホテル 一人 温泉,ホテルハーヴェスト那須,旅館ニューおおたか,フォレストヒルズ那須,那須 鹿の湯 ひとり旅',

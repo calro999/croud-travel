@@ -4,20 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '大観覧車とベイブリッジの煌めく夜景！横浜みなとみらい夜景ラグジュアリーホテル×ふるさと納税完全攻略ガイド【2026年最新】Pier8・グランドインターコンチ・ベイ東急',
   description: 'きらめく大観覧車「コスモクロック21」と東京湾・横浜港のパノラマ夜景！「インターコンチネンタル横浜Pier 8」「ヨコハマ グランド インターコンチネンタル ホテル」「横浜ベイホテル東急」を、神奈川県横浜市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。ルーフトップテラス、全室バルコニー付き客室、クラブフロアで至高の記念日ステイ。',
-  keywords: [
-    'ふるさと納税 旅行',
-    'ふるさと納税 ホテル',
-    '横浜みなとみらい夜景ホテル特集',
-    '楽天ふるさと納税 トラベル',
-    'インターコンチネンタル横浜Ｐｉｅｒ　８　ｂｙ　ＩＨＧ',
-    'ヨコハマ　グランド　インターコンチネンタル　ホテル　ｂｙ　ＩＨＧ',
-    '横浜ベイホテル東急',
-    '高級温泉旅館',
-    'プライベートステイ',
-    '実質2000円'
-  ],
+  keywords: ["2026年最新", "Pier8", "グランドインターコンチ", "ベイ東急", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-yokohama-minatomirai-nightview-luxury-stay/',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-yokohama-minatomirai-nightview-luxury-stay/",
   },
   openGraph: {
     title: '大観覧車とベイブリッジの煌めく夜景！横浜みなとみらい夜景ラグジュアリーホテル×ふるさと納税完全攻略ガイド【2026年最新】Pier8・グランドインターコンチ・ベイ東急',

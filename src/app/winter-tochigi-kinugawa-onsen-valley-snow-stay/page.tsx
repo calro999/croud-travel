@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "江戸時代は日光詣での大名や僧侶のみに許された関東屈指の名湯・鬼怒川温泉。11月中旬の晩秋の残り香から12月の初雪へと移ろう初冬、清流と奇岩が織りなす鬼怒川渓谷の絶景を望む露天風呂と、肉汁溢れるA5とちぎ和牛や伝統の日光生ゆば懐石を心ゆくまで堪能する名宿ガイド。",
   keywords: '鬼怒川温泉 宿泊 11月 12月, 鬼怒川温泉 雪景色 露天風呂, とちぎ和牛 日光ゆば 鬼怒川, 鬼怒川温泉 あさや 空中庭園露天風呂, 鬼怒川金谷ホテル, 鬼怒川温泉 山楽, 鬼怒楯岩大吊橋 冬, スペーシアX 鬼怒川温泉',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-tochigi-kinugawa-onsen-valley-snow-stay',
+    canonical: "https://croud-travel.pages.dev/winter-tochigi-kinugawa-onsen-valley-snow-stay/",
   },
   openGraph: {
     title: "【11・12月鬼怒川温泉の初冬渓谷美と名湯】雪化粧の奇岩とアルカリ性美肌泉・とちぎ和牛＆日光生ゆば会席の宿5選",

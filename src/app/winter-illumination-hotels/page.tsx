@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/winter-illumination-hotels/" },
   title: "【冬の夜景】イルミネーション＆クリスマス絶景ホテル 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "光り輝く冬の絶景！丸の内・六本木（東京）、ハウステンボス光の王国（長崎）、中之島・御堂筋（大阪）、あしかがフラワーパーク（栃木）など、幻想的なイルミネーションを満喫できる人気ホテルを徹底解説。",
-  keywords: ["winter-illumination-hotels", "宿泊予約", "温泉宿", "ホテル特集", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["冬の夜景", "イルミネーション", "クリスマス絶景ホテル", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
 
 function loadSeasonalHotels() {

@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】天然精油の香りで深呼吸。ヒノキ・スギ精油アロマスパスパ＆森林浴プライベートヴィラ5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！森の香りに包まれてデトックス！天然ヒノキやスギのオーガニック精油トリートメント、大自然に囲まれたプライベートヴィラと温泉スパ5選。',
-  keywords: ["アロマセラピー","森林浴ヴィラ","ヒノキ精油","クロモジ","プライベートヴィラ","ウェルネス温泉","楽天トラベル"],
+  keywords: ["2026年", "天然精油の香りで深呼吸。ヒノキ", "スギ精油アロマスパスパ", "森林浴プライベートヴィラ5選", "日本全国", "旅宿クラウド", "温泉宿"],
   openGraph: {
     title: '【2026年】天然精油の香りで深呼吸。ヒノキ・スギ精油アロマスパスパ＆森林浴プライベートヴィラ5選',
     description: '2026年最新！森の香りに包まれてデトックス！天然ヒノキやスギのオーガニック精油トリートメント、大自然に囲まれたプライベートヴィラと温泉スパ5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/organic-forest-aromatherapy-villa-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/organic-forest-aromatherapy-villa-stay',
+    canonical: "https://croud-travel.pages.dev/organic-forest-aromatherapy-villa-stay/",
   },
 };
 

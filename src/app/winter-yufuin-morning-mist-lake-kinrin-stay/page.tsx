@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "秋から初冬の早朝にだけ現れる金鱗湖の神秘的な「朝霧（湯気霧）」！湖底から温泉が湧き出ることで生まれる幻想的な霧の風景と、雄大な由布岳を望む離れ客室専用露天風呂で誰にも邪魔されない極上ステイ。",
   keywords: "由布院 温泉 離れ 露天風呂 旅館, 11月旅行, 12月旅行, 冬休み, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/winter-yufuin-morning-mist-lake-kinrin-stay',
+    canonical: "https://croud-travel.pages.dev/winter-yufuin-morning-mist-lake-kinrin-stay/",
   },
   openGraph: {
     title: "【11・12月幻想の朝霧！由布院金鱗湖＆由布岳】湯けむり包む由布院温泉の離れ客室露天宿5選",

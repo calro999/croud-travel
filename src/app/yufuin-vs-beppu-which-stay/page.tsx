@@ -5,9 +5,10 @@ import path from "path";
 import Image from "next/image";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/yufuin-vs-beppu-which-stay/" },
   title: "【由布院 vs 別府 どっちに泊まる？】温泉の泉質・宿のタイプ・観光スポット・費用を完全比較 ｜ 日本全国・旅宿クラウド",
   description: "由布院と別府、大分の温泉二大巨頭はどっちに泊まるべき？由布院（おしゃれな隠れ家宿＆金鱗湖朝霧）と別府（地獄めぐり＆砂湯＆とり天）を温泉の泉質・宿のタイプ・グルメ・費用で徹底比較。「1泊ずつハシゴ」プランも紹介。",
-  keywords: ["yufuin-vs-beppu-which-stay", "由布院", "別府", "大分", "温泉", "比較", "観光", "楽天トラベル"],
+  keywords: ["由布院", "vs", "別府", "どっちに泊まる？", "温泉の泉質", "宿のタイプ", "観光スポット"],
 };
 
 function loadHotels() {

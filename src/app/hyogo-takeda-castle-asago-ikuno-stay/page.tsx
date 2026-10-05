@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/hyogo-takeda-castle-asago-ikuno-stay/" },
   title: "【兵庫・竹田城跡＆朝来・生野銀山】雲海に浮かぶ天空の城・生野鉱山坑道＆但馬牛宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "日本のマチュピチュ・天空の城跡と産業遺産・兵庫朝来エリア完全特化！国史跡「竹田城跡（雲海展望台・立雲峡）」、日本遺産「生野銀山（観光坑道・鉱山町）」、あさご芸術の森、名物「但馬牛・岩津ねぎ宿」を徹底解説。",
-  keywords: ["hyogo-takeda-castle-asago-ikuno-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["兵庫", "竹田城跡", "朝来", "生野銀山", "雲海に浮かぶ天空の城", "生野鉱山坑道", "但馬牛宿"],
 };
 
 function loadSeasonalHotels() {

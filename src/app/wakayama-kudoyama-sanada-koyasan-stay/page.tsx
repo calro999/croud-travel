@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/wakayama-kudoyama-sanada-koyasan-stay/" },
   title: "【和歌山・高野山山麓＆九度山】真田幸村蟄居の地・善名称院＆世界遺産慈尊院・富有柿宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "戦国最後の英雄・真田幸村が14年間過ごした隠れ里・和歌山九度山エリア完全特化！真田屋敷跡「善名称院（真田庵）」、九度山・真田ミュージアム、世界遺産「慈尊院・丹生官省符神社」、高野参詣道町石道、名産「九度山の富有柿宿」を徹底解説。",
-  keywords: ["wakayama-kudoyama-sanada-koyasan-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["和歌山", "高野山山麓", "九度山", "真田幸村蟄居の地", "善名称院", "世界遺産慈尊院", "富有柿宿"],
 };
 
 function loadSeasonalHotels() {

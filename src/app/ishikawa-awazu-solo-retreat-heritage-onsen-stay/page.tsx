@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/ishikawa-awazu-solo-retreat-heritage-onsen-stay/" },
   title: '【加賀温泉郷・粟津温泉ひとり旅・開湯1300年最古の湯おこもり】自家掘り純度100%源泉・加賀会席＆のどぐろ・那谷寺の美林！北陸名湯厳選3宿',
   description: '養老2年（718年）泰澄大師が開湯した加賀温泉郷最古の名湯・粟津温泉！露天風呂付き客室と創業700年の贅を尽くした加賀料理が評判の「のとや」、世界屈指の歴史を誇る老舗旅館「法師」、アットホームな居心地と良心的な価格の「大くぼ旅館」を楽天API最新データに基づき徹底比較。',
   keywords: '粟津温泉 一人旅 宿,粟津 ホテル 一人 温泉,のとや 粟津,法師 粟津温泉,大くぼ旅館,加賀温泉郷 ひとり旅 おこもり',

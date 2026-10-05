@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   description: "冬の岡山・高梁＆新見・美星町は、標高430mの臥牛山頂に佇む現存天守「備中松山城」が一面の白い霧海に浮かび上がる年間最大の絶景シーズン。早朝の雲海展望台から拝む奇跡の天空の山城、ベンガラ色の格子と赤銅色石州瓦が連なる重要伝統的建造物群「吹屋ふるさと村」、そして国際ダークスカイ協会認定「美星町」の冬の満天星空。日本最古の蔓牛の血統を継ぐ幻の黒毛和牛「千屋牛」の極上すき焼きや熱々の郷土料理に舌鼓を打ち、冬の静けさに抱かれる厳選名宿5選を徹底解説します。",
   keywords: '備中松山城 雲海, 高梁 ホテル, 備中松山城 天空の城, 美星町 星空, 千屋牛 すき焼き, 吹屋ふるさと村, 高梁国際ホテル, 新見 ホテル, 11月 12月 1月 岡山 観光',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-okayama-takahashi-bitchu-matsuyama-castle-unkai-chiyagyu-stay'
+    canonical: "https://croud-travel.pages.dev/winter-okayama-takahashi-bitchu-matsuyama-castle-unkai-chiyagyu-stay/"
   },
   openGraph: {
     title: "【11・12・1月岡山】雲海に浮かぶ天空の山城・備中松山城＆美星町満天星空！幻の千屋牛すき焼きを堪能する名宿5選",

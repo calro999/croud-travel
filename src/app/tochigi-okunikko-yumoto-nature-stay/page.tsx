@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/tochigi-okunikko-yumoto-nature-stay/" },
   title: "【栃木・奥日光＆湯元温泉】男体山・戦場ヶ原＆乳白色硫黄泉・日光湯波宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "奥日光の大自然と乳白色の名湯・日光湯元温泉エリア完全特化！男体山を望む「中禅寺湖」、ラムサール条約湿地「戦場ヶ原」、大迫力の「湯滝」、日本で4番目に濃い乳白色硫黄泉と伝統の日光湯波会席宿を徹底解説。",
-  keywords: ["tochigi-okunikko-yumoto-nature-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["栃木", "奥日光", "湯元温泉", "男体山", "戦場ヶ原", "乳白色硫黄泉", "日光湯波宿"],
 };
 
 function loadSeasonalHotels() {

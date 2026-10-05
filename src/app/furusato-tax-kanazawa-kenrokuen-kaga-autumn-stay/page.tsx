@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '金沢・兼六園の雪吊り紅葉と奥座敷・湯涌温泉！加能ガニ解禁＆加賀百万石の秋会席 | クラウドトラベルふるさと納税',
   description: '10月・11月の石川・金沢＆湯涌温泉特集！日本三名園・兼六園の伝統行事「雪吊り作業」と錦秋の庭園美、11月6日解禁の冬の王様「加能ガニ（越前・松葉蟹）」、竹久夢二ゆかりの金沢の奥座敷「湯涌温泉」の美肌湯をふるさと納税トラベルで楽しむ贅沢プラン。',
-  keywords: ["金沢・兼六園雪吊り・湯涌温泉 紅葉 観光","石川県 10月 11月 旅行","金沢兼六園紅葉＆湯涌温泉加能ガニ会席","ふるさと納税 温泉宿泊券","金沢湯涌温泉　百楽荘","金沢湯涌温泉　湯の出旅館","金沢湯涌温泉　古香里庵","楽天ふるさと納税 宿泊クーポン"],
+  keywords: ["金沢", "兼六園の雪吊り紅葉と奥座敷", "湯涌温泉！加能ガニ解禁", "加賀百万石の秋会席", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-kanazawa-kenrokuen-kaga-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-kanazawa-kenrokuen-kaga-autumn-stay/",
   },
   openGraph: {
     title: '金沢・兼六園の雪吊り紅葉と奥座敷・湯涌温泉！加能ガニ解禁＆加賀百万石の秋会席',

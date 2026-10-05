@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '【2026年】噴き出す温泉蒸気で素材の旨味を凝縮！名物「地獄蒸し」料理が自慢の温泉宿5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！別府鉄輪温泉や雲仙・小浜など、源泉の高温蒸気で海鮮や野菜を丸ごと蒸し上げる絶品「地獄蒸し料理」と名湯を満喫できる厳選宿5選。',
-  keywords: ["地獄蒸し","別府温泉","鉄輪温泉","温泉グルメ","湯治宿","楽天トラベル"],
+  keywords: ["2026年", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/geothermal-hell-steamed-cuisine-onsen-stay',
+    canonical: "https://croud-travel.pages.dev/geothermal-hell-steamed-cuisine-onsen-stay/",
   },
   openGraph: {
     title: '【2026年】噴き出す温泉蒸気で素材の旨味を凝縮！名物「地獄蒸し」料理が自慢の温泉宿5選',

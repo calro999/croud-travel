@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/glamping-outdoor-barrel-sauna-resort-stay/" },
   title: "【グランピング＆バレルサウナ体験宿】北欧テント・星空BBQ＆ととのい 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "大自然の中で極上のととのい体験！本格バレルサウナ＆グランピングリゾート宿完全特化！富士山麓、白馬、千葉房総、淡路島、薪サウナ・天然水風呂・外気浴インフィニティチェア、豪華BBQディナー宿を徹底解説。",
-  keywords: ["glamping-outdoor-barrel-sauna-resort-stay", "鉄道旅行", "乗り物旅", "絶景体験", "温泉宿", "楽天トラベル"],
+  keywords: ["グランピング", "バレルサウナ体験宿", "北欧テント", "星空BBQ", "ととのい", "温泉宿", "宿泊予約"],
 };
 
 function loadSeasonalHotels() {

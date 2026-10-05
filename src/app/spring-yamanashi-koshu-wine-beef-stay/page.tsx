@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "ワインの搾りかすを食べて育った柔らかくジューシーな「甲州ワインビーフ」と、世界が認める日本ワイン「甲州」の贅沢マリアージュ！首都圏からアクセスの良い石和温泉で、美食と美肌湯に酔いしれる週末旅。",
   keywords: "石和温泉 甲州ワイン 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/spring-yamanashi-koshu-wine-beef-stay',
+    canonical: "https://croud-travel.pages.dev/spring-yamanashi-koshu-wine-beef-stay/",
   },
   openGraph: {
     title: "【甲州ワインビーフ＆勝沼ワイナリー】芳醇ワインペアリングと石和温泉の美食宿5選",

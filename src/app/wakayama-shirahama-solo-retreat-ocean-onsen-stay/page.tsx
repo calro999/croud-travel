@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/wakayama-shirahama-solo-retreat-ocean-onsen-stay/" },
   title: '【南紀白浜ひとり旅・海一望名湯おこもり】白良浜オーシャンビュー・日本三古湯・クエ＆伊勢海老！太平洋の絶景に抱かれる厳選3宿',
   description: '白砂のビーチと日本三古湯の街・南紀白浜！太平洋を見渡す高台で絶景露天風呂と最高級クエ料理が評判の「海岳」、オープンテラスと広大な温泉プール＆スパを備える「白浜古賀の井リゾート＆スパ」、白良浜徒歩1分で和モダン客室が心地よい「紀州・白浜温泉 むさし」を徹底比較。',
   keywords: '白浜温泉 一人旅 宿,南紀白浜 ホテル 一人 温泉,白浜リゾート 海岳,白浜古賀の井リゾート,白浜温泉 むさし,白良浜 ひとり旅 おこもり',

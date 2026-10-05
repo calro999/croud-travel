@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/nagoya-dome-live-expedition-comfort-stay/" },
   title: '【バンテリンドーム・Zepp名古屋遠征泊】名駅直結＆トレインビュー！終演後もスムーズに休める快適拠点ホテル 厳選3選',
   description: 'バンテリンドーム ナゴヤ（ナゴヤドーム）、Zepp Nagoya、Aichi Sky Expo（愛知県国際展示場）へのコンサート・ライブ・舞台遠征へ！地上31階以上からの絶景「名古屋プリンスホテル スカイタワー」、名古屋駅直結で新幹線改札から直行できる「名鉄グランドホテル」、皇室も愛する歴史と格式のクラシック宿「名古屋観光ホテル」を徹底比較。',
   keywords: 'バンテリンドーム 遠征 ホテル,名古屋 ライブ ホテル おすすめ,名古屋プリンスホテル スカイタワー 遠征,名駅 直結 ホテル,Zepp Nagoya 宿泊',

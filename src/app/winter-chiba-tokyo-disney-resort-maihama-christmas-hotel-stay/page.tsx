@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   description: "冬の東京ディズニーリゾート（舞浜）は、シンデレラ城やアメリカンウォーターフロントに巨大クリスマスツリーが輝く「ディズニー・クリスマス」、冬の夜空を彩る花火「スターブライト・クリスマス」、そして和の趣あふれる華やかな「お正月プログラム」へと続く一年で最も夢と魔法に満ちたシーズン。パークで一日中感動に包まれた後は、ディズニーリゾートライン直結・ベイサイド・ステーション至近のオフィシャルホテルへ。パークビューやオーシャンビューのバルコニー、温水スパや贅沢なホテルビュッフェで心温まる冬の舞浜ステイ。楽天APIから最新取得したオフィシャルホテル5選を徹底特集します。",
   keywords: '舞浜 ホテル, ディズニー オフィシャルホテル, ディズニークリスマス, シェラトン グランデ トーキョーベイ, ヒルトン東京ベイ, グランドニッコー東京ベイ舞浜, ホテルオークラ東京ベイ, 東京ベイ舞浜ホテル ファーストリゾート, 11月 12月 1月 ディズニー 観光',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-chiba-tokyo-disney-resort-maihama-christmas-hotel-stay'
+    canonical: "https://croud-travel.pages.dev/winter-chiba-tokyo-disney-resort-maihama-christmas-hotel-stay/"
   },
   openGraph: {
     title: "【11・12・1月舞浜】東京ディズニーリゾート冬のクリスマス＆年末年始！直営・オフィシャルホテルで叶える夢の冬旅名宿5選",

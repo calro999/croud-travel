@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '四季折々の花畑と名園美に包まれる！美しい日本庭園と美肌温泉で心潤す花巡り宿 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！美しい四季の花畑と名園を散策できる極上の日本庭園温泉宿。季節ごとの草花と名湯に癒やされる心潤う女子旅・夫婦旅におすすめの宿。',
-  keywords: ["日本庭園","花巡り","露天風呂","美肌温泉","楽天トラベル"],
+  keywords: ["温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/seasonal-flower-garden-botanical-healing-onsen-stay',
+    canonical: "https://croud-travel.pages.dev/seasonal-flower-garden-botanical-healing-onsen-stay/",
   },
   openGraph: {
     title: '四季折々の花畑と名園美に包まれる！美しい日本庭園と美肌温泉で心潤す花巡り宿',

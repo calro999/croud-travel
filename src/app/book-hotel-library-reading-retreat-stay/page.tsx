@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '数万冊の本に囲まれて贅沢な夜更かし！全国の泊まれる図書館＆ブックホテル特集 ｜ 日本全国・旅宿クラウド',
   description: '箱根・京都・湯河原など壁一面の本棚や隠れ家リーディングスペースを備えた話題のブックホテル。名湯に浸かり、珈琲や地酒を片手に読書に没頭する旅。',
-  keywords: ["ブックホテル","読書リトリート","泊まれる図書館","箱根本箱","温泉ホテル","一人旅"],
+  keywords: ["ブックホテル", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/book-hotel-library-reading-retreat-stay',
+    canonical: "https://croud-travel.pages.dev/book-hotel-library-reading-retreat-stay/",
   },
   openGraph: {
     title: '数万冊の本に囲まれて贅沢な夜更かし！全国の泊まれる図書館＆ブックホテル特集',

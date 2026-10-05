@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/autumn-winter-hot-spring-cure/" },
   title: "【本格湯治場】源泉かけ流し＆効能抜群の名湯秘湯旅館 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "温泉の真髄を味わう！秋田・玉川温泉（強酸性ラジウム湯治）、青森・酸ヶ湯温泉（ヒバ千人風呂）、栃木・那須湯本（鹿の湯）、長野・野沢温泉（13の外湯めぐり）など、歴史ある本物の名湯宿を徹底解説。",
-  keywords: ["autumn-winter-hot-spring-cure", "宿泊予約", "温泉宿", "ホテル特集", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["本格湯治場", "源泉かけ流し", "効能抜群の名湯秘湯旅館", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
 
 function loadSeasonalHotels() {

@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '文明開化と昭和モダンの薫り！日本が誇る最高峰クラシックホテル＆洋館ステイ ｜ 日本全国・旅宿クラウド',
   description: '日光金谷・箱根富士屋・雲仙観光・横浜ニューグランドなど日本の近代建築美が薫る名門ホテル。重厚なメインダイニングで味わう伝統のフレンチと名湯。',
-  keywords: ["クラシックホテル","富士屋ホテル","日光金谷ホテル","近代建築","洋館ホテル","伝統の味"],
+  keywords: ["洋館ステイ", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/japan-historic-classic-hotel-heritage-stay',
+    canonical: "https://croud-travel.pages.dev/japan-historic-classic-hotel-heritage-stay/",
   },
   openGraph: {
     title: '文明開化と昭和モダンの薫り！日本が誇る最高峰クラシックホテル＆洋館ステイ',

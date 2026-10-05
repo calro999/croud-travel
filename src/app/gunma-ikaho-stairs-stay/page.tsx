@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/gunma-ikaho-stairs-stay/" },
   title: "【群馬・伊香保温泉】365段の石段街・黄金の湯＆水沢うどん極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "群馬・伊香保温泉エリア完全特化！365段の石段街散策、茶褐色の名湯「黄金の湯（こがねのゆ）」と透明な「白銀の湯（しろがねのゆ）」、河鹿橋の紅葉、日本三大うどん「水沢うどん」と老舗名門旅館を徹底解説。",
-  keywords: ["gunma-ikaho-stairs-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["群馬", "伊香保温泉", "365段の石段街", "黄金の湯", "水沢うどん極上宿", "温泉宿", "宿泊予約"],
 };
 
 function loadSeasonalHotels() {

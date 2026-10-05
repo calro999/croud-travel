@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '関西の耶馬渓「香落渓」柱状節理の紅葉ドライブ＆赤目渓谷美・本場伊賀牛と名張の隠れ名湯 | クラウドトラベルふるさと納税',
   description: '11月上旬〜11月下旬に青蓮寺川沿いの巨岩を真っ赤に染める名勝・香落渓。赤目四十八滝ハイキングと名張の天然温泉、最高峰の肉質を誇る「伊賀牛」すき焼きをふるさと納税で堪能する秋の三重・名張旅。',
-  keywords: ['名張・香落渓・赤目四十八滝 紅葉 観光', '三重県 10月 11月 旅行', '香落渓柱状節理紅葉＆名張温泉伊賀牛', 'ふるさと納税 温泉宿泊券', '伊賀のかくれ宿 赤目温泉隠れの湯 対泉閣', '赤目温泉 山の湯 湯元赤目 山水園', 'ホテル ルートイン名張', '楽天ふるさと納税 宿泊クーポン'],
+  keywords: ["赤目渓谷美", "本場伊賀牛と名張の隠れ名湯", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-nabari-kaochidani-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-nabari-kaochidani-autumn-stay/",
   },
   openGraph: {
     title: '関西の耶馬渓「香落渓」柱状節理の紅葉ドライブ＆赤目渓谷美・本場伊賀牛と名張の隠れ名湯',

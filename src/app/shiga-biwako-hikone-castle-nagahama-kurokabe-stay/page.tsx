@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/shiga-biwako-hikone-castle-nagahama-kurokabe-stay/" },
   title: "【滋賀・琵琶湖＆彦根・長浜】国宝彦根城・黒壁＆湖畔温泉宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "現存十二天守・国宝「彦根城」と名園玄宮園、ガラスの街「長浜黒壁スクエア」、琵琶湖一望パノラマと美肌の「おごと温泉」、最高峰の近江牛懐石を徹底解説。湖畔の高級リゾートホテルや伝統温泉旅館を厳選。",
-  keywords: ["shiga-biwako-hikone-castle-nagahama-kurokabe-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["滋賀", "琵琶湖", "彦根", "長浜", "国宝彦根城", "黒壁", "湖畔温泉宿"],
 };
 
 function loadSeasonalHotels() {

@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/gifu-nagaragawa-solo-business-castle-onsen-stay/" },
   title: '【岐阜出張・歴史ひとり旅】長良川温泉・金華山岐阜城パノラマ・飛騨牛グルメ！信長公ゆかりの地でととのう厳選3宿',
   description: '名古屋駅からJR新快速でわずか約20分！江戸享保年間創業で長良川の鵜飼舟を望む老舗名湯「長良川温泉 十八楼」、金華山と岐阜城の絶景を望むハイクラスリゾート「都ホテル 岐阜長良川」、JR岐阜駅徒歩約3分の快適ビジネス拠点「ダイワロイネットホテル岐阜」を楽天APIデータに基づき徹底比較。',
   keywords: '岐阜 出張 ホテル,岐阜 ひとり旅 温泉,長良川温泉 十八楼,都ホテル岐阜長良川,ダイワロイネットホテル岐阜,岐阜城 飛騨牛',

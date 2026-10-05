@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "11月下旬から12月にかけて奥羽山脈の主峰・蔵王連峰に雪が降り積もり、冬の奇跡「樹氷（スノーモンスター）」が徐々に姿を現し始める山形「蔵王温泉」。開湯1900年の歴史を誇るpH1.5前後の強酸性白濁硫黄泉は肌を滑らかにし血行を促進する「美人づくりの湯」。雪景色に包まれた野趣あふれる露天風呂、とろける肉質のブランド黒毛和牛「山形牛」「蔵王牛」のすき焼きや名物山形芋煮会席を満喫する厳選名宿5選を徹底解説。",
   keywords: '蔵王温泉 宿泊, 蔵王温泉 11月 12月, 深山荘 高見屋, 蔵王国際ホテル, 蔵王四季のホテル, ルーセントタカミヤ, おおみや旅館, 蔵王 樹氷 ライトアップ, 蔵王ロープウェイ, 山形牛 すき焼き, 山形 芋煮',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-yamagata-zao-onsen-snow-jyuhyo-beef-stay',
+    canonical: "https://croud-travel.pages.dev/winter-yamagata-zao-onsen-snow-jyuhyo-beef-stay/",
   },
   openGraph: {
     title: "【11・12月山形蔵王温泉の冬名湯と白銀の樹氷】初雪の強酸性硫黄泉露天と蔵王ロープウェイ・極上山形牛すき焼き＆郷土芋煮会席の宿5選",

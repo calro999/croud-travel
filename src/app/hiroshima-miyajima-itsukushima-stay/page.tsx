@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/hiroshima-miyajima-itsukushima-stay/" },
   title: "【広島・宮島＆嚴島神社】海に浮かぶ大鳥居・弥山＆牡蠣・穴子飯宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "日本三景・安芸の宮島エリア完全特化！世界遺産「嚴島神社」大鳥居の潮干狩り・満潮の絶景、宮島ロープウエー弥山登山、揚げもみじ・焼き牡蠣食べ歩きと老舗温泉旅館を徹底解説。",
-  keywords: ["hiroshima-miyajima-itsukushima-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["広島", "宮島", "嚴島神社", "海に浮かぶ大鳥居", "弥山", "牡蠣", "穴子飯宿"],
 };
 
 function loadSeasonalHotels() {

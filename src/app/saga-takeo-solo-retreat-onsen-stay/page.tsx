@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/saga-takeo-solo-retreat-onsen-stay/" },
   title: '【佐賀・武雄温泉ひとり旅・楼門辰野金吾おこもり】千三百年美肌湯・御船山楽園チームラボ・佐賀牛！武雄温泉駅直通の極上厳選3宿',
   description: '西九州新幹線でアクセス抜群！サウナシュラン殿堂入りのらかんの湯と大自然アートが融合した「御船山楽園ホテル」、武雄温泉駅前すぐで天然温泉大浴場を備える「セントラルホテル武雄温泉駅前」、全室客室露天風呂完備の贅沢な離れ宿「武雄温泉 星の華」を楽天API最新データに基づき徹底比較。',
   keywords: '武雄温泉 一人旅 宿,武雄 ホテル 一人 温泉,御船山楽園ホテル,セントラルホテル武雄温泉駅前,武雄温泉 星の華,武雄 らかんの湯 ひとり旅',

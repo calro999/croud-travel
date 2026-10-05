@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   description: "本土が厳しい寒さに震える11月・12月・1月、平均気温18℃前後の温暖な陽光が注ぐ沖縄・那覇エリアは極上の「避冬（ひとう）リゾート」。琉球八社の最高位・波上宮（なみのうえぐう）の新春開運初詣、2026年正殿復元に向けて活気あふれる首里城「見せる復興」の見学、活気あふれる国際通りや壺屋やちむん通り散策を満喫。甘みたっぷりの純血あぐー豚しゃぶしゃぶや沖縄そばに舌鼓を打ち、地下から湧く琉球天然温泉やハイセンスなホテルで寛ぐ大人の冬旅。楽天APIから最新取得した那覇の信頼の名宿5選を徹底特集します。",
   keywords: '那覇 ホテル, 波上宮 初詣, 首里城 見せる復興, 瀬長島ホテル, ロワジールホテル那覇, ハイアットリージェンシー那覇, 国際通り あぐー豚, 11月 12月 1月 沖縄 観光',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-okinawa-naha-naminoe-shrine-hatsumode-agu-resort-stay'
+    canonical: "https://croud-travel.pages.dev/winter-okinawa-naha-naminoe-shrine-hatsumode-agu-resort-stay/"
   },
   openGraph: {
     title: "【11・12・1月沖縄那覇】新春波上宮初詣＆首里城復興見学！国際通り・あぐー豚しゃぶしゃぶとあったか避冬ホテル5選",

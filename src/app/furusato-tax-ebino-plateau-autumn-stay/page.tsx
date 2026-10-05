@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: 'えびの高原白紫池の黄金ススキ＆霧島連山の紅葉・京町温泉の源泉宿と極上宮崎牛 | クラウドトラベルふるさと納税',
   description: '10月下旬〜11月中旬に見頃を迎えるえびの高原の黄金色に輝くススキ野原と火口湖の紅葉。川内川沿いに湧く名湯「京町温泉」の隠れ宿で、源泉かけ流しと日本一の宮崎牛炭火焼きをふるさと納税で堪能する秋旅。',
-  keywords: ['えびの高原・京町温泉・霧島連山 紅葉 観光', '宮崎県 10月 11月 旅行', 'えびの高原ススキ紅葉＆京町温泉宮崎牛', 'ふるさと納税 温泉宿泊券', 'えびの高原ホテル', '京町温泉 玉泉館', '京町温泉 あけぼの荘', '楽天ふるさと納税 宿泊クーポン'],
+  keywords: ["えびの高原白紫池の黄金ススキ", "霧島連山の紅葉", "京町温泉の源泉宿と極上宮崎牛", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-ebino-plateau-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-ebino-plateau-autumn-stay/",
   },
   openGraph: {
     title: 'えびの高原白紫池の黄金ススキ＆霧島連山の紅葉・京町温泉の源泉宿と極上宮崎牛',

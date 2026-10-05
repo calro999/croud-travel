@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/nikko-chuzenji-lake-stay/" },
   title: "【奥日光・中禅寺湖】華厳の滝＆湖畔リゾート極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "奥日光・中禅寺湖畔エリア完全特化！日本三名瀑・華厳の滝、中禅寺湖遊覧船、男体山、日光湯元温泉周辺の絶景観光ルートと人気レイクサイドホテルを徹底解説。",
-  keywords: ["nikko-chuzenji-lake-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["奥日光", "中禅寺湖", "華厳の滝", "湖畔リゾート極上宿", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
 
 function loadSeasonalHotels() {

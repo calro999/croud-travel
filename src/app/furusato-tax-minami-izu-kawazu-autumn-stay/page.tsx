@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '南伊豆・石廊崎絶景と河津七滝の紅葉！秋の伊勢海老まつり・金目鯛と下賀茂温泉の源泉湯治旅 | クラウドトラベルふるさと納税',
   description: '10月・11月の静岡・南伊豆＆河津特集！柱状節理の渓谷を彩る河津七滝の紅葉、南伊豆・石廊崎の青潮絶景、9月中旬〜11月に旬を迎える南伊豆特産「活伊勢海老」と名物金目鯛の姿煮、下賀茂温泉の湯けむり源泉をふるさと納税トラベルで味わう極上プラン。',
-  keywords: ['南伊豆・下賀茂温泉・河津七滝 紅葉 観光', '静岡県 10月 11月 旅行', '静岡・南伊豆＆下賀茂温泉特集', 'ふるさと納税 温泉宿泊券', '源泉一途　南伊豆（旧　下賀茂温泉　花のおもてなし南楽）', 'ホテル河内屋　伊豆下賀茂温泉　１００％源泉かけ流しの湯', '下賀茂温泉　温泉民宿　南伊豆', '楽天ふるさと納税 宿泊クーポン'],
+  keywords: ["南伊豆", "金目鯛と下賀茂温泉の源泉湯治旅", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-minami-izu-kawazu-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-minami-izu-kawazu-autumn-stay/",
   },
   openGraph: {
     title: '南伊豆・石廊崎絶景と河津七滝の紅葉！秋の伊勢海老まつり・金目鯛と下賀茂温泉の源泉湯治旅',

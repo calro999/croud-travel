@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   description: "冬の大分・宇佐＆国東半島は、全国4万社を超える八幡宮の総本宮「宇佐神宮」での新春初詣と、九州最古の木造建築・国宝「富貴寺大堂」をはじめとする神仏習合の六郷満山文化を訪ねる神秘の旅舞台。豊前海が育む冬の極上天然車海老や渡り蟹、大分の誇る黒毛和牛の最高峰「おおいた豊後牛」の贅沢なすき焼き、元祖宇佐からあげ。静寂に包まれる石仏群と冬晴れの別府湾・周防灘を望み、温もりの天然温泉に癒やされる厳選名宿5選を徹底解説します。",
   keywords: '宇佐神宮 初詣, 国東半島 ホテル, 富貴寺 旅庵蕗薹, 豊後牛 すき焼き, 豊前海 車海老, 宇佐からあげ, 昭和の町, 11月 12月 1月 大分 観光',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-oita-usa-jingu-kunisaki-hatsumode-bungogyu-seafood-stay'
+    canonical: "https://croud-travel.pages.dev/winter-oita-usa-jingu-kunisaki-hatsumode-bungogyu-seafood-stay/"
   },
   openGraph: {
     title: "【11・12・1月大分】全国八幡宮総本宮・宇佐神宮新春開運初詣＆国東六郷満山！豊前海天然車海老と極上豊後牛を味わう名宿5選",

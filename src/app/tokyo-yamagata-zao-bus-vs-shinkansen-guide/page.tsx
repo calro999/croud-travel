@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/tokyo-yamagata-zao-bus-vs-shinkansen-guide/" },
   title: "【東京〜山形・蔵王温泉】山形新幹線 vs 夜行高速バス徹底比較！片道3,500円〜行く蔵王露天風呂＆山形牛1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
   description: "東京から山形・蔵王温泉へ安く行くには？山形新幹線「つばさ」と高速バス（夜行・昼行）の料金・所要時間を徹底比較！蔵王大露天風呂・山寺（立石寺）参拝・本場山形牛ステーキを堪能する1泊2日モデルコース。",
-  keywords: ["tokyo-yamagata-zao-bus-vs-shinkansen-guide", "高速バス", "バスツアー", "新幹線 比較", "安く行く方法", "1泊2日 モデルコース", "宿泊予約", "楽天トラベル"],
+  keywords: ["東京〜山形", "蔵王温泉", "山形新幹線", "vs", "山形牛1泊2日モデルコース", "温泉宿", "宿泊予約"],
 };
 
 function loadHotels() {

@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/nagano-shibu-solo-retreat-onsen-stay/" },
   title: '【信州渋温泉ひとり旅・九湯めぐり石畳おこもり】大正ロマン木造建築・厄除巡浴・信州牛！スノーモンキー近隣のノスタルジック温泉街厳選3宿',
   description: '開湯1300年・石畳の街並みが美しい信州渋温泉！自家源泉かけ流しの展望風呂と信州の味覚が評判の「大陽館 ヤマト屋」、大正レトロな佇まいと温かいもてなしが心地よい「渋白銀屋旅館」、風情ある純和風建築で源泉を満喫できる「安代館」を楽天API最新データに基づき徹底比較。',
   keywords: '渋温泉 一人旅 宿,渋温泉 ホテル 一人,大陽館 ヤマト屋,渋白銀屋旅館,安代館,渋温泉 九湯めぐり ひとり旅',

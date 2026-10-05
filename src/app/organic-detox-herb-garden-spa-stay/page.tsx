@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】摘みたてハーブの癒やし。自家菜園ハーブ料理＆ハーバルサウナの温泉リゾート5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！広大なハーブ園でリフレッシュ！摘みたてフレッシュハーブティー、自家菜園ハーブの創作ディナーと天然ハーブスチームサウナの癒やし宿5選。',
-  keywords: ["ハーブガーデン","ハーバルサウナ","フレッシュハーブティー","ボタニカルリトリート","温泉リゾート","楽天トラベル"],
+  keywords: ["2026年", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
     title: '【2026年】摘みたてハーブの癒やし。自家菜園ハーブ料理＆ハーバルサウナの温泉リゾート5選',
     description: '2026年最新！広大なハーブ園でリフレッシュ！摘みたてフレッシュハーブティー、自家菜園ハーブの創作ディナーと天然ハーブスチームサウナの癒やし宿5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/organic-detox-herb-garden-spa-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/organic-detox-herb-garden-spa-stay',
+    canonical: "https://croud-travel.pages.dev/organic-detox-herb-garden-spa-stay/",
   },
 };
 

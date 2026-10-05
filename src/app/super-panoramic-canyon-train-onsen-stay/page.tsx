@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '【2026年】風を感じる絶景トロッコ列車！黒部峡谷・嵯峨野など渓谷美と沿線名湯の温泉宿5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！黒部峡谷トロッコ電車や嵯峨野観光鉄道など、爽快なトロッコ列車旅と沿線の絶景峡谷温泉を満喫できる人気宿5選。',
-  keywords: ["トロッコ列車","黒部峡谷","嵯峨野トロッコ","鉄道旅","渓谷温泉","楽天トラベル"],
+  keywords: ["2026年", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/super-panoramic-canyon-train-onsen-stay',
+    canonical: "https://croud-travel.pages.dev/super-panoramic-canyon-train-onsen-stay/",
   },
   openGraph: {
     title: '【2026年】風を感じる絶景トロッコ列車！黒部峡谷・嵯峨野など渓谷美と沿線名湯の温泉宿5選',

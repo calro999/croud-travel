@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '千葉・南房総 鴨川の太平洋オーシャンビュー温泉＆秋の鯛の浦！伊勢海老・金目鯛と里山棚田 | クラウドトラベルふるさと納税',
   description: '10月・11月の千葉・鴨川＆南房総特集！秋晴れの太平洋を一望する絶景オーシャンビュー客室と自家源泉「鴨川温泉 なぎさの湯」、房総秋解禁の活伊勢海老や名物金目鯛の姿煮、大山千枚田の里山秋風情と鴨川シーワールドをふるさと納税トラベルクーポンでお得に楽しむ房総リゾート滞在。',
-  keywords: ["鴨川温泉・鴨川シーワールド・大山千枚田 観光","千葉県 10月 11月 旅行","鴨川温泉オーシャンビュー＆房総伊勢海老金目鯛旅","ふるさと納税 温泉宿泊券","鴨川館","鴨川シーワールドホテル","亀の井ホテル　鴨川","楽天ふるさと納税 宿泊クーポン"],
+  keywords: ["千葉", "南房総", "秋の鯛の浦！伊勢海老", "金目鯛と里山棚田", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-chiba-boso-kamogawa-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-chiba-boso-kamogawa-autumn-stay/",
   },
   openGraph: {
     title: '千葉・南房総 鴨川の太平洋オーシャンビュー温泉＆秋の鯛の浦！伊勢海老・金目鯛と里山棚田',

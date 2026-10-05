@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/niigata-sado-island-gold-mine-stay/" },
   title: "【新潟・佐渡島＆相川金山】世界遺産佐渡金山・たらい舟＆尖閣湾・佐渡寒ブリ宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "世界遺産登録の黄金の島・新潟佐渡島エリア完全特化！世界遺産「佐渡島の金山（道遊の割戸・北沢浮遊選鉱場）」、小木海岸の「たらい舟体験」、国の名勝「尖閣湾」、朱鷺の保護センター、名物「佐渡寒ブリ・佐渡牛宿」を徹底解説。",
-  keywords: ["niigata-sado-island-gold-mine-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["新潟", "佐渡島", "相川金山", "世界遺産佐渡金山", "たらい舟", "尖閣湾", "佐渡寒ブリ宿"],
 };
 
 function loadSeasonalHotels() {

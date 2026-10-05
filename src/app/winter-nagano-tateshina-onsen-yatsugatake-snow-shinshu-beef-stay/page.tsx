@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "11月から12月にかけて、長野県・八ヶ岳連峰の裾野に広がる蓼科高原・蓼科温泉郷は、静寂な白樺林やカラマツ林が初雪に彩られ、蓼科湖や御射鹿池（みしゃかいけ）が氷雪の神秘的な冬景色へと移ろう息を呑むような初冬を迎えます。戦国武将・武田信玄公が川中島の戦いで傷ついた兵士を癒やしたと伝わる「信玄の隠し湯」は、美肌効果と疲労回復に優れた名湯。夕食にはジューシーで上品な甘みの「信州蓼科牛」ステーキ、清流が育む「信州サーモン」、収穫したての香り高い信州新蕎麦を味わう厳選高原名宿5選を徹底解説します。",
   keywords: '蓼科温泉 宿泊, 蓼科 親湯温泉, 蓼科グランドホテル滝の湯, 蓼科東急ホテル, リゾートホテル蓼科, 信州蓼科牛, 御射鹿池 11月 12月, 八ヶ岳 雪見露天風呂, 武田信玄 隠し湯',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-nagano-tateshina-onsen-yatsugatake-snow-shinshu-beef-stay'
+    canonical: "https://croud-travel.pages.dev/winter-nagano-tateshina-onsen-yatsugatake-snow-shinshu-beef-stay/"
   },
   openGraph: {
     title: "【11・12月長野・蓼科温泉郷の初冬八ヶ岳雪景色と信玄の隠し湯】極上信州蓼科牛ステーキ＆信州サーモン・新蕎麦会席を愉しむ高原名宿5選",

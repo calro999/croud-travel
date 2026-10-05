@@ -5,18 +5,11 @@ import path from "path";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/izu-ocean-view-couple-anniversary-guide/" },
   title: "【熱海・伊豆 カップル客室露天風呂宿おすすめ】相模湾一望オーシャンビュー＆記念日ディナーの隠れ家 ｜ 日本全国・旅宿クラウド",
   description:
     "二人だけの海絶景を独占する熱海・伊豆高原のカップル向け客室露天風呂宿！水平線から昇る朝日や夜の海上花火を眺めながら過ごす贅沢な時間。記念日特典付きの大人限定リゾート旅館まとめ。",
-  keywords: [
-    "熱海 客室露天風呂 カップル",
-    "伊豆 客室露天風呂 オーシャンビュー",
-    "熱海 記念日 温泉宿",
-    "伊豆高原 カップル 記念日 ディナー",
-    "相模湾 海絶景 温泉",
-    "熱海 海上花火大会 部屋から見える宿",
-    "楽天トラベル 熱海 伊豆 カップル"
-  ],
+  keywords: ["熱海", "伊豆", "カップル客室露天風呂宿おすすめ", "相模湾一望オーシャンビュー", "記念日ディナーの隠れ家", "温泉宿", "宿泊予約"],
 };
 
 interface Hotel {

@@ -5,18 +5,11 @@ import path from "path";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/ikaho-autumn-leaves-kajikabashi-lightup-guide/" },
   title: "【伊香保温泉 河鹿橋紅葉ライトアップ2026】見頃時期・石段街散策＆黄金の湯に浸かる秋の湯治旅 ｜ 日本全国・旅宿クラウド",
   description:
     "伊香保温泉のシンボル「河鹿橋」の鮮やかな紅葉ライトアップ！朱塗りの太鼓橋とモミジのコントラスト、365段の石段街食べ歩き、名物水沢うどんランチ、茶褐色の名湯「黄金の湯」に癒やされる秋旅ガイド。",
-  keywords: [
-    "伊香保温泉 紅葉 2026",
-    "河鹿橋 ライトアップ 時間",
-    "伊香保 河鹿橋 見頃",
-    "伊香保 365段 石段街 食べ歩き",
-    "黄金の湯 露天風呂 宿泊",
-    "水沢うどん ランチ おすすめ",
-    "伊香保 楽天トラベル 紅葉温泉",
-  ],
+  keywords: ["伊香保温泉", "河鹿橋紅葉ライトアップ2026", "見頃時期", "石段街散策", "黄金の湯に浸かる秋の湯治旅", "温泉宿", "宿泊予約"],
 };
 
 interface Hotel {

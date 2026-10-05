@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/japan-top-brand-jidori-chicken-feast-stay/" },
   title: "【日本三大地鶏＆銘柄鶏の宿】比内地鶏・名古屋コーチン・さつま地鶏・阿波尾鶏 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "全国の最高級ブランド地鶏完全特化！秋田「比内地鶏」のきりたんぽ鍋、愛知「名古屋コーチン」のひきずり鍋、鹿児島「さつま若しゃも・地鶏刺し」、徳島「阿波尾鶏」の炭火焼きと名門温泉旅館を徹底解説。",
-  keywords: ["japan-top-brand-jidori-chicken-feast-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["日本三大地鶏", "銘柄鶏の宿", "比内地鶏", "名古屋コーチン", "さつま地鶏", "阿波尾鶏", "温泉宿"],
 };
 
 function loadSeasonalHotels() {

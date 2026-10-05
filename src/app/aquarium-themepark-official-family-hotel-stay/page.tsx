@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '開園直前から閉園後まで遊び尽くす！全国の水族館・テーマパーク直結＆オフィシャルホテル ｜ 日本全国・旅宿クラウド',
   description: '鴨川シーワールド・美ら海水族館・アドベンチャーワールド・富士急など人気施設直結のホテル。入園パスポート付きプランやキャラクタールームが充実。',
-  keywords: ["テーマパークホテル","水族館直結","オフィシャルホテル","子連れ旅行","家族旅行","パスポート付き"],
+  keywords: ["テーマパーク直結", "オフィシャルホテル", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/aquarium-themepark-official-family-hotel-stay',
+    canonical: "https://croud-travel.pages.dev/aquarium-themepark-official-family-hotel-stay/",
   },
   openGraph: {
     title: '開園直前から閉園後まで遊び尽くす！全国の水族館・テーマパーク直結＆オフィシャルホテル',

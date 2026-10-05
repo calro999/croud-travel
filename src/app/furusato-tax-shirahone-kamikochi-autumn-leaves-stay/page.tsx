@@ -4,20 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '上高地・大正池と河童橋の黄金カラマツ紅葉！乳白色の秘湯・白骨温泉名宿×ふるさと納税完全ガイド【2026年最新秋旅】長野',
   description: '10月中旬〜11月上旬に見頃を迎える神降地「上高地（かみこうち）」のカラマツ黄葉と穂高連峰の冠雪！大正池や河童橋の絶景散策、開湯600年の乳白色の秘湯「白骨温泉」の名宿「湯元齋藤旅館」「小梨の湯 笹屋」「白船グランドホテル」で信州プレミアム牛肉や岩魚塩焼きを堪能。楽天ふるさと納税で実質2,000円。',
-  keywords: [
-    'ふるさと納税 温泉',
-    'ふるさと納税 宿泊券',
-    'ふるさと納税 トラベルクーポン',
-    '長野・上高地カラマツ黄葉＆白骨温泉特集',
-    '10月 旅行 おすすめ',
-    '11月 旅行 おすすめ',
-    '秋 旅行 温泉',
-    '紅葉 温泉旅館',
-    '楽天トラベル ふるさと納税',
-    '実質2000円 温泉'
-  ],
+  keywords: ["上高地", "白骨温泉名宿×ふるさと納税", "2026年最新秋旅", "長野", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-shirahone-kamikochi-autumn-leaves-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-shirahone-kamikochi-autumn-leaves-stay/"
   },
   openGraph: {
     title: '上高地・大正池と河童橋の黄金カラマツ紅葉！乳白色の秘湯・白骨温泉名宿×ふるさと納税完全ガイド【2026年最新秋旅】長野',

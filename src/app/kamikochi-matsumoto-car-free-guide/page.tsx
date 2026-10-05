@@ -4,19 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/kamikochi-matsumoto-car-free-guide/" },
   title: "【松本・上高地 車なし旅行完全ガイド】特急あずさ＆上高地線・シャトルバスで行く国宝城下町＆神の降り立つ地 ｜ 日本全国・旅宿クラウド",
   description: "自家用車規制のある上高地こそ公共交通が最強！特急あずさ・松本電鉄上高地線・アルピコシャトルバスを活用し、松本城下町散策と大正池〜河童橋トレッキング、松本駅前大浴場ホテルを満喫する1泊2日。",
-  keywords: [
-    "上高地 車なし 旅行",
-    "松本 上高地 電車 バス",
-    "松本電鉄上高地線",
-    "アルピコシャトルバス",
-    "上高地 1泊2日 モデルコース",
-    "大正池 河童橋 ウォーキング",
-    "松本駅 ホテル 大浴場",
-    "特急あずさ 上高地",
-    "楽天トラベル 上高地"
-  ],
+  keywords: ["松本", "上高地", "車なし旅行", "特急あずさ", "上高地線", "シャトルバスで行く国宝城下町", "神の降り立つ地"],
 };
 
 interface Hotel {

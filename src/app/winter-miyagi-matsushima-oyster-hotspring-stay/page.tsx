@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "11月から本格シーズンを迎える日本三景・松島の冬の名物「松島かき」！大粒で濃厚なクリーミーさを誇る生牡蠣、香ばしい焼き牡蠣、熱々の牡蠣鍋と、松島湾に昇る絶景の朝日を望む展望露天風呂を堪能する宮城の冬旅。",
   keywords: "松島 温泉 露天風呂 旅館, 11月旅行, 12月旅行, 冬休み, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/winter-miyagi-matsushima-oyster-hotspring-stay',
+    canonical: "https://croud-travel.pages.dev/winter-miyagi-matsushima-oyster-hotspring-stay/",
   },
   openGraph: {
     title: "【11月解禁！松島・三陸の極上生牡蠣＆焼き牡蠣】日本三景パノラマと海の幸会席名湯宿5選",

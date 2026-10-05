@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/anniversary-luxury-suite/" },
   title: "【記念日・誕生日】客室露天風呂＆贅沢スイート極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "大切な記念日、プロポーズ、ご両親へのプレゼントに。箱根・伊豆の離れ露天風呂付き客室、京都の極上ラグジュアリーホテル、東京の高層階夜景スイートなど最高峰の宿泊体験を完全網羅。",
-  keywords: ["anniversary-luxury-suite", "宿泊予約", "温泉宿", "ホテル特集", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["記念日", "誕生日", "客室露天風呂", "贅沢スイート極上宿", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
 
 function loadSeasonalHotels() {

@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-gorges-boat-ride-stay/" },
   title: '日本三大渓谷＆爽快舟下り・清流の奇岩と水辺の温泉名宿×ふるさと納税完全ガイド【2026年最新】保津川・最上川・長瀞',
   description: '船頭の竿さばきで水しぶきを上げる日本の名舟下り！京都「嵐山・保津川下り」亀岡から嵐山へ巨岩と急流を抜けるスリルと嵐山温泉渡月亭、山形「最上川舟下り」松尾芭蕉の句で知られる大河の舟唄と高見屋最上川別邸紅、埼玉「長瀞ライン下り」天然記念物岩畳の渓谷美と長生館。四季の渓谷美と水辺の老舗温泉旅館を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大渓谷・清流舟下り特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',

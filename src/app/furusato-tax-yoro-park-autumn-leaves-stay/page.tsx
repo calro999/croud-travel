@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '日本の滝100選「養老の滝」約3,000本のもみじ絵巻＆養老温泉・本場飛騨牛街道の極上肉会席 | クラウドトラベルふるさと納税',
   description: '11月中旬〜12月上旬に巨木のもみじがトンネルを作る養老公園・養老の滝。養老山麓に湧く天然温泉と、飛騨牛の名産地・養老町ならではの極上飛騨牛すき焼き・焼肉をふるさと納税でお得に味わう完全ガイド。',
-  keywords: ['養老・養老の滝・大垣 紅葉 観光', '岐阜県 10月 11月 旅行', '養老の滝もみじ紅葉＆養老温泉飛騨牛', 'ふるさと納税 温泉宿泊券', '養老温泉 滝元館 遊季の里', '養老温泉 ゆせんの里 ホテルなでしこ', 'ホテルルートイン大垣インター', '楽天ふるさと納税 宿泊クーポン'],
+  keywords: ["養老温泉", "本場飛騨牛街道の極上肉会席", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-yoro-park-autumn-leaves-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-yoro-park-autumn-leaves-stay/",
   },
   openGraph: {
     title: '日本の滝100選「養老の滝」約3,000本のもみじ絵巻＆養老温泉・本場飛騨牛街道の極上肉会席',

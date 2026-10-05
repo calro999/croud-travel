@@ -5,19 +5,11 @@ import path from "path";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/kamakura-rainy-day-cafe-museum-guide/" },
   title: "【鎌倉・江の島 雨の日の過ごし方】しっとり濡れる古刹・小町通りアーケード・新江ノ島水族館デート",
   description:
     "雨の日こそ風情が増す古都・鎌倉！雨滴が光る長谷寺や一条恵観山荘、屋根付き小町通り食べ歩き、大水槽に癒やされる新江ノ島水族館、オーシャンビュー客室で過ごす贅沢雨の日プラン。",
-  keywords: [
-    "鎌倉 雨の日 過ごし方",
-    "鎌倉 雨 デート",
-    "新江ノ島水族館 雨の日",
-    "小町通り 屋根 アーケード 雨",
-    "鎌倉 室内 観光",
-    "一条恵観山荘 雨",
-    "長谷寺 雨の日",
-    "江の島 雨の日 観光",
-  ],
+  keywords: ["鎌倉", "江の島", "雨の日の過ごし方", "しっとり濡れる古刹", "小町通りアーケード", "新江ノ島水族館デート", "温泉宿"],
 };
 
 interface Hotel {

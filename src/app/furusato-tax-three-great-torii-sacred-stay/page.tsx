@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-torii-sacred-stay/" },
   title: '日本三大鳥居＆神聖なる巨木の門・古都の歴史宿×ふるさと納税完全ガイド【2026年最新】宮島・奈良・敦賀',
   description: '神域と俗界を分かつ壮麗なる日本の巨鳥居巡り！広島廿日市「宮島・厳島神社」海上にそびえる朱塗りの大鳥居と宮島グランドホテル有もと、奈良「春日大社」世界遺産春日山原始林の一之鳥居と伝統の奈良ホテル、福井敦賀「気比神宮」重要文化財の木造大鳥居と敦賀マンテンホテル駅前。古社寺の神聖な祈りと歴史、門前町の名宿を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大鳥居・神域巡礼特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',

@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "黄色い皮と白皮の甘みが絶妙な宮崎特産「日向夏（ひゅうがなつ）」の特製パフェと、日本一の栄冠に輝く「宮崎牛」！青島神社や鬼の洗濯板を望む青島温泉のトロトロ美肌湯で、南国の光と風を感じる癒やしステイ。",
   keywords: "宮崎 温泉 リゾート ホテル, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/spring-miyazaki-hyuganatsu-citrus-spa-stay',
+    canonical: "https://croud-travel.pages.dev/spring-miyazaki-hyuganatsu-citrus-spa-stay/",
   },
   openGraph: {
     title: "【宮崎日向夏スイーツ＆宮崎牛】爽やか柑橘と南国リゾート青島温泉の美食名湯宿5選",

@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/wakayama-shirahama-beach-stay/" },
   title: "【和歌山・南紀白浜】白良浜・アドベンチャーワールド＆崎の湯・クエ極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "関西屈指のビーチリゾート南紀白浜エリア完全特化！真っ白な砂浜「白良浜」、アドベンチャーワールド、日本最古の野天風呂「崎の湯」、三段壁、幻の高級魚クエ料理とオーシャンビュー温泉旅館を徹底解説。",
-  keywords: ["wakayama-shirahama-beach-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["和歌山", "南紀白浜", "白良浜", "アドベンチャーワールド", "崎の湯", "クエ極上宿", "温泉宿"],
 };
 
 function loadSeasonalHotels() {

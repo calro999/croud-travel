@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/yamagata-sakata-sankyo-warehouse-shonai-stay/" },
   title: "【山形・酒田＆山居倉庫・庄内砂丘】北前船豪商の港町・酒田ラーメン＆日本海夕陽宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "北前船航路の繁栄とケヤキ並木の美！山形酒田エリア完全特化！国指定史跡「山居倉庫（ケヤキ並木・米穀倉庫）」、日本一の大地主「本間家旧本邸」、日和山公園、名物「酒田ラーメン・庄内浜海鮮宿」を徹底解説。",
-  keywords: ["yamagata-sakata-sankyo-warehouse-shonai-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["山形", "酒田", "山居倉庫", "庄内砂丘", "北前船豪商の港町", "酒田ラーメン", "日本海夕陽宿"],
 };
 
 function loadSeasonalHotels() {

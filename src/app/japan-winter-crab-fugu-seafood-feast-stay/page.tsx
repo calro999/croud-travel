@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/japan-winter-crab-fugu-seafood-feast-stay/" },
   title: "【冬の四大味覚極上宿】松葉ガニ・越前ガニ・下関とらふぐ・寒ブリ 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "冬の日本を代表する高級海鮮グルメ完全特化！山陰・北陸のタグ付き「松葉ガニ・越前ガニ」フルコース、本場下関の「天然とらふぐ刺し・ふぐちり鍋」、富山氷見＆京都伊根の「寒ブリしゃぶ」宿を徹底解説。",
-  keywords: ["japan-winter-crab-fugu-seafood-feast-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["冬の四大味覚極上宿", "松葉ガニ", "越前ガニ", "下関とらふぐ", "寒ブリ", "温泉宿", "宿泊予約"],
 };
 
 function loadSeasonalHotels() {

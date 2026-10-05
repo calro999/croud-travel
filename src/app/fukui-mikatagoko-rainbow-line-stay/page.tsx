@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/fukui-mikatagoko-rainbow-line-stay/" },
   title: "【福井・三方五湖＆レインボーライン】天空テラス・五色水鏡＆三方口細うなぎ・若狭ふぐ宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "水質と水深が異なる5つの奇跡の湖・福井三方五湖エリア完全特化！三方五湖レインボーライン山頂公園「天空の足湯・美浜テラス」、年縞博物館、名物「三方五湖口細うなぎ（天然うなぎ）」、冬の「若狭ふぐ・越前ガニ宿」を徹底解説。",
-  keywords: ["fukui-mikatagoko-rainbow-line-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["福井", "三方五湖", "レインボーライン", "天空テラス", "五色水鏡", "三方口細うなぎ", "若狭ふぐ宿"],
 };
 
 function loadSeasonalHotels() {

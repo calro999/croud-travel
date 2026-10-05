@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "白磁に藍色の手描き模様が美しい愛媛の伝統陶磁器「砥部焼（とべやき）」の器で味わう、極上「伊予牛」の陶板焼き会席！日本最古の名湯・道後温泉や奥道後温泉で、伝統工芸と美肌湯に心ほどける大人の温泉旅。",
   keywords: "道後温泉 露天風呂 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/traditional-ehime-tobe-yaki-ceramic-stay',
+    canonical: "https://croud-travel.pages.dev/traditional-ehime-tobe-yaki-ceramic-stay/",
   },
   openGraph: {
     title: "【砥部焼のうつわ美＆伊予牛】白磁の伝統美と道後・奥道後温泉の極上癒やし宿5選",

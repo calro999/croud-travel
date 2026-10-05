@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '【2026年】プライベートクルーズ＆ヨットハーバー！海から絶景を望む極上マリーナリゾート5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！専用クルーザーでのサンセットクルージングやマリーナ直結のオーシャンビュー客室と天然温泉を楽しめるラグジュアリーホテル5選。',
-  keywords: ["クルージング","マリーナホテル","ヨットハーバー","オーシャンビュー","記念日旅行","楽天トラベル"],
+  keywords: ["2026年", "プライベートクルーズ", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/luxury-chartered-yacht-cruising-resort-stay',
+    canonical: "https://croud-travel.pages.dev/luxury-chartered-yacht-cruising-resort-stay/",
   },
   openGraph: {
     title: '【2026年】プライベートクルーズ＆ヨットハーバー！海から絶景を望む極上マリーナリゾート5選',

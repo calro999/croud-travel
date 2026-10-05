@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "龍神信仰息づく讃岐国一ノ宮「田村神社（たむらじんじゃ）」が約20万人の新春参拝客を迎える11〜1月の冬旅特集。国の特別名勝「栗林公園」で見事な枝ぶりを誇る冬の雪吊りと名松美、屋島から見晴らす冬の瀬戸内海の夕景、行基開湯・奈良時代から続く高松の奥座敷「塩江温泉郷」の湯浴み、冬野菜をたっぷり煮込んだ讃岐の冬名物「しっぽくうどん」と極上の「讃岐オリーブ牛」。高松市街＆塩江温泉の滞在拠点に最適な厳選ホテル・名宿5選を徹底解説します。",
   keywords: '田村神社 初詣, 栗林公園 雪吊り, しっぽくうどん 香川, 塩江温泉 冬, 讃岐オリーブ牛, クレメント高松, ロイヤルパークホテル高松, 香川 初詣 温泉',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-kagawa-takamatsu-tamura-shrine-hatsumode-shionoe-onsen-olivegyu-stay'
+    canonical: "https://croud-travel.pages.dev/winter-kagawa-takamatsu-tamura-shrine-hatsumode-shionoe-onsen-olivegyu-stay/"
   },
   openGraph: {
     title: "【11・12・1月香川】讃岐一ノ宮「田村神社」新春初詣と栗林公園の冬雪吊り！奥座敷「塩江温泉郷」＆熱々しっぽくうどん・オリーブ牛名宿5選",

@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: 'エメラルドに輝く神秘の地底湖！日本屈指の鍾乳洞探検と周辺名湯旅館 ｜ 日本全国・旅宿クラウド',
   description: '龍泉洞・秋芳洞・龍河洞など何万年もの歳月が創り出した神秘の鍾乳洞やエメラルドグリーンの地底湖。大自然の造形美に圧倒される探検の旅。',
-  keywords: ["鍾乳洞","龍泉洞","秋芳洞","地底湖","パワースポット","絶景温泉"],
+  keywords: ["温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/limestone-cave-underground-lake-adventure-stay',
+    canonical: "https://croud-travel.pages.dev/limestone-cave-underground-lake-adventure-stay/",
   },
   openGraph: {
     title: 'エメラルドに輝く神秘の地底湖！日本屈指の鍾乳洞探検と周辺名湯旅館',

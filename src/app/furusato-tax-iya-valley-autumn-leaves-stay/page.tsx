@@ -4,20 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '祖谷のかずら橋の紅葉絶景＆日本三大秘境・祖谷温泉郷！ケーブルカー露天風呂宿×ふるさと納税完全ガイド【2026年最新秋旅】徳島',
   description: '10月下旬〜11月中旬に神秘的なグラデーションに染まる日本三大秘境「徳島・祖谷渓」。スリル満点のかずら橋とV字渓谷の紅葉、谷底へケーブルカーで下る絶景露天風呂「ホテル秘境の湯」「ホテルかずら橋」「ホテル祖谷温泉」で阿波尾鶏や祖谷そば・鮎の塩焼きを堪能。ふるさと納税トラベルクーポンで実質2,000円。',
-  keywords: [
-    "ふるさと納税 温泉",
-    "ふるさと納税 宿泊券",
-    "ふるさと納税 トラベルクーポン",
-    "徳島・祖谷渓かずら橋＆秘境祖谷温泉特集",
-    "10月 旅行 おすすめ",
-    "11月 旅行 おすすめ",
-    "秋 旅行 温泉",
-    "祖谷渓 かずら橋 紅葉 温泉旅館",
-    "楽天トラベル ふるさと納税",
-    "実質2000円 温泉"
-],
+  keywords: ["祖谷のかずら橋の紅葉絶景", "日本三大秘境", "2026年最新秋旅", "徳島", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-iya-valley-autumn-leaves-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-iya-valley-autumn-leaves-stay/"
   },
   openGraph: {
     title: '祖谷のかずら橋の紅葉絶景＆日本三大秘境・祖谷温泉郷！ケーブルカー露天風呂宿×ふるさと納税完全ガイド【2026年最新秋旅】徳島',

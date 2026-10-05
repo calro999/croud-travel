@@ -5,18 +5,11 @@ import path from "path";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/enoshima-kamakura-noriorikun-golden-route/" },
   title: "【江ノ電1日乗車券のりおりくん完全攻略】800円で元を取るモデルコース＆海沿い途中下車の旅 ｜ 日本全国・旅宿クラウド",
   description:
     "江ノ電1日乗車券「のりおりくん」（大人800円）を徹底活用！何回乗れば元が取れる？（3回乗車で即元取れ）。鎌倉高校前踏切、七里ヶ浜海カフェ、長谷寺大仏、江ノ島シーキャンドルを巡る最強タイムテーブル。",
-  keywords: [
-    "江ノ電 のりおりくん 元を取る",
-    "のりおりくん 料金 比較",
-    "江ノ電 1日乗車券 モデルコース",
-    "鎌倉高校前 七里ヶ浜 長谷寺 江ノ島",
-    "江ノ電 途中下車の旅",
-    "鎌倉 藤沢 ホテル 宿泊",
-    "江ノ島 観光 ルート",
-  ],
+  keywords: ["800円で元を取るモデルコース", "海沿い途中下車の旅", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
 };
 
 interface Hotel {

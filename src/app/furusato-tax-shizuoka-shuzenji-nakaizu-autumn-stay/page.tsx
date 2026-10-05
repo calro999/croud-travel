@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '静岡・伊豆最古の名湯 修善寺温泉と竹林の小径紅葉！歴史の湯回廊と極上伊豆牛・天城軍鶏 | クラウドトラベルふるさと納税',
   description: '10月・11月の静岡・修善寺＆中伊豆特集！弘法大師開湯1200年の歴史を誇る伊豆最古の温泉街、桂川沿いの「竹林の小径」と修禅寺境内の燃えるような紅葉ライトアップ、歴史ある名宿の湯回廊、天城軍鶏や極上伊豆牛をふるさと納税トラベルクーポンでお得に堪能する大人の秋旅。',
-  keywords: ["修善寺温泉・竹林の小径・修禅寺 紅葉 観光","静岡県 10月 11月 旅行","修善寺温泉紅葉ライトアップ＆湯回廊伊豆美食","ふるさと納税 温泉宿泊券","修善寺温泉　湯回廊　菊屋","修善寺温泉　桂川","伊豆マリオットホテル修善寺","楽天ふるさと納税 宿泊クーポン"],
+  keywords: ["静岡", "伊豆最古の名湯", "天城軍鶏", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-shizuoka-shuzenji-nakaizu-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-shizuoka-shuzenji-nakaizu-autumn-stay/",
   },
   openGraph: {
     title: '静岡・伊豆最古の名湯 修善寺温泉と竹林の小径紅葉！歴史の湯回廊と極上伊豆牛・天城軍鶏',

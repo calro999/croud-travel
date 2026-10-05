@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/nagano-kamikochi-norikura-alps-stay/" },
   title: "【長野・上高地＆乗鞍・白骨】河童橋・大正池・乳白色秘湯宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "神降地と称される北アルプスの聖地「上高地（河童橋・大正池・明神池）」、乗鞍岳麓のすずらん温泉「乗鞍高原」、三日入れば三年風邪を引かぬ名湯「白骨温泉」を徹底解説。絶景山岳ホテルや乳白色濁り湯の秘湯旅館を厳選。",
-  keywords: ["nagano-kamikochi-norikura-alps-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["長野", "上高地", "乗鞍", "白骨", "河童橋", "大正池", "乳白色秘湯宿"],
 };
 
 function loadSeasonalHotels() {

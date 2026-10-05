@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/dog-friendly-private-onsen-bath-resort-stay/" },
   title: "【愛犬専用温泉付き客室＆露天風呂宿】伊豆・那須・箱根・関西 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "愛犬と一緒に温泉で極上の癒やし！客室専用愛犬用温泉・足湯＆露天風呂付き宿完全特化！伊豆高原、那須高原、箱根、京都・関西、愛犬専用バスタブ完備、滑りにくい床素材、美肌の天然温泉宿を徹底解説。",
-  keywords: ["dog-friendly-private-onsen-bath-resort-stay", "ペットと泊まれる宿", "愛犬同伴", "ドッグリゾート", "プライベートドッグラン", "楽天トラベル"],
+  keywords: ["愛犬専用温泉付き客室", "露天風呂宿", "伊豆", "那須", "箱根", "関西", "温泉宿"],
 };
 
 function loadSeasonalHotels() {

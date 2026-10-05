@@ -4,17 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/fukuoka-departure-daytrip-bus-tour-guide/" },
   title: "【福岡・博多発 日帰りバスツアー】呼子活イカ・由布院温泉街散策・阿蘇カルデラ絶景の格安ツアー比較",
   description: "福岡・博多・天神発の日帰りバスツアー！佐賀呼子の透明な活きイカ会席、湯布院金鱗湖＆露天風呂入浴、熊本阿蘇のあか牛ランチなど、車なし・手ぶらで大満足できるおすすめ日帰りツアーまとめ。",
-  keywords: [
-    "福岡発 日帰りバスツアー",
-    "博多発 バスツアー",
-    "呼子イカ 日帰りバス 福岡",
-    "由布院 日帰り温泉 バスツアー",
-    "阿蘇 日帰りバスツアー 福岡",
-    "天神発 日帰り旅行",
-    "楽天トラベル バスツアー 九州"
-  ],
+  keywords: ["福岡", "博多発", "日帰りバスツアー", "呼子活イカ", "由布院温泉街散策", "温泉宿", "宿泊予約"],
 };
 
 function loadHotels() {

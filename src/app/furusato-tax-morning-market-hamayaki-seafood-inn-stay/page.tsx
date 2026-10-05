@@ -4,9 +4,10 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-morning-market-hamayaki-seafood-inn-stay/" },
   title: '海鮮浜焼き・港町朝市めぐり直結宿×ふるさと納税完全ガイド【2026年最新】八戸・沼津・高知の獲れたて市場グルメ',
   description: '館鼻岸壁朝市、沼津港、ひろめ市場など全国屈指の活気あふれる市場直結・徒歩圏内宿をふるさと納税でお得に予約！名物浜焼きや朝獲れ刺身、市場食べ歩きと温泉を満喫する港町グルメ宿泊ガイド。',
-  keywords: ['ふるさと納税', '楽天トラベル', '宿泊クーポン', '朝市・海鮮浜焼き市場特集', '温泉旅館', 'ホテル予約', '2026年最新'],
+  keywords: ["海鮮浜焼き", "2026年最新", "八戸", "沼津", "高知の獲れたて市場グルメ", "温泉宿", "宿泊予約"],
   openGraph: {
     title: '海鮮浜焼き・港町朝市めぐり直結宿×ふるさと納税完全ガイド【2026年最新】八戸・沼津・高知の獲れたて市場グルメ',
     description: '館鼻岸壁朝市、沼津港、ひろめ市場など全国屈指の活気あふれる市場直結・徒歩圏内宿をふるさと納税でお得に予約！名物浜焼きや朝獲れ刺身、市場食べ歩きと温泉を満喫する港町グルメ宿泊ガイド。',

@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/hokkaido-jozankei-solo-retreat-gorge-onsen-stay/" },
   title: '【札幌の奥座敷・定山渓温泉ひとり旅・豊平川渓谷おこもり】全室客室温泉露天・囲炉裏会席・源泉掛け流し湯守！札幌直通バス60分の極上リトリート厳選3宿',
   description: '原生林と豊平川の深い渓谷美に包まれる札幌の奥座敷・定山渓温泉！全室展望風呂付きで広大な敷地に静寂が広がる最高峰リゾート「奥定山渓温泉 佳松御苑」、民芸調の温もりと囲炉裏焼き・手作り温泉情緒が口コミ★4.6超の「ぬくもりの宿 ふる川」、名門の伝統と多彩な大浴場を誇る「定山渓第一寶亭留 翠山亭」を楽天API最新データに基づき徹底比較。',
   keywords: '定山渓温泉 一人旅 宿,定山渓 ホテル 一人 温泉,佳松御苑 定山渓,ぬくもりの宿ふる川,定山渓第一寶亭留翠山亭,定山渓 ひとり旅 おこもり',

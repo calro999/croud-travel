@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/fukuoka-kagoshima-bus-vs-shinkansen-guide/" },
   title: "【福岡・博多〜鹿児島】九州新幹線 vs 高速バス「桜島号」徹底比較！料金半額＆桜島・黒豚・天文館1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
   description: "博多・天神から鹿児島中央へ行くなら九州新幹線と高速バス「桜島号」どっちがお得？料金・所要時間比較！片道3,000円台〜行ける高速バスを活用し、桜島フェリー、仙巌園、名物黒豚しゃぶしゃぶ・白熊を満喫する1泊2日モデルコース。",
-  keywords: ["fukuoka-kagoshima-bus-vs-shinkansen-guide", "高速バス", "バスツアー", "新幹線 比較", "安く行く方法", "1泊2日 モデルコース", "宿泊予約", "楽天トラベル"],
+  keywords: ["福岡", "博多〜鹿児島", "九州新幹線", "vs", "桜島", "黒豚", "天文館1泊2日モデルコース"],
 };
 
 function loadHotels() {

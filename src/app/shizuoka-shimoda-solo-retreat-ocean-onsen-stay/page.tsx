@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/shizuoka-shimoda-solo-retreat-ocean-onsen-stay/" },
   title: '【南伊豆・下田温泉ひとり旅・ペリー黒船と白砂ビーチおこもり】自家源泉掛け流し・下田金目鯛づくし・海一望露天風呂！特急サフィール直通の港町厳選3宿',
   description: '幕末開国の舞台とエメラルドグリーンの白浜海岸を抱く南伊豆・下田温泉！里山の静寂と敷地内自噴の極上掛け流し温泉が口コミ★4.7超の「下田セントラルホテル」、海一望の展望大浴場と金目鯛会席が評判の「下田ベイクロシオ」、白浜海岸直結のオーシャンリゾート「ホテル伊豆急」を楽天API最新データに基づき徹底比較。',
   keywords: '下田温泉 一人旅 宿,下田 ホテル 一人 温泉,下田セントラルホテル,下田ベイクロシオ,ホテル伊豆急,下田 ひとり旅 おこもり',

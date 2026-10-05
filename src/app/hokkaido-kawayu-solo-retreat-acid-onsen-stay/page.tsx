@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/hokkaido-kawayu-solo-retreat-acid-onsen-stay/" },
   title: '【道東・川湯温泉ひとり旅・硫黄山pH1.7強酸性泉おこもり】釘も溶かす日本屈指の酸性硫黄泉・摩周湖の霧・エゾ鹿料理！阿寒摩周の秘境厳選3宿',
   description: '活火山硫黄山の噴煙を水源とする日本有数の強酸性名湯・道東・川湯温泉！モダンでお洒落なゲストハウスステイが口コミ★4.5の「YUNOMY」、自家源泉100%完全掛け流しとモルジブ直送の料理が自慢の「HOTEL PARKWAY」、源泉岩風呂と広々とした温泉大浴場を誇る「川湯観光ホテル」を楽天API最新データに基づき徹底比較。',
   keywords: '川湯温泉 一人旅 宿,川湯温泉 ホテル 一人,YUNOMY 川湯,ホテルパークウェイ,川湯観光ホテル,道東 ひとり旅 おこもり',

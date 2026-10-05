@@ -4,16 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '日本三大美林＆巨樹・森林セラピー癒やしの宿×ふるさと納税完全ガイド【2026年最新】屋久島・木曽ヒノキ・青森ヒバの森',
   description: '深い森の息吹で深呼吸！世界自然遺産鹿児島屋久島の屋久杉原生林リゾート、長野木曽谷の樹齢300年木曽ヒノキ露天風呂宿、青森十和田・奥入瀬渓流を包む青森ヒバの名湯。フィトンチッド満ちる原生林の力で心身を再生する森林リトリートを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
-  keywords: [
-    '楽天ふるさと納税',
-    'ふるさと納税 宿泊クーポン',
-    '楽天トラベル ふるさと納税',
-    '高級温泉旅館',
-    '露天風呂付き客室',
-    '2026年旅行'
-  ],
+  keywords: ["日本三大美林", "巨樹", "2026年最新", "屋久島", "木曽ヒノキ", "青森ヒバの森", "温泉宿"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-major-forest-therapy-retreat-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-three-major-forest-therapy-retreat-stay/"
   },
   openGraph: {
     title: '日本三大美林＆巨樹・森林セラピー癒やしの宿×ふるさと納税完全ガイド【2026年最新】屋久島・木曽ヒノキ・青森ヒバの森',

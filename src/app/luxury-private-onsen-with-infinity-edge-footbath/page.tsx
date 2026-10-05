@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '【2026年】水盤と空が一体化する！インフィニティ足湯テラス＆絶景ラウンジ付き温泉宿5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！雄大な海や山並みを見渡すインフィニティ足湯テラスでドリンクを片手に優雅な時間を過ごせる極上モダン温泉リゾート5選。',
-  keywords: ["インフィニティ足湯","絶景テラス","モダン温泉宿","足湯バー","大人のリゾート","楽天トラベル"],
+  keywords: ["2026年", "絶景ラウンジ付き温泉宿5選", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/luxury-private-onsen-with-infinity-edge-footbath',
+    canonical: "https://croud-travel.pages.dev/luxury-private-onsen-with-infinity-edge-footbath/",
   },
   openGraph: {
     title: '【2026年】水盤と空が一体化する！インフィニティ足湯テラス＆絶景ラウンジ付き温泉宿5選',

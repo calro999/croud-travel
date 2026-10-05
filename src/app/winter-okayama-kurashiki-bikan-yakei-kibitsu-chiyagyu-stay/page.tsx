@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   description: "11月から1月、岡山県倉敷市の「倉敷美観地区」は、観光客で賑わう日中とは打って変わり、澄み切った冬の夜気の中で世界的な照明デザイナー石井幹子氏監修の「夜間景観照明」に照らされ、静寂と幽玄の美を湛えます。倉敷川の水面に映る白壁土蔵と柳並木の影、桃太郎伝説の舞台・国宝「吉備津神社」の全長398mに及ぶ大回廊を歩く厳かな新春初詣。そして冬の瀬戸内海で獲れる弾力抜群の「下津井真蛸」や、日本最古の蔓牛の血統を受け継ぐ幻の黒毛和牛「千屋牛」の極上会席。心洗われる冬の倉敷旅を叶える厳選名宿5選と1泊2日の冬のモデルコースを徹底解説します。",
   keywords: '倉敷美観地区 冬, 倉敷 夜間景観照明, 吉備津神社 初詣, 大回廊, 下津井真蛸, 千屋牛 ステーキ, 倉敷アイビースクエア, ロイヤルパークホテル倉敷, 倉敷国際ホテル, ドーミーイン倉敷, 大原美術館, 11月 12月 1月 岡山旅行',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-okayama-kurashiki-bikan-yakei-kibitsu-chiyagyu-stay'
+    canonical: "https://croud-travel.pages.dev/winter-okayama-kurashiki-bikan-yakei-kibitsu-chiyagyu-stay/"
   },
   openGraph: {
     title: "【11・12・1月岡山】冬の倉敷美観地区・白壁土蔵の夜間景観照明＆国宝吉備津神社新春初詣・名物下津井真蛸と幻の千屋牛を堪能する名宿5選",

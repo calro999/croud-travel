@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/fukushima-iwaki-yumoto-solo-retreat-onsen-stay/" },
   title: '【いわき湯本温泉ひとり旅・三函の名湯おこもり】日本三古湯・毎分5トン自噴硫黄泉・常磐もの海鮮！フラガール温泉郷厳選3宿',
   description: '有馬・道後と並ぶ日本三古湯「三函の湯」・いわき湯本！日本庭園と檜露天風呂が心温まる「吹の湯旅館」、小名浜港直送の絶品魚料理が評判の料理宿「鮮の宿 柏」、野口雨情ゆかりの庭園露天風呂を誇る名門「雨情の宿 新つた」を楽天API最新データに基づき徹底比較。',
   keywords: 'いわき湯本温泉 一人旅 宿,いわき湯本 ホテル 一人 温泉,吹の湯旅館,鮮の宿 柏,雨情の宿 新つた,いわき湯本 ひとり旅 おこもり',

@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '【2026年】繊細なカットが生み出す光の芸術！薩摩切子・江戸切子のグラスで愉しむ地酒BARの宿5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！鹿児島の薩摩切子や東京の江戸切子の美しい酒器で厳選地酒を味わえるBARや、切子工芸の展示・体験が楽しめる伝統文化の温泉宿5選。',
-  keywords: ["薩摩切子","江戸切子","伝統工芸","地酒BAR","大人の隠れ家","楽天トラベル"],
+  keywords: ["2026年", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/traditional-edo-cut-glass-kiriko-craft-stay',
+    canonical: "https://croud-travel.pages.dev/traditional-edo-cut-glass-kiriko-craft-stay/",
   },
   openGraph: {
     title: '【2026年】繊細なカットが生み出す光の芸術！薩摩切子・江戸切子のグラスで愉しむ地酒BARの宿5選',

@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "「あかい・まるい・おおきい・うまい」最高峰ブランド苺「博多あまおう」を贅沢に使った特製パフェやスイーツ！W美肌の湯として名高い原鶴温泉や小京都・秋月の風情ある名宿で、福岡の美食と美肌湯に癒やされる旅。",
   keywords: "原鶴温泉 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/spring-fukuoka-amaou-strawberry-sweets-stay',
+    canonical: "https://croud-travel.pages.dev/spring-fukuoka-amaou-strawberry-sweets-stay/",
   },
   openGraph: {
     title: "【あまおう苺スイーツ＆博多水炊き】福岡特産いちごパフェと原鶴・秋月温泉の美食名湯宿5選",

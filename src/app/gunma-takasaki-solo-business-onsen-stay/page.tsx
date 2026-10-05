@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/gunma-takasaki-solo-business-onsen-stay/" },
   title: '【高崎出張・天然温泉サウナ】新幹線結節点・榛名の湯・高崎パスタ！上州ビジネスハブを制する厳選3宿',
   description: '上越・北陸新幹線が分岐する群馬最大の交通ターミナル高崎駅！駅東口直結でシモンズベッドと極上スパ・岩盤浴を誇る「ホテルココ・グラン高崎」、展望露天風呂から白衣大観音を望む「ホテル グランビュー高崎」、天然温泉大浴場とサウナ完備の「ドーミーイン高崎」を徹底比較。',
   keywords: '高崎 出張 ホテル,高崎駅 サウナ ホテル,ホテルココグラン高崎,ホテルグランビュー高崎,ドーミーイン高崎,高崎パスタ 一人旅',

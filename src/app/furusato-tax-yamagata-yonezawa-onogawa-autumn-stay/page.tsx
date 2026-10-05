@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '山形・米沢牛のふるさと小野川温泉＆白布温泉！小野小町開湯の美肌湯と天元台紅葉 | クラウドトラベルふるさと納税',
   description: '10月・11月の山形・米沢＆小野川・白布温泉特集！平安の美女・小野小町が開湯した美肌の名湯「小野川温泉」と開湯700年の秘湯「白布温泉」、天元台高原の錦秋ロープウェイ、日本屈指のブランド牛「米沢牛」の極上すき焼き会席をふるさと納税トラベルで味わう贅沢プラン。',
-  keywords: ["小野川温泉・白布温泉・天元台高原 紅葉 観光","山形県 10月 11月 旅行","小野川温泉美肌の湯＆本場米沢牛すき焼き","ふるさと納税 温泉宿泊券","小野川温泉　河鹿荘","小野川温泉　鈴の宿　登府屋旅館","白布温泉　東屋（ひがしや）","楽天ふるさと納税 宿泊クーポン"],
+  keywords: ["山形", "米沢牛のふるさと小野川温泉", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-yamagata-yonezawa-onogawa-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-yamagata-yonezawa-onogawa-autumn-stay/",
   },
   openGraph: {
     title: '山形・米沢牛のふるさと小野川温泉＆白布温泉！小野小町開湯の美肌湯と天元台紅葉',

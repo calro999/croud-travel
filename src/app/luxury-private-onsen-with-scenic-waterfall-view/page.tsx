@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】マイナスイオンを浴びる特等席！滝見露天風呂＆大自然の隠れ家温泉宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！豪快に流れ落ちる滝の飛沫と轟音を目の前に望む「滝見露天風呂」！四季折々の木々と清流のマイナスイオンに包まれる極上秘湯旅館5選。',
-  keywords: ["滝見露天風呂","絶景滝","マイナスイオン","秘湯名宿","大自然リゾート","源泉掛け流し","楽天トラベル"],
+  keywords: ["2026年", "大自然の隠れ家温泉宿5選", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
     title: '【2026年】マイナスイオンを浴びる特等席！滝見露天風呂＆大自然の隠れ家温泉宿5選',
     description: '2026年最新！豪快に流れ落ちる滝の飛沫と轟音を目の前に望む「滝見露天風呂」！四季折々の木々と清流のマイナスイオンに包まれる極上秘湯旅館5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/luxury-private-onsen-with-scenic-waterfall-view',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/luxury-private-onsen-with-scenic-waterfall-view',
+    canonical: "https://croud-travel.pages.dev/luxury-private-onsen-with-scenic-waterfall-view/",
   },
 };
 

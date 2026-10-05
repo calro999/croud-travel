@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/toyama-unazuki-solo-retreat-onsen-stay/" },
   title: '【宇奈月温泉ひとり旅・黒部峡谷秘境おこもり】日本一の透明度・峡谷美露天風呂・富山湾の白えび＆寒鰤！トロッコ電車玄関口の名湯厳選3宿',
   description: 'V字峡谷の絶景を抱く富山屈指の名湯・宇奈月温泉！峡谷の四季と富山の旬菜料理が評判のラグジュアリー宿「サン柳亭」、露天風呂とサウナ・充実のラウンジサービスを備えた「グランヴィリオホテル宇奈月温泉」、竹久夢二や川端康成ゆかりの黒部川沿いの老舗「延対寺荘」を楽天API最新データに基づき徹底比較。',
   keywords: '宇奈月温泉 一人旅 宿,宇奈月 ホテル 一人 温泉,サン柳亭 宇奈月,グランヴィリオホテル宇奈月温泉,延対寺荘 宇奈月,黒部峡谷 ひとり旅 おこもり',

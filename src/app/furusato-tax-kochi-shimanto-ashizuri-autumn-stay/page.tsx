@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '高知・日本最後の清流 四万十川と足摺岬！太平洋パノラマ絶景温泉＆戻り鰹タタキ・天然鮎 | クラウドトラベルふるさと納税',
   description: '10月・11月の高知・四万十＆足摺岬特集！沈下橋が架かる日本最後の清流・四万十川の秋景色と屋形船クルーズ、270度の大海原が広がる足摺岬のパノラマ絶景、あしずり温泉郷の露天風呂、脂が乗った絶品の戻り鰹の塩タタキや四万十天然鮎をふるさと納税トラベルで楽しむ南国土佐の旅。',
-  keywords: ["四万十川沈下橋・足摺岬・あしずり温泉 観光","高知県 10月 11月 旅行","四万十川紅葉屋形船＆足摺岬絶景温泉戻り鰹","ふるさと納税 温泉宿泊券","新ロイヤルホテル四万十","あしずり温泉郷　足摺サニーサイドホテル","アシズリテルメ","楽天ふるさと納税 宿泊クーポン"],
+  keywords: ["高知", "日本最後の清流", "戻り鰹タタキ", "天然鮎", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-kochi-shimanto-ashizuri-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-kochi-shimanto-ashizuri-autumn-stay/",
   },
   openGraph: {
     title: '高知・日本最後の清流 四万十川と足摺岬！太平洋パノラマ絶景温泉＆戻り鰹タタキ・天然鮎',

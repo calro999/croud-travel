@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/shizuoka-station-solo-business-onsen-sauna-stay/" },
   title: '【静岡駅前出張・天然温泉サウナ】富士山パノラマ・天然温泉スカイスパ・駿河湾鮮魚！東海道の中枢を制する厳選3宿',
   description: '東海道新幹線「ひかり」停車！最上階天然温泉大浴場と露天風呂・セルフロウリュサウナで絶賛される「ホテルオーレイン」、静岡駅南口徒歩1分で展望スカイスパ＆富士山ビューの「ホテルプリヴェ静岡」、駅近でハッピーアワー無料サービスの「くれたけインプレミアム静岡駅前」を徹底比較。',
   keywords: '静岡 出張 ホテル,静岡駅 サウナ ホテル,ホテルオーレイン静岡,ホテルプリヴェ静岡,くれたけインプレミアム静岡駅前,静岡 温泉 一人旅',

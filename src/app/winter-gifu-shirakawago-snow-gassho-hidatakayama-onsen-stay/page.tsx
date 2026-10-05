@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   description: "冬の飛騨路は、日本の原風景が雪化粧に包まれる年間最高の旅情シーズン。世界遺産・白川郷合掌造り集落の白銀の絶景、新酒の杉玉が掲げられる飛騨高山の風情ある「古い町並み」、そして奥飛騨温泉郷の原生林に抱かれた雪見露天風呂。とろける極上A5飛騨牛の炭火焼きや朴葉味噌とともに、冬の日本の美を極める旅へ。楽天APIから最新取得した本陣平野屋、深山桜庵など厳選宿5選を徹底特集します。",
   keywords: '白川郷 ホテル, 飛騨高山 旅館, 奥飛騨温泉郷 雪見露天風呂, 白川郷 ライトアップ, 飛騨牛 会席, 本陣平野屋 花兆庵, 深山桜庵, 高山グリーンホテル, 飛騨亭 花扇, 11月 12月 1月 岐阜 観光',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-gifu-shirakawago-snow-gassho-hidatakayama-onsen-stay'
+    canonical: "https://croud-travel.pages.dev/winter-gifu-shirakawago-snow-gassho-hidatakayama-onsen-stay/"
   },
   openGraph: {
     title: "【11・12・1月岐阜】世界遺産白川郷雪景色＆飛騨高山古い町並み！奥飛騨雪見露天と極上飛騨牛会席の名宿5選",

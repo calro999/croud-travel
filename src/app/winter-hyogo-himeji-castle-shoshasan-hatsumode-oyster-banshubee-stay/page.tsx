@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   description: "冬の兵庫・姫路は、白漆喰総塗籠造りの大天守「国宝・世界文化遺産 姫路城（白鷺城）」が澄み渡る冬空に白く眩しく輝き、映画の舞台としても名高い西の比叡山「書写山圓教寺」が新春開運初詣で厳かな静寂に包まれる季節。好古園の冬紅葉や雪景色、播磨灘の栄養豊かな海水で大粒に育つ冬の味覚「播磨灘牡蠣」、香ばしい焼き穴子、そして口の中でとろける最高峰黒毛和牛「播州牛」。天然温泉やサウナ、キャッスルビューを満喫できる厳選名宿5選を徹底解説します。",
   keywords: '姫路 ホテル, 姫路城 冬景色, 書写山圓教寺 初詣, 播磨灘 牡蠣, 播州牛, ホテル日航姫路, ドーミーイン姫路, 11月 12月 1月 兵庫 観光',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-hyogo-himeji-castle-shoshasan-hatsumode-oyster-banshubee-stay'
+    canonical: "https://croud-travel.pages.dev/winter-hyogo-himeji-castle-shoshasan-hatsumode-oyster-banshubee-stay/"
   },
   openGraph: {
     title: "【11・12・1月兵庫】世界遺産・白鷺城の冬絶景＆書写山圓教寺新春初詣！播磨灘の旬牡蠣と極上播州牛を味わう名宿5選",

@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/kyoto-solo-retreat-temple-modern-stay/" },
   title: '【京都ひとり旅・静寂おこもり】朝のお勤め・枯山水庭園・祇園の隠れ家！大人が心洗われる極上和モダン宿 厳選3選',
   description: '「賑やかな観光地から一歩離れて、静かに京都の美意識に浸りたい」「朝の静寂なお寺散策や写経で心をリセットしたい」。大人のソロトラベラーへ。建仁寺・祇園の風情に溶け込む「ホテル ザ セレスティン京都祇園」、500年の歴史を誇る名刹に泊まる「三井ガーデンホテル京都河原町浄教寺」、ラウンジの無料お茶漬けや大浴場が嬉しい「ホテルインターゲート京都 四条新町」を徹底特集。',
   keywords: '京都 一人旅 ホテル おすすめ,京都 おこもり宿 一人,京都 寺 泊まる,ホテル ザ セレスティン京都祇園 一人,三井ガーデンホテル京都河原町浄教寺 宿泊',

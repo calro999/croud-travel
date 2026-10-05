@@ -4,6 +4,7 @@ import Link from 'next/link';
 import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/taisho-roman-showa-modern-art-deco-hotel-stay/" },
   title: '大正ロマン＆昭和モダン・アールデコ建築宿完全ガイド【ステンドグラスと意匠美】 | クラウドトラベル',
   description: 'ホテルニューグランド、熱海名邸、旧軽井沢倶楽部など、大正ロマンや昭和初期のアールデコ様式が色濃く残るレトロモダン宿を厳選。ステンドグラスやシャンデリアが誘うノスタルジックな滞在。',
   openGraph: {

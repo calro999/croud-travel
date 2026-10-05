@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/kanazawa-vs-kyoto-comparison/" },
   title: "【金沢 vs 京都 どっちが面白い？】食べ歩き・美術館・温泉・費用で古都対決",
   description: "金沢と京都、古都2大巨頭を「食・美・湯・金」の4軸で徹底比較。海鮮丼 vs 京懐石、兼六園 vs 清水寺、旅行費用の差まで。",
-  keywords: ["kanazawa-vs-kyoto-comparison", "金沢", "京都", "比較", "旅行", "費用", "グルメ"],
+  keywords: ["金沢", "vs", "京都", "どっちが面白い？", "食べ歩き", "美術館", "温泉"],
 };
 
 interface Hotel {

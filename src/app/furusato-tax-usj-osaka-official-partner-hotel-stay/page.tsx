@@ -4,20 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: 'パーク徒歩圏＆天然温泉！USJオフィシャルホテル×ふるさと納税完全攻略ガイド【2026年最新】近鉄・京阪タワー・リーベルで大阪旅行をお得に満喫',
   description: 'ユニバーサル・スタジオ・ジャパン（USJ）の目の前に泊まる感動！パークまで徒歩1〜2分、スタジオ・パスのホテル内購入やキャラクタールーム、地上110mの絶景天然温泉など特典満載。「ホテル近鉄ユニバーサル・シティ」「ホテル京阪 ユニバーサル・タワー」「リーベルホテル大阪」を、大阪市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。',
-  keywords: [
-    'ふるさと納税 旅行',
-    'ふるさと納税 ホテル',
-    'USJオフィシャルホテル特集',
-    '楽天ふるさと納税 トラベル',
-    'ホテル近鉄ユニバーサル・シティ',
-    'ホテル京阪　ユニバーサル・タワー',
-    'リーベルホテル大阪',
-    'オフィシャルホテル',
-    'ファミリー旅行',
-    '実質2000円'
-  ],
+  keywords: ["パーク徒歩圏", "2026年最新", "近鉄", "京阪タワー", "リーベルで大阪旅行をお得に満喫", "温泉宿", "宿泊予約"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-usj-osaka-official-partner-hotel-stay/',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-usj-osaka-official-partner-hotel-stay/",
   },
   openGraph: {
     title: 'パーク徒歩圏＆天然温泉！USJオフィシャルホテル×ふるさと納税完全攻略ガイド【2026年最新】近鉄・京阪タワー・リーベルで大阪旅行をお得に満喫',

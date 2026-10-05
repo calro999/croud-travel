@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   description: "冬の茨城・水戸＆笠間は、日本三大稲荷「笠間稲荷神社」の新春初詣と、日本三名園「偕楽園」で咲き誇る気品高き早咲き冬梅を巡る歴史と開運の旅舞台。常磐の冬の風物詩である本場濃厚あんこう鍋（どぶ汁仕立て）や茨城が誇る最高峰黒毛和牛「常陸牛」の極上すき焼き、歴史ある笠間焼の器で供される美食。澄み切った千波湖の冬景色や日本最大の藩校・弘道館の静寂に浸り、水戸駅・千波湖畔の上質空間で寛ぐ厳選名宿5選を徹底解説します。",
   keywords: '水戸 ホテル, 笠間稲荷神社 初詣, 水戸 偕楽園 冬梅, あんこう鍋 水戸, 常陸牛 すき焼き, 笠間焼, 水戸プラザホテル, 11月 12月 1月 茨城 観光',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-ibaraki-mito-kasama-inari-hatsumode-ankou-hitachigyu-stay'
+    canonical: "https://croud-travel.pages.dev/winter-ibaraki-mito-kasama-inari-hatsumode-ankou-hitachigyu-stay/"
   },
   openGraph: {
     title: "【11・12・1月茨城】笠間稲荷神社新春開運初詣＆水戸偕楽園冬梅！本場濃厚あんこう鍋と極上常陸牛を味わう名宿5選",

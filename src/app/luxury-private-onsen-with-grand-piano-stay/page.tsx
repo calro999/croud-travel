@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '【2026年】優雅な生演奏と美肌名湯！グランドピアノ・音楽ラウンジ付き極上リゾート宿5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！毎夜のジャズやクラシック生演奏、自由に弾けるグランドピアノを備えた音楽と名湯のマリアージュを楽しむ大人の温泉リゾート5選。',
-  keywords: ["ピアノ演奏","音楽ホテル","ジャズラウンジ","大人のリゾート","記念日旅行","楽天トラベル"],
+  keywords: ["2026年", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/luxury-private-onsen-with-grand-piano-stay',
+    canonical: "https://croud-travel.pages.dev/luxury-private-onsen-with-grand-piano-stay/",
   },
   openGraph: {
     title: '【2026年】優雅な生演奏と美肌名湯！グランドピアノ・音楽ラウンジ付き極上リゾート宿5選',

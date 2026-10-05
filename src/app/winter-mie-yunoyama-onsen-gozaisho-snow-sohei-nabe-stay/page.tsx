@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "11月下旬から12月にかけて鈴鹿山脈の主峰・御在所岳（標高1,212m）は、山上公園に白銀の初雪が舞い降り、条件が揃えば幻想的な「樹氷（スノーモンスター）」や青白く輝く「氷瀑」が出現します。麓の湯の山温泉は養老2年（718年）開湯、傷ついた鹿が癒やした「鹿の湯」伝説が残るアルカリ性単純温泉。三岳寺の僧兵たちにちなんだ滋養強壮満点の郷土鍋「名物僧兵鍋（猪肉・鶏肉・特製味噌仕立て）」、鈴鹿山麓の清流で育つ甘みたっぷりの「菰野豚（こものぶた）」、露天風呂から遠く伊勢湾や名古屋市街の夜景を見渡す絶景名宿5選を徹底解説。",
   keywords: '湯の山温泉 宿泊, 御在所ロープウェイ 樹氷 11月 12月, 寿亭, ホテル湯の本, 鹿の湯ホテル, 三峯園, 彩向陽, 僧兵鍋 湯の山, 菰野豚, 湯の山温泉 露天風呂',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-mie-yunoyama-onsen-gozaisho-snow-sohei-nabe-stay'
+    canonical: "https://croud-travel.pages.dev/winter-mie-yunoyama-onsen-gozaisho-snow-sohei-nabe-stay/"
   },
   openGraph: {
     title: "【11・12月三重・湯の山温泉の御在所岳初雪樹氷と開湯1300年美肌湯】名物僧兵鍋・菰野豚＆伊勢湾望む絶景露天の宿5選",

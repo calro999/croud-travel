@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "日本三古湯・三名泉の筆頭として豊臣秀吉もこよなく愛した兵庫・有馬温泉。11月の瑞宝寺公園の紅葉の余韻から、12月の六甲山から望む澄み切った1000万ドルの冬夜景。海水の約2倍の塩分と鉄分を含み冬でも湯冷め知らずの赤茶色の名湯「金泉」と、世界最高峰「神戸牛」の贅沢なすき焼き・ステーキ会席を堪能する極上冬宿ガイド。",
   keywords: '有馬温泉 宿泊 11月 12月, 有馬温泉 金泉 銀泉, 有馬温泉 神戸牛 旅館, 兵衛向陽閣 有馬グランドホテル, 有馬温泉 おすすめ 宿, 六甲山 夜景 有馬温泉, 有馬温泉 冬 モデルコース',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay',
+    canonical: "https://croud-travel.pages.dev/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay/",
   },
   openGraph: {
     title: "【11・12月有馬温泉の金泉銀泉と六甲山夜景】日本最古の名湯で芯から温まる冬・最高峰神戸牛会席を味わう老舗宿5選",

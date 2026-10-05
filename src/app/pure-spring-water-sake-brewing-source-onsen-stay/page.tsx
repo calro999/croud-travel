@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/pure-spring-water-sake-brewing-source-onsen-stay/" },
   title: "【名水百選・酒の仕込み水が湧く秘湯宿】清流と伏流水・美肌温泉 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "名酒が生まれる土地には奇跡の名水と極上温泉がある！全国の日本名水百選・酒造りの仕込み水と美肌温泉宿完全特化！富山黒部・立山連峰伏流水、静岡富士山伏流水、島根奥出雲、熊本阿蘇名水、清冽な天然水風呂と美肌湯を徹底解説。",
-  keywords: ["pure-spring-water-sake-brewing-source-onsen-stay", "日本酒旅行", "酒蔵巡り", "地酒ペアリング", "温泉宿", "楽天トラベル"],
+  keywords: ["名水百選", "酒の仕込み水が湧く秘湯宿", "清流と伏流水", "美肌温泉", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
 
 function loadSeasonalHotels() {

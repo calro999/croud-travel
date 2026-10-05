@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/kobe-sannomiya-solo-business-sauna-onsen-stay/" },
   title: '【神戸三宮出張・極上サウナステイ】サウナシュラン殿堂の聖地・異人館港町夜景・神戸牛！関西屈指の洗練都市を極める厳選3宿',
   description: '新神戸駅から地下鉄で1駅、大阪梅田からもJR新快速で21分！日本サウナ界の至宝・フィンランドサウナ＆露天水風呂を誇る「神戸サウナ＆スパ」、ライフスタイル型のお洒落ラウンジと快適ステイの「ザ ロイヤルパーク キャンバス 神戸三宮」、駅近で抜群の安心感と広々客室を誇る「ダイワロイネットホテル神戸三宮」を徹底比較。',
   keywords: '神戸 三宮 出張 ホテル,神戸 サウナ ホテル,神戸サウナ＆スパ,ザロイヤルパークキャンバス神戸三宮,ダイワロイネットホテル神戸三宮,三宮 サウナ ひとり旅',

@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "穏やかな湖面や池の上に浮かぶフローティングサウナ！水面に直接降りられる階段から飛び込む天然水風呂、そして水上のデッキチェアで揺られながらの外気浴。究極の浮遊感を体験できる最新リゾートを厳選。",
   keywords: "水上 サウナ 温泉 宿, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/organic-forest-floating-tent-sauna-stay',
+    canonical: "https://croud-travel.pages.dev/organic-forest-floating-tent-sauna-stay/",
   },
   openGraph: {
     title: "【水上サウナ＆浮遊外気浴】湖や池に浮かぶフローティングサウナと温泉宿5選",

@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '琵琶湖・おごと温泉と比叡山延暦寺の紅葉！近江牛会席＆最澄開湯1200年の名湯 | クラウドトラベルふるさと納税',
   description: '10月・11月の滋賀・大津＆おごと温泉特集！世界遺産・比叡山延暦寺や日吉大社の壮麗なもみじ祭り、琵琶湖の朝焼けを望む最澄開湯1200年の美肌名湯「おごと温泉」、日本三大和牛・近江牛の極上会席をふるさと納税トラベルでお得に堪能する大人の秋旅プラン。',
-  keywords: ["琵琶湖・おごと温泉・比叡山延暦寺 紅葉 観光","滋賀県 10月 11月 旅行","おごと温泉比叡山紅葉＆近江牛美食旅","ふるさと納税 温泉宿泊券","おごと温泉　暖灯館　きくのや","おごと温泉　びわこ緑水亭","おごと温泉　びわ湖花街道","楽天ふるさと納税 宿泊クーポン"],
+  keywords: ["琵琶湖", "最澄開湯1200年の名湯", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-shiga-biwako-otsu-ogoto-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-shiga-biwako-otsu-ogoto-autumn-stay/",
   },
   openGraph: {
     title: '琵琶湖・おごと温泉と比叡山延暦寺の紅葉！近江牛会席＆最澄開湯1200年の名湯',

@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '佐賀・日本三大美肌の湯 嬉野温泉＆武雄温泉！トロトロ重曹泉と名物温泉湯どうふ・佐賀牛 | クラウドトラベルふるさと納税',
   description: '10月・11月の佐賀・嬉野＆武雄特集！日本三大美肌の湯に数えられるトロトロの極上重曹泉、秋の茶畑が広がる嬉野茶の秋摘みと紅葉、とろける嬉野温泉湯どうふと最高ランク佐賀牛ステーキをふるさと納税トラベルで堪能する極上癒やし旅。',
-  keywords: ["嬉野温泉・武雄温泉・御船山楽園 紅葉 観光","佐賀県 10月 11月 旅行","嬉野温泉美肌の湯＆佐賀牛温泉湯豆腐旅","ふるさと納税 温泉宿泊券","嬉野温泉　ハミルトン宇礼志野","嬉野温泉　ホテル華翠苑","フェアフィールド・バイ・マリオット・佐賀嬉野温泉","楽天ふるさと納税 宿泊クーポン"],
+  keywords: ["佐賀", "日本三大美肌の湯", "嬉野温泉", "佐賀牛", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-saga-ureshino-takeo-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-saga-ureshino-takeo-autumn-stay/",
   },
   openGraph: {
     title: '佐賀・日本三大美肌の湯 嬉野温泉＆武雄温泉！トロトロ重曹泉と名物温泉湯どうふ・佐賀牛',

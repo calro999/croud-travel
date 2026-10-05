@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/sake-lees-bath-fermentation-beauty-detox-stay/" },
   title: "【酒粕風呂・日本酒風呂＆発酵美肌デトックス宿】杜氏の手の白さ・糀スパ 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "杜氏の手の美しさの秘密！酒粕風呂・日本酒風呂＆発酵料理デトックス宿完全特化！新潟松之山、京都丹後、栃木日光、純米酒の天然アミノ酸とコウジ酸がもたらす全身しっとり美肌体験、塩糀・甘酒の発酵朝食バイキング、温活スパを徹底解説。",
-  keywords: ["sake-lees-bath-fermentation-beauty-detox-stay", "日本酒旅行", "酒蔵巡り", "地酒ペアリング", "温泉宿", "楽天トラベル"],
+  keywords: ["酒粕風呂", "日本酒風呂", "発酵美肌デトックス宿", "杜氏の手の白さ", "糀スパ", "温泉宿", "宿泊予約"],
 };
 
 function loadSeasonalHotels() {

@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "開放感あふれる大型ドームテント、プライベートなテントサウナ＆セルフロウリュ、そして夜空に輝く満天の星！天然温泉の大浴場も併設された、贅沢で快適な最新アウトドアリゾートを厳選紹介。",
   keywords: "ドームテント グランピング サウナ 温泉, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/organic-forest-dome-tent-glamping-sauna-stay',
+    canonical: "https://croud-travel.pages.dev/organic-forest-dome-tent-glamping-sauna-stay/",
   },
   openGraph: {
     title: "【星空ドームテント×テントサウナ】大自然に包まれる贅沢グランピング＆自家源泉温泉宿5選",

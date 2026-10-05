@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '霧島神宮の紅葉参道と天孫降臨の森！霧島温泉郷の多彩な泉質・鹿児島黒豚・黒牛溶岩焼きを味わう秋の南九州旅 | クラウドトラベルふるさと納税',
   description: '10月・11月の鹿児島・霧島特集！国宝・霧島神宮を包む真紅のモミジと秋空、天孫降臨神話が息づく霧島連峰の秋景色、乳白色・泥パックなど多彩な泉質を誇る霧島温泉郷の露天風呂、極上鹿児島黒豚しゃぶしゃぶと鹿児島黒牛の溶岩焼きをふるさと納税で堪能。',
-  keywords: ['霧島・霧島神宮・霧島温泉郷 紅葉 観光', '鹿児島県 10月 11月 旅行', '鹿児島・霧島温泉＆霧島神宮特集', 'ふるさと納税 温泉宿泊券', '霧島温泉郷　民宿　みちや荘', '霧島温泉　民宿　登山口温泉', '霧島温泉　夫婦露天風呂の宿　天テラス（あまてらす）', '楽天ふるさと納税 宿泊クーポン'],
+  keywords: ["鹿児島黒豚", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-kirishima-jingu-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-kirishima-jingu-autumn-stay/",
   },
   openGraph: {
     title: '霧島神宮の紅葉参道と天孫降臨の森！霧島温泉郷の多彩な泉質・鹿児島黒豚・黒牛溶岩焼きを味わう秋の南九州旅',

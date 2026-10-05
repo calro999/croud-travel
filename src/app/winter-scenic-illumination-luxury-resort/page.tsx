@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "11月からスタートする日本最大級のクリスマスイルミネーション＆光の王国！ハウステンボスの世界最大1300万球の輝きや、なばなの里、東京ベイエリアの絶景夜景を客室やバルコニーから独占できるプレミアムリゾート。",
   keywords: "ハウステンボス ホテル, 11月旅行, 12月旅行, 冬休み, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/winter-scenic-illumination-luxury-resort',
+    canonical: "https://croud-travel.pages.dev/winter-scenic-illumination-luxury-resort/",
   },
   openGraph: {
     title: "【11・12月限定！光の祭典＆クリスマスイルミネーション】幻想的な夜景リゾート宿5選",

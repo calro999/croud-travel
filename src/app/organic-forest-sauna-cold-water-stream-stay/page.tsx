@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '【2026年】天然の清流へダイブ！森林バレルサウナ＆天然川水風呂で極上のととのい宿5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！薪サウナでアツアツに温まった後、目の前を流れる雪解け水の清流へ飛び込む究極の水風呂体験と森林外気浴が楽しめるサウナ名宿5選。',
-  keywords: ["バレルサウナ","清流ダイブ","天然水風呂","薪サウナ","究極のととのい","楽天トラベル"],
+  keywords: ["2026年", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/organic-forest-sauna-cold-water-stream-stay',
+    canonical: "https://croud-travel.pages.dev/organic-forest-sauna-cold-water-stream-stay/",
   },
   openGraph: {
     title: '【2026年】天然の清流へダイブ！森林バレルサウナ＆天然川水風呂で極上のととのい宿5選',

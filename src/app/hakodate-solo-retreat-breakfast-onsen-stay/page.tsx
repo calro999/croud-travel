@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/hakodate-solo-retreat-breakfast-onsen-stay/" },
   title: '【函館ひとり旅・美食ご褒美泊】朝食バイキング全国1位争い・インフィニティ天空温泉・赤レンガ倉庫！港町で癒やされる極上ホテル 厳選3選',
   description: '「日本一の朝食バイキングでいくら盛り放題を堪能したい」「最上階の露天風呂から函館山と夜景を見下ろしながら静かに過ごしたい」。大人ソロトラベラーへ。150種超のプレミアム朝食と天空露天風呂「スパ・マリーナ」を誇る「センチュリーマリーナ函館」、貸切風呂と名物海鮮丼の最高峰「ラビスタ函館ベイANNEX」、大正ロマン薫る湯の川温泉の高級宿「HAKODATE 海峡の風」を徹底特集。',
   keywords: '函館 一人旅 ホテル 朝食,センチュリーマリーナ函館 宿泊,ラビスタ函館ベイ ANNEX 一人,函館 温泉 ホテル いくら,函館ひとり旅 ご褒美',

@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   description: "11月から1月、静岡県・浜名湖＆舘山寺（かんざんじ）温泉は、遠州灘の荒波が育む幻の「天然とらふぐ」と、冬眠前に脂が極限まで乗る名物「浜名湖うなぎ」、冬限定のご当地グルメ「牡蠣カバ丼」が勢揃いする年間最大の美食期を迎えます。甘い香りに包まれる名物「三ヶ日みかん風呂」や、大草山展望台から望む澄み切った青空に輝く冠雪の富士山、弁天島の鳥居に沈む茜色の夕日。東京・名古屋からのアクセスも抜群な浜名湖畔で、湖一望の絶景露天風呂と冬の贅沢グルメに酔いしれる厳選5宿を徹底ガイドします。",
   keywords: '浜名湖 うなぎ 温泉宿, 遠州灘 天然とらふぐ 宿, 舘山寺温泉 ホテル, ウェルシーズン浜名湖, ホテル鞠水亭, 浜名湖レークサイドプラザ, THE SCENE hamanako, ホテルグリーンプラザ浜名湖, 11月 12月 1月 静岡旅行, 牡蠣カバ丼 三ヶ日みかん風呂',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-shizuoka-hamanako-kanzanji-torafugu-unagi-stay'
+    canonical: "https://croud-travel.pages.dev/winter-shizuoka-hamanako-kanzanji-torafugu-unagi-stay/"
   },
   openGraph: {
     title: "【11・12・1月静岡】冬限定「遠州灘天然とらふぐ」＆脂の乗る冬の浜名湖うなぎ・牡蠣カバ丼・三ヶ日みかん風呂とレイクビュー名宿5選",

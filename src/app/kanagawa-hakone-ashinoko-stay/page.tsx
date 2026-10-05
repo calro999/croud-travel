@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/kanagawa-hakone-ashinoko-stay/" },
   title: "【箱根・芦ノ湖＆元箱根】湖畔鳥居・海賊船＆富士ビュー極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "箱根・芦ノ湖・元箱根エリア完全特化！箱根神社「平和の鳥居」、芦ノ湖遊覧海賊船、成川美術館、湖畔ベーカリーカフェと絶景オーシャンビューならぬレイクビュー温泉ホテルを徹底解説。",
-  keywords: ["kanagawa-hakone-ashinoko-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["箱根", "芦ノ湖", "元箱根", "湖畔鳥居", "海賊船", "富士ビュー極上宿", "温泉宿"],
 };
 
 function loadSeasonalHotels() {

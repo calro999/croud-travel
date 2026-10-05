@@ -5,17 +5,11 @@ import path from "path";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/kanazawa-trip-packing-regrets-worst5-guide/" },
   title: "【金沢旅行で後悔したことワースト5】月曜定休トラップ＆21美予約忘れ！海鮮丼行列を回避する持ち物＆知恵袋",
   description:
     "金沢観光のよくある落とし穴を全解説！21世紀美術館スイミングプールの事前予約逃し、主要名所・飲食店の月曜一斉定休日トラップ、近江町市場の早仕舞い、折りたたみ傘必須の気候対策と駅前温泉宿。",
-  keywords: [
-    "金沢旅行 後悔 ワースト5",
-    "21世紀美術館 プール 予約 失敗",
-    "金沢 月曜定休日 トラップ",
-    "近江町市場 海鮮丼 混雑回避",
-    "金沢 持ち物 折りたたみ傘",
-    "金沢駅前 ホテル 楽天トラベル"
-  ],
+  keywords: ["月曜定休トラップ", "知恵袋", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
 };
 
 interface Hotel {

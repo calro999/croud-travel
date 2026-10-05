@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "きめ細やかな肉質と上品な甘みを持つ最高峰「かごしま黒豚」のしゃぶしゃぶ！世界唯一の天然砂むし温泉で知られる指宿や、坂本龍馬ゆかりの霧島温泉郷で、鹿児島の滋味あふれる美味と名湯を満喫する旅。",
   keywords: "指宿 温泉 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/traditional-kagoshima-kurobuta-shabushabu-stay',
+    canonical: "https://croud-travel.pages.dev/traditional-kagoshima-kurobuta-shabushabu-stay/",
   },
   openGraph: {
     title: "【極上かごしま黒豚しゃぶしゃぶ＆砂むし温泉】指宿・霧島の美肌湯と鹿児島美食宿5選",

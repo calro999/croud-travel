@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '【2026年】都会の摩天楼を見下ろすルーフトップ温泉＆夜景インフィニティスパホテル5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！東京・横浜・大阪・福岡など都心の最上階ルーフトップで夜景と天然温泉を楽しむ極上アーバンリゾートホテル5選。非日常のシティステイ。',
-  keywords: ["ルーフトップ温泉","夜景ホテル","インフィニティスパ","シティリゾート","ご褒美ステイ","楽天トラベル"],
+  keywords: ["2026年", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/luxury-rooftop-infinity-spa-city-hotel-stay',
+    canonical: "https://croud-travel.pages.dev/luxury-rooftop-infinity-spa-city-hotel-stay/",
   },
   openGraph: {
     title: '【2026年】都会の摩天楼を見下ろすルーフトップ温泉＆夜景インフィニティスパホテル5選',

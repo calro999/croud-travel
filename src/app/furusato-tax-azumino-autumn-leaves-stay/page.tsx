@@ -4,20 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '北アルプス冠雪と安曇野の安曇野わさび田紅葉！美肌の穂高温泉郷宿×ふるさと納税完全ガイド【2026年最新秋旅】長野',
   description: '10月中旬〜11月上旬に見頃を迎える「信州安曇野（あずみの）」と穂高温泉郷。大王わさび農場の蓼川水車小屋紅葉と冠雪の北アルプス（常念岳）、名湯「安曇野穂高ビューホテル」「ガーデンあずみ野」「アートキャビン」で信州サーモンや信州そば・安曇野美豚・信州牛を堪能。楽天ふるさと納税で実質2,000円。',
-  keywords: [
-    'ふるさと納税 温泉',
-    'ふるさと納税 宿泊券',
-    'ふるさと納税 トラベルクーポン',
-    '信州・安曇野わさび田紅葉＆穂高温泉郷特集',
-    '10月 旅行 おすすめ',
-    '11月 旅行 おすすめ',
-    '秋 旅行 温泉',
-    '紅葉 温泉旅館',
-    '楽天トラベル ふるさと納税',
-    '実質2000円 温泉'
-  ],
+  keywords: ["2026年最新秋旅", "長野", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-azumino-autumn-leaves-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-azumino-autumn-leaves-stay/"
   },
   openGraph: {
     title: '北アルプス冠雪と安曇野の安曇野わさび田紅葉！美肌の穂高温泉郷宿×ふるさと納税完全ガイド【2026年最新秋旅】長野',

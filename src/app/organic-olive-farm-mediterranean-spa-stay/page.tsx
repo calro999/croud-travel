@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】日本の地中海・小豆島！搾りたてオリーブオイル会席＆極上オリーブスパの海宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！瀬戸内海の青とオリーブ畑の絶景！小豆島産エキストラバージンオリーブオイルの創作イタリアン・和会席と美肌オリーブスパの温泉宿5選。',
-  keywords: ["小豆島","オリーブ会席","瀬戸内海温泉","オリーブスパ","オーシャンビュー","地中海風リゾート","楽天トラベル"],
+  keywords: ["2026年", "日本の地中海", "極上オリーブスパの海宿5選", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約"],
   openGraph: {
     title: '【2026年】日本の地中海・小豆島！搾りたてオリーブオイル会席＆極上オリーブスパの海宿5選',
     description: '2026年最新！瀬戸内海の青とオリーブ畑の絶景！小豆島産エキストラバージンオリーブオイルの創作イタリアン・和会席と美肌オリーブスパの温泉宿5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/organic-olive-farm-mediterranean-spa-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/organic-olive-farm-mediterranean-spa-stay',
+    canonical: "https://croud-travel.pages.dev/organic-olive-farm-mediterranean-spa-stay/",
   },
 };
 

@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "11月中旬から本格シーズンを迎える全国ランキング第1位の体験型ナイトエンターテインメント「伊豆高原グランイルミ」！光の地上絵やジップラインを満喫した後は、伊東・伊豆高原の美肌温泉露天風呂と、冬に脂が最高に乗る名物・金目鯛の姿煮に舌鼓を打つ極上リゾートステイ。",
   keywords: '伊豆高原 グランイルミ ホテル, 伊豆高原 温泉 旅館, 伊東温泉 金目鯛 宿, 伊豆高原 露天風呂 客室, 静岡 11月 12月 旅行, 伊豆 イルミネーション 宿泊',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-shizuoka-izukogen-granillumi-ito-onsen-stay',
+    canonical: "https://croud-travel.pages.dev/winter-shizuoka-izukogen-granillumi-ito-onsen-stay/",
   },
   openGraph: {
     title: "【11・12月伊豆高原グランイルミ】日本一の体験型イルミと伊東温泉・金目鯛姿煮宿5選",

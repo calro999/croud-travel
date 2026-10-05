@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/winter-crab-gourmet/" },
   title: "【冬の味覚】カニ食べ尽くし＆絶景雪見温泉旅館 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "冬の日本海の王様！城崎温泉（兵庫）、越前三国（福井）、加賀山中（石川）、皆生温泉（鳥取）で本場の松葉ガニ・越前ガニ会席を堪能できる贅沢温泉宿を徹底ガイド。",
-  keywords: ["winter-crab-gourmet", "宿泊予約", "温泉宿", "ホテル特集", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["冬の味覚", "カニ食べ尽くし", "絶景雪見温泉旅館", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
 
 function loadSeasonalHotels() {

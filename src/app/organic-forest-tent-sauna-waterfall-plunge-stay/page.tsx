@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "轟く名瀑のすぐそばに設置された薪テントサウナで限界まで体を温め、天然の滝壺水風呂へダイブ！マイナスイオンのミストと森のフィトンチッドに包まれる、究極のアウトドアサウナ体験ができる宿を厳選。",
   keywords: "滝 サウナ 温泉 宿, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/organic-forest-tent-sauna-waterfall-plunge-stay',
+    canonical: "https://croud-travel.pages.dev/organic-forest-tent-sauna-waterfall-plunge-stay/",
   },
   openGraph: {
     title: "【滝壺ダイブ＆テントサウナ】天然滝の水風呂で極限のととのい！大自然アドベンチャースパ宿5選",

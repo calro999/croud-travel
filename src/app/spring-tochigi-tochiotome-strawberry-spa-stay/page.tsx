@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "いちご王国・栃木が誇る「とちおとめ」「スカイベリー」「とちあいか」の食べ比べスイーツ！日光東照宮や鬼怒川渓谷の絶景を楽しみながら、豪華ディナービュッフェと美肌温泉を満喫する大満足ステイ。",
   keywords: "鬼怒川温泉 露天風呂 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/spring-tochigi-tochiotome-strawberry-spa-stay',
+    canonical: "https://croud-travel.pages.dev/spring-tochigi-tochiotome-strawberry-spa-stay/",
   },
   openGraph: {
     title: "【とちおとめ＆スカイベリー苺スイーツ】日光・鬼怒川温泉の贅沢ビュッフェと名湯宿5選",

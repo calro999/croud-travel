@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '鳴子峡の大紅葉と鳴子温泉郷！日本随一の多彩な泉質めぐり・仙台牛と宮城新米を味わう秋の東北旅 | クラウドトラベルふるさと納税',
   description: '10月・11月の宮城・大崎鳴子温泉特集！深さ100mの断崖を染める鳴子峡（大深沢橋）の圧巻の紅葉パノラマ、日本に存在する10泉質のうち8泉質が集まる鳴子温泉郷の湯めぐり、最高ランク仙台牛ステーキと宮城新米ササニシキ・ひとめぼれをふるさと納税で堪能。',
-  keywords: ['大崎・鳴子峡・鳴子温泉郷 紅葉 観光', '宮城県 10月 11月 旅行', '宮城・鳴子峡＆鳴子温泉特集', 'ふるさと納税 温泉宿泊券', '鳴子温泉　湯元　吉祥（共立リゾート）', '鳴子温泉　ホテル亀屋', '鳴子温泉　旅館弁天閣', '楽天ふるさと納税 宿泊クーポン'],
+  keywords: ["クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-naruko-gorge-kawatabi-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-naruko-gorge-kawatabi-autumn-stay/",
   },
   openGraph: {
     title: '鳴子峡の大紅葉と鳴子温泉郷！日本随一の多彩な泉質めぐり・仙台牛と宮城新米を味わう秋の東北旅',

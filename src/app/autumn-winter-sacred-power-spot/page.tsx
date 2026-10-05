@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/autumn-winter-sacred-power-spot/" },
   title: "【心洗われる神域】開運パワースポット＆歴史の宿坊・温泉宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "新年の開運・心の浄化！和歌山・高野山（宿坊ステイ＆精進料理）、長野・戸隠神社（白銀の杉並木）、島根・出雲大社（玉造温泉）、和歌山・熊野三山（那智の滝）など、静寂の聖地と名湯宿を徹底解説。",
-  keywords: ["autumn-winter-sacred-power-spot", "宿泊予約", "温泉宿", "ホテル特集", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["心洗われる神域", "開運パワースポット", "歴史の宿坊", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
 
 function loadSeasonalHotels() {

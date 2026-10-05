@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/tokyo-nagoya-bus-vs-shinkansen-guide/" },
   title: "【東京〜名古屋】新幹線 vs 高速バス徹底比較！片道2,000円〜行く名古屋めし爆食1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
   description: "東京から名古屋へ安く行くには？東海道新幹線「のぞみ」と高速バス（昼行・夜行）の料金・所要時間比較！片道2,000円台〜行ける高速バスを活用し、ひつまぶし・手羽先・味噌カツ・モーニングを食べ尽くす1泊2日モデルコース。",
-  keywords: ["tokyo-nagoya-bus-vs-shinkansen-guide", "高速バス", "バスツアー", "新幹線 比較", "安く行く方法", "1泊2日 モデルコース", "宿泊予約", "楽天トラベル"],
+  keywords: ["東京〜名古屋", "新幹線", "vs", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
 
 function loadHotels() {

@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "大自然の渓谷や森林の上空を一気に滑走するメガジップライン！爽快なアドベンチャー体験と、疲れた体を癒やす天然温泉・絶景露天風呂を兼ね備えた人気リゾートホテルを厳選紹介。カップルやファミリーにも最適！",
   keywords: "アドベンチャー リゾート ホテル, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/super-panoramic-canyon-zip-line-adventure-stay',
+    canonical: "https://croud-travel.pages.dev/super-panoramic-canyon-zip-line-adventure-stay/",
   },
   openGraph: {
     title: "【爽快アクティビティ】森と渓谷を空中滑走ジップライン！自然体験＆温泉が楽しめる大自然リゾート宿5選",

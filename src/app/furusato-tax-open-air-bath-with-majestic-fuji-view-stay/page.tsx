@@ -4,16 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '富士山ビュー客室露天風呂宿×ふるさと納税完全ガイド【2026年最新】河口湖・日本平・箱根芦ノ湖の霊峰一望リゾート',
   description: '日本人の心のシンボル・富士山を独占！山梨富士河口湖の「逆さ富士」客室露天風呂宿、静岡日本平山頂から富士山と駿河湾を見晴らすパノラマリゾート、神奈川箱根芦ノ湖の海賊船と霊峰一望温泉。四季折々の富士の雄姿を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
-  keywords: [
-    '楽天ふるさと納税',
-    'ふるさと納税 宿泊クーポン',
-    '楽天トラベル ふるさと納税',
-    '高級温泉旅館',
-    '露天風呂付き客室',
-    '2026年旅行'
-  ],
+  keywords: ["2026年最新", "河口湖", "日本平", "箱根芦ノ湖の霊峰一望リゾート", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-open-air-bath-with-majestic-fuji-view-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-open-air-bath-with-majestic-fuji-view-stay/"
   },
   openGraph: {
     title: '富士山ビュー客室露天風呂宿×ふるさと納税完全ガイド【2026年最新】河口湖・日本平・箱根芦ノ湖の霊峰一望リゾート',

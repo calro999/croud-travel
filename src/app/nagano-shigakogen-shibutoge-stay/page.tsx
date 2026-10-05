@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/nagano-shigakogen-shibutoge-stay/" },
   title: "【長野・志賀高原＆渋峠】日本国道最高地点・雲海テラス＆パウダースノー極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "長野・上信越高原国立公園エリア完全特化！日本国道最高地点（標高2,172m）の渋峠、SORA terraceの雲海、志賀高原18スキー場ビッグゲレンデ、熊の湯温泉の濃厚緑色硫黄泉と高原山岳リゾートを徹底解説。",
-  keywords: ["nagano-shigakogen-shibutoge-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["長野", "志賀高原", "渋峠", "日本国道最高地点", "雲海テラス", "パウダースノー極上宿", "温泉宿"],
 };
 
 function loadSeasonalHotels() {

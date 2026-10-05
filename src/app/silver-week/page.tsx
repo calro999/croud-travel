@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/silver-week/" },
   title: "【秋の連休】シルバーウィーク旅行・おすすめ人気ホテル＆リゾート ｜ 日本全国・旅宿クラウド",
   description: "秋の大型連休・シルバーウィーク旅行特集！軽井沢高原リゾート、富士山＆河口湖、熱海温泉、沖縄混雑回避ステイ、USJ秋イベントなど、家族旅行やカップル旅行にぴったりの厳選ホテル＆温泉宿を完全ガイド。",
-  keywords: ["シルバーウィーク", "秋旅行", "連休旅行", "家族旅行", "軽井沢", "河口湖", "熱海", "沖縄", "USJ"],
+  keywords: ["秋の連休", "シルバーウィーク旅行", "おすすめ人気ホテル", "リゾート", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
 
 function loadSilverWeekHotels() {

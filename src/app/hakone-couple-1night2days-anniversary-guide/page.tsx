@@ -5,19 +5,10 @@ import path from "path";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/hakone-couple-1night2days-anniversary-guide/" },
   title: "【箱根カップル温泉旅行 1泊2日モデルコース】客室露天風呂・フレンチ懐石ディナー＆記念日サプライズ宿",
   description: "カップルで過ごす特別な箱根1泊2日旅行！客室専用露天風呂付きのおこもり宿、サプライズケーキや花束手配可能な記念日プラン、大涌谷や彫刻の森美術館をゆったり巡る大人の贅沢デートコース。",
-  keywords: [
-    "箱根 カップル 温泉 1泊2日",
-    "箱根 記念日 ホテル",
-    "箱根 客室露天風呂 カップル",
-    "箱根 誕生日 サプライズ 宿",
-    "箱根 露天風呂付き客室",
-    "箱根 デート 1泊2日 モデルコース",
-    "箱根にごりの湯宿 のうのう箱根",
-    "ホテルインディゴ箱根強羅",
-    "箱根 フレンチ懐石"
-  ],
+  keywords: ["箱根カップル温泉旅行", "1泊2日モデルコース", "客室露天風呂", "フレンチ懐石ディナー", "記念日サプライズ宿", "温泉宿", "宿泊予約"],
 };
 
 interface Hotel {

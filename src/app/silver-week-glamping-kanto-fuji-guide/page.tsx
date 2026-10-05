@@ -5,18 +5,11 @@ import path from "path";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-kanto-fuji-guide/" },
   title: "【シルバーウィーク2026 富士山・関東グランピング】客室天然温泉＆富士絶景ドームテントおすすめ厳選 ｜ 日本全国・旅宿クラウド",
   description:
     "9月シルバーウィークに行きたい関東・富士五湖周辺の最高峰グランピング特集！部屋から富士山を望む大型ドームテント、客室専用の天然温泉露天風呂、焚き火と秋風を楽しむラグジュアリーステイ予約ガイド。",
-  keywords: [
-    "シルバーウィーク グランピング 富士山",
-    "関東 グランピング 温泉付き 客室露天風呂",
-    "富士五湖 グランピング ドームテント",
-    "山中湖 グランピング 富士山ビュー",
-    "河口湖 グランピング シルバーウィーク 予約",
-    "秋 グランピング 関東 連休 旅行",
-    "ラグジュアリー グランピング 焚き火 星空",
-  ],
+  keywords: ["シルバーウィーク2026", "富士山", "関東グランピング", "客室天然温泉", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
 
 interface Hotel {

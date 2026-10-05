@@ -5,7 +5,7 @@
 ## 都道府県別ファイル
 - [北海道（114件）](https://croud-travel.pages.dev/llms/01.txt)
 - [青森県（54件）](https://croud-travel.pages.dev/llms/02.txt)
-- [岩手県（49件）](https://croud-travel.pages.dev/llms/03.txt)
+- [岩手県（50件）](https://croud-travel.pages.dev/llms/03.txt)
 - [宮城県（44件）](https://croud-travel.pages.dev/llms/04.txt)
 - [秋田県（47件）](https://croud-travel.pages.dev/llms/05.txt)
 - [山形県（65件）](https://croud-travel.pages.dev/llms/06.txt)

@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/gunma-shima-onsen-okushima-lake-stay/" },
   title: "【群馬・四万温泉＆奥四万湖】奇跡の四万ブルー・千と千尋レトロ木造湯宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "四万の病を癒やす霊泉と息を呑むコバルトブルー・群馬四万温泉エリア完全特化！奇跡の水鏡「奥四万湖（四万ブルー・カヌー）」、現存日本最古の木造湯宿建築「積善館」、日向見薬師堂、飲泉・胃腸の名湯と上州牛宿を徹底解説。",
-  keywords: ["gunma-shima-onsen-okushima-lake-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["群馬", "四万温泉", "奥四万湖", "奇跡の四万ブルー", "千と千尋レトロ木造湯宿", "温泉宿", "宿泊予約"],
 };
 
 function loadSeasonalHotels() {

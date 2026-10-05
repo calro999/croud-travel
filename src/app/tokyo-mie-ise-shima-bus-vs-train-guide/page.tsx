@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/tokyo-mie-ise-shima-bus-vs-train-guide/" },
   title: "【東京〜伊勢神宮・鳥羽】新幹線＋近鉄特急 vs 直行夜行バス徹底比較！片道4,000円〜行くお伊勢参り＆おかげ横丁1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
   description: "東京から伊勢神宮・鳥羽へ行くなら近鉄特急と直行夜行バスどっちがお得？料金・所要時間比較！早朝の外宮・内宮早朝参拝とおかげ横丁食べ歩き、鳥羽・伊勢志摩の温泉リゾートを満喫する1泊2日モデルコース。",
-  keywords: ["tokyo-mie-ise-shima-bus-vs-train-guide", "高速バス", "バスツアー", "新幹線 比較", "安く行く方法", "1泊2日 モデルコース", "宿泊予約", "楽天トラベル"],
+  keywords: ["東京〜伊勢神宮", "鳥羽", "新幹線＋近鉄特急", "vs", "おかげ横丁1泊2日モデルコース", "温泉宿", "宿泊予約"],
 };
 
 function loadHotels() {

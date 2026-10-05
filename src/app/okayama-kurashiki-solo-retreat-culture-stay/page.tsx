@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/okayama-kurashiki-solo-retreat-culture-stay/" },
   title: '【岡山・倉敷ひとり旅＆出張】岡山駅直結・倉敷美観地区・大浴場！白壁の街と日本庭園に癒やされる大人のおこもり宿 厳選3選',
   description: '山陽新幹線のハブステーション・岡山と、白壁土蔵が連なる風情の街・倉敷！「岡山駅直結で四国・山陰連絡にも最強のランドマーク」を誇る「ホテルグランヴィア岡山」、倉敷美観地区すぐ隣で木造クラシカルの風格を持つ「倉敷国際ホテル」、最上階に庭園大浴場を備えた「三井ガーデンホテル岡山」を徹底特集。',
   keywords: '岡山 出張 ホテル おすすめ,倉敷 一人旅 ホテル,ホテルグランヴィア岡山 宿泊,倉敷国際ホテル 美観地区,三井ガーデンホテル岡山 大浴場',

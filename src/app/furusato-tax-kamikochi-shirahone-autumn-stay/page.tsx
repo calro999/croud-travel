@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '上高地・河童橋の黄金カラマツ紅葉と梓川清流＆「３日入れば３年風邪ひかぬ」白骨温泉・信州牛 | クラウドトラベルふるさと納税',
   description: '10月中旬〜11月上旬に梓川沿いのカラマツ林が黄金に輝く上高地。霊峰乗鞍岳の山麓に湧く乳白色の秘湯「白骨温泉」で、源泉かけ流しの湯浴みと信州プレミアム牛・温泉粥会席をふるさと納税で堪能する秋旅。',
-  keywords: ['上高地・乗鞍・白骨温泉 紅葉 観光', '長野県 10月 11月 旅行', '上高地黄金カラマツ紅葉＆白骨温泉信州牛', 'ふるさと納税 温泉宿泊券', '白骨温泉 小梨の湯 笹屋', '白骨温泉 お宿つるや （旧：つるや旅館）', '白骨温泉 白船グランドホテル', '楽天ふるさと納税 宿泊クーポン'],
+  keywords: ["上高地", "信州牛", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-kamikochi-shirahone-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-kamikochi-shirahone-autumn-stay/",
   },
   openGraph: {
     title: '上高地・河童橋の黄金カラマツ紅葉と梓川清流＆「３日入れば３年風邪ひかぬ」白骨温泉・信州牛',

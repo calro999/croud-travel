@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/aomori-shimokita-osorezan-oma-stay/" },
   title: "【青森・下北半島＆恐山・大間】本州最北端大間マグロ・日本三大霊場恐山宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "本州最果ての秘境と黒いダイヤモンド・青森下北半島エリア完全特化！日本三大霊場「恐山（宇曽利湖・恐山温泉）」、本州最北端「大間崎・大間まぐろ一本釣り」、国の名勝「仏ヶ浦」、白濁硫黄泉「下風呂温泉郷宿」を徹底解説。",
-  keywords: ["aomori-shimokita-osorezan-oma-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["青森", "下北半島", "恐山", "大間", "本州最北端大間マグロ", "日本三大霊場恐山宿", "温泉宿"],
 };
 
 function loadSeasonalHotels() {

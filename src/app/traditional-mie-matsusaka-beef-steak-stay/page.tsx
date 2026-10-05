@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】肉の芸術品・特選松阪牛！炭火ステーキ・すき焼き会席＆伊勢志摩・鳥羽の極上宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！日本最高峰のブランド和牛「松阪牛」の極上サーロインステーキ＆すき焼き！伊勢神宮参拝と鳥羽・賢島オーシャンビュー温泉旅館5選。',
-  keywords: ["松阪牛","松阪牛ステーキ","伊勢志摩温泉","鳥羽温泉","伊勢神宮","英虞湾","楽天トラベル"],
+  keywords: ["2026年", "肉の芸術品", "特選松阪牛！炭火ステーキ", "すき焼き会席", "伊勢志摩", "鳥羽の極上宿5選", "日本全国"],
   openGraph: {
     title: '【2026年】肉の芸術品・特選松阪牛！炭火ステーキ・すき焼き会席＆伊勢志摩・鳥羽の極上宿5選',
     description: '2026年最新！日本最高峰のブランド和牛「松阪牛」の極上サーロインステーキ＆すき焼き！伊勢神宮参拝と鳥羽・賢島オーシャンビュー温泉旅館5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/traditional-mie-matsusaka-beef-steak-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/traditional-mie-matsusaka-beef-steak-stay',
+    canonical: "https://croud-travel.pages.dev/traditional-mie-matsusaka-beef-steak-stay/",
   },
 };
 

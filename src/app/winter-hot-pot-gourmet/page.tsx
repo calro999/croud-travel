@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/winter-hot-pot-gourmet/" },
   title: "【冬のご馳走】あったかご当地鍋＆極上温泉旅館 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "冬の寒さを吹き飛ばす至福の鍋料理！秋田の比内地鶏きりたんぽ鍋、博多の濃厚水炊き＆もつ鍋、茨城大洗の濃厚あんこう鍋、山口下関のとらふぐちり鍋など、全国の絶品鍋と名湯宿を徹底解説。",
-  keywords: ["winter-hot-pot-gourmet", "宿泊予約", "温泉宿", "ホテル特集", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["冬のご馳走", "あったかご当地鍋", "極上温泉旅館", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
 
 function loadSeasonalHotels() {

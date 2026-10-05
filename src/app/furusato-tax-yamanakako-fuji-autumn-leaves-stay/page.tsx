@@ -4,20 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '富士山と紅葉の絶景コラボ！山中湖「夕焼けの渚紅葉まつり」＆忍野八海と温泉名宿×ふるさと納税完全ガイド【2026年最新秋旅】山梨',
   description: '10月下旬〜11月中旬に開催される山中湖「夕焼けの渚 紅葉まつり」！湖畔の旭日丘緑地公園を彩るもみじのライトアップと富士山の絶景、忍野八海の神秘的な湧水、名宿「しずく」「富士マリオットホテル山中湖」「秀山荘」で個室サウナや甲州ワイン牛を堪能。楽天ふるさと納税トラベルクーポンで実質2,000円。',
-  keywords: [
-    'ふるさと納税 温泉',
-    'ふるさと納税 宿泊券',
-    'ふるさと納税 トラベルクーポン',
-    '富士山中湖・紅葉まつり＆忍野八海特集',
-    '10月 旅行 おすすめ',
-    '11月 旅行 おすすめ',
-    '秋 旅行 温泉',
-    '紅葉 温泉旅館',
-    '楽天トラベル ふるさと納税',
-    '実質2000円 温泉'
-  ],
+  keywords: ["2026年最新秋旅", "山梨", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-yamanakako-fuji-autumn-leaves-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-yamanakako-fuji-autumn-leaves-stay/"
   },
   openGraph: {
     title: '富士山と紅葉の絶景コラボ！山中湖「夕焼けの渚紅葉まつり」＆忍野八海と温泉名宿×ふるさと納税完全ガイド【2026年最新秋旅】山梨',

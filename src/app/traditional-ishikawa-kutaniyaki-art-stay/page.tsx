@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "「ジャパン・クタニ」として世界を魅了する伝統工芸「九谷焼（くたにやき）」！緑・黄・赤・紫・紺青の五彩が美しい器で味わう日本海の極上海鮮会席と、開湯1300年の歴史を誇る加賀温泉郷の名湯に寛ぐ雅な旅。",
   keywords: "加賀温泉 九谷焼 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/traditional-ishikawa-kutaniyaki-art-stay',
+    canonical: "https://croud-travel.pages.dev/traditional-ishikawa-kutaniyaki-art-stay/",
   },
   openGraph: {
     title: "【九谷焼の鮮やかな器と加賀懐石】五彩の美学！山代・山中・片山津の加賀温泉郷名湯宿5選",

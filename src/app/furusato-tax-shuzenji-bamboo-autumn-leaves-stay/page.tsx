@@ -4,20 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '伊豆の小京都・修善寺温泉の竹林の小径紅葉＆桂川もみじ散策！登録文化財名宿×ふるさと納税完全ガイド【2026年最新秋旅】静岡',
   description: '11月中旬〜12月上旬に見頃を迎える伊豆随一の紅葉名所「修善寺温泉（しゅぜんじおんせん）」。竹林の小径や桂川の朱塗りの橋を彩るモミジ、修禅寺庭園の特別公開、国の登録有形文化財の老舗宿「新井旅館」「瑞の里 〇久旅館」「柳生の庄」で伊豆の地魚・天城軍鶏・わさび会席を堪能。ふるさと納税で実質2,000円。',
-  keywords: [
-    'ふるさと納税 温泉',
-    'ふるさと納税 宿泊券',
-    'ふるさと納税 トラベルクーポン',
-    '伊豆・修善寺温泉＆竹林の小径紅葉特集',
-    '10月 旅行 おすすめ',
-    '11月 旅行 おすすめ',
-    '秋 旅行 温泉',
-    '紅葉 温泉旅館',
-    '楽天トラベル ふるさと納税',
-    '実質2000円 温泉'
-  ],
+  keywords: ["伊豆の小京都", "修善寺温泉の竹林の小径紅葉", "2026年最新秋旅", "静岡", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-shuzenji-bamboo-autumn-leaves-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-shuzenji-bamboo-autumn-leaves-stay/"
   },
   openGraph: {
     title: '伊豆の小京都・修善寺温泉の竹林の小径紅葉＆桂川もみじ散策！登録文化財名宿×ふるさと納税完全ガイド【2026年最新秋旅】静岡',

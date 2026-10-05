@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '【2026年】日本の夕陽百選を独占！茜色の海と水平線に沈む夕日を望むオーシャンヴィラ5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！西伊豆・夕日ヶ浦・沖縄など、客室のテラスや露天風呂から水平線に沈む黄金の夕日とマジックアワーを独占できる絶景ヴィラ5選。',
-  keywords: ["夕日絶景","オーシャンヴィラ","サンセット露天","客室露天風呂","記念日旅行","楽天トラベル"],
+  keywords: ["2026年", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/super-panoramic-sunset-coastal-cliff-villa',
+    canonical: "https://croud-travel.pages.dev/super-panoramic-sunset-coastal-cliff-villa/",
   },
   openGraph: {
     title: '【2026年】日本の夕陽百選を独占！茜色の海と水平線に沈む夕日を望むオーシャンヴィラ5選',

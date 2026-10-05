@@ -5,17 +5,11 @@ import path from "path";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/usj-trip-packing-regrets-worst5-guide/" },
   title: "【USJ旅行で後悔したことワースト5】エクスプレスパスなしで大絶望！？ニンテンドー入場整理券＆必須持ち物",
   description:
     "ユニバーサル・スタジオ・ジャパンに行く前に必読のリアル後悔談！マリオエリアに入れなかった失敗、濡れるアトラクションでのカッパ忘れ、ロッカー小銭不足、公式アプリ設定とオフィシャルホテル前泊の重要性。",
-  keywords: [
-    "USJ 後悔 ワースト5",
-    "USJ エクスプレスパス 失敗",
-    "USJ ニンテンドーエリア 整理券",
-    "USJ 持ち物 カッパ ポンチョ",
-    "USJ オフィシャルホテル 楽天トラベル",
-    "ユニバ リアル失敗談"
-  ],
+  keywords: ["必須持ち物", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
 };
 
 interface Hotel {

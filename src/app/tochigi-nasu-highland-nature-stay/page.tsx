@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/tochigi-nasu-highland-nature-stay/" },
   title: "【栃木・那須高原】茶臼岳・御用邸の森＆ベーカリー・温泉リゾート 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "皇室の御用邸があるロイヤルリゾート・那須高原エリア完全特化！那須連山・茶臼岳ロープウェイ、殺生石、ペニーレインなど人気ベーカリーカフェ、那須温泉郷の鹿の湯（にごり湯）とクラシックホテルを徹底解説。",
-  keywords: ["tochigi-nasu-highland-nature-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["栃木", "那須高原", "茶臼岳", "御用邸の森", "ベーカリー", "温泉リゾート", "温泉宿"],
 };
 
 function loadSeasonalHotels() {

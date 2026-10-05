@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-bihada-onsen-stay/" },
   title: '日本三大美肌の湯＆とろとろ重曹泉・美肌会席宿×ふるさと納税完全ガイド【2026年最新】嬉野・斐乃上・喜連川',
   description: '浸かるだけでつるつる美肌！佐賀「嬉野温泉」ナトリウム炭酸水素塩泉の名湯と和多屋別荘、島根奥出雲「斐乃上温泉」pH9.9驚異の高アルカリ単純温泉と奥出雲町サイクリングターミナル、栃木さくら市「喜連川温泉」硫黄・塩分・重曹が織りなす良質な天然温泉とゴルフ＆ホテルベルセルバ。日本三大美肌の湯の極上湯治を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大美肌の湯・極上湯治特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',

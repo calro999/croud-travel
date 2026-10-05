@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "11月下旬から12月にかけて富山県・庄川峡は、両岸の断崖絶壁が白銀の雪化粧をまとい、水墨画のような幽玄の冬景色が広がります。庄川峡遊覧船（小牧ダム〜大牧）から望む雪景色と湖面の水鏡、開湯以来湯治客を癒やし続ける庄川清流温泉・鳥越温泉のにごり湯や炭酸泉、11月に本格シーズンを迎える富山湾の紅ズワイガニ、氷見・新湊直送の脂が乗った極上寒ブリの刺身とブリしゃぶ、宝石のような白えびのかき揚げ、富山牛のサーロインを堪能する名宿5選を徹底解説。",
   keywords: '庄川温泉 宿泊, 庄川峡遊覧船 冬, 富山 11月 12月 温泉, 庄川温泉郷 宿, 人肌の宿 川金, 三楽園, ゆめつづり, となみ野庄川荘一萬亭, 五箇山温泉 赤尾館, 富山湾 紅ズワイガニ 宿, 氷見 寒ブリ 庄川温泉',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-toyama-shogawa-onsen-snow-cruise-crab-stay'
+    canonical: "https://croud-travel.pages.dev/winter-toyama-shogawa-onsen-snow-cruise-crab-stay/"
   },
   openGraph: {
     title: "【11・12月富山・庄川温泉郷の雪見庄川峡遊覧船と冬の味覚】富山湾紅ズワイガニ・寒ブリ・白えび＆源泉美肌の宿5選",

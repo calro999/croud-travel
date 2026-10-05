@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '唐津くんち（11月国重要無形民俗文化財）の熱気と呼子イカ・唐津湾オーシャンビュー温泉 | クラウドトラベルふるさと納税',
   description: '11月2日〜4日に豪華絢爛な曳山が巡行する「唐津くんち」。呼子名物の透明な活きイカ姿造りと最高峰の佐賀牛・伊万里牛、唐津湾を一望する天然温泉をふるさと納税で堪能する秋の佐賀・北松浦旅。',
-  keywords: ['唐津・呼子・唐津湾 紅葉 観光', '佐賀県 10月 11月 旅行', '唐津くんち秋祭り＆呼子イカ・佐賀牛温泉', 'ふるさと納税 温泉宿泊券', '唐津シーサイドホテル', 'からつ温泉 かぐや姫の湯 旅館 綿屋', '嬉野温泉 和多屋別荘', '楽天ふるさと納税 宿泊クーポン'],
+  keywords: ["唐津湾オーシャンビュー温泉", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-karatsu-kunchi-yobuko-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-karatsu-kunchi-yobuko-autumn-stay/",
   },
   openGraph: {
     title: '唐津くんち（11月国重要無形民俗文化財）の熱気と呼子イカ・唐津湾オーシャンビュー温泉',

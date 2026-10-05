@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/japan-top-brand-wagyu-beef-stay/" },
   title: "【日本五大ブランド和牛の宿】松阪牛・神戸牛・米沢牛・近江牛・佐賀牛極上会席 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "日本最高峰のブランド黒毛和牛完全特化！松阪牛のすき焼き、神戸牛サーロイン鉄板焼き、米沢牛のしゃぶしゃぶ、近江牛の陶板焼き、佐賀牛ステーキと名門温泉旅館の贅沢会席プランを徹底解説。",
-  keywords: ["japan-top-brand-wagyu-beef-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["日本五大ブランド和牛の宿", "松阪牛", "神戸牛", "米沢牛", "近江牛", "佐賀牛極上会席", "温泉宿"],
 };
 
 function loadSeasonalHotels() {

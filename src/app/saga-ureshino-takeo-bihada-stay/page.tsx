@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/saga-ureshino-takeo-bihada-stay/" },
   title: "【佐賀・嬉野温泉＆武雄温泉】日本三大美肌の湯・温泉湯豆腐＆楼門・嬉野茶宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "西九州の二大名湯・佐賀嬉野温泉＆武雄温泉エリア完全特化！日本三大美肌の湯「嬉野温泉」、とろける「温泉湯どうふ」、辰野金吾設計の国重要文化財「武雄温泉楼門」、御船山楽園、嬉野茶と老舗名門旅館を徹底解説。",
-  keywords: ["saga-ureshino-takeo-bihada-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["佐賀", "嬉野温泉", "武雄温泉", "日本三大美肌の湯", "温泉湯豆腐", "楼門", "嬉野茶宿"],
 };
 
 function loadSeasonalHotels() {

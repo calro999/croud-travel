@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/autumn-wine-fruit-hunting/" },
   title: "【秋の味覚狩り】ワイナリー巡り＆フルーツ温泉リゾート 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "収穫の秋を満喫！山梨勝沼・石和温泉（新酒ワインとぶどう狩り）、信州千曲川ワインバレー、北海道余市、岡山果実郷など、秋のワイナリーツアーとフルーツ狩り・温泉を満喫できる人気宿を徹底解説。",
-  keywords: ["autumn-wine-fruit-hunting", "宿泊予約", "温泉宿", "ホテル特集", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["秋の味覚狩り", "ワイナリー巡り", "フルーツ温泉リゾート", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
 
 function loadSeasonalHotels() {

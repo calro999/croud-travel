@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-bell-towers-historic-stay/" },
   title: '日本三大名鐘＆心の琴線に響く梵鐘・悠久の寺町宿×ふるさと納税完全ガイド【2026年最新】知恩院・平等院・三井寺',
   description: '澄んだ音色と歴史の重みを感じる日本三大名鐘巡り！京都東山「知恩院・大鐘楼」大晦日の除夜の鐘で知られる日本最大級の鐘と知恩院和順会館、京都宇治「平等院」天人の姿が浮彫にされた国宝名鐘と花やしき浮舟園、滋賀大津「三井寺」弁慶の引き摺り鐘と近江八景の晩鐘・びわ湖大津プリンスホテル。心洗われる鐘の余韻と古都の風情を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大名鐘・古寺祈り特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',

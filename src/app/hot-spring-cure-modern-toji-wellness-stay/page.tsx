@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '【2026年】現代湯治＆ウェルネスリトリート！心と体を根本から整える極上ヘルスケア温泉宿5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！伝統の湯治文化を現代風にアップデート。薬草ハーブ湯・玄米自然食・ヨガやファスティングプランが充実した心身リセット温泉宿5選。',
-  keywords: ["現代湯治","リトリート","薬草温泉","自然食","デトックス","楽天トラベル"],
+  keywords: ["2026年", "現代湯治", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/hot-spring-cure-modern-toji-wellness-stay',
+    canonical: "https://croud-travel.pages.dev/hot-spring-cure-modern-toji-wellness-stay/",
   },
   openGraph: {
     title: '【2026年】現代湯治＆ウェルネスリトリート！心と体を根本から整える極上ヘルスケア温泉宿5選',

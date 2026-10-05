@@ -4,20 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '上高地・大正池の黄金カラマツ黄葉＆初冠雪の穂高連峰！白骨温泉乳白秘湯×ふるさと納税完全ガイド【2026年最新秋旅】長野',
   description: '10月中旬〜11月上旬に日本屈指の山岳景観が黄金に輝く「信州・上高地」。大正池や田代湿原・河童橋を彩るカラマツ黄葉と冠雪した穂高連峰の絶景、3日入れば3年風邪をひかないと言われる名湯「白骨温泉 小梨の湯 笹屋」「お宿つるや」「白船グランドホテル」で信州プレミアム牛肉や岩魚塩焼きを堪能。ふるさと納税で実質2,000円。',
-  keywords: [
-    "ふるさと納税 温泉",
-    "ふるさと納税 宿泊券",
-    "ふるさと納税 トラベルクーポン",
-    "長野・上高地カラマツ黄葉＆白骨温泉乳白秘湯特集",
-    "10月 旅行 おすすめ",
-    "11月 旅行 おすすめ",
-    "秋 旅行 温泉",
-    "上高地 カラマツ 黄葉 白骨温泉 秘湯 旅館",
-    "楽天トラベル ふるさと納税",
-    "実質2000円 温泉"
-],
+  keywords: ["上高地", "大正池の黄金カラマツ黄葉", "2026年最新秋旅", "長野", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-kamikochi-karamatsu-shirahone-onsen-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-kamikochi-karamatsu-shirahone-onsen-stay/"
   },
   openGraph: {
     title: '上高地・大正池の黄金カラマツ黄葉＆初冠雪の穂高連峰！白骨温泉乳白秘湯×ふるさと納税完全ガイド【2026年最新秋旅】長野',

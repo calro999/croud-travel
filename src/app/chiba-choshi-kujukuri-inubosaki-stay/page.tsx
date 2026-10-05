@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/chiba-choshi-kujukuri-inubosaki-stay/" },
   title: "【千葉・銚子＆九十九里・犬吠埼】本州一早い日の出・犬吠埼灯台＆銚子電鉄・金目鯛宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "太平洋の水平線パノラマと海の幸王国・千葉銚子＆九十九里エリア完全特化！本州平地で一番早い日の出「犬吠埼灯台」、東洋のドーバー「屏風ヶ浦」、レトロな「銚子電鉄」、犬吠埼天然温泉、名物「銚子つりきんめ・九十九里ハマグリ宿」を徹底解説。",
-  keywords: ["chiba-choshi-kujukuri-inubosaki-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["千葉", "銚子", "九十九里", "犬吠埼", "本州一早い日の出", "犬吠埼灯台", "銚子電鉄"],
 };
 
 function loadSeasonalHotels() {

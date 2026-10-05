@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/tokyo-aomori-bus-vs-shinkansen-guide/" },
   title: "【東京〜青森・弘前】新幹線はやぶさ vs 夜行バス徹底比較！料金半額以下の夜行旅＆奥入瀬渓流・弘前城1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
   description: "東京から青森・弘前へ安く行くには？東北新幹線「はやぶさ」と夜行高速バス（ノクターン号・JAMJAMライナー）の料金・所要時間比較！片道4,000円台〜の夜行バスで大間まぐろ丼、奥入瀬渓流、弘前アップルパイを満喫する1泊2日モデルコース。",
-  keywords: ["tokyo-aomori-bus-vs-shinkansen-guide", "高速バス", "バスツアー", "新幹線 比較", "安く行く方法", "1泊2日 モデルコース", "宿泊予約", "楽天トラベル"],
+  keywords: ["東京〜青森", "弘前", "新幹線はやぶさ", "vs", "奥入瀬渓流", "弘前城1泊2日モデルコース", "温泉宿"],
 };
 
 function loadHotels() {

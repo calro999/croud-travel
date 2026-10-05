@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】本場讃岐うどん巡礼！こんぴら温泉郷＆香川グルメを堪能する極上名宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！金刀比羅宮の参拝と名店うどん巡り！讃岐コーチンや讃岐牛の会席、こんぴら温泉郷の美肌名湯で癒やされる香川のおすすめ旅館5選。',
-  keywords: ["讃岐うどん","こんぴら温泉","金刀比羅宮","香川旅行","讃岐牛","温泉旅館","楽天トラベル"],
+  keywords: ["2026年", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
     title: '【2026年】本場讃岐うどん巡礼！こんぴら温泉郷＆香川グルメを堪能する極上名宿5選',
     description: '2026年最新！金刀比羅宮の参拝と名店うどん巡り！讃岐コーチンや讃岐牛の会席、こんぴら温泉郷の美肌名湯で癒やされる香川のおすすめ旅館5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/traditional-sanuki-udon-gourmet-onsen-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/traditional-sanuki-udon-gourmet-onsen-stay',
+    canonical: "https://croud-travel.pages.dev/traditional-sanuki-udon-gourmet-onsen-stay/",
   },
 };
 

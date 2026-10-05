@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/shizuoka-shuzenji-solo-retreat-onsen-stay/" },
   title: '【修善寺温泉ひとり旅・伊豆小京都おこもり】竹林の小径・国の登録文化財・桂川渓流露天！千二百年の歴史に抱かれる大人の隠れ宿厳選3宿',
   description: '伊豆の小京都・修善寺！全館が国の登録有形文化財で天平大浴堂が圧巻の「新井旅館」、一万五千坪の日本庭園とモダンな美空間が評判の「宙 SORA 渡月荘金龍」、桂川沿いで多彩な湯めぐりを楽しめる共立リゾート「修善寺温泉 桂川」を楽天API最新データに基づき徹底比較。',
   keywords: '修善寺温泉 一人旅 宿,修善寺 ホテル 一人 温泉,新井旅館 修善寺,宙SORA渡月荘金龍,修善寺 桂川,修善寺 竹林の小径 ひとり旅',

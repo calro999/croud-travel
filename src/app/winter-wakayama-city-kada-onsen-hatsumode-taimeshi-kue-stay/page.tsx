@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   description: "冬の和歌山・加太エリアは、紀淡海峡の彼方に沈む鮮やかな夕陽と友ヶ島のシルエットが旅情をかきたて、神代の歴史を誇る紀伊国一之宮「日前神宮・國懸神宮」の新春開運初詣で新年を迎える特別な季節。11月下旬の晩秋から1月にかけて、一本釣りで知られる加太の寒真鯛（鯛しゃぶ・鯛釜飯）や紀州沖の幻の高級魚・天然本クエ鍋、極上の熊野牛が旬を迎えます。美肌効果抜群のとろみある重曹泉・加太温泉に浸かり、徳川御三家の城下町の歴史と海の幸に酔いしれる冬の贅沢旅。楽天APIから最新取得した信頼の名宿5選を徹底特集します。",
   keywords: '和歌山 ホテル, 加太温泉 旅館, 日前神宮 初詣, 紀淡海峡 夕日, 加太 鯛料理, 休暇村紀州加太, 加太海月, ダイワロイネットホテル和歌山, 11月 12月 1月 和歌山 観光',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-wakayama-city-kada-onsen-hatsumode-taimeshi-kue-stay'
+    canonical: "https://croud-travel.pages.dev/winter-wakayama-city-kada-onsen-hatsumode-taimeshi-kue-stay/"
   },
   openGraph: {
     title: "【11・12・1月和歌山加太】冬の日前神宮新春開運初詣＆紀淡海峡夕陽絶景！加太温泉名湯と冬の天然真鯛・幻のクエに寛ぐ名宿5選",

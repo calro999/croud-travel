@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/japan-post-town-nakasendo-edo-highway-stay/" },
   title: "【中山道・木曽路の宿場町＆旧街道宿】妻籠宿・馬籠宿・奈良井宿・大内宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "江戸時代の街道情緒にタイムスリップ！中山道木曽路の「妻籠宿」「馬籠宿」「奈良井宿（千軒宿）」、福島会津の茅葺き宿場「大内宿」、歴史ある本陣・脇本陣、出桁造りの古民家宿・木曽ひのき風呂を徹底解説。",
-  keywords: ["japan-post-town-nakasendo-edo-highway-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["中山道", "木曽路の宿場町", "旧街道宿", "妻籠宿", "馬籠宿", "奈良井宿", "大内宿"],
 };
 
 function loadSeasonalHotels() {

@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/hiroshima-onomichi-shimanami-mukoujima-stay/" },
   title: "【広島・尾道＆しまなみ海道向島】千光寺坂の街・猫の細道＆尾道ラーメン・サイクリング宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "瀬戸内のノスタルジーとサイクリストの聖地・広島尾道＆しまなみ海道向島エリア完全特化！千光寺公園ロープウェイ、猫の細道、尾道水道の夕陽、しまなみ海道サイクリング、名物「尾道ラーメン・瀬戸内レモン・鯛めし宿」を徹底解説。",
-  keywords: ["hiroshima-onomichi-shimanami-mukoujima-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["広島", "尾道", "しまなみ海道向島", "千光寺坂の街", "猫の細道", "尾道ラーメン", "サイクリング宿"],
 };
 
 function loadSeasonalHotels() {

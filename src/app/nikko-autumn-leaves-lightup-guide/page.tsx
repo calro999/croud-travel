@@ -5,18 +5,11 @@ import path from "path";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/nikko-autumn-leaves-lightup-guide/" },
   title: "【日光・いろは坂 紅葉2026見頃完全マップ】大渋滞回避の時間帯・中禅寺湖ライトアップ＆奥日光硫黄泉の宿 ｜ 日本全国・旅宿クラウド",
   description:
     "2026年秋の日光紅葉狩り完全攻略！いろは坂・明智平・竜頭の滝・湯ノ湖の見頃時期（10月上旬〜11月上旬）、早朝6時通過で大渋滞を回避する裏ワザ、中禅寺湖畔の乳白色硫黄泉旅館まとめ。",
-  keywords: [
-    "日光 紅葉 2026",
-    "いろは坂 渋滞 回避",
-    "中禅寺湖 ライトアップ",
-    "明智平ロープウェイ 見頃",
-    "奥日光 湯元温泉 乳白色",
-    "竜頭の滝 紅葉",
-    "日光 楽天トラベル 紅葉バスツアー",
-  ],
+  keywords: ["日光", "いろは坂", "紅葉2026見頃完全マップ", "大渋滞回避の時間帯", "中禅寺湖ライトアップ", "奥日光硫黄泉の宿", "温泉宿"],
 };
 
 interface Hotel {

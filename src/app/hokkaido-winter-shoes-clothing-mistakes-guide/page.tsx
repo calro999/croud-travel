@@ -4,17 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/hokkaido-winter-shoes-clothing-mistakes-guide/" },
   title: "【冬の北海道旅行 滑らない靴＆防寒着の失敗談】着膨れして室内で大汗！？氷道で転ばない完全防備マニュアル ｜ 日本全国・旅宿クラウド",
   description: "冬の北海道（札幌・小樽・旭川）で後悔しないための服装・靴選び！ツルツル氷道で滑らないスノーブーツの選び方、外氷点下×室内25度の温度差対策、スマホバッテリー急減対策、駅直結地下街ホテルまとめ。",
-  keywords: [
-    "北海道 冬 服装 失敗",
-    "冬 北海道 靴 滑らない",
-    "スノーブーツ 札幌",
-    "北海道旅行 持ち物 冬",
-    "北海道 室内 暑い 汗",
-    "氷道 歩き方 コツ",
-    "札幌駅直結 ホテル"
-  ],
+  keywords: ["冬の北海道旅行", "滑らない靴", "防寒着の失敗談", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
 
 interface Hotel {

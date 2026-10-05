@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '伯耆大山の紅葉ドライブと皆生温泉！11月解禁の松葉がに・鳥取和牛・白砂青松の海辺露天風呂 | クラウドトラベルふるさと納税',
   description: '10月・11月の鳥取・大山＆皆生温泉特集！中国地方最高峰・伯耆大山（大山環状道路）のブナ林紅葉、日本海を望む塩化物泉・皆生温泉の海辺露天風呂、11月解禁の鳥取松葉がにと鳥取和牛オレイン55をふるさと納税で味わう旅。',
-  keywords: ['米子・皆生温泉・伯耆大山 紅葉 観光', '鳥取県 10月 11月 旅行', '鳥取・大山＆皆生温泉特集', 'ふるさと納税 温泉宿泊券', '皆生温泉　皆生シーサイドホテル　海の四季', '皆生温泉　皆生菊乃家', '皆生温泉　湯喜望　白扇', '楽天ふるさと納税 宿泊クーポン'],
+  keywords: ["鳥取和牛", "白砂青松の海辺露天風呂", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-daisen-kaike-autumn-crab-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-daisen-kaike-autumn-crab-stay/",
   },
   openGraph: {
     title: '伯耆大山の紅葉ドライブと皆生温泉！11月解禁の松葉がに・鳥取和牛・白砂青松の海辺露天風呂',

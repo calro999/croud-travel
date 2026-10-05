@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '伊豆の小京都・修善寺温泉の竹林もみじライトアップ＆虹の郷紅葉まつり・伊豆天城軍鶏会席 | クラウドトラベルふるさと納税',
   description: '11月中旬〜12月上旬に伊豆随一の紅葉を迎える修善寺温泉街と虹の郷もみじライトアップ。桂川沿いの老舗温泉旅館で、名湯「独鈷の湯」ゆかりの美肌湯と伊豆天城軍鶏・伊豆牛をふるさと納税で堪能。',
-  keywords: ['伊豆・修善寺・虹の郷 紅葉 観光', '静岡県 10月 11月 旅行', '修善寺温泉虹の郷紅葉＆伊豆天城軍鶏', 'ふるさと納税 温泉宿泊券', '伊豆・修善寺温泉 ホテル滝亭', '修善寺温泉 五葉館', '修善寺温泉 国の登録文化財の宿 新井旅館', '楽天ふるさと納税 宿泊クーポン'],
+  keywords: ["伊豆の小京都", "虹の郷紅葉まつり", "伊豆天城軍鶏会席", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-shuzenji-nijinosato-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-shuzenji-nijinosato-autumn-stay/",
   },
   openGraph: {
     title: '伊豆の小京都・修善寺温泉の竹林もみじライトアップ＆虹の郷紅葉まつり・伊豆天城軍鶏会席',

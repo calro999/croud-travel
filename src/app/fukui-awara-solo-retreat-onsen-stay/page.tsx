@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/fukui-awara-solo-retreat-onsen-stay/" },
   title: '【あわら温泉ひとり旅・関西の奥座敷おこもり】74本もの独自源泉・庭園露天風呂・越前がにと若狭牛！北陸新幹線延伸で注目の名湯厳選3宿',
   description: '関西・中京の奥座敷として愛され続ける福井屈指の名湯・あわら温泉！大浴場や露天風呂で自家源泉をゆったり堪能できる名宿「越前あわら温泉 長谷川」、北陸最大級の庭園露天風呂や多彩な湯殿を誇る「北陸 福井 あわら温泉 美松」、落ち着いた木造の温もりと静寂が魅力の「あわら温泉 みのや泰平閣」を楽天API最新データに基づき徹底比較。',
   keywords: 'あわら温泉 一人旅 宿,あわら温泉 ホテル 一人,越前あわら温泉 長谷川,あわら温泉 美松,みのや泰平閣,あわら温泉 ひとり旅 おこもり',

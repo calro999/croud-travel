@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "環境省が認定した「日本一星が輝いて見える村」長野県阿智村。11月・12月は空気が最も澄み渡り、息をのむ満天の天の川と星座が広がるベストシーズン。「美肌の湯」として名高いpH9.7の昼神温泉と、信州プレミアム牛や炉端会席を堪能する感動の星空冬旅ガイド。",
   keywords: '阿智村 星空ツアー 宿泊 11月 12月, 昼神温泉 旅館 冬, 阿智村 ナイトツアー ホテル, 長野 星空 温泉, 昼神温泉 美肌湯, ヘブンスそのはら 冬, 昼神温泉 モデルコース',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-nagano-achimura-hirugami-starry-sky-stay',
+    canonical: "https://croud-travel.pages.dev/winter-nagano-achimura-hirugami-starry-sky-stay/",
   },
   openGraph: {
     title: "【11・12月阿智村の日本一の星空ナイトツアー】昼神温泉の極上美肌湯と南信州冬の味覚宿5選",

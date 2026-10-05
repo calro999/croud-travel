@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/book-hotel-library-stay-reading-retreat/" },
   title: "【週末おこもり・読書＆ブックホテル】数万冊の本に囲まれるライブラリー宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "本の世界に没頭する最高のおこもり休日！ブックホテル＆ライブラリー温泉宿完全特化！箱根「箱根本箱」、蔵書数万冊の温泉ライブラリーリゾート、ブックカフェ併設デザイナーズホテル、読書専用ラウンジ宿を徹底解説。",
-  keywords: ["book-hotel-library-stay-reading-retreat", "女性一人旅", "ソロ活", "ご褒美ステイ", "温泉宿", "楽天トラベル"],
+  keywords: ["週末おこもり", "読書", "ブックホテル", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
 
 function loadSeasonalHotels() {

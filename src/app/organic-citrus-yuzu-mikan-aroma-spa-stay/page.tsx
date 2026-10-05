@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '【2026年】甘酸っぱい柚子・みかんの香りに包まれる！名産柑橘風呂＆アロマスパ温泉宿5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！愛媛や高知、湯河原などの特産ゆず・みかんを浮かべた爽快な柑橘温泉風呂と、天然精油アロマトリートメントで心癒やされる宿5選。',
-  keywords: ["柑橘風呂","柚子湯","アロマスパ","美肌温泉","リフレッシュ旅","楽天トラベル"],
+  keywords: ["2026年", "甘酸っぱい柚子", "アロマスパ温泉宿5選", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/organic-citrus-yuzu-mikan-aroma-spa-stay',
+    canonical: "https://croud-travel.pages.dev/organic-citrus-yuzu-mikan-aroma-spa-stay/",
   },
   openGraph: {
     title: '【2026年】甘酸っぱい柚子・みかんの香りに包まれる！名産柑橘風呂＆アロマスパ温泉宿5選',

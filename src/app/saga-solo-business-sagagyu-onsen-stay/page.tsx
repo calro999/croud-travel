@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/saga-solo-business-sagagyu-onsen-stay/" },
   title: '【佐賀出張・男一人旅】お濠の水辺ビュー・佐賀牛グルメ・駅前快適ビジネス！城下町の静けさで整う厳選3宿',
   description: '博多駅からJR特急でわずか約40分！佐賀城のお濠沿いに佇むシティリゾート「ホテルニューオータニ佐賀」、JR佐賀駅北口徒歩1分の圧倒的利便性を誇る「コンフォートホテル佐賀」、リーズナブルで安心設備の「ホテル グランデはがくれ」を楽天APIデータに基づき徹底比較。',
   keywords: '佐賀 出張 ホテル,佐賀 ホテル 一人旅,ホテルニューオータニ佐賀,コンフォートホテル佐賀,ホテルグランデはがくれ,佐賀牛 シシリアンライス',

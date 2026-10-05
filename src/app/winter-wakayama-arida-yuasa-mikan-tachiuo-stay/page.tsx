@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   description: "山々が黄金色に輝くみかんの郷と醤油発祥の日本遺産を巡る11〜1月の和歌山・有田＆湯浅特集。山一面に果実が実る11〜12月の「有田みかん」や「有田みかん海道」の絶景ドライブ、国の重要伝統的建造物群保存地区に指定された「湯浅の町並み」の冬情趣。全国一の水揚げを誇る箕島漁港の「冬の紀州一本釣り太刀魚」、冬の味覚の王様「天然本クエ鍋」、極上の「熊野牛」。紀伊水道の茜色の夕日を望む温泉名宿5選を完全ガイドします。",
   keywords: '有田みかん 観光, 有田みかん海道 ドライブ, 湯浅 醤油発祥 重伝建, 箕島 太刀魚 宿, 湯浅温泉 湯浅城, 紀州 クエ鍋 宿, 熊野牛 和歌山, 栖原海岸 夕日, 和歌山 冬 旅行',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-wakayama-arida-yuasa-mikan-tachiuo-stay'
+    canonical: "https://croud-travel.pages.dev/winter-wakayama-arida-yuasa-mikan-tachiuo-stay/"
   },
   openGraph: {
     title: "【11・12・1月和歌山】有田みかん海道と重伝建・湯浅の醤油蔵通り！箕島漁港直送「紀州一本釣り太刀魚・本クエ鍋・熊野牛」と栖原海岸夕景名宿5選",

@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '冬の贅沢の極み！本場下関の天然とらふぐ刺し・白子焼き・ひれ酒を堪能する名宿 ｜ 日本全国・旅宿クラウド',
   description: '下関・臼杵・日間賀島など本場のとらふぐを贅沢に味わい尽くす冬の温泉旅。皿が透けるほど美しいふぐ刺し（てっさ）、香ばしい焼き白子とひれ酒。',
-  keywords: ["ふぐ料理","とらふぐ","下関ふぐ","ひれ酒","冬グルメ","温泉会席"],
+  keywords: ["白子焼き", "ひれ酒を堪能する名宿", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/winter-fugu-pufferfish-gourmet-onsen-stay',
+    canonical: "https://croud-travel.pages.dev/winter-fugu-pufferfish-gourmet-onsen-stay/",
   },
   openGraph: {
     title: '冬の贅沢の極み！本場下関の天然とらふぐ刺し・白子焼き・ひれ酒を堪能する名宿',

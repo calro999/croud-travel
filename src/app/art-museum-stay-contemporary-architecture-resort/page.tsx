@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '【2026年】名建築と現代アートに泊まる！美術館直結・デザイナーズ温泉ホテル5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！直島・箱根・十和田など、世界的建築家が手がけた名建築とアート作品に囲まれ、上質な温泉と美食を楽しむ大人のアートステイ5選。',
-  keywords: ["アートホテル","デザイナーズホテル","名建築","美術館巡り","温泉リゾート","楽天トラベル"],
+  keywords: ["2026年", "デザイナーズ温泉ホテル5選", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/art-museum-stay-contemporary-architecture-resort',
+    canonical: "https://croud-travel.pages.dev/art-museum-stay-contemporary-architecture-resort/",
   },
   openGraph: {
     title: '【2026年】名建築と現代アートに泊まる！美術館直結・デザイナーズ温泉ホテル5選',

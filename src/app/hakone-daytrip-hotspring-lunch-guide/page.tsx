@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/hakone-daytrip-hotspring-lunch-guide/" },
   title: "【箱根 日帰り温泉 ランチ付きおすすめ】個室休憩＆貸切風呂・老舗旅館の贅沢日帰りプラン完全比較 ｜ 日本全国・旅宿クラウド",
   description: "箱根の日帰り温泉ランチ付きプランを徹底解説！箱根湯本駅チカ旅館の懐石ランチ、強羅のにごり湯＆個室付きプラン、絶景露天風呂と湯葉料理がセットになった日帰り贅沢ステイの料金・予約方法。",
-  keywords: ["hakone-daytrip-hotspring-lunch-guide", "箱根 日帰り温泉 ランチ付き", "箱根湯本 個室休憩", "強羅 貸切風呂", "日帰りプラン", "楽天トラベル"],
+  keywords: ["箱根", "日帰り温泉", "ランチ付きおすすめ", "個室休憩", "貸切風呂", "温泉宿", "宿泊予約"],
 };
 
 interface Hotel {

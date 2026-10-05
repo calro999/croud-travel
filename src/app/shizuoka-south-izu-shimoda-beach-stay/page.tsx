@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/shizuoka-south-izu-shimoda-beach-stay/" },
   title: "【静岡・南伊豆＆下田・ヒリゾ浜】開国の港街・白浜海岸＆秘境シュノーケリング・金目鯛宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "伊豆半島最南端のエメラルドグリーンパラダイス・南伊豆＆下田エリア完全特化！ペリー来航の歴史「下田ペリーロード」、本州屈指の透明度「ヒリゾ浜」、白砂の「白浜大浜海岸」、石廊崎オーシャンパーク、下田温泉・南伊豆金目鯛宿を徹底解説。",
-  keywords: ["shizuoka-south-izu-shimoda-beach-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["静岡", "南伊豆", "下田", "ヒリゾ浜", "開国の港街", "白浜海岸", "秘境シュノーケリング"],
 };
 
 function loadSeasonalHotels() {

@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/kominka-villa-kura-sauna-stay/" },
   title: "【古民家一棟貸し・蔵サウナの宿】築100年再生邸宅・プライベート薪サウナ 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "贅沢な古民家一棟貸し＆プライベートサウナ宿完全特化！築100年以上の重厚な古民家リノベーション、蔵を改装した本格セルフロウリュ薪サウナ、地下水掛け流し水風呂、囲炉裏炭火焼きと星空外気浴を徹底解説。",
-  keywords: ["kominka-villa-kura-sauna-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["古民家一棟貸し", "蔵サウナの宿", "築100年再生邸宅", "プライベート薪サウナ", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
 
 function loadSeasonalHotels() {

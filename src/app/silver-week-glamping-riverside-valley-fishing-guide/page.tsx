@@ -5,19 +5,11 @@ import path from "path";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-riverside-valley-fishing-guide/" },
   title: "【清流・渓谷リバーサイドグランピング】川のせせらぎに癒やされる！イワナ釣り＆川遊び体験 ｜ 日本全国・旅宿クラウド",
   description:
     "マイナスイオンたっぷりの渓谷美！清流の目の前に建つドームテント、初心者でも釣れる渓流釣り場、釣った魚をその場で炭火塩焼きにするアウトドア体験。奥多摩・秩父・丹沢のおすすめ施設特集。",
-  keywords: [
-    "リバーサイド グランピング",
-    "渓流 釣り グランピング",
-    "イワナ ヤマメ 塩焼き キャンプ",
-    "川遊び グランピング 関東",
-    "奥多摩 秩父 丹沢 グランピング",
-    "せせらぎ 癒やし キャンプ",
-    "水辺 グランピング 子連れ",
-    "渓谷 ドームテント"
-  ],
+  keywords: ["清流", "渓谷リバーサイドグランピング", "川遊び体験", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
 
 interface Hotel {

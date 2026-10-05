@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '下呂温泉の紅葉合掌村と飛騨金山巨石群！日本三名泉の美肌湯と極上飛騨牛すき焼きを味わう秋旅 | クラウドトラベルふるさと納税',
   description: '10月・11月の岐阜・下呂温泉特集！合掌造りの民家とモミジが織りなす「下呂温泉合掌村」の秋景色、神秘の飛騨金山巨石群、とろりと肌を包む日本三名泉のアルカリ性単純温泉、A5等級飛騨牛をふるさと納税で堪能する旅。',
-  keywords: ['下呂・飛騨金山・益田川 紅葉 観光', '岐阜県 10月 11月 旅行', '岐阜・下呂温泉＆合掌村特集', 'ふるさと納税 温泉宿泊券', '下呂温泉　ホテルくさかべアルメリア', '桜　Ｒｉｖｅｒ　Ｓｉｄｅ　Ｓｔａｙ　下呂温泉', 'オテル・ド・マロニエ　下呂温泉', '楽天ふるさと納税 宿泊クーポン'],
+  keywords: ["クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-gero-gasshomura-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-gero-gasshomura-autumn-stay/",
   },
   openGraph: {
     title: '下呂温泉の紅葉合掌村と飛騨金山巨石群！日本三名泉の美肌湯と極上飛騨牛すき焼きを味わう秋旅',

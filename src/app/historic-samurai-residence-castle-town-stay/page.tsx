@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '【2026年】武家屋敷の門構えと歴史ロマン！城下町の情緒漂う伝統美の温泉宿5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！角館・萩・松本など、江戸時代の武家屋敷や城下町の風情を今に伝える格式高い門構えと日本庭園、名湯を堪能できる名宿5選。',
-  keywords: ["武家屋敷","城下町","歴史の宿","角館","伝統建築","楽天トラベル"],
+  keywords: ["2026年", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/historic-samurai-residence-castle-town-stay',
+    canonical: "https://croud-travel.pages.dev/historic-samurai-residence-castle-town-stay/",
   },
   openGraph: {
     title: '【2026年】武家屋敷の門構えと歴史ロマン！城下町の情緒漂う伝統美の温泉宿5選',

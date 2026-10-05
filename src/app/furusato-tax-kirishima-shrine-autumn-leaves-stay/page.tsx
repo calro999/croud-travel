@@ -4,20 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '霧島神宮のモミジ参道紅葉＆霧島連山の湯けむり温泉郷！黒豚しゃぶ宿×ふるさと納税完全ガイド【2026年最新秋旅】鹿児島',
   description: '11月中旬〜11月下旬に国宝の本殿と朱塗りの鳥居が深紅に彩られる天孫降臨の聖地「霧島神宮」。霧島連山の雄大な紅葉パノラマと、硫黄泉など多彩な源泉が湧く「霧島温泉郷 霧島ホテル」「霧島 旅行人山荘」「摘み草の宿 こまつ」で鹿児島黒豚しゃぶしゃぶや黒毛和牛を堪能。ふるさと納税で実質2,000円。',
-  keywords: [
-    "ふるさと納税 温泉",
-    "ふるさと納税 宿泊券",
-    "ふるさと納税 トラベルクーポン",
-    "鹿児島・霧島神宮紅葉＆霧島温泉郷特集",
-    "10月 旅行 おすすめ",
-    "11月 旅行 おすすめ",
-    "秋 旅行 温泉",
-    "霧島神宮 紅葉 霧島温泉 旅館 黒豚",
-    "楽天トラベル ふるさと納税",
-    "実質2000円 温泉"
-],
+  keywords: ["霧島神宮のモミジ参道紅葉", "2026年最新秋旅", "鹿児島", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-kirishima-shrine-autumn-leaves-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-kirishima-shrine-autumn-leaves-stay/"
   },
   openGraph: {
     title: '霧島神宮のモミジ参道紅葉＆霧島連山の湯けむり温泉郷！黒豚しゃぶ宿×ふるさと納税完全ガイド【2026年最新秋旅】鹿児島',

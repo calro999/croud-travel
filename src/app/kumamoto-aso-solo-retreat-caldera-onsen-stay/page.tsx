@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/kumamoto-aso-solo-retreat-caldera-onsen-stay/" },
   title: '【熊本・阿蘇温泉郷ひとり旅・世界最大級カルデラおこもり】阿蘇五岳パノラマ露天・あか牛会席・名水湧く自家源泉！大自然のパワーチャージ厳選3宿',
   description: '世界有数のカルデラが広がる阿蘇の大自然！全室から南阿蘇の絶景を望むおこもりの極み宿「心乃間間」、与謝野晶子や徳富蘆花ゆかりの歴史と阿蘇五岳一望の展望風呂が誇りの「蘇山郷」、自家菜園の野菜とあか牛料理が評判の「親和苑」を楽天API最新データに基づき徹底比較。',
   keywords: '阿蘇温泉 一人旅 宿,阿蘇 ホテル 一人 温泉,心乃間間 南阿蘇,蘇山郷 阿蘇,親和苑 阿蘇,阿蘇カルデラ ひとり旅 おこもり',

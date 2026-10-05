@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/autumn-winter-strawberry-picking-resort/" },
   title: "【もぎたて完熟】冬・春いちご狩り＆温泉リゾートホテル 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "甘くてジューシーな完熟いちご食べ放題！栃木（とちおとめ＆スカイベリー）、静岡伊豆（紅ほっぺ）、千葉南房総、福岡（あまおう）など、観光農園でのいちご狩りと極上温泉をセットで楽しむ冬旅宿を徹底解説。",
-  keywords: ["autumn-winter-strawberry-picking-resort", "宿泊予約", "温泉宿", "ホテル特集", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["もぎたて完熟", "春いちご狩り", "温泉リゾートホテル", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
 
 function loadSeasonalHotels() {

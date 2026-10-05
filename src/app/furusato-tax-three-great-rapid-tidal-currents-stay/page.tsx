@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-rapid-tidal-currents-stay/" },
   title: '日本三大急潮＆激流うず潮パノラマ・鳴門鯛と関門ふぐ美食宿×ふるさと納税完全ガイド【2026年最新】鳴門・来島・関門海峡',
   description: '白波が逆巻く海の難所と海の王者！徳島鳴門「鳴門海峡」世界最大級のうず潮とアオアヲナルトリゾート、愛媛今治「来島海峡」しまなみ海道の八艘飛び急流とホテル菊水今治、山口下関「関門海峡」本州と九州を分かつ早鞆ノ瀬戸と下関グランドホテル。日本三大急潮のダイナミックな海景と海の幸を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大急潮・激流うず潮特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',

@@ -5,18 +5,11 @@ import path from "path";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/kanazawa-rainy-day-indoor-guide/" },
   title: "【金沢 雨の日の観光モデルコース】「弁当忘れても傘忘れるな」の街！21世紀美術館・ひがし茶屋街カフェ・金箔貼り体験",
   description:
     "雨の日が多い金沢だからこそインドア施設が超充実！金沢21世紀美術館のスイミングプール、近江町市場の屋根付きアーケード海鮮丼、ひがし茶屋街のお座敷カフェ、雨情に浸る駅前温泉宿ガイド。",
-  keywords: [
-    "金沢 雨の日 観光",
-    "金沢 21世紀美術館 雨",
-    "近江町市場 アーケード グルメ",
-    "ひがし茶屋街 カフェ 雨",
-    "金沢 金箔貼り体験 室内",
-    "金沢 雨の日 モデルコース",
-    "金沢 温泉 ホテル 楽天トラベル"
-  ],
+  keywords: ["金沢", "雨の日の観光モデルコース", "ひがし茶屋街カフェ", "金箔貼り体験", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
 
 interface Hotel {

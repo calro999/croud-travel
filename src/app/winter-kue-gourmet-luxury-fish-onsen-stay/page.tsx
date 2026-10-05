@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '白身のトロと称される幻の高級魚！天然本クエ鍋＆クエフルコースを味わう冬の温泉宿 ｜ 日本全国・旅宿クラウド',
   description: '南紀白浜・五島列島・高知室戸など冬に旬を迎える幻の高級魚「天然クエ」。上品な脂の乗った薄造り、コラーゲンたっぷりのクエ鍋、雑炊を堪能。',
-  keywords: ["クエ料理","本クエ鍋","南紀白浜","冬の味覚","幻の魚","温泉グルメ"],
+  keywords: ["温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/winter-kue-gourmet-luxury-fish-onsen-stay',
+    canonical: "https://croud-travel.pages.dev/winter-kue-gourmet-luxury-fish-onsen-stay/",
   },
   openGraph: {
     title: '白身のトロと称される幻の高級魚！天然本クエ鍋＆クエフルコースを味わう冬の温泉宿',

@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/kyoto-shijo-karasuma-solo-retreat-onsen-stay/" },
   title: '【京都四条烏丸ひとり旅・大浴場おこもり】京町家の風情・ラウンジ無料ワイン・錦市場！古都の中心で癒やされる大人の厳選3宿',
   description: '京都駅から地下鉄烏丸線でわずか約3分！ラウンジでの無料ワイン＆お茶漬けバイキングと癒やしの大浴場が自慢の「ホテルインターゲート京都 四条新町」、四条烏丸交差点すぐで観光・ビジネスの機動力抜群な「ダイワロイネットホテル京都四条烏丸」、五条通沿いで静かな大浴場と上質空間を誇る「京王プレリアホテル京都烏丸五条」を徹底比較。',
   keywords: '京都 一人旅 ホテル,四条烏丸 ホテル 大浴場,ホテルインターゲート京都四条新町,ダイワロイネット京都四条烏丸,京王プレリアホテル京都烏丸五条,京都 おこもり 宿',

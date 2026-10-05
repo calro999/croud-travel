@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '静岡・伊豆高原の里山紅葉＆城ヶ崎海岸！海を望む露天風呂と金目鯛姿煮・伊豆牛会席 | クラウドトラベルふるさと納税',
   description: '10月・11月の静岡・伊豆高原特集！大室山の黄金色ススキと城ヶ崎海岸・門脇吊橋のダイナミックな秋絶景、古き良き日本の原風景が広がる里山温泉リゾート「杜の湯 きらの里」、名物金目鯛の姿煮や伊豆牛ステーキ・地魚舟盛りをふるさと納税トラベルクーポンでお得に楽しむ伊豆秋旅。',
-  keywords: ["伊豆高原・大室山ススキ・城ヶ崎海岸 紅葉 観光","静岡県 10月 11月 旅行","伊豆高原里山温泉＆金目鯛姿煮リゾート旅","ふるさと納税 温泉宿泊券","杜の湯　きらの里（共立リゾート）","伊豆高原温泉　客室露天風呂付リゾートホテル　コルテラルゴ伊豆高原","ＳＫＹ－ＨＩＬＬ　ＨＯＴＥＬ　伊豆高原","楽天ふるさと納税 宿泊クーポン"],
+  keywords: ["静岡", "伊豆高原の里山紅葉", "伊豆牛会席", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-shizuoka-ito-izukogen-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-shizuoka-ito-izukogen-autumn-stay/",
   },
   openGraph: {
     title: '静岡・伊豆高原の里山紅葉＆城ヶ崎海岸！海を望む露天風呂と金目鯛姿煮・伊豆牛会席',

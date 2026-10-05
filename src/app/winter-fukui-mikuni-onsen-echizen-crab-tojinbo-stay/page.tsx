@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "11月6日のズワイガニ漁解禁とともに、福井県・三国港は全国の美食家が押し寄せる「越前がに」の最高潮シーズンを迎えます。三国港で水揚げされ黄色いタグが付けられた越前がには、皇室献上ガニとしても名高い冬の日本海の至宝。冬の荒波が打ち寄せる奇岩・東尋坊のダイナミックな景観、日本海に沈む夕日と水平線を望む三国温泉の展望露天風呂、職人が絶妙な塩加減で茹で上げる本場越前がに、花咲くカニ刺し、甲羅焼き味噌、福井の銘柄牛「若狭牛」のステーキを味わう、冬の贅を尽くした海辺の名宿5選を徹底解説。",
   keywords: '三国温泉 越前がに 宿泊, 越前三国 11月 12月, 東尋坊 冬 絶景, 越前がに 解禁 宿, 三国温泉 いそや, 三国オーシャンリゾート, 休暇村 越前三国, オーベルジュほまち 三國湊, 若狭牛 ステーキ, 福井 カニ 旅',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-fukui-mikuni-onsen-echizen-crab-tojinbo-stay',
+    canonical: "https://croud-travel.pages.dev/winter-fukui-mikuni-onsen-echizen-crab-tojinbo-stay/",
   },
   openGraph: {
     title: "【11・12月越前三国温泉の解禁越前がにと東尋坊冬絶景】日本海パノラマ露天風呂・本場越前蟹フルコース＆若狭牛会席の宿5選",

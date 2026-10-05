@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "雄大な砂丘を四輪駆動サンドバギーやファットバイクで疾走する爽快アクティビティ！日本海の絶景と砂の芸術を体感した後は、展望露天風呂と松葉ガニ・日本海の海の幸を堪能できる人気リゾートを厳選。",
   keywords: "鳥取砂丘 ホテル 温泉, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/super-panoramic-sand-buggy-adventure-stay',
+    canonical: "https://croud-travel.pages.dev/super-panoramic-sand-buggy-adventure-stay/",
   },
   openGraph: {
     title: "【砂丘サンドバギー激走】鳥取砂丘・南紀白浜の爽快アクティビティ＆海鮮温泉リゾート宿5選",

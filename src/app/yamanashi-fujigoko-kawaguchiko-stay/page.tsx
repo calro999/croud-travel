@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/yamanashi-fujigoko-kawaguchiko-stay/" },
   title: "【山梨・富士五湖＆河口湖】逆さ富士・富士急ハイランド＆ほうとう極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "山梨・富士五湖（河口湖・山中湖）エリア完全特化！湖面に映る奇跡の「逆さ富士」、富士急ハイランド、富士山パノラマロープウェイ、名物ほうとう鍋と全室富士山ビュー温泉ホテルを徹底解説。",
-  keywords: ["yamanashi-fujigoko-kawaguchiko-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["山梨", "富士五湖", "河口湖", "逆さ富士", "富士急ハイランド", "ほうとう極上宿", "温泉宿"],
 };
 
 function loadSeasonalHotels() {

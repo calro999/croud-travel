@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '尾道・千光寺山の紅葉坂道としまなみ海道！瀬戸内海の多島美温泉・秋の地魚＆レモンポークを味わう広島旅 | クラウドトラベルふるさと納税',
   description: '10月・11月の広島・尾道＆しまなみ海道特集！映画の街・尾道の千光寺公園から望む尾道水道の紅葉と夕景、しまなみ海道・生口島瀬戸田の国産レモン畑、瀬戸内海の潮風香るラドン天然温泉、名物オコゼ・鯛・レモンポークをふるさと納税で堪能。',
-  keywords: ['尾道・しまなみ海道・千光寺山 紅葉 観光', '広島県 10月 11月 旅行', '広島・尾道＆しまなみ海道特集', 'ふるさと納税 温泉宿泊券', '尾道ゲストハウス　みはらし亭', '尾道やすらぎの宿　しーそー', '天然温泉うら湯　旅館浦島＜広島県＞', '楽天ふるさと納税 宿泊クーポン'],
+  keywords: ["尾道", "秋の地魚", "レモンポークを味わう広島旅", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-mihara-onomichi-setoda-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-mihara-onomichi-setoda-autumn-stay/",
   },
   openGraph: {
     title: '尾道・千光寺山の紅葉坂道としまなみ海道！瀬戸内海の多島美温泉・秋の地魚＆レモンポークを味わう広島旅',

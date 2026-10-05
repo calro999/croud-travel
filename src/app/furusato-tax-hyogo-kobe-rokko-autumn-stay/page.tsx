@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '兵庫・神戸 六甲山紅葉パノラマ＆日本三古湯 有馬温泉！金泉・銀泉の極上湯処と神戸牛会席 | クラウドトラベルふるさと納税',
   description: '10月・11月の兵庫・神戸六甲山＆有馬温泉特集！六甲有馬ロープウェーから見下ろす錦秋の大パノラマと1000万ドルの夜景、日本三古湯・有馬温泉が誇る赤褐色の「金泉」と透明な「銀泉」、世界に誇る最高峰「神戸ビーフ」のすき焼き・ステーキをふるさと納税トラベルクーポンで堪能する極上リゾート滞在。',
-  keywords: ["六甲山紅葉・有馬温泉金泉・神戸牛 観光","兵庫県 10月 11月 旅行","六甲山紅葉ロープウェイ＆有馬温泉金泉銀泉神戸牛","ふるさと納税 温泉宿泊券","有馬温泉　有馬グランドホテル","有馬温泉　メープル有馬","有馬温泉　亀の井ホテル　有馬","楽天ふるさと納税 宿泊クーポン"],
+  keywords: ["兵庫", "神戸", "六甲山紅葉パノラマ", "日本三古湯", "有馬温泉！金泉", "銀泉の極上湯処と神戸牛会席", "クラウドトラベルふるさと納税"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-hyogo-kobe-rokko-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-hyogo-kobe-rokko-autumn-stay/",
   },
   openGraph: {
     title: '兵庫・神戸 六甲山紅葉パノラマ＆日本三古湯 有馬温泉！金泉・銀泉の極上湯処と神戸牛会席',

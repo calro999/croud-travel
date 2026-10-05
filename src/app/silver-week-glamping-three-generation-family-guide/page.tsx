@@ -5,19 +5,11 @@ import path from "path";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-three-generation-family-guide/" },
   title: "【3世代家族で行くシルバーウィーク グランピング】祖父母も疲れない！段差なしバリアフリー＆和洋室ヴィラ ｜ 日本全国・旅宿クラウド",
   description:
     "おじいちゃん・おばあちゃん、両親、子供の3世代で泊まれる安心グランピング！足腰に優しいフラット設計、畳スペースのある和洋室ヴィラ、食事も椅子席完備でシニアも安心。敬老の日のプレゼント旅行に。",
-  keywords: [
-    "3世代 グランピング",
-    "バリアフリー グランピング",
-    "シニア 高齢者 グランピング",
-    "和洋室 ヴィラ グランピング",
-    "敬老の日 グランピング旅行",
-    "シルバーウィーク 家族旅行 グランピング",
-    "段差なし 温泉 グランピング",
-    "車椅子対応 アウトドアリゾート"
-  ],
+  keywords: ["グランピング", "和洋室ヴィラ", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
 };
 
 interface Hotel {

@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/nagano-shibu-onsen-retro-stay/" },
   title: "【長野・信州渋温泉】九湯めぐり＆金具屋・スノーモンキー極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "信州・渋温泉エリア完全特化！九つの外湯めぐり（厄除巡浴外湯めぐり）、国登録有形文化財「歴史の宿 金具屋」、地獄谷野猿公苑（スノーモンキー）と石畳温泉街の老舗旅館を徹底解説。",
-  keywords: ["nagano-shibu-onsen-retro-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["長野", "信州渋温泉", "九湯めぐり", "金具屋", "スノーモンキー極上宿", "温泉宿", "宿泊予約"],
 };
 
 function loadSeasonalHotels() {

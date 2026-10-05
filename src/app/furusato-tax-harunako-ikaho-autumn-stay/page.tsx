@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '榛名湖の紅葉ロープウェイと伊香保温泉石段街！黄金の湯・白銀の湯と極上上州牛を味わう秋の上州旅 | クラウドトラベルふるさと納税',
   description: '10月・11月の群馬・榛名山＆伊香保温泉特集！榛名富士を映す榛名湖の秋景色、伊香保石段街365段の紅葉ライトアップ、鉄分豊富な「黄金の湯」とメタケイ酸豊富な「白銀の湯」の二大名湯をふるさと納税で巡る旅。',
-  keywords: ['渋川・伊香保温泉・榛名山 紅葉 観光', '群馬県 10月 11月 旅行', '群馬・榛名湖＆伊香保温泉特集', 'ふるさと納税 温泉宿泊券', '伊香保温泉　いかほ秀水園', '伊香保温泉　温泉宿　塚越屋七兵衛', '伊香保温泉　金太夫（伊東園ホテルズ）', '楽天ふるさと納税 宿泊クーポン'],
+  keywords: ["クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-harunako-ikaho-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-harunako-ikaho-autumn-stay/",
   },
   openGraph: {
     title: '榛名湖の紅葉ロープウェイと伊香保温泉石段街！黄金の湯・白銀の湯と極上上州牛を味わう秋の上州旅',

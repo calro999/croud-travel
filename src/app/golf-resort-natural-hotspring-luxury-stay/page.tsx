@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: 'ラウンド後は名湯で極上リフレッシュ！名門ゴルフコース併設の天然温泉リゾートホテル ｜ 日本全国・旅宿クラウド',
   description: '川奈・軽井沢・那須など富士山や雄大な自然を望むチャンピオンコースでのラウンドと、プレー後の疲れを癒やす天然温泉・サウナが揃った贅沢リゾート。',
-  keywords: ["ゴルフ","温泉リゾート","ゴルフ場併設","軽井沢","那須","大人旅"],
+  keywords: ["温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/golf-resort-natural-hotspring-luxury-stay',
+    canonical: "https://croud-travel.pages.dev/golf-resort-natural-hotspring-luxury-stay/",
   },
   openGraph: {
     title: 'ラウンド後は名湯で極上リフレッシュ！名門ゴルフコース併設の天然温泉リゾートホテル',

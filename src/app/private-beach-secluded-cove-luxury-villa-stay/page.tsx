@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '【2026年】プライベートビーチ＆入江直結！波打ち際を独占する完全貸切オーシャンヴィラ5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！客室から砂浜へ直結、誰にも邪魔されない完全プライベートな入江と天然温泉を備えた最高峰オーシャンフロントヴィラ5選。',
-  keywords: ["プライベートビーチ","貸切ヴィラ","オーシャンフロント","客室露天風呂","ビーチリゾート","楽天トラベル"],
+  keywords: ["2026年", "プライベートビーチ", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/private-beach-secluded-cove-luxury-villa-stay',
+    canonical: "https://croud-travel.pages.dev/private-beach-secluded-cove-luxury-villa-stay/",
   },
   openGraph: {
     title: '【2026年】プライベートビーチ＆入江直結！波打ち際を独占する完全貸切オーシャンヴィラ5選',

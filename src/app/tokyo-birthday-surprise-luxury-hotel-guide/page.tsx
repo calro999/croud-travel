@@ -5,19 +5,10 @@ import path from "path";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/tokyo-birthday-surprise-luxury-hotel-guide/" },
   title: "【彼女の誕生日サプライズホテル東京おすすめ5選】夜景ビュー・ホールケーキ＆バルーン装飾確約プラン",
   description: "彼女や彼氏の誕生日・記念日を極上にする東京のラグジュアリーホテル特集！東京タワーや摩天楼を望む高層階客室、メッセージプレート付きケーキ・シャンパン付きプラン、憧れのサプライズ演出徹底比較。",
-  keywords: [
-    "東京 誕生日 サプライズ ホテル",
-    "彼女 誕生日 ホテル 東京",
-    "東京 夜景 ホテル 記念日",
-    "東京 バルーン装飾 ホテル プラン",
-    "東京ステーションホテル 記念日",
-    "インターコンチネンタル東京ベイ 夜景",
-    "ラビスタ東京ベイ 誕生日",
-    "東京 ホテル ケーキ付きプラン",
-    "誕生日 ホテル サプライズ バースデー"
-  ],
+  keywords: ["夜景ビュー", "ホールケーキ", "バルーン装飾確約プラン", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
 
 interface Hotel {

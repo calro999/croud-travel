@@ -4,20 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '弥彦公園もみじ谷の朱塗りの橋紅葉＆越後一宮・弥彦温泉！菊まつり散策宿×ふるさと納税完全ガイド【2026年最新秋旅】新潟',
   description: '10月下旬〜11月中旬に朱色の観月橋と紅葉が絵画のように調和する名所「弥彦公園もみじ谷」。越後一宮・彌彦神社で開催される日本最大級の菊まつりとライトアップ、歴史ある「美味満開 名代家」「四季の宿 みのや」「割烹の宿 櫻家」で日本海の秋魚介や新潟新米コシヒカリを堪能。ふるさと納税で実質2,000円。',
-  keywords: [
-    "ふるさと納税 温泉",
-    "ふるさと納税 宿泊券",
-    "ふるさと納税 トラベルクーポン",
-    "新潟・弥彦公園もみじ谷＆弥彦神社菊まつり特集",
-    "10月 旅行 おすすめ",
-    "11月 旅行 おすすめ",
-    "秋 旅行 温泉",
-    "弥彦公園 もみじ谷 紅葉 温泉旅館",
-    "楽天トラベル ふるさと納税",
-    "実質2000円 温泉"
-],
+  keywords: ["越後一宮", "2026年最新秋旅", "新潟", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-yahiko-autumn-leaves-chrysanthemum-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-yahiko-autumn-leaves-chrysanthemum-stay/"
   },
   openGraph: {
     title: '弥彦公園もみじ谷の朱塗りの橋紅葉＆越後一宮・弥彦温泉！菊まつり散策宿×ふるさと納税完全ガイド【2026年最新秋旅】新潟',

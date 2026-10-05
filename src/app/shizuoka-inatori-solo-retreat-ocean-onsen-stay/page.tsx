@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/shizuoka-inatori-solo-retreat-ocean-onsen-stay/" },
   title: '【東伊豆・稲取温泉ひとり旅・太平洋インフィニティ絶景おこもり】波打ち際露天風呂・金目鯛煮付け発祥の地・雛のつるし飾り！伊豆急直通の海リトリート厳選3宿',
   description: '岬の先端に突き出た東伊豆屈指のオーシャンビュー温泉地・稲取温泉！全室オーシャンビューと絶景インフィニティ露天風呂が口コミ★4.5超の「海一望絶景の宿 いなとり荘」、多彩な展望露天と金目鯛姿煮が自慢の「稲取東海ホテル湯苑」、全室露天風呂付きの贅沢空間「石花海」を楽天API最新データに基づき徹底比較。',
   keywords: '稲取温泉 一人旅 宿,稲取 ホテル 一人 温泉,いなとり荘,稲取東海ホテル湯苑,石花海 稲取,東伊豆 ひとり旅 おこもり',

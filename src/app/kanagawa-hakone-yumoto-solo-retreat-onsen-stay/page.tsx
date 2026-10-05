@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/kanagawa-hakone-yumoto-solo-retreat-onsen-stay/" },
   title: '【箱根湯本ひとり旅・自然渓流おこもり】ロマンスカー直通・渓流露天風呂・旬会席！都心から85分の極上ソロ温泉リトリート厳選3宿',
   description: '新宿から小田急ロマンスカー最速85分！早川のせせらぎと自家源泉かけ流しが心地よい「大和館」、須雲川沿いで多彩な湯めぐりと充実の施設を誇る「箱根パークス吉野」、静寂の庭園に佇む数寄屋造りの名宿「離れ山家荘」を楽天API最新データに基づき徹底比較。',
   keywords: '箱根湯本 一人旅 宿,箱根 ホテル 一人 温泉,大和館 箱根,箱根パークス吉野,離れ山家荘,箱根湯本 温泉 ひとり旅',

@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "青、紫、ピンクと色鮮やかに咲き誇る初夏の紫陽花（あじさい）！客室専用の庭園テラスや露天風呂から、雨露に濡れて美しく輝くあじさいを独占鑑賞できる、風雅で情緒豊かな隠れ宿を厳選紹介。",
   keywords: "箱根 露天風呂 離れ 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/luxury-private-onsen-with-scenic-hydrangea-deck',
+    canonical: "https://croud-travel.pages.dev/luxury-private-onsen-with-scenic-hydrangea-deck/",
   },
   openGraph: {
     title: "【あじさい咲き乱れる小径】客室専用デッキから愛でる初夏の紫陽花と美肌名湯宿5選",

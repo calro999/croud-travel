@@ -5,18 +5,11 @@ import path from "path";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/kyoto-rainy-day-temple-cafe-guide/" },
   title: "【京都 雨の日こそ行きたい名所＆町家カフェ】緑鮮やかな苔寺・瑠璃光院・三千院＆おこもり温泉宿",
   description:
     "雨の日に最も美しく輝く京都の庭園！雨露に濡れる大原三千院や西芳寺（苔寺）の緑、静寂の瑠璃光院、町家ブックカフェで読書タイム、嵐山温泉旅館のしっとり贅沢ステイ。",
-  keywords: [
-    "京都 雨の日 観光",
-    "京都 苔寺 雨",
-    "瑠璃光院 雨の日",
-    "大原 三千院 庭園 雨",
-    "京都 町家カフェ 雨宿り",
-    "京都 温泉 ホテル 楽天トラベル",
-    "京都 おこもり温泉宿"
-  ],
+  keywords: ["京都", "雨の日こそ行きたい名所", "町家カフェ", "緑鮮やかな苔寺", "瑠璃光院", "三千院", "おこもり温泉宿"],
 };
 
 interface Hotel {

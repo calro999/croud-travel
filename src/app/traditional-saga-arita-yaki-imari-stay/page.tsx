@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "日本が世界に誇る陶磁器「有田焼」「伊万里焼」の優美な器でいただく、極上佐賀牛のステーキと日本三大美肌の湯！歴史ある嬉野温泉・武雄温泉で、やきものの美と極上肉グルメに浸る大人の温泉旅。",
   keywords: "嬉野温泉 佐賀牛 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/traditional-saga-arita-yaki-imari-stay',
+    canonical: "https://croud-travel.pages.dev/traditional-saga-arita-yaki-imari-stay/",
   },
   openGraph: {
     title: "【有田焼・伊万里焼の雅】人間国宝の器で味わう佐賀牛会席！嬉野・武雄の美肌温泉宿5選",

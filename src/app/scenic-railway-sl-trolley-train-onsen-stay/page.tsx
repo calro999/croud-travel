@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '車窓を流れる絶景とレトロな汽笛！SL・トロッコ観光列車の旅と途中下車の名湯旅館 ｜ 日本全国・旅宿クラウド',
   description: '大井川鐵道・黒部峡谷・わたらせ渓谷などダイナミックな峡谷や大自然を駆け抜ける観光列車。レトロな客車に揺られながら沿線の秘湯で寛ぐ贅沢な鉄道旅。',
-  keywords: ["観光列車","SL列車","トロッコ列車","鉄道旅","黒部峡谷","大井川鐵道"],
+  keywords: ["温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/scenic-railway-sl-trolley-train-onsen-stay',
+    canonical: "https://croud-travel.pages.dev/scenic-railway-sl-trolley-train-onsen-stay/",
   },
   openGraph: {
     title: '車窓を流れる絶景とレトロな汽笛！SL・トロッコ観光列車の旅と途中下車の名湯旅館',

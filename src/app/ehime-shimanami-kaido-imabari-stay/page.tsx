@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/ehime-shimanami-kaido-imabari-stay/" },
   title: "【愛媛・しまなみ海道＆今治】来島海峡大橋・多島美サイクリング＆来島鯛極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "サイクリストの聖地・瀬戸内しまなみ海道＆今治エリア完全特化！世界初の三連吊橋「来島海峡大橋」、亀老山展望公園パノラマ、急流観潮船、今治タオル、来島海峡の急流で育つ「来島鯛」とオーシャンビュー宿を徹底解説。",
-  keywords: ["ehime-shimanami-kaido-imabari-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["愛媛", "しまなみ海道", "今治", "来島海峡大橋", "多島美サイクリング", "来島鯛極上宿", "温泉宿"],
 };
 
 function loadSeasonalHotels() {

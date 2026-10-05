@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/summer-infinity-pool/" },
   title: "【夏休み・リゾート】絶景インフィニティプール＆オーシャンビュー宿ガイド ｜ 日本全国・旅宿クラウド",
   description: "空と海が溶け合う絶景！沖縄（恩納村・石垣島宮古島）、和歌山白浜、関東近郊（房総鴨川）でインフィニティプールやプール付き客室を完備した極上リゾートホテルを徹底比較。",
-  keywords: ["summer-infinity-pool", "宿泊予約", "温泉宿", "ホテル特集", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["夏休み", "リゾート", "絶景インフィニティプール", "オーシャンビュー宿ガイド", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
 
 function loadSeasonalHotels() {

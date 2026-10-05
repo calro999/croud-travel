@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '【2026年】川沿いに続く桜並木のライトアップ！夜桜鑑賞と春爛漫グルメが自慢の温泉宿5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！温泉街の川沿いに咲き誇る満開の桜並木のライトアップや、お花見舟下り体験、春の味覚をふんだんに盛り込んだ桜会席を楽しめる宿5選。',
-  keywords: ["夜桜ライトアップ","桜並木","お花見温泉","春の味覚","温泉街散策","楽天トラベル"],
+  keywords: ["2026年", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/spring-cherry-blossom-illuminated-river-cruise-stay',
+    canonical: "https://croud-travel.pages.dev/spring-cherry-blossom-illuminated-river-cruise-stay/",
   },
   openGraph: {
     title: '【2026年】川沿いに続く桜並木のライトアップ！夜桜鑑賞と春爛漫グルメが自慢の温泉宿5選',

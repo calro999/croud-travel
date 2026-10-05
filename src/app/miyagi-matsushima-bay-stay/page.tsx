@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/miyagi-matsushima-bay-stay/" },
   title: "【宮城・日本三景松島】松島湾260島パノラマ・瑞巌寺＆極上牡蠣・牛たん宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "日本三景・宮城松島エリア完全特化！松島湾に浮かぶ260余の島々、国宝瑞巌寺、五大堂のすかし橋、福浦島（出会い橋）、本場松島牡蠣・三陸海の幸・仙台牛たんを味わうオーシャンビュー温泉宿を徹底解説。",
-  keywords: ["miyagi-matsushima-bay-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["宮城", "日本三景松島", "松島湾260島パノラマ", "瑞巌寺", "極上牡蠣", "牛たん宿", "温泉宿"],
 };
 
 function loadSeasonalHotels() {

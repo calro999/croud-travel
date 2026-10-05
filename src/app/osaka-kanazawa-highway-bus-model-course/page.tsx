@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/osaka-kanazawa-highway-bus-model-course/" },
   title: "【大阪から金沢 高速バス 新幹線 どっち？】安く行く方法＆乗り換えなし1泊2日モデルコース【2026年最新】 ｜ 日本全国・旅宿クラウド",
   description: "大阪・京都から金沢へ行くなら高速バスと新幹線・特急どっちがおすすめ？サンダーバード敦賀乗換（約9,410円）の手間解消！直行高速バス（約2,800円〜）の格安料金比較と、21世紀美術館・ひがし茶屋街を満喫する女子旅・ひとり旅1泊2日モデルコース。",
-  keywords: ["osaka-kanazawa-highway-bus-model-course", "高速バス", "バスツアー", "新幹線 比較", "安く行く方法", "1泊2日 モデルコース", "宿泊予約", "楽天トラベル"],
+  keywords: ["大阪から金沢", "高速バス", "新幹線", "どっち？", "安く行く方法", "2026年最新", "温泉宿"],
 };
 
 function loadHotels() {

@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/iwate-hanamaki-solo-retreat-onsen-stay/" },
   title: '【岩手花巻温泉ひとり旅・宮沢賢治イーハトーブおこもり】台川渓谷美・pH9.0美肌の湯・前沢牛会席！イーハトーブの森でととのう厳選3宿',
   description: '宮沢賢治生誕の地・花巻！数寄屋造りの贅ととろとろのアルカリ性単純温泉が評判の最高峰「佳松園」、バラ園隣接で渓流沿いの露天風呂が心地よい「ホテル花巻」、広大な大浴場と充実の館内施設を誇る「ホテル千秋閣」を楽天API最新データに基づき徹底比較。',
   keywords: '花巻温泉 一人旅 宿,花巻 ホテル 一人 温泉,佳松園 花巻,ホテル花巻,ホテル千秋閣,花巻 宮沢賢治 ひとり旅',

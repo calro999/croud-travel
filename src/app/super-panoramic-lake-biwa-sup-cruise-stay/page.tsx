@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】湖上に浮かぶ大鳥居へ！琵琶湖SUP体験＆レイクサイド絶景温泉リゾート5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！白髭神社の湖上鳥居を目指す絶景SUPクルージング！穏やかな琵琶湖の水上アクティビティとおごと温泉・湖畔展望風呂リゾート5選。',
-  keywords: ["琵琶湖SUP","白髭神社","おごと温泉","近江牛ディナー","レイクビュー温泉","楽天トラベル"],
+  keywords: ["2026年", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
     title: '【2026年】湖上に浮かぶ大鳥居へ！琵琶湖SUP体験＆レイクサイド絶景温泉リゾート5選',
     description: '2026年最新！白髭神社の湖上鳥居を目指す絶景SUPクルージング！穏やかな琵琶湖の水上アクティビティとおごと温泉・湖畔展望風呂リゾート5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/super-panoramic-lake-biwa-sup-cruise-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/super-panoramic-lake-biwa-sup-cruise-stay',
+    canonical: "https://croud-travel.pages.dev/super-panoramic-lake-biwa-sup-cruise-stay/",
   },
 };
 

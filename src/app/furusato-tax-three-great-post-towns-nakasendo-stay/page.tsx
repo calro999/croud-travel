@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-post-towns-nakasendo-stay/" },
   title: '日本三大宿場町＆木曽路の出桁造り・江戸の面影残す街道名宿×ふるさと納税完全ガイド【2026年最新】妻籠宿・馬籠宿・奈良井宿',
   description: 'タイムスリップしたかのような木曽路の町並み！長野木曽「妻籠宿」電線地中化で守られた日本初の重要伝統的建造物群保存地区とおん宿蔦屋、岐阜中津川「馬籠宿」坂道に沿って石畳が続く島崎藤村の故郷と天然温泉ホテル花更紗、長野塩尻「奈良井宿」奈良井千軒の壮麗な出桁造りと歴史の宿場町御宿伊勢屋。木曽檜の薫り、信州そば、木曽牛すき焼きを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大宿場町・中山道街道特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',

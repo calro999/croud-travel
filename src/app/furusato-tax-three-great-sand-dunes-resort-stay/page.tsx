@@ -4,16 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '日本三大砂丘＆雄大パノラマ・砂の絶景リゾート宿×ふるさと納税完全ガイド【2026年最新】鳥取砂丘・中田島砂丘・吹上浜の海宿',
   description: '地平線に続く風紋と黄金の丘！鳥取「鳥取砂丘」の夕日パノラマと皆生温泉・カニ会席、静岡浜松「中田島砂丘」の遠州灘ウミガメの浜と浜名湖うなぎ宿、鹿児島「吹上浜」の47km白砂青松と天然砂むし温泉。風と砂が織りなす異国情緒リゾートを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
-  keywords: [
-    '楽天ふるさと納税',
-    'ふるさと納税 宿泊クーポン',
-    '楽天トラベル ふるさと納税',
-    '高級温泉旅館',
-    '露天風呂付き客室',
-    '2026年旅行'
-  ],
+  keywords: ["日本三大砂丘", "雄大パノラマ", "2026年最新", "鳥取砂丘", "中田島砂丘", "吹上浜の海宿", "温泉宿"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-great-sand-dunes-resort-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-sand-dunes-resort-stay/"
   },
   openGraph: {
     title: '日本三大砂丘＆雄大パノラマ・砂の絶景リゾート宿×ふるさと納税完全ガイド【2026年最新】鳥取砂丘・中田島砂丘・吹上浜の海宿',

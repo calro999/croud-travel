@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '【2026年】生バラの花びらが浮かぶ優美な湯船！華やかなローズ風呂＆フラワーアロマ宿5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！数百輪の色鮮やかな生バラを浮かべた贅沢なバラ風呂やハーブフラワーバス、天然アロマトリートメントで特別な記念日を彩る温泉宿5選。',
-  keywords: ["バラ風呂","ローズバス","記念日旅行","フラワーアロマ","女子旅温泉","楽天トラベル"],
+  keywords: ["2026年", "フラワーアロマ宿5選", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/organic-flower-bath-rose-herb-spa-stay',
+    canonical: "https://croud-travel.pages.dev/organic-flower-bath-rose-herb-spa-stay/",
   },
   openGraph: {
     title: '【2026年】生バラの花びらが浮かぶ優美な湯船！華やかなローズ風呂＆フラワーアロマ宿5選',

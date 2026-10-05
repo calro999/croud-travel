@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '【2026年】黄金と深紅の幻想美！紅葉ライトアップ＆夜の庭園露天風呂が美しい秋の名宿5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！京都・日光・箱根・黒川など、鮮やかに色づく紅葉のライトアップと湯けむり立ち上る夜の露天風呂を堪能できる厳選秋旅名宿5選。',
-  keywords: ["紅葉温泉","ライトアップ","秋旅行","庭園露天風呂","京都紅葉","楽天トラベル"],
+  keywords: ["2026年", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/autumn-leaves-illuminated-night-onsen-stay',
+    canonical: "https://croud-travel.pages.dev/autumn-leaves-illuminated-night-onsen-stay/",
   },
   openGraph: {
     title: '【2026年】黄金と深紅の幻想美！紅葉ライトアップ＆夜の庭園露天風呂が美しい秋の名宿5選',

@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】天然ウォータースライダーを滑走！キャニオニング体験＆爽快森林露天リゾート5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！透き通る渓谷を体一つで滑り降りるキャニオニング！大自然のアドベンチャー後に森林露天風呂やサウナで極上のととのいを体験する宿5選。',
-  keywords: ["キャニオニング","川遊びアクティビティ","森林露天風呂","みなかみ","四万十川","アウトドア温泉","楽天トラベル"],
+  keywords: ["2026年", "爽快森林露天リゾート5選", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
     title: '【2026年】天然ウォータースライダーを滑走！キャニオニング体験＆爽快森林露天リゾート5選',
     description: '2026年最新！透き通る渓谷を体一つで滑り降りるキャニオニング！大自然のアドベンチャー後に森林露天風呂やサウナで極上のととのいを体験する宿5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/super-panoramic-canyon-canyoning-adventure-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/super-panoramic-canyon-canyoning-adventure-stay',
+    canonical: "https://croud-travel.pages.dev/super-panoramic-canyon-canyoning-adventure-stay/",
   },
 };
 

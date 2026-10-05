@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '岐阜・東濃 恵那峡の奇岩紅葉クルーズ＆中津川！栗きんとん発祥の地と恵那峡温泉・飛騨牛 | クラウドトラベルふるさと納税',
   description: '10月・11月の岐阜・東濃（恵那＆中津川）特集！木曽川のダム湖にそびえる奇岩怪石と紅葉のコントラストを水上から望む「恵那峡遊覧船」、秋限定の栗きんとん本場めぐり、恵那峡温泉の絶景露天風呂、極上飛騨牛会席をふるさと納税トラベルで味わう東濃の贅沢秋旅。',
-  keywords: ["恵那峡遊覧船・中津川栗きんとん・苗木城跡 観光","岐阜県 10月 11月 旅行","恵那峡紅葉クルーズ＆中津川栗きんとん飛騨牛旅","ふるさと納税 温泉宿泊券","大江戸温泉物語Ｐｒｅｍｉｕｍ　恵那峡","恵那峡温泉ホテル　ゆずり葉","中津川温泉　ホテル花更紗","楽天ふるさと納税 宿泊クーポン"],
+  keywords: ["岐阜", "東濃", "恵那峡の奇岩紅葉クルーズ", "飛騨牛", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-gifu-ena-nakatsugawa-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-gifu-ena-nakatsugawa-autumn-stay/",
   },
   openGraph: {
     title: '岐阜・東濃 恵那峡の奇岩紅葉クルーズ＆中津川！栗きんとん発祥の地と恵那峡温泉・飛騨牛',

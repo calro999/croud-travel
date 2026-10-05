@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/oita-yufuin-kinrin-lake-stay/" },
   title: "【大分・由布院】金鱗湖・湯の坪街道＆由布岳パノラマ極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "大分・由布院（湯布院）エリア完全特化！朝霧立ち込める金鱗湖、湯の坪街道のスイーツ食べ歩き、由布岳を仰ぐ全室離れ・客室露天風呂旅館を徹底解説。",
-  keywords: ["oita-yufuin-kinrin-lake-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["大分", "由布院", "金鱗湖", "湯の坪街道", "由布岳パノラマ極上宿", "温泉宿", "宿泊予約"],
 };
 
 function loadSeasonalHotels() {

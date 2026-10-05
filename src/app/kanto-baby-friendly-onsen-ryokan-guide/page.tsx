@@ -5,17 +5,10 @@ import path from "path";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/kanto-baby-friendly-onsen-ryokan-guide/" },
   title: "【関東 赤ちゃん連れ温泉旅行おすすめ宿7選】部屋食・貸切風呂・おむつ替えグッズ完備の安心名宿 ｜ 日本全国・旅宿クラウド",
   description: "赤ちゃんの温泉デビューに安心な関東近郊の名湯宿特集！箱根・伊香保・鬼怒川・湯河原から、離乳食対応、部屋食確約、温度調整可能な貸切風呂、おむつ専用ゴミ箱・ベビーバス完備の極上旅館を厳選比較。",
-  keywords: [
-    "関東 赤ちゃん 温泉旅行",
-    "赤ちゃん 温泉デビュー 関東",
-    "部屋食 貸切風呂 赤ちゃん 箱根",
-    "伊香保 温泉 赤ちゃん連れ 旅館",
-    "赤ちゃん 温泉 畳風呂",
-    "ウェルカムベビー 温泉 関東",
-    "楽天トラベル 赤ちゃん 温泉"
-  ],
+  keywords: ["関東", "赤ちゃん連れ温泉旅行", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
 };
 
 interface Hotel {

@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/shimane-tamatsukuri-solo-retreat-onsen-stay/" },
   title: '【出雲・玉造温泉ひとり旅・美肌神湯おこもり】日本最古の美肌温泉・玉湯川足湯・しまね和牛会席！出雲大社参拝と縁結びの温泉郷厳選3宿',
   description: '『出雲国風土記』に「神の湯」と記された玉造温泉！毎夜の縁日や安来節ショーと美肌会席が一人旅に大好評の「白石家」、自家源泉かけ流しの美肌湯を心ゆくまで堪能できる「湯陣 千代の湯」、日本庭園と広大な大浴場を誇る「松乃湯」を楽天API最新データに基づき徹底比較。',
   keywords: '玉造温泉 一人旅 宿,玉造温泉 ホテル 一人,白石家 玉造,湯陣 千代の湯,松乃湯 玉造,出雲大社 玉造温泉 ひとり旅',

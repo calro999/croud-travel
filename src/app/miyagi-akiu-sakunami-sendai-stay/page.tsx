@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/miyagi-akiu-sakunami-sendai-stay/" },
   title: "【宮城・秋保温泉＆作並温泉】仙台奥座敷・磊々峡＆ニッカウヰスキー・仙台牛宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "仙台から車30分の名湯・秋保温泉＆作並温泉エリア完全特化！名勝「磊々峡」のハートの奇岩、落差55m「秋保大滝」、ニッカウヰスキー宮城峡蒸溜所、伊達政宗ゆかりの温泉と極上仙台牛ステーキ会席宿を徹底解説。",
-  keywords: ["miyagi-akiu-sakunami-sendai-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["宮城", "秋保温泉", "作並温泉", "仙台奥座敷", "磊々峡", "ニッカウヰスキー", "仙台牛宿"],
 };
 
 function loadSeasonalHotels() {

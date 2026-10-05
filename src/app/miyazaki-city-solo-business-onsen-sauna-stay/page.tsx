@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/miyazaki-city-solo-business-onsen-sauna-stay/" },
   title: '【宮崎出張・天然温泉サウナ】南国リゾート・天然温泉日向の湯・宮崎地鶏炭火焼き！橘通ビジネス街を制する厳選3宿',
   description: '宮崎空港からJR・バスで約15〜20分！橘通繁華街至近で最上階天然温泉＆サウナ・名物冷汁朝食を誇る「ドーミーイン宮崎」、たまゆら温泉と本格サウナ完備の「宮崎ライオンズホテル」、男性専用スパ＆サウナ施設併設の「ホテルマリックス」を徹底比較。',
   keywords: '宮崎 出張 ホテル,宮崎市 サウナ ホテル,ドーミーイン宮崎,宮崎ライオンズホテル,ホテルマリックス,宮崎地鶏 一人旅',

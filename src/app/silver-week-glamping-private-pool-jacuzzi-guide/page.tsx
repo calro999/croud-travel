@@ -5,18 +5,11 @@ import path from "path";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-private-pool-jacuzzi-guide/" },
   title: "【プライベートプール＆温水ジャグジー付きグランピング】シルバーウィークに楽しむ極上リゾートヴィラ ｜ 日本全国・旅宿クラウド",
   description:
     "まだまだ暖かい9月シルバーウィークにプライベートプールを独占！客室専用温水プール、ジェットバスジャグジー、プールサイドでのBBQとシャンパンを楽しむラグジュアリーステイ特集。",
-  keywords: [
-    "プライベートプール グランピング",
-    "温水ジャグジー グランピング",
-    "客室専用プール リゾートヴィラ",
-    "シルバーウィーク プール付き宿",
-    "カップル グランピング ジャグジー",
-    "女子旅 映え グランピング プール",
-    "ナイトプール グランピング 予約"
-  ],
+  keywords: ["プライベートプール", "温水ジャグジー付きグランピング", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
 };
 
 interface Hotel {

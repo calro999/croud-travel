@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/shimane-izumo-tamatsukuri-onsen-stay/" },
   title: "【島根・出雲大社＆玉造温泉】神話と縁結び・日本最古の美肌温泉宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "神々の国・島根出雲＆玉造温泉エリア完全特化！縁結びの総本山「出雲大社」、日本最古の美肌温泉「玉造温泉（美肌の湯）」、宍道湖の夕日、名物出雲そば・しまね和牛・のどぐろ会席宿を徹底解説。",
-  keywords: ["shimane-izumo-tamatsukuri-onsen-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["島根", "出雲大社", "玉造温泉", "神話と縁結び", "日本最古の美肌温泉宿", "温泉宿", "宿泊予約"],
 };
 
 function loadSeasonalHotels() {

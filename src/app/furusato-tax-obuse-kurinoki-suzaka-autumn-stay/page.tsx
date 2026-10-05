@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '小布施・栗の小径の新栗グルメと須坂温泉！北信濃の秋果実（ぶどう・りんご）・信州牛を味わう極上温泉旅 | クラウドトラベルふるさと納税',
   description: '10月・11月の長野・小布施＆須坂特集！葛飾北斎が晩年を過ごした小布施の「栗の小径」と秋限定の極上新栗モンブラン・栗おこわ、蔵の町・須坂の歴史散策、北信濃の名湯・須坂温泉や小布施温泉の美肌露天風呂、信州プレミアム牛と信州りんごをふるさと納税で堪能。',
-  keywords: ['小布施・須坂・北信濃 紅葉 観光', '長野県 10月 11月 旅行', '長野・小布施＆須坂温泉特集', 'ふるさと納税 温泉宿泊券', '須坂温泉　古城荘', '渋温泉　玉久旅館', '小布施温泉あけびの湯', '楽天ふるさと納税 宿泊クーポン'],
+  keywords: ["小布施", "りんご）", "信州牛を味わう極上温泉旅", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-obuse-kurinoki-suzaka-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-obuse-kurinoki-suzaka-autumn-stay/",
   },
   openGraph: {
     title: '小布施・栗の小径の新栗グルメと須坂温泉！北信濃の秋果実（ぶどう・りんご）・信州牛を味わう極上温泉旅',

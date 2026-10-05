@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】旨味と甘み極まる幻の島豚！あぐー豚しゃぶしゃぶ＆美ら海・古宇利島リゾート5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！コレステロールが低く旨味成分豊富な沖縄名物「あぐー豚」しゃぶしゃぶ会席！エメラルドグリーンの美ら海を一望する絶景リゾートホテル5選。',
-  keywords: ["あぐー豚","アグー豚しゃぶしゃぶ","沖縄リゾート","古宇利島","美ら海水族館","オーシャンビューホテル","楽天トラベル"],
+  keywords: ["2026年", "美ら海", "古宇利島リゾート5選", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約"],
   openGraph: {
     title: '【2026年】旨味と甘み極まる幻の島豚！あぐー豚しゃぶしゃぶ＆美ら海・古宇利島リゾート5選',
     description: '2026年最新！コレステロールが低く旨味成分豊富な沖縄名物「あぐー豚」しゃぶしゃぶ会席！エメラルドグリーンの美ら海を一望する絶景リゾートホテル5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/traditional-okinawa-agu-pork-shabu-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/traditional-okinawa-agu-pork-shabu-stay',
+    canonical: "https://croud-travel.pages.dev/traditional-okinawa-agu-pork-shabu-stay/",
   },
 };
 

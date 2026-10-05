@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "日本三大和牛「近江牛」のとろける霜降りステーキやしゃぶしゃぶ、そして千年の歴史を誇る伝統発酵食「鮒ずし」！琵琶湖を一望する名湯・おごと温泉で、滋賀の豊かな食文化とレイクビュー露天風呂を堪能。",
   keywords: "おごと温泉 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/traditional-shiga-omi-beef-funazushi-stay',
+    canonical: "https://croud-travel.pages.dev/traditional-shiga-omi-beef-funazushi-stay/",
   },
   openGraph: {
     title: "【極上近江牛ステーキ＆伝統鮒ずし】琵琶湖の恵みと名湯！おごと温泉の絶景美食宿5選",

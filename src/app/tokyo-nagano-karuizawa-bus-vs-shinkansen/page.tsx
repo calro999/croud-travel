@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/tokyo-nagano-karuizawa-bus-vs-shinkansen/" },
   title: "【東京から長野・軽井沢 安く行く方法】新幹線 vs 高速バス徹底比較！片道1,500円〜の1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
   description: "東京から軽井沢・長野へ安く行くには？北陸新幹線と高速バスの料金・所要時間を比較！新幹線の半額以下（軽井沢片道1,500円〜・長野片道2,500円〜）で行ける高速バスを活用し、善光寺お戒壇巡り・小布施スイーツ・アウトレットを満喫するモデルコース。",
-  keywords: ["tokyo-nagano-karuizawa-bus-vs-shinkansen", "高速バス", "バスツアー", "新幹線 比較", "安く行く方法", "1泊2日 モデルコース", "宿泊予約", "楽天トラベル"],
+  keywords: ["東京から長野", "軽井沢", "安く行く方法", "新幹線", "vs", "温泉宿", "宿泊予約"],
 };
 
 function loadHotels() {

@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】名盤の温もりに浸る。アナログレコード＆真空管アンプラウンジ付き大人の音楽温泉宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！ヴィンテージレコードと真空管アンプの豊かな響き、名作スピーカーを配したバーラウンジと源泉掛け流し風呂で寛ぐ大人の音楽リトリート5選。',
-  keywords: ["アナログレコード","真空管アンプ","音楽ラウンジ","大人の隠れ家","高音質オーディオ","楽天トラベル"],
+  keywords: ["2026年", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
     title: '【2026年】名盤の温もりに浸る。アナログレコード＆真空管アンプラウンジ付き大人の音楽温泉宿5選',
     description: '2026年最新！ヴィンテージレコードと真空管アンプの豊かな響き、名作スピーカーを配したバーラウンジと源泉掛け流し風呂で寛ぐ大人の音楽リトリート5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/luxury-private-onsen-with-records-vinyl-lounge',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/luxury-private-onsen-with-records-vinyl-lounge',
+    canonical: "https://croud-travel.pages.dev/luxury-private-onsen-with-records-vinyl-lounge/",
   },
 };
 

@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-bamboo-groves-stay/" },
   title: '日本三大竹林＆風にそよぐ緑の回廊・静寂の美林と風雅名宿×ふるさと納税完全ガイド【2026年最新】嵯峨野・報国寺・さつま町',
   description: '風の音と竹葉のささやきに包まれる禅の空間！京都嵐山「嵯峨野・竹林の小径」平安貴族の美意識と嵐山温泉渡月亭、神奈川鎌倉「報国寺（竹の寺）」千本の孟宗竹と鎌倉パークホテル、鹿児島北薩摩「さつま町竹林」日本一の竹林面積と四季の杜紫尾庵。日本三大竹林の幻想的な緑の回廊と風雅な宿を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大竹林・森林セラピー特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',

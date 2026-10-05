@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/fukui-solo-business-echizen-soba-stay/" },
   title: '【福井出張＆越前美食ひとり旅】北陸新幹線福井駅前・マリオット最新開業・天然温泉大浴場！越前おろしそばとソースカツ丼を満喫する極上宿 厳選3選',
   description: '北陸新幹線延伸で東京から直結・恐竜王国＆ものづくりの街「福井」！「2024年開業・福井駅前広場正面の最新最高峰」の「コートヤード・バイ・マリオット福井」、福井駅西口徒歩1分で露天風呂付き大浴場とサウナが自慢の「福井マンテンホテル駅前」、駅前大浴場付き「ホテルルートイン福井駅前」を徹底特集。',
   keywords: '福井 出張 ホテル おすすめ,福井 一人旅 ホテル,コートヤードバイマリオット福井 宿泊,福井マンテンホテル駅前 サウナ,福井 越前そば ホテル',

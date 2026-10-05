@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '熊本・人吉温泉と球磨川の秋霧！国宝青井阿蘇神社紅葉＆球磨焼酎・鮎の塩焼き会席 | クラウドトラベルふるさと納税',
   description: '10月・11月の熊本・人吉＆球磨特集！日本三大急流・球磨川を包む幻想的な秋の「人吉霧」、国宝・青井阿蘇神社の秋風情、開湯700年の歴史を誇る美肌名湯「人吉温泉」、球磨川の落ち鮎や黒毛和牛・500年の歴史を持つ本場球磨焼酎をふるさと納税トラベルで味わう南九州の歴史旅。',
-  keywords: ["人吉温泉・球磨川・青井阿蘇神社 観光","熊本県 10月 11月 旅行","人吉温泉美肌の湯＆球磨焼酎球磨川鮎会席","ふるさと納税 温泉宿泊券","薬師の湯宿　龍乃榊","人吉温泉　ホテル　華の荘","ホテルサン人吉","楽天ふるさと納税 宿泊クーポン"],
+  keywords: ["熊本", "球磨焼酎", "鮎の塩焼き会席", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-kumamoto-hitoyoshi-kuma-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-kumamoto-hitoyoshi-kuma-autumn-stay/",
   },
   openGraph: {
     title: '熊本・人吉温泉と球磨川の秋霧！国宝青井阿蘇神社紅葉＆球磨焼酎・鮎の塩焼き会席',

@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '海から昇る初日の出を客室から望む！年末年始・お正月に行きたい絶景オーシャンビュー宿 ｜ 日本全国・旅宿クラウド',
   description: '伊豆・房総・沖縄の水平線から昇る朝日を一望できる絶景リゾート。客室露天風呂やお部屋から初日の出を拝む、新年の幕開けにふさわしい贅沢宿を厳選。',
-  keywords: ["初日の出","オーシャンビュー","客室露天風呂","伊豆","正月旅行","リゾート"],
+  keywords: ["温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/new-year-sunrise-ocean-view-resorts',
+    canonical: "https://croud-travel.pages.dev/new-year-sunrise-ocean-view-resorts/",
   },
   openGraph: {
     title: '海から昇る初日の出を客室から望む！年末年始・お正月に行きたい絶景オーシャンビュー宿',

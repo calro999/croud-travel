@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   description: "南九州随一のパワースポットと天下の名湯に癒やされる11〜1月の冬旅ガイド。天孫降臨神話が息づく国宝「霧島神宮」の新春初詣と朱塗りの本殿。標高600〜800mの山懐に湯けむりがもうもうと立ち上る「霧島温泉郷（丸尾温泉・硫黄谷温泉）」の乳白色の源泉掛け流し露天風呂。冬に甘みと旨味が最高潮に達する本場「かごしま黒豚」のしゃぶしゃぶや黒毛和牛、きびなご、本格芋焼酎。冬の霧島連山の雄大な景観を望む厳選名宿5選を詳しくご紹介します。",
   keywords: '霧島神宮 初詣 国宝, 霧島温泉郷 旅館, 丸尾温泉 にごり湯, 霧島国際ホテル, 霧島ホテル 庭園大浴場, ラビスタ霧島ヒルズ, かごしま黒豚 しゃぶしゃぶ, 鹿児島 冬 旅行',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-kagoshima-kirishima-jingu-hatsumode-onsen-kurobuta-stay'
+    canonical: "https://croud-travel.pages.dev/winter-kagoshima-kirishima-jingu-hatsumode-onsen-kurobuta-stay/"
   },
   openGraph: {
     title: "【11・12・1月鹿児島】国宝「霧島神宮」新春初詣と湯けむり立ち上る丸尾温泉！源泉露天＆極上黒豚名宿5選",

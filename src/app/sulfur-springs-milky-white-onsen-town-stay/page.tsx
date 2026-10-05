@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '立ち上る湯けむりと濃密な硫黄の香り！乳白色のにごり湯と風情ある温泉街めぐりの宿 ｜ 日本全国・旅宿クラウド',
   description: '草津・蔵王・野沢温泉・別府明礬など、湯の花が舞うエメラルドグリーンや乳白色の硫黄泉。浴衣と下駄で温泉街の湯めぐりや足湯散策を楽しむ名湯宿。',
-  keywords: ["にごり湯","乳白色温泉","硫黄泉","草津温泉","蔵王温泉","湯めぐり"],
+  keywords: ["温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/sulfur-springs-milky-white-onsen-town-stay',
+    canonical: "https://croud-travel.pages.dev/sulfur-springs-milky-white-onsen-town-stay/",
   },
   openGraph: {
     title: '立ち上る湯けむりと濃密な硫黄の香り！乳白色のにごり湯と風情ある温泉街めぐりの宿',

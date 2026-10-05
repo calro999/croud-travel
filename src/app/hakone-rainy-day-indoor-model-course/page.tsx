@@ -5,19 +5,11 @@ import path from "path";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/hakone-rainy-day-indoor-model-course/" },
   title: "【箱根 雨の日の観光モデルコース】ポーラ美術館・ガラスの森・彫刻の森室内＆早めチェックイン温泉おこもり旅",
   description:
     "雨でも大満足の箱根1泊2日！森の中に佇むポーラ美術館のコレクション、ガラスの森美術館、箱根クラフトハウスの陶芸体験、雨音を聞きながら過ごす強羅温泉・客室露天風呂旅館完全ガイド。",
-  keywords: [
-    "箱根 雨の日 観光",
-    "箱根 室内 モデルコース",
-    "ポーラ美術館 雨",
-    "箱根ガラスの森美術館 雨の日",
-    "箱根クラフトハウス 陶芸体験",
-    "強羅温泉 おこもり 旅館",
-    "箱根 雨 デート",
-    "箱根 室内 観光スポット",
-  ],
+  keywords: ["箱根", "雨の日の観光モデルコース", "ポーラ美術館", "ガラスの森", "彫刻の森室内", "早めチェックイン温泉おこもり旅", "温泉宿"],
 };
 
 interface Hotel {

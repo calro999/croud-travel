@@ -4,18 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/oirase-autumn-leaves-hotspring-guide/" },
   title: "【奥入瀬渓流・十和田湖 紅葉2026完全ガイド】見頃・散策モデルコース＆星野リゾート・秘湯酸ヶ湯ステイ ｜ 日本全国・旅宿クラウド",
   description: "ブナとカエデが黄金に輝く奇跡の森！奥入瀬渓流の紅葉散策ベストシーズン（10月中旬〜下旬）、十和田湖遊覧船、渓流沿いに佇む人気リゾートホテル、日本有数のヒバ千人風呂「酸ヶ湯温泉」予約ガイド。",
-  keywords: [
-    "奥入瀬渓流 紅葉 2026",
-    "十和田湖 紅葉",
-    "奥入瀬渓流 散策コース",
-    "星野リゾート 奥入瀬渓流ホテル",
-    "酸ヶ湯温泉 千人風呂",
-    "蔦温泉 自噴温泉",
-    "青森 紅葉 温泉宿",
-    "楽天トラベル 青森紅葉"
-  ],
+  keywords: ["奥入瀬渓流", "十和田湖", "紅葉2026", "見頃", "散策モデルコース", "星野リゾート", "秘湯酸ヶ湯ステイ"],
 };
 
 interface Hotel {

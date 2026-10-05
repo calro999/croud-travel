@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/nikko-chuzenji-car-free-travel-guide/" },
   title: "【日光・中禅寺湖 車なし観光 1泊2日モデルコース】東武特急スペーシアX＆東武バスで行く世界遺産＆奥日光湯宿 ｜ 日本全国・旅宿クラウド",
   description: "電車とバスだけで巡る日光完全ガイド！新型特急スペーシアX、日光WEBフリーパス、東武バスを活用して東照宮・いろは坂・華厳の滝・中禅寺湖遊覧船・奥日光硫黄泉旅館をスムーズに回る乗り継ぎタイムテーブル。",
-  keywords: ["nikko-chuzenji-car-free-travel-guide", "日光 車なし", "スペーシアX 車なし", "日光東照宮 電車 バス", "中禅寺湖 バス", "いろは坂 東武バス", "奥日光 温泉 楽天トラベル"],
+  keywords: ["日光", "中禅寺湖", "車なし観光", "1泊2日モデルコース", "東武特急スペーシアX", "東武バスで行く世界遺産", "奥日光湯宿"],
 };
 
 interface Hotel {

@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '日光・いろは坂の絶景紅葉と中禅寺湖・奥日光湯元温泉の白濁硫黄泉を満喫する秋の贅沢旅 | クラウドトラベルふるさと納税',
   description: '10月中旬〜11月上旬に見頃を迎える日光・いろは坂と中禅寺湖の紅葉。奥日光の乳白色硫黄泉「日光湯元温泉」の名宿で極上の湯浴みととちぎ和牛・湯波料理をふるさと納税でお得に楽しむ完全ガイド。',
-  keywords: ['日光・中禅寺湖・奥日光 紅葉', '栃木県 紅葉 10月 11月', '日光いろは坂・中禅寺湖紅葉＆日光湯元温泉', 'ふるさと納税 温泉宿泊券', '日光湯元温泉 日光グランドホテル ほのかな宿樹林', '日光湯元温泉 奥日光パークロッジ深山', '日光湯元温泉 ゆ宿 美や川', '楽天ふるさと納税 トラベル'],
+  keywords: ["日光", "いろは坂の絶景紅葉と中禅寺湖", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-nikko-irohazaka-chuzenji-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-nikko-irohazaka-chuzenji-autumn-stay/",
   },
   openGraph: {
     title: '日光・いろは坂の絶景紅葉と中禅寺湖・奥日光湯元温泉の白濁硫黄泉を満喫する秋の贅沢旅',

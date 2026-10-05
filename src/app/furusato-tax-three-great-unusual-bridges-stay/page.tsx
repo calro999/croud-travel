@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-unusual-bridges-stay/" },
   title: '日本三大奇橋＆木造アーチ・断崖渓谷の刎橋と名湯宿×ふるさと納税完全ガイド【2026年最新】錦帯橋・猿橋・日光神橋',
   description: '釘を使わない驚異の木造建築美！山口岩国「錦帯橋」五連の木造アーチと宮浜温泉湯の宿宮浜グランドホテル、山梨大月「甲斐の猿橋」桂川渓谷に橋脚なしで架かる刎橋と東横INN富士山大月駅、栃木日光「日光神橋」世界遺産二社一寺の玄関口と名門日光金谷ホテル。日本三大奇橋の歴史ロマンと渓谷美を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大奇橋・木造建築美特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',

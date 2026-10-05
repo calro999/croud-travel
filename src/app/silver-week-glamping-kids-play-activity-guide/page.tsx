@@ -5,18 +5,11 @@ import path from "path";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-kids-play-activity-guide/" },
   title: "【子連れグランピング巨大遊具＆体験付き】アスレチック・動物ふれあい・収穫体験で子供が大はしゃぎ！ ｜ 日本全国・旅宿クラウド",
   description:
     "子供が1日中遊び尽くせる体験型グランピング特集！ツリーハウスアスレチック、ヤギやウサギとのふれあい牧場、秋のサツマイモ・栗拾い体験、ピザ窯焼き体験ができるファミリー向け施設徹底比較。",
-  keywords: [
-    "子連れ グランピング アスレチック",
-    "子供 体験 グランピング",
-    "動物 ふれあい グランピング 牧場",
-    "秋 味覚狩り 収穫体験 グランピング",
-    "ピザ窯体験 グランピング ファミリー",
-    "シルバーウィーク 子連れ 宿泊",
-    "ファミリー グランピング おすすめ"
-  ],
+  keywords: ["子連れグランピング巨大遊具", "体験付き", "アスレチック", "動物ふれあい", "収穫体験で子供が大はしゃぎ！", "温泉宿", "宿泊予約"],
 };
 
 interface Hotel {

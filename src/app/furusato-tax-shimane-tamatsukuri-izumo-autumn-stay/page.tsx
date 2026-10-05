@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '島根・玉造温泉と出雲大社「神在月」！日本最古の美肌温泉＆宍道湖七道・島根和牛 | クラウドトラベルふるさと納税',
   description: '10月・11月の島根・玉造温泉＆出雲特集！全国の神々が集う旧暦10月「神在月」の出雲大社参拝、奈良時代から美肌の湯として讃えられる日本最古の化粧水温泉「玉造温泉」、宍道湖の秋七珍や極上島根和牛をふるさと納税トラベルで味わう神話の国の秋旅。',
-  keywords: ["出雲大社 神在月・玉造温泉 紅葉 観光","島根県 10月 11月 旅行","神在月出雲大社参拝＆玉造温泉美肌ステイ","ふるさと納税 温泉宿泊券","玉造温泉　佳翠苑　皆美","玉造温泉　玉造グランドホテル長生閣","玉造温泉　湯之助の宿　長楽園","楽天ふるさと納税 宿泊クーポン"],
+  keywords: ["島根", "宍道湖七道", "島根和牛", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-shimane-tamatsukuri-izumo-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-shimane-tamatsukuri-izumo-autumn-stay/",
   },
   openGraph: {
     title: '島根・玉造温泉と出雲大社「神在月」！日本最古の美肌温泉＆宍道湖七道・島根和牛',

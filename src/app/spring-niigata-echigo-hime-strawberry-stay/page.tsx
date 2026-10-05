@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】みずみずしく芳醇な春いちご！新潟特産「越後姫」スイーツ＆月岡エメラルド硫黄泉の宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！果肉が柔らかく甘い香りが広がる新潟限定いちご「越後姫」パフェ！全国屈指の美肌の湯・月岡温泉のエメラルドグリーン硫黄泉を満喫する名宿5選。',
-  keywords: ["越後姫","いちごスイーツ","月岡温泉","エメラルドグリーンの湯","硫黄泉","美肌温泉","楽天トラベル"],
+  keywords: ["2026年", "月岡エメラルド硫黄泉の宿5選", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
     title: '【2026年】みずみずしく芳醇な春いちご！新潟特産「越後姫」スイーツ＆月岡エメラルド硫黄泉の宿5選',
     description: '2026年最新！果肉が柔らかく甘い香りが広がる新潟限定いちご「越後姫」パフェ！全国屈指の美肌の湯・月岡温泉のエメラルドグリーン硫黄泉を満喫する名宿5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/spring-niigata-echigo-hime-strawberry-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/spring-niigata-echigo-hime-strawberry-stay',
+    canonical: "https://croud-travel.pages.dev/spring-niigata-echigo-hime-strawberry-stay/",
   },
 };
 

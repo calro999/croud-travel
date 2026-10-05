@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/airport-access-direct-resort-stay/" },
   title: "【空港直行＆空港至近リゾート宿】羽田・成田・関空・福岡・那覇・千歳 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "フライト前後も快適な空港アクセス特化温泉宿！羽田エアポートガーデン展望温泉、新千歳空港内天然温泉、関空対岸オーシャンビュー、福岡空港至近の博多温泉、那覇空港から直行の瀬長島ウミカジテラス温泉宿を徹底解説。",
-  keywords: ["airport-access-direct-resort-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["空港直行", "空港至近リゾート宿", "羽田", "成田", "関空", "福岡", "那覇"],
 };
 
 function loadSeasonalHotels() {

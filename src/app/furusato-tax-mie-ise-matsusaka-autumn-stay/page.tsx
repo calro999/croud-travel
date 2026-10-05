@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '三重・松阪城跡の紅葉と本場松阪牛！伊勢神宮参拝の宿場町と松阪温泉・老舗すき焼き | クラウドトラベルふるさと納税',
   description: '10月・11月の三重・松阪＆伊勢特集！蒲生氏郷公が築いた松阪城跡の壮大な石垣を彩る秋の紅葉、御城番屋敷の歴史ロマン、世界最高峰の肉の芸術「松阪牛」の本場老舗すき焼き・ステーキ会席、伊勢神宮秋季参拝と松阪温泉をふるさと納税トラベルクーポンでお得に楽しむ美食旅。',
-  keywords: ["松阪牛・松阪城跡・伊勢神宮 観光","三重県 10月 11月 旅行","本場松阪牛すき焼き＆松阪城跡紅葉歴史旅","ふるさと納税 温泉宿泊券","ホテルAU松阪","わんわんパラダイス　松阪","鯛屋旅館","楽天ふるさと納税 宿泊クーポン"],
+  keywords: ["三重", "老舗すき焼き", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-mie-ise-matsusaka-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-mie-ise-matsusaka-autumn-stay/",
   },
   openGraph: {
     title: '三重・松阪城跡の紅葉と本場松阪牛！伊勢神宮参拝の宿場町と松阪温泉・老舗すき焼き',

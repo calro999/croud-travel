@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/yamanashi-grape-bus-tour-daytrip-guide/" },
   title: "【山梨 シャインマスカット狩り 日帰りバスツアー2026】巨峰食べ放題＆勝沼ワイナリー・温泉付き最安比較 ｜ 日本全国・旅宿クラウド",
   description: "2026年秋の山梨シャインマスカット狩り日帰りバスツアー特集！高級シャインマスカット食べ放題、勝沼ワイナリー試飲、ハーブ庭園散策、ほったらかし温泉立ち寄りなど、人気ツアーの最安値予約ガイド。",
-  keywords: ["yamanashi-grape-bus-tour-daytrip-guide", "山梨 シャインマスカット狩り バスツアー", "日帰りバスツアー 食べ放題", "勝沼 ワイナリー", "ほったらかし温泉 日帰り", "楽天トラベル"],
+  keywords: ["山梨", "シャインマスカット狩り", "日帰りバスツアー2026", "巨峰食べ放題", "勝沼ワイナリー", "温泉付き最安比較", "温泉宿"],
 };
 
 interface Hotel {

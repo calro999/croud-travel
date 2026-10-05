@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "11月から12月にかけて、新潟県の日本海沿いに連なる弥彦山麓の弥彦温泉と岩室（いわむろ）温泉は、越後平野の黄金色の実りから初雪の白銀へと季節が移ろう風情豊かな初冬を迎えます。越後一宮「彌彦神社」の初冬の厳かな空気に包まれ、開湯300年の歴史を誇る岩室の名物「黒湯」で冷えた身体をじっくり温める至福のひととき。そして11月に水揚げが本格化する荒波の日本海直送「寒ブリ」や脂の乗った「のどぐろ塩焼き」、新米コシヒカリと越後の銘酒に酔いしれる厳選温泉宿5選を詳しく解説します。",
   keywords: '岩室温泉 宿泊, 弥彦温泉 宿泊, 新潟 温泉 11月 12月, 穂々, ゆもとや, 四季の宿 みのや, 富士屋, 櫻家, 彌彦神社 参詣, 日本海 寒ブリ, のどぐろ 塩焼き, 岩室温泉 黒湯',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-niigata-iwamuro-yahiko-onsen-kanburi-nodoguro-stay'
+    canonical: "https://croud-travel.pages.dev/winter-niigata-iwamuro-yahiko-onsen-kanburi-nodoguro-stay/"
   },
   openGraph: {
     title: "【11・12月新潟・弥彦＆岩室温泉の初冬情緒と日本海寒ブリ・のどぐろ会席】越後一宮彌彦神社参詣＆開湯300年名物黒湯の宿5選",

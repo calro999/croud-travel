@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/shizuoka-hamanako-kanzanji-unagi-stay/" },
   title: "【静岡・浜名湖＆舘山寺温泉】湖畔パノラマ・ロープウェイ＆浜名湖うなぎ宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "汽水湖の恵みと湖上パノラマ・静岡浜名湖＆舘山寺温泉エリア完全特化！日本唯一の湖上かんざんじロープウェイ、浜名湖遊覧船、はままつフラワーパーク、名物「浜名湖うなぎ蒲焼き・ひつまぶし宿」を徹底解説。",
-  keywords: ["shizuoka-hamanako-kanzanji-unagi-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["静岡", "浜名湖", "舘山寺温泉", "湖畔パノラマ", "ロープウェイ", "浜名湖うなぎ宿", "温泉宿"],
 };
 
 function loadSeasonalHotels() {

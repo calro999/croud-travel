@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/huistenbosch-official-hotel-nagasaki-stay/" },
   title: "【ハウステンボス直営＆オフィシャルホテル】ヨーロッパの街並み＆イルミネーション宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "日本一の広さを誇るテーマパーク完全特化！長崎ハウステンボス直営・オフィシャルホテル！パーク内運河に佇む「ホテルヨーロッパ」、場内唯一の天然温泉宿、1300万球の光の王国イルミネーション確約ビューホテルを徹底解説。",
-  keywords: ["huistenbosch-official-hotel-nagasaki-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["ハウステンボス直営", "オフィシャルホテル", "ヨーロッパの街並み", "イルミネーション宿", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
 
 function loadSeasonalHotels() {

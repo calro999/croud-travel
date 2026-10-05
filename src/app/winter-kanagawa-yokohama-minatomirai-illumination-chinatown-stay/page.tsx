@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   description: "冬の横浜は澄み渡る夜空にみなとみらい21の摩天楼と大観覧車が輝き、横浜赤レンガ倉庫「クリスマスマーケット」や都心臨海部の大規模光アート「ヨルノヨ」、横浜中華街の熱々点心＆春節ランタンが街を彩る年間最美のシーズン。楽天APIから最新取得した横浜ベイホテル東急、インターコンチネンタル、ホテルニューグランドなど絶景ホテル5選を徹底特集します。",
   keywords: '横浜 ホテル, みなとみらい ホテル, 赤レンガ倉庫 クリスマスマーケット, ヨルノヨ 横浜, 横浜中華街 春節, 横浜ベイホテル東急, インターコンチネンタル横浜, ホテルニューグランド, ウェスティンホテル横浜, 11月 12月 1月 横浜 観光',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-kanagawa-yokohama-minatomirai-illumination-chinatown-stay'
+    canonical: "https://croud-travel.pages.dev/winter-kanagawa-yokohama-minatomirai-illumination-chinatown-stay/"
   },
   openGraph: {
     title: "【11・12・1月横浜】赤レンガ倉庫クリスマスマーケット＆ヨルノヨ夜景！中華街熱々点心と絶景港宿5選",

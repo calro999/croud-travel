@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-strange-festivals-stay/" },
   title: '日本三大奇祭＆天下の奇祭・熱狂の伝統文化と歴史名宿×ふるさと納税完全ガイド【2026年最新】諏訪御柱祭・国府宮はだか祭・男鹿ナマハゲ',
   description: '魂を揺さぶる熱狂と千年の祈り！長野諏訪「諏訪大社御柱祭」巨木落としの勇壮と上諏訪天然温泉ホテルルートイン上諏訪、愛知稲沢「国府宮はだか祭」数千の裸男がもみ合う厄除神事とお宿和陽館、秋田男鹿「男鹿のナマハゲ」ユネスコ無形文化遺産・荒ぶる神の咆哮と男鹿温泉セイコーグランドホテル。日本三大奇祭の迫力と伝統を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大奇祭・伝統文化特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',

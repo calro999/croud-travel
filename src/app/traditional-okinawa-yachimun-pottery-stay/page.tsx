@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "ぽってりとした温かみのある沖縄伝統陶器「やちむん」に美しく盛り付けられた琉球フレンチや創作料理。読谷村や恩納村のエメラルドグリーンの海を望む極上リゾートで、沖縄の文化と美食に浸る旅を。",
   keywords: "読谷村 リゾート ホテル, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/traditional-okinawa-yachimun-pottery-stay',
+    canonical: "https://croud-travel.pages.dev/traditional-okinawa-yachimun-pottery-stay/",
   },
   openGraph: {
     title: "【やちむんの温もり】沖縄伝統の陶器で味わう琉球フレンチ＆美ら海オーシャンビューリゾート宿5選",

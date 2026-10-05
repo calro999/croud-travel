@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/osaka-tottori-matsue-bus-vs-train-guide/" },
   title: "【大阪・神戸〜鳥取・松江・出雲】高速バス vs 特急スーパーはくと徹底比較！料金半額＆縁結び出雲大社・鳥取砂丘1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
   description: "大阪・神戸から鳥取・松江・出雲へ行くなら高速バスと特急どっちがお得？JR特急スーパーはくと・特急やくもと直行高速バスの料金・所要時間比較！鳥取砂丘、国宝松江城、縁結び出雲大社を巡る1泊2日モデルコース。",
-  keywords: ["osaka-tottori-matsue-bus-vs-train-guide", "高速バス", "バスツアー", "新幹線 比較", "安く行く方法", "1泊2日 モデルコース", "宿泊予約", "楽天トラベル"],
+  keywords: ["大阪", "神戸〜鳥取", "松江", "出雲", "高速バス", "vs", "縁結び出雲大社"],
 };
 
 function loadHotels() {

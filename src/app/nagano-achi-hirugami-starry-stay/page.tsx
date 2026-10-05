@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/nagano-achi-hirugami-starry-stay/" },
   title: "【長野・阿智村＆昼神温泉】日本一の星空ナイトツアー・美肌名湯＆信州牛極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "環境省認定「日本一の星空」長野阿智村＆昼神温泉エリア完全特化！天空の楽園ナイトツアー（ヘブンスそのはら）、pH9.7の強アルカリ性美肌温泉、春の花桃の里、信州プレミアム牛と隠れ家旅館を徹底解説。",
-  keywords: ["nagano-achi-hirugami-starry-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["長野", "阿智村", "昼神温泉", "日本一の星空ナイトツアー", "美肌名湯", "信州牛極上宿", "温泉宿"],
 };
 
 function loadSeasonalHotels() {

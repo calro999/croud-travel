@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/japan-top-night-view-luxury-hotel-stay/" },
   title: "【日本三大夜景＆摩天楼パノラマ宿】函館・長崎・神戸・横浜・東京高層ホテル 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "息を呑む1000万ドルの夜景完全特化！函館山を望むベイサイド、長崎稲佐山のすり鉢状パノラマ、神戸六甲山・ハーバーランド、横浜みなとみらい、東京ベイエリア高層階客室の展望露天風呂ホテルを徹底解説。",
-  keywords: ["japan-top-night-view-luxury-hotel-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["日本三大夜景", "摩天楼パノラマ宿", "函館", "長崎", "神戸", "横浜", "東京高層ホテル"],
 };
 
 function loadSeasonalHotels() {

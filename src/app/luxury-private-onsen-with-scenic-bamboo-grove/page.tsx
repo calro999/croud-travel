@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "美しく手入れされた青竹の林に囲まれる静謐な空間！客室専用露天風呂やテラスから、夜の幻想的な竹林ライトアップを眺めながら極上の湯浴みを楽しめる風雅な名旅館を厳選紹介。",
   keywords: "竹林 露天風呂 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/luxury-private-onsen-with-scenic-bamboo-grove',
+    canonical: "https://croud-travel.pages.dev/luxury-private-onsen-with-scenic-bamboo-grove/",
   },
   openGraph: {
     title: "【静寂の竹林ライトアップ＆客室露天】風にそよぐ笹の音と美肌名湯に癒やされる隠れ宿5選",

@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '小豆島・寒霞渓の奇岩紅葉ロープウェイとオリーブ収穫祭！瀬戸内海一望の海辺温泉・オリーブ牛と地魚会席 | クラウドトラベルふるさと納税',
   description: '10月・11月の香川・小豆島特集！日本三大渓谷美「寒霞渓」の奇岩怪石を彩る紅葉ロープウェイ、10月〜11月限定の小豆島オリーブ収穫祭と搾りたてエキストラバージンオイル、瀬戸内海の多島美を望む小豆島温泉の露天風呂、極上オリーブ牛ステーキと瀬戸内真鯛をふるさと納税で堪能。',
-  keywords: ['小豆島・寒霞渓・土庄温泉 紅葉 観光', '香川県 10月 11月 旅行', '香川・小豆島＆寒霞渓特集', 'ふるさと納税 温泉宿泊券', '小豆島温泉　天空のオーシャンビューホテル　海廬　＜小豆島＞', '小豆島温泉　オリビアン小豆島　夕陽ヶ丘ホテル　＜小豆島＞', 'ベイリゾートホテル小豆島', '楽天ふるさと納税 宿泊クーポン'],
+  keywords: ["小豆島", "オリーブ牛と地魚会席", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-shodoshima-kankakei-olive-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-shodoshima-kankakei-olive-autumn-stay/",
   },
   openGraph: {
     title: '小豆島・寒霞渓の奇岩紅葉ロープウェイとオリーブ収穫祭！瀬戸内海一望の海辺温泉・オリーブ牛と地魚会席',

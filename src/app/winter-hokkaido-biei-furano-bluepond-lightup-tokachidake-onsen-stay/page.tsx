@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   description: "11月から1月、北海道・美瑛と富良野は一面が純白のパウダースノーに覆われ、静寂と奇跡の光が交差する白銀のワンダーランドへと姿を変えます。凍結した水面と立ち枯れたカラマツが幻想的に浮かび上がる冬期限定「白金青い池ライトアップ」、コバルトブルーの渓流が氷瀑と霧氷をまとう「白ひげの滝」、そして白銀のパッチワークの丘。大雪山十勝岳連峰の標高1,200mに湧く雪見にごり湯と、とろける富良野和牛や濃厚チーズフォンデュに心温まる至福の冬旅。楽天APIから最新取得した実力宿5選を徹底特集します。",
   keywords: '美瑛 ホテル, 富良野 ホテル, 白金青い池 ライトアップ, 白ひげの滝, 十勝岳温泉, カミホロ荘, ラビスタ富良野ヒルズ, 新富良野プリンスホテル, 11月 12月 1月 北海道 観光',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-hokkaido-biei-furano-bluepond-lightup-tokachidake-onsen-stay'
+    canonical: "https://croud-travel.pages.dev/winter-hokkaido-biei-furano-bluepond-lightup-tokachidake-onsen-stay/"
   },
   openGraph: {
     title: "【11・12・1月北海道】美瑛＆富良野！白金青い池・白ひげの滝ライトアップと十勝岳雪見にごり湯・富良野和牛の名宿5選",

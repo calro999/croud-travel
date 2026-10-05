@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   description: "冬の京都で最も幽玄な美しさを放つ洛北の奥座敷・貴船、鞍馬、大原。しんしんと降り積もる白銀の雪と、貴船神社の石段を照らす朱塗りの春日灯籠が織りなす「積雪日限定ライトアップ」は息を呑む奇跡の絶景。静寂に包まれた三千院の庭園や鞍馬寺の凛とした空気、囲炉裏端で味わう熱々の名物「ぼたん鍋（猪肉の白味噌仕立て）」や大原温泉の雪見露天風呂に癒やされる冬の京都隠れ家トリップ。楽天APIから最新取得した洛北奥座敷の極上料理旅館＆温泉宿5選を徹底特集します。",
   keywords: '貴船 旅館, 大原 温泉, 貴船神社 積雪ライトアップ, ぼたん鍋 京都, 貴船ふじや, お宿 芹生, 料理旅館 右源太, 大原の里, 11月 12月 1月 京都 観光',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-kyoto-kibune-kurama-snow-lightup-botannabe-stay'
+    canonical: "https://croud-travel.pages.dev/winter-kyoto-kibune-kurama-snow-lightup-botannabe-stay/"
   },
   openGraph: {
     title: "【11・12・1月京都】雪の貴船神社積雪日限定ライトアップ＆奥座敷冬情趣！名物ぼたん鍋と名湯京懐石の隠れ家名宿5選",

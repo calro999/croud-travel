@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "11月中旬〜12月上旬にかけてクライマックスを迎える京都の紅葉！真っ赤なモミジの絨毯が広がる散り紅葉や、寺院の幻想的な夜間特別拝観ライトアップを楽しみ、嵐山温泉の湯と冬の京懐石に寛ぐ極上旅。",
   keywords: "京都 嵐山 温泉 旅館, 11月旅行, 12月旅行, 冬休み, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/late-autumn-kyoto-momiji-lightup-stay',
+    canonical: "https://croud-travel.pages.dev/late-autumn-kyoto-momiji-lightup-stay/",
   },
   openGraph: {
     title: "【11月下旬の晩秋紅葉ライトアップ】散り紅葉の名庭園と嵐山・東山・貴船の風雅名宿5選",

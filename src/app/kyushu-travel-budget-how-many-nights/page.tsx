@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/kyushu-travel-budget-how-many-nights/" },
   title: "【九州旅行 何泊必要？】2泊3日・3泊4日の費用＆福岡→熊本→別府→鹿児島モデルルートの予算内訳",
   description: "九州旅行は何泊あれば満足できる？2泊3日（福岡＋熊本or別府）・3泊4日（福岡→熊本→別府→鹿児島縦断）の費用を内訳付きで完全解説。九州新幹線・高速バスの交通費比較、温泉旅館・ビジネスホテルの相場も。",
-  keywords: ["九州旅行", "予算", "何泊", "モデルコース", "福岡", "熊本", "別府", "鹿児島"],
+  keywords: ["九州旅行", "何泊必要？", "2泊3日", "3泊4日の費用", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
 
 function loadHotels() {

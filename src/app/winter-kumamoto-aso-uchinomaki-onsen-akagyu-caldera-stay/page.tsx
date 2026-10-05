@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "11月から12月にかけて、世界最大級のカルデラに抱かれた熊本県「阿蘇内牧（うちのまき）温泉」は、広大な草原が黄金色のススキから白銀の初霜・初雪へと移ろい、澄み切った大気の中に阿蘇五岳の涅槃像（ねはんぞう）が荘厳に浮かび上がる初冬の絶景シーズンを迎えます。約80ヶ所もの豊富な源泉から湧き出る天然温泉は、多くの文豪も愛した名湯掛け流し。冷えた身体を湯浴みで芯から温めた後は、赤身の旨味が凝縮した熊本名物「あか牛」の溶岩焼きステーキやすき焼き、鮮度抜群の特選霜降り馬刺しを味わい尽くす厳選名宿5選を徹底解説します。",
   keywords: '阿蘇内牧温泉 宿泊, 阿蘇 温泉 11月 12月, 阿蘇 あか牛 溶岩焼き, 熊本 馬刺し 温泉, 阿蘇五岳 涅槃像, 蘇山郷, 阿蘇プラザホテル, 湯巡追荘, ホテル角萬, 親和苑',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-kumamoto-aso-uchinomaki-onsen-akagyu-caldera-stay'
+    canonical: "https://croud-travel.pages.dev/winter-kumamoto-aso-uchinomaki-onsen-akagyu-caldera-stay/"
   },
   openGraph: {
     title: "【11・12月熊本・阿蘇内牧温泉の初冬阿蘇五岳絶景と名物あか牛】名湯掛け流し湯巡り＆極上あか牛溶岩焼きと特選馬刺しを味わう厳選宿5選",

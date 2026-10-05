@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-ancient-capitals-heritage-stay/" },
   title: '日本三大古都＆千年千載の雅と武家の誇り・歴史息づく町並み宿×ふるさと納税完全ガイド【2026年最新】京都・奈良・鎌倉',
   description: '日本の美と歴史の原点を巡る三大古都グランドツアー！京都「平安京・祇園」千年の美意識と伝統の雅・京乃宿ギオン福住、奈良「平城京・ならまち」シルクロードの終着点と天平文化・ホテルアジール奈良、神奈川「鎌倉幕府・由比ヶ浜」源頼朝の武家文化と相模湾の潮風・鎌倉パークホテル。国宝寺社巡り、路地散策、伝統会席とフレンチを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大古都・歴史遺産特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',

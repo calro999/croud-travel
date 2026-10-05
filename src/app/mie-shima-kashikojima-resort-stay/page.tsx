@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/mie-shima-kashikojima-resort-stay/" },
   title: "【三重・志摩賢島】英虞湾リアス多島美＆志摩観光ホテル・伊勢海老極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "伊勢志摩サミットの舞台・賢島エリア完全特化！英虞湾リアス式海岸の夕景、横山展望台天空カフェ、賢島エスパーニャクルーズ、志摩観光ホテルの伝統フレンチと絶景リゾートホテルを徹底解説。",
-  keywords: ["mie-shima-kashikojima-resort-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["三重", "志摩賢島", "英虞湾リアス多島美", "志摩観光ホテル", "伊勢海老極上宿", "温泉宿", "宿泊予約"],
 };
 
 function loadSeasonalHotels() {

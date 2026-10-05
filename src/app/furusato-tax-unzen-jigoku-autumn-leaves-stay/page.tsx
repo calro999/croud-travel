@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '雲仙普賢岳の紅葉パノラマ（国天然記念物）＆雲仙地獄の湯けむり白濁硫黄泉・長崎和牛ステーキ | クラウドトラベルふるさと納税',
   description: '10月下旬〜11月中旬に山肌一面が赤や黄に染まる雲仙普賢岳と仁田峠ロープウェイ紅葉。湯けむり立ち込める雲仙地獄の白濁硫黄泉と、日本一に輝いた長崎和牛・秋獲れ伊勢海老をふるさと納税で味わう秋の九州旅。',
-  keywords: ['雲仙・雲仙地獄・島原半島 紅葉 観光', '長崎県 10月 11月 旅行', '雲仙普賢岳紅葉＆雲仙地獄硫黄泉長崎和牛', 'ふるさと納税 温泉宿泊券', '雲仙温泉 民芸モダンの宿 雲仙福田屋', '雲仙温泉・源泉かけ流し＆おしどりの池を望む美食の宿 東園', '雲仙温泉 ゆやど 雲仙新湯', '楽天ふるさと納税 宿泊クーポン'],
+  keywords: ["雲仙地獄の湯けむり白濁硫黄泉", "長崎和牛ステーキ", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-unzen-jigoku-autumn-leaves-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-unzen-jigoku-autumn-leaves-stay/",
   },
   openGraph: {
     title: '雲仙普賢岳の紅葉パノラマ（国天然記念物）＆雲仙地獄の湯けむり白濁硫黄泉・長崎和牛ステーキ',

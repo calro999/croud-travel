@@ -4,16 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '日本三名瀑＆ダイナミック滝見露天風呂宿×ふるさと納税完全ガイド【2026年最新】那智の滝・華厳の滝・袋田の滝の豪快名湯',
   description: '日本屈指の落差と水量を誇る名瀑へ！世界遺産和歌山「那智の滝」と南紀勝浦温泉、栃木日光中禅寺湖「華厳の滝」と乳白色硫黄泉、茨城奥久慈「袋田の滝」の四段名瀑と美肌の湯。轟音とマイナスイオンに包まれる滝見露天風呂ステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
-  keywords: [
-    '楽天ふるさと納税',
-    'ふるさと納税 宿泊クーポン',
-    '楽天トラベル ふるさと納税',
-    '高級温泉旅館',
-    '露天風呂付き客室',
-    '2026年旅行'
-  ],
+  keywords: ["日本三名瀑", "2026年最新", "那智の滝", "華厳の滝", "袋田の滝の豪快名湯", "温泉宿", "宿泊予約"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-great-waterfalls-onsen-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-waterfalls-onsen-stay/"
   },
   openGraph: {
     title: '日本三名瀑＆ダイナミック滝見露天風呂宿×ふるさと納税完全ガイド【2026年最新】那智の滝・華厳の滝・袋田の滝の豪快名湯',

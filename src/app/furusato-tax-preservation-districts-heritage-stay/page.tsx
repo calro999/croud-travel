@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '重要伝統的建造物群保存地区（重伝建）の歴史町家宿×ふるさと納税完全ガイド【2026年最新】倉敷・萩・橿原今井町',
   description: '時を越えて受け継がれる日本の町並み遺産「重要伝統的建造物群保存地区（重伝建）」。白壁土蔵の倉敷美観地区、武家屋敷連なる萩城下町、五百棟の伝統町家残る大和今井町。歴史的建築を改装した極上宿を楽天ふるさと納税完全活用。',
-  keywords: ["重要伝統的建造物群保存地区","重伝建","倉敷料理旅館鶴形","萩城三の丸北門屋敷","大和橿原シティホテル","町家ホテル","楽天ふるさと納税"],
+  keywords: ["2026年最新", "倉敷", "橿原今井町", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-preservation-districts-heritage-stay/',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-preservation-districts-heritage-stay/",
   },
   openGraph: {
     title: '重要伝統的建造物群保存地区（重伝建）の歴史町家宿×ふるさと納税完全ガイド【2026年最新】倉敷・萩・橿原今井町',

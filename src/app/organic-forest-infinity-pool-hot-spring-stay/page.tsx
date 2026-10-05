@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "原生林のパノラマと一体化する温水インフィニティ温泉プール！水着で入れる絶景スパやサウナ、ラグジュアリーなラウンジを備えた、非日常のリフレッシュを約束する最高峰フォレストリゾートを厳選紹介。",
   keywords: "インフィニティプール 温泉 宿, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/organic-forest-infinity-pool-hot-spring-stay',
+    canonical: "https://croud-travel.pages.dev/organic-forest-infinity-pool-hot-spring-stay/",
   },
   openGraph: {
     title: "【森と空に溶け込む】絶景インフィニティ温泉プール＆天然スパ！極上フォレストリゾート宿5選",

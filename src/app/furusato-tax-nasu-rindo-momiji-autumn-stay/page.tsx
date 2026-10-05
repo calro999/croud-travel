@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '那須もみじ谷大吊橋と高原の紅葉ドライブ！那須温泉郷の白濁名湯・那須和牛ステーキと高原ミルクを味わう秋旅 | クラウドトラベルふるさと納税',
   description: '10月・11月の栃木・那須高原特集！360度大パノラマ紅葉が広がる「もみじ谷大吊橋」やりんどう湖、開湯1300年の歴史を誇る那須温泉郷（鹿の湯源泉）の乳白色硫黄泉、極上A5ランク那須和牛ステーキと新鮮な那須高原ミルク・チーズをふるさと納税で堪能。',
-  keywords: ['那須・那須高原・那須温泉郷 紅葉 観光', '栃木県 10月 11月 旅行', '栃木・那須高原＆那須温泉特集', 'ふるさと納税 温泉宿泊券', 'ペンション　イグアナの森　ー絶品ジビエ料理と貸切那須温泉ー', '那須温泉山楽', '那須温泉　那須ビレッジ', '楽天ふるさと納税 宿泊クーポン'],
+  keywords: ["クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-nasu-rindo-momiji-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-nasu-rindo-momiji-autumn-stay/",
   },
   openGraph: {
     title: '那須もみじ谷大吊橋と高原の紅葉ドライブ！那須温泉郷の白濁名湯・那須和牛ステーキと高原ミルクを味わう秋旅',

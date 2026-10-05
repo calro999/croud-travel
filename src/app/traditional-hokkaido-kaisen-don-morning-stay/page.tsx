@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】朝からいくら・ウニ・ホタテかけ放題！北海道の海鮮勝手丼朝食が凄すぎるホテル5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！朝食の美味しさ日本一を競う函館・札幌・小樽の海鮮バイキング！いくら盛り放題の絶品勝手丼と天然温泉展望風呂が自慢の宿5選。',
-  keywords: ["いくら盛り放題","海鮮バイキング","勝手丼","函館朝食","札幌ホテル","天然温泉","楽天トラベル"],
+  keywords: ["2026年", "朝からいくら", "ウニ", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約"],
   openGraph: {
     title: '【2026年】朝からいくら・ウニ・ホタテかけ放題！北海道の海鮮勝手丼朝食が凄すぎるホテル5選',
     description: '2026年最新！朝食の美味しさ日本一を競う函館・札幌・小樽の海鮮バイキング！いくら盛り放題の絶品勝手丼と天然温泉展望風呂が自慢の宿5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/traditional-hokkaido-kaisen-don-morning-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/traditional-hokkaido-kaisen-don-morning-stay',
+    canonical: "https://croud-travel.pages.dev/traditional-hokkaido-kaisen-don-morning-stay/",
   },
 };
 

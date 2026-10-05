@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/winter-bayside-factory-nightview/" },
   title: "【冬の夜景】工場夜景クルーズ＆煌めくベイサイドホテル 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "空気が澄む冬こそ夜景の絶頂期！神奈川・川崎臨海部、三重・四日市コンビナート、横浜みなとみらい、神戸ベイエリアなど、SF映画のような工場夜景クルーズやパノラマ夜景を客室から望む人気ホテルを徹底解説。",
-  keywords: ["winter-bayside-factory-nightview", "宿泊予約", "温泉宿", "ホテル特集", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["冬の夜景", "工場夜景クルーズ", "煌めくベイサイドホテル", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
 
 function loadSeasonalHotels() {

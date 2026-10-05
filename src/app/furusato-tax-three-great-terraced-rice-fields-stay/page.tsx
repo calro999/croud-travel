@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-terraced-rice-fields-stay/" },
   title: '日本三大美田・棚田百選＆水鏡と黄金色の日本の原風景・農村リトリート宿×ふるさと納税完全ガイド【2026年最新】星峠・白米千枚田・丸山千枚田',
   description: '四季折々に輝く日本の原風景と大地の彫刻！新潟十日町「星峠の棚田」雲海と水鏡の幻想世界・まつだい芝峠温泉雲海、石川奥能登「白米千枚田」日本海へ傾斜する千枚の田とホテルルートイン輪島、三重熊野「丸山千枚田」千三百枚の精巧な石垣群と入鹿温泉ホテル瀞流荘。日本三大棚田の壮大な美景と郷土の恵みを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大棚田・日本の原風景特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',

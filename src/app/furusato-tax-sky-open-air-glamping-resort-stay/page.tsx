@@ -5,16 +5,9 @@ import Image from 'next/image';
 export const metadata: Metadata = {
   title: '天空の露天風呂付きグランピング＆星空ドーム×ふるさと納税完全ガイド【2026年最新】富士山・阿蘇・那須の高級アウトドア宿',
   description: '大自然に抱かれながらホテル並みの贅沢を！富士山パノラマビューの星空ドームテント、阿蘇外輪山の大自然カルデラ温泉グランピング、那須高原の森に佇むプライベート露天付きヴィラ。BBQと焚き火BARを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
-  keywords: [
-    '楽天ふるさと納税',
-    'ふるさと納税 宿泊クーポン',
-    '楽天トラベル ふるさと納税',
-    '高級温泉旅館',
-    '露天風呂付き客室',
-    '2026年旅行'
-  ],
+  keywords: ["天空の露天風呂付きグランピング", "星空ドーム×ふるさと納税", "2026年最新", "富士山", "阿蘇", "那須の高級アウトドア宿", "温泉宿"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-sky-open-air-glamping-resort-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-sky-open-air-glamping-resort-stay/"
   },
   openGraph: {
     title: '天空の露天風呂付きグランピング＆星空ドーム×ふるさと納税完全ガイド【2026年最新】富士山・阿蘇・那須の高級アウトドア宿',

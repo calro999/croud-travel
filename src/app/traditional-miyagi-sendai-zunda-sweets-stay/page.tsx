@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "風味豊かな採れたて枝豆を丁寧につぶした名物「ずんだ餅」「ずんだパフェ」と、三陸沖の極上海鮮！開湯1500年の秋保温泉や絶景の松島湾を望む温泉宿で、宮城の伝統スイーツと名湯に癒やされる旅。",
   keywords: "秋保温泉 露天風呂 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/traditional-miyagi-sendai-zunda-sweets-stay',
+    canonical: "https://croud-travel.pages.dev/traditional-miyagi-sendai-zunda-sweets-stay/",
   },
   openGraph: {
     title: "【仙台ずんだスイーツ＆三陸海鮮】香り高い枝豆スイーツと秋保・作並・松島の名湯宿5選",

@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   description: "12月中旬から1月下旬、静岡県伊豆半島の南端・下田の須崎半島「爪木崎」では、海を見下ろす岬一面に約300万本もの野水仙が咲き乱れる「爪木崎水仙まつり」が開催されます。甘い水仙の香りと真っ赤なアロエの花、コバルトブルーの太平洋が織りなす冬のコントラストは圧巻。さらに冬は下田港水揚げの一本釣り「地金目鯛（じきんめ）」に最も上質な脂が乗る美食の最高潮。温暖な南伊豆の気候と美肌の名湯に癒やされる厳選名宿5選とモデルコースをお届けします。",
   keywords: '爪木崎 水仙まつり, 下田 地金目鯛 宿泊, 下田温泉 名宿, 下田東急ホテル, 下田大和館, 下田ビューホテル, 下田セントラルホテル, 下田プリンスホテル, ペリーロード 冬, 南伊豆 旅行, 12月 1月 静岡観光',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-shizuoka-shimoda-tsumekizaki-suisen-kinmedai-stay'
+    canonical: "https://croud-travel.pages.dev/winter-shizuoka-shimoda-tsumekizaki-suisen-kinmedai-stay/"
   },
   openGraph: {
     title: "【12・1月静岡】300万本が咲き誇る爪木崎水仙まつりと富士山絶景・下田港直送極上「一本釣り地金目鯛」を堪能する下田・南伊豆の名宿5選",

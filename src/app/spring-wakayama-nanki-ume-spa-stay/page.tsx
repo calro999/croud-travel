@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "ふっくらジューシーな最高級「紀州南高梅」を使った特製デザートや、数十種類の梅酒を飲み比べる梅酒BAR！太平洋を望む南紀白浜温泉の名湯と、クエや伊勢海老の海鮮会席を満喫する贅沢ステイ。",
   keywords: "南紀白浜 温泉 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/spring-wakayama-nanki-ume-spa-stay',
+    canonical: "https://croud-travel.pages.dev/spring-wakayama-nanki-ume-spa-stay/",
   },
   openGraph: {
     title: "【南高梅スイーツ＆梅酒BAR】紀州特産南高梅のフルコースと白浜名湯！和歌山・南紀白浜の癒やし宿5選",

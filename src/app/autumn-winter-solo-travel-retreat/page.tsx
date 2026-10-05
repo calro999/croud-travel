@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/autumn-winter-solo-travel-retreat/" },
   title: "【おひとり様歓迎】秋・冬の気ままな一人旅温泉宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "誰にも気兼ねしない自由な時間。箱根、熱海、草津温泉、京都など、1名宿泊プランが充実し、露天風呂付き客室や部屋食、大浴場＆サウナで自分を癒やす秋・冬の一人旅宿を徹底解説。",
-  keywords: ["autumn-winter-solo-travel-retreat", "宿泊予約", "温泉宿", "ホテル特集", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["おひとり様歓迎", "冬の気ままな一人旅温泉宿", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
 };
 
 function loadSeasonalHotels() {

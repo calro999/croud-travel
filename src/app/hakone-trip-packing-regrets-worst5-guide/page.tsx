@@ -5,18 +5,11 @@ import path from "path";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/hakone-trip-packing-regrets-worst5-guide/" },
   title: "【箱根旅行で後悔したことワースト5】大涌谷ロープウェイ強風運休＆夕方カフェ難民！渋滞回避の知恵袋 ｜ 日本全国・旅宿クラウド",
   description:
     "箱根観光でありがちなトラブルを完全回避！強風によるロープウェイ運休時の代行バス、17時で全滅する飲食店トラップ、土日夕方の国道1号線大渋滞、小田急ロマンスカー満席対策と強羅温泉宿。",
-  keywords: [
-    "箱根旅行 後悔",
-    "箱根観光 ワースト",
-    "大涌谷 ロープウェイ 運休 代替ルート",
-    "箱根 夜ご飯 どこもない 難民",
-    "箱根 渋滞 回避 ルート",
-    "箱根フリーパス 混雑",
-    "強羅温泉 にごり湯 宿",
-  ],
+  keywords: ["大涌谷ロープウェイ強風運休", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
 };
 
 interface Hotel {

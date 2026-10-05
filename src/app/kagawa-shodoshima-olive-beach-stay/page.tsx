@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/kagawa-shodoshima-olive-beach-stay/" },
   title: "【香川・小豆島】エンジェルロード・寒霞渓＆オリーブ牛・海辺リゾート 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "瀬戸内海に浮かぶオリーブの島・小豆島エリア完全特化！潮が引くと現れる恋人の聖地「エンジェルロード」、日本三大渓谷美「寒霞渓」ロープウェイ、オリーブ公園の魔法のほうき、オリーブ牛と絶景海辺温泉宿を徹底解説。",
-  keywords: ["kagawa-shodoshima-olive-beach-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["香川", "小豆島", "エンジェルロード", "寒霞渓", "オリーブ牛", "海辺リゾート", "温泉宿"],
 };
 
 function loadSeasonalHotels() {

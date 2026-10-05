@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/solo-room-dining-retreat-onsen-stay/" },
   title: '【おひとりさま部屋食温泉宿】夕食・朝食をお部屋で贅沢に！誰にも邪魔されない極上おこもりひとり旅宿 厳選3選',
   description: '「周りの目を気にせず、浴衣のままマイペースに部屋食を楽しみたい」「静寂の中で名湯をひとり占めしたい」というソロトラベラーへ。草津温泉の老舗「望雲」、四万川の清流を望む「四万温泉 豊島屋」、箱根湯本駅徒歩すぐで川沿いの部屋食が自慢の「箱根水明荘」を徹底特集。おひとりさま歓迎の贅沢ステイガイド。',
   keywords: '一人旅 温泉 部屋食,おひとりさま 温泉宿,草津温泉 望雲 一人旅,四万温泉 豊島屋 部屋食,箱根 ひとり旅 部屋食',

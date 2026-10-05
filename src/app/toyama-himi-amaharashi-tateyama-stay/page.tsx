@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/toyama-himi-amaharashi-tateyama-stay/" },
   title: "【富山・氷見＆雨晴海岸・立山連峰】海越しに望む3000m立山連峰・氷見寒ブリ宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "世界屈指の絶景・海越しにそびえる立山連峰と海の幸王国・富山氷見エリア完全特化！義経伝説の雨晴海岸（女岩）、氷見漁港直送「氷見寒ブリ・白えび」、ひみ番屋街、氷見温泉郷のオーシャンビュー美肌宿を徹底解説。",
-  keywords: ["toyama-himi-amaharashi-tateyama-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["富山", "氷見", "雨晴海岸", "立山連峰", "海越しに望む3000m立山連峰", "氷見寒ブリ宿", "温泉宿"],
 };
 
 function loadSeasonalHotels() {

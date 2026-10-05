@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "11月6日のカニ漁解禁とともに訪れる冬の至福！福井県が誇る黄色いタグ付き「越前がに」や、京都・丹後半島の幻の「間人（たいざ）ガニ」を、刺身・焼き・茹で・カニ味噌甲羅焼きのフルコースで堪能する冬の贅沢温泉旅。",
   keywords: "あわら温泉 越前ガニ 旅館, 11月旅行, 12月旅行, 冬休み, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/winter-echizen-crab-taiza-luxury-stay',
+    canonical: "https://croud-travel.pages.dev/winter-echizen-crab-taiza-luxury-stay/",
   },
   openGraph: {
     title: "【11月解禁！越前ガニ＆間人ガニ】黄色いタグ付き最高峰ブランド蟹を味わう名湯宿5選",

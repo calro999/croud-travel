@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/nanki-shirahama-solo-retreat-ocean-onsen-stay/" },
   title: '【南紀白浜ひとり旅・海望おこもり】太平洋オーシャンビュー・古都白浜温泉・インフィニティ足湯！南国の絶景に癒やされる厳選3宿',
   description: '南紀白浜空港へ東京羽田からわずか約70分！海に突き出る西洋の城で総工費400億の宮殿温泉ステイ「白浜温泉 ホテル川久」、太平洋を一望するインフィニティ足湯テラスと快適ワーケーションが話題の「SHIRAHAMA KEY TERRACE HOTEL SEAMORE」、白良浜の白い砂浜が目の前に広がる「白良荘グランドホテル」を徹底比較。',
   keywords: '南紀白浜 一人旅 ホテル,ホテル川久 ひとり,ホテルシーモア 宿泊,白良荘グランドホテル,南紀白浜 温泉 おこもり 白良浜',

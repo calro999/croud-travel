@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】春の味覚の王様！揚げたてサクサク山菜天ぷら＆摘みたて山菜尽くし会席の秘湯宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！雪解けの山里が育むふきのとう・タラの芽・コゴミ！職人が揚げるサクサク山菜天ぷらと源泉掛け流し秘湯で心身デトックスする名宿5選。',
-  keywords: ["山菜天ぷら","春の味覚","ふきのとう","タラの芽","秘湯温泉","郷土料理会席","楽天トラベル"],
+  keywords: ["2026年", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
     title: '【2026年】春の味覚の王様！揚げたてサクサク山菜天ぷら＆摘みたて山菜尽くし会席の秘湯宿5選',
     description: '2026年最新！雪解けの山里が育むふきのとう・タラの芽・コゴミ！職人が揚げるサクサク山菜天ぷらと源泉掛け流し秘湯で心身デトックスする名宿5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/spring-mountain-vegetable-sansai-tempura-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/spring-mountain-vegetable-sansai-tempura-stay',
+    canonical: "https://croud-travel.pages.dev/spring-mountain-vegetable-sansai-tempura-stay/",
   },
 };
 

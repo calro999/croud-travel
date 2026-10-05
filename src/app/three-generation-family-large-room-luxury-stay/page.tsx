@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '祖父母から孫までみんなで快適！3世代ファミリー旅行・コネクティングルーム＆露天風呂付き離れ宿 ｜ 日本全国・旅宿クラウド',
   description: '熱海・白浜・那須・伊豆など祖父母・両親・子どもがプライバシーを保ちながら一緒に泊まれる大型客室やコネクティングルーム。貸切風呂や部屋食も充実。',
-  keywords: ["3世代旅行","ファミリー旅行","コネクティングルーム","客室露天風呂","部屋食","家族旅行"],
+  keywords: ["コネクティングルーム", "露天風呂付き離れ宿", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/three-generation-family-large-room-luxury-stay',
+    canonical: "https://croud-travel.pages.dev/three-generation-family-large-room-luxury-stay/",
   },
   openGraph: {
     title: '祖父母から孫までみんなで快適！3世代ファミリー旅行・コネクティングルーム＆露天風呂付き離れ宿',

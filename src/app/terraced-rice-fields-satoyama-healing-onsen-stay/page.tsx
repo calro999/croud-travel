@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '黄金色に輝く日本の原風景！絶景棚田と里山の恵みを味わうヒーリング温泉宿 ｜ 日本全国・旅宿クラウド',
   description: '星峠・白米千枚田・大山千枚田など幾重にも重なる美しい棚田のパノラマ。朝霧や夕映えに輝く田園風景と、地場野菜・かまど炊きご飯を味わう休日。',
-  keywords: ["棚田","星峠の棚田","里山リゾート","絶景温泉","古民家宿","日本の原風景"],
+  keywords: ["温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/terraced-rice-fields-satoyama-healing-onsen-stay',
+    canonical: "https://croud-travel.pages.dev/terraced-rice-fields-satoyama-healing-onsen-stay/",
   },
   openGraph: {
     title: '黄金色に輝く日本の原風景！絶景棚田と里山の恵みを味わうヒーリング温泉宿',

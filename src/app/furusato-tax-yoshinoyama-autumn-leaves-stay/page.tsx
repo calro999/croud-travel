@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '世界遺産・吉野山の秋色グラデーション（下千本〜奥千本）と千年の歴史漂う隠れ宿＆大和牛会席 | クラウドトラベルふるさと納税',
   description: '10月下旬〜11月下旬にかけて山裾から山頂へと色づく吉野山。桜の名所が紅葉の海と化す秋の幽玄な景色と、吉野の秘湯・大和牛・吉野葛料理をふるさと納税で楽しむ贅沢ステイ。',
-  keywords: ['吉野・吉野山・洞川 紅葉', '奈良県 紅葉 10月 11月', '吉野山秋色グラデーション＆吉野温泉', 'ふるさと納税 温泉宿泊券', '吉野温泉元湯', '世界遺産吉野山 吉野荘湯川屋', '世界遺産・吉野山 眺望風呂と桜の宿 一休庵', '楽天ふるさと納税 トラベル'],
+  keywords: ["世界遺産", "大和牛会席", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-yoshinoyama-autumn-leaves-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-yoshinoyama-autumn-leaves-stay/",
   },
   openGraph: {
     title: '世界遺産・吉野山の秋色グラデーション（下千本〜奥千本）と千年の歴史漂う隠れ宿＆大和牛会席',

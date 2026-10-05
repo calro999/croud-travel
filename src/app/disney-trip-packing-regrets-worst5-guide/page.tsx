@@ -5,17 +5,11 @@ import path from "path";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/disney-trip-packing-regrets-worst5-guide/" },
   title: "【ディズニー旅行で後悔したことワースト5】スマホ電池切れ・開園待ち寒暖差・靴擦れで地獄を見たリアル失敗談",
   description:
     "東京ディズニーリゾートでありがちな失敗を徹底回避！公式アプリ連動で昼にスマホバッテリーが尽きる悲劇、開園待ちの強風極寒・極暑、新エリアDPA争奪戦の罠、モバイルバッテリーとクッションシート必須リスト。",
-  keywords: [
-    "ディズニー 後悔 ワースト5",
-    "ディズニー 失敗談 持ち物",
-    "ディズニー モバイルバッテリー 必須",
-    "ディズニー 開園待ち 寒さ対策",
-    "ディズニー 新エリア DPA 攻略",
-    "ディズニーリゾート ホテル 楽天トラベル"
-  ],
+  keywords: ["スマホ電池切れ", "開園待ち寒暖差", "靴擦れで地獄を見たリアル失敗談", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
 
 interface Hotel {

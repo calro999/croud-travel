@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-limestone-caves-stay/" },
   title: '日本三大鍾乳洞＆地底の神秘美・涼感アドベンチャー宿×ふるさと納税完全ガイド【2026年最新】龍泉洞・秋芳洞・龍河洞',
   description: '一億年の時が育んだ大自然の造形美！岩手「龍泉洞」世界有数の透明度を誇るドラゴンブルーの地底湖と浄土ヶ浜パークホテル、山口「秋芳洞」百枚皿と傘づくしの巨大カルスト洞窟と長門湯本温泉大谷山荘、高知「龍河洞」弥生人の神壺遺構と土佐の美食を誇る名門城西館。日本三大鍾乳洞の神秘的な地底空間と天然温泉を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大鍾乳洞・地底ジオアドベンチャー特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',

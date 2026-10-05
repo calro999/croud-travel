@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "11月から12月にかけて、山形県庄内地方の南端に位置する「あつみ温泉（温海温泉）」は、日本海の潮風と出羽の山並みが交錯する渓谷に位置し、初雪の静寂とともに冬の味覚の真髄が幕を開けます。開湯約1200年の歴史を誇り、温海川の清流沿いに風情ある木造建築や名旅館が立ち並ぶ温泉街。初冬の日本海・庄内浜で水揚げされる脂の乗った「寒鱈（かんだら）」のどんがら汁、甘み濃厚な紅ズワイガニ、きめ細やかな霜降りの「庄内牛」、赤紫色の伝統野菜「温海かぶ」。塩化物・硫酸塩泉のまろやかな湯が芯まで身体を温め、湯冷めを防ぎます。日本庭園や露天風呂に舞い落ちる雪を眺めながら極上の郷土料理に舌鼓を打つ、厳選の名宿5選を徹底解説します。",
   keywords: 'あつみ温泉 宿泊, 温海温泉 萬国屋, たちばなや, 高見屋別邸 久遠, 東屋旅館, かしわや旅館, 寒鱈汁, 庄内牛, 紅ズワイガニ, 温海川 雪見露天, 11月 12月 山形旅行',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-yamagata-atsumi-onsen-kandara-shonaigyu-snow-stay'
+    canonical: "https://croud-travel.pages.dev/winter-yamagata-atsumi-onsen-kandara-shonaigyu-snow-stay/"
   },
   openGraph: {
     title: "【11・12月山形・庄内あつみ温泉の開湯1200年名湯と冬の日本海味覚】名物寒鱈汁＆紅ズワイガニ・極上庄内牛・温海川雪景色を愛でる老舗名宿5選",

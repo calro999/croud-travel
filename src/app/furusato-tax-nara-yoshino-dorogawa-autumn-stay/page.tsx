@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '奈良・吉野山＆大峯山麓 洞川温泉のレトロ街並み紅葉！名水ごごろと名物ぼたん鍋・大和牛 | クラウドトラベルふるさと納税',
   description: '10月・11月の奈良・吉野＆天川村・洞川温泉特集！世界遺産・吉野山の錦秋グラデーションと金峯山寺、修験道の霊峰・大峯山の麓に広がる縁側レトロな洞川温泉街の紅葉ライトアップ、名水百選ごろごろ水で仕立てる名物ぼたん鍋や大和牛会席をふるさと納税トラベルで味わう歴史旅。',
-  keywords: ["吉野山紅葉・洞川温泉・みたらい渓谷 観光","奈良県 10月 11月 旅行","洞川温泉レトロ宿＆みたらい渓谷紅葉ぼたん鍋","ふるさと納税 温泉宿泊券","洞川温泉☆後鬼の湯・宿　花屋徳兵衛","洞川温泉　行者の宿　角甚","プチホテル＆中華料理　彰武","楽天ふるさと納税 宿泊クーポン"],
+  keywords: ["奈良", "吉野山", "大峯山麓", "大和牛", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-nara-yoshino-dorogawa-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-nara-yoshino-dorogawa-autumn-stay/",
   },
   openGraph: {
     title: '奈良・吉野山＆大峯山麓 洞川温泉のレトロ街並み紅葉！名水ごごろと名物ぼたん鍋・大和牛',

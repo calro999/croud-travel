@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/japan-historic-sake-highway-brewery-walk-stay/" },
   title: "【日本銘酒街道・酒蔵の町並み巡り宿】灘・西条・伏見・魚沼・諏訪街道 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "白壁土蔵と杉玉が揺れる歴史の酒蔵通り！日本屈指の銘酒街道巡り＆温泉宿完全特化！兵庫灘五郷（有馬温泉）、広島西条酒蔵通り、京都伏見酒蔵水辺散策、新潟魚沼銘酒街道、長野諏訪甲州街道、歴史的蔵元見学と門前町ステイを徹底解説。",
-  keywords: ["japan-historic-sake-highway-brewery-walk-stay", "日本酒旅行", "酒蔵巡り", "地酒ペアリング", "温泉宿", "楽天トラベル"],
+  keywords: ["日本銘酒街道", "酒蔵の町並み巡り宿", "西条", "伏見", "魚沼", "諏訪街道", "温泉宿"],
 };
 
 function loadSeasonalHotels() {

@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/hyogo-awaji-north-sumoto-onsen-stay/" },
   title: "【兵庫・淡路島北部＆洲本温泉】明石海峡大橋・花さじき＆淡路牛・玉ねぎ宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "御食国の豊かな食とオーシャンビュー・淡路島北部＆洲本温泉エリア完全特化！明石海峡大橋ライトアップ、あわじ花さじき、淡路島国営明石海峡公園、洲本温泉の三名泉、最高級「淡路牛・淡路島玉ねぎ・由良ウニ宿」を徹底解説。",
-  keywords: ["hyogo-awaji-north-sumoto-onsen-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["兵庫", "淡路島北部", "洲本温泉", "明石海峡大橋", "花さじき", "淡路牛", "玉ねぎ宿"],
 };
 
 function loadSeasonalHotels() {

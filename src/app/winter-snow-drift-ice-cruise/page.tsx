@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/winter-snow-drift-ice-cruise/" },
   title: "【冬のオホーツク】流氷クルーズ＆知床世界遺産ホテル 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "白銀のオホーツク海を覆い尽くす流氷の絶景！網走「おーろら号」、紋別「ガリンコ号」、知床ウトロの流氷ウォーク、阿寒湖の丹頂鶴など、冬の北海道東部でしか体験できない極上流氷ステイを徹底解説。",
-  keywords: ["winter-snow-drift-ice-cruise", "宿泊予約", "温泉宿", "ホテル特集", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["冬のオホーツク", "流氷クルーズ", "知床世界遺産ホテル", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
 
 function loadSeasonalHotels() {

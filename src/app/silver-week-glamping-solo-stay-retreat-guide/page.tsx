@@ -5,19 +5,11 @@ import path from "path";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-solo-stay-retreat-guide/" },
   title: "【おひとり様歓迎 ソログランピング】1人泊プラン確約！静寂の森で読書・サウナ・焚き火を楽しむ秋リトリート ｜ 日本全国・旅宿クラウド",
   description:
     "周りの目を気にせず自分だけの時間を満喫するソログランピング特集！1名利用OK・シングル料金設定のある安心施設、静寂に包まれる森の読書スペース、ソロ専用焚き火台、温泉に浸かるリトリート旅完全ガイド。",
-  keywords: [
-    "ソログランピング",
-    "おひとり様 グランピング",
-    "1人泊 グランピング",
-    "ソロキャンプ グランピング リトリート",
-    "シルバーウィーク 一人旅 宿泊",
-    "ソロ 焚き火 サウナ 温泉",
-    "秋 静寂 森 グランピング",
-    "社会人 リフレッシュ 1人旅",
-  ],
+  keywords: ["おひとり様歓迎", "ソログランピング", "サウナ", "焚き火を楽しむ秋リトリート", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
 
 interface Hotel {

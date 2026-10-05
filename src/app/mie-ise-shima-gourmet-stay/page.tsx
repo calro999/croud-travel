@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/mie-ise-shima-gourmet-stay/" },
   title: "【三重・伊勢志摩】お伊勢参り＆伊勢海老・的矢かき極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "伊勢神宮・鳥羽志摩エリア完全特化！内宮・外宮の両参り、おかげ横丁食べ歩き、英虞湾パノラマと、本場伊勢海老・松阪牛・的矢かきを堪能する名宿を徹底解説。",
-  keywords: ["mie-ise-shima-gourmet-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["三重", "伊勢志摩", "お伊勢参り", "伊勢海老", "的矢かき極上宿", "温泉宿", "宿泊予約"],
 };
 
 function loadSeasonalHotels() {

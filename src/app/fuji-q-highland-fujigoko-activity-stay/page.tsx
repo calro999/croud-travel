@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/fuji-q-highland-fujigoko-activity-stay/" },
   title: "【富士急ハイランド＆富士五湖アクティビティ宿】絶叫アトラクション＆グランピング 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "世界最高峰の絶叫マシンと富士山麓大自然アクティビティ完全特化！富士急ハイランド優先入園付きオフィシャルホテル、富士五湖（河口湖・山中湖）カヤック・SUP・バギー体験、富士山ビューグランピング＆露天風呂宿を徹底解説。",
-  keywords: ["fuji-q-highland-fujigoko-activity-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["富士急ハイランド", "富士五湖アクティビティ宿", "絶叫アトラクション", "グランピング", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
 
 function loadSeasonalHotels() {

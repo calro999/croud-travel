@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "12月中旬から奥秩父の渓谷に姿を現す天然の氷の芸術「三十槌の氷柱（みそつちのつらら）」！夜の幻想的なライトアップ鑑賞と、秩父温泉の柔らかな美肌湯、名物・豚みそ漬け焼きや手打ち蕎麦を堪能する冬旅。",
   keywords: "秩父 温泉 旅館, 11月旅行, 12月旅行, 冬休み, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/winter-chichibu-icicle-misotsuchi-stay',
+    canonical: "https://croud-travel.pages.dev/winter-chichibu-icicle-misotsuchi-stay/",
   },
   openGraph: {
     title: "【12月開幕！三十槌の氷柱＆秩父温泉】大自然の氷のアートと秩父名物グルメ宿5選",

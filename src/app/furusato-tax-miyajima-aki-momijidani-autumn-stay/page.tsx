@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '宮島・紅葉谷公園の真紅モミジと安芸宮浜温泉！世界遺産嚴島神社・秋の焼き牡蠣＆広島牛を味わう旅 | クラウドトラベルふるさと納税',
   description: '10月・11月の広島・宮島＆宮浜温泉特集！嚴島神社の秋景色と約700本のモミジが燃え立つ紅葉谷公園、瀬戸内海と宮島を対岸から見晴らす美肌の宮浜温泉、秋に旬を迎えるぷりぷりの広島牡蠣と広島牛をふるさと納税トラベルで味わう贅沢プラン。',
-  keywords: ['廿日市・宮島・宮浜温泉 紅葉 観光', '広島県 10月 11月 旅行', '広島・宮島＆宮浜温泉特集', 'ふるさと納税 温泉宿泊券', 'リブマックスリゾート宮浜温泉Ｏｃｅａｎ', '宮浜温泉　湯の宿　宮浜グランドホテル', '宮浜温泉　旅館　かんざき', '楽天ふるさと納税 宿泊クーポン'],
+  keywords: ["宮島", "秋の焼き牡蠣", "広島牛を味わう旅", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-miyajima-aki-momijidani-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-miyajima-aki-momijidani-autumn-stay/",
   },
   openGraph: {
     title: '宮島・紅葉谷公園の真紅モミジと安芸宮浜温泉！世界遺産嚴島神社・秋の焼き牡蠣＆広島牛を味わう旅',

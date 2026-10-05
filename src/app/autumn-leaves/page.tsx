@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/autumn-leaves/" },
   title: "【全国】紅葉露天風呂＆絶景温泉旅館ガイド ｜ 日本全国・旅宿クラウド",
   description: "秋の絶景！全国屈指の紅葉名所（日光、箱根、京都嵐山、黒川温泉、乳頭温泉）と、湯船から紅葉を一望できる人気露天風呂付き温泉旅館を徹底比較。見頃時期、アクセス、おすすめの過ごし方完全ガイド。",
-  keywords: ["紅葉", "露天風呂", "温泉旅館", "日光", "箱根", "嵐山", "黒川温泉", "乳頭温泉", "秋旅行", "客室露天風呂"],
+  keywords: ["全国", "紅葉露天風呂", "絶景温泉旅館ガイド", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
 
 function loadAutumnHotels() {

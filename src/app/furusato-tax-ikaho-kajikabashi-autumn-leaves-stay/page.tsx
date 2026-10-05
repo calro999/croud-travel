@@ -4,20 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '伊香保温泉の河鹿橋もみじライトアップ＆365段石段街！黄金の湯宿×ふるさと納税完全ガイド【2026年最新秋旅】群馬',
   description: '10月下旬〜11月中旬に真っ赤に染まる名所「伊香保温泉 河鹿橋」。朱塗りの太鼓橋と紅葉ライトアップの幻想的なコントラスト、365段の石段街の足湯・射的巡りと、鉄分豊富なにごり湯「黄金の湯」を誇る「旅館 さくらい」「森秋旅館」「洋風旅館ぴのん」で上州牛・上州麦豚会席を堪能。ふるさと納税で実質2,000円。',
-  keywords: [
-    "ふるさと納税 温泉",
-    "ふるさと納税 宿泊券",
-    "ふるさと納税 トラベルクーポン",
-    "群馬・伊香保温泉＆河鹿橋紅葉特集",
-    "10月 旅行 おすすめ",
-    "11月 旅行 おすすめ",
-    "秋 旅行 温泉",
-    "伊香保温泉 河鹿橋 紅葉 ライトアップ 旅館",
-    "楽天トラベル ふるさと納税",
-    "実質2000円 温泉"
-],
+  keywords: ["2026年最新秋旅", "群馬", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-ikaho-kajikabashi-autumn-leaves-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-ikaho-kajikabashi-autumn-leaves-stay/"
   },
   openGraph: {
     title: '伊香保温泉の河鹿橋もみじライトアップ＆365段石段街！黄金の湯宿×ふるさと納税完全ガイド【2026年最新秋旅】群馬',

@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "きめ細やかなサシの上州牛と、熱を通すと甘くとろける下仁田ねぎの黄金コンビ！名湯・草津温泉や伊香保、四万温泉で、職人特製の割り下で味わう至高のすき焼き会席と美肌の湯を堪能する極上ステイ。",
   keywords: "草津温泉 上州牛 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/traditional-gunma-joshu-beef-sukiyaki-stay',
+    canonical: "https://croud-travel.pages.dev/traditional-gunma-joshu-beef-sukiyaki-stay/",
   },
   openGraph: {
     title: "【上州牛すき焼き＆下仁田ねぎ】群馬名物とろける極上すき焼き会席！草津・伊香保・四万の名湯宿5選",

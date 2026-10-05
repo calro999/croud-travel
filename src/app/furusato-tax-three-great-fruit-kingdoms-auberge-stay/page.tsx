@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-fruit-kingdoms-auberge-stay/" },
   title: '日本三大フルーツ王国＆もぎたて果実の恵み・果樹園パノラマと美食リゾート×ふるさと納税完全ガイド【2026年最新】山梨・山形・長野',
   description: '太陽を浴びた旬の果実とスイーツの楽園！山梨笛吹「ぶどう・桃の郷」甲府盆地を見下ろすフルーツパーク富士屋ホテル、山形天童「さくらんぼ佐藤錦・ラフランス」将棋と果樹園の天童温泉滝の湯、長野須坂・小布施「シャインマスカット・信州りんご」栗と果樹の欧風オーベルジュ小布施の宿ヴァンヴェール。日本三大フルーツ王国の贅沢な果実旅を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大フルーツ・果樹園美味特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',

@@ -5,18 +5,11 @@ import path from "path";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/fuji-climbing-packing-regrets-worst5-guide/" },
   title: "【富士登山で後悔したことワースト5】高山病・下山時の爪割れ・ヘッドライト忘れ！登頂成功の持ち物チェックリスト ｜ 日本全国・旅宿クラウド",
   description:
     "初心者が最も後悔する富士登山の落とし穴！登りより辛い下山時のつま先激痛、山小屋の寒暖差、小銭（トイレチップ用100円玉）切れ、ヘッドライトの電池切れ、五合目前泊・後泊におすすめの温泉宿まとめ。",
-  keywords: [
-    "富士登山 後悔",
-    "富士山 持ち物 初心者",
-    "富士登山 下山 爪割れ",
-    "富士山 高山病 対策",
-    "富士山 山小屋 持ち物",
-    "富士登山 前泊 温泉",
-    "吉田ルート 持ち物 リスト",
-  ],
+  keywords: ["高山病", "下山時の爪割れ", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
 };
 
 interface Hotel {

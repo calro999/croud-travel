@@ -4,20 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '赤目四十八滝の渓谷もみじハイキング＆竹あかりライトアップ！赤目温泉名宿×ふるさと納税完全ガイド【2026年最新秋旅】三重',
   description: '11月上旬〜11月下旬に見頃を迎える「赤目四十八滝（あかめしじゅうはちたき）」。名瀑「赤目五瀑」を彩るモミジと苔むした岩肌の渓谷美、幻想的な「竹あかり」ナイトウォーク、忍者の隠れ宿「対泉閣」「山水園」「滝本屋」で伊賀牛すき焼きや旬の松茸・山里会席を堪能。楽天ふるさと納税で実質2,000円。',
-  keywords: [
-    'ふるさと納税 温泉',
-    'ふるさと納税 宿泊券',
-    'ふるさと納税 トラベルクーポン',
-    '三重・赤目四十八滝＆忍者の里温泉特集',
-    '10月 旅行 おすすめ',
-    '11月 旅行 おすすめ',
-    '秋 旅行 温泉',
-    '紅葉 温泉旅館',
-    '楽天トラベル ふるさと納税',
-    '実質2000円 温泉'
-  ],
+  keywords: ["2026年最新秋旅", "三重", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-akame48-waterfalls-autumn-leaves-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-akame48-waterfalls-autumn-leaves-stay/"
   },
   openGraph: {
     title: '赤目四十八滝の渓谷もみじハイキング＆竹あかりライトアップ！赤目温泉名宿×ふるさと納税完全ガイド【2026年最新秋旅】三重',

@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   description: "11月から1月、木々の葉が落ち清澄な大気に包まれる日光山内は、世界遺産・日光東照宮が最も神聖な静寂を纏う季節です。白銀の雪化粧に黄金と極彩色が際立つ国宝「陽明門」、静まり返る薬師堂に響く「鳴龍」の鈴音、徳川家康公を祀る奥宮への白銀杉並木の石段。新春には輪王寺や日光二荒山神社とともに数万人が訪れる新春初詣の聖地となります。寒さ深まる門前町で味わう名物「日光湯波会席」や極上の「とちぎ和牛」、身体の芯まで温もる日光温泉の雪見露天風呂を満喫できる厳選名宿5選を徹底紹介します。",
   keywords: '日光東照宮 冬 参拝, 日光東照宮 初詣 混雑, 日光湯波 会席 宿, とちぎ和牛 日光 温泉, 日光千姫物語, 日光金谷ホテル, 日光 星の宿, 小槌の宿 鶴亀大吉, 日光西町倶楽部あらとうと, 11月 12月 1月 日光旅行',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-tochigi-nikko-toshogu-hatsumode-yuba-onsen-stay'
+    canonical: "https://croud-travel.pages.dev/winter-tochigi-nikko-toshogu-hatsumode-yuba-onsen-stay/"
   },
   openGraph: {
     title: "【11・12・1月日光】世界遺産・日光東照宮の静謐な冬参拝＆新春初詣と名物「日光湯波会席」・とちぎ和牛を堪能する名宿5選",

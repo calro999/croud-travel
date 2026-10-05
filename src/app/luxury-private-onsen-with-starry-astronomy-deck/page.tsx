@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】日本一の星空・阿智村！天体観測専用デッキ＆満天星露天風呂付き極上宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！環境省認定日本一の星空の村・長野県阿智村（昼神温泉）！星空ナイトツアーや客室星空デッキ、美肌の湯で宇宙の神秘に包まれる名宿5選。',
-  keywords: ["阿智村星空","昼神温泉","天体観測デッキ","星空ナイトツアー","美肌の湯","満天星露天風呂","楽天トラベル"],
+  keywords: ["2026年", "日本一の星空", "阿智村！天体観測専用デッキ", "満天星露天風呂付き極上宿5選", "日本全国", "旅宿クラウド", "温泉宿"],
   openGraph: {
     title: '【2026年】日本一の星空・阿智村！天体観測専用デッキ＆満天星露天風呂付き極上宿5選',
     description: '2026年最新！環境省認定日本一の星空の村・長野県阿智村（昼神温泉）！星空ナイトツアーや客室星空デッキ、美肌の湯で宇宙の神秘に包まれる名宿5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/luxury-private-onsen-with-starry-astronomy-deck',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/luxury-private-onsen-with-starry-astronomy-deck',
+    canonical: "https://croud-travel.pages.dev/luxury-private-onsen-with-starry-astronomy-deck/",
   },
 };
 

@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "日本屈指の激流ポイント吉野川や球磨川、利根川で楽しむエキサイティングなラフティング！白波を乗り越える大興奮のアドベンチャーと、疲れた体を癒やす天然温泉大浴場・絶景サウナを備えた宿を厳選。",
   keywords: "ラフティング 温泉 ホテル, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/super-panoramic-rafting-canyon-stay',
+    canonical: "https://croud-travel.pages.dev/super-panoramic-rafting-canyon-stay/",
   },
   openGraph: {
     title: "【大激流ラフティング】吉野川・球磨川で挑む白波アドベンチャー＆天然温泉リゾート宿5選",

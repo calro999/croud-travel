@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "日本の陶磁器の代名詞「瀬戸焼」の器で供される、名物「三河一色産うなぎ」の蒲焼きやひつまぶし！三河湾・伊勢湾のオーシャンビュー温泉と、愛知が誇る食文化・伝統工芸を贅沢に味わう宿を徹底紹介。",
   keywords: "蒲郡 温泉 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/traditional-aichi-seto-ware-pottery-stay',
+    canonical: "https://croud-travel.pages.dev/traditional-aichi-seto-ware-pottery-stay/",
   },
   openGraph: {
     title: "【瀬戸焼とうなぎ会席】伝統のやきもの美と三河一色産うなぎ！愛知・蒲郡・南知多の名湯宿5選",

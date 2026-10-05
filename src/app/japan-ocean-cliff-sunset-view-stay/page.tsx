@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/japan-ocean-cliff-sunset-view-stay/" },
   title: "【絶景断崖オーシャン＆夕陽パノラマ宿】三陸・男鹿・越前・室戸岬・天草 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "荒波が削り出した断崖絶壁と燃えるような夕陽完全特化！三陸復興国立公園・北山崎、男鹿半島・入道崎、福井・東尋坊、高知・室戸岬、熊本・天草松島の夕陽百選、波打ち際の絶景露天風呂温泉旅館を徹底解説。",
-  keywords: ["japan-ocean-cliff-sunset-view-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["絶景断崖オーシャン", "夕陽パノラマ宿", "三陸", "男鹿", "越前", "室戸岬", "天草"],
 };
 
 function loadSeasonalHotels() {

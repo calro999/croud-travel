@@ -5,18 +5,10 @@ import path from "path";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/okinawa-family-trip-how-many-nights-budget/" },
   title: "【子連れ沖縄旅行 何泊がベスト？】年齢別おすすめ日数・総額費用＆キッズプール付きリゾートホテル比較 ｜ 日本全国・旅宿クラウド",
   description: "子連れ沖縄旅行は2泊3日？3泊4日？未就学児・小学生の年齢別最適スケジュール、美ら海水族館とビーチの回り方、レンタカー選び、キッズプールやスライダー充実の恩納村ファミリーリゾート徹底解説。",
-  keywords: [
-    "子連れ 沖縄旅行 何泊",
-    "沖縄 子連れ 2泊3日 3泊4日 比較",
-    "沖縄旅行 予算 家族4人",
-    "美ら海水族館 子連れ 回り方",
-    "沖縄 プール付きホテル 子連れ",
-    "恩納村 リゾートホテル 子連れ",
-    "北谷 アメリカンビレッジ 子連れ",
-    "楽天トラベル 沖縄 子連れ"
-  ],
+  keywords: ["子連れ沖縄旅行", "何泊がベスト？", "年齢別おすすめ日数", "総額費用", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
 
 interface Hotel {

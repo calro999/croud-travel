@@ -4,9 +4,10 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-highland-resort-french-auberge-stay/" },
   title: '高原リゾート＆美食フレンチオーベルジュ×ふるさと納税完全ガイド【2026年最新】那須・清里・裏磐梯の森の休日',
   description: '澄んだ空気と木漏れ日の森で味わう極上フレンチコース！那須高原、八ヶ岳清里、裏磐梯など名門高原リゾート＆オーベルジュを楽天ふるさと納税宿泊クーポンでお得に予約する大人旅ガイド。',
-  keywords: ['ふるさと納税', '楽天トラベル', '宿泊クーポン', '高原リゾート・森のフレンチ特集', '温泉旅館', 'ホテル予約', '2026年最新'],
+  keywords: ["高原リゾート", "2026年最新", "那須", "清里", "裏磐梯の森の休日", "温泉宿", "宿泊予約"],
   openGraph: {
     title: '高原リゾート＆美食フレンチオーベルジュ×ふるさと納税完全ガイド【2026年最新】那須・清里・裏磐梯の森の休日',
     description: '澄んだ空気と木漏れ日の森で味わう極上フレンチコース！那須高原、八ヶ岳清里、裏磐梯など名門高原リゾート＆オーベルジュを楽天ふるさと納税宿泊クーポンでお得に予約する大人旅ガイド。',

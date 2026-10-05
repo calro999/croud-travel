@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   description: "冬の長崎は、1万5000個もの極彩色中国提灯が街路を埋め尽くす「長崎ランタンフェスティバル」や世界新三大夜景・稲佐山から見下ろす1000万ドルの冬夜景、南山手グラバー園のロマンチックなイルミネーションに包まれる特別な季節です。総鎮守・諏訪神社での厳かな初詣、白濁鶏白湯と海鮮の旨味が凝縮された熱々の本場長崎ちゃんぽん、出島伝来の伝統卓袱料理、そしてとろける長崎和牛。長崎港を見下ろす丘の上や異国情緒あふれる南山手の厳選名宿5選を徹底解説します。",
   keywords: '長崎 ホテル, 稲佐山 夜景 ホテル, 長崎ランタンフェスティバル, ガーデンテラス長崎, ルークプラザホテル, ホテルニュー長崎, グラバー園 イルミネーション, 長崎ちゃんぽん, 12月 1月 長崎 観光',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-nagasaki-city-lantern-festival-inasayama-nightview-champon-stay'
+    canonical: "https://croud-travel.pages.dev/winter-nagasaki-city-lantern-festival-inasayama-nightview-champon-stay/"
   },
   openGraph: {
     title: "【12・1月長崎】長崎市＆稲佐山・南山手！1万5千個の長崎ランタンフェスと稲佐山世界新三大夜景・名物ちゃんぽんと長崎和牛を味わう名宿5選",

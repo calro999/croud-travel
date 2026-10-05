@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "11月下旬から開幕する本場ドイツの雰囲気を再現した「横浜赤レンガ倉庫クリスマスマーケット」！巨大モミの木ツリーやイルミネーションを鑑賞し、みなとみらいの煌めく夜景を一望する高層階バルコニー付きホテルで過ごす特別な夜。",
   keywords: "横浜 みなとみらい 夜景 ホテル, 11月旅行, 12月旅行, 冬休み, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/winter-yokohama-minatomirai-christmas-stay',
+    canonical: "https://croud-travel.pages.dev/winter-yokohama-minatomirai-christmas-stay/",
   },
   openGraph: {
     title: "【11・12月！横浜みなとみらいクリスマス夜景】赤レンガ倉庫マーケットとベイビュー宿5選",

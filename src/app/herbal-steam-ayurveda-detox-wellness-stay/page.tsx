@@ -4,6 +4,7 @@ import Link from 'next/link';
 import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/herbal-steam-ayurveda-detox-wellness-stay/" },
   title: '薬草ハーブ蒸し＆本格アーユルヴェーダ宿完全ガイド【酵素風呂・体内浄化】 | クラウドトラベル',
   description: '和草ハーブやよもぎスチームサウナ、本格アーユルヴェーダ（シロダーラ）、米ぬか酵素風呂、発酵薬膳料理で心身をリセットするウェルネスステイ。極上のデトックスリトリート。',
   openGraph: {

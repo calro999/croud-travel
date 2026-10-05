@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/cosme-spa-facial-treatment-esthetic-stay/" },
   title: "【ブランドスパ＆エステ付きご褒美ホテル】ロクシタン・THANN＆天然温泉 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "全身を解きほぐす至福のトリートメント！高級コスメブランド直営スパ＆エステ付き温泉宿完全特化！ロクシタン、THANN、クレ・ド・ポー ボーテ、アロマオイルマッサージ付き宿泊プラン、温泉デトックス宿を徹底解説。",
-  keywords: ["cosme-spa-facial-treatment-esthetic-stay", "女性一人旅", "ソロ活", "ご褒美ステイ", "温泉宿", "楽天トラベル"],
+  keywords: ["ブランドスパ", "エステ付きご褒美ホテル", "ロクシタン", "THANN", "天然温泉", "温泉宿", "宿泊予約"],
 };
 
 function loadSeasonalHotels() {

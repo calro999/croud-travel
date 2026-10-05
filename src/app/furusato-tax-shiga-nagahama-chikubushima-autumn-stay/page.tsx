@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '滋賀・北びわ湖 長浜城下町の紅葉とパワースポット竹生島！長浜太閤温泉＆近江牛・鴨鍋 | クラウドトラベルふるさと納税',
   description: '10月・11月の滋賀・長浜＆北びわ湖特集！琵琶湖に浮かぶ神の島「竹生島（宝厳寺・都久夫須麻神社）」の秋クルーズ、秀吉公ゆかりの長浜城（豊公園）の紅葉、太閤秀吉が開湯した赤茶色の名湯「長浜太閤温泉」、認証近江牛や秋解禁の天然鴨鍋をふるさと納税トラベルで味わう湖北の秋旅。',
-  keywords: ["長浜・黒壁スクエア・竹生島 紅葉 観光","滋賀県 10月 11月 旅行","竹生島紅葉クルーズ＆長浜太閤温泉近江牛鴨鍋","ふるさと納税 温泉宿泊券","北ビワコホテル　グラツィエ","びわ湖畔　おいしい湯の宿　長浜太閤温泉　浜湖月","ＹＡＭＡＴＯ　ＴＨＥ　ＳＥＡＳＯＮＳ　須賀谷温泉","楽天ふるさと納税 宿泊クーポン"],
+  keywords: ["滋賀", "北びわ湖", "近江牛", "鴨鍋", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-shiga-nagahama-chikubushima-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-shiga-nagahama-chikubushima-autumn-stay/",
   },
   openGraph: {
     title: '滋賀・北びわ湖 長浜城下町の紅葉とパワースポット竹生島！長浜太閤温泉＆近江牛・鴨鍋',

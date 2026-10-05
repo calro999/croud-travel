@@ -5,19 +5,11 @@ import path from "path";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-sea-kayak-marine-guide/" },
   title: "【海グランピング SUP＆シーカヤック体験】秋のビーチ直結！波音を聞いて眠るウォーターフロントリゾート ｜ 日本全国・旅宿クラウド",
   description:
     "山だけでなく海も最高！秋風が心地よい9月のシーサイドグランピング特集。目の前のビーチで楽しむSUPやシーカヤック、初心者向け海釣り体験、水平線に沈む夕日と海鮮浜焼きBBQのモデルコース。",
-  keywords: [
-    "海 グランピング",
-    "シーカヤック グランピング",
-    "SUP グランピング",
-    "シルバーウィーク 海 グランピング",
-    "ビーチ直結 グランピング",
-    "ウォーターフロント リゾート",
-    "海鮮BBQ グランピング",
-    "秋 海遊び マリンアクティビティ",
-  ],
+  keywords: ["海グランピング", "SUP", "シーカヤック体験", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
 
 interface Hotel {

@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】湯守のこだわりが息づく。本物の源泉掛け流し＆極上泉質を極めた名湯宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！加水・加温・循環一切なしの本物のかけ流し！温泉ソムリエや湯守が守り続ける濃厚なにごり湯・炭酸泉・硫黄泉を堪能する極上温泉宿5選。',
-  keywords: ["源泉掛け流し","にごり湯","硫黄泉","炭酸泉","秘湯名宿","湯守の宿","楽天トラベル"],
+  keywords: ["2026年", "極上泉質を極めた名湯宿5選", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
     title: '【2026年】湯守のこだわりが息づく。本物の源泉掛け流し＆極上泉質を極めた名湯宿5選',
     description: '2026年最新！加水・加温・循環一切なしの本物のかけ流し！温泉ソムリエや湯守が守り続ける濃厚なにごり湯・炭酸泉・硫黄泉を堪能する極上温泉宿5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/luxury-private-onsen-with-onsen-sommelier-guide',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/luxury-private-onsen-with-onsen-sommelier-guide',
+    canonical: "https://croud-travel.pages.dev/luxury-private-onsen-with-onsen-sommelier-guide/",
   },
 };
 

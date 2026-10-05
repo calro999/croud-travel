@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/utsunomiya-solo-business-gyoza-skyspa-stay/" },
   title: '【宇都宮出張＆餃子ひとり旅】最上階展望スカイスパ・駅直結・名物餃子食べ比べ！北関東の要所で整う極上ホテル 厳選3選',
   description: '東北・秋田・山形新幹線停車！北関東最大の工業・ビジネス拠点である栃木県宇都宮市。「駅東口直結・最上階スカイスパでととのう新ランドマーク」の「CANDEO HOTELS 宇都宮」、宇都宮駅ビル直結でシモンズベッド完備の「ＪＲ東日本ホテルメッツ 宇都宮」、大谷石ラウンジと広々客室が自慢の「ホテルマイステイズ宇都宮」を徹底特集。',
   keywords: '宇都宮 出張 ホテル おすすめ,宇都宮 一人旅 ホテル,カンデオホテルズ宇都宮 サウナ,ホテルメッツ宇都宮 宿泊,宇都宮 餃子 ホテル',

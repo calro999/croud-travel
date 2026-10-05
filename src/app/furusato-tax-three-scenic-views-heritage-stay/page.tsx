@@ -5,16 +5,9 @@ import Image from 'next/image';
 export const metadata: Metadata = {
   title: '日本三景の絶景オーシャンビュー宿×ふるさと納税完全ガイド【2026年最新】松島・天橋立・安芸の宮島の名門旅館',
   description: '日本三景（松島・天橋立・宮島）を望む特等席の老舗旅館＆絶景ホテル！松島湾の多島美露天風呂、天橋立の白砂青松パノラマ、嚴島神社大鳥居の潮満ちる夜景。楽天ふるさと納税宿泊クーポンを活用して贅沢にお得ステイする完全ガイド。',
-  keywords: [
-    '楽天ふるさと納税',
-    'ふるさと納税 宿泊クーポン',
-    '楽天トラベル ふるさと納税',
-    '高級温泉旅館',
-    '露天風呂付き客室',
-    '2026年旅行'
-  ],
+  keywords: ["2026年最新", "松島", "天橋立", "安芸の宮島の名門旅館", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-three-scenic-views-heritage-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-three-scenic-views-heritage-stay/"
   },
   openGraph: {
     title: '日本三景の絶景オーシャンビュー宿×ふるさと納税完全ガイド【2026年最新】松島・天橋立・安芸の宮島の名門旅館',

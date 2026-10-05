@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "11月中旬からブナの原生林が純白の雪に包まれる十和田八幡平国立公園・乳頭温泉郷。乳白色の湯けむりが立ち上る野趣あふれる雪見露天風呂と、囲炉裏端でいただく比内地鶏の出汁が染み渡る熱々の本場きりたんぽ鍋。冬の東北が誇る究極の秘湯旅ガイド。",
   keywords: '乳頭温泉 宿泊 11月 12月, 乳頭温泉郷 雪見露天 旅館, 鶴の湯 秘湯 冬, 秋田 きりたんぽ 温泉宿, 乳頭温泉 秘湯めぐり, 田沢湖 温泉, 乳頭温泉 モデルコース',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-akita-nyuto-onsen-yukimi-kiritanpo-stay',
+    canonical: "https://croud-travel.pages.dev/winter-akita-nyuto-onsen-yukimi-kiritanpo-stay/",
   },
   openGraph: {
     title: "【11・12月乳頭温泉郷の白銀秘湯めぐり】ブナ原生林の雪見露天風呂と本場きりたんぽ鍋の宿5選",

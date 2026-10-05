@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-kannon-temples-stay/" },
   title: '日本三大観音＆諸願成就の霊場・下町風情と湖畔の祈り宿×ふるさと納税完全ガイド【2026年最新】浅草観音・石山観音・大須観音',
   description: '人々の信仰と江戸・上方・尾張の文化を育んだ名刹！都内最古の寺で雷門の賑わいを誇る「浅草寺（浅草観音）」御宿野乃浅草別邸、紫式部ゆかりの西国霊場で瀬田川の清流を望む「石山寺（石山観音）」南郷温泉二葉屋、大須商店街の活気と七ツ寺の歴史薫る「大須観音」ホテルアベスト大須観音駅前。日本三大観音霊場の参拝と名宿ステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大観音・聖地祈願特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',

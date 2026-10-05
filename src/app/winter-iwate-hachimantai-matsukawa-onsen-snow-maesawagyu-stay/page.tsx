@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "11月中旬から初冬の訪れとともに深い静寂と白銀の雪景色に包まれる岩手県・八幡平温泉郷と松川温泉。日本初の地熱発電所が稼働した自然のエネルギーが息づくこの地は、青みがかった乳白色の単純硫黄泉が滾々と自噴する東北随一の秘湯エリアです。雪が舞い散るブナ林や渓流に面した雪見露天風呂に肩まで浸かれば、硫黄の香りと肌を包む柔らかな湯の花が日々の喧騒と寒さを忘れさせてくれます。夕餉には、伝統工芸・南部鉄器の重厚な鉄鍋で焼き上げる岩手屈指のブランド牛「前沢牛」や「雫石牛」の極上すき焼き、八幡平ポークの雪見しゃぶしゃぶ、八幡平杜仲茶ポーク、岩手三陸の冬の幸など滋味あふれる郷土会席が並びます。初冬の八幡平山麓で心身を解き放つ至極の厳選名宿5選を詳細に紐解きます。",
   keywords: '八幡平温泉 旅館, 松川温泉 宿泊, 松川荘, 峡雲荘, 八幡平ハイツ, 八幡平ライジングサンホテル, 新安比温泉 静流閣, 乳白色温泉, 雪見露天風呂, 前沢牛, 南部鉄器すき焼き, 11月 12月 岩手温泉',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-iwate-hachimantai-matsukawa-onsen-snow-maesawagyu-stay'
+    canonical: "https://croud-travel.pages.dev/winter-iwate-hachimantai-matsukawa-onsen-snow-maesawagyu-stay/"
   },
   openGraph: {
     title: "【11・12月岩手・八幡平温泉郷＆松川温泉】白銀の樹氷と乳白色雪見秘湯・極上前沢牛と南部鉄器すき焼きを堪能する名宿5選",

@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "清らかな小川のほとりで優美に光を放つ初夏のホタル！宿の敷地内を流れる小川や客室露天風呂から、闇夜に舞う幻想的なホタルの光を鑑賞できる全国屈指の情緒あふれる温泉宿を厳選紹介。",
   keywords: "ホタル 露天風呂 温泉 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/luxury-private-onsen-with-scenic-firefly-stream',
+    canonical: "https://croud-travel.pages.dev/luxury-private-onsen-with-scenic-firefly-stream/",
   },
   openGraph: {
     title: "【初夏のホタル乱舞＆清流露天】客室デッキや庭園から幻想的な光を愛でる名湯宿5選",

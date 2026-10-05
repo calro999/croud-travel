@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/saga-arita-imari-hasami-pottery-stay/" },
   title: "【佐賀＆長崎・有田＆伊万里・波佐見】日本磁器発祥の地・トンバイ塀の窯元＆伊万里牛宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "400年の伝統を誇る肥前やきものロード完全特化！日本磁器のふるさと「有田焼（トンバイ塀・泉山磁石場）」、秘窯の里「伊万里・大川内山」、モダンで大人気の「波佐見焼（陶器市・西の原）」、武雄温泉、名物「伊万里牛・器の美食宿」を徹底解説。",
-  keywords: ["saga-arita-imari-hasami-pottery-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["佐賀", "長崎", "有田", "伊万里", "波佐見", "日本磁器発祥の地", "トンバイ塀の窯元"],
 };
 
 function loadSeasonalHotels() {

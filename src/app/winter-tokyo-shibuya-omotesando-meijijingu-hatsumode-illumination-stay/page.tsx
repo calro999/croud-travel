@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   description: "11月中旬から1月にかけて、渋谷・表参道・原宿は世界中から注目を集める光と祝祭の街へと進化します。表参道約1kmを黄金色に染め上げるケヤキ並木イルミネーション、代々木公園へと続く幻想的な「青の洞窟 SHIBUYA」、そして地上229m「SHIBUYA SKY」から冬の澄んだ夜空に広がる富士山夕景と都心360度パノラマ夜景。新春には日本一の参拝者数を誇る明治神宮で厳かな初詣。最新カルチャーと上質なホテルステイが交差する冬の渋谷滞在。楽天APIから最新取得した実力派ホテル5選を徹底解説します。",
   keywords: '渋谷 ホテル, 表参道 イルミネーション, 明治神宮 初詣, 青の洞窟 渋谷, SHIBUYA SKY 富士山, セルリアンタワー東急ホテル, sequence MIYASHITA PARK, 渋谷エクセルホテル東急, 11月 12月 1月 東京 観光',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-tokyo-shibuya-omotesando-meijijingu-hatsumode-illumination-stay'
+    canonical: "https://croud-travel.pages.dev/winter-tokyo-shibuya-omotesando-meijijingu-hatsumode-illumination-stay/"
   },
   openGraph: {
     title: "【11・12・1月東京】渋谷＆表参道・原宿！明治神宮初詣＆青の洞窟・表参道ケヤキ並木イルミとSHIBUYA SKY夜景を味わう名宿5選",

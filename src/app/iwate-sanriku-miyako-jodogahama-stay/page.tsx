@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/iwate-sanriku-miyako-jodogahama-stay/" },
   title: "【岩手・三陸宮古＆浄土ヶ浜】極楽浄土の白い奇岩・青の洞窟＆名物「瓶ドン」宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "三陸復興国立公園の白砂と青松の絶景・岩手宮古エリア完全特化！国の名勝「浄土ヶ浜」、さっぱ船で行く「青の洞窟（八戸穴）」、三陸鉄道リアス線、三陸の海の幸を牛乳瓶に詰めた名物「瓶ドン」、宮古トラウトサーモン宿を徹底解説。",
-  keywords: ["iwate-sanriku-miyako-jodogahama-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["岩手", "三陸宮古", "浄土ヶ浜", "極楽浄土の白い奇岩", "青の洞窟", "名物「瓶ドン」宿", "温泉宿"],
 };
 
 function loadSeasonalHotels() {

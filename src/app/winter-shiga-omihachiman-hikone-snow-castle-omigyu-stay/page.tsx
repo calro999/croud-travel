@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   description: "11月から1月、滋賀県・湖東エリア（近江八幡・彦根）は、白銀に染まる国宝・彦根城天守の荘厳な雪化粧と、八幡堀や水郷の静謐な冬景色に包まれます。寒さ冴え渡る冬の夜に最高の贅沢となるのが、日本三大和牛・近江牛のとろけるすき焼きやしゃぶしゃぶ。湖東三山の初雪、冬の琵琶湖が育む本諸子（ホンモロコ）や鮒寿司の伝統の味。冬の澄んだ空気の中で比良山系の雪嶺と琵琶湖を一望する名湯・絶景リゾート宿5選を徹底解説します。",
   keywords: '彦根城 雪景色, 近江八幡 水郷 冬, 近江牛 すき焼き, 彦根キャッスル リゾート＆スパ, 休暇村 近江八幡, 料亭旅館やす井, ホテルニューオウミ, ビワフロント彦根, 11月 12月 1月 滋賀旅行, 琵琶湖 冬 温泉',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-shiga-omihachiman-hikone-snow-castle-omigyu-stay'
+    canonical: "https://croud-travel.pages.dev/winter-shiga-omihachiman-hikone-snow-castle-omigyu-stay/"
   },
   openGraph: {
     title: "【11・12・1月滋賀】近江八幡水郷雪景色＆国宝・彦根城雪化粧と日本三大和牛「近江牛すき焼き」＆冬の琵琶湖名物・湖畔の絶景名宿5選",

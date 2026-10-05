@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "12月下旬から温泉街を流れる田の原川沿いを幻想的に彩る黒川温泉の冬の風物詩「湯あかり」！数百個の竹灯籠が放つ優しい光と、名物・入湯手形で行く露天風呂めぐり、熊本あか牛を堪能する温もり旅。",
   keywords: "黒川温泉 露天風呂 旅館, 11月旅行, 12月旅行, 冬休み, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/winter-kumamoto-kurokawa-yuakari-illumination-stay',
+    canonical: "https://croud-travel.pages.dev/winter-kumamoto-kurokawa-yuakari-illumination-stay/",
   },
   openGraph: {
     title: "【12月開幕！黒川温泉「湯あかり」竹灯籠】渓流を照らす幻想の竹あかりと名湯宿5選",

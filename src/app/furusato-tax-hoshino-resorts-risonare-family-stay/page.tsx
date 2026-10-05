@@ -4,20 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '家族の最高の思い出を！星野リゾート「リゾナーレ」×ふるさと納税完全攻略ガイド【2026年最新】八ヶ岳・熱海・那須で洗練された非日常ステイ',
   description: '洗練されたデザインと土地の恵みを体感するアクティビティが融合した星野リゾートのファミリーリゾートホテル「リゾナーレ」。「リゾナーレ八ヶ岳」「リゾナーレ熱海」「リゾナーレ那須」を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で賢く予約する完全ガイド。波の出る全天候型プール、絶景クライミング、森のアグリツーリズモを体験。',
-  keywords: [
-    'ふるさと納税 旅行',
-    'ふるさと納税 ホテル',
-    '星野リゾート リゾナーレ特集',
-    '楽天ふるさと納税 トラベル',
-    'リゾナーレ八ヶ岳',
-    'リゾナーレ熱海',
-    'リゾナーレ那須',
-    '高級温泉旅館',
-    'オフィシャルホテル',
-    '実質2000円'
-  ],
+  keywords: ["2026年最新", "八ヶ岳", "熱海", "那須で洗練された非日常ステイ", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-hoshino-resorts-risonare-family-stay/',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-hoshino-resorts-risonare-family-stay/",
   },
   openGraph: {
     title: '家族の最高の思い出を！星野リゾート「リゾナーレ」×ふるさと納税完全攻略ガイド【2026年最新】八ヶ岳・熱海・那須で洗練された非日常ステイ',

@@ -4,16 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '国宝天守・城下町キャッスルビュー名門宿×ふるさと納税完全ガイド【2026年最新】姫路城・松本城・彦根城の歴史旅',
   description: '客室から国宝天守を一望する贅沢！世界遺産・姫路城（白鷺城）のライトアップパノラマ、北アルプスを背負う漆黒の松本城下町ホテル、琵琶湖畔に聳える彦根城直結名門リゾート。戦国ロマンと武家文化を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
-  keywords: [
-    '楽天ふるさと納税',
-    'ふるさと納税 宿泊クーポン',
-    '楽天トラベル ふるさと納税',
-    '高級温泉旅館',
-    '露天風呂付き客室',
-    '2026年旅行'
-  ],
+  keywords: ["国宝天守", "2026年最新", "姫路城", "松本城", "彦根城の歴史旅", "温泉宿", "宿泊予約"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-national-treasure-castle-view-luxury-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-national-treasure-castle-view-luxury-stay/"
   },
   openGraph: {
     title: '国宝天守・城下町キャッスルビュー名門宿×ふるさと納税完全ガイド【2026年最新】姫路城・松本城・彦根城の歴史旅',

@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/naoshima-setouchi-solo-art-island-retreat-stay/" },
   title: '【直島・瀬戸内アートひとり旅】美術館に泊まる至高体験・瀬戸内海パノラマ・本場讃岐うどん！島と港でととのう厳選3宿',
   description: '世界中のアートファンを魅了する現代アートの聖地・直島と、その玄関口・高松港。安藤忠雄建築の美術館とホテルが融合した世界的名宿「ベネッセハウス」、高松港・JR高松駅直結の最高峰シティホテル「ＪＲホテルクレメント高松」、全室クラブフロア仕様の上質空間「ロイヤルパークホテル高松」を徹底比較。',
   keywords: '直島 一人旅 ホテル,ベネッセハウス 宿泊,JRホテルクレメント高松,ロイヤルパークホテル高松,直島 アート 地中美術館 讃岐うどん',

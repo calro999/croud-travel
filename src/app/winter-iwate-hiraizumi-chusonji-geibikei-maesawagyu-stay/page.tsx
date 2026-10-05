@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   description: "11月下旬から1月、岩手県南部の平泉と一関は、静寂と白銀の神秘に包まれます。奥州藤原氏が築いた世界遺産「中尊寺」では、老杉の並木道「月見坂」に雪が降り積もり、国宝「金色堂」が黄金の神々しさを一層際立たせます。日本百景の名勝「猊鼻渓（げいびけい）」では、12月から冬の名物「雪見こたつ舟」が運航。切り立つ百尺の断崖絶壁に舞い散る雪を眺めながら、ぽかぽかのこたつで味わう熱々の木流し鍋と船頭の「猊鼻追分」。厳冬の美味「前沢牛」のすき焼きや天然温泉に癒やされる厳選名宿5選を徹底解説します。",
   keywords: '平泉 中尊寺 金色堂 冬, 猊鼻渓 こたつ舟 雪見, 前沢牛 すき焼き 宿, 平泉 温泉 ホテル, しづか亭, 山桜 桃の湯, ベリーノホテル一関, 亀の井ホテル 一関, 平泉ホテル武蔵坊, 11月 12月 1月 岩手 旅行',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-iwate-hiraizumi-chusonji-geibikei-maesawagyu-stay'
+    canonical: "https://croud-travel.pages.dev/winter-iwate-hiraizumi-chusonji-geibikei-maesawagyu-stay/"
   },
   openGraph: {
     title: "【11・12・1月岩手】世界遺産・平泉中尊寺金色堂の白銀月見坂＆日本百景・猊鼻渓「雪見こたつ舟」と極上前沢牛を味わう名宿5選",

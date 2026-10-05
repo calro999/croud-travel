@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/niigata-tsukioka-solo-retreat-emerald-onsen-stay/" },
   title: '【新潟・月岡温泉ひとり旅・エメラルドグリーンの美肌湯おこもり】硫黄含有量全国屈指・自家源泉庭園露天・越後贅沢会席！名湯美肌ステイ厳選3宿',
   description: 'エメラルドグリーンに輝く美しい湯と日本有数の硫黄含有量を誇る新潟の名湯・月岡温泉！全国旅館ランキング上位常連の至高のおもてなしと広大な回遊庭園露天を誇る「白玉の湯 華鳳」、姉妹館として名高い「白玉の湯 泉慶」、静寂な料亭風の佇まいで美食と自家源泉を味わう「月岡温泉 いま井」を楽天API最新データに基づき徹底比較。',
   keywords: '月岡温泉 一人旅 宿,月岡温泉 ホテル 一人,白玉の湯 華鳳 一人旅,白玉の湯 泉慶,月岡温泉 いま井,月岡温泉 ひとり旅 おこもり',

@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '蔵王エコーラインの絶景ドライブ紅葉＆強酸性白濁名湯・蔵王温泉で味わう極上山形牛 | クラウドトラベルふるさと納税',
   description: '10月上旬〜10月下旬に見頃を迎える蔵王エコーラインと御釜の紅葉。日本屈指の強酸性硫黄泉・蔵王温泉の老舗宿で源泉かけ流しの湯浴みと、本場山形牛のすき焼き・芋煮をふるさと納税で堪能する秋旅特集。',
-  keywords: ['山形・蔵王・蔵王エコーライン 紅葉 グルメ', '山形県 秋 10月 11月', '蔵王エコーライン紅葉＆蔵王温泉山形牛', 'ふるさと納税 温泉宿泊券', '蔵王温泉 名湯リゾート ルーセントタカミヤ', '蔵王温泉 ＫＫＲ蔵王 白銀荘（国家公務員共済組合連合会蔵王保養所）', '蔵王温泉 最上高湯 善七乃湯（旧：蔵王温泉 大平ホテル）', '楽天ふるさと納税 温泉クーポン'],
+  keywords: ["強酸性白濁名湯", "蔵王温泉で味わう極上山形牛", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-zao-echoline-autumn-leaves-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-zao-echoline-autumn-leaves-stay/",
   },
   openGraph: {
     title: '蔵王エコーラインの絶景ドライブ紅葉＆強酸性白濁名湯・蔵王温泉で味わう極上山形牛',

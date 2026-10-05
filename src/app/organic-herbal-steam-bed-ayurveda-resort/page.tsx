@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '【2026年】本場アーユルヴェーダ＆ハーブ温活！極上シロダーラと薬草温泉のデトックスリゾート5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！額に温かいオイルを垂らす本格シロダーラやハーブサウナ、体質別オーガニック薬膳料理と名湯で心身を再生するウェルネスホテル5選。',
-  keywords: ["アーユルヴェーダ","シロダーラ","薬草温泉","デトックス","ウェルネス旅","楽天トラベル"],
+  keywords: ["2026年", "本場アーユルヴェーダ", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/organic-herbal-steam-bed-ayurveda-resort',
+    canonical: "https://croud-travel.pages.dev/organic-herbal-steam-bed-ayurveda-resort/",
   },
   openGraph: {
     title: '【2026年】本場アーユルヴェーダ＆ハーブ温活！極上シロダーラと薬草温泉のデトックスリゾート5選',

@@ -7,14 +7,7 @@ const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.
 export const metadata: Metadata = {
   title: '日本三大弁財天＆開運金運・芸能上達の聖地巡礼と水辺の名宿×ふるさと納税完全ガイド【2026年最新】竹生島・江の島・厳島',
   description: '水と美、財運と芸能の女神を祀る霊験あらたかな「日本三大弁財天」（滋賀琵琶湖・竹生島宝厳寺竹生島神社、神奈川湘南・江島神社、広島安芸・世界遺産厳島神社）。神秘的な島旅と水辺の絶景、門前町の歴史名旅館や美食リゾート。楽天ふるさと納税の宿泊割引クーポンを活用して、実質2,000円負担で巡る開運と癒やしのパワースポット宿泊ガイド。',
-  keywords: [
-    '日本三大弁財天・水辺の聖地巡礼ステイ特集',
-    'ふるさと納税 旅行',
-    '楽天トラベル ふるさと納税',
-    '日本三大',
-    '温泉旅館 予約',
-    '高級リゾート クーポン'
-  ],
+  keywords: ["日本三大弁財天", "開運金運", "2026年最新", "竹生島", "江の島", "厳島", "温泉宿"],
   alternates: { canonical: baseUrl + '/furusato-tax-three-great-ancient-shrines-torii-pilgrimage-stay/' },
   openGraph: {
     title: '日本三大弁財天＆開運金運・芸能上達の聖地巡礼と水辺の名宿×ふるさと納税完全ガイド【2026年最新】竹生島・江の島・厳島',

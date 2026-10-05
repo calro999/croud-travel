@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/toyama-solo-business-tateyama-sauna-stay/" },
   title: '【富山出張＆立山連峰ビュー】富山駅近・天然温泉サウナ・白えび美食！「天然の生簀」富山湾を味わう極上宿 厳選3選',
   description: '北陸新幹線で東京から約2時間8分！富山湾の神秘と雄大な立山連峰が抱く街・富山。「全館畳敷きで天然温泉大浴場と海鮮いくら朝食」を誇る「御宿 野乃富山」、展望大浴場サウナと立山連峰パノラマビューが自慢の老舗「富山マンテンホテル」、富山駅前至近の「ホテルグランテラス富山」を徹底特集。',
   keywords: '富山 出張 ホテル サウナ,富山 一人旅 ホテル おすすめ,御宿野乃富山 朝食,富山マンテンホテル 大浴場,富山駅 温泉 ホテル',

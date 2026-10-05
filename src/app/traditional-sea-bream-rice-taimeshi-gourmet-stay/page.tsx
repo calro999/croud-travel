@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '【2026年】愛媛・明石・鳴門の極上天然真鯛！名物「鯛めし」＆鯛しゃぶ会席が自慢の温泉宿5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！宇和島風・松山風の名物鯛めしや、身が引き締まった天然鳴門鯛のお造り・鯛しゃぶを堪能できる瀬戸内の絶景グルメ温泉旅館5選。',
-  keywords: ["鯛めし","天然真鯛","鯛しゃぶ","瀬戸内グルメ","海の幸温泉","楽天トラベル"],
+  keywords: ["2026年", "愛媛", "明石", "鯛しゃぶ会席が自慢の温泉宿5選", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/traditional-sea-bream-rice-taimeshi-gourmet-stay',
+    canonical: "https://croud-travel.pages.dev/traditional-sea-bream-rice-taimeshi-gourmet-stay/",
   },
   openGraph: {
     title: '【2026年】愛媛・明石・鳴門の極上天然真鯛！名物「鯛めし」＆鯛しゃぶ会席が自慢の温泉宿5選',

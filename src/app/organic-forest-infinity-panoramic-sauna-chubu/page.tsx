@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "雄大な北アルプスの山並みを望む最新薪ストーブサウナ！白樺林に囲まれたウッドデッキでアロマロウリュを楽しみ、雪解け天然水のシングル水風呂と澄み切った高原の空気で異次元のととのい体験。",
   keywords: "白馬 サウナ 温泉 ホテル, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/organic-forest-infinity-panoramic-sauna-chubu',
+    canonical: "https://croud-travel.pages.dev/organic-forest-infinity-panoramic-sauna-chubu/",
   },
   openGraph: {
     title: "【信州・白馬アルプス森林サウナ】北アルプス絶景パノラマ＆白樺水風呂の極上リゾート宿5選",

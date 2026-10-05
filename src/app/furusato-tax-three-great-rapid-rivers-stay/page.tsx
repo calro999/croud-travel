@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-rapid-rivers-stay/" },
   title: '日本三大急流＆爽快川下り舟と清流鮎グルメ宿×ふるさと納税完全ガイド【2026年最新】最上川・富士川・球磨川',
   description: '激流を駆け抜ける大迫力の川下りと清流の恵み！山形「最上川」芭蕉ゆかりの舟下りと全室リバービュー高見屋最上川別邸紅、静岡「富士川」富士山を仰ぐ日本屈指の急流とホテルルートイン富士中央公園東、熊本「球磨川」球磨川下りと天然アユ・球磨焼酎を味わう登録有形文化財の宿人吉温泉芳野旅館。日本三大急流の豪快な自然美を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大急流・川下り特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',

@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   description: "冬の静寂に包まれる日本の滝百選「箕面大滝」と、境内一面に無数の勝ちダルマが並ぶ勝運の寺「勝尾寺」での新春初詣を巡る11〜1月の大阪・箕面＆北摂・能勢特集。箕面大滝への滝道散策で味わう名物「もみじの天ぷら」や、厳冬期限定の能勢の極上「天然猪鍋（ぼたん鍋）」・池田牛。そして大阪平野の夜景を一望する天空露天風呂や「関西の奥座敷」箕面温泉・伏尾温泉の極上美肌湯に癒やされる厳選宿5選を徹底特集します。",
   keywords: '勝尾寺 初詣, 箕面大滝 冬, 箕面温泉 ホテル, 能勢 ぼたん鍋 宿, 伏尾温泉 不死王閣, もみじの天ぷら 箕面, 勝ちダルマ 勝尾寺, 11月 12月 1月 大阪 旅行, 箕面観光ホテル',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-osaka-minoo-katsuo-ji-daruma-botannabe-stay'
+    canonical: "https://croud-travel.pages.dev/winter-osaka-minoo-katsuo-ji-daruma-botannabe-stay/"
   },
   openGraph: {
     title: "【11・12・1月大阪】箕面＆能勢・池田！日本の滝百選「箕面大滝」の冬情趣と勝運の寺「勝尾寺」初詣・冬の極上味覚「能勢の天然猪鍋（ぼたん鍋）」＆箕面温泉名宿5選",

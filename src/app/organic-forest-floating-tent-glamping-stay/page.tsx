@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】森の宙に浮かぶ幻想空間！空中テント・ドームテント＆森林プライベートサウナ宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！木々の間に浮かぶフローティングテントやパノラマドームテント！満天の星空とプライベートテントサウナ、豪華BBQを愉しむ大自然グランピング5選。',
-  keywords: ["空中テント","ドームテント","グランピング","テントサウナ","星空リゾート","森のグランピング","楽天トラベル"],
+  keywords: ["2026年", "ドームテント", "森林プライベートサウナ宿5選", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約"],
   openGraph: {
     title: '【2026年】森の宙に浮かぶ幻想空間！空中テント・ドームテント＆森林プライベートサウナ宿5選',
     description: '2026年最新！木々の間に浮かぶフローティングテントやパノラマドームテント！満天の星空とプライベートテントサウナ、豪華BBQを愉しむ大自然グランピング5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/organic-forest-floating-tent-glamping-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/organic-forest-floating-tent-glamping-stay',
+    canonical: "https://croud-travel.pages.dev/organic-forest-floating-tent-glamping-stay/",
   },
 };
 

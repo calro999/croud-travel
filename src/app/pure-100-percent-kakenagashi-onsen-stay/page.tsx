@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/pure-100-percent-kakenagashi-onsen-stay/" },
   title: "【自家源泉かけ流し100%の宿】加水なし・加温なし・循環なし！本物の名湯 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "温泉通が選ぶ「自家源泉100%完全かけ流し」宿完全特化！加水なし・加温なし・循環ろ過なし・消毒なしの純生温泉。毎分数百リットルの湧出量、湯の花が舞う鮮度抜群の湯口、飲泉許可、湯守のこだわり宿を徹底解説。",
-  keywords: ["pure-100-percent-kakenagashi-onsen-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["自家源泉かけ流し100%の宿", "加水なし", "加温なし", "循環なし！本物の名湯", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
 
 function loadSeasonalHotels() {

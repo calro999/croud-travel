@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "天城連山の清流が育む香り高い伊豆本わさびと、職人が秘伝のタレでふっくら香ばしく焼き上げる名物うなぎ！文学と歴史の薫る修善寺温泉や中伊豆で、名水美食と風雅な温泉に心癒やされる贅沢ステイ。",
   keywords: "修善寺温泉 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/traditional-shizuoka-unagi-wasabi-gourmet-stay',
+    canonical: "https://croud-travel.pages.dev/traditional-shizuoka-unagi-wasabi-gourmet-stay/",
   },
   openGraph: {
     title: "【極上うなぎ炭火焼き＆生わさび丼】静岡・伊豆修善寺の名水美食と名湯宿5選",

@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '木曽路・馬籠宿と妻籠宿の石畳紅葉！木曽福島温泉の清流露天・信州新そば＆木曽牛を味わう秋の中仙道旅 | クラウドトラベルふるさと納税',
   description: '10月・11月の長野・木曽路特集！中山道の宿場町の面影を残す馬籠宿・妻籠宿の紅葉散策、木曽川の清流を望む木曽福島温泉の肌に優しい美肌湯、秋の新そば「木曽開田そば」と極上木曽牛ステーキ・五平餅をふるさと納税トラベルで味わう歴史浪漫旅。',
-  keywords: ['木曽路・馬籠宿・妻籠宿・木曽福島 紅葉 観光', '長野県 10月 11月 旅行', '長野・木曽路＆木曽福島温泉特集', 'ふるさと納税 温泉宿泊券', '木曽福島温泉　山みず季　URARA　つたや', 'きそふくしま温泉　街道浪漫　おん宿　蔦屋', 'ペンションかおる', '楽天ふるさと納税 宿泊クーポン'],
+  keywords: ["木曽路", "信州新そば", "木曽牛を味わう秋の中仙道旅", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-kiso-valley-magome-tsumago-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-kiso-valley-magome-tsumago-stay/",
   },
   openGraph: {
     title: '木曽路・馬籠宿と妻籠宿の石畳紅葉！木曽福島温泉の清流露天・信州新そば＆木曽牛を味わう秋の中仙道旅',

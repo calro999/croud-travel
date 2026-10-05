@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/okayama-kurashiki-solo-retreat-bikan-stay/" },
   title: '【倉敷美観地区ひとり旅・大浴場おこもり】白壁土蔵の町並み・展望大浴場・大原美術館！江戸情緒とデニムの街に癒やされる厳選3宿',
   description: '岡山駅からJR山陽本線で約17分！美観地区徒歩すぐで最上階大浴場＆ルーフトップラウンジを誇る「ロイヤルパークホテル倉敷」、倉敷駅前で天然温泉大浴場と地元食材朝食が魅力の「ホテル グラン・ココエ倉敷」、駅徒歩すぐで老舗の安心感「倉敷ステーションホテル」を徹底比較。',
   keywords: '倉敷 一人旅 ホテル,倉敷美観地区 ホテル 大浴場,ロイヤルパークホテル倉敷,ホテルグランココエ倉敷,倉敷ステーションホテル,大原美術館 おこもり',

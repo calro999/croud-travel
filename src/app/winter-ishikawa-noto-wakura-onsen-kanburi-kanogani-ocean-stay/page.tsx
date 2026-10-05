@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "11月から12月にかけて、能登半島の優美な内海「七尾湾」に抱かれた名湯「和倉温泉（わくらおんせん）」は、冬の日本海がもたらす最高峰の美食と、波静かなオーシャンビューに初雪が舞い散る風情豊かな季節を迎えます。開湯約1200年、海中から湧き出た白鷺伝説に由来する塩化物泉は、国内屈指の高温泉にして豊かな塩分が身体を芯から温める「海のいで湯」。11月6日に解禁される石川県産ブランドズワイガニ「加能ガニ」や内子・外子が詰まった「香箱ガニ」、初冬の寒風に揉まれて脂が乗り切った「能登寒ぶり」のブリしゃぶ、希少な極上「能登牛」。波穏やかな七尾湾と能登島大橋を望む絶景露天風呂とともに、心温まる北陸の贅を尽くす厳選名宿5選を徹底解説します。",
   keywords: '和倉温泉 宿泊, 和倉温泉 のと楽, 美湾荘, ホテル海望, 宝仙閣, 宿守屋寿苑, 能登寒ぶり, 加能ガニ, 香箱ガニ, 能登牛, 11月 12月 和倉温泉',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-ishikawa-noto-wakura-onsen-kanburi-kanogani-ocean-stay'
+    canonical: "https://croud-travel.pages.dev/winter-ishikawa-noto-wakura-onsen-kanburi-kanogani-ocean-stay/"
   },
   openGraph: {
     title: "【11・12月石川・能登和倉温泉の七尾湾冬景色と寒の味覚】名物能登寒ぶり＆加能ガニ・極上能登牛・開湯1200年の海のいで湯を愉しむ海辺名宿5選",

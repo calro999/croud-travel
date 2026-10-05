@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '兵庫・淡路島サンセット温泉＆秋の鳴門海峡！絶品淡路島3年とらふぐ＆淡路牛会席 | クラウドトラベルふるさと納税',
   description: '10月・11月の兵庫・淡路島特集！瀬戸内海・播磨灘に沈む茜色の絶景サンセットと湯ざわり滑らかなうずしお温泉＆洲本温泉、秋解禁の極上「淡路島3年とらふぐ」や最高級淡路牛、鳴門海峡の秋の大潮うずしおをふるさと納税トラベルクーポンで満喫する大人の島旅。',
-  keywords: ["淡路島・洲本温泉・うずしお 観光","兵庫県 10月 11月 旅行","淡路島秋サンセット温泉＆淡路島3年とらふぐ旅","ふるさと納税 温泉宿泊券","洲本温泉　ホテルニューアワジ別亭　淡路夢泉景","サンセットビューホテル　けひの海～うずしお温泉～","洲本温泉　海のホテル　島花","楽天ふるさと納税 宿泊クーポン"],
+  keywords: ["兵庫", "淡路島サンセット温泉", "淡路牛会席", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-awaji-sunset-onsen-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-awaji-sunset-onsen-autumn-stay/",
   },
   openGraph: {
     title: '兵庫・淡路島サンセット温泉＆秋の鳴門海峡！絶品淡路島3年とらふぐ＆淡路牛会席',

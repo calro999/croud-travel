@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/hakone-travel-budget-guide/" },
   title: "【箱根旅行 費用】日帰り・1泊2日それぞれいくら？フリーパス活用の交通費＆温泉旅館の宿泊費シミュレーション ｜ 日本全国・旅宿クラウド",
   description: "箱根旅行の費用を日帰り・1泊2日で完全シミュレーション！箱根フリーパス（6,100円）で元を取る回り方、芦ノ湖・大涌谷・彫刻の森の入場料、箱根湯本・強羅・仙石原の温泉旅館相場まで全公開。",
-  keywords: ["hakone-travel-budget-guide", "箱根旅行", "費用", "日帰り", "1泊2日", "箱根フリーパス", "温泉旅館", "楽天トラベル"],
+  keywords: ["箱根旅行", "費用", "日帰り", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
 
 function loadHotels() {

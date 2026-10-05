@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '【2026年】海と空に溶け込むインフィニティプール＆展望温泉！絶景リゾートホテル5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！海と一体化する幻想的なインフィニティプールと絶景展望露天風呂を備えた人気リゾートホテル5選。非日常のラグジュアリーステイを。',
-  keywords: ["インフィニティプール","オーシャンビュー","展望温泉","リゾートホテル","楽天トラベル"],
+  keywords: ["2026年", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/onsen-ryokan-with-oceanfront-infinity-pool-stay',
+    canonical: "https://croud-travel.pages.dev/onsen-ryokan-with-oceanfront-infinity-pool-stay/",
   },
   openGraph: {
     title: '【2026年】海と空に溶け込むインフィニティプール＆展望温泉！絶景リゾートホテル5選',

@@ -4,20 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '猪苗代・達沢不動滝の名瀑紅葉＆猪苗代湖！萩姫伝説の磐梯熱海温泉美肌宿×ふるさと納税完全ガイド【2026年最新秋旅】福島',
   description: '10月中旬〜11月上旬に原生林の巨木と白糸のような滝が錦秋に染まる名瀑「福島・達沢不動滝」。磐梯山と猪苗代湖を望む秋の爽快ドライブと、開湯800年・萩姫伝説が残る「八景園」「萩姫の湯 栄楽館」「湯のやど楽山」でpH9.1のとろとろ美肌温泉と会津牛・極上馬刺し・新米コシヒカリ会席を堪能。ふるさと納税で実質2,000円。',
-  keywords: [
-    "ふるさと納税 温泉",
-    "ふるさと納税 宿泊券",
-    "ふるさと納税 トラベルクーポン",
-    "福島・猪苗代達沢不動滝＆磐梯熱海温泉紅葉特集",
-    "10月 旅行 おすすめ",
-    "11月 旅行 おすすめ",
-    "秋 旅行 温泉",
-    "達沢不動滝 猪苗代湖 紅葉 磐梯熱海温泉 旅館",
-    "楽天トラベル ふるさと納税",
-    "実質2000円 温泉"
-],
+  keywords: ["猪苗代", "達沢不動滝の名瀑紅葉", "2026年最新秋旅", "福島", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-tatsusawa-inawashiro-autumn-leaves-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-tatsusawa-inawashiro-autumn-leaves-stay/"
   },
   openGraph: {
     title: '猪苗代・達沢不動滝の名瀑紅葉＆猪苗代湖！萩姫伝説の磐梯熱海温泉美肌宿×ふるさと納税完全ガイド【2026年最新秋旅】福島',

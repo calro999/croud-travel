@@ -4,6 +4,7 @@ import Link from 'next/link';
 import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/private-room-sauna-luxury-villa-retreat-stay/" },
   title: '客室専用サウナ＆プライベートヴィラ宿完全ガイド【完全貸切・ととのいスイート】 | クラウドトラベル',
   description: '客室専用バレルサウナ、テラス付き水風呂、スイートルーム完備のプライベートサウナ付き宿を厳選。誰の目も気にせず24時間好きな時に自分だけのリズムでととのう至高の贅沢。',
   openGraph: {

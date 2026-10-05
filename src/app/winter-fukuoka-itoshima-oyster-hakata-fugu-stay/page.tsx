@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   description: "11月から1月、福岡は玄界灘の冬の恵みが一斉に旬を迎える全国屈指の美食パラダイスとなります。福岡市民や全国の旅行者が心待ちにする冬の看板風物詩が、糸島半島（岐志・船越・加布里・福吉）に立ち並ぶ名物「糸島カキ小屋」。炭火やガス火で香ばしく焼き上げるミルキーで濃厚な糸島カキをはじめ、荒海で育った天然とらふぐや高級魚アラ（クエ）、そして寒風の中で湯気を上げる熱々の博多もつ鍋や濃厚白濁スープの博多水炊き。博多駅前の壮大なイルミネーション「光の街・博多」の煌めきや、糸島の美しい海岸美、博多湾を望む絶景オーシャンビューホテル＆屋上天然温泉スパで至福の冬旅を叶える厳選5宿を紹介します。",
   keywords: '糸島 カキ小屋 冬, 博多 もつ鍋 宿泊, 玄界灘 とらふぐ, ヒルトン福岡シーホーク, 都ホテル博多, ザルイガンズ, ホテルマリノアリゾート福岡, ドーミーインPREMIUM博多, 11月 12月 1月 福岡旅行',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-fukuoka-itoshima-oyster-hakata-fugu-stay'
+    canonical: "https://croud-travel.pages.dev/winter-fukuoka-itoshima-oyster-hakata-fugu-stay/"
   },
   openGraph: {
     title: "【11・12・1月福岡】冬の糸島カキ小屋めぐりと玄界灘の天然とらふぐ・熱々博多もつ鍋＆水炊き・海を望むリゾート＆天然温泉を満喫する名宿5選",

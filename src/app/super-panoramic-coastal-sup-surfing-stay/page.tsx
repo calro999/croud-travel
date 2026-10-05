@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "透明度抜群の海で楽しむスタンドアップパドルボード（SUP）体験！海上に立って海上散歩を楽しんだ後は、水平線と一体になるインフィニティ露天風呂と獲れたて海の幸ディナーを満喫する爽快リゾート旅。",
   keywords: "伊豆 SUP 露天風呂 ホテル, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/super-panoramic-coastal-sup-surfing-stay',
+    canonical: "https://croud-travel.pages.dev/super-panoramic-coastal-sup-surfing-stay/",
   },
   openGraph: {
     title: "【絶景SUP＆マリンリゾート】海を一望するインフィニティ温泉とオーシャンフロント宿5選",

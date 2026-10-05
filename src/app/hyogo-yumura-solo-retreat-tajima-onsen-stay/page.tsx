@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/hyogo-yumura-solo-retreat-tajima-onsen-stay/" },
   title: '【山陰・湯村温泉ひとり旅・荒湯源泉98度おこもり】杜氏の愛した美肌湯・但馬牛炭火焼き・夢千代日記の風情！春来川せせらぎの湯治厳選3宿',
   description: '嘉祥元年（848年）開湯、日本屈指の高熱源泉を誇る兵庫・湯村温泉！格式ある日本庭園と展望檜風呂が口コミ★4.5超の名門「佳泉郷 井づつや」、全室素足でくつろげる和モダン温泉宿「御宿コトブキ」、アットホームなもてなしと料理が口コミ★4.8超の「伯雲亭」を楽天API最新データに基づき徹底比較。',
   keywords: '湯村温泉 兵庫 一人旅 宿,湯村温泉 ホテル 一人,井づつや 湯村温泉,御宿コトブキ,伯雲亭 湯村温泉,但馬 ひとり旅 おこもり',

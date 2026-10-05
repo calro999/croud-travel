@@ -4,16 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '清流アクティビティ＆リバービュー温泉宿×ふるさと納税完全ガイド【2026年最新】長良川・四万十川・保津川の舟旅',
   description: '日本が誇る清流で楽しむカヌー・ラフティング・伝統舟下り！岐阜長良川の鵜飼鑑賞、高知四万十川のSUP＆沈下橋めぐり、京都保津川のダイナミック渓谷下り。川魚の女王・天然鮎会席とリバーサイド名宿を楽天ふるさと納税でお得に予約する旅ガイド。',
-  keywords: [
-    '楽天ふるさと納税',
-    'ふるさと納税 宿泊クーポン',
-    '楽天トラベル ふるさと納税',
-    '高級温泉旅館',
-    '露天風呂付き客室',
-    '2026年旅行'
-  ],
+  keywords: ["清流アクティビティ", "2026年最新", "長良川", "四万十川", "保津川の舟旅", "温泉宿", "宿泊予約"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-river-activity-canoe-fishing-resort-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-river-activity-canoe-fishing-resort-stay/"
   },
   openGraph: {
     title: '清流アクティビティ＆リバービュー温泉宿×ふるさと納税完全ガイド【2026年最新】長良川・四万十川・保津川の舟旅',

@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/okayama-kurashiki-bikan-stay/" },
   title: "【岡山・倉敷美観地区】白壁土蔵・大原美術館＆倉敷デニム・フルーツ極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "岡山・倉敷美観地区エリア完全特化！倉敷川の舟流し、白壁土蔵の町並み、日本初の西洋美術館「大原美術館」、倉敷デニムストリート、岡山白桃・マスカットパフェと美観地区の風情ある町家ホテルを徹底解説。",
-  keywords: ["okayama-kurashiki-bikan-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["岡山", "倉敷美観地区", "白壁土蔵", "大原美術館", "倉敷デニム", "フルーツ極上宿", "温泉宿"],
 };
 
 function loadSeasonalHotels() {

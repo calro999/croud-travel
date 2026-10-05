@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-historic-canals-stay/" },
   title: '日本三大運河＆水郷レトロ・白壁の蔵屋敷と舟流し情趣の名宿×ふるさと納税完全ガイド【2026年最新】小樽・倉敷・近江八幡',
   description: '水運と商人の繁栄が息づく美しい水辺景観！北海道「小樽運河」ガス燈揺れる石造倉庫群と運河の宿おたるふる川、岡山「倉敷川・倉敷美観地区」白壁と柳並木の舟流しとあぶと倉敷館、滋賀「近江八幡・八幡堀」近江商人発祥の水郷と休暇村近江八幡。日本三大運河のノスタルジックな風景と歴史ある名宿を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大運河・水郷風情特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',

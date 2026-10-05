@@ -4,6 +4,7 @@ import Link from 'next/link';
 import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-cherry-blossom-spring-hanami-onsen-stay/" },
   title: '【全国の桜名所×ふるさと納税】客室から夜桜を愛でるお花見露天風呂＆桜の絶景宿完全ガイド | クラウドトラベル',
   description: '春限定の絶景！静岡・河津桜、奈良・吉野山の一目千本桜、青森・弘前公園の桜の絨毯。春のお花見シーズンに客室や露天風呂から満開の桜を独占できる名宿を厳選。早期満室の桜宿をふるさと納税で賢く予約。',
   openGraph: {

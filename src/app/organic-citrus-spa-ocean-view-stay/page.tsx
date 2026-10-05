@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】爽やかな柑橘の香りに包まれる。特産みかんアロマスパスパ＆オーシャンビュー宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！愛媛や湯河原の特産みかん・伊予柑オイルを使った極上アロマスエステ！青い海を一望するインフィニティ露天風呂と柑橘スイーツを満喫する宿5選。',
-  keywords: ["みかんアロマ","アロマスエステ","オーシャンビュー","愛媛温泉","湯河原温泉","インフィニティ露天","楽天トラベル"],
+  keywords: ["2026年", "オーシャンビュー宿5選", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
     title: '【2026年】爽やかな柑橘の香りに包まれる。特産みかんアロマスパスパ＆オーシャンビュー宿5選',
     description: '2026年最新！愛媛や湯河原の特産みかん・伊予柑オイルを使った極上アロマスエステ！青い海を一望するインフィニティ露天風呂と柑橘スイーツを満喫する宿5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/organic-citrus-spa-ocean-view-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/organic-citrus-spa-ocean-view-stay',
+    canonical: "https://croud-travel.pages.dev/organic-citrus-spa-ocean-view-stay/",
   },
 };
 

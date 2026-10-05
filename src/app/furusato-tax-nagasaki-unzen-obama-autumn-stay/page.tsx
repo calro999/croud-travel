@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '長崎・雲仙地獄の紅葉とクラシックリゾート！白濁硫黄泉の名湯＆長崎和牛・秋島原グルメ | クラウドトラベルふるさと納税',
   description: '10月・11月の長崎・雲仙＆島原特集！国の名勝・雲仙地獄から立ち上る噴気と仁田峠の鮮やかな普賢岳紅葉ロープウェイ、日本屈指の歴史を誇るクラシックリゾートホテルと乳白色の濃厚硫黄泉、長崎和牛ステーキや島原の秋の味覚をふるさと納税トラベルで堪能する贅沢旅。',
-  keywords: ["雲仙温泉・仁田峠紅葉・雲仙地獄 観光","長崎県 10月 11月 旅行","雲仙温泉クラシックホテル＆長崎和牛硫黄泉旅","ふるさと納税 温泉宿泊券","雲仙観光ホテル","雲仙温泉　雲仙宮崎旅館","雲仙九州ホテル","楽天ふるさと納税 宿泊クーポン"],
+  keywords: ["長崎", "長崎和牛", "秋島原グルメ", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-nagasaki-unzen-obama-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-nagasaki-unzen-obama-autumn-stay/",
   },
   openGraph: {
     title: '長崎・雲仙地獄の紅葉とクラシックリゾート！白濁硫黄泉の名湯＆長崎和牛・秋島原グルメ',

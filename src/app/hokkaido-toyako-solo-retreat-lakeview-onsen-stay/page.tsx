@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/hokkaido-toyako-solo-retreat-lakeview-onsen-stay/" },
   title: '【洞爺湖温泉ひとり旅・湖畔絶景おこもり】インフィニティ露天風呂・ロングラン花火・道産牛フレンチ会席！支笏洞爺国立公園厳選3宿',
   description: 'カルデラ湖の壮大なパノラマと有珠山を望む北海道屈指のリゾート温泉地・洞爺湖！最上階インフィニティ露天とビュッフェが圧巻の「洞爺湖万世閣ホテルレイクサイドテラス」、湖畔真横の静寂と源泉100%掛け流しが自慢の「ホテルグランド トーヤ」、昭和レトロな落ち着きと温泉情緒の「大和旅館アネックス」を楽天API最新データに基づき徹底比較。',
   keywords: '洞爺湖温泉 一人旅 宿,洞爺湖 ホテル 一人 温泉,洞爺湖万世閣 一人旅,ホテルグランドトーヤ,大和旅館アネックス,洞爺湖 ひとり旅 おこもり',

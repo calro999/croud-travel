@@ -5,18 +5,11 @@ import path from "path";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/tokyo-station-early-morning-breakfast-cafe-guide/" },
   title: "【東京駅 早朝6時・7時オープンの朝食カフェ＆コインロッカー】夜行バス到着後のリフレッシュ完全ガイド",
   description:
     "バスタ新宿や東京駅鍛冶橋駐車場に早朝到着した旅行者必見！朝6時台から開いている八重洲・丸の内の極上モーニング、グランスタの朝限定弁当、空いている早朝コインロッカー穴場と駅前朝風呂ホテル。",
-  keywords: [
-    "東京駅 早朝 朝食",
-    "東京駅 モーニング 6時 7時",
-    "鍛冶橋駐車場 早朝 過ごし方",
-    "東京駅 コインロッカー 空き 穴場",
-    "東京駅 グランスタ 朝ごはん",
-    "東京駅 夜行バス シャワー 朝風呂",
-    "東京駅 朝食 カフェ 電源"
-  ],
+  keywords: ["東京駅", "早朝6時", "7時オープンの朝食カフェ", "コインロッカー", "夜行バス到着後のリフレッシュ", "温泉宿", "宿泊予約"],
 };
 
 interface Hotel {

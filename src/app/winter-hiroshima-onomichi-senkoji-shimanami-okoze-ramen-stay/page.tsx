@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   description: "冬の広島・尾道は、箱庭のような尾道水道と島々のシルエットが夕日に黄金色に染まる年間最高峰の絶景シーズン。大同元年（806年）開基の古刹「千光寺」での新春開運初詣と玉の岩の伝説、尾道最古の艮神社や風情ある坂の小路散策。冬に最も脂が乗る瀬戸内の高級魚オコゼの薄造りや唐揚げ、冬の寒穴子、本場の熱々尾道ラーメンや名産生口島レモン。海運倉庫を再生した話題のデザインホテルから尾道水道一望の絶景宿、天然温泉まで厳選名宿5選を徹底解説します。",
   keywords: '尾道 ホテル, 千光寺 初詣, 尾道水道 夕景, 尾道ラーメン, オコゼ 尾道, しまなみ海道 冬, グリーンヒルホテル尾道, HOTEL CYCLE, 11月 12月 1月 広島 観光',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-hiroshima-onomichi-senkoji-shimanami-okoze-ramen-stay'
+    canonical: "https://croud-travel.pages.dev/winter-hiroshima-onomichi-senkoji-shimanami-okoze-ramen-stay/"
   },
   openGraph: {
     title: "【11・12・1月広島】尾道水道の夕景＆千光寺新春開運初詣！瀬戸内の旬魚オコゼ・穴子と名物尾道ラーメンを味わう名宿5選",

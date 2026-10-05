@@ -309,6 +309,7 @@
 - [OKINAWA 観光＆宿泊ガイド](https://croud-travel.pages.dev/prefectures/okinawa)
 
 ## 最新厳選宿・観光ルポ記事
+- [【おすすめ宿】鶯宿温泉　ゆとりろ雫石の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/198934): 鶯宿温泉　ゆとりろ雫石（岩手県）
 - [【高知県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/179018): アパホテル〈新大阪駅前〉（高知県）
 - [【おすすめ宿】大江戸温泉物語　あわらの魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/130020): 大江戸温泉物語　あわら（福井県）
 - [【長崎県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/198507): 大江戸温泉物語Ｐｒｅｍｉｕｍ　長崎ホテル清風（２０２６年４月２９日リニューアルオープン）（長崎県）
@@ -358,4 +359,3 @@
 - [ホテル　いこい＜奈良県＞（奈良県）の基本情報・アクセス・料金の目安](https://croud-travel.pages.dev/posts/8706): ホテル　いこい＜奈良県＞（奈良県）
 - [【岐阜県観光】絶景とグルメを巡るおすすめモデルコース](https://croud-travel.pages.dev/posts/195907): Ｔｈｅ　Ｂｏｏｋ　ｌｏｕｎｇｅ　Ｈｏｔｅｌ　ＫＡＮＩ（岐阜県）
 - [【おすすめ宿】ＣＡＮＤＥＯ　ＨＯＴＥＬＳ（カンデオホテルズ）広島八丁堀の魅力と見どころをご紹介](https://croud-travel.pages.dev/posts/165795): ＣＡＮＤＥＯ　ＨＯＴＥＬＳ（カンデオホテルズ）広島八丁堀（広島県）
-- [湯の山温泉　旅館寿亭（三重県）の基本情報・アクセス・料金の目安](https://croud-travel.pages.dev/posts/12599): 湯の山温泉　旅館寿亭（三重県）

@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '【2026年】本格岩盤浴＆温活デトックス！天然鉱石の遠赤外線と美肌名湯で芯から整う温泉宿5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！天寿石・トルマリンなど天然鉱石の本格岩盤浴とロウリュサウナ、源泉掛け流し温泉でたっぷり汗を流しデトックスできる宿5選。',
-  keywords: ["岩盤浴","温活","デトックス","美肌温泉","スパリゾート","楽天トラベル"],
+  keywords: ["2026年", "本格岩盤浴", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/natural-hotspring-with-authentic-stone-spa-ganbanyoku',
+    canonical: "https://croud-travel.pages.dev/natural-hotspring-with-authentic-stone-spa-ganbanyoku/",
   },
   openGraph: {
     title: '【2026年】本格岩盤浴＆温活デトックス！天然鉱石の遠赤外線と美肌名湯で芯から整う温泉宿5選',

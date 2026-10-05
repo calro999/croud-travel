@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '長野・中央アルプス千畳敷カールの黄金紅葉＆早太郎温泉！美肌名湯と信州アルプス牛・ソースかつ丼 | クラウドトラベルふるさと納税',
   description: '10月・11月の長野・駒ヶ根＆千畳敷カール特集！標高2,612mの雲上に広がる千畳敷カールのナナカマドやダケカンバの黄金紅葉ロープウェイ、開湯以来の美肌名湯「早太郎温泉」、信州アルプス牛会席や名物駒ヶ根ソースかつ丼をふるさと納税トラベルで味わう山岳秋旅。',
-  keywords: ["千畳敷カール・駒ヶ岳ロープウェイ・早太郎温泉 観光","長野県 10月 11月 旅行","千畳敷カール黄金紅葉＆早太郎温泉信州牛旅","ふるさと納税 温泉宿泊券","早太郎温泉　駒ヶ根高原リゾートリンクス","早太郎温泉　山野草の宿　二人静","早太郎温泉　ホテルやまぶき","楽天ふるさと納税 宿泊クーポン"],
+  keywords: ["長野", "ソースかつ丼", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-nagano-komagane-senjojiki-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-nagano-komagane-senjojiki-autumn-stay/",
   },
   openGraph: {
     title: '長野・中央アルプス千畳敷カールの黄金紅葉＆早太郎温泉！美肌名湯と信州アルプス牛・ソースかつ丼',

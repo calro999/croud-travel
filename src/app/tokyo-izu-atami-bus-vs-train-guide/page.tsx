@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/tokyo-izu-atami-bus-vs-train-guide/" },
   title: "【東京から熱海・伊豆 安く行く方法】新幹線・特急踊り子・普通電車を徹底比較！温泉1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
   description: "東京から熱海・伊豆へ安く行く方法！新幹線（約4,270円）・特急踊り子（約3,340円）・普通列車グリーン車（約1,980円）の料金・所要時間比較。片道2,000円台で行く熱海食べ歩き＆相模湾一望オーシャンビュー露天風呂宿ガイド。",
-  keywords: ["tokyo-izu-atami-bus-vs-train-guide", "高速バス", "バスツアー", "新幹線 比較", "安く行く方法", "1泊2日 モデルコース", "宿泊予約", "楽天トラベル"],
+  keywords: ["東京から熱海", "伊豆", "安く行く方法", "新幹線", "特急踊り子", "温泉宿", "宿泊予約"],
 };
 
 function loadHotels() {

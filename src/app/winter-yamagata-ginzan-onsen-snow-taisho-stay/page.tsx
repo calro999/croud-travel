@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "11月下旬の初雪から12月の白銀世界へと移ろう山形・銀山温泉。銀山川沿いに立ち並ぶ大正ロマンの木造多層建築と、黄昏時に灯る温かなガス灯。雪景色を眺めながらの名湯三昧と、最高峰の黒毛和牛「雪降り和牛尾花沢」を味わう極上の冬旅ガイド。",
   keywords: '銀山温泉 宿泊 11月 12月, 銀山温泉 雪景色 旅館, 尾花沢牛 温泉 宿, 銀山温泉 大正ロマン 冬, 山形 雪見温泉, 銀山温泉 ガス灯, 銀山温泉 モデルコース',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-yamagata-ginzan-onsen-snow-taisho-stay',
+    canonical: "https://croud-travel.pages.dev/winter-yamagata-ginzan-onsen-snow-taisho-stay/",
   },
   openGraph: {
     title: "【11・12月銀山温泉の初雪と大正浪漫】白銀の温泉街に灯るガス灯と尾花沢牛会席・極上雪見宿5選",

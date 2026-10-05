@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   description: "冬の北九州・門司港は、大正ロマン薫る赤煉瓦洋館群が約30万球の光に包まれる「門司港レトロ浪漫灯彩」で幻想的な輝きを放ちます。関門海峡を行き交う船と対岸の夜景、小倉城の雪景色と新春初詣。11月に水揚げ解禁を迎える大粒で濃厚なブランド牡蠣「豊前海一粒牡蠣」の浜焼きや牡蠣小屋、門司港発祥の香ばしい熱々「焼きカレー」、関門ふく（ふぐ）、幻の銘牛「小倉牛」。海峡の潮風と歴史ロマン、極上の冬グルメに浸る厳選名宿5選を徹底案内します。",
   keywords: '門司港 ホテル, 門司港レトロ イルミネーション, 豊前海一粒牡蠣, 門司港 焼きカレー, プレミアホテル門司港, リーガロイヤルホテル小倉, 小倉牛, 関門海峡 夜景, 11月 12月 1月 福岡 観光',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-fukuoka-mojiko-retro-illumination-buzen-oyster-kokuragyu-stay'
+    canonical: "https://croud-travel.pages.dev/winter-fukuoka-mojiko-retro-illumination-buzen-oyster-kokuragyu-stay/"
   },
   openGraph: {
     title: "【11・12・1月福岡】門司港レトロ浪漫灯彩イルミネーション＆関門海峡！旬の「豊前海一粒牡蠣」と元祖焼きカレー・小倉牛を堪能する名宿5選",

@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/kagoshima-tenmonkan-solo-business-onsen-sauna-stay/" },
   title: '【鹿児島天文館出張・天然温泉サウナ】桜島展望・天然温泉霧桜の湯・黒豚しゃぶしゃぶ！南九州最大の繁華街を制する厳選3宿',
   description: '九州新幹線「みずほ」終点・鹿児島中央駅から市電で直通！繁華街天文館の真ん中で最上階天然温泉＆サウナ・夜鳴きそばを誇る「ドーミーイン鹿児島」、県庁前で良質な天然温泉大浴場が自慢の「ホテル自治会館」、錦江湾と雄大な桜島パノラマを望む展望温泉の「鹿児島サンロイヤルホテル」を徹底比較。',
   keywords: '鹿児島 出張 ホテル,鹿児島 天文館 温泉 ホテル,ドーミーイン鹿児島,ホテル自治会館 鹿児島,鹿児島サンロイヤルホテル,鹿児島 サウナ 黒豚 一人旅',

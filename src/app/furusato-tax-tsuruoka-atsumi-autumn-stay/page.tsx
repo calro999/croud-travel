@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: 'あつみ温泉の湯けむりと温海川の鮭遡上！出羽の秋味覚（庄内柿・山形牛・日本海地魚）と老舗温泉街の秋旅 | クラウドトラベルふるさと納税',
   description: '10月・11月の山形・鶴岡あつみ温泉特集！温海川沿いに広がる開湯千年の名湯、秋に川を力強く遡上する鮭の姿と朝市散策、日本海に沈む秋夕日、山形牛のすき焼きやすり身汁・庄内柿をふるさと納税トラベルで楽しむ風情豊かな湯治ステイ。',
-  keywords: ['鶴岡・あつみ温泉・温海川 紅葉 観光', '山形県 10月 11月 旅行', '山形・あつみ温泉＆鶴岡特集', 'ふるさと納税 温泉宿泊券', '温海温泉　たちばなや', '温海温泉　萬国屋', '高見屋別邸　久遠　－ＫＵＯＮ－', '楽天ふるさと納税 宿泊クーポン'],
+  keywords: ["山形牛", "日本海地魚）と老舗温泉街の秋旅", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-tsuruoka-atsumi-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-tsuruoka-atsumi-autumn-stay/",
   },
   openGraph: {
     title: 'あつみ温泉の湯けむりと温海川の鮭遡上！出羽の秋味覚（庄内柿・山形牛・日本海地魚）と老舗温泉街の秋旅',

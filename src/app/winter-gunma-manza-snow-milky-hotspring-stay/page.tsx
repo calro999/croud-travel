@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "標高1800mの雲上に位置する「星に一番近い温泉・万座温泉」！日本一の硫黄含有量を誇る乳白色のにごり湯露天風呂から、一面の白銀世界と満天の星空を眺める、これぞ本物の冬の雪見温泉体験。",
   keywords: "万座温泉 ホテル, 11月旅行, 12月旅行, 冬休み, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/winter-gunma-manza-snow-milky-hotspring-stay',
+    canonical: "https://croud-travel.pages.dev/winter-gunma-manza-snow-milky-hotspring-stay/",
   },
   openGraph: {
     title: "【12月標高1800mの白銀世界！万座温泉にごり湯】日本一の濃厚硫黄泉と雪見絶景宿5選",

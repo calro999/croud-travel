@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '【2026年】太古の地球エネルギーを体感！天然洞窟風呂＆巨岩露天風呂の秘境宿5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！自然の岩盤をくり抜いた天然洞窟風呂や巨大な岩風呂が自慢の秘境温泉宿5選。地球の息吹を感じる神秘的な湯浴み体験へ。',
-  keywords: ["洞窟風呂","秘湯","岩風呂","野趣あふれる温泉","大自然リトリート","楽天トラベル"],
+  keywords: ["2026年", "巨岩露天風呂の秘境宿5選", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/ancient-jomon-forest-cave-onsen-stay',
+    canonical: "https://croud-travel.pages.dev/ancient-jomon-forest-cave-onsen-stay/",
   },
   openGraph: {
     title: '【2026年】太古の地球エネルギーを体感！天然洞窟風呂＆巨岩露天風呂の秘境宿5選',

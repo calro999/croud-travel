@@ -9,7 +9,7 @@ import { SPOTS_DATA } from "@/data/spotsData";
 export const metadata: Metadata = {
   title: "サイトマップ（全ページ・47都道府県ガイド・特集ハブ・記事一覧） ｜ 日本全国・旅宿クラウド",
   description: "日本全国・旅宿クラウドの全ページ完全サイトマップです。47都道府県の観光・温泉・宿ガイド、目的別・季節別特集ハブ790選、主要市町村ガイド、観光名所解説、全宿泊ルポ比較記事をご案内。",
-  keywords: ["サイトマップ", "旅宿クラウド", "47都道府県", "観光ガイド", "旅行特集", "ホテル比較", "全記事一覧"],
+  keywords: ["サイトマップ（全ページ", "47都道府県ガイド", "ハブ", "記事一覧）", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/sitemap/",
   },

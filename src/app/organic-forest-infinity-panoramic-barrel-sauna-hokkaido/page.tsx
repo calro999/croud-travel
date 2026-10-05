@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "雄大な北の大地に佇む本格木製バレルサウナ！十勝のアヴァントやニセコの羊蹄山ビュー、富良野の白樺林に囲まれながらのセルフロウリュと、氷点下シングルの天然水風呂・雪ダイブで異次元のととのい体験。",
   keywords: "北海道 バレルサウナ 温泉, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/organic-forest-infinity-panoramic-barrel-sauna-hokkaido',
+    canonical: "https://croud-travel.pages.dev/organic-forest-infinity-panoramic-barrel-sauna-hokkaido/",
   },
   openGraph: {
     title: "【北海道大自然バレルサウナ】十勝・ニセコ・富良野！白樺原生林と極上雪解け湧水水風呂宿5選",

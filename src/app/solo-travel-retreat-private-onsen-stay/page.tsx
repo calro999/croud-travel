@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/solo-travel-retreat-private-onsen-stay/" },
   title: "【大人のひとり温泉旅】お部屋食・客室露天風呂＆レイトアウト完全おこもり宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "贅沢なひとり旅完全特化！誰にも邪魔されないお部屋食確約、24時間好きな時に浸かれる客室専用露天風呂、シングル利用歓迎の名門宿、11時以降レイトチェックアウト、読書ラウンジ付き極上おこもり宿を徹底解説。",
-  keywords: ["solo-travel-retreat-private-onsen-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["大人のひとり温泉旅", "お部屋食", "客室露天風呂", "レイトアウト完全おこもり宿", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
 
 function loadSeasonalHotels() {

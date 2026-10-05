@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/kurashiki-bikan-solo-retreat-culture-stay/" },
   title: '【倉敷美観地区・ひとり旅おこもり】白壁土蔵の町並み・倉敷紡績の歴史遺産・最上階天然温泉！大原美術館と水運の街を巡る厳選3宿',
   description: '岡山駅からJR山陽本線で約17分！国指定重要文化財の赤レンガ紡績工場を再生したアイコニックな「倉敷アイビースクエア」、美観地区徒歩すぐで最上階に天然温泉大浴場を備える「ドーミーイン倉敷」、天望風呂とラウンジが心地よい「ロイヤルパークホテル倉敷」を楽天APIデータに基づき徹底比較。',
   keywords: '倉敷美観地区 一人旅 ホテル,倉敷アイビースクエア 宿泊,ドーミーイン倉敷 一人,ロイヤルパークホテル倉敷,倉敷 大原美術館 デトックス',

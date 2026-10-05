@@ -5,16 +5,10 @@ import path from "path";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/tokyo-disney-resort-family-hotel-comparison/" },
   title: "【子連れディズニー後泊ホテル比較】舞浜・新浦安・葛西のコスパ宿＆二段ベッド・洗い場付きお風呂完備 ｜ 日本全国・旅宿クラウド",
   description: "子連れディズニー旅行の宿泊先を徹底比較！舞浜駅直結オフィシャルホテル vs 無料シャトルバス付き新浦安パートナーホテル vs コスパ抜群の葛西エリア。洗い場付きバスルーム、2段ベッドルーム、添い寝無料条件を全比較。",
-  keywords: [
-    "子連れディズニー ホテル",
-    "ディズニー 後泊 子連れ",
-    "舞浜 ホテル 洗い場付きお風呂",
-    "新浦安 ファミリーホテル 2段ベッド",
-    "ディズニー 添い寝無料",
-    "楽天トラベル ディズニー"
-  ],
+  keywords: ["子連れディズニー後泊ホテル比較", "舞浜", "新浦安", "葛西のコスパ宿", "二段ベッド", "洗い場付きお風呂完備", "温泉宿"],
 };
 
 interface Hotel {

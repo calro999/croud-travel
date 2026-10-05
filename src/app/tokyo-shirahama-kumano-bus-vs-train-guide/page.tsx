@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/tokyo-shirahama-kumano-bus-vs-train-guide/" },
   title: "【東京・大阪〜南紀白浜・熊野古道】夜行バス vs 特急くろしお徹底比較！白良浜ビーチ＆世界遺産熊野古道1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
   description: "東京・大阪から南紀白浜・熊野古道へ安く行くには？JR特急くろしお・新幹線と直行夜行高速バスの料金・所要時間比較！真っ白な白良浜、日本三古湯の崎の湯、世界遺産熊野那智大社を巡る1泊2日モデルコース。",
-  keywords: ["tokyo-shirahama-kumano-bus-vs-train-guide", "高速バス", "バスツアー", "新幹線 比較", "安く行く方法", "1泊2日 モデルコース", "宿泊予約", "楽天トラベル"],
+  keywords: ["東京", "大阪〜南紀白浜", "熊野古道", "夜行バス", "vs", "温泉宿", "宿泊予約"],
 };
 
 function loadHotels() {

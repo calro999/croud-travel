@@ -4,20 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '日本最古の名湯！有馬温泉の金泉・銀泉めぐり＆最高峰神戸牛会席老舗旅館×ふるさと納税完全攻略ガイド【2026年最新】兵衛向陽閣・御所坊・月光園鴻朧館',
   description: '日本三古湯・日本三名泉の頂点に君臨する有馬温泉！鉄分と塩分を豊富に含む赤褐色の「金泉」と無色透明の炭酸ラドン泉「銀泉」。「兵衛向陽閣」「陶泉 御所坊」「月光園 鴻朧館」を、兵庫県神戸市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。創業七百年の格式、半混浴金泉掛け流し、極上神戸牛会席を満喫。',
-  keywords: [
-    'ふるさと納税 旅行',
-    'ふるさと納税 温泉',
-    '有馬温泉 金泉銀泉＆名門旅館特集',
-    '楽天ふるさと納税 トラベル',
-    '有馬温泉　兵衛向陽閣',
-    '有馬温泉　陶泉　御所坊',
-    '有馬温泉　月光園　鴻朧館',
-    '高級温泉旅館',
-    '源泉かけ流し',
-    '実質2000円'
-  ],
+  keywords: ["日本最古の名湯！有馬温泉の金泉", "銀泉めぐり", "2026年最新", "兵衛向陽閣", "御所坊", "月光園鴻朧館", "温泉宿"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-arima-onsen-kinsen-ginsen-luxury-stay/',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-arima-onsen-kinsen-ginsen-luxury-stay/",
   },
   openGraph: {
     title: '日本最古の名湯！有馬温泉の金泉・銀泉めぐり＆最高峰神戸牛会席老舗旅館×ふるさと納税完全攻略ガイド【2026年最新】兵衛向陽閣・御所坊・月光園鴻朧館',

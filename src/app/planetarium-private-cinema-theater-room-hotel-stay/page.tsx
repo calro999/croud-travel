@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/planetarium-private-cinema-theater-room-hotel-stay/" },
   title: "【プラネタリウム＆大画面シアタールーム完備宿】部屋ごもり・星空上映 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "お部屋の中が満天の星空に！客室プラネタリウム＆大画面プロジェクター完備ホテル完全特化！東京、大阪、京都、軽井沢、家庭用最高峰ホームスター設置ルーム、天井いっぱいの星座パノラマ、映画・星空鑑賞カップル＆ファミリー記念日ステイを徹底解説。",
-  keywords: ["planetarium-private-cinema-theater-room-hotel-stay", "星空旅行", "天体観測", "夜景ホテル", "温泉宿", "楽天トラベル"],
+  keywords: ["プラネタリウム", "大画面シアタールーム完備宿", "部屋ごもり", "星空上映", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
 
 function loadSeasonalHotels() {

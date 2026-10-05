@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】南の島の至高の美食！極上石垣牛ステーキ＆川平湾エメラルドビーチリゾート5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！とろける肉質の特選石垣牛ステーキ・炭火焼肉ディナー！川平湾や竹富島を望むオーシャンビュープール付き石垣島リゾートホテル5選。',
-  keywords: ["石垣牛","石垣島リゾート","川平湾","オーシャンビュー","プール付きホテル","沖縄離島","楽天トラベル"],
+  keywords: ["2026年", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
     title: '【2026年】南の島の至高の美食！極上石垣牛ステーキ＆川平湾エメラルドビーチリゾート5選',
     description: '2026年最新！とろける肉質の特選石垣牛ステーキ・炭火焼肉ディナー！川平湾や竹富島を望むオーシャンビュープール付き石垣島リゾートホテル5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/traditional-okinawa-ishigaki-beef-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/traditional-okinawa-ishigaki-beef-stay',
+    canonical: "https://croud-travel.pages.dev/traditional-okinawa-ishigaki-beef-stay/",
   },
 };
 

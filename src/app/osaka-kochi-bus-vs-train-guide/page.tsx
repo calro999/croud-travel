@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/osaka-kochi-bus-vs-train-guide/" },
   title: "【大阪・神戸〜高知】高速バス「よさこい号」vs 特急南風徹底比較！片道3,500円〜行くカツオのタタキ＆ひろめ市場1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
   description: "大阪・神戸から高知へ安く行くには？JR新幹線＋特急南風（岡山乗換）と直行高速バス「よさこい号」の料金・所要時間比較！ひろめ市場で藁焼きカツオの塩タタキ、桂浜、高知城を満喫する1泊2日モデルコース。",
-  keywords: ["osaka-kochi-bus-vs-train-guide", "高速バス", "バスツアー", "新幹線 比較", "安く行く方法", "1泊2日 モデルコース", "宿泊予約", "楽天トラベル"],
+  keywords: ["大阪", "神戸〜高知", "高速バス「よさこい号」vs", "ひろめ市場1泊2日モデルコース", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
 
 function loadHotels() {

@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/nagano-hakuba-happo-stay/" },
   title: "【長野・白馬八方尾根】白馬マウンテンハーバー＆北アルプス絶景・温泉宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "長野・北アルプス白馬エリア完全特化！標高1,289mの絶景テラス「白馬マウンテンハーバー」、八方池トレッキング、白馬八方温泉の高アルカリ美肌湯、冬のパウダースノースキー場と北欧風山岳リゾートを徹底解説。",
-  keywords: ["nagano-hakuba-happo-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["長野", "白馬八方尾根", "白馬マウンテンハーバー", "北アルプス絶景", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
 
 function loadSeasonalHotels() {

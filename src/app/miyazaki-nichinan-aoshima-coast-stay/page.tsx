@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/miyazaki-nichinan-aoshima-coast-stay/" },
   title: "【宮崎・日南海岸＆青島】青島神社・鬼の洗濯板＆サンメッセ日南モアイ・宮崎牛宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "南国のパームツリーと神話の海岸線・宮崎日南海岸＆青島エリア完全特化！国指定天然記念物「青島・鬼の洗濯板」、サンメッセ日南の完全復刻モアイ像、鵜戸神宮の運玉投げ、青島天然温泉、最高級宮崎牛＆日南一本釣りカツオ宿を徹底解説。",
-  keywords: ["miyazaki-nichinan-aoshima-coast-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["宮崎", "日南海岸", "青島", "青島神社", "鬼の洗濯板", "サンメッセ日南モアイ", "宮崎牛宿"],
 };
 
 function loadSeasonalHotels() {

@@ -4,16 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '銘酒ワイナリー＆葡萄畑オーベルジュ×ふるさと納税完全ガイド【2026年最新】勝沼・余市・十勝のワインペアリング旅',
   description: '日本ワインの銘醸地へ！山梨甲州勝沼のぶどう畑ビュー温泉、北海道余市の世界的ワイナリー＆海の幸オーベルジュ、十勝ワイン城とモール温泉リゾート。醸造家こだわりのワインと旬の美食マリアージュを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
-  keywords: [
-    '楽天ふるさと納税',
-    'ふるさと納税 宿泊クーポン',
-    '楽天トラベル ふるさと納税',
-    '高級温泉旅館',
-    '露天風呂付き客室',
-    '2026年旅行'
-  ],
+  keywords: ["銘酒ワイナリー", "2026年最新", "勝沼", "余市", "十勝のワインペアリング旅", "温泉宿", "宿泊予約"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-winery-vineyard-auberge-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-winery-vineyard-auberge-stay/"
   },
   openGraph: {
     title: '銘酒ワイナリー＆葡萄畑オーベルジュ×ふるさと納税完全ガイド【2026年最新】勝沼・余市・十勝のワインペアリング旅',

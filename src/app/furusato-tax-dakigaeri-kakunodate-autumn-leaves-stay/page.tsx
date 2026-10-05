@@ -4,20 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '抱返り渓谷の碧い渓流紅葉＆角館武家屋敷の黒板塀！田沢湖温泉郷宿×ふるさと納税完全ガイド【2026年最新秋旅】秋田',
   description: '10月中旬〜11月上旬にエメラルドグリーンの渓流と紅葉が織りなす東北の耶馬渓「抱返り渓谷」。角館武家屋敷通りの黒板塀に映える深紅のカエデと、田沢湖・水沢温泉郷の名湯「セルリアンリゾートAONI」「ロッジアイリス」「かくのだて温泉 町宿 ねこの鈴」できりたんぽ鍋や比内地鶏・八幡平ポークを堪能。ふるさと納税で実質2,000円。',
-  keywords: [
-    "ふるさと納税 温泉",
-    "ふるさと納税 宿泊券",
-    "ふるさと納税 トラベルクーポン",
-    "秋田・抱返り渓谷＆角館武家屋敷紅葉特集",
-    "10月 旅行 おすすめ",
-    "11月 旅行 おすすめ",
-    "秋 旅行 温泉",
-    "抱返り渓谷 角館 紅葉 温泉旅館",
-    "楽天トラベル ふるさと納税",
-    "実質2000円 温泉"
-],
+  keywords: ["抱返り渓谷の碧い渓流紅葉", "2026年最新秋旅", "秋田", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-dakigaeri-kakunodate-autumn-leaves-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-dakigaeri-kakunodate-autumn-leaves-stay/"
   },
   openGraph: {
     title: '抱返り渓谷の碧い渓流紅葉＆角館武家屋敷の黒板塀！田沢湖温泉郷宿×ふるさと納税完全ガイド【2026年最新秋旅】秋田',

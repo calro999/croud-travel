@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/shizuoka-izukogen-solo-retreat-villa-onsen-stay/" },
   title: '【東伊豆・伊豆高原ひとり旅・大室山と海一望おこもり】全室客室露天風呂・金目鯛姿煮・伊豆ジオパーク！東京特急踊り子直通のリゾート厳選3宿',
   description: '大室山の麓、城ヶ崎海岸の絶景を望む伊豆屈指の別荘温泉地・伊豆高原！全館洗練された空間美とプライベート露天風呂が口コミ★4.6超の「自然家．Haco」、大室山の豊かな自然を望む極上ラグジュアリー宿「大室の杜 玉翠」、広大な日本庭園と良質な天然温泉大浴場を誇る「ホテル 森の泉」を楽天API最新データに基づき徹底比較。',
   keywords: '伊豆高原 一人旅 宿,伊豆高原 ホテル 一人 温泉,自然家Haco,大室の杜玉翠,伊豆高原 森の泉,伊豆高原 ひとり旅 おこもり',

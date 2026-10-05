@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '赤ちゃん連れも安心！室内温水プール＆充実のキッズアメニティが嬉しいファミリー宿 ｜ 日本全国・旅宿クラウド',
   description: '那須・熱海・軽井沢など小さな子どもや赤ちゃん連れでも気兼ねなく楽しめるファミリーホテル。室内温水プール、離乳食対応、貸切風呂完備の宿。',
-  keywords: ["子連れ旅行","ウェルカムベビー","温水プール","那須高原","家族旅行","部屋食"],
+  keywords: ["温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/welcome-baby-family-indoor-pool-hotels',
+    canonical: "https://croud-travel.pages.dev/welcome-baby-family-indoor-pool-hotels/",
   },
   openGraph: {
     title: '赤ちゃん連れも安心！室内温水プール＆充実のキッズアメニティが嬉しいファミリー宿',

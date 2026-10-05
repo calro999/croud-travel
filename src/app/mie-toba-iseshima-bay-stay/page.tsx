@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/mie-toba-iseshima-bay-stay/" },
   title: "【三重・鳥羽温泉郷】鳥羽水族館・ミキモト真珠島＆伊勢海老会席極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "三重・鳥羽エリア完全特化！飼育種類数日本一の鳥羽水族館（ジュゴン）、ミキモト真珠島、鳥羽湾めぐり遊覧船、答志島・坂手島パノラマと本場伊勢海老・アワビ・牡蠣が味わえるオーシャンビュー温泉旅館を徹底解説。",
-  keywords: ["mie-toba-iseshima-bay-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["三重", "鳥羽温泉郷", "鳥羽水族館", "ミキモト真珠島", "伊勢海老会席極上宿", "温泉宿", "宿泊予約"],
 };
 
 function loadSeasonalHotels() {

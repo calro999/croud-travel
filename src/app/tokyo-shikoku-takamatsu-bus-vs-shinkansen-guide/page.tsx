@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/tokyo-shikoku-takamatsu-bus-vs-shinkansen-guide/" },
   title: "【東京〜高松・香川】寝台特急サンライズ vs 新幹線 vs 夜行バス徹底比較！片道5,000円〜行く本場讃岐うどん爆食1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
   description: "東京から高松・香川へ安く行くには？新幹線（岡山乗換マリンライナー）、寝台特急サンライズ瀬戸、夜行高速バスの料金・所要時間比較！早朝6時台から本場讃岐うどんの名店巡り、栗林公園、金刀比羅宮を巡る1泊2日モデルコース。",
-  keywords: ["tokyo-shikoku-takamatsu-bus-vs-shinkansen-guide", "高速バス", "バスツアー", "新幹線 比較", "安く行く方法", "1泊2日 モデルコース", "宿泊予約", "楽天トラベル"],
+  keywords: ["東京〜高松", "香川", "寝台特急サンライズ", "vs", "新幹線", "温泉宿", "宿泊予約"],
 };
 
 function loadHotels() {

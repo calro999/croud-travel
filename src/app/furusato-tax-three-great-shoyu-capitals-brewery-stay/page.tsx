@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-shoyu-capitals-brewery-stay/" },
   title: '日本三大醤油の醸造地＆木桶仕込みの芳香・白壁の蔵元巡りと発酵美名宿×ふるさと納税完全ガイド【2026年最新】銚子・小豆島・龍野',
   description: '和食の魂を醸す日本の三大醤油の聖地巡礼！千葉「銚子の醤油蔵」太平洋の黒潮気候と犬吠埼ホテル、香川「小豆島・醤の郷」木桶仕込み天然醸造とベイリゾートホテル小豆島、兵庫「播州龍野」揖保川清流が育む淡口醤油と赤穂温泉銀波荘。歴史ある醤油蔵の見学と美食温泉ステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大醤油・醸造発酵特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',

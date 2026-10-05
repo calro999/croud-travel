@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-hotsprings-luxury-villas-stay/" },
   title: '日本三大名湯の別邸＆極上離れ・客室露天風呂とおこもり贅沢宿×ふるさと納税完全ガイド【2026年最新】草津・有馬・下呂',
   description: '日本三大名湯（草津・有馬・下呂）の最高峰ステイ！群馬草津「草津温泉 奈良屋」湯守が仕込む極上名湯と歴史情緒、兵庫有馬「有馬温泉 中の坊瑞苑」大人のための金泉銀泉露天風呂スイート、岐阜下呂「下呂温泉 水明館」飛騨川のせせらぎと臨川閣の客室温泉。日本三大名湯の格式ある別邸・離れ宿を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大名湯・最高峰離れ特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',

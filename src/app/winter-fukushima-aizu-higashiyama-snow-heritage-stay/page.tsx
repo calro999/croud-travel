@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "11月下旬の初雪から12月の白銀世界へと移ろう福島・会津の奥座敷「東山温泉」。開湯1300年、湯川の渓流沿いに佇む風情ある木造建築群と渓谷美。雪化粧した山肌を望む雪見露天風呂と、会津漆器でいただく本場極上馬刺し・会津地鶏・郷土料理こづゆ、そして全国新酒鑑評会金賞の会津美酒を堪能する冬旅ガイド。",
   keywords: '会津東山温泉 宿泊 11月 12月, 東山温泉 雪景色 旅館, 会津若松 温泉 宿, 会津 馬刺し 温泉 旅館, 東山温泉 向瀧 東鳳 瀧の湯, 会津地鶏 宿, 会津若松 モデルコース 冬',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-fukushima-aizu-higashiyama-snow-heritage-stay',
+    canonical: "https://croud-travel.pages.dev/winter-fukushima-aizu-higashiyama-snow-heritage-stay/",
   },
   openGraph: {
     title: "【11・12月会津東山温泉の初雪と武家文化】雪化粧の湯川渓谷露天と会津地鶏・極上馬刺し会席の宿5選",

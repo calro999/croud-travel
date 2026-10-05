@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "11月から12月にかけて、静岡県西部に広がる浜名湖畔の舘山寺（かんざんじ）温泉は、遠州灘の冬の至宝「天然とらふぐ」が水揚げの最盛期を迎え、脂が乗った名物「浜名湖うなぎ」とともに年間で最も贅沢な美食シーズンに突入します。初冬の澄み渡る青空のもと、湖面越しに遠く冠雪した富士山を望む絶景露天風呂や、舘山寺ロープウェイから眺める夕暮れのパノラマは圧巻。冷えた身体を芯から温める良質な塩化物温泉と、極上の冬の味覚を心ゆくまで堪能できる厳選の温泉宿・リゾートホテル5選を詳しく解説します。",
   keywords: '舘山寺温泉 宿泊, 浜名湖 温泉 11月 12月, ホテル ウェルシーズン浜名湖, 山水館欣龍, ホテル鞠水亭, 時わすれ 開華亭, グランドメルキュール浜名湖, 遠州灘 天然とらふぐ, 浜名湖うなぎ, 浜名湖 レイクビュー露天',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-shizuoka-kanzanji-onsen-hamanako-fugu-eel-stay'
+    canonical: "https://croud-travel.pages.dev/winter-shizuoka-kanzanji-onsen-hamanako-fugu-eel-stay/"
   },
   openGraph: {
     title: "【11・12月静岡・浜名湖 舘山寺温泉の初冬レイクビューと遠州灘天然とらふぐ】名物冬うなぎ＆湖畔パノラマ展望露天風呂の宿5選",

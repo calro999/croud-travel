@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/himeji-castle-solo-business-onsen-sauna-stay/" },
   title: '【姫路出張・天然温泉サウナ】世界遺産姫路城ビュー・天然温泉白鷺の湯・播州美食！山陽新幹線拠点を制する厳選3宿',
   description: '山陽新幹線「のぞみ」停車・姫路駅すぐ！最上階天然温泉大浴場と本格サウナ・名物姫路おでん朝食の「ドーミーイン姫路」、敷地内天然温泉「華楽の湯」で多彩なサウナと露天風呂を誇る「姫路キャッスルグランヴィリオホテル」、姫路城を望む快適デスクの「ダイワロイネットホテル姫路」を徹底比較。',
   keywords: '姫路 出張 ホテル,姫路駅 温泉 ホテル,ドーミーイン姫路,姫路キャッスルグランヴィリオホテル,ダイワロイネットホテル姫路,姫路城 一人旅',

@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "年間で最も晴天率が高く空気が研ぎ澄まされる11月・12月の箱根芦ノ湖。紺碧の湖面に映る雪化粧の富士山と箱根神社の平和の鳥居。芦ノ湖を望む絶景露天風呂に浸かり、相模湾の冬魚や足柄牛に舌鼓を打つ、首都圏からすぐ行ける至高の冬リゾート温泉ガイド。",
   keywords: '箱根 富士山 見える 温泉 宿 11月 12月, 芦ノ湖 富士山 露天風呂 旅館, 冬の箱根 宿泊, 箱根 温泉 冬景色, 芦ノ湖 温泉 ホテル, 元箱根 宿泊, 箱根 モデルコース',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-kanagawa-hakone-fuji-view-onsen-stay',
+    canonical: "https://croud-travel.pages.dev/winter-kanagawa-hakone-fuji-view-onsen-stay/",
   },
   openGraph: {
     title: "【11・12月箱根芦ノ湖の冬晴れ富士山絶景】澄み渡る空と雪化粧の富士を望む露天風呂＆極上湯宿5選",

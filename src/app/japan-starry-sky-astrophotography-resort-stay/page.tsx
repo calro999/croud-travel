@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/japan-starry-sky-astrophotography-resort-stay/" },
   title: "【満天の星空＆星空案内人の宿】阿智村・野辺山・石垣島＆星空露天風呂 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "環境省認定の日本一の星空完全特化！長野「阿智村」、八ヶ岳「野辺山高原」、星空保護区「石垣島・西表島」、岡山「美星町」、星空案内人（星ソムリエ）の天体観測ツアーと屋上星空テラス温泉宿を徹底解説。",
-  keywords: ["japan-starry-sky-astrophotography-resort-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["満天の星空", "星空案内人の宿", "阿智村", "野辺山", "石垣島", "星空露天風呂", "温泉宿"],
 };
 
 function loadSeasonalHotels() {

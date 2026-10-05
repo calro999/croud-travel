@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】せせらぎがBGM。清流の息吹を感じる渓流沿い専用露天風呂付き極上宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！目の前を流れる清流と新緑・紅葉の絶景！マイナスイオンあふれる渓流沿い客室露天風呂と川床料理で心洗われる隠れ家温泉旅館5選。',
-  keywords: ["渓流露天風呂","客室専用露天","せせらぎの宿","川床料理","大人の隠れ家","源泉掛け流し","楽天トラベル"],
+  keywords: ["2026年", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
     title: '【2026年】せせらぎがBGM。清流の息吹を感じる渓流沿い専用露天風呂付き極上宿5選',
     description: '2026年最新！目の前を流れる清流と新緑・紅葉の絶景！マイナスイオンあふれる渓流沿い客室露天風呂と川床料理で心洗われる隠れ家温泉旅館5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/luxury-private-onsen-with-scenic-creek-view',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/luxury-private-onsen-with-scenic-creek-view',
+    canonical: "https://croud-travel.pages.dev/luxury-private-onsen-with-scenic-creek-view/",
   },
 };
 

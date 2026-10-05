@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '北海道・登別温泉＆白老ポロトコタン！地獄谷の紅葉・9種の多彩な名湯＆白老牛会席 | クラウドトラベルふるさと納税',
   description: '10月・11月の北海道・登別＆白老特集！立ち上る湯煙と鮮やかな紅葉が織りなす登別地獄谷の大絶景、9つの異なる泉質を誇る名湯・登別温泉、アイヌ文化が薫る白老ポロト湖畔の秋景色と銘牛・白老牛ステーキをふるさと納税トラベルで堪能する極上旅。',
-  keywords: ["登別温泉・地獄谷・白老 紅葉 観光","北海道 10月 11月 旅行","登別温泉地獄谷紅葉＆白老牛グルメ温泉旅","ふるさと納税 温泉宿泊券","登別温泉　ホテルゆもと登別","登別温泉　登別グランドホテル","登別温泉　ホテル　まほろば","楽天ふるさと納税 宿泊クーポン"],
+  keywords: ["北海道", "登別温泉", "白老ポロトコタン！地獄谷の紅葉", "9種の多彩な名湯", "白老牛会席", "クラウドトラベルふるさと納税", "温泉宿"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-hokkaido-shiraoi-noboribetsu-poroto-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-hokkaido-shiraoi-noboribetsu-poroto-autumn-stay/",
   },
   openGraph: {
     title: '北海道・登別温泉＆白老ポロトコタン！地獄谷の紅葉・9種の多彩な名湯＆白老牛会席',

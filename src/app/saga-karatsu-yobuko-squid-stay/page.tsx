@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/saga-karatsu-yobuko-squid-stay/" },
   title: "【佐賀・唐津＆呼子】唐津城・虹の松原＆呼子活イカ姿造り・佐賀牛宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "玄界灘の絶景と日本一のイカの聖地・佐賀唐津＆呼子エリア完全特化！唐津城（舞鶴城）のパノラマ、日本三大松原「虹の松原」、呼子朝市、透き通る芸術品「呼子の活イカ姿造り」、唐津焼窯元めぐり宿を徹底解説。",
-  keywords: ["saga-karatsu-yobuko-squid-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["佐賀", "唐津", "呼子", "唐津城", "虹の松原", "呼子活イカ姿造り", "佐賀牛宿"],
 };
 
 function loadSeasonalHotels() {

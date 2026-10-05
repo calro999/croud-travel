@@ -4,20 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '弘前城の天守と水鏡紅葉＆弘前城菊と紅葉まつり！津軽名湯ホテル×ふるさと納税完全ガイド【2026年最新秋旅】青森',
   description: '10月下旬〜11月上旬に約1,100本のモミジと2,600本の桜が色づく「弘前城（弘前公園）」。お堀の水鏡紅葉と夜間ライトアップ、菊人形の華やかな競演、天然温泉大浴場を備える人気ホテル「ドーミーイン弘前」「アートホテル弘前シティ」「ルートイン弘前駅前」で津軽郷土料理バイキングや名物りんごスイーツ・倉石牛を堪能。ふるさと納税で実質2,000円。',
-  keywords: [
-    'ふるさと納税 温泉',
-    'ふるさと納税 宿泊券',
-    'ふるさと納税 トラベルクーポン',
-    '青森・弘前城菊と紅葉まつり＆津軽特集',
-    '10月 旅行 おすすめ',
-    '11月 旅行 おすすめ',
-    '秋 旅行 温泉',
-    '紅葉 温泉旅館',
-    '楽天トラベル ふるさと納税',
-    '実質2000円 温泉'
-  ],
+  keywords: ["弘前城の天守と水鏡紅葉", "2026年最新秋旅", "青森", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-hirosaki-castle-autumn-leaves-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-hirosaki-castle-autumn-leaves-stay/"
   },
   openGraph: {
     title: '弘前城の天守と水鏡紅葉＆弘前城菊と紅葉まつり！津軽名湯ホテル×ふるさと納税完全ガイド【2026年最新秋旅】青森',

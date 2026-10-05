@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/hyogo-kinosaki-onsen-stay/" },
   title: "【兵庫・城崎温泉】七田外湯めぐり＆松葉ガニ・浴衣街歩き極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "兵庫・城崎温泉エリア完全特化！大谿川の柳並木、一の湯・御所の湯など7つの外湯めぐり、津居山・柴山港タグ付き松葉ガニと老舗木造旅館を徹底解説。",
-  keywords: ["hyogo-kinosaki-onsen-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["兵庫", "城崎温泉", "七田外湯めぐり", "松葉ガニ", "浴衣街歩き極上宿", "温泉宿", "宿泊予約"],
 };
 
 function loadSeasonalHotels() {

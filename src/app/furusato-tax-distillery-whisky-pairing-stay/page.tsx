@@ -4,16 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '国産ウイスキー蒸溜所＆銘酒ペアリング宿×ふるさと納税完全ガイド【2026年最新】余市・白州・秩父のモルト旅',
   description: '世界を魅了するジャパニーズ・ウイスキーの故郷へ！北海道ニッカウヰスキー余市蒸溜所と小樽クラシックホテル、山梨サントリー白州蒸溜所の南アルプス天然水フォレストリゾート、埼玉イチローズモルトの秩父蒸溜所と美肌温泉宿。希少なヴィンテージモルトと極上ディナーを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
-  keywords: [
-    '楽天ふるさと納税',
-    'ふるさと納税 宿泊クーポン',
-    '楽天トラベル ふるさと納税',
-    '高級温泉旅館',
-    '露天風呂付き客室',
-    '2026年旅行'
-  ],
+  keywords: ["国産ウイスキー蒸溜所", "銘酒ペアリング宿×ふるさと納税", "2026年最新", "余市", "白州", "秩父のモルト旅", "温泉宿"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-distillery-whisky-pairing-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-distillery-whisky-pairing-stay/"
   },
   openGraph: {
     title: '国産ウイスキー蒸溜所＆銘酒ペアリング宿×ふるさと納税完全ガイド【2026年最新】余市・白州・秩父のモルト旅',

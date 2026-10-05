@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/shizuoka-ito-solo-retreat-onsen-stay/" },
   title: '【伊東温泉ひとり旅・相模湾オーシャンおこもり】毎分3万L湧出の名湯・貸切源泉露天・金目鯛姿煮！伊豆東海岸の温暖な湯の街厳選3宿',
   description: '湯量日本屈指の伊東温泉！丘の上に建ち相模湾を一望する月替わり会席の名旅館「青山やまと」、アットホームなもてなしと良質な源泉が愛される「やまだ屋」、24時間入浴可能な源泉かけ流し貸切風呂が温泉好きに大人気の「大東館」を徹底比較。',
   keywords: '伊東温泉 一人旅 宿,伊東 ホテル 一人 温泉,青山やまと,伊東温泉 やまだ屋,大東館 伊東,伊東 金目鯛 ひとり旅',

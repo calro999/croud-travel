@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】福を呼ぶ伝統工芸体験！高崎だるま絵付け＆伊香保石段街・黄金の湯の名旅館5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！縁起物の高崎だるま絵付け体験！365段の伊香保温泉石段街散策と茶褐色の名湯「黄金の湯」掛け流し、上州牛会席を満喫する群馬の名宿5選。',
-  keywords: ["高崎だるま","伊香保温泉","黄金の湯","石段街散策","上州牛","伝統工芸宿","楽天トラベル"],
+  keywords: ["2026年", "伊香保石段街", "黄金の湯の名旅館5選", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約"],
   openGraph: {
     title: '【2026年】福を呼ぶ伝統工芸体験！高崎だるま絵付け＆伊香保石段街・黄金の湯の名旅館5選',
     description: '2026年最新！縁起物の高崎だるま絵付け体験！365段の伊香保温泉石段街散策と茶褐色の名湯「黄金の湯」掛け流し、上州牛会席を満喫する群馬の名宿5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/traditional-gunma-daruma-craft-onsen-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/traditional-gunma-daruma-craft-onsen-stay',
+    canonical: "https://croud-travel.pages.dev/traditional-gunma-daruma-craft-onsen-stay/",
   },
 };
 

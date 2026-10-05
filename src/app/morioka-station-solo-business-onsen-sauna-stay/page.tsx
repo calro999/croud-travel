@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/morioka-station-solo-business-onsen-sauna-stay/" },
   title: '【盛岡出張・天然温泉ステイ】東北新幹線・天然温泉さんさの湯・三大麺グルメ！北東北の文化拠点に泊まる厳選3宿',
   description: '東北新幹線「はやぶさ」停車！盛岡中心街で最上階天然温泉＆サウナ・名物わんこそば風朝食を誇る「ドーミーイン盛岡」、駅前徒歩圏で男女別天然温泉を備える「スーパーホテル盛岡」、名勝御所湖畔で源泉かけ流しパノラマ露天風呂に癒やされる「盛岡つなぎ温泉 ホテル紫苑」を徹底比較。',
   keywords: '盛岡 出張 ホテル,盛岡駅 温泉 ホテル,ドーミーイン盛岡,スーパーホテル盛岡,ホテル紫苑,盛岡 冷麺 一人旅',

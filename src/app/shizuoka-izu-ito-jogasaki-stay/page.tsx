@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/shizuoka-izu-ito-jogasaki-stay/" },
   title: "【静岡・伊豆伊東＆城ヶ崎海岸】門脇つり橋・大室山リフト＆東海館・地魚海鮮宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "東伊豆の歴史と絶景・伊東温泉＆城ヶ崎海岸エリア完全特化！スリル満点の「門脇つり橋」、すり鉢状火口の「大室山リフト」、国登録有形文化財「東海館」、毎分3万リットルの湯量を誇る伊東温泉と伊豆地魚会席宿を徹底解説。",
-  keywords: ["shizuoka-izu-ito-jogasaki-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["静岡", "伊豆伊東", "城ヶ崎海岸", "門脇つり橋", "大室山リフト", "東海館", "地魚海鮮宿"],
 };
 
 function loadSeasonalHotels() {

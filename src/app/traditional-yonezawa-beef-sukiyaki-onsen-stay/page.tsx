@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】とろける極上霜降り！A5米沢牛すき焼き会席＆白布・小野川名湯宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！日本三大和牛「米沢牛」の特選すき焼き・しゃぶしゃぶ会席！開湯千二百年の白布温泉や小野川温泉の源泉掛け流しと山形美食を満喫する名宿5選。',
-  keywords: ["米沢牛","すき焼き会席","山形温泉","白布温泉","小野川温泉","源泉掛け流し","楽天トラベル"],
+  keywords: ["2026年", "白布", "小野川名湯宿5選", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約"],
   openGraph: {
     title: '【2026年】とろける極上霜降り！A5米沢牛すき焼き会席＆白布・小野川名湯宿5選',
     description: '2026年最新！日本三大和牛「米沢牛」の特選すき焼き・しゃぶしゃぶ会席！開湯千二百年の白布温泉や小野川温泉の源泉掛け流しと山形美食を満喫する名宿5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/traditional-yonezawa-beef-sukiyaki-onsen-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/traditional-yonezawa-beef-sukiyaki-onsen-stay',
+    canonical: "https://croud-travel.pages.dev/traditional-yonezawa-beef-sukiyaki-onsen-stay/",
   },
 };
 

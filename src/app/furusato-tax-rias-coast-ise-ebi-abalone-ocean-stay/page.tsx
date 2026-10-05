@@ -4,16 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '夕映えリアス式海岸＆伊勢海老・鮑料理の海宿×ふるさと納税完全ガイド【2026年最新】志摩英虞湾・南三陸・伊根の舟屋の贅沢旅',
   description: '日本屈指の入江美と海の幸！三重志摩「英虞湾」の夕映え多島美と本場伊勢海老・鮑づくし会席、宮城「南三陸」のリアス海岸インフィニティ露天風呂と鮑踊り焼き、京都「伊根の舟屋」の海に浮かぶ重要伝統建築ステイ。楽天ふるさと納税宿泊クーポンでお得に楽しむオーシャンガイド。',
-  keywords: [
-    '楽天ふるさと納税',
-    'ふるさと納税 宿泊クーポン',
-    '楽天トラベル ふるさと納税',
-    '高級温泉旅館',
-    '露天風呂付き客室',
-    '2026年旅行'
-  ],
+  keywords: ["夕映えリアス式海岸", "伊勢海老", "鮑料理の海宿×ふるさと納税", "2026年最新", "志摩英虞湾", "南三陸", "伊根の舟屋の贅沢旅"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-rias-coast-ise-ebi-abalone-ocean-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-rias-coast-ise-ebi-abalone-ocean-stay/"
   },
   openGraph: {
     title: '夕映えリアス式海岸＆伊勢海老・鮑料理の海宿×ふるさと納税完全ガイド【2026年最新】志摩英虞湾・南三陸・伊根の舟屋の贅沢旅',

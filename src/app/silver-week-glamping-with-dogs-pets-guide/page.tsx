@@ -5,18 +5,11 @@ import path from "path";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-with-dogs-pets-guide/" },
   title: "【愛犬と泊まるシルバーウィーク グランピング】プライベートドッグラン付き＆ノーリードOKの極上ヴィラ ｜ 日本全国・旅宿クラウド",
   description:
     "ワンちゃんと一緒に秋の連休を満喫！客室直結のプライベート芝生ドッグラン、足洗い場・ペット用アメニティ完備、大型犬OK・多頭飼い対応のグランピング施設特集。涼しくなる9月がベストシーズンの理由。",
-  keywords: [
-    "愛犬と泊まる グランピング シルバーウィーク",
-    "ペット同伴 グランピング プライベートドッグラン",
-    "ノーリード グランピング 犬連れ 旅行",
-    "大型犬 宿泊可 グランピング ヴィラ",
-    "犬 連れ グランピング 関東 関西",
-    "シルバーウィーク ペット 旅行 おすすめ宿",
-    "ドッグラン付き ドームテント 予約",
-  ],
+  keywords: ["愛犬と泊まるシルバーウィーク", "グランピング", "プライベートドッグラン付き", "ノーリードOKの極上ヴィラ", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
 
 interface Hotel {

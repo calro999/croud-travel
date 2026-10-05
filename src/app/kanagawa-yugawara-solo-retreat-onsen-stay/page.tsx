@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/kanagawa-yugawara-solo-retreat-onsen-stay/" },
   title: '【湯河原温泉ひとり旅・万葉集ゆかり名湯おこもり】相模湾一望・自家源泉かけ流し・伊豆の旬懐石！都心60分の文豪リトリート厳選3宿',
   description: '『万葉集』唯一の温泉地・湯河原！驚異の口コミ★5.0満点を誇る自家源泉の隠れ宿「グリーン荘」、高台から相模湾と湯河原の街を見晴らす洋館リゾート「ホテル 眺望山荘」、屋上貸切露天風呂と最高峰の月替わり懐石が評判の「ふきや」を楽天API最新データに基づき徹底比較。',
   keywords: '湯河原温泉 一人旅 宿,湯河原 ホテル 一人 温泉,グリーン荘 湯河原,ホテル眺望山荘,湯河原 ふきや,湯河原 ひとり旅 おこもり',

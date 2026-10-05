@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/tokyo-niigata-bus-vs-shinkansen-guide/" },
   title: "【東京〜新潟】新幹線 vs 高速バス徹底比較！片道2,500円〜行く日本酒・極上寿司・ぽんしゅ館1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
   description: "東京から新潟へ安く行くには？上越新幹線「とき」と高速バス（昼行・夜行）の料金、所要時間、メリット・デメリットを徹底比較！浮いた1.5万円で極上の南魚沼産コシヒカリ、日本海のノドグロ握り、ぽんしゅ館の利き酒を満喫する1泊2日モデルコース。",
-  keywords: ["tokyo-niigata-bus-vs-shinkansen-guide", "高速バス", "バスツアー", "新幹線 比較", "安く行く方法", "1泊2日 モデルコース", "宿泊予約", "楽天トラベル"],
+  keywords: ["東京〜新潟", "新幹線", "vs", "極上寿司", "ぽんしゅ館1泊2日モデルコース", "温泉宿", "宿泊予約"],
 };
 
 function loadHotels() {

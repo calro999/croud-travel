@@ -4,20 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '奇跡の四万ブルーと奥四万湖の錦秋カヌー！千と千尋のモデル積善館＆名湯宿×ふるさと納税完全ガイド【2026年最新秋旅】群馬',
   description: '10月下旬〜11月上旬に見頃を迎える「四万温泉」と「奥四万湖（おくしまこ）」。幻想的なコバルトブルーの水面に映る紅葉とカヌーツアー、日本最古の木造湯宿建築『積善館』や『四万たむら』『あやめや旅館』で四万の病を癒やす名湯と上州牛会席を堪能。楽天ふるさと納税トラベルクーポンで実質2,000円で泊まるレトロ温泉ガイド。',
-  keywords: [
-    'ふるさと納税 温泉',
-    'ふるさと納税 宿泊券',
-    'ふるさと納税 トラベルクーポン',
-    '群馬・四万温泉＆奥四万湖四万ブルー特集',
-    '10月 旅行 おすすめ',
-    '11月 旅行 おすすめ',
-    '秋 旅行 温泉',
-    '紅葉 温泉旅館',
-    '楽天トラベル ふるさと納税',
-    '実質2000円 温泉'
-  ],
+  keywords: ["名湯宿×ふるさと納税", "2026年最新秋旅", "群馬", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-shima-onsen-autumn-leaves-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-shima-onsen-autumn-leaves-stay/"
   },
   openGraph: {
     title: '奇跡の四万ブルーと奥四万湖の錦秋カヌー！千と千尋のモデル積善館＆名湯宿×ふるさと納税完全ガイド【2026年最新秋旅】群馬',

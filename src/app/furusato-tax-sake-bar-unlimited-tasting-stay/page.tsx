@@ -4,16 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '地酒BAR＆日本酒利き酒し放題の名湯宿×ふるさと納税完全ガイド【2026年最新】越後湯沢・山形赤湯・京都伏見の酒蔵ステイ',
   description: '日本酒好きの桃源郷！新潟越後湯沢「ぽんしゅ館」越後全酒蔵コイン利き酒と美肌温泉、山形南陽「赤湯温泉」の蔵元直送地酒BARと米沢牛会席、京都「伏見」の名水仕込み銘酒と酒蔵通り町家ホテル。酒蔵見学と極上ペアリングを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
-  keywords: [
-    '楽天ふるさと納税',
-    'ふるさと納税 宿泊クーポン',
-    '楽天トラベル ふるさと納税',
-    '高級温泉旅館',
-    '露天風呂付き客室',
-    '2026年旅行'
-  ],
+  keywords: ["地酒BAR", "2026年最新", "越後湯沢", "山形赤湯", "京都伏見の酒蔵ステイ", "温泉宿", "宿泊予約"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-sake-bar-unlimited-tasting-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-sake-bar-unlimited-tasting-stay/"
   },
   openGraph: {
     title: '地酒BAR＆日本酒利き酒し放題の名湯宿×ふるさと納税完全ガイド【2026年最新】越後湯沢・山形赤湯・京都伏見の酒蔵ステイ',

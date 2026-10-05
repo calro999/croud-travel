@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/tohoku-travel-budget-guide/" },
   title: "【東北旅行 費用】2泊3日で仙台・松島・銀山温泉を巡るといくらかかる？交通費＆宿泊費の完全内訳 ｜ 日本全国・旅宿クラウド",
   description: "東北旅行の費用を2泊3日（仙台＋松島＋銀山温泉or蔵王温泉）のモデルコースで完全計算。東京からの東北新幹線vs高速バスの交通費比較、牛たん・ずんだ餅のグルメ費用、銀山温泉のレトロ旅館の宿泊費まで内訳公開。",
-  keywords: ["tohoku-travel-budget-guide", "東北旅行", "費用", "2泊3日", "仙台", "松島", "銀山温泉", "モデルコース", "楽天トラベル"],
+  keywords: ["東北旅行", "費用", "2泊3日で仙台", "松島", "宿泊費の完全内訳", "温泉宿", "宿泊予約"],
 };
 
 function loadHotels() {

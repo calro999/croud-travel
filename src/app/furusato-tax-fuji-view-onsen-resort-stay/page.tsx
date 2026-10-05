@@ -4,9 +4,10 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-fuji-view-onsen-resort-stay/" },
   title: '絶景富士山ビュー露天風呂宿×ふるさと納税完全ガイド【2026年最新】河口湖・山中湖・日本平の霊峰一望リゾート',
   description: '客室露天風呂や大浴場から雄大な世界遺産・富士山を一望！河口湖の逆さ富士、山中湖の紅富士、日本平の夜景パノラマ宿を楽天ふるさと納税宿泊クーポンでお得に予約する絶景旅ガイド。',
-  keywords: ['ふるさと納税', '楽天トラベル', '宿泊クーポン', '富士山ビュー・絶景露天宿特集', '温泉旅館', 'ホテル予約', '2026年最新'],
+  keywords: ["2026年最新", "河口湖", "山中湖", "日本平の霊峰一望リゾート", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
     title: '絶景富士山ビュー露天風呂宿×ふるさと納税完全ガイド【2026年最新】河口湖・山中湖・日本平の霊峰一望リゾート',
     description: '客室露天風呂や大浴場から雄大な世界遺産・富士山を一望！河口湖の逆さ富士、山中湖の紅富士、日本平の夜景パノラマ宿を楽天ふるさと納税宿泊クーポンでお得に予約する絶景旅ガイド。',

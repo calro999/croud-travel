@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/yamagata-ginzan-onsen-retro-stay/" },
   title: "【山形・銀山温泉】ガス灯揺れる大正ロマン木造街＆尾花沢牛極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "山形・銀山温泉エリア完全特化！銀山川沿いの木造三層四層楼閣、ガス灯の夜景、隈研吾設計の藤屋、尾花沢牛・鴨鍋グルメと雪景色露天風呂旅館を徹底解説。",
-  keywords: ["yamagata-ginzan-onsen-retro-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["山形", "銀山温泉", "ガス灯揺れる大正ロマン木造街", "尾花沢牛極上宿", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
 
 function loadSeasonalHotels() {

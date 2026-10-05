@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】香ばしい秘伝のタレとふっくら極上肉厚！浜名湖うなぎ尽くし会席＆舘山寺名湯宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！うなぎ養殖発祥の地・浜名湖で味わう極上うなぎ蒲焼き・白焼き・ひつまぶし会席！穏やかな湖畔を望む舘山寺温泉・弁天島温泉の名旅館5選。',
-  keywords: ["浜名湖うなぎ","うなぎ蒲焼き","ひつまぶし","舘山寺温泉","弁天島温泉","レイクビュー温泉","楽天トラベル"],
+  keywords: ["2026年", "舘山寺名湯宿5選", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
     title: '【2026年】香ばしい秘伝のタレとふっくら極上肉厚！浜名湖うなぎ尽くし会席＆舘山寺名湯宿5選',
     description: '2026年最新！うなぎ養殖発祥の地・浜名湖で味わう極上うなぎ蒲焼き・白焼き・ひつまぶし会席！穏やかな湖畔を望む舘山寺温泉・弁天島温泉の名旅館5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/traditional-shizuoka-unagi-kabayaki-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/traditional-shizuoka-unagi-kabayaki-stay',
+    canonical: "https://croud-travel.pages.dev/traditional-shizuoka-unagi-kabayaki-stay/",
   },
 };
 

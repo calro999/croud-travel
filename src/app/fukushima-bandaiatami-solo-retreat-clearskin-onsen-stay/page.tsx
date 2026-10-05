@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/fukushima-bandaiatami-solo-retreat-clearskin-onsen-stay/" },
   title: '【会津郡山・磐梯熱海温泉ひとり旅・萩姫伝説の美肌湯おこもり】pH9超とろとろアルカリ泉・地酒王国ふくしま・清流五百川！郡山新幹線20分の隠れ里厳選3宿',
   description: '美人の湯として名高い萩姫伝説の古湯・福島・磐梯熱海温泉！六つの貸切風呂と手作り創作料理が口コミ★4.5超の「湯のやど 楽山」、30種類の湯船で湯巡りを楽しめる大型名門「ホテル華の湯」、家庭的な温もりと源泉掛け流しの「紅葉館きらくや」を楽天API最新データに基づき徹底比較。',
   keywords: '磐梯熱海温泉 一人旅 宿,磐梯熱海 ホテル 一人 温泉,湯のやど楽山,ホテル華の湯,紅葉館きらくや,磐梯熱海 ひとり旅 おこもり',

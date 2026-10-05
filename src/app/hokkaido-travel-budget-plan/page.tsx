@@ -3,6 +3,7 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/hokkaido-travel-budget-plan/" },
   title: "【北海道旅行 予算】2泊3日・3泊4日はいくら必要？レンタカーなしでも回れる費用計画ガイド",
   description: "北海道旅行の予算を2泊3日・3泊4日で徹底シミュレーション！札幌・小樽・函館のエリア別費用、飛行機・新幹線・フェリーの交通費比較、海鮮丼・ジンギスカン・スープカレーのグルメ予算まで。レンタカーなしでJR＆バスで回るプランも。",
 };

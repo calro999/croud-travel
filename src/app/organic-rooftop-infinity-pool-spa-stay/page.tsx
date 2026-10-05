@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】都会の空に浮かぶオアシス！ルーフトップインフィニティプール＆天然温泉ホテル5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！煌めく夜景とスカイラインを一望！屋上インフィニティプールと本格天然温泉大浴場、クラブラウンジを備えた大人のアーバンリゾート5選。',
-  keywords: ["インフィニティプール","ルーフトップバー","ナイトプール","アーバンリゾート","天然温泉ホテル","楽天トラベル"],
+  keywords: ["2026年", "天然温泉ホテル5選", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
     title: '【2026年】都会の空に浮かぶオアシス！ルーフトップインフィニティプール＆天然温泉ホテル5選',
     description: '2026年最新！煌めく夜景とスカイラインを一望！屋上インフィニティプールと本格天然温泉大浴場、クラブラウンジを備えた大人のアーバンリゾート5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/organic-rooftop-infinity-pool-spa-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/organic-rooftop-infinity-pool-spa-stay',
+    canonical: "https://croud-travel.pages.dev/organic-rooftop-infinity-pool-spa-stay/",
   },
 };
 

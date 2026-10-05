@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   description: "冬の東京ベイエリアは、澄み切った澄明な冬空にレインボーブリッジと東京タワーが重なり合う年間最美の夜景シーズン。12月毎週土曜日に開催される「お台場レインボー花火」、2024年に誕生した「豊洲千客万来」の江戸前活気と市場直送グルメ・展望足湯庭園、有明の天然温泉「泉天空の湯」まで、冬の東京の華やぎと温もりが凝縮。楽天APIから最新取得したお台場・有明・豊洲の極上ホテル5選を徹底特集します。",
   keywords: 'お台場 ホテル, 豊洲千客万来 ホテル, お台場レインボー花火, レインボーブリッジ 夜景, ラビスタ東京ベイ, ヒルトン東京お台場, グランドニッコー東京台場, 11月 12月 1月 東京 観光',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-tokyo-odaiba-toyosu-senkyakubanrai-yakei-stay'
+    canonical: "https://croud-travel.pages.dev/winter-tokyo-odaiba-toyosu-senkyakubanrai-yakei-stay/"
   },
   openGraph: {
     title: "【11・12・1月東京】お台場レインボー花火＆豊洲千客万来！冬の東京ベイ夜景と江戸前海鮮・天然温泉に寛ぐ名宿5選",

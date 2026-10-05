@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '豪快な滝の飛沫と深い森の静寂！清流渓谷のせせらぎ＆滝見露天風呂ヒーリング宿 ｜ 日本全国・旅宿クラウド',
   description: '奥入瀬渓流・天城湯ヶ島・作並温泉など目の前に迫る豪快な滝や清らかな渓流を望む露天風呂。マイナスイオンとフィトンチッドに満たされる癒やしの旅。',
-  keywords: ["滝見露天風呂","渓谷温泉","奥入瀬渓流","森林浴","マイナスイオン","癒やしの宿"],
+  keywords: ["滝見露天風呂ヒーリング宿", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/waterfall-gorge-healing-forest-onsen-stay',
+    canonical: "https://croud-travel.pages.dev/waterfall-gorge-healing-forest-onsen-stay/",
   },
   openGraph: {
     title: '豪快な滝の飛沫と深い森の静寂！清流渓谷のせせらぎ＆滝見露天風呂ヒーリング宿',

@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '苗場ドラゴンドラの紅葉空中散歩と越後湯沢温泉！南魚沼産新米コシヒカリと地酒を味わう秋の新潟旅 | クラウドトラベルふるさと納税',
   description: '10月・11月の新潟・越後湯沢＆苗場特集！日本最長5.5kmの「苗場ドラゴンドラ」から見下ろす360度大パノラマ紅葉、文豪・川端康成が愛した越後湯沢温泉の肌に優しい名湯、日本一と称される南魚沼産新米コシヒカリと新潟の銘酒・日本海海鮮をふるさと納税で堪能。',
-  keywords: ['南魚沼・越後湯沢・苗場 紅葉 観光', '新潟県 10月 11月 旅行', '新潟・越後湯沢＆苗場ドラゴンドラ特集', 'ふるさと納税 温泉宿泊券', '越後湯沢温泉　一望千里　御湯宿　中屋', '越後湯沢温泉　温泉民宿　浦子の湯　高野屋', '越後湯沢温泉　松泉閣花月', '楽天ふるさと納税 宿泊クーポン'],
+  keywords: ["クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-echigo-yuzawa-naeba-dragondola-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-echigo-yuzawa-naeba-dragondola-stay/",
   },
   openGraph: {
     title: '苗場ドラゴンドラの紅葉空中散歩と越後湯沢温泉！南魚沼産新米コシヒカリと地酒を味わう秋の新潟旅',

@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/chiba-kamogawa-katsuura-boso-seafood-stay/" },
   title: "【千葉・鴨川＆勝浦】シャチ・四百年朝市＆地金目鯛宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "大迫力のシャチパフォーマンスで大人気の「鴨川シーワールド」、天正年間から続く日本三大朝市「勝浦朝市」、ご当地グルメ勝浦タンタンメン、南房総直送の地金目鯛姿煮や伊勢海老を徹底解説。太平洋一望の温泉ホテルや海鮮宿を厳選。",
-  keywords: ["chiba-kamogawa-katsuura-boso-seafood-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["千葉", "鴨川", "勝浦", "シャチ", "四百年朝市", "地金目鯛宿", "温泉宿"],
 };
 
 function loadSeasonalHotels() {

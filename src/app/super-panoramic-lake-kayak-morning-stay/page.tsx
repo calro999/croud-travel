@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】朝霧立つ静寂の湖へ。早朝カヤック体験＆湖畔一望のインフィニティ露天宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！富士五湖・十和田湖・洞爺湖などで楽しむ幻想的な早朝カヤック！鏡のような湖面を進むモーニングアクティビティと湖畔露天リゾート5選。',
-  keywords: ["レイクカヤック","モーニングアクティビティ","湖畔ホテル","インフィニティ露天","富士五湖","洞爺湖","楽天トラベル"],
+  keywords: ["2026年", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
     title: '【2026年】朝霧立つ静寂の湖へ。早朝カヤック体験＆湖畔一望のインフィニティ露天宿5選',
     description: '2026年最新！富士五湖・十和田湖・洞爺湖などで楽しむ幻想的な早朝カヤック！鏡のような湖面を進むモーニングアクティビティと湖畔露天リゾート5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/super-panoramic-lake-kayak-morning-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/super-panoramic-lake-kayak-morning-stay',
+    canonical: "https://croud-travel.pages.dev/super-panoramic-lake-kayak-morning-stay/",
   },
 };
 

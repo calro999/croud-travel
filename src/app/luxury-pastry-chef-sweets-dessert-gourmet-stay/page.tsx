@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '専属パティシエ特製スイーツ＆デザートビュッフェ！甘美なご褒美を味わう極上美食ホテル ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！専属パティシエの特製スイーツや豪華デザートビュッフェが自慢のホテル＆温泉旅館。記念日や女子旅、自分へのご褒美に最高の甘美なステイ。',
-  keywords: ["ホテルスイーツ","デザートビュッフェ","パティシエ","ご褒美旅","楽天トラベル"],
+  keywords: ["専属パティシエ特製スイーツ", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/luxury-pastry-chef-sweets-dessert-gourmet-stay',
+    canonical: "https://croud-travel.pages.dev/luxury-pastry-chef-sweets-dessert-gourmet-stay/",
   },
   openGraph: {
     title: '専属パティシエ特製スイーツ＆デザートビュッフェ！甘美なご褒美を味わう極上美食ホテル',

@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "エメラルドグリーンの渓谷に向かって飛び込むスリル満点バンジージャンプ！アドレナリン全開のアクティビティを体験した後は、利根川源流のせせらぎを聴く露天風呂とサウナで極上のととのいを。",
   keywords: "みなかみ 温泉 露天風呂 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/super-panoramic-canyon-bungee-jumping-stay',
+    canonical: "https://croud-travel.pages.dev/super-panoramic-canyon-bungee-jumping-stay/",
   },
   openGraph: {
     title: "【絶景バンジー＆渓谷アドベンチャー】日本屈指の高さから大ジャンプ！みなかみ温泉宿5選",

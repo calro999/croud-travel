@@ -4,20 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '仙台の奥座敷・秋保温泉と磊々峡の奇岩紅葉！名瀑秋保大滝＆篝火露天風呂宿×ふるさと納税完全ガイド【2026年最新秋旅】宮城',
   description: '10月中旬〜11月上旬に見頃を迎える伊達政宗公ゆかりの名湯「秋保温泉」と「磊々峡（らいらいきょう）」。ハートのくぼみ・覗橋や国指定名勝「秋保大滝」のダイナミックな紅葉、名宿「篝火の湯 緑水亭」「茶寮宗園」「心和む名湯の宿 曽良一」で仙台牛ステーキや三陸の戻りカツオ・鮑を堪能。ふるさと納税で実質2,000円。',
-  keywords: [
-    'ふるさと納税 温泉',
-    'ふるさと納税 宿泊券',
-    'ふるさと納税 トラベルクーポン',
-    '仙台・秋保温泉＆磊々峡紅葉特集',
-    '10月 旅行 おすすめ',
-    '11月 旅行 おすすめ',
-    '秋 旅行 温泉',
-    '紅葉 温泉旅館',
-    '楽天トラベル ふるさと納税',
-    '実質2000円 温泉'
-  ],
+  keywords: ["仙台の奥座敷", "篝火露天風呂宿×ふるさと納税", "2026年最新秋旅", "宮城", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-akiu-rairaikyo-autumn-leaves-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-akiu-rairaikyo-autumn-leaves-stay/"
   },
   openGraph: {
     title: '仙台の奥座敷・秋保温泉と磊々峡の奇岩紅葉！名瀑秋保大滝＆篝火露天風呂宿×ふるさと納税完全ガイド【2026年最新秋旅】宮城',

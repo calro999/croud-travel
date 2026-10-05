@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/japan-michelin-star-auberge-winery-stay/" },
   title: "【ミシュラン星付きシェフ監修＆ワイナリー宿】極上オーベルジュ・美食ステイ 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "「食べるために泊まる」至福のガストロノミーツーリズム！ミシュラン星付きシェフ監修の極上オーベルジュ＆ワイナリーホテル完全特化！北海道余市・山梨勝沼・長野千曲川ワインバレー、美食とワインのペアリング宿を徹底解説。",
-  keywords: ["japan-michelin-star-auberge-winery-stay", "宿泊予約", "高級リゾート", "記念日ホテル", "ラグジュアリーステイ", "楽天トラベル"],
+  keywords: ["ミシュラン星付きシェフ監修", "ワイナリー宿", "極上オーベルジュ", "美食ステイ", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
 
 function loadSeasonalHotels() {

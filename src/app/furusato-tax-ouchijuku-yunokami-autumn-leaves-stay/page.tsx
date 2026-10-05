@@ -4,20 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '会津・大内宿の茅葺き宿場町紅葉＆塔のへつり！湯野上温泉渓谷露天宿×ふるさと納税完全ガイド【2026年最新秋旅】福島',
   description: '10月中旬〜11月上旬に江戸時代の宿場町が錦秋に染まる国選定重要伝統的建造物群保存地区「会津・大内宿」。名物ねぎそばや奇岩怪石の塔のへつり紅葉散策と、大川渓谷沿いに湧く名湯「藤龍館」「ホテル大坂屋」「清水屋旅館」で源泉掛け流し渓谷露天風呂と会津牛・郷土料理を堪能。ふるさと納税で実質2,000円。',
-  keywords: [
-    "ふるさと納税 温泉",
-    "ふるさと納税 宿泊券",
-    "ふるさと納税 トラベルクーポン",
-    "福島・大内宿＆湯野上温泉紅葉特集",
-    "10月 旅行 おすすめ",
-    "11月 旅行 おすすめ",
-    "秋 旅行 温泉",
-    "大内宿 塔のへつり 紅葉 湯野上温泉 旅館",
-    "楽天トラベル ふるさと納税",
-    "実質2000円 温泉"
-],
+  keywords: ["会津", "大内宿の茅葺き宿場町紅葉", "2026年最新秋旅", "福島", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-ouchijuku-yunokami-autumn-leaves-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-ouchijuku-yunokami-autumn-leaves-stay/"
   },
   openGraph: {
     title: '会津・大内宿の茅葺き宿場町紅葉＆塔のへつり！湯野上温泉渓谷露天宿×ふるさと納税完全ガイド【2026年最新秋旅】福島',

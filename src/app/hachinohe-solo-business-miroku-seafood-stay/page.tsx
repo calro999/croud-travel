@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/hachinohe-solo-business-miroku-seafood-stay/" },
   title: '【八戸出張＆横丁ひとり旅】みろく横丁徒歩すぐ・八食センター・日本一のイカ美食！東北新幹線直結の快適宿 厳選3選',
   description: '東北新幹線はやぶさ停車・青森県第2の工業・水産都市「八戸」！「中心街・みろく横丁へ徒歩1分の抜群の好立地」を誇る「ダイワロイネットホテル八戸」、八戸駅東口徒歩2分で無料朝食が嬉しい「コンフォートホテル八戸」、八戸の歴史を紡ぐ老舗迎賓ホテル「八戸グランドホテル」を徹底特集。',
   keywords: '八戸 出張 ホテル おすすめ,八戸 一人旅 ホテル,みろく横丁 ホテル 八戸,ダイワロイネットホテル八戸 宿泊,八食センター ホテル',

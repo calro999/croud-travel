@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】空と海にせり出すスリルと絶景！断崖絶壁パノラマ露天風呂付き極上宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！足元に打ち寄せる波音と水平線の大パノラマ！断崖絶壁に張り出すインフィニティ露天風呂と絶景オーシャンビュー客室のプレミアム宿5選。',
-  keywords: ["断崖絶壁露天","インフィニティ温泉","オーシャンパノラマ","絶景テラス","大人の隠れ家","楽天トラベル"],
+  keywords: ["2026年", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
     title: '【2026年】空と海にせり出すスリルと絶景！断崖絶壁パノラマ露天風呂付き極上宿5選',
     description: '2026年最新！足元に打ち寄せる波音と水平線の大パノラマ！断崖絶壁に張り出すインフィニティ露天風呂と絶景オーシャンビュー客室のプレミアム宿5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/luxury-private-onsen-with-scenic-cliffside-view',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/luxury-private-onsen-with-scenic-cliffside-view',
+    canonical: "https://croud-travel.pages.dev/luxury-private-onsen-with-scenic-cliffside-view/",
   },
 };
 

@@ -5,18 +5,11 @@ import path from "path";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-bbq-empty-handed-guide/" },
   title: "【手ぶらBBQグランピングおすすめ】準備・片付け不要！黒毛和牛ステーキ＆海鮮が豪華すぎる秋のごちそう泊 ｜ 日本全国・旅宿クラウド",
   description:
     "面倒な買い出し・火起こし・炭の後片付けは一切不要！シェフ監修の特選黒毛和牛サーロイン、オマール海老やアワビの海鮮グリル、地ビール飲み放題プラン付きの美食グランピング比較。女子旅や子連れに大人気。",
-  keywords: [
-    "手ぶらBBQ グランピング",
-    "グランピング 食事付き おすすめ",
-    "黒毛和牛 BBQ 宿泊",
-    "女子旅 グランピング 手ぶら",
-    "子連れ グランピング 夕食付き",
-    "海鮮BBQ グランピング",
-    "シルバーウィーク 美食グランピング"
-  ],
+  keywords: ["準備", "片付け不要！黒毛和牛ステーキ", "海鮮が豪華すぎる秋のごちそう泊", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
 
 interface Hotel {

@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '【2026年】白砂の枯山水庭園と畳の静寂！座禅・写経体験で心を整える禅リトリート宿5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！見事な枯山水日本庭園を眺めながら静寂の時間を過ごし、朝の座禅や写経体験、滋味深い会席料理と名湯で自分と向き合う宿5選。',
-  keywords: ["枯山水","日本庭園","禅リトリート","座禅体験","マインドフルネス","楽天トラベル"],
+  keywords: ["2026年", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/traditional-tatami-scenic-zen-temple-garden-stay',
+    canonical: "https://croud-travel.pages.dev/traditional-tatami-scenic-zen-temple-garden-stay/",
   },
   openGraph: {
     title: '【2026年】白砂の枯山水庭園と畳の静寂！座禅・写経体験で心を整える禅リトリート宿5選',

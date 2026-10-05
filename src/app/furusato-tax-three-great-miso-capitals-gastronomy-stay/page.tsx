@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-miso-capitals-gastronomy-stay/" },
   title: '日本三大味噌の郷＆百花繚乱の郷土発酵美・老舗蔵と郷土鍋の名湯宿×ふるさと納税完全ガイド【2026年最新】信州味噌・八丁味噌・仙台味噌',
   description: '日本の食文化の根幹を支える日本三大味噌の郷巡り！長野「信州味噌」全国シェア4割を誇る澄んだ名水米麹と上諏訪温泉ホテル紅や、愛知岡崎「八丁味噌」大豆と塩のみで二夏二冬熟成させる赤出汁とホテルトレンド岡崎駅前、宮城仙台「仙台味噌」伊達政宗ゆかりの辛口赤味噌と作並温泉ゆづくしSalon一の坊。三大味噌の奥深い風味と郷土会席を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大味噌・伝統発酵特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',

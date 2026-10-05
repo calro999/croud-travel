@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】天然クレイで全身つるつる美肌！泥パック泥湯＆源泉掛け流し泥温泉宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！大地のミネラルを豊富に含んだ天然泥湯・泥パック体験！古い角質を落とし美白効果抜群のにごり湯と極上エステが自慢の名湯温泉宿5選。',
-  keywords: ["泥湯","泥パック","クレイセラピー","美肌の湯","別府温泉","霧島温泉","楽天トラベル"],
+  keywords: ["2026年", "源泉掛け流し泥温泉宿5選", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
     title: '【2026年】天然クレイで全身つるつる美肌！泥パック泥湯＆源泉掛け流し泥温泉宿5選',
     description: '2026年最新！大地のミネラルを豊富に含んだ天然泥湯・泥パック体験！古い角質を落とし美白効果抜群のにごり湯と極上エステが自慢の名湯温泉宿5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/luxury-private-onsen-with-mud-bath-spa',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/luxury-private-onsen-with-mud-bath-spa',
+    canonical: "https://croud-travel.pages.dev/luxury-private-onsen-with-mud-bath-spa/",
   },
 };
 

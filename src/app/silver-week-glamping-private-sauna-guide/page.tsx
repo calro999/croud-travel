@@ -5,18 +5,11 @@ import path from "path";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-private-sauna-guide/" },
   title: "【プライベートサウナ付きグランピング2026】秋のシルバーウィークにととのう！バレルサウナ＆天然水風呂 ｜ 日本全国・旅宿クラウド",
   description:
     "涼しい秋風の中で究極の外気浴！完全貸切のフィンランド式バレルサウナ、富士山天然水や地下水の水風呂、星空の下でのインフィニティチェア外気浴が楽しめる極上サウナ付きグランピング特集。",
-  keywords: [
-    "プライベートサウナ グランピング",
-    "シルバーウィーク サウナ付きグランピング",
-    "バレルサウナ 宿泊",
-    "富士山 サウナ グランピング",
-    "客室専用サウナ 貸切水風呂",
-    "セルフロウリュ キャンプ",
-    "秋 ととのい 外気浴"
-  ],
+  keywords: ["天然水風呂", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
 };
 
 interface Hotel {

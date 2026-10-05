@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '白馬八方尾根・北アルプス冠雪と山麓紅葉の「三段紅葉」＆日本屈指の強アルカリ美肌温泉ステイ | クラウドトラベルふるさと納税',
   description: '10月〜11月限定の奇跡の絶景「白馬の三段紅葉（北アルプスの初雪・山腹の紅葉・山麓の深緑）」。pH11超の高アルカリ白馬八方温泉と信州サーモン・信州牛をふるさと納税で堪能する秋旅特集。',
-  keywords: ['白馬・八方尾根・栂池高原 紅葉', '長野県 紅葉 10月 11月', '白馬八方尾根・三段紅葉＆白馬八方温泉', 'ふるさと納税 温泉宿泊券', '白馬八方温泉 白馬 丸金旅館', '白馬八方温泉 白馬ピエモン ヤマジュウ', '白馬八方温泉 白馬ホテル花乃郷', '楽天ふるさと納税 トラベル'],
+  keywords: ["白馬八方尾根", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-hakuba-three-stage-autumn-leaves-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-hakuba-three-stage-autumn-leaves-stay/",
   },
   openGraph: {
     title: '白馬八方尾根・北アルプス冠雪と山麓紅葉の「三段紅葉」＆日本屈指の強アルカリ美肌温泉ステイ',

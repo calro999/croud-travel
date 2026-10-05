@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/panoramic-ropeway-mountain-terrace-resort-stay/" },
   title: "【絶景ロープウェイ＆山頂テラス宿】びわ湖バレイ・蔵王・富士山パノラマ 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "空へと駆け上がる感動の空中散歩！絶景ロープウェイ＆山頂天空テラス宿完全特化！滋賀「びわ湖バレイ（びわ湖テラス）」、山形「蔵王ロープウェイ（樹氷原）」、長野「竜王ソラテラス（雲海）」、静岡「碧テラス（伊豆パノラマパーク）」を徹底解説。",
-  keywords: ["panoramic-ropeway-mountain-terrace-resort-stay", "鉄道旅行", "乗り物旅", "絶景体験", "温泉宿", "楽天トラベル"],
+  keywords: ["絶景ロープウェイ", "山頂テラス宿", "びわ湖バレイ", "蔵王", "富士山パノラマ", "温泉宿", "宿泊予約"],
 };
 
 function loadSeasonalHotels() {

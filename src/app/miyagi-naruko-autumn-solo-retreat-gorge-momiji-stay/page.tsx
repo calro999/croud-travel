@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/miyagi-naruko-autumn-solo-retreat-gorge-momiji-stay/" },
   title: '【10月・11月秋の宮城鳴子温泉ひとり旅・鳴子峡の錦秋大渓谷と日本一多彩な泉質おこもり】貸切庭園露天・重曹美肌湯・黒毛和牛！みちのく湯治リトリート厳選3宿',
   description: '10月中旬〜11月上旬は東北屈指の紅葉名所「鳴子峡」のベストシーズン！日本に湧出する泉質11種のうち8種が集まる宮城・鳴子温泉。離れの貸切露天風呂「母里の湯」と重曹泉が絶賛される「極上の貸切露天風呂 旅館大沼」、純重曹泉と自家源泉かけ流しが評判の「鳴子旅館」、多彩な源泉風呂を誇る「旅館すがわら」を楽天API最新データに基づき徹底比較。',
   keywords: '鳴子温泉 一人旅 宿,鳴子温泉 10月 11月 紅葉 温泉,鳴子温泉 旅館大沼 一人旅,鳴子旅館,旅館すがわら,鳴子峡 紅葉 一人旅 おこもり',

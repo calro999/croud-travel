@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '飛騨せせらぎ街道の絶景紅葉ドライブ＆奥飛騨新平湯温泉・極上飛騨牛の炭火焼き会席 | クラウドトラベルふるさと納税',
   description: '10月中旬〜11月上旬に約64kmにわたり紅葉のトンネルが続く飛騨せせらぎ街道。北アルプス山麓の奥飛騨温泉郷・新平湯温泉の隠れ宿で、源泉かけ流し露天風呂とA5等級飛騨牛をふるさと納税でお得に満喫。',
-  keywords: ['飛騨高山・せせらぎ街道・奥飛騨温泉郷 紅葉 観光', '岐阜県 10月 11月 旅行', '飛騨せせらぎ街道紅葉＆奥飛騨温泉飛騨牛', 'ふるさと納税 温泉宿泊券', '奥飛騨温泉郷 新平湯温泉 美山荘', '新平湯温泉 奥飛騨百姓座敷の宿 藤屋', '奥飛騨温泉郷 ペットと泊まれる素泊まり温泉宿 こんじ旅館', '楽天ふるさと納税 宿泊クーポン'],
+  keywords: ["奥飛騨新平湯温泉", "極上飛騨牛の炭火焼き会席", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-hida-seseragi-highway-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-hida-seseragi-highway-autumn-stay/",
   },
   openGraph: {
     title: '飛騨せせらぎ街道の絶景紅葉ドライブ＆奥飛騨新平湯温泉・極上飛騨牛の炭火焼き会席',

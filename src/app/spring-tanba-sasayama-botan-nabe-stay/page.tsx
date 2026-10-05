@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】本場・丹波篠山の極上ぼたん鍋！丹波黒豆スイーツ＆城下町古民家分散型ホテル5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！職人が美しく盛り付ける天然猪肉の「ぼたん鍋」！丹波栗・黒豆スイーツと城下町の歴史的古民家を再生した上質ホテル＆名湯宿5選。',
-  keywords: ["丹波篠山","ぼたん鍋","古民家ホテル","丹波黒豆","丹波栗","城下町散策","楽天トラベル"],
+  keywords: ["2026年", "本場", "城下町古民家分散型ホテル5選", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約"],
   openGraph: {
     title: '【2026年】本場・丹波篠山の極上ぼたん鍋！丹波黒豆スイーツ＆城下町古民家分散型ホテル5選',
     description: '2026年最新！職人が美しく盛り付ける天然猪肉の「ぼたん鍋」！丹波栗・黒豆スイーツと城下町の歴史的古民家を再生した上質ホテル＆名湯宿5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/spring-tanba-sasayama-botan-nabe-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/spring-tanba-sasayama-botan-nabe-stay',
+    canonical: "https://croud-travel.pages.dev/spring-tanba-sasayama-botan-nabe-stay/",
   },
 };
 

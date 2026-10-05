@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/kirishima-solo-retreat-doroyu-onsen-stay/" },
   title: '【霧島温泉ひとり旅・神話の湯治泊】14源泉の大浴場・桜島展望露天・天然泥パック！坂本龍馬ゆかりの地で魂を再生する名宿 厳選3選',
   description: '日本初の国立公園・天孫降臨神話が息づく南九州随一の名湯「鹿児島県霧島温泉郷」！「14源泉・1日1400万リットルの圧巻の大浴場硫黄谷庭園大風呂」を誇る「霧島ホテル」、全室客室露天風呂付き南欧風プレミアムリゾート「ラビスタ霧島ヒルズ」、森の露天風呂と天然泥パックが自慢の「旅行人山荘」を徹底特集。',
   keywords: '霧島温泉 一人旅 宿,霧島ホテル 宿泊,ラビスタ霧島ヒルズ 一人,旅行人山荘 露天風呂,霧島 湯治 ひとり旅',

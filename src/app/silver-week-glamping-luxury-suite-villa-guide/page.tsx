@@ -5,18 +5,11 @@ import path from "path";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-luxury-suite-villa-guide/" },
   title: "【1日3組限定 最高峰ラグジュアリーグランピングヴィラ】誰にも会わない完全プライベート空間＆客室温泉 ｜ 日本全国・旅宿クラウド",
   description:
     "一般のドームテントとは一線を画す完全独立型の一棟貸しヴィラ！プライベート温泉プール、専用露天風呂、専属シェフが出張調理する極上フレンチBBQ、大人の隠れ家ラグジュアリーステイ。",
-  keywords: [
-    "高級グランピング ヴィラ 一棟貸し",
-    "ラグジュアリー グランピング 温泉付き",
-    "プライベートプール グランピング",
-    "大人限定 隠れ家 グランピング",
-    "記念日旅行 グランピング 高級",
-    "出張シェフ グランピング ディナー",
-    "シルバーウィーク 高級宿 予約"
-  ],
+  keywords: ["1日3組限定", "客室温泉", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
 };
 
 interface Hotel {

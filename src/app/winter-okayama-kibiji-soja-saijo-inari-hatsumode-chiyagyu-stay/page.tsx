@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   description: "古代吉備王国の歴史ロマンと晴れの国の冬空が広がる岡山・吉備路＆総社エリアの11〜1月冬旅特集。初詣参拝客数60万人を誇る中国屈指の大霊場「最上稲荷（高松稲荷）」の新春開運祈願、桃太郎伝説が息づく国宝「吉備津神社」の荘厳な400m大廻廊、冬の田園に凛とそびえる「備中国分寺五重塔」、日本最古の蔓牛の血統を継ぐ幻の和牛「千屋牛（ちやぎゅう）」と冬の岡山美食。吉備路散策の拠点に最適な厳選ホテル・名宿5選を徹底解説します。",
   keywords: '最上稲荷 初詣, 吉備津神社 大廻廊, 備中国分寺 五重塔, 千屋牛 岡山, 総社 ホテル, グランヴィア岡山, サントピア岡山総社, 吉備路 冬 旅行',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-okayama-kibiji-soja-saijo-inari-hatsumode-chiyagyu-stay'
+    canonical: "https://croud-travel.pages.dev/winter-okayama-kibiji-soja-saijo-inari-hatsumode-chiyagyu-stay/"
   },
   openGraph: {
     title: "【11・12・1月岡山】最上稲荷の新春初詣＆国宝吉備津神社の400m廻廊！備中国分寺五重塔と幻の千屋牛名宿5選",

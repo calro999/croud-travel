@@ -4,20 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '世界遺産・高野山の壇上伽藍紅葉ライトアップ＆奥之院参拝！宿坊精進料理×ふるさと納税完全ガイド【2026年最新秋旅】和歌山',
   description: '10月下旬〜11月中旬に開創1200年の聖地が深紅に染まる世界遺産「和歌山・高野山」。蛇腹路の紅葉トンネルや壇上伽藍の幻想的なライトアップ、由緒ある宿坊寺院「西門院」「無量光院」「高野山温泉 福智院」で朝のお勤め・瞑想体験や伝統の美精進料理・天然温泉を堪能。ふるさと納税トラベルクーポンで実質2,000円。',
-  keywords: [
-    "ふるさと納税 温泉",
-    "ふるさと納税 宿泊券",
-    "ふるさと納税 トラベルクーポン",
-    "和歌山・高野山紅葉ライトアップ＆宿坊特集",
-    "10月 旅行 おすすめ",
-    "11月 旅行 おすすめ",
-    "秋 旅行 温泉",
-    "高野山 紅葉 宿坊 精進料理 壇上伽藍 寺院",
-    "楽天トラベル ふるさと納税",
-    "実質2000円 温泉"
-],
+  keywords: ["世界遺産", "2026年最新秋旅", "和歌山", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-koyasan-autumn-leaves-shukubo-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-koyasan-autumn-leaves-shukubo-stay/"
   },
   openGraph: {
     title: '世界遺産・高野山の壇上伽藍紅葉ライトアップ＆奥之院参拝！宿坊精進料理×ふるさと納税完全ガイド【2026年最新秋旅】和歌山',

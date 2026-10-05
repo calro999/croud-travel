@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-water-castles-stay/" },
   title: '日本三大水城＆海を抱く名城天守・海水堀クルーズ宿×ふるさと納税完全ガイド【2026年最新】高松城・今治城・中津城',
   description: '海水を湛えた水堀と白亜の天守！香川高松「高松城（玉藻城）」瀬戸内海の海水門とJRホテルクレメント高松、愛媛今治「今治城」藤堂高虎公の築城技術と今治国際ホテル、大分中津「中津城」黒田官兵衛ゆかりの石垣とグランプラザ中津ホテル。日本三大水城（三大海城）の歴史浪漫と瀬戸内・豊後水道の海鮮グルメを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大水城・海城遺産特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',

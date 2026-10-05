@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '全国の神々が集う出雲大社「神在月（11月）」参拝＆日本最古の美肌温泉「玉造温泉」・しまね和牛 | クラウドトラベルふるさと納税',
   description: '旧暦10月（11月）に全国八百万の神々をお迎えする出雲大社「神在祭」。神々のパワーに包まれる特別な秋に、化粧水のような玉造温泉の極上湯浴みと、しまね和牛・日本海の秋魚会席をふるさと納税で楽しむ開運旅。',
-  keywords: ['出雲・出雲大社・玉造温泉 紅葉 観光', '島根県 10月 11月 旅行', '出雲大社神在月参拝＆玉造温泉しまね和牛', 'ふるさと納税 温泉宿泊券', '天然温泉 八雲の湯 ドーミーイン出雲（ドーミーイン・御宿野乃 ホテルズグループ）', '出雲・玉造温泉 白石家', '玉造温泉 旅亭 山の井', '楽天ふるさと納税 宿泊クーポン'],
+  keywords: ["日本最古の美肌温泉「玉造温泉」", "しまね和牛", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-izumo-kamiarizuki-tamatsukuri-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-izumo-kamiarizuki-tamatsukuri-stay/",
   },
   openGraph: {
     title: '全国の神々が集う出雲大社「神在月（11月）」参拝＆日本最古の美肌温泉「玉造温泉」・しまね和牛',

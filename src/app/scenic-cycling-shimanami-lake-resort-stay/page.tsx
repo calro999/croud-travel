@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '青い海と島々を渡る風になれ！しまなみ海道・ビワイチ絶景サイクリスト温泉リゾート ｜ 日本全国・旅宿クラウド',
   description: 'しまなみ海道や琵琶湖を走るサイクリスト必見。自転車の部屋持ち込み対応、メンテナンススペース完備、ライド後の疲れを癒やすオーシャンビュー温泉。',
-  keywords: ["しまなみ海道","サイクリング","ビワイチ","尾道","オーシャンビュー","温泉リゾート"],
+  keywords: ["温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/scenic-cycling-shimanami-lake-resort-stay',
+    canonical: "https://croud-travel.pages.dev/scenic-cycling-shimanami-lake-resort-stay/",
   },
   openGraph: {
     title: '青い海と島々を渡る風になれ！しまなみ海道・ビワイチ絶景サイクリスト温泉リゾート',

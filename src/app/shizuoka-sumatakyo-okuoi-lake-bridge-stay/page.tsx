@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/shizuoka-sumatakyo-okuoi-lake-bridge-stay/" },
   title: "【静岡・寸又峡＆奥大井湖上駅】死ぬまでに渡りたい夢の吊橋・アプト式鉄道宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "エメラルドグリーンの湖上絶景と美女づくりの湯・静岡寸又峡＆川根本町エリア完全特化！死ぬまでに一度は渡りたい「夢の吊橋」、湖に浮かぶ秘境駅「奥大井湖上駅（レインボーブリッジ）」、南アルプスあぷとライン、寸又峡温泉宿を徹底解説。",
-  keywords: ["shizuoka-sumatakyo-okuoi-lake-bridge-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["静岡", "寸又峡", "奥大井湖上駅", "死ぬまでに渡りたい夢の吊橋", "アプト式鉄道宿", "温泉宿", "宿泊予約"],
 };
 
 function loadSeasonalHotels() {

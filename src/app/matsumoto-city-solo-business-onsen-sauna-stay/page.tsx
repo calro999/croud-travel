@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/matsumoto-city-solo-business-onsen-sauna-stay/" },
   title: '【松本出張・天然温泉サウナ】国宝松本城・全館畳敷きあづみの湯・信州馬刺し！北アルプス城下町を極める厳選3宿',
   description: '特急あずさ・しなの直通！全館畳敷きで最上階天然温泉＆サウナが評判の和風プレミアム「御宿 野乃松本」、駅前すぐで自家源泉天然温泉大浴場を備える「ドーミーイン松本」、手作り郷土朝食と大浴場が愛される「松本ツーリストホテル」を徹底比較。',
   keywords: '松本 出張 ホテル,松本駅 サウナ ホテル,御宿野乃松本,ドーミーイン松本,松本ツーリストホテル,松本城 一人旅',

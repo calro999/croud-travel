@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】ふんわり極上の肌触り！今治タオルアメニティ＆日本最古の名湯・道後温泉の宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！世界に誇る「今治最高級タオル」を完備！三千年の歴史を持つ道後温泉本館散策と瀬戸内鯛めし会席を贅沢に愉しむ愛媛の名旅館5選。',
-  keywords: ["道後温泉","今治タオル","道後温泉本館","鯛めし会席","愛媛旅館","日本最古の名湯","楽天トラベル"],
+  keywords: ["2026年", "日本最古の名湯", "道後温泉の宿5選", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約"],
   openGraph: {
     title: '【2026年】ふんわり極上の肌触り！今治タオルアメニティ＆日本最古の名湯・道後温泉の宿5選',
     description: '2026年最新！世界に誇る「今治最高級タオル」を完備！三千年の歴史を持つ道後温泉本館散策と瀬戸内鯛めし会席を贅沢に愉しむ愛媛の名旅館5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/traditional-ehime-towel-and-dogo-onsen-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/traditional-ehime-towel-and-dogo-onsen-stay',
+    canonical: "https://croud-travel.pages.dev/traditional-ehime-towel-and-dogo-onsen-stay/",
   },
 };
 

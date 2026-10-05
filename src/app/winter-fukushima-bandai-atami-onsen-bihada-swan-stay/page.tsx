@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "南北朝時代の萩姫伝説が息づく郡山の奥座敷「磐梯熱海温泉」。pH9を超えるアルカリ性単純泉と、元湯の「ぬる湯」＆自家源泉「あつ湯」の交互浴で至高の美肌効果を体感。11月にシベリアから猪苗代湖へ飛来する優美な白鳥群と磐梯山初冠雪、極上の霜降り福島牛、会津郷土料理こづゆ、初冬のしぼりたて新酒地酒を堪能する名宿5選を徹底解説。",
   keywords: '磐梯熱海温泉 宿泊, 磐梯熱海温泉 11月 12月, ホテル華の湯, 離れの宿 よもぎ埜, 四季彩 一力, 守田屋, 萩姫伝説 美人の湯, 猪苗代湖 白鳥 飛来, 福島牛 すき焼き, 会津新酒',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-fukushima-bandai-atami-onsen-bihada-swan-stay',
+    canonical: "https://croud-travel.pages.dev/winter-fukushima-bandai-atami-onsen-bihada-swan-stay/",
   },
   openGraph: {
     title: "【11・12月磐梯熱海温泉の冬名湯と美肌ぬる湯】萩姫伝説の美人の湯・猪苗代湖白鳥飛来と極上福島牛＆会津新酒の宿5選",

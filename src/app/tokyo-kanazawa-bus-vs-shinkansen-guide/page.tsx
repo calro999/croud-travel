@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/tokyo-kanazawa-bus-vs-shinkansen-guide/" },
   title: "【東京から金沢 安く行く方法】新幹線と高速バスどっち？料金・時間比較＆1泊2日モデルコース【2026年最新】 ｜ 日本全国・旅宿クラウド",
   description: "東京から金沢へ安く行く方法を徹底比較！北陸新幹線（約14,380円/2時間半）と高速バス（約3,500円〜/夜行便）どっちがお得？片道1万円以上浮くバス旅のメリット、混雑回避の早朝海鮮丼・茶屋街・近江町市場1泊2日モデルコース＆金沢駅前おすすめ宿。",
-  keywords: ["tokyo-kanazawa-bus-vs-shinkansen-guide", "高速バス", "バスツアー", "新幹線 比較", "安く行く方法", "1泊2日 モデルコース", "宿泊予約", "楽天トラベル"],
+  keywords: ["東京から金沢", "安く行く方法", "新幹線と高速バスどっち？料金", "時間比較", "1泊2日モデルコース", "2026年最新", "温泉宿"],
 };
 
 function loadHotels() {

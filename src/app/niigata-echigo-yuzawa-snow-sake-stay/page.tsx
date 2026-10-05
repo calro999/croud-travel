@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/niigata-echigo-yuzawa-snow-sake-stay/" },
   title: "【新潟・越後湯沢＆魚沼】川端康成雪国・ぽんしゅ館利き酒＆魚沼産コシヒカリ極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "川端康成『雪国』の舞台・新潟越後湯沢＆南魚沼エリア完全特化！新幹線駅直結「ぽんしゅ館」の県内全蔵元利き酒＆酒風呂、日本一の「魚沼産コシヒカリ」釜炊きご飯、冬のスノーリゾート、秋のドラゴンドラ紅葉宿を徹底解説。",
-  keywords: ["niigata-echigo-yuzawa-snow-sake-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["新潟", "越後湯沢", "魚沼", "川端康成雪国", "ぽんしゅ館利き酒", "魚沼産コシヒカリ極上宿", "温泉宿"],
 };
 
 function loadSeasonalHotels() {

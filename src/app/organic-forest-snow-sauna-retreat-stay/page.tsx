@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "薪ストーブの熱気で限界まで体を温めた後、一面のふかふか新雪へダイブ！氷点下の澄み切った空気の中で深呼吸する究極の冬サウナ体験。雪見露天風呂と郷土鍋料理で心も体も温まるスノーリトリートを厳選。",
   keywords: "雪見 露天風呂 サウナ 宿, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/organic-forest-snow-sauna-retreat-stay',
+    canonical: "https://croud-travel.pages.dev/organic-forest-snow-sauna-retreat-stay/",
   },
   openGraph: {
     title: "【雪原ダイブ＆極寒外気浴】白銀の世界でととのう北欧薪サウナ＆雪見温泉宿5選",

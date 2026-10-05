@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/all-inclusive-sake-free-flow-tasting-bar-stay/" },
   title: "【日本酒飲み放題＆利き酒Bar完備温泉宿】インクルーシブ・銘酒ラウンジ 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "追加料金なしで全国の銘酒を心ゆくまで！日本酒インクルーシブ＆利き酒バー完備温泉宿完全特化！新潟越後湯沢、山形天童、群馬草津、石川加賀温泉、厳選10〜30種の地酒サーバー、湯上がりラウンジ酒、おつまみペアリングを徹底解説。",
-  keywords: ["all-inclusive-sake-free-flow-tasting-bar-stay", "日本酒旅行", "酒蔵巡り", "地酒ペアリング", "温泉宿", "楽天トラベル"],
+  keywords: ["日本酒飲み放題", "利き酒Bar完備温泉宿", "インクルーシブ", "銘酒ラウンジ", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
 
 function loadSeasonalHotels() {

@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '海を望む絶景オーシャンビュー＆獲れたて海鮮浜焼き・磯料理が自慢の温泉宿 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！目の前に広がる絶景オーシャンビューと、新鮮なサザエやホタテ、伊勢海老を豪快に焼く海鮮浜焼き・舟盛りが自慢の厳選温泉宿。海の恵みと波音に癒やされる旅へ。',
-  keywords: ["海鮮浜焼き","オーシャンビュー","温泉旅行","楽天トラベル","磯料理"],
+  keywords: ["海を望む絶景オーシャンビュー", "獲れたて海鮮浜焼き", "磯料理が自慢の温泉宿", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/ocean-view-seafood-bbq-hamayaki-onsen-stay',
+    canonical: "https://croud-travel.pages.dev/ocean-view-seafood-bbq-hamayaki-onsen-stay/",
   },
   openGraph: {
     title: '海を望む絶景オーシャンビュー＆獲れたて海鮮浜焼き・磯料理が自慢の温泉宿',

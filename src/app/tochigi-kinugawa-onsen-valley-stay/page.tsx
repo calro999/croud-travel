@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/tochigi-kinugawa-onsen-valley-stay/" },
   title: "【栃木・鬼怒川温泉】渓谷美・鬼怒楯岩大吊橋＆ライン下り極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "日光・鬼怒川温泉エリア完全特化！鬼怒川渓谷の奇岩怪石、鬼怒楯岩大吊橋パノラマ、鬼怒川ライン下り、東武ワールドスクウェア周辺観光と絶景渓谷露天風呂ホテルを徹底解説。",
-  keywords: ["tochigi-kinugawa-onsen-valley-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["栃木", "鬼怒川温泉", "渓谷美", "鬼怒楯岩大吊橋", "ライン下り極上宿", "温泉宿", "宿泊予約"],
 };
 
 function loadSeasonalHotels() {

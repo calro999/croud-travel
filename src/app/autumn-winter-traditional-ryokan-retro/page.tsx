@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/autumn-winter-traditional-ryokan-retro/" },
   title: "【大正ロマンの宿】文化財建築美と木造意匠！老舗名門旅館 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "時を超えて愛される日本の美。山形・銀山温泉、長野・渋温泉金具屋、静岡・伊東温泉、兵庫・城崎温泉など、国の登録有形文化財や宮大工の粋が息づく木造建築旅館を徹底解説。",
-  keywords: ["autumn-winter-traditional-ryokan-retro", "宿泊予約", "温泉宿", "ホテル特集", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["大正ロマンの宿", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
 };
 
 function loadSeasonalHotels() {

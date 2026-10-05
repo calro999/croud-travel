@@ -4,9 +4,10 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-waterfall-river-gorge-healing-onsen-stay/" },
   title: '清流渓谷＆名瀑ヒーリング温泉宿×ふるさと納税完全ガイド【2026年最新】奥入瀬・天城湯ヶ島・作並の滝見露天',
   description: '落差ある名瀑や激流のせせらぎを間近に望む絶景露天風呂！奥入瀬渓流、天城湯ヶ島、仙台作並温泉などマイナスイオン溢れる清流峡谷の名宿を、楽天ふるさと納税トラベルクーポンでお得に予約する自然治癒・温泉旅ガイド。',
-  keywords: ['ふるさと納税', '楽天トラベル', '宿泊クーポン', '渓谷・名瀑ヒーリング温泉特集', '温泉旅館', 'ホテル予約', '2026年最新'],
+  keywords: ["清流渓谷", "2026年最新", "奥入瀬", "天城湯ヶ島", "作並の滝見露天", "温泉宿", "宿泊予約"],
   openGraph: {
     title: '清流渓谷＆名瀑ヒーリング温泉宿×ふるさと納税完全ガイド【2026年最新】奥入瀬・天城湯ヶ島・作並の滝見露天',
     description: '落差ある名瀑や激流のせせらぎを間近に望む絶景露天風呂！奥入瀬渓流、天城湯ヶ島、仙台作並温泉などマイナスイオン溢れる清流峡谷の名宿を、楽天ふるさと納税トラベルクーポンでお得に予約する自然治癒・温泉旅ガイド。',

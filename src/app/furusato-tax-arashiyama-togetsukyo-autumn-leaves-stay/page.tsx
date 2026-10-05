@@ -4,20 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '京都・嵐山渡月橋の錦秋パノラマ＆嵯峨野トロッコ列車・保津川下り！嵐山温泉京懐石宿×ふるさと納税完全ガイド【2026年最新秋旅】京都',
   description: '11月中旬〜12月上旬に京都屈指の観光名所が燃え盛る紅葉に染まる「京都・嵐山」。渡月橋や天龍寺曹源池庭園の深紅絵巻、嵯峨野トロッコ列車と保津川下りの大渓谷紅葉、桂川沿いに湧く名湯「花筏」「花伝抄」「渡月亭」で嵐山温泉露天風呂と伝統の雅な京懐石・湯豆腐を堪能。ふるさと納税トラベルクーポンで実質2,000円。',
-  keywords: [
-    "ふるさと納税 温泉",
-    "ふるさと納税 宿泊券",
-    "ふるさと納税 トラベルクーポン",
-    "京都・嵐山渡月橋＆嵯峨野トロッコ紅葉特集",
-    "10月 旅行 おすすめ",
-    "11月 旅行 おすすめ",
-    "秋 旅行 温泉",
-    "嵐山 渡月橋 紅葉 トロッコ 保津川下り 嵐山温泉 旅館",
-    "楽天トラベル ふるさと納税",
-    "実質2000円 温泉"
-],
+  keywords: ["京都", "嵐山渡月橋の錦秋パノラマ", "嵯峨野トロッコ列車", "2026年最新秋旅", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-arashiyama-togetsukyo-autumn-leaves-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-arashiyama-togetsukyo-autumn-leaves-stay/"
   },
   openGraph: {
     title: '京都・嵐山渡月橋の錦秋パノラマ＆嵯峨野トロッコ列車・保津川下り！嵐山温泉京懐石宿×ふるさと納税完全ガイド【2026年最新秋旅】京都',

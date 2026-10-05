@@ -4,9 +4,10 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-temple-shukubo-shojin-mindfulness-stay/" },
   title: '古刹宿坊＆本格精進料理ステイ×ふるさと納税完全ガイド【2026年最新】高野山・善光寺・京都寺院のマインドフルネス旅',
   description: '朝のお勤め、写経、瞑想体験、そして伝統の美と健康を支える精進料理！世界遺産高野山や信州善光寺、京都の寺院宿坊を楽天ふるさと納税宿泊クーポンでお得に予約する心洗われるリトリートガイド。',
-  keywords: ['ふるさと納税', '楽天トラベル', '宿泊クーポン', '宿坊・精進料理リトリート特集', '温泉旅館', 'ホテル予約', '2026年最新'],
+  keywords: ["古刹宿坊", "2026年最新", "高野山", "善光寺", "京都寺院のマインドフルネス旅", "温泉宿", "宿泊予約"],
   openGraph: {
     title: '古刹宿坊＆本格精進料理ステイ×ふるさと納税完全ガイド【2026年最新】高野山・善光寺・京都寺院のマインドフルネス旅',
     description: '朝のお勤め、写経、瞑想体験、そして伝統の美と健康を支える精進料理！世界遺産高野山や信州善光寺、京都の寺院宿坊を楽天ふるさと納税宿泊クーポンでお得に予約する心洗われるリトリートガイド。',

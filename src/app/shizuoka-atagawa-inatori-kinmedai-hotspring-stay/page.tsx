@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/shizuoka-atagawa-inatori-kinmedai-hotspring-stay/" },
   title: "【静岡・熱川＆稲取】湯けむり露天・ブランド稲取キンメ宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "街の至る所から温泉櫓の白煙が立ち上る「熱川温泉」、波打ち際の混浴絶景露天風呂、全国最高峰ブランド「稲取キンメ」の煮付け、熱川バナナワニ園、雛のつるし飾り発祥の地を徹底解説。オーシャンビュー客室や貸切温泉旅館を厳選。",
-  keywords: ["shizuoka-atagawa-inatori-kinmedai-hotspring-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["静岡", "熱川", "稲取", "湯けむり露天", "ブランド稲取キンメ宿", "温泉宿", "宿泊予約"],
 };
 
 function loadSeasonalHotels() {

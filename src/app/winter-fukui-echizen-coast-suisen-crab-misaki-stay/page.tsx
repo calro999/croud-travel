@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   description: "冬の日本海の荒波が打ち寄せる断崖絶壁に清楚な水仙の花々が咲き乱れる12〜1月の福井・越前海岸。日本三大水仙群生地の絶景を巡る「越前水仙まつり」や越前岬灯台からの雄大な水平線、織田信長ゆかりの越前二宮・劔神社での雪の初詣。そして本場越前町が誇る黄色いブランドタグ付き「越前がに」の茹でたて極上フルコースと、海を目前に望む塩化物泉の露天風呂に癒やされる厳選宿5選を徹底特集します。",
   keywords: '越前水仙まつり, 越前がに 宿, 越前海岸 旅館, 越前岬 観光, 黄色タグ 越前蟹, 越前温泉 ホテル, せいこがに 福井, 劔神社 初詣, 12月 1月 福井 旅行',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-fukui-echizen-coast-suisen-crab-misaki-stay'
+    canonical: "https://croud-travel.pages.dev/winter-fukui-echizen-coast-suisen-crab-misaki-stay/"
   },
   openGraph: {
     title: "【12・1月福井】越前海岸＆越前町！日本海に咲く「越前水仙まつり」群生美と越前岬灯台・黄色タグ付き本場「越前がに」フルコース＆絶景温泉宿5選",

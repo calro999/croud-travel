@@ -4,9 +4,10 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-award-winning-breakfast-gourmet-hotel-stay/" },
   title: '朝食日本一受賞・究極の朝ごはんホテル×ふるさと納税完全ガイド【2026年最新】函館・神戸・金沢の美食宿',
   description: 'いくら盛り放題の海鮮丼や焼き立てクロワッサン、地産地消の絶品ビュッフェ！楽天トラベル朝ごはんフェスティバルや全国ランキングで日本一に輝いた名門ホテルの朝食を、ふるさと納税クーポンでお得に堪能する極上美食ステイ。',
-  keywords: ['ふるさと納税', '楽天トラベル', '宿泊クーポン', '究極の朝ごはん・美食ホテル特集', '温泉旅館', 'ホテル予約', '2026年最新'],
+  keywords: ["朝食日本一受賞", "2026年最新", "函館", "神戸", "金沢の美食宿", "温泉宿", "宿泊予約"],
   openGraph: {
     title: '朝食日本一受賞・究極の朝ごはんホテル×ふるさと納税完全ガイド【2026年最新】函館・神戸・金沢の美食宿',
     description: 'いくら盛り放題の海鮮丼や焼き立てクロワッサン、地産地消の絶品ビュッフェ！楽天トラベル朝ごはんフェスティバルや全国ランキングで日本一に輝いた名門ホテルの朝食を、ふるさと納税クーポンでお得に堪能する極上美食ステイ。',

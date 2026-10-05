@@ -4,9 +4,10 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-themepark-aquarium-family-hotel-stay/" },
   title: '水族館・テーマパーク直結ホテル×ふるさと納税活用ガイド【2026年最新】鴨川・白浜・富士急のパスポート付き宿泊パック',
   description: '鴨川シーワールドやアドベンチャーワールド、富士急ハイランドなど人気テーマパーク・水族館直結ホテルのふるさと納税活用術！最大30%OFFクーポンで家族旅行の入園付きプランをお得に予約する方法とおすすめ宿を徹底解説。',
-  keywords: ['ふるさと納税', '楽天トラベル', '宿泊クーポン', '家族旅行・テーマパーク直結特集', '温泉旅館', 'ホテル予約', '2026年最新'],
+  keywords: ["水族館", "2026年最新", "鴨川", "白浜", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
     title: '水族館・テーマパーク直結ホテル×ふるさと納税活用ガイド【2026年最新】鴨川・白浜・富士急のパスポート付き宿泊パック',
     description: '鴨川シーワールドやアドベンチャーワールド、富士急ハイランドなど人気テーマパーク・水族館直結ホテルのふるさと納税活用術！最大30%OFFクーポンで家族旅行の入園付きプランをお得に予約する方法とおすすめ宿を徹底解説。',

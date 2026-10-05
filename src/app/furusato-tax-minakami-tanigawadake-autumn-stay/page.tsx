@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '谷川岳一ノ倉沢の岩壁紅葉と利根川渓谷美＆みなかみ温泉郷の源泉湯宿・上州牛会席 | クラウドトラベルふるさと納税',
   description: '10月中旬〜11月上旬に見頃を迎える谷川岳ロープウェイ・一ノ倉沢の紅葉絶景。利根川の渓流を望む水上温泉郷の名旅館で、上州牛・川場サーモン・旬のキノコをふるさと納税でお得に味わう完全ガイド。',
-  keywords: ['みなかみ・谷川岳・水上温泉郷 紅葉 グルメ', '群馬県 秋 10月 11月', '谷川岳一ノ倉沢紅葉＆水上温泉郷上州牛', 'ふるさと納税 温泉宿泊券', '水上温泉 ペンション 朝ねぼう', '水上温泉 あらたし みなかみ', '水上温泉 おやど 松葉屋', '楽天ふるさと納税 温泉クーポン'],
+  keywords: ["みなかみ温泉郷の源泉湯宿", "上州牛会席", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-minakami-tanigawadake-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-minakami-tanigawadake-autumn-stay/",
   },
   openGraph: {
     title: '谷川岳一ノ倉沢の岩壁紅葉と利根川渓谷美＆みなかみ温泉郷の源泉湯宿・上州牛会席',

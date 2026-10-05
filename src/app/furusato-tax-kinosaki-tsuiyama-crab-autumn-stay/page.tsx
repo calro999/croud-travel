@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '城崎温泉の秋の七湯めぐりと11月解禁「津居山かに（松葉がに）」！柳並木と但馬牛を味わう極上温泉旅 | クラウドトラベルふるさと納税',
   description: '10月・11月の兵庫・城崎温泉特集！大谿川沿いの柳並木と浴衣での七湯外湯めぐり、11月6日解禁の青タグ付き最高峰「津居山かに（松葉がに）」、幻の但馬牛ステーキをふるさと納税トラベルで味わい尽くす贅沢プラン。',
-  keywords: ['豊岡・城崎温泉・津居山港 紅葉 観光', '兵庫県 10月 11月 旅行', '兵庫・城崎温泉＆津居山かに特集', 'ふるさと納税 温泉宿泊券', '城崎温泉　しののめ荘', '城崎温泉　花小路　彩月', '城崎温泉　西村屋ホテル招月庭', '楽天ふるさと納税 宿泊クーポン'],
+  keywords: ["クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-kinosaki-tsuiyama-crab-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-kinosaki-tsuiyama-crab-autumn-stay/",
   },
   openGraph: {
     title: '城崎温泉の秋の七湯めぐりと11月解禁「津居山かに（松葉がに）」！柳並木と但馬牛を味わう極上温泉旅',

@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/new-year-hatsumode-onsen/" },
   title: "【年末年始・お正月】初詣＆初日の出ご来光温泉旅館 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "新しい年の幕開け！伊勢神宮（三重）、鶴岡八幡宮（鎌倉）、成田山新勝寺（千葉）、犬吠埼温泉（本州最速初日の出）など、初詣と温泉おせち料理を堪能できる年末年始の人気宿を徹底解説。",
-  keywords: ["new-year-hatsumode-onsen", "宿泊予約", "温泉宿", "ホテル特集", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["年末年始", "お正月", "初詣", "初日の出ご来光温泉旅館", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
 
 function loadSeasonalHotels() {

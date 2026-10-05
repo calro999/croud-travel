@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/fukushima-aizu-ashinomaki-ouchijuku-stay/" },
   title: "【福島・会津若松＆芦ノ牧温泉】鶴ヶ城・大内宿ねぎそば＆渓谷露天・ねこ駅長宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "会津の歴史と渓谷美・福島会津若松＆芦ノ牧温泉エリア完全特化！赤瓦の「鶴ヶ城」、江戸時代の宿場町「大内宿」の一本ねぎそば、芦ノ牧温泉駅の「ねこ駅長」、大川渓谷を望む絶景露天風呂と会津馬刺し・地酒宿を徹底解説。",
-  keywords: ["fukushima-aizu-ashinomaki-ouchijuku-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["福島", "会津若松", "芦ノ牧温泉", "鶴ヶ城", "大内宿ねぎそば", "渓谷露天", "ねこ駅長宿"],
 };
 
 function loadSeasonalHotels() {

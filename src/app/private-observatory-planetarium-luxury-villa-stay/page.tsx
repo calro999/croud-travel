@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '【2026年】プラネタリウム＆星空シアター付き！満天の星と宇宙の神秘に浸るリゾート宿5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！館内に本格プラネタリウムや星空観察シアターを備え、夜は満天の天の川を眺められる宇宙体験リゾートホテル5選。',
-  keywords: ["プラネタリウム","星空シアター","天体観測","宇宙ステイ","星空リゾート","楽天トラベル"],
+  keywords: ["2026年", "プラネタリウム", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/private-observatory-planetarium-luxury-villa-stay',
+    canonical: "https://croud-travel.pages.dev/private-observatory-planetarium-luxury-villa-stay/",
   },
   openGraph: {
     title: '【2026年】プラネタリウム＆星空シアター付き！満天の星と宇宙の神秘に浸るリゾート宿5選',

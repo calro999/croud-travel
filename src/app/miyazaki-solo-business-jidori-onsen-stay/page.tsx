@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/miyazaki-solo-business-jidori-onsen-stay/" },
   title: '【宮崎出張＆南国ソログルメ泊】橘通り中心街・天然温泉大浴場・地鶏炭火焼！チキン南蛮を満喫する極上ホテル 厳選3選',
   description: '温暖な気候と青い空が広がる南国・宮崎市！「繁華街・橘通りの真ん中で天然温泉大浴場と冷汁朝食」を誇る「天然温泉 日向の湯 ドーミーイン宮崎」、大淀川のほとりに佇み名湯たまゆらの湯が湧く老舗「宮崎観光ホテル」、宮崎駅西口すぐでシティビューを望む「アートホテル宮崎 スカイタワー」を徹底特集。',
   keywords: '宮崎 出張 ホテル 温泉,宮崎 一人旅 ホテル おすすめ,ドーミーイン宮崎 宿泊,宮崎観光ホテル たまゆらの湯,宮崎 地鶏炭火焼 ホテル',

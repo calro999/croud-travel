@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/ehime-uwajima-ainan-nametoko-stay/" },
   title: "【愛媛・宇和島＆愛南・滑床渓谷】現存天守宇和島城・滑床キャニオニング＆宇和島鯛めし宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "伊達十万石の城下町とキャニオニングの聖地・愛媛宇和島＆南予エリア完全特化！現存十二天守「宇和島城」、日本の滝百選「雪輪の滝・滑床渓谷」、真珠の海「宇和海」、名物「宇和島鯛めし・愛南びやびやかつお宿」を徹底解説。",
-  keywords: ["ehime-uwajima-ainan-nametoko-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["愛媛", "宇和島", "愛南", "滑床渓谷", "現存天守宇和島城", "滑床キャニオニング", "宇和島鯛めし宿"],
 };
 
 function loadSeasonalHotels() {

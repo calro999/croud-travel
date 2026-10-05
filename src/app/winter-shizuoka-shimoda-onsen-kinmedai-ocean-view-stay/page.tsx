@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "11月から12月にかけて、伊豆半島南端の下田・南伊豆エリアは、水揚げ日本一を誇る名物「下田の地金目鯛」が最も脂を蓄える最高の旬を迎えます。初冬でも太平洋の黒潮に洗われ温暖な気候が広がり、水平線が茜色に染まる夕暮れや満天の星を望む海辺の絶景露天風呂は格別の心地よさ。12月中旬には爪木崎の水仙まつりが開幕し、エメラルドグリーンの海と白い水仙のコントラストが旅人を魅了します。肉厚でとろける金目鯛の姿煮やしゃぶしゃぶ、伊勢海老、下田温泉・奥下田美肌源泉を心ゆくまで堪能する厳選名宿5選を徹底解説します。",
   keywords: '下田温泉 宿泊, 南伊豆 温泉 ホテル, 下田 金目鯛 姿煮, 下田温泉 露天風呂 絶景, 爪木崎 水仙 12月, 下田東急ホテル, 下田大和館, 黒船ホテル, ホテル山田屋, 観音温泉',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-shizuoka-shimoda-onsen-kinmedai-ocean-view-stay'
+    canonical: "https://croud-travel.pages.dev/winter-shizuoka-shimoda-onsen-kinmedai-ocean-view-stay/"
   },
   openGraph: {
     title: "【11・12月静岡・下田南伊豆温泉郷の初冬海絶景と極上地金目鯛】水揚げ日本一の金目鯛姿煮＆伊勢海老会席を満喫する絶景宿5選",

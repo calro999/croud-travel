@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】広大なブドウ畑を望む。ワイナリー直営レストラン＆ワイン風呂リゾート5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！勝沼・余市・長野のワイナリー直営宿！ブドウ畑を見渡す絶景テラスと醸造家厳選のペアリングディナー、天然温泉スパを愉しむワイナリーリゾート5選。',
-  keywords: ["ワイナリーホテル","ワインリゾート","ペアリングディナー","ブドウ畑ビュー","ワイン風呂","楽天トラベル"],
+  keywords: ["2026年", "ワイン風呂リゾート5選", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
     title: '【2026年】広大なブドウ畑を望む。ワイナリー直営レストラン＆ワイン風呂リゾート5選',
     description: '2026年最新！勝沼・余市・長野のワイナリー直営宿！ブドウ畑を見渡す絶景テラスと醸造家厳選のペアリングディナー、天然温泉スパを愉しむワイナリーリゾート5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/organic-wine-vineyard-retreat-spa-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/organic-wine-vineyard-retreat-spa-stay',
+    canonical: "https://croud-travel.pages.dev/organic-wine-vineyard-retreat-spa-stay/",
   },
 };
 

@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "視界を遮るもののないインフィニティ露天風呂と、森の香りに包まれる本格セルフロウリュサウナ！空や海、森林のパノラマと一体化する圧倒的開放感の中で、最高峰のディープリラックスを約束するスパリゾート。",
   keywords: "インフィニティ 露天風呂 サウナ 温泉, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/organic-forest-infinity-hot-spring-sauna-stay',
+    canonical: "https://croud-travel.pages.dev/organic-forest-infinity-hot-spring-sauna-stay/",
   },
   openGraph: {
     title: "【絶景インフィニティ温泉×森サウナ】天空の水平線と溶け合う極上スパリゾート宿5選",

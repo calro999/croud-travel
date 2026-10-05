@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "400年以上の歴史を誇る会津の伝統工芸「会津漆器」！漆のしっとりとした手触りと上品な艶をたたえる器で味わう福島牛や会津郷土料理、そして竹久夢二や与謝野晶子も愛した東山温泉の名湯に浸かる風雅な旅。",
   keywords: "東山温泉 露天風呂 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/traditional-fukushima-aizu-urushi-craft-stay',
+    canonical: "https://croud-travel.pages.dev/traditional-fukushima-aizu-urushi-craft-stay/",
   },
   openGraph: {
     title: "【会津漆器の艶やかな器と郷土会席】伝統美学！東山温泉・芦ノ牧温泉の歴史名湯宿5選",

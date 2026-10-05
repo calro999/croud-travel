@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/yamanashi-minobu-shimobe-onsen-stay/" },
   title: "【山梨・身延山＆下部温泉】日蓮宗総本山久遠寺しだれ桜・信玄隠し湯宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "祈りの霊峰と武田信玄公の隠し湯・山梨身延＆下部エリア完全特化！日蓮宗総本山「身延山久遠寺（樹齢400年しだれ桜・菩提梯287段）」、身延山ロープウェイ奥之院、日本の名湯百選「下部温泉（ぬる湯治）」、名物「身延まんじゅう宿」を徹底解説。",
-  keywords: ["yamanashi-minobu-shimobe-onsen-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["山梨", "身延山", "下部温泉", "日蓮宗総本山久遠寺しだれ桜", "信玄隠し湯宿", "温泉宿", "宿泊予約"],
 };
 
 function loadSeasonalHotels() {

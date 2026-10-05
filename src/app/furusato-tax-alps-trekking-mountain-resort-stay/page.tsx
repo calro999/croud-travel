@@ -4,16 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '日本アルプス＆高山トレッキング山岳リゾート宿×ふるさと納税完全ガイド【2026年最新】上高地・白馬・立山の雲上ホテル',
   description: '日本屈指の山岳美！北アルプスの神降ちる地・上高地、白馬山麓の絶景テラス温泉リゾート、立山黒部アルペンルートの雲上ホテル。高山植物と満天の星空に抱かれる爽快マウンテンステイを楽天ふるさと納税宿泊クーポンでお得に予約する完全ガイド。',
-  keywords: [
-    '楽天ふるさと納税',
-    'ふるさと納税 宿泊クーポン',
-    '楽天トラベル ふるさと納税',
-    '高級温泉旅館',
-    '露天風呂付き客室',
-    '2026年旅行'
-  ],
+  keywords: ["日本アルプス", "2026年最新", "上高地", "白馬", "立山の雲上ホテル", "温泉宿", "宿泊予約"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-alps-trekking-mountain-resort-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-alps-trekking-mountain-resort-stay/"
   },
   openGraph: {
     title: '日本アルプス＆高山トレッキング山岳リゾート宿×ふるさと納税完全ガイド【2026年最新】上高地・白馬・立山の雲上ホテル',

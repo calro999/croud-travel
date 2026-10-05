@@ -4,16 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '名水百選・湧水めぐり＆名水蕎麦豆腐料理の宿×ふるさと納税完全ガイド【2026年最新】忍野八海・安曇野・郡上八幡の名湯',
   description: '国土の恵み、清冽なる名水の郷へ！世界遺産富士の湧水・山梨忍野八海の手打ち蕎麦宿、北アルプス雪解け湧水・長野安曇野のわさび街道温泉リゾート、名水百選宗祇水・岐阜郡上八幡の天然鮎と名水豆腐。楽天ふるさと納税宿泊クーポンでお得に楽しむ美食水巡りガイド。',
-  keywords: [
-    '楽天ふるさと納税',
-    'ふるさと納税 宿泊クーポン',
-    '楽天トラベル ふるさと納税',
-    '高級温泉旅館',
-    '露天風呂付き客室',
-    '2026年旅行'
-  ],
+  keywords: ["名水百選", "湧水めぐり", "2026年最新", "忍野八海", "安曇野", "郡上八幡の名湯", "温泉宿"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-spring-water-soba-tofu-onsen-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-spring-water-soba-tofu-onsen-stay/"
   },
   openGraph: {
     title: '名水百選・湧水めぐり＆名水蕎麦豆腐料理の宿×ふるさと納税完全ガイド【2026年最新】忍野八海・安曇野・郡上八幡の名湯',

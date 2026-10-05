@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/gifu-gero-onsen-hida-river-stay/" },
   title: "【岐阜・下呂温泉＆馬瀬川】日本三名泉美肌の湯・飛騨牛宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "有馬・草津と並ぶ日本三名泉「下呂温泉」の絹のような美肌湯、飛騨川沿いの温泉街そぞろ歩き、最高級A5等級飛騨牛の極上懐石、清流馬瀬川の天然鮎と合掌造りを徹底解説。老舗名旅館や展望露天風呂宿を厳選。",
-  keywords: ["gifu-gero-onsen-hida-river-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["岐阜", "下呂温泉", "馬瀬川", "日本三名泉美肌の湯", "飛騨牛宿", "温泉宿", "宿泊予約"],
 };
 
 function loadSeasonalHotels() {

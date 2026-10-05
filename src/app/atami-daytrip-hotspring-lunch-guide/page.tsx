@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/atami-daytrip-hotspring-lunch-guide/" },
   title: "【熱海 日帰り温泉 ランチ付きおすすめ】相模湾一望オーシャンビュー露天風呂＆極上海鮮丼日帰りプラン ｜ 日本全国・旅宿クラウド",
   description: "東京から50分の熱海で楽しむ日帰り温泉ランチ！相模湾を一望する絶景インフィニティ露天風呂、金目鯛煮付け＆朝獲れ地魚海鮮丼ランチがセットになったホテルプラン徹底比較。",
-  keywords: ["atami-daytrip-hotspring-lunch-guide", "熱海 日帰り温泉 ランチ付き", "熱海 オーシャンビュー露天風呂", "熱海 海鮮丼 ランチ", "熱海 日帰り温泉 個室", "楽天トラベル"],
+  keywords: ["熱海", "日帰り温泉", "ランチ付きおすすめ", "極上海鮮丼日帰りプラン", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
 
 interface Hotel {

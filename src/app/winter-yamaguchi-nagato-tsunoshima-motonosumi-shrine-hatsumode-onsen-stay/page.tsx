@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   description: "冬の日本海が最も透明度を増す11月中旬から1月。エメラルドグリーンとコバルトブルーの海を貫く「角島大橋」の絶景、CNN日本の最も美しい場所31選に輝く「元乃隅神社」の断崖に連なる123基の朱塗り鳥居での厳かな初詣、そして約600年の歴史を誇る名湯「長門湯本温泉」の恩湯と音信川の竹林ライトアップ散策。冬の味覚の王様・仙崎港の活イカや下関直送天然とらふぐ、長州黒かしわ。歴史と絶景が織りなす冬の山口・長門の厳選名宿5選を徹底解説します。",
   keywords: '長門湯本温泉 ホテル, 角島大橋 ホテル, 元乃隅神社 初詣, 大谷山荘, ホテル西長門リゾート, ホテル楊貴館, 仙崎イカ, とらふぐ, 11月 12月 1月 山口 観光',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-yamaguchi-nagato-tsunoshima-motonosumi-shrine-hatsumode-onsen-stay'
+    canonical: "https://croud-travel.pages.dev/winter-yamaguchi-nagato-tsunoshima-motonosumi-shrine-hatsumode-onsen-stay/"
   },
   openGraph: {
     title: "【11・12・1月山口】長門＆角島・元乃隅神社！冬のコバルトブルー角島大橋と123基赤鳥居初詣・長門湯本温泉と仙崎イカ・ふぐを味わう名宿5選",

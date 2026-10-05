@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '中山道・木曽路（妻籠宿・馬籠宿）秋の街道歩き紅葉＆木曽駒高原の美肌温泉・信州木曽牛 | クラウドトラベルふるさと納税',
   description: '10月中旬〜11月中旬に中山道の歴史ある宿場町を秋風と紅葉が包む木曽路。妻籠宿・馬籠宿・奈良井宿のノスタルジーと、木曽御嶽山を望む天然温泉・信州木曽牛会席をふるさと納税で楽しむ大人の秋旅。',
-  keywords: ['木曽・妻籠宿・馬籠宿・奈良井宿 紅葉 観光', '長野県 10月 11月 旅行', '木曽路妻籠馬籠紅葉＆木曽温泉木曽牛', 'ふるさと納税 温泉宿泊券', '木曽福島温泉 山みず季 URARA つたや', '木曽御岳温泉 つたや季の宿 風里', '木曽駒の湯温泉 ぬくもりの宿 駒の湯', '楽天ふるさと納税 宿泊クーポン'],
+  keywords: ["中山道", "木曽路（妻籠宿", "馬籠宿）秋の街道歩き紅葉", "木曽駒高原の美肌温泉", "信州木曽牛", "クラウドトラベルふるさと納税", "温泉宿"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-kisoji-tsumago-magome-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-kisoji-tsumago-magome-autumn-stay/",
   },
   openGraph: {
     title: '中山道・木曽路（妻籠宿・馬籠宿）秋の街道歩き紅葉＆木曽駒高原の美肌温泉・信州木曽牛',

@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-famous-confections-historic-town-stay/" },
   title: '日本三大銘菓＆城下町の伝統茶寮・老舗和菓子文化宿×ふるさと納税完全ガイド【2026年最新】金沢・長岡・京都',
   description: '茶道文化と職人技が生んだ和菓子の最高峰！石川金沢「長生殿」加賀前田家の茶の湯と山中温泉吉祥やまなか、新潟長岡「越乃雪」越後藩主を癒やした淡雪の口どけと蓬平温泉和泉屋、京都「京銘菓文化」御所御用達の至高の甘美と京都祇園料理旅館花楽。日本三大銘菓の城下町と名湯を巡る大人の甘美ステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大銘菓・伝統和菓子文化特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',

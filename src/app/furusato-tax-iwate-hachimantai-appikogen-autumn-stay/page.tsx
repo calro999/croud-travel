@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '岩手・八幡平アスピーテラインの紅葉パノラマ＆安比高原！秘湯名湯と前沢牛・杜陵ポーク | クラウドトラベルふるさと納税',
   description: '10月・11月の岩手・八幡平＆安比高原特集！日本屈指の紅葉ドライブウェイ「八幡平アスピーテライン」と樹海ラインの圧倒的紅葉グラデーション、大自然に抱かれた名湯・八幡平温泉郷、前沢牛や岩手黒毛和牛・杜陵ポークをふるさと納税トラベルクーポンでお得に味わう東北の秋旅。',
-  keywords: ["八幡平アスピーテライン・安比高原 紅葉 観光","岩手県 10月 11月 旅行","八幡平紅葉ドライブ＆安比高原温泉リゾート","ふるさと納税 温泉宿泊券","八幡平マウンテンホテル","ＡＮＡクラウンプラザリゾート安比高原　ｂｙ　ＩＨＧ","八幡平ライジングサンホテル","楽天ふるさと納税 宿泊クーポン"],
+  keywords: ["岩手", "安比高原！秘湯名湯と前沢牛", "杜陵ポーク", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-iwate-hachimantai-appikogen-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-iwate-hachimantai-appikogen-autumn-stay/",
   },
   openGraph: {
     title: '岩手・八幡平アスピーテラインの紅葉パノラマ＆安比高原！秘湯名湯と前沢牛・杜陵ポーク',

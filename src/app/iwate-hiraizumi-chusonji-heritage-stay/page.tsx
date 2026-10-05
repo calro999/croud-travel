@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/iwate-hiraizumi-chusonji-heritage-stay/" },
   title: "【岩手・平泉中尊寺＆厳美渓】世界遺産金色堂・空飛ぶだんご＆前沢牛極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "世界遺産・岩手平泉エリア完全特化！奥州藤原氏の極楽浄土「中尊寺金色堂」、毛越寺の浄土庭園、厳美渓の空飛ぶ「郭公だんご」、日本最高峰のブランド牛「前沢牛」と平泉周辺の温泉旅館を徹底解説。",
-  keywords: ["iwate-hiraizumi-chusonji-heritage-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["岩手", "平泉中尊寺", "厳美渓", "世界遺産金色堂", "空飛ぶだんご", "前沢牛極上宿", "温泉宿"],
 };
 
 function loadSeasonalHotels() {

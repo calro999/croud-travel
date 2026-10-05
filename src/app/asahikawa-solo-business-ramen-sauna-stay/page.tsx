@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/asahikawa-solo-business-ramen-sauna-stay/" },
   title: '【旭川出張・男一人旅サウナ】天然温泉神威の湯・駅直結半露天・本場旭川醤油ラーメン！道北ビジネスを極上の癒やしに変える厳選3宿',
   description: '道北最大の拠点・旭川での出張やソロサウナ旅に！旭川駅直結で選べる枕と半露天風呂が人気の「ＪＲイン旭川」、自家源泉神威の湯と夜鳴きそばが至高の「ドーミーイン旭川」、スパサウナ充実の「ホテルＷＢＦグランデ旭川」を楽天APIデータに基づき徹底比較。',
   keywords: '旭川 出張 ホテル,旭川 サウナ ホテル,JRイン旭川,ドーミーイン旭川,ホテルWBFグランデ旭川,旭川ラーメン ひとり旅',

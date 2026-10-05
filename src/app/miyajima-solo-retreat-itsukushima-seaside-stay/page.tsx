@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/miyajima-solo-retreat-itsukushima-seaside-stay/" },
   title: '【宮島ひとり旅・瀬戸内海絶景おこもり】厳島神社大鳥居ビュー・宮島潮湯温泉・名物穴子飯！神の島で心洗われる厳選3宿',
   description: '広島駅からJRとフェリーで約45分！大鳥居を望む展望ラウンジと島内唯一の潮湯温泉が自慢の「錦水館」、創業160年超・もみじ谷の深緑に佇む日本屈指の名旅館「みやじまの宿 岩惣」、フェリー乗り場すぐでコスパ抜群の「宮島コーラルホテル」を徹底比較。',
   keywords: '宮島 一人旅 宿,宮島 温泉 ひとり,宮島 錦水館 一人,みやじまの宿 岩惣,宮島コーラルホテル,厳島神社 穴子飯 牡蠣',

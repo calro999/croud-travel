@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/hyogo-arima-solo-retreat-onsen-stay/" },
   title: '【有馬温泉ひとり旅・金泉銀泉おこもり】日本最古の名湯・絶景露天・神戸牛会席！三宮から30分の極上ソロ湯治厳選3宿',
   description: '日本三古湯・日本三名泉の有馬！自家源泉の天然ラドン銀泉と充実のスパ設備を誇る「メープル有馬」、創業700年・三つの湯処で金泉を巡る名門「兵衛向陽閣」、滝川の渓流沿いで金泉・銀泉両方を堪能できる「月光園 鴻朧館」を楽天API最新データに基づき徹底比較。',
   keywords: '有馬温泉 一人旅 宿,有馬温泉 ホテル 一人,メープル有馬,兵衛向陽閣,月光園 鴻朧館,有馬 金泉 銀泉 ひとり旅',

@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '文豪たちが筆を走らせた名湯！名作誕生の舞台・文学ゆかりの歴史ある老舗旅館 ｜ 日本全国・旅宿クラウド',
   description: '城崎・伊豆湯ヶ島・道後など志賀直哉、川端康成、夏目漱石ら文豪が逗留し名作を執筆した老舗宿。当時の面影を残す客室や庭園、名湯を愛でる旅。',
-  keywords: ["文豪の宿","城崎温泉","老舗旅館","文学旅","登録有形文化財","歴史の宿"],
+  keywords: ["文学ゆかりの歴史ある老舗旅館", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/literary-heritage-bungo-historic-ryokan-stay',
+    canonical: "https://croud-travel.pages.dev/literary-heritage-bungo-historic-ryokan-stay/",
   },
   openGraph: {
     title: '文豪たちが筆を走らせた名湯！名作誕生の舞台・文学ゆかりの歴史ある老舗旅館',

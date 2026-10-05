@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "11月から12月にかけて鳥取県中央部に位置する東郷湖畔の「はわい温泉・東郷温泉」は、静かな湖面から立ち上る幻想的な朝霧と湯けむりに包まれ、11月6日のカニ漁解禁とともに一年で最も贅沢な冬の味覚シーズンを迎えます。全国的にも極めて珍しい東郷湖上に浮かぶように突き出た「湖上露天風呂」に浸かり、湖水と一体となる奇跡のインフィニティ湯浴みを満喫。境港や泊港から直送される新鮮なタグ付き鳥取松葉ガニのフルコース、脂の融点が低くとろける最高峰ブランド「鳥取和牛オレイン55」のステーキを味わう、初冬の湖畔厳選宿5選を徹底解説。",
   keywords: 'はわい温泉 宿泊, 東郷温泉 宿, はわい温泉 カニ 11月 12月, 望湖楼, 千年亭 はわい温泉, 水明荘 東郷温泉, 湖屋 KOYA, ゆの宿 彩香, 鳥取 松葉ガニ 宿, 鳥取和牛オレイン55, 湖上露天風呂',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-tottori-hawai-onsen-togo-lake-matsuba-crab-stay'
+    canonical: "https://croud-travel.pages.dev/winter-tottori-hawai-onsen-togo-lake-matsuba-crab-stay/"
   },
   openGraph: {
     title: "【11・12月鳥取・はわい温泉の東郷湖上露天風呂と11月解禁鳥取松葉ガニ】鳥取和牛オレイン55・源泉かけ流し湖畔名宿5選",

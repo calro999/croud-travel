@@ -5,18 +5,11 @@ import path from "path";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-tokai-shizuoka-aichi-guide/" },
   title: "【東海シルバーウィーク グランピング】静岡・伊豆・愛知おすすめ！海鮮BBQ＆みかん狩り体験 ｜ 日本全国・旅宿クラウド",
   description:
     "名古屋・静岡発着の秋連休旅行！伊豆半島の金目鯛・アワビ浜焼き付きグランピング、浜名湖のレイクビューヴィラ、知多半島のサンセットドームテント。温暖な東海エリアで過ごす秋グランピング特集。",
-  keywords: [
-    "東海 グランピング シルバーウィーク",
-    "静岡 グランピング 伊豆 伊東",
-    "愛知 グランピング 名古屋発",
-    "伊豆 グランピング 海鮮BBQ 金目鯛",
-    "伊豆高原 ドームテント 温泉付き",
-    "秋連休 東海 ドライブ グランピング",
-    "みかん狩り 伊豆 旅行 プラン",
-  ],
+  keywords: ["東海シルバーウィーク", "グランピング", "静岡", "伊豆", "愛知おすすめ！海鮮BBQ", "みかん狩り体験", "温泉宿"],
 };
 
 interface Hotel {

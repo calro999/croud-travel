@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '【2026年】青や紫のグラデーション！紫陽花寺めぐり＆あじさい庭園露天風呂の初夏温泉宿5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！鎌倉・箱根・京都など数千株の紫陽花が咲き誇る名所寺院めぐりと、色鮮やかなあじさい庭園を望む露天風呂が自慢の初夏の名宿5選。',
-  keywords: ["紫陽花","あじさい寺","初夏旅行","箱根あじさい","庭園露天風呂","楽天トラベル"],
+  keywords: ["2026年", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/summer-hydrangea-temple-garden-healing-stay',
+    canonical: "https://croud-travel.pages.dev/summer-hydrangea-temple-garden-healing-stay/",
   },
   openGraph: {
     title: '【2026年】青や紫のグラデーション！紫陽花寺めぐり＆あじさい庭園露天風呂の初夏温泉宿5選',

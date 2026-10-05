@@ -4,16 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '銘柄豚・極上しゃぶしゃぶ料理の名湯宿×ふるさと納税完全ガイド【2026年最新】鹿児島黒豚・平田牧場金華豚・那須高原豚の美食旅',
   description: 'とろける脂の甘みと極上の旨味！本場鹿児島黒豚の出汁しゃぶ会席と砂むし温泉、山形庄内「平田牧場金華豚」の幻の豚肉とあつみ温泉、栃木那須高原三元豚のブランド肉づくしステイ。肉好き必見の極上ポークディナーを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
-  keywords: [
-    '楽天ふるさと納税',
-    'ふるさと納税 宿泊クーポン',
-    '楽天トラベル ふるさと納税',
-    '高級温泉旅館',
-    '露天風呂付き客室',
-    '2026年旅行'
-  ],
+  keywords: ["銘柄豚", "2026年最新", "鹿児島黒豚", "平田牧場金華豚", "那須高原豚の美食旅", "温泉宿", "宿泊予約"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-brand-pork-shabu-gourmet-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-brand-pork-shabu-gourmet-stay/"
   },
   openGraph: {
     title: '銘柄豚・極上しゃぶしゃぶ料理の名湯宿×ふるさと納税完全ガイド【2026年最新】鹿児島黒豚・平田牧場金華豚・那須高原豚の美食旅',

@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "11月から本格シーズンを迎える茨城の冬の風物詩「あんこう鍋（どぶ汁）」！濃厚なあん肝をたっぷり溶かした特製味噌出汁で味わうコラーゲンたっぷりの身と、太平洋を一望するパノラマ展望露天風呂を満喫する冬旅。",
   keywords: "大洗 温泉 旅館, 11月旅行, 12月旅行, 冬休み, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/winter-ibaraki-ankou-nabe-hotspring-stay',
+    canonical: "https://croud-travel.pages.dev/winter-ibaraki-ankou-nabe-hotspring-stay/",
   },
   openGraph: {
     title: "【11月解禁！冬の贅沢あんこう鍋＆どぶ汁】濃厚あん肝と五浦・大洗の太平洋絶景温泉宿5選",

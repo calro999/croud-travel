@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "青空の下に広がる何十万本もの満開のひまわり畑！客室専用ウッドデッキや展望露天風呂から黄色い花の絨毯を一望できる、開放感と元気に満ちた全国屈指のフラワーカーペット温泉宿を厳選紹介。",
   keywords: "富良野 温泉 ホテル, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/luxury-private-onsen-with-scenic-sunflower-deck',
+    canonical: "https://croud-travel.pages.dev/luxury-private-onsen-with-scenic-sunflower-deck/",
   },
   openGraph: {
     title: "【黄色い絨毯ひまわり畑】客室テラスから望む一面のひまわりと絶景露天風呂！夏秋のパノラマ宿5選",

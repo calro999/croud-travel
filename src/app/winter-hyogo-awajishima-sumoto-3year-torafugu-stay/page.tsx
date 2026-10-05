@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "鳴門海峡の激流が育む冬の最高峰ブランド「淡路島3年とらふぐ」。通常2年のところ3年もの歳月をかけてじっくり育て上げた極上の身の締まりと濃厚白子。紀淡海峡の水平線から昇る朝日を望む洲本温泉のインフィニティ露天風呂と、淡路牛・とらふぐフルコースを堪能する名宿5選。",
   keywords: '洲本温泉 宿泊 11月 12月, 淡路島3年とらふぐ 宿, ホテルニューアワジ, 淡路夢泉景, 夢海游 淡路島, 海月館 洲本, 淡路牛 冬 温泉, 紀淡海峡 露天風呂',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-hyogo-awajishima-sumoto-3year-torafugu-stay',
+    canonical: "https://croud-travel.pages.dev/winter-hyogo-awajishima-sumoto-3year-torafugu-stay/",
   },
   openGraph: {
     title: "【11・12月淡路島洲本温泉の初冬海景と淡路島3年とらふぐ】紀淡海峡パノラマ露天と冬の絶品3年とらふぐ＆淡路牛会席の宿5選",

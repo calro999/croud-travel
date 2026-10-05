@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/kushiro-solo-business-sunset-robata-stay/" },
   title: '【釧路出張・男一人旅】天然温泉幣舞の湯・世界三大夕日パノラマ・本場炉端焼き！道東拠点でととのう厳選3宿',
   description: '道東の経済・水産拠点・釧路市での出張やソロ旅に！幣舞橋たもとで天然温泉と釧路川の絶景を望む「ドーミーインPREMIUM釧路」、釧路港オーシャンビューと快適な客室環境を誇る「ＡＮＡクラウンプラザホテル釧路」、優雅なラウンジサービスと夜景が人気の「釧路センチュリーキャッスルホテル」を楽天APIデータに基づき徹底比較。',
   keywords: '釧路 出張 ホテル,釧路 ホテル 一人旅,ドーミーインPREMIUM釧路,ANAクラウンプラザホテル釧路,釧路センチュリーキャッスルホテル,釧路 炉端焼き 勝手丼',

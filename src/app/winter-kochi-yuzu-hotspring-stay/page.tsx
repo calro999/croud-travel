@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "11月から収穫最盛期を迎え、12月冬至の風物詩となる「ゆず湯」！日本一の生産量を誇る高知・北川村や物部川水系の爽やかなゆずを浮かべた天然温泉と、脂がのった極上の戻りカツオ塩たたきを堪能する温もり旅。",
   keywords: "高知 温泉 旅館, 11月旅行, 12月旅行, 冬休み, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/winter-kochi-yuzu-hotspring-stay',
+    canonical: "https://croud-travel.pages.dev/winter-kochi-yuzu-hotspring-stay/",
   },
   openGraph: {
     title: "【11・12月ゆず湯＆冬至の香り】日本一の高知ゆず温泉と戻りカツオ塩たたき宿5選",

@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/nara-station-solo-retreat-onsen-stay/" },
   title: '【奈良駅前ひとり旅・天然温泉おこもり】全館畳敷き・吉野桜の湯・若草山＆東大寺！古都1300年の静寂に癒やされる厳選3宿',
   description: 'JR・近鉄奈良駅すぐ！全館素足で過ごせる和風プレミアムホテル「御宿 野乃奈良」、自家源泉天然温泉「奈良若草の湯」と快適デスクワークの「ダイワロイネットホテル奈良」、駅西口直結で上質スパと美食を誇る「ホテル日航奈良」を徹底比較。',
   keywords: '奈良 一人旅 ホテル,奈良駅 温泉 ホテル,御宿野乃奈良,ダイワロイネットホテル奈良,ホテル日航奈良,奈良 おこもり 宿',

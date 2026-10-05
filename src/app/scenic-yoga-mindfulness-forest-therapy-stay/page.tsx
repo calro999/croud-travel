@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/scenic-yoga-mindfulness-forest-therapy-stay/" },
   title: "【絶景ヨガ＆マインドフルネス宿】朝霧テラス・森林セラピー＆オーガニック美肌スパ 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "呼吸をととのえ五感をひらくヨガ＆マインドフルネスリゾート完全特化！雲海を望む朝ヨガテラス、森林セラピー基地のガイドツアー、星空ナイトヨガ、美肌クレイセラピー、ヴィーガン＆マクロビオティック対応宿を徹底解説。",
-  keywords: ["scenic-yoga-mindfulness-forest-therapy-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["絶景ヨガ", "マインドフルネス宿", "朝霧テラス", "森林セラピー", "オーガニック美肌スパ", "温泉宿", "宿泊予約"],
 };
 
 function loadSeasonalHotels() {

@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '【2026年】黄金の輝きと加賀百万石の雅！金箔貼り体験＆金箔風呂が自慢の金沢温泉宿5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！金沢の伝統工芸「金箔」の貼り体験や、金箔が舞う贅沢な金箔風呂、金箔をあしらった豪華加賀会席を満喫できる名門温泉旅館5選。',
-  keywords: ["金箔体験","金沢温泉","加賀会席","加賀百万石","伝統工芸宿","楽天トラベル"],
+  keywords: ["2026年", "金箔風呂が自慢の金沢温泉宿5選", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/traditional-gold-leaf-craft-kanazawa-stay',
+    canonical: "https://croud-travel.pages.dev/traditional-gold-leaf-craft-kanazawa-stay/",
   },
   openGraph: {
     title: '【2026年】黄金の輝きと加賀百万石の雅！金箔貼り体験＆金箔風呂が自慢の金沢温泉宿5選',

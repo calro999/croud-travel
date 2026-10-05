@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/tokyo-ginza-solo-retreat-onsen-stay/" },
   title: '【銀座ひとり旅・大浴場おこもり】歌舞伎座・洗練モダン大浴殿・極上江戸前グルメ！大人の憧れ街で心満たされる厳選3宿',
   description: '東銀座駅・銀座駅から徒歩数分！歌舞伎座木挽町広場すぐで和モダン大浴場を備える「三井ガーデンホテル銀座五丁目」、スタイリッシュな銀座の隠れ家スパ「ザ・スクエアホテル銀座」、銀座中央通りも至近で抜群の洗練空間を誇る「ダイワロイネットホテル銀座 PREMIER」を徹底比較。',
   keywords: '銀座 一人旅 ホテル,銀座 ホテル 大浴場,三井ガーデンホテル銀座五丁目,ザスクエアホテル銀座,ダイワロイネットホテル銀座PREMIER,銀座 おこもり 宿',

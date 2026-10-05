@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/aomori-oirase-towada-nature-stay/" },
   title: "【青森・十和田湖＆奥入瀬渓流】苔むす清流・銚子大滝＆青森りんご極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "特別名勝・青森奥入瀬渓流＆十和田湖エリア完全特化！全長14kmの清流散策、銚子大滝、阿修羅の流れ、星野リゾート奥入瀬渓流ホテル、十和田湖遊覧船、十和田バラ焼きと青森食材フレンチ宿を徹底解説。",
-  keywords: ["aomori-oirase-towada-nature-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["青森", "十和田湖", "奥入瀬渓流", "苔むす清流", "銚子大滝", "青森りんご極上宿", "温泉宿"],
 };
 
 function loadSeasonalHotels() {

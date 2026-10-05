@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/autumn-winter-all-inclusive-luxury/" },
   title: "【贅沢フリーフロー】お財布フリー！秋・冬の極上オールインクルーシブ宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "滞在中の飲食・アクティビティがすべて無料！神奈川・箱根、栃木・那須高原、静岡・東伊豆、宮城・作並秋保温泉など、生ビールや地酒、暖炉ラウンジの軽食を心ゆくまで堪能できる人気宿を徹底解説。",
-  keywords: ["autumn-winter-all-inclusive-luxury", "宿泊予約", "温泉宿", "ホテル特集", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["贅沢フリーフロー", "お財布フリー！秋", "冬の極上オールインクルーシブ宿", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
 
 function loadSeasonalHotels() {

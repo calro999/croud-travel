@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "北アルプス最深部を穿つ黒部川の清流と断崖絶壁に抱かれた名湯・宇奈月温泉。11月中旬の晩秋から12月の初雪へと移ろう初冬、日本一の透明度を誇る弱アルカリ性美肌泉と、富山湾の冬の王者「寒ブリ」＆獲れたて紅ズワイガニ会席を堪能する名宿ガイド。",
   keywords: '宇奈月温泉 宿泊 11月 12月, 宇奈月温泉 寒ブリ 紅ズワイガニ, 黒部峡谷 雪景色 露天風呂, 黒部 宇奈月温泉 やまのは, 宇奈月温泉 延楽, 延対寺荘, サン柳亭, 富山 冬 温泉',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-toyama-unazuki-onsen-kurobe-snow-stay',
+    canonical: "https://croud-travel.pages.dev/winter-toyama-unazuki-onsen-kurobe-snow-stay/",
   },
   openGraph: {
     title: "【11・12月宇奈月温泉の初冬黒部峡谷美と名湯】雪化粧の峡谷露天と日本一の透明度・富山湾寒ブリ＆紅ズワイガニの宿5選",

@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-scenic-passes-panorama-stay/" },
   title: '日本三大峠＆雲海パノラマ・歴史街道の難所と高原温泉宿×ふるさと納税完全ガイド【2026年最新】碓氷峠・箱根峠・天城峠',
   description: '山脈を越える風と絶景パノラマを体感する日本の名峠ドライブ！長野・群馬「碓氷峠」めがね橋の煉瓦アーチと旧軽井沢ホテル音羽ノ森、神奈川・静岡「箱根峠」東海道随一の天下の険・芦ノ湖富士山ビュー龍宮殿、静岡伊豆「天城峠」川端康成伊豆の踊子の天城隧道と伊豆長岡温泉ホテル天坊。四季折々の峠道ドライブと高原フレンチ、名湯露天風呂を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大峠・高原ドライブ特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',

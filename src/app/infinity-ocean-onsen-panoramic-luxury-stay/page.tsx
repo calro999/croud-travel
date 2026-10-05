@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '海と空に溶け込む究極の開放感！全国の絶景インフィニティ露天風呂名門宿 ｜ 日本全国・旅宿クラウド',
   description: '熱海・南紀白浜・赤穂・指宿など湯船と水平線が一体化するインフィニティ温泉。波音を聞きながら海風に包まれる、一生に一度は訪れたい極上リゾート。',
-  keywords: ["インフィニティ温泉","絶景露天風呂","オーシャンビュー","熱海温泉","南紀白浜","海一望"],
+  keywords: ["温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/infinity-ocean-onsen-panoramic-luxury-stay',
+    canonical: "https://croud-travel.pages.dev/infinity-ocean-onsen-panoramic-luxury-stay/",
   },
   openGraph: {
     title: '海と空に溶け込む究極の開放感！全国の絶景インフィニティ露天風呂名門宿',

@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/winter-snow-festival-illumination/" },
   title: "【白銀の祭典】冬の雪まつり＆巨大かまくら温泉旅館 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "幻想的な氷と雪のエンターテインメント！北海道さっぽろ雪まつり、秋田横手のかまくら、栃木奥日光湯西川温泉かまくら祭、青森十和田湖冬物語など、冬限定の雪まつりイベントと名湯宿を徹底解説。",
-  keywords: ["winter-snow-festival-illumination", "宿泊予約", "温泉宿", "ホテル特集", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["白銀の祭典", "冬の雪まつり", "巨大かまくら温泉旅館", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
 
 function loadSeasonalHotels() {

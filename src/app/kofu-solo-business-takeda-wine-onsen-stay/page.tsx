@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/kofu-solo-business-takeda-wine-onsen-stay/" },
   title: '【甲府出張・信玄公の城下町】天然温泉甲斐路の湯・甲府城天守台・甲州ワイン＆名物ほうとう！武田の杜でととのう厳選3宿',
   description: '新宿からJR特急あずさ・かいじで直通約85分！最上階天然温泉とサウナ・夜鳴きそばが揃う「ドーミーイン甲府」、富士山と甲府盆地を望む高台のシティリゾート「甲府記念日ホテル」、甲府城跡に隣接し城下町の歴史を感じる「城のホテル甲府」を楽天APIデータに基づき徹底比較。',
   keywords: '甲府 出張 ホテル,甲府 温泉 一人旅,ドーミーイン甲府,甲府記念日ホテル,城のホテル甲府,甲州ワイン ほうとう 鳥もつ煮',

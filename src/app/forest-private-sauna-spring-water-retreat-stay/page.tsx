@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/forest-private-sauna-spring-water-retreat-stay/" },
   title: "【森のプライベートサウナ＆天然湧水水風呂宿】完全貸切・バレルサウナ＆外気浴 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "究極のととのい体験・サウナ特化型温泉宿完全特化！客室専用バレルサウナ、セルフロウリュ、富士山やアルプスの天然水掛け流し水風呂、森のインフィニティチェア外気浴、アウフグース体験宿を徹底解説。",
-  keywords: ["forest-private-sauna-spring-water-retreat-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["森のプライベートサウナ", "天然湧水水風呂宿", "完全貸切", "バレルサウナ", "外気浴", "温泉宿", "宿泊予約"],
 };
 
 function loadSeasonalHotels() {

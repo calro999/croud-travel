@@ -4,20 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '赤目四十八滝の渓谷美紅葉＆竹あかりライトアップ！伊賀牛会席温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】三重',
   description: '10月下旬〜11月下旬に赤目渓谷の滝群が深紅に染まる名所「三重・赤目四十八滝」。不動滝や千手滝を巡る渓谷散策と夜を幻想的に彩る「竹あかり（宵の舞）」、忍者の隠れ里に湧く天然温泉「赤目温泉隠れの湯 対泉閣」「山の湯 山水園」「ホテル ルートイン名張」で肉の芸術品・伊賀牛すき焼きステーキを堪能。ふるさと納税で実質2,000円。',
-  keywords: [
-    "ふるさと納税 温泉",
-    "ふるさと納税 宿泊券",
-    "ふるさと納税 トラベルクーポン",
-    "三重・赤目四十八滝渓谷紅葉＆竹あかりライトアップ特集",
-    "10月 旅行 おすすめ",
-    "11月 旅行 おすすめ",
-    "秋 旅行 温泉",
-    "赤目四十八滝 紅葉 竹あかり 伊賀牛 温泉旅館",
-    "楽天トラベル ふるさと納税",
-    "実質2000円 温泉"
-],
+  keywords: ["赤目四十八滝の渓谷美紅葉", "2026年最新秋旅", "三重", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-akame-48waterfalls-autumn-leaves-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-akame-48waterfalls-autumn-leaves-stay/"
   },
   openGraph: {
     title: '赤目四十八滝の渓谷美紅葉＆竹あかりライトアップ！伊賀牛会席温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】三重',

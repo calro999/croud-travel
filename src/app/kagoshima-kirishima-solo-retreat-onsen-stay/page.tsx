@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/kagoshima-kirishima-solo-retreat-onsen-stay/" },
   title: '【霧島温泉ひとり旅・天孫降臨神話おこもり】霧島連峰パノラマ・源泉かけ流し露天・黒豚地鶏会席！坂本龍馬も愛した南九州の霊峰厳選3宿',
   description: '坂本龍馬とお龍が日本初の新婚旅行で訪れた神話の郷・霧島！全室に温泉露天風呂とプライベート空間を誇る「天テラス（あまてらす）」、全室天然温泉付き離れの趣で美食が愛される「いで湯の宿 霧島花紫」、最新の快適性と天然温泉スパを備える「ザ・パルス霧島」を徹底比較。',
   keywords: '霧島温泉 一人旅 宿,霧島 ホテル 一人 温泉,天テラス 霧島,霧島花紫,ザ・パルス霧島,霧島神宮 ひとり旅 おこもり',

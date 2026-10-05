@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/kyoto-ujigawa-greentea-stay/" },
   title: "【京都・宇治】平等院鳳凰堂・宇治茶＆源氏物語ゆかりの川畔宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "世界遺産・京都宇治エリア完全特化！十円玉に描かれた平等院鳳凰堂、宇治川の鵜飼い・橘橋、創業数百年の宇治茶老舗（辻利・中村藤吉）の抹茶パフェ、源氏物語宇治十帖と川畔温泉旅館を徹底解説。",
-  keywords: ["kyoto-ujigawa-greentea-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["京都", "宇治", "平等院鳳凰堂", "宇治茶", "源氏物語ゆかりの川畔宿", "温泉宿", "宿泊予約"],
 };
 
 function loadSeasonalHotels() {

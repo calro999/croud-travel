@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/ishikawa-yamashiro-solo-retreat-onsen-stay/" },
   title: '【山代温泉ひとり旅・加賀百万石おこもり】総湯・古総湯・加賀橋立港の海の幸！千三百年続く加賀温泉郷の歴史と美湯に浸る厳選3宿',
   description: '北陸新幹線加賀温泉駅直通！板前割烹の料理自慢で一人旅でも絶品会席が味わえる「ホテルききょう」、和の情緒と2つの源泉大浴場が評判の「葉渡莉」、多彩な露天風呂と加賀太鼓ショーが人気の名門「瑠璃光」を楽天API最新データに基づき徹底比較。',
   keywords: '山代温泉 一人旅 宿,山代温泉 ホテル 一人,ホテルききょう,葉渡莉,瑠璃光,山代温泉 古総湯 ひとり旅',

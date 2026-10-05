@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-calderas-geopark-stay/" },
   title: '日本三大カルデラ＆地球の息吹・巨大火口原パノラマと名湯宿×ふるさと納税完全ガイド【2026年最新】阿蘇・箱根・屈斜路',
   description: '大地の鼓動を肌で感じるジオパークの驚異！世界屈指の複式カルデラと外輪山の大パノラマ「阿蘇カルデラ」阿蘇内牧温泉阿蘇プラザホテル、富士山を望むカルデラ湖畔のリゾート「箱根カルデラ（芦ノ湖）」箱根はなをり、日本最大のカルデラ湖と屈斜路ブルー「屈斜路・摩周カルデラ」屈斜路プリンスホテル。日本三大カルデラの絶景温泉宿を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大カルデラ・大自然ジオ特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',

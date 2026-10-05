@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/hokkaido-otaru-yoichi-canal-distillery-stay/" },
   title: "【北海道・小樽＆余市】小樽運河・ニッカウヰスキー蒸溜所＆寿司海鮮丼宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "ノスタルジックな石造り倉庫とガス灯が輝く小樽運河、日本のウイスキーの聖地・余市蒸溜所、三角市場の豪華海鮮丼やおたる寿司通りを満喫する小樽・余市特化ガイド。運河沿いホテルや温泉リゾートを厳選。",
-  keywords: ["hokkaido-otaru-yoichi-canal-distillery-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["北海道", "小樽", "余市", "小樽運河", "ニッカウヰスキー蒸溜所", "寿司海鮮丼宿", "温泉宿"],
 };
 
 function loadSeasonalHotels() {

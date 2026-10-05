@@ -4,6 +4,7 @@ import Link from 'next/link';
 import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-pet-sauna-private-hotspring-stay/" },
   title: '【愛犬同伴＆プライベートサウナ】贅沢な休日をご褒美ステイ！ふるさと納税クーポンのスマート活用術 | クラウドトラベル',
   description: 'ペット宿泊料金やサウナ付き客室の追加費用もふるさと納税クーポンでスマートに解決！裏磐梯の愛犬ペンション、伊豆高原の客室露天風呂宿、白馬の本格サウナロッジなど、自分へのご褒美旅を特集。',
   openGraph: {

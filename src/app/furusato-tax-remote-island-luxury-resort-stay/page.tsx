@@ -4,6 +4,7 @@ import Link from 'next/link';
 import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-remote-island-luxury-resort-stay/" },
   title: '【大人の隠れ家・極上の離島リゾート】日常を完全遮断する南国アイランドふるさと納税ステイ | クラウドトラベル',
   description: '本土では決して味わえない圧倒的な静寂と大自然。屋久島・奄美大島・石垣島の世界遺産ロッジやオーシャンフロントヴィラを楽天ふるさと納税で賢く予約。飛行機や船で渡る大人のアイランドエスケープ。',
   openGraph: {

@@ -4,20 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '八幡平アスピーテラインの紅葉回廊ドライブ＆乳白色の秘湯・松川温泉！露天風呂宿×ふるさと納税完全ガイド【2026年最新秋旅】岩手',
   description: '9月下旬〜10月中旬に見頃を迎える東北屈指の山岳紅葉「八幡平アスピーテライン」。標高1,613mの頂上へ続く黄色と赤のパノラマ紅葉ロード、地熱発電の里に湧く青白濁の秘湯「松川温泉 峡雲荘」「松川荘」「八幡平マウンテンホテル」で前沢牛・短角牛や八幡平ポーク・八幡平サーモンを堪能。ふるさと納税で実質2,000円。',
-  keywords: [
-    'ふるさと納税 温泉',
-    'ふるさと納税 宿泊券',
-    'ふるさと納税 トラベルクーポン',
-    '岩手・八幡平アスピーテライン＆松川温泉特集',
-    '10月 旅行 おすすめ',
-    '11月 旅行 おすすめ',
-    '秋 旅行 温泉',
-    '紅葉 温泉旅館',
-    '楽天トラベル ふるさと納税',
-    '実質2000円 温泉'
-  ],
+  keywords: ["乳白色の秘湯", "2026年最新秋旅", "岩手", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-hachimantai-aspiteline-autumn-leaves-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-hachimantai-aspiteline-autumn-leaves-stay/"
   },
   openGraph: {
     title: '八幡平アスピーテラインの紅葉回廊ドライブ＆乳白色の秘湯・松川温泉！露天風呂宿×ふるさと納税完全ガイド【2026年最新秋旅】岩手',

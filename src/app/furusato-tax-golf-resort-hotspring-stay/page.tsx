@@ -4,6 +4,7 @@ import Link from 'next/link';
 import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-golf-resort-hotspring-stay/" },
   title: '【名門ゴルフ×ふるさと納税】極上トーナメントコース＆温泉ホテル宿泊パック完全ガイド | クラウドトラベル',
   description: 'プレー代や宿泊費の総額から30％が還元！静岡・川奈、長野・軽井沢、沖縄・宮古島の名門シーサイド＆高原ゴルフリゾートを厳選。高所得ゴルファー必見のふるさと納税スマート活用術。',
   openGraph: {

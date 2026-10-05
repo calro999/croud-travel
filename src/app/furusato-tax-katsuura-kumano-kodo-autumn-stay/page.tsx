@@ -4,20 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '世界遺産・熊野古道の大門坂紅葉＆那智の滝！南紀勝浦の大洞窟露天風呂宿×ふるさと納税完全ガイド【2026年最新秋旅】和歌山',
   description: '10月下旬〜11月中旬に見頃を迎える世界遺産「熊野古道・大門坂」と落差133mの名瀑「那智の滝」。石畳を彩るモミジと熊野那智大社、名湯・南紀勝浦温泉の老舗「ホテル浦島」「万清楼」「休暇村 南紀勝浦」で忘帰洞の波打ち際温泉や勝浦港直送の生マグロ会席を堪能。楽天ふるさと納税で実質2,000円。',
-  keywords: [
-    'ふるさと納税 温泉',
-    'ふるさと納税 宿泊券',
-    'ふるさと納税 トラベルクーポン',
-    '和歌山・南紀勝浦温泉＆熊野古道大門坂特集',
-    '10月 旅行 おすすめ',
-    '11月 旅行 おすすめ',
-    '秋 旅行 温泉',
-    '紅葉 温泉旅館',
-    '楽天トラベル ふるさと納税',
-    '実質2000円 温泉'
-  ],
+  keywords: ["世界遺産", "熊野古道の大門坂紅葉", "2026年最新秋旅", "和歌山", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-katsuura-kumano-kodo-autumn-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-katsuura-kumano-kodo-autumn-stay/"
   },
   openGraph: {
     title: '世界遺産・熊野古道の大門坂紅葉＆那智の滝！南紀勝浦の大洞窟露天風呂宿×ふるさと納税完全ガイド【2026年最新秋旅】和歌山',

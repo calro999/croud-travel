@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】子どもの頃の夢を叶える！ツリーハウス＆森林薪サウナ付き極上グランピング5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！木の上に佇む秘密基地のようなツリーハウス！専用プライベートデッキ、薪割り体験、バレルサウナとBBQを満喫する大自然グランピング5選。',
-  keywords: ["ツリーハウス","グランピング","薪サウナ","バレルサウナ","BBQ","大自然リゾート","楽天トラベル"],
+  keywords: ["2026年", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
     title: '【2026年】子どもの頃の夢を叶える！ツリーハウス＆森林薪サウナ付き極上グランピング5選',
     description: '2026年最新！木の上に佇む秘密基地のようなツリーハウス！専用プライベートデッキ、薪割り体験、バレルサウナとBBQを満喫する大自然グランピング5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/organic-forest-treehouse-glamping-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/organic-forest-treehouse-glamping-stay',
+    canonical: "https://croud-travel.pages.dev/organic-forest-treehouse-glamping-stay/",
   },
 };
 

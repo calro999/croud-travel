@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/iwate-hanamaki-tono-ihatov-stay/" },
   title: "【岩手・花巻温泉郷＆遠野】宮沢賢治イーハトーブ・カッパ淵＆大沢・台温泉宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "宮沢賢治の故郷と民話の里・岩手花巻＆遠野エリア完全特化！花巻温泉郷（大沢温泉・鉛温泉・台温泉）の名湯、宮沢賢治童話村、遠野カッパ淵、伝承園のオシラサマ、前沢牛・白金豚・手打ちわんこそば宿を徹底解説。",
-  keywords: ["iwate-hanamaki-tono-ihatov-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["岩手", "花巻温泉郷", "遠野", "宮沢賢治イーハトーブ", "カッパ淵", "大沢", "台温泉宿"],
 };
 
 function loadSeasonalHotels() {

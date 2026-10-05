@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/tochigi-shiobara-eleven-hotsprings-valley-stay/" },
   title: "【栃木・那須塩原】塩原十一湯・もみじ谷大吊橋＆箒川渓谷露天宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "1200年の歴史を誇る開湯伝説と七色の名湯「塩原十一湯」、箒川渓谷美と「もみじ谷大吊橋」、名物スープ入り焼きそばを巡る那須塩原特化ガイド。渓流沿い露天風呂や源泉かけ流し宿を厳選。",
-  keywords: ["tochigi-shiobara-eleven-hotsprings-valley-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["栃木", "那須塩原", "塩原十一湯", "もみじ谷大吊橋", "箒川渓谷露天宿", "温泉宿", "宿泊予約"],
 };
 
 function loadSeasonalHotels() {

@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/japan-seafood-sushi-kaiseki-luxury-stay/" },
   title: "【極上海鮮寿司＆舟盛り名宿】朝獲れ地魚・一本釣り鮮魚＆板前握り寿司 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "魚好きのための極上海鮮＆寿司温泉宿完全特化！漁港直送の豪華大漁舟盛り、カウンターで職人が一貫ずつ握る極上寿司会席、アワビ踊り焼き、伊勢海老お造り、金目鯛姿煮と海辺の名門温泉旅館を徹底解説。",
-  keywords: ["japan-seafood-sushi-kaiseki-luxury-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["極上海鮮寿司", "舟盛り名宿", "朝獲れ地魚", "一本釣り鮮魚", "板前握り寿司", "温泉宿", "宿泊予約"],
 };
 
 function loadSeasonalHotels() {

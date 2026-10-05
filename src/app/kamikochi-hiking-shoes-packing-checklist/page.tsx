@@ -4,17 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/kamikochi-hiking-shoes-packing-checklist/" },
   title: "【上高地ハイキング 服装と靴のリアル失敗談】スニーカーで大丈夫？大正池〜河童橋で後悔しない持ち物完全版 ｜ 日本全国・旅宿クラウド",
   description: "上高地散策でよくある失敗を徹底解説！普通のスニーカー vs トレッキングシューズの境界線、山の急な天候変化に対応するレイヤリング（重ね着）、熊鈴や雨具の必要性、松本駅前・大正池ホテル宿泊情報。",
-  keywords: [
-    "上高地 靴 スニーカー",
-    "上高地 服装 失敗",
-    "上高地 持ち物 チェックリスト",
-    "大正池 河童橋 明神池",
-    "上高地 雨具 レイヤリング",
-    "上高地 熊鈴",
-    "上高地 宿泊 ホテル"
-  ],
+  keywords: ["上高地ハイキング", "服装と靴のリアル失敗談", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
 };
 
 interface Hotel {

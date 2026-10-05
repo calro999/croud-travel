@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '志賀高原横手山のパノラマ紅葉＆石畳の風情漂う湯田中渋温泉郷・信州りんご＆信州牛ステイ | クラウドトラベルふるさと納税',
   description: '10月上旬〜10月下旬に白樺とダケカンバが黄金に輝く志賀高原・横手山。レトロな石畳が続く湯田中渋温泉郷の老舗宿で、外湯めぐりと旬の信州りんご・信州プレミアム牛をふるさと納税で楽しむ秋の信濃路。',
-  keywords: ['志賀高原・湯田中渋温泉郷・山ノ内 紅葉 グルメ', '長野県 秋 10月 11月', '志賀高原紅葉＆湯田中渋温泉郷信州牛', 'ふるさと納税 温泉宿泊券', '信州湯田中温泉 ホテルゆだなか ～大浴場「吉の湯」～', '湯田中温泉 白雲楼旅館', '信州・湯田中温泉 清風荘', '楽天ふるさと納税 温泉クーポン'],
+  keywords: ["志賀高原横手山のパノラマ紅葉", "石畳の風情漂う湯田中渋温泉郷", "信州りんご", "信州牛ステイ", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-shigakogen-yudanaka-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-shigakogen-yudanaka-autumn-stay/",
   },
   openGraph: {
     title: '志賀高原横手山のパノラマ紅葉＆石畳の風情漂う湯田中渋温泉郷・信州りんご＆信州牛ステイ',

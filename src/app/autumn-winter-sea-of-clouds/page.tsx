@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/autumn-winter-sea-of-clouds/" },
   title: "【天空の絶景】雲海テラス＆展望露天風呂の宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "足元に広がる雲の大海原！兵庫・竹田城跡、埼玉・秩父三峯、長野・竜王SORA terrace、熊本・阿蘇外輪山など、秋・冬の早朝に息をのむ雲海を望む絶景ホテル＆温泉旅館を徹底解説。",
-  keywords: ["autumn-winter-sea-of-clouds", "宿泊予約", "温泉宿", "ホテル特集", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["天空の絶景", "雲海テラス", "展望露天風呂の宿", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
 
 function loadSeasonalHotels() {

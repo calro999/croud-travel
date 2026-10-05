@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '【2026年】客室から大迫力の花火を特等席で観賞！花火大会一望＆夜景露天風呂の温泉ホテル5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！熱海海上花火大会や洞爺湖ロングラン花火など、人混みを避けて部屋のテラスや露天風呂から大迫力の花火を満喫できるプレミアム宿5選。',
-  keywords: ["花火が見える宿","熱海海上花火","洞爺湖花火","記念日ホテル","客室露天風呂","楽天トラベル"],
+  keywords: ["2026年", "夜景露天風呂の温泉ホテル5選", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/traditional-fireworks-festival-view-room-stay',
+    canonical: "https://croud-travel.pages.dev/traditional-fireworks-festival-view-room-stay/",
   },
   openGraph: {
     title: '【2026年】客室から大迫力の花火を特等席で観賞！花火大会一望＆夜景露天風呂の温泉ホテル5選',

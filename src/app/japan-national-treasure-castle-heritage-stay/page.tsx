@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/japan-national-treasure-castle-heritage-stay/" },
   title: "【国宝五城＆現存十二天守を巡る宿】姫路城・松本城・犬山城・彦根城・松江城 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "江戸時代の天守がそのまま現存する奇跡の城郭めぐり完全特化！世界遺産「白鷺城・姫路城」、漆黒の国宝「松本城」、木曽川にそびえる最古の天守「犬山城」、琵琶湖畔の「彦根城」、宍道湖畔の「千鳥城・松江城」と城郭ビュー名宿を徹底解説。",
-  keywords: ["japan-national-treasure-castle-heritage-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["国宝五城", "現存十二天守を巡る宿", "姫路城", "松本城", "犬山城", "彦根城", "松江城"],
 };
 
 function loadSeasonalHotels() {

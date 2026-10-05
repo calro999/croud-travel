@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/okinawa-naha-solo-retreat-onsen-stay/" },
   title: '【那覇・国際通りひとり旅】大浴場＆プール・ゆいレール直結・やちむん通り！南国の潮風と琉球文化に浸る大人の厳選3宿',
   description: '那覇空港からゆいレールで約12〜16分！牧志駅直結で雨に濡れずチェックインできる安心の「ダイワロイネットホテル那覇国際通り」、県庁前駅徒歩圏で大浴場＆本格サウナを完備する「ワイズキャビン＆ホテル那覇国際通り」、異国情緒漂うプール＆屋外バーを備えた「ホテルパームロイヤルリゾート国際通り」を徹底比較。',
   keywords: '那覇 一人旅 ホテル,国際通り ホテル 大浴場,ダイワロイネット那覇国際通り,ワイズキャビン那覇国際通り,パームロイヤルNAHA,那覇 ワーケーション 一人',

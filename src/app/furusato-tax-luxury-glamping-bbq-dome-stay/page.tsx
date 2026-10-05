@@ -4,6 +4,7 @@ import Link from 'next/link';
 import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-luxury-glamping-bbq-dome-stay/" },
   title: '【豪華グランピング×ふるさと納税】手ぶら炭火BBQ＆薪割り焚き火！星空ドームテント完全ガイド | クラウドトラベル',
   description: '道具不要・ホテル並みの快適ベッド＆冷暖房完備！富士山麓・琵琶湖畔・淡路島のラグジュアリーグランピング施設を厳選。満天の星空、ご当地ブランド牛BBQ、薪割り焚き火体験をふるさと納税でお得に楽しむ方法。',
   openGraph: {

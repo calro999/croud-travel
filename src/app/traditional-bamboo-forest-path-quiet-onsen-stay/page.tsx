@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '【2026年】笹の葉のざわめきとライトアップ！竹林の小径に佇む静寂の隠れ家温泉旅館5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！伊豆修善寺・京都嵐山・黒川など、美しく手入れされた青竹の林に囲まれ、幻想的な竹林ライトアップと露天風呂を満喫できる隠れ家宿5選。',
-  keywords: ["竹林の宿","竹林露天風呂","修善寺温泉","嵐山","大人の隠れ家","楽天トラベル"],
+  keywords: ["2026年", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/traditional-bamboo-forest-path-quiet-onsen-stay',
+    canonical: "https://croud-travel.pages.dev/traditional-bamboo-forest-path-quiet-onsen-stay/",
   },
   openGraph: {
     title: '【2026年】笹の葉のざわめきとライトアップ！竹林の小径に佇む静寂の隠れ家温泉旅館5選',

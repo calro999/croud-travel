@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '【2026年】ふっくら艶やかな土鍋炊き銀シャリ！お米の旨味を極めた絶品朝ごはんの温泉宿5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！魚沼産コシヒカリや地元銘柄米を専用土鍋やかまどで炊き上げる極上ご飯と、ご飯のお供が充実した朝食自慢の温泉旅館5選。',
-  keywords: ["土鍋ご飯","朝食自慢","魚沼産コシヒカリ","銀シャリ","グルメ温泉","楽天トラベル"],
+  keywords: ["2026年", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/traditional-clay-pot-cooked-rice-gourmet-stay',
+    canonical: "https://croud-travel.pages.dev/traditional-clay-pot-cooked-rice-gourmet-stay/",
   },
   openGraph: {
     title: '【2026年】ふっくら艶やかな土鍋炊き銀シャリ！お米の旨味を極めた絶品朝ごはんの温泉宿5選',

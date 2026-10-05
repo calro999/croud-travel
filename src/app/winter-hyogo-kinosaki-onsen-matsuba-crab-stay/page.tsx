@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "11月6日のカニ漁解禁で熱狂に包まれる関西随一の名湯・城崎温泉！地元・津居山港直送の青いタグ付き活松葉ガニ（カニ刺し・焼きガニ・茹で姿ガニ・カニすき・甲羅酒）フルコースと、雪舞う柳並木を浴衣と下駄で歩く名物「7つの外湯めぐり」を堪能する至福の冬旅。",
   keywords: '城崎温泉 カニ 旅館, 城崎温泉 松葉ガニ 宿, 津居山ガニ 宿泊, 城崎温泉 外湯めぐり ホテル, 兵庫 11月 12月 旅行, 冬の城崎温泉, カニフルコース 旅館',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-hyogo-kinosaki-onsen-matsuba-crab-stay',
+    canonical: "https://croud-travel.pages.dev/winter-hyogo-kinosaki-onsen-matsuba-crab-stay/",
   },
   openGraph: {
     title: "【11月解禁！城崎温泉の青タグ津居山ガニ】名物7つの外湯めぐりと極上活ズワイガニ会席宿5選",

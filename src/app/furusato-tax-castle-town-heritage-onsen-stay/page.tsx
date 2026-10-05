@@ -4,6 +4,7 @@ import Link from 'next/link';
 import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-castle-town-heritage-onsen-stay/" },
   title: '【国宝・名城めぐり×ふるさと納税】天守を望む絶景露天風呂＆歴史ある城下町の名宿完全ガイド | クラウドトラベル',
   description: '白鷺城・烏城・国宝天守を愛でる歴史旅。兵庫・姫路、長野・松本、滋賀・彦根の城下町宿や天守展望露天風呂ホテルを厳選。武将のロマンと郷土会席をふるさと納税でお得に堪能する名城紀行。',
   openGraph: {

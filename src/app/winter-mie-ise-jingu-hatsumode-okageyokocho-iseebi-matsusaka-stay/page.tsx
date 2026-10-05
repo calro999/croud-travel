@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   description: "11月から1月、日本人の心の故郷・伊勢神宮（内宮・外宮）は凛とした神聖な冬の静寂に包まれます。五十鈴川に立ち込める幻想的な朝霧、宇治橋大鳥居から昇る冬至前後の神秘的な朝日、年末年始から新春にかけての初詣の賑わい、そして赤福ぜんざいや伊勢うどんが湯気を上げるおかげ横丁。冬に最盛期を迎える本場の伊勢海老や極上の松阪牛を堪能できる、伊勢神宮参拝に最適な厳選名宿5選と1泊2日の冬の王道参拝モデルコースを徹底解説します。",
   keywords: '伊勢神宮 初詣, 内宮 外宮, おかげ横丁 食べ歩き, 五十鈴川 朝霧, 冬至の日の出 宇治橋, いにしえの宿 伊久, 伊勢外宮参道 伊勢神泉, ホテルキャッスルイン伊勢夫婦岩, 三交イン伊勢市駅前, 伊勢シティホテル, 冬 伊勢海老, 松阪牛 すき焼き, 11月 12月 1月 三重旅行',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-mie-ise-jingu-hatsumode-okageyokocho-iseebi-matsusaka-stay'
+    canonical: "https://croud-travel.pages.dev/winter-mie-ise-jingu-hatsumode-okageyokocho-iseebi-matsusaka-stay/"
   },
   openGraph: {
     title: "【11・12・1月三重】伊勢神宮新春初詣とおかげ横丁・五十鈴川の朝霧と神域参拝・冬の極上伊勢海老＆松阪牛会席を味わう伊勢名宿5選",

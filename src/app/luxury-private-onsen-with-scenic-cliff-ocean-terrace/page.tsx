@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "海に突き出た断崖のプライベートウッドテラスに設えられた客室露天風呂！目の前に広がる青い太平洋のパノラマと、夕暮れに茜色に染まる水平線を独占できる、圧倒的絶景を誇る大人のラグジュアリー隠れ宿。",
   keywords: "絶壁 露天風呂 オーシャン 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/luxury-private-onsen-with-scenic-cliff-ocean-terrace',
+    canonical: "https://croud-travel.pages.dev/luxury-private-onsen-with-scenic-cliff-ocean-terrace/",
   },
   openGraph: {
     title: "【断崖絶壁オーシャンテラス】荒波と水平線を一望するプライベート温泉！伊豆・南紀の絶景隠れ宿5選",

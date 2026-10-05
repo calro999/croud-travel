@@ -4,20 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '近江八幡の水郷めぐり手漕ぎ舟紅葉＆八幡堀の白壁土蔵！近江牛会席の宿×ふるさと納税完全ガイド【2026年最新秋旅】滋賀',
   description: '10月〜11月にヨシ原と紅葉が水面に映える重要文化的景観「近江八幡の水郷めぐり」。八幡堀の白壁土蔵や情緒ある石畳の秋景色、琵琶湖畔と城下町に佇む「休暇村 近江八幡」「グリーンホテルYES近江八幡」「ＡＢホテル近江八幡」で日本三大和牛・近江牛のすき焼きステーキを堪能。ふるさと納税で実質2,000円。',
-  keywords: [
-    "ふるさと納税 温泉",
-    "ふるさと納税 宿泊券",
-    "ふるさと納税 トラベルクーポン",
-    "滋賀・近江八幡水郷めぐり＆近江牛特集",
-    "10月 旅行 おすすめ",
-    "11月 旅行 おすすめ",
-    "秋 旅行 温泉",
-    "近江八幡 水郷めぐり 近江牛 旅館 ホテル",
-    "楽天トラベル ふるさと納税",
-    "実質2000円 温泉"
-],
+  keywords: ["2026年最新秋旅", "滋賀", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-omihachiman-suigo-autumn-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-omihachiman-suigo-autumn-stay/"
   },
   openGraph: {
     title: '近江八幡の水郷めぐり手漕ぎ舟紅葉＆八幡堀の白壁土蔵！近江牛会席の宿×ふるさと納税完全ガイド【2026年最新秋旅】滋賀',

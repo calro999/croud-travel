@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/yamanashi-fujikawaguchiko-solo-retreat-fujiview-onsen-stay/" },
   title: '【富士山麓・富士河口湖温泉ひとり旅・富士絶景おこもり】屋上展望足湯・富士ビュー露天風呂・甲州牛懐石！新宿特急直通の絶景リトリート厳選3宿',
   description: '世界遺産富士山と河口湖の壮大なパノラマを望む富士五湖屈指の温泉地・富士河口湖温泉！屋上足湯や展望露天風呂から富士山を仰ぐ口コミ★4.7超の名門「湖南荘」、河口湖を見晴らすモダンリゾート「湖のホテル」、富士山と湖を望む数寄屋造りの名宿「若草の宿 丸栄」を楽天API最新データに基づき徹底比較。',
   keywords: '富士河口湖温泉 一人旅 宿,河口湖 ホテル 一人 温泉,湖南荘 河口湖,湖のホテル,若草の宿丸栄,富士山 ひとり旅 おこもり',

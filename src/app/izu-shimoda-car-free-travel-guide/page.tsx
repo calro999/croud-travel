@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/izu-shimoda-car-free-travel-guide/" },
   title: "【伊豆・下田 車なし観光 1泊2日モデルコース】伊豆急行＆路線バスで巡る白浜海岸・ペリーロード・金目鯛旅 ｜ 日本全国・旅宿クラウド",
   description: "レンタカーなしで楽しむ伊豆急下田の旅！特急踊り子直通、伊豆急行フリーきっぷ、東海バスを活用して白浜大浜海岸、ペリーロードのレトロカフェ、下田海中水族館、駅前＆海一望の温泉宿を満喫する完全ガイド。",
-  keywords: ["izu-shimoda-car-free-travel-guide", "伊豆 下田 車なし", "特急踊り子 車なし", "伊豆急行 モデルコース", "下田 東海バス", "ペリーロード カフェ", "白浜海岸 バス", "楽天トラベル"],
+  keywords: ["伊豆", "下田", "車なし観光", "1泊2日モデルコース", "伊豆急行", "路線バスで巡る白浜海岸", "ペリーロード"],
 };
 
 interface Hotel {

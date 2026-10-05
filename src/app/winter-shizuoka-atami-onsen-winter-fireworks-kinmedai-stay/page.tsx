@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "11月から12月にかけて澄み切った冬の夜空に大輪の花火が咲き誇る伝統の「熱海海上花火大会」と、都心から新幹線で最速35分の名湯「熱海温泉」。すり鉢状の熱海湾に響き渡る花火の轟音を客室や露天風呂から間近に体感できる贅沢なロケーション。相模湾を一望する絶景インフィニティ露天風呂、徳川家康公も愛した名湯、脂の乗った伊豆名物「金目鯛の姿煮」や新鮮な鮑・伊勢海老会席を満喫する厳選名宿5選を徹底解説。",
   keywords: '熱海温泉 宿泊, 熱海 11月 12月, 熱海後楽園ホテル, 古屋旅館, ホテルニューアカオ, 熱海パールスターホテル, 秀花園湯の花膳, 熱海海上花火大会 冬, インフィニティ露天風呂, 金目鯛姿煮, 熱海 温泉',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay',
+    canonical: "https://croud-travel.pages.dev/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay/",
   },
   openGraph: {
     title: "【11・12月熱海温泉の冬花火と相模湾絶景露天】澄み渡る夜空の初冬海上花火・インフィニティ温泉と極上金目鯛姿煮＆伊豆美味会席の宿5選",

@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '日本新三景「耶馬渓・一目八景」奇岩と紅葉のパノラマ絶景＆名湯別府鉄輪温泉・極上関あじ関さば | クラウドトラベルふるさと納税',
   description: '10月下旬〜11月中旬に奇岩巨峰と紅葉が織りなす耶馬渓・一目八景。湯けむり立ち上る別府鉄輪温泉の老舗宿で、源泉かけ流し露天風呂と豊後水道の極上ブランド魚「関あじ・関さば」「おおいた和牛」をふるさと納税で堪能。',
-  keywords: ['耶馬渓・一目八景・別府鉄輪 紅葉 観光', '大分県 10月 11月 旅行', '耶馬渓一目八景紅葉＆別府鉄輪温泉関あじ', 'ふるさと納税 温泉宿泊券', '天然温泉 扇城の湯 スーパーホテル大分・中津駅前', 'ホテルルートイン中津駅前', '耶馬渓山荘 えぼしや', '楽天ふるさと納税 宿泊クーポン'],
+  keywords: ["日本新三景「耶馬渓", "名湯別府鉄輪温泉", "極上関あじ関さば", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-yabakei-hitomehakkei-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-yabakei-hitomehakkei-autumn-stay/",
   },
   openGraph: {
     title: '日本新三景「耶馬渓・一目八景」奇岩と紅葉のパノラマ絶景＆名湯別府鉄輪温泉・極上関あじ関さば',

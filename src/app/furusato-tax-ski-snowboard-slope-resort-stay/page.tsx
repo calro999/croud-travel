@@ -4,6 +4,7 @@ import Link from 'next/link';
 import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-ski-snowboard-slope-resort-stay/" },
   title: '【ゲレンデ直結×白銀リゾート】スキー・スノボ＆雪見露天風呂をふるさと納税でお得に楽しむ旅 | クラウドトラベル',
   description: 'リフト券や用具レンタル込みの高額スキーツアーも実質30％オフ！ニセコ・白馬・越後湯沢のスキー場直結ホテルと雪見温泉宿を厳選。パウダースノーと極上温泉をふるさと納税で賢く満喫する完全攻略法。',
   openGraph: {

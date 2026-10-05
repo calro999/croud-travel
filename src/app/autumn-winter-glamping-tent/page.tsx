@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/autumn-winter-glamping-tent/" },
   title: "【秋・冬キャンプ】薪ストーブ＆焚き火・天然温泉グランピング 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "冬こそグランピングのベストシーズン！富士山ビューの大型ドームテント、薪ストーブ、プライベート焚き火、天然温泉や貸切サウナを完備した全国の極上グランピングリゾートを徹底解説。",
-  keywords: ["autumn-winter-glamping-tent", "宿泊予約", "温泉宿", "ホテル特集", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["冬キャンプ", "薪ストーブ", "焚き火", "天然温泉グランピング", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
 
 function loadSeasonalHotels() {

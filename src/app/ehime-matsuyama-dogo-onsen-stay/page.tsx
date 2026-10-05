@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/ehime-matsuyama-dogo-onsen-stay/" },
   title: "【愛媛・道後温泉】本館・飛鳥乃湯泉＆坊っちゃん文学・鯛めし極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "日本最古の温泉・道後温泉エリア完全特化！道後温泉本館（保存修理完了）、飛鳥乃湯泉、椿の湯、坊っちゃん列車、宇和島風＆松山風鯛めし食べ歩きと名門旅館を徹底解説。",
-  keywords: ["ehime-matsuyama-dogo-onsen-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["愛媛", "道後温泉", "本館", "飛鳥乃湯泉", "坊っちゃん文学", "鯛めし極上宿", "温泉宿"],
 };
 
 function loadSeasonalHotels() {

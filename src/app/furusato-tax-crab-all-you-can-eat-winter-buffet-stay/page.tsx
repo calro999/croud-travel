@@ -4,20 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '冬の味覚の王様！本場カニ食べ放題＆極上松葉ガニ名門宿×ふるさと納税完全攻略ガイド【2026年最新】夕日ヶ浦・城崎温泉で絶品カニ旅',
   description: '焼きガニ・カニ刺し・茹でガニ・カニすき鍋・カニ雑炊のフルコースから、ズワイガニ食べ放題まで！「夕日ヶ浦温泉 佳松苑」「城崎温泉 西村屋本館」「城崎温泉 心の宿 三國屋」を、京都府京丹後市・兵庫県豊岡市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。冬の日本海の名湯と最高峰ガニ料理を堪能。',
-  keywords: [
-    'ふるさと納税 旅行',
-    'ふるさと納税 ホテル',
-    'カニ食べ放題＆松葉ガニ名宿特集',
-    '楽天ふるさと納税 トラベル',
-    '夕日ヶ浦温泉　時季を彩る　佳松苑',
-    '城崎温泉　西村屋本館',
-    '城崎温泉　心の宿　三國屋',
-    '高級温泉旅館',
-    'オフィシャルホテル',
-    '実質2000円'
-  ],
+  keywords: ["2026年最新", "夕日ヶ浦", "城崎温泉で絶品カニ旅", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-crab-all-you-can-eat-winter-buffet-stay/',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-crab-all-you-can-eat-winter-buffet-stay/",
   },
   openGraph: {
     title: '冬の味覚の王様！本場カニ食べ放題＆極上松葉ガニ名門宿×ふるさと納税完全攻略ガイド【2026年最新】夕日ヶ浦・城崎温泉で絶品カニ旅',

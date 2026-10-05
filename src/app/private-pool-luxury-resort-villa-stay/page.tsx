@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '誰にも邪魔されない極上の水辺！専用プライベートプール付き高級リゾートヴィラ ｜ 日本全国・旅宿クラウド',
   description: '宮古島・南房総・淡路島など客室から直接飛び込める専用プライベートプール完備の最高級ヴィラ。海外リゾートのような開放感と贅沢な休日。',
-  keywords: ["プライベートプール","客室プール","高級ヴィラ","宮古島","淡路島","リゾートホテル"],
+  keywords: ["温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/private-pool-luxury-resort-villa-stay',
+    canonical: "https://croud-travel.pages.dev/private-pool-luxury-resort-villa-stay/",
   },
   openGraph: {
     title: '誰にも邪魔されない極上の水辺！専用プライベートプール付き高級リゾートヴィラ',

@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/saitama-chichibu-nagatoro-line-kudari-stay/" },
   title: "【埼玉・秩父＆長瀞】長瀞ライン下り・三峯神社＆芝桜宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "国の名勝・天然記念物「長瀞の岩畳」と荒川ライン下り、関東屈指の天空パワースポット「三峯神社」の雲海、羊山公園のピンクの絨毯「芝桜の丘」、秩父名物わらじカツ丼や豚みそ丼を徹底解説。美肌温泉旅館や清流リゾートを厳選。",
-  keywords: ["saitama-chichibu-nagatoro-line-kudari-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["埼玉", "秩父", "長瀞", "長瀞ライン下り", "三峯神社", "芝桜宿", "温泉宿"],
 };
 
 function loadSeasonalHotels() {

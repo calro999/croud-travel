@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】迫力の津軽三味線生ライブ！陸奥湾海鮮会席＆青森名湯を味わう風情旅館5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！魂を揺さぶる津軽三味線の毎夜の生演奏ライブ！陸奥湾ホタテ・大間マグロ会席と浅虫温泉・嶽温泉の源泉で青森の情緒に浸る名旅館5選。',
-  keywords: ["津軽三味線","青森温泉","浅虫温泉","陸奥湾ホタテ","大間マグロ","郷土芸能","楽天トラベル"],
+  keywords: ["2026年", "青森名湯を味わう風情旅館5選", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
     title: '【2026年】迫力の津軽三味線生ライブ！陸奥湾海鮮会席＆青森名湯を味わう風情旅館5選',
     description: '2026年最新！魂を揺さぶる津軽三味線の毎夜の生演奏ライブ！陸奥湾ホタテ・大間マグロ会席と浅虫温泉・嶽温泉の源泉で青森の情緒に浸る名旅館5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/traditional-aomori-tsugaru-shamisen-onsen-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/traditional-aomori-tsugaru-shamisen-onsen-stay',
+    canonical: "https://croud-travel.pages.dev/traditional-aomori-tsugaru-shamisen-onsen-stay/",
   },
 };
 

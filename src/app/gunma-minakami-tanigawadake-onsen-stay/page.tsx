@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/gunma-minakami-tanigawadake-onsen-stay/" },
   title: "【群馬・みなかみ＆谷川岳】一ノ倉沢・宝川温泉大露天＆利根川宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "首都圏から近い大自然！魔の山にして世界一のロッククライミング聖地「谷川岳（一ノ倉沢・ロープウェイ）」、世界が認めた巨大露天風呂「宝川温泉」、みなかみ十八湯の源泉かけ流し、利根川源流のアクティビティを徹底解説。渓流露天風呂や高原ロッジを厳選。",
-  keywords: ["gunma-minakami-tanigawadake-onsen-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["群馬", "みなかみ", "谷川岳", "一ノ倉沢", "宝川温泉大露天", "利根川宿", "温泉宿"],
 };
 
 function loadSeasonalHotels() {

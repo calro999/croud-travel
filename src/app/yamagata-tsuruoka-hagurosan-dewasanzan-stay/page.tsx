@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/yamagata-tsuruoka-hagurosan-dewasanzan-stay/" },
   title: "【山形・鶴岡＆羽黒山・出羽三山】国宝羽黒山五重塔・杉並木＆精進料理・庄内浜宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "生まれ変わりの旅・出羽三山（羽黒山・月山・湯殿山）＆鶴岡エリア完全特化！国宝「羽黒山五重塔」、樹齢1000年爺杉と2446段石段杉並木、羽黒修験の伝統「精進料理」、湯野浜温泉、名物「庄内浜海の幸宿」を徹底解説。",
-  keywords: ["yamagata-tsuruoka-hagurosan-dewasanzan-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["山形", "鶴岡", "羽黒山", "出羽三山", "国宝羽黒山五重塔", "杉並木", "精進料理"],
 };
 
 function loadSeasonalHotels() {

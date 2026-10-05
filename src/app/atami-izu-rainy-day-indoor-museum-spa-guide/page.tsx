@@ -5,19 +5,11 @@ import path from "path";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/atami-izu-rainy-day-indoor-museum-spa-guide/" },
   title: "【熱海 雨の日の観光＆温泉】MOA美術館・起雲閣・昭和レトロ喫茶＆インフィニティ露天風呂",
   description:
     "雨でも濡れずに楽しめる熱海観光！絶景パノラマと国宝を誇るMOA美術館、文豪が愛した名邸「起雲閣」、平和通り商店街のアーケード散歩、雨天でも心地よい海一望温泉リゾートまとめ。",
-  keywords: [
-    "熱海 雨の日 観光",
-    "熱海 室内 観光スポット",
-    "MOA美術館 雨",
-    "熱海 起雲閣 雨の日",
-    "熱海 昭和レトロ 喫茶店",
-    "熱海 平和通り アーケード 雨",
-    "熱海温泉 インフィニティ露天風呂",
-    "熱海 雨 デート",
-  ],
+  keywords: ["熱海", "雨の日の観光", "温泉", "MOA美術館", "起雲閣", "昭和レトロ喫茶", "インフィニティ露天風呂"],
 };
 
 interface Hotel {

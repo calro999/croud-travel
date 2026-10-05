@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "冬至前後に伊勢神宮・宇治橋大鳥居の中央から昇る神々しい朝日！1年間の感謝を捧げる年越し・お礼参りと、11月から旬を迎える「的矢かき」「活伊勢海老」「松阪牛」、鳥羽湾を望む絶景名湯露天風呂に癒やされる冬の伊勢志摩ステイ。",
   keywords: '伊勢神宮 冬至 日の出, 宇治橋 朝日, 的矢かき 旅館, 伊勢海老 温泉, 鳥羽温泉 旅館, お礼参り 伊勢志摩, 11月 12月 冬旅行',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-iseshima-ujibashi-sunrise-matoya-oyster-stay',
+    canonical: "https://croud-travel.pages.dev/winter-iseshima-ujibashi-sunrise-matoya-oyster-stay/",
   },
   openGraph: {
     title: "【11・12月伊勢神宮の冬至・年越し参拝】宇治橋の朝日絶景と伊勢志摩の冬の至宝・的矢かき＆伊勢海老宿5選",

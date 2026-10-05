@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/family-baby-welcome-onsen/" },
   title: "【赤ちゃん・子連れ歓迎温泉宿】ウェルカムベビー認定・部屋食＆貸切風呂 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "ミキハウス子育て総研「ウェルカムベビーのお宿」認定ホテル＆旅館完全特化！調乳ポット・おむつ用ゴミ箱完備、赤ちゃん温泉デビュー、周りを気にせず安心の部屋食・個室食、家族専用貸切風呂付き温泉宿を徹底解説。",
-  keywords: ["family-baby-welcome-onsen", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["赤ちゃん", "子連れ歓迎温泉宿", "ウェルカムベビー認定", "部屋食", "貸切風呂", "温泉宿", "宿泊予約"],
 };
 
 function loadSeasonalHotels() {

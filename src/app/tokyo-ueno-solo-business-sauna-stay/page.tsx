@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/tokyo-ueno-solo-business-sauna-stay/" },
   title: '【上野出張・極上サウナステイ】新幹線直結・徒士の湯・アメ横グルメ！下町情緒と北の玄関口を極める厳選3宿',
   description: '東北・上越・北陸新幹線のターミナル上野駅！最上階露天風呂と本格サウナ・名物夜鳴きそばが揃う「ドーミーイン上野・御徒町」、アメ横至近で天照ラジウム温泉スパを備える「センチュリオンホテル＆スパ上野駅前」、24時間快適スパ＆ラウンジの「グランカスタマ上野店」を徹底比較。',
   keywords: '上野 出張 ホテル,上野 サウナ ホテル,ドーミーイン上野御徒町,センチュリオンホテル上野駅前,グランカスタマ上野,上野 一人旅 温泉',

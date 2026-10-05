@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '【2026年】採れたて天然ハチミツ食べ比べ！ハニーエステ＆濃厚巣蜜スイーツが自慢の癒やし宿5選 ｜ 日本全国・旅宿クラウド',
   description: '2026年最新！数種類の国産天然はちみつビュッフェや濃厚な巣蜜トースト、保湿効果抜群のハニー全身スパトリートメントが評判の温泉宿5選。',
-  keywords: ["はちみつ","ハニースパ","巣蜜","エステサロン","ご褒美女子旅","楽天トラベル"],
+  keywords: ["2026年", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/organic-honey-bee-farm-sweet-spa-stay',
+    canonical: "https://croud-travel.pages.dev/organic-honey-bee-farm-sweet-spa-stay/",
   },
   openGraph: {
     title: '【2026年】採れたて天然ハチミツ食べ比べ！ハニーエステ＆濃厚巣蜜スイーツが自慢の癒やし宿5選',

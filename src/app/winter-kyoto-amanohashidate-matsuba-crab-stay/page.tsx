@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "日本三景の筆頭・京都府丹後天橋立。11月6日の冬のズワイガニ漁解禁とともに美食の最高峰シーズンが開幕。松並木にうっすらと初雪が降り積もる「白砂青松の幻雪景」、地下1,500mから湧き出る茶褐色の美肌湯「天橋立温泉」、そして幻の極上「間人ガニ（たいざがに）」や丹後若狭湾の寒ブリしゃぶしゃぶを味わう至高の冬名宿ガイド。",
   keywords: '天橋立 宿泊 11月 12月, 天橋立 カニ 解禁, 間人ガニ 旅館 天橋立, 松葉ガニ カニ刺し 天橋立, 天橋立温泉 文珠荘 北野屋, 天橋立 冬 雪景色 飛龍観, 寒ブリしゃぶしゃぶ 丹後',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-kyoto-amanohashidate-matsuba-crab-stay',
+    canonical: "https://croud-travel.pages.dev/winter-kyoto-amanohashidate-matsuba-crab-stay/",
   },
   openGraph: {
     title: "【11・12月天橋立の白砂青松雪景色とカニ漁解禁】日本三景を望む冬の美肌湯・幻の間人ガニ＆寒ブリしゃぶしゃぶの宿5選",

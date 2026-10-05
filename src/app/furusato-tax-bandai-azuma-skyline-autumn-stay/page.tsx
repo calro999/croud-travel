@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '日本の道100選「磐梯吾妻スカイライン」錦秋パノラマと東北屈指の白濁名湯・高湯温泉ステイ | クラウドトラベルふるさと納税',
   description: '10月上旬〜10月下旬に見頃を迎える磐梯吾妻スカイライン・浄土平の紅葉ドライブ。日本温泉協会オール5評価の源泉かけ流し乳白色硫黄泉「高湯温泉」と、福島牛・地場産旬野菜をふるさと納税でお得に堪能。',
-  keywords: ['福島・磐梯吾妻スカイライン・高湯温泉 紅葉 観光', '福島県 10月 11月 旅行', '磐梯吾妻スカイライン紅葉＆高湯温泉福島牛', 'ふるさと納税 温泉宿泊券', '高湯温泉 花月ハイランドホテル', '高湯温泉 旅館 玉子湯', '高湯温泉 安達屋', '楽天ふるさと納税 宿泊クーポン'],
+  keywords: ["高湯温泉ステイ", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-bandai-azuma-skyline-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-bandai-azuma-skyline-autumn-stay/",
   },
   openGraph: {
     title: '日本の道100選「磐梯吾妻スカイライン」錦秋パノラマと東北屈指の白濁名湯・高湯温泉ステイ',

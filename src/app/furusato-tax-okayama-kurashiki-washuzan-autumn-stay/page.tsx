@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '岡山・倉敷美観地区の白壁紅葉＆鷲羽山！瀬戸内海多島美温泉と極上千屋牛・鰆会席 | クラウドトラベルふるさと納税',
   description: '10月・11月の岡山・倉敷＆鷲羽山特集！倉敷川沿いの柳並木と白壁の蔵屋敷を彩る秋の紅葉、鷲羽山展望台から望む夕陽に染まる瀬戸大橋と多島美、倉敷由加温泉の天然ラジウム泉、日本最古の蔓牛「千屋牛」や戻り鰆をふるさと納税トラベルで楽しむ歴史旅。',
-  keywords: ["倉敷美観地区・鷲羽山・瀬戸大橋 紅葉 観光","岡山県 10月 11月 旅行","倉敷美観地区白壁紅葉＆鷲羽山サンセット温泉旅","ふるさと納税 温泉宿泊券","倉敷由加温泉ホテル　山桃花","たびのホテル倉敷水島","倉敷シーサイドホテル","楽天ふるさと納税 宿泊クーポン"],
+  keywords: ["岡山", "倉敷美観地区の白壁紅葉", "鰆会席", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-okayama-kurashiki-washuzan-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-okayama-kurashiki-washuzan-autumn-stay/",
   },
   openGraph: {
     title: '岡山・倉敷美観地区の白壁紅葉＆鷲羽山！瀬戸内海多島美温泉と極上千屋牛・鰆会席',

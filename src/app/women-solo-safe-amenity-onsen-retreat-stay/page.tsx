@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/women-solo-safe-amenity-onsen-retreat-stay/" },
   title: "【女性一人旅・安心ステイ＆ご褒美温泉宿】女性専用フロア＆Refa・美肌湯 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "気兼ねなく自分を癒やす極上ひとり旅！女性一人旅歓迎の安心温泉宿＆ホテル完全特化！女性専用フロア・カードキーセキュリティ、Refa（リファ）ドライヤー＆高級アメニティ完備、お部屋食・個室食事処、美肌の湯を徹底解説。",
-  keywords: ["women-solo-safe-amenity-onsen-retreat-stay", "女性一人旅", "ソロ活", "ご褒美ステイ", "温泉宿", "楽天トラベル"],
+  keywords: ["女性一人旅", "安心ステイ", "ご褒美温泉宿", "女性専用フロア", "Refa", "美肌湯", "温泉宿"],
 };
 
 function loadSeasonalHotels() {

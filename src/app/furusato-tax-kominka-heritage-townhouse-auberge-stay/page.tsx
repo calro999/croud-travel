@@ -4,6 +4,7 @@ import Link from 'next/link';
 import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-kominka-heritage-townhouse-auberge-stay/" },
   title: '【古民家再生・町家オーベルジュ×ふるさと納税】築100年の土蔵・重伝建商家に泊まる文化財ステイ完全ガイド | クラウドトラベル',
   description: '町全体がホテル！兵庫・丹波篠山、長野・木曽路奈良井宿、岐阜・飛騨高山の国選定重要伝統的建造物群保存地区に泊まる。築100年の商家・土蔵をリノベーションした分散型古民家ホテルをふるさと納税で賢く予約。',
   openGraph: {

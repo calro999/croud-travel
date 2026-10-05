@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "11月から12月にかけて、伊豆半島東海岸の岬に広がる稲取温泉は、冬の味覚の最高峰「稲取一本釣り地金目鯛（きんめだい）」が年間で最も上質な脂を蓄える最高の旬を迎えます。黒潮の恩恵を受ける伊豆稲取は、初冬でも穏やかで温暖な気候に恵まれ、寒さを逃れて贅沢な美食と温泉を楽しみたい避寒旅行に最適。目の前に広がる相模灘の水平線から昇る神々しい朝日、伊豆大島を望むパノラマ絶景露天風呂、そして秘伝のタレでふっくら炊き上げた名物「金目鯛の姿煮」に舌鼓を打つ、厳選のおすすめ温泉旅館5選を旅行専門ライターが徹底ガイドします。",
   keywords: '稲取温泉 宿泊, 伊豆 温泉 11月 12月, 稲取銀水荘, 食べるお宿 浜の湯, 稲取東海ホテル湯苑, いなとり荘, 石花海, 稲取金目鯛 姿煮, 相模灘 絶景露天, 伊豆 避寒旅行',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-shizuoka-inatori-onsen-kinmedai-oceanview-stay'
+    canonical: "https://croud-travel.pages.dev/winter-shizuoka-inatori-onsen-kinmedai-oceanview-stay/"
   },
   openGraph: {
     title: "【11・12月静岡・伊豆稲取温泉の極上地金目鯛会席と相模灘絶景】オーシャンビュー展望露天風呂＆伊豆温暖避寒の宿5選",

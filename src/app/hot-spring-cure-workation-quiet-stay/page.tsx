@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/hot-spring-cure-workation-quiet-stay/" },
   title: "【静寂の長期滞在＆温泉ワーケーション宿】高速Wi-Fi・書斎デスク＆美肌湯 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "働きながら心身をととのえる現代のリトリートステイ完全特化！高速Wi-Fi完備、集中できる書斎デスク、24時間温泉入浴、疲労回復サウナ、キッチン付きコンドミニアム・長期連泊優待プランを徹底解説。",
-  keywords: ["hot-spring-cure-workation-quiet-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["静寂の長期滞在", "温泉ワーケーション宿", "高速Wi-Fi", "書斎デスク", "美肌湯", "温泉宿", "宿泊予約"],
 };
 
 function loadSeasonalHotels() {

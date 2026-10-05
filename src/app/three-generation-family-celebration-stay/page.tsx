@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/three-generation-family-celebration-stay/" },
   title: "【三世代旅行＆還暦・長寿祝い温泉宿】バリアフリー・個室宴会＆二間続き客室 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "祖父母・両親・孫の三世代旅行＆還暦・古希・喜寿・米寿のお祝い温泉宿完全特化！車椅子対応バリアフリー客室、大人数で泊まれる二間続き・コネクティングルーム、祝い膳＆赤いちゃんちゃんこ貸出、個室宴会場付き名門旅館を徹底解説。",
-  keywords: ["three-generation-family-celebration-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["三世代旅行", "還暦", "長寿祝い温泉宿", "バリアフリー", "個室宴会", "二間続き客室", "温泉宿"],
 };
 
 function loadSeasonalHotels() {

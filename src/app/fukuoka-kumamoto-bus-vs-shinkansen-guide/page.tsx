@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/fukuoka-kumamoto-bus-vs-shinkansen-guide/" },
   title: "【博多から熊本 新幹線と高速バスどっち？】ひのくに号 vs 九州新幹線比較＆熊本城・あか牛1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
   description: "福岡・博多・天神から熊本へ行くなら九州新幹線と高速バス「ひのくに号」どっちがお得？料金（バスなら半額の約2,500円）・時間・本数比較。桜町・熊本城前直着の利便性と復興天守閣見学・あか牛丼を満喫する1泊2日モデルコース。",
-  keywords: ["fukuoka-kumamoto-bus-vs-shinkansen-guide", "高速バス", "バスツアー", "新幹線 比較", "安く行く方法", "1泊2日 モデルコース", "宿泊予約", "楽天トラベル"],
+  keywords: ["博多から熊本", "新幹線と高速バスどっち？", "ひのくに号", "vs", "九州新幹線比較", "熊本城", "あか牛1泊2日モデルコース"],
 };
 
 function loadHotels() {

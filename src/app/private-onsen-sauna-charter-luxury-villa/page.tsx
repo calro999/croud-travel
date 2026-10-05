@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '完全プライベートな一棟貸切！天然温泉掛け流し＆客室専用サウナ付き極上ヴィラ ｜ 日本全国・旅宿クラウド',
   description: '白馬・那須・淡路島・宮古島など誰にも邪魔されない完全プライベートな一棟貸し高級ヴィラ。専用の源泉掛け流し風呂と本格プライベートサウナ完備。',
-  keywords: ["一棟貸し","プライベートヴィラ","客室サウナ","源泉掛け流し","貸切別荘","ラグジュアリーステイ"],
+  keywords: ["客室専用サウナ付き極上ヴィラ", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/private-onsen-sauna-charter-luxury-villa',
+    canonical: "https://croud-travel.pages.dev/private-onsen-sauna-charter-luxury-villa/",
   },
   openGraph: {
     title: '完全プライベートな一棟貸切！天然温泉掛け流し＆客室専用サウナ付き極上ヴィラ',

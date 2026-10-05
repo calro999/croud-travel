@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '日本三景・松島＆塩竈の秋！松島湾の紅葉ライトアップ・解禁松島牡蠣＆極上三陸海鮮 | クラウドトラベルふるさと納税',
   description: '10月・11月の宮城・松島＆塩竈特集！日本三景・松島湾の260余りの島々を染める秋景趣、円通院の幻想的な紅葉ライトアップ、10月解禁のぷりぷり松島牡蠣や三陸戻り鰹・塩竈生マグロをふるさと納税トラベルで味わう宮城の極上秋旅。',
-  keywords: ["松島・円通院紅葉・塩竈 観光","宮城県 10月 11月 旅行","日本三景松島紅葉＆解禁松島牡蠣グルメ旅","ふるさと納税 温泉宿泊券","ホテル松島大観荘","松島温泉　松島センチュリーホテル","松島温泉　ホテル絶景の館","楽天ふるさと納税 宿泊クーポン"],
+  keywords: ["日本三景", "松島", "解禁松島牡蠣", "極上三陸海鮮", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-miyagi-matsushima-shiogama-kaki-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-miyagi-matsushima-shiogama-kaki-autumn-stay/",
   },
   openGraph: {
     title: '日本三景・松島＆塩竈の秋！松島湾の紅葉ライトアップ・解禁松島牡蠣＆極上三陸海鮮',

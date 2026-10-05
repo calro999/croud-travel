@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/shizuoka-izu-kogen-jogasaki-coast-villa-stay/" },
   title: "【静岡・伊豆高原＆城ヶ崎】城ヶ崎門脇吊橋・大室山＆露天風呂ヴィラ宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "約4000年前の溶岩が創り出した城ヶ崎海岸の断崖絶壁と門脇吊橋、緑のすり鉢状火山・大室山、お洒落な別荘地・伊豆高原の隠れ家リゾートを巡る特化ガイド。客室露天風呂ヴィラや金目鯛美食宿を厳選。",
-  keywords: ["shizuoka-izu-kogen-jogasaki-coast-villa-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["静岡", "伊豆高原", "城ヶ崎", "城ヶ崎門脇吊橋", "大室山", "露天風呂ヴィラ宿", "温泉宿"],
 };
 
 function loadSeasonalHotels() {

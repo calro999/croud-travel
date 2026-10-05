@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】千年の技と灯りに癒やされる。手漉き和紙空間＆伝統工芸体験ができる風情宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！越前・美濃・土佐の伝統手漉き和紙あかりに包まれる和モダン客室！紙漉き体験や工芸ギャラリー、名湯で日本の美意識に浸る名旅館5選。',
-  keywords: ["和紙の宿","伝統工芸体験","手漉き和紙","和モダン旅館","行灯あかり","風情ある名湯","楽天トラベル"],
+  keywords: ["2026年", "伝統工芸体験ができる風情宿5選", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
     title: '【2026年】千年の技と灯りに癒やされる。手漉き和紙空間＆伝統工芸体験ができる風情宿5選',
     description: '2026年最新！越前・美濃・土佐の伝統手漉き和紙あかりに包まれる和モダン客室！紙漉き体験や工芸ギャラリー、名湯で日本の美意識に浸る名旅館5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/traditional-washi-paper-craft-onsen-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/traditional-washi-paper-craft-onsen-stay',
+    canonical: "https://croud-travel.pages.dev/traditional-washi-paper-craft-onsen-stay/",
   },
 };
 

@@ -4,17 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/okinawa-packing-mistakes-sunburn-rentalcar-guide/" },
   title: "【沖縄旅行で後悔したことワースト5】本州の3倍の紫外線で大火傷！？レンタカー返却渋滞＆必須持ち物 ｜ 日本全国・旅宿クラウド",
   description: "沖縄旅行でありがちな失敗と後悔を完全回避！日焼け止めを塗っても火傷するシュノーケリング対策（ラッシュガード必須）、那覇空港周辺のレンタカー返却大渋滞で飛行機乗り遅れ危機、雨雲レーダー活用術。",
-  keywords: [
-    "沖縄旅行 失敗",
-    "沖縄旅行 後悔",
-    "沖縄 紫外線 日焼け止め 火傷",
-    "沖縄 レンタカー 渋滞 乗り遅れ",
-    "沖縄 スコール 雨雲レーダー",
-    "沖縄 持ち物 リスト",
-    "沖縄 ホテル 楽天トラベル",
-  ],
+  keywords: ["必須持ち物", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
 };
 
 interface Hotel {

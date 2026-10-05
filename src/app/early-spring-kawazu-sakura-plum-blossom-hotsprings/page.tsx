@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '一足早い春の訪れ！早咲き河津桜＆梅まつりを愛でる花見露天風呂温泉旅館 ｜ 日本全国・旅宿クラウド',
   description: '伊豆河津・南伊豆・熱海など2月から濃いピンク色の花を咲かせる早咲きの河津桜や名木が揃う梅まつり。春の息吹を感じながら浸かる絶景露天風呂。',
-  keywords: ["河津桜","早咲き桜","梅まつり","伊豆河津","熱海温泉","春先取り温泉"],
+  keywords: ["一足早い春の訪れ！早咲き河津桜", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/early-spring-kawazu-sakura-plum-blossom-hotsprings',
+    canonical: "https://croud-travel.pages.dev/early-spring-kawazu-sakura-plum-blossom-hotsprings/",
   },
   openGraph: {
     title: '一足早い春の訪れ！早咲き河津桜＆梅まつりを愛でる花見露天風呂温泉旅館',

@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/yamagata-kaminoyama-solo-retreat-onsen-stay/" },
   title: '【かみのやま温泉ひとり旅・蔵王連峰パノラマおこもり】城下町足湯・山形牛会席・ワイン王国！奥羽三楽郷の名湯に癒やされる厳選3宿',
   description: '山形新幹線かみのやま温泉駅直通！プロが選ぶ日本のホテル旅館100選上位常連の最高峰「日本の宿 古窯」、全館で源泉と美食を味わえる上質宿「葉山舘」、昔ながらの温もりと良質な源泉が愛される「はたや旅館」を楽天API最新データに基づき徹底比較。',
   keywords: 'かみのやま温泉 一人旅 宿,かみのやま ホテル 一人 温泉,日本の宿 古窯,葉山舘,はたや旅館,かみのやま 上山城 ひとり旅',

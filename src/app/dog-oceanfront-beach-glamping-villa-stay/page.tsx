@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/dog-oceanfront-beach-glamping-villa-stay/" },
   title: "【海直結・愛犬とビーチフロントグランピング＆ヴィラ】砂浜ラン＆BBQ 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "目の前がすぐ海！愛犬と海遊び＆ビーチフロントステイ完全特化！千葉館山・白浜、淡路島、伊豆下田、沖縄、砂浜直結のプライベートヴィラ＆ドームテントグランピング、夕陽BBQ宿を徹底解説。",
-  keywords: ["dog-oceanfront-beach-glamping-villa-stay", "ペットと泊まれる宿", "愛犬同伴", "ドッグリゾート", "プライベートドッグラン", "楽天トラベル"],
+  keywords: ["海直結", "ヴィラ", "砂浜ラン", "BBQ", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
 
 function loadSeasonalHotels() {

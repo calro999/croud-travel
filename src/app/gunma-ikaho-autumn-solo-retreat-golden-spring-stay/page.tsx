@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/gunma-ikaho-autumn-solo-retreat-golden-spring-stay/" },
   title: '【10月・11月秋の伊香保温泉ひとり旅・湯元河鹿橋の紅葉ライトアップと黄金の湯おこもり】365段石段街・茶褐色の名湯・上州牛会席！大正ロマン厳選3宿',
   description: '10月下旬〜11月中旬は河鹿橋の紅葉が真っ赤に燃え上がる群馬・伊香保温泉！フレンチ仕込みの料理とモダンな洋風旅館で一人旅の満足度抜群の「洋風旅館ぴのん」、伊香保のシンボル石段街に近く創業四百余年の歴史を誇る「森秋旅館」、家庭的なもてなしと源泉かけ流しの「石坂旅館」を楽天API最新データに基づき徹底比較。',
   keywords: '伊香保温泉 一人旅 宿,伊香保 10月 11月 紅葉 温泉,洋風旅館ぴのん 一人旅,森秋旅館,石坂旅館,伊香保 河鹿橋 一人旅 おこもり',

@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "11月から12月にかけて山形県上山市の奥座敷「かみのやま温泉」は、初冠雪を戴く蔵王連峰の雄大な稜線を背景に、古い武家屋敷や民家の軒先に鮮やかなオレンジ色の干し柿（つるし柿・紅柿）の暖簾が幾重にも吊るされる日本の原風景に包まれます。室町時代長禄2年（1558年）に月秀上人が傷を癒やす鶴を見つけて開湯したと伝わる「鶴の湯」は、ナトリウム・カルシウム-塩化物・硫酸塩泉で日本三大美肌の湯として名高い名泉。プロが選ぶ名旅館「日本の宿 古窯」や隠れ家旅館「名月荘」をはじめ、とろける脂が絶品の山形牛や米沢牛のすき焼き・ステーキ、山形名物芋煮を堪能する極上宿5選を徹底解説。",
   keywords: 'かみのやま温泉 宿泊, かみのやま温泉 11月 12月, 名月荘 かみのやま, 日本の宿 古窯, 葉山舘, 月岡ホテル, 月の池, 山形牛 すき焼き 宿, 紅柿 干し柿 山形, 蔵王 雪見露天風呂',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-yamagata-kaminoyama-onsen-hoshigaki-yamagata-beef-stay'
+    canonical: "https://croud-travel.pages.dev/winter-yamagata-kaminoyama-onsen-hoshigaki-yamagata-beef-stay/"
   },
   openGraph: {
     title: "【11・12月山形・かみのやま温泉の初冬風情と開湯五百六十年美肌泉】干し柿暖簾・特選山形牛すき焼き＆蔵王雪見露天の宿5選",

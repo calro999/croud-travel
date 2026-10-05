@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/osaka-tokushima-naruto-bus-vs-car-guide/" },
   title: "【大阪・神戸〜徳島・鳴門】高速バスが圧倒的に便利！料金・時間比較＆大塚国際美術館・鳴門の渦潮1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
   description: "大阪・神戸から徳島・鳴門へ行くなら高速バスが最強！電車やマイカーとの料金・時間比較、明石海峡大橋・大鳴門橋を渡る絶景バスルート、大塚国際美術館直行便と鳴門鯛・阿波尾鶏を味わう1泊2日モデルコース。",
-  keywords: ["osaka-tokushima-naruto-bus-vs-car-guide", "高速バス", "バスツアー", "新幹線 比較", "安く行く方法", "1泊2日 モデルコース", "宿泊予約", "楽天トラベル"],
+  keywords: ["大阪", "神戸〜徳島", "鳴門", "高速バスが圧倒的に便利！料金", "時間比較", "大塚国際美術館", "鳴門の渦潮1泊2日モデルコース"],
 };
 
 function loadHotels() {

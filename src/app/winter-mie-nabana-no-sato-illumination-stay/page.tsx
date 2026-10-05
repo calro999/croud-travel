@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "日本最大級のスケールを誇る「なばなの里イルミネーション」！長さ200メートルの光のトンネルや水上イルミネーションを鑑賞し、開湯1300年の名湯・湯の山温泉の美肌湯や伊勢湾の海の幸に寛ぐ極上旅。",
   keywords: "湯の山温泉 露天風呂 旅館, 11月旅行, 12月旅行, 冬休み, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/winter-mie-nabana-no-sato-illumination-stay',
+    canonical: "https://croud-travel.pages.dev/winter-mie-nabana-no-sato-illumination-stay/",
   },
   openGraph: {
     title: "【11・12月！なばなの里イルミネーション】光のトンネルと湯の山温泉・長島リゾート宿5選",

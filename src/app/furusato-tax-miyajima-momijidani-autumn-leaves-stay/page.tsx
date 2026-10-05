@@ -4,20 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '宮島・紅葉谷公園の深紅のモミジ＆嚴島神社大鳥居！宮島温泉名旅館×ふるさと納税完全ガイド【2026年最新秋旅】広島',
   description: '11月中旬〜下旬に約700本のもみじが燃え盛る日本三景・宮島の「紅葉谷公園」。世界遺産・嚴島神社の海に浮かぶ大鳥居と秋の夕景、島内に佇む「宮島温泉 滝乃荘」「宮島ホテルまこと」「宮島 ホテル菊乃家」で広島名物の焼き牡蠣や穴子飯・広島牛を堪能。ふるさと納税トラベルクーポンで実質2,000円。',
-  keywords: [
-    "ふるさと納税 温泉",
-    "ふるさと納税 宿泊券",
-    "ふるさと納税 トラベルクーポン",
-    "広島・宮島紅葉谷公園＆厳島神社紅葉特集",
-    "10月 旅行 おすすめ",
-    "11月 旅行 おすすめ",
-    "秋 旅行 温泉",
-    "宮島 紅葉谷公園 厳島神社 温泉旅館 牡蠣",
-    "楽天トラベル ふるさと納税",
-    "実質2000円 温泉"
-],
+  keywords: ["宮島", "紅葉谷公園の深紅のモミジ", "2026年最新秋旅", "広島", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-miyajima-momijidani-autumn-leaves-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-miyajima-momijidani-autumn-leaves-stay/"
   },
   openGraph: {
     title: '宮島・紅葉谷公園の深紅のモミジ＆嚴島神社大鳥居！宮島温泉名旅館×ふるさと納税完全ガイド【2026年最新秋旅】広島',

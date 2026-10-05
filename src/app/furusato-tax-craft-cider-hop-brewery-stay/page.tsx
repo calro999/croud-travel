@@ -4,16 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: 'クラフトシードル＆ご当地ホップ醸造宿×ふるさと納税完全ガイド【2026年最新】弘前・遠野・南信州飯田の果実酒ステイ',
   description: 'フレッシュな果実酒とビールの世界！青森弘前りんご王国のクラフトシードル工房、岩手遠野の日本一のホップ畑とクラフトビールビレッジ、長野飯田のリンゴ並木シードル＆天竜川温泉。醸造家こだわりの美酒と郷土フレンチを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
-  keywords: [
-    '楽天ふるさと納税',
-    'ふるさと納税 宿泊クーポン',
-    '楽天トラベル ふるさと納税',
-    '高級温泉旅館',
-    '露天風呂付き客室',
-    '2026年旅行'
-  ],
+  keywords: ["クラフトシードル", "2026年最新", "弘前", "遠野", "南信州飯田の果実酒ステイ", "温泉宿", "宿泊予約"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-craft-cider-hop-brewery-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-craft-cider-hop-brewery-stay/"
   },
   openGraph: {
     title: 'クラフトシードル＆ご当地ホップ醸造宿×ふるさと納税完全ガイド【2026年最新】弘前・遠野・南信州飯田の果実酒ステイ',

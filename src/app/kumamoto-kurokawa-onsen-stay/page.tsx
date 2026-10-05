@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/kumamoto-kurokawa-onsen-stay/" },
   title: "【熊本・黒川温泉】入湯手形＆渓流露天風呂めぐり極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "阿蘇・黒川温泉エリア完全特化！入湯手形での28露天風呂めぐり、川端通りの食べ歩き、囲炉裏料理と渓流沿いの隠れ家木造旅館を徹底解説。",
-  keywords: ["kumamoto-kurokawa-onsen-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["熊本", "黒川温泉", "入湯手形", "渓流露天風呂めぐり極上宿", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
 
 function loadSeasonalHotels() {

@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '岩手・花巻温泉郷＆盛岡つなぎ温泉！奥羽山脈の紅葉渓谷と前沢牛・いわて牛 | クラウドトラベルふるさと納税',
   description: '10月・11月の岩手・花巻温泉郷＆盛岡つなぎ温泉を特集。宮沢賢治ゆかりのイーハトーブの山々が黄金色に染まる紅葉絶景、12の個性豊かな名湯、前沢牛や白金豚を堪能できる厳選3宿と楽天ふるさと納税の活用術をご紹介。',
-  keywords: ["花巻温泉 ふるさと納税","岩手 紅葉 温泉宿","前沢牛 宿泊","宮沢賢治 花巻","奥羽山脈 露天風呂"],
+  keywords: ["岩手", "花巻温泉郷", "いわて牛", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-iwate-hanamaki-tsunagi-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-iwate-hanamaki-tsunagi-autumn-stay/",
   },
   openGraph: {
     title: '【岩手・花巻温泉郷＆盛岡】錦秋の奥羽山脈＆名湯12湯！前沢牛・白金豚と渓谷露天風呂を巡る秋旅',

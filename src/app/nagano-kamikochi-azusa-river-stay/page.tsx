@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/nagano-kamikochi-azusa-river-stay/" },
   title: "【長野・上高地＆大正池】河童橋・穂高連峰＆梓川クラシック宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "神降地・上高地エリア完全特化！河童橋、大正池の立ち枯れの木、明神池、エメラルドグリーンの梓川と穂高連峰パノラマ、上高地帝国ホテルなど歴史ある名門リゾートを徹底解説。",
-  keywords: ["nagano-kamikochi-azusa-river-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["長野", "上高地", "大正池", "河童橋", "穂高連峰", "梓川クラシック宿", "温泉宿"],
 };
 
 function loadSeasonalHotels() {

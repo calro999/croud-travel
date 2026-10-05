@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/nagasaki-hirado-sasebo-kujukushima-stay/" },
   title: "【長崎・平戸＆佐世保・九十九島】世界遺産キリシタン史跡・平戸城＆九十九島遊覧・ヒラメ宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "異国情緒と多島美の楽園・長崎平戸＆佐世保九十九島エリア完全特化！平戸城（宿泊体験キャッスルステイ）、世界遺産春日集落・生月島サンセットウェイ、九十九島パールシーリゾート、名物「天然ヒラメ・佐世保バーガー宿」を徹底解説。",
-  keywords: ["nagasaki-hirado-sasebo-kujukushima-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["長崎", "平戸", "佐世保", "九十九島", "世界遺産キリシタン史跡", "平戸城", "九十九島遊覧"],
 };
 
 function loadSeasonalHotels() {

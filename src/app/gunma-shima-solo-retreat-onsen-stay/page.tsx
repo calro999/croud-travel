@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/gunma-shima-solo-retreat-onsen-stay/" },
   title: '【四万温泉ひとり旅・四万ブルーおこもり】四万川清流露天・四万の病を癒す霊泉・上州牛会席！大自然に抱かれる奥群馬の秘湯厳選3宿',
   description: '「四万の病を癒す」伝説の名湯・四万温泉！自家源泉の掛け流しと季節の会席が心温まる「あやめや旅館」、プライベートな貸切風呂と洗練のモダン空間が評判の「叶 KANOUYA」、清流沿いで上州牛や手打ちそばを堪能できる「料理旅館くれない」を楽天API最新データに基づき徹底比較。',
   keywords: '四万温泉 一人旅 宿,四万温泉 ホテル 一人,あやめや旅館,叶KANOUYA,料理旅館くれない,四万ブルー ひとり旅 おこもり',

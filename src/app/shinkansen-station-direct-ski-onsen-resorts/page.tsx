@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '雪道運転の心配なし！新幹線駅から直結・徒歩圏内のスキー＆天然温泉スノーリゾート ｜ 日本全国・旅宿クラウド',
   description: '越後湯沢や軽井沢など東京から新幹線1本、駅から直結や徒歩圏内でアクセス抜群のスキー＆温泉ホテル。ノーマルタイヤや運転不要で冬の白銀世界を満喫。',
-  keywords: ["新幹線アクセス","越後湯沢","スキー","スノーボード","駅直結","雪見温泉"],
+  keywords: ["徒歩圏内のスキー", "天然温泉スノーリゾート", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/shinkansen-station-direct-ski-onsen-resorts',
+    canonical: "https://croud-travel.pages.dev/shinkansen-station-direct-ski-onsen-resorts/",
   },
   openGraph: {
     title: '雪道運転の心配なし！新幹線駅から直結・徒歩圏内のスキー＆天然温泉スノーリゾート',

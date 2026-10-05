@@ -4,20 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '南信州・天竜峡の紅葉ライン舟下り＆りんご狩り！昼神温泉美肌の湯×ふるさと納税完全ガイド【2026年最新秋旅】長野',
   description: '10月下旬〜11月中旬に天竜川の奇岩大峡谷が深紅と黄金に染まる名勝「南信州・天竜峡」。舟頭の櫂さばきで見上げる天竜ライン舟下りや旬の信州りんご狩り、日本一の星空とpH9.7の強アルカリ美肌温泉「昼神温泉 鶴巻荘」「ユルイの宿 恵山」「癒楽の宿 清風苑」で信州牛ステーキや炉端会席を堪能。ふるさと納税で実質2,000円。',
-  keywords: [
-    "ふるさと納税 温泉",
-    "ふるさと納税 宿泊券",
-    "ふるさと納税 トラベルクーポン",
-    "長野・天竜峡舟下り＆昼神温泉紅葉特集",
-    "10月 旅行 おすすめ",
-    "11月 旅行 おすすめ",
-    "秋 旅行 温泉",
-    "天竜峡 紅葉 舟下り 昼神温泉 美肌の湯 旅館",
-    "楽天トラベル ふるさと納税",
-    "実質2000円 温泉"
-],
+  keywords: ["南信州", "天竜峡の紅葉ライン舟下り", "2026年最新秋旅", "長野", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-tenryukyo-hirugami-autumn-leaves-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-tenryukyo-hirugami-autumn-leaves-stay/"
   },
   openGraph: {
     title: '南信州・天竜峡の紅葉ライン舟下り＆りんご狩り！昼神温泉美肌の湯×ふるさと納税完全ガイド【2026年最新秋旅】長野',

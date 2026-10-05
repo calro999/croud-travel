@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/usj-partner-official-hotel-osaka-stay/" },
   title: "【ユニバーサル・スタジオ・ジャパン（USJ）公認ホテル】オフィシャルホテル＆駅直結宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "パークまで徒歩数分の感動体験！ユニバーサル・スタジオ・ジャパン（USJ）オフィシャルホテル完全特化！ユニバーサルシティ駅直結、ミニオンやセサミストリートのキャラクタールーム、パークチケット確約、展望天然温泉スパ宿を徹底解説。",
-  keywords: ["usj-partner-official-hotel-osaka-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["ユニバーサル", "スタジオ", "ジャパン（USJ）公認ホテル", "オフィシャルホテル", "駅直結宿", "温泉宿", "宿泊予約"],
 };
 
 function loadSeasonalHotels() {

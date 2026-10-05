@@ -4,20 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '長瀞ラインくだりの岩畳紅葉＆月の石もみじ公園ライトアップ！秩父温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】埼玉',
   description: '11月上旬〜下旬に荒川沿いの国指定名勝が黄金色と深紅に染まる「埼玉・長瀞岩畳」。舟から見上げる岩畳紅葉ラインくだりや月の石もみじ公園の幻想的なライトアップ、秩父の山懐に抱かれた「花のおもてなし 長生館」「teihaku秩父長瀞 古民家邸」「丸山鉱泉旅館」で秩父名物豚みそ漬けや手打ちそば・ぼたん鍋を堪能。ふるさと納税で実質2,000円。',
-  keywords: [
-    "ふるさと納税 温泉",
-    "ふるさと納税 宿泊券",
-    "ふるさと納税 トラベルクーポン",
-    "埼玉・長瀞ラインくだり岩畳紅葉＆月の石もみじ公園特集",
-    "10月 旅行 おすすめ",
-    "11月 旅行 おすすめ",
-    "秋 旅行 温泉",
-    "長瀞 岩畳 紅葉 舟下り 秩父 旅館",
-    "楽天トラベル ふるさと納税",
-    "実質2000円 温泉"
-],
+  keywords: ["長瀞ラインくだりの岩畳紅葉", "2026年最新秋旅", "埼玉", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-nagatoro-iwadatami-autumn-leaves-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-nagatoro-iwadatami-autumn-leaves-stay/"
   },
   openGraph: {
     title: '長瀞ラインくだりの岩畳紅葉＆月の石もみじ公園ライトアップ！秩父温泉宿×ふるさと納税完全ガイド【2026年最新秋旅】埼玉',

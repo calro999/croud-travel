@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   description: "冬の大阪は、全長4kmに及ぶ世界最大級の御堂筋イルミネーションや中之島「OSAKA光のルネサンス」が街を眩く彩り、新春には全国2300社の総本社・住吉大社が初詣の活気に包まれる華やかな季節。大阪人がこよなく愛する冬の味覚の王様「本場てっちり（とらふぐ鍋）」や黒毛和牛、なにわ割烹を堪能。地上200mの絶景パノラマや都心の天然温泉に癒やされる厳選宿5選をご案内します。",
   keywords: '大阪 ホテル, 御堂筋 イルミネーション, 住吉大社 初詣, スイスホテル南海大阪, コンラッド大阪, 御宿野乃 大阪淀屋橋, 大阪 てっちり, 11月 12月 1月 大阪 観光',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-osaka-city-sumiyoshi-taisha-hatsumode-illumination-fugu-stay'
+    canonical: "https://croud-travel.pages.dev/winter-osaka-city-sumiyoshi-taisha-hatsumode-illumination-fugu-stay/"
   },
   openGraph: {
     title: "【11・12・1月大阪】冬の大阪・住吉大社新春初詣＆御堂筋イルミネーション！本場てっちりと煌めく夜景・天然温泉に寛ぐ名宿5選",

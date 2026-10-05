@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/osaka-solo-business-sky-sauna-retreat-stay/" },
   title: '【大阪出張・梅田ご褒美泊】地上130mスカイスパ・展望サウナ・夜景クラブラウンジ完備！ビジネス＆ソロステイ 厳選3選',
   description: '西日本のビジネス中心地・大阪で、仕事の疲れを極限まで吹き飛ばし最高のインスピレーションを得る。「日本一高いインフィニティスカイスパ」を備えた最新ランドマーク「カンデオホテルズ大阪ザ・タワー」、全室高層階・英国調ラグジュアリーの極致「ホテル阪急インターナショナル」、難波のど真ん中で天然温泉とサウナを満喫する「ドーミーインPREMIUMなんばANNEX」を徹底特集。',
   keywords: '大阪 出張 ホテル サウナ,梅田 ビジネスホテル 大浴場,カンデオホテルズ大阪ザタワー サウナ,ホテル阪急インターナショナル 一人,大阪 高級ホテル 一人ステイ',

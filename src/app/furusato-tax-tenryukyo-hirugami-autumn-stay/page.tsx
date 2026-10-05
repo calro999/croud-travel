@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '名勝「天竜峡」ライン下り渓谷紅葉＆美肌の湯「昼神温泉」・阿智村日本一の星空ナイトツアー | クラウドトラベルふるさと納税',
   description: '10月下旬〜11月中旬に天竜川の奇岩を紅葉が染める天竜峡。pH9.7を誇る日本屈指のとろとろ美肌泉「昼神温泉」と阿智村の満天の星空、信州アルプス牛会席をふるさと納税で堪能する秋の南信州旅。',
-  keywords: ['南信州・天竜峡・阿智村・昼神温泉 紅葉 観光', '長野県 10月 11月 旅行', '天竜峡紅葉舟下り＆昼神温泉星空信州牛', 'ふるさと納税 温泉宿泊券', '昼神温泉 湯元ホテル 阿智川', '昼神温泉 日長庵 桂月', '昼神温泉郷 懐石と炉ばたの宿 吉弥', '楽天ふるさと納税 宿泊クーポン'],
+  keywords: ["美肌の湯「昼神温泉」", "阿智村日本一の星空ナイトツアー", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-tenryukyo-hirugami-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-tenryukyo-hirugami-autumn-stay/",
   },
   openGraph: {
     title: '名勝「天竜峡」ライン下り渓谷紅葉＆美肌の湯「昼神温泉」・阿智村日本一の星空ナイトツアー',

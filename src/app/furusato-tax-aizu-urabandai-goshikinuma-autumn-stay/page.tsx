@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '福島・裏磐梯五色沼の錦秋紅葉＆桧原湖！磐梯山ジオパーク美肌温泉と会津郷土美食 | クラウドトラベルふるさと納税',
   description: '10月・11月の福島・裏磐梯＆会津特集！コバルトブルーやエメラルドグリーンに輝く五色沼湖沼群と燃えるような紅葉のコントラスト、桧原湖畔の絶景リゾート温泉、会津牛や新米会津コシヒカリ・わっぱ飯をふるさと納税トラベルクーポンでお得に楽しむ贅沢プラン。',
-  keywords: ["裏磐梯・五色沼・桧原湖 紅葉 観光","福島県 10月 11月 旅行","裏磐梯五色沼紅葉＆磐梯高原温泉リゾート","ふるさと納税 温泉宿泊券","裏磐梯レイクリゾート　迎賓館　猫魔離宮","裏磐梯高原ホテル","裏磐梯レイクリゾート　本館　五色の森","楽天ふるさと納税 宿泊クーポン"],
+  keywords: ["福島", "裏磐梯五色沼の錦秋紅葉", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-aizu-urabandai-goshikinuma-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-aizu-urabandai-goshikinuma-autumn-stay/",
   },
   openGraph: {
     title: '福島・裏磐梯五色沼の錦秋紅葉＆桧原湖！磐梯山ジオパーク美肌温泉と会津郷土美食',

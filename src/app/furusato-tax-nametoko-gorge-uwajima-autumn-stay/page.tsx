@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '滑床渓谷「雪輪の滝」紅葉キャニオニング美＆本場宇和島鯛めし・道後奥道後温泉ステイ | クラウドトラベルふるさと納税',
   description: '11月上旬〜11月下旬に滑らかな一枚岩を紅葉が彩る滑床渓谷・雪輪の滝。宇和海で育まれた新鮮な真鯛を使う「本場宇和島鯛めし」と、名湯・奥道後温泉の美肌泉をふるさと納税でお得に堪能する秋の四国・南予旅。',
-  keywords: ['宇和島・滑床渓谷・道後奥道後 紅葉 観光', '愛媛県 10月 11月 旅行', '滑床渓谷雪輪の滝紅葉＆宇和島鯛めし温泉', 'ふるさと納税 温泉宿泊券', '天然温泉渓流滑床の湯 スーパーホテル宇和島駅前天然温泉', '宇和島リージェントホテル', '宇和島オリエンタルホテル', '楽天ふるさと納税 宿泊クーポン'],
+  keywords: ["本場宇和島鯛めし", "道後奥道後温泉ステイ", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-nametoko-gorge-uwajima-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-nametoko-gorge-uwajima-autumn-stay/",
   },
   openGraph: {
     title: '滑床渓谷「雪輪の滝」紅葉キャニオニング美＆本場宇和島鯛めし・道後奥道後温泉ステイ',

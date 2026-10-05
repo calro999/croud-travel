@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/fuji-five-lakes-car-free-bus-guide/" },
   title: "【富士五湖・河口湖 車なし観光ガイド】周遊バス・富士急行で回る！逆さ富士・忍野八海・浅間神社モデルコース ｜ 日本全国・旅宿クラウド",
   description: "車なしでも富士五湖は満喫できる！河口湖周遊バス（レッドライン/グリーンライン）、富士山パノラマロープウェイ、新倉山浅間公園の絶景、河口湖駅徒歩圏＆送迎付きの温泉ホテルを徹底解説。",
-  keywords: ["fuji-five-lakes-car-free-bus-guide", "富士五湖 車なし", "河口湖 周遊バス", "忍野八海 バス", "新倉山浅間公園 電車", "富士急行線 モデルコース", "河口湖 温泉 楽天トラベル"],
+  keywords: ["富士五湖", "河口湖", "車なし観光ガイド", "周遊バス", "富士急行で回る！逆さ富士", "忍野八海", "浅間神社モデルコース"],
 };
 
 interface Hotel {

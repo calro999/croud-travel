@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-illuminations-stay/" },
   title: '日本三大イルミネーション＆光の祭典・ファンタジーリゾートホテル宿×ふるさと納税完全ガイド【2026年最新】あしかが・ハウステンボス・さっぽろ',
   description: '夜空を埋め尽くす数百〜数千万球の煌めき！栃木足利「あしかがフラワーパーク」光の藤棚とホテルルートイン第２足利、長崎佐世保「ハウステンボス」世界最大1,300万球の光の王国と直営ホテルアムステルダム、北海道札幌「さっぽろホワイトイルミネーション」大通公園の雪景色とホテルルートイン札幌北四条。日本三大イルミネーションの幻想ステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
   keywords: '日本三大イルミネーション・夜景遺産特集, 楽天ふるさと納税, 温泉宿, ふるさと納税 旅行, 高級旅館, ホテル予約, 2026年旅行',

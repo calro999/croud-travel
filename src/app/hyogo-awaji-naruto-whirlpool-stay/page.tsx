@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/hyogo-awaji-naruto-whirlpool-stay/" },
   title: "【兵庫・淡路島＆鳴門海峡】うずしおクルーズ・淡路牛＆玉ねぎ・オーシャンビュー宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "関西屈指のリゾートアイランド・兵庫淡路島エリア完全特化！世界最大級の「鳴門の渦潮」クルーズ、明石海峡大橋、ニジゲンノモリ、淡路島玉ねぎ＆淡路牛・由良ウニ・3年とらふぐを味わう絶景温泉ホテルを徹底解説。",
-  keywords: ["hyogo-awaji-naruto-whirlpool-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["兵庫", "淡路島", "鳴門海峡", "うずしおクルーズ", "淡路牛", "玉ねぎ", "オーシャンビュー宿"],
 };
 
 function loadSeasonalHotels() {

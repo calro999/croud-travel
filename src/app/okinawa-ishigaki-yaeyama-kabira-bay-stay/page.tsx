@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/okinawa-ishigaki-yaeyama-kabira-bay-stay/" },
   title: "【沖縄・石垣島＆八重山】川平湾・離島ホッピング＆石垣牛宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "ミシュラン・グリーンガイド三ツ星の絶景「川平湾」のグラスボート、竹富島・西表島へのアイランドホッピング拠点、日本初の国際星空保護区、最高級A5石垣牛ステーキを徹底解説。プライベートプール付きヴィラやオーシャンフロントリゾートを厳選。",
-  keywords: ["okinawa-ishigaki-yaeyama-kabira-bay-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["沖縄", "石垣島", "八重山", "川平湾", "離島ホッピング", "石垣牛宿", "温泉宿"],
 };
 
 function loadSeasonalHotels() {

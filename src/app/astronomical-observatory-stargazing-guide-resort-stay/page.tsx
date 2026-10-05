@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/astronomical-observatory-stargazing-guide-resort-stay/" },
   title: "【天体望遠鏡ドーム＆星空案内人（星ソムリエ）常駐宿】本格天体観測 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "宇宙に一番近いホテル！大型天体望遠鏡ドーム＆星ソムリエ常駐の星空リゾート宿完全特化！長野八ヶ岳・野辺山、南信州阿智村、美ヶ原高原、福島浄土平、月のクレーター・土星の輪・すばる観察、夜間スターウォッチングツアー宿を徹底解説。",
-  keywords: ["astronomical-observatory-stargazing-guide-resort-stay", "星空旅行", "天体観測", "夜景ホテル", "温泉宿", "楽天トラベル"],
+  keywords: ["天体望遠鏡ドーム", "星空案内人（星ソムリエ）常駐宿", "本格天体観測", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
 };
 
 function loadSeasonalHotels() {

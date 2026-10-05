@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "北アルプス乗鞍岳の山懐、標高1,400メートルの深い原生林に抱かれた日本屈指の秘湯「白骨温泉」。「3日入れば3年風邪をひかない」と謳われる乳白色の炭酸水素塩泉。11月中旬の初雪から12月の白銀静寂世界に浸る雪見露天風呂と、信州プレミアム牛＆名物投汁そばに心温まる名宿ガイド。",
   keywords: '白骨温泉 宿泊 11月 12月, 白骨温泉 乳白色 露天風呂, 泡の湯 白骨, 湯元齋藤旅館, 白船荘 新宅旅館, 信州プレミアム牛 投汁そば, 北アルプス 雪見温泉, 長野 秘湯',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-nagano-shirahone-onsen-milky-snow-stay',
+    canonical: "https://croud-travel.pages.dev/winter-nagano-shirahone-onsen-milky-snow-stay/",
   },
   openGraph: {
     title: "【11・12月白骨温泉の北アルプス初冬雪景色と乳白色秘湯】3日入れば3年風邪ひかぬ霊泉・信州プレミアム牛＆投汁そばの宿5選",

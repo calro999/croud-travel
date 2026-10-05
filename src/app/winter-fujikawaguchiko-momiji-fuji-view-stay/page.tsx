@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "11月に見頃を迎える河口湖紅葉まつり！約60本の巨木モミジが約1.5kmにわたって深紅に染まる「もみじ回廊」ライトアップと、雪化粧した初冠雪の富士山を客室専用露天風呂から真正面に望む贅沢ステイ。",
   keywords: "河口湖 富士山 露天風呂 旅館, 11月旅行, 12月旅行, 冬休み, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/winter-fujikawaguchiko-momiji-fuji-view-stay',
+    canonical: "https://croud-travel.pages.dev/winter-fujikawaguchiko-momiji-fuji-view-stay/",
   },
   openGraph: {
     title: "【11月河口湖紅葉まつり＆初冠雪富士】もみじ回廊ライトアップと富士山ビュー客室露天宿5選",

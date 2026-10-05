@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '清冽な名水が生み出す極上の喉ごし！名水百選の手打ち蕎麦＆名水豆腐料理の温泉宿 ｜ 日本全国・旅宿クラウド',
   description: '忍野八海・安曇野・郡上八幡など全国屈指の名水地に佇むグルメ宿。清らかな伏流水で打つ香り高い十割蕎麦やとろけるような名水豆腐会席を堪能。',
-  keywords: ["名水百選","手打ち蕎麦","名水豆腐","安曇野","忍野八海","グルメ温泉"],
+  keywords: ["名水豆腐料理の温泉宿", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/spring-water-soba-tofu-gourmet-onsen-stay',
+    canonical: "https://croud-travel.pages.dev/spring-water-soba-tofu-gourmet-onsen-stay/",
   },
   openGraph: {
     title: '清冽な名水が生み出す極上の喉ごし！名水百選の手打ち蕎麦＆名水豆腐料理の温泉宿',

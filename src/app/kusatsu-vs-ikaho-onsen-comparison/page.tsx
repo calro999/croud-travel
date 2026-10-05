@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/kusatsu-vs-ikaho-onsen-comparison/" },
   title: "【草津温泉 vs 伊香保温泉 どっちがいい？】泉質・街歩き・アクセス・宿を7項目で徹底比較",
   description: "草津温泉と伊香保温泉、どっちに行くべきか7項目で本気比較。泉質（酸性硫黄泉 vs 黄金の湯）、街歩き（湯畑 vs 365段石段）、アクセス、宿泊費、食べ歩きまで。",
-  keywords: ["kusatsu-vs-ikaho-onsen-comparison", "草津温泉", "伊香保温泉", "比較", "どっち", "違い", "おすすめ"],
+  keywords: ["草津温泉", "vs", "伊香保温泉", "どっちがいい？", "泉質", "街歩き", "アクセス"],
 };
 
 interface Hotel {

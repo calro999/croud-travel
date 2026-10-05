@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/tokyo-osaka-bus-vs-shinkansen-guide/" },
   title: "【東京から大阪 安く行く方法】新幹線 vs 夜行バス徹底比較！差額2万円でUSJ・道頓堀1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
   description: "東京から大阪へ安く行く方法！東海道新幹線（約14,920円）と夜行高速バス（約2,500円〜）の料金・時間を徹底比較。往復2万円以上浮く夜行便で早朝USJ開園待ち、道頓堀たこ焼きはしご酒、なんば・梅田の人気ホテルに泊まる1泊2日モデルコース。",
-  keywords: ["tokyo-osaka-bus-vs-shinkansen-guide", "高速バス", "バスツアー", "新幹線 比較", "安く行く方法", "1泊2日 モデルコース", "宿泊予約", "楽天トラベル"],
+  keywords: ["東京から大阪", "安く行く方法", "新幹線", "vs", "道頓堀1泊2日モデルコース", "温泉宿", "宿泊予約"],
 };
 
 function loadHotels() {

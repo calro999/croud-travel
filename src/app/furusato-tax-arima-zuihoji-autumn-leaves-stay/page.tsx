@@ -4,20 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '有馬温泉・瑞宝寺公園の錦秋もみじ狩り＆太閤の金泉銀泉！極上神戸牛会席宿×ふるさと納税完全ガイド【2026年最新秋旅】兵庫',
   description: '11月上旬〜下旬に豊臣秀吉が「いくら見ても飽きない」と称賛した日暮しの庭「有馬温泉 瑞宝寺公園」。赤褐色の濃厚な金泉と無色透明な銀泉の名湯「角の坊旅館」「欽山」「有馬御苑」で日本最古の湯浴みと、世界に誇るブランド牛・神戸牛のすき焼きステーキを堪能。ふるさと納税で実質2,000円。',
-  keywords: [
-    "ふるさと納税 温泉",
-    "ふるさと納税 宿泊券",
-    "ふるさと納税 トラベルクーポン",
-    "兵庫・有馬温泉瑞宝寺公園紅葉＆金泉銀泉特集",
-    "10月 旅行 おすすめ",
-    "11月 旅行 おすすめ",
-    "秋 旅行 温泉",
-    "有馬温泉 瑞宝寺公園 紅葉 金泉 銀泉 神戸牛 旅館",
-    "楽天トラベル ふるさと納税",
-    "実質2000円 温泉"
-],
+  keywords: ["有馬温泉", "瑞宝寺公園の錦秋もみじ狩り", "2026年最新秋旅", "兵庫", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-arima-zuihoji-autumn-leaves-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-arima-zuihoji-autumn-leaves-stay/"
   },
   openGraph: {
     title: '有馬温泉・瑞宝寺公園の錦秋もみじ狩り＆太閤の金泉銀泉！極上神戸牛会席宿×ふるさと納税完全ガイド【2026年最新秋旅】兵庫',

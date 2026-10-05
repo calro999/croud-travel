@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '蓼科高原・横谷渓谷の黄金カラマツ紅葉と巨岩の滝巡り＆信州蓼科温泉郷・信州プレミアム牛 | クラウドトラベルふるさと納税',
   description: '10月中旬〜11月上旬に黄金色に輝く蓼科高原のカラマツ林と横谷渓谷おしどり隠しの滝。蓼科温泉郷の隠れ宿で、弱酸性・含鉄泉の温まり名湯と信州プレミアム牛・信州サーモンをふるさと納税で楽しむ贅沢ステイ。',
-  keywords: ['蓼科高原・横谷渓谷・白樺湖 紅葉 観光', '長野県 10月 11月 旅行', '横谷渓谷滝巡り紅葉＆蓼科温泉信州牛', 'ふるさと納税 温泉宿泊券', '蓼科温泉 いろりの宿 蓼科パークホテル', '奥蓼科温泉 渋・辰野館', '蓼科温泉 １日３組のおもてなし たてしな 麓八', '楽天ふるさと納税 宿泊クーポン'],
+  keywords: ["蓼科高原", "信州蓼科温泉郷", "信州プレミアム牛", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-tateshina-yokoya-gorge-autumn-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-tateshina-yokoya-gorge-autumn-stay/",
   },
   openGraph: {
     title: '蓼科高原・横谷渓谷の黄金カラマツ紅葉と巨岩の滝巡り＆信州蓼科温泉郷・信州プレミアム牛',

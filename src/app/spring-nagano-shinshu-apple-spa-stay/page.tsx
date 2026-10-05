@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "甘酸っぱい香りに包まれる名物「りんご風呂」と、サクサクの自家製焼きたてアップルパイ！信州サーモンや信州牛とともに、長野の豊かな果実と美肌温泉を丸ごと味わえる魅力あふれる宿を徹底解説。",
   keywords: "信州 温泉 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/spring-nagano-shinshu-apple-spa-stay',
+    canonical: "https://croud-travel.pages.dev/spring-nagano-shinshu-apple-spa-stay/",
   },
   openGraph: {
     title: "【信州スイーツ＆名湯】焼きたて信州アップルパイ＆果実の香るりんご風呂！長野の美食温泉宿5選",

@@ -7,9 +7,9 @@ import ShareButtons from '@/app/components/ShareButtons';
 export const metadata: Metadata = {
   title: '愛犬とずっと一緒！プライベートドッグラン＆客室天然温泉付き高級リゾートヴィラ ｜ 日本全国・旅宿クラウド',
   description: '伊豆高原・那須・軽井沢など愛犬とベッドや食事も一緒に過ごせる贅沢ヴィラ。完全プライベートドッグラン、足洗い場、客室専用温泉風呂を完備。',
-  keywords: ["ペットと泊まれる宿","犬連れ旅行","プライベートドッグラン","伊豆高原","那須高原","客室露天風呂"],
+  keywords: ["温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/pet-friendly-private-dogrun-luxury-villa',
+    canonical: "https://croud-travel.pages.dev/pet-friendly-private-dogrun-luxury-villa/",
   },
   openGraph: {
     title: '愛犬とずっと一緒！プライベートドッグラン＆客室天然温泉付き高級リゾートヴィラ',

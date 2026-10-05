@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "近未来的な球体パノラマドームサウナと、天然湧水がオーバーフローするインフィニティ水風呂！木々のざわめきと小鳥の声をBGMに、建築美と大自然が融合した最高峰のデザイナーズスパリゾートを厳選紹介。",
   keywords: "ドームテント サウナ 温泉, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/organic-forest-infinity-dome-sauna-stay',
+    canonical: "https://croud-travel.pages.dev/organic-forest-infinity-dome-sauna-stay/",
   },
   openGraph: {
     title: "【球体ドームサウナ＆湧水インフィニティ】森の静寂に溶け込むデザイナーズサウナ宿5選",

@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/winter-ski-snowboard-resort/" },
   title: "【冬のスキー・スノボ】ゲレンデ直結＆極上温泉リゾート 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "パウダースノーと極上温泉！北海道ニセコ、長野白馬八方尾根、新潟越後湯沢、山形蔵王温泉など、ゲレンデ直結・スキーインスキーアウト対応の人気ホテル＆温泉宿を徹底解説。",
-  keywords: ["winter-ski-snowboard-resort", "宿泊予約", "温泉宿", "ホテル特集", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["冬のスキー", "スノボ", "ゲレンデ直結", "極上温泉リゾート", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
 
 function loadSeasonalHotels() {

@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '丹波篠山の秋の味覚狩り（丹波黒枝豆・丹波栗）＆丹波篠山城下町の古民家宿・名物ぼたん鍋 | クラウドトラベルふるさと納税',
   description: '10月中旬〜11月下旬に旬のピークを迎える丹波黒枝豆・丹波栗・松茸・本場ぼたん鍋（猪肉）。重要伝統的建造物群保存地区の篠山城下町で、風情ある宿と丹波篠山温泉をふるさと納税でお得に満喫。',
-  keywords: ['丹波篠山・篠山城下町・こんだ 紅葉 グルメ', '兵庫県 秋 10月 11月', '丹波篠山黒枝豆・丹波栗＆篠山城下町ぼたん鍋', 'ふるさと納税 温泉宿泊券', '旅館 浪花館 丹波・篠山 篭坊温泉', '丹波篠山 潯陽楼', '篠山城下町ホテルＮＩＰＰＯＮＩＡ', '楽天ふるさと納税 温泉クーポン'],
+  keywords: ["丹波栗）", "丹波篠山城下町の古民家宿", "名物ぼたん鍋", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-tamba-sasayama-autumn-gourmet-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-tamba-sasayama-autumn-gourmet-stay/",
   },
   openGraph: {
     title: '丹波篠山の秋の味覚狩り（丹波黒枝豆・丹波栗）＆丹波篠山城下町の古民家宿・名物ぼたん鍋',

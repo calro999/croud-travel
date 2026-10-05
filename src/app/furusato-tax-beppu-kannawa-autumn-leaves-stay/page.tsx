@@ -4,20 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '湯けむり立ち上る別府鉄輪温泉＆別府ロープウェイ鶴見岳紅葉！地獄蒸し名宿×ふるさと納税完全ガイド【2026年最新秋旅】大分',
   description: '10月中旬〜11月中旬に鶴見岳の紅葉と湯けむりが織りなす「別府鉄輪（かんなわ）温泉」。標高1,375mから別府湾を見下ろす別府ロープウェイの紅葉パノラマ、高温の温泉蒸気で蒸し上げる名物「地獄蒸し料理」、名宿「旅館 みゆき屋」「日本旅館 器」「かんなわ荘」で豊後牛や関アジ・関サバを堪能。ふるさと納税で実質2,000円。',
-  keywords: [
-    'ふるさと納税 温泉',
-    'ふるさと納税 宿泊券',
-    'ふるさと納税 トラベルクーポン',
-    '大分・別府鉄輪温泉＆鶴見岳紅葉特集',
-    '10月 旅行 おすすめ',
-    '11月 旅行 おすすめ',
-    '秋 旅行 温泉',
-    '紅葉 温泉旅館',
-    '楽天トラベル ふるさと納税',
-    '実質2000円 温泉'
-  ],
+  keywords: ["湯けむり立ち上る別府鉄輪温泉", "2026年最新秋旅", "大分", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-beppu-kannawa-autumn-leaves-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-beppu-kannawa-autumn-leaves-stay/"
   },
   openGraph: {
     title: '湯けむり立ち上る別府鉄輪温泉＆別府ロープウェイ鶴見岳紅葉！地獄蒸し名宿×ふるさと納税完全ガイド【2026年最新秋旅】大分',

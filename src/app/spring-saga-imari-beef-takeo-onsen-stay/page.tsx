@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "澄んだ空気と清らかな水が育んだ最高級黒毛和牛「伊万里牛」！辰野金吾設計の楼門で有名な歴史ある武雄温泉のトロトロ美肌湯と、佐賀牛・伊万里牛の極上ステーキに舌鼓を打つ雅な九州温泉旅。",
   keywords: "武雄温泉 露天風呂 旅館, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/spring-saga-imari-beef-takeo-onsen-stay',
+    canonical: "https://croud-travel.pages.dev/spring-saga-imari-beef-takeo-onsen-stay/",
   },
   openGraph: {
     title: "【極上A5伊万里牛＆武雄温泉美肌湯】1300年の名湯と佐賀の最高峰グルメを堪能する名宿5選",

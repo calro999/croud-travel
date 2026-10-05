@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/highway-express-bus-direct-onsen-stay/" },
   title: "【高速バス直行・バスターミナル直結温泉宿】乗り換えなし・座席指定で楽々アクセス 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "東京・新宿・渋谷・名古屋・大阪から直行！高速バスで行ける温泉宿完全特化！バスタ新宿や主要ターミナルから乗り換えなし。草津温泉・伊香保温泉・白馬・河口湖・南紀白浜などバスターミナル至近の名門旅館を徹底解説。",
-  keywords: ["highway-express-bus-direct-onsen-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["高速バス直行", "バスターミナル直結温泉宿", "乗り換えなし", "座席指定で楽々アクセス", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
 
 function loadSeasonalHotels() {

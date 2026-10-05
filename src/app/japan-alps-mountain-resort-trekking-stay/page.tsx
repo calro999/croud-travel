@@ -4,9 +4,10 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/japan-alps-mountain-resort-trekking-stay/" },
   title: "【日本アルプス・本格トレッキング＆山岳リゾート宿】上高地・白馬・立山黒部・涸沢 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "標高3000mの稜線と白銀の氷河地形完全特化！神降る地「上高地帝国ホテル・河童橋」、白馬八方尾根・栂池自然園トレッキング、立山黒部アルペンルート・室堂平「ホテル立山」、穂高連峰涸沢カール拠点宿を徹底解説。",
-  keywords: ["japan-alps-mountain-resort-trekking-stay", "宿泊予約", "温泉宿", "観光ガイド", "おすすめ旅行", "楽天トラベル"],
+  keywords: ["日本アルプス", "本格トレッキング", "山岳リゾート宿", "上高地", "白馬", "立山黒部", "涸沢"],
 };
 
 function loadSeasonalHotels() {

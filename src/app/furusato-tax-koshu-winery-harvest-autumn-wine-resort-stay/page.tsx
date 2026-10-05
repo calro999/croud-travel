@@ -4,20 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: '11月3日解禁！山梨ヌーボー＆甲州勝沼ワイナリー巡り×石和温泉美食リゾート【ふるさと納税完全ガイド2026】 | 旅宿クラウド',
   description: '10〜11月は日本ワイン発祥の地・山梨甲州勝沼がもっとも輝く収穫と新酒（山梨ヌーボー）のシーズン！約30軒の個性豊かなワイナリーでの試飲巡りと、美肌の名湯・石和温泉の掛け流し湯に癒やされる「ホテル古柏園」「ホテル平安」「中村屋旅館」。甲州牛ステーキとワインのマリアージュを、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。',
-  keywords: [
-    'ふるさと納税 温泉',
-    'ふるさと納税 宿泊券',
-    'ふるさと納税 トラベルクーポン',
-    '山梨甲州勝沼ワイナリー新酒ワイン＆石和名湯リゾート特集',
-    '10月 旅行 おすすめ',
-    '11月 旅行 おすすめ',
-    '秋 旅行 温泉',
-    '紅葉 温泉旅館',
-    '楽天トラベル ふるさと納税',
-    '実質2000円 温泉'
-  ],
+  keywords: ["11月3日解禁！山梨ヌーボー", "ふるさと納税", "2026", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/furusato-tax-koshu-winery-harvest-autumn-wine-resort-stay/'
+    canonical: "https://croud-travel.pages.dev/furusato-tax-koshu-winery-harvest-autumn-wine-resort-stay/"
   },
   openGraph: {
     title: '11月3日解禁！山梨ヌーボー＆甲州勝沼ワイナリー巡り×石和温泉美食リゾート【ふるさと納税完全ガイド2026】',

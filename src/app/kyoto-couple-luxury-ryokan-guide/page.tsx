@@ -5,19 +5,10 @@ import path from "path";
 import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/kyoto-couple-luxury-ryokan-guide/" },
   title: "【京都カップル旅行 おすすめ高級旅館＆町家ホテル】祇園・嵐山で二人きりの特別な夜を過ごす大人の宿",
   description: "大人の京都カップル旅におすすめの極上宿！坪庭を望む町家一棟貸し、嵐山の静寂に包まれる客室露天風呂付き旅館、旬の京懐石ディナーを味わう風情あふれる記念日ステイ完全ガイド。",
-  keywords: [
-    "京都 カップル 高級旅館",
-    "京都 記念日 宿",
-    "京都 客室露天風呂 カップル",
-    "京都 町家ホテル 坪庭",
-    "Nazuna 京都 椿通",
-    "京都 北白川天然ラジウム温泉 えいせん京",
-    "京都 露天風呂付き客室",
-    "京都 大人の隠れ家 宿",
-    "祇園 嵐山 カップル 旅館"
-  ],
+  keywords: ["京都カップル旅行", "おすすめ高級旅館", "町家ホテル", "祇園", "温泉宿", "宿泊予約", "楽天トラベル"],
 };
 
 interface Hotel {

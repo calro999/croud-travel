@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】美濃和紙あかりの町並みと清流鵜飼い。長良川温泉＆飛騨牛会席の風情名宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！千三百年続く長良川鵜飼いの篝火と美濃和紙あかりアート！茶褐色の名湯「長良川温泉」と極上飛騨牛会席を味わう岐阜の歴史風情旅館5選。',
-  keywords: ["長良川温泉","長良川鵜飼い","美濃和紙","飛騨牛会席","川沿い温泉旅館","岐阜旅行","楽天トラベル"],
+  keywords: ["2026年", "飛騨牛会席の風情名宿5選", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
     title: '【2026年】美濃和紙あかりの町並みと清流鵜飼い。長良川温泉＆飛騨牛会席の風情名宿5選',
     description: '2026年最新！千三百年続く長良川鵜飼いの篝火と美濃和紙あかりアート！茶褐色の名湯「長良川温泉」と極上飛騨牛会席を味わう岐阜の歴史風情旅館5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/traditional-gifu-mino-washi-lantern-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/traditional-gifu-mino-washi-lantern-stay',
+    canonical: "https://croud-travel.pages.dev/traditional-gifu-mino-washi-lantern-stay/",
   },
 };
 

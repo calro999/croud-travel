@@ -6,7 +6,7 @@ import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink
 export const metadata: Metadata = {
   title: '【2026年】天然湖水風呂へダイブ！北欧直輸入バレルサウナ＆レイクフロント温泉宿5選 | 日本全国・旅宿クラウド',
   description: '2026年最新！ヒノキ香る丸いバレルサウナでセルフロウリュ！目の前の天然湖へ飛び込む究極の水風呂と湖畔外気浴テラスが自慢のサウナリゾート5選。',
-  keywords: ["バレルサウナ","薪サウナ","湖水風呂","テントサウナ","アウトドアサウナ","ととのい体験","楽天トラベル"],
+  keywords: ["2026年", "レイクフロント温泉宿5選", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
     title: '【2026年】天然湖水風呂へダイブ！北欧直輸入バレルサウナ＆レイクフロント温泉宿5選',
     description: '2026年最新！ヒノキ香る丸いバレルサウナでセルフロウリュ！目の前の天然湖へ飛び込む究極の水風呂と湖畔外気浴テラスが自慢のサウナリゾート5選。',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://croud-travel.com/organic-nordic-barrel-sauna-lakeside-stay',
   },
   alternates: {
-    canonical: 'https://croud-travel.com/organic-nordic-barrel-sauna-lakeside-stay',
+    canonical: "https://croud-travel.pages.dev/organic-nordic-barrel-sauna-lakeside-stay/",
   },
 };
 

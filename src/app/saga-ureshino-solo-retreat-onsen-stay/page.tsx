@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/saga-ureshino-solo-retreat-onsen-stay/" },
   title: '【嬉野温泉ひとり旅・美肌名湯おこもり】日本三大美肌の湯・嬉野茶・温泉湯豆腐！とろとろの重曹泉に包まれる贅沢ソロリトリート厳選3宿',
   description: '日本三大美肌の湯・嬉野！洋館のクラシカルな気品とイタリアンが魅力の「ハミルトン宇礼志野」、嬉野茶と自家源泉が融合した最新ラグジュアリー宿「嬉野 八十八」、嬉野川沿いで源泉かけ流しと家庭的なもてなしが愛される「松園」を徹底比較。',
   keywords: '嬉野温泉 一人旅 宿,嬉野 ホテル 一人 温泉,ハミルトン宇礼志野,嬉野 八十八,嬉野温泉 松園,嬉野 美肌の湯 ひとり旅',

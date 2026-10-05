@@ -6,9 +6,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '奥入瀬渓流の黄金トンネル紅葉＆十和田湖畔の絶景名湯リゾート・青森短角牛会席 | クラウドトラベルふるさと納税',
   description: '10月中旬〜10月下旬に見頃を迎える奥入瀬渓流の奇跡の紅葉と十和田湖の絶景パノラマ。清流沿いの温泉宿や湖畔リゾートで、源泉かけ流しの名湯と青森短角牛・十和田湖ひめます料理をふるさと納税で堪能する秋旅特集。',
-  keywords: ['十和田・奥入瀬渓流・十和田湖 紅葉 観光', '青森県 10月 11月 旅行', '奥入瀬渓流紅葉＆十和田湖畔温泉', 'ふるさと納税 温泉宿泊券', '天然温泉 奥入瀬の湯 スーパーホテル十和田', '奥入瀬渓流温泉 灯と楓', '奥入瀬渓流温泉 野の花 焼山荘', '楽天ふるさと納税 宿泊クーポン'],
+  keywords: ["奥入瀬渓流の黄金トンネル紅葉", "十和田湖畔の絶景名湯リゾート", "青森短角牛会席", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
-    canonical: 'https://croud-travel.com/furusato-tax-oirase-towadako-autumn-leaves-stay',
+    canonical: "https://croud-travel.pages.dev/furusato-tax-oirase-towadako-autumn-leaves-stay/",
   },
   openGraph: {
     title: '奥入瀬渓流の黄金トンネル紅葉＆十和田湖畔の絶景名湯リゾート・青森短角牛会席',

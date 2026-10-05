@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "日本一の人気ローカル線「JR五能線」や観光列車「リゾートしらかみ」で行く憧れの鉄道旅！波打ち際のひょうたん露天風呂で有名な黄金崎不老ふ死温泉や、日本海の夕日を望む名湯宿を徹底解説。",
   keywords: "五能線 温泉 宿, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
-    canonical: 'https://croud-travel.com/super-panoramic-coastal-scenic-train-stay',
+    canonical: "https://croud-travel.pages.dev/super-panoramic-coastal-scenic-train-stay/",
   },
   openGraph: {
     title: "【絶景観光列車と温泉旅】五能線・リゾートしらかみ沿線！日本海パノラマ夕日と不老ふ死温泉宿5選",

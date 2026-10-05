@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/naruto-tokushima-solo-retreat-whirlpool-museum-stay/" },
   title: '【鳴門・徳島ひとり旅・南欧風おこもり】鳴門の渦潮・大塚国際美術館・全室客室露天風呂！鳴門海峡を望む極上リゾート厳選3宿',
   description: '徳島空港や高速鳴門バス停からアクセス良好！鳴門海峡のオーシャンビューと阿波山海の幸バイキングを誇る「アオアヲ ナルト リゾート」、全室にジャグジー露天風呂を備える大人の隠れ家「リゾートホテル モアナコースト」、JR徳島駅直結の最高峰シティホテル「ＪＲホテルクレメント徳島」を徹底比較。',
   keywords: '鳴門 一人旅 ホテル,アオアヲナルトリゾート ひとり,モアナコースト 宿泊,JRホテルクレメント徳島,大塚国際美術館 鳴門の渦潮',

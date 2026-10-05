@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://croud-travel.pages.dev/kagoshima-ibusuki-solo-retreat-onsen-stay/" },
   title: '【指宿温泉ひとり旅・砂むし温泉おこもり】錦江湾パノラマ・砂むし会席・黒豚しゃぶ！南国薩摩の潮風と地熱に癒やされる厳選3宿',
   description: '世界唯一の天然砂むし温泉の街・指宿！名物砂むし温泉徒歩圏でプロが選ぶ名宿料理部門上位常連の最高峰「いぶすき秀水園」、錦江湾を望む展望大浴場と砂むし風呂完備の「指宿海上ホテル」、源泉かけ流し温泉と快適な個室が評判の「指宿こころの宿」を徹底比較。',
   keywords: '指宿温泉 一人旅 宿,指宿 ホテル 一人 温泉,いぶすき秀水園,指宿海上ホテル,指宿こころの宿,指宿 砂むし温泉 ひとり旅',
