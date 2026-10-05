@@ -13,16 +13,28 @@ const round126Slugs = [
 
 const configs = [
   {
-    host: 'croud-travel.com',
-    key: 'croudtravelindexnow2026',
-    keyLocation: 'https://croud-travel.com/croudtravelindexnow2026.txt',
-    urls: round126Slugs.map(s => `https://croud-travel.com/${s}`)
+    host: 'croud-travel.pages.dev',
+    key: '54d2a4384bc4abc254d2a439aa1be583',
+    keyLocation: 'https://croud-travel.pages.dev/54d2a4384bc4abc254d2a439aa1be583.txt',
+    urls: round126Slugs.map(s => `https://croud-travel.pages.dev/${s}`)
+  },
+  {
+    host: 'croud-travel.pages.dev',
+    key: 'b1c2d3e4f5a67b8c9d0e1f2a3b4c5d6e',
+    keyLocation: 'https://croud-travel.pages.dev/b1c2d3e4f5a67b8c9d0e1f2a3b4c5d6e.txt',
+    urls: round126Slugs.map(s => `https://croud-travel.pages.dev/${s}`)
   },
   {
     host: 'croud-travel.pages.dev',
     key: 'c4d9e7284b9148d2bc079e2f9d658931',
     keyLocation: 'https://croud-travel.pages.dev/c4d9e7284b9148d2bc079e2f9d658931.txt',
     urls: round126Slugs.map(s => `https://croud-travel.pages.dev/${s}`)
+  },
+  {
+    host: 'croud-travel.com',
+    key: 'croudtravelindexnow2026',
+    keyLocation: 'https://croud-travel.com/croudtravelindexnow2026.txt',
+    urls: round126Slugs.map(s => `https://croud-travel.com/${s}`)
   },
   {
     host: 'croud-travel.com',
