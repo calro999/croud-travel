@@ -22,15 +22,15 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【紋別流氷観光＆ガリンコ号】巨大ドリルで氷を砕く圧巻の航海！氷海オホーツクタワー・極上毛ガニ＆ホタテを満喫する冬の厳選宿5選',
-  description: 'オホーツク海に押し寄せる白銀の流氷原を突き進む「流氷砕氷船ガリンコ号III IMERU」徹底攻略ガイド。海底自然観測室「オホーツクタワー」やアザラシと触れ合う「とっかりセンター」、冬の味覚の王様・オホーツク海産毛ガニと肉厚ホタテ。紋別・網走の天然温泉付き厳選ホテル・リゾート5選を詳しく紹介。',
+  title: '【紋別流氷観光＆ガリンコ号】巨大ドリルで氷を砕く圧巻の航海！名宿5選',
+  description: 'オホーツク海に押し寄せる白銀の流氷原を突き進む「流氷砕氷船ガリンコ号III IMERU」徹底攻略ガイド。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '紋別, 流氷, ガリンコ号, ガリンコ号III IMERU, オホーツクタワー, 網走, 北天の丘あばしり湖鶴雅リゾート, ホテルオホーツクパレス, 毛ガニ, ホタテ, 冬の北海道旅行',
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-hokkaido-monbetsu-drift-ice-garinko-driftice-gourmet-stay',
   },
   openGraph: {
-    title: '【紋別流氷観光＆ガリンコ号】巨大ドリルで氷を砕く圧巻の航海！氷海オホーツクタワー・極上毛ガニ＆ホタテを満喫する冬の厳選宿5選',
-    description: 'オホーツク海に押し寄せる白銀の流氷原を突き進む「流氷砕氷船ガリンコ号III IMERU」徹底攻略ガイド。海底自然観測室「オホーツクタワー」やアザラシと触れ合う「とっかりセンター」、冬の味覚の王様・オホーツク海産毛ガニと肉厚ホタテ。紋別・網走の天然温泉付き厳選ホテル・リゾート5選。',
+    title: '【紋別流氷観光＆ガリンコ号】巨大ドリルで氷を砕く圧巻の航海！名宿5選',
+    description: 'オホーツク海に押し寄せる白銀の流氷原を突き進む「流氷砕氷船ガリンコ号III IMERU」徹底攻略ガイド。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-hokkaido-monbetsu-drift-ice-garinko-driftice-gourmet-stay',
     siteName: 'トラベルマップ - 日本の観光名所＆ホテル厳選ガイド',
     locale: 'ja_JP',

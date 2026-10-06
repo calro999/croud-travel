@@ -6,15 +6,15 @@ import SpecialCouponBanner from '@/app/components/SpecialCouponBanner';
 import ShareButtons from '@/app/components/ShareButtons';
 
 export const metadata: Metadata = {
-  title: '【2026年】ぷりぷり甘い極上伊勢海老！お造り・鬼殻焼き・伊勢海老出汁雑炊の名宿5選 ｜ 日本全国・旅宿クラウド',
-  description: '2026年最新！伊勢志摩・南紀・伊豆で水揚げされた活伊勢海老のお造りや香ばしい鬼殻焼き、濃厚な味噌汁・雑炊を堪能できる贅沢グルメ温泉宿5選。',
+  title: '【2026年】ぷりぷり甘い極上伊勢海老！名宿5選',
+  description: '2026年最新！伊勢志摩・南紀・伊豆で水揚げされた活伊勢海老のお造りや香ばしい鬼殻焼き、濃厚な味噌汁・雑炊を堪能できる贅沢グルメ温泉宿5選。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: ["2026年", "鬼殻焼き", "伊勢海老出汁雑炊の名宿5選", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-ise-ebi-lobster-luxury-gourmet-stay/",
   },
   openGraph: {
-    title: '【2026年】ぷりぷり甘い極上伊勢海老！お造り・鬼殻焼き・伊勢海老出汁雑炊の名宿5選',
-    description: '2026年最新！伊勢志摩・南紀・伊豆で水揚げされた活伊勢海老のお造りや香ばしい鬼殻焼き、濃厚な味噌汁・雑炊を堪能できる贅沢グルメ温泉宿5選。',
+    title: '【2026年】ぷりぷり甘い極上伊勢海老！名宿5選',
+    description: '2026年最新！伊勢志摩・南紀・伊豆で水揚げされた活伊勢海老のお造りや香ばしい鬼殻焼き、濃厚な味噌汁・雑炊を堪能できる贅沢グルメ温泉宿5選。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-ise-ebi-lobster-luxury-gourmet-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',

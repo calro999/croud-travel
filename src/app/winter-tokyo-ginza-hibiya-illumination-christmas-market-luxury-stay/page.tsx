@@ -7,15 +7,15 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "【11・12・1月東京】銀座＆日比谷！HIBIYA Magic Timeイルミ＆東京クリスマスマーケットと銀座美食・最高峰ホテル名宿5選",
-  description: "11月中旬から1月にかけて、銀座・日比谷・有楽町は世界屈指の洗練と華やぎに満ちた冬の祝祭シーズンを迎えます。日比谷ステップ広場を幻想的なオーロラカラーで染め上げる「HIBIYA Magic Time Illumination」、日比谷公園の伝統的な「東京クリスマスマーケット」、そして銀座中央通りに輝くラグジュアリーメゾンのウインターディスプレイ。歌舞伎座の初春興行や極上の江戸前鮨・老舗すき焼きとともに味わう大人の東京冬滞在。楽天APIから最新取得した世界最高峰のホテル5選を徹底特集します。",
+  title: '【11・12・1月東京】HIBIYA Magic Timeイルミ！名宿5選',
+  description: '11月中旬から1月にかけて、銀座・日比谷・有楽町は世界屈指の洗練と華やぎに満ちた冬の祝祭シーズンを迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
   keywords: '銀座 ホテル, 日比谷 イルミネーション, 東京クリスマスマーケット 日比谷, 帝国ホテル 東京, ザ ペニンシュラ東京, 三井ガーデンホテル銀座プレミア, 銀座 美食 すき焼き, 11月 12月 1月 東京 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-tokyo-ginza-hibiya-illumination-christmas-market-luxury-stay/"
   },
   openGraph: {
-    title: "【11・12・1月東京】銀座＆日比谷！HIBIYA Magic Timeイルミ＆東京クリスマスマーケットと銀座美食・最高峰ホテル名宿5選",
-    description: "11月中旬から1月にかけて、銀座・日比谷・有楽町は世界屈指の洗練と華やぎに満ちた冬の祝祭シーズンを迎えます。日比谷ステップ広場を幻想的なオーロラカラーで染め上げる「HIBIYA Magic Time Illumination」、日比谷公園の伝統的な「東京クリスマスマーケット」、そして銀座中央通りに輝くラグジュアリーメゾンのウインターディスプレイ。歌舞伎座の初春興行や極上の江戸前鮨・老舗すき焼きとともに味わう大人の東京冬滞在。楽天APIから最新取得した世界最高峰のホテル5選を徹底特集します。",
+    title: '【11・12・1月東京】HIBIYA Magic Timeイルミ！名宿5選',
+    description: '11月中旬から1月にかけて、銀座・日比谷・有楽町は世界屈指の洗練と華やぎに満ちた冬の祝祭シーズンを迎えます。楽天トラベルの最新空室状況・限定割引プランを徹底比較！',
     url: 'https://croud-travel.pages.dev/winter-tokyo-ginza-hibiya-illumination-christmas-market-luxury-stay',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',
