@@ -56,6 +56,11 @@ jobs:
       - name: Bundle Posts
         run: node bundle_posts.js
 
+      - name: Notify Search Engines & Submit IndexNow
+        run: |
+          node notify_search_engines.js || true
+          node submit_indexnow_all.js || true
+
       - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
