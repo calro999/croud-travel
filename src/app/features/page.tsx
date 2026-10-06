@@ -111,6 +111,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'autumn-tokyo-disney-resort-halloween-maihama-hotels-stay',
+              title: "東京ディズニーリゾート・ハロウィーン！ヴィランズの饗宴＆仮装パレード・限定スイーツ＆舞浜オフィシャル・パートナー厳選名宿",
+              desc: "悪役たちが主役の魅惑の新パレードと大人の全身仮装！ホーンテッドマンション“ホリデーナイトメアー”や秋の限定スイーツ。天然温泉や広々客室でパークの余韻に浸る舞浜・新浦安名宿…",
+              badge: '9・10月特集'
+            },
+            {
+              slug: 'autumn-usj-halloween-horror-nights-osaka-bay-hotels-stay',
+              title: "USJハロウィーン・ホラー・ナイト！ストリート・ゾンビ＆狂乱のゾンビデダンス・昼はポケモンフェス＆パーク直結・展望天然温泉名宿",
+              desc: "夜のパークに凶悪ゾンビが徘徊！Adoの楽曲に合わせて群衆が狂乱するゾンビ・デ・ダンスと本格ホラーメイズ。昼はDJピカチュウと踊り、夜は地上110mの展望温泉やゲート前ホテルへ…",
+              badge: '9・10月特集'
+            },
+            {
+              slug: 'autumn-nagasaki-huistenbosch-halloween-illumination-hotels-stay',
+              title: "長崎ハウステンボス・ハロウィーン！ヨーロッパの街並みを包むカボチャランタン＆1300万球の光の王国・直営クラシック＆源泉温泉名宿",
+              desc: "レンガ造りの街並みと運河が黄金色の秋に染まる欧風ハロウィーン！世界最大1300万球が輝く光の王国イルミネーションと秋花火。専用クルーザーでチェックインする最高峰クラシックホテル…",
+              badge: '9・10月特集'
+            },
+            {
+              slug: 'autumn-kanagawa-yokohama-yamate-western-hall-halloween-minatomirai-hotels-stay',
+              title: "横浜山手西洋館ハロウィーン！歴史ある異人館7館の本格装飾と港の見える丘公園の秋バラ・大観覧車夜景＆クラシック名門・ベイサイド名宿",
+              desc: "山手の丘の洋館7館が魅せる一流のハロウィーンアート！深紅に咲き誇る秋バラとハロウィーンウォーク。昭和2年開業の名門ニューグランドや全室バルコニー付き絶景ホテルで大人の秋ステイ…",
+              badge: '10月特集'
+            },
+            {
+              slug: 'autumn-mie-shima-spain-village-halloween-fiesta-resort-hotels-stay',
+              title: "志摩スペイン村・ハロウィーンフィエスタ！巨大モンスターパンプキン＆白壁の街並み・本場魚介パエリャ＆美肌温泉ひまわりの湯名宿",
+              desc: "マヨール広場を埋め尽くすカボチャと陽気なスペイン風ハロウィーン！限定パレードと本格フラメンコ、大鍋パエリャ。パーク直結アンダルシア風ホテルや英虞湾一望の美肌天然温泉リゾート…",
+              badge: '9・10月特集'
+            },
+            {
               slug: 'winter-yamanashi-minobusan-kuonji-hatsumode-shimobe-onsen-yuba-stay',
               title: "身延山久遠寺＆下部温泉！日蓮宗総本山「身延山久遠寺」白銀の奥之院思親閣新春初詣と三門・千本杉・名物身延湯葉会席＆信玄隠し湯「下部温泉」ぬる湯治名宿",
               desc: "標高1153mの山頂から仰ぐ雪化粧の富士山と駿河湾大パノラマ！750年の歴史息づく日蓮宗総本山で迎える厳かな新春初詣。滋味豊かな身延山ゆば会席と、信玄公の隠し湯「下部温泉」で楽しむ温冷交互浴…",
