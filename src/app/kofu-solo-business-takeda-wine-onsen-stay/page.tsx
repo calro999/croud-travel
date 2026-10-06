@@ -48,6 +48,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"甲府駅周辺で天然温泉大浴場とサウナに入れるホテルは？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉 甲斐路の湯 ドーミーイン甲府」は最上階に天然温泉大浴場、高温サウナ、水風呂を完備。天気が良ければ富士山を望むこともできます。"}},{"@type":"Question","name":"駅前直近で最も立地が良く新しいホテルはどこですか？","acceptedAnswer":{"@type":"Answer","text":"「城のホテル甲府」はJR甲府駅南口から徒歩約1分。甲府城跡の真横に位置し、最上階の温泉大浴場や山梨県産食材にこだわった朝食が好評です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【甲府出張・信玄公の城下町】天然温泉甲斐路の湯・甲府城天守台・甲州ワイン＆名物ほうとう！武田の杜でととのう厳選3宿","item":"https://croud-travel.pages.dev/kofu-solo-business-takeda-wine-onsen-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

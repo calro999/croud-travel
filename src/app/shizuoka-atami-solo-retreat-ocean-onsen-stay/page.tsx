@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅でプライベートに貸切温泉を楽しめる熱海の宿は？","acceptedAnswer":{"@type":"Answer","text":"「貸切温泉のコンドミニアム グランビュー熱海」は熱海駅徒歩圏内。屋上展望露天風呂などを無料で貸切利用でき、一人旅に大人気です。"}},{"@type":"Question","name":"サンビーチや花火大会を見るのに最適なロケーションの宿は？","acceptedAnswer":{"@type":"Answer","text":"「熱海温泉 ホテルサンミ倶楽部 別館」は熱海港・サンビーチの目の前に位置し、相模湾のパノラマビューを客室や大浴場から楽しめます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【熱海温泉ひとり旅・海一望おこもり】相模湾オーシャンビュー・貸切源泉露天・熱海海上花火！昭和レトロと絶景リゾート厳選3宿","item":"https://croud-travel.pages.dev/shizuoka-atami-solo-retreat-ocean-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

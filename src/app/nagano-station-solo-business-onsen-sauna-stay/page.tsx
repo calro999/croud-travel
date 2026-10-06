@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"長野駅前で温泉とサウナの評価が最も高いビジネスホテルは？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉 善光の湯 ドーミーイン長野」は長野駅善光寺口徒歩約1分。最上階に天然温泉大浴場、露天風呂、サウナ、夜鳴きそばを完備しています。"}},{"@type":"Question","name":"長野駅近くで白馬温泉の引き湯に入れる宿は？","acceptedAnswer":{"@type":"Answer","text":"「アイランドホテル 天然温泉 白馬の湯」は長野駅徒歩約5分。北アルプス白馬から直送される良質な天然温泉大浴場を備えています。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【長野駅前出張・天然温泉サウナ】北陸新幹線・善光寺門前町・天然温泉善光の湯！信州の山並みを仰ぐ厳選3宿","item":"https://croud-travel.pages.dev/nagano-station-solo-business-onsen-sauna-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

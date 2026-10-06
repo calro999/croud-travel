@@ -47,6 +47,10 @@ export default function FurusatoWaModernTwinBedStayPage() {
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「黒川温泉 旅館湯本荘」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「黒川温泉 旅館湯本荘」へは、大分道日田ＩＣから小国方面へ車で５０分。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「黒川温泉 旅館湯本荘」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「黒川温泉 旅館湯本荘」は『温泉街、川沿いに建つレトロなお宿。源泉掛け流しの露天風呂他に家族湯が３つ。夕食は素材豊かな』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「黒川温泉 旅館湯本荘」と「季の湯 雪月花」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
       <div className="max-w-5xl mx-auto">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
 

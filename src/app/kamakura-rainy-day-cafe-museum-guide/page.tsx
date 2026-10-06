@@ -201,6 +201,10 @@ export default function KamakuraRainyDayCafeMuseumPage() {
 
       {/* メインコンテンツ */}
       <main className="max-w-4xl mx-auto px-4 sm:px-6 mt-14 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「しっとり濡れる古刹・小町通りアーケード・新江ノ島水族館デート」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
+      />
         {/* セクション1: 3大エリア別 雨の日の過ごし方 */}
         <section className="space-y-6">
           <div className="border-b border-indigo-800/80 pb-3">

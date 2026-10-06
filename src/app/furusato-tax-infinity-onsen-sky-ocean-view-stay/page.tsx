@@ -42,6 +42,10 @@ export default function Page() {
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「稲取温泉 石花海」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「稲取温泉 石花海」へは、伊豆稲取駅より徒歩にて１５分／お車にて５分。最寄りの伊豆稲取駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「稲取温泉 石花海」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「稲取温泉 石花海」は『★プロが認定★伊豆の絶景温泉宿に石花海が選ばれました！最上階から望む絶景をぜひお楽しみくだ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「稲取温泉 石花海」と「絶景温泉と魚介満腹の宿 稲取東海ホテル湯苑」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
       <div className="max-w-5xl mx-auto">
         {/* パンくずリスト */}
         <nav className="text-xs md:text-sm text-stone-500 mb-6 flex items-center gap-2 flex-wrap">

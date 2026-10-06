@@ -49,6 +49,14 @@ export default function FurusatoArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「有馬温泉 兵衛向陽閣」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「有馬温泉 兵衛向陽閣」へは、神戸より電車で約３０分／神戸電鉄有馬温泉駅・バス有馬温泉駅より徒歩約６分／阪神高速道路北神戸線有馬口出口より約５分。最寄りの有馬温泉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「有馬温泉 兵衛向陽閣」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「有馬温泉 兵衛向陽閣」は『創業700年の老舗旅館。有馬温泉の高台に位置し、有���最大級の悠々とした三大浴場でお寛ぎ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「有馬温泉 兵衛向陽閣」と「有馬温泉 欽山」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【有馬温泉×ふるさと納税】金泉・銀泉のダブル湯巡り＆極上神戸牛！老舗名門宿特集｜兵衛向陽閣・欽山・中の坊瑞苑","item":"https://croud-travel.pages.dev/furusato-tax-arima-onsen-gold-silver-kobe-beef-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

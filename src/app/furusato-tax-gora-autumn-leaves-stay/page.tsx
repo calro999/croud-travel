@@ -44,6 +44,10 @@ export default function FeatureArticlePage() {
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「季の湯 雪月花」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「季の湯 雪月花」へは、箱根登山鉄道 強羅駅より徒歩1分 彫刻の森まで1駅、強羅公園まで徒歩約10分と観光スポットへのアクセスも良好！。最寄りの強羅駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「季の湯 雪月花」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「季の湯 雪月花」は『強羅駅前に位置し、全客室１５８室に露天風呂をご用意、温泉は源泉かけ流しをお愉しめる宿。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「季の湯 雪月花」と「強羅温泉 自家源泉掛け流しの宿 強羅環翠楼」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
       {/* パンくずナビ */}
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:text-stone-800 underline">ホーム</Link>

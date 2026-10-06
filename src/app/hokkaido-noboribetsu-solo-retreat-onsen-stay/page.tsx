@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で登別を代表する伝統と名湯を味わえる宿は？","acceptedAnswer":{"@type":"Answer","text":"「登別温泉 登別グランドホテル」は『登別の迎賓館』と称される老舗。優雅なローマ風大浴場と本格サウナ、名湯が揃い一人旅にも最適です。"}},{"@type":"Question","name":"静かで落ち着いた雰囲気の旅館で白濁の湯を楽しみたい時は？","acceptedAnswer":{"@type":"Answer","text":"「登別温泉 滝乃家別館 玉乃湯」は全24室の落ち着いた隠れ家。良質な硫黄泉濁り湯と手打ちそばや囲炉裏会席がソロ旅に大人気です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【登別温泉ひとり旅・地獄谷名湯おこもり】硫黄泉・食塩泉・白濁濁り湯！北海道一の巨大温泉郷で圧倒的湯巡りを満喫する厳選3宿","item":"https://croud-travel.pages.dev/hokkaido-noboribetsu-solo-retreat-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

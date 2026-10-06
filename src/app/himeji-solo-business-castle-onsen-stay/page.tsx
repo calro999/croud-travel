@@ -48,6 +48,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"姫路駅から姫路城までは歩いて行けますか？","acceptedAnswer":{"@type":"Answer","text":"姫路駅北口から大手前通りをまっすぐ歩いて約15〜20分です。駅前広場から城が正面に見えており、100円の市内循環バスも頻発しています。"}},{"@type":"Question","name":"新幹線の姫路駅は「のぞみ」も停まりますか？","acceptedAnswer":{"@type":"Answer","text":"はい、姫路駅は「のぞみ」の一部列車や「ひかり」「さくら」「こだま」が停車し、東京・新大阪・博多方面へ乗り換えなしで直結しています。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【姫路出張＆世界遺産ひとり旅】姫路城ビュー・姫路駅直結・天然温泉サウナ！名物穴子めしと播磨の地酒を味わう名宿 厳選3選","item":"https://croud-travel.pages.dev/himeji-solo-business-castle-onsen-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

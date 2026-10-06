@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"伊香保で絶景の屋上露天風呂に入れる一人旅おすすめ宿は？","acceptedAnswer":{"@type":"Answer","text":"「伊香保温泉 和心の宿 大森」は屋上露天風呂からの上州の山並みパノラマビューが自慢。心温まるおもてなしで一人旅に大人気です。"}},{"@type":"Question","name":"「黄金の湯」と「白銀の湯」の両方に入れる歴史ある名宿は？","acceptedAnswer":{"@type":"Answer","text":"「伊香保温泉 福一」は創業440余年の老舗で、伊香保の2大名湯をどちらも完備。贅沢な大人のソロ滞在に最適です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【伊香保温泉ひとり旅・石段街おこもり】黄金の湯・白銀の湯・屋上絶景露天！レトロな石段街で情緒と癒やしを味わう厳選3宿","item":"https://croud-travel.pages.dev/gunma-ikaho-solo-retreat-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

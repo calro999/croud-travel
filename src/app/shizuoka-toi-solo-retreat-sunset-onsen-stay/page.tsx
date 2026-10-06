@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で口コミ評価が極めて高く、静かな隠れ家空間で過ごせる土肥の宿は？","acceptedAnswer":{"@type":"Answer","text":"「西伊豆土肥温泉 和の匠 花暖簾」は楽天口コミ★4.7超。わずか5室の贅沢な小宿で、専用貸切露天風呂と手の込んだ板前料理が一人旅に大絶賛されています。"}},{"@type":"Question","name":"全館畳敷きの心地よさと海辺の絶景露天風呂を味わうなら？","acceptedAnswer":{"@type":"Answer","text":"「土肥温泉 たたみの宿 湯の花亭」はお風呂の床まで畳が敷かれたユニークな名宿。素足の解放感と目の前に広がる駿河湾の波音に癒やされます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【西伊豆・土肥温泉ひとり旅・駿河湾茜色夕日おこもり】全館畳敷き露天風呂・駿河湾地魚舟盛り・黄金の湯治場！駿河湾フェリーで行く西海岸厳選3宿","item":"https://croud-travel.pages.dev/shizuoka-toi-solo-retreat-sunset-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

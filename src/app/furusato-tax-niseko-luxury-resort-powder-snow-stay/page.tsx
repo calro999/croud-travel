@@ -49,6 +49,14 @@ export default function FurusatoArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「パークハイアットニセコＨＡＮＡＺＯＮＯ」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「パークハイアットニセコＨＡＮＡＺＯＮＯ」へは、倶知安駅よりお車にて約１０分。最寄りの倶知安駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「パークハイアットニセコＨＡＮＡＺＯＮＯ」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「パークハイアットニセコＨＡＮＡＺＯＮＯ」は『2024年10月販売開始予定 最高峰のラグジュアリーマウンテンリゾート』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「パークハイアットニセコＨＡＮＡＺＯＮＯ」では季節ごとに異なる宿泊プランや料理プランが用意されています。ご旅行の人数や滞在スタイルに合わせて最適なプランをお選びいただけます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【ニセコ×ふるさと納税】世界最高峰パウダースノー＆ラグジュアリーステイ！羊蹄山ビュー名門ホテル特集｜パークハイアット・雪ニセコ・坐忘林","item":"https://croud-travel.pages.dev/furusato-tax-niseko-luxury-resort-powder-snow-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

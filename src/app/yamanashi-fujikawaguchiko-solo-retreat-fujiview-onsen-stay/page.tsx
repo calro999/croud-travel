@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で富士山を一望する屋上足湯や展望露天風呂を満喫できる宿は？","acceptedAnswer":{"@type":"Answer","text":"「富士河口湖温泉 湖南荘」は屋上展望足湯や大浴場から富士山と河口湖を見晴らすことができ、楽天口コミ★4.7超。至高の富士山リトリートに最適です。"}},{"@type":"Question","name":"モダンで落ち着いた空間で湖と富士山の絶景を楽しみたいなら？","acceptedAnswer":{"@type":"Answer","text":"「富士河口湖温泉 湖のホテル」は高台に位置し、全室から河口湖と富士山を一望。スタイリッシュな館内と温泉露天風呂が一人旅に大好評です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【富士山麓・富士河口湖温泉ひとり旅・富士絶景おこもり】屋上展望足湯・富士ビュー露天風呂・甲州牛懐石！新宿特急直通の絶景リトリート厳選3宿","item":"https://croud-travel.pages.dev/yamanashi-fujikawaguchiko-solo-retreat-fujiview-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

@@ -151,6 +151,14 @@ export default function FeaturePage() {
       </nav>
 
       <main className="max-w-5xl mx-auto px-4 py-8 md:py-12 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「那須温泉 ホテルサンバレー那須」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「那須温泉 ホテルサンバレー那須」へは、那須塩原駅西口よりホテルまで無料バスにて約40分 要予約 、東北自動車道那須ICより「那須街道」を湯本方面へ約20分。最寄りの黒磯駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「那須温泉 ホテルサンバレー那須」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「那須温泉 ホテルサンバレー那須」は『那須高原の中腹に9の宿泊施設がある北関東最大級の温泉リゾートホテル♪夏休みは温泉プールも営』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「那須温泉 ホテルサンバレー那須」では季節ごとに異なる宿泊プランや料理プランが用意されています。ご旅行の人数や滞在スタイルに合わせて最適なプランをお選びいただけます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【爽快アクティビティ】森と渓谷を空中滑走ジップライン！自然体験＆温泉が楽しめる大自然リゾート宿5選","item":"https://croud-travel.pages.dev/super-panoramic-canyon-zip-line-adventure-stay"}]}) }}
+      />
         {/* Intro */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">

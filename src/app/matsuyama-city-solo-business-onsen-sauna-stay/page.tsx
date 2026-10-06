@@ -47,6 +47,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「サウナ＆スパホテル 喜助の宿 松山駅前店」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「サウナ＆スパホテル 喜助の宿 松山駅前店」へは、ＪＲ 松山駅より徒歩約３分。最寄りの松山（愛媛）駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「サウナ＆スパホテル 喜助の宿 松山駅前店」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「サウナ＆スパホテル 喜助の宿 松山駅前店」は『サウナランキング2023で日本１位を受賞した5つのサウナと地下1,700ｍから湧き出た天然』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「サウナ＆スパホテル 喜助の宿 松山駅前店」では季節ごとに異なる宿泊プランや料理プランが用意されています。ご旅行の人数や滞在スタイルに合わせて最適なプランをお選びいただけます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【松山出張・極上サウナ天然温泉】道後温泉引き湯・サウナシュラン新名所・大街道グルメ！四国最大の都を極める厳選3宿","item":"https://croud-travel.pages.dev/matsuyama-city-solo-business-onsen-sauna-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

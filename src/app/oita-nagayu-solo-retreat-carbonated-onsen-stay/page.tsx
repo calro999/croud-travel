@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で極上の料理と静寂の隠れ家空間を味わえる長湯の宿は？","acceptedAnswer":{"@type":"Answer","text":"「長湯温泉 丸長旅館」は客室わずか6室、楽天口コミ★4.8超。上品な会席料理と手入れの行き届いた温泉が一人旅の宿泊者から絶賛されています。"}},{"@type":"Question","name":"歴史ある老舗宿で芹川の眺望と外湯巡りを楽しむなら？","acceptedAnswer":{"@type":"Answer","text":"「長湯温泉 大丸旅館」は創業百余年、川端康成も逗留した名門。宿泊者はラムネ温泉館に無料で入浴できる特典もあり、一人旅に大好評です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【竹田・長湯温泉ひとり旅・世界屈指の高濃度炭酸泉おこもり】ラムネ温泉館・芹川せせらぎ露天・豊後牛＆エノハ料理！くじゅう連山山麓厳選3宿","item":"https://croud-travel.pages.dev/oita-nagayu-solo-retreat-carbonated-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

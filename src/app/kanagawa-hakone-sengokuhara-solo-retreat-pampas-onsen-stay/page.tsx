@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で究極の美食と客室温泉をラグジュアリーに楽しむなら？","acceptedAnswer":{"@type":"Answer","text":"「THE HIRAMATSU HOTELS & RESORTS 仙石原」は全室に源泉かけ流し温泉風呂を完備。最高峰のフランス料理と細やかなサービスで極上のおこもりが叶います。"}},{"@type":"Question","name":"歴史ある白濁の露天風呂と落ち着いた和の空間を求めるなら？","acceptedAnswer":{"@type":"Answer","text":"「仙石原温泉 仙郷楼」は創業明治の老舗。大涌谷から引く白濁の濁り湯露天風呂と、四季折々の庭園美が一人旅の心を潤します。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【箱根仙石原温泉ひとり旅・ススキ草原白濁おこもり】黄金色のススキ・大涌谷引湯白濁露天・極上フレンチ！標高700mの高原アートリゾート厳選3宿","item":"https://croud-travel.pages.dev/kanagawa-hakone-sengokuhara-solo-retreat-pampas-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

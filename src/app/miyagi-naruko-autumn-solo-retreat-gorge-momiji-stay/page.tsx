@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で本格的な湯治体験と上質な貸切露天風呂を楽しめる宿は？","acceptedAnswer":{"@type":"Answer","text":"「旅館大沼」は現代湯治を提案する名宿。離れの貸切露天「母里の湯」は庭園の紅葉に囲まれ、一人旅の極上の癒やしとして大人気です。"}},{"@type":"Question","name":"鳴子峡の紅葉のベストシーズンと混雑対策は？","acceptedAnswer":{"@type":"Answer","text":"例年10月中旬〜11月上旬が見頃です。週末の日中は周辺道路が混雑するため、平日の午前中や早朝の訪問がスムーズでおすすめです。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【10月・11月秋の宮城鳴子温泉ひとり旅・鳴子峡の錦秋大渓谷と日本一多彩な泉質おこもり】貸切庭園露天・重曹美肌湯・黒毛和牛！みちのく湯治リトリート厳選3宿","item":"https://croud-travel.pages.dev/miyagi-naruko-autumn-solo-retreat-gorge-momiji-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

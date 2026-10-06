@@ -156,6 +156,10 @@ export default function OkinawaPackingMistakesGuidePage() {
 
       {/* メインコンテンツ */}
       <main className="max-w-4xl mx-auto px-4 sm:px-6 pt-12 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「本州の3倍の紫外線で大火傷！？レンタカー返却渋滞＆必須持ち物」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
+      />
         {/* ⚠️ 後悔ワースト5 詳細解説 */}
         <section className="space-y-8">
           <div className="border-b border-cyan-800/60 pb-4 space-y-1">

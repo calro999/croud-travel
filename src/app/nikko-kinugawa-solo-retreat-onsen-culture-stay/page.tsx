@@ -48,6 +48,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"鬼怒川温泉で一人旅でも最高の食事と温泉を楽しめる宿は？","acceptedAnswer":{"@type":"Answer","text":"「鬼怒川温泉 あさや」は一人旅プランも設定されており、100種以上の豪華バイキングや渓谷を見下ろす空中庭園露天風呂を堪能できます。"}},{"@type":"Question","name":"日光東照宮周辺で歴史や建築の雰囲気を味わいたいなら？","acceptedAnswer":{"@type":"Answer","text":"「日光金谷ホテル」は現存する日本最古のクラシックリゾートホテル。アインシュタインやヘレン・ケラーも宿泊した重厚な空間で特別な時間を過ごせます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【日光・鬼怒川ひとり旅・極上おこもり】空中庭園露天風呂・日光東照宮参道の名湯・現存最古のリゾートクラシック！渓谷と歴史の厳選3宿","item":"https://croud-travel.pages.dev/nikko-kinugawa-solo-retreat-onsen-culture-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

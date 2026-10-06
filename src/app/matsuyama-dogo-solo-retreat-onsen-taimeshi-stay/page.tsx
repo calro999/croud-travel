@@ -48,6 +48,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"松山空港から道後温泉や市内中心部へのアクセスはどうですか？","acceptedAnswer":{"@type":"Answer","text":"松山空港から道後温泉直行リムジンバスが運行しており、大街道まで約30分、道後温泉前まで約40分でスムーズに直行できます。"}},{"@type":"Question","name":"一人で入りやすい鯛めし専門店はありますか？","acceptedAnswer":{"@type":"Answer","text":"道後温泉本館前や大街道周辺には「かどや」や「丸水（がんすい）」などの有名店があり、カウンター席で一人でも気兼ねなく二大鯛めしを味わえます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【松山・道後温泉ひとり旅】日本最古の名湯・坊っちゃん湯・松山城・絶品鯛めし！文学と名湯に浸る大人のおこもり宿 厳選3選","item":"https://croud-travel.pages.dev/matsuyama-dogo-solo-retreat-onsen-taimeshi-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

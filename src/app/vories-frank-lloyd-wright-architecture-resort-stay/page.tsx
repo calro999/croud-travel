@@ -42,6 +42,10 @@ export default function Page() {
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ビジネス旅館 長栄荘」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ビジネス旅館 長栄荘」へは、近江鉄道線 大学前駅より徒歩にて１０分／名神八日市ＩＣより１０分、蒲生スマートＩＣより5分 無料駐車場。最寄りの大学前（滋賀）駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ビジネス旅館 長栄荘」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ビジネス旅館 長栄荘」は『驚きのコスパ！美味しい料理に、大浴場、Wi-Fi環境、大型車駐車場。出張、合宿に是非！』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ビジネス旅館 長栄荘」と「サラ エスタシオン 彦根」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
       <div className="max-w-5xl mx-auto">
         {/* パンくずリスト */}
         <nav className="text-xs md:text-sm text-stone-500 mb-6 flex items-center gap-2 flex-wrap">

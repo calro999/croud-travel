@@ -48,6 +48,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"松本駅から美ヶ原温泉や上高地への移動はどうですか？","acceptedAnswer":{"@type":"Answer","text":"美ヶ原温泉へは松本駅前バスターミナルから路線バスで約20分（翔峰等の無料送迎あり）。上高地へは松本電鉄上高地線とシャトルバスで約1時間半でアクセスできます。"}},{"@type":"Question","name":"一人で入りやすい信州蕎麦や居酒屋はありますか？","acceptedAnswer":{"@type":"Answer","text":"駅前や中町通り、なわて通り周辺の蕎麦店（野麦、弁天、みよ田など）は一人客が非常に多く、カウンター席で気軽に手打ち蕎麦や蕎麦前を楽しめます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【松本ひとり旅・民芸おこもり】国宝松本城・民芸家具クラシック・美ヶ原温泉！北アルプスの麓で心を整える名宿 厳選3選","item":"https://croud-travel.pages.dev/matsumoto-solo-retreat-mingei-onsen-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

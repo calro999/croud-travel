@@ -172,6 +172,10 @@ export default function Page() {
 
       {/* メインコンテンツ */}
       <main className="max-w-4xl mx-auto px-4 py-8 space-y-10">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【2026年】日本の夕陽百選を独占！茜色の海と水平線に沈む夕日を望むオーシャンヴィラ5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/super-panoramic-sunset-coastal-cliff-villa"}]}) }}
+      />
         
         {/* クーポンバナー */}
         <SpecialCouponBanner />

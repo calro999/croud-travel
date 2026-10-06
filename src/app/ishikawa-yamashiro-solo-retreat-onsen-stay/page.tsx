@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で料理の美味しいアットホームな山代の宿は？","acceptedAnswer":{"@type":"Answer","text":"「山代温泉 料理自慢の宿 ホテルききょう」は料理評価が非常に高く、板前が腕を振るう旬の加賀会席を一人旅でも贅沢に楽しめます。"}},{"@type":"Question","name":"木のぬくもりと良質な源泉を楽しめるおすすめ宿は？","acceptedAnswer":{"@type":"Answer","text":"「山代温泉 葉渡莉」は檜の香り漂う大浴場と和の落ち着いた空間が評判。湯の曲輪にも近く散策に最適なロケーションです。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【山代温泉ひとり旅・加賀百万石おこもり】総湯・古総湯・加賀橋立港の海の幸！千三百年続く加賀温泉郷の歴史と美湯に浸る厳選3宿","item":"https://croud-travel.pages.dev/ishikawa-yamashiro-solo-retreat-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

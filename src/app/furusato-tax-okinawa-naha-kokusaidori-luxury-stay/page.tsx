@@ -49,6 +49,14 @@ export default function FurusatoArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ハイアットリージェンシー那覇沖縄」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ハイアットリージェンシー那覇沖縄」へは、那覇空港から車で約20分、ゆいレール「牧志駅」から徒歩8分 、国際通りまで徒歩3分。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「ハイアットリージェンシー那覇沖縄」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ハイアットリージェンシー那覇沖縄」は『国際通り徒歩圏内、洗練された空間と心地よいおもてなしで上質な滞在を』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ハイアットリージェンシー那覇沖縄」と「ホテルコレクティブ」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【沖縄・那覇×ふるさと納税】国際通りの活気＆屋外プールリゾート！天然温泉スパ特集｜ハイアット那覇・コレクティブ・ロワジールスパタワー","item":"https://croud-travel.pages.dev/furusato-tax-okinawa-naha-kokusaidori-luxury-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

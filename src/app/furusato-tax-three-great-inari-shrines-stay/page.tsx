@@ -183,6 +183,10 @@ export default function Page() {
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「アーバンホテル京都」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「アーバンホテル京都」へは、車：京都南ＩＣ5分、京都駅10分 電車：JR稲荷10分、京阪龍谷大前深草5分、地下鉄くいな橋12分 バス龍谷大学前3分。最寄りの京都駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「アーバンホテル京都」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「アーバンホテル京都」は『伏見稲荷徒歩約10分／Wi-Fi完備／Ｐ有（先着順・大型要予約）／全室禁煙（1階喫煙スペー』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「アーバンホテル京都」と「豊川グランドホテル」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
         
         {/* 特集の魅力セクション */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80">

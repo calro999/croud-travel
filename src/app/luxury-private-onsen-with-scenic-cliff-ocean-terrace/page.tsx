@@ -151,6 +151,14 @@ export default function FeaturePage() {
       </nav>
 
       <main className="max-w-5xl mx-auto px-4 py-8 md:py-12 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「絶景露天風呂と７つの貸切風呂の大人宿 旅館 山翠」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「絶景露天風呂と７つの貸切風呂の大人宿 旅館 山翠」へは、大分道九重ＩＣよりＲ３８７経由、小国方面へ３０分。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「絶景露天風呂と７つの貸切風呂の大人宿 旅館 山翠」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「絶景露天風呂と７つの貸切風呂の大人宿 旅館 山翠」は『都会の喧騒を忘れたい 絶景露天・漁師直送海鮮と山の幸を腹イッパイ御堪能。。山翠は大人限定の』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「絶景露天風呂と７つの貸切風呂の大人宿 旅館 山翠」と「絶景掛け流しの宿 熱海月右衛門」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【断崖絶壁オーシャンテラス】荒波と水平線を一望するプライベート温泉！伊豆・南紀の絶景隠れ宿5選","item":"https://croud-travel.pages.dev/luxury-private-onsen-with-scenic-cliff-ocean-terrace"}]}) }}
+      />
         {/* Intro */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">

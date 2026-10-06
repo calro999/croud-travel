@@ -180,6 +180,10 @@ export default function Page() {
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「太良嶽温泉ホテル 蟹御殿」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「太良嶽温泉ホテル 蟹御殿」へは、武雄北方ＩＣ車で６０分（４９８号線を鹿島方面に２０７号線を諫早方面に）・長崎本線肥前大浦駅より無料送迎有 要予約。最寄りの肥前大浦駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「太良嶽温泉ホテル 蟹御殿」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「太良嶽温泉ホテル 蟹御殿」は『竹崎蟹、サウナ、有明海の絶景を楽しめる新客室。非日常な景色で心身を開放するプレミアムリゾー』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「太良嶽温泉ホテル 蟹御殿」と「雲仙温泉 名湯の宿 雲仙いわき旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
         
         {/* 特集の魅力セクション */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80">

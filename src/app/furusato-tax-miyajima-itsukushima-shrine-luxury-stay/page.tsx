@@ -49,6 +49,14 @@ export default function FurusatoArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「宮島潮湯温泉 錦水館」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「宮島潮湯温泉 錦水館」へは、宮島口駅よりフェリーで約10分。最寄りの宮島口駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「宮島潮湯温泉 錦水館」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「宮島潮湯温泉 錦水館」は『★2025年、温泉付スイートOPEN！●ルーフトップテラス・半露天風呂付客室・お部屋食プラ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「宮島潮湯温泉 錦水館」と「みやじまの宿 岩惣」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【宮島・厳島神社×ふるさと納税】世界遺産の大鳥居と潮湯温泉！瀬戸内名物牡蠣・穴子会席特集｜錦水館・岩惣・有もと","item":"https://croud-travel.pages.dev/furusato-tax-miyajima-itsukushima-shrine-luxury-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

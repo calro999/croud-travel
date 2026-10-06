@@ -151,6 +151,14 @@ export default function FeaturePage() {
       </nav>
 
       <main className="max-w-5xl mx-auto px-4 py-8 md:py-12 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「湯田温泉 西の雅 常盤」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「湯田温泉 西の雅 常盤」へは、ＪＲ山口線湯田温泉駅より徒歩約10分／中国自動車道小郡ＩＣより約10km（約12分）/宇部空港よりバスで60分。最寄りの湯田温泉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「湯田温泉 西の雅 常盤」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「湯田温泉 西の雅 常盤」は『おかげさまで創業90周年♪ TVで話題の 女将劇場 連日開催中！』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「湯田温泉 西の雅 常盤」と「湯田温泉 松田屋ホテル」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【冬の味覚の王様・下関天然とらふぐ】てっさ・てっちり・白子焼き！山口名湯宿5選","item":"https://croud-travel.pages.dev/winter-shimonoseki-fugu-torafugu-luxury-stay"}]}) }}
+      />
         {/* Intro */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">

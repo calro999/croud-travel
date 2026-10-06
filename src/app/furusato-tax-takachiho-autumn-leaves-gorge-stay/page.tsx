@@ -45,6 +45,10 @@ export default function FurusatoTakachihoAutumnLeavesGorgeStayPage() {
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「高千穂 旅館 神仙」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「高千穂 旅館 神仙」へは、高千穂バスセンターよりタクシーで５分／九州自動車道 松橋ＩＣより車で約１００分。最寄りの高千穂駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「高千穂 旅館 神仙」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「高千穂 旅館 神仙」は『＜クチコミ総合4.8＞最高の心のおもてなしと至福のひと時』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「高千穂 旅館 神仙」と「旅館 大和屋」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
       {/* パンくずナビ */}
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:text-stone-800 underline">ホーム</Link>

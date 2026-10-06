@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で草津の湯畑に近く、貸切風呂がある宿は？","acceptedAnswer":{"@type":"Answer","text":"「草津温泉 湯の宿 みさご」は湯畑徒歩2分。草津の良質な源泉を貸切風呂で気兼ねなく堪能でき、一人旅プランも大好評です。"}},{"@type":"Question","name":"洗練されたモダンな空間で静かに過ごしたい時は？","acceptedAnswer":{"@type":"Answer","text":"「草津温泉 湯畑泉水」は湯畑至近に位置しながら落ち着いた和モダン空間が広がり、大人のソロリトリートに最適です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【草津温泉ひとり旅・名湯おこもり】湯畑源泉かけ流し・貸切風呂・上州和牛！日本三名泉の湯ヂカラに浸る贅沢ソロ温泉厳選3宿","item":"https://croud-travel.pages.dev/gunma-kusatsu-solo-retreat-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

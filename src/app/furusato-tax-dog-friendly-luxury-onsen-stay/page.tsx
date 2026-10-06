@@ -47,6 +47,10 @@ export default function FurusatoDogFriendlyLuxuryStayPage() {
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「別邸 石の家 伊豆高原 ペットと泊まれる全室露天付き客室の宿」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「別邸 石の家 伊豆高原 ペットと泊まれる全室露天付き客室の宿」へは、小田原厚木道路石橋ＩＣ・東名沼津ＩＣより約９０分／伊豆急・伊豆高原駅よりタクシーで５分。最寄りの伊豆高原駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「別邸 石の家 伊豆高原 ペットと泊まれる全室露天付き客室の宿」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「別邸 石の家 伊豆高原 ペットと泊まれる全室露天付き客室の宿」は『全室お部屋食対応のペットと泊まれるホテル。全室露天風呂付客室。ペット料1頭目無料。犬以外も』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「別邸 石の家 伊豆高原 ペットと泊まれる全室露天付き客室の宿」と「那須温泉 ホテルサンバレー那須」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
       <div className="max-w-5xl mx-auto">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
 

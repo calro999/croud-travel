@@ -48,6 +48,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"函館空港から市内ホテルへのアクセスはどうですか？","acceptedAnswer":{"@type":"Answer","text":"函館空港から函館駅・ベイエリア行きシャトルバスが運行しており約20〜25分で直結。湯の川温泉エリアへはタクシーで約8分と全国屈指の近さです。"}},{"@type":"Question","name":"一人で函館山夜景を見に行くのは混雑しますか？","acceptedAnswer":{"@type":"Answer","text":"ロープウェイは夕暮れ時混み合いますが、山頂展望台は広く一人旅の旅行者も多いため、気兼ねなく世界最高峰の夜景を鑑賞できます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【函館ひとり旅・美食ご褒美泊】朝食バイキング全国1位争い・インフィニティ天空温泉・赤レンガ倉庫！港町で癒やされる極上ホテル 厳選3選","item":"https://croud-travel.pages.dev/hakodate-solo-retreat-breakfast-onsen-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

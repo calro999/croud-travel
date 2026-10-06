@@ -47,6 +47,10 @@ export default function FurusatoStrawberryBuffetSweetsStayPage() {
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「那須温泉 ホテルエピナール那須」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「那須温泉 ホテルエピナール那須」へは、お車で 那須I.Cより10分、 JRで 東北新幹線・東北本線 那須塩原駅から無料シャトルバスで30分（要予約）。最寄りの那須塩原駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「那須温泉 ホテルエピナール那須」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「那須温泉 ホテルエピナール那須」は『地元の旬菜にこだわる食事＆施設充実のトップリゾート』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「那須温泉 ホテルエピナール那須」と「神戸ベイシェラトンホテル＆タワーズ」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
       <div className="max-w-5xl mx-auto">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
 

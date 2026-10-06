@@ -249,6 +249,14 @@ export default function HokkaidoKawayuPage() {
 
       {/* Main Content Area */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 space-y-16 mt-6">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"川湯温泉の泉質の特徴と、pH1.7の強酸性泉に入浴する際の注意点は？","acceptedAnswer":{"@type":"Answer","text":"川湯温泉は活火山・硫黄山（アトサヌプリ）の地下熱源から湧き出るpH1.7〜1.9の強酸性・含硫黄・鉄-ナトリウム-塩化物・硫酸塩温泉です。高い殺菌力と古い角質を溶かすピーリング作用があり、慢性皮膚病や神経痛、冷え性に絶大な効果があります。ただし酸性度が極めて強いため、目に入ると強い痛みを感じます。顔を洗う際は真水を使用し、傷口がある場合はピリピリとしみる点にご留意ください。また、銀や銅のアクセサリーは一瞬で黒変するため入浴前に必ず外し、肌の弱い方は入浴後にシャワーで軽く洗い流すことをおすすめします。"}},{"@type":"Question","name":"11月・12月の川湯温泉・屈斜路湖・摩周湖エリアの気温や積雪状況、冬道運転の注意点は？","acceptedAnswer":{"@type":"Answer","text":"11月中旬以降、道東エリアは氷点下の真冬日が増加し、12月には最高気温でもマイナス2〜5℃、夜間はマイナス10〜15℃以下まで冷え込みます。路面は完全に圧雪・アイスバーン状態となります。車で訪れる場合は、4WD車に高性能スタッドレスタイヤの装着が絶対条件です。急発進・急ブレーキ・急ハンドルを避け、車間距離を通常の3倍以上確保してください。日没が16時前後と非常に早いため、日中の明るい時間に移動を完了する旅程を組むことが極めて重要です。運転に自信がない方は、JR釧網本線や女満別空港・釧路空港からの周遊定期観光バスの利用を検討してください。"}},{"@type":"Question","name":"屈斜路湖の白鳥飛来時期や、初冬の観光見どころを教えてください。","acceptedAnswer":{"@type":"Answer","text":"屈斜路湖の「砂湯」や「コタン温泉」周辺には、例年10月下旬からシベリアからのオオハクチョウが飛来し始め、11月から12月にかけて数百羽の群れが集まります。砂浜を数センチ掘るだけで温泉が湧き出すため、凍結しない湖面で白鳥たちが湯けむりに包まれて羽を休める姿は、世界でもここだけの神秘的な絶景です。また、摩周湖第一展望台から望む初冬の「摩周ブルー」と周囲の樹氷、硫黄山（アトサヌプリ）の真っ白な噴煙と黄色い硫黄結晶の景観も見逃せません。"}},{"@type":"Question","name":"初冬の川湯・道東エリアで絶対に食べるべき名物グルメは？","acceptedAnswer":{"@type":"Answer","text":"オホーツク海産の「毛ガニ」は冬に身が引き締まり、濃厚なカニ味噌が詰まった最高の旬を迎えます。茹でたてを丸ごと一杯味わう贅沢は道東ならでは。また、きめ細やかなサシと赤身の旨味が自慢の「十勝和牛」のステーキやすき焼き、肉厚なオホーツク産ホタテ、濃厚な北海シマエビ、知床産の寒鮭やイクラ丼も絶品です。さらに弟子屈町は摩周そば（キタワセソバ）の産地としても有名で、香り高い新そばを味わうのも大きな楽しみです。"}},{"@type":"Question","name":"女満別空港や釧路空港からのアクセスルートと所要時間は？","acceptedAnswer":{"@type":"Answer","text":"女満別空港からは、レンタカーまたはタクシーで美幌峠または小清水峠を経由して約1時間〜1時間15分。釧路空港からは釧路湿原を経由して車で約1時間30分〜1時間45分です。公共交通機関を利用する場合は、女満別空港から連絡バスでJR網走駅へ出て、JR釧網本線で「川湯温泉駅」へ向かうルート（トータル約2時間30分）、またはJR釧路駅から釧網本線で川湯温泉駅へ向かうルート（約1時間45分）があります。川湯温泉駅から温泉街までは路線バスで約10分です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月北海道・川湯温泉】pH1.7極上強酸性硫黄泉と！名宿5選","item":"https://croud-travel.pages.dev/winter-hokkaido-kawayu-onsen-mashu-kussharo-crab-stay"}]}) }}
+      />
 
         {/* Introduction Overview */}
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200 space-y-6">

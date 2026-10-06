@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅でも九湯めぐりの鍵は借りられますか？","acceptedAnswer":{"@type":"Answer","text":"はい、渋温泉の旅館に宿泊すると専用の合鍵が渡され、滞在中は9つすべての共同浴場に無料で何度でも入浴できます。"}},{"@type":"Question","name":"渋温泉で特に料理評価が高く落ち着いて過ごせる宿は？","acceptedAnswer":{"@type":"Answer","text":"「味乃宿 ふじや旅館」は楽天口コミ★4.88の超高評価。旬の信州食材を活かした創作懐石と木造の温もりが一人旅に絶大な支持を得ています。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【信州・渋温泉ひとり旅・石畳小路と九湯巡りおこもり】厄除巡浴外湯めぐり・登録有形文化財の街並み・信州牛朴葉味噌！レトロ温泉街厳選3宿","item":"https://croud-travel.pages.dev/nagano-shibu-solo-retreat-retro-kyutou-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

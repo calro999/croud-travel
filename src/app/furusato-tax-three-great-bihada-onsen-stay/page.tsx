@@ -183,6 +183,10 @@ export default function Page() {
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「嬉野温泉 和多屋別荘」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「嬉野温泉 和多屋別荘」へは、JR嬉野温泉駅から車で5分/長崎自動車道 嬉野ICより約5分。最寄りの武雄温泉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「嬉野温泉 和多屋別荘」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「嬉野温泉 和多屋別荘」は『嬉野WELL-BEING「河畔サウナ」「色写経」「創香室」等館内で体験できるアクティビティ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「嬉野温泉 和多屋別荘」と「奥出雲町サイクリングターミナル」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
         
         {/* 特集の魅力セクション */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80">

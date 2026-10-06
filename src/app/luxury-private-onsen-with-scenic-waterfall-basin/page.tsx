@@ -151,6 +151,14 @@ export default function FeaturePage() {
       </nav>
 
       <main className="max-w-5xl mx-auto px-4 py-8 md:py-12 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「栃木温泉 鮎返りの滝を望む宿 小山旅館」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「栃木温泉 鮎返りの滝を望む宿 小山旅館」へは、■熊本ICより：５７号線へ30分、新阿蘇大橋から5分 ■熊本空港より：40分。最寄りの立野（熊本）駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「栃木温泉 鮎返りの滝を望む宿 小山旅館」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「栃木温泉 鮎返りの滝を望む宿 小山旅館」は『源泉かけ流しの温泉につかり、白川水系の美しい鮎返りの滝と原生林を間近に眺められます。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「栃木温泉 鮎返りの滝を望む宿 小山旅館」と「会津東山温泉 くつろぎ宿 新滝」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【滝壺マイナスイオン】客室専用テラスから名瀑を望む！絶景滝見露天風呂の贅沢宿5選","item":"https://croud-travel.pages.dev/luxury-private-onsen-with-scenic-waterfall-basin"}]}) }}
+      />
         {/* Intro */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">

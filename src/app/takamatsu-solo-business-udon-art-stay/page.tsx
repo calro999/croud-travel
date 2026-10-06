@@ -48,6 +48,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"高松空港から高松駅や市内ホテルへのアクセスはどうですか？","acceptedAnswer":{"@type":"Answer","text":"高松空港から市内行きリムジンバスが飛行機の発着に合わせて運行しており、JR高松駅や瓦町駅まで約35〜45分で直行できます。"}},{"@type":"Question","name":"直島や小豆島へのフェリーは予約なしでも乗れますか？","acceptedAnswer":{"@type":"Answer","text":"旅客のみ（車なしの一人旅）であれば、フェリーは予約不要で当日高松港フェリーターミナルで切符を購入してそのまま乗船できます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【高松出張＆讃岐うどんひとり旅】高松港・サンポートビュー・天然温泉・名物うどん朝食！瀬戸内の風を感じる快適宿 厳選3選","item":"https://croud-travel.pages.dev/takamatsu-solo-business-udon-art-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

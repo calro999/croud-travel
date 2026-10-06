@@ -47,6 +47,10 @@ export default function FurusatoNaturalMudBathStayPage() {
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「後生掛温泉」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「後生掛温泉」へは、鹿角八幡平ICより車で45分。最寄りの鹿角花輪駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「後生掛温泉」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「後生掛温泉」は『開湯300年。古くから『馬で来て、足駄で帰る、後生掛』と謡われる八幡平国立公園内に佇む一軒』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「後生掛温泉」と「どろ湯の旅籠さくらさくら温泉 霧島神宮温泉郷」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
       <div className="max-w-5xl mx-auto">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
 

@@ -47,6 +47,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"西新宿のオフィス街で最も快適な滞在ができるホテルは？","acceptedAnswer":{"@type":"Answer","text":"「ダイワロイネットホテル西新宿 PREMIER」は全室バス・トイレ別のセパレートタイプ。広々としたデスクと充実の客室アメニティで出張に最適です。"}},{"@type":"Question","name":"新宿周辺で大浴場と露天風呂が付いているホテルは？","acceptedAnswer":{"@type":"Answer","text":"「アパホテル＆リゾート〈西新宿五丁目駅前タワー〉」は最上階に大浴殿「玄要の湯」と露天風呂を完備し、都会にいながら本格リゾート気分を味わえます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【新宿出張・大浴場スパステイ】高層ビル夜景・都心展望スパ・新宿御苑！世界最大のターミナルを制する厳選3宿","item":"https://croud-travel.pages.dev/tokyo-shinjuku-solo-business-onsen-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

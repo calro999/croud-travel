@@ -44,6 +44,10 @@ export default function FeatureArticlePage() {
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「金沢・深谷温泉 元湯石屋 能舞台のある秘湯の一軒宿」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「金沢・深谷温泉 元湯石屋 能舞台のある秘湯の一軒宿」へは、JR金沢駅からタクシーで約20分・ IR森本駅からタクシーで約7分・北陸自動車道金沢森本ＩＣより車5分。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「金沢・深谷温泉 元湯石屋 能舞台のある秘湯の一軒宿」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「金沢・深谷温泉 元湯石屋 能舞台のある秘湯の一軒宿」は『金沢奥座敷 深谷温泉の一軒宿 山里の静けさと出会い、都会の喧騒を忘れる。懐かしき時の流れる』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「金沢・深谷温泉 元湯石屋 能舞台のある秘湯の一軒宿」と「金沢湯涌温泉 湯の出旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
       {/* パンくずナビ */}
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:text-stone-800 underline">ホーム</Link>

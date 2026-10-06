@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で柴山潟を間近に望む絶景露天風呂と加賀の味覚を味わえる宿は？","acceptedAnswer":{"@type":"Answer","text":"「片山津温泉 湖畔の宿 森本」は全客室および露天風呂から柴山潟と白山を一望でき、楽天口コミ★4.6。きめ細やかなもてなしが一人旅に大絶賛されています。"}},{"@type":"Question","name":"広々とした空間と充実した施設で贅沢におこもりしたいなら？","acceptedAnswer":{"@type":"Answer","text":"「加賀片山津温泉 佳水郷」は柴山潟に面した壮大なスケールの温泉旅館。美しい日本庭園と湖のパノラマ大浴場で極上のリラックスが叶います。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【加賀温泉郷・片山津温泉ひとり旅・柴山潟パノラマおこもり】白山連峰一望・湖畔絶景露天風呂・加賀会席＆ズワイガニ！北陸新幹線加賀温泉駅厳選3宿","item":"https://croud-travel.pages.dev/ishikawa-katayamazu-solo-retreat-lakeview-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

@@ -86,6 +86,10 @@ export default function FurusatoTaxPage() {
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「奥入瀬渓流ホテル ｂｙ 星野リゾート」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「奥入瀬渓流ホテル ｂｙ 星野リゾート」へは、東北新幹線 八戸駅／無料送迎バス（要予約）、青森駅／有料送迎バス（要予約）、ＪＲバス 十和田湖行き、焼山下車。最寄りの八戸駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「奥入瀬渓流ホテル ｂｙ 星野リゾート」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「奥入瀬渓流ホテル ｂｙ 星野リゾート」は『日本屈指の景勝地奥入瀬渓流。その畔に佇むリゾートホテルで大自然が演出する非日常空間をご堪能』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「奥入瀬渓流ホテル ｂｙ 星野リゾート」と「八甲田城ヶ倉温泉 ホテル城ヶ倉－ＨＯＴＥＬ Ｊｏｇａｋｕｒａ－」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
         {/* リード文ブロック */}
         <section className="bg-slate-900/80 border border-slate-800 rounded-3xl p-6 md:p-10 shadow-xl relative overflow-hidden">
           <div className="absolute top-0 right-0 w-64 h-64 bg-amber-500/5 rounded-full blur-3xl -z-10" />

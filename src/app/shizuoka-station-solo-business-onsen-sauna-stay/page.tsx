@@ -47,6 +47,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"静岡駅周辺で温泉・サウナの満足度が最も高いホテルは？","acceptedAnswer":{"@type":"Answer","text":"「ホテルオーレイン（静岡）」は天然温泉大浴場と露天風呂、本格オートロウリュサウナ、水風呂を完備。無料の夜食カレーや豪華朝食も大好評です。"}},{"@type":"Question","name":"新幹線改札から一番近く、展望風呂があるホテルは？","acceptedAnswer":{"@type":"Answer","text":"「ホテルプリヴェ静岡」はJR静岡駅南口から徒歩約1分。最上階に富士山やトレインビューが望める展望スカイスパとサウナを備えています。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【静岡駅前出張・天然温泉サウナ】富士山パノラマ・天然温泉スカイスパ・駿河湾鮮魚！東海道の中枢を制する厳選3宿","item":"https://croud-travel.pages.dev/shizuoka-station-solo-business-onsen-sauna-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で大自然の雑木林に囲まれた極上の秘湯露天を味わえる宿は？","acceptedAnswer":{"@type":"Answer","text":"「旅館 山河」は楽天口コミ★4.70を誇る日本秘湯を守る会の宿。敷地内を流れる小川と紅葉に包まれる露天風呂が圧巻です。"}},{"@type":"Question","name":"黒川温泉への公共交通機関でのアクセスは？","acceptedAnswer":{"@type":"Answer","text":"博多バスターミナルや福岡空港から高速バス「福岡〜黒川温泉線」、または熊本駅・熊本空港から「九州横断バス」が直行便を運行しています。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【10月・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入湯手形めぐりおこもり】雑木林の秘湯露天・囲炉裏会席・肥後牛炭火焼き！阿蘇山麓リトリート厳選3宿","item":"https://croud-travel.pages.dev/kumamoto-kurokawa-autumn-solo-retreat-onsen-hopping-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

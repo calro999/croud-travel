@@ -151,6 +151,14 @@ export default function FeaturePage() {
       </nav>
 
       <main className="max-w-5xl mx-auto px-4 py-8 md:py-12 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「嬉野温泉 旅館大村屋」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「嬉野温泉 旅館大村屋」へは、JR西九州新幹線「嬉野温泉駅」よりお車で約5分 / 長崎自動車道 嬉野ICより５分。最寄りの武雄温泉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「嬉野温泉 旅館大村屋」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「嬉野温泉 旅館大村屋」は『自家源泉保有 源泉100％かけ流しの貸切湯と音楽を愉しめる老舗宿。露天・半露天付客室有』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「嬉野温泉 旅館大村屋」と「嬉野温泉 旅館 初音荘」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【極上A5伊万里牛＆武雄温泉美肌湯】1300年の名湯と佐賀の最高峰グルメを堪能する名宿5選","item":"https://croud-travel.pages.dev/spring-saga-imari-beef-takeo-onsen-stay"}]}) }}
+      />
         {/* Intro */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">

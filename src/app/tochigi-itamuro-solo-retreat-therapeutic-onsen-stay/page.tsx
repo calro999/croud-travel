@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅でアートに囲まれながら本格的な湯治と静寂を楽しめる宿は？","acceptedAnswer":{"@type":"Answer","text":"「板室温泉大黒屋 保養とアートの宿」は全国から一人旅の愛好家が集まる名宿。美しい庭園、毎月変わる現代アート展示、滋味あふれる料理が極上のリトリートを約束します。"}},{"@type":"Question","name":"心と体のデトックスと薬草スパを体験したいなら？","acceptedAnswer":{"@type":"Answer","text":"「板室別邸リトリート SPA和薬草」は和ハーブや薬草を取り入れたスパ体験と板室の名湯が融合した隠れ家宿で、心身の調律を目指す一人旅に大好評です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【那須塩原・板室温泉ひとり旅・下野の薬湯立ち湯おこもり】開湯1050年杖いらずの名湯・那珂川上流自然林・保養とアート！現代湯治リトリート厳選3宿","item":"https://croud-travel.pages.dev/tochigi-itamuro-solo-retreat-therapeutic-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

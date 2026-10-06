@@ -151,6 +151,14 @@ export default function FeaturePage() {
       </nav>
 
       <main className="max-w-5xl mx-auto px-4 py-8 md:py-12 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「鹿島ポートホテル」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「鹿島ポートホテル」へは、■高速バス波崎線『東京駅 八重洲南口 ⇔東部コンビナート 当ホテル前 停留所』下車■電車 JR鹿島神宮・潮来・小見川駅。最寄りの鹿島神宮駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「鹿島ポートホテル」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「鹿島ポートホテル」は『■鹿島臨海工業地帯・東部コンビナートに１番近い■大浴場＆朝食バイキング無料■高速Wi-Fi』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「鹿島ポートホテル」では季節ごとに異なる宿泊プランや料理プランが用意されています。ご旅行の人数や滞在スタイルに合わせて最適なプランをお選びいただけます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月！丸】大手町！名宿5選","item":"https://croud-travel.pages.dev/winter-tokyo-marunouchi-illumination-luxury-stay"}]}) }}
+      />
         {/* Intro */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">

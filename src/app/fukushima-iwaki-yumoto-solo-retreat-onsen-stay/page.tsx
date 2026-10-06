@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で日本庭園と良質な硫黄泉露天風呂を満喫できる宿は？","acceptedAnswer":{"@type":"Answer","text":"「いわき湯本温泉 吹の湯旅館」は静かな高台に位置し、美しい日本庭園と檜の香る源泉露天風呂が一人旅に大好評です。"}},{"@type":"Question","name":"一人旅でとにかく美味しい常磐ものの魚介料理を味わうなら？","acceptedAnswer":{"@type":"Answer","text":"「いわき湯本温泉 鮮の宿 柏」は魚屋直営ならではの鮮度抜群の海鮮料理が自慢。一人旅でも贅沢な海の幸会席を満喫できます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【いわき湯本温泉ひとり旅・三函の名湯おこもり】日本三古湯・毎分5トン自噴硫黄泉・常磐もの海鮮！フラガール温泉郷厳選3宿","item":"https://croud-travel.pages.dev/fukushima-iwaki-yumoto-solo-retreat-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

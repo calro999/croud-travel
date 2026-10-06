@@ -48,6 +48,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一度は泊まってみたい非日常のラグジュアリーホテルは？","acceptedAnswer":{"@type":"Answer","text":"「白浜温泉 ホテル川久」は田辺湾に面した全室スイート仕様の洋城。金箔の天井や豪華なスパ大浴場、最高峰の王様のビュッフェが非日常を演出します。"}},{"@type":"Question","name":"ワーケーションや一人旅で海を見ながら過ごしたいならどこ？","acceptedAnswer":{"@type":"Answer","text":"「SHIRAHAMA KEY TERRACE HOTEL SEAMORE」は海を望むインフィニティ足湯テラスやコワーキングスペース、ベーカリーカフェが充実しており、一人旅に大人気です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【南紀白浜ひとり旅・海望おこもり】太平洋オーシャンビュー・古都白浜温泉・インフィニティ足湯！南国の絶景に癒やされる厳選3宿","item":"https://croud-travel.pages.dev/nanki-shirahama-solo-retreat-ocean-onsen-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

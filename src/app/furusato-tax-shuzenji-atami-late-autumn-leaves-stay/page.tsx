@@ -45,6 +45,10 @@ export default function FurusatoShuzenjiAtamiLateAutumnLeavesStayPage() {
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「修善寺温泉 国の登録文化財の宿 新井旅館」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「修善寺温泉 国の登録文化財の宿 新井旅館」へは、伊豆箱根鉄道線 修善寺駅よりバスまたはタクシーで10分／東名・新東名高速 沼津ICより伊豆縦貫道経由45分。最寄りの修善寺駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「修善寺温泉 国の登録文化財の宿 新井旅館」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「修善寺温泉 国の登録文化財の宿 新井旅館」は『ミシュランで二つ星の竹林の小径まで徒歩2分、修善寺温泉の中心で観光に便利です』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「修善寺温泉 国の登録文化財の宿 新井旅館」と「修善寺温泉 瑞の里 〇久旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
       {/* パンくずナビ */}
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:text-stone-800 underline">ホーム</Link>

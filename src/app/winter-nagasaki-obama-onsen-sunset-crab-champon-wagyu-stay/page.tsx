@@ -345,6 +345,10 @@ export default function NagasakiObamaWinterPage() {
 
       {/* Main Content */}
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-10 sm:pt-14 space-y-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月長崎・雲仙小浜温泉】橘湾の茜色落日と熱量日本一1！名宿5選","item":"https://croud-travel.pages.dev/winter-nagasaki-obama-onsen-sunset-crab-champon-wagyu-stay"}]}) }}
+      />
         
         {/* Intro Section */}
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200 space-y-6">

@@ -42,6 +42,10 @@ export default function Page() {
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「風待ちの湯福寿荘 伊勢志摩の温泉旅館＜渡鹿野島＞」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「風待ちの湯福寿荘 伊勢志摩の温泉旅館＜渡鹿野島＞」へは、近鉄「鵜方駅」下車、送迎バス（予約制）１５分～船３分(有料）、伊勢自動車道 伊勢西ＩＣ～６０分～船３分(有料）。最寄りの鵜方駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「風待ちの湯福寿荘 伊勢志摩の温泉旅館＜渡鹿野島＞」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「風待ちの湯福寿荘 伊勢志摩の温泉旅館＜渡鹿野島＞」は『◆船で3分の温泉宿◆地下1,300メートルから湧く天然療養温泉と伊勢海老・松阪牛・旬の海の』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「風待ちの湯福寿荘 伊勢志摩の温泉旅館＜渡鹿野島＞」と「伊勢志摩 二見浦 夫婦岩前 旅館 大石屋」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
       <div className="max-w-5xl mx-auto">
         {/* パンくずリスト */}
         <nav className="text-xs md:text-sm text-stone-500 mb-6 flex items-center gap-2 flex-wrap">

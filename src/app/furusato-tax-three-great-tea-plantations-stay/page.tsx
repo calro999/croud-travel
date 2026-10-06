@@ -167,6 +167,10 @@ export default function Page() {
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「焼津温泉 ホテルアンビア松風閣」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「焼津温泉 ホテルアンビア松風閣」へは、東名 焼津ICより10分/JR焼津駅より無料シャトルバスあり！焼津は静岡駅から3駅約13分のアクセス。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「焼津温泉 ホテルアンビア松風閣」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「焼津温泉 ホテルアンビア松風閣」は『全客室と露天風呂より富士と駿河湾が一望できます。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「焼津温泉 ホテルアンビア松風閣」と「ホテルトレンドＪＲ宇治駅前」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
         
         {/* 特集の魅力セクション */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80">

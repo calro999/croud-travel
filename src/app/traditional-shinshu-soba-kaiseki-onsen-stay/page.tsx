@@ -204,6 +204,10 @@ export default function FeatureDetailPage() {
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「信州別所温泉 旅宿 上松や」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「信州別所温泉 旅宿 上松や」へは、JR北陸新幹線上田駅にて上田電鉄別所線に乗換、終点別所温泉駅より徒歩10分。最寄りの別所温泉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「信州別所温泉 旅宿 上松や」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「信州別所温泉 旅宿 上松や」は『楽天トラベルアワード7年連続受賞！（2025 シルバーアワード）』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「信州別所温泉 旅宿 上松や」と「信州別所温泉 玉屋旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
           <h2 className="text-xl sm:text-2xl font-bold text-slate-900 flex items-center gap-2">

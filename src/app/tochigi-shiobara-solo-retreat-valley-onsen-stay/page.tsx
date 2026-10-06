@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅でとにかく口コミ評価が高く、温かい手作り料理を味わえる塩原の宿は？","acceptedAnswer":{"@type":"Answer","text":"「塩原温泉 山口屋旅館」は楽天口コミ★4.7超。丁寧な手作り料理と手入れの行き届いた清潔な館内、良質な温泉が一人旅の宿泊者から絶賛されています。"}},{"@type":"Question","name":"奥塩原の濃厚な乳白色・にごり湯（硫黄泉）を心ゆくまで満喫するなら？","acceptedAnswer":{"@type":"Answer","text":"「塩原温泉 やまの宿 下藤屋」は奥塩原新湯温泉に位置し、硫黄の香り漂う乳白色の源泉掛け流し風呂が温泉通の一人旅に大人気です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【那須塩原・塩原温泉郷ひとり旅・十一湯渓谷おこもり】開湯1200年名瀑露天・乳白色硫黄泉・文豪の愛した湯治場！箒川渓谷美の秘湯厳選3宿","item":"https://croud-travel.pages.dev/tochigi-shiobara-solo-retreat-valley-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

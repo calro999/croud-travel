@@ -48,6 +48,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"福岡空港からホテルまではタクシーでも近いですか？","acceptedAnswer":{"@type":"Answer","text":"はい、博多駅まではタクシーで約15分（1,500円前後）と驚くほど近く、荷物が多い場合や深夜の到着でもタクシーで快適に移動できます。"}},{"@type":"Question","name":"屋上の温泉スパには水着が必要ですか？","acceptedAnswer":{"@type":"Answer","text":"都ホテル博多の屋外スパエリアは水着着用（レンタルあり）ですが、男女別の内湯・サウナエリアは通常の温泉大浴場と同様に裸で入浴できます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【福岡・博多出張＆ご褒美ソロ旅】博多駅直結・屋上温泉スパ・名物もつ鍋朝食！美食とサウナを満喫する極上宿 厳選3選","item":"https://croud-travel.pages.dev/fukuoka-hakata-tenjin-solo-onsen-gourmet-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

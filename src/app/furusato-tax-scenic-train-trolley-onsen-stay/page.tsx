@@ -42,6 +42,10 @@ export default function Page() {
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「黒部峡谷・宇奈月温泉 ホテル黒部」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「黒部峡谷・宇奈月温泉 ホテル黒部」へは、北陸新幹線黒部宇奈月温泉駅から富山地鉄乗り換え25分。最寄りの宇奈月温泉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「黒部峡谷・宇奈月温泉 ホテル黒部」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「黒部峡谷・宇奈月温泉 ホテル黒部」は『『宇奈月温泉随一の眺望』四季折々の地元食材と透明な美肌湯を堪能』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「黒部峡谷・宇奈月温泉 ホテル黒部」と「黒部・宇奈月温泉 やまのは」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
       <div className="max-w-5xl mx-auto">
         {/* パンくずリスト */}
         <nav className="text-xs md:text-sm text-stone-500 mb-6 flex items-center gap-2 flex-wrap">

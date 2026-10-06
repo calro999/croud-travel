@@ -64,6 +64,10 @@ export default function Page() {
 
       {/* Main Content Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 mt-12 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「上諏訪温泉 ホテル紅や」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「上諏訪温泉 ホテル紅や」へは、電車 上諏訪駅下車徒歩10分（予約制無料送迎） お車 諏訪ICから車で15分または諏訪湖スマートICから車で10分。最寄りの上諏訪駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「上諏訪温泉 ホテル紅や」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「上諏訪温泉 ホテル紅や」は『温泉展望浴場や岩盤浴など施設充実の温泉リゾート。和室・洋室選べるお部屋プランも多彩。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「上諏訪温泉 ホテル紅や」と「お宿 和陽館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
         {/* Intro Lead */}
         <section className="bg-slate-900/90 border border-slate-800 rounded-3xl p-6 sm:p-8 backdrop-blur shadow-2xl">
           <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">

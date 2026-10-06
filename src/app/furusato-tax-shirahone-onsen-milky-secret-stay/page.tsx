@@ -49,6 +49,14 @@ export default function FurusatoArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「白骨温泉 湯元齋藤旅館」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「白骨温泉 湯元齋藤旅館」へは、お車で松本ICから60分、高山ICから70分。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「白骨温泉 湯元齋藤旅館」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「白骨温泉 湯元齋藤旅館」は『二百八十余年の間源泉を守り続ける湯守の宿。レトロモダンな造りの館内には寛ぎの空間が広がって』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「白骨温泉 湯元齋藤旅館」と「白骨温泉 小梨の湯 笹屋」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【白骨温泉×ふるさと納税】乳白色のにごり湯秘湯＆信州牛会席！深山幽谷の極上湯治宿ガイド｜齋藤旅館・小梨の湯笹屋・丸永旅館","item":"https://croud-travel.pages.dev/furusato-tax-shirahone-onsen-milky-secret-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅でも利用しやすく、温泉・サウナが充実した有馬の宿は？","acceptedAnswer":{"@type":"Answer","text":"「有馬温泉 メープル有馬」は自家源泉の天然ラドン銀泉大浴場やサウナを備え、一人旅専用プランも豊富で快適な滞在が叶います。"}},{"@type":"Question","name":"伝統ある名門旅館で有馬名物の金泉を満喫したいなら？","acceptedAnswer":{"@type":"Answer","text":"「有馬温泉 兵衛向陽閣」は創業700年の歴史を誇り、趣の異なる3つの大浴場すべてで名湯「金泉」を贅沢に楽しめます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【有馬温泉ひとり旅・金泉銀泉おこもり】日本最古の名湯・絶景露天・神戸牛会席！三宮から30分の極上ソロ湯治厳選3宿","item":"https://croud-travel.pages.dev/hyogo-arima-solo-retreat-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

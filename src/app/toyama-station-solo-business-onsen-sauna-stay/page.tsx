@@ -47,6 +47,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"富山市内で天然温泉とサウナ、朝食のクオリティが最も高い宿は？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉 剱の湯 御宿 野乃富山」は全館畳敷きの和風プレミアム。自家源泉の天然温泉大浴場、セルフロウリュサウナ、豪華海鮮朝食が絶賛されています。"}},{"@type":"Question","name":"市内電車（トラム）でアクセスしやすくビジネスに便利な宿は？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉 剱の湯 ドーミーイン富山」は市内電車「大手町」電停すぐ。天然温泉大浴場とサウナ、名物夜鳴きそばを完備しています。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【富山駅前出張・天然温泉サウナ】立山連峰ビュー・天然温泉剱の湯・富山湾鮨＆白えび！北陸屈指の産業拠点を制する厳選3宿","item":"https://croud-travel.pages.dev/toyama-station-solo-business-onsen-sauna-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

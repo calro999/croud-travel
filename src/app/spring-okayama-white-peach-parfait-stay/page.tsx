@@ -201,6 +201,10 @@ export default function FeatureDetailPage() {
       </header>
 
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「湯原温泉 湯めぐりの宿 松の家花泉」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「湯原温泉 湯めぐりの宿 松の家花泉」へは、米子自動車道 湯原ＩＣ下車。最寄りの中国勝山駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「湯原温泉 湯めぐりの宿 松の家花泉」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「湯原温泉 湯めぐりの宿 松の家花泉」は『10の湯めぐりが楽しめる湯めぐりの宿。料理長が厳選した食材で造る創作懐石も魅力。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「湯原温泉 湯めぐりの宿 松の家花泉」では季節ごとに異なる宿泊プランや料理プランが用意されています。ご旅行の人数や滞在スタイルに合わせて最適なプランをお選びいただけます。"}}]}) }}
+      />
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
           <h2 className="text-xl sm:text-2xl font-bold text-slate-900 flex items-center gap-2">
             <Award className="w-6 h-6 text-amber-600" />

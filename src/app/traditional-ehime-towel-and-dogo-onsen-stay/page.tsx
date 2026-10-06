@@ -204,6 +204,10 @@ export default function FeatureDetailPage() {
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「道後温泉 道後グランドホテル」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「道後温泉 道後グランドホテル」へは、伊予鉄道後温泉駅より徒歩5分・ 松山インターより車にて２５分・ 松山空港より車にて30分。最寄りの松山空港駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「道後温泉 道後グランドホテル」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「道後温泉 道後グランドホテル」は『◆道後本館まで 坂道なし 徒歩４分◆≪直前予約がお得なプラン販売中♪≫～全館無料Wi-Fi』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「道後温泉 道後グランドホテル」と「道後温泉 ふなや」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
           <h2 className="text-xl sm:text-2xl font-bold text-slate-900 flex items-center gap-2">

@@ -47,6 +47,10 @@ export default function FurusatoRound62ArticlePage() {
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「からすま京都ホテル」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「からすま京都ホテル」へは、地下鉄烏丸線四条駅（６番出口）から徒歩で４０秒。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「からすま京都ホテル」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「からすま京都ホテル」は上質な客室空間とおもてなしが旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「からすま京都ホテル」と「ベッセルホテル東広島」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
       <div className="max-w-5xl mx-auto">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
 

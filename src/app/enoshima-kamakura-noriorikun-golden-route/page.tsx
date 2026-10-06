@@ -213,6 +213,10 @@ export default function EnoshimaKamakuraNoriorikunPage() {
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「800円で元を取るモデルコース＆海沿い途中下車の旅」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
+      />
         {/* セクション1：運賃体系と「何回で元が取れる？」シミュレーション */}
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-amber-200/60">
           <div className="flex items-center gap-3 mb-6">

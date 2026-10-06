@@ -151,6 +151,14 @@ export default function FeaturePage() {
       </nav>
 
       <main className="max-w-5xl mx-auto px-4 py-8 md:py-12 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「鳴子温泉郷 極上の貸切露天風呂 旅館大沼」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「鳴子温泉郷 極上の貸切露天風呂 旅館大沼」へは、東北新幹線『古川駅』よりＪＲ陸羽東線に乗り換え、『鳴子御殿湯駅』下車、徒歩５分。最寄りの鳴子御殿湯駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「鳴子温泉郷 極上の貸切露天風呂 旅館大沼」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「鳴子温泉郷 極上の貸切露天風呂 旅館大沼」は『美肌湯が自慢の宮城・東鳴子温泉の秘湯宿。源泉かけ流しの天然温泉を使用した大浴場・家族風呂を』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「鳴子温泉郷 極上の貸切露天風呂 旅館大沼」と「玉名温泉 1350坪の日本庭園の宿 尚玄山荘」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【幽玄の苔庭テラス】青苔と石灯籠を望むプライベート露天風呂！京都・箱根の侘び寂び隠れ宿5選","item":"https://croud-travel.pages.dev/luxury-private-onsen-with-scenic-moss-garden"}]}) }}
+      />
         {/* Intro */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">

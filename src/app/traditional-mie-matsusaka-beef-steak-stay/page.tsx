@@ -204,6 +204,10 @@ export default function FeatureDetailPage() {
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「湯の山温泉 旅館寿亭」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「湯の山温泉 旅館寿亭」へは、車 新名神：菰野ＩＣ（※ＥＴＣ専用）約１０分 東名阪：四日市ＩＣ約２５分 電車 湯の山温泉駅から無料送迎（約１０分）。最寄りの湯の山温泉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「湯の山温泉 旅館寿亭」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「湯の山温泉 旅館寿亭」は『楽天トラベルゴールドアワード受賞｜御在所で涼む夏休み。お部屋・個室の夕食と6種の貸切風呂』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「湯の山温泉 旅館寿亭」と「榊原温泉 旅館 清少納言」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
           <h2 className="text-xl sm:text-2xl font-bold text-slate-900 flex items-center gap-2">

@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で落ち着いて源泉かけ流し温泉を楽しめる四万の宿は？","acceptedAnswer":{"@type":"Answer","text":"「四万温泉 あやめや旅館」はアットホームなおもてなしと良質な天然温泉が自慢。一人旅でも気兼ねなく美味しい料理と温泉に癒やされます。"}},{"@type":"Question","name":"四万川の清流を眺めながら絶品料理を味わいたいなら？","acceptedAnswer":{"@type":"Answer","text":"「四万温泉 料理旅館くれない」は四万川沿いに佇み、川のせせらぎを聞きながら名物の湯蒸しうなぎや上州牛を味わえる美食の宿です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【四万温泉ひとり旅・四万ブルーおこもり】四万川清流露天・四万の病を癒す霊泉・上州牛会席！大自然に抱かれる奥群馬の秘湯厳選3宿","item":"https://croud-travel.pages.dev/gunma-shima-solo-retreat-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

@@ -64,6 +64,10 @@ export default function Page() {
 
       {/* Main Content Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 mt-12 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「アパホテル〈山口岩国駅前西〉」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「アパホテル〈山口岩国駅前西〉」へは、JR山陽本線「岩国駅」（西口）より徒歩5分。最寄りの岩国駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「アパホテル〈山口岩国駅前西〉」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「アパホテル〈山口岩国駅前西〉」は『JR山陽本線「岩国駅」徒歩5分の好立地！50型大型テレビ、Wi-Fi6完備のビジネス・観光』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「アパホテル〈山口岩国駅前西〉」と「石和温泉 ホテル平安」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
         {/* Intro Lead */}
         <section className="bg-slate-900/90 border border-slate-800 rounded-3xl p-6 sm:p-8 backdrop-blur shadow-2xl">
           <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">

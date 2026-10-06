@@ -204,6 +204,10 @@ export default function FeatureDetailPage() {
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「こんぴら温泉 琴平グランドホテル 桜の抄」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「こんぴら温泉 琴平グランドホテル 桜の抄」へは、全室Wi-Fi無料/ＪＲ琴平駅下車、徒歩約15分（無料送迎有・要予約）。最寄りの琴平駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「こんぴら温泉 琴平グランドホテル 桜の抄」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「こんぴら温泉 琴平グランドホテル 桜の抄」は『金刀比羅宮に続く参道まで徒歩1分で参拝に便利な温泉宿。和洋約50種類の朝食バイキング好評。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「こんぴら温泉 琴平グランドホテル 桜の抄」と「桜 Ｒｉｖｅｒ Ｓｉｄｅ Ｓｔａｙ 下呂温泉」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
           <h2 className="text-xl sm:text-2xl font-bold text-slate-900 flex items-center gap-2">

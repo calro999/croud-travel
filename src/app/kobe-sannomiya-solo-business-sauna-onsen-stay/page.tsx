@@ -47,6 +47,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「神戸サウナ＆スパ」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「神戸サウナ＆スパ」へは、ＪＲ・阪急・阪神・市営地下鉄「三宮駅」から徒歩５分、新神戸駅から一駅です。最寄りの三宮駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「神戸サウナ＆スパ」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「神戸サウナ＆スパ」は『各線三宮駅から５分。天然温泉・サウナを24時間ご利用可 メインサウナリニューアル完成!』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「神戸サウナ＆スパ」では季節ごとに異なる宿泊プランや料理プランが用意されています。ご旅行の人数や滞在スタイルに合わせて最適なプランをお選びいただけます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【神戸三宮出張・極上サウナステイ】サウナシュラン殿堂の聖地・異人館港町夜景・神戸牛！関西屈指の洗練都市を極める厳選3宿","item":"https://croud-travel.pages.dev/kobe-sannomiya-solo-business-sauna-onsen-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

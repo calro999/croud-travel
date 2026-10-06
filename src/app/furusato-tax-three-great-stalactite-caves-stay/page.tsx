@@ -180,6 +180,10 @@ export default function Page() {
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「磐梯熱海温泉 ホテル華の湯」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「磐梯熱海温泉 ホテル華の湯」へは、磐越自動車道磐梯熱海ＩＣより車で8分、磐越西線磐梯熱海駅より送迎可能です。最寄りの磐梯熱海駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「磐梯熱海温泉 ホテル華の湯」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「磐梯熱海温泉 ホテル華の湯」は『ファミリーに人気のビュッフェダイニングや、露天風呂付客室でゆったり贅沢な大人旅を！』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「磐梯熱海温泉 ホテル華の湯」と「サザンビーチホテル&amp;amp;リゾート沖縄」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
         
         {/* 特集の魅力セクション */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80">

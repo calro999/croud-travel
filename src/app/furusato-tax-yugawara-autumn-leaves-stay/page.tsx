@@ -44,6 +44,10 @@ export default function FeatureArticlePage() {
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「湯河原温泉 島崎藤村ゆかりの宿 伊藤屋」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「湯河原温泉 島崎藤村ゆかりの宿 伊藤屋」へは、ＪＲ東海道線「湯河原駅」より「温泉場・奥湯河原方面行」バスにて約１3分公園入口下車／小田原厚木道路石橋ＩＣより２５分。最寄りの湯河原駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「湯河原温泉 島崎藤村ゆかりの宿 伊藤屋」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「湯河原温泉 島崎藤村ゆかりの宿 伊藤屋」は『貸切風呂は無料・予約不要。万葉公園入口2分、美術館5分で散策便利。門柱・石垣と本館一部は登』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「湯河原温泉 島崎藤村ゆかりの宿 伊藤屋」と「富士屋旅館 湯河原」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
       {/* パンくずナビ */}
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:text-stone-800 underline">ホーム</Link>

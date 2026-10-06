@@ -151,6 +151,14 @@ export default function FeaturePage() {
       </nav>
 
       <main className="max-w-5xl mx-auto px-4 py-8 md:py-12 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「平山温泉 ほたるの長屋」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「平山温泉 ほたるの長屋」へは、ＪＲ鹿児島本線 大牟田駅または玉名駅より車で４５分／福岡空港より高速道路 植木ＩＣより車で２５分。最寄りの瀬高駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「平山温泉 ほたるの長屋」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「平山温泉 ほたるの長屋」は『女性オーナーシェフが手がける、ミシュランガイド掲載旅館の創作料理。全5棟の客室に源泉100』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「平山温泉 ほたるの長屋」と「由布院温泉 旅館 ほたるの宿 仙洞」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【初夏のホタル乱舞＆清流露天】客室デッキや庭園から幻想的な光を愛でる名湯宿5選","item":"https://croud-travel.pages.dev/luxury-private-onsen-with-scenic-firefly-stream"}]}) }}
+      />
         {/* Intro */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">

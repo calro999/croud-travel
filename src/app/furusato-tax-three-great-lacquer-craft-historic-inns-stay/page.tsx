@@ -47,6 +47,10 @@ export default function FurusatoRound63ArticlePage() {
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「旅館 橋本屋」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「旅館 橋本屋」へは、金沢駅～車20分・9番乗り場からバス20分（「26番」系統のバス以外）渋滞時は所要時間が延びます。最寄りの金沢駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「旅館 橋本屋」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「旅館 橋本屋」は『◆創業100周年◆満足度◎治部煮など金沢美食と心温まるサービスで日常の疲れを癒し、贅沢なひ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「旅館 橋本屋」と「会津東山温泉 向瀧」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
       <div className="max-w-5xl mx-auto">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
 

@@ -48,6 +48,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"伊東温泉で一人でも贅沢に部屋食を楽しめる宿はどこですか？","acceptedAnswer":{"@type":"Answer","text":"「伊東温泉 青山やまと」は一人旅プランも充実しており、本格的な会席料理をお部屋で気兼ねなく味わうことができます。"}},{"@type":"Question","name":"海の見える絶景露天風呂に入りたいならどこがおすすめ？","acceptedAnswer":{"@type":"Answer","text":"「伊東ホテルジュラク」は高台に位置し、相模湾と伊東市街のパノラマを一望できる展望大浴場や露天風呂が評判です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【伊東温泉ひとり旅・海望おこもり】相模灘オーシャンビュー・金目鯛会席・7本の自家源泉！東京から特急で叶う極上湯治リトリート 厳選3選","item":"https://croud-travel.pages.dev/ito-onsen-solo-retreat-ocean-seafood-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

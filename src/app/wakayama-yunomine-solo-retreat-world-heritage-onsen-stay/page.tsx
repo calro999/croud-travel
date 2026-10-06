@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅でとにかく口コミ評価が高く、温かい料理ともてなしを味わえる湯の峰の宿は？","acceptedAnswer":{"@type":"Answer","text":"「よしのや旅館」は楽天口コミ★4.8超。女将の心のこもったもてなしと温泉水を使った滋味あふれる料理が一人旅の宿泊者から絶賛されています。"}},{"@type":"Question","name":"歴史ある木造数寄屋建築と本格的な温泉大浴場を楽しむなら？","acceptedAnswer":{"@type":"Answer","text":"「旅館あづまや」は創業江戸時代。総槇造りの「大風呂」や「さましの湯」など、昔ながらの湯治の趣を色濃く残す一人旅憧れの名宿です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【世界遺産・湯の峰温泉ひとり旅・開湯1800年つぼ湯おこもり】日本最古の共同浴場・小栗判官伝説・七色に変わる奇跡の源泉！熊野本宮大社参拝厳選3宿","item":"https://croud-travel.pages.dev/wakayama-yunomine-solo-retreat-world-heritage-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

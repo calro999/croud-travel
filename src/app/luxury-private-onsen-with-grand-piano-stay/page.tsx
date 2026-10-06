@@ -186,6 +186,10 @@ export default function Page() {
 
       {/* メインコンテンツ */}
       <main className="max-w-4xl mx-auto px-4 py-8 space-y-10">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【2026年】優雅な生演奏と美肌名湯！グランドピアノ・音楽ラウンジ付き極上リゾート宿5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/luxury-private-onsen-with-grand-piano-stay"}]}) }}
+      />
         
         {/* クーポンバナー */}
         <SpecialCouponBanner />

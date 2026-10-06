@@ -48,6 +48,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"客室やお風呂から彦根城が見えるおすすめホテルは？","acceptedAnswer":{"@type":"Answer","text":"「彦根キャッスル リゾート＆スパ」は彦根城のお堀端に佇み、城見テラスや展望大浴場「城見の湯」から国宝彦根城を間近に一望できます。"}},{"@type":"Question","name":"近江八幡駅周辺でビジネス利用に最も快適なホテルは？","acceptedAnswer":{"@type":"Answer","text":"「ホテルニューオウミ」はJR近江八幡駅北口から徒歩約2分。シティホテルならではの上質な客室設備と、近江牛を味わえる直営レストランを完備しています。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【彦根・近江八幡出張】国宝彦根城ビュー・名湯城見風呂・極上近江牛グルメ！湖東ビジネスを格上げする厳選3宿","item":"https://croud-travel.pages.dev/hikone-omihachiman-solo-business-castle-beef-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

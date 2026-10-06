@@ -204,6 +204,10 @@ export default function FeatureDetailPage() {
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「蔦温泉旅館－足元から源泉湧出の自噴温泉－」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「蔦温泉旅館－足元から源泉湧出の自噴温泉－」へは、七戸十和田駅よりお車にて１時間／青森駅よりお車にて1時間20分。最寄りの青森駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「蔦温泉旅館－足元から源泉湧出の自噴温泉－」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「蔦温泉旅館－足元から源泉湧出の自噴温泉－」は『約千年前から源泉のやさしい湯が湧き出てくる全国でも希少な「源泉湧き流し」の湯をお楽しみ下さ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「蔦温泉旅館－足元から源泉湧出の自噴温泉－」と「酸ヶ湯温泉旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
           <h2 className="text-xl sm:text-2xl font-bold text-slate-900 flex items-center gap-2">

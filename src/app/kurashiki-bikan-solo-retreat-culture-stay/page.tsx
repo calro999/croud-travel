@@ -48,6 +48,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"美観地区内で歴史や建築の雰囲気を肌で感じられる宿は？","acceptedAnswer":{"@type":"Answer","text":"「倉敷アイビースクエア」は明治時代の倉敷紡績発祥工場を再生した複合ホテル。ツタの絡まる赤レンガの外観や高い天井が、明治の近代化遺産の息吹を伝えています。"}},{"@type":"Question","name":"美観地区のすぐ近くで天然温泉大浴場とサウナに入れるホテルは？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉 阿智の湯 ドーミーイン倉敷」は美観地区の入口まで徒歩約1分。最上階に天然温泉大浴場と露天風呂、サウナを完備しています。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【倉敷美観地区・ひとり旅おこもり】白壁土蔵の町並み・倉敷紡績の歴史遺産・最上階天然温泉！大原美術館と水運の街を巡る厳選3宿","item":"https://croud-travel.pages.dev/kurashiki-bikan-solo-retreat-culture-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

@@ -151,6 +151,14 @@ export default function FeaturePage() {
       </nav>
 
       <main className="max-w-5xl mx-auto px-4 py-8 md:py-12 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「天然温泉露天風呂全室完備 満天の宿」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「天然温泉露天風呂全室完備 満天の宿」へは、東海北陸自動車道 白鳥ＩＣ、高鷲ＩＣから約３０分（ウイングヒルズ白鳥リゾート第2駐車場内）。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「天然温泉露天風呂全室完備 満天の宿」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉露天風呂全室完備 満天の宿」は『全室露天風呂付客室！1日8室だけの贅沢な隠れ宿で温泉と懐石料理を堪能！』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉露天風呂全室完備 満天の宿」と「プレジャーリゾート伊豆赤沢温泉」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【絶景ガラス張りバレルサウナ】天空のパノラマビュー＆天然湧水水風呂の温泉宿5選","item":"https://croud-travel.pages.dev/organic-forest-infinity-panoramic-barrel-sauna-stay"}]}) }}
+      />
         {/* Intro */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">

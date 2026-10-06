@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で日本海を間近に感じる最高峰の露天風呂に泊まるなら？","acceptedAnswer":{"@type":"Answer","text":"「皆生松月」は海沿いに位置し、地上28mのインフィニティ天空露天風呂からのパノラマ絶景と丁寧な会席料理が一人旅でも絶賛されています。"}},{"@type":"Question","name":"畳敷きの心地よい空間とアットホームなもてなしを求めるなら？","acceptedAnswer":{"@type":"Answer","text":"「皆生温泉 皆生菊乃家」や「湯喜望 白扇」は全館畳敷きやオーシャンビューの快適な客室を備え、山陰の旬の海鮮を一人旅でも贅沢に楽しめます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【皆生温泉ひとり旅・日本海オーシャンおこもり】弓ヶ浜パノラマ・美肌塩化物泉・境港松葉ガニ！「米子の奥座敷」で癒やされる厳選3宿","item":"https://croud-travel.pages.dev/tottori-kaike-solo-retreat-ocean-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

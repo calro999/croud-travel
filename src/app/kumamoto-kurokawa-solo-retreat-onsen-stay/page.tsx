@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で川沿いの自然を感じながら露天風呂を楽しめる宿は？","acceptedAnswer":{"@type":"Answer","text":"「黒川温泉 夢龍胆」は田の原川の渓流沿いに佇み、女性専用露天風呂や岩風呂、足湯など多彩な温浴設備で一人旅に大好評です。"}},{"@type":"Question","name":"黒川名物のユニークな立ち湯や大露天風呂に入りたいなら？","acceptedAnswer":{"@type":"Answer","text":"「黒川温泉 やまびこ旅館」は深さ150cmの立ち湯や巨石を配した大露天風呂が名物。自然のダイナミズムを肌で感じられます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【黒川温泉ひとり旅・入湯手形おこもり】渓流露天風呂・立ち湯・あか牛会席！阿蘇の秘湯で里山情緒に浸る極上ソロ温泉厳選3宿","item":"https://croud-travel.pages.dev/kumamoto-kurokawa-solo-retreat-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

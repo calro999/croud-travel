@@ -128,6 +128,10 @@ export default function Page() {
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"鳥取砂丘の夕日と砂の美術館！鳥取温泉の源泉かけ流し・11月解禁の松葉がにと鳥取和牛を味わう秋旅 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-tottori-dune-sand-museum-stay"}]}) }}
+      />
 
         {/* Introduction */}
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-stone-200/80">

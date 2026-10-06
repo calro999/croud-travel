@@ -151,6 +151,14 @@ export default function FeaturePage() {
       </nav>
 
       <main className="max-w-5xl mx-auto px-4 py-8 md:py-12 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「京都 嵐山温泉 花伝抄」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「京都 嵐山温泉 花伝抄」へは、阪急嵐山線「嵐山駅」より徒歩１分。最寄りの嵐山（阪急）駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「京都 嵐山温泉 花伝抄」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「京都 嵐山温泉 花伝抄」は『渡月橋まで徒歩約5分！目の前の阪急嵐山駅より京都の中心街まですぐ！天然温泉と5つの貸切風呂』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「京都 嵐山温泉 花伝抄」と「京都 嵐山温泉 渡月亭」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【宇治抹茶スイーツ＆京懐石】老舗茶寮の贅沢甘味と嵐山・東山・宇治の風雅名湯宿5選","item":"https://croud-travel.pages.dev/traditional-kyoto-ujicha-matcha-sweets-stay"}]}) }}
+      />
         {/* Intro */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">

@@ -48,6 +48,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"天橋立駅から歩いて行ける天然温泉付きホテルは？","acceptedAnswer":{"@type":"Answer","text":"「天橋立温泉 天橋立ホテル」は天橋立駅から徒歩約1分。天橋立の松並木を眺めながら入浴できる開放的な展望露天風呂やサウナを完備しています。"}},{"@type":"Question","name":"建築や静寂を味わえる落ち着いた高級旅館はどこ？","acceptedAnswer":{"@type":"Answer","text":"「天橋立温泉 和のリゾート 文珠荘」は建築家・吉村順三氏の設計。全室から天橋立運河の松並木を望み、洗練されたおこもりステイが叶います。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【天橋立・舞鶴ひとり旅】日本三景パノラマ・茶褐色天橋立温泉・若狭湾の海の幸！海の京都でととのう厳選3宿","item":"https://croud-travel.pages.dev/amanohashidate-maizuru-solo-retreat-ocean-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

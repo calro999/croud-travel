@@ -98,6 +98,10 @@ export default function SitemapPage() {
 
   return (
     <div className="space-y-12 max-w-6xl mx-auto px-2 sm:px-4 py-4">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"サイトマップ（全ページ・47都道府県ガイド・特集ハブ・記事一覧） ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/sitemap"}]}) }}
+      />
       {/* パンくずリスト */}
       <nav aria-label="Breadcrumb" className="text-xs font-bold text-teal-900/60 flex items-center gap-2">
         <Link href="/" className="hover:text-teal-800 transition">ホーム</Link>

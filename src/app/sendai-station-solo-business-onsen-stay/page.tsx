@@ -47,6 +47,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"仙台駅前で本格的な天然温泉とサウナに入れるホテルは？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉 萩の湯 ドーミーイン仙台駅前」はJR仙台駅西口から徒歩約5分。天然温泉大浴場、高温サウナ、水風呂、名物夜鳴きそばが完備されています。"}},{"@type":"Question","name":"新幹線利用に最も近く、デスクワーク環境が充実している宿は？","acceptedAnswer":{"@type":"Answer","text":"「リッチモンドホテルプレミア仙台駅前」は駅前西口徒歩約3分。落ち着いたラウンジや充実したデスク設備、無料ドリンクサービスが好評です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【仙台駅前出張・天然温泉ステイ】杜の都・天然温泉萩の湯・極上牛たんグルメ！東北最大のビジネスターミナル直結の厳選3宿","item":"https://croud-travel.pages.dev/sendai-station-solo-business-onsen-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

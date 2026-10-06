@@ -249,6 +249,14 @@ export default function IwateHachimantaiPage() {
 
       {/* Main Content Area */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 space-y-16 mt-6">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"11月・12月の八幡平温泉郷・松川温泉の積雪状況や路面凍結、車でのアクセス注意点は？","acceptedAnswer":{"@type":"Answer","text":"八幡平山麓および標高約800〜900mに位置する松川温泉では、例年11月上旬〜中旬に初雪が降り、11月下旬以降は本格的な積雪・凍結路面となります。11月から翌年4月にかけて八幡平アスピーテライン・樹海ラインの一部区間は冬季通行止めとなりますが、松川温泉や八幡平温泉郷の主要旅館までは除雪が行われています。車で訪れる場合は必ず高性能スタッドレスタイヤ（またはチェーン携行）を装着し、4WD車の利用を強く推奨します。雪道運転に不慣れな方は、JR盛岡駅からの路線バス（岩手県交通バス・八幡平方面行き）や各宿の送迎サービスの利用が安心です。"}},{"@type":"Question","name":"松川温泉の乳白色の湯の特徴や入浴時の注意点は？","acceptedAnswer":{"@type":"Answer","text":"松川温泉の泉質は単純硫黄泉（硫化水素型）で、湧出時は透明ですが空気に触れることで青みがかった乳白色へと変化します。湯の花が豊富に舞い、硫黄の香りとメタケイ酸によるしっとりとした肌触りが特徴です。酸性度がやや高いため、肌の弱い方は入浴後にシャワーで軽く洗い流すと安心です。また、銀製のアクセサリーは硫黄成分で黒く変色するため、必ず入浴前に外してください。雪見露天風呂では外気と湯温の差が大きいため、長湯による立ちくらみやヒートショックを防ぐため、十分なかけ湯を行ってから徐々に湯に浸かることが肝要です。"}},{"@type":"Question","name":"初冬の八幡平エリアで味わえる名物グルメは何ですか？","acceptedAnswer":{"@type":"Answer","text":"岩手を代表する最高峰のブランド牛「前沢牛」や「いわて雫石牛」のすき焼き・ステーキは必食です。南部鉄器の厚手の鍋で調理されることで肉の旨味がぎゅっと凝縮されます。また、きめ細やかな肉質と甘みが特徴の「八幡平ポーク」や「杜仲茶ポーク」のしゃぶしゃぶ、八幡平の清流で育ったイワナの塩焼き、山のキノコを使った郷土汁、新米の岩手県産米「いわてっこ」「銀河のしずく」など、冬の東北ならではの滋味深い料理が揃います。"}},{"@type":"Question","name":"八幡平の初冬（11月〜12月）の見どころや観光スポットは？","acceptedAnswer":{"@type":"Answer","text":"11月下旬以降、八幡平の高山地帯ではアオモリトドマツの樹氷（スノーモンスター）が形成され始め、白銀の絶景が広がります。また、日本初の商業用地熱発電所である「松川地熱発電所」の巨大な冷却塔から立ち上る真っ白な蒸気柱は冬ならではの迫力ある光景です。12月に入ると安比高原スキー場や八幡平リゾートがオープンし、世界中のスキーヤーを魅了する極上のパウダースノーを楽しめます。車で少し足を伸ばせば、雫石の小岩井農場の初冬イルミネーションも見応えがあります。"}},{"@type":"Question","name":"新幹線を利用した場合のアクセスルートと所要時間は？","acceptedAnswer":{"@type":"Answer","text":"東京方面からは東北新幹線「はやぶさ」でJR盛岡駅まで約2時間10分。盛岡駅西口または東口から岩手県交通の路線バス（八幡平マウンテンホテル行き、松川温泉行きなど）に乗車し、八幡平温泉郷まで約60分、松川温泉までは約1時間50分で到着します。宿泊施設によっては盛岡駅や最寄りのJR花輪線大更駅からの送迎バス（事前予約制）を運行している場合があるため、予約時に確認することをおすすめします。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月八幡平温泉郷】極上前沢牛と南部鉄器すき焼き！名宿5選","item":"https://croud-travel.pages.dev/winter-iwate-hachimantai-matsukawa-onsen-snow-maesawagyu-stay"}]}) }}
+      />
 
         {/* Introduction Overview */}
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200 space-y-6">

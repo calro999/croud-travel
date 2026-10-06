@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅でクラシカルでおしゃれな非日常ステイを楽しむなら？","acceptedAnswer":{"@type":"Answer","text":"「嬉野温泉 ハミルトン宇礼志野」は小高い丘に佇む洋館リゾート。美肌の温泉大浴場と本格イタリアンディナーを一人旅でも優雅に堪能できます。"}},{"@type":"Question","name":"嬉野茶とお茶尽くしの極上温泉ステイを体験したい時は？","acceptedAnswer":{"@type":"Answer","text":"「嬉野 八十八」は全室源泉かけ流し温泉を誇り、専属茶師によるティーセレモニーなど日本屈指のお茶リトリートが叶います。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【嬉野温泉ひとり旅・美肌名湯おこもり】日本三大美肌の湯・嬉野茶・温泉湯豆腐！とろとろの重曹泉に包まれる贅沢ソロリトリート厳選3宿","item":"https://croud-travel.pages.dev/saga-ureshino-solo-retreat-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

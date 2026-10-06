@@ -45,6 +45,10 @@ export default function FurusatoNarukokyoAkiuAutumnFoliageStayPage() {
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「鳴子温泉郷 極上の貸切露天風呂 旅館大沼」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「鳴子温泉郷 極上の貸切露天風呂 旅館大沼」へは、東北新幹線『古川駅』よりＪＲ陸羽東線に乗り換え、『鳴子御殿湯駅』下車、徒歩５分。最寄りの鳴子御殿湯駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「鳴子温泉郷 極上の貸切露天風呂 旅館大沼」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「鳴子温泉郷 極上の貸切露天風呂 旅館大沼」は『美肌湯が自慢の宮城・東鳴子温泉の秘湯宿。源泉かけ流しの天然温泉を使用した大浴場・家族風呂を』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「鳴子温泉郷 極上の貸切露天風呂 旅館大沼」と「鳴子温泉 旅館すがわら」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
       {/* パンくずナビ */}
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:text-stone-800 underline">ホーム</Link>

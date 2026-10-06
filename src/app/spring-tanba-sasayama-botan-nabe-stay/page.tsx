@@ -204,6 +204,10 @@ export default function FeatureDetailPage() {
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「丹波篠山・料理旅館 たかさご」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「丹波篠山・料理旅館 たかさご」へは、ＪＲ福知山線 篠山口駅よりお車で約15分/舞鶴若狭自動車道 丹南篠山口よりお車で約10分。最寄りの篠山口駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「丹波篠山・料理旅館 たかさご」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「丹波篠山・料理旅館 たかさご」は『今から約１６０年前の嘉永元年に開業。篠山観光の中心に位置し、観光拠点にもオススメの老舗旅館』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「丹波篠山・料理旅館 たかさご」と「丹波篠山 近又」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
           <h2 className="text-xl sm:text-2xl font-bold text-slate-900 flex items-center gap-2">

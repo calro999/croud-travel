@@ -201,6 +201,10 @@ export default function FeatureDetailPage() {
       </header>
 
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「南あわじ温泉郷 潮崎の湯 やぶ萬旅館 ＜淡路島＞」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「南あわじ温泉郷 潮崎の湯 やぶ萬旅館 ＜淡路島＞」へは、ＪＲ三宮駅またはＪＲ舞子駅より福良行きバス 終点より徒歩5分。最寄りの三宮駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「南あわじ温泉郷 潮崎の湯 やぶ萬旅館 ＜淡路島＞」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「南あわじ温泉郷 潮崎の湯 やぶ萬旅館 ＜淡路島＞」は『創業160年の老舗料理旅館！当館名物料理「鯛めん」＆美肌の湯 潮崎温泉 を堪能あれ◎』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「南あわじ温泉郷 潮崎の湯 やぶ萬旅館 ＜淡路島＞」と「白地温泉 小西旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
           <h2 className="text-xl sm:text-2xl font-bold text-slate-900 flex items-center gap-2">
             <Award className="w-6 h-6 text-amber-600" />

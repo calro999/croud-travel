@@ -204,6 +204,10 @@ export default function FeatureDetailPage() {
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「小豆島温泉 オリビアン小豆島 夕陽ヶ丘ホテル ＜小豆島＞」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「小豆島温泉 オリビアン小豆島 夕陽ヶ丘ホテル ＜小豆島＞」へは、公共交通機関またはお車でのアクセスが可能です。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「小豆島温泉 オリビアン小豆島 夕陽ヶ丘ホテル ＜小豆島＞」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「小豆島温泉 オリビアン小豆島 夕陽ヶ丘ホテル ＜小豆島＞」は『瀬戸内海を望む23万㎡の高台リゾートホテル。絶景の夕陽と天然温泉、小豆島の味覚を満喫。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「小豆島温泉 オリビアン小豆島 夕陽ヶ丘ホテル ＜小豆島＞」と「小豆島温泉 天空のオーシャンビューホテル 海廬 ＜小豆島＞」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
           <h2 className="text-xl sm:text-2xl font-bold text-slate-900 flex items-center gap-2">

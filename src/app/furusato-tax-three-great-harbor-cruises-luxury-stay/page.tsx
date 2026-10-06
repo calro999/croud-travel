@@ -64,6 +64,10 @@ export default function Page() {
 
       {/* Main Content Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 mt-12 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ホテル ラ・スイート神戸ハーバーランド」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ホテル ラ・スイート神戸ハーバーランド」へは、JR「神戸駅」より徒歩約10分／地下鉄海岸線「みなと元町駅」より徒歩約4分／阪神高速3号神戸線「京橋出入口」より車約5分。最寄りの神戸（兵庫）駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ホテル ラ・スイート神戸ハーバーランド」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ホテル ラ・スイート神戸ハーバーランド」は『全64室が70㎡以上の大型ジャグジー＆テラス付オーシャンンビュールームのラグジュアリーホテ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ホテル ラ・スイート神戸ハーバーランド」と「横浜ベイホテル東急」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
         {/* Intro Lead */}
         <section className="bg-slate-900/90 border border-slate-800 rounded-3xl p-6 sm:p-8 backdrop-blur shadow-2xl">
           <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">

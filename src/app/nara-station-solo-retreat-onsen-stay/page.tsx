@@ -47,6 +47,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"奈良駅周辺で天然温泉とサウナの評価が最も高い宿は？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉 吉野桜の湯 御宿 野乃奈良」はJR奈良駅徒歩約1分。全館畳敷き、天然温泉大浴場、高温サウナ、名物夜鳴きそばを備えた人気宿です。"}},{"@type":"Question","name":"駅直結でアクセスが良く、大浴場があるシティホテルは？","acceptedAnswer":{"@type":"Answer","text":"「ホテル日航奈良」はJR奈良駅西口直結。宿泊者専用の大浴場「心の湯」を完備し、雨の日でも濡れずにチェックイン可能です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【奈良駅前ひとり旅・天然温泉おこもり】全館畳敷き・吉野桜の湯・若草山＆東大寺！古都1300年の静寂に癒やされる厳選3宿","item":"https://croud-travel.pages.dev/nara-station-solo-retreat-onsen-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

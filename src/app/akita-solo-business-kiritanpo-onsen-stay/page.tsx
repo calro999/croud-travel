@@ -48,6 +48,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ホテルメトロポリタン秋田」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ホテルメトロポリタン秋田」へは、ＪＲ秋田新幹線秋田駅西口から徒歩で1分。最寄りの秋田駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ホテルメトロポリタン秋田」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ホテルメトロポリタン秋田」は『秋田駅隣接！』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ホテルメトロポリタン秋田」では季節ごとに異なる宿泊プランや料理プランが用意されています。ご旅行の人数や滞在スタイルに合わせて最適なプランをお選びいただけます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【秋田出張＆美酒ひとり旅】秋田駅直結・天然温泉大浴場・比内地鶏きりたんぽ鍋！酒どころ秋田を満喫する極上ホテル 厳選3選","item":"https://croud-travel.pages.dev/akita-solo-business-kiritanpo-onsen-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

@@ -180,6 +180,10 @@ export default function Page() {
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ＣＡＮＤＥＯ ＨＯＴＥＬＳ奈良橿原」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ＣＡＮＤＥＯ ＨＯＴＥＬＳ奈良橿原」へは、大和八木駅より徒歩3分 ＜近鉄難波駅より特急で35分・京都駅より特急で50分＞吉野の紅葉まで特急で約50分♪。最寄りの大和八木駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ＣＡＮＤＥＯ ＨＯＴＥＬＳ奈良橿原」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ＣＡＮＤＥＯ ＨＯＴＥＬＳ奈良橿原」は『最上階に大展望風呂を備えるジャパンクールデザインホテル／全室禁煙』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ＣＡＮＤＥＯ ＨＯＴＥＬＳ奈良橿原」と「吉備高原リゾートホテル」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
         
         {/* 特集の魅力セクション */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80">

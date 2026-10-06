@@ -48,6 +48,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"大分空港から別府市内ホテルへのアクセスはどうですか？","acceptedAnswer":{"@type":"Answer","text":"大分空港から空港特急バス「エアライナー」が運行しており、別府駅前や別府北浜まで約45〜50分で直行できます。"}},{"@type":"Question","name":"車がなくても別府の地獄めぐりは回れますか？","acceptedAnswer":{"@type":"Answer","text":"別府駅から亀の井バスの路線バスが頻発しており、鉄輪エリアや海地獄・血の池地獄へ簡単にアクセスできます。定期観光バス「別府地獄めぐりコース」を利用するのも便利です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【別府温泉ひとり旅・湯治おこもり】別府湾パノラマ・源泉掛け流し客室露天・名物地獄蒸し！湧出量日本一の温泉都で癒やされる名宿 厳選3選","item":"https://croud-travel.pages.dev/beppu-solo-retreat-kakenagashi-jigoku-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

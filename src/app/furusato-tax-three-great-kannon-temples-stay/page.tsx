@@ -167,6 +167,10 @@ export default function Page() {
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「天然温泉 凌天の湯 御宿 野乃浅草別邸」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「天然温泉 凌天の湯 御宿 野乃浅草別邸」へは、つくばEXPRESS「浅草」駅A1出口(EV有り)より徒歩約4分、銀座線「浅草」駅1番出口(EV有り)より徒歩約8分。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「天然温泉 凌天の湯 御宿 野乃浅草別邸」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉 凌天の湯 御宿 野乃浅草別邸」は『天然温泉大浴場は浅草観音温泉の黒湯を使用♪セルフロウリュサウナ完備！』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉 凌天の湯 御宿 野乃浅草別邸」と「南郷温泉 二葉屋」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
         
         {/* 特集の魅力セクション */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80">

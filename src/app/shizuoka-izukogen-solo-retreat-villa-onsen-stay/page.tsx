@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で客室露天風呂やプライベート空間を極めたいなら？","acceptedAnswer":{"@type":"Answer","text":"「大室の杜 玉翠」や「自然家．Haco」は全室露天風呂付きで楽天口コミ★4.6〜4.7超。誰にも邪魔されずに絶景と温泉に浸かる贅沢な一人旅が叶います。"}},{"@type":"Question","name":"広大な敷地と良質な温泉大浴場でゆったり過ごせる宿は？","acceptedAnswer":{"@type":"Answer","text":"「伊豆高原温泉ホテル 森の泉」は緑豊かな森に囲まれ、充実した温泉大浴場と清潔な客室で、静かにリフレッシュしたい一人旅に大好評です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【東伊豆・伊豆高原ひとり旅・大室山と海一望おこもり】全室客室露天風呂・金目鯛姿煮・伊豆ジオパーク！東京特急踊り子直通のリゾート厳選3宿","item":"https://croud-travel.pages.dev/shizuoka-izukogen-solo-retreat-villa-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

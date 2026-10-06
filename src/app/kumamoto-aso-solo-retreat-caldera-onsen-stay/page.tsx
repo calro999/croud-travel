@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で日常を完全に遮断し、阿蘇の絶景と静寂に浸れる宿は？","acceptedAnswer":{"@type":"Answer","text":"「南阿蘇久木野温泉 旅館 心乃間間」は広大な敷地にわずかな客室のみを配し、楽天口コミ★4.7超。大人のおこもり一人旅にこれ以上ない静寂を提供します。"}},{"@type":"Question","name":"文人ゆかりの歴史ある温泉街で、源泉掛け流しとあか牛を満喫するなら？","acceptedAnswer":{"@type":"Answer","text":"「阿蘇内牧温泉 蘇山郷」は与謝野晶子が逗留した歴史宿。阿蘇五岳を望むBarや自家源泉掛け流しの湯、地産地消の美食が一人旅に大好評です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【熊本・阿蘇温泉郷ひとり旅・世界最大級カルデラおこもり】阿蘇五岳パノラマ露天・あか牛会席・名水湧く自家源泉！大自然のパワーチャージ厳選3宿","item":"https://croud-travel.pages.dev/kumamoto-aso-solo-retreat-caldera-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

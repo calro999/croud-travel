@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で落ち着いた雰囲気と源泉かけ流し温泉を堪能するなら？","acceptedAnswer":{"@type":"Answer","text":"「天童温泉 湯の香 松の湯」は口コミ高評価の全客室趣の異なる宿。巨石を配した源泉かけ流し風呂と丁寧なもてなしがソロ旅に大好評です。"}},{"@type":"Question","name":"将棋の伝統とおもてなし、豪華な館内設備を楽しみたい時は？","acceptedAnswer":{"@type":"Answer","text":"「天童温泉 美味求真の宿 天童ホテル」は滝を望む広大な大浴場と山形牛創作会席が魅力。一人旅プランも充実しています。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【天童温泉ひとり旅・将棋駒と名湯おこもり】山寺立石寺パノラマ・源泉かけ流し・山形牛＆さくらんぼ！山形新幹線直通の果樹王国厳選3宿","item":"https://croud-travel.pages.dev/yamagata-tendo-solo-retreat-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

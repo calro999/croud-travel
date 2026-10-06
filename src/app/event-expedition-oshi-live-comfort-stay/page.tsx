@@ -48,6 +48,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"チェックイン前やチェックアウト後にスーツケース等の大きな荷物を預かってもらえますか？","acceptedAnswer":{"@type":"Answer","text":"はい、ご紹介した3ホテルはいずれも宿泊日当日のチェックイン前・チェックアウト後の荷物預かり（クロークまたは専用ロッカー）に無料で対応しています。身軽に物販や会場へ向かうことができます。"}},{"@type":"Question","name":"友人同士で2名以上で泊まる場合も対応可能ですか？","acceptedAnswer":{"@type":"Answer","text":"もちろん可能です。ツインルームやコネクティングルーム、エキストラベッド対応プランなど多彩に用意されており、遠征仲間とのシェア滞在にも最適です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【ライブ・舞台遠征泊】会場徒歩すぐ＆大画面ミラーリング・推し活応援！遠征民のための快適拠点ホテル 厳選3選","item":"https://croud-travel.pages.dev/event-expedition-oshi-live-comfort-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

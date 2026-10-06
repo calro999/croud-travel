@@ -45,6 +45,10 @@ export default function FurusatoMatsubaEchizenCrabSeasonStayPage() {
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「城崎温泉 西村屋ホテル招月庭」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「城崎温泉 西村屋ホテル招月庭」へは、電車 JR城崎温泉駅から旅館組合無料乗合バスで5～15分 車 北近畿豊岡自動車道・豊岡出石ICから約18分。最寄りの城崎駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「城崎温泉 西村屋ホテル招月庭」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「城崎温泉 西村屋ホテル招月庭」は『かに・但馬牛など四季折々の味覚と充実したお風呂。五万坪の森林に囲まれ寛ぎのひとときを。無料』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「城崎温泉 西村屋ホテル招月庭」と「城崎温泉 医食同源の宿 かに庵」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
       {/* パンくずナビ */}
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:text-stone-800 underline">ホーム</Link>

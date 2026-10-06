@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で修善寺の歴史ある文化財旅館に泊まるなら？","acceptedAnswer":{"@type":"Answer","text":"「修善寺温泉 国の登録文化財の宿 新井旅館」は客室や浴堂など随所が国の有形文化財に指定。文豪たちが愛した本物の和の美を一人旅でも贅沢に体感できます。"}},{"@type":"Question","name":"自然豊かな庭園とモダンな温泉露天風呂を楽しみたい時は？","acceptedAnswer":{"@type":"Answer","text":"「修善寺温泉 宙 SORA 渡月荘金龍」は広大な庭園とスタイリッシュなデザイナーズ空間が魅力。静かに過ごしたい大人の一人旅に大人気です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【修善寺温泉ひとり旅・伊豆小京都おこもり】竹林の小径・国の登録文化財・桂川渓流露天！千二百年の歴史に抱かれる大人の隠れ宿厳選3宿","item":"https://croud-travel.pages.dev/shizuoka-shuzenji-solo-retreat-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

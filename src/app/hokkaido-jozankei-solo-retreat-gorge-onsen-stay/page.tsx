@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で誰にも邪魔されない至高の隠れ家空間と客室露天を極めるなら？","acceptedAnswer":{"@type":"Answer","text":"「奥定山渓温泉 佳松御苑」は支笏洞爺国立公園の森に佇む全客室展望風呂付きの最高峰宿で楽天口コミ★4.8超。究極の静寂と美食が約束されています。"}},{"@type":"Question","name":"民芸調の温かい居心地と囲炉裏料理・多彩な温泉を楽しみたいなら？","acceptedAnswer":{"@type":"Answer","text":"「定山渓温泉 ぬくもりの宿 ふる川」は手作りの温もりあふれる館内と、囲炉裏会席や充実の貸切風呂が一人旅に大絶賛されています。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【札幌の奥座敷・定山渓温泉ひとり旅・豊平川渓谷おこもり】全室客室温泉露天・囲炉裏会席・源泉掛け流し湯守！札幌直通バス60分の極上リトリート厳選3宿","item":"https://croud-travel.pages.dev/hokkaido-jozankei-solo-retreat-gorge-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

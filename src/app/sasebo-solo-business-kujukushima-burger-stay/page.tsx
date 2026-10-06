@@ -48,6 +48,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"佐世保周辺で天然温泉大浴場に入りたいならどのホテル？","acceptedAnswer":{"@type":"Answer","text":"「ホテル日航ハウステンボス」は自家源泉の天然温泉大浴場「ばってんの湯」を完備。サウナや露天風呂で出張の疲れをしっかり癒やせます。"}},{"@type":"Question","name":"佐世保駅に近くて移動効率が最も良いビジネスホテルは？","acceptedAnswer":{"@type":"Answer","text":"「佐世保ワシントンホテル」はJR佐世保駅東口から徒歩約3分。西肥バスターミナルやみなとオアシス佐世保にも近く、ビジネスに最適です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【佐世保出張・西九州ひとり旅】九十九島パノラマ・天然温泉ばってんの湯・名物佐世保バーガー！港町でととのう厳選3宿","item":"https://croud-travel.pages.dev/sasebo-solo-business-kujukushima-burger-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

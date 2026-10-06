@@ -48,6 +48,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"関西（大阪・神戸）から徳島へ行くにはどのルートが便利ですか？","acceptedAnswer":{"@type":"Answer","text":"三宮や大阪駅から発着する高速バス（JRバス・阪急バス・徳島バス等）が約15〜30分間隔で運行しており、乗り換えなしでJR徳島駅前へダイレクトに直結しています。"}},{"@type":"Question","name":"徳島空港（阿波おどり空港）から市内への移動はどうですか？","acceptedAnswer":{"@type":"Answer","text":"飛行機の発着に合わせてJR徳島駅直行の空港連絡バスが運行しており、約25〜30分で駅前バスターミナルへスムーズにアクセスできます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【徳島出張＆眉山ひとり旅】徳島駅直結・リバーサイド天然温泉・阿波尾鶏＆徳島ラーメン！四国の東玄関で癒やされる極上ホテル 厳選3選","item":"https://croud-travel.pages.dev/tokushima-solo-business-awataisen-onsen-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

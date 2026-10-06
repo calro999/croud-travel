@@ -42,6 +42,10 @@ export default function FurusatoTaxArticle() {
 
   return (
     <main className="min-h-screen bg-stone-50 text-stone-900 leading-relaxed font-sans">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「三朝温泉 依山楼 岩崎」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「三朝温泉 依山楼 岩崎」へは、◆車 中国道院庄IC60分／山陰道泊東郷IC20分 ◆JR 倉吉駅送迎バス14時20分～18時 ※要予約（前日まで）。最寄りの倉吉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「三朝温泉 依山楼 岩崎」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「三朝温泉 依山楼 岩崎」は『1920年(大正9年)創業★文人墨客に愛された三朝の老舗宿で回遊式大庭園風呂と山陰の旬味覚』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「三朝温泉 依山楼 岩崎」と「三朝温泉 三朝館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
       {/* ヒーローヘッダー */}
       <header className="relative bg-gradient-to-br from-stone-900 via-amber-950 to-stone-900 text-amber-50 py-16 px-4 md:px-8 border-b border-amber-900/50 shadow-2xl">
         <div className="max-w-4xl mx-auto space-y-4 text-center">

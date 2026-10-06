@@ -151,6 +151,14 @@ export default function FeaturePage() {
       </nav>
 
       <main className="max-w-5xl mx-auto px-4 py-8 md:py-12 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「奥札幌の秘湯 湖畔の宿支笏湖 丸駒温泉旅館」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「奥札幌の秘湯 湖畔の宿支笏湖 丸駒温泉旅館」へは、ＪＲ千歳駅／新千歳空港より車で５０分、札幌市内、エスコンフィールド、苫小牧港から車で６０分。最寄りの千歳（北海道）駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「奥札幌の秘湯 湖畔の宿支笏湖 丸駒温泉旅館」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「奥札幌の秘湯 湖畔の宿支笏湖 丸駒温泉旅館」は『2024,2025年連続アワード受賞宿 2024年リニューアル、国立公園の絶景温泉とサウナ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「奥札幌の秘湯 湖畔の宿支笏湖 丸駒温泉旅館」と「芦別温泉スターライトホテル＆おふろｃａｆｅ星遊館 満天の星空×サウナリゾート」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【北海道大自然バレルサウナ】十勝・ニセコ・富良野！白樺原生林と極上雪解け湧水水風呂宿5選","item":"https://croud-travel.pages.dev/organic-forest-infinity-panoramic-barrel-sauna-hokkaido"}]}) }}
+      />
         {/* Intro */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">

@@ -48,6 +48,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"岡山駅から倉敷駅まではどれくらい時間がかかりますか？","acceptedAnswer":{"@type":"Answer","text":"JR山陽本線または伯備線の普通列車で約15〜17分（運賃330円程度）で直結しており、本数も日中1時間に4〜5本あるため、非常に気軽に移動できます。"}},{"@type":"Question","name":"一人で果物パフェ（フルーツパフェ）を食べられるお店はありますか？","acceptedAnswer":{"@type":"Answer","text":"岡山は「フルーツ王国」と呼ばれ、岡山駅構内や倉敷美観地区の町家カフェ（くらしき桃子など）にはカウンター席が多く、おひとりさまでも気兼ねなく季節の贅沢パフェを堪能できます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【岡山・倉敷ひとり旅＆出張】岡山駅直結・倉敷美観地区・大浴場！白壁の街と日本庭園に癒やされる大人のおこもり宿 厳選3選","item":"https://croud-travel.pages.dev/okayama-kurashiki-solo-retreat-culture-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

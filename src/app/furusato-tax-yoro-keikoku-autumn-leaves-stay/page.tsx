@@ -44,6 +44,10 @@ export default function FeatureArticlePage() {
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「養老渓谷温泉郷 旅館 喜代元」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「養老渓谷温泉郷 旅館 喜代元」へは、養老渓谷駅から徒歩で２０分（１．７ｋｍ）／バスで５分。最寄りの養老渓谷駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「養老渓谷温泉郷 旅館 喜代元」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「養老渓谷温泉郷 旅館 喜代元」は『美肌効果に優れた自家源泉「黒湯」を楽しめる養老渓谷の温泉宿。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「養老渓谷温泉郷 旅館 喜代元」と「養老渓谷温泉郷 鶴乃家」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
       {/* パンくずナビ */}
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:text-stone-800 underline">ホーム</Link>

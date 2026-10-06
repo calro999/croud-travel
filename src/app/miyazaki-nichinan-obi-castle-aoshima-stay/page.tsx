@@ -71,6 +71,10 @@ export default function Page() {
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「青島天然温泉ルートイングランティアあおしま太陽閣」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「青島天然温泉ルートイングランティアあおしま太陽閣」へは、宮崎ICより車で１２分、宮崎空港より車で１３分、ＪＲ日南線こどもの国駅から徒歩約１３分。最寄りの子供の国駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「青島天然温泉ルートイングランティアあおしま太陽閣」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「青島天然温泉ルートイングランティアあおしま太陽閣」は『◇サンマリンスタジアム宮崎まで車で7分◇朝食は日向灘オーシャンビュー◇天然温泉◇露天風呂◇』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「青島天然温泉ルートイングランティアあおしま太陽閣」と「天然温泉”たまゆらの湯” 宮崎観光ホテル」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
 
         {/* セクション 1 */}
         <section className="bg-stone-900/40 rounded-3xl p-6 sm:p-8 md:p-10 border border-amber-500/20 backdrop-blur-md relative overflow-hidden shadow-2xl">

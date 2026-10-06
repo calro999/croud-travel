@@ -151,6 +151,14 @@ export default function FeaturePage() {
       </nav>
 
       <main className="max-w-5xl mx-auto px-4 py-8 md:py-12 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「蓼科温泉 いろりの宿 蓼科パークホテル」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「蓼科温泉 いろりの宿 蓼科パークホテル」へは、ＪＲ茅野駅下車タクシー２０分バス３０分／中央道諏訪ＩＣより約３０分。最寄りの茅野駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「蓼科温泉 いろりの宿 蓼科パークホテル」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「蓼科温泉 いろりの宿 蓼科パークホテル」は『晴れた夜には満天の星空を眺めながらの温泉 囲炉裏を囲んで愉しむご夕食で思い出に残るご旅行へ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「蓼科温泉 いろりの宿 蓼科パークホテル」と「奥札幌の秘湯 湖畔の宿支笏湖 丸駒温泉旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【絶壁バレルサウナ】天空の崖上に佇む円形サウナ＆湧水水風呂！息をのむ絶景パノラマ宿5選","item":"https://croud-travel.pages.dev/organic-forest-cliff-barrel-sauna-stay"}]}) }}
+      />
         {/* Intro */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">

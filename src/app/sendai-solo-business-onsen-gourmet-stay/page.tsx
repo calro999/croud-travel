@@ -48,6 +48,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"仙台空港から市内ホテルまでのアクセスはどうですか？","acceptedAnswer":{"@type":"Answer","text":"仙台空港アクセス線を使えば、空港から仙台駅まで最速約17分で直結。主要ホテルはいずれも駅から徒歩数分圏内のため非常にスムーズです。"}},{"@type":"Question","name":"一人で気軽に入れる牛タンの名店はありますか？","acceptedAnswer":{"@type":"Answer","text":"仙台駅構内の「牛たん通り」や駅周辺の有名店（善治郎、利久、司、伊達の牛たん本舗など）は全店カウンター席を備えており、一人客が日常的に多数利用しています。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【仙台出張＆ご褒美ひとり旅】仙台駅近・天然温泉サウナ・牛タン美食！疲れを癒やす杜の都の極上ホテル 厳選3選","item":"https://croud-travel.pages.dev/sendai-solo-business-onsen-gourmet-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

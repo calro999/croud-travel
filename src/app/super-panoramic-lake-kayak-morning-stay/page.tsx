@@ -204,6 +204,10 @@ export default function FeatureDetailPage() {
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「リゾート イン ボンシック」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「リゾート イン ボンシック」へは、上信越道→中部横断道八千穂高原ＩＣより２０分／中央自動車道須玉又は長坂ＩＣより５０分／ＪＲ小海線小海駅より車で２０分。最寄りの小海駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「リゾート イン ボンシック」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「リゾート イン ボンシック」は『静かで落ち着く小粋な宿・地産地消のお料理自慢のゲストハウス・Wi-Fi完備』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「リゾート イン ボンシック」では季節ごとに異なる宿泊プランや料理プランが用意されています。ご旅行の人数や滞在スタイルに合わせて最適なプランをお選びいただけます。"}}]}) }}
+      />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
           <h2 className="text-xl sm:text-2xl font-bold text-slate-900 flex items-center gap-2">

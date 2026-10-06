@@ -48,6 +48,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人でわんこそばに挑戦することはできますか？","acceptedAnswer":{"@type":"Answer","text":"盛岡駅前や市内の「東家（あずまや）」などでは、おひとりさまのわんこそば挑戦を歓迎しており、給仕さんがマンツーマンでリズムよくお給仕してくれます。"}},{"@type":"Question","name":"盛岡駅から繁華街の大通りまでは歩けますか？","acceptedAnswer":{"@type":"Answer","text":"盛岡駅から開運橋を渡って大通り商店街までは徒歩約10〜12分。市内循環バス「でんでんむし（1回130円程度）」を使えば約5分で手軽に移動できます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【盛岡出張＆麺都ひとり旅】盛岡駅近・天然温泉大浴場・盛岡三大麺（冷麺・じゃじゃ麺・わんこそば）！北東北の要所で整う極上宿 厳選3選","item":"https://croud-travel.pages.dev/morioka-solo-business-noodles-onsen-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

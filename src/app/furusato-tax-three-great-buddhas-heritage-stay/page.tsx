@@ -183,6 +183,10 @@ export default function Page() {
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ホテルニューわかさ」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ホテルニューわかさ」へは、車：名神高速道路京都南ICより60分 電車：近鉄奈良線近鉄奈良駅。最寄りの近鉄奈良駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ホテルニューわかさ」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ホテルニューわかさ」は『奈良公園・東大寺まで徒歩5分！世界遺産を見渡せる屋上庭園や華やかな懐石料理で奈良をたっぷり』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ホテルニューわかさ」と「鎌倉パークホテル」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
         
         {/* 特集の魅力セクション */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80">

@@ -42,6 +42,10 @@ export default function Page() {
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「富士山と湖を望むリゾート ホテル マウント富士」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「富士山と湖を望むリゾート ホテル マウント富士」へは、富士山駅より御殿場方面の路線バスへ乗り、ホテルマウント富士入口にて下車。最寄りの富士吉田駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「富士山と湖を望むリゾート ホテル マウント富士」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「富士山と湖を望むリゾート ホテル マウント富士」は『1,100ｍの高台に建つ、ホテル中庭から望む “雄大な富士山” をぜひご堪能下さい。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「富士山と湖を望むリゾート ホテル マウント富士」と「庭園と感動の宿 富士山温泉 ホテル鐘山苑」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
       <div className="max-w-5xl mx-auto">
         {/* パンくずリスト */}
         <nav className="text-xs md:text-sm text-stone-500 mb-6 flex items-center gap-2 flex-wrap">

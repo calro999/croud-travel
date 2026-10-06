@@ -72,6 +72,10 @@ export default function Page() {
 
       {/* Main Content Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「旅館あづまや ＜和歌山県＞」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「旅館あづまや ＜和歌山県＞」へは、紀伊田辺駅よりバス・タクシーで約９０分/新宮駅よりバス、タクシーで６０分「湯峰温泉」下車すぐ/南紀田辺ＩＣから車で70分。最寄りの新宮駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「旅館あづまや ＜和歌山県＞」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「旅館あづまや ＜和歌山県＞」は『名湯と温泉料理の宿で知られている当館。熊野古道のメッカ、本宮に在り、つぼ湯が目印です。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「旅館あづまや ＜和歌山県＞」と「よしのや旅館 ＜和歌山県＞」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
         {/* Intro Card */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200/80">
           <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mb-4 border-l-4 border-indigo-600 pl-4">

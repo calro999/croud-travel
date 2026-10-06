@@ -49,6 +49,14 @@ export default function FurusatoArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「野沢温泉 旅館 さかや」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「野沢温泉 旅館 さかや」へは、北陸長野新幹線飯山駅下車→シャトルバス「野沢温泉ライナー」25分→野沢温泉下車→徒歩3分。最寄りの戸狩野沢温泉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「野沢温泉 旅館 さかや」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「野沢温泉 旅館 さかや」は『野沢温泉の憧れの老舗温泉旅館。自然湧出する自家源泉は贅沢に掛け流され、抜群の効能を誇ってい』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「野沢温泉 旅館 さかや」と「野沢温泉 河一屋旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【野沢温泉×ふるさと納税】十三の外湯めぐり＆源泉麻釜！信州郷土料理の名宿特集｜旅館さかや・河一屋旅館・住吉屋","item":"https://croud-travel.pages.dev/furusato-tax-nozawa-onsen-sotoyu-heritage-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

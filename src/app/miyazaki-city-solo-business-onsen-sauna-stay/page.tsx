@@ -47,6 +47,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"宮崎市中心部で天然温泉とサウナが最も充実しているホテルは？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉 日向の湯 ドーミーイン宮崎」は橘通西に位置し、最上階の天然温泉大浴場、高温サウナ、名物夜鳴きそばや冷汁朝食が揃っています。"}},{"@type":"Question","name":"サウナ好きの男性出張者におすすめのスパホテルは？","acceptedAnswer":{"@type":"Answer","text":"「ホテルマリックス」は本格的なサウナ・大浴場「スパぱうぱう」を完備し、出張ビジネスパーソンから長年高い支持を得ています。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【宮崎出張・天然温泉サウナ】南国リゾート・天然温泉日向の湯・宮崎地鶏炭火焼き！橘通ビジネス街を制する厳選3宿","item":"https://croud-travel.pages.dev/miyazaki-city-solo-business-onsen-sauna-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

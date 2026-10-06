@@ -49,6 +49,14 @@ export default function FurusatoArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「深山荘 高見屋」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「深山荘 高見屋」へは、ＪＲ 山形駅よりバスで４０分／山形自動車道 山形蔵王ＩＣから車で約１３ＫＭ、東北中央自動車道 山形上山ＩＣから１１ｋｍ。最寄りの山形駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「深山荘 高見屋」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「深山荘 高見屋」は『～名湯一門 高見屋～創業300年の歴史を誇る老舗旅館。純和風建築に滞在する非日常の時間。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「深山荘 高見屋」と「蔵王温泉 蔵王国際ホテル」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【蔵王温泉×ふるさと納税】日本屈指の強酸性白濁硫黄泉＆山形牛！名門名湯宿特集｜深山荘高見屋・蔵王国際ホテル・蔵王四季のホテル","item":"https://croud-travel.pages.dev/furusato-tax-zao-onsen-acid-sulfur-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

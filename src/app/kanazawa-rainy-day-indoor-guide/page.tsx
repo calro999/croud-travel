@@ -142,6 +142,10 @@ export default function KanazawaRainyDayIndoorGuidePage() {
 
   return (
     <main className="min-h-screen bg-slate-900 text-slate-100 selection:bg-teal-500 selection:text-white pb-20">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「「弁当忘れても傘忘れるな」の街！21世紀美術館・ひがし茶屋街カフェ・金箔貼り体験」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
+      />
       {/* ヒーローセクション（Teal基調） */}
       <section className="relative overflow-hidden bg-gradient-to-b from-teal-950 via-slate-900 to-slate-900 py-16 sm:py-24 border-b border-teal-800/40">
         <div className="absolute inset-0 bg-[radial-gradient(circle_at_30%_20%,rgba(20,184,166,0.15),transparent_60%)] pointer-events-none" />

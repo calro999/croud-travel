@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で日本屈指のサウナ聖地「らかんの湯」を体験するなら？","acceptedAnswer":{"@type":"Answer","text":"「武雄温泉 御船山楽園ホテル」に宿泊すれば、薬草スチームサウナや薪サウナ、極上の水風呂を備えた名サウナを存分に堪能できます。"}},{"@type":"Question","name":"駅前すぐで手頃に天然温泉大浴場に入れる宿は？","acceptedAnswer":{"@type":"Answer","text":"「セントラルホテル武雄温泉駅前」はJR武雄温泉駅南口すぐ。天然温泉大浴場と朝食無料サービスを備え、出張や一人旅の拠点に最適です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【佐賀・武雄温泉ひとり旅・楼門辰野金吾おこもり】千三百年美肌湯・御船山楽園チームラボ・佐賀牛！武雄温泉駅直通の極上厳選3宿","item":"https://croud-travel.pages.dev/saga-takeo-solo-retreat-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

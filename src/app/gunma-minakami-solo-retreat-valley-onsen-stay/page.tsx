@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で満天の星空を仰ぐ絶景露天風呂と温かいもてなしを体験できる宿は？","acceptedAnswer":{"@type":"Answer","text":"「水上温泉郷 湯檜曽温泉 天空の湯 なかや旅館」は屋上露天風呂からの星空ビューと細やかなサービスで楽天口コミ★4.6超の絶賛を集めています。"}},{"@type":"Question","name":"太宰治ゆかりの文学散歩と落ち着いた純和風の滞在を求めるなら？","acceptedAnswer":{"@type":"Answer","text":"「水上温泉郷 谷川温泉 旅館たにがわ」は太宰治ミニギャラリーを備え、谷川岳の静寂に包まれた極上の温泉ステイが一人旅に大好評です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【水上温泉郷ひとり旅・谷川岳大自然おこもり】利根川源流の渓谷美・満天星空露天風呂・太宰治逗留の歴史！上越新幹線直通のリフレッシュ厳選3宿","item":"https://croud-travel.pages.dev/gunma-minakami-solo-retreat-valley-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

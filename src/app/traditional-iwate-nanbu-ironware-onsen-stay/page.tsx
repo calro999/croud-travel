@@ -204,6 +204,10 @@ export default function FeatureDetailPage() {
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「花巻温泉 割烹旅館 廣美亭」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「花巻温泉 割烹旅館 廣美亭」へは、東北自動車道花巻ＩＣより5分・JR花巻空港駅よりタクシーで15分・東北新幹線新花巻駅より無料送迎バスあり（要プラン確認）。最寄りの新花巻駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「花巻温泉 割烹旅館 廣美亭」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「花巻温泉 割烹旅館 廣美亭」は『花巻温泉で唯一の割烹旅館。岩手の旬の素材を使った本格会席料理が自慢の宿。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「花巻温泉 割烹旅館 廣美亭」と「花巻温泉 佳松園」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
           <h2 className="text-xl sm:text-2xl font-bold text-slate-900 flex items-center gap-2">

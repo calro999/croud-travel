@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で誰にも邪魔されず最高峰の料理と貸切温泉を楽しめる宿は？","acceptedAnswer":{"@type":"Answer","text":"「料理旅館 奥飛騨山草庵 饗家」は客室わずか数組の大人の隠れ家。楽天口コミ★4.80を誇り、独創的な山草会席と完全貸切露天風呂が一人旅の究極のご褒美になります。"}},{"@type":"Question","name":"平湯温泉への公共交通機関でのアクセスは？","acceptedAnswer":{"@type":"Answer","text":"JR高山駅前の高山濃飛バスセンターから新穂高行き路線バスで約50分、または松本バスターミナルから特急バスで約1時間25分と、バスアクセスが非常に良好です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【奥飛騨・平湯温泉ひとり旅・北アルプス山懐の原生林秘湯おこもり】奥飛騨最古の源泉かけ流し・飛騨牛炭火焼き・大露天風呂！山岳リトリート厳選3宿","item":"https://croud-travel.pages.dev/gifu-hirayu-solo-retreat-okuhida-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

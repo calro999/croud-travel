@@ -49,6 +49,14 @@ export default function FurusatoArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「運河の宿 おたる ふる川」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「運河の宿 おたる ふる川」へは、公共交通機関またはお車でのアクセスが可能です。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「運河の宿 おたる ふる川」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「運河の宿 おたる ふる川」は『天然温泉『小樽運河前の温泉宿』 明治時代の商家を再現。おもてなし溢れる空間で寛ぎの一日を。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「運河の宿 おたる ふる川」と「おたる 宏楽園」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【小樽・朝里川温泉×ふるさと納税】小樽運河の情緒＆北の迎賓館！鰊御殿と寿司の街特集｜おたるふる川・宏楽園・銀鱗荘","item":"https://croud-travel.pages.dev/furusato-tax-otaru-canal-asarigawa-onsen-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

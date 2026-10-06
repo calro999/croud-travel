@@ -48,6 +48,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"鳥取駅周辺で天然温泉に入れるおすすめホテルは？","acceptedAnswer":{"@type":"Answer","text":"「鳥取温泉 ホテルモナーク鳥取」は敷地内から湧出する自家源泉を引いた天然温泉大浴場（サウナ付き）を完備しており、出張者に圧倒的人気です。"}},{"@type":"Question","name":"駅直近で雨や雪でもスムーズにチェックインできる宿は？","acceptedAnswer":{"@type":"Answer","text":"「鳥取ワシントンホテルプラザ」はJR鳥取駅北口から徒歩約1分。駅前広場を渡ってすぐの位置にあり、移動ストレスが一切ありません。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【鳥取出張・ひとり旅】自家源泉かけ流し鳥取温泉・鳥取砂丘パノラマ・冬の松葉ガニ！山陰ビジネスを豊かにする厳選3宿","item":"https://croud-travel.pages.dev/tottori-solo-business-sanddune-crab-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

@@ -180,6 +180,10 @@ export default function Page() {
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「エースイン・松阪」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「エースイン・松阪」へは、ＪＲ・近鉄松阪駅北口より徒歩１分。最寄りの松阪駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「エースイン・松阪」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「エースイン・松阪」は『日本百名谷・大杉谷峡谷への玄関口。松阪牛の名店巡りと無料朝食バイキングが魅力の快適ホテル。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「エースイン・松阪」と「神戸牛と有馬温泉 天然金泉・銀泉の宿 有馬御苑」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
         
         {/* 特集の魅力セクション */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80">

@@ -151,6 +151,14 @@ export default function FeaturePage() {
       </nav>
 
       <main className="max-w-5xl mx-auto px-4 py-8 md:py-12 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「下呂温泉 源泉かけ流しのおやど 菊半旅館」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「下呂温泉 源泉かけ流しのおやど 菊半旅館」へは、ＪＲ高山線 下呂駅より徒歩１２分。最寄りの下呂駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「下呂温泉 源泉かけ流しのおやど 菊半旅館」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「下呂温泉 源泉かけ流しのおやど 菊半旅館」は『下呂でも数少ない加水、加温、循環なしの100%源泉かけ流し。温泉街も近く散策にも便利な宿。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「下呂温泉 源泉かけ流しのおやど 菊半旅館」と「下呂温泉 小川屋」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【A5飛騨牛朴葉味噌焼き＆すき焼き】高山・下呂温泉の香ばしい郷土美食と日本三名泉宿5選","item":"https://croud-travel.pages.dev/traditional-gifu-hida-beef-houba-miso-stay"}]}) }}
+      />
         {/* Intro */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">

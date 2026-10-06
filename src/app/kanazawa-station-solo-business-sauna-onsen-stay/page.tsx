@@ -47,6 +47,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"金沢駅西口（金沢港口）近くで最も大浴場とサウナが充実しているホテルは？","acceptedAnswer":{"@type":"Answer","text":"「金沢マンテンホテル駅前」は金沢港口から徒歩約1分。露天風呂付きの大浴場と男性高温サウナ・女性スチームサウナを完備しています。"}},{"@type":"Question","name":"駅前で温泉大浴殿と豊富なリラクゼーションがある宿は？","acceptedAnswer":{"@type":"Answer","text":"「アパホテル〈金沢駅前〉」は兼六園口徒歩1分。大浴殿「玄要の湯」に露天風呂やサウナを完備し、出張の疲れをしっかり癒やせます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【金沢駅前出張・天然温泉サウナ】鼓門・天然温泉白鳥の湯・近江町市場海鮮丼！加賀百万石の伝統とビジネスを両立する厳選3宿","item":"https://croud-travel.pages.dev/kanazawa-station-solo-business-sauna-onsen-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

@@ -180,6 +180,10 @@ export default function Page() {
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ホテル・ザ・ウエストヒルズ・水戸」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ホテル・ザ・ウエストヒルズ・水戸」へは、ＪＲ水戸駅から路線バス大工町下車（約10分）◇常磐道水戸I.Cより約15分、北関東自動車道水戸南I.Cより約25分。最寄りの水戸駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ホテル・ザ・ウエストヒルズ・水戸」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ホテル・ザ・ウエストヒルズ・水戸」は『国営ひたち海浜公園へ車で約30分。水戸信用金庫スタジアムへ車で約25分。館内にコンビニ有り』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ホテル・ザ・ウエストヒルズ・水戸」と「金沢白鳥路 ホテル山楽」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
         
         {/* 特集の魅力セクション */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80">

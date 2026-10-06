@@ -47,6 +47,10 @@ export default function FurusatoBookLibraryHotelStayPage() {
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ＮＩＰＰＯＮＩＡ 播磨福崎 蔵書の館」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ＮＩＰＰＯＮＩＡ 播磨福崎 蔵書の館」へは、ＪＲ播但線 福崎駅よりお車にて約１０分。最寄りの福崎駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ＮＩＰＰＯＮＩＡ 播磨福崎 蔵書の館」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ＮＩＰＰＯＮＩＡ 播磨福崎 蔵書の館」は『２０２０年１１月ＮＥＷ ＯＰＥＮ！３００年前の建築美を残す指定重要有形文化財で宿泊を。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ＮＩＰＰＯＮＩＡ 播磨福崎 蔵書の館」と「ＢＯＯＫ ＨＯＴＥＬ 神保町」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
       <div className="max-w-5xl mx-auto">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
 

@@ -45,6 +45,10 @@ export default function FurusatoFujiKawaguchikoAutumnLeavesStayPage() {
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「富士河口湖温泉 富士山の見える温泉旅館 大池ホテル」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「富士河口湖温泉 富士山の見える温泉旅館 大池ホテル」へは、駅から無料送迎有■駐車場無料■河口湖駅から車で4分■富士急から車で7分河口湖ICから車で12分新宿駅からバスで約120分。最寄りの河口湖駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「富士河口湖温泉 富士山の見える温泉旅館 大池ホテル」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「富士河口湖温泉 富士山の見える温泉旅館 大池ホテル」は『山梨 富士山 河口湖 露天風呂 温泉 バイキング ブッフェ 温泉 貸切露天風呂』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「富士河口湖温泉 富士山の見える温泉旅館 大池ホテル」と「富士河口湖温泉郷 四季の宿 富士山」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
       {/* パンくずナビ */}
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:text-stone-800 underline">ホーム</Link>

@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で質の高い源泉かけ流し湯を心ゆくまで堪能できる湯村の宿は？","acceptedAnswer":{"@type":"Answer","text":"「湯村温泉 弘法湯」は毎分豊富な湯量を誇る自家源泉を持ち、アットホームなもてなしと料理の良さで一人旅の愛好家から高く評価されています。"}},{"@type":"Question","name":"出張やワーケーションを兼ねて気軽に天然温泉に浸かれる宿は？","acceptedAnswer":{"@type":"Answer","text":"「自家源泉かけ流しの天然温泉 湯村ホテル」はリーズナブルな価格帯でありながら、敷地内湧出の本格自家源泉と充実した設備を備え、一人旅に大変人気です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【甲府・湯村温泉ひとり旅・信玄隠し湯おこもり】自家源泉かけ流し・太宰治ゆかりの文学宿・甲州ワイン＆ほうとう！都心特急90分の古湯厳選3宿","item":"https://croud-travel.pages.dev/yamanashi-yumura-solo-retreat-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

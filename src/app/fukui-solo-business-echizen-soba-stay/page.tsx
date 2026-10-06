@@ -48,6 +48,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"北陸新幹線の福井駅は「かがやき」も停車しますか？","acceptedAnswer":{"@type":"Answer","text":"はい、最速達列車の「かがやき」および「はくたか」が全列車停車し、東京方面から乗り換えなしで一直線にアクセスできます。"}},{"@type":"Question","name":"一人で恐竜博物館や永平寺へ行くアクセスはどうですか？","acceptedAnswer":{"@type":"Answer","text":"福井駅東口から永平寺直行バス「永平寺ライナー（約30分）」が運行しており、勝山の恐竜博物館へはえちぜん鉄道勝山永平寺線と直通バスで手軽に行けます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【福井出張＆越前美食ひとり旅】北陸新幹線福井駅前・マリオット最新開業・天然温泉大浴場！越前おろしそばとソースカツ丼を満喫する極上宿 厳選3選","item":"https://croud-travel.pages.dev/fukui-solo-business-echizen-soba-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

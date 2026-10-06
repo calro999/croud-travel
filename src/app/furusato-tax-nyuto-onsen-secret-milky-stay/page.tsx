@@ -49,6 +49,14 @@ export default function FurusatoArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「休暇村 乳頭温泉郷」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「休暇村 乳頭温泉郷」へは、ＪＲ 田沢湖駅より羽後交通乳頭温泉行「休暇村」下車、徒歩０分。最寄りの田沢湖駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「休暇村 乳頭温泉郷」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「休暇村 乳頭温泉郷」は『美しいブナ林に囲まれた静かな宿です。温泉浴や森林浴が楽しめ、ここでは時間がゆっくりと流れて』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「休暇村 乳頭温泉郷」と「天然温泉 田沢湖レイクリゾート」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【乳頭温泉郷×ふるさと納税】日本屈指の乳白色秘湯＆田沢湖畔ステイ！湯治宿ガイド｜休暇村乳頭温泉郷・田沢湖レイクリゾート・駒ヶ岳温泉","item":"https://croud-travel.pages.dev/furusato-tax-nyuto-onsen-secret-milky-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

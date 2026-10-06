@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で白良浜のビーチに一番近く、温泉も楽しめる宿は？","acceptedAnswer":{"@type":"Answer","text":"「紀州・白浜温泉 むさし」は白良浜まで徒歩わずか1分。2種類の源泉を引く多彩なお風呂と充実したビュッフェが一人旅でも大人気です。"}},{"@type":"Question","name":"優雅にリゾートスパや庭園イルミネーションを楽しみたいなら？","acceptedAnswer":{"@type":"Answer","text":"「白浜古賀の井リゾート＆スパ」は全室オーシャンビュー。オープンテラス付き大浴場や深湯露天風呂、屋内温水プールなど充実の施設を誇ります。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【南紀白浜ひとり旅・海一望名湯おこもり】白良浜オーシャンビュー・日本三古湯・クエ＆伊勢海老！太平洋の絶景に抱かれる厳選3宿","item":"https://croud-travel.pages.dev/wakayama-shirahama-solo-retreat-ocean-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

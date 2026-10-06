@@ -122,6 +122,10 @@ export default function KyotoRainyDayTempleCafeGuidePage() {
 
   return (
     <main className="min-h-screen bg-rose-950/20 text-stone-800 selection:bg-rose-600 selection:text-white pb-24">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「緑鮮やかな苔寺・瑠璃光院・三千院＆おこもり温泉宿」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
+      />
       {/* ヒーローセクション（Rose / 和モダン緋色系統） */}
       <section className="relative overflow-hidden bg-gradient-to-b from-stone-900 via-rose-950 to-stone-900 text-stone-100 py-16 sm:py-24 border-b border-rose-900/40">
         <div className="absolute inset-0 bg-[radial-gradient(circle_at_70%_20%,rgba(244,63,94,0.18),transparent_55%)] pointer-events-none" />

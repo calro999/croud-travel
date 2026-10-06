@@ -48,6 +48,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"伊根エリアで一人でも客室露天風呂付きの高級宿に泊まれますか？","acceptedAnswer":{"@type":"Answer","text":"「客室露天風呂の宿 奥伊根温泉 油屋別館 和亭」は全室に日本海を望む源泉かけ流し露天風呂を完備。贅沢なプライベートおこもり旅に最適です。"}},{"@type":"Question","name":"伊根湾を一望できる展望露天風呂がある宿はどこですか？","acceptedAnswer":{"@type":"Answer","text":"「奥伊根温泉 油屋本館」は高台に位置し、見渡す限りの海と空が広がる絶景露天風呂や、日本海の旬の海の幸が自慢の老舗旅館です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【伊根の舟屋・宮津ひとり旅】海に浮かぶ重要伝統的建造物群・奥伊根温泉客室露天・旬の寒ブリ地魚！日本海最深部の静謐おこもり厳選3宿","item":"https://croud-travel.pages.dev/ine-funaya-solo-retreat-ocean-seafood-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

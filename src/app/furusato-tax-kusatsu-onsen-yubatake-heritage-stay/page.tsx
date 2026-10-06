@@ -49,6 +49,14 @@ export default function FurusatoArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「草津温泉 望雲」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「草津温泉 望雲」へは、ＪＲ吾妻線長野原草津口駅から車で２０分。最寄りの長野原草津口駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「草津温泉 望雲」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「草津温泉 望雲」は『創業慶長4年。６つのお風呂と2つの源泉が楽しめる、数々の文人に愛された、落ち着いた佇まいの』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「草津温泉 望雲」と「草津温泉 ホテル一井」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【草津温泉×ふるさと納税】湯畑徒歩圏内の老舗名宿特集！源泉かけ流しと名湯巡り完全ガイド｜望雲・ホテル一井・奈良屋","item":"https://croud-travel.pages.dev/furusato-tax-kusatsu-onsen-yubatake-heritage-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

@@ -47,6 +47,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"高崎駅直結で最もラグジュアリーなスパホテルは？","acceptedAnswer":{"@type":"Answer","text":"「ホテルココ・グラン高崎」はJR高崎駅東口デッキ直結。炭酸泉大浴場、露天風呂、男性ドライサウナ、女性岩盤浴を備えた至高のホテルです。"}},{"@type":"Question","name":"天然温泉大浴場とサウナでリーズナブルに泊まれる宿は？","acceptedAnswer":{"@type":"Answer","text":"「榛名の湯 ドーミーイン高崎」は天然温泉大浴場と高温サウナ、水風呂を完備し、ビジネス出張に最適な機能性とサービスを提供しています。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【高崎出張・天然温泉サウナ】新幹線結節点・榛名の湯・高崎パスタ！上州ビジネスハブを制する厳選3宿","item":"https://croud-travel.pages.dev/gunma-takasaki-solo-business-onsen-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

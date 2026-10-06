@@ -45,6 +45,10 @@ export default function FurusatoIseshimaAutumnIseLobsterStayPage() {
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「鳥羽本浦温泉 サン浦島 悠季の里」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「鳥羽本浦温泉 サン浦島 悠季の里」へは、伊勢自動車道→伊勢二見鳥羽ライン→直進約２５分/近鉄鳥羽駅1番出口より無料送迎バス約20分（要予約）15時16時17時。最寄りの鳥羽駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「鳥羽本浦温泉 サン浦島 悠季の里」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「鳥羽本浦温泉 サン浦島 悠季の里」は『口コミ4.8 伊勢志摩の旬の味覚、2種の源泉と趣の異なる湯めぐりで、”心あたたまる”海辺の』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「鳥羽本浦温泉 サン浦島 悠季の里」と「伊勢志摩国立公園 ／ 鳥羽温泉郷 戸田家」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
       {/* パンくずナビ */}
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:text-stone-800 underline">ホーム</Link>

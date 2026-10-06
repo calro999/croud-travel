@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で清潔かつ快適に源泉掛け流しの湯と自由な滞在を楽しむなら？","acceptedAnswer":{"@type":"Answer","text":"「YUNOMY」はカフェバーを併設したお洒落なゲストハウス。良質な温泉と心地よいドミトリー・個室が一人旅のトラベラーから大絶賛されています。"}},{"@type":"Question","name":"一人旅で本格的な源泉完全掛け流しと広い露天風呂を味わうなら？","acceptedAnswer":{"@type":"Answer","text":"「川湯温泉 HOTEL PARKWAY」は敷地内自噴の源泉100%掛け流し大浴場と露天風呂を備え、リーズナブルに極上の湯を満喫できます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【道東・川湯温泉ひとり旅・硫黄山pH1.7強酸性泉おこもり】釘も溶かす日本屈指の酸性硫黄泉・摩周湖の霧・エゾ鹿料理！阿寒摩周の秘境厳選3宿","item":"https://croud-travel.pages.dev/hokkaido-kawayu-solo-retreat-acid-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

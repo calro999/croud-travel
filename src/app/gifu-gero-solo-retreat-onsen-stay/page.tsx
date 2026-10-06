@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で下呂温泉の絶景と多彩な風呂を楽しめる宿は？","acceptedAnswer":{"@type":"Answer","text":"「下呂温泉 湯あそびの宿 下呂観光ホテル本館」は高台に位置し、飛騨川と温泉街の夜景を見渡す展望露天風呂や貸切露天風呂が充実しています。"}},{"@type":"Question","name":"静かで落ち着いた雰囲気のおこもり宿に泊まりたい時は？","acceptedAnswer":{"@type":"Answer","text":"「下呂温泉 こころをなでる静寂 みやこ」は緑豊かな庭園に佇む大人の隠れ家。丁寧なもてなしと極上の料理で一人リトリートに最適です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【下呂温泉ひとり旅・美肌名湯おこもり】日本三名泉つるつる美人の湯・飛騨川パノラマ・飛騨牛会席！飛騨路の山里でととのう厳選3宿","item":"https://croud-travel.pages.dev/gifu-gero-solo-retreat-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

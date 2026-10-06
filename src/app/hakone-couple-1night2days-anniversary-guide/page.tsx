@@ -183,6 +183,10 @@ export default function HakoneCoupleAnniversaryGuidePage() {
 
       {/* メインコンテンツエリア */}
       <main className="max-w-4xl mx-auto px-4 py-10 space-y-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「客室露天風呂・フレンチ懐石ディナー＆記念日サプライズ宿」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
+      />
         {/* 記念日旅行を成功させる3大ポイント */}
         <section className="bg-white rounded-3xl p-6 md:p-8 shadow-sm border border-rose-200/80 space-y-6">
           <div className="border-b border-rose-100 pb-4 text-center md:text-left">

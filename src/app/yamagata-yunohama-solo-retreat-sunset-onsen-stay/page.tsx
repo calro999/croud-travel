@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で日本海の夕陽を客室や露天風呂から一番きれいに眺められる宿は？","acceptedAnswer":{"@type":"Answer","text":"「湯野浜温泉 海辺のお宿 一久」は全客室が海に面し、展望露天風呂やロビーからも日本海のパノラマ夕陽を一望できる最高のおこもり宿です。"}},{"@type":"Question","name":"庄内の本格会席と上質な温泉旅館の風情を楽しむなら？","acceptedAnswer":{"@type":"Answer","text":"「湯野浜温泉 游水亭 いさごや」は日本海を望む露天風呂と月替わりの美食会席が評判。一人旅でも優雅なおこもりステイが叶います。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【山形・湯野浜温泉ひとり旅・日本海夕陽おこもり】日本の夕陽百選・オーシャン露天・庄内浜鮮魚！波音に包まれる海辺のソロリトリート厳選3宿","item":"https://croud-travel.pages.dev/yamagata-yunohama-solo-retreat-sunset-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

@@ -186,6 +186,10 @@ export default function Page() {
 
       {/* メインコンテンツ */}
       <main className="max-w-4xl mx-auto px-4 py-8 space-y-10">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【2026年】本場アーユルヴェーダ＆ハーブ温活！極上シロダーラと薬草温泉のデトックスリゾート5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/organic-herbal-steam-bed-ayurveda-resort"}]}) }}
+      />
         
         {/* クーポンバナー */}
         <SpecialCouponBanner />

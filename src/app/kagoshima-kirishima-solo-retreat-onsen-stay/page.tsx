@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で客室露天風呂に浸かりながら絶景を楽しめる霧島の宿は？","acceptedAnswer":{"@type":"Answer","text":"「霧島温泉 天テラス」は全客室に天然温泉露天風呂を完備。霧島連峰の自然を眺めながら、誰にも邪魔されない極上のソロステイが叶います。"}},{"@type":"Question","name":"静かで落ち着いた雰囲気の中で美味しい郷土料理を味わうなら？","acceptedAnswer":{"@type":"Answer","text":"「霧島温泉 いで湯の宿 霧島花紫」は全客室に天然温泉風呂を備え、鹿児島の黒豚や地鶏を使った会席料理が一人旅でも好評です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【霧島温泉ひとり旅・天孫降臨神話おこもり】霧島連峰パノラマ・源泉かけ流し露天・黒豚地鶏会席！坂本龍馬も愛した南九州の霊峰厳選3宿","item":"https://croud-travel.pages.dev/kagoshima-kirishima-solo-retreat-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

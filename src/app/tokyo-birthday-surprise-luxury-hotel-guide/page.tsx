@@ -171,6 +171,10 @@ export default function TokyoBirthdaySurpriseHotelPage() {
 
       {/* メインコンテンツ */}
       <main className="max-w-4xl mx-auto px-4 py-10 space-y-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「夜景ビュー・ホールケーキ＆バルーン装飾確約プラン」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
+      />
         {/* サプライズ演出のスタイル選び */}
         <section className="bg-white rounded-3xl p-6 md:p-8 shadow-sm border border-amber-200/80 space-y-6">
           <div className="border-b border-amber-100 pb-4 text-center md:text-left">

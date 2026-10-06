@@ -47,6 +47,10 @@ export default function FurusatoSoloTravelRetreatStayPage() {
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「箱根湯本温泉 ホテル南風荘」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「箱根湯本温泉 ホテル南風荘」へは、箱根湯本駅より有料旅館共同バス７分片道大人２００円小学生１００円。最寄りの箱根湯本駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「箱根湯本温泉 ホテル南風荘」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「箱根湯本温泉 ホテル南風荘」は『花崗や青石をふんだんに用いた大浴場や露天風呂で箱根の自然を満喫 旬の味覚を揃えたお料理をご』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「箱根湯本温泉 ホテル南風荘」と「草津温泉 薬師の湯 湯元館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
       <div className="max-w-5xl mx-auto">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
 

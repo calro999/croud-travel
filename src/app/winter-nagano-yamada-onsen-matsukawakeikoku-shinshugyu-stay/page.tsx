@@ -249,6 +249,14 @@ export default function NaganoYamadaPage() {
 
       {/* Main Content Area */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 space-y-16 mt-6">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"高山村の山田温泉や松川渓谷エリアの11月・12月の気候や降雪、道路状況は？","acceptedAnswer":{"@type":"Answer","text":"高山村は標高約800m〜1,500mに広がる山里です。11月上旬から中旬にかけては紅葉の名残と初冠雪が重なる美しい季節ですが、11月下旬以降は本格的な雪景色となり、12月に入ると路面は凍結・圧雪状態になります。車でアクセスする場合は、上信越自動車道の須坂長野東ICまたは小布施スマートICが便利ですが、冬用スタッドレスタイヤの装着は必須です。特に標高の高い五色温泉や七味温泉方面へ向かう山道は急勾配やヘアピンカーブが続くため、4WD車の利用が強く推奨されます。"}},{"@type":"Question","name":"信州高山温泉郷の特徴や湯めぐりの楽しみ方は？","acceptedAnswer":{"@type":"Answer","text":"信州高山温泉郷は、松川渓谷沿いに点在する山田温泉、松川渓谷温泉、五色温泉、七味温泉、蕨温泉、子安温泉、奥山田温泉など、異なる個性と泉質を持つ八つの温泉地の総称です。透明な弱アルカリ性の美肌泉から、青みがかった乳白色の硫黄泉、天候によって色が変わる五色温泉まで、車で20分圏内で多彩な泉質を一度に楽しめます。中心となる山田温泉には江戸時代の建築美を再現した木造の共同浴場「大湯」があり、日帰り入浴や温泉街散策の拠点として賑わいます。"}},{"@type":"Question","name":"初冬の高山村・小布施エリアで絶対に味わうべきグルメは？","acceptedAnswer":{"@type":"Answer","text":"隣接する小布施町は全国有数の栗の名産地で、秋に収穫された栗を用いた「小布施栗おこわ」や栗かのこ、栗羊羹などの栗菓子は初冬も絶大な人気を誇ります。また、長野県が厳格な基準で認定する最高峰ブランド「信州プレミアム牛肉」のステーキやすき焼き、信州サーモン、冬が旬の信州リンゴ、地元手打ち蕎麦は必食。さらに高山村は日本有数のワイン用ブドウの産地であり、「信州高山ワイナリー」をはじめとする世界的評価の高いシャルドネやピノ・ノワールのワインは料理と最高の相性を誇ります。"}},{"@type":"Question","name":"冬の高山村周辺のおすすめ観光スポットは？","acceptedAnswer":{"@type":"Answer","text":"松川渓谷にかかる「高井橋」からの白銀の渓谷美や、「雷滝（裏見の滝）」の豪快な景観は冬ならではの迫力があります（積雪状況により遊歩道が閉鎖される場合あり）。また、車で約20分の小布施町では「北斎館」で葛飾北斎の肉筆画を鑑賞したり、蔵造りの街並み散策を楽しめます。国宝・善光寺（長野市）へも車で約40分と近く、初冬の静かな信州の文化と歴史を巡るドライブに最適です。"}},{"@type":"Question","name":"東京方面からの電車でのアクセス方法と所要時間は？","acceptedAnswer":{"@type":"Answer","text":"北陸新幹線で東京駅から「長野駅」まで約1時間20分。長野駅から長野電鉄の特急電車に乗り換えて「須坂駅」まで約25分です。須坂駅からは長電バス（山田温泉行き）が運行されており、約40分で山田温泉に到着します。また、小布施観光を兼ねる場合は長野電鉄の小布施駅下車も便利です。多くの旅館が須坂駅や小布施駅からの事前予約制送迎を行っているため、事前に宿へ問い合わせることをおすすめします。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月高山村山田温泉】松川渓谷の雪見露天と信州牛！名宿5選","item":"https://croud-travel.pages.dev/winter-nagano-yamada-onsen-matsukawakeikoku-shinshugyu-stay"}]}) }}
+      />
 
         {/* Introduction Overview */}
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200 space-y-6">

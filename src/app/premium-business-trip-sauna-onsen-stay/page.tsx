@@ -48,6 +48,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「三井ガーデンホテル豊洲プレミア」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「三井ガーデンホテル豊洲プレミア」へは、東京メトロ有楽町線 豊洲駅(2番出口) 直結。最寄りの豊洲駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「三井ガーデンホテル豊洲プレミア」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「三井ガーデンホテル豊洲プレミア」は『海と空を望む天空のホテルから、東京湾をクルーズするように楽しみ尽くす旅が始まります。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「三井ガーデンホテル豊洲プレミア」では季節ごとに異なる宿泊プランや料理プランが用意されています。ご旅行の人数や滞在スタイルに合わせて最適なプランをお選びいただけます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【ワンランク上の出張泊】天然温泉・本格サウナ・絶景ビュー完備！仕事の疲れを極限まで癒やすプレミアムビジネスホテル 厳選3選","item":"https://croud-travel.pages.dev/premium-business-trip-sauna-onsen-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

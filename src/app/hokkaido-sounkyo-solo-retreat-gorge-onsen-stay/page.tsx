@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で驚異の口コミ満点評価と本格的な源泉掛け流しを味わえる層雲峡の宿は？","acceptedAnswer":{"@type":"Answer","text":"「層雲峡温泉 ホテル雲井」は楽天口コミ★5.0満点を獲得。総木造りの温もりと自家源泉掛け流しの名湯、丁寧な手作り料理が一人旅の愛好家から絶賛されています。"}},{"@type":"Question","name":"一人旅で気軽に24時間源泉掛け流し露天風呂を満喫できる宿は？","acceptedAnswer":{"@type":"Answer","text":"「層雲峡温泉 湯元 銀泉閣」は24時間いつでも入れる掛け流し露天風呂に加え、無料のマッサージチェアやドリンクサービスなど快適な設備が一人旅に大好評です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【大雪山・層雲峡温泉ひとり旅・柱状節理断崖おこもり】24時間源泉掛け流し・銀河流星の滝・蝦夷鹿＆旭川ラーメン！大雪山国立公園の秘境厳選3宿","item":"https://croud-travel.pages.dev/hokkaido-sounkyo-solo-retreat-gorge-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

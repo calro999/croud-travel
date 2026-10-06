@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で由布院の貸切温泉を気兼ねなく楽しめる宿は？","acceptedAnswer":{"@type":"Answer","text":"「由布院いよとみ」は趣の異なる複数の貸切風呂を無料で利用でき、一人旅プランも充実した非常にコスパの高い名宿です。"}},{"@type":"Question","name":"由布岳の絶景を露天風呂から眺められるおすすめ宿は？","acceptedAnswer":{"@type":"Answer","text":"「由布院温泉 柚富の郷 彩岳館」は高台に位置し、男女両方の露天風呂から由布岳の雄大な姿を正面に望む最高のロケーションです。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【由布院温泉ひとり旅・由布岳望むおこもり】金鱗湖朝霧・源泉かけ流し貸切露天・豊後牛！大自然に抱かれる大人のソロリトリート厳選3宿","item":"https://croud-travel.pages.dev/oita-yufuin-solo-retreat-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で諏訪湖の眺望と歴史ある純和風の情緒を味わえる上諏訪の宿は？","acceptedAnswer":{"@type":"Answer","text":"「上諏訪温泉 ぬのはん」は創業嘉永元年の歴史を誇り、諏訪湖を望む優美な庭園と本格会席料理が一人旅の愛好家から高く評価されています。"}},{"@type":"Question","name":"一人旅で自家源泉掛け流しの湯をじっくり堪能したいなら？","acceptedAnswer":{"@type":"Answer","text":"「上諏訪温泉 かけ流し源泉の宿 渋の湯」は湯量豊富な自家源泉100%掛け流しの湯殿を備え、落ち着いた佇まいの中で本物の名湯を静かに楽しめます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【信州・上諏訪温泉ひとり旅・諏訪湖パノラマおこもり】自家源泉掛け流し・諏訪大社四社巡り・信州サーモン＆地酒呑み歩き！特急あずさ直通の湖畔厳選3宿","item":"https://croud-travel.pages.dev/nagano-kamisuwa-solo-retreat-lakeview-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

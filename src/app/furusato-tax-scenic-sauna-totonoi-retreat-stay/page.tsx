@@ -47,6 +47,10 @@ export default function FurusatoScenicSaunaTotonoiStayPage() {
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「洞爺湖万世閣ホテルレイクサイドテラス」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「洞爺湖万世閣ホテルレイクサイドテラス」へは、JR室蘭本線「洞爺駅」より、道南バス「洞爺湖温泉行き」にて「中央通」停留所下車すぐ。最寄りの洞爺駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「洞爺湖万世閣ホテルレイクサイドテラス」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「洞爺湖万世閣ホテルレイクサイドテラス」は『サウナが自慢「月の湯」とインフィニティ露天風呂「星の湯」、石窯焼ピッツァなど豊富なビュッフ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「洞爺湖万世閣ホテルレイクサイドテラス」と「白馬姫川温泉 白馬ハイランドホテル」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
       <div className="max-w-5xl mx-auto">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
 

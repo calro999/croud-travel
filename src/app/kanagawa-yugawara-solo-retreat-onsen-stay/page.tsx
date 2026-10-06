@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で口コミ評価が極めて高く、源泉かけ流しを楽しめる湯河原の宿は？","acceptedAnswer":{"@type":"Answer","text":"「湯河原温泉 旅館 グリーン荘」は楽天トラベル口コミ★5.0満点を誇るアットホームな宿。新鮮な源泉かけ流し温泉と手作り料理が一人旅でも絶賛されています。"}},{"@type":"Question","name":"相模湾を見下ろす高台の絶景と洋風の洗練された空間を求めるなら？","acceptedAnswer":{"@type":"Answer","text":"「湯河原温泉 ホテル 眺望山荘」は高台に建ち、夜景や海を一望。本格フレンチと天然温泉を一人旅でも優雅に楽しめます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【湯河原温泉ひとり旅・万葉集ゆかり名湯おこもり】相模湾一望・自家源泉かけ流し・伊豆の旬懐石！都心60分の文豪リトリート厳選3宿","item":"https://croud-travel.pages.dev/kanagawa-yugawara-solo-retreat-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

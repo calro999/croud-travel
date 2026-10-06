@@ -47,6 +47,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"小樽駅周辺で天然温泉とサウナ、豪華な朝食がある宿は？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉 灯の湯 ドーミーインPREMIUM小樽」は小樽駅の目の前。自家源泉の大浴場とサウナ、朝食の海鮮勝手丼や夜鳴きそばサービスなど一人旅の充実度が抜群です。"}},{"@type":"Question","name":"小樽運河の目の前で最も風情あるおこもり宿は？","acceptedAnswer":{"@type":"Answer","text":"「運河の宿 おたる ふる川」は運河の目の前に建ち、明治の商家をイメージした木造の温もりとステンドグラス、自家源泉の露天風呂が揃う大人の隠れ家宿です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【小樽運河ひとり旅・レトロ温泉おこもり】ガス灯揺れる石造り倉庫街・自家源泉の湯・極上握り寿司！歴史と硝子の街に癒やされる厳選3宿","item":"https://croud-travel.pages.dev/otaru-canal-solo-retreat-onsen-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

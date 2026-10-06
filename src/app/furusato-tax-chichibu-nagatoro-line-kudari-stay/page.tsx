@@ -128,6 +128,10 @@ export default function Page() {
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"長瀞ライン下りと岩畳の紅葉絵巻！秩父温泉郷の名湯・名物豚みそ丼＆わらじカツを味わう秋の埼玉旅 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-chichibu-nagatoro-line-kudari-stay"}]}) }}
+      />
 
         {/* Introduction */}
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-stone-200/80">

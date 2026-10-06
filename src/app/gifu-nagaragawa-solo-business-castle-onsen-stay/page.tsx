@@ -48,6 +48,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"岐阜市内で本格的な天然温泉と歴史の情緒を味わえる宿は？","acceptedAnswer":{"@type":"Answer","text":"「長良川温泉 十八楼」は創業160年以上の老舗旅館。長良川を望む露天風呂や土蔵を再生した温泉風呂があり、一人旅プランも充実しています。"}},{"@type":"Question","name":"JR岐阜駅前で出張の移動が最も快適なホテルはどこですか？","acceptedAnswer":{"@type":"Answer","text":"「ダイワロイネットホテル岐阜」はJR岐阜駅北口から徒歩約3分。大通り沿いに位置し、広めのデスクと上質な寝具でビジネスに最適です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【岐阜出張・歴史ひとり旅】長良川温泉・金華山岐阜城パノラマ・飛騨牛グルメ！信長公ゆかりの地でととのう厳選3宿","item":"https://croud-travel.pages.dev/gifu-nagaragawa-solo-business-castle-onsen-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

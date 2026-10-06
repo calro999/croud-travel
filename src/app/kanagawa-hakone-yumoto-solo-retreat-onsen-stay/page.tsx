@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"箱根湯本駅近くで一人でも気兼ねなく源泉かけ流しを楽しめる宿は？","acceptedAnswer":{"@type":"Answer","text":"「箱根湯本 温泉旅館 大和館」は駅から徒歩圏内で、早川のせせらぎを感じながら天然温泉を楽しめる温かいおもてなしの宿です。"}},{"@type":"Question","name":"川沿いの展望露天風呂や多彩な温泉を満喫したいなら？","acceptedAnswer":{"@type":"Answer","text":"「箱根湯本温泉 箱根パークス吉野」は須雲川沿いに位置し、展望大浴場や充実したリラクゼーション設備がソロ旅でも好評です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【箱根湯本ひとり旅・自然渓流おこもり】ロマンスカー直通・渓流露天風呂・旬会席！都心から85分の極上ソロ温泉リトリート厳選3宿","item":"https://croud-travel.pages.dev/kanagawa-hakone-yumoto-solo-retreat-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

@@ -48,6 +48,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅でも本当に部屋食プランを予約できますか？","acceptedAnswer":{"@type":"Answer","text":"はい、本記事でご紹介した宿はいずれも公式・楽天トラベル等でおひとりさま専用の部屋食確約プランを提供しています（時期や曜日によって設定が変わる場合がありますのでプラン詳細をご確認ください）。"}},{"@type":"Question","name":"一人泊だと宿泊料金は割高になりますか？","acceptedAnswer":{"@type":"Answer","text":"2名1室利用時と比べると1名あたりの料金はやや高くなりますが、最近はおひとりさま平日応援プランや、直前割引プランなどリーズナブルに泊まれる選択肢も増えています。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【おひとりさま部屋食温泉宿】夕食・朝食をお部屋で贅沢に！誰にも邪魔されない極上おこもりひとり旅宿 厳選3選","item":"https://croud-travel.pages.dev/solo-room-dining-retreat-onsen-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

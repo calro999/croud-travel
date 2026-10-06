@@ -64,6 +64,10 @@ export default function Page() {
 
       {/* Main Content Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 mt-12 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「小木温泉 旅館かもめ荘 ＜佐渡島＞」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「小木温泉 旅館かもめ荘 ＜佐渡島＞」へは、JR新潟駅→佐渡汽船新潟港～佐渡両津港→車で６０分。最寄りの直江津駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「小木温泉 旅館かもめ荘 ＜佐渡島＞」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「小木温泉 旅館かもめ荘 ＜佐渡島＞」は『100％源泉かけ流し天然温泉×新鮮な魚介類を堪能♪港近くの静かな住宅地に建つペンション風の』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「小木温泉 旅館かもめ荘 ＜佐渡島＞」と「養老温泉 滝元館 遊季の里」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
         {/* Intro Lead */}
         <section className="bg-slate-900/90 border border-slate-800 rounded-3xl p-6 sm:p-8 backdrop-blur shadow-2xl">
           <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">

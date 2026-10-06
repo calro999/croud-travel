@@ -183,6 +183,10 @@ export default function Page() {
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「鳥取温泉 観水庭こぜにや」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「鳥取温泉 観水庭こぜにや」へは、鳥取駅より徒歩10分・無料送迎バス有 / 中国道佐用JCT経由鳥取ＩＣより車８分 鳥取砂丘へ車２０分 コンビニ徒歩2分。最寄りの鳥取駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「鳥取温泉 観水庭こぜにや」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「鳥取温泉 観水庭こぜにや」は『鳥取市街地にありながら天然温泉かけ流しの湯を満喫できる閑静な佇まいの小宿。◆WIFI全室対』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「鳥取温泉 観水庭こぜにや」と「スーパーホテル浜松 天然温泉「浜松出世の湯」」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
         
         {/* 特集の魅力セクション */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80">

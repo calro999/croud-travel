@@ -47,6 +47,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"熊本で全国的に有名なサウナの聖地に宿泊できる？","acceptedAnswer":{"@type":"Answer","text":"「サウナと天然温泉 湯けむり天国 湯らっくす」は宿泊・カプセル利用が可能。アウフグースや塩サウナ、天然水風呂、名物サウナ飯（麻婆豆腐等）を24時間満喫できます。"}},{"@type":"Question","name":"繁華街の真ん中で眺望の良い露天風呂とサウナがあるホテルは？","acceptedAnswer":{"@type":"Answer","text":"「カンデオホテルズ熊本新市街」は新市街アーケードすぐ。最上階の展望露天「スカイスパ」とオートロウリュサウナで極上のリラックスが味わえます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【熊本出張・極上サウナ温泉ステイ】西の聖地湯らっくす・阿蘇伏流水MADMAX水風呂・熊本城！火の国ビジネスを極める厳選3宿","item":"https://croud-travel.pages.dev/kumamoto-city-solo-business-sauna-onsen-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

@@ -48,6 +48,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"旭川駅直結で雪や雨に濡れずにチェックインできるホテルは？","acceptedAnswer":{"@type":"Answer","text":"「ＪＲイン旭川」はJR旭川駅直結（改札から商業施設イオンモール旭川駅前経由）で、悪天候時でも一切外に出ることなくフロントへ直行できます。"}},{"@type":"Question","name":"水風呂や外気浴サウナが最も充実しているのはどこですか？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉 神威の湯 ドーミーイン旭川」は高温サウナ、水風呂、半露天風呂を完備し、ととのい椅子も配置。サウナ後の夜鳴きそばや湯上がりアイスも無料で楽しめます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【旭川出張・男一人旅サウナ】天然温泉神威の湯・駅直結半露天・本場旭川醤油ラーメン！道北ビジネスを極上の癒やしに変える厳選3宿","item":"https://croud-travel.pages.dev/asahikawa-solo-business-ramen-sauna-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

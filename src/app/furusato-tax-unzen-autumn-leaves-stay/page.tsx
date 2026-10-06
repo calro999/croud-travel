@@ -44,6 +44,10 @@ export default function FeatureArticlePage() {
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「雲仙温泉 民芸モダンの宿 雲仙福田屋」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「雲仙温泉 民芸モダンの宿 雲仙福田屋」へは、長崎自動車道 諫早ＩＣ及びＪＲ諌早駅より車で５５分。最寄りの諫早駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「雲仙温泉 民芸モダンの宿 雲仙福田屋」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「雲仙温泉 民芸モダンの宿 雲仙福田屋」は『2023年客室リニューアル！四季の恵みの会席料理、厳選かけ流しの絶景露天風呂が自慢の福を結』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「雲仙温泉 民芸モダンの宿 雲仙福田屋」と「雲仙温泉・源泉かけ流し＆おしどりの池を望む美食の宿 東園」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
       {/* パンくずナビ */}
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:text-stone-800 underline">ホーム</Link>

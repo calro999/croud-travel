@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で口コミ評価が高く、料理のクオリティが抜群の鴨川の隠れ宿は？","acceptedAnswer":{"@type":"Answer","text":"「鴨川温泉 魚眠庵 マルキ本館」は楽天口コミ★4.5超。料理人主人が厳選する鴨川港直送の海の幸会席と、木肌が優しい露天風呂が一人旅に大絶賛されています。"}},{"@type":"Question","name":"歴史ある文豪・画家ゆかりの宿で海辺の風情を味わうなら？","acceptedAnswer":{"@type":"Answer","text":"「鴨川温泉 画家ゆかりの宿 江澤館」は海岸が目の前に広がり、多くの画家が滞在した歴史を感じながら、波音を聞いて過ごす一人旅にぴったりです。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【南房総・鴨川温泉ひとり旅・太平洋水平線おこもり】波音の露天風呂・地魚舟盛り・里山棚田ウォーキング！都心特急特等席の海リトリート厳選3宿","item":"https://croud-travel.pages.dev/chiba-kamogawa-solo-retreat-ocean-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

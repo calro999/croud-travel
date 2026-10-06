@@ -180,6 +180,10 @@ export default function Page() {
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「宇佐ホテルリバーサイド」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「宇佐ホテルリバーサイド」へは、電車：JR日豊本線、柳ヶ浦駅より車で8分／お車：東九州自動車道、宇佐ICより5分。最寄りの柳ヶ浦駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「宇佐ホテルリバーサイド」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「宇佐ホテルリバーサイド」は『フロントは安心の24時間対応 国宝宇佐神宮のお膝元、駅館川のほとり、今日もなごやかに営業中』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「宇佐ホテルリバーサイド」と「京都竹の郷温泉 万葉の湯 ホテル京都エミナース」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
         
         {/* 特集の魅力セクション */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80">

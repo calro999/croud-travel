@@ -92,6 +92,10 @@ export default function FeatureArticlePage() {
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「筋湯温泉 旅館白滝」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「筋湯温泉 旅館白滝」へは、豊後中村駅より日田バスで１時間。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「筋湯温泉 旅館白滝」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「筋湯温泉 旅館白滝」は『■九重スキー場まで車で5分■自然豊かな山あいの湯宿。手作りのお料理、貸切風呂、真心込めたお』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「筋湯温泉 旅館白滝」と「壁湯天然洞窟温泉旅館 福元屋」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
       {/* パンくずナビ */}
       <nav className="max-w-6xl mx-auto px-4 py-4 text-xs md:text-sm text-stone-600 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:underline text-stone-500">トップ</Link>

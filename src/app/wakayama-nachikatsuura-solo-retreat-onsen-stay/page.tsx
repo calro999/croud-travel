@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で高台からの太平洋パノラマと勝浦名物の生まぐろを楽しめる宿は？","acceptedAnswer":{"@type":"Answer","text":"「休暇村 南紀勝浦」は吉野熊野国立公園の高台に位置し、満天の星や朝日を望む露天風呂と生まぐろ三昧のバイキングが一人旅に大人気です。"}},{"@type":"Question","name":"非日常を極める、船で渡る離島の一軒宿で贅沢なおこもりをするなら？","acceptedAnswer":{"@type":"Answer","text":"「碧き島の宿 熊野別邸 中の島」は専用船でアクセスする島全体が一つのリゾート。波打ち際の絶景露天風呂「紀州潮聞之湯」は一生ものの体験です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【南紀勝浦温泉ひとり旅・世界遺産熊野古道おこもり】太平洋パノラマ露天・生まぐろ水揚げ日本一・島まるごと天然温泉！那智の滝と海の秘境厳選3宿","item":"https://croud-travel.pages.dev/wakayama-nachikatsuura-solo-retreat-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

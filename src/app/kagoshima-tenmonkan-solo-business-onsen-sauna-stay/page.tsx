@@ -47,6 +47,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"天文館の中心で天然温泉大浴場とサウナがあるホテルは？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉 霧桜の湯 ドーミーイン鹿児島」は高見馬場電停すぐ。最上階に天然温泉大浴場、高温サウナ、水風呂を完備し、出張ビジネスに抜群の人気です。"}},{"@type":"Question","name":"客室や温泉から桜島の絶景を楽しみたいならどのホテル？","acceptedAnswer":{"@type":"Answer","text":"「鹿児島サンロイヤルホテル」は錦江湾沿いに建ち、最上階の展望温泉大浴場から桜島を真正面に一望できる絶景のロケーションを誇ります。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【鹿児島天文館出張・天然温泉サウナ】桜島展望・天然温泉霧桜の湯・黒豚しゃぶしゃぶ！南九州最大の繁華街を制する厳選3宿","item":"https://croud-travel.pages.dev/kagoshima-tenmonkan-solo-business-onsen-sauna-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

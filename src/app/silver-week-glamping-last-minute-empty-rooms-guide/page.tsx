@@ -134,6 +134,10 @@ export default function SilverWeekGlampingLastMinuteGuidePage() {
     <div className="min-h-screen bg-emerald-950/5 text-slate-800 space-y-12 pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【まだ間に合う！シルバーウィーク直前予約グランピング】空室ありの穴場施設＆キャンセル拾いの極意 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/silver-week-glamping-last-minute-empty-rooms-guide"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

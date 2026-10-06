@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で鳴子温泉の不思議な湯色変化と名湯を楽しめる宿は？","acceptedAnswer":{"@type":"Answer","text":"「鳴子温泉 名湯の宿 鳴子ホテル」は天候や気温でエメラルドグリーンや乳白色に変化する自家源泉が名物。一人旅でも快適に名湯を満喫できます。"}},{"@type":"Question","name":"駅近くで伝統のおもてなしと温泉大浴場を楽しみたいなら？","acceptedAnswer":{"@type":"Answer","text":"「鳴子温泉 源蔵の湯 鳴子観光ホテル」はJR鳴子温泉駅から徒歩圏。創業400年の歴史を誇り、上質な温泉と宮城の旬の味覚を堪能できます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【鳴子温泉ひとり旅・湯めぐりこけしおこもり】日本屈指の多種泉質・源蔵の湯・鳴子峡渓谷美！千年の湯治場で心ほぐれる極上厳選3宿","item":"https://croud-travel.pages.dev/miyagi-naruko-solo-retreat-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

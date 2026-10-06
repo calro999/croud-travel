@@ -126,6 +126,10 @@ export default function OkinawaRainyDayIndoorAquariumCraftGuidePage() {
 
   return (
     <main className="min-h-screen bg-cyan-950/20 text-slate-800 selection:bg-cyan-500 selection:text-white pb-24">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「美ら海水族館・DMMかりゆし・やちむん通り陶芸体験＆屋内プール付きホテル」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
+      />
       {/* ヒーローセクション（Cyan / ディープオーシャンブルー系統） */}
       <section className="relative overflow-hidden bg-gradient-to-b from-slate-950 via-cyan-950 to-slate-900 text-white py-16 sm:py-24 border-b border-cyan-800/40">
         <div className="absolute inset-0 bg-[radial-gradient(circle_at_50%_15%,rgba(6,182,212,0.22),transparent_65%)] pointer-events-none" />

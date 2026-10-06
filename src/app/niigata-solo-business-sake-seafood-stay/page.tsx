@@ -48,6 +48,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"冬の時期は雪で新潟市内の移動が大変ですか？","acceptedAnswer":{"@type":"Answer","text":"新潟市内中心部（新潟駅〜万代〜古町）は消雪パイプや地下道、アーケードが整備されており、豪雪地帯の山間部と比べると積雪路面でも歩きやすく対策されています。"}},{"@type":"Question","name":"一人で入りやすい海鮮居酒屋や寿司屋はありますか？","acceptedAnswer":{"@type":"Answer","text":"新潟駅周辺や万代には回転寿司の最高峰「弁慶」や、カウンター完備の老舗寿司店・居酒屋が多数あり、一人客が気兼ねなく地魚と日本酒を注文できます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【新潟出張＆地酒ひとり旅】信濃川パノラマ・天然温泉サウナ・ぽんしゅ館利き酒！日本海美食を堪能する極上宿 厳選3選","item":"https://croud-travel.pages.dev/niigata-solo-business-sake-seafood-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

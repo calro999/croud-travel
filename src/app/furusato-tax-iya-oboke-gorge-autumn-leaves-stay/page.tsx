@@ -44,6 +44,10 @@ export default function FeatureArticlePage() {
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「新祖谷温泉 ホテルかずら橋」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「新祖谷温泉 ホテルかずら橋」へは、ＪＲのお客様 大歩危駅～路線バス20分（タクシー15分）・お車のお客様 徳島自動車道井川池田ＩＣより大歩危経由で５０分。最寄りの大歩危駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「新祖谷温泉 ホテルかずら橋」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「新祖谷温泉 ホテルかずら橋」は『ケーブルカーで登る天空露天風呂と囲炉裏の宿。渓谷の絶景と郷土料理、温かなおもてなしでお迎え』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「新祖谷温泉 ホテルかずら橋」と「和の宿 ホテル祖谷温泉」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
       {/* パンくずナビ */}
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:text-stone-800 underline">ホーム</Link>

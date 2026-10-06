@@ -151,6 +151,14 @@ export default function FeaturePage() {
       </nav>
 
       <main className="max-w-5xl mx-auto px-4 py-8 md:py-12 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ＡＮＡクラウンプラザリゾート安比高原 ｂｙ ＩＨＧ」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ＡＮＡクラウンプラザリゾート安比高原 ｂｙ ＩＨＧ」へは、ＪＲ花輪線・安比高原駅／東北新幹線・盛岡駅より路線バス約60分／東北道・松尾八幡平IC～Ｒ282経由15ＫＭ。最寄りの安比高原駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ＡＮＡクラウンプラザリゾート安比高原 ｂｙ ＩＨＧ」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ＡＮＡクラウンプラザリゾート安比高原 ｂｙ ＩＨＧ」は『高原ウエディングと、クラウンプラザリゾートで安比高原の自然を生かした滞在体験を満喫いただけ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ＡＮＡクラウンプラザリゾート安比高原 ｂｙ ＩＨＧ」と「ＡＮＡインターコンチネンタル安比高原リゾート ｂｙ ＩＨＧ」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【12月オープン！安比高原シルキースノー】東北随一のビッグゲレンデと白樺美肌温泉宿5選","item":"https://croud-travel.pages.dev/winter-iwate-appi-kogen-snow-resort-stay"}]}) }}
+      />
         {/* Intro */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">

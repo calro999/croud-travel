@@ -275,6 +275,10 @@ export default function AkiuWinterPage() {
 
       {/* Main Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月秋保温泉】伊達政宗公ゆかりの奥座敷！名宿5選","item":"https://croud-travel.pages.dev/winter-miyagi-akiu-onsen-sendai-beef-serinabe-stay"}]}) }}
+      />
         
         {/* Intro */}
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-stone-200/80 leading-relaxed space-y-6">

@@ -48,6 +48,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"女性一人旅でも安全に宿泊できますか？","acceptedAnswer":{"@type":"Answer","text":"ご紹介したホテルはすべて24時間フロント対応、カードキーによるエレベーターセキュリティ、女性専用セキュリティ付き大浴場などを備えており、女性おひとりさまでも非常に安心して宿泊できます。"}},{"@type":"Question","name":"一人での夕食はどこで取るのがおすすめですか？","acceptedAnswer":{"@type":"Answer","text":"ホテルの周辺（祇園・四条河原町・烏丸）にはカウンター席中心の割烹、おばんざいバル、町家カフェが多数あり、一人客を快く歓迎してくれます。フロントのコンシェルジュにおすすめを聞くのもおすすめです。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【京都ひとり旅・静寂おこもり】朝のお勤め・枯山水庭園・祇園の隠れ家！大人が心洗われる極上和モダン宿 厳選3選","item":"https://croud-travel.pages.dev/kyoto-solo-retreat-temple-modern-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

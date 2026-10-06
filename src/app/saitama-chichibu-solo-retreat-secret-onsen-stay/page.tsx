@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で江戸時代からの本格的な美肌名湯と歴史空間を味わうなら？","acceptedAnswer":{"@type":"Answer","text":"「秩父七湯『御代の湯』 新木鉱泉旅館」は文政10年創業。名湯「卵水」の滑らかな湯ざわりと手入れされた木造建築が楽天口コミ★4.5超の絶賛を集めています。"}},{"@type":"Question","name":"本物の囲炉裏端で焼き上げる炭火郷土料理を楽しめる宿は？","acceptedAnswer":{"@type":"Answer","text":"「秩父温泉郷 囲炉裏の宿 小鹿荘」は昔ながらの囲炉裏端で岩魚や地野菜を味わえ、楽天口コミ★4.6超。温かいもてなしが一人旅に大人気です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【秩父・長瀞ひとり旅・秩父七湯と囲炉裏古民家おこもり】開湯190年卵水美肌湯・地酒秩父錦・囲炉裏炭火焼き！池袋特急ラビュー77分の里山厳選3宿","item":"https://croud-travel.pages.dev/saitama-chichibu-solo-retreat-secret-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

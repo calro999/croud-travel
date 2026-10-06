@@ -48,6 +48,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Kアリーナ横浜やぴあアリーナMMへのアクセスはどうですか？","acceptedAnswer":{"@type":"Answer","text":"ご紹介した3ホテルはいずれもみなとみらい中心部に位置し、各アリーナへ徒歩約8〜12分程度でアクセス可能。終演後の電車混雑を気にせず歩いて帰館できます。"}},{"@type":"Question","name":"一人でアフタヌーンティーやバーを利用できますか？","acceptedAnswer":{"@type":"Answer","text":"各ホテルのラウンジやバーは洗練された開放的な空間で、おひとりさまで優雅にアフタヌーンティーやワインを楽しむゲストが多数います。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【横浜・みなとみらいひとり旅】大観覧車バルコニー・天空プール・Kアリーナ遠征！大人が心奪われる極上夜景ホテル 厳選3選","item":"https://croud-travel.pages.dev/yokohama-minatomirai-solo-nightview-luxury-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

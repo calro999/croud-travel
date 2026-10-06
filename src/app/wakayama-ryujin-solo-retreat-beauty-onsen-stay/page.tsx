@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で日本三美人の湯の歴史と極上の渓流露天風呂を味わえる宿は？","acceptedAnswer":{"@type":"Answer","text":"「龍神温泉 下御殿」は紀州藩主ゆかりの歴史を誇り、畳敷きのお座敷風呂や日高川を望む混浴露天風呂が一人旅の宿泊者から絶賛されています。"}},{"@type":"Question","name":"一人旅で地元の新鮮な郷土料理と温泉を静かに楽しみたいなら？","acceptedAnswer":{"@type":"Answer","text":"「龍神温泉 料理旅館 萬屋」はアットホームな居心地と主人が腕を振るう旬のあまごや猪肉料理が評判で、一人旅でも落ち着いて滞在できます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【日本三美人の湯・紀州龍神温泉ひとり旅・日高川渓谷おこもり】pH8.4極上とろみ重曹泉・紀州梅豚＆あまご・徳川頼宣公の別荘！弘法大師ゆかりの厳選3宿","item":"https://croud-travel.pages.dev/wakayama-ryujin-solo-retreat-beauty-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

@@ -92,6 +92,10 @@ export default function FeatureArticlePage() {
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「強羅温泉 強羅にごりの湯宿 のうのう箱根」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「強羅温泉 強羅にごりの湯宿 のうのう箱根」へは、無料送迎あり（15時～18時） 早雲山駅より徒歩8分、強羅駅より車で5分。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「強羅温泉 強羅にごりの湯宿 のうのう箱根」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「強羅温泉 強羅にごりの湯宿 のうのう箱根」は『楽天シルバーアワード＆日本の宿2024受賞★お食事好評価♪全10室の強羅のにごり湯宿を満喫』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「強羅温泉 強羅にごりの湯宿 のうのう箱根」と「箱根強羅温泉 瑞の香り」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
       {/* パンくずナビ */}
       <nav className="max-w-6xl mx-auto px-4 py-4 text-xs md:text-sm text-stone-600 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:underline text-stone-500">トップ</Link>

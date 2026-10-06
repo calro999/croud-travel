@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で七田外湯めぐりに一番便利なおすすめ宿は？","acceptedAnswer":{"@type":"Answer","text":"「城崎温泉 富士見屋」は大谿川の柳並木沿いにあり、各外湯へアクセス抜群。一人旅でも温かく迎えてくれるアットホームな老舗宿です。"}},{"@type":"Question","name":"一人旅でも極上の但馬牛や美食をスタイリッシュに楽しむなら？","acceptedAnswer":{"@type":"Answer","text":"「城崎温泉 但馬牛極みの宿 小宿 縁」は但馬牛専門レストランを併設し、モダンな客室で大人のソログルメステイを満喫できます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【城崎温泉ひとり旅・七田外湯めぐりおこもり】大谿川柳並木・浴衣散策・松葉ガニ＆但馬牛！千三百年続く文学と名湯の街厳選3宿","item":"https://croud-travel.pages.dev/hyogo-kinosaki-solo-retreat-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

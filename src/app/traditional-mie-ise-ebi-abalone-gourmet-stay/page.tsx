@@ -151,6 +151,14 @@ export default function FeaturePage() {
       </nav>
 
       <main className="max-w-5xl mx-auto px-4 py-8 md:py-12 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「榊原温泉 鳥羽・相差 海女の宿 ひょうすけ」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「榊原温泉 鳥羽・相差 海女の宿 ひょうすけ」へは、近鉄・ＪＲ「鳥羽駅」～お車で約３０分／パールロード相差ＩＣ～約７分。最寄りの鳥羽駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「榊原温泉 鳥羽・相差 海女の宿 ひょうすけ」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「榊原温泉 鳥羽・相差 海女の宿 ひょうすけ」は『現役２代海女がおもてなし★名物料理「大漁焼き」と貸切風呂（無料）が人気です♪』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「榊原温泉 鳥羽・相差 海女の宿 ひょうすけ」と「鳥羽ビューホテル 花真珠」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【伊勢志摩の王道美食】活伊勢海老お造り＆極上あわび踊り焼き！鳥羽・賢島オーシャンビュー温泉宿5選","item":"https://croud-travel.pages.dev/traditional-mie-ise-ebi-abalone-gourmet-stay"}]}) }}
+      />
         {/* Intro */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">

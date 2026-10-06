@@ -48,6 +48,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"大塚国際美術館や鳴門観光に最も便利なリゾートホテルは？","acceptedAnswer":{"@type":"Answer","text":"「アオアヲ ナルト リゾート」は大塚国際美術館まで車で約3分（無料送迎あり）。鳴門海峡を望む露天風呂や阿波郷土料理バイキングが人気です。"}},{"@type":"Question","name":"静かに客室露天風呂にこもりたい大人の一人旅におすすめは？","acceptedAnswer":{"@type":"Answer","text":"「リゾートホテル モアナコースト」は全室露天ジャグジー付きの隠れ家リゾート。地元鳴門の魚介と自家製野菜を使った本格イタリアンを堪能できます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【鳴門・徳島ひとり旅・南欧風おこもり】鳴門の渦潮・大塚国際美術館・全室客室露天風呂！鳴門海峡を望む極上リゾート厳選3宿","item":"https://croud-travel.pages.dev/naruto-tokushima-solo-retreat-whirlpool-museum-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

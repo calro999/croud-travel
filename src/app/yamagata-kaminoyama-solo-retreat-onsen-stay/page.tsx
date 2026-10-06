@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で全国的に有名な最高峰の温泉旅館に泊まるなら？","acceptedAnswer":{"@type":"Answer","text":"「かみのやま温泉 日本の宿 古窯」は料理とおもてなしで全国屈指の評価を誇る老舗。蔵王連峰を望む展望露天風呂と米沢牛・山形牛会席を一人旅でも贅沢に楽しめます。"}},{"@type":"Question","name":"静かで落ち着いた雰囲気の客室と良質な温泉を求めるなら？","acceptedAnswer":{"@type":"Answer","text":"「かみのやま温泉 葉山舘」は全館落ち着いた大人の空間。源泉かけ流しの露天風呂と四季折々の山形創作会席がソロリトリートに好評です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【かみのやま温泉ひとり旅・蔵王連峰パノラマおこもり】城下町足湯・山形牛会席・ワイン王国！奥羽三楽郷の名湯に癒やされる厳選3宿","item":"https://croud-travel.pages.dev/yamagata-kaminoyama-solo-retreat-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

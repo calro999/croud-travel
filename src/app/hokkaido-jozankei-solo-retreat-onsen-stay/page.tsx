@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で女性が安心して自分磨きやおこもりを楽しめる宿は？","acceptedAnswer":{"@type":"Answer","text":"「定山渓温泉 女性のための宿 翠蝶館」は一人旅歓迎の女性専用宿。薬膳料理やエステ、厳選されたアメニティで極上の癒やしを提供します。"}},{"@type":"Question","name":"豊平川の渓谷美を眺めながら温泉と美食を堪能するなら？","acceptedAnswer":{"@type":"Answer","text":"「定山渓温泉 章月グランドホテル」は全客室が渓谷ビュー。名物の蜂蜜バイキングや和食会席がソロ旅でも大人気です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【定山渓温泉ひとり旅・渓谷美おこもり】札幌から60分・豊平川渓流露天・道産美食！札幌の奥座敷で静寂にととのう厳選3宿","item":"https://croud-travel.pages.dev/hokkaido-jozankei-solo-retreat-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

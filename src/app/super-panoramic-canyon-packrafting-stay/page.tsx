@@ -142,6 +142,14 @@ export default function FeaturePage() {
       </nav>
 
       <main className="max-w-5xl mx-auto px-4 py-8 md:py-12 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「水上温泉郷 谷川温泉 旅館たにがわ」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「水上温泉郷 谷川温泉 旅館たにがわ」へは、ＪＲ水上駅より車で７分（送迎あり）、関越自動車道水上ＩＣより１５分。最寄りの水上駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「水上温泉郷 谷川温泉 旅館たにがわ」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「水上温泉郷 谷川温泉 旅館たにがわ」は『太宰治ゆかりの宿 スタッフの笑顔と創作料理・おもてなしの心 ・貸切露天風呂・足湯も大好評』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「水上温泉郷 谷川温泉 旅館たにがわ」と「水上温泉郷 湯檜曽温泉 天空の湯 なかや旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【超軽量パックラフト冒険】清流の静水と急流を漕ぎ抜ける！奥多摩・みなかみ渓谷温泉宿5選","item":"https://croud-travel.pages.dev/super-panoramic-canyon-packrafting-stay"}]}) }}
+      />
         {/* Intro */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">

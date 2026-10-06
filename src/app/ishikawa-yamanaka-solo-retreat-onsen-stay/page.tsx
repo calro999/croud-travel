@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で鶴仙渓の絶景と最高峰のおもてなしを味わうなら？","acceptedAnswer":{"@type":"Answer","text":"「山中温泉 吉祥やまなか」は鶴仙渓沿いに建ち、渓流を望む露天風呂や加賀会席、無料のハッピーアワーなど一人旅でも至福のひとときを過ごせます。"}},{"@type":"Question","name":"歴史ある名湯で渓流露天風呂を満喫したい時は？","acceptedAnswer":{"@type":"Answer","text":"「山中温泉 白鷺湯たわらや」は創業800年の老舗。大聖寺川に迫り出す渓流野天風呂からの眺望は圧巻の一言です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【山中温泉ひとり旅・鶴仙渓おこもり】芭蕉も称賛の名湯・あやとり橋・加賀会席！大聖寺川の渓谷美と山中漆器の街でととのう厳選3宿","item":"https://croud-travel.pages.dev/ishikawa-yamanaka-solo-retreat-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

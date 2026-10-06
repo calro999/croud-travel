@@ -49,6 +49,14 @@ export default function FurusatoArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「那須温泉山楽」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「那須温泉山楽」へは、那須塩原駅より車で約３５分／東北自動車道 那須ＩＣより約１５分/無料送迎バスあり。最寄りの那須塩原駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「那須温泉山楽」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「那須温泉山楽」は『五感で四季を感じられる会席料理と大露天風呂。日本情緒あふれる純和風のご滞在をご満喫いただけ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「那須温泉山楽」と「那須温泉 ホテルエピナール那須」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【那須温泉郷×ふるさと納税】開湯千三百年「鹿の湯」の白濁湯＆那須御用邸リゾート！名宿特集｜山楽・エピナール那須・サンバレー那須","item":"https://croud-travel.pages.dev/furusato-tax-nasu-onsen-shikanoyu-resort-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

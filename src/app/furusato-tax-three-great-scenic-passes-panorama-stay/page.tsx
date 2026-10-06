@@ -179,6 +179,10 @@ export default function Page() {
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「旧軽井沢 ホテル音羽ノ森」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「旧軽井沢 ホテル音羽ノ森」へは、鉄道：軽井沢駅北口タクシー約3分、徒歩約１２分。最寄りの軽井沢駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「旧軽井沢 ホテル音羽ノ森」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「旧軽井沢 ホテル音羽ノ森」は『軽井沢駅・旧軽井沢銀座まで徒歩約13分。自然豊かな旧軽井沢の景観と伝統を兼ね備えた隠れ家ホ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「旧軽井沢 ホテル音羽ノ森」と「龍宮殿」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
         {/* リードセクション */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80 space-y-4">
           <h2 className="text-xl md:text-2xl font-bold text-slate-900 border-l-4 border-emerald-500 pl-3">

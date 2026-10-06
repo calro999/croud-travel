@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で手軽に阿智村の星空観測と温泉を楽しめる宿は？","acceptedAnswer":{"@type":"Answer","text":"「昼神温泉 ひるがみの森」は阿知川のほとりに位置し、リーズナブルな宿泊プランと良質のとろとろ美肌温泉で一人旅の利用者に好評です。"}},{"@type":"Question","name":"囲炉裏料理や風情ある和の空間でゆっくり過ごしたいなら？","acceptedAnswer":{"@type":"Answer","text":"「昼神温泉郷 懐石と炉ばたの宿 吉弥」は炭火で焼き上げる郷土会席と庭園露天風呂が魅力。大人の一人旅にぴったりの落ち着いた名宿です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【昼神温泉ひとり旅・日本一の星空おこもり】pH9.7超とろとろ美肌の湯・阿智村ナイトツアー・信州郷土会席！南信州の星降る里厳選3宿","item":"https://croud-travel.pages.dev/nagano-hirugami-solo-retreat-starry-sky-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

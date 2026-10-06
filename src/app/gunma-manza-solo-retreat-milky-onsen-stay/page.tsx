@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅でログ調の落ち着いた雰囲気と極上の白濁露天風呂を味わえる宿は？","acceptedAnswer":{"@type":"Answer","text":"「万座温泉 万座亭」はヒバ造りの内湯や野趣あふれる白濁露天風呂を備え、楽天口コミ★4.4。山小屋風の上質な空間が一人旅に大人気です。"}},{"@type":"Question","name":"万座温泉で伝統的な湯治と多彩な木造湯殿を楽しみたいなら？","acceptedAnswer":{"@type":"Answer","text":"「万座温泉 日進舘」は「苦湯」「姥湯」など木造大浴場「長寿の湯」をはじめ9つの湯船を誇り、健康増進と心のリフレッシュを求める一人旅に最適です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【上信越高原・万座温泉ひとり旅・標高1800m雲上の白濁硫黄泉おこもり】日本一の硫黄含有量・星空露天風呂・上州牛会席！空に一番近い秘湯厳選3宿","item":"https://croud-travel.pages.dev/gunma-manza-solo-retreat-milky-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

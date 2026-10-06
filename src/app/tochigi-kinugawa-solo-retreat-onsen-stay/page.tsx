@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で鬼怒川の渓谷絶景と観光に便利な宿は？","acceptedAnswer":{"@type":"Answer","text":"「鬼怒川温泉 ホテルサンシャイン鬼怒川」は鬼怒楯岩大吊橋のすぐ隣に位置し、客室や大浴場から鬼怒川渓谷の絶景を楽しめます。"}},{"@type":"Question","name":"落ち着いた雰囲気で美味しい料理と温泉を満喫したいなら？","acceptedAnswer":{"@type":"Answer","text":"「鬼怒川温泉 鬼怒川グランドホテル 夢の季」は美しい日本庭園と上質な会席料理、多彩な温浴施設が揃い、ソロリトリートに最適です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【鬼怒川温泉ひとり旅・渓谷美おこもり】スペーシアX直通・鬼怒川渓谷露天・とちぎ和牛！都心から2時間の極上ソロ湯治厳選3宿","item":"https://croud-travel.pages.dev/tochigi-kinugawa-solo-retreat-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

@@ -44,6 +44,10 @@ export default function FeatureArticlePage() {
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「出雲・玉造温泉 白石家」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「出雲・玉造温泉 白石家」へは、山陰道 玉造インターから車で約１０分 ■出雲大社から車で約４０分の距離 ■ＪＲ玉造温泉駅より送迎有（事前連絡要）。最寄りの玉造温泉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「出雲・玉造温泉 白石家」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「出雲・玉造温泉 白石家」は『ご縁に結ばれて創業300年 楽天トラベルアワード11年連続受賞施設！口コミ総数3,326件』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「出雲・玉造温泉 白石家」と「玉造温泉 佳翠苑 皆美」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
       {/* パンくずナビ */}
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:text-stone-800 underline">ホーム</Link>

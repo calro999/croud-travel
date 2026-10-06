@@ -48,6 +48,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"三宮駅からホテルまでは歩いて行けますか？","acceptedAnswer":{"@type":"Answer","text":"三宮駅からハーバーランド・メリケンパークエリアまでは徒歩約15〜20分ですが、各ホテルが三宮駅前からの無料シャトルバスや路線バスを運行しており、荷物があっても快適にアクセスできます。"}},{"@type":"Question","name":"一人でルームサービスのディナーを頼むことはできますか？","acceptedAnswer":{"@type":"Answer","text":"はい、特にホテル ラ・スイート神戸ハーバーランドなどはルームサービスが非常に充実しており、お部屋で誰にも気兼ねなく本格フレンチコースやワインを楽しむことができます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【神戸ひとり旅・港町ご褒美泊】ハーバーランド夜景・地下天然温泉・極上朝食！海風に癒やされる大人のおこもり宿 厳選3選","item":"https://croud-travel.pages.dev/kobe-solo-luxury-oceanview-onsen-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

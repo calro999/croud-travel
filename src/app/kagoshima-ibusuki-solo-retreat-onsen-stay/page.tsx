@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で指宿の最高峰の料理と温泉を堪能できる宿は？","acceptedAnswer":{"@type":"Answer","text":"「指宿温泉 いぶすき秀水園」は全国料理評価でもトップクラスを誇る名宿。細やかなおもてなしと至高の薩摩会席が一人旅でも楽しめます。"}},{"@type":"Question","name":"海を間近に感じながら館内で砂むし温泉も楽しみたいなら？","acceptedAnswer":{"@type":"Answer","text":"「指宿温泉 指宿海上ホテル」は錦江湾の目の前に佇み、館内に砂むし温泉と展望大浴場を備えた絶景リゾートです。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【指宿温泉ひとり旅・砂むし温泉おこもり】錦江湾パノラマ・砂むし会席・黒豚しゃぶ！南国薩摩の潮風と地熱に癒やされる厳選3宿","item":"https://croud-travel.pages.dev/kagoshima-ibusuki-solo-retreat-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

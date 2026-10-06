@@ -49,6 +49,14 @@ export default function FurusatoArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「三井ガーデンホテル銀座プレミア」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「三井ガーデンホテル銀座プレミア」へは、東京メトロ銀座線 新橋駅1番出口より徒歩5分、銀座駅A3番出口より徒歩10分、東銀座駅A1出口より徒歩5分。最寄りの新橋駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「三井ガーデンホテル銀座プレミア」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「三井ガーデンホテル銀座プレミア」は『JR新橋駅より徒歩5分。銀座で唯一のタワー型デザインホテル。こだわり空間と眺望を堪能できま』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「三井ガーデンホテル銀座プレミア」と「ミレニアム三井ガーデンホテル東京」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【東京・銀座×ふるさと納税】歌舞伎座・ショッピング＆極上スカイビュー！大人の銀座ステイ特集｜三井ガーデン銀座プレミア・ミレニアム・モントレ","item":"https://croud-travel.pages.dev/furusato-tax-tokyo-ginza-luxury-shopping-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

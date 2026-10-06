@@ -47,6 +47,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"倉敷美観地区に最も近く、大浴場やラウンジがあるホテルは？","acceptedAnswer":{"@type":"Answer","text":"「ロイヤルパークホテル倉敷」は美観地区入口まで徒歩約5分。最上階に展望大浴場と専用クラブラウンジを備え、大人の一人旅に最適です。"}},{"@type":"Question","name":"倉敷駅前で大浴場と充実の朝食バイキングがある宿は？","acceptedAnswer":{"@type":"Answer","text":"「ホテル グラン・ココエ倉敷」はJR倉敷駅徒歩約3分。天然木を活かした温もりある大浴場と、瀬戸内の海の幸を味わえる朝食が好評です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【倉敷美観地区ひとり旅・大浴場おこもり】白壁土蔵の町並み・展望大浴場・大原美術館！江戸情緒とデニムの街に癒やされる厳選3宿","item":"https://croud-travel.pages.dev/okayama-kurashiki-solo-retreat-bikan-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

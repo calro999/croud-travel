@@ -250,6 +250,10 @@ export default function WinterKumamotoHitoyoshiPage() {
 
       {/* Main Content Area */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月熊本・人吉温泉郷】極上球磨黒毛和牛！名宿5選","item":"https://croud-travel.pages.dev/winter-kumamoto-hitoyoshi-onsen-kumagawa-mist-wagyu-ayu-stay"}]}) }}
+      />
         
         {/* Section 1: Season Context & Highlights */}
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-slate-200/80 space-y-6">

@@ -90,6 +90,10 @@ export default function OkinawaHubPage() {
 
   return (
     <div className="space-y-12 max-w-5xl mx-auto">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"沖縄観光のおすすめ日数と王道モデルコース（2泊3日・3泊4日）は？","acceptedAnswer":{"@type":"Answer","text":"沖縄本島は2泊3日または3泊4日が王道です。1日目は那覇空港到着後に国際通りやウミカジテラスを散策し那覇泊。2日目は万座毛〜古宇利島〜美ら海水族館を巡り恩納村のビーチリゾート泊。3日目はシュノーケリングやアメリカンビレッジ散策を楽しむルートが最も人気です。"}},{"@type":"Question","name":"沖縄旅行でレンタカーは必須？車なしでも楽しめますか？","acceptedAnswer":{"@type":"Answer","text":"美ら海水族館や恩納村など北部・中部を回るならレンタカーが断然便利です。車なしの場合は、那覇空港から直結の「ゆいレール」で那覇市内（国際通り・首里城）を巡るか、主要リゾートホテル直行の空港リムジンバスや観光周遊バスツアーを活用するのがおすすめです。"}},{"@type":"Question","name":"沖縄でホテルを選ぶならどのエリア（那覇・恩納村・名護・宮古石垣）がおすすめ？","acceptedAnswer":{"@type":"Answer","text":"到着日や最終日の夜遊び・グルメ・ショッピングなら「那覇・国際通りエリア」、エメラルドグリーンの海とプライベートビーチ、大型プールを満喫するなら「恩納村・西海岸リゾートエリア」が最適です。"}}]}) }}
+      />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       <nav aria-label="Breadcrumb" className="text-xs font-bold text-teal-900/60 flex items-center gap-2">

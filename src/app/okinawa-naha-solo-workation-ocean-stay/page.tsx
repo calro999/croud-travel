@@ -48,6 +48,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"レンタカーがなくてもワーケーションを楽しめますか？","acceptedAnswer":{"@type":"Answer","text":"はい、那覇市内はゆいレール（モノレール）が非常に発達しており、瀬長島へも那覇空港や赤嶺駅から直行路線バスが運行しているため、車なしでも快適に滞在・観光できます。"}},{"@type":"Question","name":"客室のWi-Fiスピードはオンライン会議にも耐えられますか？","acceptedAnswer":{"@type":"Answer","text":"ご紹介した3ホテルはいずれも高速Wi-Fiを完備しており、ZoomやTeamsなどのビデオ会議、大容量ファイルの送受信も極めてスムーズに行えます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【沖縄・那覇ひとり旅＆ワーケーション】オーシャンビュー・絶景露天温泉・国際通り至近！仕事と癒やしを両立するリゾート宿 厳選3選","item":"https://croud-travel.pages.dev/okinawa-naha-solo-workation-ocean-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

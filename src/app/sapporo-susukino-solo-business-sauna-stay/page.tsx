@@ -47,6 +47,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"すすきのエリアでサウナと朝食の評価が最も高いビジネスホテルは？","acceptedAnswer":{"@type":"Answer","text":"「ベッセルホテルカンパーナすすきの」は本格サウナ付き大浴場に加え、朝食でイクラや海鮮を盛り放題の豪華ビュッフェが大人気です。"}},{"@type":"Question","name":"デザイン性が高く静かにテレワークができるおすすめホテルは？","acceptedAnswer":{"@type":"Answer","text":"「ホテル・アンドルームス札幌すすきの」はモダンなスタイリッシュ空間にセルフロウリュ可能なサウナを完備し、静かな一人時間を過ごせます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【札幌すすきの出張・サウナステイ】サウナ付大浴場・すすきの徒歩すぐ・朝食海鮮丼！北の歓楽街ビジネスを格上げする厳選3宿","item":"https://croud-travel.pages.dev/sapporo-susukino-solo-business-sauna-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

@@ -45,6 +45,10 @@ export default function FurusatoChichibuNagatoroAutumnLeavesStayPage() {
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「秩父七湯『御代の湯』 新木鉱泉旅館」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「秩父七湯『御代の湯』 新木鉱泉旅館」へは、◆送迎有◆その他、西武秩父駅よりタクシー10分又は定峰行きバス25分金昌寺下車徒歩4分●関越道花園ICより40分●。最寄りの西武秩父駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「秩父七湯『御代の湯』 新木鉱泉旅館」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「秩父七湯『御代の湯』 新木鉱泉旅館」は『2025楽天トラベルアワード13度目の受賞！民芸調のほのぼの宿！滑らかな卵水と云われる温泉』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「秩父七湯『御代の湯』 新木鉱泉旅館」と「秩父小鹿野温泉旅館 梁山泊」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
       {/* パンくずナビ */}
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:text-stone-800 underline">ホーム</Link>

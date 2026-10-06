@@ -49,6 +49,14 @@ export default function FurusatoArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「四万温泉 積善館 佳松亭・山荘」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「四万温泉 積善館 佳松亭・山荘」へは、中之条駅からバス４０分終点下車・車で２５分／渋川伊香保ＩＣ→Ｒ１７→Ｒ３５３で約３９ｋｍ６０分。最寄りの中之条駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「四万温泉 積善館 佳松亭・山荘」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「四万温泉 積善館 佳松亭・山荘」は『『歴史と浪漫・優雅と静寂』の旅館棟。国の重要文化財のある「山荘」・贅を尽くした「佳松亭」』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「四万温泉 積善館 佳松亭・山荘」と「渓谷に佇む源泉湯宿 四万やまぐち館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【四万温泉×ふるさと納税】昭和レトロな重要文化財「元禄の湯」＆清流四万川！渓谷美湯宿ガイド｜積善館・やまぐち館・四万たむら","item":"https://croud-travel.pages.dev/furusato-tax-shima-onsen-retro-sekizenkan-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

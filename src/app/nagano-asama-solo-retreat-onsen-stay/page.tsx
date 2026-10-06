@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で落ち着いた純和風の空間と美食を堪能するなら？","acceptedAnswer":{"@type":"Answer","text":"「浅間温泉 四季彩々の隠れ宿 富士乃湯」は城主ゆかりの歴史ある割烹旅館。信州牛や旬の懐石料理と源泉かけ流し温泉を一人旅でも贅沢に味わえます。"}},{"@type":"Question","name":"一人旅でリーズナブルかつモダンに温泉ステイを楽しみたいなら？","acceptedAnswer":{"@type":"Answer","text":"「FAN! MATSUMOTO」はクラフトビールや信州料理を気軽に楽しめるバーを併設し、浅間温泉の源泉大浴場をカジュアルに満喫できます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【松本・浅間温泉ひとり旅・城下町奥座敷おこもり】松本城主の隠し湯・源泉かけ流し・信州郷土料理！北アルプスを望む文化の湯厳選3宿","item":"https://croud-travel.pages.dev/nagano-asama-solo-retreat-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

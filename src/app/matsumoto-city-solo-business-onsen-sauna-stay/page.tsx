@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"松本駅前で最も新しく、温泉とサウナが豪華なホテルは？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉 あづみの湯 御宿 野乃松本」はJR松本駅徒歩約4分。全館畳敷き、最上階天然温泉大浴場、セルフロウリュサウナ、豪華朝食を備えています。"}},{"@type":"Question","name":"松本駅近くで自家源泉の天然温泉に入れる宿は？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉 梓の湯 ドーミーイン松本」は松本駅お城口徒歩約5分。天然温泉大浴場と高温サウナ、無料夜鳴きそばが楽しめます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【松本出張・天然温泉サウナ】国宝松本城・全館畳敷きあづみの湯・信州馬刺し！北アルプス城下町を極める厳選3宿","item":"https://croud-travel.pages.dev/matsumoto-city-solo-business-onsen-sauna-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

@@ -48,6 +48,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"箱根湯本駅から歩いて行けるおすすめの大型露天風呂付きホテルは？","acceptedAnswer":{"@type":"Answer","text":"「箱根湯本温泉 天成園」は箱根湯本駅から徒歩圏内（または巡回バス）。全長17mの天空大露天風呂や敷地内の玉簾の滝が魅力です。"}},{"@type":"Question","name":"客室露天風呂付きで贅沢なプライベートおこもりをしたいなら？","acceptedAnswer":{"@type":"Answer","text":"「箱根・強羅 佳ら久」は全室に温泉露天風呂を完備。強羅の自然を望む絶景展望露天風呂や質の高い料理で、至高のご褒美滞在が叶います。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【箱根ひとり旅・極上おこもり】滝の流れる大露天風呂・全室客室露天風呂・芦ノ湖インフィニティ！都心から85分の至高温泉リトリート 厳選3選","item":"https://croud-travel.pages.dev/hakone-solo-retreat-forest-onsen-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

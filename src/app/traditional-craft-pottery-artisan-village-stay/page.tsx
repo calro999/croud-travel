@@ -186,6 +186,10 @@ export default function Page() {
 
       {/* メインコンテンツ */}
       <main className="max-w-4xl mx-auto px-4 py-8 space-y-10">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【2026年】手仕事の器と窯元のぬくもり！益子・有田・波佐見・信楽など陶芸体験ができる名湯宿5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/traditional-craft-pottery-artisan-village-stay"}]}) }}
+      />
         
         {/* クーポンバナー */}
         <SpecialCouponBanner />

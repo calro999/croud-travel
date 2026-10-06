@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅でわずか数室の静かな隠れ家で極上の温泉に泊まるなら？","acceptedAnswer":{"@type":"Answer","text":"「信州湯田中温泉 華灯りの宿 加命の湯」は全6室の大人の宿。行灯の灯る洗練された空間と、長命の霊泉に身を委ねる極上のソロリトリートが叶います。"}},{"@type":"Question","name":"駅近くで伝統ある源泉かけ流し温泉をリーズナブルに楽しみたい時は？","acceptedAnswer":{"@type":"Answer","text":"「信州・湯田中温泉 清風荘」や「安代館」は湯田中駅から徒歩圏。気兼ねなく源泉かけ流しの大浴場と信州の味覚を楽しめる一人旅の心強い宿です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【信州湯田中温泉ひとり旅・開湯千三百年おこもり】長命長寿の霊泉・スノーモンキー拠点・信州郷土会席！志賀高原の麓で静寂にととのう厳選3宿","item":"https://croud-travel.pages.dev/nagano-yudanaka-solo-retreat-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

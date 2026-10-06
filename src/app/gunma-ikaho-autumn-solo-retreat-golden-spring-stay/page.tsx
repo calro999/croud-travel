@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で気兼ねなく美味しい創作コース料理と温泉を楽しめる宿は？","acceptedAnswer":{"@type":"Answer","text":"「洋風旅館ぴのん」は女性・男性一人旅に大人気。フレンチ懐石ディナーと、本館松本楼の大浴場・黄金の湯巡りが両方楽しめます。"}},{"@type":"Question","name":"河鹿橋の紅葉の見頃時期はいつ頃ですか？","acceptedAnswer":{"@type":"Answer","text":"例年10月下旬から11月上旬がピークです。見頃時期には夕方16:30〜22:00頃までライトアップが行われ幻想的な風景が広がります。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【10月・11月秋の伊香保温泉ひとり旅・湯元河鹿橋の紅葉ライトアップと黄金の湯おこもり】365段石段街・茶褐色の名湯・上州牛会席！大正ロマン厳選3宿","item":"https://croud-travel.pages.dev/gunma-ikaho-autumn-solo-retreat-golden-spring-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

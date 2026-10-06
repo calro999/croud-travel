@@ -48,6 +48,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"小樽駅前で天然温泉とサウナ、豪華朝食があるホテルは？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉 灯の湯 ドーミーインPREMIUM小樽」はJR小樽駅の目の前。天然温泉大浴場とサウナ、朝食でのいくら・海鮮丼盛り放題が絶大な支持を集めています。"}},{"@type":"Question","name":"客室から小樽運河の景色をゆっくり眺められる宿は？","acceptedAnswer":{"@type":"Answer","text":"「運河の宿 おたる ふる川」は運河沿いに位置し、格子戸や木造の温もりある客室から運河の情景を静かに堪能できます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【小樽ひとり旅・絶景レトロおこもり】天然温泉灯の湯・運河夜景パノラマ・豪華海鮮丼！石造り倉庫街で心洗われる厳選3宿","item":"https://croud-travel.pages.dev/otaru-solo-retreat-canal-seafood-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

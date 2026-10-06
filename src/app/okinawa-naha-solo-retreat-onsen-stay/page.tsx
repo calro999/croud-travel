@@ -47,6 +47,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"那覇市街地で大浴場とサウナに入れる一人旅向けホテルは？","acceptedAnswer":{"@type":"Answer","text":"「ワイズキャビン＆ホテル那覇国際通り」は国際通り徒歩すぐ。男女別大浴場と高温ドライサウナを完備し、一人旅でもリーズナブルに利用できます。"}},{"@type":"Question","name":"ゆいレールの駅に直結していて雨の日でも安心な宿は？","acceptedAnswer":{"@type":"Answer","text":"「ダイワロイネットホテル那覇国際通り」はゆいレール牧志駅と連絡通路で直結。傘をささずにチェックインでき、広々とした客室デスクでテレワークも快適です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【那覇・国際通りひとり旅】大浴場＆プール・ゆいレール直結・やちむん通り！南国の潮風と琉球文化に浸る大人の厳選3宿","item":"https://croud-travel.pages.dev/okinawa-naha-solo-retreat-onsen-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

@@ -151,6 +151,14 @@ export default function FeaturePage() {
       </nav>
 
       <main className="max-w-5xl mx-auto px-4 py-8 md:py-12 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「さくらリゾートホテル石垣＜石垣島＞」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「さくらリゾートホテル石垣＜石垣島＞」へは、■レンタカー■石垣空港より約25分。最寄りの石垣空港駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「さくらリゾートホテル石垣＜石垣島＞」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「さくらリゾートホテル石垣＜石垣島＞」は『八重山ブルーの海、八重山の島々を見下ろす絶好のロケーション。島内でも屈指のサンセットをご堪』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「さくらリゾートホテル石垣＜石垣島＞」と「フサキビーチリゾート ホテル＆ヴィラズ ＜石垣島＞」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【日本屈指の満天星空＆南十字星】石垣・西表・小浜島！大自然とプライベートヴィラ極上宿5選","item":"https://croud-travel.pages.dev/traditional-okinawa-yaeyama-stargazing-stay"}]}) }}
+      />
         {/* Intro */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">

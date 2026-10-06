@@ -179,6 +179,10 @@ export default function Page() {
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「春夏秋雪 京乃宿 ギオン福住」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「春夏秋雪 京乃宿 ギオン福住」へは、京都駅バスターミナルD乗り場より、市バス１００（快速）・２０６系統祇園バス停下車、進行方向に約５０メートル左側。最寄りの京都駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「春夏秋雪 京乃宿 ギオン福住」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「春夏秋雪 京乃宿 ギオン福住」は『知恩院門前、八坂神社徒歩２分、清水寺や高台寺への東山散策に最適。東山を望む展望風呂と本格京』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「春夏秋雪 京乃宿 ギオン福住」と「ホテル アジール・奈良」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
         {/* リードセクション */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80 space-y-4">
           <h2 className="text-xl md:text-2xl font-bold text-slate-900 border-l-4 border-emerald-500 pl-3">

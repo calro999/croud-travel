@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で貸切風呂と手作りの郷土料理を静かに堪能できる宿は？","acceptedAnswer":{"@type":"Answer","text":"「磐梯熱海温泉 湯のやど 楽山」は予約不要で利用できる多彩な貸切風呂と、おばんざい料理が楽天口コミ★4.5超。一人旅の安らぎステイに最適です。"}},{"@type":"Question","name":"館内で本格的な湯巡りとサウナ・充実の施設を楽しみたいなら？","acceptedAnswer":{"@type":"Answer","text":"「磐梯熱海温泉 ホテル華の湯」は30種もの多彩な湯処を誇り、展望風呂やサウナを備え、一人旅でも飽きることなく名湯を満喫できます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【会津郡山・磐梯熱海温泉ひとり旅・萩姫伝説の美肌湯おこもり】pH9超とろとろアルカリ泉・地酒王国ふくしま・清流五百川！郡山新幹線20分の隠れ里厳選3宿","item":"https://croud-travel.pages.dev/fukushima-bandaiatami-solo-retreat-clearskin-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

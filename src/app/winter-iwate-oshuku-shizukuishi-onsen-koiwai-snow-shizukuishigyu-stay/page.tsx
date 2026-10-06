@@ -278,6 +278,10 @@ export default function WinterIwateOshukuPage() {
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月鶯宿温泉＆雫石】開湯450年の名湯と小岩井農場雪景色！名宿5選","item":"https://croud-travel.pages.dev/winter-iwate-oshuku-shizukuishi-onsen-koiwai-snow-shizukuishigyu-stay"}]}) }}
+      />
         
         {/* Intro Section */}
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200 space-y-6">

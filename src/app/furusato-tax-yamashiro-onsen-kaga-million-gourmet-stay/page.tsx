@@ -42,6 +42,10 @@ export default function FurusatoTaxArticle() {
 
   return (
     <main className="min-h-screen bg-stone-50 text-stone-900 leading-relaxed font-sans">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「山代温泉 ゆのくに天祥」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「山代温泉 ゆのくに天祥」へは、車 北陸自動車道加賀IC、片山津ICより約15分 電車 JR・IRいしかわ鉄道加賀温泉駅より無料送迎 予約制。最寄りの加賀温泉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「山代温泉 ゆのくに天祥」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「山代温泉 ゆのくに天祥」は『プロが選ぶホテル・旅館100選(全国総合4位) 楽天・日本の宿アワード2025 W受賞！風』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「山代温泉 ゆのくに天祥」と「山代温泉 葉渡莉」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
       {/* ヒーローヘッダー */}
       <header className="relative bg-gradient-to-br from-stone-900 via-amber-950 to-stone-900 text-amber-50 py-16 px-4 md:px-8 border-b border-amber-900/50 shadow-2xl">
         <div className="max-w-4xl mx-auto space-y-4 text-center">

@@ -47,6 +47,10 @@ export default function FurusatoRound66ArticlePage() {
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「翠嵐ラグジュアリーコレクションホテル京都」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「翠嵐ラグジュアリーコレクションホテル京都」へは、京福電鉄嵐山本線 嵐山駅 より徒歩約６分 阪急嵐山線 嵐山駅 、JR山陰本線 嵯峨野線 嵯峨嵐山駅 より徒歩約15分。最寄りの嵐山（京福電気鉄道）駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「翠嵐ラグジュアリーコレクションホテル京都」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「翠嵐ラグジュアリーコレクションホテル京都」は『京都の歴史に育まれた伝統とモダンの美が融け合う空間で、この地ならではの格別���体験をご提』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「翠嵐ラグジュアリーコレクションホテル京都」と「京都ブライトンホテル」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
       <div className="max-w-5xl mx-auto">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
 

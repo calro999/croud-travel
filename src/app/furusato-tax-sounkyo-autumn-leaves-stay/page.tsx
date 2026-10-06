@@ -44,6 +44,10 @@ export default function FeatureArticlePage() {
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「層雲峡温泉 朝陽リゾートホテル」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「層雲峡温泉 朝陽リゾートホテル」へは、JR上川駅下車 道北バスで約３０分/札幌・旭川発の送迎バス運行（2026/3/31迄）。最寄りの上川駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「層雲峡温泉 朝陽リゾートホテル」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「層雲峡温泉 朝陽リゾートホテル」は『２種の源泉「白濁の湯」と「赤茶の湯」は層雲峡エリアで当館だけ！貸切風呂と岩盤浴も利用できま』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「層雲峡温泉 朝陽リゾートホテル」と「層雲峡温泉 湯元 銀泉閣」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
       {/* パンくずナビ */}
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:text-stone-800 underline">ホーム</Link>

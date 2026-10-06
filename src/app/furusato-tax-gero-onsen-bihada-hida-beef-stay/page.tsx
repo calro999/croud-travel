@@ -49,6 +49,14 @@ export default function FurusatoArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「下呂温泉 水明館」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「下呂温泉 水明館」へは、ＪＲ高山本線下呂駅より徒歩３分 下呂駅まで随時送迎バス有 ／中央自動車道 中津川ＩＣよりＲ２５７で約６０分。最寄りの下呂駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「下呂温泉 水明館」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「下呂温泉 水明館」は『趣のことなる三箇所の大浴場と充実した設備が自慢です。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「下呂温泉 水明館」と「下呂温泉 湯之島館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【下呂温泉×ふるさと納税】日本三名泉の美肌美湯＆極上飛騨牛！老舗名宿特集｜水明館・湯之島館・小川屋","item":"https://croud-travel.pages.dev/furusato-tax-gero-onsen-bihada-hida-beef-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

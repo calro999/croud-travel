@@ -151,6 +151,14 @@ export default function FeaturePage() {
       </nav>
 
       <main className="max-w-5xl mx-auto px-4 py-8 md:py-12 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「由布院温泉 旅館 ほたるの宿 仙洞」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「由布院温泉 旅館 ほたるの宿 仙洞」へは、由布院駅より車で５分／湯布院ＩＣより車で１０分。最寄りの湯布院駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「由布院温泉 旅館 ほたるの宿 仙洞」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「由布院温泉 旅館 ほたるの宿 仙洞」は『金鱗湖近く、木々に囲まれた静かな宿。風呂上りに一杯が楽しめるお宿です。全客室Wi－Fi接続』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「由布院温泉 旅館 ほたるの宿 仙洞」と「平山温泉 ほたるの長屋」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【初夏の幻想蛍夜】客室露天・専用テラスから舞う蛍を鑑賞！清流沿いの隠れ家名湯宿5選","item":"https://croud-travel.pages.dev/luxury-private-onsen-with-scenic-firefly-deck"}]}) }}
+      />
         {/* Intro */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">

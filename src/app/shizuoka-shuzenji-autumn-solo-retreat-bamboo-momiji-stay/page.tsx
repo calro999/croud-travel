@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で落ち着いて露天風呂や地元の旬会席を楽しめるおすすめ宿は？","acceptedAnswer":{"@type":"Answer","text":"「瑞の里 〇久（まるきゅう）旅館」は楽天口コミ★4.43。大浴場だけでなく貸切露天風呂も充実し、伊豆の旬の幸を活かした料理が好評です。"}},{"@type":"Question","name":"修善寺もみじ林の見頃時期とアクセスは？","acceptedAnswer":{"@type":"Answer","text":"例年11月中旬から12月上旬が見頃です。修善寺温泉街から路線バスで約10分の「もみじ林前」下車ですぐアクセスできます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【10月・11月秋の伊豆修善寺温泉ひとり旅・竹林の小径と修善寺自然公園もみじ林おこもり】桂川のせせらぎ・伊豆最古の美肌湯・伊豆旬会席！小京都リトリート厳選3宿","item":"https://croud-travel.pages.dev/shizuoka-shuzenji-autumn-solo-retreat-bamboo-momiji-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

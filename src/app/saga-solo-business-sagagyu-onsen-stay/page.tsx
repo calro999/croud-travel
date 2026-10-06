@@ -48,6 +48,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ホテルニューオータニ佐賀」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ホテルニューオータニ佐賀」へは、JR佐賀駅より車にて8分、空港バス利用～県庁前バス停下車～徒歩にて約10分、佐賀空港より車にて20分。最寄りの佐賀駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ホテルニューオータニ佐賀」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ホテルニューオータニ佐賀」は『佐賀県唯一のシティホテル。歴史とモダンが調和する上質なひとときを。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ホテルニューオータニ佐賀」では季節ごとに異なる宿泊プランや料理プランが用意されています。ご旅行の人数や滞在スタイルに合わせて最適なプランをお選びいただけます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【佐賀出張・男一人旅】お濠の水辺ビュー・佐賀牛グルメ・駅前快適ビジネス！城下町の静けさで整う厳選3宿","item":"https://croud-travel.pages.dev/saga-solo-business-sagagyu-onsen-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

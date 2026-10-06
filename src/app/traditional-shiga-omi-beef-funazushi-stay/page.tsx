@@ -124,6 +124,14 @@ export default function FeaturePage() {
       </nav>
 
       <main className="max-w-5xl mx-auto px-4 py-8 md:py-12 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「おごと温泉 びわこ緑水亭」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「おごと温泉 びわこ緑水亭」へは、名神京都東Ｉ．Ｃから湖西道路経由で20分。最寄りの雄琴駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「おごと温泉 びわこ緑水亭」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「おごと温泉 びわこ緑水亭」は『滋賀県おごと温泉、琵琶湖畔の旅館、露天風呂付客室や近江牛のプラン、家族・カップルに人気の旅』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「おごと温泉 びわこ緑水亭」と「湖畔の宿 雄琴荘」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【極上近江牛ステーキ＆伝統鮒ずし】琵琶湖の恵みと名湯！おごと温泉の絶景美食宿5選","item":"https://croud-travel.pages.dev/traditional-shiga-omi-beef-funazushi-stay"}]}) }}
+      />
         {/* Intro */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">

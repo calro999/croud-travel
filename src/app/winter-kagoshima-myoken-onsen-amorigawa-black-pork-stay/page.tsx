@@ -249,6 +249,14 @@ export default function KagoshimaMyokenPage() {
 
       {/* Main Content Area */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 space-y-16 mt-6">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"妙見温泉の泉質の特徴や、炭酸水素塩泉の美肌効果について教えてください。","acceptedAnswer":{"@type":"Answer","text":"妙見温泉は天降川沿いに多数の源泉が自噴しており、主な泉質はナトリウム・カルシウム・マグネシウム-炭酸水素塩泉（中性〜弱アルカリ性）です。微細な炭酸ガスと豊富なメタケイ酸を含んでおり、「清涼の湯」「美肌の湯」として知られます。古い角質を優しく落とすクレンジング作用と、炭酸ガスによる血行促進作用が同時に得られるため、入浴後は肌が驚くほど滑らかになり、湯上がり後も身体の芯までポカポカとした温もりが長く持続します。"}},{"@type":"Question","name":"11月・12月の妙見温泉の気候や気温、服装の注意点は？","acceptedAnswer":{"@type":"Answer","text":"鹿児島県は南国に位置するため、11月の日中は16〜20℃前後と穏やかな小春日和となる日が多いですが、朝晩は天降川沿いの渓谷特有の冷気により5〜8℃前後まで冷え込みます。12月に入ると最高気温も10〜14℃程度となり、朝晩は冷え込みが強まります。基本的には秋〜初冬用のコートやジャケット、セーターを用意すれば快適に過ごせます。豪雪地帯ではないため通常期に雪道運転の心配はほぼありませんが、霧島山高千穂峰方面へ標高を上げる場合は念のため朝晩の凍結に注意してください。"}},{"@type":"Question","name":"初冬の妙見温泉・霧島エリアで絶対に味わうべき鹿児島名物グルメは？","acceptedAnswer":{"@type":"Answer","text":"何と言っても全国にその名を轟かせる「かごしま黒豚」は必食です。サツマイモを与えて丹念に育てられた黒豚は、白身（脂身）の旨味と甘みが抜群で、特製出汁にくぐらせるしゃぶしゃぶやすき焼きは絶品。さらに「和牛能力共進会」で日本一に輝いた「鹿児島黒牛」のステーキや溶岩焼き、天降川の清流で育った鮎の塩焼き、鮮度抜群のきびなごのお造り、本場薩摩揚げ、そして芳醇な香りの本格芋焼酎とのマリアージュは旅の最高の醍醐味です。"}},{"@type":"Question","name":"妙見温泉周辺の初冬のおすすめ観光スポットは？","acceptedAnswer":{"@type":"Answer","text":"車で約25分の場所には、坂本龍馬とお龍が日本初の新婚旅行で訪れたことでも名高い「霧島神宮」（国宝本殿・拝殿・幣殿）があり、初冬の厳かな杉木立と荘厳な朱塗りの社殿が心を洗ってくれます。また、天降川沿いには犬飼滝や和気神社、丸尾滝などの名所が点在。さらに車で30分ほどの霧島温泉市場で温泉蒸し料理を味わったり、高千穂河原で霧島連山の雄大な火山景観を望むドライブもおすすめです。"}},{"@type":"Question","name":"鹿児島空港や新幹線駅からのアクセス方法と所要時間は？","acceptedAnswer":{"@type":"Answer","text":"妙見温泉は全国の温泉地の中でもトップクラスのアクセスの良さを誇ります。鹿児島空港から車またはタクシーでわずか約15〜20分（路線バスでも約25分）。九州新幹線の停車駅であるJR鹿児島中央駅からは、日豊本線特急「きりしま」でJR隼人駅まで約30分、隼人駅からタクシーまたは路線バスで約15分で到着します。羽田や伊丹から飛行機を利用すれば、空港到着から30分足らずで秘湯の露天風呂に浸かることができる利便性が大きな魅力です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月鹿児島・妙見温泉】極上鹿児島黒豚しゃぶしゃぶと！名宿5選","item":"https://croud-travel.pages.dev/winter-kagoshima-myoken-onsen-amorigawa-black-pork-stay"}]}) }}
+      />
 
         {/* Introduction Overview */}
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200 space-y-6">

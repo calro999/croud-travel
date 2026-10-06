@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で濃厚な乳白色の源泉掛け流し風呂と信州の囲炉裏料理を楽しむなら？","acceptedAnswer":{"@type":"Answer","text":"「乗鞍高原温泉 旅館 仙山乗鞍」は楽天口コミ★4.6超。白濁した本物の硫黄泉露天風呂と、岩魚の塩焼きや山菜料理が一人旅の宿泊者から絶賛されています。"}},{"@type":"Question","name":"一人旅で気軽に掛け流しの濁り湯と静かな高原ステイを味わえる宿は？","acceptedAnswer":{"@type":"Answer","text":"「信州乗鞍高原温泉 温泉宿 けやき山荘」は手頃な価格帯でありながら、内湯・露天ともに純度100%掛け流しの乳白色泉を備え、コスパ抜群の一人旅が叶います。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【信州・乗鞍高原温泉ひとり旅・北アルプス白濁硫黄泉おこもり】乳白色源泉掛け流し・満天星空露天風呂・信州蕎麦と岩魚！乗鞍岳山麓の秘湯厳選3宿","item":"https://croud-travel.pages.dev/nagano-norikura-solo-retreat-milky-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

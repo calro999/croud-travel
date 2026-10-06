@@ -48,6 +48,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"高知龍馬空港から高知駅や市内ホテルへのアクセスはどうですか？","acceptedAnswer":{"@type":"Answer","text":"高知龍馬空港から市内行きリムジンバスが頻発しており、JR高知駅前やはりまや橋まで約30〜35分でスムーズに直行できます。"}},{"@type":"Question","name":"一人でひろめ市場の席を確保するのは大変ですか？","acceptedAnswer":{"@type":"Answer","text":"夜19時前後は混み合いますが、一人客なら相席の空きスペースを見つけやすく、注文前に席の確保（ハンカチや上着を置く）をしておけば安心です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【高知出張＆土佐酒ひとり旅】ひろめ市場徒歩すぐ・天然温泉露天風呂・絶品カツオ藁焼き！南国土佐で魂を解放する名宿 厳選3選","item":"https://croud-travel.pages.dev/kochi-solo-business-hirome-katsuo-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

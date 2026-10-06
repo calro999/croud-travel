@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で民芸モダンの洗練された空間と名湯を味わうなら？","acceptedAnswer":{"@type":"Answer","text":"「雲仙温泉 民芸モダンの宿 雲仙福田屋」は木の温もりあふれる館内と源泉かけ流しの白濁露天風呂、島原の食材を活かした料理で一人旅に大人気です。"}},{"@type":"Question","name":"一人旅で安く良質な雲仙の白濁天然温泉を満喫できる宿は？","acceptedAnswer":{"@type":"Answer","text":"「民宿 関荘」や「民宿 雲仙」はリーズナブルな料金で本物の源泉かけ流し温泉と温かい手料理を楽しめる一人旅の心強い味方です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【雲仙温泉ひとり旅・雲仙地獄白濁おこもり】日本最初の国立公園・硫黄香る乳白色露天・島原半島美食！島原の歴史薫る高原リトリート厳選3宿","item":"https://croud-travel.pages.dev/nagasaki-unzen-solo-retreat-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

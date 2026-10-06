@@ -183,6 +183,10 @@ export default function Page() {
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「宮浜温泉 湯の宿 宮浜グランドホテル」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「宮浜温泉 湯の宿 宮浜グランドホテル」へは、ＪＲ大野浦駅より送迎有り／山陽自動車道大野ＩＣより約７～８分。最寄りの大野浦駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「宮浜温泉 湯の宿 宮浜グランドホテル」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「宮浜温泉 湯の宿 宮浜グランドホテル」は『展望大浴場と旬の素材を使った料理が好評。宮島口から車で12分。無料駐車場有！』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「宮浜温泉 湯の宿 宮浜グランドホテル」と「東横ＩＮＮ富士山大月駅」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
         
         {/* 特集の魅力セクション */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80">

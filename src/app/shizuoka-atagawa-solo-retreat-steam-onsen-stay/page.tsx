@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で多彩な貸切風呂巡りと細やかなおもてなしを楽しめる宿は？","acceptedAnswer":{"@type":"Answer","text":"「伊豆熱川温泉 ふたりの湯宿 湯花満開」は6つの無料貸切風呂を備え、楽天口コミ★4.5超。一人旅でも贅沢な湯巡りと美味しい会席料理を満喫できます。"}},{"@type":"Question","name":"相模灘を見渡す絶景屋上露天風呂で開放的な滞在をしたいなら？","acceptedAnswer":{"@type":"Answer","text":"「熱川温泉 熱川プリンスホテル」は高台に位置し、海と空に包まれるような屋上展望露天風呂や多彩なスパ施設が一人旅に大好評です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【東伊豆・熱川温泉ひとり旅・自噴湯けむりおこもり】自家源泉100度超・六つの貸切露天風呂・金目鯛姿煮！伊豆急直通の海辺厳選3宿","item":"https://croud-travel.pages.dev/shizuoka-atagawa-solo-retreat-steam-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

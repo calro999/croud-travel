@@ -45,6 +45,10 @@ export default function FurusatoAutumnSengokuharaSilverGrassStayPage() {
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「箱根仙石原温泉 万寿屋旅館」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「箱根仙石原温泉 万寿屋旅館」へは、小田原駅よりバスで４０分／箱根湯本よりバスで３０分 仙石案内所前バス停下車、徒歩３分で当館に到着します。最寄りの小田原駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「箱根仙石原温泉 万寿屋旅館」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「箱根仙石原温泉 万寿屋旅館」は『大涌谷の源泉１００％掛け流しの白濁天然温泉がございます。２４時間入浴可です。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「箱根仙石原温泉 万寿屋旅館」と「仙石原温泉 箱根ホテル花月園」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
       {/* パンくずナビ */}
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:text-stone-800 underline">ホーム</Link>

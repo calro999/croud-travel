@@ -48,6 +48,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"和歌山駅周辺で天然温泉大浴場があるおすすめホテルは？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉 紀州の湯 ドーミーインPREMIUM和歌山」はJR和歌山駅中央口から徒歩約5分。本格的な天然温泉大浴場と高温サウナを完備しています。"}},{"@type":"Question","name":"客室から和歌山城の景色が見えるホテルはどこですか？","acceptedAnswer":{"@type":"Answer","text":"「ダイワロイネットホテル和歌山」のキャッスルビュー客室からは、和歌山城天守閣と広大な公園の四季折々の絶景を一望できます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【和歌山出張・ひとり旅】天然温泉紀州の湯・和歌山城パノラマ・濃厚豚骨醤油中華そば！城下町でととのう快適出張宿 厳選3選","item":"https://croud-travel.pages.dev/wakayama-solo-business-ramen-castle-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で毎夜の津軽三味線生演奏と陸奥湾一望の露天風呂を楽しめる宿は？","acceptedAnswer":{"@type":"Answer","text":"「浅虫温泉 南部屋・海扇閣」は最上階展望風呂からの夕日絶景と、ロビーで毎晩開催されるプロ奏者の津軽三味線ライブが圧巻。一人旅に感動の滞在を提供します。"}},{"@type":"Question","name":"棟方志功ゆかりの歴史ある宿で、源泉掛け流しの温泉を静かに楽しむなら？","acceptedAnswer":{"@type":"Answer","text":"「浅虫温泉 椿館」は棟方志功が定宿とし多くの作品を残した老舗旅館。飲泉もできる良質な自家源泉掛け流しと温かいもてなしが一人旅に大人気です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【青森の奥座敷・浅虫温泉ひとり旅・陸奥湾夕日おこもり】開湯1200年名湯・津軽三味線生演奏・名物陸奥湾ホタテづくし！青い森鉄道直通の海辺厳選3宿","item":"https://croud-travel.pages.dev/aomori-asamushi-solo-retreat-mutsubay-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

@@ -47,6 +47,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ホテルサンルート浅草」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ホテルサンルート浅草」へは、地下鉄銀座線 田原町駅３番出口より徒歩2分。最寄りの田原町（東京）駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ホテルサンルート浅草」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ホテルサンルート浅草」は『『銀座線田原町駅』から徒歩2分！世界のベッド！シモンズ社製ベッドとロフテー社オリジナル製枕』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ホテルサンルート浅草」では季節ごとに異なる宿泊プランや料理プランが用意されています。ご旅行の人数や滞在スタイルに合わせて最適なプランをお選びいただけます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【浅草ひとり旅・下町温泉おこもり】隅田川スカイツリー夜景・天然温泉展望露天・老舗江戸前グルメ！歴史と現代が交差する厳選3宿","item":"https://croud-travel.pages.dev/tokyo-asakusa-solo-retreat-onsen-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

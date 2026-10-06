@@ -64,6 +64,10 @@ export default function Page() {
 
       {/* Main Content Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 mt-12 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「鳥取温泉 ホテルモナーク鳥取」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「鳥取温泉 ホテルモナーク鳥取」へは、公共交通機関またはお車でのアクセスが可能です。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「鳥取温泉 ホテルモナーク鳥取」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「鳥取温泉 ホテルモナーク鳥取」は『鳥取温泉繁華街に位置。自家源泉大浴場を完備したシティーホテル。地産食材を活かした朝食ブッフ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「鳥取温泉 ホテルモナーク鳥取」と「ホテルルートイン浜名湖」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
         {/* Intro Lead */}
         <section className="bg-slate-900/90 border border-slate-800 rounded-3xl p-6 sm:p-8 backdrop-blur shadow-2xl">
           <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">

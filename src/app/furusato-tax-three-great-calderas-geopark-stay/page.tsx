@@ -167,6 +167,10 @@ export default function Page() {
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「阿蘇内牧温泉 阿蘇プラザホテル」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「阿蘇内牧温泉 阿蘇プラザホテル」へは、ＪＲ阿蘇駅よりバスにて１０分。最寄りの阿蘇駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「阿蘇内牧温泉 阿蘇プラザホテル」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「阿蘇内牧温泉 阿蘇プラザホテル」は『人気の展望露天風呂から阿蘇のパノラマビューを満喫！旬の会席を堪能♪』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「阿蘇内牧温泉 阿蘇プラザホテル」と「箱根・芦ノ湖 はなをり」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
         
         {/* 特集の魅力セクション */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80">

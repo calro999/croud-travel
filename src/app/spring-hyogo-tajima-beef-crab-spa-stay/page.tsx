@@ -151,6 +151,14 @@ export default function FeaturePage() {
       </nav>
 
       <main className="max-w-5xl mx-auto px-4 py-8 md:py-12 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「城崎温泉 旅館 つばき乃」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「城崎温泉 旅館 つばき乃」へは、中国自動車道及び山陽道から播但自動車道 こうのとり但馬空港I.C.より30分。最寄りの城崎駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「城崎温泉 旅館 つばき乃」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「城崎温泉 旅館 つばき乃」は『温泉街の入り口・外湯地蔵湯のそば。外湯めぐりや観光に便利な立地』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「城崎温泉 旅館 つばき乃」と「城崎温泉 西村屋ホテル招月庭」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【但馬牛ステーキ＆香住ガニ】兵庫・城崎温泉の七湯めぐりと極上グルメ宿5選","item":"https://croud-travel.pages.dev/spring-hyogo-tajima-beef-crab-spa-stay"}]}) }}
+      />
         {/* Intro */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">

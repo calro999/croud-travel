@@ -49,6 +49,14 @@ export default function FurusatoArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「湯回廊 菊屋」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「湯回廊 菊屋」へは、伊豆箱根鉄道 修善寺駅よりバス約８分※送迎無し／東名高速 沼津ICから国道１号線、国道１３６号線 伊豆中央道経由約３５分。最寄りの修善寺駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「湯回廊 菊屋」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「湯回廊 菊屋」は『文豪も愛した本館、源泉かけ流し風呂付の離れ、2021年～水の語り部(温泉風呂付）、風の語り』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「湯回廊 菊屋」と「修善寺温泉 国の登録文化財の宿 新井旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【修善寺温泉×ふるさと納税】伊豆最古の名湯・竹林の小径散策＆国の登録文化財！歴史名宿特集｜菊屋・新井旅館・宙SORA","item":"https://croud-travel.pages.dev/furusato-tax-shuzenji-onsen-bamboo-heritage-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

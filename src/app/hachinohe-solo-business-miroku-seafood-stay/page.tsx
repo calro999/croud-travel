@@ -48,6 +48,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「八戸駅」と「中心街（本八戸駅周辺）」は離れていますか？","acceptedAnswer":{"@type":"Answer","text":"はい、新幹線が発着する「八戸駅」と、みろく横丁や飲食店が集まる「中心街（本八戸）」は約5km離れており、青い森鉄道・JR八戸線で約8分、または定額シャトルバス（八戸市営バス等）で約20分で結ばれています。"}},{"@type":"Question","name":"一人でみろく横丁の屋台に入っても浮きませんか？","acceptedAnswer":{"@type":"Answer","text":"みろく横丁の屋台は全店舗がカウンター6〜8席の小さな造りで、一人客の割合が非常に高く、店主や隣の客と自然に会話が弾むアットホームな雰囲気です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【八戸出張＆横丁ひとり旅】みろく横丁徒歩すぐ・八食センター・日本一のイカ美食！東北新幹線直結の快適宿 厳選3選","item":"https://croud-travel.pages.dev/hachinohe-solo-business-miroku-seafood-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

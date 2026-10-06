@@ -92,6 +92,10 @@ export default function FeatureArticlePage() {
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「道後温泉 旅亭 うめ乃や」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「道後温泉 旅亭 うめ乃や」へは、伊予鉄松山市駅・JR松山駅から伊予鉄で道後温泉駅へ。最寄りの道後温泉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「道後温泉 旅亭 うめ乃や」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「道後温泉 旅亭 うめ乃や」は『湯築の杜を望む静かな落ち着き。数寄屋造りの歴史感じる温泉宿で過ごす大人の贅沢。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「道後温泉 旅亭 うめ乃や」と「道後温泉 道後グランドホテル」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
       {/* パンくずナビ */}
       <nav className="max-w-6xl mx-auto px-4 py-4 text-xs md:text-sm text-stone-600 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:underline text-stone-500">トップ</Link>

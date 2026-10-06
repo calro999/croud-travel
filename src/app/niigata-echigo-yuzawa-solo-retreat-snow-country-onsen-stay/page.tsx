@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で駅から歩いて行けて、料理と温泉の満足度が高い宿は？","acceptedAnswer":{"@type":"Answer","text":"「越後湯沢温泉 松泉閣花月」は駅から徒歩約5分。楽天口コミ★4.55の高評価を誇り、落ち着いた和の風情とおもてなしが一人旅に大好評です。"}},{"@type":"Question","name":"冬の雪道運転が心配ですが電車だけでも楽しめますか？","acceptedAnswer":{"@type":"Answer","text":"越後湯沢温泉街は駅至近に集まっており、宿の無料送迎バスも充実しているため、新幹線と徒歩・送迎だけで雪道運転なしに満喫できます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【新潟・越後湯沢温泉ひとり旅・川端康成『雪国』の文学湯治おこもり】新幹線直結・谷川連峰一望の露天風呂・魚沼産コシヒカリ会席！白銀の温泉郷厳選3宿","item":"https://croud-travel.pages.dev/niigata-echigo-yuzawa-solo-retreat-snow-country-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

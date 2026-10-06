@@ -49,6 +49,14 @@ export default function FurusatoArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「道後温泉 ふなや」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「道後温泉 ふなや」へは、道後温泉駅から徒歩3分 松山ＩＣより車で25分 ＪＲ松山駅前から市内電車で30分 空港からリムジンバスで35分。最寄りの松山市駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「道後温泉 ふなや」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「道後温泉 ふなや」は『★文人ゆかりの宿・道後一の老舗★ 日本庭園には、自然の川が流れ四季折々の風情がお楽しみいた』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「道後温泉 ふなや」と「道後御湯」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【道後温泉×ふるさと納税】日本最古の名湯・道後温泉本館＆飛鳥乃湯泉！名門老舗宿ガイド｜ふなや・道後御湯・茶玻瑠","item":"https://croud-travel.pages.dev/furusato-tax-dogo-onsen-honkan-heritage-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

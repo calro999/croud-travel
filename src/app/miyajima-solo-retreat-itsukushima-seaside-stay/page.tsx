@@ -48,6 +48,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"宮島島内で一人でも天然温泉に泊まれるおすすめ旅館は？","acceptedAnswer":{"@type":"Answer","text":"「宮島潮湯温泉 錦水館」は厳島神社まで徒歩約3分。宮島で唯一の天然温泉（自家源泉の潮湯）と、宿泊者専用のブック＆カフェラウンジを完備しています。"}},{"@type":"Question","name":"宮島口側（フェリー乗り場前）で便利なホテルはどこ？","acceptedAnswer":{"@type":"Answer","text":"「宮島コーラルホテル」はJR宮島口駅・フェリー乗り場すぐ。出張や宮島観光の前後泊にリーズナブルで非常に便利です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【宮島ひとり旅・瀬戸内海絶景おこもり】厳島神社大鳥居ビュー・宮島潮湯温泉・名物穴子飯！神の島で心洗われる厳選3宿","item":"https://croud-travel.pages.dev/miyajima-solo-retreat-itsukushima-seaside-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

@@ -47,6 +47,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"部屋のプライベート空間で天然温泉に浸かりたい出張におすすめの宿は？","acceptedAnswer":{"@type":"Answer","text":"「ホテル阪神大阪」（大阪駅から1駅・福島駅すぐ）は、なんと全客室の個別バスルームに天然温泉が引かれており、24時間好きな時に客室内で温泉浴を楽しめます。"}},{"@type":"Question","name":"梅田エリアで本格的なサウナと水風呂を満喫できる聖地は？","acceptedAnswer":{"@type":"Answer","text":"「カプセルイン大阪（ニュージャパン梅田）」は日本で初めてカプセルホテルを開業したサウナの殿堂。オートロウリュサウナや低温サウナ、冷水風呂を完備しています。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【大阪梅田出張・サウナ温泉ステイ】客室天然温泉・日本初カプセルサウナ聖地・キタの歓楽街！西日本最大の拠点を制する厳選3宿","item":"https://croud-travel.pages.dev/osaka-umeda-solo-business-sauna-onsen-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

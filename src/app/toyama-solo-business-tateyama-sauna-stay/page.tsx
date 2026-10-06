@@ -48,6 +48,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"富山市内の移動は路面電車（トラム）が便利ですか？","acceptedAnswer":{"@type":"Answer","text":"富山駅を中心に環状線や富山港線など最新の低床路面電車が数分間隔で走っており、SuicaやICOCA等の交通系ICカードで市内観光や会食へスムーズに移動できます。"}},{"@type":"Question","name":"一人で富山湾の地魚寿司を食べられるお店はありますか？","acceptedAnswer":{"@type":"Answer","text":"富山駅周辺や総曲輪エリアには「すし玉」などの有名廻転寿司店やカウンター寿司店が多く、一人客でも気兼ねなく富山湾鮨（10貫セット等）を注文できます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【富山出張＆立山連峰ビュー】富山駅近・天然温泉サウナ・白えび美食！「天然の生簀」富山湾を味わう極上宿 厳選3選","item":"https://croud-travel.pages.dev/toyama-solo-business-tateyama-sauna-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

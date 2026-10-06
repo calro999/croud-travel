@@ -151,6 +151,14 @@ export default function FeaturePage() {
       </nav>
 
       <main className="max-w-5xl mx-auto px-4 py-8 md:py-12 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「高知城下の天然温泉 三翠園」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「高知城下の天然温泉 三翠園」へは、ＪＲ土讃線高知駅から車で１０分／高知自動車道高知ＩＣから１５分。最寄りの高知駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「高知城下の天然温泉 三翠園」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「高知城下の天然温泉 三翠園」は『昭和24年創業。天然温泉の露天風呂と総料理長厳選の土佐の旬でおもてなし。高知城まで徒歩10』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「高知城下の天然温泉 三翠園」と「白地温泉 小西旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月ゆず湯＆冬至の香り】日本一の高知ゆず温泉と戻りカツオ塩たたき宿5選","item":"https://croud-travel.pages.dev/winter-kochi-yuzu-hotspring-stay"}]}) }}
+      />
         {/* Intro */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">

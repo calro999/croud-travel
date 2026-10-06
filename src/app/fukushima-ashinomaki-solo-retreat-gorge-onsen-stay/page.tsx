@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で幻想的な浮き舞台と四季の渓谷を望む棚田露天風呂を体験するなら？","acceptedAnswer":{"@type":"Answer","text":"「会津芦ノ牧温泉 大川荘」はロビーの浮き舞台で毎日三味線の生演奏が行われ、渓谷美を望む棚田風露天風呂が楽天口コミ★4.5超。一生ものの思い出になります。"}},{"@type":"Question","name":"渓流のせせらぎを聞きながら静かに源泉掛け流し湯を味わえる宿は？","acceptedAnswer":{"@type":"Answer","text":"「芦ノ牧温泉 不動館 小谷の湯」は大川渓流沿いに佇み、良質な源泉掛け流しの湯と温かい郷土会席が一人旅の宿泊者から高く評価されています。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【会津・芦ノ牧温泉ひとり旅・大川渓谷絶景おこもり】浮き舞台三味線・渓流露天風呂・大内宿ねぎそば！会津鉄道ネコ駅長の渓谷厳選3宿","item":"https://croud-travel.pages.dev/fukushima-ashinomaki-solo-retreat-gorge-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

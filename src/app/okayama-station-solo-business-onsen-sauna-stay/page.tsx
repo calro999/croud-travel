@@ -47,6 +47,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「天然温泉 吉備の湯 ドーミーイン岡山」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「天然温泉 吉備の湯 ドーミーイン岡山」へは、■JR東海道・山陽新幹線・山陽本線・赤穂線「岡山」駅 東口（エスカレーターあり） 徒歩 約7分。最寄りの岡山駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「天然温泉 吉備の湯 ドーミーイン岡山」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉 吉備の湯 ドーミーイン岡山」は『最上階11階には天然温泉大浴場完備、高温サウナにはセルフロウリュ完備。朝食バイキングも人気』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉 吉備の湯 ドーミーイン岡山」では季節ごとに異なる宿泊プランや料理プランが用意されています。ご旅行の人数や滞在スタイルに合わせて最適なプランをお選びいただけます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【岡山駅前出張・天然温泉サウナ】新幹線直結・天然温泉吉備の湯・後楽園＆白壁美観地区！中国・四国の十字路を制する厳選3宿","item":"https://croud-travel.pages.dev/okayama-station-solo-business-onsen-sauna-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

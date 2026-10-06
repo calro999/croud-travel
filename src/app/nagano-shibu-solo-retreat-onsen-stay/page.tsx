@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で渋温泉の自家源泉と美味しい信州料理を味わうなら？","acceptedAnswer":{"@type":"Answer","text":"「渋温泉 大陽館 ヤマト屋」は敷地内源泉から引く新鮮な温泉大浴場と、信州牛や岩魚など地元の旬の会席が一人旅でも絶賛されています。"}},{"@type":"Question","name":"レトロな木造建築の情緒を静かに味わいたい時は？","acceptedAnswer":{"@type":"Answer","text":"「信州渋温泉 渋白銀屋旅館」や「安代館」は古き良き日本の湯治宿の温もりを残し、九湯めぐりへのアクセスも抜群の落ち着いた名宿です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【信州渋温泉ひとり旅・九湯めぐり石畳おこもり】大正ロマン木造建築・厄除巡浴・信州牛！スノーモンキー近隣のノスタルジック温泉街厳選3宿","item":"https://croud-travel.pages.dev/nagano-shibu-solo-retreat-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

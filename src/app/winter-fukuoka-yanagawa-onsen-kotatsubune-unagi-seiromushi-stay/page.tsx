@@ -278,6 +278,10 @@ export default function WinterFukuokaYanagawaPage() {
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月福岡・水郷柳川】博多和牛会席を味わう城下町！名宿5選","item":"https://croud-travel.pages.dev/winter-fukuoka-yanagawa-onsen-kotatsubune-unagi-seiromushi-stay"}]}) }}
+      />
         
         {/* Intro Section */}
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-slate-100 space-y-6">

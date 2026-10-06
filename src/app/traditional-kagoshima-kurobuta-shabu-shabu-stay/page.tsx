@@ -151,6 +151,14 @@ export default function FeaturePage() {
       </nav>
 
       <main className="max-w-5xl mx-auto px-4 py-8 md:py-12 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「天然温泉かけ流し 絹肌の湯 シルクイン鹿児島」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「天然温泉かけ流し 絹肌の湯 シルクイン鹿児島」へは、ＪＲ鹿児島中央駅より徒歩5分/鹿児島空港より空港連絡バスで約50分→鹿児島中央ターミナルビル下車→徒歩1分。最寄りの鹿児島中央駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「天然温泉かけ流し 絹肌の湯 シルクイン鹿児島」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉かけ流し 絹肌の湯 シルクイン鹿児島」は『平成２３年１１月１８日 リニューアルオープン！2階に掛け流しの天然温泉が自慢の癒しの宿』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉かけ流し 絹肌の湯 シルクイン鹿児島」と「天然温泉 霧桜の湯 ドーミーイン鹿児島」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【鹿児島黒豚＆黒毛和牛】極上しゃぶしゃぶ会席と指宿砂むし温泉！霧島・指宿の美食名湯宿5選","item":"https://croud-travel.pages.dev/traditional-kagoshima-kurobuta-shabu-shabu-stay"}]}) }}
+      />
         {/* Intro */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">

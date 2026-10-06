@@ -49,6 +49,14 @@ export default function FurusatoArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ホテルグランヴィア京都」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ホテルグランヴィア京都」へは、新幹線・JR・近鉄・地下鉄京都駅に直結。最寄りの京都駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ホテルグランヴィア京都」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ホテルグランヴィア京都」は『＊京都駅直結(新幹線・JR・地下鉄・近鉄)で観光にビジネスに最高の立地＊インターネットアク』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ホテルグランヴィア京都」と「リーガロイヤルホテル京都」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【京都駅直結×ふるさと納税】新幹線直結＆抜群のアクセス！古都観光の特等席名門ホテル特集｜グランヴィア京都・ザサウザンド京都・リーガロイヤル","item":"https://croud-travel.pages.dev/furusato-tax-kyoto-station-luxury-convenience-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

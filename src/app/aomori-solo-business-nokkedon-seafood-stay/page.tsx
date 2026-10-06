@@ -48,6 +48,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ダイワロイネットホテル青森」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ダイワロイネットホテル青森」へは、「青森駅」より徒歩約5分。最寄りの青森駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ダイワロイネットホテル青森」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ダイワロイネットホテル青森」は『駅から徒歩約5分の好立地◆全室バス・トイレ別◆フィットネスジム◆コンビニ◆自然豊かな青森で』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ダイワロイネットホテル青森」では季節ごとに異なる宿泊プランや料理プランが用意されています。ご旅行の人数や滞在スタイルに合わせて最適なプランをお選びいただけます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【青森出張＆港町ひとり旅】青森駅近・のっけ丼・陸奥湾ホタテ・十和田牛！本州最北の拠点で整う極上ホテル 厳選3選","item":"https://croud-travel.pages.dev/aomori-solo-business-nokkedon-seafood-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

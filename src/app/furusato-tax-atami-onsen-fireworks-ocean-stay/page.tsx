@@ -42,6 +42,10 @@ export default function FurusatoTaxArticle() {
 
   return (
     <main className="min-h-screen bg-stone-50 text-stone-900 leading-relaxed font-sans">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「熱海温泉 熱海後楽園ホテル」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「熱海温泉 熱海後楽園ホテル」へは、東京から新幹線で50分！熱海駅よりタクシーで約10分。最寄りの熱海駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「熱海温泉 熱海後楽園ホテル」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「熱海温泉 熱海後楽園ホテル」は『熱海の夜景と相模灘を眼前に望める絶好のロケーション！源泉を使用した大展望風呂で、ゆっくりと』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「熱海温泉 熱海後楽園ホテル」と「熱海温泉 古屋旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
       {/* ヒーローヘッダー */}
       <header className="relative bg-gradient-to-br from-stone-900 via-amber-950 to-stone-900 text-amber-50 py-16 px-4 md:px-8 border-b border-amber-900/50 shadow-2xl">
         <div className="max-w-4xl mx-auto space-y-4 text-center">

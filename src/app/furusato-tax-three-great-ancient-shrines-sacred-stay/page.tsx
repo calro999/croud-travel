@@ -179,6 +179,10 @@ export default function Page() {
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「いにしえの宿 伊久」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「いにしえの宿 伊久」へは、近鉄五十鈴川駅より送迎あり※詳しくは よくある質問 Q.伊久までの送迎はありますか？をご覧ください。最寄りの宇治山田駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「いにしえの宿 伊久」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「いにしえの宿 伊久」は『内宮までゆっくり歩いて15分の全室露天風呂付のお宿』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「いにしえの宿 伊久」と「竹野屋旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
         {/* リードセクション */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80 space-y-4">
           <h2 className="text-xl md:text-2xl font-bold text-slate-900 border-l-4 border-emerald-500 pl-3">

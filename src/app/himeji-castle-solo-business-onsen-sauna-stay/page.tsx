@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"姫路駅前で天然温泉大浴場とサウナがあるホテルは？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉 白鷺の湯 ドーミーイン姫路」はJR姫路駅南口徒歩約3分。天然温泉大浴場、高温サウナ、水風呂、名物夜鳴きそばを完備しています。"}},{"@type":"Question","name":"サウナや露天風呂の温浴施設が最も充実しているホテルは？","acceptedAnswer":{"@type":"Answer","text":"「姫路キャッスルグランヴィリオホテル」は敷地内に天然温泉「華楽の湯」を備え、5種類のお風呂とサウナ、岩盤浴が楽しめる本格温浴ホテルです。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【姫路出張・天然温泉サウナ】世界遺産姫路城ビュー・天然温泉白鷺の湯・播州美食！山陽新幹線拠点を制する厳選3宿","item":"https://croud-travel.pages.dev/himeji-castle-solo-business-onsen-sauna-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

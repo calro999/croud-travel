@@ -42,6 +42,10 @@ export default function Page() {
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「民宿 神楽の館」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「民宿 神楽の館」へは、たかちほ号 「高千穂バスセンター」下車後、ふれあいバス 岩戸線 乗車「天岩戸温泉入り口バス停」下車 より徒歩にて約５分。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「民宿 神楽の館」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「民宿 神楽の館」は『高千穂牛を味わえる宿。戸を開けると、そこには神楽が舞う神秘な場所。天岩戸神社まで車で１０分』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「民宿 神楽の館」と「～あなご料理専門店～ 民宿 青島」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
       <div className="max-w-5xl mx-auto">
         {/* パンくずリスト */}
         <nav className="text-xs md:text-sm text-stone-500 mb-6 flex items-center gap-2 flex-wrap">

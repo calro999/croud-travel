@@ -47,6 +47,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"四条烏丸周辺でラウンジサービスや大浴場が最も充実している宿は？","acceptedAnswer":{"@type":"Answer","text":"「ホテルインターゲート京都 四条新町」は地下大浴場を完備し、宿泊者専用ラウンジで朝のコーヒーから夕方のハッピーアワー（ワイン・おつまみ）、夜の夜食お茶漬けまで無料で楽しめます。"}},{"@type":"Question","name":"京都駅からのアクセスが良く、ビジネスにも観光にも便利なホテルは？","acceptedAnswer":{"@type":"Answer","text":"「ダイワロイネットホテル京都四条烏丸」は地下鉄四条駅・阪急烏丸駅から徒歩約1〜2分。全室に加湿空気清浄機やワイドデスクを備え、一人旅に最適です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【京都四条烏丸ひとり旅・大浴場おこもり】京町家の風情・ラウンジ無料ワイン・錦市場！古都の中心で癒やされる大人の厳選3宿","item":"https://croud-travel.pages.dev/kyoto-shijo-karasuma-solo-retreat-onsen-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

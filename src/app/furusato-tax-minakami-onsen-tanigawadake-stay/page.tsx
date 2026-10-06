@@ -49,6 +49,14 @@ export default function FurusatoArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「谷川温泉 別邸 仙寿庵」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「谷川温泉 別邸 仙寿庵」へは、新幹線 上毛高原駅→バスで２５分/上越線 水上駅より車で８分／関越自動車道 水上Ｉ.Ｃより１０分。最寄りの水上駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「谷川温泉 別邸 仙寿庵」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「谷川温泉 別邸 仙寿庵」は『谷川岳の麓に佇む全客室源泉かけ流し露天風呂付きの近代和風旅館。全室Wi-Fi対応可！』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「谷川温泉 別邸 仙寿庵」と「大江戸温泉物語Ｐｒｅｍｉｕｍ 松乃井」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【水上温泉郷×ふるさと納税】谷川岳の絶景＆利根川渓流露天！上州牛と名湯満喫特集｜別邸仙寿庵・松乃井・坐山みなかみ","item":"https://croud-travel.pages.dev/furusato-tax-minakami-onsen-tanigawadake-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

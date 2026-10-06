@@ -48,6 +48,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"宇治川沿いで景色が良く落ち着いて泊まれる旅館は？","acceptedAnswer":{"@type":"Answer","text":"「花やしき浮舟園」は宇治川のすぐ畔に位置し、全室から宇治川の清流と対岸の緑を望むことができます。展望大浴場やお茶の香り漂う料理が魅力です。"}},{"@type":"Question","name":"伏見稲荷や伏見観光に最もアクセスが良いホテルは？","acceptedAnswer":{"@type":"Answer","text":"「アーバンホテル京都」は深草エリアに位置し、伏見稲荷大社まで徒歩圏内。観光はもちろん、ビジネス出張にも使いやすい高機能ホテルです。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【宇治・伏見ひとり旅・歴史おこもり】宇治川のせせらぎ・世界遺産平等院鳳凰堂・伏見酒蔵めぐり！京の奥座敷で心調律する厳選3宿","item":"https://croud-travel.pages.dev/uji-fushimi-solo-retreat-tea-sake-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

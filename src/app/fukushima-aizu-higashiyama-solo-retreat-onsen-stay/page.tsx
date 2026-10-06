@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で土方歳三ゆかりの自噴源泉と落ち着いた宿に泊まるなら？","acceptedAnswer":{"@type":"Answer","text":"「会津東山温泉 くつろぎ宿 新滝」は土方歳三が傷を癒やしたとされる自噴岩風呂をはじめ、多彩な源泉かけ流し湯船と地酒ライブラリーが一人旅に大絶賛されています。"}},{"@type":"Question","name":"高台から会津の夜景を眺めながら温泉に浸かりたい時は？","acceptedAnswer":{"@type":"Answer","text":"「会津東山温泉 くつろぎ宿 千代滝」は最上階の展望露天風呂からの眺望が抜群。地元の食材を使った創作郷土料理ビュッフェも好評です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【会津東山温泉ひとり旅・湯川渓谷美おこもり】竹久夢二・土方歳三ゆかりの自噴泉・会津郷土料理！会津藩の歴史薫る奥座敷厳選3宿","item":"https://croud-travel.pages.dev/fukushima-aizu-higashiyama-solo-retreat-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

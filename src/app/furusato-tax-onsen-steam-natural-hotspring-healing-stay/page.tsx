@@ -47,6 +47,10 @@ export default function FurusatoOnsenSteamHealingStayPage() {
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋」へは、「みゆき坂」から「いでゆ坂」へ下り、湯けむり通りへ入る。最寄りの別府（大分）駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋」は『湯けむりにつつまれる鉄輪。旅館ならではの、女将厳選の大分の食材でおもてなし。Wifi完備』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋」と「鹿児島 砂むし温泉 指宿白水館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
       <div className="max-w-5xl mx-auto">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
 

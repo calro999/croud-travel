@@ -151,6 +151,14 @@ export default function FeaturePage() {
       </nav>
 
       <main className="max-w-5xl mx-auto px-4 py-8 md:py-12 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「鬼首温泉 リゾートパーク ホテル オニコウベ」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「鬼首温泉 リゾートパーク ホテル オニコウベ」へは、東北自動車道古川ICより47号線を鳴子方面へ、岩下こけし資料館前交差点から108号線を秋田方面に入り約20分。最寄りの鳴子温泉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「鬼首温泉 リゾートパーク ホテル オニコウベ」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「鬼首温泉 リゾートパーク ホテル オニコウベ」は『大自然に囲まれたリゾートホテル～宮城県北唯一プールのある施設』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「鬼首温泉 リゾートパーク ホテル オニコウベ」と「米塚天然温泉 阿蘇リゾートグランヴィリオホテル －ルートインホテルズ－」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【大空を舞う空中散歩】爽快パラグライダー体験＆絶景パノラマ露天風呂！高原アクティビティ宿5選","item":"https://croud-travel.pages.dev/super-panoramic-paragliding-sky-stay"}]}) }}
+      />
         {/* Intro */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">

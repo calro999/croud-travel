@@ -48,6 +48,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"冬の飛騨高山は雪が多いですか？足元はどうすべきですか？","acceptedAnswer":{"@type":"Answer","text":"12月下旬〜3月上旬は積雪があり、防寒具と滑り止め付きのブーツやスノーシューズが必要です。ただし町並みの主要歩道は融雪装置が整備されており、雪景色の古い町並みは息をのむ美しさです。"}},{"@type":"Question","name":"一人で飛騨牛ステーキや朴葉味噌焼きを食べられるお店はありますか？","acceptedAnswer":{"@type":"Answer","text":"「丸明」や「味蔵天国」「キッチン飛騨」など有名店は一人客用のカウンター席やテーブル席を備えており、一人でも気兼ねなく最高等級の飛騨牛を堪能できます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【飛騨高山ひとり旅・小京都おこもり】古い町並み徒歩すぐ・飛騨牛にぎり・美肌のとろとろ温泉！飛騨の匠の技に抱かれる極上宿 厳選3選","item":"https://croud-travel.pages.dev/takayama-solo-retreat-hidagyu-onsen-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

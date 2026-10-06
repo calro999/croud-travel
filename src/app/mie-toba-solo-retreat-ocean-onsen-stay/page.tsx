@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で口コミ評価が高く、高台から鳥羽湾の絶景と温泉を楽しめる宿は？","acceptedAnswer":{"@type":"Answer","text":"「ＫＫＲ鳥羽 いそぶえ荘」は楽天口コミ★4.5超の高台岬宿。鳥羽湾を一望する展望大浴場と心のこもった海鮮会席が一人旅に大好評です。"}},{"@type":"Question","name":"館内で多彩な湯巡りを楽しめる伊勢志摩の大型リゾートは？","acceptedAnswer":{"@type":"Answer","text":"「湯めぐり海百景 鳥羽シーサイドホテル」は「風見の湯」「岬の湯」「汀の湯」の3つの湯処を備え、絶景のオーシャンビューとともに贅沢な湯巡りを満喫できます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【鳥羽温泉郷ひとり旅・伊勢志摩オーシャンビューおこもり】鳥羽湾一望の展望露天・伊勢海老＆鮑・静寂の岬リゾート！お伊勢参り後のご褒美厳選3宿","item":"https://croud-travel.pages.dev/mie-toba-solo-retreat-ocean-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

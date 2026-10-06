@@ -48,6 +48,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"静岡駅から富士山は見えますか？","acceptedAnswer":{"@type":"Answer","text":"駅構内からは見えにくいですが、ホテルグランヒルズ静岡など南口・北口の高層階客室や展望フロアからは天気が良ければ美しい富士山をはっきりと望むことができます。"}},{"@type":"Question","name":"一人で入りやすい海鮮居酒屋やおでん屋さんはありますか？","acceptedAnswer":{"@type":"Answer","text":"静岡駅構内の「アスティ静岡」や青葉横丁・呉服町周辺の店舗はカウンター席中心の店が多く、出張の一人客が日常的に多数利用しています。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【静岡出張＆富士山ひとり旅】新幹線直結・清水港まぐろ・静岡茶ラウンジ！名峰の絶景に癒やされる極上ホテル 厳選3選","item":"https://croud-travel.pages.dev/shizuoka-solo-business-maguro-fujiview-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

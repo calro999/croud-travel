@@ -48,6 +48,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"鉄輪温泉で一人でも落ち着いて宿泊できる高級和風旅館は？","acceptedAnswer":{"@type":"Answer","text":"「別府鉄輪温泉 山荘 神和苑」は広大な日本庭園の中に佇み、全室源泉かけ流しの温泉風呂付き。喧騒から完全に隔離された極上のリトリートが叶います。"}},{"@type":"Question","name":"開放感あふれる巨大な露天風呂に入りたいならどこ？","acceptedAnswer":{"@type":"Answer","text":"「おにやまホテル」は別府最大級の広さを誇る大露天風呂「鬼山の湯」や、最上階の展望露天風呂「空の湯」があり、名湯をダイナミックに楽しめます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【別府鉄輪温泉・ひとり湯治おこもり】立ち上る湯けむり・名物地獄蒸し・源泉かけ流し大露天風呂！別府八湯の真髄を味わう厳選3宿","item":"https://croud-travel.pages.dev/beppu-kannawa-solo-retreat-jigokumushi-onsen-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

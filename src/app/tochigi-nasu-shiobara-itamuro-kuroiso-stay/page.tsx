@@ -71,6 +71,10 @@ export default function Page() {
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「那須湯本温泉 鹿の湯源泉かけ流しの宿 旅館 清水屋＜栃木県・那須郡＞」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「那須湯本温泉 鹿の湯源泉かけ流しの宿 旅館 清水屋＜栃木県・那須郡＞」へは、JR那須塩原駅よりバスにて50分、シャトルバス有(要予約)。最寄りの那須塩原駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「那須湯本温泉 鹿の湯源泉かけ流しの宿 旅館 清水屋＜栃木県・那須郡＞」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「那須湯本温泉 鹿の湯源泉かけ流しの宿 旅館 清水屋＜栃木県・那須郡＞」は『老舗旅館■「鹿の湯」源泉かけ流し白濁温泉 24時間OK■お食事処にて栃木牛と季節の懐石膳』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「那須湯本温泉 鹿の湯源泉かけ流しの宿 旅館 清水屋＜栃木県・那須郡＞」と「那須温泉 大丸温泉旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
 
         {/* セクション 1 */}
         <section className="bg-stone-900/40 rounded-3xl p-6 sm:p-8 md:p-10 border border-amber-500/20 backdrop-blur-md relative overflow-hidden shadow-2xl">

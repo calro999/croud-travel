@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で相模湾を望む高台の上質な老舗旅館に泊まるなら？","acceptedAnswer":{"@type":"Answer","text":"「伊東温泉 青山やまと」は伊東の街と海を見下ろす丘に佇み、細やかなおもてなしと個室または部屋食での本格会席が一人旅でも絶賛されています。"}},{"@type":"Question","name":"温泉好き必見！源泉かけ流しの貸切風呂に何度も入れる宿は？","acceptedAnswer":{"@type":"Answer","text":"「伊豆・伊東温泉 お風呂ずきの宿 大東館」は3つの貸切風呂や大浴場が24時間源泉かけ流しで入浴可能。朝食付きの気軽なソロ滞在に最適です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【伊東温泉ひとり旅・相模湾オーシャンおこもり】毎分3万L湧出の名湯・貸切源泉露天・金目鯛姿煮！伊豆東海岸の温暖な湯の街厳選3宿","item":"https://croud-travel.pages.dev/shizuoka-ito-solo-retreat-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

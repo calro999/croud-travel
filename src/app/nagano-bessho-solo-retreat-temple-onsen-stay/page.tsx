@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で料理とサービスの口コミ評価が極めて高い別所温泉の名宿は？","acceptedAnswer":{"@type":"Answer","text":"「信州別所温泉 玉屋旅館」は楽天口コミ★4.7超。全館畳敷きの心地よい館内、月替わりの本格会席、細やかなもてなしが一人旅に大絶賛されています。"}},{"@type":"Question","name":"大正浪漫の歴史的木造建築に泊まる特別な体験をするなら？","acceptedAnswer":{"@type":"Answer","text":"「別所温泉 旅館 花屋」は6500坪の敷地に広がる登録有形文化財の宿。渡り廊下で結ばれた宮大工の技が光る客室で、タイムスリップしたような一人旅を楽しめます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【信州の鎌倉・別所温泉ひとり旅・信州最古の名湯おこもり】信州サーモン＆松茸会席・木造建築文化財・国宝八角三重塔！上田電鉄で行く古刹厳選3宿","item":"https://croud-travel.pages.dev/nagano-bessho-solo-retreat-temple-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

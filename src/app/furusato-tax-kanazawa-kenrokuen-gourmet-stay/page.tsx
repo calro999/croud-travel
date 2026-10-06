@@ -49,6 +49,14 @@ export default function FurusatoArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ホテル日航金沢」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ホテル日航金沢」へは、JR金沢駅兼六園口（東口）より地下道で直結、徒歩3分程／小松空港より車で約40分。最寄りの金沢駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ホテル日航金沢」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ホテル日航金沢」は『ＪＲ金沢駅兼六園口（東口）より徒歩３分程の高層ホテル。客室は全て１７階以上／全室Wi-Fi』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ホテル日航金沢」と「金沢白鳥路 ホテル山楽」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【金沢×ふるさと納税】兼六園の美景＆近江町市場の海の幸！加賀百万石の名門ホテル特集｜ホテル日航金沢・白鳥路山楽・THE HOTEL SANRAKU","item":"https://croud-travel.pages.dev/furusato-tax-kanazawa-kenrokuen-gourmet-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

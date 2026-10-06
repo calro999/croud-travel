@@ -48,6 +48,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"鹿児島空港から霧島温泉郷へのアクセスはどうですか？","acceptedAnswer":{"@type":"Answer","text":"鹿児島空港から霧島いわさきホテル行き路線バス（鹿児島交通）が運行しており、丸尾温泉や霧島温泉市場まで約30〜35分でスムーズにアクセスできます。"}},{"@type":"Question","name":"一人でレンタカーなしでも霧島温泉を満喫できますか？","acceptedAnswer":{"@type":"Answer","text":"主要宿が集まる丸尾温泉周辺は徒歩や路線バスで移動可能で、霧島神宮へも路線バスが運行しています。宿の送迎サービスを活用すれば車なしでも快適に湯治ステイが可能です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【霧島温泉ひとり旅・神話の湯治泊】14源泉の大浴場・桜島展望露天・天然泥パック！坂本龍馬ゆかりの地で魂を再生する名宿 厳選3選","item":"https://croud-travel.pages.dev/kirishima-solo-retreat-doroyu-onsen-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

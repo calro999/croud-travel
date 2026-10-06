@@ -204,6 +204,10 @@ export default function FeatureDetailPage() {
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「熱川温泉 絶景と露天風呂の宿 たかみホテル」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「熱川温泉 絶景と露天風呂の宿 たかみホテル」へは、電車：伊豆急線・伊豆熱川駅から徒歩10分（送迎あり）／お車：東名高速・厚木IC→熱海（R135）→熱川温泉。最寄りの伊豆熱川駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「熱川温泉 絶景と露天風呂の宿 たかみホテル」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「熱川温泉 絶景と露天風呂の宿 たかみホテル」は『展望露天を貸切風呂に 伊豆の海を望む源泉かけ流し天然温泉で、風情ある寛ぎを＜全室オーシャン』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「熱川温泉 絶景と露天風呂の宿 たかみホテル」と「海絶景とギネス認定の宿 全室露天風呂付離れ ＸＹＺスペチアーレ」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
           <h2 className="text-xl sm:text-2xl font-bold text-slate-900 flex items-center gap-2">

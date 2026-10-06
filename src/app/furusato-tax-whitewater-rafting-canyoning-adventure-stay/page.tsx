@@ -72,6 +72,10 @@ export default function Page() {
 
       {/* Main Content Container */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード」へは、車で関越自動車道・水上ＩＣから３０分・ＪＲで上越線 水上駅より 湯ノ小屋行きバスで藤原スキー場入口下車900M。最寄りの水上駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード」は『１１種の貸切露天風呂や滝を望む高台の露天風呂など湯めぐりを満喫！高原ＢＢＱプランも大人気！』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「１１種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード」と「上牧温泉 人気の貸切風呂と炭火山里料理の宿 辰巳館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
         {/* Intro Card */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200/80">
           <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mb-4 border-l-4 border-indigo-600 pl-4">

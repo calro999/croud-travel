@@ -47,6 +47,10 @@ export default function FurusatoDogFriendlyResortStayPage() {
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「愛犬と微笑む温泉リゾート ウブドの森 伊豆高原」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「愛犬と微笑む温泉リゾート ウブドの森 伊豆高原」へは、お車 小田原厚木道路小田原ICより国道135号線約105分/ 電車 伊豆高原駅より車で10分（タクシー代一部補助あり）。最寄りの伊豆高原駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「愛犬と微笑む温泉リゾート ウブドの森 伊豆高原」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「愛犬と微笑む温泉リゾート ウブドの森 伊豆高原」は『30kg以上 大型犬 ２頭以上 でも泊まれる温泉リゾート。愛犬と一緒に海外旅行気分を満喫』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「愛犬と微笑む温泉リゾート ウブドの森 伊豆高原」と「那須温泉 ホテルフォレストヒルズ那須 ｗｉｔｈ ＤＯＧＳ」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
       <div className="max-w-5xl mx-auto">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
 

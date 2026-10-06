@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で静かな大人の隠れ家空間と充実した温泉を楽しめる宿は？","acceptedAnswer":{"@type":"Answer","text":"「石和温泉 糸柳こやど ゆわ」は楽天口コミ★4.7超。全館素足で過ごせる畳敷きの落ち着いた館内と、プライベート感あふれる良質な湯が一人旅に大好評です。"}},{"@type":"Question","name":"圧倒的な日本庭園と贅沢な和の風情を味わいたいなら？","acceptedAnswer":{"@type":"Answer","text":"「石和温泉 銘石の宿 かげつ」は全国から集められた巨石・銘石が織りなす大庭園と錦鯉が圧巻。日常を忘れて心静かに過ごす一人旅に最適です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【甲州・石和温泉ひとり旅・甲州ワインと名湯おこもり】広大な日本庭園露天風呂・甲州牛鉄板焼き・ワイナリー巡り！新宿特急90分の果樹郷厳選3宿","item":"https://croud-travel.pages.dev/yamanashi-isawa-solo-retreat-wine-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

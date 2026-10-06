@@ -49,6 +49,14 @@ export default function FurusatoArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「富士河口湖温泉 秀峰閣 湖月」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「富士河口湖温泉 秀峰閣 湖月」へは、富士急行線 河口湖駅より車で１０分。最寄りの河口湖駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「富士河口湖温泉 秀峰閣 湖月」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「富士河口湖温泉 秀峰閣 湖月」は『河口湖の北岸に建ち、全客室と露天風呂の正面から河口湖と富士山を望む宿』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「富士河口湖温泉 秀峰閣 湖月」と「富士河口湖温泉 若草の宿 丸栄」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【富士河口湖温泉×ふるさと納税】富士山一望露天風呂＆逆さ富士ステイ！絶景客室で癒やされる宿特集｜秀峰閣湖月・若草の宿丸栄・富士レークホテル","item":"https://croud-travel.pages.dev/furusato-tax-kawaguchiko-fuji-view-onsen-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で東北最高峰の格式とおもてなしを味わうなら？","acceptedAnswer":{"@type":"Answer","text":"「花巻温泉 佳松園」は南部赤松林に囲まれた純和風旅館。とろりとしたpH9.0の美肌の湯と部屋食での極上会席が一人旅でも至福の時間を約束します。"}},{"@type":"Question","name":"手頃な料金で多彩な温泉大浴場を湯めぐりしたい時は？","acceptedAnswer":{"@type":"Answer","text":"「花巻温泉 ホテル花巻」や「ホテル千秋閣」は連絡通路で隣接館のお風呂も自由に入浴可能。一人旅でも自由気ままな湯巡りが楽しめます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【岩手花巻温泉ひとり旅・宮沢賢治イーハトーブおこもり】台川渓谷美・pH9.0美肌の湯・前沢牛会席！イーハトーブの森でととのう厳選3宿","item":"https://croud-travel.pages.dev/iwate-hanamaki-solo-retreat-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

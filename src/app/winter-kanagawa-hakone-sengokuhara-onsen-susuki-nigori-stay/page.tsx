@@ -241,6 +241,10 @@ export default function HakoneSengokuharaWinterPage() {
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月箱根仙石原温泉】富士山望む露天風呂！名宿5選","item":"https://croud-travel.pages.dev/winter-kanagawa-hakone-sengokuhara-onsen-susuki-nigori-stay"}]}) }}
+      />
 
         {/* Section 1: Seasonal Overview */}
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-slate-200/80 space-y-6">

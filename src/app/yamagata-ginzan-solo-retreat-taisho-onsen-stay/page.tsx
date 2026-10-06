@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で伝統的な大正建築の意匠と本格的な温泉情緒を味わえる宿は？","acceptedAnswer":{"@type":"Answer","text":"「銀山温泉 伝統の宿 古山閣」は壁一面に施された左官職人の鏝絵が有名で、楽天口コミ★4.5超。歴史ある木造建築の中で特別な一人旅の時間を過ごせます。"}},{"@type":"Question","name":"銀山温泉で開放的な露天風呂やゆとりある空間を求めるなら？","acceptedAnswer":{"@type":"Answer","text":"「銀山温泉 仙峡の宿 銀山荘」は温泉街の入り口に位置し、開放的な露天寝湯や快適な客室を備え、落ち着いた滞在を好む一人旅にぴったりです。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【山形・銀山温泉ひとり旅・大正浪漫ガス灯おこもり】木造多層建築群・銀山川の雪景色・山形牛と尾花沢蕎麦！大正タイムスリップの美湯厳選3宿","item":"https://croud-travel.pages.dev/yamagata-ginzan-solo-retreat-taisho-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

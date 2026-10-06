@@ -92,6 +92,10 @@ export default function FeatureArticlePage() {
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「阿蘇内牧温泉 大観荘」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「阿蘇内牧温泉 大観荘」へは、ＪＲ豊肥線「阿蘇駅」→バスで15分「阿蘇市商工会前バス停」→徒歩１分。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「阿蘇内牧温泉 大観荘」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「阿蘇内牧温泉 大観荘」は『全室より阿蘇山が一望できます。阿蘇内牧温泉で一番歴史が古いと言われております。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「阿蘇内牧温泉 大観荘」と「蘇る山と故郷 阿蘇内牧温泉 蘇山郷」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
       {/* パンくずナビ */}
       <nav className="max-w-6xl mx-auto px-4 py-4 text-xs md:text-sm text-stone-600 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:underline text-stone-500">トップ</Link>

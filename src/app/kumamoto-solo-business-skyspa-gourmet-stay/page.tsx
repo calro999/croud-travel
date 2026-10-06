@@ -48,6 +48,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"阿蘇くまもと空港からホテルまではどう移動するのがスムーズですか？","acceptedAnswer":{"@type":"Answer","text":"阿蘇くまもと空港からリムジンバスに乗れば、約45〜50分でサクラマチ クマモト（バスターミナル）や熊本市街地へ直行できます。"}},{"@type":"Question","name":"TSMC（JASM）のある菊陽町方面へのアクセスはどうですか？","acceptedAnswer":{"@type":"Answer","text":"熊本駅から豊肥本線で肥後大津駅・原水駅へ約30〜35分、またはサクラマチから直行通勤バスも運行されており、市内中心部に宿を取るビジネス客が非常に多いです。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【熊本出張＆城下町ひとり旅】最上階展望スカイスパ・天然温泉・熊本城ビュー！名物馬刺しを満喫する極上宿 厳選3選","item":"https://croud-travel.pages.dev/kumamoto-solo-business-skyspa-gourmet-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

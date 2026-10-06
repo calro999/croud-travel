@@ -151,6 +151,14 @@ export default function FeaturePage() {
       </nav>
 
       <main className="max-w-5xl mx-auto px-4 py-8 md:py-12 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「信州渋温泉 渋白銀屋旅館」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「信州渋温泉 渋白銀屋旅館」へは、●渋温泉郷内 七番湯「七操の湯」すぐ前● 電車/長野電鉄湯田中駅よりお車5分 車/信州中野ICよりお車約20分。最寄りの湯田中駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「信州渋温泉 渋白銀屋旅館」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「信州渋温泉 渋白銀屋旅館」は『■全8室 京町屋を思わせる温泉旅館。九湯巡り・地産地消の郷土会席・女将手造りの果実酒を堪能』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「信州渋温泉 渋白銀屋旅館」と「渋温泉 いかり屋旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【12月開幕！地獄谷スノーモンキー＆渋温泉郷】温泉に入る猿鑑賞と九湯めぐりレトロ宿5選","item":"https://croud-travel.pages.dev/winter-nagano-jigokudani-snow-monkey-stay"}]}) }}
+      />
         {/* Intro */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">

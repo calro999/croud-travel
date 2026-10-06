@@ -48,6 +48,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"宮崎空港から市内ホテルへのアクセスはどうですか？","acceptedAnswer":{"@type":"Answer","text":"宮崎空港駅からJR空港線の特急・普通列車に乗れば、約10〜12分でJR宮崎駅へ直結。中心街（橘通り）へは空港リムジンバスで約20〜25分で直行できます。"}},{"@type":"Question","name":"一人でチキン南蛮の有名店に入れますか？","acceptedAnswer":{"@type":"Answer","text":"発祥の店「おぐら本店」や中心街の洋食店・居酒屋は一人客の利用が非常に多く、カウンター席や一人用席で気兼ねなく名物チキン南蛮を堪能できます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【宮崎出張＆南国ソログルメ泊】橘通り中心街・天然温泉大浴場・地鶏炭火焼！チキン南蛮を満喫する極上ホテル 厳選3選","item":"https://croud-travel.pages.dev/miyazaki-solo-business-jidori-onsen-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

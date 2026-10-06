@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"別府駅近くで別府湾の海を眺めながら温泉に入れる宿は？","acceptedAnswer":{"@type":"Answer","text":"「別府温泉 ホテル三泉閣」や「悠彩の宿 望海」は別府駅徒歩圏内・海岸通りすぐ。展望大浴場や屋上露天風呂から別府湾の朝日や夜景を一望できます。"}},{"@type":"Question","name":"一人旅で美味しい料理と温泉を静かに楽しむなら？","acceptedAnswer":{"@type":"Answer","text":"「悠彩の宿 望海」は料理評価が非常に高く、豊後牛や関アジなど大分の旬の味覚を堪能できる一人旅プランも好評です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【別府温泉ひとり旅・名湯おこもり】別府湾パノラマ露天・源泉かけ流し・豊後牛！湯けむり湧く日本一の温泉都に癒やされる厳選3宿","item":"https://croud-travel.pages.dev/oita-beppu-solo-retreat-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

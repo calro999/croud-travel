@@ -180,6 +180,10 @@ export default function Page() {
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「新安並温泉 なごみ宿 安住庵」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「新安並温泉 なごみ宿 安住庵」へは、土佐くろしお鉄道中村駅下車 タクシーで約１０分（徒歩４０分） / 高知自動車道四万十町中央ICより国道５６号線で約６０分。最寄りの中村駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「新安並温泉 なごみ宿 安住庵」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「新安並温泉 なごみ宿 安住庵」は『城山の山頂に建つ四万十の川と街を眼下に望む一軒宿』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「新安並温泉 なごみ宿 安住庵」と「長良川温泉 十八楼」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
         
         {/* 特集の魅力セクション */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80">

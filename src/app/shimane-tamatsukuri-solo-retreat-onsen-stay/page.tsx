@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅でも温かいもてなしと出雲の郷土芸能を楽しめる宿は？","acceptedAnswer":{"@type":"Answer","text":"「出雲・玉造温泉 白石家」はおもてなし評価全国トップクラス。毎晩ロビーで開催される安来節民謡ショーや、美肌温泉・しまね和牛会席が一人旅でも大人気です。"}},{"@type":"Question","name":"自家源泉かけ流しの本物の美肌湯にじっくり浸かりたいなら？","acceptedAnswer":{"@type":"Answer","text":"「玉造温泉 源泉かけ流しの宿 湯陣 千代の湯」は敷地内から湧出する源泉を惜しみなく使用。静かで落ち着いた大人の一人旅にぴったりです。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【出雲・玉造温泉ひとり旅・美肌神湯おこもり】日本最古の美肌温泉・玉湯川足湯・しまね和牛会席！出雲大社参拝と縁結びの温泉郷厳選3宿","item":"https://croud-travel.pages.dev/shimane-tamatsukuri-solo-retreat-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

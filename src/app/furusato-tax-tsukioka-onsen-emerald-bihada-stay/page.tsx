@@ -49,6 +49,14 @@ export default function FurusatoArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「月岡温泉 白玉の湯 華鳳」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「月岡温泉 白玉の湯 華鳳」へは、新潟駅や空港から最も近い温泉地／JR新発田駅より有料定時シャトルバス運行。最寄りの豊栄駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「月岡温泉 白玉の湯 華鳳」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「月岡温泉 白玉の湯 華鳳」は『2025年プロが選ぶ日本のホテル・旅館100選★総合1位★白玉の湯は全国屈指の硫黄含有量』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「月岡温泉 白玉の湯 華鳳」と「月岡温泉 白玉の湯 泉慶」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【月岡温泉×ふるさと納税】国内随一のエメラルドグリーン硫黄泉＆極上越後会席！名門宿特集｜白玉の湯華鳳・白玉の湯泉慶・風鈴屋","item":"https://croud-travel.pages.dev/furusato-tax-tsukioka-onsen-emerald-bihada-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

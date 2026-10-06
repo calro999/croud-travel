@@ -185,6 +185,10 @@ export default function TokyoStationEarlyMorningBreakfastPage() {
 
   return (
     <main className="min-h-screen bg-slate-950 text-slate-100 selection:bg-indigo-500 selection:text-white font-sans pb-24">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「夜行バス到着後のリフレッシュ完全ガイド」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
+      />
       {/* ヒーローセクション（ミッドナイトインディゴ調） */}
       <section className="relative overflow-hidden bg-gradient-to-b from-indigo-950/70 via-slate-900 to-slate-950 pt-16 pb-20 border-b border-indigo-500/20">
         <div className="absolute inset-0 opacity-15 bg-[radial-gradient(#6366f1_1px,transparent_1px)] [background-size:20px_20px] pointer-events-none" />

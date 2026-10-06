@@ -47,6 +47,10 @@ export default function FurusatoRound65ArticlePage() {
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ホテルノイシュロス小樽」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ホテルノイシュロス小樽」へは、小樽駅より無料送迎有 要予約（電話対応） ＪＲ小樽駅よりバス２０分 千歳空港よりお車で９０分 小樽ＩＣよりお車で２５分。最寄りの小樽駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ホテルノイシュロス小樽」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ホテルノイシュロス小樽」は『全室露天風呂（窓開閉式）付きオーシャンビューリゾート。ディナーはフレンチコース料理をご堪能』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ホテルノイシュロス小樽」と「ＳＨＩＲＯＹＡＭＡ ＨＯＴＥＬ ｋａｇｏｓｈｉｍａ」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
       <div className="max-w-5xl mx-auto">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
 

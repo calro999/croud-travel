@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"登別温泉で一人旅でも落ち着いて部屋食やおこもり滞在ができる宿は？","acceptedAnswer":{"@type":"Answer","text":"「登別温泉 御やど清水屋」は純和風の落ち着いた風情で、割烹仕込みの部屋食プランが充実しており一人旅に圧倒的な支持を集めています。"}},{"@type":"Question","name":"新千歳空港や札幌からのアクセスは？","acceptedAnswer":{"@type":"Answer","text":"札幌駅や新千歳空港から登別温泉直行の高速バス「高速むろらん号」「高速はやぶさ号」が運行しており、約1時間〜1時間40分で乗り換えなしでアクセス可能です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【北海道・登別温泉ひとり旅・地獄谷の多彩な泉質おこもり】9種類の湧出泉・白濁硫黄露天風呂・道産会席！名湯の王様厳選3宿","item":"https://croud-travel.pages.dev/hokkaido-noboribetsu-solo-retreat-hell-valley-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で誰にも邪魔されない至高のプライベート露天風呂ステイをするなら？","acceptedAnswer":{"@type":"Answer","text":"「阿寒湖温泉 あかん鶴雅別荘 鄙の座」は楽天口コミ★4.8超。全室に温泉露天風呂を備え、大人のための静寂とおもてなしを極めた最高峰のおこもり宿です。"}},{"@type":"Question","name":"阿寒湖のパノラマ絶景露天風呂と多彩な湯巡りを楽しみたいなら？","acceptedAnswer":{"@type":"Answer","text":"「あかん遊久の里 鶴雅」は湖畔展望露天風呂や屋上空中露天風呂を備え、阿寒湖の絶景と道東の豊かな味覚バイキングが一人旅に大好評です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【阿寒摩周・阿寒湖温泉ひとり旅・雄阿寒岳とマリモおこもり】全室温泉露天風呂・アイヌコタン木彫り文化・オホーツク会席！道東国立公園厳選3宿","item":"https://croud-travel.pages.dev/hokkaido-akanko-solo-retreat-lakeview-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

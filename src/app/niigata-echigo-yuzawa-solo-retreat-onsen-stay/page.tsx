@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅でリゾート気分と広々とした大浴場を楽しめる宿は？","acceptedAnswer":{"@type":"Answer","text":"「越後湯沢温泉 NASPAニューオータニ」は250坪を誇る男女各露天風呂付き大浴場を完備。一人旅でも優雅なリゾート滞在が叶います。"}},{"@type":"Question","name":"一人旅で風情ある滝見露天風呂と魚沼郷土料理を味わうなら？","acceptedAnswer":{"@type":"Answer","text":"「越後湯沢温泉 和みのお宿 滝乃湯」は自慢の滝見露天風呂と南魚沼の旬の食材を使った手作り会席がソロ旅に大好評です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【越後湯沢温泉ひとり旅・雪国名湯おこもり】上越新幹線70分・谷川連峰パノラマ・魚沼産コシヒカリ！川端康成『雪国』の舞台で癒やされる厳選3宿","item":"https://croud-travel.pages.dev/niigata-echigo-yuzawa-solo-retreat-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

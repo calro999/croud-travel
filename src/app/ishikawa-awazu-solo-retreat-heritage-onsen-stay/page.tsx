@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で加賀の贅沢な海の幸会席と上質な温泉空間を堪能できる宿は？","acceptedAnswer":{"@type":"Answer","text":"「粟津温泉 旅亭懐石 のとや」は創業700年余の伝統を誇り、露天風呂や板前が腕を振るうのどぐろ・加賀会席が一人旅に大人気です。"}},{"@type":"Question","name":"世界屈指の創業年数を誇る歴史旅館で特別な宿泊体験をするなら？","acceptedAnswer":{"@type":"Answer","text":"「粟津温泉 法師」は開湯以来四十六代にわたり受け継がれてきた名門。美しい日本庭園と歴史の重みを感じる木造建築美を一人静かに味わえます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【加賀温泉郷・粟津温泉ひとり旅・開湯1300年最古の湯おこもり】自家掘り純度100%源泉・加賀会席＆のどぐろ・那谷寺の美林！北陸名湯厳選3宿","item":"https://croud-travel.pages.dev/ishikawa-awazu-solo-retreat-heritage-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

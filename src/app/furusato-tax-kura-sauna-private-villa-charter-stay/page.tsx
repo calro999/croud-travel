@@ -86,6 +86,10 @@ export default function FurusatoTaxPage() {
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「黒姫高原 ホテル若月＜長野県＞」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「黒姫高原 ホテル若月＜長野県＞」へは、しなの鉄道北しなの線・黒姫駅からバス 黒姫高原行き 若月前下車徒歩３分／上信越道・信濃町ＩＣから黒姫高原方面約５ｋｍ。最寄りの黒姫駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「黒姫高原 ホテル若月＜長野県＞」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「黒姫高原 ホテル若月＜長野県＞」は『森と清流に恵まれた黒姫高原の宿「ホテル若月」広い敷地内で釣りやBBQも楽しめます♪』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「黒姫高原 ホテル若月＜長野県＞」と「ペンション とも ＜長野県＞」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
         {/* リード文ブロック */}
         <section className="bg-slate-900/80 border border-slate-800 rounded-3xl p-6 md:p-10 shadow-xl relative overflow-hidden">
           <div className="absolute top-0 right-0 w-64 h-64 bg-amber-500/5 rounded-full blur-3xl -z-10" />

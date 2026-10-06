@@ -49,6 +49,14 @@ export default function FurusatoArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「箱根・強羅 佳ら久」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「箱根・強羅 佳ら久」へは、強羅駅より徒歩約3分／箱根湯本駅よりタクシー約20分。最寄りの強羅駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「箱根・強羅 佳ら久」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「箱根・強羅 佳ら久」は『全室温泉露天風呂付◆ミシュランキー獲得 山海の絶景や六感で味わう美食を堪能するラグジュアリ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「箱根・強羅 佳ら久」と「箱根強羅 白檀」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【箱根・強羅温泉×ふるさと納税】全室客室露天風呂付き極上宿特集！記念日・ご褒美おこもり温泉旅館ガイド｜佳ら久・白檀・雪月花","item":"https://croud-travel.pages.dev/furusato-tax-gora-onsen-private-roten-luxury-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

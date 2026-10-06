@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で里山の静寂と極上の自家源泉掛け流し温泉を堪能できる宿は？","acceptedAnswer":{"@type":"Answer","text":"「里山の別邸 下田セントラルホテル」は敷地内湧出の豊富な源泉掛け流しと庭園露天風呂が自慢で楽天口コミ★4.7超。大人のおこもり一人旅に最適です。"}},{"@type":"Question","name":"下田港や相模湾のオーシャンビューと美味しい金目鯛料理を味わうなら？","acceptedAnswer":{"@type":"Answer","text":"「下田温泉 下田ベイクロシオ」は高台から海を見晴らし、楽天口コミ★4.6超。贅沢な金目鯛会席と落ち着いた館内が一人旅に大好評です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【南伊豆・下田温泉ひとり旅・ペリー黒船と白砂ビーチおこもり】自家源泉掛け流し・下田金目鯛づくし・海一望露天風呂！特急サフィール直通の港町厳選3宿","item":"https://croud-travel.pages.dev/shizuoka-shimoda-solo-retreat-ocean-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

@@ -45,6 +45,10 @@ export default function FurusatoNikkoChuzenjiAutumnFoliageStayPage() {
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「日光中禅寺湖温泉 ホテル花庵」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「日光中禅寺湖温泉 ホテル花庵」へは、ＪＲ日光駅又は東武日光駅より中禅寺温泉方面行きバス「中禅寺温泉バス停」下車。最寄りの日光駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「日光中禅寺湖温泉 ホテル花庵」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「日光中禅寺湖温泉 ホテル花庵」は『全２０室の全ての客室から広大な中禅寺湖を眺める事が可能でございます。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「日光中禅寺湖温泉 ホテル花庵」と「日光中禅寺温泉 中禅寺金谷ホテル」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
       {/* パンくずナビ */}
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:text-stone-800 underline">ホーム</Link>

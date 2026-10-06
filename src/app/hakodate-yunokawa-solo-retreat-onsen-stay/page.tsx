@@ -47,6 +47,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"函館空港や函館駅から湯の川温泉へのアクセスは？","acceptedAnswer":{"@type":"Answer","text":"函館空港から湯の川温泉まではタクシーや路線バスで約8〜10分と日本屈指の近さ。函館駅からも市電（函館市電）で約30分で直通アクセス可能です。"}},{"@type":"Question","name":"一人旅で大浴場やビュッフェの評価が特に高いホテルは？","acceptedAnswer":{"@type":"Answer","text":"「ホテル万惣」はレトロモダンな広大な温泉スパ「湯蔵」を完備し、勝手丼や鉄板焼きを楽しめるハイクオリティなビュッフェが一人旅にも大人気です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【函館・湯の川温泉ひとり旅】津軽海峡イカ釣り漁火・名湯掛け流し・海鮮ビュッフェ！歴史薫る北の温泉街おこもり厳選3宿","item":"https://croud-travel.pages.dev/hakodate-yunokawa-solo-retreat-onsen-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

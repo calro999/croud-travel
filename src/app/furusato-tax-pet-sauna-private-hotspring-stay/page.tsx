@@ -42,6 +42,10 @@ export default function Page() {
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 py-12 px-4 sm:px-6 lg:px-8 font-sans">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ペンション歩野慕野」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ペンション歩野慕野」へは、猪苗代駅からお車で約25分。最寄りの猪苗代駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ペンション歩野慕野」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ペンション歩野慕野」は『ペット同伴OK♪ 裏磐梯の自然と大浴場サウナで、家族とペットと”ほのぼの”休日。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ペンション歩野慕野」と「ペンション歩野慕野－ＨＯＮＯＢＯＮＯ ＾」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
       <div className="max-w-5xl mx-auto">
         {/* パンくずリスト */}
         <nav className="text-xs md:text-sm text-stone-500 mb-6 flex items-center gap-2 flex-wrap">

@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で湖を一望するインフィニティ露天風呂とサウナを満喫できる宿は？","acceptedAnswer":{"@type":"Answer","text":"「洞爺湖万世閣ホテルレイクサイドテラス」は最上階の絶景インフィニティ露天風呂「月の湯」「星の湯」やオートロウリュサウナを備え、一人旅に極上のととのいを提供します。"}},{"@type":"Question","name":"湖の目の前で良質な源泉かけ流し温泉を静かに楽しみたいなら？","acceptedAnswer":{"@type":"Answer","text":"「洞爺湖温泉 ホテルグランド トーヤ」は全室レイクビューで自家源泉100%掛け流し。一人旅でも気兼ねなく落ち着いた湯守の湯を堪能できます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【洞爺湖温泉ひとり旅・湖畔絶景おこもり】インフィニティ露天風呂・ロングラン花火・道産牛フレンチ会席！支笏洞爺国立公園厳選3宿","item":"https://croud-travel.pages.dev/hokkaido-toyako-solo-retreat-lakeview-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

@@ -249,6 +249,14 @@ export default function NiigataMatsunoyamaPage() {
 
       {/* Main Content Area */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 space-y-16 mt-6">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"松之山温泉が「日本三大薬湯」と呼ばれる理由や泉質・効能は何ですか？","acceptedAnswer":{"@type":"Answer","text":"松之山温泉は群馬の草津温泉、兵庫の有馬温泉と並び「日本三大薬湯」の一つに数えられます。最大の特徴は、約1200万年前の太古の海水が地層深くに閉じ込められ、地圧とマグマ熱によって自噴する「ジオプレッシャー型化石海水」である点です。泉質はナトリウム・カルシウム-塩化物泉で、基準値の数十倍に達する天然のホウ酸成分と高濃度の塩分を含んでいます。この濃厚な塩分が肌の表面に膜を作り、熱と水分の蒸発を防ぐため、抜群の保温・保湿効果と殺菌力を誇り、切り傷、慢性皮膚病、冷え性、神経痛に劇的な効果があるとされています。"}},{"@type":"Question","name":"11月・12月の十日町・松之山エリアの降雪量や道路状況、アクセス注意点は？","acceptedAnswer":{"@type":"Answer","text":"十日町市松之山は日本有数の特別豪雪地帯です。11月中旬頃に初雪が観測され、12月に入ると急速に積雪が増加し、平野部でも1〜2メートル以上の雪が積もる本格的な豪雪期に入ります。道路には消雪パイプが敷設され除雪体制も整っていますが、峠道や日陰、夜間は圧雪や凍結路面となるため、車で訪れる場合は必ず4WD車に高性能スタッドレスタイヤを装着し、慎重な運転を心がけてください。雪道運転に不安がある方は、北越急行ほくほく線の「まつだい駅」から運行されている東頚バス（路線バス）や、各旅館の送迎バスを利用するのが最も安全で確実です。"}},{"@type":"Question","name":"初冬の十日町・松之山で絶対に訪れるべき観光名所は？","acceptedAnswer":{"@type":"Answer","text":"最も有名なスポットは、樹齢約100年のブナの木が一面に立ち並ぶ「美人林（びじんばやし）」です。11月下旬の晩秋の名残から12月の白銀の雪世界へと移り変わる姿は言葉を失う美しさで、雪の上に落ちる木々の影と澄み渡る空気は写真愛好家にも絶大な人気を誇ります。また、雪に覆われた「星峠の棚田」の幻想的な冬景色や、現代アートの祭典「大地の芸術祭」の越後妻有里山現代美術館 MonET（モネ）など、冬ならではの文化・自然景観が凝縮されています。"}},{"@type":"Question","name":"11月・12月の松之山温泉で味わえるご当地グルメや名産品は？","acceptedAnswer":{"@type":"Answer","text":"新潟県十日町が誇る銘柄豚「妻有（つまり）ポーク」は絶対に外せません。抗生物質を極力使わず清潔な環境で育てられた豚肉は、脂身の融点が低く、口の中で甘く溶けるような芳醇な旨味が特徴で、雪室熟成肉のステーキやしゃぶしゃぶで堪能できます。また、松之山周辺の棚田で収穫される最高峰の「魚沼産コシヒカリ」の新米ご飯、冬が旬の日本海の寒ブリやのどぐろ、松之山特有の薬湯の熱を利用して茹で上げる「湯治豚」や「温泉玉子」、新潟銘酒とのペアリングも格別の楽しみです。"}},{"@type":"Question","name":"東京方面からの電車でのアクセス方法と所要時間は？","acceptedAnswer":{"@type":"Answer","text":"JR東京駅から上越新幹線で「越後湯沢駅」まで約1時間20分。越後湯沢駅で北越急行ほくほく線に乗り換え、「まつだい駅」まで約40分です。まつだい駅からは松之山温泉行きの路線バスで約20〜25分、または宿泊旅館の送迎サービス（要事前予約）を利用してアクセスできます。越後湯沢駅からのトータル所要時間は約2時間30分〜3時間程度と、首都圏からのアクセスも非常に良好です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月松之山温泉】日本三大薬湯の自噴化石海水と！名宿5選","item":"https://croud-travel.pages.dev/winter-niigata-matsunoyama-onsen-yakuto-snow-tsumari-pork-stay"}]}) }}
+      />
 
         {/* Introduction Overview */}
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200 space-y-6">

@@ -71,6 +71,10 @@ export default function Page() {
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「赤穂温泉 絶景露天風呂の宿 銀波荘」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「赤穂温泉 絶景露天風呂の宿 銀波荘」へは、JR山陽本線・播州赤穂駅より路線バス約20分「御崎バス停」より徒歩1分・無料送迎あり／山陽自動車道・赤穂ＩＣより約10分。最寄りの播州赤穂駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「赤穂温泉 絶景露天風呂の宿 銀波荘」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「赤穂温泉 絶景露天風呂の宿 銀波荘」は『ＴＶや雑誌でも多数掲載！海と温泉が一体になって全身を包みこむ体験を堪能できる絶景露天風呂が』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「赤穂温泉 絶景露天風呂の宿 銀波荘」と「赤穂温泉 料理旅館 呑海楼」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
 
         {/* セクション 1 */}
         <section className="bg-stone-900/40 rounded-3xl p-6 sm:p-8 md:p-10 border border-amber-500/20 backdrop-blur-md relative overflow-hidden shadow-2xl">

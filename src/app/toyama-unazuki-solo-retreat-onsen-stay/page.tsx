@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で富山の旬の味覚とプライベートな露天風呂空間を極めるなら？","acceptedAnswer":{"@type":"Answer","text":"「宇奈月温泉 サン柳亭」は全室から峡谷を望み、富山湾の厳選食材を用いた会席料理と上質な温泉空間で一人旅でも極上の安らぎを得られます。"}},{"@type":"Question","name":"サウナや充実のホテルライクなサービスを求める一人旅におすすめは？","acceptedAnswer":{"@type":"Answer","text":"「グランヴィリオホテル宇奈月温泉」はルートイングループのハイグレードリゾート。温泉露天風呂に加え本格サウナや快適な無料ラウンジが一人旅に大好評です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【宇奈月温泉ひとり旅・黒部峡谷秘境おこもり】日本一の透明度・峡谷美露天風呂・富山湾の白えび＆寒鰤！トロッコ電車玄関口の名湯厳選3宿","item":"https://croud-travel.pages.dev/toyama-unazuki-solo-retreat-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

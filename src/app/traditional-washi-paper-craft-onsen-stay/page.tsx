@@ -204,6 +204,10 @@ export default function FeatureDetailPage() {
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「土佐和紙工芸村「くらうど」」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「土佐和紙工芸村「くらうど」」へは、JR伊野駅より北部交通バスで15分、岩村下車すぐ/高知市内より車で30分。最寄りの伊野駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「土佐和紙工芸村「くらうど」」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「土佐和紙工芸村「くらうど」」は『夕食評価4.8 土佐の自然の恵みを、見て、味わって、体験して。仁淀川の隠れ宿。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「土佐和紙工芸村「くらうど」」と「磐梯熱海温泉 萩姫の湯 栄楽館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
           <h2 className="text-xl sm:text-2xl font-bold text-slate-900 flex items-center gap-2">

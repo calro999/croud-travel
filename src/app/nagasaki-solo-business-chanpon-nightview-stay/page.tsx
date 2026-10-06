@@ -48,6 +48,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"長崎空港から長崎駅や市内ホテルへのアクセスはどうですか？","acceptedAnswer":{"@type":"Answer","text":"長崎空港から市内行きリムジンバス（出島道路経由）が運行しており、約40〜45分でJR長崎駅前へ直行できます。"}},{"@type":"Question","name":"市内の路面電車（長崎電気軌道）は交通系ICカードが使えますか？","acceptedAnswer":{"@type":"Answer","text":"はい、SuicaやICOCA、nimocaなど全国の主要交通系ICカードが全線で利用可能で、均一運賃で手軽に移動できます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【長崎出張＆夜景ひとり旅】西九州新幹線直結・天然温泉サウナ・稲佐山ビュー！本場ちゃんぽんを味わう極上宿 厳選3選","item":"https://croud-travel.pages.dev/nagasaki-solo-business-chanpon-nightview-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

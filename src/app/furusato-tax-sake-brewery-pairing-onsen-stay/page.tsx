@@ -86,6 +86,10 @@ export default function FurusatoTaxPage() {
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「エンゼルグランディア越後中里」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「エンゼルグランディア越後中里」へは、車 関越自動車道越後湯沢ICより10分（5km） 新幹線 JR越後湯沢駅西口徒歩2分の案内所から無料送迎バスで約15分。最寄りの越後湯沢駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「エンゼルグランディア越後中里」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「エンゼルグランディア越後中里」は『露天温泉＆プール完備 イベント充実◎子育て応援リゾート！オータムフェスタ9/5（土）～開催』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「エンゼルグランディア越後中里」と「越後湯沢温泉 湯沢グランドホテル＜新潟県＞」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
         {/* リード文ブロック */}
         <section className="bg-slate-900/80 border border-slate-800 rounded-3xl p-6 md:p-10 shadow-xl relative overflow-hidden">
           <div className="absolute top-0 right-0 w-64 h-64 bg-amber-500/5 rounded-full blur-3xl -z-10" />

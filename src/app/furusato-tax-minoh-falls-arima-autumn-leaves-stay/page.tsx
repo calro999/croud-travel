@@ -45,6 +45,10 @@ export default function FurusatoMinohFallsArimaAutumnLeavesStayPage() {
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「有馬温泉 欽山」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「有馬温泉 欽山」へは、神戸電鉄「有馬温泉駅」より徒歩５分・山陽新幹線「新神戸駅」よりバスにて約30分・大阪（梅田）より高速バスにて約55分。最寄りの有馬温泉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「有馬温泉 欽山」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「有馬温泉 欽山」は『幾千年、伝えゆきたい日本の風雅。風情薫る欽山で雅な休日をお過ごしください。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「有馬温泉 欽山」と「神戸牛と有馬温泉 天然金泉・銀泉の宿 有馬御苑」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
       {/* パンくずナビ */}
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:text-stone-800 underline">ホーム</Link>

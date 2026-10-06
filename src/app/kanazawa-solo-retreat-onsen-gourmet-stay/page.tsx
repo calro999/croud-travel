@@ -48,6 +48,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"金沢市内観光はバスと徒歩どちらが便利ですか？","acceptedAnswer":{"@type":"Answer","text":"主要な観光名所（兼六園、21世紀美術館、近江町市場、ひがし茶屋街）は中心部から半径約2km圏内にあり、徒歩や「城下まち金沢周遊バス（1日乗車券あり）」でとても効率よく回れます。"}},{"@type":"Question","name":"雨や雪が多いと聞きますが対策はどうすればいいですか？","acceptedAnswer":{"@type":"Answer","text":"「弁当忘れても傘忘れるな」と言われる金沢ですが、主要ホテルでは傘の無料貸出を行っており、金沢駅前や主要通りにはアーケードや地下道が整備されています。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【金沢ひとり旅・美食おこもり】近江町市場徒歩すぐ・最上階天然温泉・のどぐろ会席！加賀百万石の極上ステイ 厳選3選","item":"https://croud-travel.pages.dev/kanazawa-solo-retreat-onsen-gourmet-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

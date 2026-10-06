@@ -183,6 +183,10 @@ export default function Page() {
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「あわかん～釣りと家族の体験型旅館～」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「あわかん～釣りと家族の体験型旅館～」へは、全室Wi-Fi無料 お車 洲本I.C.下りて約15分 高速バス ＪＲ三宮、新神戸より洲本BCまで約９０分。最寄りの洲本駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「あわかん～釣りと家族の体験型旅館～」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「あわかん～釣りと家族の体験型旅館～」は『お子様支持率NO1の理由はお子様は王様なのだ！あわかん～釣りと家族の体験型旅館～』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「あわかん～釣りと家族の体験型旅館～」と「エースイン刈谷」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
         
         {/* 特集の魅力セクション */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80">

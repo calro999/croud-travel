@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で誰にも気兼ねなく仙石原のにごり湯と客室露天風呂を楽しめる宿は？","acceptedAnswer":{"@type":"Answer","text":"「センチュリオン箱根別邸」は全室露天風呂付き。大涌谷源泉の濃厚な白濁湯をプライベート空間で24時間いつでも堪能できます。"}},{"@type":"Question","name":"仙石原ススキ草原のベストシーズンと混雑回避法は？","acceptedAnswer":{"@type":"Answer","text":"10月中旬から11月上旬が最も黄金色に輝く見頃です。日中は観光客で賑わうため、宿泊翌日の朝一番（8〜9時頃）の散策が静かでおすすめです。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【10月・11月秋の箱根仙石原ひとり旅・黄金色ススキ草原と白濁硫黄泉おこもり】全室露天風呂・北海道×箱根の極上和懐石！秋深まる高原リトリート厳選3宿","item":"https://croud-travel.pages.dev/kanagawa-hakone-sengokuhara-autumn-solo-retreat-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

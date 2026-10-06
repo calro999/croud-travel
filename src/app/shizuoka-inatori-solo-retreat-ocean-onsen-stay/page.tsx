@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で海と一体になれるインフィニティ絶景露天風呂とサウナを満喫できる宿は？","acceptedAnswer":{"@type":"Answer","text":"「海一望絶景の宿 いなとり荘」は最上階展望露天風呂や絶景サウナを備え、楽天口コミ★4.5超。水平線を眺めながらととのう至福の一人旅が叶います。"}},{"@type":"Question","name":"一人旅で稲取名物の金目鯛料理を心ゆくまで満喫したいなら？","acceptedAnswer":{"@type":"Answer","text":"「絶景温泉と魚介満腹の宿 稲取東海ホテル湯苑」は全室オーシャンフロントで、自慢の金目鯛姿煮とお造りを一人旅でも贅沢に味わえます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【東伊豆・稲取温泉ひとり旅・太平洋インフィニティ絶景おこもり】波打ち際露天風呂・金目鯛煮付け発祥の地・雛のつるし飾り！伊豆急直通の海リトリート厳選3宿","item":"https://croud-travel.pages.dev/shizuoka-inatori-solo-retreat-ocean-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

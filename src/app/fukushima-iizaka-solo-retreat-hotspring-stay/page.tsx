@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で自家源泉掛け流しの上質な温泉と料理を味わえる飯坂の宿は？","acceptedAnswer":{"@type":"Answer","text":"「飯坂温泉 松島屋 桃香」は楽天口コミ★4.6。源泉100%掛け流しの湯と板前が丹精込めた月替わり会席が一人旅の宿泊者から高く評価されています。"}},{"@type":"Question","name":"摺上川のせせらぎを聞きながら落ち着いた純和風の滞在をするなら？","acceptedAnswer":{"@type":"Answer","text":"「飯坂温泉 つたや旅館」は川沿いに位置し、楽天口コミ★4.4超。親身なサービスと美味しい家庭料理で一人旅でも心温まる時間を過ごせます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【奥州三名湯・飯坂温泉ひとり旅・摺上川渓谷あつ湯おこもり】松尾芭蕉ゆかりの古湯・摺上川のせせらぎ・円盤餃子＆福島地酒！福島交通飯坂線直通厳選3宿","item":"https://croud-travel.pages.dev/fukushima-iizaka-solo-retreat-hotspring-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

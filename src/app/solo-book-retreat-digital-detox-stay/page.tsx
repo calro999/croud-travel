@@ -48,6 +48,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人で歴史ある高級旅館に泊まっても居心地は悪くありませんか？","acceptedAnswer":{"@type":"Answer","text":"西村屋本館や上野屋などの老舗宿は、もともと文豪たちがひとりで長期滞在して執筆を行っていた歴史があるため、ひとり客への気配りと適度な距離感が非常に洗練されています。安心して宿泊できます。"}},{"@type":"Question","name":"館内Wi-Fiは使えますか？","acceptedAnswer":{"@type":"Answer","text":"ご紹介した宿はいずれも現代的な高速Wi-Fiを完備しています。完全に通信を遮断するだけでなく、「調べ物だけネットを使い、SNSは見ない」といった柔軟な読書滞在が可能です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【読書・デジタルデトックス泊】本の世界に没頭するライブラリーホテル＆文豪ゆかりの名湯おこもり宿 厳選3選","item":"https://croud-travel.pages.dev/solo-book-retreat-digital-detox-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

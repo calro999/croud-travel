@@ -92,6 +92,10 @@ export default function FeatureArticlePage() {
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「伊賀のかくれ宿 赤目温泉隠れの湯 対泉閣」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「伊賀のかくれ宿 赤目温泉隠れの湯 対泉閣」へは、近鉄「赤目口」まで無料送迎バス。最寄りの赤目口駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「伊賀のかくれ宿 赤目温泉隠れの湯 対泉閣」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「伊賀のかくれ宿 赤目温泉隠れの湯 対泉閣」は『美と静寂を楽しむ 赤目四十八滝！★森のリゾートリニューアル☆絶品伊賀牛と美食と温泉☆』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「伊賀のかくれ宿 赤目温泉隠れの湯 対泉閣」と「赤目温泉 山の湯 湯元赤目 山水園」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
       {/* パンくずナビ */}
       <nav className="max-w-6xl mx-auto px-4 py-4 text-xs md:text-sm text-stone-600 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:underline text-stone-500">トップ</Link>

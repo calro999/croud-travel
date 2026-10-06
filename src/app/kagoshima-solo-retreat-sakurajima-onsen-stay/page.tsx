@@ -48,6 +48,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"鹿児島空港から市内中心部まではどうやって行きますか？","acceptedAnswer":{"@type":"Answer","text":"鹿児島空港から市内行きリムジンバスが頻発しており、鹿児島中央駅や天文館まで約40〜50分で直行できます。"}},{"@type":"Question","name":"桜島の火山灰が降ってきた時の注意点はありますか？","acceptedAnswer":{"@type":"Answer","text":"降灰時はコンタクトレンズより眼鏡の着用が推奨されます。ホテルでは傘の貸出を行っており、市街地では衣服を軽く払うだけで問題なく観光できます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【鹿児島ひとり旅＆出張】錦江湾に浮かぶ桜島一望・展望露天温泉・黒豚しゃぶしゃぶ！南国の雄大な自然に抱かれる極上宿 厳選3選","item":"https://croud-travel.pages.dev/kagoshima-solo-retreat-sakurajima-onsen-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

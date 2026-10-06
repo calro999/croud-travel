@@ -157,6 +157,10 @@ export default function UsjTripPackingRegretsWorst5Page() {
 
   return (
     <main className="min-h-screen bg-[#f5f7ff] text-slate-800 antialiased pb-20">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「エクスプレスパスなしで大絶望！？ニンテンドー入場整理券＆必須持ち物」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。"}}]}) }}
+      />
       {/* ヒーローヘッダー */}
       <header className="relative bg-gradient-to-b from-indigo-950 via-indigo-900 to-slate-900 text-white pt-16 pb-24 px-4 overflow-hidden">
         <div className="absolute inset-0 opacity-10 bg-[radial-gradient(#6366f1_1px,transparent_1px)] [background-size:16px_16px]" />

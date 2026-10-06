@@ -48,6 +48,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"サウナ愛好家が絶対に泊まるべき帯広のホテルはどこですか？","acceptedAnswer":{"@type":"Answer","text":"「森のスパリゾート 北海道ホテル」は本格フィンランドサウナ、モール温泉でのロウリュ（モーリュ・ウォーリュ）、清流札内川の伏流水風呂を備え、全国のサウナーから聖地と讃えられています。"}},{"@type":"Question","name":"帯広駅前でモール温泉大浴場と夜鳴きそばがあるホテルは？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉 白樺の湯 ドーミーイン帯広」は植物性モール温泉大浴場と高温サウナを完備。夜の無料夜鳴きそばも楽しめます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【帯広・十勝サウナ出張】日本屈指の十勝サウナ＆美肌モール温泉・極上十勝豚丼！サウナーの聖地でととのう厳選3宿","item":"https://croud-travel.pages.dev/obihiro-tokachi-solo-sauna-pork-bowl-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

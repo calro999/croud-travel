@@ -134,6 +134,10 @@ export default function SilverWeekGlampingSetouchiPage() {
     <div className="min-h-screen bg-amber-950/5 text-slate-800 space-y-12 pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【瀬戸内・中四国シルバーウィーク グランピング】しまなみ海道の多島美＆オリーブ牛BBQ ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/silver-week-glamping-chugoku-shikoku-setouchi-guide"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

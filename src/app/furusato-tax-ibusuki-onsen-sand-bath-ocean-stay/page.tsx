@@ -49,6 +49,14 @@ export default function FurusatoArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「鹿児島 砂むし温泉 指宿白水館」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「鹿児島 砂むし温泉 指宿白水館」へは、ＪＲ指宿駅下車、タクシー７分、無料送迎バスあり。最寄りの指宿駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「鹿児島 砂むし温泉 指宿白水館」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「鹿児島 砂むし温泉 指宿白水館」は『地元食材の郷土料理と指宿温泉美肌の湯、砂むし風呂と岩盤浴で贅沢にデトックス！指宿駅まで無料』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「鹿児島 砂むし温泉 指宿白水館」と「指宿温泉 指宿ロイヤルホテル ～すべての女性へ美と健康を楽しむホテル～」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【指宿温泉×ふるさと納税】名物天然砂むし温泉＆錦江湾オーシャンビュー！絶景リゾート宿特集｜白水館・指宿ロイヤル・シーサイドホテル","item":"https://croud-travel.pages.dev/furusato-tax-ibusuki-onsen-sand-bath-ocean-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

@@ -49,6 +49,14 @@ export default function FurusatoArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「名古屋マリオットアソシアホテル」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「名古屋マリオットアソシアホテル」へは、新幹線到着⇒名古屋駅直結★フロント15階 または、中部国際空港⇒名鉄特急約30分⇒名古屋駅直結★フロント15階。最寄りの名古屋駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「名古屋マリオットアソシアホテル」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「名古屋マリオットアソシアホテル」は『かつてない上質のくつろぎと、世界のおもてなしを、あなたに・・・。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「名古屋マリオットアソシアホテル」と「名古屋観光ホテル」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【名古屋×ふるさと納税】駅直結スカイビュー＆最新ラグジュアリー！ひつまぶし・名古屋コーチン美食特集｜マリオット・TIAD・名古屋観光ホテル","item":"https://croud-travel.pages.dev/furusato-tax-nagoya-luxury-gourmet-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

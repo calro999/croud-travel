@@ -48,6 +48,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"熱海駅周辺で一人でも落ち着いて宿泊できる老舗旅館は？","acceptedAnswer":{"@type":"Answer","text":"「熱海温泉 古屋旅館」は一人旅プランも提供されており、伝統の数寄屋造りと室内食で極上のプライベート滞在を満喫できます。"}},{"@type":"Question","name":"オーシャンビューの露天風呂を満喫したいならどこ？","acceptedAnswer":{"@type":"Answer","text":"「熱海温泉 熱海後楽園ホテル」は相模灘を一望できる展望露天風呂や複合型リゾート施設「Fuua」を併設しており、絶景温泉体験に最適です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【熱海ひとり旅・海望おこもり】相模湾インフィニティ露天・創業200余年の老舗名湯・贅沢海の幸！都心から45分の極上温泉宿 厳選3選","item":"https://croud-travel.pages.dev/atami-solo-retreat-ocean-onsen-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

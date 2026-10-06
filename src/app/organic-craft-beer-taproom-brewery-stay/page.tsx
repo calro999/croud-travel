@@ -204,6 +204,10 @@ export default function FeatureDetailPage() {
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「湯河原温泉 青巒荘」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「湯河原温泉 青巒荘」へは、ＪＲ湯河原駅より奥湯河原行きバスで20分奥湯河原入口下車・車で8分／東名厚木ＩＣより小田原厚木・135号線経由で約60分。最寄りの湯河原駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「湯河原温泉 青巒荘」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「湯河原温泉 青巒荘」は『奥湯河原の自然に囲まれ、滝の直下にある仙境野天風呂が自慢の宿。館内オールインクルーシブで飲』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「湯河原温泉 青巒荘」と「湯の沢温泉 時の宿すみれ」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
           <h2 className="text-xl sm:text-2xl font-bold text-slate-900 flex items-center gap-2">

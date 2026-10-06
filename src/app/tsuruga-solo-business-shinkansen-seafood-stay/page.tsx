@@ -48,6 +48,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"敦賀駅前で最も新しく新幹線利用に便利なホテルはどこ？","acceptedAnswer":{"@type":"Answer","text":"「ホテルグランビナリオＴＳＵＲＵＧＡ」はJR敦賀駅西口直結（徒歩約1分）。駅前複合施設「otta」に隣接し、広々としたデスクと上質な客室を備えています。"}},{"@type":"Question","name":"大浴場とサウナで仕事の疲れをリセットしたいなら？","acceptedAnswer":{"@type":"Answer","text":"「敦賀マンテンホテル駅前」はJR敦賀駅徒歩約1分。大浴場（男性サウナ・水風呂付き）を完備し、出張ビジネスパーソンから高い支持を得ています。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【敦賀出張・北陸新幹線ひとり旅】新幹線始発駅直結・名物敦賀真鯛＆越前ガニ・気比神宮大鳥居！日本海ハブ拠点でととのう厳選3宿","item":"https://croud-travel.pages.dev/tsuruga-solo-business-shinkansen-seafood-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

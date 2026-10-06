@@ -47,6 +47,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"博多駅近くで天然温泉大浴場が最も広くて快適なホテルは？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉 八百治の湯 八百治博多ホテル」は博多駅から徒歩約5分。地下1,250mから湧出する豊富な湯量を誇る広々とした天然温泉大浴場とサウナを完備しています。"}},{"@type":"Question","name":"中洲の歓楽街にも近く、サウナと夜食サービスが充実している宿は？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉 御笠の湯 ドーミーイン博多祇園」は地下鉄祇園駅すぐ、中洲へも徒歩圏内。自家源泉の天然温泉大浴場、高温サウナ、名物夜鳴きそばが無料で楽しめます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【福岡博多出張・天然温泉サウナ】博多駅直結・自家源泉の湯・中洲屋台＆もつ鍋！九州の美食とビジネスターミナルを極める厳選3宿","item":"https://croud-travel.pages.dev/fukuoka-hakata-solo-business-onsen-sauna-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

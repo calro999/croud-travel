@@ -48,6 +48,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"富良野駅前で天然温泉大浴場とサウナがあるホテルは？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉 紫雲の湯 ラビスタ富良野ヒルズ」はJR富良野駅から徒歩約3分。最上階に天然温泉大浴場と露天風呂、高温サウナを完備し、無料の夜鳴きそばも楽しめます。"}},{"@type":"Question","name":"森の中で静かに過ごしたい大人のおこもりにおすすめは？","acceptedAnswer":{"@type":"Answer","text":"「新富良野プリンスホテル」は豊かな自然林に囲まれ、「ニングルテラス」やカフェ「森の時計」、富良野温泉「紫彩の湯」を備えた本格リゾートです。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【富良野・美瑛ひとり旅・絶景おこもり】十勝岳パノラマ・天然温泉紫雲の湯・富良野オムカレー！北の大自然に抱かれる厳選3宿","item":"https://croud-travel.pages.dev/furano-biei-solo-retreat-nature-onsen-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

@@ -186,6 +186,10 @@ export default function Page() {
 
       {/* メインコンテンツ */}
       <main className="max-w-4xl mx-auto px-4 py-8 space-y-10">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【2026年】昭和ノスタルジーと古き良き湯治文化！レトロタイル風呂と木造建築の秘湯宿5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/retro-showa-nostalgic-hotspring-inn-stay"}]}) }}
+      />
         
         {/* クーポンバナー */}
         <SpecialCouponBanner />

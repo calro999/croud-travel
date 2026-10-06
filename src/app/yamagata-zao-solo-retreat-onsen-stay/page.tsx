@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で森の静けさと露天風呂を贅沢に楽しめる宿は？","acceptedAnswer":{"@type":"Answer","text":"「蔵王温泉 堺屋森のホテルヴァルトベルク」は静寂の森に囲まれ、丸太造りの露天風呂や豊かな自然を満喫できる一人旅に大人気の宿です。"}},{"@type":"Question","name":"気軽に一人で連泊・テレワークもできる源泉宿は？","acceptedAnswer":{"@type":"Answer","text":"「蔵王温泉 BED&apos;n ONSEN HAMMOND」はカジュアルかつ快適な滞在を提供し、自慢の白濁天然温泉を心ゆくまで堪能できます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【蔵王温泉ひとり旅・強酸性美肌の湯おこもり】大露天風呂・樹氷パノラマ・山形牛すき焼き！白濁硫黄泉に包まれる高原ソロリトリート厳選3宿","item":"https://croud-travel.pages.dev/yamagata-zao-solo-retreat-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

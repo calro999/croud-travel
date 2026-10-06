@@ -204,6 +204,10 @@ export default function FeatureDetailPage() {
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「軽井沢森四季ＶＩＬＬＡ」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「軽井沢森四季ＶＩＬＬＡ」へは、星野温泉・ハルニレテラスまで1km徒歩圏、中軽井沢駅から車で約３分（２．６ｋｍ）。最寄りの中軽井沢駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「軽井沢森四季ＶＩＬＬＡ」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「軽井沢森四季ＶＩＬＬＡ」は『軽井沢の森に佇む上質な一棟貸し別荘。 苔庭でBBQや焚き火、炭火料理と24時間対応の安心滞』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「軽井沢森四季ＶＩＬＬＡ」では季節ごとに異なる宿泊プランや料理プランが用意されています。ご旅行の人数や滞在スタイルに合わせて最適なプランをお選びいただけます。"}}]}) }}
+      />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
           <h2 className="text-xl sm:text-2xl font-bold text-slate-900 flex items-center gap-2">

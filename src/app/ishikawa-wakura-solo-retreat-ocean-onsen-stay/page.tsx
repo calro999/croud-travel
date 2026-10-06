@@ -62,6 +62,14 @@ export default function ArticlePage() {
       </nav>
 
       <main className="max-w-4xl mx-auto px-4 py-8 sm:py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"一人旅で七尾湾のオーシャンビューと絶景露天風呂を堪能できる和倉の宿は？","acceptedAnswer":{"@type":"Answer","text":"「和倉温泉 ホテル海望」は七尾湾が目の前に広がる抜群のロケーション。波音を聞きながら浸かる露天風呂と能登の味覚会席が一人旅に大人気です。"}},{"@type":"Question","name":"一人旅で能登の新鮮な海の幸をじっくり味わえる料理自慢の宿は？","acceptedAnswer":{"@type":"Answer","text":"「和倉温泉 味な宿 宝仙閣」は七尾港直送の地魚料理と温かい家庭的なもてなしが評判で、一人旅でも落ち着いて宿泊できます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【能登・和倉温泉ひとり旅・七尾湾オーシャンフロントおこもり】開湯1200年塩化物泉・能登前寿司＆能登牛・復興応援ステイ！海の温泉郷厳選3宿","item":"https://croud-travel.pages.dev/ishikawa-wakura-solo-retreat-ocean-onsen-stay"}]}) }}
+      />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">

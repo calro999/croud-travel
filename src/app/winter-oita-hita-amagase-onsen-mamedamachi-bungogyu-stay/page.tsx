@@ -380,6 +380,10 @@ export default function OitaHitaAmagaseWinterPage() {
 
       {/* Main Content Container */}
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月日田温泉＆天瀬温泉】水郷ひたの初冬川霧と天領豆田！名宿5選","item":"https://croud-travel.pages.dev/winter-oita-hita-amagase-onsen-mamedamachi-bungogyu-stay"}]}) }}
+      />
 
         {/* Introduction Section */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-xs border border-stone-200 space-y-4">

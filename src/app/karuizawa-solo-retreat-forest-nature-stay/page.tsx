@@ -48,6 +48,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"軽井沢駅近くで一人でも天然温泉に入れるおすすめ宿は？","acceptedAnswer":{"@type":"Answer","text":"「軽井沢プリンスホテル イースト」は軽井沢駅南口から徒歩約10分（無料ピックアップバスあり）。宿泊者専用の天然温泉「FOREST HOT-SPRING」とスチームサウナを完備しています。"}},{"@type":"Question","name":"静かな自然の中で贅沢なおこもり滞在がしたいならどこ？","acceptedAnswer":{"@type":"Answer","text":"「ルグラン軽井沢ホテル＆リゾート」は南軽井沢の広大な敷地に佇み、標高1,000mの展望露天風呂やミシュラン星付きシェフ監修のフレンチが堪能できます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【軽井沢ひとり旅・森林リトリート】浅間山ビュー・天然温泉＆スパ・洗練リゾートステイ！都心から1時間の高原おこもり厳選3宿","item":"https://croud-travel.pages.dev/karuizawa-solo-retreat-forest-nature-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

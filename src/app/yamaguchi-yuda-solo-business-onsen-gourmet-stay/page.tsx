@@ -48,6 +48,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"湯田温泉で一人でも贅沢な天然温泉大浴場に入れる宿は？","acceptedAnswer":{"@type":"Answer","text":"「湯田温泉 ユウベルホテル松政」は100%源泉かけ流しの露天風呂「千人湯」を完備。一人旅・ビジネス利用にも柔軟に対応しています。"}},{"@type":"Question","name":"完全プライベートな客室露天風呂で最高のおこもりをしたいなら？","acceptedAnswer":{"@type":"Answer","text":"「やまぐち・湯田温泉 古稀庵」は全室に源泉かけ流しの露天風呂とテラスを備え、緑豊かな庭園を望みながら誰にも邪魔されない至高の時間を過ごせます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【山口・湯田温泉出張】白狐伝説の名湯・露天風呂サウナ・本場とらふく会席！県都ビジネスを豊かにととのえる厳選3宿","item":"https://croud-travel.pages.dev/yamaguchi-yuda-solo-business-onsen-gourmet-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

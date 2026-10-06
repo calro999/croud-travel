@@ -49,6 +49,14 @@ export default function FurusatoArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ヒルトン大阪」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ヒルトン大阪」へは、JR大阪駅下車徒歩2分、阪神大阪梅田駅下車徒歩1分、大阪空港よりリムジンバスでホテル前まで25分。最寄りの大阪駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ヒルトン大阪」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ヒルトン大阪」は『JR「大阪駅」より徒歩2分★直結だから雨でも安心 大阪、京都などの観光にもビジネスにも最適』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ヒルトン大阪」では季節ごとに異なる宿泊プランや料理プランが用意されています。ご旅行の人数や滞在スタイルに合わせて最適なプランをお選びいただけます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【大阪・梅田×ふるさと納税】JR大阪駅直結＆地上摩天楼夜景！天下の台所美食特集｜リッツカールトン大阪・インターコンチネンタル・ヒルトン","item":"https://croud-travel.pages.dev/furusato-tax-osaka-umeda-luxury-skyview-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

@@ -49,6 +49,14 @@ export default function FurusatoArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「鎌倉プリンスホテル」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「鎌倉プリンスホテル」へは、江ノ島電鉄七里ヶ浜駅～徒歩約8分。最寄りの七里ヶ浜駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「鎌倉プリンスホテル」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「鎌倉プリンスホテル」は『相模湾を望む、七里ヶ浜の丘に建つホテル。すべてのお部屋から相模湾の風景が望めます。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「鎌倉プリンスホテル」と「ホテルメトロポリタン鎌倉」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【鎌倉・湘南×ふるさと納税】七里ヶ浜オーシャンビュー＆古都の歴史情緒！鶴岡八幡宮・江ノ電の名宿特集｜鎌倉プリンス・HOTEL AO・メトロポリタン","item":"https://croud-travel.pages.dev/furusato-tax-kamakura-shonan-ocean-history-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

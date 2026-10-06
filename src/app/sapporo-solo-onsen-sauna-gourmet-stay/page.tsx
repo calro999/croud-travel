@@ -48,6 +48,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ＯＮＳＥＮ ＲＹＯＫＡＮ 由縁 札幌」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ＯＮＳＥＮ ＲＹＯＫＡＮ 由縁 札幌」へは、JR札幌駅・地下鉄さっぽろ駅から徒歩約13分／地下鉄大通駅から徒歩約8分。最寄りのさっぽろ駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ＯＮＳＥＮ ＲＹＯＫＡＮ 由縁 札幌」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ＯＮＳＥＮ ＲＹＯＫＡＮ 由縁 札幌」は『2020年8月開業 札幌都心で天然温泉が楽しめる、露天風呂付温泉ホテル旅館。大通駅から徒歩』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ＯＮＳＥＮ ＲＹＯＫＡＮ 由縁 札幌」では季節ごとに異なる宿泊プランや料理プランが用意されています。ご旅行の人数や滞在スタイルに合わせて最適なプランをお選びいただけます。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【札幌ひとり旅・ご褒美泊】登別カルルス温泉直送・本格ロウリュサウナ・シメパフェ巡り！大人のリフレッシュ宿 厳選3選","item":"https://croud-travel.pages.dev/sapporo-solo-onsen-sauna-gourmet-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

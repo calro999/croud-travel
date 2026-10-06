@@ -92,6 +92,10 @@ export default function FeatureArticlePage() {
 
   return (
     <main className="min-h-screen bg-stone-100/60 text-stone-900 pb-20">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「高野山別格本山 宿坊 西門院」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「高野山別格本山 宿坊 西門院」へは、南海高野山駅より「奥の院」行きバスで１３分。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「高野山別格本山 宿坊 西門院」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「高野山別格本山 宿坊 西門院」は『高野山街の中央.お買い物や各所観光に便利な宿坊。手作りごま豆腐と伝統の「精進料理」は好評で』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「高野山別格本山 宿坊 西門院」と「高野山 宿坊 無量光院」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
       {/* パンくずナビ */}
       <nav className="max-w-6xl mx-auto px-4 py-4 text-xs md:text-sm text-stone-600 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:underline text-stone-500">トップ</Link>

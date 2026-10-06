@@ -180,6 +180,10 @@ export default function Page() {
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「北陸 あわら温泉 まつや千千」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「北陸 あわら温泉 まつや千千」へは、■車：金津ＩＣより15分 ■ＪＲ：芦原温泉駅より送迎有（約10分）14時～18時（事前要予約）。詳しい送迎情報や道順は楽天トラベルの最新宿情報をご確認ください。"}},{"@type":"Question","name":"「北陸 あわら温泉 まつや千千」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「北陸 あわら温泉 まつや千千」は『源泉大浴場・大露天風呂「千のこぼれ湯」北陸最大級スケール♪日本の宿の贅沢は、お風呂から始ま』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「北陸 あわら温泉 まつや千千」と「山中温泉 吉祥やまなか」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
         
         {/* 特集の魅力セクション */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80">

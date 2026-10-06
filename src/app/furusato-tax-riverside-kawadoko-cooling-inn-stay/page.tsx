@@ -86,6 +86,10 @@ export default function FurusatoTaxPage() {
 
       {/* メインコンテンツ */}
       <main className="max-w-5xl mx-auto px-4 py-12 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「京都“元祖川床”発祥の老舗料理旅館 貴船ふじや」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「京都“元祖川床”発祥の老舗料理旅館 貴船ふじや」へは、叡山電車鞍馬線 貴船口駅より徒歩２０分（送迎有り・事前予約不要。最寄りの貴船口駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「京都“元祖川床”発祥の老舗料理旅館 貴船ふじや」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「京都“元祖川床”発祥の老舗料理旅館 貴船ふじや」は『貴船・川床の元祖 創業天保年間 貴船神社門前に佇み、洛北の四季を盛り込んだ川魚生簀料理が自』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「京都“元祖川床”発祥の老舗料理旅館 貴船ふじや」と「料理旅館 ひろ文」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
+      />
         {/* リード文ブロック */}
         <section className="bg-slate-900/80 border border-slate-800 rounded-3xl p-6 md:p-10 shadow-xl relative overflow-hidden">
           <div className="absolute top-0 right-0 w-64 h-64 bg-amber-500/5 rounded-full blur-3xl -z-10" />

@@ -47,6 +47,14 @@ export default function ArticlePage() {
     <main className="min-h-screen bg-stone-50 text-stone-800 antialiased font-sans pb-20">
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"盛岡市中心街で天然温泉大浴場とサウナがあるホテルは？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉 さんさの湯 ドーミーイン盛岡」は繁華街・中央通に面し、最上階の天然温泉大浴場、高温サウナ、名物夜鳴きそばが完備されています。"}},{"@type":"Question","name":"盛岡駅前でリーズナブルに天然温泉に入れるビジネスホテルは？","acceptedAnswer":{"@type":"Answer","text":"「天然温泉 りんどうの湯 スーパーホテル盛岡」は盛岡駅前徒歩圏内。男女別天然温泉大浴場と健康朝食バイキングが無料で付いておりコスパ抜群です。"}}]}) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【盛岡出張・天然温泉ステイ】東北新幹線・天然温泉さんさの湯・三大麺グルメ！北東北の文化拠点に泊まる厳選3宿","item":"https://croud-travel.pages.dev/morioka-station-solo-business-onsen-sauna-stay"}]}) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 
