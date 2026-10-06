@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月修善寺温泉の遅咲き紅葉と竹林】伊豆の小京都で桂川の静寂と伊豆牛会席を堪能する極上湯宿5選",
     description: "日本で最も遅い11月中旬から12月上旬にかけて見頃を迎える伊豆最古の名湯・修善寺温泉の紅葉。桂川のせせらぎに寄り添う「竹林の小径」と朱塗りの橋、弘法大師ゆかりの独鈷の湯。天城の清流が育む本生わさびと芳醇な伊豆牛ステーキ、駿河湾の冬魚を味わう静寂の初冬ステイ。",
-    url: 'https://croud-travel.com/winter-shizuoka-shuzenji-late-momiji-bamboo-stay',
+    url: 'https://croud-travel.pages.dev/winter-shizuoka-shuzenji-late-momiji-bamboo-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -44,7 +44,7 @@ export default function ShuzenjiWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-shizuoka-shuzenji-late-momiji-bamboo-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-shizuoka-shuzenji-late-momiji-bamboo-stay#article",
         "headline": "【11・12月修善寺温泉の遅咲き紅葉と竹林】伊豆の小京都で桂川の静寂と伊豆牛会席を堪能する極上湯宿5選",
         "description": "日本で最も遅い11月中旬から12月上旬にかけて見頃を迎える伊豆最古の名湯・修善寺温泉の紅葉。桂川のせせらぎに寄り添う「竹林の小径」と朱塗りの橋、弘法大師ゆかりの独鈷の湯。天城の清流が育む本生わさびと芳醇な伊豆牛ステーキ、駿河湾の冬魚を味わう静寂の初冬ステイ。",
         "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80",
@@ -53,24 +53,24 @@ export default function ShuzenjiWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-shizuoka-shuzenji-late-momiji-bamboo-stay"
+          "@id": "https://croud-travel.pages.dev/winter-shizuoka-shuzenji-late-momiji-bamboo-stay"
         }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-shizuoka-shuzenji-late-momiji-bamboo-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-shizuoka-shuzenji-late-momiji-bamboo-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -108,7 +108,7 @@ export default function ShuzenjiWinterPage() {
       },
       {
         "@type": "ItemList",
-        "@id": "https://croud-travel.com/winter-shizuoka-shuzenji-late-momiji-bamboo-stay#hotels",
+        "@id": "https://croud-travel.pages.dev/winter-shizuoka-shuzenji-late-momiji-bamboo-stay#hotels",
         "itemListElement": [
           {
             "@type": "ListItem",

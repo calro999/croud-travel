@@ -9,12 +9,12 @@ export const metadata: Metadata = {
   description: "秋のユニバーサル・スタジオ・ジャパン（USJ）が究極の熱狂と興奮に包まれる「ハロウィーン・イベント」。日中は「ハハハ！ ハロウィーン・パーティ」でDJピカチュウやゲンガー、ミニオンたちと全身全霊で踊り狂い、夜はパークが一変して恐怖の底に突き落とされる「ハロウィーン・ホラー・ナイト」が開幕！大量の凶悪ゾンビが徘徊する「ストリート・ゾンビ」や、Adoの楽曲に合わせてゾンビと群衆が狂乱する「ゾンビ・デ・ダンス」、恐怖のホラー・メイズ＆バイオハザード体験。パーク徒歩数分の感動立地を誇るオフィシャルホテル＆展望天然温泉付き厳選名宿5選を徹底特集。",
   keywords: 'USJ ハロウィン, ハロウィーンホラーナイト 2026, ストリートゾンビ, ゾンビデダンス Ado, ザ パーク フロント ホテル, ホテル近鉄ユニバーサルシティ, ホテル京阪 ユニバーサルタワー, リーベルホテル大阪, USJ ホテル オフィシャル',
   alternates: {
-    canonical: 'https://croud-travel.com/autumn-usj-halloween-horror-nights-osaka-bay-hotels-stay'
+    canonical: 'https://croud-travel.pages.dev/autumn-usj-halloween-horror-nights-osaka-bay-hotels-stay'
   },
   openGraph: {
     title: "【秋のUSJハロウィーン2026】絶叫の「ハロウィーン・ホラー・ナイト」＆ストリート・ゾンビ！昼はポケモン・夜はゾンビデダンス＆パーク直結オフィシャル厳選名宿5選",
     description: "秋のユニバーサル・スタジオ・ジャパン（USJ）が究極の熱狂と興奮に包まれる「ハロウィーン・イベント」。日中は「ハハハ！ ハロウィーン・パーティ」でDJピカチュウやゲンガー、ミニオンたちと全身全霊で踊り狂い、夜はパークが一変して恐怖の底に突き落とされる「ハロウィーン・ホラー・ナイト」が開幕！大量の凶悪ゾンビが徘徊する「ストリート・ゾンビ」や、Adoの楽曲に合わせてゾンビと群衆が狂乱する「ゾンビ・デ・ダンス」、恐怖のホラー・メイズ＆バイオハザード体験。パーク徒歩数分の感動立地を誇るオフィシャルホテル＆展望天然温泉付き厳選名宿5選を徹底特集。",
-    url: 'https://croud-travel.com/autumn-usj-halloween-horror-nights-osaka-bay-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-usj-halloween-horror-nights-osaka-bay-hotels-stay',
     siteName: 'クラドトラベル',
     type: 'article',
     locale: 'ja_JP',
@@ -51,12 +51,12 @@ export default function UsjHalloweenFeaturePage() {
       "name": "クラドトラベル",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://croud-travel.com/logo.png"
+        "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.com/autumn-usj-halloween-horror-nights-osaka-bay-hotels-stay"
+      "@id": "https://croud-travel.pages.dev/autumn-usj-halloween-horror-nights-osaka-bay-hotels-stay"
     }
   };
 
@@ -68,19 +68,19 @@ export default function UsjHalloweenFeaturePage() {
         "@type": "ListItem",
         "position": 1,
         "name": "ホーム",
-        "item": "https://croud-travel.com/"
+        "item": "https://croud-travel.pages.dev/"
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "特集一覧",
-        "item": "https://croud-travel.com/features"
+        "item": "https://croud-travel.pages.dev/features"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "USJハロウィーン・ホラー・ナイト特集",
-        "item": "https://croud-travel.com/autumn-usj-halloween-horror-nights-osaka-bay-hotels-stay"
+        "item": "https://croud-travel.pages.dev/autumn-usj-halloween-horror-nights-osaka-bay-hotels-stay"
       }
     ]
   };

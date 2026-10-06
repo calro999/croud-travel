@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月秋田・男鹿温泉郷の初冬名物ハタハタと豪快石焼き鍋】なまはげ伝承の里・日本海荒波雪見露天＆海水の温まり湯の宿5選",
     description: "11月から12月にかけて日本海に突き出た秋田県・男鹿半島は、初冬の雷鳴とともに大群で沿岸に押し寄せる秋田の県魚「ハタハタ（雷魚）」の漁獲シーズンを迎え、半島全体が冬の到来の歓喜に包まれます。千度近くまで真っ赤に熱した地元の溶岩石（男鹿石）を木樽の出汁に一気に投入して瞬間沸騰させる男鹿の伝統漁師料理「名物・石焼き鍋」は、魚の旨味を閉じ込めた大迫力の郷土グルメ。さらに大晦日の伝統行事「なまはげ」の神秘的な文化に触れ、海水に近い高濃度の塩分を含み湯冷め知らずの「男鹿温泉（塩化物泉）」の雪見露天風呂に浸かる、初冬の男鹿半島厳選宿5選を徹底解説。",
-    url: 'https://croud-travel.com/winter-akita-oga-onsen-ishiyaki-namahage-snow-stay',
+    url: 'https://croud-travel.pages.dev/winter-akita-oga-onsen-ishiyaki-namahage-snow-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -62,10 +62,10 @@ export default function OgaOnsenWinterFeature() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-akita-oga-onsen-ishiyaki-namahage-snow-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-akita-oga-onsen-ishiyaki-namahage-snow-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-akita-oga-onsen-ishiyaki-namahage-snow-stay"
+          "@id": "https://croud-travel.pages.dev/winter-akita-oga-onsen-ishiyaki-namahage-snow-stay"
         },
         "headline": "【11・12月秋田・男鹿温泉郷の初冬名物ハタハタと豪快石焼き鍋】なまはげ伝承の里・日本海荒波雪見露天＆海水の温まり湯の宿5選",
         "description": "11月から12月にかけて日本海に突き出た秋田県・男鹿半島は、初冬の雷鳴とともに大群で沿岸に押し寄せる秋田の県魚「ハタハタ（雷魚）」の漁獲シーズンを迎え、半島全体が冬の到来の歓喜に包まれます。千度近くまで真っ赤に熱した地元の溶岩石（男鹿石）を木樽の出汁に一気に投入して瞬間沸騰させる男鹿の伝統漁師料理「名物・石焼き鍋」は、魚の旨味を閉じ込めた大迫力の郷土グルメ。さらに大晦日の伝統行事「なまはげ」の神秘的な文化に触れ、海水に近い高濃度の塩分を含み湯冷め知らずの「男鹿温泉（塩化物泉）」の雪見露天風呂に浸かる、初冬の男鹿半島厳選宿5選を徹底解説。",
@@ -77,7 +77,7 @@ export default function OgaOnsenWinterFeature() {
           "name": "Croud Travel",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "author": {
@@ -88,31 +88,31 @@ export default function OgaOnsenWinterFeature() {
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://croud-travel.com/winter-akita-oga-onsen-ishiyaki-namahage-snow-stay#breadcrumb",
+        "@id": "https://croud-travel.pages.dev/winter-akita-oga-onsen-ishiyaki-namahage-snow-stay#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com/"
+            "item": "https://croud-travel.pages.dev/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "秋田・男鹿温泉郷 初冬名物ハタハタと豪快石焼き鍋・なまはげの宿",
-            "item": "https://croud-travel.com/winter-akita-oga-onsen-ishiyaki-namahage-snow-stay"
+            "item": "https://croud-travel.pages.dev/winter-akita-oga-onsen-ishiyaki-namahage-snow-stay"
           }
         ]
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-akita-oga-onsen-ishiyaki-namahage-snow-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-akita-oga-onsen-ishiyaki-namahage-snow-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",

@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月秋田・乳頭温泉郷の初冬雪見秘湯】名物きりたんぽ鍋＆比内地鶏・ブナ原生林に湧く七湯の濁り湯を巡る名宿5選",
     description: "11月から12月にかけて、十和田八幡平国立公園の乳頭山麓に抱かれた秋田県仙北市の「乳頭温泉郷（にゅうとうおんせんきょう）」は、日本中の温泉ファンが息を呑む白銀の秘湯シーズンへと突入します。初雪がブナの原生林を静かに覆い、立ち上る白い湯けむりと乳白色・茶褐色の濁り湯が幻想的なコントラストを描きます。厳しい寒さの中で浸かる雪見露天風呂の開放感はまさに至福。夕食には収穫したての新米あきたこまちを手作業で香ばしく焼き上げた名物「きりたんぽ鍋」や、濃厚なコクと歯ごたえが自慢の「比内地鶏」、郷土の味「山の芋鍋」、初冬に旬を迎えるハタハタ。雪の静寂に包まれる秋田の奥座敷で、心も身体も芯から温まる極上の厳選名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-akita-nyuto-onsen-yukimi-kiritanpo-hinaijidori-stay',
+    url: 'https://croud-travel.pages.dev/winter-akita-nyuto-onsen-yukimi-kiritanpo-hinaijidori-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -166,28 +166,28 @@ export default function WinterAkitaNyutoOnsenPage() {
     '@graph': [
       {
         '@type': 'Article',
-        '@id': 'https://croud-travel.com/winter-akita-nyuto-onsen-yukimi-kiritanpo-hinaijidori-stay#article',
+        '@id': 'https://croud-travel.pages.dev/winter-akita-nyuto-onsen-yukimi-kiritanpo-hinaijidori-stay#article',
         'isPartOf': {
           '@type': 'WebSite',
-          '@id': 'https://croud-travel.com/#website',
+          '@id': 'https://croud-travel.pages.dev/#website',
           'name': 'クラドトラベル',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         },
         'headline': "【11・12月秋田・乳頭温泉郷の初冬雪見秘湯】名物きりたんぽ鍋＆比内地鶏・ブナ原生林に湧く七湯の濁り湯を巡る名宿5選",
         'description': "11月から12月にかけて、十和田八幡平国立公園の乳頭山麓に抱かれた秋田県仙北市の「乳頭温泉郷（にゅうとうおんせんきょう）」は、日本中の温泉ファンが息を呑む白銀の秘湯シーズンへと突入します。初雪がブナの原生林を静かに覆い、立ち上る白い湯けむりと乳白色・茶褐色の濁り湯が幻想的なコントラストを描きます。厳しい寒さの中で浸かる雪見露天風呂の開放感はまさに至福。夕食には収穫したての新米あきたこまちを手作業で香ばしく焼き上げた名物「きりたんぽ鍋」や、濃厚なコクと歯ごたえが自慢の「比内地鶏」、郷土の味「山の芋鍋」、初冬に旬を迎えるハタハタ。雪の静寂に包まれる秋田の奥座敷で、心も身体も芯から温まる極上の厳選名宿5選を徹底解説します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.com/winter-akita-nyuto-onsen-yukimi-kiritanpo-hinaijidori-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-akita-nyuto-onsen-yukimi-kiritanpo-hinaijidori-stay',
         'datePublished': '2026-09-29T00:00:00+09:00',
         'dateModified': '2026-09-29T00:00:00+09:00',
         'publisher': {
           '@type': 'Organization',
           'name': 'クラドトラベル編集部',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         }
       },
       {
         '@type': 'TouristDestination',
-        '@id': 'https://croud-travel.com/winter-akita-nyuto-onsen-yukimi-kiritanpo-hinaijidori-stay#destination',
+        '@id': 'https://croud-travel.pages.dev/winter-akita-nyuto-onsen-yukimi-kiritanpo-hinaijidori-stay#destination',
         'name': '秋田・乳頭温泉郷',
         'description': '秋田県仙北市の十和田八幡平国立公園に位置する日本有数の秘湯。多彩な泉質の濁り湯と白銀のブナ原生林、名物きりたんぽ鍋が自慢。',
         'geo': {
@@ -198,7 +198,7 @@ export default function WinterAkitaNyutoOnsenPage() {
       },
       {
         '@type': 'FAQPage',
-        '@id': 'https://croud-travel.com/winter-akita-nyuto-onsen-yukimi-kiritanpo-hinaijidori-stay#faq',
+        '@id': 'https://croud-travel.pages.dev/winter-akita-nyuto-onsen-yukimi-kiritanpo-hinaijidori-stay#faq',
         'mainEntity': faqList.map((f) => ({
           '@type': 'Question',
           'name': f.q,
@@ -210,7 +210,7 @@ export default function WinterAkitaNyutoOnsenPage() {
       },
       {
         '@type': 'ItemList',
-        '@id': 'https://croud-travel.com/winter-akita-nyuto-onsen-yukimi-kiritanpo-hinaijidori-stay#hotellist',
+        '@id': 'https://croud-travel.pages.dev/winter-akita-nyuto-onsen-yukimi-kiritanpo-hinaijidori-stay#hotellist',
         'name': '秋田乳頭温泉郷・田沢湖高原のおすすめ名宿5選',
         'itemListElement': hotels.map((h, idx) => ({
           '@type': 'ListItem',

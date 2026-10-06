@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月冬の嵐山と静寂の名刹】嵯峨野の竹林雪景色と嵐山温泉・熱々湯豆腐宿5選",
     description: "11月下旬の紅葉から12月の澄み切った冬景色へと表情を変える京都・嵐山と嵯峨野。渡月橋の幻想的な朝霧や竹林の小径の静寂を歩き、冷えた身体を嵐山温泉の湯けむりで癒やす。職人仕込みの嵯峨湯豆腐と京懐石に舌鼓を打つ珠玉の冬旅ガイド。",
-    url: 'https://croud-travel.com/winter-kyoto-arashiyama-onsen-yudofu-stay',
+    url: 'https://croud-travel.pages.dev/winter-kyoto-arashiyama-onsen-yudofu-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -44,7 +44,7 @@ export default function ArashiyamaWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-kyoto-arashiyama-onsen-yudofu-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-kyoto-arashiyama-onsen-yudofu-stay#article",
         "headline": "【11・12月冬の嵐山と静寂の名刹】嵯峨野の竹林雪景色と嵐山温泉・熱々湯豆腐宿5選",
         "description": "11月下旬の紅葉から12月の澄み切った冬景色へと表情を変える京都・嵐山と嵯峨野。渡月橋の幻想的な朝霧や竹林の小径の静寂を歩き、冷えた身体を嵐山温泉の湯けむりで癒やす。職人仕込みの嵯峨湯豆腐と京懐石に舌鼓を打つ珠玉の冬旅ガイド。",
         "image": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=1200&q=80",
@@ -53,24 +53,24 @@ export default function ArashiyamaWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-kyoto-arashiyama-onsen-yudofu-stay"
+          "@id": "https://croud-travel.pages.dev/winter-kyoto-arashiyama-onsen-yudofu-stay"
         }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-kyoto-arashiyama-onsen-yudofu-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-kyoto-arashiyama-onsen-yudofu-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -108,7 +108,7 @@ export default function ArashiyamaWinterPage() {
       },
       {
         "@type": "ItemList",
-        "@id": "https://croud-travel.com/winter-kyoto-arashiyama-onsen-yudofu-stay#hotels",
+        "@id": "https://croud-travel.pages.dev/winter-kyoto-arashiyama-onsen-yudofu-stay#hotels",
         "itemListElement": [
           {
             "@type": "ListItem",

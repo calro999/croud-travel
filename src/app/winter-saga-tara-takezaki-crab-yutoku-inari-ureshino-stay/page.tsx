@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月佐賀】冬の有明海名物「竹崎カニ」と日本三大稲荷・祐徳稲荷神社の初詣・日本三大美肌の湯「嬉野温泉」温泉湯豆腐を堪能する名宿5選",
     description: "11月から1月、佐賀県の有明海沿岸・太良町では、甲羅に濃厚な朱色の内子（卵巣）をぎっしりと蓄えた冬のメス「竹崎カニ」が最高潮の旬を迎えます。日本三大稲荷の一つとして名高い鹿島市の「祐徳稲荷神社」では、朱塗りの壮麗な本殿が冬晴れの青空に映え、年末年始の初詣に多くの参拝客で賑わいます。さらに車で足を伸ばせば、日本三大美肌の湯として名高い「嬉野温泉」の名物・とろとろの「温泉湯豆腐」で身も心も芯から温まります。冬の有明海グルメとパワースポット、極上名湯を巡る厳選名宿5選をお届けします。",
-    url: 'https://croud-travel.com/winter-saga-tara-takezaki-crab-yutoku-inari-ureshino-stay',
+    url: 'https://croud-travel.pages.dev/winter-saga-tara-takezaki-crab-yutoku-inari-ureshino-stay',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -50,19 +50,19 @@ export default function SagaTaraTakezakiWinterPage() {
     author: {
       '@type': 'Organization',
       name: 'クラドトラベル編集部',
-      url: 'https://croud-travel.com'
+      url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
       name: 'クラドトラベル',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://croud-travel.com/logo.png'
+        url: 'https://croud-travel.pages.dev/logo.png'
       }
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.com/winter-saga-tara-takezaki-crab-yutoku-inari-ureshino-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-saga-tara-takezaki-crab-yutoku-inari-ureshino-stay'
     }
   };
 
@@ -74,19 +74,19 @@ export default function SagaTaraTakezakiWinterPage() {
         '@type': 'ListItem',
         position: 1,
         name: 'ホーム',
-        item: 'https://croud-travel.com'
+        item: 'https://croud-travel.pages.dev'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.com/features'
+        item: 'https://croud-travel.pages.dev/features'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '佐賀竹崎カニ＆祐徳稲荷＆嬉野温泉特集',
-        item: 'https://croud-travel.com/winter-saga-tara-takezaki-crab-yutoku-inari-ureshino-stay'
+        item: 'https://croud-travel.pages.dev/winter-saga-tara-takezaki-crab-yutoku-inari-ureshino-stay'
       }
     ]
   };

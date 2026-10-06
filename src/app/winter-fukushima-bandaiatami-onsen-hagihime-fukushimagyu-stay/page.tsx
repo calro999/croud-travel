@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月福島・磐梯熱海温泉】萩姫伝説の美肌ぬる湯・初冬猪苗代湖の白鳥と極上福島牛・地酒を味わう名宿5選",
     description: "11月から12月にかけて、福島県の中央部・郡山市の奥座敷として清流五百川（ごひゃくがわ）沿いに広がる「磐梯熱海温泉（ばんだいあたみおんせん）」は、初冬の澄み渡る冷気と静寂に包まれます。南北朝時代、難病に苦しんでいた京の都の美しい「萩姫（はぎひめ）」が不動明王のお告げに従い、都から数えて五百本目の川を遡って辿り着き、湯に浸かることで見事に全快したというロマンあふれる「萩姫伝説」が息づく古湯です。pH9前後のアルカリ性単純温泉は、肌にまとわりつくように滑らかで、古くから「美人をつくるぬる湯」として親しまれてきました。初冬には近隣の猪苗代湖にシベリアから何千羽もの白鳥が飛来し、冠雪した磐梯山を背景に優雅に舞う姿は息を呑む絶景です。夕食にはきめ細やかな霜降りと上品な脂の甘みが特徴の「福島牛」の陶板焼きやすき焼き、郡山伝統の鯉料理、全国新酒鑑評会で金賞を誇る福島地酒のしぼりたて新酒。初冬の中通りで心身を解きほぐす厳選名宿5選を詳しく紹介します。",
-    url: 'https://croud-travel.com/winter-fukushima-bandaiatami-onsen-hagihime-fukushimagyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-fukushima-bandaiatami-onsen-hagihime-fukushimagyu-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -166,28 +166,28 @@ export default function WinterFukushimaBandaiatamiPage() {
     '@graph': [
       {
         '@type': 'Article',
-        '@id': 'https://croud-travel.com/winter-fukushima-bandaiatami-onsen-hagihime-fukushimagyu-stay#article',
+        '@id': 'https://croud-travel.pages.dev/winter-fukushima-bandaiatami-onsen-hagihime-fukushimagyu-stay#article',
         'isPartOf': {
           '@type': 'WebSite',
-          '@id': 'https://croud-travel.com/#website',
+          '@id': 'https://croud-travel.pages.dev/#website',
           'name': 'クラドトラベル',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         },
         'headline': "【11・12月福島・磐梯熱海温泉】萩姫伝説の美肌ぬる湯・初冬猪苗代湖の白鳥と極上福島牛・地酒を味わう名宿5選",
         'description': "11月から12月にかけて、福島県の中央部・郡山市の奥座敷として清流五百川（ごひゃくがわ）沿いに広がる「磐梯熱海温泉（ばんだいあたみおんせん）」は、初冬の澄み渡る冷気と静寂に包まれます。南北朝時代、難病に苦しんでいた京の都の美しい「萩姫（はぎひめ）」が不動明王のお告げに従い、都から数えて五百本目の川を遡って辿り着き、湯に浸かることで見事に全快したというロマンあふれる「萩姫伝説」が息づく古湯です。pH9前後のアルカリ性単純温泉は、肌にまとわりつくように滑らかで、古くから「美人をつくるぬる湯」として親しまれてきました。初冬には近隣の猪苗代湖にシベリアから何千羽もの白鳥が飛来し、冠雪した磐梯山を背景に優雅に舞う姿は息を呑む絶景です。夕食にはきめ細やかな霜降りと上品な脂の甘みが特徴の「福島牛」の陶板焼きやすき焼き、郡山伝統の鯉料理、全国新酒鑑評会で金賞を誇る福島地酒のしぼりたて新酒。初冬の中通りで心身を解きほぐす厳選名宿5選を詳しく紹介します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.com/winter-fukushima-bandaiatami-onsen-hagihime-fukushimagyu-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-fukushima-bandaiatami-onsen-hagihime-fukushimagyu-stay',
         'datePublished': '2026-09-29T00:00:00+09:00',
         'dateModified': '2026-09-29T00:00:00+09:00',
         'publisher': {
           '@type': 'Organization',
           'name': 'クラドトラベル編集部',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         }
       },
       {
         '@type': 'TouristDestination',
-        '@id': 'https://croud-travel.com/winter-fukushima-bandaiatami-onsen-hagihime-fukushimagyu-stay#destination',
+        '@id': 'https://croud-travel.pages.dev/winter-fukushima-bandaiatami-onsen-hagihime-fukushimagyu-stay#destination',
         'name': '福島・磐梯熱海温泉',
         'description': '福島県郡山市の清流五百川沿いに位置する郡山の奥座敷。萩姫伝説が伝わるpH9の美肌ぬる湯と初冬の猪苗代湖白鳥飛来、極上福島牛と郡山伝統の鯉料理が魅力。',
         'geo': {
@@ -198,7 +198,7 @@ export default function WinterFukushimaBandaiatamiPage() {
       },
       {
         '@type': 'FAQPage',
-        '@id': 'https://croud-travel.com/winter-fukushima-bandaiatami-onsen-hagihime-fukushimagyu-stay#faq',
+        '@id': 'https://croud-travel.pages.dev/winter-fukushima-bandaiatami-onsen-hagihime-fukushimagyu-stay#faq',
         'mainEntity': faqList.map((f) => ({
           '@type': 'Question',
           'name': f.q,
@@ -210,7 +210,7 @@ export default function WinterFukushimaBandaiatamiPage() {
       },
       {
         '@type': 'ItemList',
-        '@id': 'https://croud-travel.com/winter-fukushima-bandaiatami-onsen-hagihime-fukushimagyu-stay#hotellist',
+        '@id': 'https://croud-travel.pages.dev/winter-fukushima-bandaiatami-onsen-hagihime-fukushimagyu-stay#hotellist',
         'name': '福島・磐梯熱海温泉のおすすめ名宿5選',
         'itemListElement': hotels.map((h, idx) => ({
           '@type': 'ListItem',

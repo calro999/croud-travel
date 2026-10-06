@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月東京】丸の内イルミネーション＆東京駅丸の内駅舎夜景！皇居新春散策と江戸前極上宿5選",
     description: "冬の東京・丸の内は、約1.2kmにわたりシャンパンゴールドに輝く「丸の内イルミネーション」と、美しくライトアップされた東京駅丸の内赤レンガ駅舎、皇居のお濠端の静寂が広がる年間最高峰のラグジュアリーシーズン。日本橋福徳神社や神田明神の新春初詣、江戸前老舗グルメまで、大人の洗練された冬の都心ステイ。楽天APIから最新取得した東京ステーションホテル、パレスホテル東京など厳選宿5選を徹底特集します。",
-    url: 'https://croud-travel.com/winter-tokyo-marunouchi-illumination-tokyo-station-hatsumode-stay',
+    url: 'https://croud-travel.pages.dev/winter-tokyo-marunouchi-illumination-tokyo-station-hatsumode-stay',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',
     type: 'article',
@@ -162,10 +162,10 @@ export default function MarunouchiTokyoWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-tokyo-marunouchi-illumination-tokyo-station-hatsumode-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-tokyo-marunouchi-illumination-tokyo-station-hatsumode-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-tokyo-marunouchi-illumination-tokyo-station-hatsumode-stay"
+          "@id": "https://croud-travel.pages.dev/winter-tokyo-marunouchi-illumination-tokyo-station-hatsumode-stay"
         },
         "headline": "【11・12・1月東京】丸の内イルミネーション＆東京駅丸の内駅舎夜景！皇居新春散策と江戸前極上宿5選",
         "description": "冬の東京・丸の内は、約1.2kmにわたりシャンパンゴールドに輝く「丸の内イルミネーション」と、美しくライトアップされた東京駅丸の内赤レンガ駅舎、皇居のお濠端の静寂が広がる年間最高峰のラグジュアリーシーズン。日本橋福徳神社や神田明神の新春初詣、江戸前老舗グルメまで、大人の洗練された冬の都心ステイ。楽天APIから最新取得した東京ステーションホテル、パレスホテル東京など厳選宿5選を徹底特集します。",
@@ -175,7 +175,7 @@ export default function MarunouchiTokyoWinterPage() {
         "publisher": {
           "@type": "Organization",
           "name": "地域の宿探訪",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         }
       },
       {
@@ -185,19 +185,19 @@ export default function MarunouchiTokyoWinterPage() {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com"
+            "item": "https://croud-travel.pages.dev"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "丸の内・東京駅 冬特集",
-            "item": "https://croud-travel.com/winter-tokyo-marunouchi-illumination-tokyo-station-hatsumode-stay"
+            "item": "https://croud-travel.pages.dev/winter-tokyo-marunouchi-illumination-tokyo-station-hatsumode-stay"
           }
         ]
       },

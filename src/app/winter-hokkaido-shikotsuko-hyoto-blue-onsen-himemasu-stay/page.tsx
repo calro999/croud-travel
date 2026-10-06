@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月北海道】千歳支笏湖ブルーの冬絶景・支笏湖氷濤まつりと美肌の湯・冬の名物ヒメマス（チップ）料理＆白老牛を味わうレイクサイド名宿5選",
     description: "11月から1月、日本最北の不凍湖・支笏湖は、水質日本一に幾度も輝いた透明度が極限まで高まり、息をのむほど深いコバルトブルー「支笏湖ブルー」を湛える静謐な冬の季節を迎えます。1月下旬から開催される北海道冬の二大祭典「千歳・支笏湖氷濤まつり」の壮大な氷のオブジェ群、雪化粧の樽前山と風不死岳のパノラマ、そして全国でも珍しい足元湧出の秘湯やとろとろ美肌の「支笏湖温泉」。新千歳空港から車でわずか約40分で出逢える、冬の名物ヒメマス（チップ）や白老牛を味わう厳選レイクサイド名宿5選と冬のモデルコースを詳しくお届けします。",
-    url: 'https://croud-travel.com/winter-hokkaido-shikotsuko-hyoto-blue-onsen-himemasu-stay',
+    url: 'https://croud-travel.pages.dev/winter-hokkaido-shikotsuko-hyoto-blue-onsen-himemasu-stay',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -50,19 +50,19 @@ export default function HokkaidoShikotsukoHyotoWinterPage() {
     author: {
       '@type': 'Organization',
       name: 'クラドトラベル編集部',
-      url: 'https://croud-travel.com'
+      url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
       name: 'クラドトラベル',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://croud-travel.com/logo.png'
+        url: 'https://croud-travel.pages.dev/logo.png'
       }
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.com/winter-hokkaido-shikotsuko-hyoto-blue-onsen-himemasu-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-hokkaido-shikotsuko-hyoto-blue-onsen-himemasu-stay'
     }
   };
 
@@ -74,19 +74,19 @@ export default function HokkaidoShikotsukoHyotoWinterPage() {
         '@type': 'ListItem',
         position: 1,
         name: 'ホーム',
-        item: 'https://croud-travel.com'
+        item: 'https://croud-travel.pages.dev'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.com/features'
+        item: 'https://croud-travel.pages.dev/features'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '支笏湖ブルー＆氷濤まつり特集',
-        item: 'https://croud-travel.com/winter-hokkaido-shikotsuko-hyoto-blue-onsen-himemasu-stay'
+        item: 'https://croud-travel.pages.dev/winter-hokkaido-shikotsuko-hyoto-blue-onsen-himemasu-stay'
       }
     ]
   };

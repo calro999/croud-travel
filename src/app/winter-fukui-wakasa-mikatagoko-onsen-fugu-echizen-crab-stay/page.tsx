@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月福井・若狭三方五湖＆敦賀温泉郷の初冬レイクビューと若狭ふぐ】越前蟹・名物焼き鯖＆敦賀港冬海鮮会席を愉しむ湖畔・海辺名宿5選",
     description: "11月から12月にかけて、国の名勝・三方五湖（みかたごこ）と敦賀湾を擁する福井県若狭エリアは、日本最北限の冷たい荒波で鍛え抜かれた冬の美食の最高峰「若狭ふぐ」が本格解禁を迎え、11月6日の越前蟹解禁とともに美食家を唸らせる黄金の季節に突入します。水質や水深が異なる五つの湖が初冬の澄んだ光に染まる神秘的な湖畔風景、レインボーライン山頂公園からの360度パノラマ絶景、そして北陸新幹線敦賀開業でぐっと身近になった名湯露天風呂。本場の若狭ふぐフルコース（てっさ・てっちり・唐揚げ・ひれ酒）や敦賀港直送の越前蟹、若狭名物の焼き鯖を堪能する厳選名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-fukui-wakasa-mikatagoko-onsen-fugu-echizen-crab-stay',
+    url: 'https://croud-travel.pages.dev/winter-fukui-wakasa-mikatagoko-onsen-fugu-echizen-crab-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -160,28 +160,28 @@ export default function WinterFukuiWakasaPage() {
     '@graph': [
       {
         '@type': 'Article',
-        '@id': 'https://croud-travel.com/winter-fukui-wakasa-mikatagoko-onsen-fugu-echizen-crab-stay#article',
+        '@id': 'https://croud-travel.pages.dev/winter-fukui-wakasa-mikatagoko-onsen-fugu-echizen-crab-stay#article',
         'isPartOf': {
           '@type': 'WebSite',
-          '@id': 'https://croud-travel.com/#website',
+          '@id': 'https://croud-travel.pages.dev/#website',
           'name': 'クラドトラベル',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         },
         'headline': "【11・12月福井・若狭三方五湖＆敦賀温泉郷の初冬レイクビューと若狭ふぐ】越前蟹・名物焼き鯖＆敦賀港冬海鮮会席を愉しむ湖畔・海辺名宿5選",
         'description': "11月から12月にかけて、国の名勝・三方五湖（みかたごこ）と敦賀湾を擁する福井県若狭エリアは、日本最北限の冷たい荒波で鍛え抜かれた冬の美食の最高峰「若狭ふぐ」が本格解禁を迎え、11月6日の越前蟹解禁とともに美食家を唸らせる黄金の季節に突入します。水質や水深が異なる五つの湖が初冬の澄んだ光に染まる神秘的な湖畔風景、レインボーライン山頂公園からの360度パノラマ絶景、そして北陸新幹線敦賀開業でぐっと身近になった名湯露天風呂。本場の若狭ふぐフルコース（てっさ・てっちり・唐揚げ・ひれ酒）や敦賀港直送の越前蟹、若狭名物の焼き鯖を堪能する厳選名宿5選を徹底解説します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.com/winter-fukui-wakasa-mikatagoko-onsen-fugu-echizen-crab-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-fukui-wakasa-mikatagoko-onsen-fugu-echizen-crab-stay',
         'datePublished': '2026-09-28T00:00:00+09:00',
         'dateModified': '2026-09-28T00:00:00+09:00',
         'publisher': {
           '@type': 'Organization',
           'name': 'クラドトラベル編集部',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         }
       },
       {
         '@type': 'FAQPage',
-        '@id': 'https://croud-travel.com/winter-fukui-wakasa-mikatagoko-onsen-fugu-echizen-crab-stay#faq',
+        '@id': 'https://croud-travel.pages.dev/winter-fukui-wakasa-mikatagoko-onsen-fugu-echizen-crab-stay#faq',
         'mainEntity': faqList.map((f) => ({
           '@type': 'Question',
           'name': f.q,

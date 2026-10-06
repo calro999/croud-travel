@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月いわき湯本温泉】冬の味覚常磐もの寒アンコウ濃厚どぶ汁鍋＆目光唐揚げ・日本三古湯の美肌硫黄泉と極上福島牛を味わう名宿5選",
     description: "11月から12月にかけて本格的な冬の到来を迎える福島県いわき市。東北地方にありながら「東北のハワイ」と称されるほど温暖で、冬期でも積雪が極めて少ないいわき湯本温泉は、都心から特急「ひたち」で約2時間直通という抜群の利便性を誇る屈指の温泉リゾートです。有馬温泉・道後温泉と並び「日本三古湯」の一つに数えられる歴史ある名湯は、毎分5,000リットル以上自噴する全国でも稀有な「含硫黄-ナトリウム-塩化物・硫酸塩温泉」。ほのかな硫黄の香りとまろやかな肌触りが特徴で、血行を促進して冷えた体を芯から温め、肌をつるつるに整える美肌の湯として古くから親しまれてきました。そして初冬のいわき湯本で絶対に見逃せないのが、市場で最高値をつけるブランド魚「常磐もの（じょうばんもの）」の真骨頂である「寒アンコウ」。アンコウの新鮮な肝を乾煎りして味噌を加え、野菜と魚の水分だけで煮込む郷土伝統の「どぶ汁鍋」は、濃厚なコクとコラーゲンが溢れ出す至高の逸品です。さらにふっくら香ばしい「目光（メヒカリ）の唐揚げ」、芳醇な霜降り「福島牛」の陶板焼き、野口雨情ゆかりの庭園露天風呂など、心も体も温まる初冬の贅沢を味わえる厳選宿5選を詳しく紹介します。",
-    url: 'https://croud-travel.com/winter-fukushima-iwaki-yumoto-onsen-ankou-jobanmono-fukushimagyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-fukushima-iwaki-yumoto-onsen-ankou-jobanmono-fukushimagyu-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -44,23 +44,23 @@ export default function FukushimaIwakiYumotoWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-fukushima-iwaki-yumoto-onsen-ankou-jobanmono-fukushimagyu-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-fukushima-iwaki-yumoto-onsen-ankou-jobanmono-fukushimagyu-stay#article",
         "isPartOf": {
           "@type": "WebSite",
-          "@id": "https://croud-travel.com/#website",
+          "@id": "https://croud-travel.pages.dev/#website",
           "name": "クラドトラベル",
-          "url": "https://croud-travel.com/"
+          "url": "https://croud-travel.pages.dev/"
         },
         "headline": "【11・12月いわき湯本温泉】冬の味覚常磐もの寒アンコウ濃厚どぶ汁鍋＆目光唐揚げ・日本三古湯の美肌硫黄泉と極上福島牛を味わう名宿5選",
         "description": "11月から12月にかけて本格的な冬の到来を迎える福島県いわき市。東北地方にありながら「東北のハワイ」と称されるほど温暖で、冬期でも積雪が極めて少ないいわき湯本温泉は、都心から特急「ひたち」で約2時間直通という抜群の利便性を誇る屈指の温泉リゾートです。有馬温泉・道後温泉と並び「日本三古湯」の一つに数えられる歴史ある名湯は、毎分5,000リットル以上自噴する全国でも稀有な「含硫黄-ナトリウム-塩化物・硫酸塩温泉」。ほのかな硫黄の香りとまろやかな肌触りが特徴で、血行を促進して冷えた体を芯から温め、肌をつるつるに整える美肌の湯として古くから親しまれてきました。そして初冬のいわき湯本で絶対に見逃せないのが、市場で最高値をつけるブランド魚「常磐もの（じょうばんもの）」の真骨頂である「寒アンコウ」。アンコウの新鮮な肝を乾煎りして味噌を加え、野菜と魚の水分だけで煮込む郷土伝統の「どぶ汁鍋」は、濃厚なコクとコラーゲンが溢れ出す至高の逸品です。さらにふっくら香ばしい「目光（メヒカリ）の唐揚げ」、芳醇な霜降り「福島牛」の陶板焼き、野口雨情ゆかりの庭園露天風呂など、心も体も温まる初冬の贅沢を味わえる厳選宿5選を詳しく紹介します。",
         "datePublished": "2026-09-30T00:00:00+09:00",
         "dateModified": "2026-09-30T00:00:00+09:00",
         "inLanguage": "ja",
-        "mainEntityOfPage": "https://croud-travel.com/winter-fukushima-iwaki-yumoto-onsen-ankou-jobanmono-fukushimagyu-stay",
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-fukushima-iwaki-yumoto-onsen-ankou-jobanmono-fukushimagyu-stay",
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル編集部",
-          "url": "https://croud-travel.com/"
+          "url": "https://croud-travel.pages.dev/"
         }
       },
       {

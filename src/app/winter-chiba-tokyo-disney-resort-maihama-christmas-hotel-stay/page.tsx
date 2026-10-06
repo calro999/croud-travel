@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月舞浜】東京ディズニーリゾート冬のクリスマス＆年末年始！直営・オフィシャルホテルで叶える夢の冬旅名宿5選",
     description: "冬の東京ディズニーリゾート（舞浜）は、シンデレラ城やアメリカンウォーターフロントに巨大クリスマスツリーが輝く「ディズニー・クリスマス」、冬の夜空を彩る花火「スターブライト・クリスマス」、そして和の趣あふれる華やかな「お正月プログラム」へと続く一年で最も夢と魔法に満ちたシーズン。パークで一日中感動に包まれた後は、ディズニーリゾートライン直結・ベイサイド・ステーション至近のオフィシャルホテルへ。パークビューやオーシャンビューのバルコニー、温水スパや贅沢なホテルビュッフェで心温まる冬の舞浜ステイ。楽天APIから最新取得したオフィシャルホテル5選を徹底特集します。",
-    url: 'https://croud-travel.com/winter-chiba-tokyo-disney-resort-maihama-christmas-hotel-stay',
+    url: 'https://croud-travel.pages.dev/winter-chiba-tokyo-disney-resort-maihama-christmas-hotel-stay',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',
     type: 'article',
@@ -162,10 +162,10 @@ export default function ChibaMaihamaDisneyWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-chiba-tokyo-disney-resort-maihama-christmas-hotel-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-chiba-tokyo-disney-resort-maihama-christmas-hotel-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-chiba-tokyo-disney-resort-maihama-christmas-hotel-stay"
+          "@id": "https://croud-travel.pages.dev/winter-chiba-tokyo-disney-resort-maihama-christmas-hotel-stay"
         },
         "headline": "【11・12・1月舞浜】東京ディズニーリゾート冬のクリスマス＆年末年始！直営・オフィシャルホテルで叶える夢の冬旅名宿5選",
         "description": "冬の東京ディズニーリゾート（舞浜）は、シンデレラ城やアメリカンウォーターフロントに巨大クリスマスツリーが輝く「ディズニー・クリスマス」、冬の夜空を彩る花火「スターブライト・クリスマス」、そして和の趣あふれる華やかな「お正月プログラム」へと続く一年で最も夢と魔法に満ちたシーズン。パークで一日中感動に包まれた後は、ディズニーリゾートライン直結・ベイサイド・ステーション至近のオフィシャルホテルへ。パークビューやオーシャンビューのバルコニー、温水スパや贅沢なホテルビュッフェで心温まる冬の舞浜ステイ。楽天APIから最新取得したオフィシャルホテル5選を徹底特集します。",
@@ -175,7 +175,7 @@ export default function ChibaMaihamaDisneyWinterPage() {
         "publisher": {
           "@type": "Organization",
           "name": "地域の宿探訪",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         }
       },
       {
@@ -185,19 +185,19 @@ export default function ChibaMaihamaDisneyWinterPage() {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com"
+            "item": "https://croud-travel.pages.dev"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "舞浜・東京ディズニーリゾート冬特集",
-            "item": "https://croud-travel.com/winter-chiba-tokyo-disney-resort-maihama-christmas-hotel-stay"
+            "item": "https://croud-travel.pages.dev/winter-chiba-tokyo-disney-resort-maihama-christmas-hotel-stay"
           }
         ]
       },

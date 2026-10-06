@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月ニセコ温泉郷の初雪パウダースノーと羊蹄山絶景】白銀の蝦夷富士望む露天風呂・道産黒毛和牛＆冬の北海味覚ディナーの宿5選",
     description: "11月下旬から12月にかけて北海道・ニセコ山麓は、世界中のスキーヤーや旅人を魅了する超微粒子の初雪「パウダースノー（Japow）」に包まれ、雄大な羊蹄山（蝦夷富士）が純白の雪化粧を纏います。白銀の原生林に抱かれた源泉掛け流しの雪見露天風呂、暖炉が揺らめく洗練されたラグジュアリーホテル、北海道産白老牛や十勝ハーブ牛の鉄板焼き、近海で獲れた冬の活毛ガニやウニ、タラバガニを贅沢に味わう至福の名宿5選を徹底解説。",
-    url: 'https://croud-travel.com/winter-hokkaido-niseko-onsen-powder-snow-yotei-stay',
+    url: 'https://croud-travel.pages.dev/winter-hokkaido-niseko-onsen-powder-snow-yotei-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -68,7 +68,7 @@ export default function NisekoOnsenWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-hokkaido-niseko-onsen-powder-snow-yotei-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-hokkaido-niseko-onsen-powder-snow-yotei-stay#article",
         "headline": "【11・12月ニセコ温泉郷の初雪パウダースノーと羊蹄山絶景】白銀の蝦夷富士望む露天風呂・道産黒毛和牛＆冬の北海味覚ディナーの宿5選",
         "description": "11月下旬から12月にかけて北海道・ニセコ山麓は、世界中のスキーヤーや旅人を魅了する超微粒子の初雪「パウダースノー（Japow）」に包まれ、雄大な羊蹄山（蝦夷富士）が純白の雪化粧を纏います。白銀の原生林に抱かれた源泉掛け流しの雪見露天風呂、暖炉が揺らめく洗練されたラグジュアリーホテル、北海道産白老牛や十勝ハーブ牛の鉄板焼き、近海で獲れた冬の活毛ガニやウニ、タラバガニを贅沢に味わう至福の名宿5選を徹底解説。",
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
@@ -77,24 +77,24 @@ export default function NisekoOnsenWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-hokkaido-niseko-onsen-powder-snow-yotei-stay"
+          "@id": "https://croud-travel.pages.dev/winter-hokkaido-niseko-onsen-powder-snow-yotei-stay"
         }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-hokkaido-niseko-onsen-powder-snow-yotei-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-hokkaido-niseko-onsen-powder-snow-yotei-stay#faq",
         "mainEntity": faqList.map(item => ({
           "@type": "Question",
           "name": item.q,

@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月長崎・雲仙小浜温泉】橘湾の茜色落日と熱量日本一105℃の源泉・初冬の味覚橘湾冬ワタリガニ＆名物小浜ちゃんぽん・極上雲仙あかね牛を堪能する名宿5選",
     description: "11月中旬から初冬の長崎・島原半島西岸に位置する小浜温泉（おばまおんせん）は、澄み切った冬空の下、橘湾を鮮やかな茜色に染め上げる壮大な落日パノラマに包まれます。地下から湧き出す源泉の温度は驚異の105度、湧出量×温度で算出される総熱量は日本一を誇り、高濃度の食塩泉が冷え切った身体の芯まで熱を浸透させ、湯上がり後も驚くほどポカポカ感が持続します。海沿いに延びる日本一長い105mの足湯「ほっとふっと105」では、立ち上る白煙とともに夕陽が水平線に沈むドラマチックな瞬間を特等席で体感。そして初冬の食卓を彩るのは、橘湾の豊かな潮流で育ち、濃厚な内子と上品な甘みを蓄えた「冬ワタリガニ（ガザミ）」、殻付き牡蠣や地魚の海鮮蒸し料理、さらに豚骨と魚介の旨味が凝縮したご当地グルメ「小浜ちゃんぽん」、赤身の旨味が濃厚な希少ブランド「雲仙あかね牛」のステーキ会席。夕陽と圧倒的熱量に癒やされる初冬の厳選名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-nagasaki-obama-onsen-sunset-crab-champon-wagyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-nagasaki-obama-onsen-sunset-crab-champon-wagyu-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -45,23 +45,23 @@ export default function NagasakiObamaWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-nagasaki-obama-onsen-sunset-crab-champon-wagyu-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-nagasaki-obama-onsen-sunset-crab-champon-wagyu-stay#article",
         "isPartOf": {
           "@type": "WebSite",
-          "@id": "https://croud-travel.com/#website",
+          "@id": "https://croud-travel.pages.dev/#website",
           "name": "クラドトラベル",
-          "url": "https://croud-travel.com/"
+          "url": "https://croud-travel.pages.dev/"
         },
         "headline": "【11・12月長崎・雲仙小浜温泉】橘湾の茜色落日と熱量日本一105℃の源泉・初冬の味覚橘湾冬ワタリガニ＆名物小浜ちゃんぽん・極上雲仙あかね牛を堪能する名宿5選",
         "description": "11月中旬から初冬の長崎・島原半島西岸に位置する小浜温泉（おばまおんせん）は、澄み切った冬空の下、橘湾を鮮やかな茜色に染め上げる壮大な落日パノラマに包まれます。地下から湧き出す源泉の温度は驚異の105度、湧出量×温度で算出される総熱量は日本一を誇り、高濃度の食塩泉が冷え切った身体の芯まで熱を浸透させ、湯上がり後も驚くほどポカポカ感が持続します。海沿いに延びる日本一長い105mの足湯「ほっとふっと105」では、立ち上る白煙とともに夕陽が水平線に沈むドラマチックな瞬間を特等席で体感。そして初冬の食卓を彩るのは、橘湾の豊かな潮流で育ち、濃厚な内子と上品な甘みを蓄えた「冬ワタリガニ（ガザミ）」、殻付き牡蠣や地魚の海鮮蒸し料理、さらに豚骨と魚介の旨味が凝縮したご当地グルメ「小浜ちゃんぽん」、赤身の旨味が濃厚な希少ブランド「雲仙あかね牛」のステーキ会席。夕陽と圧倒的熱量に癒やされる初冬の厳選名宿5選を徹底解説します。",
         "datePublished": "2026-09-30T00:00:00+09:00",
         "dateModified": "2026-09-30T00:00:00+09:00",
         "inLanguage": "ja",
-        "mainEntityOfPage": "https://croud-travel.com/winter-nagasaki-obama-onsen-sunset-crab-champon-wagyu-stay",
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-nagasaki-obama-onsen-sunset-crab-champon-wagyu-stay",
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル編集部",
-          "url": "https://croud-travel.com/"
+          "url": "https://croud-travel.pages.dev/"
         }
       },
       {

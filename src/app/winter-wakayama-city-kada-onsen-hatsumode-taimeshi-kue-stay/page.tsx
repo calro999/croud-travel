@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月和歌山加太】冬の日前神宮新春開運初詣＆紀淡海峡夕陽絶景！加太温泉名湯と冬の天然真鯛・幻のクエに寛ぐ名宿5選",
     description: "冬の和歌山・加太エリアは、紀淡海峡の彼方に沈む鮮やかな夕陽と友ヶ島のシルエットが旅情をかきたて、神代の歴史を誇る紀伊国一之宮「日前神宮・國懸神宮」の新春開運初詣で新年を迎える特別な季節。11月下旬の晩秋から1月にかけて、一本釣りで知られる加太の寒真鯛（鯛しゃぶ・鯛釜飯）や紀州沖の幻の高級魚・天然本クエ鍋、極上の熊野牛が旬を迎えます。美肌効果抜群のとろみある重曹泉・加太温泉に浸かり、徳川御三家の城下町の歴史と海の幸に酔いしれる冬の贅沢旅。楽天APIから最新取得した信頼の名宿5選を徹底特集します。",
-    url: 'https://croud-travel.com/winter-wakayama-city-kada-onsen-hatsumode-taimeshi-kue-stay',
+    url: 'https://croud-travel.pages.dev/winter-wakayama-city-kada-onsen-hatsumode-taimeshi-kue-stay',
     type: 'article',
     images: [{ url: 'https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&q=80' }]
   }
@@ -151,11 +151,11 @@ export default function WakayamaCityPage() {
         "@type": "Article",
         "headline": "【11・12・1月和歌山加太】冬の日前神宮新春開運初詣＆紀淡海峡夕陽絶景！加太温泉名湯と冬の天然真鯛・幻のクエに寛ぐ名宿5選",
         "description": "冬の和歌山・加太エリアは、紀淡海峡の彼方に沈む鮮やかな夕陽と友ヶ島のシルエットが旅情をかきたて、神代の歴史を誇る紀伊国一之宮「日前神宮・國懸神宮」の新春開運初詣で新年を迎える特別な季節。11月下旬の晩秋から1月にかけて、一本釣りで知られる加太の寒真鯛（鯛しゃぶ・鯛釜飯）や紀州沖の幻の高級魚・天然本クエ鍋、極上の熊野牛が旬を迎えます。美肌効果抜群のとろみある重曹泉・加太温泉に浸かり、徳川御三家の城下町の歴史と海の幸に酔いしれる冬の贅沢旅。楽天APIから最新取得した信頼の名宿5選を徹底特集します。",
-        "url": 'https://croud-travel.com/winter-wakayama-city-kada-onsen-hatsumode-taimeshi-kue-stay',
+        "url": 'https://croud-travel.pages.dev/winter-wakayama-city-kada-onsen-hatsumode-taimeshi-kue-stay',
         "publisher": {
           "@type": "Organization",
           "name": "週末ごほうび旅・厳選の宿ガイド",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         }
       },
       {
@@ -165,19 +165,19 @@ export default function WakayamaCityPage() {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com"
+            "item": "https://croud-travel.pages.dev"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "冬の特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "冬の和歌山加太・日前神宮初詣＆紀淡海峡夕陽特集",
-            "item": 'https://croud-travel.com/winter-wakayama-city-kada-onsen-hatsumode-taimeshi-kue-stay'
+            "item": 'https://croud-travel.pages.dev/winter-wakayama-city-kada-onsen-hatsumode-taimeshi-kue-stay'
           }
         ]
       },

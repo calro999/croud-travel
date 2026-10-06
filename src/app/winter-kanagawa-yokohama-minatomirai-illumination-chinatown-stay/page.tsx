@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月横浜】赤レンガ倉庫クリスマスマーケット＆ヨルノヨ夜景！中華街熱々点心と絶景港宿5選",
     description: "冬の横浜は澄み渡る夜空にみなとみらい21の摩天楼と大観覧車が輝き、横浜赤レンガ倉庫「クリスマスマーケット」や都心臨海部の大規模光アート「ヨルノヨ」、横浜中華街の熱々点心＆春節ランタンが街を彩る年間最美のシーズン。楽天APIから最新取得した横浜ベイホテル東急、インターコンチネンタル、ホテルニューグランドなど絶景ホテル5選を徹底特集します。",
-    url: 'https://croud-travel.com/winter-kanagawa-yokohama-minatomirai-illumination-chinatown-stay',
+    url: 'https://croud-travel.pages.dev/winter-kanagawa-yokohama-minatomirai-illumination-chinatown-stay',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',
     type: 'article',
@@ -162,10 +162,10 @@ export default function YokohamaMinatomiraiWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-kanagawa-yokohama-minatomirai-illumination-chinatown-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-kanagawa-yokohama-minatomirai-illumination-chinatown-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-kanagawa-yokohama-minatomirai-illumination-chinatown-stay"
+          "@id": "https://croud-travel.pages.dev/winter-kanagawa-yokohama-minatomirai-illumination-chinatown-stay"
         },
         "headline": "【11・12・1月横浜】赤レンガ倉庫クリスマスマーケット＆ヨルノヨ夜景！中華街熱々点心と絶景港宿5選",
         "description": "冬の横浜は澄み渡る夜空にみなとみらい21の摩天楼と大観覧車が輝き、横浜赤レンガ倉庫「クリスマスマーケット」や都心臨海部の大規模光アート「ヨルノヨ」、横浜中華街の熱々点心＆春節ランタンが街を彩る年間最美のシーズン。楽天APIから最新取得した横浜ベイホテル東急、インターコンチネンタル、ホテルニューグランドなど絶景ホテル5選を徹底特集します。",
@@ -175,7 +175,7 @@ export default function YokohamaMinatomiraiWinterPage() {
         "publisher": {
           "@type": "Organization",
           "name": "地域の宿探訪",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         }
       },
       {
@@ -185,19 +185,19 @@ export default function YokohamaMinatomiraiWinterPage() {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com"
+            "item": "https://croud-travel.pages.dev"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "横浜・みなとみらい 冬特集",
-            "item": "https://croud-travel.com/winter-kanagawa-yokohama-minatomirai-illumination-chinatown-stay"
+            "item": "https://croud-travel.pages.dev/winter-kanagawa-yokohama-minatomirai-illumination-chinatown-stay"
           }
         ]
       },

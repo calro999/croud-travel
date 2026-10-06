@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月栃木】日本一の光の祭典「あしかがフラワーパーク光の花の庭」・佐野厄除け大師初詣＆手打ち佐野ラーメン・とちおとめ苺ステイ宿5選",
     description: "11月から1月、栃木県足利市と佐野市は、日本三大イルミネーション第1位「あしかがフラワーパーク 光の花の庭」の500万球が輝き、関東屈指の初詣参拝者を迎える「佐野厄除け大師」の厳かな祈りに包まれます。澄んだ冬空に広がる青竹手打ち佐野ラーメンの熱気、冬に甘みが凝縮するとちおとめ＆とちあいか苺狩り。冬の両毛エリアを満喫する厳選名宿5選と1泊2日モデルコースを徹底ガイドします。",
-    url: 'https://croud-travel.com/winter-tochigi-ashikaga-flowerpark-sano-yakuyoke-stay',
+    url: 'https://croud-travel.pages.dev/winter-tochigi-ashikaga-flowerpark-sano-yakuyoke-stay',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -50,19 +50,19 @@ export default function TochigiAshikagaFlowerparkWinterPage() {
     author: {
       '@type': 'Organization',
       name: 'クラドトラベル編集部',
-      url: 'https://croud-travel.com'
+      url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
       name: 'クラドトラベル',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://croud-travel.com/logo.png'
+        url: 'https://croud-travel.pages.dev/logo.png'
       }
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.com/winter-tochigi-ashikaga-flowerpark-sano-yakuyoke-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-tochigi-ashikaga-flowerpark-sano-yakuyoke-stay'
     }
   };
 
@@ -74,19 +74,19 @@ export default function TochigiAshikagaFlowerparkWinterPage() {
         '@type': 'ListItem',
         position: 1,
         name: 'ホーム',
-        item: 'https://croud-travel.com'
+        item: 'https://croud-travel.pages.dev'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.com/features'
+        item: 'https://croud-travel.pages.dev/features'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '栃木・あしかがフラワーパーク＆佐野厄除け大師特集',
-        item: 'https://croud-travel.com/winter-tochigi-ashikaga-flowerpark-sano-yakuyoke-stay'
+        item: 'https://croud-travel.pages.dev/winter-tochigi-ashikaga-flowerpark-sano-yakuyoke-stay'
       }
     ]
   };

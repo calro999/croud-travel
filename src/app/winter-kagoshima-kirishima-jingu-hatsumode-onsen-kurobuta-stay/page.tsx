@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月鹿児島】国宝「霧島神宮」新春初詣と湯けむり立ち上る丸尾温泉！源泉露天＆極上黒豚名宿5選",
     description: "南九州随一のパワースポットと天下の名湯に癒やされる11〜1月の冬旅ガイド。天孫降臨神話が息づく国宝「霧島神宮」の新春初詣と朱塗りの本殿。標高600〜800mの山懐に湯けむりがもうもうと立ち上る「霧島温泉郷（丸尾温泉・硫黄谷温泉）」の乳白色の源泉掛け流し露天風呂。冬に甘みと旨味が最高潮に達する本場「かごしま黒豚」のしゃぶしゃぶや黒毛和牛、きびなご、本格芋焼酎。冬の霧島連山の雄大な景観を望む厳選名宿5選を詳しくご紹介します。",
-    url: 'https://croud-travel.com/winter-kagoshima-kirishima-jingu-hatsumode-onsen-kurobuta-stay',
+    url: 'https://croud-travel.pages.dev/winter-kagoshima-kirishima-jingu-hatsumode-onsen-kurobuta-stay',
     type: 'article',
     images: [
       {
@@ -49,19 +49,19 @@ export default function KagoshimaKirishimaWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "旅クラウド編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "旅クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-kagoshima-kirishima-jingu-hatsumode-onsen-kurobuta-stay"
+          "@id": "https://croud-travel.pages.dev/winter-kagoshima-kirishima-jingu-hatsumode-onsen-kurobuta-stay"
         }
       },
       {
@@ -71,19 +71,19 @@ export default function KagoshimaKirishimaWinterPage() {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com"
+            "item": "https://croud-travel.pages.dev"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "冬の旅特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "鹿児島・国宝霧島神宮初詣＆丸尾温泉名宿",
-            "item": "https://croud-travel.com/winter-kagoshima-kirishima-jingu-hatsumode-onsen-kurobuta-stay"
+            "item": "https://croud-travel.pages.dev/winter-kagoshima-kirishima-jingu-hatsumode-onsen-kurobuta-stay"
           }
         ]
       },

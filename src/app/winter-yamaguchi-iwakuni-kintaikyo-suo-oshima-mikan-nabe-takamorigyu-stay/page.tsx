@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月山口】日本三名橋「錦帯橋」の冬景色＆白蛇神社新春初詣！冬の風物詩「周防大島みかん鍋」と幻の高森牛・銘酒獺祭の名宿5選",
     description: "冬の山口・岩国と周防大島は、水墨画のように美しい日本三名橋「錦帯橋」の雪化粧と、瀬戸内海の温暖な冬晴れが共存する魅力あふれる季節。金運・招福の守り神として名高い岩国白蛇神社の新春初詣、山頂にそびえる岩国城の展望台。11月から旬を迎える周防大島の奇跡の名物「みかん鍋（温州みかんを丸ごと浮かべた地魚鍋）」、岩国が誇る幻の最高級黒毛和牛「高森牛」のすき焼き、殿様寿司として伝わる郷土料理「岩国寿司」、そして世界を魅了する銘酒「獺祭」。歴史浪漫と名湯、冬の珍味を心ゆくまで満喫する名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-yamaguchi-iwakuni-kintaikyo-suo-oshima-mikan-nabe-takamorigyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-yamaguchi-iwakuni-kintaikyo-suo-oshima-mikan-nabe-takamorigyu-stay',
     type: 'article',
     images: [{ url: 'https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1200&q=630', width: 1200, height: 630, alt: '錦帯橋の冬景色と錦帯橋温泉・高森牛会席' }]
   },
@@ -156,9 +156,9 @@ export default function YamaguchiIwakuniSuooshimaPage() {
       {
         '@type': 'BreadcrumbList',
         'itemListElement': [
-          { '@type': 'ListItem', 'position': 1, 'name': 'ホーム', 'item': 'https://croud-travel.com' },
-          { '@type': 'ListItem', 'position': 2, 'name': '特集一覧', 'item': 'https://croud-travel.com/features' },
-          { '@type': 'ListItem', 'position': 3, 'name': '錦帯橋冬景色＆周防大島みかん鍋名宿', 'item': 'https://croud-travel.com/winter-yamaguchi-iwakuni-kintaikyo-suo-oshima-mikan-nabe-takamorigyu-stay' }
+          { '@type': 'ListItem', 'position': 1, 'name': 'ホーム', 'item': 'https://croud-travel.pages.dev' },
+          { '@type': 'ListItem', 'position': 2, 'name': '特集一覧', 'item': 'https://croud-travel.pages.dev/features' },
+          { '@type': 'ListItem', 'position': 3, 'name': '錦帯橋冬景色＆周防大島みかん鍋名宿', 'item': 'https://croud-travel.pages.dev/winter-yamaguchi-iwakuni-kintaikyo-suo-oshima-mikan-nabe-takamorigyu-stay' }
         ]
       },
       {

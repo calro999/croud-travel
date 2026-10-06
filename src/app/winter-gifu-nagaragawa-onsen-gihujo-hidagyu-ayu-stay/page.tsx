@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月岐阜・長良川温泉】金華山と岐阜城の初冬静寂・含鉄美肌の黄金赤湯と最高峰A5飛騨牛すき焼き＆冬の子持ち鮎甘露煮を愛でる名宿5選",
     description: "11月中旬から初冬の岐阜・長良川温泉は、夏の鵜飼の賑わいが去り、凛とした冬の澄んだ大気と歴史情緒が色濃く漂う大人の隠れ家へと姿を変えます。金華山の山頂にそびえる名城「岐阜城」は、初冬の青空や夕茜を背景に孤高の美しさを放ち、川面には水鏡となってその雄姿を映し出します。長良川の河畔に湧く名湯は、鉄分を極めて豊富に含み、湧出直後は無色透明でありながら空気に触れることで鮮やかな赤褐色（黄金色）へと変化する奇跡の「含鉄泉（赤湯）」。塩分と鉄分が身体を芯からポカポカと温め、冷え性や疲労を優しく解きほぐします。そして冬の膳を彩るのは、きめ細やかなサシと芳醇な香りを誇る最高峰A5ランク「飛騨牛」のすき焼きや朴葉味噌焼き、秋から冬にかけて卵をたっぷりと抱えて旨味が最高潮に達する「冬の子持ち鮎」の炭火塩焼きやじっくり煮込んだ甘露煮。古い格子戸が連なる川原町のノスタルジックな散策とともに楽しむ厳選名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-gifu-nagaragawa-onsen-gihujo-hidagyu-ayu-stay',
+    url: 'https://croud-travel.pages.dev/winter-gifu-nagaragawa-onsen-gihujo-hidagyu-ayu-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -45,23 +45,23 @@ export default function GifuNagaragawaWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-gifu-nagaragawa-onsen-gihujo-hidagyu-ayu-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-gifu-nagaragawa-onsen-gihujo-hidagyu-ayu-stay#article",
         "isPartOf": {
           "@type": "WebSite",
-          "@id": "https://croud-travel.com/#website",
+          "@id": "https://croud-travel.pages.dev/#website",
           "name": "クラドトラベル",
-          "url": "https://croud-travel.com/"
+          "url": "https://croud-travel.pages.dev/"
         },
         "headline": "【11・12月岐阜・長良川温泉】金華山と岐阜城の初冬静寂・含鉄美肌の黄金赤湯と最高峰A5飛騨牛すき焼き＆冬の子持ち鮎甘露煮を愛でる名宿5選",
         "description": "11月中旬から初冬の岐阜・長良川温泉は、夏の鵜飼の賑わいが去り、凛とした冬の澄んだ大気と歴史情緒が色濃く漂う大人の隠れ家へと姿を変えます。金華山の山頂にそびえる名城「岐阜城」は、初冬の青空や夕茜を背景に孤高の美しさを放ち、川面には水鏡となってその雄姿を映し出します。長良川の河畔に湧く名湯は、鉄分を極めて豊富に含み、湧出直後は無色透明でありながら空気に触れることで鮮やかな赤褐色（黄金色）へと変化する奇跡の「含鉄泉（赤湯）」。塩分と鉄分が身体を芯からポカポカと温め、冷え性や疲労を優しく解きほぐします。そして冬の膳を彩るのは、きめ細やかなサシと芳醇な香りを誇る最高峰A5ランク「飛騨牛」のすき焼きや朴葉味噌焼き、秋から冬にかけて卵をたっぷりと抱えて旨味が最高潮に達する「冬の子持ち鮎」の炭火塩焼きやじっくり煮込んだ甘露煮。古い格子戸が連なる川原町のノスタルジックな散策とともに楽しむ厳選名宿5選を徹底解説します。",
         "datePublished": "2026-09-30T00:00:00+09:00",
         "dateModified": "2026-09-30T00:00:00+09:00",
         "inLanguage": "ja",
-        "mainEntityOfPage": "https://croud-travel.com/winter-gifu-nagaragawa-onsen-gihujo-hidagyu-ayu-stay",
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-gifu-nagaragawa-onsen-gihujo-hidagyu-ayu-stay",
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル編集部",
-          "url": "https://croud-travel.com/"
+          "url": "https://croud-travel.pages.dev/"
         }
       },
       {

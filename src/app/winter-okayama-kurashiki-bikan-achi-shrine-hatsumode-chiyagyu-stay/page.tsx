@@ -9,12 +9,12 @@ export const metadata: Metadata = {
   description: "江戸情緒を色濃く残す白壁の蔵屋敷となまこ壁の町並み！11〜1月は柳並木の倉敷川沿いがしっとりとした静寂に包まれ、冬の夕暮れ時には風情ある町家ライトアップが幻想的な陰影を描き出します。美観地区を見守る鶴形山山頂の「阿智神社」では宗像三女神への美と健康・新春初詣と能舞台の清浄な気配。瀬戸内海の激流で育った冬旬「下津井タコ」のしゃぶしゃぶや旨味濃厚な日本最古の蔓牛「千屋牛」会席を堪能し、倉敷アイビースクエアや倉敷美観地区至近の洗練名宿5選を徹底特集。",
   keywords: '倉敷美観地区 冬, 倉敷美観地区 ライトアップ, 阿智神社 初詣, 下津井タコ, 千屋牛 ステーキ, 倉敷アイビースクエア, ドーミーイン倉敷, ロイヤルパークホテル倉敷, 岡山ばら寿司, 倉敷 冬 旅行',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-okayama-kurashiki-bikan-achi-shrine-hatsumode-chiyagyu-stay'
+    canonical: 'https://croud-travel.pages.dev/winter-okayama-kurashiki-bikan-achi-shrine-hatsumode-chiyagyu-stay'
   },
   openGraph: {
     title: "【11・12・1月岡山】白壁となまこ壁が雪景色に映える「倉敷美観地区」冬情景！倉敷総鎮守「阿智神社」新春初詣・名物下津井タコ料理＆幻の千屋牛ステーキ厳選名宿5選",
     description: "江戸情緒を色濃く残す白壁の蔵屋敷となまこ壁の町並み！11〜1月は柳並木の倉敷川沿いがしっとりとした静寂に包まれ、冬の夕暮れ時には風情ある町家ライトアップが幻想的な陰影を描き出します。美観地区を見守る鶴形山山頂の「阿智神社」では宗像三女神への美と健康・新春初詣と能舞台の清浄な気配。瀬戸内海の激流で育った冬旬「下津井タコ」のしゃぶしゃぶや旨味濃厚な日本最古の蔓牛「千屋牛」会席を堪能し、倉敷アイビースクエアや倉敷美観地区至近の洗練名宿5選を徹底特集。",
-    url: 'https://croud-travel.com/winter-okayama-kurashiki-bikan-achi-shrine-hatsumode-chiyagyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-okayama-kurashiki-bikan-achi-shrine-hatsumode-chiyagyu-stay',
     siteName: 'クラドトラベル',
     type: 'article',
     locale: 'ja_JP',
@@ -51,12 +51,12 @@ export default function OkayamaKurashikiWinterFeaturePage() {
       "name": "クラドトラベル",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://croud-travel.com/logo.png"
+        "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.com/winter-okayama-kurashiki-bikan-achi-shrine-hatsumode-chiyagyu-stay"
+      "@id": "https://croud-travel.pages.dev/winter-okayama-kurashiki-bikan-achi-shrine-hatsumode-chiyagyu-stay"
     }
   };
 
@@ -68,19 +68,19 @@ export default function OkayamaKurashikiWinterFeaturePage() {
         "@type": "ListItem",
         "position": 1,
         "name": "ホーム",
-        "item": "https://croud-travel.com/"
+        "item": "https://croud-travel.pages.dev/"
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "特集一覧",
-        "item": "https://croud-travel.com/features"
+        "item": "https://croud-travel.pages.dev/features"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "岡山・倉敷美観地区＆阿智神社 冬の初詣と下津井タコ",
-        "item": "https://croud-travel.com/winter-okayama-kurashiki-bikan-achi-shrine-hatsumode-chiyagyu-stay"
+        "item": "https://croud-travel.pages.dev/winter-okayama-kurashiki-bikan-achi-shrine-hatsumode-chiyagyu-stay"
       }
     ]
   };

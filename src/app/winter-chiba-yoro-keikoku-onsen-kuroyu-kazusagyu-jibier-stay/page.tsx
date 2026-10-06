@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月養老渓谷温泉郷】本州一遅い初冬の紅葉ライトアップと美肌黒湯天然温泉・房総かずさ和牛＆天然猪ジビエ鍋を堪能する名宿5選",
     description: "11月下旬から12月上旬にかけて「本州で最も遅い紅葉」のクライマックスを迎える千葉県・房総半島の養老渓谷温泉郷。関東の山々が冬枯れの装いを見せる中、温暖な房総の深い渓谷はモミジやカエデが燃えるような赤や黄金色に染まり、初冬の澄んだ夜空を彩る幻想的な紅葉ライトアップが旅人を魅了します。名瀑「粟又の滝」に沿って続く遊歩道では、清流のせせらぎと落葉の絨毯を踏みしめながら至福のハイキングが楽しめます。そして養老渓谷の最大の自慢が、地下深層から湧出する全国的にも珍しいコーラ色〜漆黒の「黒湯（モール泉）」。太古の植物性有機物（フミン酸）と重曹成分を豊富に含んだアルカリ性の湯は、まるで濃密な美容液に包まれているかのようなトロトロの肌触りで、角質を優しく落としてつるつるの素肌へと導きます。夕食の膳には、きめ細やかなサシと芳醇な甘みを誇るブランド牛「房総かずさ和牛」や、11月解禁の冬の恵みである滋味豊かな「天然猪肉のぼたん鍋」、外房直送の地魚舟盛りなど、初冬の房総の贅を極めた料理が並びます。小湊鐵道のノスタルジックな里山風景とともに、心身を深く解きほぐす厳選名宿5選を詳しく紹介します。",
-    url: 'https://croud-travel.com/winter-chiba-yoro-keikoku-onsen-kuroyu-kazusagyu-jibier-stay',
+    url: 'https://croud-travel.pages.dev/winter-chiba-yoro-keikoku-onsen-kuroyu-kazusagyu-jibier-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -44,23 +44,23 @@ export default function ChibaYoroKeikokuWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-chiba-yoro-keikoku-onsen-kuroyu-kazusagyu-jibier-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-chiba-yoro-keikoku-onsen-kuroyu-kazusagyu-jibier-stay#article",
         "isPartOf": {
           "@type": "WebSite",
-          "@id": "https://croud-travel.com/#website",
+          "@id": "https://croud-travel.pages.dev/#website",
           "name": "クラドトラベル",
-          "url": "https://croud-travel.com/"
+          "url": "https://croud-travel.pages.dev/"
         },
         "headline": "【11・12月養老渓谷温泉郷】本州一遅い初冬の紅葉ライトアップと美肌黒湯天然温泉・房総かずさ和牛＆天然猪ジビエ鍋を堪能する名宿5選",
         "description": "11月下旬から12月上旬にかけて「本州で最も遅い紅葉」のクライマックスを迎える千葉県・房総半島の養老渓谷温泉郷。関東の山々が冬枯れの装いを見せる中、温暖な房総の深い渓谷はモミジやカエデが燃えるような赤や黄金色に染まり、初冬の澄んだ夜空を彩る幻想的な紅葉ライトアップが旅人を魅了します。名瀑「粟又の滝」に沿って続く遊歩道では、清流のせせらぎと落葉の絨毯を踏みしめながら至福のハイキングが楽しめます。そして養老渓谷の最大の自慢が、地下深層から湧出する全国的にも珍しいコーラ色〜漆黒の「黒湯（モール泉）」。太古の植物性有機物（フミン酸）と重曹成分を豊富に含んだアルカリ性の湯は、まるで濃密な美容液に包まれているかのようなトロトロの肌触りで、角質を優しく落としてつるつるの素肌へと導きます。夕食の膳には、きめ細やかなサシと芳醇な甘みを誇るブランド牛「房総かずさ和牛」や、11月解禁の冬の恵みである滋味豊かな「天然猪肉のぼたん鍋」、外房直送の地魚舟盛りなど、初冬の房総の贅を極めた料理が並びます。小湊鐵道のノスタルジックな里山風景とともに、心身を深く解きほぐす厳選名宿5選を詳しく紹介します。",
         "datePublished": "2026-09-30T00:00:00+09:00",
         "dateModified": "2026-09-30T00:00:00+09:00",
         "inLanguage": "ja",
-        "mainEntityOfPage": "https://croud-travel.com/winter-chiba-yoro-keikoku-onsen-kuroyu-kazusagyu-jibier-stay",
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-chiba-yoro-keikoku-onsen-kuroyu-kazusagyu-jibier-stay",
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル編集部",
-          "url": "https://croud-travel.com/"
+          "url": "https://croud-travel.pages.dev/"
         }
       },
       {

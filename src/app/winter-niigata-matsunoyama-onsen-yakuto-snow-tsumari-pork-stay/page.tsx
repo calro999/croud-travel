@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月新潟・松之山温泉】日本三大薬湯の自噴化石海水と美人林の雪景色・極上妻有ポークと魚沼コシヒカリを味わう名宿5選",
     description: "11月下旬から12月にかけて、日本有数の豪雪地帯である新潟県十日町市・越後松之山の山峡は、静寂と降り積もる白銀の雪に包まれます。草津、有馬と並び「日本三大薬湯」の一つに数えられる松之山温泉は、約1200万年前の太古の海水が地殻変動によって閉じ込められ、高温高圧のマグマ熱で温められて自噴する奇跡の「ジオプレッシャー型化石海水温泉」。基準値の数十倍に達する濃厚なホウ酸と塩分を含み、肌にまとわりつくような塩化物泉は驚異的な保温・殺菌力を誇ります。樹齢約100年のブナの木々が立ち並ぶ名所「美人林」の初冬雪景色を愛でた後は、湯けむり立ち込める雪見露天風呂で心身を解放。夕餉には、新潟の銘柄豚「妻有（つまり）ポーク」の雪室熟成しゃぶしゃぶ、最高峰の魚沼産コシヒカリの炊き立て土鍋ご飯、越後が誇る銘酒の数々を味わう贅沢な時間が待っています。初冬の松之山で本物の湯治文化と美味に浸る至極の名宿5選を詳しく紹介します。",
-    url: 'https://croud-travel.com/winter-niigata-matsunoyama-onsen-yakuto-snow-tsumari-pork-stay',
+    url: 'https://croud-travel.pages.dev/winter-niigata-matsunoyama-onsen-yakuto-snow-tsumari-pork-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -51,20 +51,20 @@ export default function NiigataMatsunoyamaPage() {
     author: {
       '@type': 'Organization',
       name: 'クラドトラベル編集部',
-      url: 'https://croud-travel.com'
+      url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
       name: 'クラドトラベル',
-      url: 'https://croud-travel.com',
+      url: 'https://croud-travel.pages.dev',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://croud-travel.com/logo.png'
+        url: 'https://croud-travel.pages.dev/logo.png'
       }
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.com/winter-niigata-matsunoyama-onsen-yakuto-snow-tsumari-pork-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-niigata-matsunoyama-onsen-yakuto-snow-tsumari-pork-stay'
     }
   };
 

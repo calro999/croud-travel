@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月茨城】笠間稲荷神社新春開運初詣＆水戸偕楽園冬梅！本場濃厚あんこう鍋と極上常陸牛を味わう名宿5選",
     description: "冬の茨城・水戸＆笠間は、日本三大稲荷「笠間稲荷神社」の新春初詣と、日本三名園「偕楽園」で咲き誇る気品高き早咲き冬梅を巡る歴史と開運の旅舞台。常磐の冬の風物詩である本場濃厚あんこう鍋（どぶ汁仕立て）や茨城が誇る最高峰黒毛和牛「常陸牛」の極上すき焼き、歴史ある笠間焼の器で供される美食。澄み切った千波湖の冬景色や日本最大の藩校・弘道館の静寂に浸り、水戸駅・千波湖畔の上質空間で寛ぐ厳選名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-ibaraki-mito-kasama-inari-hatsumode-ankou-hitachigyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-ibaraki-mito-kasama-inari-hatsumode-ankou-hitachigyu-stay',
     type: 'article',
     images: [{ url: 'https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1200&q=630', width: 1200, height: 630, alt: '笠間稲荷神社と水戸偕楽園冬梅' }]
   },
@@ -155,9 +155,9 @@ export default function IbarakiMitoKasamaPage() {
       {
         '@type': 'BreadcrumbList',
         'itemListElement': [
-          { '@type': 'ListItem', 'position': 1, 'name': 'ホーム', 'item': 'https://croud-travel.com' },
-          { '@type': 'ListItem', 'position': 2, 'name': '特集一覧', 'item': 'https://croud-travel.com/features' },
-          { '@type': 'ListItem', 'position': 3, 'name': '水戸・笠間稲荷初詣と冬梅あんこう鍋名宿', 'item': 'https://croud-travel.com/winter-ibaraki-mito-kasama-inari-hatsumode-ankou-hitachigyu-stay' }
+          { '@type': 'ListItem', 'position': 1, 'name': 'ホーム', 'item': 'https://croud-travel.pages.dev' },
+          { '@type': 'ListItem', 'position': 2, 'name': '特集一覧', 'item': 'https://croud-travel.pages.dev/features' },
+          { '@type': 'ListItem', 'position': 3, 'name': '水戸・笠間稲荷初詣と冬梅あんこう鍋名宿', 'item': 'https://croud-travel.pages.dev/winter-ibaraki-mito-kasama-inari-hatsumode-ankou-hitachigyu-stay' }
         ]
       },
       {

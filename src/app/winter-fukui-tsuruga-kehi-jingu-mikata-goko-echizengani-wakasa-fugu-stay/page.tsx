@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月福井】北陸道総鎮守「氣比神宮」新春初詣と三方五湖の冬静寂！黄色タグ「越前がに」・「若狭ふぐ」極上会席＆敦賀名宿5選",
     description: "北陸新幹線敦賀開業で首都圏・関西からのアクセスが飛躍的に進化した福井・若狭路の11〜1月冬紀行。北陸道総鎮守「氣比神宮」で迎える厳粛な新春初詣、日本三大松原・気比の松原の冬景色、神秘の五色湖「三方五湖」の静寂。11月6日解禁の黄色タグ「越前がに」や極上セイコガニ、若狭湾の寒波が身を極限まで引き締める「若狭ふぐ（とらふぐ）」のてっさ・てっちり。冬の味覚の二大巨頭を味わい尽くす厳選名宿5選と旅の極意を徹底紹介。",
-    url: 'https://croud-travel.com/winter-fukui-tsuruga-kehi-jingu-mikata-goko-echizengani-wakasa-fugu-stay',
+    url: 'https://croud-travel.pages.dev/winter-fukui-tsuruga-kehi-jingu-mikata-goko-echizengani-wakasa-fugu-stay',
     type: 'article',
     images: [
       {
@@ -48,19 +48,19 @@ export default function FukuiTsurugaWinterPage() {
     "author": {
       "@type": "Organization",
       "name": "旅宿クラウド 編集部",
-      "url": "https://croud-travel.com"
+      "url": "https://croud-travel.pages.dev"
     },
     "publisher": {
       "@type": "Organization",
       "name": "旅宿クラウド",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://croud-travel.com/logo.png"
+        "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.com/winter-fukui-tsuruga-kehi-jingu-mikata-goko-echizengani-wakasa-fugu-stay"
+      "@id": "https://croud-travel.pages.dev/winter-fukui-tsuruga-kehi-jingu-mikata-goko-echizengani-wakasa-fugu-stay"
     }
   };
 
@@ -72,19 +72,19 @@ export default function FukuiTsurugaWinterPage() {
         "@type": "ListItem",
         "position": 1,
         "name": "ホーム",
-        "item": "https://croud-travel.com"
+        "item": "https://croud-travel.pages.dev"
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "特集一覧",
-        "item": "https://croud-travel.com/features"
+        "item": "https://croud-travel.pages.dev/features"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "福井・敦賀＆若狭 冬特集",
-        "item": "https://croud-travel.com/winter-fukui-tsuruga-kehi-jingu-mikata-goko-echizengani-wakasa-fugu-stay"
+        "item": "https://croud-travel.pages.dev/winter-fukui-tsuruga-kehi-jingu-mikata-goko-echizengani-wakasa-fugu-stay"
       }
     ]
   };
@@ -711,7 +711,7 @@ export default function FukuiTsurugaWinterPage() {
 
       {/* Footer */}
       <footer className="bg-slate-900 text-slate-400 py-10 px-4 text-center text-xs border-t border-slate-800 mt-16">
-        <p>© 2026 旅宿クラウド (croud-travel.com). All rights reserved.</p>
+        <p>© 2026 旅宿クラウド (croud-travel.pages.dev). All rights reserved.</p>
         <p className="mt-2 text-slate-500">掲載の宿泊料金や施設情報は楽天トラベルAPIより取得した参考データです。最新のプラン内容は各宿泊施設ページをご確認ください。</p>
       </footer>
     </article>

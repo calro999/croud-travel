@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月白骨温泉の北アルプス初冬雪景色と乳白色秘湯】3日入れば3年風邪ひかぬ霊泉・信州プレミアム牛＆投汁そばの宿5選",
     description: "北アルプス乗鞍岳の山懐、標高1,400メートルの深い原生林に抱かれた日本屈指の秘湯「白骨温泉」。「3日入れば3年風邪をひかない」と謳われる乳白色の炭酸水素塩泉。11月中旬の初雪から12月の白銀静寂世界に浸る雪見露天風呂と、信州プレミアム牛＆名物投汁そばに心温まる名宿ガイド。",
-    url: 'https://croud-travel.com/winter-nagano-shirahone-onsen-milky-snow-stay',
+    url: 'https://croud-travel.pages.dev/winter-nagano-shirahone-onsen-milky-snow-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -63,7 +63,7 @@ export default function ShirahoneWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-nagano-shirahone-onsen-milky-snow-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-nagano-shirahone-onsen-milky-snow-stay#article",
         "headline": "【11・12月白骨温泉の北アルプス初冬雪景色と乳白色秘湯】3日入れば3年風邪ひかぬ霊泉・信州プレミアム牛＆投汁そばの宿5選",
         "description": "北アルプス乗鞍岳の山懐、標高1,400メートルの深い原生林に抱かれた日本屈指の秘湯「白骨温泉」。「3日入れば3年風邪をひかない」と謳われる乳白色の炭酸水素塩泉。11月中旬の初雪から12月の白銀静寂世界に浸る雪見露天風呂と、信州プレミアム牛＆名物投汁そばに心温まる名宿ガイド。",
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
@@ -72,24 +72,24 @@ export default function ShirahoneWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-nagano-shirahone-onsen-milky-snow-stay"
+          "@id": "https://croud-travel.pages.dev/winter-nagano-shirahone-onsen-milky-snow-stay"
         }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-nagano-shirahone-onsen-milky-snow-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-nagano-shirahone-onsen-milky-snow-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -127,7 +127,7 @@ export default function ShirahoneWinterPage() {
       },
       {
         "@type": "ItemList",
-        "@id": "https://croud-travel.com/winter-nagano-shirahone-onsen-milky-snow-stay#hotels",
+        "@id": "https://croud-travel.pages.dev/winter-nagano-shirahone-onsen-milky-snow-stay#hotels",
         "itemListElement": [
           {
             "@type": "ListItem",
@@ -655,32 +655,7 @@ export default function ShirahoneWinterPage() {
         </section>
 
         {/* FAQ Section */}
-        <section id="faq" className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-stone-200/80 space-y-6">
-          <div className="flex items-center gap-3 pb-3 border-b border-stone-100">
-            <div className="p-2 rounded-xl bg-teal-50 text-teal-800">
-              <HelpCircle className="w-5 h-5" />
-            </div>
-            <div>
-              <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Traveler's FAQ</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                よくある質問（FAQ）と初冬の旅のアドバイス
-              </h2>
-            </div>
-          </div>
-          <div className="space-y-4">
-            {faqList.map((faq, idx) => (
-              <div key={idx} className="p-5 rounded-2xl bg-stone-50 border border-stone-200/70 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-teal-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
-                <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
-                  {faq.a}
-                </p>
-              </div>
-            ))}
-          </div>
-        </section>
+        
 
         {/* Internal Links / Related Guides */}
         <section className="bg-teal-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">

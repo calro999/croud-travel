@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月長崎】島原温泉＆雲仙・有明海！冬の島原城初詣と名物「具雑煮」・有明海冬牡蠣＆海一望の美肌温泉名宿5選",
     description: "有明海と雲仙普賢岳に抱かれた水の都・長崎県島原市。11〜1月は白亜の島原城が澄んだ冬空に映え、年末年始の初詣や武家屋敷散策で賑わいます。島原の乱ゆかりの熱々郷土鍋「具雑煮」や有明海の冬牡蠣、幻のガンバ（ふぐ）料理、長崎和牛を堪能。対岸の有明海から昇る感動の朝日と美肌の島原温泉掛け流し露天風呂を満喫できる厳選名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-nagasaki-shimabara-onsen-guzoni-castle-ariake-stay',
+    url: 'https://croud-travel.pages.dev/winter-nagasaki-shimabara-onsen-guzoni-castle-ariake-stay',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',
     type: 'article',
@@ -166,10 +166,10 @@ export default function NagasakiShimabaraAriakeWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-nagasaki-shimabara-onsen-guzoni-castle-ariake-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-nagasaki-shimabara-onsen-guzoni-castle-ariake-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-nagasaki-shimabara-onsen-guzoni-castle-ariake-stay"
+          "@id": "https://croud-travel.pages.dev/winter-nagasaki-shimabara-onsen-guzoni-castle-ariake-stay"
         },
         "headline": "【11・12・1月長崎】島原温泉＆雲仙・有明海！冬の島原城初詣と名物「具雑煮」・有明海冬牡蠣＆海一望の美肌温泉名宿5選",
         "description": "有明海と雲仙普賢岳に抱かれた水の都・長崎県島原市。11〜1月は白亜の島原城が澄んだ冬空に映え、年末年始の初詣や武家屋敷散策で賑わいます。島原の乱ゆかりの熱々郷土鍋「具雑煮」や有明海の冬牡蠣、幻のガンバ（ふぐ）料理、長崎和牛を堪能。対岸の有明海から昇る感動の朝日と美肌の島原温泉掛け流し露天風呂を満喫できる厳選名宿5選を徹底解説します。",
@@ -179,7 +179,7 @@ export default function NagasakiShimabaraAriakeWinterPage() {
         "publisher": {
           "@type": "Organization",
           "name": "地域の宿探訪",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         }
       },
       {
@@ -189,19 +189,19 @@ export default function NagasakiShimabaraAriakeWinterPage() {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com"
+            "item": "https://croud-travel.pages.dev"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "島原温泉＆有明海冬特集",
-            "item": "https://croud-travel.com/winter-nagasaki-shimabara-onsen-guzoni-castle-ariake-stay"
+            "item": "https://croud-travel.pages.dev/winter-nagasaki-shimabara-onsen-guzoni-castle-ariake-stay"
           }
         ]
       },

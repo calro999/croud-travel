@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月兵庫・香住温泉の初冬日本海と最高峰ブランド蟹】本場柴山ガニ＆香住松葉ガニ・但馬牛ステーキ＆海辺露天の宿5選",
     description: "11月6日のカニ漁解禁を迎えると、兵庫県但馬地方の日本海に面した香住海岸（香住港・柴山港）は、一年で最も活気あふれる松葉ガニの最高峰シーズンを迎えます。厳しい選別基準で「ピンクタグ」が付けられるブランド蟹の頂点「柴山がに」、香住港に水揚げされる新鮮な「香住松葉がに」、濃厚な内子と外子を味わう親ガニ「セコガニ」、そして最高峰黒毛和牛「但馬牛」の贅沢な饗宴。海辺に湧く塩化物温泉で潮風を感じながら身体の芯まで温まり、荒波打ち寄せる山陰海岸ジオパークの雄大な冬景色と極上のカニフルコースを満喫する至高の宿5選を徹底解説。",
-    url: 'https://croud-travel.com/winter-hyogo-kasumi-onsen-shibayama-crab-matsuba-stay',
+    url: 'https://croud-travel.pages.dev/winter-hyogo-kasumi-onsen-shibayama-crab-matsuba-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -62,10 +62,10 @@ export default function KasumiOnsenWinterFeature() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-hyogo-kasumi-onsen-shibayama-crab-matsuba-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-hyogo-kasumi-onsen-shibayama-crab-matsuba-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-hyogo-kasumi-onsen-shibayama-crab-matsuba-stay"
+          "@id": "https://croud-travel.pages.dev/winter-hyogo-kasumi-onsen-shibayama-crab-matsuba-stay"
         },
         "headline": "【11・12月兵庫・香住温泉の初冬日本海と最高峰ブランド蟹】本場柴山ガニ＆香住松葉ガニ・但馬牛ステーキ＆海辺露天の宿5選",
         "description": "11月6日のカニ漁解禁を迎えると、兵庫県但馬地方の日本海に面した香住海岸（香住港・柴山港）は、一年で最も活気あふれる松葉ガニの最高峰シーズンを迎えます。厳しい選別基準で「ピンクタグ」が付けられるブランド蟹の頂点「柴山がに」、香住港に水揚げされる新鮮な「香住松葉がに」、濃厚な内子と外子を味わう親ガニ「セコガニ」、そして最高峰黒毛和牛「但馬牛」の贅沢な饗宴。海辺に湧く塩化物温泉で潮風を感じながら身体の芯まで温まり、荒波打ち寄せる山陰海岸ジオパークの雄大な冬景色と極上のカニフルコースを満喫する至高の宿5選を徹底解説。",
@@ -77,7 +77,7 @@ export default function KasumiOnsenWinterFeature() {
           "name": "Croud Travel",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "author": {
@@ -88,31 +88,31 @@ export default function KasumiOnsenWinterFeature() {
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://croud-travel.com/winter-hyogo-kasumi-onsen-shibayama-crab-matsuba-stay#breadcrumb",
+        "@id": "https://croud-travel.pages.dev/winter-hyogo-kasumi-onsen-shibayama-crab-matsuba-stay#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com/"
+            "item": "https://croud-travel.pages.dev/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "兵庫・香住温泉 最高峰柴山ガニと松葉ガニの宿",
-            "item": "https://croud-travel.com/winter-hyogo-kasumi-onsen-shibayama-crab-matsuba-stay"
+            "item": "https://croud-travel.pages.dev/winter-hyogo-kasumi-onsen-shibayama-crab-matsuba-stay"
           }
         ]
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-hyogo-kasumi-onsen-shibayama-crab-matsuba-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-hyogo-kasumi-onsen-shibayama-crab-matsuba-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",

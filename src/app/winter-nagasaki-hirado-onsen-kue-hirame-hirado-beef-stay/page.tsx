@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月長崎・平戸温泉郷の初冬黒潮絶景と天然クエ＆寒ヒラメ】幻の高級魚クエ鍋＆特選平戸和牛会席を堪能する城下町名宿5選",
     description: "11月から12月にかけて、長崎県北西端に浮かぶ歴史と異国情緒の島・平戸温泉郷は、日本屈指の激流「平戸瀬戸」で身が引き締まった冬の味覚の王様「天然クエ（アラ）」と「寒ヒラメ」が最盛期を迎えます。日本初の西洋貿易港として栄えたオランダ商館跡やカトリック教会、青い海を見下ろす平戸城の歴史散策を楽しみ、夜は美肌効果抜群のナトリウム炭酸水素塩泉に浸かりながら満天の星と漁火を眺める至福の時間。とろける脂が絶品の幻の高級魚クエ鍋、透き通るヒラメの姿造り、そして全国のブランド牛のルーツとも称される特選平戸和牛の陶板ステーキを味わう厳選名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-nagasaki-hirado-onsen-kue-hirame-hirado-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-nagasaki-hirado-onsen-kue-hirame-hirado-beef-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -160,28 +160,28 @@ export default function WinterNagasakiHiradoPage() {
     '@graph': [
       {
         '@type': 'Article',
-        '@id': 'https://croud-travel.com/winter-nagasaki-hirado-onsen-kue-hirame-hirado-beef-stay#article',
+        '@id': 'https://croud-travel.pages.dev/winter-nagasaki-hirado-onsen-kue-hirame-hirado-beef-stay#article',
         'isPartOf': {
           '@type': 'WebSite',
-          '@id': 'https://croud-travel.com/#website',
+          '@id': 'https://croud-travel.pages.dev/#website',
           'name': 'クラドトラベル',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         },
         'headline': "【11・12月長崎・平戸温泉郷の初冬黒潮絶景と天然クエ＆寒ヒラメ】幻の高級魚クエ鍋＆特選平戸和牛会席を堪能する城下町名宿5選",
         'description': "11月から12月にかけて、長崎県北西端に浮かぶ歴史と異国情緒の島・平戸温泉郷は、日本屈指の激流「平戸瀬戸」で身が引き締まった冬の味覚の王様「天然クエ（アラ）」と「寒ヒラメ」が最盛期を迎えます。日本初の西洋貿易港として栄えたオランダ商館跡やカトリック教会、青い海を見下ろす平戸城の歴史散策を楽しみ、夜は美肌効果抜群のナトリウム炭酸水素塩泉に浸かりながら満天の星と漁火を眺める至福の時間。とろける脂が絶品の幻の高級魚クエ鍋、透き通るヒラメの姿造り、そして全国のブランド牛のルーツとも称される特選平戸和牛の陶板ステーキを味わう厳選名宿5選を徹底解説します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.com/winter-nagasaki-hirado-onsen-kue-hirame-hirado-beef-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-nagasaki-hirado-onsen-kue-hirame-hirado-beef-stay',
         'datePublished': '2026-09-28T00:00:00+09:00',
         'dateModified': '2026-09-28T00:00:00+09:00',
         'publisher': {
           '@type': 'Organization',
           'name': 'クラドトラベル編集部',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         }
       },
       {
         '@type': 'FAQPage',
-        '@id': 'https://croud-travel.com/winter-nagasaki-hirado-onsen-kue-hirame-hirado-beef-stay#faq',
+        '@id': 'https://croud-travel.pages.dev/winter-nagasaki-hirado-onsen-kue-hirame-hirado-beef-stay#faq',
         'mainEntity': faqList.map((f) => ({
           '@type': 'Question',
           'name': f.q,

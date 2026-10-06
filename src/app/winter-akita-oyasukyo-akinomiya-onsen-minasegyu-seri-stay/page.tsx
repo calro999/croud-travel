@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月小安峡・秋の宮温泉】白い湯煙の大噴湯と渓谷初雪・秋田最古の湯・極上皆瀬牛ステーキ＆本場三関せり鍋・稲庭うどん名宿5選",
     description: "11月中旬から12月の初冬を迎えた秋田県湯沢市の奥羽山脈の懐、小安峡温泉（おやすきょうおんせん）と秋の宮温泉郷（あきのみやおんせんきょう）は、山肌が純白の雪をまとい、澄み渡る冷気の中に轟音とともに純白の蒸気が立ちのぼる格別の秘湯シーズンを迎えます。皆瀬川の浸食によってできた落差約60mのV字渓谷「小安峡大噴湯」は、岩壁の裂け目から98℃の温泉蒸気が勢いよく吹き出す地球の鼓動を感じる絶景。初雪と岩肌に下がる氷柱（つらら）、立ちのぼる白煙の対比は冬ならではの圧巻の美しさです。さらに役内川沿いに広がる秋の宮温泉郷は、開湯から約1200年を誇る秋田県内最古の温泉地で、武者小路実篤をはじめ多くの文人が逗留した静寂の里。夕食には地元・皆瀬で丹精込めて肥育された幻の黒毛和牛「皆瀬牛」のステーキ、根っこが白く甘みたっぷりの湯沢名物「三関セリ」と比内地鶏の極上せり鍋、そして日本三大うどん「手綯い本場稲庭うどん」が並びます。初冬の秋田の贅を心ゆくまで堪能できる厳選5宿をご紹介します。",
-    url: 'https://croud-travel.com/winter-akita-oyasukyo-akinomiya-onsen-minasegyu-seri-stay',
+    url: 'https://croud-travel.pages.dev/winter-akita-oyasukyo-akinomiya-onsen-minasegyu-seri-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -44,23 +44,23 @@ export default function AkitaOyasukyoAkinomiyaWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-akita-oyasukyo-akinomiya-onsen-minasegyu-seri-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-akita-oyasukyo-akinomiya-onsen-minasegyu-seri-stay#article",
         "isPartOf": {
           "@type": "WebSite",
-          "@id": "https://croud-travel.com/#website",
+          "@id": "https://croud-travel.pages.dev/#website",
           "name": "クラドトラベル",
-          "url": "https://croud-travel.com/"
+          "url": "https://croud-travel.pages.dev/"
         },
         "headline": "【11・12月小安峡・秋の宮温泉】白い湯煙の大噴湯と渓谷初雪・秋田最古の湯・極上皆瀬牛ステーキ＆本場三関せり鍋・稲庭うどん名宿5選",
         "description": "11月中旬から12月の初冬を迎えた秋田県湯沢市の奥羽山脈の懐、小安峡温泉（おやすきょうおんせん）と秋の宮温泉郷（あきのみやおんせんきょう）は、山肌が純白の雪をまとい、澄み渡る冷気の中に轟音とともに純白の蒸気が立ちのぼる格別の秘湯シーズンを迎えます。皆瀬川の浸食によってできた落差約60mのV字渓谷「小安峡大噴湯」は、岩壁の裂け目から98℃の温泉蒸気が勢いよく吹き出す地球の鼓動を感じる絶景。初雪と岩肌に下がる氷柱（つらら）、立ちのぼる白煙の対比は冬ならではの圧巻の美しさです。さらに役内川沿いに広がる秋の宮温泉郷は、開湯から約1200年を誇る秋田県内最古の温泉地で、武者小路実篤をはじめ多くの文人が逗留した静寂の里。夕食には地元・皆瀬で丹精込めて肥育された幻の黒毛和牛「皆瀬牛」のステーキ、根っこが白く甘みたっぷりの湯沢名物「三関セリ」と比内地鶏の極上せり鍋、そして日本三大うどん「手綯い本場稲庭うどん」が並びます。初冬の秋田の贅を心ゆくまで堪能できる厳選5宿をご紹介します。",
         "datePublished": "2026-09-30T00:00:00+09:00",
         "dateModified": "2026-09-30T00:00:00+09:00",
         "inLanguage": "ja",
-        "mainEntityOfPage": "https://croud-travel.com/winter-akita-oyasukyo-akinomiya-onsen-minasegyu-seri-stay",
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-akita-oyasukyo-akinomiya-onsen-minasegyu-seri-stay",
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル編集部",
-          "url": "https://croud-travel.com/"
+          "url": "https://croud-travel.pages.dev/"
         }
       },
       {

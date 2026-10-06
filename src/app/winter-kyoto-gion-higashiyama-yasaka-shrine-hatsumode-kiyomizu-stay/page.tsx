@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月京都】八坂神社新春初詣＆雪の清水寺！冬の祇園白川の風情と老舗湯豆腐・京懐石の雅宿5選",
     description: "冬の京都・東山は、観光の喧騒が落ち着き古都本来の静寂と雅な旅情が広がる特別な季節。大晦日の「をけら詣り」から新春の活気に包まれる八坂神社、雪化粧をまとう清水寺の舞台、格子戸が連なる祇園白川の石畳。冷えた体を芯から温める老舗の熱々湯豆腐や白味噌雑煮、繊細な冬の京懐石まで。楽天APIから最新取得したホテル ザ セレスティン京都祇園、ウェスティン都ホテル京都など厳選雅宿5選を徹底特集します。",
-    url: 'https://croud-travel.com/winter-kyoto-gion-higashiyama-yasaka-shrine-hatsumode-kiyomizu-stay',
+    url: 'https://croud-travel.pages.dev/winter-kyoto-gion-higashiyama-yasaka-shrine-hatsumode-kiyomizu-stay',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',
     type: 'article',
@@ -162,10 +162,10 @@ export default function KyotoGionHigashiyamaWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-kyoto-gion-higashiyama-yasaka-shrine-hatsumode-kiyomizu-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-kyoto-gion-higashiyama-yasaka-shrine-hatsumode-kiyomizu-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-kyoto-gion-higashiyama-yasaka-shrine-hatsumode-kiyomizu-stay"
+          "@id": "https://croud-travel.pages.dev/winter-kyoto-gion-higashiyama-yasaka-shrine-hatsumode-kiyomizu-stay"
         },
         "headline": "【11・12・1月京都】八坂神社新春初詣＆雪の清水寺！冬の祇園白川の風情と老舗湯豆腐・京懐石の雅宿5選",
         "description": "冬の京都・東山は、観光の喧騒が落ち着き古都本来の静寂と雅な旅情が広がる特別な季節。大晦日の「をけら詣り」から新春の活気に包まれる八坂神社、雪化粧をまとう清水寺の舞台、格子戸が連なる祇園白川の石畳。冷えた体を芯から温める老舗の熱々湯豆腐や白味噌雑煮、繊細な冬の京懐石まで。楽天APIから最新取得したホテル ザ セレスティン京都祇園、ウェスティン都ホテル京都など厳選雅宿5選を徹底特集します。",
@@ -175,7 +175,7 @@ export default function KyotoGionHigashiyamaWinterPage() {
         "publisher": {
           "@type": "Organization",
           "name": "地域の宿探訪",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         }
       },
       {
@@ -185,19 +185,19 @@ export default function KyotoGionHigashiyamaWinterPage() {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com"
+            "item": "https://croud-travel.pages.dev"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "京都・祇園東山 冬特集",
-            "item": "https://croud-travel.com/winter-kyoto-gion-higashiyama-yasaka-shrine-hatsumode-kiyomizu-stay"
+            "item": "https://croud-travel.pages.dev/winter-kyoto-gion-higashiyama-yasaka-shrine-hatsumode-kiyomizu-stay"
           }
         ]
       },

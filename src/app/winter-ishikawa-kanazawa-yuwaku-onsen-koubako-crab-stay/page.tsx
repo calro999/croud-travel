@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月金沢】兼六園の雪吊り冬景色と奥金沢「湯涌温泉」の秘湯情緒・冬限定香箱ガニ＆加能ガニ・金沢おでん・治部煮を味わう名宿5選",
     description: "11月から1月、古都・金沢は日本三名園「兼六園」の雪吊りと白銀の金沢城、ひがし茶屋街の格子窓に舞い散る雪が息を呑む情緒を醸し出す最高の冬旅シーズンを迎えます。金沢人が一年で最も熱狂する11月6日解禁の冬の味覚、わずか2ヶ月弱しか味わえない幻の「香箱ガニ（こうばこがに）」の内子・外子の濃厚な旨味、身入りの良い「加能ガニ」、伝統の郷土料理「治部煮」や温かい「金沢おでん」。金沢市街から車でわずか20分、加賀藩主の前田家歴代が湯治に訪れ、大正の詩人画家・竹久夢二も愛した奥金沢の秘湯「湯涌温泉（ゆわくおんせん）」の雪見露天風呂と極上加賀料理を堪能できる厳選5宿を紹介します。",
-    url: 'https://croud-travel.com/winter-ishikawa-kanazawa-yuwaku-onsen-koubako-crab-stay',
+    url: 'https://croud-travel.pages.dev/winter-ishikawa-kanazawa-yuwaku-onsen-koubako-crab-stay',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -50,19 +50,19 @@ export default function IshikawaKanazawaYuwakuWinterPage() {
     author: {
       '@type': 'Organization',
       name: 'クラドトラベル編集部',
-      url: 'https://croud-travel.com'
+      url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
       name: 'クラドトラベル',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://croud-travel.com/logo.png'
+        url: 'https://croud-travel.pages.dev/logo.png'
       }
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.com/winter-ishikawa-kanazawa-yuwaku-onsen-koubako-crab-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-ishikawa-kanazawa-yuwaku-onsen-koubako-crab-stay'
     }
   };
 
@@ -74,19 +74,19 @@ export default function IshikawaKanazawaYuwakuWinterPage() {
         '@type': 'ListItem',
         position: 1,
         name: 'ホーム',
-        item: 'https://croud-travel.com'
+        item: 'https://croud-travel.pages.dev'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.com/features'
+        item: 'https://croud-travel.pages.dev/features'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '金沢兼六園雪吊りと湯涌温泉香箱ガニ名宿',
-        item: 'https://croud-travel.com/winter-ishikawa-kanazawa-yuwaku-onsen-koubako-crab-stay'
+        item: 'https://croud-travel.pages.dev/winter-ishikawa-kanazawa-yuwaku-onsen-koubako-crab-stay'
       }
     ]
   };

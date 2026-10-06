@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月滋賀・おごと温泉の初冬びわ湖景観と開湯千二百年美肌霊泉】比叡山初雪・特選近江牛＆冬限定真鴨鍋会席の宿5選",
     description: "11月から12月にかけて、京都駅からJR湖西線でわずか20分という好立地にありながら、雄大な琵琶湖の湖畔に静かに佇む「おごと温泉（雄琴温泉）」。平安時代初頭、比叡山延暦寺を開いた伝教大師・最澄によって開湯されたと伝わる歴史ある古湯は、pH9.0を誇る高アルカリ性単純温泉で、肌の角質をやさしく落としてしっとり潤す「美肌の湯」として名高い名泉です。初冬には比叡山の峰々が初冠雪の白をまとい、朝夕の琵琶湖は澄み切った水面が神秘的な茜色に染まります。夕食には日本三大和牛「近江牛」のとろける霜降りステーキやすき焼き、そして冬の琵琶湖の風物詩である天然真鴨の「鴨鍋」を味わう厳選名旅館5選を徹底解説。",
-    url: 'https://croud-travel.com/winter-shiga-ogoto-onsen-biwako-omigyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-shiga-ogoto-onsen-biwako-omigyu-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -62,10 +62,10 @@ export default function ShigaOgotoWinterFeature() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-shiga-ogoto-onsen-biwako-omigyu-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-shiga-ogoto-onsen-biwako-omigyu-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-shiga-ogoto-onsen-biwako-omigyu-stay"
+          "@id": "https://croud-travel.pages.dev/winter-shiga-ogoto-onsen-biwako-omigyu-stay"
         },
         "headline": "【11・12月滋賀・おごと温泉の初冬びわ湖景観と開湯千二百年美肌霊泉】比叡山初雪・特選近江牛＆冬限定真鴨鍋会席の宿5選",
         "description": "11月から12月にかけて、京都駅からJR湖西線でわずか20分という好立地にありながら、雄大な琵琶湖の湖畔に静かに佇む「おごと温泉（雄琴温泉）」。平安時代初頭、比叡山延暦寺を開いた伝教大師・最澄によって開湯されたと伝わる歴史ある古湯は、pH9.0を誇る高アルカリ性単純温泉で、肌の角質をやさしく落としてしっとり潤す「美肌の湯」として名高い名泉です。初冬には比叡山の峰々が初冠雪の白をまとい、朝夕の琵琶湖は澄み切った水面が神秘的な茜色に染まります。夕食には日本三大和牛「近江牛」のとろける霜降りステーキやすき焼き、そして冬の琵琶湖の風物詩である天然真鴨の「鴨鍋」を味わう厳選名旅館5選を徹底解説。",
@@ -77,7 +77,7 @@ export default function ShigaOgotoWinterFeature() {
           "name": "Croud Travel",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "author": {
@@ -88,31 +88,31 @@ export default function ShigaOgotoWinterFeature() {
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://croud-travel.com/winter-shiga-ogoto-onsen-biwako-omigyu-stay#breadcrumb",
+        "@id": "https://croud-travel.pages.dev/winter-shiga-ogoto-onsen-biwako-omigyu-stay#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com/"
+            "item": "https://croud-travel.pages.dev/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "滋賀・おごと温泉 初冬びわ湖景観と開湯1200年美肌霊泉・近江牛の宿",
-            "item": "https://croud-travel.com/winter-shiga-ogoto-onsen-biwako-omigyu-stay"
+            "item": "https://croud-travel.pages.dev/winter-shiga-ogoto-onsen-biwako-omigyu-stay"
           }
         ]
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-shiga-ogoto-onsen-biwako-omigyu-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-shiga-ogoto-onsen-biwako-omigyu-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",

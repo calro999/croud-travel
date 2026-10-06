@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月三重・志摩賢島温泉の英虞湾夕日と冬の伊勢志摩美食】本場伊勢海老＆幻のあのりふぐ・極上松阪牛・真珠の海を望む絶景宿5選",
     description: "11月から12月にかけて、伊勢志摩国立公園の真珠の海「英虞湾（あごわん）」に浮かぶ賢島（かしこじま）周辺は、澄み渡る初冬の青空の下、無数の真珠養殖筏が織りなすリアス海岸が夕陽に黄金色へと染まり、1年で最もドラマチックな美しさを放ちます。G7伊勢志摩サミットの舞台となった世界的名門ホテルをはじめ、海を一望する絶景温泉旅館が立ち並ぶ賢島温泉。10月に解禁され冬に甘みとプリプリの食感が極まる「伊勢海老」の姿造りや鬼殻焼き、志摩半島安乗沖で獲れる天然トラフグの最高峰「あのりふぐ」、クリーミーな「的矢かき」、世界の美食家を唸らせる極上の「松阪牛」。英虞湾の穏やかな波音と満天の星空に抱かれ、至高の美味と名湯に酔いしれる厳選宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-mie-shima-kashikojima-onsen-iseebi-anorifugu-matsusaka-stay',
+    url: 'https://croud-travel.pages.dev/winter-mie-shima-kashikojima-onsen-iseebi-anorifugu-matsusaka-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -166,28 +166,28 @@ export default function WinterMieKashikojimaPage() {
     '@graph': [
       {
         '@type': 'Article',
-        '@id': 'https://croud-travel.com/winter-mie-shima-kashikojima-onsen-iseebi-anorifugu-matsusaka-stay#article',
+        '@id': 'https://croud-travel.pages.dev/winter-mie-shima-kashikojima-onsen-iseebi-anorifugu-matsusaka-stay#article',
         'isPartOf': {
           '@type': 'WebSite',
-          '@id': 'https://croud-travel.com/#website',
+          '@id': 'https://croud-travel.pages.dev/#website',
           'name': 'クラドトラベル',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         },
         'headline': "【11・12月三重・志摩賢島温泉の英虞湾夕日と冬の伊勢志摩美食】本場伊勢海老＆幻のあのりふぐ・極上松阪牛・真珠の海を望む絶景宿5選",
         'description': "11月から12月にかけて、伊勢志摩国立公園の真珠の海「英虞湾（あごわん）」に浮かぶ賢島（かしこじま）周辺は、澄み渡る初冬の青空の下、無数の真珠養殖筏が織りなすリアス海岸が夕陽に黄金色へと染まり、1年で最もドラマチックな美しさを放ちます。G7伊勢志摩サミットの舞台となった世界的名門ホテルをはじめ、海を一望する絶景温泉旅館が立ち並ぶ賢島温泉。10月に解禁され冬に甘みとプリプリの食感が極まる「伊勢海老」の姿造りや鬼殻焼き、志摩半島安乗沖で獲れる天然トラフグの最高峰「あのりふぐ」、クリーミーな「的矢かき」、世界の美食家を唸らせる極上の「松阪牛」。英虞湾の穏やかな波音と満天の星空に抱かれ、至高の美味と名湯に酔いしれる厳選宿5選を徹底解説します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.com/winter-mie-shima-kashikojima-onsen-iseebi-anorifugu-matsusaka-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-mie-shima-kashikojima-onsen-iseebi-anorifugu-matsusaka-stay',
         'datePublished': '2026-09-29T00:00:00+09:00',
         'dateModified': '2026-09-29T00:00:00+09:00',
         'publisher': {
           '@type': 'Organization',
           'name': 'クラドトラベル編集部',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         }
       },
       {
         '@type': 'TouristDestination',
-        '@id': 'https://croud-travel.com/winter-mie-shima-kashikojima-onsen-iseebi-anorifugu-matsusaka-stay#destination',
+        '@id': 'https://croud-travel.pages.dev/winter-mie-shima-kashikojima-onsen-iseebi-anorifugu-matsusaka-stay#destination',
         'name': '三重・志摩賢島温泉（英虞湾）',
         'description': '伊勢志摩国立公園・英虞湾に浮かぶ真珠の島。夕日百選のリアス海岸絶景と伊勢海老、あのりふぐ、的矢かき、松阪牛が魅力。',
         'geo': {
@@ -198,7 +198,7 @@ export default function WinterMieKashikojimaPage() {
       },
       {
         '@type': 'FAQPage',
-        '@id': 'https://croud-travel.com/winter-mie-shima-kashikojima-onsen-iseebi-anorifugu-matsusaka-stay#faq',
+        '@id': 'https://croud-travel.pages.dev/winter-mie-shima-kashikojima-onsen-iseebi-anorifugu-matsusaka-stay#faq',
         'mainEntity': faqList.map((f) => ({
           '@type': 'Question',
           'name': f.q,
@@ -210,7 +210,7 @@ export default function WinterMieKashikojimaPage() {
       },
       {
         '@type': 'ItemList',
-        '@id': 'https://croud-travel.com/winter-mie-shima-kashikojima-onsen-iseebi-anorifugu-matsusaka-stay#hotellist',
+        '@id': 'https://croud-travel.pages.dev/winter-mie-shima-kashikojima-onsen-iseebi-anorifugu-matsusaka-stay#hotellist',
         'name': '三重志摩賢島温泉のおすすめ名宿5選',
         'itemListElement': hotels.map((h, idx) => ({
           '@type': 'ListItem',

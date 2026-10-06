@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月越前三国温泉の解禁越前がにと東尋坊冬絶景】日本海パノラマ露天風呂・本場越前蟹フルコース＆若狭牛会席の宿5選",
     description: "11月6日のズワイガニ漁解禁とともに、福井県・三国港は全国の美食家が押し寄せる「越前がに」の最高潮シーズンを迎えます。三国港で水揚げされ黄色いタグが付けられた越前がには、皇室献上ガニとしても名高い冬の日本海の至宝。冬の荒波が打ち寄せる奇岩・東尋坊のダイナミックな景観、日本海に沈む夕日と水平線を望む三国温泉の展望露天風呂、職人が絶妙な塩加減で茹で上げる本場越前がに、花咲くカニ刺し、甲羅焼き味噌、福井の銘柄牛「若狭牛」のステーキを味わう、冬の贅を尽くした海辺の名宿5選を徹底解説。",
-    url: 'https://croud-travel.com/winter-fukui-mikuni-onsen-echizen-crab-tojinbo-stay',
+    url: 'https://croud-travel.pages.dev/winter-fukui-mikuni-onsen-echizen-crab-tojinbo-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -68,7 +68,7 @@ export default function FukuiMikuniWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-fukui-mikuni-onsen-echizen-crab-tojinbo-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-fukui-mikuni-onsen-echizen-crab-tojinbo-stay#article",
         "headline": "【11・12月越前三国温泉の解禁越前がにと東尋坊冬絶景】日本海パノラマ露天風呂・本場越前蟹フルコース＆若狭牛会席の宿5選",
         "description": "11月6日のズワイガニ漁解禁とともに、福井県・三国港は全国の美食家が押し寄せる「越前がに」の最高潮シーズンを迎えます。三国港で水揚げされ黄色いタグが付けられた越前がには、皇室献上ガニとしても名高い冬の日本海の至宝。冬の荒波が打ち寄せる奇岩・東尋坊のダイナミックな景観、日本海に沈む夕日と水平線を望む三国温泉の展望露天風呂、職人が絶妙な塩加減で茹で上げる本場越前がに、花咲くカニ刺し、甲羅焼き味噌、福井の銘柄牛「若狭牛」のステーキを味わう、冬の贅を尽くした海辺の名宿5選を徹底解説。",
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
@@ -77,24 +77,24 @@ export default function FukuiMikuniWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-fukui-mikuni-onsen-echizen-crab-tojinbo-stay"
+          "@id": "https://croud-travel.pages.dev/winter-fukui-mikuni-onsen-echizen-crab-tojinbo-stay"
         }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-fukui-mikuni-onsen-echizen-crab-tojinbo-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-fukui-mikuni-onsen-echizen-crab-tojinbo-stay#faq",
         "mainEntity": faqList.map(item => ({
           "@type": "Question",
           "name": item.q,

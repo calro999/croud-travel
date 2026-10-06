@@ -9,12 +9,12 @@ export const metadata: Metadata = {
   description: "忍者の里として世界に知られる三重県伊賀・名張。11〜1月は盆地特有の厳しい冷え込みがもたらす白銀の冬景色が広がります。築城の名手・藤堂高虎が築いた高さ約30mの日本一の高石垣を誇る「伊賀上野城」の雪景色、学問の神・菅原道真公を祀る「上野天神宮」の新春初詣。名勝「赤目四十八滝」では冷気で凍りついた神秘の氷瀑が出現し、伊賀盆地の清らかな風土が育む幻の黒毛和牛「伊賀牛」のとろけるすき焼きを堪能。歴史情緒と極上の名湯「赤目温泉」を巡る冬の特選名宿5選。",
   keywords: '伊賀上野城 冬 雪景色, 上野天神宮 初詣, 赤目四十八滝 氷瀑, 伊賀牛 すき焼き, 赤目温泉 対泉閣, 山水園 赤目, 伊賀 忍者 冬 旅行, 三重 冬 観光',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-mie-iga-ueno-castle-akame-48waterfalls-hyobaku-igagyu-stay'
+    canonical: 'https://croud-travel.pages.dev/winter-mie-iga-ueno-castle-akame-48waterfalls-hyobaku-igagyu-stay'
   },
   openGraph: {
     title: "【11・12・1月三重】忍者の里「伊賀上野城」白銀の高石垣と芭蕉翁生家・菅原道真公祀る「上野天神宮」新春初詣！冬限定「赤目四十八滝」氷瀑トレッキング・幻の最高峰「伊賀牛すき焼き」＆赤目温泉厳選名宿5選",
     description: "忍者の里として世界に知られる三重県伊賀・名張。11〜1月は盆地特有の厳しい冷え込みがもたらす白銀の冬景色が広がります。築城の名手・藤堂高虎が築いた高さ約30mの日本一の高石垣を誇る「伊賀上野城」の雪景色、学問の神・菅原道真公を祀る「上野天神宮」の新春初詣。名勝「赤目四十八滝」では冷気で凍りついた神秘の氷瀑が出現し、伊賀盆地の清らかな風土が育む幻の黒毛和牛「伊賀牛」のとろけるすき焼きを堪能。歴史情緒と極上の名湯「赤目温泉」を巡る冬の特選名宿5選。",
-    url: 'https://croud-travel.com/winter-mie-iga-ueno-castle-akame-48waterfalls-hyobaku-igagyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-mie-iga-ueno-castle-akame-48waterfalls-hyobaku-igagyu-stay',
     siteName: 'クラドトラベル',
     type: 'article',
     locale: 'ja_JP',
@@ -51,12 +51,12 @@ export default function MieIgaWinterFeaturePage() {
       "name": "クラドトラベル",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://croud-travel.com/logo.png"
+        "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.com/winter-mie-iga-ueno-castle-akame-48waterfalls-hyobaku-igagyu-stay"
+      "@id": "https://croud-travel.pages.dev/winter-mie-iga-ueno-castle-akame-48waterfalls-hyobaku-igagyu-stay"
     }
   };
 
@@ -68,19 +68,19 @@ export default function MieIgaWinterFeaturePage() {
         "@type": "ListItem",
         "position": 1,
         "name": "ホーム",
-        "item": "https://croud-travel.com/"
+        "item": "https://croud-travel.pages.dev/"
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "特集一覧",
-        "item": "https://croud-travel.com/features"
+        "item": "https://croud-travel.pages.dev/features"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "三重・伊賀上野＆赤目四十八滝 冬の初詣と氷瀑",
-        "item": "https://croud-travel.com/winter-mie-iga-ueno-castle-akame-48waterfalls-hyobaku-igagyu-stay"
+        "item": "https://croud-travel.pages.dev/winter-mie-iga-ueno-castle-akame-48waterfalls-hyobaku-igagyu-stay"
       }
     ]
   };

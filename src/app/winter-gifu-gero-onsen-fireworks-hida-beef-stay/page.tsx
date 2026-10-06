@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月下呂温泉の冬花火ミュージカル】日本三名泉の美肌湯ととろける飛騨牛会席宿5選",
     description: "12月の毎週土曜夜に冬空を華麗に染める「下呂温泉花火ミュージカル冬公演」。日本三名泉が誇るpH9超えのとろとろ美肌の湯に浸かり、冬の飛騨川のせせらぎを聴きながら最高ランクの飛騨牛朴葉味噌焼きや会席料理に舌鼓を打つ、心温まる冬の岐阜温泉旅。",
-    url: 'https://croud-travel.com/winter-gifu-gero-onsen-fireworks-hida-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-gifu-gero-onsen-fireworks-hida-beef-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -44,7 +44,7 @@ export default function GeroWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-gifu-gero-onsen-fireworks-hida-beef-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-gifu-gero-onsen-fireworks-hida-beef-stay#article",
         "headline": "【11・12月下呂温泉の冬花火ミュージカル】日本三名泉の美肌湯ととろける飛騨牛会席宿5選",
         "description": "12月の毎週土曜夜に冬空を華麗に染める「下呂温泉花火ミュージカル冬公演」。日本三名泉が誇るpH9超えのとろとろ美肌の湯に浸かり、冬の飛騨川のせせらぎを聴きながら最高ランクの飛騨牛朴葉味噌焼きや会席料理に舌鼓を打つ、心温まる冬の岐阜温泉旅。",
         "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
@@ -53,24 +53,24 @@ export default function GeroWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-gifu-gero-onsen-fireworks-hida-beef-stay"
+          "@id": "https://croud-travel.pages.dev/winter-gifu-gero-onsen-fireworks-hida-beef-stay"
         }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-gifu-gero-onsen-fireworks-hida-beef-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-gifu-gero-onsen-fireworks-hida-beef-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -108,7 +108,7 @@ export default function GeroWinterPage() {
       },
       {
         "@type": "ItemList",
-        "@id": "https://croud-travel.com/winter-gifu-gero-onsen-fireworks-hida-beef-stay#hotels",
+        "@id": "https://croud-travel.pages.dev/winter-gifu-gero-onsen-fireworks-hida-beef-stay#hotels",
         "itemListElement": [
           {
             "@type": "ListItem",

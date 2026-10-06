@@ -10,12 +10,12 @@ export const metadata: Metadata = {
   description: "道東の冬が織りなす白銀の詩情・釧路の11〜1月冬紀行。純白の雪原に優美な翼を広げる特別天然記念物「タンチョウ（丹頂鶴）」の求愛ダンス、世界三大夕日と称賛される幣舞橋のドラマチックな真紅の黄昏。氷点下の静寂に包まれる釧路湿原の霧氷パノラマ。北の海が育む冬の至宝「真だち（タラの白子）」や脂ののったメンメ（キンキ）、炭火の煙が立ち上る元祖「釧路炉端焼き」、和商市場の名物勝手丼。冷えた身体を包み込む展望天然温泉と極上名宿5選を徹底紹介。",
   keywords: '丹頂鶴 冬, 鶴居村 タンチョウ, 幣舞橋 夕日, 釧路 炉端焼き, 真だち 白子, ラビスタ釧路川, ドーミーイン釧路, 釧路 天然温泉, 勝手丼 和商市場, 道東 冬旅行',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-hokkaido-kushiro-tancho-crane-snow-nusamaibashi-sunset-robata-stay'
+    canonical: 'https://croud-travel.pages.dev/winter-hokkaido-kushiro-tancho-crane-snow-nusamaibashi-sunset-robata-stay'
   },
   openGraph: {
     title: "【11・12・1月北海道】雪原に舞う特別天然記念物「丹頂鶴」と世界三大夕日「幣舞橋」！炭火炉端焼き・冬の真だち＆釧路天然温泉名宿5選",
     description: "道東の冬が織りなす白銀の詩情・釧路の11〜1月冬紀行。純白の雪原に優美な翼を広げる特別天然記念物「タンチョウ（丹頂鶴）」の求愛ダンス、世界三大夕日と称賛される幣舞橋のドラマチックな真紅の黄昏。氷点下の静寂に包まれる釧路湿原の霧氷パノラマ。北の海が育む冬の至宝「真だち（タラの白子）」や脂ののったメンメ（キンキ）、炭火の煙が立ち上る元祖「釧路炉端焼き」、和商市場の名物勝手丼。冷えた身体を包み込む展望天然温泉と極上名宿5選を徹底紹介。",
-    url: 'https://croud-travel.com/winter-hokkaido-kushiro-tancho-crane-snow-nusamaibashi-sunset-robata-stay',
+    url: 'https://croud-travel.pages.dev/winter-hokkaido-kushiro-tancho-crane-snow-nusamaibashi-sunset-robata-stay',
     type: 'article',
     images: [
       {
@@ -48,19 +48,19 @@ export default function HokkaidoKushiroWinterPage() {
     "author": {
       "@type": "Organization",
       "name": "旅宿クラウド 編集部",
-      "url": "https://croud-travel.com"
+      "url": "https://croud-travel.pages.dev"
     },
     "publisher": {
       "@type": "Organization",
       "name": "旅宿クラウド",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://croud-travel.com/logo.png"
+        "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.com/winter-hokkaido-kushiro-tancho-crane-snow-nusamaibashi-sunset-robata-stay"
+      "@id": "https://croud-travel.pages.dev/winter-hokkaido-kushiro-tancho-crane-snow-nusamaibashi-sunset-robata-stay"
     }
   };
 
@@ -72,19 +72,19 @@ export default function HokkaidoKushiroWinterPage() {
         "@type": "ListItem",
         "position": 1,
         "name": "ホーム",
-        "item": "https://croud-travel.com"
+        "item": "https://croud-travel.pages.dev"
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "特集一覧",
-        "item": "https://croud-travel.com/features"
+        "item": "https://croud-travel.pages.dev/features"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "北海道・釧路＆鶴居 冬特集",
-        "item": "https://croud-travel.com/winter-hokkaido-kushiro-tancho-crane-snow-nusamaibashi-sunset-robata-stay"
+        "item": "https://croud-travel.pages.dev/winter-hokkaido-kushiro-tancho-crane-snow-nusamaibashi-sunset-robata-stay"
       }
     ]
   };
@@ -662,7 +662,7 @@ export default function HokkaidoKushiroWinterPage() {
 
       {/* Footer */}
       <footer className="bg-slate-900 text-slate-400 py-10 px-4 text-center text-xs border-t border-slate-800 mt-16">
-        <p>© 2026 旅宿クラウド (croud-travel.com). All rights reserved.</p>
+        <p>© 2026 旅宿クラウド (croud-travel.pages.dev). All rights reserved.</p>
         <p className="mt-2 text-slate-500">掲載の宿泊料金や施設情報は楽天トラベルAPIより取得した参考データです。最新のプラン内容は各宿泊施設ページをご確認ください。</p>
       </footer>
     </article>

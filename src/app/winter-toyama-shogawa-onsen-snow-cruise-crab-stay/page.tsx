@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月富山・庄川温泉郷の雪見庄川峡遊覧船と冬の味覚】富山湾紅ズワイガニ・寒ブリ・白えび＆源泉美肌の宿5選",
     description: "11月下旬から12月にかけて富山県・庄川峡は、両岸の断崖絶壁が白銀の雪化粧をまとい、水墨画のような幽玄の冬景色が広がります。庄川峡遊覧船（小牧ダム〜大牧）から望む雪景色と湖面の水鏡、開湯以来湯治客を癒やし続ける庄川清流温泉・鳥越温泉のにごり湯や炭酸泉、11月に本格シーズンを迎える富山湾の紅ズワイガニ、氷見・新湊直送の脂が乗った極上寒ブリの刺身とブリしゃぶ、宝石のような白えびのかき揚げ、富山牛のサーロインを堪能する名宿5選を徹底解説。",
-    url: 'https://croud-travel.com/winter-toyama-shogawa-onsen-snow-cruise-crab-stay',
+    url: 'https://croud-travel.pages.dev/winter-toyama-shogawa-onsen-snow-cruise-crab-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -62,10 +62,10 @@ export default function ShogawaOnsenWinterFeature() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-toyama-shogawa-onsen-snow-cruise-crab-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-toyama-shogawa-onsen-snow-cruise-crab-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-toyama-shogawa-onsen-snow-cruise-crab-stay"
+          "@id": "https://croud-travel.pages.dev/winter-toyama-shogawa-onsen-snow-cruise-crab-stay"
         },
         "headline": "【11・12月富山・庄川温泉郷の雪見庄川峡遊覧船と冬の味覚】富山湾紅ズワイガニ・寒ブリ・白えび＆源泉美肌の宿5選",
         "description": "11月下旬から12月にかけて富山県・庄川峡は、両岸の断崖絶壁が白銀の雪化粧をまとい、水墨画のような幽玄の冬景色が広がります。庄川峡遊覧船（小牧ダム〜大牧）から望む雪景色と湖面の水鏡、開湯以来湯治客を癒やし続ける庄川清流温泉・鳥越温泉のにごり湯や炭酸泉、11月に本格シーズンを迎える富山湾の紅ズワイガニ、氷見・新湊直送の脂が乗った極上寒ブリの刺身とブリしゃぶ、宝石のような白えびのかき揚げ、富山牛のサーロインを堪能する名宿5選を徹底解説。",
@@ -77,7 +77,7 @@ export default function ShogawaOnsenWinterFeature() {
           "name": "Croud Travel",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "author": {
@@ -88,31 +88,31 @@ export default function ShogawaOnsenWinterFeature() {
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://croud-travel.com/winter-toyama-shogawa-onsen-snow-cruise-crab-stay#breadcrumb",
+        "@id": "https://croud-travel.pages.dev/winter-toyama-shogawa-onsen-snow-cruise-crab-stay#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com/"
+            "item": "https://croud-travel.pages.dev/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "富山・庄川温泉郷 冬の雪見峡谷と冬の味覚の宿",
-            "item": "https://croud-travel.com/winter-toyama-shogawa-onsen-snow-cruise-crab-stay"
+            "item": "https://croud-travel.pages.dev/winter-toyama-shogawa-onsen-snow-cruise-crab-stay"
           }
         ]
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-toyama-shogawa-onsen-snow-cruise-crab-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-toyama-shogawa-onsen-snow-cruise-crab-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",

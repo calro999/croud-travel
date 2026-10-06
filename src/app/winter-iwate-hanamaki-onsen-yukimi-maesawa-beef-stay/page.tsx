@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月花巻温泉郷の白銀雪見露天と宮沢賢治の世界】奥羽山脈の名湯巡り・極上前沢牛＆白金豚しゃぶしゃぶの宿5選",
     description: "童話作家・宮沢賢治が愛した理想郷「イーハトーブ」の地・岩手県花巻温泉郷。11月下旬の初雪から12月の白銀世界へと移ろう初冬、赤松林に囲まれた美肌の湯や日本一深い自噴立ち湯で愉しむ雪見露天風呂。霜降り極上の前沢牛すき焼きとブランド豚「白金豚」のしゃぶしゃぶ、南部杜氏が醸す寒造り地酒を堪能する名宿ガイド。",
-    url: 'https://croud-travel.com/winter-iwate-hanamaki-onsen-yukimi-maesawa-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-iwate-hanamaki-onsen-yukimi-maesawa-beef-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -44,7 +44,7 @@ export default function HanamakiWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-iwate-hanamaki-onsen-yukimi-maesawa-beef-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-iwate-hanamaki-onsen-yukimi-maesawa-beef-stay#article",
         "headline": "【11・12月花巻温泉郷の白銀雪見露天と宮沢賢治の世界】奥羽山脈の名湯巡り・極上前沢牛＆白金豚しゃぶしゃぶの宿5選",
         "description": "童話作家・宮沢賢治が愛した理想郷「イーハトーブ」の地・岩手県花巻温泉郷。11月下旬の初雪から12月の白銀世界へと移ろう初冬、赤松林に囲まれた美肌の湯や日本一深い自噴立ち湯で愉しむ雪見露天風呂。霜降り極上の前沢牛すき焼きとブランド豚「白金豚」のしゃぶしゃぶ、南部杜氏が醸す寒造り地酒を堪能する名宿ガイド。",
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
@@ -53,24 +53,24 @@ export default function HanamakiWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-iwate-hanamaki-onsen-yukimi-maesawa-beef-stay"
+          "@id": "https://croud-travel.pages.dev/winter-iwate-hanamaki-onsen-yukimi-maesawa-beef-stay"
         }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-iwate-hanamaki-onsen-yukimi-maesawa-beef-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-iwate-hanamaki-onsen-yukimi-maesawa-beef-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -108,7 +108,7 @@ export default function HanamakiWinterPage() {
       },
       {
         "@type": "ItemList",
-        "@id": "https://croud-travel.com/winter-iwate-hanamaki-onsen-yukimi-maesawa-beef-stay#hotels",
+        "@id": "https://croud-travel.pages.dev/winter-iwate-hanamaki-onsen-yukimi-maesawa-beef-stay#hotels",
         "itemListElement": [
           {
             "@type": "ListItem",
@@ -633,48 +633,7 @@ export default function HanamakiWinterPage() {
         </section>
 
         {/* FAQ Section */}
-        <section id="faq" className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-stone-200/80 space-y-6">
-          <div className="flex items-center gap-3 pb-3 border-b border-stone-100">
-            <div className="p-2 rounded-xl bg-indigo-50 text-indigo-800">
-              <HelpCircle className="w-5 h-5" />
-            </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              よくある質問（FAQ）：花巻温泉郷の冬旅のポイント
-            </h2>
-          </div>
-
-          <div className="space-y-4">
-            <div className="p-4 rounded-2xl bg-stone-50 border border-stone-100 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <span className="w-5 h-5 rounded-full bg-indigo-700 text-white flex items-center justify-center text-xs shrink-0">Q</span>
-                冬に車で行く場合、道路の凍結や積雪対策はどうすればいいですか？
-              </h3>
-              <p className="text-xs sm:text-sm text-stone-600 pl-7 leading-relaxed">
-                花巻市街地から花巻温泉までは東北自動車道・花巻ICから車で約5分と平坦で除雪も行き届いていますが、11月下旬以降はスタッドレスタイヤの装着が必須です。さらに山手にある台温泉や鉛温泉・新鉛温泉へ向かう県道は坂道やカーブが多く、凍結しやすいため、慎重な運転が求められます。運転に不安がある方は新花巻駅からの無料送迎バスや路線バスの利用をおすすめします。
-              </p>
-            </div>
-
-            <div className="p-4 rounded-2xl bg-stone-50 border border-stone-100 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <span className="w-5 h-5 rounded-full bg-indigo-700 text-white flex items-center justify-center text-xs shrink-0">Q</span>
-                鉛温泉・藤三旅館の「白猿の湯」は女性でも安心して入れますか？
-              </h3>
-              <p className="text-xs sm:text-sm text-stone-600 pl-7 leading-relaxed">
-                白猿の湯は基本的に混浴ですが、女性専用時間帯（1日3回：8:00〜9:00、14:00〜15:00、19:30〜21:00）が毎日設けられています。女性専用時間帯なら気兼ねなく落ち着いて名物の立ち湯を堪能できます。また、館内には女性専用の半露天風呂「白糸の湯」や「桂の湯」も完備されています。
-              </p>
-            </div>
-
-            <div className="p-4 rounded-2xl bg-stone-50 border border-stone-100 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <span className="w-5 h-5 rounded-full bg-indigo-700 text-white flex items-center justify-center text-xs shrink-0">Q</span>
-                花巻温泉の3館湯めぐり（千秋閣・紅葉館・花巻）の利用方法は？
-              </h3>
-              <p className="text-xs sm:text-sm text-stone-600 pl-7 leading-relaxed">
-                「ホテル千秋閣」「ホテル紅葉館」「ホテル花巻」の3館は連絡通路で直結しており、いずれか1館に宿泊していれば、チェックインからチェックアウトまでの間、3館すべての各大浴場・露天風呂（女性限定のバラ風呂、渓流露天風呂、ひのき風呂など）を何度でも無料で自由に利用できます。館内用の浴衣とスリッパのまま移動できるため、冬の寒い日でも外に出ることなく快適に湯めぐりを楽しめます。
-              </p>
-            </div>
-          </div>
-        </section>
+        
 
         {/* Related Features & Internal Links */}
         <section className="bg-stone-100/80 rounded-3xl p-6 sm:p-8 border border-stone-200 space-y-6">

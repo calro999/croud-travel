@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月静岡】冬限定「遠州灘天然とらふぐ」＆脂の乗る冬の浜名湖うなぎ・牡蠣カバ丼・三ヶ日みかん風呂とレイクビュー名宿5選",
     description: "11月から1月、静岡県・浜名湖＆舘山寺（かんざんじ）温泉は、遠州灘の荒波が育む幻の「天然とらふぐ」と、冬眠前に脂が極限まで乗る名物「浜名湖うなぎ」、冬限定のご当地グルメ「牡蠣カバ丼」が勢揃いする年間最大の美食期を迎えます。甘い香りに包まれる名物「三ヶ日みかん風呂」や、大草山展望台から望む澄み切った青空に輝く冠雪の富士山、弁天島の鳥居に沈む茜色の夕日。東京・名古屋からのアクセスも抜群な浜名湖畔で、湖一望の絶景露天風呂と冬の贅沢グルメに酔いしれる厳選5宿を徹底ガイドします。",
-    url: 'https://croud-travel.com/winter-shizuoka-hamanako-kanzanji-torafugu-unagi-stay',
+    url: 'https://croud-travel.pages.dev/winter-shizuoka-hamanako-kanzanji-torafugu-unagi-stay',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -50,19 +50,19 @@ export default function ShizuokaHamanakoKanzanjiWinterPage() {
     author: {
       '@type': 'Organization',
       name: 'クラドトラベル編集部',
-      url: 'https://croud-travel.com'
+      url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
       name: 'クラドトラベル',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://croud-travel.com/logo.png'
+        url: 'https://croud-travel.pages.dev/logo.png'
       }
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.com/winter-shizuoka-hamanako-kanzanji-torafugu-unagi-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-shizuoka-hamanako-kanzanji-torafugu-unagi-stay'
     }
   };
 
@@ -74,19 +74,19 @@ export default function ShizuokaHamanakoKanzanjiWinterPage() {
         '@type': 'ListItem',
         position: 1,
         name: 'ホーム',
-        item: 'https://croud-travel.com'
+        item: 'https://croud-travel.pages.dev'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.com/features'
+        item: 'https://croud-travel.pages.dev/features'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '浜名湖・舘山寺温泉のとらふぐ＆うなぎ名宿',
-        item: 'https://croud-travel.com/winter-shizuoka-hamanako-kanzanji-torafugu-unagi-stay'
+        item: 'https://croud-travel.pages.dev/winter-shizuoka-hamanako-kanzanji-torafugu-unagi-stay'
       }
     ]
   };

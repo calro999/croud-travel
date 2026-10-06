@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月長崎ハウステンボス】日本一1300万球「光の街のクリスマス」とヨーロッパ風リゾート宿5選",
     description: "11月上旬から開幕する世界最大級1300万球の祭典「光の街のクリスマス」！高さ12mの巨大ツリー群、日本初の運河アイススケート、夜空を彩るクリスマス花火を堪能。直営クラシックホテルや源泉温泉付きリゾートで過ごす特別な冬休み。",
-    url: 'https://croud-travel.com/winter-nagasaki-huistenbosch-christmas-lights-stay',
+    url: 'https://croud-travel.pages.dev/winter-nagasaki-huistenbosch-christmas-lights-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -44,7 +44,7 @@ export default function HuistenboschChristmasPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-nagasaki-huistenbosch-christmas-lights-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-nagasaki-huistenbosch-christmas-lights-stay#article",
         "headline": "【11・12月長崎ハウステンボス】日本一1300万球「光の街のクリスマス」とヨーロッパ風リゾート宿5選",
         "description": "11月上旬から開幕する世界最大級1300万球の祭典「光の街のクリスマス」！高さ12mの巨大ツリー群、日本初の運河アイススケート、夜空を彩るクリスマス花火を堪能。直営クラシックホテルや源泉温泉付きリゾートで過ごす特別な冬休み。",
         "image": "https://images.unsplash.com/photo-1513297887119-d46091b24bfa?auto=format&fit=crop&w=1200&q=80",
@@ -53,24 +53,24 @@ export default function HuistenboschChristmasPage() {
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-nagasaki-huistenbosch-christmas-lights-stay"
+          "@id": "https://croud-travel.pages.dev/winter-nagasaki-huistenbosch-christmas-lights-stay"
         }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-nagasaki-huistenbosch-christmas-lights-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-nagasaki-huistenbosch-christmas-lights-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -108,7 +108,7 @@ export default function HuistenboschChristmasPage() {
       },
       {
         "@type": "ItemList",
-        "@id": "https://croud-travel.com/winter-nagasaki-huistenbosch-christmas-lights-stay#hotels",
+        "@id": "https://croud-travel.pages.dev/winter-nagasaki-huistenbosch-christmas-lights-stay#hotels",
         "itemListElement": [
           {
             "@type": "ListItem",

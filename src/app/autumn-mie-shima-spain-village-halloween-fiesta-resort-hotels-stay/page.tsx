@@ -9,12 +9,12 @@ export const metadata: Metadata = {
   description: "陽光あふれる情熱の国スペインを再現したテーマパーク「志摩スペイン村パルケエスパーニャ」。秋にはパーク全体がオレンジ色に染まる「ハロウィーンフィエスタ」が開幕！マヨール広場に登場する巨大な「モンスターパンプキン」のフォトスポットや、ハロウィーン限定衣装をまとったドンキホーテや仲間たちとのグリーティング、陽気なフラメンコショーが繰り広げられます。異国情緒あふれる白壁の街並みで味わう本場パエリャやチュロス、そしてパーク隣接の南欧風リゾートホテルや英虞湾の絶景を望む極上天然温泉名宿5選を徹底特集。",
   keywords: '志摩スペイン村 ハロウィン, パルケエスパーニャ ハロウィーンフィエスタ, ホテル志摩スペイン村, 都リゾート奥志摩アクアフォレスト, グランドメルキュール伊勢志摩, 汀渚ばさら邸, ひまわりの湯, 伊勢志摩 温泉 旅行',
   alternates: {
-    canonical: 'https://croud-travel.com/autumn-mie-shima-spain-village-halloween-fiesta-resort-hotels-stay'
+    canonical: 'https://croud-travel.pages.dev/autumn-mie-shima-spain-village-halloween-fiesta-resort-hotels-stay'
   },
   openGraph: {
     title: "【秋の志摩スペイン村パルケエスパーニャ】情熱のハロウィーンフィエスタ！フォトジェニックなカボチャ広場・限定パレード＆伊勢志摩温泉リゾート厳選名宿5選",
     description: "陽光あふれる情熱の国スペインを再現したテーマパーク「志摩スペイン村パルケエスパーニャ」。秋にはパーク全体がオレンジ色に染まる「ハロウィーンフィエスタ」が開幕！マヨール広場に登場する巨大な「モンスターパンプキン」のフォトスポットや、ハロウィーン限定衣装をまとったドンキホーテや仲間たちとのグリーティング、陽気なフラメンコショーが繰り広げられます。異国情緒あふれる白壁の街並みで味わう本場パエリャやチュロス、そしてパーク隣接の南欧風リゾートホテルや英虞湾の絶景を望む極上天然温泉名宿5選を徹底特集。",
-    url: 'https://croud-travel.com/autumn-mie-shima-spain-village-halloween-fiesta-resort-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-mie-shima-spain-village-halloween-fiesta-resort-hotels-stay',
     siteName: 'クラドトラベル',
     type: 'article',
     locale: 'ja_JP',
@@ -51,12 +51,12 @@ export default function ShimaSpanishHalloweenFeaturePage() {
       "name": "クラドトラベル",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://croud-travel.com/logo.png"
+        "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.com/autumn-mie-shima-spain-village-halloween-fiesta-resort-hotels-stay"
+      "@id": "https://croud-travel.pages.dev/autumn-mie-shima-spain-village-halloween-fiesta-resort-hotels-stay"
     }
   };
 
@@ -68,19 +68,19 @@ export default function ShimaSpanishHalloweenFeaturePage() {
         "@type": "ListItem",
         "position": 1,
         "name": "ホーム",
-        "item": "https://croud-travel.com/"
+        "item": "https://croud-travel.pages.dev/"
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "特集一覧",
-        "item": "https://croud-travel.com/features"
+        "item": "https://croud-travel.pages.dev/features"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "志摩スペイン村・ハロウィーンフィエスタ特集",
-        "item": "https://croud-travel.com/autumn-mie-shima-spain-village-halloween-fiesta-resort-hotels-stay"
+        "item": "https://croud-travel.pages.dev/autumn-mie-shima-spain-village-halloween-fiesta-resort-hotels-stay"
       }
     ]
   };

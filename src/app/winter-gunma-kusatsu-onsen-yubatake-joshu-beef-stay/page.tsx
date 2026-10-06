@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月草津温泉の冬名湯と湯畑ライトアップ】湯畑の冬幻想イルミ・湯けむり露天と極上上州牛すき焼き・群馬地酒の宿5選",
     description: "11月から12月にかけて日本屈指の名湯・草津温泉は湯畑から立ち上る真っ白な湯煙と初冬の幻想的なイルミネーションに包まれます。標高1,200mの澄んだ冷気の中で楽しむ酸性・含硫黄・アルミニウム・硫酸塩・塩化物温泉の圧倒的な温まり効果、天下の名湯「湯畑源泉」「万代鉱源泉」「西の河原源泉」の湯巡り、最高級「上州牛」のすき焼きや陶板ステーキ、群馬の銘酒を堪能する極上名宿5選を徹底解説。",
-    url: 'https://croud-travel.com/winter-gunma-kusatsu-onsen-yubatake-joshu-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-gunma-kusatsu-onsen-yubatake-joshu-beef-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -68,7 +68,7 @@ export default function KusatsuOnsenWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-gunma-kusatsu-onsen-yubatake-joshu-beef-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-gunma-kusatsu-onsen-yubatake-joshu-beef-stay#article",
         "headline": "【11・12月草津温泉の冬名湯と湯畑ライトアップ】湯畑の冬幻想イルミ・湯けむり露天と極上上州牛すき焼き・群馬地酒の宿5選",
         "description": "11月から12月にかけて日本屈指の名湯・草津温泉は湯畑から立ち上る真っ白な湯煙と初冬の幻想的なイルミネーションに包まれます。標高1,200mの澄んだ冷気の中で楽しむ酸性・含硫黄・アルミニウム・硫酸塩・塩化物温泉の圧倒的な温まり効果、天下の名湯「湯畑源泉」「万代鉱源泉」「西の河原源泉」の湯巡り、最高級「上州牛」のすき焼きや陶板ステーキ、群馬の銘酒を堪能する極上名宿5選を徹底解説。",
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
@@ -77,24 +77,24 @@ export default function KusatsuOnsenWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-gunma-kusatsu-onsen-yubatake-joshu-beef-stay"
+          "@id": "https://croud-travel.pages.dev/winter-gunma-kusatsu-onsen-yubatake-joshu-beef-stay"
         }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-gunma-kusatsu-onsen-yubatake-joshu-beef-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-gunma-kusatsu-onsen-yubatake-joshu-beef-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -140,7 +140,7 @@ export default function KusatsuOnsenWinterPage() {
       },
       {
         "@type": "ItemList",
-        "@id": "https://croud-travel.com/winter-gunma-kusatsu-onsen-yubatake-joshu-beef-stay#hotels",
+        "@id": "https://croud-travel.pages.dev/winter-gunma-kusatsu-onsen-yubatake-joshu-beef-stay#hotels",
         "itemListElement": [
           {
             "@type": "ListItem",

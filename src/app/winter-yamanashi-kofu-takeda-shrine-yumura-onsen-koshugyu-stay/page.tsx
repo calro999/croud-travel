@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月山梨】武田神社新春初詣＆富士山・南アルプス雪景色！開湯1200年信玄の隠し湯「湯村温泉」と熱々ほうとう・極上甲州牛の名宿5選",
     description: "冬の山梨・甲府盆地は、白雪をまとった霊峰富士や南アルプス、八ヶ岳の壮大な連峰が青空に際立つ絶景の季節。武田信玄公の館跡に鎮座し「勝運」をもたらす武田神社の新春初詣、甲府城跡天守台からのパノラマビュー。開湯1200年、信玄公が川中島の合戦での傷を癒やしたと伝わる名湯「信玄の隠し湯・湯村温泉」の弱アルカリ性美肌湯、冬の底冷えを優しく溶かす熱々のかぼちゃほうとう、日本一の肉質等級を誇る「甲州牛」のすき焼きに舌鼓。歴史浪漫と温泉、極上肉を堪能する名宿5選を詳しく解説します。",
-    url: 'https://croud-travel.com/winter-yamanashi-kofu-takeda-shrine-yumura-onsen-koshugyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-yamanashi-kofu-takeda-shrine-yumura-onsen-koshugyu-stay',
     type: 'article',
     images: [{ url: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=630', width: 1200, height: 630, alt: '武田神社新春初詣と湯村温泉雪見風呂' }]
   },
@@ -156,9 +156,9 @@ export default function YamanashiKofuYumuraPage() {
       {
         '@type': 'BreadcrumbList',
         'itemListElement': [
-          { '@type': 'ListItem', 'position': 1, 'name': 'ホーム', 'item': 'https://croud-travel.com' },
-          { '@type': 'ListItem', 'position': 2, 'name': '特集一覧', 'item': 'https://croud-travel.com/features' },
-          { '@type': 'ListItem', 'position': 3, 'name': '武田神社初詣＆湯村温泉・甲州牛名宿', 'item': 'https://croud-travel.com/winter-yamanashi-kofu-takeda-shrine-yumura-onsen-koshugyu-stay' }
+          { '@type': 'ListItem', 'position': 1, 'name': 'ホーム', 'item': 'https://croud-travel.pages.dev' },
+          { '@type': 'ListItem', 'position': 2, 'name': '特集一覧', 'item': 'https://croud-travel.pages.dev/features' },
+          { '@type': 'ListItem', 'position': 3, 'name': '武田神社初詣＆湯村温泉・甲州牛名宿', 'item': 'https://croud-travel.pages.dev/winter-yamanashi-kofu-takeda-shrine-yumura-onsen-koshugyu-stay' }
         ]
       },
       {

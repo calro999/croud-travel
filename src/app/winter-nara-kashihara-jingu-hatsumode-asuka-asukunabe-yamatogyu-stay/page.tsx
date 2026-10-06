@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月奈良】日本建国の聖地「橿原神宮」新春初詣と畝傍山の冬朝霧！飛鳥路の静寂と名物「飛鳥鍋」・大和牛名宿5選",
     description: "初代神武天皇が即位した日本建国の聖地「橿原神宮（かしはらじんぐう）」が約100万人の新春参拝客を迎える11〜1月の冬旅特集。畝傍山（うねびやま）を背景に白木造りの壮大な社殿が冬朝霧に煙る光景、石舞台古墳や飛鳥寺が静まり返る冬の明日香村、飛鳥時代の宮廷貴族の滋養食にルーツを持つ名物郷土料理「飛鳥鍋（牛乳仕立て出汁）」、極上の霜降りを誇る奈良銘柄牛「大和牛」のすき焼き。橿原・明日香の滞在拠点に最適な厳選ホテル・名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-nara-kashihara-jingu-hatsumode-asuka-asukunabe-yamatogyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-nara-kashihara-jingu-hatsumode-asuka-asukunabe-yamatogyu-stay',
     type: 'article',
     images: [
       {
@@ -48,19 +48,19 @@ export default function NaraKashiharaWinterPage() {
     "author": {
       "@type": "Organization",
       "name": "旅宿クラウド 編集部",
-      "url": "https://croud-travel.com"
+      "url": "https://croud-travel.pages.dev"
     },
     "publisher": {
       "@type": "Organization",
       "name": "旅宿クラウド",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://croud-travel.com/logo.png"
+        "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.com/winter-nara-kashihara-jingu-hatsumode-asuka-asukunabe-yamatogyu-stay"
+      "@id": "https://croud-travel.pages.dev/winter-nara-kashihara-jingu-hatsumode-asuka-asukunabe-yamatogyu-stay"
     }
   };
 
@@ -72,19 +72,19 @@ export default function NaraKashiharaWinterPage() {
         "@type": "ListItem",
         "position": 1,
         "name": "ホーム",
-        "item": "https://croud-travel.com"
+        "item": "https://croud-travel.pages.dev"
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "特集一覧",
-        "item": "https://croud-travel.com/features"
+        "item": "https://croud-travel.pages.dev/features"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "奈良・橿原＆明日香 冬特集",
-        "item": "https://croud-travel.com/winter-nara-kashihara-jingu-hatsumode-asuka-asukunabe-yamatogyu-stay"
+        "item": "https://croud-travel.pages.dev/winter-nara-kashihara-jingu-hatsumode-asuka-asukunabe-yamatogyu-stay"
       }
     ]
   };
@@ -691,7 +691,7 @@ export default function NaraKashiharaWinterPage() {
 
       {/* Footer */}
       <footer className="bg-slate-900 text-slate-400 py-10 px-4 text-center text-xs border-t border-slate-800 mt-16">
-        <p>© 2026 旅宿クラウド (croud-travel.com). All rights reserved.</p>
+        <p>© 2026 旅宿クラウド (croud-travel.pages.dev). All rights reserved.</p>
         <p className="mt-2 text-slate-500">掲載の宿泊料金や施設情報は楽天トラベルAPIより取得した参考データです。最新のプラン内容は各宿泊施設ページをご確認ください。</p>
       </footer>
     </article>

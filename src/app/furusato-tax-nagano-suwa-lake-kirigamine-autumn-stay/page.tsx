@@ -14,8 +14,8 @@ export const metadata: Metadata = {
   openGraph: {
     title: '【長野・諏訪湖＆霧ヶ峰】秋の八ヶ岳・湖畔パノラマ紅葉！上諏訪温泉の自家源泉と信州秋の味覚特集',
     description: '10月・11月の長野・諏訪湖畔＆霧ヶ峰高原を特集。八ヶ岳やアルプスを背景にした諏訪湖の夕景紅葉、毎分豊富な湯量を誇る上諏訪温泉の美肌湯、信州サーモンや信州牛会席を味わう厳選3宿とふるさと納税の活用ガイド。',
-    url: 'https://croud-travel.com/furusato-tax-nagano-suwa-lake-kirigamine-autumn-stay',
-    siteName: 'クラウドトラベル (croud-travel.com)',
+    url: 'https://croud-travel.pages.dev/furusato-tax-nagano-suwa-lake-kirigamine-autumn-stay',
+    siteName: 'クラウドトラベル (croud-travel.pages.dev)',
     type: 'article',
     locale: 'ja_JP',
   },
@@ -36,12 +36,12 @@ export default function Page() {
       "name": "クラウドトラベル",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://croud-travel.com/logo.png"
+        "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
     "datePublished": "2026-09-24",
     "dateModified": "2026-09-24",
-    "mainEntityOfPage": "https://croud-travel.com/furusato-tax-nagano-suwa-lake-kirigamine-autumn-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-nagano-suwa-lake-kirigamine-autumn-stay"
   };
 
   const faqSchema = {
@@ -360,31 +360,7 @@ export default function Page() {
         </section>
 
         {/* よくある質問（FAQ） */}
-        <section className="bg-white p-6 md:p-8 rounded-xl shadow-sm border border-stone-200 space-y-6">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-            よくある質問（FAQ）
-          </h2>
-          <div className="space-y-4">
-            <div className="p-4 bg-stone-50 rounded-lg border border-stone-200">
-              <h3 className="font-bold text-stone-900 text-sm md:text-base">Q. 長野・諏訪湖＆霧ヶ峰高原の秋（10月〜11月）のベストシーズン・見どころはいつですか？</h3>
-              <p className="text-xs md:text-sm text-stone-700 mt-2">
-                例年10月中旬〜11月中旬（諏訪湖畔の鮮やかな紅葉と霧ヶ峰・八ヶ岳の黄金色に輝くカラマツ林）が見頃のピークとなります。山々や高原・歴史ある町並みの鮮やかなグラデーションとともに、旬を迎える極上の地場食材を心ゆくまで満喫いただけます。
-              </p>
-            </div>
-            <div className="p-4 bg-stone-50 rounded-lg border border-stone-200">
-              <h3 className="font-bold text-stone-900 text-sm md:text-base">Q. 楽天ふるさと納税のトラベルクーポンは予約時にすぐ使えますか？</h3>
-              <p className="text-xs md:text-sm text-stone-700 mt-2">
-                はい、楽天ふるさと納税で対象自治体に寄付を行うと、即時〜翌営業日にはアカウントに楽天トラベルクーポンが付与され、そのまま楽天トラベルでの宿泊予約時に割引としてご利用いただけます。
-              </p>
-            </div>
-            <div className="p-4 bg-stone-50 rounded-lg border border-stone-200">
-              <h3 className="font-bold text-stone-900 text-sm md:text-base">Q. 長野・諏訪湖＆霧ヶ峰高原へのアクセスや秋旅の注意点はありますか？</h3>
-              <p className="text-xs md:text-sm text-stone-700 mt-2">
-                秋季は朝夕の寒暖差や高原・山間部の冷え込みがあるため、脱ぎ着しやすい上着や防寒着の準備が推奨されます。また人気スポット周辺は紅葉シーズンに混雑が予想されるため、早朝観光や平日のご滞在がおすすめです。
-              </p>
-            </div>
-          </div>
-        </section>
+        
 
         {/* 関連特集リンク */}
         <section className="bg-amber-50/50 p-6 rounded-xl border border-amber-200 space-y-4">
@@ -406,88 +382,77 @@ export default function Page() {
         </section>
       
         {/* Model Course Section */}
-        <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
+                {/* Model Course Section */}
+                {/* Model Course Section */}
+                {/* Model Course Section */}
+        <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              【1泊2日】おすすめモデルコース＆旅の過ごし方
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
+              【1泊2日】上諏訪温泉 しんゆを拠点にするおすすめ滞在モデルコース
             </h2>
           </div>
-          <p className="text-stone-600 mb-8 text-sm md:text-base leading-relaxed">
-            本特集の魅力を最大限に満喫するための理想的な1泊2日旅程モデルプランです。周辺の観光名所やグルメスポットとあわせて、無理のないスケジュールで最高の旅をお楽しみください。
-          </p>
-          <div className="space-y-6">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
-                <span className="bg-amber-500 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">出発〜チェックイン・夕食と名湯を満喫</h3>
+                <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">13:30〜</strong> 現地到着後、周辺の散策や名物カフェ・観光スポットをのんびり観光。</li>
-                <li>・<strong className="text-stone-800">15:00〜</strong> お宿へチェックイン。ウェルカムドリンクや特製スイーツを楽しみながら客室で一息。</li>
-                <li>・<strong className="text-stone-800">16:30〜</strong> 夕暮れ時の露天風呂・サウナで日頃の疲れを癒やす極上の湯浴み。</li>
-                <li>・<strong className="text-stone-800">18:30〜</strong> 地元厳選食材をふんだんに使用した旬の会席料理やディナーを堪能。</li>
-                <li>・<strong className="text-stone-800">21:00〜</strong> 星空を仰ぐ夜の露天風呂やラウンジで贅沢な大人の時間を。</li>
+                <li>・<strong className="text-stone-800">14:00〜</strong> 上諏訪駅よりアクセス。JR上諏訪駅より徒歩10分(送迎バス有。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「上諏訪温泉 しんゆ」にチェックイン。諏訪湖畔に佇む 癒し とおもてなしの宿◯自家源泉の湯と 個室料亭 での美食 衛生消毒プログラム導入などの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「上諏訪温泉 しんゆ」の湯処へ。諏訪湖畔に佇む 癒し とおもてなしの宿◯自家源泉の湯と 個室料亭 でのとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「上諏訪温泉 しんゆ」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">朝風呂〜朝食・お土産選びと帰路へ</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の清々しい空気の中で目覚めの朝風呂・サウナ。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 炊きたて地元産ごはんと郷土の味覚が並ぶこだわりの朝食。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後、近隣の道の駅や特産品店でお土産選び。</li>
-                <li>・<strong className="text-stone-800">12:00〜</strong> 地元で愛される名物ランチを堪能して、大満足の帰路へ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「上諏訪温泉 しんゆ」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「上諏訪温泉 しんゆ」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「信州上諏訪温泉 諏訪別邸 朱白」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
         </section>
 
         {/* FAQ Section */}
-        <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80">
+        <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
             <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と旅のノウハウ
+              よくある質問（FAQ）と上諏訪温泉 しんゆの滞在ポイント
             </h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 予約に最適な時期やタイミングはいつ頃ですか？</span>
+                <span>Q. 「上諏訪温泉 しんゆ」へのアクセスや移動方法について</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 露天風呂付き客室や特選料理プランは数ヶ月前から予約が埋まりやすいため、旅行日程が決まり次第2〜3ヶ月前の早期予約が最も確実です。楽天トラベルの限定クーポンや早期割引プランを活用するとお得に宿泊できます。
+                A. 「上諏訪温泉 しんゆ」へは、JR上諏訪駅より徒歩10分(送迎バス有。最寄りの上諏訪駅からの経路案内も充実しています。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 車でのアクセスと公共交通機関のどちらが便利ですか？</span>
+                <span>Q. 「上諏訪温泉 しんゆ」の魅力や予約時のポイントは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 多くの主要旅館・リゾートホテルは最寄り駅から無料送迎バスを運行しています。周辺の観光名所や景勝地を巡る場合は、最寄り駅前でレンタカーを借りると移動がスムーズでおすすめです。
+                A. 「上諏訪温泉 しんゆ」は『諏訪湖畔に佇む 癒し とおもてなしの宿◯自家源泉の湯と 個室料亭 での美食 衛生消毒プログ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 食事のアレルギー対応や部屋食の指定は可能ですか？</span>
+                <span>Q. プラン選びや宿の比較で意識すべき点は？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 多くの宿泊施設で事前連絡によりアレルギー対応が可能です。部屋食や個室食事処プランはプラン予約時に指定するか、予約時の備考欄で宿へ相談することをおすすめします。
-              </p>
-            </details>
-            <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
-              <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 一人旅や子連れファミリーでの宿泊にも向いていますか？</span>
-                <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
-              </summary>
-              <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. はい。一人旅歓迎プランや、家族向けの広い和洋室・貸切風呂完備の宿を厳選しています。プラン詳細の受入条件をご確認の上、安心してお申し込みください。
+                A. 「上諏訪温泉 しんゆ」と「信州上諏訪温泉 諏訪別邸 朱白」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>

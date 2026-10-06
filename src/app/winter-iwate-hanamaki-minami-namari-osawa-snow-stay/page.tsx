@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月岩手・花巻南温泉郷】白銀の豊沢渓谷と宮沢賢治ゆかりの木造湯治宿・自噴立ち湯「白猿の湯」と極上前沢牛＆白金豚を堪能する名宿5選",
     description: "11月中旬から初冬の白銀世界へと移ろう岩手県花巻市の奥座敷・花巻南温泉郷。豊沢川の清流に沿って点在する鉛温泉や大沢温泉は、宮沢賢治や高村光太郎ら文豪が愛した東北屈指の歴史ある湯治場です。足元から澄んだ源泉が滾々と自噴する日本一深い天然岩風呂「白猿の湯」をはじめ、川面と一体になる大沢の湯の雪見混浴露天、宮大工の技が息づく格調高い木造建築など、冬の寒さを忘れさせる風情あふれる名湯が揃います。夕餉には、岩手が誇る最高峰の銘柄牛「前沢牛」や「雫石牛」のすき焼き・ステーキ、きめ細やかな肉質と甘みが際立つ花巻名物「白金豚（プラチナポーク）」のしゃぶしゃぶ、南部ひっつみ鍋など、滋味あふれるみちのくの冬の味覚を心ゆくまで満喫できます。初冬の花巻南温泉郷で極上の癒やしを約束する厳選名宿5選を詳細に解説します。",
-    url: 'https://croud-travel.com/winter-iwate-hanamaki-minami-namari-osawa-snow-stay',
+    url: 'https://croud-travel.pages.dev/winter-iwate-hanamaki-minami-namari-osawa-snow-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -45,23 +45,23 @@ export default function IwateHanamakiMinamiPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-iwate-hanamaki-minami-namari-osawa-snow-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-iwate-hanamaki-minami-namari-osawa-snow-stay#article",
         "isPartOf": {
           "@type": "WebSite",
-          "@id": "https://croud-travel.com/#website",
+          "@id": "https://croud-travel.pages.dev/#website",
           "name": "クラドトラベル",
-          "url": "https://croud-travel.com/"
+          "url": "https://croud-travel.pages.dev/"
         },
         "headline": "【11・12月岩手・花巻南温泉郷】白銀の豊沢渓谷と宮沢賢治ゆかりの木造湯治宿・自噴立ち湯「白猿の湯」と極上前沢牛＆白金豚を堪能する名宿5選",
         "description": "11月中旬から初冬の白銀世界へと移ろう岩手県花巻市の奥座敷・花巻南温泉郷。豊沢川の清流に沿って点在する鉛温泉や大沢温泉は、宮沢賢治や高村光太郎ら文豪が愛した東北屈指の歴史ある湯治場です。足元から澄んだ源泉が滾々と自噴する日本一深い天然岩風呂「白猿の湯」をはじめ、川面と一体になる大沢の湯の雪見混浴露天、宮大工の技が息づく格調高い木造建築など、冬の寒さを忘れさせる風情あふれる名湯が揃います。夕餉には、岩手が誇る最高峰の銘柄牛「前沢牛」や「雫石牛」のすき焼き・ステーキ、きめ細やかな肉質と甘みが際立つ花巻名物「白金豚（プラチナポーク）」のしゃぶしゃぶ、南部ひっつみ鍋など、滋味あふれるみちのくの冬の味覚を心ゆくまで満喫できます。初冬の花巻南温泉郷で極上の癒やしを約束する厳選名宿5選を詳細に解説します。",
         "datePublished": "2026-09-29T18:00:00+09:00",
         "dateModified": "2026-09-29T18:00:00+09:00",
         "inLanguage": "ja",
-        "mainEntityOfPage": "https://croud-travel.com/winter-iwate-hanamaki-minami-namari-osawa-snow-stay",
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-iwate-hanamaki-minami-namari-osawa-snow-stay",
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル編集部",
-          "url": "https://croud-travel.com/"
+          "url": "https://croud-travel.pages.dev/"
         }
       },
       {

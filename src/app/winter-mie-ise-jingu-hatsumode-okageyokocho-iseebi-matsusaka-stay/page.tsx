@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月三重】伊勢神宮新春初詣とおかげ横丁・五十鈴川の朝霧と神域参拝・冬の極上伊勢海老＆松阪牛会席を味わう伊勢名宿5選",
     description: "11月から1月、日本人の心の故郷・伊勢神宮（内宮・外宮）は凛とした神聖な冬の静寂に包まれます。五十鈴川に立ち込める幻想的な朝霧、宇治橋大鳥居から昇る冬至前後の神秘的な朝日、年末年始から新春にかけての初詣の賑わい、そして赤福ぜんざいや伊勢うどんが湯気を上げるおかげ横丁。冬に最盛期を迎える本場の伊勢海老や極上の松阪牛を堪能できる、伊勢神宮参拝に最適な厳選名宿5選と1泊2日の冬の王道参拝モデルコースを徹底解説します。",
-    url: 'https://croud-travel.com/winter-mie-ise-jingu-hatsumode-okageyokocho-iseebi-matsusaka-stay',
+    url: 'https://croud-travel.pages.dev/winter-mie-ise-jingu-hatsumode-okageyokocho-iseebi-matsusaka-stay',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -50,19 +50,19 @@ export default function MieIseJinguWinterPage() {
     author: {
       '@type': 'Organization',
       name: 'クラドトラベル編集部',
-      url: 'https://croud-travel.com'
+      url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
       name: 'クラドトラベル',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://croud-travel.com/logo.png'
+        url: 'https://croud-travel.pages.dev/logo.png'
       }
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.com/winter-mie-ise-jingu-hatsumode-okageyokocho-iseebi-matsusaka-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-mie-ise-jingu-hatsumode-okageyokocho-iseebi-matsusaka-stay'
     }
   };
 
@@ -74,19 +74,19 @@ export default function MieIseJinguWinterPage() {
         '@type': 'ListItem',
         position: 1,
         name: 'ホーム',
-        item: 'https://croud-travel.com'
+        item: 'https://croud-travel.pages.dev'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.com/features'
+        item: 'https://croud-travel.pages.dev/features'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '伊勢神宮初詣＆冬の伊勢海老・松阪牛特集',
-        item: 'https://croud-travel.com/winter-mie-ise-jingu-hatsumode-okageyokocho-iseebi-matsusaka-stay'
+        item: 'https://croud-travel.pages.dev/winter-mie-ise-jingu-hatsumode-okageyokocho-iseebi-matsusaka-stay'
       }
     ]
   };

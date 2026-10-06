@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月高知】太平洋の奇跡「だるま朝日・だるま夕日」と冬の極上「室戸キンメダイ」・御厨人窟初日の出＆海洋深層水リゾート宿5選",
     description: "11月中旬から1月中旬、高知県室戸岬は、冷気と黒潮の海水温差が生む冬の光学現象「だるま朝日・だるま夕日」のベストシーズン。弘法大師空海が開眼した御厨人窟からの元旦初日の出、深海から水揚げされる冬の極上ブランド魚「室戸キンメダイ（金目鯛）」の煮付けやキンメ丼。冬の陽だまりリゾートと太平洋を望む厳選名宿5選と1泊2日モデルコースを徹底ガイドします。",
-    url: 'https://croud-travel.com/winter-kochi-muroto-daruma-sunrise-kinmedai-deepsea-stay',
+    url: 'https://croud-travel.pages.dev/winter-kochi-muroto-daruma-sunrise-kinmedai-deepsea-stay',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -50,19 +50,19 @@ export default function KochiMurotoDarumaWinterPage() {
     author: {
       '@type': 'Organization',
       name: 'クラドトラベル編集部',
-      url: 'https://croud-travel.com'
+      url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
       name: 'クラドトラベル',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://croud-travel.com/logo.png'
+        url: 'https://croud-travel.pages.dev/logo.png'
       }
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.com/winter-kochi-muroto-daruma-sunrise-kinmedai-deepsea-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-kochi-muroto-daruma-sunrise-kinmedai-deepsea-stay'
     }
   };
 
@@ -74,19 +74,19 @@ export default function KochiMurotoDarumaWinterPage() {
         '@type': 'ListItem',
         position: 1,
         name: 'ホーム',
-        item: 'https://croud-travel.com'
+        item: 'https://croud-travel.pages.dev'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.com/features'
+        item: 'https://croud-travel.pages.dev/features'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '高知・室戸だるま太陽＆金目鯛特集',
-        item: 'https://croud-travel.com/winter-kochi-muroto-daruma-sunrise-kinmedai-deepsea-stay'
+        item: 'https://croud-travel.pages.dev/winter-kochi-muroto-daruma-sunrise-kinmedai-deepsea-stay'
       }
     ]
   };

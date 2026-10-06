@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11月解禁！鳥取松葉ガニと三朝温泉】日本海直送タグ付き活ガニと世界屈指のラジウム名湯宿5選",
     description: "11月6日解禁！境港・網代港直送のブランドタグ付き「活松葉ガニ」フルコース！開湯850年、世界有数のラドン含有量を誇る三朝温泉の奇跡のホルミシス効果に浸かり、国登録有形文化財の老舗宿や大庭園露天風呂で寛ぐ冬の至高旅。",
-    url: 'https://croud-travel.com/winter-tottori-misasa-onsen-matsuba-crab-stay',
+    url: 'https://croud-travel.pages.dev/winter-tottori-misasa-onsen-matsuba-crab-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -44,7 +44,7 @@ export default function MisasaCrabWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-tottori-misasa-onsen-matsuba-crab-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-tottori-misasa-onsen-matsuba-crab-stay#article",
         "headline": "【11月解禁！鳥取松葉ガニと三朝温泉】日本海直送タグ付き活ガニと世界屈指のラジウム名湯宿5選",
         "description": "11月6日解禁！境港・網代港直送のブランドタグ付き「活松葉ガニ」フルコース！開湯850年、世界有数のラドン含有量を誇る三朝温泉の奇跡のホルミシス効果に浸かり、国登録有形文化財の老舗宿や大庭園露天風呂で寛ぐ冬の至高旅。",
         "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
@@ -53,24 +53,24 @@ export default function MisasaCrabWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-tottori-misasa-onsen-matsuba-crab-stay"
+          "@id": "https://croud-travel.pages.dev/winter-tottori-misasa-onsen-matsuba-crab-stay"
         }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-tottori-misasa-onsen-matsuba-crab-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-tottori-misasa-onsen-matsuba-crab-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -108,7 +108,7 @@ export default function MisasaCrabWinterPage() {
       },
       {
         "@type": "ItemList",
-        "@id": "https://croud-travel.com/winter-tottori-misasa-onsen-matsuba-crab-stay#hotels",
+        "@id": "https://croud-travel.pages.dev/winter-tottori-misasa-onsen-matsuba-crab-stay#hotels",
         "itemListElement": [
           {
             "@type": "ListItem",

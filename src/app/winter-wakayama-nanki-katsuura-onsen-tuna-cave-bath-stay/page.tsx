@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月南紀勝浦温泉の太平洋大洞窟露天風呂と初冬の熊野古道】勝浦港直送生マグロ尽くし・極上熊野牛ステーキ会席の宿5選",
     description: "11月から12月にかけて和歌山県・紀伊半島の南端に位置する勝浦温泉は、澄み切った太平洋の水平線から昇る朝日の絶景と、世界遺産・熊野古道（大門坂・那智の滝・熊野那智大社）の神聖な祈りの季節を迎えます。太平洋の荒波が長い年月をかけて穿った巨大海蝕洞窟に湧き出る名湯「忘帰洞」や海と一体化する波打ち際露天風呂、日本一の水揚げ高を誇る勝浦漁港直送の完全非冷凍「天然生マグロ」の赤身・中トロ・大トロ尽くし、世界遺産の地で育まれた霜降り「熊野牛」のサーロインを味わう至高の南紀海辺名宿5選を徹底解説。",
-    url: 'https://croud-travel.com/winter-wakayama-nanki-katsuura-onsen-tuna-cave-bath-stay',
+    url: 'https://croud-travel.pages.dev/winter-wakayama-nanki-katsuura-onsen-tuna-cave-bath-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -68,7 +68,7 @@ export default function NankiKatsuuraWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-wakayama-nanki-katsuura-onsen-tuna-cave-bath-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-wakayama-nanki-katsuura-onsen-tuna-cave-bath-stay#article",
         "headline": "【11・12月南紀勝浦温泉の太平洋大洞窟露天風呂と初冬の熊野古道】勝浦港直送生マグロ尽くし・極上熊野牛ステーキ会席の宿5選",
         "description": "11月から12月にかけて和歌山県・紀伊半島の南端に位置する勝浦温泉は、澄み切った太平洋の水平線から昇る朝日の絶景と、世界遺産・熊野古道（大門坂・那智の滝・熊野那智大社）の神聖な祈りの季節を迎えます。太平洋の荒波が長い年月をかけて穿った巨大海蝕洞窟に湧き出る名湯「忘帰洞」や海と一体化する波打ち際露天風呂、日本一の水揚げ高を誇る勝浦漁港直送の完全非冷凍「天然生マグロ」の赤身・中トロ・大トロ尽くし、世界遺産の地で育まれた霜降り「熊野牛」のサーロインを味わう至高の南紀海辺名宿5選を徹底解説。",
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
@@ -77,24 +77,24 @@ export default function NankiKatsuuraWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-wakayama-nanki-katsuura-onsen-tuna-cave-bath-stay"
+          "@id": "https://croud-travel.pages.dev/winter-wakayama-nanki-katsuura-onsen-tuna-cave-bath-stay"
         }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-wakayama-nanki-katsuura-onsen-tuna-cave-bath-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-wakayama-nanki-katsuura-onsen-tuna-cave-bath-stay#faq",
         "mainEntity": faqList.map(item => ({
           "@type": "Question",
           "name": item.q,

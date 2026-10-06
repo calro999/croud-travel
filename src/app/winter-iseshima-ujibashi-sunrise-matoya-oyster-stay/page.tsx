@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月伊勢神宮の冬至・年越し参拝】宇治橋の朝日絶景と伊勢志摩の冬の至宝・的矢かき＆伊勢海老宿5選",
     description: "冬至前後に伊勢神宮・宇治橋大鳥居の中央から昇る神々しい朝日！1年間の感謝を捧げる年越し・お礼参りと、11月から旬を迎える「的矢かき」「活伊勢海老」「松阪牛」、鳥羽湾を望む絶景名湯露天風呂に癒やされる冬の伊勢志摩ステイ。",
-    url: 'https://croud-travel.com/winter-iseshima-ujibashi-sunrise-matoya-oyster-stay',
+    url: 'https://croud-travel.pages.dev/winter-iseshima-ujibashi-sunrise-matoya-oyster-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -44,7 +44,7 @@ export default function IseshimaWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-iseshima-ujibashi-sunrise-matoya-oyster-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-iseshima-ujibashi-sunrise-matoya-oyster-stay#article",
         "headline": "【11・12月伊勢神宮の冬至・年越し参拝】宇治橋の朝日絶景と伊勢志摩の冬の至宝・的矢かき＆伊勢海老宿5選",
         "description": "冬至前後に伊勢神宮・宇治橋大鳥居の中央から昇る神々しい朝日！1年間の感謝を捧げる年越し・お礼参りと、11月から旬を迎える「的矢かき」「活伊勢海老」「松阪牛」、鳥羽湾を望む絶景名湯露天風呂に癒やされる冬の伊勢志摩ステイ。",
         "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80",
@@ -53,24 +53,24 @@ export default function IseshimaWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-iseshima-ujibashi-sunrise-matoya-oyster-stay"
+          "@id": "https://croud-travel.pages.dev/winter-iseshima-ujibashi-sunrise-matoya-oyster-stay"
         }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-iseshima-ujibashi-sunrise-matoya-oyster-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-iseshima-ujibashi-sunrise-matoya-oyster-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -108,7 +108,7 @@ export default function IseshimaWinterPage() {
       },
       {
         "@type": "ItemList",
-        "@id": "https://croud-travel.com/winter-iseshima-ujibashi-sunrise-matoya-oyster-stay#hotels",
+        "@id": "https://croud-travel.pages.dev/winter-iseshima-ujibashi-sunrise-matoya-oyster-stay#hotels",
         "itemListElement": [
           {
             "@type": "ListItem",

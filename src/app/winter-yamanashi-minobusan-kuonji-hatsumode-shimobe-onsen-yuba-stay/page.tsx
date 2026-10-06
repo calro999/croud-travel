@@ -9,12 +9,12 @@ export const metadata: Metadata = {
   description: "山梨県南部、富士川の清流と峻嶺な山々に抱かれた身延・下部エリア。11〜1月は澄み渡る冬晴れの下、日蓮宗総本山「身延山久遠寺」が荘厳な冬景色に包まれます。標高1153mの奥之院思親閣からは冠雪の富士山と駿河湾を一望し、樹齢400年を超える千本杉や国登録有形文化財の三門で迎える清冽な新春初詣。滋味豊かな伝統「身延山ゆば料理」を賞味し、武田信玄公が川中島の傷を癒やしたと伝わる名湯百選「下部温泉」のぬる湯治を満喫する、冬の開運紀行と厳選名宿5選。",
   keywords: '身延山久遠寺 初詣, 奥之院思親閣 富士山, 身延山ロープウェイ 冬, 下部温泉 ぬる湯治, 下部ホテル, 旅館田中屋 身延山, 身延ゆば 会席, 富士川 冬 観光, 山梨 冬 旅行',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-yamanashi-minobusan-kuonji-hatsumode-shimobe-onsen-yuba-stay'
+    canonical: 'https://croud-travel.pages.dev/winter-yamanashi-minobusan-kuonji-hatsumode-shimobe-onsen-yuba-stay'
   },
   openGraph: {
     title: "【11・12・1月山梨】日蓮宗総本山「身延山久遠寺」白銀の奥之院思親閣新春初詣と三門・千本杉！富士川冬景色・名物身延湯葉会席＆信玄隠し湯「下部温泉」ぬる湯治厳選名宿5選",
     description: "山梨県南部、富士川の清流と峻嶺な山々に抱かれた身延・下部エリア。11〜1月は澄み渡る冬晴れの下、日蓮宗総本山「身延山久遠寺」が荘厳な冬景色に包まれます。標高1153mの奥之院思親閣からは冠雪の富士山と駿河湾を一望し、樹齢400年を超える千本杉や国登録有形文化財の三門で迎える清冽な新春初詣。滋味豊かな伝統「身延山ゆば料理」を賞味し、武田信玄公が川中島の傷を癒やしたと伝わる名湯百選「下部温泉」のぬる湯治を満喫する、冬の開運紀行と厳選名宿5選。",
-    url: 'https://croud-travel.com/winter-yamanashi-minobusan-kuonji-hatsumode-shimobe-onsen-yuba-stay',
+    url: 'https://croud-travel.pages.dev/winter-yamanashi-minobusan-kuonji-hatsumode-shimobe-onsen-yuba-stay',
     siteName: 'クラドトラベル',
     type: 'article',
     locale: 'ja_JP',
@@ -51,12 +51,12 @@ export default function YamanashiMinobusanWinterFeaturePage() {
       "name": "クラドトラベル",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://croud-travel.com/logo.png"
+        "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.com/winter-yamanashi-minobusan-kuonji-hatsumode-shimobe-onsen-yuba-stay"
+      "@id": "https://croud-travel.pages.dev/winter-yamanashi-minobusan-kuonji-hatsumode-shimobe-onsen-yuba-stay"
     }
   };
 
@@ -68,19 +68,19 @@ export default function YamanashiMinobusanWinterFeaturePage() {
         "@type": "ListItem",
         "position": 1,
         "name": "ホーム",
-        "item": "https://croud-travel.com/"
+        "item": "https://croud-travel.pages.dev/"
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "特集一覧",
-        "item": "https://croud-travel.com/features"
+        "item": "https://croud-travel.pages.dev/features"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "山梨・身延山久遠寺＆下部温泉 冬の初詣とぬる湯治",
-        "item": "https://croud-travel.com/winter-yamanashi-minobusan-kuonji-hatsumode-shimobe-onsen-yuba-stay"
+        "item": "https://croud-travel.pages.dev/winter-yamanashi-minobusan-kuonji-hatsumode-shimobe-onsen-yuba-stay"
       }
     ]
   };

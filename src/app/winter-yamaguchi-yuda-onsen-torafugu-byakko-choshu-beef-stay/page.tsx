@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月山口・湯田温泉の白狐の湯と国宝瑠璃光寺散策】本場下関直送とらふぐフルコース＆やまぐち和牛燦・毎分2000L源泉の名宿5選",
     description: "11月から12月にかけて、室町時代の雅な大内文化と幕末維新の胎動が息づく山口県山口市の「湯田温泉（ゆだおんせん）」は、冬の美食の最高峰「とらふぐ」が旬を迎え、白狐伝説に彩られた名湯がいっそう恋しくなる季節を迎えます。白狐が毎夜傷を癒やしたと伝わる湯田の湯は、1日2000トン・毎分約2000リットルという西日本屈指の湧出量を誇るpH9.1のアルカリ性単純温泉。柔らかく肌になじむアルカリ泉が古い角質をやさしく洗い流し、つるつるの美肌へ導きます。夕食には本場・下関南風泊港から直送される透き通るような「とらふぐ刺し（てっさ）」や熱々の「ふぐちり鍋」、香ばしい「ふぐヒレ酒」、山口の誇る黒毛和牛「やまぐち和牛 燦（きらめき）」。国宝・瑠璃光寺五重塔の初冬風景とともに至福の滞在を約束する厳選名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-yamaguchi-yuda-onsen-torafugu-byakko-choshu-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-yamaguchi-yuda-onsen-torafugu-byakko-choshu-beef-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -166,28 +166,28 @@ export default function WinterYamaguchiYudaPage() {
     '@graph': [
       {
         '@type': 'Article',
-        '@id': 'https://croud-travel.com/winter-yamaguchi-yuda-onsen-torafugu-byakko-choshu-beef-stay#article',
+        '@id': 'https://croud-travel.pages.dev/winter-yamaguchi-yuda-onsen-torafugu-byakko-choshu-beef-stay#article',
         'isPartOf': {
           '@type': 'WebSite',
-          '@id': 'https://croud-travel.com/#website',
+          '@id': 'https://croud-travel.pages.dev/#website',
           'name': 'クラドトラベル',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         },
         'headline': "【11・12月山口・湯田温泉の白狐の湯と国宝瑠璃光寺散策】本場下関直送とらふぐフルコース＆やまぐち和牛燦・毎分2000L源泉の名宿5選",
         'description': "11月から12月にかけて、室町時代の雅な大内文化と幕末維新の胎動が息づく山口県山口市の「湯田温泉（ゆだおんせん）」は、冬の美食の最高峰「とらふぐ」が旬を迎え、白狐伝説に彩られた名湯がいっそう恋しくなる季節を迎えます。白狐が毎夜傷を癒やしたと伝わる湯田の湯は、1日2000トン・毎分約2000リットルという西日本屈指の湧出量を誇るpH9.1のアルカリ性単純温泉。柔らかく肌になじむアルカリ泉が古い角質をやさしく洗い流し、つるつるの美肌へ導きます。夕食には本場・下関南風泊港から直送される透き通るような「とらふぐ刺し（てっさ）」や熱々の「ふぐちり鍋」、香ばしい「ふぐヒレ酒」、山口の誇る黒毛和牛「やまぐち和牛 燦（きらめき）」。国宝・瑠璃光寺五重塔の初冬風景とともに至福の滞在を約束する厳選名宿5選を徹底解説します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.com/winter-yamaguchi-yuda-onsen-torafugu-byakko-choshu-beef-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-yamaguchi-yuda-onsen-torafugu-byakko-choshu-beef-stay',
         'datePublished': '2026-09-29T00:00:00+09:00',
         'dateModified': '2026-09-29T00:00:00+09:00',
         'publisher': {
           '@type': 'Organization',
           'name': 'クラドトラベル編集部',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         }
       },
       {
         '@type': 'TouristDestination',
-        '@id': 'https://croud-travel.com/winter-yamaguchi-yuda-onsen-torafugu-byakko-choshu-beef-stay#destination',
+        '@id': 'https://croud-travel.pages.dev/winter-yamaguchi-yuda-onsen-torafugu-byakko-choshu-beef-stay#destination',
         'name': '山口・湯田温泉',
         'description': '西日本屈指の毎分2000L湧出を誇る白狐伝説の名湯。本場下関直送とらふぐ、やまぐち和牛燦、国宝瑠璃光寺五重塔が魅力。',
         'geo': {
@@ -198,7 +198,7 @@ export default function WinterYamaguchiYudaPage() {
       },
       {
         '@type': 'FAQPage',
-        '@id': 'https://croud-travel.com/winter-yamaguchi-yuda-onsen-torafugu-byakko-choshu-beef-stay#faq',
+        '@id': 'https://croud-travel.pages.dev/winter-yamaguchi-yuda-onsen-torafugu-byakko-choshu-beef-stay#faq',
         'mainEntity': faqList.map((f) => ({
           '@type': 'Question',
           'name': f.q,
@@ -210,7 +210,7 @@ export default function WinterYamaguchiYudaPage() {
       },
       {
         '@type': 'ItemList',
-        '@id': 'https://croud-travel.com/winter-yamaguchi-yuda-onsen-torafugu-byakko-choshu-beef-stay#hotellist',
+        '@id': 'https://croud-travel.pages.dev/winter-yamaguchi-yuda-onsen-torafugu-byakko-choshu-beef-stay#hotellist',
         'name': '山口湯田温泉のおすすめ名宿5選',
         'itemListElement': hotels.map((h, idx) => ({
           '@type': 'ListItem',

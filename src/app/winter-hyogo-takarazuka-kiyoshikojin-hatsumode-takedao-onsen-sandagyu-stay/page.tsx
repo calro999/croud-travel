@@ -10,12 +10,12 @@ export const metadata: Metadata = {
   description: "夢の舞台が華やぐ宝塚大劇場と、武庫川渓谷の奥深くに隠された秘湯・武田尾温泉を巡る11〜1月の冬紀行。「火の神・台所の神」として関西一円から信仰を集める清荒神清澄寺や聖徳太子創建の中山寺で迎える厳かな新春初詣。隈研吾氏設計の離れで味わう武田尾温泉の自家源泉ラドン露天風呂、大劇場オフィシャルホテルの気品あふれる滞在。兵庫県最高峰のブランド黒毛和牛「三田牛」のすき焼きや冬のぼたん鍋を堪能する厳選名宿5選を徹底特集。",
   keywords: '宝塚大劇場 冬, 清荒神 初詣, 中山寺 初詣, 武田尾温泉 紅葉舘別庭あざれ, 宝塚ホテル, ホテル若水, 三田牛, 宝塚温泉, 兵庫 冬旅行, 隈研吾 温泉',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-hyogo-takarazuka-kiyoshikojin-hatsumode-takedao-onsen-sandagyu-stay'
+    canonical: 'https://croud-travel.pages.dev/winter-hyogo-takarazuka-kiyoshikojin-hatsumode-takedao-onsen-sandagyu-stay'
   },
   openGraph: {
     title: "【11・12・1月兵庫】宝塚大劇場冬公演と「清荒神清澄寺」新春初詣！武田尾温泉の秘湯雪見露天＆極上「三田牛」厳選名宿5選",
     description: "夢の舞台が華やぐ宝塚大劇場と、武庫川渓谷の奥深くに隠された秘湯・武田尾温泉を巡る11〜1月の冬紀行。「火の神・台所の神」として関西一円から信仰を集める清荒神清澄寺や聖徳太子創建の中山寺で迎える厳かな新春初詣。隈研吾氏設計の離れで味わう武田尾温泉の自家源泉ラドン露天風呂、大劇場オフィシャルホテルの気品あふれる滞在。兵庫県最高峰のブランド黒毛和牛「三田牛」のすき焼きや冬のぼたん鍋を堪能する厳選名宿5選を徹底特集。",
-    url: 'https://croud-travel.com/winter-hyogo-takarazuka-kiyoshikojin-hatsumode-takedao-onsen-sandagyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-hyogo-takarazuka-kiyoshikojin-hatsumode-takedao-onsen-sandagyu-stay',
     type: 'article',
     images: [
       {
@@ -48,19 +48,19 @@ export default function HyogoTakarazukaWinterPage() {
     "author": {
       "@type": "Organization",
       "name": "旅宿クラウド 編集部",
-      "url": "https://croud-travel.com"
+      "url": "https://croud-travel.pages.dev"
     },
     "publisher": {
       "@type": "Organization",
       "name": "旅宿クラウド",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://croud-travel.com/logo.png"
+        "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.com/winter-hyogo-takarazuka-kiyoshikojin-hatsumode-takedao-onsen-sandagyu-stay"
+      "@id": "https://croud-travel.pages.dev/winter-hyogo-takarazuka-kiyoshikojin-hatsumode-takedao-onsen-sandagyu-stay"
     }
   };
 
@@ -72,19 +72,19 @@ export default function HyogoTakarazukaWinterPage() {
         "@type": "ListItem",
         "position": 1,
         "name": "ホーム",
-        "item": "https://croud-travel.com"
+        "item": "https://croud-travel.pages.dev"
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "特集一覧",
-        "item": "https://croud-travel.com/features"
+        "item": "https://croud-travel.pages.dev/features"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "兵庫・宝塚＆武田尾温泉 冬特集",
-        "item": "https://croud-travel.com/winter-hyogo-takarazuka-kiyoshikojin-hatsumode-takedao-onsen-sandagyu-stay"
+        "item": "https://croud-travel.pages.dev/winter-hyogo-takarazuka-kiyoshikojin-hatsumode-takedao-onsen-sandagyu-stay"
       }
     ]
   };
@@ -649,7 +649,7 @@ export default function HyogoTakarazukaWinterPage() {
 
       {/* Footer */}
       <footer className="bg-slate-950 text-slate-400 py-8 px-4 text-center text-xs">
-        <p>© 2026 旅宿クラウド (croud-travel.com). All rights reserved.</p>
+        <p>© 2026 旅宿クラウド (croud-travel.pages.dev). All rights reserved.</p>
         <p className="mt-1 text-slate-500">
           ※本記事に掲載している宿泊施設情報、価格、評価、公演スケジュール等は、楽天トラベルAPIおよび公式サイトの最新データに基づいています。冬期の初詣参拝時間や劇場の休演日は変更となる場合がありますので、お出かけ前にご確認ください。
         </p>

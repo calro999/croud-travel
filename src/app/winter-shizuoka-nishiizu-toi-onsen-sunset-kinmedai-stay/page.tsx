@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月静岡】西伊豆・土肥温泉の黄金夕日富士と極上寒金目鯛姿煮＆伊勢海老・日本一早咲きの土肥桜露天を巡る名宿5選",
     description: "11月から1月、温暖な黒潮が洗う西伊豆最古の名湯「土肥（とい）温泉」は、駿河湾の彼方に雪化粧した富士山を望む絶景と、冬の最高峰の海の幸が揃う黄金シーズンを迎えます。空気が澄み渡る初冬から真冬にかけての夕暮れ時、海と空を茜色から黄金色へと染め上げる「西伊豆の夕日」と富士山のシルエットは、息を呑むほどドラマチックな美しさ。さらに12月中旬から蕾をほころばせ、1月中旬には満開を迎える「日本一早咲きの土肥桜（といざくら）」は、極濃ピンクの花びらが冬の碧空に映える奇跡の風物詩です。湯量豊富な弱アルカリ性のカルシウム・ナトリウム-硫酸塩・塩化物温泉は、冷えた体を芯から温める名湯。夕食には脂の乗り切った名物「寒金目鯛の姿煮」や甘み溢れる「伊勢海老」、あわびの踊り焼き、近隣の戸田港から届く深海魚・高足ガニが食卓を彩ります。冬花見と夕日絶景、海の美食を満喫できる厳選5宿をご案内します。",
-    url: 'https://croud-travel.com/winter-shizuoka-nishiizu-toi-onsen-sunset-kinmedai-stay',
+    url: 'https://croud-travel.pages.dev/winter-shizuoka-nishiizu-toi-onsen-sunset-kinmedai-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -44,10 +44,10 @@ export default function ShizuokaNishiizuToiOnsenWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-shizuoka-nishiizu-toi-onsen-sunset-kinmedai-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-shizuoka-nishiizu-toi-onsen-sunset-kinmedai-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-shizuoka-nishiizu-toi-onsen-sunset-kinmedai-stay"
+          "@id": "https://croud-travel.pages.dev/winter-shizuoka-nishiizu-toi-onsen-sunset-kinmedai-stay"
         },
         "headline": "【11・12・1月静岡】西伊豆・土肥温泉の黄金夕日富士と極上寒金目鯛姿煮＆伊勢海老・日本一早咲きの土肥桜露天を巡る名宿5選",
         "description": "11月から1月、温暖な黒潮が洗う西伊豆最古の名湯「土肥（とい）温泉」は、駿河湾の彼方に雪化粧した富士山を望む絶景と、冬の最高峰の海の幸が揃う黄金シーズンを迎えます。空気が澄み渡る初冬から真冬にかけての夕暮れ時、海と空を茜色から黄金色へと染め上げる「西伊豆の夕日」と富士山のシルエットは、息を呑むほどドラマチックな美しさ。さらに12月中旬から蕾をほころばせ、1月中旬には満開を迎える「日本一早咲きの土肥桜（といざくら）」は、極濃ピンクの花びらが冬の碧空に映える奇跡の風物詩です。湯量豊富な弱アルカリ性のカルシウム・ナトリウム-硫酸塩・塩化物温泉は、冷えた体を芯から温める名湯。夕食には脂の乗り切った名物「寒金目鯛の姿煮」や甘み溢れる「伊勢海老」、あわびの踊り焼き、近隣の戸田港から届く深海魚・高足ガニが食卓を彩ります。冬花見と夕日絶景、海の美食を満喫できる厳選5宿をご案内します。",
@@ -57,46 +57,46 @@ export default function ShizuokaNishiizuToiOnsenWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "クラドトラベル 絶景・美食温泉取材班",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル",
-          "url": "https://croud-travel.com",
+          "url": "https://croud-travel.pages.dev",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
-        "mainEntityOfPage": "https://croud-travel.com/winter-shizuoka-nishiizu-toi-onsen-sunset-kinmedai-stay"
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-shizuoka-nishiizu-toi-onsen-sunset-kinmedai-stay"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://croud-travel.com/winter-shizuoka-nishiizu-toi-onsen-sunset-kinmedai-stay#breadcrumb",
+        "@id": "https://croud-travel.pages.dev/winter-shizuoka-nishiizu-toi-onsen-sunset-kinmedai-stay#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com"
+            "item": "https://croud-travel.pages.dev"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "静岡・西伊豆土肥温泉の夕日富士と土肥桜特集",
-            "item": "https://croud-travel.com/winter-shizuoka-nishiizu-toi-onsen-sunset-kinmedai-stay"
+            "item": "https://croud-travel.pages.dev/winter-shizuoka-nishiizu-toi-onsen-sunset-kinmedai-stay"
           }
         ]
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-shizuoka-nishiizu-toi-onsen-sunset-kinmedai-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-shizuoka-nishiizu-toi-onsen-sunset-kinmedai-stay#faq",
         "mainEntity": [{"@type":"Question","name":"日本一早咲きの桜「土肥桜（といざくら）」の見頃や特徴は？河津桜との違いは何ですか？","acceptedAnswer":{"@type":"Answer","text":"土肥桜は、伊豆半島で有名な「河津桜」よりもさらに約半月〜1ヶ月早く咲く【日本一早咲きの桜】です。例年12月中旬頃から蕾がほころび始め、1月中旬から2月中旬にかけて見頃を迎えます。花の特徴は、ソメイヨシノよりも濃い鮮やかなピンク色（紅色）で、1枝に6〜7個もの花が密集して下向きに咲くため、非常に華やかでボリューム感があります。メイン会場である「松原公園」や「土肥金山」を中心に温泉街各所に約400本が植えられており、冬の澄み切った青空や海とのコントラスト、夜間のライトアップが素晴らしい絶景を生み出します。"}},{"@type":"Question","name":"冬（11月・12月・1月）の西伊豆・土肥温泉の気候や道路状況、服装は？雪は降りますか？","acceptedAnswer":{"@type":"Answer","text":"西伊豆は黒潮が流れる駿河湾に面しているため、本州の中でも極めて温暖な海洋性気候です。真冬の12月や1月でも平野部や海岸沿いで雪が降ったり積もったりすることは極めて稀で、基本的にノーマルタイヤで快適にドライブを楽しむことができます。ただし、天城峠や伊豆スカイラインなどの標高の高い山越えルートを通る場合は、寒波の襲来時に凍結・降雪の可能性があるため、天気予報を確認し、必要に応じて沼津方面から海岸沿いを走る国道136号ルートを選択するのがおすすめです。"}},{"@type":"Question","name":"土肥温泉の泉質と美肌効果、歴史について教えてください。","acceptedAnswer":{"@type":"Answer","text":"土肥温泉は江戸時代慶長年間に土肥金山の開発中に湧き出たのが始まりとされる西伊豆最古の歴史ある温泉です。泉質は「カルシウム・ナトリウム-硫酸塩・塩化物温泉（低張性弱アルカリ性高温泉）」。無色透明でさらりとした優しい肌触りながら、塩化物泉特有の塩分パック効果で体の温もりが驚くほど長持ちします。さらに硫酸塩泉の働きにより肌にハリと弾力を与え、古い角質をやわらげるため「美肌と保温のダブル効果」が期待できる名湯です。"}},{"@type":"Question","name":"土肥温泉周辺の冬の見どころや観光スポットはどこですか？","acceptedAnswer":{"@type":"Answer","text":"世界一の巨大金塊（重さ250kg、時価約20億円超）に触れることができる「土肥金山」は必見の人気スポット。坑道内は年間を通じて約19℃と冬でも暖かく快適に見学できます。また、黄金色の夕日と海越しに富士山を望む絶景名所「旅人岬（たびびとみさき）」や、恋人の聖地として有名な「恋人岬」、ギネス認定の世界一の花時計がある「松原公園」など、冬の澄んだ大気の中で絶景を満喫できる名所が目白押しです。"}},{"@type":"Question","name":"東京や名古屋・大阪方面から土肥温泉へのアクセス方法は？","acceptedAnswer":{"@type":"Answer","text":"車の場合、東名高速道路「沼津IC」または新東名「長泉沼津IC」から伊豆縦貫自動車道〜修善寺道路を経由して国道136号で約60〜70分です。公共交通機関の場合、JR東海道新幹線「三島駅」から伊豆箱根鉄道駿豆線で「修善寺駅」へ行き、そこから東海バス（土肥・松崎行き）に乗り換えて約50分で土肥温泉に到着します。また、静岡市清水港と土肥港をわずか75分で結ぶ「駿河湾フェリー」を利用すれば、船上から雄大な富士山を眺めながらの快適な海上クルーズアクセスも可能です。"}}]
       }
     ]

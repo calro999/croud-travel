@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月長野】白銀の戸隠神社・奥社杉並木と冬の戸隠新そば＆国宝善光寺「お朝事」初詣・信州牛を堪能する名宿5選",
     description: "11月から1月、信州の冬は静謐と祈りに満ちた神聖な季節を迎えます。樹齢400年を超える杉並木が一面の雪化粧に包まれる日本屈指の聖地「戸隠神社・奥社」の白銀古道と、秋収穫の風味豊かな「戸隠手打ち新そば」。そして約1400年の歴史を誇り「一生に一度は善光寺参り」と称される国宝「善光寺」での冬の朝のお朝事（あさじ）・お数珠頂戴と新春初詣。善光寺門前の歴史ある宿坊や格式高いシティホテル、信州プレミアム牛肉のすき焼きと信州味噌仕立ての温かな郷土料理に癒やされる冬の名宿5選をお届けします。",
-    url: 'https://croud-travel.com/winter-nagano-togakushi-zenkoji-hatsumode-snow-soba-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-nagano-togakushi-zenkoji-hatsumode-snow-soba-beef-stay',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -50,20 +50,20 @@ export default function NaganoTogakushiZenkojiWinterPage() {
     author: {
       '@type': 'Organization',
       name: 'クラドトラベル編集部',
-      url: 'https://croud-travel.com'
+      url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
       name: 'クラドトラベル',
-      url: 'https://croud-travel.com',
+      url: 'https://croud-travel.pages.dev',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://croud-travel.com/logo.png'
+        url: 'https://croud-travel.pages.dev/logo.png'
       }
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.com/winter-nagano-togakushi-zenkoji-hatsumode-snow-soba-beef-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-nagano-togakushi-zenkoji-hatsumode-snow-soba-beef-stay'
     }
   };
 
@@ -75,19 +75,19 @@ export default function NaganoTogakushiZenkojiWinterPage() {
         '@type': 'ListItem',
         position: 1,
         name: 'ホーム',
-        item: 'https://croud-travel.com/'
+        item: 'https://croud-travel.pages.dev/'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.com/features'
+        item: 'https://croud-travel.pages.dev/features'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '戸隠神社＆善光寺 白銀古道と冬の新そば・初詣名宿',
-        item: 'https://croud-travel.com/winter-nagano-togakushi-zenkoji-hatsumode-snow-soba-beef-stay'
+        item: 'https://croud-travel.pages.dev/winter-nagano-togakushi-zenkoji-hatsumode-snow-soba-beef-stay'
       }
     ]
   };

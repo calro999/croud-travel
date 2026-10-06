@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月福岡・水郷柳川の冬の風物詩「こたつ舟」川下り】名物元祖うなぎのせいろ蒸し＆博多和牛会席を味わう城下町・掘割温泉名宿5選",
     description: "11月から12月にかけて、北原白秋の故郷として知られる水郷・福岡県柳川は、どんこ舟に温かい火鉢やこたつを乗せた冬の風物詩「こたつ舟」が運航を開始し、1年で最も情緒豊かな季節を迎えます。掘割沿いの柳並木やなまこ壁の白壁土塀をぬくぬく温まりながら巡る川下り、旧柳川藩主立花家別邸「御花」の美しい松涛園、そして冷えた身体を芯から解きほぐす天然温泉。湯気を上げる名物「元祖うなぎのせいろ蒸し」の香ばしいタレの香り、有明海の冬の珍味、極上の博多和牛会席を味わう城下町の厳選名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-fukuoka-yanagawa-onsen-kotatsubune-unagi-seiromushi-stay',
+    url: 'https://croud-travel.pages.dev/winter-fukuoka-yanagawa-onsen-kotatsubune-unagi-seiromushi-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -166,28 +166,28 @@ export default function WinterFukuokaYanagawaPage() {
     '@graph': [
       {
         '@type': 'Article',
-        '@id': 'https://croud-travel.com/winter-fukuoka-yanagawa-onsen-kotatsubune-unagi-seiromushi-stay#article',
+        '@id': 'https://croud-travel.pages.dev/winter-fukuoka-yanagawa-onsen-kotatsubune-unagi-seiromushi-stay#article',
         'isPartOf': {
           '@type': 'WebSite',
-          '@id': 'https://croud-travel.com/#website',
+          '@id': 'https://croud-travel.pages.dev/#website',
           'name': 'クラドトラベル',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         },
         'headline': "【11・12月福岡・水郷柳川の冬の風物詩「こたつ舟」川下り】名物元祖うなぎのせいろ蒸し＆博多和牛会席を味わう城下町・掘割温泉名宿5選",
         'description': "11月から12月にかけて、北原白秋の故郷として知られる水郷・福岡県柳川は、どんこ舟に温かい火鉢やこたつを乗せた冬の風物詩「こたつ舟」が運航を開始し、1年で最も情緒豊かな季節を迎えます。掘割沿いの柳並木やなまこ壁の白壁土塀をぬくぬく温まりながら巡る川下り、旧柳川藩主立花家別邸「御花」の美しい松涛園、そして冷えた身体を芯から解きほぐす天然温泉。湯気を上げる名物「元祖うなぎのせいろ蒸し」の香ばしいタレの香り、有明海の冬の珍味、極上の博多和牛会席を味わう城下町の厳選名宿5選を徹底解説します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.com/winter-fukuoka-yanagawa-onsen-kotatsubune-unagi-seiromushi-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-fukuoka-yanagawa-onsen-kotatsubune-unagi-seiromushi-stay',
         'datePublished': '2026-09-28T00:00:00+09:00',
         'dateModified': '2026-09-28T00:00:00+09:00',
         'publisher': {
           '@type': 'Organization',
           'name': 'クラドトラベル編集部',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         }
       },
       {
         '@type': 'TouristDestination',
-        '@id': 'https://croud-travel.com/winter-fukuoka-yanagawa-onsen-kotatsubune-unagi-seiromushi-stay#destination',
+        '@id': 'https://croud-travel.pages.dev/winter-fukuoka-yanagawa-onsen-kotatsubune-unagi-seiromushi-stay#destination',
         'name': '水郷柳川温泉',
         'description': '網の目のように掘割が巡る水郷の城下町。冬はどんこ舟にこたつを乗せた「こたつ舟」とうなぎのせいろ蒸しが名物。',
         'geo': {
@@ -198,7 +198,7 @@ export default function WinterFukuokaYanagawaPage() {
       },
       {
         '@type': 'FAQPage',
-        '@id': 'https://croud-travel.com/winter-fukuoka-yanagawa-onsen-kotatsubune-unagi-seiromushi-stay#faq',
+        '@id': 'https://croud-travel.pages.dev/winter-fukuoka-yanagawa-onsen-kotatsubune-unagi-seiromushi-stay#faq',
         'mainEntity': faqList.map((f) => ({
           '@type': 'Question',
           'name': f.q,
@@ -210,7 +210,7 @@ export default function WinterFukuokaYanagawaPage() {
       },
       {
         '@type': 'ItemList',
-        '@id': 'https://croud-travel.com/winter-fukuoka-yanagawa-onsen-kotatsubune-unagi-seiromushi-stay#hotellist',
+        '@id': 'https://croud-travel.pages.dev/winter-fukuoka-yanagawa-onsen-kotatsubune-unagi-seiromushi-stay#hotellist',
         'name': '福岡・水郷柳川温泉のおすすめ名宿5選',
         'itemListElement': hotels.map((h, idx) => ({
           '@type': 'ListItem',

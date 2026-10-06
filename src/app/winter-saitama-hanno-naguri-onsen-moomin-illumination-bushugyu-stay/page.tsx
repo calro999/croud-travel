@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月埼玉】ムーミンバレーパーク冬イルミ＆名栗温泉の秘湯！奥武蔵の薪火サウナと武州和牛名宿5選",
     description: "都心から特急でわずか40分、北欧の冬情趣と豊かな山林が広がる埼玉・飯能＆奥武蔵の11〜1月冬旅特集。宮沢湖畔を光と音で包むムーミンバレーパークの幻想的イルミネーション「ウィンターワンダーランド」、入間川上流・名栗渓谷に湧く老舗の名湯「名栗温泉」、フィンランド式薪火サウナ、極上の肉質を誇る埼玉の銘柄牛「武州和牛」と奥武蔵ジビエ鍋。冬の贅沢な休息に最適な厳選ホテル・温泉宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-saitama-hanno-naguri-onsen-moomin-illumination-bushugyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-saitama-hanno-naguri-onsen-moomin-illumination-bushugyu-stay',
     type: 'article',
     images: [
       {
@@ -49,19 +49,19 @@ export default function SaitamaHannoNaguriWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "旅クラウド編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "旅クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-saitama-hanno-naguri-onsen-moomin-illumination-bushugyu-stay"
+          "@id": "https://croud-travel.pages.dev/winter-saitama-hanno-naguri-onsen-moomin-illumination-bushugyu-stay"
         }
       },
       {
@@ -71,19 +71,19 @@ export default function SaitamaHannoNaguriWinterPage() {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com"
+            "item": "https://croud-travel.pages.dev"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "冬の旅特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "埼玉・飯能＆名栗温泉名宿",
-            "item": "https://croud-travel.com/winter-saitama-hanno-naguri-onsen-moomin-illumination-bushugyu-stay"
+            "item": "https://croud-travel.pages.dev/winter-saitama-hanno-naguri-onsen-moomin-illumination-bushugyu-stay"
           }
         ]
       },

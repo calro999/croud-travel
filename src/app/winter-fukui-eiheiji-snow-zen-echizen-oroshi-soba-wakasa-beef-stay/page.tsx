@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月福井】曹洞宗大本山永平寺の雪静寂＆新春開運参拝！名物越前おろしそばと極上若狭牛・越前がにを味わう名宿5選",
     description: "冬の福井・永平寺は、樹齢数百年を数える杉木立と回廊が純白の雪に包まれ、770余年の歴史を誇る禅の祈りが厳かに響き渡る静寂の聖地。11月から1月にかけての冬期は、永平寺の新春開運参拝や坐禅体験、傘松閣の絵天井の美、名物「越前おろしそば」のピリリとした大根の辛み、そして日本海がもたらす冬の味覚の王者「越前がに」と極上黒毛和牛「若狭牛」の贅沢な味わい。北陸新幹線でより身近になった福井の歴史と美味に浸る厳選名宿5選を詳しくご案内します。",
-    url: 'https://croud-travel.com/winter-fukui-eiheiji-snow-zen-echizen-oroshi-soba-wakasa-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-fukui-eiheiji-snow-zen-echizen-oroshi-soba-wakasa-beef-stay',
     type: 'article',
     images: [{ url: 'https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&q=630', width: 1200, height: 630, alt: '大本山永平寺の雪景色と静寂の回廊' }]
   },
@@ -155,9 +155,9 @@ export default function FukuiEiheijiPage() {
       {
         '@type': 'BreadcrumbList',
         'itemListElement': [
-          { '@type': 'ListItem', 'position': 1, 'name': 'ホーム', 'item': 'https://croud-travel.com' },
-          { '@type': 'ListItem', 'position': 2, 'name': '特集一覧', 'item': 'https://croud-travel.com/features' },
-          { '@type': 'ListItem', 'position': 3, 'name': '永平寺雪静寂と越前おろしそば・若狭牛名宿', 'item': 'https://croud-travel.com/winter-fukui-eiheiji-snow-zen-echizen-oroshi-soba-wakasa-beef-stay' }
+          { '@type': 'ListItem', 'position': 1, 'name': 'ホーム', 'item': 'https://croud-travel.pages.dev' },
+          { '@type': 'ListItem', 'position': 2, 'name': '特集一覧', 'item': 'https://croud-travel.pages.dev/features' },
+          { '@type': 'ListItem', 'position': 3, 'name': '永平寺雪静寂と越前おろしそば・若狭牛名宿', 'item': 'https://croud-travel.pages.dev/winter-fukui-eiheiji-snow-zen-echizen-oroshi-soba-wakasa-beef-stay' }
         ]
       },
       {

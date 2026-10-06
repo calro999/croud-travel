@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月有馬温泉の金泉銀泉と六甲山夜景】日本最古の名湯で芯から温まる冬・最高峰神戸牛会席を味わう老舗宿5選",
     description: "日本三古湯・三名泉の筆頭として豊臣秀吉もこよなく愛した兵庫・有馬温泉。11月の瑞宝寺公園の紅葉の余韻から、12月の六甲山から望む澄み切った1000万ドルの冬夜景。海水の約2倍の塩分と鉄分を含み冬でも湯冷め知らずの赤茶色の名湯「金泉」と、世界最高峰「神戸牛」の贅沢なすき焼き・ステーキ会席を堪能する極上冬宿ガイド。",
-    url: 'https://croud-travel.com/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -44,7 +44,7 @@ export default function ArimaWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay#article",
         "headline": "【11・12月有馬温泉の金泉銀泉と六甲山夜景】日本最古の名湯で芯から温まる冬・最高峰神戸牛会席を味わう老舗宿5選",
         "description": "日本三古湯・三名泉の筆頭として豊臣秀吉もこよなく愛した兵庫・有馬温泉。11月の瑞宝寺公園の紅葉の余韻から、12月の六甲山から望む澄み切った1000万ドルの冬夜景。海水の約2倍の塩分と鉄分を含み冬でも湯冷め知らずの赤茶色の名湯「金泉」と、世界最高峰「神戸牛」の贅沢なすき焼き・ステーキ会席を堪能する極上冬宿ガイド。",
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
@@ -53,24 +53,24 @@ export default function ArimaWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay"
+          "@id": "https://croud-travel.pages.dev/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay"
         }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -108,7 +108,7 @@ export default function ArimaWinterPage() {
       },
       {
         "@type": "ItemList",
-        "@id": "https://croud-travel.com/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay#hotels",
+        "@id": "https://croud-travel.pages.dev/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay#hotels",
         "itemListElement": [
           {
             "@type": "ListItem",

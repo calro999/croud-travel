@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月広島】呉＆江田島・音戸！最旬の広島かき小屋グルメと大和ミュージアム・海上自衛隊艦船ライトアップ冬イルミ・瀬戸内海一望名宿5選",
     description: "冬の瀬戸内海は空気が澄み渡り、歴史ある港町・呉と多島美あふれる江田島が最も旅情を誘う季節です。11月から1月にかけて最盛期を迎える「広島かき」は身が引き締まり濃厚そのもの。江田島の海辺に並ぶ牡蠣小屋での豪快な焼き牡蠣や土手鍋、大和ミュージアム（呉市海事歴史科学館）やてつのくじら館、アレイからすこじまで間近に望む海上自衛隊の潜水艦・護衛艦の冬の夕暮れと幻想的な艦船ライトアップ。平清盛伝説の音戸の瀬戸、名物海軍カレーと広島牛。港町の情緒と極上温泉を味わう厳選名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-hiroshima-kure-edajima-oyster-yamato-port-stay',
+    url: 'https://croud-travel.pages.dev/winter-hiroshima-kure-edajima-oyster-yamato-port-stay',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',
     type: 'article',
@@ -162,10 +162,10 @@ export default function HiroshimaKureEdajimaWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-hiroshima-kure-edajima-oyster-yamato-port-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-hiroshima-kure-edajima-oyster-yamato-port-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-hiroshima-kure-edajima-oyster-yamato-port-stay"
+          "@id": "https://croud-travel.pages.dev/winter-hiroshima-kure-edajima-oyster-yamato-port-stay"
         },
         "headline": "【11・12・1月広島】呉＆江田島・音戸！最旬の広島かき小屋グルメと大和ミュージアム・海上自衛隊艦船ライトアップ冬イルミ・瀬戸内海一望名宿5選",
         "description": "冬の瀬戸内海は空気が澄み渡り、歴史ある港町・呉と多島美あふれる江田島が最も旅情を誘う季節です。11月から1月にかけて最盛期を迎える「広島かき」は身が引き締まり濃厚そのもの。江田島の海辺に並ぶ牡蠣小屋での豪快な焼き牡蠣や土手鍋、大和ミュージアム（呉市海事歴史科学館）やてつのくじら館、アレイからすこじまで間近に望む海上自衛隊の潜水艦・護衛艦の冬の夕暮れと幻想的な艦船ライトアップ。平清盛伝説の音戸の瀬戸、名物海軍カレーと広島牛。港町の情緒と極上温泉を味わう厳選名宿5選を徹底解説します。",
@@ -175,7 +175,7 @@ export default function HiroshimaKureEdajimaWinterPage() {
         "publisher": {
           "@type": "Organization",
           "name": "地域の宿探訪",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         }
       },
       {
@@ -185,19 +185,19 @@ export default function HiroshimaKureEdajimaWinterPage() {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com"
+            "item": "https://croud-travel.pages.dev"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "呉＆江田島・音戸冬特集",
-            "item": "https://croud-travel.com/winter-hiroshima-kure-edajima-oyster-yamato-port-stay"
+            "item": "https://croud-travel.pages.dev/winter-hiroshima-kure-edajima-oyster-yamato-port-stay"
           }
         ]
       },

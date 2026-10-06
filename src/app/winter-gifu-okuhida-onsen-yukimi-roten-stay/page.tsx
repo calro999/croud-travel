@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月奥飛騨温泉郷の雪見露天と北アルプス絶景】圧倒的湯量と雄大な山岳美・飛騨牛朴葉味噌焼き会席の宿5選",
     description: "北アルプス穂高連峰の懐に抱かれた日本屈指の温泉天国・岐阜県奥飛騨温泉郷。11月下旬の初冠雪から12月の白銀世界へと移ろう初冬、毎分44,000リットルを超える圧倒的な湯量を誇る雪見大露天風呂と、極上A5等級飛騨牛の香ばしい朴葉味噌焼き・囲炉裏会席を五感で堪能する冬の名宿ガイド。",
-    url: 'https://croud-travel.com/winter-gifu-okuhida-onsen-yukimi-roten-stay',
+    url: 'https://croud-travel.pages.dev/winter-gifu-okuhida-onsen-yukimi-roten-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -44,7 +44,7 @@ export default function OkuhidaWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-gifu-okuhida-onsen-yukimi-roten-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-gifu-okuhida-onsen-yukimi-roten-stay#article",
         "headline": "【11・12月奥飛騨温泉郷の雪見露天と北アルプス絶景】圧倒的湯量と雄大な山岳美・飛騨牛朴葉味噌焼き会席の宿5選",
         "description": "北アルプス穂高連峰の懐に抱かれた日本屈指の温泉天国・岐阜県奥飛騨温泉郷。11月下旬の初冠雪から12月の白銀世界へと移ろう初冬、毎分44,000リットルを超える圧倒的な湯量を誇る雪見大露天風呂と、極上A5等級飛騨牛の香ばしい朴葉味噌焼き・囲炉裏会席を五感で堪能する冬の名宿ガイド。",
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
@@ -53,24 +53,24 @@ export default function OkuhidaWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-gifu-okuhida-onsen-yukimi-roten-stay"
+          "@id": "https://croud-travel.pages.dev/winter-gifu-okuhida-onsen-yukimi-roten-stay"
         }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-gifu-okuhida-onsen-yukimi-roten-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-gifu-okuhida-onsen-yukimi-roten-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -108,7 +108,7 @@ export default function OkuhidaWinterPage() {
       },
       {
         "@type": "ItemList",
-        "@id": "https://croud-travel.com/winter-gifu-okuhida-onsen-yukimi-roten-stay#hotels",
+        "@id": "https://croud-travel.pages.dev/winter-gifu-okuhida-onsen-yukimi-roten-stay#hotels",
         "itemListElement": [
           {
             "@type": "ListItem",
@@ -652,48 +652,7 @@ export default function OkuhidaWinterPage() {
         </section>
 
         {/* FAQ Section */}
-        <section id="faq" className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-stone-200/80 space-y-6">
-          <div className="flex items-center gap-3 pb-3 border-b border-stone-100">
-            <div className="p-2 rounded-xl bg-emerald-50 text-emerald-800">
-              <HelpCircle className="w-5 h-5" />
-            </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              よくある質問（FAQ）：11・12月奥飛騨旅行の疑問を解消
-            </h2>
-          </div>
-
-          <div className="space-y-4">
-            <div className="p-4 rounded-2xl bg-stone-50 border border-stone-100 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <span className="w-5 h-5 rounded-full bg-emerald-700 text-white flex items-center justify-center text-xs shrink-0">Q</span>
-                奥飛騨温泉郷の雪見露天風呂はいつ頃から楽しめますか？
-              </h3>
-              <p className="text-xs sm:text-sm text-stone-600 pl-7 leading-relaxed">
-                例年、11月中旬に山頂付近が白くなり、11月下旬頃から温泉街でも降雪が見られるようになります。12月に入るとまとまった降雪があり、完全な白銀の「雪見露天風呂」を楽しめる確率が非常に高くなります。年によって初雪の時期は前後するため、最新の天気予報や宿のライブカメラをご確認ください。
-              </p>
-            </div>
-
-            <div className="p-4 rounded-2xl bg-stone-50 border border-stone-100 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <span className="w-5 h-5 rounded-full bg-emerald-700 text-white flex items-center justify-center text-xs shrink-0">Q</span>
-                公共交通機関（電車・バス）だけでも奥飛騨温泉郷に行けますか？
-              </h3>
-              <p className="text-xs sm:text-sm text-stone-600 pl-7 leading-relaxed">
-                はい、十分に可能です。JR高山駅前の「高山濃飛バスセンター」から新穂高温泉行きの路線バスが約1時間間隔で運行しており、平湯温泉までは約50分、新穂高温泉までは約1時間30分で直行できます。また、JR松本駅からも平湯温泉行きの特急バスが運行しています。冬道運転が不安な方にはバスの利用が最も確実で安全です。
-              </p>
-            </div>
-
-            <div className="p-4 rounded-2xl bg-stone-50 border border-stone-100 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <span className="w-5 h-5 rounded-full bg-emerald-700 text-white flex items-center justify-center text-xs shrink-0">Q</span>
-                11月・12月の新穂高ロープウェイ観光時の適切な服装は？
-              </h3>
-              <p className="text-xs sm:text-sm text-stone-600 pl-7 leading-relaxed">
-                山頂の西穂高口駅（標高2,156m）は氷点下となり強風が吹き抜けるため、真冬の防寒対策が必須です。厚手のダウンジャケット、保温性の高いインナー（ヒートテック等）、風を通さない防風パンツ、ニット帽、耳あて、厚手の手袋をご用意ください。また、展望台の足元は雪や氷で滑りやすいため、スニーカーやヒールは避け、滑り止めの効いたスノーブーツやトレッキングシューズを着用してください。
-              </p>
-            </div>
-          </div>
-        </section>
+        
 
         {/* Related Features & Internal Links */}
         <section className="bg-stone-100/80 rounded-3xl p-6 sm:p-8 border border-stone-200 space-y-6">

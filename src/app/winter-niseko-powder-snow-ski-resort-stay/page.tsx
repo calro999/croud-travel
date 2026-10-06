@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【12月オープン！ニセコ極上パウダースノー】世界が称賛するJAPOWと羊蹄山ビュー宿5選",
     description: "12月上旬からスキー場が続々オープン！世界中のスキーヤー・スノーボーダーが憧れる最高峰の粉雪「JAPOW（ジャパン・パウダー）」を体験し、羊蹄山（蝦夷富士）を一望するインフィニティ温泉露天風呂と国際色豊かな極上リゾート。",
-    url: 'https://croud-travel.com/winter-niseko-powder-snow-ski-resort-stay',
+    url: 'https://croud-travel.pages.dev/winter-niseko-powder-snow-ski-resort-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -47,19 +47,19 @@ export default function FeaturePage() {
     "author": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド 編集部",
-      "url": "https://croud-travel.com"
+      "url": "https://croud-travel.pages.dev"
     },
     "publisher": {
       "@type": "Organization",
       "name": "日本全国・旅宿クラウド",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://croud-travel.com/logo.png"
+        "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.com/winter-niseko-powder-snow-ski-resort-stay"
+      "@id": "https://croud-travel.pages.dev/winter-niseko-powder-snow-ski-resort-stay"
     }
   };
 
@@ -271,88 +271,77 @@ export default function FeaturePage() {
         
         
         {/* Model Course Section */}
-        <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
+                {/* Model Course Section */}
+                {/* Model Course Section */}
+                {/* Model Course Section */}
+        <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              【1泊2日】おすすめモデルコース＆旅の過ごし方
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
+              【1泊2日】ニセコノーザンリゾート・アンヌプリを拠点にするおすすめ滞在モデルコース
             </h2>
           </div>
-          <p className="text-stone-600 mb-8 text-sm md:text-base leading-relaxed">
-            本特集の魅力を最大限に満喫するための理想的な1泊2日旅程モデルプランです。周辺の観光名所やグルメスポットとあわせて、無理のないスケジュールで最高の旅をお楽しみください。
-          </p>
-          <div className="space-y-6">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
-                <span className="bg-amber-500 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">出発〜チェックイン・夕食と名湯を満喫</h3>
+                <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">13:30〜</strong> 現地到着後、周辺の散策や名物カフェ・観光スポットをのんびり観光。</li>
-                <li>・<strong className="text-stone-800">15:00〜</strong> お宿へチェックイン。ウェルカムドリンクや特製スイーツを楽しみながら客室で一息。</li>
-                <li>・<strong className="text-stone-800">16:30〜</strong> 夕暮れ時の露天風呂・サウナで日頃の疲れを癒やす極上の湯浴み。</li>
-                <li>・<strong className="text-stone-800">18:30〜</strong> 地元厳選食材をふんだんに使用した旬の会席料理やディナーを堪能。</li>
-                <li>・<strong className="text-stone-800">21:00〜</strong> 星空を仰ぐ夜の露天風呂やラウンジで贅沢な大人の時間を。</li>
+                <li>・<strong className="text-stone-800">14:00〜</strong> ニセコ駅よりアクセス。ＪＲ函館本線ニセコ駅よりタクシー、又はバスで約１０分。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「ニセコノーザンリゾート・アンヌプリ」にチェックイン。口コミ高評価★朝夕ビュッフェ★客室リニューアル＆サウナなどの宿の特徴に期待を高めつつ客室へ。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 「ニセコノーザンリゾート・アンヌプリ」の湯処へ。口コミ高評価★朝夕ビュッフェ★客室リニューアル＆サウナとともに、夕暮れの特別な寛ぎを満喫。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 「ニセコノーザンリゾート・アンヌプリ」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">朝風呂〜朝食・お土産選びと帰路へ</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の清々しい空気の中で目覚めの朝風呂・サウナ。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 炊きたて地元産ごはんと郷土の味覚が並ぶこだわりの朝食。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後、近隣の道の駅や特産品店でお土産選び。</li>
-                <li>・<strong className="text-stone-800">12:00〜</strong> 地元で愛される名物ランチを堪能して、大満足の帰路へ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「ニセコノーザンリゾート・アンヌプリ」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 「ニセコノーザンリゾート・アンヌプリ」こだわりの朝食を堪能。炊きたてのごはんや身体に優しい料理で、一日のエネルギーをチャージ。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後は近隣エリアを観光。本記事でご紹介した「ニセコ温泉郷 いこいの湯宿 いろは」の周辺スポットや名産店に立ち寄り、お土産を選んで帰路へ。</li>
               </ul>
             </div>
           </div>
         </section>
 
         {/* FAQ Section */}
-        <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80">
+        <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
             <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と旅のノウハウ
+              よくある質問（FAQ）とニセコノーザンリゾート・アンヌプリの滞在ポイント
             </h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 予約に最適な時期やタイミングはいつ頃ですか？</span>
+                <span>Q. 「ニセコノーザンリゾート・アンヌプリ」へのアクセスや移動方法について</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 露天風呂付き客室や特選料理プランは数ヶ月前から予約が埋まりやすいため、旅行日程が決まり次第2〜3ヶ月前の早期予約が最も確実です。楽天トラベルの限定クーポンや早期割引プランを活用するとお得に宿泊できます。
+                A. 「ニセコノーザンリゾート・アンヌプリ」へは、ＪＲ函館本線ニセコ駅よりタクシー、又はバスで約１０分。最寄りのニセコ駅からの経路案内も充実しています。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 車でのアクセスと公共交通機関のどちらが便利ですか？</span>
+                <span>Q. 「ニセコノーザンリゾート・アンヌプリ」の魅力や予約時のポイントは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 多くの主要旅館・リゾートホテルは最寄り駅から無料送迎バスを運行しています。周辺の観光名所や景勝地を巡る場合は、最寄り駅前でレンタカーを借りると移動がスムーズでおすすめです。
+                A. 「ニセコノーザンリゾート・アンヌプリ」は『口コミ高評価★朝夕ビュッフェ★客室リニューアル＆サウナ』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 食事のアレルギー対応や部屋食の指定は可能ですか？</span>
+                <span>Q. プラン選びや宿の比較で意識すべき点は？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 多くの宿泊施設で事前連絡によりアレルギー対応が可能です。部屋食や個室食事処プランはプラン予約時に指定するか、予約時の備考欄で宿へ相談することをおすすめします。
-              </p>
-            </details>
-            <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
-              <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 一人旅や子連れファミリーでの宿泊にも向いていますか？</span>
-                <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
-              </summary>
-              <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. はい。一人旅歓迎プランや、家族向けの広い和洋室・貸切風呂完備の宿を厳選しています。プラン詳細の受入条件をご確認の上、安心してお申し込みください。
+                A. 「ニセコノーザンリゾート・アンヌプリ」と「ニセコ温泉郷 いこいの湯宿 いろは」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。
               </p>
             </details>
           </div>
@@ -477,92 +466,44 @@ export default function FeaturePage() {
         </section>
       
         {/* Model Course Section */}
-        <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
+                {/* Model Course Section */}
+        <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              【1泊2日】おすすめモデルコース＆旅の過ごし方
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
+              【1泊2日】ニセコノーザンリゾート・アンヌプリを拠点にするおすすめ滞在モデルコース
             </h2>
           </div>
-          <p className="text-stone-600 mb-8 text-sm md:text-base leading-relaxed">
-            本特集の魅力を最大限に満喫するための理想的な1泊2日旅程モデルプランです。周辺の観光名所やグルメスポットとあわせて、無理のないスケジュールで最高の旅をお楽しみください。
-          </p>
-          <div className="space-y-6">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
-                <span className="bg-amber-500 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">出発〜チェックイン・夕食と名湯を満喫</h3>
+                <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">13:30〜</strong> 現地到着後、周辺の散策や名物カフェ・観光スポットをのんびり観光。</li>
-                <li>・<strong className="text-stone-800">15:00〜</strong> お宿へチェックイン。ウェルカムドリンクや特製スイーツを楽しみながら客室で一息。</li>
-                <li>・<strong className="text-stone-800">16:30〜</strong> 夕暮れ時の露天風呂・サウナで日頃の疲れを癒やす極上の湯浴み。</li>
-                <li>・<strong className="text-stone-800">18:30〜</strong> 地元厳選食材をふんだんに使用した旬の会席料理やディナーを堪能。</li>
-                <li>・<strong className="text-stone-800">21:00〜</strong> 星空を仰ぐ夜の露天風呂やラウンジで贅沢な大人の時間を。</li>
+                <li>・<strong className="text-stone-800">14:00〜</strong> ニセコ駅へ到着。ＪＲ函館本線ニセコ駅よりタクシー、又はバスで約１０分でスムーズに移動。</li>
+                <li>・<strong className="text-stone-800">15:30〜</strong> 「ニセコノーザンリゾート・アンヌプリ」にチェックイン。口コミ高評価★朝夕ビュッフェ★客室リニューアル＆サウナを満喫。</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 本格サウナと天然温泉のととのい体験で夕暮れの贅沢な湯浴み時間をゆったり過ごす。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 特選ブランド牛と地場産品を味わう夕食。地元の恵みを五感で味わう至福のディナー。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">朝風呂〜朝食・お土産選びと帰路へ</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の清々しい空気の中で目覚めの朝風呂・サウナ。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 炊きたて地元産ごはんと郷土の味覚が並ぶこだわりの朝食。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後、近隣の道の駅や特産品店でお土産選び。</li>
-                <li>・<strong className="text-stone-800">12:00〜</strong> 地元で愛される名物ランチを堪能して、大満足の帰路へ。</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の澄み渡る空気のなか目覚めの朝風呂。清々しい風を感じる至福のひととき。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 宿自慢の朝食でエネルギーチャージ。地元食材の優しい味わいを堪能。</li>
+                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後、近隣の名所や「ニセコ温泉郷 いこいの湯宿 いろは」周辺の景勝地へ立ち寄り。</li>
+                <li>・<strong className="text-stone-800">12:30〜</strong> ご当地グルメのランチとお土産選びを楽しみ、大満足で家路へ。</li>
               </ul>
             </div>
           </div>
         </section>
 
         {/* FAQ Section */}
-        <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80">
-          <div className="flex items-center gap-3 mb-6">
-            <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と旅のノウハウ
-            </h2>
-          </div>
-          <div className="space-y-4">
-            <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
-              <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 予約に最適な時期やタイミングはいつ頃ですか？</span>
-                <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
-              </summary>
-              <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 露天風呂付き客室や特選料理プランは数ヶ月前から予約が埋まりやすいため、旅行日程が決まり次第2〜3ヶ月前の早期予約が最も確実です。楽天トラベルの限定クーポンや早期割引プランを活用するとお得に宿泊できます。
-              </p>
-            </details>
-            <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
-              <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 車でのアクセスと公共交通機関のどちらが便利ですか？</span>
-                <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
-              </summary>
-              <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 多くの主要旅館・リゾートホテルは最寄り駅から無料送迎バスを運行しています。周辺の観光名所や景勝地を巡る場合は、最寄り駅前でレンタカーを借りると移動がスムーズでおすすめです。
-              </p>
-            </details>
-            <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
-              <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 食事のアレルギー対応や部屋食の指定は可能ですか？</span>
-                <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
-              </summary>
-              <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 多くの宿泊施設で事前連絡によりアレルギー対応が可能です。部屋食や個室食事処プランはプラン予約時に指定するか、予約時の備考欄で宿へ相談することをおすすめします。
-              </p>
-            </details>
-            <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
-              <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 一人旅や子連れファミリーでの宿泊にも向いていますか？</span>
-                <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
-              </summary>
-              <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. はい。一人旅歓迎プランや、家族向けの広い和洋室・貸切風呂完備の宿を厳選しています。プラン詳細の受入条件をご確認の上、安心してお申し込みください。
-              </p>
-            </details>
-          </div>
-        </section>
+        
 
         {/* Internal Link Mesh: Related Features & Prefectures */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">

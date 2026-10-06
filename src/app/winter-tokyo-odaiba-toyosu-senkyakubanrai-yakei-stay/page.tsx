@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月東京】お台場レインボー花火＆豊洲千客万来！冬の東京ベイ夜景と江戸前海鮮・天然温泉に寛ぐ名宿5選",
     description: "冬の東京ベイエリアは、澄み切った澄明な冬空にレインボーブリッジと東京タワーが重なり合う年間最美の夜景シーズン。12月毎週土曜日に開催される「お台場レインボー花火」、2024年に誕生した「豊洲千客万来」の江戸前活気と市場直送グルメ・展望足湯庭園、有明の天然温泉「泉天空の湯」まで、冬の東京の華やぎと温もりが凝縮。楽天APIから最新取得したお台場・有明・豊洲の極上ホテル5選を徹底特集します。",
-    url: 'https://croud-travel.com/winter-tokyo-odaiba-toyosu-senkyakubanrai-yakei-stay',
+    url: 'https://croud-travel.pages.dev/winter-tokyo-odaiba-toyosu-senkyakubanrai-yakei-stay',
     type: 'article',
     images: [{ url: 'https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1200&q=80' }]
   }
@@ -149,15 +149,15 @@ export default function TokyoOdaibaToyosuWinterPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://croud-travel.com/winter-tokyo-odaiba-toyosu-senkyakubanrai-yakei-stay#webpage",
-        "url": "https://croud-travel.com/winter-tokyo-odaiba-toyosu-senkyakubanrai-yakei-stay",
+        "@id": "https://croud-travel.pages.dev/winter-tokyo-odaiba-toyosu-senkyakubanrai-yakei-stay#webpage",
+        "url": "https://croud-travel.pages.dev/winter-tokyo-odaiba-toyosu-senkyakubanrai-yakei-stay",
         "name": "【11・12・1月東京】お台場レインボー花火＆豊洲千客万来！冬の東京ベイ夜景と江戸前海鮮・天然温泉に寛ぐ名宿5選",
         "description": "冬の東京ベイエリアは、澄み切った澄明な冬空にレインボーブリッジと東京タワーが重なり合う年間最美の夜景シーズン。12月毎週土曜日に開催される「お台場レインボー花火」、2024年に誕生した「豊洲千客万来」の江戸前活気と市場直送グルメ・展望足湯庭園、有明の天然温泉「泉天空の湯」まで、冬の東京の華やぎと温もりが凝縮。楽天APIから最新取得したお台場・有明・豊洲の極上ホテル5選を徹底特集します。",
         "inLanguage": "ja",
         "isPartOf": {
           "@type": "WebSite",
-          "@id": "https://croud-travel.com/#website",
-          "url": "https://croud-travel.com/",
+          "@id": "https://croud-travel.pages.dev/#website",
+          "url": "https://croud-travel.pages.dev/",
           "name": "くらうどトラベル"
         }
       },
@@ -168,19 +168,19 @@ export default function TokyoOdaibaToyosuWinterPage() {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com/"
+            "item": "https://croud-travel.pages.dev/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "お台場花火＆豊洲千客万来夜景宿",
-            "item": "https://croud-travel.com/winter-tokyo-odaiba-toyosu-senkyakubanrai-yakei-stay"
+            "item": "https://croud-travel.pages.dev/winter-tokyo-odaiba-toyosu-senkyakubanrai-yakei-stay"
           }
         ]
       },

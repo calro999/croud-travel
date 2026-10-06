@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月兵庫・播州赤穂温泉の播磨灘夕景と11月解禁坂越牡蠣】赤穂義士祭の歴史情緒・瀬戸内インフィニティ絶景露天の宿5選",
     description: "11月下旬を迎えると、瀬戸内海・播磨灘に面した兵庫県「播州赤穂温泉」は、名水百選千種川の森のミネラルが注ぎ込む坂越湾で育つ名物「坂越牡蠣（さこしかき）」の本格解禁とともに一年で最も美食の熱気に沸き立ちます。大粒で火を通しても縮まず、甘く濃厚なミルキーさを誇る坂越牡蠣の焼き・蒸し・鍋・フライのフルコースを堪能。さらに12月14日は赤穂浪士討ち入りの「赤穂義士祭」が開催され、城下町全体が歴史絵巻の賑わいに包まれます。波打ち際すれすれのインフィニティ露天風呂で瀬戸内の夕日と海に溶け込む至福の湯浴みを満喫する厳選旅館5選を徹底解説。",
-    url: 'https://croud-travel.com/winter-hyogo-ako-onsen-sakoshi-oyster-infinity-stay',
+    url: 'https://croud-travel.pages.dev/winter-hyogo-ako-onsen-sakoshi-oyster-infinity-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -62,10 +62,10 @@ export default function AkoOnsenWinterFeature() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-hyogo-ako-onsen-sakoshi-oyster-infinity-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-hyogo-ako-onsen-sakoshi-oyster-infinity-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-hyogo-ako-onsen-sakoshi-oyster-infinity-stay"
+          "@id": "https://croud-travel.pages.dev/winter-hyogo-ako-onsen-sakoshi-oyster-infinity-stay"
         },
         "headline": "【11・12月兵庫・播州赤穂温泉の播磨灘夕景と11月解禁坂越牡蠣】赤穂義士祭の歴史情緒・瀬戸内インフィニティ絶景露天の宿5選",
         "description": "11月下旬を迎えると、瀬戸内海・播磨灘に面した兵庫県「播州赤穂温泉」は、名水百選千種川の森のミネラルが注ぎ込む坂越湾で育つ名物「坂越牡蠣（さこしかき）」の本格解禁とともに一年で最も美食の熱気に沸き立ちます。大粒で火を通しても縮まず、甘く濃厚なミルキーさを誇る坂越牡蠣の焼き・蒸し・鍋・フライのフルコースを堪能。さらに12月14日は赤穂浪士討ち入りの「赤穂義士祭」が開催され、城下町全体が歴史絵巻の賑わいに包まれます。波打ち際すれすれのインフィニティ露天風呂で瀬戸内の夕日と海に溶け込む至福の湯浴みを満喫する厳選旅館5選を徹底解説。",
@@ -77,7 +77,7 @@ export default function AkoOnsenWinterFeature() {
           "name": "Croud Travel",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "author": {
@@ -88,31 +88,31 @@ export default function AkoOnsenWinterFeature() {
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://croud-travel.com/winter-hyogo-ako-onsen-sakoshi-oyster-infinity-stay#breadcrumb",
+        "@id": "https://croud-travel.pages.dev/winter-hyogo-ako-onsen-sakoshi-oyster-infinity-stay#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com/"
+            "item": "https://croud-travel.pages.dev/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "兵庫・播州赤穂温泉 播磨灘夕景と坂越牡蠣・インフィニティ露天の宿",
-            "item": "https://croud-travel.com/winter-hyogo-ako-onsen-sakoshi-oyster-infinity-stay"
+            "item": "https://croud-travel.pages.dev/winter-hyogo-ako-onsen-sakoshi-oyster-infinity-stay"
           }
         ]
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-hyogo-ako-onsen-sakoshi-oyster-infinity-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-hyogo-ako-onsen-sakoshi-oyster-infinity-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",

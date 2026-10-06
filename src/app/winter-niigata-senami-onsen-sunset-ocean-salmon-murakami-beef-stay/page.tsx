@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月新潟・瀬波温泉の初冬日本海夕日絶景露天と越後村上鮭三昧】名物塩引鮭・はらこ飯＆極上村上牛会席の海辺宿5選",
     description: "11月から12月にかけて、新潟県北部の日本海沿いに湧く「瀬波温泉」は、水平線に沈む茜色の夕日と荒波が織りなす息を呑むような初冬の絶景を迎えます。城下町・村上では、清流・三面川（みおもてがわ）の伝統鮭漁が最盛期を迎え、町屋の軒先に無数の塩引鮭が吊るされる初冬の風物詩が広がります。開湯120年超の「熱の湯」塩化物泉の展望露天風呂で温まり、脂の乗った塩引鮭やプチプチと弾ける醤油漬けいくらの「はらこ飯」、そして最高ランク「村上牛」の陶板ステーキを味わい尽くす海辺の厳選宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-niigata-senami-onsen-sunset-ocean-salmon-murakami-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-niigata-senami-onsen-sunset-ocean-salmon-murakami-beef-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -62,10 +62,10 @@ export default function NiigataSenamiWinterFeature() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-niigata-senami-onsen-sunset-ocean-salmon-murakami-beef-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-niigata-senami-onsen-sunset-ocean-salmon-murakami-beef-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-niigata-senami-onsen-sunset-ocean-salmon-murakami-beef-stay"
+          "@id": "https://croud-travel.pages.dev/winter-niigata-senami-onsen-sunset-ocean-salmon-murakami-beef-stay"
         },
         "headline": "【11・12月新潟・瀬波温泉の初冬日本海夕日絶景露天と越後村上鮭三昧】名物塩引鮭・はらこ飯＆極上村上牛会席の海辺宿5選",
         "description": "11月から12月にかけて、新潟県北部の日本海沿いに湧く「瀬波温泉」は、水平線に沈む茜色の夕日と荒波が織りなす息を呑むような初冬の絶景を迎えます。城下町・村上では、清流・三面川（みおもてがわ）の伝統鮭漁が最盛期を迎え、町屋の軒先に無数の塩引鮭が吊るされる初冬の風物詩が広がります。開湯120年超の「熱の湯」塩化物泉の展望露天風呂で温まり、脂の乗った塩引鮭やプチプチと弾ける醤油漬けいくらの「はらこ飯」、そして最高ランク「村上牛」の陶板ステーキを味わい尽くす海辺の厳選宿5選を徹底解説します。",
@@ -77,7 +77,7 @@ export default function NiigataSenamiWinterFeature() {
           "name": "Croud Travel",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "author": {
@@ -88,31 +88,31 @@ export default function NiigataSenamiWinterFeature() {
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://croud-travel.com/winter-niigata-senami-onsen-sunset-ocean-salmon-murakami-beef-stay#breadcrumb",
+        "@id": "https://croud-travel.pages.dev/winter-niigata-senami-onsen-sunset-ocean-salmon-murakami-beef-stay#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com/"
+            "item": "https://croud-travel.pages.dev/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "新潟・瀬波温泉 初冬日本海夕日絶景露天と越後村上鮭三昧の宿",
-            "item": "https://croud-travel.com/winter-niigata-senami-onsen-sunset-ocean-salmon-murakami-beef-stay"
+            "item": "https://croud-travel.pages.dev/winter-niigata-senami-onsen-sunset-ocean-salmon-murakami-beef-stay"
           }
         ]
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-niigata-senami-onsen-sunset-ocean-salmon-murakami-beef-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-niigata-senami-onsen-sunset-ocean-salmon-murakami-beef-stay#faq",
         "mainEntity": faqList.map(f => ({
           "@type": "Question",
           "name": f.q,

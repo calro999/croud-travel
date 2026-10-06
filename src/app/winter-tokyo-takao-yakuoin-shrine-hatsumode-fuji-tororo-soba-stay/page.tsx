@@ -10,12 +10,12 @@ export const metadata: Metadata = {
   description: "都心から電車でわずか約50分の霊峰・高尾山。11〜1月の冬シーズンは澄み切った大気の中、山頂から富士山の冠雪美や冬至前後の奇跡「ダイヤモンド富士」を一望できます。開山1200余年の祈祷寺「高尾山薬王院」で迎える厳かな新春大護摩供と天狗信仰初詣。参道で味わう熱々の名物自然薯とろろそばや焼きたて天狗焼、いろり炭火焼の美食。登山後の冷えた身体を癒やす「京王高尾山温泉 極楽湯」と、八王子駅周辺の洗練されたハイクオリティ名宿5選を徹底特集。",
   keywords: '高尾山 初詣, 高尾山薬王院, ダイヤモンド富士 高尾山, とろろそば 高尾山, 京王高尾山温泉 極楽湯, 京王プラザホテル八王子, タカオネ, 八王子 ホテル, 冬 高尾山 登山, 天狗焼',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-tokyo-takao-yakuoin-shrine-hatsumode-fuji-tororo-soba-stay'
+    canonical: 'https://croud-travel.pages.dev/winter-tokyo-takao-yakuoin-shrine-hatsumode-fuji-tororo-soba-stay'
   },
   openGraph: {
     title: "【11・12・1月東京】霊峰「高尾山薬王院」新春初詣と冬晴れのダイヤモンド富士！名物自然薯とろろそば＆極楽湯・八王子厳選名宿5選",
     description: "都心から電車でわずか約50分の霊峰・高尾山。11〜1月の冬シーズンは澄み切った大気の中、山頂から富士山の冠雪美や冬至前後の奇跡「ダイヤモンド富士」を一望できます。開山1200余年の祈祷寺「高尾山薬王院」で迎える厳かな新春大護摩供と天狗信仰初詣。参道で味わう熱々の名物自然薯とろろそばや焼きたて天狗焼、いろり炭火焼の美食。登山後の冷えた身体を癒やす「京王高尾山温泉 極楽湯」と、八王子駅周辺の洗練されたハイクオリティ名宿5選を徹底特集。",
-    url: 'https://croud-travel.com/winter-tokyo-takao-yakuoin-shrine-hatsumode-fuji-tororo-soba-stay',
+    url: 'https://croud-travel.pages.dev/winter-tokyo-takao-yakuoin-shrine-hatsumode-fuji-tororo-soba-stay',
     type: 'article',
     images: [
       {
@@ -48,19 +48,19 @@ export default function TokyoTakaoWinterPage() {
     "author": {
       "@type": "Organization",
       "name": "旅宿クラウド 編集部",
-      "url": "https://croud-travel.com"
+      "url": "https://croud-travel.pages.dev"
     },
     "publisher": {
       "@type": "Organization",
       "name": "旅宿クラウド",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://croud-travel.com/logo.png"
+        "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.com/winter-tokyo-takao-yakuoin-shrine-hatsumode-fuji-tororo-soba-stay"
+      "@id": "https://croud-travel.pages.dev/winter-tokyo-takao-yakuoin-shrine-hatsumode-fuji-tororo-soba-stay"
     }
   };
 
@@ -72,19 +72,19 @@ export default function TokyoTakaoWinterPage() {
         "@type": "ListItem",
         "position": 1,
         "name": "ホーム",
-        "item": "https://croud-travel.com"
+        "item": "https://croud-travel.pages.dev"
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "特集一覧",
-        "item": "https://croud-travel.com/features"
+        "item": "https://croud-travel.pages.dev/features"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "東京・高尾山＆八王子 冬特集",
-        "item": "https://croud-travel.com/winter-tokyo-takao-yakuoin-shrine-hatsumode-fuji-tororo-soba-stay"
+        "item": "https://croud-travel.pages.dev/winter-tokyo-takao-yakuoin-shrine-hatsumode-fuji-tororo-soba-stay"
       }
     ]
   };
@@ -649,7 +649,7 @@ export default function TokyoTakaoWinterPage() {
 
       {/* Footer */}
       <footer className="bg-slate-950 text-slate-400 py-8 px-4 text-center text-xs">
-        <p>© 2026 旅宿クラウド (croud-travel.com). All rights reserved.</p>
+        <p>© 2026 旅宿クラウド (croud-travel.pages.dev). All rights reserved.</p>
         <p className="mt-1 text-slate-500">
           ※本記事に掲載している宿泊施設情報、価格、評価、運行情報等は、楽天トラベルAPIおよび公式サイトの最新データに基づいています。冬期の参拝時間やケーブルカー運行ダイヤは変更となる場合がありますので、お出かけ前にご確認ください。
         </p>

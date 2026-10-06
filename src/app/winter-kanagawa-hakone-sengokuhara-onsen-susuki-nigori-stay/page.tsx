@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月箱根仙石原温泉の初冬ススキ絶景と白濁にごり湯】富士山望む露天風呂・足柄牛ステーキ＆美術館巡りの宿5選",
     description: "11月下旬から12月にかけて箱根・仙石原高原は、黄金色に波打つ一面のススキ草原が冬の銀白色へと移ろい、凛とした初冬の静寂に包まれます。大涌谷の噴煙から引湯される濃厚な乳白色の酸性硫酸塩泉（美肌のにごり湯）、客室露天や展望大浴場から望む富士山の雪化粧、近隣のポーラ美術館や箱根ラリック美術館を巡るアートな休日、地元神奈川が誇る極上ブランド牛「相州牛・足柄牛」の鉄板焼きステーキや旬の箱根山麓野菜を味わう至高の仙石原名宿5選を徹底解説。",
-    url: 'https://croud-travel.com/winter-kanagawa-hakone-sengokuhara-onsen-susuki-nigori-stay',
+    url: 'https://croud-travel.pages.dev/winter-kanagawa-hakone-sengokuhara-onsen-susuki-nigori-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -68,7 +68,7 @@ export default function HakoneSengokuharaWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-kanagawa-hakone-sengokuhara-onsen-susuki-nigori-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-kanagawa-hakone-sengokuhara-onsen-susuki-nigori-stay#article",
         "headline": "【11・12月箱根仙石原温泉の初冬ススキ絶景と白濁にごり湯】富士山望む露天風呂・足柄牛ステーキ＆美術館巡りの宿5選",
         "description": "11月下旬から12月にかけて箱根・仙石原高原は、黄金色に波打つ一面のススキ草原が冬の銀白色へと移ろい、凛とした初冬の静寂に包まれます。大涌谷の噴煙から引湯される濃厚な乳白色の酸性硫酸塩泉（美肌のにごり湯）、客室露天や展望大浴場から望む富士山の雪化粧、近隣のポーラ美術館や箱根ラリック美術館を巡るアートな休日、地元神奈川が誇る極上ブランド牛「相州牛・足柄牛」の鉄板焼きステーキや旬の箱根山麓野菜を味わう至高の仙石原名宿5選を徹底解説。",
         "image": "https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1200&q=80",
@@ -77,24 +77,24 @@ export default function HakoneSengokuharaWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-kanagawa-hakone-sengokuhara-onsen-susuki-nigori-stay"
+          "@id": "https://croud-travel.pages.dev/winter-kanagawa-hakone-sengokuhara-onsen-susuki-nigori-stay"
         }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-kanagawa-hakone-sengokuhara-onsen-susuki-nigori-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-kanagawa-hakone-sengokuhara-onsen-susuki-nigori-stay#faq",
         "mainEntity": faqList.map(item => ({
           "@type": "Question",
           "name": item.q,

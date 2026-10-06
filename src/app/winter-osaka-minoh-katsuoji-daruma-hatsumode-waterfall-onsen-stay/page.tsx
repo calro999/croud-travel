@@ -9,12 +9,12 @@ export const metadata: Metadata = {
   description: "大阪都心から電車で約30分の北摂に位置する箕面。11〜1月は晩秋の紅葉から冬の雪化粧へと移ろい、日本の滝百選「箕面大滝」では冷え込みが厳しい日に清冽な氷紋や氷瀑が姿を現します。平安時代より勝運祈願の聖地として信仰を集める「勝尾寺」では、境内を埋め尽くす無数の赤い勝ちダルマと厳かな新春初詣。香ばしい伝統銘菓「もみじの天ぷら」や名水ゆば料理を味わい、関西屈指のトロトロ美肌湯「箕面温泉」「伏尾温泉」と北摂の厳選名宿5選を徹底特集。",
   keywords: '勝尾寺 初詣, 勝ちダルマ 勝尾寺, 箕面大滝 冬, 箕面大滝 氷瀑, もみじの天ぷら, 箕面温泉, 大江戸温泉物語 箕面観光ホテル, 不死王閣, 箕面萱野駅, 大阪 冬 旅行',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-osaka-minoh-katsuoji-daruma-hatsumode-waterfall-onsen-stay'
+    canonical: 'https://croud-travel.pages.dev/winter-osaka-minoh-katsuoji-daruma-hatsumode-waterfall-onsen-stay'
   },
   openGraph: {
     title: "【11・12・1月大阪】勝ち運の寺「勝尾寺」新春初詣と勝ちダルマ祈願！白銀の「箕面大滝」氷紋と名物もみじ天ぷら・箕面温泉＆北摂厳選名宿5選",
     description: "大阪都心から電車で約30分の北摂に位置する箕面。11〜1月は晩秋の紅葉から冬の雪化粧へと移ろい、日本の滝百選「箕面大滝」では冷え込みが厳しい日に清冽な氷紋や氷瀑が姿を現します。平安時代より勝運祈願の聖地として信仰を集める「勝尾寺」では、境内を埋め尽くす無数の赤い勝ちダルマと厳かな新春初詣。香ばしい伝統銘菓「もみじの天ぷら」や名水ゆば料理を味わい、関西屈指のトロトロ美肌湯「箕面温泉」「伏尾温泉」と北摂の厳選名宿5選を徹底特集。",
-    url: 'https://croud-travel.com/winter-osaka-minoh-katsuoji-daruma-hatsumode-waterfall-onsen-stay',
+    url: 'https://croud-travel.pages.dev/winter-osaka-minoh-katsuoji-daruma-hatsumode-waterfall-onsen-stay',
     siteName: 'クラドトラベル',
     type: 'article',
     locale: 'ja_JP',
@@ -51,12 +51,12 @@ export default function OsakaMinohWinterFeaturePage() {
       "name": "クラドトラベル",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://croud-travel.com/logo.png"
+        "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.com/winter-osaka-minoh-katsuoji-daruma-hatsumode-waterfall-onsen-stay"
+      "@id": "https://croud-travel.pages.dev/winter-osaka-minoh-katsuoji-daruma-hatsumode-waterfall-onsen-stay"
     }
   };
 
@@ -68,19 +68,19 @@ export default function OsakaMinohWinterFeaturePage() {
         "@type": "ListItem",
         "position": 1,
         "name": "ホーム",
-        "item": "https://croud-travel.com/"
+        "item": "https://croud-travel.pages.dev/"
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "特集一覧",
-        "item": "https://croud-travel.com/features"
+        "item": "https://croud-travel.pages.dev/features"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "大阪・箕面＆勝尾寺 冬の初詣と箕面大滝",
-        "item": "https://croud-travel.com/winter-osaka-minoh-katsuoji-daruma-hatsumode-waterfall-onsen-stay"
+        "item": "https://croud-travel.pages.dev/winter-osaka-minoh-katsuoji-daruma-hatsumode-waterfall-onsen-stay"
       }
     ]
   };

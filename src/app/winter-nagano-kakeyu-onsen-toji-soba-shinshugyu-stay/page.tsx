@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月長野・鹿教湯温泉＆信州上田】文殊菩薩の霊泉と渓流雪見露天・名物信州投じ蕎麦と極上信州牛を味わう名宿5選",
     description: "11月から12月にかけて、信州上田の奥座敷・内村川の渓流沿いに佇む「鹿教湯温泉（かけゆおんせん）」は、初冬の静けさと美しい初雪の情景に包まれます。その昔、信仰心の厚い猟師が鹿に姿を変えた文殊菩薩に導かれて発見したという伝説から「鹿が教えた湯＝鹿教湯」と名付けられたこの地は、環境省から国民保養温泉地に指定される日本屈指の湯治場です。名所である屋根付き木造橋「五台橋（ごだいばし）」や文殊堂に初雪が降り積もる姿は息を呑むほどの旅情を醸し出します。無色透明でまろやかな弱アルカリ性単純温泉は、入浴だけでなく飲泉も可能で、身体の外側と内側の両面から疲労を癒やし血行を促進してくれます。夕食には信州の厳しい冬に生まれた伝統の郷土鍋「投じ蕎麦（とうじそば）」が登場。小分けにした新蕎麦を竹編みの「とうじ籠」に入れ、旬のキノコや冬根菜が煮立つ熱々の鍋出汁にさっとくぐらせてすする一杯は、身体の芯まで温もりを届けてくれます。さらにきめ細やかな霜降りの「信州プレミアム牛」や地酒とともに、初冬の信州で極上のリトリートを叶える厳選名宿5選を詳しく紹介します。",
-    url: 'https://croud-travel.com/winter-nagano-kakeyu-onsen-toji-soba-shinshugyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-nagano-kakeyu-onsen-toji-soba-shinshugyu-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -166,28 +166,28 @@ export default function WinterNaganoKakeyuPage() {
     '@graph': [
       {
         '@type': 'Article',
-        '@id': 'https://croud-travel.com/winter-nagano-kakeyu-onsen-toji-soba-shinshugyu-stay#article',
+        '@id': 'https://croud-travel.pages.dev/winter-nagano-kakeyu-onsen-toji-soba-shinshugyu-stay#article',
         'isPartOf': {
           '@type': 'WebSite',
-          '@id': 'https://croud-travel.com/#website',
+          '@id': 'https://croud-travel.pages.dev/#website',
           'name': 'クラドトラベル',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         },
         'headline': "【11・12月長野・鹿教湯温泉＆信州上田】文殊菩薩の霊泉と渓流雪見露天・名物信州投じ蕎麦と極上信州牛を味わう名宿5選",
         'description': "11月から12月にかけて、信州上田の奥座敷・内村川の渓流沿いに佇む「鹿教湯温泉（かけゆおんせん）」は、初冬の静けさと美しい初雪の情景に包まれます。その昔、信仰心の厚い猟師が鹿に姿を変えた文殊菩薩に導かれて発見したという伝説から「鹿が教えた湯＝鹿教湯」と名付けられたこの地は、環境省から国民保養温泉地に指定される日本屈指の湯治場です。名所である屋根付き木造橋「五台橋（ごだいばし）」や文殊堂に初雪が降り積もる姿は息を呑むほどの旅情を醸し出します。無色透明でまろやかな弱アルカリ性単純温泉は、入浴だけでなく飲泉も可能で、身体の外側と内側の両面から疲労を癒やし血行を促進してくれます。夕食には信州の厳しい冬に生まれた伝統の郷土鍋「投じ蕎麦（とうじそば）」が登場。小分けにした新蕎麦を竹編みの「とうじ籠」に入れ、旬のキノコや冬根菜が煮立つ熱々の鍋出汁にさっとくぐらせてすする一杯は、身体の芯まで温もりを届けてくれます。さらにきめ細やかな霜降りの「信州プレミアム牛」や地酒とともに、初冬の信州で極上のリトリートを叶える厳選名宿5選を詳しく紹介します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.com/winter-nagano-kakeyu-onsen-toji-soba-shinshugyu-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-nagano-kakeyu-onsen-toji-soba-shinshugyu-stay',
         'datePublished': '2026-09-29T00:00:00+09:00',
         'dateModified': '2026-09-29T00:00:00+09:00',
         'publisher': {
           '@type': 'Organization',
           'name': 'クラドトラベル編集部',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         }
       },
       {
         '@type': 'TouristDestination',
-        '@id': 'https://croud-travel.com/winter-nagano-kakeyu-onsen-toji-soba-shinshugyu-stay#destination',
+        '@id': 'https://croud-travel.pages.dev/winter-nagano-kakeyu-onsen-toji-soba-shinshugyu-stay#destination',
         'name': '長野・鹿教湯温泉＆信州上田',
         'description': '長野県上田市の内村川沿いに湧く環境省指定の国民保養温泉地。文殊菩薩の霊泉と屋根付き五台橋の初冬雪景色、伝統の投じ蕎麦と信州プレミアム牛が魅力。',
         'geo': {
@@ -198,7 +198,7 @@ export default function WinterNaganoKakeyuPage() {
       },
       {
         '@type': 'FAQPage',
-        '@id': 'https://croud-travel.com/winter-nagano-kakeyu-onsen-toji-soba-shinshugyu-stay#faq',
+        '@id': 'https://croud-travel.pages.dev/winter-nagano-kakeyu-onsen-toji-soba-shinshugyu-stay#faq',
         'mainEntity': faqList.map((f) => ({
           '@type': 'Question',
           'name': f.q,
@@ -210,7 +210,7 @@ export default function WinterNaganoKakeyuPage() {
       },
       {
         '@type': 'ItemList',
-        '@id': 'https://croud-travel.com/winter-nagano-kakeyu-onsen-toji-soba-shinshugyu-stay#hotellist',
+        '@id': 'https://croud-travel.pages.dev/winter-nagano-kakeyu-onsen-toji-soba-shinshugyu-stay#hotellist',
         'name': '長野・鹿教湯温泉＆信州上田のおすすめ名宿5選',
         'itemListElement': hotels.map((h, idx) => ({
           '@type': 'ListItem',

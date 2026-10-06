@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月奥日光の白銀世界と濃厚にごり湯】日本屈指のエメラルド硫黄泉と日光湯波会席宿5選",
     description: "11月中旬から雪化粧が始まり、12月には息を呑む白銀の静寂が広がる標高約1500mの奥日光・湯元温泉。日本で4番目に濃いエメラルドグリーンから乳白色へ変わる神秘の硫黄泉露天風呂と、伝統の日光湯波・とちぎ和牛に舌鼓を打つ極上の雪見温泉旅。",
-    url: 'https://croud-travel.com/winter-tochigi-okunikko-yumoto-snow-onsen-stay',
+    url: 'https://croud-travel.pages.dev/winter-tochigi-okunikko-yumoto-snow-onsen-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -44,7 +44,7 @@ export default function OkunikkoWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-tochigi-okunikko-yumoto-snow-onsen-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-tochigi-okunikko-yumoto-snow-onsen-stay#article",
         "headline": "【11・12月奥日光の白銀世界と濃厚にごり湯】日本屈指のエメラルド硫黄泉と日光湯波会席宿5選",
         "description": "11月中旬から雪化粧が始まり、12月には息を呑む白銀の静寂が広がる標高約1500mの奥日光・湯元温泉。日本で4番目に濃いエメラルドグリーンから乳白色へ変わる神秘の硫黄泉露天風呂と、伝統の日光湯波・とちぎ和牛に舌鼓を打つ極上の雪見温泉旅。",
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
@@ -53,24 +53,24 @@ export default function OkunikkoWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-tochigi-okunikko-yumoto-snow-onsen-stay"
+          "@id": "https://croud-travel.pages.dev/winter-tochigi-okunikko-yumoto-snow-onsen-stay"
         }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-tochigi-okunikko-yumoto-snow-onsen-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-tochigi-okunikko-yumoto-snow-onsen-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -108,7 +108,7 @@ export default function OkunikkoWinterPage() {
       },
       {
         "@type": "ItemList",
-        "@id": "https://croud-travel.com/winter-tochigi-okunikko-yumoto-snow-onsen-stay#hotels",
+        "@id": "https://croud-travel.pages.dev/winter-tochigi-okunikko-yumoto-snow-onsen-stay#hotels",
         "itemListElement": [
           {
             "@type": "ListItem",

@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月栃木・塩原温泉の初冬箒川雪見露天と名湯十一湯巡り】極上とちぎ和牛会席＆旬の塩原高原大根を味わう老舗宿5選",
     description: "11月から12月にかけて、栃木県北部の那須連山山麓に広がる名湯「塩原温泉郷」は、箒川（ほうきがわ）沿いの渓谷が初雪に彩られ、静寂と白い湯けむりが立ち込める情緒豊かな初冬を迎えます。千二百年以上の歴史を誇る「塩原十一湯」は、乳白色の硫黄泉から炭酸水素塩泉、弱食塩泉まで多彩な名湯が揃い、雪見露天風呂の風情は格別。さらに初冬に寒暖差で甘みが極限まで凝縮する名物「塩原高原大根」や、とろける霜降り「とちぎ和牛」のすき焼き・ステーキ会席を堪能する至極の老舗旅館5選を詳しく解説します。",
-    url: 'https://croud-travel.com/winter-tochigi-shiobara-onsen-yukimi-tochigi-beef-radish-stay',
+    url: 'https://croud-travel.pages.dev/winter-tochigi-shiobara-onsen-yukimi-tochigi-beef-radish-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -62,10 +62,10 @@ export default function TochigiShiobaraWinterFeature() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-tochigi-shiobara-onsen-yukimi-tochigi-beef-radish-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-tochigi-shiobara-onsen-yukimi-tochigi-beef-radish-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-tochigi-shiobara-onsen-yukimi-tochigi-beef-radish-stay"
+          "@id": "https://croud-travel.pages.dev/winter-tochigi-shiobara-onsen-yukimi-tochigi-beef-radish-stay"
         },
         "headline": "【11・12月栃木・塩原温泉の初冬箒川雪見露天と名湯十一湯巡り】極上とちぎ和牛会席＆旬の塩原高原大根を味わう老舗宿5選",
         "description": "11月から12月にかけて、栃木県北部の那須連山山麓に広がる名湯「塩原温泉郷」は、箒川（ほうきがわ）沿いの渓谷が初雪に彩られ、静寂と白い湯けむりが立ち込める情緒豊かな初冬を迎えます。千二百年以上の歴史を誇る「塩原十一湯」は、乳白色の硫黄泉から炭酸水素塩泉、弱食塩泉まで多彩な名湯が揃い、雪見露天風呂の風情は格別。さらに初冬に寒暖差で甘みが極限まで凝縮する名物「塩原高原大根」や、とろける霜降り「とちぎ和牛」のすき焼き・ステーキ会席を堪能する至極の老舗旅館5選を詳しく解説します。",
@@ -77,7 +77,7 @@ export default function TochigiShiobaraWinterFeature() {
           "name": "Croud Travel",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "author": {
@@ -88,31 +88,31 @@ export default function TochigiShiobaraWinterFeature() {
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://croud-travel.com/winter-tochigi-shiobara-onsen-yukimi-tochigi-beef-radish-stay#breadcrumb",
+        "@id": "https://croud-travel.pages.dev/winter-tochigi-shiobara-onsen-yukimi-tochigi-beef-radish-stay#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com/"
+            "item": "https://croud-travel.pages.dev/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "栃木・塩原温泉 初冬箒川雪見露天と名湯十一湯の宿",
-            "item": "https://croud-travel.com/winter-tochigi-shiobara-onsen-yukimi-tochigi-beef-radish-stay"
+            "item": "https://croud-travel.pages.dev/winter-tochigi-shiobara-onsen-yukimi-tochigi-beef-radish-stay"
           }
         ]
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-tochigi-shiobara-onsen-yukimi-tochigi-beef-radish-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-tochigi-shiobara-onsen-yukimi-tochigi-beef-radish-stay#faq",
         "mainEntity": faqList.map(f => ({
           "@type": "Question",
           "name": f.q,

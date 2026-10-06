@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【12・1月福井】越前海岸＆越前町！日本海に咲く「越前水仙まつり」群生美と越前岬灯台・黄色タグ付き本場「越前がに」フルコース＆絶景温泉宿5選",
     description: "冬の日本海の荒波が打ち寄せる断崖絶壁に清楚な水仙の花々が咲き乱れる12〜1月の福井・越前海岸。日本三大水仙群生地の絶景を巡る「越前水仙まつり」や越前岬灯台からの雄大な水平線、織田信長ゆかりの越前二宮・劔神社での雪の初詣。そして本場越前町が誇る黄色いブランドタグ付き「越前がに」の茹でたて極上フルコースと、海を目前に望む塩化物泉の露天風呂に癒やされる厳選宿5選を徹底特集します。",
-    url: 'https://croud-travel.com/winter-fukui-echizen-coast-suisen-crab-misaki-stay',
+    url: 'https://croud-travel.pages.dev/winter-fukui-echizen-coast-suisen-crab-misaki-stay',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',
     type: 'article',
@@ -164,10 +164,10 @@ export default function FukuiEchizenCoastPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-fukui-echizen-coast-suisen-crab-misaki-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-fukui-echizen-coast-suisen-crab-misaki-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-fukui-echizen-coast-suisen-crab-misaki-stay"
+          "@id": "https://croud-travel.pages.dev/winter-fukui-echizen-coast-suisen-crab-misaki-stay"
         },
         "headline": "【12・1月福井】越前海岸＆越前町！日本海に咲く「越前水仙まつり」群生美と越前岬灯台・黄色タグ付き本場「越前がに」フルコース＆絶景温泉宿5選",
         "description": "冬の日本海の荒波が打ち寄せる断崖絶壁に清楚な水仙の花々が咲き乱れる12〜1月の福井・越前海岸。日本三大水仙群生地の絶景を巡る「越前水仙まつり」や越前岬灯台からの雄大な水平線、織田信長ゆかりの越前二宮・劔神社での雪の初詣。そして本場越前町が誇る黄色いブランドタグ付き「越前がに」の茹でたて極上フルコースと、海を目前に望む塩化物泉の露天風呂に癒やされる厳選宿5選を徹底特集します。",
@@ -177,44 +177,44 @@ export default function FukuiEchizenCoastPage() {
         "publisher": {
           "@type": "Organization",
           "name": "地域の宿探訪",
-          "url": "https://croud-travel.com",
+          "url": "https://croud-travel.pages.dev",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-fukui-echizen-coast-suisen-crab-misaki-stay"
+          "@id": "https://croud-travel.pages.dev/winter-fukui-echizen-coast-suisen-crab-misaki-stay"
         }
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://croud-travel.com/winter-fukui-echizen-coast-suisen-crab-misaki-stay#breadcrumb",
+        "@id": "https://croud-travel.pages.dev/winter-fukui-echizen-coast-suisen-crab-misaki-stay#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com"
+            "item": "https://croud-travel.pages.dev"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "越前海岸＆越前町水仙まつり・越前がに名宿",
-            "item": "https://croud-travel.com/winter-fukui-echizen-coast-suisen-crab-misaki-stay"
+            "item": "https://croud-travel.pages.dev/winter-fukui-echizen-coast-suisen-crab-misaki-stay"
           }
         ]
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-fukui-echizen-coast-suisen-crab-misaki-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-fukui-echizen-coast-suisen-crab-misaki-stay#faq",
         "mainEntity": faqs.map(f => ({
           "@type": "Question",
           "name": f.q,

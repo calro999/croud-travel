@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月日田温泉＆天瀬温泉】水郷ひたの初冬川霧と天領豆田町の小江戸情緒・玖珠川渓流露天とおおいた豊後牛・初冬鮎うるかを味わう名宿5選",
     description: "11月中旬から12月の初冬を迎えた大分県日田市は、阿蘇や九重連山を源流とする清流・三隈川（みくまがわ）から立ちのぼる幻想的な朝霧「川霧」に包まれ、水郷情緒が最もロマンチックに高まる季節を迎えます。江戸幕府の西国筋郡代が置かれた天領として繁栄した豆田町（まめだまち）には、白壁土蔵や格子窓の商家が連なり、まるで江戸時代にタイムスリップしたかのような風情が漂います。日田温泉の屋形船が浮かぶ川沿いの温泉街から、少し足を伸ばせば玖珠川（くすがわ）の渓流沿いに野趣あふれる露天風呂が点在する「天瀬温泉（あまがせおんせん）」、さらには響渓谷の断崖絶景を見下ろす「奥日田温泉」まで、多彩な名湯が旅人を迎えます。初冬の食卓を飾るのは、美しい霜降りと芳醇な脂の甘みが際立つ「おおいた豊後牛（おおいた和牛）」のすき焼きやステーキ、卵を抱いた冬の子持ち鮎の甘露煮や珍味「鮎うるか」、地鶏鍋、そして地元で愛されるパリッと香ばしい「日田やきそば」。水と緑と歴史が織りなす初冬の豊後路を満喫する厳選宿5選を詳しく紹介します。",
-    url: 'https://croud-travel.com/winter-oita-hita-amagase-onsen-mamedamachi-bungogyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-oita-hita-amagase-onsen-mamedamachi-bungogyu-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -45,23 +45,23 @@ export default function OitaHitaAmagaseWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-oita-hita-amagase-onsen-mamedamachi-bungogyu-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-oita-hita-amagase-onsen-mamedamachi-bungogyu-stay#article",
         "isPartOf": {
           "@type": "WebSite",
-          "@id": "https://croud-travel.com/#website",
+          "@id": "https://croud-travel.pages.dev/#website",
           "name": "クラドトラベル",
-          "url": "https://croud-travel.com/"
+          "url": "https://croud-travel.pages.dev/"
         },
         "headline": "【11・12月日田温泉＆天瀬温泉】水郷ひたの初冬川霧と天領豆田町の小江戸情緒・玖珠川渓流露天とおおいた豊後牛・初冬鮎うるかを味わう名宿5選",
         "description": "11月中旬から12月の初冬を迎えた大分県日田市は、阿蘇や九重連山を源流とする清流・三隈川（みくまがわ）から立ちのぼる幻想的な朝霧「川霧」に包まれ、水郷情緒が最もロマンチックに高まる季節を迎えます。江戸幕府の西国筋郡代が置かれた天領として繁栄した豆田町（まめだまち）には、白壁土蔵や格子窓の商家が連なり、まるで江戸時代にタイムスリップしたかのような風情が漂います。日田温泉の屋形船が浮かぶ川沿いの温泉街から、少し足を伸ばせば玖珠川（くすがわ）の渓流沿いに野趣あふれる露天風呂が点在する「天瀬温泉（あまがせおんせん）」、さらには響渓谷の断崖絶景を見下ろす「奥日田温泉」まで、多彩な名湯が旅人を迎えます。初冬の食卓を飾るのは、美しい霜降りと芳醇な脂の甘みが際立つ「おおいた豊後牛（おおいた和牛）」のすき焼きやステーキ、卵を抱いた冬の子持ち鮎の甘露煮や珍味「鮎うるか」、地鶏鍋、そして地元で愛されるパリッと香ばしい「日田やきそば」。水と緑と歴史が織りなす初冬の豊後路を満喫する厳選宿5選を詳しく紹介します。",
         "datePublished": "2026-09-30T00:00:00+09:00",
         "dateModified": "2026-09-30T00:00:00+09:00",
         "inLanguage": "ja",
-        "mainEntityOfPage": "https://croud-travel.com/winter-oita-hita-amagase-onsen-mamedamachi-bungogyu-stay",
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-oita-hita-amagase-onsen-mamedamachi-bungogyu-stay",
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル編集部",
-          "url": "https://croud-travel.com/"
+          "url": "https://croud-travel.pages.dev/"
         }
       },
       {

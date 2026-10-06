@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '冬の仙台市内・光のページェント完全ガイド｜仙台牛・ずんだ・閖上牡蠣と都市型天然温泉宿',
     description: '12月に輝く定禅寺通の光のページェントから瑞鳳殿の初詣、仙台牛しゃぶしゃぶ・ずんだ餅・閖上牡蠣まで。宮城・仙台市内の冬旅を楽天トラベル人気宿とともに徹底解説。',
-    url: 'https://croud-travel.com/winter-miyagi-sendai-city-hikarino-pageant-zundamochi-sendaigyu-kaki-stay',
+    url: 'https://croud-travel.pages.dev/winter-miyagi-sendai-city-hikarino-pageant-zundamochi-sendaigyu-kaki-stay',
     siteName: 'Croud Travel',
     locale: 'ja_JP',
     type: 'article',
@@ -53,17 +53,17 @@ export default function Page() {
       {
         '@type': 'BreadcrumbList',
         itemListElement: [
-          { '@type': 'ListItem', position: 1, name: 'ホーム', item: 'https://croud-travel.com' },
-          { '@type': 'ListItem', position: 2, name: '冬の旅行特集', item: 'https://croud-travel.com/features' },
-          { '@type': 'ListItem', position: 3, name: '冬の仙台・光のページェント×仙台牛×温泉宿', item: 'https://croud-travel.com/winter-miyagi-sendai-city-hikarino-pageant-zundamochi-sendaigyu-kaki-stay' },
+          { '@type': 'ListItem', position: 1, name: 'ホーム', item: 'https://croud-travel.pages.dev' },
+          { '@type': 'ListItem', position: 2, name: '冬の旅行特集', item: 'https://croud-travel.pages.dev/features' },
+          { '@type': 'ListItem', position: 3, name: '冬の仙台・光のページェント×仙台牛×温泉宿', item: 'https://croud-travel.pages.dev/winter-miyagi-sendai-city-hikarino-pageant-zundamochi-sendaigyu-kaki-stay' },
         ],
       },
       {
         '@type': 'Article',
         headline: '冬の仙台市内・光のページェント完全ガイド｜仙台牛・ずんだ・閖上牡蠣と都市型天然温泉宿',
         description: '12月に輝く定禅寺通の光のページェントから瑞鳳殿の初詣、仙台牛しゃぶしゃぶ・ずんだ餅・閖上牡蠣まで。宮城・仙台市内の冬旅を徹底解説。',
-        url: 'https://croud-travel.com/winter-miyagi-sendai-city-hikarino-pageant-zundamochi-sendaigyu-kaki-stay',
-        publisher: { '@type': 'Organization', name: 'Croud Travel', url: 'https://croud-travel.com' },
+        url: 'https://croud-travel.pages.dev/winter-miyagi-sendai-city-hikarino-pageant-zundamochi-sendaigyu-kaki-stay',
+        publisher: { '@type': 'Organization', name: 'Croud Travel', url: 'https://croud-travel.pages.dev' },
       },
       {
         '@type': 'FAQPage',

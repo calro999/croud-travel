@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月岐阜】奥美濃の小京都・郡上八幡城雪景色＆宗祇水！名物鶏ちゃんと極上飛騨牛すき焼きを味わう名宿5選",
     description: "冬の岐阜・奥美濃は、日本最古の木造再建城「郡上八幡城」が純白の雪をまとい、城下町の水路に清流がせせらぐ静謐な小京都の季節。名水百選第1号「宗祇水」や江戸の風情を残す職人町・鍛冶屋町の格子戸、美濃市「うだつの上がる町並み」の気品ある景観。岐阜が世界に誇る最高峰黒毛和牛「飛騨牛」のとろけるすき焼きや、香ばしい味噌ダレが染み渡る奥美濃名物「鶏ちゃん」、地酒のぬる燗。雪化粧の山並みと温もりの湯に癒やされる厳選名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-gifu-gujo-hachiman-snow-castle-hidagyu-keichan-stay',
+    url: 'https://croud-travel.pages.dev/winter-gifu-gujo-hachiman-snow-castle-hidagyu-keichan-stay',
     type: 'article',
     images: [{ url: 'https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&q=630', width: 1200, height: 630, alt: '雪化粧の郡上八幡城と宗祇水' }]
   },
@@ -155,9 +155,9 @@ export default function GifuGujoHachimanPage() {
       {
         '@type': 'BreadcrumbList',
         'itemListElement': [
-          { '@type': 'ListItem', 'position': 1, 'name': 'ホーム', 'item': 'https://croud-travel.com' },
-          { '@type': 'ListItem', 'position': 2, 'name': '特集一覧', 'item': 'https://croud-travel.com/features' },
-          { '@type': 'ListItem', 'position': 3, 'name': '郡上八幡城雪景色・宗祇水と飛騨牛名宿', 'item': 'https://croud-travel.com/winter-gifu-gujo-hachiman-snow-castle-hidagyu-keichan-stay' }
+          { '@type': 'ListItem', 'position': 1, 'name': 'ホーム', 'item': 'https://croud-travel.pages.dev' },
+          { '@type': 'ListItem', 'position': 2, 'name': '特集一覧', 'item': 'https://croud-travel.pages.dev/features' },
+          { '@type': 'ListItem', 'position': 3, 'name': '郡上八幡城雪景色・宗祇水と飛騨牛名宿', 'item': 'https://croud-travel.pages.dev/winter-gifu-gujo-hachiman-snow-castle-hidagyu-keichan-stay' }
         ]
       },
       {

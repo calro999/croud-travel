@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月天童温泉の冬名湯と山形美食】将棋の里・雪見露天風呂と11月旬ラ・フランス＆A5山形牛すき焼きの宿5選",
     description: "将棋駒の生産量日本一を誇る山形の名湯「天童温泉」。11月から12月にかけて最盛期を迎える果物の女王「ラ・フランス」の芳醇な甘みと、極上の霜降りを誇るブランド黒毛和牛「山形牛」のすき焼き・ステーキ会席。初冬の奥羽山脈の雪見露天風呂、山寺（立石寺）の初冬散策を満喫する厳選名宿5選を徹底解説。",
-    url: 'https://croud-travel.com/winter-yamagata-tendo-onsen-lafrance-yamagata-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-yamagata-tendo-onsen-lafrance-yamagata-beef-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -68,7 +68,7 @@ export default function TendoWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-yamagata-tendo-onsen-lafrance-yamagata-beef-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-yamagata-tendo-onsen-lafrance-yamagata-beef-stay#article",
         "headline": "【11・12月天童温泉の冬名湯と山形美食】将棋の里・雪見露天風呂と11月旬ラ・フランス＆A5山形牛すき焼きの宿5選",
         "description": "将棋駒の生産量日本一を誇る山形の名湯「天童温泉」。11月から12月にかけて最盛期を迎える果物の女王「ラ・フランス」の芳醇な甘みと、極上の霜降りを誇るブランド黒毛和牛「山形牛」のすき焼き・ステーキ会席。初冬の奥羽山脈の雪見露天風呂、山寺（立石寺）の初冬散策を満喫する厳選名宿5選を徹底解説。",
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
@@ -77,24 +77,24 @@ export default function TendoWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-yamagata-tendo-onsen-lafrance-yamagata-beef-stay"
+          "@id": "https://croud-travel.pages.dev/winter-yamagata-tendo-onsen-lafrance-yamagata-beef-stay"
         }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-yamagata-tendo-onsen-lafrance-yamagata-beef-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-yamagata-tendo-onsen-lafrance-yamagata-beef-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -140,7 +140,7 @@ export default function TendoWinterPage() {
       },
       {
         "@type": "ItemList",
-        "@id": "https://croud-travel.com/winter-yamagata-tendo-onsen-lafrance-yamagata-beef-stay#hotels",
+        "@id": "https://croud-travel.pages.dev/winter-yamagata-tendo-onsen-lafrance-yamagata-beef-stay#hotels",
         "itemListElement": [
           {
             "@type": "ListItem",
@@ -631,32 +631,7 @@ export default function TendoWinterPage() {
         </section>
 
         {/* FAQ Section */}
-        <section id="faq" className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-stone-200/80 space-y-6">
-          <div className="flex items-center gap-3 pb-3 border-b border-stone-100">
-            <div className="p-2 rounded-xl bg-emerald-50 text-emerald-800">
-              <HelpCircle className="w-5 h-5" />
-            </div>
-            <div>
-              <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Traveler's Q&A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                よくある質問（FAQ）と初冬の天童旅行アドバイス
-              </h2>
-            </div>
-          </div>
-          <div className="space-y-4">
-            {faqList.map((faq, idx) => (
-              <div key={idx} className="p-5 rounded-2xl bg-stone-50 border border-stone-200/70 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-emerald-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
-                <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
-                  {faq.a}
-                </p>
-              </div>
-            ))}
-          </div>
-        </section>
+        
 
         {/* Internal Links / Related Guides */}
         <section className="bg-stone-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">

@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月富士河口湖温泉郷の澄み渡る白銀富士と紅富士絶景】湖畔展望露天・極上甲州牛すき焼き＆熱々名物ほうとう会席の宿5選",
     description: "11月から12月にかけて富士五湖・河口湖畔は、1年の中で最も空気が澄み渡り、雪化粧を纏った霊峰富士の絶景が美しく輝く年間最高のシーズンを迎えます。早朝の朝日に赤く染まる「紅富士」や湖面に映る「逆さ富士」を望む展望客室露天風呂、硫酸塩泉のまろやかな温まり美肌湯、山梨が誇る最高峰ブランド黒毛和牛「甲州牛」のすき焼きや陶板ステーキ、熱々のかぼちゃ名物ほうとう会席を満喫する厳選名宿5選を徹底解説。",
-    url: 'https://croud-travel.com/winter-yamanashi-kawaguchiko-onsen-fuji-view-koshu-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-yamanashi-kawaguchiko-onsen-fuji-view-koshu-beef-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -68,7 +68,7 @@ export default function KawaguchikoOnsenWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-yamanashi-kawaguchiko-onsen-fuji-view-koshu-beef-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-yamanashi-kawaguchiko-onsen-fuji-view-koshu-beef-stay#article",
         "headline": "【11・12月富士河口湖温泉郷の澄み渡る白銀富士と紅富士絶景】湖畔展望露天・極上甲州牛すき焼き＆熱々名物ほうとう会席の宿5選",
         "description": "11月から12月にかけて富士五湖・河口湖畔は、1年の中で最も空気が澄み渡り、雪化粧を纏った霊峰富士の絶景が美しく輝く年間最高のシーズンを迎えます。早朝の朝日に赤く染まる「紅富士」や湖面に映る「逆さ富士」を望む展望客室露天風呂、硫酸塩泉のまろやかな温まり美肌湯、山梨が誇る最高峰ブランド黒毛和牛「甲州牛」のすき焼きや陶板ステーキ、熱々のかぼちゃ名物ほうとう会席を満喫する厳選名宿5選を徹底解説。",
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
@@ -77,24 +77,24 @@ export default function KawaguchikoOnsenWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-yamanashi-kawaguchiko-onsen-fuji-view-koshu-beef-stay"
+          "@id": "https://croud-travel.pages.dev/winter-yamanashi-kawaguchiko-onsen-fuji-view-koshu-beef-stay"
         }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-yamanashi-kawaguchiko-onsen-fuji-view-koshu-beef-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-yamanashi-kawaguchiko-onsen-fuji-view-koshu-beef-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -140,7 +140,7 @@ export default function KawaguchikoOnsenWinterPage() {
       },
       {
         "@type": "ItemList",
-        "@id": "https://croud-travel.com/winter-yamanashi-kawaguchiko-onsen-fuji-view-koshu-beef-stay#hotels",
+        "@id": "https://croud-travel.pages.dev/winter-yamanashi-kawaguchiko-onsen-fuji-view-koshu-beef-stay#hotels",
         "itemListElement": [
           {
             "@type": "ListItem",

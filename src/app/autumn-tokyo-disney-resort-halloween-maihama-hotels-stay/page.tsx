@@ -9,12 +9,12 @@ export const metadata: Metadata = {
   description: "秋の東京ディズニーリゾート（TDR）が熱狂と怪しい魅力に包まれる一大イベント「ディズニー・ハロウィーン」。東京ディズニーランドでは妖しくも魅惑的なヴィランズたちが主役となるパレード「ザ・ヴィランズ・ハロウィーン “Into the Frenzy”」やハロウィーン限定スペシャルまん・チュロスが登場。東京ディズニーシーではアメリカンウォーターフロントの華やかなデコレーションやトリックオアトリート体験が満喫できます。全身仮装のルールや人気アトラクション「ホーンテッドマンション “ホリデーナイトメアー”」の攻略法、そしてパークの余韻に浸りながらゆったり寛げる舞浜オフィシャルホテル＆新浦安パートナーホテル厳選5選を徹底特集。",
   keywords: 'ディズニー ハロウィーン, ディズニー ハロウィン 2026, 舞浜 ホテル ハロウィン, グランドニッコー東京ベイ舞浜, ホテルエミオン東京ベイ, オリエンタルホテル東京ベイ, ディズニーランド 仮装, ホーンテッドマンション ホリデーナイトメアー',
   alternates: {
-    canonical: 'https://croud-travel.com/autumn-tokyo-disney-resort-halloween-maihama-hotels-stay'
+    canonical: 'https://croud-travel.pages.dev/autumn-tokyo-disney-resort-halloween-maihama-hotels-stay'
   },
   openGraph: {
     title: "【秋の東京ディズニーリゾート・ハロウィーン】ディズニー・ハロウィーン＆ヴィランズの饗宴！仮装・限定パレード・秋のグルメ＆舞浜オフィシャル・パートナー厳選名宿5選",
     description: "秋の東京ディズニーリゾート（TDR）が熱狂と怪しい魅力に包まれる一大イベント「ディズニー・ハロウィーン」。東京ディズニーランドでは妖しくも魅惑的なヴィランズたちが主役となるパレード「ザ・ヴィランズ・ハロウィーン “Into the Frenzy”」やハロウィーン限定スペシャルまん・チュロスが登場。東京ディズニーシーではアメリカンウォーターフロントの華やかなデコレーションやトリックオアトリート体験が満喫できます。全身仮装のルールや人気アトラクション「ホーンテッドマンション “ホリデーナイトメアー”」の攻略法、そしてパークの余韻に浸りながらゆったり寛げる舞浜オフィシャルホテル＆新浦安パートナーホテル厳選5選を徹底特集。",
-    url: 'https://croud-travel.com/autumn-tokyo-disney-resort-halloween-maihama-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-tokyo-disney-resort-halloween-maihama-hotels-stay',
     siteName: 'クラドトラベル',
     type: 'article',
     locale: 'ja_JP',
@@ -51,12 +51,12 @@ export default function TdrHalloweenFeaturePage() {
       "name": "クラドトラベル",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://croud-travel.com/logo.png"
+        "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.com/autumn-tokyo-disney-resort-halloween-maihama-hotels-stay"
+      "@id": "https://croud-travel.pages.dev/autumn-tokyo-disney-resort-halloween-maihama-hotels-stay"
     }
   };
 
@@ -68,19 +68,19 @@ export default function TdrHalloweenFeaturePage() {
         "@type": "ListItem",
         "position": 1,
         "name": "ホーム",
-        "item": "https://croud-travel.com/"
+        "item": "https://croud-travel.pages.dev/"
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "特集一覧",
-        "item": "https://croud-travel.com/features"
+        "item": "https://croud-travel.pages.dev/features"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "東京ディズニーリゾート・ハロウィーン特集",
-        "item": "https://croud-travel.com/autumn-tokyo-disney-resort-halloween-maihama-hotels-stay"
+        "item": "https://croud-travel.pages.dev/autumn-tokyo-disney-resort-halloween-maihama-hotels-stay"
       }
     ]
   };

@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月静岡・焼津温泉の初冬駿河湾越し富士山絶景と天然南マグロ】深層水高張性美肌温まりの湯＆極上鮪尽くしの宿5選",
     description: "11月から12月にかけて駿河湾に面した水産都市・静岡県焼津市は、一年の中で最も大気が澄み渡り、紺碧の駿河湾越しに純白の雪を戴く雄大な富士山がくっきりと浮かび上がる絶景のピークを迎えます。日本屈指の遠洋漁業基地である焼津港には、南氷洋の荒波で育ち濃厚な甘みと上品な脂の乗りを誇る「天然南マグロ（ミナミマグロ・インドマグロ）」が極上の鮮度で水揚げされます。地下1500メートルの太古の地層から湧出する「焼津温泉」は、海水の約半分の高濃度塩分を含む弱アルカリ性カルシウム・ナトリウム-塩化物泉で、芯まで温まり湯冷めしない奇跡の美肌泉。駿河湾富士見露天と極上南マグロ会席を堪能する厳選宿5選を徹底解説。",
-    url: 'https://croud-travel.com/winter-shizuoka-yaizu-onsen-fuji-view-minami-maguro-stay',
+    url: 'https://croud-travel.pages.dev/winter-shizuoka-yaizu-onsen-fuji-view-minami-maguro-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -62,10 +62,10 @@ export default function ShizuokaYaizuWinterFeature() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-shizuoka-yaizu-onsen-fuji-view-minami-maguro-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-shizuoka-yaizu-onsen-fuji-view-minami-maguro-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-shizuoka-yaizu-onsen-fuji-view-minami-maguro-stay"
+          "@id": "https://croud-travel.pages.dev/winter-shizuoka-yaizu-onsen-fuji-view-minami-maguro-stay"
         },
         "headline": "【11・12月静岡・焼津温泉の初冬駿河湾越し富士山絶景と天然南マグロ】深層水高張性美肌温まりの湯＆極上鮪尽くしの宿5選",
         "description": "11月から12月にかけて駿河湾に面した水産都市・静岡県焼津市は、一年の中で最も大気が澄み渡り、紺碧の駿河湾越しに純白の雪を戴く雄大な富士山がくっきりと浮かび上がる絶景のピークを迎えます。日本屈指の遠洋漁業基地である焼津港には、南氷洋の荒波で育ち濃厚な甘みと上品な脂の乗りを誇る「天然南マグロ（ミナミマグロ・インドマグロ）」が極上の鮮度で水揚げされます。地下1500メートルの太古の地層から湧出する「焼津温泉」は、海水の約半分の高濃度塩分を含む弱アルカリ性カルシウム・ナトリウム-塩化物泉で、芯まで温まり湯冷めしない奇跡の美肌泉。駿河湾富士見露天と極上南マグロ会席を堪能する厳選宿5選を徹底解説。",
@@ -77,7 +77,7 @@ export default function ShizuokaYaizuWinterFeature() {
           "name": "Croud Travel",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "author": {
@@ -88,31 +88,31 @@ export default function ShizuokaYaizuWinterFeature() {
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://croud-travel.com/winter-shizuoka-yaizu-onsen-fuji-view-minami-maguro-stay#breadcrumb",
+        "@id": "https://croud-travel.pages.dev/winter-shizuoka-yaizu-onsen-fuji-view-minami-maguro-stay#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com/"
+            "item": "https://croud-travel.pages.dev/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "静岡・焼津温泉 駿河湾富士山絶景と天然南マグロ・高張性温泉の宿",
-            "item": "https://croud-travel.com/winter-shizuoka-yaizu-onsen-fuji-view-minami-maguro-stay"
+            "item": "https://croud-travel.pages.dev/winter-shizuoka-yaizu-onsen-fuji-view-minami-maguro-stay"
           }
         ]
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-shizuoka-yaizu-onsen-fuji-view-minami-maguro-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-shizuoka-yaizu-onsen-fuji-view-minami-maguro-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",

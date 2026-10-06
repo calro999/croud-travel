@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月滋賀】世界遺産・比叡山延暦寺の静謐な冬参拝＆根本中堂「不滅の法灯」と琵琶湖一望おごと温泉・極上近江牛名宿5選",
     description: "11月下旬から1月、日本仏教の母山と仰がれる世界遺産「比叡山延暦寺」は、厳かな白銀の雪化粧に包まれます。標高848メートルの霊峰に佇む総本堂・国宝「根本中堂」では、開山以来1200年間一度も消えることなく灯り続ける「不滅の法灯」が神聖な光を放ち、大改修中の今しか見られない特別な修学空間が旅人を迎えます。比叡山から日本一の長さを誇る坂本ケーブルで下れば、伝教大師最澄が開湯した名湯「おごと温泉」。雄大な冬の琵琶湖を望む雪見露天風呂と、日本三大和牛の筆頭「近江牛」のとろけるすき焼き・しゃぶしゃぶを心ゆくまで堪能する厳選名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-shiga-hieizan-enryakuji-ogoto-onsen-omigyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-shiga-hieizan-enryakuji-ogoto-onsen-omigyu-stay',
     type: 'article',
     images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/3165/3165.jpg', width: 1200, height: 630, alt: '比叡山延暦寺冬参拝とおごと温泉・近江牛名宿' }]
   }
@@ -150,13 +150,13 @@ export default function ShigaHieizanOgotoPage() {
     '@type': 'ItemPage',
     name: "【11・12・1月滋賀】世界遺産・比叡山延暦寺の静謐な冬参拝＆根本中堂「不滅の法灯」と琵琶湖一望おごと温泉・極上近江牛名宿5選",
     description: "11月下旬から1月、日本仏教の母山と仰がれる世界遺産「比叡山延暦寺」は、厳かな白銀の雪化粧に包まれます。標高848メートルの霊峰に佇む総本堂・国宝「根本中堂」では、開山以来1200年間一度も消えることなく灯り続ける「不滅の法灯」が神聖な光を放ち、大改修中の今しか見られない特別な修学空間が旅人を迎えます。比叡山から日本一の長さを誇る坂本ケーブルで下れば、伝教大師最澄が開湯した名湯「おごと温泉」。雄大な冬の琵琶湖を望む雪見露天風呂と、日本三大和牛の筆頭「近江牛」のとろけるすき焼き・しゃぶしゃぶを心ゆくまで堪能する厳選名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-shiga-hieizan-enryakuji-ogoto-onsen-omigyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-shiga-hieizan-enryakuji-ogoto-onsen-omigyu-stay',
     breadcrumb: {
       '@type': 'BreadcrumbList',
       itemListElement: [
-        { '@type': 'ListItem', position: 1, name: 'ホーム', item: 'https://croud-travel.com/' },
-        { '@type': 'ListItem', position: 2, name: '冬の特集一覧', item: 'https://croud-travel.com/features/' },
-        { '@type': 'ListItem', position: 3, name: '比叡山延暦寺＆おごと温泉・近江牛ステイ', item: 'https://croud-travel.com/winter-shiga-hieizan-enryakuji-ogoto-onsen-omigyu-stay' }
+        { '@type': 'ListItem', position: 1, name: 'ホーム', item: 'https://croud-travel.pages.dev/' },
+        { '@type': 'ListItem', position: 2, name: '冬の特集一覧', item: 'https://croud-travel.pages.dev/features/' },
+        { '@type': 'ListItem', position: 3, name: '比叡山延暦寺＆おごと温泉・近江牛ステイ', item: 'https://croud-travel.pages.dev/winter-shiga-hieizan-enryakuji-ogoto-onsen-omigyu-stay' }
       ]
     },
     mainEntity: {

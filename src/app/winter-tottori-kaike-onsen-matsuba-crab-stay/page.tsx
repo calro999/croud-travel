@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月皆生温泉の大山雪景色とカニ漁解禁】日本海の美肌塩湯・11月解禁境港活松葉ガニ＆鳥取和牛の宿5選",
     description: "日本海美保湾と秀峰・大山の白銀雪景色を望む「海の温泉」鳥取県・皆生温泉。11月6日のズワイガニ漁解禁とともに、隣接する境港から直送される一級品のタグ付き活松葉ガニ会席が開幕。ミネラル豊富な塩化物泉の美肌湯と、鳥取和牛オレイン55を堪能する冬の山陰美食宿ガイド。",
-    url: 'https://croud-travel.com/winter-tottori-kaike-onsen-matsuba-crab-stay',
+    url: 'https://croud-travel.pages.dev/winter-tottori-kaike-onsen-matsuba-crab-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -63,7 +63,7 @@ export default function KaikeWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-tottori-kaike-onsen-matsuba-crab-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-tottori-kaike-onsen-matsuba-crab-stay#article",
         "headline": "【11・12月皆生温泉の大山雪景色とカニ漁解禁】日本海の美肌塩湯・11月解禁境港活松葉ガニ＆鳥取和牛の宿5選",
         "description": "日本海美保湾と秀峰・大山の白銀雪景色を望む「海の温泉」鳥取県・皆生温泉。11月6日のズワイガニ漁解禁とともに、隣接する境港から直送される一級品のタグ付き活松葉ガニ会席が開幕。ミネラル豊富な塩化物泉の美肌湯と、鳥取和牛オレイン55を堪能する冬の山陰美食宿ガイド。",
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
@@ -72,24 +72,24 @@ export default function KaikeWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-tottori-kaike-onsen-matsuba-crab-stay"
+          "@id": "https://croud-travel.pages.dev/winter-tottori-kaike-onsen-matsuba-crab-stay"
         }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-tottori-kaike-onsen-matsuba-crab-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-tottori-kaike-onsen-matsuba-crab-stay#faq",
         "mainEntity": faqList.map(f => ({
           "@type": "Question",
           "name": f.q,
@@ -101,7 +101,7 @@ export default function KaikeWinterPage() {
       },
       {
         "@type": "ItemList",
-        "@id": "https://croud-travel.com/winter-tottori-kaike-onsen-matsuba-crab-stay#hotels",
+        "@id": "https://croud-travel.pages.dev/winter-tottori-kaike-onsen-matsuba-crab-stay#hotels",
         "itemListElement": [
           {
             "@type": "ListItem",
@@ -625,32 +625,7 @@ export default function KaikeWinterPage() {
         </section>
 
         {/* FAQ Section */}
-        <section id="faq" className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-stone-200/80 space-y-6">
-          <div className="flex items-center gap-3 pb-3 border-b border-stone-100">
-            <div className="p-2 rounded-xl bg-blue-50 text-blue-800">
-              <HelpCircle className="w-5 h-5" />
-            </div>
-            <div>
-              <span className="text-xs font-bold text-blue-800 uppercase tracking-widest">Traveler's FAQ</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                よくある質問（FAQ）と初冬の旅のアドバイス
-              </h2>
-            </div>
-          </div>
-          <div className="space-y-4">
-            {faqList.map((faq, idx) => (
-              <div key={idx} className="p-5 rounded-2xl bg-stone-50 border border-stone-200/70 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-blue-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
-                <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
-                  {faq.a}
-                </p>
-              </div>
-            ))}
-          </div>
-        </section>
+        
 
         {/* Internal Links / Related Guides */}
         <section className="bg-blue-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">

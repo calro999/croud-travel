@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月奈良】雪化粧の提灯灯る木造行者宿・大峯山麓洞川温泉の名物ぼたん鍋＆名水とうふ・極上大和牛を味わう隠れ宿5選",
     description: "11月から1月、奈良県吉野郡天川村・大峯山（八経ヶ岳・山上ヶ岳）の麓に位置する「洞川温泉（どろがわおんせん）」は、標高約820mの高冷地ならではの純白の雪に包まれます。修験道の開祖・役行者の時代から1300年以上にわたり山伏たちを迎え入れてきた温泉街には、縁側や格子戸を備えた大正・昭和初期の木造3階建て旅館が連なり、雪の夕暮れ時に軒先の赤提灯が一斉に灯れば、まるで異世界へタイムスリップしたかのような幽玄の景観へ。日本名水百選「ごろごろ水」が湧くこの地は冬の滋味の宝庫で、極上の天然猪肉を特製味噌出汁で煮込む冬の名物「ぼたん鍋」をはじめ、名水仕込みの湯豆腐や濃厚な胡麻豆腐、きめ細かな霜降りを誇るブランド和牛「大和牛」の陶板焼きが旅人の体を芯から温めます。弱アルカリ性の柔らかな名湯と静寂の雪景色に癒やされる厳選5宿を詳しく紹介します。",
-    url: 'https://croud-travel.com/winter-nara-dorogawa-onsen-snow-botannabe-stay',
+    url: 'https://croud-travel.pages.dev/winter-nara-dorogawa-onsen-snow-botannabe-stay',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -44,12 +44,12 @@ export default function NaraDorogawaOnsenPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-nara-dorogawa-onsen-snow-botannabe-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-nara-dorogawa-onsen-snow-botannabe-stay#article",
         "isPartOf": {
           "@type": "WebSite",
-          "@id": "https://croud-travel.com/#website",
+          "@id": "https://croud-travel.pages.dev/#website",
           "name": "クラドトラベル",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "headline": "【11・12・1月奈良】雪化粧の提灯灯る木造行者宿・大峯山麓洞川温泉の名物ぼたん鍋＆名水とうふ・極上大和牛を味わう隠れ宿5選",
         "description": "11月から1月、奈良県吉野郡天川村・大峯山（八経ヶ岳・山上ヶ岳）の麓に位置する「洞川温泉（どろがわおんせん）」は、標高約820mの高冷地ならではの純白の雪に包まれます。修験道の開祖・役行者の時代から1300年以上にわたり山伏たちを迎え入れてきた温泉街には、縁側や格子戸を備えた大正・昭和初期の木造3階建て旅館が連なり、雪の夕暮れ時に軒先の赤提灯が一斉に灯れば、まるで異世界へタイムスリップしたかのような幽玄の景観へ。日本名水百選「ごろごろ水」が湧くこの地は冬の滋味の宝庫で、極上の天然猪肉を特製味噌出汁で煮込む冬の名物「ぼたん鍋」をはじめ、名水仕込みの湯豆腐や濃厚な胡麻豆腐、きめ細かな霜降りを誇るブランド和牛「大和牛」の陶板焼きが旅人の体を芯から温めます。弱アルカリ性の柔らかな名湯と静寂の雪景色に癒やされる厳選5宿を詳しく紹介します。",
@@ -63,41 +63,41 @@ export default function NaraDorogawaOnsenPage() {
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル",
-          "url": "https://croud-travel.com",
+          "url": "https://croud-travel.pages.dev",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
-        "mainEntityOfPage": "https://croud-travel.com/winter-nara-dorogawa-onsen-snow-botannabe-stay"
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-nara-dorogawa-onsen-snow-botannabe-stay"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://croud-travel.com/winter-nara-dorogawa-onsen-snow-botannabe-stay#breadcrumb",
+        "@id": "https://croud-travel.pages.dev/winter-nara-dorogawa-onsen-snow-botannabe-stay#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com"
+            "item": "https://croud-travel.pages.dev"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "奈良・洞川温泉の冬ぼたん鍋と木造行者宿特集",
-            "item": "https://croud-travel.com/winter-nara-dorogawa-onsen-snow-botannabe-stay"
+            "item": "https://croud-travel.pages.dev/winter-nara-dorogawa-onsen-snow-botannabe-stay"
           }
         ]
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-nara-dorogawa-onsen-snow-botannabe-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-nara-dorogawa-onsen-snow-botannabe-stay#faq",
         "mainEntity": [{"@type":"Question","name":"冬（11月〜1月）の洞川温泉の積雪量や路面状況はどうですか？ノーマルタイヤで行けますか？","acceptedAnswer":{"@type":"Answer","text":"洞川温泉は標高約820mの山間高原に位置するため、11月下旬から冷え込みが厳しくなり、12月中旬から1月にかけては本格的な積雪や路面凍結が発生します。ノーマルタイヤでの冬の走行は極めて危険であり絶対にできません。自家用車やレンタカーで訪れる場合は、必ずスタッドレスタイヤ（4WD推奨）を装着し、万一の大雪に備えてタイヤチェーンを携行してください。国道309号から天川村へ向かう主要ルート（県道21号など）は除雪車が入りますが、日陰や橋の上、トンネル出入り口はブラックアイスバーンになりやすいため十分な減速運転が必要です。公共交通機関を利用する場合は、近鉄下市口駅から運行されている奈良交通の路線バス（洞川温泉行き）を利用するのが安全で確実です。"}},{"@type":"Question","name":"洞川温泉の名物「ぼたん鍋」とはどのような料理ですか？","acceptedAnswer":{"@type":"Answer","text":"「ぼたん鍋」は、吉野の奥山で獲れた野生の猪肉（イノシシ肉）を、大皿にボタンの花のように美しく盛り付け、味噌仕立ての特製出汁で煮込む冬の伝統鍋料理です。冬のイノシシはドングリや栗などをたっぷり食べて冬眠に備えるため、上質な脂をたっぷりと蓄えています。猪肉は煮込むほどに柔らかくなり、良質な脂は豚肉や牛肉よりもサラリとしていてコラーゲンも豊富。大峯山麓の名水「ごろごろ水」で作った地元の味噌出汁に、ごぼう、白菜、ネギ、きのこ、そして名物の洞川豆腐を一緒に煮込んで食べれば、体の芯からポカポカと温まります。"}},{"@type":"Question","name":"洞川温泉の名水「ごろごろ水」とは何ですか？冬でも汲めますか？","acceptedAnswer":{"@type":"Answer","text":"「ごろごろ水」は、大峯山系のカルスト地形（五代松鍾乳洞周辺）の地下深くから湧き出る天然のミネラルウォーターで、名水百選に選定されています。巨大な鍾乳洞の奥から水が流れる際、「ゴロゴロ」と音を立てて響いていたことからその名が付きました。弱アルカリ性でカルシウムやマグネシウムなどのミネラル分を豊富に含み、お茶やコーヒー、料理の味を劇的に引き立てます。洞川温泉街の近くに「ごろごろ水採水場（有料駐車場）」があり、冬でも凍結対策が施されていて持参したポリタンクやペットボトルに名水を汲むことができます。"}},{"@type":"Question","name":"洞川温泉の泉質と効能、温泉街の夜の雰囲気はどうですか？","acceptedAnswer":{"@type":"Answer","text":"洞川温泉の泉質は「弱アルカリ性単純温泉」。無色透明で匂いもなく、刺激が少ない肌に優しいまろやかなお湯です。筋肉痛、関節痛、冷え性、疲労回復に優れた効果があり、古くから大峯山（山上ヶ岳）へ登拝する過酷な山伏たちの疲れを癒やす湯治場として栄えてきました。冬の夜、雪がしんしんと降り積もる温泉街では、木造3階建ての旅館の軒先に赤提灯やガス灯調の街灯が灯り、水墨画のような白銀の世界に温かいオレンジ色の光が浮かび上がります。静寂の中、下駄の音を響かせながら散策する時間は忘れられない旅の思い出になります。"}},{"@type":"Question","name":"洞川名物の伝統和漢胃腸薬「陀羅尼助（だらにすけ）」とは何ですか？どこで買えますか？","acceptedAnswer":{"@type":"Answer","text":"「陀羅尼助（だらにすけ丸）」は、1300年前に修験道の開祖・役行者が大峯山で修行中、疫病に苦しむ人々を救うためにキハダ（オウバク）の樹皮を煎じて作ったとされる日本最古級の和漢胃腸薬です。名前の由来は、僧侶が眠気を覚ますために「陀羅尼（だらに）」という経文を唱えながら苦い薬を口に含んだことから。苦味が健胃作用を促し、食べ過ぎ・飲み過ぎ・二日酔い・食欲不振に抜群の効果を発揮します。洞川温泉街には「銭谷小角堂」をはじめ風情ある陀羅尼助の老舗本舗が軒を連ねており、レトロな木製看板や薬箪笥を眺めながら購入できます。"}}]
       }
     ]

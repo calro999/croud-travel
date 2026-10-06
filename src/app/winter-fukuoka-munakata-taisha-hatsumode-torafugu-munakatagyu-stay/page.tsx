@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月福岡】世界遺産・宗像大社新春開運初詣＆玄界灘冬絶景！鐘崎天然とらふぐと極上宗像牛を堪能する名宿5選",
     description: "冬の福岡・宗像と岡垣は、世界文化遺産「神宿る島」宗像・沖ノ島と関連遺産群の中枢「宗像大社辺津宮」が新春開運祈願で賑わい、荒波寄せる玄界灘の海辺に白砂青松の「さつき松原」が広がる神話と美味の郷。11月から1月にかけての冬期は、全国屈指の水揚げを誇る鐘崎漁港の極上「天然とらふぐ」や旬の寒ブリ・ヤリイカ、赤身と霜降りのバランスが秀逸なブランド黒毛和牛「宗像牛」の贅沢な味わい。宮地嶽神社「光の道」にもほど近い玄界灘沿いの厳選名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-fukuoka-munakata-taisha-hatsumode-torafugu-munakatagyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-fukuoka-munakata-taisha-hatsumode-torafugu-munakatagyu-stay',
     type: 'article',
     images: [{ url: 'https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&q=630', width: 1200, height: 630, alt: '宗像大社と玄界灘の冬景色' }]
   },
@@ -155,9 +155,9 @@ export default function FukuokaMunakataPage() {
       {
         '@type': 'BreadcrumbList',
         'itemListElement': [
-          { '@type': 'ListItem', 'position': 1, 'name': 'ホーム', 'item': 'https://croud-travel.com' },
-          { '@type': 'ListItem', 'position': 2, 'name': '特集一覧', 'item': 'https://croud-travel.com/features' },
-          { '@type': 'ListItem', 'position': 3, 'name': '宗像大社初詣と鐘崎天然とらふぐ・宗像牛名宿', 'item': 'https://croud-travel.com/winter-fukuoka-munakata-taisha-hatsumode-torafugu-munakatagyu-stay' }
+          { '@type': 'ListItem', 'position': 1, 'name': 'ホーム', 'item': 'https://croud-travel.pages.dev' },
+          { '@type': 'ListItem', 'position': 2, 'name': '特集一覧', 'item': 'https://croud-travel.pages.dev/features' },
+          { '@type': 'ListItem', 'position': 3, 'name': '宗像大社初詣と鐘崎天然とらふぐ・宗像牛名宿', 'item': 'https://croud-travel.pages.dev/winter-fukuoka-munakata-taisha-hatsumode-torafugu-munakatagyu-stay' }
         ]
       },
       {

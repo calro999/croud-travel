@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月山口・萩温泉郷の維新城下町と初冬解禁本場天然とらふぐ】萩甘鯛・長州黒毛和牛＆日本海夕景露天の宿5選",
     description: "11月から12月にかけて世界遺産の城下町・山口県萩市は、白壁の武家屋敷通りに初冬の柔らかな日差しが差し込み、日本海の荒波が育む極上の冬の味覚シーズンへと突入します。下関と並ぶ本場山口の「天然とらふぐ（ふく料理）」が本格解禁を迎え、透き通るような薄造り（てっさ）、熱々のふぐちり鍋（てっちり）、香ばしいヒレ酒が膳を彩ります。さらに萩港特産の高級魚「萩の甘鯛（アマダイ）」の松笠揚げや、きめ細かな肉質の「長州藤光牛・長州黒かしわ」を堪能。開湯20余年ながら塩分を含み体の芯まで温める萩温泉の露天風呂から日本海と菊ヶ浜の夕景を望む厳選名旅館5選を徹底解説。",
-    url: 'https://croud-travel.com/winter-yamaguchi-hagi-onsen-fugu-choshu-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-yamaguchi-hagi-onsen-fugu-choshu-beef-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -62,10 +62,10 @@ export default function HagiOnsenWinterFeature() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-yamaguchi-hagi-onsen-fugu-choshu-beef-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-yamaguchi-hagi-onsen-fugu-choshu-beef-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-yamaguchi-hagi-onsen-fugu-choshu-beef-stay"
+          "@id": "https://croud-travel.pages.dev/winter-yamaguchi-hagi-onsen-fugu-choshu-beef-stay"
         },
         "headline": "【11・12月山口・萩温泉郷の維新城下町と初冬解禁本場天然とらふぐ】萩甘鯛・長州黒毛和牛＆日本海夕景露天の宿5選",
         "description": "11月から12月にかけて世界遺産の城下町・山口県萩市は、白壁の武家屋敷通りに初冬の柔らかな日差しが差し込み、日本海の荒波が育む極上の冬の味覚シーズンへと突入します。下関と並ぶ本場山口の「天然とらふぐ（ふく料理）」が本格解禁を迎え、透き通るような薄造り（てっさ）、熱々のふぐちり鍋（てっちり）、香ばしいヒレ酒が膳を彩ります。さらに萩港特産の高級魚「萩の甘鯛（アマダイ）」の松笠揚げや、きめ細かな肉質の「長州藤光牛・長州黒かしわ」を堪能。開湯20余年ながら塩分を含み体の芯まで温める萩温泉の露天風呂から日本海と菊ヶ浜の夕景を望む厳選名旅館5選を徹底解説。",
@@ -77,7 +77,7 @@ export default function HagiOnsenWinterFeature() {
           "name": "Croud Travel",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "author": {
@@ -88,31 +88,31 @@ export default function HagiOnsenWinterFeature() {
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://croud-travel.com/winter-yamaguchi-hagi-onsen-fugu-choshu-beef-stay#breadcrumb",
+        "@id": "https://croud-travel.pages.dev/winter-yamaguchi-hagi-onsen-fugu-choshu-beef-stay#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com/"
+            "item": "https://croud-travel.pages.dev/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "山口・萩温泉郷 維新城下町と本場天然とらふぐ・日本海夕景露天の宿",
-            "item": "https://croud-travel.com/winter-yamaguchi-hagi-onsen-fugu-choshu-beef-stay"
+            "item": "https://croud-travel.pages.dev/winter-yamaguchi-hagi-onsen-fugu-choshu-beef-stay"
           }
         ]
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-yamaguchi-hagi-onsen-fugu-choshu-beef-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-yamaguchi-hagi-onsen-fugu-choshu-beef-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",

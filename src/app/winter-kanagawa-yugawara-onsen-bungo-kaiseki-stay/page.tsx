@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月湯河原温泉の名湯と奥湯河原晩秋紅葉】文豪が愛した万葉の隠れ家・相模湾の伊勢海老＆地魚会席の宿5選",
     description: "万葉集に唯一詠まれた関東最古の名湯・神奈川県湯河原温泉。11月下旬から12月上旬にかけて奥湯河原やもみじの郷を彩る関東で最も遅い錦秋の紅葉。夏目漱石や芥川龍之介ら文豪が愛した静寂の数寄屋宿、肌を柔らかく包む弱アルカリ性源泉、そして相模湾の冬の味覚・伊勢海老や寒金目鯛の贅沢会席を堪能する極上冬旅ガイド。",
-    url: 'https://croud-travel.com/winter-kanagawa-yugawara-onsen-bungo-kaiseki-stay',
+    url: 'https://croud-travel.pages.dev/winter-kanagawa-yugawara-onsen-bungo-kaiseki-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -44,7 +44,7 @@ export default function YugawaraWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-kanagawa-yugawara-onsen-bungo-kaiseki-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-kanagawa-yugawara-onsen-bungo-kaiseki-stay#article",
         "headline": "【11・12月湯河原温泉の名湯と奥湯河原晩秋紅葉】文豪が愛した万葉の隠れ家・相模湾の伊勢海老＆地魚会席の宿5選",
         "description": "万葉集に唯一詠まれた関東最古の名湯・神奈川県湯河原温泉。11月下旬から12月上旬にかけて奥湯河原やもみじの郷を彩る関東で最も遅い錦秋の紅葉。夏目漱石や芥川龍之介ら文豪が愛した静寂の数寄屋宿、肌を柔らかく包む弱アルカリ性源泉、そして相模湾の冬の味覚・伊勢海老や寒金目鯛の贅沢会席を堪能する極上冬旅ガイド。",
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
@@ -53,24 +53,24 @@ export default function YugawaraWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-kanagawa-yugawara-onsen-bungo-kaiseki-stay"
+          "@id": "https://croud-travel.pages.dev/winter-kanagawa-yugawara-onsen-bungo-kaiseki-stay"
         }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-kanagawa-yugawara-onsen-bungo-kaiseki-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-kanagawa-yugawara-onsen-bungo-kaiseki-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -108,7 +108,7 @@ export default function YugawaraWinterPage() {
       },
       {
         "@type": "ItemList",
-        "@id": "https://croud-travel.com/winter-kanagawa-yugawara-onsen-bungo-kaiseki-stay#hotels",
+        "@id": "https://croud-travel.pages.dev/winter-kanagawa-yugawara-onsen-bungo-kaiseki-stay#hotels",
         "itemListElement": [
           {
             "@type": "ListItem",
@@ -591,48 +591,7 @@ export default function YugawaraWinterPage() {
         </section>
 
         {/* FAQ Section */}
-        <section id="faq" className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-stone-200/80 space-y-6">
-          <div className="flex items-center gap-3 pb-3 border-b border-stone-100">
-            <div className="p-2 rounded-xl bg-orange-50 text-orange-800">
-              <HelpCircle className="w-5 h-5" />
-            </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              よくある質問（FAQ）：冬の湯河原温泉旅行のポイント
-            </h2>
-          </div>
-
-          <div className="space-y-4">
-            <div className="p-4 rounded-2xl bg-stone-50 border border-stone-100 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <span className="w-5 h-5 rounded-full bg-orange-700 text-white flex items-center justify-center text-xs shrink-0">Q</span>
-                11月・12月の湯河原温泉は雪が降りますか？ノーマルタイヤでも行けますか？
-              </h3>
-              <p className="text-xs sm:text-sm text-stone-600 pl-7 leading-relaxed">
-                湯河原温泉の温泉街は相模湾に面した海岸近くに位置するため、冬でも温暖で雪が降ることは極めて稀です。11月・12月であれば基本的にノーマルタイヤでお越しいただけます。ただし、箱根や大観山方面へ峠越えをする場合や、強い冬型気圧配置の際は山沿いで一時的に凍結する恐れがあるため、事前に天気予報をご確認ください。
-              </p>
-            </div>
-
-            <div className="p-4 rounded-2xl bg-stone-50 border border-stone-100 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <span className="w-5 h-5 rounded-full bg-orange-700 text-white flex items-center justify-center text-xs shrink-0">Q</span>
-                「湯河原温泉」と「奥湯河原温泉」の違いは何ですか？
-              </h3>
-              <p className="text-xs sm:text-sm text-stone-600 pl-7 leading-relaxed">
-                湯河原温泉街はJR湯河原駅から千歳川沿いに約3〜4km続く賑やかな温泉街です。一方、「奥湯河原温泉」はそこからさらに藤木川沿いを山手へ約2〜3km上った、鬱蒼とした自然林に抱かれた静寂の別天地です。高級料亭旅館や隠れ家宿が点在し、より静かな環境で紅葉や川のせせらぎを楽しみたい大人の旅行者に特に人気があります。
-              </p>
-            </div>
-
-            <div className="p-4 rounded-2xl bg-stone-50 border border-stone-100 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <span className="w-5 h-5 rounded-full bg-orange-700 text-white flex items-center justify-center text-xs shrink-0">Q</span>
-                一人旅でも宿泊できる温泉宿はありますか？
-              </h3>
-              <p className="text-xs sm:text-sm text-stone-600 pl-7 leading-relaxed">
-                はい、湯河原温泉は昔から文豪が一人で籠もって執筆や静養を行う伝統があるため、一人旅歓迎のプランを用意している旅館が数多くあります。平日の静かな温泉街を散策し、お部屋食や温泉三昧を満喫する贅沢なソロワーケーションやリトリートにも最適な温泉地です。
-              </p>
-            </div>
-          </div>
-        </section>
+        
 
         {/* Related Features & Internal Links */}
         <section className="bg-stone-100/80 rounded-3xl p-6 sm:p-8 border border-stone-200 space-y-6">

@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月黒川温泉の湯あかりと秘湯情緒】竹灯籠が彩る渓流露天風呂と阿蘇あか牛・肥後会席の名宿5選",
     description: "11月から12月にかけて阿蘇外輪山の冷涼な風が吹き抜ける熊本・黒川温泉。12月中旬から田の原川の渓流に幻想的な竹灯籠が灯る冬の風物詩「湯あかり」、名物「入湯手形」で巡る湯量豊かな野趣あふれる露天風呂。阿蘇あか牛の溶岩焼きステーキや本場極上馬刺しの美食に酔いしれる冬旅ガイド。",
-    url: 'https://croud-travel.com/winter-kumamoto-kurokawa-onsen-yuakari-stay',
+    url: 'https://croud-travel.pages.dev/winter-kumamoto-kurokawa-onsen-yuakari-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -44,7 +44,7 @@ export default function KurokawaWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-kumamoto-kurokawa-onsen-yuakari-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-kumamoto-kurokawa-onsen-yuakari-stay#article",
         "headline": "【11・12月黒川温泉の湯あかりと秘湯情緒】竹灯籠が彩る渓流露天風呂と阿蘇あか牛・肥後会席の名宿5選",
         "description": "11月から12月にかけて阿蘇外輪山の冷涼な風が吹き抜ける熊本・黒川温泉。12月中旬から田の原川の渓流に幻想的な竹灯籠が灯る冬の風物詩「湯あかり」、名物「入湯手形」で巡る湯量豊かな野趣あふれる露天風呂。阿蘇あか牛の溶岩焼きステーキや本場極上馬刺しの美食に酔いしれる冬旅ガイド。",
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
@@ -53,24 +53,24 @@ export default function KurokawaWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-kumamoto-kurokawa-onsen-yuakari-stay"
+          "@id": "https://croud-travel.pages.dev/winter-kumamoto-kurokawa-onsen-yuakari-stay"
         }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-kumamoto-kurokawa-onsen-yuakari-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-kumamoto-kurokawa-onsen-yuakari-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -108,7 +108,7 @@ export default function KurokawaWinterPage() {
       },
       {
         "@type": "ItemList",
-        "@id": "https://croud-travel.com/winter-kumamoto-kurokawa-onsen-yuakari-stay#hotels",
+        "@id": "https://croud-travel.pages.dev/winter-kumamoto-kurokawa-onsen-yuakari-stay#hotels",
         "itemListElement": [
           {
             "@type": "ListItem",

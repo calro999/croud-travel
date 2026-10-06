@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月神奈川】冬の湘南・江の島シーキャンドル「湘南の宝石」イルミネーション＆鶴岡八幡宮新春初詣・富士山夕景と相模湾冬の地魚を味わう名宿5選",
     description: "11月から1月、湘南・鎌倉・江の島は澄み切った冬空が広がり、相模湾の向こうに純白の冠雪を抱いた富士山が最もくっきりと美しく浮かび上がります。関東三大イルミネーションに数えられる「湘南の宝石」で光輝く江の島シーキャンドル、新春の幕開けを厳かに祈る鶴岡八幡宮や長谷寺の初詣、海沿いを走るレトロな江ノ電、そして冬に脂が乗る寒平目や相模湾の地魚、希少な葉山牛。海と古都の歴史が調和する冬の湘南・鎌倉を満喫する厳選名宿5選と1泊2日の冬のモデルコースを徹底解説します。",
-    url: 'https://croud-travel.com/winter-kanagawa-kamakura-enoshima-jewel-shrine-fuji-stay',
+    url: 'https://croud-travel.pages.dev/winter-kanagawa-kamakura-enoshima-jewel-shrine-fuji-stay',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -50,19 +50,19 @@ export default function KanagawaKamakuraEnoshimaWinterPage() {
     author: {
       '@type': 'Organization',
       name: 'クラドトラベル編集部',
-      url: 'https://croud-travel.com'
+      url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
       name: 'クラドトラベル',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://croud-travel.com/logo.png'
+        url: 'https://croud-travel.pages.dev/logo.png'
       }
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.com/winter-kanagawa-kamakura-enoshima-jewel-shrine-fuji-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-kanagawa-kamakura-enoshima-jewel-shrine-fuji-stay'
     }
   };
 
@@ -74,19 +74,19 @@ export default function KanagawaKamakuraEnoshimaWinterPage() {
         '@type': 'ListItem',
         position: 1,
         name: 'ホーム',
-        item: 'https://croud-travel.com'
+        item: 'https://croud-travel.pages.dev'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.com/features'
+        item: 'https://croud-travel.pages.dev/features'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '冬の鎌倉・江の島湘南の宝石＆初詣特集',
-        item: 'https://croud-travel.com/winter-kanagawa-kamakura-enoshima-jewel-shrine-fuji-stay'
+        item: 'https://croud-travel.pages.dev/winter-kanagawa-kamakura-enoshima-jewel-shrine-fuji-stay'
       }
     ]
   };

@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【12月開幕！野沢温泉パウダースノー】天然雪100%ゲレンデと名物13外湯めぐり＆信州牛美食宿5選",
     description: "12月上旬オープン！天然雪100%の極上パウダースノーと総滑走距離44kmを誇る「野沢温泉スキー場」！江戸時代から湯仲間が大切に守り継ぐ名物「13の外湯めぐり」と、冬の風物詩・野沢菜本漬け、信州牛会席に寛ぐ老舗温泉宿ステイ。",
-    url: 'https://croud-travel.com/winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -44,7 +44,7 @@ export default function NozawaWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay#article",
         "headline": "【12月開幕！野沢温泉パウダースノー】天然雪100%ゲレンデと名物13外湯めぐり＆信州牛美食宿5選",
         "description": "12月上旬オープン！天然雪100%の極上パウダースノーと総滑走距離44kmを誇る「野沢温泉スキー場」！江戸時代から湯仲間が大切に守り継ぐ名物「13の外湯めぐり」と、冬の風物詩・野沢菜本漬け、信州牛会席に寛ぐ老舗温泉宿ステイ。",
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
@@ -53,24 +53,24 @@ export default function NozawaWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay"
+          "@id": "https://croud-travel.pages.dev/winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay"
         }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -108,7 +108,7 @@ export default function NozawaWinterPage() {
       },
       {
         "@type": "ItemList",
-        "@id": "https://croud-travel.com/winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay#hotels",
+        "@id": "https://croud-travel.pages.dev/winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay#hotels",
         "itemListElement": [
           {
             "@type": "ListItem",

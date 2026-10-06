@@ -9,12 +9,12 @@ export const metadata: Metadata = {
   description: "黒潮の影響で真冬でも温暖な気候に恵まれた常春の地・南房総と鋸南・館山。12月中旬〜1月は山肌を白く染める「江月水仙ロード」の約1000万本の日本水仙が甘い芳香を放ち、房総フラワーラインでは早咲きの黄色い菜の花が春の訪れを告げます。日本三大金運神社に数えられる安房国一宮「安房神社」で迎える新春初詣、本州屈指の日の出名所「野島埼灯台」の絶景。黒潮が育む「房総伊勢海老」や「金目鯛の姿煮」に舌鼓を打ち、太平洋を一望する温泉宿に憩う冬の特選名宿5選。",
   keywords: '江月水仙ロード 見頃, 安房神社 初詣 金運, 野島埼灯台 初日の出, 房総伊勢海老 冬, 金目鯛 姿煮 南房総, 休暇村館山, 白浜オーシャンリゾート, 千葉 冬 旅行, 南房総 観光',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-chiba-minamiboso-kyonan-suisen-road-awa-shrine-hatsumode-iseebi-stay'
+    canonical: 'https://croud-travel.pages.dev/winter-chiba-minamiboso-kyonan-suisen-road-awa-shrine-hatsumode-iseebi-stay'
   },
   openGraph: {
     title: "【11・12・1月千葉】常春の南房総「江月水仙ロード」1000万本の水仙の香りと房総フラワーライン！日本三大金運神社「安房神社」新春初詣・野島埼灯台の初日の出＆房総伊勢海老・金目鯛厳選名宿5選",
     description: "黒潮の影響で真冬でも温暖な気候に恵まれた常春の地・南房総と鋸南・館山。12月中旬〜1月は山肌を白く染める「江月水仙ロード」の約1000万本の日本水仙が甘い芳香を放ち、房総フラワーラインでは早咲きの黄色い菜の花が春の訪れを告げます。日本三大金運神社に数えられる安房国一宮「安房神社」で迎える新春初詣、本州屈指の日の出名所「野島埼灯台」の絶景。黒潮が育む「房総伊勢海老」や「金目鯛の姿煮」に舌鼓を打ち、太平洋を一望する温泉宿に憩う冬の特選名宿5選。",
-    url: 'https://croud-travel.com/winter-chiba-minamiboso-kyonan-suisen-road-awa-shrine-hatsumode-iseebi-stay',
+    url: 'https://croud-travel.pages.dev/winter-chiba-minamiboso-kyonan-suisen-road-awa-shrine-hatsumode-iseebi-stay',
     siteName: 'クラドトラベル',
     type: 'article',
     locale: 'ja_JP',
@@ -51,12 +51,12 @@ export default function ChibaMinamibosoWinterFeaturePage() {
       "name": "クラドトラベル",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://croud-travel.com/logo.png"
+        "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.com/winter-chiba-minamiboso-kyonan-suisen-road-awa-shrine-hatsumode-iseebi-stay"
+      "@id": "https://croud-travel.pages.dev/winter-chiba-minamiboso-kyonan-suisen-road-awa-shrine-hatsumode-iseebi-stay"
     }
   };
 
@@ -68,19 +68,19 @@ export default function ChibaMinamibosoWinterFeaturePage() {
         "@type": "ListItem",
         "position": 1,
         "name": "ホーム",
-        "item": "https://croud-travel.com/"
+        "item": "https://croud-travel.pages.dev/"
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "特集一覧",
-        "item": "https://croud-travel.com/features"
+        "item": "https://croud-travel.pages.dev/features"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "千葉・南房総＆鋸南 冬の水仙ロードと安房神社初詣",
-        "item": "https://croud-travel.com/winter-chiba-minamiboso-kyonan-suisen-road-awa-shrine-hatsumode-iseebi-stay"
+        "item": "https://croud-travel.pages.dev/winter-chiba-minamiboso-kyonan-suisen-road-awa-shrine-hatsumode-iseebi-stay"
       }
     ]
   };

@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【12・1月滋賀】高島＆マキノ・白鬚神社！白銀のマキノ高原メタセコイア並木雪景色と湖中大鳥居初詣・天然鴨鍋＆近江牛名宿5選",
     description: "冬の奥琵琶湖・高島市は、まるで北欧の童話世界のように静謐で美しい白銀の絶景に包まれます。マキノ高原へと真っ直ぐ続く全長2.4km・約500本の「メタセコイア並木」は、枝に純白の雪の花を咲かせた息を呑むスノーロードへと変貌。「近江の厳島」と称される白鬚神社の湖中大鳥居から昇る新春の初日の出と厳かな初詣、冬の滋賀が誇る究極の郷土鍋「天然鴨鍋」と日本三大和牛「近江牛すき焼き」。奥琵琶湖畔の美景リゾートとおごと温泉の名湯を味わう厳選名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-shiga-takashima-makino-metasequoia-snow-shirahige-stay',
+    url: 'https://croud-travel.pages.dev/winter-shiga-takashima-makino-metasequoia-snow-shirahige-stay',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',
     type: 'article',
@@ -162,10 +162,10 @@ export default function ShigaTakashimaMakinoWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-shiga-takashima-makino-metasequoia-snow-shirahige-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-shiga-takashima-makino-metasequoia-snow-shirahige-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-shiga-takashima-makino-metasequoia-snow-shirahige-stay"
+          "@id": "https://croud-travel.pages.dev/winter-shiga-takashima-makino-metasequoia-snow-shirahige-stay"
         },
         "headline": "【12・1月滋賀】高島＆マキノ・白鬚神社！白銀のマキノ高原メタセコイア並木雪景色と湖中大鳥居初詣・天然鴨鍋＆近江牛名宿5選",
         "description": "冬の奥琵琶湖・高島市は、まるで北欧の童話世界のように静謐で美しい白銀の絶景に包まれます。マキノ高原へと真っ直ぐ続く全長2.4km・約500本の「メタセコイア並木」は、枝に純白の雪の花を咲かせた息を呑むスノーロードへと変貌。「近江の厳島」と称される白鬚神社の湖中大鳥居から昇る新春の初日の出と厳かな初詣、冬の滋賀が誇る究極の郷土鍋「天然鴨鍋」と日本三大和牛「近江牛すき焼き」。奥琵琶湖畔の美景リゾートとおごと温泉の名湯を味わう厳選名宿5選を徹底解説します。",
@@ -175,7 +175,7 @@ export default function ShigaTakashimaMakinoWinterPage() {
         "publisher": {
           "@type": "Organization",
           "name": "地域の宿探訪",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         }
       },
       {
@@ -185,19 +185,19 @@ export default function ShigaTakashimaMakinoWinterPage() {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com"
+            "item": "https://croud-travel.pages.dev"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "高島＆マキノ・白鬚神社冬特集",
-            "item": "https://croud-travel.com/winter-shiga-takashima-makino-metasequoia-snow-shirahige-stay"
+            "item": "https://croud-travel.pages.dev/winter-shiga-takashima-makino-metasequoia-snow-shirahige-stay"
           }
         ]
       },

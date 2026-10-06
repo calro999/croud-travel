@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月山形】酒田＆鶴岡・羽黒山！出羽三山神社の雪の初詣と山居倉庫雪景色・冬の日本海名物「寒鱈どんがら汁」＆名湯5選",
     description: "白銀の静寂に包まれる国宝羽黒山五重塔と出羽三山神社三神合祭殿での厳かな雪の初詣。酒田の象徴・山居倉庫の雪化粧ケヤキ並木や、荒海日本海が育む冬の至宝「寒鱈どんがら汁」の濃厚な旨味。ユネスコ食文化創造都市・鶴岡の伝統郷土料理と庄内牛、日本海を望む湯野浜温泉や名湯湯田川・温海温泉の雪見露天に癒やされる厳選宿5選を徹底特集します。",
-    url: 'https://croud-travel.com/winter-yamagata-sakata-tsuruoka-hagurosan-kandara-stay',
+    url: 'https://croud-travel.pages.dev/winter-yamagata-sakata-tsuruoka-hagurosan-kandara-stay',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',
     type: 'article',
@@ -164,10 +164,10 @@ export default function YamagataSakataTsuruokaPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-yamagata-sakata-tsuruoka-hagurosan-kandara-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-yamagata-sakata-tsuruoka-hagurosan-kandara-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-yamagata-sakata-tsuruoka-hagurosan-kandara-stay"
+          "@id": "https://croud-travel.pages.dev/winter-yamagata-sakata-tsuruoka-hagurosan-kandara-stay"
         },
         "headline": "【11・12・1月山形】酒田＆鶴岡・羽黒山！出羽三山神社の雪の初詣と山居倉庫雪景色・冬の日本海名物「寒鱈どんがら汁」＆名湯5選",
         "description": "白銀の静寂に包まれる国宝羽黒山五重塔と出羽三山神社三神合祭殿での厳かな雪の初詣。酒田の象徴・山居倉庫の雪化粧ケヤキ並木や、荒海日本海が育む冬の至宝「寒鱈どんがら汁」の濃厚な旨味。ユネスコ食文化創造都市・鶴岡の伝統郷土料理と庄内牛、日本海を望む湯野浜温泉や名湯湯田川・温海温泉の雪見露天に癒やされる厳選宿5選を徹底特集します。",
@@ -177,44 +177,44 @@ export default function YamagataSakataTsuruokaPage() {
         "publisher": {
           "@type": "Organization",
           "name": "地域の宿探訪",
-          "url": "https://croud-travel.com",
+          "url": "https://croud-travel.pages.dev",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-yamagata-sakata-tsuruoka-hagurosan-kandara-stay"
+          "@id": "https://croud-travel.pages.dev/winter-yamagata-sakata-tsuruoka-hagurosan-kandara-stay"
         }
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://croud-travel.com/winter-yamagata-sakata-tsuruoka-hagurosan-kandara-stay#breadcrumb",
+        "@id": "https://croud-travel.pages.dev/winter-yamagata-sakata-tsuruoka-hagurosan-kandara-stay#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com"
+            "item": "https://croud-travel.pages.dev"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "酒田＆鶴岡・羽黒山初詣と寒鱈どんがら汁名宿",
-            "item": "https://croud-travel.com/winter-yamagata-sakata-tsuruoka-hagurosan-kandara-stay"
+            "item": "https://croud-travel.pages.dev/winter-yamagata-sakata-tsuruoka-hagurosan-kandara-stay"
           }
         ]
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-yamagata-sakata-tsuruoka-hagurosan-kandara-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-yamagata-sakata-tsuruoka-hagurosan-kandara-stay#faq",
         "mainEntity": faqs.map(f => ({
           "@type": "Question",
           "name": f.q,

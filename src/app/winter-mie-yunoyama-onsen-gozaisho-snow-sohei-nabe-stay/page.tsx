@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月三重・湯の山温泉の御在所岳初雪樹氷と開湯1300年美肌湯】名物僧兵鍋・菰野豚＆伊勢湾望む絶景露天の宿5選",
     description: "11月下旬から12月にかけて鈴鹿山脈の主峰・御在所岳（標高1,212m）は、山上公園に白銀の初雪が舞い降り、条件が揃えば幻想的な「樹氷（スノーモンスター）」や青白く輝く「氷瀑」が出現します。麓の湯の山温泉は養老2年（718年）開湯、傷ついた鹿が癒やした「鹿の湯」伝説が残るアルカリ性単純温泉。三岳寺の僧兵たちにちなんだ滋養強壮満点の郷土鍋「名物僧兵鍋（猪肉・鶏肉・特製味噌仕立て）」、鈴鹿山麓の清流で育つ甘みたっぷりの「菰野豚（こものぶた）」、露天風呂から遠く伊勢湾や名古屋市街の夜景を見渡す絶景名宿5選を徹底解説。",
-    url: 'https://croud-travel.com/winter-mie-yunoyama-onsen-gozaisho-snow-sohei-nabe-stay',
+    url: 'https://croud-travel.pages.dev/winter-mie-yunoyama-onsen-gozaisho-snow-sohei-nabe-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -62,10 +62,10 @@ export default function YunoyamaOnsenWinterFeature() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-mie-yunoyama-onsen-gozaisho-snow-sohei-nabe-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-mie-yunoyama-onsen-gozaisho-snow-sohei-nabe-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-mie-yunoyama-onsen-gozaisho-snow-sohei-nabe-stay"
+          "@id": "https://croud-travel.pages.dev/winter-mie-yunoyama-onsen-gozaisho-snow-sohei-nabe-stay"
         },
         "headline": "【11・12月三重・湯の山温泉の御在所岳初雪樹氷と開湯1300年美肌湯】名物僧兵鍋・菰野豚＆伊勢湾望む絶景露天の宿5選",
         "description": "11月下旬から12月にかけて鈴鹿山脈の主峰・御在所岳（標高1,212m）は、山上公園に白銀の初雪が舞い降り、条件が揃えば幻想的な「樹氷（スノーモンスター）」や青白く輝く「氷瀑」が出現します。麓の湯の山温泉は養老2年（718年）開湯、傷ついた鹿が癒やした「鹿の湯」伝説が残るアルカリ性単純温泉。三岳寺の僧兵たちにちなんだ滋養強壮満点の郷土鍋「名物僧兵鍋（猪肉・鶏肉・特製味噌仕立て）」、鈴鹿山麓の清流で育つ甘みたっぷりの「菰野豚（こものぶた）」、露天風呂から遠く伊勢湾や名古屋市街の夜景を見渡す絶景名宿5選を徹底解説。",
@@ -77,7 +77,7 @@ export default function YunoyamaOnsenWinterFeature() {
           "name": "Croud Travel",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "author": {
@@ -88,31 +88,31 @@ export default function YunoyamaOnsenWinterFeature() {
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://croud-travel.com/winter-mie-yunoyama-onsen-gozaisho-snow-sohei-nabe-stay#breadcrumb",
+        "@id": "https://croud-travel.pages.dev/winter-mie-yunoyama-onsen-gozaisho-snow-sohei-nabe-stay#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com/"
+            "item": "https://croud-travel.pages.dev/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "三重・湯の山温泉 御在所岳初雪樹氷と名物僧兵鍋の宿",
-            "item": "https://croud-travel.com/winter-mie-yunoyama-onsen-gozaisho-snow-sohei-nabe-stay"
+            "item": "https://croud-travel.pages.dev/winter-mie-yunoyama-onsen-gozaisho-snow-sohei-nabe-stay"
           }
         ]
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-mie-yunoyama-onsen-gozaisho-snow-sohei-nabe-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-mie-yunoyama-onsen-gozaisho-snow-sohei-nabe-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",

@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月渋温泉の厄除巡浴九湯めぐりと石畳情緒】木造建築が彩る冬のノスタルジー・信州プレミアム牛と地酒の宿5選",
     description: "開湯1300年、下駄の音がカランコロンと響く長野県・信州渋温泉。11月の晩秋の冷気から12月の雪舞う石畳の温泉街へ。宿泊者限定のマスターキーで巡る名物「厄除巡浴九湯めぐり」、登録有形文化財の木造建築・歴史の宿金具屋を照らす灯り、そして極上の信州プレミアム牛肉と地酒を味わう冬の風情あふれる名宿ガイド。",
-    url: 'https://croud-travel.com/winter-nagano-shibu-onsen-nine-sotoyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-nagano-shibu-onsen-nine-sotoyu-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -44,7 +44,7 @@ export default function ShibuWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-nagano-shibu-onsen-nine-sotoyu-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-nagano-shibu-onsen-nine-sotoyu-stay#article",
         "headline": "【11・12月渋温泉の厄除巡浴九湯めぐりと石畳情緒】木造建築が彩る冬のノスタルジー・信州プレミアム牛と地酒の宿5選",
         "description": "開湯1300年、下駄の音がカランコロンと響く長野県・信州渋温泉。11月の晩秋の冷気から12月の雪舞う石畳の温泉街へ。宿泊者限定のマスターキーで巡る名物「厄除巡浴九湯めぐり」、登録有形文化財の木造建築・歴史の宿金具屋を照らす灯り、そして極上の信州プレミアム牛肉と地酒を味わう冬の風情あふれる名宿ガイド。",
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
@@ -53,24 +53,24 @@ export default function ShibuWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-nagano-shibu-onsen-nine-sotoyu-stay"
+          "@id": "https://croud-travel.pages.dev/winter-nagano-shibu-onsen-nine-sotoyu-stay"
         }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-nagano-shibu-onsen-nine-sotoyu-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-nagano-shibu-onsen-nine-sotoyu-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -108,7 +108,7 @@ export default function ShibuWinterPage() {
       },
       {
         "@type": "ItemList",
-        "@id": "https://croud-travel.com/winter-nagano-shibu-onsen-nine-sotoyu-stay#hotels",
+        "@id": "https://croud-travel.pages.dev/winter-nagano-shibu-onsen-nine-sotoyu-stay#hotels",
         "itemListElement": [
           {
             "@type": "ListItem",
@@ -646,48 +646,7 @@ export default function ShibuWinterPage() {
         </section>
 
         {/* FAQ Section */}
-        <section id="faq" className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-stone-200/80 space-y-6">
-          <div className="flex items-center gap-3 pb-3 border-b border-stone-100">
-            <div className="p-2 rounded-xl bg-red-50 text-red-800">
-              <HelpCircle className="w-5 h-5" />
-            </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              よくある質問（FAQ）：信州渋温泉の旅を快適にするポイント
-            </h2>
-          </div>
-
-          <div className="space-y-4">
-            <div className="p-4 rounded-2xl bg-stone-50 border border-stone-100 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <span className="w-5 h-5 rounded-full bg-red-700 text-white flex items-center justify-center text-xs shrink-0">Q</span>
-                日帰り入浴でも外湯の九湯めぐりはできますか？
-              </h3>
-              <p className="text-xs sm:text-sm text-stone-600 pl-7 leading-relaxed">
-                一番湯から八番湯までは「渋温泉の旅館宿泊者」専用となっており、日帰り客は利用できません。ただし、九番湯「大湯」のみ、渋温泉旅館組合事務所または大湯前の自動券売機で入浴券（有料）を購入すれば日帰りでも入浴可能です。すべての外湯を巡るためには、渋温泉の宿に宿泊することが必須の条件となっています。
-              </p>
-            </div>
-
-            <div className="p-4 rounded-2xl bg-stone-50 border border-stone-100 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <span className="w-5 h-5 rounded-full bg-red-700 text-white flex items-center justify-center text-xs shrink-0">Q</span>
-                外湯のお湯は熱いと聞きますが、子供や熱い湯が苦手な人でも入れますか？
-              </h3>
-              <p className="text-xs sm:text-sm text-stone-600 pl-7 leading-relaxed">
-                渋温泉の外湯は源泉温度が高く、湯船も43〜46度前後と熱めに保たれていることが多いです。各外湯には水道の蛇口が備え付けられているため、熱すぎる場合は適度に加水して温度を調整することができます（入浴後は必ず水を止めて出るのがマナーです）。また、一番湯「初湯」などは比較的入りやすい温度設定になっています。
-              </p>
-            </div>
-
-            <div className="p-4 rounded-2xl bg-stone-50 border border-stone-100 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <span className="w-5 h-5 rounded-full bg-red-700 text-white flex items-center justify-center text-xs shrink-0">Q</span>
-                歴史の宿 金具屋の館内見学は宿泊者以外でもできますか？
-              </h3>
-              <p className="text-xs sm:text-sm text-stone-600 pl-7 leading-relaxed">
-                金具屋の館内見学（文化財ツアー）や大浴場への入浴は「金具屋の宿泊者限定」となっています。外観のライトアップ撮影は温泉街の通りから誰でも自由に楽しむことができますが、館内の貴重な木造建築や斉月楼、大広間をじっくり見学したい方は、金具屋に宿泊予約されることを強くおすすめします。
-              </p>
-            </div>
-          </div>
-        </section>
+        
 
         {/* Related Features & Internal Links */}
         <section className="bg-stone-100/80 rounded-3xl p-6 sm:p-8 border border-stone-200 space-y-6">

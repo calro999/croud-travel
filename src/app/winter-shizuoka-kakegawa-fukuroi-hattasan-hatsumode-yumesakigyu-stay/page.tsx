@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月静岡】厄除け大本山「法多山尊永寺」新春初詣と掛川城木造天守！「可睡齋」日本最大級ひなまつり＆遠州夢咲牛名宿5選",
     description: "遠州三山を代表する厄除けの名刹「法多山尊永寺（はったさん）」が約100万人を超える初詣客で賑わう11〜1月の冬旅特集。神聖な杉木立の参道と名物「厄除団子」、曹洞宗の名刹「可睡齋」の冬室内ぼたんと日本最大級32段1,200体の雛人形、日本初の本格木造復元天守「掛川城」の凛とした佇まい、全国和牛共進会で最高賞を受賞した幻の黒毛和牛「遠州夢咲牛」と掛川深蒸し茶。掛川・袋井の滞在拠点に最適な厳選ホテル・名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-shizuoka-kakegawa-fukuroi-hattasan-hatsumode-yumesakigyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-shizuoka-kakegawa-fukuroi-hattasan-hatsumode-yumesakigyu-stay',
     type: 'article',
     images: [
       {
@@ -48,19 +48,19 @@ export default function ShizuokaKakegawaWinterPage() {
     "author": {
       "@type": "Organization",
       "name": "旅宿クラウド 編集部",
-      "url": "https://croud-travel.com"
+      "url": "https://croud-travel.pages.dev"
     },
     "publisher": {
       "@type": "Organization",
       "name": "旅宿クラウド",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://croud-travel.com/logo.png"
+        "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.com/winter-shizuoka-kakegawa-fukuroi-hattasan-hatsumode-yumesakigyu-stay"
+      "@id": "https://croud-travel.pages.dev/winter-shizuoka-kakegawa-fukuroi-hattasan-hatsumode-yumesakigyu-stay"
     }
   };
 
@@ -72,19 +72,19 @@ export default function ShizuokaKakegawaWinterPage() {
         "@type": "ListItem",
         "position": 1,
         "name": "ホーム",
-        "item": "https://croud-travel.com"
+        "item": "https://croud-travel.pages.dev"
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "特集一覧",
-        "item": "https://croud-travel.com/features"
+        "item": "https://croud-travel.pages.dev/features"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "静岡・掛川＆袋井 冬特集",
-        "item": "https://croud-travel.com/winter-shizuoka-kakegawa-fukuroi-hattasan-hatsumode-yumesakigyu-stay"
+        "item": "https://croud-travel.pages.dev/winter-shizuoka-kakegawa-fukuroi-hattasan-hatsumode-yumesakigyu-stay"
       }
     ]
   };
@@ -691,7 +691,7 @@ export default function ShizuokaKakegawaWinterPage() {
 
       {/* Footer */}
       <footer className="bg-slate-900 text-slate-400 py-10 px-4 text-center text-xs border-t border-slate-800 mt-16">
-        <p>© 2026 旅宿クラウド (croud-travel.com). All rights reserved.</p>
+        <p>© 2026 旅宿クラウド (croud-travel.pages.dev). All rights reserved.</p>
         <p className="mt-2 text-slate-500">掲載の宿泊料金や施設情報は楽天トラベルAPIより取得した参考データです。最新のプラン内容は各宿泊施設ページをご確認ください。</p>
       </footer>
     </article>

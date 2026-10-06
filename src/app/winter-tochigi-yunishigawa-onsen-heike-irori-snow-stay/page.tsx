@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月栃木・日光湯西川温泉の初雪渓谷美と平家落人伝説】名物囲炉裏会席・平家狩場焼＆とちぎ和牛・源泉かけ流し雪見露天名宿5選",
     description: "11月から12月にかけて、栃木県日光市の深山幽谷に抱かれた「湯西川温泉」は、広葉樹の紅葉が散り落ちるとともに白銀の初雪が舞い始め、茅葺き屋根の古民家や湯西川渓谷が静謐な冬景色に包まれます。壇ノ浦の戦いに敗れた平家の落人たちが落ち延び、河原の炭火で野鳥や川魚を焼いたことに端を発する伝統の「本場囲炉裏（いろり）料理」平家狩場焼、山椒香るばんだい餅、とろける霜降りの「とちぎ和牛」、香ばしいイワナの骨酒。そして湯守が守り継ぐpH9前後の柔らかな源泉かけ流し雪見露天風呂。深山に佇む平家伝承の厳選名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-tochigi-yunishigawa-onsen-heike-irori-snow-stay',
+    url: 'https://croud-travel.pages.dev/winter-tochigi-yunishigawa-onsen-heike-irori-snow-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -166,28 +166,28 @@ export default function WinterTochigiYunishigawaPage() {
     '@graph': [
       {
         '@type': 'Article',
-        '@id': 'https://croud-travel.com/winter-tochigi-yunishigawa-onsen-heike-irori-snow-stay#article',
+        '@id': 'https://croud-travel.pages.dev/winter-tochigi-yunishigawa-onsen-heike-irori-snow-stay#article',
         'isPartOf': {
           '@type': 'WebSite',
-          '@id': 'https://croud-travel.com/#website',
+          '@id': 'https://croud-travel.pages.dev/#website',
           'name': 'クラドトラベル',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         },
         'headline': "【11・12月栃木・日光湯西川温泉の初雪渓谷美と平家落人伝説】名物囲炉裏会席・平家狩場焼＆とちぎ和牛・源泉かけ流し雪見露天名宿5選",
         'description': "11月から12月にかけて、栃木県日光市の深山幽谷に抱かれた「湯西川温泉」は、広葉樹の紅葉が散り落ちるとともに白銀の初雪が舞い始め、茅葺き屋根の古民家や湯西川渓谷が静謐な冬景色に包まれます。壇ノ浦の戦いに敗れた平家の落人たちが落ち延び、河原の炭火で野鳥や川魚を焼いたことに端を発する伝統の「本場囲炉裏（いろり）料理」平家狩場焼、山椒香るばんだい餅、とろける霜降りの「とちぎ和牛」、香ばしいイワナの骨酒。そして湯守が守り継ぐpH9前後の柔らかな源泉かけ流し雪見露天風呂。深山に佇む平家伝承の厳選名宿5選を徹底解説します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.com/winter-tochigi-yunishigawa-onsen-heike-irori-snow-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-tochigi-yunishigawa-onsen-heike-irori-snow-stay',
         'datePublished': '2026-09-28T00:00:00+09:00',
         'dateModified': '2026-09-28T00:00:00+09:00',
         'publisher': {
           '@type': 'Organization',
           'name': 'クラドトラベル編集部',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         }
       },
       {
         '@type': 'TouristDestination',
-        '@id': 'https://croud-travel.com/winter-tochigi-yunishigawa-onsen-heike-irori-snow-stay#destination',
+        '@id': 'https://croud-travel.pages.dev/winter-tochigi-yunishigawa-onsen-heike-irori-snow-stay#destination',
         'name': '日光・湯西川温泉',
         'description': '日光国立公園の最奥に位置する平家落人の隠れ里。初雪の渓谷美と名物囲炉裏狩場焼、源泉かけ流し雪見露天風呂が魅力。',
         'geo': {
@@ -198,7 +198,7 @@ export default function WinterTochigiYunishigawaPage() {
       },
       {
         '@type': 'FAQPage',
-        '@id': 'https://croud-travel.com/winter-tochigi-yunishigawa-onsen-heike-irori-snow-stay#faq',
+        '@id': 'https://croud-travel.pages.dev/winter-tochigi-yunishigawa-onsen-heike-irori-snow-stay#faq',
         'mainEntity': faqList.map((f) => ({
           '@type': 'Question',
           'name': f.q,
@@ -210,7 +210,7 @@ export default function WinterTochigiYunishigawaPage() {
       },
       {
         '@type': 'ItemList',
-        '@id': 'https://croud-travel.com/winter-tochigi-yunishigawa-onsen-heike-irori-snow-stay#hotellist',
+        '@id': 'https://croud-travel.pages.dev/winter-tochigi-yunishigawa-onsen-heike-irori-snow-stay#hotellist',
         'name': '日光湯西川温泉のおすすめ名宿5選',
         'itemListElement': hotels.map((h, idx) => ({
           '@type': 'ListItem',

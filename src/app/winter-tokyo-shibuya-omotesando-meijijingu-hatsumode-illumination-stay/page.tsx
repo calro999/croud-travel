@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月東京】渋谷＆表参道・原宿！明治神宮初詣＆青の洞窟・表参道ケヤキ並木イルミとSHIBUYA SKY夜景を味わう名宿5選",
     description: "11月中旬から1月にかけて、渋谷・表参道・原宿は世界中から注目を集める光と祝祭の街へと進化します。表参道約1kmを黄金色に染め上げるケヤキ並木イルミネーション、代々木公園へと続く幻想的な「青の洞窟 SHIBUYA」、そして地上229m「SHIBUYA SKY」から冬の澄んだ夜空に広がる富士山夕景と都心360度パノラマ夜景。新春には日本一の参拝者数を誇る明治神宮で厳かな初詣。最新カルチャーと上質なホテルステイが交差する冬の渋谷滞在。楽天APIから最新取得した実力派ホテル5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-tokyo-shibuya-omotesando-meijijingu-hatsumode-illumination-stay',
+    url: 'https://croud-travel.pages.dev/winter-tokyo-shibuya-omotesando-meijijingu-hatsumode-illumination-stay',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',
     type: 'article',
@@ -162,10 +162,10 @@ export default function TokyoShibuyaOmotesandoWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-tokyo-shibuya-omotesando-meijijingu-hatsumode-illumination-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-tokyo-shibuya-omotesando-meijijingu-hatsumode-illumination-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-tokyo-shibuya-omotesando-meijijingu-hatsumode-illumination-stay"
+          "@id": "https://croud-travel.pages.dev/winter-tokyo-shibuya-omotesando-meijijingu-hatsumode-illumination-stay"
         },
         "headline": "【11・12・1月東京】渋谷＆表参道・原宿！明治神宮初詣＆青の洞窟・表参道ケヤキ並木イルミとSHIBUYA SKY夜景を味わう名宿5選",
         "description": "11月中旬から1月にかけて、渋谷・表参道・原宿は世界中から注目を集める光と祝祭の街へと進化します。表参道約1kmを黄金色に染め上げるケヤキ並木イルミネーション、代々木公園へと続く幻想的な「青の洞窟 SHIBUYA」、そして地上229m「SHIBUYA SKY」から冬の澄んだ夜空に広がる富士山夕景と都心360度パノラマ夜景。新春には日本一の参拝者数を誇る明治神宮で厳かな初詣。最新カルチャーと上質なホテルステイが交差する冬の渋谷滞在。楽天APIから最新取得した実力派ホテル5選を徹底解説します。",
@@ -175,7 +175,7 @@ export default function TokyoShibuyaOmotesandoWinterPage() {
         "publisher": {
           "@type": "Organization",
           "name": "地域の宿探訪",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         }
       },
       {
@@ -185,19 +185,19 @@ export default function TokyoShibuyaOmotesandoWinterPage() {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com"
+            "item": "https://croud-travel.pages.dev"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "渋谷＆表参道・原宿冬特集",
-            "item": "https://croud-travel.com/winter-tokyo-shibuya-omotesando-meijijingu-hatsumode-illumination-stay"
+            "item": "https://croud-travel.pages.dev/winter-tokyo-shibuya-omotesando-meijijingu-hatsumode-illumination-stay"
           }
         ]
       },

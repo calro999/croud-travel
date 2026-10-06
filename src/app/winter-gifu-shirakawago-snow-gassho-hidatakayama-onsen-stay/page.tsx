@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月岐阜】世界遺産白川郷雪景色＆飛騨高山古い町並み！奥飛騨雪見露天と極上飛騨牛会席の名宿5選",
     description: "冬の飛騨路は、日本の原風景が雪化粧に包まれる年間最高の旅情シーズン。世界遺産・白川郷合掌造り集落の白銀の絶景、新酒の杉玉が掲げられる飛騨高山の風情ある「古い町並み」、そして奥飛騨温泉郷の原生林に抱かれた雪見露天風呂。とろける極上A5飛騨牛の炭火焼きや朴葉味噌とともに、冬の日本の美を極める旅へ。楽天APIから最新取得した本陣平野屋、深山桜庵など厳選宿5選を徹底特集します。",
-    url: 'https://croud-travel.com/winter-gifu-shirakawago-snow-gassho-hidatakayama-onsen-stay',
+    url: 'https://croud-travel.pages.dev/winter-gifu-shirakawago-snow-gassho-hidatakayama-onsen-stay',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',
     type: 'article',
@@ -162,10 +162,10 @@ export default function ShirakawagoHidaTakayamaWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-gifu-shirakawago-snow-gassho-hidatakayama-onsen-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-gifu-shirakawago-snow-gassho-hidatakayama-onsen-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-gifu-shirakawago-snow-gassho-hidatakayama-onsen-stay"
+          "@id": "https://croud-travel.pages.dev/winter-gifu-shirakawago-snow-gassho-hidatakayama-onsen-stay"
         },
         "headline": "【11・12・1月岐阜】世界遺産白川郷雪景色＆飛騨高山古い町並み！奥飛騨雪見露天と極上飛騨牛会席の名宿5選",
         "description": "冬の飛騨路は、日本の原風景が雪化粧に包まれる年間最高の旅情シーズン。世界遺産・白川郷合掌造り集落の白銀の絶景、新酒の杉玉が掲げられる飛騨高山の風情ある「古い町並み」、そして奥飛騨温泉郷の原生林に抱かれた雪見露天風呂。とろける極上A5飛騨牛の炭火焼きや朴葉味噌とともに、冬の日本の美を極める旅へ。楽天APIから最新取得した本陣平野屋、深山桜庵など厳選宿5選を徹底特集します。",
@@ -175,7 +175,7 @@ export default function ShirakawagoHidaTakayamaWinterPage() {
         "publisher": {
           "@type": "Organization",
           "name": "地域の宿探訪",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         }
       },
       {
@@ -185,19 +185,19 @@ export default function ShirakawagoHidaTakayamaWinterPage() {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com"
+            "item": "https://croud-travel.pages.dev"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "白川郷・飛騨高山 冬特集",
-            "item": "https://croud-travel.com/winter-gifu-shirakawago-snow-gassho-hidatakayama-onsen-stay"
+            "item": "https://croud-travel.pages.dev/winter-gifu-shirakawago-snow-gassho-hidatakayama-onsen-stay"
           }
         ]
       },

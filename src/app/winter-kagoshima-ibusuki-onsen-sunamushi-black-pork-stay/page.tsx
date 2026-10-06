@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月指宿温泉の南国初冬リゾートと天然砂むし温泉】開聞岳望む錦江湾露天・極上かごしま黒豚しゃぶしゃぶ＆薩摩美味会席の宿5選",
     description: "本州が本格的な寒さを迎える11月から12月にかけて、日中は20℃前後のぽかぽかとした暖かさが残る南国薩摩・鹿児島県「指宿温泉」。海岸から自然湧出する温泉熱を利用した世界唯一の「天然砂むし温泉」による究極のデトックス体験、薩摩富士「開聞岳」と穏やかな錦江湾を望む絶景パノラマ露天風呂、とろける甘みと極上の肉質を誇る「かごしま黒豚」しゃぶしゃぶ、さつま地鶏や錦江湾の旬魚、本場薩摩芋焼酎を堪能する名宿5選を徹底解説。",
-    url: 'https://croud-travel.com/winter-kagoshima-ibusuki-onsen-sunamushi-black-pork-stay',
+    url: 'https://croud-travel.pages.dev/winter-kagoshima-ibusuki-onsen-sunamushi-black-pork-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -68,7 +68,7 @@ export default function IbusukiOnsenWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-kagoshima-ibusuki-onsen-sunamushi-black-pork-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-kagoshima-ibusuki-onsen-sunamushi-black-pork-stay#article",
         "headline": "【11・12月指宿温泉の南国初冬リゾートと天然砂むし温泉】開聞岳望む錦江湾露天・極上かごしま黒豚しゃぶしゃぶ＆薩摩美味会席の宿5選",
         "description": "本州が本格的な寒さを迎える11月から12月にかけて、日中は20℃前後のぽかぽかとした暖かさが残る南国薩摩・鹿児島県「指宿温泉」。海岸から自然湧出する温泉熱を利用した世界唯一の「天然砂むし温泉」による究極のデトックス体験、薩摩富士「開聞岳」と穏やかな錦江湾を望む絶景パノラマ露天風呂、とろける甘みと極上の肉質を誇る「かごしま黒豚」しゃぶしゃぶ、さつま地鶏や錦江湾の旬魚、本場薩摩芋焼酎を堪能する名宿5選を徹底解説。",
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
@@ -77,24 +77,24 @@ export default function IbusukiOnsenWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-kagoshima-ibusuki-onsen-sunamushi-black-pork-stay"
+          "@id": "https://croud-travel.pages.dev/winter-kagoshima-ibusuki-onsen-sunamushi-black-pork-stay"
         }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-kagoshima-ibusuki-onsen-sunamushi-black-pork-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-kagoshima-ibusuki-onsen-sunamushi-black-pork-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -140,7 +140,7 @@ export default function IbusukiOnsenWinterPage() {
       },
       {
         "@type": "ItemList",
-        "@id": "https://croud-travel.com/winter-kagoshima-ibusuki-onsen-sunamushi-black-pork-stay#hotels",
+        "@id": "https://croud-travel.pages.dev/winter-kagoshima-ibusuki-onsen-sunamushi-black-pork-stay#hotels",
         "itemListElement": [
           {
             "@type": "ListItem",

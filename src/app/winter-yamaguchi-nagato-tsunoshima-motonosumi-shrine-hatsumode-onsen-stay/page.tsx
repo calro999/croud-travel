@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月山口】長門＆角島・元乃隅神社！冬のコバルトブルー角島大橋と123基赤鳥居初詣・長門湯本温泉と仙崎イカ・ふぐを味わう名宿5選",
     description: "冬の日本海が最も透明度を増す11月中旬から1月。エメラルドグリーンとコバルトブルーの海を貫く「角島大橋」の絶景、CNN日本の最も美しい場所31選に輝く「元乃隅神社」の断崖に連なる123基の朱塗り鳥居での厳かな初詣、そして約600年の歴史を誇る名湯「長門湯本温泉」の恩湯と音信川の竹林ライトアップ散策。冬の味覚の王様・仙崎港の活イカや下関直送天然とらふぐ、長州黒かしわ。歴史と絶景が織りなす冬の山口・長門の厳選名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-yamaguchi-nagato-tsunoshima-motonosumi-shrine-hatsumode-onsen-stay',
+    url: 'https://croud-travel.pages.dev/winter-yamaguchi-nagato-tsunoshima-motonosumi-shrine-hatsumode-onsen-stay',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',
     type: 'article',
@@ -162,10 +162,10 @@ export default function YamaguchiNagatoWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-yamaguchi-nagato-tsunoshima-motonosumi-shrine-hatsumode-onsen-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-yamaguchi-nagato-tsunoshima-motonosumi-shrine-hatsumode-onsen-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-yamaguchi-nagato-tsunoshima-motonosumi-shrine-hatsumode-onsen-stay"
+          "@id": "https://croud-travel.pages.dev/winter-yamaguchi-nagato-tsunoshima-motonosumi-shrine-hatsumode-onsen-stay"
         },
         "headline": "【11・12・1月山口】長門＆角島・元乃隅神社！冬のコバルトブルー角島大橋と123基赤鳥居初詣・長門湯本温泉と仙崎イカ・ふぐを味わう名宿5選",
         "description": "冬の日本海が最も透明度を増す11月中旬から1月。エメラルドグリーンとコバルトブルーの海を貫く「角島大橋」の絶景、CNN日本の最も美しい場所31選に輝く「元乃隅神社」の断崖に連なる123基の朱塗り鳥居での厳かな初詣、そして約600年の歴史を誇る名湯「長門湯本温泉」の恩湯と音信川の竹林ライトアップ散策。冬の味覚の王様・仙崎港の活イカや下関直送天然とらふぐ、長州黒かしわ。歴史と絶景が織りなす冬の山口・長門の厳選名宿5選を徹底解説します。",
@@ -175,7 +175,7 @@ export default function YamaguchiNagatoWinterPage() {
         "publisher": {
           "@type": "Organization",
           "name": "地域の宿探訪",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         }
       },
       {
@@ -185,19 +185,19 @@ export default function YamaguchiNagatoWinterPage() {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com"
+            "item": "https://croud-travel.pages.dev"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "長門＆角島・元乃隅神社冬特集",
-            "item": "https://croud-travel.com/winter-yamaguchi-nagato-tsunoshima-motonosumi-shrine-hatsumode-onsen-stay"
+            "item": "https://croud-travel.pages.dev/winter-yamaguchi-nagato-tsunoshima-motonosumi-shrine-hatsumode-onsen-stay"
           }
         ]
       },

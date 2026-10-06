@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月宮崎・神話の里高千穂の冬の夜神楽と真名井の滝】名物A5高千穂牛ステーキ＆かっぽ鶏・竹筒かっぽ酒を味わうパワースポット名宿5選",
     description: "11月中旬から翌年2月にかけて、日本神話「天孫降臨」の舞台である宮崎県高千穂町では、国の重要無形民俗文化財である冬の風物詩「高千穂の夜神楽（よかぐら）」が奉納され、神々の息吹が町全体を包み込みます。初冬の凛とした冷気の中でエメラルドグリーンに澄み渡る高千穂峡・真名井の滝や、天照大神がお隠れになった天安河原の神秘的な佇まい。夕食には日本一の和牛宮崎牛の中でも最高峰と称される「極上A5ランク高千穂牛ステーキ」や、竹筒で地鶏と野菜を蒸し焼きにする「かっぽ鶏」、青竹で燗をつける伝統の「かっぽ酒」。神話の里で心身を清め、至福の美食と温泉に浸る厳選名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-miyazaki-takachiho-yokagura-gorge-takachihogyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-miyazaki-takachiho-yokagura-gorge-takachihogyu-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -166,28 +166,28 @@ export default function WinterMiyazakiTakachihoPage() {
     '@graph': [
       {
         '@type': 'Article',
-        '@id': 'https://croud-travel.com/winter-miyazaki-takachiho-yokagura-gorge-takachihogyu-stay#article',
+        '@id': 'https://croud-travel.pages.dev/winter-miyazaki-takachiho-yokagura-gorge-takachihogyu-stay#article',
         'isPartOf': {
           '@type': 'WebSite',
-          '@id': 'https://croud-travel.com/#website',
+          '@id': 'https://croud-travel.pages.dev/#website',
           'name': 'クラドトラベル',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         },
         'headline': "【11・12月宮崎・神話の里高千穂の冬の夜神楽と真名井の滝】名物A5高千穂牛ステーキ＆かっぽ鶏・竹筒かっぽ酒を味わうパワースポット名宿5選",
         'description': "11月中旬から翌年2月にかけて、日本神話「天孫降臨」の舞台である宮崎県高千穂町では、国の重要無形民俗文化財である冬の風物詩「高千穂の夜神楽（よかぐら）」が奉納され、神々の息吹が町全体を包み込みます。初冬の凛とした冷気の中でエメラルドグリーンに澄み渡る高千穂峡・真名井の滝や、天照大神がお隠れになった天安河原の神秘的な佇まい。夕食には日本一の和牛宮崎牛の中でも最高峰と称される「極上A5ランク高千穂牛ステーキ」や、竹筒で地鶏と野菜を蒸し焼きにする「かっぽ鶏」、青竹で燗をつける伝統の「かっぽ酒」。神話の里で心身を清め、至福の美食と温泉に浸る厳選名宿5選を徹底解説します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.com/winter-miyazaki-takachiho-yokagura-gorge-takachihogyu-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-miyazaki-takachiho-yokagura-gorge-takachihogyu-stay',
         'datePublished': '2026-09-28T00:00:00+09:00',
         'dateModified': '2026-09-28T00:00:00+09:00',
         'publisher': {
           '@type': 'Organization',
           'name': 'クラドトラベル編集部',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         }
       },
       {
         '@type': 'TouristDestination',
-        '@id': 'https://croud-travel.com/winter-miyazaki-takachiho-yokagura-gorge-takachihogyu-stay#destination',
+        '@id': 'https://croud-travel.pages.dev/winter-miyazaki-takachiho-yokagura-gorge-takachihogyu-stay#destination',
         'name': '宮崎・神話の里高千穂',
         'description': '天孫降臨の舞台として知られる神話の里。冬の伝統夜神楽と高千穂峡真名井の滝、極上A5高千穂牛ステーキが魅力。',
         'geo': {
@@ -198,7 +198,7 @@ export default function WinterMiyazakiTakachihoPage() {
       },
       {
         '@type': 'FAQPage',
-        '@id': 'https://croud-travel.com/winter-miyazaki-takachiho-yokagura-gorge-takachihogyu-stay#faq',
+        '@id': 'https://croud-travel.pages.dev/winter-miyazaki-takachiho-yokagura-gorge-takachihogyu-stay#faq',
         'mainEntity': faqList.map((f) => ({
           '@type': 'Question',
           'name': f.q,
@@ -210,7 +210,7 @@ export default function WinterMiyazakiTakachihoPage() {
       },
       {
         '@type': 'ItemList',
-        '@id': 'https://croud-travel.com/winter-miyazaki-takachiho-yokagura-gorge-takachihogyu-stay#hotellist',
+        '@id': 'https://croud-travel.pages.dev/winter-miyazaki-takachiho-yokagura-gorge-takachihogyu-stay#hotellist',
         'name': '神話の里高千穂のおすすめ名宿5選',
         'itemListElement': hotels.map((h, idx) => ({
           '@type': 'ListItem',

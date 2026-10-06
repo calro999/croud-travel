@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月東京】六本木けやき坂イルミネーション＆麻布台ヒルズ！東京タワー冬夜景と美食に酔いしれるラグジュアリーホテル5選",
     description: "冬の東京の代名詞・六本木けやき坂を彩る約80万球のLED「SNOW & BLUE」と、正面にそびえる真紅の東京タワー。さらに東京ミッドタウンの幻想的な光の広場、注目の麻布台ヒルズの華やかなクリスマスマーケットが揃い踏みする11月・12月・1月。地上200mの天空ラウンジや客室バルコニーから大パノラマの冬夜景を独占し、世界最高峰のミシュラン美食に酔いしれる極上の都心ホテルステイ。楽天APIから最新取得した六本木・赤坂・虎ノ門・芝公園の最高峰ラグジュアリーホテル5選を徹底特集します。",
-    url: 'https://croud-travel.com/winter-tokyo-roppongi-hills-azabudai-keyakizaka-illumination-stay',
+    url: 'https://croud-travel.pages.dev/winter-tokyo-roppongi-hills-azabudai-keyakizaka-illumination-stay',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',
     type: 'article',
@@ -162,10 +162,10 @@ export default function TokyoRoppongiAzabudaiWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-tokyo-roppongi-hills-azabudai-keyakizaka-illumination-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-tokyo-roppongi-hills-azabudai-keyakizaka-illumination-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-tokyo-roppongi-hills-azabudai-keyakizaka-illumination-stay"
+          "@id": "https://croud-travel.pages.dev/winter-tokyo-roppongi-hills-azabudai-keyakizaka-illumination-stay"
         },
         "headline": "【11・12・1月東京】六本木けやき坂イルミネーション＆麻布台ヒルズ！東京タワー冬夜景と美食に酔いしれるラグジュアリーホテル5選",
         "description": "冬の東京の代名詞・六本木けやき坂を彩る約80万球のLED「SNOW & BLUE」と、正面にそびえる真紅の東京タワー。さらに東京ミッドタウンの幻想的な光の広場、注目の麻布台ヒルズの華やかなクリスマスマーケットが揃い踏みする11月・12月・1月。地上200mの天空ラウンジや客室バルコニーから大パノラマの冬夜景を独占し、世界最高峰のミシュラン美食に酔いしれる極上の都心ホテルステイ。楽天APIから最新取得した六本木・赤坂・虎ノ門・芝公園の最高峰ラグジュアリーホテル5選を徹底特集します。",
@@ -175,7 +175,7 @@ export default function TokyoRoppongiAzabudaiWinterPage() {
         "publisher": {
           "@type": "Organization",
           "name": "地域の宿探訪",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         }
       },
       {
@@ -185,19 +185,19 @@ export default function TokyoRoppongiAzabudaiWinterPage() {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com"
+            "item": "https://croud-travel.pages.dev"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "六本木・麻布台・東京タワー冬特集",
-            "item": "https://croud-travel.com/winter-tokyo-roppongi-hills-azabudai-keyakizaka-illumination-stay"
+            "item": "https://croud-travel.pages.dev/winter-tokyo-roppongi-hills-azabudai-keyakizaka-illumination-stay"
           }
         ]
       },

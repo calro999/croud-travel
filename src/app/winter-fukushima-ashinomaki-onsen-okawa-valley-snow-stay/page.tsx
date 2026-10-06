@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月福島・会津芦ノ牧温泉の大川渓谷初雪絶景と渓流露天】会津馬刺し・極上会津牛＆源泉かけ流し湯めぐりの宿5選",
     description: "11月から12月にかけて福島県・会津若松の奥座敷「会津芦ノ牧温泉」は、大川（阿賀川）が何万年もの歳月をかけて刻んだ深い渓谷美「大川羽鳥県立自然公園」が初雪で白銀に化粧され、水墨画のような幽玄の冬景色が広がります。千数百年の昔、行基菩薩が開湯したと伝わる名湯は、渓谷の岩肌から自噴する弱アルカリ性低張性高温泉。渓谷に突き出すような迫力満点の棚田風露天風呂や空中露天風呂、極上の赤身が舌先でとろける本場「会津馬刺し」、福島県産黒毛和牛「会津牛」の陶板焼き、会津地酒の初しぼりを味わう厳選名宿5選を徹底解説。",
-    url: 'https://croud-travel.com/winter-fukushima-ashinomaki-onsen-okawa-valley-snow-stay',
+    url: 'https://croud-travel.pages.dev/winter-fukushima-ashinomaki-onsen-okawa-valley-snow-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -62,10 +62,10 @@ export default function AshinomakiOnsenWinterFeature() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-fukushima-ashinomaki-onsen-okawa-valley-snow-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-fukushima-ashinomaki-onsen-okawa-valley-snow-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-fukushima-ashinomaki-onsen-okawa-valley-snow-stay"
+          "@id": "https://croud-travel.pages.dev/winter-fukushima-ashinomaki-onsen-okawa-valley-snow-stay"
         },
         "headline": "【11・12月福島・会津芦ノ牧温泉の大川渓谷初雪絶景と渓流露天】会津馬刺し・極上会津牛＆源泉かけ流し湯めぐりの宿5選",
         "description": "11月から12月にかけて福島県・会津若松の奥座敷「会津芦ノ牧温泉」は、大川（阿賀川）が何万年もの歳月をかけて刻んだ深い渓谷美「大川羽鳥県立自然公園」が初雪で白銀に化粧され、水墨画のような幽玄の冬景色が広がります。千数百年の昔、行基菩薩が開湯したと伝わる名湯は、渓谷の岩肌から自噴する弱アルカリ性低張性高温泉。渓谷に突き出すような迫力満点の棚田風露天風呂や空中露天風呂、極上の赤身が舌先でとろける本場「会津馬刺し」、福島県産黒毛和牛「会津牛」の陶板焼き、会津地酒の初しぼりを味わう厳選名宿5選を徹底解説。",
@@ -77,7 +77,7 @@ export default function AshinomakiOnsenWinterFeature() {
           "name": "Croud Travel",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "author": {
@@ -88,31 +88,31 @@ export default function AshinomakiOnsenWinterFeature() {
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://croud-travel.com/winter-fukushima-ashinomaki-onsen-okawa-valley-snow-stay#breadcrumb",
+        "@id": "https://croud-travel.pages.dev/winter-fukushima-ashinomaki-onsen-okawa-valley-snow-stay#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com/"
+            "item": "https://croud-travel.pages.dev/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "福島・会津芦ノ牧温泉 大川渓谷初雪絶景と渓流露天の宿",
-            "item": "https://croud-travel.com/winter-fukushima-ashinomaki-onsen-okawa-valley-snow-stay"
+            "item": "https://croud-travel.pages.dev/winter-fukushima-ashinomaki-onsen-okawa-valley-snow-stay"
           }
         ]
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-fukushima-ashinomaki-onsen-okawa-valley-snow-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-fukushima-ashinomaki-onsen-okawa-valley-snow-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",

@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月鹿児島市】冬の桜島絶景＆照国神社新春初詣！本場黒豚しゃぶしゃぶと錦江湾寒ブリ・展望温泉名宿5選",
     description: "冬の南九州・鹿児島は澄み切った青空が広がり、錦江湾に浮かぶ雄大な桜島が年間で最も美しくクリアに望める絶景シーズン。島津家別邸・仙巌園の冬景色、薩摩藩祖・島津斉彬公を祀る照国神社での新春開運初詣、鹿児島黒豚しゃぶしゃぶや錦江湾の寒ブリ、揚げたてさつま揚げと本場芋焼酎。城山の高台やベイエリアから桜島を見晴らす展望天然温泉に寛ぐ厳選名宿5選を徹底特集します。",
-    url: 'https://croud-travel.com/winter-kagoshima-city-sakurajima-view-kurobuta-kanburi-onsen-stay',
+    url: 'https://croud-travel.pages.dev/winter-kagoshima-city-sakurajima-view-kurobuta-kanburi-onsen-stay',
     type: 'article'
   }
 };
@@ -153,19 +153,19 @@ export default function KagoshimaCityWinterFeaturePage() {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com/"
+            "item": "https://croud-travel.pages.dev/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "【11・12・1月鹿児島市】冬の桜島絶景＆照国神社新春初詣！本場黒豚しゃぶしゃぶと錦江湾寒ブリ・展望温泉名宿5選",
-            "item": 'https://croud-travel.com/winter-kagoshima-city-sakurajima-view-kurobuta-kanburi-onsen-stay'
+            "item": 'https://croud-travel.pages.dev/winter-kagoshima-city-sakurajima-view-kurobuta-kanburi-onsen-stay'
           }
         ]
       },
@@ -182,7 +182,7 @@ export default function KagoshimaCityWinterFeaturePage() {
           "name": "旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/icon.png"
+            "url": "https://croud-travel.pages.dev/icon.png"
           }
         },
         "datePublished": "2026-10-03",

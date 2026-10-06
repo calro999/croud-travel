@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月函館湯の川温泉の冬名湯と漁火海鮮】津軽海峡インフィニティ露天と函館クリスマスファンタジー・冬イカ＆毛蟹会席の宿5選",
     description: "11月から12月にかけて津軽海峡にイカ釣り漁船の幻想的な漁火（いさりび）が瞬く北海道三大温泉郷「湯の川温泉」。海と一体化するインフィニティ露天風呂、赤レンガ倉庫を彩る巨大ツリー「函館クリスマスファンタジー」、函館朝市直送の透き通る冬イカ刺しや濃厚な毛蟹、大沼牛を堪能。初冬の函館を満喫する極上名宿5選を徹底解説。",
-    url: 'https://croud-travel.com/winter-hokkaido-hakodate-yunokawa-onsen-isaribi-seafood-stay',
+    url: 'https://croud-travel.pages.dev/winter-hokkaido-hakodate-yunokawa-onsen-isaribi-seafood-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -68,7 +68,7 @@ export default function HakodateYunokawaWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-hokkaido-hakodate-yunokawa-onsen-isaribi-seafood-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-hokkaido-hakodate-yunokawa-onsen-isaribi-seafood-stay#article",
         "headline": "【11・12月函館湯の川温泉の冬名湯と漁火海鮮】津軽海峡インフィニティ露天と函館クリスマスファンタジー・冬イカ＆毛蟹会席の宿5選",
         "description": "11月から12月にかけて津軽海峡にイカ釣り漁船の幻想的な漁火（いさりび）が瞬く北海道三大温泉郷「湯の川温泉」。海と一体化するインフィニティ露天風呂、赤レンガ倉庫を彩る巨大ツリー「函館クリスマスファンタジー」、函館朝市直送の透き通る冬イカ刺しや濃厚な毛蟹、大沼牛を堪能。初冬の函館を満喫する極上名宿5選を徹底解説。",
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
@@ -77,24 +77,24 @@ export default function HakodateYunokawaWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-hokkaido-hakodate-yunokawa-onsen-isaribi-seafood-stay"
+          "@id": "https://croud-travel.pages.dev/winter-hokkaido-hakodate-yunokawa-onsen-isaribi-seafood-stay"
         }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-hokkaido-hakodate-yunokawa-onsen-isaribi-seafood-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-hokkaido-hakodate-yunokawa-onsen-isaribi-seafood-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -140,7 +140,7 @@ export default function HakodateYunokawaWinterPage() {
       },
       {
         "@type": "ItemList",
-        "@id": "https://croud-travel.com/winter-hokkaido-hakodate-yunokawa-onsen-isaribi-seafood-stay#hotels",
+        "@id": "https://croud-travel.pages.dev/winter-hokkaido-hakodate-yunokawa-onsen-isaribi-seafood-stay#hotels",
         "itemListElement": [
           {
             "@type": "ListItem",
@@ -637,32 +637,7 @@ export default function HakodateYunokawaWinterPage() {
         </section>
 
         {/* FAQ Section */}
-        <section id="faq" className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-slate-200/80 space-y-6">
-          <div className="flex items-center gap-3 pb-3 border-b border-slate-100">
-            <div className="p-2 rounded-xl bg-cyan-50 text-cyan-800">
-              <HelpCircle className="w-5 h-5" />
-            </div>
-            <div>
-              <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Traveler's Q&A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                よくある質問（FAQ）と初冬の函館旅行アドバイス
-              </h2>
-            </div>
-          </div>
-          <div className="space-y-4">
-            {faqList.map((faq, idx) => (
-              <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-cyan-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
-                <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
-                  {faq.a}
-                </p>
-              </div>
-            ))}
-          </div>
-        </section>
+        
 
         {/* Internal Links / Related Guides */}
         <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">

@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月熊本・杖立温泉＆わいた温泉郷】初冬に立ち上る湯けむりと元祖むし湯・名物地獄蒸しと極上肥後あか牛を堪能する名宿5選",
     description: "11月中旬から阿蘇・小国郷の山峡に冷涼な冬の気配が満ち、杖立川の川面から幾筋もの真っ白な湯けむりがダイナミックに立ち上る熊本県・杖立温泉（つえたておんせん）とわいた温泉郷。平安時代、弘法大師空海が旅の疲れを癒やしたと伝えられ、開湯1800年を超える古湯は、高温の塩化物泉の蒸気を活かした日本最古級の天然サウナ「むし湯」や、街の随所に設けられた共同の「蒸し場（地獄蒸し）」など、独特の湯治文化が今なお息づく特別な温泉郷です。初冬の冷え込んだ空気の中で高温の源泉に浸かり、むし湯でたっぷり汗を流した後は、熊本が誇る赤身肉の最高峰「肥後あか牛」のすき焼きや陶板ステーキ、本場熊本直送の極上霜降り馬刺し、地獄蒸し野菜や名物の杖立プリンなど、滋味豊かな阿蘇の冬の味覚を心ゆくまで堪能できます。初冬の阿蘇小国で心も身体も温まる厳選名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-kumamoto-tsuetate-waita-onsen-steaming-higogyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-kumamoto-tsuetate-waita-onsen-steaming-higogyu-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -45,23 +45,23 @@ export default function KumamotoTsuetateWaitaPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-kumamoto-tsuetate-waita-onsen-steaming-higogyu-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-kumamoto-tsuetate-waita-onsen-steaming-higogyu-stay#article",
         "isPartOf": {
           "@type": "WebSite",
-          "@id": "https://croud-travel.com/#website",
+          "@id": "https://croud-travel.pages.dev/#website",
           "name": "クラドトラベル",
-          "url": "https://croud-travel.com/"
+          "url": "https://croud-travel.pages.dev/"
         },
         "headline": "【11・12月熊本・杖立温泉＆わいた温泉郷】初冬に立ち上る湯けむりと元祖むし湯・名物地獄蒸しと極上肥後あか牛を堪能する名宿5選",
         "description": "11月中旬から阿蘇・小国郷の山峡に冷涼な冬の気配が満ち、杖立川の川面から幾筋もの真っ白な湯けむりがダイナミックに立ち上る熊本県・杖立温泉（つえたておんせん）とわいた温泉郷。平安時代、弘法大師空海が旅の疲れを癒やしたと伝えられ、開湯1800年を超える古湯は、高温の塩化物泉の蒸気を活かした日本最古級の天然サウナ「むし湯」や、街の随所に設けられた共同の「蒸し場（地獄蒸し）」など、独特の湯治文化が今なお息づく特別な温泉郷です。初冬の冷え込んだ空気の中で高温の源泉に浸かり、むし湯でたっぷり汗を流した後は、熊本が誇る赤身肉の最高峰「肥後あか牛」のすき焼きや陶板ステーキ、本場熊本直送の極上霜降り馬刺し、地獄蒸し野菜や名物の杖立プリンなど、滋味豊かな阿蘇の冬の味覚を心ゆくまで堪能できます。初冬の阿蘇小国で心も身体も温まる厳選名宿5選を徹底解説します。",
         "datePublished": "2026-09-29T18:00:00+09:00",
         "dateModified": "2026-09-29T18:00:00+09:00",
         "inLanguage": "ja",
-        "mainEntityOfPage": "https://croud-travel.com/winter-kumamoto-tsuetate-waita-onsen-steaming-higogyu-stay",
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-kumamoto-tsuetate-waita-onsen-steaming-higogyu-stay",
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル編集部",
-          "url": "https://croud-travel.com/"
+          "url": "https://croud-travel.pages.dev/"
         }
       },
       {

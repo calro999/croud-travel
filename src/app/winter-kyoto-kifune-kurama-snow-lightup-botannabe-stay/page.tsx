@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月京都】白銀の貴船神社・積雪日限定ライトアップと冬の京都奥座敷・極上天然猪肉ぼたん鍋＆京都牛を愉しむ静寂の名宿5選",
     description: "11月から1月、京都市街地の喧騒から離れた京都洛北の奥座敷「貴船・鞍馬」は、凛とした冬の澄んだ空気と幽玄の白銀世界に包まれます。夏の川床で名高い貴船ですが、冬こそが静寂に浸れる通好みの季節。降雪時のみ開催される貴船神社の「積雪日限定ライトアップ」では、朱色の春日灯籠が並ぶ石段参道に白雪が降り積もり、闇夜に浮かび上がる光景は息を呑むほどの幻想美を誇ります。この季節の主役は、雪景色を眺めながら座敷や囲炉裏でいただく冬の美食。京都丹波の山々で獲れた極上の「天然猪肉のぼたん鍋」をはじめ、とろける甘みの「京都牛」すき焼き、名物すっぽん鍋、汲み上げ湯葉、雪深い川の恵みを活かした川魚料理が贅沢に並びます。叡山電鉄「きらら」の車窓から望む冬景色と、清流・貴船川のせせらぎに癒やされる厳選料理旅館5宿を徹底ガイドします。",
-    url: 'https://croud-travel.com/winter-kyoto-kifune-kurama-snow-lightup-botannabe-stay',
+    url: 'https://croud-travel.pages.dev/winter-kyoto-kifune-kurama-snow-lightup-botannabe-stay',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -44,12 +44,12 @@ export default function KyotoKifuneKuramaPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-kyoto-kifune-kurama-snow-lightup-botannabe-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-kyoto-kifune-kurama-snow-lightup-botannabe-stay#article",
         "isPartOf": {
           "@type": "WebSite",
-          "@id": "https://croud-travel.com/#website",
+          "@id": "https://croud-travel.pages.dev/#website",
           "name": "クラドトラベル",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "headline": "【11・12・1月京都】白銀の貴船神社・積雪日限定ライトアップと冬の京都奥座敷・極上天然猪肉ぼたん鍋＆京都牛を愉しむ静寂の名宿5選",
         "description": "11月から1月、京都市街地の喧騒から離れた京都洛北の奥座敷「貴船・鞍馬」は、凛とした冬の澄んだ空気と幽玄の白銀世界に包まれます。夏の川床で名高い貴船ですが、冬こそが静寂に浸れる通好みの季節。降雪時のみ開催される貴船神社の「積雪日限定ライトアップ」では、朱色の春日灯籠が並ぶ石段参道に白雪が降り積もり、闇夜に浮かび上がる光景は息を呑むほどの幻想美を誇ります。この季節の主役は、雪景色を眺めながら座敷や囲炉裏でいただく冬の美食。京都丹波の山々で獲れた極上の「天然猪肉のぼたん鍋」をはじめ、とろける甘みの「京都牛」すき焼き、名物すっぽん鍋、汲み上げ湯葉、雪深い川の恵みを活かした川魚料理が贅沢に並びます。叡山電鉄「きらら」の車窓から望む冬景色と、清流・貴船川のせせらぎに癒やされる厳選料理旅館5宿を徹底ガイドします。",
@@ -63,41 +63,41 @@ export default function KyotoKifuneKuramaPage() {
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル",
-          "url": "https://croud-travel.com",
+          "url": "https://croud-travel.pages.dev",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
-        "mainEntityOfPage": "https://croud-travel.com/winter-kyoto-kifune-kurama-snow-lightup-botannabe-stay"
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-kyoto-kifune-kurama-snow-lightup-botannabe-stay"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://croud-travel.com/winter-kyoto-kifune-kurama-snow-lightup-botannabe-stay#breadcrumb",
+        "@id": "https://croud-travel.pages.dev/winter-kyoto-kifune-kurama-snow-lightup-botannabe-stay#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com"
+            "item": "https://croud-travel.pages.dev"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "京都・貴船鞍馬の冬ライトアップとぼたん鍋特集",
-            "item": "https://croud-travel.com/winter-kyoto-kifune-kurama-snow-lightup-botannabe-stay"
+            "item": "https://croud-travel.pages.dev/winter-kyoto-kifune-kurama-snow-lightup-botannabe-stay"
           }
         ]
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-kyoto-kifune-kurama-snow-lightup-botannabe-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-kyoto-kifune-kurama-snow-lightup-botannabe-stay#faq",
         "mainEntity": [{"@type":"Question","name":"貴船神社の「積雪日限定ライトアップ」とは何ですか？いつ開催されますか？","acceptedAnswer":{"@type":"Answer","text":"貴船神社の「積雪日限定ライトアップ」は、例年1月〜2月の積雪日（適度な積雪があった日）にのみ特別開催される非常に希少で幻想的なイベントです。開催の可否は当日の午後3時に貴船神社の公式SNSやホームページで発表されます。夕暮れから20時頃まで、本宮参道の石段両脇に立ち並ぶ朱色の「春日灯籠」と境内の社殿に明かりが灯され、純白の雪と鮮やかな朱色、揺らめく灯火が織りなす光景は「日本一美しい冬景色」とも称されます。貴船の料理旅館に宿泊していれば、混雑や交通機関の時間を気にせず、宿から徒歩でゆっくりとこの奇跡の絶景を鑑賞できます。"}},{"@type":"Question","name":"冬（11月〜1月）の貴船・鞍馬へのアクセス方法は？雪道運転は必要ですか？","acceptedAnswer":{"@type":"Answer","text":"貴船・鞍馬へのアクセスは、公共交通機関（電車・バス）の利用が最も安全でおすすめです。京都市営地下鉄・京阪電車「出町柳駅」から「叡山電鉄（えいでん）」に乗車し、「貴船口駅」まで約30分。展望列車「きらら」に乗れば、大きな窓から洛北の雪景色を満喫できます。貴船口駅からは各料理旅館の無料送迎車を利用するか、京都バスで約5分で貴船温泉街へ到着します。車で訪れる場合、貴船へ続く府道361号線は道幅が狭く、冬期は路面凍結（アイスバーン）や積雪が多発します。ノーマルタイヤでの走行は極めて危険なため、必ずスタッドレスタイヤを装着し、運転に自信のない方は公共交通機関をご利用ください。"}},{"@type":"Question","name":"冬の貴船・鞍馬の名物グルメ「ぼたん鍋」の特徴と美味しさの秘密は？","acceptedAnswer":{"@type":"Answer","text":"貴船の冬を代表する味覚「ぼたん鍋」は、京都・丹波の山々で獲れた野生の天然猪肉を、特製の合わせ味噌出汁で煮込む伝統の鍋料理です。冬のイノシシは木の実をたっぷりと蓄えて越冬するため、白く美しい上質な脂が乗っています。猪肉は煮込めば煮込むほど柔らかくなり、脂身は甘くサラリとしていて全く脂っこくありません。九条ネギ、丹波しめじ、聖護院かぶら、京豆腐など、冬の京都特有の甘みたっぷりの京野菜と一緒に煮込むことで、出汁に芳醇な旨味が溶け出し、最後の一滴まで美味しくいただけます。"}},{"@type":"Question","name":"冬の貴船・鞍馬観光に必要な服装や防寒対策、持ち物は？","acceptedAnswer":{"@type":"Answer","text":"京都洛北の貴船・鞍馬エリアは、京都市街地（京都駅や四条河原町周辺）よりも気温が3℃〜5℃低く、真冬の夜間や早朝は氷点下に達します。万全の防寒対策が必要です。厚手のダウンコートや防風ジャケット、機能性発熱インナー、マフラー、手袋、ニット帽を着用してください。また、貴船神社の参道石段や鞍馬寺の山道は雪や氷で大変滑りやすくなるため、ヒールや革靴は避け、滑り止めの溝がしっかりついたスノーブーツや防水トレッキングシューズが必須です。携帯カイロを持参すると夜の散策時も快適に過ごせます。"}},{"@type":"Question","name":"冬の「鞍馬寺」の見どころと貴船からのアクセスはどうなっていますか？","acceptedAnswer":{"@type":"Answer","text":"天狗伝説や源義経（牛若丸）修行の地として名高い「鞍馬寺」。冬の白銀に包まれた本殿金堂や、仁王門、雪の杉木立は厳かな霊気を感じさせます。叡山電鉄「鞍馬駅」前には巨大な天狗のモニュメントがあり、雪帽子をかぶった天狗の姿は冬の記念撮影スポットとして人気です。鞍馬寺から貴船神社へは「木の根道」を通る奥の院山越えルート（徒歩約1時間半）がありますが、冬期は積雪や凍結で通行止めや足元が危険になることがあります。冬の間は、鞍馬駅から叡山電鉄で一駅の貴船口駅へ移動し、バスまたは宿の送迎を利用して貴船へ向かうのが安全で確実です。"}}]
       }
     ]

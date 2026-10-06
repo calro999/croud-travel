@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月秋田】陸奥の小京都・角館武家屋敷の雪景色＆冬の田沢湖！本場比内地鶏きりたんぽ鍋と名湯に寛ぐ名宿5選",
     description: "冬の秋田・角館と田沢湖は、黒板塀が続く武家屋敷通りに純白の粉雪が降り積もり、日本一の深さを誇る田沢湖が神秘的な瑠璃色を湛える極上の雪国世界。11月中旬の初雪から1月の深雪期まで、小京都の静謐な佇まい、冬の田沢湖たつこ像、秋田が誇る日本三大美味鶏「比内地鶏」の出汁が染み渡る本場きりたんぽ鍋、ツルツルとした喉越しの稲庭うどん。田沢湖高原の白濁の湯や名湯に癒やされる厳選名宿5選を詳しくご案内します。",
-    url: 'https://croud-travel.com/winter-akita-kakunodate-bukeyashiki-snow-kiritanpo-hinaijidori-stay',
+    url: 'https://croud-travel.pages.dev/winter-akita-kakunodate-bukeyashiki-snow-kiritanpo-hinaijidori-stay',
     type: 'article',
     images: [{ url: 'https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&q=630', width: 1200, height: 630, alt: '角館武家屋敷雪景色と田沢湖' }]
   },
@@ -155,9 +155,9 @@ export default function AkitaKakunodatePage() {
       {
         '@type': 'BreadcrumbList',
         'itemListElement': [
-          { '@type': 'ListItem', 'position': 1, 'name': 'ホーム', 'item': 'https://croud-travel.com' },
-          { '@type': 'ListItem', 'position': 2, 'name': '特集一覧', 'item': 'https://croud-travel.com/features' },
-          { '@type': 'ListItem', 'position': 3, 'name': '角館武家屋敷雪景色と比内地鶏きりたんぽ鍋名宿', 'item': 'https://croud-travel.com/winter-akita-kakunodate-bukeyashiki-snow-kiritanpo-hinaijidori-stay' }
+          { '@type': 'ListItem', 'position': 1, 'name': 'ホーム', 'item': 'https://croud-travel.pages.dev' },
+          { '@type': 'ListItem', 'position': 2, 'name': '特集一覧', 'item': 'https://croud-travel.pages.dev/features' },
+          { '@type': 'ListItem', 'position': 3, 'name': '角館武家屋敷雪景色と比内地鶏きりたんぽ鍋名宿', 'item': 'https://croud-travel.pages.dev/winter-akita-kakunodate-bukeyashiki-snow-kiritanpo-hinaijidori-stay' }
         ]
       },
       {

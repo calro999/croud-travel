@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月伊豆高原グランイルミ】日本一の体験型イルミと伊東温泉・金目鯛姿煮宿5選",
     description: "11月中旬から本格シーズンを迎える全国ランキング第1位の体験型ナイトエンターテインメント「伊豆高原グランイルミ」！光の地上絵やジップラインを満喫した後は、伊東・伊豆高原の美肌温泉露天風呂と、冬に脂が最高に乗る名物・金目鯛の姿煮に舌鼓を打つ極上リゾートステイ。",
-    url: 'https://croud-travel.com/winter-shizuoka-izukogen-granillumi-ito-onsen-stay',
+    url: 'https://croud-travel.pages.dev/winter-shizuoka-izukogen-granillumi-ito-onsen-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -44,7 +44,7 @@ export default function IzukogenWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-shizuoka-izukogen-granillumi-ito-onsen-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-shizuoka-izukogen-granillumi-ito-onsen-stay#article",
         "headline": "【11・12月伊豆高原グランイルミ】日本一の体験型イルミと伊東温泉・金目鯛姿煮宿5選",
         "description": "11月中旬から本格シーズンを迎える全国ランキング第1位の体験型ナイトエンターテインメント「伊豆高原グランイルミ」！光の地上絵やジップラインを満喫した後は、伊東・伊豆高原の美肌温泉露天風呂と、冬に脂が最高に乗る名物・金目鯛の姿煮に舌鼓を打つ極上リゾートステイ。",
         "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
@@ -53,24 +53,24 @@ export default function IzukogenWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-shizuoka-izukogen-granillumi-ito-onsen-stay"
+          "@id": "https://croud-travel.pages.dev/winter-shizuoka-izukogen-granillumi-ito-onsen-stay"
         }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-shizuoka-izukogen-granillumi-ito-onsen-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-shizuoka-izukogen-granillumi-ito-onsen-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -108,7 +108,7 @@ export default function IzukogenWinterPage() {
       },
       {
         "@type": "ItemList",
-        "@id": "https://croud-travel.com/winter-shizuoka-izukogen-granillumi-ito-onsen-stay#hotels",
+        "@id": "https://croud-travel.pages.dev/winter-shizuoka-izukogen-granillumi-ito-onsen-stay#hotels",
         "itemListElement": [
           {
             "@type": "ListItem",

@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月福島・裏磐梯温泉郷の五色沼初雪ウォークと磐梯山雪景色】極上福島牛ステーキ＆会津地鶏鍋・桧原湖ワカサギを味わう高原リゾート名宿5選",
     description: "11月から12月にかけて、標高約800mの磐梯高原に位置する福島県・裏磐梯温泉郷は、青やエメラルドグリーンに輝く神秘の湖沼群「五色沼」に純白の初雪が降り積もり、冬の幻想美が幕を開けます。堂々たる雪化粧の磐梯山を望む絶景スノーウォーク、冬の桧原湖名物「ワカサギ釣り（暖房完備ドーム船）」の開幕、鉄分や塩分を豊富に含み体の芯から温まる源泉濁り湯露天風呂。夕食にはサシと赤身のバランスが絶妙な「福島牛ステーキ」や、旨味濃厚な会津地鶏鍋、会津伝統の雪下野菜、冬限定の搾りたて地酒を味わう高原の厳選リゾート・温泉名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-fukushima-urabandai-onsen-goshikinuma-snow-fukushimagyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-fukushima-urabandai-onsen-goshikinuma-snow-fukushimagyu-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -166,28 +166,28 @@ export default function WinterFukushimaUrabandaiPage() {
     '@graph': [
       {
         '@type': 'Article',
-        '@id': 'https://croud-travel.com/winter-fukushima-urabandai-onsen-goshikinuma-snow-fukushimagyu-stay#article',
+        '@id': 'https://croud-travel.pages.dev/winter-fukushima-urabandai-onsen-goshikinuma-snow-fukushimagyu-stay#article',
         'isPartOf': {
           '@type': 'WebSite',
-          '@id': 'https://croud-travel.com/#website',
+          '@id': 'https://croud-travel.pages.dev/#website',
           'name': 'クラドトラベル',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         },
         'headline': "【11・12月福島・裏磐梯温泉郷の五色沼初雪ウォークと磐梯山雪景色】極上福島牛ステーキ＆会津地鶏鍋・桧原湖ワカサギを味わう高原リゾート名宿5選",
         'description': "11月から12月にかけて、標高約800mの磐梯高原に位置する福島県・裏磐梯温泉郷は、青やエメラルドグリーンに輝く神秘の湖沼群「五色沼」に純白の初雪が降り積もり、冬の幻想美が幕を開けます。堂々たる雪化粧の磐梯山を望む絶景スノーウォーク、冬の桧原湖名物「ワカサギ釣り（暖房完備ドーム船）」の開幕、鉄分や塩分を豊富に含み体の芯から温まる源泉濁り湯露天風呂。夕食にはサシと赤身のバランスが絶妙な「福島牛ステーキ」や、旨味濃厚な会津地鶏鍋、会津伝統の雪下野菜、冬限定の搾りたて地酒を味わう高原の厳選リゾート・温泉名宿5選を徹底解説します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.com/winter-fukushima-urabandai-onsen-goshikinuma-snow-fukushimagyu-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-fukushima-urabandai-onsen-goshikinuma-snow-fukushimagyu-stay',
         'datePublished': '2026-09-28T00:00:00+09:00',
         'dateModified': '2026-09-28T00:00:00+09:00',
         'publisher': {
           '@type': 'Organization',
           'name': 'クラドトラベル編集部',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         }
       },
       {
         '@type': 'TouristDestination',
-        '@id': 'https://croud-travel.com/winter-fukushima-urabandai-onsen-goshikinuma-snow-fukushimagyu-stay#destination',
+        '@id': 'https://croud-travel.pages.dev/winter-fukushima-urabandai-onsen-goshikinuma-snow-fukushimagyu-stay#destination',
         'name': '福島・裏磐梯温泉郷',
         'description': '磐梯朝日国立公園に抱かれた標高800mの高原リゾート。初雪の五色沼スノーウォークと桧原湖ワカサギ釣り、福島牛ステーキが魅力。',
         'geo': {
@@ -198,7 +198,7 @@ export default function WinterFukushimaUrabandaiPage() {
       },
       {
         '@type': 'FAQPage',
-        '@id': 'https://croud-travel.com/winter-fukushima-urabandai-onsen-goshikinuma-snow-fukushimagyu-stay#faq',
+        '@id': 'https://croud-travel.pages.dev/winter-fukushima-urabandai-onsen-goshikinuma-snow-fukushimagyu-stay#faq',
         'mainEntity': faqList.map((f) => ({
           '@type': 'Question',
           'name': f.q,
@@ -210,7 +210,7 @@ export default function WinterFukushimaUrabandaiPage() {
       },
       {
         '@type': 'ItemList',
-        '@id': 'https://croud-travel.com/winter-fukushima-urabandai-onsen-goshikinuma-snow-fukushimagyu-stay#hotellist',
+        '@id': 'https://croud-travel.pages.dev/winter-fukushima-urabandai-onsen-goshikinuma-snow-fukushimagyu-stay#hotellist',
         'name': '福島・裏磐梯温泉郷のおすすめ名宿5選',
         'itemListElement': hotels.map((h, idx) => ({
           '@type': 'ListItem',

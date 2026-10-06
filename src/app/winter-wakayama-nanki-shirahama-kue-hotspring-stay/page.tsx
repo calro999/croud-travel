@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月南紀白浜温泉の太平洋絶景と名湯】白良浜夕陽と日本三古湯・幻の天然本クエ鍋＆熊野牛の宿5選",
     description: "万葉集や日本書紀にも記された日本三古湯の一つ、和歌山県・南紀白浜温泉。11月から12月にかけて脂が乗り切る幻の超高級魚「紀州本クエ鍋」、太平洋を茜色に染める雄大な冬の夕陽、波打ち際の絶景露天風呂、そして特選熊野牛を味わい尽くす冬の名宿ガイド。",
-    url: 'https://croud-travel.com/winter-wakayama-nanki-shirahama-kue-hotspring-stay',
+    url: 'https://croud-travel.pages.dev/winter-wakayama-nanki-shirahama-kue-hotspring-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -63,7 +63,7 @@ export default function ShirahamaWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-wakayama-nanki-shirahama-kue-hotspring-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-wakayama-nanki-shirahama-kue-hotspring-stay#article",
         "headline": "【11・12月南紀白浜温泉の太平洋絶景と名湯】白良浜夕陽と日本三古湯・幻の天然本クエ鍋＆熊野牛の宿5選",
         "description": "万葉集や日本書紀にも記された日本三古湯の一つ、和歌山県・南紀白浜温泉。11月から12月にかけて脂が乗り切る幻の超高級魚「紀州本クエ鍋」、太平洋を茜色に染める雄大な冬の夕陽、波打ち際の絶景露天風呂、そして特選熊野牛を味わい尽くす冬の名宿ガイド。",
         "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80",
@@ -72,24 +72,24 @@ export default function ShirahamaWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-wakayama-nanki-shirahama-kue-hotspring-stay"
+          "@id": "https://croud-travel.pages.dev/winter-wakayama-nanki-shirahama-kue-hotspring-stay"
         }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-wakayama-nanki-shirahama-kue-hotspring-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-wakayama-nanki-shirahama-kue-hotspring-stay#faq",
         "mainEntity": faqList.map(f => ({
           "@type": "Question",
           "name": f.q,
@@ -101,7 +101,7 @@ export default function ShirahamaWinterPage() {
       },
       {
         "@type": "ItemList",
-        "@id": "https://croud-travel.com/winter-wakayama-nanki-shirahama-kue-hotspring-stay#hotels",
+        "@id": "https://croud-travel.pages.dev/winter-wakayama-nanki-shirahama-kue-hotspring-stay#hotels",
         "itemListElement": [
           {
             "@type": "ListItem",
@@ -625,32 +625,7 @@ export default function ShirahamaWinterPage() {
         </section>
 
         {/* FAQ Section */}
-        <section id="faq" className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-stone-200/80 space-y-6">
-          <div className="flex items-center gap-3 pb-3 border-b border-stone-100">
-            <div className="p-2 rounded-xl bg-cyan-50 text-cyan-800">
-              <HelpCircle className="w-5 h-5" />
-            </div>
-            <div>
-              <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Traveler's FAQ</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                よくある質問（FAQ）と冬の旅のアドバイス
-              </h2>
-            </div>
-          </div>
-          <div className="space-y-4">
-            {faqList.map((faq, idx) => (
-              <div key={idx} className="p-5 rounded-2xl bg-stone-50 border border-stone-200/70 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-cyan-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
-                <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
-                  {faq.a}
-                </p>
-              </div>
-            ))}
-          </div>
-        </section>
+        
 
         {/* Internal Links / Related Guides */}
         <section className="bg-cyan-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">

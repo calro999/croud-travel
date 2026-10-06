@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月山形】庄内名物「寒鱈汁（どんがら汁）」と極上白子・寒ブリ・出羽三山雪景色＆名湯あつみ・湯野浜温泉を巡る厳選宿5選",
     description: "11月から1月、山形県庄内地方（鶴岡・酒田・温海・湯野浜）は、荒波の日本海が育む冬の風物詩「寒鱈（かんだら）汁」の熱気と、白銀に包まれる出羽三山や鳥海山の荘厳な雪景色に包まれます。丸ごと一匹のタラの身、濃厚な白子（あぶらこ）、肝（あぶら）を豪快に煮込んだ熱々のどんがら汁、庄内浜の冬の王者・寒ブリや紅ズワイガニ、とろける庄内牛。1000年以上の歴史を誇るあつみ温泉や日本海一望の湯野浜温泉の雪見露天風呂に浸かり、ユネスコ食文化創造都市・鶴岡の至福の郷土美食に酔いしれる名宿5選を徹底ガイドします。",
-    url: 'https://croud-travel.com/winter-yamagata-shonai-kandara-atsumi-yunohama-stay',
+    url: 'https://croud-travel.pages.dev/winter-yamagata-shonai-kandara-atsumi-yunohama-stay',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -50,19 +50,19 @@ export default function YamagataShonaiKandaraWinterPage() {
     author: {
       '@type': 'Organization',
       name: 'クラドトラベル編集部',
-      url: 'https://croud-travel.com'
+      url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
       name: 'クラドトラベル',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://croud-travel.com/logo.png'
+        url: 'https://croud-travel.pages.dev/logo.png'
       }
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.com/winter-yamagata-shonai-kandara-atsumi-yunohama-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-yamagata-shonai-kandara-atsumi-yunohama-stay'
     }
   };
 
@@ -74,19 +74,19 @@ export default function YamagataShonaiKandaraWinterPage() {
         '@type': 'ListItem',
         position: 1,
         name: 'ホーム',
-        item: 'https://croud-travel.com'
+        item: 'https://croud-travel.pages.dev'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.com/features'
+        item: 'https://croud-travel.pages.dev/features'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '庄内・寒鱈汁と出羽三山雪景色＆名湯あつみ・湯野浜温泉',
-        item: 'https://croud-travel.com/winter-yamagata-shonai-kandara-atsumi-yunohama-stay'
+        item: 'https://croud-travel.pages.dev/winter-yamagata-shonai-kandara-atsumi-yunohama-stay'
       }
     ]
   };

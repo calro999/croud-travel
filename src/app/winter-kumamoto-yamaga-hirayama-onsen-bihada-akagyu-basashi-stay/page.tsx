@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月山鹿温泉＆平山温泉】八千代座の小江戸情緒と極上とろとろ美肌ぬる湯・熊本あか牛溶岩焼き＆極上霜降り馬刺しを堪能する名宿5選",
     description: "11月中旬から12月の初冬を迎えた火の国・熊本の北部に位置する「山鹿温泉」と、その山懐に抱かれた秘湯「平山温泉」。菊池川の水面から幻想的な川霧が立ち込めるこの季節、豊前街道沿いの白壁土蔵や国指定重要文化財の芝居小屋「八千代座」には凛とした初冬の静寂が広がり、旅情をそそる小江戸情緒に包まれます。平安時代の古書にも記された歴史を持つ山鹿温泉は、肌に吸い付くようにまろやかなアルカリ性単純温泉。そして車で約15分の平山温泉は、全国屈指のpH9.8を超える強アルカリ性硫黄泉で、まるで高級美容液に浸かっているかのようなトロトロの「ぬる湯」が自噴する奇跡の美肌湯治場です。湯上がりの肌は驚くほど滑らかになり、体の芯からポカポカとしたぬくもりが長く続きます。夕食の膳を彩るのは、初冬に旨味を凝縮させた熊本のブランド肉・食材の饗宴。赤身の力強い旨味と上質なサシが溶け合う「熊本あか牛」の溶岩焼きやすき焼き、本場ならではの鮮度を誇る極上霜降り「馬刺し」の食べ比べ、そして冬の根菜と小麦団子を煮込んだ温かい郷土料理「だご汁」。温泉街の元湯「さくら湯」の総檜風呂巡りとともに、心身を再生させる初冬の贅沢な滞在が叶う厳選宿5選を詳しく紹介します。",
-    url: 'https://croud-travel.com/winter-kumamoto-yamaga-hirayama-onsen-bihada-akagyu-basashi-stay',
+    url: 'https://croud-travel.pages.dev/winter-kumamoto-yamaga-hirayama-onsen-bihada-akagyu-basashi-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -44,23 +44,23 @@ export default function KumamotoYamagaHirayamaWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-kumamoto-yamaga-hirayama-onsen-bihada-akagyu-basashi-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-kumamoto-yamaga-hirayama-onsen-bihada-akagyu-basashi-stay#article",
         "isPartOf": {
           "@type": "WebSite",
-          "@id": "https://croud-travel.com/#website",
+          "@id": "https://croud-travel.pages.dev/#website",
           "name": "クラドトラベル",
-          "url": "https://croud-travel.com/"
+          "url": "https://croud-travel.pages.dev/"
         },
         "headline": "【11・12月山鹿温泉＆平山温泉】八千代座の小江戸情緒と極上とろとろ美肌ぬる湯・熊本あか牛溶岩焼き＆極上霜降り馬刺しを堪能する名宿5選",
         "description": "11月中旬から12月の初冬を迎えた火の国・熊本の北部に位置する「山鹿温泉」と、その山懐に抱かれた秘湯「平山温泉」。菊池川の水面から幻想的な川霧が立ち込めるこの季節、豊前街道沿いの白壁土蔵や国指定重要文化財の芝居小屋「八千代座」には凛とした初冬の静寂が広がり、旅情をそそる小江戸情緒に包まれます。平安時代の古書にも記された歴史を持つ山鹿温泉は、肌に吸い付くようにまろやかなアルカリ性単純温泉。そして車で約15分の平山温泉は、全国屈指のpH9.8を超える強アルカリ性硫黄泉で、まるで高級美容液に浸かっているかのようなトロトロの「ぬる湯」が自噴する奇跡の美肌湯治場です。湯上がりの肌は驚くほど滑らかになり、体の芯からポカポカとしたぬくもりが長く続きます。夕食の膳を彩るのは、初冬に旨味を凝縮させた熊本のブランド肉・食材の饗宴。赤身の力強い旨味と上質なサシが溶け合う「熊本あか牛」の溶岩焼きやすき焼き、本場ならではの鮮度を誇る極上霜降り「馬刺し」の食べ比べ、そして冬の根菜と小麦団子を煮込んだ温かい郷土料理「だご汁」。温泉街の元湯「さくら湯」の総檜風呂巡りとともに、心身を再生させる初冬の贅沢な滞在が叶う厳選宿5選を詳しく紹介します。",
         "datePublished": "2026-09-30T00:00:00+09:00",
         "dateModified": "2026-09-30T00:00:00+09:00",
         "inLanguage": "ja",
-        "mainEntityOfPage": "https://croud-travel.com/winter-kumamoto-yamaga-hirayama-onsen-bihada-akagyu-basashi-stay",
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-kumamoto-yamaga-hirayama-onsen-bihada-akagyu-basashi-stay",
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル編集部",
-          "url": "https://croud-travel.com/"
+          "url": "https://croud-travel.pages.dev/"
         }
       },
       {

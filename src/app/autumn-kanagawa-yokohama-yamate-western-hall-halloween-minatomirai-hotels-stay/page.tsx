@@ -9,12 +9,12 @@ export const metadata: Metadata = {
   description: "横浜開港の歴史息づく山手の丘に佇む異人館街「山手西洋館」。10月下旬には「エリスマン邸」「ベーリック・ホール」「外交官の家」など国指定重要文化財を含む西洋館7館が、フラワーアーティストやコーディネーターによる洗練された本格ハロウィーン装飾で彩られます。スタンプラリーや仮装パレードが賑わう「山手ハロウィーンウォーク」、港の見える丘公園の秋バラ、元町ショッピングストリートのカフェ巡り。夜はみなとみらいの煌めく大観覧車とベイブリッジの夜景を望み、歴史あるクラシックホテルやハイクオリティタワーホテル厳選5選を徹底特集。",
   keywords: '山手西洋館 ハロウィン, 横浜 ハロウィンウォーク, 横浜ベイホテル東急, ホテルニューグランド, ヨコハマグランドインターコンチネンタル, 三井ガーデンホテル横浜みなとみらいプレミア, 港の見える丘公園 秋バラ, 横浜 アフタヌーンティー ハロウィン',
   alternates: {
-    canonical: 'https://croud-travel.com/autumn-kanagawa-yokohama-yamate-western-hall-halloween-minatomirai-hotels-stay'
+    canonical: 'https://croud-travel.pages.dev/autumn-kanagawa-yokohama-yamate-western-hall-halloween-minatomirai-hotels-stay'
   },
   openGraph: {
     title: "【秋の横浜山手西洋館ハロウィーン】歴史ある洋館7館の本格装飾と山手ハロウィーンウォーク！みなとみらい夜景・絶品アフタヌーンティー＆クラシック・ベイサイド厳選名宿5選",
     description: "横浜開港の歴史息づく山手の丘に佇む異人館街「山手西洋館」。10月下旬には「エリスマン邸」「ベーリック・ホール」「外交官の家」など国指定重要文化財を含む西洋館7館が、フラワーアーティストやコーディネーターによる洗練された本格ハロウィーン装飾で彩られます。スタンプラリーや仮装パレードが賑わう「山手ハロウィーンウォーク」、港の見える丘公園の秋バラ、元町ショッピングストリートのカフェ巡り。夜はみなとみらいの煌めく大観覧車とベイブリッジの夜景を望み、歴史あるクラシックホテルやハイクオリティタワーホテル厳選5選を徹底特集。",
-    url: 'https://croud-travel.com/autumn-kanagawa-yokohama-yamate-western-hall-halloween-minatomirai-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-kanagawa-yokohama-yamate-western-hall-halloween-minatomirai-hotels-stay',
     siteName: 'クラドトラベル',
     type: 'article',
     locale: 'ja_JP',
@@ -51,12 +51,12 @@ export default function YokohamaHalloweenFeaturePage() {
       "name": "クラドトラベル",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://croud-travel.com/logo.png"
+        "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.com/autumn-kanagawa-yokohama-yamate-western-hall-halloween-minatomirai-hotels-stay"
+      "@id": "https://croud-travel.pages.dev/autumn-kanagawa-yokohama-yamate-western-hall-halloween-minatomirai-hotels-stay"
     }
   };
 
@@ -68,19 +68,19 @@ export default function YokohamaHalloweenFeaturePage() {
         "@type": "ListItem",
         "position": 1,
         "name": "ホーム",
-        "item": "https://croud-travel.com/"
+        "item": "https://croud-travel.pages.dev/"
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "特集一覧",
-        "item": "https://croud-travel.com/features"
+        "item": "https://croud-travel.pages.dev/features"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "横浜山手西洋館ハロウィーン＆みなとみらい特集",
-        "item": "https://croud-travel.com/autumn-kanagawa-yokohama-yamate-western-hall-halloween-minatomirai-hotels-stay"
+        "item": "https://croud-travel.pages.dev/autumn-kanagawa-yokohama-yamate-western-hall-halloween-minatomirai-hotels-stay"
       }
     ]
   };

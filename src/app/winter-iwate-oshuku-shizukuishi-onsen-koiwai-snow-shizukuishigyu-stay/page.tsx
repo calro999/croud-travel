@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月岩手・鶯宿温泉＆雫石】開湯450年の名湯と小岩井農場雪景色・極上雫石牛＆盛岡三大麺を味わう名宿5選",
     description: "11月から12月にかけて、秀峰・岩手山の雄大な裾野に広がる岩手県雫石町（しずくいしちょう）は、澄み切った初冬の空と白銀の雪化粧に彩られます。天正年間に一羽の傷ついた鶯（うぐいす）が川の湧水で傷を癒やしていたことから名付けられた「鶯宿温泉（おうしゅくおんせん）」は、開湯450余年の歴史を誇る名湯。毎分3,000リットル以上という圧倒的な湯量を誇り、肌に吸い付くようなアルカリ性単純温泉や単純硫黄泉が雪景色の中に湧き上がります。11月下旬から12月には、近隣の小岩井農場で東北最大級の光の祭典「銀河農場の夜（イルミネーション）」が開催され、白銀の大地ときらめく光の幻想的な競演が楽しめます。夕食には甘みと旨味が凝縮した「雫石牛」や「前沢牛」のステーキ、三陸直送の海の幸、盛岡冷麺やじゃじゃ麺などのご当地麺。初冬の岩手・雫石で極上の雪見風呂と美食に満たされる厳選名宿5選を詳しく紹介します。",
-    url: 'https://croud-travel.com/winter-iwate-oshuku-shizukuishi-onsen-koiwai-snow-shizukuishigyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-iwate-oshuku-shizukuishi-onsen-koiwai-snow-shizukuishigyu-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -166,28 +166,28 @@ export default function WinterIwateOshukuPage() {
     '@graph': [
       {
         '@type': 'Article',
-        '@id': 'https://croud-travel.com/winter-iwate-oshuku-shizukuishi-onsen-koiwai-snow-shizukuishigyu-stay#article',
+        '@id': 'https://croud-travel.pages.dev/winter-iwate-oshuku-shizukuishi-onsen-koiwai-snow-shizukuishigyu-stay#article',
         'isPartOf': {
           '@type': 'WebSite',
-          '@id': 'https://croud-travel.com/#website',
+          '@id': 'https://croud-travel.pages.dev/#website',
           'name': 'クラドトラベル',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         },
         'headline': "【11・12月岩手・鶯宿温泉＆雫石】開湯450年の名湯と小岩井農場雪景色・極上雫石牛＆盛岡三大麺を味わう名宿5選",
         'description': "11月から12月にかけて、秀峰・岩手山の雄大な裾野に広がる岩手県雫石町（しずくいしちょう）は、澄み切った初冬の空と白銀の雪化粧に彩られます。天正年間に一羽の傷ついた鶯（うぐいす）が川の湧水で傷を癒やしていたことから名付けられた「鶯宿温泉（おうしゅくおんせん）」は、開湯450余年の歴史を誇る名湯。毎分3,000リットル以上という圧倒的な湯量を誇り、肌に吸い付くようなアルカリ性単純温泉や単純硫黄泉が雪景色の中に湧き上がります。11月下旬から12月には、近隣の小岩井農場で東北最大級の光の祭典「銀河農場の夜（イルミネーション）」が開催され、白銀の大地ときらめく光の幻想的な競演が楽しめます。夕食には甘みと旨味が凝縮した「雫石牛」や「前沢牛」のステーキ、三陸直送の海の幸、盛岡冷麺やじゃじゃ麺などのご当地麺。初冬の岩手・雫石で極上の雪見風呂と美食に満たされる厳選名宿5選を詳しく紹介します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.com/winter-iwate-oshuku-shizukuishi-onsen-koiwai-snow-shizukuishigyu-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-iwate-oshuku-shizukuishi-onsen-koiwai-snow-shizukuishigyu-stay',
         'datePublished': '2026-09-29T00:00:00+09:00',
         'dateModified': '2026-09-29T00:00:00+09:00',
         'publisher': {
           '@type': 'Organization',
           'name': 'クラドトラベル編集部',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         }
       },
       {
         '@type': 'TouristDestination',
-        '@id': 'https://croud-travel.com/winter-iwate-oshuku-shizukuishi-onsen-koiwai-snow-shizukuishigyu-stay#destination',
+        '@id': 'https://croud-travel.pages.dev/winter-iwate-oshuku-shizukuishi-onsen-koiwai-snow-shizukuishigyu-stay#destination',
         'name': '岩手・鶯宿温泉＆雫石',
         'description': '岩手県岩手郡雫石町に位置する開湯450余年の名湯。岩手山の雄大な雪景色、小岩井農場イルミネーション、極上雫石牛と盛岡三大麺が魅力。',
         'geo': {
@@ -198,7 +198,7 @@ export default function WinterIwateOshukuPage() {
       },
       {
         '@type': 'FAQPage',
-        '@id': 'https://croud-travel.com/winter-iwate-oshuku-shizukuishi-onsen-koiwai-snow-shizukuishigyu-stay#faq',
+        '@id': 'https://croud-travel.pages.dev/winter-iwate-oshuku-shizukuishi-onsen-koiwai-snow-shizukuishigyu-stay#faq',
         'mainEntity': faqList.map((f) => ({
           '@type': 'Question',
           'name': f.q,
@@ -210,7 +210,7 @@ export default function WinterIwateOshukuPage() {
       },
       {
         '@type': 'ItemList',
-        '@id': 'https://croud-travel.com/winter-iwate-oshuku-shizukuishi-onsen-koiwai-snow-shizukuishigyu-stay#hotellist',
+        '@id': 'https://croud-travel.pages.dev/winter-iwate-oshuku-shizukuishi-onsen-koiwai-snow-shizukuishigyu-stay#hotellist',
         'name': '岩手・鶯宿温泉＆雫石のおすすめ名宿5選',
         'itemListElement': hotels.map((h, idx) => ({
           '@type': 'ListItem',

@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月三島沼津】冬の三嶋大社新春開運初詣＆富士山スカイウォーク絶景！駿河湾深海魚・沼津港寒魚と名湯に寛ぐ厳選宿5選",
     description: "冬の三島・沼津は、大気が一年で最も澄み渡り、純白の冠雪を抱く富士山と紺碧の駿河湾が圧巻のコントラストを描く至高のシーズン。11月下旬の富士山雪化粧から1月の伊豆国一宮・三嶋大社新春初詣まで、源頼朝旗揚げの勝運パワーが満ち溢れます。日本最長吊橋・三島スカイウォークからの富士パノラマ、沼津港で冬に本番を迎える深海魚（本タカアシガニ・アカザエビ）や寒真鯛、箱根西麓三島野菜を堪能し、富士山展望風呂や中伊豆の名湯で温まる冬旅。楽天APIから最新取得した信頼の厳選宿5選を徹底特集します。",
-    url: 'https://croud-travel.com/winter-shizuoka-mishima-numazu-taisha-fuji-suruga-stay',
+    url: 'https://croud-travel.pages.dev/winter-shizuoka-mishima-numazu-taisha-fuji-suruga-stay',
     type: 'article',
     images: [{ url: 'https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&q=80' }]
   }
@@ -151,11 +151,11 @@ export default function ShizuokaMishimaPage() {
         "@type": "Article",
         "headline": "【11・12・1月三島沼津】冬の三嶋大社新春開運初詣＆富士山スカイウォーク絶景！駿河湾深海魚・沼津港寒魚と名湯に寛ぐ厳選宿5選",
         "description": "冬の三島・沼津は、大気が一年で最も澄み渡り、純白の冠雪を抱く富士山と紺碧の駿河湾が圧巻のコントラストを描く至高のシーズン。11月下旬の富士山雪化粧から1月の伊豆国一宮・三嶋大社新春初詣まで、源頼朝旗揚げの勝運パワーが満ち溢れます。日本最長吊橋・三島スカイウォークからの富士パノラマ、沼津港で冬に本番を迎える深海魚（本タカアシガニ・アカザエビ）や寒真鯛、箱根西麓三島野菜を堪能し、富士山展望風呂や中伊豆の名湯で温まる冬旅。楽天APIから最新取得した信頼の厳選宿5選を徹底特集します。",
-        "url": 'https://croud-travel.com/winter-shizuoka-mishima-numazu-taisha-fuji-suruga-stay',
+        "url": 'https://croud-travel.pages.dev/winter-shizuoka-mishima-numazu-taisha-fuji-suruga-stay',
         "publisher": {
           "@type": "Organization",
           "name": "週末ごほうび旅・厳選の宿ガイド",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         }
       },
       {
@@ -165,19 +165,19 @@ export default function ShizuokaMishimaPage() {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com"
+            "item": "https://croud-travel.pages.dev"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "冬の特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "冬の三島・沼津・三嶋大社初詣＆富士山絶景特集",
-            "item": 'https://croud-travel.com/winter-shizuoka-mishima-numazu-taisha-fuji-suruga-stay'
+            "item": 'https://croud-travel.pages.dev/winter-shizuoka-mishima-numazu-taisha-fuji-suruga-stay'
           }
         ]
       },

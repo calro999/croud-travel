@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月熊本】白銀の阿蘇五岳パノラマと冬の伝統「高森田楽」！美肌の南阿蘇温泉郷＆極上あか牛名宿5選",
     description: "世界最大級の阿蘇カルデラが白銀に染まる11〜1月の冬旅完全ガイド。澄み渡る冬空にそびえる阿蘇五岳（根子岳・高岳）の雄大な雪景色パノラマと、南阿蘇鉄道トロッコ列車や白川水源の静寂。囲炉裏を囲んで炭火でじっくり焼き上げる冬の郷土料理「高森田楽」の香ばしい味噌とやまめ、そして肉の旨味が凝縮した「阿蘇あか牛」のステーキ・すき焼き。絶景雪見露天と美肌温泉、満天の冬の星空を満喫できる南阿蘇・高森の厳選名宿5選を詳しくご紹介します。",
-    url: 'https://croud-travel.com/winter-kumamoto-minamiaso-takamori-snow-dengaku-akagyu-onsen-stay',
+    url: 'https://croud-travel.pages.dev/winter-kumamoto-minamiaso-takamori-snow-dengaku-akagyu-onsen-stay',
     type: 'article',
     images: [
       {
@@ -49,19 +49,19 @@ export default function KumamotoMinamiasoWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "旅クラウド編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "旅クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-kumamoto-minamiaso-takamori-snow-dengaku-akagyu-onsen-stay"
+          "@id": "https://croud-travel.pages.dev/winter-kumamoto-minamiaso-takamori-snow-dengaku-akagyu-onsen-stay"
         }
       },
       {
@@ -71,19 +71,19 @@ export default function KumamotoMinamiasoWinterPage() {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com"
+            "item": "https://croud-travel.pages.dev"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "冬の旅特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "熊本・南阿蘇＆高森・阿蘇あか牛名宿",
-            "item": "https://croud-travel.com/winter-kumamoto-minamiaso-takamori-snow-dengaku-akagyu-onsen-stay"
+            "item": "https://croud-travel.pages.dev/winter-kumamoto-minamiaso-takamori-snow-dengaku-akagyu-onsen-stay"
           }
         ]
       },

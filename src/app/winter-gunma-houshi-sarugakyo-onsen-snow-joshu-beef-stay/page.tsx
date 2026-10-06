@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月群馬・法師温泉＆猿ヶ京温泉】三国峠の秘湯雪景色・足元湧出「法師乃湯」と赤谷湖畔・極上面上州牛すき焼きを堪能する名宿5選",
     description: "11月中旬から初雪の知らせが届く群馬・新潟県境の三国峠。谷川連峰の裾野、ブナの原生林に抱かれた法師川のほとりに湧く法師温泉と、静謐な赤谷湖を取り囲む猿ヶ京温泉は、冬の気配とともに澄み切った静けさに包まれます。明治時代に建築された国登録有形文化財の湯屋「法師乃湯」では、敷き詰められた玉石の隙間から自然湧出する純度100%の硫酸塩泉が身体を芯から温め、川端康成や与謝野晶子ら文豪が愛した古き良き日本の湯治情情を今に伝えます。湖畔の猿ヶ京温泉では、赤谷湖の初冬の湖面を望む雪見露天風呂とともに、上州の大地が育んだ極上霜降り「上州牛」のすき焼きや陶板ステーキ、上州麦豚のしゃぶしゃぶ、湧水で作る手作り豆富懐石など、寒さを忘れさせる滋味あふれる郷土会席が旅人を迎えます。初冬の静寂と白銀の絶景を愉しむ厳選名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-gunma-houshi-sarugakyo-onsen-snow-joshu-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-gunma-houshi-sarugakyo-onsen-snow-joshu-beef-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -45,23 +45,23 @@ export default function GunmaHoushiSarugakyoPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-gunma-houshi-sarugakyo-onsen-snow-joshu-beef-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-gunma-houshi-sarugakyo-onsen-snow-joshu-beef-stay#article",
         "isPartOf": {
           "@type": "WebSite",
-          "@id": "https://croud-travel.com/#website",
+          "@id": "https://croud-travel.pages.dev/#website",
           "name": "クラドトラベル",
-          "url": "https://croud-travel.com/"
+          "url": "https://croud-travel.pages.dev/"
         },
         "headline": "【11・12月群馬・法師温泉＆猿ヶ京温泉】三国峠の秘湯雪景色・足元湧出「法師乃湯」と赤谷湖畔・極上面上州牛すき焼きを堪能する名宿5選",
         "description": "11月中旬から初雪の知らせが届く群馬・新潟県境の三国峠。谷川連峰の裾野、ブナの原生林に抱かれた法師川のほとりに湧く法師温泉と、静謐な赤谷湖を取り囲む猿ヶ京温泉は、冬の気配とともに澄み切った静けさに包まれます。明治時代に建築された国登録有形文化財の湯屋「法師乃湯」では、敷き詰められた玉石の隙間から自然湧出する純度100%の硫酸塩泉が身体を芯から温め、川端康成や与謝野晶子ら文豪が愛した古き良き日本の湯治情情を今に伝えます。湖畔の猿ヶ京温泉では、赤谷湖の初冬の湖面を望む雪見露天風呂とともに、上州の大地が育んだ極上霜降り「上州牛」のすき焼きや陶板ステーキ、上州麦豚のしゃぶしゃぶ、湧水で作る手作り豆富懐石など、寒さを忘れさせる滋味あふれる郷土会席が旅人を迎えます。初冬の静寂と白銀の絶景を愉しむ厳選名宿5選を徹底解説します。",
         "datePublished": "2026-09-29T18:00:00+09:00",
         "dateModified": "2026-09-29T18:00:00+09:00",
         "inLanguage": "ja",
-        "mainEntityOfPage": "https://croud-travel.com/winter-gunma-houshi-sarugakyo-onsen-snow-joshu-beef-stay",
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-gunma-houshi-sarugakyo-onsen-snow-joshu-beef-stay",
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル編集部",
-          "url": "https://croud-travel.com/"
+          "url": "https://croud-travel.pages.dev/"
         }
       },
       {

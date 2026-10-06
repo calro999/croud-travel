@@ -10,12 +10,12 @@ export const metadata: Metadata = {
   description: "江戸時代から庶民の信仰を集め日本遺産にも認定された「大山詣り」。11〜1月の冬シーズンは空気が研ぎ澄まされ、大山阿夫利神社下社境内からミシュラン二つ星に輝く相模湾・江の島・房総半島までの絶景パノラマが広がります。標高1,252mの霊峰で迎える厳かな新春初詣と大山寺の静寂。参道で味わう名水仕込みの熱々大山豆腐会席や名物猪鍋。冷えた身体を芯から解きほぐす世界屈指のカルシウム含有量を誇る「鶴巻温泉」や東丹沢の秘湯「七沢温泉」の厳選名宿5選を徹底特集。",
   keywords: '大山阿夫利神社 初詣, 大山詣り, 大山豆腐, 鶴巻温泉 元湯陣屋, 七沢温泉 福元館, 七扇, 玉翠楼, ルートイン伊勢原, ミシュラン 相模湾 絶景, 神奈川 冬温泉',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-kanagawa-isehara-oyama-afuri-shrine-hatsumode-tofu-tsurumaki-stay'
+    canonical: 'https://croud-travel.pages.dev/winter-kanagawa-isehara-oyama-afuri-shrine-hatsumode-tofu-tsurumaki-stay'
   },
   openGraph: {
     title: "【11・12・1月神奈川】「大山阿夫利神社」新春初詣と相模湾冬パノラマ！名水大山豆腐料理＆名湯「鶴巻・七沢温泉」厳選名宿5選",
     description: "江戸時代から庶民の信仰を集め日本遺産にも認定された「大山詣り」。11〜1月の冬シーズンは空気が研ぎ澄まされ、大山阿夫利神社下社境内からミシュラン二つ星に輝く相模湾・江の島・房総半島までの絶景パノラマが広がります。標高1,252mの霊峰で迎える厳かな新春初詣と大山寺の静寂。参道で味わう名水仕込みの熱々大山豆腐会席や名物猪鍋。冷えた身体を芯から解きほぐす世界屈指のカルシウム含有量を誇る「鶴巻温泉」や東丹沢の秘湯「七沢温泉」の厳選名宿5選を徹底特集。",
-    url: 'https://croud-travel.com/winter-kanagawa-isehara-oyama-afuri-shrine-hatsumode-tofu-tsurumaki-stay',
+    url: 'https://croud-travel.pages.dev/winter-kanagawa-isehara-oyama-afuri-shrine-hatsumode-tofu-tsurumaki-stay',
     type: 'article',
     images: [
       {
@@ -48,19 +48,19 @@ export default function KanagawaOyamaWinterPage() {
     "author": {
       "@type": "Organization",
       "name": "旅宿クラウド 編集部",
-      "url": "https://croud-travel.com"
+      "url": "https://croud-travel.pages.dev"
     },
     "publisher": {
       "@type": "Organization",
       "name": "旅宿クラウド",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://croud-travel.com/logo.png"
+        "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.com/winter-kanagawa-isehara-oyama-afuri-shrine-hatsumode-tofu-tsurumaki-stay"
+      "@id": "https://croud-travel.pages.dev/winter-kanagawa-isehara-oyama-afuri-shrine-hatsumode-tofu-tsurumaki-stay"
     }
   };
 
@@ -72,19 +72,19 @@ export default function KanagawaOyamaWinterPage() {
         "@type": "ListItem",
         "position": 1,
         "name": "ホーム",
-        "item": "https://croud-travel.com"
+        "item": "https://croud-travel.pages.dev"
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "特集一覧",
-        "item": "https://croud-travel.com/features"
+        "item": "https://croud-travel.pages.dev/features"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "神奈川・大山＆伊勢原 冬特集",
-        "item": "https://croud-travel.com/winter-kanagawa-isehara-oyama-afuri-shrine-hatsumode-tofu-tsurumaki-stay"
+        "item": "https://croud-travel.pages.dev/winter-kanagawa-isehara-oyama-afuri-shrine-hatsumode-tofu-tsurumaki-stay"
       }
     ]
   };
@@ -652,7 +652,7 @@ export default function KanagawaOyamaWinterPage() {
 
       {/* Footer */}
       <footer className="bg-slate-950 text-slate-400 py-8 px-4 text-center text-xs">
-        <p>© 2026 旅宿クラウド (croud-travel.com). All rights reserved.</p>
+        <p>© 2026 旅宿クラウド (croud-travel.pages.dev). All rights reserved.</p>
         <p className="mt-1 text-slate-500">
           ※本記事に掲載している宿泊施設情報、価格、評価、ケーブルカー運行情報等は、楽天トラベルAPIおよび公式サイトの最新データに基づいています。冬期の参拝時間やケーブルカー運行ダイヤは変更となる場合がありますので、お出かけ前にご確認ください。
         </p>

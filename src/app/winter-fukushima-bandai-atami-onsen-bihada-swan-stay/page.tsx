@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月磐梯熱海温泉の冬名湯と美肌ぬる湯】萩姫伝説の美人の湯・猪苗代湖白鳥飛来と極上福島牛＆会津新酒の宿5選",
     description: "南北朝時代の萩姫伝説が息づく郡山の奥座敷「磐梯熱海温泉」。pH9を超えるアルカリ性単純泉と、元湯の「ぬる湯」＆自家源泉「あつ湯」の交互浴で至高の美肌効果を体感。11月にシベリアから猪苗代湖へ飛来する優美な白鳥群と磐梯山初冠雪、極上の霜降り福島牛、会津郷土料理こづゆ、初冬のしぼりたて新酒地酒を堪能する名宿5選を徹底解説。",
-    url: 'https://croud-travel.com/winter-fukushima-bandai-atami-onsen-bihada-swan-stay',
+    url: 'https://croud-travel.pages.dev/winter-fukushima-bandai-atami-onsen-bihada-swan-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -68,7 +68,7 @@ export default function BandaiAtamiWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-fukushima-bandai-atami-onsen-bihada-swan-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-fukushima-bandai-atami-onsen-bihada-swan-stay#article",
         "headline": "【11・12月磐梯熱海温泉の冬名湯と美肌ぬる湯】萩姫伝説の美人の湯・猪苗代湖白鳥飛来と極上福島牛＆会津新酒の宿5選",
         "description": "南北朝時代の萩姫伝説が息づく郡山の奥座敷「磐梯熱海温泉」。pH9を超えるアルカリ性単純泉と、元湯の「ぬる湯」＆自家源泉「あつ湯」の交互浴で至高の美肌効果を体感。11月にシベリアから猪苗代湖へ飛来する優美な白鳥群と磐梯山初冠雪、極上の霜降り福島牛、会津郷土料理こづゆ、初冬のしぼりたて新酒地酒を堪能する名宿5選を徹底解説。",
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
@@ -77,24 +77,24 @@ export default function BandaiAtamiWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-fukushima-bandai-atami-onsen-bihada-swan-stay"
+          "@id": "https://croud-travel.pages.dev/winter-fukushima-bandai-atami-onsen-bihada-swan-stay"
         }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-fukushima-bandai-atami-onsen-bihada-swan-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-fukushima-bandai-atami-onsen-bihada-swan-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -140,7 +140,7 @@ export default function BandaiAtamiWinterPage() {
       },
       {
         "@type": "ItemList",
-        "@id": "https://croud-travel.com/winter-fukushima-bandai-atami-onsen-bihada-swan-stay#hotels",
+        "@id": "https://croud-travel.pages.dev/winter-fukushima-bandai-atami-onsen-bihada-swan-stay#hotels",
         "itemListElement": [
           {
             "@type": "ListItem",
@@ -637,32 +637,7 @@ export default function BandaiAtamiWinterPage() {
         </section>
 
         {/* FAQ Section */}
-        <section id="faq" className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-slate-200/80 space-y-6">
-          <div className="flex items-center gap-3 pb-3 border-b border-slate-100">
-            <div className="p-2 rounded-xl bg-teal-50 text-teal-800">
-              <HelpCircle className="w-5 h-5" />
-            </div>
-            <div>
-              <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Traveler's Q&A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                よくある質問（FAQ）と初冬の磐梯熱海旅行アドバイス
-              </h2>
-            </div>
-          </div>
-          <div className="space-y-4">
-            {faqList.map((faq, idx) => (
-              <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-teal-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
-                <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
-                  {faq.a}
-                </p>
-              </div>
-            ))}
-          </div>
-        </section>
+        
 
         {/* Internal Links / Related Guides */}
         <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">

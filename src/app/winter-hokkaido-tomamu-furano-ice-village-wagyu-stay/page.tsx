@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月北海道】氷の街トマム「アイスヴィレッジ」と白銀の富良野・極上富良野和牛＆濃厚ふらのチーズフォンデュを堪能する冬リゾート名宿5選",
     description: "11月下旬から1月、北海道の中央に位置するトマムと富良野は、氷点下20度〜30度にも達する極寒が生み出す世界屈指のパウダースノーと、奇跡の氷の幻想世界に包まれます。星野リゾートトマムに期間限定で出現する氷の街「アイスヴィレッジ」では、氷の教会や氷のBar、氷の滑り台が青い光に輝き、ゴンドラで向かう標高1,088mの「霧氷テラス」では木々がまとう純白の氷結晶と日高山脈の壮大な冬パノラマに息を呑みます。白銀に染まる富良野の森に優しい灯りが灯る「ニングルテラス」の散策、寒さを忘れさせる最高峰の「富良野和牛」ステーキやすき焼き、地元産生乳から作られる濃厚な「ふらのチーズフォンデュ」。極上の冬リゾートと天然温泉を満喫する厳選5宿を紹介します。",
-    url: 'https://croud-travel.com/winter-hokkaido-tomamu-furano-ice-village-wagyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-hokkaido-tomamu-furano-ice-village-wagyu-stay',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -50,19 +50,19 @@ export default function HokkaidoTomamuFuranoWinterPage() {
     author: {
       '@type': 'Organization',
       name: 'クラドトラベル編集部',
-      url: 'https://croud-travel.com'
+      url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
       name: 'クラドトラベル',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://croud-travel.com/logo.png'
+        url: 'https://croud-travel.pages.dev/logo.png'
       }
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.com/winter-hokkaido-tomamu-furano-ice-village-wagyu-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-hokkaido-tomamu-furano-ice-village-wagyu-stay'
     }
   };
 
@@ -74,19 +74,19 @@ export default function HokkaidoTomamuFuranoWinterPage() {
         '@type': 'ListItem',
         position: 1,
         name: 'ホーム',
-        item: 'https://croud-travel.com'
+        item: 'https://croud-travel.pages.dev'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.com/features'
+        item: 'https://croud-travel.pages.dev/features'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: 'トマム氷の街と富良野雪景色・富良野和牛リゾート名宿',
-        item: 'https://croud-travel.com/winter-hokkaido-tomamu-furano-ice-village-wagyu-stay'
+        item: 'https://croud-travel.pages.dev/winter-hokkaido-tomamu-furano-ice-village-wagyu-stay'
       }
     ]
   };

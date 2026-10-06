@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月京都湯の花温泉の幻想的な亀岡霧雲海と名物ぼたん鍋】初冬の京奥座敷露天・最高級丹波牛ステーキ＆丹波黒豆会席の隠れ宿5選",
     description: "11月から12月にかけて京都の奥座敷・亀岡盆地は、冷え込みとともに盆地全体が真っ白な霧の海に沈む幻想的な「丹波霧（かめおか雲海）」のシーズンを迎えます。戦国武将も刀傷を癒やしたと伝わる万病の薬湯・湯の花温泉の露天風呂、初冬の里山に囲まれた静寂のプライベート空間、冬の丹波を代表する名物「本場猪肉のぼたん鍋」、きめ細やかな霜降りと深いコクを誇る「丹波牛」の鉄板焼きや陶板ステーキ、丹波黒豆や聖護院大根など旬の京野菜会席を堪能する大人の隠れ名宿5選を徹底解説。",
-    url: 'https://croud-travel.com/winter-kyoto-yunohana-onsen-unkai-botan-nabe-stay',
+    url: 'https://croud-travel.pages.dev/winter-kyoto-yunohana-onsen-unkai-botan-nabe-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -68,7 +68,7 @@ export default function YunohanaOnsenWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-kyoto-yunohana-onsen-unkai-botan-nabe-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-kyoto-yunohana-onsen-unkai-botan-nabe-stay#article",
         "headline": "【11・12月京都湯の花温泉の幻想的な亀岡霧雲海と名物ぼたん鍋】初冬の京奥座敷露天・最高級丹波牛ステーキ＆丹波黒豆会席の隠れ宿5選",
         "description": "11月から12月にかけて京都の奥座敷・亀岡盆地は、冷え込みとともに盆地全体が真っ白な霧の海に沈む幻想的な「丹波霧（かめおか雲海）」のシーズンを迎えます。戦国武将も刀傷を癒やしたと伝わる万病の薬湯・湯の花温泉の露天風呂、初冬の里山に囲まれた静寂のプライベート空間、冬の丹波を代表する名物「本場猪肉のぼたん鍋」、きめ細やかな霜降りと深いコクを誇る「丹波牛」の鉄板焼きや陶板ステーキ、丹波黒豆や聖護院大根など旬の京野菜会席を堪能する大人の隠れ名宿5選を徹底解説。",
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
@@ -77,24 +77,24 @@ export default function YunohanaOnsenWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-kyoto-yunohana-onsen-unkai-botan-nabe-stay"
+          "@id": "https://croud-travel.pages.dev/winter-kyoto-yunohana-onsen-unkai-botan-nabe-stay"
         }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-kyoto-yunohana-onsen-unkai-botan-nabe-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-kyoto-yunohana-onsen-unkai-botan-nabe-stay#faq",
         "mainEntity": faqList.map(item => ({
           "@type": "Question",
           "name": item.q,

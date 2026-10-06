@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月静岡】南アルプス秘境「夢の吊橋」冬のコバルトブルー・とろとろ美女づくりの湯＆冬の猪鍋・大井川鐵道名湯宿5選",
     description: "11月から1月、静岡県川根本町の奥大井・寸又峡は、大間ダム湖が年間で最も冴え渡るミルキーブルーに輝く「夢の吊橋」の絶景シーズン。美容液のように肌を包み込む名湯「美女づくりの湯（寸又峡温泉）」、南アルプスの大自然が育んだ熱々の郷土料理「猪鍋（ししなべ）」、大井川鐵道のアプト式鉄道と奥大井湖上駅の冬景色。秘境の冬を心ゆくまで堪能する厳選名宿5選とモデルコースを徹底ガイドします。",
-    url: 'https://croud-travel.com/winter-shizuoka-sumatakyo-onsen-yumenotsuribashi-bijin-jibier-stay',
+    url: 'https://croud-travel.pages.dev/winter-shizuoka-sumatakyo-onsen-yumenotsuribashi-bijin-jibier-stay',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -50,19 +50,19 @@ export default function ShizuokaSumatakyoOnsenWinterPage() {
     author: {
       '@type': 'Organization',
       name: 'クラドトラベル編集部',
-      url: 'https://croud-travel.com'
+      url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
       name: 'クラドトラベル',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://croud-travel.com/logo.png'
+        url: 'https://croud-travel.pages.dev/logo.png'
       }
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.com/winter-shizuoka-sumatakyo-onsen-yumenotsuribashi-bijin-jibier-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-shizuoka-sumatakyo-onsen-yumenotsuribashi-bijin-jibier-stay'
     }
   };
 
@@ -74,19 +74,19 @@ export default function ShizuokaSumatakyoOnsenWinterPage() {
         '@type': 'ListItem',
         position: 1,
         name: 'ホーム',
-        item: 'https://croud-travel.com'
+        item: 'https://croud-travel.pages.dev'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.com/features'
+        item: 'https://croud-travel.pages.dev/features'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '静岡・寸又峡温泉＆夢の吊橋特集',
-        item: 'https://croud-travel.com/winter-shizuoka-sumatakyo-onsen-yumenotsuribashi-bijin-jibier-stay'
+        item: 'https://croud-travel.pages.dev/winter-shizuoka-sumatakyo-onsen-yumenotsuribashi-bijin-jibier-stay'
       }
     ]
   };

@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月群馬】奇岩の霊場「榛名神社」新春初詣と温泉記号発祥「磯部温泉」！下仁田ネギ・上州牛すき焼き名宿5選",
     description: "上州の山岳信仰と文豪が愛した名湯に温まる11〜1月の冬旅ガイド。奇岩と巨木がそびえ立つ関東屈指のパワースポット「榛名神社」の新春初詣や、縁起だるま発祥の地「少林山達磨寺」でのだるま市。温泉マーク（♨）発祥の地として知られる安中・磯部温泉のナトリウム・塩化物炭酸水素塩泉で美肌湯浴み。冬に糖度が極まる本場「下仁田ネギ」と極上「上州牛」のすき焼き会席を堪能する名宿5選を詳しく解説します。",
-    url: 'https://croud-travel.com/winter-gunma-takasaki-haruna-shrine-hatsumode-isobe-onsen-joshugyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-gunma-takasaki-haruna-shrine-hatsumode-isobe-onsen-joshugyu-stay',
     type: 'article',
     images: [
       {
@@ -49,19 +49,19 @@ export default function GunmaTakasakiHarunaWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "旅クラウド編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "旅クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-gunma-takasaki-haruna-shrine-hatsumode-isobe-onsen-joshugyu-stay"
+          "@id": "https://croud-travel.pages.dev/winter-gunma-takasaki-haruna-shrine-hatsumode-isobe-onsen-joshugyu-stay"
         }
       },
       {
@@ -71,19 +71,19 @@ export default function GunmaTakasakiHarunaWinterPage() {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com"
+            "item": "https://croud-travel.pages.dev"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "冬の旅特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "群馬・高崎＆榛名神社初詣・磯部温泉名宿",
-            "item": "https://croud-travel.com/winter-gunma-takasaki-haruna-shrine-hatsumode-isobe-onsen-joshugyu-stay"
+            "item": "https://croud-travel.pages.dev/winter-gunma-takasaki-haruna-shrine-hatsumode-isobe-onsen-joshugyu-stay"
           }
         ]
       },

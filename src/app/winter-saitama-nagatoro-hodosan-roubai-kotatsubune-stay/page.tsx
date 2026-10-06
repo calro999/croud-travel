@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【12・1月埼玉】長瀞＆秩父・宝登山！冬の風物詩「長瀞こたつ舟下り」と早咲き満開「宝登山ロウバイ園」・宝登山神社初詣＆名物「秩父豚みそ丼・武州和牛」名宿5選",
     description: "冬の凛とした空気の中に甘い香りを放つ関東屈指の早咲き美「宝登山ロウバイ園」と、秩父三社の一角「宝登山神社」での新春初詣を巡る12〜1月の埼玉・長瀞＆秩父特集。荒川の特別天然記念物・岩畳を巡る熱々ぽかぽかの「長瀞こたつ舟下り」や、名物「秩父豚みそ漬け丼」「武州和牛」「天然氷かき氷」。そして長瀞温泉・秩父七湯の良質な天然温泉と心温まるおもてなしに癒やされる厳選名宿5選を徹底特集します。",
-    url: 'https://croud-travel.com/winter-saitama-nagatoro-hodosan-roubai-kotatsubune-stay',
+    url: 'https://croud-travel.pages.dev/winter-saitama-nagatoro-hodosan-roubai-kotatsubune-stay',
     type: 'article',
     images: [
       {
@@ -49,19 +49,19 @@ export default function SaitamaNagatoroWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "旅クラウド編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "旅クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-saitama-nagatoro-hodosan-roubai-kotatsubune-stay"
+          "@id": "https://croud-travel.pages.dev/winter-saitama-nagatoro-hodosan-roubai-kotatsubune-stay"
         }
       },
       {
@@ -71,19 +71,19 @@ export default function SaitamaNagatoroWinterPage() {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com"
+            "item": "https://croud-travel.pages.dev"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "冬の旅特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "埼玉・長瀞＆宝登山 ロウバイ園とこたつ舟・宝登山神社初詣名宿",
-            "item": "https://croud-travel.com/winter-saitama-nagatoro-hodosan-roubai-kotatsubune-stay"
+            "item": "https://croud-travel.pages.dev/winter-saitama-nagatoro-hodosan-roubai-kotatsubune-stay"
           }
         ]
       },

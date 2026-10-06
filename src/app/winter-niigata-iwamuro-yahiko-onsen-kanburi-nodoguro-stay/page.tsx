@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月新潟・弥彦＆岩室温泉の初冬情緒と日本海寒ブリ・のどぐろ会席】越後一宮彌彦神社参詣＆開湯300年名物黒湯の宿5選",
     description: "11月から12月にかけて、新潟県の日本海沿いに連なる弥彦山麓の弥彦温泉と岩室（いわむろ）温泉は、越後平野の黄金色の実りから初雪の白銀へと季節が移ろう風情豊かな初冬を迎えます。越後一宮「彌彦神社」の初冬の厳かな空気に包まれ、開湯300年の歴史を誇る岩室の名物「黒湯」で冷えた身体をじっくり温める至福のひととき。そして11月に水揚げが本格化する荒波の日本海直送「寒ブリ」や脂の乗った「のどぐろ塩焼き」、新米コシヒカリと越後の銘酒に酔いしれる厳選温泉宿5選を詳しく解説します。",
-    url: 'https://croud-travel.com/winter-niigata-iwamuro-yahiko-onsen-kanburi-nodoguro-stay',
+    url: 'https://croud-travel.pages.dev/winter-niigata-iwamuro-yahiko-onsen-kanburi-nodoguro-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -62,10 +62,10 @@ export default function NiigataIwamuroYahikoWinterFeature() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-niigata-iwamuro-yahiko-onsen-kanburi-nodoguro-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-niigata-iwamuro-yahiko-onsen-kanburi-nodoguro-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-niigata-iwamuro-yahiko-onsen-kanburi-nodoguro-stay"
+          "@id": "https://croud-travel.pages.dev/winter-niigata-iwamuro-yahiko-onsen-kanburi-nodoguro-stay"
         },
         "headline": "【11・12月新潟・弥彦＆岩室温泉の初冬情緒と日本海寒ブリ・のどぐろ会席】越後一宮彌彦神社参詣＆開湯300年名物黒湯の宿5選",
         "description": "11月から12月にかけて、新潟県の日本海沿いに連なる弥彦山麓の弥彦温泉と岩室（いわむろ）温泉は、越後平野の黄金色の実りから初雪の白銀へと季節が移ろう風情豊かな初冬を迎えます。越後一宮「彌彦神社」の初冬の厳かな空気に包まれ、開湯300年の歴史を誇る岩室の名物「黒湯」で冷えた身体をじっくり温める至福のひととき。そして11月に水揚げが本格化する荒波の日本海直送「寒ブリ」や脂の乗った「のどぐろ塩焼き」、新米コシヒカリと越後の銘酒に酔いしれる厳選温泉宿5選を詳しく解説します。",
@@ -77,7 +77,7 @@ export default function NiigataIwamuroYahikoWinterFeature() {
           "name": "Croud Travel",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "author": {
@@ -88,31 +88,31 @@ export default function NiigataIwamuroYahikoWinterFeature() {
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://croud-travel.com/winter-niigata-iwamuro-yahiko-onsen-kanburi-nodoguro-stay#breadcrumb",
+        "@id": "https://croud-travel.pages.dev/winter-niigata-iwamuro-yahiko-onsen-kanburi-nodoguro-stay#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com/"
+            "item": "https://croud-travel.pages.dev/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "新潟・弥彦＆岩室温泉 寒ブリ・のどぐろ会席と名物黒湯の宿",
-            "item": "https://croud-travel.com/winter-niigata-iwamuro-yahiko-onsen-kanburi-nodoguro-stay"
+            "item": "https://croud-travel.pages.dev/winter-niigata-iwamuro-yahiko-onsen-kanburi-nodoguro-stay"
           }
         ]
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-niigata-iwamuro-yahiko-onsen-kanburi-nodoguro-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-niigata-iwamuro-yahiko-onsen-kanburi-nodoguro-stay#faq",
         "mainEntity": faqList.map(f => ({
           "@type": "Question",
           "name": f.q,

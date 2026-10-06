@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月長野】日本一の星空ナイトツアーとpH9.7強アルカリ美肌の湯・極上南信州牛＆信州サーモンを味わう昼神温泉名宿5選",
     description: "11月から1月、南信州の澄んだ大気と日本アルプスの山々に抱かれた長野県阿智村「昼神温泉」は、一年で最も夜空の輝きが増す奇跡の天体観測シーズンを迎えます。環境省が「日本一星が輝いて見える場所」として最高評価を下した阿智村。初冬から真冬にかけては湿度が下がり大気の透明度が極限まで高まるため、冬の大三角や天の川、満天の星々がまるで降るような臨場感で夜空一面に広がります。ヘブンスそのはらで開催される「天空の楽園 ウィンターナイトツアー」で宇宙の神秘に触れた後は、全国屈指のpH9.7を誇る強アルカリ性単純硫黄泉へ。古い角質を落とし肌をしっとり潤す「奇跡の美人の湯」で体の芯まで解きほぐされます。夕食には南信州の豊かな大地が育んだ霜降り「南信州牛・信州プレミアム牛」の炭火焼きや、清流で育つ鮮やかな「信州サーモン」、名物五平餅が並ぶ美食の宴。冬の星空と極上美肌湯に癒やされる厳選5宿をご案内します。",
-    url: 'https://croud-travel.com/winter-nagano-hirugami-onsen-starry-sky-shinshugyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-nagano-hirugami-onsen-starry-sky-shinshugyu-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -44,10 +44,10 @@ export default function NaganoHirugamiOnsenWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-nagano-hirugami-onsen-starry-sky-shinshugyu-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-nagano-hirugami-onsen-starry-sky-shinshugyu-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-nagano-hirugami-onsen-starry-sky-shinshugyu-stay"
+          "@id": "https://croud-travel.pages.dev/winter-nagano-hirugami-onsen-starry-sky-shinshugyu-stay"
         },
         "headline": "【11・12・1月長野】日本一の星空ナイトツアーとpH9.7強アルカリ美肌の湯・極上南信州牛＆信州サーモンを味わう昼神温泉名宿5選",
         "description": "11月から1月、南信州の澄んだ大気と日本アルプスの山々に抱かれた長野県阿智村「昼神温泉」は、一年で最も夜空の輝きが増す奇跡の天体観測シーズンを迎えます。環境省が「日本一星が輝いて見える場所」として最高評価を下した阿智村。初冬から真冬にかけては湿度が下がり大気の透明度が極限まで高まるため、冬の大三角や天の川、満天の星々がまるで降るような臨場感で夜空一面に広がります。ヘブンスそのはらで開催される「天空の楽園 ウィンターナイトツアー」で宇宙の神秘に触れた後は、全国屈指のpH9.7を誇る強アルカリ性単純硫黄泉へ。古い角質を落とし肌をしっとり潤す「奇跡の美人の湯」で体の芯まで解きほぐされます。夕食には南信州の豊かな大地が育んだ霜降り「南信州牛・信州プレミアム牛」の炭火焼きや、清流で育つ鮮やかな「信州サーモン」、名物五平餅が並ぶ美食の宴。冬の星空と極上美肌湯に癒やされる厳選5宿をご案内します。",
@@ -57,46 +57,46 @@ export default function NaganoHirugamiOnsenWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "クラドトラベル 星空・美肌温泉取材班",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル",
-          "url": "https://croud-travel.com",
+          "url": "https://croud-travel.pages.dev",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
-        "mainEntityOfPage": "https://croud-travel.com/winter-nagano-hirugami-onsen-starry-sky-shinshugyu-stay"
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-nagano-hirugami-onsen-starry-sky-shinshugyu-stay"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://croud-travel.com/winter-nagano-hirugami-onsen-starry-sky-shinshugyu-stay#breadcrumb",
+        "@id": "https://croud-travel.pages.dev/winter-nagano-hirugami-onsen-starry-sky-shinshugyu-stay#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com"
+            "item": "https://croud-travel.pages.dev"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "長野・昼神温泉の星空と強アルカリ美肌湯特集",
-            "item": "https://croud-travel.com/winter-nagano-hirugami-onsen-starry-sky-shinshugyu-stay"
+            "item": "https://croud-travel.pages.dev/winter-nagano-hirugami-onsen-starry-sky-shinshugyu-stay"
           }
         ]
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-nagano-hirugami-onsen-starry-sky-shinshugyu-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-nagano-hirugami-onsen-starry-sky-shinshugyu-stay#faq",
         "mainEntity": [{"@type":"Question","name":"阿智村の「日本一の星空」はなぜ冬（11月・12月・1月）が一番おすすめなのですか？","acceptedAnswer":{"@type":"Answer","text":"阿智村は環境省が実施した全国星空継続観察で「星が最も輝いて見える場所」第1位に認定された日本屈指の星空の名所です。春や夏も美しいですが、11月から1月の初冬〜厳冬期は湿度が大幅に下がり、大気の揺らぎや水蒸気が極限まで少なくなるため、透明度が年間で最高レベルに達します。さらに冬の夜空にはオリオン座、シリウス、プロキオンが描く「冬の大三角」やすばる（プレアデス星団）、天の川など明るい1等星が密集しており、肉眼でも降るような満天の星空を圧倒的なコントラストで鑑賞できます。"}},{"@type":"Question","name":"ヘブンスそのはらの「天空の楽園 ウィンターナイトツアー」の参加方法や服装の注意点は？","acceptedAnswer":{"@type":"Answer","text":"ウィンターナイトツアーは、阿智村の富士見台高原ロープウェイ「ヘブンスそのはら」等で開催される大人気イベントです。山頂（標高約1,400m）は真冬になると氷点下5℃〜10℃以下まで冷え込みます。鑑賞時はスキーウェアや厚手のダウンジャケット、防風パンツ、ニット帽、厚手の手袋、ネックウォーマー、カイロ、雪道対応の防寒ブーツなどの完全防寒装備が必須です。また多くの旅館で星空ツアーチケット付きプランや会場までの送迎バスが用意されているため、事前に宿のプランを確認して予約することをおすすめします。"}},{"@type":"Question","name":"昼神温泉の泉質「pH9.7」とはどのような特徴と美肌効果があるのですか？","acceptedAnswer":{"@type":"Answer","text":"昼神温泉の泉質は「アルカリ性単純硫黄温泉」で、特筆すべきはpH9.7という全国でも有数の高い強アルカリ性数値です。強アルカリ性の温泉は肌表面の古い角質をやわらげて優しく落とす「天然の石鹸効果（クレンジング作用）」を持ちます。さらに微量に含まれる硫黄成分がメラニンの生成を抑えてシミ予防をサポートし、ナトリウムイオンやメタケイ酸が肌に潤いを与えて滑らかに整えるため、「一度入れば肌がつるつるスベスベになる奇跡の美人の湯」として女性や温泉ファンから絶大な人気を誇ります。"}},{"@type":"Question","name":"11月・12月・1月の阿智村・昼神温泉の道路状況や冬用タイヤの必要性は？","acceptedAnswer":{"@type":"Answer","text":"昼神温泉街自体は標高約500mに位置し、中央自動車道の園原ICや飯田山本ICから約10分とアクセス良好です。ただし南信州の冬は朝晩の冷え込みが厳しく、11月下旬以降は路面凍結（ブラックアイスバーン）や降雪のリスクが確実に高まります。特にヘブンスそのはら（標高1,400m）方面へ向かう道路や山間部は積雪・凍結しますので、11月以降にお車で訪れる場合は必ずスタッドレスタイヤを装着してください。ノーマルタイヤでの冬期の走行は非常に危険ですので厳禁です。"}},{"@type":"Question","name":"昼神温泉周辺の冬の観光スポットや名物グルメはどこですか？","acceptedAnswer":{"@type":"Answer","text":"毎朝開催される「昼神温泉朝市」では、地元農家の新鮮な冬野菜や手作りの漬物、名物の五平餅、干し柿（市田柿）などが並び、地元の方との温かい交流が楽しめます。また、神秘的な阿智神社への参拝や、車で約30分の元善光寺、天竜峡の冬景色散策も人気。グルメでは、濃厚な旨味のブランド牛「南信州牛」、清流で養殖されるサーモンピンクの「信州サーモン」、香ばしい胡桃・胡麻味噌を塗って香ばしく焼き上げた「五平餅」、そして高級和菓子「市田柿」が冬の必食名物です。"}}]
       }
     ]

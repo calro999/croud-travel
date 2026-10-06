@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月奈良】春日大社新春開運初詣＆東大寺大仏殿冬景色！大和牛すき焼きと古都の静謐に寛ぐ厳選宿5選",
     description: "1300年の歴史が静かに息づく古都・奈良の冬。世界遺産・春日大社の朱塗りの社殿と無数の釣燈籠が白雪に映える新春開運初詣、東大寺大仏殿の厳かな佇まい、冬毛でもふもふと暖かそうな奈良公園の鹿たちとの出会い。澄み切った夕暮れには若草山が茜色から深い藍色へと染まり、滋味豊かな大和牛すき焼きや飛鳥鍋、三輪そうめんのにゅうめんが冷えた体を優しく温めます。楽天APIから最新取得した奈良公園・ならまち・奈良駅周辺の格調高き名宿5選を徹底特集します。",
-    url: 'https://croud-travel.com/winter-nara-park-kasuga-taisha-hatsumode-todaiji-yamatogyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-nara-park-kasuga-taisha-hatsumode-todaiji-yamatogyu-stay',
     type: 'article',
     images: [{ url: 'https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1200&q=80' }]
   }
@@ -149,15 +149,15 @@ export default function NaraParkKasugaWinterPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://croud-travel.com/winter-nara-park-kasuga-taisha-hatsumode-todaiji-yamatogyu-stay#webpage",
-        "url": "https://croud-travel.com/winter-nara-park-kasuga-taisha-hatsumode-todaiji-yamatogyu-stay",
+        "@id": "https://croud-travel.pages.dev/winter-nara-park-kasuga-taisha-hatsumode-todaiji-yamatogyu-stay#webpage",
+        "url": "https://croud-travel.pages.dev/winter-nara-park-kasuga-taisha-hatsumode-todaiji-yamatogyu-stay",
         "name": "【11・12・1月奈良】春日大社新春開運初詣＆東大寺大仏殿冬景色！大和牛すき焼きと古都の静謐に寛ぐ厳選宿5選",
         "description": "1300年の歴史が静かに息づく古都・奈良の冬。世界遺産・春日大社の朱塗りの社殿と無数の釣燈籠が白雪に映える新春開運初詣、東大寺大仏殿の厳かな佇まい、冬毛でもふもふと暖かそうな奈良公園の鹿たちとの出会い。澄み切った夕暮れには若草山が茜色から深い藍色へと染まり、滋味豊かな大和牛すき焼きや飛鳥鍋、三輪そうめんのにゅうめんが冷えた体を優しく温めます。楽天APIから最新取得した奈良公園・ならまち・奈良駅周辺の格調高き名宿5選を徹底特集します。",
         "inLanguage": "ja",
         "isPartOf": {
           "@type": "WebSite",
-          "@id": "https://croud-travel.com/#website",
-          "url": "https://croud-travel.com/",
+          "@id": "https://croud-travel.pages.dev/#website",
+          "url": "https://croud-travel.pages.dev/",
           "name": "くらうどトラベル"
         }
       },
@@ -168,19 +168,19 @@ export default function NaraParkKasugaWinterPage() {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com/"
+            "item": "https://croud-travel.pages.dev/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "春日大社初詣＆東大寺冬景色宿",
-            "item": "https://croud-travel.com/winter-nara-park-kasuga-taisha-hatsumode-todaiji-yamatogyu-stay"
+            "item": "https://croud-travel.pages.dev/winter-nara-park-kasuga-taisha-hatsumode-todaiji-yamatogyu-stay"
           }
         ]
       },

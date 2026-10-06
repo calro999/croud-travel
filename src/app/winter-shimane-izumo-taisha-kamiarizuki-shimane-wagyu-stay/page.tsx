@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月島根・出雲大社周辺温泉の神在月・神在祭参拝と初冬解禁日本海の幸】出雲そば・しまね和牛＆日本海夕景露天の宿5選",
     description: "旧暦10月（新暦11月）を迎えると、全国の八百万（やおよろず）の神々が出雲の地に集まることから「神在月（かみありづき）」と呼ばれ、出雲大社では「神迎祭」「神在祭」「縁結大祭」が厳かに執り行われます。11月から12月の出雲地方は、人生の良縁や幸福を祈る参拝客の敬虔な熱気と、日本海から届く初冬の豊かな海の幸で満たされます。11月上旬に解禁される山陰の冬の王者「松葉ガニ」や脂の乗った「ノドグロ」、名物「出雲そば」、そして最高峰の肉質を誇る「しまね和牛」の極上会席。出雲大社まで徒歩圏の参拝の宿や、日本海の荒波と夕日を望む海辺の隠れ宿、川のせせらぎに癒やされる源泉掛け流しの名旅館5選を徹底解説。",
-    url: 'https://croud-travel.com/winter-shimane-izumo-taisha-kamiarizuki-shimane-wagyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-shimane-izumo-taisha-kamiarizuki-shimane-wagyu-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -62,10 +62,10 @@ export default function ShimaneIzumoWinterFeature() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-shimane-izumo-taisha-kamiarizuki-shimane-wagyu-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-shimane-izumo-taisha-kamiarizuki-shimane-wagyu-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-shimane-izumo-taisha-kamiarizuki-shimane-wagyu-stay"
+          "@id": "https://croud-travel.pages.dev/winter-shimane-izumo-taisha-kamiarizuki-shimane-wagyu-stay"
         },
         "headline": "【11・12月島根・出雲大社周辺温泉の神在月・神在祭参拝と初冬解禁日本海の幸】出雲そば・しまね和牛＆日本海夕景露天の宿5選",
         "description": "旧暦10月（新暦11月）を迎えると、全国の八百万（やおよろず）の神々が出雲の地に集まることから「神在月（かみありづき）」と呼ばれ、出雲大社では「神迎祭」「神在祭」「縁結大祭」が厳かに執り行われます。11月から12月の出雲地方は、人生の良縁や幸福を祈る参拝客の敬虔な熱気と、日本海から届く初冬の豊かな海の幸で満たされます。11月上旬に解禁される山陰の冬の王者「松葉ガニ」や脂の乗った「ノドグロ」、名物「出雲そば」、そして最高峰の肉質を誇る「しまね和牛」の極上会席。出雲大社まで徒歩圏の参拝の宿や、日本海の荒波と夕日を望む海辺の隠れ宿、川のせせらぎに癒やされる源泉掛け流しの名旅館5選を徹底解説。",
@@ -77,7 +77,7 @@ export default function ShimaneIzumoWinterFeature() {
           "name": "Croud Travel",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "author": {
@@ -88,31 +88,31 @@ export default function ShimaneIzumoWinterFeature() {
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://croud-travel.com/winter-shimane-izumo-taisha-kamiarizuki-shimane-wagyu-stay#breadcrumb",
+        "@id": "https://croud-travel.pages.dev/winter-shimane-izumo-taisha-kamiarizuki-shimane-wagyu-stay#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com/"
+            "item": "https://croud-travel.pages.dev/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "島根・出雲大社周辺温泉 神在月参拝と日本海冬の幸・しまね和牛の宿",
-            "item": "https://croud-travel.com/winter-shimane-izumo-taisha-kamiarizuki-shimane-wagyu-stay"
+            "item": "https://croud-travel.pages.dev/winter-shimane-izumo-taisha-kamiarizuki-shimane-wagyu-stay"
           }
         ]
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-shimane-izumo-taisha-kamiarizuki-shimane-wagyu-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-shimane-izumo-taisha-kamiarizuki-shimane-wagyu-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",

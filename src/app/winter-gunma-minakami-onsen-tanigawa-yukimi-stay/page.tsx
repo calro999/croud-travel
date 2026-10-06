@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月みなかみ温泉郷の冬名湯と谷川岳雪見風呂】利根川渓谷露天と谷川岳初冠雪・極上上州牛＆旬きのこ会席の宿5選",
     description: "11月下旬から12月にかけて谷川連峰が白銀の初冠雪を纏い、利根川源流の渓谷に初冬の静寂が広がる群馬「みなかみ温泉郷」。ルレ・エ・シャトー加盟の世界最高峰旅館から天下一の広さを誇る宝川温泉の雪見大露天風呂、清流を望む全室露天風呂付きモダンホテルまで、極上ブランド肉「上州牛」やすき焼き、地元特産の肉厚舞茸きのこ会席を堪能する厳選名宿5選を徹底解説。",
-    url: 'https://croud-travel.com/winter-gunma-minakami-onsen-tanigawa-yukimi-stay',
+    url: 'https://croud-travel.pages.dev/winter-gunma-minakami-onsen-tanigawa-yukimi-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -68,7 +68,7 @@ export default function MinakamiOnsenWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-gunma-minakami-onsen-tanigawa-yukimi-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-gunma-minakami-onsen-tanigawa-yukimi-stay#article",
         "headline": "【11・12月みなかみ温泉郷の冬名湯と谷川岳雪見風呂】利根川渓谷露天と谷川岳初冠雪・極上上州牛＆旬きのこ会席の宿5選",
         "description": "11月下旬から12月にかけて谷川連峰が白銀の初冠雪を纏い、利根川源流の渓谷に初冬の静寂が広がる群馬「みなかみ温泉郷」。ルレ・エ・シャトー加盟の世界最高峰旅館から天下一の広さを誇る宝川温泉の雪見大露天風呂、清流を望む全室露天風呂付きモダンホテルまで、極上ブランド肉「上州牛」やすき焼き、地元特産の肉厚舞茸きのこ会席を堪能する厳選名宿5選を徹底解説。",
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
@@ -77,24 +77,24 @@ export default function MinakamiOnsenWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-gunma-minakami-onsen-tanigawa-yukimi-stay"
+          "@id": "https://croud-travel.pages.dev/winter-gunma-minakami-onsen-tanigawa-yukimi-stay"
         }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-gunma-minakami-onsen-tanigawa-yukimi-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-gunma-minakami-onsen-tanigawa-yukimi-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -140,7 +140,7 @@ export default function MinakamiOnsenWinterPage() {
       },
       {
         "@type": "ItemList",
-        "@id": "https://croud-travel.com/winter-gunma-minakami-onsen-tanigawa-yukimi-stay#hotels",
+        "@id": "https://croud-travel.pages.dev/winter-gunma-minakami-onsen-tanigawa-yukimi-stay#hotels",
         "itemListElement": [
           {
             "@type": "ListItem",

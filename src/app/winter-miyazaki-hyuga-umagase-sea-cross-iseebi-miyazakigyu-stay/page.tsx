@@ -10,12 +10,12 @@ export const metadata: Metadata = {
   description: "冬でも温暖な南国・宮崎の日豊海岸。11〜1月の冬シーズンは湿度が低く大気が澄み渡り、紺碧に輝く太平洋と高さ70mの柱状節理「馬ヶ背」の断崖絶壁が圧倒的なスケールで迫ります。十字の奇岩に願いを込める「クルスの海」や日向のお伊勢さま「大御神社」で迎える厳かな新春初詣。日向灘の荒波で身が引き締まった冬旬「日向灘伊勢海老」の活造り・味噌汁と、日本一の称号を誇る「宮崎牛」の極上鉄板焼き、延岡発祥の元祖チキン南蛮。心地よい南国ステイを満喫する厳選名宿5選を徹底特集。",
   keywords: '馬ヶ背 絶景, クルスの海 初日の出, 大御神社 初詣, 日向灘 伊勢海老, 宮崎牛, ホテルベルフォート日向, エンシティホテル延岡, チキン南蛮 直ちゃん, 延岡 ホテル, 宮崎 冬旅行',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-miyazaki-hyuga-umagase-sea-cross-iseebi-miyazakigyu-stay'
+    canonical: 'https://croud-travel.pages.dev/winter-miyazaki-hyuga-umagase-sea-cross-iseebi-miyazakigyu-stay'
   },
   openGraph: {
     title: "【11・12・1月宮崎】日向岬「馬ヶ背」断崖絶壁と「クルスの海」新春祈願！冬旬「日向灘伊勢海老」＆宮崎牛・延岡名宿5選",
     description: "冬でも温暖な南国・宮崎の日豊海岸。11〜1月の冬シーズンは湿度が低く大気が澄み渡り、紺碧に輝く太平洋と高さ70mの柱状節理「馬ヶ背」の断崖絶壁が圧倒的なスケールで迫ります。十字の奇岩に願いを込める「クルスの海」や日向のお伊勢さま「大御神社」で迎える厳かな新春初詣。日向灘の荒波で身が引き締まった冬旬「日向灘伊勢海老」の活造り・味噌汁と、日本一の称号を誇る「宮崎牛」の極上鉄板焼き、延岡発祥の元祖チキン南蛮。心地よい南国ステイを満喫する厳選名宿5選を徹底特集。",
-    url: 'https://croud-travel.com/winter-miyazaki-hyuga-umagase-sea-cross-iseebi-miyazakigyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-miyazaki-hyuga-umagase-sea-cross-iseebi-miyazakigyu-stay',
     type: 'article',
     images: [
       {
@@ -48,19 +48,19 @@ export default function MiyazakiHyugaWinterPage() {
     "author": {
       "@type": "Organization",
       "name": "旅宿クラウド 編集部",
-      "url": "https://croud-travel.com"
+      "url": "https://croud-travel.pages.dev"
     },
     "publisher": {
       "@type": "Organization",
       "name": "旅宿クラウド",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://croud-travel.com/logo.png"
+        "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.com/winter-miyazaki-hyuga-umagase-sea-cross-iseebi-miyazakigyu-stay"
+      "@id": "https://croud-travel.pages.dev/winter-miyazaki-hyuga-umagase-sea-cross-iseebi-miyazakigyu-stay"
     }
   };
 
@@ -72,19 +72,19 @@ export default function MiyazakiHyugaWinterPage() {
         "@type": "ListItem",
         "position": 1,
         "name": "ホーム",
-        "item": "https://croud-travel.com"
+        "item": "https://croud-travel.pages.dev"
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "特集一覧",
-        "item": "https://croud-travel.com/features"
+        "item": "https://croud-travel.pages.dev/features"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "宮崎・日向＆延岡 冬特集",
-        "item": "https://croud-travel.com/winter-miyazaki-hyuga-umagase-sea-cross-iseebi-miyazakigyu-stay"
+        "item": "https://croud-travel.pages.dev/winter-miyazaki-hyuga-umagase-sea-cross-iseebi-miyazakigyu-stay"
       }
     ]
   };
@@ -652,7 +652,7 @@ export default function MiyazakiHyugaWinterPage() {
 
       {/* Footer */}
       <footer className="bg-slate-950 text-slate-400 py-8 px-4 text-center text-xs">
-        <p>© 2026 旅宿クラウド (croud-travel.com). All rights reserved.</p>
+        <p>© 2026 旅宿クラウド (croud-travel.pages.dev). All rights reserved.</p>
         <p className="mt-1 text-slate-500">
           ※本記事に掲載している宿泊施設情報、価格、評価、イベント情報等は、楽天トラベルAPIおよび公式サイトの最新データに基づいています。冬期の初詣参拝時間や伊勢海老まつりの実施期間は変更となる場合がありますので、お出かけ前にご確認ください。
         </p>

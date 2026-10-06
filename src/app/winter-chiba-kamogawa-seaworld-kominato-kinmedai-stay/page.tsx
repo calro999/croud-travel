@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月千葉】冬の鴨川シーワールドシャチパフォーマンスと小湊鯛の浦温泉・外房寒金目鯛煮付け＆房総伊勢海老を堪能する絶景名宿5選",
     description: "11月から1月、南房総・外房鴨川は温暖な黒潮の影響を受け、真冬でも穏やかな気候の中で冬の海絶景を満喫できる関東随一の避寒地です。澄んだ冬空の下で躍動する「鴨川シーワールド」の大迫力シャチパフォーマンス、国の特別天然記念物・神秘の海「小湊鯛の浦」、そして日蓮聖人誕生の古刹「誕生寺」の新春初詣。外房の荒波で極上の脂を蓄えた「外房寒金目鯛の姿煮」や活伊勢海老を味わい、太平洋から昇る感動の日の出露天風呂に癒やされる厳選名宿5選と冬のモデルコースをお届けします。",
-    url: 'https://croud-travel.com/winter-chiba-kamogawa-seaworld-kominato-kinmedai-stay',
+    url: 'https://croud-travel.pages.dev/winter-chiba-kamogawa-seaworld-kominato-kinmedai-stay',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -50,19 +50,19 @@ export default function ChibaKamogawaKominatoWinterPage() {
     author: {
       '@type': 'Organization',
       name: 'クラドトラベル編集部',
-      url: 'https://croud-travel.com'
+      url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
       name: 'クラドトラベル',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://croud-travel.com/logo.png'
+        url: 'https://croud-travel.pages.dev/logo.png'
       }
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.com/winter-chiba-kamogawa-seaworld-kominato-kinmedai-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-chiba-kamogawa-seaworld-kominato-kinmedai-stay'
     }
   };
 
@@ -74,19 +74,19 @@ export default function ChibaKamogawaKominatoWinterPage() {
         '@type': 'ListItem',
         position: 1,
         name: 'ホーム',
-        item: 'https://croud-travel.com'
+        item: 'https://croud-travel.pages.dev'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.com/features'
+        item: 'https://croud-travel.pages.dev/features'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '外房鴨川＆小湊温泉特集',
-        item: 'https://croud-travel.com/winter-chiba-kamogawa-seaworld-kominato-kinmedai-stay'
+        item: 'https://croud-travel.pages.dev/winter-chiba-kamogawa-seaworld-kominato-kinmedai-stay'
       }
     ]
   };

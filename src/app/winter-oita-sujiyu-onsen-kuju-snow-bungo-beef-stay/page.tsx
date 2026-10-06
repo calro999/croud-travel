@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月大分・筋湯温泉＆九重連山】くじゅう連山初冬の霧氷雪景色と打たせ湯日本一・極上おおいた豊後牛＆九重夢ポークを堪能する名宿5選",
     description: "11月中旬から九州屈指の寒冷地である標高1000mの九重高原を初冬の冷気が包み込み、くじゅう連山の稜線が幻想的な霧氷や白雪に覆われる大分県・筋湯温泉（すじゆおんせん）。開湯1000年以上の歴史を誇り、「筋の病に効く」として全国の湯治客に親しまれてきたこの山峡の名湯は、高さ3mから18筋の湯が豪快に落ちる共同浴場「うたせ大浴場」をはじめ、乳白色の硫黄泉やメタケイ酸豊富な美肌湯が湧き出る秘湯の里です。冷え切った身体を名湯で芯から温めた後は、大分が誇る最高峰の黒毛和牛「おおいた豊後牛」の霜降りすき焼きや陶板ステーキ、きめ細やかな旨味のブランド豚「九重夢ポーク」のしゃぶしゃぶ鍋、地獄蒸し料理など、冬の山里の滋味を贅沢に味わえます。初冬の九重連山で静寂と至福の温もりに浸る厳選名宿5選を詳細に紐解きます。",
-    url: 'https://croud-travel.com/winter-oita-sujiyu-onsen-kuju-snow-bungo-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-oita-sujiyu-onsen-kuju-snow-bungo-beef-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -45,23 +45,23 @@ export default function OitaSujiyuKujuPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-oita-sujiyu-onsen-kuju-snow-bungo-beef-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-oita-sujiyu-onsen-kuju-snow-bungo-beef-stay#article",
         "isPartOf": {
           "@type": "WebSite",
-          "@id": "https://croud-travel.com/#website",
+          "@id": "https://croud-travel.pages.dev/#website",
           "name": "クラドトラベル",
-          "url": "https://croud-travel.com/"
+          "url": "https://croud-travel.pages.dev/"
         },
         "headline": "【11・12月大分・筋湯温泉＆九重連山】くじゅう連山初冬の霧氷雪景色と打たせ湯日本一・極上おおいた豊後牛＆九重夢ポークを堪能する名宿5選",
         "description": "11月中旬から九州屈指の寒冷地である標高1000mの九重高原を初冬の冷気が包み込み、くじゅう連山の稜線が幻想的な霧氷や白雪に覆われる大分県・筋湯温泉（すじゆおんせん）。開湯1000年以上の歴史を誇り、「筋の病に効く」として全国の湯治客に親しまれてきたこの山峡の名湯は、高さ3mから18筋の湯が豪快に落ちる共同浴場「うたせ大浴場」をはじめ、乳白色の硫黄泉やメタケイ酸豊富な美肌湯が湧き出る秘湯の里です。冷え切った身体を名湯で芯から温めた後は、大分が誇る最高峰の黒毛和牛「おおいた豊後牛」の霜降りすき焼きや陶板ステーキ、きめ細やかな旨味のブランド豚「九重夢ポーク」のしゃぶしゃぶ鍋、地獄蒸し料理など、冬の山里の滋味を贅沢に味わえます。初冬の九重連山で静寂と至福の温もりに浸る厳選名宿5選を詳細に紐解きます。",
         "datePublished": "2026-09-29T18:00:00+09:00",
         "dateModified": "2026-09-29T18:00:00+09:00",
         "inLanguage": "ja",
-        "mainEntityOfPage": "https://croud-travel.com/winter-oita-sujiyu-onsen-kuju-snow-bungo-beef-stay",
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-oita-sujiyu-onsen-kuju-snow-bungo-beef-stay",
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル編集部",
-          "url": "https://croud-travel.com/"
+          "url": "https://croud-travel.pages.dev/"
         }
       },
       {

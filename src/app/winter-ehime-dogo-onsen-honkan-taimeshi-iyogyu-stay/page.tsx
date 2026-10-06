@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月愛媛・道後温泉の日本三古湯と冬の瀬戸内味覚】名物宇和島鯛めし＆伊予牛・本館全館営業再開の名湯を巡る名宿5選",
     description: "11月から12月にかけて、三千年の歴史を誇り『日本書紀』や『万葉集』にも記された日本三古湯の筆頭「愛媛・道後温泉（どうごおんせん）」は、保存修理工事を終えて約5年半ぶりに全館営業を再開した「道後温泉本館」を中心に、冬ならではの落ち着いた情緒と美食のハイシーズンを迎えます。源泉温度42〜51度のアルカリ性単純温泉は、肌に刺激の少ない滑らかな泉質で、湯冷めしにくく冬の身体をやさしく温めてくれます。11月・12月は瀬戸内海で潮流に揉まれた真鯛が最も脂を蓄える旬。名物の「宇和島風鯛めし」や香ばしい「松山鯛めし」、とろけるような肉質の「伊予牛（いよぎゅう）」、みかん果汁を飼料に育つ「みかん鰤」。レトロな坊っちゃん列車や松山城城下町の冬散策とともに至福の滞在を叶える厳選名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-ehime-dogo-onsen-honkan-taimeshi-iyogyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-ehime-dogo-onsen-honkan-taimeshi-iyogyu-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -166,28 +166,28 @@ export default function WinterEhimeDogoOnsenPage() {
     '@graph': [
       {
         '@type': 'Article',
-        '@id': 'https://croud-travel.com/winter-ehime-dogo-onsen-honkan-taimeshi-iyogyu-stay#article',
+        '@id': 'https://croud-travel.pages.dev/winter-ehime-dogo-onsen-honkan-taimeshi-iyogyu-stay#article',
         'isPartOf': {
           '@type': 'WebSite',
-          '@id': 'https://croud-travel.com/#website',
+          '@id': 'https://croud-travel.pages.dev/#website',
           'name': 'クラドトラベル',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         },
         'headline': "【11・12月愛媛・道後温泉の日本三古湯と冬の瀬戸内味覚】名物宇和島鯛めし＆伊予牛・本館全館営業再開の名湯を巡る名宿5選",
         'description': "11月から12月にかけて、三千年の歴史を誇り『日本書紀』や『万葉集』にも記された日本三古湯の筆頭「愛媛・道後温泉（どうごおんせん）」は、保存修理工事を終えて約5年半ぶりに全館営業を再開した「道後温泉本館」を中心に、冬ならではの落ち着いた情緒と美食のハイシーズンを迎えます。源泉温度42〜51度のアルカリ性単純温泉は、肌に刺激の少ない滑らかな泉質で、湯冷めしにくく冬の身体をやさしく温めてくれます。11月・12月は瀬戸内海で潮流に揉まれた真鯛が最も脂を蓄える旬。名物の「宇和島風鯛めし」や香ばしい「松山鯛めし」、とろけるような肉質の「伊予牛（いよぎゅう）」、みかん果汁を飼料に育つ「みかん鰤」。レトロな坊っちゃん列車や松山城城下町の冬散策とともに至福の滞在を叶える厳選名宿5選を徹底解説します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.com/winter-ehime-dogo-onsen-honkan-taimeshi-iyogyu-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-ehime-dogo-onsen-honkan-taimeshi-iyogyu-stay',
         'datePublished': '2026-09-29T00:00:00+09:00',
         'dateModified': '2026-09-29T00:00:00+09:00',
         'publisher': {
           '@type': 'Organization',
           'name': 'クラドトラベル編集部',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         }
       },
       {
         '@type': 'TouristDestination',
-        '@id': 'https://croud-travel.com/winter-ehime-dogo-onsen-honkan-taimeshi-iyogyu-stay#destination',
+        '@id': 'https://croud-travel.pages.dev/winter-ehime-dogo-onsen-honkan-taimeshi-iyogyu-stay#destination',
         'name': '愛媛・道後温泉',
         'description': '日本三古湯の筆頭。保存修理が完了した道後温泉本館、名物宇和島鯛めし、伊予牛、刺激の少ない美肌名湯が魅力。',
         'geo': {
@@ -198,7 +198,7 @@ export default function WinterEhimeDogoOnsenPage() {
       },
       {
         '@type': 'FAQPage',
-        '@id': 'https://croud-travel.com/winter-ehime-dogo-onsen-honkan-taimeshi-iyogyu-stay#faq',
+        '@id': 'https://croud-travel.pages.dev/winter-ehime-dogo-onsen-honkan-taimeshi-iyogyu-stay#faq',
         'mainEntity': faqList.map((f) => ({
           '@type': 'Question',
           'name': f.q,
@@ -210,7 +210,7 @@ export default function WinterEhimeDogoOnsenPage() {
       },
       {
         '@type': 'ItemList',
-        '@id': 'https://croud-travel.com/winter-ehime-dogo-onsen-honkan-taimeshi-iyogyu-stay#hotellist',
+        '@id': 'https://croud-travel.pages.dev/winter-ehime-dogo-onsen-honkan-taimeshi-iyogyu-stay#hotellist',
         'name': '愛媛道後温泉のおすすめ名宿5選',
         'itemListElement': hotels.map((h, idx) => ({
           '@type': 'ListItem',

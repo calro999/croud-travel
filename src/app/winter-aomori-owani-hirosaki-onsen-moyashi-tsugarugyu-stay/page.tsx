@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月津軽】冬限定「大鰐温泉もやし」と開湯800年の名湯・津軽あっぷる牛＆弘前城冬さくらライトアップを巡る名宿5選",
     description: "11月中旬から12月の初冬、津軽富士・岩木山が白銀の雪化粧をまとい、津軽平野に凛とした冬の訪れを告げる季節。青森県南津軽郡大鰐町は、開湯800年を超える津軽最古の歴史を誇る名湯・大鰐温泉が湯煙に包まれます。この時期、全国の美食家が熱い視線を注ぐのが、冬期限定で本格収穫される幻の伝統野菜「大鰐温泉もやし」。門外不出の一子相伝で、温泉の熱水と温泉水のみを用いて土耕栽培されるこのもやしは、30cmを超える長さとシャキシャキとした抜群の歯応え、芳醇な豆の香りを誇り、江戸時代には津軽藩主への献上品とされた至高の逸品です。熱々の「大鰐温泉もやし鍋」や、リンゴを食べて育った霜降り黒毛和牛「津軽あっぷる牛」のすき焼き・ステーキは初冬の寒さを一瞬で忘れさせる贅沢。さらに車で30分ほどの弘前では、弘前城外濠の雪景色を桜色に照らし出す幻想的な「冬に咲くさくらライトアップ」が開催されます。歴史ある共同浴場や登録有形文化財の宿など、津軽の冬情趣を心ゆくまで堪能できる厳選5宿を徹底ガイドします。",
-    url: 'https://croud-travel.com/winter-aomori-owani-hirosaki-onsen-moyashi-tsugarugyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-aomori-owani-hirosaki-onsen-moyashi-tsugarugyu-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -44,23 +44,23 @@ export default function AomoriOwaniHirosakiWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-aomori-owani-hirosaki-onsen-moyashi-tsugarugyu-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-aomori-owani-hirosaki-onsen-moyashi-tsugarugyu-stay#article",
         "isPartOf": {
           "@type": "WebSite",
-          "@id": "https://croud-travel.com/#website",
+          "@id": "https://croud-travel.pages.dev/#website",
           "name": "クラドトラベル",
-          "url": "https://croud-travel.com/"
+          "url": "https://croud-travel.pages.dev/"
         },
         "headline": "【11・12月津軽】冬限定「大鰐温泉もやし」と開湯800年の名湯・津軽あっぷる牛＆弘前城冬さくらライトアップを巡る名宿5選",
         "description": "11月中旬から12月の初冬、津軽富士・岩木山が白銀の雪化粧をまとい、津軽平野に凛とした冬の訪れを告げる季節。青森県南津軽郡大鰐町は、開湯800年を超える津軽最古の歴史を誇る名湯・大鰐温泉が湯煙に包まれます。この時期、全国の美食家が熱い視線を注ぐのが、冬期限定で本格収穫される幻の伝統野菜「大鰐温泉もやし」。門外不出の一子相伝で、温泉の熱水と温泉水のみを用いて土耕栽培されるこのもやしは、30cmを超える長さとシャキシャキとした抜群の歯応え、芳醇な豆の香りを誇り、江戸時代には津軽藩主への献上品とされた至高の逸品です。熱々の「大鰐温泉もやし鍋」や、リンゴを食べて育った霜降り黒毛和牛「津軽あっぷる牛」のすき焼き・ステーキは初冬の寒さを一瞬で忘れさせる贅沢。さらに車で30分ほどの弘前では、弘前城外濠の雪景色を桜色に照らし出す幻想的な「冬に咲くさくらライトアップ」が開催されます。歴史ある共同浴場や登録有形文化財の宿など、津軽の冬情趣を心ゆくまで堪能できる厳選5宿を徹底ガイドします。",
         "datePublished": "2026-09-30T00:00:00+09:00",
         "dateModified": "2026-09-30T00:00:00+09:00",
         "inLanguage": "ja",
-        "mainEntityOfPage": "https://croud-travel.com/winter-aomori-owani-hirosaki-onsen-moyashi-tsugarugyu-stay",
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-aomori-owani-hirosaki-onsen-moyashi-tsugarugyu-stay",
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル編集部",
-          "url": "https://croud-travel.com/"
+          "url": "https://croud-travel.pages.dev/"
         }
       },
       {

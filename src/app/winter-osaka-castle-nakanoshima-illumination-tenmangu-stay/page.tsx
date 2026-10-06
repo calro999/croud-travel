@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月大阪】冬の大阪城イルミナージュ＆大阪天満宮新春初詣！水都中之島イルミネーションとなにわ冬グルメ名宿5選",
     description: "冬の水都・大阪は、大阪城西の丸庭園を光の歴史絵巻に変える「大阪城イルミナージュ」や堂島川・中之島を彩る「大阪・光の饗宴」の幻想美に包まれる季節。天神橋筋商店街の活気と学問の神様「大阪天満宮」の新春開運初詣、熱々のてっちり（ふぐ鍋）や串カツ、出汁香るきつねうどんなどなにわの冬の味覚を心ゆくまで堪能。楽天APIから最新取得した大阪城・中之島・天満エリアの格調高きホテル5選を徹底特集します。",
-    url: 'https://croud-travel.com/winter-osaka-castle-nakanoshima-illumination-tenmangu-stay',
+    url: 'https://croud-travel.pages.dev/winter-osaka-castle-nakanoshima-illumination-tenmangu-stay',
     type: 'article',
     images: [{ url: 'https://images.unsplash.com/photo-1590559899731-a382839e5549?auto=format&fit=crop&w=1200&q=80' }]
   }
@@ -149,15 +149,15 @@ export default function OsakaCastleNakanoshimaWinterPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://croud-travel.com/winter-osaka-castle-nakanoshima-illumination-tenmangu-stay#webpage",
-        "url": "https://croud-travel.com/winter-osaka-castle-nakanoshima-illumination-tenmangu-stay",
+        "@id": "https://croud-travel.pages.dev/winter-osaka-castle-nakanoshima-illumination-tenmangu-stay#webpage",
+        "url": "https://croud-travel.pages.dev/winter-osaka-castle-nakanoshima-illumination-tenmangu-stay",
         "name": "【11・12・1月大阪】冬の大阪城イルミナージュ＆大阪天満宮新春初詣！水都中之島イルミネーションとなにわ冬グルメ名宿5選",
         "description": "冬の水都・大阪は、大阪城西の丸庭園を光の歴史絵巻に変える「大阪城イルミナージュ」や堂島川・中之島を彩る「大阪・光の饗宴」の幻想美に包まれる季節。天神橋筋商店街の活気と学問の神様「大阪天満宮」の新春開運初詣、熱々のてっちり（ふぐ鍋）や串カツ、出汁香るきつねうどんなどなにわの冬の味覚を心ゆくまで堪能。楽天APIから最新取得した大阪城・中之島・天満エリアの格調高きホテル5選を徹底特集します。",
         "inLanguage": "ja",
         "isPartOf": {
           "@type": "WebSite",
-          "@id": "https://croud-travel.com/#website",
-          "url": "https://croud-travel.com/",
+          "@id": "https://croud-travel.pages.dev/#website",
+          "url": "https://croud-travel.pages.dev/",
           "name": "くらうどトラベル"
         }
       },
@@ -168,19 +168,19 @@ export default function OsakaCastleNakanoshimaWinterPage() {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com/"
+            "item": "https://croud-travel.pages.dev/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "大阪城イルミ＆天満宮初詣宿",
-            "item": "https://croud-travel.com/winter-osaka-castle-nakanoshima-illumination-tenmangu-stay"
+            "item": "https://croud-travel.pages.dev/winter-osaka-castle-nakanoshima-illumination-tenmangu-stay"
           }
         ]
       },

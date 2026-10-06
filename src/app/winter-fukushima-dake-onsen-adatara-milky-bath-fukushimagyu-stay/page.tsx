@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月岳温泉】安達太良山初冬の雪景色と奇跡の強酸性ミルキー美肌湯・極上福島牛＆川俣シャモ鍋・二本松銘酒を味わう名宿5選",
     description: "11月中旬から12月の初冬、高村光太郎の『智恵子抄』で「あだたらの山の上に 毎日出てゐる青い空が 智恵子のほんとの空だといふ」と謳われた名峰・安達太良山（あだたらやま）の麓に広がる福島県二本松市「岳温泉（だけおんせん）」は、山頂の初冠雪と澄み切った青空のコントラストが最も美しい季節を迎えます。全国でも極めて珍しいpH2.5の単純酸性泉が湧き出すこの温泉地は、安達太良山直下の元湯から約8kmもの距離を松の木の樋（木管）を通して約40分かけて自然流下させることで、激しい湯揉みが行われ、強酸性でありながら肌を包み込むような驚くほど柔らかな「奇跡のミルキー湯」へと熟成されます。冷え込む初冬の体を温めるのは、乳白色に濁る名湯露天風呂と、福島の大地が育んだ極上の味覚。美しい霜降りと芳醇な脂の甘みが際立つ「福島牛」の陶板焼き、噛むほどに野趣あふれる旨味が溢れ出すブランド地鶏「川俣シャモ」の熱々鍋、会津の伝統郷土料理「こづゆ」、そして二本松が誇る名蔵「大七」や「奥の松」の新酒しぼりたて。ほんとの空の下で心身を解き放つ初冬の厳選宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-fukushima-dake-onsen-adatara-milky-bath-fukushimagyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-fukushima-dake-onsen-adatara-milky-bath-fukushimagyu-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -45,23 +45,23 @@ export default function FukushimaDakeWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-fukushima-dake-onsen-adatara-milky-bath-fukushimagyu-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-fukushima-dake-onsen-adatara-milky-bath-fukushimagyu-stay#article",
         "isPartOf": {
           "@type": "WebSite",
-          "@id": "https://croud-travel.com/#website",
+          "@id": "https://croud-travel.pages.dev/#website",
           "name": "クラドトラベル",
-          "url": "https://croud-travel.com/"
+          "url": "https://croud-travel.pages.dev/"
         },
         "headline": "【11・12月岳温泉】安達太良山初冬の雪景色と奇跡の強酸性ミルキー美肌湯・極上福島牛＆川俣シャモ鍋・二本松銘酒を味わう名宿5選",
         "description": "11月中旬から12月の初冬、高村光太郎の『智恵子抄』で「あだたらの山の上に 毎日出てゐる青い空が 智恵子のほんとの空だといふ」と謳われた名峰・安達太良山（あだたらやま）の麓に広がる福島県二本松市「岳温泉（だけおんせん）」は、山頂の初冠雪と澄み切った青空のコントラストが最も美しい季節を迎えます。全国でも極めて珍しいpH2.5の単純酸性泉が湧き出すこの温泉地は、安達太良山直下の元湯から約8kmもの距離を松の木の樋（木管）を通して約40分かけて自然流下させることで、激しい湯揉みが行われ、強酸性でありながら肌を包み込むような驚くほど柔らかな「奇跡のミルキー湯」へと熟成されます。冷え込む初冬の体を温めるのは、乳白色に濁る名湯露天風呂と、福島の大地が育んだ極上の味覚。美しい霜降りと芳醇な脂の甘みが際立つ「福島牛」の陶板焼き、噛むほどに野趣あふれる旨味が溢れ出すブランド地鶏「川俣シャモ」の熱々鍋、会津の伝統郷土料理「こづゆ」、そして二本松が誇る名蔵「大七」や「奥の松」の新酒しぼりたて。ほんとの空の下で心身を解き放つ初冬の厳選宿5選を徹底解説します。",
         "datePublished": "2026-09-30T00:00:00+09:00",
         "dateModified": "2026-09-30T00:00:00+09:00",
         "inLanguage": "ja",
-        "mainEntityOfPage": "https://croud-travel.com/winter-fukushima-dake-onsen-adatara-milky-bath-fukushimagyu-stay",
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-fukushima-dake-onsen-adatara-milky-bath-fukushimagyu-stay",
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル編集部",
-          "url": "https://croud-travel.com/"
+          "url": "https://croud-travel.pages.dev/"
         }
       },
       {

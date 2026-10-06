@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月長野・信州 別所温泉の古湯情緒と北向観音初冬参拝】極上信州プレミアム牛＆名湯掛け流し硫黄泉で寛ぐ老舗旅館5選",
     description: "11月から12月にかけて、信州最古の温泉地として「信州の鎌倉」と称される長野県上田市の「別所温泉」は、山並みに初雪が冠し、石畳の小路に白い湯けむりが立ち込める風情豊かな初冬を迎えます。善光寺と向かい合う厄除けの名刹「北向観音堂」への初冬参拝や、日本唯一の国宝八角三重塔を抱く安楽寺の静寂。ほのかに硫黄が香る源泉掛け流しの名湯で芯から温まり、霜降りがとろける極上「信州プレミアム牛」や千曲川の清流が育む信州サーモン、旬のサンふじ林檎を堪能する名門旅館5選を詳しく解説します。",
-    url: 'https://croud-travel.com/winter-nagano-bessho-onsen-shinshu-beef-heritage-stay',
+    url: 'https://croud-travel.pages.dev/winter-nagano-bessho-onsen-shinshu-beef-heritage-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -62,10 +62,10 @@ export default function NaganoBesshoWinterFeature() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-nagano-bessho-onsen-shinshu-beef-heritage-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-nagano-bessho-onsen-shinshu-beef-heritage-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-nagano-bessho-onsen-shinshu-beef-heritage-stay"
+          "@id": "https://croud-travel.pages.dev/winter-nagano-bessho-onsen-shinshu-beef-heritage-stay"
         },
         "headline": "【11・12月長野・信州 別所温泉の古湯情緒と北向観音初冬参拝】極上信州プレミアム牛＆名湯掛け流し硫黄泉で寛ぐ老舗旅館5選",
         "description": "11月から12月にかけて、信州最古の温泉地として「信州の鎌倉」と称される長野県上田市の「別所温泉」は、山並みに初雪が冠し、石畳の小路に白い湯けむりが立ち込める風情豊かな初冬を迎えます。善光寺と向かい合う厄除けの名刹「北向観音堂」への初冬参拝や、日本唯一の国宝八角三重塔を抱く安楽寺の静寂。ほのかに硫黄が香る源泉掛け流しの名湯で芯から温まり、霜降りがとろける極上「信州プレミアム牛」や千曲川の清流が育む信州サーモン、旬のサンふじ林檎を堪能する名門旅館5選を詳しく解説します。",
@@ -77,7 +77,7 @@ export default function NaganoBesshoWinterFeature() {
           "name": "Croud Travel",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "author": {
@@ -88,31 +88,31 @@ export default function NaganoBesshoWinterFeature() {
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://croud-travel.com/winter-nagano-bessho-onsen-shinshu-beef-heritage-stay#breadcrumb",
+        "@id": "https://croud-travel.pages.dev/winter-nagano-bessho-onsen-shinshu-beef-heritage-stay#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com/"
+            "item": "https://croud-travel.pages.dev/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "長野・信州 別所温泉 信州牛会席と北向観音参詣の宿",
-            "item": "https://croud-travel.com/winter-nagano-bessho-onsen-shinshu-beef-heritage-stay"
+            "item": "https://croud-travel.pages.dev/winter-nagano-bessho-onsen-shinshu-beef-heritage-stay"
           }
         ]
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-nagano-bessho-onsen-shinshu-beef-heritage-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-nagano-bessho-onsen-shinshu-beef-heritage-stay#faq",
         "mainEntity": faqList.map(f => ({
           "@type": "Question",
           "name": f.q,

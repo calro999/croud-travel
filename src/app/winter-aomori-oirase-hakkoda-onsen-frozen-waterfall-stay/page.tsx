@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月奥入瀬渓流温泉と八甲田山樹氷の初冬秘湯】幻想的な氷瀑ライトアップ・白濁名湯露天風呂と青森倉石牛＆陸奥湾ホタテ会席の宿5選",
     description: "11月から12月にかけて青森県・十和田八甲田エリアは、奥入瀬渓流の滝が凍り始める神秘的な「氷瀑（ひょうばく）」や、八甲田山のブナ林やアオモリトドマツが純白の雪と氷を纏う「初期樹氷（スノーモンスター）」の季節を迎えます。千人風呂で知られる酸ヶ湯や足元湧出の蔦温泉、白銀のブナ原生林を望む八甲田リゾートの白濁硫黄泉、雪見露天風呂に浸かり、青森が誇る極上銘柄牛「倉石牛」や陸奥湾直送の甘みたっぷりの肉厚ホタテ、地酒を味わう至極の秘湯宿5選を徹底解説。",
-    url: 'https://croud-travel.com/winter-aomori-oirase-hakkoda-onsen-frozen-waterfall-stay',
+    url: 'https://croud-travel.pages.dev/winter-aomori-oirase-hakkoda-onsen-frozen-waterfall-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -68,7 +68,7 @@ export default function OiraseOnsenWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-aomori-oirase-hakkoda-onsen-frozen-waterfall-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-aomori-oirase-hakkoda-onsen-frozen-waterfall-stay#article",
         "headline": "【11・12月奥入瀬渓流温泉と八甲田山樹氷の初冬秘湯】幻想的な氷瀑ライトアップ・白濁名湯露天風呂と青森倉石牛＆陸奥湾ホタテ会席の宿5選",
         "description": "11月から12月にかけて青森県・十和田八甲田エリアは、奥入瀬渓流の滝が凍り始める神秘的な「氷瀑（ひょうばく）」や、八甲田山のブナ林やアオモリトドマツが純白の雪と氷を纏う「初期樹氷（スノーモンスター）」の季節を迎えます。千人風呂で知られる酸ヶ湯や足元湧出の蔦温泉、白銀のブナ原生林を望む八甲田リゾートの白濁硫黄泉、雪見露天風呂に浸かり、青森が誇る極上銘柄牛「倉石牛」や陸奥湾直送の甘みたっぷりの肉厚ホタテ、地酒を味わう至極の秘湯宿5選を徹底解説。",
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
@@ -77,24 +77,24 @@ export default function OiraseOnsenWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-aomori-oirase-hakkoda-onsen-frozen-waterfall-stay"
+          "@id": "https://croud-travel.pages.dev/winter-aomori-oirase-hakkoda-onsen-frozen-waterfall-stay"
         }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-aomori-oirase-hakkoda-onsen-frozen-waterfall-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-aomori-oirase-hakkoda-onsen-frozen-waterfall-stay#faq",
         "mainEntity": faqList.map(item => ({
           "@type": "Question",
           "name": item.q,

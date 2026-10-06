@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月長崎】冬の味覚「九十九島かき」焼き牡蠣小屋と世界最大イルミ「ハウステンボス光の王国」・佐世保名物＆九十九島温泉リゾート宿5選",
     description: "11月から1月、長崎県佐世保市・九十九島は、濃厚な甘みと旨味がギュッと詰まった旬の「九十九島かき」の焼き牡蠣小屋と、世界最大1300万球が輝く「ハウステンボス光の王国」で一年で最もロマンチックな季節を迎えます。西海国立公園の島々を茜色に染める夕陽パノラマ、佐世保名物レモンステーキや元祖佐世保バーガー。九十九島温泉やハウステンボス直営の名宿5選と冬のモデルコースを徹底ガイドします。",
-    url: 'https://croud-travel.com/winter-nagasaki-sasebo-kujukushima-oyster-illumination-stay',
+    url: 'https://croud-travel.pages.dev/winter-nagasaki-sasebo-kujukushima-oyster-illumination-stay',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -50,19 +50,19 @@ export default function NagasakiSaseboKujukushimaWinterPage() {
     author: {
       '@type': 'Organization',
       name: 'クラドトラベル編集部',
-      url: 'https://croud-travel.com'
+      url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
       name: 'クラドトラベル',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://croud-travel.com/logo.png'
+        url: 'https://croud-travel.pages.dev/logo.png'
       }
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.com/winter-nagasaki-sasebo-kujukushima-oyster-illumination-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-nagasaki-sasebo-kujukushima-oyster-illumination-stay'
     }
   };
 
@@ -74,19 +74,19 @@ export default function NagasakiSaseboKujukushimaWinterPage() {
         '@type': 'ListItem',
         position: 1,
         name: 'ホーム',
-        item: 'https://croud-travel.com'
+        item: 'https://croud-travel.pages.dev'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.com/features'
+        item: 'https://croud-travel.pages.dev/features'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '長崎・九十九島かき＆ハウステンボス特集',
-        item: 'https://croud-travel.com/winter-nagasaki-sasebo-kujukushima-oyster-illumination-stay'
+        item: 'https://croud-travel.pages.dev/winter-nagasaki-sasebo-kujukushima-oyster-illumination-stay'
       }
     ]
   };

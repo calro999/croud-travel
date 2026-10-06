@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月小豆島温泉の初冬寒霞渓奇岩絶景とエンジェルロード夕日】海一望露天風呂・小豆島オリーブ牛ステーキ＆冬の讃岐でんぶく会席の宿5選",
     description: "11月下旬から12月にかけて瀬戸内海の小豆島は、温暖で穏やかな気候の中、日本三大渓谷美「寒霞渓」の紅葉から初冬の岩肌へと移ろうダイナミックな景観と、オリーブの収穫・搾りたて初摘みオリーブオイルの豊かな香りに包まれます。干潮時に海の中から現れる神秘の砂の道「エンジェルロード」の冬の澄んだ夕景、瀬戸内海を行き交う船を眺めながら癒やされる絶景温泉露天風呂、オリーブの搾り果実で育った最高級黒毛和牛「小豆島オリーブ牛」、冬の瀬戸内海の隠れた極上フグ「讃岐でんぶく」、島仕込み手延べそうめんや木桶仕込み醤油会席を味わう至高のアイランド名宿5選を徹底解説。",
-    url: 'https://croud-travel.com/winter-kagawa-shodoshima-onsen-kankakei-olive-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-kagawa-shodoshima-onsen-kankakei-olive-beef-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -62,10 +62,10 @@ export default function ShodoshimaOnsenWinterFeature() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-kagawa-shodoshima-onsen-kankakei-olive-beef-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-kagawa-shodoshima-onsen-kankakei-olive-beef-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-kagawa-shodoshima-onsen-kankakei-olive-beef-stay"
+          "@id": "https://croud-travel.pages.dev/winter-kagawa-shodoshima-onsen-kankakei-olive-beef-stay"
         },
         "headline": "【11・12月小豆島温泉の初冬寒霞渓奇岩絶景とエンジェルロード夕日】海一望露天風呂・小豆島オリーブ牛ステーキ＆冬の讃岐でんぶく会席の宿5選",
         "description": "11月下旬から12月にかけて瀬戸内海の小豆島は、温暖で穏やかな気候の中、日本三大渓谷美「寒霞渓」の紅葉から初冬の岩肌へと移ろうダイナミックな景観と、オリーブの収穫・搾りたて初摘みオリーブオイルの豊かな香りに包まれます。干潮時に海の中から現れる神秘の砂の道「エンジェルロード」の冬の澄んだ夕景、瀬戸内海を行き交う船を眺めながら癒やされる絶景温泉露天風呂、オリーブの搾り果実で育った最高級黒毛和牛「小豆島オリーブ牛」、冬の瀬戸内海の隠れた極上フグ「讃岐でんぶく」、島仕込み手延べそうめんや木桶仕込み醤油会席を味わう至高のアイランド名宿5選を徹底解説。",
@@ -77,7 +77,7 @@ export default function ShodoshimaOnsenWinterFeature() {
           "name": "Croud Travel",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "author": {
@@ -88,31 +88,31 @@ export default function ShodoshimaOnsenWinterFeature() {
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://croud-travel.com/winter-kagawa-shodoshima-onsen-kankakei-olive-beef-stay#breadcrumb",
+        "@id": "https://croud-travel.pages.dev/winter-kagawa-shodoshima-onsen-kankakei-olive-beef-stay#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com/"
+            "item": "https://croud-travel.pages.dev/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "香川・小豆島温泉 初冬寒霞渓とエンジェルロードの宿",
-            "item": "https://croud-travel.com/winter-kagawa-shodoshima-onsen-kankakei-olive-beef-stay"
+            "item": "https://croud-travel.pages.dev/winter-kagawa-shodoshima-onsen-kankakei-olive-beef-stay"
           }
         ]
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-kagawa-shodoshima-onsen-kankakei-olive-beef-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-kagawa-shodoshima-onsen-kankakei-olive-beef-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",

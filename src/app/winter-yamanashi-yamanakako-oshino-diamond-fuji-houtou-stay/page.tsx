@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月山梨】冬の澄天に輝く「ダイヤモンド富士」と雪化粧の忍野八海・熱々「甲州ほうとう鍋」＆富士山を望む絶景温泉宿5選",
     description: "11月から1月、山梨県山中湖・忍野村は、夕陽が富士山頂に重なり黄金色に輝く奇跡の天体ショー「ダイヤモンド富士」と、朝陽に白雪が紅く染まる「紅富士」の最盛期を迎えます。世界文化遺産・忍野八海の神秘的なコバルトブルーの湧水池と白銀の茅葺き民家、冷えた体を芯から温める熱々の甲州ほうとう鍋や甲州ワインビーフ。富士山と湖を一望する絶景露天風呂を備えた厳選名宿5選を徹底ガイドします。",
-    url: 'https://croud-travel.com/winter-yamanashi-yamanakako-oshino-diamond-fuji-houtou-stay',
+    url: 'https://croud-travel.pages.dev/winter-yamanashi-yamanakako-oshino-diamond-fuji-houtou-stay',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -50,19 +50,19 @@ export default function YamanashiYamanakakoOshinoWinterPage() {
     author: {
       '@type': 'Organization',
       name: 'クラドトラベル編集部',
-      url: 'https://croud-travel.com'
+      url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
       name: 'クラドトラベル',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://croud-travel.com/logo.png'
+        url: 'https://croud-travel.pages.dev/logo.png'
       }
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.com/winter-yamanashi-yamanakako-oshino-diamond-fuji-houtou-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-yamanashi-yamanakako-oshino-diamond-fuji-houtou-stay'
     }
   };
 
@@ -74,19 +74,19 @@ export default function YamanashiYamanakakoOshinoWinterPage() {
         '@type': 'ListItem',
         position: 1,
         name: 'ホーム',
-        item: 'https://croud-travel.com'
+        item: 'https://croud-travel.pages.dev'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.com/features'
+        item: 'https://croud-travel.pages.dev/features'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '山梨・山中湖ダイヤモンド富士＆忍野八海特集',
-        item: 'https://croud-travel.com/winter-yamanashi-yamanakako-oshino-diamond-fuji-houtou-stay'
+        item: 'https://croud-travel.pages.dev/winter-yamanashi-yamanakako-oshino-diamond-fuji-houtou-stay'
       }
     ]
   };

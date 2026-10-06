@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月沖縄那覇】新春波上宮初詣＆首里城復興見学！国際通り・あぐー豚しゃぶしゃぶとあったか避冬ホテル5選",
     description: "本土が厳しい寒さに震える11月・12月・1月、平均気温18℃前後の温暖な陽光が注ぐ沖縄・那覇エリアは極上の「避冬（ひとう）リゾート」。琉球八社の最高位・波上宮（なみのうえぐう）の新春開運初詣、2026年正殿復元に向けて活気あふれる首里城「見せる復興」の見学、活気あふれる国際通りや壺屋やちむん通り散策を満喫。甘みたっぷりの純血あぐー豚しゃぶしゃぶや沖縄そばに舌鼓を打ち、地下から湧く琉球天然温泉やハイセンスなホテルで寛ぐ大人の冬旅。楽天APIから最新取得した那覇の信頼の名宿5選を徹底特集します。",
-    url: 'https://croud-travel.com/winter-okinawa-naha-naminoe-shrine-hatsumode-agu-resort-stay',
+    url: 'https://croud-travel.pages.dev/winter-okinawa-naha-naminoe-shrine-hatsumode-agu-resort-stay',
     type: 'article',
     images: [{ url: 'https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&q=80' }]
   }
@@ -149,15 +149,15 @@ export default function OkinawaNahaWinterPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://croud-travel.com/winter-okinawa-naha-naminoe-shrine-hatsumode-agu-resort-stay#webpage",
-        "url": "https://croud-travel.com/winter-okinawa-naha-naminoe-shrine-hatsumode-agu-resort-stay",
+        "@id": "https://croud-travel.pages.dev/winter-okinawa-naha-naminoe-shrine-hatsumode-agu-resort-stay#webpage",
+        "url": "https://croud-travel.pages.dev/winter-okinawa-naha-naminoe-shrine-hatsumode-agu-resort-stay",
         "name": "【11・12・1月沖縄那覇】新春波上宮初詣＆首里城復興見学！国際通り・あぐー豚しゃぶしゃぶとあったか避冬ホテル5選",
         "description": "本土が厳しい寒さに震える11月・12月・1月、平均気温18℃前後の温暖な陽光が注ぐ沖縄・那覇エリアは極上の「避冬（ひとう）リゾート」。琉球八社の最高位・波上宮（なみのうえぐう）の新春開運初詣、2026年正殿復元に向けて活気あふれる首里城「見せる復興」の見学、活気あふれる国際通りや壺屋やちむん通り散策を満喫。甘みたっぷりの純血あぐー豚しゃぶしゃぶや沖縄そばに舌鼓を打ち、地下から湧く琉球天然温泉やハイセンスなホテルで寛ぐ大人の冬旅。楽天APIから最新取得した那覇の信頼の名宿5選を徹底特集します。",
         "inLanguage": "ja",
         "isPartOf": {
           "@type": "WebSite",
-          "@id": "https://croud-travel.com/#website",
-          "url": "https://croud-travel.com/",
+          "@id": "https://croud-travel.pages.dev/#website",
+          "url": "https://croud-travel.pages.dev/",
           "name": "くらうどトラベル"
         }
       },
@@ -168,19 +168,19 @@ export default function OkinawaNahaWinterPage() {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com/"
+            "item": "https://croud-travel.pages.dev/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "那覇波上宮初詣＆避冬リゾート宿",
-            "item": "https://croud-travel.com/winter-okinawa-naha-naminoe-shrine-hatsumode-agu-resort-stay"
+            "item": "https://croud-travel.pages.dev/winter-okinawa-naha-naminoe-shrine-hatsumode-agu-resort-stay"
           }
         ]
       },

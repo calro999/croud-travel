@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月長崎雲仙温泉の冬名湯と普賢岳霧氷】雲仙地獄の湯煙・乳白色の硫黄泉露天と極上雲仙あかね牛・島原郷土会席の宿5選",
     description: "11月下旬から12月にかけて雲仙普賢岳や仁田峠を純白に染める自然の芸術「霧氷（花ぼうろ）」と、冬の冷気の中で白い湯煙を轟音とともに噴き上げる「雲仙地獄」。日本最初の国立公園に位置する歴史ある高原温泉街で、冷えた体を芯から解き放つ濃厚な乳白色の強酸性硫黄泉、幻の極上黒毛和牛「雲仙あかね牛」、島原伝統の具雑煮会席を満喫する厳選名宿5選を徹底解説。",
-    url: 'https://croud-travel.com/winter-nagasaki-unzen-onsen-jigoku-mist-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-nagasaki-unzen-onsen-jigoku-mist-beef-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -68,7 +68,7 @@ export default function UnzenOnsenWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-nagasaki-unzen-onsen-jigoku-mist-beef-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-nagasaki-unzen-onsen-jigoku-mist-beef-stay#article",
         "headline": "【11・12月長崎雲仙温泉の冬名湯と普賢岳霧氷】雲仙地獄の湯煙・乳白色の硫黄泉露天と極上雲仙あかね牛・島原郷土会席の宿5選",
         "description": "11月下旬から12月にかけて雲仙普賢岳や仁田峠を純白に染める自然の芸術「霧氷（花ぼうろ）」と、冬の冷気の中で白い湯煙を轟音とともに噴き上げる「雲仙地獄」。日本最初の国立公園に位置する歴史ある高原温泉街で、冷えた体を芯から解き放つ濃厚な乳白色の強酸性硫黄泉、幻の極上黒毛和牛「雲仙あかね牛」、島原伝統の具雑煮会席を満喫する厳選名宿5選を徹底解説。",
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
@@ -77,24 +77,24 @@ export default function UnzenOnsenWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-nagasaki-unzen-onsen-jigoku-mist-beef-stay"
+          "@id": "https://croud-travel.pages.dev/winter-nagasaki-unzen-onsen-jigoku-mist-beef-stay"
         }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-nagasaki-unzen-onsen-jigoku-mist-beef-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-nagasaki-unzen-onsen-jigoku-mist-beef-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -140,7 +140,7 @@ export default function UnzenOnsenWinterPage() {
       },
       {
         "@type": "ItemList",
-        "@id": "https://croud-travel.com/winter-nagasaki-unzen-onsen-jigoku-mist-beef-stay#hotels",
+        "@id": "https://croud-travel.pages.dev/winter-nagasaki-unzen-onsen-jigoku-mist-beef-stay#hotels",
         "itemListElement": [
           {
             "@type": "ListItem",

@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月静岡】白雪の富士山絶景＆富士山本宮浅間大社新春初詣！田貫湖逆さ富士と特選「静岡そだち」牛を堪能する名宿5選",
     description: "冬の静岡・富士宮は、年間で最も空気が澄み渡り、純白の雪をまとった霊峰富士が真っ青な空に最も美しく映える奇跡のシーズン。全国1,300社を超える浅間神社の総本宮「富士山本宮浅間大社」での新春開運初詣と国指定特別天然記念物・湧玉池の神聖な湧水、鏡のような湖面に雪富士が映る田貫湖の白雪逆さ富士、氷瀑のような白糸の滝、雄大な朝霧高原。静岡が誇る特選黒毛和牛「静岡そだち」の極上すき焼きや熱々の名物富士宮やきそば、富士山を望む展望露天風呂に癒やされる冬の厳選名宿5選を徹底案内します。",
-    url: 'https://croud-travel.com/winter-shizuoka-fujinomiya-sengen-taisha-fuji-view-wagyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-shizuoka-fujinomiya-sengen-taisha-fuji-view-wagyu-stay',
     type: 'article',
     images: [{ url: 'https://images.unsplash.com/photo-1490806843957-31f4c9a91c65?auto=format&fit=crop&w=1200&q=630', width: 1200, height: 630, alt: '富士山本宮浅間大社と白雪富士山絶景' }]
   },
@@ -156,9 +156,9 @@ export default function ShizuokaFujinomiyaPage() {
       {
         '@type': 'BreadcrumbList',
         'itemListElement': [
-          { '@type': 'ListItem', 'position': 1, 'name': 'ホーム', 'item': 'https://croud-travel.com' },
-          { '@type': 'ListItem', 'position': 2, 'name': '特集一覧', 'item': 'https://croud-travel.com/features' },
-          { '@type': 'ListItem', 'position': 3, 'name': '富士宮・浅間大社初詣と白雪富士山名宿', 'item': 'https://croud-travel.com/winter-shizuoka-fujinomiya-sengen-taisha-fuji-view-wagyu-stay' }
+          { '@type': 'ListItem', 'position': 1, 'name': 'ホーム', 'item': 'https://croud-travel.pages.dev' },
+          { '@type': 'ListItem', 'position': 2, 'name': '特集一覧', 'item': 'https://croud-travel.pages.dev/features' },
+          { '@type': 'ListItem', 'position': 3, 'name': '富士宮・浅間大社初詣と白雪富士山名宿', 'item': 'https://croud-travel.pages.dev/winter-shizuoka-fujinomiya-sengen-taisha-fuji-view-wagyu-stay' }
         ]
       },
       {

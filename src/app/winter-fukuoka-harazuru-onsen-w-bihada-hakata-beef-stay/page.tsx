@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月福岡・原鶴温泉の筑後川冬情緒と奇跡のW美肌の湯】博多和牛会席＆掛け流し展望露天の湯巡り宿5選",
     description: "11月から12月にかけて、福岡市内から高速で約60分、九州一の大河・筑後川のほとりに佇む「原鶴温泉（はらづるおんせん）」は、川面に初冬の朝霧が立ち込め、柿やすだちが実る筑後平野の豊かな風情に包まれます。原鶴温泉の最大の魅力は、角質を落とす「弱アルカリ性単純温泉」と、美白効果を高める「単純硫黄泉」という2つの美肌成分を併せ持つ全国的にも極めて希少な「W美肌の湯（ダブル美肌の湯）」。冬の冷えや乾燥で疲れた肌を驚くほど滑らかに潤す名湯と、福岡が誇る最高峰「博多和牛」のすき焼きや陶板焼き、朝倉の旬の冬野菜をふんだんに使った会席料理を堪能できる、厳選の名旅館・温泉ホテル5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-fukuoka-harazuru-onsen-w-bihada-hakata-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-fukuoka-harazuru-onsen-w-bihada-hakata-beef-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -62,10 +62,10 @@ export default function FukuokaHarazuruWinterFeature() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-fukuoka-harazuru-onsen-w-bihada-hakata-beef-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-fukuoka-harazuru-onsen-w-bihada-hakata-beef-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-fukuoka-harazuru-onsen-w-bihada-hakata-beef-stay"
+          "@id": "https://croud-travel.pages.dev/winter-fukuoka-harazuru-onsen-w-bihada-hakata-beef-stay"
         },
         "headline": "【11・12月福岡・原鶴温泉の筑後川冬情緒と奇跡のW美肌の湯】博多和牛会席＆掛け流し展望露天の湯巡り宿5選",
         "description": "11月から12月にかけて、福岡市内から高速で約60分、九州一の大河・筑後川のほとりに佇む「原鶴温泉（はらづるおんせん）」は、川面に初冬の朝霧が立ち込め、柿やすだちが実る筑後平野の豊かな風情に包まれます。原鶴温泉の最大の魅力は、角質を落とす「弱アルカリ性単純温泉」と、美白効果を高める「単純硫黄泉」という2つの美肌成分を併せ持つ全国的にも極めて希少な「W美肌の湯（ダブル美肌の湯）」。冬の冷えや乾燥で疲れた肌を驚くほど滑らかに潤す名湯と、福岡が誇る最高峰「博多和牛」のすき焼きや陶板焼き、朝倉の旬の冬野菜をふんだんに使った会席料理を堪能できる、厳選の名旅館・温泉ホテル5選を徹底解説します。",
@@ -77,7 +77,7 @@ export default function FukuokaHarazuruWinterFeature() {
           "name": "Croud Travel",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "author": {
@@ -88,31 +88,31 @@ export default function FukuokaHarazuruWinterFeature() {
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://croud-travel.com/winter-fukuoka-harazuru-onsen-w-bihada-hakata-beef-stay#breadcrumb",
+        "@id": "https://croud-travel.pages.dev/winter-fukuoka-harazuru-onsen-w-bihada-hakata-beef-stay#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com/"
+            "item": "https://croud-travel.pages.dev/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "福岡・原鶴温泉 筑後川冬情緒と奇跡のW美肌の湯・博多和牛会席の宿",
-            "item": "https://croud-travel.com/winter-fukuoka-harazuru-onsen-w-bihada-hakata-beef-stay"
+            "item": "https://croud-travel.pages.dev/winter-fukuoka-harazuru-onsen-w-bihada-hakata-beef-stay"
           }
         ]
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-fukuoka-harazuru-onsen-w-bihada-hakata-beef-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-fukuoka-harazuru-onsen-w-bihada-hakata-beef-stay#faq",
         "mainEntity": faqList.map(f => ({
           "@type": "Question",
           "name": f.q,

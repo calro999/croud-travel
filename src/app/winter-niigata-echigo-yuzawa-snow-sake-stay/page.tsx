@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月越後湯沢温泉の雪国情緒と地酒巡り】川端康成ゆかりの名湯・南魚沼産コシヒカリ新米と越後もち豚会席の宿5選",
     description: "東京から新幹線で最速約70分、川端康成の小説『雪国』の舞台として名高い新潟・越後湯沢温泉。11月の収穫期を祝う日本一の南魚沼産コシヒカリ新米と新酒の季節、12月に入ると始まる息をのむ白銀の雪国世界。越後地酒の利き酒や名物日本酒風呂、越後もち豚しゃぶしゃぶに舌鼓を打つ極上の初冬温泉旅ガイド。",
-    url: 'https://croud-travel.com/winter-niigata-echigo-yuzawa-snow-sake-stay',
+    url: 'https://croud-travel.pages.dev/winter-niigata-echigo-yuzawa-snow-sake-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -44,7 +44,7 @@ export default function YuzawaWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-niigata-echigo-yuzawa-snow-sake-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-niigata-echigo-yuzawa-snow-sake-stay#article",
         "headline": "【11・12月越後湯沢温泉の雪国情緒と地酒巡り】川端康成ゆかりの名湯・南魚沼産コシヒカリ新米と越後もち豚会席の宿5選",
         "description": "東京から新幹線で最速約70分、川端康成の小説『雪国』の舞台として名高い新潟・越後湯沢温泉。11月の収穫期を祝う日本一の南魚沼産コシヒカリ新米と新酒の季節、12月に入ると始まる息をのむ白銀の雪国世界。越後地酒の利き酒や名物日本酒風呂、越後もち豚しゃぶしゃぶに舌鼓を打つ極上の初冬温泉旅ガイド。",
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
@@ -53,24 +53,24 @@ export default function YuzawaWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-niigata-echigo-yuzawa-snow-sake-stay"
+          "@id": "https://croud-travel.pages.dev/winter-niigata-echigo-yuzawa-snow-sake-stay"
         }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-niigata-echigo-yuzawa-snow-sake-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-niigata-echigo-yuzawa-snow-sake-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -108,7 +108,7 @@ export default function YuzawaWinterPage() {
       },
       {
         "@type": "ItemList",
-        "@id": "https://croud-travel.com/winter-niigata-echigo-yuzawa-snow-sake-stay#hotels",
+        "@id": "https://croud-travel.pages.dev/winter-niigata-echigo-yuzawa-snow-sake-stay#hotels",
         "itemListElement": [
           {
             "@type": "ListItem",

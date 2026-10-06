@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月群馬】織物の都・桐生新町と床もみじの名刹「宝徳寺」新春初詣！冬の熱々「幅広ひもかわうどん」＆上州牛・両毛名宿5選",
     description: "「西の西陣、東の桐生」と称された織物の都・桐生が最も静謐で趣深い表情を見せる11〜1月の冬旅特集。ピカピカに磨かれた本堂の漆床に雪景色や新春の光が映り込む名刹「宝徳寺」の新春特別祈祷、重要伝統的建造物群保存地区「桐生新町」ののこぎり屋根工場と白壁土蔵、幅十センチ以上にも及ぶ桐生名物「ひもかわうどん」の熱々肉汁仕立て、豊かな赤身と上質なサシを誇る「上州牛」すき焼き。桐生・みどり市エリアの滞在拠点に最適な厳選ホテル・名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-gunma-kiryu-houtokuji-hatsumode-himokawa-udon-joshugyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-gunma-kiryu-houtokuji-hatsumode-himokawa-udon-joshugyu-stay',
     type: 'article',
     images: [
       {
@@ -48,19 +48,19 @@ export default function GunmaKiryuWinterPage() {
     "author": {
       "@type": "Organization",
       "name": "旅宿クラウド 編集部",
-      "url": "https://croud-travel.com"
+      "url": "https://croud-travel.pages.dev"
     },
     "publisher": {
       "@type": "Organization",
       "name": "旅宿クラウド",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://croud-travel.com/logo.png"
+        "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.com/winter-gunma-kiryu-houtokuji-hatsumode-himokawa-udon-joshugyu-stay"
+      "@id": "https://croud-travel.pages.dev/winter-gunma-kiryu-houtokuji-hatsumode-himokawa-udon-joshugyu-stay"
     }
   };
 
@@ -72,19 +72,19 @@ export default function GunmaKiryuWinterPage() {
         "@type": "ListItem",
         "position": 1,
         "name": "ホーム",
-        "item": "https://croud-travel.com"
+        "item": "https://croud-travel.pages.dev"
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "特集一覧",
-        "item": "https://croud-travel.com/features"
+        "item": "https://croud-travel.pages.dev/features"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "群馬・桐生＆宝徳寺 冬特集",
-        "item": "https://croud-travel.com/winter-gunma-kiryu-houtokuji-hatsumode-himokawa-udon-joshugyu-stay"
+        "item": "https://croud-travel.pages.dev/winter-gunma-kiryu-houtokuji-hatsumode-himokawa-udon-joshugyu-stay"
       }
     ]
   };
@@ -691,7 +691,7 @@ export default function GunmaKiryuWinterPage() {
 
       {/* Footer */}
       <footer className="bg-slate-900 text-slate-400 py-10 px-4 text-center text-xs border-t border-slate-800 mt-16">
-        <p>© 2026 旅宿クラウド (croud-travel.com). All rights reserved.</p>
+        <p>© 2026 旅宿クラウド (croud-travel.pages.dev). All rights reserved.</p>
         <p className="mt-2 text-slate-500">掲載の宿泊料金や施設情報は楽天トラベルAPIより取得した参考データです。最新のプラン内容は各宿泊施設ページをご確認ください。</p>
       </footer>
     </article>

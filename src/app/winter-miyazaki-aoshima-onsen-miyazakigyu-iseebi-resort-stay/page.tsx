@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月宮崎・青島温泉の南国温暖避寒と鬼の洗濯板絶景】最高峰宮崎牛・日向灘伊勢海老＆美肌炭酸泉リゾートの宿5選",
     description: "11月から12月にかけて、日南海岸の玄関口に位置する宮崎・青島温泉は、本州が本格的な冬の寒気に包まれるなか、日中は18〜20℃前後まで気温が上がる温暖な南国リゾート気候に恵まれ、極上の避寒旅行シーズンを迎えます。国の天然記念物「鬼の洗濯板」に囲まれた神秘の青島神社、太平洋・日向灘の青い水平線を望む絶景展望露天風呂、そしてまるで天然の美容液のようなトロトロの美肌炭酸水素塩泉。夕食には4大会連続内閣総理大臣賞に輝く日本一の「宮崎牛」鉄板焼きや、秋から冬にかけて旬を迎える日向灘獲れの「天然伊勢海老」に舌鼓。心も身体も温まる厳選おすすめホテル・温泉旅館5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-miyazaki-aoshima-onsen-miyazakigyu-iseebi-resort-stay',
+    url: 'https://croud-travel.pages.dev/winter-miyazaki-aoshima-onsen-miyazakigyu-iseebi-resort-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -62,10 +62,10 @@ export default function MiyazakiAoshimaWinterFeature() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-miyazaki-aoshima-onsen-miyazakigyu-iseebi-resort-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-miyazaki-aoshima-onsen-miyazakigyu-iseebi-resort-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-miyazaki-aoshima-onsen-miyazakigyu-iseebi-resort-stay"
+          "@id": "https://croud-travel.pages.dev/winter-miyazaki-aoshima-onsen-miyazakigyu-iseebi-resort-stay"
         },
         "headline": "【11・12月宮崎・青島温泉の南国温暖避寒と鬼の洗濯板絶景】最高峰宮崎牛・日向灘伊勢海老＆美肌炭酸泉リゾートの宿5選",
         "description": "11月から12月にかけて、日南海岸の玄関口に位置する宮崎・青島温泉は、本州が本格的な冬の寒気に包まれるなか、日中は18〜20℃前後まで気温が上がる温暖な南国リゾート気候に恵まれ、極上の避寒旅行シーズンを迎えます。国の天然記念物「鬼の洗濯板」に囲まれた神秘の青島神社、太平洋・日向灘の青い水平線を望む絶景展望露天風呂、そしてまるで天然の美容液のようなトロトロの美肌炭酸水素塩泉。夕食には4大会連続内閣総理大臣賞に輝く日本一の「宮崎牛」鉄板焼きや、秋から冬にかけて旬を迎える日向灘獲れの「天然伊勢海老」に舌鼓。心も身体も温まる厳選おすすめホテル・温泉旅館5選を徹底解説します。",
@@ -77,7 +77,7 @@ export default function MiyazakiAoshimaWinterFeature() {
           "name": "Croud Travel",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "author": {
@@ -88,31 +88,31 @@ export default function MiyazakiAoshimaWinterFeature() {
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://croud-travel.com/winter-miyazaki-aoshima-onsen-miyazakigyu-iseebi-resort-stay#breadcrumb",
+        "@id": "https://croud-travel.pages.dev/winter-miyazaki-aoshima-onsen-miyazakigyu-iseebi-resort-stay#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com/"
+            "item": "https://croud-travel.pages.dev/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "宮崎・青島温泉 南国温暖避寒と鬼の洗濯板絶景・宮崎牛会席の宿",
-            "item": "https://croud-travel.com/winter-miyazaki-aoshima-onsen-miyazakigyu-iseebi-resort-stay"
+            "item": "https://croud-travel.pages.dev/winter-miyazaki-aoshima-onsen-miyazakigyu-iseebi-resort-stay"
           }
         ]
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-miyazaki-aoshima-onsen-miyazakigyu-iseebi-resort-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-miyazaki-aoshima-onsen-miyazakigyu-iseebi-resort-stay#faq",
         "mainEntity": faqList.map(f => ({
           "@type": "Question",
           "name": f.q,

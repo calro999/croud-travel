@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月兵庫・湯村温泉の荒湯源泉情緒と解禁松葉ガニ】本場但馬牛すき焼き＆美肌高温泉の隠れ家宿5選",
     description: "11月から12月にかけて、兵庫県北部の山懐に抱かれた山陰の名湯「湯村温泉（ゆむらおんせん）」は、日本海の冬の王様「松葉ガニ（ズワイガニ）」の漁解禁と、もうもうと立ち上る荒湯の湯けむりが旅情をかきたてる至高の冬シーズンを迎えます。中心を流れる春来川沿いには、日本屈指の高温98度を誇る元湯「荒湯」が湧き、名物の温泉卵や練り菓子づくりを体験。全国の黒毛和牛の頂点に君臨する本場「但馬牛」のとろけるステーキやすき焼き、近隣の浜坂港から直送される獲れたての松葉ガニフルコース、そして肌をしっとり潤す弱アルカリ性の美肌高温泉を満喫できる、厳選の名旅館・温泉ホテル5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-hyogo-yumura-onsen-tajima-beef-matsuba-crab-stay',
+    url: 'https://croud-travel.pages.dev/winter-hyogo-yumura-onsen-tajima-beef-matsuba-crab-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -62,10 +62,10 @@ export default function HyogoYumuraWinterFeature() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-hyogo-yumura-onsen-tajima-beef-matsuba-crab-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-hyogo-yumura-onsen-tajima-beef-matsuba-crab-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-hyogo-yumura-onsen-tajima-beef-matsuba-crab-stay"
+          "@id": "https://croud-travel.pages.dev/winter-hyogo-yumura-onsen-tajima-beef-matsuba-crab-stay"
         },
         "headline": "【11・12月兵庫・湯村温泉の荒湯源泉情緒と解禁松葉ガニ】本場但馬牛すき焼き＆美肌高温泉の隠れ家宿5選",
         "description": "11月から12月にかけて、兵庫県北部の山懐に抱かれた山陰の名湯「湯村温泉（ゆむらおんせん）」は、日本海の冬の王様「松葉ガニ（ズワイガニ）」の漁解禁と、もうもうと立ち上る荒湯の湯けむりが旅情をかきたてる至高の冬シーズンを迎えます。中心を流れる春来川沿いには、日本屈指の高温98度を誇る元湯「荒湯」が湧き、名物の温泉卵や練り菓子づくりを体験。全国の黒毛和牛の頂点に君臨する本場「但馬牛」のとろけるステーキやすき焼き、近隣の浜坂港から直送される獲れたての松葉ガニフルコース、そして肌をしっとり潤す弱アルカリ性の美肌高温泉を満喫できる、厳選の名旅館・温泉ホテル5選を徹底解説します。",
@@ -77,7 +77,7 @@ export default function HyogoYumuraWinterFeature() {
           "name": "Croud Travel",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "author": {
@@ -88,31 +88,31 @@ export default function HyogoYumuraWinterFeature() {
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://croud-travel.com/winter-hyogo-yumura-onsen-tajima-beef-matsuba-crab-stay#breadcrumb",
+        "@id": "https://croud-travel.pages.dev/winter-hyogo-yumura-onsen-tajima-beef-matsuba-crab-stay#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com/"
+            "item": "https://croud-travel.pages.dev/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "兵庫・但馬 湯村温泉 荒湯源泉情緒と解禁松葉ガニ・但馬牛会席の宿",
-            "item": "https://croud-travel.com/winter-hyogo-yumura-onsen-tajima-beef-matsuba-crab-stay"
+            "item": "https://croud-travel.pages.dev/winter-hyogo-yumura-onsen-tajima-beef-matsuba-crab-stay"
           }
         ]
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-hyogo-yumura-onsen-tajima-beef-matsuba-crab-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-hyogo-yumura-onsen-tajima-beef-matsuba-crab-stay#faq",
         "mainEntity": faqList.map(f => ({
           "@type": "Question",
           "name": f.q,

@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月静岡・西伊豆堂ヶ島温泉の夕陽百選＆駿河湾越しの雪化粧富士】名物戸田高足ガニ＆伊勢海老・地金目鯛会席を堪能する絶景オーシャンビュー名宿5選",
     description: "11月から12月にかけて、西伊豆・堂ヶ島温泉は空気が澄み渡り、駿河湾の彼方に白雪を戴く雄大な富士山と、日本屈指の美しさを誇る「夕陽百選」の黄金色の落日が重なる奇跡のベストシーズンを迎えます。奇岩が織りなす「伊豆の松島」堂ヶ島天窓洞や三四郎島の絶景、海辺に湧く肌触りなめらかな硫酸塩温泉。そして初冬に旬の最盛期を迎える駿河湾深海の名物「戸田の高足ガニ（タカアシガニ）」や伊勢海老、脂の乗った地金目鯛の姿煮を味わう絶景オーシャンビュー名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-shizuoka-nishiizu-dogashima-onsen-sunset-fuji-takaashigani-stay',
+    url: 'https://croud-travel.pages.dev/winter-shizuoka-nishiizu-dogashima-onsen-sunset-fuji-takaashigani-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -166,28 +166,28 @@ export default function WinterShizuokaDogashimaPage() {
     '@graph': [
       {
         '@type': 'Article',
-        '@id': 'https://croud-travel.com/winter-shizuoka-nishiizu-dogashima-onsen-sunset-fuji-takaashigani-stay#article',
+        '@id': 'https://croud-travel.pages.dev/winter-shizuoka-nishiizu-dogashima-onsen-sunset-fuji-takaashigani-stay#article',
         'isPartOf': {
           '@type': 'WebSite',
-          '@id': 'https://croud-travel.com/#website',
+          '@id': 'https://croud-travel.pages.dev/#website',
           'name': 'クラドトラベル',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         },
         'headline': "【11・12月静岡・西伊豆堂ヶ島温泉の夕陽百選＆駿河湾越しの雪化粧富士】名物戸田高足ガニ＆伊勢海老・地金目鯛会席を堪能する絶景オーシャンビュー名宿5選",
         'description': "11月から12月にかけて、西伊豆・堂ヶ島温泉は空気が澄み渡り、駿河湾の彼方に白雪を戴く雄大な富士山と、日本屈指の美しさを誇る「夕陽百選」の黄金色の落日が重なる奇跡のベストシーズンを迎えます。奇岩が織りなす「伊豆の松島」堂ヶ島天窓洞や三四郎島の絶景、海辺に湧く肌触りなめらかな硫酸塩温泉。そして初冬に旬の最盛期を迎える駿河湾深海の名物「戸田の高足ガニ（タカアシガニ）」や伊勢海老、脂の乗った地金目鯛の姿煮を味わう絶景オーシャンビュー名宿5選を徹底解説します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.com/winter-shizuoka-nishiizu-dogashima-onsen-sunset-fuji-takaashigani-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-shizuoka-nishiizu-dogashima-onsen-sunset-fuji-takaashigani-stay',
         'datePublished': '2026-09-28T00:00:00+09:00',
         'dateModified': '2026-09-28T00:00:00+09:00',
         'publisher': {
           '@type': 'Organization',
           'name': 'クラドトラベル編集部',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         }
       },
       {
         '@type': 'TouristDestination',
-        '@id': 'https://croud-travel.com/winter-shizuoka-nishiizu-dogashima-onsen-sunset-fuji-takaashigani-stay#destination',
+        '@id': 'https://croud-travel.pages.dev/winter-shizuoka-nishiizu-dogashima-onsen-sunset-fuji-takaashigani-stay#destination',
         'name': '西伊豆堂ヶ島温泉郷',
         'description': '駿河湾に面した奇岩美と夕陽百選の名勝地。11月から12月は雪化粧の富士山と黄金色の落日が重なる絶景シーズン。',
         'geo': {
@@ -198,7 +198,7 @@ export default function WinterShizuokaDogashimaPage() {
       },
       {
         '@type': 'FAQPage',
-        '@id': 'https://croud-travel.com/winter-shizuoka-nishiizu-dogashima-onsen-sunset-fuji-takaashigani-stay#faq',
+        '@id': 'https://croud-travel.pages.dev/winter-shizuoka-nishiizu-dogashima-onsen-sunset-fuji-takaashigani-stay#faq',
         'mainEntity': faqList.map((f) => ({
           '@type': 'Question',
           'name': f.q,
@@ -210,7 +210,7 @@ export default function WinterShizuokaDogashimaPage() {
       },
       {
         '@type': 'ItemList',
-        '@id': 'https://croud-travel.com/winter-shizuoka-nishiizu-dogashima-onsen-sunset-fuji-takaashigani-stay#hotellist',
+        '@id': 'https://croud-travel.pages.dev/winter-shizuoka-nishiizu-dogashima-onsen-sunset-fuji-takaashigani-stay#hotellist',
         'name': '西伊豆堂ヶ島温泉のおすすめ名宿5選',
         'itemListElement': hotels.map((h, idx) => ({
           '@type': 'ListItem',

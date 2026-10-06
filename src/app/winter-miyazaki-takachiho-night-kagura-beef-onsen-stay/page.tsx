@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月宮崎】国の重要無形民俗文化財・高千穂の「夜神楽」と神秘の高千穂峡・最高峰「高千穂牛」＆天岩戸神社初詣を巡る神話の冬名宿5選",
     description: "11月中旬から2月上旬、神話の里・宮崎県高千穂町では、国の重要無形民俗文化財に指定されている「高千穂の夜神楽（よかぐら）」が奉納される冬の神聖なシーズンを迎えます。阿蘇の溶岩が削り出した柱状節理の渓谷美を誇る「高千穂峡・真名井の滝」、天照大神の岩戸隠れ伝説が息づく「天岩戸神社」や無数の積石が神秘的な「天安河原」での冬の初詣。そして内閣総理大臣賞を受賞した最高峰ブランド黒毛和牛「高千穂牛」の極上会席。日本発祥の神話と祈りに包まれる冬の名宿5選とモデルコースをお届けします。",
-    url: 'https://croud-travel.com/winter-miyazaki-takachiho-night-kagura-beef-onsen-stay',
+    url: 'https://croud-travel.pages.dev/winter-miyazaki-takachiho-night-kagura-beef-onsen-stay',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -50,19 +50,19 @@ export default function MiyazakiTakachihoNightKaguraWinterPage() {
     author: {
       '@type': 'Organization',
       name: 'クラドトラベル編集部',
-      url: 'https://croud-travel.com'
+      url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
       name: 'クラドトラベル',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://croud-travel.com/logo.png'
+        url: 'https://croud-travel.pages.dev/logo.png'
       }
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.com/winter-miyazaki-takachiho-night-kagura-beef-onsen-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-miyazaki-takachiho-night-kagura-beef-onsen-stay'
     }
   };
 
@@ -74,19 +74,19 @@ export default function MiyazakiTakachihoNightKaguraWinterPage() {
         '@type': 'ListItem',
         position: 1,
         name: 'ホーム',
-        item: 'https://croud-travel.com'
+        item: 'https://croud-travel.pages.dev'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.com/features'
+        item: 'https://croud-travel.pages.dev/features'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '高千穂夜神楽＆神話名宿特集',
-        item: 'https://croud-travel.com/winter-miyazaki-takachiho-night-kagura-beef-onsen-stay'
+        item: 'https://croud-travel.pages.dev/winter-miyazaki-takachiho-night-kagura-beef-onsen-stay'
       }
     ]
   };

@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月宮城】冬の三陸の至宝・極上戻りメカジキ「冬木廻」＆南三陸キラキラいくら丼と気仙沼深層天然温泉を満喫する絶景名宿5選",
     description: "11月から1月、黒潮と親潮が交差する三陸沖は、脂の乗りが最高潮を迎える冬の味覚シーズン。気仙沼港に水揚げされる幻の極上メカジキ「冬木廻（ふゆきまわり）」のとろけるような脂と旨味、南三陸さんさん商店街を彩る宝石のような「南三陸キラキラいくら丼」、冬の牡蠣・アワビ・気仙沼フカヒレ。太平洋の荒波が削り出した唐桑半島・巨釜半造の雪化粧と、地下深くから湧く高濃度塩化物泉「気仙沼深層天然温泉」。冬の三陸海岸の豊かな恵みと絶景露天風呂を堪能する名宿5選をお届けします。",
-    url: 'https://croud-travel.com/winter-miyagi-kesennuma-minamisanriku-mekajiki-ikuradon-stay',
+    url: 'https://croud-travel.pages.dev/winter-miyagi-kesennuma-minamisanriku-mekajiki-ikuradon-stay',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -50,20 +50,20 @@ export default function MiyagiKesennumaMinamisanrikuWinterPage() {
     author: {
       '@type': 'Organization',
       name: 'クラドトラベル編集部',
-      url: 'https://croud-travel.com'
+      url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
       name: 'クラドトラベル',
-      url: 'https://croud-travel.com',
+      url: 'https://croud-travel.pages.dev',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://croud-travel.com/logo.png'
+        url: 'https://croud-travel.pages.dev/logo.png'
       }
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.com/winter-miyagi-kesennuma-minamisanriku-mekajiki-ikuradon-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-miyagi-kesennuma-minamisanriku-mekajiki-ikuradon-stay'
     }
   };
 
@@ -75,19 +75,19 @@ export default function MiyagiKesennumaMinamisanrikuWinterPage() {
         '@type': 'ListItem',
         position: 1,
         name: 'ホーム',
-        item: 'https://croud-travel.com/'
+        item: 'https://croud-travel.pages.dev/'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.com/features'
+        item: 'https://croud-travel.pages.dev/features'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '気仙沼＆南三陸 冬のメカジキ・いくら丼と温泉名宿',
-        item: 'https://croud-travel.com/winter-miyagi-kesennuma-minamisanriku-mekajiki-ikuradon-stay'
+        item: 'https://croud-travel.pages.dev/winter-miyagi-kesennuma-minamisanriku-mekajiki-ikuradon-stay'
       }
     ]
   };

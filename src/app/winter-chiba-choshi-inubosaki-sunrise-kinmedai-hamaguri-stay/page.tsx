@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月千葉】本州一早い初日の出「犬吠埼」と冬の極上「銚子つりきんめ」・九十九里焼きはまぐり鍋＆太平洋パノラマ犬吠埼温泉宿5選",
     description: "11月から1月、千葉県銚子・犬吠埼は、本州の平地で最も早く昇る神々しい初日の出と、冬に脂の乗りがピークを迎える極上ブランド魚「銚子つりきんめ（金目鯛）」の熱気に包まれます。荒波寄せる太平洋の白亜の犬吠埼灯台、九十九里浜の天然焼きはまぐりや伊勢海老の滋味。塩分豊富で体の芯からポカポカ温まる犬吠埼温泉の絶景露天風呂に浸かり、太平洋の水平線を黄金色に染める冬の朝陽に感動する厳選名宿5選を徹底ガイドします。",
-    url: 'https://croud-travel.com/winter-chiba-choshi-inubosaki-sunrise-kinmedai-hamaguri-stay',
+    url: 'https://croud-travel.pages.dev/winter-chiba-choshi-inubosaki-sunrise-kinmedai-hamaguri-stay',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -50,19 +50,19 @@ export default function ChibaChoshiInubosakiWinterPage() {
     author: {
       '@type': 'Organization',
       name: 'クラドトラベル編集部',
-      url: 'https://croud-travel.com'
+      url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
       name: 'クラドトラベル',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://croud-travel.com/logo.png'
+        url: 'https://croud-travel.pages.dev/logo.png'
       }
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.com/winter-chiba-choshi-inubosaki-sunrise-kinmedai-hamaguri-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-chiba-choshi-inubosaki-sunrise-kinmedai-hamaguri-stay'
     }
   };
 
@@ -74,19 +74,19 @@ export default function ChibaChoshiInubosakiWinterPage() {
         '@type': 'ListItem',
         position: 1,
         name: 'ホーム',
-        item: 'https://croud-travel.com'
+        item: 'https://croud-travel.pages.dev'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.com/features'
+        item: 'https://croud-travel.pages.dev/features'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '千葉・犬吠埼初日の出＆銚子つりきんめ特集',
-        item: 'https://croud-travel.com/winter-chiba-choshi-inubosaki-sunrise-kinmedai-hamaguri-stay'
+        item: 'https://croud-travel.pages.dev/winter-chiba-choshi-inubosaki-sunrise-kinmedai-hamaguri-stay'
       }
     ]
   };

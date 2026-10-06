@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月長門湯本温泉の冬情緒と名湯】音信川の冬灯りと開湯600年美肌泉・本場下関直送本とらふぐ＆山口県産和牛の宿5選",
     description: "室町時代に住吉大明神の神託によって開かれた山口県最古の名湯「長門湯本温泉」。音信川のせせらぎと竹林の小径が冬の灯りに照らされる幻想的な温泉街。pH9.6を誇る化粧水のような美肌泉と、11月〜12月に最盛期を迎える本場下関直送の「活本とらふぐ」フルコースを堪能する名宿ガイド。",
-    url: 'https://croud-travel.com/winter-yamaguchi-nagato-yumoto-onsen-fugu-stay',
+    url: 'https://croud-travel.pages.dev/winter-yamaguchi-nagato-yumoto-onsen-fugu-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -63,7 +63,7 @@ export default function NagatoWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-yamaguchi-nagato-yumoto-onsen-fugu-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-yamaguchi-nagato-yumoto-onsen-fugu-stay#article",
         "headline": "【11・12月長門湯本温泉の冬情緒と名湯】音信川の冬灯りと開湯600年美肌泉・本場下関直送本とらふぐ＆山口県産和牛の宿5選",
         "description": "室町時代に住吉大明神の神託によって開かれた山口県最古の名湯「長門湯本温泉」。音信川のせせらぎと竹林の小径が冬の灯りに照らされる幻想的な温泉街。pH9.6を誇る化粧水のような美肌泉と、11月〜12月に最盛期を迎える本場下関直送の「活本とらふぐ」フルコースを堪能する名宿ガイド。",
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
@@ -72,24 +72,24 @@ export default function NagatoWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-yamaguchi-nagato-yumoto-onsen-fugu-stay"
+          "@id": "https://croud-travel.pages.dev/winter-yamaguchi-nagato-yumoto-onsen-fugu-stay"
         }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-yamaguchi-nagato-yumoto-onsen-fugu-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-yamaguchi-nagato-yumoto-onsen-fugu-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -127,7 +127,7 @@ export default function NagatoWinterPage() {
       },
       {
         "@type": "ItemList",
-        "@id": "https://croud-travel.com/winter-yamaguchi-nagato-yumoto-onsen-fugu-stay#hotels",
+        "@id": "https://croud-travel.pages.dev/winter-yamaguchi-nagato-yumoto-onsen-fugu-stay#hotels",
         "itemListElement": [
           {
             "@type": "ListItem",
@@ -655,32 +655,7 @@ export default function NagatoWinterPage() {
         </section>
 
         {/* FAQ Section */}
-        <section id="faq" className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-stone-200/80 space-y-6">
-          <div className="flex items-center gap-3 pb-3 border-b border-stone-100">
-            <div className="p-2 rounded-xl bg-indigo-50 text-indigo-800">
-              <HelpCircle className="w-5 h-5" />
-            </div>
-            <div>
-              <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest">Traveler's FAQ</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                よくある質問（FAQ）と初冬の旅のアドバイス
-              </h2>
-            </div>
-          </div>
-          <div className="space-y-4">
-            {faqList.map((faq, idx) => (
-              <div key={idx} className="p-5 rounded-2xl bg-stone-50 border border-stone-200/70 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-indigo-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
-                <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
-                  {faq.a}
-                </p>
-              </div>
-            ))}
-          </div>
-        </section>
+        
 
         {/* Internal Links / Related Guides */}
         <section className="bg-indigo-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">

@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月島根・温泉津温泉＆有福温泉】世界遺産石見銀山の港町・開湯1300年薬師湯の奇跡の自噴赤湯と日本海初冬の極上のどぐろ・しまね和牛に心奪われる名宿5選",
     description: "11月中旬から初冬の島根・石見地方に位置する温泉津温泉（ゆのつおんせん）と有福温泉（ありふくおんせん）は、日本海からの心地よい潮風と静かな初冬の空気が古い石畳の坂道を包み込み、まるで時が止まったかのような深い歴史旅情を漂わせます。世界遺産「石見銀山遺跡とその文化的景観」の一部として、温泉街として日本で唯一、国の「重要伝統的建造物群保存地区」に選定されている温泉津。大正から昭和初期の木造旅館が軒を連ねる街並みに湧く外湯「薬師湯」は、日本温泉協会の審査で最高評価「オール5」を獲得した奇跡の自然湧出源泉。地下から直接湧き出る超濃厚な含土類強食塩泉は、黄褐色に濁り、身体の芯まで驚異的な温もりを行き渡らせます。そして初冬の食卓を彩るのは、冬の日本海の荒波にもまれて脂の乗りが最高潮に達する白身のトロ「のどぐろ（赤むつ）」の一本丸ごと塩焼きや煮付け、11月に解禁を迎える山陰の「松葉ガニ」、そして内閣総理大臣賞を受賞した最高峰「しまね和牛」の極上すき焼き会席。本物の名湯力と歴史の静寂に抱かれる厳選名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-shimane-yunotsu-onsen-iwamiginzan-nodoguro-wagyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-shimane-yunotsu-onsen-iwamiginzan-nodoguro-wagyu-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -45,23 +45,23 @@ export default function ShimaneYunotsuWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-shimane-yunotsu-onsen-iwamiginzan-nodoguro-wagyu-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-shimane-yunotsu-onsen-iwamiginzan-nodoguro-wagyu-stay#article",
         "isPartOf": {
           "@type": "WebSite",
-          "@id": "https://croud-travel.com/#website",
+          "@id": "https://croud-travel.pages.dev/#website",
           "name": "クラドトラベル",
-          "url": "https://croud-travel.com/"
+          "url": "https://croud-travel.pages.dev/"
         },
         "headline": "【11・12月島根・温泉津温泉＆有福温泉】世界遺産石見銀山の港町・開湯1300年薬師湯の奇跡の自噴赤湯と日本海初冬の極上のどぐろ・しまね和牛に心奪われる名宿5選",
         "description": "11月中旬から初冬の島根・石見地方に位置する温泉津温泉（ゆのつおんせん）と有福温泉（ありふくおんせん）は、日本海からの心地よい潮風と静かな初冬の空気が古い石畳の坂道を包み込み、まるで時が止まったかのような深い歴史旅情を漂わせます。世界遺産「石見銀山遺跡とその文化的景観」の一部として、温泉街として日本で唯一、国の「重要伝統的建造物群保存地区」に選定されている温泉津。大正から昭和初期の木造旅館が軒を連ねる街並みに湧く外湯「薬師湯」は、日本温泉協会の審査で最高評価「オール5」を獲得した奇跡の自然湧出源泉。地下から直接湧き出る超濃厚な含土類強食塩泉は、黄褐色に濁り、身体の芯まで驚異的な温もりを行き渡らせます。そして初冬の食卓を彩るのは、冬の日本海の荒波にもまれて脂の乗りが最高潮に達する白身のトロ「のどぐろ（赤むつ）」の一本丸ごと塩焼きや煮付け、11月に解禁を迎える山陰の「松葉ガニ」、そして内閣総理大臣賞を受賞した最高峰「しまね和牛」の極上すき焼き会席。本物の名湯力と歴史の静寂に抱かれる厳選名宿5選を徹底解説します。",
         "datePublished": "2026-09-30T00:00:00+09:00",
         "dateModified": "2026-09-30T00:00:00+09:00",
         "inLanguage": "ja",
-        "mainEntityOfPage": "https://croud-travel.com/winter-shimane-yunotsu-onsen-iwamiginzan-nodoguro-wagyu-stay",
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-shimane-yunotsu-onsen-iwamiginzan-nodoguro-wagyu-stay",
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル編集部",
-          "url": "https://croud-travel.com/"
+          "url": "https://croud-travel.pages.dev/"
         }
       },
       {

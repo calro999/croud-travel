@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月石川・粟津温泉＆加賀温泉郷】開湯1300年の白山霊泉・解禁加能ガニ＆香箱ガニと能登牛を味わう名宿5選",
     description: "11月上旬、日本海に冬の訪れを告げる青いタグ付きブランドズワイガニ「加能ガニ」と、濃厚な内子と外子を抱えたメスガニ「香箱ガニ」の漁が解禁されると、石川県小松市・加賀温泉郷の古湯「粟津温泉（あわづおんせん）」は美食の熱気に包まれます。奈良時代、霊峰白山を開山した高僧・泰澄大師によって養老2年（718年）に開湯された粟津温泉は、1300年を超える歴史を誇り、温泉街のすべての宿がそれぞれ独自の自家堀り源泉を所有している全国的にも極めて稀有な名湯地です。純度100%の無色透明なナトリウム-硫酸塩・塩化物泉は、浸かれば肌がしっとりと潤い、身体の芯まで熱が染み渡る「温まりの湯」。夕食には解禁されたばかりのタグ付き加能ガニの花咲く洗い、香ばしい焼きガニ、甲羅味噌焼き、そして濃厚な内子を味わう香箱ガニの甲羅盛り、さらにきめ細やかな肉質の特選「能登牛」の網焼き。九谷焼や山中漆器の絢爛豪華な器とともに、初冬の北陸の贅を尽くす厳選名宿5選を詳しく紹介します。",
-    url: 'https://croud-travel.com/winter-ishikawa-awazu-onsen-kanogani-notogyu-kaga-stay',
+    url: 'https://croud-travel.pages.dev/winter-ishikawa-awazu-onsen-kanogani-notogyu-kaga-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -166,28 +166,28 @@ export default function WinterIshikawaAwazuPage() {
     '@graph': [
       {
         '@type': 'Article',
-        '@id': 'https://croud-travel.com/winter-ishikawa-awazu-onsen-kanogani-notogyu-kaga-stay#article',
+        '@id': 'https://croud-travel.pages.dev/winter-ishikawa-awazu-onsen-kanogani-notogyu-kaga-stay#article',
         'isPartOf': {
           '@type': 'WebSite',
-          '@id': 'https://croud-travel.com/#website',
+          '@id': 'https://croud-travel.pages.dev/#website',
           'name': 'クラドトラベル',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         },
         'headline': "【11・12月石川・粟津温泉＆加賀温泉郷】開湯1300年の白山霊泉・解禁加能ガニ＆香箱ガニと能登牛を味わう名宿5選",
         'description': "11月上旬、日本海に冬の訪れを告げる青いタグ付きブランドズワイガニ「加能ガニ」と、濃厚な内子と外子を抱えたメスガニ「香箱ガニ」の漁が解禁されると、石川県小松市・加賀温泉郷の古湯「粟津温泉（あわづおんせん）」は美食の熱気に包まれます。奈良時代、霊峰白山を開山した高僧・泰澄大師によって養老2年（718年）に開湯された粟津温泉は、1300年を超える歴史を誇り、温泉街のすべての宿がそれぞれ独自の自家堀り源泉を所有している全国的にも極めて稀有な名湯地です。純度100%の無色透明なナトリウム-硫酸塩・塩化物泉は、浸かれば肌がしっとりと潤い、身体の芯まで熱が染み渡る「温まりの湯」。夕食には解禁されたばかりのタグ付き加能ガニの花咲く洗い、香ばしい焼きガニ、甲羅味噌焼き、そして濃厚な内子を味わう香箱ガニの甲羅盛り、さらにきめ細やかな肉質の特選「能登牛」の網焼き。九谷焼や山中漆器の絢爛豪華な器とともに、初冬の北陸の贅を尽くす厳選名宿5選を詳しく紹介します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.com/winter-ishikawa-awazu-onsen-kanogani-notogyu-kaga-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-ishikawa-awazu-onsen-kanogani-notogyu-kaga-stay',
         'datePublished': '2026-09-29T00:00:00+09:00',
         'dateModified': '2026-09-29T00:00:00+09:00',
         'publisher': {
           '@type': 'Organization',
           'name': 'クラドトラベル編集部',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         }
       },
       {
         '@type': 'TouristDestination',
-        '@id': 'https://croud-travel.com/winter-ishikawa-awazu-onsen-kanogani-notogyu-kaga-stay#destination',
+        '@id': 'https://croud-travel.pages.dev/winter-ishikawa-awazu-onsen-kanogani-notogyu-kaga-stay#destination',
         'name': '石川・粟津温泉＆加賀温泉郷',
         'description': '石川県小松市に位置する開湯1300年の名湯。全宿が自家堀り源泉を所有し、11月解禁の加能ガニ・香箱ガニと極上能登牛を九谷焼の器で味わう初冬の美食名所。',
         'geo': {
@@ -198,7 +198,7 @@ export default function WinterIshikawaAwazuPage() {
       },
       {
         '@type': 'FAQPage',
-        '@id': 'https://croud-travel.com/winter-ishikawa-awazu-onsen-kanogani-notogyu-kaga-stay#faq',
+        '@id': 'https://croud-travel.pages.dev/winter-ishikawa-awazu-onsen-kanogani-notogyu-kaga-stay#faq',
         'mainEntity': faqList.map((f) => ({
           '@type': 'Question',
           'name': f.q,
@@ -210,7 +210,7 @@ export default function WinterIshikawaAwazuPage() {
       },
       {
         '@type': 'ItemList',
-        '@id': 'https://croud-travel.com/winter-ishikawa-awazu-onsen-kanogani-notogyu-kaga-stay#hotellist',
+        '@id': 'https://croud-travel.pages.dev/winter-ishikawa-awazu-onsen-kanogani-notogyu-kaga-stay#hotellist',
         'name': '石川・粟津温泉＆加賀温泉郷のおすすめ名宿5選',
         'itemListElement': hotels.map((h, idx) => ({
           '@type': 'ListItem',

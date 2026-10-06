@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月那須】開湯1000年「下野の薬湯」板室温泉・名物立ち湯と極上那須黒毛和牛＆初雪の那須連山を望む隠れ宿5選",
     description: "11月中旬から12月の初冬、雄大な茶臼岳をはじめとする那須連山が白銀の初雪に覆われ、高原全体が静謐な冬の静けさに包まれる季節。栃木県那須塩原市の那珂川最上流域に位置する板室温泉（いたむろおんせん）は、平安時代の大同年間（806年）開湯と伝わり、古くから「下野の薬湯（しもつけのやくとう）」として全国から湯治客を集めてきた由緒正しき名湯です。板室名物の「綱の湯（深い湯船に天井から垂らした綱につかまって入浴する独特の立ち湯）」や、38〜40℃前後の体に負担をかけない優しいアルカリ性単純温泉の源泉かけ流しは、冷え切った関節や筋肉のコリを芯から解きほぐします。夕食には、きめ細やかなサシと芳醇な香りを誇る最高級ブランド「那須黒毛和牛」のステーキやすき焼き、地元那須の高原冬根菜会席が並びます。現代の保養リトリートとアートが融合する大人の隠れ家厳選5宿をご案内します。",
-    url: 'https://croud-travel.com/winter-tochigi-nasu-itamuro-onsen-toji-tochigigyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-tochigi-nasu-itamuro-onsen-toji-tochigigyu-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -44,23 +44,23 @@ export default function TochigiNasuItamuroWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-tochigi-nasu-itamuro-onsen-toji-tochigigyu-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-tochigi-nasu-itamuro-onsen-toji-tochigigyu-stay#article",
         "isPartOf": {
           "@type": "WebSite",
-          "@id": "https://croud-travel.com/#website",
+          "@id": "https://croud-travel.pages.dev/#website",
           "name": "クラドトラベル",
-          "url": "https://croud-travel.com/"
+          "url": "https://croud-travel.pages.dev/"
         },
         "headline": "【11・12月那須】開湯1000年「下野の薬湯」板室温泉・名物立ち湯と極上那須黒毛和牛＆初雪の那須連山を望む隠れ宿5選",
         "description": "11月中旬から12月の初冬、雄大な茶臼岳をはじめとする那須連山が白銀の初雪に覆われ、高原全体が静謐な冬の静けさに包まれる季節。栃木県那須塩原市の那珂川最上流域に位置する板室温泉（いたむろおんせん）は、平安時代の大同年間（806年）開湯と伝わり、古くから「下野の薬湯（しもつけのやくとう）」として全国から湯治客を集めてきた由緒正しき名湯です。板室名物の「綱の湯（深い湯船に天井から垂らした綱につかまって入浴する独特の立ち湯）」や、38〜40℃前後の体に負担をかけない優しいアルカリ性単純温泉の源泉かけ流しは、冷え切った関節や筋肉のコリを芯から解きほぐします。夕食には、きめ細やかなサシと芳醇な香りを誇る最高級ブランド「那須黒毛和牛」のステーキやすき焼き、地元那須の高原冬根菜会席が並びます。現代の保養リトリートとアートが融合する大人の隠れ家厳選5宿をご案内します。",
         "datePublished": "2026-09-30T00:00:00+09:00",
         "dateModified": "2026-09-30T00:00:00+09:00",
         "inLanguage": "ja",
-        "mainEntityOfPage": "https://croud-travel.com/winter-tochigi-nasu-itamuro-onsen-toji-tochigigyu-stay",
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-tochigi-nasu-itamuro-onsen-toji-tochigigyu-stay",
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル編集部",
-          "url": "https://croud-travel.com/"
+          "url": "https://croud-travel.pages.dev/"
         }
       },
       {

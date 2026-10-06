@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月和歌山・龍神温泉の初冬渓谷美と日本三美人の湯】名物紀州天然ぼたん鍋＆最高峰熊野牛会席を味わう隠れ家宿5選",
     description: "11月から12月にかけて、紀伊半島の奥深き山懐・日高川の上流に位置する「龍神温泉」は、山々の晩秋の紅葉が散り落ち、清流沿いに初冬の朝霧が立ち込める幽玄な渓谷美に包まれます。群馬の川中温泉、島根の湯の川温泉と並び「日本三美人の湯」と称されるトロトロの炭酸水素塩泉は、冬の冷えや乾燥で疲れた肌を驚くほど滑らかに潤す名湯。さらに11月15日の狩猟解禁とともに登場する本場紀州の「天然猪肉のぼたん鍋」や、霜降りがとろける「熊野牛」の贅沢会席を堪能できる厳選宿5選を詳しく解説します。",
-    url: 'https://croud-travel.com/winter-wakayama-ryujin-onsen-bihada-botannabe-stay',
+    url: 'https://croud-travel.pages.dev/winter-wakayama-ryujin-onsen-bihada-botannabe-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -62,10 +62,10 @@ export default function WakayamaRyujinWinterFeature() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-wakayama-ryujin-onsen-bihada-botannabe-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-wakayama-ryujin-onsen-bihada-botannabe-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-wakayama-ryujin-onsen-bihada-botannabe-stay"
+          "@id": "https://croud-travel.pages.dev/winter-wakayama-ryujin-onsen-bihada-botannabe-stay"
         },
         "headline": "【11・12月和歌山・龍神温泉の初冬渓谷美と日本三美人の湯】名物紀州天然ぼたん鍋＆最高峰熊野牛会席を味わう隠れ家宿5選",
         "description": "11月から12月にかけて、紀伊半島の奥深き山懐・日高川の上流に位置する「龍神温泉」は、山々の晩秋の紅葉が散り落ち、清流沿いに初冬の朝霧が立ち込める幽玄な渓谷美に包まれます。群馬の川中温泉、島根の湯の川温泉と並び「日本三美人の湯」と称されるトロトロの炭酸水素塩泉は、冬の冷えや乾燥で疲れた肌を驚くほど滑らかに潤す名湯。さらに11月15日の狩猟解禁とともに登場する本場紀州の「天然猪肉のぼたん鍋」や、霜降りがとろける「熊野牛」の贅沢会席を堪能できる厳選宿5選を詳しく解説します。",
@@ -77,7 +77,7 @@ export default function WakayamaRyujinWinterFeature() {
           "name": "Croud Travel",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "author": {
@@ -88,31 +88,31 @@ export default function WakayamaRyujinWinterFeature() {
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://croud-travel.com/winter-wakayama-ryujin-onsen-bihada-botannabe-stay#breadcrumb",
+        "@id": "https://croud-travel.pages.dev/winter-wakayama-ryujin-onsen-bihada-botannabe-stay#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com/"
+            "item": "https://croud-travel.pages.dev/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "和歌山・龍神温泉 ぼたん鍋と日本三美人の湯の宿",
-            "item": "https://croud-travel.com/winter-wakayama-ryujin-onsen-bihada-botannabe-stay"
+            "item": "https://croud-travel.pages.dev/winter-wakayama-ryujin-onsen-bihada-botannabe-stay"
           }
         ]
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-wakayama-ryujin-onsen-bihada-botannabe-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-wakayama-ryujin-onsen-bihada-botannabe-stay#faq",
         "mainEntity": faqList.map(f => ({
           "@type": "Question",
           "name": f.q,

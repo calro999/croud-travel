@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月京都】雪化粧の伊根湾「伊根の舟屋」と日本三大寒ブリ「伊根ブリしゃぶしゃぶ」・海の京都宮津温泉＆冬の天橋立雪景色名宿5選",
     description: "11月から1月、京都府丹後半島・伊根町と宮津市は、日本海に浮かぶ約230軒の「伊根の舟屋群」が静かに雪をまとう水墨画のような絶景と、日本三大寒ブリの一つとして名高いブランド魚「伊根ブリ」が旬の最高潮を迎えます。極上の霜降り寒ブリを熱々出汁にくぐらせる「ブリしゃぶ鍋」、日本三景・天橋立の白銀の「雪の飛龍観」、美肌の湯として名高い奥伊根温泉＆宮津温泉。海の京都を代表する厳選名宿5選を徹底ガイドします。",
-    url: 'https://croud-travel.com/winter-kyoto-ine-funaya-ineburi-shabu-miyazu-stay',
+    url: 'https://croud-travel.pages.dev/winter-kyoto-ine-funaya-ineburi-shabu-miyazu-stay',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -50,19 +50,19 @@ export default function KyotoIneFunayaMiyazuWinterPage() {
     author: {
       '@type': 'Organization',
       name: 'クラドトラベル編集部',
-      url: 'https://croud-travel.com'
+      url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
       name: 'クラドトラベル',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://croud-travel.com/logo.png'
+        url: 'https://croud-travel.pages.dev/logo.png'
       }
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.com/winter-kyoto-ine-funaya-ineburi-shabu-miyazu-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-kyoto-ine-funaya-ineburi-shabu-miyazu-stay'
     }
   };
 
@@ -74,19 +74,19 @@ export default function KyotoIneFunayaMiyazuWinterPage() {
         '@type': 'ListItem',
         position: 1,
         name: 'ホーム',
-        item: 'https://croud-travel.com'
+        item: 'https://croud-travel.pages.dev'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.com/features'
+        item: 'https://croud-travel.pages.dev/features'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '京都・伊根の舟屋＆寒ブリしゃぶ特集',
-        item: 'https://croud-travel.com/winter-kyoto-ine-funaya-ineburi-shabu-miyazu-stay'
+        item: 'https://croud-travel.pages.dev/winter-kyoto-ine-funaya-ineburi-shabu-miyazu-stay'
       }
     ]
   };

@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月宮崎】都城＆小林・えびの！白銀の霧島連山ジオパークと神話の「狭野神社・霧島東神社」初詣・日本一の肉のまち「都城産宮崎牛」＆美肌温泉宿5選",
     description: "冬の澄み渡る大空に白銀の冠雪をいただく霧島連山の大パノラマと、天孫降臨神話が息づく11〜1月の宮崎・都城＆高原・小林エリア特集。神武天皇生誕の地・狭野神社や天逆鉾を遥拝する霧島東神社での厳かな初詣。日本一の肉のまち・都城が誇る最高峰ブランド「都城産宮崎牛」の贅沢鉄板焼きやすき焼き、本場本格芋焼酎の芳醇な味わい。そして高濃度炭酸泉やえびの高原の美肌温泉に癒やされる厳選名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-miyazaki-miyakonojo-kobayashi-kirishima-wagyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-miyazaki-miyakonojo-kobayashi-kirishima-wagyu-stay',
     type: 'article',
     images: [
       {
@@ -49,19 +49,19 @@ export default function MiyazakiMiyakonojoWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "旅クラウド編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "旅クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-miyazaki-miyakonojo-kobayashi-kirishima-wagyu-stay"
+          "@id": "https://croud-travel.pages.dev/winter-miyazaki-miyakonojo-kobayashi-kirishima-wagyu-stay"
         }
       },
       {
@@ -71,19 +71,19 @@ export default function MiyazakiMiyakonojoWinterPage() {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com"
+            "item": "https://croud-travel.pages.dev"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "冬の旅特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "宮崎・都城＆小林 霧島東神社初詣と宮崎牛名宿",
-            "item": "https://croud-travel.com/winter-miyazaki-miyakonojo-kobayashi-kirishima-wagyu-stay"
+            "item": "https://croud-travel.pages.dev/winter-miyazaki-miyakonojo-kobayashi-kirishima-wagyu-stay"
           }
         ]
       },

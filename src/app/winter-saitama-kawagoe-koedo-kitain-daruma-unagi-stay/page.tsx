@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月埼玉】小江戸川越・冬の蔵造りの町並みと時の鐘・喜多院初大師だるま市新春初詣＆名物うなぎ重・小江戸黒豚を味わう川越名宿5選",
     description: "11月から1月、黒漆喰の重厚な蔵造り商家が軒を連ねる埼玉県川越市は、冬の澄み渡る青空と新春の活気あふれる初詣シーズンを迎えます。小江戸の象徴「時の鐘」が響く町並み、徳川家光公ゆかりの「喜多院」で1月3日に開催される名物・初大師だるま市や川越氷川神社の新春祈願、菓子屋横丁の湯気立つ芋スイーツ。江戸時代から受け継がれる老舗の炭火手焼き「川越うなぎ重」や上質な「小江戸黒豚」を心ゆくまで堪能できる厳選宿5選と1泊2日の冬のモデルコースを徹底解説します。",
-    url: 'https://croud-travel.com/winter-saitama-kawagoe-koedo-kitain-daruma-unagi-stay',
+    url: 'https://croud-travel.pages.dev/winter-saitama-kawagoe-koedo-kitain-daruma-unagi-stay',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -50,19 +50,19 @@ export default function SaitamaKawagoeKoedoWinterPage() {
     author: {
       '@type': 'Organization',
       name: 'クラドトラベル編集部',
-      url: 'https://croud-travel.com'
+      url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
       name: 'クラドトラベル',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://croud-travel.com/logo.png'
+        url: 'https://croud-travel.pages.dev/logo.png'
       }
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.com/winter-saitama-kawagoe-koedo-kitain-daruma-unagi-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-saitama-kawagoe-koedo-kitain-daruma-unagi-stay'
     }
   };
 
@@ -74,19 +74,19 @@ export default function SaitamaKawagoeKoedoWinterPage() {
         '@type': 'ListItem',
         position: 1,
         name: 'ホーム',
-        item: 'https://croud-travel.com'
+        item: 'https://croud-travel.pages.dev'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.com/features'
+        item: 'https://croud-travel.pages.dev/features'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '小江戸川越冬の蔵造り＆喜多院初詣特集',
-        item: 'https://croud-travel.com/winter-saitama-kawagoe-koedo-kitain-daruma-unagi-stay'
+        item: 'https://croud-travel.pages.dev/winter-saitama-kawagoe-koedo-kitain-daruma-unagi-stay'
       }
     ]
   };

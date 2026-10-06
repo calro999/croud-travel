@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月徳島】日本三大秘境・冬の祖谷渓谷「祖谷のかずら橋」雪景色と大歩危峡・ケーブルカーで行く谷底秘湯露天風呂＆阿波尾鶏を堪能する名宿5選",
     description: "11月晩秋の紅葉から12月・1月の白銀の世界へと移り変わる徳島県・祖谷渓谷（いやけいこく）。岐阜県の白川郷、宮崎県の椎葉村と並び「日本三大秘境」に数えられる断崖絶壁の山懐に、国指定重要有形民俗文化財「祖谷のかずら橋」が佇みます。粉雪をまとったかずら橋とエメラルドグリーンに澄み切る祖谷川の渓谷美、傾斜42度の専用ケーブルカーで下る谷底の自噴秘湯露天風呂、そして囲炉裏端で香ばしく焼き上げる阿波尾鶏や祖谷そばの素朴な美食。喧騒を完全に忘れ去る冬の秘境名宿5選と1泊2日のモデルコースをお届けします。",
-    url: 'https://croud-travel.com/winter-tokushima-iya-valley-kazurabashi-snow-onsen-stay',
+    url: 'https://croud-travel.pages.dev/winter-tokushima-iya-valley-kazurabashi-snow-onsen-stay',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -50,19 +50,19 @@ export default function TokushimaIyaValleyWinterPage() {
     author: {
       '@type': 'Organization',
       name: 'クラドトラベル編集部',
-      url: 'https://croud-travel.com'
+      url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
       name: 'クラドトラベル',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://croud-travel.com/logo.png'
+        url: 'https://croud-travel.pages.dev/logo.png'
       }
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.com/winter-tokushima-iya-valley-kazurabashi-snow-onsen-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-tokushima-iya-valley-kazurabashi-snow-onsen-stay'
     }
   };
 
@@ -74,19 +74,19 @@ export default function TokushimaIyaValleyWinterPage() {
         '@type': 'ListItem',
         position: 1,
         name: 'ホーム',
-        item: 'https://croud-travel.com'
+        item: 'https://croud-travel.pages.dev'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.com/features'
+        item: 'https://croud-travel.pages.dev/features'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '徳島祖谷渓谷＆大歩危秘境特集',
-        item: 'https://croud-travel.com/winter-tokushima-iya-valley-kazurabashi-snow-onsen-stay'
+        item: 'https://croud-travel.pages.dev/winter-tokushima-iya-valley-kazurabashi-snow-onsen-stay'
       }
     ]
   };

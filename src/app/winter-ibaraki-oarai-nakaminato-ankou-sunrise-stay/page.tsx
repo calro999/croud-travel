@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月茨城】大洗磯前神社「神磯の鳥居」初日の出と冬の極上「大洗あんこう鍋（どぶ汁）」・那珂湊おさかな市場買い出し＆太平洋一望の大洗温泉宿5選",
     description: "11月から1月、茨城県大洗・那珂湊は、太平洋の荒波打つ岩礁に立つ大洗磯前神社「神磯の鳥居」の初日の出と、冬に肝が肥大化し旨味の頂点を極める「大洗あんこう鍋（どぶ汁）」で最高の賑わいを見せます。那珂湊おさかな市場の活気あふれる年末年始買い出し、塩分豊富で体が芯から温まる大洗温泉。太平洋の絶景を望む厳選名宿5選と冬旅のモデルコースを徹底ガイドします。",
-    url: 'https://croud-travel.com/winter-ibaraki-oarai-nakaminato-ankou-sunrise-stay',
+    url: 'https://croud-travel.pages.dev/winter-ibaraki-oarai-nakaminato-ankou-sunrise-stay',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -50,19 +50,19 @@ export default function IbarakiOaraiNakaminatoWinterPage() {
     author: {
       '@type': 'Organization',
       name: 'クラドトラベル編集部',
-      url: 'https://croud-travel.com'
+      url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
       name: 'クラドトラベル',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://croud-travel.com/logo.png'
+        url: 'https://croud-travel.pages.dev/logo.png'
       }
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.com/winter-ibaraki-oarai-nakaminato-ankou-sunrise-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-ibaraki-oarai-nakaminato-ankou-sunrise-stay'
     }
   };
 
@@ -74,19 +74,19 @@ export default function IbarakiOaraiNakaminatoWinterPage() {
         '@type': 'ListItem',
         position: 1,
         name: 'ホーム',
-        item: 'https://croud-travel.com'
+        item: 'https://croud-travel.pages.dev'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.com/features'
+        item: 'https://croud-travel.pages.dev/features'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '茨城・大洗初日の出＆あんこう鍋特集',
-        item: 'https://croud-travel.com/winter-ibaraki-oarai-nakaminato-ankou-sunrise-stay'
+        item: 'https://croud-travel.pages.dev/winter-ibaraki-oarai-nakaminato-ankou-sunrise-stay'
       }
     ]
   };

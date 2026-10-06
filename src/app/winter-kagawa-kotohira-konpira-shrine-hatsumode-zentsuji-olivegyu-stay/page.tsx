@@ -10,12 +10,12 @@ export const metadata: Metadata = {
   description: "四国屈指のパワースポット「こんぴらさん」で迎える11〜1月の冬紀行。古くから「一生に一度はこんぴら参り」と親しまれる金刀比羅宮御本宮785段・奥社1368段の石段参拝と新春初詣、弘法大師空海御誕生の地・総本山善通寺の厳かな祈願。冬の讃岐平野に映える讃岐富士（飯野山）の絶景。冷えた身体を芯から解きほぐす「こんぴら温泉郷」の名湯露天風呂と、冬に脂の甘みが極まる讃岐オリーブ牛、本場の熱々讃岐うどん、骨付鳥を味わい尽くす厳選名宿5選を徹底解説。",
   keywords: '金刀比羅宮 初詣, こんぴらさん 温泉, 善通寺 初詣, こんぴら温泉郷 名宿, 讃岐オリーブ牛, 紅梅亭, 琴参閣, 敷島館, 香川 冬旅行, 琴平温泉 露天風呂',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-kagawa-kotohira-konpira-shrine-hatsumode-zentsuji-olivegyu-stay'
+    canonical: 'https://croud-travel.pages.dev/winter-kagawa-kotohira-konpira-shrine-hatsumode-zentsuji-olivegyu-stay'
   },
   openGraph: {
     title: "【11・12・1月香川】四国随一の初詣「金刀比羅宮」785段石段と弘法大師誕生の地「善通寺」新春祈願！讃岐オリーブ牛＆こんぴら温泉郷名宿5選",
     description: "四国屈指のパワースポット「こんぴらさん」で迎える11〜1月の冬紀行。古くから「一生に一度はこんぴら参り」と親しまれる金刀比羅宮御本宮785段・奥社1368段の石段参拝と新春初詣、弘法大師空海御誕生の地・総本山善通寺の厳かな祈願。冬の讃岐平野に映える讃岐富士（飯野山）の絶景。冷えた身体を芯から解きほぐす「こんぴら温泉郷」の名湯露天風呂と、冬に脂の甘みが極まる讃岐オリーブ牛、本場の熱々讃岐うどん、骨付鳥を味わい尽くす厳選名宿5選を徹底解説。",
-    url: 'https://croud-travel.com/winter-kagawa-kotohira-konpira-shrine-hatsumode-zentsuji-olivegyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-kagawa-kotohira-konpira-shrine-hatsumode-zentsuji-olivegyu-stay',
     type: 'article',
     images: [
       {
@@ -48,19 +48,19 @@ export default function KagawaKotohiraWinterPage() {
     "author": {
       "@type": "Organization",
       "name": "旅宿クラウド 編集部",
-      "url": "https://croud-travel.com"
+      "url": "https://croud-travel.pages.dev"
     },
     "publisher": {
       "@type": "Organization",
       "name": "旅宿クラウド",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://croud-travel.com/logo.png"
+        "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.com/winter-kagawa-kotohira-konpira-shrine-hatsumode-zentsuji-olivegyu-stay"
+      "@id": "https://croud-travel.pages.dev/winter-kagawa-kotohira-konpira-shrine-hatsumode-zentsuji-olivegyu-stay"
     }
   };
 
@@ -72,19 +72,19 @@ export default function KagawaKotohiraWinterPage() {
         "@type": "ListItem",
         "position": 1,
         "name": "ホーム",
-        "item": "https://croud-travel.com"
+        "item": "https://croud-travel.pages.dev"
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "特集一覧",
-        "item": "https://croud-travel.com/features"
+        "item": "https://croud-travel.pages.dev/features"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "香川・琴平＆善通寺 冬特集",
-        "item": "https://croud-travel.com/winter-kagawa-kotohira-konpira-shrine-hatsumode-zentsuji-olivegyu-stay"
+        "item": "https://croud-travel.pages.dev/winter-kagawa-kotohira-konpira-shrine-hatsumode-zentsuji-olivegyu-stay"
       }
     ]
   };
@@ -662,7 +662,7 @@ export default function KagawaKotohiraWinterPage() {
 
       {/* Footer */}
       <footer className="bg-slate-900 text-slate-400 py-10 px-4 text-center text-xs border-t border-slate-800 mt-16">
-        <p>© 2026 旅宿クラウド (croud-travel.com). All rights reserved.</p>
+        <p>© 2026 旅宿クラウド (croud-travel.pages.dev). All rights reserved.</p>
         <p className="mt-2 text-slate-500">掲載の宿泊料金や施設情報は楽天トラベルAPIより取得した参考データです。最新のプラン内容は各宿泊施設ページをご確認ください。</p>
       </footer>
     </article>

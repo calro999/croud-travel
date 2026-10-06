@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月茨城】日本三名瀑・袋田の滝の完全凍結「氷瀑」と奥久慈温泉郷・名物奥久慈軍鶏鍋＆常陸牛を堪能する冬の名宿5選",
     description: "11月から1月、茨城県北部の奥久慈大子町は凛冽な冷気に包まれ、日本三名瀑「袋田の滝」が純白の氷壁へと変貌を遂げる「氷瀑（ひょうばく）」のシーズンを迎えます。冬の光を受けてダイヤモンドのように輝く巨大な氷のカーテン、夜間を幻想的に照らし出すライトアップ「大子来人」、そして寒さを忘れさせる名物「奥久慈軍鶏鍋」やとろける霜降り「常陸牛」。弱アルカリ性の柔らかな美肌の湯が湧く奥久慈温泉郷の厳選名宿5選と、冬の絶景ドライブ＆美食モデルコースを詳しくお届けします。",
-    url: 'https://croud-travel.com/winter-ibaraki-fukuroda-waterfall-ice-onsen-shamo-stay',
+    url: 'https://croud-travel.pages.dev/winter-ibaraki-fukuroda-waterfall-ice-onsen-shamo-stay',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -50,19 +50,19 @@ export default function IbarakiFukurodaIceWinterPage() {
     author: {
       '@type': 'Organization',
       name: 'クラドトラベル編集部',
-      url: 'https://croud-travel.com'
+      url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
       name: 'クラドトラベル',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://croud-travel.com/logo.png'
+        url: 'https://croud-travel.pages.dev/logo.png'
       }
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.com/winter-ibaraki-fukuroda-waterfall-ice-onsen-shamo-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-ibaraki-fukuroda-waterfall-ice-onsen-shamo-stay'
     }
   };
 
@@ -74,19 +74,19 @@ export default function IbarakiFukurodaIceWinterPage() {
         '@type': 'ListItem',
         position: 1,
         name: 'ホーム',
-        item: 'https://croud-travel.com'
+        item: 'https://croud-travel.pages.dev'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.com/features'
+        item: 'https://croud-travel.pages.dev/features'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '袋田の滝氷瀑＆奥久慈温泉郷特集',
-        item: 'https://croud-travel.com/winter-ibaraki-fukuroda-waterfall-ice-onsen-shamo-stay'
+        item: 'https://croud-travel.pages.dev/winter-ibaraki-fukuroda-waterfall-ice-onsen-shamo-stay'
       }
     ]
   };

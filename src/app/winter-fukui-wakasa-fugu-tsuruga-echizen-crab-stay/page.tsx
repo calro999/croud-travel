@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月福井】冬の若狭湾「若狭ふぐ」てっさ・てっちり＆敦賀港越前がに・三方五湖寒うなぎ・海絶景温泉を満喫する名宿5選",
     description: "11月から1月、北陸新幹線延伸でアクセスが格段に向上した福井県・若狭湾（敦賀・美浜・若狭三方五湖・小浜）は、日本海最北の冷海水が育む名物「若狭ふぐ（トラフグ）」と、敦賀港水揚げの黄色いタグ付き「越前がに」が旬の頂点を迎える至福の季節。プリップリに引き締まった身のてっさ、熱々のてっちり、香ばしいひれ酒、そして三方五湖の寒うなぎや若狭牛。レインボーライン山頂公園から望む冬の三方五湖のパノラマ絶景や北陸道総鎮守・気比神宮の初詣とともに、絶景温泉露天と極上美食に浸る厳選5宿を詳しく紹介します。",
-    url: 'https://croud-travel.com/winter-fukui-wakasa-fugu-tsuruga-echizen-crab-stay',
+    url: 'https://croud-travel.pages.dev/winter-fukui-wakasa-fugu-tsuruga-echizen-crab-stay',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -50,19 +50,19 @@ export default function FukuiWakasaFuguWinterPage() {
     author: {
       '@type': 'Organization',
       name: 'クラドトラベル編集部',
-      url: 'https://croud-travel.com'
+      url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
       name: 'クラドトラベル',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://croud-travel.com/logo.png'
+        url: 'https://croud-travel.pages.dev/logo.png'
       }
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.com/winter-fukui-wakasa-fugu-tsuruga-echizen-crab-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-fukui-wakasa-fugu-tsuruga-echizen-crab-stay'
     }
   };
 
@@ -74,19 +74,19 @@ export default function FukuiWakasaFuguWinterPage() {
         '@type': 'ListItem',
         position: 1,
         name: 'ホーム',
-        item: 'https://croud-travel.com'
+        item: 'https://croud-travel.pages.dev'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.com/features'
+        item: 'https://croud-travel.pages.dev/features'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '若狭ふぐ・越前がに・三方五湖絶景温泉名宿',
-        item: 'https://croud-travel.com/winter-fukui-wakasa-fugu-tsuruga-echizen-crab-stay'
+        item: 'https://croud-travel.pages.dev/winter-fukui-wakasa-fugu-tsuruga-echizen-crab-stay'
       }
     ]
   };

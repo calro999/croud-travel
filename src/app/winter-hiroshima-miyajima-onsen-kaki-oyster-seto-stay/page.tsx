@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月広島・宮島温泉の世界遺産初冬絶景と旬解禁広島カキづくし会席】厳島神社大鳥居一望＆瀬戸内海オーシャンビュー露天の宿5選",
     description: "11月から12月にかけて、日本三景の一つにして世界遺産の島・宮島（厳島）は、紅葉谷の燃えるような紅葉が落ち着きを取り戻し、瀬戸内海の澄み切った青空と海上に浮かぶ大鳥居の荘厳な姿が際立つ初冬の静寂シーズンを迎えます。11月はまさに広島名物「牡蠣（カキ）」が身を大きく太らせ旨味を凝縮させる本格シーズンの開幕。香ばしい殻付き焼き牡蠣や濃厚な牡蠣の土手鍋、地元ブランド安芸牛に舌鼓を打ち、冷えた身体を瀬戸内海を望む展望露天風呂で温める贅沢な温泉宿5選を詳しく解説します。",
-    url: 'https://croud-travel.com/winter-hiroshima-miyajima-onsen-kaki-oyster-seto-stay',
+    url: 'https://croud-travel.pages.dev/winter-hiroshima-miyajima-onsen-kaki-oyster-seto-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -62,10 +62,10 @@ export default function HiroshimaMiyajimaWinterFeature() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-hiroshima-miyajima-onsen-kaki-oyster-seto-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-hiroshima-miyajima-onsen-kaki-oyster-seto-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-hiroshima-miyajima-onsen-kaki-oyster-seto-stay"
+          "@id": "https://croud-travel.pages.dev/winter-hiroshima-miyajima-onsen-kaki-oyster-seto-stay"
         },
         "headline": "【11・12月広島・宮島温泉の世界遺産初冬絶景と旬解禁広島カキづくし会席】厳島神社大鳥居一望＆瀬戸内海オーシャンビュー露天の宿5選",
         "description": "11月から12月にかけて、日本三景の一つにして世界遺産の島・宮島（厳島）は、紅葉谷の燃えるような紅葉が落ち着きを取り戻し、瀬戸内海の澄み切った青空と海上に浮かぶ大鳥居の荘厳な姿が際立つ初冬の静寂シーズンを迎えます。11月はまさに広島名物「牡蠣（カキ）」が身を大きく太らせ旨味を凝縮させる本格シーズンの開幕。香ばしい殻付き焼き牡蠣や濃厚な牡蠣の土手鍋、地元ブランド安芸牛に舌鼓を打ち、冷えた身体を瀬戸内海を望む展望露天風呂で温める贅沢な温泉宿5選を詳しく解説します。",
@@ -77,7 +77,7 @@ export default function HiroshimaMiyajimaWinterFeature() {
           "name": "Croud Travel",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "author": {
@@ -88,31 +88,31 @@ export default function HiroshimaMiyajimaWinterFeature() {
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://croud-travel.com/winter-hiroshima-miyajima-onsen-kaki-oyster-seto-stay#breadcrumb",
+        "@id": "https://croud-travel.pages.dev/winter-hiroshima-miyajima-onsen-kaki-oyster-seto-stay#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com/"
+            "item": "https://croud-travel.pages.dev/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "広島・宮島温泉 厳島神社初冬絶景と広島カキづくしの宿",
-            "item": "https://croud-travel.com/winter-hiroshima-miyajima-onsen-kaki-oyster-seto-stay"
+            "item": "https://croud-travel.pages.dev/winter-hiroshima-miyajima-onsen-kaki-oyster-seto-stay"
           }
         ]
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-hiroshima-miyajima-onsen-kaki-oyster-seto-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-hiroshima-miyajima-onsen-kaki-oyster-seto-stay#faq",
         "mainEntity": faqList.map(f => ({
           "@type": "Question",
           "name": f.q,

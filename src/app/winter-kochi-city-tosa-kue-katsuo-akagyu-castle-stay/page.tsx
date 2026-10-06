@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月高知】冬の幻の高級魚「天然クエ鍋」と脂の乗る戻り鰹・土佐あかうし＆高知城冬ライトアップ・桂浜初日の出・天然温泉宿5選",
     description: "11月から1月、南国土佐・高知は、荒波の太平洋が育む幻の高級魚「天然クエ（九絵）」の濃厚な旨みと、脂の乗り切った戻り鰹の藁焼き塩タタキ、赤身の芸術「土佐あかうし」が集う冬の美食天国となります。美しくライトアップされる現存天守・高知城の夜景やひろめ市場の熱気、桂浜から望む太平洋の雄大な初日の出。高知城下の歴史ある天然温泉や老舗旅館、海辺のリゾートで土佐の豪快な郷土料理と酒文化に酔いしれる厳選名宿5選を徹底ガイドします。",
-    url: 'https://croud-travel.com/winter-kochi-city-tosa-kue-katsuo-akagyu-castle-stay',
+    url: 'https://croud-travel.pages.dev/winter-kochi-city-tosa-kue-katsuo-akagyu-castle-stay',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -50,19 +50,19 @@ export default function KochiCityTosaKueWinterPage() {
     author: {
       '@type': 'Organization',
       name: 'クラドトラベル編集部',
-      url: 'https://croud-travel.com'
+      url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
       name: 'クラドトラベル',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://croud-travel.com/logo.png'
+        url: 'https://croud-travel.pages.dev/logo.png'
       }
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.com/winter-kochi-city-tosa-kue-katsuo-akagyu-castle-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-kochi-city-tosa-kue-katsuo-akagyu-castle-stay'
     }
   };
 
@@ -74,19 +74,19 @@ export default function KochiCityTosaKueWinterPage() {
         '@type': 'ListItem',
         position: 1,
         name: 'ホーム',
-        item: 'https://croud-travel.com'
+        item: 'https://croud-travel.pages.dev'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.com/features'
+        item: 'https://croud-travel.pages.dev/features'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '高知・冬の天然クエ鍋＆高知城ライトアップ特集',
-        item: 'https://croud-travel.com/winter-kochi-city-tosa-kue-katsuo-akagyu-castle-stay'
+        item: 'https://croud-travel.pages.dev/winter-kochi-city-tosa-kue-katsuo-akagyu-castle-stay'
       }
     ]
   };

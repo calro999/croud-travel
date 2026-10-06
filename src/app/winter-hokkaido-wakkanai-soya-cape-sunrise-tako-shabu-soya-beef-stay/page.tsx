@@ -10,12 +10,12 @@ export const metadata: Metadata = {
   description: "北緯45度31分、日本最北端の地・稚内と宗谷岬で迎える11〜1月の冬紀行。白銀のオホーツク海から昇る日本最北端の元旦初日の出と、古代ローマ建築の風格を漂わせる北海道遺産「稚内港北防波堤ドーム」。冬の澄んだ大気の先に浮かぶ秀峰・利尻富士の雄姿。水揚げ日本一を誇るミズダコの極上「元祖タコしゃぶ」と、厳寒の宗谷丘陵で育まれる希少黒毛和牛「宗谷黒牛」の鉄板焼き。最果ての厳しい寒さを忘れさせる自家源泉の天然温泉と、心温まるホスピタリティが宿る厳選名宿5選を徹底特集。",
   keywords: '宗谷岬 初日の出, 稚内 冬旅行, 稚内港北防波堤ドーム, タコしゃぶ 稚内, 宗谷黒牛, ドーミーイン稚内, サフィールホテル稚内, 稚内グランドホテル, 日本最北端の地の碑, 利尻富士 冬',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-hokkaido-wakkanai-soya-cape-sunrise-tako-shabu-soya-beef-stay'
+    canonical: 'https://croud-travel.pages.dev/winter-hokkaido-wakkanai-soya-cape-sunrise-tako-shabu-soya-beef-stay'
   },
   openGraph: {
     title: "【11・12・1月北海道】日本最北端「宗谷岬」冬の初日の出と氷門の詩情！極上「宗谷黒牛」＆名物タコしゃぶ・稚内天然温泉名宿5選",
     description: "北緯45度31分、日本最北端の地・稚内と宗谷岬で迎える11〜1月の冬紀行。白銀のオホーツク海から昇る日本最北端の元旦初日の出と、古代ローマ建築の風格を漂わせる北海道遺産「稚内港北防波堤ドーム」。冬の澄んだ大気の先に浮かぶ秀峰・利尻富士の雄姿。水揚げ日本一を誇るミズダコの極上「元祖タコしゃぶ」と、厳寒の宗谷丘陵で育まれる希少黒毛和牛「宗谷黒牛」の鉄板焼き。最果ての厳しい寒さを忘れさせる自家源泉の天然温泉と、心温まるホスピタリティが宿る厳選名宿5選を徹底特集。",
-    url: 'https://croud-travel.com/winter-hokkaido-wakkanai-soya-cape-sunrise-tako-shabu-soya-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-hokkaido-wakkanai-soya-cape-sunrise-tako-shabu-soya-beef-stay',
     type: 'article',
     images: [
       {
@@ -48,19 +48,19 @@ export default function HokkaidoWakkanaiWinterPage() {
     "author": {
       "@type": "Organization",
       "name": "旅宿クラウド 編集部",
-      "url": "https://croud-travel.com"
+      "url": "https://croud-travel.pages.dev"
     },
     "publisher": {
       "@type": "Organization",
       "name": "旅宿クラウド",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://croud-travel.com/logo.png"
+        "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.com/winter-hokkaido-wakkanai-soya-cape-sunrise-tako-shabu-soya-beef-stay"
+      "@id": "https://croud-travel.pages.dev/winter-hokkaido-wakkanai-soya-cape-sunrise-tako-shabu-soya-beef-stay"
     }
   };
 
@@ -72,19 +72,19 @@ export default function HokkaidoWakkanaiWinterPage() {
         "@type": "ListItem",
         "position": 1,
         "name": "ホーム",
-        "item": "https://croud-travel.com"
+        "item": "https://croud-travel.pages.dev"
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "特集一覧",
-        "item": "https://croud-travel.com/features"
+        "item": "https://croud-travel.pages.dev/features"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "北海道・稚内＆宗谷岬 冬特集",
-        "item": "https://croud-travel.com/winter-hokkaido-wakkanai-soya-cape-sunrise-tako-shabu-soya-beef-stay"
+        "item": "https://croud-travel.pages.dev/winter-hokkaido-wakkanai-soya-cape-sunrise-tako-shabu-soya-beef-stay"
       }
     ]
   };
@@ -652,7 +652,7 @@ export default function HokkaidoWakkanaiWinterPage() {
 
       {/* Footer */}
       <footer className="bg-slate-950 text-slate-400 py-8 px-4 text-center text-xs">
-        <p>© 2026 旅宿クラウド (croud-travel.com). All rights reserved.</p>
+        <p>© 2026 旅宿クラウド (croud-travel.pages.dev). All rights reserved.</p>
         <p className="mt-1 text-slate-500">
           ※本記事に掲載している宿泊施設情報、価格、評価、交通アクセス等は、楽天トラベルAPIおよび公式サイトの最新データに基づいています。冬期の宗谷岬方面バス運行ダイヤや天候による運休情報は、事前にお確かめください。
         </p>

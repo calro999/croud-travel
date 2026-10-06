@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11月解禁！城崎温泉の青タグ津居山ガニ】名物7つの外湯めぐりと極上活ズワイガニ会席宿5選",
     description: "11月6日のカニ漁解禁で熱狂に包まれる関西随一の名湯・城崎温泉！地元・津居山港直送の青いタグ付き活松葉ガニ（カニ刺し・焼きガニ・茹で姿ガニ・カニすき・甲羅酒）フルコースと、雪舞う柳並木を浴衣と下駄で歩く名物「7つの外湯めぐり」を堪能する至福の冬旅。",
-    url: 'https://croud-travel.com/winter-hyogo-kinosaki-onsen-matsuba-crab-stay',
+    url: 'https://croud-travel.pages.dev/winter-hyogo-kinosaki-onsen-matsuba-crab-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -44,7 +44,7 @@ export default function KinosakiWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-hyogo-kinosaki-onsen-matsuba-crab-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-hyogo-kinosaki-onsen-matsuba-crab-stay#article",
         "headline": "【11月解禁！城崎温泉の青タグ津居山ガニ】名物7つの外湯めぐりと極上活ズワイガニ会席宿5選",
         "description": "11月6日のカニ漁解禁で熱狂に包まれる関西随一の名湯・城崎温泉！地元・津居山港直送の青いタグ付き活松葉ガニ（カニ刺し・焼きガニ・茹で姿ガニ・カニすき・甲羅酒）フルコースと、雪舞う柳並木を浴衣と下駄で歩く名物「7つの外湯めぐり」を堪能する至福の冬旅。",
         "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
@@ -53,24 +53,24 @@ export default function KinosakiWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-hyogo-kinosaki-onsen-matsuba-crab-stay"
+          "@id": "https://croud-travel.pages.dev/winter-hyogo-kinosaki-onsen-matsuba-crab-stay"
         }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-hyogo-kinosaki-onsen-matsuba-crab-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-hyogo-kinosaki-onsen-matsuba-crab-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -108,7 +108,7 @@ export default function KinosakiWinterPage() {
       },
       {
         "@type": "ItemList",
-        "@id": "https://croud-travel.com/winter-hyogo-kinosaki-onsen-matsuba-crab-stay#hotels",
+        "@id": "https://croud-travel.pages.dev/winter-hyogo-kinosaki-onsen-matsuba-crab-stay#hotels",
         "itemListElement": [
           {
             "@type": "ListItem",

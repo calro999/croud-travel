@@ -9,12 +9,12 @@ export const metadata: Metadata = {
   description: "近江商人の誇りが息づく重伝建の町並みと琵琶湖の冬景色！11〜1月は白壁土蔵や八幡堀の石垣が静寂な冬の空気に包まれ、重要文化的景観「近江八幡の水郷」では冬限定のこたつ舟に揺られながら枯葦の情緒豊かな水路を進みます。近江商人信仰の総本山「日牟禮八幡宮」での商売繁盛・新春初詣と、八幡山ロープウェーから見晴らす白銀の比良山系と琵琶湖の絶景。きめ細やかな霜降り極まる最高峰「近江牛すき焼き」や赤こんにゃく・丁字麩の郷土美食を味わい、琵琶湖畔の温泉宿や近江八幡のハイクオリティ名宿5選を徹底特集。",
   keywords: '近江八幡 水郷めぐり, こたつ舟 近江八幡, 日牟禮八幡宮 初詣, 八幡山ロープウェー, 近江牛 すき焼き, 宮ヶ浜温泉, 休暇村 近江八幡, ホテルニューオウミ, たねやつぶら餅, 滋賀 冬 旅行',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-shiga-omihachiman-suigo-himure-shrine-hatsumode-omigyu-stay'
+    canonical: 'https://croud-travel.pages.dev/winter-shiga-omihachiman-suigo-himure-shrine-hatsumode-omigyu-stay'
   },
   openGraph: {
     title: "【11・12・1月滋賀】白壁土蔵が佇む「近江八幡水郷めぐり」冬のこたつ舟！千年の古社「日牟禮八幡宮」新春初詣・極上近江牛すき焼き＆長命寺温泉厳選名宿5選",
     description: "近江商人の誇りが息づく重伝建の町並みと琵琶湖の冬景色！11〜1月は白壁土蔵や八幡堀の石垣が静寂な冬の空気に包まれ、重要文化的景観「近江八幡の水郷」では冬限定のこたつ舟に揺られながら枯葦の情緒豊かな水路を進みます。近江商人信仰の総本山「日牟禮八幡宮」での商売繁盛・新春初詣と、八幡山ロープウェーから見晴らす白銀の比良山系と琵琶湖の絶景。きめ細やかな霜降り極まる最高峰「近江牛すき焼き」や赤こんにゃく・丁字麩の郷土美食を味わい、琵琶湖畔の温泉宿や近江八幡のハイクオリティ名宿5選を徹底特集。",
-    url: 'https://croud-travel.com/winter-shiga-omihachiman-suigo-himure-shrine-hatsumode-omigyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-shiga-omihachiman-suigo-himure-shrine-hatsumode-omigyu-stay',
     siteName: 'クラドトラベル',
     type: 'article',
     locale: 'ja_JP',
@@ -51,12 +51,12 @@ export default function ShigaOmihachimanWinterFeaturePage() {
       "name": "クラドトラベル",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://croud-travel.com/logo.png"
+        "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.com/winter-shiga-omihachiman-suigo-himure-shrine-hatsumode-omigyu-stay"
+      "@id": "https://croud-travel.pages.dev/winter-shiga-omihachiman-suigo-himure-shrine-hatsumode-omigyu-stay"
     }
   };
 
@@ -68,19 +68,19 @@ export default function ShigaOmihachimanWinterFeaturePage() {
         "@type": "ListItem",
         "position": 1,
         "name": "ホーム",
-        "item": "https://croud-travel.com/"
+        "item": "https://croud-travel.pages.dev/"
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "特集一覧",
-        "item": "https://croud-travel.com/features"
+        "item": "https://croud-travel.pages.dev/features"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "滋賀・近江八幡 冬のこたつ舟と日牟禮八幡宮初詣",
-        "item": "https://croud-travel.com/winter-shiga-omihachiman-suigo-himure-shrine-hatsumode-omigyu-stay"
+        "item": "https://croud-travel.pages.dev/winter-shiga-omihachiman-suigo-himure-shrine-hatsumode-omigyu-stay"
       }
     ]
   };

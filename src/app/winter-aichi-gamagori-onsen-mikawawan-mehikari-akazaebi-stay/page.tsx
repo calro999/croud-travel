@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月愛知・三河湾蒲郡温泉郷の竹島夕日パノラマと冬の深海魚】名物メヒカリ＆幻のアカザエビ・極上三河牛と冬イルミを愉しむ海辺名宿5選",
     description: "11月から12月にかけて、愛知県・三河湾の風光明媚な海岸線に広がる蒲郡温泉郷（蒲郡・三谷・西浦温泉）は、冬の澄み渡る青空と穏やかな海、国指定天然記念物「竹島」を染める真紅のサンセットが最も美しい季節を迎えます。全国屈指の深海魚水揚げを誇る蒲郡漁港で冬に最盛期を迎える名物「メヒカリ（目光）」のサクサク唐揚げや、水深200m超の深海から水揚げされる幻の美味「アカザエビ（深海手長エビ）」の刺身、とろける霜降りのブランド黒毛和牛「三河牛」、冬のラグーナテンボス・イルミネーション。三河湾を一望する絶景オーシャンビュー露天風呂とともに、温暖な冬旅を約束する厳選名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-aichi-gamagori-onsen-mikawawan-mehikari-akazaebi-stay',
+    url: 'https://croud-travel.pages.dev/winter-aichi-gamagori-onsen-mikawawan-mehikari-akazaebi-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -166,28 +166,28 @@ export default function WinterAichiGamagoriPage() {
     '@graph': [
       {
         '@type': 'Article',
-        '@id': 'https://croud-travel.com/winter-aichi-gamagori-onsen-mikawawan-mehikari-akazaebi-stay#article',
+        '@id': 'https://croud-travel.pages.dev/winter-aichi-gamagori-onsen-mikawawan-mehikari-akazaebi-stay#article',
         'isPartOf': {
           '@type': 'WebSite',
-          '@id': 'https://croud-travel.com/#website',
+          '@id': 'https://croud-travel.pages.dev/#website',
           'name': 'クラドトラベル',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         },
         'headline': "【11・12月愛知・三河湾蒲郡温泉郷の竹島夕日パノラマと冬の深海魚】名物メヒカリ＆幻のアカザエビ・極上三河牛と冬イルミを愉しむ海辺名宿5選",
         'description': "11月から12月にかけて、愛知県・三河湾の風光明媚な海岸線に広がる蒲郡温泉郷（蒲郡・三谷・西浦温泉）は、冬の澄み渡る青空と穏やかな海、国指定天然記念物「竹島」を染める真紅のサンセットが最も美しい季節を迎えます。全国屈指の深海魚水揚げを誇る蒲郡漁港で冬に最盛期を迎える名物「メヒカリ（目光）」のサクサク唐揚げや、水深200m超の深海から水揚げされる幻の美味「アカザエビ（深海手長エビ）」の刺身、とろける霜降りのブランド黒毛和牛「三河牛」、冬のラグーナテンボス・イルミネーション。三河湾を一望する絶景オーシャンビュー露天風呂とともに、温暖な冬旅を約束する厳選名宿5選を徹底解説します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.com/winter-aichi-gamagori-onsen-mikawawan-mehikari-akazaebi-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-aichi-gamagori-onsen-mikawawan-mehikari-akazaebi-stay',
         'datePublished': '2026-09-28T00:00:00+09:00',
         'dateModified': '2026-09-28T00:00:00+09:00',
         'publisher': {
           '@type': 'Organization',
           'name': 'クラドトラベル編集部',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         }
       },
       {
         '@type': 'TouristDestination',
-        '@id': 'https://croud-travel.com/winter-aichi-gamagori-onsen-mikawawan-mehikari-akazaebi-stay#destination',
+        '@id': 'https://croud-travel.pages.dev/winter-aichi-gamagori-onsen-mikawawan-mehikari-akazaebi-stay#destination',
         'name': '愛知・三河湾蒲郡温泉郷',
         'description': '三河湾の穏やかな海岸線に広がる名湯リゾート。天然記念物竹島の夕日絶景と深海魚メヒカリ、アカザエビ、三河牛会席が魅力。',
         'geo': {
@@ -198,7 +198,7 @@ export default function WinterAichiGamagoriPage() {
       },
       {
         '@type': 'FAQPage',
-        '@id': 'https://croud-travel.com/winter-aichi-gamagori-onsen-mikawawan-mehikari-akazaebi-stay#faq',
+        '@id': 'https://croud-travel.pages.dev/winter-aichi-gamagori-onsen-mikawawan-mehikari-akazaebi-stay#faq',
         'mainEntity': faqList.map((f) => ({
           '@type': 'Question',
           'name': f.q,
@@ -210,7 +210,7 @@ export default function WinterAichiGamagoriPage() {
       },
       {
         '@type': 'ItemList',
-        '@id': 'https://croud-travel.com/winter-aichi-gamagori-onsen-mikawawan-mehikari-akazaebi-stay#hotellist',
+        '@id': 'https://croud-travel.pages.dev/winter-aichi-gamagori-onsen-mikawawan-mehikari-akazaebi-stay#hotellist',
         'name': '三河湾蒲郡温泉郷のおすすめ名宿5選',
         'itemListElement': hotels.map((h, idx) => ({
           '@type': 'ListItem',

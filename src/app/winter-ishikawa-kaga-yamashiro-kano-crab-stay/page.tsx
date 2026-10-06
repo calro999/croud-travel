@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月加賀温泉郷の冬の贅と加能ガニ解禁】山代・山中温泉の歴史名湯と九谷焼で味わう極上ズワイガニ会席の宿5選",
     description: "11月6日の北陸冬の風物詩・ズワイガニ漁解禁とともに美食の最盛期を迎える石川県・加賀温泉郷（山代温泉・山中温泉）。開湯1300年の歴史を誇る名湯巡りと、青いタグが輝く石川ブランド「加能ガニ」や内子・外子が濃厚な「香箱ガニ」。九谷焼や山中塗の絢爛な器で冬の日本海会席を味わう極上の大人旅ガイド。",
-    url: 'https://croud-travel.com/winter-ishikawa-kaga-yamashiro-kano-crab-stay',
+    url: 'https://croud-travel.pages.dev/winter-ishikawa-kaga-yamashiro-kano-crab-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -44,7 +44,7 @@ export default function KagaWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-ishikawa-kaga-yamashiro-kano-crab-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-ishikawa-kaga-yamashiro-kano-crab-stay#article",
         "headline": "【11・12月加賀温泉郷の冬の贅と加能ガニ解禁】山代・山中温泉の歴史名湯と九谷焼で味わう極上ズワイガニ会席の宿5選",
         "description": "11月6日の北陸冬の風物詩・ズワイガニ漁解禁とともに美食の最盛期を迎える石川県・加賀温泉郷（山代温泉・山中温泉）。開湯1300年の歴史を誇る名湯巡りと、青いタグが輝く石川ブランド「加能ガニ」や内子・外子が濃厚な「香箱ガニ」。九谷焼や山中塗の絢爛な器で冬の日本海会席を味わう極上の大人旅ガイド。",
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
@@ -53,24 +53,24 @@ export default function KagaWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-ishikawa-kaga-yamashiro-kano-crab-stay"
+          "@id": "https://croud-travel.pages.dev/winter-ishikawa-kaga-yamashiro-kano-crab-stay"
         }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-ishikawa-kaga-yamashiro-kano-crab-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-ishikawa-kaga-yamashiro-kano-crab-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -108,7 +108,7 @@ export default function KagaWinterPage() {
       },
       {
         "@type": "ItemList",
-        "@id": "https://croud-travel.com/winter-ishikawa-kaga-yamashiro-kano-crab-stay#hotels",
+        "@id": "https://croud-travel.pages.dev/winter-ishikawa-kaga-yamashiro-kano-crab-stay#hotels",
         "itemListElement": [
           {
             "@type": "ListItem",

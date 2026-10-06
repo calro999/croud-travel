@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月筑波山】冬の筑波山神社新春初詣＆スターダスト夜景！名湯筑波山温泉と極上常陸牛に寛ぐ厳選宿5選",
     description: "「西の富士、東の筑波」と称される関東の名峰・筑波山。冬は空気が冴え渡り、山頂や中腹から東京スカイツリーや富士山、関東平野一面の煌めく夜景が一望できる最高の季節。三千年の歴史を誇る筑波山神社での新春開運初詣、肌を滑らかにするアルカリ性単純温泉「筑波山温泉」、茨城が誇る最高峰黒毛和牛「常陸牛」やすき焼き、奥久慈軍鶏鍋に舌鼓。楽天APIから最新取得した信頼の名宿5選を徹底特集します。",
-    url: 'https://croud-travel.com/winter-ibaraki-tsukubasan-shrine-hatsumode-yakei-onsen-hitachigyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-ibaraki-tsukubasan-shrine-hatsumode-yakei-onsen-hitachigyu-stay',
     type: 'article'
   }
 };
@@ -153,19 +153,19 @@ export default function IbarakiTsukubasanWinterFeaturePage() {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com/"
+            "item": "https://croud-travel.pages.dev/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "【11・12・1月筑波山】冬の筑波山神社新春初詣＆スターダスト夜景！名湯筑波山温泉と極上常陸牛に寛ぐ厳選宿5選",
-            "item": 'https://croud-travel.com/winter-ibaraki-tsukubasan-shrine-hatsumode-yakei-onsen-hitachigyu-stay'
+            "item": 'https://croud-travel.pages.dev/winter-ibaraki-tsukubasan-shrine-hatsumode-yakei-onsen-hitachigyu-stay'
           }
         ]
       },
@@ -182,7 +182,7 @@ export default function IbarakiTsukubasanWinterFeaturePage() {
           "name": "旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/icon.png"
+            "url": "https://croud-travel.pages.dev/icon.png"
           }
         },
         "datePublished": "2026-10-03",

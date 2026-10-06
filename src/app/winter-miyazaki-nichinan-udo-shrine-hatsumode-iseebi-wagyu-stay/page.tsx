@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月宮崎日南】冬の鵜戸神宮新春開運初詣＆日南海岸絶景ドライブ！名物伊勢海老・極上宮崎牛と日南温泉名宿5選",
     description: "冬の宮崎・日南海岸エリアは、紺碧の太平洋が広がる温暖な気候のもと、奇岩怪石の断崖洞窟に鎮座する霊場「鵜戸神宮」が新春開運の初詣祈願と運玉投げで賑わう絶景の地。鬼の洗濯板やフェニックス並木が続く日南フェニックスロードの爽快ドライブ、九州の小京都・飫肥城下町の風情、冬に最盛期を迎える日南名物「伊勢海老」尽くしや日本一の「宮崎牛」に舌鼓を打ち、美肌の天然温泉宿で寛ぐ大人の冬旅。楽天APIから最新取得した日南・南郷・青島の信頼の名宿5選を徹底特集します。",
-    url: 'https://croud-travel.com/winter-miyazaki-nichinan-udo-shrine-hatsumode-iseebi-wagyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-miyazaki-nichinan-udo-shrine-hatsumode-iseebi-wagyu-stay',
     type: 'article',
     images: [{ url: 'https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&q=80' }]
   }
@@ -149,15 +149,15 @@ export default function MiyazakiNichinanWinterPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://croud-travel.com/winter-miyazaki-nichinan-udo-shrine-hatsumode-iseebi-wagyu-stay#webpage",
-        "url": "https://croud-travel.com/winter-miyazaki-nichinan-udo-shrine-hatsumode-iseebi-wagyu-stay",
+        "@id": "https://croud-travel.pages.dev/winter-miyazaki-nichinan-udo-shrine-hatsumode-iseebi-wagyu-stay#webpage",
+        "url": "https://croud-travel.pages.dev/winter-miyazaki-nichinan-udo-shrine-hatsumode-iseebi-wagyu-stay",
         "name": "【11・12・1月宮崎日南】冬の鵜戸神宮新春開運初詣＆日南海岸絶景ドライブ！名物伊勢海老・極上宮崎牛と日南温泉名宿5選",
         "description": "冬の宮崎・日南海岸エリアは、紺碧の太平洋が広がる温暖な気候のもと、奇岩怪石の断崖洞窟に鎮座する霊場「鵜戸神宮」が新春開運の初詣祈願と運玉投げで賑わう絶景の地。鬼の洗濯板やフェニックス並木が続く日南フェニックスロードの爽快ドライブ、九州の小京都・飫肥城下町の風情、冬に最盛期を迎える日南名物「伊勢海老」尽くしや日本一の「宮崎牛」に舌鼓を打ち、美肌の天然温泉宿で寛ぐ大人の冬旅。楽天APIから最新取得した日南・南郷・青島の信頼の名宿5選を徹底特集します。",
         "inLanguage": "ja",
         "isPartOf": {
           "@type": "WebSite",
-          "@id": "https://croud-travel.com/#website",
-          "url": "https://croud-travel.com/",
+          "@id": "https://croud-travel.pages.dev/#website",
+          "url": "https://croud-travel.pages.dev/",
           "name": "くらうどトラベル"
         }
       },
@@ -168,19 +168,19 @@ export default function MiyazakiNichinanWinterPage() {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com/"
+            "item": "https://croud-travel.pages.dev/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "鵜戸神宮初詣＆日南伊勢海老名宿",
-            "item": "https://croud-travel.com/winter-miyazaki-nichinan-udo-shrine-hatsumode-iseebi-wagyu-stay"
+            "item": "https://croud-travel.pages.dev/winter-miyazaki-nichinan-udo-shrine-hatsumode-iseebi-wagyu-stay"
           }
         ]
       },

@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月青森・浅虫温泉の初冬陸奥湾絶景と開湯千二百年名湯】津軽海峡冬本マグロ・肉厚陸奥湾ホタテ＆津軽三味線響く宿5選",
     description: "11月から12月にかけて青森の奥座敷「浅虫温泉」は、初冠雪を戴く八甲田連峰を背に、冷たい潮風が吹き抜ける陸奥湾（青森湾）の海原と湯の島が水墨画のように浮かぶ風光明媚な初冬の季節を迎えます。平安時代に慈覚大師円仁が開湯したと伝わる名湯は、肌触り柔らかで体の芯まで温もりを届ける無色透明の弱アルカリ性単純温泉。津軽海峡の荒波で脂が乗り切った最高峰の「冬の本マグロ」、陸奥湾の恵みが凝縮した肉厚で甘みたっぷりの「活ホタテ」、毎夜ロビーに力強く響き渡る津軽三味線の生演奏、棟方志功ゆかりの芸術情緒を堪能する厳選名宿5選を徹底解説。",
-    url: 'https://croud-travel.com/winter-aomori-asamushi-onsen-mutsu-bay-maguro-stay',
+    url: 'https://croud-travel.pages.dev/winter-aomori-asamushi-onsen-mutsu-bay-maguro-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -62,10 +62,10 @@ export default function AsamushiOnsenWinterFeature() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-aomori-asamushi-onsen-mutsu-bay-maguro-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-aomori-asamushi-onsen-mutsu-bay-maguro-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-aomori-asamushi-onsen-mutsu-bay-maguro-stay"
+          "@id": "https://croud-travel.pages.dev/winter-aomori-asamushi-onsen-mutsu-bay-maguro-stay"
         },
         "headline": "【11・12月青森・浅虫温泉の初冬陸奥湾絶景と開湯千二百年名湯】津軽海峡冬本マグロ・肉厚陸奥湾ホタテ＆津軽三味線響く宿5選",
         "description": "11月から12月にかけて青森の奥座敷「浅虫温泉」は、初冠雪を戴く八甲田連峰を背に、冷たい潮風が吹き抜ける陸奥湾（青森湾）の海原と湯の島が水墨画のように浮かぶ風光明媚な初冬の季節を迎えます。平安時代に慈覚大師円仁が開湯したと伝わる名湯は、肌触り柔らかで体の芯まで温もりを届ける無色透明の弱アルカリ性単純温泉。津軽海峡の荒波で脂が乗り切った最高峰の「冬の本マグロ」、陸奥湾の恵みが凝縮した肉厚で甘みたっぷりの「活ホタテ」、毎夜ロビーに力強く響き渡る津軽三味線の生演奏、棟方志功ゆかりの芸術情緒を堪能する厳選名宿5選を徹底解説。",
@@ -77,7 +77,7 @@ export default function AsamushiOnsenWinterFeature() {
           "name": "Croud Travel",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "author": {
@@ -88,31 +88,31 @@ export default function AsamushiOnsenWinterFeature() {
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://croud-travel.com/winter-aomori-asamushi-onsen-mutsu-bay-maguro-stay#breadcrumb",
+        "@id": "https://croud-travel.pages.dev/winter-aomori-asamushi-onsen-mutsu-bay-maguro-stay#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com/"
+            "item": "https://croud-travel.pages.dev/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "青森・浅虫温泉 初冬陸奥湾絶景と本マグロ・津軽三味線の宿",
-            "item": "https://croud-travel.com/winter-aomori-asamushi-onsen-mutsu-bay-maguro-stay"
+            "item": "https://croud-travel.pages.dev/winter-aomori-asamushi-onsen-mutsu-bay-maguro-stay"
           }
         ]
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-aomori-asamushi-onsen-mutsu-bay-maguro-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-aomori-asamushi-onsen-mutsu-bay-maguro-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",

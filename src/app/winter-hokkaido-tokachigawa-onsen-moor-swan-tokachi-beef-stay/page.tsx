@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月北海道・十勝川温泉の初冬白鳥飛来と美肌遺産モール温泉】極上十勝牛ステーキ＆十勝野チーズ会席を愉しむ名宿5選",
     description: "11月から12月にかけて、広大な十勝平野に位置する十勝川温泉は、シベリアから優雅なオオハクチョウが越冬のために飛来し、澄み渡る「十勝晴れ」の青空と雪化粧した日高山脈が織りなす息を呑むような初冬の絶景を迎えます。世界でも極めて希少な太古の植物堆積層から湧く「植物性モール温泉」は、北海道遺産にも選定された天然の美肌化粧水。湯上がりに肌が驚くほどすべすべになり、体の芯までポカポカに温まります。夕食にはジューシーな十勝牛・十勝和牛のステーキ、濃厚な十勝野ラクレットチーズ、越冬野菜を贅沢に味わう厳選名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-hokkaido-tokachigawa-onsen-moor-swan-tokachi-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-hokkaido-tokachigawa-onsen-moor-swan-tokachi-beef-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -62,10 +62,10 @@ export default function HokkaidoTokachigawaWinterFeature() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-hokkaido-tokachigawa-onsen-moor-swan-tokachi-beef-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-hokkaido-tokachigawa-onsen-moor-swan-tokachi-beef-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-hokkaido-tokachigawa-onsen-moor-swan-tokachi-beef-stay"
+          "@id": "https://croud-travel.pages.dev/winter-hokkaido-tokachigawa-onsen-moor-swan-tokachi-beef-stay"
         },
         "headline": "【11・12月北海道・十勝川温泉の初冬白鳥飛来と美肌遺産モール温泉】極上十勝牛ステーキ＆十勝野チーズ会席を愉しむ名宿5選",
         "description": "11月から12月にかけて、広大な十勝平野に位置する十勝川温泉は、シベリアから優雅なオオハクチョウが越冬のために飛来し、澄み渡る「十勝晴れ」の青空と雪化粧した日高山脈が織りなす息を呑むような初冬の絶景を迎えます。世界でも極めて希少な太古の植物堆積層から湧く「植物性モール温泉」は、北海道遺産にも選定された天然の美肌化粧水。湯上がりに肌が驚くほどすべすべになり、体の芯までポカポカに温まります。夕食にはジューシーな十勝牛・十勝和牛のステーキ、濃厚な十勝野ラクレットチーズ、越冬野菜を贅沢に味わう厳選名宿5選を徹底解説します。",
@@ -77,7 +77,7 @@ export default function HokkaidoTokachigawaWinterFeature() {
           "name": "Croud Travel",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "author": {
@@ -88,31 +88,31 @@ export default function HokkaidoTokachigawaWinterFeature() {
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://croud-travel.com/winter-hokkaido-tokachigawa-onsen-moor-swan-tokachi-beef-stay#breadcrumb",
+        "@id": "https://croud-travel.pages.dev/winter-hokkaido-tokachigawa-onsen-moor-swan-tokachi-beef-stay#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com/"
+            "item": "https://croud-travel.pages.dev/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "北海道・十勝川温泉 初冬白鳥飛来と植物性モール温泉の宿",
-            "item": "https://croud-travel.com/winter-hokkaido-tokachigawa-onsen-moor-swan-tokachi-beef-stay"
+            "item": "https://croud-travel.pages.dev/winter-hokkaido-tokachigawa-onsen-moor-swan-tokachi-beef-stay"
           }
         ]
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-hokkaido-tokachigawa-onsen-moor-swan-tokachi-beef-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-hokkaido-tokachigawa-onsen-moor-swan-tokachi-beef-stay#faq",
         "mainEntity": faqList.map(f => ({
           "@type": "Question",
           "name": f.q,

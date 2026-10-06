@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月北信州】小布施の冬栗おこわ＆完熟サンふじ・石畳の渋温泉「九湯めぐり」と信州プレミアム牛を味わう名宿5選",
     description: "11月中旬から12月の初冬、北信五岳の山々が白銀の雪化粧をまとい、信州の大地に凛とした清澄な空気が満ちる季節。葛飾北斎が晩年逗留した栗と歴史の町・小布施（おぶせ）では、秋から初冬限定の蒸したて「栗おこわ」や濃厚な栗菓子、そして蜜がたっぷりと詰まった信州りんごの王様「完熟サンふじ」が最盛期を迎えます。小布施から車で約20分の湯田中・渋温泉郷は、開湯1300年を超える名湯。下駄の音をカランコロンと響かせながら浴衣で巡る石畳の「渋温泉九湯めぐり（外湯厄除け巡浴）」は、冬の北信州を象徴する情趣あふれる風物詩です。国の登録有形文化財・金具屋をはじめとする木造建築の美、湯煙が立ち上る地獄谷野猿公苑の愛らしいスノーモンキー、夕食には霜降り信州プレミアム牛肉のすき焼きと薫り高い十割新そばの贅沢。冬の信州旅情を心ゆくまで堪能できる厳選5宿をご案内します。",
-    url: 'https://croud-travel.com/winter-nagano-obuse-shibu-onsen-shinshugyu-apple-stay',
+    url: 'https://croud-travel.pages.dev/winter-nagano-obuse-shibu-onsen-shinshugyu-apple-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -44,23 +44,23 @@ export default function NaganoObuseShibuWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-nagano-obuse-shibu-onsen-shinshugyu-apple-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-nagano-obuse-shibu-onsen-shinshugyu-apple-stay#article",
         "isPartOf": {
           "@type": "WebSite",
-          "@id": "https://croud-travel.com/#website",
+          "@id": "https://croud-travel.pages.dev/#website",
           "name": "クラドトラベル",
-          "url": "https://croud-travel.com/"
+          "url": "https://croud-travel.pages.dev/"
         },
         "headline": "【11・12月北信州】小布施の冬栗おこわ＆完熟サンふじ・石畳の渋温泉「九湯めぐり」と信州プレミアム牛を味わう名宿5選",
         "description": "11月中旬から12月の初冬、北信五岳の山々が白銀の雪化粧をまとい、信州の大地に凛とした清澄な空気が満ちる季節。葛飾北斎が晩年逗留した栗と歴史の町・小布施（おぶせ）では、秋から初冬限定の蒸したて「栗おこわ」や濃厚な栗菓子、そして蜜がたっぷりと詰まった信州りんごの王様「完熟サンふじ」が最盛期を迎えます。小布施から車で約20分の湯田中・渋温泉郷は、開湯1300年を超える名湯。下駄の音をカランコロンと響かせながら浴衣で巡る石畳の「渋温泉九湯めぐり（外湯厄除け巡浴）」は、冬の北信州を象徴する情趣あふれる風物詩です。国の登録有形文化財・金具屋をはじめとする木造建築の美、湯煙が立ち上る地獄谷野猿公苑の愛らしいスノーモンキー、夕食には霜降り信州プレミアム牛肉のすき焼きと薫り高い十割新そばの贅沢。冬の信州旅情を心ゆくまで堪能できる厳選5宿をご案内します。",
         "datePublished": "2026-09-30T00:00:00+09:00",
         "dateModified": "2026-09-30T00:00:00+09:00",
         "inLanguage": "ja",
-        "mainEntityOfPage": "https://croud-travel.com/winter-nagano-obuse-shibu-onsen-shinshugyu-apple-stay",
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-nagano-obuse-shibu-onsen-shinshugyu-apple-stay",
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル編集部",
-          "url": "https://croud-travel.com/"
+          "url": "https://croud-travel.pages.dev/"
         }
       },
       {

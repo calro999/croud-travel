@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月天橋立の白砂青松雪景色とカニ漁解禁】日本三景を望む冬の美肌湯・幻の間人ガニ＆寒ブリしゃぶしゃぶの宿5選",
     description: "日本三景の筆頭・京都府丹後天橋立。11月6日の冬のズワイガニ漁解禁とともに美食の最高峰シーズンが開幕。松並木にうっすらと初雪が降り積もる「白砂青松の幻雪景」、地下1,500mから湧き出る茶褐色の美肌湯「天橋立温泉」、そして幻の極上「間人ガニ（たいざがに）」や丹後若狭湾の寒ブリしゃぶしゃぶを味わう至高の冬名宿ガイド。",
-    url: 'https://croud-travel.com/winter-kyoto-amanohashidate-matsuba-crab-stay',
+    url: 'https://croud-travel.pages.dev/winter-kyoto-amanohashidate-matsuba-crab-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -44,7 +44,7 @@ export default function AmanohashidateWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-kyoto-amanohashidate-matsuba-crab-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-kyoto-amanohashidate-matsuba-crab-stay#article",
         "headline": "【11・12月天橋立の白砂青松雪景色とカニ漁解禁】日本三景を望む冬の美肌湯・幻の間人ガニ＆寒ブリしゃぶしゃぶの宿5選",
         "description": "日本三景の筆頭・京都府丹後天橋立。11月6日の冬のズワイガニ漁解禁とともに美食の最高峰シーズンが開幕。松並木にうっすらと初雪が降り積もる「白砂青松の幻雪景」、地下1,500mから湧き出る茶褐色の美肌湯「天橋立温泉」、そして幻の極上「間人ガニ（たいざがに）」や丹後若狭湾の寒ブリしゃぶしゃぶを味わう至高の冬名宿ガイド。",
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
@@ -53,24 +53,24 @@ export default function AmanohashidateWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-kyoto-amanohashidate-matsuba-crab-stay"
+          "@id": "https://croud-travel.pages.dev/winter-kyoto-amanohashidate-matsuba-crab-stay"
         }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-kyoto-amanohashidate-matsuba-crab-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-kyoto-amanohashidate-matsuba-crab-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -108,7 +108,7 @@ export default function AmanohashidateWinterPage() {
       },
       {
         "@type": "ItemList",
-        "@id": "https://croud-travel.com/winter-kyoto-amanohashidate-matsuba-crab-stay#hotels",
+        "@id": "https://croud-travel.pages.dev/winter-kyoto-amanohashidate-matsuba-crab-stay#hotels",
         "itemListElement": [
           {
             "@type": "ListItem",
@@ -624,48 +624,7 @@ export default function AmanohashidateWinterPage() {
         </section>
 
         {/* FAQ Section */}
-        <section id="faq" className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-stone-200/80 space-y-6">
-          <div className="flex items-center gap-3 pb-3 border-b border-stone-100">
-            <div className="p-2 rounded-xl bg-teal-50 text-teal-800">
-              <HelpCircle className="w-5 h-5" />
-            </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              よくある質問（FAQ）：天橋立の冬・カニ旅行のポイント
-            </h2>
-          </div>
-
-          <div className="space-y-4">
-            <div className="p-4 rounded-2xl bg-stone-50 border border-stone-100 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <span className="w-5 h-5 rounded-full bg-teal-700 text-white flex items-center justify-center text-xs shrink-0">Q</span>
-                カニ料理プランの予約はいつ頃から始めるのがおすすめですか？
-              </h3>
-              <p className="text-xs sm:text-sm text-stone-600 pl-7 leading-relaxed">
-                天橋立や丹後地方の松葉ガニ・間人ガニプランは全国的に非常に人気が高く、特に11月中旬から12月の週末や年末年始は数ヶ月前から予約が埋まります。ブランド活ガニや露天風呂付き客室を狙う場合は、9月〜10月中には予約を完了させておくことを強くおすすめします。平日であれば直前でも空室が見つかる場合があります。
-              </p>
-            </div>
-
-            <div className="p-4 rounded-2xl bg-stone-50 border border-stone-100 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <span className="w-5 h-5 rounded-full bg-teal-700 text-white flex items-center justify-center text-xs shrink-0">Q</span>
-                天橋立の松並木は冬でも歩いたりレンタサイクルで渡れますか？
-              </h3>
-              <p className="text-xs sm:text-sm text-stone-600 pl-7 leading-relaxed">
-                はい、積雪が深くない日であれば徒歩（片道約50分）やレンタサイクル（片道約20分）で松並木を渡ることができます。ただし、冬は海風が冷たく、雪が積もっている場合は足元がぬかるむため、片道は観光船（約12分）を利用し、景色を海の上から眺めるルートが暖かく快適でおすすめです。
-              </p>
-            </div>
-
-            <div className="p-4 rounded-2xl bg-stone-50 border border-stone-100 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <span className="w-5 h-5 rounded-full bg-teal-700 text-white flex items-center justify-center text-xs shrink-0">Q</span>
-                冬の天橋立観光でおすすめの立ち寄りスポットはどこですか？
-              </h3>
-              <p className="text-xs sm:text-sm text-stone-600 pl-7 leading-relaxed">
-                天橋立から車やバスで約30〜40分の場所にある重要伝統的建造物群保存地区「伊根の舟屋」は外せません。海に直接家が浮かんでいるような独特の景観は冬の凛とした空気の中で一層美しさを増します。また、天橋立ワイナリーや、西国三十三所第28番札所の「成相寺（なりあいじ）」の雪景色も素晴らしい見どころです。
-              </p>
-            </div>
-          </div>
-        </section>
+        
 
         {/* Related Features & Internal Links */}
         <section className="bg-stone-100/80 rounded-3xl p-6 sm:p-8 border border-stone-200 space-y-6">

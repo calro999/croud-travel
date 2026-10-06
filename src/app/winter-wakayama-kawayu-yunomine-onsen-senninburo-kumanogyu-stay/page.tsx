@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月熊野本宮】冬の風物詩・大塔川仙人風呂オープンと世界遺産つぼ湯・熊野牛会席＆名物温泉粥・熊野三山を巡る名宿5選",
     description: "11月中旬から12月の初冬、世界遺産・熊野古道の聖地に抱かれた和歌山県田辺市本宮町は、霊峰熊野の山々が静けさに包まれ、清流大塔川から白い湯煙が立ちのぼる格別の季節を迎えます。毎年12月1日にオープンする冬の風物詩「仙人風呂」は、川底から湧き出る70℃以上の天然温泉を大塔川の清流で温度調整した、川そのものが広大な混浴大露天風呂。澄み渡る初冬の青空の下、また夜には満天の星を仰ぎながら水着や湯浴み着で浸かる開放感は日本屈指の体験です。さらに車で5分ほどの湯の峰温泉には、日本最古の湯として世界遺産に登録された「つぼ湯」が鎮座し、日に七度色が変わると伝わる神秘の白濁硫黄泉が旅人を魅了します。夕食には紀州の大自然が育んだ極上の霜降りブランド牛「熊野牛」のすき焼きや陶板ステーキ、朝食には源泉でじっくり炊き上げた滋味あふれる「名物温泉粥」。初冬の熊野本宮大社・大斎原参拝と合わせ、心洗われる神秘の温泉リトリートを約束する厳選5宿を徹底ガイドします。",
-    url: 'https://croud-travel.com/winter-wakayama-kawayu-yunomine-onsen-senninburo-kumanogyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-wakayama-kawayu-yunomine-onsen-senninburo-kumanogyu-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -44,23 +44,23 @@ export default function WakayamaKawayuYunomineWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-wakayama-kawayu-yunomine-onsen-senninburo-kumanogyu-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-wakayama-kawayu-yunomine-onsen-senninburo-kumanogyu-stay#article",
         "isPartOf": {
           "@type": "WebSite",
-          "@id": "https://croud-travel.com/#website",
+          "@id": "https://croud-travel.pages.dev/#website",
           "name": "クラドトラベル",
-          "url": "https://croud-travel.com/"
+          "url": "https://croud-travel.pages.dev/"
         },
         "headline": "【11・12月熊野本宮】冬の風物詩・大塔川仙人風呂オープンと世界遺産つぼ湯・熊野牛会席＆名物温泉粥・熊野三山を巡る名宿5選",
         "description": "11月中旬から12月の初冬、世界遺産・熊野古道の聖地に抱かれた和歌山県田辺市本宮町は、霊峰熊野の山々が静けさに包まれ、清流大塔川から白い湯煙が立ちのぼる格別の季節を迎えます。毎年12月1日にオープンする冬の風物詩「仙人風呂」は、川底から湧き出る70℃以上の天然温泉を大塔川の清流で温度調整した、川そのものが広大な混浴大露天風呂。澄み渡る初冬の青空の下、また夜には満天の星を仰ぎながら水着や湯浴み着で浸かる開放感は日本屈指の体験です。さらに車で5分ほどの湯の峰温泉には、日本最古の湯として世界遺産に登録された「つぼ湯」が鎮座し、日に七度色が変わると伝わる神秘の白濁硫黄泉が旅人を魅了します。夕食には紀州の大自然が育んだ極上の霜降りブランド牛「熊野牛」のすき焼きや陶板ステーキ、朝食には源泉でじっくり炊き上げた滋味あふれる「名物温泉粥」。初冬の熊野本宮大社・大斎原参拝と合わせ、心洗われる神秘の温泉リトリートを約束する厳選5宿を徹底ガイドします。",
         "datePublished": "2026-09-30T00:00:00+09:00",
         "dateModified": "2026-09-30T00:00:00+09:00",
         "inLanguage": "ja",
-        "mainEntityOfPage": "https://croud-travel.com/winter-wakayama-kawayu-yunomine-onsen-senninburo-kumanogyu-stay",
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-wakayama-kawayu-yunomine-onsen-senninburo-kumanogyu-stay",
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル編集部",
-          "url": "https://croud-travel.com/"
+          "url": "https://croud-travel.pages.dev/"
         }
       },
       {

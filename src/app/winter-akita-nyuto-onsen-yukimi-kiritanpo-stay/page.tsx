@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月乳頭温泉郷の白銀秘湯めぐり】ブナ原生林の雪見露天風呂と本場きりたんぽ鍋の宿5選",
     description: "11月中旬からブナの原生林が純白の雪に包まれる十和田八幡平国立公園・乳頭温泉郷。乳白色の湯けむりが立ち上る野趣あふれる雪見露天風呂と、囲炉裏端でいただく比内地鶏の出汁が染み渡る熱々の本場きりたんぽ鍋。冬の東北が誇る究極の秘湯旅ガイド。",
-    url: 'https://croud-travel.com/winter-akita-nyuto-onsen-yukimi-kiritanpo-stay',
+    url: 'https://croud-travel.pages.dev/winter-akita-nyuto-onsen-yukimi-kiritanpo-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -44,7 +44,7 @@ export default function NyutoWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-akita-nyuto-onsen-yukimi-kiritanpo-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-akita-nyuto-onsen-yukimi-kiritanpo-stay#article",
         "headline": "【11・12月乳頭温泉郷の白銀秘湯めぐり】ブナ原生林の雪見露天風呂と本場きりたんぽ鍋の宿5選",
         "description": "11月中旬からブナの原生林が純白の雪に包まれる十和田八幡平国立公園・乳頭温泉郷。乳白色の湯けむりが立ち上る野趣あふれる雪見露天風呂と、囲炉裏端でいただく比内地鶏の出汁が染み渡る熱々の本場きりたんぽ鍋。冬の東北が誇る究極の秘湯旅ガイド。",
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
@@ -53,24 +53,24 @@ export default function NyutoWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-akita-nyuto-onsen-yukimi-kiritanpo-stay"
+          "@id": "https://croud-travel.pages.dev/winter-akita-nyuto-onsen-yukimi-kiritanpo-stay"
         }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-akita-nyuto-onsen-yukimi-kiritanpo-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-akita-nyuto-onsen-yukimi-kiritanpo-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -108,7 +108,7 @@ export default function NyutoWinterPage() {
       },
       {
         "@type": "ItemList",
-        "@id": "https://croud-travel.com/winter-akita-nyuto-onsen-yukimi-kiritanpo-stay#hotels",
+        "@id": "https://croud-travel.pages.dev/winter-akita-nyuto-onsen-yukimi-kiritanpo-stay#hotels",
         "itemListElement": [
           {
             "@type": "ListItem",

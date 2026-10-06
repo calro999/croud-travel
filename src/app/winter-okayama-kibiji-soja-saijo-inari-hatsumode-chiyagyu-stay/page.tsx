@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月岡山】最上稲荷の新春初詣＆国宝吉備津神社の400m廻廊！備中国分寺五重塔と幻の千屋牛名宿5選",
     description: "古代吉備王国の歴史ロマンと晴れの国の冬空が広がる岡山・吉備路＆総社エリアの11〜1月冬旅特集。初詣参拝客数60万人を誇る中国屈指の大霊場「最上稲荷（高松稲荷）」の新春開運祈願、桃太郎伝説が息づく国宝「吉備津神社」の荘厳な400m大廻廊、冬の田園に凛とそびえる「備中国分寺五重塔」、日本最古の蔓牛の血統を継ぐ幻の和牛「千屋牛（ちやぎゅう）」と冬の岡山美食。吉備路散策の拠点に最適な厳選ホテル・名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-okayama-kibiji-soja-saijo-inari-hatsumode-chiyagyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-okayama-kibiji-soja-saijo-inari-hatsumode-chiyagyu-stay',
     type: 'article',
     images: [
       {
@@ -49,19 +49,19 @@ export default function OkayamaKibijiWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "旅クラウド編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "旅クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-okayama-kibiji-soja-saijo-inari-hatsumode-chiyagyu-stay"
+          "@id": "https://croud-travel.pages.dev/winter-okayama-kibiji-soja-saijo-inari-hatsumode-chiyagyu-stay"
         }
       },
       {
@@ -71,19 +71,19 @@ export default function OkayamaKibijiWinterPage() {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com"
+            "item": "https://croud-travel.pages.dev"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "冬の旅特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "岡山・吉備路＆最上稲荷名宿",
-            "item": "https://croud-travel.com/winter-okayama-kibiji-soja-saijo-inari-hatsumode-chiyagyu-stay"
+            "item": "https://croud-travel.pages.dev/winter-okayama-kibiji-soja-saijo-inari-hatsumode-chiyagyu-stay"
           }
         ]
       },

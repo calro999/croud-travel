@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月鳥羽・相差温泉＆答志島】現役海女の里で喰らう冬の豪快舟盛り・旬の答志島トロさわら＆活伊勢海老・的矢牡蠣と極上松阪牛を味わう名宿5選",
     description: "11月中旬から初冬の伊勢志摩は、鳥羽湾と黒潮が交わる相差（おうさつ）において海の幸が一年で最も豊潤に実る奇跡の季節です。全国一の現役海女数を誇る相差の集落では、海女や漁師たちが水揚げしたピチピチの活魚が巨大な木舟を埋め尽くし、圧巻の大漁舟盛りが食卓を彩ります。特に11月から12月にかけて最盛期を迎える「答志島トロさわら」は、一本釣りで丁寧に釣り上げられ、脂肪分15%以上を蓄えた究極のブランド魚。中トロのようにとろける上品な甘みは、現地でしか出会えない初冬の口福です。さらに解禁されたばかりの濃厚な「的矢牡蠣」、甘みが際立つ「活伊勢海老」のお造りや鬼殻焼き、あわび踊り焼き、そして世界に誇る「松阪牛」の陶板ステーキまで、海と陸の美食が勢揃い。女性の願いを一つ叶えてくれると伝わる神明神社「石神さん」への朝参拝と、太平洋の水平線から昇る神々しい朝日を望む展望露天風呂を満喫する厳選名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-mie-toba-osaatsu-onsen-seafood-torasawara-matsusaka-stay',
+    url: 'https://croud-travel.pages.dev/winter-mie-toba-osaatsu-onsen-seafood-torasawara-matsusaka-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -45,23 +45,23 @@ export default function MieTobaOsaatsuWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-mie-toba-osaatsu-onsen-seafood-torasawara-matsusaka-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-mie-toba-osaatsu-onsen-seafood-torasawara-matsusaka-stay#article",
         "isPartOf": {
           "@type": "WebSite",
-          "@id": "https://croud-travel.com/#website",
+          "@id": "https://croud-travel.pages.dev/#website",
           "name": "クラドトラベル",
-          "url": "https://croud-travel.com/"
+          "url": "https://croud-travel.pages.dev/"
         },
         "headline": "【11・12月鳥羽・相差温泉＆答志島】現役海女の里で喰らう冬の豪快舟盛り・旬の答志島トロさわら＆活伊勢海老・的矢牡蠣と極上松阪牛を味わう名宿5選",
         "description": "11月中旬から初冬の伊勢志摩は、鳥羽湾と黒潮が交わる相差（おうさつ）において海の幸が一年で最も豊潤に実る奇跡の季節です。全国一の現役海女数を誇る相差の集落では、海女や漁師たちが水揚げしたピチピチの活魚が巨大な木舟を埋め尽くし、圧巻の大漁舟盛りが食卓を彩ります。特に11月から12月にかけて最盛期を迎える「答志島トロさわら」は、一本釣りで丁寧に釣り上げられ、脂肪分15%以上を蓄えた究極のブランド魚。中トロのようにとろける上品な甘みは、現地でしか出会えない初冬の口福です。さらに解禁されたばかりの濃厚な「的矢牡蠣」、甘みが際立つ「活伊勢海老」のお造りや鬼殻焼き、あわび踊り焼き、そして世界に誇る「松阪牛」の陶板ステーキまで、海と陸の美食が勢揃い。女性の願いを一つ叶えてくれると伝わる神明神社「石神さん」への朝参拝と、太平洋の水平線から昇る神々しい朝日を望む展望露天風呂を満喫する厳選名宿5選を徹底解説します。",
         "datePublished": "2026-09-30T00:00:00+09:00",
         "dateModified": "2026-09-30T00:00:00+09:00",
         "inLanguage": "ja",
-        "mainEntityOfPage": "https://croud-travel.com/winter-mie-toba-osaatsu-onsen-seafood-torasawara-matsusaka-stay",
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-mie-toba-osaatsu-onsen-seafood-torasawara-matsusaka-stay",
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル編集部",
-          "url": "https://croud-travel.com/"
+          "url": "https://croud-travel.pages.dev/"
         }
       },
       {

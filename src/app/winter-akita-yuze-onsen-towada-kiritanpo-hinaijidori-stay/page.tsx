@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月秋田・湯瀬温泉＆鹿角】日本三大美人の湯と米代川雪渓谷・本場きりたんぽ鍋と比内地鶏を味わう名宿5選",
     description: "11月から12月にかけて、十和田八幡平国立公園の南麓に位置する秋田県鹿角市（かづのし）は、澄み切った冷気とともに初雪を迎え、白銀の冬景色へと姿を変えます。清流・米代川の渓谷沿いに湧き出る「湯瀬温泉（ゆぜおんせん）」は、「川の瀬から湯が湧き出す」情景がその名の由来となった名湯で、和歌山県の龍神温泉、群馬県の川中島温泉とともに「日本三大美人の湯」のひとつに数えられます。pH9を超える高アルカリ性の単純温泉は、化粧水のようにトロリとした滑らかな肌触りが特徴で、湯から上がった瞬間に肌がツルツルになると称賛されます。初冬の冷え込みの中で米代川の雪見渓流露天風呂に浸かる心地よさは格別。夕食には発祥の地・鹿角ならではの「本場きりたんぽ鍋」が登場。収穫されたばかりの新米あきたこまちを香ばしく焼き、日本三大地鶏「比内地鶏」の濃厚なガラ出汁、香り高いセリや舞茸とともに煮込む熱々の一杯は、冬の東北旅の真骨頂です。希少なかづの牛や名酒とともに、初冬の秋田で温まる厳選名宿5選を詳しく紹介します。",
-    url: 'https://croud-travel.com/winter-akita-yuze-onsen-towada-kiritanpo-hinaijidori-stay',
+    url: 'https://croud-travel.pages.dev/winter-akita-yuze-onsen-towada-kiritanpo-hinaijidori-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -166,28 +166,28 @@ export default function WinterAkitaYuzePage() {
     '@graph': [
       {
         '@type': 'Article',
-        '@id': 'https://croud-travel.com/winter-akita-yuze-onsen-towada-kiritanpo-hinaijidori-stay#article',
+        '@id': 'https://croud-travel.pages.dev/winter-akita-yuze-onsen-towada-kiritanpo-hinaijidori-stay#article',
         'isPartOf': {
           '@type': 'WebSite',
-          '@id': 'https://croud-travel.com/#website',
+          '@id': 'https://croud-travel.pages.dev/#website',
           'name': 'クラドトラベル',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         },
         'headline': "【11・12月秋田・湯瀬温泉＆鹿角】日本三大美人の湯と米代川雪渓谷・本場きりたんぽ鍋と比内地鶏を味わう名宿5選",
         'description': "11月から12月にかけて、十和田八幡平国立公園の南麓に位置する秋田県鹿角市（かづのし）は、澄み切った冷気とともに初雪を迎え、白銀の冬景色へと姿を変えます。清流・米代川の渓谷沿いに湧き出る「湯瀬温泉（ゆぜおんせん）」は、「川の瀬から湯が湧き出す」情景がその名の由来となった名湯で、和歌山県の龍神温泉、群馬県の川中島温泉とともに「日本三大美人の湯」のひとつに数えられます。pH9を超える高アルカリ性の単純温泉は、化粧水のようにトロリとした滑らかな肌触りが特徴で、湯から上がった瞬間に肌がツルツルになると称賛されます。初冬の冷え込みの中で米代川の雪見渓流露天風呂に浸かる心地よさは格別。夕食には発祥の地・鹿角ならではの「本場きりたんぽ鍋」が登場。収穫されたばかりの新米あきたこまちを香ばしく焼き、日本三大地鶏「比内地鶏」の濃厚なガラ出汁、香り高いセリや舞茸とともに煮込む熱々の一杯は、冬の東北旅の真骨頂です。希少なかづの牛や名酒とともに、初冬の秋田で温まる厳選名宿5選を詳しく紹介します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.com/winter-akita-yuze-onsen-towada-kiritanpo-hinaijidori-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-akita-yuze-onsen-towada-kiritanpo-hinaijidori-stay',
         'datePublished': '2026-09-29T00:00:00+09:00',
         'dateModified': '2026-09-29T00:00:00+09:00',
         'publisher': {
           '@type': 'Organization',
           'name': 'クラドトラベル編集部',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         }
       },
       {
         '@type': 'TouristDestination',
-        '@id': 'https://croud-travel.com/winter-akita-yuze-onsen-towada-kiritanpo-hinaijidori-stay#destination',
+        '@id': 'https://croud-travel.pages.dev/winter-akita-yuze-onsen-towada-kiritanpo-hinaijidori-stay#destination',
         'name': '秋田・湯瀬温泉＆鹿角',
         'description': '秋田県鹿角市の米代川渓谷沿いに湧く日本三大美人の湯。pH9超のアルカリ性単純温泉の雪見露天風呂と、新米あきたこまち・比内地鶏を使った発祥の地本場のきりたんぽ鍋が魅力。',
         'geo': {
@@ -198,7 +198,7 @@ export default function WinterAkitaYuzePage() {
       },
       {
         '@type': 'FAQPage',
-        '@id': 'https://croud-travel.com/winter-akita-yuze-onsen-towada-kiritanpo-hinaijidori-stay#faq',
+        '@id': 'https://croud-travel.pages.dev/winter-akita-yuze-onsen-towada-kiritanpo-hinaijidori-stay#faq',
         'mainEntity': faqList.map((f) => ({
           '@type': 'Question',
           'name': f.q,
@@ -210,7 +210,7 @@ export default function WinterAkitaYuzePage() {
       },
       {
         '@type': 'ItemList',
-        '@id': 'https://croud-travel.com/winter-akita-yuze-onsen-towada-kiritanpo-hinaijidori-stay#hotellist',
+        '@id': 'https://croud-travel.pages.dev/winter-akita-yuze-onsen-towada-kiritanpo-hinaijidori-stay#hotellist',
         'name': '秋田・湯瀬温泉＆鹿角のおすすめ名宿5選',
         'itemListElement': hotels.map((h, idx) => ({
           '@type': 'ListItem',

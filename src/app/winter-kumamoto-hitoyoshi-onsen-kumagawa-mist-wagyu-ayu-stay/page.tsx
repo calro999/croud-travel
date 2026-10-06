@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月熊本・人吉温泉郷の球磨川初冬朝霧絶景と美肌名湯】名物子持ち落ち鮎塩焼き＆極上球磨黒毛和牛・球磨焼酎会席を味わう老舗宿5選",
     description: "11月から12月にかけて、相良（さがら）700年の城下町の歴史が息づく熊本県南部の人吉盆地は、盆地特有の冷え込みによって街全体と日本三急流・球磨川が深い霧に包まれる「朝霧の都」の幻想的なベストシーズンを迎えます。朝日に照らされて霧が晴れゆく幽玄な球磨川の情景、国宝・青井阿蘇神社の厳かな歴史散策、そして化粧水のように肌を包み込む弱アルカリ性炭酸水素塩泉の名湯。夕食には晩秋から初冬に旨味が凝縮する名物「子持ち落ち鮎の塩焼き」やうるか、とろける霜降りの極上球磨黒毛和牛、500年の伝統を誇る米焼酎「球磨焼酎」のぬる燗を味わう厳選名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-kumamoto-hitoyoshi-onsen-kumagawa-mist-wagyu-ayu-stay',
+    url: 'https://croud-travel.pages.dev/winter-kumamoto-hitoyoshi-onsen-kumagawa-mist-wagyu-ayu-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -160,28 +160,28 @@ export default function WinterKumamotoHitoyoshiPage() {
     '@graph': [
       {
         '@type': 'Article',
-        '@id': 'https://croud-travel.com/winter-kumamoto-hitoyoshi-onsen-kumagawa-mist-wagyu-ayu-stay#article',
+        '@id': 'https://croud-travel.pages.dev/winter-kumamoto-hitoyoshi-onsen-kumagawa-mist-wagyu-ayu-stay#article',
         'isPartOf': {
           '@type': 'WebSite',
-          '@id': 'https://croud-travel.com/#website',
+          '@id': 'https://croud-travel.pages.dev/#website',
           'name': 'クラドトラベル',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         },
         'headline': "【11・12月熊本・人吉温泉郷の球磨川初冬朝霧絶景と美肌名湯】名物子持ち落ち鮎塩焼き＆極上球磨黒毛和牛・球磨焼酎会席を味わう老舗宿5選",
         'description': "11月から12月にかけて、相良（さがら）700年の城下町の歴史が息づく熊本県南部の人吉盆地は、盆地特有の冷え込みによって街全体と日本三急流・球磨川が深い霧に包まれる「朝霧の都」の幻想的なベストシーズンを迎えます。朝日に照らされて霧が晴れゆく幽玄な球磨川の情景、国宝・青井阿蘇神社の厳かな歴史散策、そして化粧水のように肌を包み込む弱アルカリ性炭酸水素塩泉の名湯。夕食には晩秋から初冬に旨味が凝縮する名物「子持ち落ち鮎の塩焼き」やうるか、とろける霜降りの極上球磨黒毛和牛、500年の伝統を誇る米焼酎「球磨焼酎」のぬる燗を味わう厳選名宿5選を徹底解説します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.com/winter-kumamoto-hitoyoshi-onsen-kumagawa-mist-wagyu-ayu-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-kumamoto-hitoyoshi-onsen-kumagawa-mist-wagyu-ayu-stay',
         'datePublished': '2026-09-28T00:00:00+09:00',
         'dateModified': '2026-09-28T00:00:00+09:00',
         'publisher': {
           '@type': 'Organization',
           'name': 'クラドトラベル編集部',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         }
       },
       {
         '@type': 'FAQPage',
-        '@id': 'https://croud-travel.com/winter-kumamoto-hitoyoshi-onsen-kumagawa-mist-wagyu-ayu-stay#faq',
+        '@id': 'https://croud-travel.pages.dev/winter-kumamoto-hitoyoshi-onsen-kumagawa-mist-wagyu-ayu-stay#faq',
         'mainEntity': faqList.map((f) => ({
           '@type': 'Question',
           'name': f.q,

@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月福島・会津東山温泉＆芦ノ牧温泉の渓谷雪景色と城下町情緒】名物会津牛＆極上馬刺し・郷土こづゆと渓谷露天の名宿5選",
     description: "11月から12月にかけて、鶴ヶ城の武家文化と城下町情緒が息づく福島県会津若松市の「東山温泉（ひがしやまおんせん）」と「芦ノ牧温泉（あしのまきおんせん）」は、湯川渓谷や阿賀川（大川）の切り立つ断崖に初雪が降り積もり、水墨画のような渓谷雪見露天が旅人を魅了する季節を迎えます。開湯約1300年の歴史を誇る東山温泉のサラリとした硫酸塩泉と、湯量豊富な芦ノ牧温泉の弱アルカリ性美肌泉。冷えた身体を温めた後は、会津漆器で振る舞われる江戸時代からの伝統郷土料理「こづゆ」、赤身の芳醇な旨味と甘みが際立つ極上「会津馬刺し」、きめ細やかなサシが入ったブランド黒毛和牛「会津牛」、全国新酒鑑評会で金賞を席巻する会津の銘酒。初冬の奥会津の静寂と温もりに包まれる厳選名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-fukushima-aizu-higashiyama-ashinomaki-onsen-stay',
+    url: 'https://croud-travel.pages.dev/winter-fukushima-aizu-higashiyama-ashinomaki-onsen-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -166,28 +166,28 @@ export default function WinterFukushimaAizuOnsenPage() {
     '@graph': [
       {
         '@type': 'Article',
-        '@id': 'https://croud-travel.com/winter-fukushima-aizu-higashiyama-ashinomaki-onsen-stay#article',
+        '@id': 'https://croud-travel.pages.dev/winter-fukushima-aizu-higashiyama-ashinomaki-onsen-stay#article',
         'isPartOf': {
           '@type': 'WebSite',
-          '@id': 'https://croud-travel.com/#website',
+          '@id': 'https://croud-travel.pages.dev/#website',
           'name': 'クラドトラベル',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         },
         'headline': "【11・12月福島・会津東山温泉＆芦ノ牧温泉の渓谷雪景色と城下町情緒】名物会津牛＆極上馬刺し・郷土こづゆと渓谷露天の名宿5選",
         'description': "11月から12月にかけて、鶴ヶ城の武家文化と城下町情緒が息づく福島県会津若松市の「東山温泉（ひがしやまおんせん）」と「芦ノ牧温泉（あしのまきおんせん）」は、湯川渓谷や阿賀川（大川）の切り立つ断崖に初雪が降り積もり、水墨画のような渓谷雪見露天が旅人を魅了する季節を迎えます。開湯約1300年の歴史を誇る東山温泉のサラリとした硫酸塩泉と、湯量豊富な芦ノ牧温泉の弱アルカリ性美肌泉。冷えた身体を温めた後は、会津漆器で振る舞われる江戸時代からの伝統郷土料理「こづゆ」、赤身の芳醇な旨味と甘みが際立つ極上「会津馬刺し」、きめ細やかなサシが入ったブランド黒毛和牛「会津牛」、全国新酒鑑評会で金賞を席巻する会津の銘酒。初冬の奥会津の静寂と温もりに包まれる厳選名宿5選を徹底解説します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.com/winter-fukushima-aizu-higashiyama-ashinomaki-onsen-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-fukushima-aizu-higashiyama-ashinomaki-onsen-stay',
         'datePublished': '2026-09-29T00:00:00+09:00',
         'dateModified': '2026-09-29T00:00:00+09:00',
         'publisher': {
           '@type': 'Organization',
           'name': 'クラドトラベル編集部',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         }
       },
       {
         '@type': 'TouristDestination',
-        '@id': 'https://croud-travel.com/winter-fukushima-aizu-higashiyama-ashinomaki-onsen-stay#destination',
+        '@id': 'https://croud-travel.pages.dev/winter-fukushima-aizu-higashiyama-ashinomaki-onsen-stay#destination',
         'name': '福島・会津東山温泉＆芦ノ牧温泉',
         'description': '開湯約1300年の名湯と渓谷雪景色。鶴ヶ城の城下町情緒、名物会津牛、極上会津馬刺し、郷土こづゆが魅力。',
         'geo': {
@@ -198,7 +198,7 @@ export default function WinterFukushimaAizuOnsenPage() {
       },
       {
         '@type': 'FAQPage',
-        '@id': 'https://croud-travel.com/winter-fukushima-aizu-higashiyama-ashinomaki-onsen-stay#faq',
+        '@id': 'https://croud-travel.pages.dev/winter-fukushima-aizu-higashiyama-ashinomaki-onsen-stay#faq',
         'mainEntity': faqList.map((f) => ({
           '@type': 'Question',
           'name': f.q,
@@ -210,7 +210,7 @@ export default function WinterFukushimaAizuOnsenPage() {
       },
       {
         '@type': 'ItemList',
-        '@id': 'https://croud-travel.com/winter-fukushima-aizu-higashiyama-ashinomaki-onsen-stay#hotellist',
+        '@id': 'https://croud-travel.pages.dev/winter-fukushima-aizu-higashiyama-ashinomaki-onsen-stay#hotellist',
         'name': '福島会津東山温泉・芦ノ牧温泉のおすすめ名宿5選',
         'itemListElement': hotels.map((h, idx) => ({
           '@type': 'ListItem',

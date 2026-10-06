@@ -9,12 +9,12 @@ export const metadata: Metadata = {
   description: "世界最大級の吊橋・明石海峡大橋を間近に仰ぐ兵庫県明石・加古川・播磨灘エリア。11〜1月は澄み渡る冬晴れの下、歌聖・柿本人麻呂公を祀る人麿山「柿本神社」で迎える厳かな新春初詣。明石の台所「魚の棚商店街」では年末年始の活気が最高潮に達し、荒波が育む極上の「明石だこ」「明石鯛」や出汁で味わう熱々の本場「明石焼き（玉子焼）」を満喫。播州名物「加古川かつめし」や播州牛を味わい、海峡の夜景に抱かれる厳選名宿5選。",
   keywords: '柿本神社 初詣, 明石 魚の棚商店街, 本場 明石焼き 玉子焼, 明石海峡大橋 冬 ライトアップ, 加古川 かつめし, ホテルキャッスルプラザ 明石, シーサイドホテル舞子ビラ神戸, グリーンヒルホテル明石, 兵庫 冬 観光',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-hyogo-akashi-uonotana-kakimoto-shrine-hatsumode-akashiyaki-stay'
+    canonical: 'https://croud-travel.pages.dev/winter-hyogo-akashi-uonotana-kakimoto-shrine-hatsumode-akashiyaki-stay'
   },
   openGraph: {
     title: "【11・12・1月兵庫】明石海峡大橋を望む人麿山「柿本神社」新春初詣と歳末・新春活気溢れる「魚の棚商店街」！冬の激流が育む「明石だこ・明石鯛」本場明石焼き＆加古川かつめし・播州牛厳選名宿5選",
     description: "世界最大級の吊橋・明石海峡大橋を間近に仰ぐ兵庫県明石・加古川・播磨灘エリア。11〜1月は澄み渡る冬晴れの下、歌聖・柿本人麻呂公を祀る人麿山「柿本神社」で迎える厳かな新春初詣。明石の台所「魚の棚商店街」では年末年始の活気が最高潮に達し、荒波が育む極上の「明石だこ」「明石鯛」や出汁で味わう熱々の本場「明石焼き（玉子焼）」を満喫。播州名物「加古川かつめし」や播州牛を味わい、海峡の夜景に抱かれる厳選名宿5選。",
-    url: 'https://croud-travel.com/winter-hyogo-akashi-uonotana-kakimoto-shrine-hatsumode-akashiyaki-stay',
+    url: 'https://croud-travel.pages.dev/winter-hyogo-akashi-uonotana-kakimoto-shrine-hatsumode-akashiyaki-stay',
     siteName: 'クラドトラベル',
     type: 'article',
     locale: 'ja_JP',
@@ -51,12 +51,12 @@ export default function HyogoAkashiWinterFeaturePage() {
       "name": "クラドトラベル",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://croud-travel.com/logo.png"
+        "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.com/winter-hyogo-akashi-uonotana-kakimoto-shrine-hatsumode-akashiyaki-stay"
+      "@id": "https://croud-travel.pages.dev/winter-hyogo-akashi-uonotana-kakimoto-shrine-hatsumode-akashiyaki-stay"
     }
   };
 
@@ -68,19 +68,19 @@ export default function HyogoAkashiWinterFeaturePage() {
         "@type": "ListItem",
         "position": 1,
         "name": "ホーム",
-        "item": "https://croud-travel.com/"
+        "item": "https://croud-travel.pages.dev/"
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "特集一覧",
-        "item": "https://croud-travel.com/features"
+        "item": "https://croud-travel.pages.dev/features"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "兵庫・明石＆加古川 冬の初詣と播磨灘グルメ",
-        "item": "https://croud-travel.com/winter-hyogo-akashi-uonotana-kakimoto-shrine-hatsumode-akashiyaki-stay"
+        "item": "https://croud-travel.pages.dev/winter-hyogo-akashi-uonotana-kakimoto-shrine-hatsumode-akashiyaki-stay"
       }
     ]
   };

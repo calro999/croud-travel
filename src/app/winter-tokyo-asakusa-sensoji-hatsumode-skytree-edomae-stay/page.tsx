@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月浅草押上】浅草寺新春初詣＆東京スカイツリー冬夜景！老舗すき焼き・江戸前天ぷら・下町天然温泉宿5選",
     description: "冬の東京・浅草＆押上は、1400年の歴史を誇る浅草寺の朱塗り本堂と雷門が新春初詣の祈りで満ち、冬の澄み渡る夜空に東京スカイツリーの限定ライティングが煌めく最も華やぐ季節。12月の伝統「歳の市（羽子板市）」から1月の初詣・浅草名所七福神巡り、老舗「浅草今半」の極上すき焼きや胡麻油香る江戸前天ぷら、駒形どぜう鍋に舌鼓を打ち、下町名物の黒湯天然温泉に浸かる贅沢な冬旅。楽天APIから最新取得した浅草・スカイツリー至近の信頼の名宿5選を徹底特集します。",
-    url: 'https://croud-travel.com/winter-tokyo-asakusa-sensoji-hatsumode-skytree-edomae-stay',
+    url: 'https://croud-travel.pages.dev/winter-tokyo-asakusa-sensoji-hatsumode-skytree-edomae-stay',
     type: 'article',
     images: [{ url: 'https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1200&q=80' }]
   }
@@ -149,15 +149,15 @@ export default function TokyoAsakusaWinterPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://croud-travel.com/winter-tokyo-asakusa-sensoji-hatsumode-skytree-edomae-stay#webpage",
-        "url": "https://croud-travel.com/winter-tokyo-asakusa-sensoji-hatsumode-skytree-edomae-stay",
+        "@id": "https://croud-travel.pages.dev/winter-tokyo-asakusa-sensoji-hatsumode-skytree-edomae-stay#webpage",
+        "url": "https://croud-travel.pages.dev/winter-tokyo-asakusa-sensoji-hatsumode-skytree-edomae-stay",
         "name": "【11・12・1月浅草押上】浅草寺新春初詣＆東京スカイツリー冬夜景！老舗すき焼き・江戸前天ぷら・下町天然温泉宿5選",
         "description": "冬の東京・浅草＆押上は、1400年の歴史を誇る浅草寺の朱塗り本堂と雷門が新春初詣の祈りで満ち、冬の澄み渡る夜空に東京スカイツリーの限定ライティングが煌めく最も華やぐ季節。12月の伝統「歳の市（羽子板市）」から1月の初詣・浅草名所七福神巡り、老舗「浅草今半」の極上すき焼きや胡麻油香る江戸前天ぷら、駒形どぜう鍋に舌鼓を打ち、下町名物の黒湯天然温泉に浸かる贅沢な冬旅。楽天APIから最新取得した浅草・スカイツリー至近の信頼の名宿5選を徹底特集します。",
         "inLanguage": "ja",
         "isPartOf": {
           "@type": "WebSite",
-          "@id": "https://croud-travel.com/#website",
-          "url": "https://croud-travel.com/",
+          "@id": "https://croud-travel.pages.dev/#website",
+          "url": "https://croud-travel.pages.dev/",
           "name": "くらうどトラベル"
         }
       },
@@ -168,19 +168,19 @@ export default function TokyoAsakusaWinterPage() {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com/"
+            "item": "https://croud-travel.pages.dev/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "浅草寺初詣＆スカイツリー冬夜景名宿",
-            "item": "https://croud-travel.com/winter-tokyo-asakusa-sensoji-hatsumode-skytree-edomae-stay"
+            "item": "https://croud-travel.pages.dev/winter-tokyo-asakusa-sensoji-hatsumode-skytree-edomae-stay"
           }
         ]
       },

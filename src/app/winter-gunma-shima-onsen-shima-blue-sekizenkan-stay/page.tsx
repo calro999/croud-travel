@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月群馬・四万温泉の神秘の四万ブルーと千二百年霊泉】積善館の歴史情緒・上州牛会席＆清流雪見露天の宿5選",
     description: "11月から12月にかけて上州・群馬の奥座敷「四万温泉」は、四万川や奥四万湖が年間で最も澄み渡る奇跡のコバルトブルー「四万ブルー」を湛え、渓谷の木々が晩秋の落葉から初雪の白銀へと移ろう幽玄の季節を迎えます。「四万の病を癒やす霊泉」として開湯1200年の歴史を誇る名湯は、胃腸病や美肌に効能高い弱食塩・硫酸塩泉。日本最古の木造湯宿建築として名高い積善館をはじめ、四万川の渓流沿いに佇む自家源泉掛け流しの名旅館、甘みあふれる群馬の特選上州牛や冬の旬菜会席を堪能する極上宿5選を徹底解説。",
-    url: 'https://croud-travel.com/winter-gunma-shima-onsen-shima-blue-sekizenkan-stay',
+    url: 'https://croud-travel.pages.dev/winter-gunma-shima-onsen-shima-blue-sekizenkan-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -62,10 +62,10 @@ export default function ShimaOnsenWinterFeature() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-gunma-shima-onsen-shima-blue-sekizenkan-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-gunma-shima-onsen-shima-blue-sekizenkan-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-gunma-shima-onsen-shima-blue-sekizenkan-stay"
+          "@id": "https://croud-travel.pages.dev/winter-gunma-shima-onsen-shima-blue-sekizenkan-stay"
         },
         "headline": "【11・12月群馬・四万温泉の神秘の四万ブルーと千二百年霊泉】積善館の歴史情緒・上州牛会席＆清流雪見露天の宿5選",
         "description": "11月から12月にかけて上州・群馬の奥座敷「四万温泉」は、四万川や奥四万湖が年間で最も澄み渡る奇跡のコバルトブルー「四万ブルー」を湛え、渓谷の木々が晩秋の落葉から初雪の白銀へと移ろう幽玄の季節を迎えます。「四万の病を癒やす霊泉」として開湯1200年の歴史を誇る名湯は、胃腸病や美肌に効能高い弱食塩・硫酸塩泉。日本最古の木造湯宿建築として名高い積善館をはじめ、四万川の渓流沿いに佇む自家源泉掛け流しの名旅館、甘みあふれる群馬の特選上州牛や冬の旬菜会席を堪能する極上宿5選を徹底解説。",
@@ -77,7 +77,7 @@ export default function ShimaOnsenWinterFeature() {
           "name": "Croud Travel",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "author": {
@@ -88,31 +88,31 @@ export default function ShimaOnsenWinterFeature() {
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://croud-travel.com/winter-gunma-shima-onsen-shima-blue-sekizenkan-stay#breadcrumb",
+        "@id": "https://croud-travel.pages.dev/winter-gunma-shima-onsen-shima-blue-sekizenkan-stay#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com/"
+            "item": "https://croud-travel.pages.dev/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "群馬・四万温泉 神秘の四万ブルーと積善館・上州牛の宿",
-            "item": "https://croud-travel.com/winter-gunma-shima-onsen-shima-blue-sekizenkan-stay"
+            "item": "https://croud-travel.pages.dev/winter-gunma-shima-onsen-shima-blue-sekizenkan-stay"
           }
         ]
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-gunma-shima-onsen-shima-blue-sekizenkan-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-gunma-shima-onsen-shima-blue-sekizenkan-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",

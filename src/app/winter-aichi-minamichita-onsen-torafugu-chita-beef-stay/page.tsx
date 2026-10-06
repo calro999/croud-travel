@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月南知多温泉郷の伊勢湾パノラマ夕日露天と本場とらふぐ】天然とらふぐフルコース・知多牛ステーキ＆日間賀島たこ会席の海辺宿5選",
     description: "11月から12月にかけて愛知県・知多半島の最南端に位置する南知多温泉郷（内海・山海・師崎）は、全国屈指の天然とらふぐ水揚げ高を誇る日間賀島・篠島・師崎港から、冬の味覚の王様「とらふぐ」が届く最高潮シーズンを迎えます。伊勢湾の水平線に沈む黄金色の夕日と満天の星を望む展望露天風呂、地下1,300mから湧き出る濃厚な塩化物強塩泉（熱の湯）、薄造りの透き通るてっさ、旨味あふれるてっちり（ふぐ鍋）、香ばしいふぐ唐揚げやひれ酒、愛知の誇る銘柄黒毛和牛「知多牛」のヒレ・サーロインステーキ、名物タコ料理を堪能する海辺の名宿5選を徹底解説。",
-    url: 'https://croud-travel.com/winter-aichi-minamichita-onsen-torafugu-chita-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-aichi-minamichita-onsen-torafugu-chita-beef-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -62,10 +62,10 @@ export default function MinamichitaOnsenWinterFeature() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-aichi-minamichita-onsen-torafugu-chita-beef-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-aichi-minamichita-onsen-torafugu-chita-beef-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-aichi-minamichita-onsen-torafugu-chita-beef-stay"
+          "@id": "https://croud-travel.pages.dev/winter-aichi-minamichita-onsen-torafugu-chita-beef-stay"
         },
         "headline": "【11・12月南知多温泉郷の伊勢湾パノラマ夕日露天と本場とらふぐ】天然とらふぐフルコース・知多牛ステーキ＆日間賀島たこ会席の海辺宿5選",
         "description": "11月から12月にかけて愛知県・知多半島の最南端に位置する南知多温泉郷（内海・山海・師崎）は、全国屈指の天然とらふぐ水揚げ高を誇る日間賀島・篠島・師崎港から、冬の味覚の王様「とらふぐ」が届く最高潮シーズンを迎えます。伊勢湾の水平線に沈む黄金色の夕日と満天の星を望む展望露天風呂、地下1,300mから湧き出る濃厚な塩化物強塩泉（熱の湯）、薄造りの透き通るてっさ、旨味あふれるてっちり（ふぐ鍋）、香ばしいふぐ唐揚げやひれ酒、愛知の誇る銘柄黒毛和牛「知多牛」のヒレ・サーロインステーキ、名物タコ料理を堪能する海辺の名宿5選を徹底解説。",
@@ -77,7 +77,7 @@ export default function MinamichitaOnsenWinterFeature() {
           "name": "Croud Travel",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "author": {
@@ -88,31 +88,31 @@ export default function MinamichitaOnsenWinterFeature() {
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://croud-travel.com/winter-aichi-minamichita-onsen-torafugu-chita-beef-stay#breadcrumb",
+        "@id": "https://croud-travel.pages.dev/winter-aichi-minamichita-onsen-torafugu-chita-beef-stay#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com/"
+            "item": "https://croud-travel.pages.dev/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "愛知・南知多温泉郷 伊勢湾夕日露天と本場とらふぐの宿",
-            "item": "https://croud-travel.com/winter-aichi-minamichita-onsen-torafugu-chita-beef-stay"
+            "item": "https://croud-travel.pages.dev/winter-aichi-minamichita-onsen-torafugu-chita-beef-stay"
           }
         ]
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-aichi-minamichita-onsen-torafugu-chita-beef-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-aichi-minamichita-onsen-torafugu-chita-beef-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",

@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月宮城鳴子温泉郷の冬湯治と雪見露天】多彩な源泉めぐりと初冬の鳴子峡・極上仙台牛すき焼き＆奥羽郷土会席の宿5選",
     description: "11月から12月にかけて鳴子峡に初雪が舞い、奥羽山脈の山懐に静寂が訪れるみちのく随一の名湯「鳴子温泉郷」。日本に存在する11の泉質のうち実に9種類が集まる奇跡の温泉地で、乳白色・エメラルドグリーン・黒湯など多彩な源泉掛け流しの雪見風呂を堪能。手削りの鳴子こけしが並ぶノスタルジックな湯治街の散策、最高級A5ランク「仙台牛」のすき焼きや陶板焼き、名物栗だんごや奥羽の山里会席を満喫する厳選名宿5選を徹底解説。",
-    url: 'https://croud-travel.com/winter-miyagi-naruko-onsen-yukimi-sendai-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-miyagi-naruko-onsen-yukimi-sendai-beef-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -68,7 +68,7 @@ export default function NarukoOnsenWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-miyagi-naruko-onsen-yukimi-sendai-beef-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-miyagi-naruko-onsen-yukimi-sendai-beef-stay#article",
         "headline": "【11・12月宮城鳴子温泉郷の冬湯治と雪見露天】多彩な源泉めぐりと初冬の鳴子峡・極上仙台牛すき焼き＆奥羽郷土会席の宿5選",
         "description": "11月から12月にかけて鳴子峡に初雪が舞い、奥羽山脈の山懐に静寂が訪れるみちのく随一の名湯「鳴子温泉郷」。日本に存在する11の泉質のうち実に9種類が集まる奇跡の温泉地で、乳白色・エメラルドグリーン・黒湯など多彩な源泉掛け流しの雪見風呂を堪能。手削りの鳴子こけしが並ぶノスタルジックな湯治街の散策、最高級A5ランク「仙台牛」のすき焼きや陶板焼き、名物栗だんごや奥羽の山里会席を満喫する厳選名宿5選を徹底解説。",
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
@@ -77,24 +77,24 @@ export default function NarukoOnsenWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-miyagi-naruko-onsen-yukimi-sendai-beef-stay"
+          "@id": "https://croud-travel.pages.dev/winter-miyagi-naruko-onsen-yukimi-sendai-beef-stay"
         }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-miyagi-naruko-onsen-yukimi-sendai-beef-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-miyagi-naruko-onsen-yukimi-sendai-beef-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -140,7 +140,7 @@ export default function NarukoOnsenWinterPage() {
       },
       {
         "@type": "ItemList",
-        "@id": "https://croud-travel.com/winter-miyagi-naruko-onsen-yukimi-sendai-beef-stay#hotels",
+        "@id": "https://croud-travel.pages.dev/winter-miyagi-naruko-onsen-yukimi-sendai-beef-stay#hotels",
         "itemListElement": [
           {
             "@type": "ListItem",

@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月宮城】陸奥総鎮守「鹽竈神社」新春初詣と日本三景「松島」雪景色！冬旬「三陸松島かき」・極上ひがしもの鮪＆松島温泉名宿5選",
     description: "芭蕉も心奪われた日本三景・松島と、千二百年の歴史を刻む陸奥国一ノ宮・塩竈を巡る11〜1月の冬紀行。伊達政宗ゆかりの国宝「瑞巌寺」や五大堂が白雪をまとう静寂の松島湾、表坂202段の石段を登り迎える「志波彦神社・鹽竈神社」荘厳な新春初詣。真冬に最も身が太り濃厚なミルキーさを極める「三陸松島かき」、塩竈港水揚げの奇跡のブランド鮪「三陸塩竈ひがしもの」、極上仙台牛。太古の地層から湧く松島温泉「美肌の湯」に癒やされる厳選名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-miyagi-matsushima-shiogama-shrine-hatsumode-sanriku-oyster-higashimono-stay',
+    url: 'https://croud-travel.pages.dev/winter-miyagi-matsushima-shiogama-shrine-hatsumode-sanriku-oyster-higashimono-stay',
     type: 'article',
     images: [
       {
@@ -48,19 +48,19 @@ export default function MiyagiMatsushimaWinterPage() {
     "author": {
       "@type": "Organization",
       "name": "旅宿クラウド 編集部",
-      "url": "https://croud-travel.com"
+      "url": "https://croud-travel.pages.dev"
     },
     "publisher": {
       "@type": "Organization",
       "name": "旅宿クラウド",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://croud-travel.com/logo.png"
+        "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.com/winter-miyagi-matsushima-shiogama-shrine-hatsumode-sanriku-oyster-higashimono-stay"
+      "@id": "https://croud-travel.pages.dev/winter-miyagi-matsushima-shiogama-shrine-hatsumode-sanriku-oyster-higashimono-stay"
     }
   };
 
@@ -72,19 +72,19 @@ export default function MiyagiMatsushimaWinterPage() {
         "@type": "ListItem",
         "position": 1,
         "name": "ホーム",
-        "item": "https://croud-travel.com"
+        "item": "https://croud-travel.pages.dev"
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "特集一覧",
-        "item": "https://croud-travel.com/features"
+        "item": "https://croud-travel.pages.dev/features"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "宮城・松島＆塩竈 冬特集",
-        "item": "https://croud-travel.com/winter-miyagi-matsushima-shiogama-shrine-hatsumode-sanriku-oyster-higashimono-stay"
+        "item": "https://croud-travel.pages.dev/winter-miyagi-matsushima-shiogama-shrine-hatsumode-sanriku-oyster-higashimono-stay"
       }
     ]
   };
@@ -715,7 +715,7 @@ export default function MiyagiMatsushimaWinterPage() {
 
       {/* Footer */}
       <footer className="bg-slate-900 text-slate-400 py-10 px-4 text-center text-xs border-t border-slate-800 mt-16">
-        <p>© 2026 旅宿クラウド (croud-travel.com). All rights reserved.</p>
+        <p>© 2026 旅宿クラウド (croud-travel.pages.dev). All rights reserved.</p>
         <p className="mt-2 text-slate-500">掲載の宿泊料金や施設情報は楽天トラベルAPIより取得した参考データです。最新のプラン内容は各宿泊施設ページをご確認ください。</p>
       </footer>
     </article>

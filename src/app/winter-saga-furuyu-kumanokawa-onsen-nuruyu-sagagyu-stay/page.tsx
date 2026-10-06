@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月古湯温泉・熊の川温泉】ぬる湯の聖地・嘉瀬川渓谷美と温冷交互浴・極上佐賀牛すき焼き＆三瀬鶏炭火焼き・斎藤茂吉ゆかりの名宿5選",
     description: "11月中旬から12月の初冬、佐賀市北部の脊振山系に抱かれた富士町・三瀬エリアに位置する古湯温泉（ふるゆおんせん）と熊の川温泉（くまのかわおんせん）は、澄んだ山の冷気と嘉瀬川のせせらぎが心地よい静寂の湯治シーズンを迎えます。古湯温泉の代名詞は「ぬる湯」。源泉温度が約38℃前後と体温に近いため、体に負担をかけずに何十分でも浸かっていられる奇跡のアルカリ性単純温泉です。pH9.5前後のとろりとした湯ざわりは「美肌の湯」として名高く、冬にはぬる湯と温かい加温浴槽を交互に行き来する「温冷交互浴」によって、自律神経が整い体の芯からじんわりと温まります。かつて歌人・斎藤茂吉が約1ヶ月逗留し短歌を詠んだ情緒あふれる温泉街。夕食には全国トップクラスの霜降りを誇る最高級「佐賀牛」のすき焼きや陶板焼き、ジューシーな旨味のブランド地鶏「みつせ鶏」の炭火焼きや水炊き、清流が育んだ川魚料理が並びます。初冬の九州で至高の脱力リトリートを約束する厳選5宿をご紹介します。",
-    url: 'https://croud-travel.com/winter-saga-furuyu-kumanokawa-onsen-nuruyu-sagagyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-saga-furuyu-kumanokawa-onsen-nuruyu-sagagyu-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -44,23 +44,23 @@ export default function SagaFuruyuKumanokawaWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-saga-furuyu-kumanokawa-onsen-nuruyu-sagagyu-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-saga-furuyu-kumanokawa-onsen-nuruyu-sagagyu-stay#article",
         "isPartOf": {
           "@type": "WebSite",
-          "@id": "https://croud-travel.com/#website",
+          "@id": "https://croud-travel.pages.dev/#website",
           "name": "クラドトラベル",
-          "url": "https://croud-travel.com/"
+          "url": "https://croud-travel.pages.dev/"
         },
         "headline": "【11・12月古湯温泉・熊の川温泉】ぬる湯の聖地・嘉瀬川渓谷美と温冷交互浴・極上佐賀牛すき焼き＆三瀬鶏炭火焼き・斎藤茂吉ゆかりの名宿5選",
         "description": "11月中旬から12月の初冬、佐賀市北部の脊振山系に抱かれた富士町・三瀬エリアに位置する古湯温泉（ふるゆおんせん）と熊の川温泉（くまのかわおんせん）は、澄んだ山の冷気と嘉瀬川のせせらぎが心地よい静寂の湯治シーズンを迎えます。古湯温泉の代名詞は「ぬる湯」。源泉温度が約38℃前後と体温に近いため、体に負担をかけずに何十分でも浸かっていられる奇跡のアルカリ性単純温泉です。pH9.5前後のとろりとした湯ざわりは「美肌の湯」として名高く、冬にはぬる湯と温かい加温浴槽を交互に行き来する「温冷交互浴」によって、自律神経が整い体の芯からじんわりと温まります。かつて歌人・斎藤茂吉が約1ヶ月逗留し短歌を詠んだ情緒あふれる温泉街。夕食には全国トップクラスの霜降りを誇る最高級「佐賀牛」のすき焼きや陶板焼き、ジューシーな旨味のブランド地鶏「みつせ鶏」の炭火焼きや水炊き、清流が育んだ川魚料理が並びます。初冬の九州で至高の脱力リトリートを約束する厳選5宿をご紹介します。",
         "datePublished": "2026-09-30T00:00:00+09:00",
         "dateModified": "2026-09-30T00:00:00+09:00",
         "inLanguage": "ja",
-        "mainEntityOfPage": "https://croud-travel.com/winter-saga-furuyu-kumanokawa-onsen-nuruyu-sagagyu-stay",
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-saga-furuyu-kumanokawa-onsen-nuruyu-sagagyu-stay",
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル編集部",
-          "url": "https://croud-travel.com/"
+          "url": "https://croud-travel.pages.dev/"
         }
       },
       {

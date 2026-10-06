@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月愛媛】宇和島城の冬情趣と本場「宇和島鯛めし」・宇和海寒ブリ！八幡浜ちゃんぽん＆南予の名宿5選",
     description: "四国南予の歴史と海の幸に酔いしれる11〜1月の冬旅ガイド。日本に12基しか残らない現存天守「宇和島城」の冬の静寂と伊達十万石の城下町散策。宇和海の荒波で脂が乗り切った真鯛に生卵と甘辛タレを絡める本場「宇和島鯛めし」や、真冬が旬の「宇和海寒ブリ」「だてまぐろ（本マグロ）」、極甘の南予みかん、そして八幡浜港のソウルフード「八幡浜ちゃんぽん」。宇和島・八幡浜の観光拠点として最適な厳選ホテル・温泉宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-ehime-uwajima-yawatahama-taimeshi-kanburi-castle-stay',
+    url: 'https://croud-travel.pages.dev/winter-ehime-uwajima-yawatahama-taimeshi-kanburi-castle-stay',
     type: 'article',
     images: [
       {
@@ -49,19 +49,19 @@ export default function EhimeUwajimaYawatahamaWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "旅クラウド編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "旅クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-ehime-uwajima-yawatahama-taimeshi-kanburi-castle-stay"
+          "@id": "https://croud-travel.pages.dev/winter-ehime-uwajima-yawatahama-taimeshi-kanburi-castle-stay"
         }
       },
       {
@@ -71,19 +71,19 @@ export default function EhimeUwajimaYawatahamaWinterPage() {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com"
+            "item": "https://croud-travel.pages.dev"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "冬の旅特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "愛媛・宇和島＆八幡浜・南予名宿",
-            "item": "https://croud-travel.com/winter-ehime-uwajima-yawatahama-taimeshi-kanburi-castle-stay"
+            "item": "https://croud-travel.pages.dev/winter-ehime-uwajima-yawatahama-taimeshi-kanburi-castle-stay"
           }
         ]
       },

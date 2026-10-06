@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月山形】豪雪の奇跡・開湯1200年肘折温泉の黄金湯治と名物納豆汁＆極上山形牛・肘折幻想雪回廊を巡る名宿5選",
     description: "11月から1月、出羽三山の主峰・月山の麓に位置する山形県大蔵村「肘折温泉」は、静謐な雪景色と開湯1200年の重厚な湯治文化が旅人を迎えます。日本屈指の豪雪地帯として知られる肘折は、銅山川沿いに木造三層楼閣が立ち並び、冬になると数メートルもの雪に包まれてまるで水墨画のような幽玄の世界へ。黄金色に濁る自家源泉（ナトリウム-塩化物・炭酸水素塩温泉）は、体の芯まで熱を行き渡らせる「あたたまりの薬湯」として名高く、初冬から厳冬期の冷えた体を優しく包み込みます。夕食には山形の冬の滋味「名物納豆汁」や温かい郷土鍋、きめ細かな霜降りを誇る最高級「山形牛」の陶板焼きが並び、心まで温まるひとときを提供。1月下旬から巨大な雪壁を無数のロウソクが照らす「肘折幻想雪回廊」の絶景とともに、本物の湯治情緒に浸れる厳選5宿を徹底ガイドします。",
-    url: 'https://croud-travel.com/winter-yamagata-hijiori-onsen-snow-yamagatagyu-toji-stay',
+    url: 'https://croud-travel.pages.dev/winter-yamagata-hijiori-onsen-snow-yamagatagyu-toji-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -44,10 +44,10 @@ export default function YamagataHijioriOnsenWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-yamagata-hijiori-onsen-snow-yamagatagyu-toji-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-yamagata-hijiori-onsen-snow-yamagatagyu-toji-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-yamagata-hijiori-onsen-snow-yamagatagyu-toji-stay"
+          "@id": "https://croud-travel.pages.dev/winter-yamagata-hijiori-onsen-snow-yamagatagyu-toji-stay"
         },
         "headline": "【11・12・1月山形】豪雪の奇跡・開湯1200年肘折温泉の黄金湯治と名物納豆汁＆極上山形牛・肘折幻想雪回廊を巡る名宿5選",
         "description": "11月から1月、出羽三山の主峰・月山の麓に位置する山形県大蔵村「肘折温泉」は、静謐な雪景色と開湯1200年の重厚な湯治文化が旅人を迎えます。日本屈指の豪雪地帯として知られる肘折は、銅山川沿いに木造三層楼閣が立ち並び、冬になると数メートルもの雪に包まれてまるで水墨画のような幽玄の世界へ。黄金色に濁る自家源泉（ナトリウム-塩化物・炭酸水素塩温泉）は、体の芯まで熱を行き渡らせる「あたたまりの薬湯」として名高く、初冬から厳冬期の冷えた体を優しく包み込みます。夕食には山形の冬の滋味「名物納豆汁」や温かい郷土鍋、きめ細かな霜降りを誇る最高級「山形牛」の陶板焼きが並び、心まで温まるひとときを提供。1月下旬から巨大な雪壁を無数のロウソクが照らす「肘折幻想雪回廊」の絶景とともに、本物の湯治情緒に浸れる厳選5宿を徹底ガイドします。",
@@ -57,46 +57,46 @@ export default function YamagataHijioriOnsenWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "クラドトラベル 温泉・冬旅取材班",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル",
-          "url": "https://croud-travel.com",
+          "url": "https://croud-travel.pages.dev",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
-        "mainEntityOfPage": "https://croud-travel.com/winter-yamagata-hijiori-onsen-snow-yamagatagyu-toji-stay"
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-yamagata-hijiori-onsen-snow-yamagatagyu-toji-stay"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://croud-travel.com/winter-yamagata-hijiori-onsen-snow-yamagatagyu-toji-stay#breadcrumb",
+        "@id": "https://croud-travel.pages.dev/winter-yamagata-hijiori-onsen-snow-yamagatagyu-toji-stay#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com"
+            "item": "https://croud-travel.pages.dev"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "山形・肘折温泉の冬湯治と雪回廊特集",
-            "item": "https://croud-travel.com/winter-yamagata-hijiori-onsen-snow-yamagatagyu-toji-stay"
+            "item": "https://croud-travel.pages.dev/winter-yamagata-hijiori-onsen-snow-yamagatagyu-toji-stay"
           }
         ]
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-yamagata-hijiori-onsen-snow-yamagatagyu-toji-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-yamagata-hijiori-onsen-snow-yamagatagyu-toji-stay#faq",
         "mainEntity": [{"@type":"Question","name":"肘折温泉の冬の積雪量やアクセス道路の除雪状況はどうですか？車で行けますか？","acceptedAnswer":{"@type":"Answer","text":"肘折温泉が位置する山形県最上郡大蔵村は、アメダスの積雪記録で全国トップクラス（平年でも2〜3メートル、厳冬期は4メートル超）を記録する日本有数の特別豪雪地帯です。しかしながら、地元自治体や除雪隊の技術は日本屈指であり、幹線道路である国道458号・県道57号は夜間早朝から完璧に除雪が行われています。ただし路面凍結や圧雪、吹雪による視界不良が起こりやすいため、自家用車の場合は必ずスタッドレスタイヤ（4WD推奨）を装着し、雪道運転に不慣れな方はJR新庄駅からの路線バス（山交バス肘折線）を利用するのが最も安全で確実です。"}},{"@type":"Question","name":"肘折温泉の名物「納豆汁」とはどのような郷土料理ですか？","acceptedAnswer":{"@type":"Answer","text":"「納豆汁」は、山形県内陸部（特に最上・庄内地方）で古くから冬の寒さを乗り切るために受け継がれてきた伝統的な汁物です。すり鉢で粒がなくなるまで滑らかにすり潰した納豆を味噌汁の出汁に溶き入れ、具材には「芋がら（ずいきの乾燥品）」、山菜（ワラビやゼンマイ）、角切りにした豆腐、油揚げ、こんにゃくなどをふんだんに加えます。仕上げに刻んだ小ねぎを散らすのが定番。納豆のとろみによって汁が冷めにくく、濃厚な発酵の旨味と食物繊維・タンパク質が凝縮されており、雪国の冷えた体を芯から温めてくれます。"}},{"@type":"Question","name":"肘折温泉の泉質と効能、湯治場としての特徴を教えてください。","acceptedAnswer":{"@type":"Answer","text":"肘折温泉の泉質は主に「ナトリウム-塩化物・炭酸水素塩温泉」です。源泉温度は50℃〜85℃と高温で、湧出時は無色透明ですが空気に触れると微細な鉄分や炭酸成分によって黄金色や笹濁り色に変化します。塩化物泉の優れた保温・保湿効果（塩分パック作用）と、炭酸水素塩泉の美肌洗浄効果（古い角質を軟化させて流す効果）を併せ持ち、古くから骨折や創傷、冷え性、関節リウマチ、胃腸病に効く「万病を癒やす奇跡の薬湯」として湯治客に親しまれてきました。"}},{"@type":"Question","name":"冬の風物詩「肘折幻想雪回廊」とは何ですか？いつ開催されますか？","acceptedAnswer":{"@type":"Answer","text":"「肘折幻想雪回廊」は、豪雪地帯の雪の壁を逆手に取った肘折温泉の冬の看板イベントです。例年1月下旬から2月の土曜日夜を中心に開催されます。温泉街の道路両脇にそびえ立つ高さ3〜4メートルを超える巨大な雪の回廊（雪壁）に、地元の人々が無数の横穴（雪洞）を掘り、中にロウソクを灯します。暗闇の中にほのかに浮かび上がる雪壁のオレンジ色の灯火は息を呑むほど幻想的で、木造三層のレトロな街並みと相まって一生忘れられない幻想的な雪国情緒を体験できます。"}},{"@type":"Question","name":"肘折温泉の有名な「朝市」は冬（11月〜1月）も開かれていますか？","acceptedAnswer":{"@type":"Answer","text":"肘折温泉の名物である道路上に地元のおばあちゃんたちが採れたて野菜や保存食を並べる屋外の「路上朝市」は、例年4月下旬から11月中旬頃まで開催されます。11月下旬以降の積雪期は路上朝市はお休みとなりますが、各旅館の売店や温泉街の商店（旧郵便局や地元商店）、いでゆ館などで地元特産の漬物（青菜漬けやあつみかぶ）、乾燥山菜、栃餅、地酒などを年中購入することができます。また冬ならではの静かな朝の湯巡り散策は格別の風情があります。"}}]
       }
     ]

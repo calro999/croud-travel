@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月大阪】冬の大阪・住吉大社新春初詣＆御堂筋イルミネーション！本場てっちりと煌めく夜景・天然温泉に寛ぐ名宿5選",
     description: "冬の大阪は、全長4kmに及ぶ世界最大級の御堂筋イルミネーションや中之島「OSAKA光のルネサンス」が街を眩く彩り、新春には全国2300社の総本社・住吉大社が初詣の活気に包まれる華やかな季節。大阪人がこよなく愛する冬の味覚の王様「本場てっちり（とらふぐ鍋）」や黒毛和牛、なにわ割烹を堪能。地上200mの絶景パノラマや都心の天然温泉に癒やされる厳選宿5選をご案内します。",
-    url: 'https://croud-travel.com/winter-osaka-city-sumiyoshi-taisha-hatsumode-illumination-fugu-stay',
+    url: 'https://croud-travel.pages.dev/winter-osaka-city-sumiyoshi-taisha-hatsumode-illumination-fugu-stay',
     type: 'article'
   }
 };
@@ -153,19 +153,19 @@ export default function OsakaCityWinterFeaturePage() {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com/"
+            "item": "https://croud-travel.pages.dev/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "【11・12・1月大阪】冬の大阪・住吉大社新春初詣＆御堂筋イルミネーション！本場てっちりと煌めく夜景・天然温泉に寛ぐ名宿5選",
-            "item": 'https://croud-travel.com/winter-osaka-city-sumiyoshi-taisha-hatsumode-illumination-fugu-stay'
+            "item": 'https://croud-travel.pages.dev/winter-osaka-city-sumiyoshi-taisha-hatsumode-illumination-fugu-stay'
           }
         ]
       },
@@ -182,7 +182,7 @@ export default function OsakaCityWinterFeaturePage() {
           "name": "旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/icon.png"
+            "url": "https://croud-travel.pages.dev/icon.png"
           }
         },
         "datePublished": "2026-10-03",

@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月静岡・下田南伊豆温泉郷の初冬海絶景と極上地金目鯛】水揚げ日本一の金目鯛姿煮＆伊勢海老会席を満喫する絶景宿5選",
     description: "11月から12月にかけて、伊豆半島南端の下田・南伊豆エリアは、水揚げ日本一を誇る名物「下田の地金目鯛」が最も脂を蓄える最高の旬を迎えます。初冬でも太平洋の黒潮に洗われ温暖な気候が広がり、水平線が茜色に染まる夕暮れや満天の星を望む海辺の絶景露天風呂は格別の心地よさ。12月中旬には爪木崎の水仙まつりが開幕し、エメラルドグリーンの海と白い水仙のコントラストが旅人を魅了します。肉厚でとろける金目鯛の姿煮やしゃぶしゃぶ、伊勢海老、下田温泉・奥下田美肌源泉を心ゆくまで堪能する厳選名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-shizuoka-shimoda-onsen-kinmedai-ocean-view-stay',
+    url: 'https://croud-travel.pages.dev/winter-shizuoka-shimoda-onsen-kinmedai-ocean-view-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -62,10 +62,10 @@ export default function ShizuokaShimodaWinterFeature() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-shizuoka-shimoda-onsen-kinmedai-ocean-view-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-shizuoka-shimoda-onsen-kinmedai-ocean-view-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-shizuoka-shimoda-onsen-kinmedai-ocean-view-stay"
+          "@id": "https://croud-travel.pages.dev/winter-shizuoka-shimoda-onsen-kinmedai-ocean-view-stay"
         },
         "headline": "【11・12月静岡・下田南伊豆温泉郷の初冬海絶景と極上地金目鯛】水揚げ日本一の金目鯛姿煮＆伊勢海老会席を満喫する絶景宿5選",
         "description": "11月から12月にかけて、伊豆半島南端の下田・南伊豆エリアは、水揚げ日本一を誇る名物「下田の地金目鯛」が最も脂を蓄える最高の旬を迎えます。初冬でも太平洋の黒潮に洗われ温暖な気候が広がり、水平線が茜色に染まる夕暮れや満天の星を望む海辺の絶景露天風呂は格別の心地よさ。12月中旬には爪木崎の水仙まつりが開幕し、エメラルドグリーンの海と白い水仙のコントラストが旅人を魅了します。肉厚でとろける金目鯛の姿煮やしゃぶしゃぶ、伊勢海老、下田温泉・奥下田美肌源泉を心ゆくまで堪能する厳選名宿5選を徹底解説します。",
@@ -77,7 +77,7 @@ export default function ShizuokaShimodaWinterFeature() {
           "name": "Croud Travel",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "author": {
@@ -88,31 +88,31 @@ export default function ShizuokaShimodaWinterFeature() {
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://croud-travel.com/winter-shizuoka-shimoda-onsen-kinmedai-ocean-view-stay#breadcrumb",
+        "@id": "https://croud-travel.pages.dev/winter-shizuoka-shimoda-onsen-kinmedai-ocean-view-stay#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com/"
+            "item": "https://croud-travel.pages.dev/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "静岡・下田南伊豆温泉郷 初冬海絶景と地金目鯛の宿",
-            "item": "https://croud-travel.com/winter-shizuoka-shimoda-onsen-kinmedai-ocean-view-stay"
+            "item": "https://croud-travel.pages.dev/winter-shizuoka-shimoda-onsen-kinmedai-ocean-view-stay"
           }
         ]
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-shizuoka-shimoda-onsen-kinmedai-ocean-view-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-shizuoka-shimoda-onsen-kinmedai-ocean-view-stay#faq",
         "mainEntity": faqList.map(f => ({
           "@type": "Question",
           "name": f.q,

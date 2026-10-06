@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月初冬】枕草子三名泉「七栗の湯」の極上美肌ぬる湯・最高峰伊賀牛すき焼き＆初冬の赤目四十八滝を巡る名宿5選",
     description: "11月中旬から12月の初冬、伊勢平野から布引山地へと連なる三重県津市榊原町は、山裾の紅葉が静かに散り敷き、凛とした澄んだ空気が漂う季節を迎えます。平安の才女・清少納言が『枕草子』において「湯は七栗の湯、有馬の湯、玉造の湯」と日本三名泉の筆頭に讃えたのが、ここ榊原温泉（古名：七栗の湯）。かつて伊勢神宮に参拝する皇族や貴族が、身を清める「湯垢離（ゆごり）」の地として栄えた聖なる名湯です。源泉温度約31〜32℃の「生源泉ぬる湯」は、pH9.4〜9.6を誇る無色透明のアルカリ性単純温泉。浸かった瞬間に肌へ吸い付くようなトロトロの湯触りは、まさに天然の美容液そのものです。加温された湯船とぬる湯源泉を交互に浸かる「温冷交互浴」は、初冬の冷えや自律神経を優しく整え、体の芯から極上のリラックスへ誘います。さらに西へ車を走らせれば、国の名勝「赤目四十八滝」の初冬渓谷美と「赤目渓谷竹あかり」の幻想的なライトアップ。夕食には、市場にほとんど出回らない肉の芸術品「伊賀牛」のとろけるすき焼きや陶板焼きが舌鼓を打たせます。心身を極限まで清める初冬の美肌温泉リトリートを叶える厳選5宿をご紹介します。",
-    url: 'https://croud-travel.com/winter-mie-sakakibara-onsen-akame-igagyu-bihada-stay',
+    url: 'https://croud-travel.pages.dev/winter-mie-sakakibara-onsen-akame-igagyu-bihada-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -44,23 +44,23 @@ export default function MieSakakibaraAkameWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-mie-sakakibara-onsen-akame-igagyu-bihada-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-mie-sakakibara-onsen-akame-igagyu-bihada-stay#article",
         "isPartOf": {
           "@type": "WebSite",
-          "@id": "https://croud-travel.com/#website",
+          "@id": "https://croud-travel.pages.dev/#website",
           "name": "クラドトラベル",
-          "url": "https://croud-travel.com/"
+          "url": "https://croud-travel.pages.dev/"
         },
         "headline": "【11・12月初冬】枕草子三名泉「七栗の湯」の極上美肌ぬる湯・最高峰伊賀牛すき焼き＆初冬の赤目四十八滝を巡る名宿5選",
         "description": "11月中旬から12月の初冬、伊勢平野から布引山地へと連なる三重県津市榊原町は、山裾の紅葉が静かに散り敷き、凛とした澄んだ空気が漂う季節を迎えます。平安の才女・清少納言が『枕草子』において「湯は七栗の湯、有馬の湯、玉造の湯」と日本三名泉の筆頭に讃えたのが、ここ榊原温泉（古名：七栗の湯）。かつて伊勢神宮に参拝する皇族や貴族が、身を清める「湯垢離（ゆごり）」の地として栄えた聖なる名湯です。源泉温度約31〜32℃の「生源泉ぬる湯」は、pH9.4〜9.6を誇る無色透明のアルカリ性単純温泉。浸かった瞬間に肌へ吸い付くようなトロトロの湯触りは、まさに天然の美容液そのものです。加温された湯船とぬる湯源泉を交互に浸かる「温冷交互浴」は、初冬の冷えや自律神経を優しく整え、体の芯から極上のリラックスへ誘います。さらに西へ車を走らせれば、国の名勝「赤目四十八滝」の初冬渓谷美と「赤目渓谷竹あかり」の幻想的なライトアップ。夕食には、市場にほとんど出回らない肉の芸術品「伊賀牛」のとろけるすき焼きや陶板焼きが舌鼓を打たせます。心身を極限まで清める初冬の美肌温泉リトリートを叶える厳選5宿をご紹介します。",
         "datePublished": "2026-09-30T00:00:00+09:00",
         "dateModified": "2026-09-30T00:00:00+09:00",
         "inLanguage": "ja",
-        "mainEntityOfPage": "https://croud-travel.com/winter-mie-sakakibara-onsen-akame-igagyu-bihada-stay",
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-mie-sakakibara-onsen-akame-igagyu-bihada-stay",
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル編集部",
-          "url": "https://croud-travel.com/"
+          "url": "https://croud-travel.pages.dev/"
         }
       },
       {

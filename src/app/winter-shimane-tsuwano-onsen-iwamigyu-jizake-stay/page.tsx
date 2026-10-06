@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月山陰】山陰の小京都・津和野の冬情緒と冬の新酒蔵開き・幻の石見牛＆津和野温泉の静謐な湯浴みを堪能する名宿5選",
     description: "11月から12月の初冬、石州瓦の赤茶色の屋根と白い漆喰壁が美しいコントラストを描く島根県津和野町は、山陰の小京都と呼ばれるにふさわしい静寂と深い歴史情趣に包まれます。殿町通りの掘割をゆったりと泳ぐ色鮮やかな錦鯉、津和野城跡から見下ろす早朝の幻想的な「朝霧雲海」、千本鳥居が山肌を朱色に染め上げる太鼓谷稲成神社など、初冬の津和野はどこを切り取っても風情ある絵画のよう。名水百選に恵まれた津和野では、11月下旬から冬の新酒仕込みと蔵開きが始まり、搾りたての芳醇な地酒の香りが町を包みます。美食の主役は、年間わずかしか出荷されない幻のブランド黒毛和牛「石見牛（いわみぎゅう）」のステーキや陶板焼き、そしてご飯の下に旬の野菜を隠した伝統郷土料理「うずめ飯」。津和野唯一の天然温泉や益田の日本海を望む荒磯温泉など、大人の初冬旅情を満喫する厳選5宿をご案内します。",
-    url: 'https://croud-travel.com/winter-shimane-tsuwano-onsen-iwamigyu-jizake-stay',
+    url: 'https://croud-travel.pages.dev/winter-shimane-tsuwano-onsen-iwamigyu-jizake-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -44,23 +44,23 @@ export default function ShimaneTsuwanoOnsenWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-shimane-tsuwano-onsen-iwamigyu-jizake-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-shimane-tsuwano-onsen-iwamigyu-jizake-stay#article",
         "isPartOf": {
           "@type": "WebSite",
-          "@id": "https://croud-travel.com/#website",
+          "@id": "https://croud-travel.pages.dev/#website",
           "name": "クラドトラベル",
-          "url": "https://croud-travel.com/"
+          "url": "https://croud-travel.pages.dev/"
         },
         "headline": "【11・12月山陰】山陰の小京都・津和野の冬情緒と冬の新酒蔵開き・幻の石見牛＆津和野温泉の静謐な湯浴みを堪能する名宿5選",
         "description": "11月から12月の初冬、石州瓦の赤茶色の屋根と白い漆喰壁が美しいコントラストを描く島根県津和野町は、山陰の小京都と呼ばれるにふさわしい静寂と深い歴史情趣に包まれます。殿町通りの掘割をゆったりと泳ぐ色鮮やかな錦鯉、津和野城跡から見下ろす早朝の幻想的な「朝霧雲海」、千本鳥居が山肌を朱色に染め上げる太鼓谷稲成神社など、初冬の津和野はどこを切り取っても風情ある絵画のよう。名水百選に恵まれた津和野では、11月下旬から冬の新酒仕込みと蔵開きが始まり、搾りたての芳醇な地酒の香りが町を包みます。美食の主役は、年間わずかしか出荷されない幻のブランド黒毛和牛「石見牛（いわみぎゅう）」のステーキや陶板焼き、そしてご飯の下に旬の野菜を隠した伝統郷土料理「うずめ飯」。津和野唯一の天然温泉や益田の日本海を望む荒磯温泉など、大人の初冬旅情を満喫する厳選5宿をご案内します。",
         "datePublished": "2026-09-30T00:00:00+09:00",
         "dateModified": "2026-09-30T00:00:00+09:00",
         "inLanguage": "ja",
-        "mainEntityOfPage": "https://croud-travel.com/winter-shimane-tsuwano-onsen-iwamigyu-jizake-stay",
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-shimane-tsuwano-onsen-iwamigyu-jizake-stay",
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル編集部",
-          "url": "https://croud-travel.com/"
+          "url": "https://croud-travel.pages.dev/"
         }
       },
       {

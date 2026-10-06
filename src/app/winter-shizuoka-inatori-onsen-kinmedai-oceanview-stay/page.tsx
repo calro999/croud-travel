@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月静岡・伊豆稲取温泉の極上地金目鯛会席と相模灘絶景】オーシャンビュー展望露天風呂＆伊豆温暖避寒の宿5選",
     description: "11月から12月にかけて、伊豆半島東海岸の岬に広がる稲取温泉は、冬の味覚の最高峰「稲取一本釣り地金目鯛（きんめだい）」が年間で最も上質な脂を蓄える最高の旬を迎えます。黒潮の恩恵を受ける伊豆稲取は、初冬でも穏やかで温暖な気候に恵まれ、寒さを逃れて贅沢な美食と温泉を楽しみたい避寒旅行に最適。目の前に広がる相模灘の水平線から昇る神々しい朝日、伊豆大島を望むパノラマ絶景露天風呂、そして秘伝のタレでふっくら炊き上げた名物「金目鯛の姿煮」に舌鼓を打つ、厳選のおすすめ温泉旅館5選を旅行専門ライターが徹底ガイドします。",
-    url: 'https://croud-travel.com/winter-shizuoka-inatori-onsen-kinmedai-oceanview-stay',
+    url: 'https://croud-travel.pages.dev/winter-shizuoka-inatori-onsen-kinmedai-oceanview-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -62,10 +62,10 @@ export default function ShizuokaInatoriWinterFeature() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-shizuoka-inatori-onsen-kinmedai-oceanview-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-shizuoka-inatori-onsen-kinmedai-oceanview-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-shizuoka-inatori-onsen-kinmedai-oceanview-stay"
+          "@id": "https://croud-travel.pages.dev/winter-shizuoka-inatori-onsen-kinmedai-oceanview-stay"
         },
         "headline": "【11・12月静岡・伊豆稲取温泉の極上地金目鯛会席と相模灘絶景】オーシャンビュー展望露天風呂＆伊豆温暖避寒の宿5選",
         "description": "11月から12月にかけて、伊豆半島東海岸の岬に広がる稲取温泉は、冬の味覚の最高峰「稲取一本釣り地金目鯛（きんめだい）」が年間で最も上質な脂を蓄える最高の旬を迎えます。黒潮の恩恵を受ける伊豆稲取は、初冬でも穏やかで温暖な気候に恵まれ、寒さを逃れて贅沢な美食と温泉を楽しみたい避寒旅行に最適。目の前に広がる相模灘の水平線から昇る神々しい朝日、伊豆大島を望むパノラマ絶景露天風呂、そして秘伝のタレでふっくら炊き上げた名物「金目鯛の姿煮」に舌鼓を打つ、厳選のおすすめ温泉旅館5選を旅行専門ライターが徹底ガイドします。",
@@ -77,7 +77,7 @@ export default function ShizuokaInatoriWinterFeature() {
           "name": "Croud Travel",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "author": {
@@ -88,31 +88,31 @@ export default function ShizuokaInatoriWinterFeature() {
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://croud-travel.com/winter-shizuoka-inatori-onsen-kinmedai-oceanview-stay#breadcrumb",
+        "@id": "https://croud-travel.pages.dev/winter-shizuoka-inatori-onsen-kinmedai-oceanview-stay#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com/"
+            "item": "https://croud-travel.pages.dev/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "静岡・伊豆稲取温泉 極上地金目鯛会席と相模灘絶景露天の宿",
-            "item": "https://croud-travel.com/winter-shizuoka-inatori-onsen-kinmedai-oceanview-stay"
+            "item": "https://croud-travel.pages.dev/winter-shizuoka-inatori-onsen-kinmedai-oceanview-stay"
           }
         ]
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-shizuoka-inatori-onsen-kinmedai-oceanview-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-shizuoka-inatori-onsen-kinmedai-oceanview-stay#faq",
         "mainEntity": faqList.map(f => ({
           "@type": "Question",
           "name": f.q,

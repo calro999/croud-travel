@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月岩手】白銀の浄土ヶ浜と冬の三陸海鮮紀行！旬を迎える「三陸毛ガニ・寒アワビ・名物瓶ドン」と太平洋絶景オーシャンビュー名宿5選",
     description: "冬の澄み渡る群青の太平洋と白銀の奇岩美を巡る11〜1月の岩手・三陸海岸（宮古・田老・久慈）特集。国の名勝「浄土ヶ浜」の冬景色や、冬に最も甘みとカニ味噌が詰まる「三陸宮古の毛ガニ」、11〜12月限定の伝統「寒アワビ」、宮古発祥の名物「瓶ドン」。三陸復興国立公園のダイナミックな海岸美と水平線を望む絶景オーシャンビュー名宿5選を完全ガイドします。",
-    url: 'https://croud-travel.com/winter-iwate-sanriku-miyako-jodogahama-kegani-stay',
+    url: 'https://croud-travel.pages.dev/winter-iwate-sanriku-miyako-jodogahama-kegani-stay',
     type: 'article',
     images: [
       {
@@ -49,19 +49,19 @@ export default function IwateSanrikuMiyakoWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "旅クラウド編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "旅クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-iwate-sanriku-miyako-jodogahama-kegani-stay"
+          "@id": "https://croud-travel.pages.dev/winter-iwate-sanriku-miyako-jodogahama-kegani-stay"
         }
       },
       {
@@ -71,19 +71,19 @@ export default function IwateSanrikuMiyakoWinterPage() {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com"
+            "item": "https://croud-travel.pages.dev"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "冬の旅特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "岩手・浄土ヶ浜＆三陸毛ガニ・名物瓶ドン名宿",
-            "item": "https://croud-travel.com/winter-iwate-sanriku-miyako-jodogahama-kegani-stay"
+            "item": "https://croud-travel.pages.dev/winter-iwate-sanriku-miyako-jodogahama-kegani-stay"
           }
         ]
       },

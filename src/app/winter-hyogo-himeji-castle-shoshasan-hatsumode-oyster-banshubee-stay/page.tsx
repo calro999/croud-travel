@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月兵庫】世界遺産・白鷺城の冬絶景＆書写山圓教寺新春初詣！播磨灘の旬牡蠣と極上播州牛を味わう名宿5選",
     description: "冬の兵庫・姫路は、白漆喰総塗籠造りの大天守「国宝・世界文化遺産 姫路城（白鷺城）」が澄み渡る冬空に白く眩しく輝き、映画の舞台としても名高い西の比叡山「書写山圓教寺」が新春開運初詣で厳かな静寂に包まれる季節。好古園の冬紅葉や雪景色、播磨灘の栄養豊かな海水で大粒に育つ冬の味覚「播磨灘牡蠣」、香ばしい焼き穴子、そして口の中でとろける最高峰黒毛和牛「播州牛」。天然温泉やサウナ、キャッスルビューを満喫できる厳選名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-hyogo-himeji-castle-shoshasan-hatsumode-oyster-banshubee-stay',
+    url: 'https://croud-travel.pages.dev/winter-hyogo-himeji-castle-shoshasan-hatsumode-oyster-banshubee-stay',
     type: 'article',
     images: [{ url: 'https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&q=630', width: 1200, height: 630, alt: '国宝世界遺産姫路城白鷺城の冬景色' }]
   },
@@ -155,9 +155,9 @@ export default function HyogoHimejiPage() {
       {
         '@type': 'BreadcrumbList',
         'itemListElement': [
-          { '@type': 'ListItem', 'position': 1, 'name': 'ホーム', 'item': 'https://croud-travel.com' },
-          { '@type': 'ListItem', 'position': 2, 'name': '特集一覧', 'item': 'https://croud-travel.com/features' },
-          { '@type': 'ListItem', 'position': 3, 'name': '姫路城白鷺城冬景色と播磨灘牡蠣・播州牛名宿', 'item': 'https://croud-travel.com/winter-hyogo-himeji-castle-shoshasan-hatsumode-oyster-banshubee-stay' }
+          { '@type': 'ListItem', 'position': 1, 'name': 'ホーム', 'item': 'https://croud-travel.pages.dev' },
+          { '@type': 'ListItem', 'position': 2, 'name': '特集一覧', 'item': 'https://croud-travel.pages.dev/features' },
+          { '@type': 'ListItem', 'position': 3, 'name': '姫路城白鷺城冬景色と播磨灘牡蠣・播州牛名宿', 'item': 'https://croud-travel.pages.dev/winter-hyogo-himeji-castle-shoshasan-hatsumode-oyster-banshubee-stay' }
         ]
       },
       {

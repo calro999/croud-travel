@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月白馬山麓温泉の初雪パウダースノーと北アルプス絶景】白銀連峰望む露天・pH11高アルカリ美肌湯と極上信州牛＆信州サーモン会席の宿5選",
     description: "11月下旬から12月にかけて北アルプスの名峰・白馬連峰が純白の雪を纏い、世界中からスキーヤーや旅人が集う国際山岳リゾート・長野県「白馬村」。日本屈指の水素イオン濃度pH11.2以上を誇る強アルカリ性美肌名湯「白馬八方温泉」や、3,000m級の白銀パノラマを仰ぐ絶景露天風呂、暖炉の火が揺らぐヨーロッパ調のクラシックホテル、厳しい寒さを越えて旨味を凝縮させた極上「信州プレミアム牛」ステーキや清流「信州サーモン」会席を堪能する名宿5選を徹底解説。",
-    url: 'https://croud-travel.com/winter-nagano-hakuba-onsen-powder-snow-alps-shinshu-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-nagano-hakuba-onsen-powder-snow-alps-shinshu-beef-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -68,7 +68,7 @@ export default function HakubaOnsenWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-nagano-hakuba-onsen-powder-snow-alps-shinshu-beef-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-nagano-hakuba-onsen-powder-snow-alps-shinshu-beef-stay#article",
         "headline": "【11・12月白馬山麓温泉の初雪パウダースノーと北アルプス絶景】白銀連峰望む露天・pH11高アルカリ美肌湯と極上信州牛＆信州サーモン会席の宿5選",
         "description": "11月下旬から12月にかけて北アルプスの名峰・白馬連峰が純白の雪を纏い、世界中からスキーヤーや旅人が集う国際山岳リゾート・長野県「白馬村」。日本屈指の水素イオン濃度pH11.2以上を誇る強アルカリ性美肌名湯「白馬八方温泉」や、3,000m級の白銀パノラマを仰ぐ絶景露天風呂、暖炉の火が揺らぐヨーロッパ調のクラシックホテル、厳しい寒さを越えて旨味を凝縮させた極上「信州プレミアム牛」ステーキや清流「信州サーモン」会席を堪能する名宿5選を徹底解説。",
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
@@ -77,24 +77,24 @@ export default function HakubaOnsenWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-nagano-hakuba-onsen-powder-snow-alps-shinshu-beef-stay"
+          "@id": "https://croud-travel.pages.dev/winter-nagano-hakuba-onsen-powder-snow-alps-shinshu-beef-stay"
         }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-nagano-hakuba-onsen-powder-snow-alps-shinshu-beef-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-nagano-hakuba-onsen-powder-snow-alps-shinshu-beef-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -140,7 +140,7 @@ export default function HakubaOnsenWinterPage() {
       },
       {
         "@type": "ItemList",
-        "@id": "https://croud-travel.com/winter-nagano-hakuba-onsen-powder-snow-alps-shinshu-beef-stay#hotels",
+        "@id": "https://croud-travel.pages.dev/winter-nagano-hakuba-onsen-powder-snow-alps-shinshu-beef-stay#hotels",
         "itemListElement": [
           {
             "@type": "ListItem",

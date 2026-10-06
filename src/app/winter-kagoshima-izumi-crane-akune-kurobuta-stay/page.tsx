@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月鹿児島】出水＆阿久根・さつま！世界屈指のツル渡来地「一万羽のツル」と出水麓武家屋敷初詣・阿久根の華アジ＆さつま黒豚名宿5選",
     description: "シベリアから1万羽を超えるツルが越冬飛来する世界屈指の冬の奇跡「出水のツル渡来地」。薩摩武士の気風を今に伝える重要伝統的建造物群「出水麓武家屋敷群」での雪の初詣。東シナ海・阿久根港が誇る冬のブランド魚「華アジ」や天然ウニ、かごしま黒豚と出水赤鶏。紫尾神社の拝殿下から湧く名湯「神の湯」や宮之城温泉の極上美肌露天に癒やされる厳選宿5選を徹底特集します。",
-    url: 'https://croud-travel.com/winter-kagoshima-izumi-crane-akune-kurobuta-stay',
+    url: 'https://croud-travel.pages.dev/winter-kagoshima-izumi-crane-akune-kurobuta-stay',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',
     type: 'article',
@@ -164,10 +164,10 @@ export default function KagoshimaIzumiAkunePage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-kagoshima-izumi-crane-akune-kurobuta-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-kagoshima-izumi-crane-akune-kurobuta-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-kagoshima-izumi-crane-akune-kurobuta-stay"
+          "@id": "https://croud-travel.pages.dev/winter-kagoshima-izumi-crane-akune-kurobuta-stay"
         },
         "headline": "【11・12・1月鹿児島】出水＆阿久根・さつま！世界屈指のツル渡来地「一万羽のツル」と出水麓武家屋敷初詣・阿久根の華アジ＆さつま黒豚名宿5選",
         "description": "シベリアから1万羽を超えるツルが越冬飛来する世界屈指の冬の奇跡「出水のツル渡来地」。薩摩武士の気風を今に伝える重要伝統的建造物群「出水麓武家屋敷群」での雪の初詣。東シナ海・阿久根港が誇る冬のブランド魚「華アジ」や天然ウニ、かごしま黒豚と出水赤鶏。紫尾神社の拝殿下から湧く名湯「神の湯」や宮之城温泉の極上美肌露天に癒やされる厳選宿5選を徹底特集します。",
@@ -177,44 +177,44 @@ export default function KagoshimaIzumiAkunePage() {
         "publisher": {
           "@type": "Organization",
           "name": "地域の宿探訪",
-          "url": "https://croud-travel.com",
+          "url": "https://croud-travel.pages.dev",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-kagoshima-izumi-crane-akune-kurobuta-stay"
+          "@id": "https://croud-travel.pages.dev/winter-kagoshima-izumi-crane-akune-kurobuta-stay"
         }
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://croud-travel.com/winter-kagoshima-izumi-crane-akune-kurobuta-stay#breadcrumb",
+        "@id": "https://croud-travel.pages.dev/winter-kagoshima-izumi-crane-akune-kurobuta-stay#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com"
+            "item": "https://croud-travel.pages.dev"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "出水＆阿久根・さつまツル渡来地と黒豚名宿",
-            "item": "https://croud-travel.com/winter-kagoshima-izumi-crane-akune-kurobuta-stay"
+            "item": "https://croud-travel.pages.dev/winter-kagoshima-izumi-crane-akune-kurobuta-stay"
           }
         ]
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-kagoshima-izumi-crane-akune-kurobuta-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-kagoshima-izumi-crane-akune-kurobuta-stay#faq",
         "mainEntity": faqs.map(f => ({
           "@type": "Question",
           "name": f.q,

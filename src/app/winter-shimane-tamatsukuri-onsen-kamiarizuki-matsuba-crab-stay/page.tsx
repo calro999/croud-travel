@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月玉造温泉の初冬美肌湯と松葉がに】出雲大社神在月参拝と日本最古の化粧水温泉・山陰松葉蟹＆しまね和牛の宿5選",
     description: "全国の八百万の神々が集う11月の出雲「神在月」。奈良時代の風土記に「神の湯」と記された日本最古の美肌温泉・玉造温泉で潤い、11月解禁の山陰松葉がに会席としまね和牛を堪能。玉湯川沿いの初冬風情と出雲大社参拝を叶える厳選名宿5選。",
-    url: 'https://croud-travel.com/winter-shimane-tamatsukuri-onsen-kamiarizuki-matsuba-crab-stay',
+    url: 'https://croud-travel.pages.dev/winter-shimane-tamatsukuri-onsen-kamiarizuki-matsuba-crab-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -67,7 +67,7 @@ export default function TamatsukuriWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-shimane-tamatsukuri-onsen-kamiarizuki-matsuba-crab-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-shimane-tamatsukuri-onsen-kamiarizuki-matsuba-crab-stay#article",
         "headline": "【11・12月玉造温泉の初冬美肌湯と松葉がに】出雲大社神在月参拝と日本最古の化粧水温泉・山陰松葉蟹＆しまね和牛の宿5選",
         "description": "全国の八百万の神々が集う11月の出雲「神在月」。奈良時代の風土記に「神の湯」と記された日本最古の美肌温泉・玉造温泉で潤い、11月解禁の山陰松葉がに会席としまね和牛を堪能。玉湯川沿いの初冬風情と出雲大社参拝を叶える厳選名宿5選。",
         "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80",
@@ -76,24 +76,24 @@ export default function TamatsukuriWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-shimane-tamatsukuri-onsen-kamiarizuki-matsuba-crab-stay"
+          "@id": "https://croud-travel.pages.dev/winter-shimane-tamatsukuri-onsen-kamiarizuki-matsuba-crab-stay"
         }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-shimane-tamatsukuri-onsen-kamiarizuki-matsuba-crab-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-shimane-tamatsukuri-onsen-kamiarizuki-matsuba-crab-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -139,7 +139,7 @@ export default function TamatsukuriWinterPage() {
       },
       {
         "@type": "ItemList",
-        "@id": "https://croud-travel.com/winter-shimane-tamatsukuri-onsen-kamiarizuki-matsuba-crab-stay#hotels",
+        "@id": "https://croud-travel.pages.dev/winter-shimane-tamatsukuri-onsen-kamiarizuki-matsuba-crab-stay#hotels",
         "itemListElement": [
           {
             "@type": "ListItem",
@@ -640,32 +640,7 @@ export default function TamatsukuriWinterPage() {
         </section>
 
         {/* FAQ Section */}
-        <section id="faq" className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-stone-200/80 space-y-6">
-          <div className="flex items-center gap-3 pb-3 border-b border-stone-100">
-            <div className="p-2 rounded-xl bg-indigo-50 text-indigo-800">
-              <HelpCircle className="w-5 h-5" />
-            </div>
-            <div>
-              <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest">Traveler's FAQ</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                よくある質問（FAQ）と初冬の旅のアドバイス
-              </h2>
-            </div>
-          </div>
-          <div className="space-y-4">
-            {faqList.map((faq, idx) => (
-              <div key={idx} className="p-5 rounded-2xl bg-stone-50 border border-stone-200/70 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-indigo-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
-                <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
-                  {faq.a}
-                </p>
-              </div>
-            ))}
-          </div>
-        </section>
+        
 
         {/* Internal Links / Related Guides */}
         <section className="bg-indigo-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">

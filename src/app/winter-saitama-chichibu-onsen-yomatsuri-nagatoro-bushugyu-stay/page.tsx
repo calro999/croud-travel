@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月埼玉・秩父温泉郷の秩父夜祭と長瀞こたつ舟】名物武州和牛すき焼き＆秩父みそ豚・創業文政の美肌鉱泉を満喫する山里名宿5選",
     description: "11月から12月にかけて、都心から特急でわずか80分あまりの近さにありながら、奥武蔵の山々に抱かれた埼玉県「秩父・長瀞」は、冬ならではの活気と幽玄な静けさが同居する最もドラマチックな季節を迎えます。12月2日・3日にはユネスコ無形文化遺産に登録された日本三大曳山祭の一つ「秩父夜祭」が開催され、絢爛豪華な屋台や笠鉾が街を練り歩き、冬の澄み渡る夜空に壮大な花火が打ち上がります。荒川の清流を暖かなぬくもりで巡る「長瀞こたつ舟」、日本通貨発祥の地に湧く和銅鉱泉をはじめとする肌触り滑らかな名湯。夕食には埼玉が誇る最高峰の黒毛和牛「武州和牛（ぶしゅうわぎゅう）」のすき焼き、秩父伝統の「豚肉の味噌漬け」、秩父名水手打ち蕎麦。秩父路の冬情緒を心ゆくまで堪能できる厳選名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-saitama-chichibu-onsen-yomatsuri-nagatoro-bushugyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-saitama-chichibu-onsen-yomatsuri-nagatoro-bushugyu-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -166,28 +166,28 @@ export default function WinterSaitamaChichibuPage() {
     '@graph': [
       {
         '@type': 'Article',
-        '@id': 'https://croud-travel.com/winter-saitama-chichibu-onsen-yomatsuri-nagatoro-bushugyu-stay#article',
+        '@id': 'https://croud-travel.pages.dev/winter-saitama-chichibu-onsen-yomatsuri-nagatoro-bushugyu-stay#article',
         'isPartOf': {
           '@type': 'WebSite',
-          '@id': 'https://croud-travel.com/#website',
+          '@id': 'https://croud-travel.pages.dev/#website',
           'name': 'クラドトラベル',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         },
         'headline': "【11・12月埼玉・秩父温泉郷の秩父夜祭と長瀞こたつ舟】名物武州和牛すき焼き＆秩父みそ豚・創業文政の美肌鉱泉を満喫する山里名宿5選",
         'description': "11月から12月にかけて、都心から特急でわずか80分あまりの近さにありながら、奥武蔵の山々に抱かれた埼玉県「秩父・長瀞」は、冬ならではの活気と幽玄な静けさが同居する最もドラマチックな季節を迎えます。12月2日・3日にはユネスコ無形文化遺産に登録された日本三大曳山祭の一つ「秩父夜祭」が開催され、絢爛豪華な屋台や笠鉾が街を練り歩き、冬の澄み渡る夜空に壮大な花火が打ち上がります。荒川の清流を暖かなぬくもりで巡る「長瀞こたつ舟」、日本通貨発祥の地に湧く和銅鉱泉をはじめとする肌触り滑らかな名湯。夕食には埼玉が誇る最高峰の黒毛和牛「武州和牛（ぶしゅうわぎゅう）」のすき焼き、秩父伝統の「豚肉の味噌漬け」、秩父名水手打ち蕎麦。秩父路の冬情緒を心ゆくまで堪能できる厳選名宿5選を徹底解説します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.com/winter-saitama-chichibu-onsen-yomatsuri-nagatoro-bushugyu-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-saitama-chichibu-onsen-yomatsuri-nagatoro-bushugyu-stay',
         'datePublished': '2026-09-29T00:00:00+09:00',
         'dateModified': '2026-09-29T00:00:00+09:00',
         'publisher': {
           '@type': 'Organization',
           'name': 'クラドトラベル編集部',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         }
       },
       {
         '@type': 'TouristDestination',
-        '@id': 'https://croud-travel.com/winter-saitama-chichibu-onsen-yomatsuri-nagatoro-bushugyu-stay#destination',
+        '@id': 'https://croud-travel.pages.dev/winter-saitama-chichibu-onsen-yomatsuri-nagatoro-bushugyu-stay#destination',
         'name': '埼玉・秩父温泉郷・長瀞',
         'description': '都心から約80分の奥武蔵の山里。12月の国指定ユネスコ無形文化遺産・秩父夜祭、長瀞こたつ舟、武州和牛と名湯鉱泉が魅力。',
         'geo': {
@@ -198,7 +198,7 @@ export default function WinterSaitamaChichibuPage() {
       },
       {
         '@type': 'FAQPage',
-        '@id': 'https://croud-travel.com/winter-saitama-chichibu-onsen-yomatsuri-nagatoro-bushugyu-stay#faq',
+        '@id': 'https://croud-travel.pages.dev/winter-saitama-chichibu-onsen-yomatsuri-nagatoro-bushugyu-stay#faq',
         'mainEntity': faqList.map((f) => ({
           '@type': 'Question',
           'name': f.q,
@@ -210,7 +210,7 @@ export default function WinterSaitamaChichibuPage() {
       },
       {
         '@type': 'ItemList',
-        '@id': 'https://croud-travel.com/winter-saitama-chichibu-onsen-yomatsuri-nagatoro-bushugyu-stay#hotellist',
+        '@id': 'https://croud-travel.pages.dev/winter-saitama-chichibu-onsen-yomatsuri-nagatoro-bushugyu-stay#hotellist',
         'name': '埼玉秩父温泉郷のおすすめ名宿5選',
         'itemListElement': hotels.map((h, idx) => ({
           '@type': 'ListItem',

@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月嬉野温泉の日本三大美肌湯と冬情緒】嬉野茶の香りと名物とろける温泉湯豆腐＆極上佐賀牛の宿5選",
     description: "斐乃上温泉、喜連川温泉と並び「日本三大美肌の湯」として名高い佐賀県・嬉野温泉。11月から12月にかけて恋しくなる冬の名物「とろける温泉湯豆腐」、嬉野茶の茶香炉が漂う風情豊かな温泉街、とろみのある重曹泉の露天風呂、そして最高峰A5ランク佐賀牛を心ゆくまで堪能する名宿ガイド。",
-    url: 'https://croud-travel.com/winter-saga-ureshino-onsen-bihada-yudofu-stay',
+    url: 'https://croud-travel.pages.dev/winter-saga-ureshino-onsen-bihada-yudofu-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -63,7 +63,7 @@ export default function UreshinoWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-saga-ureshino-onsen-bihada-yudofu-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-saga-ureshino-onsen-bihada-yudofu-stay#article",
         "headline": "【11・12月嬉野温泉の日本三大美肌湯と冬情緒】嬉野茶の香りと名物とろける温泉湯豆腐＆極上佐賀牛の宿5選",
         "description": "斐乃上温泉、喜連川温泉と並び「日本三大美肌の湯」として名高い佐賀県・嬉野温泉。11月から12月にかけて恋しくなる冬の名物「とろける温泉湯豆腐」、嬉野茶の茶香炉が漂う風情豊かな温泉街、とろみのある重曹泉の露天風呂、そして最高峰A5ランク佐賀牛を心ゆくまで堪能する名宿ガイド。",
         "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
@@ -72,24 +72,24 @@ export default function UreshinoWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-saga-ureshino-onsen-bihada-yudofu-stay"
+          "@id": "https://croud-travel.pages.dev/winter-saga-ureshino-onsen-bihada-yudofu-stay"
         }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-saga-ureshino-onsen-bihada-yudofu-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-saga-ureshino-onsen-bihada-yudofu-stay#faq",
         "mainEntity": faqList.map(f => ({
           "@type": "Question",
           "name": f.q,
@@ -101,7 +101,7 @@ export default function UreshinoWinterPage() {
       },
       {
         "@type": "ItemList",
-        "@id": "https://croud-travel.com/winter-saga-ureshino-onsen-bihada-yudofu-stay#hotels",
+        "@id": "https://croud-travel.pages.dev/winter-saga-ureshino-onsen-bihada-yudofu-stay#hotels",
         "itemListElement": [
           {
             "@type": "ListItem",
@@ -622,32 +622,7 @@ export default function UreshinoWinterPage() {
         </section>
 
         {/* FAQ Section */}
-        <section id="faq" className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-stone-200/80 space-y-6">
-          <div className="flex items-center gap-3 pb-3 border-b border-stone-100">
-            <div className="p-2 rounded-xl bg-emerald-50 text-emerald-800">
-              <HelpCircle className="w-5 h-5" />
-            </div>
-            <div>
-              <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Traveler's FAQ</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                よくある質問（FAQ）と冬の旅のアドバイス
-              </h2>
-            </div>
-          </div>
-          <div className="space-y-4">
-            {faqList.map((faq, idx) => (
-              <div key={idx} className="p-5 rounded-2xl bg-stone-50 border border-stone-200/70 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-emerald-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
-                <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
-                  {faq.a}
-                </p>
-              </div>
-            ))}
-          </div>
-        </section>
+        
 
         {/* Internal Links / Related Guides */}
         <section className="bg-emerald-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">

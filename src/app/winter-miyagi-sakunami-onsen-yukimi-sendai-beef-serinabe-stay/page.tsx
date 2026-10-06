@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月宮城・作並温泉＆仙台奥座敷の初冬広瀬川雪見露天と美女づくりの湯】極上A5仙台牛ステーキ＆名物仙台せり鍋会席を味わう老舗宿5選",
     description: "11月から12月にかけて、杜の都・仙台の奥座敷として古くから親しまれる作並温泉および秋保温泉エリアは、広瀬川や名取川の深い渓谷が初雪に彩られ、湯けむりが白く立ち上る情緒豊かな初冬の温泉情緒に包まれます。奈良時代に行基菩薩が発見し、歴代仙台藩主も湯治に訪れた作並温泉は、肌をしっとりと包み込む弱アルカリ性の「美女づくりの湯」。夕食には見事なサシが入った最高級A5仙台牛の陶板ステーキやしゃぶしゃぶ、そして冬の宮城を代表する風物詩・根っこまでシャキシャキと甘い名物「仙台せり鍋」を地酒とともに味わう厳選名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-miyagi-sakunami-onsen-yukimi-sendai-beef-serinabe-stay',
+    url: 'https://croud-travel.pages.dev/winter-miyagi-sakunami-onsen-yukimi-sendai-beef-serinabe-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -62,10 +62,10 @@ export default function MiyagiSakunamiWinterFeature() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-miyagi-sakunami-onsen-yukimi-sendai-beef-serinabe-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-miyagi-sakunami-onsen-yukimi-sendai-beef-serinabe-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-miyagi-sakunami-onsen-yukimi-sendai-beef-serinabe-stay"
+          "@id": "https://croud-travel.pages.dev/winter-miyagi-sakunami-onsen-yukimi-sendai-beef-serinabe-stay"
         },
         "headline": "【11・12月宮城・作並温泉＆仙台奥座敷の初冬広瀬川雪見露天と美女づくりの湯】極上A5仙台牛ステーキ＆名物仙台せり鍋会席を味わう老舗宿5選",
         "description": "11月から12月にかけて、杜の都・仙台の奥座敷として古くから親しまれる作並温泉および秋保温泉エリアは、広瀬川や名取川の深い渓谷が初雪に彩られ、湯けむりが白く立ち上る情緒豊かな初冬の温泉情緒に包まれます。奈良時代に行基菩薩が発見し、歴代仙台藩主も湯治に訪れた作並温泉は、肌をしっとりと包み込む弱アルカリ性の「美女づくりの湯」。夕食には見事なサシが入った最高級A5仙台牛の陶板ステーキやしゃぶしゃぶ、そして冬の宮城を代表する風物詩・根っこまでシャキシャキと甘い名物「仙台せり鍋」を地酒とともに味わう厳選名宿5選を徹底解説します。",
@@ -77,7 +77,7 @@ export default function MiyagiSakunamiWinterFeature() {
           "name": "Croud Travel",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "author": {
@@ -88,31 +88,31 @@ export default function MiyagiSakunamiWinterFeature() {
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://croud-travel.com/winter-miyagi-sakunami-onsen-yukimi-sendai-beef-serinabe-stay#breadcrumb",
+        "@id": "https://croud-travel.pages.dev/winter-miyagi-sakunami-onsen-yukimi-sendai-beef-serinabe-stay#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com/"
+            "item": "https://croud-travel.pages.dev/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "宮城・作並温泉＆仙台奥座敷 初冬雪見露天と仙台牛の宿",
-            "item": "https://croud-travel.com/winter-miyagi-sakunami-onsen-yukimi-sendai-beef-serinabe-stay"
+            "item": "https://croud-travel.pages.dev/winter-miyagi-sakunami-onsen-yukimi-sendai-beef-serinabe-stay"
           }
         ]
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-miyagi-sakunami-onsen-yukimi-sendai-beef-serinabe-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-miyagi-sakunami-onsen-yukimi-sendai-beef-serinabe-stay#faq",
         "mainEntity": faqList.map(f => ({
           "@type": "Question",
           "name": f.q,

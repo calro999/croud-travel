@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月千葉・南房総温泉郷の温暖避寒旅と旬の伊勢海老・房州地魚】太平洋パノラマ絶景露天＆貸切風呂の宿5選",
     description: "11月から12月にかけて、東京湾アクアラインで都心からわずか90分で訪れることができる房総半島南部「南房総温泉郷（鴨川・小湊・千倉・館山・白浜）」は、黒潮がもたらす温暖な海洋性気候に包まれ、冬の厳しい寒さを逃れて穏やかな海風を感じられる関東屈指の避寒リゾートです。11・12月は秋に解禁された名物「房州伊勢海老」が最も甘みと身の締まりを極める最盛期を迎え、金目鯛の姿煮や房州アワビ、朝獲れ地魚姿造りが食卓を彩ります。太平洋の水平線から昇る神々しい朝焼けを露天風呂から独占する、初冬の南房総おすすめ名旅館・絶景リゾート5選を徹底解説。",
-    url: 'https://croud-travel.com/winter-chiba-minamiboso-onsen-ise-ebi-oceanview-stay',
+    url: 'https://croud-travel.pages.dev/winter-chiba-minamiboso-onsen-ise-ebi-oceanview-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -62,10 +62,10 @@ export default function ChibaMinamibosoWinterFeature() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-chiba-minamiboso-onsen-ise-ebi-oceanview-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-chiba-minamiboso-onsen-ise-ebi-oceanview-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-chiba-minamiboso-onsen-ise-ebi-oceanview-stay"
+          "@id": "https://croud-travel.pages.dev/winter-chiba-minamiboso-onsen-ise-ebi-oceanview-stay"
         },
         "headline": "【11・12月千葉・南房総温泉郷の温暖避寒旅と旬の伊勢海老・房州地魚】太平洋パノラマ絶景露天＆貸切風呂の宿5選",
         "description": "11月から12月にかけて、東京湾アクアラインで都心からわずか90分で訪れることができる房総半島南部「南房総温泉郷（鴨川・小湊・千倉・館山・白浜）」は、黒潮がもたらす温暖な海洋性気候に包まれ、冬の厳しい寒さを逃れて穏やかな海風を感じられる関東屈指の避寒リゾートです。11・12月は秋に解禁された名物「房州伊勢海老」が最も甘みと身の締まりを極める最盛期を迎え、金目鯛の姿煮や房州アワビ、朝獲れ地魚姿造りが食卓を彩ります。太平洋の水平線から昇る神々しい朝焼けを露天風呂から独占する、初冬の南房総おすすめ名旅館・絶景リゾート5選を徹底解説。",
@@ -77,7 +77,7 @@ export default function ChibaMinamibosoWinterFeature() {
           "name": "Croud Travel",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "author": {
@@ -88,31 +88,31 @@ export default function ChibaMinamibosoWinterFeature() {
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://croud-travel.com/winter-chiba-minamiboso-onsen-ise-ebi-oceanview-stay#breadcrumb",
+        "@id": "https://croud-travel.pages.dev/winter-chiba-minamiboso-onsen-ise-ebi-oceanview-stay#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com/"
+            "item": "https://croud-travel.pages.dev/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "千葉・南房総温泉郷 温暖避寒旅と旬の伊勢海老・太平洋露天の宿",
-            "item": "https://croud-travel.com/winter-chiba-minamiboso-onsen-ise-ebi-oceanview-stay"
+            "item": "https://croud-travel.pages.dev/winter-chiba-minamiboso-onsen-ise-ebi-oceanview-stay"
           }
         ]
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-chiba-minamiboso-onsen-ise-ebi-oceanview-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-chiba-minamiboso-onsen-ise-ebi-oceanview-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",

@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月熊本・阿蘇内牧温泉の初冬阿蘇五岳絶景と名物あか牛】名湯掛け流し湯巡り＆極上あか牛溶岩焼きと特選馬刺しを味わう厳選宿5選",
     description: "11月から12月にかけて、世界最大級のカルデラに抱かれた熊本県「阿蘇内牧（うちのまき）温泉」は、広大な草原が黄金色のススキから白銀の初霜・初雪へと移ろい、澄み切った大気の中に阿蘇五岳の涅槃像（ねはんぞう）が荘厳に浮かび上がる初冬の絶景シーズンを迎えます。約80ヶ所もの豊富な源泉から湧き出る天然温泉は、多くの文豪も愛した名湯掛け流し。冷えた身体を湯浴みで芯から温めた後は、赤身の旨味が凝縮した熊本名物「あか牛」の溶岩焼きステーキやすき焼き、鮮度抜群の特選霜降り馬刺しを味わい尽くす厳選名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-kumamoto-aso-uchinomaki-onsen-akagyu-caldera-stay',
+    url: 'https://croud-travel.pages.dev/winter-kumamoto-aso-uchinomaki-onsen-akagyu-caldera-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -62,10 +62,10 @@ export default function KumamotoAsoUchinomakiWinterFeature() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-kumamoto-aso-uchinomaki-onsen-akagyu-caldera-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-kumamoto-aso-uchinomaki-onsen-akagyu-caldera-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-kumamoto-aso-uchinomaki-onsen-akagyu-caldera-stay"
+          "@id": "https://croud-travel.pages.dev/winter-kumamoto-aso-uchinomaki-onsen-akagyu-caldera-stay"
         },
         "headline": "【11・12月熊本・阿蘇内牧温泉の初冬阿蘇五岳絶景と名物あか牛】名湯掛け流し湯巡り＆極上あか牛溶岩焼きと特選馬刺しを味わう厳選宿5選",
         "description": "11月から12月にかけて、世界最大級のカルデラに抱かれた熊本県「阿蘇内牧（うちのまき）温泉」は、広大な草原が黄金色のススキから白銀の初霜・初雪へと移ろい、澄み切った大気の中に阿蘇五岳の涅槃像（ねはんぞう）が荘厳に浮かび上がる初冬の絶景シーズンを迎えます。約80ヶ所もの豊富な源泉から湧き出る天然温泉は、多くの文豪も愛した名湯掛け流し。冷えた身体を湯浴みで芯から温めた後は、赤身の旨味が凝縮した熊本名物「あか牛」の溶岩焼きステーキやすき焼き、鮮度抜群の特選霜降り馬刺しを味わい尽くす厳選名宿5選を徹底解説します。",
@@ -77,7 +77,7 @@ export default function KumamotoAsoUchinomakiWinterFeature() {
           "name": "Croud Travel",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "author": {
@@ -88,31 +88,31 @@ export default function KumamotoAsoUchinomakiWinterFeature() {
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://croud-travel.com/winter-kumamoto-aso-uchinomaki-onsen-akagyu-caldera-stay#breadcrumb",
+        "@id": "https://croud-travel.pages.dev/winter-kumamoto-aso-uchinomaki-onsen-akagyu-caldera-stay#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com/"
+            "item": "https://croud-travel.pages.dev/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "熊本・阿蘇内牧温泉 初冬阿蘇五岳絶景と名物あか牛の宿",
-            "item": "https://croud-travel.com/winter-kumamoto-aso-uchinomaki-onsen-akagyu-caldera-stay"
+            "item": "https://croud-travel.pages.dev/winter-kumamoto-aso-uchinomaki-onsen-akagyu-caldera-stay"
           }
         ]
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-kumamoto-aso-uchinomaki-onsen-akagyu-caldera-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-kumamoto-aso-uchinomaki-onsen-akagyu-caldera-stay#faq",
         "mainEntity": faqList.map(f => ({
           "@type": "Question",
           "name": f.q,

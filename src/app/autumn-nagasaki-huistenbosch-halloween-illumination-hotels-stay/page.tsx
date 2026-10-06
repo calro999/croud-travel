@@ -9,12 +9,12 @@ export const metadata: Metadata = {
   description: "日本一の広さを誇るテーマパーク「長崎ハウステンボス」が、オレンジとゴールドの光に包まれる「ハロウィーンフェスティバル」。本場ヨーロッパのレンガ造りの街並みや運河沿いには、巨大なカボチャのランタンやフォトジェニックなハロウィーン装飾が点灯。夜には世界最大1300万球が輝く「光の王国」イルミネーションと、大迫力のハロウィーンナイト花火が夜空を染め上げます。クラシカルなヨーロッパ調の直営クラシックホテルや、黄金色の温泉が湧くオフィシャルホテル厳選5選を徹底特集。",
   keywords: 'ハウステンボス ハロウィン, ハウステンボス イルミネーション, ホテルオークラJRハウステンボス, ホテルヨーロッパ, ホテルアムステルダム, ホテルデンハーグ, 長崎 旅行 秋, 佐世保 レモンステーキ',
   alternates: {
-    canonical: 'https://croud-travel.com/autumn-nagasaki-huistenbosch-halloween-illumination-hotels-stay'
+    canonical: 'https://croud-travel.pages.dev/autumn-nagasaki-huistenbosch-halloween-illumination-hotels-stay'
   },
   openGraph: {
     title: "【秋の長崎ハウステンボス】ヨーロッパの街並みが包まれるハロウィーンフェスティバル！世界最大級ナイトイルミネーション・秋のグルメ＆直営・オフィシャル厳選名宿5選",
     description: "日本一の広さを誇るテーマパーク「長崎ハウステンボス」が、オレンジとゴールドの光に包まれる「ハロウィーンフェスティバル」。本場ヨーロッパのレンガ造りの街並みや運河沿いには、巨大なカボチャのランタンやフォトジェニックなハロウィーン装飾が点灯。夜には世界最大1300万球が輝く「光の王国」イルミネーションと、大迫力のハロウィーンナイト花火が夜空を染め上げます。クラシカルなヨーロッパ調の直営クラシックホテルや、黄金色の温泉が湧くオフィシャルホテル厳選5選を徹底特集。",
-    url: 'https://croud-travel.com/autumn-nagasaki-huistenbosch-halloween-illumination-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-nagasaki-huistenbosch-halloween-illumination-hotels-stay',
     siteName: 'クラドトラベル',
     type: 'article',
     locale: 'ja_JP',
@@ -51,12 +51,12 @@ export default function HuistenboschHalloweenFeaturePage() {
       "name": "クラドトラベル",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://croud-travel.com/logo.png"
+        "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.com/autumn-nagasaki-huistenbosch-halloween-illumination-hotels-stay"
+      "@id": "https://croud-travel.pages.dev/autumn-nagasaki-huistenbosch-halloween-illumination-hotels-stay"
     }
   };
 
@@ -68,19 +68,19 @@ export default function HuistenboschHalloweenFeaturePage() {
         "@type": "ListItem",
         "position": 1,
         "name": "ホーム",
-        "item": "https://croud-travel.com/"
+        "item": "https://croud-travel.pages.dev/"
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "特集一覧",
-        "item": "https://croud-travel.com/features"
+        "item": "https://croud-travel.pages.dev/features"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "長崎ハウステンボス・ハロウィーン特集",
-        "item": "https://croud-travel.com/autumn-nagasaki-huistenbosch-halloween-illumination-hotels-stay"
+        "item": "https://croud-travel.pages.dev/autumn-nagasaki-huistenbosch-halloween-illumination-hotels-stay"
       }
     ]
   };

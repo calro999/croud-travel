@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月佐渡】冬の王者「佐渡寒ブリ」と活本ズワイガニ・雪化粧の佐渡金山＆日本海絶景の佐渡温泉を堪能する名宿5選",
     description: "11月から1月、日本海に浮かぶ新潟県・佐渡島は、冬の味覚の王者が勢揃いする一年で最も贅沢なグルメシーズンを迎えます。11月中旬に発令される名物「佐渡寒ブリ宣言」を皮切りに、荒海を南下して丸々と太った天然寒ブリが水揚げされ、とろけるような脂の乗りを誇る寒ブリ刺身や極上の寒ブリしゃぶしゃぶが食卓へ。さらに冬の日本海の荒波が育む活本ズワイガニや南蛮エビ、幻のブランド牛「佐渡牛」が贅を極めます。2024年に世界文化遺産に登録された「佐渡島の金山」や北沢浮遊選鉱場跡は、しんしんと降る雪をまとって幽玄の美を放ち、海岸線では冬の風物詩「波の花」が舞い散る情景も。両津湾や加茂湖、日本海の絶景を望む掛け流しの佐渡温泉と美食に酔いしれる厳選5宿を徹底ガイドします。",
-    url: 'https://croud-travel.com/winter-niigata-sado-island-kanburi-crab-snow-stay',
+    url: 'https://croud-travel.pages.dev/winter-niigata-sado-island-kanburi-crab-snow-stay',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -44,12 +44,12 @@ export default function NiigataSadoIslandPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-niigata-sado-island-kanburi-crab-snow-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-niigata-sado-island-kanburi-crab-snow-stay#article",
         "isPartOf": {
           "@type": "WebSite",
-          "@id": "https://croud-travel.com/#website",
+          "@id": "https://croud-travel.pages.dev/#website",
           "name": "クラドトラベル",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "headline": "【11・12・1月佐渡】冬の王者「佐渡寒ブリ」と活本ズワイガニ・雪化粧の佐渡金山＆日本海絶景の佐渡温泉を堪能する名宿5選",
         "description": "11月から1月、日本海に浮かぶ新潟県・佐渡島は、冬の味覚の王者が勢揃いする一年で最も贅沢なグルメシーズンを迎えます。11月中旬に発令される名物「佐渡寒ブリ宣言」を皮切りに、荒海を南下して丸々と太った天然寒ブリが水揚げされ、とろけるような脂の乗りを誇る寒ブリ刺身や極上の寒ブリしゃぶしゃぶが食卓へ。さらに冬の日本海の荒波が育む活本ズワイガニや南蛮エビ、幻のブランド牛「佐渡牛」が贅を極めます。2024年に世界文化遺産に登録された「佐渡島の金山」や北沢浮遊選鉱場跡は、しんしんと降る雪をまとって幽玄の美を放ち、海岸線では冬の風物詩「波の花」が舞い散る情景も。両津湾や加茂湖、日本海の絶景を望む掛け流しの佐渡温泉と美食に酔いしれる厳選5宿を徹底ガイドします。",
@@ -63,41 +63,41 @@ export default function NiigataSadoIslandPage() {
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル",
-          "url": "https://croud-travel.com",
+          "url": "https://croud-travel.pages.dev",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
-        "mainEntityOfPage": "https://croud-travel.com/winter-niigata-sado-island-kanburi-crab-snow-stay"
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-niigata-sado-island-kanburi-crab-snow-stay"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://croud-travel.com/winter-niigata-sado-island-kanburi-crab-snow-stay#breadcrumb",
+        "@id": "https://croud-travel.pages.dev/winter-niigata-sado-island-kanburi-crab-snow-stay#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com"
+            "item": "https://croud-travel.pages.dev"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "佐渡島の冬寒ブリと金山絶景温泉特集",
-            "item": "https://croud-travel.com/winter-niigata-sado-island-kanburi-crab-snow-stay"
+            "item": "https://croud-travel.pages.dev/winter-niigata-sado-island-kanburi-crab-snow-stay"
           }
         ]
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-niigata-sado-island-kanburi-crab-snow-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-niigata-sado-island-kanburi-crab-snow-stay#faq",
         "mainEntity": [{"@type":"Question","name":"「佐渡寒ブリ宣言」とは何ですか？旬の時期や味の特徴は？","acceptedAnswer":{"@type":"Answer","text":"「佐渡寒ブリ宣言」は、佐渡魚市場が毎年11月中旬から下旬頃、佐渡沖の定置網で1本8kg〜10kg以上の丸々と太った良質な天然ブリがまとまって水揚げされた際に発令する公式宣言です。北海道でたっぷりとエサを食べて南下してきた寒ブリは、佐渡沖の激しい荒波と冷たい海水で引き締まり、全身に霜降り状のきめ細かな脂を蓄えています。12月から1月が最も脂の乗りが最高潮となり、包丁を入れると脂で白く曇るほどの濃厚な旨味を持ちながら、くどさが全くない極上の後味が特徴。刺身はもちろん、サッと出汁にくぐらせる「ブリしゃぶ」や、味がしっかり染みた「ブリ大根」は冬の佐渡でしか味わえない至宝です。"}},{"@type":"Question","name":"冬（11月〜1月）の佐渡島へのアクセスは？フェリーは欠航しませんか？","acceptedAnswer":{"@type":"Answer","text":"佐渡島へは、新潟港から両津港を結ぶ「佐渡汽船」の大型カーフェリー（所要約2時間30分）およびジェットフォイル（高速船・所要約1時間7分）が通年運航しています。冬の日本海は波が高くなりやすいですが、総トン数約5,000トン以上の大型カーフェリーは高い耐波性を備えており、冬期でも就航率は約90%以上と極めて安定しています。一方、ジェットフォイルは高波時に欠航することがあるため、冬の旅行ではカーフェリーの利用が安心です。新潟港まではJR新潟駅から路線バスで約15分と接続も抜群です。"}},{"@type":"Question","name":"世界遺産に登録された「佐渡島の金山」は冬も見学できますか？雪の様子は？","acceptedAnswer":{"@type":"Answer","text":"2024年に世界文化遺産に登録された「佐渡島の金山（相川鶴子金銀山）」は、冬期（11月〜1月）も無休で営業しており見学可能です（坑道内は年間を通じて約10℃前後に保たれているため、冬は外気よりも暖かく感じられます）。手掘りの江戸幕府直轄坑道「宗太夫坑」や、明治以降の近代化遺産「道遊坑」をじっくり探索できます。また、巨大な割れ目が印象的な「道遊の割戸」や近代産業遺産「北沢浮遊選鉱場跡」に雪が降り積もる冬景色は、まるでジブリ映画の廃墟のような幽玄の美しさを醸し出します。"}},{"@type":"Question","name":"冬の佐渡島の気候や道路の積雪状況はどうですか？車で観光できますか？","acceptedAnswer":{"@type":"Answer","text":"佐渡島は日本海に位置しますが、沖合を流れる対馬暖流の影響を受けるため、新潟本土の内陸部（魚沼や湯沢など）と比べると積雪量は格段に少なく、冬でも比較的温暖です。ただし、大佐渡スカイラインなど山間部の観光道路は冬期通行止めとなり、寒波が襲来した際は道路の積雪や路面凍結が発生します。レンタカーやマイカーを利用する場合は必ずスタッドレスタイヤを装着してください。平野部や主要国道（両津〜佐和田〜相川など）は消雪パイプや除雪車が稼働しており、安全運転を心がければレンタカーでの周遊も十分に可能です。"}},{"@type":"Question","name":"冬の佐渡海岸で見られる「波の花（なみのはな）」とは何ですか？","acceptedAnswer":{"@type":"Answer","text":"「波の花」とは、冬の日本海の荒波が海岸の岩肌に激しく打ち寄せる際、海水中の植物プランクトンの粘液（粘着質のタンパク質）が泡立ち、無数の白い泡の塊となって海岸を埋め尽くす冬の自然現象です。強い冬の季節風が吹くと、泡がちぎれて雪のように宙を舞い散る幻想的な情景が見られます。佐渡島北部の外海府海岸や夫婦岩周辺、尖閣湾などで11月下旬から1月の強風時に頻繁に観察され、冬の佐渡の厳しくも美しい風物詩として知られています。"}}]
       }
     ]

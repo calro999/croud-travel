@@ -9,12 +9,12 @@ export const metadata: Metadata = {
   description: "瀬戸内海に浮かぶ神の島と多島美パノラマ！11〜1月のしまなみ海道は空気が澄み、来島海峡大橋の雄大な造形美と冬晴れのブルーの海が息を呑む絶景を描き出します。日本総鎮守の尊称を持つ大三島「大山祇神社」では、天然記念物・樹齢2600年の御神木楠が放つ神秘の気息に包まれる厳かな新春初詣。身が締まり脂が乗った冬の瀬戸内真鯛を土鍋でふっくら炊き上げる「今治鯛めし」や来島海峡の海鮮会席、伊予の三湯「鈍川温泉」美肌湯と今治の洗練名宿5選を徹底特集。",
   keywords: '大山祇神社 初詣, 大山祇神社 樹齢2600年, しまなみ海道 冬, 来島海峡大橋, 今治鯛めし, 鈍川温泉, 今治国際ホテル, 大三島 初詣, 亀老山展望公園, 愛媛 冬 旅行',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-ehime-imabari-shimanami-oyamazumi-shrine-hatsumode-taimeshi-stay'
+    canonical: 'https://croud-travel.pages.dev/winter-ehime-imabari-shimanami-oyamazumi-shrine-hatsumode-taimeshi-stay'
   },
   openGraph: {
     title: "【11・12・1月愛媛】日本総鎮守「大山祇神社」樹齢2600年神木新春初詣！冬晴れしまなみ海道パノラマ・甘み極まる瀬戸内真鯛今治鯛めし＆鈍川温泉厳選名宿5選",
     description: "瀬戸内海に浮かぶ神の島と多島美パノラマ！11〜1月のしまなみ海道は空気が澄み、来島海峡大橋の雄大な造形美と冬晴れのブルーの海が息を呑む絶景を描き出します。日本総鎮守の尊称を持つ大三島「大山祇神社」では、天然記念物・樹齢2600年の御神木楠が放つ神秘の気息に包まれる厳かな新春初詣。身が締まり脂が乗った冬の瀬戸内真鯛を土鍋でふっくら炊き上げる「今治鯛めし」や来島海峡の海鮮会席、伊予の三湯「鈍川温泉」美肌湯と今治の洗練名宿5選を徹底特集。",
-    url: 'https://croud-travel.com/winter-ehime-imabari-shimanami-oyamazumi-shrine-hatsumode-taimeshi-stay',
+    url: 'https://croud-travel.pages.dev/winter-ehime-imabari-shimanami-oyamazumi-shrine-hatsumode-taimeshi-stay',
     siteName: 'クラドトラベル',
     type: 'article',
     locale: 'ja_JP',
@@ -51,12 +51,12 @@ export default function EhimeImabariWinterFeaturePage() {
       "name": "クラドトラベル",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://croud-travel.com/logo.png"
+        "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.com/winter-ehime-imabari-shimanami-oyamazumi-shrine-hatsumode-taimeshi-stay"
+      "@id": "https://croud-travel.pages.dev/winter-ehime-imabari-shimanami-oyamazumi-shrine-hatsumode-taimeshi-stay"
     }
   };
 
@@ -68,19 +68,19 @@ export default function EhimeImabariWinterFeaturePage() {
         "@type": "ListItem",
         "position": 1,
         "name": "ホーム",
-        "item": "https://croud-travel.com/"
+        "item": "https://croud-travel.pages.dev/"
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "特集一覧",
-        "item": "https://croud-travel.com/features"
+        "item": "https://croud-travel.pages.dev/features"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "愛媛・今治＆しまなみ海道 冬の初詣と真鯛グルメ",
-        "item": "https://croud-travel.com/winter-ehime-imabari-shimanami-oyamazumi-shrine-hatsumode-taimeshi-stay"
+        "item": "https://croud-travel.pages.dev/winter-ehime-imabari-shimanami-oyamazumi-shrine-hatsumode-taimeshi-stay"
       }
     ]
   };

@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月山形】羽黒山「国宝五重塔」雪景色と酒田山居倉庫！冬名物「寒鱈どんがら汁」・日本海寒魚＆湯野浜・あつみ温泉名宿5選",
     description: "霊峰月山・鳥海山を仰ぐ山形県庄内地方の11〜1月冬紀行。白銀の老杉回廊に佇む羽黒山「国宝五重塔」と出羽三山神社新春初詣、明治の面影を留める酒田「山居倉庫」の雪ケヤキ並木。日本海の猛烈な地吹雪と寒波が育む冬の至宝「寒鱈どんがら汁（寒鱈汁）」の濃厚な肝と白子、庄内浜の寒ヒラメ・のどぐろ、山形牛。名湯・湯野浜温泉やあつみ温泉で雪見風呂を満喫する厳選名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-yamagata-shonai-hagurosan-sakata-kandarajiru-yunohama-onsen-stay',
+    url: 'https://croud-travel.pages.dev/winter-yamagata-shonai-hagurosan-sakata-kandarajiru-yunohama-onsen-stay',
     type: 'article',
     images: [
       {
@@ -48,19 +48,19 @@ export default function YamagataShonaiWinterPage() {
     "author": {
       "@type": "Organization",
       "name": "旅宿クラウド 編集部",
-      "url": "https://croud-travel.com"
+      "url": "https://croud-travel.pages.dev"
     },
     "publisher": {
       "@type": "Organization",
       "name": "旅宿クラウド",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://croud-travel.com/logo.png"
+        "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.com/winter-yamagata-shonai-hagurosan-sakata-kandarajiru-yunohama-onsen-stay"
+      "@id": "https://croud-travel.pages.dev/winter-yamagata-shonai-hagurosan-sakata-kandarajiru-yunohama-onsen-stay"
     }
   };
 
@@ -72,19 +72,19 @@ export default function YamagataShonaiWinterPage() {
         "@type": "ListItem",
         "position": 1,
         "name": "ホーム",
-        "item": "https://croud-travel.com"
+        "item": "https://croud-travel.pages.dev"
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "特集一覧",
-        "item": "https://croud-travel.com/features"
+        "item": "https://croud-travel.pages.dev/features"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "山形・庄内＆出羽三山 冬特集",
-        "item": "https://croud-travel.com/winter-yamagata-shonai-hagurosan-sakata-kandarajiru-yunohama-onsen-stay"
+        "item": "https://croud-travel.pages.dev/winter-yamagata-shonai-hagurosan-sakata-kandarajiru-yunohama-onsen-stay"
       }
     ]
   };
@@ -711,7 +711,7 @@ export default function YamagataShonaiWinterPage() {
 
       {/* Footer */}
       <footer className="bg-slate-900 text-slate-400 py-10 px-4 text-center text-xs border-t border-slate-800 mt-16">
-        <p>© 2026 旅宿クラウド (croud-travel.com). All rights reserved.</p>
+        <p>© 2026 旅宿クラウド (croud-travel.pages.dev). All rights reserved.</p>
         <p className="mt-2 text-slate-500">掲載の宿泊料金や施設情報は楽天トラベルAPIより取得した参考データです。最新のプラン内容は各宿泊施設ページをご確認ください。</p>
       </footer>
     </article>

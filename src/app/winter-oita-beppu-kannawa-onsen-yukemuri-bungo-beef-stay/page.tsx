@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月別府・鉄輪温泉の冬湯けむりと海鮮美食】初冬の別府湾絶景露天・鉄輪湯けむり展望と極上豊後牛＆関アジ関サバ会席の宿5選",
     description: "11月から12月にかけて冷気により街一面の湯けむりが最も美しく立ち昇る日本一の湧出量を誇る大分「別府温泉郷」と湯治情緒漂う「鉄輪（かんなわ）温泉」。海抜ゼロメートルから高原まで広がる雄大な別府湾の初冬の朝焼けを望む絶景露天風呂、伝統の地獄蒸し料理、大分が誇る豊後水道の荒波で育った「関アジ・関サバ」の活造りや「豊後牛（おおいた和牛）」の極上ステーキを堪能する至高の名宿5選を徹底解説。",
-    url: 'https://croud-travel.com/winter-oita-beppu-kannawa-onsen-yukemuri-bungo-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-oita-beppu-kannawa-onsen-yukemuri-bungo-beef-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -68,7 +68,7 @@ export default function BeppuOnsenWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-oita-beppu-kannawa-onsen-yukemuri-bungo-beef-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-oita-beppu-kannawa-onsen-yukemuri-bungo-beef-stay#article",
         "headline": "【11・12月別府・鉄輪温泉の冬湯けむりと海鮮美食】初冬の別府湾絶景露天・鉄輪湯けむり展望と極上豊後牛＆関アジ関サバ会席の宿5選",
         "description": "11月から12月にかけて冷気により街一面の湯けむりが最も美しく立ち昇る日本一の湧出量を誇る大分「別府温泉郷」と湯治情緒漂う「鉄輪（かんなわ）温泉」。海抜ゼロメートルから高原まで広がる雄大な別府湾の初冬の朝焼けを望む絶景露天風呂、伝統の地獄蒸し料理、大分が誇る豊後水道の荒波で育った「関アジ・関サバ」の活造りや「豊後牛（おおいた和牛）」の極上ステーキを堪能する至高の名宿5選を徹底解説。",
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
@@ -77,24 +77,24 @@ export default function BeppuOnsenWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-oita-beppu-kannawa-onsen-yukemuri-bungo-beef-stay"
+          "@id": "https://croud-travel.pages.dev/winter-oita-beppu-kannawa-onsen-yukemuri-bungo-beef-stay"
         }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-oita-beppu-kannawa-onsen-yukemuri-bungo-beef-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-oita-beppu-kannawa-onsen-yukemuri-bungo-beef-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -140,7 +140,7 @@ export default function BeppuOnsenWinterPage() {
       },
       {
         "@type": "ItemList",
-        "@id": "https://croud-travel.com/winter-oita-beppu-kannawa-onsen-yukemuri-bungo-beef-stay#hotels",
+        "@id": "https://croud-travel.pages.dev/winter-oita-beppu-kannawa-onsen-yukemuri-bungo-beef-stay#hotels",
         "itemListElement": [
           {
             "@type": "ListItem",

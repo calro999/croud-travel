@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '冬の帝釈峡・庄原完全ガイド｜雪の渓谷美と広島神楽・比婆牛・備北温泉宿',
     description: '積雪が断崖を白く染める帝釈峡の雪景色、奉納神楽の迫力、比婆牛と広島牡蠣鍋——広島・庄原エリアの冬旅の魅力を楽天トラベル人気宿とともに徹底解説。',
-    url: 'https://croud-travel.com/winter-hiroshima-shobara-taishakukyo-snow-kagura-chugokugyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-hiroshima-shobara-taishakukyo-snow-kagura-chugokugyu-stay',
     siteName: 'Croud Travel',
     locale: 'ja_JP',
     type: 'article',
@@ -53,17 +53,17 @@ export default function Page() {
       {
         '@type': 'BreadcrumbList',
         itemListElement: [
-          { '@type': 'ListItem', position: 1, name: 'ホーム', item: 'https://croud-travel.com' },
-          { '@type': 'ListItem', position: 2, name: '冬の旅行特集', item: 'https://croud-travel.com/features' },
-          { '@type': 'ListItem', position: 3, name: '冬の帝釈峡・庄原×神楽×比婆牛×温泉宿', item: 'https://croud-travel.com/winter-hiroshima-shobara-taishakukyo-snow-kagura-chugokugyu-stay' },
+          { '@type': 'ListItem', position: 1, name: 'ホーム', item: 'https://croud-travel.pages.dev' },
+          { '@type': 'ListItem', position: 2, name: '冬の旅行特集', item: 'https://croud-travel.pages.dev/features' },
+          { '@type': 'ListItem', position: 3, name: '冬の帝釈峡・庄原×神楽×比婆牛×温泉宿', item: 'https://croud-travel.pages.dev/winter-hiroshima-shobara-taishakukyo-snow-kagura-chugokugyu-stay' },
         ],
       },
       {
         '@type': 'Article',
         headline: '冬の帝釈峡・庄原完全ガイド｜雪の渓谷美と広島神楽・比婆牛・備北温泉宿',
         description: '積雪が断崖を白く染める帝釈峡の雪景色、奉納神楽の迫力、比婆牛と広島牡蠣鍋——広島・庄原エリアの冬旅の魅力を徹底解説。',
-        url: 'https://croud-travel.com/winter-hiroshima-shobara-taishakukyo-snow-kagura-chugokugyu-stay',
-        publisher: { '@type': 'Organization', name: 'Croud Travel', url: 'https://croud-travel.com' },
+        url: 'https://croud-travel.pages.dev/winter-hiroshima-shobara-taishakukyo-snow-kagura-chugokugyu-stay',
+        publisher: { '@type': 'Organization', name: 'Croud Travel', url: 'https://croud-travel.pages.dev' },
       },
       {
         '@type': 'FAQPage',

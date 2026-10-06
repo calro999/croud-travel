@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月大分】全国八幡宮総本宮・宇佐神宮新春開運初詣＆国東六郷満山！豊前海天然車海老と極上豊後牛を味わう名宿5選",
     description: "冬の大分・宇佐＆国東半島は、全国4万社を超える八幡宮の総本宮「宇佐神宮」での新春初詣と、九州最古の木造建築・国宝「富貴寺大堂」をはじめとする神仏習合の六郷満山文化を訪ねる神秘の旅舞台。豊前海が育む冬の極上天然車海老や渡り蟹、大分の誇る黒毛和牛の最高峰「おおいた豊後牛」の贅沢なすき焼き、元祖宇佐からあげ。静寂に包まれる石仏群と冬晴れの別府湾・周防灘を望み、温もりの天然温泉に癒やされる厳選名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-oita-usa-jingu-kunisaki-hatsumode-bungogyu-seafood-stay',
+    url: 'https://croud-travel.pages.dev/winter-oita-usa-jingu-kunisaki-hatsumode-bungogyu-seafood-stay',
     type: 'article',
     images: [{ url: 'https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&q=630', width: 1200, height: 630, alt: '宇佐神宮と国東六郷満山の富貴寺' }]
   },
@@ -155,9 +155,9 @@ export default function OitaUsaKunisakiPage() {
       {
         '@type': 'BreadcrumbList',
         'itemListElement': [
-          { '@type': 'ListItem', 'position': 1, 'name': 'ホーム', 'item': 'https://croud-travel.com' },
-          { '@type': 'ListItem', 'position': 2, 'name': '特集一覧', 'item': 'https://croud-travel.com/features' },
-          { '@type': 'ListItem', 'position': 3, 'name': '宇佐神宮初詣・国東六郷満山と豊後牛名宿', 'item': 'https://croud-travel.com/winter-oita-usa-jingu-kunisaki-hatsumode-bungogyu-seafood-stay' }
+          { '@type': 'ListItem', 'position': 1, 'name': 'ホーム', 'item': 'https://croud-travel.pages.dev' },
+          { '@type': 'ListItem', 'position': 2, 'name': '特集一覧', 'item': 'https://croud-travel.pages.dev/features' },
+          { '@type': 'ListItem', 'position': 3, 'name': '宇佐神宮初詣・国東六郷満山と豊後牛名宿', 'item': 'https://croud-travel.pages.dev/winter-oita-usa-jingu-kunisaki-hatsumode-bungogyu-seafood-stay' }
         ]
       },
       {

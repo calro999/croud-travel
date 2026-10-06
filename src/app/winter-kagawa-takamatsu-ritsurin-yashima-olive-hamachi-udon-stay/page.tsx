@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月香川】特別名勝「栗林公園」の冬景色＆屋島寺新春初詣！冬限定の奇跡魚「オリーブハマチ」と讃岐うどん・オリーブ牛の名宿5選",
     description: "冬の香川・高松は、一歩一景の美を誇る国の特別名勝「栗林公園」が静寂と凛とした風情に包まれる特別な季節。掬月亭で味わう抹茶、源平合戦の古戦場・屋島山頂からの瀬戸内海初日の出と四国霊場第84番札所「屋島寺」の新春初詣。そして1月中旬までの冬期限定でしか味わえない香川の奇跡のブランド魚「オリーブハマチ（脂がのってさっぱりとした極上の身）」の刺身やしゃぶしゃぶ、冬の風物詩「讃岐しっぽくうどん」、讃岐牛の最高峰「オリーブ牛」のすき焼き。瀬戸内の多島美を望む温泉展望宿や名門ホテル厳選5選を詳しく紹介します。",
-    url: 'https://croud-travel.com/winter-kagawa-takamatsu-ritsurin-yashima-olive-hamachi-udon-stay',
+    url: 'https://croud-travel.pages.dev/winter-kagawa-takamatsu-ritsurin-yashima-olive-hamachi-udon-stay',
     type: 'article',
     images: [{ url: 'https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1200&q=630', width: 1200, height: 630, alt: '特別名勝栗林公園の冬景色とオリーブハマチ・オリーブ牛会席' }]
   },
@@ -156,9 +156,9 @@ export default function KagawaTakamatsuYashimaPage() {
       {
         '@type': 'BreadcrumbList',
         'itemListElement': [
-          { '@type': 'ListItem', 'position': 1, 'name': 'ホーム', 'item': 'https://croud-travel.com' },
-          { '@type': 'ListItem', 'position': 2, 'name': '特集一覧', 'item': 'https://croud-travel.com/features' },
-          { '@type': 'ListItem', 'position': 3, 'name': '栗林公園冬景色＆オリーブハマチ名宿', 'item': 'https://croud-travel.com/winter-kagawa-takamatsu-ritsurin-yashima-olive-hamachi-udon-stay' }
+          { '@type': 'ListItem', 'position': 1, 'name': 'ホーム', 'item': 'https://croud-travel.pages.dev' },
+          { '@type': 'ListItem', 'position': 2, 'name': '特集一覧', 'item': 'https://croud-travel.pages.dev/features' },
+          { '@type': 'ListItem', 'position': 3, 'name': '栗林公園冬景色＆オリーブハマチ名宿', 'item': 'https://croud-travel.pages.dev/winter-kagawa-takamatsu-ritsurin-yashima-olive-hamachi-udon-stay' }
         ]
       },
       {

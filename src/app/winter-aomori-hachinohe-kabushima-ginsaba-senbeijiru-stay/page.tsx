@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月青森】八戸前沖銀鯖と本場せんべい汁・八食センター七輪村買い出し＆蕪島神社初詣・太平洋一望の八戸名宿5選",
     description: "11月から1月、青森県八戸市は日本一脂が乗る「八戸前沖銀鯖」の最盛期を迎え、出汁の染みた熱々の「八戸せんべい汁」が極上の美味を放ちます。年末年始の活気あふれる八食センターでの買い出しと七輪村の炭火焼き、金運と株価上昇を願う蕪島神社の新春初詣、横丁文化が息づくみろく横丁。冬の八戸を心ゆくまで満喫する厳選名宿5選とモデルコースを徹底ガイドします。",
-    url: 'https://croud-travel.com/winter-aomori-hachinohe-kabushima-ginsaba-senbeijiru-stay',
+    url: 'https://croud-travel.pages.dev/winter-aomori-hachinohe-kabushima-ginsaba-senbeijiru-stay',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -50,19 +50,19 @@ export default function AomoriHachinoheKabushimaWinterPage() {
     author: {
       '@type': 'Organization',
       name: 'クラドトラベル編集部',
-      url: 'https://croud-travel.com'
+      url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
       name: 'クラドトラベル',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://croud-travel.com/logo.png'
+        url: 'https://croud-travel.pages.dev/logo.png'
       }
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.com/winter-aomori-hachinohe-kabushima-ginsaba-senbeijiru-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-aomori-hachinohe-kabushima-ginsaba-senbeijiru-stay'
     }
   };
 
@@ -74,19 +74,19 @@ export default function AomoriHachinoheKabushimaWinterPage() {
         '@type': 'ListItem',
         position: 1,
         name: 'ホーム',
-        item: 'https://croud-travel.com'
+        item: 'https://croud-travel.pages.dev'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.com/features'
+        item: 'https://croud-travel.pages.dev/features'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '青森・八戸冬の銀鯖＆せんべい汁特集',
-        item: 'https://croud-travel.com/winter-aomori-hachinohe-kabushima-ginsaba-senbeijiru-stay'
+        item: 'https://croud-travel.pages.dev/winter-aomori-hachinohe-kabushima-ginsaba-senbeijiru-stay'
       }
     ]
   };

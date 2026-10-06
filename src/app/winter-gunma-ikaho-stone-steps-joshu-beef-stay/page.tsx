@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月伊香保温泉の初冬散策】365段の石段街と黄金の湯・上州牛会席を味わう名旅館5選",
     description: "11月から12月にかけて榛名山の澄み切った初冬の空気に包まれる群馬・伊香保温泉。365段の風情ある石段街に灯る温かな提灯、鉄分を豊富に含み体を芯から温める茶褐色の「黄金の湯」と柔らかな「白銀の湯」。とろける上州牛のすき焼きや名物水沢うどんの美食を堪能する極上冬旅ガイド。",
-    url: 'https://croud-travel.com/winter-gunma-ikaho-stone-steps-joshu-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-gunma-ikaho-stone-steps-joshu-beef-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -44,7 +44,7 @@ export default function IkahoWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-gunma-ikaho-stone-steps-joshu-beef-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-gunma-ikaho-stone-steps-joshu-beef-stay#article",
         "headline": "【11・12月伊香保温泉の初冬散策】365段の石段街と黄金の湯・上州牛会席を味わう名旅館5選",
         "description": "11月から12月にかけて榛名山の澄み切った初冬の空気に包まれる群馬・伊香保温泉。365段の風情ある石段街に灯る温かな提灯、鉄分を豊富に含み体を芯から温める茶褐色の「黄金の湯」と柔らかな「白銀の湯」。とろける上州牛のすき焼きや名物水沢うどんの美食を堪能する極上冬旅ガイド。",
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
@@ -53,24 +53,24 @@ export default function IkahoWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-gunma-ikaho-stone-steps-joshu-beef-stay"
+          "@id": "https://croud-travel.pages.dev/winter-gunma-ikaho-stone-steps-joshu-beef-stay"
         }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-gunma-ikaho-stone-steps-joshu-beef-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-gunma-ikaho-stone-steps-joshu-beef-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -108,7 +108,7 @@ export default function IkahoWinterPage() {
       },
       {
         "@type": "ItemList",
-        "@id": "https://croud-travel.com/winter-gunma-ikaho-stone-steps-joshu-beef-stay#hotels",
+        "@id": "https://croud-travel.pages.dev/winter-gunma-ikaho-stone-steps-joshu-beef-stay#hotels",
         "itemListElement": [
           {
             "@type": "ListItem",

@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月石川】加賀一ノ宮「白山比咩神社」新春初詣と手取川雪景色！開湯1400年「辰口温泉」美肌名湯＆加賀丸いも・加能ガニ名宿5選",
     description: "全国3,000余社の白山神社総本宮「白山比咩神社（しらやまひめじんじゃ）」が最も神聖な空気に包まれる11〜1月の冬旅特集。加賀一ノ宮の荘厳な新春初詣、霊峰白山を源流とする手取川の雪景色、1400年の歴史を刻む辰口温泉の柔らかな湯、冬の日本海がもたらす極上の「加能ガニ」や香箱ガニ、粘りとコクが際立つ伝統野菜「加賀丸いも」のとろろ汁。白山麓と能美・加賀エリアを満喫する厳選名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-ishikawa-hakusan-shirayamahime-hatsumode-tatsunokuchi-onsen-kanougani-stay',
+    url: 'https://croud-travel.pages.dev/winter-ishikawa-hakusan-shirayamahime-hatsumode-tatsunokuchi-onsen-kanougani-stay',
     type: 'article',
     images: [
       {
@@ -48,19 +48,19 @@ export default function IshikawaHakusanWinterPage() {
     "author": {
       "@type": "Organization",
       "name": "旅宿クラウド 編集部",
-      "url": "https://croud-travel.com"
+      "url": "https://croud-travel.pages.dev"
     },
     "publisher": {
       "@type": "Organization",
       "name": "旅宿クラウド",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://croud-travel.com/logo.png"
+        "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.com/winter-ishikawa-hakusan-shirayamahime-hatsumode-tatsunokuchi-onsen-kanougani-stay"
+      "@id": "https://croud-travel.pages.dev/winter-ishikawa-hakusan-shirayamahime-hatsumode-tatsunokuchi-onsen-kanougani-stay"
     }
   };
 
@@ -72,19 +72,19 @@ export default function IshikawaHakusanWinterPage() {
         "@type": "ListItem",
         "position": 1,
         "name": "ホーム",
-        "item": "https://croud-travel.com"
+        "item": "https://croud-travel.pages.dev"
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "特集一覧",
-        "item": "https://croud-travel.com/features"
+        "item": "https://croud-travel.pages.dev/features"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "白山・辰口温泉 冬特集",
-        "item": "https://croud-travel.com/winter-ishikawa-hakusan-shirayamahime-hatsumode-tatsunokuchi-onsen-kanougani-stay"
+        "item": "https://croud-travel.pages.dev/winter-ishikawa-hakusan-shirayamahime-hatsumode-tatsunokuchi-onsen-kanougani-stay"
       }
     ]
   };
@@ -691,7 +691,7 @@ export default function IshikawaHakusanWinterPage() {
 
       {/* Footer */}
       <footer className="bg-slate-900 text-slate-400 py-10 px-4 text-center text-xs border-t border-slate-800 mt-16">
-        <p>© 2026 旅宿クラウド (croud-travel.com). All rights reserved.</p>
+        <p>© 2026 旅宿クラウド (croud-travel.pages.dev). All rights reserved.</p>
         <p className="mt-2 text-slate-500">掲載の宿泊料金や施設情報は楽天トラベルAPIより取得した参考データです。最新のプラン内容は各宿泊施設ページをご確認ください。</p>
       </footer>
     </article>

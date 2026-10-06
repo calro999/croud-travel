@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月秋田】横手＆湯沢・小安峡！約450年の伝統「横手のかまくら」雪まつり＆小安峡大噴湯の巨大氷柱「しがっこ」・本場稲庭うどん＆雪見露天名宿5選",
     description: "みちのくの豪雪地帯・秋田県県南の横手市と湯沢市。11〜1月は450年の伝統を誇る小正月行事「横手のかまくら」の白銀情景が広がり、湯沢・小安峡では岩肌から噴出する熱湯蒸気と巨大つらら「しがっこ」が大自然の氷結アートを描き出します。日本三大うどん「本場稲庭うどん」や希少な幻のブランド和牛「皆瀬牛」、秋田杉香る名湯・小安峡温泉や秋の宮温泉郷の雪見露天風呂を満喫できる厳選名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-akita-yokote-kamakura-oyasukyo-shigakko-inaniwa-stay',
+    url: 'https://croud-travel.pages.dev/winter-akita-yokote-kamakura-oyasukyo-shigakko-inaniwa-stay',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',
     type: 'article',
@@ -166,10 +166,10 @@ export default function AkitaYokoteOyasukyoWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-akita-yokote-kamakura-oyasukyo-shigakko-inaniwa-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-akita-yokote-kamakura-oyasukyo-shigakko-inaniwa-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-akita-yokote-kamakura-oyasukyo-shigakko-inaniwa-stay"
+          "@id": "https://croud-travel.pages.dev/winter-akita-yokote-kamakura-oyasukyo-shigakko-inaniwa-stay"
         },
         "headline": "【11・12・1月秋田】横手＆湯沢・小安峡！約450年の伝統「横手のかまくら」雪まつり＆小安峡大噴湯の巨大氷柱「しがっこ」・本場稲庭うどん＆雪見露天名宿5選",
         "description": "みちのくの豪雪地帯・秋田県県南の横手市と湯沢市。11〜1月は450年の伝統を誇る小正月行事「横手のかまくら」の白銀情景が広がり、湯沢・小安峡では岩肌から噴出する熱湯蒸気と巨大つらら「しがっこ」が大自然の氷結アートを描き出します。日本三大うどん「本場稲庭うどん」や希少な幻のブランド和牛「皆瀬牛」、秋田杉香る名湯・小安峡温泉や秋の宮温泉郷の雪見露天風呂を満喫できる厳選名宿5選を徹底解説します。",
@@ -179,7 +179,7 @@ export default function AkitaYokoteOyasukyoWinterPage() {
         "publisher": {
           "@type": "Organization",
           "name": "地域の宿探訪",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         }
       },
       {
@@ -189,19 +189,19 @@ export default function AkitaYokoteOyasukyoWinterPage() {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com"
+            "item": "https://croud-travel.pages.dev"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "横手＆小安峡温泉冬特集",
-            "item": "https://croud-travel.com/winter-akita-yokote-kamakura-oyasukyo-shigakko-inaniwa-stay"
+            "item": "https://croud-travel.pages.dev/winter-akita-yokote-kamakura-oyasukyo-shigakko-inaniwa-stay"
           }
         ]
       },

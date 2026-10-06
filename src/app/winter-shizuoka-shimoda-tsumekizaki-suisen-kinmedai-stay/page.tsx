@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【12・1月静岡】300万本が咲き誇る爪木崎水仙まつりと富士山絶景・下田港直送極上「一本釣り地金目鯛」を堪能する下田・南伊豆の名宿5選",
     description: "12月中旬から1月下旬、静岡県伊豆半島の南端・下田の須崎半島「爪木崎」では、海を見下ろす岬一面に約300万本もの野水仙が咲き乱れる「爪木崎水仙まつり」が開催されます。甘い水仙の香りと真っ赤なアロエの花、コバルトブルーの太平洋が織りなす冬のコントラストは圧巻。さらに冬は下田港水揚げの一本釣り「地金目鯛（じきんめ）」に最も上質な脂が乗る美食の最高潮。温暖な南伊豆の気候と美肌の名湯に癒やされる厳選名宿5選とモデルコースをお届けします。",
-    url: 'https://croud-travel.com/winter-shizuoka-shimoda-tsumekizaki-suisen-kinmedai-stay',
+    url: 'https://croud-travel.pages.dev/winter-shizuoka-shimoda-tsumekizaki-suisen-kinmedai-stay',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -50,19 +50,19 @@ export default function ShizuokaShimodaTsumekizakiWinterPage() {
     author: {
       '@type': 'Organization',
       name: 'クラドトラベル編集部',
-      url: 'https://croud-travel.com'
+      url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
       name: 'クラドトラベル',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://croud-travel.com/logo.png'
+        url: 'https://croud-travel.pages.dev/logo.png'
       }
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.com/winter-shizuoka-shimoda-tsumekizaki-suisen-kinmedai-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-shizuoka-shimoda-tsumekizaki-suisen-kinmedai-stay'
     }
   };
 
@@ -74,19 +74,19 @@ export default function ShizuokaShimodaTsumekizakiWinterPage() {
         '@type': 'ListItem',
         position: 1,
         name: 'ホーム',
-        item: 'https://croud-travel.com'
+        item: 'https://croud-travel.pages.dev'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.com/features'
+        item: 'https://croud-travel.pages.dev/features'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '下田爪木崎水仙＆地金目鯛特集',
-        item: 'https://croud-travel.com/winter-shizuoka-shimoda-tsumekizaki-suisen-kinmedai-stay'
+        item: 'https://croud-travel.pages.dev/winter-shizuoka-shimoda-tsumekizaki-suisen-kinmedai-stay'
       }
     ]
   };

@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月岩手】三陸鉄道こたつ列車の冬絶景と浄土ヶ浜雪景色・名物瓶ドン＆極上三陸あわび・毛ガニを味わう海沿いの名宿5選",
     description: "11月から1月、岩手県三陸沿岸（宮古・釜石・大船渡・田野畑）は、太平洋の紺碧と雪化粧した白亜の奇岩が織りなす息を呑む絶景の季節を迎えます。12月から運行を開始する三陸鉄道の冬の風物詩「こたつ列車」では、車内にぬくぬくのこたつが設えられ、車窓を流れるリアス海岸の雪景色と名物駅弁を堪能。名勝・浄土ヶ浜では、純白の雪と松の緑、澄み切った海のコントラストがまるで一幅の日本画のような幽玄美を放ちます。冬の三陸グルメは全国屈指の贅沢さを誇り、宮古名物「瓶ドン」をはじめ、旨味の詰まった肉厚な「三陸あわび」、身がぎっしり詰まった冬の「三陸毛ガニ」、濃厚なタラの白子や寒鱈汁、そして岩手が誇る最高級前沢牛がテーブルを彩ります。冬ならではの澄み渡る潮風と絶景温泉に癒やされる厳選5宿を詳しく紹介します。",
-    url: 'https://croud-travel.com/winter-iwate-sanriku-kotatsu-train-kaisen-stay',
+    url: 'https://croud-travel.pages.dev/winter-iwate-sanriku-kotatsu-train-kaisen-stay',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -44,12 +44,12 @@ export default function IwateSanrikuKotatsuTrainPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-iwate-sanriku-kotatsu-train-kaisen-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-iwate-sanriku-kotatsu-train-kaisen-stay#article",
         "isPartOf": {
           "@type": "WebSite",
-          "@id": "https://croud-travel.com/#website",
+          "@id": "https://croud-travel.pages.dev/#website",
           "name": "クラドトラベル",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "headline": "【11・12・1月岩手】三陸鉄道こたつ列車の冬絶景と浄土ヶ浜雪景色・名物瓶ドン＆極上三陸あわび・毛ガニを味わう海沿いの名宿5選",
         "description": "11月から1月、岩手県三陸沿岸（宮古・釜石・大船渡・田野畑）は、太平洋の紺碧と雪化粧した白亜の奇岩が織りなす息を呑む絶景の季節を迎えます。12月から運行を開始する三陸鉄道の冬の風物詩「こたつ列車」では、車内にぬくぬくのこたつが設えられ、車窓を流れるリアス海岸の雪景色と名物駅弁を堪能。名勝・浄土ヶ浜では、純白の雪と松の緑、澄み切った海のコントラストがまるで一幅の日本画のような幽玄美を放ちます。冬の三陸グルメは全国屈指の贅沢さを誇り、宮古名物「瓶ドン」をはじめ、旨味の詰まった肉厚な「三陸あわび」、身がぎっしり詰まった冬の「三陸毛ガニ」、濃厚なタラの白子や寒鱈汁、そして岩手が誇る最高級前沢牛がテーブルを彩ります。冬ならではの澄み渡る潮風と絶景温泉に癒やされる厳選5宿を詳しく紹介します。",
@@ -63,41 +63,41 @@ export default function IwateSanrikuKotatsuTrainPage() {
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル",
-          "url": "https://croud-travel.com",
+          "url": "https://croud-travel.pages.dev",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
-        "mainEntityOfPage": "https://croud-travel.com/winter-iwate-sanriku-kotatsu-train-kaisen-stay"
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-iwate-sanriku-kotatsu-train-kaisen-stay"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://croud-travel.com/winter-iwate-sanriku-kotatsu-train-kaisen-stay#breadcrumb",
+        "@id": "https://croud-travel.pages.dev/winter-iwate-sanriku-kotatsu-train-kaisen-stay#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com"
+            "item": "https://croud-travel.pages.dev"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "岩手三陸のこたつ列車と冬海鮮特集",
-            "item": "https://croud-travel.com/winter-iwate-sanriku-kotatsu-train-kaisen-stay"
+            "item": "https://croud-travel.pages.dev/winter-iwate-sanriku-kotatsu-train-kaisen-stay"
           }
         ]
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-iwate-sanriku-kotatsu-train-kaisen-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-iwate-sanriku-kotatsu-train-kaisen-stay#faq",
         "mainEntity": [{"@type":"Question","name":"三陸鉄道の「こたつ列車」はいつ運行されますか？予約方法や運行区間は？","acceptedAnswer":{"@type":"Answer","text":"三陸鉄道の冬の看板列車「こたつ列車」は、例年12月中旬から翌年3月下旬の土日祝日を中心に運行されます（年末年始は毎日運行される期間あり）。宮古〜久慈間を走る「和風こたつ列車」と、盛〜釜石間などを走る「洋風こたつ列車」があります。車内には掘りごたつが並び、靴を脱いで暖まりながら車窓の絶景を楽しめます。途中のトンネルでは「なまはげ」に似た三陸の伝統妖怪「なもみ」が登場する車内イベントも大人気。乗車券のほかに座席指定券（300円〜）が必要で、1ヶ月前の同日午前9時から三陸鉄道の予約サイトまたは電話で予約可能です。名物のアワビ弁当やウニ弁当の事前予約もおすすめです。"}},{"@type":"Question","name":"冬（11月〜1月）の三陸沿岸の積雪状況や気温、服装はどうですか？車で行けますか？","acceptedAnswer":{"@type":"Answer","text":"岩手県の三陸沿岸地域（宮古・釜石・大船渡）は、内陸部の盛岡や花巻と比べて海洋性気候のため降雪量は大幅に少なく、真冬でも平野部や海岸沿いに大雪が積もり続ける日は多くありません。ただし、12月〜1月の朝晩は氷点下に冷え込み、路面凍結（ブラックアイスバーン）が発生しやすいため、車で訪れる場合は必ずスタッドレスタイヤを装着してください。三陸沿岸道路（三陸道）は無料区間が多く整備状況も良好ですが、トンネル出入り口や橋梁部の凍結には十分な注意が必要です。服装は風を通さない防風ダウンジャケット、手袋、マフラー、滑りにくいソールの防寒靴が必須です。"}},{"@type":"Question","name":"宮古の名物グルメ「瓶ドン」とはどのような料理ですか？どこで食べられますか？","acceptedAnswer":{"@type":"Answer","text":"「瓶ドン」は、牛乳瓶に三陸宮古の新鮮な海の幸（イクラ、ウニ、めかぶ、サーモン、イカ、タコなど）を層状にぎっしり詰め込んだ宮古発祥の体験型ご当地グルメです。元々、岩手沿岸部では採れたての生ウニを滅菌海水とともに牛乳瓶に詰めて保存・出荷する独特の文化があり、そこから着想を得て誕生しました。食べる直前にほかほかの白ご飯の上に自分で瓶を傾けて豪快にかけることで、見た目も美しく鮮度抜群の海鮮丼が完成します。宮古市内の主要ホテル（浄土ヶ浜パークホテルや休暇村など）の夕食・朝食や、魚菜市場内の飲食店で年中楽しめます。"}},{"@type":"Question","name":"冬の「浄土ヶ浜」の見どころや散策時のポイントを教えてください。","acceptedAnswer":{"@type":"Answer","text":"名勝「浄土ヶ浜」は、鋭くとがった白い流紋岩と緑の松、透明度の高い瑠璃色の海が織りなす極上の景勝地です。冬は観光客が落ち着き、静寂に包まれた厳かな雰囲気が漂います。特に初雪が降った後の白銀をまとった奇岩群と紺碧の海の対比は、まさに「さながら極楽浄土のごとし」と称された絶景そのもの。冬の朝は水平線から昇る朝日が奇岩を黄金色に照らし出し、写真愛好家にも絶大な人気を誇ります。遊歩道は整備されていますが、冬は海風が強く冷え込むため、万全の防寒対策をして散策してください。"}},{"@type":"Question","name":"11月〜1月に三陸で旬を迎えるおすすめの海産物は何ですか？","acceptedAnswer":{"@type":"Answer","text":"三陸の冬は海の幸が最も旨味を蓄えるゴールデンシーズンです。11月から解禁される「三陸あわび」は、肉厚で噛むほどに芳醇な磯の香りが広がります。また、12月〜1月に旬を迎える「三陸毛ガニ」は身の詰まりが良く、濃厚でクリーミーなカニ味噌が絶品。さらに「寒鱈（マダラ）」は脂が乗り、白子（タツ）や肝を入れた温かい「たら汁（どんこ汁）」は冬の三陸のソウルフードです。そのほか、寒ヒラメ、ヤリイカ、ホタテ、牡蠣など、冬ならではの極上海鮮を各宿の会席料理で存分に楽しめます。"}}]
       }
     ]

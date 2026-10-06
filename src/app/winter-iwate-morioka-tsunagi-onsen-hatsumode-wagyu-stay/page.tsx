@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月盛岡】冬の盛岡八幡宮新春開運初詣＆岩手山白銀パノラマ！繋温泉の美肌いで湯と盛岡三大麺・雫石牛に寛ぐ名宿5選",
     description: "冬の盛岡は、冠雪した霊峰・岩手山（南部片富士）が澄み渡る青空に凛とそびえ立ち、白鳥が飛来する中津川や風情あるレトロな赤レンガ建築が雪景色に包まれる特別な季節。11月下旬の初雪から1月の盛岡八幡宮新春初詣や伝統の裸参りまで、冬の静寂と歴史の温もりが満ちています。湯量豊富な繋温泉（つなぎ温泉）の源泉掛け流し美肌湯に浸かり、名物の盛岡三大麺（熱々じゃじゃ麺・わんこそば・盛岡冷麺）や極上の雫石牛・前沢牛のすき焼き鍋を堪能する冬の温泉旅。楽天APIから最新取得した信頼の名宿5選を徹底特集します。",
-    url: 'https://croud-travel.com/winter-iwate-morioka-tsunagi-onsen-hatsumode-wagyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-iwate-morioka-tsunagi-onsen-hatsumode-wagyu-stay',
     type: 'article',
     images: [{ url: 'https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&q=80' }]
   }
@@ -151,11 +151,11 @@ export default function IwateMoriokaPage() {
         "@type": "Article",
         "headline": "【11・12・1月盛岡】冬の盛岡八幡宮新春開運初詣＆岩手山白銀パノラマ！繋温泉の美肌いで湯と盛岡三大麺・雫石牛に寛ぐ名宿5選",
         "description": "冬の盛岡は、冠雪した霊峰・岩手山（南部片富士）が澄み渡る青空に凛とそびえ立ち、白鳥が飛来する中津川や風情あるレトロな赤レンガ建築が雪景色に包まれる特別な季節。11月下旬の初雪から1月の盛岡八幡宮新春初詣や伝統の裸参りまで、冬の静寂と歴史の温もりが満ちています。湯量豊富な繋温泉（つなぎ温泉）の源泉掛け流し美肌湯に浸かり、名物の盛岡三大麺（熱々じゃじゃ麺・わんこそば・盛岡冷麺）や極上の雫石牛・前沢牛のすき焼き鍋を堪能する冬の温泉旅。楽天APIから最新取得した信頼の名宿5選を徹底特集します。",
-        "url": 'https://croud-travel.com/winter-iwate-morioka-tsunagi-onsen-hatsumode-wagyu-stay',
+        "url": 'https://croud-travel.pages.dev/winter-iwate-morioka-tsunagi-onsen-hatsumode-wagyu-stay',
         "publisher": {
           "@type": "Organization",
           "name": "週末ごほうび旅・厳選の宿ガイド",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         }
       },
       {
@@ -165,19 +165,19 @@ export default function IwateMoriokaPage() {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com"
+            "item": "https://croud-travel.pages.dev"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "冬の特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "冬の盛岡・盛岡八幡宮初詣＆繋温泉特集",
-            "item": 'https://croud-travel.com/winter-iwate-morioka-tsunagi-onsen-hatsumode-wagyu-stay'
+            "item": 'https://croud-travel.pages.dev/winter-iwate-morioka-tsunagi-onsen-hatsumode-wagyu-stay'
           }
         ]
       },

@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月山形・白布温泉＆新高湯温泉】西吾妻山の豪雪秘湯と開湯700年の名物湯滝・最高峰A5米沢牛すき焼きを堪能する名宿5選",
     description: "11月中旬から深い雪に包まれる山形県米沢市の秘境・西吾妻山山麓に位置する白布温泉（しらぶおんせん）と新高湯温泉。標高900〜1126mの高地に湧く名湯は、白馬の傷を癒やした伝説に由来し、開湯700年の歴史を誇る米沢八湯屈指の古湯です。頭上から豪快に滝のように注がれる名物「湯滝（打たせ湯）」や、茅葺き屋根の重厚な湯宿、大樽川渓谷を見下ろす雪見露天風呂など、東北の厳しい冬ならではの情趣に満ちています。夕食には、日本三大和牛の頂点に君臨する「米沢牛」のA5ランク特選すき焼きや陶板ステーキ、山形名物の温かい芋煮汁、伝統野菜や地酒「東光」など、寒風で冷えた身体を芯から解きほぐす至極の郷土美食が並びます。初冬の白銀の山峡で本物の秘湯と美食に浸る厳選名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-yamagata-shirabu-onsen-snow-yonezawa-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-yamagata-shirabu-onsen-snow-yonezawa-beef-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -45,23 +45,23 @@ export default function YamagataShirabuYonezawaPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-yamagata-shirabu-onsen-snow-yonezawa-beef-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-yamagata-shirabu-onsen-snow-yonezawa-beef-stay#article",
         "isPartOf": {
           "@type": "WebSite",
-          "@id": "https://croud-travel.com/#website",
+          "@id": "https://croud-travel.pages.dev/#website",
           "name": "クラドトラベル",
-          "url": "https://croud-travel.com/"
+          "url": "https://croud-travel.pages.dev/"
         },
         "headline": "【11・12月山形・白布温泉＆新高湯温泉】西吾妻山の豪雪秘湯と開湯700年の名物湯滝・最高峰A5米沢牛すき焼きを堪能する名宿5選",
         "description": "11月中旬から深い雪に包まれる山形県米沢市の秘境・西吾妻山山麓に位置する白布温泉（しらぶおんせん）と新高湯温泉。標高900〜1126mの高地に湧く名湯は、白馬の傷を癒やした伝説に由来し、開湯700年の歴史を誇る米沢八湯屈指の古湯です。頭上から豪快に滝のように注がれる名物「湯滝（打たせ湯）」や、茅葺き屋根の重厚な湯宿、大樽川渓谷を見下ろす雪見露天風呂など、東北の厳しい冬ならではの情趣に満ちています。夕食には、日本三大和牛の頂点に君臨する「米沢牛」のA5ランク特選すき焼きや陶板ステーキ、山形名物の温かい芋煮汁、伝統野菜や地酒「東光」など、寒風で冷えた身体を芯から解きほぐす至極の郷土美食が並びます。初冬の白銀の山峡で本物の秘湯と美食に浸る厳選名宿5選を徹底解説します。",
         "datePublished": "2026-09-29T18:00:00+09:00",
         "dateModified": "2026-09-29T18:00:00+09:00",
         "inLanguage": "ja",
-        "mainEntityOfPage": "https://croud-travel.com/winter-yamagata-shirabu-onsen-snow-yonezawa-beef-stay",
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-yamagata-shirabu-onsen-snow-yonezawa-beef-stay",
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル編集部",
-          "url": "https://croud-travel.com/"
+          "url": "https://croud-travel.pages.dev/"
         }
       },
       {

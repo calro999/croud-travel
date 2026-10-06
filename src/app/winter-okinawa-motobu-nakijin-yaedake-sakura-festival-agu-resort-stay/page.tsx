@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【1月沖縄】本部＆今帰仁・名護！日本一早い春を告げる八重岳桜まつり＆今帰仁城跡ライトアップと美ら海リゾート・島豚アグー・本部牛を味わう名宿5選",
     description: "本州が真冬の寒波に包まれる1月中旬、沖縄・やんばるの森から日本一早い春が始まります。標高453mの八重岳を濃いピンク色に染め上げる約7,000本の寒緋桜（琉球彼岸桜）を愛でる「もとぶ八重岳桜まつり」、世界遺産・今帰仁城跡の城壁に映える幻想的な夜桜ライトアップ「今帰仁グスク桜まつり」。冬期ならではの圧倒的な透明度を誇るエメラルドグリーンの東シナ海、混雑の落ち着いた沖縄美ら海水族館、極上のやんばる島豚アグーしゃぶしゃぶと黒毛和牛本部牛。南国の桜と海に癒やされる冬の本部・今帰仁の名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-okinawa-motobu-nakijin-yaedake-sakura-festival-agu-resort-stay',
+    url: 'https://croud-travel.pages.dev/winter-okinawa-motobu-nakijin-yaedake-sakura-festival-agu-resort-stay',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',
     type: 'article',
@@ -162,10 +162,10 @@ export default function OkinawaMotobuWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-okinawa-motobu-nakijin-yaedake-sakura-festival-agu-resort-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-okinawa-motobu-nakijin-yaedake-sakura-festival-agu-resort-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-okinawa-motobu-nakijin-yaedake-sakura-festival-agu-resort-stay"
+          "@id": "https://croud-travel.pages.dev/winter-okinawa-motobu-nakijin-yaedake-sakura-festival-agu-resort-stay"
         },
         "headline": "【1月沖縄】本部＆今帰仁・名護！日本一早い春を告げる八重岳桜まつり＆今帰仁城跡ライトアップと美ら海リゾート・島豚アグー・本部牛を味わう名宿5選",
         "description": "本州が真冬の寒波に包まれる1月中旬、沖縄・やんばるの森から日本一早い春が始まります。標高453mの八重岳を濃いピンク色に染め上げる約7,000本の寒緋桜（琉球彼岸桜）を愛でる「もとぶ八重岳桜まつり」、世界遺産・今帰仁城跡の城壁に映える幻想的な夜桜ライトアップ「今帰仁グスク桜まつり」。冬期ならではの圧倒的な透明度を誇るエメラルドグリーンの東シナ海、混雑の落ち着いた沖縄美ら海水族館、極上のやんばる島豚アグーしゃぶしゃぶと黒毛和牛本部牛。南国の桜と海に癒やされる冬の本部・今帰仁の名宿5選を徹底解説します。",
@@ -175,7 +175,7 @@ export default function OkinawaMotobuWinterPage() {
         "publisher": {
           "@type": "Organization",
           "name": "地域の宿探訪",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         }
       },
       {
@@ -185,19 +185,19 @@ export default function OkinawaMotobuWinterPage() {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com"
+            "item": "https://croud-travel.pages.dev"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "本部＆今帰仁・八重岳桜特集",
-            "item": "https://croud-travel.com/winter-okinawa-motobu-nakijin-yaedake-sakura-festival-agu-resort-stay"
+            "item": "https://croud-travel.pages.dev/winter-okinawa-motobu-nakijin-yaedake-sakura-festival-agu-resort-stay"
           }
         ]
       },

@@ -666,30 +666,7 @@ export default function KyotoHubPage() {
       )}
 
       {/* 7. よくある質問（FAQ） */}
-      <section className="bg-white border border-rose-950/10 rounded-3xl p-6 md:p-10 shadow-sm space-y-6">
-        <div className="space-y-2 border-b border-rose-950/10 pb-4">
-          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-stone-900 flex items-center gap-2">
-            <span>❓</span> <span>京都旅行のプロが回答！よくある質問（FAQ）</span>
-          </h2>
-          <p className="text-xs text-stone-600 leading-relaxed font-medium">
-            京都観光のモデルコース、車なし移動、カップル・子連れ、雨の日、京都駅ホテルや朝食付き宿の選び方についてお答えします。
-          </p>
-        </div>
-
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-          {faqList.map((faq, idx) => (
-            <div key={idx} className="p-4 rounded-xl bg-rose-50/30 border border-rose-950/10 space-y-2">
-              <h3 className="text-sm font-bold text-rose-950 flex items-start gap-2">
-                <span className="text-rose-700 font-extrabold">Q.</span>
-                <span>{faq.q}</span>
-              </h3>
-              <p className="text-xs text-stone-700 leading-relaxed pl-6">
-                {faq.a}
-              </p>
-            </div>
-          ))}
-        </div>
-      </section>
+      
 
       {/* 回遊・関連リンクフッター */}
       <section className="p-8 rounded-3xl bg-rose-50/50 border border-rose-900/10 text-center space-y-4">

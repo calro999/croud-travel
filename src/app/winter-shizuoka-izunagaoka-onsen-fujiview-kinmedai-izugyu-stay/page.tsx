@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月伊豆長岡温泉】富士山眺望と温暖避寒の古奈名湯・駿河湾朝獲れ地魚舟盛り＆伊豆牛ステーキ・金目鯛姿煮を味わう名宿5選",
     description: "11月中旬から12月の初冬を迎えた中伊豆・伊豆の国市「伊豆長岡温泉」は、駿河湾からの温かな黒潮の風に守られた温暖な気候のもと、澄み渡る青空にくっきりと浮かび上がる純白の冠雪富士を望む最高の季節を迎えます。平安時代末期に開湯した歴史ある「古奈温泉」と明治期に開かれた「長岡温泉」からなるこの名湯は、肌あたりが柔らかく刺激の少ない無色透明のアルカリ性単純温泉。冷え込む初冬の体を芯から優しく温め、湯上がりは肌がなめらかに潤う美肌の湯として古くから文人や旅人に愛されてきました。食卓を彩るのは、近隣の沼津港や内浦港から直送される駿河湾の初冬の海の幸。脂が乗り切った高級魚「金目鯛」のこってり甘辛い姿煮やしゃぶしゃぶ、朝獲れ地魚の豪快な舟盛り、そして年間出荷数が極めて少なく幻のブランド黒毛和牛と称される「伊豆牛」のフィレステーキ。さらに伊豆パノラマパーク「碧テラス」からの絶景富士ビューや修善寺紅葉の名残まで、初冬の伊豆路を優雅に楽しむ厳選名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-shizuoka-izunagaoka-onsen-fujiview-kinmedai-izugyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-shizuoka-izunagaoka-onsen-fujiview-kinmedai-izugyu-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -45,23 +45,23 @@ export default function ShizuokaIzunagaokaWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-shizuoka-izunagaoka-onsen-fujiview-kinmedai-izugyu-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-shizuoka-izunagaoka-onsen-fujiview-kinmedai-izugyu-stay#article",
         "isPartOf": {
           "@type": "WebSite",
-          "@id": "https://croud-travel.com/#website",
+          "@id": "https://croud-travel.pages.dev/#website",
           "name": "クラドトラベル",
-          "url": "https://croud-travel.com/"
+          "url": "https://croud-travel.pages.dev/"
         },
         "headline": "【11・12月伊豆長岡温泉】富士山眺望と温暖避寒の古奈名湯・駿河湾朝獲れ地魚舟盛り＆伊豆牛ステーキ・金目鯛姿煮を味わう名宿5選",
         "description": "11月中旬から12月の初冬を迎えた中伊豆・伊豆の国市「伊豆長岡温泉」は、駿河湾からの温かな黒潮の風に守られた温暖な気候のもと、澄み渡る青空にくっきりと浮かび上がる純白の冠雪富士を望む最高の季節を迎えます。平安時代末期に開湯した歴史ある「古奈温泉」と明治期に開かれた「長岡温泉」からなるこの名湯は、肌あたりが柔らかく刺激の少ない無色透明のアルカリ性単純温泉。冷え込む初冬の体を芯から優しく温め、湯上がりは肌がなめらかに潤う美肌の湯として古くから文人や旅人に愛されてきました。食卓を彩るのは、近隣の沼津港や内浦港から直送される駿河湾の初冬の海の幸。脂が乗り切った高級魚「金目鯛」のこってり甘辛い姿煮やしゃぶしゃぶ、朝獲れ地魚の豪快な舟盛り、そして年間出荷数が極めて少なく幻のブランド黒毛和牛と称される「伊豆牛」のフィレステーキ。さらに伊豆パノラマパーク「碧テラス」からの絶景富士ビューや修善寺紅葉の名残まで、初冬の伊豆路を優雅に楽しむ厳選名宿5選を徹底解説します。",
         "datePublished": "2026-09-30T00:00:00+09:00",
         "dateModified": "2026-09-30T00:00:00+09:00",
         "inLanguage": "ja",
-        "mainEntityOfPage": "https://croud-travel.com/winter-shizuoka-izunagaoka-onsen-fujiview-kinmedai-izugyu-stay",
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-shizuoka-izunagaoka-onsen-fujiview-kinmedai-izugyu-stay",
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル編集部",
-          "url": "https://croud-travel.com/"
+          "url": "https://croud-travel.pages.dev/"
         }
       },
       {

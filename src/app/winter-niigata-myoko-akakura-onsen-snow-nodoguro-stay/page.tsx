@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月新潟・妙高赤倉温泉の初雪妙高山と開湯200年名湯】硫酸塩・炭酸水素塩のダブル美肌露天・冬のどぐろ塩焼き＆新潟和牛会席の宿5選",
     description: "11月から12月にかけて新潟県・妙高山麓は、標高2,454mの日本百名山・妙高山が初雪の白銀に輝き、豪雪地帯ならではの純白の冬景色が広がります。文化13年（1816年）開湯、妙高山北地獄谷から湧き出る源泉は、「肌を滑らかにする炭酸水素塩泉」と「肌を保湿しコーティングする硫酸塩泉」を併せ持つ日本有数のダブル美肌温泉。創業1937年のクラシックリゾートからの雪海パノラマ、日本海・直江津港や能生漁港から直送される高級魚「冬のどぐろ」の塩焼きや刺身、とろける霜降りの「にいがた和牛」、妙高・魚沼産コシヒカリの新米と地酒を味わう至高の妙高名宿5選を徹底解説。",
-    url: 'https://croud-travel.com/winter-niigata-myoko-akakura-onsen-snow-nodoguro-stay',
+    url: 'https://croud-travel.pages.dev/winter-niigata-myoko-akakura-onsen-snow-nodoguro-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -62,10 +62,10 @@ export default function AkakuraOnsenWinterFeature() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-niigata-myoko-akakura-onsen-snow-nodoguro-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-niigata-myoko-akakura-onsen-snow-nodoguro-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-niigata-myoko-akakura-onsen-snow-nodoguro-stay"
+          "@id": "https://croud-travel.pages.dev/winter-niigata-myoko-akakura-onsen-snow-nodoguro-stay"
         },
         "headline": "【11・12月新潟・妙高赤倉温泉の初雪妙高山と開湯200年名湯】硫酸塩・炭酸水素塩のダブル美肌露天・冬のどぐろ塩焼き＆新潟和牛会席の宿5選",
         "description": "11月から12月にかけて新潟県・妙高山麓は、標高2,454mの日本百名山・妙高山が初雪の白銀に輝き、豪雪地帯ならではの純白の冬景色が広がります。文化13年（1816年）開湯、妙高山北地獄谷から湧き出る源泉は、「肌を滑らかにする炭酸水素塩泉」と「肌を保湿しコーティングする硫酸塩泉」を併せ持つ日本有数のダブル美肌温泉。創業1937年のクラシックリゾートからの雪海パノラマ、日本海・直江津港や能生漁港から直送される高級魚「冬のどぐろ」の塩焼きや刺身、とろける霜降りの「にいがた和牛」、妙高・魚沼産コシヒカリの新米と地酒を味わう至高の妙高名宿5選を徹底解説。",
@@ -77,7 +77,7 @@ export default function AkakuraOnsenWinterFeature() {
           "name": "Croud Travel",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "author": {
@@ -88,31 +88,31 @@ export default function AkakuraOnsenWinterFeature() {
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://croud-travel.com/winter-niigata-myoko-akakura-onsen-snow-nodoguro-stay#breadcrumb",
+        "@id": "https://croud-travel.pages.dev/winter-niigata-myoko-akakura-onsen-snow-nodoguro-stay#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com/"
+            "item": "https://croud-travel.pages.dev/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "新潟・妙高赤倉温泉 初雪妙高山とダブル美肌湯の宿",
-            "item": "https://croud-travel.com/winter-niigata-myoko-akakura-onsen-snow-nodoguro-stay"
+            "item": "https://croud-travel.pages.dev/winter-niigata-myoko-akakura-onsen-snow-nodoguro-stay"
           }
         ]
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-niigata-myoko-akakura-onsen-snow-nodoguro-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-niigata-myoko-akakura-onsen-snow-nodoguro-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",

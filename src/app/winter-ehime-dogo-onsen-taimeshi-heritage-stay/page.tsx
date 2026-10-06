@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月道後温泉の冬情緒と瀬戸内美味】日本最古の名湯と極上真鯛鯛めし・伊予牛会席の名宿5選",
     description: "保存修理工事を終えて完全復活した日本最古の名湯・道後温泉本館。11月・12月の澄み切った瀬戸内の風を感じる湯めぐりと、冬に最も脂が乗る瀬戸内真鯛の「極上鯛めし」、とろける伊予牛会席を堪能する大人の贅沢冬旅ガイド。",
-    url: 'https://croud-travel.com/winter-ehime-dogo-onsen-taimeshi-heritage-stay',
+    url: 'https://croud-travel.pages.dev/winter-ehime-dogo-onsen-taimeshi-heritage-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -44,7 +44,7 @@ export default function DogoWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-ehime-dogo-onsen-taimeshi-heritage-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-ehime-dogo-onsen-taimeshi-heritage-stay#article",
         "headline": "【11・12月道後温泉の冬情緒と瀬戸内美味】日本最古の名湯と極上真鯛鯛めし・伊予牛会席の名宿5選",
         "description": "保存修理工事を終えて完全復活した日本最古の名湯・道後温泉本館。11月・12月の澄み切った瀬戸内の風を感じる湯めぐりと、冬に最も脂が乗る瀬戸内真鯛の「極上鯛めし」、とろける伊予牛会席を堪能する大人の贅沢冬旅ガイド。",
         "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
@@ -53,24 +53,24 @@ export default function DogoWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-ehime-dogo-onsen-taimeshi-heritage-stay"
+          "@id": "https://croud-travel.pages.dev/winter-ehime-dogo-onsen-taimeshi-heritage-stay"
         }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-ehime-dogo-onsen-taimeshi-heritage-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-ehime-dogo-onsen-taimeshi-heritage-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -108,7 +108,7 @@ export default function DogoWinterPage() {
       },
       {
         "@type": "ItemList",
-        "@id": "https://croud-travel.com/winter-ehime-dogo-onsen-taimeshi-heritage-stay#hotels",
+        "@id": "https://croud-travel.pages.dev/winter-ehime-dogo-onsen-taimeshi-heritage-stay#hotels",
         "itemListElement": [
           {
             "@type": "ListItem",

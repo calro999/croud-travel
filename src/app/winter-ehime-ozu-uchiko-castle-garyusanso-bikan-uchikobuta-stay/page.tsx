@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月愛媛】大洲城の冬霧とミシュラン名園「臥龍山荘」！白壁の内子町並み散策＆名物いもたき・内子豚名宿5選",
     description: "肱川の清流と歴史情緒が息づく伊予の小京都、愛媛・大洲＆内子の11〜1月冬旅特集。江戸の古図面をもとに完全木造復元された名城「大洲城」と肱川あらしの冬絶景、崖上に建つ数寄屋建築の至宝「臥龍山荘」、木蝋と白壁の町並みが美しい国の重伝建地区「内子八日市・護国」、愛媛の冬を代表する郷土鍋「大洲のいもたき」、柔らかく甘み豊かな「内子豚」。大洲・内子の歴史滞在に最適な厳選ホテル・名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-ehime-ozu-uchiko-castle-garyusanso-bikan-uchikobuta-stay',
+    url: 'https://croud-travel.pages.dev/winter-ehime-ozu-uchiko-castle-garyusanso-bikan-uchikobuta-stay',
     type: 'article',
     images: [
       {
@@ -49,19 +49,19 @@ export default function EhimeOzuUchikoWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "旅クラウド編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "旅クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-ehime-ozu-uchiko-castle-garyusanso-bikan-uchikobuta-stay"
+          "@id": "https://croud-travel.pages.dev/winter-ehime-ozu-uchiko-castle-garyusanso-bikan-uchikobuta-stay"
         }
       },
       {
@@ -71,19 +71,19 @@ export default function EhimeOzuUchikoWinterPage() {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com"
+            "item": "https://croud-travel.pages.dev"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "冬の旅特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "愛媛・大洲＆内子名宿",
-            "item": "https://croud-travel.com/winter-ehime-ozu-uchiko-castle-garyusanso-bikan-uchikobuta-stay"
+            "item": "https://croud-travel.pages.dev/winter-ehime-ozu-uchiko-castle-garyusanso-bikan-uchikobuta-stay"
           }
         ]
       },

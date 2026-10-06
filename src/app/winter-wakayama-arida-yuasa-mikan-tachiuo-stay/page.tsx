@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月和歌山】有田みかん海道と重伝建・湯浅の醤油蔵通り！箕島漁港直送「紀州一本釣り太刀魚・本クエ鍋・熊野牛」と栖原海岸夕景名宿5選",
     description: "山々が黄金色に輝くみかんの郷と醤油発祥の日本遺産を巡る11〜1月の和歌山・有田＆湯浅特集。山一面に果実が実る11〜12月の「有田みかん」や「有田みかん海道」の絶景ドライブ、国の重要伝統的建造物群保存地区に指定された「湯浅の町並み」の冬情趣。全国一の水揚げを誇る箕島漁港の「冬の紀州一本釣り太刀魚」、冬の味覚の王様「天然本クエ鍋」、極上の「熊野牛」。紀伊水道の茜色の夕日を望む温泉名宿5選を完全ガイドします。",
-    url: 'https://croud-travel.com/winter-wakayama-arida-yuasa-mikan-tachiuo-stay',
+    url: 'https://croud-travel.pages.dev/winter-wakayama-arida-yuasa-mikan-tachiuo-stay',
     type: 'article',
     images: [
       {
@@ -49,19 +49,19 @@ export default function WakayamaAridaYuasaWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "旅クラウド編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "旅クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-wakayama-arida-yuasa-mikan-tachiuo-stay"
+          "@id": "https://croud-travel.pages.dev/winter-wakayama-arida-yuasa-mikan-tachiuo-stay"
         }
       },
       {
@@ -71,19 +71,19 @@ export default function WakayamaAridaYuasaWinterPage() {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com"
+            "item": "https://croud-travel.pages.dev"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "冬の旅特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "和歌山・有田みかん＆湯浅醤油蔵通り名宿",
-            "item": "https://croud-travel.com/winter-wakayama-arida-yuasa-mikan-tachiuo-stay"
+            "item": "https://croud-travel.pages.dev/winter-wakayama-arida-yuasa-mikan-tachiuo-stay"
           }
         ]
       },

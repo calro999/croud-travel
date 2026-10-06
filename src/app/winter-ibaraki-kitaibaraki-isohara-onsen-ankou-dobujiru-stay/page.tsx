@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月茨城・北茨城温泉郷の元祖あんこう鍋・濃厚どぶ汁と太平洋絶景】五浦・磯原の温まり美肌塩化物泉＆常陸牛の宿5選",
     description: "11月から12月にかけて、東京から常磐道やJR特急ひたちで約2時間の茨城県最北部「北茨城温泉郷（平潟・磯原・五浦）」は、冬の味覚の王様「あんこう」の本格シーズンを迎えます。北茨城は全国あんこう鍋発祥の地として知られ、水を一切使わずに生あん肝を鍋肌でじっくり乾煎りして溶かし、秘伝味噌とアンコウ自身の水分だけで炊き上げる究極の漁師料理「どぶ汁（どぶじる）」の本場です。太平洋の荒波が削り出した奇岩・六角堂が佇む五浦海岸の絶景、地下深層から湧出する高濃度塩化物泉の「温まり美肌の湯」、そして銘柄牛「常陸牛」の極上会席。水平線から昇る初冬の日の出を露天風呂から望む、北茨城の厳選名旅館・温泉ホテル5選を徹底解説。",
-    url: 'https://croud-travel.com/winter-ibaraki-kitaibaraki-isohara-onsen-ankou-dobujiru-stay',
+    url: 'https://croud-travel.pages.dev/winter-ibaraki-kitaibaraki-isohara-onsen-ankou-dobujiru-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -62,10 +62,10 @@ export default function IbarakiKitaibarakiWinterFeature() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-ibaraki-kitaibaraki-isohara-onsen-ankou-dobujiru-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-ibaraki-kitaibaraki-isohara-onsen-ankou-dobujiru-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-ibaraki-kitaibaraki-isohara-onsen-ankou-dobujiru-stay"
+          "@id": "https://croud-travel.pages.dev/winter-ibaraki-kitaibaraki-isohara-onsen-ankou-dobujiru-stay"
         },
         "headline": "【11・12月茨城・北茨城温泉郷の元祖あんこう鍋・濃厚どぶ汁と太平洋絶景】五浦・磯原の温まり美肌塩化物泉＆常陸牛の宿5選",
         "description": "11月から12月にかけて、東京から常磐道やJR特急ひたちで約2時間の茨城県最北部「北茨城温泉郷（平潟・磯原・五浦）」は、冬の味覚の王様「あんこう」の本格シーズンを迎えます。北茨城は全国あんこう鍋発祥の地として知られ、水を一切使わずに生あん肝を鍋肌でじっくり乾煎りして溶かし、秘伝味噌とアンコウ自身の水分だけで炊き上げる究極の漁師料理「どぶ汁（どぶじる）」の本場です。太平洋の荒波が削り出した奇岩・六角堂が佇む五浦海岸の絶景、地下深層から湧出する高濃度塩化物泉の「温まり美肌の湯」、そして銘柄牛「常陸牛」の極上会席。水平線から昇る初冬の日の出を露天風呂から望む、北茨城の厳選名旅館・温泉ホテル5選を徹底解説。",
@@ -77,7 +77,7 @@ export default function IbarakiKitaibarakiWinterFeature() {
           "name": "Croud Travel",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "author": {
@@ -88,31 +88,31 @@ export default function IbarakiKitaibarakiWinterFeature() {
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://croud-travel.com/winter-ibaraki-kitaibaraki-isohara-onsen-ankou-dobujiru-stay#breadcrumb",
+        "@id": "https://croud-travel.pages.dev/winter-ibaraki-kitaibaraki-isohara-onsen-ankou-dobujiru-stay#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com/"
+            "item": "https://croud-travel.pages.dev/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "茨城・北茨城温泉郷 元祖あんこう鍋濃厚どぶ汁と太平洋絶景の宿",
-            "item": "https://croud-travel.com/winter-ibaraki-kitaibaraki-isohara-onsen-ankou-dobujiru-stay"
+            "item": "https://croud-travel.pages.dev/winter-ibaraki-kitaibaraki-isohara-onsen-ankou-dobujiru-stay"
           }
         ]
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-ibaraki-kitaibaraki-isohara-onsen-ankou-dobujiru-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-ibaraki-kitaibaraki-isohara-onsen-ankou-dobujiru-stay#faq",
         "mainEntity": faqList.map(f => ({
           "@type": "Question",
           "name": f.q,

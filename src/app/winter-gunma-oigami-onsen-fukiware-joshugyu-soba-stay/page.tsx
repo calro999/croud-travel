@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月老神温泉】赤城山北麓・初冬の片品渓谷美と美肌単純硫黄泉・極上上州牛すき焼き＆上州麦豚・手打ち十割蕎麦を味わう名宿5選",
     description: "11月中旬から12月の初冬を迎えた群馬県沼田市の利根町、老神温泉（おいがみおんせん）は、赤城山と日光白根山に挟まれた片品川の深い渓谷に佇み、凛とした澄み渡る冷気の中に情緒ある湯煙が立ちのぼる格別の秘湯シーズンを迎えます。赤城の神（大蛇）と日光男体山の神（大百足）の神話伝説が残る歴史ある名湯は、肌あたりが柔らかくほのかな硫黄の香りが漂う単純硫黄温泉。湯船に身を沈めれば、冷えた体の芯からじんわりと温まり、湯上がりも潤いと保温が持続します。車で約10分の距離には「東洋のナイアガラ」と称される名勝・吹割の滝が静寂に包まれ、初冬の澄んだ水流と奇岩の絶景が広がります。夕食には群馬の大自然が育んだ最高峰ブランド「上州牛」のすき焼き鍋や陶板ステーキ、きめ細やかな肉質の「上州麦豚」、尾瀬山麓の清らかな伏流水で打つ風味豊かな「手打ち十割蕎麦」、大粒の名物「尾瀬花豆」など滋味豊かな上州の恵みが勢揃い。初冬の北関東で心温まる山里リトリートを約束する厳選宿5選をご紹介します。",
-    url: 'https://croud-travel.com/winter-gunma-oigami-onsen-fukiware-joshugyu-soba-stay',
+    url: 'https://croud-travel.pages.dev/winter-gunma-oigami-onsen-fukiware-joshugyu-soba-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -44,23 +44,23 @@ export default function GunmaOigamiWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-gunma-oigami-onsen-fukiware-joshugyu-soba-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-gunma-oigami-onsen-fukiware-joshugyu-soba-stay#article",
         "isPartOf": {
           "@type": "WebSite",
-          "@id": "https://croud-travel.com/#website",
+          "@id": "https://croud-travel.pages.dev/#website",
           "name": "クラドトラベル",
-          "url": "https://croud-travel.com/"
+          "url": "https://croud-travel.pages.dev/"
         },
         "headline": "【11・12月老神温泉】赤城山北麓・初冬の片品渓谷美と美肌単純硫黄泉・極上上州牛すき焼き＆上州麦豚・手打ち十割蕎麦を味わう名宿5選",
         "description": "11月中旬から12月の初冬を迎えた群馬県沼田市の利根町、老神温泉（おいがみおんせん）は、赤城山と日光白根山に挟まれた片品川の深い渓谷に佇み、凛とした澄み渡る冷気の中に情緒ある湯煙が立ちのぼる格別の秘湯シーズンを迎えます。赤城の神（大蛇）と日光男体山の神（大百足）の神話伝説が残る歴史ある名湯は、肌あたりが柔らかくほのかな硫黄の香りが漂う単純硫黄温泉。湯船に身を沈めれば、冷えた体の芯からじんわりと温まり、湯上がりも潤いと保温が持続します。車で約10分の距離には「東洋のナイアガラ」と称される名勝・吹割の滝が静寂に包まれ、初冬の澄んだ水流と奇岩の絶景が広がります。夕食には群馬の大自然が育んだ最高峰ブランド「上州牛」のすき焼き鍋や陶板ステーキ、きめ細やかな肉質の「上州麦豚」、尾瀬山麓の清らかな伏流水で打つ風味豊かな「手打ち十割蕎麦」、大粒の名物「尾瀬花豆」など滋味豊かな上州の恵みが勢揃い。初冬の北関東で心温まる山里リトリートを約束する厳選宿5選をご紹介します。",
         "datePublished": "2026-09-30T00:00:00+09:00",
         "dateModified": "2026-09-30T00:00:00+09:00",
         "inLanguage": "ja",
-        "mainEntityOfPage": "https://croud-travel.com/winter-gunma-oigami-onsen-fukiware-joshugyu-soba-stay",
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-gunma-oigami-onsen-fukiware-joshugyu-soba-stay",
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル編集部",
-          "url": "https://croud-travel.com/"
+          "url": "https://croud-travel.pages.dev/"
         }
       },
       {

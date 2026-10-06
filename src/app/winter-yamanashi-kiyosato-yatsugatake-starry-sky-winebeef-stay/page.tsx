@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月山梨】冬の八ヶ岳ブルーと満天の星空観賞・萌木の村冬景色＆極上「甲州ワインビーフ」・八ヶ岳南麓の高原温泉リゾート宿5選",
     description: "11月から1月、山梨県北杜市の清里高原・八ヶ岳南麓は、晴天率80%超を誇る抜けるような冬晴れ「八ヶ岳ブルー」と、日本屈指の美しさを誇る満天の星空観賞のベストシーズン。薪ストーブの煙漂う北欧風の「萌木の村」、ワインの絞り粕で育つ極上「甲州ワインビーフ」や濃厚チーズフォンデュ。冬の富士山と南アルプスを望む展望露天風呂付き厳選名宿5選と1泊2日モデルコースを徹底ガイドします。",
-    url: 'https://croud-travel.com/winter-yamanashi-kiyosato-yatsugatake-starry-sky-winebeef-stay',
+    url: 'https://croud-travel.pages.dev/winter-yamanashi-kiyosato-yatsugatake-starry-sky-winebeef-stay',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -50,19 +50,19 @@ export default function YamanashiKiyosatoYatsugatakeWinterPage() {
     author: {
       '@type': 'Organization',
       name: 'クラドトラベル編集部',
-      url: 'https://croud-travel.com'
+      url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
       name: 'クラドトラベル',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://croud-travel.com/logo.png'
+        url: 'https://croud-travel.pages.dev/logo.png'
       }
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.com/winter-yamanashi-kiyosato-yatsugatake-starry-sky-winebeef-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-yamanashi-kiyosato-yatsugatake-starry-sky-winebeef-stay'
     }
   };
 
@@ -74,19 +74,19 @@ export default function YamanashiKiyosatoYatsugatakeWinterPage() {
         '@type': 'ListItem',
         position: 1,
         name: 'ホーム',
-        item: 'https://croud-travel.com'
+        item: 'https://croud-travel.pages.dev'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.com/features'
+        item: 'https://croud-travel.pages.dev/features'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '山梨・清里高原＆八ヶ岳星空特集',
-        item: 'https://croud-travel.com/winter-yamanashi-kiyosato-yatsugatake-starry-sky-winebeef-stay'
+        item: 'https://croud-travel.pages.dev/winter-yamanashi-kiyosato-yatsugatake-starry-sky-winebeef-stay'
       }
     ]
   };

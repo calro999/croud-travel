@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月愛知】現存最古の木造天守・国宝犬山城の冬絶景＆三光稲荷神社新春初詣！名美肌湯「白帝の湯」と本場名古屋コーチンを堪能する名宿5選",
     description: "冬の愛知・犬山は、木曽川の断崖にそびえる現存最古の木造天守「国宝犬山城」が凛とした青空と朝霧に映え、ハートの絵馬で名高い三光稲荷神社や針綱神社が新春開運初詣で賑わう季節。江戸の町割りが残る城下町本町通りの食べ歩き、国宝茶室「如庵」の静謐な冬庭園。アルカリ性単純温泉「犬山温泉 白帝の湯」の柔らかな美肌湯に浸かり、日本三大地鶏の最高峰「名古屋コーチン」の濃厚な水炊きやすき焼き、飛騨牛料理に舌鼓を打つ厳選名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-aichi-inuyama-castle-kiso-river-nagoya-cochin-stay',
+    url: 'https://croud-travel.pages.dev/winter-aichi-inuyama-castle-kiso-river-nagoya-cochin-stay',
     type: 'article',
     images: [{ url: 'https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&q=630', width: 1200, height: 630, alt: '国宝犬山城と木曽川の冬景色' }]
   },
@@ -155,9 +155,9 @@ export default function AichiInuyamaPage() {
       {
         '@type': 'BreadcrumbList',
         'itemListElement': [
-          { '@type': 'ListItem', 'position': 1, 'name': 'ホーム', 'item': 'https://croud-travel.com' },
-          { '@type': 'ListItem', 'position': 2, 'name': '特集一覧', 'item': 'https://croud-travel.com/features' },
-          { '@type': 'ListItem', 'position': 3, 'name': '国宝犬山城冬景色と白帝の湯・名古屋コーチン名宿', 'item': 'https://croud-travel.com/winter-aichi-inuyama-castle-kiso-river-nagoya-cochin-stay' }
+          { '@type': 'ListItem', 'position': 1, 'name': 'ホーム', 'item': 'https://croud-travel.pages.dev' },
+          { '@type': 'ListItem', 'position': 2, 'name': '特集一覧', 'item': 'https://croud-travel.pages.dev/features' },
+          { '@type': 'ListItem', 'position': 3, 'name': '国宝犬山城冬景色と白帝の湯・名古屋コーチン名宿', 'item': 'https://croud-travel.pages.dev/winter-aichi-inuyama-castle-kiso-river-nagoya-cochin-stay' }
         ]
       },
       {

@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月銀山温泉の初雪と大正浪漫】白銀の温泉街に灯るガス灯と尾花沢牛会席・極上雪見宿5選",
     description: "11月下旬の初雪から12月の白銀世界へと移ろう山形・銀山温泉。銀山川沿いに立ち並ぶ大正ロマンの木造多層建築と、黄昏時に灯る温かなガス灯。雪景色を眺めながらの名湯三昧と、最高峰の黒毛和牛「雪降り和牛尾花沢」を味わう極上の冬旅ガイド。",
-    url: 'https://croud-travel.com/winter-yamagata-ginzan-onsen-snow-taisho-stay',
+    url: 'https://croud-travel.pages.dev/winter-yamagata-ginzan-onsen-snow-taisho-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -44,7 +44,7 @@ export default function GinzanWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-yamagata-ginzan-onsen-snow-taisho-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-yamagata-ginzan-onsen-snow-taisho-stay#article",
         "headline": "【11・12月銀山温泉の初雪と大正浪漫】白銀の温泉街に灯るガス灯と尾花沢牛会席・極上雪見宿5選",
         "description": "11月下旬の初雪から12月の白銀世界へと移ろう山形・銀山温泉。銀山川沿いに立ち並ぶ大正ロマンの木造多層建築と、黄昏時に灯る温かなガス灯。雪景色を眺めながらの名湯三昧と、最高峰の黒毛和牛「雪降り和牛尾花沢」を味わう極上の冬旅ガイド。",
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
@@ -53,24 +53,24 @@ export default function GinzanWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-yamagata-ginzan-onsen-snow-taisho-stay"
+          "@id": "https://croud-travel.pages.dev/winter-yamagata-ginzan-onsen-snow-taisho-stay"
         }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-yamagata-ginzan-onsen-snow-taisho-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-yamagata-ginzan-onsen-snow-taisho-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -108,7 +108,7 @@ export default function GinzanWinterPage() {
       },
       {
         "@type": "ItemList",
-        "@id": "https://croud-travel.com/winter-yamagata-ginzan-onsen-snow-taisho-stay#hotels",
+        "@id": "https://croud-travel.pages.dev/winter-yamagata-ginzan-onsen-snow-taisho-stay#hotels",
         "itemListElement": [
           {
             "@type": "ListItem",

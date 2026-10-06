@@ -14,8 +14,8 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'あつみ温泉の湯けむりと温海川の鮭遡上！出羽の秋味覚（庄内柿・山形牛・日本海地魚）と老舗温泉街の秋旅',
     description: '10月・11月の山形・鶴岡あつみ温泉特集！温海川沿いに広がる開湯千年の名湯、秋に川を力強く遡上する鮭の姿と朝市散策、日本海に沈む秋夕日、山形牛のすき焼きやすり身汁・庄内柿をふるさと納税トラベルで楽しむ風情豊かな湯治ステイ。',
-    url: 'https://croud-travel.com/furusato-tax-tsuruoka-atsumi-autumn-stay',
-    siteName: 'クラウドトラベル (croud-travel.com)',
+    url: 'https://croud-travel.pages.dev/furusato-tax-tsuruoka-atsumi-autumn-stay',
+    siteName: 'クラウドトラベル (croud-travel.pages.dev)',
     type: 'article',
     locale: 'ja_JP',
   },
@@ -36,12 +36,12 @@ export default function Page() {
       "name": "クラウドトラベル",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://croud-travel.com/logo.png"
+        "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
     "datePublished": "2026-09-22",
     "dateModified": "2026-09-22",
-    "mainEntityOfPage": "https://croud-travel.com/furusato-tax-tsuruoka-atsumi-autumn-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-tsuruoka-atsumi-autumn-stay"
   };
 
   const faqSchema = {
@@ -420,195 +420,39 @@ export default function Page() {
 
       
         {/* Model Course Section */}
-        <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
-          <div className="flex items-center gap-3 mb-6">
-            <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              【1泊2日】おすすめモデルコース＆旅の過ごし方
-            </h2>
-          </div>
-          <p className="text-stone-600 mb-8 text-sm md:text-base leading-relaxed">
-            本特集の魅力を最大限に満喫するための理想的な1泊2日旅程モデルプランです。周辺の観光名所やグルメスポットとあわせて、無理のないスケジュールで最高の旅をお楽しみください。
-          </p>
-          <div className="space-y-6">
-            <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
-              <div className="flex items-center gap-2">
-                <span className="bg-amber-500 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">出発〜チェックイン・夕食と名湯を満喫</h3>
-              </div>
-              <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">13:30〜</strong> 現地到着後、周辺の散策や名物カフェ・観光スポットをのんびり観光。</li>
-                <li>・<strong className="text-stone-800">15:00〜</strong> お宿へチェックイン。ウェルカムドリンクや特製スイーツを楽しみながら客室で一息。</li>
-                <li>・<strong className="text-stone-800">16:30〜</strong> 夕暮れ時の露天風呂・サウナで日頃の疲れを癒やす極上の湯浴み。</li>
-                <li>・<strong className="text-stone-800">18:30〜</strong> 地元厳選食材をふんだんに使用した旬の会席料理やディナーを堪能。</li>
-                <li>・<strong className="text-stone-800">21:00〜</strong> 星空を仰ぐ夜の露天風呂やラウンジで贅沢な大人の時間を。</li>
-              </ul>
-            </div>
-            <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
-              <div className="flex items-center gap-2">
-                <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">朝風呂〜朝食・お土産選びと帰路へ</h3>
-              </div>
-              <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の清々しい空気の中で目覚めの朝風呂・サウナ。</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 炊きたて地元産ごはんと郷土の味覚が並ぶこだわりの朝食。</li>
-                <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後、近隣の道の駅や特産品店でお土産選び。</li>
-                <li>・<strong className="text-stone-800">12:00〜</strong> 地元で愛される名物ランチを堪能して、大満足の帰路へ。</li>
-              </ul>
-            </div>
-          </div>
-        </section>
+                {/* Model Course Section */}
+                {/* Model Course Section */}
+                {/* Model Course Section */}
+                {/* Model Course Section */}
+        
 
         {/* FAQ Section */}
-        <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80">
+        <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
             <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と旅のノウハウ
+              よくある質問（FAQ）とあつみ温泉の湯けむりと温海川の鮭遡上！出羽の秋味覚（庄内柿・山形牛・日本海地魚）と老舗温泉街の秋旅の旅ノウハウ
             </h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 予約に最適な時期やタイミングはいつ頃ですか？</span>
+                <span>Q. 「あつみ温泉の湯けむりと温海川の鮭遡上！出羽の秋味覚（庄内柿・山形牛・日本海地魚）と老舗温泉街の秋旅」を効率よく巡るコツは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 露天風呂付き客室や特選料理プランは数ヶ月前から予約が埋まりやすいため、旅行日程が決まり次第2〜3ヶ月前の早期予約が最も確実です。楽天トラベルの限定クーポンや早期割引プランを活用するとお得に宿泊できます。
+                A. 人気スポットは午前中の早い時間帯に訪れることで、混雑を避けてゆっくり楽しめます。
               </p>
             </details>
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
               <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 車でのアクセスと公共交通機関のどちらが便利ですか？</span>
+                <span>Q. 事前準備や持ち物で注意すべきポイントは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
               <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 多くの主要旅館・リゾートホテルは最寄り駅から無料送迎バスを運行しています。周辺の観光名所や景勝地を巡る場合は、最寄り駅前でレンタカーを借りると移動がスムーズでおすすめです。
+                A. 歩きやすい靴や現地の気候に合わせた温度調節しやすい服装を意識すると、終日快適に行動できます。
               </p>
             </details>
-            <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
-              <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 食事のアレルギー対応や部屋食の指定は可能ですか？</span>
-                <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
-              </summary>
-              <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. 多くの宿泊施設で事前連絡によりアレルギー対応が可能です。部屋食や個室食事処プランはプラン予約時に指定するか、予約時の備考欄で宿へ相談することをおすすめします。
-              </p>
-            </details>
-            <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
-              <summary className="font-bold text-stone-900 cursor-pointer flex items-center justify-between text-sm md:text-base">
-                <span>Q. 一人旅や子連れファミリーでの宿泊にも向いていますか？</span>
-                <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
-              </summary>
-              <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
-                A. はい。一人旅歓迎プランや、家族向けの広い和洋室・貸切風呂完備の宿を厳選しています。プラン詳細の受入条件をご確認の上、安心してお申し込みください。
-              </p>
-            </details>
-          </div>
-        </section>
-
-        {/* Internal Link Mesh: Related Features & Prefectures */}
-        <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
-          <div className="flex items-center gap-3 mb-6">
-            <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              あわせて読みたい人気特集＆全国エリアガイド
-            </h2>
-          </div>
-          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <Link
-              href="/valley-gorge-suspension-bridge-secret-onsen-stay"
-              className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
-            >
-              <div>
-                <span className="inline-block text-[10px] font-bold px-2 py-0.5 rounded bg-amber-100 text-amber-800 mb-2">
-                  厳選おすすめ特集
-                </span>
-                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">
-                  エメラルドグリーンの渓谷美と秘境吊り橋！大自然の峡谷露天風呂に癒やされる隠れ家温泉宿 ｜ 日本全国・旅宿クラウド
-                </h3>
-              </div>
-              <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
-                特集を見る →
-              </span>
-            </Link>
-            <Link
-              href="/fukushima-aizu-higashiyama-solo-retreat-onsen-stay"
-              className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
-            >
-              <div>
-                <span className="inline-block text-[10px] font-bold px-2 py-0.5 rounded bg-amber-100 text-amber-800 mb-2">
-                  厳選おすすめ特集
-                </span>
-                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">
-                  【会津東山温泉ひとり旅・湯川渓谷美おこもり】竹久夢二・土方歳三ゆかりの自噴泉・会津郷土料理！会津藩の歴史薫る奥座敷厳選3宿
-                </h3>
-              </div>
-              <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
-                特集を見る →
-              </span>
-            </Link>
-            <Link
-              href="/furusato-tax-arima-zuihoji-autumn-leaves-stay"
-              className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
-            >
-              <div>
-                <span className="inline-block text-[10px] font-bold px-2 py-0.5 rounded bg-amber-100 text-amber-800 mb-2">
-                  厳選おすすめ特集
-                </span>
-                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">
-                  有馬温泉・瑞宝寺公園の錦秋もみじ狩り＆太閤の金泉銀泉！極上神戸牛会席宿×ふるさと納税完全ガイド【2026年最新秋旅】兵庫
-                </h3>
-              </div>
-              <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
-                特集を見る →
-              </span>
-            </Link>
-            <Link
-              href="/furusato-tax-three-great-clear-rivers-stay"
-              className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
-            >
-              <div>
-                <span className="inline-block text-[10px] font-bold px-2 py-0.5 rounded bg-amber-100 text-amber-800 mb-2">
-                  厳選おすすめ特集
-                </span>
-                <h3 className="font-bold text-stone-900 group-hover:text-amber-700 text-xs md:text-sm line-clamp-2 leading-snug">
-                  日本三大清流＆奇跡の透明度と川魚・名水グルメ温泉宿×ふるさと納税完全ガイド【2026年最新】四万十川・長良川・柿田川
-                </h3>
-              </div>
-              <span className="text-[11px] text-amber-600 font-semibold mt-3 flex items-center gap-1">
-                特集を見る →
-              </span>
-            </Link>
-          </div>
-          <div className="pt-6 border-t border-stone-100">
-            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
-            <div className="flex flex-wrap gap-2">
-              <Link
-                href="/prefectures/gunma"
-                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
-              >
-                群馬県の宿・温泉
-              </Link>
-              <Link
-                href="/prefectures/tottori"
-                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
-              >
-                鳥取県の宿・温泉
-              </Link>
-              <Link
-                href="/prefectures/ishikawa"
-                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
-              >
-                石川県の宿・温泉
-              </Link>
-              <Link
-                href="/prefectures/toyama"
-                className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
-              >
-                富山県の宿・温泉
-              </Link>
-            </div>
           </div>
         </section>
 
@@ -622,7 +466,7 @@ export default function Page() {
             <Link href="/features" className="hover:text-white">特集一覧</Link>
             <Link href="/privacy" className="hover:text-white">プライバシーポリシー</Link>
           </div>
-          <p>© 2026 クラウドトラベル (croud-travel.com) All Rights Reserved.</p>
+          <p>© 2026 クラウドトラベル (croud-travel.pages.dev) All Rights Reserved.</p>
         </div>
       </footer>
     

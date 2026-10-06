@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【12・1月北海道】然別湖＆ぬかびら源泉郷！氷結した湖上の幻の村「しかりべつ湖コタン」氷上露天風呂＆タウシュベツ川橋梁・十勝ハーブ牛名宿5選",
     description: "大雪山国立公園の南端、北海道で最も標高の高い自然湖・然別湖が厚い氷に閉ざされる12〜1月。完全結氷した湖上にわずか60日間だけ現れる幻の村「しかりべつ湖コタン」では、世界唯一の氷上露天風呂やアイスバーが旅人を魅了します。近隣のぬかびら源泉郷では古代ローマ遺跡のようなタウシュベツ川橋梁の白銀絶景と源泉掛け流しの秘湯、十勝ハーブ牛や新得そばなど北の大地の極上美食を堪能できる厳選名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-hokkaido-shikaribetsu-kotan-nukabira-onsen-ice-stay',
+    url: 'https://croud-travel.pages.dev/winter-hokkaido-shikaribetsu-kotan-nukabira-onsen-ice-stay',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',
     type: 'article',
@@ -166,10 +166,10 @@ export default function HokkaidoShikaribetsuNukabiraWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-hokkaido-shikaribetsu-kotan-nukabira-onsen-ice-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-hokkaido-shikaribetsu-kotan-nukabira-onsen-ice-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-hokkaido-shikaribetsu-kotan-nukabira-onsen-ice-stay"
+          "@id": "https://croud-travel.pages.dev/winter-hokkaido-shikaribetsu-kotan-nukabira-onsen-ice-stay"
         },
         "headline": "【12・1月北海道】然別湖＆ぬかびら源泉郷！氷結した湖上の幻の村「しかりべつ湖コタン」氷上露天風呂＆タウシュベツ川橋梁・十勝ハーブ牛名宿5選",
         "description": "大雪山国立公園の南端、北海道で最も標高の高い自然湖・然別湖が厚い氷に閉ざされる12〜1月。完全結氷した湖上にわずか60日間だけ現れる幻の村「しかりべつ湖コタン」では、世界唯一の氷上露天風呂やアイスバーが旅人を魅了します。近隣のぬかびら源泉郷では古代ローマ遺跡のようなタウシュベツ川橋梁の白銀絶景と源泉掛け流しの秘湯、十勝ハーブ牛や新得そばなど北の大地の極上美食を堪能できる厳選名宿5選を徹底解説します。",
@@ -179,7 +179,7 @@ export default function HokkaidoShikaribetsuNukabiraWinterPage() {
         "publisher": {
           "@type": "Organization",
           "name": "地域の宿探訪",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         }
       },
       {
@@ -189,19 +189,19 @@ export default function HokkaidoShikaribetsuNukabiraWinterPage() {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com"
+            "item": "https://croud-travel.pages.dev"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "然別湖＆ぬかびら源泉郷冬特集",
-            "item": "https://croud-travel.com/winter-hokkaido-shikaribetsu-kotan-nukabira-onsen-ice-stay"
+            "item": "https://croud-travel.pages.dev/winter-hokkaido-shikaribetsu-kotan-nukabira-onsen-ice-stay"
           }
         ]
       },

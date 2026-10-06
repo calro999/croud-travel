@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月神奈川】冬の三浦半島・城ヶ島30万本の水仙まつりと富士山絶景・名物三崎まぐろ尽くし＆朝獲れ地魚を味わう三浦名宿5選",
     description: "11月から1月、三浦半島最南端の城ヶ島や三浦海岸は、冬の澄み渡る青空の下で相模湾越しに純白の富士山が鮮やかに浮かび上がる絶景の季節を迎えます。城ヶ島公園では約30万株の八重咲水仙が甘い香りを漂わせる「水仙まつり」が開催され、三崎漁港では脂が乗り切った天然本まぐろや金目鯛、朝獲れの地魚が水揚げされます。地下深くから湧き出す天然温泉や展望風呂で温まり、極上の三崎まぐろ料理と三浦大根を堪能できる厳選名宿5選と冬のドライブモデルコースをご案内します。",
-    url: 'https://croud-travel.com/winter-kanagawa-miura-misaki-maguro-suisen-fuji-stay',
+    url: 'https://croud-travel.pages.dev/winter-kanagawa-miura-misaki-maguro-suisen-fuji-stay',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -50,19 +50,19 @@ export default function KanagawaMiuraMisakiWinterPage() {
     author: {
       '@type': 'Organization',
       name: 'クラドトラベル編集部',
-      url: 'https://croud-travel.com'
+      url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
       name: 'クラドトラベル',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://croud-travel.com/logo.png'
+        url: 'https://croud-travel.pages.dev/logo.png'
       }
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.com/winter-kanagawa-miura-misaki-maguro-suisen-fuji-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-kanagawa-miura-misaki-maguro-suisen-fuji-stay'
     }
   };
 
@@ -74,19 +74,19 @@ export default function KanagawaMiuraMisakiWinterPage() {
         '@type': 'ListItem',
         position: 1,
         name: 'ホーム',
-        item: 'https://croud-travel.com'
+        item: 'https://croud-travel.pages.dev'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.com/features'
+        item: 'https://croud-travel.pages.dev/features'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '三浦半島・城ヶ島＆三崎まぐろ特集',
-        item: 'https://croud-travel.com/winter-kanagawa-miura-misaki-maguro-suisen-fuji-stay'
+        item: 'https://croud-travel.pages.dev/winter-kanagawa-miura-misaki-maguro-suisen-fuji-stay'
       }
     ]
   };

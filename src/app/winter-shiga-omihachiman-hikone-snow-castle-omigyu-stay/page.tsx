@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月滋賀】近江八幡水郷雪景色＆国宝・彦根城雪化粧と日本三大和牛「近江牛すき焼き」＆冬の琵琶湖名物・湖畔の絶景名宿5選",
     description: "11月から1月、滋賀県・湖東エリア（近江八幡・彦根）は、白銀に染まる国宝・彦根城天守の荘厳な雪化粧と、八幡堀や水郷の静謐な冬景色に包まれます。寒さ冴え渡る冬の夜に最高の贅沢となるのが、日本三大和牛・近江牛のとろけるすき焼きやしゃぶしゃぶ。湖東三山の初雪、冬の琵琶湖が育む本諸子（ホンモロコ）や鮒寿司の伝統の味。冬の澄んだ空気の中で比良山系の雪嶺と琵琶湖を一望する名湯・絶景リゾート宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-shiga-omihachiman-hikone-snow-castle-omigyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-shiga-omihachiman-hikone-snow-castle-omigyu-stay',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -50,19 +50,19 @@ export default function ShigaOmihachimanHikoneWinterPage() {
     author: {
       '@type': 'Organization',
       name: 'クラドトラベル編集部',
-      url: 'https://croud-travel.com'
+      url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
       name: 'クラドトラベル',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://croud-travel.com/logo.png'
+        url: 'https://croud-travel.pages.dev/logo.png'
       }
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.com/winter-shiga-omihachiman-hikone-snow-castle-omigyu-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-shiga-omihachiman-hikone-snow-castle-omigyu-stay'
     }
   };
 
@@ -74,19 +74,19 @@ export default function ShigaOmihachimanHikoneWinterPage() {
         '@type': 'ListItem',
         position: 1,
         name: 'ホーム',
-        item: 'https://croud-travel.com'
+        item: 'https://croud-travel.pages.dev'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.com/features'
+        item: 'https://croud-travel.pages.dev/features'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '滋賀・彦根城雪景色＆近江牛すき焼き特集',
-        item: 'https://croud-travel.com/winter-shiga-omihachiman-hikone-snow-castle-omigyu-stay'
+        item: 'https://croud-travel.pages.dev/winter-shiga-omihachiman-hikone-snow-castle-omigyu-stay'
       }
     ]
   };

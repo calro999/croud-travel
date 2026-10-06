@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月神戸】生田神社新春開運初詣＆神戸ルミナリエ！メリケンパーク冬夜景と極上神戸牛に酔いしれる名宿5選",
     description: "冬の港町・神戸は、澄み切った冷涼な空気が六甲山と神戸港の「1000万ドルの夜景」を最も眩しく煌めかせ、希望の光を紡ぐ「神戸ルミナリエ」が街を優しく照らす特別な季節。縁結びと厄除けの古社「生田神社」の新春初詣、南京町の湯気立つ本格点心、世界最高峰の肉質を誇る神戸牛ステーキや鉄板焼、そして海を望む極上の天然温泉「神戸みなと温泉」。楽天APIから最新取得した神戸港・元町・三宮の海風薫る特選宿5選を徹底特集します。",
-    url: 'https://croud-travel.com/winter-hyogo-kobe-port-ikuta-shrine-luminarie-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-hyogo-kobe-port-ikuta-shrine-luminarie-beef-stay',
     type: 'article',
     images: [{ url: 'https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=1200&q=80' }]
   }
@@ -149,15 +149,15 @@ export default function HyogoKobePortWinterPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://croud-travel.com/winter-hyogo-kobe-port-ikuta-shrine-luminarie-beef-stay#webpage",
-        "url": "https://croud-travel.com/winter-hyogo-kobe-port-ikuta-shrine-luminarie-beef-stay",
+        "@id": "https://croud-travel.pages.dev/winter-hyogo-kobe-port-ikuta-shrine-luminarie-beef-stay#webpage",
+        "url": "https://croud-travel.pages.dev/winter-hyogo-kobe-port-ikuta-shrine-luminarie-beef-stay",
         "name": "【11・12・1月神戸】生田神社新春開運初詣＆神戸ルミナリエ！メリケンパーク冬夜景と極上神戸牛に酔いしれる名宿5選",
         "description": "冬の港町・神戸は、澄み切った冷涼な空気が六甲山と神戸港の「1000万ドルの夜景」を最も眩しく煌めかせ、希望の光を紡ぐ「神戸ルミナリエ」が街を優しく照らす特別な季節。縁結びと厄除けの古社「生田神社」の新春初詣、南京町の湯気立つ本格点心、世界最高峰の肉質を誇る神戸牛ステーキや鉄板焼、そして海を望む極上の天然温泉「神戸みなと温泉」。楽天APIから最新取得した神戸港・元町・三宮の海風薫る特選宿5選を徹底特集します。",
         "inLanguage": "ja",
         "isPartOf": {
           "@type": "WebSite",
-          "@id": "https://croud-travel.com/#website",
-          "url": "https://croud-travel.com/",
+          "@id": "https://croud-travel.pages.dev/#website",
+          "url": "https://croud-travel.pages.dev/",
           "name": "くらうどトラベル"
         }
       },
@@ -168,19 +168,19 @@ export default function HyogoKobePortWinterPage() {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com/"
+            "item": "https://croud-travel.pages.dev/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "神戸ルミナリエ＆生田神社初詣宿",
-            "item": "https://croud-travel.com/winter-hyogo-kobe-port-ikuta-shrine-luminarie-beef-stay"
+            "item": "https://croud-travel.pages.dev/winter-hyogo-kobe-port-ikuta-shrine-luminarie-beef-stay"
           }
         ]
       },

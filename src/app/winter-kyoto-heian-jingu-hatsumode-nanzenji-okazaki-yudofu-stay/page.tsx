@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月京都】平安神宮＆南禅寺・岡崎！初詣と神苑雪景色・水路閣の冬情趣と名物湯豆腐・京懐石の名宿5選",
     description: "11月中旬から1月にかけて、京都・岡崎から南禅寺・蹴上にかけての東山山麓は、観光客で賑わう秋の紅葉から一転、古都本来の奥深い静寂と凛とした冬の美しさに包まれます。朱塗りの大鳥居が白雪に映える平安神宮の初詣と名勝神苑の雪化粧、赤レンガの水路閣や威風堂々たる三門が冬木立に佇む南禅寺。冷え切った身体に染み渡る発祥の地・南禅寺の名物熱々湯豆腐や冬の京懐石（かぶら蒸し・聖護院大根）。天然温泉や名庭園を備えた至高の隠れ宿。楽天APIから最新取得した実力宿5選を徹底特集します。",
-    url: 'https://croud-travel.com/winter-kyoto-heian-jingu-hatsumode-nanzenji-okazaki-yudofu-stay',
+    url: 'https://croud-travel.pages.dev/winter-kyoto-heian-jingu-hatsumode-nanzenji-okazaki-yudofu-stay',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',
     type: 'article',
@@ -162,10 +162,10 @@ export default function KyotoHeianJinguWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-kyoto-heian-jingu-hatsumode-nanzenji-okazaki-yudofu-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-kyoto-heian-jingu-hatsumode-nanzenji-okazaki-yudofu-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-kyoto-heian-jingu-hatsumode-nanzenji-okazaki-yudofu-stay"
+          "@id": "https://croud-travel.pages.dev/winter-kyoto-heian-jingu-hatsumode-nanzenji-okazaki-yudofu-stay"
         },
         "headline": "【11・12・1月京都】平安神宮＆南禅寺・岡崎！初詣と神苑雪景色・水路閣の冬情趣と名物湯豆腐・京懐石の名宿5選",
         "description": "11月中旬から1月にかけて、京都・岡崎から南禅寺・蹴上にかけての東山山麓は、観光客で賑わう秋の紅葉から一転、古都本来の奥深い静寂と凛とした冬の美しさに包まれます。朱塗りの大鳥居が白雪に映える平安神宮の初詣と名勝神苑の雪化粧、赤レンガの水路閣や威風堂々たる三門が冬木立に佇む南禅寺。冷え切った身体に染み渡る発祥の地・南禅寺の名物熱々湯豆腐や冬の京懐石（かぶら蒸し・聖護院大根）。天然温泉や名庭園を備えた至高の隠れ宿。楽天APIから最新取得した実力宿5選を徹底特集します。",
@@ -175,7 +175,7 @@ export default function KyotoHeianJinguWinterPage() {
         "publisher": {
           "@type": "Organization",
           "name": "地域の宿探訪",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         }
       },
       {
@@ -185,19 +185,19 @@ export default function KyotoHeianJinguWinterPage() {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com"
+            "item": "https://croud-travel.pages.dev"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "京都・平安神宮＆南禅寺・岡崎冬特集",
-            "item": "https://croud-travel.com/winter-kyoto-heian-jingu-hatsumode-nanzenji-okazaki-yudofu-stay"
+            "item": "https://croud-travel.pages.dev/winter-kyoto-heian-jingu-hatsumode-nanzenji-okazaki-yudofu-stay"
           }
         ]
       },

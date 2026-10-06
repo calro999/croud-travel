@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月信州湯田中渋温泉郷の雪中スノーモンキーと開湯1350年名湯】登録有形文化財風呂・信州プレミアム牛ステーキ＆雪見酒の宿5選",
     description: "11月下旬から12月にかけて長野県・北信濃の志賀高原山麓に広がる湯田中渋温泉郷は、初雪が舞い始め、世界で唯一温泉に入るニホンザルが見られる「地獄谷野猿公苑（スノーモンキー）」の本格シーズンが開幕します。開湯から1350年以上の歴史を誇る湯田中温泉・渋温泉は、石畳の小径に湯煙が立ち上り、国の登録有形文化財に指定された壮麗な木造建築「桃山風呂」や9つの外湯めぐりが情緒豊か。湯上がりに味わう「信州プレミアム牛肉」の陶板ステーキや信州サーモン、名物信州そば、北信流の雪見地酒を堪能する至福の温泉旅名宿5選を徹底解説。",
-    url: 'https://croud-travel.com/winter-nagano-yudanaka-onsen-snow-monkey-shinshu-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-nagano-yudanaka-onsen-snow-monkey-shinshu-beef-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -68,7 +68,7 @@ export default function NaganoYudanakaWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-nagano-yudanaka-onsen-snow-monkey-shinshu-beef-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-nagano-yudanaka-onsen-snow-monkey-shinshu-beef-stay#article",
         "headline": "【11・12月信州湯田中渋温泉郷の雪中スノーモンキーと開湯1350年名湯】登録有形文化財風呂・信州プレミアム牛ステーキ＆雪見酒の宿5選",
         "description": "11月下旬から12月にかけて長野県・北信濃の志賀高原山麓に広がる湯田中渋温泉郷は、初雪が舞い始め、世界で唯一温泉に入るニホンザルが見られる「地獄谷野猿公苑（スノーモンキー）」の本格シーズンが開幕します。開湯から1350年以上の歴史を誇る湯田中温泉・渋温泉は、石畳の小径に湯煙が立ち上り、国の登録有形文化財に指定された壮麗な木造建築「桃山風呂」や9つの外湯めぐりが情緒豊か。湯上がりに味わう「信州プレミアム牛肉」の陶板ステーキや信州サーモン、名物信州そば、北信流の雪見地酒を堪能する至福の温泉旅名宿5選を徹底解説。",
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
@@ -77,24 +77,24 @@ export default function NaganoYudanakaWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-nagano-yudanaka-onsen-snow-monkey-shinshu-beef-stay"
+          "@id": "https://croud-travel.pages.dev/winter-nagano-yudanaka-onsen-snow-monkey-shinshu-beef-stay"
         }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-nagano-yudanaka-onsen-snow-monkey-shinshu-beef-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-nagano-yudanaka-onsen-snow-monkey-shinshu-beef-stay#faq",
         "mainEntity": faqList.map(item => ({
           "@type": "Question",
           "name": item.q,

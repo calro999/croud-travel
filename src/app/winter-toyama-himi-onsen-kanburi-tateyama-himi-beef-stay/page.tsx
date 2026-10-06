@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月富山氷見温泉郷のひみ寒ぶりと雪化粧立山連峰】海越しの白銀絶景露天風呂・極上氷見牛＆寒ブリづくし会席の宿5選",
     description: "11月下旬から12月にかけて富山湾で水揚げのピークを迎える冬の味覚の王様「ひみ寒ぶり」と、海越しに白銀の3,000m級立山連峰を望む富山県・氷見温泉郷。冷え込んだ早朝に富山湾から立ち上る幻想的な「気嵐（けあらし）」、太古の化石海水を湛えた美肌と保温の強塩泉露天風呂、脂が乗った極上の寒ブリ刺身・ブリしゃぶ・ブリ大根、希少な黒毛和牛「氷見牛」のステーキを心ゆくまで堪能する名宿5選を徹底解説。",
-    url: 'https://croud-travel.com/winter-toyama-himi-onsen-kanburi-tateyama-himi-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-toyama-himi-onsen-kanburi-tateyama-himi-beef-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -68,7 +68,7 @@ export default function HimiOnsenWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-toyama-himi-onsen-kanburi-tateyama-himi-beef-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-toyama-himi-onsen-kanburi-tateyama-himi-beef-stay#article",
         "headline": "【11・12月富山氷見温泉郷のひみ寒ぶりと雪化粧立山連峰】海越しの白銀絶景露天風呂・極上氷見牛＆寒ブリづくし会席の宿5選",
         "description": "11月下旬から12月にかけて富山湾で水揚げのピークを迎える冬の味覚の王様「ひみ寒ぶり」と、海越しに白銀の3,000m級立山連峰を望む富山県・氷見温泉郷。冷え込んだ早朝に富山湾から立ち上る幻想的な「気嵐（けあらし）」、太古の化石海水を湛えた美肌と保温の強塩泉露天風呂、脂が乗った極上の寒ブリ刺身・ブリしゃぶ・ブリ大根、希少な黒毛和牛「氷見牛」のステーキを心ゆくまで堪能する名宿5選を徹底解説。",
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
@@ -77,24 +77,24 @@ export default function HimiOnsenWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-toyama-himi-onsen-kanburi-tateyama-himi-beef-stay"
+          "@id": "https://croud-travel.pages.dev/winter-toyama-himi-onsen-kanburi-tateyama-himi-beef-stay"
         }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-toyama-himi-onsen-kanburi-tateyama-himi-beef-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-toyama-himi-onsen-kanburi-tateyama-himi-beef-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -140,7 +140,7 @@ export default function HimiOnsenWinterPage() {
       },
       {
         "@type": "ItemList",
-        "@id": "https://croud-travel.com/winter-toyama-himi-onsen-kanburi-tateyama-himi-beef-stay#hotels",
+        "@id": "https://croud-travel.pages.dev/winter-toyama-himi-onsen-kanburi-tateyama-himi-beef-stay#hotels",
         "itemListElement": [
           {
             "@type": "ListItem",

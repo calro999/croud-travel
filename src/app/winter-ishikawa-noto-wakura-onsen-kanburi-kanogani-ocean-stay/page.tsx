@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月石川・能登和倉温泉の七尾湾冬景色と寒の味覚】名物能登寒ぶり＆加能ガニ・極上能登牛・開湯1200年の海のいで湯を愉しむ海辺名宿5選",
     description: "11月から12月にかけて、能登半島の優美な内海「七尾湾」に抱かれた名湯「和倉温泉（わくらおんせん）」は、冬の日本海がもたらす最高峰の美食と、波静かなオーシャンビューに初雪が舞い散る風情豊かな季節を迎えます。開湯約1200年、海中から湧き出た白鷺伝説に由来する塩化物泉は、国内屈指の高温泉にして豊かな塩分が身体を芯から温める「海のいで湯」。11月6日に解禁される石川県産ブランドズワイガニ「加能ガニ」や内子・外子が詰まった「香箱ガニ」、初冬の寒風に揉まれて脂が乗り切った「能登寒ぶり」のブリしゃぶ、希少な極上「能登牛」。波穏やかな七尾湾と能登島大橋を望む絶景露天風呂とともに、心温まる北陸の贅を尽くす厳選名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-ishikawa-noto-wakura-onsen-kanburi-kanogani-ocean-stay',
+    url: 'https://croud-travel.pages.dev/winter-ishikawa-noto-wakura-onsen-kanburi-kanogani-ocean-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -166,28 +166,28 @@ export default function WinterIshikawaWakuraPage() {
     '@graph': [
       {
         '@type': 'Article',
-        '@id': 'https://croud-travel.com/winter-ishikawa-noto-wakura-onsen-kanburi-kanogani-ocean-stay#article',
+        '@id': 'https://croud-travel.pages.dev/winter-ishikawa-noto-wakura-onsen-kanburi-kanogani-ocean-stay#article',
         'isPartOf': {
           '@type': 'WebSite',
-          '@id': 'https://croud-travel.com/#website',
+          '@id': 'https://croud-travel.pages.dev/#website',
           'name': 'クラドトラベル',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         },
         'headline': "【11・12月石川・能登和倉温泉の七尾湾冬景色と寒の味覚】名物能登寒ぶり＆加能ガニ・極上能登牛・開湯1200年の海のいで湯を愉しむ海辺名宿5選",
         'description': "11月から12月にかけて、能登半島の優美な内海「七尾湾」に抱かれた名湯「和倉温泉（わくらおんせん）」は、冬の日本海がもたらす最高峰の美食と、波静かなオーシャンビューに初雪が舞い散る風情豊かな季節を迎えます。開湯約1200年、海中から湧き出た白鷺伝説に由来する塩化物泉は、国内屈指の高温泉にして豊かな塩分が身体を芯から温める「海のいで湯」。11月6日に解禁される石川県産ブランドズワイガニ「加能ガニ」や内子・外子が詰まった「香箱ガニ」、初冬の寒風に揉まれて脂が乗り切った「能登寒ぶり」のブリしゃぶ、希少な極上「能登牛」。波穏やかな七尾湾と能登島大橋を望む絶景露天風呂とともに、心温まる北陸の贅を尽くす厳選名宿5選を徹底解説します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.com/winter-ishikawa-noto-wakura-onsen-kanburi-kanogani-ocean-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-ishikawa-noto-wakura-onsen-kanburi-kanogani-ocean-stay',
         'datePublished': '2026-09-29T00:00:00+09:00',
         'dateModified': '2026-09-29T00:00:00+09:00',
         'publisher': {
           '@type': 'Organization',
           'name': 'クラドトラベル編集部',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         }
       },
       {
         '@type': 'TouristDestination',
-        '@id': 'https://croud-travel.com/winter-ishikawa-noto-wakura-onsen-kanburi-kanogani-ocean-stay#destination',
+        '@id': 'https://croud-travel.pages.dev/winter-ishikawa-noto-wakura-onsen-kanburi-kanogani-ocean-stay#destination',
         'name': '石川・能登和倉温泉',
         'description': '能登半島・七尾湾に面した開湯約1200年の海のいで湯。冬の能登寒ぶり、加能ガニ、能登牛と絶景オーシャンビュー露天が魅力。',
         'geo': {
@@ -198,7 +198,7 @@ export default function WinterIshikawaWakuraPage() {
       },
       {
         '@type': 'FAQPage',
-        '@id': 'https://croud-travel.com/winter-ishikawa-noto-wakura-onsen-kanburi-kanogani-ocean-stay#faq',
+        '@id': 'https://croud-travel.pages.dev/winter-ishikawa-noto-wakura-onsen-kanburi-kanogani-ocean-stay#faq',
         'mainEntity': faqList.map((f) => ({
           '@type': 'Question',
           'name': f.q,
@@ -210,7 +210,7 @@ export default function WinterIshikawaWakuraPage() {
       },
       {
         '@type': 'ItemList',
-        '@id': 'https://croud-travel.com/winter-ishikawa-noto-wakura-onsen-kanburi-kanogani-ocean-stay#hotellist',
+        '@id': 'https://croud-travel.pages.dev/winter-ishikawa-noto-wakura-onsen-kanburi-kanogani-ocean-stay#hotellist',
         'name': '石川能登和倉温泉のおすすめ名宿5選',
         'itemListElement': hotels.map((h, idx) => ({
           '@type': 'ListItem',

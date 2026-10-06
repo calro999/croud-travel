@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月群馬・草津温泉の湯畑雪景色と日本一の名湯】名物上州牛すき焼き＆湯もみ体験・冬の酸性美肌泉を愉しむ名宿5選",
     description: "11月から12月にかけて、毎分3万2300リットル以上という日本一の自然湧出量を誇る東の横綱「草津温泉（くさつおんせん）」は、標高約1200メートルの高原に初雪が舞い降り、温泉街の中心「湯畑（ゆばたけ）」から立ち上る豪快な湯けむりと冬のライトアップが織りなす最も幻想的な季節を迎えます。pH2前後の日本屈指の強酸性泉は、強力な殺菌力と新陳代謝促進効果を持ち、冷えた冬の身体を芯の芯まで熱く温めてくれます。西の河原公園の広大な雪見大露天風呂や熱乃湯の伝統「湯もみと踊り」。夕食には群馬の豊かな大自然が育んだ最高峰の黒毛和牛「上州牛（じょうしゅうぎゅう）」のすき焼きやしゃぶしゃぶ、冬に甘みを極める下仁田葱、名物舞茸料理。名実ともに日本を代表する名湯草津で、至福の冬籠りを叶える厳選名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-gunma-kusatsu-onsen-yubatake-yukimi-joshugyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-gunma-kusatsu-onsen-yubatake-yukimi-joshugyu-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -166,28 +166,28 @@ export default function WinterGunmaKusatsuOnsenPage() {
     '@graph': [
       {
         '@type': 'Article',
-        '@id': 'https://croud-travel.com/winter-gunma-kusatsu-onsen-yubatake-yukimi-joshugyu-stay#article',
+        '@id': 'https://croud-travel.pages.dev/winter-gunma-kusatsu-onsen-yubatake-yukimi-joshugyu-stay#article',
         'isPartOf': {
           '@type': 'WebSite',
-          '@id': 'https://croud-travel.com/#website',
+          '@id': 'https://croud-travel.pages.dev/#website',
           'name': 'クラドトラベル',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         },
         'headline': "【11・12月群馬・草津温泉の湯畑雪景色と日本一の名湯】名物上州牛すき焼き＆湯もみ体験・冬の酸性美肌泉を愉しむ名宿5選",
         'description': "11月から12月にかけて、毎分3万2300リットル以上という日本一の自然湧出量を誇る東の横綱「草津温泉（くさつおんせん）」は、標高約1200メートルの高原に初雪が舞い降り、温泉街の中心「湯畑（ゆばたけ）」から立ち上る豪快な湯けむりと冬のライトアップが織りなす最も幻想的な季節を迎えます。pH2前後の日本屈指の強酸性泉は、強力な殺菌力と新陳代謝促進効果を持ち、冷えた冬の身体を芯の芯まで熱く温めてくれます。西の河原公園の広大な雪見大露天風呂や熱乃湯の伝統「湯もみと踊り」。夕食には群馬の豊かな大自然が育んだ最高峰の黒毛和牛「上州牛（じょうしゅうぎゅう）」のすき焼きやしゃぶしゃぶ、冬に甘みを極める下仁田葱、名物舞茸料理。名実ともに日本を代表する名湯草津で、至福の冬籠りを叶える厳選名宿5選を徹底解説します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.com/winter-gunma-kusatsu-onsen-yubatake-yukimi-joshugyu-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-gunma-kusatsu-onsen-yubatake-yukimi-joshugyu-stay',
         'datePublished': '2026-09-29T00:00:00+09:00',
         'dateModified': '2026-09-29T00:00:00+09:00',
         'publisher': {
           '@type': 'Organization',
           'name': 'クラドトラベル編集部',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         }
       },
       {
         '@type': 'TouristDestination',
-        '@id': 'https://croud-travel.com/winter-gunma-kusatsu-onsen-yubatake-yukimi-joshugyu-stay#destination',
+        '@id': 'https://croud-travel.pages.dev/winter-gunma-kusatsu-onsen-yubatake-yukimi-joshugyu-stay#destination',
         'name': '群馬・草津温泉',
         'description': '日本一の自然湧出量を誇る東の横綱。湯畑雪景色、pH2の強酸性美肌泉、上州牛すき焼きが魅力の温泉地。',
         'geo': {
@@ -198,7 +198,7 @@ export default function WinterGunmaKusatsuOnsenPage() {
       },
       {
         '@type': 'FAQPage',
-        '@id': 'https://croud-travel.com/winter-gunma-kusatsu-onsen-yubatake-yukimi-joshugyu-stay#faq',
+        '@id': 'https://croud-travel.pages.dev/winter-gunma-kusatsu-onsen-yubatake-yukimi-joshugyu-stay#faq',
         'mainEntity': faqList.map((f) => ({
           '@type': 'Question',
           'name': f.q,
@@ -210,7 +210,7 @@ export default function WinterGunmaKusatsuOnsenPage() {
       },
       {
         '@type': 'ItemList',
-        '@id': 'https://croud-travel.com/winter-gunma-kusatsu-onsen-yubatake-yukimi-joshugyu-stay#hotellist',
+        '@id': 'https://croud-travel.pages.dev/winter-gunma-kusatsu-onsen-yubatake-yukimi-joshugyu-stay#hotellist',
         'name': '群馬草津温泉のおすすめ名宿5選',
         'itemListElement': hotels.map((h, idx) => ({
           '@type': 'ListItem',

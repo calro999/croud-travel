@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月徳島・祖谷温泉の日本三大秘境初雪渓谷美と谷底露天風呂】特選阿波牛・名物祖谷そば＆ケーブルカーで行く秘湯の宿5選",
     description: "11月から12月にかけて四国の霊峰・剣山山系の深山幽谷に抱かれた「徳島・祖谷渓（いやけい）＆大歩危峡（おおぼけきょう）」は、日本三大秘境にふさわしい静寂と、初冠雪の白銀に化粧されたV字渓谷の圧倒的な自然美に包まれます。断崖絶壁から専用ケーブルカーで高低差170mの谷底へ下り、エメラルドグリーンの祖谷川の清流すれすれで浸かる自噴掛け流しの単純硫黄泉。スロープカーで登る天空露天風呂、とろける旨味の極上黒毛和牛「阿波牛」の陶板焼き、香り高い名物「祖谷そば」、囲炉裏の炭火で香ばしく焼き上げる郷土の伝統料理「でこまわし」を満喫する至高の秘湯宿5選を徹底解説。",
-    url: 'https://croud-travel.com/winter-tokushima-iya-valley-onsen-hikyo-awa-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-tokushima-iya-valley-onsen-hikyo-awa-beef-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -62,10 +62,10 @@ export default function IyaOnsenWinterFeature() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-tokushima-iya-valley-onsen-hikyo-awa-beef-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-tokushima-iya-valley-onsen-hikyo-awa-beef-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-tokushima-iya-valley-onsen-hikyo-awa-beef-stay"
+          "@id": "https://croud-travel.pages.dev/winter-tokushima-iya-valley-onsen-hikyo-awa-beef-stay"
         },
         "headline": "【11・12月徳島・祖谷温泉の日本三大秘境初雪渓谷美と谷底露天風呂】特選阿波牛・名物祖谷そば＆ケーブルカーで行く秘湯の宿5選",
         "description": "11月から12月にかけて四国の霊峰・剣山山系の深山幽谷に抱かれた「徳島・祖谷渓（いやけい）＆大歩危峡（おおぼけきょう）」は、日本三大秘境にふさわしい静寂と、初冠雪の白銀に化粧されたV字渓谷の圧倒的な自然美に包まれます。断崖絶壁から専用ケーブルカーで高低差170mの谷底へ下り、エメラルドグリーンの祖谷川の清流すれすれで浸かる自噴掛け流しの単純硫黄泉。スロープカーで登る天空露天風呂、とろける旨味の極上黒毛和牛「阿波牛」の陶板焼き、香り高い名物「祖谷そば」、囲炉裏の炭火で香ばしく焼き上げる郷土の伝統料理「でこまわし」を満喫する至高の秘湯宿5選を徹底解説。",
@@ -77,7 +77,7 @@ export default function IyaOnsenWinterFeature() {
           "name": "Croud Travel",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "author": {
@@ -88,31 +88,31 @@ export default function IyaOnsenWinterFeature() {
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://croud-travel.com/winter-tokushima-iya-valley-onsen-hikyo-awa-beef-stay#breadcrumb",
+        "@id": "https://croud-travel.pages.dev/winter-tokushima-iya-valley-onsen-hikyo-awa-beef-stay#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com/"
+            "item": "https://croud-travel.pages.dev/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "徳島・祖谷温泉 日本三大秘境の谷底露天風呂と阿波牛の宿",
-            "item": "https://croud-travel.com/winter-tokushima-iya-valley-onsen-hikyo-awa-beef-stay"
+            "item": "https://croud-travel.pages.dev/winter-tokushima-iya-valley-onsen-hikyo-awa-beef-stay"
           }
         ]
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-tokushima-iya-valley-onsen-hikyo-awa-beef-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-tokushima-iya-valley-onsen-hikyo-awa-beef-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",

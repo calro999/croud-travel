@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月今治】冬の来島海峡絶景＆日本総鎮守・大山祇神社新春初詣！来島天然真鯛と名湯に寛ぐ厳選宿5選",
     description: "冬の瀬戸内海は澄み渡る青空と多島美が最も美しく輝く季節。世界初の三連吊橋「来島海峡大橋」が架かる愛媛県今治市と、日本総鎮守・大山祇神社が鎮座する大三島。激流で引き締まる冬の最高峰「来島海峡天然真鯛」の鯛めしや鯛鍋、伊予牛、今治鉄板焼き鳥に舌鼓を打ち、美肌の名湯「鈍川温泉」や「湯ノ浦温泉」で心身を温める。楽天APIから最新取得した信頼の名宿5選を徹底特集します。",
-    url: 'https://croud-travel.com/winter-ehime-imabari-shimanami-oomishima-taimeshi-onsen-stay',
+    url: 'https://croud-travel.pages.dev/winter-ehime-imabari-shimanami-oomishima-taimeshi-onsen-stay',
     type: 'article'
   }
 };
@@ -153,19 +153,19 @@ export default function EhimeImabariWinterFeaturePage() {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com/"
+            "item": "https://croud-travel.pages.dev/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "【11・12・1月今治】冬の来島海峡絶景＆日本総鎮守・大山祇神社新春初詣！来島天然真鯛と名湯に寛ぐ厳選宿5選",
-            "item": 'https://croud-travel.com/winter-ehime-imabari-shimanami-oomishima-taimeshi-onsen-stay'
+            "item": 'https://croud-travel.pages.dev/winter-ehime-imabari-shimanami-oomishima-taimeshi-onsen-stay'
           }
         ]
       },
@@ -182,7 +182,7 @@ export default function EhimeImabariWinterFeaturePage() {
           "name": "旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/icon.png"
+            "url": "https://croud-travel.pages.dev/icon.png"
           }
         },
         "datePublished": "2026-10-03",

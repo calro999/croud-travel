@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月奈良・大和路奈良町温泉の初冬古都散策と若草山冬景色】名物極上大和牛すき焼き＆飛鳥鍋・東大寺大仏殿を望む歴史名宿5選",
     description: "11月から12月にかけて、1300年の歴史を誇る古都・奈良は、秋の喧騒が落ち着きを取り戻し、澄み切った初冬の青空の下で静謐な大和路の風情が色濃くなります。冬枯れの木立と愛らしい鹿たちが佇む奈良公園、雪化粧を始めた若草山、凛とした空気に包まれる世界遺産・東大寺大仏殿や春日大社、風情ある格子戸が連なる「ならまち」の散策。夕食には大和の豊かな風土が育んだ最高峰の黒毛和牛「大和牛（やまとうし）」のすき焼きや陶板焼き、牛乳ベースの優しい出汁に鶏肉や旬野菜が溶け合う古代宮廷伝承の郷土鍋「飛鳥鍋（あすかなべ）」、大和野菜。古都の天然温泉に浸かり、歴史の深遠に抱かれる厳選名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-nara-yamatoji-wakakusayama-yamatogyu-asukabeef-stay',
+    url: 'https://croud-travel.pages.dev/winter-nara-yamatoji-wakakusayama-yamatogyu-asukabeef-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -166,28 +166,28 @@ export default function WinterNaraYamatojiPage() {
     '@graph': [
       {
         '@type': 'Article',
-        '@id': 'https://croud-travel.com/winter-nara-yamatoji-wakakusayama-yamatogyu-asukabeef-stay#article',
+        '@id': 'https://croud-travel.pages.dev/winter-nara-yamatoji-wakakusayama-yamatogyu-asukabeef-stay#article',
         'isPartOf': {
           '@type': 'WebSite',
-          '@id': 'https://croud-travel.com/#website',
+          '@id': 'https://croud-travel.pages.dev/#website',
           'name': 'クラドトラベル',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         },
         'headline': "【11・12月奈良・大和路奈良町温泉の初冬古都散策と若草山冬景色】名物極上大和牛すき焼き＆飛鳥鍋・東大寺大仏殿を望む歴史名宿5選",
         'description': "11月から12月にかけて、1300年の歴史を誇る古都・奈良は、秋の喧騒が落ち着きを取り戻し、澄み切った初冬の青空の下で静謐な大和路の風情が色濃くなります。冬枯れの木立と愛らしい鹿たちが佇む奈良公園、雪化粧を始めた若草山、凛とした空気に包まれる世界遺産・東大寺大仏殿や春日大社、風情ある格子戸が連なる「ならまち」の散策。夕食には大和の豊かな風土が育んだ最高峰の黒毛和牛「大和牛（やまとうし）」のすき焼きや陶板焼き、牛乳ベースの優しい出汁に鶏肉や旬野菜が溶け合う古代宮廷伝承の郷土鍋「飛鳥鍋（あすかなべ）」、大和野菜。古都の天然温泉に浸かり、歴史の深遠に抱かれる厳選名宿5選を徹底解説します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.com/winter-nara-yamatoji-wakakusayama-yamatogyu-asukabeef-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-nara-yamatoji-wakakusayama-yamatogyu-asukabeef-stay',
         'datePublished': '2026-09-28T00:00:00+09:00',
         'dateModified': '2026-09-28T00:00:00+09:00',
         'publisher': {
           '@type': 'Organization',
           'name': 'クラドトラベル編集部',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         }
       },
       {
         '@type': 'TouristDestination',
-        '@id': 'https://croud-travel.com/winter-nara-yamatoji-wakakusayama-yamatogyu-asukabeef-stay#destination',
+        '@id': 'https://croud-travel.pages.dev/winter-nara-yamatoji-wakakusayama-yamatogyu-asukabeef-stay#destination',
         'name': '奈良・大和路奈良町',
         'description': '1300年の歴史息づく古都。初冬の東大寺大仏殿や若草山冬景色、極上大和牛すき焼きや飛鳥鍋、歴史ある名宿が魅力。',
         'geo': {
@@ -198,7 +198,7 @@ export default function WinterNaraYamatojiPage() {
       },
       {
         '@type': 'FAQPage',
-        '@id': 'https://croud-travel.com/winter-nara-yamatoji-wakakusayama-yamatogyu-asukabeef-stay#faq',
+        '@id': 'https://croud-travel.pages.dev/winter-nara-yamatoji-wakakusayama-yamatogyu-asukabeef-stay#faq',
         'mainEntity': faqList.map((f) => ({
           '@type': 'Question',
           'name': f.q,
@@ -210,7 +210,7 @@ export default function WinterNaraYamatojiPage() {
       },
       {
         '@type': 'ItemList',
-        '@id': 'https://croud-travel.com/winter-nara-yamatoji-wakakusayama-yamatogyu-asukabeef-stay#hotellist',
+        '@id': 'https://croud-travel.pages.dev/winter-nara-yamatoji-wakakusayama-yamatogyu-asukabeef-stay#hotellist',
         'name': '奈良・大和路のおすすめ名宿5選',
         'itemListElement': hotels.map((h, idx) => ({
           '@type': 'ListItem',

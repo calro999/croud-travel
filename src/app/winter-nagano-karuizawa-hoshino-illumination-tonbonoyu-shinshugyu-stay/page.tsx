@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月長野】冬の軽井沢高原リゾート・星野エリアもみの木イルミネーション＆星野温泉トンボの湯雪見風呂・信州プレミアム牛薪火ディナーを満喫する極上高原名宿5選",
     description: "11月から1月、浅間山の南麓に位置する避暑地・軽井沢は、観光の喧騒が去り、澄み切った青空と白銀の静寂に包まれる最も美しい季節を迎えます。星野エリアに輝く高さ10mの天然もみの木イルミネーション、湯煙漂う美肌の湯「星野温泉 トンボの湯」の雪見露天風呂、せせらぎ沿いに薪ストーブが灯るハルニレテラス、そして冬の寒気の中で味わう信州プレミアム牛の薪火グリルや本格フレンチ。冬の軽井沢の洗練されたリゾートステイを叶える厳選名宿5選と1泊2日の冬のモデルコースを徹底解説します。",
-    url: 'https://croud-travel.com/winter-nagano-karuizawa-hoshino-illumination-tonbonoyu-shinshugyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-nagano-karuizawa-hoshino-illumination-tonbonoyu-shinshugyu-stay',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -50,19 +50,19 @@ export default function NaganoKaruizawaHoshinoWinterPage() {
     author: {
       '@type': 'Organization',
       name: 'クラドトラベル編集部',
-      url: 'https://croud-travel.com'
+      url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
       name: 'クラドトラベル',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://croud-travel.com/logo.png'
+        url: 'https://croud-travel.pages.dev/logo.png'
       }
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.com/winter-nagano-karuizawa-hoshino-illumination-tonbonoyu-shinshugyu-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-nagano-karuizawa-hoshino-illumination-tonbonoyu-shinshugyu-stay'
     }
   };
 
@@ -74,19 +74,19 @@ export default function NaganoKaruizawaHoshinoWinterPage() {
         '@type': 'ListItem',
         position: 1,
         name: 'ホーム',
-        item: 'https://croud-travel.com'
+        item: 'https://croud-travel.pages.dev'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.com/features'
+        item: 'https://croud-travel.pages.dev/features'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '冬の軽井沢星野イルミネーション＆温泉特集',
-        item: 'https://croud-travel.com/winter-nagano-karuizawa-hoshino-illumination-tonbonoyu-shinshugyu-stay'
+        item: 'https://croud-travel.pages.dev/winter-nagano-karuizawa-hoshino-illumination-tonbonoyu-shinshugyu-stay'
       }
     ]
   };

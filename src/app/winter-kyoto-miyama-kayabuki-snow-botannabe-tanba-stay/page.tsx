@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【12・1月京都】美山かやぶきの里＆丹波！白銀の茅葺き集落雪景色と雪灯廊・冬の最高峰「天然ぼたん鍋」＆里山雪見温泉名宿5選",
     description: "日本の原風景が色濃く残る京都府南丹市「美山かやぶきの里」。12〜1月は茅葺き屋根の上に純白の雪が降り積もり、昔話の世界のような静寂と温もりに包まれます。1月下旬には集落全体が雪灯籠の柔らかな光に照らされる「美山雪灯廊」が開幕。丹波地方の冬の王様・天然猪肉の熱々「ぼたん鍋」や丹波牛、湯の花温泉の美肌露天風呂を満喫できる厳選名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-kyoto-miyama-kayabuki-snow-botannabe-tanba-stay',
+    url: 'https://croud-travel.pages.dev/winter-kyoto-miyama-kayabuki-snow-botannabe-tanba-stay',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',
     type: 'article',
@@ -166,10 +166,10 @@ export default function KyotoMiyamaTanbaWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-kyoto-miyama-kayabuki-snow-botannabe-tanba-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-kyoto-miyama-kayabuki-snow-botannabe-tanba-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-kyoto-miyama-kayabuki-snow-botannabe-tanba-stay"
+          "@id": "https://croud-travel.pages.dev/winter-kyoto-miyama-kayabuki-snow-botannabe-tanba-stay"
         },
         "headline": "【12・1月京都】美山かやぶきの里＆丹波！白銀の茅葺き集落雪景色と雪灯廊・冬の最高峰「天然ぼたん鍋」＆里山雪見温泉名宿5選",
         "description": "日本の原風景が色濃く残る京都府南丹市「美山かやぶきの里」。12〜1月は茅葺き屋根の上に純白の雪が降り積もり、昔話の世界のような静寂と温もりに包まれます。1月下旬には集落全体が雪灯籠の柔らかな光に照らされる「美山雪灯廊」が開幕。丹波地方の冬の王様・天然猪肉の熱々「ぼたん鍋」や丹波牛、湯の花温泉の美肌露天風呂を満喫できる厳選名宿5選を徹底解説します。",
@@ -179,7 +179,7 @@ export default function KyotoMiyamaTanbaWinterPage() {
         "publisher": {
           "@type": "Organization",
           "name": "地域の宿探訪",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         }
       },
       {
@@ -189,19 +189,19 @@ export default function KyotoMiyamaTanbaWinterPage() {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com"
+            "item": "https://croud-travel.pages.dev"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "美山かやぶきの里＆丹波冬特集",
-            "item": "https://croud-travel.com/winter-kyoto-miyama-kayabuki-snow-botannabe-tanba-stay"
+            "item": "https://croud-travel.pages.dev/winter-kyoto-miyama-kayabuki-snow-botannabe-tanba-stay"
           }
         ]
       },

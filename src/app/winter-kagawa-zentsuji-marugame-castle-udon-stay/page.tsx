@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月香川】善通寺＆丸亀！弘法大師生誕地・総本山善通寺の雪の初詣と丸亀城石垣ライトアップ・冬の讃岐しっぽくうどん＆骨付鳥名宿5選",
     description: "真言宗開祖・弘法大師空海の御生誕の地であり四国霊場第75番札所の総本山善通寺での荘厳な初詣。日本一の石垣美を誇る現存十二天守・丸亀城の冬のライトアップや、冬期限定の具だくさん郷土麺「讃岐しっぽくうどん」、丸亀発祥のスパイシーな「骨付鳥」。瀬戸内海を望む展望風呂や名湯こんぴら温泉に癒やされる厳選名宿5選を徹底特集します。",
-    url: 'https://croud-travel.com/winter-kagawa-zentsuji-marugame-castle-udon-stay',
+    url: 'https://croud-travel.pages.dev/winter-kagawa-zentsuji-marugame-castle-udon-stay',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',
     type: 'article',
@@ -164,10 +164,10 @@ export default function KagawaZentsujiMarugamePage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-kagawa-zentsuji-marugame-castle-udon-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-kagawa-zentsuji-marugame-castle-udon-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-kagawa-zentsuji-marugame-castle-udon-stay"
+          "@id": "https://croud-travel.pages.dev/winter-kagawa-zentsuji-marugame-castle-udon-stay"
         },
         "headline": "【11・12・1月香川】善通寺＆丸亀！弘法大師生誕地・総本山善通寺の雪の初詣と丸亀城石垣ライトアップ・冬の讃岐しっぽくうどん＆骨付鳥名宿5選",
         "description": "真言宗開祖・弘法大師空海の御生誕の地であり四国霊場第75番札所の総本山善通寺での荘厳な初詣。日本一の石垣美を誇る現存十二天守・丸亀城の冬のライトアップや、冬期限定の具だくさん郷土麺「讃岐しっぽくうどん」、丸亀発祥のスパイシーな「骨付鳥」。瀬戸内海を望む展望風呂や名湯こんぴら温泉に癒やされる厳選名宿5選を徹底特集します。",
@@ -177,44 +177,44 @@ export default function KagawaZentsujiMarugamePage() {
         "publisher": {
           "@type": "Organization",
           "name": "地域の宿探訪",
-          "url": "https://croud-travel.com",
+          "url": "https://croud-travel.pages.dev",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-kagawa-zentsuji-marugame-castle-udon-stay"
+          "@id": "https://croud-travel.pages.dev/winter-kagawa-zentsuji-marugame-castle-udon-stay"
         }
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://croud-travel.com/winter-kagawa-zentsuji-marugame-castle-udon-stay#breadcrumb",
+        "@id": "https://croud-travel.pages.dev/winter-kagawa-zentsuji-marugame-castle-udon-stay#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com"
+            "item": "https://croud-travel.pages.dev"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "善通寺＆丸亀・弘法大師初詣としっぽくうどん名宿",
-            "item": "https://croud-travel.com/winter-kagawa-zentsuji-marugame-castle-udon-stay"
+            "item": "https://croud-travel.pages.dev/winter-kagawa-zentsuji-marugame-castle-udon-stay"
           }
         ]
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-kagawa-zentsuji-marugame-castle-udon-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-kagawa-zentsuji-marugame-castle-udon-stay#faq",
         "mainEntity": faqs.map(f => ({
           "@type": "Question",
           "name": f.q,

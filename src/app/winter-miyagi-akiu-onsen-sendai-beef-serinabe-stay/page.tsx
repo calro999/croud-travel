@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月秋保温泉の初冬渓谷美と名湯】伊達政宗公ゆかりの奥座敷・最高峰A5仙台牛＆名物せり鍋の宿5選",
     description: "杜の都・仙台の奥座敷として開湯1500年の歴史を誇り、日本三御湯の一つに数えられる秋保温泉。11月中旬の磊々峡の晩秋から12月の初雪へと移ろう初冬、名取川渓谷を望む露天風呂と、宮城の冬の風物詩「仙台せり鍋」、霜降り極上のA5仙台牛ステーキを心ゆくまで堪能する名宿ガイド。",
-    url: 'https://croud-travel.com/winter-miyagi-akiu-onsen-sendai-beef-serinabe-stay',
+    url: 'https://croud-travel.pages.dev/winter-miyagi-akiu-onsen-sendai-beef-serinabe-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -63,7 +63,7 @@ export default function AkiuWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-miyagi-akiu-onsen-sendai-beef-serinabe-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-miyagi-akiu-onsen-sendai-beef-serinabe-stay#article",
         "headline": "【11・12月秋保温泉の初冬渓谷美と名湯】伊達政宗公ゆかりの奥座敷・最高峰A5仙台牛＆名物せり鍋の宿5選",
         "description": "杜の都・仙台の奥座敷として開湯1500年の歴史を誇り、日本三御湯の一つに数えられる秋保温泉。11月中旬の磊々峡の晩秋から12月の初雪へと移ろう初冬、名取川渓谷を望む露天風呂と、宮城の冬の風物詩「仙台せり鍋」、霜降り極上のA5仙台牛ステーキを心ゆくまで堪能する名宿ガイド。",
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
@@ -72,24 +72,24 @@ export default function AkiuWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-miyagi-akiu-onsen-sendai-beef-serinabe-stay"
+          "@id": "https://croud-travel.pages.dev/winter-miyagi-akiu-onsen-sendai-beef-serinabe-stay"
         }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-miyagi-akiu-onsen-sendai-beef-serinabe-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-miyagi-akiu-onsen-sendai-beef-serinabe-stay#faq",
         "mainEntity": faqList.map(f => ({
           "@type": "Question",
           "name": f.q,
@@ -101,7 +101,7 @@ export default function AkiuWinterPage() {
       },
       {
         "@type": "ItemList",
-        "@id": "https://croud-travel.com/winter-miyagi-akiu-onsen-sendai-beef-serinabe-stay#hotels",
+        "@id": "https://croud-travel.pages.dev/winter-miyagi-akiu-onsen-sendai-beef-serinabe-stay#hotels",
         "itemListElement": [
           {
             "@type": "ListItem",
@@ -628,32 +628,7 @@ export default function AkiuWinterPage() {
         </section>
 
         {/* FAQ Section */}
-        <section id="faq" className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-stone-200/80 space-y-6">
-          <div className="flex items-center gap-3 pb-3 border-b border-stone-100">
-            <div className="p-2 rounded-xl bg-emerald-50 text-emerald-800">
-              <HelpCircle className="w-5 h-5" />
-            </div>
-            <div>
-              <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Traveler's FAQ</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                よくある質問（FAQ）と初冬の旅のアドバイス
-              </h2>
-            </div>
-          </div>
-          <div className="space-y-4">
-            {faqList.map((faq, idx) => (
-              <div key={idx} className="p-5 rounded-2xl bg-stone-50 border border-stone-200/70 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-emerald-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
-                <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
-                  {faq.a}
-                </p>
-              </div>
-            ))}
-          </div>
-        </section>
+        
 
         {/* Internal Links / Related Guides */}
         <section className="bg-emerald-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">

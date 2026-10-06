@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月那須温泉郷の初冬高原美と名湯】茶臼岳雪化粧と開湯千三百年鹿の湯・最高峰那須与一牛＆高原温泉会席の宿5選",
     description: "舒明天皇の御代、白鹿の傷を癒やした伝説から千三百年。那須連山茶臼岳の山懐に湧く栃木県最古の名湯「那須温泉郷」。11月中旬の冠雪から12月の白銀パノラマへと移ろう初冬のロイヤルリゾート。名湯「鹿の湯」源泉を引く白濁露天と、最高峰ブランド「那須与一牛」を味わう名宿ガイド。",
-    url: 'https://croud-travel.com/winter-tochigi-nasu-onsen-shikanoyu-snow-stay',
+    url: 'https://croud-travel.pages.dev/winter-tochigi-nasu-onsen-shikanoyu-snow-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -63,7 +63,7 @@ export default function NasuWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-tochigi-nasu-onsen-shikanoyu-snow-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-tochigi-nasu-onsen-shikanoyu-snow-stay#article",
         "headline": "【11・12月那須温泉郷の初冬高原美と名湯】茶臼岳雪化粧と開湯千三百年鹿の湯・最高峰那須与一牛＆高原温泉会席の宿5選",
         "description": "舒明天皇の御代、白鹿の傷を癒やした伝説から千三百年。那須連山茶臼岳の山懐に湧く栃木県最古の名湯「那須温泉郷」。11月中旬の冠雪から12月の白銀パノラマへと移ろう初冬のロイヤルリゾート。名湯「鹿の湯」源泉を引く白濁露天と、最高峰ブランド「那須与一牛」を味わう名宿ガイド。",
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
@@ -72,24 +72,24 @@ export default function NasuWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-tochigi-nasu-onsen-shikanoyu-snow-stay"
+          "@id": "https://croud-travel.pages.dev/winter-tochigi-nasu-onsen-shikanoyu-snow-stay"
         }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-tochigi-nasu-onsen-shikanoyu-snow-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-tochigi-nasu-onsen-shikanoyu-snow-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -127,7 +127,7 @@ export default function NasuWinterPage() {
       },
       {
         "@type": "ItemList",
-        "@id": "https://croud-travel.com/winter-tochigi-nasu-onsen-shikanoyu-snow-stay#hotels",
+        "@id": "https://croud-travel.pages.dev/winter-tochigi-nasu-onsen-shikanoyu-snow-stay#hotels",
         "itemListElement": [
           {
             "@type": "ListItem",
@@ -655,32 +655,7 @@ export default function NasuWinterPage() {
         </section>
 
         {/* FAQ Section */}
-        <section id="faq" className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-stone-200/80 space-y-6">
-          <div className="flex items-center gap-3 pb-3 border-b border-stone-100">
-            <div className="p-2 rounded-xl bg-amber-50 text-amber-800">
-              <HelpCircle className="w-5 h-5" />
-            </div>
-            <div>
-              <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Traveler's FAQ</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                よくある質問（FAQ）と初冬の旅のアドバイス
-              </h2>
-            </div>
-          </div>
-          <div className="space-y-4">
-            {faqList.map((faq, idx) => (
-              <div key={idx} className="p-5 rounded-2xl bg-stone-50 border border-stone-200/70 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-amber-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
-                <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
-                  {faq.a}
-                </p>
-              </div>
-            ))}
-          </div>
-        </section>
+        
 
         {/* Internal Links / Related Guides */}
         <section className="bg-amber-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">

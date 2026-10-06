@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月愛知】豊川稲荷初詣と奥三河・湯谷温泉！霊狐塚の神秘と源泉かけ流し雪見露天・三河牛＆名物いなり名宿5選",
     description: "新春の祈りと奥三河の秘湯に癒やされる11〜1月の愛知・東三河旅行完全ガイド。日本三大稲荷として全国から信仰を集める「豊川稲荷（妙厳寺）」の新春初詣や、千体余りの白狐が佇む神秘の「霊狐塚」、門前町を彩る多彩な「豊川いなり寿司」。足を延ばして宇連川の渓谷美と雪景色を望む開湯1300年の名湯「湯谷温泉」での源泉掛け流し雪見露天風呂、極上の三河牛・鳳来牛会席を堪能できる厳選名宿5選を詳しくご紹介します。",
-    url: 'https://croud-travel.com/winter-aichi-toyokawa-inari-hatsumode-yuya-onsen-stay',
+    url: 'https://croud-travel.pages.dev/winter-aichi-toyokawa-inari-hatsumode-yuya-onsen-stay',
     type: 'article',
     images: [
       {
@@ -49,19 +49,19 @@ export default function AichiToyokawaYuyaWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "旅クラウド編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "旅クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-aichi-toyokawa-inari-hatsumode-yuya-onsen-stay"
+          "@id": "https://croud-travel.pages.dev/winter-aichi-toyokawa-inari-hatsumode-yuya-onsen-stay"
         }
       },
       {
@@ -71,19 +71,19 @@ export default function AichiToyokawaYuyaWinterPage() {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com"
+            "item": "https://croud-travel.pages.dev"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "冬の旅特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "愛知・豊川稲荷初詣＆奥三河湯谷温泉名宿",
-            "item": "https://croud-travel.com/winter-aichi-toyokawa-inari-hatsumode-yuya-onsen-stay"
+            "item": "https://croud-travel.pages.dev/winter-aichi-toyokawa-inari-hatsumode-yuya-onsen-stay"
           }
         ]
       },

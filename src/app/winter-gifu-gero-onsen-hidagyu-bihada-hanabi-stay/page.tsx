@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月岐阜・下呂温泉の日本三名泉と冬花火物語】名物飛騨牛すき焼き＆朴葉味噌・極上の美肌ぬめり湯を堪能する老舗名宿5選",
     description: "11月から12月にかけて、室町時代の儒学者・万里集九や江戸時代の儒学者・林羅山によって有馬・草津と並ぶ「日本三名泉」に称えられた岐阜県の下呂温泉（げろおんせん）は、澄み切った初冬の空気と幻想的な温泉街の明かりが旅情をそそる最高の季節を迎えます。pH9.2前後のアルカリ性単純温泉は、入浴した瞬間に肌がツルツルと滑らかになる天然の石鹸効果を誇る「美肌の湯」。12月に入ると飛騨川河畔で毎週土曜日に「下呂温泉花火物語（冬花火）」が開催され、冬の夜空に大輪の華が咲き誇ります。夕食にはきめ細やかなサシと芳醇な香りがとろける最高級「飛騨牛」のすき焼きや陶板焼き、香ばしい「朴葉味噌（ほおばみそ）」焼き。初冬の飛騨路で極上のぬくもりに浸る厳選名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-gifu-gero-onsen-hidagyu-bihada-hanabi-stay',
+    url: 'https://croud-travel.pages.dev/winter-gifu-gero-onsen-hidagyu-bihada-hanabi-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -166,28 +166,28 @@ export default function WinterGifuGeroOnsenPage() {
     '@graph': [
       {
         '@type': 'Article',
-        '@id': 'https://croud-travel.com/winter-gifu-gero-onsen-hidagyu-bihada-hanabi-stay#article',
+        '@id': 'https://croud-travel.pages.dev/winter-gifu-gero-onsen-hidagyu-bihada-hanabi-stay#article',
         'isPartOf': {
           '@type': 'WebSite',
-          '@id': 'https://croud-travel.com/#website',
+          '@id': 'https://croud-travel.pages.dev/#website',
           'name': 'クラドトラベル',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         },
         'headline': "【11・12月岐阜・下呂温泉の日本三名泉と冬花火物語】名物飛騨牛すき焼き＆朴葉味噌・極上の美肌ぬめり湯を堪能する老舗名宿5選",
         'description': "11月から12月にかけて、室町時代の儒学者・万里集九や江戸時代の儒学者・林羅山によって有馬・草津と並ぶ「日本三名泉」に称えられた岐阜県の下呂温泉（げろおんせん）は、澄み切った初冬の空気と幻想的な温泉街の明かりが旅情をそそる最高の季節を迎えます。pH9.2前後のアルカリ性単純温泉は、入浴した瞬間に肌がツルツルと滑らかになる天然の石鹸効果を誇る「美肌の湯」。12月に入ると飛騨川河畔で毎週土曜日に「下呂温泉花火物語（冬花火）」が開催され、冬の夜空に大輪の華が咲き誇ります。夕食にはきめ細やかなサシと芳醇な香りがとろける最高級「飛騨牛」のすき焼きや陶板焼き、香ばしい「朴葉味噌（ほおばみそ）」焼き。初冬の飛騨路で極上のぬくもりに浸る厳選名宿5選を徹底解説します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.com/winter-gifu-gero-onsen-hidagyu-bihada-hanabi-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-gifu-gero-onsen-hidagyu-bihada-hanabi-stay',
         'datePublished': '2026-09-29T00:00:00+09:00',
         'dateModified': '2026-09-29T00:00:00+09:00',
         'publisher': {
           '@type': 'Organization',
           'name': 'クラドトラベル編集部',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         }
       },
       {
         '@type': 'TouristDestination',
-        '@id': 'https://croud-travel.com/winter-gifu-gero-onsen-hidagyu-bihada-hanabi-stay#destination',
+        '@id': 'https://croud-travel.pages.dev/winter-gifu-gero-onsen-hidagyu-bihada-hanabi-stay#destination',
         'name': '岐阜・下呂温泉',
         'description': '日本三名泉の一つに数えられる岐阜県の名湯。pH9.2のアルカリ性美肌ぬめり湯、冬花火物語、極上飛騨牛が魅力。',
         'geo': {
@@ -198,7 +198,7 @@ export default function WinterGifuGeroOnsenPage() {
       },
       {
         '@type': 'FAQPage',
-        '@id': 'https://croud-travel.com/winter-gifu-gero-onsen-hidagyu-bihada-hanabi-stay#faq',
+        '@id': 'https://croud-travel.pages.dev/winter-gifu-gero-onsen-hidagyu-bihada-hanabi-stay#faq',
         'mainEntity': faqList.map((f) => ({
           '@type': 'Question',
           'name': f.q,
@@ -210,7 +210,7 @@ export default function WinterGifuGeroOnsenPage() {
       },
       {
         '@type': 'ItemList',
-        '@id': 'https://croud-travel.com/winter-gifu-gero-onsen-hidagyu-bihada-hanabi-stay#hotellist',
+        '@id': 'https://croud-travel.pages.dev/winter-gifu-gero-onsen-hidagyu-bihada-hanabi-stay#hotellist',
         'name': '岐阜下呂温泉のおすすめ名宿5選',
         'itemListElement': hotels.map((h, idx) => ({
           '@type': 'ListItem',

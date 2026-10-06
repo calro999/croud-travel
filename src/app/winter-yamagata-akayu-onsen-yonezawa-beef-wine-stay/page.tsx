@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月山形・赤湯温泉の置賜盆地雲海と開湯920年名湯】特選米沢牛すき焼き・日本最古級赤湯ワイン＆自家源泉掛け流しの宿5選",
     description: "11月から12月にかけて山形県置賜地方の赤湯温泉は、晩秋の澄み切った冷気の中で置賜盆地全体を真っ白な霧が覆う幻想的な「白竜湖の雲海」が発生し、奥羽山脈の山々が初冠雪で輝く美しい季節を迎えます。寛治7年（1093年）開湯、源義家の弟・義綱が発見したと伝わる名湯は、湯上がりに肌がしっとりと潤う弱アルカリ性硫黄・塩化物泉。日本三大和牛と称される最高峰「米沢牛」のとろける霜降りすき焼きやステーキ、明治時代から続く酒井ワイナリーなど日本屈指の老舗ワイナリーが醸す赤湯ワイン、山形新幹線赤湯駅からの抜群のアクセスを誇る名宿5選を徹底解説。",
-    url: 'https://croud-travel.com/winter-yamagata-akayu-onsen-yonezawa-beef-wine-stay',
+    url: 'https://croud-travel.pages.dev/winter-yamagata-akayu-onsen-yonezawa-beef-wine-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -62,10 +62,10 @@ export default function AkayuOnsenWinterFeature() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-yamagata-akayu-onsen-yonezawa-beef-wine-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-yamagata-akayu-onsen-yonezawa-beef-wine-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-yamagata-akayu-onsen-yonezawa-beef-wine-stay"
+          "@id": "https://croud-travel.pages.dev/winter-yamagata-akayu-onsen-yonezawa-beef-wine-stay"
         },
         "headline": "【11・12月山形・赤湯温泉の置賜盆地雲海と開湯920年名湯】特選米沢牛すき焼き・日本最古級赤湯ワイン＆自家源泉掛け流しの宿5選",
         "description": "11月から12月にかけて山形県置賜地方の赤湯温泉は、晩秋の澄み切った冷気の中で置賜盆地全体を真っ白な霧が覆う幻想的な「白竜湖の雲海」が発生し、奥羽山脈の山々が初冠雪で輝く美しい季節を迎えます。寛治7年（1093年）開湯、源義家の弟・義綱が発見したと伝わる名湯は、湯上がりに肌がしっとりと潤う弱アルカリ性硫黄・塩化物泉。日本三大和牛と称される最高峰「米沢牛」のとろける霜降りすき焼きやステーキ、明治時代から続く酒井ワイナリーなど日本屈指の老舗ワイナリーが醸す赤湯ワイン、山形新幹線赤湯駅からの抜群のアクセスを誇る名宿5選を徹底解説。",
@@ -77,7 +77,7 @@ export default function AkayuOnsenWinterFeature() {
           "name": "Croud Travel",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "author": {
@@ -88,31 +88,31 @@ export default function AkayuOnsenWinterFeature() {
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://croud-travel.com/winter-yamagata-akayu-onsen-yonezawa-beef-wine-stay#breadcrumb",
+        "@id": "https://croud-travel.pages.dev/winter-yamagata-akayu-onsen-yonezawa-beef-wine-stay#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com/"
+            "item": "https://croud-travel.pages.dev/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "山形・赤湯温泉 置賜盆地雲海と米沢牛・赤湯ワインの宿",
-            "item": "https://croud-travel.com/winter-yamagata-akayu-onsen-yonezawa-beef-wine-stay"
+            "item": "https://croud-travel.pages.dev/winter-yamagata-akayu-onsen-yonezawa-beef-wine-stay"
           }
         ]
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-yamagata-akayu-onsen-yonezawa-beef-wine-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-yamagata-akayu-onsen-yonezawa-beef-wine-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",

@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月沖縄】冬の石垣島・星空保護区の南十字星と川平湾エメラルドブルー・極上石垣牛焼肉＆旬の冬アーサを堪能する南国リゾート名宿5選",
     description: "11月から1月、本州の真冬の寒さを逃れて平均気温20度前後の穏やかな暖かさに包まれる八重山諸島の玄関口・石垣島。日本初の「星空保護区」に認定された西表石垣国立公園の夜空には、12月から日本国内で唯一「南十字星」が南の水平線上に輝き始め、ミシュラン三ツ星の名勝「川平湾」は冬の澄み渡る陽光を受けて息をのむエメラルドブルーの輝きを放ちます。冬に旬を迎える採れたて新海苔「アーサ（アオサ）」の磯の香り豊かな郷土料理や、最高峰ブランド黒毛和牛「石垣牛」の炭火焼肉。南国の心地よい島風と極上のホスピタリティに癒やされる厳選リゾート名宿5選と冬のモデルコースを詳しくお届けします。",
-    url: 'https://croud-travel.com/winter-okinawa-ishigaki-kabilabay-starrysky-beef-resort-stay',
+    url: 'https://croud-travel.pages.dev/winter-okinawa-ishigaki-kabilabay-starrysky-beef-resort-stay',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -50,19 +50,19 @@ export default function OkinawaIshigakiKabilabayWinterPage() {
     author: {
       '@type': 'Organization',
       name: 'クラドトラベル編集部',
-      url: 'https://croud-travel.com'
+      url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
       name: 'クラドトラベル',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://croud-travel.com/logo.png'
+        url: 'https://croud-travel.pages.dev/logo.png'
       }
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.com/winter-okinawa-ishigaki-kabilabay-starrysky-beef-resort-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-okinawa-ishigaki-kabilabay-starrysky-beef-resort-stay'
     }
   };
 
@@ -74,19 +74,19 @@ export default function OkinawaIshigakiKabilabayWinterPage() {
         '@type': 'ListItem',
         position: 1,
         name: 'ホーム',
-        item: 'https://croud-travel.com'
+        item: 'https://croud-travel.pages.dev'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.com/features'
+        item: 'https://croud-travel.pages.dev/features'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '石垣島・川平湾＆南十字星特集',
-        item: 'https://croud-travel.com/winter-okinawa-ishigaki-kabilabay-starrysky-beef-resort-stay'
+        item: 'https://croud-travel.pages.dev/winter-okinawa-ishigaki-kabilabay-starrysky-beef-resort-stay'
       }
     ]
   };

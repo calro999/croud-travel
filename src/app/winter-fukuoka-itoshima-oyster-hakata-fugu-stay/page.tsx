@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月福岡】冬の糸島カキ小屋めぐりと玄界灘の天然とらふぐ・熱々博多もつ鍋＆水炊き・海を望むリゾート＆天然温泉を満喫する名宿5選",
     description: "11月から1月、福岡は玄界灘の冬の恵みが一斉に旬を迎える全国屈指の美食パラダイスとなります。福岡市民や全国の旅行者が心待ちにする冬の看板風物詩が、糸島半島（岐志・船越・加布里・福吉）に立ち並ぶ名物「糸島カキ小屋」。炭火やガス火で香ばしく焼き上げるミルキーで濃厚な糸島カキをはじめ、荒海で育った天然とらふぐや高級魚アラ（クエ）、そして寒風の中で湯気を上げる熱々の博多もつ鍋や濃厚白濁スープの博多水炊き。博多駅前の壮大なイルミネーション「光の街・博多」の煌めきや、糸島の美しい海岸美、博多湾を望む絶景オーシャンビューホテル＆屋上天然温泉スパで至福の冬旅を叶える厳選5宿を紹介します。",
-    url: 'https://croud-travel.com/winter-fukuoka-itoshima-oyster-hakata-fugu-stay',
+    url: 'https://croud-travel.pages.dev/winter-fukuoka-itoshima-oyster-hakata-fugu-stay',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -50,19 +50,19 @@ export default function FukuokaItoshimaHakataWinterPage() {
     author: {
       '@type': 'Organization',
       name: 'クラドトラベル編集部',
-      url: 'https://croud-travel.com'
+      url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
       name: 'クラドトラベル',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://croud-travel.com/logo.png'
+        url: 'https://croud-travel.pages.dev/logo.png'
       }
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.com/winter-fukuoka-itoshima-oyster-hakata-fugu-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-fukuoka-itoshima-oyster-hakata-fugu-stay'
     }
   };
 
@@ -74,19 +74,19 @@ export default function FukuokaItoshimaHakataWinterPage() {
         '@type': 'ListItem',
         position: 1,
         name: 'ホーム',
-        item: 'https://croud-travel.com'
+        item: 'https://croud-travel.pages.dev'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.com/features'
+        item: 'https://croud-travel.pages.dev/features'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '糸島カキ小屋と玄界灘とらふぐ・博多冬美食名宿',
-        item: 'https://croud-travel.com/winter-fukuoka-itoshima-oyster-hakata-fugu-stay'
+        item: 'https://croud-travel.pages.dev/winter-fukuoka-itoshima-oyster-hakata-fugu-stay'
       }
     ]
   };

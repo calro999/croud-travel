@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月京都】「天橋立」幻雪の飛龍観と伊根の舟屋雪景色！元伊勢籠神社初詣＆幻の「間人ガニ」・伊根寒ブリ名宿5選",
     description: "「海の京都」丹後地方が幻想的な雪化粧に包まれる11〜1月の冬紀行。日本三景・天橋立が白銀をまとう奇跡の絶景「幻雪の飛龍観」、伊根湾に佇む重要伝統的建造物群「伊根の舟屋」の静謐な雪景色、丹後国一ノ宮「元伊勢 籠神社」新春初詣。間人港の小型船わずか5隻が命がけで獲る緑タグの幻「間人ガニ（たいざがに）」と、脂が乗った「伊根の寒ブリ」しゃぶしゃぶ。天橋立温泉や夕日ヶ浦温泉で冬の贅を極める厳選名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-kyoto-tango-amanohashidate-ine-funaya-taizagani-kanburi-stay',
+    url: 'https://croud-travel.pages.dev/winter-kyoto-tango-amanohashidate-ine-funaya-taizagani-kanburi-stay',
     type: 'article',
     images: [
       {
@@ -48,19 +48,19 @@ export default function KyotoTangoWinterPage() {
     "author": {
       "@type": "Organization",
       "name": "旅宿クラウド 編集部",
-      "url": "https://croud-travel.com"
+      "url": "https://croud-travel.pages.dev"
     },
     "publisher": {
       "@type": "Organization",
       "name": "旅宿クラウド",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://croud-travel.com/logo.png"
+        "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.com/winter-kyoto-tango-amanohashidate-ine-funaya-taizagani-kanburi-stay"
+      "@id": "https://croud-travel.pages.dev/winter-kyoto-tango-amanohashidate-ine-funaya-taizagani-kanburi-stay"
     }
   };
 
@@ -72,19 +72,19 @@ export default function KyotoTangoWinterPage() {
         "@type": "ListItem",
         "position": 1,
         "name": "ホーム",
-        "item": "https://croud-travel.com"
+        "item": "https://croud-travel.pages.dev"
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "特集一覧",
-        "item": "https://croud-travel.com/features"
+        "item": "https://croud-travel.pages.dev/features"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "京都・丹後＆天橋立 冬特集",
-        "item": "https://croud-travel.com/winter-kyoto-tango-amanohashidate-ine-funaya-taizagani-kanburi-stay"
+        "item": "https://croud-travel.pages.dev/winter-kyoto-tango-amanohashidate-ine-funaya-taizagani-kanburi-stay"
       }
     ]
   };
@@ -715,7 +715,7 @@ export default function KyotoTangoWinterPage() {
 
       {/* Footer */}
       <footer className="bg-slate-900 text-slate-400 py-10 px-4 text-center text-xs border-t border-slate-800 mt-16">
-        <p>© 2026 旅宿クラウド (croud-travel.com). All rights reserved.</p>
+        <p>© 2026 旅宿クラウド (croud-travel.pages.dev). All rights reserved.</p>
         <p className="mt-2 text-slate-500">掲載の宿泊料金や施設情報は楽天トラベルAPIより取得した参考データです。最新のプラン内容は各宿泊施設ページをご確認ください。</p>
       </footer>
     </article>

@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月箱根芦ノ湖の冬晴れ富士山絶景】澄み渡る空と雪化粧の富士を望む露天風呂＆極上湯宿5選",
     description: "年間で最も晴天率が高く空気が研ぎ澄まされる11月・12月の箱根芦ノ湖。紺碧の湖面に映る雪化粧の富士山と箱根神社の平和の鳥居。芦ノ湖を望む絶景露天風呂に浸かり、相模湾の冬魚や足柄牛に舌鼓を打つ、首都圏からすぐ行ける至高の冬リゾート温泉ガイド。",
-    url: 'https://croud-travel.com/winter-kanagawa-hakone-fuji-view-onsen-stay',
+    url: 'https://croud-travel.pages.dev/winter-kanagawa-hakone-fuji-view-onsen-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -44,7 +44,7 @@ export default function HakoneWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-kanagawa-hakone-fuji-view-onsen-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-kanagawa-hakone-fuji-view-onsen-stay#article",
         "headline": "【11・12月箱根芦ノ湖の冬晴れ富士山絶景】澄み渡る空と雪化粧の富士を望む露天風呂＆極上湯宿5選",
         "description": "年間で最も晴天率が高く空気が研ぎ澄まされる11月・12月の箱根芦ノ湖。紺碧の湖面に映る雪化粧の富士山と箱根神社の平和の鳥居。芦ノ湖を望む絶景露天風呂に浸かり、相模湾の冬魚や足柄牛に舌鼓を打つ、首都圏からすぐ行ける至高の冬リゾート温泉ガイド。",
         "image": "https://images.unsplash.com/photo-1490806843957-31f4c9a91c65?auto=format&fit=crop&w=1200&q=80",
@@ -53,24 +53,24 @@ export default function HakoneWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-kanagawa-hakone-fuji-view-onsen-stay"
+          "@id": "https://croud-travel.pages.dev/winter-kanagawa-hakone-fuji-view-onsen-stay"
         }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-kanagawa-hakone-fuji-view-onsen-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-kanagawa-hakone-fuji-view-onsen-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -108,7 +108,7 @@ export default function HakoneWinterPage() {
       },
       {
         "@type": "ItemList",
-        "@id": "https://croud-travel.com/winter-kanagawa-hakone-fuji-view-onsen-stay#hotels",
+        "@id": "https://croud-travel.pages.dev/winter-kanagawa-hakone-fuji-view-onsen-stay#hotels",
         "itemListElement": [
           {
             "@type": "ListItem",

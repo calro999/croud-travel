@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月青森・下北半島下風呂温泉】津軽海峡冬景色と名物風間浦あんこう・極重大間マグロと白濁硫黄泉を巡る名宿5選",
     description: "11月から12月にかけて、本州最北端・下北半島の津軽海峡沿いに位置する風間浦村の「下風呂温泉（しもふろおんせん）」は、海峡を渡る寒風と初雪が舞う冬の旅情に包まれます。文豪・井上靖が名作『海峡』の執筆にあたり滞在したこの地は、室町時代から五百年以上の歴史を誇る秘湯。白濁した強い硫黄の香りを放つ「大湯」「新湯」など複数の源泉が湧き、対岸の北海道・恵山岬や海峡を照らすイカ釣り漁船の漁火を望む雪見風呂は圧巻です。さらに初冬の下風呂温泉を語る上で欠かせないのが、全国で唯一、生きたまま水揚げされる幻の極上魚「風間浦鮟鱇（かざまうらあんこう）」。鮮度抜群だからこそ味わえる透明なあんこうの刺身や濃厚な肝和え、熱々のあんこう鍋、そして近隣の大間港から届く「大間マグロ」。最果ての海峡温泉で心身を解き放つ至極の名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-aomori-shimofuro-onsen-oma-maguro-ankou-tsugaru-stay',
+    url: 'https://croud-travel.pages.dev/winter-aomori-shimofuro-onsen-oma-maguro-ankou-tsugaru-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -166,28 +166,28 @@ export default function WinterAomoriShimofuroPage() {
     '@graph': [
       {
         '@type': 'Article',
-        '@id': 'https://croud-travel.com/winter-aomori-shimofuro-onsen-oma-maguro-ankou-tsugaru-stay#article',
+        '@id': 'https://croud-travel.pages.dev/winter-aomori-shimofuro-onsen-oma-maguro-ankou-tsugaru-stay#article',
         'isPartOf': {
           '@type': 'WebSite',
-          '@id': 'https://croud-travel.com/#website',
+          '@id': 'https://croud-travel.pages.dev/#website',
           'name': 'クラドトラベル',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         },
         'headline': "【11・12月青森・下北半島下風呂温泉】津軽海峡冬景色と名物風間浦あんこう・極重大間マグロと白濁硫黄泉を巡る名宿5選",
         'description': "11月から12月にかけて、本州最北端・下北半島の津軽海峡沿いに位置する風間浦村の「下風呂温泉（しもふろおんせん）」は、海峡を渡る寒風と初雪が舞う冬の旅情に包まれます。文豪・井上靖が名作『海峡』の執筆にあたり滞在したこの地は、室町時代から五百年以上の歴史を誇る秘湯。白濁した強い硫黄の香りを放つ「大湯」「新湯」など複数の源泉が湧き、対岸の北海道・恵山岬や海峡を照らすイカ釣り漁船の漁火を望む雪見風呂は圧巻です。さらに初冬の下風呂温泉を語る上で欠かせないのが、全国で唯一、生きたまま水揚げされる幻の極上魚「風間浦鮟鱇（かざまうらあんこう）」。鮮度抜群だからこそ味わえる透明なあんこうの刺身や濃厚な肝和え、熱々のあんこう鍋、そして近隣の大間港から届く「大間マグロ」。最果ての海峡温泉で心身を解き放つ至極の名宿5選を徹底解説します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.com/winter-aomori-shimofuro-onsen-oma-maguro-ankou-tsugaru-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-aomori-shimofuro-onsen-oma-maguro-ankou-tsugaru-stay',
         'datePublished': '2026-09-29T00:00:00+09:00',
         'dateModified': '2026-09-29T00:00:00+09:00',
         'publisher': {
           '@type': 'Organization',
           'name': 'クラドトラベル編集部',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         }
       },
       {
         '@type': 'TouristDestination',
-        '@id': 'https://croud-travel.com/winter-aomori-shimofuro-onsen-oma-maguro-ankou-tsugaru-stay#destination',
+        '@id': 'https://croud-travel.pages.dev/winter-aomori-shimofuro-onsen-oma-maguro-ankou-tsugaru-stay#destination',
         'name': '青森・下北半島 下風呂温泉',
         'description': '青森県下北郡風間浦村の津軽海峡沿いに湧く本州最北の白濁硫黄泉秘湯。名物風間浦鮟鱇、大間マグロ、漁火の雪見絶景が魅力。',
         'geo': {
@@ -198,7 +198,7 @@ export default function WinterAomoriShimofuroPage() {
       },
       {
         '@type': 'FAQPage',
-        '@id': 'https://croud-travel.com/winter-aomori-shimofuro-onsen-oma-maguro-ankou-tsugaru-stay#faq',
+        '@id': 'https://croud-travel.pages.dev/winter-aomori-shimofuro-onsen-oma-maguro-ankou-tsugaru-stay#faq',
         'mainEntity': faqList.map((f) => ({
           '@type': 'Question',
           'name': f.q,
@@ -210,7 +210,7 @@ export default function WinterAomoriShimofuroPage() {
       },
       {
         '@type': 'ItemList',
-        '@id': 'https://croud-travel.com/winter-aomori-shimofuro-onsen-oma-maguro-ankou-tsugaru-stay#hotellist',
+        '@id': 'https://croud-travel.pages.dev/winter-aomori-shimofuro-onsen-oma-maguro-ankou-tsugaru-stay#hotellist',
         'name': '青森・下北半島下風呂温泉のおすすめ名宿5選',
         'itemListElement': hotels.map((h, idx) => ({
           '@type': 'ListItem',

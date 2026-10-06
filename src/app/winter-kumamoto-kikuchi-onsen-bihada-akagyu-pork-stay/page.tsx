@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月肥後】日本の名湯百選「化粧の湯」の極上とろみ泉・初冬の菊池渓谷美＆熊本あか牛ステーキ＆名水ポークを堪能する名宿5選",
     description: "11月中旬から12月の初冬、阿蘇外輪山の北西麓に広がる熊本県菊池市は、澄み渡る初冬の青空と阿蘇の山並みが美しいコントラストを描き、名水百選に輝く菊池川の清流が静かに輝く季節を迎えます。昭和29年、白龍が天に昇る神託によって開かれたと伝わる「菊池温泉（きくちおんせん）」は、「日本の名湯百選」と「日本の名水百選」にダブルで選ばれた九州屈指の美肌の湯処。泉質は無色透明のアルカリ性単純温泉で、お湯に触れた瞬間に誰もが驚くほど、美容液のようにトロリとした極上の肌ざわりを誇り、古くから「化粧の湯」「美肌の湯」として親しまれてきました。湧出量は毎分莫大で、温泉街のほとんどの宿が100%源泉かけ流しを実現しています。初冬の朝、凛とした清涼な空気に包まれる「菊池渓谷」では、エメラルドグリーンの淵や落葉を踏みしめる静かな散策が楽しめます。夕食には、阿蘇の広大な草原で育ったヘルシーで濃厚な旨味のブランド牛「熊本あか牛」のステーキや陶板焼き、名水で育まれたジューシーな「菊池銘柄豚（りんどうポーク等）」のしゃぶしゃぶ、冬の極甘「熊本いちご・ゆうべに」、名物極上馬刺しが贅沢に並びます。心と肌をとろとろに解きほぐす初冬の肥後温泉紀行を叶える厳選5宿を徹底ガイドします。",
-    url: 'https://croud-travel.com/winter-kumamoto-kikuchi-onsen-bihada-akagyu-pork-stay',
+    url: 'https://croud-travel.pages.dev/winter-kumamoto-kikuchi-onsen-bihada-akagyu-pork-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -44,23 +44,23 @@ export default function KumamotoKikuchiValleyWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-kumamoto-kikuchi-onsen-bihada-akagyu-pork-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-kumamoto-kikuchi-onsen-bihada-akagyu-pork-stay#article",
         "isPartOf": {
           "@type": "WebSite",
-          "@id": "https://croud-travel.com/#website",
+          "@id": "https://croud-travel.pages.dev/#website",
           "name": "クラドトラベル",
-          "url": "https://croud-travel.com/"
+          "url": "https://croud-travel.pages.dev/"
         },
         "headline": "【11・12月肥後】日本の名湯百選「化粧の湯」の極上とろみ泉・初冬の菊池渓谷美＆熊本あか牛ステーキ＆名水ポークを堪能する名宿5選",
         "description": "11月中旬から12月の初冬、阿蘇外輪山の北西麓に広がる熊本県菊池市は、澄み渡る初冬の青空と阿蘇の山並みが美しいコントラストを描き、名水百選に輝く菊池川の清流が静かに輝く季節を迎えます。昭和29年、白龍が天に昇る神託によって開かれたと伝わる「菊池温泉（きくちおんせん）」は、「日本の名湯百選」と「日本の名水百選」にダブルで選ばれた九州屈指の美肌の湯処。泉質は無色透明のアルカリ性単純温泉で、お湯に触れた瞬間に誰もが驚くほど、美容液のようにトロリとした極上の肌ざわりを誇り、古くから「化粧の湯」「美肌の湯」として親しまれてきました。湧出量は毎分莫大で、温泉街のほとんどの宿が100%源泉かけ流しを実現しています。初冬の朝、凛とした清涼な空気に包まれる「菊池渓谷」では、エメラルドグリーンの淵や落葉を踏みしめる静かな散策が楽しめます。夕食には、阿蘇の広大な草原で育ったヘルシーで濃厚な旨味のブランド牛「熊本あか牛」のステーキや陶板焼き、名水で育まれたジューシーな「菊池銘柄豚（りんどうポーク等）」のしゃぶしゃぶ、冬の極甘「熊本いちご・ゆうべに」、名物極上馬刺しが贅沢に並びます。心と肌をとろとろに解きほぐす初冬の肥後温泉紀行を叶える厳選5宿を徹底ガイドします。",
         "datePublished": "2026-09-30T00:00:00+09:00",
         "dateModified": "2026-09-30T00:00:00+09:00",
         "inLanguage": "ja",
-        "mainEntityOfPage": "https://croud-travel.com/winter-kumamoto-kikuchi-onsen-bihada-akagyu-pork-stay",
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-kumamoto-kikuchi-onsen-bihada-akagyu-pork-stay",
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル編集部",
-          "url": "https://croud-travel.com/"
+          "url": "https://croud-travel.pages.dev/"
         }
       },
       {

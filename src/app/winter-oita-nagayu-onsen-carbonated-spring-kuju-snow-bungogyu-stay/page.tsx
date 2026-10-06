@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月大分・竹田長湯温泉の世界屈指の天然炭酸泉とくじゅう初雪絶景】名物清流エノハ料理＆極上豊後牛会席を堪能する秘湯治名宿5選",
     description: "11月から12月にかけて、大分県竹田市の芹川沿いに広がる長湯温泉は、初雪を冠した雄大なくじゅう連山のパノラマと、世界屈指の湧出量・高濃度を誇る「奇跡の天然炭酸泉」が旅人を魅了します。ぬるめの湯に浸かると全身が銀色の炭酸泡に包まれ、血行促進と芯からのポカポカ感が持続する日本有数の名湯。「飲んで効き 浴ちて効く」長湯の名湯巡りやラムネ温泉館を堪能した後は、芹川の清流が育んだ「清流の女王エノハ（ヤマメ）」の塩焼きや骨酒、極上のおおいた豊後牛会席に舌鼓。初冬の静寂と滋味あふれる名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-oita-nagayu-onsen-carbonated-spring-kuju-snow-bungogyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-oita-nagayu-onsen-carbonated-spring-kuju-snow-bungogyu-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -166,28 +166,28 @@ export default function WinterOitaNagayuPage() {
     '@graph': [
       {
         '@type': 'Article',
-        '@id': 'https://croud-travel.com/winter-oita-nagayu-onsen-carbonated-spring-kuju-snow-bungogyu-stay#article',
+        '@id': 'https://croud-travel.pages.dev/winter-oita-nagayu-onsen-carbonated-spring-kuju-snow-bungogyu-stay#article',
         'isPartOf': {
           '@type': 'WebSite',
-          '@id': 'https://croud-travel.com/#website',
+          '@id': 'https://croud-travel.pages.dev/#website',
           'name': 'クラドトラベル',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         },
         'headline': "【11・12月大分・竹田長湯温泉の世界屈指の天然炭酸泉とくじゅう初雪絶景】名物清流エノハ料理＆極上豊後牛会席を堪能する秘湯治名宿5選",
         'description': "11月から12月にかけて、大分県竹田市の芹川沿いに広がる長湯温泉は、初雪を冠した雄大なくじゅう連山のパノラマと、世界屈指の湧出量・高濃度を誇る「奇跡の天然炭酸泉」が旅人を魅了します。ぬるめの湯に浸かると全身が銀色の炭酸泡に包まれ、血行促進と芯からのポカポカ感が持続する日本有数の名湯。「飲んで効き 浴ちて効く」長湯の名湯巡りやラムネ温泉館を堪能した後は、芹川の清流が育んだ「清流の女王エノハ（ヤマメ）」の塩焼きや骨酒、極上のおおいた豊後牛会席に舌鼓。初冬の静寂と滋味あふれる名宿5選を徹底解説します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.com/winter-oita-nagayu-onsen-carbonated-spring-kuju-snow-bungogyu-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-oita-nagayu-onsen-carbonated-spring-kuju-snow-bungogyu-stay',
         'datePublished': '2026-09-28T00:00:00+09:00',
         'dateModified': '2026-09-28T00:00:00+09:00',
         'publisher': {
           '@type': 'Organization',
           'name': 'クラドトラベル編集部',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         }
       },
       {
         '@type': 'TouristDestination',
-        '@id': 'https://croud-travel.com/winter-oita-nagayu-onsen-carbonated-spring-kuju-snow-bungogyu-stay#destination',
+        '@id': 'https://croud-travel.pages.dev/winter-oita-nagayu-onsen-carbonated-spring-kuju-snow-bungogyu-stay#destination',
         'name': '大分・竹田長湯温泉',
         'description': 'くじゅう連山の東麓に位置し、世界屈指の高濃度天然炭酸泉を誇る名湯治場。冬は初雪景色と清流エノハ料理、極上豊後牛が魅力。',
         'geo': {
@@ -198,7 +198,7 @@ export default function WinterOitaNagayuPage() {
       },
       {
         '@type': 'FAQPage',
-        '@id': 'https://croud-travel.com/winter-oita-nagayu-onsen-carbonated-spring-kuju-snow-bungogyu-stay#faq',
+        '@id': 'https://croud-travel.pages.dev/winter-oita-nagayu-onsen-carbonated-spring-kuju-snow-bungogyu-stay#faq',
         'mainEntity': faqList.map((f) => ({
           '@type': 'Question',
           'name': f.q,
@@ -210,7 +210,7 @@ export default function WinterOitaNagayuPage() {
       },
       {
         '@type': 'ItemList',
-        '@id': 'https://croud-travel.com/winter-oita-nagayu-onsen-carbonated-spring-kuju-snow-bungogyu-stay#hotellist',
+        '@id': 'https://croud-travel.pages.dev/winter-oita-nagayu-onsen-carbonated-spring-kuju-snow-bungogyu-stay#hotellist',
         'name': '大分・竹田長湯温泉のおすすめ名宿5選',
         'itemListElement': hotels.map((h, idx) => ({
           '@type': 'ListItem',

@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月霧島温泉郷の冬パノラマと坂本龍馬ゆかりの名湯】湯煙立ち上る霧島連山と乳白色泥湯・鹿児島黒豚しゃぶしゃぶ＆黒毛和牛の宿5選",
     description: "坂本龍馬とおりょうが日本初の新婚旅行で訪れた九州屈指の名湯「霧島温泉郷」。初冬の澄み渡る空気の中に立ち上る雄大な湯煙と、霧島連山を望む絶景露天風呂、天然泥パックの美肌泥湯。極上の甘みを誇る「かごしま黒豚」しゃぶしゃぶと黒毛和牛、国宝・霧島神宮参拝を堪能する名宿5選。",
-    url: 'https://croud-travel.com/winter-kagoshima-kirishima-onsen-ryoma-black-pork-stay',
+    url: 'https://croud-travel.pages.dev/winter-kagoshima-kirishima-onsen-ryoma-black-pork-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -67,7 +67,7 @@ export default function KirishimaWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-kagoshima-kirishima-onsen-ryoma-black-pork-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-kagoshima-kirishima-onsen-ryoma-black-pork-stay#article",
         "headline": "【11・12月霧島温泉郷の冬パノラマと坂本龍馬ゆかりの名湯】湯煙立ち上る霧島連山と乳白色泥湯・鹿児島黒豚しゃぶしゃぶ＆黒毛和牛の宿5選",
         "description": "坂本龍馬とおりょうが日本初の新婚旅行で訪れた九州屈指の名湯「霧島温泉郷」。初冬の澄み渡る空気の中に立ち上る雄大な湯煙と、霧島連山を望む絶景露天風呂、天然泥パックの美肌泥湯。極上の甘みを誇る「かごしま黒豚」しゃぶしゃぶと黒毛和牛、国宝・霧島神宮参拝を堪能する名宿5選。",
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
@@ -76,24 +76,24 @@ export default function KirishimaWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-kagoshima-kirishima-onsen-ryoma-black-pork-stay"
+          "@id": "https://croud-travel.pages.dev/winter-kagoshima-kirishima-onsen-ryoma-black-pork-stay"
         }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-kagoshima-kirishima-onsen-ryoma-black-pork-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-kagoshima-kirishima-onsen-ryoma-black-pork-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -139,7 +139,7 @@ export default function KirishimaWinterPage() {
       },
       {
         "@type": "ItemList",
-        "@id": "https://croud-travel.com/winter-kagoshima-kirishima-onsen-ryoma-black-pork-stay#hotels",
+        "@id": "https://croud-travel.pages.dev/winter-kagoshima-kirishima-onsen-ryoma-black-pork-stay#hotels",
         "itemListElement": [
           {
             "@type": "ListItem",
@@ -646,32 +646,7 @@ export default function KirishimaWinterPage() {
         </section>
 
         {/* FAQ Section */}
-        <section id="faq" className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-stone-200/80 space-y-6">
-          <div className="flex items-center gap-3 pb-3 border-b border-stone-100">
-            <div className="p-2 rounded-xl bg-rose-50 text-rose-800">
-              <HelpCircle className="w-5 h-5" />
-            </div>
-            <div>
-              <span className="text-xs font-bold text-rose-800 uppercase tracking-widest">Traveler's FAQ</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                よくある質問（FAQ）と初冬の旅のアドバイス
-              </h2>
-            </div>
-          </div>
-          <div className="space-y-4">
-            {faqList.map((faq, idx) => (
-              <div key={idx} className="p-5 rounded-2xl bg-stone-50 border border-stone-200/70 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-rose-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
-                <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
-                  {faq.a}
-                </p>
-              </div>
-            ))}
-          </div>
-        </section>
+        
 
         {/* Internal Links / Related Guides */}
         <section className="bg-rose-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">

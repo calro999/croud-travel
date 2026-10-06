@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月熱海温泉の冬花火と相模湾絶景露天】澄み渡る夜空の初冬海上花火・インフィニティ温泉と極上金目鯛姿煮＆伊豆美味会席の宿5選",
     description: "11月から12月にかけて澄み切った冬の夜空に大輪の花火が咲き誇る伝統の「熱海海上花火大会」と、都心から新幹線で最速35分の名湯「熱海温泉」。すり鉢状の熱海湾に響き渡る花火の轟音を客室や露天風呂から間近に体感できる贅沢なロケーション。相模湾を一望する絶景インフィニティ露天風呂、徳川家康公も愛した名湯、脂の乗った伊豆名物「金目鯛の姿煮」や新鮮な鮑・伊勢海老会席を満喫する厳選名宿5選を徹底解説。",
-    url: 'https://croud-travel.com/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay',
+    url: 'https://croud-travel.pages.dev/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -68,7 +68,7 @@ export default function AtamiOnsenWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay#article",
         "headline": "【11・12月熱海温泉の冬花火と相模湾絶景露天】澄み渡る夜空の初冬海上花火・インフィニティ温泉と極上金目鯛姿煮＆伊豆美味会席の宿5選",
         "description": "11月から12月にかけて澄み切った冬の夜空に大輪の花火が咲き誇る伝統の「熱海海上花火大会」と、都心から新幹線で最速35分の名湯「熱海温泉」。すり鉢状の熱海湾に響き渡る花火の轟音を客室や露天風呂から間近に体感できる贅沢なロケーション。相模湾を一望する絶景インフィニティ露天風呂、徳川家康公も愛した名湯、脂の乗った伊豆名物「金目鯛の姿煮」や新鮮な鮑・伊勢海老会席を満喫する厳選名宿5選を徹底解説。",
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
@@ -77,24 +77,24 @@ export default function AtamiOnsenWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay"
+          "@id": "https://croud-travel.pages.dev/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay"
         }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -140,7 +140,7 @@ export default function AtamiOnsenWinterPage() {
       },
       {
         "@type": "ItemList",
-        "@id": "https://croud-travel.com/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay#hotels",
+        "@id": "https://croud-travel.pages.dev/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay#hotels",
         "itemListElement": [
           {
             "@type": "ListItem",

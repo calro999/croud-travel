@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月山梨・下部温泉＆身延】武田信玄公の隠し湯とぬる湯治・初冬富士山と甲州牛・名物ほうとうを味わう名宿5選",
     description: "11月から12月にかけて、山梨県南部・富士川の支流である下部川沿いに湯けむりを上げる「下部温泉」は、静謐な初冬の空気に包まれます。戦国武将・武田信玄公が川中島の合戦で負った刀傷を癒やしたと伝わる名湯で、古くから湯治場として栄えてきました。最大の特徴は、体温に近い約30度のぬる湯源泉と、適度に温かい高温泉を交互に行き来する「ぬる湯治（交代浴）」。副交感神経を優位にし、身体の芯から疲労と凝りを解き放ちます。近隣には日蓮宗総本山「身延山久遠寺」が鎮座し、初冬の澄み渡る空気の中で厳かな参拝と白銀の富士山遠望が叶います。夕食には山梨の豊かな自然が育んだきめ細やかな霜降り「甲州牛」や「甲州ワインビーフ」の溶岩焼き、手打ちの平打ち麺を根菜と特製味噌で煮込んだ熱々の「名物ほうとう」、手作り身延湯葉など冬の身体を芯から温める逸品揃い。初冬の山梨で心身を解きほぐす厳選名宿5選を詳しく紹介します。",
-    url: 'https://croud-travel.com/winter-yamanashi-shimobe-onsen-minobu-koshu-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-yamanashi-shimobe-onsen-minobu-koshu-beef-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -166,28 +166,28 @@ export default function WinterYamanashiShimobePage() {
     '@graph': [
       {
         '@type': 'Article',
-        '@id': 'https://croud-travel.com/winter-yamanashi-shimobe-onsen-minobu-koshu-beef-stay#article',
+        '@id': 'https://croud-travel.pages.dev/winter-yamanashi-shimobe-onsen-minobu-koshu-beef-stay#article',
         'isPartOf': {
           '@type': 'WebSite',
-          '@id': 'https://croud-travel.com/#website',
+          '@id': 'https://croud-travel.pages.dev/#website',
           'name': 'クラドトラベル',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         },
         'headline': "【11・12月山梨・下部温泉＆身延】武田信玄公の隠し湯とぬる湯治・初冬富士山と甲州牛・名物ほうとうを味わう名宿5選",
         'description': "11月から12月にかけて、山梨県南部・富士川の支流である下部川沿いに湯けむりを上げる「下部温泉」は、静謐な初冬の空気に包まれます。戦国武将・武田信玄公が川中島の合戦で負った刀傷を癒やしたと伝わる名湯で、古くから湯治場として栄えてきました。最大の特徴は、体温に近い約30度のぬる湯源泉と、適度に温かい高温泉を交互に行き来する「ぬる湯治（交代浴）」。副交感神経を優位にし、身体の芯から疲労と凝りを解き放ちます。近隣には日蓮宗総本山「身延山久遠寺」が鎮座し、初冬の澄み渡る空気の中で厳かな参拝と白銀の富士山遠望が叶います。夕食には山梨の豊かな自然が育んだきめ細やかな霜降り「甲州牛」や「甲州ワインビーフ」の溶岩焼き、手打ちの平打ち麺を根菜と特製味噌で煮込んだ熱々の「名物ほうとう」、手作り身延湯葉など冬の身体を芯から温める逸品揃い。初冬の山梨で心身を解きほぐす厳選名宿5選を詳しく紹介します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.com/winter-yamanashi-shimobe-onsen-minobu-koshu-beef-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-yamanashi-shimobe-onsen-minobu-koshu-beef-stay',
         'datePublished': '2026-09-29T00:00:00+09:00',
         'dateModified': '2026-09-29T00:00:00+09:00',
         'publisher': {
           '@type': 'Organization',
           'name': 'クラドトラベル編集部',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         }
       },
       {
         '@type': 'TouristDestination',
-        '@id': 'https://croud-travel.com/winter-yamanashi-shimobe-onsen-minobu-koshu-beef-stay#destination',
+        '@id': 'https://croud-travel.pages.dev/winter-yamanashi-shimobe-onsen-minobu-koshu-beef-stay#destination',
         'name': '山梨・下部温泉＆身延',
         'description': '山梨県南巨摩郡身延町の富士川支流に湧く名湯。武田信玄公の隠し湯として伝わるぬる湯あつ湯交互浴と身延山久遠寺の厳かな初冬参拝、極上甲州牛や名物ほうとうが魅力。',
         'geo': {
@@ -198,7 +198,7 @@ export default function WinterYamanashiShimobePage() {
       },
       {
         '@type': 'FAQPage',
-        '@id': 'https://croud-travel.com/winter-yamanashi-shimobe-onsen-minobu-koshu-beef-stay#faq',
+        '@id': 'https://croud-travel.pages.dev/winter-yamanashi-shimobe-onsen-minobu-koshu-beef-stay#faq',
         'mainEntity': faqList.map((f) => ({
           '@type': 'Question',
           'name': f.q,
@@ -210,7 +210,7 @@ export default function WinterYamanashiShimobePage() {
       },
       {
         '@type': 'ItemList',
-        '@id': 'https://croud-travel.com/winter-yamanashi-shimobe-onsen-minobu-koshu-beef-stay#hotellist',
+        '@id': 'https://croud-travel.pages.dev/winter-yamanashi-shimobe-onsen-minobu-koshu-beef-stay#hotellist',
         'name': '山梨・下部温泉＆身延のおすすめ名宿5選',
         'itemListElement': hotels.map((h, idx) => ({
           '@type': 'ListItem',

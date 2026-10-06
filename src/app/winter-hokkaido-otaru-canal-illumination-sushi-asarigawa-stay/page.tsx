@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月北海道・小樽の青の運河イルミネーションと朝里川雪見露天】小樽前浜極上寿司＆道産牛会席を味わう冬の運河・温泉名宿5選",
     description: "11月から12月にかけて、小樽は初雪が舞い散る運河沿いに約1万個の青色LEDが輝く冬の風物詩「小樽ゆき物語・青の運河」が開幕し、1年で最もロマンチックな季節を迎えます。明治・大正期の石造り倉庫群が雪化粧をまとい、ガス灯が揺れるノスタルジックな街並み散策の後は、小樽港で早朝水揚げされた冬の極上ウニ、活ホタテ、蝦夷前寿司、そして小樽奥座敷・朝里川温泉の森林に包まれた雪見露天風呂を満喫。日本海のパノラマ絶景を望む岬のホテルから歴史的風情が漂う運河畔の名宿まで、初冬の小樽を心ゆくまで味わい尽くす厳選名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-hokkaido-otaru-canal-illumination-sushi-asarigawa-stay',
+    url: 'https://croud-travel.pages.dev/winter-hokkaido-otaru-canal-illumination-sushi-asarigawa-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -160,28 +160,28 @@ export default function WinterHokkaidoOtaruPage() {
     '@graph': [
       {
         '@type': 'Article',
-        '@id': 'https://croud-travel.com/winter-hokkaido-otaru-canal-illumination-sushi-asarigawa-stay#article',
+        '@id': 'https://croud-travel.pages.dev/winter-hokkaido-otaru-canal-illumination-sushi-asarigawa-stay#article',
         'isPartOf': {
           '@type': 'WebSite',
-          '@id': 'https://croud-travel.com/#website',
+          '@id': 'https://croud-travel.pages.dev/#website',
           'name': 'クラドトラベル',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         },
         'headline': "【11・12月北海道・小樽の青の運河イルミネーションと朝里川雪見露天】小樽前浜極上寿司＆道産牛会席を味わう冬の運河・温泉名宿5選",
         'description': "11月から12月にかけて、小樽は初雪が舞い散る運河沿いに約1万個の青色LEDが輝く冬の風物詩「小樽ゆき物語・青の運河」が開幕し、1年で最もロマンチックな季節を迎えます。明治・大正期の石造り倉庫群が雪化粧をまとい、ガス灯が揺れるノスタルジックな街並み散策の後は、小樽港で早朝水揚げされた冬の極上ウニ、活ホタテ、蝦夷前寿司、そして小樽奥座敷・朝里川温泉の森林に包まれた雪見露天風呂を満喫。日本海のパノラマ絶景を望む岬のホテルから歴史的風情が漂う運河畔の名宿まで、初冬の小樽を心ゆくまで味わい尽くす厳選名宿5選を徹底解説します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.com/winter-hokkaido-otaru-canal-illumination-sushi-asarigawa-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-hokkaido-otaru-canal-illumination-sushi-asarigawa-stay',
         'datePublished': '2026-09-28T00:00:00+09:00',
         'dateModified': '2026-09-28T00:00:00+09:00',
         'publisher': {
           '@type': 'Organization',
           'name': 'クラドトラベル編集部',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         }
       },
       {
         '@type': 'FAQPage',
-        '@id': 'https://croud-travel.com/winter-hokkaido-otaru-canal-illumination-sushi-asarigawa-stay#faq',
+        '@id': 'https://croud-travel.pages.dev/winter-hokkaido-otaru-canal-illumination-sushi-asarigawa-stay#faq',
         'mainEntity': faqList.map((f) => ({
           '@type': 'Question',
           'name': f.q,

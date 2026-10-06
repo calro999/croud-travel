@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月秋田】日本三大樹氷・森吉山スノーモンスターと秋田内陸線雪景色・比内地鶏きりたんぽ鍋＆マタギの秘湯を巡る名宿5選",
     description: "11月から1月、秋田県北秋田市の秀峰・森吉山（標高1,454m）と阿仁地区は、東北屈指の白銀の世界へと変貌を遂げます。蔵王・八甲田と並び「日本三大樹氷」と称される森吉山阿仁の樹氷群（スノーモンスター）は、12月下旬から巨大な雪の彫刻へと成長し、阿仁スキー場のゴンドラで山頂駅に降り立てば見渡す限りの純白の樹氷原が旅人を圧倒。ローカル線「秋田内陸縦貫鉄道（スマイルレール）」の車窓からは、雪煙を上げて走る鉄橋と渓谷の絶景が広がり、冬限定の「ごっつお玉手箱列車」も運行されます。そして夜は、古くから狩猟採集の知恵を紡いできた「阿仁マタギ」の郷で源泉かけ流しの秘湯に浸かり、本場比内地鶏のきりたんぽ鍋や滋味豊かなマタギ鍋、秋田錦牛を熱々の地酒とともに堪能。雄大な雪山と温かな郷土文化が息づく厳選5宿を徹底紹介します。",
-    url: 'https://croud-travel.com/winter-akita-moriyoshi-ani-snow-monster-matagi-stay',
+    url: 'https://croud-travel.pages.dev/winter-akita-moriyoshi-ani-snow-monster-matagi-stay',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -44,12 +44,12 @@ export default function AkitaMoriyoshiAniPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-akita-moriyoshi-ani-snow-monster-matagi-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-akita-moriyoshi-ani-snow-monster-matagi-stay#article",
         "isPartOf": {
           "@type": "WebSite",
-          "@id": "https://croud-travel.com/#website",
+          "@id": "https://croud-travel.pages.dev/#website",
           "name": "クラドトラベル",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "headline": "【11・12・1月秋田】日本三大樹氷・森吉山スノーモンスターと秋田内陸線雪景色・比内地鶏きりたんぽ鍋＆マタギの秘湯を巡る名宿5選",
         "description": "11月から1月、秋田県北秋田市の秀峰・森吉山（標高1,454m）と阿仁地区は、東北屈指の白銀の世界へと変貌を遂げます。蔵王・八甲田と並び「日本三大樹氷」と称される森吉山阿仁の樹氷群（スノーモンスター）は、12月下旬から巨大な雪の彫刻へと成長し、阿仁スキー場のゴンドラで山頂駅に降り立てば見渡す限りの純白の樹氷原が旅人を圧倒。ローカル線「秋田内陸縦貫鉄道（スマイルレール）」の車窓からは、雪煙を上げて走る鉄橋と渓谷の絶景が広がり、冬限定の「ごっつお玉手箱列車」も運行されます。そして夜は、古くから狩猟採集の知恵を紡いできた「阿仁マタギ」の郷で源泉かけ流しの秘湯に浸かり、本場比内地鶏のきりたんぽ鍋や滋味豊かなマタギ鍋、秋田錦牛を熱々の地酒とともに堪能。雄大な雪山と温かな郷土文化が息づく厳選5宿を徹底紹介します。",
@@ -63,41 +63,41 @@ export default function AkitaMoriyoshiAniPage() {
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル",
-          "url": "https://croud-travel.com",
+          "url": "https://croud-travel.pages.dev",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
-        "mainEntityOfPage": "https://croud-travel.com/winter-akita-moriyoshi-ani-snow-monster-matagi-stay"
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-akita-moriyoshi-ani-snow-monster-matagi-stay"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://croud-travel.com/winter-akita-moriyoshi-ani-snow-monster-matagi-stay#breadcrumb",
+        "@id": "https://croud-travel.pages.dev/winter-akita-moriyoshi-ani-snow-monster-matagi-stay#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com"
+            "item": "https://croud-travel.pages.dev"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "秋田・森吉山の樹氷とマタギ秘湯特集",
-            "item": "https://croud-travel.com/winter-akita-moriyoshi-ani-snow-monster-matagi-stay"
+            "item": "https://croud-travel.pages.dev/winter-akita-moriyoshi-ani-snow-monster-matagi-stay"
           }
         ]
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-akita-moriyoshi-ani-snow-monster-matagi-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-akita-moriyoshi-ani-snow-monster-matagi-stay#faq",
         "mainEntity": [{"@type":"Question","name":"森吉山の樹氷（スノーモンスター）の見頃時期はいつですか？ゴンドラは誰でも乗れますか？","acceptedAnswer":{"@type":"Answer","text":"森吉山（阿仁スキー場）の樹氷は、例年12月下旬から木々に氷と雪が着氷し始め、1月中旬から2月中旬にかけて最も巨大で美しい「スノーモンスター」へと仕上がります。阿仁スキー場の6人乗り阿仁ゴンドラに乗れば、約20分で標高1,200mの山頂駅へ到着。スキーやスノーボードをしない観光客でもそのまま乗車でき、山頂駅からは整備された「樹氷平トレッキングコース（往復約30分）」を長靴やスノーシューで歩きながら間近で樹氷を鑑賞できます。山頂駅舎では長靴やスノーシュー、ストックの無料貸出も行われています。"}},{"@type":"Question","name":"森吉山や阿仁地区へのアクセス方法は？冬道運転は危険ですか？","acceptedAnswer":{"@type":"Answer","text":"冬の阿仁・森吉山へは、公共交通機関の「秋田内陸縦貫鉄道（スマイルレール）」を利用するのが最も安全で風情があります。秋田新幹線が停車する「角館駅」またはJR奥羽本線「鷹巣駅」から秋田内陸線に乗車し、「阿仁合（あにあい）駅」へ。阿仁合駅からは阿仁スキー場へ直行する観光乗合タクシー「森吉山周遊タクシー（要事前予約）」が運行しています。また打当温泉などは「阿仁マタギ駅」から無料送迎があります。自家用車やレンタカーの場合は、必ずスタッドレスタイヤ（4WD推奨）を装着してください。積雪が多く吹雪で視界が悪くなることがあるため、冬道運転に不慣れな方は鉄道＋周遊タクシーの利用を強くおすすめします。"}},{"@type":"Question","name":"「マタギ料理」や「熊鍋」とはどのような料理ですか？臭みはありませんか？","acceptedAnswer":{"@type":"Answer","text":"「マタギ料理」とは、奥羽山脈の奥深くで自然の恵みに感謝しながら集団狩猟を行ってきたマタギたちに伝わる伝統の郷土料理です。代表格の「熊鍋」は、適切な血抜きと熟成を行ったツキノワグマの肉を、地元の味噌や醤油ベースの出汁で根菜やキノコ、ネギとともに煮込みます。新鮮な熊肉は驚くほど臭みがなく、脂身は甘くサラリとしており、コラーゲンも豊富。寒さ厳しい冬の体を芯から温める薬膳のような滋味深さがあります。宿によっては熊肉のほか、山鳥や鹿肉、山菜の塩漬けなどを盛り込んだ伝統会席を提供しています。"}},{"@type":"Question","name":"冬の森吉山樹氷トレッキングに必要な服装や装備は何ですか？","acceptedAnswer":{"@type":"Answer","text":"森吉山山頂駅周辺は真冬になると氷点下10℃〜15℃まで下がり、強い風が吹くこともあります。防寒対策はスキー場に行くのと同等以上の装備が必要です。保温性のあるインナー（吸湿発熱素材）、フリースやセーター、防風・防水性に優れたダウンジャケットまたはスノーウェアのアウター、防水手袋、ニット帽、ネックウォーマー、耳あて、サングラスまたはゴーグル（雪の照り返し防止）を着用してください。靴はスノーブーツまたは厚手の靴下が履ける防寒長靴が適しています。"}},{"@type":"Question","name":"秋田内陸線の冬の観光列車「ごっつお玉手箱列車」とはどのようなものですか？","acceptedAnswer":{"@type":"Answer","text":"「ごっつお玉手箱列車」は、秋田内陸縦貫鉄道が冬の特定日に運行する特別観光列車です（「ごっつお」とは秋田弁で「ご馳走」の意味）。沿線の農家のお母さんたちが手作りした郷土料理（赤飯、煮物、漬物、比内地鶏料理など）が重箱に詰められて提供され、車窓に広がる雪景色を眺めながら地元の味覚を堪能できます。地元アテンダントによる沿線の方言ガイドや温かいおもてなしも好評で、全国のローカル線ファンから絶賛される人気の列車旅です。"}}]
       }
     ]

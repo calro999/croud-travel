@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月戸倉上山田温泉】善光寺精進落としの美肌硫黄泉と初冬の味覚・極上信州プレミアム牛＆蜜入り完熟サンふじ・辛味大根おしぼりうどんを味わう名宿5選",
     description: "11月中旬から12月の初冬を迎えた信州千曲川のほとり、戸倉上山田温泉は山々が初雪をまとい、澄み渡る冷気の中に情緒ある湯煙が立ちのぼる名湯の季節を迎えます。古くより善光寺参りの「精進落としの湯」として親しまれ、旅人や文人墨客の心身を癒やし続けてきたこの温泉地は、肌をすべすべに整えるエメラルドグリーンの良質な単純硫黄泉が自噴する屈指の湯量を誇ります。初冬の食卓を飾るのは、脂の甘みと赤身の旨味が凝縮した「信州プレミアム牛」のすき焼きや陶板焼き、清流が育んだ「信州サーモン」、そして千曲川流域特有の伝統郷土料理「おしぼりうどん」。ねずみ大根の強烈な辛味絞り汁に信州味噌を溶いて味わう熱々のうどんは、体の芯から温まる冬ならではの風物詩です。さらに11月下旬から12月にかけて最盛期を迎える蜜入り完熟りんご「サンふじ」の果樹園直売や、冠着山（姨捨山）を望む絶景展望露天風呂まで、信州の初冬の贅を味わい尽くす厳選宿5選を詳しく紹介します。",
-    url: 'https://croud-travel.com/winter-nagano-togura-kamiyamada-onsen-shinshugyu-apple-stay',
+    url: 'https://croud-travel.pages.dev/winter-nagano-togura-kamiyamada-onsen-shinshugyu-apple-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -45,23 +45,23 @@ export default function NaganoToguraKamiyamadaWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-nagano-togura-kamiyamada-onsen-shinshugyu-apple-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-nagano-togura-kamiyamada-onsen-shinshugyu-apple-stay#article",
         "isPartOf": {
           "@type": "WebSite",
-          "@id": "https://croud-travel.com/#website",
+          "@id": "https://croud-travel.pages.dev/#website",
           "name": "クラドトラベル",
-          "url": "https://croud-travel.com/"
+          "url": "https://croud-travel.pages.dev/"
         },
         "headline": "【11・12月戸倉上山田温泉】善光寺精進落としの美肌硫黄泉と初冬の味覚・極上信州プレミアム牛＆蜜入り完熟サンふじ・辛味大根おしぼりうどんを味わう名宿5選",
         "description": "11月中旬から12月の初冬を迎えた信州千曲川のほとり、戸倉上山田温泉は山々が初雪をまとい、澄み渡る冷気の中に情緒ある湯煙が立ちのぼる名湯の季節を迎えます。古くより善光寺参りの「精進落としの湯」として親しまれ、旅人や文人墨客の心身を癒やし続けてきたこの温泉地は、肌をすべすべに整えるエメラルドグリーンの良質な単純硫黄泉が自噴する屈指の湯量を誇ります。初冬の食卓を飾るのは、脂の甘みと赤身の旨味が凝縮した「信州プレミアム牛」のすき焼きや陶板焼き、清流が育んだ「信州サーモン」、そして千曲川流域特有の伝統郷土料理「おしぼりうどん」。ねずみ大根の強烈な辛味絞り汁に信州味噌を溶いて味わう熱々のうどんは、体の芯から温まる冬ならではの風物詩です。さらに11月下旬から12月にかけて最盛期を迎える蜜入り完熟りんご「サンふじ」の果樹園直売や、冠着山（姨捨山）を望む絶景展望露天風呂まで、信州の初冬の贅を味わい尽くす厳選宿5選を詳しく紹介します。",
         "datePublished": "2026-09-30T00:00:00+09:00",
         "dateModified": "2026-09-30T00:00:00+09:00",
         "inLanguage": "ja",
-        "mainEntityOfPage": "https://croud-travel.com/winter-nagano-togura-kamiyamada-onsen-shinshugyu-apple-stay",
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-nagano-togura-kamiyamada-onsen-shinshugyu-apple-stay",
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル編集部",
-          "url": "https://croud-travel.com/"
+          "url": "https://croud-travel.pages.dev/"
         }
       },
       {

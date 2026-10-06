@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月石和温泉の新酒ワインと美肌湯】富士を望む甲州名湯と甲州牛ステーキ・冬のほうとう会席宿5選",
     description: "11月3日の山梨ヌーボー解禁とともに華やぐ甲州・石和温泉。雪化粧した富士山や南アルプスを望み、毎分湧出する豊富な美肌アルカリ単純温泉に身を浸す贅沢。最高峰A5ランク甲州牛のステーキと熱々の甲州かぼちゃほうとう、できたての新酒甲州ワインを味わい尽くす初冬の美食湯宿ガイド。",
-    url: 'https://croud-travel.com/winter-yamanashi-isawa-onsen-wine-koshu-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-yamanashi-isawa-onsen-wine-koshu-beef-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -44,7 +44,7 @@ export default function IsawaWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-yamanashi-isawa-onsen-wine-koshu-beef-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-yamanashi-isawa-onsen-wine-koshu-beef-stay#article",
         "headline": "【11・12月石和温泉の新酒ワインと美肌湯】富士を望む甲州名湯と甲州牛ステーキ・冬のほうとう会席宿5選",
         "description": "11月3日の山梨ヌーボー解禁とともに華やぐ甲州・石和温泉。雪化粧した富士山や南アルプスを望み、毎分湧出する豊富な美肌アルカリ単純温泉に身を浸す贅沢。最高峰A5ランク甲州牛のステーキと熱々の甲州かぼちゃほうとう、できたての新酒甲州ワインを味わい尽くす初冬の美食湯宿ガイド。",
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
@@ -53,24 +53,24 @@ export default function IsawaWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-yamanashi-isawa-onsen-wine-koshu-beef-stay"
+          "@id": "https://croud-travel.pages.dev/winter-yamanashi-isawa-onsen-wine-koshu-beef-stay"
         }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-yamanashi-isawa-onsen-wine-koshu-beef-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-yamanashi-isawa-onsen-wine-koshu-beef-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -108,7 +108,7 @@ export default function IsawaWinterPage() {
       },
       {
         "@type": "ItemList",
-        "@id": "https://croud-travel.com/winter-yamanashi-isawa-onsen-wine-koshu-beef-stay#hotels",
+        "@id": "https://croud-travel.pages.dev/winter-yamanashi-isawa-onsen-wine-koshu-beef-stay#hotels",
         "itemListElement": [
           {
             "@type": "ListItem",

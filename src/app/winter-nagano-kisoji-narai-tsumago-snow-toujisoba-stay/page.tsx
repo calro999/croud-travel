@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月長野】中山道・木曽路の雪化粧宿場町（奈良井宿・妻籠宿）と冬の郷土味覚「投じ蕎麦・すんき鍋」・木曽牛＆木曽御嶽山麓の雪見温泉宿5選",
     description: "11月から1月、信州・木曽路（中山道）は、日本最長の宿場町「奈良井宿」や重要伝統的建造物群保存地区「妻籠宿」の木造千本格子に純白の雪が降り積もり、江戸時代へタイムスリップしたかのような静寂美に包まれます。冬限定の奇跡の発酵食「すんき鍋」や竹籠でくぐらせる名物「投じ蕎麦」、極上木曽牛のすき焼き。雪化粧の中央アルプスや木曽御嶽山を望む雪見露天風呂が自慢の厳選名宿5選を徹底ガイドします。",
-    url: 'https://croud-travel.com/winter-nagano-kisoji-narai-tsumago-snow-toujisoba-stay',
+    url: 'https://croud-travel.pages.dev/winter-nagano-kisoji-narai-tsumago-snow-toujisoba-stay',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -50,19 +50,19 @@ export default function NaganoKisojiNaraiTsumagoWinterPage() {
     author: {
       '@type': 'Organization',
       name: 'クラドトラベル編集部',
-      url: 'https://croud-travel.com'
+      url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
       name: 'クラドトラベル',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://croud-travel.com/logo.png'
+        url: 'https://croud-travel.pages.dev/logo.png'
       }
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.com/winter-nagano-kisoji-narai-tsumago-snow-toujisoba-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-nagano-kisoji-narai-tsumago-snow-toujisoba-stay'
     }
   };
 
@@ -74,19 +74,19 @@ export default function NaganoKisojiNaraiTsumagoWinterPage() {
         '@type': 'ListItem',
         position: 1,
         name: 'ホーム',
-        item: 'https://croud-travel.com'
+        item: 'https://croud-travel.pages.dev'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.com/features'
+        item: 'https://croud-travel.pages.dev/features'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '長野・木曽路宿場町雪景色＆投じ蕎麦特集',
-        item: 'https://croud-travel.com/winter-nagano-kisoji-narai-tsumago-snow-toujisoba-stay'
+        item: 'https://croud-travel.pages.dev/winter-nagano-kisoji-narai-tsumago-snow-toujisoba-stay'
       }
     ]
   };

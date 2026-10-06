@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月北海道・阿寒湖温泉の初冬フロストフラワーとアイヌ文化】極上道東海鮮蟹会席＆北海道黒毛和牛を愉しむ湖畔名宿5選",
     description: "11月から12月にかけて、道東・阿寒摩周国立公園の雄大な大自然に抱かれた阿寒湖温泉は、湖面が結氷を始める前の静謐な冬景色を迎え、氷点下15度以下の早朝には湖水が奇跡の結晶を作る「フロストフラワー（霜の花）」の幻想的な現象が観測される神秘の季節を迎えます。アイヌの伝統文化が息づく「阿寒湖アイヌコタン」の木彫り工芸や古式舞踊、湖畔を見下ろす展望雪見露天風呂、そしてオホーツク海から直送される冬の毛蟹やいくら、阿寒湖特産のワカサギ天ぷら、北海道産黒毛和牛の陶板ステーキを味わう厳選湖畔名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-hokkaido-akanko-onsen-lakeview-frost-flower-hokkaido-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-hokkaido-akanko-onsen-lakeview-frost-flower-hokkaido-beef-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -62,10 +62,10 @@ export default function HokkaidoAkankoWinterFeature() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-hokkaido-akanko-onsen-lakeview-frost-flower-hokkaido-beef-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-hokkaido-akanko-onsen-lakeview-frost-flower-hokkaido-beef-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-hokkaido-akanko-onsen-lakeview-frost-flower-hokkaido-beef-stay"
+          "@id": "https://croud-travel.pages.dev/winter-hokkaido-akanko-onsen-lakeview-frost-flower-hokkaido-beef-stay"
         },
         "headline": "【11・12月北海道・阿寒湖温泉の初冬フロストフラワーとアイヌ文化】極上道東海鮮蟹会席＆北海道黒毛和牛を愉しむ湖畔名宿5選",
         "description": "11月から12月にかけて、道東・阿寒摩周国立公園の雄大な大自然に抱かれた阿寒湖温泉は、湖面が結氷を始める前の静謐な冬景色を迎え、氷点下15度以下の早朝には湖水が奇跡の結晶を作る「フロストフラワー（霜の花）」の幻想的な現象が観測される神秘の季節を迎えます。アイヌの伝統文化が息づく「阿寒湖アイヌコタン」の木彫り工芸や古式舞踊、湖畔を見下ろす展望雪見露天風呂、そしてオホーツク海から直送される冬の毛蟹やいくら、阿寒湖特産のワカサギ天ぷら、北海道産黒毛和牛の陶板ステーキを味わう厳選湖畔名宿5選を徹底解説します。",
@@ -77,7 +77,7 @@ export default function HokkaidoAkankoWinterFeature() {
           "name": "Croud Travel",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "author": {
@@ -88,31 +88,31 @@ export default function HokkaidoAkankoWinterFeature() {
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://croud-travel.com/winter-hokkaido-akanko-onsen-lakeview-frost-flower-hokkaido-beef-stay#breadcrumb",
+        "@id": "https://croud-travel.pages.dev/winter-hokkaido-akanko-onsen-lakeview-frost-flower-hokkaido-beef-stay#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com/"
+            "item": "https://croud-travel.pages.dev/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "北海道・阿寒湖温泉 初冬フロストフラワーとアイヌ文化の宿",
-            "item": "https://croud-travel.com/winter-hokkaido-akanko-onsen-lakeview-frost-flower-hokkaido-beef-stay"
+            "item": "https://croud-travel.pages.dev/winter-hokkaido-akanko-onsen-lakeview-frost-flower-hokkaido-beef-stay"
           }
         ]
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-hokkaido-akanko-onsen-lakeview-frost-flower-hokkaido-beef-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-hokkaido-akanko-onsen-lakeview-frost-flower-hokkaido-beef-stay#faq",
         "mainEntity": faqList.map(f => ({
           "@type": "Question",
           "name": f.q,

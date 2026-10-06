@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月静岡・熱川温泉＆東伊豆の湯けむりと水平線日の出露天】名物地金目鯛姿煮＆伊豆牛石焼きステーキを満喫するオーシャンビュー名宿5選",
     description: "11月から12月にかけて、伊豆半島東海岸の熱川温泉（あたがわおんせん）は、約100度の高温泉が吹き出す温泉櫓（やぐら）から白い湯けむりが温泉街一面に立ち上り、初冬の温泉情緒が最高潮を迎えます。相模灘と正面に浮かぶ伊豆大島の水平線から昇る劇的な日の出を望む絶景露天風呂、南国情緒と温もりあふれる熱川バナナワニ園や温泉玉子作り体験。そして冬に向けて最も脂が乗り旨味が凝縮する名物「地金目鯛」のこってり甘辛姿煮やしゃぶしゃぶ、ジューシーな伊豆牛ステーキ、伊勢海老を味わう厳選オーシャンビュー名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-shizuoka-atagawa-onsen-ocean-sunrise-kinmedai-stay',
+    url: 'https://croud-travel.pages.dev/winter-shizuoka-atagawa-onsen-ocean-sunrise-kinmedai-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -160,28 +160,28 @@ export default function WinterShizuokaAtagawaPage() {
     '@graph': [
       {
         '@type': 'Article',
-        '@id': 'https://croud-travel.com/winter-shizuoka-atagawa-onsen-ocean-sunrise-kinmedai-stay#article',
+        '@id': 'https://croud-travel.pages.dev/winter-shizuoka-atagawa-onsen-ocean-sunrise-kinmedai-stay#article',
         'isPartOf': {
           '@type': 'WebSite',
-          '@id': 'https://croud-travel.com/#website',
+          '@id': 'https://croud-travel.pages.dev/#website',
           'name': 'クラドトラベル',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         },
         'headline': "【11・12月静岡・熱川温泉＆東伊豆の湯けむりと水平線日の出露天】名物地金目鯛姿煮＆伊豆牛石焼きステーキを満喫するオーシャンビュー名宿5選",
         'description': "11月から12月にかけて、伊豆半島東海岸の熱川温泉（あたがわおんせん）は、約100度の高温泉が吹き出す温泉櫓（やぐら）から白い湯けむりが温泉街一面に立ち上り、初冬の温泉情緒が最高潮を迎えます。相模灘と正面に浮かぶ伊豆大島の水平線から昇る劇的な日の出を望む絶景露天風呂、南国情緒と温もりあふれる熱川バナナワニ園や温泉玉子作り体験。そして冬に向けて最も脂が乗り旨味が凝縮する名物「地金目鯛」のこってり甘辛姿煮やしゃぶしゃぶ、ジューシーな伊豆牛ステーキ、伊勢海老を味わう厳選オーシャンビュー名宿5選を徹底解説します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.com/winter-shizuoka-atagawa-onsen-ocean-sunrise-kinmedai-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-shizuoka-atagawa-onsen-ocean-sunrise-kinmedai-stay',
         'datePublished': '2026-09-28T00:00:00+09:00',
         'dateModified': '2026-09-28T00:00:00+09:00',
         'publisher': {
           '@type': 'Organization',
           'name': 'クラドトラベル編集部',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         }
       },
       {
         '@type': 'FAQPage',
-        '@id': 'https://croud-travel.com/winter-shizuoka-atagawa-onsen-ocean-sunrise-kinmedai-stay#faq',
+        '@id': 'https://croud-travel.pages.dev/winter-shizuoka-atagawa-onsen-ocean-sunrise-kinmedai-stay#faq',
         'mainEntity': faqList.map((f) => ({
           '@type': 'Question',
           'name': f.q,

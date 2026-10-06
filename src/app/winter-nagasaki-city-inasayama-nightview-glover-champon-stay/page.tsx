@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月長崎】世界新三大夜景・稲佐山1000万ドルの冬夜景とグラバー園イルミネーション＆本場ちゃんぽん・卓袱料理を巡る夜景特等席名宿5選",
     description: "11月から1月、大気が澄み渡る冬の長崎は、モナコ・上海と並び「世界新三大夜景」に認定された稲佐山からのパノラマ夜景が年間で最も美しく輝く最高のシーズンを迎えます。洋館が温かな光に包まれるグラバー園のウィンターイルミネーション、石畳のオランダ坂、湯気立ち上る長崎新地中華街の濃厚ちゃんぽんや皿うどん・熱々の角煮まんじゅう、老舗料亭で受け継がれる長崎伝統「卓袱（しっぽく）料理」、そしてお諏訪さん（鎮西大社 諏訪神社）での冬の初詣。すり鉢状の港町を見下ろす夜景特等席の名宿5選とモデルコースをご紹介します。",
-    url: 'https://croud-travel.com/winter-nagasaki-city-inasayama-nightview-glover-champon-stay',
+    url: 'https://croud-travel.pages.dev/winter-nagasaki-city-inasayama-nightview-glover-champon-stay',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -50,20 +50,20 @@ export default function NagasakiCityInasayamaWinterPage() {
     author: {
       '@type': 'Organization',
       name: 'クラドトラベル編集部',
-      url: 'https://croud-travel.com'
+      url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
       name: 'クラドトラベル',
-      url: 'https://croud-travel.com',
+      url: 'https://croud-travel.pages.dev',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://croud-travel.com/logo.png'
+        url: 'https://croud-travel.pages.dev/logo.png'
       }
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.com/winter-nagasaki-city-inasayama-nightview-glover-champon-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-nagasaki-city-inasayama-nightview-glover-champon-stay'
     }
   };
 
@@ -75,19 +75,19 @@ export default function NagasakiCityInasayamaWinterPage() {
         '@type': 'ListItem',
         position: 1,
         name: 'ホーム',
-        item: 'https://croud-travel.com/'
+        item: 'https://croud-travel.pages.dev/'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.com/features'
+        item: 'https://croud-travel.pages.dev/features'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '長崎市街＆稲佐山 世界新三大夜景と冬グルメ名宿',
-        item: 'https://croud-travel.com/winter-nagasaki-city-inasayama-nightview-glover-champon-stay'
+        item: 'https://croud-travel.pages.dev/winter-nagasaki-city-inasayama-nightview-glover-champon-stay'
       }
     ]
   };

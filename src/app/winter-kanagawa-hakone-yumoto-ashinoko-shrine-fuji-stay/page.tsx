@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月箱根】冬の箱根湯本＆芦ノ湖・箱根神社新春初詣！澄み渡る白雪富士の絶景と名湯に寛ぐ厳選宿5選",
     description: "冬の箱根・芦ノ湖は空気が澄み渡り、純白の冠雪を抱く富士山と紺碧の湖水が奇跡的な美しさを織りなす極上の季節。11月下旬の晩秋紅葉から1月の新春初詣まで、関東総鎮守・箱根神社での平和の鳥居参拝や三社参り、湯坂山を望む箱根湯本温泉街の湯めぐり、相模湾の寒魚や箱根山麓豚を味わう極上の冬籠もり。楽天APIから最新取得した信頼の名宿5選を徹底特集します。",
-    url: 'https://croud-travel.com/winter-kanagawa-hakone-yumoto-ashinoko-shrine-fuji-stay',
+    url: 'https://croud-travel.pages.dev/winter-kanagawa-hakone-yumoto-ashinoko-shrine-fuji-stay',
     type: 'article'
   }
 };
@@ -153,19 +153,19 @@ export default function KanagawaHakoneWinterFeaturePage() {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com/"
+            "item": "https://croud-travel.pages.dev/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "【11・12・1月箱根】冬の箱根湯本＆芦ノ湖・箱根神社新春初詣！澄み渡る白雪富士の絶景と名湯に寛ぐ厳選宿5選",
-            "item": 'https://croud-travel.com/winter-kanagawa-hakone-yumoto-ashinoko-shrine-fuji-stay'
+            "item": 'https://croud-travel.pages.dev/winter-kanagawa-hakone-yumoto-ashinoko-shrine-fuji-stay'
           }
         ]
       },
@@ -182,7 +182,7 @@ export default function KanagawaHakoneWinterFeaturePage() {
           "name": "旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/icon.png"
+            "url": "https://croud-travel.pages.dev/icon.png"
           }
         },
         "datePublished": "2026-10-03",

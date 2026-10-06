@@ -732,27 +732,7 @@ export default function ShigaKogenSnowMonkeyPage() {
         </section>
 
         {/* よくある質問（FAQ） */}
-        <section className="bg-white rounded-2xl p-6 sm:p-8 border border-slate-200 shadow-sm mb-12">
-          <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mb-6 flex items-center gap-2.5">
-            <ShieldAlert className="w-6 h-6 text-blue-600" />
-            志賀高原・スノーモンキー旅行 よくある質問（FAQ）
-          </h2>
-
-          <div className="space-y-4">
-            {faqItems.map((faq, index) => (
-              <div key={index} className="rounded-xl border border-slate-200 bg-slate-50/50 p-5">
-                <h3 className="text-base font-bold text-slate-900 flex items-start gap-2.5 mb-2.5">
-                  <span className="flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-blue-600 text-xs font-bold text-white">Q</span>
-                  <span>{faq.q}</span>
-                </h3>
-                <div className="flex items-start gap-2.5 text-xs sm:text-sm text-slate-700 leading-relaxed pl-8">
-                  <span className="font-bold text-blue-600 shrink-0">A.</span>
-                  <p>{faq.a}</p>
-                </div>
-              </div>
-            ))}
-          </div>
-        </section>
+        
 
         {/* 内部リンク・関連特集セクション */}
         <section className="bg-slate-900 text-white rounded-2xl p-6 sm:p-8 border border-slate-800 shadow-md">

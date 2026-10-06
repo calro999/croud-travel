@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月長崎】立ち上る雲仙地獄の白煙と冬の奇跡「霧氷」・極上雲仙牛＆島原名物具雑煮を堪能する雲仙温泉名宿5選",
     description: "11月から1月、日本最初の国立公園に指定された標高700mの高原に広がる長崎県島原半島「雲仙（うんぜん）温泉」は、大地の息吹を感じる地獄の白煙と、冬の山岳が織りなす神秘の銀世界を迎えます。もうもうと立ち上る噴気と硫黄の香りに包まれる「雲仙地獄」は、冬の冷たい空気の中で湯煙の迫力が劇的に倍増。さらに12月から1月にかけては、仁田峠から妙見岳にかけて樹木に過冷却の水滴が氷結する幻想的な自然の芸術「霧氷（地元で『花ぼうろ』と呼ばれる）」が現れ、白銀の樹氷群と眼下に広がる青い有明海・橘湾のコントラストに息を呑みます。強い殺菌力と血行促進力を誇る乳白色の酸性・含硫黄温泉は、冬の冷えや疲れを根底から解き放つ奇跡の温まり湯。夕食には名峰・普賢岳の清らかな伏流水で育つ極上霜降り「雲仙牛」「長崎和牛」のステーキや、島原の乱ゆかりの伝統郷土鍋「具雑煮（ぐぞうに）」、橘湾の寒ビラメや有明海のアナゴが食卓を贅沢に彩ります。明治・大正期から外国人の避暑地として愛されたクラシカルな異国情緒とともに、冬の雲仙を堪能する厳選5宿を徹底ガイドします。",
-    url: 'https://croud-travel.com/winter-nagasaki-unzen-onsen-jigoku-muhyo-unzen-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-nagasaki-unzen-onsen-jigoku-muhyo-unzen-beef-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -44,10 +44,10 @@ export default function NagasakiUnzenOnsenWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-nagasaki-unzen-onsen-jigoku-muhyo-unzen-beef-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-nagasaki-unzen-onsen-jigoku-muhyo-unzen-beef-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-nagasaki-unzen-onsen-jigoku-muhyo-unzen-beef-stay"
+          "@id": "https://croud-travel.pages.dev/winter-nagasaki-unzen-onsen-jigoku-muhyo-unzen-beef-stay"
         },
         "headline": "【11・12・1月長崎】立ち上る雲仙地獄の白煙と冬の奇跡「霧氷」・極上雲仙牛＆島原名物具雑煮を堪能する雲仙温泉名宿5選",
         "description": "11月から1月、日本最初の国立公園に指定された標高700mの高原に広がる長崎県島原半島「雲仙（うんぜん）温泉」は、大地の息吹を感じる地獄の白煙と、冬の山岳が織りなす神秘の銀世界を迎えます。もうもうと立ち上る噴気と硫黄の香りに包まれる「雲仙地獄」は、冬の冷たい空気の中で湯煙の迫力が劇的に倍増。さらに12月から1月にかけては、仁田峠から妙見岳にかけて樹木に過冷却の水滴が氷結する幻想的な自然の芸術「霧氷（地元で『花ぼうろ』と呼ばれる）」が現れ、白銀の樹氷群と眼下に広がる青い有明海・橘湾のコントラストに息を呑みます。強い殺菌力と血行促進力を誇る乳白色の酸性・含硫黄温泉は、冬の冷えや疲れを根底から解き放つ奇跡の温まり湯。夕食には名峰・普賢岳の清らかな伏流水で育つ極上霜降り「雲仙牛」「長崎和牛」のステーキや、島原の乱ゆかりの伝統郷土鍋「具雑煮（ぐぞうに）」、橘湾の寒ビラメや有明海のアナゴが食卓を贅沢に彩ります。明治・大正期から外国人の避暑地として愛されたクラシカルな異国情緒とともに、冬の雲仙を堪能する厳選5宿を徹底ガイドします。",
@@ -57,46 +57,46 @@ export default function NagasakiUnzenOnsenWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "クラドトラベル 九州・名湯取材班",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル",
-          "url": "https://croud-travel.com",
+          "url": "https://croud-travel.pages.dev",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
-        "mainEntityOfPage": "https://croud-travel.com/winter-nagasaki-unzen-onsen-jigoku-muhyo-unzen-beef-stay"
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-nagasaki-unzen-onsen-jigoku-muhyo-unzen-beef-stay"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://croud-travel.com/winter-nagasaki-unzen-onsen-jigoku-muhyo-unzen-beef-stay#breadcrumb",
+        "@id": "https://croud-travel.pages.dev/winter-nagasaki-unzen-onsen-jigoku-muhyo-unzen-beef-stay#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com"
+            "item": "https://croud-travel.pages.dev"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "長崎・雲仙温泉の地獄と冬霧氷・雲仙牛特集",
-            "item": "https://croud-travel.com/winter-nagasaki-unzen-onsen-jigoku-muhyo-unzen-beef-stay"
+            "item": "https://croud-travel.pages.dev/winter-nagasaki-unzen-onsen-jigoku-muhyo-unzen-beef-stay"
           }
         ]
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-nagasaki-unzen-onsen-jigoku-muhyo-unzen-beef-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-nagasaki-unzen-onsen-jigoku-muhyo-unzen-beef-stay#faq",
         "mainEntity": [{"@type":"Question","name":"雲仙の冬の風物詩「霧氷（むひょう・花ぼうろ）」とは何ですか？いつ見られますか？","acceptedAnswer":{"@type":"Answer","text":"霧氷は、0℃以下に冷やされた大気中の過冷却水滴（霧や雲）が、風に吹き付けられて樹木の枝や葉に瞬間的に氷結して成長する自然現象です。雲仙地方では古くからその美しさを称えて「花ぼうろ（ポルトガル伝来の焼き菓子ボーロに白砂糖をまぶした姿に似ていることから）」と呼ばれ親しまれています。例年12月上旬から3月上旬にかけて、標高1,000mを超える「仁田峠」や「妙見岳」周辺で発生します。仁田峠循環道路や雲仙ロープウェイを利用すれば、白銀の霧氷トンネルや霧氷樹林を手軽に間近で鑑賞できます。"}},{"@type":"Question","name":"冬（11月・12月・1月）の雲仙温泉街の気候や積雪状況、道路の冬用タイヤは必要ですか？","acceptedAnswer":{"@type":"Answer","text":"雲仙温泉街は標高約700mの高地に位置するため、平地（諫早や長崎市内）と比べて気温が約5℃〜7℃低くなります。11月は秋の深まりとともに朝晩の冷え込みが厳しくなり、12月中旬から1月にかけては雪が降ったり、夜間・早朝に路面が凍結することがあります。特に仁田峠方面へ向かう山道や峠越えルートは積雪・凍結しやすいので、12月〜1月に車で訪れる場合は必ずスタッドレスタイヤの装着またはチェーンの携行が必要です。雪道運転が不安な方は、JR諫早駅発着の島鉄バスを利用するのが安心です。"}},{"@type":"Question","name":"雲仙温泉の泉質と特徴、乳白色のにごり湯の効能について教えてください。","acceptedAnswer":{"@type":"Answer","text":"雲仙温泉の泉質は「酸性・含硫黄-単純温泉（硫化水素型）」です。活火山・雲仙岳の地下深部から湧き出す熱水と火山ガスが混ざり合って湧出するため、pH2〜3前後の強い酸性を示し、独特の硫黄臭と乳白色のにごり湯が特徴です。酸性泉の強力な殺菌効果と、硫黄成分による末梢血管の拡張（血行促進作用）により、リウマチ、神経痛、冷え性、慢性皮膚病、疲労回復に抜群の効能を発揮。「天然の薬湯」として心身の芯まで温めてくれます。"}},{"@type":"Question","name":"島原半島の冬の名物料理「具雑煮（ぐぞうに）」とはどんな料理ですか？","acceptedAnswer":{"@type":"Answer","text":"「具雑煮」は、島原地方に伝わる独特の郷土料理です。寛永14年（1637年）の島原の乱の際、一揆軍の総大将・天草四郎が原城に籠城した際、農民たちに餅を供出させ、山や海の幸をごった煮にして栄養をつけたのが始まりとされています。土鍋の中に、丸餅、地鶏、焼きアナゴ、高野豆腐、玉子焼き、椎茸、ゴボウ、春菊など10種類以上もの豊富な具材がぎっしりと入り、カツオや昆布の出汁で煮込まれます。出汁の旨味と餅の柔らかさが一体となった具雑煮は、冬の寒さを吹き飛ばす島原の最高のソウルフードです。"}},{"@type":"Question","name":"雲仙温泉街の見どころ「雲仙地獄」の冬ならではの楽しみ方は？","acceptedAnswer":{"@type":"Answer","text":"「雲仙地獄」は、温泉街の中心部に広がる硫黄ガスと温泉の噴出地帯で、大叫喚地獄やお糸地獄など約30箇所の地獄が存在します。冬の冷え込んだ大気の中では、地下から噴き出す水蒸気が一気に凝結するため、夏場とは比較にならないほど巨大で迫力ある白い湯煙の柱が立ち上ります。木製の遊歩道が整備されており、地熱で温まった「足蒸し」や名物「温泉卵（地獄蒸し卵）」を食べながらの散策が冬の醍醐味です。"}}]
       }
     ]

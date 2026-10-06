@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月栃木】平家落人の隠れ里・湯西川温泉の雪見露天風呂と名物平家囲炉裏会席＆日本夜景遺産かまくら祭を巡る名宿5選",
     description: "11月から1月、日光国立公園の最深部・平家落人伝説が息づく秘境「湯西川（ゆにしがわ）温泉」は、深山幽谷の静寂と白銀の雪景色に包まれます。壇ノ浦の合戦に敗れた平家の一門が隠れ住んだとされるこの里には、茅葺き屋根の古民家や清らかな湯西川のせせらぎ、そして何百年も受け継がれてきた「平家囲炉裏料理」の文化が色濃く残ります。囲炉裏端の炭火で香ばしく焼き上げる川魚の塩焼きや名物ばんだい餅、野鳥やジビエの串焼き、竹筒で温める熱燗「かっぽ酒」は、冬の冷えた体に染み渡る至極の郷土の味。アルカリ性単純温泉の柔らかな源泉掛け流し露天風呂から眺める粉雪の渓谷美は格別です。さらに1月下旬から河川敷を数千個のミニかまくらが幻想的に照らし出す「日本夜景遺産・湯西川温泉かまくら祭」の開催時期に合わせて訪れたい、歴史と温もりに満ちた厳選5宿を詳しくご案内します。",
-    url: 'https://croud-travel.com/winter-tochigi-yunishigawa-onsen-kamakura-irori-stay',
+    url: 'https://croud-travel.pages.dev/winter-tochigi-yunishigawa-onsen-kamakura-irori-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -44,10 +44,10 @@ export default function TochigiYunishigawaOnsenWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-tochigi-yunishigawa-onsen-kamakura-irori-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-tochigi-yunishigawa-onsen-kamakura-irori-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-tochigi-yunishigawa-onsen-kamakura-irori-stay"
+          "@id": "https://croud-travel.pages.dev/winter-tochigi-yunishigawa-onsen-kamakura-irori-stay"
         },
         "headline": "【11・12・1月栃木】平家落人の隠れ里・湯西川温泉の雪見露天風呂と名物平家囲炉裏会席＆日本夜景遺産かまくら祭を巡る名宿5選",
         "description": "11月から1月、日光国立公園の最深部・平家落人伝説が息づく秘境「湯西川（ゆにしがわ）温泉」は、深山幽谷の静寂と白銀の雪景色に包まれます。壇ノ浦の合戦に敗れた平家の一門が隠れ住んだとされるこの里には、茅葺き屋根の古民家や清らかな湯西川のせせらぎ、そして何百年も受け継がれてきた「平家囲炉裏料理」の文化が色濃く残ります。囲炉裏端の炭火で香ばしく焼き上げる川魚の塩焼きや名物ばんだい餅、野鳥やジビエの串焼き、竹筒で温める熱燗「かっぽ酒」は、冬の冷えた体に染み渡る至極の郷土の味。アルカリ性単純温泉の柔らかな源泉掛け流し露天風呂から眺める粉雪の渓谷美は格別です。さらに1月下旬から河川敷を数千個のミニかまくらが幻想的に照らし出す「日本夜景遺産・湯西川温泉かまくら祭」の開催時期に合わせて訪れたい、歴史と温もりに満ちた厳選5宿を詳しくご案内します。",
@@ -57,46 +57,46 @@ export default function TochigiYunishigawaOnsenWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "クラドトラベル 秘湯・歴史探訪取材班",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル",
-          "url": "https://croud-travel.com",
+          "url": "https://croud-travel.pages.dev",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
-        "mainEntityOfPage": "https://croud-travel.com/winter-tochigi-yunishigawa-onsen-kamakura-irori-stay"
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-tochigi-yunishigawa-onsen-kamakura-irori-stay"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://croud-travel.com/winter-tochigi-yunishigawa-onsen-kamakura-irori-stay#breadcrumb",
+        "@id": "https://croud-travel.pages.dev/winter-tochigi-yunishigawa-onsen-kamakura-irori-stay#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com"
+            "item": "https://croud-travel.pages.dev"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "栃木・湯西川温泉の囲炉裏料理とかまくら祭特集",
-            "item": "https://croud-travel.com/winter-tochigi-yunishigawa-onsen-kamakura-irori-stay"
+            "item": "https://croud-travel.pages.dev/winter-tochigi-yunishigawa-onsen-kamakura-irori-stay"
           }
         ]
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-tochigi-yunishigawa-onsen-kamakura-irori-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-tochigi-yunishigawa-onsen-kamakura-irori-stay#faq",
         "mainEntity": [{"@type":"Question","name":"湯西川温泉の「かまくら祭」とはどのようなイベントですか？開催期間や見どころは？","acceptedAnswer":{"@type":"Answer","text":"「湯西川温泉かまくら祭」は、例年1月下旬から2月下旬にかけて開催される日本夜景遺産認定の冬の一大イベントです。メイン会場の「平家の里」や「沢口河川敷」には、数百個から千個に及ぶミニかまくらが作られ、日没とともにロウソクの火が一斉に灯されます。白銀の河川敷にオレンジ色の無数の光が揺らめく光景は、息を呑むほど幻想的でロマンチックです。また平家の里会場では大型かまくらの中で温かい甘酒やお汁粉を楽しむこともできます。"}},{"@type":"Question","name":"湯西川名物「平家囲炉裏料理（お狩場焼）」とは具体的にどんな料理ですか？","acceptedAnswer":{"@type":"Answer","text":"壇ノ浦の合戦後、平家の落人たちが追っ手を逃れて身を潜めながら、山中で仕留めた鳥獣や川魚、山菜を囲炉裏の灰に竹串を刺して炭火で焼いて食べたのが始まりと伝えられています。現在では、新鮮な岩魚や山女魚の塩焼き、野鳥や鹿・猪などのジビエ串、日光名物の湯波（ゆば）、すりつぶした米を丸めて串に刺し特製じゅうねん味噌（エゴマ味噌）を塗った「ばんだい餅」などを囲炉裏端で香ばしく焼き上げます。青竹の筒に地酒を入れて灰の中で燗をつける「かっぽ酒」とともに味わうのが伝統のスタイルです。"}},{"@type":"Question","name":"湯西川温泉の泉質と特徴、冬の雪見風呂の効能について教えてください。","acceptedAnswer":{"@type":"Answer","text":"湯西川温泉の泉質は主に「アルカリ性単純温泉（低張性アルカリ性高温泉）」です。pH値が高く無色透明・無味無臭の柔らかな湯触りが特徴で、刺激が少ないため肌がデリケートな方や小さなお子様、高齢の方でも安心して長湯できます。アルカリ性の成分が肌の汚れや角質を優しく落とし、入浴後はすべすべの滑らかな肌に。また神経痛、筋肉痛、冷え性、疲労回復に優れた効能があり、冬の寒さでこわばった体を芯から温めてくれます。"}},{"@type":"Question","name":"11月〜1月の湯西川温泉へのアクセス道路状況と雪道対策はどうですか？","acceptedAnswer":{"@type":"Answer","text":"湯西川温泉は日光市の最北端、山深い豪雪地域に位置しています。11月下旬頃から初雪が降り始め、12月から1月は完全な圧雪・凍結路面となります。車で訪れる場合は必ずスタッドレスタイヤ（4WD車推奨）を装着してください。急ブレーキ・急ハンドルを避け、十分な車間距離を取って走行する必要があります。雪道運転に不安がある方は、東武鉄道・野岩鉄道の「湯西川温泉駅」から発着する日光交通の路線バスを利用するのが最も安全で快適です。"}},{"@type":"Question","name":"湯西川温泉周辺の冬の見どころや立ち寄りスポットはどこですか？","acceptedAnswer":{"@type":"Answer","text":"平家落人の生活様式を再現した民俗資料館「平家の里」では、茅葺き屋根の古民家群が雪に覆われ、雪国ならではの原風景に出会えます。また温泉街から少し足を伸ばした「水の郷」では、巨大な吊り橋からの雪景色鑑賞や足湯、郷土料理が楽しめます。お土産には日光名物の生湯波、ばんだい餅、栃の実せんべい、日光の地酒（四季桜や日光誉）が定番です。"}}]
       }
     ]

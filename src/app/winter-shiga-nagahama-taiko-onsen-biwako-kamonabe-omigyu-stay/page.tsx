@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月滋賀・長浜太閤温泉の初冬琵琶湖夕景と名物天然鴨鍋】秀吉ゆかりの含鉄泉＆極上近江牛すき焼きを堪能する湖北名宿5選",
     description: "11月から12月にかけて、日本最大の湖・琵琶湖の東岸に位置する長浜は、シベリアから優美なコハクチョウや水鳥が飛来し、湖面を黄金色に染め上げる夕暮れパノラマが美しい初冬の旅情に包まれます。戦国武将・豊臣秀吉公が長浜城築城の際に湧き出たと伝わる「長浜太閤温泉」は、有馬の金泉を彷彿とさせる茶褐色の含鉄炭酸泉で、身体の芯から温まる名湯。さらに11月15日の鴨猟解禁とともに始まる湖北の冬の伝統食「天然真鴨（マガモ）の鴨鍋（かもすき）」と、三大和牛「近江牛」の霜降りすき焼きを堪能する厳選名宿5選を詳しく解説します。",
-    url: 'https://croud-travel.com/winter-shiga-nagahama-taiko-onsen-biwako-kamonabe-omigyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-shiga-nagahama-taiko-onsen-biwako-kamonabe-omigyu-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -62,10 +62,10 @@ export default function ShigaNagahamaWinterFeature() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-shiga-nagahama-taiko-onsen-biwako-kamonabe-omigyu-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-shiga-nagahama-taiko-onsen-biwako-kamonabe-omigyu-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-shiga-nagahama-taiko-onsen-biwako-kamonabe-omigyu-stay"
+          "@id": "https://croud-travel.pages.dev/winter-shiga-nagahama-taiko-onsen-biwako-kamonabe-omigyu-stay"
         },
         "headline": "【11・12月滋賀・長浜太閤温泉の初冬琵琶湖夕景と名物天然鴨鍋】秀吉ゆかりの含鉄泉＆極上近江牛すき焼きを堪能する湖北名宿5選",
         "description": "11月から12月にかけて、日本最大の湖・琵琶湖の東岸に位置する長浜は、シベリアから優美なコハクチョウや水鳥が飛来し、湖面を黄金色に染め上げる夕暮れパノラマが美しい初冬の旅情に包まれます。戦国武将・豊臣秀吉公が長浜城築城の際に湧き出たと伝わる「長浜太閤温泉」は、有馬の金泉を彷彿とさせる茶褐色の含鉄炭酸泉で、身体の芯から温まる名湯。さらに11月15日の鴨猟解禁とともに始まる湖北の冬の伝統食「天然真鴨（マガモ）の鴨鍋（かもすき）」と、三大和牛「近江牛」の霜降りすき焼きを堪能する厳選名宿5選を詳しく解説します。",
@@ -77,7 +77,7 @@ export default function ShigaNagahamaWinterFeature() {
           "name": "Croud Travel",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "author": {
@@ -88,31 +88,31 @@ export default function ShigaNagahamaWinterFeature() {
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://croud-travel.com/winter-shiga-nagahama-taiko-onsen-biwako-kamonabe-omigyu-stay#breadcrumb",
+        "@id": "https://croud-travel.pages.dev/winter-shiga-nagahama-taiko-onsen-biwako-kamonabe-omigyu-stay#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com/"
+            "item": "https://croud-travel.pages.dev/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "滋賀・長浜太閤温泉 初冬琵琶湖夕景と天然鴨鍋の宿",
-            "item": "https://croud-travel.com/winter-shiga-nagahama-taiko-onsen-biwako-kamonabe-omigyu-stay"
+            "item": "https://croud-travel.pages.dev/winter-shiga-nagahama-taiko-onsen-biwako-kamonabe-omigyu-stay"
           }
         ]
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-shiga-nagahama-taiko-onsen-biwako-kamonabe-omigyu-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-shiga-nagahama-taiko-onsen-biwako-kamonabe-omigyu-stay#faq",
         "mainEntity": faqList.map(f => ({
           "@type": "Question",
           "name": f.q,

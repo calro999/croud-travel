@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月北海道】知床ウトロ＆網走の冬絶景とオホーツク海鮮・極上知床牛＆冬タラバ・毛ガニ・高級魚めんめ湯煮を堪能する名宿5選",
     description: "11月から1月、世界自然遺産・知床ウトロとオホーツクの要衝・網走は、白銀に染まる知床連峰と凛と澄み渡るオホーツクブルーの海原が織りなす荘厳な冬景色に包まれます。この季節の味覚はまさに北海道の至宝。ぎっしり身の詰まった冬の活毛ガニや本タラバガニ、脂の乗り切った深海の赤い宝石「めんめ（キンキ）」の湯煮、とろける甘みの極上知床牛フィレステーキ。オホーツク海を一望する絶景サウナや茶褐色の源泉が注ぐ雪見露天風呂に浸かり、北方民族のロマンと極上の北欧風リゾート空間に癒やされる厳選5宿を徹底ガイドします。",
-    url: 'https://croud-travel.com/winter-hokkaido-shiretoko-abashiri-onsen-crab-kinki-stay',
+    url: 'https://croud-travel.pages.dev/winter-hokkaido-shiretoko-abashiri-onsen-crab-kinki-stay',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -50,19 +50,19 @@ export default function HokkaidoShiretokoAbashiriWinterPage() {
     author: {
       '@type': 'Organization',
       name: 'クラドトラベル編集部',
-      url: 'https://croud-travel.com'
+      url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
       name: 'クラドトラベル',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://croud-travel.com/logo.png'
+        url: 'https://croud-travel.pages.dev/logo.png'
       }
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.com/winter-hokkaido-shiretoko-abashiri-onsen-crab-kinki-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-hokkaido-shiretoko-abashiri-onsen-crab-kinki-stay'
     }
   };
 
@@ -74,19 +74,19 @@ export default function HokkaidoShiretokoAbashiriWinterPage() {
         '@type': 'ListItem',
         position: 1,
         name: 'ホーム',
-        item: 'https://croud-travel.com'
+        item: 'https://croud-travel.pages.dev'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.com/features'
+        item: 'https://croud-travel.pages.dev/features'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '知床ウトロ・網走の冬絶景とオホーツク海鮮名宿',
-        item: 'https://croud-travel.com/winter-hokkaido-shiretoko-abashiri-onsen-crab-kinki-stay'
+        item: 'https://croud-travel.pages.dev/winter-hokkaido-shiretoko-abashiri-onsen-crab-kinki-stay'
       }
     ]
   };

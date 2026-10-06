@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月高知】宿毛湾の奇跡「だるま夕日」と四万十川の冬旅！冬が旬の「宿毛寒ブリ・本マグロ・四万十牛」と太平洋一望のリゾート温泉名宿5選",
     description: "冬の澄み切った大気と水平線が織りなす奇跡の光景を巡る11〜1月の高知西南・宿毛＆四万十特集。冬の宿毛湾を真っ赤に染め上げる蜃気楼の絶景「だるま夕日」や、静寂に包まれる日本最後の清流「四万十川」の沈下橋。豊後水道の荒波が育む脂の乗った「宿毛寒ブリ」、養殖本マグロ、幻の「四万十牛」すき焼き。太平洋の絶景パノラマを望む温泉リゾートなど厳選名宿5選を徹底ガイドします。",
-    url: 'https://croud-travel.com/winter-kochi-sukumo-daruma-sunset-shimanto-stay',
+    url: 'https://croud-travel.pages.dev/winter-kochi-sukumo-daruma-sunset-shimanto-stay',
     type: 'article',
     images: [
       {
@@ -49,19 +49,19 @@ export default function KochiSukumoShimantoWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "旅クラウド編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "旅クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-kochi-sukumo-daruma-sunset-shimanto-stay"
+          "@id": "https://croud-travel.pages.dev/winter-kochi-sukumo-daruma-sunset-shimanto-stay"
         }
       },
       {
@@ -71,19 +71,19 @@ export default function KochiSukumoShimantoWinterPage() {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com"
+            "item": "https://croud-travel.pages.dev"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "冬の旅特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "高知・宿毛だるま夕日＆四万十川・寒ブリ名宿",
-            "item": "https://croud-travel.com/winter-kochi-sukumo-daruma-sunset-shimanto-stay"
+            "item": "https://croud-travel.pages.dev/winter-kochi-sukumo-daruma-sunset-shimanto-stay"
           }
         ]
       },

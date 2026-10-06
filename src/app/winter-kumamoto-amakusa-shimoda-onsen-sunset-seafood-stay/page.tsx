@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月天草・下田温泉の冬名湯と夕陽海鮮】東シナ海サンセット露天と白鷺古湯・冬の伊勢海老＆天然車海老会席の宿5選",
     description: "11月から12月にかけて東シナ海に沈む茜色の夕陽が最も美しく輝く熊本「天草」と開湯700年の名湯「下田温泉」。日本の夕陽百選に選ばれる海岸沿いの絶景露天風呂や100%源泉掛け流しの白鷺古湯、旬の極上「天草伊勢海老」「天然車海老」「天草とらふぐ」の豪快海鮮会席、世界遺産・﨑津集落の初冬風情を満喫する厳選名宿5選を徹底解説。",
-    url: 'https://croud-travel.com/winter-kumamoto-amakusa-shimoda-onsen-sunset-seafood-stay',
+    url: 'https://croud-travel.pages.dev/winter-kumamoto-amakusa-shimoda-onsen-sunset-seafood-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -68,7 +68,7 @@ export default function AmakusaOnsenWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-kumamoto-amakusa-shimoda-onsen-sunset-seafood-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-kumamoto-amakusa-shimoda-onsen-sunset-seafood-stay#article",
         "headline": "【11・12月天草・下田温泉の冬名湯と夕陽海鮮】東シナ海サンセット露天と白鷺古湯・冬の伊勢海老＆天然車海老会席の宿5選",
         "description": "11月から12月にかけて東シナ海に沈む茜色の夕陽が最も美しく輝く熊本「天草」と開湯700年の名湯「下田温泉」。日本の夕陽百選に選ばれる海岸沿いの絶景露天風呂や100%源泉掛け流しの白鷺古湯、旬の極上「天草伊勢海老」「天然車海老」「天草とらふぐ」の豪快海鮮会席、世界遺産・﨑津集落の初冬風情を満喫する厳選名宿5選を徹底解説。",
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
@@ -77,24 +77,24 @@ export default function AmakusaOnsenWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-kumamoto-amakusa-shimoda-onsen-sunset-seafood-stay"
+          "@id": "https://croud-travel.pages.dev/winter-kumamoto-amakusa-shimoda-onsen-sunset-seafood-stay"
         }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-kumamoto-amakusa-shimoda-onsen-sunset-seafood-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-kumamoto-amakusa-shimoda-onsen-sunset-seafood-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -140,7 +140,7 @@ export default function AmakusaOnsenWinterPage() {
       },
       {
         "@type": "ItemList",
-        "@id": "https://croud-travel.com/winter-kumamoto-amakusa-shimoda-onsen-sunset-seafood-stay#hotels",
+        "@id": "https://croud-travel.pages.dev/winter-kumamoto-amakusa-shimoda-onsen-sunset-seafood-stay#hotels",
         "itemListElement": [
           {
             "@type": "ListItem",

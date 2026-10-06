@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月鳥羽温泉郷の旬を迎える伊勢海老と的矢牡蠣】鳥羽湾パノラマ絶景露天風呂・極上松阪牛ステーキ＆答志島トロさわら会席の宿5選",
     description: "11月から12月にかけて三重県・伊勢志摩の鳥羽温泉郷は、秋の禁漁明けから本番を迎える冬の二大味覚「本場伊勢海老」と「的矢牡蠣（まとやかき）」の最高峰シーズンに突入します。波静かな鳥羽湾に浮かぶ島々や朝焼けパノラマを望む絶景展望露天風呂、ミキモト真珠パウダーを配合したパールオーロラ風呂、一本釣りで水揚げされる脂の乗った「答志島トロさわら」の炙り、世界に誇る銘柄牛「松阪牛」の陶板焼きやすき焼きを心ゆくまで堪能する至福の海辺名宿5選を徹底解説。",
-    url: 'https://croud-travel.com/winter-mie-toba-onsen-ise-ebi-matoya-oyster-stay',
+    url: 'https://croud-travel.pages.dev/winter-mie-toba-onsen-ise-ebi-matoya-oyster-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -68,7 +68,7 @@ export default function TobaOnsenWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-mie-toba-onsen-ise-ebi-matoya-oyster-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-mie-toba-onsen-ise-ebi-matoya-oyster-stay#article",
         "headline": "【11・12月鳥羽温泉郷の旬を迎える伊勢海老と的矢牡蠣】鳥羽湾パノラマ絶景露天風呂・極上松阪牛ステーキ＆答志島トロさわら会席の宿5選",
         "description": "11月から12月にかけて三重県・伊勢志摩の鳥羽温泉郷は、秋の禁漁明けから本番を迎える冬の二大味覚「本場伊勢海老」と「的矢牡蠣（まとやかき）」の最高峰シーズンに突入します。波静かな鳥羽湾に浮かぶ島々や朝焼けパノラマを望む絶景展望露天風呂、ミキモト真珠パウダーを配合したパールオーロラ風呂、一本釣りで水揚げされる脂の乗った「答志島トロさわら」の炙り、世界に誇る銘柄牛「松阪牛」の陶板焼きやすき焼きを心ゆくまで堪能する至福の海辺名宿5選を徹底解説。",
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
@@ -77,24 +77,24 @@ export default function TobaOnsenWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-mie-toba-onsen-ise-ebi-matoya-oyster-stay"
+          "@id": "https://croud-travel.pages.dev/winter-mie-toba-onsen-ise-ebi-matoya-oyster-stay"
         }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-mie-toba-onsen-ise-ebi-matoya-oyster-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-mie-toba-onsen-ise-ebi-matoya-oyster-stay#faq",
         "mainEntity": faqList.map(item => ({
           "@type": "Question",
           "name": item.q,

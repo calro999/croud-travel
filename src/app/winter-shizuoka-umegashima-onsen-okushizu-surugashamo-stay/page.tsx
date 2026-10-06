@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月梅ヶ島温泉】駿府の隠し湯・南アルプス前衛峰の静寂と開湯1700年超濃厚とろとろ硫黄泉・駿河軍鶏鍋＆しずおか和牛・本わさび名宿5選",
     description: "11月中旬から12月の初冬、静岡市街から清流安倍川を北へ約1時間半遡った南アルプス前衛峰の最深部、オクシズ（奥静岡）の秘境に位置する梅ヶ島温泉郷（うめがしまおんせんきょう）は、山々が静寂に包まれ、立ち昇る白い湯煙と濃厚な硫黄の香りが旅人を非日常へと誘う極上の秘湯シーズンを迎えます。開湯は約1700年前、武田信玄や徳川家康公も逗留したと伝わる「駿府の隠し湯」。最大の特徴は、pH9.6超の高アルカリ性と濃密な硫黄成分が融合した「超濃厚とろとろ硫黄泉」。まるで美容液にそのまま浸かっているかのようなトロトロの湯ざわりは全国の温泉ファンから絶賛され、冷え切った冬の肌を一瞬で絹のようになめらかに整えます。夕食の膳には、引き締まった肉質と深いコクを誇る幻のブランド地鶏「駿河軍鶏（シャモ）」の熱々鍋や炭火焼き、美しい霜降りの「しずおか和牛」、日本におけるわさび栽培発祥の地・有東木で育まれた清烈な「生本わさび」が並びます。初冬の奥静岡で心ほどける秘境リトリートを約束する厳選5宿をご紹介します。",
-    url: 'https://croud-travel.com/winter-shizuoka-umegashima-onsen-okushizu-surugashamo-stay',
+    url: 'https://croud-travel.pages.dev/winter-shizuoka-umegashima-onsen-okushizu-surugashamo-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -44,23 +44,23 @@ export default function ShizuokaUmegashimaWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-shizuoka-umegashima-onsen-okushizu-surugashamo-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-shizuoka-umegashima-onsen-okushizu-surugashamo-stay#article",
         "isPartOf": {
           "@type": "WebSite",
-          "@id": "https://croud-travel.com/#website",
+          "@id": "https://croud-travel.pages.dev/#website",
           "name": "クラドトラベル",
-          "url": "https://croud-travel.com/"
+          "url": "https://croud-travel.pages.dev/"
         },
         "headline": "【11・12月梅ヶ島温泉】駿府の隠し湯・南アルプス前衛峰の静寂と開湯1700年超濃厚とろとろ硫黄泉・駿河軍鶏鍋＆しずおか和牛・本わさび名宿5選",
         "description": "11月中旬から12月の初冬、静岡市街から清流安倍川を北へ約1時間半遡った南アルプス前衛峰の最深部、オクシズ（奥静岡）の秘境に位置する梅ヶ島温泉郷（うめがしまおんせんきょう）は、山々が静寂に包まれ、立ち昇る白い湯煙と濃厚な硫黄の香りが旅人を非日常へと誘う極上の秘湯シーズンを迎えます。開湯は約1700年前、武田信玄や徳川家康公も逗留したと伝わる「駿府の隠し湯」。最大の特徴は、pH9.6超の高アルカリ性と濃密な硫黄成分が融合した「超濃厚とろとろ硫黄泉」。まるで美容液にそのまま浸かっているかのようなトロトロの湯ざわりは全国の温泉ファンから絶賛され、冷え切った冬の肌を一瞬で絹のようになめらかに整えます。夕食の膳には、引き締まった肉質と深いコクを誇る幻のブランド地鶏「駿河軍鶏（シャモ）」の熱々鍋や炭火焼き、美しい霜降りの「しずおか和牛」、日本におけるわさび栽培発祥の地・有東木で育まれた清烈な「生本わさび」が並びます。初冬の奥静岡で心ほどける秘境リトリートを約束する厳選5宿をご紹介します。",
         "datePublished": "2026-09-30T00:00:00+09:00",
         "dateModified": "2026-09-30T00:00:00+09:00",
         "inLanguage": "ja",
-        "mainEntityOfPage": "https://croud-travel.com/winter-shizuoka-umegashima-onsen-okushizu-surugashamo-stay",
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-shizuoka-umegashima-onsen-okushizu-surugashamo-stay",
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル編集部",
-          "url": "https://croud-travel.com/"
+          "url": "https://croud-travel.pages.dev/"
         }
       },
       {

@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月千葉・南房総館山温泉＆千倉温泉】海越しに望む冠雪富士と温暖避寒の海辺名湯・房州伊勢海老＆地魚一本買い舟盛り・極上かずさ和牛を味わう名宿5選",
     description: "11月中旬から初冬の千葉・南房総（館山・千倉・白浜）は、厳しい寒さを忘れさせてくれる黒潮の恵みによる温暖な気候と、一足早い初春の気配が漂う関東屈指の避寒リゾート地です。初冬の大気が澄み渡るこの季節の最大の絶景は、穏やかな館山湾（別名・鏡ヶ浦）越しに、白銀の雪帽子を被った雄大な「富士山」が夕陽に染まりながら海の上に浮かび上がる夕景のパノラマ。太平洋と東京湾が交わるこの海域に湧く温泉は、太古の海水成分を濃密に含んだナトリウム-塩化物冷鉱泉（強塩泉）。湯船に身を沈めれば、塩分の被膜が身体を包み込み、湯上がり後も芯まで温かさが持続します。そして初冬の食卓を豪華絢爛に飾るのは、黒潮にもまれて甘みと歯ごたえが凝縮した「房州伊勢海老」、千倉や館山港の定置網で獲れたピチピチの地魚姿造り舟盛り、肉厚な活き鮑、さらに千葉県が誇る上質な霜降り黒毛和牛「かずさ和牛」のサーロインステーキ。心地よい潮風と絶景富士に癒やされる厳選名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-chiba-minamiboso-tateyama-chikura-ocean-iseebi-stay',
+    url: 'https://croud-travel.pages.dev/winter-chiba-minamiboso-tateyama-chikura-ocean-iseebi-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -45,23 +45,23 @@ export default function ChibaMinamibosoTateyamaWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-chiba-minamiboso-tateyama-chikura-ocean-iseebi-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-chiba-minamiboso-tateyama-chikura-ocean-iseebi-stay#article",
         "isPartOf": {
           "@type": "WebSite",
-          "@id": "https://croud-travel.com/#website",
+          "@id": "https://croud-travel.pages.dev/#website",
           "name": "クラドトラベル",
-          "url": "https://croud-travel.com/"
+          "url": "https://croud-travel.pages.dev/"
         },
         "headline": "【11・12月千葉・南房総館山温泉＆千倉温泉】海越しに望む冠雪富士と温暖避寒の海辺名湯・房州伊勢海老＆地魚一本買い舟盛り・極上かずさ和牛を味わう名宿5選",
         "description": "11月中旬から初冬の千葉・南房総（館山・千倉・白浜）は、厳しい寒さを忘れさせてくれる黒潮の恵みによる温暖な気候と、一足早い初春の気配が漂う関東屈指の避寒リゾート地です。初冬の大気が澄み渡るこの季節の最大の絶景は、穏やかな館山湾（別名・鏡ヶ浦）越しに、白銀の雪帽子を被った雄大な「富士山」が夕陽に染まりながら海の上に浮かび上がる夕景のパノラマ。太平洋と東京湾が交わるこの海域に湧く温泉は、太古の海水成分を濃密に含んだナトリウム-塩化物冷鉱泉（強塩泉）。湯船に身を沈めれば、塩分の被膜が身体を包み込み、湯上がり後も芯まで温かさが持続します。そして初冬の食卓を豪華絢爛に飾るのは、黒潮にもまれて甘みと歯ごたえが凝縮した「房州伊勢海老」、千倉や館山港の定置網で獲れたピチピチの地魚姿造り舟盛り、肉厚な活き鮑、さらに千葉県が誇る上質な霜降り黒毛和牛「かずさ和牛」のサーロインステーキ。心地よい潮風と絶景富士に癒やされる厳選名宿5選を徹底解説します。",
         "datePublished": "2026-09-30T00:00:00+09:00",
         "dateModified": "2026-09-30T00:00:00+09:00",
         "inLanguage": "ja",
-        "mainEntityOfPage": "https://croud-travel.com/winter-chiba-minamiboso-tateyama-chikura-ocean-iseebi-stay",
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-chiba-minamiboso-tateyama-chikura-ocean-iseebi-stay",
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル編集部",
-          "url": "https://croud-travel.com/"
+          "url": "https://croud-travel.pages.dev/"
         }
       },
       {

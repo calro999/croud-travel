@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月福島】白銀の茅葺き宿場町・大内宿の雪景色と名物「一本ねぎそば」＆阿賀川渓谷雪見露天風呂・会津馬刺し名宿5選",
     description: "11月下旬から1月、会津盆地に雪が降り積もると、江戸時代の面影を今に留める国の重要伝統的建造物群保存地区「大内宿（おおうちじゅく）」は、まるで日本昔話の世界に迷い込んだかのような白銀の絶景に包まれます。太い白ネギを箸代わりに手繰る名物「高遠そば（一本ねぎそば）」と、日本唯一の茅葺き屋根駅舎「湯野上温泉駅」の温かな囲炉裏。阿賀川（大川）の切り立った渓谷を見下ろす芦ノ牧温泉のダイナミックな棚田状雪見露天風呂、極上の赤身がとろける会津馬刺しと会津地鶏鍋、全国金賞連覇を誇る福島の銘酒。冬の会津の郷愁と名湯を堪能する名宿5選をお届けします。",
-    url: 'https://croud-travel.com/winter-fukushima-aizu-ouchijuku-yunokami-ashinomaki-stay',
+    url: 'https://croud-travel.pages.dev/winter-fukushima-aizu-ouchijuku-yunokami-ashinomaki-stay',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -50,20 +50,20 @@ export default function FukushimaAizuOuchijukuWinterPage() {
     author: {
       '@type': 'Organization',
       name: 'クラドトラベル編集部',
-      url: 'https://croud-travel.com'
+      url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
       name: 'クラドトラベル',
-      url: 'https://croud-travel.com',
+      url: 'https://croud-travel.pages.dev',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://croud-travel.com/logo.png'
+        url: 'https://croud-travel.pages.dev/logo.png'
       }
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.com/winter-fukushima-aizu-ouchijuku-yunokami-ashinomaki-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-fukushima-aizu-ouchijuku-yunokami-ashinomaki-stay'
     }
   };
 
@@ -75,19 +75,19 @@ export default function FukushimaAizuOuchijukuWinterPage() {
         '@type': 'ListItem',
         position: 1,
         name: 'ホーム',
-        item: 'https://croud-travel.com/'
+        item: 'https://croud-travel.pages.dev/'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.com/features'
+        item: 'https://croud-travel.pages.dev/features'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '大内宿＆湯野上・芦ノ牧温泉 白銀宿場町と渓谷雪見露天名宿',
-        item: 'https://croud-travel.com/winter-fukushima-aizu-ouchijuku-yunokami-ashinomaki-stay'
+        item: 'https://croud-travel.pages.dev/winter-fukushima-aizu-ouchijuku-yunokami-ashinomaki-stay'
       }
     ]
   };

@@ -10,12 +10,12 @@ export const metadata: Metadata = {
   description: "都心から電車でわずか約90〜120分、東京都とは思えない大自然と霊峰が広がる奥多摩・青梅の11〜1月冬紀行。標高929mの御岳山山頂に鎮座し「おいぬ様（狼）」を祀る天空の古社「武蔵御嶽神社」で迎える厳粛な新春初詣、エメラルドグリーンの多摩川と奇岩が雪化粧をまとう氷川渓谷・鳩ノ巣渓谷の冬静寂。清流仕込みの「奥多摩生わさび」や名酒「澤乃井」の新酒、都内唯一の幻のブランド黒毛和牛「秋川牛」の極上会席。冷えた身体を芯から解きほぐす清流の美肌温泉と隠れ家宿5選を徹底解説。",
   keywords: '武蔵御嶽神社 初詣, 御岳山 冬, 氷川渓谷, 鳩ノ巣渓谷, 奥多摩わさび, 秋川牛, 奥多摩の風 はとのす荘, 亀の井ホテル 青梅, おくたま路, 瀬音の湯, 奥多摩温泉 宿泊',
   alternates: {
-    canonical: 'https://croud-travel.com/winter-tokyo-okutama-mitake-shrine-hatsumode-hikawa-gorge-akikawagyu-stay'
+    canonical: 'https://croud-travel.pages.dev/winter-tokyo-okutama-mitake-shrine-hatsumode-hikawa-gorge-akikawagyu-stay'
   },
   openGraph: {
     title: "【11・12・1月東京】天空の古社「武蔵御嶽神社」新春初詣と氷川渓谷の冬静寂！奥多摩わさび＆幻の極上「秋川牛」会席と清流名湯宿5選",
     description: "都心から電車でわずか約90〜120分、東京都とは思えない大自然と霊峰が広がる奥多摩・青梅の11〜1月冬紀行。標高929mの御岳山山頂に鎮座し「おいぬ様（狼）」を祀る天空の古社「武蔵御嶽神社」で迎える厳粛な新春初詣、エメラルドグリーンの多摩川と奇岩が雪化粧をまとう氷川渓谷・鳩ノ巣渓谷の冬静寂。清流仕込みの「奥多摩生わさび」や名酒「澤乃井」の新酒、都内唯一の幻のブランド黒毛和牛「秋川牛」の極上会席。冷えた身体を芯から解きほぐす清流の美肌温泉と隠れ家宿5選を徹底解説。",
-    url: 'https://croud-travel.com/winter-tokyo-okutama-mitake-shrine-hatsumode-hikawa-gorge-akikawagyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-tokyo-okutama-mitake-shrine-hatsumode-hikawa-gorge-akikawagyu-stay',
     type: 'article',
     images: [
       {
@@ -48,19 +48,19 @@ export default function TokyoOkutamaWinterPage() {
     "author": {
       "@type": "Organization",
       "name": "旅宿クラウド 編集部",
-      "url": "https://croud-travel.com"
+      "url": "https://croud-travel.pages.dev"
     },
     "publisher": {
       "@type": "Organization",
       "name": "旅宿クラウド",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://croud-travel.com/logo.png"
+        "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.com/winter-tokyo-okutama-mitake-shrine-hatsumode-hikawa-gorge-akikawagyu-stay"
+      "@id": "https://croud-travel.pages.dev/winter-tokyo-okutama-mitake-shrine-hatsumode-hikawa-gorge-akikawagyu-stay"
     }
   };
 
@@ -72,19 +72,19 @@ export default function TokyoOkutamaWinterPage() {
         "@type": "ListItem",
         "position": 1,
         "name": "ホーム",
-        "item": "https://croud-travel.com"
+        "item": "https://croud-travel.pages.dev"
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "特集一覧",
-        "item": "https://croud-travel.com/features"
+        "item": "https://croud-travel.pages.dev/features"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "東京・奥多摩＆青梅 冬特集",
-        "item": "https://croud-travel.com/winter-tokyo-okutama-mitake-shrine-hatsumode-hikawa-gorge-akikawagyu-stay"
+        "item": "https://croud-travel.pages.dev/winter-tokyo-okutama-mitake-shrine-hatsumode-hikawa-gorge-akikawagyu-stay"
       }
     ]
   };
@@ -662,7 +662,7 @@ export default function TokyoOkutamaWinterPage() {
 
       {/* Footer */}
       <footer className="bg-slate-900 text-slate-400 py-10 px-4 text-center text-xs border-t border-slate-800 mt-16">
-        <p>© 2026 旅宿クラウド (croud-travel.com). All rights reserved.</p>
+        <p>© 2026 旅宿クラウド (croud-travel.pages.dev). All rights reserved.</p>
         <p className="mt-2 text-slate-500">掲載の宿泊料金や施設情報は楽天トラベルAPIより取得した参考データです。最新のプラン内容は各宿泊施設ページをご確認ください。</p>
       </footer>
     </article>

@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月佐賀・唐津呼子温泉の冬の玄界灘と呼子活イカ】極上佐賀牛ステーキ＆唐津城パノラマ・唐津焼の器で味わう海辺美食名宿5選",
     description: "11月から12月にかけて、佐賀県北西部に位置する城下町・唐津と港町・呼子は、玄界灘の冬の荒波が育む極上の海の幸と、唐津城や名勝「虹の松原」を望む絶景が旅人を魅了します。初冬の透き通る身の甘みとコリコリの歯ごたえがたまらない名物「呼子の活イカ（アオリイカ・ヤリイカ）」の透明な姿造りや後造りのサクサク天ぷら、日本屈指のサシの美しさを誇るブランド黒毛和牛「佐賀牛」のステーキ。伝統の「唐津焼」の温もりあふれる器に盛られる料理の数々と、唐津湾の汐湯や天然温泉露天風呂。冬の味覚と歴史・文化が息づく厳選名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-saga-karatsu-onsen-yobuko-ika-sagagyu-genkai-stay',
+    url: 'https://croud-travel.pages.dev/winter-saga-karatsu-onsen-yobuko-ika-sagagyu-genkai-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -166,28 +166,28 @@ export default function WinterSagaKaratsuPage() {
     '@graph': [
       {
         '@type': 'Article',
-        '@id': 'https://croud-travel.com/winter-saga-karatsu-onsen-yobuko-ika-sagagyu-genkai-stay#article',
+        '@id': 'https://croud-travel.pages.dev/winter-saga-karatsu-onsen-yobuko-ika-sagagyu-genkai-stay#article',
         'isPartOf': {
           '@type': 'WebSite',
-          '@id': 'https://croud-travel.com/#website',
+          '@id': 'https://croud-travel.pages.dev/#website',
           'name': 'クラドトラベル',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         },
         'headline': "【11・12月佐賀・唐津呼子温泉の冬の玄界灘と呼子活イカ】極上佐賀牛ステーキ＆唐津城パノラマ・唐津焼の器で味わう海辺美食名宿5選",
         'description': "11月から12月にかけて、佐賀県北西部に位置する城下町・唐津と港町・呼子は、玄界灘の冬の荒波が育む極上の海の幸と、唐津城や名勝「虹の松原」を望む絶景が旅人を魅了します。初冬の透き通る身の甘みとコリコリの歯ごたえがたまらない名物「呼子の活イカ（アオリイカ・ヤリイカ）」の透明な姿造りや後造りのサクサク天ぷら、日本屈指のサシの美しさを誇るブランド黒毛和牛「佐賀牛」のステーキ。伝統の「唐津焼」の温もりあふれる器に盛られる料理の数々と、唐津湾の汐湯や天然温泉露天風呂。冬の味覚と歴史・文化が息づく厳選名宿5選を徹底解説します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.com/winter-saga-karatsu-onsen-yobuko-ika-sagagyu-genkai-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-saga-karatsu-onsen-yobuko-ika-sagagyu-genkai-stay',
         'datePublished': '2026-09-28T00:00:00+09:00',
         'dateModified': '2026-09-28T00:00:00+09:00',
         'publisher': {
           '@type': 'Organization',
           'name': 'クラドトラベル編集部',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         }
       },
       {
         '@type': 'TouristDestination',
-        '@id': 'https://croud-travel.com/winter-saga-karatsu-onsen-yobuko-ika-sagagyu-genkai-stay#destination',
+        '@id': 'https://croud-travel.pages.dev/winter-saga-karatsu-onsen-yobuko-ika-sagagyu-genkai-stay#destination',
         'name': '佐賀・唐津呼子温泉',
         'description': '玄界灘を望む城下町と港町。透明な呼子の活イカ姿造りと最高峰佐賀牛ステーキ、唐津焼の器と美肌温泉が魅力。',
         'geo': {
@@ -198,7 +198,7 @@ export default function WinterSagaKaratsuPage() {
       },
       {
         '@type': 'FAQPage',
-        '@id': 'https://croud-travel.com/winter-saga-karatsu-onsen-yobuko-ika-sagagyu-genkai-stay#faq',
+        '@id': 'https://croud-travel.pages.dev/winter-saga-karatsu-onsen-yobuko-ika-sagagyu-genkai-stay#faq',
         'mainEntity': faqList.map((f) => ({
           '@type': 'Question',
           'name': f.q,
@@ -210,7 +210,7 @@ export default function WinterSagaKaratsuPage() {
       },
       {
         '@type': 'ItemList',
-        '@id': 'https://croud-travel.com/winter-saga-karatsu-onsen-yobuko-ika-sagagyu-genkai-stay#hotellist',
+        '@id': 'https://croud-travel.pages.dev/winter-saga-karatsu-onsen-yobuko-ika-sagagyu-genkai-stay#hotellist',
         'name': '佐賀・唐津呼子温泉のおすすめ名宿5選',
         'itemListElement': hotels.map((h, idx) => ({
           '@type': 'ListItem',

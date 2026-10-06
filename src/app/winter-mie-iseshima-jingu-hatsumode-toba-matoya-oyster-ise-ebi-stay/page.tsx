@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月三重】「伊勢神宮」新春初詣と宇治橋の冬日の出！冬旬「的矢かき」・伊勢海老・松阪牛会席＆鳥羽・賢島名宿5選",
     description: "二千年の歴史を誇る日本の心のふるさと・伊勢志摩を巡る11〜1月の冬紀行。冬至前後に宇治橋大鳥居の中央から昇る奇跡の朝光と「伊勢神宮（内宮・外宮）」厳かな新春初詣、五十鈴川の清冽な流れ。的矢湾の恵みが育む冬のブランド牡蠣「的矢かき」、伊勢湾で水揚げされる伊勢海老、本場・松阪牛のすき焼き・ステーキ。鳥羽温泉郷や英虞湾を望む賢島のリゾートなど、極上の冬の滞在を叶える厳選名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-mie-iseshima-jingu-hatsumode-toba-matoya-oyster-ise-ebi-stay',
+    url: 'https://croud-travel.pages.dev/winter-mie-iseshima-jingu-hatsumode-toba-matoya-oyster-ise-ebi-stay',
     type: 'article',
     images: [
       {
@@ -48,19 +48,19 @@ export default function MieIseshimaWinterPage() {
     "author": {
       "@type": "Organization",
       "name": "旅宿クラウド 編集部",
-      "url": "https://croud-travel.com"
+      "url": "https://croud-travel.pages.dev"
     },
     "publisher": {
       "@type": "Organization",
       "name": "旅宿クラウド",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://croud-travel.com/logo.png"
+        "url": "https://croud-travel.pages.dev/logo.png"
       }
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.com/winter-mie-iseshima-jingu-hatsumode-toba-matoya-oyster-ise-ebi-stay"
+      "@id": "https://croud-travel.pages.dev/winter-mie-iseshima-jingu-hatsumode-toba-matoya-oyster-ise-ebi-stay"
     }
   };
 
@@ -72,19 +72,19 @@ export default function MieIseshimaWinterPage() {
         "@type": "ListItem",
         "position": 1,
         "name": "ホーム",
-        "item": "https://croud-travel.com"
+        "item": "https://croud-travel.pages.dev"
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "特集一覧",
-        "item": "https://croud-travel.com/features"
+        "item": "https://croud-travel.pages.dev/features"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "三重・伊勢志摩＆鳥羽 冬特集",
-        "item": "https://croud-travel.com/winter-mie-iseshima-jingu-hatsumode-toba-matoya-oyster-ise-ebi-stay"
+        "item": "https://croud-travel.pages.dev/winter-mie-iseshima-jingu-hatsumode-toba-matoya-oyster-ise-ebi-stay"
       }
     ]
   };
@@ -715,7 +715,7 @@ export default function MieIseshimaWinterPage() {
 
       {/* Footer */}
       <footer className="bg-slate-900 text-slate-400 py-10 px-4 text-center text-xs border-t border-slate-800 mt-16">
-        <p>© 2026 旅宿クラウド (croud-travel.com). All rights reserved.</p>
+        <p>© 2026 旅宿クラウド (croud-travel.pages.dev). All rights reserved.</p>
         <p className="mt-2 text-slate-500">掲載の宿泊料金や施設情報は楽天トラベルAPIより取得した参考データです。最新のプラン内容は各宿泊施設ページをご確認ください。</p>
       </footer>
     </article>

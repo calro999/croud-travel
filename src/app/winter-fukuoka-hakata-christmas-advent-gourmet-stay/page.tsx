@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月福岡クリスマスアドベント】博多駅・天神の光の街と本場もつ鍋・水炊き極上宿5選",
     description: "11月中旬から博多駅・天神・中洲が煌めく日本最大級の祭典「福岡クリスマスアドベント」！限定マグカップで楽しむホットワインと冬の博多名物（もつ鍋・水炊き）、冷えた体を芯から温める天然温泉・大浴場付きの厳選ホテルステイ。",
-    url: 'https://croud-travel.com/winter-fukuoka-hakata-christmas-advent-gourmet-stay',
+    url: 'https://croud-travel.pages.dev/winter-fukuoka-hakata-christmas-advent-gourmet-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -44,7 +44,7 @@ export default function FukuokaChristmasPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-fukuoka-hakata-christmas-advent-gourmet-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-fukuoka-hakata-christmas-advent-gourmet-stay#article",
         "headline": "【11・12月福岡クリスマスアドベント】博多駅・天神の光の街と本場もつ鍋・水炊き極上宿5選",
         "description": "11月中旬から博多駅・天神・中洲が煌めく日本最大級の祭典「福岡クリスマスアドベント」！限定マグカップで楽しむホットワインと冬の博多名物（もつ鍋・水炊き）、冷えた体を芯から温める天然温泉・大浴場付きの厳選ホテルステイ。",
         "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
@@ -53,24 +53,24 @@ export default function FukuokaChristmasPage() {
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-fukuoka-hakata-christmas-advent-gourmet-stay"
+          "@id": "https://croud-travel.pages.dev/winter-fukuoka-hakata-christmas-advent-gourmet-stay"
         }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-fukuoka-hakata-christmas-advent-gourmet-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-fukuoka-hakata-christmas-advent-gourmet-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -108,7 +108,7 @@ export default function FukuokaChristmasPage() {
       },
       {
         "@type": "ItemList",
-        "@id": "https://croud-travel.com/winter-fukuoka-hakata-christmas-advent-gourmet-stay#hotels",
+        "@id": "https://croud-travel.pages.dev/winter-fukuoka-hakata-christmas-advent-gourmet-stay#hotels",
         "itemListElement": [
           {
             "@type": "ListItem",

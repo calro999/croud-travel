@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月和歌山】世界遺産・高野山の白銀「壇上伽藍＆奥之院」雪景色と宿坊阿字観体験＆冬の滋味精進料理・新春初詣名宿5選",
     description: "11月から1月、標高約800mの山上盆地に位置する真言密教の聖地・世界遺産「高野山」は、厳かな白銀の雪化粧に包まれる静謐な季節を迎えます。弘法大師空海が開創した「壇上伽藍」根本大塔の雪景色、樹齢数百年の杉巨木が立ち並ぶ「奥之院」参道の白銀古道。歴史ある由緒寺院の宿坊に泊まり、心を整える阿字観（瞑想）や早朝の勤行・護摩祈祷を体験。冬の身体に優しく染み渡る胡麻豆腐や高野豆腐をはじめとする伝統の「冬の精進料理」と、新春の初詣。俗世の喧騒を離れ、心身を清める冬の高野山宿坊ステイ5選をお届けします。",
-    url: 'https://croud-travel.com/winter-wakayama-koyasan-shukubo-okunoin-snow-shojin-stay',
+    url: 'https://croud-travel.pages.dev/winter-wakayama-koyasan-shukubo-okunoin-snow-shojin-stay',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -50,20 +50,20 @@ export default function WakayamaKoyasanShukuboWinterPage() {
     author: {
       '@type': 'Organization',
       name: 'クラドトラベル編集部',
-      url: 'https://croud-travel.com'
+      url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
       name: 'クラドトラベル',
-      url: 'https://croud-travel.com',
+      url: 'https://croud-travel.pages.dev',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://croud-travel.com/logo.png'
+        url: 'https://croud-travel.pages.dev/logo.png'
       }
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.com/winter-wakayama-koyasan-shukubo-okunoin-snow-shojin-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-wakayama-koyasan-shukubo-okunoin-snow-shojin-stay'
     }
   };
 
@@ -75,19 +75,19 @@ export default function WakayamaKoyasanShukuboWinterPage() {
         '@type': 'ListItem',
         position: 1,
         name: 'ホーム',
-        item: 'https://croud-travel.com/'
+        item: 'https://croud-travel.pages.dev/'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.com/features'
+        item: 'https://croud-travel.pages.dev/features'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '高野山＆奥之院 白銀聖地と冬の宿坊精進料理・初詣名宿',
-        item: 'https://croud-travel.com/winter-wakayama-koyasan-shukubo-okunoin-snow-shojin-stay'
+        item: 'https://croud-travel.pages.dev/winter-wakayama-koyasan-shukubo-okunoin-snow-shojin-stay'
       }
     ]
   };

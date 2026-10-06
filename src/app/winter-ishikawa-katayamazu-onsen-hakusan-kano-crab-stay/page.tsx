@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月石川・加賀片山津温泉の柴山潟と霊峰白山初冠雪】11月解禁加能ガニ・香箱ガニ＆塩化物強塩泉ポカポカ温まりの宿5選",
     description: "11月から12月にかけて石川県加賀市の片山津温泉は、柴山潟の穏やかな水面に初冠雪で純白に輝く霊峰白山連峰が鏡のように映り込む、北陸屈指の絶景パノラマが広がります。承応2年（1653年）発見、湖底から湧き出る塩化物強塩泉は「熱の湯」とも呼ばれ、湯冷めしにくく冬の身体を芯まで温める名湯。11月上旬に解禁される石川県の誇る青タグ付きブランドズワイガニ「加能ガニ」、内子と外子がぎっしり詰まった冬の至宝「香箱ガニ（こうばこがに）」、脂の乗った寒ブリや能登牛を堪能する湖畔の厳選宿5選を徹底解説。",
-    url: 'https://croud-travel.com/winter-ishikawa-katayamazu-onsen-hakusan-kano-crab-stay',
+    url: 'https://croud-travel.pages.dev/winter-ishikawa-katayamazu-onsen-hakusan-kano-crab-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -62,10 +62,10 @@ export default function KatayamazuOnsenWinterFeature() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-ishikawa-katayamazu-onsen-hakusan-kano-crab-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-ishikawa-katayamazu-onsen-hakusan-kano-crab-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-ishikawa-katayamazu-onsen-hakusan-kano-crab-stay"
+          "@id": "https://croud-travel.pages.dev/winter-ishikawa-katayamazu-onsen-hakusan-kano-crab-stay"
         },
         "headline": "【11・12月石川・加賀片山津温泉の柴山潟と霊峰白山初冠雪】11月解禁加能ガニ・香箱ガニ＆塩化物強塩泉ポカポカ温まりの宿5選",
         "description": "11月から12月にかけて石川県加賀市の片山津温泉は、柴山潟の穏やかな水面に初冠雪で純白に輝く霊峰白山連峰が鏡のように映り込む、北陸屈指の絶景パノラマが広がります。承応2年（1653年）発見、湖底から湧き出る塩化物強塩泉は「熱の湯」とも呼ばれ、湯冷めしにくく冬の身体を芯まで温める名湯。11月上旬に解禁される石川県の誇る青タグ付きブランドズワイガニ「加能ガニ」、内子と外子がぎっしり詰まった冬の至宝「香箱ガニ（こうばこがに）」、脂の乗った寒ブリや能登牛を堪能する湖畔の厳選宿5選を徹底解説。",
@@ -77,7 +77,7 @@ export default function KatayamazuOnsenWinterFeature() {
           "name": "Croud Travel",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "author": {
@@ -88,31 +88,31 @@ export default function KatayamazuOnsenWinterFeature() {
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://croud-travel.com/winter-ishikawa-katayamazu-onsen-hakusan-kano-crab-stay#breadcrumb",
+        "@id": "https://croud-travel.pages.dev/winter-ishikawa-katayamazu-onsen-hakusan-kano-crab-stay#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com/"
+            "item": "https://croud-travel.pages.dev/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "石川・加賀片山津温泉 柴山潟白山絶景と加能ガニの宿",
-            "item": "https://croud-travel.com/winter-ishikawa-katayamazu-onsen-hakusan-kano-crab-stay"
+            "item": "https://croud-travel.pages.dev/winter-ishikawa-katayamazu-onsen-hakusan-kano-crab-stay"
           }
         ]
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-ishikawa-katayamazu-onsen-hakusan-kano-crab-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-ishikawa-katayamazu-onsen-hakusan-kano-crab-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",

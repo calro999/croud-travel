@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月飛騨高山】白銀の古い町並み雪景色と飛騨高山温泉・極上A5飛騨牛すき焼き＆冬限定「しぼりたて新酒」酒蔵めぐりを堪能する名宿5選",
     description: "11月から1月、小京都と称される岐阜県・飛騨高山は、江戸の面影を色濃く残す「古い町並み（さんまち通り）」や朱塗りの中橋、国史跡・高山陣屋が純白の雪に包まれる幻想的な雪景色の季節を迎えます。冬の冷え込みとともに仕込みが本格化する飛騨の地酒は、軒先に青々とした杉玉が掲げられ、冬限定の「しぼりたて生酒・にごり酒」が解禁。老舗6蔵を巡る冬の酒蔵めぐりは大人の贅沢そのものです。夕食にはきめ細やかなサシがとろける最高峰ブランド「飛騨牛（A5等級）」のすき焼きや炭火ステーキ、香ばしい朴葉味噌焼き。自家源泉の美肌温泉「飛騨高山温泉」の雪見露天風呂で心身を温める厳選名宿5選を徹底ガイドします。",
-    url: 'https://croud-travel.com/winter-gifu-hida-takayama-onsen-snow-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-gifu-hida-takayama-onsen-snow-beef-stay',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -50,19 +50,19 @@ export default function GifuHidaTakayamaWinterPage() {
     author: {
       '@type': 'Organization',
       name: 'クラドトラベル編集部',
-      url: 'https://croud-travel.com'
+      url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
       name: 'クラドトラベル',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://croud-travel.com/logo.png'
+        url: 'https://croud-travel.pages.dev/logo.png'
       }
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.com/winter-gifu-hida-takayama-onsen-snow-beef-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-gifu-hida-takayama-onsen-snow-beef-stay'
     }
   };
 
@@ -74,19 +74,19 @@ export default function GifuHidaTakayamaWinterPage() {
         '@type': 'ListItem',
         position: 1,
         name: 'ホーム',
-        item: 'https://croud-travel.com'
+        item: 'https://croud-travel.pages.dev'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.com/features'
+        item: 'https://croud-travel.pages.dev/features'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '飛騨高山古い町並み雪景色と飛騨牛・温泉名宿',
-        item: 'https://croud-travel.com/winter-gifu-hida-takayama-onsen-snow-beef-stay'
+        item: 'https://croud-travel.pages.dev/winter-gifu-hida-takayama-onsen-snow-beef-stay'
       }
     ]
   };

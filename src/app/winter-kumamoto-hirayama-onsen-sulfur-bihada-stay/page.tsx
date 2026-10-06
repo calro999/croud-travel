@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月熊本・平山温泉の竹林秘湯と極上トロトロ美肌硫黄泉】加藤清正の霊泉伝説・特選肥後あか牛＆霜降り馬刺し会席の宿5選",
     description: "11月から12月にかけて熊本県北部・山鹿市の山あいに隠れる「平山温泉」は、冷涼な初冬の大気の中に立ち上る乳白色の湯けむりと、風にそよぐ緑鮮やかな竹林のコントラストが息をのむ静寂の秘湯郷。平安末期に皮膚病を治したと伝わり、戦国武将・加藤清正公が重い汗疹を癒やしたと伝えられる名湯は、pH9.7を誇る強アルカリ性単純硫黄泉。まるで美容液に浸かっているかのような驚異的なトロトロ・ヌルヌルとした湯ざわりは全国の温泉愛好家を圧倒します。全室離れや客室露天を備えた大人の隠れ宿で、ジューシーな赤身が旨い肥後あか牛の溶岩焼きや極上本場馬刺しを味わう厳選宿5選を徹底解説。",
-    url: 'https://croud-travel.com/winter-kumamoto-hirayama-onsen-sulfur-bihada-stay',
+    url: 'https://croud-travel.pages.dev/winter-kumamoto-hirayama-onsen-sulfur-bihada-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -62,10 +62,10 @@ export default function HirayamaOnsenWinterFeature() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-kumamoto-hirayama-onsen-sulfur-bihada-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-kumamoto-hirayama-onsen-sulfur-bihada-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-kumamoto-hirayama-onsen-sulfur-bihada-stay"
+          "@id": "https://croud-travel.pages.dev/winter-kumamoto-hirayama-onsen-sulfur-bihada-stay"
         },
         "headline": "【11・12月熊本・平山温泉の竹林秘湯と極上トロトロ美肌硫黄泉】加藤清正の霊泉伝説・特選肥後あか牛＆霜降り馬刺し会席の宿5選",
         "description": "11月から12月にかけて熊本県北部・山鹿市の山あいに隠れる「平山温泉」は、冷涼な初冬の大気の中に立ち上る乳白色の湯けむりと、風にそよぐ緑鮮やかな竹林のコントラストが息をのむ静寂の秘湯郷。平安末期に皮膚病を治したと伝わり、戦国武将・加藤清正公が重い汗疹を癒やしたと伝えられる名湯は、pH9.7を誇る強アルカリ性単純硫黄泉。まるで美容液に浸かっているかのような驚異的なトロトロ・ヌルヌルとした湯ざわりは全国の温泉愛好家を圧倒します。全室離れや客室露天を備えた大人の隠れ宿で、ジューシーな赤身が旨い肥後あか牛の溶岩焼きや極上本場馬刺しを味わう厳選宿5選を徹底解説。",
@@ -77,7 +77,7 @@ export default function HirayamaOnsenWinterFeature() {
           "name": "Croud Travel",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "author": {
@@ -88,31 +88,31 @@ export default function HirayamaOnsenWinterFeature() {
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://croud-travel.com/winter-kumamoto-hirayama-onsen-sulfur-bihada-stay#breadcrumb",
+        "@id": "https://croud-travel.pages.dev/winter-kumamoto-hirayama-onsen-sulfur-bihada-stay#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com/"
+            "item": "https://croud-travel.pages.dev/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "熊本・平山温泉 竹林秘湯と極上トロトロ硫黄泉・肥後あか牛の宿",
-            "item": "https://croud-travel.com/winter-kumamoto-hirayama-onsen-sulfur-bihada-stay"
+            "item": "https://croud-travel.pages.dev/winter-kumamoto-hirayama-onsen-sulfur-bihada-stay"
           }
         ]
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-kumamoto-hirayama-onsen-sulfur-bihada-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-kumamoto-hirayama-onsen-sulfur-bihada-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",

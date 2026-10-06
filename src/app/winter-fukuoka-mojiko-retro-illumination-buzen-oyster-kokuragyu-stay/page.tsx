@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月福岡】門司港レトロ浪漫灯彩イルミネーション＆関門海峡！旬の「豊前海一粒牡蠣」と元祖焼きカレー・小倉牛を堪能する名宿5選",
     description: "冬の北九州・門司港は、大正ロマン薫る赤煉瓦洋館群が約30万球の光に包まれる「門司港レトロ浪漫灯彩」で幻想的な輝きを放ちます。関門海峡を行き交う船と対岸の夜景、小倉城の雪景色と新春初詣。11月に水揚げ解禁を迎える大粒で濃厚なブランド牡蠣「豊前海一粒牡蠣」の浜焼きや牡蠣小屋、門司港発祥の香ばしい熱々「焼きカレー」、関門ふく（ふぐ）、幻の銘牛「小倉牛」。海峡の潮風と歴史ロマン、極上の冬グルメに浸る厳選名宿5選を徹底案内します。",
-    url: 'https://croud-travel.com/winter-fukuoka-mojiko-retro-illumination-buzen-oyster-kokuragyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-fukuoka-mojiko-retro-illumination-buzen-oyster-kokuragyu-stay',
     type: 'article',
     images: [{ url: 'https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1200&q=630', width: 1200, height: 630, alt: '門司港レトロ浪漫灯彩と関門海峡の冬夜景' }]
   },
@@ -156,9 +156,9 @@ export default function FukuokaMojikoKokuraPage() {
       {
         '@type': 'BreadcrumbList',
         'itemListElement': [
-          { '@type': 'ListItem', 'position': 1, 'name': 'ホーム', 'item': 'https://croud-travel.com' },
-          { '@type': 'ListItem', 'position': 2, 'name': '特集一覧', 'item': 'https://croud-travel.com/features' },
-          { '@type': 'ListItem', 'position': 3, 'name': '門司港レトロイルミネーション＆小倉名宿', 'item': 'https://croud-travel.com/winter-fukuoka-mojiko-retro-illumination-buzen-oyster-kokuragyu-stay' }
+          { '@type': 'ListItem', 'position': 1, 'name': 'ホーム', 'item': 'https://croud-travel.pages.dev' },
+          { '@type': 'ListItem', 'position': 2, 'name': '特集一覧', 'item': 'https://croud-travel.pages.dev/features' },
+          { '@type': 'ListItem', 'position': 3, 'name': '門司港レトロイルミネーション＆小倉名宿', 'item': 'https://croud-travel.pages.dev/winter-fukuoka-mojiko-retro-illumination-buzen-oyster-kokuragyu-stay' }
         ]
       },
       {

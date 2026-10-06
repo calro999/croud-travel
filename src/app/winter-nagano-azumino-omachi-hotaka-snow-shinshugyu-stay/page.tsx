@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月長野】安曇野＆大町温泉郷！白銀の北アルプス後立山連峰と穂高神社初詣・光のイルミネーション＆雪見露天名宿5選",
     description: "冠雪した北アルプス後立山連峰（爺ヶ岳・鹿島槍ヶ岳・常念岳）が紺碧の冬空に映える11〜1月の安曇野・大町エリア。信濃国三之宮・穂高神社での雪の初詣や、国営アルプスあづみの公園を彩る県内最大級の光のイルミネーション。高瀬渓谷・葛温泉の名湯を引き込む大町温泉郷＆穂高温泉郷の雪見露天風呂、そして信州サーモンや信州プレミアム牛肉を堪能できる厳選名宿5選を徹底特集します。",
-    url: 'https://croud-travel.com/winter-nagano-azumino-omachi-hotaka-snow-shinshugyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-nagano-azumino-omachi-hotaka-snow-shinshugyu-stay',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',
     type: 'article',
@@ -164,10 +164,10 @@ export default function NaganoAzuminoOmachiPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-nagano-azumino-omachi-hotaka-snow-shinshugyu-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-nagano-azumino-omachi-hotaka-snow-shinshugyu-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-nagano-azumino-omachi-hotaka-snow-shinshugyu-stay"
+          "@id": "https://croud-travel.pages.dev/winter-nagano-azumino-omachi-hotaka-snow-shinshugyu-stay"
         },
         "headline": "【11・12・1月長野】安曇野＆大町温泉郷！白銀の北アルプス後立山連峰と穂高神社初詣・光のイルミネーション＆雪見露天名宿5選",
         "description": "冠雪した北アルプス後立山連峰（爺ヶ岳・鹿島槍ヶ岳・常念岳）が紺碧の冬空に映える11〜1月の安曇野・大町エリア。信濃国三之宮・穂高神社での雪の初詣や、国営アルプスあづみの公園を彩る県内最大級の光のイルミネーション。高瀬渓谷・葛温泉の名湯を引き込む大町温泉郷＆穂高温泉郷の雪見露天風呂、そして信州サーモンや信州プレミアム牛肉を堪能できる厳選名宿5選を徹底特集します。",
@@ -177,44 +177,44 @@ export default function NaganoAzuminoOmachiPage() {
         "publisher": {
           "@type": "Organization",
           "name": "地域の宿探訪",
-          "url": "https://croud-travel.com",
+          "url": "https://croud-travel.pages.dev",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-nagano-azumino-omachi-hotaka-snow-shinshugyu-stay"
+          "@id": "https://croud-travel.pages.dev/winter-nagano-azumino-omachi-hotaka-snow-shinshugyu-stay"
         }
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://croud-travel.com/winter-nagano-azumino-omachi-hotaka-snow-shinshugyu-stay#breadcrumb",
+        "@id": "https://croud-travel.pages.dev/winter-nagano-azumino-omachi-hotaka-snow-shinshugyu-stay#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com"
+            "item": "https://croud-travel.pages.dev"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "安曇野＆大町温泉郷・白馬アルプス山麓名宿",
-            "item": "https://croud-travel.com/winter-nagano-azumino-omachi-hotaka-snow-shinshugyu-stay"
+            "item": "https://croud-travel.pages.dev/winter-nagano-azumino-omachi-hotaka-snow-shinshugyu-stay"
           }
         ]
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-nagano-azumino-omachi-hotaka-snow-shinshugyu-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-nagano-azumino-omachi-hotaka-snow-shinshugyu-stay#faq",
         "mainEntity": faqs.map(f => ({
           "@type": "Question",
           "name": f.q,

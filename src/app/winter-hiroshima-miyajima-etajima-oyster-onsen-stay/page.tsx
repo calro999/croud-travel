@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月広島】冬の瀬戸内「広島牡蠣」焼き牡蠣・土手鍋＆世界遺産・宮島厳島神社の初詣・江田島温泉を巡る厳選名宿5選",
     description: "11月から1月、瀬戸内海・広島湾（廿日市宮島・江田島・広島市街）は、全国屈指のブランドを誇る「広島牡蠣」が最もふっくらと大粒に育ち、濃厚な旨みを凝縮させる旬の黄金期を迎えます。香ばしい殻付き焼き牡蠣、熱々の味噌仕立て牡蠣土手鍋、サクサクの牡蠣フライ、そして宮島名物穴子めしや極上広島牛。澄み渡る冬空に映える世界遺産・厳島神社の海に浮かぶ朱塗り大鳥居の初詣や雪景色、江田島の海を望むオリーブ温泉や宮島の数寄屋造り名宿で、心洗われる冬の休日を満喫する厳選5宿を徹底ガイドします。",
-    url: 'https://croud-travel.com/winter-hiroshima-miyajima-etajima-oyster-onsen-stay',
+    url: 'https://croud-travel.pages.dev/winter-hiroshima-miyajima-etajima-oyster-onsen-stay',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -50,19 +50,19 @@ export default function HiroshimaMiyajimaOysterWinterPage() {
     author: {
       '@type': 'Organization',
       name: 'クラドトラベル編集部',
-      url: 'https://croud-travel.com'
+      url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
       name: 'クラドトラベル',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://croud-travel.com/logo.png'
+        url: 'https://croud-travel.pages.dev/logo.png'
       }
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.com/winter-hiroshima-miyajima-etajima-oyster-onsen-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-hiroshima-miyajima-etajima-oyster-onsen-stay'
     }
   };
 
@@ -74,19 +74,19 @@ export default function HiroshimaMiyajimaOysterWinterPage() {
         '@type': 'ListItem',
         position: 1,
         name: 'ホーム',
-        item: 'https://croud-travel.com'
+        item: 'https://croud-travel.pages.dev'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.com/features'
+        item: 'https://croud-travel.pages.dev/features'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '広島牡蠣・宮島厳島神社初詣＆江田島温泉名宿',
-        item: 'https://croud-travel.com/winter-hiroshima-miyajima-etajima-oyster-onsen-stay'
+        item: 'https://croud-travel.pages.dev/winter-hiroshima-miyajima-etajima-oyster-onsen-stay'
       }
     ]
   };

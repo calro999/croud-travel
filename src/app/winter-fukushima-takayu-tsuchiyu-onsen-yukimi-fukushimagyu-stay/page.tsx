@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月福島・高湯温泉＆土湯温泉】吾妻連峰の雪見露天と白濁薬湯・名物福島牛と地酒を味わう名宿5選",
     description: "11月から12月にかけて、福島県福島市の西部にそびえる吾妻連峰の山懐は、澄み渡る冷気と初雪に包まれます。奥羽三高湯の筆頭として名高い「高湯温泉」は、加水・加温・循環・消毒を一切行わない全国屈指の完全源泉掛け流し宣言を掲げ、青白く濁る強烈な硫黄泉が雪景色の中に湧き立ちます。一方、吾妻小富士の麓に位置する「土湯温泉」は、荒川の清流沿いに木造のこけし工房や湯宿が立ち並び、炭酸水素塩泉や単純温泉など多彩な湯巡りが楽しめます。初冬の冷え切った身体を包み込む白濁湯と渓谷露天風呂、夕食にはきめ細やかな霜降りと上品な甘みが特徴の「福島牛」の陶板焼きやすき焼き、会津や中通りの名酒蔵が醸す新酒、郷土料理のいかにんじんや温かい芋煮。初冬の福島奥座敷で心身を解きほぐす厳選名宿5選を詳しく紹介します。",
-    url: 'https://croud-travel.com/winter-fukushima-takayu-tsuchiyu-onsen-yukimi-fukushimagyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-fukushima-takayu-tsuchiyu-onsen-yukimi-fukushimagyu-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -166,28 +166,28 @@ export default function WinterFukushimaTakayuTsuchiyuPage() {
     '@graph': [
       {
         '@type': 'Article',
-        '@id': 'https://croud-travel.com/winter-fukushima-takayu-tsuchiyu-onsen-yukimi-fukushimagyu-stay#article',
+        '@id': 'https://croud-travel.pages.dev/winter-fukushima-takayu-tsuchiyu-onsen-yukimi-fukushimagyu-stay#article',
         'isPartOf': {
           '@type': 'WebSite',
-          '@id': 'https://croud-travel.com/#website',
+          '@id': 'https://croud-travel.pages.dev/#website',
           'name': 'クラドトラベル',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         },
         'headline': "【11・12月福島・高湯温泉＆土湯温泉】吾妻連峰の雪見露天と白濁薬湯・名物福島牛と地酒を味わう名宿5選",
         'description': "11月から12月にかけて、福島県福島市の西部にそびえる吾妻連峰の山懐は、澄み渡る冷気と初雪に包まれます。奥羽三高湯の筆頭として名高い「高湯温泉」は、加水・加温・循環・消毒を一切行わない全国屈指の完全源泉掛け流し宣言を掲げ、青白く濁る強烈な硫黄泉が雪景色の中に湧き立ちます。一方、吾妻小富士の麓に位置する「土湯温泉」は、荒川の清流沿いに木造のこけし工房や湯宿が立ち並び、炭酸水素塩泉や単純温泉など多彩な湯巡りが楽しめます。初冬の冷え切った身体を包み込む白濁湯と渓谷露天風呂、夕食にはきめ細やかな霜降りと上品な甘みが特徴の「福島牛」の陶板焼きやすき焼き、会津や中通りの名酒蔵が醸す新酒、郷土料理のいかにんじんや温かい芋煮。初冬の福島奥座敷で心身を解きほぐす厳選名宿5選を詳しく紹介します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.com/winter-fukushima-takayu-tsuchiyu-onsen-yukimi-fukushimagyu-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-fukushima-takayu-tsuchiyu-onsen-yukimi-fukushimagyu-stay',
         'datePublished': '2026-09-29T00:00:00+09:00',
         'dateModified': '2026-09-29T00:00:00+09:00',
         'publisher': {
           '@type': 'Organization',
           'name': 'クラドトラベル編集部',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         }
       },
       {
         '@type': 'TouristDestination',
-        '@id': 'https://croud-travel.com/winter-fukushima-takayu-tsuchiyu-onsen-yukimi-fukushimagyu-stay#destination',
+        '@id': 'https://croud-travel.pages.dev/winter-fukushima-takayu-tsuchiyu-onsen-yukimi-fukushimagyu-stay#destination',
         'name': '福島・高湯温泉＆土湯温泉',
         'description': '福島県福島市の吾妻山麓に位置する全国屈指の温泉地。奥羽三高湯の白濁完全掛け流し硫黄泉と渓流沿いのこけしの里、名物福島牛が魅力。',
         'geo': {
@@ -198,7 +198,7 @@ export default function WinterFukushimaTakayuTsuchiyuPage() {
       },
       {
         '@type': 'FAQPage',
-        '@id': 'https://croud-travel.com/winter-fukushima-takayu-tsuchiyu-onsen-yukimi-fukushimagyu-stay#faq',
+        '@id': 'https://croud-travel.pages.dev/winter-fukushima-takayu-tsuchiyu-onsen-yukimi-fukushimagyu-stay#faq',
         'mainEntity': faqList.map((f) => ({
           '@type': 'Question',
           'name': f.q,
@@ -210,7 +210,7 @@ export default function WinterFukushimaTakayuTsuchiyuPage() {
       },
       {
         '@type': 'ItemList',
-        '@id': 'https://croud-travel.com/winter-fukushima-takayu-tsuchiyu-onsen-yukimi-fukushimagyu-stay#hotellist',
+        '@id': 'https://croud-travel.pages.dev/winter-fukushima-takayu-tsuchiyu-onsen-yukimi-fukushimagyu-stay#hotellist',
         'name': '福島・高湯温泉＆土湯温泉のおすすめ名宿5選',
         'itemListElement': hotels.map((h, idx) => ({
           '@type': 'ListItem',

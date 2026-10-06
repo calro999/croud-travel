@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月島根・松江しんじ湖温泉の宍道湖夕日絶景と冬の味覚】解禁松葉ガニ＆寒シジミ鍋・しまね和牛会席を愉しむ湖畔レイクビュー名宿5選",
     description: "11月から12月にかけて、水の都・松江の宍道湖畔に湧く松江しんじ湖温泉は、澄み切った初冬の空に広がる「夕日百選」宍道湖の真紅のサンセットと、11月に解禁を迎えた冬の味覚の王者「松葉ガニ」が揃う最高のハイシーズンを迎えます。湖上を茜色に染める夕景と飛来する冬鳥のシルエット、国宝・松江城の堀川遊覧船「こたつ船」で温まる城下町巡り、77度を超える高温良質なナトリウム・カルシウム硫酸塩泉のレイクビュー露天風呂。旨味あふれる松葉ガニフルコースや、ぷっくり肥えた宍道湖産寒シジミ鍋、極上しまね和牛を堪能する湖畔の厳選名宿5選を徹底解説します。",
-    url: 'https://croud-travel.com/winter-shimane-matsue-shinjiko-onsen-sunset-matsubagani-shijimi-stay',
+    url: 'https://croud-travel.pages.dev/winter-shimane-matsue-shinjiko-onsen-sunset-matsubagani-shijimi-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -166,28 +166,28 @@ export default function WinterShimaneMatsuePage() {
     '@graph': [
       {
         '@type': 'Article',
-        '@id': 'https://croud-travel.com/winter-shimane-matsue-shinjiko-onsen-sunset-matsubagani-shijimi-stay#article',
+        '@id': 'https://croud-travel.pages.dev/winter-shimane-matsue-shinjiko-onsen-sunset-matsubagani-shijimi-stay#article',
         'isPartOf': {
           '@type': 'WebSite',
-          '@id': 'https://croud-travel.com/#website',
+          '@id': 'https://croud-travel.pages.dev/#website',
           'name': 'クラドトラベル',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         },
         'headline': "【11・12月島根・松江しんじ湖温泉の宍道湖夕日絶景と冬の味覚】解禁松葉ガニ＆寒シジミ鍋・しまね和牛会席を愉しむ湖畔レイクビュー名宿5選",
         'description': "11月から12月にかけて、水の都・松江の宍道湖畔に湧く松江しんじ湖温泉は、澄み切った初冬の空に広がる「夕日百選」宍道湖の真紅のサンセットと、11月に解禁を迎えた冬の味覚の王者「松葉ガニ」が揃う最高のハイシーズンを迎えます。湖上を茜色に染める夕景と飛来する冬鳥のシルエット、国宝・松江城の堀川遊覧船「こたつ船」で温まる城下町巡り、77度を超える高温良質なナトリウム・カルシウム硫酸塩泉のレイクビュー露天風呂。旨味あふれる松葉ガニフルコースや、ぷっくり肥えた宍道湖産寒シジミ鍋、極上しまね和牛を堪能する湖畔の厳選名宿5選を徹底解説します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.com/winter-shimane-matsue-shinjiko-onsen-sunset-matsubagani-shijimi-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-shimane-matsue-shinjiko-onsen-sunset-matsubagani-shijimi-stay',
         'datePublished': '2026-09-28T00:00:00+09:00',
         'dateModified': '2026-09-28T00:00:00+09:00',
         'publisher': {
           '@type': 'Organization',
           'name': 'クラドトラベル編集部',
-          'url': 'https://croud-travel.com/'
+          'url': 'https://croud-travel.pages.dev/'
         }
       },
       {
         '@type': 'TouristDestination',
-        '@id': 'https://croud-travel.com/winter-shimane-matsue-shinjiko-onsen-sunset-matsubagani-shijimi-stay#destination',
+        '@id': 'https://croud-travel.pages.dev/winter-shimane-matsue-shinjiko-onsen-sunset-matsubagani-shijimi-stay#destination',
         'name': '松江しんじ湖温泉',
         'description': '水の都・松江の宍道湖畔に広がる名湯。11月・12月は夕日百選のサンセットと解禁松葉ガニ、寒シジミ鍋が絶品の季節。',
         'geo': {
@@ -198,7 +198,7 @@ export default function WinterShimaneMatsuePage() {
       },
       {
         '@type': 'FAQPage',
-        '@id': 'https://croud-travel.com/winter-shimane-matsue-shinjiko-onsen-sunset-matsubagani-shijimi-stay#faq',
+        '@id': 'https://croud-travel.pages.dev/winter-shimane-matsue-shinjiko-onsen-sunset-matsubagani-shijimi-stay#faq',
         'mainEntity': faqList.map((f) => ({
           '@type': 'Question',
           'name': f.q,
@@ -210,7 +210,7 @@ export default function WinterShimaneMatsuePage() {
       },
       {
         '@type': 'ItemList',
-        '@id': 'https://croud-travel.com/winter-shimane-matsue-shinjiko-onsen-sunset-matsubagani-shijimi-stay#hotellist',
+        '@id': 'https://croud-travel.pages.dev/winter-shimane-matsue-shinjiko-onsen-sunset-matsubagani-shijimi-stay#hotellist',
         'name': '松江しんじ湖温泉のおすすめ名宿5選',
         'itemListElement': hotels.map((h, idx) => ({
           '@type': 'ListItem',

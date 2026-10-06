@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月鳥取】冬の味覚の王様・山陰松葉ガニ解禁！境港水産物直売センター＆水木しげるロードと皆生温泉「塩の湯」・大山冬景色を堪能する名宿5選",
     description: "11月6日の松葉ガニ漁解禁とともに、山陰・鳥取県は年間で最も美食と活気に満ちる冬の黄金期を迎えます。日本屈指のズワイガニ水揚げ量を誇る境港で味わう茹でたて本松葉ガニ、水木しげるロードのレトロな妖怪ブロンズ像散策、日本海と雪化粧した名峰・大山（伯耆富士）を望む皆生温泉の濃厚な「海の温泉（塩化物泉）」。冬の味覚の頂点と美肌の塩湯に浸る贅沢な滞在を満喫できる厳選名宿5選と、1泊2日のドライブモデルコースをお届けします。",
-    url: 'https://croud-travel.com/winter-tottori-sakaiminato-kaike-onsen-matsubagani-stay',
+    url: 'https://croud-travel.pages.dev/winter-tottori-sakaiminato-kaike-onsen-matsubagani-stay',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -50,19 +50,19 @@ export default function TottoriSakaiminatoKaikeWinterPage() {
     author: {
       '@type': 'Organization',
       name: 'クラドトラベル編集部',
-      url: 'https://croud-travel.com'
+      url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
       name: 'クラドトラベル',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://croud-travel.com/logo.png'
+        url: 'https://croud-travel.pages.dev/logo.png'
       }
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.com/winter-tottori-sakaiminato-kaike-onsen-matsubagani-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-tottori-sakaiminato-kaike-onsen-matsubagani-stay'
     }
   };
 
@@ -74,19 +74,19 @@ export default function TottoriSakaiminatoKaikeWinterPage() {
         '@type': 'ListItem',
         position: 1,
         name: 'ホーム',
-        item: 'https://croud-travel.com'
+        item: 'https://croud-travel.pages.dev'
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.com/features'
+        item: 'https://croud-travel.pages.dev/features'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '境港松葉ガニ＆皆生温泉特集',
-        item: 'https://croud-travel.com/winter-tottori-sakaiminato-kaike-onsen-matsubagani-stay'
+        item: 'https://croud-travel.pages.dev/winter-tottori-sakaiminato-kaike-onsen-matsubagani-stay'
       }
     ]
   };

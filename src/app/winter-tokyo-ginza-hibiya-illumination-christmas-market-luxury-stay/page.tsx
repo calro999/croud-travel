@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月東京】銀座＆日比谷！HIBIYA Magic Timeイルミ＆東京クリスマスマーケットと銀座美食・最高峰ホテル名宿5選",
     description: "11月中旬から1月にかけて、銀座・日比谷・有楽町は世界屈指の洗練と華やぎに満ちた冬の祝祭シーズンを迎えます。日比谷ステップ広場を幻想的なオーロラカラーで染め上げる「HIBIYA Magic Time Illumination」、日比谷公園の伝統的な「東京クリスマスマーケット」、そして銀座中央通りに輝くラグジュアリーメゾンのウインターディスプレイ。歌舞伎座の初春興行や極上の江戸前鮨・老舗すき焼きとともに味わう大人の東京冬滞在。楽天APIから最新取得した世界最高峰のホテル5選を徹底特集します。",
-    url: 'https://croud-travel.com/winter-tokyo-ginza-hibiya-illumination-christmas-market-luxury-stay',
+    url: 'https://croud-travel.pages.dev/winter-tokyo-ginza-hibiya-illumination-christmas-market-luxury-stay',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',
     type: 'article',
@@ -162,10 +162,10 @@ export default function TokyoGinzaHibiyaWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-tokyo-ginza-hibiya-illumination-christmas-market-luxury-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-tokyo-ginza-hibiya-illumination-christmas-market-luxury-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-tokyo-ginza-hibiya-illumination-christmas-market-luxury-stay"
+          "@id": "https://croud-travel.pages.dev/winter-tokyo-ginza-hibiya-illumination-christmas-market-luxury-stay"
         },
         "headline": "【11・12・1月東京】銀座＆日比谷！HIBIYA Magic Timeイルミ＆東京クリスマスマーケットと銀座美食・最高峰ホテル名宿5選",
         "description": "11月中旬から1月にかけて、銀座・日比谷・有楽町は世界屈指の洗練と華やぎに満ちた冬の祝祭シーズンを迎えます。日比谷ステップ広場を幻想的なオーロラカラーで染め上げる「HIBIYA Magic Time Illumination」、日比谷公園の伝統的な「東京クリスマスマーケット」、そして銀座中央通りに輝くラグジュアリーメゾンのウインターディスプレイ。歌舞伎座の初春興行や極上の江戸前鮨・老舗すき焼きとともに味わう大人の東京冬滞在。楽天APIから最新取得した世界最高峰のホテル5選を徹底特集します。",
@@ -175,7 +175,7 @@ export default function TokyoGinzaHibiyaWinterPage() {
         "publisher": {
           "@type": "Organization",
           "name": "地域の宿探訪",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         }
       },
       {
@@ -185,19 +185,19 @@ export default function TokyoGinzaHibiyaWinterPage() {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com"
+            "item": "https://croud-travel.pages.dev"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "銀座＆日比谷冬特集",
-            "item": "https://croud-travel.com/winter-tokyo-ginza-hibiya-illumination-christmas-market-luxury-stay"
+            "item": "https://croud-travel.pages.dev/winter-tokyo-ginza-hibiya-illumination-christmas-market-luxury-stay"
           }
         ]
       },

@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月奥日光中禅寺温泉の初冬中禅寺湖と男体山雪絶景】乳白色硫黄泉露天風呂・極上とちぎ和牛＆日光湯波会席の宿5選",
     description: "11月から12月にかけて栃木県・奥日光は、標高2,486mの霊峰・男体山が初雪の白銀を纏い、湖面標高1,269mの澄み切った中禅寺湖が静寂の鏡のように冬景色を映し出します。日光開山の祖・勝道上人ゆかりの源泉・日光湯元から約12kmを引湯する硫黄泉は、湧出時はエメラルドグリーン、空気に触れて神秘的な乳白色へと変化する美肌の名湯。冬の湖畔を眺めながら温まる雪見露天風呂、とろけるような霜降りの「とちぎ和牛」サーロイン、日光伝統の生湯波（ゆば）会席や奥日光イワナを堪能する極上の奥日光名宿5選を徹底解説。",
-    url: 'https://croud-travel.com/winter-tochigi-okunikko-chuzenji-lake-onsen-snow-stay',
+    url: 'https://croud-travel.pages.dev/winter-tochigi-okunikko-chuzenji-lake-onsen-snow-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -68,7 +68,7 @@ export default function OkunikkoChuzenjiWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-tochigi-okunikko-chuzenji-lake-onsen-snow-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-tochigi-okunikko-chuzenji-lake-onsen-snow-stay#article",
         "headline": "【11・12月奥日光中禅寺温泉の初冬中禅寺湖と男体山雪絶景】乳白色硫黄泉露天風呂・極上とちぎ和牛＆日光湯波会席の宿5選",
         "description": "11月から12月にかけて栃木県・奥日光は、標高2,486mの霊峰・男体山が初雪の白銀を纏い、湖面標高1,269mの澄み切った中禅寺湖が静寂の鏡のように冬景色を映し出します。日光開山の祖・勝道上人ゆかりの源泉・日光湯元から約12kmを引湯する硫黄泉は、湧出時はエメラルドグリーン、空気に触れて神秘的な乳白色へと変化する美肌の名湯。冬の湖畔を眺めながら温まる雪見露天風呂、とろけるような霜降りの「とちぎ和牛」サーロイン、日光伝統の生湯波（ゆば）会席や奥日光イワナを堪能する極上の奥日光名宿5選を徹底解説。",
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
@@ -77,24 +77,24 @@ export default function OkunikkoChuzenjiWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-tochigi-okunikko-chuzenji-lake-onsen-snow-stay"
+          "@id": "https://croud-travel.pages.dev/winter-tochigi-okunikko-chuzenji-lake-onsen-snow-stay"
         }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-tochigi-okunikko-chuzenji-lake-onsen-snow-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-tochigi-okunikko-chuzenji-lake-onsen-snow-stay#faq",
         "mainEntity": faqList.map(item => ({
           "@type": "Question",
           "name": item.q,

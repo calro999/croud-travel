@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月徳島】美波＆牟岐・海陽町！四国霊場第23番札所・厄除け大師「薬王寺」初詣＆冬が旬の「天然伊勢海老・アオリイカ・阿波尾鶏」と太平洋絶景温泉宿5選",
     description: "冬の黒潮が育む南阿波の絶景と豊かな冬の恵みを巡る11〜1月の徳島南部・美波町＆海陽町特集。四国霊場第23番札所として名高い厄除け大師「薬王寺」での初詣や、冬の澄み渡る太平洋を望む日和佐大浜海岸・日和佐城。冬に甘みと身詰まりが最高潮を迎える「天然伊勢海老」やアオリイカ、名地鶏「阿波尾鶏」の贅沢会席。そして太平洋の水平線を望む美肌温泉に癒やされる厳選名宿5選を完全ガイドします。",
-    url: 'https://croud-travel.com/winter-tokushima-minamiawa-yakuouji-hatsumode-iseebi-stay',
+    url: 'https://croud-travel.pages.dev/winter-tokushima-minamiawa-yakuouji-hatsumode-iseebi-stay',
     type: 'article',
     images: [
       {
@@ -49,19 +49,19 @@ export default function TokushimaMinamiawaWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "旅クラウド編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "旅クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-tokushima-minamiawa-yakuouji-hatsumode-iseebi-stay"
+          "@id": "https://croud-travel.pages.dev/winter-tokushima-minamiawa-yakuouji-hatsumode-iseebi-stay"
         }
       },
       {
@@ -71,19 +71,19 @@ export default function TokushimaMinamiawaWinterPage() {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com"
+            "item": "https://croud-travel.pages.dev"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "冬の旅特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "徳島・美波＆海陽町 薬王寺初詣と南阿波伊勢海老名宿",
-            "item": "https://croud-travel.com/winter-tokushima-minamiawa-yakuouji-hatsumode-iseebi-stay"
+            "item": "https://croud-travel.pages.dev/winter-tokushima-minamiawa-yakuouji-hatsumode-iseebi-stay"
           }
         ]
       },

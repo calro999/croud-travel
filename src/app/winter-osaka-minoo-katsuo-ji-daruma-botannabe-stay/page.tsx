@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月大阪】箕面＆能勢・池田！日本の滝百選「箕面大滝」の冬情趣と勝運の寺「勝尾寺」初詣・冬の極上味覚「能勢の天然猪鍋（ぼたん鍋）」＆箕面温泉名宿5選",
     description: "冬の静寂に包まれる日本の滝百選「箕面大滝」と、境内一面に無数の勝ちダルマが並ぶ勝運の寺「勝尾寺」での新春初詣を巡る11〜1月の大阪・箕面＆北摂・能勢特集。箕面大滝への滝道散策で味わう名物「もみじの天ぷら」や、厳冬期限定の能勢の極上「天然猪鍋（ぼたん鍋）」・池田牛。そして大阪平野の夜景を一望する天空露天風呂や「関西の奥座敷」箕面温泉・伏尾温泉の極上美肌湯に癒やされる厳選宿5選を徹底特集します。",
-    url: 'https://croud-travel.com/winter-osaka-minoo-katsuo-ji-daruma-botannabe-stay',
+    url: 'https://croud-travel.pages.dev/winter-osaka-minoo-katsuo-ji-daruma-botannabe-stay',
     type: 'article',
     images: [
       {
@@ -49,19 +49,19 @@ export default function OsakaMinooWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "旅クラウド編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "旅クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-osaka-minoo-katsuo-ji-daruma-botannabe-stay"
+          "@id": "https://croud-travel.pages.dev/winter-osaka-minoo-katsuo-ji-daruma-botannabe-stay"
         }
       },
       {
@@ -71,19 +71,19 @@ export default function OsakaMinooWinterPage() {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com"
+            "item": "https://croud-travel.pages.dev"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "冬の旅特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "大阪・箕面＆能勢 勝尾寺初詣と天然ぼたん鍋名宿",
-            "item": "https://croud-travel.com/winter-osaka-minoo-katsuo-ji-daruma-botannabe-stay"
+            "item": "https://croud-travel.pages.dev/winter-osaka-minoo-katsuo-ji-daruma-botannabe-stay"
           }
         ]
       },

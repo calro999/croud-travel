@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月登別温泉の白銀地獄谷と極上名湯】圧倒的湯量と9つの泉質・冬の北海道毛ガニ＆白老牛を堪能する名宿5選",
     description: "11月下旬の初雪から12月の白銀世界へと移ろう北海道・登別温泉。荒涼とした岩肌からもうもうと白煙を上げる雪化粧の地獄谷、世界でも稀な9種類もの多彩な泉質を誇る名湯巡り。冬に身がぎっしり詰まる北海道産毛ガニと地元胆振の最高峰ブランド白老牛ステーキに舌鼓を打つ冬の極上北国旅ガイド。",
-    url: 'https://croud-travel.com/winter-hokkaido-noboribetsu-onsen-snow-jigokudani-stay',
+    url: 'https://croud-travel.pages.dev/winter-hokkaido-noboribetsu-onsen-snow-jigokudani-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -44,7 +44,7 @@ export default function NoboribetsuWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-hokkaido-noboribetsu-onsen-snow-jigokudani-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-hokkaido-noboribetsu-onsen-snow-jigokudani-stay#article",
         "headline": "【11・12月登別温泉の白銀地獄谷と極上名湯】圧倒的湯量と9つの泉質・冬の北海道毛ガニ＆白老牛を堪能する名宿5選",
         "description": "11月下旬の初雪から12月の白銀世界へと移ろう北海道・登別温泉。荒涼とした岩肌からもうもうと白煙を上げる雪化粧の地獄谷、世界でも稀な9種類もの多彩な泉質を誇る名湯巡り。冬に身がぎっしり詰まる北海道産毛ガニと地元胆振の最高峰ブランド白老牛ステーキに舌鼓を打つ冬の極上北国旅ガイド。",
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
@@ -53,24 +53,24 @@ export default function NoboribetsuWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-hokkaido-noboribetsu-onsen-snow-jigokudani-stay"
+          "@id": "https://croud-travel.pages.dev/winter-hokkaido-noboribetsu-onsen-snow-jigokudani-stay"
         }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-hokkaido-noboribetsu-onsen-snow-jigokudani-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-hokkaido-noboribetsu-onsen-snow-jigokudani-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -108,7 +108,7 @@ export default function NoboribetsuWinterPage() {
       },
       {
         "@type": "ItemList",
-        "@id": "https://croud-travel.com/winter-hokkaido-noboribetsu-onsen-snow-jigokudani-stay#hotels",
+        "@id": "https://croud-travel.pages.dev/winter-hokkaido-noboribetsu-onsen-snow-jigokudani-stay#hotels",
         "itemListElement": [
           {
             "@type": "ListItem",

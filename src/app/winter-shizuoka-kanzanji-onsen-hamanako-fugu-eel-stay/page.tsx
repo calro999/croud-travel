@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月静岡・浜名湖 舘山寺温泉の初冬レイクビューと遠州灘天然とらふぐ】名物冬うなぎ＆湖畔パノラマ展望露天風呂の宿5選",
     description: "11月から12月にかけて、静岡県西部に広がる浜名湖畔の舘山寺（かんざんじ）温泉は、遠州灘の冬の至宝「天然とらふぐ」が水揚げの最盛期を迎え、脂が乗った名物「浜名湖うなぎ」とともに年間で最も贅沢な美食シーズンに突入します。初冬の澄み渡る青空のもと、湖面越しに遠く冠雪した富士山を望む絶景露天風呂や、舘山寺ロープウェイから眺める夕暮れのパノラマは圧巻。冷えた身体を芯から温める良質な塩化物温泉と、極上の冬の味覚を心ゆくまで堪能できる厳選の温泉宿・リゾートホテル5選を詳しく解説します。",
-    url: 'https://croud-travel.com/winter-shizuoka-kanzanji-onsen-hamanako-fugu-eel-stay',
+    url: 'https://croud-travel.pages.dev/winter-shizuoka-kanzanji-onsen-hamanako-fugu-eel-stay',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -62,10 +62,10 @@ export default function ShizuokaKanzanjiWinterFeature() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-shizuoka-kanzanji-onsen-hamanako-fugu-eel-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-shizuoka-kanzanji-onsen-hamanako-fugu-eel-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-shizuoka-kanzanji-onsen-hamanako-fugu-eel-stay"
+          "@id": "https://croud-travel.pages.dev/winter-shizuoka-kanzanji-onsen-hamanako-fugu-eel-stay"
         },
         "headline": "【11・12月静岡・浜名湖 舘山寺温泉の初冬レイクビューと遠州灘天然とらふぐ】名物冬うなぎ＆湖畔パノラマ展望露天風呂の宿5選",
         "description": "11月から12月にかけて、静岡県西部に広がる浜名湖畔の舘山寺（かんざんじ）温泉は、遠州灘の冬の至宝「天然とらふぐ」が水揚げの最盛期を迎え、脂が乗った名物「浜名湖うなぎ」とともに年間で最も贅沢な美食シーズンに突入します。初冬の澄み渡る青空のもと、湖面越しに遠く冠雪した富士山を望む絶景露天風呂や、舘山寺ロープウェイから眺める夕暮れのパノラマは圧巻。冷えた身体を芯から温める良質な塩化物温泉と、極上の冬の味覚を心ゆくまで堪能できる厳選の温泉宿・リゾートホテル5選を詳しく解説します。",
@@ -77,7 +77,7 @@ export default function ShizuokaKanzanjiWinterFeature() {
           "name": "Croud Travel",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "author": {
@@ -88,31 +88,31 @@ export default function ShizuokaKanzanjiWinterFeature() {
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://croud-travel.com/winter-shizuoka-kanzanji-onsen-hamanako-fugu-eel-stay#breadcrumb",
+        "@id": "https://croud-travel.pages.dev/winter-shizuoka-kanzanji-onsen-hamanako-fugu-eel-stay#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "ホーム",
-            "item": "https://croud-travel.com/"
+            "item": "https://croud-travel.pages.dev/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.com/features"
+            "item": "https://croud-travel.pages.dev/features"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "静岡・浜名湖 舘山寺温泉 とらふぐ＆冬うなぎ露天風呂の宿",
-            "item": "https://croud-travel.com/winter-shizuoka-kanzanji-onsen-hamanako-fugu-eel-stay"
+            "item": "https://croud-travel.pages.dev/winter-shizuoka-kanzanji-onsen-hamanako-fugu-eel-stay"
           }
         ]
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-shizuoka-kanzanji-onsen-hamanako-fugu-eel-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-shizuoka-kanzanji-onsen-hamanako-fugu-eel-stay#faq",
         "mainEntity": faqList.map(f => ({
           "@type": "Question",
           "name": f.q,

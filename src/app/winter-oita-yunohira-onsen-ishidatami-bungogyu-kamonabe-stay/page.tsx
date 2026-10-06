@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月由布奥座敷】300個の赤提灯揺れる江戸石畳と名湯五大共同浴場・極上豊後牛＆冬の滋味合鴨鍋を味わう名宿5選",
     description: "11月中旬から12月の初冬、名峰・由布岳の裾野が静かな冬枯れの装いを見せる頃、由布院温泉から車でわずか15分ほど山あいに分け入った渓谷に、別世界のような湯治場情緒が広がります。大分県由布市湯布院町に位置する「湯平温泉（ゆのひらおんせん）」。鎌倉時代開湯、800年を超える歴史を誇り、江戸時代享保年間に敷き詰められた約300メートルに及ぶ美しい石畳の坂道が、花合野川（かごのがわ）のせせらぎとともに旅人を迎えます。初冬の黄昏時、坂道に沿って約300個の赤提灯が一斉に灯ると、石畳に柔らかな朱色の光が揺らめき、息をのむほどノスタルジックな幽玄の世界へ（映画『男はつらいよ』第30作の舞台としても有名）。古くから「胃腸病に名高い胃腸の湯」として親しまれ、温泉街に点在する5つの共同浴場（金の湯、銀の湯、中の湯、砂湯、橋本温泉）の外湯めぐりは湯平ならではの醍醐味です。夕食には、きめ細やかなサシが入った極上黒毛和牛「豊後牛（おおいた和牛）」のすき焼きや陶板焼き、冬の滋味あふれる「合鴨鍋（かもなべ）」が身体を芯から温めます。由布院の喧騒を離れ、静寂と歴史の温もりに浸る大人の冬籠り名宿5選を徹底ガイドします。",
-    url: 'https://croud-travel.com/winter-oita-yunohira-onsen-ishidatami-bungogyu-kamonabe-stay',
+    url: 'https://croud-travel.pages.dev/winter-oita-yunohira-onsen-ishidatami-bungogyu-kamonabe-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -44,23 +44,23 @@ export default function OitaYunohiraYufuWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-oita-yunohira-onsen-ishidatami-bungogyu-kamonabe-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-oita-yunohira-onsen-ishidatami-bungogyu-kamonabe-stay#article",
         "isPartOf": {
           "@type": "WebSite",
-          "@id": "https://croud-travel.com/#website",
+          "@id": "https://croud-travel.pages.dev/#website",
           "name": "クラドトラベル",
-          "url": "https://croud-travel.com/"
+          "url": "https://croud-travel.pages.dev/"
         },
         "headline": "【11・12月由布奥座敷】300個の赤提灯揺れる江戸石畳と名湯五大共同浴場・極上豊後牛＆冬の滋味合鴨鍋を味わう名宿5選",
         "description": "11月中旬から12月の初冬、名峰・由布岳の裾野が静かな冬枯れの装いを見せる頃、由布院温泉から車でわずか15分ほど山あいに分け入った渓谷に、別世界のような湯治場情緒が広がります。大分県由布市湯布院町に位置する「湯平温泉（ゆのひらおんせん）」。鎌倉時代開湯、800年を超える歴史を誇り、江戸時代享保年間に敷き詰められた約300メートルに及ぶ美しい石畳の坂道が、花合野川（かごのがわ）のせせらぎとともに旅人を迎えます。初冬の黄昏時、坂道に沿って約300個の赤提灯が一斉に灯ると、石畳に柔らかな朱色の光が揺らめき、息をのむほどノスタルジックな幽玄の世界へ（映画『男はつらいよ』第30作の舞台としても有名）。古くから「胃腸病に名高い胃腸の湯」として親しまれ、温泉街に点在する5つの共同浴場（金の湯、銀の湯、中の湯、砂湯、橋本温泉）の外湯めぐりは湯平ならではの醍醐味です。夕食には、きめ細やかなサシが入った極上黒毛和牛「豊後牛（おおいた和牛）」のすき焼きや陶板焼き、冬の滋味あふれる「合鴨鍋（かもなべ）」が身体を芯から温めます。由布院の喧騒を離れ、静寂と歴史の温もりに浸る大人の冬籠り名宿5選を徹底ガイドします。",
         "datePublished": "2026-09-30T00:00:00+09:00",
         "dateModified": "2026-09-30T00:00:00+09:00",
         "inLanguage": "ja",
-        "mainEntityOfPage": "https://croud-travel.com/winter-oita-yunohira-onsen-ishidatami-bungogyu-kamonabe-stay",
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-oita-yunohira-onsen-ishidatami-bungogyu-kamonabe-stay",
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル編集部",
-          "url": "https://croud-travel.com/"
+          "url": "https://croud-travel.pages.dev/"
         }
       },
       {

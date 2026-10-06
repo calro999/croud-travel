@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月米沢牛すき焼きと小野川温泉】小野小町ゆかりの美肌名湯とかまくら雪見宿5選",
     description: "11月下旬から里山が白銀の静寂に包まれる山形・米沢の奥座敷「小野川温泉」。平安の美女・小野小町が病を癒やしたと伝わる美肌の硫黄泉露天風呂と、とろける甘みの日本三大和牛「米沢牛すき焼き」、温泉熱で育つ冬限定のシャキシャキ小野川豆もやしを堪能する温もり旅。",
-    url: 'https://croud-travel.com/winter-yamagata-onogawa-yonezawa-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-yamagata-onogawa-yonezawa-beef-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -44,7 +44,7 @@ export default function OnogawaWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-yamagata-onogawa-yonezawa-beef-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-yamagata-onogawa-yonezawa-beef-stay#article",
         "headline": "【11・12月米沢牛すき焼きと小野川温泉】小野小町ゆかりの美肌名湯とかまくら雪見宿5選",
         "description": "11月下旬から里山が白銀の静寂に包まれる山形・米沢の奥座敷「小野川温泉」。平安の美女・小野小町が病を癒やしたと伝わる美肌の硫黄泉露天風呂と、とろける甘みの日本三大和牛「米沢牛すき焼き」、温泉熱で育つ冬限定のシャキシャキ小野川豆もやしを堪能する温もり旅。",
         "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
@@ -53,24 +53,24 @@ export default function OnogawaWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-yamagata-onogawa-yonezawa-beef-stay"
+          "@id": "https://croud-travel.pages.dev/winter-yamagata-onogawa-yonezawa-beef-stay"
         }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-yamagata-onogawa-yonezawa-beef-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-yamagata-onogawa-yonezawa-beef-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -108,7 +108,7 @@ export default function OnogawaWinterPage() {
       },
       {
         "@type": "ItemList",
-        "@id": "https://croud-travel.com/winter-yamagata-onogawa-yonezawa-beef-stay#hotels",
+        "@id": "https://croud-travel.pages.dev/winter-yamagata-onogawa-yonezawa-beef-stay#hotels",
         "itemListElement": [
           {
             "@type": "ListItem",

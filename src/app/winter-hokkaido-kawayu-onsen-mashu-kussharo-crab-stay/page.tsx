@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月北海道・川湯温泉＆屈斜路湖・摩周湖】pH1.7極上強酸性硫黄泉と白鳥の雪景色・冬の味覚オホーツク毛ガニと十勝牛を味わう名宿5選",
     description: "11月から12月にかけて、北海道東部・阿寒摩周国立公園の奥深くに位置する川湯温泉は、厳冬の張り詰めた冷気と自噴する熱き湯けむりに包まれます。活火山・硫黄山（アトサヌプリ）を源とする川湯の湯は、日本屈指の酸性度を誇るpH1.7前後の強酸性明礬・緑礬・硫黄温泉。五寸釘をわずか1週間で溶かすほどの圧倒的な浸透力と殺菌力を持ち、古くから名湯治場として名を馳せてきました。近隣の屈斜路湖では、砂浜を掘れば湯が湧き出す「砂湯」にシベリアから飛来した無数のオオハクチョウが羽を休め、湯けむりと純白の白鳥、白銀の山並みが織りなす幻想的な雪景色が広がります。さらに世界屈指の透明度を誇る「摩周湖」の霧氷と神秘的な摩周ブルーも初冬ならではの絶景。夕餉には、冬に甘みと身の締まりが最高潮に達するオホーツク海産の極上毛ガニやタラバガニ、十勝和牛の陶板焼き、北海シマエビなど道東の至宝グルメが集結します。初冬の北海道で心震える大自然と奇跡の名湯を堪能する名宿5選を詳しく紹介します。",
-    url: 'https://croud-travel.com/winter-hokkaido-kawayu-onsen-mashu-kussharo-crab-stay',
+    url: 'https://croud-travel.pages.dev/winter-hokkaido-kawayu-onsen-mashu-kussharo-crab-stay',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -51,20 +51,20 @@ export default function HokkaidoKawayuPage() {
     author: {
       '@type': 'Organization',
       name: 'クラドトラベル編集部',
-      url: 'https://croud-travel.com'
+      url: 'https://croud-travel.pages.dev'
     },
     publisher: {
       '@type': 'Organization',
       name: 'クラドトラベル',
-      url: 'https://croud-travel.com',
+      url: 'https://croud-travel.pages.dev',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://croud-travel.com/logo.png'
+        url: 'https://croud-travel.pages.dev/logo.png'
       }
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.com/winter-hokkaido-kawayu-onsen-mashu-kussharo-crab-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-hokkaido-kawayu-onsen-mashu-kussharo-crab-stay'
     }
   };
 

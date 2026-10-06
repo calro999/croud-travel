@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12月山形蔵王温泉の冬名湯と白銀の樹氷】初雪の強酸性硫黄泉露天と蔵王ロープウェイ・極上山形牛すき焼き＆郷土芋煮会席の宿5選",
     description: "11月下旬から12月にかけて奥羽山脈の主峰・蔵王連峰に雪が降り積もり、冬の奇跡「樹氷（スノーモンスター）」が徐々に姿を現し始める山形「蔵王温泉」。開湯1900年の歴史を誇るpH1.5前後の強酸性白濁硫黄泉は肌を滑らかにし血行を促進する「美人づくりの湯」。雪景色に包まれた野趣あふれる露天風呂、とろける肉質のブランド黒毛和牛「山形牛」「蔵王牛」のすき焼きや名物山形芋煮会席を満喫する厳選名宿5選を徹底解説。",
-    url: 'https://croud-travel.com/winter-yamagata-zao-onsen-snow-jyuhyo-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-yamagata-zao-onsen-snow-jyuhyo-beef-stay',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -68,7 +68,7 @@ export default function ZaoOnsenWinterPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://croud-travel.com/winter-yamagata-zao-onsen-snow-jyuhyo-beef-stay#article",
+        "@id": "https://croud-travel.pages.dev/winter-yamagata-zao-onsen-snow-jyuhyo-beef-stay#article",
         "headline": "【11・12月山形蔵王温泉の冬名湯と白銀の樹氷】初雪の強酸性硫黄泉露天と蔵王ロープウェイ・極上山形牛すき焼き＆郷土芋煮会席の宿5選",
         "description": "11月下旬から12月にかけて奥羽山脈の主峰・蔵王連峰に雪が降り積もり、冬の奇跡「樹氷（スノーモンスター）」が徐々に姿を現し始める山形「蔵王温泉」。開湯1900年の歴史を誇るpH1.5前後の強酸性白濁硫黄泉は肌を滑らかにし血行を促進する「美人づくりの湯」。雪景色に包まれた野趣あふれる露天風呂、とろける肉質のブランド黒毛和牛「山形牛」「蔵王牛」のすき焼きや名物山形芋煮会席を満喫する厳選名宿5選を徹底解説。",
         "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
@@ -77,24 +77,24 @@ export default function ZaoOnsenWinterPage() {
         "author": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド 編集部",
-          "url": "https://croud-travel.com"
+          "url": "https://croud-travel.pages.dev"
         },
         "publisher": {
           "@type": "Organization",
           "name": "日本全国・旅宿クラウド",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://croud-travel.com/logo.png"
+            "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.com/winter-yamagata-zao-onsen-snow-jyuhyo-beef-stay"
+          "@id": "https://croud-travel.pages.dev/winter-yamagata-zao-onsen-snow-jyuhyo-beef-stay"
         }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://croud-travel.com/winter-yamagata-zao-onsen-snow-jyuhyo-beef-stay#faq",
+        "@id": "https://croud-travel.pages.dev/winter-yamagata-zao-onsen-snow-jyuhyo-beef-stay#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -140,7 +140,7 @@ export default function ZaoOnsenWinterPage() {
       },
       {
         "@type": "ItemList",
-        "@id": "https://croud-travel.com/winter-yamagata-zao-onsen-snow-jyuhyo-beef-stay#hotels",
+        "@id": "https://croud-travel.pages.dev/winter-yamagata-zao-onsen-snow-jyuhyo-beef-stay#hotels",
         "itemListElement": [
           {
             "@type": "ListItem",

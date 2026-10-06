@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "【11・12・1月島根】米誌20年連続日本一・足立美術館「白銀の日本庭園」雪景色とさぎの湯温泉・極上しまね和牛＆松葉ガニを堪能する名宿5選",
     description: "11月から1月、山陰・島根の安来（やすぎ）は白銀の雪と静寂に包まれ、世界が称賛する日本美の最高峰が姿を現します。アメリカの日本庭園専門誌で20年以上連続日本一に君臨し、ミシュラン三ツ星を獲得した「足立美術館」。雪化粧をまとった枯山水庭や白砂青松庭は、額縁越しに眺めると息を呑む一幅の巨大な山水画へと昇華します。美術館のすぐ隣に湧く白鷺伝説の古湯「さぎの湯温泉」、冬の日本海がもたらす味覚の王者「松葉ガニ」、そして口の中でとろける霜降り「しまね和牛」。冬の静寂と至福の温泉美食に癒やされる厳選名宿5選をご紹介します。",
-    url: 'https://croud-travel.com/winter-shimane-adachi-museum-snow-garden-saginoyu-wagyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-shimane-adachi-museum-snow-garden-saginoyu-wagyu-stay',
     type: 'article',
     images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/17912/17912.jpg', width: 1200, height: 630, alt: '足立美術館雪景色とさぎの湯温泉名宿' }]
   }
@@ -147,13 +147,13 @@ export default function ShimaneAdachiSaginoyuPage() {
     '@type': 'ItemPage',
     name: "【11・12・1月島根】米誌20年連続日本一・足立美術館「白銀の日本庭園」雪景色とさぎの湯温泉・極上しまね和牛＆松葉ガニを堪能する名宿5選",
     description: "11月から1月、山陰・島根の安来（やすぎ）は白銀の雪と静寂に包まれ、世界が称賛する日本美の最高峰が姿を現します。アメリカの日本庭園専門誌で20年以上連続日本一に君臨し、ミシュラン三ツ星を獲得した「足立美術館」。雪化粧をまとった枯山水庭や白砂青松庭は、額縁越しに眺めると息を呑む一幅の巨大な山水画へと昇華します。美術館のすぐ隣に湧く白鷺伝説の古湯「さぎの湯温泉」、冬の日本海がもたらす味覚の王者「松葉ガニ」、そして口の中でとろける霜降り「しまね和牛」。冬の静寂と至福の温泉美食に癒やされる厳選名宿5選をご紹介します。",
-    url: 'https://croud-travel.com/winter-shimane-adachi-museum-snow-garden-saginoyu-wagyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-shimane-adachi-museum-snow-garden-saginoyu-wagyu-stay',
     breadcrumb: {
       '@type': 'BreadcrumbList',
       itemListElement: [
-        { '@type': 'ListItem', position: 1, name: 'ホーム', item: 'https://croud-travel.com/' },
-        { '@type': 'ListItem', position: 2, name: '冬の特集一覧', item: 'https://croud-travel.com/features/' },
-        { '@type': 'ListItem', position: 3, name: '足立美術館雪景色＆さぎの湯温泉ステイ', item: 'https://croud-travel.com/winter-shimane-adachi-museum-snow-garden-saginoyu-wagyu-stay' }
+        { '@type': 'ListItem', position: 1, name: 'ホーム', item: 'https://croud-travel.pages.dev/' },
+        { '@type': 'ListItem', position: 2, name: '冬の特集一覧', item: 'https://croud-travel.pages.dev/features/' },
+        { '@type': 'ListItem', position: 3, name: '足立美術館雪景色＆さぎの湯温泉ステイ', item: 'https://croud-travel.pages.dev/winter-shimane-adachi-museum-snow-garden-saginoyu-wagyu-stay' }
       ]
     },
     mainEntity: {
