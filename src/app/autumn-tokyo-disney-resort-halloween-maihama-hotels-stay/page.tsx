@@ -230,6 +230,8 @@ export default function TdrHalloweenFeaturePage() {
             }
   ];
 
+  const faqList = (jsonLdFaq.mainEntity as any[]).map(e => ({ q: e.name, a: e.acceptedAnswer.text }));
+
   return (
     <>
       <script

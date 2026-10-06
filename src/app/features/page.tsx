@@ -111,6 +111,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-nagano-shiga-kogen-snow-monkey-jigokudani-onsen-stay',
+              title: "志賀高原＆地獄谷スノーモンキー！白銀パウダースノー＆湯田中渋温泉郷九湯めぐり・信州牛名宿",
+              desc: "世界が愛するスノーモンキーと標高2000m極上パウダースノー！登録有形文化財「桃山風呂」や歴史の宿金具屋、ゲレンデ直結プリンスホテル…",
+              badge: '12・1・2月特集'
+            },
+            {
+              slug: 'winter-hokkaido-monbetsu-drift-ice-garinko-driftice-gourmet-stay',
+              title: "紋別流氷観光＆砕氷船ガリンコ号！オホーツクタワー・極上毛ガニ＆ホタテ・天然温泉名宿",
+              desc: "巨大ドリルで流氷を砕き進むガリンコ号III IMERU！オホーツクタワーの海底観測とクリオネ、冬の王様オホーツク毛ガニ・ホタテ尽くし…",
+              badge: '1・2・3月特集'
+            },
+            {
+              slug: 'winter-shizuoka-gotemba-tokinosumika-illumination-fuji-onsen-stay',
+              title: "御殿場・時之栖イルミネーション！ひかりのすみか550万球＆白銀富士山・御殿場高原ビール温泉名宿",
+              desc: "300mの光のトンネルと日本一の噴水レーザーショー！富士山雪景色と御殿場高原ビール、死海風呂の気楽坊＆アウトレット直結リゾート…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-kanagawa-kamakura-tsurugaoka-hachimangu-hatsumode-enoshima-stay',
+              title: "鎌倉・鶴岡八幡宮初詣＆湘南の宝石！神苑冬牡丹・小町通り冬グルメ＆相模湾絶景オーシャンビュー名宿",
+              desc: "武家古都の厳かな新春初詣と藁囲いの可憐な冬牡丹！江の島シーキャンドルの光の大空間、七里ヶ浜全室オーシャンビュー＆由比ヶ浜天然温泉…",
+              badge: '12・1・2月特集'
+            },
+            {
+              slug: 'winter-tottori-sand-dunes-snow-matsubagani-hakuto-shrine-stay',
+              title: "冬の鳥取砂丘＆白兎神社初詣！白銀の雪砂丘と風紋・本場松葉ガニフルコース＆自家源泉鳥取温泉名宿",
+              desc: "日本海寒風が刻む雪砂丘と神秘の風紋！因幡の白兎伝説で縁結び初詣、11月解禁の本場松葉ガニ茹で・焼き・刺身・甲羅酒＆自家源泉老舗宿…",
+              badge: '11・12・1月特集'
+            },
+            {
               slug: 'autumn-tokyo-disney-resort-halloween-maihama-hotels-stay',
               title: "東京ディズニーリゾート・ハロウィーン！ヴィランズの饗宴＆仮装パレード・限定スイーツ＆舞浜オフィシャル・パートナー厳選名宿",
               desc: "悪役たちが主役の魅惑の新パレードと大人の全身仮装！ホーンテッドマンション“ホリデーナイトメアー”や秋の限定スイーツ。天然温泉や広々客室でパークの余韻に浸る舞浜・新浦安名宿…",
