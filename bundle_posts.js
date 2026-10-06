@@ -629,9 +629,12 @@ Sitemap: ${BASE_URL}/sitemap-posts.xml
 
   const sitemapFeaturesPath = path.join(PUBLIC_DIR, 'sitemap-features.xml');
   if (fs.existsSync(sitemapFeaturesPath)) {
-    const matches = fs.readFileSync(sitemapFeaturesPath, 'utf8').match(/<loc>(.*?)<\/loc>/g);
+    const matches = [...fs.readFileSync(sitemapFeaturesPath, 'utf8').matchAll(/<loc>(.*?)<\/loc>/g)];
     if (matches && matches.length > 0) {
-      llmsIndex += `\n## 特集記事（${matches.length}件）\nサイトマップ: ${BASE_URL}/sitemap-features.xml\n`;
+      llmsIndex += `\n## 特集記事（${matches.length}件）\n`;
+      matches.forEach(m => {
+        llmsIndex += `- ${m[1]}\n`;
+      });
     }
   }
   fs.writeFileSync(path.join(PUBLIC_DIR, 'llms-full.txt'), llmsIndex, 'utf8');

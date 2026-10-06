@@ -111,6 +111,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-yamanashi-minobusan-kuonji-hatsumode-shimobe-onsen-yuba-stay',
+              title: "身延山久遠寺＆下部温泉！日蓮宗総本山「身延山久遠寺」白銀の奥之院思親閣新春初詣と三門・千本杉・名物身延湯葉会席＆信玄隠し湯「下部温泉」ぬる湯治名宿",
+              desc: "標高1153mの山頂から仰ぐ雪化粧の富士山と駿河湾大パノラマ！750年の歴史息づく日蓮宗総本山で迎える厳かな新春初詣。滋味豊かな身延山ゆば会席と、信玄公の隠し湯「下部温泉」で楽しむ温冷交互浴…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-mie-iga-ueno-castle-akame-48waterfalls-hyobaku-igagyu-stay',
+              title: "伊賀上野＆赤目四十八滝！忍者の里「伊賀上野城」白銀の高石垣と上野天神宮新春初詣・冬限定「赤目四十八滝」氷瀑トレッキング＆幻の極上伊賀牛すき焼き名宿",
+              desc: "藤堂高虎公が築いた日本有数の高石垣（約30m）の雪景色！学問の神・菅原道真公を祀る上野天神宮の新春初詣。凍結した神秘の赤目氷瀑トレッキングと、とろける霜降り極まる幻の伊賀牛すき焼き…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-hyogo-akashi-uonotana-kakimoto-shrine-hatsumode-akashiyaki-stay',
+              title: "明石＆加古川！明石海峡大橋を望む人麿山「柿本神社」新春初詣と歳末・新春活気溢れる「魚の棚商店街」・熱々の本場「明石焼き」＆加古川かつめし名宿",
+              desc: "歌聖・柿本人麻呂公を祀る古社で迎える海峡一望の新春初詣！約400年の歴史を持つ魚の棚商店街の熱気と激流が育む明石だこ。黄金出汁に浸して味わう熱々の明石焼き（玉子焼）と加古川名物かつめし…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-chiba-minamiboso-kyonan-suisen-road-awa-shrine-hatsumode-iseebi-stay',
+              title: "南房総＆鋸南・館山！1000万本の水仙香る「江月水仙ロード」と安房神社新春初詣・野島埼灯台の初日の出＆房総伊勢海老・金目鯛姿煮名宿",
+              desc: "黒潮の恵みによる常春の里！山肌を白く染める江月水仙ロードの日本水仙と早咲きの菜の花。日本三大金運神社「安房神社」の新春初詣と野島埼灯台の太平洋日の出、甘み弾ける房総伊勢海老＆金目鯛姿煮…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-shimane-tsuwano-taikodani-inari-hatsumode-uzumemeshi-iwamigyu-stay',
+              title: "津和野＆太皷谷稲成神社！山陰の小京都「津和野」雪化粧の殿町通りとなまこ壁・日本五大稲荷「太皷谷稲成神社」千本鳥居新春初詣＆熱々うずめ飯名宿",
+              desc: "白壁となまこ壁に舞う粉雪と清らかな掘割を泳ぐ錦鯉！約1000本の朱塗り千本鳥居トンネルを登る太皷谷稲成神社の願望成就初詣。江戸の知恵が息づく熱々の名物うずめ飯と幻の極上石見和牛陶板焼き…",
+              badge: '11・12・1月特集'
+            },
+            {
               slug: 'winter-osaka-minoh-katsuoji-daruma-hatsumode-waterfall-onsen-stay',
               title: "箕面＆勝尾寺！勝ち運の寺「勝尾寺」新春初詣と勝ちダルマ祈願・白銀の「箕面大滝」氷紋と名物もみじ天ぷら・箕面温泉名宿",
               desc: "北大阪急行延伸で都心から直通20分！無数の赤い勝ちダルマが迎える勝尾寺で己に打ち勝つ新春初詣。落差33m箕面大滝の清冽な氷紋ともみじ天ぷら、トロトロ美肌の箕面温泉…",
