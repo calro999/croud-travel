@@ -1,5 +1,4 @@
 const https = require('https');
-const http = require('http');
 
 const sitemapUrl = encodeURIComponent('https://croud-travel.pages.dev/sitemap.xml');
 
@@ -10,11 +9,22 @@ const pings = [
 
 async function ping(target) {
   return new Promise((resolve) => {
-    https.get(target.url, (res) => {
+    const req = https.get(target.url, (res) => {
       console.log(`[${target.name}] Status: ${res.statusCode} ${res.statusMessage || ''}`);
-      resolve();
-    }).on('error', (e) => {
+      // レスポンスストリームを確実に消費・破棄してソケットを開放する
+      res.resume();
+      res.on('end', () => resolve());
+    });
+
+    req.on('error', (e) => {
       console.log(`[${target.name}] Error: ${e.message}`);
+      resolve();
+    });
+
+    // 10秒で確実にタイムアウト
+    req.setTimeout(10000, () => {
+      console.log(`[${target.name}] Timed out, skipping.`);
+      req.destroy();
       resolve();
     });
   });
@@ -25,6 +35,11 @@ async function main() {
   for (const p of pings) {
     await ping(p);
   }
+  console.log('=== Ping Completed ===');
+  process.exit(0);
 }
 
-main().catch(console.error);
+main().catch((err) => {
+  console.error(err);
+  process.exit(0);
+});

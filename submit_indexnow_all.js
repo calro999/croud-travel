@@ -32,27 +32,49 @@ const body = JSON.stringify({
   urlList: allUrls,
 });
 
-for (const endpoint of ['api.indexnow.org', 'www.bing.com', 'yandex.com']) {
-  const req = https.request(
-    {
-      hostname: endpoint,
-      path: '/indexnow',
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json; charset=utf-8',
-        'Content-Length': Buffer.byteLength(body),
+async function submitToEndpoint(endpoint) {
+  return new Promise((resolve) => {
+    const req = https.request(
+      {
+        hostname: endpoint,
+        path: '/indexnow',
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json; charset=utf-8',
+          'Content-Length': Buffer.byteLength(body),
+        },
       },
-    },
-    (res) => {
-      let data = '';
-      res.on('data', chunk => data += chunk);
-      res.on('end', () => {
-        console.log(`✓ ${endpoint}: HTTP ${res.statusCode} ${data ? `(Response: ${data})` : ''}`);
-      });
-    }
-  );
-  req.on('error', (e) => console.log(`✗ ${endpoint}: Error ${e.message}`));
-  req.setTimeout(20000, () => req.destroy());
-  req.write(body);
-  req.end();
+      (res) => {
+        let data = '';
+        res.on('data', chunk => data += chunk);
+        res.on('end', () => {
+          console.log(`✓ ${endpoint}: HTTP ${res.statusCode} ${data ? `(Response: ${data})` : ''}`);
+          resolve();
+        });
+      }
+    );
+    req.on('error', (e) => {
+      console.log(`✗ ${endpoint}: Error ${e.message}`);
+      resolve();
+    });
+    req.setTimeout(15000, () => {
+      console.log(`✗ ${endpoint}: Timed out (15s)`);
+      req.destroy();
+      resolve();
+    });
+    req.write(body);
+    req.end();
+  });
 }
+
+async function main() {
+  const endpoints = ['api.indexnow.org', 'www.bing.com', 'yandex.com'];
+  await Promise.all(endpoints.map(ep => submitToEndpoint(ep)));
+  console.log('=== IndexNow Submission Completed ===');
+  process.exit(0);
+}
+
+main().catch((err) => {
+  console.error(err);
+  process.exit(0);
+});
