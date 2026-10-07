@@ -1,0 +1,37 @@
+{
+  "tokachi_jewelry_ice_mall_sauna": {
+    "spotLabel": "豊頃町・大津海岸のジュエリーアイス",
+    "query": "ジュエリーアイス",
+    "pageTitle": "ジュエリーアイス",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Jewelry-Ice.jpg/1280px-Jewelry-Ice.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "description": "ジュエリーアイス (Jewelry Ice) は、北海道十勝管内の中川郡豊頃町にある大津海岸で冬季に見られる氷塊。透明度が高く、光を浴びると宝石（ジュエリー）のように輝いて見えることからこの名で呼ばれる。 見ごろの時期は、その年の天候によっても変化するが、おおむね1月中旬から2月下旬頃まで。最盛期には海岸を埋めつくすほどの氷塊が見られることもある。"
+  },
+  "atami_plum_garden_fireworks": {
+    "spotLabel": "熱海梅園（日本一早咲きの梅の名所）",
+    "query": "熱海梅園",
+    "pageTitle": "熱海梅園",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Atami_baien_-_March_7_2021_various_14_34_49_754000.jpeg/1280px-Atami_baien_-_March_7_2021_various_14_34_49_754000.jpeg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "description": "熱海梅園（あたみばいえん）は、静岡県熱海市にある市営の庭園。日本で最も早咲きの梅、そして最も遅い紅葉と言われている。60品種・469本の梅をはじめとする各種植物が植えられており、熱海市の観光名所の1つとなっている。"
+  },
+  "miyajima_winter_oyster_hatsumode": {
+    "spotLabel": "世界遺産・厳島神社（安芸の宮島）",
+    "query": "厳島神社",
+    "pageTitle": "厳島神社",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Itsukushima_Shrine_Torii_Gate_%2813890465459%29.jpg/1280px-Itsukushima_Shrine_Torii_Gate_%2813890465459%29.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "description": "厳島神社（いつくしまじんじゃ、公式表記:嚴島神社）は、広島県廿日市市の厳島（宮島）にある神社。式内社（名神大社）、安芸国一宮。旧社格は官幣中社で、現在は神社本庁の別表神社。神紋は「三つ盛り二重亀甲に剣花菱」。古くは「伊都岐島神社」とも記された。全国に約500社ある厳島神社の総本社である。 佐伯直の直系が代々世襲して来たとされているが、一時期藤原氏に横取りされた時期があったものの政略結婚により取り戻し、古代から現在も続いていると記載されている。 広島湾に浮かぶ厳島（宮島）の北東…"
+  },
+  "hakuba_valley_powder_snow_happo": {
+    "spotLabel": "白馬八方尾根スキー場（HAKUBA VALLEY）",
+    "query": "白馬八方尾根スキー場",
+    "pageTitle": "白馬八方尾根スキー場",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Hakuba_Happo-one_Winter_Resort.JPG/1280px-Hakuba_Happo-one_Winter_Resort.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "description": "白馬八方尾根スキー場（はくばはっぽうおねスキーじょう）は、長野県北安曇郡白馬村八方にあるスキー場で、単体のスキー場としては日本国内最大級のスキー場である。「八方尾根スキー場」と呼ばれることが多い。1998年長野オリンピックの際にはアルペンスキーの高速系種目および複合の競技会場となった。 経営母体は八方尾根開発株式会社と白馬観光開発株式会社の2社。 営業期間は積雪の具合により異なるが、通常の場合は12月上旬から翌年5月のゴールデンウィーク最終日までとなる（ただし、最後まで営業す…"
+  },
+  "okunikko_kegon_falls_ice_yumoto_snow": {
+    "spotLabel": "奥日光・華厳の滝（冬のブルーアイス氷瀑）",
+    "query": "華厳滝",
+    "pageTitle": "華厳滝",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Kegon_Taki.jpg/1280px-Kegon_Taki.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "description": "華厳滝（けごんのたき）は、栃木県日光市にある、落差97メートルの滝。中禅寺湖から流れ出る大尻川（おおじりがわ）が、平常時の水量では幅7メートルにわたり岸壁を落下する。袋田の滝（茨城県）、那智滝（和歌山県）とともに「日本三名瀑」の一つとされる景勝地、観光地である。霧降の滝や裏見滝と合わせて日光三名瀑とも、湯滝や竜頭の滝と合わせて奥日光三名瀑とも言われ、日光・奥日光の三名瀑を合わせて日光五名瀑と称されることもある。 発見者は勝道上人と伝えられ、仏教経典の『華厳経』から名づけられた…"
+  }
+}

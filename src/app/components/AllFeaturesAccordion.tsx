@@ -33,6 +33,41 @@ export default function AllFeaturesAccordion() {
             </h4>
             <div className="flex flex-wrap gap-1.5 pt-1">
               <Link
+                href="/winter-hokkaido-tokachi-jewelry-ice-mall-onsen-sauna-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-slate-700 bg-white hover:bg-teal-700 hover:text-white rounded-lg border border-slate-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="十勝ジュエリーアイス＆十勝川モール温泉・極上サウナ宿5選"
+              >
+                十勝ジュエリーアイス＆モール温泉サウナ宿
+              </Link>
+              <Link
+                href="/winter-shizuoka-atami-plum-garden-winter-fireworks-kinmedai-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-slate-700 bg-white hover:bg-teal-700 hover:text-white rounded-lg border border-slate-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="熱海梅園早咲き梅まつり＆熱海海上冬花火・金目鯛名宿5選"
+              >
+                熱海梅園早咲き梅まつり＆海上冬花火宿
+              </Link>
+              <Link
+                href="/winter-hiroshima-miyajima-winter-oyster-itsukushima-hatsumode-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-slate-700 bg-white hover:bg-teal-700 hover:text-white rounded-lg border border-slate-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="冬の宮島牡蠣三昧＆世界遺産・厳島神社初詣・潮湯名宿5選"
+              >
+                宮島牡蠣三昧＆厳島神社初詣潮湯宿
+              </Link>
+              <Link
+                href="/winter-nagano-hakuba-valley-powder-snow-happo-onsen-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-slate-700 bg-white hover:bg-teal-700 hover:text-white rounded-lg border border-slate-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="白馬HAKUBA VALLEY粉雪＆白馬八方温泉・信州牛名宿5選"
+              >
+                白馬パウダースノー＆八方温泉信州牛宿
+              </Link>
+              <Link
+                href="/winter-tochigi-okunikko-kegon-falls-ice-yumoto-snow-onsen-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-slate-700 bg-white hover:bg-teal-700 hover:text-white rounded-lg border border-slate-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="奥日光華厳の滝ブルーアイス氷瀑＆日光湯元温泉・とちぎ和牛名宿5選"
+              >
+                奥日光華厳の滝氷瀑＆湯元雪見露天宿
+              </Link>
+              <Link
                 href="/late-autumn-kyoto-momiji-lightup-stay"
                 className="px-2.5 py-1 text-[11px] font-semibold text-slate-700 bg-white hover:bg-teal-700 hover:text-white rounded-lg border border-slate-200/80 shadow-2xs transition truncate max-w-[200px]"
                 title="散り紅葉の名庭園と嵐山・東山・貴船の風雅名宿5選"
@@ -3646,6 +3681,426 @@ export default function AllFeaturesAccordion() {
                 title="【秋の伊東温泉×格安】伊豆高原紅葉とオーシャンビュー！1泊4,000円台〜のコスパ最強宿5選"
               >
                 伊東温泉×格安オーシャンビュー宿
+              </Link>
+              <Link
+                href="/autumn-budget-toyama-station-shiroebi-crab-hotels-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-teal-900 bg-teal-50/70 hover:bg-teal-600 hover:text-white rounded-lg border border-teal-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="【富山駅前】秋の白えび＆紅ズワイガニ！4,000円台〜泊まれる格安ホテル5選"
+              >
+                富山駅前×白えび紅ズワイガニ宿
+              </Link>
+              <Link
+                href="/autumn-budget-shizuoka-station-sakuraebi-oden-hotels-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-teal-900 bg-teal-50/70 hover:bg-teal-600 hover:text-white rounded-lg border border-teal-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="【静岡駅前】駿河湾の戻り鰹・桜えび＆黒おでん！3,000円台〜泊まれる格安ホテル5選"
+              >
+                静岡駅前×戻り鰹桜えびおでん宿
+              </Link>
+              <Link
+                href="/autumn-budget-shizuoka-hamamatsu-station-unagi-gyoza-hotels-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-teal-900 bg-teal-50/70 hover:bg-teal-600 hover:text-white rounded-lg border border-teal-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="【浜松駅前】秋の浜名湖うなぎ＆浜松餃子ハシゴ旅！2,000円台〜泊まれる格安ホテル5選"
+              >
+                浜松駅前×浜名湖うなぎ餃子宿
+              </Link>
+              <Link
+                href="/autumn-budget-shizuoka-shimoda-kinmedai-perry-hotels-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-teal-900 bg-teal-50/70 hover:bg-teal-600 hover:text-white rounded-lg border border-teal-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="【伊豆下田】旬の金目鯛煮付け＆名湯満喫！3,000円台〜泊まれる格安温泉ホテル5選"
+              >
+                伊豆下田×旬の金目鯛名湯温泉宿
+              </Link>
+              <Link
+                href="/autumn-budget-hokkaido-otaru-canal-shako-hotels-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-teal-900 bg-teal-50/70 hover:bg-teal-600 hover:text-white rounded-lg border border-teal-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="【小樽】秋の味覚シャコ・秋鮭＆運河ガス燈！3,000円台〜泊まれる格安ホテル5選"
+              >
+                小樽×秋シャコ運河ガス燈宿
+              </Link>
+              <Link
+                href="/autumn-budget-yamanashi-kofu-wine-houtou-hotels-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-teal-900 bg-teal-50/70 hover:bg-teal-600 hover:text-white rounded-lg border border-teal-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="【甲府】新酒甲州ワインと名物ほうとう！3,000円台〜泊まれる格安ホテル5選"
+              >
+                甲府×新酒ワインほうとう温泉宿
+              </Link>
+              <Link
+                href="/autumn-budget-kagawa-takamatsu-udon-ritsurin-hotels-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-teal-900 bg-teal-50/70 hover:bg-teal-600 hover:text-white rounded-lg border border-teal-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="【高松】秋の讃岐うどん巡り＆栗林公園紅葉！3,000円台〜泊まれる格安ホテル5選"
+              >
+                高松×讃岐うどん栗林公園紅葉宿
+              </Link>
+              <Link
+                href="/autumn-budget-nagasaki-station-champon-dejima-hotels-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-teal-900 bg-teal-50/70 hover:bg-teal-600 hover:text-white rounded-lg border border-teal-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="【長崎駅前】秋の長崎ちゃんぽん・卓袱料理＆夜景！2,000円台〜泊まれる格安ホテル5選"
+              >
+                長崎駅前×ちゃんぽん出島夜景宿
+              </Link>
+              <Link
+                href="/autumn-budget-tottori-yonago-station-crab-hotels-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-teal-900 bg-teal-50/70 hover:bg-teal-600 hover:text-white rounded-lg border border-teal-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="【米子駅前】秋の境港紅ズワイガニ＆大山紅葉！3,000円台〜泊まれる格安ホテル5選"
+              >
+                米子駅前×紅ズワイガニ米子城宿
+              </Link>
+              <Link
+                href="/autumn-budget-tochigi-utsunomiya-station-gyoza-hotels-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-teal-900 bg-teal-50/70 hover:bg-teal-600 hover:text-white rounded-lg border border-teal-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="【宇都宮駅前】熱々宇都宮餃子ハシゴ旅＆大谷石散策！2,000円台〜泊まれる格安ホテル5選"
+              >
+                宇都宮駅前×餃子ハシゴ城下町宿
+              </Link>
+              <Link
+                href="/autumn-budget-kagoshima-station-kurobuta-sakurajima-hotels-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-teal-900 bg-teal-50/70 hover:bg-teal-600 hover:text-white rounded-lg border border-teal-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="【鹿児島中央駅前】黒豚しゃぶしゃぶ＆桜島絶景庭園！2,000円台〜泊まれる格安ホテル5選"
+              >
+                鹿児島中央駅前×黒豚仙巌園桜島宿
+              </Link>
+              <Link
+                href="/autumn-budget-ehime-matsuyama-okaido-taimeshi-castle-hotels-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-teal-900 bg-teal-50/70 hover:bg-teal-600 hover:text-white rounded-lg border border-teal-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="【松山・大街道】宇和島鯛めし＆現存天守・松山城！2,000円台〜泊まれる格安ホテル5選"
+              >
+                松山大街道×鯛めし松山城名湯宿
+              </Link>
+              <Link
+                href="/autumn-budget-iwate-morioka-station-noodle-hotels-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-teal-900 bg-teal-50/70 hover:bg-teal-600 hover:text-white rounded-lg border border-teal-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="【盛岡駅前】秋の盛岡三大麺＆盛岡城跡紅葉！3,000円台〜泊まれる格安ホテル5選"
+              >
+                盛岡駅前×三大麺盛岡城跡紅葉宿
+              </Link>
+              <Link
+                href="/autumn-budget-niigata-station-shinmai-sake-hotels-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-teal-900 bg-teal-50/70 hover:bg-teal-600 hover:text-white rounded-lg border border-teal-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="【新潟駅前】新米コシヒカリ・南蛮エビ＆日本酒角打ち！2,000円台〜泊まれる格安ホテル5選"
+              >
+                新潟駅前×新米南蛮エビ萬代橋宿
+              </Link>
+              <Link
+                href="/autumn-budget-shimane-matsue-shinjiko-soba-hotels-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-teal-900 bg-teal-50/70 hover:bg-teal-600 hover:text-white rounded-lg border border-teal-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="【松江・宍道湖】秋の宍道湖七珍・出雲そば＆国宝松江城！3,000円台〜泊まれる格安ホテル5選"
+              >
+                松江宍道湖×出雲そば国宝松江城宿
+              </Link>
+              <Link
+                href="/autumn-budget-tokushima-station-ramen-bizan-hotels-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-teal-900 bg-teal-50/70 hover:bg-teal-600 hover:text-white rounded-lg border border-teal-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="【徳島駅前】秋の徳島ラーメン＆鳴門鯛・眉山パノラマ！4,000円台〜泊まれる格安ホテル5選"
+              >
+                徳島駅前×徳島ラーメン眉山夜景宿
+              </Link>
+              <Link
+                href="/autumn-budget-akita-station-kiritanpo-hotels-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-teal-900 bg-teal-50/70 hover:bg-teal-600 hover:text-white rounded-lg border border-teal-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="【秋田駅前】新米きりたんぽ鍋＆千秋公園紅葉！2,000円台〜泊まれる格安ホテル5選"
+              >
+                秋田駅前×新米きりたんぽ千秋公園宿
+              </Link>
+              <Link
+                href="/autumn-budget-fukui-station-oroshisoba-castle-hotels-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-teal-900 bg-teal-50/70 hover:bg-teal-600 hover:text-white rounded-lg border border-teal-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="【福井駅前】越前おろしそば＆ソースカツ丼・福井城跡！3,000円台〜泊まれる格安ホテル5選"
+              >
+                福井駅前×おろしそば福井城跡宿
+              </Link>
+              <Link
+                href="/autumn-budget-tottori-station-sakyu-mosaebi-hotels-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-teal-900 bg-teal-50/70 hover:bg-teal-600 hover:text-white rounded-lg border border-teal-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="【鳥取駅前】秋の鳥取和牛・モサエビ＆黄金の鳥取砂丘！3,000円台〜泊まれる格安ホテル5選"
+              >
+                鳥取駅前×モサエビ鳥取砂丘宿
+              </Link>
+              <Link
+                href="/autumn-budget-hokkaido-furano-wine-tomita-hotels-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-teal-900 bg-teal-50/70 hover:bg-teal-600 hover:text-white rounded-lg border border-teal-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="【富良野】秋の収穫祭・ふらのワイン＆丘陵紅葉！4,000円台〜泊まれる格安リゾートホテル5選"
+              >
+                富良野×新酒ワインファーム富田宿
+              </Link>
+              <Link
+                href="/autumn-budget-ibaraki-mito-station-kairakuen-koudoukan-hotels-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-teal-900 bg-teal-50/70 hover:bg-teal-600 hover:text-white rounded-lg border border-teal-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="【水戸駅前】国指定特別史跡弘道館＆名物あんこう鍋！2,000円台〜泊まれる格安ホテル5選"
+              >
+                水戸駅前×弘道館あんこう鍋宿
+              </Link>
+              <Link
+                href="/autumn-budget-ishikawa-kanazawa-station-kenrokuen-tsuzumimon-hotels-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-teal-900 bg-teal-50/70 hover:bg-teal-600 hover:text-white rounded-lg border border-teal-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="【金沢駅前】兼六園秋の雪吊り＆のどぐろ・金沢おでん！2,000円台〜泊まれる格安ホテル5選"
+              >
+                金沢駅前×兼六園雪吊りおでん宿
+              </Link>
+              <Link
+                href="/autumn-budget-hokkaido-hakodate-station-goryokaku-asaichi-hotels-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-teal-900 bg-teal-50/70 hover:bg-teal-600 hover:text-white rounded-lg border border-teal-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="【函館駅前】五稜郭紅葉＆函館朝市・活イカ・塩ラーメン！2,000円台〜泊まれる格安ホテル5選"
+              >
+                函館駅前×五稜郭朝市活イカ宿
+              </Link>
+              <Link
+                href="/autumn-budget-nara-station-todaiji-kofukuji-daibutsu-hotels-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-teal-900 bg-teal-50/70 hover:bg-teal-600 hover:text-white rounded-lg border border-teal-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="【奈良駅前】東大寺大仏殿＆古都紅葉・三輪そうめん・大和牛！3,000円台〜泊まれる格安ホテル5選"
+              >
+                奈良駅前×東大寺大仏殿古都宿
+              </Link>
+              <Link
+                href="/autumn-budget-yamagata-station-imoni-kajyo-castle-hotels-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-teal-900 bg-teal-50/70 hover:bg-teal-600 hover:text-white rounded-lg border border-teal-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="【山形駅前】名物芋煮鍋＆霞城公園紅葉！3,000円台〜泊まれる格安ホテル5選"
+              >
+                山形駅前×芋煮鍋霞城公園宿
+              </Link>
+              <Link
+                href="/autumn-budget-okayama-kurashiki-station-bikan-chiku-hotels-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-teal-900 bg-teal-50/70 hover:bg-teal-600 hover:text-white rounded-lg border border-teal-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="【倉敷駅前】美観地区白壁の町並み＆名物ままかり！2,000円台〜泊まれる格安ホテル5選"
+              >
+                倉敷駅前×美観地区白壁ままかり宿
+              </Link>
+              <Link
+                href="/autumn-budget-oita-beppu-station-onsen-toriten-hotels-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-teal-900 bg-teal-50/70 hover:bg-teal-600 hover:text-white rounded-lg border border-teal-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="【別府駅前】名湯めぐり＆名物とり天・地獄蒸し！2,000円台〜泊まれる格安ホテル5選"
+              >
+                別府駅前×温泉めぐりとり天宿
+              </Link>
+              <Link
+                href="/autumn-budget-nagano-matsumoto-station-castle-soba-hotels-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-teal-900 bg-teal-50/70 hover:bg-teal-600 hover:text-white rounded-lg border border-teal-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="【松本駅前】国宝松本城紅葉＆秋の新そば・山賊焼！4,000円台〜泊まれる格安ホテル5選"
+              >
+                松本駅前×国宝松本城新そば宿
+              </Link>
+              <Link
+                href="/autumn-budget-yamaguchi-shimonoseki-station-karato-fuku-hotels-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-teal-900 bg-teal-50/70 hover:bg-teal-600 hover:text-white rounded-lg border border-teal-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="【下関駅前】唐戸市場の旬とらふく＆名物瓦そば！2,000円台〜泊まれる格安ホテル5選"
+              >
+                下関駅前×唐戸市場とらふく宿
+              </Link>
+              <Link
+                href="/autumn-budget-gunma-takasaki-station-pasta-haruna-hotels-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-teal-900 bg-teal-50/70 hover:bg-teal-600 hover:text-white rounded-lg border border-teal-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="【高崎駅前】上毛三山・榛名山紅葉＆名物高崎パスタ！3,000円台〜泊まれる格安ホテル5選"
+              >
+                高崎駅前×榛名山紅葉パスタ宿
+              </Link>
+              <Link
+                href="/autumn-budget-aomori-station-nokkedon-apple-hotels-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-teal-900 bg-teal-50/70 hover:bg-teal-600 hover:text-white rounded-lg border border-teal-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="【青森駅前】名物のっけ丼＆旬の津軽りんご・地酒！5,000円台〜泊まれる格安ホテル5選"
+              >
+                青森駅前×のっけ丼津軽りんご宿
+              </Link>
+              <Link
+                href="/autumn-budget-tottori-yonago-station-daisen-crab-hotels-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-teal-900 bg-teal-50/70 hover:bg-teal-600 hover:text-white rounded-lg border border-teal-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="【米子駅前】名峰大山の紅葉＆境港紅ズワイガニ！2,000円台〜泊まれる格安ホテル5選"
+              >
+                米子駅前×大山紅葉境港カニ宿
+              </Link>
+              <Link
+                href="/autumn-budget-hyogo-himeji-station-castle-kokoen-hotels-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-teal-900 bg-teal-50/70 hover:bg-teal-600 hover:text-white rounded-lg border border-teal-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="【姫路駅前】世界遺産姫路城・好古園紅葉＆名物姫路おでん！2,000円台〜泊まれる格安ホテル5選"
+              >
+                姫路駅前×好古園姫路おでん宿
+              </Link>
+              <Link
+                href="/autumn-budget-nagano-station-zenkoji-apple-soba-hotels-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-teal-900 bg-teal-50/70 hover:bg-teal-600 hover:text-white rounded-lg border border-teal-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="【長野駅前】善光寺秋詣＆信州りんご・戸隠そば！5,000円台〜泊まれる格安ホテル5選"
+              >
+                長野駅前×善光寺秋詣新そば宿
+              </Link>
+              <Link
+                href="/autumn-budget-kochi-station-katsuo-hirome-market-hotels-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-teal-900 bg-teal-50/70 hover:bg-teal-600 hover:text-white rounded-lg border border-teal-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="【高知駅前】秋の戻り鰹塩たたき＆ひろめ市場！3,000円台〜泊まれる格安ホテル5選"
+              >
+                高知駅前×戻り鰹ひろめ市場宿
+              </Link>
+              <Link
+                href="/autumn-budget-hokkaido-otaru-station-canal-sushi-hotels-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-teal-900 bg-teal-50/70 hover:bg-teal-600 hover:text-white rounded-lg border border-teal-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="【小樽駅前】小樽運河秋散歩＆秋シャコ・小樽寿司！2,000円台〜泊まれる格安ホテル5選"
+              >
+                小樽駅前×運河秋散歩小樽寿司宿
+              </Link>
+              <Link
+                href="/autumn-budget-yamanashi-kofu-station-shosenkyo-houtou-hotels-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-teal-900 bg-teal-50/70 hover:bg-teal-600 hover:text-white rounded-lg border border-teal-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="【甲府駅前】特別名勝昇仙峡の紅葉＆名物ほうとう・甲州ワイン！3,000円台〜泊まれる格安ホテル5選"
+              >
+                甲府駅前×昇仙峡紅葉ほうとう宿
+              </Link>
+              <Link
+                href="/autumn-budget-nagasaki-station-glover-champon-hotels-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-teal-900 bg-teal-50/70 hover:bg-teal-600 hover:text-white rounded-lg border border-teal-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="【長崎駅前】グラバー園秋散歩＆本場長崎ちゃんぽん！2,000円台〜泊まれる格安ホテル5選"
+              >
+                長崎駅前×グラバー園ちゃんぽん宿
+              </Link>
+              <Link
+                href="/autumn-budget-kagawa-takamatsu-station-ritsurin-udon-hotels-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-teal-900 bg-teal-50/70 hover:bg-teal-600 hover:text-white rounded-lg border border-teal-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="【高松駅前】特別名勝栗林公園秋ライトアップ＆本場讃岐うどん！3,000円台〜泊まれる格安ホテル5選"
+              >
+                高松駅前×栗林公園讃岐うどん宿
+              </Link>
+              <Link
+                href="/autumn-budget-tochigi-utsunomiya-station-gyoza-oya-hotels-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-teal-900 bg-teal-50/70 hover:bg-teal-600 hover:text-white rounded-lg border border-teal-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="【宇都宮駅前】日光紅葉前泊＆名物宇都宮餃子・大谷石地下宮殿！2,000円台〜泊まれる格安ホテル5選"
+              >
+                宇都宮駅前×日光前泊餃子大谷宿
+              </Link>
+              <Link
+                href="/autumn-budget-kagoshima-chuo-station-sakurajima-kurobuta-hotels-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-teal-900 bg-teal-50/70 hover:bg-teal-600 hover:text-white rounded-lg border border-teal-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="【鹿児島中央駅前】桜島絶景庭園・仙巌園＆名物黒豚しゃぶしゃぶ！2,000円台〜泊まれる格安ホテル5選"
+              >
+                鹿児島中央駅前×仙巌園黒豚宿
+              </Link>
+              <Link
+                href="/autumn-budget-ehime-matsuyama-station-castle-taimeshi-hotels-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-teal-900 bg-teal-50/70 hover:bg-teal-600 hover:text-white rounded-lg border border-teal-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="【松山市駅・大街道】松山城秋のロープウェイ＆名物宇和島鯛めし！2,000円台〜泊まれる格安ホテル5選"
+              >
+                松山×松山城宇和島鯛めし宿
+              </Link>
+              <Link
+                href="/autumn-budget-iwate-morioka-station-castle-reimen-hotels-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-teal-900 bg-teal-50/70 hover:bg-teal-600 hover:text-white rounded-lg border border-teal-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="【盛岡駅前】盛岡城跡公園の紅葉＆名物盛岡冷麺・じゃじゃ麺！3,000円台〜泊まれる格安ホテル5選"
+              >
+                盛岡駅前×盛岡城跡三大麺宿
+              </Link>
+              <Link
+                href="/autumn-budget-niigata-station-echigo-sake-shinmai-hotels-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-teal-900 bg-teal-50/70 hover:bg-teal-600 hover:text-white rounded-lg border border-teal-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="【新潟駅前】新米コシヒカリ＆越後地酒利き酒・万代橋！2,000円台〜泊まれる格安ホテル5選"
+              >
+                新潟駅前×新米コシヒカリ地酒宿
+              </Link>
+              <Link
+                href="/autumn-budget-shimane-matsue-station-castle-shinjiko-hotels-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-teal-900 bg-teal-50/70 hover:bg-teal-600 hover:text-white rounded-lg border border-teal-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="【松江駅前】国宝松江城・宍道湖の夕日＆名物出雲そば・しじみ汁！5,000円台〜泊まれる格安ホテル5選"
+              >
+                松江駅前×国宝松江城宍道湖夕日宿
+              </Link>
+              <Link
+                href="/autumn-budget-tokushima-station-bizan-ramen-hotels-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-teal-900 bg-teal-50/70 hover:bg-teal-600 hover:text-white rounded-lg border border-teal-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="【徳島駅前】眉山の秋パノラマ展望＆濃厚徳島ラーメン！4,000円台〜泊まれる格安ホテル5選"
+              >
+                徳島駅前×眉山絶景徳島ラーメン宿
+              </Link>
+              <Link
+                href="/autumn-budget-fukui-station-castle-oroshisoba-hotels-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-teal-900 bg-teal-50/70 hover:bg-teal-600 hover:text-white rounded-lg border border-teal-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="【福井駅前】福井城跡秋散歩＆越前おろしそば・ソースカツ丼！3,000円台〜泊まれる格安ホテル5選"
+              >
+                福井駅前×福井城跡おろしそば宿
+              </Link>
+              <Link
+                href="/autumn-budget-tottori-station-sakyu-mosaebi-beef-hotels-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-teal-900 bg-teal-50/70 hover:bg-teal-600 hover:text-white rounded-lg border border-teal-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="【鳥取駅前】黄金の鳥取砂丘＆幻のモサエビ・鳥取和牛！3,000円台〜泊まれる格安ホテル5選"
+              >
+                鳥取駅前×黄金砂丘モサエビ和牛宿
+              </Link>
+              <Link
+                href="/autumn-budget-aichi-nagoya-station-tokugawaen-hitsumabushi-hotels-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-teal-900 bg-teal-50/70 hover:bg-teal-600 hover:text-white rounded-lg border border-teal-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="【名古屋駅前】徳川園錦秋ライトアップ＆名物ひつまぶし・味噌カツ！3,000円台〜泊まれる格安ホテル5選"
+              >
+                名古屋駅前×徳川園ひつまぶし宿
+              </Link>
+              <Link
+                href="/autumn-budget-miyagi-sendai-station-zuihoden-gyutan-hotels-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-teal-900 bg-teal-50/70 hover:bg-teal-600 hover:text-white rounded-lg border border-teal-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="【仙台駅前】瑞鳳殿紅葉ライトアップ＆名物牛たん炭火焼き！2,000円台〜泊まれる格安ホテル5選"
+              >
+                仙台駅前×瑞鳳殿紅葉牛たん宿
+              </Link>
+              <Link
+                href="/autumn-budget-kumamoto-station-castle-akagyu-hotels-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-teal-900 bg-teal-50/70 hover:bg-teal-600 hover:text-white rounded-lg border border-teal-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="【熊本駅前】日本三名城熊本城の銀杏紅葉＆名物あか牛丼・馬刺し！4,000円台〜泊まれる格安ホテル5選"
+              >
+                熊本駅前×熊本城銀杏あか牛丼宿
+              </Link>
+              <Link
+                href="/autumn-budget-hokkaido-hakodate-bay-kanemori-yakei-hotels-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-teal-900 bg-teal-50/70 hover:bg-teal-600 hover:text-white rounded-lg border border-teal-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="【函館ベイエリア】函館山世界三大夜景＆金森赤レンガ倉庫・海鮮！2,000円台〜泊まれる格安ホテル5選"
+              >
+                函館ベイ×赤レンガ倉庫夜景宿
+              </Link>
+              <Link
+                href="/autumn-budget-miyazaki-station-aoshima-chicken-nanban-hotels-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-teal-900 bg-teal-50/70 hover:bg-teal-600 hover:text-white rounded-lg border border-teal-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="【宮崎駅前】青島・鬼の洗濯板の秋絶景＆本場チキン南蛮！3,000円台〜泊まれる格安ホテル5選"
+              >
+                宮崎駅前×青島鬼の洗濯板南蛮宿
+              </Link>
+              <Link
+                href="/autumn-budget-hokkaido-asahikawa-station-sounkyo-ramen-hotels-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-teal-900 bg-teal-50/70 hover:bg-teal-600 hover:text-white rounded-lg border border-teal-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="【旭川駅前】大雪山層雲峡の紅葉＆名物旭川醤油ラーメン！2,000円台〜泊まれる格安ホテル5選"
+              >
+                旭川駅前×層雲峡紅葉ラーメン宿
+              </Link>
+              <Link
+                href="/autumn-budget-gifu-station-castle-hida-beef-hotels-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-teal-900 bg-teal-50/70 hover:bg-teal-600 hover:text-white rounded-lg border border-teal-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="【岐阜駅前】岐阜城金華山パノラマ＆名物飛騨牛・鮎料理！2,000円台〜泊まれる格安ホテル5選"
+              >
+                岐阜駅前×岐阜城金華山飛騨牛宿
+              </Link>
+              <Link
+                href="/autumn-budget-fukushima-station-bandai-azuma-gyoza-hotels-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-teal-900 bg-teal-50/70 hover:bg-teal-600 hover:text-white rounded-lg border border-teal-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="【福島駅前】吾妻山紅葉ドライブ＆名物円盤餃子！2,000円台〜泊まれる格安ホテル5選"
+              >
+                福島駅前×吾妻山紅葉円盤餃子宿
+              </Link>
+              <Link
+                href="/autumn-budget-aomori-hachinohe-station-tanesashi-senbeijiru-hotels-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-teal-900 bg-teal-50/70 hover:bg-teal-600 hover:text-white rounded-lg border border-teal-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="【八戸駅・本八戸】種差海岸の秋絶景＆館鼻岸壁朝市・せんべい汁！2,000円台〜泊まれる格安ホテル5選"
+              >
+                八戸・本八戸×種差海岸朝市宿
+              </Link>
+              <Link
+                href="/autumn-budget-hokkaido-obihiro-station-tokachi-butadon-hotels-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-teal-900 bg-teal-50/70 hover:bg-teal-600 hover:text-white rounded-lg border border-teal-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="【帯広駅前】ばんえい十勝の迫力＆名物十勝豚丼・モール温泉！3,000円台〜泊まれる格安ホテル5選"
+              >
+                帯広駅前×ばんえい十勝豚丼宿
+              </Link>
+              <Link
+                href="/autumn-budget-hokkaido-kushiro-station-sunset-robata-hotels-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-teal-900 bg-teal-50/70 hover:bg-teal-600 hover:text-white rounded-lg border border-teal-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="【釧路駅前】世界三大夕日・幣舞橋＆名物炉端焼き・秋刀魚！4,000円台〜泊まれる格安ホテル5選"
+              >
+                釧路駅前×幣舞橋夕日炉端焼き宿
+              </Link>
+              <Link
+                href="/autumn-budget-fukuoka-kurume-station-ramen-yakitori-hotels-stay"
+                className="px-2.5 py-1 text-[11px] font-semibold text-teal-900 bg-teal-50/70 hover:bg-teal-600 hover:text-white rounded-lg border border-teal-200/80 shadow-2xs transition truncate max-w-[200px]"
+                title="【久留米駅前】高良大社の紅葉パノラマ＆元祖豚骨久留米ラーメン・焼き鳥！2,000円台〜泊まれる格安ホテル5選"
+              >
+                久留米駅前×高良大社元祖豚骨宿
               </Link>
               <Link
                 href="/autumn-yamanashi-kawaguchiko-momiji-corridor-fuji-hotels-stay"

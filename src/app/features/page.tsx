@@ -111,6 +111,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-hokkaido-tokachi-jewelry-ice-mall-onsen-sauna-stay',
+              title: "十勝ジュエリーアイス＆十勝川植物性モール温泉！極上サウナシュラン＆十勝牛・ラクレット名宿",
+              desc: "大津海岸に打ち上げられる奇跡のクリスタル氷塊！世界遺産級の植物性モール温泉と氷点下外気浴が叶う十勝サウナ、十勝牛やラクレットチーズ…",
+              badge: '1・2月特集'
+            },
+            {
+              slug: 'winter-shizuoka-atami-plum-garden-winter-fireworks-kinmedai-stay',
+              title: "熱海梅園早咲き梅まつり＆熱海海上冬花火！相模湾絶景オーシャンビュー露天＆極上金目鯛姿煮名宿",
+              desc: "日本一早咲きの熱海梅園470本の梅と冬の夜空を彩る大迫力の海上花火！海と一体化するインフィニティ露天風呂と老舗の金目鯛煮付け会席…",
+              badge: '12・1・2月特集'
+            },
+            {
+              slug: 'winter-hiroshima-miyajima-winter-oyster-itsukushima-hatsumode-stay',
+              title: "冬の宮島牡蠣三昧＆世界遺産・厳島神社新春初詣！海上に浮かぶ大鳥居の荘厳美＆天然温泉潮湯名宿",
+              desc: "12月〜1月に身入りがピークを迎える濃厚クリーミーな宮島牡蠣！大鳥居の夜間ライトアップと早朝初詣、島内唯一の自家源泉潮湯と対岸露天…",
+              badge: '12・1月特集'
+            },
+            {
+              slug: 'winter-nagano-hakuba-valley-powder-snow-happo-onsen-stay',
+              title: "白馬HAKUBA VALLEY極上パウダースノー＆白馬八方温泉！pH11超の強アルカリ美肌湯＆信州牛名宿",
+              desc: "世界が愛する白馬の粉雪JAPOWと長野五輪の舞台！pH11.2の奇跡の美肌湯・白馬八方温泉、暖炉灯るクラシック山岳ホテル＆信州牛会席…",
+              badge: '12・1・2月特集'
+            },
+            {
+              slug: 'winter-tochigi-okunikko-kegon-falls-ice-yumoto-snow-onsen-stay',
+              title: "奥日光・華厳の滝ブルーアイス氷瀑＆日光湯元温泉！国民保養温泉地第1号の乳白色硫黄泉＆とちぎ和牛名宿",
+              desc: "落差97mの日本三名瀑が青く凍りつく冬の奇跡！エメラルドグリーンから乳白色へ濁る濃厚硫黄泉の雪見露天、とちぎ和牛と伝統の日光湯波会席…",
+              badge: '12・1・2月特集'
+            },
+            {
               slug: 'winter-nagano-shiga-kogen-snow-monkey-jigokudani-onsen-stay',
               title: "志賀高原＆地獄谷スノーモンキー！白銀パウダースノー＆湯田中渋温泉郷九湯めぐり・信州牛名宿",
               desc: "世界が愛するスノーモンキーと標高2000m極上パウダースノー！登録有形文化財「桃山風呂」や歴史の宿金具屋、ゲレンデ直結プリンスホテル…",
