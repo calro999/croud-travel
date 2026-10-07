@@ -233,6 +233,40 @@ export default function FeaturePage() {
           </div>
         </section>
 
+        
+        {/* 観光地ガイド・公式Wikipedia写真＆解説 */}
+        <section className="bg-white rounded-2xl border border-stone-200/90 overflow-hidden shadow-sm mb-10">
+          <div className="bg-gradient-to-r from-stone-900 to-stone-800 text-white px-6 py-4 flex items-center justify-between">
+            <div className="flex items-center gap-2">
+              <span className="w-2.5 h-2.5 rounded-full bg-amber-400 animate-pulse" />
+              <h2 className="text-base md:text-lg font-bold tracking-wide">信州・高原リゾートガイド：高原リゾート・軽井沢の紅葉と雲場池</h2>
+            </div>
+            <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
+          </div>
+          <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
+            <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+              <Image
+                src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Mikasa-Dori%2C_Karuizawa.jpg/1280px-Mikasa-Dori%2C_Karuizawa.jpg"
+                alt="高原リゾート・軽井沢の紅葉と雲場池"
+                fill
+                className="object-cover hover:scale-105 transition duration-500"
+                sizes="(max-width: 768px) 100vw, 400px"
+              />
+              <div className="absolute bottom-0 inset-x-0 bg-gradient-to-t from-black/70 to-transparent p-2 text-right">
+                <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
+              </div>
+            </div>
+            <div className="md:col-span-7 space-y-3">
+              <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">高原リゾート・軽井沢の紅葉と雲場池の歴史と見どころ</h3>
+              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">軽井沢（かるいざわ）は、長野県東信地方の佐久地域を中心に見られる地名である。避暑地・別荘地としてブランド化された地名であり、狭義には長野県北佐久郡軽井沢町の旧軽井沢地区（ウィキ座標、旧軽井沢メインストリートも参照）あるいは軽井沢町全体を指し、広義には隣接する御代田町（西軽井沢）、群馬県吾妻郡長野原町大字北軽井沢・吾妻郡嬬恋村（奥軽井沢）・安中市（東軽井沢）といった周辺部を含む。</p>
+              <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">
+                <span>出典: フリー百科事典『ウィキペディア（Wikipedia）』</span>
+                <span className="text-teal-700 font-semibold">現地観光・散策推奨スポット</span>
+              </div>
+            </div>
+          </div>
+        </section>
+
         <section className="space-y-10">
           <div className="flex flex-col md:flex-row md:items-end justify-between gap-3 border-b border-stone-200 pb-4">
             <div>

@@ -60,6 +60,40 @@ export default function OkinawaBudgetAutumnPage() {
           </p>
         </section>
 
+        
+        {/* 観光地ガイド・公式Wikipedia写真＆解説 */}
+        <section className="bg-white rounded-2xl border border-stone-200/90 overflow-hidden shadow-sm mb-10">
+          <div className="bg-gradient-to-r from-stone-900 to-stone-800 text-white px-6 py-4 flex items-center justify-between">
+            <div className="flex items-center gap-2">
+              <span className="w-2.5 h-2.5 rounded-full bg-amber-400 animate-pulse" />
+              <h2 className="text-base md:text-lg font-bold tracking-wide">琉球・古都首里歴史ガイド：琉球王国の栄華・世界遺産 首里城公園</h2>
+            </div>
+            <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
+          </div>
+          <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
+            <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+              <Image
+                src="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Naha_Okinawa_Japan_Shuri-Castle-01.jpg/1280px-Naha_Okinawa_Japan_Shuri-Castle-01.jpg"
+                alt="琉球王国の栄華・世界遺産 首里城公園"
+                fill
+                className="object-cover hover:scale-105 transition duration-500"
+                sizes="(max-width: 768px) 100vw, 400px"
+              />
+              <div className="absolute bottom-0 inset-x-0 bg-gradient-to-t from-black/70 to-transparent p-2 text-right">
+                <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
+              </div>
+            </div>
+            <div className="md:col-span-7 space-y-3">
+              <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">琉球王国の栄華・世界遺産 首里城公園の歴史と見どころ</h3>
+              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">首里城（しゅりじょう、沖縄語: すいぐしく）は、琉球王国中山首里（現在の沖縄県那覇市）にあったグスク（御城）の城趾。第一尚氏から第二尚氏に続く尚氏王統の居城跡である。 首里城公園として整備されており、首里城公園は城郭に囲まれた国営沖縄記念公園首里城地区（国立公園区域）と城郭周辺の県営首里城公園（県営公園区域）で構成される。2000年（平成12年）には、首里城公園内の首里城跡、園比屋武御嶽石門、玉陵が「琉球王国のグスク及び関連遺産群」の一つとして世界遺産に登録された。  第二次世界大戦中に焼失後、1992年に柱・壁・瓦など朱色を基調として再建された。しかし、2019年（令和元年）10月31日に正殿など主要7棟が火災で焼失し、その後復旧作業が進められている。2026年（令和8年）秋に正殿の木造復元が完成する。その後、南殿、北殿、黄金御殿、二階御殿、番所、中城御殿などの木造復元をする予定である。</p>
+              <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">
+                <span>出典: フリー百科事典『ウィキペディア（Wikipedia）』</span>
+                <span className="text-teal-700 font-semibold">現地観光・散策推奨スポット</span>
+              </div>
+            </div>
+          </div>
+        </section>
+
         <section className="mb-12">
           <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2">
             <span className="w-2.5 h-6 bg-teal-600 rounded-full inline-block"></span>

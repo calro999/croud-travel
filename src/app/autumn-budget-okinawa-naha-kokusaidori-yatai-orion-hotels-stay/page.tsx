@@ -52,6 +52,40 @@ export default function AutumnBudgetFeaturePage() {
         </div>
       </section>
 
+      
+        {/* 観光地ガイド・公式Wikipedia写真＆解説 */}
+        <section className="bg-white rounded-2xl border border-stone-200/90 overflow-hidden shadow-sm mb-10">
+          <div className="bg-gradient-to-r from-stone-900 to-stone-800 text-white px-6 py-4 flex items-center justify-between">
+            <div className="flex items-center gap-2">
+              <span className="w-2.5 h-2.5 rounded-full bg-amber-400 animate-pulse" />
+              <h2 className="text-base md:text-lg font-bold tracking-wide">沖縄・那覇街歩きガイド：那覇のメインストリート・国際通りと屋台村</h2>
+            </div>
+            <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
+          </div>
+          <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
+            <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+              <Image
+                src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Kokusai-dori08s3s4440.jpg/1280px-Kokusai-dori08s3s4440.jpg"
+                alt="那覇のメインストリート・国際通りと屋台村"
+                fill
+                className="object-cover hover:scale-105 transition duration-500"
+                sizes="(max-width: 768px) 100vw, 400px"
+              />
+              <div className="absolute bottom-0 inset-x-0 bg-gradient-to-t from-black/70 to-transparent p-2 text-right">
+                <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
+              </div>
+            </div>
+            <div className="md:col-span-7 space-y-3">
+              <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">那覇のメインストリート・国際通りと屋台村の歴史と見どころ</h3>
+              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">国際通り（こくさいどおり/こくさいとおり）は、沖縄県那覇市の県庁北口交差点（パレットくもじ前交差点）から安里三叉路までの約1.6 kmの通り。沖縄県で最も賑やかな通りであり那覇最大の繁華街である。 「国際通り」の読み方は、沖縄県内や国の機関を含め一般的には「こくさいどおり」と呼ばれているが、通りの入り口には「こくさいとおり」と彫られたシーサーの石碑がある。</p>
+              <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">
+                <span>出典: フリー百科事典『ウィキペディア（Wikipedia）』</span>
+                <span className="text-teal-700 font-semibold">現地観光・散策推奨スポット</span>
+              </div>
+            </div>
+          </div>
+        </section>
+
       {/* 宿一覧 */}
       <section className="max-w-4xl mx-auto px-4 space-y-8">
 

@@ -52,6 +52,40 @@ export default function AutumnBudgetTakasakiHotelsPage() {
         </div>
       </section>
 
+      
+        {/* 観光地ガイド・公式Wikipedia写真＆解説 */}
+        <section className="bg-white rounded-2xl border border-stone-200/90 overflow-hidden shadow-sm mb-10">
+          <div className="bg-gradient-to-r from-stone-900 to-stone-800 text-white px-6 py-4 flex items-center justify-between">
+            <div className="flex items-center gap-2">
+              <span className="w-2.5 h-2.5 rounded-full bg-amber-400 animate-pulse" />
+              <h2 className="text-base md:text-lg font-bold tracking-wide">上州・カルデラ湖絶景ガイド：上毛三山・榛名山と榛名湖畔の紅葉</h2>
+            </div>
+            <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
+          </div>
+          <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
+            <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+              <Image
+                src="https://upload.wikimedia.org/wikipedia/commons/0/0c/HarunaKo.jpg"
+                alt="上毛三山・榛名山と榛名湖畔の紅葉"
+                fill
+                className="object-cover hover:scale-105 transition duration-500"
+                sizes="(max-width: 768px) 100vw, 400px"
+              />
+              <div className="absolute bottom-0 inset-x-0 bg-gradient-to-t from-black/70 to-transparent p-2 text-right">
+                <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
+              </div>
+            </div>
+            <div className="md:col-span-7 space-y-3">
+              <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">上毛三山・榛名山と榛名湖畔の紅葉の歴史と見どころ</h3>
+              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">榛名湖（はるなこ）は、群馬県西部にある湖。榛名山のカルデラ内に生じた火口原湖で、水系としては利根川に属する。周囲は約4.8キロメートル、面積は約1.2平方キロメートル、最深部は約12メートルから15メートル。 『万葉集』の時代から上野国を象徴する歌題「伊香保の沼」として知られる。榛名神社とともに、江戸時代以降は関東地方を中心とする雨乞い信仰「榛名講」の目的地となった。明治時代以降は近接する伊香保温泉に集まった文化人によって文芸作品に描かれた。大正時代からは本格的な観光開発が始まり、年間百数十万人（1987年）の観光客を集め 、一年を通じて群馬県を代表する観光地の一つとなっている。</p>
+              <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">
+                <span>出典: フリー百科事典『ウィキペディア（Wikipedia）』</span>
+                <span className="text-teal-700 font-semibold">現地観光・散策推奨スポット</span>
+              </div>
+            </div>
+          </div>
+        </section>
+
       {/* 宿一覧 */}
       <section className="max-w-4xl mx-auto px-4 space-y-8">
         {/* 宿1 */}

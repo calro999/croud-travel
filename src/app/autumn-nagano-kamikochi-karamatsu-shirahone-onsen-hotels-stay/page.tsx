@@ -233,6 +233,40 @@ export default function FeaturePage() {
           </div>
         </section>
 
+        
+        {/* 観光地ガイド・公式Wikipedia写真＆解説 */}
+        <section className="bg-white rounded-2xl border border-stone-200/90 overflow-hidden shadow-sm mb-10">
+          <div className="bg-gradient-to-r from-stone-900 to-stone-800 text-white px-6 py-4 flex items-center justify-between">
+            <div className="flex items-center gap-2">
+              <span className="w-2.5 h-2.5 rounded-full bg-amber-400 animate-pulse" />
+              <h2 className="text-base md:text-lg font-bold tracking-wide">信州・秋の絶景ガイド：特別名勝・上高地 大正池と河童橋</h2>
+            </div>
+            <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
+          </div>
+          <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
+            <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+              <Image
+                src="https://upload.wikimedia.org/wikipedia/commons/7/7a/%E7%A7%8B%E3%81%AE%E4%B8%8A%E9%AB%98%E5%9C%B0_%28Kamikochi_in_autumn%29_24_Oct%2C_2011_-_panoramio.jpg"
+                alt="特別名勝・上高地 大正池と河童橋"
+                fill
+                className="object-cover hover:scale-105 transition duration-500"
+                sizes="(max-width: 768px) 100vw, 400px"
+              />
+              <div className="absolute bottom-0 inset-x-0 bg-gradient-to-t from-black/70 to-transparent p-2 text-right">
+                <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
+              </div>
+            </div>
+            <div className="md:col-span-7 space-y-3">
+              <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">特別名勝・上高地 大正池と河童橋の歴史と見どころ</h3>
+              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">上高地（かみこうち）は、長野県松本市の西部、清流梓川（あずさがわ）上流に所在する県を代表する山岳景勝地。飛騨山脈（北アルプス）南部の長野県側（全域が松本市）に属する。中部山岳国立公園の一部ともなっており、国の文化財（特別名勝・特別天然記念物/天然保護区域）に指定されている。河童橋や大正池など上高地自体が国内外から観光客が訪れる一大観光地であるだけでなく、上高地内にホテルなどの宿泊施設や温泉があり、周辺にある穂高連峰や槍ヶ岳への登山基地ともなっている。標高は約1,500m。 「かみこうち」の名称は本来「神垣内」の漢字表記だが、後に現在の「上高地」の漢字表記が一般的となった。「神垣内」とは、穂高神社の祭神・「穂高見命」（ほたかみのみこと）が穂高岳に降臨し、この地（穂高神社奥宮と明神池）で祀られていることに由来する。</p>
+              <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">
+                <span>出典: フリー百科事典『ウィキペディア（Wikipedia）』</span>
+                <span className="text-teal-700 font-semibold">現地観光・散策推奨スポット</span>
+              </div>
+            </div>
+          </div>
+        </section>
+
         <section className="space-y-10">
           <div className="flex flex-col md:flex-row md:items-end justify-between gap-3 border-b border-stone-200 pb-4">
             <div>

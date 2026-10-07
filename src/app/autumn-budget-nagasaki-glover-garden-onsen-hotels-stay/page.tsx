@@ -60,6 +60,40 @@ export default function NagasakiBudgetAutumnPage() {
           </p>
         </section>
 
+        
+        {/* 観光地ガイド・公式Wikipedia写真＆解説 */}
+        <section className="bg-white rounded-2xl border border-stone-200/90 overflow-hidden shadow-sm mb-10">
+          <div className="bg-gradient-to-r from-stone-900 to-stone-800 text-white px-6 py-4 flex items-center justify-between">
+            <div className="flex items-center gap-2">
+              <span className="w-2.5 h-2.5 rounded-full bg-amber-400 animate-pulse" />
+              <h2 className="text-base md:text-lg font-bold tracking-wide">長崎・南山手洋館ガイド：長崎港を見下ろす南山手の丘・グラバー園</h2>
+            </div>
+            <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
+          </div>
+          <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
+            <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+              <Image
+                src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Nagasaki_glover_16835805_886671322b_o_d.jpg"
+                alt="長崎港を見下ろす南山手の丘・グラバー園"
+                fill
+                className="object-cover hover:scale-105 transition duration-500"
+                sizes="(max-width: 768px) 100vw, 400px"
+              />
+              <div className="absolute bottom-0 inset-x-0 bg-gradient-to-t from-black/70 to-transparent p-2 text-right">
+                <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
+              </div>
+            </div>
+            <div className="md:col-span-7 space-y-3">
+              <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">長崎港を見下ろす南山手の丘・グラバー園の歴史と見どころ</h3>
+              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">グラバー園（グラバーえん）は、日本の長崎県長崎市南山手町8-1にある観光施設である。1859年（安政6年）の長崎開港後に長崎に来住したスコットランド人商人グラバー、リンガー、オルトの旧邸があった敷地に、長崎市内に残っていた歴史的建造物を移築しており、野外博物館の状態を呈している。 世界遺産「明治日本の産業革命遺産 製鉄・製鋼、造船、石炭産業」（全23資産）の構成資産である旧グラバー住宅などの洋風建築がある。2004年（平成16年）10月1日 - 2007年（平成19年）9月30日の間、長崎市民は無料で入場できていたが、2007年（平成19年）10月1日より市民も通常料金が必要になった。</p>
+              <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">
+                <span>出典: フリー百科事典『ウィキペディア（Wikipedia）』</span>
+                <span className="text-teal-700 font-semibold">現地観光・散策推奨スポット</span>
+              </div>
+            </div>
+          </div>
+        </section>
+
         <section className="mb-12">
           <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2">
             <span className="w-2.5 h-6 bg-teal-600 rounded-full inline-block"></span>

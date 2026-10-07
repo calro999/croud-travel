@@ -52,6 +52,40 @@ export default function AutumnBudgetNiigataHotelsPage() {
         </div>
       </section>
 
+      
+        {/* 観光地ガイド・公式Wikipedia写真＆解説 */}
+        <section className="bg-white rounded-2xl border border-stone-200/90 overflow-hidden shadow-sm mb-10">
+          <div className="bg-gradient-to-r from-stone-900 to-stone-800 text-white px-6 py-4 flex items-center justify-between">
+            <div className="flex items-center gap-2">
+              <span className="w-2.5 h-2.5 rounded-full bg-amber-400 animate-pulse" />
+              <h2 className="text-base md:text-lg font-bold tracking-wide">越後・名社紅葉ガイド：越後一宮・彌彦神社ともみじ谷の紅葉</h2>
+            </div>
+            <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
+          </div>
+          <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
+            <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+              <Image
+                src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Iyahiko-jinja_1.JPG/1280px-Iyahiko-jinja_1.JPG"
+                alt="越後一宮・彌彦神社ともみじ谷の紅葉"
+                fill
+                className="object-cover hover:scale-105 transition duration-500"
+                sizes="(max-width: 768px) 100vw, 400px"
+              />
+              <div className="absolute bottom-0 inset-x-0 bg-gradient-to-t from-black/70 to-transparent p-2 text-right">
+                <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
+              </div>
+            </div>
+            <div className="md:col-span-7 space-y-3">
+              <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">越後一宮・彌彦神社ともみじ谷の紅葉の歴史と見どころ</h3>
+              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">弥彦神社（やひこじんじゃ、旧字体: 彌彥神󠄀社󠄁）は、新潟県西蒲原郡弥彦村弥彦にある神社。式内社（名神大社）、越後国一宮。旧社格は国幣中社で、現在は神社本庁の別表神社。</p>
+              <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">
+                <span>出典: フリー百科事典『ウィキペディア（Wikipedia）』</span>
+                <span className="text-teal-700 font-semibold">現地観光・散策推奨スポット</span>
+              </div>
+            </div>
+          </div>
+        </section>
+
       {/* 宿一覧 */}
       <section className="max-w-4xl mx-auto px-4 space-y-8">
         {/* 宿1 */}

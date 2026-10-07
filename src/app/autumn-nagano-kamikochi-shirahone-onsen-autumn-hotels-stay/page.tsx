@@ -60,6 +60,40 @@ export default function KamikochiShirahoneAutumnPage() {
           </p>
         </section>
 
+        
+        {/* 観光地ガイド・公式Wikipedia写真＆解説 */}
+        <section className="bg-white rounded-2xl border border-stone-200/90 overflow-hidden shadow-sm mb-10">
+          <div className="bg-gradient-to-r from-stone-900 to-stone-800 text-white px-6 py-4 flex items-center justify-between">
+            <div className="flex items-center gap-2">
+              <span className="w-2.5 h-2.5 rounded-full bg-amber-400 animate-pulse" />
+              <h2 className="text-base md:text-lg font-bold tracking-wide">信州・秘湯ガイド：乳白色の名湯・白骨温泉と上高地の秋</h2>
+            </div>
+            <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
+          </div>
+          <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
+            <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+              <Image
+                src="https://upload.wikimedia.org/wikipedia/commons/6/65/Sirahone_spa_kyoudou-noten-buro_2008.jpg"
+                alt="乳白色の名湯・白骨温泉と上高地の秋"
+                fill
+                className="object-cover hover:scale-105 transition duration-500"
+                sizes="(max-width: 768px) 100vw, 400px"
+              />
+              <div className="absolute bottom-0 inset-x-0 bg-gradient-to-t from-black/70 to-transparent p-2 text-right">
+                <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
+              </div>
+            </div>
+            <div className="md:col-span-7 space-y-3">
+              <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">乳白色の名湯・白骨温泉と上高地の秋の歴史と見どころ</h3>
+              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">白骨温泉（しらほねおんせん）は、長野県松本市安曇（旧国信濃国）にある温泉である。北アルプス・乗鞍岳の山麓（標高1400メートルほど）の中部山岳国立公園区域内にあり、国民保養温泉地にも指定されている。</p>
+              <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">
+                <span>出典: フリー百科事典『ウィキペディア（Wikipedia）』</span>
+                <span className="text-teal-700 font-semibold">現地観光・散策推奨スポット</span>
+              </div>
+            </div>
+          </div>
+        </section>
+
         <section className="mb-12">
           <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2">
             <span className="w-2.5 h-6 bg-amber-600 rounded-full inline-block"></span>

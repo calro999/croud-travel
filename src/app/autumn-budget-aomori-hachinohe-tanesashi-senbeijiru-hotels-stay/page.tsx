@@ -52,6 +52,40 @@ export default function AutumnBudgetHachinoheHotelsPage() {
         </div>
       </section>
 
+      
+        {/* 観光地ガイド・公式Wikipedia写真＆解説 */}
+        <section className="bg-white rounded-2xl border border-stone-200/90 overflow-hidden shadow-sm mb-10">
+          <div className="bg-gradient-to-r from-stone-900 to-stone-800 text-white px-6 py-4 flex items-center justify-between">
+            <div className="flex items-center gap-2">
+              <span className="w-2.5 h-2.5 rounded-full bg-amber-400 animate-pulse" />
+              <h2 className="text-base md:text-lg font-bold tracking-wide">八戸・三陸海岸絶景ガイド：三陸復興国立公園・種差海岸の天然芝生地</h2>
+            </div>
+            <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
+          </div>
+          <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
+            <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+              <Image
+                src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/%E8%91%A6%E6%AF%9B%E5%B4%8E%E5%B1%95%E6%9C%9B%E5%8F%B0_-_panoramio_%281%29.jpg/1280px-%E8%91%A6%E6%AF%9B%E5%B4%8E%E5%B1%95%E6%9C%9B%E5%8F%B0_-_panoramio_%281%29.jpg"
+                alt="三陸復興国立公園・種差海岸の天然芝生地"
+                fill
+                className="object-cover hover:scale-105 transition duration-500"
+                sizes="(max-width: 768px) 100vw, 400px"
+              />
+              <div className="absolute bottom-0 inset-x-0 bg-gradient-to-t from-black/70 to-transparent p-2 text-right">
+                <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
+              </div>
+            </div>
+            <div className="md:col-span-7 space-y-3">
+              <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">三陸復興国立公園・種差海岸の天然芝生地の歴史と見どころ</h3>
+              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">種差海岸（たねさしかいがん）は、青森県八戸市最東部に位置し、太平洋に面する海岸である。 1937年（昭和12年）に国の名勝に指定（蕪島から大久喜にかけての約12キロメートル）。また、1953年（昭和28年）に種差海岸階上岳県立自然公園に指定され、2013年（平成25年）に陸中海岸国立公園に編入するとともに名称変更により三陸復興国立公園（種差海岸階上岳地域）となった。 地名の由来には諸説あるが、アイヌ語の「タンネエサシ」（長い岬）から来ているという説が有力視されている。</p>
+              <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">
+                <span>出典: フリー百科事典『ウィキペディア（Wikipedia）』</span>
+                <span className="text-teal-700 font-semibold">現地観光・散策推奨スポット</span>
+              </div>
+            </div>
+          </div>
+        </section>
+
       {/* 宿一覧 */}
       <section className="max-w-4xl mx-auto px-4 space-y-8">
         {/* 宿1 */}

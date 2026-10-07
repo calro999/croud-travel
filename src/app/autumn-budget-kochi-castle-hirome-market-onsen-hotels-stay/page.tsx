@@ -60,6 +60,40 @@ export default function KochiBudgetAutumnPage() {
           </p>
         </section>
 
+        
+        {/* 観光地ガイド・公式Wikipedia写真＆解説 */}
+        <section className="bg-white rounded-2xl border border-stone-200/90 overflow-hidden shadow-sm mb-10">
+          <div className="bg-gradient-to-r from-stone-900 to-stone-800 text-white px-6 py-4 flex items-center justify-between">
+            <div className="flex items-center gap-2">
+              <span className="w-2.5 h-2.5 rounded-full bg-amber-400 animate-pulse" />
+              <h2 className="text-base md:text-lg font-bold tracking-wide">土佐・山内家歴史名城ガイド：南海道随一の名城・高知城追手門と天守閣</h2>
+            </div>
+            <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
+          </div>
+          <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
+            <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+              <Image
+                src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Kochi_Castle%2C_Outemon-3.jpg/1280px-Kochi_Castle%2C_Outemon-3.jpg"
+                alt="南海道随一の名城・高知城追手門と天守閣"
+                fill
+                className="object-cover hover:scale-105 transition duration-500"
+                sizes="(max-width: 768px) 100vw, 400px"
+              />
+              <div className="absolute bottom-0 inset-x-0 bg-gradient-to-t from-black/70 to-transparent p-2 text-right">
+                <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
+              </div>
+            </div>
+            <div className="md:col-span-7 space-y-3">
+              <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">南海道随一の名城・高知城追手門と天守閣の歴史と見どころ</h3>
+              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">高知城（こうちじょう）は、高知県高知市にある日本の城。瓦や壁の色が鷹の羽の色に似ているとして、鷹城（たかじょう）とも呼ばれる。 江戸時代には土佐藩の藩庁が二の丸御殿に置かれた。江戸時代に築かれた天守が残る現存天守十二城の一つであるほか、本丸御殿や追手門等が現存する。城跡は国の史跡に指定されている。日本100名城に選定されている。四国八十八景27番。</p>
+              <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">
+                <span>出典: フリー百科事典『ウィキペディア（Wikipedia）』</span>
+                <span className="text-teal-700 font-semibold">現地観光・散策推奨スポット</span>
+              </div>
+            </div>
+          </div>
+        </section>
+
         <section className="mb-12">
           <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2">
             <span className="w-2.5 h-6 bg-teal-600 rounded-full inline-block"></span>

@@ -52,6 +52,40 @@ export default function AutumnBudgetFeaturePage() {
         </div>
       </section>
 
+      
+        {/* 観光地ガイド・公式Wikipedia写真＆解説 */}
+        <section className="bg-white rounded-2xl border border-stone-200/90 overflow-hidden shadow-sm mb-10">
+          <div className="bg-gradient-to-r from-stone-900 to-stone-800 text-white px-6 py-4 flex items-center justify-between">
+            <div className="flex items-center gap-2">
+              <span className="w-2.5 h-2.5 rounded-full bg-amber-400 animate-pulse" />
+              <h2 className="text-base md:text-lg font-bold tracking-wide">長崎・異国情緒散策ガイド：和洋折衷の歴史遺産・出島和蘭商館跡</h2>
+            </div>
+            <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
+          </div>
+          <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
+            <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+              <Image
+                src="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Plattegrond_van_Deshima.jpg/1280px-Plattegrond_van_Deshima.jpg"
+                alt="和洋折衷の歴史遺産・出島和蘭商館跡"
+                fill
+                className="object-cover hover:scale-105 transition duration-500"
+                sizes="(max-width: 768px) 100vw, 400px"
+              />
+              <div className="absolute bottom-0 inset-x-0 bg-gradient-to-t from-black/70 to-transparent p-2 text-right">
+                <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
+              </div>
+            </div>
+            <div className="md:col-span-7 space-y-3">
+              <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">和洋折衷の歴史遺産・出島和蘭商館跡の歴史と見どころ</h3>
+              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">出島（でじま、英語: Dejima、オランダ語: Deshima）は、1634年江戸幕府が対外政策の一環として長崎に築造した日本初の本格的な人工島、扇型で面積は3,969坪（約1.5ヘクタール）。1636年から1639年までは対ポルトガル貿易、1641年から1859年まではオランダ東インド会社（AVOC、アムステルダムに本部のあるVOC）を通して対オランダ貿易が行われた。  明治以降は長崎港港湾整備に伴う周辺の埋立等により陸続きとなり扇形の面影は失われたが、出島全体は1922年（大正11年）10月12日「出島和蘭商館跡」として国の史跡に指定され、1996年（平成8年）より江戸当時の姿への復元を目指す長崎市が出島復元整備事業計画（後述）を進めている。</p>
+              <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">
+                <span>出典: フリー百科事典『ウィキペディア（Wikipedia）』</span>
+                <span className="text-teal-700 font-semibold">現地観光・散策推奨スポット</span>
+              </div>
+            </div>
+          </div>
+        </section>
+
       {/* 宿一覧 */}
       <section className="max-w-4xl mx-auto px-4 space-y-8">
 

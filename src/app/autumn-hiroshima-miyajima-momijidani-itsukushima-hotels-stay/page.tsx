@@ -60,6 +60,40 @@ export default function MiyajimaMomijidaniAutumnPage() {
           </p>
         </section>
 
+        
+        {/* 観光地ガイド・公式Wikipedia写真＆解説 */}
+        <section className="bg-white rounded-2xl border border-stone-200/90 overflow-hidden shadow-sm mb-10">
+          <div className="bg-gradient-to-r from-stone-900 to-stone-800 text-white px-6 py-4 flex items-center justify-between">
+            <div className="flex items-center gap-2">
+              <span className="w-2.5 h-2.5 rounded-full bg-amber-400 animate-pulse" />
+              <h2 className="text-base md:text-lg font-bold tracking-wide">秋の観光地情報・名所ガイド：世界遺産・安芸の宮島 厳島神社</h2>
+            </div>
+            <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
+          </div>
+          <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
+            <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+              <Image
+                src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Itsukushima_Shrine_Torii_Gate_%2813890465459%29.jpg/1280px-Itsukushima_Shrine_Torii_Gate_%2813890465459%29.jpg"
+                alt="世界遺産・安芸の宮島 厳島神社"
+                fill
+                className="object-cover hover:scale-105 transition duration-500"
+                sizes="(max-width: 768px) 100vw, 400px"
+              />
+              <div className="absolute bottom-0 inset-x-0 bg-gradient-to-t from-black/70 to-transparent p-2 text-right">
+                <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
+              </div>
+            </div>
+            <div className="md:col-span-7 space-y-3">
+              <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">世界遺産・安芸の宮島 厳島神社の歴史と見どころ</h3>
+              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">厳島神社（いつくしまじんじゃ、公式表記:嚴島神社）は、広島県廿日市市の厳島（宮島）にある神社。式内社（名神大社）、安芸国一宮。旧社格は官幣中社で、現在は神社本庁の別表神社。神紋は「三つ盛り二重亀甲に剣花菱」。古くは「伊都岐島神社」とも記された。全国に約500社ある厳島神社の総本社である。 佐伯直の直系が代々世襲して来たとされているが、一時期藤原氏に横取りされた時期があったものの政略結婚により取り戻し、古代から現在も続いていると記載されている。 広島湾に浮かぶ厳島（宮島）の北東部、弥山（標高535メートル）北麓に鎮座する。厳島は一般に「安芸の宮島」とも呼ばれ日本三景のひとつに数えられている。平家から信仰され、平清盛により現在の海上に立つ大規模な社殿が整えられた。社殿は現在、本殿・拝殿・回廊など6棟が国宝に、14棟が重要文化財に指定されている。そのほか、平家の納めた平家納経をはじめとした国宝・重要文化財の工芸品を多数納めている。 厳島神社の平舞台（国宝：附指定）は日本三舞台の1つに数えられるほか、海上に立つ高さ16メートルの大鳥居（重要文化財）は日本三大鳥居のひとつである。また、夏に行われる例祭は「管絃祭」と呼ばれている。1996年（平成8年）12月にユネスコの世界文化遺産に「厳島神社」として登録されている。</p>
+              <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">
+                <span>出典: フリー百科事典『ウィキペディア（Wikipedia）』</span>
+                <span className="text-teal-700 font-semibold">現地観光・散策推奨スポット</span>
+              </div>
+            </div>
+          </div>
+        </section>
+
         <section className="mb-12">
           <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2">
             <span className="w-2.5 h-6 bg-amber-600 rounded-full inline-block"></span>

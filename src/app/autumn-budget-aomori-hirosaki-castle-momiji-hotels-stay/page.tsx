@@ -60,6 +60,40 @@ export default function HirosakiBudgetAutumnPage() {
           </p>
         </section>
 
+        
+        {/* 観光地ガイド・公式Wikipedia写真＆解説 */}
+        <section className="bg-white rounded-2xl border border-stone-200/90 overflow-hidden shadow-sm mb-10">
+          <div className="bg-gradient-to-r from-stone-900 to-stone-800 text-white px-6 py-4 flex items-center justify-between">
+            <div className="flex items-center gap-2">
+              <span className="w-2.5 h-2.5 rounded-full bg-amber-400 animate-pulse" />
+              <h2 className="text-base md:text-lg font-bold tracking-wide">津軽・秋の城郭散策ガイド：名城・弘前城と菊と紅葉まつり</h2>
+            </div>
+            <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
+          </div>
+          <div className="grid md:grid-cols-12 gap-6 p-6 items-center">
+            <div className="md:col-span-5 relative h-56 md:h-64 rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
+              <Image
+                src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Hirosaki-castle_Aomori_with_Sakura_blossoms.jpg"
+                alt="名城・弘前城と菊と紅葉まつり"
+                fill
+                className="object-cover hover:scale-105 transition duration-500"
+                sizes="(max-width: 768px) 100vw, 400px"
+              />
+              <div className="absolute bottom-0 inset-x-0 bg-gradient-to-t from-black/70 to-transparent p-2 text-right">
+                <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
+              </div>
+            </div>
+            <div className="md:col-span-7 space-y-3">
+              <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">名城・弘前城と菊と紅葉まつりの歴史と見どころ</h3>
+              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">弘前城（ひろさきじょう）は、陸奥国鼻和郡（のち統合と外浜（青森）、西浜（十三湊）を編入で津軽郡）弘前（現・青森県弘前市下白銀町）にある日本の城。別名・鷹岡城、高岡城。 江戸時代には弘前藩津軽氏4万7千石の居城として藩庁が置かれ、津軽地方の政治経済の中心地となった。城は津軽平野に位置し、城郭は本丸、二の丸、三の丸、四の丸、北の郭、西の郭の6郭から構成された梯郭式平山城である。創建当初の規模は東西612メートル、南北947メートル、総面積38万5200平方メートルに及んだ。 弘前公園内には天守と5つの城門（北門、南内門、東内門、追手門、東門）、3つの隅櫓（丑虎櫓、辰巳櫓、未申櫓）が残され、国の重要文化財に指定されている。特に天守は現存12天守に数えられている。また城跡は国の史跡に指定されている。小説家の司馬遼太郎は紀行文集『街道をゆく- 北のまほろば』で、弘前城を「日本七名城の一つ」と紹介している。</p>
+              <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">
+                <span>出典: フリー百科事典『ウィキペディア（Wikipedia）』</span>
+                <span className="text-teal-700 font-semibold">現地観光・散策推奨スポット</span>
+              </div>
+            </div>
+          </div>
+        </section>
+
         <section className="mb-12">
           <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2">
             <span className="w-2.5 h-6 bg-teal-600 rounded-full inline-block"></span>
