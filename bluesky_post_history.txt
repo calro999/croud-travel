@@ -4,3 +4,4 @@ yame-hoshinomura-starry-sky-tea-hotels-guide
 showcase_kanagawa
 shizuoka-famous-things-gourmet-spots-guide
 showcase_kyoto
+otaru-famous-things-gourmet-hotels-guide
