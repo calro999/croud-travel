@@ -394,6 +394,105 @@ def build_showcase_post_content(pref_info):
 
     return tb
 
+ENGAGEMENT_HISTORY_FILE = "bluesky_engagement_history.txt"
+DAILY_POST_LIMIT = 4 # 1日の最大新規投稿数（初期アカウントのスパム判定を確実に防ぐ）
+
+def load_engagement_history():
+    if os.path.exists(ENGAGEMENT_HISTORY_FILE):
+        with open(ENGAGEMENT_HISTORY_FILE, "r", encoding="utf-8") as f:
+            return set(line.strip() for line in f if line.strip())
+    return set()
+
+def record_engagement_history(identifier):
+    with open(ENGAGEMENT_HISTORY_FILE, "a", encoding="utf-8") as f:
+        f.write(f"{identifier}\n")
+
+def check_today_posts_count(client):
+    """
+    当日の投稿数（UTC/JST）をチェックし、1日の上限に達しているか判定する
+    """
+    try:
+        author_feed = client.get_author_feed(actor=client.me.did, limit=20)
+        today_str = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+        today_posts = 0
+        for item in author_feed.feed:
+            post = item.post
+            if post.indexed_at and post.indexed_at.startswith(today_str):
+                today_posts += 1
+        return today_posts
+    except Exception as e:
+        print(f"[WARN] Failed to fetch author feed: {e}")
+        return 0
+
+def run_engagement_cycle(client):
+    """
+    旅行に行きたそうな一般ユーザーのポストを検索し、自然にいいね・フォローを行う
+    - いいね: 2〜3件
+    - フォロー: 1件
+    """
+    print("[ENGAGE] Running safe engagement cycle (Likes & Follows)...")
+    search_queries = [
+        "旅行行きたい",
+        "温泉行きたい",
+        "旅行計画",
+        "温泉行ってきた",
+        "国内旅行行きたい",
+        "ホテルステイしたい",
+        "京都行きたい",
+        "北海道行きたい",
+        "沖縄行きたい"
+    ]
+    query = random.choice(search_queries)
+    engaged_history = load_engagement_history()
+
+    try:
+        res = client.app.bsky.feed.search_posts(params={"q": query, "limit": 15})
+        posts = res.posts or []
+        random.shuffle(posts)
+
+        likes_done = 0
+        follows_done = 0
+
+        for p in posts:
+            author_did = p.author.did
+            post_uri = p.uri
+            post_cid = p.cid
+
+            # 自分自身やBotっぽい相手、すでにリアクション済みの相手をスキップ
+            if author_did == client.me.did or post_uri in engaged_history:
+                continue
+
+            # いいね処理（最大2件）
+            if likes_done < 2:
+                try:
+                    time.sleep(random.uniform(1.5, 3.5))
+                    client.like(uri=post_uri, cid=post_cid)
+                    record_engagement_history(post_uri)
+                    likes_done += 1
+                    print(f"[ENGAGE-LIKE] Liked post from @{p.author.handle}: {p.record.text[:30].replace(chr(10), ' ')}")
+                except Exception as e:
+                    print(f"[ENGAGE-WARN] Like failed: {e}")
+
+            # フォロー処理（最大1人）
+            if follows_done < 1 and author_did not in engaged_history:
+                try:
+                    time.sleep(random.uniform(2.0, 4.0))
+                    client.follow(subject=author_did)
+                    record_engagement_history(author_did)
+                    follows_done += 1
+                    print(f"[ENGAGE-FOLLOW] Followed travel enthusiast: @{p.author.handle}")
+                except Exception as e:
+                    print(f"[ENGAGE-WARN] Follow failed: {e}")
+
+            if likes_done >= 2 and follows_done >= 1:
+                break
+
+        print(f"[ENGAGE-SUMMARY] Completed: {likes_done} likes, {follows_done} follows.")
+        return True
+    except Exception as e:
+        print(f"[ENGAGE-ERROR] Search or engagement failed: {e}")
+        return False
+
 # ==========================================
 # メイン実行処理
 # ==========================================
@@ -413,15 +512,25 @@ def post_to_bluesky():
         print(f"[ERROR] Failed to login to Bluesky: {e}")
         return False
 
+    # 1. 今日の投稿数上限チェック（初日・初期アカウントのスパム判定防止）
+    today_count = check_today_posts_count(client)
+    print(f"[RATE-CHECK] Today's posts so far: {today_count} (Limit: {DAILY_POST_LIMIT})")
+
+    # 本日の投稿上限に達している場合は、新規ポストをスキップしてエンゲージメント（いいね・フォロー）のみ実施
+    if today_count >= DAILY_POST_LIMIT:
+        print(f"[RATE-LIMIT] Daily post limit reached ({today_count}/{DAILY_POST_LIMIT}). Skipping new post to protect account reputation.")
+        run_engagement_cycle(client)
+        print("[COMPLETE] Safe engagement finished. Exiting safely.")
+        return True
+
+    # 2. 新規投稿処理
     if mode == "showcase":
-        # 🌸 地域魅力・観光スポット紹介
         pref_info = select_showcase_pref(history_set)
         print(f"[SELECT] Selected Prefecture Showcase: {pref_info['name']}")
         tb = build_showcase_post_content(pref_info)
         images, alts = collect_pref_showcase_images(pref_info["name"])
         record_id = f"showcase_{pref_info['code']}"
     else:
-        # 🏨 厳選ホテル・特集紹介（アフィリンク付）
         post_data = select_best_hotel_post(history_set)
         if not post_data:
             print("[ERROR] No hotel post data found.")
@@ -451,6 +560,10 @@ def post_to_bluesky():
             print(f"[SUCCESS] Posted text only! URI: {response.uri}")
 
         record_posted_history(record_id)
+
+        # 投稿後に自然なペースでエンゲージメントを実施
+        time.sleep(random.uniform(3.0, 6.0))
+        run_engagement_cycle(client)
         return True
     except Exception as e:
         print(f"[ERROR] Failed to send post to Bluesky: {e}")
