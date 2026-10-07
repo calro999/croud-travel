@@ -5,3 +5,4 @@ showcase_kanagawa
 shizuoka-famous-things-gourmet-spots-guide
 showcase_kyoto
 otaru-famous-things-gourmet-hotels-guide
+showcase_hokkaido
