@@ -1,0 +1,37 @@
+{
+  "yakushima_winter_trekking_onsen": {
+    "spotLabel": "白谷雲水峡（苔むす神秘の森と太鼓岩）",
+    "query": "白谷雲水峡",
+    "pageTitle": "白谷雲水峡",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Shiratani_Unsui_Gorge_11.jpg/1280px-Shiratani_Unsui_Gorge_11.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "description": "白谷雲水峡（しらたにうんすいきょう）は屋久島北部を流れる宮之浦川支流白谷川の渓谷。行政上は鹿児島県屋久島町に属する。一帯には豊富な雨量による花崗岩の浸食によって形成された太鼓岩などの巨岩が広がり、原生林に蔽われる。この原生林は一般に知られる屋久杉の密集地帯に移行する段階で、照葉樹林の仲間であるウラジロガシ、イスノキ、タブノキなどと共にツガ、モミなどの常緑樹林が混生する。弥生杉は樹齢3000年の杉の巨木で、同渓谷のシンボル。 屋久島自然休養林に含まれ、屋久島国立公園の特別地域に…"
+  },
+  "gokayama_snow_gassho_lightup": {
+    "spotLabel": "世界遺産・五箇山合掌造り集落（相倉・菅沼）",
+    "query": "五箇山",
+    "pageTitle": "五箇山",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/%E4%B8%96%E7%95%8C%E9%81%BA%E7%94%A3%E8%8F%85%E6%B2%BC%E5%90%88%E6%8E%8C%E9%9B%86%E8%90%BD.jpg/1280px-%E4%B8%96%E7%95%8C%E9%81%BA%E7%94%A3%E8%8F%85%E6%B2%BC%E5%90%88%E6%8E%8C%E9%9B%86%E8%90%BD.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "description": "五箇山（ごかやま）は、富山県の南西端にある南砺市の旧平村、旧上平村、旧利賀村を合わせた地域を指す。地域内の「越中五箇山相倉集落」と「越中五箇山菅沼集落」は重要伝統的建造物群保存地区であり、世界遺産「白川郷・五箇山の合掌造り集落」を構成している。"
+  },
+  "yoshinoyama_snow_temple_kinpusenji": {
+    "spotLabel": "世界遺産・金峯山寺蔵王堂（吉野山修験道の総本山）",
+    "query": "金峯山寺",
+    "pageTitle": "金峯山寺",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Kinpusenji_Yoshino_Nara02n4272.jpg/1280px-Kinpusenji_Yoshino_Nara02n4272.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "description": "金峯山寺（きんぷせんじ）は、奈良県吉野郡吉野町吉野山にある金峯山修験本宗（修験道）の総本山の寺院。山号は国軸山。開基（創立者）は役小角と伝える。かつては「山下（さんげ）の蔵王堂」と呼ばれていた。本尊は蔵王堂に安置される蔵王権現立像3躯。本尊は巨像として著名で中尊は約7mもあり、普段は非公開（秘仏）であることから「日本最大の秘仏」とも称される。現存の蔵王堂は、天正18年（1590年）に豊臣秀吉の寄進によって再建されたもので、蔵王権現立像3躯の造仏は、秀吉の発願した方広寺大仏（京…"
+  },
+  "usuki_sekibutsu_torafugu_kaiseki": {
+    "spotLabel": "国宝・臼杵磨崖仏（平安・鎌倉の奇跡の石仏群）",
+    "query": "臼杵磨崖仏",
+    "pageTitle": "臼杵磨崖仏",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Usuki_Stone_Buddhas.jpg/1280px-Usuki_Stone_Buddhas.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "description": "臼杵磨崖仏（うすきまがいぶつ）は、大分県臼杵市にある磨崖仏。一般には臼杵石仏（うすきせきぶつ）の名で知られている。臼杵八ヶ所霊場第一番札所。 1952年（昭和27年）に国の特別史跡に指定され、1995年（平成7年）には、磨崖仏として日本初、彫刻として九州初の国宝に指定された。臼杵磨崖仏は全4群61躯で構成され、そのうち59躯が1995年に、残りの2躯が2017年に追加で国宝に指定されている。"
+  },
+  "kumejima_hatenohama_kurumaebi_resort": {
+    "spotLabel": "久米島・はての浜（東洋一の美しさを誇る白砂の楽園）",
+    "query": "久米島",
+    "pageTitle": "久米島",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Kumejima.jpg/1280px-Kumejima.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "description": "久米島（くめじま）は、沖縄本島から西に約100 km、沖縄諸島に属する島で、最も西に位置する島である。人口は7000人程度で、行政上は島全域が久米島町に含まれる。面積は59.53 km2で、沖縄県内では、沖縄本島、西表島、石垣島、宮古島に次いで5番目に大きな島である。スクーバダイビング地として有名で、3つのリゾートホテルが存在する。長く広がるイーフビーチ周辺には民宿なども多く点在する。また、東北楽天ゴールデンイーグルスが発足年度からこの地にキャンプを構えたことで、プロ野球ファ…"
+  }
+}
