@@ -428,7 +428,8 @@ def build_showcase_post_content(pref_info):
     return tb
 
 ENGAGEMENT_HISTORY_FILE = "bluesky_engagement_history.txt"
-DAILY_POST_LIMIT = 4 # 1日の最大新規投稿数（初期アカウントのスパム判定を確実に防ぐ）
+DAILY_POST_LIMIT = 10 # 1日あたりの目安上限
+MIN_INTERVAL_HOURS = 1.8 # 投稿間の最低間隔（約2時間おき）
 
 def load_engagement_history():
     if os.path.exists(ENGAGEMENT_HISTORY_FILE):
@@ -440,22 +441,47 @@ def record_engagement_history(identifier):
     with open(ENGAGEMENT_HISTORY_FILE, "a", encoding="utf-8") as f:
         f.write(f"{identifier}\n")
 
-def check_today_posts_count(client):
+def check_post_rate_limit(client):
     """
-    当日の投稿数（UTC/JST）をチェックし、1日の上限に達しているか判定する
+    直近24時間の投稿数と、直近の投稿からの経過時間を判定する。
+    前回投稿から2時間以上空いていれば、テスト等での初期集中投稿に関わらず投稿を許可する。
+    Returns: (can_post: bool, reason: str)
     """
     try:
         author_feed = client.get_author_feed(actor=client.me.did, limit=20)
-        today_str = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-        today_posts = 0
+        now_utc = datetime.now(timezone.utc)
+
+        posts_last_24h = 0
+        latest_post_time = None
+
         for item in author_feed.feed:
             post = item.post
-            if post.indexed_at and post.indexed_at.startswith(today_str):
-                today_posts += 1
-        return today_posts
+            if post.indexed_at:
+                post_dt = datetime.fromisoformat(post.indexed_at.replace("Z", "+00:00"))
+                if latest_post_time is None:
+                    latest_post_time = post_dt
+
+                hours_ago = (now_utc - post_dt).total_seconds() / 3600
+                if hours_ago <= 24:
+                    posts_last_24h += 1
+
+        # 直近投稿からのインターバルチェック（最重要：前回の投稿から十分時間が経っているか）
+        if latest_post_time:
+            hours_since_last = (now_utc - latest_post_time).total_seconds() / 3600
+            if hours_since_last < MIN_INTERVAL_HOURS:
+                return False, f"Too soon since last post ({hours_since_last:.1f}h ago < {MIN_INTERVAL_HOURS}h)"
+            else:
+                print(f"[RATE-CHECK] Last post was {hours_since_last:.1f}h ago. Interval check passed.")
+
+        # 直近24時間の投稿数が極端に多い場合のみガード
+        if posts_last_24h >= 12:
+            return False, f"Rolling 24h limit reached ({posts_last_24h}/12)"
+
+        return True, f"OK ({posts_last_24h} posts in past 24h)"
     except Exception as e:
-        print(f"[WARN] Failed to fetch author feed: {e}")
-        return 0
+        print(f"[WARN] Failed to check post rate limit: {e}")
+        return True, "Check failed, allow posting"
+
 
 def run_engagement_cycle(client):
     """
@@ -545,13 +571,13 @@ def post_to_bluesky():
         print(f"[ERROR] Failed to login to Bluesky: {e}")
         return False
 
-    # 1. 今日の投稿数上限チェック（初日・初期アカウントのスパム判定防止）
-    today_count = check_today_posts_count(client)
-    print(f"[RATE-CHECK] Today's posts so far: {today_count} (Limit: {DAILY_POST_LIMIT})")
+    # 1. 投稿頻度・間隔チェック（健全なアカウント運用と連投防止）
+    can_post, rate_reason = check_post_rate_limit(client)
+    print(f"[RATE-CHECK] Status: {rate_reason}")
 
-    # 本日の投稿上限に達している場合は、新規ポストをスキップしてエンゲージメント（いいね・フォロー）のみ実施
-    if today_count >= DAILY_POST_LIMIT:
-        print(f"[RATE-LIMIT] Daily post limit reached ({today_count}/{DAILY_POST_LIMIT}). Skipping new post to protect account reputation.")
+    # 上限または直近投稿から間隔が短すぎる場合は新規ポストをスキップしてエンゲージメント（いいね・フォロー）のみ実施
+    if not can_post:
+        print(f"[RATE-LIMIT] {rate_reason}. Skipping new post to protect account reputation.")
         run_engagement_cycle(client)
         print("[COMPLETE] Safe engagement finished. Exiting safely.")
         return True
