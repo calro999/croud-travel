@@ -1,0 +1,37 @@
+{
+  "osaka_inunakiyama_onsen_kongosan": {
+    "spotLabel": "犬鳴山修験道（七宝瀧寺と静寂の渓谷美）",
+    "query": "犬鳴山 (大阪府)",
+    "pageTitle": "犬鳴山 (大阪府)",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/%E7%8A%AC%E9%B3%B4%E5%B1%B1%E6%B8%93%E8%B0%B7_2013.11.23_-_panoramio.jpg/1280px-%E7%8A%AC%E9%B3%B4%E5%B1%B1%E6%B8%93%E8%B0%B7_2013.11.23_-_panoramio.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "description": "犬鳴山（いぬなきさん）は、大阪府泉佐野市大木犬鳴の犬鳴川渓谷を中心として、そこへ流れ込む燈明ヶ岳（標高558m、西ノ燈明ヶ岳ともいう）等の山域全体の総称。「犬鳴山」という名称の山があるわけではない。"
+  },
+  "saga_imari_arita_ookawachiyama": {
+    "spotLabel": "秘窯の里・大川内山（鍋島藩窯跡と冬の白磁散策）",
+    "query": "大川内山",
+    "pageTitle": "鍋島焼",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Floral_Plate_Nabeshima.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "description": "鍋島焼（なべしまやき）は、17世紀から19世紀にかけて、佐賀藩（鍋島藩）において藩直営の窯で製造された高級磁器である。佐賀藩の支配下にあった肥前国有田・伊万里（佐賀県有田町、同県伊万里市）は日本における磁器の代表的な産地として知られるが、その中で大川内山（おおかわちやま、佐賀県伊万里市南部）にあった藩直営の窯では藩主の所用品や将軍家・諸大名への贈答品などの高級品をもっぱら焼造していた。これを近代以降「鍋島焼」または単に「鍋島」と呼んだ（伊万里焼の一様式と位置付け、「鍋島様式」…"
+  },
+  "tokushima_mima_udatsu_historic": {
+    "spotLabel": "国選定重伝建・脇町うだつの町並み（藍商の歴史建築）",
+    "query": "脇町南町",
+    "pageTitle": "脇町南町",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Wakimati_minamimati_20250828_1.jpg/1280px-Wakimati_minamimati_20250828_1.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "description": "脇町南町（わきまちみなみまち）は徳島県美馬市脇町大字脇町にある名勝。うだつの町並みともよばれる。 国の重要伝統的建造物群保存地区に昭和63年（1988年）12月16日選定 ・四国八十八景8番・とくしま88景・にし阿波お勧めビューポイント100選・都市景観100選・日本の道100選・美しい日本の歴史的風土100選に選定。阿波歴史文化道に指定。 「うだつと白壁の町並」で、昭和61年度手づくり郷土賞（人と風土が育てた家並）受賞。平成17年度同賞大賞。"
+  },
+  "ehime_kumakogen_shikoku_karst": {
+    "spotLabel": "標高1,400mの白銀パノラマ・四国カルスト天狗高原",
+    "query": "四国カルスト",
+    "pageTitle": "四国カルスト",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Shikokukarusuto01.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "description": "四国カルスト（しこくかるすと）は、「四国山地」の南西部、愛媛県と高知県との県境部に位置し、標高；約1100～1400ｍの、石灰岩からなる高原状のカルスト台地である。  山口県の「秋吉台」、福岡県の「平尾台」と共に、しばしば「日本三大カルスト」の一つ、と呼ばれる。"
+  },
+  "kochi_niyodogawa_niyodoblue_nakatsu": {
+    "spotLabel": "奇跡の清流・仁淀川（冬に透明度極まる仁淀ブルー）",
+    "query": "仁淀川",
+    "pageTitle": "仁淀川",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Niyodogawa-2.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "description": "仁淀川（によどがわ）は、四国の愛媛県・高知県を流れる一級河川で、愛媛県内では面河川（おもごがわ）と呼ばれる。流域面積1,560km2、石鎚山などの源流から太平洋に注ぐ河口までの幹川流路延長は124km、流域内市町村の数は3市6町1村である。 吉野川・四万十川に次ぐ四国第三の河川とされる。水質は全国1位（2010年）で、水面が青く美しい「仁淀ブルー」と呼ばれる淵や滝壺などがある。 中流域には四国で第2の規模である多目的ダム「大渡ダム」をはじめとして治水や水力発電のための施設も多い。"
+  }
+}

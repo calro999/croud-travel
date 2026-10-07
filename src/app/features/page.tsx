@@ -111,6 +111,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-osaka-inunakiyama-onsen-kongosan-juhyo-inunakipork-stay',
+              title: "静寂の渓谷露天と金剛山樹氷！大阪・犬鳴山温泉＆ブランド豚・犬鳴ポーク名宿5選",
+              desc: "都心から約50分！大阪唯一の秘境・犬鳴山温泉と金剛山の幻想的な冬樹氷。修験道七宝瀧寺の新春初詣、美肌純重曹泉と犬鳴ポーク雪見鍋…",
+              badge: '12・1月特集'
+            },
+            {
+              slug: 'winter-saga-imari-arita-ookawachiyama-imarigyu-pottery-stay',
+              title: "秘窯の里大川内山と最高峰伊万里牛！佐賀・伊万里＆有田の名窯巡りと美食名宿5選",
+              desc: "静寂に包まれる鍋島藩窯跡の冬散策と陶山神社の初詣！最高峰ブランド黒毛和牛「伊万里牛」の極上すき焼き・ステーキと名湯…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-tokushima-mima-udatsu-historic-awao-dori-onsen-stay',
+              title: "藍商のうだつの町並みと阿波尾鶏鍋！徳島・美馬の吉野川展望温泉と老舗名宿5選",
+              desc: "重伝建の白壁と装飾瓦が映える脇町うだつの町並み！地鶏出荷日本一「阿波尾鶏」の水炊き鍋、吉野川を望む名湯露天風呂と歴史旅…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-ehime-kumakogen-shikoku-karst-snow-starry-hoshifuru-stay',
+              title: "標高1400mの白銀カルストと満天の星空！愛媛・久万高原の高原温泉と冬絶景宿5選",
+              desc: "四国随一の雪原パノラマ・四国カルスト天狗高原と肉眼で天の川を望む星空！大寶寺の新春初詣、名物きじ鍋・伊予牛と古岩屋温泉…",
+              badge: '12・1月特集'
+            },
+            {
+              slug: 'winter-kochi-niyodogawa-niyodoblue-nakatsu-tosa-akagyu-onsen-stay',
+              title: "冬に透明度極まる仁淀ブルーと中津渓谷！高知・仁淀川の渓流温泉と土佐あかうし名宿5選",
+              desc: "年間で最も青く澄む奇跡の清流「仁淀ブルー」と中津渓谷の氷瀑！幻の和牛「土佐あかうし」のすき焼きと渓流美肌温泉…",
+              badge: '11・12・1月特集'
+            },
+            {
               slug: 'winter-hokkaido-tokachi-jewelry-ice-mall-onsen-sauna-stay',
               title: "十勝ジュエリーアイス＆十勝川植物性モール温泉！極上サウナシュラン＆十勝牛・ラクレット名宿",
               desc: "大津海岸に打ち上げられる奇跡のクリスタル氷塊！世界遺産級の植物性モール温泉と氷点下外気浴が叶う十勝サウナ、十勝牛やラクレットチーズ…",
