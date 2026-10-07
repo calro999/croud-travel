@@ -7,6 +7,12 @@ from datetime import datetime, timezone
 import requests
 from atproto import Client, client_utils
 
+# 観光地画像取得モジュール
+try:
+    from scripts.tourist_image_fetcher import fetch_tourist_spot_image
+except ImportError:
+    from tourist_image_fetcher import fetch_tourist_spot_image
+
 POSTS_DIR = "src/data/posts"
 BLUESKY_HISTORY_FILE = "bluesky_post_history.txt"
 SITE_BASE_URL = "https://croud-travel.pages.dev"
@@ -310,39 +316,66 @@ def select_showcase_pref(history_set):
         return random.choice(unposted)
     return random.choice(PREFECTURES_SHOWCASE)
 
-def collect_pref_showcase_images(pref_name):
-    """その都道府県の代表的な宿・スポット画像（最大4枚）を収集"""
-    all_files = [f for f in os.listdir(POSTS_DIR) if f.endswith(".json")]
-    matched_images = []
+def collect_pref_showcase_images(pref_info):
+    """
+    その都道府県の代表的な観光地・名所の実写画像を優先取得（最大4枚）。
+    観光地画像が不足する場合は既存記事の宿画像で安全にフォールバック。
+    """
+    pref_name = pref_info["name"]
+    spots = pref_info.get("spots", [])
     headers = {"User-Agent": "Mozilla/5.0"}
-
-    # 該当都道府県の記事から画像を複数取得
-    for f in all_files:
-        p_path = os.path.join(POSTS_DIR, f)
-        try:
-            with open(p_path, "r", encoding="utf-8") as fp:
-                d = json.load(fp)
-                if d.get("prefecture") == pref_name and d.get("image"):
-                    if d.get("image") not in matched_images:
-                        matched_images.append(d.get("image"))
-                for o in (d.get("other_images") or []):
-                    if o and o not in matched_images:
-                        matched_images.append(o)
-                if len(matched_images) >= 6:
-                    break
-        except Exception:
-            continue
 
     image_bytes_list = []
     alts = []
-    for idx, u in enumerate(matched_images[:4]):
+
+    # 1. 観光スポット名からWikipedia/Wikimediaの実写横長画像を取得
+    print(f"[IMAGES] Fetching tourist spot images for {pref_name}...")
+    for spot in spots:
+        if len(image_bytes_list) >= 4:
+            break
         try:
-            res = requests.get(u, headers=headers, timeout=12)
-            if res.status_code == 200 and len(res.content) > 1000:
-                image_bytes_list.append(optimize_image_bytes(res.content))
-                alts.append(f"{pref_name}の観光名所・風景 {idx + 1}")
-        except Exception:
-            continue
+            spot_img_info = fetch_tourist_spot_image(spot, min_width=600)
+            if spot_img_info and spot_img_info.get("url"):
+                u = spot_img_info["url"]
+                res = requests.get(u, headers=headers, timeout=10)
+                if res.status_code == 200 and len(res.content) > 2000:
+                    optimized = optimize_image_bytes(res.content)
+                    image_bytes_list.append(optimized)
+                    alts.append(f"{pref_name}・{spot_img_info.get('title', spot)}")
+                    print(f"  [SPOT-IMG] Added: {spot} ({spot_img_info['title']}) [{spot_img_info['width']}x{spot_img_info['height']}]")
+        except Exception as e:
+            print(f"  [WARN] Failed to fetch spot image for {spot}: {e}")
+
+    # 2. 4枚に満たない場合、該当都道府県の記事から宿画像を補完
+    if len(image_bytes_list) < 4 and os.path.isdir(POSTS_DIR):
+        all_files = [f for f in os.listdir(POSTS_DIR) if f.endswith(".json")]
+        matched_images = []
+        for f in all_files:
+            p_path = os.path.join(POSTS_DIR, f)
+            try:
+                with open(p_path, "r", encoding="utf-8") as fp:
+                    d = json.load(fp)
+                    if d.get("prefecture") == pref_name and d.get("image"):
+                        if d.get("image") not in matched_images:
+                            matched_images.append(d.get("image"))
+                    for o in (d.get("other_images") or []):
+                        if o and o not in matched_images:
+                            matched_images.append(o)
+                    if len(matched_images) >= 6:
+                        break
+            except Exception:
+                continue
+
+        for u in matched_images:
+            if len(image_bytes_list) >= 4:
+                break
+            try:
+                res = requests.get(u, headers=headers, timeout=10)
+                if res.status_code == 200 and len(res.content) > 1000:
+                    image_bytes_list.append(optimize_image_bytes(res.content))
+                    alts.append(f"{pref_name}の魅力的な宿泊施設・風景")
+            except Exception:
+                continue
 
     return image_bytes_list, alts
 
@@ -528,7 +561,7 @@ def post_to_bluesky():
         pref_info = select_showcase_pref(history_set)
         print(f"[SELECT] Selected Prefecture Showcase: {pref_info['name']}")
         tb = build_showcase_post_content(pref_info)
-        images, alts = collect_pref_showcase_images(pref_info["name"])
+        images, alts = collect_pref_showcase_images(pref_info)
         record_id = f"showcase_{pref_info['code']}"
     else:
         post_data = select_best_hotel_post(history_set)

@@ -5,6 +5,12 @@ import time
 import json
 import re
 
+# 観光地画像自動取得モジュール
+try:
+    from scripts.tourist_image_fetcher import fetch_tourist_spot_image
+except ImportError:
+    from tourist_image_fetcher import fetch_tourist_spot_image
+
 CACHE_FILE = "posted_cache.txt"
 POSTS_DIR = "src/data/posts"
 
@@ -755,6 +761,50 @@ def main():
                 title = f"【{pref_name}】{hotel_name}の魅力と見どころ・宿泊ルポガイド"
         else:
             title = f"【{pref_name}観光】絶景と美食を満喫するおすすめ周遊モデルコース＆厳選宿"
+
+        # 観光地・名所の実写画像を取得して記事＆ギャラリーに統合
+        pref_name = main_item.get('_prefecture', '')
+        area_name = main_item.get('_area', '')
+        tourist_spot_names = [f"{pref_name} {area_name}", area_name, pref_name]
+        
+        fetched_spot_image = None
+        for s_candidate in tourist_spot_names:
+            if not s_candidate:
+                continue
+            try:
+                spot_res = fetch_tourist_spot_image(s_candidate, min_width=600)
+                if spot_res and spot_res.get("url"):
+                    fetched_spot_image = spot_res
+                    break
+            except Exception as e:
+                print(f"[WARN] Failed to fetch tourist image for candidate {s_candidate}: {e}")
+
+        # 観光地画像が取得できた場合、横長ギャラリー(other_images)に追加
+        if fetched_spot_image and fetched_spot_image.get("url"):
+            spot_img_url = fetched_spot_image["url"]
+            if spot_img_url not in other_images:
+                other_images.append(spot_img_url)
+                print(f"[SPOT-IMG] Added tourist spot image to other_images: {fetched_spot_image['spot']} ({fetched_spot_image['title']})")
+
+            # 記事本文中の周辺観光セクションにレスポンシブな画像タグを挿入
+            spot_caption = f"{pref_name}・{fetched_spot_image.get('title', area_name)} 周辺の美しい情景"
+            spot_img_html = (
+                f'<figure style="margin: 24px 0; text-align: center;">'
+                f'<img src="{spot_img_url}" alt="{spot_caption}" '
+                f'style="width: 100%; max-height: 440px; object-fit: cover; border-radius: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.08);" loading="lazy" />'
+                f'<figcaption style="margin-top: 8px; font-size: 12px; color: #64748b; font-weight: 600;">📍 {spot_caption}</figcaption>'
+                f'</figure>'
+            )
+            # 「おすすめ観光」見出しの直下に差し込み、なければ末尾に追加
+            if "おすすめ観光" in review_html:
+                parts = review_html.split("おすすめ観光", 1)
+                sub_parts = parts[1].split("</h2>", 1)
+                if len(sub_parts) == 2:
+                    review_html = parts[0] + "おすすめ観光" + sub_parts[0] + "</h2>\n" + spot_img_html + sub_parts[1]
+                else:
+                    review_html += f"\n{spot_img_html}"
+            else:
+                review_html += f"\n{spot_img_html}"
 
         post_data = {
             "id": hotel_no,
