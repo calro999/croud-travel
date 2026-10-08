@@ -2,9 +2,13 @@ name: Post High-Quality Travel Article to Bluesky
 
 on:
   schedule:
-    # 混雑する00分を避け、毎時17分・47分（30分おき）に実行
-    # 2時間インターバルに達していない場合はプロセス内でリトライ待機して確実に投稿
+    # 混雑する00分を避け、毎時17分・47分（30分おき）に定期実行
     - cron: '17,47 * * * *'
+  # 記事自動生成（auto_post.yml）が完了した直後にも自動連動トリガー（Cronの完全補完）
+  workflow_run:
+    workflows: ["Fetch Rakuten Travel and Build Next.js Site"]
+    types:
+      - completed
   workflow_dispatch:
 
 concurrency:
