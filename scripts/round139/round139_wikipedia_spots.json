@@ -1,0 +1,37 @@
+{
+  "chiba_katori_sawara_inubosaki": {
+    "spotLabel": "下総国一宮・香取神宮（全国400社ある香取神社の総本社・勝運厄除け新春初詣）",
+    "query": "香取神宮",
+    "pageTitle": "香取神宮",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Katori-jingu_haiden_shomen.JPG/1280px-Katori-jingu_haiden_shomen.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "description": "香取神宮（かとりじんぐう）は、千葉県香取市香取にある神社。式内社（名神大社）、下総国一宮。旧社格は官幣大社で、現在は神社本庁の別表神社。 関東地方を中心として全国にある香取神社の総本社。茨城県鹿嶋市の鹿島神宮、茨城県神栖市の息栖神社とともに東国三社の一社。また、宮中の四方拝で遥拝される一社である。"
+  },
+  "okayama_tsuyama_mimasaka_santo": {
+    "spotLabel": "日本三大平山城・津山城（鶴山公園・豪壮な石垣群と冬の雪化粧の城下町）",
+    "query": "津山城",
+    "pageTitle": "津山城",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/%E6%B4%A5%E5%B1%B1%E5%9F%8E%E5%82%99%E4%B8%AD%E6%AB%93.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "description": "津山城（つやまじょう）は、美作国 苫田郡（のち西北条郡）津山（現在の岡山県津山市山下）にあった日本の城。別名・鶴山城（かくざんじょう）。城跡は国の史跡に指定されている。津山市は建造物の木造復元など保存計画を行なっている。"
+  },
+  "shiga_taga_taisha_koto_omigyu": {
+    "spotLabel": "近江国第一の古社・多賀大社（命の親神・延命長寿と縁結びの新春初詣50万人）",
+    "query": "多賀大社",
+    "pageTitle": "多賀大社",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Taga-taisha%2C_shaden-1.jpg/1280px-Taga-taisha%2C_shaden-1.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "description": "多賀大社（たがたいしゃ）は、滋賀県犬上郡多賀町多賀にある神社。式内社で、旧社格は官幣大社で、現在は神社本庁の別表神社。 古くから「お多賀さん」として親しまれ、神仏習合の中世期には「多賀大明神」として信仰を集めた。お守りとしてしゃもじを授ける「お多賀杓子（おたがじゃくし）」という慣わしがあるが、これは「お玉杓子」や「オタマジャクシ」の名の由来とされている。"
+  },
+  "tokushima_mima_udatsu_kirihataji": {
+    "spotLabel": "国指定重要伝統的建造物群保存地区・脇町うだつの町並み（藍商人の繁栄美と冬情話）",
+    "query": "脇町南町",
+    "pageTitle": "脇町南町",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Wakimati_minamimati_20250828_1.jpg/1280px-Wakimati_minamimati_20250828_1.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "description": "脇町南町（わきまちみなみまち）は徳島県美馬市脇町大字脇町にある名勝。うだつの町並みともよばれる。 国の重要伝統的建造物群保存地区に昭和63年（1988年）12月16日選定 ・四国八十八景8番・とくしま88景・にし阿波お勧めビューポイント100選・都市景観100選・日本の道100選・美しい日本の歴史的風土100選に選定。阿波歴史文化道に指定。 「うだつと白壁の町並」で、昭和61年度手づくり郷土賞（人と風土が育てた家並）受賞。平成17年度同賞大賞。"
+  },
+  "toyama_amaharashi_tateyama_kanburi": {
+    "spotLabel": "能登半島国定公園・雨晴海岸（富山湾越しに望む冠雪立山連峰・冬の世界的絶景）",
+    "query": "雨晴海岸",
+    "pageTitle": "雨晴海岸",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Himi-line-amaharashi.jpg/1280px-Himi-line-amaharashi.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "description": "雨晴海岸（あまはらしかいがん）は、富山県高岡市北部の海岸。付近は男岩や女岩をはじめとする小さな島や岩礁が多く、立山連峰を背景に望む景勝地である。能登半島国定公園に含まれ、日本の渚百選に選ばれている。富山県指定の「氷見海岸鳥獣保護区」の一部として鳥獣保護区にもなっている。 雨晴駅の近くには「雨を晴らした」という地名の由来となった義経伝説が残る義経岩がある。"
+  }
+}
