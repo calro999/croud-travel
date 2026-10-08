@@ -2,7 +2,7 @@ name: Post High-Quality Travel Article to Bluesky
 
 on:
   schedule:
-    - cron: '0 */2 * * *' # 2時間ごとに自動実行（ホテル紹介と地域魅力紹介を交互に配信）
+    - cron: '30 * * * *' # 毎時1回（30分）実行し、1時間おきに高頻度配信（ホテル紹介と地域魅力紹介を交互に配信）
   workflow_dispatch:
 
 concurrency:

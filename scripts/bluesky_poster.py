@@ -428,8 +428,8 @@ def build_showcase_post_content(pref_info):
     return tb
 
 ENGAGEMENT_HISTORY_FILE = "bluesky_engagement_history.txt"
-DAILY_POST_LIMIT = 10 # 1日あたりの目安上限
-MIN_INTERVAL_HOURS = 1.8 # 投稿間の最低間隔（約2時間おき）
+DAILY_POST_LIMIT = 18 # 1日あたりの上限（1時間おきの配信に対応）
+MIN_INTERVAL_HOURS = 0.8 # 投稿間の最低間隔（約50分。毎時スケジュールの揺らぎを許容）
 
 def load_engagement_history():
     if os.path.exists(ENGAGEMENT_HISTORY_FILE):
@@ -444,11 +444,11 @@ def record_engagement_history(identifier):
 def check_post_rate_limit(client):
     """
     直近24時間の投稿数と、直近の投稿からの経過時間を判定する。
-    前回投稿から2時間以上空いていれば、テスト等での初期集中投稿に関わらず投稿を許可する。
+    前回投稿から約1時間以上空いていれば投稿を許可する。
     Returns: (can_post: bool, reason: str)
     """
     try:
-        author_feed = client.get_author_feed(actor=client.me.did, limit=20)
+        author_feed = client.get_author_feed(actor=client.me.did, limit=30)
         now_utc = datetime.now(timezone.utc)
 
         posts_last_24h = 0
@@ -465,7 +465,7 @@ def check_post_rate_limit(client):
                 if hours_ago <= 24:
                     posts_last_24h += 1
 
-        # 直近投稿からのインターバルチェック（最重要：前回の投稿から十分時間が経っているか）
+        # 直近投稿からのインターバルチェック（前回の投稿から十分時間が経っているか）
         if latest_post_time:
             hours_since_last = (now_utc - latest_post_time).total_seconds() / 3600
             if hours_since_last < MIN_INTERVAL_HOURS:
@@ -474,8 +474,8 @@ def check_post_rate_limit(client):
                 print(f"[RATE-CHECK] Last post was {hours_since_last:.1f}h ago. Interval check passed.")
 
         # 直近24時間の投稿数が極端に多い場合のみガード
-        if posts_last_24h >= 12:
-            return False, f"Rolling 24h limit reached ({posts_last_24h}/12)"
+        if posts_last_24h >= 24:
+            return False, f"Rolling 24h limit reached ({posts_last_24h}/24)"
 
         return True, f"OK ({posts_last_24h} posts in past 24h)"
     except Exception as e:
@@ -486,8 +486,8 @@ def check_post_rate_limit(client):
 def run_engagement_cycle(client):
     """
     旅行に行きたそうな一般ユーザーのポストを検索し、自然にいいね・フォローを行う
-    - いいね: 2〜3件
-    - フォロー: 1件
+    - いいね: 5〜8件（複数キーワードから自然に抽出）
+    - フォロー: 1〜2件
     """
     print("[ENGAGE] Running safe engagement cycle (Likes & Follows)...")
     search_queries = [
@@ -499,58 +499,70 @@ def run_engagement_cycle(client):
         "ホテルステイしたい",
         "京都行きたい",
         "北海道行きたい",
-        "沖縄行きたい"
+        "沖縄行きたい",
+        "家族旅行計画",
+        "週末旅行",
+        "ご褒美旅行",
+        "一人旅したい",
+        "旅館予約した"
     ]
-    query = random.choice(search_queries)
+    random.shuffle(search_queries)
     engaged_history = load_engagement_history()
 
-    try:
-        res = client.app.bsky.feed.search_posts(params={"q": query, "limit": 15})
-        posts = res.posts or []
-        random.shuffle(posts)
+    target_likes = random.randint(5, 8) # 1回の実行で5〜8件いいね
+    target_follows = random.randint(1, 2) # 1回の実行で1〜2件フォロー
 
-        likes_done = 0
-        follows_done = 0
+    likes_done = 0
+    follows_done = 0
 
-        for p in posts:
-            author_did = p.author.did
-            post_uri = p.uri
-            post_cid = p.cid
+    for query in search_queries[:3]:
+        if likes_done >= target_likes and follows_done >= target_follows:
+            break
+        try:
+            res = client.app.bsky.feed.search_posts(params={"q": query, "limit": 25})
+            posts = res.posts or []
+            random.shuffle(posts)
 
-            # 自分自身やBotっぽい相手、すでにリアクション済みの相手をスキップ
-            if author_did == client.me.did or post_uri in engaged_history:
-                continue
+            for p in posts:
+                author_did = p.author.did
+                post_uri = p.uri
+                post_cid = p.cid
 
-            # いいね処理（最大2件）
-            if likes_done < 2:
-                try:
-                    time.sleep(random.uniform(1.5, 3.5))
-                    client.like(uri=post_uri, cid=post_cid)
-                    record_engagement_history(post_uri)
-                    likes_done += 1
-                    print(f"[ENGAGE-LIKE] Liked post from @{p.author.handle}: {p.record.text[:30].replace(chr(10), ' ')}")
-                except Exception as e:
-                    print(f"[ENGAGE-WARN] Like failed: {e}")
+                # 自分自身やBot、すでにリアクション済みの相手をスキップ
+                if author_did == client.me.did or post_uri in engaged_history:
+                    continue
 
-            # フォロー処理（最大1人）
-            if follows_done < 1 and author_did not in engaged_history:
-                try:
-                    time.sleep(random.uniform(2.0, 4.0))
-                    client.follow(subject=author_did)
-                    record_engagement_history(author_did)
-                    follows_done += 1
-                    print(f"[ENGAGE-FOLLOW] Followed travel enthusiast: @{p.author.handle}")
-                except Exception as e:
-                    print(f"[ENGAGE-WARN] Follow failed: {e}")
+                # いいね処理
+                if likes_done < target_likes:
+                    try:
+                        time.sleep(random.uniform(1.2, 2.8))
+                        client.like(uri=post_uri, cid=post_cid)
+                        record_engagement_history(post_uri)
+                        likes_done += 1
+                        print(f"[ENGAGE-LIKE] Liked post ({likes_done}/{target_likes}) from @{p.author.handle}: {p.record.text[:30].replace(chr(10), ' ')}")
+                    except Exception as e:
+                        print(f"[ENGAGE-WARN] Like failed: {e}")
 
-            if likes_done >= 2 and follows_done >= 1:
-                break
+                # フォロー処理
+                if follows_done < target_follows and author_did not in engaged_history:
+                    try:
+                        time.sleep(random.uniform(1.5, 3.2))
+                        client.follow(subject=author_did)
+                        record_engagement_history(author_did)
+                        follows_done += 1
+                        print(f"[ENGAGE-FOLLOW] Followed travel enthusiast ({follows_done}/{target_follows}): @{p.author.handle}")
+                    except Exception as e:
+                        print(f"[ENGAGE-WARN] Follow failed: {e}")
 
-        print(f"[ENGAGE-SUMMARY] Completed: {likes_done} likes, {follows_done} follows.")
-        return True
-    except Exception as e:
-        print(f"[ENGAGE-ERROR] Search or engagement failed: {e}")
-        return False
+                if likes_done >= target_likes and follows_done >= target_follows:
+                    break
+        except Exception as e:
+            print(f"[ENGAGE-WARN] Search query '{query}' failed: {e}")
+            continue
+
+    print(f"[ENGAGE-SUMMARY] Completed: {likes_done} likes, {follows_done} follows.")
+    return True
+
 
 # ==========================================
 # メイン実行処理
