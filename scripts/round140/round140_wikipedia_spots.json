@@ -1,0 +1,37 @@
+{
+  "kagawa_higashikagawa_hiketa": {
+    "title": "白鳥神社 (東かがわ市)",
+    "label": "讃岐国・白鳥神社（日本武尊白鳥伝説と新春開運厄除け初詣）",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Shirotori_shrine_Kagawa.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "description": "白鳥神社（しろとりじんじゃ）は、香川県東かがわ市に鎮座する神社である。旧社格は県社。",
+    "wikiUrl": "https://ja.wikipedia.org/wiki/%E7%99%BD%E9%B3%A5%E7%A5%9E%E7%A4%BE%20%28%E6%9D%B1%E3%81%8B%E3%81%8C%E3%82%8F%E5%B8%82%29"
+  },
+  "fukui_obama_myotsuji": {
+    "title": "明通寺",
+    "label": "国宝・明通寺（坂上田村麻呂開創・深山に佇む本堂と三重塔の冬雪景）",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Myotsuji_and_pagoda.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "description": "明通寺（みょうつうじ）は、福井県小浜市門前字棡谷（ゆずりだに）（遠敷郡門前村棡谷、松永村門前）にある真言宗御室派の寺院。山号は棡山（ゆずりさん）。本尊は薬師如来。 大同元年（806年）、坂上田村麻呂によって創建されたと伝えられる。本堂と三重塔は、建造物としては福井県内で唯一国宝に指定されている。2015年（平成27年）4月24日、「海と都をつなぐ若狭の往来文化遺産群 - 御食国（みけつくに）若狭と鯖街道 - 」の構成文化財として日本遺産に認定される。",
+    "wikiUrl": "https://ja.wikipedia.org/wiki/%E6%98%8E%E9%80%9A%E5%AF%BA"
+  },
+  "aichi_okazaki_castle_iga": {
+    "title": "伊賀八幡宮",
+    "label": "国指定重要文化財・伊賀八幡宮（徳川将軍家祈願所・家康公武運長久の聖地新春初詣）",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Igahachimangu.jpg/1280px-Igahachimangu.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "description": "愛知県岡崎市伊賀町に鎮座する神社。文明2年（1470年）、松平家4代・松平親忠が松平家（徳川家）の氏神・守護神として創建した。徳川家康公も大きな合戦の出陣に際して必ず戦勝祈願に参拝したと伝わり、江戸幕府3代将軍・徳川家光によって造営された本殿・幣殿・拝殿・随身門・鳥居などが国の重要文化財に指定されている。朱塗りの極彩色が冬の澄み渡る寒空に鮮やかに映え、新春初詣には武運開運・出世祈願を願う多くの人々で賑わう。",
+    "wikiUrl": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E8%B3%80%E5%85%AB%E5%B9%A1%E5%AE%AE"
+  },
+  "gifu_ena_iwamura_castle": {
+    "title": "岩村城",
+    "label": "日本三大山城・岩村城跡（標高717m・六段壁の石垣美と霧氷の城跡）",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Iwamura_Castle.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "description": "岩村城（いわむらじょう）は、岐阜県恵那市岩村町にあった中世の日本の城（山城）。鎌倉幕府御家人の遠山氏宗家の岩村遠山氏が鎌倉時代初期に築いたとされ、別名「霧ヶ城」とも呼ばれた。戦国時代末期には織田氏と武田氏の争奪戦に巻き込まれた。江戸時代には岩村藩の城となった。 奈良県の高取城、岡山県の備中松山城と並び、日本三大山城の一つとされる。 また中津川市の苗木城、可児市の兼山城と並び岐阜の三山城とも称される。岐阜県指定史跡。",
+    "wikiUrl": "https://ja.wikipedia.org/wiki/%E5%B2%A9%E6%9D%91%E5%9F%8E"
+  },
+  "shimane_hamada_tatamigaura_asahi": {
+    "title": "石見畳ヶ浦",
+    "label": "国指定天然記念物・石見畳ヶ浦（隆起海床の千畳敷・冬の日本海白波奇勝）",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Tatamigaura_01.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "description": "石見畳ヶ浦（いわみたたみがうら）は、島根県浜田市にある海岸景勝地。単純に畳ヶ浦ともいう。名の由来は千畳敷が畳を敷き詰めたように見えることに因む。 広義では、一帯は唐鐘海岸と呼ばれており、その中にある景勝地として扱われる。浜田海岸県立自然公園に指定されている。",
+    "wikiUrl": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E8%A6%8B%E7%95%B3%E3%83%B6%E6%B5%A6"
+  }
+}
