@@ -7,3 +7,4 @@ showcase_kyoto
 otaru-famous-things-gourmet-hotels-guide
 showcase_hokkaido
 shinkansen-station-free-shuttle-bus-hotels-guide
+showcase_shizuoka
