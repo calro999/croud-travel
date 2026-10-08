@@ -428,8 +428,9 @@ def build_showcase_post_content(pref_info):
     return tb
 
 ENGAGEMENT_HISTORY_FILE = "bluesky_engagement_history.txt"
-DAILY_POST_LIMIT = 18 # 1日あたりの上限（1時間おきの配信に対応）
-MIN_INTERVAL_HOURS = 0.8 # 投稿間の最低間隔（約50分。毎時スケジュールの揺らぎを許容）
+DAILY_POST_LIMIT = 12 # 2時間ごとなので1日最大12回
+STRICT_INTERVAL_HOURS = 2.0 # 厳密な2時間間隔（120分）
+MIN_TOLERANCE_HOURS = 1.85 # わずかな時刻ブレ（111分）を許容
 
 def load_engagement_history():
     if os.path.exists(ENGAGEMENT_HISTORY_FILE):
@@ -441,46 +442,54 @@ def record_engagement_history(identifier):
     with open(ENGAGEMENT_HISTORY_FILE, "a", encoding="utf-8") as f:
         f.write(f"{identifier}\n")
 
-def check_post_rate_limit(client):
-    """
-    直近24時間の投稿数と、直近の投稿からの経過時間を判定する。
-    前回投稿から約1時間以上空いていれば投稿を許可する。
-    Returns: (can_post: bool, reason: str)
-    """
+def get_latest_post_time(client):
+    """自身のアカウントの最新投稿時刻(UTC datetime)を取得する"""
     try:
-        author_feed = client.get_author_feed(actor=client.me.did, limit=30)
-        now_utc = datetime.now(timezone.utc)
-
-        posts_last_24h = 0
-        latest_post_time = None
-
+        author_feed = client.get_author_feed(actor=client.me.did, limit=10)
         for item in author_feed.feed:
             post = item.post
             if post.indexed_at:
-                post_dt = datetime.fromisoformat(post.indexed_at.replace("Z", "+00:00"))
-                if latest_post_time is None:
-                    latest_post_time = post_dt
-
-                hours_ago = (now_utc - post_dt).total_seconds() / 3600
-                if hours_ago <= 24:
-                    posts_last_24h += 1
-
-        # 直近投稿からのインターバルチェック（前回の投稿から十分時間が経っているか）
-        if latest_post_time:
-            hours_since_last = (now_utc - latest_post_time).total_seconds() / 3600
-            if hours_since_last < MIN_INTERVAL_HOURS:
-                return False, f"Too soon since last post ({hours_since_last:.1f}h ago < {MIN_INTERVAL_HOURS}h)"
-            else:
-                print(f"[RATE-CHECK] Last post was {hours_since_last:.1f}h ago. Interval check passed.")
-
-        # 直近24時間の投稿数が極端に多い場合のみガード
-        if posts_last_24h >= 24:
-            return False, f"Rolling 24h limit reached ({posts_last_24h}/24)"
-
-        return True, f"OK ({posts_last_24h} posts in past 24h)"
+                return datetime.fromisoformat(post.indexed_at.replace("Z", "+00:00"))
     except Exception as e:
-        print(f"[WARN] Failed to check post rate limit: {e}")
-        return True, "Check failed, allow posting"
+        print(f"[WARN] Failed to fetch latest post time: {e}")
+    return None
+
+def wait_until_ready_for_next_post(client, max_wait_seconds=600):
+    """
+    スキップを禁止し、前回の投稿から2時間（MIN_TOLERANCE_HOURS）経過するまで
+    最大max_wait_seconds（例: 10分）まで粘り強くリトライ待機する。
+    待機時間がmax_wait_secondsを超える（まだ間隔が短すぎる）場合のみFalseを返す。
+    """
+    now_utc = datetime.now(timezone.utc)
+    latest_time = get_latest_post_time(client)
+
+    if not latest_time:
+        print("[INTERVAL-CHECK] No previous posts found. Ready to post immediately.")
+        return True
+
+    elapsed_seconds = (now_utc - latest_time).total_seconds()
+    required_seconds = MIN_TOLERANCE_HOURS * 3600
+    remaining_seconds = required_seconds - elapsed_seconds
+
+    if remaining_seconds <= 0:
+        print(f"[INTERVAL-CHECK] Elapsed {elapsed_seconds / 3600:.2f}h >= {MIN_TOLERANCE_HOURS}h. Ready to post immediately.")
+        return True
+
+    # 待機すれば2時間に達する場合（最大待機リトライ時間以内）
+    if remaining_seconds <= max_wait_seconds:
+        print(f"[INTERVAL-RETRY] Previous post was {elapsed_seconds / 3600:.2f}h ago. Waiting {int(remaining_seconds)}s to fulfill 2-hour interval...")
+        while remaining_seconds > 0:
+            sleep_step = min(15, remaining_seconds)
+            time.sleep(sleep_step)
+            now_utc = datetime.now(timezone.utc)
+            elapsed_seconds = (now_utc - latest_time).total_seconds()
+            remaining_seconds = required_seconds - elapsed_seconds
+            print(f"  [WAITING] Elapsed: {elapsed_seconds / 3600:.2f}h / {MIN_TOLERANCE_HOURS}h")
+        print("[INTERVAL-READY] 2-hour interval reached! Proceeding to post.")
+        return True
+
+    print(f"[INTERVAL-HOLD] Previous post was only {elapsed_seconds / 3600:.2f}h ago. Needs {remaining_seconds / 60:.1f} more minutes (exceeds {max_wait_seconds // 60}m wait limit). Next 30m trigger will handle it.")
+    return False
 
 
 def run_engagement_cycle(client):
@@ -583,13 +592,12 @@ def post_to_bluesky():
         print(f"[ERROR] Failed to login to Bluesky: {e}")
         return False
 
-    # 1. 投稿頻度・間隔チェック（健全なアカウント運用と連投防止）
-    can_post, rate_reason = check_post_rate_limit(client)
-    print(f"[RATE-CHECK] Status: {rate_reason}")
+    # 1. 投稿インターバル判定（スキップ禁止：2時間間隔に達するまで最大10分リトライ待機）
+    should_post_now = wait_until_ready_for_next_post(client, max_wait_seconds=600)
 
-    # 上限または直近投稿から間隔が短すぎる場合は新規ポストをスキップしてエンゲージメント（いいね・フォロー）のみ実施
-    if not can_post:
-        print(f"[RATE-LIMIT] {rate_reason}. Skipping new post to protect account reputation.")
+    # 待機してもまだ間隔が短すぎる場合（直近に投稿したばかり）はエンゲージメント（いいね・フォロー）のみ実施
+    if not should_post_now:
+        print("[POST-DEFER] Interval not reached yet. Running engagement cycle while waiting for next 30m slot.")
         run_engagement_cycle(client)
         print("[COMPLETE] Safe engagement finished. Exiting safely.")
         return True

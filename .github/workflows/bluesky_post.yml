@@ -2,7 +2,9 @@ name: Post High-Quality Travel Article to Bluesky
 
 on:
   schedule:
-    - cron: '30 * * * *' # 毎時1回（30分）実行し、1時間おきに高頻度配信（ホテル紹介と地域魅力紹介を交互に配信）
+    # 混雑する00分を避け、毎時17分・47分（30分おき）に実行
+    # 2時間インターバルに達していない場合はプロセス内でリトライ待機して確実に投稿
+    - cron: '17,47 * * * *'
   workflow_dispatch:
 
 concurrency:
@@ -15,7 +17,7 @@ permissions:
 jobs:
   bluesky-post:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
