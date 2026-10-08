@@ -1,0 +1,37 @@
+{
+  "okinawa_nanjo_sefa_utaki": {
+    "title": "斎場御嶽",
+    "label": "世界遺産・斎場御嶽（琉球王国最高の聖地・新春開運祈願と知念岬初日の出）",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Sangui_%28Triangle_Rock%29_of_Sefa-Utaki.jpg/1280px-Sangui_%28Triangle_Rock%29_of_Sefa-Utaki.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "description": "斎場御嶽（せーふぁーうたき／サイハノうたき）は沖縄県南城市知念にある史跡。15世紀-16世紀の琉球王国・尚真王時代の御嶽であるとされる。「せーふぁ」は「最高位」を意味し、「斎場御嶽」は「最高の御嶽」ほどの意味となり、これは通称である。正式な神名は「君ガ嶽、主ガ嶽ノイビ」という。",
+    "wikiUrl": "https://ja.wikipedia.org/wiki/%E6%96%8E%E5%A0%B4%E5%BE%A1%E5%B6%BD"
+  },
+  "miyazaki_nichinan_obi_castle": {
+    "title": "飫肥",
+    "label": "日州の小京都・飫肥城下町（重要伝統的建造物群保存地区・飫肥杉と武家屋敷）",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Obi%2C_Nichinan%2C_%C5%8Ctemon_Street_01.jpg/1280px-Obi%2C_Nichinan%2C_%C5%8Ctemon_Street_01.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "description": "飫肥（おび）は、宮崎県の南部、日南市中央部にある地区。もと那珂郡飫肥村で、飫肥城を中心とした伊東氏・飫肥藩の旧城下町である。「九州の小京都」とも称され、多くの観光客が訪れている。江戸時代初期からの地割や歴史的風致のある町並みが多く残され重要伝統的建造物群保存地区に選定されている。そのため日南飫肥伝統的建造物群保存地区についても、ここで記述する。",
+    "wikiUrl": "https://ja.wikipedia.org/wiki/%E9%A3%AB%E8%82%A5"
+  },
+  "kochi_aki_noradokei_muroto": {
+    "title": "野良時計",
+    "label": "土佐の小京都・野良時計と土居廓中武家屋敷（手作り大時計の響きと室戸岬だるま朝日）",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Noradokei_02.JPG/1280px-Noradokei_02.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "description": "野良時計（のらどけい）は、高知県安芸市にある時計台である。明治時代に作製され、その地の地主宅に据えられた。安芸平野のほぼ中央に位置し田園風景にたたずむ姿は安芸市の観光名所の一つとなっている。国の登録有形文化財。",
+    "wikiUrl": "https://ja.wikipedia.org/wiki/%E9%87%8E%E8%89%AF%E6%99%82%E8%A8%88"
+  },
+  "ehime_niihama_besshi_ishizuchi": {
+    "title": "別子銅山",
+    "label": "東洋のマチュピチュ・別子銅山東平遺構（標高750mの産業遺産と霊峰石鎚山新春初詣）",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/Besshi_copper_mine.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "description": "別子銅山（べっしどうざん）は、愛媛県新居浜市にあった銅山。総産銅量は日本第2位の約65万トン。日本三大銅山の一つ。 元禄4年（1691年）の開坑から1973年（昭和48年）の閉山まで283年間、一貫して住友家が経営し（閉山時は住友金属鉱山）、関連事業を興すことで発展を続け、住友が日本を代表する巨大財閥となる礎となった。",
+    "wikiUrl": "https://ja.wikipedia.org/wiki/%E5%88%A5%E5%AD%90%E9%8A%85%E5%B1%B1"
+  },
+  "nara_sakurai_oomiwa_shrine": {
+    "title": "大神神社",
+    "label": "大和国一之宮・大神神社（日本最古の神社・三輪山信仰と新春開運初詣）",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Omiwa-jinja_haiden.JPG/1280px-Omiwa-jinja_haiden.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "description": "大神神社（おおみわじんじゃ）は、奈良県桜井市三輪にある神社。式内社（名神大社）、大和国一宮、二十二社（中七社）。旧社格は官幣大社で、現在は神社本庁の別表神社。 旧来は美和乃御諸宮、大神大物主神社と呼ばれた。中世以降は三輪明神と呼ばれ、両部神道の一つ三輪神道の本拠地であった。明治時代になり「大神神社」と改名された。 三輪山を神体山とする。",
+    "wikiUrl": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E7%A5%9E%E7%A5%9E%E7%A4%BE"
+  }
+}
