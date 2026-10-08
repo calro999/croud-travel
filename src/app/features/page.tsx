@@ -111,6 +111,36 @@ export default async function FeaturesPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {[
             {
+              slug: 'winter-mie-kumano-kodo-onigajo-owase-tai-kumanogyu-stay',
+              title: "世界遺産熊野古道と鬼ヶ城の絶景！三重・熊野＆尾鷲・極上尾鷲真鯛と熊野牛名宿5選",
+              desc: "冬こそ歩き頃！温暖な世界遺産・熊野古道伊勢路と奇岩断崖の鬼ヶ城。冬に脂が乗る尾鷲真鯛、幻の熊野牛すき焼きと湯ノ口温泉…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-saitama-chichibu-hyochu-onouchi-ogano-onsen-jibier-stay',
+              title: "尾ノ内百景氷柱と美肌薬師の湯！埼玉・秩父＆小鹿野・猪鹿ぼたん鍋と武州和牛名宿5選",
+              desc: "厳冬の造形美・尾ノ内百景氷柱＆三十槌の氷柱ライトアップ！秩父三社新春初詣、名峰両神山麓の小鹿野温泉と冬の秩父ジビエ鍋…",
+              badge: '12・1月特集'
+            },
+            {
+              slug: 'winter-shiga-yogo-lake-wakasagi-kamonabe-shizugatake-stay',
+              title: "神秘の余呉湖ワカサギと本場天然真鴨鍋！滋賀・長浜湖北・賤ヶ岳雪景色と近江牛名宿5選",
+              desc: "羽衣伝説の鏡湖で冬のワカサギ釣り＆賤ヶ岳雪景色！全国の美食家が唸る本場天然真鴨鍋、最高峰近江牛と信長ゆかりの須賀谷温泉…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-fukushima-tadami-line-yanaizu-onsen-aizujidori-stay',
+              title: "白銀のJR只見線と赤べこ発祥圓蔵寺！福島・奥会津＆柳津・開湯1200年名湯と会津地鶏名宿5選",
+              desc: "世界が絶賛する第一只見川橋梁の雪景色と圓蔵寺の新春初詣！只見川を望む雪見露天風呂、旨味凝縮の会津地鶏鍋と極上馬刺し…",
+              badge: '11・12・1月特集'
+            },
+            {
+              slug: 'winter-miyazaki-ebino-plateau-shiratori-onsen-miyazakigyu-stay',
+              title: "霧島連山樹氷と西郷隆盛癒やしの白鳥温泉！宮崎・えびの高原＆小林・最高峰宮崎牛名宿5選",
+              desc: "標高1200mの白銀世界とえびの高原霧氷！西郷どんが逗留した名湯・白鳥温泉の天然蒸し風呂、日本一の最高峰宮崎牛すき焼き…",
+              badge: '11・12・1月特集'
+            },
+            {
               slug: 'winter-osaka-inunakiyama-onsen-kongosan-juhyo-inunakipork-stay',
               title: "静寂の渓谷露天と金剛山樹氷！大阪・犬鳴山温泉＆ブランド豚・犬鳴ポーク名宿5選",
               desc: "都心から約50分！大阪唯一の秘境・犬鳴山温泉と金剛山の幻想的な冬樹氷。修験道七宝瀧寺の新春初詣、美肌純重曹泉と犬鳴ポーク雪見鍋…",

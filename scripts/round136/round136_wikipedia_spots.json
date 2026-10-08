@@ -1,0 +1,37 @@
+{
+  "mie_kumano_owase_kodo": {
+    "spotLabel": "世界遺産・鬼ヶ城（荒波が削り出した奇岩断崖と熊野古道）",
+    "query": "鬼ヶ城",
+    "pageTitle": "鬼ヶ城",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Oniga-jo01.JPG/1280px-Oniga-jo01.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "description": "鬼ヶ城（おにがじょう）は、三重県熊野市木本町にある海岸景勝地。国の名勝（「熊野の鬼ケ城 附 獅子巖」〈くまののおにがじょう つけたり ししいわ〉）の一部である。 熊野灘の荒波に削られた大小無数の海食洞が、地震による隆起によって階段上に並び、熊野灘に面して約1.2km続いている。志摩半島から続くリアス式海岸の最南端で、これより南はなだらかな砂浜の海岸（七里御浜）へと変わる。東口から山頂へ通じるハイキングコースには桜が植えられており、春には4種類の桜が次から次へと開花して長期間花…"
+  },
+  "saitama_chichibu_hyochu_ogano": {
+    "spotLabel": "厳冬の造形美・三十槌の氷柱＆尾ノ内百景氷柱",
+    "query": "三十槌の氷柱",
+    "pageTitle": "氷柱",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/%E5%8F%A4%E9%96%91%E3%81%AE%E6%BB%9D.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "description": "氷柱（ひょうちゅう、つらら）は氷の柱。特に「つらら」は岩場や建物の軒下などから水滴が垂れてできる棒状に伸びた氷を指す。 1983年（昭和58年）の対馬勝年らの提案では、水滴が凍結して下方に伸びたものを「つらら」、下から上方に伸びたものを「氷筍」、両者が接合したものを「氷柱」と呼ぶことを提案している。"
+  },
+  "shiga_yogo_lake_wakasagi": {
+    "spotLabel": "羽衣伝説の鏡湖・余呉湖（冬のワカサギ釣りと賤ヶ岳雪景色）",
+    "query": "余呉湖",
+    "pageTitle": "余呉湖",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Lake_Yogo01s3200.jpg/1280px-Lake_Yogo01s3200.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "description": "余呉湖（よごこ、よごのうみ）は、滋賀県長浜市にある湖。「大江」（琵琶湖）に対して「伊香小江（いかごのおえ）」と称されたほか、湖面が穏やかなことから「鏡湖」とも呼ばれる。"
+  },
+  "fukushima_tadami_yanaizu": {
+    "spotLabel": "霊場・福満虚空藏菩薩圓蔵寺（赤べこ発祥と冬の只見川絶景）",
+    "query": "圓蔵寺 (福島県会津柳津町)",
+    "pageTitle": "柳津町",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/%E5%9C%93%E8%94%B5%E5%AF%BA_-_panoramio_%282%29.jpg/1280px-%E5%9C%93%E8%94%B5%E5%AF%BA_-_panoramio_%282%29.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "description": "柳津町（やないづまち）は、福島県会津地方（奥会津）に位置し、河沼郡に属する町。 奥会津の入り口に位置し、圓蔵寺の門前町として発展してきた。赤べこ伝説発祥の地である。"
+  },
+  "miyazaki_ebino_plateau_shiratori": {
+    "spotLabel": "霧島連山の秀峰と白銀パノラマ・えびの高原",
+    "query": "えびの高原",
+    "pageTitle": "えびの高原",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Ebino_Plateau.jpg/1280px-Ebino_Plateau.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "description": "えびの高原（えびのこうげん）は、九州南部に連なる霧島山の韓国岳、蝦野岳、白鳥山、甑岳に囲まれた盆地状の高原である。"
+  }
+}
