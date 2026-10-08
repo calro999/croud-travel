@@ -1,0 +1,37 @@
+{
+  "fukuoka_fukutsu_miyajidake": {
+    "spotLabel": "開運の巨刹・宮地嶽神社（日本一の大注連縄と夕日絶景「光の道」）",
+    "query": "宮地嶽神社",
+    "pageTitle": "宮地嶽神社",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Haiden_of_Miyajidake_Shrine.JPG/1280px-Haiden_of_Miyajidake_Shrine.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "description": "宮地嶽神社（みやじだけじんじゃ）は、福岡県福津市にある神社。年に2度、「光の道」とよばれる境内石段から玄界灘に浮かぶ相島まで真っすぐ伸びる参道の延長線上に夕日が沈むことで知られる。"
+  },
+  "yamagata_tendo_yamadera_snow": {
+    "spotLabel": "奇岩霊山・宝珠山立石寺（山寺・冬の白銀水墨画パノラマ）",
+    "query": "立石寺",
+    "pageTitle": "立石寺",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Risshaku-ji_konponchudo.jpg/1280px-Risshaku-ji_konponchudo.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "description": "立石寺（りっしゃくじ）は、山形県山形市にある、天台宗の仏教寺院。山寺（やまでら）の通称で知られ、古くは「りゅうしゃくじ」と称した。正式には宝珠山阿所川院立石寺（ほうじゅさんあそかわいんりっしゃくじ）と称する。本尊は薬師如来。 蔵王国定公園（第2種特別地域）に指定されており、円仁が開山した四寺（他は中尊寺・毛越寺、瑞巌寺）を巡る「四寺廻廊」を構成しているほか、若松寺と慈恩寺を含めて巡る出羽名刹三寺まいりを構成する。"
+  },
+  "ibaraki_kashima_jingu_hatsumode": {
+    "spotLabel": "東国三社筆頭・常陸国一宮 鹿島神宮（武甕槌大神の霊場と御手洗池）",
+    "query": "鹿島神宮",
+    "pageTitle": "鹿島神宮",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Kashima-jingu_haiden-1.JPG/1280px-Kashima-jingu_haiden-1.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "description": "鹿島神宮（かしまじんぐう、鹿嶋神宮）は、茨城県鹿嶋市宮中にある神社。式内社（名神大社）、常陸国一宮。旧社格は官幣大社で、現在は神社本庁の別表神社。 全国にある鹿島神社の総本社。千葉県香取市の香取神宮、茨城県神栖市の息栖神社とともに東国三社の一社。また、宮中の四方拝で遥拝される一社である。"
+  },
+  "niigata_teradomari_yomogihira": {
+    "spotLabel": "日本海魚のアメ横・寺泊海岸通り（冬のズワイガニと寒ブリ市場）",
+    "query": "寺泊町",
+    "pageTitle": "寺泊町",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Teradomari_Fish_Market_Street_20081013.jpg/1280px-Teradomari_Fish_Market_Street_20081013.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "description": "寺泊町（てらどまりまち）は、新潟県の中部にかつて存在した三島郡の町。2006年1月1日長岡市に編入され消滅した。西廻り航路の港町、北陸街道の宿場町として知られていた町である。本州の中では佐渡島と最短の距離にあり、佐渡との間を佐渡汽船が定期航路を運航していたほか、古くから佐渡と本土を結ぶ拠点となっていた。"
+  },
+  "nara_shigisan_chogosonshiji": {
+    "spotLabel": "毘沙門天王総本山・信貴山朝護孫子寺（世界一の福寅と登録有形文化財開運橋）",
+    "query": "朝護孫子寺",
+    "pageTitle": "朝護孫子寺",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/190104_Chogosonshiji_Heguri_Nara_pref_Japan01s3.jpg/1280px-190104_Chogosonshiji_Heguri_Nara_pref_Japan01s3.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "description": "朝護孫子寺（ちょうごそんしじ）は、奈良県生駒郡平群町信貴山にある信貴山真言宗の総本山の寺院。山号は信貴山。本尊は毘沙門天。「信貴山寺」とも称し、一般には「信貴山の毘沙門さん」として知られる。初詣や「寅まつり」（2月下旬）は多くの参拝客でにぎわう。神仏習合の名残から、境内には鳥居も並んでいる。"
+  }
+}
