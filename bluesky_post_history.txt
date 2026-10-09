@@ -14,3 +14,4 @@ inawashiro-urabandai-goshikinuma-hotels-guide
 showcase_hyogo
 onna-yomitan-nago-hotels-guide
 showcase_nara
+gero-ogawaya-tatami-bath-spa-guide
