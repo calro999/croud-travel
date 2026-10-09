@@ -17,3 +17,4 @@ showcase_nara
 gero-ogawaya-tatami-bath-spa-guide
 showcase_okinawa
 toyama-famous-things-gourmet-spots-guide
+showcase_oita
