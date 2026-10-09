@@ -1,0 +1,37 @@
+{
+  "kagoshima_chiran_makurazaki": {
+    "title": "武家屋敷通り (南九州市)",
+    "label": "薩摩の小京都・知覧武家屋敷庭園（国の名勝・生垣と枯山水美・開聞岳パノラマ）",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Chiran_Fumoto_01.JPG/1280px-Chiran_Fumoto_01.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "description": "武家屋敷通り（ぶけやしきどおり）は、鹿児島県南九州市知覧町郡にある道路。行政上の正式な路線名は、南九州市道城馬場線（しろばばせん）、通称・武家屋敷通り線という。重要伝統的建造物群保存地区の中を東西に通る延長約0.8kmの侍町の通りであり、薩摩藩による藩政時代は、鹿児島への往来に使われた街道でもある。",
+    "wikiUrl": "https://ja.wikipedia.org/wiki/%E6%AD%A6%E5%AE%B6%E5%B1%8B%E6%95%B7%E9%80%9A%E3%82%8A%20%28%E5%8D%97%E4%B9%9D%E5%B7%9E%E5%B8%82%29"
+  },
+  "saitama_gyoda_oshi_castle": {
+    "title": "忍城",
+    "label": "武蔵国屈指の名城・忍城（のぼうの城の舞台・御三階櫓の雪景色と足袋蔵の街並み）",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Oshi-jo.JPG/1280px-Oshi-jo.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "description": "忍城（おしじょう）は、埼玉県行田市（武蔵国埼玉郡忍）にあった日本の城。埼玉県指定旧跡。 室町時代中期の文明年間に成田氏によって築城されたと伝えられており、北を利根川、南を荒川に挟まれた扇状地に点在する広大な沼地と自然堤防を生かした構造となっている。数度の城攻めを受けて、一度も落城しなかった要害堅固な城として知られる。戦国時代には関東七名城の一つとされ、1590年（天正18年）に豊臣秀吉の小田原征伐に伴い発生した攻城戦豊臣に際し、豊臣方の水攻めに耐え抜いた逸話から浮き城または亀城と称された。 江戸時代に入ると忍藩の藩庁あるいは徳川氏の譜…",
+    "wikiUrl": "https://ja.wikipedia.org/wiki/%E5%BF%8D%E5%9F%8E"
+  },
+  "ibaraki_sakuragawa_makabe": {
+    "title": "真壁町",
+    "label": "常陸国の蔵の街・真壁の町並み（重要伝統的建造物群保存地区・潮田家見世蔵と筑波山神社初詣）",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Ushioda-ke_House.JPG/1280px-Ushioda-ke_House.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "description": "真壁町（まかべまち）は茨城県桜川市内の町である。市町村合併の前は、真壁郡にあった。",
+    "wikiUrl": "https://ja.wikipedia.org/wiki/%E7%9C%9F%E5%A3%81%E7%94%BA"
+  },
+  "yamanashi_otsuki_saruhashi": {
+    "title": "猿橋",
+    "label": "日本三奇橋・名勝猿橋（桂川の深い渓谷美と浮世絵の情景・秀麗富嶽富士パノラマ）",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Saru_hashi-1a.jpg/1280px-Saru_hashi-1a.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "description": "猿橋（さるはし、えんきょう）は、山梨県大月市猿橋町猿橋の桂川に架かる刎橋。 日本三奇橋に数えられ、国の名勝に指定されている。",
+    "wikiUrl": "https://ja.wikipedia.org/wiki/%E7%8C%BF%E6%A9%8B"
+  },
+  "saga_kashima_hizenhamashuku": {
+    "title": "鹿島市浜庄津町浜金屋町",
+    "label": "肥前浜宿酒蔵通り（重要伝統的建造物群保存地区・白壁土蔵の冬新酒情緒と祐徳稲荷新春初詣）",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Hamasyuku_kashima_saga_japan.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "description": "鹿島市浜庄津町浜金屋町（かしましはましょうづまちはまかなやまち）は、佐賀県鹿島市にある重要伝統的建造物群保存地区。鹿島市浜町の一部、約2.0haの範囲である。",
+    "wikiUrl": "https://ja.wikipedia.org/wiki/%E9%B9%BF%E5%B3%B6%E5%B8%82%E6%B5%9C%E5%BA%84%E6%B4%A5%E7%94%BA%E6%B5%9C%E9%87%91%E5%B1%8B%E7%94%BA"
+  }
+}
